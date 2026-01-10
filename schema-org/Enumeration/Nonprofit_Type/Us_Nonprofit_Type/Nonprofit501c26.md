@@ -9,21 +9,44 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: USNonprofitType
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - nonprofit501c26
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_nonprofit501c26 Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_nonprofit501c26 Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../USNonprofitType]]"
+  enum_of: "[[../USNonprofitType]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c26|Nonprofit501c26]]"
+    - "[[/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c26.public|Nonprofit501c26.public]]"
+    - "[[/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c26.internal|Nonprofit501c26.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c26.protect|Nonprofit501c26.protect]]"
+    - "[[/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c26.private|Nonprofit501c26.private]]"
+    - "[[/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c26.personal|Nonprofit501c26.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c26.secret|Nonprofit501c26.secret]]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../USNonprofitType]]"
+dv_is_enum_of: "[[../USNonprofitType]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c26|Nonprofit501c26]]"
+  - "[[/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c26.public|Nonprofit501c26.public]]"
+  - "[[/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c26.internal|Nonprofit501c26.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c26.protect|Nonprofit501c26.protect]]"
+  - "[[/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c26.private|Nonprofit501c26.private]]"
+  - "[[/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c26.personal|Nonprofit501c26.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c26.secret|Nonprofit501c26.secret]]"
 ---
 
 Class of all nonprofit501c26s.
@@ -31,14 +54,13 @@ Class of all nonprofit501c26s.
 Tag Instances like this: 
 #is_a_/nonprofit501c26
 
-[ #is_/part_of :: https://pending.schema.org ]
+is_part_of = `=this.dv_is_part_of` 
 
 Nonprofit501c26: Non-profit type referring to State~Sponsored Organizations Providing Health Coverage for High-Risk Individuals.
 
-[ #is_/sub_class_of :: [[../USNonprofitType]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #is_/enum_of :: [[../USNonprofitType]] ]
-
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

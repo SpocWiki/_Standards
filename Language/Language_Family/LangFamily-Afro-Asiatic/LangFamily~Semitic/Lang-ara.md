@@ -216,7 +216,9 @@ has_grammatical_person:
  # [[Lang-ara]] 
 
 [SpocWebEntityId:: 472 ]
-[has_/name::Arabic]
+
+has_/name::Arabic 
+
 [PropId_Name::772]
 [PropId_Text::672]
 [LangFamilyId::236]

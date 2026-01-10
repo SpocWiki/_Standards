@@ -27,18 +27,19 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/away_team :: Person, SportsTeam ] or 
+- [has_/away_team :: Person, SportsTeam ] 
 - [ has_away_team :: Person, SportsTeam ] 
 
 The 'away' team in a sports event.
 
 Relation describes that: 
-[ #has_/domain  :: SportsEvent ]
+
+#has_/domain  :: SportsEvent  
+
 ( #has_/name :: has_away_team )
 ( #has_/range :: Person, SportsTeam )
 
-[ #is_/sub_property_of  :: competitor ]
-
+#is_/sub_property_of  :: competitor  
 
 ## Confidential Links & Embeds: 
 

@@ -10,33 +10,62 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - publisher
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_publisher
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_publisher
 type: Predi_Relation
+dv_has_:
+  publisher: Organization, Person
+  domain: CreativeWork
+dv_has_publisher: Organization, Person
+dv_#has_:
+  name: is_publisher
+  range: Organization, Person
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_publisher|has_publisher]]"
+    - "[[/_public/schema-org/Relation/has/has_publisher.public|has_publisher.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_publisher.internal|has_publisher.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_publisher.protect|has_publisher.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_publisher.private|has_publisher.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_publisher.personal|has_publisher.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_publisher.secret|has_publisher.secret]]"
+dv_has_domain: CreativeWork
+dv_has_name: is_publisher
+dv_has_range: Organization, Person
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_publisher|has_publisher]]"
+  - "[[/_public/schema-org/Relation/has/has_publisher.public|has_publisher.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_publisher.internal|has_publisher.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_publisher.protect|has_publisher.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_publisher.private|has_publisher.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_publisher.personal|has_publisher.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_publisher.secret|has_publisher.secret]]"
 ---
 
 Use it like this: 
-- [ #has_/publisher :: Organization, Person ] or 
-- [ has_publisher :: Organization, Person ] 
+- has_publisher = `=this.dv_has_publisher`  
+- has_publisher = `=this.dv_has_publisher`  
 
 The publisher of the creative work. 
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork ] 
-( #has_/name :: is_publisher )
-( #has_/range :: Organization, Person )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

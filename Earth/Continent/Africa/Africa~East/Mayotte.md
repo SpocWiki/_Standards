@@ -41,7 +41,7 @@ dv_ISO4217-currency_country_name: MAYOTTE
 dv_Telephone: 262
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Mayotte
+dv_has_name: Mayotte
 dv_has_name_en: Mayotte
 dv_has_name_es: Mayotte
 dv_has_name_fr: Mayotte
@@ -118,7 +118,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 [	has_name_en	 :: Mayotte ]
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`

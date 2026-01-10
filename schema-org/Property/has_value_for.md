@@ -3,6 +3,23 @@ aliases:
   - has_value_for
   - has value for
 icon: ril_numbers
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_value_for|has_value_for]]"
+    - "[[/_public/schema-org/Property/has_value_for.public|has_value_for.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for.internal|has_value_for.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for.protect|has_value_for.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for.private|has_value_for.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for.personal|has_value_for.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for.secret|has_value_for.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_value_for|has_value_for]]"
+  - "[[/_public/schema-org/Property/has_value_for.public|has_value_for.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for.internal|has_value_for.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for.protect|has_value_for.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for.private|has_value_for.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for.personal|has_value_for.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for.secret|has_value_for.secret]]"
 ---
 
 # Quantities 

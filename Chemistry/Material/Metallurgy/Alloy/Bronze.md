@@ -30,11 +30,39 @@ Dewey_Decimal_Classification:
   - "620.182"
   - "669.3"
   - "673.3"
+dv_is_:
+  similar_to: "[[Brass]]"
+  same_as:
+    - "[[../../../../WikiData/WD~Bronze,34095|WD~Bronze,34095]]"
+    - "[[/_Standards/Chemistry/Material/Metallurgy/Alloy/Bronze|Bronze]]"
+    - "[[/_public/Chemistry/Material/Metallurgy/Alloy/Bronze.public|Bronze.public]]"
+    - "[[/_internal/Chemistry/Material/Metallurgy/Alloy/Bronze.internal|Bronze.internal]]"
+    - "[[/_protect/Chemistry/Material/Metallurgy/Alloy/Bronze.protect|Bronze.protect]]"
+    - "[[/_private/Chemistry/Material/Metallurgy/Alloy/Bronze.private|Bronze.private]]"
+    - "[[/_personal/Chemistry/Material/Metallurgy/Alloy/Bronze.personal|Bronze.personal]]"
+    - "[[/_secret/Chemistry/Material/Metallurgy/Alloy/Bronze.secret|Bronze.secret]]"
+dv_has_:
+  parts:
+    - "[[../../../Chemical_Element/Group-11-Copper/Copper|Copper]]"
+    - "[[../../../Chemical_Element/Group-14-Carbon/Tin|Tin]]"
+dv_is_similar_to: "[[Brass]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Bronze,34095|WD~Bronze,34095]]"
+  - "[[/_Standards/Chemistry/Material/Metallurgy/Alloy/Bronze|Bronze]]"
+  - "[[/_public/Chemistry/Material/Metallurgy/Alloy/Bronze.public|Bronze.public]]"
+  - "[[/_internal/Chemistry/Material/Metallurgy/Alloy/Bronze.internal|Bronze.internal]]"
+  - "[[/_protect/Chemistry/Material/Metallurgy/Alloy/Bronze.protect|Bronze.protect]]"
+  - "[[/_private/Chemistry/Material/Metallurgy/Alloy/Bronze.private|Bronze.private]]"
+  - "[[/_personal/Chemistry/Material/Metallurgy/Alloy/Bronze.personal|Bronze.personal]]"
+  - "[[/_secret/Chemistry/Material/Metallurgy/Alloy/Bronze.secret|Bronze.secret]]"
+dv_has_parts:
+  - "[[../../../Chemical_Element/Group-11-Copper/Copper|Copper]]"
+  - "[[../../../Chemical_Element/Group-14-Carbon/Tin|Tin]]"
 ---
 
 # [[Bronze]] 
 
-#is_/similar_to :: [[Brass]] 
+is_similar_to = `=this.dv_is_similar_to` 
 #is_/same_as :: [[../../../../WikiData/WD~Bronze,34095|WD~Bronze,34095]] 
 #has_/parts :: [[../../../Chemical_Element/Group-11-Copper/Copper|Copper]] 
 #has_/parts :: [[../../../Chemical_Element/Group-14-Carbon/Tin|Tin]]  

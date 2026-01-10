@@ -9,21 +9,44 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: USNonprofitType
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - nonprofit501c16
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_nonprofit501c16 Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_nonprofit501c16 Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../USNonprofitType]]"
+  enum_of: "[[../USNonprofitType]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c16|Nonprofit501c16]]"
+    - "[[/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c16.public|Nonprofit501c16.public]]"
+    - "[[/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c16.internal|Nonprofit501c16.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c16.protect|Nonprofit501c16.protect]]"
+    - "[[/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c16.private|Nonprofit501c16.private]]"
+    - "[[/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c16.personal|Nonprofit501c16.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c16.secret|Nonprofit501c16.secret]]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../USNonprofitType]]"
+dv_is_enum_of: "[[../USNonprofitType]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c16|Nonprofit501c16]]"
+  - "[[/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c16.public|Nonprofit501c16.public]]"
+  - "[[/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c16.internal|Nonprofit501c16.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c16.protect|Nonprofit501c16.protect]]"
+  - "[[/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c16.private|Nonprofit501c16.private]]"
+  - "[[/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c16.personal|Nonprofit501c16.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c16.secret|Nonprofit501c16.secret]]"
 ---
 
 Class of all nonprofit501c16s.
@@ -31,14 +54,13 @@ Class of all nonprofit501c16s.
 Tag Instances like this: 
 #is_a_/nonprofit501c16
 
-[ #is_/part_of :: https://pending.schema.org ]
+is_part_of = `=this.dv_is_part_of` 
 
 Nonprofit501c16: Non-profit type referring to Cooperative Organizations to Finance Crop Operations.
 
-[ #is_/sub_class_of :: [[../USNonprofitType]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #is_/enum_of :: [[../USNonprofitType]] ]
-
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

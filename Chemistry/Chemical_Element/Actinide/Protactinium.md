@@ -3,28 +3,28 @@ aliases:
   - Protactinium
 has_id_wikidata: Q1109
 atomic_number: 91
-canonical_SMILES: '[Pa]'
+canonical_SMILES: "[Pa]"
 CAS_Registry_Number: 7440-13-3
 chemical_formula: Pa
 Commons_category: Protactinium
 Commons_gallery: Protactinium
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
 Dewey_Decimal_Classification:
   - 546.423
   - 669.2924
 discoverer_or_inventor:
-  - '[[_Standards/WikiData/WD~Kazimierz_Fajans,213667]]'
-  - '[[_Standards/WikiData/WD~Lise_Meitner,56189]]'
-  - '[[_Standards/WikiData/WD~Otto_Hahn,57065]]'
+  - "[[_Standards/WikiData/WD~Kazimierz_Fajans,213667]]"
+  - "[[_Standards/WikiData/WD~Lise_Meitner,56189]]"
+  - "[[_Standards/WikiData/WD~Otto_Hahn,57065]]"
 DSSTOX_compound_identifier: DTXCID50147878
 EC_number: 616-087-9
 electronegativity: 2
 element_symbol: Pa
-found_in_taxon: '[[_Standards/WikiData/WD~Paris_polyphylla_var._chinensis,10905961]]'
+found_in_taxon: "[[_Standards/WikiData/WD~Paris_polyphylla_var._chinensis,10905961]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Protactinium-233.jpg
 InChI: InChI=1S/Pa
 InChIKey: XLROVYAPLOFLNU-UHFFFAOYSA-N
-instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
+instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
 ionic_radius:
   - 0.9
   - 0.78
@@ -36,48 +36,135 @@ MeSH_tree_code:
   - D01.496.749.305.100.725
   - D01.552.020.778
   - D01.552.544.750
-named_after: '[[_Standards/WikiData/WD~actinium,1121]]'
+named_after: "[[_Standards/WikiData/WD~actinium,1121]]"
 OmegaWiki_Defined_Meaning: 345414
 part_of:
-  - '[[_Standards/WikiData/WD~period_7,244979]]'
-  - '[[_Standards/WikiData/WD~actinide,19577]]'
+  - "[[_Standards/WikiData/WD~period_7,244979]]"
+  - "[[_Standards/WikiData/WD~actinide,19577]]"
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20150.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-protactinium.wav
 PubChem_CID: 23945
 SpocWebEntityId: 21986
 time_of_discovery_or_invention: 1917
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_protactinium,8085338]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_protactinium,8085338]]"
 type: Element
 UMLS_CUI: C0033597
 Unicode_character: 鏷
 UNII: 0S6855V29M
+dv_has_:
+  name_:
+    group: Actinide-Group
+    en: Protactinium
+    de: Protactinium
+    abbreviated: Pa
+  value_for_:
+    weight_:
+      u: 231.0359
+    radius: 0
+    volume_:
+      ccm_:
+        mol: 15
+    unknown2: 0
+    radius_:
+      nano_:
+        m: 5.89
+    electronegativity: 1.5
+    density: 15.4
+    temperature_:
+      melt_:
+        c: 0
+      boil_:
+        c: 0
+    capacity_:
+      heat: 0
+    conductivity_:
+      heat: 0.47
+    enthalpy: 12.3
+    energy_:
+      form_:
+        kj_:
+          mol: 0
+  number_of_:
+    period: 7
+    group: 25
+    electrons: 91
+dv_is_:
+  part_of: "[[../Actinide]]"
+  same_as:
+    - "[[../../../WikiData/WD~Protactinium,1109]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Actinide/Protactinium|Protactinium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Actinide/Protactinium.public|Protactinium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Actinide/Protactinium.internal|Protactinium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Actinide/Protactinium.protect|Protactinium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Actinide/Protactinium.private|Protactinium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Actinide/Protactinium.personal|Protactinium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Actinide/Protactinium.secret|Protactinium.secret]]"
+dv_has_name_group: Actinide-Group
+dv_is_part_of: "[[../Actinide]]"
+dv_has_name_en: Protactinium
+dv_has_name_de: Protactinium
+dv_has_name_abbreviated: Pa
+dv_has_value_for_weight_u: 231.0359
+dv_has_value_for_radius: 0
+dv_has_value_for_volume_ccm_mol: 15
+dv_has_value_for_unknown2: 0
+dv_has_value_for_radius_nano_m: 5.89
+dv_has_value_for_electronegativity: 1.5
+dv_has_value_for_density: 15.4
+dv_has_value_for_temperature_melt_c: 0
+dv_has_value_for_temperature_boil_c: 0
+dv_has_value_for_capacity_heat: 0
+dv_has_value_for_conductivity_heat: 0.47
+dv_has_value_for_enthalpy: 12.3
+dv_has_value_for_energy_form_kj_mol: 0
+dv_has_number_of_period: 7
+dv_has_number_of_group: 25
+dv_has_number_of_electrons: 91
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Protactinium,1109]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Actinide/Protactinium|Protactinium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Actinide/Protactinium.public|Protactinium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Actinide/Protactinium.internal|Protactinium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Actinide/Protactinium.protect|Protactinium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Actinide/Protactinium.private|Protactinium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Actinide/Protactinium.personal|Protactinium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Actinide/Protactinium.secret|Protactinium.secret]]"
 ---
 
 # [[Protactinium]]
 
 #chemic/Element 
-[GroupName::Actinide-Group]
-Group::[[../Actinide]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
-[#has_/name_/en::Protactinium]
-[#has_/name_/de::Protactinium]
-(Abbr::Pa)
-[#has_/value_for_/weight_/u::231.0359]
-[AtomRadius::0]
-[Atom-Vol-ccm-mol::15]
-[Unknown2::0]
-[#has_/value_for_/radius_/nano_/m::5.89]
-[Electronegative::1.5]
-[Density::15.4]
-[#has_/value_for_/temperature_/melt_/c ::0]
-[#has_/value_for_/temperature_/boil_/c ::0]
-[HeatCapacity::0]
-[HeatConduct::0.47]
-[Enthalpy::12.3]
-[FormEnergy-kj-mol::0]
-(PeriodNo::7)
-(GroupNo::25)
-(Charge-e::91)
+has_name_en = `=this.dv_has_name_en` 
+
+has_name_de = `=this.dv_has_name_de` 
+
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
+
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
+
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
+
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
+
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
+
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
+
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
+
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
+has_number_of_group = `=this.dv_has_number_of_group` 
+has_number_of_electrons = `=this.dv_has_number_of_electrons` 
 
 #is_/same_as :: [[../../../WikiData/WD~Protactinium,1109]] 
 

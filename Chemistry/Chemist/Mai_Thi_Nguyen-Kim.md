@@ -1,7 +1,33 @@
+---
+dv_has_:
+  time_:
+    started: 1987-08-07T00:00:00.000+02:00
+  age_:
+    years: 38
+dv_is_:
+  same_as:
+    - "[[/_Standards/Chemistry/Chemist/Mai_Thi_Nguyen-Kim|Mai_Thi_Nguyen-Kim]]"
+    - "[[/_public/Chemistry/Chemist/Mai_Thi_Nguyen-Kim.public|Mai_Thi_Nguyen-Kim.public]]"
+    - "[[/_internal/Chemistry/Chemist/Mai_Thi_Nguyen-Kim.internal|Mai_Thi_Nguyen-Kim.internal]]"
+    - "[[/_protect/Chemistry/Chemist/Mai_Thi_Nguyen-Kim.protect|Mai_Thi_Nguyen-Kim.protect]]"
+    - "[[/_private/Chemistry/Chemist/Mai_Thi_Nguyen-Kim.private|Mai_Thi_Nguyen-Kim.private]]"
+    - "[[/_personal/Chemistry/Chemist/Mai_Thi_Nguyen-Kim.personal|Mai_Thi_Nguyen-Kim.personal]]"
+    - "[[/_secret/Chemistry/Chemist/Mai_Thi_Nguyen-Kim.secret|Mai_Thi_Nguyen-Kim.secret]]"
+dv_has_time_started: 1987-08-07
+dv_has_age_years: 38
+dv_is_same_as:
+  - "[[/_Standards/Chemistry/Chemist/Mai_Thi_Nguyen-Kim|Mai_Thi_Nguyen-Kim]]"
+  - "[[/_public/Chemistry/Chemist/Mai_Thi_Nguyen-Kim.public|Mai_Thi_Nguyen-Kim.public]]"
+  - "[[/_internal/Chemistry/Chemist/Mai_Thi_Nguyen-Kim.internal|Mai_Thi_Nguyen-Kim.internal]]"
+  - "[[/_protect/Chemistry/Chemist/Mai_Thi_Nguyen-Kim.protect|Mai_Thi_Nguyen-Kim.protect]]"
+  - "[[/_private/Chemistry/Chemist/Mai_Thi_Nguyen-Kim.private|Mai_Thi_Nguyen-Kim.private]]"
+  - "[[/_personal/Chemistry/Chemist/Mai_Thi_Nguyen-Kim.personal|Mai_Thi_Nguyen-Kim.personal]]"
+  - "[[/_secret/Chemistry/Chemist/Mai_Thi_Nguyen-Kim.secret|Mai_Thi_Nguyen-Kim.secret]]"
+---
 
 
-#has_/time_/started :: 1987-08-07 
-#has_/age_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)`
+has_time_started = `=this.dv_has_time_started` 
+#has_/age_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().dv_has_time_started)/1000/60/60/24/365.2425)`
 
 ## #has_/text_of_/abstract 
 

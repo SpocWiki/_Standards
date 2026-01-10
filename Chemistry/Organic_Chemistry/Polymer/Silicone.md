@@ -5,13 +5,13 @@ aliases:
   - polysiloxane
   - Silicone
 has_id_wikidata: Q146439
-subclass_of: '[[_Standards/WikiData/WD~polymer,81163]]'
-polymer_of: '[[_Standards/WikiData/WD~polydimethylsiloxane,411955]]'
-has_characteristic: '[[_Standards/WikiData/WD~thermal_resistance,1047234]]'
+subclass_of: "[[_Standards/WikiData/WD~polymer,81163]]"
+polymer_of: "[[_Standards/WikiData/WD~polydimethylsiloxane,411955]]"
+has_characteristic: "[[_Standards/WikiData/WD~thermal_resistance,1047234]]"
 different_from:
-  - '[[_Standards/WikiData/WD~silicone_rubber,4115245]]'
-  - '[[_Standards/WikiData/WD~silicon,670]]'
-instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
+  - "[[_Standards/WikiData/WD~silicone_rubber,4115245]]"
+  - "[[_Standards/WikiData/WD~silicon,670]]"
+instance_of: "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Liquid-silicon-rubber.jpg
 UNSPSC_Code: 12352310
 ATC_code: A03AX13
@@ -23,6 +23,31 @@ MeSH_tree_code:
   - J01.637.051.720.900.850
 Krugosvet_article_archived_: nauka_i_tehnika/himiya/KREMNIORGANICHESKIE_POLIMERI.html
 Commons_category: Silicones
+dv_is_:
+  different_from:
+    - "[[../../Chemical_Element/Group-14-Carbon/Silicon|Silicon]]"
+    - "[[../../Chemical_Element/Group-14-Carbon/Silicon|Silicon]]"
+  same_as:
+    - "[[../../../WikiData/WD~Silicone,146439]]"
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Polymer/Silicone|Silicone]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Polymer/Silicone.public|Silicone.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Polymer/Silicone.internal|Silicone.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Polymer/Silicone.protect|Silicone.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Polymer/Silicone.private|Silicone.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Polymer/Silicone.personal|Silicone.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Polymer/Silicone.secret|Silicone.secret]]"
+dv_is_different_from:
+  - "[[../../Chemical_Element/Group-14-Carbon/Silicon|Silicon]]"
+  - "[[../../Chemical_Element/Group-14-Carbon/Silicon|Silicon]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Silicone,146439]]"
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Polymer/Silicone|Silicone]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Polymer/Silicone.public|Silicone.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Polymer/Silicone.internal|Silicone.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Polymer/Silicone.protect|Silicone.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Polymer/Silicone.private|Silicone.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Polymer/Silicone.personal|Silicone.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Polymer/Silicone.secret|Silicone.secret]]"
 ---
 
 # [[Silicone]] 

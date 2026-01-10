@@ -24,21 +24,22 @@ title: has_funding
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/funding :: Grant ] or 
+- [has_/funding :: Grant ] 
 - [ has_funding :: Grant ] 
 
 A [[Grant]] that directly or indirectly provide funding or sponsorship for this item. See also [[ownershipFundingInfo]].
 
 Relation describes that: 
-[ #has_/domain  :: BioChemEntity, CreativeWork, Event, MedicalEntity, Organization, Person, Product ]
+
+#has_/domain  :: BioChemEntity, CreativeWork, Event, MedicalEntity, Organization, Person, Product  
+
 ( #has_/name :: has_funding )
 ( #has_/range :: Grant )
 
-[ #is_/inverse_of  :: [[is_funding_item]] ]
-
+#is_/inverse_of  :: [[is_funding_item]]  
 
 ## Confidential Links & Embeds: 
 

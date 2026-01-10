@@ -55,11 +55,33 @@ UMLS_CUI:
 DSSTOX_compound_identifier: DTXCID609692
 Commons_category: Potassium nitrate
 RTECS_number: TT3700000
+dv_has_:
+  formula_: KNO³
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Potassium_nitrate,177836|WD~Potassium_nitrate,177836]]"
+    - "[[/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Potassium_Nitrate|Potassium_Nitrate]]"
+    - "[[/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Potassium_Nitrate.public|Potassium_Nitrate.public]]"
+    - "[[/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Potassium_Nitrate.internal|Potassium_Nitrate.internal]]"
+    - "[[/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Potassium_Nitrate.protect|Potassium_Nitrate.protect]]"
+    - "[[/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Potassium_Nitrate.private|Potassium_Nitrate.private]]"
+    - "[[/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Potassium_Nitrate.personal|Potassium_Nitrate.personal]]"
+    - "[[/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Potassium_Nitrate.secret|Potassium_Nitrate.secret]]"
+dv_has_formula_: KNO³
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Potassium_nitrate,177836|WD~Potassium_nitrate,177836]]"
+  - "[[/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Potassium_Nitrate|Potassium_Nitrate]]"
+  - "[[/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Potassium_Nitrate.public|Potassium_Nitrate.public]]"
+  - "[[/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Potassium_Nitrate.internal|Potassium_Nitrate.internal]]"
+  - "[[/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Potassium_Nitrate.protect|Potassium_Nitrate.protect]]"
+  - "[[/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Potassium_Nitrate.private|Potassium_Nitrate.private]]"
+  - "[[/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Potassium_Nitrate.personal|Potassium_Nitrate.personal]]"
+  - "[[/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Potassium_Nitrate.secret|Potassium_Nitrate.secret]]"
 ---
 
 # [[Potassium_Nitrate]] 
 
-#has_/formula_ :: KNO³ 
+has_formula_ = `=this.dv_has_formula_` 
 #is_/same_as :: [[../../../../WikiData/WD~Potassium_nitrate,177836|WD~Potassium_nitrate,177836]]  
 
 ## #has_/text_of_/abstract 

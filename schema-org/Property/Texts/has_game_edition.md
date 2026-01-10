@@ -11,36 +11,66 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - game
   - edition
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_game_edition
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_game_edition
 type: Pred_Text
+dv_has_:
+  text_of_:
+    game_edition: Text
+  domain: VideoGame
+dv_has_text_of_game_edition: Text
+dv_#has_:
+  name: has_text_of_game_edition
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/Texts/has_game_edition|has_game_edition]]"
+    - "[[/_public/schema-org/Property/Texts/has_game_edition.public|has_game_edition.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_game_edition.internal|has_game_edition.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_game_edition.protect|has_game_edition.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_game_edition.private|has_game_edition.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_game_edition.personal|has_game_edition.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_game_edition.secret|has_game_edition.secret]]"
+dv_has_domain: VideoGame
+dv_has_name: has_text_of_game_edition
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Texts/has_game_edition|has_game_edition]]"
+  - "[[/_public/schema-org/Property/Texts/has_game_edition.public|has_game_edition.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_game_edition.internal|has_game_edition.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_game_edition.protect|has_game_edition.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_game_edition.private|has_game_edition.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_game_edition.personal|has_game_edition.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_game_edition.secret|has_game_edition.secret]]"
 ---
 
 Predicate to describe the Text of VideoGame.
 
 Use it like this: 
-- [ #has_/text_of_/game_edition :: Text ] or 
-- [ has_text_of_game_edition :: Text ] 
+- has_text_of_game_edition = `=this.dv_has_text_of_game_edition`  
+- has_text_of_game_edition = `=this.dv_has_text_of_game_edition`  
 
 The edition of a video game.
 
 Predicated describes that: 
-[ #has_/domain  :: VideoGame ]
-( #has_/name :: has_text_of_game_edition )
-( #has_/range :: Text )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

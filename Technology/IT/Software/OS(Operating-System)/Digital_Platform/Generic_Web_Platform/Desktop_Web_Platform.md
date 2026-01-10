@@ -33,14 +33,13 @@ Class of all desktop_web_platforms.
 Tag Instances like this: 
 #is_a_/desktop_web_platform
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Represents the broad notion of 'desktop' browsers as a Web Platform.
 
-[ #is_/sub_class_of :: [[../DigitalPlatformEnumeration]] ]
+#is_/sub_class_of :: [[../DigitalPlatformEnumeration]]  
 
-[ #is_/enum_of :: [[../DigitalPlatformEnumeration]] ]
-
+#is_/enum_of :: [[../DigitalPlatformEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

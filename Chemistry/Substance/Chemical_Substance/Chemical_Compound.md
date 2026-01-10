@@ -7,25 +7,25 @@ aliases:
 has_id_wikidata: Q11173
 Commons_category: Chemical compounds
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-different_from: '[[_Standards/WikiData/WD~simple_substance,2512777]]'
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+different_from: "[[_Standards/WikiData/WD~simple_substance,2512777]]"
+disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 equivalent_class: http://dbpedia.org/ontology/ChemicalCompound
 has_characteristic:
-  - '[[_Standards/WikiData/WD~chemical_property,764285]]'
-  - '[[_Standards/WikiData/WD~chemical_nomenclature,6503924]]'
-  - '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
+  - "[[_Standards/WikiData/WD~chemical_property,764285]]"
+  - "[[_Standards/WikiData/WD~chemical_nomenclature,6503924]]"
+  - "[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]"
 has_part_s_:
-  - '[[_Standards/WikiData/WD~atom,9121]]'
-  - '[[_Standards/WikiData/WD~chemical_bond,44424]]'
+  - "[[_Standards/WikiData/WD~atom,9121]]"
+  - "[[_Standards/WikiData/WD~chemical_bond,44424]]"
 has_part_s_of_the_class:
-  - '[[_Standards/WikiData/WD~moiety,23005640]]'
-  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
+  - "[[_Standards/WikiData/WD~moiety,23005640]]"
+  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~group_or_class_of_chemical_substances,17339814]]'
-  - '[[_Standards/WikiData/WD~second-order_class,24017414]]'
-is_metaclass_for: '[[_Standards/WikiData/WD~chemical_substance,79529]]'
+  - "[[_Standards/WikiData/WD~group_or_class_of_chemical_substances,17339814]]"
+  - "[[_Standards/WikiData/WD~second-order_class,24017414]]"
+is_metaclass_for: "[[_Standards/WikiData/WD~chemical_substance,79529]]"
 OmegaWiki_Defined_Meaning: 496071
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8752%20%28eus%29-ElsaBornFree-konposatu%20kimiko.wav
 properties_for_this_type:
@@ -61,15 +61,34 @@ properties_for_this_type:
   - EC number
   - InChIKey
   - InChI
-studied_in: '[[_Standards/WikiData/WD~chemistry,2329]]'
+studied_in: "[[_Standards/WikiData/WD~chemistry,2329]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~pure_substance,578779]]'
-  - '[[_Standards/WikiData/WD~chemical_component,20026787]]'
+  - "[[_Standards/WikiData/WD~pure_substance,578779]]"
+  - "[[_Standards/WikiData/WD~chemical_component,20026787]]"
 topic_s_main_template:
-  - '[[_Standards/WikiData/WD~Q18987561,18987561]]'
-  - '[[_Standards/WikiData/WD~Template_Chemical_compounds_by_element,114323532]]'
-  - '[[_Standards/WikiData/WD~Template_Chembox,52426]]'
+  - "[[_Standards/WikiData/WD~Q18987561,18987561]]"
+  - "[[_Standards/WikiData/WD~Template_Chemical_compounds_by_element,114323532]]"
+  - "[[_Standards/WikiData/WD~Template_Chembox,52426]]"
 Wolfram_Language_entity_type: Chemical
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Chemical_compound,11173|WD~Chemical_compound,11173]]"
+    - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Compound|Chemical_Compound]]"
+    - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Compound.public|Chemical_Compound.public]]"
+    - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Compound.internal|Chemical_Compound.internal]]"
+    - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Compound.protect|Chemical_Compound.protect]]"
+    - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Compound.private|Chemical_Compound.private]]"
+    - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Compound.personal|Chemical_Compound.personal]]"
+    - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Compound.secret|Chemical_Compound.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Chemical_compound,11173|WD~Chemical_compound,11173]]"
+  - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Compound|Chemical_Compound]]"
+  - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Compound.public|Chemical_Compound.public]]"
+  - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Compound.internal|Chemical_Compound.internal]]"
+  - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Compound.protect|Chemical_Compound.protect]]"
+  - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Compound.private|Chemical_Compound.private]]"
+  - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Compound.personal|Chemical_Compound.personal]]"
+  - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Compound.secret|Chemical_Compound.secret]]"
 ---
 
 # [[Chemical_Compound]] 

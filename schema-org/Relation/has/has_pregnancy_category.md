@@ -9,35 +9,64 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - pregnancy_category
   - pregnancy
   - category
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_pregnancy_category
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_pregnancy_category
 type: Predi_Relation
+dv_has_:
+  pregnancy_category: DrugPregnancyCategory
+  domain: Drug
+dv_has_pregnancy_category: DrugPregnancyCategory
+dv_#has_:
+  name: is_pregnancy_category
+  range: DrugPregnancyCategory
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_pregnancy_category|has_pregnancy_category]]"
+    - "[[/_public/schema-org/Relation/has/has_pregnancy_category.public|has_pregnancy_category.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_pregnancy_category.internal|has_pregnancy_category.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_pregnancy_category.protect|has_pregnancy_category.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_pregnancy_category.private|has_pregnancy_category.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_pregnancy_category.personal|has_pregnancy_category.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_pregnancy_category.secret|has_pregnancy_category.secret]]"
+dv_has_domain: Drug
+dv_has_name: is_pregnancy_category
+dv_has_range: DrugPregnancyCategory
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_pregnancy_category|has_pregnancy_category]]"
+  - "[[/_public/schema-org/Relation/has/has_pregnancy_category.public|has_pregnancy_category.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_pregnancy_category.internal|has_pregnancy_category.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_pregnancy_category.protect|has_pregnancy_category.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_pregnancy_category.private|has_pregnancy_category.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_pregnancy_category.personal|has_pregnancy_category.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_pregnancy_category.secret|has_pregnancy_category.secret]]"
 ---
 
 Use it like this: 
-- [ #has_/pregnancy_category :: DrugPregnancyCategory ] or 
-- [ has_pregnancy_category :: DrugPregnancyCategory ] 
+- has_pregnancy_category = `=this.dv_has_pregnancy_category`  
+- has_pregnancy_category = `=this.dv_has_pregnancy_category`  
 
 Pregnancy category of this drug.
 
 Relation describes that: 
-[ #has_/domain  :: Drug ]
-( #has_/name :: is_pregnancy_category )
-( #has_/range :: DrugPregnancyCategory )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

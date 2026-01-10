@@ -9,26 +9,26 @@ aliases:
   - Sodium Hydroxide
 has_id_wikidata: Q102769
 has_part_s_:
-  - '[[_Standards/WikiData/WD~hydroxide_ion,199877]]'
-  - '[[_Standards/WikiData/WD~sodium_ion,3154110]]'
-  - '[[_Standards/WikiData/WD~hydrogen,556]]'
-  - '[[_Standards/WikiData/WD~oxygen,629]]'
-  - '[[_Standards/WikiData/WD~sodium,658]]'
+  - "[[_Standards/WikiData/WD~hydroxide_ion,199877]]"
+  - "[[_Standards/WikiData/WD~sodium_ion,3154110]]"
+  - "[[_Standards/WikiData/WD~hydrogen,556]]"
+  - "[[_Standards/WikiData/WD~oxygen,629]]"
+  - "[[_Standards/WikiData/WD~sodium,658]]"
 has_characteristic:
-  - '[[_Standards/WikiData/WD~hygroscopy,216678]]'
-  - '[[_Standards/WikiData/WD~deliquescence,3705026]]'
-subject_has_role: '[[_Standards/WikiData/WD~corrosive_substance,258158]]'
+  - "[[_Standards/WikiData/WD~hygroscopy,216678]]"
+  - "[[_Standards/WikiData/WD~deliquescence,3705026]]"
+subject_has_role: "[[_Standards/WikiData/WD~corrosive_substance,258158]]"
 part_of:
-  - '[[_Standards/WikiData/WD~soda_lime,754282]]'
-  - '[[_Standards/WikiData/WD~caustic_soda_lye,72090845]]'
+  - "[[_Standards/WikiData/WD~soda_lime,754282]]"
+  - "[[_Standards/WikiData/WD~caustic_soda_lye,72090845]]"
 has_use:
-  - '[[_Standards/WikiData/WD~acidity_regulator,898753]]'
-  - '[[_Standards/WikiData/WD~drain_cleaner,1754157]]'
-subclass_of: '[[_Standards/WikiData/WD~alkali_hydroxide,3143826]]'
-associated_hazard: '[[_Standards/WikiData/WD~sodium_hydroxide_exposure,21175311]]'
-safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+  - "[[_Standards/WikiData/WD~acidity_regulator,898753]]"
+  - "[[_Standards/WikiData/WD~drain_cleaner,1754157]]"
+subclass_of: "[[_Standards/WikiData/WD~alkali_hydroxide,3143826]]"
+associated_hazard: "[[_Standards/WikiData/WD~sodium_hydroxide_exposure,21175311]]"
+safety_classification_and_labelling: "[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
 standard_enthalpy_of_formation: -425.6
 vapor_pressure: 0
 immediately_dangerous_to_life_or_health: 10
@@ -55,7 +55,7 @@ InChI: InChI=1S/Na.H2O/h;1H2/q+1;/p-1
 UNII: 55X04QC32I
 E_number: E524
 image: http://commons.wikimedia.org/wiki/Special:FilePath/SodiumHydroxide.jpg
-canonical_SMILES: '[OH-].[Na+]'
+canonical_SMILES: "[OH-].[Na+]"
 UNSPSC_Code: 12352316
 CAS_Registry_Number: 1310-73-2
 EC_number: 215-185-5
@@ -69,6 +69,25 @@ chemical_formula:
   - NaOH
 Commons_category: Sodium hydroxide
 RTECS_number: WB4900000
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Sodium_hydroxide,102769|WD~Sodium_hydroxide,102769]]"
+    - "[[/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Sodium_Hydroxide|Sodium_Hydroxide]]"
+    - "[[/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Sodium_Hydroxide.public|Sodium_Hydroxide.public]]"
+    - "[[/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Sodium_Hydroxide.internal|Sodium_Hydroxide.internal]]"
+    - "[[/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Sodium_Hydroxide.protect|Sodium_Hydroxide.protect]]"
+    - "[[/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Sodium_Hydroxide.private|Sodium_Hydroxide.private]]"
+    - "[[/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Sodium_Hydroxide.personal|Sodium_Hydroxide.personal]]"
+    - "[[/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Sodium_Hydroxide.secret|Sodium_Hydroxide.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Sodium_hydroxide,102769|WD~Sodium_hydroxide,102769]]"
+  - "[[/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Sodium_Hydroxide|Sodium_Hydroxide]]"
+  - "[[/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Sodium_Hydroxide.public|Sodium_Hydroxide.public]]"
+  - "[[/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Sodium_Hydroxide.internal|Sodium_Hydroxide.internal]]"
+  - "[[/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Sodium_Hydroxide.protect|Sodium_Hydroxide.protect]]"
+  - "[[/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Sodium_Hydroxide.private|Sodium_Hydroxide.private]]"
+  - "[[/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Sodium_Hydroxide.personal|Sodium_Hydroxide.personal]]"
+  - "[[/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Sodium_Hydroxide.secret|Sodium_Hydroxide.secret]]"
 ---
 
 # [[Sodium_Hydroxide]] 

@@ -28,16 +28,18 @@ title: has_accommodation_floor_plan
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/accommodation_floor_plan :: FloorPlan ] or 
+- [has_/accommodation_floor_plan :: FloorPlan ] 
 - [ has_accommodation_floor_plan :: FloorPlan ] 
 
 A floorplan of some [[../../../Earth/Geography/Place/Accommodation]].
 
 Relation describes that: 
-[ #has_/domain  :: Accommodation, Residence ]
+
+#has_/domain  :: Accommodation, Residence  
+
 ( #has_/name :: has_accommodation_floor_plan )
 ( #has_/range :: FloorPlan )
 

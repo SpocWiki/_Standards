@@ -1,5 +1,5 @@
 ---
-dv_has_name_: Italy
+dv_has_name: Italy
 dv_has_name_en: Italy
 dv_has_name_es: Italia
 dv_has_name_fr: Italie
@@ -661,7 +661,7 @@ population: 58850717
 ## International Names
 
 #has_/name_ = 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 has_name_en = `=this.dv_has_name_en`
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`

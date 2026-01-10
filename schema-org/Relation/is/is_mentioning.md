@@ -10,33 +10,62 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - mentions
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_mentioning
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: is_mentioning
 type: Predi_Relation
+dv_is_:
+  mentioning: "[Thing](../../../Class/Thing.md)"
+  same_as:
+    - "[[/_Standards/schema-org/Relation/is/is_mentioning|is_mentioning]]"
+    - "[[/_public/schema-org/Relation/is/is_mentioning.public|is_mentioning.public]]"
+    - "[[/_internal/schema-org/Relation/is/is_mentioning.internal|is_mentioning.internal]]"
+    - "[[/_protect/schema-org/Relation/is/is_mentioning.protect|is_mentioning.protect]]"
+    - "[[/_private/schema-org/Relation/is/is_mentioning.private|is_mentioning.private]]"
+    - "[[/_personal/schema-org/Relation/is/is_mentioning.personal|is_mentioning.personal]]"
+    - "[[/_secret/schema-org/Relation/is/is_mentioning.secret|is_mentioning.secret]]"
+dv_is_mentioning: "[[../../Class/is_a_|Thing]]"
+dv_has_:
+  domain: "[[../../../Class/is_a_/creative_work]]"
+dv_#has_:
+  name: is_mentioning
+  range: "[[../../Class/Thing|thing]]"
+dv_has_domain: "[[../../../Class/is_a_/creative_work]]"
+dv_has_name: is_mentioning
+dv_has_range: "[[../../Class/Thing|thing]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/is/is_mentioning|is_mentioning]]"
+  - "[[/_public/schema-org/Relation/is/is_mentioning.public|is_mentioning.public]]"
+  - "[[/_internal/schema-org/Relation/is/is_mentioning.internal|is_mentioning.internal]]"
+  - "[[/_protect/schema-org/Relation/is/is_mentioning.protect|is_mentioning.protect]]"
+  - "[[/_private/schema-org/Relation/is/is_mentioning.private|is_mentioning.private]]"
+  - "[[/_personal/schema-org/Relation/is/is_mentioning.personal|is_mentioning.personal]]"
+  - "[[/_secret/schema-org/Relation/is/is_mentioning.secret|is_mentioning.secret]]"
 ---
 
 Use it like this: 
-- [ #is_/mentioning :: [Thing](../../../Class/Thing.md) ] or 
-- [ is_mentioning :: [[../../../Class/is_a_|Thing]] ] 
+- is_mentioning = `=this.dv_is_mentioning` (../../../Class/Thing.md) ] 
+- is_mentioning = `=this.dv_is_mentioning` ] ] 
 
 Indicates that the [[../../../Class/is_a_/creative_work|Creative Work]] contains a reference to, but is not necessarily about a concept.
 
 Relation describes that: 
-[ #has_/domain  :: [[../../../Class/is_a_/creative_work]] ]
-( #has_/name :: is_mentioning )
-( #has_/range :: [[../../../Class/Thing|thing]] )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

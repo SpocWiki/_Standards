@@ -3,37 +3,37 @@ aliases:
   - Chlor
   - Chlorine
 has_id_wikidata: Q688
-associated_hazard: '[[_Standards/WikiData/WD~chlorine_exposure,21173551]]'
+associated_hazard: "[[_Standards/WikiData/WD~chlorine_exposure,21173551]]"
 atomic_number: 17
 Commons_category: Chlorine
 Commons_gallery: Chlorine
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Chlorine,84675867]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Chlorine,84675867]]"
 different_from:
-  - '[[_Standards/WikiData/WD~CL,224479]]'
-  - '[[_Standards/WikiData/WD~serum_chloride_level,432392]]'
-  - '[[_Standards/WikiData/WD~dichlorine,1904422]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Carl_Wilhelm_Scheele,70538]]'
+  - "[[_Standards/WikiData/WD~CL,224479]]"
+  - "[[_Standards/WikiData/WD~serum_chloride_level,432392]]"
+  - "[[_Standards/WikiData/WD~dichlorine,1904422]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Carl_Wilhelm_Scheele,70538]]"
 electronegativity: 3
 electron_configuration:
-  - '[Ne] 3s² 3p⁵'
+  - "[Ne] 3s² 3p⁵"
   - 1s² 2s² 2p⁶ 3s² 3p⁵
 element_symbol: Cl
 EPPO_Code: TXCHLO
 Gmelin_number: 788
 has_characteristic:
-  - '[[_Standards/WikiData/WD~gaseous_state_of_matter,29147941]]'
+  - "[[_Standards/WikiData/WD~gaseous_state_of_matter,29147941]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Chlorine%20liquid%20in%20an%20ampoule.jpg
 instance_of:
-  - '[[_Standards/WikiData/WD~lithophile,1130479]]'
-  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
-  - '[[_Standards/WikiData/WD~essential_medicine,35456]]'
+  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
+  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+  - "[[_Standards/WikiData/WD~essential_medicine,35456]]"
 ionic_radius:
   - 0.08
   - 0.12
@@ -44,7 +44,7 @@ mass: 35.45
 MeSH_tree_code:
   - D01.268.380.150
   - D01.362.225
-named_after: '[[_Standards/WikiData/WD~green,3133]]'
+named_after: "[[_Standards/WikiData/WD~green,3133]]"
 OmegaWiki_Defined_Meaning: 575
 oxidation_state:
   - -1
@@ -56,51 +56,136 @@ oxidation_state:
   - 6
   - 7
 part_of:
-  - '[[_Standards/WikiData/WD~period_3,211331]]'
-  - '[[_Standards/WikiData/WD~halogens,19605]]'
+  - "[[_Standards/WikiData/WD~period_3,211331]]"
+  - "[[_Standards/WikiData/WD~halogens,19605]]"
 Reaxys_registry_number: 3902968
 SpocWebEntityId: 21918
 subclass_of:
-  - '[[_Standards/WikiData/WD~diatomic_nonmetal,19753344]]'
-  - '[[_Standards/WikiData/WD~halogens,19605]]'
+  - "[[_Standards/WikiData/WD~diatomic_nonmetal,19753344]]"
+  - "[[_Standards/WikiData/WD~halogens,19605]]"
 time_of_discovery_or_invention: 1774
 type: Element
 UMLS_CUI: C0008209
 Unicode_character: 氯
+dv_has_:
+  name_:
+    group: Group-17-Halogene
+    en: Chlorine
+    de: Chlor
+    abbreviated: Cl
+  value_for_:
+    weight_:
+      u: 35.453
+    radius: 0.97
+    volume_:
+      ccm_:
+        mol: 22.7
+    unknown2: 0.99
+    radius_:
+      nano_:
+        m: 12.967
+    electronegativity: 3.2
+    density: 3.17
+    temperature_:
+      melt_:
+        c: -100.98
+      boil_:
+        c: -34.6
+    capacity_:
+      heat: 0.48
+    conductivity_:
+      heat: "8.9E-05"
+    enthalpy: 3.203
+    energy_:
+      form_:
+        kj_:
+          mol: 10.2
+  number_of_:
+    period: 3
+    group: 17
+    electrons: 17
+dv_is_:
+  part_of: "[[../Group-17-Halogen]]"
+  same_as:
+    - "[[../../../WikiData/WD~Chlorine,688]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-17-Halogen/Chlorine|Chlorine]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-17-Halogen/Chlorine.public|Chlorine.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-17-Halogen/Chlorine.internal|Chlorine.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-17-Halogen/Chlorine.protect|Chlorine.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-17-Halogen/Chlorine.private|Chlorine.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-17-Halogen/Chlorine.personal|Chlorine.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-17-Halogen/Chlorine.secret|Chlorine.secret]]"
+dv_has_name_group: Group-17-Halogene
+dv_is_part_of: "[[../Group-17-Halogen]]"
+dv_has_name_en: Chlorine
+dv_has_name_de: Chlor
+dv_has_value_for_weight_u: 35.453
+dv_has_value_for_radius: 0.97
+dv_has_value_for_volume_ccm_mol: 22.7
+dv_has_value_for_unknown2: 0.99
+dv_has_value_for_radius_nano_m: 12.967
+dv_has_value_for_electronegativity: 3.2
+dv_has_value_for_density: 3.17
+dv_has_value_for_temperature_melt_c: -100.98
+dv_has_value_for_temperature_boil_c: -34.6
+dv_has_value_for_capacity_heat: 0.48
+dv_has_value_for_conductivity_heat: "8.9E-05"
+dv_has_value_for_enthalpy: 3.203
+dv_has_value_for_energy_form_kj_mol: 10.2
+dv_has_number_of_period: 3
+dv_has_number_of_group: 17
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Chlorine,688]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-17-Halogen/Chlorine|Chlorine]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-17-Halogen/Chlorine.public|Chlorine.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-17-Halogen/Chlorine.internal|Chlorine.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-17-Halogen/Chlorine.protect|Chlorine.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-17-Halogen/Chlorine.private|Chlorine.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-17-Halogen/Chlorine.personal|Chlorine.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-17-Halogen/Chlorine.secret|Chlorine.secret]]"
+dv_has_name_abbreviated: Cl
+dv_has_number_of_electrons: 17
 ---
 
 # [[Chlorine]] 
 
 
 #chemic/Element 
-[GroupName::Group-17-Halogene]
-Group::[[../Group-17-Halogen]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
+has_name_en = `=this.dv_has_name_en` 
 
-[#has_/name_/en::Chlorine] 
-[#has_/name_/de::Chlor] 
-[#has_/value_for_/weight_/u::35.453] 
-[AtomRadius::0.97] 
-[Atom-Vol-ccm-mol::22.7]  
-[Unknown2::0.99] 
-[#has_/value_for_/radius_/nano_/m::12.967] 
-[Electronegative::3.2]  
-[Density::3.17] 
-[#has_/value_for_/temperature_/melt_/c ::-100.98] 
-[#has_/value_for_/temperature_/boil_/c ::-34.6] 
-[HeatCapacity::0.48] 
-[HeatConduct::8.9E-05] 
-[Enthalpy::3.203] 
-[FormEnergy-kj-mol::10.2] 
-(PeriodNo::3) 
-(GroupNo::17) 
+has_name_de = `=this.dv_has_name_de` 
+
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
+
+has_value_for_radius = `=this.dv_has_value_for_radius`  
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol`   
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2`  
+
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
+
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity`   
+has_value_for_density = `=this.dv_has_value_for_density`  
+
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
+
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
+
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat`  
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat`  
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy`  
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol`  
+has_number_of_period = `=this.dv_has_number_of_period`  
+has_number_of_group = `=this.dv_has_number_of_group`  
 
 #is_/same_as :: [[../../../WikiData/WD~Chlorine,688]] 
 
 
 ## #has_/text_of_/abstract 
 
-> **Chlorine** is a chemical element with the symbol (Abbr::Cl) and atomic number (Charge-e::17). 
+> **Chlorine** is a chemical element with the symbol has_name_abbreviated = `=this.dv_has_name_abbreviated`  and atomic number has_number_of_electrons = `=this.dv_has_number_of_electrons` . 
 > The second-lightest of the halogens, it appears between fluorine and bromine in the periodic table 
 > and its properties are mostly intermediate between them. 
 > 

@@ -87,39 +87,124 @@ type: Element
 Unicode_character: 磷
 UNII: 27YLU75U4W
 ZVG_number: 3930
+dv_has_:
+  name_:
+    group: Group-15-Nitrogen
+    en: Phosphorus
+    de: Phosphor
+    abbreviated: P
+  value_for_:
+    weight_:
+      u: 30.9738
+    radius: 1.23
+    volume_:
+      ccm_:
+        mol: 17
+    unknown2: 1.06
+    radius_:
+      nano_:
+        m: 10.486
+    electronegativity: 2.2
+    density: 1.82
+    temperature_:
+      melt_:
+        c: 44.1
+      boil_:
+        c: 280
+    capacity_:
+      heat: 0.77
+    conductivity_:
+      heat: 0.00235
+    enthalpy: 0.657
+    energy_:
+      form_:
+        kj_:
+          mol: 12.129
+  number_of_:
+    period: 3
+    group: 15
+    electrons: 15
+dv_is_:
+  part_of: "[[../Group-15-Nitrogen]]"
+  same_as:
+    - "[[../../../WikiData/WD~Phosphorus,674]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/Phosphorus|Phosphorus]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Phosphorus.public|Phosphorus.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Phosphorus.internal|Phosphorus.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/Phosphorus.protect|Phosphorus.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Phosphorus.private|Phosphorus.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Phosphorus.personal|Phosphorus.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Phosphorus.secret|Phosphorus.secret]]"
+dv_has_name_group: Group-15-Nitrogen
+dv_is_part_of: "[[../Group-15-Nitrogen]]"
+dv_has_name_en: Phosphorus
+dv_has_name_de: Phosphor
+dv_has_value_for_weight_u: 30.9738
+dv_has_value_for_radius: 1.23
+dv_has_value_for_volume_ccm_mol: 17
+dv_has_value_for_unknown2: 1.06
+dv_has_value_for_radius_nano_m: 10.486
+dv_has_value_for_electronegativity: 2.2
+dv_has_value_for_density: 1.82
+dv_has_value_for_temperature_melt_c: 44.1
+dv_has_value_for_temperature_boil_c: 280
+dv_has_value_for_capacity_heat: 0.77
+dv_has_value_for_conductivity_heat: 0.00235
+dv_has_value_for_enthalpy: 0.657
+dv_has_value_for_energy_form_kj_mol: 12.129
+dv_has_number_of_period: 3
+dv_has_number_of_group: 15
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Phosphorus,674]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/Phosphorus|Phosphorus]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Phosphorus.public|Phosphorus.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Phosphorus.internal|Phosphorus.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/Phosphorus.protect|Phosphorus.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Phosphorus.private|Phosphorus.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Phosphorus.personal|Phosphorus.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Phosphorus.secret|Phosphorus.secret]]"
+dv_has_name_abbreviated: P
+dv_has_number_of_electrons: 15
 ---
 
 # [[Phosphorus]] 
 
 
 #chemic/Element 
-[GroupName::Group-15-Nitrogen]
-Group::[[../Group-15-Nitrogen]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
+has_name_en = `=this.dv_has_name_en` 
 
-[#has_/name_/en::Phosphorus]
-[#has_/name_/de::Phosphor]
-[#has_/value_for_/weight_/u::30.9738]
-[AtomRadius::1.23]
-[Atom-Vol-ccm-mol::17]
-[Unknown2::1.06]
-[#has_/value_for_/radius_/nano_/m::10.486]
-[Electronegative::2.2]
-[Density::1.82]
-[#has_/value_for_/temperature_/melt_/c ::44.1]
-[#has_/value_for_/temperature_/boil_/c ::280]
-[HeatCapacity::0.77]
-[HeatConduct::0.00235]
-[Enthalpy::0.657]
-[FormEnergy-kj-mol::12.129]
-(PeriodNo::3)
-(GroupNo::15)
+has_name_de = `=this.dv_has_name_de` 
+
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
+
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
+
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
+
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
+
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
+
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
+
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
+has_number_of_group = `=this.dv_has_number_of_group` 
 #is_/same_as :: [[../../../WikiData/WD~Phosphorus,674]]  
 
 
 ## #has_/text_of_/abstract 
 
-> **Phosphorus** is a chemical element with the symbol (Abbr::P) and atomic number (Charge-e::15). 
+> **Phosphorus** is a chemical element with the symbol has_name_abbreviated = `=this.dv_has_name_abbreviated`  and atomic number has_number_of_electrons = `=this.dv_has_number_of_electrons` . 
 > Elemental phosphorus exists in two major forms, white phosphorus 
 > and red phosphorus, but because it is highly reactive, 
 > phosphorus is never found as a free element on Earth. 

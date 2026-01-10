@@ -10,21 +10,42 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - game_availability_enumeration
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_game_availability_enumeration Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_game_availability_enumeration Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../Enumeration]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Game_Availability_Enumeration|Game_Availability_Enumeration]]"
+    - "[[/_public/schema-org/Enumeration/Game_Availability_Enumeration.public|Game_Availability_Enumeration.public]]"
+    - "[[/_internal/schema-org/Enumeration/Game_Availability_Enumeration.internal|Game_Availability_Enumeration.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Game_Availability_Enumeration.protect|Game_Availability_Enumeration.protect]]"
+    - "[[/_private/schema-org/Enumeration/Game_Availability_Enumeration.private|Game_Availability_Enumeration.private]]"
+    - "[[/_personal/schema-org/Enumeration/Game_Availability_Enumeration.personal|Game_Availability_Enumeration.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Game_Availability_Enumeration.secret|Game_Availability_Enumeration.secret]]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../Enumeration]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Game_Availability_Enumeration|Game_Availability_Enumeration]]"
+  - "[[/_public/schema-org/Enumeration/Game_Availability_Enumeration.public|Game_Availability_Enumeration.public]]"
+  - "[[/_internal/schema-org/Enumeration/Game_Availability_Enumeration.internal|Game_Availability_Enumeration.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Game_Availability_Enumeration.protect|Game_Availability_Enumeration.protect]]"
+  - "[[/_private/schema-org/Enumeration/Game_Availability_Enumeration.private|Game_Availability_Enumeration.private]]"
+  - "[[/_personal/schema-org/Enumeration/Game_Availability_Enumeration.personal|Game_Availability_Enumeration.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Game_Availability_Enumeration.secret|Game_Availability_Enumeration.secret]]"
 ---
 
 Class of all game_availability_enumerations.
@@ -32,12 +53,11 @@ Class of all game_availability_enumerations.
 Tag Instances like this: 
 #is_a_/game_availability_enumeration
 
-[ #is_/part_of :: https://pending.schema.org ]
+is_part_of = `=this.dv_is_part_of` 
 
 For a [[VideoGame]], such as used with a [[PlayGameAction]], an enumeration of the kind of game availability offered.
 
-[ #is_/sub_class_of :: [[../Enumeration]] ]
-
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
 ## Confidential Links & Embeds: 
 

@@ -1,5 +1,26 @@
+---
+dv_is_:
+  similar_to: "[[trigonal_planar_geometry]]"
+  same_as:
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/Trigonal_bipyramidal_Geometry|Trigonal_bipyramidal_Geometry]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Trigonal_bipyramidal_Geometry.public|Trigonal_bipyramidal_Geometry.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Trigonal_bipyramidal_Geometry.internal|Trigonal_bipyramidal_Geometry.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/Trigonal_bipyramidal_Geometry.protect|Trigonal_bipyramidal_Geometry.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Trigonal_bipyramidal_Geometry.private|Trigonal_bipyramidal_Geometry.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Trigonal_bipyramidal_Geometry.personal|Trigonal_bipyramidal_Geometry.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Trigonal_bipyramidal_Geometry.secret|Trigonal_bipyramidal_Geometry.secret]]"
+dv_is_similar_to: "[[trigonal_planar_geometry]]"
+dv_is_same_as:
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/Trigonal_bipyramidal_Geometry|Trigonal_bipyramidal_Geometry]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Trigonal_bipyramidal_Geometry.public|Trigonal_bipyramidal_Geometry.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Trigonal_bipyramidal_Geometry.internal|Trigonal_bipyramidal_Geometry.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/Trigonal_bipyramidal_Geometry.protect|Trigonal_bipyramidal_Geometry.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Trigonal_bipyramidal_Geometry.private|Trigonal_bipyramidal_Geometry.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Trigonal_bipyramidal_Geometry.personal|Trigonal_bipyramidal_Geometry.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Trigonal_bipyramidal_Geometry.secret|Trigonal_bipyramidal_Geometry.secret]]"
+---
 
-#is_/similar_to :: [[trigonal_planar_geometry]]
+is_similar_to = `=this.dv_is_similar_to` 
 
 
 ## #has_/text_of_/abstract 

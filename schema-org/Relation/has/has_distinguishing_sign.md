@@ -8,7 +8,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,28 +16,57 @@ keywords:
   - sign
   - distinguishing_sign
   - distinguishingSign
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_distinguishing_sign
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_distinguishing_sign
 type: Predi_Relation
+dv_has_:
+  distinguishing_sign: MedicalSignOrSymptom
+  domain: DDxElement
+dv_has_distinguishing_sign: MedicalSignOrSymptom
+dv_#has_:
+  name: has_distinguishing_sign
+  range: MedicalSignOrSymptom
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_distinguishing_sign|has_distinguishing_sign]]"
+    - "[[/_public/schema-org/Relation/has/has_distinguishing_sign.public|has_distinguishing_sign.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_distinguishing_sign.internal|has_distinguishing_sign.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_distinguishing_sign.protect|has_distinguishing_sign.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_distinguishing_sign.private|has_distinguishing_sign.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_distinguishing_sign.personal|has_distinguishing_sign.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_distinguishing_sign.secret|has_distinguishing_sign.secret]]"
+dv_has_domain: DDxElement
+dv_has_name: has_distinguishing_sign
+dv_has_range: MedicalSignOrSymptom
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_distinguishing_sign|has_distinguishing_sign]]"
+  - "[[/_public/schema-org/Relation/has/has_distinguishing_sign.public|has_distinguishing_sign.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_distinguishing_sign.internal|has_distinguishing_sign.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_distinguishing_sign.protect|has_distinguishing_sign.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_distinguishing_sign.private|has_distinguishing_sign.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_distinguishing_sign.personal|has_distinguishing_sign.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_distinguishing_sign.secret|has_distinguishing_sign.secret]]"
 ---
 
 Use it like this: 
-- [ #has_/distinguishing_sign :: MedicalSignOrSymptom ] or 
-- [ has_distinguishing_sign :: MedicalSignOrSymptom ] 
+- has_distinguishing_sign = `=this.dv_has_distinguishing_sign`  
+- has_distinguishing_sign = `=this.dv_has_distinguishing_sign`  
 
 One of a set of signs and symptoms that can be used to distinguish this diagnosis from others in the differential diagnosis.
 
 Relation describes that: 
-[ #has_/domain  :: DDxElement ]
-( #has_/name :: has_distinguishing_sign )
-( #has_/range :: MedicalSignOrSymptom )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

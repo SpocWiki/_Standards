@@ -9,35 +9,64 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - steering_position
   - steering
   - position
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_steering_position
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_steering_position
 type: Predi_Relation
+dv_has_:
+  steering_position: SteeringPositionValue
+  domain: Vehicle
+dv_has_steering_position: SteeringPositionValue
+dv_#has_:
+  name: is_steering_position
+  range: SteeringPositionValue
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_steering_position|has_steering_position]]"
+    - "[[/_public/schema-org/Relation/has/has_steering_position.public|has_steering_position.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_steering_position.internal|has_steering_position.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_steering_position.protect|has_steering_position.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_steering_position.private|has_steering_position.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_steering_position.personal|has_steering_position.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_steering_position.secret|has_steering_position.secret]]"
+dv_has_domain: Vehicle
+dv_has_name: is_steering_position
+dv_has_range: SteeringPositionValue
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_steering_position|has_steering_position]]"
+  - "[[/_public/schema-org/Relation/has/has_steering_position.public|has_steering_position.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_steering_position.internal|has_steering_position.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_steering_position.protect|has_steering_position.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_steering_position.private|has_steering_position.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_steering_position.personal|has_steering_position.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_steering_position.secret|has_steering_position.secret]]"
 ---
 
 Use it like this: 
-- [ #has_/steering_position :: SteeringPositionValue ] or 
-- [ has_steering_position :: SteeringPositionValue ] 
+- has_steering_position = `=this.dv_has_steering_position`  
+- has_steering_position = `=this.dv_has_steering_position`  
 
 The position of the steering wheel or similar device (mostly for cars).
 
 Relation describes that: 
-[ #has_/domain  :: Vehicle ]
-( #has_/name :: is_steering_position )
-( #has_/range :: SteeringPositionValue )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/Texts/has_content_type/problem+json|problem+json]]"
+    - "[[/_public/schema-org/Property/Texts/has_content_type/problem+json.public|problem+json.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_content_type/problem+json.internal|problem+json.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_content_type/problem+json.protect|problem+json.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_content_type/problem+json.private|problem+json.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_content_type/problem+json.personal|problem+json.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_content_type/problem+json.secret|problem+json.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Texts/has_content_type/problem+json|problem+json]]"
+  - "[[/_public/schema-org/Property/Texts/has_content_type/problem+json.public|problem+json.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_content_type/problem+json.internal|problem+json.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_content_type/problem+json.protect|problem+json.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_content_type/problem+json.private|problem+json.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_content_type/problem+json.personal|problem+json.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_content_type/problem+json.secret|problem+json.secret]]"
+---
 The `problem+json` document type is part of the Problem Details for HTTP APIs specification, 
 which is documented in RFC 7807. [https://tools.ietf.org/html/rfc7807](https://tools.ietf.org/html/rfc7807).
 This specification provides a standardized format for expressing error details in HTTP API responses. 

@@ -10,36 +10,66 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - ticket
   - number
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_id_ticket
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_id_ticket
 type: Pred_Text
+dv_has_:
+  id_:
+    ticket: Text
+  domain: Ticket
+dv_has_id_ticket: Text
+dv_#has_:
+  name: has_id_ticket
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_name/has_id_ticket|has_id_ticket]]"
+    - "[[/_public/schema-org/Property/has_name/has_id_ticket.public|has_id_ticket.public]]"
+    - "[[/_internal/schema-org/Property/has_name/has_id_ticket.internal|has_id_ticket.internal]]"
+    - "[[/_protect/schema-org/Property/has_name/has_id_ticket.protect|has_id_ticket.protect]]"
+    - "[[/_private/schema-org/Property/has_name/has_id_ticket.private|has_id_ticket.private]]"
+    - "[[/_personal/schema-org/Property/has_name/has_id_ticket.personal|has_id_ticket.personal]]"
+    - "[[/_secret/schema-org/Property/has_name/has_id_ticket.secret|has_id_ticket.secret]]"
+dv_has_domain: Ticket
+dv_has_name: has_id_ticket
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_name/has_id_ticket|has_id_ticket]]"
+  - "[[/_public/schema-org/Property/has_name/has_id_ticket.public|has_id_ticket.public]]"
+  - "[[/_internal/schema-org/Property/has_name/has_id_ticket.internal|has_id_ticket.internal]]"
+  - "[[/_protect/schema-org/Property/has_name/has_id_ticket.protect|has_id_ticket.protect]]"
+  - "[[/_private/schema-org/Property/has_name/has_id_ticket.private|has_id_ticket.private]]"
+  - "[[/_personal/schema-org/Property/has_name/has_id_ticket.personal|has_id_ticket.personal]]"
+  - "[[/_secret/schema-org/Property/has_name/has_id_ticket.secret|has_id_ticket.secret]]"
 ---
 
 Predicate to describe the Text of Ticket.
 
 Use it like this: 
-- [ #has_/id_/ticket :: Text ] or 
-- [ has_id_ticket :: Text ] 
+- has_id_ticket = `=this.dv_has_id_ticket`  
+- has_id_ticket = `=this.dv_has_id_ticket`  
 
 The unique identifier for the ticket.
 
 Predicated describes that: 
-[ #has_/domain  :: Ticket ]
-( #has_/name :: has_id_ticket )
-( #has_/range :: Text )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

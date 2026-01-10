@@ -10,35 +10,65 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - annual-percentage-rate
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_annual-percentage-rate
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_annual-percentage-rate
 type: Predi_Quantity
+dv_has_:
+  value_for_:
+    annual_percentage_rate: Number, QuantitativeValue
+  domain: FinancialProduct
+dv_has_value_for_annual_percentage_rate: Number, QuantitativeValue
+dv_#has_:
+  name: has_value_for_annual_percentage_rate
+  range: Number, QuantitativeValue
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_annual_percentage_rate|has_value_for_annual_percentage_rate]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_annual_percentage_rate.public|has_value_for_annual_percentage_rate.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_annual_percentage_rate.internal|has_value_for_annual_percentage_rate.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_annual_percentage_rate.protect|has_value_for_annual_percentage_rate.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_annual_percentage_rate.private|has_value_for_annual_percentage_rate.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_annual_percentage_rate.personal|has_value_for_annual_percentage_rate.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_annual_percentage_rate.secret|has_value_for_annual_percentage_rate.secret]]"
+dv_has_domain: FinancialProduct
+dv_has_name: has_value_for_annual_percentage_rate
+dv_has_range: Number, QuantitativeValue
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_annual_percentage_rate|has_value_for_annual_percentage_rate]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_annual_percentage_rate.public|has_value_for_annual_percentage_rate.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_annual_percentage_rate.internal|has_value_for_annual_percentage_rate.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_annual_percentage_rate.protect|has_value_for_annual_percentage_rate.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_annual_percentage_rate.private|has_value_for_annual_percentage_rate.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_annual_percentage_rate.personal|has_value_for_annual_percentage_rate.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_annual_percentage_rate.secret|has_value_for_annual_percentage_rate.secret]]"
 ---
 
 Predicate to describe the Quantity of FinancialProduct.
 
 Use it like this: 
-- [ #has_/value_for_/annual_percentage_rate :: Number, QuantitativeValue ] or 
-- [ has_value_for_annual_percentage_rate :: Number, QuantitativeValue ] 
+- has_value_for_annual_percentage_rate = `=this.dv_has_value_for_annual_percentage_rate`  
+- has_value_for_annual_percentage_rate = `=this.dv_has_value_for_annual_percentage_rate`  
 
 The annual rate that is charged for borrowing (or made by investing), expressed as a single percentage number that represents the actual yearly cost of funds over the term of a loan. This includes any fees or additional costs associated with the transaction.
 
 Predicate describes that: 
-[ #has_/domain  :: FinancialProduct ]
-( #has_/name :: has_value_for_annual_percentage_rate )
-( #has_/range :: Number, QuantitativeValue )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

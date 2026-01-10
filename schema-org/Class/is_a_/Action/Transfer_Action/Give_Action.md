@@ -10,21 +10,43 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - give_action
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_give_action Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_give_action Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../TransferAction]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Action/Transfer_Action/Give_Action|Give_Action]]"
+    - "[[/_public/schema-org/Class/is_a_/Action/Transfer_Action/Give_Action.public|Give_Action.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Action/Transfer_Action/Give_Action.internal|Give_Action.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Action/Transfer_Action/Give_Action.protect|Give_Action.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Action/Transfer_Action/Give_Action.private|Give_Action.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Action/Transfer_Action/Give_Action.personal|Give_Action.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Action/Transfer_Action/Give_Action.secret|Give_Action.secret]]"
+dv_has_:
+  properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, toLocation, url ]"
+dv_is_sub_class_of: "[[../TransferAction]]"
+dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, toLocation, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Action/Transfer_Action/Give_Action|Give_Action]]"
+  - "[[/_public/schema-org/Class/is_a_/Action/Transfer_Action/Give_Action.public|Give_Action.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Action/Transfer_Action/Give_Action.internal|Give_Action.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Action/Transfer_Action/Give_Action.protect|Give_Action.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Action/Transfer_Action/Give_Action.private|Give_Action.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Action/Transfer_Action/Give_Action.personal|Give_Action.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Action/Transfer_Action/Give_Action.secret|Give_Action.secret]]"
 ---
 
 Class of all give_actions.
@@ -41,10 +63,9 @@ Related actions:
 <li>[[SendAction]]: Unlike SendAction, GiveAction implies that ownership is being transferred (e.g. I may send my laptop to you, but that doesn't mean I'm giving it to you).</li>
 </ul>
 
-[ #is_/sub_class_of :: [[../TransferAction]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, toLocation, url ] ]
-
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

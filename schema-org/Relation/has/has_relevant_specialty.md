@@ -9,35 +9,64 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - relevant_specialty
   - relevant
   - specialty
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_relevant_specialty
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_relevant_specialty
 type: Predi_Relation
+dv_has_:
+  relevant_specialty: MedicalSpecialty
+  domain: MedicalEntity
+dv_has_relevant_specialty: MedicalSpecialty
+dv_#has_:
+  name: is_relevant_specialty
+  range: MedicalSpecialty
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_relevant_specialty|has_relevant_specialty]]"
+    - "[[/_public/schema-org/Relation/has/has_relevant_specialty.public|has_relevant_specialty.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_relevant_specialty.internal|has_relevant_specialty.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_relevant_specialty.protect|has_relevant_specialty.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_relevant_specialty.private|has_relevant_specialty.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_relevant_specialty.personal|has_relevant_specialty.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_relevant_specialty.secret|has_relevant_specialty.secret]]"
+dv_has_domain: MedicalEntity
+dv_has_name: is_relevant_specialty
+dv_has_range: MedicalSpecialty
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_relevant_specialty|has_relevant_specialty]]"
+  - "[[/_public/schema-org/Relation/has/has_relevant_specialty.public|has_relevant_specialty.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_relevant_specialty.internal|has_relevant_specialty.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_relevant_specialty.protect|has_relevant_specialty.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_relevant_specialty.private|has_relevant_specialty.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_relevant_specialty.personal|has_relevant_specialty.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_relevant_specialty.secret|has_relevant_specialty.secret]]"
 ---
 
 Use it like this: 
-- [ #has_/relevant_specialty :: MedicalSpecialty ] or 
-- [ has_relevant_specialty :: MedicalSpecialty ] 
+- has_relevant_specialty = `=this.dv_has_relevant_specialty`  
+- has_relevant_specialty = `=this.dv_has_relevant_specialty`  
 
 If applicable, a medical specialty in which this entity is relevant.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalEntity ]
-( #has_/name :: is_relevant_specialty )
-( #has_/range :: MedicalSpecialty )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

@@ -156,6 +156,25 @@ SPLASH:
   - splash10-001i-9000000000-5a9d4ce5dca0ae1a6765
   - splash10-001i-9000000000-6d633534165eedf07b4d
   - splash10-014i-9000000000-757b6964771196ee308f
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Methanol,14982]]"
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Alcohol/Methanol|Methanol]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Alcohol/Methanol.public|Methanol.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Alcohol/Methanol.internal|Methanol.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Alcohol/Methanol.protect|Methanol.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Alcohol/Methanol.private|Methanol.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Alcohol/Methanol.personal|Methanol.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Alcohol/Methanol.secret|Methanol.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Methanol,14982]]"
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Alcohol/Methanol|Methanol]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Alcohol/Methanol.public|Methanol.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Alcohol/Methanol.internal|Methanol.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Alcohol/Methanol.protect|Methanol.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Alcohol/Methanol.private|Methanol.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Alcohol/Methanol.personal|Methanol.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Alcohol/Methanol.secret|Methanol.secret]]"
 ---
 
 # [[Methanol]] 

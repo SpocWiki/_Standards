@@ -172,7 +172,10 @@ writing_language:
 #has_/time_/stopped  ::  1900-11-30 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 
-#is_/same_as ::  [[../../../../../../../WikiData/WD~Oscar_Wilde,30875]]
+#is_/same_as ::  [[../../../../../../../WikiData/WD~Oscar_Wilde,30875]] 
+#has_/created_/quote  :: The only way to get rid of a temptation is to yield to it. 
+#has_/created_/quote  :: I can resist everything except temptation. 
+#has_/created_/quote  :: To love oneself is the beginning of a lifelong romance. 
 
 ## #has_/text_of_/abstract 
 

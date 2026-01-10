@@ -33,11 +33,13 @@ type: Predi_Relation
 A link to the [[../../Collection/list_item|ListItem]] that follows the current one.
 
 Use it like this: 
-- [ #has_/next_/item :: ListItem ] or 
+- [has_/next_/item :: ListItem ] 
 - [ has_next_item :: ListItem ] 
 
 This Relation describes that: 
-[ #has_/domain  :: ListItem ]
+
+#has_/domain  :: ListItem  
+
 ( #has_/name :: has_next_item )
 ( #has_/range :: ListItem )
 

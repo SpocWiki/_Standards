@@ -11,21 +11,42 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: MusicReleaseFormatType
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - vinyl_format
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_vinyl_format Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_vinyl_format Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../MusicReleaseFormatType]]"
+  enum_of: "[[../MusicReleaseFormatType]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Music_Release_Format_Type/Vinyl_Format|Vinyl_Format]]"
+    - "[[/_public/schema-org/Enumeration/Music_Release_Format_Type/Vinyl_Format.public|Vinyl_Format.public]]"
+    - "[[/_internal/schema-org/Enumeration/Music_Release_Format_Type/Vinyl_Format.internal|Vinyl_Format.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Music_Release_Format_Type/Vinyl_Format.protect|Vinyl_Format.protect]]"
+    - "[[/_private/schema-org/Enumeration/Music_Release_Format_Type/Vinyl_Format.private|Vinyl_Format.private]]"
+    - "[[/_personal/schema-org/Enumeration/Music_Release_Format_Type/Vinyl_Format.personal|Vinyl_Format.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Music_Release_Format_Type/Vinyl_Format.secret|Vinyl_Format.secret]]"
+dv_is_sub_class_of: "[[../MusicReleaseFormatType]]"
+dv_is_enum_of: "[[../MusicReleaseFormatType]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Music_Release_Format_Type/Vinyl_Format|Vinyl_Format]]"
+  - "[[/_public/schema-org/Enumeration/Music_Release_Format_Type/Vinyl_Format.public|Vinyl_Format.public]]"
+  - "[[/_internal/schema-org/Enumeration/Music_Release_Format_Type/Vinyl_Format.internal|Vinyl_Format.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Music_Release_Format_Type/Vinyl_Format.protect|Vinyl_Format.protect]]"
+  - "[[/_private/schema-org/Enumeration/Music_Release_Format_Type/Vinyl_Format.private|Vinyl_Format.private]]"
+  - "[[/_personal/schema-org/Enumeration/Music_Release_Format_Type/Vinyl_Format.personal|Vinyl_Format.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Music_Release_Format_Type/Vinyl_Format.secret|Vinyl_Format.secret]]"
 ---
 
 Class of all vinyl_formats.
@@ -35,10 +56,9 @@ Tag Instances like this:
 
 VinylFormat.
 
-[ #is_/sub_class_of :: [[../MusicReleaseFormatType]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #is_/enum_of :: [[../MusicReleaseFormatType]] ]
-
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

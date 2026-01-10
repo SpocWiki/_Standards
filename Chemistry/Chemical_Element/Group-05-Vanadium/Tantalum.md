@@ -3,10 +3,10 @@ aliases:
   - Tantal
   - Tantalum
 has_id_wikidata: Q1123
-associated_hazard: '[[_Standards/WikiData/WD~tantalum_exposure,21175333]]'
+associated_hazard: "[[_Standards/WikiData/WD~tantalum_exposure,21175333]]"
 atomic_number: 73
 boiling_point: 9797
-canonical_SMILES: '[Ta]'
+canonical_SMILES: "[Ta]"
 CAS_Registry_Number: 7440-25-7
 chemical_formula: Ta
 Commons_category: Tantalum
@@ -16,40 +16,40 @@ Common_Procurement_Vocabulary_code:
 CPV_Supplementary_code: AA26
 density: 16.65
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
 Dewey_Decimal_Classification: 546.526
-different_from: '[[_Standards/WikiData/WD~Q397676,397676]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Anders_Gustaf_Ekeberg,468303]]'
+different_from: "[[_Standards/WikiData/WD~Q397676,397676]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Anders_Gustaf_Ekeberg,468303]]"
 DSSTOX_compound_identifier: DTXCID6047654
 EC_number: 231-135-5
 electronegativity: 1.5
-electron_configuration: '[Xe] 4f¹⁴ 5d³ 6s²'
+electron_configuration: "[Xe] 4f¹⁴ 5d³ 6s²"
 element_symbol: Ta
-has_effect: '[[_Standards/WikiData/WD~tantalum_exposure,21175333]]'
+has_effect: "[[_Standards/WikiData/WD~tantalum_exposure,21175333]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tantalum%20single%20crystal%20and%201cm3%20cube.jpg
 immediately_dangerous_to_life_or_health: 2500
 InChI: InChI=1S/Ta
 InChIKey: GUVRBAGPIYLISA-UHFFFAOYSA-N
 instance_of:
-  - '[[_Standards/WikiData/WD~lithophile,1130479]]'
-  - '[[_Standards/WikiData/WD~combustible_powder,21073023]]'
-  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
+  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
+  - "[[_Standards/WikiData/WD~combustible_powder,21073023]]"
+  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
 ionic_radius:
   - 0.64
   - 0.68
   - 0.72
 made_from_material:
-  - '[[_Standards/WikiData/WD~fergusonite-(REE)_series,412914]]'
-  - '[[_Standards/WikiData/WD~tantalite,637080]]'
-  - '[[_Standards/WikiData/WD~euxenite-(Y),1146596]]'
-  - '[[_Standards/WikiData/WD~microlite,2738846]]'
-  - '[[_Standards/WikiData/WD~samarskite_mineral_group,3777808]]'
-  - '[[_Standards/WikiData/WD~polycrase-(Y),3907734]]'
-  - '[[_Standards/WikiData/WD~wodginite,4020618]]'
+  - "[[_Standards/WikiData/WD~fergusonite-(REE)_series,412914]]"
+  - "[[_Standards/WikiData/WD~tantalite,637080]]"
+  - "[[_Standards/WikiData/WD~euxenite-(Y),1146596]]"
+  - "[[_Standards/WikiData/WD~microlite,2738846]]"
+  - "[[_Standards/WikiData/WD~samarskite_mineral_group,3777808]]"
+  - "[[_Standards/WikiData/WD~polycrase-(Y),3907734]]"
+  - "[[_Standards/WikiData/WD~wodginite,4020618]]"
 mass: 180.94788
 melting_point: 5425
 MeSH_tree_code:
@@ -57,7 +57,7 @@ MeSH_tree_code:
   - D01.268.956.859
   - D01.552.544.837
 minimum_explosive_concentration: 200
-named_after: '[[_Standards/WikiData/WD~Tantalus,182101]]'
+named_after: "[[_Standards/WikiData/WD~Tantalus,182101]]"
 OmegaWiki_Defined_Meaning: 360513
 oxidation_state:
   - 2
@@ -65,13 +65,13 @@ oxidation_state:
   - 4
   - 5
 part_of:
-  - '[[_Standards/WikiData/WD~group_5,193276]]'
-  - '[[_Standards/WikiData/WD~period_6,239813]]'
+  - "[[_Standards/WikiData/WD~group_5,193276]]"
+  - "[[_Standards/WikiData/WD~period_6,239813]]"
 PubChem_CID: 23956
 RTECS_number: WW5505000
 short_term_exposure_limit: 10
 SpocWebEntityId: 21969
-subclass_of: '[[_Standards/WikiData/WD~metal,11426]]'
+subclass_of: "[[_Standards/WikiData/WD~metal,11426]]"
 thermal_conductivity: 54
 time_of_discovery_or_invention: 1802
 time_weighted_average_exposure_limit: 5
@@ -82,46 +82,132 @@ UNII: 6424HBN274
 vapor_pressure: 0
 Wolfram_Language_entity_code: Entity["Mineral", "Tantalum"]
 ZVG_number: 8440
+dv_has_:
+  name_:
+    group: Group-05-Vanadium
+    en: Tantalum
+    de: Tantal
+    abbreviated: Ta
+  value_for_:
+    weight_:
+      u: 180.9479
+    radius: 2.09
+    volume_:
+      ccm_:
+        mol: 10.9
+    unknown2: 1.34
+    radius_:
+      nano_:
+        m: 7.89
+    electronegativity: 1.5
+    density: 16.6
+    temperature_:
+      melt_:
+        c: 2996
+      boil_:
+        c: 5425
+    capacity_:
+      heat: 0.14
+    conductivity_:
+      heat: 0.575
+    enthalpy: 31.6
+    energy_:
+      form_:
+        kj_:
+          mol: 743
+  number_of_:
+    period: 6
+    electrons: 73
+    group: 5
+dv_is_:
+  part_of: "[[../Group-05-Vanadium]]"
+  same_as:
+    - "[[../../../WikiData/WD~Tantalum,1123|WD~Tantalum,1123]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-05-Vanadium/Tantalum|Tantalum]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-05-Vanadium/Tantalum.public|Tantalum.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-05-Vanadium/Tantalum.internal|Tantalum.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-05-Vanadium/Tantalum.protect|Tantalum.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-05-Vanadium/Tantalum.private|Tantalum.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-05-Vanadium/Tantalum.personal|Tantalum.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-05-Vanadium/Tantalum.secret|Tantalum.secret]]"
+dv_has_name_group: Group-05-Vanadium
+dv_is_part_of: "[[../Group-05-Vanadium]]"
+dv_has_name_en: Tantalum
+dv_has_name_de: Tantal
+dv_has_value_for_weight_u: 180.9479
+dv_has_value_for_radius: 2.09
+dv_has_value_for_volume_ccm_mol: 10.9
+dv_has_value_for_unknown2: 1.34
+dv_has_value_for_radius_nano_m: 7.89
+dv_has_value_for_electronegativity: 1.5
+dv_has_value_for_density: 16.6
+dv_has_value_for_temperature_melt_c: 2996
+dv_has_value_for_temperature_boil_c: 5425
+dv_has_value_for_capacity_heat: 0.14
+dv_has_value_for_conductivity_heat: 0.575
+dv_has_value_for_enthalpy: 31.6
+dv_has_value_for_energy_form_kj_mol: 743
+dv_has_number_of_period: 6
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Tantalum,1123|WD~Tantalum,1123]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-05-Vanadium/Tantalum|Tantalum]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-05-Vanadium/Tantalum.public|Tantalum.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-05-Vanadium/Tantalum.internal|Tantalum.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-05-Vanadium/Tantalum.protect|Tantalum.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-05-Vanadium/Tantalum.private|Tantalum.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-05-Vanadium/Tantalum.personal|Tantalum.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-05-Vanadium/Tantalum.secret|Tantalum.secret]]"
+dv_has_name_abbreviated: Ta
+dv_has_number_of_electrons: 73
+dv_has_number_of_group: 5
 ---
 
 # [[Tantalum]] 
 
 #chemic/Element 
 
-[GroupName::Group-05-Vanadium]
-Group::[[../Group-05-Vanadium]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
 `=this["Dewey Decimal Classification"]`
 `=this.Dewey_Decimal_Classification`
 `=this.oxidation_state[2]`
 
-[#has_/name_/en::Tantalum]
-[#has_/name_/de::Tantal]
-[#has_/value_for_/weight_/u::180.9479]
-[AtomRadius::2.09]
-[Atom-Vol-ccm-mol::10.9]
-[Unknown2::1.34]
-[#has_/value_for_/radius_/nano_/m::7.89]
-[Electronegative::1.5]
-[Density::16.6]
-[#has_/value_for_/temperature_/melt_/c ::2996]
-[#has_/value_for_/temperature_/boil_/c ::5425]
-[HeatCapacity::0.14]
-[HeatConduct::0.575]
-[Enthalpy::31.6]
-[FormEnergy-kj-mol::743]
-(PeriodNo::6)
+has_name_en = `=this.dv_has_name_en` 
+
+has_name_de = `=this.dv_has_name_de` 
+
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
+
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
+
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
+
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
+
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
+
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
+
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
 #is_/same_as :: [[../../../WikiData/WD~Tantalum,1123|WD~Tantalum,1123]] 
 
 ## #has_/text_of_/abstract 
 
-> **Tantalum** is a chemical element with the symbol (Abbr::Ta) and atomic number (Charge-e::73). 
+> **Tantalum** is a chemical element with the symbol has_name_abbreviated = `=this.dv_has_name_abbreviated`  and atomic number has_number_of_electrons = `=this.dv_has_number_of_electrons` . 
 > Previously known as tantalium, it is named after Tantalus, a figure in Greek mythology. 
 > 
 > Tantalum is a very hard, ductile, lustrous, blue-gray transition metal that is highly corrosion-resistant. 
 > It is part of the refractory metals group, 
 > which are widely used as components of strong high-melting-point alloys. 
-> It is a group (GroupNo::5) element, along with [[Vanadium]] and [[Niobium]], and 
+> It is a group has_number_of_group = `=this.dv_has_number_of_group`  element, along with [[Vanadium]] and [[Niobium]], and 
 > it always occurs in geologic sources together with the chemically similar niobium, 
 > mainly in the mineral groups tantalite, columbite and coltan. 
 >

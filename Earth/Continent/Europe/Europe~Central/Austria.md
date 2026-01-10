@@ -20,7 +20,7 @@ dv_has_:
     coat_of_arms: "![[./Austria/Coat_of_arms_of_Austria.svg|150]] ![](./Austria/Coat_of_arms_of_Austria.svg)"
   sound_of_:
     anthem: "![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Austria.mp3]]"
-dv_has_name_: Austria
+dv_has_name: Austria
 dv_has_name_en: Austria
 dv_has_name_es: Austria
 dv_has_name_fr: Autriche
@@ -502,7 +502,7 @@ has_treaties = `=this.dv_has_treaties`
 
 ## International Names
 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 has_name_en = `=this.dv_has_name_en` 
 has_name_es = `=this.dv_has_name_es` 
 has_name_fr = `=this.dv_has_name_fr` 

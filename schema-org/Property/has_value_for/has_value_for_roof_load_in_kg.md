@@ -29,10 +29,10 @@ type: Predi_Quantity
 
 Predicate to describe the Quantity of BusOrCoach, Car.
 
-[ #is_/part_of :: https://auto.schema.org ]
+#is_/part_of :: https://auto.schema.org  
 
 Use it like this: 
-- [ #has_/value_for_/roof_load_in_kg :: QuantitativeValue ] or 
+- [has_/value_for_/roof_load_in_kg :: QuantitativeValue ] 
 - [ has_value_for_roof_load_in_kg :: QuantitativeValue ] 
 
 The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
@@ -50,7 +50,9 @@ Typical unit code(s): KGM for kilogram, LBR for pound
 </ul>
 
 Predicate describes that: 
-[ #has_/domain  :: BusOrCoach, Car ]
+
+#has_/domain  :: BusOrCoach, Car  
+
 ( #has_/name :: has_value_for_roof_load_in_kg )
 ( #has_/range :: QuantitativeValue )
 

@@ -47,20 +47,20 @@ male_form_of_label:
   - Cheemiker
   - chemikas
   - ķīmiķe
-has_list: '[[_Standards/WikiData/WD~list_of_chemists,816854]]'
+has_list: "[[_Standards/WikiData/WD~list_of_chemists,816854]]"
 uses:
-  - '[[_Standards/WikiData/WD~chemical_literature,1069437]]'
-  - '[[_Standards/WikiData/WD~chemical_terminology,12168123]]'
-category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q58212005,58212005]]'
+  - "[[_Standards/WikiData/WD~chemical_literature,1069437]]"
+  - "[[_Standards/WikiData/WD~chemical_terminology,12168123]]"
+category_for_eponymous_categories: "[[_Standards/WikiData/WD~Q58212005,58212005]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~chemistry_term,87196290]]'
-  - '[[_Standards/WikiData/WD~occupation_group_according_to_ISCO_08,108300140]]'
-  - '[[_Standards/WikiData/WD~profession,28640]]'
+  - "[[_Standards/WikiData/WD~chemistry_term,87196290]]"
+  - "[[_Standards/WikiData/WD~occupation_group_according_to_ISCO_08,108300140]]"
+  - "[[_Standards/WikiData/WD~profession,28640]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~physical_and_earth_science_professionals,108289376]]'
-  - '[[_Standards/WikiData/WD~physical_scientist,124637774]]'
-field_of_this_occupation: '[[_Standards/WikiData/WD~chemistry,2329]]'
-model_item: '[[_Standards/WikiData/WD~Marie_Curie,7186]]'
+  - "[[_Standards/WikiData/WD~physical_and_earth_science_professionals,108289376]]"
+  - "[[_Standards/WikiData/WD~physical_scientist,124637774]]"
+field_of_this_occupation: "[[_Standards/WikiData/WD~chemistry,2329]]"
+model_item: "[[_Standards/WikiData/WD~Marie_Curie,7186]]"
 ISCO_08_occupation_class: 2113
 ISCO_88_occupation_class: 2113
 CNO_11_occupation_code: 2413
@@ -72,14 +72,35 @@ image:
 Commons_category: Chemists
 Dictionary_of_Occupational_Titles_Code_fourth_edition_revised_: 022.061-010
 SOC_Code_2010_: 19-2031
-CPP_2010: 2113.0
+CPP_2010: 2113
 Dewey_Decimal_Classification: 540.92
 P8189:
-  - 987007285059905171
-  - 987007546359705171
+  - 987007285059905200
+  - 987007546359705200
 UMLS_CUI: C0334707
-Wolfram_Language_entity_code: Entity["Concept", "Chemist::5ffsp"]
+Wolfram_Language_entity_code: Entity"Concept", "Chemist = `=this.dv_"Concept", "Chemist` 
 Provenio_UUID: f83caaf6-c4ad-4caa-8727-11e1effec5d9
+dv_"Concept", "Chemist: 5ffsp"
+dv_is_:
+  same_as:
+    - "[[../WikiData/WD~Chemist,593644|WD~Chemist,593644]]"
+    - "[[/_Standards/Chemistry/Chemist|Chemist]]"
+    - "[[/_public/Chemistry/Chemist.public|Chemist.public]]"
+    - "[[/_internal/Chemistry/Chemist.internal|Chemist.internal]]"
+    - "[[/_protect/Chemistry/Chemist.protect|Chemist.protect]]"
+    - "[[/_private/Chemistry/Chemist.private|Chemist.private]]"
+    - "[[/_personal/Chemistry/Chemist.personal|Chemist.personal]]"
+    - "[[/_secret/Chemistry/Chemist.secret|Chemist.secret]]"
+dv_concept-chemist: 5ffsp"
+dv_is_same_as:
+  - "[[../WikiData/WD~Chemist,593644|WD~Chemist,593644]]"
+  - "[[/_Standards/Chemistry/Chemist|Chemist]]"
+  - "[[/_public/Chemistry/Chemist.public|Chemist.public]]"
+  - "[[/_internal/Chemistry/Chemist.internal|Chemist.internal]]"
+  - "[[/_protect/Chemistry/Chemist.protect|Chemist.protect]]"
+  - "[[/_private/Chemistry/Chemist.private|Chemist.private]]"
+  - "[[/_personal/Chemistry/Chemist.personal|Chemist.personal]]"
+  - "[[/_secret/Chemistry/Chemist.secret|Chemist.secret]]"
 ---
 # [[Chemist]]  
 

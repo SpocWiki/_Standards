@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: SAUDI ARABIA
 dv_Telephone: 966
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Saudi Arabia
+dv_has_name: Saudi Arabia
 dv_has_name_en:
   - Saudi Arabia
   - Saudi Arabia
@@ -534,7 +534,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 [	has_name_en	 :: Saudi Arabia ]
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`

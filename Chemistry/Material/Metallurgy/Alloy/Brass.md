@@ -2,11 +2,39 @@
 aliases:
   - Messing
   - Brass
+dv_is_:
+  similar_to: "[[Bronze]]"
+  same_as:
+    - "[[../../../../WikiData/WD~Brass,39782|WD~Brass,39782]]"
+    - "[[/_Standards/Chemistry/Material/Metallurgy/Alloy/Brass|Brass]]"
+    - "[[/_public/Chemistry/Material/Metallurgy/Alloy/Brass.public|Brass.public]]"
+    - "[[/_internal/Chemistry/Material/Metallurgy/Alloy/Brass.internal|Brass.internal]]"
+    - "[[/_protect/Chemistry/Material/Metallurgy/Alloy/Brass.protect|Brass.protect]]"
+    - "[[/_private/Chemistry/Material/Metallurgy/Alloy/Brass.private|Brass.private]]"
+    - "[[/_personal/Chemistry/Material/Metallurgy/Alloy/Brass.personal|Brass.personal]]"
+    - "[[/_secret/Chemistry/Material/Metallurgy/Alloy/Brass.secret|Brass.secret]]"
+dv_has_:
+  parts:
+    - "[[../../../Chemical_Element/Group-11-Copper/Copper|Copper]]"
+    - "[[../../../Chemical_Element/Group-12-Zinc/Zinc|Zinc]]"
+dv_is_similar_to: "[[Bronze]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Brass,39782|WD~Brass,39782]]"
+  - "[[/_Standards/Chemistry/Material/Metallurgy/Alloy/Brass|Brass]]"
+  - "[[/_public/Chemistry/Material/Metallurgy/Alloy/Brass.public|Brass.public]]"
+  - "[[/_internal/Chemistry/Material/Metallurgy/Alloy/Brass.internal|Brass.internal]]"
+  - "[[/_protect/Chemistry/Material/Metallurgy/Alloy/Brass.protect|Brass.protect]]"
+  - "[[/_private/Chemistry/Material/Metallurgy/Alloy/Brass.private|Brass.private]]"
+  - "[[/_personal/Chemistry/Material/Metallurgy/Alloy/Brass.personal|Brass.personal]]"
+  - "[[/_secret/Chemistry/Material/Metallurgy/Alloy/Brass.secret|Brass.secret]]"
+dv_has_parts:
+  - "[[../../../Chemical_Element/Group-11-Copper/Copper|Copper]]"
+  - "[[../../../Chemical_Element/Group-12-Zinc/Zinc|Zinc]]"
 ---
 
 # [[Brass]] 
 
-#is_/similar_to :: [[Bronze]] 
+is_similar_to = `=this.dv_is_similar_to` 
 #is_/same_as :: [[../../../../WikiData/WD~Brass,39782|WD~Brass,39782]] 
 #has_/parts :: [[../../../Chemical_Element/Group-11-Copper/Copper|Copper]] 
 #has_/parts :: [[../../../Chemical_Element/Group-12-Zinc/Zinc|Zinc]]   

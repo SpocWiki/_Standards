@@ -10,21 +10,43 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - unit_price_specification
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_unit_price_specification Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_unit_price_specification Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../PriceSpecification]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification|Unit_Price_Specification]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification.public|Unit_Price_Specification.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification.internal|Unit_Price_Specification.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification.protect|Unit_Price_Specification.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification.private|Unit_Price_Specification.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification.personal|Unit_Price_Specification.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification.secret|Unit_Price_Specification.secret]]"
+dv_has_:
+  properties: "[ additionalType, alternateName, billingDuration, billingIncrement, billingStart, description, disambiguatingDescription, eligibleQuantity, eligibleTransactionVolume, identifier, image, mainEntityOfPage, maxPrice, minPrice, name, potentialAction, price, priceComponentType, priceCurrency, priceType, referenceQuantity, sameAs, subjectOf, unitCode, unitText, url, validFrom, validThrough, valueAddedTaxIncluded ]"
+dv_is_sub_class_of: "[[../PriceSpecification]]"
+dv_has_properties: "[ additionalType, alternateName, billingDuration, billingIncrement, billingStart, description, disambiguatingDescription, eligibleQuantity, eligibleTransactionVolume, identifier, image, mainEntityOfPage, maxPrice, minPrice, name, potentialAction, price, priceComponentType, priceCurrency, priceType, referenceQuantity, sameAs, subjectOf, unitCode, unitText, url, validFrom, validThrough, valueAddedTaxIncluded ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification|Unit_Price_Specification]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification.public|Unit_Price_Specification.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification.internal|Unit_Price_Specification.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification.protect|Unit_Price_Specification.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification.private|Unit_Price_Specification.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification.personal|Unit_Price_Specification.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification.secret|Unit_Price_Specification.secret]]"
 ---
 
 Class of all unit_price_specifications.
@@ -34,10 +56,9 @@ Tag Instances like this:
 
 The price asked for a given offer by the respective organization or person.
 
-[ #is_/sub_class_of :: [[../PriceSpecification]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #has_/properties :: [ additionalType, alternateName, billingDuration, billingIncrement, billingStart, description, disambiguatingDescription, eligibleQuantity, eligibleTransactionVolume, identifier, image, mainEntityOfPage, maxPrice, minPrice, name, potentialAction, price, priceComponentType, priceCurrency, priceType, referenceQuantity, sameAs, subjectOf, unitCode, unitText, url, validFrom, validThrough, valueAddedTaxIncluded ] ]
-
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

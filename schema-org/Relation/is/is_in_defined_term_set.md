@@ -30,23 +30,24 @@ title: is_in_defined_term_set
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #is_/in_defined_term_set :: DefinedTermSet, URL ] or 
+- [is_/in_defined_term_set :: DefinedTermSet, URL ] 
 - [ is_in_defined_term_set :: DefinedTermSet, URL ] 
 
 A [[DefinedTermSet]] that contains this term.
 
 Relation describes that: 
-[ #has_/domain  :: DefinedTerm ]
+
+#has_/domain  :: DefinedTerm  
+
 ( #has_/name :: is_in_defined_term_set )
 ( #has_/range :: DefinedTermSet, URL )
 
-[ #is_/sub_property_of  :: [[../../../Composite/is_part_of]] ]
+#is_/sub_property_of  :: [[../../../Composite/is_part_of]]  
 
-[ #has_/sub_properties :: [[is_in_code_set]] ]
-
+#has_/sub_properties :: [[is_in_code_set]]  
 
 ## Confidential Links & Embeds: 
 

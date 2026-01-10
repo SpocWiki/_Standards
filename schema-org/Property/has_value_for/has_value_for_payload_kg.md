@@ -29,10 +29,10 @@ type: Predi_Quantity
 
 Predicate to describe the Quantity of Vehicle.
 
-[ #is_/part_of :: https://auto.schema.org ]
+#is_/part_of :: https://auto.schema.org  
 
 Use it like this: 
-- [ #has_/value_for_/payload_kg :: QuantitativeValue ] or 
+- [has_/value_for_/payload_kg :: QuantitativeValue ] 
 - [ has_value_for_payload_kg :: QuantitativeValue ] 
 
 The permitted weight of passengers and cargo, EXCLUDING the weight of the empty vehicle.
@@ -51,7 +51,9 @@ Typical unit code(s): KGM for kilogram, LBR for pound
 </ul>
 
 Predicate describes that: 
-[ #has_/domain  :: Vehicle ]
+
+#has_/domain  :: Vehicle  
+
 ( #has_/name :: has_value_for_payload_kg )
 ( #has_/range :: QuantitativeValue )
 

@@ -11,21 +11,44 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: SizeSystemEnumeration
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - size_system_imperial
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_size_system_imperial Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_size_system_imperial Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../SizeSystemEnumeration]]"
+  enum_of: "[[../SizeSystemEnumeration]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Size_System_Enumeration/Size_System_Imperial|Size_System_Imperial]]"
+    - "[[/_public/schema-org/Enumeration/Size_System_Enumeration/Size_System_Imperial.public|Size_System_Imperial.public]]"
+    - "[[/_internal/schema-org/Enumeration/Size_System_Enumeration/Size_System_Imperial.internal|Size_System_Imperial.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Size_System_Enumeration/Size_System_Imperial.protect|Size_System_Imperial.protect]]"
+    - "[[/_private/schema-org/Enumeration/Size_System_Enumeration/Size_System_Imperial.private|Size_System_Imperial.private]]"
+    - "[[/_personal/schema-org/Enumeration/Size_System_Enumeration/Size_System_Imperial.personal|Size_System_Imperial.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Size_System_Enumeration/Size_System_Imperial.secret|Size_System_Imperial.secret]]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../SizeSystemEnumeration]]"
+dv_is_enum_of: "[[../SizeSystemEnumeration]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Size_System_Enumeration/Size_System_Imperial|Size_System_Imperial]]"
+  - "[[/_public/schema-org/Enumeration/Size_System_Enumeration/Size_System_Imperial.public|Size_System_Imperial.public]]"
+  - "[[/_internal/schema-org/Enumeration/Size_System_Enumeration/Size_System_Imperial.internal|Size_System_Imperial.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Size_System_Enumeration/Size_System_Imperial.protect|Size_System_Imperial.protect]]"
+  - "[[/_private/schema-org/Enumeration/Size_System_Enumeration/Size_System_Imperial.private|Size_System_Imperial.private]]"
+  - "[[/_personal/schema-org/Enumeration/Size_System_Enumeration/Size_System_Imperial.personal|Size_System_Imperial.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Size_System_Enumeration/Size_System_Imperial.secret|Size_System_Imperial.secret]]"
 ---
 
 Class of all size_system_imperials.
@@ -33,14 +56,13 @@ Class of all size_system_imperials.
 Tag Instances like this: 
 #is_a_/size_system_imperial
 
-[ #is_/part_of :: https://pending.schema.org ]
+is_part_of = `=this.dv_is_part_of` 
 
 Imperial size system.
 
-[ #is_/sub_class_of :: [[../SizeSystemEnumeration]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #is_/enum_of :: [[../SizeSystemEnumeration]] ]
-
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

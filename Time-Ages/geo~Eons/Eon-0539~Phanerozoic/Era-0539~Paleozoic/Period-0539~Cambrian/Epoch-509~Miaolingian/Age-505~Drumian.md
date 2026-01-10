@@ -29,15 +29,95 @@ coordinate_location: Point(-112.9915 39.5117)
 end_time: -500500000-01-01T00:00:00Z
 Commons_category: Drumian
 sRGB_color_hex_triplet: BFD99D
+dv_has_:
+  duration_:
+    years: "4.000e+6"
+  previous_:
+    item: "[[Age-509~Wuliuan]]"
+  next_:
+    item: "[[Age-501~Guzhangian]]"
+  name_:
+    bg: Друм
+    cs: Drum
+    da: Drumien
+    de: Drumium
+    es: Drumiense
+    et: Drumi
+    fi: Drum
+    fr: Drumien
+    hu: drumi
+    it: drumiano
+    ja: ドルミアン期
+    lt: Drumis
+    nl: Drumiën
+    no: Drumium
+    pl: Drum
+    pt: Drumiano
+    sk: drum
+    sl: drumij
+    sv: drum
+    zh: 鼓山期
+    abbreviated: ep6
+  time_:
+    started: "-504.5e6"
+    stopped: "-500.5e6"
+  text_of_:
+    color: "0xBFD99D"
+dv_is_:
+  same_as:
+    - "[[WD~Drumian,43712]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-505~Drumian|Age-505~Drumian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-505~Drumian.public|Age-505~Drumian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-505~Drumian.internal|Age-505~Drumian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-505~Drumian.protect|Age-505~Drumian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-505~Drumian.private|Age-505~Drumian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-505~Drumian.personal|Age-505~Drumian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-505~Drumian.secret|Age-505~Drumian.secret]]"
+dv_has_duration_years: "4.000e+6"
+dv_has_previous_item: "[[Age-509~Wuliuan]]"
+dv_has_next_item: "[[Age-501~Guzhangian]]"
+dv_is_same_as:
+  - "[[WD~Drumian,43712]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-505~Drumian|Age-505~Drumian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-505~Drumian.public|Age-505~Drumian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-505~Drumian.internal|Age-505~Drumian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-505~Drumian.protect|Age-505~Drumian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-505~Drumian.private|Age-505~Drumian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-505~Drumian.personal|Age-505~Drumian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian/Age-505~Drumian.secret|Age-505~Drumian.secret]]"
+dv_has_name_bg: Друм
+dv_has_name_cs: Drum
+dv_has_name_da: Drumien
+dv_has_name_de: Drumium
+dv_has_name_es: Drumiense
+dv_has_name_et: Drumi
+dv_has_name_fi: Drum
+dv_has_name_fr: Drumien
+dv_has_name_hu: drumi
+dv_has_name_it: drumiano
+dv_has_name_ja: ドルミアン期
+dv_has_name_lt: Drumis
+dv_has_name_nl: Drumiën
+dv_has_name_no: Drumium
+dv_has_name_pl: Drum
+dv_has_name_pt: Drumiano
+dv_has_name_sk: drum
+dv_has_name_sl: drumij
+dv_has_name_sv: drum
+dv_has_name_zh: 鼓山期
+dv_has_name_abbreviated: ep6
+dv_has_time_started: "-504.5e6"
+dv_has_time_stopped: "-500.5e6"
+dv_has_text_of_color: "0xBFD99D"
 ---
 # [[Age-505~Drumian]] 
 
 #is_a_/time_/Age 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[Age-509~Wuliuan]]   
-#has_/next_/item :: [[Age-501~Guzhangian]]   
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Drumian,43712]] 
 
 A time period from 504.5 to 500.5 million years ago. 
@@ -53,35 +133,35 @@ A time period from 504.5 to 500.5 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Drumian) 
 
 
-#has_/name_/bg  :: Друм
-#has_/name_/cs  :: Drum
-#has_/name_/da  :: Drumien
-#has_/name_/de  :: Drumium
-#has_/name_/es  :: Drumiense
-#has_/name_/et  :: Drumi
-#has_/name_/fi  :: Drum
-#has_/name_/fr  :: Drumien
-#has_/name_/hu  :: drumi
-#has_/name_/it  :: drumiano
-#has_/name_/ja  :: ドルミアン期
-#has_/name_/lt  :: Drumis
-#has_/name_/nl  :: Drumiën
-#has_/name_/no  :: Drumium
-#has_/name_/pl  :: Drum
-#has_/name_/pt  :: Drumiano
-#has_/name_/sk  :: drum
-#has_/name_/sl  :: drumij
-#has_/name_/sv  :: drum
-#has_/name_/zh  :: 鼓山期
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/abbreviation :: ep6
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
-#has_/time_/started :: -504.5e6 
-#has_/time_/stopped :: -500.5e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 147 
 
-#has_/text_of_/color :: 0xBFD99D
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

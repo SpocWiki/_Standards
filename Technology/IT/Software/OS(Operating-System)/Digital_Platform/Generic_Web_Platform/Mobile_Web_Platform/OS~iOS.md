@@ -150,14 +150,13 @@ Class of all ios_platforms.
 Tag Instances like this: 
 #is_an_/ios_platform
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Represents the broad notion of iOS-based operating systems.
 
-[ #is_/sub_class_of :: [[../DigitalPlatformEnumeration]] ]
+#is_/sub_class_of :: [[../DigitalPlatformEnumeration]]  
 
-[ #is_/enum_of :: [[../DigitalPlatformEnumeration]] ]
-
+#is_/enum_of :: [[../DigitalPlatformEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

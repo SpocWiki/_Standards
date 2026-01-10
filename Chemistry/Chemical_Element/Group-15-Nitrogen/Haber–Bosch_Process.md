@@ -3,6 +3,23 @@ aliases:
   - Haber Process
   - Haber–Bosch Process
   - Haber–Bosch_Process
+dv_is_:
+  same_as:
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/Haber–Bosch_Process|Haber–Bosch_Process]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Haber–Bosch_Process.public|Haber–Bosch_Process.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Haber–Bosch_Process.internal|Haber–Bosch_Process.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/Haber–Bosch_Process.protect|Haber–Bosch_Process.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Haber–Bosch_Process.private|Haber–Bosch_Process.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Haber–Bosch_Process.personal|Haber–Bosch_Process.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Haber–Bosch_Process.secret|Haber–Bosch_Process.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/Haber–Bosch_Process|Haber–Bosch_Process]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Haber–Bosch_Process.public|Haber–Bosch_Process.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Haber–Bosch_Process.internal|Haber–Bosch_Process.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/Haber–Bosch_Process.protect|Haber–Bosch_Process.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Haber–Bosch_Process.private|Haber–Bosch_Process.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Haber–Bosch_Process.personal|Haber–Bosch_Process.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Haber–Bosch_Process.secret|Haber–Bosch_Process.secret]]"
 ---
 
 This is the most important chemical Process. 2% of Energy is being invested to that. 

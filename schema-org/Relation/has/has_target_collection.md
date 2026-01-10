@@ -34,16 +34,17 @@ A sub property of object.
 The collection target of the action.
 
 Use it like this: 
-- [ #has_/target_collection :: [Thing](../../../Class/Thing.md) ] or 
+- [has_/target_collection :: [Thing](../../../Class/Thing.md) ] 
 - [ has_target_collection :: [Thing](../../../Class/Thing.md) ] 
 
 Relation describes that: 
-[ #has_/domain  :: UpdateAction ]
+
+#has_/domain  :: UpdateAction  
+
 ( #has_/name :: has_target_collection )
 ( #has_/range :: Thing )
 
-[ #is_/sub_property_of  :: object ]
-
+#is_/sub_property_of  :: object  
 
 ## Confidential Links & Embeds: 
 

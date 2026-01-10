@@ -29,18 +29,19 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/result_comment :: Comment ] or 
+- [has_/result_comment :: Comment ] 
 - [ has_result_comment :: Comment ] 
 
 A sub property of result. The Comment created or sent as a result of this action.
 
 Relation describes that: 
-[ #has_/domain  :: CommentAction, ReplyAction ]
+
+#has_/domain  :: CommentAction, ReplyAction  
+
 ( #has_/name :: is_result_comment )
 ( #has_/range :: Comment )
 
-[ #is_/sub_property_of  :: result ]
-
+#is_/sub_property_of  :: result  
 
 ## Confidential Links & Embeds: 
 

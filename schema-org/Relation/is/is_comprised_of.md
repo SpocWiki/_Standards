@@ -35,16 +35,17 @@ such as organs, that comprise the anatomical system.
 Inverse to [[../../Composite/is_part_of|is_part_of]] 
 
 Use it like this: 
-- [ #is_/comprised_of :: AnatomicalStructure, AnatomicalSystem ] or 
+- [is_/comprised_of :: AnatomicalStructure, AnatomicalSystem ] 
 - [ is_comprised_of :: AnatomicalStructure, AnatomicalSystem ] 
 
 Relation describes that: 
-[ #has_/domain  :: AnatomicalSystem ]
+
+#has_/domain  :: AnatomicalSystem  
+
 ( #has_/name :: is_comprised_of )
 ( #has_/range :: AnatomicalStructure, AnatomicalSystem )
 
-[ #is_/inverse_of  :: [[../../Composite/is_part_of]] ]
-
+#is_/inverse_of  :: [[../../Composite/is_part_of]]  
 
 ## Confidential Links & Embeds: 
 

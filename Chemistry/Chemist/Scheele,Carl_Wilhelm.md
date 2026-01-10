@@ -1,7 +1,35 @@
+---
+dv_has_:
+  time_:
+    started: 1742-12-09T00:00:00.000+00:53
+    stopped: 1786-05-21T00:00:00.000+00:53
+  age_:
+    years: 43
+dv_is_:
+  same_as:
+    - "[[/_Standards/Chemistry/Chemist/Scheele,Carl_Wilhelm|Scheele,Carl_Wilhelm]]"
+    - "[[/_public/Chemistry/Chemist/Scheele,Carl_Wilhelm.public|Scheele,Carl_Wilhelm.public]]"
+    - "[[/_internal/Chemistry/Chemist/Scheele,Carl_Wilhelm.internal|Scheele,Carl_Wilhelm.internal]]"
+    - "[[/_protect/Chemistry/Chemist/Scheele,Carl_Wilhelm.protect|Scheele,Carl_Wilhelm.protect]]"
+    - "[[/_private/Chemistry/Chemist/Scheele,Carl_Wilhelm.private|Scheele,Carl_Wilhelm.private]]"
+    - "[[/_personal/Chemistry/Chemist/Scheele,Carl_Wilhelm.personal|Scheele,Carl_Wilhelm.personal]]"
+    - "[[/_secret/Chemistry/Chemist/Scheele,Carl_Wilhelm.secret|Scheele,Carl_Wilhelm.secret]]"
+dv_has_time_started: 1742-12-09
+dv_has_time_stopped: 1786-05-21
+dv_has_age_years: 43
+dv_is_same_as:
+  - "[[/_Standards/Chemistry/Chemist/Scheele,Carl_Wilhelm|Scheele,Carl_Wilhelm]]"
+  - "[[/_public/Chemistry/Chemist/Scheele,Carl_Wilhelm.public|Scheele,Carl_Wilhelm.public]]"
+  - "[[/_internal/Chemistry/Chemist/Scheele,Carl_Wilhelm.internal|Scheele,Carl_Wilhelm.internal]]"
+  - "[[/_protect/Chemistry/Chemist/Scheele,Carl_Wilhelm.protect|Scheele,Carl_Wilhelm.protect]]"
+  - "[[/_private/Chemistry/Chemist/Scheele,Carl_Wilhelm.private|Scheele,Carl_Wilhelm.private]]"
+  - "[[/_personal/Chemistry/Chemist/Scheele,Carl_Wilhelm.personal|Scheele,Carl_Wilhelm.personal]]"
+  - "[[/_secret/Chemistry/Chemist/Scheele,Carl_Wilhelm.secret|Scheele,Carl_Wilhelm.secret]]"
+---
 
-#has_/time_/started :: 1742-12-09 
-#has_/time_/stopped :: 1786-05-21 
-#has_/age_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
+#has_/age_/years :: `$=Math.round(((dv.current().dv_has_time_stopped ?? new Date()) - dv.current().dv_has_time_started)/1000/60/60/24/365.2425)` 
 
 ## #has_/text_of_/abstract 
 

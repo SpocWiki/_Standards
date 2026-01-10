@@ -10,21 +10,44 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: PriceTypeEnumeration
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - srp
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_srp Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_srp Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../PriceTypeEnumeration]]"
+  enum_of: "[[../PriceTypeEnumeration]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Price_Type_Enumeration/Srp|Srp]]"
+    - "[[/_public/schema-org/Enumeration/Price_Type_Enumeration/Srp.public|Srp.public]]"
+    - "[[/_internal/schema-org/Enumeration/Price_Type_Enumeration/Srp.internal|Srp.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Price_Type_Enumeration/Srp.protect|Srp.protect]]"
+    - "[[/_private/schema-org/Enumeration/Price_Type_Enumeration/Srp.private|Srp.private]]"
+    - "[[/_personal/schema-org/Enumeration/Price_Type_Enumeration/Srp.personal|Srp.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Price_Type_Enumeration/Srp.secret|Srp.secret]]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../PriceTypeEnumeration]]"
+dv_is_enum_of: "[[../PriceTypeEnumeration]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Price_Type_Enumeration/Srp|Srp]]"
+  - "[[/_public/schema-org/Enumeration/Price_Type_Enumeration/Srp.public|Srp.public]]"
+  - "[[/_internal/schema-org/Enumeration/Price_Type_Enumeration/Srp.internal|Srp.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Price_Type_Enumeration/Srp.protect|Srp.protect]]"
+  - "[[/_private/schema-org/Enumeration/Price_Type_Enumeration/Srp.private|Srp.private]]"
+  - "[[/_personal/schema-org/Enumeration/Price_Type_Enumeration/Srp.personal|Srp.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Price_Type_Enumeration/Srp.secret|Srp.secret]]"
 ---
 
 Class of all srps.
@@ -32,14 +55,13 @@ Class of all srps.
 Tag Instances like this: 
 #is_a_/srp
 
-[ #is_/part_of :: https://pending.schema.org ]
+is_part_of = `=this.dv_is_part_of` 
 
 Represents the suggested retail price ("SRP") of an offered product.
 
-[ #is_/sub_class_of :: [[../PriceTypeEnumeration]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #is_/enum_of :: [[../PriceTypeEnumeration]] ]
-
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

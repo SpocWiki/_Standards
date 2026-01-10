@@ -9,21 +9,43 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - how_to_tool
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_how_to_tool Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_how_to_tool Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../HowToItem]]"
+  same_as:
+    - "[[/_Standards/schema-org/Collection/list_item/how_to_item/how_to_tool|how_to_tool]]"
+    - "[[/_public/schema-org/Collection/list_item/how_to_item/how_to_tool.public|how_to_tool.public]]"
+    - "[[/_internal/schema-org/Collection/list_item/how_to_item/how_to_tool.internal|how_to_tool.internal]]"
+    - "[[/_protect/schema-org/Collection/list_item/how_to_item/how_to_tool.protect|how_to_tool.protect]]"
+    - "[[/_private/schema-org/Collection/list_item/how_to_item/how_to_tool.private|how_to_tool.private]]"
+    - "[[/_personal/schema-org/Collection/list_item/how_to_item/how_to_tool.personal|how_to_tool.personal]]"
+    - "[[/_secret/schema-org/Collection/list_item/how_to_item/how_to_tool.secret|how_to_tool.secret]]"
+dv_has_:
+  properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, item, mainEntityOfPage, name, nextItem, position, potentialAction, previousItem, requiredQuantity, sameAs, subjectOf, url ]"
+dv_is_sub_class_of: "[[../HowToItem]]"
+dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, item, mainEntityOfPage, name, nextItem, position, potentialAction, previousItem, requiredQuantity, sameAs, subjectOf, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Collection/list_item/how_to_item/how_to_tool|how_to_tool]]"
+  - "[[/_public/schema-org/Collection/list_item/how_to_item/how_to_tool.public|how_to_tool.public]]"
+  - "[[/_internal/schema-org/Collection/list_item/how_to_item/how_to_tool.internal|how_to_tool.internal]]"
+  - "[[/_protect/schema-org/Collection/list_item/how_to_item/how_to_tool.protect|how_to_tool.protect]]"
+  - "[[/_private/schema-org/Collection/list_item/how_to_item/how_to_tool.private|how_to_tool.private]]"
+  - "[[/_personal/schema-org/Collection/list_item/how_to_item/how_to_tool.personal|how_to_tool.personal]]"
+  - "[[/_secret/schema-org/Collection/list_item/how_to_item/how_to_tool.secret|how_to_tool.secret]]"
 ---
 
 Class of all how_to_tools.
@@ -33,10 +55,9 @@ Tag Instances like this:
 
 A tool used (but not consumed) when performing instructions for how to achieve a result.
 
-[ #is_/sub_class_of :: [[../HowToItem]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, item, mainEntityOfPage, name, nextItem, position, potentialAction, previousItem, requiredQuantity, sameAs, subjectOf, url ] ]
-
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

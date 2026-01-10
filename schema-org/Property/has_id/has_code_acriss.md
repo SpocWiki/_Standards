@@ -32,10 +32,10 @@ type: Pred_Text
 
 Predicate to describe the Text of BusOrCoach, Car.
 
-[ #is_/part_of :: https://auto.schema.org ]
+#is_/part_of :: https://auto.schema.org  
 
 Use it like this: 
-- [ #has_/code_/acriss :: Text ] or 
+- [has_/code_/acriss :: Text ] 
 - [ has_code_acriss :: Text ] 
 
 The ACRISS Car Classification Code is a code 
@@ -44,7 +44,9 @@ used by many car rental companies, for classifying vehicles.
 ACRISS stands for Association of Car Rental Industry Systems and Standards.
 
 Predicated describes that: 
-[ #has_/domain  :: BusOrCoach, Car ]
+
+#has_/domain  :: BusOrCoach, Car  
+
 ( #has_/name :: has_code_acriss )
 ( #has_/range :: Text )
 

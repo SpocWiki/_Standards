@@ -11,21 +11,44 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: EUEnergyEfficiencyEnumeration
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - eu_energy_efficiency_category_g
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_an_eu_energy_efficiency_category_g Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_an_eu_energy_efficiency_category_g Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../EUEnergyEfficiencyEnumeration]]"
+  enum_of: "[[../EUEnergyEfficiencyEnumeration]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_G|Eu_Energy_Efficiency_Category_G]]"
+    - "[[/_public/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_G.public|Eu_Energy_Efficiency_Category_G.public]]"
+    - "[[/_internal/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_G.internal|Eu_Energy_Efficiency_Category_G.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_G.protect|Eu_Energy_Efficiency_Category_G.protect]]"
+    - "[[/_private/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_G.private|Eu_Energy_Efficiency_Category_G.private]]"
+    - "[[/_personal/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_G.personal|Eu_Energy_Efficiency_Category_G.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_G.secret|Eu_Energy_Efficiency_Category_G.secret]]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../EUEnergyEfficiencyEnumeration]]"
+dv_is_enum_of: "[[../EUEnergyEfficiencyEnumeration]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_G|Eu_Energy_Efficiency_Category_G]]"
+  - "[[/_public/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_G.public|Eu_Energy_Efficiency_Category_G.public]]"
+  - "[[/_internal/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_G.internal|Eu_Energy_Efficiency_Category_G.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_G.protect|Eu_Energy_Efficiency_Category_G.protect]]"
+  - "[[/_private/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_G.private|Eu_Energy_Efficiency_Category_G.private]]"
+  - "[[/_personal/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_G.personal|Eu_Energy_Efficiency_Category_G.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_G.secret|Eu_Energy_Efficiency_Category_G.secret]]"
 ---
 
 Class of all eu_energy_efficiency_category_gs.
@@ -33,14 +56,13 @@ Class of all eu_energy_efficiency_category_gs.
 Tag Instances like this: 
 #is_an_/eu_energy_efficiency_category_g
 
-[ #is_/part_of :: https://pending.schema.org ]
+is_part_of = `=this.dv_is_part_of` 
 
 Represents EU Energy Efficiency Class G as defined in EU energy labeling regulations.
 
-[ #is_/sub_class_of :: [[../EUEnergyEfficiencyEnumeration]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #is_/enum_of :: [[../EUEnergyEfficiencyEnumeration]] ]
-
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

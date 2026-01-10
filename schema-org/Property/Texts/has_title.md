@@ -11,35 +11,65 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - title
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_title
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_title
 type: Pred_Text
+dv_has_:
+  text_of_:
+    title: Text
+  domain: JobPosting
+dv_has_text_of_title: Text
+dv_#has_:
+  name: has_text_of_title
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/Texts/has_title|has_title]]"
+    - "[[/_public/schema-org/Property/Texts/has_title.public|has_title.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_title.internal|has_title.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_title.protect|has_title.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_title.private|has_title.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_title.personal|has_title.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_title.secret|has_title.secret]]"
+dv_has_domain: JobPosting
+dv_has_name: has_text_of_title
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Texts/has_title|has_title]]"
+  - "[[/_public/schema-org/Property/Texts/has_title.public|has_title.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_title.internal|has_title.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_title.protect|has_title.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_title.private|has_title.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_title.personal|has_title.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_title.secret|has_title.secret]]"
 ---
 
 Predicate to describe the Text of JobPosting.
 
 Use it like this: 
-- [ #has_/text_of_/title :: Text ] or 
-- [ has_text_of_title :: Text ] 
+- has_text_of_title = `=this.dv_has_text_of_title`  
+- has_text_of_title = `=this.dv_has_text_of_title`  
 
 The title of the job.
 
 Predicated describes that: 
-[ #has_/domain  :: JobPosting ]
-( #has_/name :: has_text_of_title )
-( #has_/range :: Text )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

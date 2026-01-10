@@ -10,35 +10,65 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - required-quantity
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_required-quantity
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_required-quantity
 type: Predi_Quantity
+dv_has_:
+  value_for_:
+    required_quantity: Number, QuantitativeValue, Text
+  domain: HowToItem
+dv_has_value_for_required_quantity: Number, QuantitativeValue, Text
+dv_#has_:
+  name: has_value_for_required_quantity
+  range: Number, QuantitativeValue, Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_required_quantity|has_value_for_required_quantity]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_required_quantity.public|has_value_for_required_quantity.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_required_quantity.internal|has_value_for_required_quantity.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_required_quantity.protect|has_value_for_required_quantity.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_required_quantity.private|has_value_for_required_quantity.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_required_quantity.personal|has_value_for_required_quantity.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_required_quantity.secret|has_value_for_required_quantity.secret]]"
+dv_has_domain: HowToItem
+dv_has_name: has_value_for_required_quantity
+dv_has_range: Number, QuantitativeValue, Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_required_quantity|has_value_for_required_quantity]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_required_quantity.public|has_value_for_required_quantity.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_required_quantity.internal|has_value_for_required_quantity.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_required_quantity.protect|has_value_for_required_quantity.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_required_quantity.private|has_value_for_required_quantity.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_required_quantity.personal|has_value_for_required_quantity.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_required_quantity.secret|has_value_for_required_quantity.secret]]"
 ---
 
 Predicate to describe the Quantity of HowToItem.
 
 Use it like this: 
-- [ #has_/value_for_/required_quantity :: Number, QuantitativeValue, Text ] or 
-- [ has_value_for_required_quantity :: Number, QuantitativeValue, Text ] 
+- has_value_for_required_quantity = `=this.dv_has_value_for_required_quantity`  
+- has_value_for_required_quantity = `=this.dv_has_value_for_required_quantity`  
 
 The required quantity of the item(s).
 
 Predicate describes that: 
-[ #has_/domain  :: HowToItem ]
-( #has_/name :: has_value_for_required_quantity )
-( #has_/range :: Number, QuantitativeValue, Text )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

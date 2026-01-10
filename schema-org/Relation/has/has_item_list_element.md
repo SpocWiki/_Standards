@@ -9,7 +9,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,21 +17,48 @@ keywords:
   - item
   - list
   - element
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_item_list_element
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_item_list_element
 type: Predi_Relation
+dv_has_:
+  item_list_element: ListItem, Text, Thing
+  domain: ItemList
+dv_has_item_list_element: ListItem, Text, Thing
+dv_#has_:
+  name: has_item_list_element
+  range: ListItem, Text, Thing
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_item_list_element|has_item_list_element]]"
+    - "[[/_public/schema-org/Relation/has/has_item_list_element.public|has_item_list_element.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_item_list_element.internal|has_item_list_element.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_item_list_element.protect|has_item_list_element.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_item_list_element.private|has_item_list_element.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_item_list_element.personal|has_item_list_element.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_item_list_element.secret|has_item_list_element.secret]]"
+dv_has_domain: ItemList
+dv_has_name: has_item_list_element
+dv_has_range: ListItem, Text, Thing
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_item_list_element|has_item_list_element]]"
+  - "[[/_public/schema-org/Relation/has/has_item_list_element.public|has_item_list_element.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_item_list_element.internal|has_item_list_element.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_item_list_element.protect|has_item_list_element.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_item_list_element.private|has_item_list_element.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_item_list_element.personal|has_item_list_element.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_item_list_element.secret|has_item_list_element.secret]]"
 ---
 
 Use it like this: 
-- [ #has_/item_list_element :: ListItem, Text, Thing ] or 
-- [ has_item_list_element :: ListItem, Text, Thing ] 
+- has_item_list_element = `=this.dv_has_item_list_element`  
+- has_item_list_element = `=this.dv_has_item_list_element`  
 
 For itemListElement values, you can use simple strings (e.g. "Peter", "Paul", "Mary"), existing entities, or use ListItem.
 
@@ -44,9 +71,11 @@ Text values are best if the elements in the list are plain strings. Existing ent
 Note: The order of elements in your mark-up is not sufficient for indicating the order or elements.  Use ListItem with a 'position' property in such cases.
 
 Relation describes that: 
-[ #has_/domain  :: ItemList ]
-( #has_/name :: has_item_list_element )
-( #has_/range :: ListItem, Text, Thing )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

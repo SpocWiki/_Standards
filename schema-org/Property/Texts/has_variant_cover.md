@@ -31,10 +31,10 @@ type: Pred_Text
 
 Predicate to describe the Text of ComicIssue.
 
-[ #is_/part_of :: https://bib.schema.org ]
+#is_/part_of :: https://bib.schema.org  
 
 Use it like this: 
-- [ #has_/text_of_/variant_cover :: Text ] or 
+- [has_/text_of_/variant_cover :: Text ] 
 - [ has_text_of_variant_cover :: Text ] 
 
 A description of the variant cover
@@ -42,7 +42,9 @@ A description of the variant cover
 		Variant Cover" or "2nd Printing Variant".
 
 Predicated describes that: 
-[ #has_/domain  :: ComicIssue ]
+
+#has_/domain  :: ComicIssue  
+
 ( #has_/name :: has_text_of_variant_cover )
 ( #has_/range :: Text )
 

@@ -30,16 +30,18 @@ title: has_energy_efficiency_scale_max
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/energy_efficiency_scale_max :: EUEnergyEfficiencyEnumeration ] or 
+- [has_/energy_efficiency_scale_max :: EUEnergyEfficiencyEnumeration ] 
 - [ has_energy_efficiency_scale_max :: EUEnergyEfficiencyEnumeration ] 
 
 Specifies the most energy efficient class on the regulated EU energy consumption scale for the product category a product belongs to. For example, energy consumption for televisions placed on the market after 2020-01-01 is scaled from D to A+++.
 
 Relation describes that: 
-[ #has_/domain  :: EnergyConsumptionDetails ]
+
+#has_/domain  :: EnergyConsumptionDetails  
+
 ( #has_/name :: has_energy_efficiency_scale_max )
 ( #has_/range :: EUEnergyEfficiencyEnumeration )
 

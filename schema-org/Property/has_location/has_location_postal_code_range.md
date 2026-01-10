@@ -29,16 +29,18 @@ type: Pred_geo
 
 Predicate to describe the geo of DefinedRegion.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/location_/postal_code_range :: PostalCodeRangeSpecification ] or 
+- [has_/location_/postal_code_range :: PostalCodeRangeSpecification ] 
 - [ has_location_postal_code_range :: PostalCodeRangeSpecification ] 
 
 A defined range of postal codes.
 
 Predicate describes that: 
-[ #has_/domain  :: DefinedRegion ]
+
+#has_/domain  :: DefinedRegion  
+
 ( #has_/name :: has_location_postal_code_range )
 ( #has_/range :: PostalCodeRangeSpecification )
 

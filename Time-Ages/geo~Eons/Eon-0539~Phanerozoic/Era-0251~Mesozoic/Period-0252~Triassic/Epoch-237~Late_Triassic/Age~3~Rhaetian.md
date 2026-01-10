@@ -12,15 +12,95 @@ start_time: -208500000-01-01T00:00:00Z
 named_after: "[[_Standards/WikiData/WD~Rhaetian_Alps,1277]]"
 end_time: -201300000-01-01T00:00:00Z
 sRGB_color_hex_triplet: E8C2D8
+dv_has_:
+  duration_:
+    years: "7.100e+6"
+  previous_:
+    item: "[[Age~2~Norian]]"
+  next_:
+    item: "[[../../Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~1~Hettangian|Age~1~Hettangian]]"
+  name_:
+    bg: Рет
+    cs: Rhaet
+    da: Rhaetien
+    de: Rhätium
+    es: Rhetiense
+    et: Rhaeti
+    fi: Rhaet
+    fr: Rhétien
+    hu: rhaeti
+    it: retico
+    ja: レーティアン期
+    lt: Retis
+    nl: Rhaetiën
+    no: Ræt
+    pl: Retyk
+    pt: Reciano
+    sk: rét
+    sl: retij
+    sv: rät
+    zh: 瑞替期
+    abbreviated: t7
+  time_:
+    started: "-208.5e6"
+    stopped: "-201.4e6"
+  text_of_:
+    color: "0xE3B9DB"
+dv_is_:
+  same_as:
+    - "[[WD~Rhaetian,530828]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian|Age~3~Rhaetian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian.public|Age~3~Rhaetian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian.internal|Age~3~Rhaetian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian.protect|Age~3~Rhaetian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian.private|Age~3~Rhaetian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian.personal|Age~3~Rhaetian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian.secret|Age~3~Rhaetian.secret]]"
+dv_has_duration_years: "7.100e+6"
+dv_has_previous_item: "[[Age~2~Norian]]"
+dv_has_next_item: "[[../../Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~1~Hettangian|Age~1~Hettangian]]"
+dv_is_same_as:
+  - "[[WD~Rhaetian,530828]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian|Age~3~Rhaetian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian.public|Age~3~Rhaetian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian.internal|Age~3~Rhaetian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian.protect|Age~3~Rhaetian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian.private|Age~3~Rhaetian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian.personal|Age~3~Rhaetian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian.secret|Age~3~Rhaetian.secret]]"
+dv_has_name_bg: Рет
+dv_has_name_cs: Rhaet
+dv_has_name_da: Rhaetien
+dv_has_name_de: Rhätium
+dv_has_name_es: Rhetiense
+dv_has_name_et: Rhaeti
+dv_has_name_fi: Rhaet
+dv_has_name_fr: Rhétien
+dv_has_name_hu: rhaeti
+dv_has_name_it: retico
+dv_has_name_ja: レーティアン期
+dv_has_name_lt: Retis
+dv_has_name_nl: Rhaetiën
+dv_has_name_no: Ræt
+dv_has_name_pl: Retyk
+dv_has_name_pt: Reciano
+dv_has_name_sk: rét
+dv_has_name_sl: retij
+dv_has_name_sv: rät
+dv_has_name_zh: 瑞替期
+dv_has_name_abbreviated: t7
+dv_has_time_started: "-208.5e6"
+dv_has_time_stopped: "-201.4e6"
+dv_has_text_of_color: "0xE3B9DB"
 ---
 # [[Age~3~Rhaetian]] 
 
 #is_a_/time_/Age 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[Age~2~Norian]] 
-#has_/next_/item :: [[../../Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~1~Hettangian|Age~1~Hettangian]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Rhaetian,530828]] 
 
 A time period from 208.5 to 201.4 million years ago. 
@@ -57,35 +137,35 @@ A time period from 208.5 to 201.4 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Rhaetian) 
 
 
-#has_/name_/bg  :: Рет
-#has_/name_/cs  :: Rhaet
-#has_/name_/da  :: Rhaetien
-#has_/name_/de  :: Rhätium
-#has_/name_/es  :: Rhetiense
-#has_/name_/et  :: Rhaeti
-#has_/name_/fi  :: Rhaet
-#has_/name_/fr  :: Rhétien
-#has_/name_/hu  :: rhaeti
-#has_/name_/it  :: retico
-#has_/name_/ja  :: レーティアン期
-#has_/name_/lt  :: Retis
-#has_/name_/nl  :: Rhaetiën
-#has_/name_/no  :: Ræt
-#has_/name_/pl  :: Retyk
-#has_/name_/pt  :: Reciano
-#has_/name_/sk  :: rét
-#has_/name_/sl  :: retij
-#has_/name_/sv  :: rät
-#has_/name_/zh  :: 瑞替期
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/abbreviation :: t7
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
-#has_/time_/started :: -208.5e6 
-#has_/time_/stopped :: -201.4e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 66 
 
-#has_/text_of_/color :: 0xE3B9DB
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

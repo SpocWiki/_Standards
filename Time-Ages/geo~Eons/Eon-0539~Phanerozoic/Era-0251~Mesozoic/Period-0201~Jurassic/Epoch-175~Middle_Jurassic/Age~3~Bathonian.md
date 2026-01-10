@@ -16,6 +16,86 @@ country: "[[_Standards/WikiData/WD~France,142]]"
 start_time: -168300000-01-01T00:00:00Z
 Commons_category: Bathonian
 sRGB_color_hex_triplet: 9CE2EF
+dv_has_:
+  duration_:
+    years: "2.900e+6"
+  previous_:
+    item: "[[Age~2~Bajocian]]"
+  next_:
+    item: "[[Age~4~Callovian]]"
+  name_:
+    bg: Бат
+    cs: Bathon
+    da: Bathonien
+    de: Bathonium
+    es: Bathoniense
+    et: Bathoni
+    fi: Bathon
+    fr: Bathonien
+    hu: bath
+    it: bathoniano
+    ja: バソニアン期
+    lt: Batonis
+    nl: Barthoniën
+    no: Bathon
+    pl: Baton
+    pt: Batoniano
+    sk: bath
+    sl: bathonij
+    sv: bathon
+    zh: 巴通期
+    abbreviated: j3
+  time_:
+    started: "-168.2e6"
+    stopped: "-165.3e6"
+  text_of_:
+    color: "0xB3E2E3"
+dv_is_:
+  same_as:
+    - "[[WD~Bathonian,791313]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~3~Bathonian|Age~3~Bathonian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~3~Bathonian.public|Age~3~Bathonian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~3~Bathonian.internal|Age~3~Bathonian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~3~Bathonian.protect|Age~3~Bathonian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~3~Bathonian.private|Age~3~Bathonian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~3~Bathonian.personal|Age~3~Bathonian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~3~Bathonian.secret|Age~3~Bathonian.secret]]"
+dv_has_duration_years: "2.900e+6"
+dv_has_previous_item: "[[Age~2~Bajocian]]"
+dv_has_next_item: "[[Age~4~Callovian]]"
+dv_is_same_as:
+  - "[[WD~Bathonian,791313]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~3~Bathonian|Age~3~Bathonian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~3~Bathonian.public|Age~3~Bathonian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~3~Bathonian.internal|Age~3~Bathonian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~3~Bathonian.protect|Age~3~Bathonian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~3~Bathonian.private|Age~3~Bathonian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~3~Bathonian.personal|Age~3~Bathonian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~3~Bathonian.secret|Age~3~Bathonian.secret]]"
+dv_has_name_bg: Бат
+dv_has_name_cs: Bathon
+dv_has_name_da: Bathonien
+dv_has_name_de: Bathonium
+dv_has_name_es: Bathoniense
+dv_has_name_et: Bathoni
+dv_has_name_fi: Bathon
+dv_has_name_fr: Bathonien
+dv_has_name_hu: bath
+dv_has_name_it: bathoniano
+dv_has_name_ja: バソニアン期
+dv_has_name_lt: Batonis
+dv_has_name_nl: Barthoniën
+dv_has_name_no: Bathon
+dv_has_name_pl: Baton
+dv_has_name_pt: Batoniano
+dv_has_name_sk: bath
+dv_has_name_sl: bathonij
+dv_has_name_sv: bathon
+dv_has_name_zh: 巴通期
+dv_has_name_abbreviated: j3
+dv_has_time_started: "-168.2e6"
+dv_has_time_stopped: "-165.3e6"
+dv_has_text_of_color: "0xB3E2E3"
 ---
 # [[Age~3~Bathonian]] 
 
@@ -23,10 +103,10 @@ sRGB_color_hex_triplet: 9CE2EF
 
 A time period from 168.2 to 165.3 million years ago. 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[Age~2~Bajocian]] 
-#has_/next_/item :: [[Age~4~Callovian]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Bathonian,791313]] 
 
 ## #has_/text_of_/abstract 
@@ -38,35 +118,35 @@ A time period from 168.2 to 165.3 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Bathonian) 
 
 
-#has_/name_/bg  :: Бат
-#has_/name_/cs  :: Bathon
-#has_/name_/da  :: Bathonien
-#has_/name_/de  :: Bathonium
-#has_/name_/es  :: Bathoniense
-#has_/name_/et  :: Bathoni
-#has_/name_/fi  :: Bathon
-#has_/name_/fr  :: Bathonien
-#has_/name_/hu  :: bath
-#has_/name_/it  :: bathoniano
-#has_/name_/ja  :: バソニアン期
-#has_/name_/lt  :: Batonis
-#has_/name_/nl  :: Barthoniën
-#has_/name_/no  :: Bathon
-#has_/name_/pl  :: Baton
-#has_/name_/pt  :: Batoniano
-#has_/name_/sk  :: bath
-#has_/name_/sl  :: bathonij
-#has_/name_/sv  :: bathon
-#has_/name_/zh  :: 巴通期
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/abbreviation :: j3
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
-#has_/time_/started :: -168.2e6 
-#has_/time_/stopped :: -165.3e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 56 
 
-#has_/text_of_/color :: 0xB3E2E3
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

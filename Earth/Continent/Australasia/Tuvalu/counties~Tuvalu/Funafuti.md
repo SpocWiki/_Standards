@@ -45,7 +45,7 @@ demonym:
 dv_is_a_: "[[../../../../Geography/Place]]"
 dv_has_place_longitude: 179.2167
 dv_has_place_latitude: -8.516666
-dv_has_name_: Funafuti
+dv_has_name: Funafuti
 dv_has_place_country: "[[../../Tuvalu]]"
 dv_Unknown: 32
 dv_is_:
@@ -75,7 +75,7 @@ dv_is_same_as:
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 has_place_province::  
 has_place_country = `=this.dv_has_place_country`
 [StateId::] 

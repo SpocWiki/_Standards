@@ -22,6 +22,25 @@ start_time: 1940-06-10T00:00:00Z
 coordinate_location: Point(18.0 35.0)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/RAF%20pilots%20with%20Beaufighter%20and%20Spitfire%20at%20Malta%201943.jpg
 Commons_category: Mediterranean, Middle Eastern and African theatre of World War II
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../../WikiData/WD~Mediterranean_and_Middle_East_Theater_of_World_War_II,696817]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II|Mediterranean_and_Middle_East_Theater_of_World_War_II]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.public|Mediterranean_and_Middle_East_Theater_of_World_War_II.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.internal|Mediterranean_and_Middle_East_Theater_of_World_War_II.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.protect|Mediterranean_and_Middle_East_Theater_of_World_War_II.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.private|Mediterranean_and_Middle_East_Theater_of_World_War_II.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.personal|Mediterranean_and_Middle_East_Theater_of_World_War_II.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.secret|Mediterranean_and_Middle_East_Theater_of_World_War_II.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../../WikiData/WD~Mediterranean_and_Middle_East_Theater_of_World_War_II,696817]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II|Mediterranean_and_Middle_East_Theater_of_World_War_II]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.public|Mediterranean_and_Middle_East_Theater_of_World_War_II.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.internal|Mediterranean_and_Middle_East_Theater_of_World_War_II.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.protect|Mediterranean_and_Middle_East_Theater_of_World_War_II.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.private|Mediterranean_and_Middle_East_Theater_of_World_War_II.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.personal|Mediterranean_and_Middle_East_Theater_of_World_War_II.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Mediterranean_and_Middle_East_Theater_of_World_War_II.secret|Mediterranean_and_Middle_East_Theater_of_World_War_II.secret]]"
 ---
 
 # [[Mediterranean_and_Middle_East_Theater_of_World_War_II]] 

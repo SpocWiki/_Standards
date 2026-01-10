@@ -5,18 +5,37 @@ aliases:
   - Chemical_Formula
   - Chemical Formula
 has_id_wikidata: Q83147
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~chemical_symbol,102500]]'
-subclass_of: '[[_Standards/WikiData/WD~notation,2001982]]'
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~chemical_symbol,102500]]"
+subclass_of: "[[_Standards/WikiData/WD~notation,2001982]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
 Wikidata_property:
   - chemical formula
   - general formula
-has_list: '[[_Standards/WikiData/WD~glossary_of_chemical_formulae,32495]]'
+has_list: "[[_Standards/WikiData/WD~glossary_of_chemical_formulae,32495]]"
 OmegaWiki_Defined_Meaning: 1011642
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Benzol%20Representationen.svg
 Commons_category: Chemical formulas
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Chemical_formula,83147|WD~Chemical_formula,83147]]"
+    - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Formula|Chemical_Formula]]"
+    - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Formula.public|Chemical_Formula.public]]"
+    - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Formula.internal|Chemical_Formula.internal]]"
+    - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Formula.protect|Chemical_Formula.protect]]"
+    - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Formula.private|Chemical_Formula.private]]"
+    - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Formula.personal|Chemical_Formula.personal]]"
+    - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Formula.secret|Chemical_Formula.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Chemical_formula,83147|WD~Chemical_formula,83147]]"
+  - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Formula|Chemical_Formula]]"
+  - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Formula.public|Chemical_Formula.public]]"
+  - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Formula.internal|Chemical_Formula.internal]]"
+  - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Formula.protect|Chemical_Formula.protect]]"
+  - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Formula.private|Chemical_Formula.private]]"
+  - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Formula.personal|Chemical_Formula.personal]]"
+  - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Formula.secret|Chemical_Formula.secret]]"
 ---
 
 # [[Chemical_Formula]] 

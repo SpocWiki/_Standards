@@ -3,6 +3,23 @@ aliases:
   - Fuel Cell
   - Fuel Cell Reaction
   - Fuel_Cell
+dv_is_:
+  same_as:
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Fuel_Cell|Fuel_Cell]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Fuel_Cell.public|Fuel_Cell.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Fuel_Cell.internal|Fuel_Cell.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Fuel_Cell.protect|Fuel_Cell.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Fuel_Cell.private|Fuel_Cell.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Fuel_Cell.personal|Fuel_Cell.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Fuel_Cell.secret|Fuel_Cell.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Fuel_Cell|Fuel_Cell]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Fuel_Cell.public|Fuel_Cell.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Fuel_Cell.internal|Fuel_Cell.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Fuel_Cell.protect|Fuel_Cell.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Fuel_Cell.private|Fuel_Cell.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Fuel_Cell.personal|Fuel_Cell.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Fuel_Cell.secret|Fuel_Cell.secret]]"
 ---
 
 ## #has_/text_of_/abstract 

@@ -28,10 +28,10 @@ title: has_event_schedule
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/event_schedule :: Schedule ] or 
+- [has_/event_schedule :: Schedule ] 
 - [ has_event_schedule :: Schedule ] 
 
 Associates an [[Event]] with a [[Schedule]]. 
@@ -52,7 +52,9 @@ The property might have repeated values to specify different schedules,
 e.g. for different months or seasons.
 
 Relation describes that: 
-[ #has_/domain  :: Event ]
+
+#has_/domain  :: Event  
+
 ( #has_/name :: has_event_schedule )
 ( #has_/range :: Schedule )
 

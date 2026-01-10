@@ -33,18 +33,19 @@ type: Pred_Text
 Predicate to describe the Text of ChooseAction.
 
 Use it like this: 
-- [ #has_/text_of_/action_option :: Text, Thing ] or 
+- [has_/text_of_/action_option :: Text, Thing ] 
 - [ has_text_of_action_option :: Text, Thing ] 
 
 A sub property of object. The options subject to this action.
 
 Predicated describes that: 
-[ #has_/domain  :: ChooseAction ]
+
+#has_/domain  :: ChooseAction  
+
 ( #has_/name :: has_text_of_action_option )
 ( #has_/range :: Text, Thing )
 
-[ #is_/sub_property_of  :: object ]
-
+#is_/sub_property_of  :: object  
 
 ## Confidential Links & Embeds: 
 

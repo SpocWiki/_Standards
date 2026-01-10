@@ -10,21 +10,40 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - game_play_mode
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_game_play_mode Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_game_play_mode Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../Enumeration]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Game_Play_Mode|Game_Play_Mode]]"
+    - "[[/_public/schema-org/Enumeration/Game_Play_Mode.public|Game_Play_Mode.public]]"
+    - "[[/_internal/schema-org/Enumeration/Game_Play_Mode.internal|Game_Play_Mode.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Game_Play_Mode.protect|Game_Play_Mode.protect]]"
+    - "[[/_private/schema-org/Enumeration/Game_Play_Mode.private|Game_Play_Mode.private]]"
+    - "[[/_personal/schema-org/Enumeration/Game_Play_Mode.personal|Game_Play_Mode.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Game_Play_Mode.secret|Game_Play_Mode.secret]]"
+dv_is_sub_class_of: "[[../Enumeration]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Game_Play_Mode|Game_Play_Mode]]"
+  - "[[/_public/schema-org/Enumeration/Game_Play_Mode.public|Game_Play_Mode.public]]"
+  - "[[/_internal/schema-org/Enumeration/Game_Play_Mode.internal|Game_Play_Mode.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Game_Play_Mode.protect|Game_Play_Mode.protect]]"
+  - "[[/_private/schema-org/Enumeration/Game_Play_Mode.private|Game_Play_Mode.private]]"
+  - "[[/_personal/schema-org/Enumeration/Game_Play_Mode.personal|Game_Play_Mode.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Game_Play_Mode.secret|Game_Play_Mode.secret]]"
 ---
 
 Class of all game_play_modes.
@@ -34,8 +53,7 @@ Tag Instances like this:
 
 Indicates whether this game is multi-player, co-op or single-player.
 
-[ #is_/sub_class_of :: [[../Enumeration]] ]
-
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
 ## Confidential Links & Embeds: 
 

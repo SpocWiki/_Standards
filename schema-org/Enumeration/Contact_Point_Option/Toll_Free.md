@@ -11,21 +11,42 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: ContactPointOption
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - toll_free
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_toll_free Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_toll_free Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../ContactPointOption]]"
+  enum_of: "[[../ContactPointOption]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Contact_Point_Option/Toll_Free|Toll_Free]]"
+    - "[[/_public/schema-org/Enumeration/Contact_Point_Option/Toll_Free.public|Toll_Free.public]]"
+    - "[[/_internal/schema-org/Enumeration/Contact_Point_Option/Toll_Free.internal|Toll_Free.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Contact_Point_Option/Toll_Free.protect|Toll_Free.protect]]"
+    - "[[/_private/schema-org/Enumeration/Contact_Point_Option/Toll_Free.private|Toll_Free.private]]"
+    - "[[/_personal/schema-org/Enumeration/Contact_Point_Option/Toll_Free.personal|Toll_Free.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Contact_Point_Option/Toll_Free.secret|Toll_Free.secret]]"
+dv_is_sub_class_of: "[[../ContactPointOption]]"
+dv_is_enum_of: "[[../ContactPointOption]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Contact_Point_Option/Toll_Free|Toll_Free]]"
+  - "[[/_public/schema-org/Enumeration/Contact_Point_Option/Toll_Free.public|Toll_Free.public]]"
+  - "[[/_internal/schema-org/Enumeration/Contact_Point_Option/Toll_Free.internal|Toll_Free.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Contact_Point_Option/Toll_Free.protect|Toll_Free.protect]]"
+  - "[[/_private/schema-org/Enumeration/Contact_Point_Option/Toll_Free.private|Toll_Free.private]]"
+  - "[[/_personal/schema-org/Enumeration/Contact_Point_Option/Toll_Free.personal|Toll_Free.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Contact_Point_Option/Toll_Free.secret|Toll_Free.secret]]"
 ---
 
 Class of all toll_frees.
@@ -35,10 +56,9 @@ Tag Instances like this:
 
 The associated telephone number is toll free.
 
-[ #is_/sub_class_of :: [[../ContactPointOption]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #is_/enum_of :: [[../ContactPointOption]] ]
-
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

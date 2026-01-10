@@ -40,7 +40,7 @@ dv_ISO4217-currency_country_name: GIBRALTAR
 dv_Telephone: 350
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_:
+dv_has_name:
   - Gibraltar
   - Gibraltar
 dv_has_name_en: Gibraltar
@@ -174,7 +174,9 @@ ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3`
 [has_place_longitude::-5.35]
 [has_place_latitude::36.1]
-[has_/name::Gibraltar]
+
+has_/name::Gibraltar 
+
 has_place_province::  
 has_place_country = `=this.dv_has_place_country`
 [StateId::]

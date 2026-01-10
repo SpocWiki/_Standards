@@ -27,13 +27,15 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/originating_from :: Vessel] or 
+- [is_/originating_from :: Vessel] 
 - [ is_originating_from :: Vessel] 
 
 The vasculature the lymphatic structure originates, or afferents, from.
 
 Relation describes that: 
-[ #has_/domain  :: LymphaticVessel]
+
+#has_/domain  :: LymphaticVessel 
+
 ( #has_/name :: is_originating_from)
 ( #has_/range :: Vessel)
 

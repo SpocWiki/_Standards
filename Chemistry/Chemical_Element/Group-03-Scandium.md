@@ -3,6 +3,25 @@ aliases:
   - Group-03-Scandium
 has_id_wikidata: Q108307
 type: ElementGroup
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Group_3,108307]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-03-Scandium|Group-03-Scandium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-03-Scandium.public|Group-03-Scandium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-03-Scandium.internal|Group-03-Scandium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-03-Scandium.protect|Group-03-Scandium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-03-Scandium.private|Group-03-Scandium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-03-Scandium.personal|Group-03-Scandium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-03-Scandium.secret|Group-03-Scandium.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Group_3,108307]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-03-Scandium|Group-03-Scandium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-03-Scandium.public|Group-03-Scandium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-03-Scandium.internal|Group-03-Scandium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-03-Scandium.protect|Group-03-Scandium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-03-Scandium.private|Group-03-Scandium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-03-Scandium.personal|Group-03-Scandium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-03-Scandium.secret|Group-03-Scandium.secret]]"
 ---
 
 # [[Group-03-Scandium]] 

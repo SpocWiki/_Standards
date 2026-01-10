@@ -86,12 +86,35 @@ MedlinePlus_drug_identifier: a601032
 canonical_SMILES: C(=O)([O-])[O-].[Ca+2]
 UMLS_CUI: C0006681
 Commons_category: Calcium carbonate
+dv_has_:
+  formula_:
+    sum: CaCO³
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Calcium_carbonate,23767|WD~Calcium_carbonate,23767]]"
+    - "[[/_Standards/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Calcium_Carbonate|Calcium_Carbonate]]"
+    - "[[/_public/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Calcium_Carbonate.public|Calcium_Carbonate.public]]"
+    - "[[/_internal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Calcium_Carbonate.internal|Calcium_Carbonate.internal]]"
+    - "[[/_protect/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Calcium_Carbonate.protect|Calcium_Carbonate.protect]]"
+    - "[[/_private/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Calcium_Carbonate.private|Calcium_Carbonate.private]]"
+    - "[[/_personal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Calcium_Carbonate.personal|Calcium_Carbonate.personal]]"
+    - "[[/_secret/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Calcium_Carbonate.secret|Calcium_Carbonate.secret]]"
+dv_has_formula_sum: CaCO³
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Calcium_carbonate,23767|WD~Calcium_carbonate,23767]]"
+  - "[[/_Standards/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Calcium_Carbonate|Calcium_Carbonate]]"
+  - "[[/_public/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Calcium_Carbonate.public|Calcium_Carbonate.public]]"
+  - "[[/_internal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Calcium_Carbonate.internal|Calcium_Carbonate.internal]]"
+  - "[[/_protect/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Calcium_Carbonate.protect|Calcium_Carbonate.protect]]"
+  - "[[/_private/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Calcium_Carbonate.private|Calcium_Carbonate.private]]"
+  - "[[/_personal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Calcium_Carbonate.personal|Calcium_Carbonate.personal]]"
+  - "[[/_secret/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Calcium_Carbonate.secret|Calcium_Carbonate.secret]]"
 ---
 
 # [[Calcium_Carbonate]] 
 
 
-#has_/formula_/sum :: CaCO³ 
+has_formula_sum = `=this.dv_has_formula_sum` 
 
 ## #has_/formula_/structural 
 ```

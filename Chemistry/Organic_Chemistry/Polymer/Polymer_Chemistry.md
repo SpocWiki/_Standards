@@ -12,6 +12,25 @@ instance_of:
   - "[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]"
 practiced_by: "[[_Standards/WikiData/WD~polymer_chemist,111018205]]"
 Commons_category: Polymer chemistry
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Polymer_chemistry,750446]]"
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Polymer/Polymer_Chemistry|Polymer_Chemistry]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Polymer/Polymer_Chemistry.public|Polymer_Chemistry.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Polymer/Polymer_Chemistry.internal|Polymer_Chemistry.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Polymer/Polymer_Chemistry.protect|Polymer_Chemistry.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Polymer/Polymer_Chemistry.private|Polymer_Chemistry.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Polymer/Polymer_Chemistry.personal|Polymer_Chemistry.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Polymer/Polymer_Chemistry.secret|Polymer_Chemistry.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Polymer_chemistry,750446]]"
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Polymer/Polymer_Chemistry|Polymer_Chemistry]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Polymer/Polymer_Chemistry.public|Polymer_Chemistry.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Polymer/Polymer_Chemistry.internal|Polymer_Chemistry.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Polymer/Polymer_Chemistry.protect|Polymer_Chemistry.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Polymer/Polymer_Chemistry.private|Polymer_Chemistry.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Polymer/Polymer_Chemistry.personal|Polymer_Chemistry.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Polymer/Polymer_Chemistry.secret|Polymer_Chemistry.secret]]"
 ---
 
 # [[Polymer_Chemistry]] 

@@ -1,18 +1,51 @@
+---
+dv_has_:
+  employer: "[[../../../Society/Agent/Community/Organization]]"
+  domain: "[[../../../Society/Agent/Person]]"
+dv_has_employer: "[[../../Class/is_a_/Organization]]"
+dv_#has_:
+  name: has_employer
+  range: "[[../../../Society/Agent/Community/Organization]]"
+dv_is_:
+  inverse_of: "[[has_employees]]"
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_employer|has_employer]]"
+    - "[[/_public/schema-org/Relation/has/has_employer.public|has_employer.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_employer.internal|has_employer.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_employer.protect|has_employer.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_employer.private|has_employer.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_employer.personal|has_employer.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_employer.secret|has_employer.secret]]"
+dv_has_domain: "[[../../../Society/Agent/Person]]"
+dv_has_name: has_employer
+dv_has_range: "[[../../../Society/Agent/Community/Organization]]"
+dv_is_inverse_of: "[[has_employees]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_employer|has_employer]]"
+  - "[[/_public/schema-org/Relation/has/has_employer.public|has_employer.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_employer.internal|has_employer.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_employer.protect|has_employer.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_employer.private|has_employer.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_employer.personal|has_employer.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_employer.secret|has_employer.secret]]"
+---
 
 # [[has_employer]] 
 
 Use it like this: 
-- [ #has_/employer :: [[../../../Society/Agent/Community/Organization]] ] or 
-- [ has_employer :: [[../../Class/is_a_/Organization]] ] 
+- has_employer = `=this.dv_has_employer` ] ] 
+- has_employer = `=this.dv_has_employer` ] ] 
 
 Someone working for this organization.
 
 Relation describes that: 
-[ #has_/domain  :: [[../../../Society/Agent/Person]] ]
-( #has_/name :: has_employer )
-( #has_/range :: [[../../../Society/Agent/Community/Organization]] )
 
-#is_/inverse_of :: [[has_employees]] 
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
+
+is_inverse_of = `=this.dv_is_inverse_of` 
 
 
 ## Confidential Links & Embeds: 

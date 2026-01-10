@@ -10,21 +10,45 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - energy_efficiency_enumeration
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_an_energy_efficiency_enumeration Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_an_energy_efficiency_enumeration Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../Enumeration]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Energy_Efficiency_Enumeration|Energy_Efficiency_Enumeration]]"
+    - "[[/_public/schema-org/Enumeration/Energy_Efficiency_Enumeration.public|Energy_Efficiency_Enumeration.public]]"
+    - "[[/_internal/schema-org/Enumeration/Energy_Efficiency_Enumeration.internal|Energy_Efficiency_Enumeration.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Energy_Efficiency_Enumeration.protect|Energy_Efficiency_Enumeration.protect]]"
+    - "[[/_private/schema-org/Enumeration/Energy_Efficiency_Enumeration.private|Energy_Efficiency_Enumeration.private]]"
+    - "[[/_personal/schema-org/Enumeration/Energy_Efficiency_Enumeration.personal|Energy_Efficiency_Enumeration.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Energy_Efficiency_Enumeration.secret|Energy_Efficiency_Enumeration.secret]]"
+dv_has_:
+  sub_classes: "[ EUEnergyEfficiencyEnumeration, EnergyStarEnergyEfficiencyEnumeration ]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../Enumeration]]"
+dv_has_sub_classes: "[ EUEnergyEfficiencyEnumeration, EnergyStarEnergyEfficiencyEnumeration ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Energy_Efficiency_Enumeration|Energy_Efficiency_Enumeration]]"
+  - "[[/_public/schema-org/Enumeration/Energy_Efficiency_Enumeration.public|Energy_Efficiency_Enumeration.public]]"
+  - "[[/_internal/schema-org/Enumeration/Energy_Efficiency_Enumeration.internal|Energy_Efficiency_Enumeration.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Energy_Efficiency_Enumeration.protect|Energy_Efficiency_Enumeration.protect]]"
+  - "[[/_private/schema-org/Enumeration/Energy_Efficiency_Enumeration.private|Energy_Efficiency_Enumeration.private]]"
+  - "[[/_personal/schema-org/Enumeration/Energy_Efficiency_Enumeration.personal|Energy_Efficiency_Enumeration.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Energy_Efficiency_Enumeration.secret|Energy_Efficiency_Enumeration.secret]]"
 ---
 
 Class of all energy_efficiency_enumerations.
@@ -32,14 +56,13 @@ Class of all energy_efficiency_enumerations.
 Tag Instances like this: 
 #is_an_/energy_efficiency_enumeration
 
-[ #is_/part_of :: https://pending.schema.org ]
+is_part_of = `=this.dv_is_part_of` 
 
 Enumerates energy efficiency levels (also known as "classes" or "ratings") and certifications that are part of several international energy efficiency standards.
 
-[ #is_/sub_class_of :: [[../Enumeration]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #has_/sub_classes :: [ EUEnergyEfficiencyEnumeration, EnergyStarEnergyEfficiencyEnumeration ] ]
-
+has_sub_classes = `=this.dv_has_sub_classes` 
 
 ## Confidential Links & Embeds: 
 

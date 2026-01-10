@@ -8,7 +8,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,21 +16,48 @@ keywords:
   - alignment
   - educational_alignment
   - educationalAlignment
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_educational_alignment
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_educational_alignment
 type: Predi_Relation
+dv_has_:
+  educational_alignment: AlignmentObject
+  domain: CreativeWork, LearningResource
+dv_has_educational_alignment: AlignmentObject
+dv_#has_:
+  name: has_educational_alignment
+  range: AlignmentObject
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_educational_alignment|has_educational_alignment]]"
+    - "[[/_public/schema-org/Relation/has/has_educational_alignment.public|has_educational_alignment.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_educational_alignment.internal|has_educational_alignment.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_educational_alignment.protect|has_educational_alignment.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_educational_alignment.private|has_educational_alignment.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_educational_alignment.personal|has_educational_alignment.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_educational_alignment.secret|has_educational_alignment.secret]]"
+dv_has_domain: CreativeWork, LearningResource
+dv_has_name: has_educational_alignment
+dv_has_range: AlignmentObject
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_educational_alignment|has_educational_alignment]]"
+  - "[[/_public/schema-org/Relation/has/has_educational_alignment.public|has_educational_alignment.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_educational_alignment.internal|has_educational_alignment.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_educational_alignment.protect|has_educational_alignment.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_educational_alignment.private|has_educational_alignment.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_educational_alignment.personal|has_educational_alignment.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_educational_alignment.secret|has_educational_alignment.secret]]"
 ---
 
 Use it like this: 
-- [ #has_/educational_alignment :: AlignmentObject ] or 
-- [ has_educational_alignment :: AlignmentObject ] 
+- has_educational_alignment = `=this.dv_has_educational_alignment`  
+- has_educational_alignment = `=this.dv_has_educational_alignment`  
 
 An alignment to an established educational framework.
 
@@ -39,9 +66,11 @@ An alignment to an established educational framework.
 This property should not be used where the nature of the alignment can be described using a simple property, for example to express that a resource [[teaches]] or [[assesses]] a competency.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork, LearningResource ]
-( #has_/name :: has_educational_alignment )
-( #has_/range :: AlignmentObject )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

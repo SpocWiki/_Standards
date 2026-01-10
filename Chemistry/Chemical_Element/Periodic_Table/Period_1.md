@@ -8,6 +8,25 @@ image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Helium%20discharge%20tube.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Hydrogen%20discharge%20tube.jpg
 Commons_category: Periodic table row 1
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Period_1,191936]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Periodic_Table/Period_1|Period_1]]"
+    - "[[/_public/Chemistry/Chemical_Element/Periodic_Table/Period_1.public|Period_1.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Periodic_Table/Period_1.internal|Period_1.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Periodic_Table/Period_1.protect|Period_1.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Periodic_Table/Period_1.private|Period_1.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Periodic_Table/Period_1.personal|Period_1.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Periodic_Table/Period_1.secret|Period_1.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Period_1,191936]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Periodic_Table/Period_1|Period_1]]"
+  - "[[/_public/Chemistry/Chemical_Element/Periodic_Table/Period_1.public|Period_1.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Periodic_Table/Period_1.internal|Period_1.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Periodic_Table/Period_1.protect|Period_1.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Periodic_Table/Period_1.private|Period_1.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Periodic_Table/Period_1.personal|Period_1.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Periodic_Table/Period_1.secret|Period_1.secret]]"
 ---
 
 # [[Period_1]] 

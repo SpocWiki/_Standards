@@ -26,21 +26,22 @@ title: has_associated_review
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/associated_review :: Review ] or 
+- [has_/associated_review :: Review ] 
 - [ has_associated_review :: Review ] 
 
 An associated [[../../../Society/Communication/Media/Creative_Work/Review]].
 
 Relation describes that: 
-[ #has_/domain  :: Review ]
+
+#has_/domain  :: Review  
+
 ( #has_/name :: has_associated_review )
 ( #has_/range :: Review )
 
-[ #has_/sub_properties :: [ associatedClaimReview, associatedMediaReview ] ]
-
+#has_/sub_properties :: [ associatedClaimReview, associatedMediaReview ]  
 
 ## Confidential Links & Embeds: 
 

@@ -30,19 +30,20 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/affiliation_with :: Organization ] or 
+- [has_/affiliation_with :: Organization ] 
 - [ has_affiliation_with :: Organization ] 
 
 An organization that this person is affiliated with. 
 For example, a school/university, a club, or a team.
 
 Relation describes that: 
-[ #has_/domain  :: Person ]
+
+#has_/domain  :: Person  
+
 ( #has_/name :: is_affiliated_with )
 ( #has_/range :: Organization )
 
-[ #is_/sub_property_of  :: memberOf ]
-
+#is_/sub_property_of  :: memberOf  
 
 ## Confidential Links & Embeds: 
 

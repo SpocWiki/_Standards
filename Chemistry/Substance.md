@@ -10,21 +10,47 @@ cssclasses:
   - Type
 draft: false
 equivalent_class: http://purl.bioontology.org/ontology/SNOMEDCT/105590001
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - substance
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_substance Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_substance Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../MedicalEntity]]"
+  same_as:
+    - "[[../WikiData/WD~Matter,35758|WD~Matter,35758]]"
+    - "[[/_Standards/Chemistry/Substance|Substance]]"
+    - "[[/_public/Chemistry/Substance.public|Substance.public]]"
+    - "[[/_internal/Chemistry/Substance.internal|Substance.internal]]"
+    - "[[/_protect/Chemistry/Substance.protect|Substance.protect]]"
+    - "[[/_private/Chemistry/Substance.private|Substance.private]]"
+    - "[[/_personal/Chemistry/Substance.personal|Substance.personal]]"
+    - "[[/_secret/Chemistry/Substance.secret|Substance.secret]]"
+dv_has_:
+  sub_classes: "[ DietarySupplement, Drug ]"
+  properties: "[ activeIngredient, additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, maximumIntake, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ]"
+dv_is_sub_class_of: "[[../MedicalEntity]]"
+dv_has_sub_classes: "[ DietarySupplement, Drug ]"
+dv_has_properties: "[ activeIngredient, additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, maximumIntake, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ]"
+dv_is_same_as:
+  - "[[../WikiData/WD~Matter,35758|WD~Matter,35758]]"
+  - "[[/_Standards/Chemistry/Substance|Substance]]"
+  - "[[/_public/Chemistry/Substance.public|Substance.public]]"
+  - "[[/_internal/Chemistry/Substance.internal|Substance.internal]]"
+  - "[[/_protect/Chemistry/Substance.protect|Substance.protect]]"
+  - "[[/_private/Chemistry/Substance.private|Substance.private]]"
+  - "[[/_personal/Chemistry/Substance.personal|Substance.personal]]"
+  - "[[/_secret/Chemistry/Substance.secret|Substance.secret]]"
 ---
 
 # [[Substance]] 
@@ -37,11 +63,11 @@ Tag Instances like this:
 Any matter of defined composition that has discrete existence, 
 whose origin may be biological, mineral or chemical.
 
-[ #is_/sub_class_of :: [[../MedicalEntity]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #has_/sub_classes :: [ DietarySupplement, Drug ] ]
+has_sub_classes = `=this.dv_has_sub_classes` 
 
-[ #has_/properties :: [ activeIngredient, additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, maximumIntake, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
+has_properties = `=this.dv_has_properties` 
 
 #is_/same_as :: [[../WikiData/WD~Matter,35758|WD~Matter,35758]]  
 

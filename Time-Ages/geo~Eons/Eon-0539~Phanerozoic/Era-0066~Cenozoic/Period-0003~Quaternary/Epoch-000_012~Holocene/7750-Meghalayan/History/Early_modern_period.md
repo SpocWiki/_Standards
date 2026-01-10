@@ -3,13 +3,13 @@ aliases:
   - Early modern period
   - Early_modern_period
 has_id_wikidata: Q5308718
-part_of: '[[_Standards/WikiData/WD~periodization,816829]]'
+part_of: "[[_Standards/WikiData/WD~periodization,816829]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~academic_major,4671286]]'
-  - '[[_Standards/WikiData/WD~era,6428674]]'
-follows: '[[_Standards/WikiData/WD~Postclassical_Era,7234117]]'
-history_of_topic: '[[_Standards/WikiData/WD~Early_Modern_History,109120185]]'
-continent: '[[_Standards/WikiData/WD~Europe,46]]'
+  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
+  - "[[_Standards/WikiData/WD~era,6428674]]"
+follows: "[[_Standards/WikiData/WD~Postclassical_Era,7234117]]"
+history_of_topic: "[[_Standards/WikiData/WD~Early_Modern_History,109120185]]"
+continent: "[[_Standards/WikiData/WD~Europe,46]]"
 end_time: 1800-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Leonhard%20Euler%20World%20Map%20AD1760.jpg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Early%20modern%20period.mp3
@@ -17,6 +17,25 @@ Commons_gallery: Early Modern period
 Commons_category: Early Modern period
 MeSH_tree_code: K01.400.475
 start_time: 1500-01-01T00:00:00Z
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../WikiData/WD~Early_modern_period,5308718|WD~Early_modern_period,5308718]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Early_modern_period|Early_modern_period]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Early_modern_period.public|Early_modern_period.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Early_modern_period.internal|Early_modern_period.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Early_modern_period.protect|Early_modern_period.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Early_modern_period.private|Early_modern_period.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Early_modern_period.personal|Early_modern_period.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Early_modern_period.secret|Early_modern_period.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../WikiData/WD~Early_modern_period,5308718|WD~Early_modern_period,5308718]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Early_modern_period|Early_modern_period]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Early_modern_period.public|Early_modern_period.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Early_modern_period.internal|Early_modern_period.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Early_modern_period.protect|Early_modern_period.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Early_modern_period.private|Early_modern_period.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Early_modern_period.personal|Early_modern_period.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Early_modern_period.secret|Early_modern_period.secret]]"
 ---
 
 

@@ -10,21 +10,43 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - duration
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_duration Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_duration Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../Quantity]]"
+  same_as:
+    - "[[/_Standards/schema-org/Predicate/Quantity/has_duration|has_duration]]"
+    - "[[/_public/schema-org/Predicate/Quantity/has_duration.public|has_duration.public]]"
+    - "[[/_internal/schema-org/Predicate/Quantity/has_duration.internal|has_duration.internal]]"
+    - "[[/_protect/schema-org/Predicate/Quantity/has_duration.protect|has_duration.protect]]"
+    - "[[/_private/schema-org/Predicate/Quantity/has_duration.private|has_duration.private]]"
+    - "[[/_personal/schema-org/Predicate/Quantity/has_duration.personal|has_duration.personal]]"
+    - "[[/_secret/schema-org/Predicate/Quantity/has_duration.secret|has_duration.secret]]"
+dv_has_:
+  properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
+dv_is_sub_class_of: "[[../Quantity]]"
+dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Predicate/Quantity/has_duration|has_duration]]"
+  - "[[/_public/schema-org/Predicate/Quantity/has_duration.public|has_duration.public]]"
+  - "[[/_internal/schema-org/Predicate/Quantity/has_duration.internal|has_duration.internal]]"
+  - "[[/_protect/schema-org/Predicate/Quantity/has_duration.protect|has_duration.protect]]"
+  - "[[/_private/schema-org/Predicate/Quantity/has_duration.private|has_duration.private]]"
+  - "[[/_personal/schema-org/Predicate/Quantity/has_duration.personal|has_duration.personal]]"
+  - "[[/_secret/schema-org/Predicate/Quantity/has_duration.secret|has_duration.secret]]"
 ---
 
 # [[has_duration]] 
@@ -36,10 +58,9 @@ Tag Instances like this:
 
 Quantity: Duration (use <a href="http://en.wikipedia.org/wiki/ISO_8601">ISO 8601 duration format</a>).
 
-[ #is_/sub_class_of :: [[../Quantity]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
-
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

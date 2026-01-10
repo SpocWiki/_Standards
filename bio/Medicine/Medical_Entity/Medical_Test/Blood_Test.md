@@ -34,10 +34,9 @@ Tag Instances like this:
 
 A medical test performed on a sample of a patient's blood.
 
-[ #is_/sub_class_of :: [[../MedicalTest]] ]
+#is_/sub_class_of :: [[../MedicalTest]]  
 
-[ #has_/properties :: [ additionalType, affectedBy, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, normalRange, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, signDetected, study, subjectOf, url, usedToDiagnose, usesDevice ] ]
-
+#has_/properties :: [ additionalType, affectedBy, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, normalRange, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, signDetected, study, subjectOf, url, usedToDiagnose, usesDevice ]  
 
 ## Confidential Links & Embeds: 
 

@@ -1,7 +1,28 @@
+---
+dv_is_:
+  similar_to: "[[../../../Organic_Chemistry/Hydrocarbon/Alkane/Methane|Methane]]"
+  same_as:
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane|Stannane]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane.public|Stannane.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane.internal|Stannane.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane.protect|Stannane.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane.private|Stannane.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane.personal|Stannane.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane.secret|Stannane.secret]]"
+dv_is_similar_to: "[[../../../Organic_Chemistry/Hydrocarbon/Alkane/Methane|Methane]]"
+dv_is_same_as:
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane|Stannane]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane.public|Stannane.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane.internal|Stannane.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane.protect|Stannane.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane.private|Stannane.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane.personal|Stannane.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane.secret|Stannane.secret]]"
+---
 
 # [[Stannane]] 
 
-#is_/similar_to :: [[../../../Organic_Chemistry/Hydrocarbon/Alkane/Methane|Methane]] 
+is_similar_to = `=this.dv_is_similar_to` 
 
 Stannane decomposes slowly at room temperature to give metallic tin and hydrogen. 
 It occurs when ionizing metallic Tin in a Hydrogen Atmosphere as done in 

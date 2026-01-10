@@ -9,35 +9,64 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - permission_type
   - permission
   - type
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_permission_type
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_permission_type
 type: Predi_Relation
+dv_has_:
+  permission_type: DigitalDocumentPermissionType
+  domain: DigitalDocumentPermission
+dv_has_permission_type: DigitalDocumentPermissionType
+dv_#has_:
+  name: is_permission_type
+  range: DigitalDocumentPermissionType
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_permission_type|has_permission_type]]"
+    - "[[/_public/schema-org/Relation/has/has_permission_type.public|has_permission_type.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_permission_type.internal|has_permission_type.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_permission_type.protect|has_permission_type.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_permission_type.private|has_permission_type.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_permission_type.personal|has_permission_type.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_permission_type.secret|has_permission_type.secret]]"
+dv_has_domain: DigitalDocumentPermission
+dv_has_name: is_permission_type
+dv_has_range: DigitalDocumentPermissionType
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_permission_type|has_permission_type]]"
+  - "[[/_public/schema-org/Relation/has/has_permission_type.public|has_permission_type.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_permission_type.internal|has_permission_type.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_permission_type.protect|has_permission_type.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_permission_type.private|has_permission_type.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_permission_type.personal|has_permission_type.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_permission_type.secret|has_permission_type.secret]]"
 ---
 
 Use it like this: 
-- [ #has_/permission_type :: DigitalDocumentPermissionType ] or 
-- [ has_permission_type :: DigitalDocumentPermissionType ] 
+- has_permission_type = `=this.dv_has_permission_type`  
+- has_permission_type = `=this.dv_has_permission_type`  
 
 The type of permission granted the person, organization, or audience.
 
 Relation describes that: 
-[ #has_/domain  :: DigitalDocumentPermission ]
-( #has_/name :: is_permission_type )
-( #has_/range :: DigitalDocumentPermissionType )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

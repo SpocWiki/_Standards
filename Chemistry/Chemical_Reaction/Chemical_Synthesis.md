@@ -6,22 +6,41 @@ aliases:
   - Chemical Synthesis
 has_id_wikidata: Q273499
 different_from:
-  - '[[_Standards/WikiData/WD~synthesis,1134306]]'
-  - '[[_Standards/WikiData/WD~combination_reaction,3305733]]'
-studied_by: '[[_Standards/WikiData/WD~synthetic_chemistry,2963661]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Chemical_synthesis,6363782]]'
+  - "[[_Standards/WikiData/WD~synthesis,1134306]]"
+  - "[[_Standards/WikiData/WD~combination_reaction,3305733]]"
+studied_by: "[[_Standards/WikiData/WD~synthetic_chemistry,2963661]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Chemical_synthesis,6363782]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~planned_creation,11398090]]'
-  - '[[_Standards/WikiData/WD~planned_process,104637332]]'
-  - '[[_Standards/WikiData/WD~chemical_reaction,36534]]'
-described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q30469750,30469750]]'
-P8189: 987007556786005171
+  - "[[_Standards/WikiData/WD~planned_creation,11398090]]"
+  - "[[_Standards/WikiData/WD~planned_process,104637332]]"
+  - "[[_Standards/WikiData/WD~chemical_reaction,36534]]"
+described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Q30469750,30469750]]"
+P8189: 987007556786005100
 Commons_category: Chemical syntheses
 PhilPapers_topic: chemical-synthesis
 MeSH_tree_code:
   - E05.197
   - J01.897.836.249
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Chemical_synthesis,273499|WD~Chemical_synthesis,273499]]"
+    - "[[/_Standards/Chemistry/Chemical_Reaction/Chemical_Synthesis|Chemical_Synthesis]]"
+    - "[[/_public/Chemistry/Chemical_Reaction/Chemical_Synthesis.public|Chemical_Synthesis.public]]"
+    - "[[/_internal/Chemistry/Chemical_Reaction/Chemical_Synthesis.internal|Chemical_Synthesis.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Reaction/Chemical_Synthesis.protect|Chemical_Synthesis.protect]]"
+    - "[[/_private/Chemistry/Chemical_Reaction/Chemical_Synthesis.private|Chemical_Synthesis.private]]"
+    - "[[/_personal/Chemistry/Chemical_Reaction/Chemical_Synthesis.personal|Chemical_Synthesis.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Reaction/Chemical_Synthesis.secret|Chemical_Synthesis.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Chemical_synthesis,273499|WD~Chemical_synthesis,273499]]"
+  - "[[/_Standards/Chemistry/Chemical_Reaction/Chemical_Synthesis|Chemical_Synthesis]]"
+  - "[[/_public/Chemistry/Chemical_Reaction/Chemical_Synthesis.public|Chemical_Synthesis.public]]"
+  - "[[/_internal/Chemistry/Chemical_Reaction/Chemical_Synthesis.internal|Chemical_Synthesis.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Reaction/Chemical_Synthesis.protect|Chemical_Synthesis.protect]]"
+  - "[[/_private/Chemistry/Chemical_Reaction/Chemical_Synthesis.private|Chemical_Synthesis.private]]"
+  - "[[/_personal/Chemistry/Chemical_Reaction/Chemical_Synthesis.personal|Chemical_Synthesis.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Reaction/Chemical_Synthesis.secret|Chemical_Synthesis.secret]]"
 ---
 
 # [[Chemical_Synthesis]] 

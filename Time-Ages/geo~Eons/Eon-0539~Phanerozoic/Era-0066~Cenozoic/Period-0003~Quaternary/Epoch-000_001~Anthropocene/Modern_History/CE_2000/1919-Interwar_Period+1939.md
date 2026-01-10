@@ -5,14 +5,33 @@ aliases:
   - 1919-Interwar_Period+1939
   - 1919-Interwar Period+1939
 has_id_wikidata: Q154611
-instance_of: '[[_Standards/WikiData/WD~historical_period,11514315]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Interwar_period,13341431]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~Q59078586,59078586]]'
+instance_of: "[[_Standards/WikiData/WD~historical_period,11514315]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Interwar_period,13341431]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~Q59078586,59078586]]"
 subject_named_as: Zwischenkriegszeit
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Europe%20in%201923.jpg
 Commons_category: Interwar period
 end_time: 1939-09-11T00:00:00Z
 start_time: 1918-11-11T00:00:00Z
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../WikiData/WD~Interwar_period,154611]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/1919-Interwar_Period+1939|1919-Interwar_Period+1939]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/1919-Interwar_Period+1939.public|1919-Interwar_Period+1939.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/1919-Interwar_Period+1939.internal|1919-Interwar_Period+1939.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/1919-Interwar_Period+1939.protect|1919-Interwar_Period+1939.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/1919-Interwar_Period+1939.private|1919-Interwar_Period+1939.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/1919-Interwar_Period+1939.personal|1919-Interwar_Period+1939.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/1919-Interwar_Period+1939.secret|1919-Interwar_Period+1939.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../WikiData/WD~Interwar_period,154611]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/1919-Interwar_Period+1939|1919-Interwar_Period+1939]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/1919-Interwar_Period+1939.public|1919-Interwar_Period+1939.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/1919-Interwar_Period+1939.internal|1919-Interwar_Period+1939.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/1919-Interwar_Period+1939.protect|1919-Interwar_Period+1939.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/1919-Interwar_Period+1939.private|1919-Interwar_Period+1939.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/1919-Interwar_Period+1939.personal|1919-Interwar_Period+1939.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/1919-Interwar_Period+1939.secret|1919-Interwar_Period+1939.secret]]"
 ---
 
 # [[1919-Interwar_Period+1939]] 

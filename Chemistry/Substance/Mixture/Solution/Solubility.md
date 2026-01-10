@@ -14,6 +14,25 @@ IEV_number: 114-01-15
 UMLS_CUI: C0037628
 MeSH_tree_code: G02.805
 Commons_category: Solubility
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Solubility,170731]]"
+    - "[[/_Standards/Chemistry/Substance/Mixture/Solution/Solubility|Solubility]]"
+    - "[[/_public/Chemistry/Substance/Mixture/Solution/Solubility.public|Solubility.public]]"
+    - "[[/_internal/Chemistry/Substance/Mixture/Solution/Solubility.internal|Solubility.internal]]"
+    - "[[/_protect/Chemistry/Substance/Mixture/Solution/Solubility.protect|Solubility.protect]]"
+    - "[[/_private/Chemistry/Substance/Mixture/Solution/Solubility.private|Solubility.private]]"
+    - "[[/_personal/Chemistry/Substance/Mixture/Solution/Solubility.personal|Solubility.personal]]"
+    - "[[/_secret/Chemistry/Substance/Mixture/Solution/Solubility.secret|Solubility.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Solubility,170731]]"
+  - "[[/_Standards/Chemistry/Substance/Mixture/Solution/Solubility|Solubility]]"
+  - "[[/_public/Chemistry/Substance/Mixture/Solution/Solubility.public|Solubility.public]]"
+  - "[[/_internal/Chemistry/Substance/Mixture/Solution/Solubility.internal|Solubility.internal]]"
+  - "[[/_protect/Chemistry/Substance/Mixture/Solution/Solubility.protect|Solubility.protect]]"
+  - "[[/_private/Chemistry/Substance/Mixture/Solution/Solubility.private|Solubility.private]]"
+  - "[[/_personal/Chemistry/Substance/Mixture/Solution/Solubility.personal|Solubility.personal]]"
+  - "[[/_secret/Chemistry/Substance/Mixture/Solution/Solubility.secret|Solubility.secret]]"
 ---
 
 # [[Solubility]] 

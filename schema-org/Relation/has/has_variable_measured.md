@@ -28,16 +28,18 @@ title: has_variable_measured
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/variable_measured :: PropertyValue, Text ] or 
+- [has_/variable_measured :: PropertyValue, Text ] 
 - [ has_variable_measured :: PropertyValue, Text ] 
 
 The variableMeasured property can indicate (repeated as necessary) the  variables that are measured in some dataset, either described as text or as pairs of identifier and description using PropertyValue.
 
 Relation describes that: 
-[ #has_/domain  :: Dataset ]
+
+#has_/domain  :: Dataset  
+
 ( #has_/name :: is_variable_measured )
 ( #has_/range :: PropertyValue, Text )
 

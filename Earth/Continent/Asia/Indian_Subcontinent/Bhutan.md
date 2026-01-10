@@ -15,7 +15,7 @@ dv_ISO4217-currency_country_name: BHUTAN
 dv_Telephone: 975
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Bhutan
+dv_has_name: Bhutan
 dv_has_name_en: Bhutan
 dv_has_name_es: Bhután
 dv_has_name_fr: Bhoutan
@@ -423,7 +423,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 [	has_name_en	 :: Bhutan ]
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`

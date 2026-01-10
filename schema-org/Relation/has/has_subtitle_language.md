@@ -28,16 +28,18 @@ title: has_subtitle_language
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/subtitle_language :: Language, Text ] or 
+- [has_/subtitle_language :: Language, Text ] 
 - [ has_subtitle_language :: Language, Text ] 
 
 Languages in which subtitles/captions are available, in [IETF BCP 47 standard format](http://tools.ietf.org/html/bcp47).
 
 Relation describes that: 
-[ #has_/domain  :: BroadcastEvent, Movie, ScreeningEvent, TVEpisode ]
+
+#has_/domain  :: BroadcastEvent, Movie, ScreeningEvent, TVEpisode  
+
 ( #has_/name :: is_subtitle_language )
 ( #has_/range :: Language, Text )
 

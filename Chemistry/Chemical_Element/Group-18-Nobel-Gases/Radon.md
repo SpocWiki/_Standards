@@ -3,57 +3,135 @@ aliases:
   - Radon
 has_id_wikidata: Q1133
 atomic_number: 86
-canonical_SMILES: '[Rn]'
+canonical_SMILES: "[Rn]"
 CAS_Registry_Number: 10043-92-2
 chemical_formula: Rn
 Commons_category: Radon
 Commons_gallery: Radon
 described_by_source:
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-different_from: '[[_Standards/WikiData/WD~radium,1128]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Friedrich_Ernst_Dorn,65191]]'
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+different_from: "[[_Standards/WikiData/WD~radium,1128]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Friedrich_Ernst_Dorn,65191]]"
 DSSTOX_compound_identifier: DTXCID504295
 EC_number: 233-146-0
 electronegativity: 2.2
 electron_configuration:
-  - '[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p⁶'
+  - "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p⁶"
   - 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s² 4p⁶ 4d¹⁰ 5s² 5p⁶ 4f¹⁴ 5d¹⁰ 6s² 6p⁶
 element_symbol: Rn
 Gmelin_number: 16242
 has_characteristic:
-  - '[[_Standards/WikiData/WD~colorlessness,11567495]]'
-  - '[[_Standards/WikiData/WD~odorlessness,30007162]]'
-  - '[[_Standards/WikiData/WD~radioactivity,11448]]'
+  - "[[_Standards/WikiData/WD~colorlessness,11567495]]"
+  - "[[_Standards/WikiData/WD~odorlessness,30007162]]"
+  - "[[_Standards/WikiData/WD~radioactivity,11448]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Radon%20water%20apparatus%20P1120815.JPG
 InChI: InChI=1S/Rn
 InChIKey: SYUHGPGVQRZVTB-UHFFFAOYSA-N
 instance_of:
-  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
-  - '[[_Standards/WikiData/WD~gas,11432]]'
+  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+  - "[[_Standards/WikiData/WD~gas,11432]]"
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/USradonmapforhouses.jpg
 MeSH_tree_code:
   - D01.268.271.800
   - D01.268.613.700
   - D01.362.641.745
   - D01.496.749.305.800
-named_after: '[[_Standards/WikiData/WD~radium,1128]]'
+named_after: "[[_Standards/WikiData/WD~radium,1128]]"
 OmegaWiki_Defined_Meaning: 3094
 part_of:
-  - '[[_Standards/WikiData/WD~period_6,239813]]'
-  - '[[_Standards/WikiData/WD~noble_gases,19609]]'
+  - "[[_Standards/WikiData/WD~period_6,239813]]"
+  - "[[_Standards/WikiData/WD~noble_gases,19609]]"
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20154.jpg
-produced_by: '[[_Standards/WikiData/WD~granite,41177]]'
+produced_by: "[[_Standards/WikiData/WD~granite,41177]]"
 PubChem_CID: 24857
 SpocWebEntityId: 21981
 subject_has_role:
-  - '[[_Standards/WikiData/WD~radioactive_air_pollutants,50429809]]'
-  - '[[_Standards/WikiData/WD~environmental_carcinogens,50429902]]'
+  - "[[_Standards/WikiData/WD~radioactive_air_pollutants,50429809]]"
+  - "[[_Standards/WikiData/WD~environmental_carcinogens,50429902]]"
 time_of_discovery_or_invention: 1899
 type: Element
 UMLS_CUI: C0205919
 Unicode_character: 氡
 UNII: Q74S4N8N1G
+dv_has_:
+  name_:
+    group: Group-18-Nobel-Gases
+    en: Radon
+    de: Radon
+    abbreviated: Rn
+  value_for_:
+    weight_:
+      u: 222
+    radius: 1.34
+    volume_:
+      ccm_:
+        mol: 50.5
+    unknown2: 0
+    radius_:
+      nano_:
+        m: 10.748
+    electronegativity: 0
+    density: 9.91
+    temperature_:
+      melt_:
+        c: -71
+      boil_:
+        c: -61.8
+    capacity_:
+      heat: 0.09
+    conductivity_:
+      heat: "3.6E-05"
+    enthalpy: 2.89
+    energy_:
+      form_:
+        kj_:
+          mol: 16.4
+  number_of_:
+    period: 6
+    group: 18
+    electrons: 86
+dv_is_:
+  part_of: "[[../Group-18-Nobel-Gases]]"
+  same_as:
+    - "[[../../../WikiData/WD~Radon,1133]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Radon|Radon]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Radon.public|Radon.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Radon.internal|Radon.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Radon.protect|Radon.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Radon.private|Radon.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Radon.personal|Radon.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Radon.secret|Radon.secret]]"
+dv_has_name_group: Group-18-Nobel-Gases
+dv_is_part_of: "[[../Group-18-Nobel-Gases]]"
+dv_has_name_en: Radon
+dv_has_name_de: Radon
+dv_has_value_for_weight_u: 222
+dv_has_value_for_radius: 1.34
+dv_has_value_for_volume_ccm_mol: 50.5
+dv_has_value_for_unknown2: 0
+dv_has_value_for_radius_nano_m: 10.748
+dv_has_value_for_electronegativity: 0
+dv_has_value_for_density: 9.91
+dv_has_value_for_temperature_melt_c: -71
+dv_has_value_for_temperature_boil_c: -61.8
+dv_has_value_for_capacity_heat: 0.09
+dv_has_value_for_conductivity_heat: "3.6E-05"
+dv_has_value_for_enthalpy: 2.89
+dv_has_value_for_energy_form_kj_mol: 16.4
+dv_has_number_of_period: 6
+dv_has_number_of_group: 18
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Radon,1133]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Radon|Radon]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Radon.public|Radon.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Radon.internal|Radon.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Radon.protect|Radon.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Radon.private|Radon.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Radon.personal|Radon.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Radon.secret|Radon.secret]]"
+dv_has_name_abbreviated: Rn
+dv_has_number_of_electrons: 86
 ---
 
 # [[Radon]]
@@ -61,34 +139,41 @@ UNII: Q74S4N8N1G
 
 
 #chemic/Element 
-[GroupName::Group-18-Nobel-Gases]
-Group::[[../Group-18-Nobel-Gases]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
+has_name_en = `=this.dv_has_name_en` 
 
-[#has_/name_/en::Radon]
-[#has_/name_/de::Radon]
-[#has_/value_for_/weight_/u::222]
-[AtomRadius::1.34]
-[Atom-Vol-ccm-mol::50.5]
-[Unknown2::0]
-[#has_/value_for_/radius_/nano_/m::10.748]
-[Electronegative::0]
-[Density::9.91]
-[#has_/value_for_/temperature_/melt_/c ::-71]
-[#has_/value_for_/temperature_/boil_/c ::-61.8]
-[HeatCapacity::0.09]
-[HeatConduct::3.6E-05]
-[Enthalpy::2.89]
-[FormEnergy-kj-mol::16.4]
-(PeriodNo::6)
-(GroupNo::18)
+has_name_de = `=this.dv_has_name_de` 
+
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
+
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
+
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
+
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
+
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
+
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
+
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
+has_number_of_group = `=this.dv_has_number_of_group` 
 
 #is_/same_as :: [[../../../WikiData/WD~Radon,1133]] 
 
 
 ## #has_/text_of_/abstract 
 
-> **Radon** is a chemical element with the symbol (Abbr::Rn) and atomic number (Charge-e::86). 
+> **Radon** is a chemical element with the symbol has_name_abbreviated = `=this.dv_has_name_abbreviated`  and atomic number has_number_of_electrons = `=this.dv_has_number_of_electrons` . 
 > It is a radioactive, colourless, odourless, tasteless noble gas. 
 > It occurs naturally in minute quantities 
 > as an intermediate step in the normal radioactive decay chains 

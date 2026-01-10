@@ -29,16 +29,18 @@ type: Predi_Quantity
 
 Predicate to describe the Quantity of EducationalOccupationalProgram.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/value_for_/salary_upon_completion :: MonetaryAmountDistribution ] or 
+- [has_/value_for_/salary_upon_completion :: MonetaryAmountDistribution ] 
 - [ has_value_for_salary_upon_completion :: MonetaryAmountDistribution ] 
 
 The expected salary upon completing the training.
 
 Predicate describes that: 
-[ #has_/domain  :: EducationalOccupationalProgram ]
+
+#has_/domain  :: EducationalOccupationalProgram  
+
 ( #has_/name :: has_value_for_salary_upon_completion )
 ( #has_/range :: MonetaryAmountDistribution )
 

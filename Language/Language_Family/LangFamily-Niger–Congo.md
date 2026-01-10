@@ -33,7 +33,8 @@ GOST_7_75_97_code: ник 493
 # [[LangFamily-Niger–Congo]] 
 
 [SpocWebEntityId:: 235 ]
-[has_/name::Niger–Congo]
+
+has_/name::Niger–Congo 
 
 #is_/same_as :: [[../../WikiData/WD~Niger–Congo,33838|WD~Niger–Congo,33838]] 
 

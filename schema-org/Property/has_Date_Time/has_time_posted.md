@@ -10,34 +10,60 @@ cssclasses:
   - Predicate
   - Date_Time
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
-layout: ''
+keywords: ""
+layout: ""
 license: CC BY-SA 4.0
-linkTitle: ''
+linkTitle: ""
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Date
 title: has_time_posted
 type: Predi_Date_Time
+dv_has_time_posted: P#Y#M#W#DT#H#M#s.fff
+dv_has_:
+  time_:
+    posted: P#Y#M#W#DT#H#M#s.fff
+  name: has_time_posted
+dv_domain: CDCPMDRecord, JobPosting, RealEstateListing, SpecialAnnouncement
+dv_range: Date, DateTime
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_posted|has_time_posted]]"
+    - "[[/_public/schema-org/Property/has_Date_Time/has_time_posted.public|has_time_posted.public]]"
+    - "[[/_internal/schema-org/Property/has_Date_Time/has_time_posted.internal|has_time_posted.internal]]"
+    - "[[/_protect/schema-org/Property/has_Date_Time/has_time_posted.protect|has_time_posted.protect]]"
+    - "[[/_private/schema-org/Property/has_Date_Time/has_time_posted.private|has_time_posted.private]]"
+    - "[[/_personal/schema-org/Property/has_Date_Time/has_time_posted.personal|has_time_posted.personal]]"
+    - "[[/_secret/schema-org/Property/has_Date_Time/has_time_posted.secret|has_time_posted.secret]]"
+dv_has_name: has_time_posted
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_posted|has_time_posted]]"
+  - "[[/_public/schema-org/Property/has_Date_Time/has_time_posted.public|has_time_posted.public]]"
+  - "[[/_internal/schema-org/Property/has_Date_Time/has_time_posted.internal|has_time_posted.internal]]"
+  - "[[/_protect/schema-org/Property/has_Date_Time/has_time_posted.protect|has_time_posted.protect]]"
+  - "[[/_private/schema-org/Property/has_Date_Time/has_time_posted.private|has_time_posted.private]]"
+  - "[[/_personal/schema-org/Property/has_Date_Time/has_time_posted.personal|has_time_posted.personal]]"
+  - "[[/_secret/schema-org/Property/has_Date_Time/has_time_posted.secret|has_time_posted.secret]]"
 ---
 
 Predicate to describe the date of CDCPMDRecord, JobPosting, RealEstateListing, SpecialAnnouncement.
 
 Use it like this: 
-- [has_time_posted::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/time_/posted::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
+- has_time_posted = `=this.dv_has_time_posted`  
+- has_time_posted = `=this.dv_has_time_posted`  
+with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
 Publication date of an online listing.
 
 Formal Predicate: 
-[domain::CDCPMDRecord, JobPosting, RealEstateListing, SpecialAnnouncement]
-(has_/name::has_time_posted)
-(range::Date, DateTime)
+domain = `=this.dv_domain` 
+has_name = `=this.dv_has_name` 
+range = `=this.dv_range` 
 
 
 ## Confidential Links & Embeds: 

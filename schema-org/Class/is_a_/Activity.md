@@ -4,11 +4,30 @@ aliases:
   - prov:activity
   - schema:Activity
   - Activity
+dv_is_:
+  similar_to: "[[Action]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Activity|Activity]]"
+    - "[[/_public/schema-org/Class/is_a_/Activity.public|Activity.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Activity.internal|Activity.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Activity.protect|Activity.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Activity.private|Activity.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Activity.personal|Activity.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Activity.secret|Activity.secret]]"
+dv_is_similar_to: "[[Action]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Activity|Activity]]"
+  - "[[/_public/schema-org/Class/is_a_/Activity.public|Activity.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Activity.internal|Activity.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Activity.protect|Activity.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Activity.private|Activity.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Activity.personal|Activity.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Activity.secret|Activity.secret]]"
 ---
 
 # [[Activity]] 
 
-#is_/similar_to :: [[Action]] 
+is_similar_to = `=this.dv_is_similar_to` 
 
 Class of Activities, i.e. Processes that happened (in the past).
 This Description can either be 

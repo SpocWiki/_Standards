@@ -11,7 +11,7 @@ dv_ISO4217-currency_country_name: ERITREA
 dv_Telephone: 291
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Eritrea
+dv_has_name: Eritrea
 dv_has_name_en: Eritrea
 dv_has_name_es: Eritrea
 dv_has_name_fr: Érythrée
@@ -400,7 +400,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 [	has_name_en	 :: Eritrea ]
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`

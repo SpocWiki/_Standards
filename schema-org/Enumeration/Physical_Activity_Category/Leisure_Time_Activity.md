@@ -11,21 +11,42 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: PhysicalActivityCategory
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - leisure_time_activity
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_leisure_time_activity Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_leisure_time_activity Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../PhysicalActivityCategory]]"
+  enum_of: "[[../PhysicalActivityCategory]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Physical_Activity_Category/Leisure_Time_Activity|Leisure_Time_Activity]]"
+    - "[[/_public/schema-org/Enumeration/Physical_Activity_Category/Leisure_Time_Activity.public|Leisure_Time_Activity.public]]"
+    - "[[/_internal/schema-org/Enumeration/Physical_Activity_Category/Leisure_Time_Activity.internal|Leisure_Time_Activity.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Physical_Activity_Category/Leisure_Time_Activity.protect|Leisure_Time_Activity.protect]]"
+    - "[[/_private/schema-org/Enumeration/Physical_Activity_Category/Leisure_Time_Activity.private|Leisure_Time_Activity.private]]"
+    - "[[/_personal/schema-org/Enumeration/Physical_Activity_Category/Leisure_Time_Activity.personal|Leisure_Time_Activity.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Physical_Activity_Category/Leisure_Time_Activity.secret|Leisure_Time_Activity.secret]]"
+dv_is_sub_class_of: "[[../PhysicalActivityCategory]]"
+dv_is_enum_of: "[[../PhysicalActivityCategory]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Physical_Activity_Category/Leisure_Time_Activity|Leisure_Time_Activity]]"
+  - "[[/_public/schema-org/Enumeration/Physical_Activity_Category/Leisure_Time_Activity.public|Leisure_Time_Activity.public]]"
+  - "[[/_internal/schema-org/Enumeration/Physical_Activity_Category/Leisure_Time_Activity.internal|Leisure_Time_Activity.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Physical_Activity_Category/Leisure_Time_Activity.protect|Leisure_Time_Activity.protect]]"
+  - "[[/_private/schema-org/Enumeration/Physical_Activity_Category/Leisure_Time_Activity.private|Leisure_Time_Activity.private]]"
+  - "[[/_personal/schema-org/Enumeration/Physical_Activity_Category/Leisure_Time_Activity.personal|Leisure_Time_Activity.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Physical_Activity_Category/Leisure_Time_Activity.secret|Leisure_Time_Activity.secret]]"
 ---
 
 Class of all leisure_time_activitys.
@@ -35,10 +56,9 @@ Tag Instances like this:
 
 Any physical activity engaged in for recreational purposes. Examples may include ballroom dancing, roller skating, canoeing, fishing, etc.
 
-[ #is_/sub_class_of :: [[../PhysicalActivityCategory]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #is_/enum_of :: [[../PhysicalActivityCategory]] ]
-
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

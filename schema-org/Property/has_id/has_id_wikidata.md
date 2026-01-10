@@ -32,16 +32,17 @@ and followed by a unique integer denote Classes and Instances.
 Properties are denoted with a starting `P`, followed by an integer. 
 
 Use it like this: 
-- [ #has_/id_/wikidata :: Text ] or 
+- [has_/id_/wikidata :: Text ] 
 - [ has_id_wikidata :: Text ] 
 
 Predicated describes that: 
-[ #has_/domain  :: [[../../Class/Thing]] ]
+
+#has_/domain  :: [[../../Class/Thing]]  
+
 ( #has_/name :: has_id_wikidata )
 ( #has_/range :: Text )
 
-[ #is_/sub_property_of  :: identifier ]
-
+#is_/sub_property_of  :: identifier  
 
 ## Confidential Links & Embeds: 
 

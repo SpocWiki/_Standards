@@ -29,16 +29,18 @@ type: Predi_Count
 
 Predicate to describe the Number of StatisticalPopulation.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/number_of_/constraints :: Integer ] or 
+- [has_/number_of_/constraints :: Integer ] 
 - [ has_number_of_constraints :: Integer ] 
 
 Indicates the number of constraints (not counting [[populationType]]) defined for a particular [[StatisticalPopulation]]. This helps applications understand if they have access to a sufficiently complete description of a [[StatisticalPopulation]].
 
 Predicate describes that: 
-[ #has_/domain  :: StatisticalPopulation ]
+
+#has_/domain  :: StatisticalPopulation  
+
 ( #has_/name :: has_number_of_constraints )
 ( #has_/range :: Integer )
 

@@ -29,13 +29,15 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/in_album :: MusicAlbum ] or 
+- [is_/in_album :: MusicAlbum ] 
 - [ is_in_album :: MusicAlbum ] 
 
 The album to which this recording belongs.
 
 Relation describes that: 
-[ #has_/domain  :: MusicRecording ]
+
+#has_/domain  :: MusicRecording  
+
 ( #has_/name :: is_in_album )
 ( #has_/range :: MusicAlbum )
 

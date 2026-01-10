@@ -33,12 +33,17 @@ exact_match:
 equivalent_class:
   - http://id.loc.gov/ontologies/bibframe/Identifier
   - http://edamontology.org/data_0842
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~identifier,853614]]"
+  similar_to: "[[has_name]]"
+dv_is_same_as: "[[_Standards/WikiData/WD~identifier,853614]]"
+dv_is_similar_to: "[[has_name]]"
 ---
 
 # [[has_id]] 🆔 
 
-#is_/same_as :: [[_Standards/WikiData/WD~identifier,853614]] 
-#is_/similar_to :: [[has_name]] 
+is_same_as = `=this.dv_is_same_as` 
+is_similar_to = `=this.dv_is_similar_to` 
 
 But different from [[has_name|Name]]s, IDs are usually 
 - unique 

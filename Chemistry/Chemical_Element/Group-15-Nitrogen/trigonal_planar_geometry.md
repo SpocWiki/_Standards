@@ -2,6 +2,23 @@
 aliases:
   - trigonal planar geometry
   - trigonal_planar_geometry
+dv_is_:
+  same_as:
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry|trigonal_planar_geometry]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.public|trigonal_planar_geometry.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.internal|trigonal_planar_geometry.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.protect|trigonal_planar_geometry.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.private|trigonal_planar_geometry.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.personal|trigonal_planar_geometry.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.secret|trigonal_planar_geometry.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry|trigonal_planar_geometry]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.public|trigonal_planar_geometry.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.internal|trigonal_planar_geometry.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.protect|trigonal_planar_geometry.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.private|trigonal_planar_geometry.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.personal|trigonal_planar_geometry.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.secret|trigonal_planar_geometry.secret]]"
 ---
 
 [[../../Organic_Chemistry/Functional_Group/Aldehyde/Formaldehyde]]: 

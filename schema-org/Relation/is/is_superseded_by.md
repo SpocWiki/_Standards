@@ -28,16 +28,18 @@ title: is_superseded_by
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: https://meta.schema.org ]
+#is_/part_of :: https://meta.schema.org  
 
 Use it like this: 
-- [ #is_/superseded_by :: Class, Enumeration, Property ] or 
+- [is_/superseded_by :: Class, Enumeration, Property ] 
 - [ is_superseded_by :: Class, Enumeration, Property ] 
 
 Relates a term (i.e. a property, class or enumeration) to one that supersedes it.
 
 Reision describes that: 
-[ #has_/domain  :: Class, Enumeration, Property ]
+
+#has_/domain  :: Class, Enumeration, Property  
+
 ( #has_/name :: is_superseded_by )
 ( #has_/range :: Class, Enumeration, Property )
 

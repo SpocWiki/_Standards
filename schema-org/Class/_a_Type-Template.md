@@ -1,38 +1,66 @@
 ---
 aliases:
-  - '{ label-dash: }': ''
-  - '{ label_snail: }': ''
-  - '{ label: }': ''
+  - "{ label-dash: }": ""
+  - "{ label_snail: }": ""
+  - "{ label: }": ""
   - is_a_{{label_snail}}
   - _a_Type-Template
-  - ' a Type-Template'
+  - " a Type-Template"
 confidential: public
 cssclasses:
   - Type
 draft: false
 enumerationtype:
-  '{ enumerationtype: }': ''
+  "{ enumerationtype: }": ""
 equivalent_class:
-  '{ equivalentClass: }': ''
-expiryDate: ''
+  "{ equivalentClass: }": ""
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
-  - '{ label_snail: }': ''
-layout: ''
+  - "{ label_snail: }": ""
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_{{label_snail}} Class
 publish: true
-publishDate: ''
+publishDate: ""
 superseded_by:
-  '{ supersededBy: }': ''
+  "{ supersededBy: }": ""
 supersedes:
-  '{ supersedes: }': ''
+  "{ supersedes: }": ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_{{label_snail}} Class
 type: Type
+dv_is_:
+  part_of: "{{isPartOf}}"
+  sub_class_of: "[[../{{subTypeOf}}]]"
+  enum_of: "[[../{{enumerationtype}}]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/_a_Type-Template|_a_Type-Template]]"
+    - "[[/_public/schema-org/Class/_a_Type-Template.public|_a_Type-Template.public]]"
+    - "[[/_internal/schema-org/Class/_a_Type-Template.internal|_a_Type-Template.internal]]"
+    - "[[/_protect/schema-org/Class/_a_Type-Template.protect|_a_Type-Template.protect]]"
+    - "[[/_private/schema-org/Class/_a_Type-Template.private|_a_Type-Template.private]]"
+    - "[[/_personal/schema-org/Class/_a_Type-Template.personal|_a_Type-Template.personal]]"
+    - "[[/_secret/schema-org/Class/_a_Type-Template.secret|_a_Type-Template.secret]]"
+dv_has_:
+  sub_classes: "[ {{subTypes}} ]"
+  properties: "[ {{properties}} ]"
+dv_is_part_of: "{{isPartOf}}"
+dv_is_sub_class_of: "[[../{{subTypeOf}}]]"
+dv_is_enum_of: "[[../{{enumerationtype}}]]"
+dv_has_sub_classes: "[ {{subTypes}} ]"
+dv_has_properties: "[ {{properties}} ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/_a_Type-Template|_a_Type-Template]]"
+  - "[[/_public/schema-org/Class/_a_Type-Template.public|_a_Type-Template.public]]"
+  - "[[/_internal/schema-org/Class/_a_Type-Template.internal|_a_Type-Template.internal]]"
+  - "[[/_protect/schema-org/Class/_a_Type-Template.protect|_a_Type-Template.protect]]"
+  - "[[/_private/schema-org/Class/_a_Type-Template.private|_a_Type-Template.private]]"
+  - "[[/_personal/schema-org/Class/_a_Type-Template.personal|_a_Type-Template.personal]]"
+  - "[[/_secret/schema-org/Class/_a_Type-Template.secret|_a_Type-Template.secret]]"
 ---
 
 Class of all {{label_snail}}s.
@@ -40,18 +68,17 @@ Class of all {{label_snail}}s.
 Tag Instances like this: 
 #is_a_ /{{label_snail}}
 
-[ #is_/part_of :: {{isPartOf}} ]
+is_part_of = `=this.dv_is_part_of` 
 
 {{comment}}
 
-[ #is_/sub_class_of :: [[../{{subTypeOf}}]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #is_/enum_of :: [[../{{enumerationtype}}]] ]
+is_enum_of = `=this.dv_is_enum_of` 
 
-[ #has_/sub_classes :: [ {{subTypes}} ] ]
+has_sub_classes = `=this.dv_has_sub_classes` 
 
-[ #has_/properties :: [ {{properties}} ] ]
-
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

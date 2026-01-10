@@ -9,26 +9,51 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-is_sub_class_of: '[[../Thing|Thing]]'
+is_sub_class_of: "[[../Thing|Thing]]"
 keywords:
   - action
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_an_action Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - schema-org/Class
 title: is_an_action Class
 type: Type
+dv_is_:
+  similar_to: "[[Activity]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Action|Action]]"
+    - "[[/_public/schema-org/Class/is_a_/Action.public|Action.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Action.internal|Action.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Action.protect|Action.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Action.private|Action.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Action.personal|Action.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Action.secret|Action.secret]]"
+dv__is_sub_class_of: "[[../Thing|Thing]]"
+dv_has_:
+  sub_classes: "[ AchieveAction, AssessAction, ConsumeAction, ControlAction, CreateAction, FindAction, InteractAction, MoveAction, OrganizeAction, PlayAction, SearchAction, SeekToAction, SolveMathAction, TradeAction, TransferAction, UpdateAction ]"
+  properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
+dv_is_similar_to: "[[Activity]]"
+dv_has_sub_classes: "[ AchieveAction, AssessAction, ConsumeAction, ControlAction, CreateAction, FindAction, InteractAction, MoveAction, OrganizeAction, PlayAction, SearchAction, SeekToAction, SolveMathAction, TradeAction, TransferAction, UpdateAction ]"
+dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Action|Action]]"
+  - "[[/_public/schema-org/Class/is_a_/Action.public|Action.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Action.internal|Action.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Action.protect|Action.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Action.private|Action.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Action.personal|Action.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Action.secret|Action.secret]]"
 ---
 
 # [[Action]] 
 
-#is_/similar_to :: [[Activity]]  
+is_similar_to = `=this.dv_is_similar_to` 
 
 Class of all actions.
 #class/Action
@@ -51,12 +76,11 @@ Synonyms/Aliases:
 [Activity](Activity.md): `schema:Action` is used for specific, well-defined actions, 
 while `schema:Activity` is used for broader, ongoing processes or events that may involve multiple actions or steps.
 
-\_is_sub_class_of:: [[../Thing|Thing]]   
+_is_sub_class_of = `=this.dv__is_sub_class_of` 
 
-[ #has_/sub_classes :: [ AchieveAction, AssessAction, ConsumeAction, ControlAction, CreateAction, FindAction, InteractAction, MoveAction, OrganizeAction, PlayAction, SearchAction, SeekToAction, SolveMathAction, TradeAction, TransferAction, UpdateAction ] ]
+has_sub_classes = `=this.dv_has_sub_classes` 
 
-[ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
-
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

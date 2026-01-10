@@ -7,27 +7,27 @@ RTECS_number:
   - MD9659600
   - FF5250100
 subclass_of:
-  - '[[_Standards/WikiData/WD~material,214609]]'
-  - '[[_Standards/WikiData/WD~allotrope_of_carbon,622460]]'
-  - '[[_Standards/WikiData/WD~native_element_mineral,723127]]'
-  - '[[_Standards/WikiData/WD~carbon_silicon_family,13292702]]'
-  - '[[_Standards/WikiData/WD~flammable_solid,21073024]]'
+  - "[[_Standards/WikiData/WD~material,214609]]"
+  - "[[_Standards/WikiData/WD~allotrope_of_carbon,622460]]"
+  - "[[_Standards/WikiData/WD~native_element_mineral,723127]]"
+  - "[[_Standards/WikiData/WD~carbon_silicon_family,13292702]]"
+  - "[[_Standards/WikiData/WD~flammable_solid,21073024]]"
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Q30226881,30226881]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-crystal_system: '[[_Standards/WikiData/WD~hexagonal_crystal_system,663314]]'
-instance_of: '[[_Standards/WikiData/WD~mineral_species,12089225]]'
-IMA_status_and_or_rank: '[[_Standards/WikiData/WD~grandfathered_mineral_(G),13406846]]'
-space_group: '[[_Standards/WikiData/WD~space_group_P6_mmc,15041650]]'
-associated_hazard: '[[_Standards/WikiData/WD~graphite_exposure,21174353]]'
-has_effect: '[[_Standards/WikiData/WD~graphite_exposure,21174353]]'
-named_after: '[[_Standards/WikiData/WD~writing,86647781]]'
-has_part_s_: '[[_Standards/WikiData/WD~carbon,623]]'
-streak_color: '[[_Standards/WikiData/WD~black,23445]]'
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Q30226881,30226881]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+crystal_system: "[[_Standards/WikiData/WD~hexagonal_crystal_system,663314]]"
+instance_of: "[[_Standards/WikiData/WD~mineral_species,12089225]]"
+IMA_status_and_or_rank: "[[_Standards/WikiData/WD~grandfathered_mineral_(G),13406846]]"
+space_group: "[[_Standards/WikiData/WD~space_group_P6_mmc,15041650]]"
+associated_hazard: "[[_Standards/WikiData/WD~graphite_exposure,21174353]]"
+has_effect: "[[_Standards/WikiData/WD~graphite_exposure,21174353]]"
+named_after: "[[_Standards/WikiData/WD~writing,86647781]]"
+has_part_s_: "[[_Standards/WikiData/WD~carbon,623]]"
+streak_color: "[[_Standards/WikiData/WD~black,23445]]"
 vapor_pressure: 0
 mass: 12
 Mohs_hardness: 1.5
@@ -60,6 +60,25 @@ MeSH_tree_code:
   - D01.268.150.300
   - D01.578.300
 Wolfram_Language_entity_code: Entity["Mineral", "Graphite"]
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Graphite,5309]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite|Graphite]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.public|Graphite.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.internal|Graphite.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.protect|Graphite.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.private|Graphite.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.personal|Graphite.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.secret|Graphite.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Graphite,5309]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite|Graphite]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.public|Graphite.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.internal|Graphite.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.protect|Graphite.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.private|Graphite.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.personal|Graphite.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.secret|Graphite.secret]]"
 ---
 
 # [[Graphite]] 

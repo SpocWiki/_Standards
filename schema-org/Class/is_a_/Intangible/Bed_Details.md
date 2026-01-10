@@ -10,23 +10,45 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 fileClass:
   - FileClass~Class
 isDeleted: false
 isReadOnly: false
 keywords:
   - bed_details
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_bed_details Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_bed_details Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../Intangible]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Bed_Details|Bed_Details]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Bed_Details.public|Bed_Details.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Bed_Details.internal|Bed_Details.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Bed_Details.protect|Bed_Details.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Bed_Details.private|Bed_Details.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Bed_Details.personal|Bed_Details.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Bed_Details.secret|Bed_Details.secret]]"
+dv_has_:
+  properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, numberOfBeds, potentialAction, sameAs, subjectOf, typeOfBed, url ]"
+dv_is_sub_class_of: "[[../Intangible]]"
+dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, numberOfBeds, potentialAction, sameAs, subjectOf, typeOfBed, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Bed_Details|Bed_Details]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Bed_Details.public|Bed_Details.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Bed_Details.internal|Bed_Details.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Bed_Details.protect|Bed_Details.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Bed_Details.private|Bed_Details.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Bed_Details.personal|Bed_Details.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Bed_Details.secret|Bed_Details.secret]]"
 ---
 
 Class of all bed_details, i.e. entities holding detailed information about the available bed types, 
@@ -36,10 +58,9 @@ For the single case of just one bed of a certain type, you can use bed directly 
 Tag Instances like this: 
 #is_a_/bed_details
 
-[ #is_/sub_class_of :: [[../Intangible]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, numberOfBeds, potentialAction, sameAs, subjectOf, typeOfBed, url ] ]
-
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

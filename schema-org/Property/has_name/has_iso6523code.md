@@ -30,10 +30,10 @@ type: Pred_Text
 
 Predicate to describe the Text of Organization.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/text_of_/iso6523code :: Text ] or 
+- [has_/text_of_/iso6523code :: Text ] 
 - [ has_text_of_iso6523code :: Text ] 
 
 An organization identifier as defined in ISO 6523(-1). 
@@ -45,7 +45,9 @@ can be expressed as an ISO 6523 identifier
 by setting the ICD part of the ISO 6523 identifier accordingly.
 
 Predicated describes that: 
-[ #has_/domain  :: Organization ]
+
+#has_/domain  :: Organization  
+
 ( #has_/name :: has_text_of_iso6523code )
 ( #has_/range :: Text )
 

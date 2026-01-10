@@ -18,6 +18,86 @@ start_time: -89800000-01-01T00:00:00Z
 end_time: -86300000-01-01T00:00:00Z
 sRGB_color_hex_triplet: D1E382
 coordinate_location: Point(10.3295 52.1243)
+dv_has_:
+  duration_:
+    years: "3.500e+6"
+  previous_:
+    item: "[[Age~2~Turonian]]"
+  next_:
+    item: "[[Age~4~Santonian]]"
+  name_:
+    bg: Кониак
+    cs: Coniak
+    da: Coniacien
+    de: Coniacium
+    es: Coni
+    et: Coniaci
+    fi: Coniac
+    fr: Coniacien
+    hu: coniaci
+    it: coniaciano
+    ja: コニアシアン期
+    lt: Konjakis
+    nl: Conaciën
+    no: Coniacium
+    pl: Koniak
+    pt: Coniaciano
+    sk: koňak
+    sl: coniacij
+    sv: coniac
+    zh: 科尼亚克期
+    abbreviated: k3
+  time_:
+    started: "-89.8e6"
+    stopped: "-86.3e6"
+  text_of_:
+    color: "0xCCE968"
+dv_is_:
+  same_as:
+    - "[[WD~Coniacian,645398]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian|Age~3~Coniacian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian.public|Age~3~Coniacian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian.internal|Age~3~Coniacian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian.protect|Age~3~Coniacian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian.private|Age~3~Coniacian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian.personal|Age~3~Coniacian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian.secret|Age~3~Coniacian.secret]]"
+dv_has_duration_years: "3.500e+6"
+dv_has_previous_item: "[[Age~2~Turonian]]"
+dv_has_next_item: "[[Age~4~Santonian]]"
+dv_is_same_as:
+  - "[[WD~Coniacian,645398]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian|Age~3~Coniacian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian.public|Age~3~Coniacian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian.internal|Age~3~Coniacian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian.protect|Age~3~Coniacian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian.private|Age~3~Coniacian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian.personal|Age~3~Coniacian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~3~Coniacian.secret|Age~3~Coniacian.secret]]"
+dv_has_name_bg: Кониак
+dv_has_name_cs: Coniak
+dv_has_name_da: Coniacien
+dv_has_name_de: Coniacium
+dv_has_name_es: Coni
+dv_has_name_et: Coniaci
+dv_has_name_fi: Coniac
+dv_has_name_fr: Coniacien
+dv_has_name_hu: coniaci
+dv_has_name_it: coniaciano
+dv_has_name_ja: コニアシアン期
+dv_has_name_lt: Konjakis
+dv_has_name_nl: Conaciën
+dv_has_name_no: Coniacium
+dv_has_name_pl: Koniak
+dv_has_name_pt: Coniaciano
+dv_has_name_sk: koňak
+dv_has_name_sl: coniacij
+dv_has_name_sv: coniac
+dv_has_name_zh: 科尼亚克期
+dv_has_name_abbreviated: k3
+dv_has_time_started: "-89.8e6"
+dv_has_time_stopped: "-86.3e6"
+dv_has_text_of_color: "0xCCE968"
 ---
 # [[Age~3~Coniacian]] 
 
@@ -25,10 +105,10 @@ coordinate_location: Point(10.3295 52.1243)
 
 A time period from 89.8 to 86.3 million years ago. 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[Age~2~Turonian]] 
-#has_/next_/item :: [[Age~4~Santonian]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Coniacian,645398]] 
 
 ## #has_/text_of_/abstract 
@@ -38,35 +118,35 @@ A time period from 89.8 to 86.3 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Coniacian) 
 
 
-#has_/name_/bg  :: Кониак
-#has_/name_/cs  :: Coniak
-#has_/name_/da  :: Coniacien
-#has_/name_/de  :: Coniacium
-#has_/name_/es  :: Coni
-#has_/name_/et  :: Coniaci
-#has_/name_/fi  :: Coniac
-#has_/name_/fr  :: Coniacien
-#has_/name_/hu  :: coniaci
-#has_/name_/it  :: coniaciano
-#has_/name_/ja  :: コニアシアン期
-#has_/name_/lt  :: Konjakis
-#has_/name_/nl  :: Conaciën
-#has_/name_/no  :: Coniacium
-#has_/name_/pl  :: Koniak
-#has_/name_/pt  :: Coniaciano
-#has_/name_/sk  :: koňak
-#has_/name_/sl  :: coniacij
-#has_/name_/sv  :: coniac
-#has_/name_/zh  :: 科尼亚克期
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/abbreviation :: k3
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
-#has_/time_/started :: -89.8e6 
-#has_/time_/stopped :: -86.3e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 39 
 
-#has_/text_of_/color :: 0xCCE968
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

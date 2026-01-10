@@ -38,6 +38,25 @@ start_time: 2001-10-07T00:00:00Z
 end_time: 2021-08-30T00:00:00Z
 booru_tag: war_in_afghanistan
 topic_s_main_category: "[[_Standards/WikiData/WD~Category_War_in_Afghanistan_(2001_2021),7009851]]"
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../WikiData/WD~War_in_Afghanistan,182865|WD~War_in_Afghanistan,182865]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021|2001-War_in_Afghanistan+2021]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021.public|2001-War_in_Afghanistan+2021.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021.internal|2001-War_in_Afghanistan+2021.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021.protect|2001-War_in_Afghanistan+2021.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021.private|2001-War_in_Afghanistan+2021.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021.personal|2001-War_in_Afghanistan+2021.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021.secret|2001-War_in_Afghanistan+2021.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../WikiData/WD~War_in_Afghanistan,182865|WD~War_in_Afghanistan,182865]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021|2001-War_in_Afghanistan+2021]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021.public|2001-War_in_Afghanistan+2021.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021.internal|2001-War_in_Afghanistan+2021.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021.protect|2001-War_in_Afghanistan+2021.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021.private|2001-War_in_Afghanistan+2021.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021.personal|2001-War_in_Afghanistan+2021.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_2000/2001-War_in_Afghanistan+2021.secret|2001-War_in_Afghanistan+2021.secret]]"
 ---
 
 # [[2001-War_in_Afghanistan+2021]] 

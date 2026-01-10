@@ -25,18 +25,19 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/dataset :: Dataset ] or 
+- [has_/dataset :: Dataset ] 
 - [ has_dataset :: Dataset ] 
 
 A dataset contained in this catalog.
 
 Relation describes that: 
-[ #has_/domain  :: DataCatalog ]
+
+#has_/domain  :: DataCatalog  
+
 ( #has_/name :: has_dataset )
 ( #has_/range :: Dataset )
 
-[ #is_/inverse_of  :: [[../is/is_included_in_data_catalog]] ]
-
+#is_/inverse_of  :: [[../is/is_included_in_data_catalog]]  
 
 ## Confidential Links & Embeds: 
 

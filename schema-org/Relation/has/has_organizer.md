@@ -7,33 +7,62 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - organizer
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_organizer
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_organizer
 type: Predi_Relation
+dv_has_:
+  organizer: Organization, Person
+  domain: Event
+dv_has_organizer: Organization, Person
+dv_#has_:
+  name: has_organizer
+  range: Organization, Person
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_organizer|has_organizer]]"
+    - "[[/_public/schema-org/Relation/has/has_organizer.public|has_organizer.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_organizer.internal|has_organizer.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_organizer.protect|has_organizer.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_organizer.private|has_organizer.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_organizer.personal|has_organizer.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_organizer.secret|has_organizer.secret]]"
+dv_has_domain: Event
+dv_has_name: has_organizer
+dv_has_range: Organization, Person
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_organizer|has_organizer]]"
+  - "[[/_public/schema-org/Relation/has/has_organizer.public|has_organizer.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_organizer.internal|has_organizer.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_organizer.protect|has_organizer.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_organizer.private|has_organizer.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_organizer.personal|has_organizer.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_organizer.secret|has_organizer.secret]]"
 ---
 
 Use it like this: 
-- [ #has_/organizer :: Organization, Person ] or 
-- [ has_organizer :: Organization, Person ] 
+- has_organizer = `=this.dv_has_organizer`  
+- has_organizer = `=this.dv_has_organizer`  
 
 An organizer of an Event.
 
 Relation describes that: 
-[ #has_/domain  :: Event ]
-( #has_/name :: has_organizer )
-( #has_/range :: Organization, Person )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

@@ -7,35 +7,64 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - associated
   - anatomy
   - associatedAnatomy
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_associated_anatomy
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_associated_anatomy
 type: Predi_Relation
+dv_has_:
+  associated_anatomy: AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy
+  domain: MedicalCondition, PhysicalActivity
+dv_has_associated_anatomy: AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy
+dv_#has_:
+  name: has_associated_anatomy
+  range: AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_associated_anatomy|has_associated_anatomy]]"
+    - "[[/_public/schema-org/Relation/has/has_associated_anatomy.public|has_associated_anatomy.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_associated_anatomy.internal|has_associated_anatomy.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_associated_anatomy.protect|has_associated_anatomy.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_associated_anatomy.private|has_associated_anatomy.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_associated_anatomy.personal|has_associated_anatomy.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_associated_anatomy.secret|has_associated_anatomy.secret]]"
+dv_has_domain: MedicalCondition, PhysicalActivity
+dv_has_name: has_associated_anatomy
+dv_has_range: AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_associated_anatomy|has_associated_anatomy]]"
+  - "[[/_public/schema-org/Relation/has/has_associated_anatomy.public|has_associated_anatomy.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_associated_anatomy.internal|has_associated_anatomy.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_associated_anatomy.protect|has_associated_anatomy.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_associated_anatomy.private|has_associated_anatomy.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_associated_anatomy.personal|has_associated_anatomy.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_associated_anatomy.secret|has_associated_anatomy.secret]]"
 ---
 
 Use it like this: 
-- [ #has_/associated_anatomy :: AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy ] or 
-- [ has_associated_anatomy :: AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy ] 
+- has_associated_anatomy = `=this.dv_has_associated_anatomy`  
+- has_associated_anatomy = `=this.dv_has_associated_anatomy`  
 
 The anatomy of the underlying organ system or structures associated with this entity.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalCondition, PhysicalActivity ]
-( #has_/name :: has_associated_anatomy )
-( #has_/range :: AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

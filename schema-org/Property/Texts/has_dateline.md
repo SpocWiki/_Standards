@@ -11,28 +11,56 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - dateline
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_dateline
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_dateline
 type: Pred_Text
+dv_has_:
+  text_of_:
+    dateline: Text
+  domain: NewsArticle
+dv_has_text_of_dateline: Text
+dv_#has_:
+  name: has_text_of_dateline
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/Texts/has_dateline|has_dateline]]"
+    - "[[/_public/schema-org/Property/Texts/has_dateline.public|has_dateline.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_dateline.internal|has_dateline.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_dateline.protect|has_dateline.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_dateline.private|has_dateline.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_dateline.personal|has_dateline.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_dateline.secret|has_dateline.secret]]"
+dv_has_domain: NewsArticle
+dv_has_name: has_text_of_dateline
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Texts/has_dateline|has_dateline]]"
+  - "[[/_public/schema-org/Property/Texts/has_dateline.public|has_dateline.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_dateline.internal|has_dateline.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_dateline.protect|has_dateline.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_dateline.private|has_dateline.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_dateline.personal|has_dateline.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_dateline.secret|has_dateline.secret]]"
 ---
 
 Predicate to describe the Text of NewsArticle.
 
 Use it like this: 
-- [ #has_/text_of_/dateline :: Text ] or 
-- [ has_text_of_dateline :: Text ] 
+- has_text_of_dateline = `=this.dv_has_text_of_dateline`  
+- has_text_of_dateline = `=this.dv_has_text_of_dateline`  
 
 A [dateline](https://en.wikipedia.org/wiki/Dateline) is a brief piece of text 
 included in news articles that describes where and when the story was written or filed 
@@ -53,9 +81,11 @@ Some examples: "BEIRUT, Lebanon, June 2.", "Paris, France",
 "2017-12-19 11:43AM Reporting from Washington", "Beijing/Moscow", "QUEZON CITY, Philippines".
 
 Predicated describes that: 
-[ #has_/domain  :: NewsArticle ]
-( #has_/name :: has_text_of_dateline )
-( #has_/range :: Text )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

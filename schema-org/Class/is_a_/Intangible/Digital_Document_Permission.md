@@ -10,21 +10,43 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - digital_document_permission
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_digital_document_permission Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_digital_document_permission Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../Intangible]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Digital_Document_Permission|Digital_Document_Permission]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.public|Digital_Document_Permission.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.internal|Digital_Document_Permission.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.protect|Digital_Document_Permission.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.private|Digital_Document_Permission.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.personal|Digital_Document_Permission.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.secret|Digital_Document_Permission.secret]]"
+dv_has_:
+  properties: "[ additionalType, alternateName, description, disambiguatingDescription, grantee, identifier, image, mainEntityOfPage, name, permissionType, potentialAction, sameAs, subjectOf, url ]"
+dv_is_sub_class_of: "[[../Intangible]]"
+dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, grantee, identifier, image, mainEntityOfPage, name, permissionType, potentialAction, sameAs, subjectOf, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Digital_Document_Permission|Digital_Document_Permission]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.public|Digital_Document_Permission.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.internal|Digital_Document_Permission.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.protect|Digital_Document_Permission.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.private|Digital_Document_Permission.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.personal|Digital_Document_Permission.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.secret|Digital_Document_Permission.secret]]"
 ---
 
 Class of all digital_document_permissions.
@@ -34,10 +56,9 @@ Tag Instances like this:
 
 A permission for a particular person or group to access a particular file.
 
-[ #is_/sub_class_of :: [[../Intangible]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, grantee, identifier, image, mainEntityOfPage, name, permissionType, potentialAction, sameAs, subjectOf, url ] ]
-
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

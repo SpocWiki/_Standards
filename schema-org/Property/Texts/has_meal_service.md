@@ -11,36 +11,66 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - meal
   - service
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_meal_service
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_meal_service
 type: Pred_Text
+dv_has_:
+  text_of_:
+    meal_service: Text
+  domain: Flight
+dv_has_text_of_meal_service: Text
+dv_#has_:
+  name: has_text_of_meal_service
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/Texts/has_meal_service|has_meal_service]]"
+    - "[[/_public/schema-org/Property/Texts/has_meal_service.public|has_meal_service.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_meal_service.internal|has_meal_service.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_meal_service.protect|has_meal_service.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_meal_service.private|has_meal_service.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_meal_service.personal|has_meal_service.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_meal_service.secret|has_meal_service.secret]]"
+dv_has_domain: Flight
+dv_has_name: has_text_of_meal_service
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Texts/has_meal_service|has_meal_service]]"
+  - "[[/_public/schema-org/Property/Texts/has_meal_service.public|has_meal_service.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_meal_service.internal|has_meal_service.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_meal_service.protect|has_meal_service.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_meal_service.private|has_meal_service.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_meal_service.personal|has_meal_service.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_meal_service.secret|has_meal_service.secret]]"
 ---
 
 Predicate to describe the Text of Flight.
 
 Use it like this: 
-- [ #has_/text_of_/meal_service :: Text ] or 
-- [ has_text_of_meal_service :: Text ] 
+- has_text_of_meal_service = `=this.dv_has_text_of_meal_service`  
+- has_text_of_meal_service = `=this.dv_has_text_of_meal_service`  
 
 Description of the meals that will be provided or available for purchase.
 
 Predicated describes that: 
-[ #has_/domain  :: Flight ]
-( #has_/name :: has_text_of_meal_service )
-( #has_/range :: Text )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

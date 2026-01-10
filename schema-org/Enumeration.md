@@ -8,21 +8,45 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - enumeration
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_an_enumeration Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_an_enumeration Class
 type: Type
+dv_is_:
+  sub_class_of: "[[Class/is_a_/Intangible]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration|Enumeration]]"
+    - "[[/_public/schema-org/Enumeration.public|Enumeration.public]]"
+    - "[[/_internal/schema-org/Enumeration.internal|Enumeration.internal]]"
+    - "[[/_protect/schema-org/Enumeration.protect|Enumeration.protect]]"
+    - "[[/_private/schema-org/Enumeration.private|Enumeration.private]]"
+    - "[[/_personal/schema-org/Enumeration.personal|Enumeration.personal]]"
+    - "[[/_secret/schema-org/Enumeration.secret|Enumeration.secret]]"
+dv_has_:
+  sub_classes: "[ AdultOrientedEnumeration, BoardingPolicyType, BookFormatType, BusinessEntityType, BusinessFunction, CarUsageType, ContactPointOption, DayOfWeek, DeliveryMethod, DigitalDocumentPermissionType, DigitalPlatformEnumeration, EnergyEfficiencyEnumeration, EventAttendanceModeEnumeration, GameAvailabilityEnumeration, GamePlayMode, GenderType, GovernmentBenefitsType, HealthAspectEnumeration, ItemAvailability, ItemListOrderType, LegalValueLevel, MapCategoryType, MeasurementTypeEnumeration, MediaManipulationRatingEnumeration, MedicalEnumeration, MerchantReturnEnumeration, MusicAlbumProductionType, MusicAlbumReleaseType, MusicReleaseFormatType, NonprofitType, OfferItemCondition, PaymentMethod, PhysicalActivityCategory, PriceComponentTypeEnumeration, PriceTypeEnumeration, ProductReturnEnumeration, QualitativeValue, RefundTypeEnumeration, RestrictedDiet, ReturnFeesEnumeration, ReturnLabelSourceEnumeration, ReturnMethodEnumeration, RsvpResponseType, SizeGroupEnumeration, SizeSystemEnumeration, Specialty, StatusEnumeration, WarrantyScope ]"
+  properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, supersededBy, url ]"
+dv_is_sub_class_of: "[[Class/is_a_/Intangible]]"
+dv_has_sub_classes: "[ AdultOrientedEnumeration, BoardingPolicyType, BookFormatType, BusinessEntityType, BusinessFunction, CarUsageType, ContactPointOption, DayOfWeek, DeliveryMethod, DigitalDocumentPermissionType, DigitalPlatformEnumeration, EnergyEfficiencyEnumeration, EventAttendanceModeEnumeration, GameAvailabilityEnumeration, GamePlayMode, GenderType, GovernmentBenefitsType, HealthAspectEnumeration, ItemAvailability, ItemListOrderType, LegalValueLevel, MapCategoryType, MeasurementTypeEnumeration, MediaManipulationRatingEnumeration, MedicalEnumeration, MerchantReturnEnumeration, MusicAlbumProductionType, MusicAlbumReleaseType, MusicReleaseFormatType, NonprofitType, OfferItemCondition, PaymentMethod, PhysicalActivityCategory, PriceComponentTypeEnumeration, PriceTypeEnumeration, ProductReturnEnumeration, QualitativeValue, RefundTypeEnumeration, RestrictedDiet, ReturnFeesEnumeration, ReturnLabelSourceEnumeration, ReturnMethodEnumeration, RsvpResponseType, SizeGroupEnumeration, SizeSystemEnumeration, Specialty, StatusEnumeration, WarrantyScope ]"
+dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, supersededBy, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration|Enumeration]]"
+  - "[[/_public/schema-org/Enumeration.public|Enumeration.public]]"
+  - "[[/_internal/schema-org/Enumeration.internal|Enumeration.internal]]"
+  - "[[/_protect/schema-org/Enumeration.protect|Enumeration.protect]]"
+  - "[[/_private/schema-org/Enumeration.private|Enumeration.private]]"
+  - "[[/_personal/schema-org/Enumeration.personal|Enumeration.personal]]"
+  - "[[/_secret/schema-org/Enumeration.secret|Enumeration.secret]]"
 ---
 
 Class of all enumerations.
@@ -32,12 +56,11 @@ Tag Instances like this:
 
 Lists or enumerationsâ€”for example, a list of cuisines or music genres, etc.
 
-[ #is_/sub_class_of :: [[Class/is_a_/Intangible]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #has_/sub_classes :: [ AdultOrientedEnumeration, BoardingPolicyType, BookFormatType, BusinessEntityType, BusinessFunction, CarUsageType, ContactPointOption, DayOfWeek, DeliveryMethod, DigitalDocumentPermissionType, DigitalPlatformEnumeration, EnergyEfficiencyEnumeration, EventAttendanceModeEnumeration, GameAvailabilityEnumeration, GamePlayMode, GenderType, GovernmentBenefitsType, HealthAspectEnumeration, ItemAvailability, ItemListOrderType, LegalValueLevel, MapCategoryType, MeasurementTypeEnumeration, MediaManipulationRatingEnumeration, MedicalEnumeration, MerchantReturnEnumeration, MusicAlbumProductionType, MusicAlbumReleaseType, MusicReleaseFormatType, NonprofitType, OfferItemCondition, PaymentMethod, PhysicalActivityCategory, PriceComponentTypeEnumeration, PriceTypeEnumeration, ProductReturnEnumeration, QualitativeValue, RefundTypeEnumeration, RestrictedDiet, ReturnFeesEnumeration, ReturnLabelSourceEnumeration, ReturnMethodEnumeration, RsvpResponseType, SizeGroupEnumeration, SizeSystemEnumeration, Specialty, StatusEnumeration, WarrantyScope ] ]
+has_sub_classes = `=this.dv_has_sub_classes` 
 
-[ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, supersededBy, url ] ]
-
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

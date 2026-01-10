@@ -11,21 +11,42 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: EventStatusType
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - event_cancelled
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_an_event_cancelled Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_an_event_cancelled Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../EventStatusType]]"
+  enum_of: "[[../EventStatusType]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Cancelled|Event_Cancelled]]"
+    - "[[/_public/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Cancelled.public|Event_Cancelled.public]]"
+    - "[[/_internal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Cancelled.internal|Event_Cancelled.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Cancelled.protect|Event_Cancelled.protect]]"
+    - "[[/_private/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Cancelled.private|Event_Cancelled.private]]"
+    - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Cancelled.personal|Event_Cancelled.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Cancelled.secret|Event_Cancelled.secret]]"
+dv_is_sub_class_of: "[[../EventStatusType]]"
+dv_is_enum_of: "[[../EventStatusType]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Cancelled|Event_Cancelled]]"
+  - "[[/_public/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Cancelled.public|Event_Cancelled.public]]"
+  - "[[/_internal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Cancelled.internal|Event_Cancelled.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Cancelled.protect|Event_Cancelled.protect]]"
+  - "[[/_private/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Cancelled.private|Event_Cancelled.private]]"
+  - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Cancelled.personal|Event_Cancelled.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Cancelled.secret|Event_Cancelled.secret]]"
 ---
 
 Class of all event_cancelleds.
@@ -35,10 +56,9 @@ Tag Instances like this:
 
 The event has been cancelled. If the event has multiple startDate values, all are assumed to be cancelled. Either startDate or previousStartDate may be used to specify the event's cancelled date(s).
 
-[ #is_/sub_class_of :: [[../EventStatusType]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #is_/enum_of :: [[../EventStatusType]] ]
-
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

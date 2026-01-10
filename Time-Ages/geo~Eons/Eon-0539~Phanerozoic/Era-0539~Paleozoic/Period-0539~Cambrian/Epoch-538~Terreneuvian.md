@@ -30,16 +30,96 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleograph
 exact_match: http://resource.geosciml.org/classifier/ics/ischart/Terreneuvian
 sRGB_color_hex_triplet: 8CB06C
 start_time: -538800000-01-01T00:00:00Z
+dv_has_:
+  duration_:
+    years: "1.780e+7"
+  previous_:
+    item: "[[Epoch~]]"
+  next_:
+    item: "[[Epoch~]]"
+  name_:
+    bg: Теренеув
+    cs: Terreneuv
+    da: Terreneuvien
+    de: Terreneuvium
+    es: Terreneuviense
+    et: Terreneuvi
+    fi: Terreneuv
+    fr: Terreneuvien
+    hu: terreneuvi
+    it: terreneuviano
+    ja: テレニュービアン世
+    lt: Tereniuvis
+    nl: Terreneuviën
+    no: Terreneuvium
+    pl: Terenew
+    pt: Terreneuviano
+    sk: terreneuv
+    sl: terreneuvij
+    sv: terreneuv
+    zh: 纽芬兰世
+    abbreviated: Ep1
+  time_:
+    started: "-538.8e6"
+    stopped: "-521.0e6"
+  text_of_:
+    color: "0x8CB06C"
+dv_is_:
+  same_as:
+    - "[[WD~Terreneuvian,515287]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian|Epoch-538~Terreneuvian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian.public|Epoch-538~Terreneuvian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian.internal|Epoch-538~Terreneuvian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian.protect|Epoch-538~Terreneuvian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian.private|Epoch-538~Terreneuvian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian.personal|Epoch-538~Terreneuvian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian.secret|Epoch-538~Terreneuvian.secret]]"
+dv_has_duration_years: "1.780e+7"
+dv_has_previous_item: "[[Epoch~]]"
+dv_has_next_item: "[[Epoch~]]"
+dv_is_same_as:
+  - "[[WD~Terreneuvian,515287]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian|Epoch-538~Terreneuvian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian.public|Epoch-538~Terreneuvian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian.internal|Epoch-538~Terreneuvian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian.protect|Epoch-538~Terreneuvian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian.private|Epoch-538~Terreneuvian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian.personal|Epoch-538~Terreneuvian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-538~Terreneuvian.secret|Epoch-538~Terreneuvian.secret]]"
+dv_has_name_bg: Теренеув
+dv_has_name_cs: Terreneuv
+dv_has_name_da: Terreneuvien
+dv_has_name_de: Terreneuvium
+dv_has_name_es: Terreneuviense
+dv_has_name_et: Terreneuvi
+dv_has_name_fi: Terreneuv
+dv_has_name_fr: Terreneuvien
+dv_has_name_hu: terreneuvi
+dv_has_name_it: terreneuviano
+dv_has_name_ja: テレニュービアン世
+dv_has_name_lt: Tereniuvis
+dv_has_name_nl: Terreneuviën
+dv_has_name_no: Terreneuvium
+dv_has_name_pl: Terenew
+dv_has_name_pt: Terreneuviano
+dv_has_name_sk: terreneuv
+dv_has_name_sl: terreneuvij
+dv_has_name_sv: terreneuv
+dv_has_name_zh: 纽芬兰世
+dv_has_name_abbreviated: Ep1
+dv_has_time_started: "-538.8e6"
+dv_has_time_stopped: "-521.0e6"
+dv_has_text_of_color: "0x8CB06C"
 ---
 
 # [[Epoch-538~Terreneuvian]] 
 
 #is_a_/time_/Epoch 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[Epoch~]] 
-#has_/next_/item :: [[Epoch~]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Terreneuvian,515287]] 
 
 A time period from 538.8 to 521 million years ago. 
@@ -53,34 +133,34 @@ A time period from 538.8 to 521 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Terreneuvian) 
 
 
-#has_/name_/bg  :: Теренеув
-#has_/name_/cs  :: Terreneuv
-#has_/name_/da  :: Terreneuvien
-#has_/name_/de  :: Terreneuvium
-#has_/name_/es  :: Terreneuviense
-#has_/name_/et  :: Terreneuvi
-#has_/name_/fi  :: Terreneuv
-#has_/name_/fr  :: Terreneuvien
-#has_/name_/hu  :: terreneuvi
-#has_/name_/it  :: terreneuviano
-#has_/name_/ja  :: テレニュービアン世
-#has_/name_/lt  :: Tereniuvis
-#has_/name_/nl  :: Terreneuviën
-#has_/name_/no  :: Terreneuvium
-#has_/name_/pl  :: Terenew
-#has_/name_/pt  :: Terreneuviano
-#has_/name_/sk  :: terreneuv
-#has_/name_/sl  :: terreneuvij
-#has_/name_/sv  :: terreneuv
-#has_/name_/zh  :: 纽芬兰世
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/abbreviation :: Ep1
-#has_/time_/started :: -538.8e6 
-#has_/time_/stopped :: -521.0e6 
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 157 
 
-#has_/text_of_/color :: 0x8CB06C
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

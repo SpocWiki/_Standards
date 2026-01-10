@@ -7,9 +7,9 @@ aliases:
   - Hydrogen Bond
 has_id_wikidata: Q169324
 subclass_of:
-  - '[[_Standards/WikiData/WD~association,744719]]'
-  - '[[_Standards/WikiData/WD~dipole_dipole_interaction,906841]]'
-  - '[[_Standards/WikiData/WD~chemical_bond,44424]]'
+  - "[[_Standards/WikiData/WD~association,744719]]"
+  - "[[_Standards/WikiData/WD~dipole_dipole_interaction,906841]]"
+  - "[[_Standards/WikiData/WD~chemical_bond,44424]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/H-Bruecke-delta.svg
 UMLS_CUI:
   - C0020276
@@ -17,6 +17,25 @@ UMLS_CUI:
 MeSH_tree_code: G02.282
 Commons_category: Hydrogen bonding
 Krugosvet_article_archived_: nauka_i_tehnika/himiya/VODORODNAYA_SVYAZ.html
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Hydrogen_bond,169324|WD~Hydrogen_bond,169324]]"
+    - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond|Hydrogen_Bond]]"
+    - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.public|Hydrogen_Bond.public]]"
+    - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.internal|Hydrogen_Bond.internal]]"
+    - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.protect|Hydrogen_Bond.protect]]"
+    - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.private|Hydrogen_Bond.private]]"
+    - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.personal|Hydrogen_Bond.personal]]"
+    - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.secret|Hydrogen_Bond.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Hydrogen_bond,169324|WD~Hydrogen_bond,169324]]"
+  - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond|Hydrogen_Bond]]"
+  - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.public|Hydrogen_Bond.public]]"
+  - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.internal|Hydrogen_Bond.internal]]"
+  - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.protect|Hydrogen_Bond.protect]]"
+  - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.private|Hydrogen_Bond.private]]"
+  - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.personal|Hydrogen_Bond.personal]]"
+  - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.secret|Hydrogen_Bond.secret]]"
 ---
 
 # [[Hydrogen_Bond]] 

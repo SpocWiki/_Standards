@@ -26,21 +26,22 @@ title: has_variant
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/variant :: Product ] or 
+- [has_/variant :: Product ] 
 - [ has_variant :: Product ] 
 
 Indicates a [[../../../Society/Agent/Community/Organization/Business/Product]] that is a member of this [[ProductGroup]] (or [[ProductModel]]).
 
 Relation describes that: 
-[ #has_/domain  :: ProductGroup ]
+
+#has_/domain  :: ProductGroup  
+
 ( #has_/name :: is_variant )
 ( #has_/range :: Product )
 
-[ #is_/inverse_of  :: isVariantOf ]
-
+#is_/inverse_of  :: isVariantOf  
 
 ## Confidential Links & Embeds: 
 

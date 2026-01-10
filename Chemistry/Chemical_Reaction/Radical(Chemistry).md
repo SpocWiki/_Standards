@@ -29,6 +29,25 @@ MeSH_tree_code:
   - D01.339
   - D02.389
 Krugosvet_article_archived_: nauka_i_tehnika/himiya/SVOBODNIE_RADIKALI.html
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Radical,185056]]"
+    - "[[/_Standards/Chemistry/Chemical_Reaction/Radical(Chemistry)|Radical(Chemistry)]]"
+    - "[[/_public/Chemistry/Chemical_Reaction/Radical(Chemistry).public|Radical(Chemistry).public]]"
+    - "[[/_internal/Chemistry/Chemical_Reaction/Radical(Chemistry).internal|Radical(Chemistry).internal]]"
+    - "[[/_protect/Chemistry/Chemical_Reaction/Radical(Chemistry).protect|Radical(Chemistry).protect]]"
+    - "[[/_private/Chemistry/Chemical_Reaction/Radical(Chemistry).private|Radical(Chemistry).private]]"
+    - "[[/_personal/Chemistry/Chemical_Reaction/Radical(Chemistry).personal|Radical(Chemistry).personal]]"
+    - "[[/_secret/Chemistry/Chemical_Reaction/Radical(Chemistry).secret|Radical(Chemistry).secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Radical,185056]]"
+  - "[[/_Standards/Chemistry/Chemical_Reaction/Radical(Chemistry)|Radical(Chemistry)]]"
+  - "[[/_public/Chemistry/Chemical_Reaction/Radical(Chemistry).public|Radical(Chemistry).public]]"
+  - "[[/_internal/Chemistry/Chemical_Reaction/Radical(Chemistry).internal|Radical(Chemistry).internal]]"
+  - "[[/_protect/Chemistry/Chemical_Reaction/Radical(Chemistry).protect|Radical(Chemistry).protect]]"
+  - "[[/_private/Chemistry/Chemical_Reaction/Radical(Chemistry).private|Radical(Chemistry).private]]"
+  - "[[/_personal/Chemistry/Chemical_Reaction/Radical(Chemistry).personal|Radical(Chemistry).personal]]"
+  - "[[/_secret/Chemistry/Chemical_Reaction/Radical(Chemistry).secret|Radical(Chemistry).secret]]"
 ---
 
 # [[Radical(Chemistry)]] 

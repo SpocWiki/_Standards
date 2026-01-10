@@ -29,20 +29,21 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/main_entity :: [Thing](../../../Class/Thing.md) ] or 
+- [has_/main_entity :: [Thing](../../../Class/Thing.md) ] 
 - [ has_main_entity :: [Thing](../../../Class/Thing.md) ] 
 
 Indicates the primary entity described in some page or other CreativeWork.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork ]
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: has_main_entity )
 ( #has_/range :: Thing )
 
-[ #is_/inverse_of  :: [[../is/is_main_entity_of_page]] ]
+#is_/inverse_of  :: [[../is/is_main_entity_of_page]]  
 
-[ #is_/sub_property_of  :: about ]
-
+#is_/sub_property_of  :: about  
 
 ## Confidential Links & Embeds: 
 

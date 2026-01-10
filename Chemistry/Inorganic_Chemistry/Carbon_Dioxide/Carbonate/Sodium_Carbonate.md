@@ -1,3 +1,24 @@
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Sodium_carbonate,190227|WD~Sodium_carbonate,190227]]"
+    - "[[/_Standards/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate|Sodium_Carbonate]]"
+    - "[[/_public/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.public|Sodium_Carbonate.public]]"
+    - "[[/_internal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.internal|Sodium_Carbonate.internal]]"
+    - "[[/_protect/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.protect|Sodium_Carbonate.protect]]"
+    - "[[/_private/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.private|Sodium_Carbonate.private]]"
+    - "[[/_personal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.personal|Sodium_Carbonate.personal]]"
+    - "[[/_secret/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.secret|Sodium_Carbonate.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Sodium_carbonate,190227|WD~Sodium_carbonate,190227]]"
+  - "[[/_Standards/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate|Sodium_Carbonate]]"
+  - "[[/_public/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.public|Sodium_Carbonate.public]]"
+  - "[[/_internal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.internal|Sodium_Carbonate.internal]]"
+  - "[[/_protect/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.protect|Sodium_Carbonate.protect]]"
+  - "[[/_private/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.private|Sodium_Carbonate.private]]"
+  - "[[/_personal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.personal|Sodium_Carbonate.personal]]"
+  - "[[/_secret/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.secret|Sodium_Carbonate.secret]]"
+---
 
 # [[Sodium_Carbonate]] 
 

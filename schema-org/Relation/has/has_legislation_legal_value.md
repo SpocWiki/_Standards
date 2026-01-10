@@ -29,10 +29,10 @@ title: has_legislation_legal_value
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/legislation_legal_value :: LegalValueLevel ] or 
+- [has_/legislation_legal_value :: LegalValueLevel ] 
 - [ has_legislation_legal_value :: LegalValueLevel ] 
 
 The legal value of this legislation file.
@@ -40,7 +40,9 @@ The same legislation can be written in multiple files with different legal value
 Typically a digitally signed PDF have a "stronger" legal value than the HTML file of the same act.
 
 Relation describes that: 
-[ #has_/domain  :: LegislationObject ]
+
+#has_/domain  :: LegislationObject  
+
 ( #has_/name :: has_legislation_legal_value )
 ( #has_/range :: LegalValueLevel )
 

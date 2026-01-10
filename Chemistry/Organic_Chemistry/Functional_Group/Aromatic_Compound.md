@@ -26,6 +26,25 @@ Stack_Exchange_tag: https://chemistry.stackexchange.com/tags/aromatic-compounds
 P8189: 987007294982705200
 Commons_category: Aromatics
 MeSH_tree_code: D02.455.426.559
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Aromatic_compound,19834818|WD~Aromatic_compound,19834818]]"
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Aromatic_Compound|Aromatic_Compound]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Aromatic_Compound.public|Aromatic_Compound.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Aromatic_Compound.internal|Aromatic_Compound.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Aromatic_Compound.protect|Aromatic_Compound.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Aromatic_Compound.private|Aromatic_Compound.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Aromatic_Compound.personal|Aromatic_Compound.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Aromatic_Compound.secret|Aromatic_Compound.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Aromatic_compound,19834818|WD~Aromatic_compound,19834818]]"
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Aromatic_Compound|Aromatic_Compound]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Aromatic_Compound.public|Aromatic_Compound.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Aromatic_Compound.internal|Aromatic_Compound.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Aromatic_Compound.protect|Aromatic_Compound.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Aromatic_Compound.private|Aromatic_Compound.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Aromatic_Compound.personal|Aromatic_Compound.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Aromatic_Compound.secret|Aromatic_Compound.secret]]"
 ---
 
 # [[Aromatic_Compound]] 

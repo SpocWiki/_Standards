@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_text_encoding/Unicode|Unicode]]"
+    - "[[/_public/schema-org/Relation/has/has_text_encoding/Unicode.public|Unicode.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_text_encoding/Unicode.internal|Unicode.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_text_encoding/Unicode.protect|Unicode.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_text_encoding/Unicode.private|Unicode.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_text_encoding/Unicode.personal|Unicode.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_text_encoding/Unicode.secret|Unicode.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_text_encoding/Unicode|Unicode]]"
+  - "[[/_public/schema-org/Relation/has/has_text_encoding/Unicode.public|Unicode.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_text_encoding/Unicode.internal|Unicode.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_text_encoding/Unicode.protect|Unicode.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_text_encoding/Unicode.private|Unicode.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_text_encoding/Unicode.personal|Unicode.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_text_encoding/Unicode.secret|Unicode.secret]]"
+---
 
 # [[Unicode]]  
 

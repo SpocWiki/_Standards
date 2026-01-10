@@ -22,6 +22,25 @@ Dewey_Decimal_Classification:
   - "541.39"
   - "547.2"
 Commons_category: Functional groups
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Functional_group,170409|WD~Functional_group,170409]]"
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Functional_Group|Functional_Group]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Functional_Group.public|Functional_Group.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Functional_Group.internal|Functional_Group.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Functional_Group.protect|Functional_Group.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Functional_Group.private|Functional_Group.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Functional_Group.personal|Functional_Group.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Functional_Group.secret|Functional_Group.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Functional_group,170409|WD~Functional_group,170409]]"
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Functional_Group|Functional_Group]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Functional_Group.public|Functional_Group.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Functional_Group.internal|Functional_Group.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Functional_Group.protect|Functional_Group.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Functional_Group.private|Functional_Group.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Functional_Group.personal|Functional_Group.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Functional_Group.secret|Functional_Group.secret]]"
 ---
 
 # [[Functional_Group]] 

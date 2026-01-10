@@ -11,21 +11,42 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: OrderStatus
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - order_returned
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_an_order_returned Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_an_order_returned Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../OrderStatus]]"
+  enum_of: "[[../OrderStatus]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned|Order_Returned]]"
+    - "[[/_public/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned.public|Order_Returned.public]]"
+    - "[[/_internal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned.internal|Order_Returned.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned.protect|Order_Returned.protect]]"
+    - "[[/_private/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned.private|Order_Returned.private]]"
+    - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned.personal|Order_Returned.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned.secret|Order_Returned.secret]]"
+dv_is_sub_class_of: "[[../OrderStatus]]"
+dv_is_enum_of: "[[../OrderStatus]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned|Order_Returned]]"
+  - "[[/_public/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned.public|Order_Returned.public]]"
+  - "[[/_internal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned.internal|Order_Returned.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned.protect|Order_Returned.protect]]"
+  - "[[/_private/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned.private|Order_Returned.private]]"
+  - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned.personal|Order_Returned.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned.secret|Order_Returned.secret]]"
 ---
 
 Class of all order_returneds.
@@ -35,10 +56,9 @@ Tag Instances like this:
 
 OrderStatus representing that an order has been returned.
 
-[ #is_/sub_class_of :: [[../OrderStatus]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #is_/enum_of :: [[../OrderStatus]] ]
-
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

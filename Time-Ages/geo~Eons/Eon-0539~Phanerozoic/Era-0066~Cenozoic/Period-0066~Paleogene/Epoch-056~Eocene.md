@@ -23,16 +23,96 @@ start_time: -56000000-01-01T00:00:00Z
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Eocene.mp3
 sRGB_color_hex_triplet: FEB979
 Dewey_Decimal_Classification: "551.784"
+dv_has_:
+  duration_:
+    years: "2.210e+7"
+  previous_:
+    item: "[[Epoch-066~Paleocene]]"
+  next_:
+    item: "[[Epoch-034~Oligocene]]"
+  name_:
+    bg: Еоцен
+    cs: Eocén
+    da: Eocæn
+    de: Eozän
+    es: Eoceno
+    et: Eotseen
+    fi: Eoseeni
+    fr: Eocène
+    hu: eocén
+    it: eocene
+    ja: 始新世
+    lt: Eocenas
+    nl: Eoceen
+    no: Eocen
+    pl: Eocen
+    pt: Eocénico
+    sk: eocén
+    sl: eocen
+    sv: eocen
+    zh: 始新世
+    abbreviated: E2
+  time_:
+    started: "-56.0e6"
+    stopped: "-33.9e6"
+  text_of_:
+    color: "0xFDB46C"
+dv_is_:
+  same_as:
+    - "[[WD~Eocene,76274]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene|Epoch-056~Eocene]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene.public|Epoch-056~Eocene.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene.internal|Epoch-056~Eocene.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene.protect|Epoch-056~Eocene.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene.private|Epoch-056~Eocene.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene.personal|Epoch-056~Eocene.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene.secret|Epoch-056~Eocene.secret]]"
+dv_has_duration_years: "2.210e+7"
+dv_has_previous_item: "[[Epoch-066~Paleocene]]"
+dv_has_next_item: "[[Epoch-034~Oligocene]]"
+dv_is_same_as:
+  - "[[WD~Eocene,76274]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene|Epoch-056~Eocene]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene.public|Epoch-056~Eocene.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene.internal|Epoch-056~Eocene.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene.protect|Epoch-056~Eocene.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene.private|Epoch-056~Eocene.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene.personal|Epoch-056~Eocene.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene.secret|Epoch-056~Eocene.secret]]"
+dv_has_name_bg: Еоцен
+dv_has_name_cs: Eocén
+dv_has_name_da: Eocæn
+dv_has_name_de: Eozän
+dv_has_name_es: Eoceno
+dv_has_name_et: Eotseen
+dv_has_name_fi: Eoseeni
+dv_has_name_fr: Eocène
+dv_has_name_hu: eocén
+dv_has_name_it: eocene
+dv_has_name_ja: 始新世
+dv_has_name_lt: Eocenas
+dv_has_name_nl: Eoceen
+dv_has_name_no: Eocen
+dv_has_name_pl: Eocen
+dv_has_name_pt: Eocénico
+dv_has_name_sk: eocén
+dv_has_name_sl: eocen
+dv_has_name_sv: eocen
+dv_has_name_zh: 始新世
+dv_has_name_abbreviated: E2
+dv_has_time_started: "-56.0e6"
+dv_has_time_stopped: "-33.9e6"
+dv_has_text_of_color: "0xFDB46C"
 ---
 
 # [[Epoch-056~Eocene]] 
 
 #is_a_/time_/Epoch 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[Epoch-066~Paleocene]] 
-#has_/next_/item :: [[Epoch-034~Oligocene]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Eocene,76274]] 
 
 A time period from 56.0 to 33.9 million years ago. 
@@ -46,35 +126,35 @@ A time period from 56.0 to 33.9 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Eocene) 
 
 
-#has_/name_/bg  :: Еоцен
-#has_/name_/cs  :: Eocén
-#has_/name_/da  :: Eocæn
-#has_/name_/de  :: Eozän
-#has_/name_/es  :: Eoceno
-#has_/name_/et  :: Eotseen
-#has_/name_/fi  :: Eoseeni
-#has_/name_/fr  :: Eocène
-#has_/name_/hu  :: eocén
-#has_/name_/it  :: eocene
-#has_/name_/ja  :: 始新世
-#has_/name_/lt  :: Eocenas
-#has_/name_/nl  :: Eoceen
-#has_/name_/no  :: Eocen
-#has_/name_/pl  :: Eocen
-#has_/name_/pt  :: Eocénico
-#has_/name_/sk  :: eocén
-#has_/name_/sl  :: eocen
-#has_/name_/sv  :: eocen
-#has_/name_/zh  :: 始新世
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/abbreviation :: E2
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
-#has_/time_/started :: -56.0e6 
-#has_/time_/stopped :: -33.9e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 28 
 
-#has_/text_of_/color :: 0xFDB46C
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

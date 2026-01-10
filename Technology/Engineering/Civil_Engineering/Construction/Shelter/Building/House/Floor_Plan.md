@@ -32,7 +32,7 @@ Class of all floor_plans.
 Tag Instances like this: 
 #is_a_/floor_plan
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 A FloorPlan is an explicit representation of a collection of similar accommodations, 
 allowing the provision of common information (room counts, sizes, layout diagrams) and offers for rental or sale. 
@@ -45,10 +45,9 @@ either a larger [[ApartmentComplex]] or a single[[../../../../../../../Earth/Geo
 The visual/spatial aspects of a floor plan (i.e. room layout, <a href="https://en.wikipedia.org/wiki/Floor_plan">see wikipedia</a>) 
 can be indicated using [[image]].
 
-[ #is_/sub_class_of :: [[../../../../../../../schema-org/Class/is_a_/Intangible]] ]
+#is_/sub_class_of :: [[../../../../../../../schema-org/Class/is_a_/Intangible]]  
 
-[ #has_/properties :: [ additionalType, alternateName, amenityFeature, description, disambiguatingDescription, floorSize, identifier, image, isPlanForApartment, layoutImage, mainEntityOfPage, name, numberOfAccommodationUnits, numberOfAvailableAccommodationUnits, numberOfBathroomsTotal, numberOfBedrooms, numberOfFullBathrooms, numberOfPartialBathrooms, numberOfRooms, petsAllowed, potentialAction, sameAs, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, amenityFeature, description, disambiguatingDescription, floorSize, identifier, image, isPlanForApartment, layoutImage, mainEntityOfPage, name, numberOfAccommodationUnits, numberOfAvailableAccommodationUnits, numberOfBathroomsTotal, numberOfBedrooms, numberOfFullBathrooms, numberOfPartialBathrooms, numberOfRooms, petsAllowed, potentialAction, sameAs, subjectOf, url ]  
 
 ## Confidential Links & Embeds: 
 

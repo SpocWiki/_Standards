@@ -25,6 +25,25 @@ depicted_by:
 Iconclass_notation: "21"
 Stack_Exchange_tag: https://worldbuilding.stackexchange.com/tags/classical-elements
 Commons_category: Classical elements
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Four_elements,188520|WD~Four_elements,188520]]"
+    - "[[/_Standards/Chemistry/Alchemy/Four_elements|Four_elements]]"
+    - "[[/_public/Chemistry/Alchemy/Four_elements.public|Four_elements.public]]"
+    - "[[/_internal/Chemistry/Alchemy/Four_elements.internal|Four_elements.internal]]"
+    - "[[/_protect/Chemistry/Alchemy/Four_elements.protect|Four_elements.protect]]"
+    - "[[/_private/Chemistry/Alchemy/Four_elements.private|Four_elements.private]]"
+    - "[[/_personal/Chemistry/Alchemy/Four_elements.personal|Four_elements.personal]]"
+    - "[[/_secret/Chemistry/Alchemy/Four_elements.secret|Four_elements.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Four_elements,188520|WD~Four_elements,188520]]"
+  - "[[/_Standards/Chemistry/Alchemy/Four_elements|Four_elements]]"
+  - "[[/_public/Chemistry/Alchemy/Four_elements.public|Four_elements.public]]"
+  - "[[/_internal/Chemistry/Alchemy/Four_elements.internal|Four_elements.internal]]"
+  - "[[/_protect/Chemistry/Alchemy/Four_elements.protect|Four_elements.protect]]"
+  - "[[/_private/Chemistry/Alchemy/Four_elements.private|Four_elements.private]]"
+  - "[[/_personal/Chemistry/Alchemy/Four_elements.personal|Four_elements.personal]]"
+  - "[[/_secret/Chemistry/Alchemy/Four_elements.secret|Four_elements.secret]]"
 ---
 
 # [[Four_elements]] 

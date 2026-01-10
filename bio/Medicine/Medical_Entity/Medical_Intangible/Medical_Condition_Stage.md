@@ -34,10 +34,9 @@ Tag Instances like this:
 
 A stage of a medical condition, such as 'Stage IIIa'.
 
-[ #is_/sub_class_of :: [[../MedicalIntangible]] ]
+#is_/sub_class_of :: [[../MedicalIntangible]]  
 
-[ #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, stageAsNumber, study, subStageSuffix, subjectOf, url ] ]
-
+#has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, stageAsNumber, study, subStageSuffix, subjectOf, url ]  
 
 ## Confidential Links & Embeds: 
 

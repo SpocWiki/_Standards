@@ -67,6 +67,95 @@ tags:
 title:
   "{ newTitle: }":
 type: private_note
+dv_has_:
+  time_:
+    started:
+      - "-323.2e6"
+      - "-323.2e6"
+    stopped:
+      - "-315.2e6"
+      - "-315.2e6"
+  text_of_:
+    color:
+      - "0x8CBEB4"
+      - "0x99C2B5"
+  duration_:
+    years: NaN
+  previous_:
+    item: "[[../Epoch-359~Mississippian/Age~3~Serpukhovian|Age~3~Serpukhovian]]"
+  next_:
+    item: "[[Age~2~Moscovian]]"
+  name_:
+    bg: Башкир
+    cs: Bashkir
+    da: Bashkirien
+    de: Bashkirium
+    es: Bashkiriense
+    et: Baškiiri
+    fi: Bashkir
+    fr: Bashkirien
+    hu: baskír
+    it: bashkiriano
+    ja: バシキリアン期
+    lt: Bashkirian
+    nl: Bashkiriën
+    no: Bashkirium
+    pl: Baszkir
+    pt: Bashkiriano
+    sk: baškir
+    sl: baškirij
+    sv: bashkir
+    zh: 巴什基尔期
+    abbreviated: c4
+dv_is_:
+  same_as:
+    - "[[WD~Bashkirian,639443]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian|Age~1~Bashkirian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian.public|Age~1~Bashkirian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian.internal|Age~1~Bashkirian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian.protect|Age~1~Bashkirian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian.private|Age~1~Bashkirian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian.personal|Age~1~Bashkirian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian.secret|Age~1~Bashkirian.secret]]"
+dv_has_time_stopped:
+  - "-315.2e6"
+  - "-315.2e6"
+dv_has_text_of_color:
+  - "0x8CBEB4"
+  - "0x99C2B5"
+dv_has_duration_years: NaN
+dv_has_previous_item: "[[../Epoch-359~Mississippian/Age~3~Serpukhovian|Age~3~Serpukhovian]]"
+dv_has_next_item: "[[Age~2~Moscovian]]"
+dv_is_same_as:
+  - "[[WD~Bashkirian,639443]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian|Age~1~Bashkirian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian.public|Age~1~Bashkirian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian.internal|Age~1~Bashkirian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian.protect|Age~1~Bashkirian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian.private|Age~1~Bashkirian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian.personal|Age~1~Bashkirian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~1~Bashkirian.secret|Age~1~Bashkirian.secret]]"
+dv_has_name_bg: Башкир
+dv_has_name_cs: Bashkir
+dv_has_name_da: Bashkirien
+dv_has_name_de: Bashkirium
+dv_has_name_es: Bashkiriense
+dv_has_name_et: Baškiiri
+dv_has_name_fi: Bashkir
+dv_has_name_fr: Bashkirien
+dv_has_name_hu: baskír
+dv_has_name_it: bashkiriano
+dv_has_name_ja: バシキリアン期
+dv_has_name_lt: Bashkirian
+dv_has_name_nl: Bashkiriën
+dv_has_name_no: Bashkirium
+dv_has_name_pl: Baszkir
+dv_has_name_pt: Bashkiriano
+dv_has_name_sk: baškir
+dv_has_name_sl: baškirij
+dv_has_name_sv: bashkir
+dv_has_name_zh: 巴什基尔期
+dv_has_name_abbreviated: c4
 ---
 # [[Age~1~Bashkirian]] 
 
@@ -82,8 +171,8 @@ type: private_note
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[../Epoch-359~Mississippian/Age~3~Serpukhovian|Age~3~Serpukhovian]] 
-#has_/next_/item :: [[Age~2~Moscovian|Age~2~Moscovian]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Bashkirian,639443]] 
 
 A time period from 323.2 to 315.2 million years ago. 
@@ -97,28 +186,28 @@ A time period from 323.2 to 315.2 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Bashkirian) 
 
 
-#has_/name_/bg  :: Башкир
-#has_/name_/cs  :: Bashkir
-#has_/name_/da  :: Bashkirien
-#has_/name_/de  :: Bashkirium
-#has_/name_/es  :: Bashkiriense
-#has_/name_/et  :: Baškiiri
-#has_/name_/fi  :: Bashkir
-#has_/name_/fr  :: Bashkirien
-#has_/name_/hu  :: baskír
-#has_/name_/it  :: bashkiriano
-#has_/name_/ja  :: バシキリアン期
-#has_/name_/lt  :: Bashkirian
-#has_/name_/nl  :: Bashkiriën
-#has_/name_/no  :: Bashkirium
-#has_/name_/pl  :: Baszkir
-#has_/name_/pt  :: Bashkiriano
-#has_/name_/sk  :: baškir
-#has_/name_/sl  :: baškirij
-#has_/name_/sv  :: bashkir
-#has_/name_/zh  :: 巴什基尔期
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/abbreviation :: c4
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
 #has_/time_/started :: -323.2e6 
 #has_/time_/stopped :: -315.2e6 

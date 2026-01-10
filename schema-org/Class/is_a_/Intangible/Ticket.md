@@ -8,21 +8,43 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - ticket
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_ticket Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_ticket Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../Intangible]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Ticket|Ticket]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Ticket.public|Ticket.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Ticket.internal|Ticket.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Ticket.protect|Ticket.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Ticket.private|Ticket.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Ticket.personal|Ticket.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Ticket.secret|Ticket.secret]]"
+dv_has_:
+  properties: "[ additionalType, alternateName, dateIssued, description, disambiguatingDescription, identifier, image, issuedBy, mainEntityOfPage, name, potentialAction, priceCurrency, sameAs, subjectOf, ticketNumber, ticketToken, ticketedSeat, totalPrice, underName, url ]"
+dv_is_sub_class_of: "[[../Intangible]]"
+dv_has_properties: "[ additionalType, alternateName, dateIssued, description, disambiguatingDescription, identifier, image, issuedBy, mainEntityOfPage, name, potentialAction, priceCurrency, sameAs, subjectOf, ticketNumber, ticketToken, ticketedSeat, totalPrice, underName, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Ticket|Ticket]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Ticket.public|Ticket.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Ticket.internal|Ticket.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Ticket.protect|Ticket.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Ticket.private|Ticket.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Ticket.personal|Ticket.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Ticket.secret|Ticket.secret]]"
 ---
 
 Class of all tickets.
@@ -32,10 +54,9 @@ Tag Instances like this:
 
 Used to describe a ticket to an event, a flight, a bus ride, etc.
 
-[ #is_/sub_class_of :: [[../Intangible]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #has_/properties :: [ additionalType, alternateName, dateIssued, description, disambiguatingDescription, identifier, image, issuedBy, mainEntityOfPage, name, potentialAction, priceCurrency, sameAs, subjectOf, ticketNumber, ticketToken, ticketedSeat, totalPrice, underName, url ] ]
-
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

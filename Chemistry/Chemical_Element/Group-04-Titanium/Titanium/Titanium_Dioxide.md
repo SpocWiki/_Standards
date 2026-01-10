@@ -10,24 +10,24 @@ aliases:
 has_id_wikidata: Q193521
 RTECS_number: XR2775000
 subject_has_role:
-  - '[[_Standards/WikiData/WD~biocompatible_material,177664]]'
-  - '[[_Standards/WikiData/WD~photosensitizer,901934]]'
-  - '[[_Standards/WikiData/WD~occupational_carcinogen,21074597]]'
+  - "[[_Standards/WikiData/WD~biocompatible_material,177664]]"
+  - "[[_Standards/WikiData/WD~photosensitizer,901934]]"
+  - "[[_Standards/WikiData/WD~occupational_carcinogen,21074597]]"
 has_use:
-  - '[[_Standards/WikiData/WD~dye,189720]]'
-  - '[[_Standards/WikiData/WD~food_coloring,753009]]'
-  - '[[_Standards/WikiData/WD~sunscreen,827658]]'
-  - '[[_Standards/WikiData/WD~excipient,902638]]'
-legal_status_medicine_: '[[_Standards/WikiData/WD~boxed_warning,879952]]'
-associated_hazard: '[[_Standards/WikiData/WD~titanium_dioxide_exposure,21175372]]'
-has_effect: '[[_Standards/WikiData/WD~titanium_dioxide_exposure,21175372]]'
-safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
-subclass_of: '[[_Standards/WikiData/WD~titanium_oxide,61670599]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
+  - "[[_Standards/WikiData/WD~dye,189720]]"
+  - "[[_Standards/WikiData/WD~food_coloring,753009]]"
+  - "[[_Standards/WikiData/WD~sunscreen,827658]]"
+  - "[[_Standards/WikiData/WD~excipient,902638]]"
+legal_status_medicine_: "[[_Standards/WikiData/WD~boxed_warning,879952]]"
+associated_hazard: "[[_Standards/WikiData/WD~titanium_dioxide_exposure,21175372]]"
+has_effect: "[[_Standards/WikiData/WD~titanium_dioxide_exposure,21175372]]"
+safety_classification_and_labelling: "[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]"
+subclass_of: "[[_Standards/WikiData/WD~titanium_oxide,61670599]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]"
 has_part_s_:
-  - '[[_Standards/WikiData/WD~oxygen,629]]'
-  - '[[_Standards/WikiData/WD~titanium,716]]'
+  - "[[_Standards/WikiData/WD~oxygen,629]]"
+  - "[[_Standards/WikiData/WD~titanium,716]]"
 ceiling_exposure_limit: 0
 vapor_pressure: 0
 immediately_dangerous_to_life_or_health: 5000
@@ -63,6 +63,25 @@ EC_number: 236-675-5
 DSSTOX_compound_identifier: DTXCID901334118
 canonical_SMILES: O=[Ti]=O
 Commons_category: Titanium dioxide
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Titanium_dioxide,193521]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-04-Titanium/Titanium/Titanium_Dioxide|Titanium_Dioxide]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-04-Titanium/Titanium/Titanium_Dioxide.public|Titanium_Dioxide.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-04-Titanium/Titanium/Titanium_Dioxide.internal|Titanium_Dioxide.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-04-Titanium/Titanium/Titanium_Dioxide.protect|Titanium_Dioxide.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-04-Titanium/Titanium/Titanium_Dioxide.private|Titanium_Dioxide.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-04-Titanium/Titanium/Titanium_Dioxide.personal|Titanium_Dioxide.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-04-Titanium/Titanium/Titanium_Dioxide.secret|Titanium_Dioxide.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Titanium_dioxide,193521]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-04-Titanium/Titanium/Titanium_Dioxide|Titanium_Dioxide]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-04-Titanium/Titanium/Titanium_Dioxide.public|Titanium_Dioxide.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-04-Titanium/Titanium/Titanium_Dioxide.internal|Titanium_Dioxide.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-04-Titanium/Titanium/Titanium_Dioxide.protect|Titanium_Dioxide.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-04-Titanium/Titanium/Titanium_Dioxide.private|Titanium_Dioxide.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-04-Titanium/Titanium/Titanium_Dioxide.personal|Titanium_Dioxide.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-04-Titanium/Titanium/Titanium_Dioxide.secret|Titanium_Dioxide.secret]]"
 ---
 
 # [[Titanium_Dioxide]] 

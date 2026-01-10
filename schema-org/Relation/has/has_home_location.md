@@ -29,18 +29,19 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/home_location :: ContactPoint, Place ] or 
+- [has_/home_location :: ContactPoint, Place ] 
 - [ has_home_location :: ContactPoint, Place ] 
 
 A contact location for a person's residence.
 
 Relation describes that: 
-[ #has_/domain  :: Person ]
+
+#has_/domain  :: Person  
+
 ( #has_/name :: has_home_location )
 ( #has_/range :: ContactPoint, Place )
 
-[ #is_/sub_property_of  :: location ]
-
+#is_/sub_property_of  :: location  
 
 ## Confidential Links & Embeds: 
 

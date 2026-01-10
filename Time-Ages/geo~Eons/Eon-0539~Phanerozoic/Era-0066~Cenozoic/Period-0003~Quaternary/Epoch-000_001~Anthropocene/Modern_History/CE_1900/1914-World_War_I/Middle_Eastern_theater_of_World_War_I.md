@@ -4,15 +4,34 @@ aliases:
   - Middle_Eastern_theater_of_World_War_I
   - Middle Eastern theater of World War I
 has_id_wikidata: Q1765465
-instance_of: '[[_Standards/WikiData/WD~theater_of_war,718893]]'
+instance_of: "[[_Standards/WikiData/WD~theater_of_war,718893]]"
 location:
-  - '[[_Standards/WikiData/WD~Middle_East,7204]]'
-  - '[[_Standards/WikiData/WD~Central_Asia,27275]]'
+  - "[[_Standards/WikiData/WD~Middle_East,7204]]"
+  - "[[_Standards/WikiData/WD~Central_Asia,27275]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/G.C.%2018%20March%201915%20Gallipoli%20Campaign%20Article.jpg
 Commons_category: Middle Eastern theatre of World War I
 end_time: 1918-10-30T00:00:00Z
 point_in_time: 1914-10-30T00:00:00Z
 start_time: 1914-10-29T00:00:00Z
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../../WikiData/WD~Middle_Eastern_theater_of_World_War_I,1765465]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Middle_Eastern_theater_of_World_War_I|Middle_Eastern_theater_of_World_War_I]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Middle_Eastern_theater_of_World_War_I.public|Middle_Eastern_theater_of_World_War_I.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Middle_Eastern_theater_of_World_War_I.internal|Middle_Eastern_theater_of_World_War_I.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Middle_Eastern_theater_of_World_War_I.protect|Middle_Eastern_theater_of_World_War_I.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Middle_Eastern_theater_of_World_War_I.private|Middle_Eastern_theater_of_World_War_I.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Middle_Eastern_theater_of_World_War_I.personal|Middle_Eastern_theater_of_World_War_I.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Middle_Eastern_theater_of_World_War_I.secret|Middle_Eastern_theater_of_World_War_I.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../../WikiData/WD~Middle_Eastern_theater_of_World_War_I,1765465]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Middle_Eastern_theater_of_World_War_I|Middle_Eastern_theater_of_World_War_I]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Middle_Eastern_theater_of_World_War_I.public|Middle_Eastern_theater_of_World_War_I.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Middle_Eastern_theater_of_World_War_I.internal|Middle_Eastern_theater_of_World_War_I.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Middle_Eastern_theater_of_World_War_I.protect|Middle_Eastern_theater_of_World_War_I.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Middle_Eastern_theater_of_World_War_I.private|Middle_Eastern_theater_of_World_War_I.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Middle_Eastern_theater_of_World_War_I.personal|Middle_Eastern_theater_of_World_War_I.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Middle_Eastern_theater_of_World_War_I.secret|Middle_Eastern_theater_of_World_War_I.secret]]"
 ---
 
 # [[Middle_Eastern_theater_of_World_War_I]] 

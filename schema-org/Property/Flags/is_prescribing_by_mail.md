@@ -27,7 +27,7 @@ title: is_prescribing_by_mail
 type: Pred_Bool
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use these simple Tags to mark Instances as True or False: 
 #is_/prescribing_by_mail 
@@ -39,7 +39,9 @@ Or write it as a Triple:
 Whether prescriptions can be delivered by mail.
 
 Predicate describes that: 
-[ #has_/domain  :: HealthPlanFormulary ]
+
+#has_/domain  :: HealthPlanFormulary  
+
 ( #has_/name :: is_prescribing_by_mail )
 ( #has_/range :: Boolean )
 

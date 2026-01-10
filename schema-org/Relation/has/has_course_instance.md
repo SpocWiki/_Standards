@@ -8,7 +8,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,28 +16,57 @@ keywords:
   - instance
   - course_instance
   - hasCourseInstance
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_course_instance
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_course_instance
 type: Predi_Relation
+dv_has_:
+  course_instance: CourseInstance
+  domain: Course
+dv_has_course_instance: CourseInstance
+dv_#has_:
+  name: has_course_instance
+  range: CourseInstance
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_course_instance|has_course_instance]]"
+    - "[[/_public/schema-org/Relation/has/has_course_instance.public|has_course_instance.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_course_instance.internal|has_course_instance.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_course_instance.protect|has_course_instance.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_course_instance.private|has_course_instance.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_course_instance.personal|has_course_instance.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_course_instance.secret|has_course_instance.secret]]"
+dv_has_domain: Course
+dv_has_name: has_course_instance
+dv_has_range: CourseInstance
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_course_instance|has_course_instance]]"
+  - "[[/_public/schema-org/Relation/has/has_course_instance.public|has_course_instance.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_course_instance.internal|has_course_instance.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_course_instance.protect|has_course_instance.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_course_instance.private|has_course_instance.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_course_instance.personal|has_course_instance.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_course_instance.secret|has_course_instance.secret]]"
 ---
 
 Use it like this: 
-- [ #has_/course_instance :: CourseInstance ] or 
-- [ has_course_instance :: CourseInstance ] 
+- has_course_instance = `=this.dv_has_course_instance`  
+- has_course_instance = `=this.dv_has_course_instance`  
 
 An offering of the course at a specific time and place or through specific media or mode of study or to a specific section of students.
 
 Relation describes that: 
-[ #has_/domain  :: Course ]
-( #has_/name :: has_course_instance )
-( #has_/range :: CourseInstance )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

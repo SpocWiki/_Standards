@@ -27,7 +27,7 @@ title: is_abridged
 type: Pred_Bool
 ---
 
-[ #is_/part_of :: https://bib.schema.org ]
+#is_/part_of :: https://bib.schema.org  
 
 Use these simple Tags to mark Instances as True or False: 
 #is_/abridged 
@@ -39,7 +39,9 @@ Or write it as a Triple:
 Indicates whether the book is an abridged edition.
 
 Predicate describes that: 
-[ #has_/domain  :: Book ]
+
+#has_/domain  :: Book  
+
 ( #has_/name :: is_abridged )
 ( #has_/range :: Boolean )
 

@@ -13,6 +13,25 @@ OmegaWiki_Defined_Meaning: "2666"
 MeSH_tree_code: D02
 UMLS_CUI: C0029224
 Commons_category: Organic compounds
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Organic_compound,174211]]"
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Organic_Compound|Organic_Compound]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Organic_Compound.public|Organic_Compound.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Organic_Compound.internal|Organic_Compound.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Organic_Compound.protect|Organic_Compound.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Organic_Compound.private|Organic_Compound.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Organic_Compound.personal|Organic_Compound.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Organic_Compound.secret|Organic_Compound.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Organic_compound,174211]]"
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Organic_Compound|Organic_Compound]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Organic_Compound.public|Organic_Compound.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Organic_Compound.internal|Organic_Compound.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Organic_Compound.protect|Organic_Compound.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Organic_Compound.private|Organic_Compound.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Organic_Compound.personal|Organic_Compound.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Organic_Compound.secret|Organic_Compound.secret]]"
 ---
 
 # [[Organic_Compound]] 

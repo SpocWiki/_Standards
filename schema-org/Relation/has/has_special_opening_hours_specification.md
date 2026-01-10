@@ -9,7 +9,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -18,21 +18,48 @@ keywords:
   - opening
   - hours
   - specification
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_special_opening_hours_specification
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_special_opening_hours_specification
 type: Predi_Relation
+dv_has_:
+  special_opening_hours_specification: OpeningHoursSpecification
+  domain: Place
+dv_has_special_opening_hours_specification: OpeningHoursSpecification
+dv_#has_:
+  name: is_special_opening_hours_specification
+  range: OpeningHoursSpecification
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_special_opening_hours_specification|has_special_opening_hours_specification]]"
+    - "[[/_public/schema-org/Relation/has/has_special_opening_hours_specification.public|has_special_opening_hours_specification.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_special_opening_hours_specification.internal|has_special_opening_hours_specification.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_special_opening_hours_specification.protect|has_special_opening_hours_specification.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_special_opening_hours_specification.private|has_special_opening_hours_specification.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_special_opening_hours_specification.personal|has_special_opening_hours_specification.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_special_opening_hours_specification.secret|has_special_opening_hours_specification.secret]]"
+dv_has_domain: Place
+dv_has_name: is_special_opening_hours_specification
+dv_has_range: OpeningHoursSpecification
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_special_opening_hours_specification|has_special_opening_hours_specification]]"
+  - "[[/_public/schema-org/Relation/has/has_special_opening_hours_specification.public|has_special_opening_hours_specification.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_special_opening_hours_specification.internal|has_special_opening_hours_specification.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_special_opening_hours_specification.protect|has_special_opening_hours_specification.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_special_opening_hours_specification.private|has_special_opening_hours_specification.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_special_opening_hours_specification.personal|has_special_opening_hours_specification.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_special_opening_hours_specification.secret|has_special_opening_hours_specification.secret]]"
 ---
 
 Use it like this: 
-- [ #has_/special_opening_hours_specification :: OpeningHoursSpecification ] or 
-- [ has_special_opening_hours_specification :: OpeningHoursSpecification ] 
+- has_special_opening_hours_specification = `=this.dv_has_special_opening_hours_specification`  
+- has_special_opening_hours_specification = `=this.dv_has_special_opening_hours_specification`  
 
 The special opening hours of a certain place.
 
@@ -41,9 +68,11 @@ The special opening hours of a certain place.
 Use this to explicitly override general opening hours brought in scope by [[openingHoursSpecification]] or [[openingHours]].
 
 Relation describes that: 
-[ #has_/domain  :: Place ]
-( #has_/name :: is_special_opening_hours_specification )
-( #has_/range :: OpeningHoursSpecification )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

@@ -4,20 +4,20 @@ aliases:
   - Wool
 has_id_wikidata: Q42329
 made_from_material:
-  - '[[_Standards/WikiData/WD~fur,197204]]'
-  - '[[_Standards/WikiData/WD~wool_hair,115120860]]'
+  - "[[_Standards/WikiData/WD~fur,197204]]"
+  - "[[_Standards/WikiData/WD~wool_hair,115120860]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-  - '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[_Standards/WikiData/WD~Fairchild's_Dictionary_of_Textiles,28888841]]"
-subclass_of: '[[_Standards/WikiData/WD~animal_fiber,874142]]'
-different_from: '[[_Standards/WikiData/WD~Wełna,9372261]]'
-has_use: '[[_Standards/WikiData/WD~wool,11547758]]'
-instance_of: '[[../../../WikiData/WD~fiber,161]]'
+subclass_of: "[[_Standards/WikiData/WD~animal_fiber,874142]]"
+different_from: "[[_Standards/WikiData/WD~Wełna,9372261]]"
+has_use: "[[_Standards/WikiData/WD~wool,11547758]]"
+instance_of: "[[../../../WikiData/WD~fiber,161]]"
 OmegaWiki_Defined_Meaning: 4174
 Commons_gallery: Wool
 Commons_category: Wool
@@ -29,6 +29,25 @@ MeSH_tree_code:
   - A17.360.855
 Colon_Classification: M7;2
 Dewey_Decimal_Classification: 677.31
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Wool,42329|WD~Wool,42329]]"
+    - "[[/_Standards/Chemistry/Material/Fiber/Wool|Wool]]"
+    - "[[/_public/Chemistry/Material/Fiber/Wool.public|Wool.public]]"
+    - "[[/_internal/Chemistry/Material/Fiber/Wool.internal|Wool.internal]]"
+    - "[[/_protect/Chemistry/Material/Fiber/Wool.protect|Wool.protect]]"
+    - "[[/_private/Chemistry/Material/Fiber/Wool.private|Wool.private]]"
+    - "[[/_personal/Chemistry/Material/Fiber/Wool.personal|Wool.personal]]"
+    - "[[/_secret/Chemistry/Material/Fiber/Wool.secret|Wool.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Wool,42329|WD~Wool,42329]]"
+  - "[[/_Standards/Chemistry/Material/Fiber/Wool|Wool]]"
+  - "[[/_public/Chemistry/Material/Fiber/Wool.public|Wool.public]]"
+  - "[[/_internal/Chemistry/Material/Fiber/Wool.internal|Wool.internal]]"
+  - "[[/_protect/Chemistry/Material/Fiber/Wool.protect|Wool.protect]]"
+  - "[[/_private/Chemistry/Material/Fiber/Wool.private|Wool.private]]"
+  - "[[/_personal/Chemistry/Material/Fiber/Wool.personal|Wool.personal]]"
+  - "[[/_secret/Chemistry/Material/Fiber/Wool.secret|Wool.secret]]"
 ---
 
 # [[Wool]] 

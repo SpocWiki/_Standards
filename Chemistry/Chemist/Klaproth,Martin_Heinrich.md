@@ -3,11 +3,37 @@ aliases:
   - Martin Heinrich Klaproth
   - Klaproth,Martin_Heinrich
   - Klaproth,Martin Heinrich
+dv_has_:
+  time_:
+    started: 1743-12-01T00:00:00.000+00:53
+    stopped: 1817-01-01T00:00:00.000+00:53
+  age_:
+    years: 73
+dv_is_:
+  same_as:
+    - "[[/_Standards/Chemistry/Chemist/Klaproth,Martin_Heinrich|Klaproth,Martin_Heinrich]]"
+    - "[[/_public/Chemistry/Chemist/Klaproth,Martin_Heinrich.public|Klaproth,Martin_Heinrich.public]]"
+    - "[[/_internal/Chemistry/Chemist/Klaproth,Martin_Heinrich.internal|Klaproth,Martin_Heinrich.internal]]"
+    - "[[/_protect/Chemistry/Chemist/Klaproth,Martin_Heinrich.protect|Klaproth,Martin_Heinrich.protect]]"
+    - "[[/_private/Chemistry/Chemist/Klaproth,Martin_Heinrich.private|Klaproth,Martin_Heinrich.private]]"
+    - "[[/_personal/Chemistry/Chemist/Klaproth,Martin_Heinrich.personal|Klaproth,Martin_Heinrich.personal]]"
+    - "[[/_secret/Chemistry/Chemist/Klaproth,Martin_Heinrich.secret|Klaproth,Martin_Heinrich.secret]]"
+dv_has_time_started: 1743-12-01
+dv_has_time_stopped: 1817-01-01
+dv_has_age_years: 73
+dv_is_same_as:
+  - "[[/_Standards/Chemistry/Chemist/Klaproth,Martin_Heinrich|Klaproth,Martin_Heinrich]]"
+  - "[[/_public/Chemistry/Chemist/Klaproth,Martin_Heinrich.public|Klaproth,Martin_Heinrich.public]]"
+  - "[[/_internal/Chemistry/Chemist/Klaproth,Martin_Heinrich.internal|Klaproth,Martin_Heinrich.internal]]"
+  - "[[/_protect/Chemistry/Chemist/Klaproth,Martin_Heinrich.protect|Klaproth,Martin_Heinrich.protect]]"
+  - "[[/_private/Chemistry/Chemist/Klaproth,Martin_Heinrich.private|Klaproth,Martin_Heinrich.private]]"
+  - "[[/_personal/Chemistry/Chemist/Klaproth,Martin_Heinrich.personal|Klaproth,Martin_Heinrich.personal]]"
+  - "[[/_secret/Chemistry/Chemist/Klaproth,Martin_Heinrich.secret|Klaproth,Martin_Heinrich.secret]]"
 ---
 
-#has_/time_/started :: 1743-12-01 
-#has_/time_/stopped :: 1817-01-01 
-#has_/age_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
+#has_/age_/years :: `$=Math.round(((dv.current().dv_has_time_stopped ?? new Date()) - dv.current().dv_has_time_started)/1000/60/60/24/365.2425)` 
 
 
 ## #has_/text_of_/abstract 

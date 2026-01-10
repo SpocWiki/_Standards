@@ -10,36 +10,65 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - program
   - name
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_name_of_program
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_name_of_program
 type: Pred_Text
+dv_has_:
+  name_of_program: Text
+  domain: ProgramMembership
+dv_has_name_of_program: Text
+dv_#has_:
+  name: has_name_of_program
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_name/has_name_of_program|has_name_of_program]]"
+    - "[[/_public/schema-org/Property/has_name/has_name_of_program.public|has_name_of_program.public]]"
+    - "[[/_internal/schema-org/Property/has_name/has_name_of_program.internal|has_name_of_program.internal]]"
+    - "[[/_protect/schema-org/Property/has_name/has_name_of_program.protect|has_name_of_program.protect]]"
+    - "[[/_private/schema-org/Property/has_name/has_name_of_program.private|has_name_of_program.private]]"
+    - "[[/_personal/schema-org/Property/has_name/has_name_of_program.personal|has_name_of_program.personal]]"
+    - "[[/_secret/schema-org/Property/has_name/has_name_of_program.secret|has_name_of_program.secret]]"
+dv_has_domain: ProgramMembership
+dv_has_name: has_name_of_program
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_name/has_name_of_program|has_name_of_program]]"
+  - "[[/_public/schema-org/Property/has_name/has_name_of_program.public|has_name_of_program.public]]"
+  - "[[/_internal/schema-org/Property/has_name/has_name_of_program.internal|has_name_of_program.internal]]"
+  - "[[/_protect/schema-org/Property/has_name/has_name_of_program.protect|has_name_of_program.protect]]"
+  - "[[/_private/schema-org/Property/has_name/has_name_of_program.private|has_name_of_program.private]]"
+  - "[[/_personal/schema-org/Property/has_name/has_name_of_program.personal|has_name_of_program.personal]]"
+  - "[[/_secret/schema-org/Property/has_name/has_name_of_program.secret|has_name_of_program.secret]]"
 ---
 
 Predicate to describe the Text of ProgramMembership.
 
 Use it like this: 
-- [ #has_/name_of_program :: Text ] or 
-- [ has_name_of_program :: Text ] 
+- has_name_of_program = `=this.dv_has_name_of_program`  
+- has_name_of_program = `=this.dv_has_name_of_program`  
 
 The program providing the membership.
 
 Predicated describes that: 
-[ #has_/domain  :: ProgramMembership ]
-( #has_/name :: has_name_of_program )
-( #has_/range :: Text )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

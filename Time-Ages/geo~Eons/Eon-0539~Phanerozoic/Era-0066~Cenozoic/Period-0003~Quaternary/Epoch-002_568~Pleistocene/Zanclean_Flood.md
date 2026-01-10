@@ -12,6 +12,25 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Etapa4.jpg
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Insetinundacio.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Messinian%20Mediterranean%20and%20Gibraltar%20-%20reconstructed%20landscape.jpg
+dv_is_:
+  same_as:
+    - "[[WD~Zanclean_flood,3612703]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Zanclean_Flood|Zanclean_Flood]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Zanclean_Flood.public|Zanclean_Flood.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Zanclean_Flood.internal|Zanclean_Flood.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Zanclean_Flood.protect|Zanclean_Flood.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Zanclean_Flood.private|Zanclean_Flood.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Zanclean_Flood.personal|Zanclean_Flood.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Zanclean_Flood.secret|Zanclean_Flood.secret]]"
+dv_is_same_as:
+  - "[[WD~Zanclean_flood,3612703]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Zanclean_Flood|Zanclean_Flood]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Zanclean_Flood.public|Zanclean_Flood.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Zanclean_Flood.internal|Zanclean_Flood.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Zanclean_Flood.protect|Zanclean_Flood.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Zanclean_Flood.private|Zanclean_Flood.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Zanclean_Flood.personal|Zanclean_Flood.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Zanclean_Flood.secret|Zanclean_Flood.secret]]"
 ---
 
 # [[Zanclean_Flood]] 

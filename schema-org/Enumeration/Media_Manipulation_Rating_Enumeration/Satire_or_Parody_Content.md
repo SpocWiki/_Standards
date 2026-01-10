@@ -13,21 +13,46 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: MediaManipulationRatingEnumeration
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - satire_or_parody_content
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_satire_or_parody_content Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_satire_or_parody_content Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../Media_Manipulation_Rating_Enumeration]]"
+  enum_of: "[[../Media_Manipulation_Rating_Enumeration]]"
+  same_as:
+    - "[[../../../WikiData/WD~Satire,128758|WD~Satire,128758]]"
+    - "[[/_Standards/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content|Satire_or_Parody_Content]]"
+    - "[[/_public/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.public|Satire_or_Parody_Content.public]]"
+    - "[[/_internal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.internal|Satire_or_Parody_Content.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.protect|Satire_or_Parody_Content.protect]]"
+    - "[[/_private/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.private|Satire_or_Parody_Content.private]]"
+    - "[[/_personal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.personal|Satire_or_Parody_Content.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.secret|Satire_or_Parody_Content.secret]]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../Media_Manipulation_Rating_Enumeration]]"
+dv_is_enum_of: "[[../Media_Manipulation_Rating_Enumeration]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Satire,128758|WD~Satire,128758]]"
+  - "[[/_Standards/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content|Satire_or_Parody_Content]]"
+  - "[[/_public/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.public|Satire_or_Parody_Content.public]]"
+  - "[[/_internal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.internal|Satire_or_Parody_Content.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.protect|Satire_or_Parody_Content.protect]]"
+  - "[[/_private/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.private|Satire_or_Parody_Content.private]]"
+  - "[[/_personal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.personal|Satire_or_Parody_Content.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.secret|Satire_or_Parody_Content.secret]]"
 ---
 
 # [[Satire_or_Parody_Content]] 
@@ -37,13 +62,13 @@ Class of all satire_or_parody_contents.
 Tag Instances like this: 
 #is_a_/satire_or_parody_content
 
-[ #is_/part_of :: https://pending.schema.org ]
+is_part_of = `=this.dv_is_part_of` 
 
 Content coded 'satire or parody content' in a [[MediaReview]], considered in the context of how it was published or shared.
 
-[ #is_/sub_class_of :: [[../Media_Manipulation_Rating_Enumeration]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #is_/enum_of :: [[../Media_Manipulation_Rating_Enumeration]] ]
+is_enum_of = `=this.dv_is_enum_of` 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Satire,128758|WD~Satire,128758]] 
 

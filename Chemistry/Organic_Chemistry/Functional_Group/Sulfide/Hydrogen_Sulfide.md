@@ -87,12 +87,19 @@ P2167: "12142107"
 EC_number: 231-977-3
 Reaxys_registry_number: "3535004"
 CAS_Registry_Number: 7783-06-4
+dv_is_:
+  same_as: "[[WD~hydrogen sulphide,170591]]"
+dv_has_:
+  formula_:
+    structural: H-S-H
+dv_is_same_as: "[[WD~hydrogen sulphide,170591]]"
+dv_has_formula_structural: H-S-H
 ---
 
 # [[Hydrogen_Sulfide]] 
 
-#is_/same_as :: [[WD~hydrogen sulphide,170591]] 
-#has_/formula_/structural :: H-S-H 
+is_same_as = `=this.dv_is_same_as` 
+has_formula_structural = `=this.dv_has_formula_structural` 
 
 ## #has_/text_of_/abstract 
 

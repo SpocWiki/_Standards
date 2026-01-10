@@ -10,21 +10,45 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - energy_consumption_details
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_an_energy_consumption_details Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_an_energy_consumption_details Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../Intangible]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details|Energy_Consumption_Details]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details.public|Energy_Consumption_Details.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details.internal|Energy_Consumption_Details.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details.protect|Energy_Consumption_Details.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details.private|Energy_Consumption_Details.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details.personal|Energy_Consumption_Details.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details.secret|Energy_Consumption_Details.secret]]"
+dv_has_:
+  properties: "[ additionalType, alternateName, description, disambiguatingDescription, energyEfficiencyScaleMax, energyEfficiencyScaleMin, hasEnergyEfficiencyCategory, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../Intangible]]"
+dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, energyEfficiencyScaleMax, energyEfficiencyScaleMin, hasEnergyEfficiencyCategory, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details|Energy_Consumption_Details]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details.public|Energy_Consumption_Details.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details.internal|Energy_Consumption_Details.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details.protect|Energy_Consumption_Details.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details.private|Energy_Consumption_Details.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details.personal|Energy_Consumption_Details.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details.secret|Energy_Consumption_Details.secret]]"
 ---
 
 Class of all energy_consumption_detailss.
@@ -32,14 +56,13 @@ Class of all energy_consumption_detailss.
 Tag Instances like this: 
 #is_an_/energy_consumption_details
 
-[ #is_/part_of :: https://pending.schema.org ]
+is_part_of = `=this.dv_is_part_of` 
 
 EnergyConsumptionDetails represents information related to the energy efficiency of a product that consumes energy. The information that can be provided is based on international regulations such as for example <a href="https://eur-lex.europa.eu/eli/reg/2017/1369/oj">EU directive 2017/1369</a> for energy labeling and the <a href="https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/energy-water-use-labeling-consumer">Energy labeling rule</a> under the Energy Policy and Conservation Act (EPCA) in the US.
 
-[ #is_/sub_class_of :: [[../Intangible]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, energyEfficiencyScaleMax, energyEfficiencyScaleMin, hasEnergyEfficiencyCategory, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
-
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

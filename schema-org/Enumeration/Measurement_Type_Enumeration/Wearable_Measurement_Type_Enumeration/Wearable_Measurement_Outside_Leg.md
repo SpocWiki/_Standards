@@ -11,21 +11,44 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: WearableMeasurementTypeEnumeration
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - wearable_measurement_outside_leg
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_wearable_measurement_outside_leg Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_wearable_measurement_outside_leg Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../WearableMeasurementTypeEnumeration]]"
+  enum_of: "[[../WearableMeasurementTypeEnumeration]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Outside_Leg|Wearable_Measurement_Outside_Leg]]"
+    - "[[/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Outside_Leg.public|Wearable_Measurement_Outside_Leg.public]]"
+    - "[[/_internal/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Outside_Leg.internal|Wearable_Measurement_Outside_Leg.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Outside_Leg.protect|Wearable_Measurement_Outside_Leg.protect]]"
+    - "[[/_private/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Outside_Leg.private|Wearable_Measurement_Outside_Leg.private]]"
+    - "[[/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Outside_Leg.personal|Wearable_Measurement_Outside_Leg.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Outside_Leg.secret|Wearable_Measurement_Outside_Leg.secret]]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../WearableMeasurementTypeEnumeration]]"
+dv_is_enum_of: "[[../WearableMeasurementTypeEnumeration]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Outside_Leg|Wearable_Measurement_Outside_Leg]]"
+  - "[[/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Outside_Leg.public|Wearable_Measurement_Outside_Leg.public]]"
+  - "[[/_internal/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Outside_Leg.internal|Wearable_Measurement_Outside_Leg.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Outside_Leg.protect|Wearable_Measurement_Outside_Leg.protect]]"
+  - "[[/_private/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Outside_Leg.private|Wearable_Measurement_Outside_Leg.private]]"
+  - "[[/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Outside_Leg.personal|Wearable_Measurement_Outside_Leg.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Outside_Leg.secret|Wearable_Measurement_Outside_Leg.secret]]"
 ---
 
 Class of all wearable_measurement_outside_legs.
@@ -33,14 +56,13 @@ Class of all wearable_measurement_outside_legs.
 Tag Instances like this: 
 #is_a_/wearable_measurement_outside_leg
 
-[ #is_/part_of :: https://pending.schema.org ]
+is_part_of = `=this.dv_is_part_of` 
 
 Measurement of the outside leg, for example of pants
 
-[ #is_/sub_class_of :: [[../WearableMeasurementTypeEnumeration]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #is_/enum_of :: [[../WearableMeasurementTypeEnumeration]] ]
-
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

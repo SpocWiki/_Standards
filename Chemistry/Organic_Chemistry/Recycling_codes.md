@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Recycling_codes|Recycling_codes]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Recycling_codes.public|Recycling_codes.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Recycling_codes.internal|Recycling_codes.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Recycling_codes.protect|Recycling_codes.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Recycling_codes.private|Recycling_codes.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Recycling_codes.personal|Recycling_codes.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Recycling_codes.secret|Recycling_codes.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Recycling_codes|Recycling_codes]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Recycling_codes.public|Recycling_codes.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Recycling_codes.internal|Recycling_codes.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Recycling_codes.protect|Recycling_codes.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Recycling_codes.private|Recycling_codes.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Recycling_codes.personal|Recycling_codes.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Recycling_codes.secret|Recycling_codes.secret]]"
+---
 
 
 ## #has_/text_of_/abstract 

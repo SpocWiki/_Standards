@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 has_id_wikidata: Q167510
 different_from:
   - "[[_Standards/WikiData/WD~tar,186209]]"
@@ -23,12 +23,33 @@ Commons_category: Bitumen
 image: http://commons.wikimedia.org/wiki/Special:FilePath/McKittrick%20Tar%20Seep%20North%20of%20Highway%2058.jpg
 U_S_National_Archives_Identifier: "10640456"
 P8189: "987007282683105171"
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Bitumen,167510|WD~Bitumen,167510]]"
+    - "[[/_Standards/Chemistry/Material/Bitumen|Bitumen]]"
+    - "[[/_public/Chemistry/Material/Bitumen.public|Bitumen.public]]"
+    - "[[/_internal/Chemistry/Material/Bitumen.internal|Bitumen.internal]]"
+    - "[[/_protect/Chemistry/Material/Bitumen.protect|Bitumen.protect]]"
+    - "[[/_private/Chemistry/Material/Bitumen.private|Bitumen.private]]"
+    - "[[/_personal/Chemistry/Material/Bitumen.personal|Bitumen.personal]]"
+    - "[[/_secret/Chemistry/Material/Bitumen.secret|Bitumen.secret]]"
+  similar_to: "[[Tar]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Bitumen,167510|WD~Bitumen,167510]]"
+  - "[[/_Standards/Chemistry/Material/Bitumen|Bitumen]]"
+  - "[[/_public/Chemistry/Material/Bitumen.public|Bitumen.public]]"
+  - "[[/_internal/Chemistry/Material/Bitumen.internal|Bitumen.internal]]"
+  - "[[/_protect/Chemistry/Material/Bitumen.protect|Bitumen.protect]]"
+  - "[[/_private/Chemistry/Material/Bitumen.private|Bitumen.private]]"
+  - "[[/_personal/Chemistry/Material/Bitumen.personal|Bitumen.personal]]"
+  - "[[/_secret/Chemistry/Material/Bitumen.secret|Bitumen.secret]]"
+dv_is_similar_to: "[[Tar]]"
 ---
 
 # [[Bitumen]] 
 
 #is_/same_as :: [[../../WikiData/WD~Bitumen,167510|WD~Bitumen,167510]] 
-#is_/similar_to :: [[Tar]] 
+is_similar_to = `=this.dv_is_similar_to` 
 
 ## #has_/text_of_/abstract 
 

@@ -37,7 +37,7 @@ part_of:
   - "[[_Standards/WikiData/WD~cellular_response_to_aldehyde,50351478]]"
 instance_of: "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"
 OmegaWiki_Defined_Meaning: 427547
-SMARTS_notation: "[CX3H1](=O)[#6]"
+SMARTS_notation: "[CX3H1](=O)[6]"
 chemical_structure: http://commons.wikimedia.org/wiki/Special:FilePath/Aldehyd%20-%20Aldehyde.svg
 canonical_SMILES: "[H]C([*])=O"
 CXSMILES: "[H]C([*])=O |$;;R$|"
@@ -46,6 +46,25 @@ Commons_category: Aldehydes
 UMLS_CUI: C0001992
 MeSH_tree_code: D02.047
 Krugosvet_article: himiya/aldegidy-i-ketony
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Aldehydes,101497]]"
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Aldehyde|Aldehyde]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Aldehyde.public|Aldehyde.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Aldehyde.internal|Aldehyde.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Aldehyde.protect|Aldehyde.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Aldehyde.private|Aldehyde.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Aldehyde.personal|Aldehyde.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Aldehyde.secret|Aldehyde.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Aldehydes,101497]]"
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Aldehyde|Aldehyde]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Aldehyde.public|Aldehyde.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Aldehyde.internal|Aldehyde.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Aldehyde.protect|Aldehyde.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Aldehyde.private|Aldehyde.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Aldehyde.personal|Aldehyde.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Aldehyde.secret|Aldehyde.secret]]"
 ---
 
 # [[Aldehyde]] 

@@ -38,13 +38,15 @@ Additionally use the Standard [[../../W3C(World_Wide_Web_Consortium)/RDF(Resourc
  [[is_different_from]], to express the same as [[is_similar_to]]. 
 
 Use it like this: 
-- [ #is_/similar_to :: Product, Service] or 
+- [is_/similar_to :: Product, Service] 
 - [ is_similar_to :: Product, Service] 
 
 A pointer to another, functionally similar product (or multiple products).
 
 Relation describes that: 
-[ #has_/domain  :: Product, Service]
+
+#has_/domain  :: Product, Service 
+
 ( #has_/name :: is_similar_to)
 ( #has_/range :: Product, Service)
 

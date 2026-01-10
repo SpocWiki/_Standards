@@ -11,7 +11,7 @@ dv_ISO4217-currency_country_name: ARMENIA
 dv_Telephone: 374
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Armenia
+dv_has_name: Armenia
 dv_has_name_en: Armenia
 dv_has_name_es: Armenia
 dv_has_name_fr: Arménie
@@ -465,7 +465,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 [	has_name_en	 :: Armenia ]
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`

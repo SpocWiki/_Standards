@@ -14,45 +14,45 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: GovernmentBenefitsType
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - health_care
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_health_care Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_health_care Class
 type: Type
 instance_of:
-  - '[[_Standards/WikiData/WD~industry,268592]]'
-  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-  - '[[_Standards/WikiData/WD~field_of_study,2267705]]'
-  - '[[_Standards/WikiData/WD~service_type,130303173]]'
-studied_by: '[[_Standards/WikiData/WD~health_sciences,843601]]'
-different_from: '[[_Standards/WikiData/WD~preventive_medicine,1773974]]'
+  - "[[_Standards/WikiData/WD~industry,268592]]"
+  - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
+  - "[[_Standards/WikiData/WD~field_of_study,2267705]]"
+  - "[[_Standards/WikiData/WD~service_type,130303173]]"
+studied_by: "[[_Standards/WikiData/WD~health_sciences,843601]]"
+different_from: "[[_Standards/WikiData/WD~preventive_medicine,1773974]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~care,2421951]]'
-  - '[[_Standards/WikiData/WD~service,7406919]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Health_care,6566994]]'
+  - "[[_Standards/WikiData/WD~care,2421951]]"
+  - "[[_Standards/WikiData/WD~service,7406919]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Health_care,6566994]]"
 part_of:
-  - '[[_Standards/WikiData/WD~health_system,11000047]]'
-  - '[[_Standards/WikiData/WD~tertiary_sector_of_the_economy,55638]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Health_and_fitness,11015739]]'
-practiced_by: '[[_Standards/WikiData/WD~health_care_manual_worker,12377603]]'
-has_characteristic: '[[_Standards/WikiData/WD~health_care_quality,17003063]]'
-field_of_work: '[[_Standards/WikiData/WD~Activities_of_daily_living_assistance,22906178]]'
+  - "[[_Standards/WikiData/WD~health_system,11000047]]"
+  - "[[_Standards/WikiData/WD~tertiary_sector_of_the_economy,55638]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Health_and_fitness,11015739]]"
+practiced_by: "[[_Standards/WikiData/WD~health_care_manual_worker,12377603]]"
+has_characteristic: "[[_Standards/WikiData/WD~health_care_quality,17003063]]"
+field_of_work: "[[_Standards/WikiData/WD~Activities_of_daily_living_assistance,22906178]]"
 on_focus_list_of_Wikimedia_project:
-  - '[[_Standards/WikiData/WD~WikiProject_COVID_19,87748614]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Health_Data_Space,124300121]]'
-main_regulatory_text: '[[_Standards/WikiData/WD~Health_and_Medical_Services_Act_(2017_30),110217213]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-facet_of: '[[_Standards/WikiData/WD~medicine,11190]]'
+  - "[[_Standards/WikiData/WD~WikiProject_COVID_19,87748614]]"
+  - "[[_Standards/WikiData/WD~WikiProject_Health_Data_Space,124300121]]"
+main_regulatory_text: "[[_Standards/WikiData/WD~Health_and_Medical_Services_Act_(2017_30),110217213]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+facet_of: "[[_Standards/WikiData/WD~medicine,11190]]"
 IAB_code:
   - 97
   - 286
@@ -70,6 +70,31 @@ Colon_Classification: L:4:5
 MeSH_tree_code:
   - N04.590.374
   - N05.300
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../GovernmentBenefitsType]]"
+  enum_of: "[[../GovernmentBenefitsType]]"
+  same_as:
+    - "[[../../../WikiData/WD~Health_care,31207|WD~Health_care,31207]]"
+    - "[[/_Standards/schema-org/Enumeration/Government_Benefits_Type/Health_Care|Health_Care]]"
+    - "[[/_public/schema-org/Enumeration/Government_Benefits_Type/Health_Care.public|Health_Care.public]]"
+    - "[[/_internal/schema-org/Enumeration/Government_Benefits_Type/Health_Care.internal|Health_Care.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Government_Benefits_Type/Health_Care.protect|Health_Care.protect]]"
+    - "[[/_private/schema-org/Enumeration/Government_Benefits_Type/Health_Care.private|Health_Care.private]]"
+    - "[[/_personal/schema-org/Enumeration/Government_Benefits_Type/Health_Care.personal|Health_Care.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Government_Benefits_Type/Health_Care.secret|Health_Care.secret]]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../GovernmentBenefitsType]]"
+dv_is_enum_of: "[[../GovernmentBenefitsType]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Health_care,31207|WD~Health_care,31207]]"
+  - "[[/_Standards/schema-org/Enumeration/Government_Benefits_Type/Health_Care|Health_Care]]"
+  - "[[/_public/schema-org/Enumeration/Government_Benefits_Type/Health_Care.public|Health_Care.public]]"
+  - "[[/_internal/schema-org/Enumeration/Government_Benefits_Type/Health_Care.internal|Health_Care.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Government_Benefits_Type/Health_Care.protect|Health_Care.protect]]"
+  - "[[/_private/schema-org/Enumeration/Government_Benefits_Type/Health_Care.private|Health_Care.private]]"
+  - "[[/_personal/schema-org/Enumeration/Government_Benefits_Type/Health_Care.personal|Health_Care.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Government_Benefits_Type/Health_Care.secret|Health_Care.secret]]"
 ---
 
 # [[Health_Care]] 
@@ -79,13 +104,13 @@ Class of all health_cares.
 Tag Instances like this: 
 #is_a_/health_care
 
-[ #is_/part_of :: https://pending.schema.org ]
+is_part_of = `=this.dv_is_part_of` 
 
 HealthCare: this is a benefit for health care.
 
-[ #is_/sub_class_of :: [[../GovernmentBenefitsType]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #is_/enum_of :: [[../GovernmentBenefitsType]] ]
+is_enum_of = `=this.dv_is_enum_of` 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Health_care,31207|WD~Health_care,31207]] 
 

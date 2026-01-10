@@ -30,16 +30,18 @@ title: has_bio_chem_similarity
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/bio_chem_similarity :: BioChemEntity ] or 
+- [has_/bio_chem_similarity :: BioChemEntity ] 
 - [ has_bio_chem_similarity :: BioChemEntity ] 
 
 A similar BioChemEntity, e.g., obtained by fingerprint similarity algorithms.
 
 Relation describes that: 
-[ #has_/domain  :: BioChemEntity ]
+
+#has_/domain  :: BioChemEntity  
+
 ( #has_/name :: is_bio_chem_similar_to )
 ( #has_/range :: BioChemEntity )
 

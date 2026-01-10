@@ -21,6 +21,25 @@ Wolfram_Language_entity_code: Entity["PhysicalEffect", "Diffusion"]
 MeSH_tree_code:
   - G01.202
   - G02.196
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Diffusion,163214|WD~Diffusion,163214]]"
+    - "[[/_Standards/Chemistry/Substance/Mixture/Diffusion|Diffusion]]"
+    - "[[/_public/Chemistry/Substance/Mixture/Diffusion.public|Diffusion.public]]"
+    - "[[/_internal/Chemistry/Substance/Mixture/Diffusion.internal|Diffusion.internal]]"
+    - "[[/_protect/Chemistry/Substance/Mixture/Diffusion.protect|Diffusion.protect]]"
+    - "[[/_private/Chemistry/Substance/Mixture/Diffusion.private|Diffusion.private]]"
+    - "[[/_personal/Chemistry/Substance/Mixture/Diffusion.personal|Diffusion.personal]]"
+    - "[[/_secret/Chemistry/Substance/Mixture/Diffusion.secret|Diffusion.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Diffusion,163214|WD~Diffusion,163214]]"
+  - "[[/_Standards/Chemistry/Substance/Mixture/Diffusion|Diffusion]]"
+  - "[[/_public/Chemistry/Substance/Mixture/Diffusion.public|Diffusion.public]]"
+  - "[[/_internal/Chemistry/Substance/Mixture/Diffusion.internal|Diffusion.internal]]"
+  - "[[/_protect/Chemistry/Substance/Mixture/Diffusion.protect|Diffusion.protect]]"
+  - "[[/_private/Chemistry/Substance/Mixture/Diffusion.private|Diffusion.private]]"
+  - "[[/_personal/Chemistry/Substance/Mixture/Diffusion.personal|Diffusion.personal]]"
+  - "[[/_secret/Chemistry/Substance/Mixture/Diffusion.secret|Diffusion.secret]]"
 ---
 
 # [[Diffusion]] 

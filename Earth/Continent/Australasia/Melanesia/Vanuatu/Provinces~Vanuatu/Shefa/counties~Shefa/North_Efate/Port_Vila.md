@@ -58,7 +58,7 @@ demonym:
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 168.3
 dv_has_place_latitude: -17.75
-dv_has_name_: Port Vila
+dv_has_name: Port Vila
 dv_Unknown: 32
 dv_is_:
   same_as:
@@ -87,7 +87,7 @@ dv_is_same_as:
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 has_place_province::  
 Country :: [[../../../Melanesia/Vanuatu|Vanuatu]]
 [StateId::] 

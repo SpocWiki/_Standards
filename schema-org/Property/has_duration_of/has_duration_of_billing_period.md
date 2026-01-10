@@ -10,34 +10,60 @@ cssclasses:
   - Predicate
   - Duration
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
-layout: ''
+keywords: ""
+layout: ""
 license: CC BY-SA 4.0
-linkTitle: ''
+linkTitle: ""
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Durations
 title: has_duration_of_billing_period
 type: Predi_Duration
+dv_has_duration_of_billing_period: P#Y#M#W#DT#H#M#s.fff
+dv_#has_:
+  duration_:
+    of_billing_period: P#Y#M#W#DT#H#M#s.fff
+dv_domain: Invoice
+dv_has_:
+  name: has_duration_of_billing_period
+dv_range: Duration
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_duration_of/has_duration_of_billing_period|has_duration_of_billing_period]]"
+    - "[[/_public/schema-org/Property/has_duration_of/has_duration_of_billing_period.public|has_duration_of_billing_period.public]]"
+    - "[[/_internal/schema-org/Property/has_duration_of/has_duration_of_billing_period.internal|has_duration_of_billing_period.internal]]"
+    - "[[/_protect/schema-org/Property/has_duration_of/has_duration_of_billing_period.protect|has_duration_of_billing_period.protect]]"
+    - "[[/_private/schema-org/Property/has_duration_of/has_duration_of_billing_period.private|has_duration_of_billing_period.private]]"
+    - "[[/_personal/schema-org/Property/has_duration_of/has_duration_of_billing_period.personal|has_duration_of_billing_period.personal]]"
+    - "[[/_secret/schema-org/Property/has_duration_of/has_duration_of_billing_period.secret|has_duration_of_billing_period.secret]]"
+dv_has_name: has_duration_of_billing_period
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_duration_of/has_duration_of_billing_period|has_duration_of_billing_period]]"
+  - "[[/_public/schema-org/Property/has_duration_of/has_duration_of_billing_period.public|has_duration_of_billing_period.public]]"
+  - "[[/_internal/schema-org/Property/has_duration_of/has_duration_of_billing_period.internal|has_duration_of_billing_period.internal]]"
+  - "[[/_protect/schema-org/Property/has_duration_of/has_duration_of_billing_period.protect|has_duration_of_billing_period.protect]]"
+  - "[[/_private/schema-org/Property/has_duration_of/has_duration_of_billing_period.private|has_duration_of_billing_period.private]]"
+  - "[[/_personal/schema-org/Property/has_duration_of/has_duration_of_billing_period.personal|has_duration_of_billing_period.personal]]"
+  - "[[/_secret/schema-org/Property/has_duration_of/has_duration_of_billing_period.secret|has_duration_of_billing_period.secret]]"
 ---
 
 Predicate to describe the Duration of Invoice.
 
 Use it like this: 
-- [has_duration_of_billing_period::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/duration_/of_billing_period::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
+- has_duration_of_billing_period = `=this.dv_has_duration_of_billing_period`  
+- has_duration_of_billing_period = `=this.dv_has_duration_of_billing_period`  with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
 
 The time interval used to compute the invoice.
 
 Formal Predicate: 
-[domain::Invoice]
-(has_/name::has_duration_of_billing_period)
-(range::Duration)
+domain = `=this.dv_domain` 
+has_name = `=this.dv_has_name` 
+range = `=this.dv_range` 
 
 
 ## Confidential Links & Embeds: 

@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: SLOVAKIA
 dv_Telephone: 421
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Slovakia
+dv_has_name: Slovakia
 dv_has_name_en: Slovakia
 dv_has_name_es: Eslovaquia
 dv_has_name_fr: Slovaquie
@@ -493,7 +493,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 [	has_name_en	 :: Slovakia ]
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`

@@ -27,7 +27,7 @@ title: is_in_store_return_offered
 type: Pred_Bool
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use these simple Tags to mark Instances as True or False: 
 #is_/in_store_return_offered 
@@ -39,7 +39,9 @@ Or write it as a Triple:
 Are in-store returns offered? (For more advanced return methods use the [[returnMethod]] property.)
 
 Predicate describes that: 
-[ #has_/domain  :: MerchantReturnPolicy ]
+
+#has_/domain  :: MerchantReturnPolicy  
+
 ( #has_/name :: is_in_store_return_offered )
 ( #has_/range :: Boolean )
 

@@ -180,11 +180,34 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Benzene%20sample.jpg
 Unicode_character:
   - ⌬
   - ⏣
+dv_has_:
+  formula_:
+    sum: C6H6
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Benzene,2270|WD~Benzene,2270]]"
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Aromatic_Compound/Benzene|Benzene]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Aromatic_Compound/Benzene.public|Benzene.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Aromatic_Compound/Benzene.internal|Benzene.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Aromatic_Compound/Benzene.protect|Benzene.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Aromatic_Compound/Benzene.private|Benzene.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Aromatic_Compound/Benzene.personal|Benzene.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Aromatic_Compound/Benzene.secret|Benzene.secret]]"
+dv_has_formula_sum: C6H6
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Benzene,2270|WD~Benzene,2270]]"
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Aromatic_Compound/Benzene|Benzene]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Aromatic_Compound/Benzene.public|Benzene.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Aromatic_Compound/Benzene.internal|Benzene.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Aromatic_Compound/Benzene.protect|Benzene.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Aromatic_Compound/Benzene.private|Benzene.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Aromatic_Compound/Benzene.personal|Benzene.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Aromatic_Compound/Benzene.secret|Benzene.secret]]"
 ---
 
 # [[Benzene]] 
 
-#has_/formula_/sum :: C6H6 
+has_formula_sum = `=this.dv_has_formula_sum` 
 #is_/same_as :: [[../../../../WikiData/WD~Benzene,2270|WD~Benzene,2270]] 
 
 #has_/formula_/structural 

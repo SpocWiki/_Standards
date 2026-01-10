@@ -10,35 +10,65 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - best-rating
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_best-rating
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_best-rating
 type: Predi_Quantity
+dv_has_:
+  value_for_:
+    best_rating: Number, Text
+  domain: Rating
+dv_has_value_for_best_rating: Number, Text
+dv_#has_:
+  name: has_value_for_best_rating
+  range: Number, Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_best_rating|has_value_for_best_rating]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_best_rating.public|has_value_for_best_rating.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_best_rating.internal|has_value_for_best_rating.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_best_rating.protect|has_value_for_best_rating.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_best_rating.private|has_value_for_best_rating.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_best_rating.personal|has_value_for_best_rating.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_best_rating.secret|has_value_for_best_rating.secret]]"
+dv_has_domain: Rating
+dv_has_name: has_value_for_best_rating
+dv_has_range: Number, Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_best_rating|has_value_for_best_rating]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_best_rating.public|has_value_for_best_rating.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_best_rating.internal|has_value_for_best_rating.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_best_rating.protect|has_value_for_best_rating.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_best_rating.private|has_value_for_best_rating.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_best_rating.personal|has_value_for_best_rating.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_best_rating.secret|has_value_for_best_rating.secret]]"
 ---
 
 Predicate to describe the Quantity of Rating.
 
 Use it like this: 
-- [ #has_/value_for_/best_rating :: Number, Text ] or 
-- [ has_value_for_best_rating :: Number, Text ] 
+- has_value_for_best_rating = `=this.dv_has_value_for_best_rating`  
+- has_value_for_best_rating = `=this.dv_has_value_for_best_rating`  
 
 The highest value allowed in this rating system. If bestRating is omitted, 5 is assumed.
 
 Predicate describes that: 
-[ #has_/domain  :: Rating ]
-( #has_/name :: has_value_for_best_rating )
-( #has_/range :: Number, Text )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

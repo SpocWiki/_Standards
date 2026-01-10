@@ -11,36 +11,66 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - serves
   - cuisine
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_serves_cuisine
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_serves_cuisine
 type: Pred_Text
+dv_has_:
+  text_of_:
+    serves_cuisine: Text
+  domain: FoodEstablishment
+dv_has_text_of_serves_cuisine: Text
+dv_#has_:
+  name: has_text_of_serves_cuisine
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/Texts/has_serves_cuisine|has_serves_cuisine]]"
+    - "[[/_public/schema-org/Property/Texts/has_serves_cuisine.public|has_serves_cuisine.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_serves_cuisine.internal|has_serves_cuisine.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_serves_cuisine.protect|has_serves_cuisine.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_serves_cuisine.private|has_serves_cuisine.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_serves_cuisine.personal|has_serves_cuisine.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_serves_cuisine.secret|has_serves_cuisine.secret]]"
+dv_has_domain: FoodEstablishment
+dv_has_name: has_text_of_serves_cuisine
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Texts/has_serves_cuisine|has_serves_cuisine]]"
+  - "[[/_public/schema-org/Property/Texts/has_serves_cuisine.public|has_serves_cuisine.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_serves_cuisine.internal|has_serves_cuisine.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_serves_cuisine.protect|has_serves_cuisine.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_serves_cuisine.private|has_serves_cuisine.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_serves_cuisine.personal|has_serves_cuisine.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_serves_cuisine.secret|has_serves_cuisine.secret]]"
 ---
 
 Predicate to describe the Text of FoodEstablishment.
 
 Use it like this: 
-- [ #has_/text_of_/serves_cuisine :: Text ] or 
-- [ has_text_of_serves_cuisine :: Text ] 
+- has_text_of_serves_cuisine = `=this.dv_has_text_of_serves_cuisine`  
+- has_text_of_serves_cuisine = `=this.dv_has_text_of_serves_cuisine`  
 
 The cuisine of the restaurant.
 
 Predicated describes that: 
-[ #has_/domain  :: FoodEstablishment ]
-( #has_/name :: has_text_of_serves_cuisine )
-( #has_/range :: Text )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

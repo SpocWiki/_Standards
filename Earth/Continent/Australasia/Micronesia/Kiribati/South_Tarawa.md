@@ -18,7 +18,7 @@ type: City
 dv_is_a_: "[[../../../../Geography/Place]]"
 dv_has_place_longitude: 172.9667
 dv_has_place_latitude: 1.4
-dv_has_name_: South Tarawa
+dv_has_name: South Tarawa
 dv_Country: "[[../../Polynesia/Kiribati]]]"
 dv_is_:
   same_as:
@@ -43,7 +43,7 @@ dv_is_same_as:
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 has_place_province::  
 Country = `=this.dv_Country`
 [StateId::] 

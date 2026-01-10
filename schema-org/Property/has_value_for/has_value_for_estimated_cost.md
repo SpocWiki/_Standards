@@ -10,35 +10,65 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - estimated-cost
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_estimated-cost
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_estimated-cost
 type: Predi_Quantity
+dv_has_:
+  value_for_:
+    estimated_cost: MonetaryAmount, Text
+  domain: HowTo, HowToSupply
+dv_has_value_for_estimated_cost: MonetaryAmount, Text
+dv_#has_:
+  name: has_value_for_estimated_cost
+  range: MonetaryAmount, Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_estimated_cost|has_value_for_estimated_cost]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_estimated_cost.public|has_value_for_estimated_cost.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_estimated_cost.internal|has_value_for_estimated_cost.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_estimated_cost.protect|has_value_for_estimated_cost.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_estimated_cost.private|has_value_for_estimated_cost.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_estimated_cost.personal|has_value_for_estimated_cost.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_estimated_cost.secret|has_value_for_estimated_cost.secret]]"
+dv_has_domain: HowTo, HowToSupply
+dv_has_name: has_value_for_estimated_cost
+dv_has_range: MonetaryAmount, Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_estimated_cost|has_value_for_estimated_cost]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_estimated_cost.public|has_value_for_estimated_cost.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_estimated_cost.internal|has_value_for_estimated_cost.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_estimated_cost.protect|has_value_for_estimated_cost.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_estimated_cost.private|has_value_for_estimated_cost.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_estimated_cost.personal|has_value_for_estimated_cost.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_estimated_cost.secret|has_value_for_estimated_cost.secret]]"
 ---
 
 Predicate to describe the Quantity of HowTo, HowToSupply.
 
 Use it like this: 
-- [ #has_/value_for_/estimated_cost :: MonetaryAmount, Text ] or 
-- [ has_value_for_estimated_cost :: MonetaryAmount, Text ] 
+- has_value_for_estimated_cost = `=this.dv_has_value_for_estimated_cost`  
+- has_value_for_estimated_cost = `=this.dv_has_value_for_estimated_cost`  
 
 The estimated cost of the supply or supplies consumed when performing instructions.
 
 Predicate describes that: 
-[ #has_/domain  :: HowTo, HowToSupply ]
-( #has_/name :: has_value_for_estimated_cost )
-( #has_/range :: MonetaryAmount, Text )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

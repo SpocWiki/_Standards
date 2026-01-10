@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Chemistry/Pseudoelement|Pseudoelement]]"
+    - "[[/_public/Chemistry/Pseudoelement.public|Pseudoelement.public]]"
+    - "[[/_internal/Chemistry/Pseudoelement.internal|Pseudoelement.internal]]"
+    - "[[/_protect/Chemistry/Pseudoelement.protect|Pseudoelement.protect]]"
+    - "[[/_private/Chemistry/Pseudoelement.private|Pseudoelement.private]]"
+    - "[[/_personal/Chemistry/Pseudoelement.personal|Pseudoelement.personal]]"
+    - "[[/_secret/Chemistry/Pseudoelement.secret|Pseudoelement.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Chemistry/Pseudoelement|Pseudoelement]]"
+  - "[[/_public/Chemistry/Pseudoelement.public|Pseudoelement.public]]"
+  - "[[/_internal/Chemistry/Pseudoelement.internal|Pseudoelement.internal]]"
+  - "[[/_protect/Chemistry/Pseudoelement.protect|Pseudoelement.protect]]"
+  - "[[/_private/Chemistry/Pseudoelement.private|Pseudoelement.private]]"
+  - "[[/_personal/Chemistry/Pseudoelement.personal|Pseudoelement.personal]]"
+  - "[[/_secret/Chemistry/Pseudoelement.secret|Pseudoelement.secret]]"
+---
 
 Used in [[Skeletal_formula]]s. 
 

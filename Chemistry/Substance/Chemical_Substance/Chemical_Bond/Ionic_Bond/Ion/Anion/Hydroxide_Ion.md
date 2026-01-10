@@ -6,23 +6,23 @@ aliases:
   - Hydroxide Ion
 has_id_wikidata: Q199877
 different_from:
-  - '[[_Standards/WikiData/WD~hydroxyl,104116]]'
-  - '[[_Standards/WikiData/WD~hydroxyl,47386732]]'
-part_of: '[[_Standards/WikiData/WD~hydroxide_salt,425597]]'
+  - "[[_Standards/WikiData/WD~hydroxyl,104116]]"
+  - "[[_Standards/WikiData/WD~hydroxyl,47386732]]"
+part_of: "[[_Standards/WikiData/WD~hydroxide_salt,425597]]"
 subject_has_role:
-  - '[[_Standards/WikiData/WD~primary_metabolite,3333419]]'
-  - '[[_Standards/WikiData/WD~lyate_ion,6707113]]'
+  - "[[_Standards/WikiData/WD~primary_metabolite,3333419]]"
+  - "[[_Standards/WikiData/WD~lyate_ion,6707113]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~monoprotic_acid,4272322]]'
-  - '[[_Standards/WikiData/WD~polyatomic_anion,55511438]]'
-  - '[[_Standards/WikiData/WD~monoanion,55523986]]'
-conjugate_base: '[[_Standards/WikiData/WD~oxide(2_),27110027]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
-conjugate_acid: '[[_Standards/WikiData/WD~water,283]]'
+  - "[[_Standards/WikiData/WD~monoprotic_acid,4272322]]"
+  - "[[_Standards/WikiData/WD~polyatomic_anion,55511438]]"
+  - "[[_Standards/WikiData/WD~monoanion,55523986]]"
+conjugate_base: "[[_Standards/WikiData/WD~oxide(2_),27110027]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+conjugate_acid: "[[_Standards/WikiData/WD~water,283]]"
 has_part_s_:
-  - '[[_Standards/WikiData/WD~hydrogen,556]]'
-  - '[[_Standards/WikiData/WD~oxygen,629]]'
+  - "[[_Standards/WikiData/WD~hydrogen,556]]"
+  - "[[_Standards/WikiData/WD~oxygen,629]]"
 PubChem_CID: 961
 mass: 17.003
 Gmelin_number: 24714
@@ -31,12 +31,31 @@ UNII: 9159UV381P
 InChI: InChI=1S/H2O/h1H2/p-1
 InChIKey: XLYOFNOQVPJJNP-UHFFFAOYSA-M
 chemical_structure: http://commons.wikimedia.org/wiki/Special:FilePath/Hydroxide%20lone%20pairs-2D.svg
-canonical_SMILES: '[OH-]'
+canonical_SMILES: "[OH-]"
 CAS_Registry_Number: 14280-30-9
 MCN_code: 2819.90.20
 DSSTOX_compound_identifier: DTXCID0034649
 chemical_formula: HO⁻
 Commons_category: Hydroxide ion
+dv_is_:
+  same_as:
+    - "[[_Standards/WikiData/WD~hydroxide_ion,199877]]"
+    - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Hydroxide_Ion|Hydroxide_Ion]]"
+    - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Hydroxide_Ion.public|Hydroxide_Ion.public]]"
+    - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Hydroxide_Ion.internal|Hydroxide_Ion.internal]]"
+    - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Hydroxide_Ion.protect|Hydroxide_Ion.protect]]"
+    - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Hydroxide_Ion.private|Hydroxide_Ion.private]]"
+    - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Hydroxide_Ion.personal|Hydroxide_Ion.personal]]"
+    - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Hydroxide_Ion.secret|Hydroxide_Ion.secret]]"
+dv_is_same_as:
+  - "[[_Standards/WikiData/WD~hydroxide_ion,199877]]"
+  - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Hydroxide_Ion|Hydroxide_Ion]]"
+  - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Hydroxide_Ion.public|Hydroxide_Ion.public]]"
+  - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Hydroxide_Ion.internal|Hydroxide_Ion.internal]]"
+  - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Hydroxide_Ion.protect|Hydroxide_Ion.protect]]"
+  - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Hydroxide_Ion.private|Hydroxide_Ion.private]]"
+  - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Hydroxide_Ion.personal|Hydroxide_Ion.personal]]"
+  - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Hydroxide_Ion.secret|Hydroxide_Ion.secret]]"
 ---
 
 # [[Hydroxide_Ion]] 

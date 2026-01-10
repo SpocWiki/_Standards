@@ -20,6 +20,25 @@ CAS_Registry_Number: 54100-71-9
 Commons_gallery: Livermorium
 Commons_category: Livermorium
 time_of_discovery_or_invention: 2000-07-01T00:00:00Z
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Livermorium,1304|WD~Livermorium,1304]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-16-Chalcogene/Livermorium|Livermorium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-16-Chalcogene/Livermorium.public|Livermorium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-16-Chalcogene/Livermorium.internal|Livermorium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-16-Chalcogene/Livermorium.protect|Livermorium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-16-Chalcogene/Livermorium.private|Livermorium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-16-Chalcogene/Livermorium.personal|Livermorium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-16-Chalcogene/Livermorium.secret|Livermorium.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Livermorium,1304|WD~Livermorium,1304]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-16-Chalcogene/Livermorium|Livermorium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-16-Chalcogene/Livermorium.public|Livermorium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-16-Chalcogene/Livermorium.internal|Livermorium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-16-Chalcogene/Livermorium.protect|Livermorium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-16-Chalcogene/Livermorium.private|Livermorium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-16-Chalcogene/Livermorium.personal|Livermorium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-16-Chalcogene/Livermorium.secret|Livermorium.secret]]"
 ---
 
 # [[Livermorium]] 

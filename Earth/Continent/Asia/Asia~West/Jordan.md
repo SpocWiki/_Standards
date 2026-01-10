@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: JORDAN
 dv_Telephone: 962
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Jordan
+dv_has_name: Jordan
 dv_has_name_en: Jordan
 dv_has_name_es: Jordania
 dv_has_name_fr: Jordanie
@@ -427,7 +427,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 [	has_name_en	 :: Jordan ]
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`

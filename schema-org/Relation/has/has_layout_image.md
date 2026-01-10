@@ -28,21 +28,22 @@ title: has_layout_image
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/layout_image :: ImageObject, URL ] or 
+- [has_/layout_image :: ImageObject, URL ] 
 - [ has_layout_image :: ImageObject, URL ] 
 
 A schematic image showing the floorplan layout.
 
 Relation describes that: 
-[ #has_/domain  :: FloorPlan ]
+
+#has_/domain  :: FloorPlan  
+
 ( #has_/name :: has_layout_image )
 ( #has_/range :: ImageObject, URL )
 
-[ #is_/sub_property_of  :: image ]
-
+#is_/sub_property_of  :: image  
 
 ## Confidential Links & Embeds: 
 

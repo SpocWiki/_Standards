@@ -25,7 +25,9 @@ GOST_7_75_97_code: них 497
 # [[LangFamily-Nilo-Saharan]] 
 
 [SpocWebEntityId:: 245 ]
-[has_/name::Nilo-Saharan]
+
+has_/name::Nilo-Saharan 
+
 #is_/same_as :: [[../../WikiData/WD~Nilo-Saharan,33705|WD~Nilo-Saharan,33705]] 
 
 ## #has_/text_of_/abstract 

@@ -26,21 +26,22 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/about :: [Thing](../../../Class/Thing.md) ] or 
+- [is_/about :: [Thing](../../../Class/Thing.md) ] 
 - [ is_about :: [Thing](../../../Class/Thing.md) ] 
 
 The subject matter of the content. 
 This has a very narrow meaning compared to [[../../../../RDF/RDF~Relations/rdf~subject]], [[../../../../RDF/RDF~Relations/rdf~predicate]], and [[../../../../RDF/RDF~Relations/rdf~object]]. 
 
 Relation describes that: 
-[ #has_/domain  :: CommunicateAction, CreativeWork, Event ]
+
+#has_/domain  :: CommunicateAction, CreativeWork, Event  
+
 ( #has_/name :: is_about )
 ( #has_/range :: Thing )
 
-[ #is_/inverse_of  :: [[is_subject_of]] ]
+#is_/inverse_of  :: [[is_subject_of]]  
 
-[ #has_/sub_properties :: [ [has_main_entity](../has/has_main_entity.md) ] ]
-
+#has_/sub_properties :: [ [has_main_entity](../has/has_main_entity.md) ]  
 
 ## Confidential Links & Embeds: 
 

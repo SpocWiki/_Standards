@@ -11,21 +11,44 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: PriceTypeEnumeration
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - list_price
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_list_price Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_list_price Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../PriceTypeEnumeration]]"
+  enum_of: "[[../PriceTypeEnumeration]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Price_Type_Enumeration/List_Price|List_Price]]"
+    - "[[/_public/schema-org/Enumeration/Price_Type_Enumeration/List_Price.public|List_Price.public]]"
+    - "[[/_internal/schema-org/Enumeration/Price_Type_Enumeration/List_Price.internal|List_Price.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Price_Type_Enumeration/List_Price.protect|List_Price.protect]]"
+    - "[[/_private/schema-org/Enumeration/Price_Type_Enumeration/List_Price.private|List_Price.private]]"
+    - "[[/_personal/schema-org/Enumeration/Price_Type_Enumeration/List_Price.personal|List_Price.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Price_Type_Enumeration/List_Price.secret|List_Price.secret]]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../PriceTypeEnumeration]]"
+dv_is_enum_of: "[[../PriceTypeEnumeration]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Price_Type_Enumeration/List_Price|List_Price]]"
+  - "[[/_public/schema-org/Enumeration/Price_Type_Enumeration/List_Price.public|List_Price.public]]"
+  - "[[/_internal/schema-org/Enumeration/Price_Type_Enumeration/List_Price.internal|List_Price.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Price_Type_Enumeration/List_Price.protect|List_Price.protect]]"
+  - "[[/_private/schema-org/Enumeration/Price_Type_Enumeration/List_Price.private|List_Price.private]]"
+  - "[[/_personal/schema-org/Enumeration/Price_Type_Enumeration/List_Price.personal|List_Price.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Price_Type_Enumeration/List_Price.secret|List_Price.secret]]"
 ---
 
 Class of all list_prices.
@@ -33,14 +56,13 @@ Class of all list_prices.
 Tag Instances like this: 
 #is_a_/list_price
 
-[ #is_/part_of :: https://pending.schema.org ]
+is_part_of = `=this.dv_is_part_of` 
 
 Represents the list price (the price a product is actually advertised for) of an offered product.
 
-[ #is_/sub_class_of :: [[../PriceTypeEnumeration]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #is_/enum_of :: [[../PriceTypeEnumeration]] ]
-
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

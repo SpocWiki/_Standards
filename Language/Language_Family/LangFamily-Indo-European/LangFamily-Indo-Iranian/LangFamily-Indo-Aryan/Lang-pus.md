@@ -73,7 +73,9 @@ native_label: پښتو ژبه
 # [[Lang-pus]] 
 
 [SpocWebEntityId:: 455 ]
-[has_/name::Pashto]
+
+has_/name::Pashto 
+
 [PropId_Name::755]
 [PropId_Text::655]
 [LangFamilyId::233]

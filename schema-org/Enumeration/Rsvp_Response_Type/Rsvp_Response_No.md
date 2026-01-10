@@ -11,21 +11,42 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: RsvpResponseType
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - rsvp_response_no
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_rsvp_response_no Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_rsvp_response_no Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../RsvpResponseType]]"
+  enum_of: "[[../RsvpResponseType]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_No|Rsvp_Response_No]]"
+    - "[[/_public/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_No.public|Rsvp_Response_No.public]]"
+    - "[[/_internal/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_No.internal|Rsvp_Response_No.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_No.protect|Rsvp_Response_No.protect]]"
+    - "[[/_private/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_No.private|Rsvp_Response_No.private]]"
+    - "[[/_personal/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_No.personal|Rsvp_Response_No.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_No.secret|Rsvp_Response_No.secret]]"
+dv_is_sub_class_of: "[[../RsvpResponseType]]"
+dv_is_enum_of: "[[../RsvpResponseType]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_No|Rsvp_Response_No]]"
+  - "[[/_public/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_No.public|Rsvp_Response_No.public]]"
+  - "[[/_internal/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_No.internal|Rsvp_Response_No.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_No.protect|Rsvp_Response_No.protect]]"
+  - "[[/_private/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_No.private|Rsvp_Response_No.private]]"
+  - "[[/_personal/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_No.personal|Rsvp_Response_No.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_No.secret|Rsvp_Response_No.secret]]"
 ---
 
 Class of all rsvp_response_nos.
@@ -35,10 +56,9 @@ Tag Instances like this:
 
 The invitee will not attend.
 
-[ #is_/sub_class_of :: [[../RsvpResponseType]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #is_/enum_of :: [[../RsvpResponseType]] ]
-
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

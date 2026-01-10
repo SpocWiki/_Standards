@@ -3,29 +3,52 @@ aliases:
   - Karbonat
   - Carbonate
 has_id_wikidata: Q181699
-different_from: '[[_Standards/WikiData/WD~carbon_trioxide,423705]]'
+different_from: "[[_Standards/WikiData/WD~carbon_trioxide,423705]]"
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Carbonates,6863146]]'
-instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Carbonates,6863146]]"
+instance_of: "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"
 has_part_s_:
-  - '[[_Standards/WikiData/WD~carbon,623]]'
-  - '[[_Standards/WikiData/WD~oxygen,629]]'
-subclass_of: '[[_Standards/WikiData/WD~chemical_compound,11173]]'
+  - "[[_Standards/WikiData/WD~carbon,623]]"
+  - "[[_Standards/WikiData/WD~oxygen,629]]"
+subclass_of: "[[_Standards/WikiData/WD~chemical_compound,11173]]"
 Commons_category: Carbonates
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Carbonate.svg
-P8189: 987007283484005171
+P8189: 987007283484005100
+dv_has_:
+  formula_:
+    sum: CO³(2-)
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Carbonate,181699|WD~Carbonate,181699]]"
+    - "[[/_Standards/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate|Carbonate]]"
+    - "[[/_public/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate.public|Carbonate.public]]"
+    - "[[/_internal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate.internal|Carbonate.internal]]"
+    - "[[/_protect/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate.protect|Carbonate.protect]]"
+    - "[[/_private/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate.private|Carbonate.private]]"
+    - "[[/_personal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate.personal|Carbonate.personal]]"
+    - "[[/_secret/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate.secret|Carbonate.secret]]"
+dv_has_formula_sum: CO³(2-)
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Carbonate,181699|WD~Carbonate,181699]]"
+  - "[[/_Standards/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate|Carbonate]]"
+  - "[[/_public/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate.public|Carbonate.public]]"
+  - "[[/_internal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate.internal|Carbonate.internal]]"
+  - "[[/_protect/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate.protect|Carbonate.protect]]"
+  - "[[/_private/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate.private|Carbonate.private]]"
+  - "[[/_personal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate.personal|Carbonate.personal]]"
+  - "[[/_secret/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate.secret|Carbonate.secret]]"
 ---
 
 # [[Carbonate]] 
 
 
-#has_/formula_/sum :: CO³(2-)
+has_formula_sum = `=this.dv_has_formula_sum` 
 
 ## #has_/formula_/structural 
 ```

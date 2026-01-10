@@ -26,16 +26,18 @@ title: is_plan_for_apartment
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending:]
+#is_/part_of :: pending: 
 
 Use it like this: 
-- [ #is_/plan_for_apartment :: Accommodation] or 
+- [is_/plan_for_apartment :: Accommodation] 
 - [ is_plan_for_apartment :: Accommodation] 
 
 Indicates some accommodation that this floor plan describes.
 
 Relation describes that: 
-[ #has_/domain  :: FloorPlan]
+
+#has_/domain  :: FloorPlan 
+
 ( #has_/name :: is_plan_for_apartment)
 ( #has_/range :: Accommodation)
 

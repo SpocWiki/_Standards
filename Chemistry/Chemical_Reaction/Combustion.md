@@ -4,33 +4,52 @@ aliases:
   - Combustion
 has_id_wikidata: Q133235
 subclass_of:
-  - '[[_Standards/WikiData/WD~redox,82682]]'
-  - '[[_Standards/WikiData/WD~exothermic_reaction,205949]]'
+  - "[[_Standards/WikiData/WD~redox,82682]]"
+  - "[[_Standards/WikiData/WD~exothermic_reaction,205949]]"
 has_effect:
-  - '[[_Standards/WikiData/WD~smoke,130768]]'
-  - '[[_Standards/WikiData/WD~fire,3196]]'
+  - "[[_Standards/WikiData/WD~smoke,130768]]"
+  - "[[_Standards/WikiData/WD~fire,3196]]"
 uses:
-  - '[[_Standards/WikiData/WD~oxidizing_agent,187689]]'
-  - '[[_Standards/WikiData/WD~fuel,42501]]'
-facet_of: '[[_Standards/WikiData/WD~thermal_energy,209233]]'
+  - "[[_Standards/WikiData/WD~oxidizing_agent,187689]]"
+  - "[[_Standards/WikiData/WD~fuel,42501]]"
+facet_of: "[[_Standards/WikiData/WD~thermal_energy,209233]]"
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~burning,12888145]]'
-has_immediate_cause: '[[_Standards/WikiData/WD~ignition,123160824]]'
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~burning,12888145]]"
+has_immediate_cause: "[[_Standards/WikiData/WD~ignition,123160824]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fire%2C%20Fireplace%2C%20Rostov-on-Don%2C%20Russia.jpg
 OmegaWiki_Defined_Meaning: 671684
 Iconclass_notation:
-  - 22E12
+  - 22000000000000
   - 41B12
 video: http://commons.wikimedia.org/wiki/Special:FilePath/ErstickteKerze.ogv
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Ru%20%D0%93%D0%BE%D1%80%D0%B5%D0%BD%D0%B8%D0%B5%20%28intro%29.ogg
 exact_match: https://valpal.info/parameters/burn
-P8189: 987007543260705171
+P8189: 987007543260705200
 Commons_category: Combustion
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Combustion,133235|WD~Combustion,133235]]"
+    - "[[/_Standards/Chemistry/Chemical_Reaction/Combustion|Combustion]]"
+    - "[[/_public/Chemistry/Chemical_Reaction/Combustion.public|Combustion.public]]"
+    - "[[/_internal/Chemistry/Chemical_Reaction/Combustion.internal|Combustion.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Reaction/Combustion.protect|Combustion.protect]]"
+    - "[[/_private/Chemistry/Chemical_Reaction/Combustion.private|Combustion.private]]"
+    - "[[/_personal/Chemistry/Chemical_Reaction/Combustion.personal|Combustion.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Reaction/Combustion.secret|Combustion.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Combustion,133235|WD~Combustion,133235]]"
+  - "[[/_Standards/Chemistry/Chemical_Reaction/Combustion|Combustion]]"
+  - "[[/_public/Chemistry/Chemical_Reaction/Combustion.public|Combustion.public]]"
+  - "[[/_internal/Chemistry/Chemical_Reaction/Combustion.internal|Combustion.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Reaction/Combustion.protect|Combustion.protect]]"
+  - "[[/_private/Chemistry/Chemical_Reaction/Combustion.private|Combustion.private]]"
+  - "[[/_personal/Chemistry/Chemical_Reaction/Combustion.personal|Combustion.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Reaction/Combustion.secret|Combustion.secret]]"
 ---
 
 # [[Combustion]] 🔥 

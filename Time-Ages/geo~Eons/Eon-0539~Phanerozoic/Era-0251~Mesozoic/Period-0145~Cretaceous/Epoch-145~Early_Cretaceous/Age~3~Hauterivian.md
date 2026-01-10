@@ -16,6 +16,86 @@ start_time: -132900000-01-01T00:00:00Z
 end_time: -129400000-01-01T00:00:00Z
 sRGB_color_hex_triplet: 9ED78E
 coordinate_location: Point(5.443722222 44.469444444)
+dv_has_:
+  duration_:
+    years: "6.830e+6"
+  previous_:
+    item: "[[Age~2~Valanginian]]"
+  next_:
+    item: "[[Age~4~Barremian]]"
+  name_:
+    bg: Хотрив
+    cs: Hauteriv
+    da: Hauterivien
+    de: Hauterivium
+    es: Hauteviriense
+    et: Hauterivi
+    fi: Hauteriv
+    fr: Hauterivien
+    hu: hauterivi
+    it: hauteriviano
+    ja: オーテリビアン期
+    lt: Hoterivis
+    nl: Hauteriviën
+    no: Hauterivium
+    pl: Hoteryw
+    pt: Hauteriviano
+    sk: hauteriv
+    sl: hauterivij
+    sv: hauteriv
+    zh: 豪特里维期
+    abbreviated: b3
+  time_:
+    started: "-132.60e6"
+    stopped: "-125.77e6"
+  text_of_:
+    color: "0xA6D975"
+dv_is_:
+  same_as:
+    - "[[WD~Hauterivian,734179]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~3~Hauterivian|Age~3~Hauterivian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~3~Hauterivian.public|Age~3~Hauterivian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~3~Hauterivian.internal|Age~3~Hauterivian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~3~Hauterivian.protect|Age~3~Hauterivian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~3~Hauterivian.private|Age~3~Hauterivian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~3~Hauterivian.personal|Age~3~Hauterivian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~3~Hauterivian.secret|Age~3~Hauterivian.secret]]"
+dv_has_duration_years: "6.830e+6"
+dv_has_previous_item: "[[Age~2~Valanginian]]"
+dv_has_next_item: "[[Age~4~Barremian]]"
+dv_is_same_as:
+  - "[[WD~Hauterivian,734179]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~3~Hauterivian|Age~3~Hauterivian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~3~Hauterivian.public|Age~3~Hauterivian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~3~Hauterivian.internal|Age~3~Hauterivian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~3~Hauterivian.protect|Age~3~Hauterivian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~3~Hauterivian.private|Age~3~Hauterivian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~3~Hauterivian.personal|Age~3~Hauterivian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-145~Early_Cretaceous/Age~3~Hauterivian.secret|Age~3~Hauterivian.secret]]"
+dv_has_name_bg: Хотрив
+dv_has_name_cs: Hauteriv
+dv_has_name_da: Hauterivien
+dv_has_name_de: Hauterivium
+dv_has_name_es: Hauteviriense
+dv_has_name_et: Hauterivi
+dv_has_name_fi: Hauteriv
+dv_has_name_fr: Hauterivien
+dv_has_name_hu: hauterivi
+dv_has_name_it: hauteriviano
+dv_has_name_ja: オーテリビアン期
+dv_has_name_lt: Hoterivis
+dv_has_name_nl: Hauteriviën
+dv_has_name_no: Hauterivium
+dv_has_name_pl: Hoteryw
+dv_has_name_pt: Hauteriviano
+dv_has_name_sk: hauteriv
+dv_has_name_sl: hauterivij
+dv_has_name_sv: hauteriv
+dv_has_name_zh: 豪特里维期
+dv_has_name_abbreviated: b3
+dv_has_time_started: "-132.60e6"
+dv_has_time_stopped: "-125.77e6"
+dv_has_text_of_color: "0xA6D975"
 ---
 # [[Age~3~Hauterivian]] 
 
@@ -23,10 +103,10 @@ coordinate_location: Point(5.443722222 44.469444444)
 
 A time period from 132.6 to 125.77 million years ago. 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[Age~2~Valanginian]] 
-#has_/next_/item :: [[Age~4~Barremian]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Hauterivian,734179]]
 
 ## #has_/text_of_/abstract 
@@ -39,35 +119,35 @@ A time period from 132.6 to 125.77 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Hauterivian) 
 
 
-#has_/name_/bg  :: Хотрив
-#has_/name_/cs  :: Hauteriv
-#has_/name_/da  :: Hauterivien
-#has_/name_/de  :: Hauterivium
-#has_/name_/es  :: Hauteviriense
-#has_/name_/et  :: Hauterivi
-#has_/name_/fi  :: Hauteriv
-#has_/name_/fr  :: Hauterivien
-#has_/name_/hu  :: hauterivi
-#has_/name_/it  :: hauteriviano
-#has_/name_/ja  :: オーテリビアン期
-#has_/name_/lt  :: Hoterivis
-#has_/name_/nl  :: Hauteriviën
-#has_/name_/no  :: Hauterivium
-#has_/name_/pl  :: Hoteryw
-#has_/name_/pt  :: Hauteriviano
-#has_/name_/sk  :: hauteriv
-#has_/name_/sl  :: hauterivij
-#has_/name_/sv  :: hauteriv
-#has_/name_/zh  :: 豪特里维期
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/abbreviation :: b3
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
-#has_/time_/started :: -132.60e6 
-#has_/time_/stopped :: -125.77e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 46 
 
-#has_/text_of_/color :: 0xA6D975
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

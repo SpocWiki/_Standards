@@ -29,18 +29,19 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/release_of :: MusicAlbum ] or 
+- [has_/release_of :: MusicAlbum ] 
 - [ has_release_of :: MusicAlbum ] 
 
 The album this is a release of.
 
 Relation describes that: 
-[ #has_/domain  :: MusicRelease ]
+
+#has_/domain  :: MusicRelease  
+
 ( #has_/name :: is_release_of )
 ( #has_/range :: MusicAlbum )
 
-[ #is_/inverse_of  :: albumRelease ]
-
+#is_/inverse_of  :: albumRelease  
 
 ## Confidential Links & Embeds: 
 

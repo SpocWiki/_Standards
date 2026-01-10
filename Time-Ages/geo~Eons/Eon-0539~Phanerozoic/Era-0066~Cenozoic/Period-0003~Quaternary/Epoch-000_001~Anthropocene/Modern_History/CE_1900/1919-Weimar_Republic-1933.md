@@ -1,5 +1,7 @@
 ---
-location: [ 13.375 , 52.52 ] 
+location:
+  - 13.375
+  - 52.52
 aliases:
 has_id_wikidata: Q41304
 head_of_government:
@@ -104,6 +106,25 @@ Wolfram_Language_entity_code: Entity["HistoricalCountry", "WeimarRepublic"]
 Commons_category: Weimar Republic
 Commons_gallery: Weimarer Republik
 inception: 1918-11-09T00:00:00Z
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../WikiData/WD~Weimar_Republic,41304|WD~Weimar_Republic,41304]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1919-Weimar_Republic-1933|1919-Weimar_Republic-1933]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1919-Weimar_Republic-1933.public|1919-Weimar_Republic-1933.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1919-Weimar_Republic-1933.internal|1919-Weimar_Republic-1933.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1919-Weimar_Republic-1933.protect|1919-Weimar_Republic-1933.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1919-Weimar_Republic-1933.private|1919-Weimar_Republic-1933.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1919-Weimar_Republic-1933.personal|1919-Weimar_Republic-1933.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1919-Weimar_Republic-1933.secret|1919-Weimar_Republic-1933.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../WikiData/WD~Weimar_Republic,41304|WD~Weimar_Republic,41304]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1919-Weimar_Republic-1933|1919-Weimar_Republic-1933]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1919-Weimar_Republic-1933.public|1919-Weimar_Republic-1933.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1919-Weimar_Republic-1933.internal|1919-Weimar_Republic-1933.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1919-Weimar_Republic-1933.protect|1919-Weimar_Republic-1933.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1919-Weimar_Republic-1933.private|1919-Weimar_Republic-1933.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1919-Weimar_Republic-1933.personal|1919-Weimar_Republic-1933.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1919-Weimar_Republic-1933.secret|1919-Weimar_Republic-1933.secret]]"
 ---
 
 # [[1919-Weimar_Republic-1933]] 

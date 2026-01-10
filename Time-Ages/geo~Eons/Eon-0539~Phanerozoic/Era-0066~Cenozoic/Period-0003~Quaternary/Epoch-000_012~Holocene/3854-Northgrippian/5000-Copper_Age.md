@@ -8,21 +8,48 @@ aliases:
 has_id_wikidata: Q130253
 Commons_category: Copper Age
 described_by_source:
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 EAGLE_id: dates/lod/12
 end_time:
   - -2499
   - -5500
-has_part_s_: '[[_Standards/WikiData/WD~Early_Chalcolithic,108064585]]'
+has_part_s_: "[[_Standards/WikiData/WD~Early_Chalcolithic,108064585]]"
 has_time_started: -7500
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Marcilly-le-Hayer%20Dolmen%20des%20Blancs%20Foss%C3%A9s.jpg
-instance_of: '[[_Standards/WikiData/WD~archaeological_period,15401633]]'
+instance_of: "[[_Standards/WikiData/WD~archaeological_period,15401633]]"
 named_after:
-  - '[[_Standards/WikiData/WD~copper,753]]'
-  - '[[_Standards/WikiData/WD~stone,22731]]'
+  - "[[_Standards/WikiData/WD~copper,753]]"
+  - "[[_Standards/WikiData/WD~stone,22731]]"
 start_time: -7500
+dv_has_:
+  time_:
+    started: -5000
+    stopped: -3300
+  duration_: 4200
+dv_is_:
+  same_as:
+    - "[[../../../../../../../WikiData/WD~Chalcolithic,130253|WD~Chalcolithic,130253]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/5000-Copper_Age|5000-Copper_Age]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/5000-Copper_Age.public|5000-Copper_Age.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/5000-Copper_Age.internal|5000-Copper_Age.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/5000-Copper_Age.protect|5000-Copper_Age.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/5000-Copper_Age.private|5000-Copper_Age.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/5000-Copper_Age.personal|5000-Copper_Age.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/5000-Copper_Age.secret|5000-Copper_Age.secret]]"
+dv_has_time_stopped: -3300
+dv_has_duration_years: 4200
+dv_has_duration_: 4200
+dv_is_same_as:
+  - "[[../../../../../../../WikiData/WD~Chalcolithic,130253|WD~Chalcolithic,130253]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/5000-Copper_Age|5000-Copper_Age]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/5000-Copper_Age.public|5000-Copper_Age.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/5000-Copper_Age.internal|5000-Copper_Age.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/5000-Copper_Age.protect|5000-Copper_Age.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/5000-Copper_Age.private|5000-Copper_Age.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/5000-Copper_Age.personal|5000-Copper_Age.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/5000-Copper_Age.secret|5000-Copper_Age.secret]]"
 ---
 
 # [[Copper-Age]] 
@@ -30,10 +57,10 @@ start_time: -7500
 #is_a_/time_/Culture 
 
 #has_/time_/started :: -5000 
-#has_/time_/stopped :: -3300 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
-#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started))` 
-#has_/duration_ :: `=default(this.has_time_stopped, date(now).year) - this.has_time_started` 
+#has_/duration_/years :: `$=Math.round(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().has_time_started))` 
+#has_/duration_ :: `=default(this.dv_has_time_stopped, date(now).year) - this.has_time_started` 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Chalcolithic,130253|WD~Chalcolithic,130253]] 
 

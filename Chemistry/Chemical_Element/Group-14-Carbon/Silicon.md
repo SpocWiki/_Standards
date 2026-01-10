@@ -2,10 +2,10 @@
 aliases:
   - Silicon
 has_id_wikidata: Q670
-associated_hazard: '[[_Standards/WikiData/WD~silicon_exposure,21175300]]'
+associated_hazard: "[[_Standards/WikiData/WD~silicon_exposure,21175300]]"
 atomic_number: 14
 boiling_point: 4271
-canonical_SMILES: '[Si]'
+canonical_SMILES: "[Si]"
 CAS_Registry_Number: 7440-21-3
 chemical_formula: Si
 Commons_category: Silicon
@@ -13,43 +13,43 @@ Commons_gallery: Silicon
 CosIng_number: 96140
 density: 2.329
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Silicon,108309527]]'
-different_from: '[[_Standards/WikiData/WD~silicone,146439]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Jöns_Jacob_Berzelius,151911]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Silicon,108309527]]"
+different_from: "[[_Standards/WikiData/WD~silicone,146439]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Jöns_Jacob_Berzelius,151911]]"
 DSSTOX_compound_identifier: DTXCID5030038
 EC_number: 231-130-8
 electronegativity: 1.9
 electron_configuration:
-  - '[Ne] 3s² 3p²'
+  - "[Ne] 3s² 3p²"
   - 1s² 2s² 2p⁶ 3s² 3p²
 element_symbol: Si
 exact_match: http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_7061
-found_in_taxon: '[[_Standards/WikiData/WD~Opuntia_stricta,141416]]'
-has_effect: '[[_Standards/WikiData/WD~silicon_exposure,21175300]]'
+found_in_taxon: "[[_Standards/WikiData/WD~Opuntia_stricta,141416]]"
+has_effect: "[[_Standards/WikiData/WD~silicon_exposure,21175300]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/SiliconCroda.jpg
 InChI: InChI=1S/Si
 InChIKey: XUIMIQQOPSSXEZ-UHFFFAOYSA-N
 instance_of:
-  - '[[_Standards/WikiData/WD~lithophile,1130479]]'
-  - '[[_Standards/WikiData/WD~combustible_powder,21073023]]'
-  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
+  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
+  - "[[_Standards/WikiData/WD~combustible_powder,21073023]]"
+  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
 ionic_radius:
   - 0.4
   - 0.26
 Krugosvet_article: himiya/kremniy
 made_from_material:
-  - '[[_Standards/WikiData/WD~sand,34679]]'
-  - '[[_Standards/WikiData/WD~quartzite,237883]]'
-  - '[[_Standards/WikiData/WD~aluminosilicate,429979]]'
+  - "[[_Standards/WikiData/WD~sand,34679]]"
+  - "[[_Standards/WikiData/WD~quartzite,237883]]"
+  - "[[_Standards/WikiData/WD~aluminosilicate,429979]]"
 mass: 28.085
 melting_point: 2570
 MeSH_tree_code: D01.268.513.937
 minimum_explosive_concentration: 160
-named_after: '[[_Standards/WikiData/WD~flint,83087]]'
+named_after: "[[_Standards/WikiData/WD~flint,83087]]"
 OmegaWiki_Defined_Meaning: 3421
 oxidation_state:
   - 4
@@ -61,15 +61,15 @@ oxidation_state:
   - 2
   - 3
 part_of:
-  - '[[_Standards/WikiData/WD~group_14,106693]]'
-  - '[[_Standards/WikiData/WD~period_3,211331]]'
+  - "[[_Standards/WikiData/WD~group_14,106693]]"
+  - "[[_Standards/WikiData/WD~period_3,211331]]"
 PubChem_CID: 5461123
 RTECS_number: VW0400000
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Silicon-unit-cell-3D-balls.png
 SpocWebEntityId: 21915
 standard_molar_entropy: 18.8
-subclass_of: '[[_Standards/WikiData/WD~metalloid,19596]]'
-subject_has_role: '[[_Standards/WikiData/WD~trace_metal,7831165]]'
+subclass_of: "[[_Standards/WikiData/WD~metalloid,19596]]"
+subject_has_role: "[[_Standards/WikiData/WD~trace_metal,7831165]]"
 time_of_discovery_or_invention: 1823
 time_weighted_average_exposure_limit:
   - 5
@@ -83,41 +83,128 @@ UNSPSC_Code: 12141911
 vapor_pressure: 0
 Wolfram_Language_entity_code: Entity["Mineral", "Silicon"]
 ZVG_number: 8110
+dv_has_:
+  name_:
+    group: Group-14-Carbon
+    en: Silicon
+    de: Silicium
+    abbreviated: Si
+  value_for_:
+    weight_:
+      u: 28.0855
+    radius: 1.46
+    volume_:
+      ccm_:
+        mol: 12.1
+    unknown2: 1.11
+    radius_:
+      nano_:
+        m: 8.151
+    electronegativity: 1.9
+    density: 2.33
+    temperature_:
+      melt_:
+        c: 1410
+      boil_:
+        c: 2355
+    capacity_:
+      heat: 0.71
+    conductivity_:
+      heat: 1.48
+    enthalpy: 50.55
+    energy_:
+      form_:
+        kj_:
+          mol: 384.22
+  number_of_:
+    period: 3
+    electrons: 14
+    group: 14
+dv_Group: "[[../Group-14-Carbon]]"
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Silicon,670]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Silicon|Silicon]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.public|Silicon.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.internal|Silicon.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.protect|Silicon.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.private|Silicon.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.personal|Silicon.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.secret|Silicon.secret]]"
+  different_from: "[[../../Organic_Chemistry/Polymer/Silicone|Silicone]]"
+dv_has_name_group: Group-14-Carbon
+dv_has_name_en: Silicon
+dv_has_name_de: Silicium
+dv_has_value_for_weight_u: 28.0855
+dv_has_value_for_radius: 1.46
+dv_has_value_for_volume_ccm_mol: 12.1
+dv_has_value_for_unknown2: 1.11
+dv_has_value_for_radius_nano_m: 8.151
+dv_has_value_for_electronegativity: 1.9
+dv_has_value_for_density: 2.33
+dv_has_value_for_temperature_melt_c: 1410
+dv_has_value_for_temperature_boil_c: 2355
+dv_has_value_for_capacity_heat: 0.71
+dv_has_value_for_conductivity_heat: 1.48
+dv_has_value_for_enthalpy: 50.55
+dv_has_value_for_energy_form_kj_mol: 384.22
+dv_has_number_of_period: 3
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Silicon,670]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Silicon|Silicon]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.public|Silicon.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.internal|Silicon.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.protect|Silicon.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.private|Silicon.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.personal|Silicon.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.secret|Silicon.secret]]"
+dv_is_different_from: "[[../../Organic_Chemistry/Polymer/Silicone|Silicone]]"
+dv_has_name_abbreviated: Si
+dv_has_number_of_electrons: 14
+dv_has_number_of_group: 14
 ---
 
 # [[Silicon]] 
 
 #chemic/Element 
-[GroupName::Group-14-Carbon]
-Group :: [[../Group-14-Carbon]]
+has_name_group = `=this.dv_has_name_group` 
+Group = `=this.dv_Group` 
 
-[#has_/name_/en::Silicon]
-[#has_/name_/de::Silicium]
-[#has_/value_for_/weight_/u::28.0855]
-[AtomRadius::1.46]
-[Atom-Vol-ccm-mol::12.1]
-[Unknown2::1.11]
-[#has_/value_for_/radius_/nano_/m::8.151]
-[Electronegative::1.9]
-[Density::2.33]
-[#has_/value_for_/temperature_/melt_/c ::1410]
-[#has_/value_for_/temperature_/boil_/c ::2355]
-[HeatCapacity::0.71]
-[HeatConduct::1.48]
-[Enthalpy::50.55]
-[FormEnergy-kj-mol::384.22]
-(PeriodNo::3)
+has_name_en = `=this.dv_has_name_en` 
+
+has_name_de = `=this.dv_has_name_de` 
+
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
+
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
+
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
+
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
+
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
+
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
+
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
 
 #is_/same_as :: [[../../../WikiData/WD~Silicon,670]] 
-#is_/different_from :: [[../../Organic_Chemistry/Polymer/Silicone|Silicone]] 
+is_different_from = `=this.dv_is_different_from` 
 
 
 ## #has_/text_of_/abstract 
 
-> **Silicon** is a chemical element with the symbol (Abbr::Si) and atomic number (Charge-e::14). 
+> **Silicon** is a chemical element with the symbol has_name_abbreviated = `=this.dv_has_name_abbreviated`  and atomic number has_number_of_electrons = `=this.dv_has_number_of_electrons` . 
 > It is a hard, brittle crystalline solid with a blue-grey metallic luster, 
 > and is a tetravalent metalloid and semiconductor. 
-> It is a member of group (GroupNo::14) in the periodic table: 
+> It is a member of group has_number_of_group = `=this.dv_has_number_of_group`  in the periodic table: 
 > carbon is above it; and germanium, tin, lead, and flerovium are below it. It is relatively unreactive.
 >
 > Because of its high chemical affinity for oxygen, it was 

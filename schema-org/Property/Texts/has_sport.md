@@ -30,16 +30,18 @@ type: Pred_Text
 
 Predicate to describe the Text of SportsEvent, SportsOrganization.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/text_of_/sport :: Text, URL ] or 
+- [has_/text_of_/sport :: Text, URL ] 
 - [ has_text_of_sport :: Text, URL ] 
 
 A type of sport (e.g. Baseball).
 
 Predicated describes that: 
-[ #has_/domain  :: SportsEvent, SportsOrganization ]
+
+#has_/domain  :: SportsEvent, SportsOrganization  
+
 ( #has_/name :: has_text_of_sport )
 ( #has_/range :: Text, URL )
 

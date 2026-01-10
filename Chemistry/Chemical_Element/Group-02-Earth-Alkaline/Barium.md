@@ -4,7 +4,7 @@ aliases:
 has_id_wikidata: Q1112
 atomic_number: 56
 boiling_point: 1897
-canonical_SMILES: '[Ba]'
+canonical_SMILES: "[Ba]"
 CAS_Registry_Number: 7440-39-3
 chemical_formula: Ba
 Commons_category: Barium
@@ -13,28 +13,28 @@ Common_Procurement_Vocabulary_code: 14765000
 CPV_Supplementary_code: AA32
 density: 3.338
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 Dewey_Decimal_Classification: 546.395
-different_from: '[[_Standards/WikiData/WD~Bario,15004545]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Humphry_Davy,131761]]'
+different_from: "[[_Standards/WikiData/WD~Bario,15004545]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Humphry_Davy,131761]]"
 DSSTOX_compound_identifier: DTXCID80875617
 EC_number: 231-149-1
 electronegativity: 0.89
 electron_configuration:
   - 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 4d¹⁰ 4p⁶ 5s² 5d¹⁰ 5p⁶ 6s²
-  - '[Xe] 6s²'
+  - "[Xe] 6s²"
 element_symbol: Ba
-found_in_taxon: '[[_Standards/WikiData/WD~Isaria_cicadae,10536893]]'
+found_in_taxon: "[[_Standards/WikiData/WD~Isaria_cicadae,10536893]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Barium%201.jpg
 InChI: InChI=1S/Ba
 InChIKey: DSAJWYNOEDNPEQ-UHFFFAOYSA-N
 instance_of:
-  - '[[_Standards/WikiData/WD~lithophile,1130479]]'
-  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
+  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
+  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
 ionic_radius:
   - 1.35
   - 1.42
@@ -44,7 +44,7 @@ ionization_energy:
   - 502.9
   - 965.2
 Krugosvet_article: nauka_i_tehnika/himiya/BARI.html
-location_of_discovery: '[[_Standards/WikiData/WD~Royal_Institution,2171086]]'
+location_of_discovery: "[[_Standards/WikiData/WD~Royal_Institution,2171086]]"
 mass: 137.327
 MCN_code: 2805.19.20
 melting_point: 727
@@ -54,12 +54,12 @@ MeSH_tree_code:
   - D01.552.539.124
   - D01.552.544.062
 molar_fusion_enthalpy: 7.12
-named_after: '[[_Standards/WikiData/WD~weight,25288]]'
+named_after: "[[_Standards/WikiData/WD~weight,25288]]"
 OmegaWiki_Defined_Meaning: 310
 oxidation_state: 2
 part_of:
-  - '[[_Standards/WikiData/WD~period_6,239813]]'
-  - '[[_Standards/WikiData/WD~alkaline_earth_metal,19563]]'
+  - "[[_Standards/WikiData/WD~period_6,239813]]"
+  - "[[_Standards/WikiData/WD~alkaline_earth_metal,19563]]"
 PubChem_CID: 5355457
 SpocWebEntityId: 21952
 subject_lexeme: L18238
@@ -70,38 +70,124 @@ Unicode_character: 鋇
 UNII: 24GP945V5T
 UNSPSC_Code: 12141505
 ZVG_number: 8420
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Barium,1112]]"
+    - "[[../../../WikiData/WD~Barium,1112|WD~Barium,1112]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Barium|Barium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Barium.public|Barium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Barium.internal|Barium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Barium.protect|Barium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Barium.private|Barium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Barium.personal|Barium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Barium.secret|Barium.secret]]"
+  part_of: "[[../Group-02-Earth-Alkaline]]]"
+dv_has_:
+  name_:
+    group: Group-02-Earth-Alkaline
+    en: Barium
+    de: Barium
+    abbreviated: Ba
+  value_for_:
+    weight_:
+      u: 137.33
+    radius: 2.78
+    volume_:
+      ccm_:
+        mol: 39.24
+    unknown2: 1.98
+    radius_:
+      nano_:
+        m: 5.212
+    electronegativity: 0.9
+    density: 3.5
+    temperature_:
+      melt_:
+        c: 725
+      boil_:
+        c: 1640
+    capacity_:
+      heat: 0.204
+    conductivity_:
+      heat: 0.184
+    enthalpy: 7.75
+    energy_:
+      form_:
+        kj_:
+          mol: 142
+  number_of_:
+    electrons: 56
+    period: 6
+    group: 2
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Barium,1112]]"
+  - "[[../../../WikiData/WD~Barium,1112|WD~Barium,1112]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Barium|Barium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Barium.public|Barium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Barium.internal|Barium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Barium.protect|Barium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Barium.private|Barium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Barium.personal|Barium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Barium.secret|Barium.secret]]"
+dv_has_name_group: Group-02-Earth-Alkaline
+dv_is_part_of: "[[../Group-02-Earth-Alkaline]]]"
+dv_has_name_en: Barium
+dv_has_name_de: Barium
+dv_has_value_for_weight_u: 137.33
+dv_has_value_for_radius: 2.78
+dv_has_value_for_volume_ccm_mol: 39.24
+dv_has_value_for_unknown2: 1.98
+dv_has_value_for_radius_nano_m: 5.212
+dv_has_value_for_electronegativity: 0.9
+dv_has_value_for_density: 3.5
+dv_has_value_for_temperature_melt_c: 725
+dv_has_value_for_temperature_boil_c: 1640
+dv_has_value_for_capacity_heat: 0.204
+dv_has_value_for_conductivity_heat: 0.184
+dv_has_value_for_enthalpy: 7.75
+dv_has_value_for_energy_form_kj_mol: 142
+dv_has_name_abbreviated: Ba
+dv_has_number_of_electrons: 56
+dv_has_number_of_period: 6
+dv_has_number_of_group: 2
 ---
 
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Barium,1112]] 
 
-[GroupName::Group-02-Earth-Alkaline]
-Group::[[../Group-02-Earth-Alkaline]]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
+has_name_en = `=this.dv_has_name_en` 
 
-[#has_/name_/en::Barium]
-[#has_/name_/de::Barium]
+has_name_de = `=this.dv_has_name_de` 
 
-[#has_/value_for_/weight_/u::137.33]
-[AtomRadius::2.78]
-[Atom-Vol-ccm-mol::39.24]
-[Unknown2::1.98]
-[#has_/value_for_/radius_/nano_/m::5.212]
-[Electronegative::0.9]
-[Density::3.5]
-[#has_/value_for_/temperature_/melt_/c ::725]
-[#has_/value_for_/temperature_/boil_/c ::1640]
-[HeatCapacity::0.204]
-[HeatConduct::0.184]
-[Enthalpy::7.75]
-[FormEnergy-kj-mol::142]
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
+
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
+
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
+
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
+
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
+
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
+
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
 
 #is_/same_as :: [[../../../WikiData/WD~Barium,1112|WD~Barium,1112]] 
 
 ## #has_/text_of_/abstract 
 
-> **Barium** is a chemical element with the symbol (Abbr::Ba) and atomic number (Charge-e::56). 
-> It is the fifth element ((PeriodNo::6)) in group (GroupNo::2) and is a soft, silvery alkaline earth metal. 
+> **Barium** is a chemical element with the symbol has_name_abbreviated = `=this.dv_has_name_abbreviated`  and atomic number has_number_of_electrons = `=this.dv_has_number_of_electrons` . 
+> It is the fifth element has_number_of_period = `=this.dv_has_number_of_period` ) in group has_number_of_group = `=this.dv_has_number_of_group`  and is a soft, silvery alkaline earth metal. 
 > Because of its high chemical reactivity, barium is never found in nature as a free element.
 >
 > The most common minerals of barium are baryte (barium sulfate, BaSO4) 

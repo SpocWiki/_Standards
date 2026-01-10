@@ -4,12 +4,12 @@ aliases:
   - Electrophoresis
 has_id_wikidata: Q185098
 subclass_of:
-  - '[[_Standards/WikiData/WD~separation_process,898987]]'
-  - '[[_Standards/WikiData/WD~biochemistry_method,26879200]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_electrophoresis,5867798]]'
+  - "[[_Standards/WikiData/WD~separation_process,898987]]"
+  - "[[_Standards/WikiData/WD~biochemistry_method,26879200]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_electrophoresis,5867798]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
 OmegaWiki_Defined_Meaning: 1589969
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Motion%20by%20electrophoresis%20of%20a%20charged%20particle.svg
 exact_match: http://purl.obolibrary.org/obo/OBI_0600053
@@ -25,6 +25,25 @@ MeSH_tree_code:
   - E05.301.300
 Commons_gallery: Electrophoresis
 Commons_category: Electrophoresis
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Electrophoresis,185098|WD~Electrophoresis,185098]]"
+    - "[[/_Standards/Chemistry/Substance/Mixture/Electrophoresis|Electrophoresis]]"
+    - "[[/_public/Chemistry/Substance/Mixture/Electrophoresis.public|Electrophoresis.public]]"
+    - "[[/_internal/Chemistry/Substance/Mixture/Electrophoresis.internal|Electrophoresis.internal]]"
+    - "[[/_protect/Chemistry/Substance/Mixture/Electrophoresis.protect|Electrophoresis.protect]]"
+    - "[[/_private/Chemistry/Substance/Mixture/Electrophoresis.private|Electrophoresis.private]]"
+    - "[[/_personal/Chemistry/Substance/Mixture/Electrophoresis.personal|Electrophoresis.personal]]"
+    - "[[/_secret/Chemistry/Substance/Mixture/Electrophoresis.secret|Electrophoresis.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Electrophoresis,185098|WD~Electrophoresis,185098]]"
+  - "[[/_Standards/Chemistry/Substance/Mixture/Electrophoresis|Electrophoresis]]"
+  - "[[/_public/Chemistry/Substance/Mixture/Electrophoresis.public|Electrophoresis.public]]"
+  - "[[/_internal/Chemistry/Substance/Mixture/Electrophoresis.internal|Electrophoresis.internal]]"
+  - "[[/_protect/Chemistry/Substance/Mixture/Electrophoresis.protect|Electrophoresis.protect]]"
+  - "[[/_private/Chemistry/Substance/Mixture/Electrophoresis.private|Electrophoresis.private]]"
+  - "[[/_personal/Chemistry/Substance/Mixture/Electrophoresis.personal|Electrophoresis.personal]]"
+  - "[[/_secret/Chemistry/Substance/Mixture/Electrophoresis.secret|Electrophoresis.secret]]"
 ---
 
 # [[Electrophoresis]] 

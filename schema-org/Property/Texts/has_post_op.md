@@ -11,36 +11,66 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - post
   - op
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_post_op
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_post_op
 type: Pred_Text
+dv_has_:
+  text_of_:
+    post_op: Text
+  domain: MedicalDevice
+dv_has_text_of_post_op: Text
+dv_#has_:
+  name: has_text_of_post_op
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/Texts/has_post_op|has_post_op]]"
+    - "[[/_public/schema-org/Property/Texts/has_post_op.public|has_post_op.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_post_op.internal|has_post_op.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_post_op.protect|has_post_op.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_post_op.private|has_post_op.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_post_op.personal|has_post_op.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_post_op.secret|has_post_op.secret]]"
+dv_has_domain: MedicalDevice
+dv_has_name: has_text_of_post_op
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Texts/has_post_op|has_post_op]]"
+  - "[[/_public/schema-org/Property/Texts/has_post_op.public|has_post_op.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_post_op.internal|has_post_op.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_post_op.protect|has_post_op.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_post_op.private|has_post_op.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_post_op.personal|has_post_op.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_post_op.secret|has_post_op.secret]]"
 ---
 
 Predicate to describe the Text of MedicalDevice.
 
 Use it like this: 
-- [ #has_/text_of_/post_op :: Text ] or 
-- [ has_text_of_post_op :: Text ] 
+- has_text_of_post_op = `=this.dv_has_text_of_post_op`  
+- has_text_of_post_op = `=this.dv_has_text_of_post_op`  
 
 A description of the postoperative procedures, care, and/or followups for this device.
 
 Predicated describes that: 
-[ #has_/domain  :: MedicalDevice ]
-( #has_/name :: has_text_of_post_op )
-( #has_/range :: Text )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

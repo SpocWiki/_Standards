@@ -9,21 +9,42 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: BookFormatType
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - paperback
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_paperback Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_paperback Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../BookFormatType]]"
+  enum_of: "[[../BookFormatType]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Book_Format_Type/Paperback|Paperback]]"
+    - "[[/_public/schema-org/Enumeration/Book_Format_Type/Paperback.public|Paperback.public]]"
+    - "[[/_internal/schema-org/Enumeration/Book_Format_Type/Paperback.internal|Paperback.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Book_Format_Type/Paperback.protect|Paperback.protect]]"
+    - "[[/_private/schema-org/Enumeration/Book_Format_Type/Paperback.private|Paperback.private]]"
+    - "[[/_personal/schema-org/Enumeration/Book_Format_Type/Paperback.personal|Paperback.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Book_Format_Type/Paperback.secret|Paperback.secret]]"
+dv_is_sub_class_of: "[[../BookFormatType]]"
+dv_is_enum_of: "[[../BookFormatType]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Book_Format_Type/Paperback|Paperback]]"
+  - "[[/_public/schema-org/Enumeration/Book_Format_Type/Paperback.public|Paperback.public]]"
+  - "[[/_internal/schema-org/Enumeration/Book_Format_Type/Paperback.internal|Paperback.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Book_Format_Type/Paperback.protect|Paperback.protect]]"
+  - "[[/_private/schema-org/Enumeration/Book_Format_Type/Paperback.private|Paperback.private]]"
+  - "[[/_personal/schema-org/Enumeration/Book_Format_Type/Paperback.personal|Paperback.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Book_Format_Type/Paperback.secret|Paperback.secret]]"
 ---
 
 Class of all paperbacks.
@@ -33,10 +54,9 @@ Tag Instances like this:
 
 Book format: Paperback.
 
-[ #is_/sub_class_of :: [[../BookFormatType]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #is_/enum_of :: [[../BookFormatType]] ]
-
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

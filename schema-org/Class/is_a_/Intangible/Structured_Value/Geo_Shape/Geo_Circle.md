@@ -10,21 +10,43 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - geo_circle
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_geo_circle Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_geo_circle Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../GeoShape]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape/Geo_Circle|Geo_Circle]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape/Geo_Circle.public|Geo_Circle.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape/Geo_Circle.internal|Geo_Circle.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape/Geo_Circle.protect|Geo_Circle.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape/Geo_Circle.private|Geo_Circle.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape/Geo_Circle.personal|Geo_Circle.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape/Geo_Circle.secret|Geo_Circle.secret]]"
+dv_has_:
+  properties: "[ additionalType, address, addressCountry, alternateName, box, circle, description, disambiguatingDescription, elevation, geoMidpoint, geoRadius, identifier, image, line, mainEntityOfPage, name, polygon, postalCode, potentialAction, sameAs, subjectOf, url ]"
+dv_is_sub_class_of: "[[../GeoShape]]"
+dv_has_properties: "[ additionalType, address, addressCountry, alternateName, box, circle, description, disambiguatingDescription, elevation, geoMidpoint, geoRadius, identifier, image, line, mainEntityOfPage, name, polygon, postalCode, potentialAction, sameAs, subjectOf, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape/Geo_Circle|Geo_Circle]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape/Geo_Circle.public|Geo_Circle.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape/Geo_Circle.internal|Geo_Circle.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape/Geo_Circle.protect|Geo_Circle.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape/Geo_Circle.private|Geo_Circle.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape/Geo_Circle.personal|Geo_Circle.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape/Geo_Circle.secret|Geo_Circle.secret]]"
 ---
 
 Class of all geo_circles.
@@ -36,10 +58,9 @@ A GeoCircle is a GeoShape representing a circular geographic area. As it is a Ge
 		  it provides the simple textual property 'circle', but also allows the combination of postalCode alongside geoRadius.
 		  The center of the circle can be indicated via the 'geoMidpoint' property, or more approximately using 'address', 'postalCode'.
 
-[ #is_/sub_class_of :: [[../GeoShape]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #has_/properties :: [ additionalType, address, addressCountry, alternateName, box, circle, description, disambiguatingDescription, elevation, geoMidpoint, geoRadius, identifier, image, line, mainEntityOfPage, name, polygon, postalCode, potentialAction, sameAs, subjectOf, url ] ]
-
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

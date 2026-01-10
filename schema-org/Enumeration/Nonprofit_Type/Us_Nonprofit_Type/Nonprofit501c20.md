@@ -9,21 +9,44 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: USNonprofitType
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - nonprofit501c20
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_nonprofit501c20 Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_nonprofit501c20 Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../USNonprofitType]]"
+  enum_of: "[[../USNonprofitType]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c20|Nonprofit501c20]]"
+    - "[[/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c20.public|Nonprofit501c20.public]]"
+    - "[[/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c20.internal|Nonprofit501c20.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c20.protect|Nonprofit501c20.protect]]"
+    - "[[/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c20.private|Nonprofit501c20.private]]"
+    - "[[/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c20.personal|Nonprofit501c20.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c20.secret|Nonprofit501c20.secret]]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../USNonprofitType]]"
+dv_is_enum_of: "[[../USNonprofitType]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c20|Nonprofit501c20]]"
+  - "[[/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c20.public|Nonprofit501c20.public]]"
+  - "[[/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c20.internal|Nonprofit501c20.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c20.protect|Nonprofit501c20.protect]]"
+  - "[[/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c20.private|Nonprofit501c20.private]]"
+  - "[[/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c20.personal|Nonprofit501c20.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c20.secret|Nonprofit501c20.secret]]"
 ---
 
 Class of all nonprofit501c20s.
@@ -31,14 +54,13 @@ Class of all nonprofit501c20s.
 Tag Instances like this: 
 #is_a_/nonprofit501c20
 
-[ #is_/part_of :: https://pending.schema.org ]
+is_part_of = `=this.dv_is_part_of` 
 
 Nonprofit501c20: Non-profit type referring to Group Legal Services Plan Organizations.
 
-[ #is_/sub_class_of :: [[../USNonprofitType]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #is_/enum_of :: [[../USNonprofitType]] ]
-
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

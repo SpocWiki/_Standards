@@ -28,13 +28,15 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/opening_at :: Time ] or 
+- [is_/opening_at :: Time ] 
 - [ is_opening_at :: Time ] 
 
 The opening hour of the place or service on the given day(s) of the week.
 
 Relation describes that: 
-[ #has_/domain  :: OpeningHoursSpecification ]
+
+#has_/domain  :: OpeningHoursSpecification  
+
 ( #has_/name :: is_opening_at )
 ( #has_/range :: Time )
 

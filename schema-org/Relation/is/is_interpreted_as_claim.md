@@ -29,21 +29,22 @@ title: is_interpreted_as_claim
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #is_/interpreted_as_claim :: Claim ] or 
+- [is_/interpreted_as_claim :: Claim ] 
 - [ is_interpreted_as_claim :: Claim ] 
 
 Used to indicate a specific claim contained, implied, translated or refined from the content of a [[MediaObject]] or other [[CreativeWork]]. The interpreting party can be indicated using [[claimInterpreter]].
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork, MediaObject ]
+
+#has_/domain  :: CreativeWork, MediaObject  
+
 ( #has_/name :: is_interpreted_as_claim )
 ( #has_/range :: Claim )
 
-[ #is_/sub_property_of  :: description ]
-
+#is_/sub_property_of  :: description  
 
 ## Confidential Links & Embeds: 
 

@@ -29,16 +29,18 @@ type: Predi_Count
 
 Predicate to describe the Number of EducationalOccupationalProgram.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/number_of_/credits_per_term_typical :: Integer, StructuredValue ] or 
+- [has_/number_of_/credits_per_term_typical :: Integer, StructuredValue ] 
 - [ has_number_of_credits_per_term_typical :: Integer, StructuredValue ] 
 
 The number of credits or units a full-time student would be expected to take in 1 term however 'term' is defined by the institution.
 
 Predicate describes that: 
-[ #has_/domain  :: EducationalOccupationalProgram ]
+
+#has_/domain  :: EducationalOccupationalProgram  
+
 ( #has_/name :: has_number_of_credits_per_term_typical )
 ( #has_/range :: Integer, StructuredValue )
 

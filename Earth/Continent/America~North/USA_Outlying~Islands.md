@@ -38,7 +38,7 @@ dv_ISO4217-currency_minor_unit: 2
 dv_ISO4217-currency_country_name: UNITED STATES MINOR OUTLYING ISLANDS
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: U.S. Outlying Islands
+dv_has_name: U.S. Outlying Islands
 dv_has_name_en:
   - United States Minor Outlying Islands
   - USA minor outlying Islands
@@ -102,7 +102,7 @@ ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 [	has_name_en	 :: United States Minor Outlying Islands ]
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`

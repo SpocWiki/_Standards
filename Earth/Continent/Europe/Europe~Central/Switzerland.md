@@ -1,5 +1,5 @@
 ---
-dv_has_name_: Switzerland
+dv_has_name: Switzerland
 dv_has_name_en: Switzerland
 dv_has_name_es: Suiza
 dv_has_name_fr: Suisse
@@ -572,7 +572,7 @@ defaultZoom: 5
 
 ## International Names
 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 has_name_en = `=this.dv_has_name_en` 
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`

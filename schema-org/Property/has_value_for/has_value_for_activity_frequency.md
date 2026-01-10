@@ -10,35 +10,65 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - activity-frequency
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_activity-frequency
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_activity-frequency
 type: Predi_Quantity
+dv_has_:
+  value_for_:
+    activity_frequency: QuantitativeValue, Text
+  domain: ExercisePlan
+dv_has_value_for_activity_frequency: QuantitativeValue, Text
+dv_#has_:
+  name: has_value_for_activity_frequency
+  range: QuantitativeValue, Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_activity_frequency|has_value_for_activity_frequency]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_activity_frequency.public|has_value_for_activity_frequency.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_activity_frequency.internal|has_value_for_activity_frequency.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_activity_frequency.protect|has_value_for_activity_frequency.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_activity_frequency.private|has_value_for_activity_frequency.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_activity_frequency.personal|has_value_for_activity_frequency.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_activity_frequency.secret|has_value_for_activity_frequency.secret]]"
+dv_has_domain: ExercisePlan
+dv_has_name: has_value_for_activity_frequency
+dv_has_range: QuantitativeValue, Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_activity_frequency|has_value_for_activity_frequency]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_activity_frequency.public|has_value_for_activity_frequency.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_activity_frequency.internal|has_value_for_activity_frequency.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_activity_frequency.protect|has_value_for_activity_frequency.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_activity_frequency.private|has_value_for_activity_frequency.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_activity_frequency.personal|has_value_for_activity_frequency.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_activity_frequency.secret|has_value_for_activity_frequency.secret]]"
 ---
 
 Predicate to describe the Quantity of ExercisePlan.
 
 Use it like this: 
-- [ #has_/value_for_/activity_frequency :: QuantitativeValue, Text ] or 
-- [ has_value_for_activity_frequency :: QuantitativeValue, Text ] 
+- has_value_for_activity_frequency = `=this.dv_has_value_for_activity_frequency`  
+- has_value_for_activity_frequency = `=this.dv_has_value_for_activity_frequency`  
 
 How often one should engage in the activity.
 
 Predicate describes that: 
-[ #has_/domain  :: ExercisePlan ]
-( #has_/name :: has_value_for_activity_frequency )
-( #has_/range :: QuantitativeValue, Text )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

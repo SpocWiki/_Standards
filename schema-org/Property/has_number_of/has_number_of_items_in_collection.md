@@ -29,16 +29,18 @@ type: Predi_Count
 
 Predicate to describe the Number of Collection.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/number_of_/items_in_collection :: Integer ] or 
+- [has_/number_of_/items_in_collection :: Integer ] 
 - [ has_number_of_items_in_collection :: Integer ] 
 
 The number of items in the [[Collection]].
 
 Predicate describes that: 
-[ #has_/domain  :: Collection ]
+
+#has_/domain  :: Collection  
+
 ( #has_/name :: has_number_of_items_in_collection )
 ( #has_/range :: Integer )
 

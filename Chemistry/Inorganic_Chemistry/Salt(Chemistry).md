@@ -8,49 +8,70 @@ aliases:
 has_id_wikidata: Q12370
 Commons_category: Salts
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 different_from:
-  - '[[_Standards/WikiData/WD~sodium_chloride,2314]]'
-  - '[[_Standards/WikiData/WD~table_salt,11254]]'
+  - "[[_Standards/WikiData/WD~sodium_chloride,2314]]"
+  - "[[_Standards/WikiData/WD~table_salt,11254]]"
 has_part_s_:
-  - '[[_Standards/WikiData/WD~anion,107968]]'
-  - '[[_Standards/WikiData/WD~cation,326277]]'
+  - "[[_Standards/WikiData/WD~anion,107968]]"
+  - "[[_Standards/WikiData/WD~cation,326277]]"
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Ammonium-cerium%28IV%29-sulfate-sample.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Cobalt%28II%29-chloride-hexahydrate-sample.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Nickel%28II%29-chloride-hexahydrate-sample.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Nickel%28II%29-sulfate-hexahydrate-sample.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Potassium-dichromate-sample.jpg
-instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
+instance_of: "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"
 MeSH_tree_code: D01.786
 name_in_kana: えん
 OmegaWiki_Defined_Meaning: 3299
 part_of:
-  - '[[_Standards/WikiData/WD~response_to_salt,22273555]]'
-  - '[[_Standards/WikiData/WD~cellular_response_to_salt,22273556]]'
-  - '[[_Standards/WikiData/WD~salt_transmembrane_transporter_activity,22324829]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~ionic_compound,2366155]]'
+  - "[[_Standards/WikiData/WD~response_to_salt,22273555]]"
+  - "[[_Standards/WikiData/WD~cellular_response_to_salt,22273556]]"
+  - "[[_Standards/WikiData/WD~salt_transmembrane_transporter_activity,22324829]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~ionic_compound,2366155]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~ionic_compound,2366155]]'
-  - '[[_Standards/WikiData/WD~mineral_substance,12037703]]'
+  - "[[_Standards/WikiData/WD~ionic_compound,2366155]]"
+  - "[[_Standards/WikiData/WD~mineral_substance,12037703]]"
 UMLS_CUI: C0036140
 Dewey_Decimal_Classification:
   - 546.34
   - 553.63
   - 661.4
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Salt,12370|WD~Salt,12370]]"
+    - "[[/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)|Salt(Chemistry)]]"
+    - "[[/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry).public|Salt(Chemistry).public]]"
+    - "[[/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry).internal|Salt(Chemistry).internal]]"
+    - "[[/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry).protect|Salt(Chemistry).protect]]"
+    - "[[/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry).private|Salt(Chemistry).private]]"
+    - "[[/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry).personal|Salt(Chemistry).personal]]"
+    - "[[/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry).secret|Salt(Chemistry).secret]]"
+  different_from: "[[Salt(Chemistry)/Chloride/Sodium_Chloride]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Salt,12370|WD~Salt,12370]]"
+  - "[[/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)|Salt(Chemistry)]]"
+  - "[[/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry).public|Salt(Chemistry).public]]"
+  - "[[/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry).internal|Salt(Chemistry).internal]]"
+  - "[[/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry).protect|Salt(Chemistry).protect]]"
+  - "[[/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry).private|Salt(Chemistry).private]]"
+  - "[[/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry).personal|Salt(Chemistry).personal]]"
+  - "[[/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry).secret|Salt(Chemistry).secret]]"
+dv_is_different_from: "[[Salt(Chemistry)/Chloride/Sodium_Chloride]]"
 ---
 
 # [[Salt(Chemistry)]] 
 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Salt,12370|WD~Salt,12370]] 
-#is_/different_from :: [[Salt(Chemistry)/Chloride/Sodium_Chloride]]
+is_different_from = `=this.dv_is_different_from` 
 
 ## #has_/text_of_/abstract 
 

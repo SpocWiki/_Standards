@@ -10,21 +10,40 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - book_format_type
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_book_format_type Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_book_format_type Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../Enumeration]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Book_Format_Type|Book_Format_Type]]"
+    - "[[/_public/schema-org/Enumeration/Book_Format_Type.public|Book_Format_Type.public]]"
+    - "[[/_internal/schema-org/Enumeration/Book_Format_Type.internal|Book_Format_Type.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Book_Format_Type.protect|Book_Format_Type.protect]]"
+    - "[[/_private/schema-org/Enumeration/Book_Format_Type.private|Book_Format_Type.private]]"
+    - "[[/_personal/schema-org/Enumeration/Book_Format_Type.personal|Book_Format_Type.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Book_Format_Type.secret|Book_Format_Type.secret]]"
+dv_is_sub_class_of: "[[../Enumeration]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Book_Format_Type|Book_Format_Type]]"
+  - "[[/_public/schema-org/Enumeration/Book_Format_Type.public|Book_Format_Type.public]]"
+  - "[[/_internal/schema-org/Enumeration/Book_Format_Type.internal|Book_Format_Type.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Book_Format_Type.protect|Book_Format_Type.protect]]"
+  - "[[/_private/schema-org/Enumeration/Book_Format_Type.private|Book_Format_Type.private]]"
+  - "[[/_personal/schema-org/Enumeration/Book_Format_Type.personal|Book_Format_Type.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Book_Format_Type.secret|Book_Format_Type.secret]]"
 ---
 
 Class of all book_format_types.
@@ -34,8 +53,7 @@ Tag Instances like this:
 
 The publication format of the book.
 
-[ #is_/sub_class_of :: [[../Enumeration]] ]
-
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
 ## Confidential Links & Embeds: 
 

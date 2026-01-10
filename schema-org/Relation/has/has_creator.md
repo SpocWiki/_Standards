@@ -25,18 +25,20 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/creator :: Organization, Person ] or 
+- [has_/creator :: Organization, Person ] 
 - [ has_creator :: Organization, Person ] 
 
 Specifies the creator/author of this [[../../../Society/Communication/Media/Creative_Work|CreativeWork]]. 
 This is the same as the [[has_author]] property for CreativeWork.
 
 Relation describes that: 
-[ #has_/domain  :: [[../../Class/Thing|Thing]] ]
+
+#has_/domain  :: [[../../Class/Thing|Thing]]  
+
 ( #has_/name :: has_creator )
 ( #has_/range :: Organization, Person )
 
-[ #has_/sub_properties :: [ [[../is/is_legislation_passed_by|is_legislation_passed_by]] , [[has_founder]] ] ]
+#has_/sub_properties :: [ [[../is/is_legislation_passed_by|is_legislation_passed_by]] , [[has_founder]] ]  
 
 #is_/inverse_of  :: [[is_creating]] 
 

@@ -10,35 +10,62 @@ cssclasses:
   - Predicate
   - Date_Time
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
-layout: ''
+keywords: ""
+layout: ""
 license: CC BY-SA 4.0
-linkTitle: ''
+linkTitle: ""
 publish: true
-publishDate: ''
+publishDate: ""
 supersedes: paymentDue
 tags:
   - class/Property
   - schema-org/Property/Date
 title: has_time_of_payment_due
 type: Predi_Date_Time
+dv_has_time_of_payment_due: P#Y#M#W#DT#H#M#s.fff
+dv_#has_:
+  time_:
+    of_payment_due: P#Y#M#W#DT#H#M#s.fff
+dv_domain: Invoice, Order
+dv_has_:
+  name: has_time_of_payment_due
+dv_range: Date, DateTime
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_of_payment_due|has_time_of_payment_due]]"
+    - "[[/_public/schema-org/Property/has_Date_Time/has_time_of_payment_due.public|has_time_of_payment_due.public]]"
+    - "[[/_internal/schema-org/Property/has_Date_Time/has_time_of_payment_due.internal|has_time_of_payment_due.internal]]"
+    - "[[/_protect/schema-org/Property/has_Date_Time/has_time_of_payment_due.protect|has_time_of_payment_due.protect]]"
+    - "[[/_private/schema-org/Property/has_Date_Time/has_time_of_payment_due.private|has_time_of_payment_due.private]]"
+    - "[[/_personal/schema-org/Property/has_Date_Time/has_time_of_payment_due.personal|has_time_of_payment_due.personal]]"
+    - "[[/_secret/schema-org/Property/has_Date_Time/has_time_of_payment_due.secret|has_time_of_payment_due.secret]]"
+dv_has_name: has_time_of_payment_due
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_of_payment_due|has_time_of_payment_due]]"
+  - "[[/_public/schema-org/Property/has_Date_Time/has_time_of_payment_due.public|has_time_of_payment_due.public]]"
+  - "[[/_internal/schema-org/Property/has_Date_Time/has_time_of_payment_due.internal|has_time_of_payment_due.internal]]"
+  - "[[/_protect/schema-org/Property/has_Date_Time/has_time_of_payment_due.protect|has_time_of_payment_due.protect]]"
+  - "[[/_private/schema-org/Property/has_Date_Time/has_time_of_payment_due.private|has_time_of_payment_due.private]]"
+  - "[[/_personal/schema-org/Property/has_Date_Time/has_time_of_payment_due.personal|has_time_of_payment_due.personal]]"
+  - "[[/_secret/schema-org/Property/has_Date_Time/has_time_of_payment_due.secret|has_time_of_payment_due.secret]]"
 ---
 
 Predicate to describe the date of Invoice, Order.
 
 Use it like this: 
-- [has_time_of_payment_due::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/time_/of_payment_due::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
+- has_time_of_payment_due = `=this.dv_has_time_of_payment_due`  
+- has_time_of_payment_due = `=this.dv_has_time_of_payment_due`  
+with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
 The date that payment is due.
 
 Formal Predicate: 
-[domain::Invoice, Order]
-(has_/name::has_time_of_payment_due)
-(range::Date, DateTime)
+domain = `=this.dv_domain` 
+has_name = `=this.dv_has_name` 
+range = `=this.dv_range` 
 
 
 ## Confidential Links & Embeds: 

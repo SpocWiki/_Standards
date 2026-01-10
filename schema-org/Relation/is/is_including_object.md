@@ -27,13 +27,15 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/including_object :: TypeAndQuantityNode] or 
+- [is_/including_object :: TypeAndQuantityNode] 
 - [ is_including_object :: TypeAndQuantityNode] 
 
 This links to a node or nodes indicating the exact quantity of the products included in  an [[../../../Society/Agent/Community/Organization/Business/Offer]] or [[ProductCollection]].
 
 Relation describes that: 
-[ #has_/domain  :: Demand, Offer, ProductCollection]
+
+#has_/domain  :: Demand, Offer, ProductCollection 
+
 ( #has_/name :: is_including_object)
 ( #has_/range :: TypeAndQuantityNode)
 

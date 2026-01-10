@@ -1,3 +1,24 @@
+---
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Corrosion,137056|WD~Corrosion,137056]]"
+    - "[[/_Standards/Chemistry/Chemical_Reaction/Corrosion|Corrosion]]"
+    - "[[/_public/Chemistry/Chemical_Reaction/Corrosion.public|Corrosion.public]]"
+    - "[[/_internal/Chemistry/Chemical_Reaction/Corrosion.internal|Corrosion.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Reaction/Corrosion.protect|Corrosion.protect]]"
+    - "[[/_private/Chemistry/Chemical_Reaction/Corrosion.private|Corrosion.private]]"
+    - "[[/_personal/Chemistry/Chemical_Reaction/Corrosion.personal|Corrosion.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Reaction/Corrosion.secret|Corrosion.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Corrosion,137056|WD~Corrosion,137056]]"
+  - "[[/_Standards/Chemistry/Chemical_Reaction/Corrosion|Corrosion]]"
+  - "[[/_public/Chemistry/Chemical_Reaction/Corrosion.public|Corrosion.public]]"
+  - "[[/_internal/Chemistry/Chemical_Reaction/Corrosion.internal|Corrosion.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Reaction/Corrosion.protect|Corrosion.protect]]"
+  - "[[/_private/Chemistry/Chemical_Reaction/Corrosion.private|Corrosion.private]]"
+  - "[[/_personal/Chemistry/Chemical_Reaction/Corrosion.personal|Corrosion.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Reaction/Corrosion.secret|Corrosion.secret]]"
+---
 
 # [[Corrosion]] 
 

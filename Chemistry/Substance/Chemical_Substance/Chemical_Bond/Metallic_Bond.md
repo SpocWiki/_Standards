@@ -6,11 +6,30 @@ aliases:
   - Metallic Bond
 has_id_wikidata: Q191390
 has_effect:
-  - '[[_Standards/WikiData/WD~electrical_conductivity,4593291]]'
-  - '[[_Standards/WikiData/WD~electron_delocalization,56627491]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~metal_metal_bond,100701043]]'
-subclass_of: '[[_Standards/WikiData/WD~chemical_bond,44424]]'
+  - "[[_Standards/WikiData/WD~electrical_conductivity,4593291]]"
+  - "[[_Standards/WikiData/WD~electron_delocalization,56627491]]"
+partially_coincident_with: "[[_Standards/WikiData/WD~metal_metal_bond,100701043]]"
+subclass_of: "[[_Standards/WikiData/WD~chemical_bond,44424]]"
 Commons_category: Metallic bonding
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Metallic_bond,191390|WD~Metallic_bond,191390]]"
+    - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Metallic_Bond|Metallic_Bond]]"
+    - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Metallic_Bond.public|Metallic_Bond.public]]"
+    - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Metallic_Bond.internal|Metallic_Bond.internal]]"
+    - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Metallic_Bond.protect|Metallic_Bond.protect]]"
+    - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Metallic_Bond.private|Metallic_Bond.private]]"
+    - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Metallic_Bond.personal|Metallic_Bond.personal]]"
+    - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Metallic_Bond.secret|Metallic_Bond.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Metallic_bond,191390|WD~Metallic_bond,191390]]"
+  - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Metallic_Bond|Metallic_Bond]]"
+  - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Metallic_Bond.public|Metallic_Bond.public]]"
+  - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Metallic_Bond.internal|Metallic_Bond.internal]]"
+  - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Metallic_Bond.protect|Metallic_Bond.protect]]"
+  - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Metallic_Bond.private|Metallic_Bond.private]]"
+  - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Metallic_Bond.personal|Metallic_Bond.personal]]"
+  - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Metallic_Bond.secret|Metallic_Bond.secret]]"
 ---
 
 # [[Metallic_Bond]] 

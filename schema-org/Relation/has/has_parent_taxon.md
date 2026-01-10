@@ -28,21 +28,22 @@ title: has_parent_taxon
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/parent_/taxon :: Taxon, Text, URL ] or 
+- [has_/parent_/taxon :: Taxon, Text, URL ] 
 - [ has_parent_taxon :: Taxon, Text, URL ] 
 
 Closest parent taxon of the taxon in question.
 
 Relation describes that: 
-[ #has_/domain  :: Taxon ]
+
+#has_/domain  :: Taxon  
+
 ( #has_/name :: has_parent_taxon )
 ( #has_/range :: Taxon, Text, URL )
 
-[ #is_/inverse_of  :: childTaxon ]
-
+#is_/inverse_of  :: childTaxon  
 
 ## Confidential Links & Embeds: 
 

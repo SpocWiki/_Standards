@@ -87,8 +87,9 @@ dv_is_same_as:
 
 # [[Corporation]] 
 
-[ #is_/sub_class_of :: [[../../Organization]] ] 
-[ #is_/sub_class_of :: [[../../../../../../Knowledge/Business/Business-Entity|Business-Entity]] ] 
+#is_/sub_class_of :: [[../../Organization]]  
+
+#is_/sub_class_of :: [[../../../../../../Knowledge/Business/Business-Entity|Business-Entity]]  
 
 #has_/characteristics :: Separate legal entity owned by [[Shareholder]]s 
 #has_/legal_status :: [[Owner]] 

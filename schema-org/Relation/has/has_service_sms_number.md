@@ -9,7 +9,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,28 +17,57 @@ keywords:
   - service
   - sms
   - number
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_service_sms_number
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_service_sms_number
 type: Predi_Relation
+dv_has_:
+  service_sms_number: ContactPoint
+  domain: ServiceChannel
+dv_has_service_sms_number: ContactPoint
+dv_#has_:
+  name: is_service_sms_number
+  range: ContactPoint
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_service_sms_number|has_service_sms_number]]"
+    - "[[/_public/schema-org/Relation/has/has_service_sms_number.public|has_service_sms_number.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_service_sms_number.internal|has_service_sms_number.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_service_sms_number.protect|has_service_sms_number.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_service_sms_number.private|has_service_sms_number.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_service_sms_number.personal|has_service_sms_number.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_service_sms_number.secret|has_service_sms_number.secret]]"
+dv_has_domain: ServiceChannel
+dv_has_name: is_service_sms_number
+dv_has_range: ContactPoint
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_service_sms_number|has_service_sms_number]]"
+  - "[[/_public/schema-org/Relation/has/has_service_sms_number.public|has_service_sms_number.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_service_sms_number.internal|has_service_sms_number.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_service_sms_number.protect|has_service_sms_number.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_service_sms_number.private|has_service_sms_number.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_service_sms_number.personal|has_service_sms_number.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_service_sms_number.secret|has_service_sms_number.secret]]"
 ---
 
 Use it like this: 
-- [ #has_/service_sms_number :: ContactPoint ] or 
-- [ has_service_sms_number :: ContactPoint ] 
+- has_service_sms_number = `=this.dv_has_service_sms_number`  
+- has_service_sms_number = `=this.dv_has_service_sms_number`  
 
 The number to access the service by text message.
 
 Relation describes that: 
-[ #has_/domain  :: ServiceChannel ]
-( #has_/name :: is_service_sms_number )
-( #has_/range :: ContactPoint )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

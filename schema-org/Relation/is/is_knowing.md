@@ -28,13 +28,15 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/knowing :: Person ] or 
+- [is_/knowing :: Person ] 
 - [ is_knowing :: Person ] 
 
 The most generic bi-directional social/work relation.
 
 Relation describes that: 
-[ #has_/domain  :: Person ]
+
+#has_/domain  :: Person  
+
 ( #has_/name :: is_knowing )
 ( #has_/range :: Person )
 

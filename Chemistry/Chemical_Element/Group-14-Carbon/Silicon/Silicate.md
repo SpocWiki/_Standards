@@ -3,18 +3,37 @@ aliases:
   - Silikat
   - Silicate
 has_id_wikidata: Q7130787
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~oxygen_compound,5156940]]'
-  - '[[_Standards/WikiData/WD~silicon_compound,12550003]]'
-instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
-has_part_s_: '[[_Standards/WikiData/WD~silicon,670]]'
+  - "[[_Standards/WikiData/WD~oxygen_compound,5156940]]"
+  - "[[_Standards/WikiData/WD~silicon_compound,12550003]]"
+instance_of: "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"
+has_part_s_: "[[_Standards/WikiData/WD~silicon,670]]"
 Commons_category: Silicates
 UNSPSC_Code: 12352308
 UMLS_CUI: C0086983
 MeSH_tree_code:
   - D01.578.725
   - D01.837.725.700.760
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Silicate,7130787|WD~Silicate,7130787]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Silicate|Silicate]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Silicate.public|Silicate.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Silicate.internal|Silicate.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Silicate.protect|Silicate.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Silicate.private|Silicate.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Silicate.personal|Silicate.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Silicate.secret|Silicate.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Silicate,7130787|WD~Silicate,7130787]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Silicate|Silicate]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Silicate.public|Silicate.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Silicate.internal|Silicate.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Silicate.protect|Silicate.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Silicate.private|Silicate.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Silicate.personal|Silicate.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Silicate.secret|Silicate.secret]]"
 ---
 
 # [[Silicate]] 

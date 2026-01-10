@@ -132,6 +132,84 @@ U_S_National_Archives_Identifier: 10638044
 vapor_pressure: 0
 Wolfram_Language_entity_code: Entity["Mineral", "Copper"]
 ZVG_number: 8240
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Copper,753]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-11-Copper/Copper|Copper]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-11-Copper/Copper.public|Copper.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-11-Copper/Copper.internal|Copper.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-11-Copper/Copper.protect|Copper.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-11-Copper/Copper.private|Copper.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-11-Copper/Copper.personal|Copper.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-11-Copper/Copper.secret|Copper.secret]]"
+  part_of: "[[../Group-11-Copper]]"
+dv_has_:
+  name_:
+    group: Group-11-Copper
+    en: Copper
+    de: Kupfer
+    abbreviated: Cu
+  value_for_:
+    weight_:
+      u: 63.546
+    radius: 1.57
+    volume_:
+      ccm_:
+        mol: 7.1
+    unknown2: 1.17
+    radius_:
+      nano_:
+        m: 7.726
+    electronegativity: 1.9
+    density: 8.96
+    temperature_:
+      melt_:
+        c: 1083.4
+      boil_:
+        c: 2567
+    capacity_:
+      heat: 0.38
+    conductivity_:
+      heat: 4.01
+    enthalpy: 13.05
+    energy_:
+      form_:
+        kj_:
+          mol: 300.3
+  number_of_:
+    period: 4
+    group: 11
+    electrons: 29
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Copper,753]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-11-Copper/Copper|Copper]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-11-Copper/Copper.public|Copper.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-11-Copper/Copper.internal|Copper.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-11-Copper/Copper.protect|Copper.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-11-Copper/Copper.private|Copper.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-11-Copper/Copper.personal|Copper.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-11-Copper/Copper.secret|Copper.secret]]"
+dv_has_name_group: Group-11-Copper
+dv_is_part_of: "[[../Group-11-Copper]]"
+dv_has_name_en: Copper
+dv_has_name_de: Kupfer
+dv_has_value_for_weight_u: 63.546
+dv_has_value_for_radius: 1.57
+dv_has_value_for_volume_ccm_mol: 7.1
+dv_has_value_for_unknown2: 1.17
+dv_has_value_for_radius_nano_m: 7.726
+dv_has_value_for_electronegativity: 1.9
+dv_has_value_for_density: 8.96
+dv_has_value_for_temperature_melt_c: 1083.4
+dv_has_value_for_temperature_boil_c: 2567
+dv_has_value_for_capacity_heat: 0.38
+dv_has_value_for_conductivity_heat: 4.01
+dv_has_value_for_enthalpy: 13.05
+dv_has_value_for_energy_form_kj_mol: 300.3
+dv_has_number_of_period: 4
+dv_has_number_of_group: 11
+dv_has_name_abbreviated: Cu
+dv_has_number_of_electrons: 29
 ---
 
 # [[Copper]] 
@@ -139,32 +217,39 @@ ZVG_number: 8240
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Copper,753]] 
 
-[GroupName::Group-11-Copper]
-Group::[[../Group-11-Copper]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
+has_name_en = `=this.dv_has_name_en` 
 
-[#has_/name_/en::Copper]
-[#has_/name_/de::Kupfer]
-[#has_/value_for_/weight_/u::63.546]
-[AtomRadius::1.57]
-[Atom-Vol-ccm-mol::7.1]
-[Unknown2::1.17]
-[#has_/value_for_/radius_/nano_/m::7.726]
-[Electronegative::1.9]
-[Density::8.96]
-[#has_/value_for_/temperature_/melt_/c ::1083.4]
-[#has_/value_for_/temperature_/boil_/c ::2567]
-[HeatCapacity::0.38]
-[HeatConduct::4.01]
-[Enthalpy::13.05]
-[FormEnergy-kj-mol::300.3]
-(PeriodNo::4)
-(GroupNo::11)
+has_name_de = `=this.dv_has_name_de` 
+
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
+
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
+
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
+
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
+
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
+
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
+
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
+has_number_of_group = `=this.dv_has_number_of_group` 
 
 
 ## #has_/text_of_/abstract 
 
-> **Copper** is a chemical element with the symbol (Abbr::Cu) (from Latin: cuprum) and atomic number (Charge-e::29). 
+> **Copper** is a chemical element with the symbol has_name_abbreviated = `=this.dv_has_name_abbreviated`  (from Latin: cuprum) and atomic number has_number_of_electrons = `=this.dv_has_number_of_electrons` . 
 > It is a soft, malleable, and ductile metal with very high thermal and electrical conductivity. 
 > A freshly exposed surface of pure copper has a pinkish-orange color. 
 > 

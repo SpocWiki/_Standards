@@ -25,20 +25,21 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/supply :: HowToSupply, Text ] or 
+- [has_/supply :: HowToSupply, Text ] 
 - [ has_supply :: HowToSupply, Text ] 
 
 A sub-property of instrument. A supply consumed when performing instructions or a direction.
 
 Relation describes that: 
-[ #has_/domain  :: HowTo, HowToDirection ]
+
+#has_/domain  :: HowTo, HowToDirection  
+
 ( #has_/name :: is_supply )
 ( #has_/range :: HowToSupply, Text )
 
-[ #is_/sub_property_of  :: instrument ]
+#is_/sub_property_of  :: instrument  
 
-[ #has_/sub_properties :: [ ingredients, recipeIngredient ] ]
-
+#has_/sub_properties :: [ ingredients, recipeIngredient ]  
 
 ## Confidential Links & Embeds: 
 

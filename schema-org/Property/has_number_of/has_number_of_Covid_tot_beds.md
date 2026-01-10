@@ -29,16 +29,18 @@ type: Predi_Count
 
 Predicate to describe the Number of CDCPMDRecord.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/number_of_/Covid_tot_beds :: Number ] or 
+- [has_/number_of_/Covid_tot_beds :: Number ] 
 - [ has_number_of_Covid_tot_beds :: Number ] 
 
 numtotbeds - ALL HOSPITAL BEDS: Total number of all inpatient and outpatient beds, including all staffed, ICU, licensed, and overflow (surge) beds used for inpatients or outpatients.
 
 Predicate describes that: 
-[ #has_/domain  :: CDCPMDRecord ]
+
+#has_/domain  :: CDCPMDRecord  
+
 ( #has_/name :: has_number_of_Covid_tot_beds )
 ( #has_/range :: Number )
 

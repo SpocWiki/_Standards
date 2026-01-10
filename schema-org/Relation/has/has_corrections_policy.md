@@ -28,22 +28,23 @@ title: has_corrections_policy
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/corrections_policy :: CreativeWork, URL ] or 
+- [has_/corrections_policy :: CreativeWork, URL ] 
 - [ has_corrections_policy :: CreativeWork, URL ] 
 
 For an [[../../../Society/Agent/Community/Organization]] (e.g. [[NewsMediaOrganization]],
 a statement describing (in news media, the newsrooms) disclosure and correction policy for errors.
 
 Relation describes that: 
-[ #has_/domain  :: NewsMediaOrganization, Organization ]
+
+#has_/domain  :: NewsMediaOrganization, Organization  
+
 ( #has_/name :: has_corrections_policy )
 ( #has_/range :: CreativeWork, URL )
 
-[ #is_/sub_property_of  :: publishingPrinciples ]
-
+#is_/sub_property_of  :: publishingPrinciples  
 
 ## Confidential Links & Embeds: 
 

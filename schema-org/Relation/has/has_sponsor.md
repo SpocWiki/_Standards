@@ -25,18 +25,19 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/sponsor :: Organization, Person ] or 
+- [has_/sponsor :: Organization, Person ] 
 - [ has_sponsor :: Organization, Person ] 
 
 A person or organization that supports a thing through a pledge, promise, or financial contribution. E.g. a sponsor of a Medical Study or a corporate sponsor of an event.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork, Event, Grant, MedicalStudy, Organization, Person ]
+
+#has_/domain  :: CreativeWork, Event, Grant, MedicalStudy, Organization, Person  
+
 ( #has_/name :: is_sponsor )
 ( #has_/range :: Organization, Person )
 
-[ #has_/sub_properties :: [ funder ] ]
-
+#has_/sub_properties :: [ funder ]  
 
 ## Confidential Links & Embeds: 
 

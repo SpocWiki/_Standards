@@ -19,33 +19,33 @@ SPLASH:
   - splash10-03di-9000000000-801101cccfd6c25271d4
 RTECS_number: TB6300000
 found_in_taxon:
-  - '[[_Standards/WikiData/WD~Caenorhabditis_elegans,91703]]'
-  - '[[_Standards/WikiData/WD~Iris,156901]]'
-  - '[[_Standards/WikiData/WD~Arabidopsis_thaliana,158695]]'
-  - '[[_Standards/WikiData/WD~Triticum_aestivum,161098]]'
-  - '[[_Standards/WikiData/WD~Panax_ginseng,182881]]'
-  - '[[_Standards/WikiData/WD~Murraya_paniculata,238591]]'
-  - '[[_Standards/WikiData/WD~Angelica_gigas,1038017]]'
-  - '[[_Standards/WikiData/WD~Phycomyces_blakesleeanus,15632547]]'
-  - '[[_Standards/WikiData/WD~tomato_plant,23501]]'
-  - '[[_Standards/WikiData/WD~Ruta_graveolens,25062]]'
-  - '[[_Standards/WikiData/WD~Cannabis_sativa,26726]]'
-  - '[[_Standards/WikiData/WD~Apium_graveolens,28298]]'
+  - "[[_Standards/WikiData/WD~Caenorhabditis_elegans,91703]]"
+  - "[[_Standards/WikiData/WD~Iris,156901]]"
+  - "[[_Standards/WikiData/WD~Arabidopsis_thaliana,158695]]"
+  - "[[_Standards/WikiData/WD~Triticum_aestivum,161098]]"
+  - "[[_Standards/WikiData/WD~Panax_ginseng,182881]]"
+  - "[[_Standards/WikiData/WD~Murraya_paniculata,238591]]"
+  - "[[_Standards/WikiData/WD~Angelica_gigas,1038017]]"
+  - "[[_Standards/WikiData/WD~Phycomyces_blakesleeanus,15632547]]"
+  - "[[_Standards/WikiData/WD~tomato_plant,23501]]"
+  - "[[_Standards/WikiData/WD~Ruta_graveolens,25062]]"
+  - "[[_Standards/WikiData/WD~Cannabis_sativa,26726]]"
+  - "[[_Standards/WikiData/WD~Apium_graveolens,28298]]"
 has_use:
-  - '[[_Standards/WikiData/WD~food_additive,189567]]'
-  - '[[_Standards/WikiData/WD~acidity_regulator,898753]]'
-  - '[[_Standards/WikiData/WD~synergist,98637450]]'
-different_from: '[[_Standards/WikiData/WD~phosphorous_acid,407743]]'
-subject_has_role: '[[_Standards/WikiData/WD~dental_material,3040056]]'
+  - "[[_Standards/WikiData/WD~food_additive,189567]]"
+  - "[[_Standards/WikiData/WD~acidity_regulator,898753]]"
+  - "[[_Standards/WikiData/WD~synergist,98637450]]"
+different_from: "[[_Standards/WikiData/WD~phosphorous_acid,407743]]"
+subject_has_role: "[[_Standards/WikiData/WD~dental_material,3040056]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~triprotic_acid,7840341]]'
-  - '[[_Standards/WikiData/WD~inorganic_phosphorus_oxoacid,77941351]]'
-associated_hazard: '[[_Standards/WikiData/WD~phosphoric_acid_exposure,21175053]]'
-has_effect: '[[_Standards/WikiData/WD~phosphoric_acid_exposure,21175053]]'
-conjugate_base: '[[_Standards/WikiData/WD~dihydrogenphosphate_ion,27093789]]'
-safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
-has_part_s_: '[[_Standards/WikiData/WD~hydrogen,556]]'
+  - "[[_Standards/WikiData/WD~triprotic_acid,7840341]]"
+  - "[[_Standards/WikiData/WD~inorganic_phosphorus_oxoacid,77941351]]"
+associated_hazard: "[[_Standards/WikiData/WD~phosphoric_acid_exposure,21175053]]"
+has_effect: "[[_Standards/WikiData/WD~phosphoric_acid_exposure,21175053]]"
+conjugate_base: "[[_Standards/WikiData/WD~dihydrogenphosphate_ion,27093789]]"
+safety_classification_and_labelling: "[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]"
+has_part_s_: "[[_Standards/WikiData/WD~hydrogen,556]]"
 immediately_dangerous_to_life_or_health: 1000
 time_weighted_average_exposure_limit: 1
 melting_point:
@@ -82,12 +82,35 @@ Common_Procurement_Vocabulary_code: 24311420-7
 CAS_Registry_Number: 7664-38-2
 UMLS_CUI: C0031700
 DSSTOX_compound_identifier: DTXCID804263
+dv_has_:
+  formula_:
+    sum: H3PO4
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Phosphoric_acid,184782|WD~Phosphoric_acid,184782]]"
+    - "[[/_Standards/Chemistry/Inorganic_Chemistry/Acid/Phosphoric_Acid|Phosphoric_Acid]]"
+    - "[[/_public/Chemistry/Inorganic_Chemistry/Acid/Phosphoric_Acid.public|Phosphoric_Acid.public]]"
+    - "[[/_internal/Chemistry/Inorganic_Chemistry/Acid/Phosphoric_Acid.internal|Phosphoric_Acid.internal]]"
+    - "[[/_protect/Chemistry/Inorganic_Chemistry/Acid/Phosphoric_Acid.protect|Phosphoric_Acid.protect]]"
+    - "[[/_private/Chemistry/Inorganic_Chemistry/Acid/Phosphoric_Acid.private|Phosphoric_Acid.private]]"
+    - "[[/_personal/Chemistry/Inorganic_Chemistry/Acid/Phosphoric_Acid.personal|Phosphoric_Acid.personal]]"
+    - "[[/_secret/Chemistry/Inorganic_Chemistry/Acid/Phosphoric_Acid.secret|Phosphoric_Acid.secret]]"
+dv_has_formula_sum: H3PO4
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Phosphoric_acid,184782|WD~Phosphoric_acid,184782]]"
+  - "[[/_Standards/Chemistry/Inorganic_Chemistry/Acid/Phosphoric_Acid|Phosphoric_Acid]]"
+  - "[[/_public/Chemistry/Inorganic_Chemistry/Acid/Phosphoric_Acid.public|Phosphoric_Acid.public]]"
+  - "[[/_internal/Chemistry/Inorganic_Chemistry/Acid/Phosphoric_Acid.internal|Phosphoric_Acid.internal]]"
+  - "[[/_protect/Chemistry/Inorganic_Chemistry/Acid/Phosphoric_Acid.protect|Phosphoric_Acid.protect]]"
+  - "[[/_private/Chemistry/Inorganic_Chemistry/Acid/Phosphoric_Acid.private|Phosphoric_Acid.private]]"
+  - "[[/_personal/Chemistry/Inorganic_Chemistry/Acid/Phosphoric_Acid.personal|Phosphoric_Acid.personal]]"
+  - "[[/_secret/Chemistry/Inorganic_Chemistry/Acid/Phosphoric_Acid.secret|Phosphoric_Acid.secret]]"
 ---
 
 # [[Phosphoric_Acid]] 
 
 
-#has_/formula_/sum :: H3PO4 
+has_formula_sum = `=this.dv_has_formula_sum` 
 #is_/same_as :: [[../../../WikiData/WD~Phosphoric_acid,184782|WD~Phosphoric_acid,184782]]  
 
 ## #has_/text_of_/abstract 

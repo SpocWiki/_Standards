@@ -9,35 +9,64 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - reserved_ticket
   - reserved
   - ticket
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_reserved_ticket
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_reserved_ticket
 type: Predi_Relation
+dv_has_:
+  reserved_ticket: Ticket
+  domain: Reservation
+dv_has_reserved_ticket: Ticket
+dv_#has_:
+  name: is_reserved_ticket
+  range: Ticket
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_reserved_ticket|has_reserved_ticket]]"
+    - "[[/_public/schema-org/Relation/has/has_reserved_ticket.public|has_reserved_ticket.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_reserved_ticket.internal|has_reserved_ticket.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_reserved_ticket.protect|has_reserved_ticket.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_reserved_ticket.private|has_reserved_ticket.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_reserved_ticket.personal|has_reserved_ticket.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_reserved_ticket.secret|has_reserved_ticket.secret]]"
+dv_has_domain: Reservation
+dv_has_name: is_reserved_ticket
+dv_has_range: Ticket
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_reserved_ticket|has_reserved_ticket]]"
+  - "[[/_public/schema-org/Relation/has/has_reserved_ticket.public|has_reserved_ticket.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_reserved_ticket.internal|has_reserved_ticket.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_reserved_ticket.protect|has_reserved_ticket.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_reserved_ticket.private|has_reserved_ticket.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_reserved_ticket.personal|has_reserved_ticket.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_reserved_ticket.secret|has_reserved_ticket.secret]]"
 ---
 
 Use it like this: 
-- [ #has_/reserved_ticket :: Ticket ] or 
-- [ has_reserved_ticket :: Ticket ] 
+- has_reserved_ticket = `=this.dv_has_reserved_ticket`  
+- has_reserved_ticket = `=this.dv_has_reserved_ticket`  
 
 A ticket associated with the reservation.
 
 Relation describes that: 
-[ #has_/domain  :: Reservation ]
-( #has_/name :: is_reserved_ticket )
-( #has_/range :: Ticket )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

@@ -41,18 +41,19 @@ Enumerating Examples is rarely exact or exhaustive, but very helpful for Humans 
 Therefore the partially inverse Relation is included in the non-standard more generic [[has_examples]] Relation. 
 
 Use it like this: 
-- [ #has_/work_example :: CreativeWork ] or 
+- [has_/work_example :: CreativeWork ] 
 - [ has_work_example :: CreativeWork ] 
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork ]
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: is_work_example )
 ( #has_/range :: CreativeWork )
 
-[ #is_/inverse_of  :: exampleOfWork ]
+#is_/inverse_of  :: exampleOfWork  
 
-[ #has_/sub_properties :: [ appearance, firstAppearance ] ]
-
+#has_/sub_properties :: [ appearance, firstAppearance ]  
 
 ## Confidential Links & Embeds: 
 

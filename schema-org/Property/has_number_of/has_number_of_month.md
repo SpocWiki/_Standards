@@ -29,16 +29,18 @@ type: Predi_Count
 
 Predicate to describe the Number of Schedule.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/number_of_/month :: Integer ] or 
+- [has_/number_of_/month :: Integer ] 
 - [ has_number_of_month :: Integer ] 
 
 Defines the month(s) of the year on which a recurring [[Event]] takes place. Specified as an [[Integer]] between 1-12. January is 1.
 
 Predicate describes that: 
-[ #has_/domain  :: Schedule ]
+
+#has_/domain  :: Schedule  
+
 ( #has_/name :: has_number_of_month )
 ( #has_/range :: Integer )
 

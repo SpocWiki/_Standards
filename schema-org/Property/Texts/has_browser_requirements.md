@@ -11,36 +11,66 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - browser
   - requirements
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_browser_requirements
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_browser_requirements
 type: Pred_Text
+dv_has_:
+  text_of_:
+    browser_requirements: Text
+  domain: WebApplication
+dv_has_text_of_browser_requirements: Text
+dv_#has_:
+  name: has_text_of_browser_requirements
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/Texts/has_browser_requirements|has_browser_requirements]]"
+    - "[[/_public/schema-org/Property/Texts/has_browser_requirements.public|has_browser_requirements.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_browser_requirements.internal|has_browser_requirements.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_browser_requirements.protect|has_browser_requirements.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_browser_requirements.private|has_browser_requirements.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_browser_requirements.personal|has_browser_requirements.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_browser_requirements.secret|has_browser_requirements.secret]]"
+dv_has_domain: WebApplication
+dv_has_name: has_text_of_browser_requirements
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Texts/has_browser_requirements|has_browser_requirements]]"
+  - "[[/_public/schema-org/Property/Texts/has_browser_requirements.public|has_browser_requirements.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_browser_requirements.internal|has_browser_requirements.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_browser_requirements.protect|has_browser_requirements.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_browser_requirements.private|has_browser_requirements.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_browser_requirements.personal|has_browser_requirements.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_browser_requirements.secret|has_browser_requirements.secret]]"
 ---
 
 Predicate to describe the Text of WebApplication.
 
 Use it like this: 
-- [ #has_/text_of_/browser_requirements :: Text ] or 
-- [ has_text_of_browser_requirements :: Text ] 
+- has_text_of_browser_requirements = `=this.dv_has_text_of_browser_requirements`  
+- has_text_of_browser_requirements = `=this.dv_has_text_of_browser_requirements`  
 
 Specifies browser requirements in human-readable text. For example, "requires HTML5 support".
 
 Predicated describes that: 
-[ #has_/domain  :: WebApplication ]
-( #has_/name :: has_text_of_browser_requirements )
-( #has_/range :: Text )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

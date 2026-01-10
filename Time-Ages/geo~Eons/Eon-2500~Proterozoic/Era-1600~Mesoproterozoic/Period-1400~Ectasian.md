@@ -29,15 +29,95 @@ start_time: -1400000000-01-01T00:00:00Z
 Commons_category: Ectasian
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Paleoglobe%20NO%201260%20mya.gif
 sRGB_color_hex_triplet: FDCC8A
+dv_has_:
+  duration_:
+    years: "2.000e+8"
+  previous_:
+    item: "[[Period-1600~Calymmian]]"
+  next_:
+    item: "[[Period-1200~Stenian]]"
+  name_:
+    bg: Ектаз
+    cs: Ectas
+    da: Ectasien
+    de: Ectasium
+    es: Ectasiense
+    et: Ectas
+    fi: Ectas
+    fr: Ectasien
+    hu: ectasi
+    it: ectasiano
+    ja: エクタシアン紀
+    lt: Ektasis
+    nl: Ectasiën
+    no: Ektasium
+    pl: Ektas
+    pt: Ectasiano
+    sk: ektazium
+    sl: ectasij
+    sv: ectasium
+    zh: 延展纪
+    abbreviated: MP2
+  time_:
+    started: -1400000000
+    stopped: -1200000000
+  text_of_:
+    color: "0xFDCC8A"
+dv_is_:
+  same_as:
+    - "[[WD~Ectasian,367597]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian|Period-1400~Ectasian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian.public|Period-1400~Ectasian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian.internal|Period-1400~Ectasian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian.protect|Period-1400~Ectasian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian.private|Period-1400~Ectasian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian.personal|Period-1400~Ectasian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian.secret|Period-1400~Ectasian.secret]]"
+dv_has_duration_years: "2.000e+8"
+dv_has_previous_item: "[[Period-1600~Calymmian]]"
+dv_has_next_item: "[[Period-1200~Stenian]]"
+dv_is_same_as:
+  - "[[WD~Ectasian,367597]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian|Period-1400~Ectasian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian.public|Period-1400~Ectasian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian.internal|Period-1400~Ectasian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian.protect|Period-1400~Ectasian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian.private|Period-1400~Ectasian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian.personal|Period-1400~Ectasian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-1600~Mesoproterozoic/Period-1400~Ectasian.secret|Period-1400~Ectasian.secret]]"
+dv_has_name_bg: Ектаз
+dv_has_name_cs: Ectas
+dv_has_name_da: Ectasien
+dv_has_name_de: Ectasium
+dv_has_name_es: Ectasiense
+dv_has_name_et: Ectas
+dv_has_name_fi: Ectas
+dv_has_name_fr: Ectasien
+dv_has_name_hu: ectasi
+dv_has_name_it: ectasiano
+dv_has_name_ja: エクタシアン紀
+dv_has_name_lt: Ektasis
+dv_has_name_nl: Ectasiën
+dv_has_name_no: Ektasium
+dv_has_name_pl: Ektas
+dv_has_name_pt: Ectasiano
+dv_has_name_sk: ektazium
+dv_has_name_sl: ectasij
+dv_has_name_sv: ectasium
+dv_has_name_zh: 延展纪
+dv_has_name_abbreviated: MP2
+dv_has_time_started: -1400000000
+dv_has_time_stopped: -1200000000
+dv_has_text_of_color: "0xFDCC8A"
 ---
 # [[Period-1400~Ectasian]]
 
 #is_a_/time_/Period 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[Period-1600~Calymmian]] 
-#has_/next_/item :: [[Period-1200~Stenian]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Ectasian,367597]]  
 
 ## #has_/text_of_/abstract 
@@ -57,35 +137,35 @@ sRGB_color_hex_triplet: FDCC8A
 > [Wikipedia](https://en.wikipedia.org/wiki/Ectasian) 
 
 
-#has_/name_/bg  :: Ектаз
-#has_/name_/cs  :: Ectas
-#has_/name_/da  :: Ectasien
-#has_/name_/de  :: Ectasium
-#has_/name_/es  :: Ectasiense
-#has_/name_/et  :: Ectas
-#has_/name_/fi  :: Ectas
-#has_/name_/fr  :: Ectasien
-#has_/name_/hu  :: ectasi
-#has_/name_/it  :: ectasiano
-#has_/name_/ja  :: エクタシアン紀
-#has_/name_/lt  :: Ektasis
-#has_/name_/nl  :: Ectasiën
-#has_/name_/no  :: Ektasium
-#has_/name_/pl  :: Ektas
-#has_/name_/pt  :: Ectasiano
-#has_/name_/sk  :: ektazium
-#has_/name_/sl  :: ectasij
-#has_/name_/sv  :: ectasium
-#has_/name_/zh  :: 延展纪
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/abbreviation :: MP2
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
-#has_/time_/started :: -1400e6 
-#has_/time_/stopped :: -1200e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 163 
 
-#has_/text_of_/color :: 0xFDCC8A
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

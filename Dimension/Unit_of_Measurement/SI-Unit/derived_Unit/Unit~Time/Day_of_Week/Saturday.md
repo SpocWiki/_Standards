@@ -87,9 +87,9 @@ Tag Instances like this:
 
 The day of the week between Friday and Sunday.
 
-[ #is_/sub_class_of :: [[../DayOfWeek]] ]
+#is_/sub_class_of :: [[../DayOfWeek]]  
 
-[ #is_/enum_of :: [[../DayOfWeek]] ]
+#is_/enum_of :: [[../DayOfWeek]]  
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Saturday,131|WD~Saturday,131]] 
 

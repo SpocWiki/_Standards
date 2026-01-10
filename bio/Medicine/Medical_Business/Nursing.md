@@ -83,9 +83,9 @@ Tag Instances like this:
 
 A health profession of a person formally educated and trained in the care of the sick or infirm person.
 
-[ #is_/sub_class_of :: [[../MedicalBusiness, MedicalSpecialty]] ]
+#is_/sub_class_of :: [[../MedicalBusiness, MedicalSpecialty]]  
 
-[ #is_/enum_of :: [[../MedicalSpecialty]] ]
+#is_/enum_of :: [[../MedicalSpecialty]]  
 
 #is_/same_as :: [[../../../WikiData/WD~Nursing,121176|WD~Nursing,121176]] 
 

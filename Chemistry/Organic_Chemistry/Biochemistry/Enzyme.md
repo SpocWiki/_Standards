@@ -30,6 +30,23 @@ Common_Procurement_Vocabulary_code: 24965000-6
 UMLS_CUI: C0014442
 MeSH_tree_code: D08.811
 Krugosvet_article_archived_: nauka_i_tehnika/biologiya/FERMENTI.html
+dv_is_:
+  same_as:
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Enzyme|Enzyme]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.public|Enzyme.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.internal|Enzyme.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.protect|Enzyme.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.private|Enzyme.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.personal|Enzyme.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.secret|Enzyme.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Enzyme|Enzyme]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.public|Enzyme.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.internal|Enzyme.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.protect|Enzyme.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.private|Enzyme.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.personal|Enzyme.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.secret|Enzyme.secret]]"
 ---
 
 # [[Enzyme]] 

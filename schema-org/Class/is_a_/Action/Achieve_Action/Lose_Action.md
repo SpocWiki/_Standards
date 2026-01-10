@@ -10,21 +10,43 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - lose_action
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_lose_action Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_lose_action Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../AchieveAction]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Action/Achieve_Action/Lose_Action|Lose_Action]]"
+    - "[[/_public/schema-org/Class/is_a_/Action/Achieve_Action/Lose_Action.public|Lose_Action.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Action/Achieve_Action/Lose_Action.internal|Lose_Action.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Action/Achieve_Action/Lose_Action.protect|Lose_Action.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Action/Achieve_Action/Lose_Action.private|Lose_Action.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Action/Achieve_Action/Lose_Action.personal|Lose_Action.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Action/Achieve_Action/Lose_Action.secret|Lose_Action.secret]]"
+dv_has_:
+  properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url, winner ]"
+dv_is_sub_class_of: "[[../AchieveAction]]"
+dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url, winner ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Action/Achieve_Action/Lose_Action|Lose_Action]]"
+  - "[[/_public/schema-org/Class/is_a_/Action/Achieve_Action/Lose_Action.public|Lose_Action.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Action/Achieve_Action/Lose_Action.internal|Lose_Action.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Action/Achieve_Action/Lose_Action.protect|Lose_Action.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Action/Achieve_Action/Lose_Action.private|Lose_Action.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Action/Achieve_Action/Lose_Action.personal|Lose_Action.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Action/Achieve_Action/Lose_Action.secret|Lose_Action.secret]]"
 ---
 
 Class of all lose_actions.
@@ -36,10 +58,9 @@ Tag Instances like this:
 
 The act of being defeated in a competitive activity.
 
-[ #is_/sub_class_of :: [[../AchieveAction]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url, winner ] ]
-
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

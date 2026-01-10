@@ -9,35 +9,64 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - imaging_technique
   - imaging
   - technique
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_imaging_technique
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_imaging_technique
 type: Predi_Relation
+dv_has_:
+  imaging_technique: MedicalImagingTechnique
+  domain: ImagingTest
+dv_has_imaging_technique: MedicalImagingTechnique
+dv_#has_:
+  name: has_imaging_technique
+  range: MedicalImagingTechnique
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_imaging_technique|has_imaging_technique]]"
+    - "[[/_public/schema-org/Relation/has/has_imaging_technique.public|has_imaging_technique.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_imaging_technique.internal|has_imaging_technique.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_imaging_technique.protect|has_imaging_technique.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_imaging_technique.private|has_imaging_technique.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_imaging_technique.personal|has_imaging_technique.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_imaging_technique.secret|has_imaging_technique.secret]]"
+dv_has_domain: ImagingTest
+dv_has_name: has_imaging_technique
+dv_has_range: MedicalImagingTechnique
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_imaging_technique|has_imaging_technique]]"
+  - "[[/_public/schema-org/Relation/has/has_imaging_technique.public|has_imaging_technique.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_imaging_technique.internal|has_imaging_technique.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_imaging_technique.protect|has_imaging_technique.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_imaging_technique.private|has_imaging_technique.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_imaging_technique.personal|has_imaging_technique.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_imaging_technique.secret|has_imaging_technique.secret]]"
 ---
 
 Use it like this: 
-- [ #has_/imaging_technique :: MedicalImagingTechnique ] or 
-- [ has_imaging_technique :: MedicalImagingTechnique ] 
+- has_imaging_technique = `=this.dv_has_imaging_technique`  
+- has_imaging_technique = `=this.dv_has_imaging_technique`  
 
 Imaging technique used.
 
 Relation describes that: 
-[ #has_/domain  :: ImagingTest ]
-( #has_/name :: has_imaging_technique )
-( #has_/range :: MedicalImagingTechnique )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

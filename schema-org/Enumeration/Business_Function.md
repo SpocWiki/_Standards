@@ -10,21 +10,40 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - business_function
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_business_function Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_business_function Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../Enumeration]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Business_Function|Business_Function]]"
+    - "[[/_public/schema-org/Enumeration/Business_Function.public|Business_Function.public]]"
+    - "[[/_internal/schema-org/Enumeration/Business_Function.internal|Business_Function.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Business_Function.protect|Business_Function.protect]]"
+    - "[[/_private/schema-org/Enumeration/Business_Function.private|Business_Function.private]]"
+    - "[[/_personal/schema-org/Enumeration/Business_Function.personal|Business_Function.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Business_Function.secret|Business_Function.secret]]"
+dv_is_sub_class_of: "[[../Enumeration]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Business_Function|Business_Function]]"
+  - "[[/_public/schema-org/Enumeration/Business_Function.public|Business_Function.public]]"
+  - "[[/_internal/schema-org/Enumeration/Business_Function.internal|Business_Function.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Business_Function.protect|Business_Function.protect]]"
+  - "[[/_private/schema-org/Enumeration/Business_Function.private|Business_Function.private]]"
+  - "[[/_personal/schema-org/Enumeration/Business_Function.personal|Business_Function.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Business_Function.secret|Business_Function.secret]]"
 ---
 
 Class of all business_functions.
@@ -47,8 +66,7 @@ Commonly used values:
 <li>http://purl.org/goodrelations/v1#Buy</li>
 </ul>
 
-[ #is_/sub_class_of :: [[../Enumeration]] ]
-
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
 ## Confidential Links & Embeds: 
 

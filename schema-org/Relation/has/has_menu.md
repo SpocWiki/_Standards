@@ -7,33 +7,62 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - menu
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_menu
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_menu
 type: Predi_Relation
+dv_has_:
+  menu: Menu, Text, URL
+  domain: FoodEstablishment
+dv_has_menu: Menu, Text, URL
+dv_#has_:
+  name: has_menu
+  range: Menu, Text, URL
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_menu|has_menu]]"
+    - "[[/_public/schema-org/Relation/has/has_menu.public|has_menu.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_menu.internal|has_menu.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_menu.protect|has_menu.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_menu.private|has_menu.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_menu.personal|has_menu.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_menu.secret|has_menu.secret]]"
+dv_has_domain: FoodEstablishment
+dv_has_name: has_menu
+dv_has_range: Menu, Text, URL
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_menu|has_menu]]"
+  - "[[/_public/schema-org/Relation/has/has_menu.public|has_menu.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_menu.internal|has_menu.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_menu.protect|has_menu.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_menu.private|has_menu.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_menu.personal|has_menu.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_menu.secret|has_menu.secret]]"
 ---
 
 Use it like this: 
-- [ #has_/menu :: Menu, Text, URL ] or 
-- [ has_menu :: Menu, Text, URL ] 
+- has_menu = `=this.dv_has_menu`  
+- has_menu = `=this.dv_has_menu`  
 
 Either the actual menu as a structured representation, as text, or a URL of the menu.
 
 Relation describes that: 
-[ #has_/domain  :: FoodEstablishment ]
-( #has_/name :: has_menu )
-( #has_/range :: Menu, Text, URL )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

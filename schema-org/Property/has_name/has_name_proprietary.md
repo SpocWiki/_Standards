@@ -10,36 +10,65 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - proprietary
   - name
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_name_proprietary
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_name_proprietary
 type: Pred_Text
+dv_has_:
+  name_proprietary: Text
+  domain: DietarySupplement, Drug
+dv_has_name_proprietary: Text
+dv_#has_:
+  name: has_name_proprietary
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_name/has_name_proprietary|has_name_proprietary]]"
+    - "[[/_public/schema-org/Property/has_name/has_name_proprietary.public|has_name_proprietary.public]]"
+    - "[[/_internal/schema-org/Property/has_name/has_name_proprietary.internal|has_name_proprietary.internal]]"
+    - "[[/_protect/schema-org/Property/has_name/has_name_proprietary.protect|has_name_proprietary.protect]]"
+    - "[[/_private/schema-org/Property/has_name/has_name_proprietary.private|has_name_proprietary.private]]"
+    - "[[/_personal/schema-org/Property/has_name/has_name_proprietary.personal|has_name_proprietary.personal]]"
+    - "[[/_secret/schema-org/Property/has_name/has_name_proprietary.secret|has_name_proprietary.secret]]"
+dv_has_domain: DietarySupplement, Drug
+dv_has_name: has_name_proprietary
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_name/has_name_proprietary|has_name_proprietary]]"
+  - "[[/_public/schema-org/Property/has_name/has_name_proprietary.public|has_name_proprietary.public]]"
+  - "[[/_internal/schema-org/Property/has_name/has_name_proprietary.internal|has_name_proprietary.internal]]"
+  - "[[/_protect/schema-org/Property/has_name/has_name_proprietary.protect|has_name_proprietary.protect]]"
+  - "[[/_private/schema-org/Property/has_name/has_name_proprietary.private|has_name_proprietary.private]]"
+  - "[[/_personal/schema-org/Property/has_name/has_name_proprietary.personal|has_name_proprietary.personal]]"
+  - "[[/_secret/schema-org/Property/has_name/has_name_proprietary.secret|has_name_proprietary.secret]]"
 ---
 
 Predicate to describe the Text of DietarySupplement, Drug.
 
 Use it like this: 
-- [ #has_/name_proprietary :: Text ] or 
-- [ has_name_proprietary :: Text ] 
+- has_name_proprietary = `=this.dv_has_name_proprietary`  
+- has_name_proprietary = `=this.dv_has_name_proprietary`  
 
 Proprietary name given to the diet plan, typically by its originator or creator.
 
 Predicated describes that: 
-[ #has_/domain  :: DietarySupplement, Drug ]
-( #has_/name :: has_name_proprietary )
-( #has_/range :: Text )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

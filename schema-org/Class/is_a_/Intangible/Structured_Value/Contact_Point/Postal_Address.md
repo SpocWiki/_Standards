@@ -10,21 +10,43 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - postal_address
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_postal_address Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_postal_address Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../ContactPoint]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address|Postal_Address]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address.public|Postal_Address.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address.internal|Postal_Address.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address.protect|Postal_Address.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address.private|Postal_Address.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address.personal|Postal_Address.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address.secret|Postal_Address.secret]]"
+dv_has_:
+  properties: "[ additionalType, addressCountry, addressLocality, addressRegion, alternateName, areaServed, availableLanguage, contactOption, contactType, description, disambiguatingDescription, email, faxNumber, hoursAvailable, identifier, image, mainEntityOfPage, name, postOfficeBoxNumber, postalCode, potentialAction, productSupported, sameAs, serviceArea, streetAddress, subjectOf, telephone, url ]"
+dv_is_sub_class_of: "[[../ContactPoint]]"
+dv_has_properties: "[ additionalType, addressCountry, addressLocality, addressRegion, alternateName, areaServed, availableLanguage, contactOption, contactType, description, disambiguatingDescription, email, faxNumber, hoursAvailable, identifier, image, mainEntityOfPage, name, postOfficeBoxNumber, postalCode, potentialAction, productSupported, sameAs, serviceArea, streetAddress, subjectOf, telephone, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address|Postal_Address]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address.public|Postal_Address.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address.internal|Postal_Address.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address.protect|Postal_Address.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address.private|Postal_Address.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address.personal|Postal_Address.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address.secret|Postal_Address.secret]]"
 ---
 
 Class of all postal_addresss.
@@ -34,10 +56,9 @@ Tag Instances like this:
 
 The mailing address.
 
-[ #is_/sub_class_of :: [[../ContactPoint]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #has_/properties :: [ additionalType, addressCountry, addressLocality, addressRegion, alternateName, areaServed, availableLanguage, contactOption, contactType, description, disambiguatingDescription, email, faxNumber, hoursAvailable, identifier, image, mainEntityOfPage, name, postOfficeBoxNumber, postalCode, potentialAction, productSupported, sameAs, serviceArea, streetAddress, subjectOf, telephone, url ] ]
-
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

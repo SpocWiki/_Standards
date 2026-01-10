@@ -11,21 +11,42 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: ItemAvailability
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - pre_order
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_pre_ordered Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_pre_ordered Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../ItemAvailability]]"
+  enum_of: "[[../ItemAvailability]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Item_Availability/Pre_Order|Pre_Order]]"
+    - "[[/_public/schema-org/Enumeration/Item_Availability/Pre_Order.public|Pre_Order.public]]"
+    - "[[/_internal/schema-org/Enumeration/Item_Availability/Pre_Order.internal|Pre_Order.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Item_Availability/Pre_Order.protect|Pre_Order.protect]]"
+    - "[[/_private/schema-org/Enumeration/Item_Availability/Pre_Order.private|Pre_Order.private]]"
+    - "[[/_personal/schema-org/Enumeration/Item_Availability/Pre_Order.personal|Pre_Order.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Item_Availability/Pre_Order.secret|Pre_Order.secret]]"
+dv_is_sub_class_of: "[[../ItemAvailability]]"
+dv_is_enum_of: "[[../ItemAvailability]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Item_Availability/Pre_Order|Pre_Order]]"
+  - "[[/_public/schema-org/Enumeration/Item_Availability/Pre_Order.public|Pre_Order.public]]"
+  - "[[/_internal/schema-org/Enumeration/Item_Availability/Pre_Order.internal|Pre_Order.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Item_Availability/Pre_Order.protect|Pre_Order.protect]]"
+  - "[[/_private/schema-org/Enumeration/Item_Availability/Pre_Order.private|Pre_Order.private]]"
+  - "[[/_personal/schema-org/Enumeration/Item_Availability/Pre_Order.personal|Pre_Order.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Item_Availability/Pre_Order.secret|Pre_Order.secret]]"
 ---
 
 Class of all pre_orders.
@@ -35,10 +56,9 @@ Tag Instances like this:
 
 Indicates that the item is available for pre-order.
 
-[ #is_/sub_class_of :: [[../ItemAvailability]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #is_/enum_of :: [[../ItemAvailability]] ]
-
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

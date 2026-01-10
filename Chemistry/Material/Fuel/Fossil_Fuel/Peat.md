@@ -23,6 +23,25 @@ UNSPSC_Code: "15101603"
 Commons_gallery: Peat
 Commons_category: Peat
 OpenStreetMap_tag: resource=peat
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Peat,184624]]"
+    - "[[/_Standards/Chemistry/Material/Fuel/Fossil_Fuel/Peat|Peat]]"
+    - "[[/_public/Chemistry/Material/Fuel/Fossil_Fuel/Peat.public|Peat.public]]"
+    - "[[/_internal/Chemistry/Material/Fuel/Fossil_Fuel/Peat.internal|Peat.internal]]"
+    - "[[/_protect/Chemistry/Material/Fuel/Fossil_Fuel/Peat.protect|Peat.protect]]"
+    - "[[/_private/Chemistry/Material/Fuel/Fossil_Fuel/Peat.private|Peat.private]]"
+    - "[[/_personal/Chemistry/Material/Fuel/Fossil_Fuel/Peat.personal|Peat.personal]]"
+    - "[[/_secret/Chemistry/Material/Fuel/Fossil_Fuel/Peat.secret|Peat.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Peat,184624]]"
+  - "[[/_Standards/Chemistry/Material/Fuel/Fossil_Fuel/Peat|Peat]]"
+  - "[[/_public/Chemistry/Material/Fuel/Fossil_Fuel/Peat.public|Peat.public]]"
+  - "[[/_internal/Chemistry/Material/Fuel/Fossil_Fuel/Peat.internal|Peat.internal]]"
+  - "[[/_protect/Chemistry/Material/Fuel/Fossil_Fuel/Peat.protect|Peat.protect]]"
+  - "[[/_private/Chemistry/Material/Fuel/Fossil_Fuel/Peat.private|Peat.private]]"
+  - "[[/_personal/Chemistry/Material/Fuel/Fossil_Fuel/Peat.personal|Peat.personal]]"
+  - "[[/_secret/Chemistry/Material/Fuel/Fossil_Fuel/Peat.secret|Peat.secret]]"
 ---
 
 # [[Peat]] 

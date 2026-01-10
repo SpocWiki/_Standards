@@ -10,21 +10,40 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - warranty_scope
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_warranty_scope Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_warranty_scope Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../Enumeration]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Warranty_Scope|Warranty_Scope]]"
+    - "[[/_public/schema-org/Enumeration/Warranty_Scope.public|Warranty_Scope.public]]"
+    - "[[/_internal/schema-org/Enumeration/Warranty_Scope.internal|Warranty_Scope.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Warranty_Scope.protect|Warranty_Scope.protect]]"
+    - "[[/_private/schema-org/Enumeration/Warranty_Scope.private|Warranty_Scope.private]]"
+    - "[[/_personal/schema-org/Enumeration/Warranty_Scope.personal|Warranty_Scope.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Warranty_Scope.secret|Warranty_Scope.secret]]"
+dv_is_sub_class_of: "[[../Enumeration]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Warranty_Scope|Warranty_Scope]]"
+  - "[[/_public/schema-org/Enumeration/Warranty_Scope.public|Warranty_Scope.public]]"
+  - "[[/_internal/schema-org/Enumeration/Warranty_Scope.internal|Warranty_Scope.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Warranty_Scope.protect|Warranty_Scope.protect]]"
+  - "[[/_private/schema-org/Enumeration/Warranty_Scope.private|Warranty_Scope.private]]"
+  - "[[/_personal/schema-org/Enumeration/Warranty_Scope.personal|Warranty_Scope.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Warranty_Scope.secret|Warranty_Scope.secret]]"
 ---
 
 Class of all warranty_scopes.
@@ -42,8 +61,7 @@ Commonly used values:
 <li>http://purl.org/goodrelations/v1#PartsAndLabor-PickUp</li>
 </ul>
 
-[ #is_/sub_class_of :: [[../Enumeration]] ]
-
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
 ## Confidential Links & Embeds: 
 

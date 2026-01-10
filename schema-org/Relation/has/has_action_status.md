@@ -7,35 +7,64 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - action
   - status
   - actionStatus
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_action_status
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_action_status
 type: Predi_Relation
+dv_has_:
+  action_status: ActionStatusType
+  domain: Action
+dv_has_action_status: ActionStatusType
+dv_#has_:
+  name: has_action_status
+  range: ActionStatusType
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_action_status|has_action_status]]"
+    - "[[/_public/schema-org/Relation/has/has_action_status.public|has_action_status.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_action_status.internal|has_action_status.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_action_status.protect|has_action_status.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_action_status.private|has_action_status.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_action_status.personal|has_action_status.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_action_status.secret|has_action_status.secret]]"
+dv_has_domain: Action
+dv_has_name: has_action_status
+dv_has_range: ActionStatusType
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_action_status|has_action_status]]"
+  - "[[/_public/schema-org/Relation/has/has_action_status.public|has_action_status.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_action_status.internal|has_action_status.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_action_status.protect|has_action_status.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_action_status.private|has_action_status.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_action_status.personal|has_action_status.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_action_status.secret|has_action_status.secret]]"
 ---
 
 Use it like this: 
-- [ #has_/action_status :: ActionStatusType ] or 
-- [ has_action_status :: ActionStatusType ] 
+- has_action_status = `=this.dv_has_action_status`  
+- has_action_status = `=this.dv_has_action_status`  
 
 Indicates the current disposition of the Action.
 
 Relation describes that: 
-[ #has_/domain  :: Action ]
-( #has_/name :: has_action_status )
-( #has_/range :: ActionStatusType )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

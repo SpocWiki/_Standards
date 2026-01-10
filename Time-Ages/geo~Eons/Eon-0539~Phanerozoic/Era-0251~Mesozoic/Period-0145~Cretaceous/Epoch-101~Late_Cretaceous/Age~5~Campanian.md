@@ -16,6 +16,86 @@ coordinate_location: Point(12.58283 43.36267)
 Commons_category: Campanian
 start_time: -83600000-01-01T00:00:00Z
 sRGB_color_hex_triplet: EAED93
+dv_has_:
+  duration_:
+    years: "1.150e+7"
+  previous_:
+    item: "[[../../../Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~1~Gelasian|Gelasian]]"
+  next_:
+    item: "[[../../../Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian|Chibanian]]"
+  name_:
+    bg: Кампан
+    cs: Campan
+    da: Campanien
+    de: Campanium
+    es: Campaniense
+    et: Campani
+    fi: Campan
+    fr: Campanien
+    hu: campaniai
+    it: campaniano
+    ja: カンパニアン期
+    lt: Kampanis
+    nl: Campaniën
+    no: Campanium
+    pl: Kampan
+    pt: Campaniano
+    sk: kampán
+    sl: campanij
+    sv: campan
+    zh: 坎佩尼期
+    abbreviated: k5
+  time_:
+    started: "-83.6e6"
+    stopped: "-72.1e6"
+  text_of_:
+    color: "0xE6F47F"
+dv_is_:
+  same_as:
+    - "[[WD~Campanian,492941]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian|Age~5~Campanian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian.public|Age~5~Campanian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian.internal|Age~5~Campanian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian.protect|Age~5~Campanian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian.private|Age~5~Campanian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian.personal|Age~5~Campanian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian.secret|Age~5~Campanian.secret]]"
+dv_has_duration_years: "1.150e+7"
+dv_has_previous_item: "[[../../../Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~1~Gelasian|Gelasian]]"
+dv_has_next_item: "[[../../../Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian|Chibanian]]"
+dv_is_same_as:
+  - "[[WD~Campanian,492941]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian|Age~5~Campanian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian.public|Age~5~Campanian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian.internal|Age~5~Campanian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian.protect|Age~5~Campanian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian.private|Age~5~Campanian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian.personal|Age~5~Campanian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~5~Campanian.secret|Age~5~Campanian.secret]]"
+dv_has_name_bg: Кампан
+dv_has_name_cs: Campan
+dv_has_name_da: Campanien
+dv_has_name_de: Campanium
+dv_has_name_es: Campaniense
+dv_has_name_et: Campani
+dv_has_name_fi: Campan
+dv_has_name_fr: Campanien
+dv_has_name_hu: campaniai
+dv_has_name_it: campaniano
+dv_has_name_ja: カンパニアン期
+dv_has_name_lt: Kampanis
+dv_has_name_nl: Campaniën
+dv_has_name_no: Campanium
+dv_has_name_pl: Kampan
+dv_has_name_pt: Campaniano
+dv_has_name_sk: kampán
+dv_has_name_sl: campanij
+dv_has_name_sv: campan
+dv_has_name_zh: 坎佩尼期
+dv_has_name_abbreviated: k5
+dv_has_time_started: "-83.6e6"
+dv_has_time_stopped: "-72.1e6"
+dv_has_text_of_color: "0xE6F47F"
 ---
 # [[Age~5~Campanian]]
 
@@ -23,10 +103,10 @@ sRGB_color_hex_triplet: EAED93
 
 A time period from 83.6 to 72.1 million years ago. 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[../../../Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~1~Gelasian|Gelasian]]   
-#has_/next_/item :: [[../../../Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~3~Chibanian|Chibanian]]   
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Campanian,492941]] 
 
 ## #has_/text_of_/abstract 
@@ -36,35 +116,35 @@ A time period from 83.6 to 72.1 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Campanian) 
 
 
-#has_/name_/bg  :: Кампан
-#has_/name_/cs  :: Campan
-#has_/name_/da  :: Campanien
-#has_/name_/de  :: Campanium
-#has_/name_/es  :: Campaniense
-#has_/name_/et  :: Campani
-#has_/name_/fi  :: Campan
-#has_/name_/fr  :: Campanien
-#has_/name_/hu  :: campaniai
-#has_/name_/it  :: campaniano
-#has_/name_/ja  :: カンパニアン期
-#has_/name_/lt  :: Kampanis
-#has_/name_/nl  :: Campaniën
-#has_/name_/no  :: Campanium
-#has_/name_/pl  :: Kampan
-#has_/name_/pt  :: Campaniano
-#has_/name_/sk  :: kampán
-#has_/name_/sl  :: campanij
-#has_/name_/sv  :: campan
-#has_/name_/zh  :: 坎佩尼期
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/abbreviation :: k5
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
-#has_/time_/started :: -83.6e6 
-#has_/time_/stopped :: -72.1e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 37 
 
-#has_/text_of_/color :: 0xE6F47F
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

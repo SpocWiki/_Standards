@@ -7,33 +7,62 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - specialty
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_specialty
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_specialty
 type: Predi_Relation
+dv_has_:
+  specialty: Specialty
+  domain: WebPage
+dv_has_specialty: Specialty
+dv_#has_:
+  name: is_specialty
+  range: Specialty
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_specialty|has_specialty]]"
+    - "[[/_public/schema-org/Relation/has/has_specialty.public|has_specialty.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_specialty.internal|has_specialty.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_specialty.protect|has_specialty.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_specialty.private|has_specialty.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_specialty.personal|has_specialty.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_specialty.secret|has_specialty.secret]]"
+dv_has_domain: WebPage
+dv_has_name: is_specialty
+dv_has_range: Specialty
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_specialty|has_specialty]]"
+  - "[[/_public/schema-org/Relation/has/has_specialty.public|has_specialty.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_specialty.internal|has_specialty.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_specialty.protect|has_specialty.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_specialty.private|has_specialty.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_specialty.personal|has_specialty.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_specialty.secret|has_specialty.secret]]"
 ---
 
 Use it like this: 
-- [ #has_/specialty :: Specialty ] or 
-- [ has_specialty :: Specialty ] 
+- has_specialty = `=this.dv_has_specialty`  
+- has_specialty = `=this.dv_has_specialty`  
 
 One of the domain specialities to which this web page's content applies.
 
 Relation describes that: 
-[ #has_/domain  :: WebPage ]
-( #has_/name :: is_specialty )
-( #has_/range :: Specialty )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

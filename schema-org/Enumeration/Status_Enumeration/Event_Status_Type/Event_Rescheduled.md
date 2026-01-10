@@ -11,21 +11,42 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: EventStatusType
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - event_rescheduled
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_an_event_rescheduled Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_an_event_rescheduled Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../EventStatusType]]"
+  enum_of: "[[../EventStatusType]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Rescheduled|Event_Rescheduled]]"
+    - "[[/_public/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Rescheduled.public|Event_Rescheduled.public]]"
+    - "[[/_internal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Rescheduled.internal|Event_Rescheduled.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Rescheduled.protect|Event_Rescheduled.protect]]"
+    - "[[/_private/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Rescheduled.private|Event_Rescheduled.private]]"
+    - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Rescheduled.personal|Event_Rescheduled.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Rescheduled.secret|Event_Rescheduled.secret]]"
+dv_is_sub_class_of: "[[../EventStatusType]]"
+dv_is_enum_of: "[[../EventStatusType]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Rescheduled|Event_Rescheduled]]"
+  - "[[/_public/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Rescheduled.public|Event_Rescheduled.public]]"
+  - "[[/_internal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Rescheduled.internal|Event_Rescheduled.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Rescheduled.protect|Event_Rescheduled.protect]]"
+  - "[[/_private/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Rescheduled.private|Event_Rescheduled.private]]"
+  - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Rescheduled.personal|Event_Rescheduled.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Rescheduled.secret|Event_Rescheduled.secret]]"
 ---
 
 Class of all event_rescheduleds.
@@ -35,10 +56,9 @@ Tag Instances like this:
 
 The event has been rescheduled. The event's previousStartDate should be set to the old date and the startDate should be set to the event's new date. (If the event has been rescheduled multiple times, the previousStartDate property may be repeated.)
 
-[ #is_/sub_class_of :: [[../EventStatusType]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #is_/enum_of :: [[../EventStatusType]] ]
-
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

@@ -41,11 +41,13 @@ A link to the [[../../Collection/list_item|ListItem]] that precedes the current 
 
 
 Use it like this: 
-- [ #has_/previous_item :: ListItem ] or 
+- [has_/previous_item :: ListItem ] 
 - [ has_previous_item :: ListItem ] 
 
 This Relation describes that: 
-[ #has_/domain  :: ListItem ]
+
+#has_/domain  :: ListItem  
+
 ( #has_/name :: is_previous_item )
 ( #has_/range :: ListItem )
 

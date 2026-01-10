@@ -30,13 +30,15 @@ type: Pred_geo
 Predicate to describe the Address of the ServiceChannel.
 
 Use it like this: 
-- [ #has_/location_/service_postal_address :: PostalAddress ] or 
+- [has_/location_/service_postal_address :: PostalAddress ] 
 - [ has_location_address_postal_service :: PostalAddress ] 
 
 The address for accessing the service by mail.
 
 Predicate describes that: 
-[ #has_/domain  :: ServiceChannel ]
+
+#has_/domain  :: ServiceChannel  
+
 ( #has_/name :: has_location_address_postal_service )
 ( #has_/range :: PostalAddress )
 

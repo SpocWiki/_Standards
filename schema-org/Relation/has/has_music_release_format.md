@@ -9,7 +9,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,28 +17,57 @@ keywords:
   - music
   - release
   - format
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_music_release_format
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_music_release_format
 type: Predi_Relation
+dv_has_:
+  music_release_format: MusicReleaseFormatType
+  domain: MusicRelease
+dv_has_music_release_format: MusicReleaseFormatType
+dv_#has_:
+  name: has_music_release_format
+  range: MusicReleaseFormatType
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_music_release_format|has_music_release_format]]"
+    - "[[/_public/schema-org/Relation/has/has_music_release_format.public|has_music_release_format.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_music_release_format.internal|has_music_release_format.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_music_release_format.protect|has_music_release_format.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_music_release_format.private|has_music_release_format.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_music_release_format.personal|has_music_release_format.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_music_release_format.secret|has_music_release_format.secret]]"
+dv_has_domain: MusicRelease
+dv_has_name: has_music_release_format
+dv_has_range: MusicReleaseFormatType
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_music_release_format|has_music_release_format]]"
+  - "[[/_public/schema-org/Relation/has/has_music_release_format.public|has_music_release_format.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_music_release_format.internal|has_music_release_format.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_music_release_format.protect|has_music_release_format.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_music_release_format.private|has_music_release_format.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_music_release_format.personal|has_music_release_format.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_music_release_format.secret|has_music_release_format.secret]]"
 ---
 
 Use it like this: 
-- [ #has_/music_release_format :: MusicReleaseFormatType ] or 
-- [ has_music_release_format :: MusicReleaseFormatType ] 
+- has_music_release_format = `=this.dv_has_music_release_format`  
+- has_music_release_format = `=this.dv_has_music_release_format`  
 
 Format of this release (the type of recording media used, i.e. compact disc, digital media, LP, etc.).
 
 Relation describes that: 
-[ #has_/domain  :: MusicRelease ]
-( #has_/name :: has_music_release_format )
-( #has_/range :: MusicReleaseFormatType )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

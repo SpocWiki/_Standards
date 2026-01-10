@@ -29,18 +29,19 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/result_review :: Review ] or 
+- [has_/result_review :: Review ] 
 - [ has_result_review :: Review ] 
 
 A sub property of result. The review that resulted in the performing of the action.
 
 Relation describes that: 
-[ #has_/domain  :: ReviewAction ]
+
+#has_/domain  :: ReviewAction  
+
 ( #has_/name :: is_result_review )
 ( #has_/range :: Review )
 
-[ #is_/sub_property_of  :: result ]
-
+#is_/sub_property_of  :: result  
 
 ## Confidential Links & Embeds: 
 

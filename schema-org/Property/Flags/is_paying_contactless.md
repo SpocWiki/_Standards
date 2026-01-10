@@ -27,7 +27,7 @@ title: is_paying_contactless
 type: Pred_Bool
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use these simple Tags to mark Instances as True or False: 
 #is_/paying_contactless 
@@ -39,7 +39,9 @@ Or write it as a Triple:
 A secure method for consumers to purchase products or services via debit, credit or smartcards by using RFID or NFC technology.
 
 Predicate describes that: 
-[ #has_/domain  :: PaymentCard ]
+
+#has_/domain  :: PaymentCard  
+
 ( #has_/name :: is_paying_contactless )
 ( #has_/range :: Boolean )
 

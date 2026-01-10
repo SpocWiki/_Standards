@@ -7,6 +7,25 @@ instance_of: "[[_Standards/WikiData/WD~historical_period,11514315]]"
 start_time: 1880-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/China%20imperialism%20cartoon.jpg
 end_time: 1920-01-01T00:00:00Z
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../WikiData/WD~New_Imperialism,304121]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1880-New_Imperialism+1920|1880-New_Imperialism+1920]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1880-New_Imperialism+1920.public|1880-New_Imperialism+1920.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1880-New_Imperialism+1920.internal|1880-New_Imperialism+1920.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1880-New_Imperialism+1920.protect|1880-New_Imperialism+1920.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1880-New_Imperialism+1920.private|1880-New_Imperialism+1920.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1880-New_Imperialism+1920.personal|1880-New_Imperialism+1920.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1880-New_Imperialism+1920.secret|1880-New_Imperialism+1920.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../WikiData/WD~New_Imperialism,304121]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1880-New_Imperialism+1920|1880-New_Imperialism+1920]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1880-New_Imperialism+1920.public|1880-New_Imperialism+1920.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1880-New_Imperialism+1920.internal|1880-New_Imperialism+1920.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1880-New_Imperialism+1920.protect|1880-New_Imperialism+1920.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1880-New_Imperialism+1920.private|1880-New_Imperialism+1920.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1880-New_Imperialism+1920.personal|1880-New_Imperialism+1920.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1880-New_Imperialism+1920.secret|1880-New_Imperialism+1920.secret]]"
 ---
 
 # [[1880-New_Imperialism+1920]] 

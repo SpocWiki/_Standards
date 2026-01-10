@@ -4,7 +4,7 @@ aliases:
 has_id_wikidata: Q713
 atomic_number: 21
 boiling_point: 2836.85
-canonical_SMILES: '[Sc]'
+canonical_SMILES: "[Sc]"
 CAS_Registry_Number: 7440-20-2
 chemical_formula: Sc
 Commons_category: Scandium
@@ -13,58 +13,138 @@ Common_Procurement_Vocabulary_code:
   - 14723000-5
   - 14723000
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 Dewey_Decimal_Classification:
   - 546.401
   - 669.2901
-different_from: '[[_Standards/WikiData/WD~Scandinavium,1138447]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Lars_Fredrik_Nilson,447875]]'
+different_from: "[[_Standards/WikiData/WD~Scandinavium,1138447]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Lars_Fredrik_Nilson,447875]]"
 DSSTOX_compound_identifier: DTXCID1047653
 EC_number: 231-129-2
 electronegativity: 1.36
 electron_configuration:
-  - '[Ar] 3d¹ 4s²'
+  - "[Ar] 3d¹ 4s²"
   - 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹ 4s²
 element_symbol: Sc
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Scandium%20sublimed%20dendritic%20and%201cm3%20cube.jpg
 InChI: InChI=1S/Sc
 InChIKey: SIXSYDAISGFNSX-UHFFFAOYSA-N
 instance_of:
-  - '[[_Standards/WikiData/WD~lithophile,1130479]]'
-  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
+  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
+  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
 ionic_radius:
   - 0.75
   - 0.87
-made_from_material: '[[_Standards/WikiData/WD~thortveitite,424535]]'
+made_from_material: "[[_Standards/WikiData/WD~thortveitite,424535]]"
 mass: 44.955907
 melting_point: 1540.85
 MeSH_tree_code:
   - D01.268.558.800
   - D01.268.956.827
   - D01.552.550.800
-named_after: '[[_Standards/WikiData/WD~Scandinavia,21195]]'
+named_after: "[[_Standards/WikiData/WD~Scandinavia,21195]]"
 OmegaWiki_Defined_Meaning: 357984
 oxidation_state:
   - 1
   - 2
   - 3
 part_of:
-  - '[[_Standards/WikiData/WD~group_3,108307]]'
-  - '[[_Standards/WikiData/WD~period_4,239825]]'
+  - "[[_Standards/WikiData/WD~group_3,108307]]"
+  - "[[_Standards/WikiData/WD~period_4,239825]]"
 PubChem_CID: 23952
 SpocWebEntityId: 21922
 subclass_of:
-  - '[[_Standards/WikiData/WD~rare_earth_element,190444]]'
-  - '[[_Standards/WikiData/WD~transition_metal,19588]]'
+  - "[[_Standards/WikiData/WD~rare_earth_element,190444]]"
+  - "[[_Standards/WikiData/WD~transition_metal,19588]]"
 time_of_discovery_or_invention: 1879
 type: Element
 UMLS_CUI: C0036274
 Unicode_character: 鈧
 UNII: YUJ4U1EW7R
 ZVG_number: 7210
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Scandium,713]]"
+    - "[[../../../WikiData/WD~Scandium,713|WD~Scandium,713]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-03-Scandium/Scandium|Scandium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-03-Scandium/Scandium.public|Scandium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-03-Scandium/Scandium.internal|Scandium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-03-Scandium/Scandium.protect|Scandium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-03-Scandium/Scandium.private|Scandium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-03-Scandium/Scandium.personal|Scandium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-03-Scandium/Scandium.secret|Scandium.secret]]"
+  part_of: "[[../Group-03-Scandium]]"
+dv_has_:
+  name_:
+    group: Group-03-Scandium
+    en: Scandium
+    de: Scandium
+    abbreviated: Sc
+  value_for_:
+    weight_:
+      u: 44.9559
+    radius: 2.09
+    volume_:
+      ccm_:
+        mol: 15
+    unknown2: 1.44
+    radius_:
+      nano_:
+        m: 6.54
+    electronegativity: 1.4
+    density: 3
+    temperature_:
+      melt_:
+        c: 1539
+      boil_:
+        c: 2832
+    capacity_:
+      heat: 0.6
+    conductivity_:
+      heat: 0.158
+    enthalpy: 14.1
+    energy_:
+      form_:
+        kj_:
+          mol: 314.2
+  number_of_:
+    period: 4
+    group: 3
+    electrons: 21
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Scandium,713]]"
+  - "[[../../../WikiData/WD~Scandium,713|WD~Scandium,713]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-03-Scandium/Scandium|Scandium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-03-Scandium/Scandium.public|Scandium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-03-Scandium/Scandium.internal|Scandium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-03-Scandium/Scandium.protect|Scandium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-03-Scandium/Scandium.private|Scandium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-03-Scandium/Scandium.personal|Scandium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-03-Scandium/Scandium.secret|Scandium.secret]]"
+dv_has_name_group: Group-03-Scandium
+dv_is_part_of: "[[../Group-03-Scandium]]"
+dv_has_name_en: Scandium
+dv_has_name_de: Scandium
+dv_has_value_for_weight_u: 44.9559
+dv_has_value_for_radius: 2.09
+dv_has_value_for_volume_ccm_mol: 15
+dv_has_value_for_unknown2: 1.44
+dv_has_value_for_radius_nano_m: 6.54
+dv_has_value_for_electronegativity: 1.4
+dv_has_value_for_density: 3
+dv_has_value_for_temperature_melt_c: 1539
+dv_has_value_for_temperature_boil_c: 2832
+dv_has_value_for_capacity_heat: 0.6
+dv_has_value_for_conductivity_heat: 0.158
+dv_has_value_for_enthalpy: 14.1
+dv_has_value_for_energy_form_kj_mol: 314.2
+dv_has_number_of_period: 4
+dv_has_number_of_group: 3
+dv_has_name_abbreviated: Sc
+dv_has_number_of_electrons: 21
 ---
 
 # [[Scandium]] 
@@ -72,32 +152,40 @@ ZVG_number: 7210
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Scandium,713]] 
 
-[GroupName::Group-03-Scandium]
-Group::[[../Group-03-Scandium]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
-[#has_/name_/en::Scandium]
-[#has_/name_/de::Scandium]
-[#has_/value_for_/weight_/u::44.9559]
-[AtomRadius::2.09]
-[Atom-Vol-ccm-mol::15]
-[Unknown2::1.44]
-[#has_/value_for_/radius_/nano_/m::6.54]
-[Electronegative::1.4]
-[Density::3]
-[#has_/value_for_/temperature_/melt_/c ::1539]
-[#has_/value_for_/temperature_/boil_/c ::2832]
-[HeatCapacity::0.6]
-[HeatConduct::0.158]
-[Enthalpy::14.1]
-[FormEnergy-kj-mol::314.2]
-(PeriodNo::4)
-(GroupNo::3)
+has_name_en = `=this.dv_has_name_en` 
+
+has_name_de = `=this.dv_has_name_de` 
+
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
+
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
+
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
+
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
+
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
+
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
+
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
+has_number_of_group = `=this.dv_has_number_of_group` 
 #is_/same_as :: [[../../../WikiData/WD~Scandium,713|WD~Scandium,713]] 
 
 
 ## #has_/text_of_/abstract 
 
-> **Scandium** is a chemical element with the symbol (Abbr::Sc) and atomic number (Charge-e::21). 
+> **Scandium** is a chemical element with the symbol has_name_abbreviated = `=this.dv_has_name_abbreviated`  and atomic number has_number_of_electrons = `=this.dv_has_number_of_electrons` . 
 > It is a silvery-white metallic d-block element. 
 > 
 > Historically, it has been classified as a rare-earth element, together with yttrium and the lanthanides. 

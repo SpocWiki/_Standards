@@ -43,10 +43,9 @@ Tag Instances like this:
 
 Eye or ophthalmological function assessment with clinical examination.
 
-[ #is_/sub_class_of :: [[../PhysicalExam]] ]
+#is_/sub_class_of :: [[../PhysicalExam]]  
 
-[ #is_/enum_of :: [[../PhysicalExam]] ]
-
+#is_/enum_of :: [[../PhysicalExam]]  
 
 #is_/same_as :: [[../../../../WikiData/WD~Eye_examination,796207|WD~Eye_examination,796207]]
 

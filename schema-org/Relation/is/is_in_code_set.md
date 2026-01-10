@@ -29,21 +29,22 @@ title: is_in_code_set
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #is_/in_code_set :: CategoryCodeSet, URL ] or 
+- [is_/in_code_set :: CategoryCodeSet, URL ] 
 - [ is_in_code_set :: CategoryCodeSet, URL ] 
 
 A [[CategoryCodeSet]] that contains this category code.
 
 Relation describes that: 
-[ #has_/domain  :: CategoryCode ]
+
+#has_/domain  :: CategoryCode  
+
 ( #has_/name :: is_in_code_set )
 ( #has_/range :: CategoryCodeSet, URL )
 
-[ #is_/sub_property_of  :: inDefinedTermSet ]
-
+#is_/sub_property_of  :: inDefinedTermSet  
 
 ## Confidential Links & Embeds: 
 

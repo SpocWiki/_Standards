@@ -45,6 +45,25 @@ DSSTOX_compound_identifier: DTXCID3029865
 Commons_category: Heavy water
 RTECS_number: ZC0230000
 Gujarati_Vishwakosh_entry: ભારે-પાણી-ડ્યૂટેરિયમ-ઑક્
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Heavy_water,155890]]"
+    - "[[/_Standards/Chemistry/Inorganic_Chemistry/Water/Heavy_Water|Heavy_Water]]"
+    - "[[/_public/Chemistry/Inorganic_Chemistry/Water/Heavy_Water.public|Heavy_Water.public]]"
+    - "[[/_internal/Chemistry/Inorganic_Chemistry/Water/Heavy_Water.internal|Heavy_Water.internal]]"
+    - "[[/_protect/Chemistry/Inorganic_Chemistry/Water/Heavy_Water.protect|Heavy_Water.protect]]"
+    - "[[/_private/Chemistry/Inorganic_Chemistry/Water/Heavy_Water.private|Heavy_Water.private]]"
+    - "[[/_personal/Chemistry/Inorganic_Chemistry/Water/Heavy_Water.personal|Heavy_Water.personal]]"
+    - "[[/_secret/Chemistry/Inorganic_Chemistry/Water/Heavy_Water.secret|Heavy_Water.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Heavy_water,155890]]"
+  - "[[/_Standards/Chemistry/Inorganic_Chemistry/Water/Heavy_Water|Heavy_Water]]"
+  - "[[/_public/Chemistry/Inorganic_Chemistry/Water/Heavy_Water.public|Heavy_Water.public]]"
+  - "[[/_internal/Chemistry/Inorganic_Chemistry/Water/Heavy_Water.internal|Heavy_Water.internal]]"
+  - "[[/_protect/Chemistry/Inorganic_Chemistry/Water/Heavy_Water.protect|Heavy_Water.protect]]"
+  - "[[/_private/Chemistry/Inorganic_Chemistry/Water/Heavy_Water.private|Heavy_Water.private]]"
+  - "[[/_personal/Chemistry/Inorganic_Chemistry/Water/Heavy_Water.personal|Heavy_Water.personal]]"
+  - "[[/_secret/Chemistry/Inorganic_Chemistry/Water/Heavy_Water.secret|Heavy_Water.secret]]"
 ---
 
 # [[Heavy_Water]] 

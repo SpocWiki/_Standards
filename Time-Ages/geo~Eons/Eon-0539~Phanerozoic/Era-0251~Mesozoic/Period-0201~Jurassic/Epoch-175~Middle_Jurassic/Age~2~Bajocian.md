@@ -16,15 +16,95 @@ start_time: -170300000-01-01T00:00:00Z
 end_time: -168300000-01-01T00:00:00Z
 sRGB_color_hex_triplet: 9CE2EF
 coordinate_location: Point(-8.9042 40.1992)
+dv_has_:
+  duration_:
+    years: "2.700e+6"
+  previous_:
+    item: "[[Age~1~Aalenian]]"
+  next_:
+    item: "[[Age~3~Bathonian]]"
+  name_:
+    bg: Байоѿ
+    cs: Bajok
+    da: Bajocien
+    de: Bajocium
+    es: Bajociense
+    et: Bajoci
+    fi: Bajoc
+    fr: Bajocien
+    hu: bajoci
+    it: bajociano
+    ja: バジョシアン期
+    lt: Bajosis
+    nl: Bajociën
+    no: Bajoc
+    pl: Bajos
+    pt: Bajociano
+    sk: bajok
+    sl: bajocij
+    sv: bajoc
+    zh: 巴柔期
+    abbreviated: j2
+  time_:
+    started: "-170.9e6"
+    stopped: "-168.2e6"
+  text_of_:
+    color: "0xA6DDE0"
+dv_is_:
+  same_as:
+    - "[[WD~Bajocian,375180]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian|Age~2~Bajocian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian.public|Age~2~Bajocian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian.internal|Age~2~Bajocian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian.protect|Age~2~Bajocian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian.private|Age~2~Bajocian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian.personal|Age~2~Bajocian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian.secret|Age~2~Bajocian.secret]]"
+dv_has_duration_years: "2.700e+6"
+dv_has_previous_item: "[[Age~1~Aalenian]]"
+dv_has_next_item: "[[Age~3~Bathonian]]"
+dv_is_same_as:
+  - "[[WD~Bajocian,375180]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian|Age~2~Bajocian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian.public|Age~2~Bajocian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian.internal|Age~2~Bajocian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian.protect|Age~2~Bajocian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian.private|Age~2~Bajocian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian.personal|Age~2~Bajocian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-175~Middle_Jurassic/Age~2~Bajocian.secret|Age~2~Bajocian.secret]]"
+dv_has_name_bg: Байоѿ
+dv_has_name_cs: Bajok
+dv_has_name_da: Bajocien
+dv_has_name_de: Bajocium
+dv_has_name_es: Bajociense
+dv_has_name_et: Bajoci
+dv_has_name_fi: Bajoc
+dv_has_name_fr: Bajocien
+dv_has_name_hu: bajoci
+dv_has_name_it: bajociano
+dv_has_name_ja: バジョシアン期
+dv_has_name_lt: Bajosis
+dv_has_name_nl: Bajociën
+dv_has_name_no: Bajoc
+dv_has_name_pl: Bajos
+dv_has_name_pt: Bajociano
+dv_has_name_sk: bajok
+dv_has_name_sl: bajocij
+dv_has_name_sv: bajoc
+dv_has_name_zh: 巴柔期
+dv_has_name_abbreviated: j2
+dv_has_time_started: "-170.9e6"
+dv_has_time_stopped: "-168.2e6"
+dv_has_text_of_color: "0xA6DDE0"
 ---
 # [[Age~2~Bajocian]] 
 
 #is_a_/time_/Age 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[Age~1~Aalenian]] 
-#has_/next_/item :: [[Age~3~Bathonian]]   
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Bajocian,375180]] 
 
 A time period from 170.9 to 168.2 million years ago. 
@@ -41,35 +121,35 @@ A time period from 170.9 to 168.2 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Bajocian) 
 
 
-#has_/name_/bg  :: Байоѿ
-#has_/name_/cs  :: Bajok
-#has_/name_/da  :: Bajocien
-#has_/name_/de  :: Bajocium
-#has_/name_/es  :: Bajociense
-#has_/name_/et  :: Bajoci
-#has_/name_/fi  :: Bajoc
-#has_/name_/fr  :: Bajocien
-#has_/name_/hu  :: bajoci
-#has_/name_/it  :: bajociano
-#has_/name_/ja  :: バジョシアン期
-#has_/name_/lt  :: Bajosis
-#has_/name_/nl  :: Bajociën
-#has_/name_/no  :: Bajoc
-#has_/name_/pl  :: Bajos
-#has_/name_/pt  :: Bajociano
-#has_/name_/sk  :: bajok
-#has_/name_/sl  :: bajocij
-#has_/name_/sv  :: bajoc
-#has_/name_/zh  :: 巴柔期
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/abbreviation :: j2
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
-#has_/time_/started :: -170.9e6 
-#has_/time_/stopped :: -168.2e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 57 
 
-#has_/text_of_/color :: 0xA6DDE0
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

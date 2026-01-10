@@ -31,18 +31,19 @@ type: Pred_Text
 Predicate to describe the Text of Invoice.
 
 Use it like this: 
-- [ #has_/id_/account :: Text ] or 
+- [has_/id_/account :: Text ] 
 - [ has_id_account :: Text ] 
 
 The identifier for the account the payment will be applied to.
 
 Predicated describes that: 
-[ #has_/domain  :: Invoice ]
+
+#has_/domain  :: Invoice  
+
 ( #has_/name :: has_id_account )
 ( #has_/range :: Text )
 
-[ #is_/sub_property_of  :: identifier ]
-
+#is_/sub_property_of  :: identifier  
 
 ## Confidential Links & Embeds: 
 

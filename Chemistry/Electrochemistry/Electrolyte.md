@@ -27,6 +27,25 @@ MeSH_tree_code: D01.248
 Commons_category: Electrolytes
 Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/ELEKTROLITI.html
 Dewey_Decimal_Classification: "541.372"
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Electrolyte,162908|WD~Electrolyte,162908]]"
+    - "[[/_Standards/Chemistry/Electrochemistry/Electrolyte|Electrolyte]]"
+    - "[[/_public/Chemistry/Electrochemistry/Electrolyte.public|Electrolyte.public]]"
+    - "[[/_internal/Chemistry/Electrochemistry/Electrolyte.internal|Electrolyte.internal]]"
+    - "[[/_protect/Chemistry/Electrochemistry/Electrolyte.protect|Electrolyte.protect]]"
+    - "[[/_private/Chemistry/Electrochemistry/Electrolyte.private|Electrolyte.private]]"
+    - "[[/_personal/Chemistry/Electrochemistry/Electrolyte.personal|Electrolyte.personal]]"
+    - "[[/_secret/Chemistry/Electrochemistry/Electrolyte.secret|Electrolyte.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Electrolyte,162908|WD~Electrolyte,162908]]"
+  - "[[/_Standards/Chemistry/Electrochemistry/Electrolyte|Electrolyte]]"
+  - "[[/_public/Chemistry/Electrochemistry/Electrolyte.public|Electrolyte.public]]"
+  - "[[/_internal/Chemistry/Electrochemistry/Electrolyte.internal|Electrolyte.internal]]"
+  - "[[/_protect/Chemistry/Electrochemistry/Electrolyte.protect|Electrolyte.protect]]"
+  - "[[/_private/Chemistry/Electrochemistry/Electrolyte.private|Electrolyte.private]]"
+  - "[[/_personal/Chemistry/Electrochemistry/Electrolyte.personal|Electrolyte.personal]]"
+  - "[[/_secret/Chemistry/Electrochemistry/Electrolyte.secret|Electrolyte.secret]]"
 ---
 
 # [[Electrolyte]] 

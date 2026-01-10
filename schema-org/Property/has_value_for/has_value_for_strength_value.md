@@ -11,35 +11,65 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - strength-value
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_strength-value
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_strength-value
 type: Predi_Quantity
+dv_has_:
+  value_for_:
+    strength: Number
+  domain: DrugStrength
+dv_has_value_for_strength: Number
+dv_#has_:
+  name: has_value_for_strength
+  range: Number
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_strength_value|has_value_for_strength_value]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_strength_value.public|has_value_for_strength_value.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_strength_value.internal|has_value_for_strength_value.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_strength_value.protect|has_value_for_strength_value.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_strength_value.private|has_value_for_strength_value.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_strength_value.personal|has_value_for_strength_value.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_strength_value.secret|has_value_for_strength_value.secret]]"
+dv_has_domain: DrugStrength
+dv_has_name: has_value_for_strength
+dv_has_range: Number
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_strength_value|has_value_for_strength_value]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_strength_value.public|has_value_for_strength_value.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_strength_value.internal|has_value_for_strength_value.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_strength_value.protect|has_value_for_strength_value.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_strength_value.private|has_value_for_strength_value.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_strength_value.personal|has_value_for_strength_value.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_strength_value.secret|has_value_for_strength_value.secret]]"
 ---
 
 Predicate to describe the Quantity of DrugStrength.
 
 Use it like this: 
-- [ #has_/value_for_/strength :: Number ] or 
-- [ has_value_for_strength :: Number ] 
+- has_value_for_strength = `=this.dv_has_value_for_strength`  
+- has_value_for_strength = `=this.dv_has_value_for_strength`  
 
 The value of an active ingredient's strength, e.g. 325.
 
 Predicate describes that: 
-[ #has_/domain  :: DrugStrength ]
-( #has_/name :: has_value_for_strength )
-( #has_/range :: Number )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

@@ -23,16 +23,96 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleograph
 IPA_transcription: /traɪˈæsɪk/
 sRGB_color_hex_triplet: 812B92
 Dewey_Decimal_Classification: 551.762
+dv_has_:
+  duration_:
+    years: "5.050e+7"
+  previous_:
+    item: "[[../Era-0539~Paleozoic/Period-0299~Permian|Period-0299~Permian]]"
+  next_:
+    item: "[[Period-0201~Jurassic]]"
+  name_:
+    bg: Триаѿ
+    cs: Trias
+    da: Triassisk
+    de: Trias
+    es: Triásico
+    et: Triias
+    fi: Trias
+    fr: Trias
+    hu: triász
+    it: triassico
+    ja: 三畳紀
+    lt: Triasas
+    nl: Trias
+    no: Trias
+    pl: Trias
+    pt: Triásico
+    sk: trias
+    sl: trias
+    sv: trias
+    zh: 三叠纪
+    abbreviated: T
+  time_:
+    started: "-251.902e6"
+    stopped: "-201.400e6"
+  text_of_:
+    color: "0x812B92"
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Triassic,47158|WD~Triassic,47158]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic|Period-0252~Triassic]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic.public|Period-0252~Triassic.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic.internal|Period-0252~Triassic.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic.protect|Period-0252~Triassic.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic.private|Period-0252~Triassic.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic.personal|Period-0252~Triassic.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic.secret|Period-0252~Triassic.secret]]"
+dv_has_duration_years: "5.050e+7"
+dv_has_previous_item: "[[../Era-0539~Paleozoic/Period-0299~Permian|Period-0299~Permian]]"
+dv_has_next_item: "[[Period-0201~Jurassic]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Triassic,47158|WD~Triassic,47158]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic|Period-0252~Triassic]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic.public|Period-0252~Triassic.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic.internal|Period-0252~Triassic.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic.protect|Period-0252~Triassic.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic.private|Period-0252~Triassic.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic.personal|Period-0252~Triassic.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0252~Triassic.secret|Period-0252~Triassic.secret]]"
+dv_has_name_bg: Триаѿ
+dv_has_name_cs: Trias
+dv_has_name_da: Triassisk
+dv_has_name_de: Trias
+dv_has_name_es: Triásico
+dv_has_name_et: Triias
+dv_has_name_fi: Trias
+dv_has_name_fr: Trias
+dv_has_name_hu: triász
+dv_has_name_it: triassico
+dv_has_name_ja: 三畳紀
+dv_has_name_lt: Triasas
+dv_has_name_nl: Trias
+dv_has_name_no: Trias
+dv_has_name_pl: Trias
+dv_has_name_pt: Triásico
+dv_has_name_sk: trias
+dv_has_name_sl: trias
+dv_has_name_sv: trias
+dv_has_name_zh: 三叠纪
+dv_has_name_abbreviated: T
+dv_has_time_started: "-251.902e6"
+dv_has_time_stopped: "-201.400e6"
+dv_has_text_of_color: "0x812B92"
 ---
 
 # [[Period-0252~Triassic]] 
 
 #is_a_/time_/Period 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[../Era-0539~Paleozoic/Period-0299~Permian|Period-0299~Permian]] 
-#has_/next_/item :: [[Period-0201~Jurassic]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[../../../../WikiData/WD~Triassic,47158|WD~Triassic,47158]] 
 
 A time period from 251.902 to 201.4 million years ago. 
@@ -70,35 +150,35 @@ A time period from 251.902 to 201.4 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Triassic) 
 
 
-#has_/name_/bg  :: Триаѿ
-#has_/name_/cs  :: Trias
-#has_/name_/da  :: Triassisk
-#has_/name_/de  :: Trias
-#has_/name_/es  :: Triásico
-#has_/name_/et  :: Triias
-#has_/name_/fi  :: Trias
-#has_/name_/fr  :: Trias
-#has_/name_/hu  :: triász
-#has_/name_/it  :: triassico
-#has_/name_/ja  :: 三畳紀
-#has_/name_/lt  :: Triasas
-#has_/name_/nl  :: Trias
-#has_/name_/no  :: Trias
-#has_/name_/pl  :: Trias
-#has_/name_/pt  :: Triásico
-#has_/name_/sk  :: trias
-#has_/name_/sl  :: trias
-#has_/name_/sv  :: trias
-#has_/name_/zh  :: 三叠纪
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/abbreviation :: T
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
-#has_/time_/started :: -251.902e6 
-#has_/time_/stopped :: -201.400e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 78 
 
-#has_/text_of_/color :: 0x812B92
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

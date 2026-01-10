@@ -4,6 +4,30 @@ aliases:
   - Galliumarsenid
   - Gallium_Arsenide
   - Gallium Arsenide
+dv_has_:
+  parts:
+    - "[[Chemical_Element/Group-13-Boron/Gallium|Gallium]]]"
+    - "[[Chemical_Element/Group-15-Nitrogen/Arsenic|Arsenic]]]"
+dv_is_:
+  same_as:
+    - "[[/_Standards/Chemistry/Gallium_Arsenide|Gallium_Arsenide]]"
+    - "[[/_public/Chemistry/Gallium_Arsenide.public|Gallium_Arsenide.public]]"
+    - "[[/_internal/Chemistry/Gallium_Arsenide.internal|Gallium_Arsenide.internal]]"
+    - "[[/_protect/Chemistry/Gallium_Arsenide.protect|Gallium_Arsenide.protect]]"
+    - "[[/_private/Chemistry/Gallium_Arsenide.private|Gallium_Arsenide.private]]"
+    - "[[/_personal/Chemistry/Gallium_Arsenide.personal|Gallium_Arsenide.personal]]"
+    - "[[/_secret/Chemistry/Gallium_Arsenide.secret|Gallium_Arsenide.secret]]"
+dv_has_parts:
+  - "[[Chemical_Element/Group-13-Boron/Gallium|Gallium]]]"
+  - "[[Chemical_Element/Group-15-Nitrogen/Arsenic|Arsenic]]]"
+dv_is_same_as:
+  - "[[/_Standards/Chemistry/Gallium_Arsenide|Gallium_Arsenide]]"
+  - "[[/_public/Chemistry/Gallium_Arsenide.public|Gallium_Arsenide.public]]"
+  - "[[/_internal/Chemistry/Gallium_Arsenide.internal|Gallium_Arsenide.internal]]"
+  - "[[/_protect/Chemistry/Gallium_Arsenide.protect|Gallium_Arsenide.protect]]"
+  - "[[/_private/Chemistry/Gallium_Arsenide.private|Gallium_Arsenide.private]]"
+  - "[[/_personal/Chemistry/Gallium_Arsenide.personal|Gallium_Arsenide.personal]]"
+  - "[[/_secret/Chemistry/Gallium_Arsenide.secret|Gallium_Arsenide.secret]]"
 ---
 
 # [[Gallium_Arsenide]] 

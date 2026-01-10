@@ -88,11 +88,13 @@ Predicate to describe the [[has_name]] of a Thing.
 The Name can be specialized by Language (as with any Text)
 
 Use it like this: 
-- [ #has_/name_/de :: Text ] or 
+- [has_/name_/de :: Text ] 
 - [ has_name_de :: Text ] 
 
 Predicated describes that: 
-[ #has_/domain  :: [Thing](../../Class/Thing.md) ]
+
+#has_/domain  :: [Thing](../../Class/Thing.md)  
+
 ( #has_/name :: has_name )
 ( #has_/range :: Text )
 

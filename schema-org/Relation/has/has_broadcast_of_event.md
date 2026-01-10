@@ -8,7 +8,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,28 +17,57 @@ keywords:
   - event
   - broadcast_of_event
   - broadcastOfEvent
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_broadcast_of_event
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_broadcast_of_event
 type: Predi_Relation
+dv_has_:
+  broadcast_of_event: Event
+  domain: BroadcastEvent
+dv_has_broadcast_of_event: Event
+dv_#has_:
+  name: has_broadcast_of_event
+  range: Event
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_broadcast_of_event|has_broadcast_of_event]]"
+    - "[[/_public/schema-org/Relation/has/has_broadcast_of_event.public|has_broadcast_of_event.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_broadcast_of_event.internal|has_broadcast_of_event.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_broadcast_of_event.protect|has_broadcast_of_event.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_broadcast_of_event.private|has_broadcast_of_event.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_broadcast_of_event.personal|has_broadcast_of_event.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_broadcast_of_event.secret|has_broadcast_of_event.secret]]"
+dv_has_domain: BroadcastEvent
+dv_has_name: has_broadcast_of_event
+dv_has_range: Event
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_broadcast_of_event|has_broadcast_of_event]]"
+  - "[[/_public/schema-org/Relation/has/has_broadcast_of_event.public|has_broadcast_of_event.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_broadcast_of_event.internal|has_broadcast_of_event.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_broadcast_of_event.protect|has_broadcast_of_event.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_broadcast_of_event.private|has_broadcast_of_event.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_broadcast_of_event.personal|has_broadcast_of_event.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_broadcast_of_event.secret|has_broadcast_of_event.secret]]"
 ---
 
 Use it like this: 
-- [ #has_/broadcast_of_event :: Event ] or 
-- [ has_broadcast_of_event :: Event ] 
+- has_broadcast_of_event = `=this.dv_has_broadcast_of_event`  
+- has_broadcast_of_event = `=this.dv_has_broadcast_of_event`  
 
 The event being broadcast such as a sporting event or awards ceremony.
 
 Relation describes that: 
-[ #has_/domain  :: BroadcastEvent ]
-( #has_/name :: has_broadcast_of_event )
-( #has_/range :: Event )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

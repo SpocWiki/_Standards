@@ -32,18 +32,19 @@ type: Pred_Text
 Predicate to describe the Text of Thing.
 
 Use it like this: 
-- [ #has_/text_of_/disambiguating_description :: Text ] or 
+- [has_/text_of_/disambiguating_description :: Text ] 
 - [ has_text_of_disambiguating_description :: Text ] 
 
 A sub property of description. A short description of the item used to disambiguate from other, similar items. Information from other properties (in particular, name) may be necessary for the description to be useful for disambiguation.
 
 Predicated describes that: 
-[ #has_/domain  :: [Thing](../../Class/Thing.md) ]
+
+#has_/domain  :: [Thing](../../Class/Thing.md)  
+
 ( #has_/name :: has_text_of_disambiguating_description )
 ( #has_/range :: Text )
 
-[ #is_/sub_property_of  :: description ]
-
+#is_/sub_property_of  :: description  
 
 ## Confidential Links & Embeds: 
 

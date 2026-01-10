@@ -30,13 +30,15 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/in_broadcast_lineup :: CableOrSatelliteService ] or 
+- [is_/in_broadcast_lineup :: CableOrSatelliteService ] 
 - [ is_in_broadcast_lineup :: CableOrSatelliteService ] 
 
 The CableOrSatelliteService offering the channel.
 
 Relation describes that: 
-[ #has_/domain  :: BroadcastChannel ]
+
+#has_/domain  :: BroadcastChannel  
+
 ( #has_/name :: is_in_broadcast_lineup )
 ( #has_/range :: CableOrSatelliteService )
 

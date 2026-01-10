@@ -10,35 +10,65 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - minimum-payment-due
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_minimum-payment-due
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_minimum-payment-due
 type: Predi_Quantity
+dv_has_:
+  value_for_:
+    minimum_payment_due: MonetaryAmount, PriceSpecification
+  domain: Invoice
+dv_has_value_for_minimum_payment_due: MonetaryAmount, PriceSpecification
+dv_#has_:
+  name: has_value_for_minimum_payment_due
+  range: MonetaryAmount, PriceSpecification
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_minimum_payment_due|has_value_for_minimum_payment_due]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_minimum_payment_due.public|has_value_for_minimum_payment_due.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_minimum_payment_due.internal|has_value_for_minimum_payment_due.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_minimum_payment_due.protect|has_value_for_minimum_payment_due.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_minimum_payment_due.private|has_value_for_minimum_payment_due.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_minimum_payment_due.personal|has_value_for_minimum_payment_due.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_minimum_payment_due.secret|has_value_for_minimum_payment_due.secret]]"
+dv_has_domain: Invoice
+dv_has_name: has_value_for_minimum_payment_due
+dv_has_range: MonetaryAmount, PriceSpecification
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_minimum_payment_due|has_value_for_minimum_payment_due]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_minimum_payment_due.public|has_value_for_minimum_payment_due.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_minimum_payment_due.internal|has_value_for_minimum_payment_due.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_minimum_payment_due.protect|has_value_for_minimum_payment_due.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_minimum_payment_due.private|has_value_for_minimum_payment_due.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_minimum_payment_due.personal|has_value_for_minimum_payment_due.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_minimum_payment_due.secret|has_value_for_minimum_payment_due.secret]]"
 ---
 
 Predicate to describe the Quantity of Invoice.
 
 Use it like this: 
-- [ #has_/value_for_/minimum_payment_due :: MonetaryAmount, PriceSpecification ] or 
-- [ has_value_for_minimum_payment_due :: MonetaryAmount, PriceSpecification ] 
+- has_value_for_minimum_payment_due = `=this.dv_has_value_for_minimum_payment_due`  
+- has_value_for_minimum_payment_due = `=this.dv_has_value_for_minimum_payment_due`  
 
 The minimum payment required at this time.
 
 Predicate describes that: 
-[ #has_/domain  :: Invoice ]
-( #has_/name :: has_value_for_minimum_payment_due )
-( #has_/range :: MonetaryAmount, PriceSpecification )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

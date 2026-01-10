@@ -20,6 +20,25 @@ element_symbol: Nh
 Commons_gallery: Nihonium
 Commons_category: Nihonium
 time_of_discovery_or_invention: 2006-01-01T00:00:00Z
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Nihonium,1301]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-13-Boron/Nihonium|Nihonium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-13-Boron/Nihonium.public|Nihonium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-13-Boron/Nihonium.internal|Nihonium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-13-Boron/Nihonium.protect|Nihonium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-13-Boron/Nihonium.private|Nihonium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-13-Boron/Nihonium.personal|Nihonium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-13-Boron/Nihonium.secret|Nihonium.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Nihonium,1301]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-13-Boron/Nihonium|Nihonium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-13-Boron/Nihonium.public|Nihonium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-13-Boron/Nihonium.internal|Nihonium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-13-Boron/Nihonium.protect|Nihonium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-13-Boron/Nihonium.private|Nihonium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-13-Boron/Nihonium.personal|Nihonium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-13-Boron/Nihonium.secret|Nihonium.secret]]"
 ---
 
 # [[Nihonium]] 

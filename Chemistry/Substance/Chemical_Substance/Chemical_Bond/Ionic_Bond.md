@@ -6,11 +6,30 @@ aliases:
   - Ionic_Bond
   - Ionic Bond
 has_id_wikidata: Q62500
-different_from: '[[_Standards/WikiData/WD~polar_bond,2101022]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~ion,36496]]'
-subclass_of: '[[_Standards/WikiData/WD~chemical_bond,44424]]'
+different_from: "[[_Standards/WikiData/WD~polar_bond,2101022]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~ion,36496]]"
+subclass_of: "[[_Standards/WikiData/WD~chemical_bond,44424]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/NaF.gif
 Commons_category: Ionic bond
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Ionic_bond,62500|WD~Ionic_bond,62500]]"
+    - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond|Ionic_Bond]]"
+    - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond.public|Ionic_Bond.public]]"
+    - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond.internal|Ionic_Bond.internal]]"
+    - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond.protect|Ionic_Bond.protect]]"
+    - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond.private|Ionic_Bond.private]]"
+    - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond.personal|Ionic_Bond.personal]]"
+    - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond.secret|Ionic_Bond.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Ionic_bond,62500|WD~Ionic_bond,62500]]"
+  - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond|Ionic_Bond]]"
+  - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond.public|Ionic_Bond.public]]"
+  - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond.internal|Ionic_Bond.internal]]"
+  - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond.protect|Ionic_Bond.protect]]"
+  - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond.private|Ionic_Bond.private]]"
+  - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond.personal|Ionic_Bond.personal]]"
+  - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond.secret|Ionic_Bond.secret]]"
 ---
 
 # [[Ionic_Bond]] 

@@ -6,45 +6,64 @@ All_Science_Journal_Classification_Codes: 1303
 Basisklassifikation: 44.33
 Commons_category: Biochemistry
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-different_from: '[[_Standards/WikiData/WD~chemical_biology,731154]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_biochemistry,866782]]'
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+different_from: "[[_Standards/WikiData/WD~chemical_biology,731154]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_biochemistry,866782]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fat%20triglyceride%20shorthand%20formula.PNG
 instance_of:
-  - '[[_Standards/WikiData/WD~interdisciplinary_science,1665984]]'
-  - '[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]'
-  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-  - '[[_Standards/WikiData/WD~branch_of_biology,28598684]]'
-is_the_study_of: '[[_Standards/WikiData/WD~bioelement,864276]]'
+  - "[[_Standards/WikiData/WD~interdisciplinary_science,1665984]]"
+  - "[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]"
+  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+  - "[[_Standards/WikiData/WD~branch_of_biology,28598684]]"
+is_the_study_of: "[[_Standards/WikiData/WD~bioelement,864276]]"
 Krugosvet_article: nauka_i_tehnika/himiya/BIOHIMIYA.html
 Library_of_Congress_Classification: QD415-QD436
 maintained_by_WikiProject:
-  - '[[_Standards/WikiData/WD~WikiProject_Biology,6723002]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Chemistry,8487234]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Pharmacology,9958716]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Molecular_Biology,88425552]]'
+  - "[[_Standards/WikiData/WD~WikiProject_Biology,6723002]]"
+  - "[[_Standards/WikiData/WD~WikiProject_Chemistry,8487234]]"
+  - "[[_Standards/WikiData/WD~WikiProject_Pharmacology,9958716]]"
+  - "[[_Standards/WikiData/WD~WikiProject_Molecular_Biology,88425552]]"
 MeSH_tree_code:
   - H01.158.201
   - H01.181.122
 OmegaWiki_Defined_Meaning: 351
 OpenStreetMap_tag_or_key: Tag:healthcare:speciality=biochemistry
 part_of:
-  - '[[_Standards/WikiData/WD~biology,420]]'
-  - '[[_Standards/WikiData/WD~chemistry,2329]]'
-practiced_by: '[[_Standards/WikiData/WD~biochemist,2919046]]'
+  - "[[_Standards/WikiData/WD~biology,420]]"
+  - "[[_Standards/WikiData/WD~chemistry,2329]]"
+practiced_by: "[[_Standards/WikiData/WD~biochemist,2919046]]"
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A3%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%A8.wav
 Stack_Exchange_tag:
   - https://biology.stackexchange.com/tags/biochemistry
   - https://chemistry.stackexchange.com/tags/biochemistry
 subclass_of:
-  - '[[_Standards/WikiData/WD~biology,420]]'
-  - '[[_Standards/WikiData/WD~organic_chemistry,11351]]'
+  - "[[_Standards/WikiData/WD~biology,420]]"
+  - "[[_Standards/WikiData/WD~organic_chemistry,11351]]"
 subreddit: Biochemistry
 UMLS_CUI: C0005477
 U_S_National_Archives_Identifier: 10638831
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_biochemistry,7112566]]'
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_biochemistry,7112566]]"
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Biochemistry,7094|WD~Biochemistry,7094]]"
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Biochemistry|Biochemistry]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Biochemistry.public|Biochemistry.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Biochemistry.internal|Biochemistry.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Biochemistry.protect|Biochemistry.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Biochemistry.private|Biochemistry.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Biochemistry.personal|Biochemistry.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Biochemistry.secret|Biochemistry.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Biochemistry,7094|WD~Biochemistry,7094]]"
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Biochemistry|Biochemistry]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Biochemistry.public|Biochemistry.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Biochemistry.internal|Biochemistry.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Biochemistry.protect|Biochemistry.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Biochemistry.private|Biochemistry.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Biochemistry.personal|Biochemistry.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Biochemistry.secret|Biochemistry.secret]]"
 ---
 
 # [[Biochemistry]] 

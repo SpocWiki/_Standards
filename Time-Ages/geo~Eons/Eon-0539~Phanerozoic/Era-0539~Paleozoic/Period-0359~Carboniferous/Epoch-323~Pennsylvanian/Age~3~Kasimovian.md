@@ -59,15 +59,94 @@ tags:
 title:
   "{ newTitle: }":
 type: private_note
+dv_has_:
+  duration_:
+    years: NaN
+  previous_:
+    item: "[[Age~2~Moscovian]]"
+  next_:
+    item: "[[Age~4~Gzhelian]]"
+  name_:
+    bg: Каѿимов
+    cs: Kasimov
+    da: Kasimovien
+    de: Kasimovium
+    es: Kasimoviense
+    et: Kasimovi
+    fi: Kasimov
+    fr: Kasimovien
+    hu: kaszimovi
+    it: kasimoviano
+    ja: カシモビアン期
+    lt: Kasimovis
+    nl: Kasimoviën
+    no: Kasimovium
+    pl: Kasimow
+    pt: Kasimoviano
+    sk: kasimov
+    sl: kasimovij
+    sv: kasimov
+    zh: 卡西莫夫期
+    abbreviated: c6
+  time_:
+    started: "-307.0e6"
+    stopped: "-303.7e6"
+  text_of_:
+    color: "0xBFD0C5"
+dv_is_:
+  same_as:
+    - "[[WD~Kasimovian,545853]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian|Age~3~Kasimovian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian.public|Age~3~Kasimovian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian.internal|Age~3~Kasimovian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian.protect|Age~3~Kasimovian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian.private|Age~3~Kasimovian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian.personal|Age~3~Kasimovian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian.secret|Age~3~Kasimovian.secret]]"
+dv_has_duration_years: NaN
+dv_has_previous_item: "[[Age~2~Moscovian]]"
+dv_has_next_item: "[[Age~4~Gzhelian]]"
+dv_is_same_as:
+  - "[[WD~Kasimovian,545853]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian|Age~3~Kasimovian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian.public|Age~3~Kasimovian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian.internal|Age~3~Kasimovian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian.protect|Age~3~Kasimovian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian.private|Age~3~Kasimovian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian.personal|Age~3~Kasimovian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian.secret|Age~3~Kasimovian.secret]]"
+dv_has_name_bg: Каѿимов
+dv_has_name_cs: Kasimov
+dv_has_name_da: Kasimovien
+dv_has_name_de: Kasimovium
+dv_has_name_es: Kasimoviense
+dv_has_name_et: Kasimovi
+dv_has_name_fi: Kasimov
+dv_has_name_fr: Kasimovien
+dv_has_name_hu: kaszimovi
+dv_has_name_it: kasimoviano
+dv_has_name_ja: カシモビアン期
+dv_has_name_lt: Kasimovis
+dv_has_name_nl: Kasimoviën
+dv_has_name_no: Kasimovium
+dv_has_name_pl: Kasimow
+dv_has_name_pt: Kasimoviano
+dv_has_name_sk: kasimov
+dv_has_name_sl: kasimovij
+dv_has_name_sv: kasimov
+dv_has_name_zh: 卡西莫夫期
+dv_has_name_abbreviated: c6
+dv_has_time_stopped: "-303.7e6"
+dv_has_text_of_color: "0xBFD0C5"
 ---
 # [[Age~3~Kasimovian]] 
 
 #is_a_/time_/Age 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[Age~2~Moscovian|Age~2~Moscovian]] 
-#has_/next_/item :: [[Age~4~Gzhelian]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Kasimovian,545853]] 
 
 A time period from 307.0 to 303.7 million years ago. 
@@ -89,35 +168,35 @@ A time period from 307.0 to 303.7 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Kasimovian) 
 
 
-#has_/name_/bg  :: Каѿимов
-#has_/name_/cs  :: Kasimov
-#has_/name_/da  :: Kasimovien
-#has_/name_/de  :: Kasimovium
-#has_/name_/es  :: Kasimoviense
-#has_/name_/et  :: Kasimovi
-#has_/name_/fi  :: Kasimov
-#has_/name_/fr  :: Kasimovien
-#has_/name_/hu  :: kaszimovi
-#has_/name_/it  :: kasimoviano
-#has_/name_/ja  :: カシモビアン期
-#has_/name_/lt  :: Kasimovis
-#has_/name_/nl  :: Kasimoviën
-#has_/name_/no  :: Kasimovium
-#has_/name_/pl  :: Kasimow
-#has_/name_/pt  :: Kasimoviano
-#has_/name_/sk  :: kasimov
-#has_/name_/sl  :: kasimovij
-#has_/name_/sv  :: kasimov
-#has_/name_/zh  :: 卡西莫夫期
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/abbreviation :: c6
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
 #has_/time_/started :: -307.0e6 
-#has_/time_/stopped :: -303.7e6 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 93 
 
-#has_/text_of_/color :: 0xBFD0C5
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

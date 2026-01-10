@@ -26,16 +26,18 @@ title: is_including_health_plan_formulary
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending:]
+#is_/part_of :: pending: 
 
 Use it like this: 
-- [ #is_/including_health_plan_formulary :: HealthPlanFormulary] or 
+- [is_/including_health_plan_formulary :: HealthPlanFormulary] 
 - [ is_including_health_plan_formulary :: HealthPlanFormulary] 
 
 Formularies covered by this plan.
 
 Relation describes that: 
-[ #has_/domain  :: HealthInsurancePlan]
+
+#has_/domain  :: HealthInsurancePlan 
+
 ( #has_/name :: is_including_health_plan_formulary)
 ( #has_/range :: HealthPlanFormulary)
 

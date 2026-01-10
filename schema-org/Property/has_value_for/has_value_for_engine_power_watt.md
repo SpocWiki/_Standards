@@ -29,10 +29,10 @@ type: Predi_Quantity
 
 Predicate to describe the Quantity of EngineSpecification.
 
-[ #is_/part_of :: https://auto.schema.org ]
+#is_/part_of :: https://auto.schema.org  
 
 Use it like this: 
-- [ #has_/value_for_/engine_power_watt :: QuantitativeValue ] or 
+- [has_/value_for_/engine_power_watt :: QuantitativeValue ] 
 - [ has_value_for_engine_power_watt :: QuantitativeValue ] 
 
 The power of the vehicle's engine.
@@ -48,7 +48,9 @@ For an overview, see  <a href="http://en.wikipedia.org/wiki/Horsepower#Engine_po
 </ul>
 
 Predicate describes that: 
-[ #has_/domain  :: EngineSpecification ]
+
+#has_/domain  :: EngineSpecification  
+
 ( #has_/name :: has_value_for_engine_power_watt )
 ( #has_/range :: QuantitativeValue )
 

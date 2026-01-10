@@ -29,16 +29,18 @@ type: Predi_Url
 
 Predicate to specify the Url of SpecialAnnouncement.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/url_for_/public_transport_closures_info :: URL, WebContent ] or 
+- [has_/url_for_/public_transport_closures_info :: URL, WebContent ] 
 - [ has_url_for_public_transport_closures_info :: URL, WebContent ] 
 
 Information about public transport closures.
 
 Predicate describes that: 
-[ #has_/domain  :: SpecialAnnouncement ]
+
+#has_/domain  :: SpecialAnnouncement  
+
 ( #has_/name :: has_url_for_public_transport_closures_info )
 ( #has_/range :: URL, WebContent )
 

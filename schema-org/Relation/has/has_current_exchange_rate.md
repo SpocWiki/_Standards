@@ -29,16 +29,18 @@ title: has_current_exchange_rate
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/current_exchange_rate :: UnitPriceSpecification ] or 
+- [has_/current_exchange_rate :: UnitPriceSpecification ] 
 - [ has_current_exchange_rate :: UnitPriceSpecification ] 
 
 The current price of a currency.
 
 Relation describes that: 
-[ #has_/domain  :: ExchangeRateSpecification ]
+
+#has_/domain  :: ExchangeRateSpecification  
+
 ( #has_/name :: has_current_exchange_rate )
 ( #has_/range :: UnitPriceSpecification )
 

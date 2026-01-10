@@ -1,5 +1,7 @@
 ---
-location: [ 44.42083333 , 32.53638889 ] 
+location:
+  - 44.42083333
+  - 32.53638889
 aliases:
   - Achaemenid Empire
   - Achaemenian Empire
@@ -94,6 +96,25 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%
 Commons_category: Achaemenid Empire
 native_label: 𐎧𐏁𐏂
 coordinate_location: Point(44.42083333 32.53638889)
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../WikiData/WD~Achaemenid_Empire,389688|WD~Achaemenid_Empire,389688]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329|-0549-Achaemenid Empire-0329]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329.public|-0549-Achaemenid Empire-0329.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329.internal|-0549-Achaemenid Empire-0329.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329.protect|-0549-Achaemenid Empire-0329.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329.private|-0549-Achaemenid Empire-0329.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329.personal|-0549-Achaemenid Empire-0329.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329.secret|-0549-Achaemenid Empire-0329.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../WikiData/WD~Achaemenid_Empire,389688|WD~Achaemenid_Empire,389688]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329|-0549-Achaemenid Empire-0329]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329.public|-0549-Achaemenid Empire-0329.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329.internal|-0549-Achaemenid Empire-0329.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329.protect|-0549-Achaemenid Empire-0329.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329.private|-0549-Achaemenid Empire-0329.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329.personal|-0549-Achaemenid Empire-0329.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329.secret|-0549-Achaemenid Empire-0329.secret]]"
 ---
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Achaemenid_Empire,389688|WD~Achaemenid_Empire,389688]] 

@@ -7,17 +7,36 @@ aliases:
   - dural
   - Duralumin
 has_id_wikidata: Q243558
-instance_of: '[[_Standards/WikiData/WD~aluminium_alloy,447725]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Dürener_Metallwerke,1272012]]'
+instance_of: "[[_Standards/WikiData/WD~aluminium_alloy,447725]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Dürener_Metallwerke,1272012]]"
 has_part_s_:
-  - '[[_Standards/WikiData/WD~aluminium,663]]'
-  - '[[_Standards/WikiData/WD~magnesium,660]]'
-  - '[[_Standards/WikiData/WD~silicon,670]]'
-  - '[[_Standards/WikiData/WD~iron,677]]'
-  - '[[_Standards/WikiData/WD~manganese,731]]'
-  - '[[_Standards/WikiData/WD~copper,753]]'
+  - "[[_Standards/WikiData/WD~aluminium,663]]"
+  - "[[_Standards/WikiData/WD~magnesium,660]]"
+  - "[[_Standards/WikiData/WD~silicon,670]]"
+  - "[[_Standards/WikiData/WD~iron,677]]"
+  - "[[_Standards/WikiData/WD~manganese,731]]"
+  - "[[_Standards/WikiData/WD~copper,753]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/DLZ129%20spar.jpg
 Commons_category: Aluminium alloys
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Duralumin,243558|WD~Duralumin,243558]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-13-Boron/Aluminium/Duralumin|Duralumin]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-13-Boron/Aluminium/Duralumin.public|Duralumin.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-13-Boron/Aluminium/Duralumin.internal|Duralumin.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-13-Boron/Aluminium/Duralumin.protect|Duralumin.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-13-Boron/Aluminium/Duralumin.private|Duralumin.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-13-Boron/Aluminium/Duralumin.personal|Duralumin.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-13-Boron/Aluminium/Duralumin.secret|Duralumin.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Duralumin,243558|WD~Duralumin,243558]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-13-Boron/Aluminium/Duralumin|Duralumin]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-13-Boron/Aluminium/Duralumin.public|Duralumin.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-13-Boron/Aluminium/Duralumin.internal|Duralumin.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-13-Boron/Aluminium/Duralumin.protect|Duralumin.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-13-Boron/Aluminium/Duralumin.private|Duralumin.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-13-Boron/Aluminium/Duralumin.personal|Duralumin.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-13-Boron/Aluminium/Duralumin.secret|Duralumin.secret]]"
 ---
 
 # [[Duralumin]] 

@@ -10,21 +10,43 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - monetary_amount_distribution
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_monetary_amount_distribution Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_monetary_amount_distribution Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../QuantitativeValueDistribution]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution|Monetary_Amount_Distribution]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution.public|Monetary_Amount_Distribution.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution.internal|Monetary_Amount_Distribution.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution.protect|Monetary_Amount_Distribution.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution.private|Monetary_Amount_Distribution.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution.personal|Monetary_Amount_Distribution.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution.secret|Monetary_Amount_Distribution.secret]]"
+dv_has_:
+  properties: "[ additionalType, alternateName, currency, description, disambiguatingDescription, duration, identifier, image, mainEntityOfPage, median, name, percentile10, percentile25, percentile75, percentile90, potentialAction, sameAs, subjectOf, url ]"
+dv_is_sub_class_of: "[[../QuantitativeValueDistribution]]"
+dv_has_properties: "[ additionalType, alternateName, currency, description, disambiguatingDescription, duration, identifier, image, mainEntityOfPage, median, name, percentile10, percentile25, percentile75, percentile90, potentialAction, sameAs, subjectOf, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution|Monetary_Amount_Distribution]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution.public|Monetary_Amount_Distribution.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution.internal|Monetary_Amount_Distribution.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution.protect|Monetary_Amount_Distribution.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution.private|Monetary_Amount_Distribution.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution.personal|Monetary_Amount_Distribution.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution.secret|Monetary_Amount_Distribution.secret]]"
 ---
 
 Class of all monetary_amount_distributions.
@@ -34,10 +56,9 @@ Tag Instances like this:
 
 A statistical distribution of monetary amounts.
 
-[ #is_/sub_class_of :: [[../QuantitativeValueDistribution]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #has_/properties :: [ additionalType, alternateName, currency, description, disambiguatingDescription, duration, identifier, image, mainEntityOfPage, median, name, percentile10, percentile25, percentile75, percentile90, potentialAction, sameAs, subjectOf, url ] ]
-
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

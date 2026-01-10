@@ -63,6 +63,25 @@ MeSH_tree_code:
   - D20.345.630.600
   - N06.230.132.258.630.600
 RTECS_number: OA5500000
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Kerosene,76904]]"
+    - "[[/_Standards/Chemistry/Material/Fuel/Fossil_Fuel/Kerosene|Kerosene]]"
+    - "[[/_public/Chemistry/Material/Fuel/Fossil_Fuel/Kerosene.public|Kerosene.public]]"
+    - "[[/_internal/Chemistry/Material/Fuel/Fossil_Fuel/Kerosene.internal|Kerosene.internal]]"
+    - "[[/_protect/Chemistry/Material/Fuel/Fossil_Fuel/Kerosene.protect|Kerosene.protect]]"
+    - "[[/_private/Chemistry/Material/Fuel/Fossil_Fuel/Kerosene.private|Kerosene.private]]"
+    - "[[/_personal/Chemistry/Material/Fuel/Fossil_Fuel/Kerosene.personal|Kerosene.personal]]"
+    - "[[/_secret/Chemistry/Material/Fuel/Fossil_Fuel/Kerosene.secret|Kerosene.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Kerosene,76904]]"
+  - "[[/_Standards/Chemistry/Material/Fuel/Fossil_Fuel/Kerosene|Kerosene]]"
+  - "[[/_public/Chemistry/Material/Fuel/Fossil_Fuel/Kerosene.public|Kerosene.public]]"
+  - "[[/_internal/Chemistry/Material/Fuel/Fossil_Fuel/Kerosene.internal|Kerosene.internal]]"
+  - "[[/_protect/Chemistry/Material/Fuel/Fossil_Fuel/Kerosene.protect|Kerosene.protect]]"
+  - "[[/_private/Chemistry/Material/Fuel/Fossil_Fuel/Kerosene.private|Kerosene.private]]"
+  - "[[/_personal/Chemistry/Material/Fuel/Fossil_Fuel/Kerosene.personal|Kerosene.personal]]"
+  - "[[/_secret/Chemistry/Material/Fuel/Fossil_Fuel/Kerosene.secret|Kerosene.secret]]"
 ---
 
 # [[Kerosene]] 

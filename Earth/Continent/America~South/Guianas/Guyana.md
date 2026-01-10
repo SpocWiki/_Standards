@@ -301,7 +301,7 @@ dv_ISO4217-currency_country_name: GUYANA
 dv_Telephone: 592
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Guyana
+dv_has_name: Guyana
 dv_has_name_en: Guyana
 dv_has_name_es: Guyana
 dv_has_name_fr: Guyana
@@ -396,7 +396,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 [	has_name_en	 :: Guyana ]
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`

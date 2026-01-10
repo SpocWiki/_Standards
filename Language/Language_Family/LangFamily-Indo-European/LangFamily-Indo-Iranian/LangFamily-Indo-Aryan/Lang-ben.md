@@ -13,7 +13,9 @@ type: Lang
 # [[Lang-ben]] 
 
 [SpocWebEntityId:: 468 ]
-[has_/name::Bengali]
+
+has_/name::Bengali 
+
 [PropId_Name::768]
 [PropId_Text::668]
 [LangFamilyId::233]

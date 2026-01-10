@@ -239,11 +239,32 @@ vapor_pressure:
   - 44
   - 58
 ZVG_number: 10420
+dv_is_:
+  part_of: "[[../../../Organic_Chemistry]]"
+  same_as:
+    - "[[../../../../WikiData/WD~Ethanol,153|WD~Ethanol,153]]"
+    - "[[/_Standards/Chemistry/Organic_Chemistry/Alcohol/Ethanol|Ethanol]]"
+    - "[[/_public/Chemistry/Organic_Chemistry/Alcohol/Ethanol.public|Ethanol.public]]"
+    - "[[/_internal/Chemistry/Organic_Chemistry/Alcohol/Ethanol.internal|Ethanol.internal]]"
+    - "[[/_protect/Chemistry/Organic_Chemistry/Alcohol/Ethanol.protect|Ethanol.protect]]"
+    - "[[/_private/Chemistry/Organic_Chemistry/Alcohol/Ethanol.private|Ethanol.private]]"
+    - "[[/_personal/Chemistry/Organic_Chemistry/Alcohol/Ethanol.personal|Ethanol.personal]]"
+    - "[[/_secret/Chemistry/Organic_Chemistry/Alcohol/Ethanol.secret|Ethanol.secret]]"
+dv_is_part_of: "[[../../../Organic_Chemistry]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Ethanol,153|WD~Ethanol,153]]"
+  - "[[/_Standards/Chemistry/Organic_Chemistry/Alcohol/Ethanol|Ethanol]]"
+  - "[[/_public/Chemistry/Organic_Chemistry/Alcohol/Ethanol.public|Ethanol.public]]"
+  - "[[/_internal/Chemistry/Organic_Chemistry/Alcohol/Ethanol.internal|Ethanol.internal]]"
+  - "[[/_protect/Chemistry/Organic_Chemistry/Alcohol/Ethanol.protect|Ethanol.protect]]"
+  - "[[/_private/Chemistry/Organic_Chemistry/Alcohol/Ethanol.private|Ethanol.private]]"
+  - "[[/_personal/Chemistry/Organic_Chemistry/Alcohol/Ethanol.personal|Ethanol.personal]]"
+  - "[[/_secret/Chemistry/Organic_Chemistry/Alcohol/Ethanol.secret|Ethanol.secret]]"
 ---
 
 # [[Ethanol]] 
 
-#is_/part_of :: [[Organic_Chemistry]] 
+is_part_of = `=this.dv_is_part_of` 
 
 ## Ethanol 
 ```

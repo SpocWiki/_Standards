@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: MOLDOVA (THE REPUBLIC OF)
 dv_Telephone: 373
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Moldova
+dv_has_name: Moldova
 dv_has_name_en:
   - Republic of Moldova
   - Moldova
@@ -454,7 +454,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 [	has_name_en	 :: Republic of Moldova ]
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`

@@ -11,7 +11,7 @@ dv_ISO4217-currency_country_name: AFGHANISTAN
 dv_Telephone: 93
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Afghanistan
+dv_has_name: Afghanistan
 dv_has_name_en: Afghanistan
 dv_has_name_es: Afganistán
 dv_has_name_fr: Afghanistan
@@ -568,7 +568,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 [	has_name_en	 :: Afghanistan ]
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`

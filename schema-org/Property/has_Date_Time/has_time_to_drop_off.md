@@ -10,34 +10,60 @@ cssclasses:
   - Predicate
   - Date_Time
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
-layout: ''
+keywords: ""
+layout: ""
 license: CC BY-SA 4.0
-linkTitle: ''
+linkTitle: ""
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Date
 title: has_time_to_drop_off
 type: Predi_Date_Time
+dv_has_time_to_drop_off: P#Y#M#W#DT#H#M#s.fff
+dv_has_:
+  time_:
+    to_drop_off: P#Y#M#W#DT#H#M#s.fff
+  name: has_time_to_drop_off
+dv_domain: RentalCarReservation
+dv_range: DateTime
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_to_drop_off|has_time_to_drop_off]]"
+    - "[[/_public/schema-org/Property/has_Date_Time/has_time_to_drop_off.public|has_time_to_drop_off.public]]"
+    - "[[/_internal/schema-org/Property/has_Date_Time/has_time_to_drop_off.internal|has_time_to_drop_off.internal]]"
+    - "[[/_protect/schema-org/Property/has_Date_Time/has_time_to_drop_off.protect|has_time_to_drop_off.protect]]"
+    - "[[/_private/schema-org/Property/has_Date_Time/has_time_to_drop_off.private|has_time_to_drop_off.private]]"
+    - "[[/_personal/schema-org/Property/has_Date_Time/has_time_to_drop_off.personal|has_time_to_drop_off.personal]]"
+    - "[[/_secret/schema-org/Property/has_Date_Time/has_time_to_drop_off.secret|has_time_to_drop_off.secret]]"
+dv_has_name: has_time_to_drop_off
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_to_drop_off|has_time_to_drop_off]]"
+  - "[[/_public/schema-org/Property/has_Date_Time/has_time_to_drop_off.public|has_time_to_drop_off.public]]"
+  - "[[/_internal/schema-org/Property/has_Date_Time/has_time_to_drop_off.internal|has_time_to_drop_off.internal]]"
+  - "[[/_protect/schema-org/Property/has_Date_Time/has_time_to_drop_off.protect|has_time_to_drop_off.protect]]"
+  - "[[/_private/schema-org/Property/has_Date_Time/has_time_to_drop_off.private|has_time_to_drop_off.private]]"
+  - "[[/_personal/schema-org/Property/has_Date_Time/has_time_to_drop_off.personal|has_time_to_drop_off.personal]]"
+  - "[[/_secret/schema-org/Property/has_Date_Time/has_time_to_drop_off.secret|has_time_to_drop_off.secret]]"
 ---
 
 Predicate to describe the time of RentalCarReservation.
 
 Use it like this: 
-- [has_time_to_drop_off::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/time_/to_drop_off::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
+- has_time_to_drop_off = `=this.dv_has_time_to_drop_off`  
+- has_time_to_drop_off = `=this.dv_has_time_to_drop_off`  
+with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
 When a rental car can be dropped off.
 
 Formal Predicate: 
-[domain::RentalCarReservation]
-(has_/name::has_time_to_drop_off)
-(range::DateTime)
+domain = `=this.dv_domain` 
+has_name = `=this.dv_has_name` 
+range = `=this.dv_range` 
 
 
 ## Confidential Links & Embeds: 

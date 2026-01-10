@@ -50,13 +50,15 @@ ValidFrom:: {"type":"Number","options":{}}
 ValidThrough:: {"type":"Number","options":{}}
 
 Use it like this: 
-- [ #has_/opening_hours_specification :: OpeningHoursSpecification ] or 
+- [has_/opening_hours_specification :: OpeningHoursSpecification ] 
 - [ has_opening_hours_specification :: OpeningHoursSpecification ] 
 
 The opening hours of a certain place.
 
 Relation describes that: 
-[ #has_/domain  :: Place ]
+
+#has_/domain  :: Place  
+
 ( #has_/name :: has_opening_hours_specification )
 ( #has_/range :: OpeningHoursSpecification )
 

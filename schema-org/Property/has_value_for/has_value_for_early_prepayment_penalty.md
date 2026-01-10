@@ -29,16 +29,18 @@ type: Predi_Quantity
 
 Predicate to describe the Quantity of RepaymentSpecification.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/value_for_/early_prepayment_penalty :: MonetaryAmount ] or 
+- [has_/value_for_/early_prepayment_penalty :: MonetaryAmount ] 
 - [ has_value_for_early_prepayment_penalty :: MonetaryAmount ] 
 
 The amount to be paid as a penalty in the event of early payment of the loan.
 
 Predicate describes that: 
-[ #has_/domain  :: RepaymentSpecification ]
+
+#has_/domain  :: RepaymentSpecification  
+
 ( #has_/name :: has_value_for_early_prepayment_penalty )
 ( #has_/range :: MonetaryAmount )
 

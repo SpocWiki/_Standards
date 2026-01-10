@@ -10,36 +10,65 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - legal
   - name
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_name_legal
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_name_legal
 type: Pred_Text
+dv_has_:
+  name_legal: Text
+  domain: Organization
+dv_has_name_legal: Text
+dv_#has_:
+  name: has_name_legal
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_name/has_name_legal|has_name_legal]]"
+    - "[[/_public/schema-org/Property/has_name/has_name_legal.public|has_name_legal.public]]"
+    - "[[/_internal/schema-org/Property/has_name/has_name_legal.internal|has_name_legal.internal]]"
+    - "[[/_protect/schema-org/Property/has_name/has_name_legal.protect|has_name_legal.protect]]"
+    - "[[/_private/schema-org/Property/has_name/has_name_legal.private|has_name_legal.private]]"
+    - "[[/_personal/schema-org/Property/has_name/has_name_legal.personal|has_name_legal.personal]]"
+    - "[[/_secret/schema-org/Property/has_name/has_name_legal.secret|has_name_legal.secret]]"
+dv_has_domain: Organization
+dv_has_name: has_name_legal
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_name/has_name_legal|has_name_legal]]"
+  - "[[/_public/schema-org/Property/has_name/has_name_legal.public|has_name_legal.public]]"
+  - "[[/_internal/schema-org/Property/has_name/has_name_legal.internal|has_name_legal.internal]]"
+  - "[[/_protect/schema-org/Property/has_name/has_name_legal.protect|has_name_legal.protect]]"
+  - "[[/_private/schema-org/Property/has_name/has_name_legal.private|has_name_legal.private]]"
+  - "[[/_personal/schema-org/Property/has_name/has_name_legal.personal|has_name_legal.personal]]"
+  - "[[/_secret/schema-org/Property/has_name/has_name_legal.secret|has_name_legal.secret]]"
 ---
 
 Predicate to describe the Text of Organization.
 
 Use it like this: 
-- [ #has_/name_legal :: Text ] or 
-- [ has_name_legal :: Text ] 
+- has_name_legal = `=this.dv_has_name_legal`  
+- has_name_legal = `=this.dv_has_name_legal`  
 
 The official name of the organization, e.g. the registered company name.
 
 Predicated describes that: 
-[ #has_/domain  :: Organization ]
-( #has_/name :: has_name_legal )
-( #has_/range :: Text )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

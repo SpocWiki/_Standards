@@ -29,16 +29,18 @@ title: has_health_plan_copay
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/health_plan_copay :: PriceSpecification ] or 
+- [has_/health_plan_copay :: PriceSpecification ] 
 - [ has_health_plan_copay :: PriceSpecification ] 
 
 The copay amount.
 
 Relation describes that: 
-[ #has_/domain  :: HealthPlanCostSharingSpecification ]
+
+#has_/domain  :: HealthPlanCostSharingSpecification  
+
 ( #has_/name :: has_health_plan_copay )
 ( #has_/range :: PriceSpecification )
 

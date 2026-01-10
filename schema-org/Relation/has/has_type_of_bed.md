@@ -9,7 +9,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,28 +17,57 @@ keywords:
   - type
   - of
   - bed
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_type_of_bed
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_type_of_bed
 type: Predi_Relation
+dv_has_:
+  type_of_bed: BedType, Text
+  domain: BedDetails
+dv_has_type_of_bed: BedType, Text
+dv_#has_:
+  name: is_type_of_bed
+  range: BedType, Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_type_of_bed|has_type_of_bed]]"
+    - "[[/_public/schema-org/Relation/has/has_type_of_bed.public|has_type_of_bed.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_type_of_bed.internal|has_type_of_bed.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_type_of_bed.protect|has_type_of_bed.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_type_of_bed.private|has_type_of_bed.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_type_of_bed.personal|has_type_of_bed.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_type_of_bed.secret|has_type_of_bed.secret]]"
+dv_has_domain: BedDetails
+dv_has_name: is_type_of_bed
+dv_has_range: BedType, Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_type_of_bed|has_type_of_bed]]"
+  - "[[/_public/schema-org/Relation/has/has_type_of_bed.public|has_type_of_bed.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_type_of_bed.internal|has_type_of_bed.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_type_of_bed.protect|has_type_of_bed.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_type_of_bed.private|has_type_of_bed.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_type_of_bed.personal|has_type_of_bed.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_type_of_bed.secret|has_type_of_bed.secret]]"
 ---
 
 Use it like this: 
-- [ #has_/type_of_bed :: BedType, Text ] or 
-- [ has_type_of_bed :: BedType, Text ] 
+- has_type_of_bed = `=this.dv_has_type_of_bed`  
+- has_type_of_bed = `=this.dv_has_type_of_bed`  
 
 The type of bed to which the BedDetail refers, i.e. the type of bed available in the quantity indicated by quantity.
 
 Relation describes that: 
-[ #has_/domain  :: BedDetails ]
-( #has_/name :: is_type_of_bed )
-( #has_/range :: BedType, Text )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

@@ -56,7 +56,7 @@ place_of_birth: "[[_Standards/WikiData/WD~Gallia_Narbonensis,26897]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
 Europeana_entity: agent/base/110551
 Libris_URI: c9prs98w0qbvm9p
-Wolfram_Language_entity_code: Entity["Concept", "GaiusCorneliusTacitus::ypz2b"]
+Wolfram_Language_entity_code: Entity"Concept", "GaiusCorneliusTacitus = `=this.dv_"Concept", "GaiusCorneliusTacitus` 
 Krugosvet_article_archived_: istoriya/TATSIT_KORNELI.html
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/45552
 Royal_Academy_new_identifier: publius-cornelius-tacitus
@@ -71,6 +71,27 @@ Commons_Creator_page: Publius Cornelius Tacitus
 date_of_birth: 0055-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tacitus%2C%20Cornelius%20%2850%20-%20116%29.jpg
 ISNI: "0000000121033889"
+dv_"Concept", "GaiusCorneliusTacitus: ypz2b"
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../../WikiData/WD~Tacitus,2161|WD~Tacitus,2161]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Tacitus|Tacitus]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Tacitus.public|Tacitus.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Tacitus.internal|Tacitus.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Tacitus.protect|Tacitus.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Tacitus.private|Tacitus.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Tacitus.personal|Tacitus.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Tacitus.secret|Tacitus.secret]]"
+dv_concept-gaiuscorneliustacitus: ypz2b"
+dv_is_same_as:
+  - "[[../../../../../../../../../WikiData/WD~Tacitus,2161|WD~Tacitus,2161]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Tacitus|Tacitus]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Tacitus.public|Tacitus.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Tacitus.internal|Tacitus.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Tacitus.protect|Tacitus.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Tacitus.private|Tacitus.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Tacitus.personal|Tacitus.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Tacitus.secret|Tacitus.secret]]"
 ---
 
 # [[Tacitus]] 

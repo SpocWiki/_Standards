@@ -67,7 +67,9 @@ writing_system:
 
 
 [SpocWebEntityId:: 246 ] 
-[has_/name::Hindi-Urdu] 
+
+has_/name::Hindi-Urdu 
+
 [PropId_Name::546] 
 [PropId_Text::446] 
 [LangFamilyId::233] 

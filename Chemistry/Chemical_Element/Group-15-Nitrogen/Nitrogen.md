@@ -10,49 +10,49 @@ Commons_category: Nitrogen
 Commons_gallery: Nitrogen
 Common_Procurement_Vocabulary_code: 24111700
 described_by_source:
-  - '[[_Standards/WikiData/WD~Opium_Law,316572]]'
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
+  - "[[_Standards/WikiData/WD~Opium_Law,316572]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]'
-  - '[[_Standards/WikiData/WD~Nitrogen,84695628]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]"
+  - "[[_Standards/WikiData/WD~Nitrogen,84695628]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 Dewey_Decimal_Classification:
   - 546.711
   - 553.93
-different_from: '[[_Standards/WikiData/WD~dinitrogen,2370426]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~daniel_Rutherford,313067]]'
+different_from: "[[_Standards/WikiData/WD~dinitrogen,2370426]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~daniel_Rutherford,313067]]"
 electronegativity: 3
 electron_configuration:
   - 1s² 2s² 2p³
-  - '[He] 2s² 2p³'
+  - "[He] 2s² 2p³"
 element_symbol: N
 E_number: E941
 has_characteristic:
-  - '[[_Standards/WikiData/WD~colorlessness,11567495]]'
-  - '[[_Standards/WikiData/WD~odorlessness,30007162]]'
-  - '[[_Standards/WikiData/WD~tastelessness,30100868]]'
-has_use: '[[_Standards/WikiData/WD~food_additive,189567]]'
+  - "[[_Standards/WikiData/WD~colorlessness,11567495]]"
+  - "[[_Standards/WikiData/WD~odorlessness,30007162]]"
+  - "[[_Standards/WikiData/WD~tastelessness,30100868]]"
+has_use: "[[_Standards/WikiData/WD~food_additive,189567]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fluessiger%20Stickstoff.jpg
 instance_of:
-  - '[[_Standards/WikiData/WD~atmophile_element,2313842]]'
-  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
+  - "[[_Standards/WikiData/WD~atmophile_element,2313842]]"
+  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
 ionic_radius:
   - 0.13
   - 0.16
 Krugosvet_article: nauka_i_tehnika/himiya/AZOT.html
-location_of_discovery: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+location_of_discovery: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
 mass: 14.007
 MeSH_tree_code:
   - D01.268.604
   - D01.362.625
 named_after:
-  - '[[_Standards/WikiData/WD~niter,11183742]]'
-  - '[[_Standards/WikiData/WD~life,3]]'
+  - "[[_Standards/WikiData/WD~niter,11183742]]"
+  - "[[_Standards/WikiData/WD~life,3]]"
 OmegaWiki_Defined_Meaning: 2514
 oxidation_state:
   - -3
@@ -64,49 +64,135 @@ oxidation_state:
   - 4
   - 5
 part_of:
-  - '[[_Standards/WikiData/WD~group_15,106675]]'
-  - '[[_Standards/WikiData/WD~period_2,207712]]'
+  - "[[_Standards/WikiData/WD~group_15,106675]]"
+  - "[[_Standards/WikiData/WD~period_2,207712]]"
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Stickstoff.ogg
 SpocWebEntityId: 21909
 subclass_of:
-  - '[[_Standards/WikiData/WD~diatomic_nonmetal,19753344]]'
-  - '[[_Standards/WikiData/WD~nonmetal,19600]]'
+  - "[[_Standards/WikiData/WD~diatomic_nonmetal,19753344]]"
+  - "[[_Standards/WikiData/WD~nonmetal,19600]]"
 time_of_discovery_or_invention: 1772
 type: Element
 UMLS_CUI: C0028158
 Unicode_character: 氮
+dv_has_:
+  name_:
+    group: Group-15-Nitrogen
+    en: Nitrogen
+    de: Stickstoff
+    abbreviated: N
+  value_for_:
+    weight_:
+      u: 14.0067
+    radius: 0.75
+    volume_:
+      ccm_:
+        mol: 17.3
+    unknown2: 0.75
+    radius_:
+      nano_:
+        m: 14.534
+    electronegativity: 3
+    density: 1.251
+    temperature_:
+      melt_:
+        c: -209.86
+      boil_:
+        c: -195.8
+    capacity_:
+      heat: 1.04
+    conductivity_:
+      heat: 0.00026
+    enthalpy: 0.3604
+    energy_:
+      form_:
+        kj_:
+          mol: 2.7928
+  number_of_:
+    period: 2
+    electrons: 7
+    group: 15
+dv_is_:
+  part_of: "[[../Group-15-Nitrogen]]"
+  same_as:
+    - "[[../../../WikiData/WD~Nitrogen,627]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/Nitrogen|Nitrogen]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Nitrogen.public|Nitrogen.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Nitrogen.internal|Nitrogen.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/Nitrogen.protect|Nitrogen.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Nitrogen.private|Nitrogen.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Nitrogen.personal|Nitrogen.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Nitrogen.secret|Nitrogen.secret]]"
+dv_has_name_group: Group-15-Nitrogen
+dv_is_part_of: "[[../Group-15-Nitrogen]]"
+dv_has_name_en: Nitrogen
+dv_has_name_de: Stickstoff
+dv_has_value_for_weight_u: 14.0067
+dv_has_value_for_radius: 0.75
+dv_has_value_for_volume_ccm_mol: 17.3
+dv_has_value_for_unknown2: 0.75
+dv_has_value_for_radius_nano_m: 14.534
+dv_has_value_for_electronegativity: 3
+dv_has_value_for_density: 1.251
+dv_has_value_for_temperature_melt_c: -209.86
+dv_has_value_for_temperature_boil_c: -195.8
+dv_has_value_for_capacity_heat: 1.04
+dv_has_value_for_conductivity_heat: 0.00026
+dv_has_value_for_enthalpy: 0.3604
+dv_has_value_for_energy_form_kj_mol: 2.7928
+dv_has_number_of_period: 2
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Nitrogen,627]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/Nitrogen|Nitrogen]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Nitrogen.public|Nitrogen.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Nitrogen.internal|Nitrogen.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/Nitrogen.protect|Nitrogen.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Nitrogen.private|Nitrogen.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Nitrogen.personal|Nitrogen.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Nitrogen.secret|Nitrogen.secret]]"
+dv_has_name_abbreviated: N
+dv_has_number_of_electrons: 7
+dv_has_number_of_group: 15
 ---
 
 # [[Nitrogen]] 
 
 #chemic/Element 
-[GroupName::Group-15-Nitrogen]
-Group::[[../Group-15-Nitrogen]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
-[#has_/name_/en::Nitrogen]
-[#has_/name_/de::Stickstoff]
-[#has_/value_for_/weight_/u::14.0067]
-[AtomRadius::0.75]
-[Atom-Vol-ccm-mol::17.3]
-[Unknown2::0.75]
-[#has_/value_for_/radius_/nano_/m::14.534]
-[Electronegative::3]
-[Density::1.251]
-[#has_/value_for_/temperature_/melt_/c ::-209.86]
-[#has_/value_for_/temperature_/boil_/c ::-195.8]
-[HeatCapacity::1.04]
-[HeatConduct::0.00026]
-[Enthalpy::0.3604]
-[FormEnergy-kj-mol::2.7928]
-(PeriodNo::2)
+has_name_en = `=this.dv_has_name_en` 
+
+has_name_de = `=this.dv_has_name_de` 
+
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
+
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
+
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
+
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
+
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
+
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
+
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
 
 #is_/same_as :: [[../../../WikiData/WD~Nitrogen,627]]  
 
 
 ## #has_/text_of_/abstract 
 
-> **Nitrogen** is the chemical element with the symbol (Abbr::N) and atomic number (Charge-e::7). 
-> Nitrogen is a nonmetal and the lightest member of group (GroupNo::15) of the periodic table, 
+> **Nitrogen** is the chemical element with the symbol has_name_abbreviated = `=this.dv_has_name_abbreviated`  and atomic number has_number_of_electrons = `=this.dv_has_number_of_electrons` . 
+> Nitrogen is a nonmetal and the lightest member of group has_number_of_group = `=this.dv_has_number_of_group`  of the periodic table, 
 > often called the pnictogens. I
 > 
 > t is a common element in the universe, estimated at 

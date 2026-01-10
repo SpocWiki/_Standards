@@ -13,6 +13,25 @@ discoverer_or_inventor:
   - "[[_Standards/WikiData/WD~Georg_Ernst_Stahl,57566]]"
   - "[[_Standards/WikiData/WD~Johann_Joachim_Becher,60808]]"
 OmegaWiki_Defined_Meaning: "1341619"
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Phlogiston,193353]]"
+    - "[[/_Standards/Chemistry/History_of_Chemistry/Phlogiston|Phlogiston]]"
+    - "[[/_public/Chemistry/History_of_Chemistry/Phlogiston.public|Phlogiston.public]]"
+    - "[[/_internal/Chemistry/History_of_Chemistry/Phlogiston.internal|Phlogiston.internal]]"
+    - "[[/_protect/Chemistry/History_of_Chemistry/Phlogiston.protect|Phlogiston.protect]]"
+    - "[[/_private/Chemistry/History_of_Chemistry/Phlogiston.private|Phlogiston.private]]"
+    - "[[/_personal/Chemistry/History_of_Chemistry/Phlogiston.personal|Phlogiston.personal]]"
+    - "[[/_secret/Chemistry/History_of_Chemistry/Phlogiston.secret|Phlogiston.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Phlogiston,193353]]"
+  - "[[/_Standards/Chemistry/History_of_Chemistry/Phlogiston|Phlogiston]]"
+  - "[[/_public/Chemistry/History_of_Chemistry/Phlogiston.public|Phlogiston.public]]"
+  - "[[/_internal/Chemistry/History_of_Chemistry/Phlogiston.internal|Phlogiston.internal]]"
+  - "[[/_protect/Chemistry/History_of_Chemistry/Phlogiston.protect|Phlogiston.protect]]"
+  - "[[/_private/Chemistry/History_of_Chemistry/Phlogiston.private|Phlogiston.private]]"
+  - "[[/_personal/Chemistry/History_of_Chemistry/Phlogiston.personal|Phlogiston.personal]]"
+  - "[[/_secret/Chemistry/History_of_Chemistry/Phlogiston.secret|Phlogiston.secret]]"
 ---
 
 # [[Phlogiston]] 

@@ -36,16 +36,17 @@ Inverse Relation of [[has_work_example]] and .
 
 
 Use it like this: 
-- [ #is_/example_of_work :: CreativeWork ] or 
+- [is_/example_of_work :: CreativeWork ] 
 - [ is_example_of_work :: CreativeWork ] 
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork ]
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: is_example_of_work )
 ( #has_/range :: CreativeWork )
 
-[ #is_/inverse_of  :: workExample ]
-
+#is_/inverse_of  :: workExample  
 
 ## Confidential Links & Embeds: 
 

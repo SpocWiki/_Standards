@@ -30,18 +30,19 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/part_of_/episode :: Episode ] or 
+- [is_/part_of_/episode :: Episode ] 
 - [ is_part_of_episode :: Episode ] 
 
 The episode to which this clip belongs.
 
 Relation describes that: 
-[ #has_/domain  :: Clip ]
+
+#has_/domain  :: Clip  
+
 ( #has_/name :: is_part_of_episode )
 ( #has_/range :: Episode )
 
-[ #is_/sub_property_of  :: isPartOf ]
-
+#is_/sub_property_of  :: isPartOf  
 
 ## Confidential Links & Embeds: 
 

@@ -31,10 +31,10 @@ type: Predi_Quantity
 
 Predicate to describe the Quantity of [[../../../fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~EngineSpecification|FileClass~EngineSpecification]].
 
-[ #is_/part_of :: https://auto.schema.org ]
+#is_/part_of :: https://auto.schema.org  
 
 Use it like this: 
-- [ #has_/value_for_/torque_Nm :: QuantitativeValue ] or 
+- [has_/value_for_/torque_Nm :: QuantitativeValue ] 
 - [ has_value_for_torque_Nm :: QuantitativeValue ] 
 
 The torque (turning force) of the vehicle's engine.
@@ -50,7 +50,9 @@ Typical unit code(s):
 </ul>
 
 Predicate describes that: 
-[ #has_/domain  :: EngineSpecification ]
+
+#has_/domain  :: EngineSpecification  
+
 ( #has_/name :: has_value_for_torque_Nm )
 ( #has_/range :: QuantitativeValue )
 

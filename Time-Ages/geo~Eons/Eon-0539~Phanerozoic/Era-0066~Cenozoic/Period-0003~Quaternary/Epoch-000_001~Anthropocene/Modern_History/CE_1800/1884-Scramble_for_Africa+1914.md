@@ -16,6 +16,25 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%2
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Punch%20Rhodes%20Colossus.png
 Krugosvet_article_archived_: istoriya/KOLONIALNI_RAZDEL_MIRA.html
 end_time: 1914-01-01T00:00:00Z
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../WikiData/WD~Scramble_for_Africa,179848]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Scramble_for_Africa+1914|1884-Scramble_for_Africa+1914]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Scramble_for_Africa+1914.public|1884-Scramble_for_Africa+1914.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Scramble_for_Africa+1914.internal|1884-Scramble_for_Africa+1914.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Scramble_for_Africa+1914.protect|1884-Scramble_for_Africa+1914.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Scramble_for_Africa+1914.private|1884-Scramble_for_Africa+1914.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Scramble_for_Africa+1914.personal|1884-Scramble_for_Africa+1914.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Scramble_for_Africa+1914.secret|1884-Scramble_for_Africa+1914.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../WikiData/WD~Scramble_for_Africa,179848]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Scramble_for_Africa+1914|1884-Scramble_for_Africa+1914]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Scramble_for_Africa+1914.public|1884-Scramble_for_Africa+1914.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Scramble_for_Africa+1914.internal|1884-Scramble_for_Africa+1914.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Scramble_for_Africa+1914.protect|1884-Scramble_for_Africa+1914.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Scramble_for_Africa+1914.private|1884-Scramble_for_Africa+1914.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Scramble_for_Africa+1914.personal|1884-Scramble_for_Africa+1914.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Scramble_for_Africa+1914.secret|1884-Scramble_for_Africa+1914.secret]]"
 ---
 
 # [[1884-Scramble_for_Africa+1914]] 

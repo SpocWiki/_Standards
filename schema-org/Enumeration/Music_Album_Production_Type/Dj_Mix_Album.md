@@ -11,21 +11,42 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: MusicAlbumProductionType
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - dj_mix_album
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_dj_mix_album Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_dj_mix_album Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../MusicAlbumProductionType]]"
+  enum_of: "[[../MusicAlbumProductionType]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Music_Album_Production_Type/Dj_Mix_Album|Dj_Mix_Album]]"
+    - "[[/_public/schema-org/Enumeration/Music_Album_Production_Type/Dj_Mix_Album.public|Dj_Mix_Album.public]]"
+    - "[[/_internal/schema-org/Enumeration/Music_Album_Production_Type/Dj_Mix_Album.internal|Dj_Mix_Album.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Music_Album_Production_Type/Dj_Mix_Album.protect|Dj_Mix_Album.protect]]"
+    - "[[/_private/schema-org/Enumeration/Music_Album_Production_Type/Dj_Mix_Album.private|Dj_Mix_Album.private]]"
+    - "[[/_personal/schema-org/Enumeration/Music_Album_Production_Type/Dj_Mix_Album.personal|Dj_Mix_Album.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Music_Album_Production_Type/Dj_Mix_Album.secret|Dj_Mix_Album.secret]]"
+dv_is_sub_class_of: "[[../MusicAlbumProductionType]]"
+dv_is_enum_of: "[[../MusicAlbumProductionType]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Music_Album_Production_Type/Dj_Mix_Album|Dj_Mix_Album]]"
+  - "[[/_public/schema-org/Enumeration/Music_Album_Production_Type/Dj_Mix_Album.public|Dj_Mix_Album.public]]"
+  - "[[/_internal/schema-org/Enumeration/Music_Album_Production_Type/Dj_Mix_Album.internal|Dj_Mix_Album.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Music_Album_Production_Type/Dj_Mix_Album.protect|Dj_Mix_Album.protect]]"
+  - "[[/_private/schema-org/Enumeration/Music_Album_Production_Type/Dj_Mix_Album.private|Dj_Mix_Album.private]]"
+  - "[[/_personal/schema-org/Enumeration/Music_Album_Production_Type/Dj_Mix_Album.personal|Dj_Mix_Album.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Music_Album_Production_Type/Dj_Mix_Album.secret|Dj_Mix_Album.secret]]"
 ---
 
 Class of all dj_mix_albums.
@@ -35,10 +56,9 @@ Tag Instances like this:
 
 DJMixAlbum.
 
-[ #is_/sub_class_of :: [[../MusicAlbumProductionType]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #is_/enum_of :: [[../MusicAlbumProductionType]] ]
-
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

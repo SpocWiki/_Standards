@@ -29,10 +29,10 @@ title: has_disease_spread_statistics
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/disease_spread_statistics :: Dataset, Observation, URL, WebContent ] or 
+- [has_/disease_spread_statistics :: Dataset, Observation, URL, WebContent ] 
 - [ has_disease_spread_statistics :: Dataset, Observation, URL, WebContent ] 
 
 Statistical information about the spread of a disease, either as [[WebContent]], or
@@ -40,7 +40,9 @@ Statistical information about the spread of a disease, either as [[WebContent]],
   provided, the page indicated might also contain more such markup.
 
 Relation describes that: 
-[ #has_/domain  :: SpecialAnnouncement ]
+
+#has_/domain  :: SpecialAnnouncement  
+
 ( #has_/name :: has_disease_spread_statistics )
 ( #has_/range :: Dataset, Observation, URL, WebContent )
 

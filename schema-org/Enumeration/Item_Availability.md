@@ -11,21 +11,40 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - item_availability
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_an_item_availability Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_an_item_availability Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../Enumeration]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Item_Availability|Item_Availability]]"
+    - "[[/_public/schema-org/Enumeration/Item_Availability.public|Item_Availability.public]]"
+    - "[[/_internal/schema-org/Enumeration/Item_Availability.internal|Item_Availability.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Item_Availability.protect|Item_Availability.protect]]"
+    - "[[/_private/schema-org/Enumeration/Item_Availability.private|Item_Availability.private]]"
+    - "[[/_personal/schema-org/Enumeration/Item_Availability.personal|Item_Availability.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Item_Availability.secret|Item_Availability.secret]]"
+dv_is_sub_class_of: "[[../Enumeration]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Item_Availability|Item_Availability]]"
+  - "[[/_public/schema-org/Enumeration/Item_Availability.public|Item_Availability.public]]"
+  - "[[/_internal/schema-org/Enumeration/Item_Availability.internal|Item_Availability.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Item_Availability.protect|Item_Availability.protect]]"
+  - "[[/_private/schema-org/Enumeration/Item_Availability.private|Item_Availability.private]]"
+  - "[[/_personal/schema-org/Enumeration/Item_Availability.personal|Item_Availability.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Item_Availability.secret|Item_Availability.secret]]"
 ---
 
 Class of all item_availabilitys.
@@ -45,8 +64,7 @@ A list of possible product availability options:
 - [[Item_Availability/Pre_Sale|pre-sale]]
 - [[Item_Availability/Sold_Out|is_sold_out]]
 
-[ #is_/sub_class_of :: [[../Enumeration]] ]
-
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
 ## Confidential Links & Embeds: 
 

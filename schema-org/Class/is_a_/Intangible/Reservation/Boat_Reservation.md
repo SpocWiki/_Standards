@@ -10,21 +10,45 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - boat_reservation
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_boat_reservation Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_boat_reservation Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../Reservation]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Reservation/Boat_Reservation|Boat_Reservation]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Reservation/Boat_Reservation.public|Boat_Reservation.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Reservation/Boat_Reservation.internal|Boat_Reservation.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Reservation/Boat_Reservation.protect|Boat_Reservation.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Reservation/Boat_Reservation.private|Boat_Reservation.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Reservation/Boat_Reservation.personal|Boat_Reservation.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Reservation/Boat_Reservation.secret|Boat_Reservation.secret]]"
+dv_has_:
+  properties: "[ additionalType, alternateName, bookingAgent, bookingTime, broker, description, disambiguatingDescription, identifier, image, mainEntityOfPage, modifiedTime, name, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, subjectOf, totalPrice, underName, url ]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../Reservation]]"
+dv_has_properties: "[ additionalType, alternateName, bookingAgent, bookingTime, broker, description, disambiguatingDescription, identifier, image, mainEntityOfPage, modifiedTime, name, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, subjectOf, totalPrice, underName, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Reservation/Boat_Reservation|Boat_Reservation]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Reservation/Boat_Reservation.public|Boat_Reservation.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Reservation/Boat_Reservation.internal|Boat_Reservation.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Reservation/Boat_Reservation.protect|Boat_Reservation.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Reservation/Boat_Reservation.private|Boat_Reservation.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Reservation/Boat_Reservation.personal|Boat_Reservation.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Reservation/Boat_Reservation.secret|Boat_Reservation.secret]]"
 ---
 
 Class of all boat_reservations.
@@ -32,16 +56,15 @@ Class of all boat_reservations.
 Tag Instances like this: 
 #is_a_/boat_reservation
 
-[ #is_/part_of :: https://pending.schema.org ]
+is_part_of = `=this.dv_is_part_of` 
 
 A reservation for boat travel.
 
 Note: This type is for information about actual reservations, e.g. in confirmation emails or HTML pages with individual confirmations of reservations. For offers of tickets, use [[../../../../../Society/Agent/Community/Organization/Business/Offer]].
 
-[ #is_/sub_class_of :: [[../Reservation]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #has_/properties :: [ additionalType, alternateName, bookingAgent, bookingTime, broker, description, disambiguatingDescription, identifier, image, mainEntityOfPage, modifiedTime, name, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, subjectOf, totalPrice, underName, url ] ]
-
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

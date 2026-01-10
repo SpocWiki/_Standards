@@ -9,7 +9,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -18,28 +18,57 @@ keywords:
   - image
   - of
   - page
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_primary_image_of_page
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_primary_image_of_page
 type: Predi_Relation
+dv_has_:
+  primary_image_of_page: ImageObject
+  domain: WebPage
+dv_has_primary_image_of_page: ImageObject
+dv_#has_:
+  name: is_primary_image_of_page
+  range: ImageObject
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_primary_image_of_page|has_primary_image_of_page]]"
+    - "[[/_public/schema-org/Relation/has/has_primary_image_of_page.public|has_primary_image_of_page.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_primary_image_of_page.internal|has_primary_image_of_page.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_primary_image_of_page.protect|has_primary_image_of_page.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_primary_image_of_page.private|has_primary_image_of_page.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_primary_image_of_page.personal|has_primary_image_of_page.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_primary_image_of_page.secret|has_primary_image_of_page.secret]]"
+dv_has_domain: WebPage
+dv_has_name: is_primary_image_of_page
+dv_has_range: ImageObject
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_primary_image_of_page|has_primary_image_of_page]]"
+  - "[[/_public/schema-org/Relation/has/has_primary_image_of_page.public|has_primary_image_of_page.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_primary_image_of_page.internal|has_primary_image_of_page.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_primary_image_of_page.protect|has_primary_image_of_page.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_primary_image_of_page.private|has_primary_image_of_page.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_primary_image_of_page.personal|has_primary_image_of_page.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_primary_image_of_page.secret|has_primary_image_of_page.secret]]"
 ---
 
 Use it like this: 
-- [ #has_/primary_image_of_page :: ImageObject ] or 
-- [ has_primary_image_of_page :: ImageObject ] 
+- has_primary_image_of_page = `=this.dv_has_primary_image_of_page`  
+- has_primary_image_of_page = `=this.dv_has_primary_image_of_page`  
 
 Indicates the main image on the page.
 
 Relation describes that: 
-[ #has_/domain  :: WebPage ]
-( #has_/name :: is_primary_image_of_page )
-( #has_/range :: ImageObject )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

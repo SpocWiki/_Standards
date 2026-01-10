@@ -30,6 +30,25 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Zhou%20dyn
 Library_of_Congress_Classification: DS747-DS747.23
 Commons_category: Zhou Dynasty
 dissolved_abolished_or_demolished_date: -0255-01-01T00:00:00Z
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../WikiData/WD~Zhou_dynasty,35216|WD~Zhou_dynasty,35216]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1046-Zhou_Dynasty+0256|-1046-Zhou_Dynasty+0256]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1046-Zhou_Dynasty+0256.public|-1046-Zhou_Dynasty+0256.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1046-Zhou_Dynasty+0256.internal|-1046-Zhou_Dynasty+0256.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1046-Zhou_Dynasty+0256.protect|-1046-Zhou_Dynasty+0256.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1046-Zhou_Dynasty+0256.private|-1046-Zhou_Dynasty+0256.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1046-Zhou_Dynasty+0256.personal|-1046-Zhou_Dynasty+0256.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1046-Zhou_Dynasty+0256.secret|-1046-Zhou_Dynasty+0256.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../WikiData/WD~Zhou_dynasty,35216|WD~Zhou_dynasty,35216]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1046-Zhou_Dynasty+0256|-1046-Zhou_Dynasty+0256]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1046-Zhou_Dynasty+0256.public|-1046-Zhou_Dynasty+0256.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1046-Zhou_Dynasty+0256.internal|-1046-Zhou_Dynasty+0256.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1046-Zhou_Dynasty+0256.protect|-1046-Zhou_Dynasty+0256.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1046-Zhou_Dynasty+0256.private|-1046-Zhou_Dynasty+0256.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1046-Zhou_Dynasty+0256.personal|-1046-Zhou_Dynasty+0256.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1046-Zhou_Dynasty+0256.secret|-1046-Zhou_Dynasty+0256.secret]]"
 ---
 
 # [[-1046-Zhou_Dynasty+0256]] 

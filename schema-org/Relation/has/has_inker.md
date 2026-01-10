@@ -24,16 +24,18 @@ title: has_inker
 type: Predi_Relation
 ---
 
-[ #is_/part_of :: https://bib.schema.org ]
+#is_/part_of :: https://bib.schema.org  
 
 Use it like this: 
-- [ #has_/inker :: Person ] or 
+- [has_/inker :: Person ] 
 - [ has_inker :: Person ] 
 
 The individual who traces over the pencil drawings in ink after pencils are complete.
 
 Relation describes that: 
-[ #has_/domain  :: ComicIssue, ComicStory, VisualArtwork ]
+
+#has_/domain  :: ComicIssue, ComicStory, VisualArtwork  
+
 ( #has_/name :: has_inker )
 ( #has_/range :: Person )
 

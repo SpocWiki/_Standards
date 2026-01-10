@@ -27,13 +27,15 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/increasing_risk_of :: MedicalEntity] or 
+- [is_/increasing_risk_of :: MedicalEntity] 
 - [ is_increasing_risk_of :: MedicalEntity] 
 
 The condition, complication, etc. influenced by this factor.
 
 Relation describes that: 
-[ #has_/domain  :: MedicalRiskFactor]
+
+#has_/domain  :: MedicalRiskFactor 
+
 ( #has_/name :: is_increasing_risk_of)
 ( #has_/range :: MedicalEntity)
 

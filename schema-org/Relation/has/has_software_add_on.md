@@ -9,7 +9,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,28 +17,57 @@ keywords:
   - software
   - add
   - on
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_software_add_on
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_software_add_on
 type: Predi_Relation
+dv_has_:
+  software_add_on: SoftwareApplication
+  domain: SoftwareApplication
+dv_has_software_add_on: SoftwareApplication
+dv_#has_:
+  name: is_software_add_on
+  range: SoftwareApplication
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_software_add_on|has_software_add_on]]"
+    - "[[/_public/schema-org/Relation/has/has_software_add_on.public|has_software_add_on.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_software_add_on.internal|has_software_add_on.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_software_add_on.protect|has_software_add_on.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_software_add_on.private|has_software_add_on.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_software_add_on.personal|has_software_add_on.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_software_add_on.secret|has_software_add_on.secret]]"
+dv_has_domain: SoftwareApplication
+dv_has_name: is_software_add_on
+dv_has_range: SoftwareApplication
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_software_add_on|has_software_add_on]]"
+  - "[[/_public/schema-org/Relation/has/has_software_add_on.public|has_software_add_on.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_software_add_on.internal|has_software_add_on.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_software_add_on.protect|has_software_add_on.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_software_add_on.private|has_software_add_on.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_software_add_on.personal|has_software_add_on.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_software_add_on.secret|has_software_add_on.secret]]"
 ---
 
 Use it like this: 
-- [ #has_/software_add_on :: SoftwareApplication ] or 
-- [ has_software_add_on :: SoftwareApplication ] 
+- has_software_add_on = `=this.dv_has_software_add_on`  
+- has_software_add_on = `=this.dv_has_software_add_on`  
 
 Additional content for a software application.
 
 Relation describes that: 
-[ #has_/domain  :: SoftwareApplication ]
-( #has_/name :: is_software_add_on )
-( #has_/range :: SoftwareApplication )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

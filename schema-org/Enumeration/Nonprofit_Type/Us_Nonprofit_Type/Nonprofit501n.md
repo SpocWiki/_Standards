@@ -9,21 +9,44 @@ cssclasses:
   - Type
 draft: false
 enumerationtype: USNonprofitType
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - nonprofit501n
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_nonprofit501n Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_nonprofit501n Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../USNonprofitType]]"
+  enum_of: "[[../USNonprofitType]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501n|Nonprofit501n]]"
+    - "[[/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501n.public|Nonprofit501n.public]]"
+    - "[[/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501n.internal|Nonprofit501n.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501n.protect|Nonprofit501n.protect]]"
+    - "[[/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501n.private|Nonprofit501n.private]]"
+    - "[[/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501n.personal|Nonprofit501n.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501n.secret|Nonprofit501n.secret]]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../USNonprofitType]]"
+dv_is_enum_of: "[[../USNonprofitType]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501n|Nonprofit501n]]"
+  - "[[/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501n.public|Nonprofit501n.public]]"
+  - "[[/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501n.internal|Nonprofit501n.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501n.protect|Nonprofit501n.protect]]"
+  - "[[/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501n.private|Nonprofit501n.private]]"
+  - "[[/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501n.personal|Nonprofit501n.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501n.secret|Nonprofit501n.secret]]"
 ---
 
 Class of all nonprofit501ns.
@@ -31,14 +54,13 @@ Class of all nonprofit501ns.
 Tag Instances like this: 
 #is_a_/nonprofit501n
 
-[ #is_/part_of :: https://pending.schema.org ]
+is_part_of = `=this.dv_is_part_of` 
 
 Nonprofit501n: Non-profit type referring to Charitable Risk Pools.
 
-[ #is_/sub_class_of :: [[../USNonprofitType]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #is_/enum_of :: [[../USNonprofitType]] ]
-
+is_enum_of = `=this.dv_is_enum_of` 
 
 ## Confidential Links & Embeds: 
 

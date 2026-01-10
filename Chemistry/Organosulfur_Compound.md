@@ -8,6 +8,25 @@ subclass_of: "[[_Standards/WikiData/WD~organic_sulfur_compound,107392144]]"
 Common_Procurement_Vocabulary_code: "24325000"
 Krugosvet_article_archived_: nauka_i_tehnika/himiya/SERAORGANICHESKIE_SOEDINENIYA.html
 Commons_category: Organosulfur compounds
+dv_is_:
+  same_as:
+    - "[[../WikiData/WD~Organosulfur_compound,422785]]"
+    - "[[/_Standards/Chemistry/Organosulfur_Compound|Organosulfur_Compound]]"
+    - "[[/_public/Chemistry/Organosulfur_Compound.public|Organosulfur_Compound.public]]"
+    - "[[/_internal/Chemistry/Organosulfur_Compound.internal|Organosulfur_Compound.internal]]"
+    - "[[/_protect/Chemistry/Organosulfur_Compound.protect|Organosulfur_Compound.protect]]"
+    - "[[/_private/Chemistry/Organosulfur_Compound.private|Organosulfur_Compound.private]]"
+    - "[[/_personal/Chemistry/Organosulfur_Compound.personal|Organosulfur_Compound.personal]]"
+    - "[[/_secret/Chemistry/Organosulfur_Compound.secret|Organosulfur_Compound.secret]]"
+dv_is_same_as:
+  - "[[../WikiData/WD~Organosulfur_compound,422785]]"
+  - "[[/_Standards/Chemistry/Organosulfur_Compound|Organosulfur_Compound]]"
+  - "[[/_public/Chemistry/Organosulfur_Compound.public|Organosulfur_Compound.public]]"
+  - "[[/_internal/Chemistry/Organosulfur_Compound.internal|Organosulfur_Compound.internal]]"
+  - "[[/_protect/Chemistry/Organosulfur_Compound.protect|Organosulfur_Compound.protect]]"
+  - "[[/_private/Chemistry/Organosulfur_Compound.private|Organosulfur_Compound.private]]"
+  - "[[/_personal/Chemistry/Organosulfur_Compound.personal|Organosulfur_Compound.personal]]"
+  - "[[/_secret/Chemistry/Organosulfur_Compound.secret|Organosulfur_Compound.secret]]"
 ---
 
 # [[../Chemistry/Organosilicon_Compound|Organosilicon_Compound]] 

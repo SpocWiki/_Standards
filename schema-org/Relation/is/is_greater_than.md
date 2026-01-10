@@ -30,20 +30,21 @@ type: Predi_Relation
 # [[is_greater_than]] 
 
 Use it like this: 
-- [ #is_/greater_than :: QualitativeValue ] or 
+- [is_/greater_than :: QualitativeValue ] 
 - [ is_greater_than :: QualitativeValue ] 
 
 This ordering relation for qualitative values indicates that the subject is greater than the object.
 
 Relation describes that: 
-[ #has_/domain  :: QualitativeValue ]
+
+#has_/domain  :: QualitativeValue  
+
 ( #has_/name :: is_greater_than )
 ( #has_/range :: QualitativeValue )
 
-[ #is_/complement_of :: [[is_lesser_or_equal_to]]] 
+#is_/complement_of :: [[is_lesser_or_equal_to]] 
 
-[ #is_/inverse_of :: [[is_less_than]]] 
-
+#is_/inverse_of :: [[is_less_than]] 
 
 ## Confidential Links & Embeds: 
 

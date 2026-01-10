@@ -11,37 +11,67 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - mechanism
   - of
   - action
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_mechanism_of_action
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_mechanism_of_action
 type: Pred_Text
+dv_has_:
+  text_of_:
+    mechanism_of_action: Text
+  domain: DietarySupplement, Drug
+dv_has_text_of_mechanism_of_action: Text
+dv_#has_:
+  name: has_text_of_mechanism_of_action
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/Texts/has_mechanism_of_action|has_mechanism_of_action]]"
+    - "[[/_public/schema-org/Property/Texts/has_mechanism_of_action.public|has_mechanism_of_action.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_mechanism_of_action.internal|has_mechanism_of_action.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_mechanism_of_action.protect|has_mechanism_of_action.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_mechanism_of_action.private|has_mechanism_of_action.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_mechanism_of_action.personal|has_mechanism_of_action.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_mechanism_of_action.secret|has_mechanism_of_action.secret]]"
+dv_has_domain: DietarySupplement, Drug
+dv_has_name: has_text_of_mechanism_of_action
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Texts/has_mechanism_of_action|has_mechanism_of_action]]"
+  - "[[/_public/schema-org/Property/Texts/has_mechanism_of_action.public|has_mechanism_of_action.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_mechanism_of_action.internal|has_mechanism_of_action.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_mechanism_of_action.protect|has_mechanism_of_action.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_mechanism_of_action.private|has_mechanism_of_action.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_mechanism_of_action.personal|has_mechanism_of_action.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_mechanism_of_action.secret|has_mechanism_of_action.secret]]"
 ---
 
 Predicate to describe the Text of DietarySupplement, Drug.
 
 Use it like this: 
-- [ #has_/text_of_/mechanism_of_action :: Text ] or 
-- [ has_text_of_mechanism_of_action :: Text ] 
+- has_text_of_mechanism_of_action = `=this.dv_has_text_of_mechanism_of_action`  
+- has_text_of_mechanism_of_action = `=this.dv_has_text_of_mechanism_of_action`  
 
 The specific biochemical interaction through which this drug or supplement produces its pharmacological effect.
 
 Predicated describes that: 
-[ #has_/domain  :: DietarySupplement, Drug ]
-( #has_/name :: has_text_of_mechanism_of_action )
-( #has_/range :: Text )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

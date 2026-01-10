@@ -11,36 +11,66 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - carrier
   - requirements
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_carrier_requirements
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_carrier_requirements
 type: Pred_Text
+dv_has_:
+  text_of_:
+    carrier_requirements: Text
+  domain: MobileApplication
+dv_has_text_of_carrier_requirements: Text
+dv_#has_:
+  name: has_text_of_carrier_requirements
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/Texts/has_carrier_requirements|has_carrier_requirements]]"
+    - "[[/_public/schema-org/Property/Texts/has_carrier_requirements.public|has_carrier_requirements.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_carrier_requirements.internal|has_carrier_requirements.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_carrier_requirements.protect|has_carrier_requirements.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_carrier_requirements.private|has_carrier_requirements.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_carrier_requirements.personal|has_carrier_requirements.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_carrier_requirements.secret|has_carrier_requirements.secret]]"
+dv_has_domain: MobileApplication
+dv_has_name: has_text_of_carrier_requirements
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/Texts/has_carrier_requirements|has_carrier_requirements]]"
+  - "[[/_public/schema-org/Property/Texts/has_carrier_requirements.public|has_carrier_requirements.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_carrier_requirements.internal|has_carrier_requirements.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_carrier_requirements.protect|has_carrier_requirements.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_carrier_requirements.private|has_carrier_requirements.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_carrier_requirements.personal|has_carrier_requirements.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_carrier_requirements.secret|has_carrier_requirements.secret]]"
 ---
 
 Predicate to describe the Text of MobileApplication.
 
 Use it like this: 
-- [ #has_/text_of_/carrier_requirements :: Text ] or 
-- [ has_text_of_carrier_requirements :: Text ] 
+- has_text_of_carrier_requirements = `=this.dv_has_text_of_carrier_requirements`  
+- has_text_of_carrier_requirements = `=this.dv_has_text_of_carrier_requirements`  
 
 Specifies specific carrier(s) requirements for the application (e.g. an application may only work on a specific carrier network).
 
 Predicated describes that: 
-[ #has_/domain  :: MobileApplication ]
-( #has_/name :: has_text_of_carrier_requirements )
-( #has_/range :: Text )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

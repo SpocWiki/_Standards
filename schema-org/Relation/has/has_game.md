@@ -25,18 +25,19 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/game :: VideoGame ] or 
+- [has_/game :: VideoGame ] 
 - [ has_game :: VideoGame ] 
 
 Video game which is played on this server.
 
 Relation describes that: 
-[ #has_/domain  :: GameServer ]
+
+#has_/domain  :: GameServer  
+
 ( #has_/name :: has_game )
 ( #has_/range :: VideoGame )
 
-[ #is_/inverse_of  :: gameServer ]
-
+#is_/inverse_of  :: gameServer  
 
 ## Confidential Links & Embeds: 
 

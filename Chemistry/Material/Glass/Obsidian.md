@@ -27,6 +27,25 @@ image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/13%20years%20of%20Russian%20Wikinews%20in%20Moscow%2021.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/A2613-Museum%20Geologi-Obsidian.jpg
 Krugosvet_article_archived_: geologiya/obsidian
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Obsidian,53754]]"
+    - "[[/_Standards/Chemistry/Material/Glass/Obsidian|Obsidian]]"
+    - "[[/_public/Chemistry/Material/Glass/Obsidian.public|Obsidian.public]]"
+    - "[[/_internal/Chemistry/Material/Glass/Obsidian.internal|Obsidian.internal]]"
+    - "[[/_protect/Chemistry/Material/Glass/Obsidian.protect|Obsidian.protect]]"
+    - "[[/_private/Chemistry/Material/Glass/Obsidian.private|Obsidian.private]]"
+    - "[[/_personal/Chemistry/Material/Glass/Obsidian.personal|Obsidian.personal]]"
+    - "[[/_secret/Chemistry/Material/Glass/Obsidian.secret|Obsidian.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Obsidian,53754]]"
+  - "[[/_Standards/Chemistry/Material/Glass/Obsidian|Obsidian]]"
+  - "[[/_public/Chemistry/Material/Glass/Obsidian.public|Obsidian.public]]"
+  - "[[/_internal/Chemistry/Material/Glass/Obsidian.internal|Obsidian.internal]]"
+  - "[[/_protect/Chemistry/Material/Glass/Obsidian.protect|Obsidian.protect]]"
+  - "[[/_private/Chemistry/Material/Glass/Obsidian.private|Obsidian.private]]"
+  - "[[/_personal/Chemistry/Material/Glass/Obsidian.personal|Obsidian.personal]]"
+  - "[[/_secret/Chemistry/Material/Glass/Obsidian.secret|Obsidian.secret]]"
 ---
 
 # [[Obsidian]] 

@@ -1,22 +1,41 @@
 ---
 aliases:
-  - 'Cuban Revolution '
+  - "Cuban Revolution "
   - Revolución cubana
   - 1959-Cuban_Revolution
   - 1959-Cuban Revolution
 has_id_wikidata: Q11264
-participant: '[[_Standards/WikiData/WD~26th_of_July_Movement,218452]]'
-part_of: '[[_Standards/WikiData/WD~history_of_Cuba,473130]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-instance_of: '[[_Standards/WikiData/WD~revolution,10931]]'
-locations: '[[_Standards/WikiData/WD~Cuba,241]]'
-country: '[[_Standards/WikiData/WD~Cuba,241]]'
+participant: "[[_Standards/WikiData/WD~26th_of_July_Movement,218452]]"
+part_of: "[[_Standards/WikiData/WD~history_of_Cuba,473130]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+instance_of: "[[_Standards/WikiData/WD~revolution,10931]]"
+locations: "[[_Standards/WikiData/WD~Cuba,241]]"
+country: "[[_Standards/WikiData/WD~Cuba,241]]"
 U_S_National_Archives_Identifier: 10640237
 point_in_time: 1959-01-01T00:00:00Z
 end_time: 1959-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fidel%20Castro%20-%20MATS%20Terminal%20Washington%201959.jpg
 Commons_category: Cuban Revolution
 start_time: 1953-07-26T00:00:00Z
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../WikiData/WD~Cuban_Revolution,11264|WD~Cuban_Revolution,11264]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Cuban_Revolution|1959-Cuban_Revolution]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Cuban_Revolution.public|1959-Cuban_Revolution.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Cuban_Revolution.internal|1959-Cuban_Revolution.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Cuban_Revolution.protect|1959-Cuban_Revolution.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Cuban_Revolution.private|1959-Cuban_Revolution.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Cuban_Revolution.personal|1959-Cuban_Revolution.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Cuban_Revolution.secret|1959-Cuban_Revolution.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../WikiData/WD~Cuban_Revolution,11264|WD~Cuban_Revolution,11264]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Cuban_Revolution|1959-Cuban_Revolution]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Cuban_Revolution.public|1959-Cuban_Revolution.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Cuban_Revolution.internal|1959-Cuban_Revolution.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Cuban_Revolution.protect|1959-Cuban_Revolution.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Cuban_Revolution.private|1959-Cuban_Revolution.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Cuban_Revolution.personal|1959-Cuban_Revolution.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1959-Cuban_Revolution.secret|1959-Cuban_Revolution.secret]]"
 ---
 
 # [[1959-Cuban_Revolution]] 

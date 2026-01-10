@@ -5,18 +5,18 @@ aliases:
 has_id_wikidata: Q1386
 atomic_number: 59
 boiling_point: 3403
-canonical_SMILES: '[Pr]'
+canonical_SMILES: "[Pr]"
 CAS_Registry_Number: 7440-10-0
 chemical_formula: Pr
 Commons_category: Praseodymium
 Commons_gallery: Praseodymium
 density: 6.773
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Carl_Gustaf_Mosander,468316]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Carl_Gustaf_Mosander,468316]]"
 DSSTOX_compound_identifier: DTXCID2047648
 EC_number: 231-120-3
 electrical_resistivity: 7e-7
@@ -25,7 +25,7 @@ element_symbol: Pr
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Praseodym%201.jpg
 InChI: InChI=1S/Pr
 InChIKey: PUDIUYLPXJFUGB-UHFFFAOYSA-N
-instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
+instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
 ionic_radius:
   - 0.85
   - 0.96
@@ -37,12 +37,12 @@ MeSH_tree_code:
   - D01.268.558.362.750
   - D01.552.550.399.750
 named_after:
-  - '[[_Standards/WikiData/WD~twin,159979]]'
-  - '[[_Standards/WikiData/WD~green,3133]]'
+  - "[[_Standards/WikiData/WD~twin,159979]]"
+  - "[[_Standards/WikiData/WD~green,3133]]"
 OmegaWiki_Defined_Meaning: 342115
 part_of:
-  - '[[_Standards/WikiData/WD~period_6,239813]]'
-  - '[[_Standards/WikiData/WD~lanthanide,19569]]'
+  - "[[_Standards/WikiData/WD~period_6,239813]]"
+  - "[[_Standards/WikiData/WD~lanthanide,19569]]"
 PubChem_CID: 23942
 speed_of_sound: 2280
 SpocWebEntityId: 21955
@@ -52,39 +52,124 @@ type: Element
 UMLS_CUI: C0032904
 Unicode_character: 鐠
 UNII: NKN7EZA750
+dv_has_:
+  name_:
+    group: Lanthanide-Group
+    en: Praseodymium
+    de: Praseodym
+    abbreviated: Pr
+  value_for_:
+    weight_:
+      u: 140.9077
+    radius: 2.67
+    volume_:
+      ccm_:
+        mol: 20.8
+    unknown2: 1.65
+    radius_:
+      nano_:
+        m: 5.46
+    electronegativity: 1.1
+    density: 6.77
+    temperature_:
+      melt_:
+        c: 931
+      boil_:
+        c: 3212
+    capacity_:
+      heat: 0.19
+    conductivity_:
+      heat: 0.125
+    enthalpy: 6.89
+    energy_:
+      form_:
+        kj_:
+          mol: 296.8
+  number_of_:
+    period: 6
+    group: 25
+    electrons: 59
+dv_is_:
+  part_of: "[[../Lanthanide]]"
+  same_as:
+    - "[[../../../WikiData/WD~Praseodymium,1386]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Praseodymium|Praseodymium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Lanthanide/Praseodymium.public|Praseodymium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Lanthanide/Praseodymium.internal|Praseodymium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Lanthanide/Praseodymium.protect|Praseodymium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Lanthanide/Praseodymium.private|Praseodymium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Lanthanide/Praseodymium.personal|Praseodymium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Lanthanide/Praseodymium.secret|Praseodymium.secret]]"
+dv_has_name_group: Lanthanide-Group
+dv_is_part_of: "[[../Lanthanide]]"
+dv_has_name_en: Praseodymium
+dv_has_name_de: Praseodym
+dv_has_value_for_weight_u: 140.9077
+dv_has_value_for_radius: 2.67
+dv_has_value_for_volume_ccm_mol: 20.8
+dv_has_value_for_unknown2: 1.65
+dv_has_value_for_radius_nano_m: 5.46
+dv_has_value_for_electronegativity: 1.1
+dv_has_value_for_density: 6.77
+dv_has_value_for_temperature_melt_c: 931
+dv_has_value_for_temperature_boil_c: 3212
+dv_has_value_for_capacity_heat: 0.19
+dv_has_value_for_conductivity_heat: 0.125
+dv_has_value_for_enthalpy: 6.89
+dv_has_value_for_energy_form_kj_mol: 296.8
+dv_has_number_of_period: 6
+dv_has_number_of_group: 25
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Praseodymium,1386]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Praseodymium|Praseodymium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Lanthanide/Praseodymium.public|Praseodymium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Lanthanide/Praseodymium.internal|Praseodymium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Lanthanide/Praseodymium.protect|Praseodymium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Lanthanide/Praseodymium.private|Praseodymium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Lanthanide/Praseodymium.personal|Praseodymium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Lanthanide/Praseodymium.secret|Praseodymium.secret]]"
+dv_has_name_abbreviated: Pr
+dv_has_number_of_electrons: 59
 ---
 
 # [[Praseodymium]] 
 
 #chemic/Element 
-[GroupName::Lanthanide-Group]
-Group::[[../Lanthanide]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
+has_name_en = `=this.dv_has_name_en` 
 
-[#has_/name_/en::Praseodymium]
-[#has_/name_/de::Praseodym]
-[#has_/value_for_/weight_/u::140.9077]
-[AtomRadius::2.67]
-[Atom-Vol-ccm-mol::20.8]
-[Unknown2::1.65]
-[#has_/value_for_/radius_/nano_/m::5.46]
-[Electronegative::1.1]
-[Density::6.77]
-[#has_/value_for_/temperature_/melt_/c ::931]
-[#has_/value_for_/temperature_/boil_/c ::3212]
-[HeatCapacity::0.19]
-[HeatConduct::0.125]
-[Enthalpy::6.89]
-[FormEnergy-kj-mol::296.8]
-(PeriodNo::6)
-(GroupNo::25)
+has_name_de = `=this.dv_has_name_de` 
+
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
+
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
+
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
+
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
+
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
+
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
+
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
+has_number_of_group = `=this.dv_has_number_of_group` 
 
 #is_/same_as :: [[../../../WikiData/WD~Praseodymium,1386]] 
 
 
 ## #has_/text_of_/abstract 
 
-> **Praseodymium** is a chemical element with the symbol (Abbr::Pr) and the atomic number (Charge-e::59). 
+> **Praseodymium** is a chemical element with the symbol has_name_abbreviated = `=this.dv_has_name_abbreviated`  and the atomic number has_number_of_electrons = `=this.dv_has_number_of_electrons` . 
 > It is the third member of the lanthanide series and is considered to be one of the rare-earth metals. 
 > It is a soft, silvery, malleable and ductile metal, 
 > valued for its magnetic, electrical, chemical, and optical properties. 

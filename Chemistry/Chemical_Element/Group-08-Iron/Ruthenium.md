@@ -3,7 +3,7 @@ aliases:
   - Ruthenium
 has_id_wikidata: Q1086
 atomic_number: 44
-canonical_SMILES: '[Ru]'
+canonical_SMILES: "[Ru]"
 CAS_Registry_Number: 7440-18-8
 chemical_formula: Ru
 Commons_category: Ruthenium
@@ -13,47 +13,47 @@ Common_Procurement_Vocabulary_code:
   - 14743000
 CPV_Supplementary_code: AA21
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Karl_Ernst_Claus,554178]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]"
+discoverer_or_inventor: "[[_Standards/WikiData/WD~Karl_Ernst_Claus,554178]]"
 DSSTOX_compound_identifier: DTXCID1047651
 EC_number: 231-127-1
 electronegativity: 2.2
-electron_configuration: '[Kr] 4d⁷ 5s¹'
+electron_configuration: "[Kr] 4d⁷ 5s¹"
 element_symbol: Ru
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ruthenium%20a%20half%20bar.jpg
 InChI: InChI=1S/Ru
 InChIKey: KJTLSVCANCCWHF-UHFFFAOYSA-N
-instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
+instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
 ionic_radius:
   - 0.36
   - 0.38
   - 0.57
   - 0.62
   - 0.68
-location_of_discovery: '[[_Standards/WikiData/WD~Q56007908,56007908]]'
+location_of_discovery: "[[_Standards/WikiData/WD~Q56007908,56007908]]"
 mass: 101.07
 MeSH_tree_code:
   - D01.268.556.805
   - D01.268.956.812
   - D01.552.544.805
-named_after: '[[_Standards/WikiData/WD~Ruthenia,1147883]]'
+named_after: "[[_Standards/WikiData/WD~Ruthenia,1147883]]"
 OmegaWiki_Defined_Meaning: 351999
 oxidation_state:
   - 3
   - 4
 part_of:
-  - '[[_Standards/WikiData/WD~group_8,202224]]'
-  - '[[_Standards/WikiData/WD~period_5,244982]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q13202794,13202794]]'
+  - "[[_Standards/WikiData/WD~group_8,202224]]"
+  - "[[_Standards/WikiData/WD~period_5,244982]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q13202794,13202794]]"
 PubChem_CID: 23950
 SpocWebEntityId: 21942
 subclass_of:
-  - '[[_Standards/WikiData/WD~platinum_group,223995]]'
-  - '[[_Standards/WikiData/WD~transition_metal,19588]]'
+  - "[[_Standards/WikiData/WD~platinum_group,223995]]"
+  - "[[_Standards/WikiData/WD~transition_metal,19588]]"
 time_of_discovery_or_invention: 1844
 type: Element
 UMLS_CUI: C0035973
@@ -62,6 +62,86 @@ UNII: 7UI0TKC3U5
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Ruthenium%20crystal%20grown%20using%20CVD%20is%20released.webm
 Wolfram_Language_entity_code: Entity["Mineral", "Ruthenium"]
 ZVG_number: 7440
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Ruthenium,1086]]"
+    - "[[../../../WikiData/WD~Ruthenium,1086|WD~Ruthenium,1086]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-08-Iron/Ruthenium|Ruthenium]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-08-Iron/Ruthenium.public|Ruthenium.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-08-Iron/Ruthenium.internal|Ruthenium.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-08-Iron/Ruthenium.protect|Ruthenium.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-08-Iron/Ruthenium.private|Ruthenium.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-08-Iron/Ruthenium.personal|Ruthenium.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-08-Iron/Ruthenium.secret|Ruthenium.secret]]"
+  part_of: "[[../Group-08-Iron]]"
+dv_has_:
+  name_:
+    group: Group-08-Iron
+    en: Ruthenium
+    de: Ruthenium
+    abbreviated: Ru
+  value_for_:
+    weight_:
+      u: 101.07
+    radius: 1.89
+    volume_:
+      ccm_:
+        mol: 8.3
+    unknown2: 1.25
+    radius_:
+      nano_:
+        m: 7.37
+    electronegativity: 2.2
+    density: 12.2
+    temperature_:
+      melt_:
+        c: 2310
+      boil_:
+        c: 3000
+    capacity_:
+      heat: 0.238
+    conductivity_:
+      heat: 1.17
+    enthalpy: 24
+    energy_:
+      form_:
+        kj_:
+          mol: 595
+  number_of_:
+    period: 5
+    group: 8
+    electrons: 44
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Ruthenium,1086]]"
+  - "[[../../../WikiData/WD~Ruthenium,1086|WD~Ruthenium,1086]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-08-Iron/Ruthenium|Ruthenium]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-08-Iron/Ruthenium.public|Ruthenium.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-08-Iron/Ruthenium.internal|Ruthenium.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-08-Iron/Ruthenium.protect|Ruthenium.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-08-Iron/Ruthenium.private|Ruthenium.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-08-Iron/Ruthenium.personal|Ruthenium.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-08-Iron/Ruthenium.secret|Ruthenium.secret]]"
+dv_has_name_group: Group-08-Iron
+dv_is_part_of: "[[../Group-08-Iron]]"
+dv_has_name_en: Ruthenium
+dv_has_name_de: Ruthenium
+dv_has_value_for_weight_u: 101.07
+dv_has_value_for_radius: 1.89
+dv_has_value_for_volume_ccm_mol: 8.3
+dv_has_value_for_unknown2: 1.25
+dv_has_value_for_radius_nano_m: 7.37
+dv_has_value_for_electronegativity: 2.2
+dv_has_value_for_density: 12.2
+dv_has_value_for_temperature_melt_c: 2310
+dv_has_value_for_temperature_boil_c: 3000
+dv_has_value_for_capacity_heat: 0.238
+dv_has_value_for_conductivity_heat: 1.17
+dv_has_value_for_enthalpy: 24
+dv_has_value_for_energy_form_kj_mol: 595
+dv_has_number_of_period: 5
+dv_has_number_of_group: 8
+dv_has_name_abbreviated: Ru
+dv_has_number_of_electrons: 44
 ---
 
 # [[Ruthenium]] 
@@ -69,33 +149,40 @@ ZVG_number: 7440
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Ruthenium,1086]] 
 
-[GroupName::Group-08-Iron]
-Group::[[../Group-08-Iron]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
+has_name_en = `=this.dv_has_name_en` 
 
-[#has_/name_/en::Ruthenium]
-[#has_/name_/de::Ruthenium]
-[#has_/value_for_/weight_/u::101.07]
-[AtomRadius::1.89]
-[Atom-Vol-ccm-mol::8.3]
-[Unknown2::1.25]
-[#has_/value_for_/radius_/nano_/m::7.37]
-[Electronegative::2.2]
-[Density::12.2]
-[#has_/value_for_/temperature_/melt_/c ::2310]
-[#has_/value_for_/temperature_/boil_/c ::3000]
-[HeatCapacity::0.238]
-[HeatConduct::1.17]
-[Enthalpy::24]
-[FormEnergy-kj-mol::595]
-(PeriodNo::5)
-(GroupNo::8)
+has_name_de = `=this.dv_has_name_de` 
+
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
+
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
+
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
+
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
+
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
+
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
+
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
+has_number_of_group = `=this.dv_has_number_of_group` 
 
 #is_/same_as :: [[../../../WikiData/WD~Ruthenium,1086|WD~Ruthenium,1086]] 
 
 ## #has_/text_of_/abstract 
 
-> **Ruthenium** is a chemical element with the symbol (Abbr::Ru) and atomic number (Charge-e::44). 
+> **Ruthenium** is a chemical element with the symbol has_name_abbreviated = `=this.dv_has_name_abbreviated`  and atomic number has_number_of_electrons = `=this.dv_has_number_of_electrons` . 
 > It is a rare transition metal belonging to the platinum group of the periodic table. 
 > Like the other metals of the platinum group, ruthenium is inert to most other chemicals. 
 > 

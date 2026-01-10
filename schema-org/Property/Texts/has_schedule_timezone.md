@@ -31,16 +31,18 @@ type: Pred_Text
 
 Predicate to describe the Text of Schedule.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/text_of_/schedule_timezone :: Text ] or 
+- [has_/text_of_/schedule_timezone :: Text ] 
 - [ has_text_of_schedule_timezone :: Text ] 
 
 Indicates the timezone for which the time(s) indicated in the [[Schedule]] are given. The value provided should be among those listed in the IANA Time Zone Database.
 
 Predicated describes that: 
-[ #has_/domain  :: Schedule ]
+
+#has_/domain  :: Schedule  
+
 ( #has_/name :: has_text_of_schedule_timezone )
 ( #has_/range :: Text )
 

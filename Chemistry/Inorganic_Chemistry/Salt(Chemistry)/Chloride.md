@@ -46,6 +46,25 @@ tags:
 title:
   "{ newTitle: }":
 type: private_note
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Chloride,44791900|WD~Chloride,44791900]]"
+    - "[[/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride|Chloride]]"
+    - "[[/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride.public|Chloride.public]]"
+    - "[[/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride.internal|Chloride.internal]]"
+    - "[[/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride.protect|Chloride.protect]]"
+    - "[[/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride.private|Chloride.private]]"
+    - "[[/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride.personal|Chloride.personal]]"
+    - "[[/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride.secret|Chloride.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Chloride,44791900|WD~Chloride,44791900]]"
+  - "[[/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride|Chloride]]"
+  - "[[/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride.public|Chloride.public]]"
+  - "[[/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride.internal|Chloride.internal]]"
+  - "[[/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride.protect|Chloride.protect]]"
+  - "[[/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride.private|Chloride.private]]"
+  - "[[/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride.personal|Chloride.personal]]"
+  - "[[/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride.secret|Chloride.secret]]"
 ---
 
 # [[Chloride]] 

@@ -6,29 +6,29 @@ aliases:
 has_id_wikidata: Q19569
 type: ElementGroup
 subclass_of:
-  - '[[_Standards/WikiData/WD~rare_earth_element,190444]]'
-  - '[[_Standards/WikiData/WD~period_6,239813]]'
-  - '[[_Standards/WikiData/WD~lithophile,1130479]]'
+  - "[[_Standards/WikiData/WD~rare_earth_element,190444]]"
+  - "[[_Standards/WikiData/WD~period_6,239813]]"
+  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Periodic_table_(lanthanides),20326954]]'
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Periodic_table_(lanthanides),20326954]]"
 has_part_s_:
-  - '[[_Standards/WikiData/WD~praseodymium,1386]]'
-  - '[[_Standards/WikiData/WD~cerium,1385]]'
-  - '[[_Standards/WikiData/WD~neodymium,1388]]'
-  - '[[_Standards/WikiData/WD~europium,1396]]'
-  - '[[_Standards/WikiData/WD~promethium,1809]]'
-  - '[[_Standards/WikiData/WD~samarium,1819]]'
-  - '[[_Standards/WikiData/WD~gadolinium,1832]]'
-  - '[[_Standards/WikiData/WD~terbium,1838]]'
-  - '[[_Standards/WikiData/WD~dysprosium,1843]]'
-  - '[[_Standards/WikiData/WD~holmium,1846]]'
-  - '[[_Standards/WikiData/WD~erbium,1849]]'
-  - '[[_Standards/WikiData/WD~ytterbium,1855]]'
-  - '[[_Standards/WikiData/WD~thulium,1853]]'
-  - '[[_Standards/WikiData/WD~lutetium,1857]]'
-named_after: '[[_Standards/WikiData/WD~lanthanum,1801]]'
+  - "[[_Standards/WikiData/WD~praseodymium,1386]]"
+  - "[[_Standards/WikiData/WD~cerium,1385]]"
+  - "[[_Standards/WikiData/WD~neodymium,1388]]"
+  - "[[_Standards/WikiData/WD~europium,1396]]"
+  - "[[_Standards/WikiData/WD~promethium,1809]]"
+  - "[[_Standards/WikiData/WD~samarium,1819]]"
+  - "[[_Standards/WikiData/WD~gadolinium,1832]]"
+  - "[[_Standards/WikiData/WD~terbium,1838]]"
+  - "[[_Standards/WikiData/WD~dysprosium,1843]]"
+  - "[[_Standards/WikiData/WD~holmium,1846]]"
+  - "[[_Standards/WikiData/WD~erbium,1849]]"
+  - "[[_Standards/WikiData/WD~ytterbium,1855]]"
+  - "[[_Standards/WikiData/WD~thulium,1853]]"
+  - "[[_Standards/WikiData/WD~lutetium,1857]]"
+named_after: "[[_Standards/WikiData/WD~lanthanum,1801]]"
 OmegaWiki_Defined_Meaning: 160019
 element_symbol: Ln
 Commons_category: Lanthanides
@@ -37,6 +37,25 @@ UMLS_CUI: C0205838
 MeSH_tree_code:
   - D01.268.558.362
   - D01.552.550.399
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Lanthanide,19569|WD~Lanthanide,19569]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Lanthanide|Lanthanide]]"
+    - "[[/_public/Chemistry/Chemical_Element/Lanthanide.public|Lanthanide.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Lanthanide.internal|Lanthanide.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Lanthanide.protect|Lanthanide.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Lanthanide.private|Lanthanide.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Lanthanide.personal|Lanthanide.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Lanthanide.secret|Lanthanide.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Lanthanide,19569|WD~Lanthanide,19569]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Lanthanide|Lanthanide]]"
+  - "[[/_public/Chemistry/Chemical_Element/Lanthanide.public|Lanthanide.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Lanthanide.internal|Lanthanide.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Lanthanide.protect|Lanthanide.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Lanthanide.private|Lanthanide.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Lanthanide.personal|Lanthanide.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Lanthanide.secret|Lanthanide.secret]]"
 ---
 
 # [[Lanthanide]] 

@@ -27,6 +27,86 @@ Commons_category: Orosirian
 end_time: -1800000000-01-01T00:00:00Z
 IPA_transcription: /ˌɒroʊˈsɪəriən/
 sRGB_color_hex_triplet: F76898
+dv_has_:
+  duration_:
+    years: "2.500e+8"
+  previous_:
+    item: "[[Period-2300~Rhyacian]]"
+  next_:
+    item: "[[Period-1800~Statherian]]"
+  name_:
+    bg: Ороѿир
+    cs: Orosir
+    da: Orosirien
+    de: Orosirium
+    es: Orosiriense
+    et: Orosir
+    fi: Orosir
+    fr: Orosirien
+    hu: orosiri
+    it: orosiriano
+    ja: オロシリアン紀
+    lt: Orosiris
+    nl: Orosiriën
+    no: Orosirium
+    pl: Orosir
+    pt: Orosiriano
+    sk: orosirium
+    sl: orosijrij
+    sv: orosirium
+    zh: 造山纪
+    abbreviated: PP3
+  time_:
+    started: "-2.050e9"
+    stopped: "-1.800e9"
+  text_of_:
+    color: "0xF76898"
+dv_is_:
+  same_as:
+    - "[[WD~Orosirian,597383]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian|Period-2050~Orosirian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian.public|Period-2050~Orosirian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian.internal|Period-2050~Orosirian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian.protect|Period-2050~Orosirian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian.private|Period-2050~Orosirian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian.personal|Period-2050~Orosirian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian.secret|Period-2050~Orosirian.secret]]"
+dv_has_duration_years: "2.500e+8"
+dv_has_previous_item: "[[Period-2300~Rhyacian]]"
+dv_has_next_item: "[[Period-1800~Statherian]]"
+dv_is_same_as:
+  - "[[WD~Orosirian,597383]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian|Period-2050~Orosirian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian.public|Period-2050~Orosirian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian.internal|Period-2050~Orosirian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian.protect|Period-2050~Orosirian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian.private|Period-2050~Orosirian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian.personal|Period-2050~Orosirian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2050~Orosirian.secret|Period-2050~Orosirian.secret]]"
+dv_has_name_bg: Ороѿир
+dv_has_name_cs: Orosir
+dv_has_name_da: Orosirien
+dv_has_name_de: Orosirium
+dv_has_name_es: Orosiriense
+dv_has_name_et: Orosir
+dv_has_name_fi: Orosir
+dv_has_name_fr: Orosirien
+dv_has_name_hu: orosiri
+dv_has_name_it: orosiriano
+dv_has_name_ja: オロシリアン紀
+dv_has_name_lt: Orosiris
+dv_has_name_nl: Orosiriën
+dv_has_name_no: Orosirium
+dv_has_name_pl: Orosir
+dv_has_name_pt: Orosiriano
+dv_has_name_sk: orosirium
+dv_has_name_sl: orosijrij
+dv_has_name_sv: orosirium
+dv_has_name_zh: 造山纪
+dv_has_name_abbreviated: PP3
+dv_has_time_started: "-2.050e9"
+dv_has_time_stopped: "-1.800e9"
+dv_has_text_of_color: "0xF76898"
 ---
 
 # [[Period-2050~Orosirian]] 
@@ -35,10 +115,10 @@ sRGB_color_hex_triplet: F76898
 
 A time period from 2050 to 1800 million years ago. 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[Period-2300~Rhyacian]] 
-#has_/next_/item :: [[Period-1800~Statherian]] 
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Orosirian,597383]] 
 
 ## #has_/text_of_/abstract 
@@ -58,35 +138,35 @@ A time period from 2050 to 1800 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Orosirian) 
 
 
-#has_/name_/bg  :: Ороѿир
-#has_/name_/cs  :: Orosir
-#has_/name_/da  :: Orosirien
-#has_/name_/de  :: Orosirium
-#has_/name_/es  :: Orosiriense
-#has_/name_/et  :: Orosir
-#has_/name_/fi  :: Orosir
-#has_/name_/fr  :: Orosirien
-#has_/name_/hu  :: orosiri
-#has_/name_/it  :: orosiriano
-#has_/name_/ja  :: オロシリアン紀
-#has_/name_/lt  :: Orosiris
-#has_/name_/nl  :: Orosiriën
-#has_/name_/no  :: Orosirium
-#has_/name_/pl  :: Orosir
-#has_/name_/pt  :: Orosiriano
-#has_/name_/sk  :: orosirium
-#has_/name_/sl  :: orosijrij
-#has_/name_/sv  :: orosirium
-#has_/name_/zh  :: 造山纪
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/abbreviation :: PP3
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
-#has_/time_/started :: -2.050e9 
-#has_/time_/stopped :: -1.800e9 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 167
 
-#has_/text_of_/color :: 0xF76898
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

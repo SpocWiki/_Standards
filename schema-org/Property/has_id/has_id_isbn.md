@@ -31,18 +31,19 @@ type: Pred_Text
 Predicate to describe the Text of Book.
 
 Use it like this: 
-- [ #has_/id_/isbn :: Text ] or 
+- [has_/id_/isbn :: Text ] 
 - [ has_id_isbn :: Text ] 
 
 The id_isbn of the book.
 
 Predicated describes that: 
-[ #has_/domain  :: Book ]
+
+#has_/domain  :: Book  
+
 ( #has_/name :: has_id_isbn )
 ( #has_/range :: Text )
 
-[ #is_/sub_property_of  :: identifier ]
-
+#is_/sub_property_of  :: identifier  
 
 ## Confidential Links & Embeds: 
 

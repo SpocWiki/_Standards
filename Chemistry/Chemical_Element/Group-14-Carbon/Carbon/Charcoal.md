@@ -22,6 +22,25 @@ image:
 Commons_category: Charcoal
 P2167: "15101605"
 MeSH_tree_code: D01.268.150.150
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Charcoal,177463|WD~Charcoal,177463]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Charcoal|Charcoal]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Charcoal.public|Charcoal.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Charcoal.internal|Charcoal.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Charcoal.protect|Charcoal.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Charcoal.private|Charcoal.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Charcoal.personal|Charcoal.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Charcoal.secret|Charcoal.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Charcoal,177463|WD~Charcoal,177463]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Charcoal|Charcoal]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Charcoal.public|Charcoal.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Charcoal.internal|Charcoal.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Charcoal.protect|Charcoal.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Charcoal.private|Charcoal.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Charcoal.personal|Charcoal.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Charcoal.secret|Charcoal.secret]]"
 ---
 
 # [[Charcoal]] 

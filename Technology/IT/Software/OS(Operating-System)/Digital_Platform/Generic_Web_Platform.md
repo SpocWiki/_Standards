@@ -33,15 +33,14 @@ Class of all generic_web_platforms.
 Tag Instances like this: 
 #is_a_/generic_web_platform
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
 Represents the generic notion of the Web Platform. 
 More specific codes include [[MobileWebPlatform]] and [[DesktopWebPlatform]], as an incomplete list.
 
-[ #is_/sub_class_of :: [[../DigitalPlatformEnumeration]] ]
+#is_/sub_class_of :: [[../DigitalPlatformEnumeration]]  
 
-[ #is_/enum_of :: [[../DigitalPlatformEnumeration]] ]
-
+#is_/enum_of :: [[../DigitalPlatformEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

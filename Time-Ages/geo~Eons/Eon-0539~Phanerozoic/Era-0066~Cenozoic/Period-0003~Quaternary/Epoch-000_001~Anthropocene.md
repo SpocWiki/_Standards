@@ -20,18 +20,48 @@ coordinate_location: Point(-79.948611111 43.468055555)
 Commons_category: Anthropocene
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Anthropocene%20collage.jpg
 Dewey_Decimal_Classification: "551.793"
+dv_has_:
+  time_:
+    started: 1492
+  duration_: 534
+  previous_:
+    item: "[[Epoch-000_012~Holocene]]"
+  next_:
+    item: ---
+dv_is_:
+  same_as:
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene|Epoch-000_001~Anthropocene]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene.public|Epoch-000_001~Anthropocene.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene.internal|Epoch-000_001~Anthropocene.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene.protect|Epoch-000_001~Anthropocene.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene.private|Epoch-000_001~Anthropocene.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene.personal|Epoch-000_001~Anthropocene.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene.secret|Epoch-000_001~Anthropocene.secret]]"
+dv_has_time_started: 1492
+dv_has_duration_years: 534
+dv_has_duration_: 534
+dv_has_previous_item: "[[Epoch-000_012~Holocene]]"
+dv_has_next_item: ---
+dv_is_same_as:
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene|Epoch-000_001~Anthropocene]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene.public|Epoch-000_001~Anthropocene.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene.internal|Epoch-000_001~Anthropocene.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene.protect|Epoch-000_001~Anthropocene.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene.private|Epoch-000_001~Anthropocene.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene.personal|Epoch-000_001~Anthropocene.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene.secret|Epoch-000_001~Anthropocene.secret]]"
 ---
 
 # [[Epoch-000_001~Anthropocene]] 
 
-#has_/time_/started :: 1492
+has_time_started = `=this.dv_has_time_started` 
 
-#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().getFullYear()) - dv.current().has_time_started))` 
-#has_/duration_ :: `=default(this.has_time_stopped, number(dateformat(date(now), "y"))) - this.has_time_started` 
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().getFullYear()) - dv.current().dv_has_time_started))` 
+#has_/duration_ :: `=default(this.has_time_stopped, number(dateformat(date(now), "y"))) - this.dv_has_time_started` 
 
 
-#has_/previous_/item :: [[Epoch-000_012~Holocene]]    
-#has_/next_/item :: ---
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 
 ## #has_/text_of_/abstract 
 

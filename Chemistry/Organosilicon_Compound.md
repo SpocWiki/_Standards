@@ -13,6 +13,25 @@ instance_of: "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,471
 UMLS_CUI: C0206126
 MeSH_tree_code: D02.715
 Commons_category: Organosilicon compounds
+dv_is_:
+  same_as:
+    - "[[../WikiData/WD~Organosilicon_compound,422789]]"
+    - "[[/_Standards/Chemistry/Organosilicon_Compound|Organosilicon_Compound]]"
+    - "[[/_public/Chemistry/Organosilicon_Compound.public|Organosilicon_Compound.public]]"
+    - "[[/_internal/Chemistry/Organosilicon_Compound.internal|Organosilicon_Compound.internal]]"
+    - "[[/_protect/Chemistry/Organosilicon_Compound.protect|Organosilicon_Compound.protect]]"
+    - "[[/_private/Chemistry/Organosilicon_Compound.private|Organosilicon_Compound.private]]"
+    - "[[/_personal/Chemistry/Organosilicon_Compound.personal|Organosilicon_Compound.personal]]"
+    - "[[/_secret/Chemistry/Organosilicon_Compound.secret|Organosilicon_Compound.secret]]"
+dv_is_same_as:
+  - "[[../WikiData/WD~Organosilicon_compound,422789]]"
+  - "[[/_Standards/Chemistry/Organosilicon_Compound|Organosilicon_Compound]]"
+  - "[[/_public/Chemistry/Organosilicon_Compound.public|Organosilicon_Compound.public]]"
+  - "[[/_internal/Chemistry/Organosilicon_Compound.internal|Organosilicon_Compound.internal]]"
+  - "[[/_protect/Chemistry/Organosilicon_Compound.protect|Organosilicon_Compound.protect]]"
+  - "[[/_private/Chemistry/Organosilicon_Compound.private|Organosilicon_Compound.private]]"
+  - "[[/_personal/Chemistry/Organosilicon_Compound.personal|Organosilicon_Compound.personal]]"
+  - "[[/_secret/Chemistry/Organosilicon_Compound.secret|Organosilicon_Compound.secret]]"
 ---
 
 # [[Organosilicon_Compound]] 

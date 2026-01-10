@@ -30,13 +30,15 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/part_of_/invoice :: Invoice ] or 
+- [is_/part_of_/invoice :: Invoice ] 
 - [ is_part_of_invoice :: Invoice ] 
 
 The order is being paid as part of the referenced Invoice.
 
 Relation describes that: 
-[ #has_/domain  :: Order ]
+
+#has_/domain  :: Order  
+
 ( #has_/name :: is_part_of_invoice )
 ( #has_/range :: Invoice )
 

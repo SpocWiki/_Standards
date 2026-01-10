@@ -10,21 +10,45 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - nonprofit_type
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_nonprofit_type Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_nonprofit_type Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../Enumeration]]"
+  same_as:
+    - "[[/_Standards/schema-org/Enumeration/Nonprofit_Type|Nonprofit_Type]]"
+    - "[[/_public/schema-org/Enumeration/Nonprofit_Type.public|Nonprofit_Type.public]]"
+    - "[[/_internal/schema-org/Enumeration/Nonprofit_Type.internal|Nonprofit_Type.internal]]"
+    - "[[/_protect/schema-org/Enumeration/Nonprofit_Type.protect|Nonprofit_Type.protect]]"
+    - "[[/_private/schema-org/Enumeration/Nonprofit_Type.private|Nonprofit_Type.private]]"
+    - "[[/_personal/schema-org/Enumeration/Nonprofit_Type.personal|Nonprofit_Type.personal]]"
+    - "[[/_secret/schema-org/Enumeration/Nonprofit_Type.secret|Nonprofit_Type.secret]]"
+dv_has_:
+  sub_classes: "[ NLNonprofitType, UKNonprofitType, USNonprofitType ]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../Enumeration]]"
+dv_has_sub_classes: "[ NLNonprofitType, UKNonprofitType, USNonprofitType ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Enumeration/Nonprofit_Type|Nonprofit_Type]]"
+  - "[[/_public/schema-org/Enumeration/Nonprofit_Type.public|Nonprofit_Type.public]]"
+  - "[[/_internal/schema-org/Enumeration/Nonprofit_Type.internal|Nonprofit_Type.internal]]"
+  - "[[/_protect/schema-org/Enumeration/Nonprofit_Type.protect|Nonprofit_Type.protect]]"
+  - "[[/_private/schema-org/Enumeration/Nonprofit_Type.private|Nonprofit_Type.private]]"
+  - "[[/_personal/schema-org/Enumeration/Nonprofit_Type.personal|Nonprofit_Type.personal]]"
+  - "[[/_secret/schema-org/Enumeration/Nonprofit_Type.secret|Nonprofit_Type.secret]]"
 ---
 
 Class of all nonprofit_types.
@@ -32,14 +56,13 @@ Class of all nonprofit_types.
 Tag Instances like this: 
 #is_a_/nonprofit_type
 
-[ #is_/part_of :: https://pending.schema.org ]
+is_part_of = `=this.dv_is_part_of` 
 
 NonprofitType enumerates several kinds of official non-profit types of which a non-profit organization can be.
 
-[ #is_/sub_class_of :: [[../Enumeration]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #has_/sub_classes :: [ NLNonprofitType, UKNonprofitType, USNonprofitType ] ]
-
+has_sub_classes = `=this.dv_has_sub_classes` 
 
 ## Confidential Links & Embeds: 
 

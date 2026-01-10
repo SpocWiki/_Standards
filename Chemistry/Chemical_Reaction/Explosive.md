@@ -5,32 +5,32 @@ aliases:
   - Explosive
 has_id_wikidata: Q12870
 subclass_of:
-  - '[[_Standards/WikiData/WD~chemical_substance,79529]]'
-  - '[[_Standards/WikiData/WD~hazardous_substances,757138]]'
-  - '[[_Standards/WikiData/WD~energetic_material,5376832]]'
+  - "[[_Standards/WikiData/WD~chemical_substance,79529]]"
+  - "[[_Standards/WikiData/WD~hazardous_substances,757138]]"
+  - "[[_Standards/WikiData/WD~energetic_material,5376832]]"
 has_effect:
-  - '[[_Standards/WikiData/WD~explosion,179057]]'
-  - '[[_Standards/WikiData/WD~detonation,786054]]'
+  - "[[_Standards/WikiData/WD~explosion,179057]]"
+  - "[[_Standards/WikiData/WD~detonation,786054]]"
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-has_use: '[[_Standards/WikiData/WD~detonation,786054]]'
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+has_use: "[[_Standards/WikiData/WD~detonation,786054]]"
 has_characteristic:
-  - '[[_Standards/WikiData/WD~brisance,899092]]'
-  - '[[_Standards/WikiData/WD~chemical_stability,903517]]'
-  - '[[_Standards/WikiData/WD~sensitivity_of_explosives,3738765]]'
-  - '[[_Standards/WikiData/WD~minimum_explosive_concentration,77569705]]'
+  - "[[_Standards/WikiData/WD~brisance,899092]]"
+  - "[[_Standards/WikiData/WD~chemical_stability,903517]]"
+  - "[[_Standards/WikiData/WD~sensitivity_of_explosives,3738765]]"
+  - "[[_Standards/WikiData/WD~minimum_explosive_concentration,77569705]]"
 different_from:
-  - '[[_Standards/WikiData/WD~explosive,911807]]'
-  - '[[_Standards/WikiData/WD~Materiał_wybuchowy,11771346]]'
-has_part_s_: '[[_Standards/WikiData/WD~explosophore,5421455]]'
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-instance_of: '[[_Standards/WikiData/WD~class_of_chemical_substances_by_use,100434640]]'
+  - "[[_Standards/WikiData/WD~explosive,911807]]"
+  - "[[_Standards/WikiData/WD~Materiał_wybuchowy,11771346]]"
+has_part_s_: "[[_Standards/WikiData/WD~explosophore,5421455]]"
+disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+instance_of: "[[_Standards/WikiData/WD~class_of_chemical_substances_by_use,100434640]]"
 Dewey_Decimal_Classification:
   - 662
   - 662.2
@@ -45,6 +45,25 @@ MeSH_tree_code: D27.720.317
 Colon_Classification: F5594
 Krugosvet_article: nauka_i_tehnika/himiya/VZRIVCHATIE_VESHCHESTVA.html
 OpenStreetMap_tag_or_key: Key:hazmat:explosive
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Explosive_chemicals,12870|WD~Explosive_chemicals,12870]]"
+    - "[[/_Standards/Chemistry/Chemical_Reaction/Explosive|Explosive]]"
+    - "[[/_public/Chemistry/Chemical_Reaction/Explosive.public|Explosive.public]]"
+    - "[[/_internal/Chemistry/Chemical_Reaction/Explosive.internal|Explosive.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Reaction/Explosive.protect|Explosive.protect]]"
+    - "[[/_private/Chemistry/Chemical_Reaction/Explosive.private|Explosive.private]]"
+    - "[[/_personal/Chemistry/Chemical_Reaction/Explosive.personal|Explosive.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Reaction/Explosive.secret|Explosive.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Explosive_chemicals,12870|WD~Explosive_chemicals,12870]]"
+  - "[[/_Standards/Chemistry/Chemical_Reaction/Explosive|Explosive]]"
+  - "[[/_public/Chemistry/Chemical_Reaction/Explosive.public|Explosive.public]]"
+  - "[[/_internal/Chemistry/Chemical_Reaction/Explosive.internal|Explosive.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Reaction/Explosive.protect|Explosive.protect]]"
+  - "[[/_private/Chemistry/Chemical_Reaction/Explosive.private|Explosive.private]]"
+  - "[[/_personal/Chemistry/Chemical_Reaction/Explosive.personal|Explosive.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Reaction/Explosive.secret|Explosive.secret]]"
 ---
 
 # [[Explosive]] 

@@ -35,11 +35,11 @@ Tag Instances like this:
 #is_a_ :: [[Taxon]] 
 creates a Link, but that is unrestricted
 
-[ #is_/part_of :: https://pending.schema.org ]
+#is_/part_of :: https://pending.schema.org  
 
-[ #is_/sub_class_of :: [[../../schema-org/Class/Thing|Thing]]]
+#is_/sub_class_of :: [[../../schema-org/Class/Thing|Thing]] 
 
-[ #has_/properties :: [ additionalType, alternateName, childTaxon, description, disambiguatingDescription, hasDefinedTerm, identifier, image, mainEntityOfPage, name, parentTaxon, potentialAction, sameAs, subjectOf, taxonRank, url ] ]
+#has_/properties :: [ additionalType, alternateName, childTaxon, description, disambiguatingDescription, hasDefinedTerm, identifier, image, mainEntityOfPage, name, parentTaxon, potentialAction, sameAs, subjectOf, taxonRank, url ]  
 
 ## #has_/text_of_/abstract 
 

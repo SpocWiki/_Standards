@@ -33,16 +33,18 @@ type: Pred_Text
 
 Predicate to describe the Text of Offer.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/text_of_/checkout_page_url_template :: Text ] or 
+- [has_/text_of_/checkout_page_url_template :: Text ] 
 - [ has_text_of_checkout_page_url_template :: Text ] 
 
 A URL template (RFC 6570) for a checkout page for an offer. This approach allows merchants to specify a URL for online checkout of the offered product, by interpolating parameters such as the logged in user ID, product ID, quantity, discount code etc. Parameter naming and standardization are not specified here.
 
 Predicated describes that: 
-[ #has_/domain  :: Offer ]
+
+#has_/domain  :: Offer  
+
 ( #has_/name :: has_text_of_checkout_page_url_template )
 ( #has_/range :: Text )
 

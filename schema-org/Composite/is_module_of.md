@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #is_/module_of :: Composite] or 
+- [is_/module_of :: Composite] 
 - [ is_module_of :: Composite] 
 
 Relates a module to its super-set. 
@@ -38,7 +38,9 @@ Can be implemented with dedicated #Tags
 #is_/inverse_of :: [[has_modules]] 
 
 Relation describes that: 
-[ #has_/domain  :: [Composite](../Composite.md)]
+
+#has_/domain  :: [Composite](../Composite.md) 
+
 ( #has_/name :: [is_module_of](is_module_of.md))
 ( #has_/range :: [Composite](../Composite.md))
 

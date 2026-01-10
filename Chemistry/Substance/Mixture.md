@@ -5,13 +5,32 @@ aliases:
 has_id_wikidata: Q169336
 Commons_category: Chemical mixtures
 has_part_s_of_the_class:
-  - '[[_Standards/WikiData/WD~pure_substance,578779]]'
+  - "[[_Standards/WikiData/WD~pure_substance,578779]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Schematische%20Einteilung%20der%20Stoffe.svg
 instance_of:
-  - '[[_Standards/WikiData/WD~group_or_class_of_chemical_substances,17339814]]'
-opposite_of: '[[_Standards/WikiData/WD~pure_substance,578779]]'
+  - "[[_Standards/WikiData/WD~group_or_class_of_chemical_substances,17339814]]"
+opposite_of: "[[_Standards/WikiData/WD~pure_substance,578779]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~chemical_substance,79529]]'
+  - "[[_Standards/WikiData/WD~chemical_substance,79529]]"
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Mixture,169336|WD~Mixture,169336]]"
+    - "[[/_Standards/Chemistry/Substance/Mixture|Mixture]]"
+    - "[[/_public/Chemistry/Substance/Mixture.public|Mixture.public]]"
+    - "[[/_internal/Chemistry/Substance/Mixture.internal|Mixture.internal]]"
+    - "[[/_protect/Chemistry/Substance/Mixture.protect|Mixture.protect]]"
+    - "[[/_private/Chemistry/Substance/Mixture.private|Mixture.private]]"
+    - "[[/_personal/Chemistry/Substance/Mixture.personal|Mixture.personal]]"
+    - "[[/_secret/Chemistry/Substance/Mixture.secret|Mixture.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Mixture,169336|WD~Mixture,169336]]"
+  - "[[/_Standards/Chemistry/Substance/Mixture|Mixture]]"
+  - "[[/_public/Chemistry/Substance/Mixture.public|Mixture.public]]"
+  - "[[/_internal/Chemistry/Substance/Mixture.internal|Mixture.internal]]"
+  - "[[/_protect/Chemistry/Substance/Mixture.protect|Mixture.protect]]"
+  - "[[/_private/Chemistry/Substance/Mixture.private|Mixture.private]]"
+  - "[[/_personal/Chemistry/Substance/Mixture.personal|Mixture.personal]]"
+  - "[[/_secret/Chemistry/Substance/Mixture.secret|Mixture.secret]]"
 ---
 
 # [[Mixture]] 

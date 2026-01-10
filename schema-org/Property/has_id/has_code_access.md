@@ -33,13 +33,15 @@ type: Pred_Text
 Predicate to describe the Text of DeliveryEvent.
 
 Use it like this: 
-- [ #has_/text_of_/access_code :: Text ] or 
+- [has_/text_of_/access_code :: Text ] 
 - [ has_code_access :: Text ] 
 
 Password, PIN, or access code needed for delivery (e.g. from a locker).
 
 Predicated describes that: 
-[ #has_/domain  :: DeliveryEvent ]
+
+#has_/domain  :: DeliveryEvent  
+
 ( #has_/name :: has_code_access )
 ( #has_/range :: Text )
 

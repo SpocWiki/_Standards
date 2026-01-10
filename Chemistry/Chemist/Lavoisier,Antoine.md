@@ -82,7 +82,7 @@ place_of_birth: "[[_Standards/WikiData/WD~Paris,90]]"
 country_of_citizenship: "[[_Standards/WikiData/WD~France,142]]"
 writing_language: "[[_Standards/WikiData/WD~French,150]]"
 languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~French,150]]"
-Wolfram_Language_entity_code: Entity["Concept", "AntoineLaurentLavoisier::v8226"]
+Wolfram_Language_entity_code: Entity"Concept", "AntoineLaurentLavoisier = `=this.dv_"Concept", "AntoineLaurentLavoisier` 
 archival_creator_authority_record_at_the_Archives_nationales: FRAN_NP_050534
 Krugosvet_article_archived_: himiya/lavuaze-antuan-loran
 name_in_native_language: Antoine Laurent Lavoisier
@@ -109,6 +109,27 @@ described_at_URL:
 ISNI: "0000000121179175"
 Libris_URI: 31fhkwbm47zx5kq
 P1015: "90210745"
+dv_"Concept", "AntoineLaurentLavoisier: v8226"
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Antoine_Lavoisier,39607|WD~Antoine_Lavoisier,39607]]"
+    - "[[/_Standards/Chemistry/Chemist/Lavoisier,Antoine|Lavoisier,Antoine]]"
+    - "[[/_public/Chemistry/Chemist/Lavoisier,Antoine.public|Lavoisier,Antoine.public]]"
+    - "[[/_internal/Chemistry/Chemist/Lavoisier,Antoine.internal|Lavoisier,Antoine.internal]]"
+    - "[[/_protect/Chemistry/Chemist/Lavoisier,Antoine.protect|Lavoisier,Antoine.protect]]"
+    - "[[/_private/Chemistry/Chemist/Lavoisier,Antoine.private|Lavoisier,Antoine.private]]"
+    - "[[/_personal/Chemistry/Chemist/Lavoisier,Antoine.personal|Lavoisier,Antoine.personal]]"
+    - "[[/_secret/Chemistry/Chemist/Lavoisier,Antoine.secret|Lavoisier,Antoine.secret]]"
+dv_concept-antoinelaurentlavoisier: v8226"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Antoine_Lavoisier,39607|WD~Antoine_Lavoisier,39607]]"
+  - "[[/_Standards/Chemistry/Chemist/Lavoisier,Antoine|Lavoisier,Antoine]]"
+  - "[[/_public/Chemistry/Chemist/Lavoisier,Antoine.public|Lavoisier,Antoine.public]]"
+  - "[[/_internal/Chemistry/Chemist/Lavoisier,Antoine.internal|Lavoisier,Antoine.internal]]"
+  - "[[/_protect/Chemistry/Chemist/Lavoisier,Antoine.protect|Lavoisier,Antoine.protect]]"
+  - "[[/_private/Chemistry/Chemist/Lavoisier,Antoine.private|Lavoisier,Antoine.private]]"
+  - "[[/_personal/Chemistry/Chemist/Lavoisier,Antoine.personal|Lavoisier,Antoine.personal]]"
+  - "[[/_secret/Chemistry/Chemist/Lavoisier,Antoine.secret|Lavoisier,Antoine.secret]]"
 ---
 
 # [[Lavoisier,Antoine]] 

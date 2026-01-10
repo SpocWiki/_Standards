@@ -8,21 +8,45 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - reservation
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_reservation Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_reservation Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../Intangible]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Reservation|Reservation]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Reservation.public|Reservation.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Reservation.internal|Reservation.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Reservation.protect|Reservation.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Reservation.private|Reservation.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Reservation.personal|Reservation.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Reservation.secret|Reservation.secret]]"
+dv_has_:
+  sub_classes: "[ BoatReservation, BusReservation, EventReservation, FlightReservation, FoodEstablishmentReservation, LodgingReservation, RentalCarReservation, ReservationPackage, TaxiReservation, TrainReservation ]"
+  properties: "[ additionalType, alternateName, bookingAgent, bookingTime, broker, description, disambiguatingDescription, identifier, image, mainEntityOfPage, modifiedTime, name, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, subjectOf, totalPrice, underName, url ]"
+dv_is_sub_class_of: "[[../Intangible]]"
+dv_has_sub_classes: "[ BoatReservation, BusReservation, EventReservation, FlightReservation, FoodEstablishmentReservation, LodgingReservation, RentalCarReservation, ReservationPackage, TaxiReservation, TrainReservation ]"
+dv_has_properties: "[ additionalType, alternateName, bookingAgent, bookingTime, broker, description, disambiguatingDescription, identifier, image, mainEntityOfPage, modifiedTime, name, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, subjectOf, totalPrice, underName, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Reservation|Reservation]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Reservation.public|Reservation.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Reservation.internal|Reservation.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Reservation.protect|Reservation.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Reservation.private|Reservation.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Reservation.personal|Reservation.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Reservation.secret|Reservation.secret]]"
 ---
 
 Class of all reservations.
@@ -34,12 +58,11 @@ Describes a reservation for travel, dining or an event. Some reservations requir
 
 Note: This type is for information about actual reservations, e.g. in confirmation emails or HTML pages with individual confirmations of reservations. For offers of tickets, restaurant reservations, flights, or rental cars, use [[../../../../Society/Agent/Community/Organization/Business/Offer]].
 
-[ #is_/sub_class_of :: [[../Intangible]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #has_/sub_classes :: [ BoatReservation, BusReservation, EventReservation, FlightReservation, FoodEstablishmentReservation, LodgingReservation, RentalCarReservation, ReservationPackage, TaxiReservation, TrainReservation ] ]
+has_sub_classes = `=this.dv_has_sub_classes` 
 
-[ #has_/properties :: [ additionalType, alternateName, bookingAgent, bookingTime, broker, description, disambiguatingDescription, identifier, image, mainEntityOfPage, modifiedTime, name, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, subjectOf, totalPrice, underName, url ] ]
-
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

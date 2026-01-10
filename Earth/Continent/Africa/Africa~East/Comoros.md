@@ -296,7 +296,7 @@ dv_ISO4217-currency_country_name: COMOROS
 dv_Telephone: 269
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Comoros
+dv_has_name: Comoros
 dv_has_name_en: Comoros
 dv_has_name_es: Comoras
 dv_has_name_fr: Comores
@@ -394,7 +394,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 [	has_name_en	 :: Comoros ]
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`

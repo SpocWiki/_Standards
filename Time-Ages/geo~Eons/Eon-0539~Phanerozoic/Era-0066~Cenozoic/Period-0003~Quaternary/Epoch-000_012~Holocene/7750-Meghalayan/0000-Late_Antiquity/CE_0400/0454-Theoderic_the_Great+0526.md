@@ -63,6 +63,25 @@ Commons_category: Theodoric the Great
 Commons_gallery: Theodoric the Great
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Theoderic%20Quarter%20Siliqua%2080000847.jpg
 ISNI: 000000011611940X
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../../WikiData/WD~Theoderic_the_Great,105105|WD~Theoderic_the_Great,105105]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0454-Theoderic_the_Great+0526|0454-Theoderic_the_Great+0526]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0454-Theoderic_the_Great+0526.public|0454-Theoderic_the_Great+0526.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0454-Theoderic_the_Great+0526.internal|0454-Theoderic_the_Great+0526.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0454-Theoderic_the_Great+0526.protect|0454-Theoderic_the_Great+0526.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0454-Theoderic_the_Great+0526.private|0454-Theoderic_the_Great+0526.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0454-Theoderic_the_Great+0526.personal|0454-Theoderic_the_Great+0526.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0454-Theoderic_the_Great+0526.secret|0454-Theoderic_the_Great+0526.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../../WikiData/WD~Theoderic_the_Great,105105|WD~Theoderic_the_Great,105105]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0454-Theoderic_the_Great+0526|0454-Theoderic_the_Great+0526]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0454-Theoderic_the_Great+0526.public|0454-Theoderic_the_Great+0526.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0454-Theoderic_the_Great+0526.internal|0454-Theoderic_the_Great+0526.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0454-Theoderic_the_Great+0526.protect|0454-Theoderic_the_Great+0526.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0454-Theoderic_the_Great+0526.private|0454-Theoderic_the_Great+0526.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0454-Theoderic_the_Great+0526.personal|0454-Theoderic_the_Great+0526.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0454-Theoderic_the_Great+0526.secret|0454-Theoderic_the_Great+0526.secret]]"
 ---
 
 # [[0454-Theoderic_the_Great+0526]] 

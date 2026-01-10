@@ -75,6 +75,25 @@ pronunciation_audio:
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-0%20%28getal%29-article.ogg
 described_at_URL: https://turkic.elegantlexicon.com/turkforms.php?form=zerozero
 Commons_category: 0 (number)
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Zero,204|WD~Zero,204]]"
+    - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Number/Zero|Zero]]"
+    - "[[/_public/schema-org/Class/is_a_/Data_Type/Number/Zero.public|Zero.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Data_Type/Number/Zero.internal|Zero.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Data_Type/Number/Zero.protect|Zero.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Data_Type/Number/Zero.private|Zero.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Data_Type/Number/Zero.personal|Zero.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Data_Type/Number/Zero.secret|Zero.secret]]"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Zero,204|WD~Zero,204]]"
+  - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Number/Zero|Zero]]"
+  - "[[/_public/schema-org/Class/is_a_/Data_Type/Number/Zero.public|Zero.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Data_Type/Number/Zero.internal|Zero.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Data_Type/Number/Zero.protect|Zero.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Data_Type/Number/Zero.private|Zero.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Data_Type/Number/Zero.personal|Zero.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Data_Type/Number/Zero.secret|Zero.secret]]"
 ---
 
 

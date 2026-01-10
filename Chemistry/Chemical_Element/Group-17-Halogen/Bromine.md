@@ -2,27 +2,27 @@
 aliases:
   - Bromine
 has_id_wikidata: Q879
-associated_hazard: '[[_Standards/WikiData/WD~bromine_exposure,21173316]]'
+associated_hazard: "[[_Standards/WikiData/WD~bromine_exposure,21173316]]"
 atomic_number: 35
 Commons_category: Bromine
 Commons_gallery: Bromine
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-different_from: '[[_Standards/WikiData/WD~theobromine,206844]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+different_from: "[[_Standards/WikiData/WD~theobromine,206844]]"
 discoverer_or_inventor:
-  - '[[_Standards/WikiData/WD~Antoine_Jérôme_Balard,314306]]'
-  - '[[_Standards/WikiData/WD~Carl_Jacob_Löwig,65517]]'
+  - "[[_Standards/WikiData/WD~Antoine_Jérôme_Balard,314306]]"
+  - "[[_Standards/WikiData/WD~Carl_Jacob_Löwig,65517]]"
 electronegativity: 3
 element_symbol: Br
 Gmelin_number: 1182
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bromine%20vial%20in%20acrylic%20cube.jpg
 instance_of:
-  - '[[_Standards/WikiData/WD~lithophile,1130479]]'
-  - '[[_Standards/WikiData/WD~chemical_element,11344]]'
+  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
+  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
 ionic_radius:
   - 0.25
   - 0.31
@@ -30,61 +30,145 @@ ionic_radius:
   - 1.96
 ionization_energy: 10.55
 Krugosvet_article: nauka_i_tehnika/himiya/BROM.html
-location_of_discovery: '[[_Standards/WikiData/WD~France,142]]'
+location_of_discovery: "[[_Standards/WikiData/WD~France,142]]"
 made_from_material:
-  - '[[_Standards/WikiData/WD~seawater,184395]]'
-  - '[[_Standards/WikiData/WD~brine,214403]]'
+  - "[[_Standards/WikiData/WD~seawater,184395]]"
+  - "[[_Standards/WikiData/WD~brine,214403]]"
 mass: 79.904
 MeSH_tree_code: D01.268.380.112
-named_after: '[[_Standards/WikiData/WD~stink,1519476]]'
+named_after: "[[_Standards/WikiData/WD~stink,1519476]]"
 OmegaWiki_Defined_Meaning: 434
 part_of:
-  - '[[_Standards/WikiData/WD~period_4,239825]]'
-  - '[[_Standards/WikiData/WD~halogens,19605]]'
+  - "[[_Standards/WikiData/WD~period_4,239825]]"
+  - "[[_Standards/WikiData/WD~halogens,19605]]"
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Bromine-ar.ogg
 SpocWebEntityId: 21933
 subclass_of:
-  - '[[_Standards/WikiData/WD~chemical_substance,79529]]'
-  - '[[_Standards/WikiData/WD~diatomic_nonmetal,19753344]]'
-  - '[[_Standards/WikiData/WD~nonmetal,19600]]'
-  - '[[_Standards/WikiData/WD~halogens,19605]]'
+  - "[[_Standards/WikiData/WD~chemical_substance,79529]]"
+  - "[[_Standards/WikiData/WD~diatomic_nonmetal,19753344]]"
+  - "[[_Standards/WikiData/WD~nonmetal,19600]]"
+  - "[[_Standards/WikiData/WD~halogens,19605]]"
 time_of_discovery_or_invention: 1825
 type: Element
 UMLS_CUI: C0006223
 Unicode_character: 溴
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Bromine,879]]"
+    - "[[/_Standards/Chemistry/Chemical_Element/Group-17-Halogen/Bromine|Bromine]]"
+    - "[[/_public/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.public|Bromine.public]]"
+    - "[[/_internal/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.internal|Bromine.internal]]"
+    - "[[/_protect/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.protect|Bromine.protect]]"
+    - "[[/_private/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.private|Bromine.private]]"
+    - "[[/_personal/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.personal|Bromine.personal]]"
+    - "[[/_secret/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.secret|Bromine.secret]]"
+  part_of: "[[../Group-17-Halogen]]"
+dv_has_:
+  name_:
+    group: Group-17-Halogene
+    en: Bromine
+    de: Brom
+    abbreviated: Br
+  value_for_:
+    weight_:
+      u: 79.904
+    radius: 1.12
+    volume_:
+      ccm_:
+        mol: 23.5
+    unknown2: 1.14
+    radius_:
+      nano_:
+        m: 11.814
+    electronegativity: 3
+    density: 3.12
+    temperature_:
+      melt_:
+        c: -7.2
+      boil_:
+        c: 58.78
+    capacity_:
+      heat: 0.473
+    conductivity_:
+      heat: 0.00122
+    enthalpy: 5.286
+    energy_:
+      form_:
+        kj_:
+          mol: 15.438
+  number_of_:
+    period: 4
+    group: 17
+    electrons: 35
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Bromine,879]]"
+  - "[[/_Standards/Chemistry/Chemical_Element/Group-17-Halogen/Bromine|Bromine]]"
+  - "[[/_public/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.public|Bromine.public]]"
+  - "[[/_internal/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.internal|Bromine.internal]]"
+  - "[[/_protect/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.protect|Bromine.protect]]"
+  - "[[/_private/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.private|Bromine.private]]"
+  - "[[/_personal/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.personal|Bromine.personal]]"
+  - "[[/_secret/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.secret|Bromine.secret]]"
+dv_has_name_group: Group-17-Halogene
+dv_is_part_of: "[[../Group-17-Halogen]]"
+dv_has_name_en: Bromine
+dv_has_name_de: Brom
+dv_has_value_for_weight_u: 79.904
+dv_has_value_for_radius: 1.12
+dv_has_value_for_volume_ccm_mol: 23.5
+dv_has_value_for_unknown2: 1.14
+dv_has_value_for_radius_nano_m: 11.814
+dv_has_value_for_electronegativity: 3
+dv_has_value_for_density: 3.12
+dv_has_value_for_temperature_melt_c: -7.2
+dv_has_value_for_temperature_boil_c: 58.78
+dv_has_value_for_capacity_heat: 0.473
+dv_has_value_for_conductivity_heat: 0.00122
+dv_has_value_for_enthalpy: 5.286
+dv_has_value_for_energy_form_kj_mol: 15.438
+dv_has_number_of_period: 4
+dv_has_number_of_group: 17
+dv_has_name_abbreviated: Br
+dv_has_number_of_electrons: 35
 ---
 
 #is_/same_as :: [[../../../WikiData/WD~Bromine,879]] 
 
 
 #chemic/Element 
-[GroupName::Group-17-Halogene]
-Group::[[../Group-17-Halogen]]
+has_name_group = `=this.dv_has_name_group` 
+is_part_of = `=this.dv_is_part_of` 
 
+has_name_en = `=this.dv_has_name_en` 
 
-[#has_/name_/en::Bromine]
-[#has_/name_/de::Brom]
+has_name_de = `=this.dv_has_name_de` 
 
-[#has_/value_for_/weight_/u::79.904]
-[AtomRadius::1.12]
-[Atom-Vol-ccm-mol::23.5]
-[Unknown2::1.14]
-[#has_/value_for_/radius_/nano_/m::11.814]
-[Electronegative::3]
-[Density::3.12]
-[#has_/value_for_/temperature_/melt_/c ::-7.2]
-[#has_/value_for_/temperature_/boil_/c ::58.78]
-[HeatCapacity::0.473]
-[HeatConduct::0.00122]
-[Enthalpy::5.286]
-[FormEnergy-kj-mol::15.438]
-(PeriodNo::4)
-(GroupNo::17)
+has_value_for_weight_u = `=this.dv_has_value_for_weight_u` 
+
+has_value_for_radius = `=this.dv_has_value_for_radius` 
+has_value_for_volume_ccm_mol = `=this.dv_has_value_for_volume_ccm_mol` 
+has_value_for_unknown2 = `=this.dv_has_value_for_unknown2` 
+
+has_value_for_radius_nano_m = `=this.dv_has_value_for_radius_nano_m` 
+
+has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity` 
+has_value_for_density = `=this.dv_has_value_for_density` 
+
+has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c` 
+
+has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` 
+
+has_value_for_capacity_heat = `=this.dv_has_value_for_capacity_heat` 
+has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat` 
+has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
+has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
+has_number_of_period = `=this.dv_has_number_of_period` 
+has_number_of_group = `=this.dv_has_number_of_group` 
 
 
 ## #has_/text_of_/abstract 
 
-> **Bromine** is a chemical element with the symbol (Abbr::Br) and atomic number (Charge-e::35). 
+> **Bromine** is a chemical element with the symbol has_name_abbreviated = `=this.dv_has_name_abbreviated`  and atomic number has_number_of_electrons = `=this.dv_has_number_of_electrons` . 
 > It is a volatile red-brown liquid at room temperature 
 > that evaporates readily to form a similarly coloured vapour. 
 > 

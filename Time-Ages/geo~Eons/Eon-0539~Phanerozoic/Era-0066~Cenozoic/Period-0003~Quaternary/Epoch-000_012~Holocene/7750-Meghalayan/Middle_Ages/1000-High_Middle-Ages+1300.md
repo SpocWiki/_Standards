@@ -13,20 +13,53 @@ OmegaWiki_Defined_Meaning: "1258252"
 start_time: 1000-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Europe%20mediterranean%201190.jpg
 Commons_category: High Middle Ages
+dv_has_:
+  time_:
+    started: 1000-06-01T00:00:00.000+00:53
+    stopped: 1300-06-01T00:00:00.000+00:53
+  duration_: P300Y
+  previous_item: "[[0750-Early_Middle-Ages]]"
+  next_:
+    item: "[[1300-Late_Middle-Ages]]"
+dv_is_:
+  same_as:
+    - "[[WD~High_Middle-Ages,212685]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300|1000-High_Middle-Ages+1300]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300.public|1000-High_Middle-Ages+1300.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300.internal|1000-High_Middle-Ages+1300.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300.protect|1000-High_Middle-Ages+1300.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300.private|1000-High_Middle-Ages+1300.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300.personal|1000-High_Middle-Ages+1300.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300.secret|1000-High_Middle-Ages+1300.secret]]"
+dv_has_time_started: 1000-06-01
+dv_has_time_stopped: 1300-06-01
+dv_has_duration_years: 300
+dv_has_duration_: P300Y
+dv_has_previous_item: "[[0750-Early_Middle-Ages]]"
+dv_has_next_item: "[[1300-Late_Middle-Ages]]"
+dv_is_same_as:
+  - "[[WD~High_Middle-Ages,212685]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300|1000-High_Middle-Ages+1300]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300.public|1000-High_Middle-Ages+1300.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300.internal|1000-High_Middle-Ages+1300.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300.protect|1000-High_Middle-Ages+1300.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300.private|1000-High_Middle-Ages+1300.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300.personal|1000-High_Middle-Ages+1300.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300.secret|1000-High_Middle-Ages+1300.secret]]"
 ---
 
 # [[1000-High_Middle-Ages+1300]] 
 
 #is_a_/time_/Culture 
 
-#has_/time_/started :: 1000-06 
-#has_/time_/stopped :: 1300-06 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
-#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
-#has_/duration_ :: `=default(this.has_time_stopped, date(now).year) - this.has_time_started` 
+#has_/duration_/years :: `$=Math.round(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)/1000/60/60/24/365.2425)` 
+#has_/duration_ :: `=default(this.dv_has_time_stopped, date(now).year) - this.dv_has_time_started` 
 
-#has_/previous_item :: [[0750-Early_Middle-Ages]] 
-#has_/next_/item :: [[1300-Late_Middle-Ages]]
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~High_Middle-Ages,212685]] 
 
 ## #has_/text_of_/abstract 

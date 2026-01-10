@@ -25,16 +25,96 @@ start_time: -298900000-01-01T00:00:00Z
 named_after: "[[_Standards/WikiData/WD~Ural_Mountains,35600]]"
 end_time: -272950000-01-01T00:00:00Z
 sRGB_color_hex_triplet: F76E54
+dv_has_:
+  duration_:
+    years: "2.589e+7"
+  previous_:
+    item: "[[../Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian|Age~3~Kasimovian]]"
+  next_:
+    item: "[[Epoch-273~Guadalupian]]"
+  name_:
+    bg: Циѿурал
+    cs: Cisural
+    da: Cisuralien
+    de: Cisuralium
+    es: Cisuraliense
+    et: Cisural
+    fi: Cisural
+    fr: Cisuralien
+    hu: ciszurali
+    it: cisuraliano
+    ja: キスラリアン世
+    lt: Kisuralis
+    nl: Cisuraliën
+    no: Cisuralium
+    pl: Cisural
+    pt: Cisuraliano
+    sk: cisural
+    sl: cisuralij
+    sv: cisural
+    zh: 乌拉尔世
+    abbreviated: P1
+  time_:
+    started: "-298.90e6"
+    stopped: "-273.01e6"
+  text_of_:
+    color: "0xEF5845"
+dv_is_:
+  same_as:
+    - "[[WD~Cisuralian,642169]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian|Epoch-298~Cisuralian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian.public|Epoch-298~Cisuralian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian.internal|Epoch-298~Cisuralian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian.protect|Epoch-298~Cisuralian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian.private|Epoch-298~Cisuralian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian.personal|Epoch-298~Cisuralian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian.secret|Epoch-298~Cisuralian.secret]]"
+dv_has_duration_years: "2.589e+7"
+dv_has_previous_item: "[[../Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian|Age~3~Kasimovian]]"
+dv_has_next_item: "[[Epoch-273~Guadalupian]]"
+dv_is_same_as:
+  - "[[WD~Cisuralian,642169]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian|Epoch-298~Cisuralian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian.public|Epoch-298~Cisuralian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian.internal|Epoch-298~Cisuralian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian.protect|Epoch-298~Cisuralian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian.private|Epoch-298~Cisuralian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian.personal|Epoch-298~Cisuralian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian.secret|Epoch-298~Cisuralian.secret]]"
+dv_has_name_bg: Циѿурал
+dv_has_name_cs: Cisural
+dv_has_name_da: Cisuralien
+dv_has_name_de: Cisuralium
+dv_has_name_es: Cisuraliense
+dv_has_name_et: Cisural
+dv_has_name_fi: Cisural
+dv_has_name_fr: Cisuralien
+dv_has_name_hu: ciszurali
+dv_has_name_it: cisuraliano
+dv_has_name_ja: キスラリアン世
+dv_has_name_lt: Kisuralis
+dv_has_name_nl: Cisuraliën
+dv_has_name_no: Cisuralium
+dv_has_name_pl: Cisural
+dv_has_name_pt: Cisuraliano
+dv_has_name_sk: cisural
+dv_has_name_sl: cisuralij
+dv_has_name_sv: cisural
+dv_has_name_zh: 乌拉尔世
+dv_has_name_abbreviated: P1
+dv_has_time_started: "-298.90e6"
+dv_has_time_stopped: "-273.01e6"
+dv_has_text_of_color: "0xEF5845"
 ---
 
 # [[Epoch-298~Cisuralian]] 
 
 #is_a_/time_/Epoch 
 
-#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[../Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian|Age~3~Kasimovian]]  
-#has_/next_/item :: [[Epoch-273~Guadalupian]]  
+has_previous_item = `=this.dv_has_previous_item` 
+has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Cisuralian,642169]]  
 
 A time period from 298.9 to 273.01 million years ago. 
@@ -48,35 +128,35 @@ A time period from 298.9 to 273.01 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Cisuralian) 
 
 
-#has_/name_/bg  :: Циѿурал
-#has_/name_/cs  :: Cisural
-#has_/name_/da  :: Cisuralien
-#has_/name_/de  :: Cisuralium
-#has_/name_/es  :: Cisuraliense
-#has_/name_/et  :: Cisural
-#has_/name_/fi  :: Cisural
-#has_/name_/fr  :: Cisuralien
-#has_/name_/hu  :: ciszurali
-#has_/name_/it  :: cisuraliano
-#has_/name_/ja  :: キスラリアン世
-#has_/name_/lt  :: Kisuralis
-#has_/name_/nl  :: Cisuraliën
-#has_/name_/no  :: Cisuralium
-#has_/name_/pl  :: Cisural
-#has_/name_/pt  :: Cisuraliano
-#has_/name_/sk  :: cisural
-#has_/name_/sl  :: cisuralij
-#has_/name_/sv  :: cisural
-#has_/name_/zh  :: 乌拉尔世
+has_name_bg = `=this.dv_has_name_bg` 
+has_name_cs = `=this.dv_has_name_cs` 
+has_name_da = `=this.dv_has_name_da` 
+has_name_de = `=this.dv_has_name_de` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_et = `=this.dv_has_name_et` 
+has_name_fi = `=this.dv_has_name_fi` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_hu = `=this.dv_has_name_hu` 
+has_name_it = `=this.dv_has_name_it` 
+has_name_ja = `=this.dv_has_name_ja` 
+has_name_lt = `=this.dv_has_name_lt` 
+has_name_nl = `=this.dv_has_name_nl` 
+has_name_no = `=this.dv_has_name_no` 
+has_name_pl = `=this.dv_has_name_pl` 
+has_name_pt = `=this.dv_has_name_pt` 
+has_name_sk = `=this.dv_has_name_sk` 
+has_name_sl = `=this.dv_has_name_sl` 
+has_name_sv = `=this.dv_has_name_sv` 
+has_name_zh = `=this.dv_has_name_zh` 
 
-#has_/abbreviation :: P1
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
 
-#has_/time_/started :: -298.90e6 
-#has_/time_/stopped :: -273.01e6 
+has_time_started = `=this.dv_has_time_started` 
+has_time_stopped = `=this.dv_has_time_stopped` 
 
     sh:order 90 
 
-#has_/text_of_/color :: 0xEF5845
+has_text_of_color = `=this.dv_has_text_of_color` 
 
 ## All Contents
 

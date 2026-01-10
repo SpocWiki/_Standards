@@ -10,36 +10,66 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - bus
   - number
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_id_of_bus
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_id_of_bus
 type: Pred_Text
+dv_has_:
+  id_:
+    of_bus: Text
+  domain: BusTrip
+dv_has_id_of_bus: Text
+dv_#has_:
+  name: has_id_of_bus
+  range: Text
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_name/has_id_of_bus|has_id_of_bus]]"
+    - "[[/_public/schema-org/Property/has_name/has_id_of_bus.public|has_id_of_bus.public]]"
+    - "[[/_internal/schema-org/Property/has_name/has_id_of_bus.internal|has_id_of_bus.internal]]"
+    - "[[/_protect/schema-org/Property/has_name/has_id_of_bus.protect|has_id_of_bus.protect]]"
+    - "[[/_private/schema-org/Property/has_name/has_id_of_bus.private|has_id_of_bus.private]]"
+    - "[[/_personal/schema-org/Property/has_name/has_id_of_bus.personal|has_id_of_bus.personal]]"
+    - "[[/_secret/schema-org/Property/has_name/has_id_of_bus.secret|has_id_of_bus.secret]]"
+dv_has_domain: BusTrip
+dv_has_name: has_id_of_bus
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_name/has_id_of_bus|has_id_of_bus]]"
+  - "[[/_public/schema-org/Property/has_name/has_id_of_bus.public|has_id_of_bus.public]]"
+  - "[[/_internal/schema-org/Property/has_name/has_id_of_bus.internal|has_id_of_bus.internal]]"
+  - "[[/_protect/schema-org/Property/has_name/has_id_of_bus.protect|has_id_of_bus.protect]]"
+  - "[[/_private/schema-org/Property/has_name/has_id_of_bus.private|has_id_of_bus.private]]"
+  - "[[/_personal/schema-org/Property/has_name/has_id_of_bus.personal|has_id_of_bus.personal]]"
+  - "[[/_secret/schema-org/Property/has_name/has_id_of_bus.secret|has_id_of_bus.secret]]"
 ---
 
 Predicate to describe the Text of BusTrip.
 
 Use it like this: 
-- [ #has_/id_/of_bus :: Text ] or 
-- [ has_id_of_bus :: Text ] 
+- has_id_of_bus = `=this.dv_has_id_of_bus`  
+- has_id_of_bus = `=this.dv_has_id_of_bus`  
 
 The unique identifier for the bus.
 
 Predicated describes that: 
-[ #has_/domain  :: BusTrip ]
-( #has_/name :: has_id_of_bus )
-( #has_/range :: Text )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

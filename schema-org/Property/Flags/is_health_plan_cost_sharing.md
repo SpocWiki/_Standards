@@ -27,7 +27,7 @@ title: is_health_plan_cost_sharing
 type: Pred_Bool
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use these simple Tags to mark Instances as True or False: 
 #is_/health_plan_cost_sharing 
@@ -39,7 +39,9 @@ Or write it as a Triple:
 The costs to the patient for services under this network or formulary.
 
 Predicate describes that: 
-[ #has_/domain  :: HealthPlanFormulary, HealthPlanNetwork ]
+
+#has_/domain  :: HealthPlanFormulary, HealthPlanNetwork  
+
 ( #has_/name :: is_health_plan_cost_sharing )
 ( #has_/range :: Boolean )
 

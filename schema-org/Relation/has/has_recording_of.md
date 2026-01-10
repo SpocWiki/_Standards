@@ -29,18 +29,19 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/recording_of :: MusicComposition ] or 
+- [has_/recording_of :: MusicComposition ] 
 - [ has_recording_of :: MusicComposition ] 
 
 The composition this track is a recording of.
 
 Relation describes that: 
-[ #has_/domain  :: MusicRecording ]
+
+#has_/domain  :: MusicRecording  
+
 ( #has_/name :: is_recording_of )
 ( #has_/range :: MusicComposition )
 
-[ #is_/inverse_of  :: recordedAs ]
-
+#is_/inverse_of  :: recordedAs  
 
 ## Confidential Links & Embeds: 
 

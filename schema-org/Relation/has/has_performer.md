@@ -29,17 +29,19 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/performer :: Organization, Person ] or 
+- [has_/performer :: Organization, Person ] 
 - [ has_performer :: Organization, Person ] 
 
 A performer at the event&amp;#x2014;for example, a presenter, musician, musical group or actor.
 
 Relation describes that: 
-[ #has_/domain  :: Event ]
+
+#has_/domain  :: Event  
+
 ( #has_/name :: has_performer )
 ( #has_/range :: Organization, Person )
 
-[ #is_/inverse_of  :: [[../is/is_performer_in]] ]
+#is_/inverse_of  :: [[../is/is_performer_in]]  
 
 [[../is_inverse_of]]
 

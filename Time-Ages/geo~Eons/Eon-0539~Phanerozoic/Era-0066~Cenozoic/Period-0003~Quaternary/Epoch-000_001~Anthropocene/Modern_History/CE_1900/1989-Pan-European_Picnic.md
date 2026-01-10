@@ -21,12 +21,37 @@ country:
 point_in_time: 1989-08-19T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Paneur%20grenz%C3%BCbergang%20130609.JPG
 Commons_category: Pan-European Picnic
+dv_is_:
+  same_as:
+    - 
+    - "[[WD~Pan-European_Picnic,160056]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Pan-European_Picnic|1989-Pan-European_Picnic]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Pan-European_Picnic.public|1989-Pan-European_Picnic.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Pan-European_Picnic.internal|1989-Pan-European_Picnic.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Pan-European_Picnic.protect|1989-Pan-European_Picnic.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Pan-European_Picnic.private|1989-Pan-European_Picnic.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Pan-European_Picnic.personal|1989-Pan-European_Picnic.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Pan-European_Picnic.secret|1989-Pan-European_Picnic.secret]]"
+dv_has_:
+  time_:
+    started: 1989-08-19T00:00:00.000+02:00
+dv_is_same_as:
+  - 
+  - "[[WD~Pan-European_Picnic,160056]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Pan-European_Picnic|1989-Pan-European_Picnic]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Pan-European_Picnic.public|1989-Pan-European_Picnic.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Pan-European_Picnic.internal|1989-Pan-European_Picnic.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Pan-European_Picnic.protect|1989-Pan-European_Picnic.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Pan-European_Picnic.private|1989-Pan-European_Picnic.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Pan-European_Picnic.personal|1989-Pan-European_Picnic.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1989-Pan-European_Picnic.secret|1989-Pan-European_Picnic.secret]]"
+dv_has_time_started: 1989-08-19
 ---
 
 # [[1989-Pan-European_Picnic]] 
 
 #is_/same_as :: 
-#has_/time_/started :: 1989-08-19 
+has_time_started = `=this.dv_has_time_started` 
 #is_/same_as :: [[WD~Pan-European_Picnic,160056]] 
 
 ## #has_/text_of_/abstract 

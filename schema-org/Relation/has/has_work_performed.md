@@ -29,18 +29,19 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/work_performed :: CreativeWork ] or 
+- [has_/work_performed :: CreativeWork ] 
 - [ has_work_performed :: CreativeWork ] 
 
 A work performed in some event, for example a play performed in a TheaterEvent.
 
 Relation describes that: 
-[ #has_/domain  :: Event ]
+
+#has_/domain  :: Event  
+
 ( #has_/name :: is_work_performed )
 ( #has_/range :: CreativeWork )
 
-[ #is_/sub_property_of  :: workFeatured ]
-
+#is_/sub_property_of  :: workFeatured  
 
 ## Confidential Links & Embeds: 
 

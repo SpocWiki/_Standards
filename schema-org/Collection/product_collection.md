@@ -9,21 +9,45 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - product_collection
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_product_collection Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_product_collection Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  sub_class_of: "[[../Collection, Product]]"
+  same_as:
+    - "[[/_Standards/schema-org/Collection/product_collection|product_collection]]"
+    - "[[/_public/schema-org/Collection/product_collection.public|product_collection.public]]"
+    - "[[/_internal/schema-org/Collection/product_collection.internal|product_collection.internal]]"
+    - "[[/_protect/schema-org/Collection/product_collection.protect|product_collection.protect]]"
+    - "[[/_private/schema-org/Collection/product_collection.private|product_collection.private]]"
+    - "[[/_personal/schema-org/Collection/product_collection.personal|product_collection.personal]]"
+    - "[[/_secret/schema-org/Collection/product_collection.secret|product_collection.secret]]"
+dv_has_:
+  properties: "[ about, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalProperty, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, asin, assesses, associatedMedia, audience, audio, author, award, awards, brand, category, character, citation, collectionSize, color, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfAssembly, countryOfLastProcessing, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, depth, description, disambiguatingDescription, discussionUrl, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, gtin, gtin12, gtin13, gtin14, gtin8, hasAdultConsideration, hasEnergyConsumptionDetails, hasMeasurement, hasMerchantReturnPolicy, hasPart, hasProductReturnPolicy, headline, height, identifier, image, inLanguage, inProductGroupWithID, includesObject, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isAccessoryOrSparePartFor, isBasedOn, isBasedOnUrl, isConsumableFor, isFamilyFriendly, isPartOf, isRelatedTo, isSimilarTo, isVariantOf, itemCondition, keywords, learningResourceType, license, locationCreated, logo, mainEntity, mainEntityOfPage, maintainer, manufacturer, material, materialExtent, mentions, mobileUrl, model, mpn, name, negativeNotes, nsn, offers, pattern, position, positiveNotes, potentialAction, producer, productID, productionDate, provider, publication, publisher, publisherImprint, publishingPrinciples, purchaseDate, recordedAt, releaseDate, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sku, slogan, sourceOrganization, spatial, spatialCoverage, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, url, usageInfo, version, video, weight, width, workExample, workTranslation ]"
+dv_is_part_of: https://pending.schema.org
+dv_is_sub_class_of: "[[../Collection, Product]]"
+dv_has_properties: "[ about, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalProperty, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, asin, assesses, associatedMedia, audience, audio, author, award, awards, brand, category, character, citation, collectionSize, color, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfAssembly, countryOfLastProcessing, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, depth, description, disambiguatingDescription, discussionUrl, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, gtin, gtin12, gtin13, gtin14, gtin8, hasAdultConsideration, hasEnergyConsumptionDetails, hasMeasurement, hasMerchantReturnPolicy, hasPart, hasProductReturnPolicy, headline, height, identifier, image, inLanguage, inProductGroupWithID, includesObject, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isAccessoryOrSparePartFor, isBasedOn, isBasedOnUrl, isConsumableFor, isFamilyFriendly, isPartOf, isRelatedTo, isSimilarTo, isVariantOf, itemCondition, keywords, learningResourceType, license, locationCreated, logo, mainEntity, mainEntityOfPage, maintainer, manufacturer, material, materialExtent, mentions, mobileUrl, model, mpn, name, negativeNotes, nsn, offers, pattern, position, positiveNotes, potentialAction, producer, productID, productionDate, provider, publication, publisher, publisherImprint, publishingPrinciples, purchaseDate, recordedAt, releaseDate, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sku, slogan, sourceOrganization, spatial, spatialCoverage, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, url, usageInfo, version, video, weight, width, workExample, workTranslation ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Collection/product_collection|product_collection]]"
+  - "[[/_public/schema-org/Collection/product_collection.public|product_collection.public]]"
+  - "[[/_internal/schema-org/Collection/product_collection.internal|product_collection.internal]]"
+  - "[[/_protect/schema-org/Collection/product_collection.protect|product_collection.protect]]"
+  - "[[/_private/schema-org/Collection/product_collection.private|product_collection.private]]"
+  - "[[/_personal/schema-org/Collection/product_collection.personal|product_collection.personal]]"
+  - "[[/_secret/schema-org/Collection/product_collection.secret|product_collection.secret]]"
 ---
 
 Class of all product_collections.
@@ -31,14 +55,13 @@ Class of all product_collections.
 Tag Instances like this: 
 #is_a_/product_collection
 
-[ #is_/part_of :: https://pending.schema.org ]
+is_part_of = `=this.dv_is_part_of` 
 
 A set of products (either [[ProductGroup]]s or specific variants) that are listed together e.g. in an [[../../Society/Agent/Community/Organization/Business/Offer]].
 
-[ #is_/sub_class_of :: [[../Collection, Product]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #has_/properties :: [ about, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalProperty, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, asin, assesses, associatedMedia, audience, audio, author, award, awards, brand, category, character, citation, collectionSize, color, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfAssembly, countryOfLastProcessing, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, depth, description, disambiguatingDescription, discussionUrl, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, gtin, gtin12, gtin13, gtin14, gtin8, hasAdultConsideration, hasEnergyConsumptionDetails, hasMeasurement, hasMerchantReturnPolicy, hasPart, hasProductReturnPolicy, headline, height, identifier, image, inLanguage, inProductGroupWithID, includesObject, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isAccessoryOrSparePartFor, isBasedOn, isBasedOnUrl, isConsumableFor, isFamilyFriendly, isPartOf, isRelatedTo, isSimilarTo, isVariantOf, itemCondition, keywords, learningResourceType, license, locationCreated, logo, mainEntity, mainEntityOfPage, maintainer, manufacturer, material, materialExtent, mentions, mobileUrl, model, mpn, name, negativeNotes, nsn, offers, pattern, position, positiveNotes, potentialAction, producer, productID, productionDate, provider, publication, publisher, publisherImprint, publishingPrinciples, purchaseDate, recordedAt, releaseDate, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sku, slogan, sourceOrganization, spatial, spatialCoverage, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, url, usageInfo, version, video, weight, width, workExample, workTranslation ] ]
-
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

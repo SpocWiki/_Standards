@@ -28,18 +28,19 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/logo :: ImageObject, URL ] or 
+- [has_/logo :: ImageObject, URL ] 
 - [ has_logo :: ImageObject, URL ] 
 
 An associated logo.
 
 Relation describes that: 
-[ #has_/domain  :: Brand, Organization, Place, Product, Service ]
+
+#has_/domain  :: Brand, Organization, Place, Product, Service  
+
 ( #has_/name :: has_logo )
 ( #has_/range :: ImageObject, URL )
 
-[ #is_/sub_property_of  :: image ]
-
+#is_/sub_property_of  :: image  
 
 ## Confidential Links & Embeds: 
 

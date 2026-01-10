@@ -32,16 +32,18 @@ type: Pred_Text
 
 Predicate to describe the Text of BankAccount.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/text_of_/bank_account_type :: Text, URL ] or 
+- [has_/text_of_/bank_account_type :: Text, URL ] 
 - [ has_text_of_bank_account_type :: Text, URL ] 
 
 The type of a bank account.
 
 Predicated describes that: 
-[ #has_/domain  :: BankAccount ]
+
+#has_/domain  :: BankAccount  
+
 ( #has_/name :: has_text_of_bank_account_type )
 ( #has_/range :: Text, URL )
 

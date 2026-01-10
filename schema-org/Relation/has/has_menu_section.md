@@ -9,35 +9,64 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - menu_section
   - menu
   - section
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_menu_section
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_menu_section
 type: Predi_Relation
+dv_has_:
+  menu_section: MenuSection
+  domain: Menu, MenuSection
+dv_has_menu_section: MenuSection
+dv_#has_:
+  name: has_menu_section
+  range: MenuSection
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/has/has_menu_section|has_menu_section]]"
+    - "[[/_public/schema-org/Relation/has/has_menu_section.public|has_menu_section.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_menu_section.internal|has_menu_section.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_menu_section.protect|has_menu_section.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_menu_section.private|has_menu_section.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_menu_section.personal|has_menu_section.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_menu_section.secret|has_menu_section.secret]]"
+dv_has_domain: Menu, MenuSection
+dv_has_name: has_menu_section
+dv_has_range: MenuSection
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/has/has_menu_section|has_menu_section]]"
+  - "[[/_public/schema-org/Relation/has/has_menu_section.public|has_menu_section.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_menu_section.internal|has_menu_section.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_menu_section.protect|has_menu_section.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_menu_section.private|has_menu_section.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_menu_section.personal|has_menu_section.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_menu_section.secret|has_menu_section.secret]]"
 ---
 
 Use it like this: 
-- [ #has_/menu_section :: MenuSection ] or 
-- [ has_menu_section :: MenuSection ] 
+- has_menu_section = `=this.dv_has_menu_section`  
+- has_menu_section = `=this.dv_has_menu_section`  
 
 A subgrouping of the menu (by dishes, course, serving time period, etc.).
 
 Relation describes that: 
-[ #has_/domain  :: Menu, MenuSection ]
-( #has_/name :: has_menu_section )
-( #has_/range :: MenuSection )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

@@ -9,21 +9,45 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - item_list
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_an_item_list Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_an_item_list Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../Class/is_a_/Intangible]]]"
+  same_as:
+    - "[[/_Standards/schema-org/Collection/item_list|item_list]]"
+    - "[[/_public/schema-org/Collection/item_list.public|item_list.public]]"
+    - "[[/_internal/schema-org/Collection/item_list.internal|item_list.internal]]"
+    - "[[/_protect/schema-org/Collection/item_list.protect|item_list.protect]]"
+    - "[[/_private/schema-org/Collection/item_list.private|item_list.private]]"
+    - "[[/_personal/schema-org/Collection/item_list.personal|item_list.personal]]"
+    - "[[/_secret/schema-org/Collection/item_list.secret|item_list.secret]]"
+dv_has_:
+  sub_classes: "[ BreadcrumbList, HowToSection, HowToStep, OfferCatalog ]"
+  properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, itemListElement, itemListOrder, mainEntityOfPage, name, numberOfItems, potentialAction, sameAs, subjectOf, url ]"
+dv_is_sub_class_of: "[[../Class/is_a_/Intangible]]]"
+dv_has_sub_classes: "[ BreadcrumbList, HowToSection, HowToStep, OfferCatalog ]"
+dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, itemListElement, itemListOrder, mainEntityOfPage, name, numberOfItems, potentialAction, sameAs, subjectOf, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Collection/item_list|item_list]]"
+  - "[[/_public/schema-org/Collection/item_list.public|item_list.public]]"
+  - "[[/_internal/schema-org/Collection/item_list.internal|item_list.internal]]"
+  - "[[/_protect/schema-org/Collection/item_list.protect|item_list.protect]]"
+  - "[[/_private/schema-org/Collection/item_list.private|item_list.private]]"
+  - "[[/_personal/schema-org/Collection/item_list.personal|item_list.personal]]"
+  - "[[/_secret/schema-org/Collection/item_list.secret|item_list.secret]]"
 ---
 
 Class of all item-lists. 
@@ -37,11 +61,11 @@ A list of items of any sort — for example, Top 10 Movies About Weathermen, or 
 [[../Class/is_sub_class_of|is_subclass_of]] 
 [[has_sub classe]]
 
-[ #is_/sub_class_of ::[[../Class/is_a_/Intangible]]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #has_/sub_classes :: [ BreadcrumbList, HowToSection, HowToStep, OfferCatalog ] ]
+has_sub_classes = `=this.dv_has_sub_classes` 
 
-[ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, itemListElement, itemListOrder, mainEntityOfPage, name, numberOfItems, potentialAction, sameAs, subjectOf, url ] ]
+has_properties = `=this.dv_has_properties` 
 
 [[has_properties]] 
 [[is_property_of]] 

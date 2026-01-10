@@ -32,11 +32,13 @@ type: Predi_Relation
 A condition the test is used to diagnose.
 
 Use it like this: 
-- [ #is_/used_to_diagnose :: MedicalCondition ] or 
+- [is_/used_to_diagnose :: MedicalCondition ] 
 - [ is_used_to_diagnose :: MedicalCondition ] 
 
 Relation describes that: 
-[ #has_/domain  :: MedicalTest ]
+
+#has_/domain  :: MedicalTest  
+
 ( #has_/name :: is_used_to_diagnose )
 ( #has_/range :: MedicalCondition )
 

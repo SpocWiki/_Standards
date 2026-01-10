@@ -26,7 +26,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [ #has_/encoding :: MediaObject ] or 
+- [has_/encoding :: MediaObject ] 
 - [ has_encoding :: MediaObject ] 
 
 A [[../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|MediaObject]] (book, audio-file, movie etc.) that encodes, i.e. 'contains' the [[CreativeWork]] Subject.
@@ -37,10 +37,12 @@ This property is a synonym for [[has_associated_media|associatedMedia]].
 #is_/different_from :: [[../../Property/Texts/has_encoding_format|encodingFormat]]  
 #is_/different_from :: [[has_text_encoding]]  
 
-[ #is_/inverse_of  :: [[../is/is_encoding_creative_work]] ]
+#is_/inverse_of  :: [[../is/is_encoding_creative_work]]  
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork ]
+
+#has_/domain  :: CreativeWork  
+
 ( #has_/name :: has_encoding )
 ( #has_/range :: MediaObject )
 

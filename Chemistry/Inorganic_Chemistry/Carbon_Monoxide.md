@@ -7,7 +7,7 @@ has_id_wikidata: Q2025
 UNSPSC_Code: 12142108
 EC_number: 211-128-3
 CAS_Registry_Number: 630-08-0
-P8189: 987007283485505171
+P8189: 987007283485505200
 UMLS_CUI: C0007018
 MeSH_tree_code:
   - D01.200.250
@@ -18,49 +18,49 @@ RTECS_number: FG3500000
 Krugosvet_article: khimiya/ugarnyi-gaz
 SPLASH: splash10-004i-9000000000-dfbb2bd73fc3d527a340
 mass: 27.99491462
-associated_hazard: '[[_Standards/WikiData/WD~carbon_monoxide_poisoning,125367]]'
+associated_hazard: "[[_Standards/WikiData/WD~carbon_monoxide_poisoning,125367]]"
 has_effect:
-  - '[[_Standards/WikiData/WD~carbon_monoxide_poisoning,125367]]'
-  - '[[_Standards/WikiData/WD~air_pollution,131123]]'
-different_from: '[[_Standards/WikiData/WD~carbonyl,201479]]'
+  - "[[_Standards/WikiData/WD~carbon_monoxide_poisoning,125367]]"
+  - "[[_Standards/WikiData/WD~air_pollution,131123]]"
+different_from: "[[_Standards/WikiData/WD~carbonyl,201479]]"
 part_of:
-  - '[[_Standards/WikiData/WD~metal_carbonyl,416523]]'
-  - '[[_Standards/WikiData/WD~response_to_carbon_monoxide,14864452]]'
-  - '[[_Standards/WikiData/WD~heme_oxygenase_(decyclizing)_activity,14882849]]'
-  - '[[_Standards/WikiData/WD~cellular_response_to_carbon_monoxide,21116464]]'
-  - '[[_Standards/WikiData/WD~carbon_monoxide_binding,21173638]]'
-  - '[[_Standards/WikiData/WD~quercetin_2,3_dioxygenase_activity,21758792]]'
-  - '[[_Standards/WikiData/WD~trans_synaptic_signaling_by_carbon_monoxide,22271353]]'
-  - '[[_Standards/WikiData/WD~trans_synaptic_signaling_by_carbon_monoxide,_modulating_synaptic_transmission,22271357]]'
-  - '[[_Standards/WikiData/WD~methane_biosynthetic_process_from_carbon_monoxide,22282961]]'
-  - '[[_Standards/WikiData/WD~acetate_biosynthetic_process_from_carbon_monoxide,22283132]]'
-  - '[[_Standards/WikiData/WD~carbon_monoxide_sensor_activity,22314460]]'
-  - '[[_Standards/WikiData/WD~carbon_monoxide_dehydrogenase_(acceptor)_activity,22316062]]'
-  - '[[_Standards/WikiData/WD~carbon_monoxide_oxygenase_activity,22316320]]'
-  - '[[_Standards/WikiData/WD~3_hydroxy_2_methylquinolin_4_one_2,4_dioxygenase_activity,22316667]]'
-  - '[[_Standards/WikiData/WD~3_hydroxy_4_oxoquinoline_2,4_dioxygenase_activity,22316674]]'
-  - '[[_Standards/WikiData/WD~acireductone_dioxygenase_(Ni2+_requiring)_activity,22316835]]'
-  - '[[_Standards/WikiData/WD~CO_methylating_acetyl_CoA_synthase_activity,22323745]]'
+  - "[[_Standards/WikiData/WD~metal_carbonyl,416523]]"
+  - "[[_Standards/WikiData/WD~response_to_carbon_monoxide,14864452]]"
+  - "[[_Standards/WikiData/WD~heme_oxygenase_(decyclizing)_activity,14882849]]"
+  - "[[_Standards/WikiData/WD~cellular_response_to_carbon_monoxide,21116464]]"
+  - "[[_Standards/WikiData/WD~carbon_monoxide_binding,21173638]]"
+  - "[[_Standards/WikiData/WD~quercetin_2,3_dioxygenase_activity,21758792]]"
+  - "[[_Standards/WikiData/WD~trans_synaptic_signaling_by_carbon_monoxide,22271353]]"
+  - "[[_Standards/WikiData/WD~trans_synaptic_signaling_by_carbon_monoxide,_modulating_synaptic_transmission,22271357]]"
+  - "[[_Standards/WikiData/WD~methane_biosynthetic_process_from_carbon_monoxide,22282961]]"
+  - "[[_Standards/WikiData/WD~acetate_biosynthetic_process_from_carbon_monoxide,22283132]]"
+  - "[[_Standards/WikiData/WD~carbon_monoxide_sensor_activity,22314460]]"
+  - "[[_Standards/WikiData/WD~carbon_monoxide_dehydrogenase_(acceptor)_activity,22316062]]"
+  - "[[_Standards/WikiData/WD~carbon_monoxide_oxygenase_activity,22316320]]"
+  - "[[_Standards/WikiData/WD~3_hydroxy_2_methylquinolin_4_one_2,4_dioxygenase_activity,22316667]]"
+  - "[[_Standards/WikiData/WD~3_hydroxy_4_oxoquinoline_2,4_dioxygenase_activity,22316674]]"
+  - "[[_Standards/WikiData/WD~acireductone_dioxygenase_(Ni2+_requiring)_activity,22316835]]"
+  - "[[_Standards/WikiData/WD~CO_methylating_acetyl_CoA_synthase_activity,22323745]]"
 subject_has_role:
-  - '[[_Standards/WikiData/WD~gaseous_signaling_molecule,657925]]'
-  - '[[_Standards/WikiData/WD~primary_metabolite,3333419]]'
-  - '[[_Standards/WikiData/WD~antimetabolite,50429865]]'
-  - '[[_Standards/WikiData/WD~developmental_toxicant,72941151]]'
+  - "[[_Standards/WikiData/WD~gaseous_signaling_molecule,657925]]"
+  - "[[_Standards/WikiData/WD~primary_metabolite,3333419]]"
+  - "[[_Standards/WikiData/WD~antimetabolite,50429865]]"
+  - "[[_Standards/WikiData/WD~developmental_toxicant,72941151]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~diatomic_molecule,1751859]]'
-  - '[[_Standards/WikiData/WD~oxocarbon,1778613]]'
+  - "[[_Standards/WikiData/WD~diatomic_molecule,1751859]]"
+  - "[[_Standards/WikiData/WD~oxocarbon,1778613]]"
 has_part_s_of_the_class:
-  - '[[_Standards/WikiData/WD~carbon_oxygen_bond,2060358]]'
-  - '[[_Standards/WikiData/WD~carbon,623]]'
-  - '[[_Standards/WikiData/WD~oxygen,629]]'
+  - "[[_Standards/WikiData/WD~carbon_oxygen_bond,2060358]]"
+  - "[[_Standards/WikiData/WD~carbon,623]]"
+  - "[[_Standards/WikiData/WD~oxygen,629]]"
 has_characteristic:
-  - '[[_Standards/WikiData/WD~flammable_gas,10913792]]'
-  - '[[_Standards/WikiData/WD~colorlessness,11567495]]'
-  - '[[_Standards/WikiData/WD~odorlessness,30007162]]'
-  - '[[_Standards/WikiData/WD~tastelessness,30100868]]'
-described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
+  - "[[_Standards/WikiData/WD~flammable_gas,10913792]]"
+  - "[[_Standards/WikiData/WD~colorlessness,11567495]]"
+  - "[[_Standards/WikiData/WD~odorlessness,30007162]]"
+  - "[[_Standards/WikiData/WD~tastelessness,30100868]]"
+described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+safety_classification_and_labelling: "[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]"
 standard_enthalpy_of_formation: -110.52
 boiling_point:
   - -191.5
@@ -99,13 +99,38 @@ Reaxys_registry_number:
 image_of_molecular_model_or_crystal_lattice_model: http://commons.wikimedia.org/wiki/Special:FilePath/Carbon-monoxide-3D-balls.png
 Commons_category: Carbon monoxide
 chemical_structure: http://commons.wikimedia.org/wiki/Special:FilePath/Carbon%20monoxide%202D.svg
-canonical_SMILES: '[C-]#[O+]'
+canonical_SMILES: "[C-]#[O+]"
+dv_has_:
+  formula_:
+    sum: CO
+    structural: "|C≡O|"
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Carbon_monoxide,2025|WD~Carbon_monoxide,2025]]"
+    - "[[/_Standards/Chemistry/Inorganic_Chemistry/Carbon_Monoxide|Carbon_Monoxide]]"
+    - "[[/_public/Chemistry/Inorganic_Chemistry/Carbon_Monoxide.public|Carbon_Monoxide.public]]"
+    - "[[/_internal/Chemistry/Inorganic_Chemistry/Carbon_Monoxide.internal|Carbon_Monoxide.internal]]"
+    - "[[/_protect/Chemistry/Inorganic_Chemistry/Carbon_Monoxide.protect|Carbon_Monoxide.protect]]"
+    - "[[/_private/Chemistry/Inorganic_Chemistry/Carbon_Monoxide.private|Carbon_Monoxide.private]]"
+    - "[[/_personal/Chemistry/Inorganic_Chemistry/Carbon_Monoxide.personal|Carbon_Monoxide.personal]]"
+    - "[[/_secret/Chemistry/Inorganic_Chemistry/Carbon_Monoxide.secret|Carbon_Monoxide.secret]]"
+dv_has_formula_sum: CO
+dv_has_formula_structural: "|C≡O|"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Carbon_monoxide,2025|WD~Carbon_monoxide,2025]]"
+  - "[[/_Standards/Chemistry/Inorganic_Chemistry/Carbon_Monoxide|Carbon_Monoxide]]"
+  - "[[/_public/Chemistry/Inorganic_Chemistry/Carbon_Monoxide.public|Carbon_Monoxide.public]]"
+  - "[[/_internal/Chemistry/Inorganic_Chemistry/Carbon_Monoxide.internal|Carbon_Monoxide.internal]]"
+  - "[[/_protect/Chemistry/Inorganic_Chemistry/Carbon_Monoxide.protect|Carbon_Monoxide.protect]]"
+  - "[[/_private/Chemistry/Inorganic_Chemistry/Carbon_Monoxide.private|Carbon_Monoxide.private]]"
+  - "[[/_personal/Chemistry/Inorganic_Chemistry/Carbon_Monoxide.personal|Carbon_Monoxide.personal]]"
+  - "[[/_secret/Chemistry/Inorganic_Chemistry/Carbon_Monoxide.secret|Carbon_Monoxide.secret]]"
 ---
 
 # [[Carbon_Monoxide]] 
 
-#has_/formula_/sum :: CO
-#has_/formula_/structural  :: |C≡O| 
+has_formula_sum = `=this.dv_has_formula_sum` 
+has_formula_structural = `=this.dv_has_formula_structural` 
 #is_/same_as :: [[../../WikiData/WD~Carbon_monoxide,2025|WD~Carbon_monoxide,2025]] 
 
 ## #has_/text_of_/abstract 

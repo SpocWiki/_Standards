@@ -27,7 +27,7 @@ title: is_loan_recourseable
 type: Pred_Bool
 ---
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use these simple Tags to mark Instances as True or False: 
 #is_/loan_recourseable 
@@ -39,7 +39,9 @@ Or write it as a Triple:
 The only way you get the money back in the event of default is the security. Recourse is where you still have the opportunity to go back to the borrower for the rest of the money.
 
 Predicate describes that: 
-[ #has_/domain  :: LoanOrCredit ]
+
+#has_/domain  :: LoanOrCredit  
+
 ( #has_/name :: is_loan_recourseable )
 ( #has_/range :: Boolean )
 

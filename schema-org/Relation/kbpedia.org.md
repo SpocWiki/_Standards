@@ -1,16 +1,33 @@
 ---
 aliases:
   - kbpedia.org
-has_location_created: ''
-has_location_destroyed: ''
-has_time_created: ''
-has_time_destroyed: ''
+has_location_created: ""
+has_location_destroyed: ""
+has_time_created: ""
+has_time_destroyed: ""
 name: Schema.org Ontology
 subjectOf:
   \@type: Book
   name: The Complete History of Schema.org
 _context: https://schema.org/
 _type: Thing
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Relation/kbpedia.org|kbpedia.org]]"
+    - "[[/_public/schema-org/Relation/kbpedia.org.public|kbpedia.org.public]]"
+    - "[[/_internal/schema-org/Relation/kbpedia.org.internal|kbpedia.org.internal]]"
+    - "[[/_protect/schema-org/Relation/kbpedia.org.protect|kbpedia.org.protect]]"
+    - "[[/_private/schema-org/Relation/kbpedia.org.private|kbpedia.org.private]]"
+    - "[[/_personal/schema-org/Relation/kbpedia.org.personal|kbpedia.org.personal]]"
+    - "[[/_secret/schema-org/Relation/kbpedia.org.secret|kbpedia.org.secret]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Relation/kbpedia.org|kbpedia.org]]"
+  - "[[/_public/schema-org/Relation/kbpedia.org.public|kbpedia.org.public]]"
+  - "[[/_internal/schema-org/Relation/kbpedia.org.internal|kbpedia.org.internal]]"
+  - "[[/_protect/schema-org/Relation/kbpedia.org.protect|kbpedia.org.protect]]"
+  - "[[/_private/schema-org/Relation/kbpedia.org.private|kbpedia.org.private]]"
+  - "[[/_personal/schema-org/Relation/kbpedia.org.personal|kbpedia.org.personal]]"
+  - "[[/_secret/schema-org/Relation/kbpedia.org.secret|kbpedia.org.secret]]"
 ---
 
  [KbPedia](https://www.kbpedia.org/knowledge-graph/) seems to be an individual [Michael K. Bergman](mailto:info@mkbergman.com?subject=KBpedia%20Inquiry) merging the Ontologies of [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia), [Wikidata](https://en.wikipedia.org/wiki/Wikidata), [schema.org](https://schema.org/), [DBpedia](http://dbpedia.org/), [GeoNames](https://en.wikipedia.org/wiki/GeoNames), [OpenCyc](https://en.wikipedia.org/wiki/Cyc), and the [UNSPSC products and services](https://en.wikipedia.org/wiki/UNSPSC)

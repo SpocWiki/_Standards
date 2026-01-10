@@ -3,15 +3,34 @@ aliases:
   - Electronegativität
   - Electronegativity
 has_id_wikidata: Q78974
-opposite_of: '[[_Standards/WikiData/WD~electropositivity,2388252]]'
-used_by: '[[_Standards/WikiData/WD~electronegative_atom,28912354]]'
-subclass_of: '[[_Standards/WikiData/WD~chemical_quantity,71550700]]'
+opposite_of: "[[_Standards/WikiData/WD~electropositivity,2388252]]"
+used_by: "[[_Standards/WikiData/WD~electronegative_atom,28912354]]"
+subclass_of: "[[_Standards/WikiData/WD~chemical_quantity,71550700]]"
 Wikidata_property: electronegativity
-facet_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
+facet_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
 ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mn>1</mn></mstyle></mrow></math>
 quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>&#x03C7;</mi></mstyle></mrow></math>
 quantity_symbol_string_: χ
 Commons_category: Electronegativity
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Electronegativity,78974|WD~Electronegativity,78974]]"
+    - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity|Electronegativity]]"
+    - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity.public|Electronegativity.public]]"
+    - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity.internal|Electronegativity.internal]]"
+    - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity.protect|Electronegativity.protect]]"
+    - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity.private|Electronegativity.private]]"
+    - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity.personal|Electronegativity.personal]]"
+    - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity.secret|Electronegativity.secret]]"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Electronegativity,78974|WD~Electronegativity,78974]]"
+  - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity|Electronegativity]]"
+  - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity.public|Electronegativity.public]]"
+  - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity.internal|Electronegativity.internal]]"
+  - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity.protect|Electronegativity.protect]]"
+  - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity.private|Electronegativity.private]]"
+  - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity.personal|Electronegativity.personal]]"
+  - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Electronegativity.secret|Electronegativity.secret]]"
 ---
 
 # [[Electronegativity]] 

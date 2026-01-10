@@ -33,16 +33,18 @@ type: Pred_Text
 
 Predicate to describe the Text of HealthInsurancePlan.
 
-[ #is_/part_of :: pending: ]
+#is_/part_of :: pending:  
 
 Use it like this: 
-- [ #has_/text_of_/health_plan_drug_option :: Text ] or 
+- [has_/text_of_/health_plan_drug_option :: Text ] 
 - [ has_text_of_health_plan_drug_option :: Text ] 
 
 TODO.
 
 Predicated describes that: 
-[ #has_/domain  :: HealthInsurancePlan ]
+
+#has_/domain  :: HealthInsurancePlan  
+
 ( #has_/name :: has_text_of_health_plan_drug_option )
 ( #has_/range :: Text )
 

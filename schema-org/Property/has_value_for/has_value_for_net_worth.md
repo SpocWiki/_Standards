@@ -10,35 +10,65 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - net-worth
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_net-worth
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_net-worth
 type: Predi_Quantity
+dv_has_:
+  value_for_:
+    net_worth: MonetaryAmount, PriceSpecification
+  domain: Person
+dv_has_value_for_net_worth: MonetaryAmount, PriceSpecification
+dv_#has_:
+  name: has_value_for_net_worth
+  range: MonetaryAmount, PriceSpecification
+dv_is_:
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_net_worth|has_value_for_net_worth]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_net_worth.public|has_value_for_net_worth.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_net_worth.internal|has_value_for_net_worth.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_net_worth.protect|has_value_for_net_worth.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_net_worth.private|has_value_for_net_worth.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_net_worth.personal|has_value_for_net_worth.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_net_worth.secret|has_value_for_net_worth.secret]]"
+dv_has_domain: Person
+dv_has_name: has_value_for_net_worth
+dv_has_range: MonetaryAmount, PriceSpecification
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_net_worth|has_value_for_net_worth]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_net_worth.public|has_value_for_net_worth.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_net_worth.internal|has_value_for_net_worth.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_net_worth.protect|has_value_for_net_worth.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_net_worth.private|has_value_for_net_worth.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_net_worth.personal|has_value_for_net_worth.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_net_worth.secret|has_value_for_net_worth.secret]]"
 ---
 
 Predicate to describe the Quantity of Person.
 
 Use it like this: 
-- [ #has_/value_for_/net_worth :: MonetaryAmount, PriceSpecification ] or 
-- [ has_value_for_net_worth :: MonetaryAmount, PriceSpecification ] 
+- has_value_for_net_worth = `=this.dv_has_value_for_net_worth`  
+- has_value_for_net_worth = `=this.dv_has_value_for_net_worth`  
 
 The total financial value of the person as calculated by subtracting assets from liabilities.
 
 Predicate describes that: 
-[ #has_/domain  :: Person ]
-( #has_/name :: has_value_for_net_worth )
-( #has_/range :: MonetaryAmount, PriceSpecification )
+
+has_domain = `=this.dv_has_domain` 
+
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

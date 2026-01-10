@@ -34,8 +34,7 @@ Tag Instances like this:
 
 An enumeration that describes different types of medical procedures.
 
-[ #is_/sub_class_of :: [[../MedicalEnumeration]] ]
-
+#is_/sub_class_of :: [[../MedicalEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

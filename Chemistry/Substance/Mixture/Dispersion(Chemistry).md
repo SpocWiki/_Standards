@@ -10,6 +10,25 @@ subclass_of:
   - "[[_Standards/WikiData/WD~state,3505845]]"
   - "[[_Standards/WikiData/WD~heterogeneous_mixture,11780457]]"
 has_part_s_: "[[_Standards/WikiData/WD~dispersed_phase,12101200]]"
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Dispersion,178697|WD~Dispersion,178697]]"
+    - "[[/_Standards/Chemistry/Substance/Mixture/Dispersion(Chemistry)|Dispersion(Chemistry)]]"
+    - "[[/_public/Chemistry/Substance/Mixture/Dispersion(Chemistry).public|Dispersion(Chemistry).public]]"
+    - "[[/_internal/Chemistry/Substance/Mixture/Dispersion(Chemistry).internal|Dispersion(Chemistry).internal]]"
+    - "[[/_protect/Chemistry/Substance/Mixture/Dispersion(Chemistry).protect|Dispersion(Chemistry).protect]]"
+    - "[[/_private/Chemistry/Substance/Mixture/Dispersion(Chemistry).private|Dispersion(Chemistry).private]]"
+    - "[[/_personal/Chemistry/Substance/Mixture/Dispersion(Chemistry).personal|Dispersion(Chemistry).personal]]"
+    - "[[/_secret/Chemistry/Substance/Mixture/Dispersion(Chemistry).secret|Dispersion(Chemistry).secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Dispersion,178697|WD~Dispersion,178697]]"
+  - "[[/_Standards/Chemistry/Substance/Mixture/Dispersion(Chemistry)|Dispersion(Chemistry)]]"
+  - "[[/_public/Chemistry/Substance/Mixture/Dispersion(Chemistry).public|Dispersion(Chemistry).public]]"
+  - "[[/_internal/Chemistry/Substance/Mixture/Dispersion(Chemistry).internal|Dispersion(Chemistry).internal]]"
+  - "[[/_protect/Chemistry/Substance/Mixture/Dispersion(Chemistry).protect|Dispersion(Chemistry).protect]]"
+  - "[[/_private/Chemistry/Substance/Mixture/Dispersion(Chemistry).private|Dispersion(Chemistry).private]]"
+  - "[[/_personal/Chemistry/Substance/Mixture/Dispersion(Chemistry).personal|Dispersion(Chemistry).personal]]"
+  - "[[/_secret/Chemistry/Substance/Mixture/Dispersion(Chemistry).secret|Dispersion(Chemistry).secret]]"
 ---
 
 # [[Dispersion(Chemistry)]] 

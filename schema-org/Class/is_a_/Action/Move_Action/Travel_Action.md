@@ -10,21 +10,43 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - travel_action
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_travel_action Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_travel_action Class
 type: Type
+dv_is_:
+  sub_class_of: "[[../MoveAction]]"
+  same_as:
+    - "[[/_Standards/schema-org/Class/is_a_/Action/Move_Action/Travel_Action|Travel_Action]]"
+    - "[[/_public/schema-org/Class/is_a_/Action/Move_Action/Travel_Action.public|Travel_Action.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Action/Move_Action/Travel_Action.internal|Travel_Action.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Action/Move_Action/Travel_Action.protect|Travel_Action.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Action/Move_Action/Travel_Action.private|Travel_Action.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Action/Move_Action/Travel_Action.personal|Travel_Action.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Action/Move_Action/Travel_Action.secret|Travel_Action.secret]]"
+dv_has_:
+  properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, distance, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ]"
+dv_is_sub_class_of: "[[../MoveAction]]"
+dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, distance, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Class/is_a_/Action/Move_Action/Travel_Action|Travel_Action]]"
+  - "[[/_public/schema-org/Class/is_a_/Action/Move_Action/Travel_Action.public|Travel_Action.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Action/Move_Action/Travel_Action.internal|Travel_Action.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Action/Move_Action/Travel_Action.protect|Travel_Action.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Action/Move_Action/Travel_Action.private|Travel_Action.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Action/Move_Action/Travel_Action.personal|Travel_Action.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Action/Move_Action/Travel_Action.secret|Travel_Action.secret]]"
 ---
 
 Class of all travel_actions.
@@ -34,10 +56,9 @@ Tag Instances like this:
 
 The act of traveling from a fromLocation to a destination by a specified mode of transport, optionally with participants.
 
-[ #is_/sub_class_of :: [[../MoveAction]] ]
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
-[ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, distance, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ] ]
-
+has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 
 

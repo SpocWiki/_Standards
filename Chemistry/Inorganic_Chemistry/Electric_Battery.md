@@ -51,6 +51,25 @@ P8189: 987007536065205100
 Commons_category: Electric batteries
 Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/BATAREYA_ELEKTROPITANIYA.html
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Batterie2.ogg
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Battery,267298|WD~Battery,267298]]"
+    - "[[/_Standards/Chemistry/Inorganic_Chemistry/Electric_Battery|Electric_Battery]]"
+    - "[[/_public/Chemistry/Inorganic_Chemistry/Electric_Battery.public|Electric_Battery.public]]"
+    - "[[/_internal/Chemistry/Inorganic_Chemistry/Electric_Battery.internal|Electric_Battery.internal]]"
+    - "[[/_protect/Chemistry/Inorganic_Chemistry/Electric_Battery.protect|Electric_Battery.protect]]"
+    - "[[/_private/Chemistry/Inorganic_Chemistry/Electric_Battery.private|Electric_Battery.private]]"
+    - "[[/_personal/Chemistry/Inorganic_Chemistry/Electric_Battery.personal|Electric_Battery.personal]]"
+    - "[[/_secret/Chemistry/Inorganic_Chemistry/Electric_Battery.secret|Electric_Battery.secret]]"
+dv_is_same_as:
+  - "[[../../WikiData/WD~Battery,267298|WD~Battery,267298]]"
+  - "[[/_Standards/Chemistry/Inorganic_Chemistry/Electric_Battery|Electric_Battery]]"
+  - "[[/_public/Chemistry/Inorganic_Chemistry/Electric_Battery.public|Electric_Battery.public]]"
+  - "[[/_internal/Chemistry/Inorganic_Chemistry/Electric_Battery.internal|Electric_Battery.internal]]"
+  - "[[/_protect/Chemistry/Inorganic_Chemistry/Electric_Battery.protect|Electric_Battery.protect]]"
+  - "[[/_private/Chemistry/Inorganic_Chemistry/Electric_Battery.private|Electric_Battery.private]]"
+  - "[[/_personal/Chemistry/Inorganic_Chemistry/Electric_Battery.personal|Electric_Battery.personal]]"
+  - "[[/_secret/Chemistry/Inorganic_Chemistry/Electric_Battery.secret|Electric_Battery.secret]]"
 ---
 
 # [[Electric_Battery]] 🔋 

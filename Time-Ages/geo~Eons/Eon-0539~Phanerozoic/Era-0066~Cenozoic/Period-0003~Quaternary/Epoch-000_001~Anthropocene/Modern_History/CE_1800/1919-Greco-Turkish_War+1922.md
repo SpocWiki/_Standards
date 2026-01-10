@@ -9,6 +9,25 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Ermoscharge.JPG
 Commons_category: Greco-Turkish War (1919–1922)
 end_time: 1922-10-11T00:00:00Z
 start_time: 1919-05-15T00:00:00Z
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../WikiData/WD~Greco-Turkish_War,87138|WD~Greco-Turkish_War,87138]]"
+    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1919-Greco-Turkish_War+1922|1919-Greco-Turkish_War+1922]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1919-Greco-Turkish_War+1922.public|1919-Greco-Turkish_War+1922.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1919-Greco-Turkish_War+1922.internal|1919-Greco-Turkish_War+1922.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1919-Greco-Turkish_War+1922.protect|1919-Greco-Turkish_War+1922.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1919-Greco-Turkish_War+1922.private|1919-Greco-Turkish_War+1922.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1919-Greco-Turkish_War+1922.personal|1919-Greco-Turkish_War+1922.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1919-Greco-Turkish_War+1922.secret|1919-Greco-Turkish_War+1922.secret]]"
+dv_is_same_as:
+  - "[[../../../../../../../../WikiData/WD~Greco-Turkish_War,87138|WD~Greco-Turkish_War,87138]]"
+  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1919-Greco-Turkish_War+1922|1919-Greco-Turkish_War+1922]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1919-Greco-Turkish_War+1922.public|1919-Greco-Turkish_War+1922.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1919-Greco-Turkish_War+1922.internal|1919-Greco-Turkish_War+1922.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1919-Greco-Turkish_War+1922.protect|1919-Greco-Turkish_War+1922.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1919-Greco-Turkish_War+1922.private|1919-Greco-Turkish_War+1922.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1919-Greco-Turkish_War+1922.personal|1919-Greco-Turkish_War+1922.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1919-Greco-Turkish_War+1922.secret|1919-Greco-Turkish_War+1922.secret]]"
 ---
 
 # [[1919-Greco-Turkish_War+1922]] 
