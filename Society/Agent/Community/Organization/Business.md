@@ -159,7 +159,7 @@ U_S_National_Archives_Identifier: 10637168
 
 #is_/same_as :: [[../../WikiData/WD~Business,4830453]] 
 
-Business is performed by a [[Business/Business-Entity]], which can be of different [[../../schema-org/Class/is_a_/Intangible/enumeration/business_entity_type|business_entity_type]]s. 
+Business is performed by a [[Business/Business-Entity]], which can be of different [[../../schema-org/Class/is_a_/Intangible_/enumeration/business_entity_type|business_entity_type]]s. 
 
 Here Business is used in the narrow sense of a concrete Business Entity owned by a natural Person. 
 Business is used broadly to describe [[Commerce]]. 

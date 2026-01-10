@@ -1,4 +1,7 @@
 ---
+<<<<<<< HEAD
+location: [ 116.097666666 , 36.124194444 ] 
+=======
 dv_is_:
   shorter_than: "[[Yangtze_River]]"
   same_as:
@@ -20,6 +23,7 @@ dv_is_same_as:
   - "[[/_secret/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yellow_River.secret|Yellow_River.secret]]"
 
 location: [ 36.124194444, 116.097666666 ] 
+>>>>>>> c6d40cfc45124e666bcaf84e3d112f501294f687
 aliases:
   - Yellow River
   - Huanghe
@@ -120,6 +124,37 @@ coordinates: [[Yellow_River]]
 markerFile: [[Yellow_River]] 
 defaultZoom: 5 
 ```
+
+## #has_/map  
+
+```leaflet
+id: China
+zoomFeatures: true 
+minZoom: 4 
+maxZoom: 18
+geojson:
+- [[../China/provinces~China/Qinghai/Rivers~Qinghai/River~Huang.geoJson|River~Huang]]
+- [[../China/provinces~China/Qinghai/Rivers~Qinghai/River~Huang1.geoJson|River~Huang1]]
+- [[../China/provinces~China/Qinghai/Rivers~Qinghai/River~Huang2.geoJson|River~Huang2]]
+- [[../China/provinces~China/Qinghai/Rivers~Qinghai/River~Huang3.geoJson|River~Huang3]]
+- [[../China/provinces~China/Qinghai/Rivers~Qinghai/River~Huang4.geoJson|River~Huang4]]
+- [[../China/provinces~China/Qinghai/Rivers~Qinghai/River~Huang5.geoJson|River~Huang5]]
+- [[../China/provinces~China/Gansu/Rivers~Gansu/River~Huang6.geoJson|River~Huang6]]
+- [[../China/provinces~China/Gansu/Rivers~Gansu/River~Huang7.geoJson|River~Huang7]]
+- [[../China/provinces~China/Inner_Mongol/Rivers~Inner_Mongol/River~Huang8.geoJson|River~Huang8]]
+- [[../China/provinces~China/Inner_Mongol/Rivers~Inner_Mongol/River~Huang9.geoJson|River~Huang9]]
+- [[../China/provinces~China/Inner_Mongol/Rivers~Inner_Mongol/River~Huang10.geoJson|River~Huang10]]
+- [[../China/provinces~China/Shaanxi/Rivers~Shaanxi/River~Huang11.geoJson|River~Huang11]]
+- [[../China/provinces~China/Henan/Rivers~Henan/River~Huang12.geoJson|River~Huang12]]
+- [[../China/provinces~China/Henan/Rivers~Henan/River~Huang13.geoJson|River~Huang13]]
+- [[../China/provinces~China/Shandong/River~Huang14.geoJson|River~Huang14]]
+geojsonFolder: ./China//
+markerFolder: ./China/
+coordinates: [[China]] 
+markerFile: [[China]] 
+defaultZoom: 5 
+```
+
 
 ## #has_/text_of_/abstract 
 
