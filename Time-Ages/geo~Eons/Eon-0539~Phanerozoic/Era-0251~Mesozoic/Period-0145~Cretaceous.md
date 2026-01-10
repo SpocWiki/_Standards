@@ -26,96 +26,16 @@ start_time: -145000000-06
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%20105%20Ma%20%28Albian%20Age%29.png
 IPA_transcription: /krɪˈteɪʃəs/
 sRGB_color_hex_triplet: 7FC64E
-dv_has_:
-  duration_:
-    years: "7.900e+7"
-  previous_:
-    item: "[[Period-0201~Jurassic]]"
-  next_:
-    item: "[[../Era-0066~Cenozoic/Period-0066~Paleogene|Period~1~Paleogene]]"
-  name_:
-    bg: Креда
-    cs: Křída
-    da: Kridt
-    de: Kreide
-    es: Cretácico
-    et: Kriit
-    fi: Liitu
-    fr: Crétacé
-    hu: kréta
-    it: cretacico
-    ja: 白亜紀
-    lt: Kreida
-    nl: Krijt
-    no: Kritt
-    pl: Kreda
-    pt: Cretácico
-    sk: krieda
-    sl: kreda
-    sv: krita
-    zh: 白垩纪
-  abbreviation: K
-  time_:
-    started: "-145.0e6"
-    stopped: "-66.0e6"
-  text_of_:
-    color: "0x7FC64E"
-dv_is_:
-  same_as:
-    - "[[../../../../WikiData/WD~Cretaceous,44626|WD~Cretaceous,44626]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous|Period-0145~Cretaceous]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous.public|Period-0145~Cretaceous.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous.internal|Period-0145~Cretaceous.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous.protect|Period-0145~Cretaceous.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous.private|Period-0145~Cretaceous.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous.personal|Period-0145~Cretaceous.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous.secret|Period-0145~Cretaceous.secret]]"
-dv_has_duration_years: "7.900e+7"
-dv_has_previous_item: "[[Period-0201~Jurassic]]"
-dv_has_next_item: "[[../Era-0066~Cenozoic/Period-0066~Paleogene|Period~1~Paleogene]]"
-dv_is_same_as:
-  - "[[../../../../WikiData/WD~Cretaceous,44626|WD~Cretaceous,44626]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous|Period-0145~Cretaceous]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous.public|Period-0145~Cretaceous.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous.internal|Period-0145~Cretaceous.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous.protect|Period-0145~Cretaceous.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous.private|Period-0145~Cretaceous.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous.personal|Period-0145~Cretaceous.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous.secret|Period-0145~Cretaceous.secret]]"
-dv_has_name_bg: Креда
-dv_has_name_cs: Křída
-dv_has_name_da: Kridt
-dv_has_name_de: Kreide
-dv_has_name_es: Cretácico
-dv_has_name_et: Kriit
-dv_has_name_fi: Liitu
-dv_has_name_fr: Crétacé
-dv_has_name_hu: kréta
-dv_has_name_it: cretacico
-dv_has_name_ja: 白亜紀
-dv_has_name_lt: Kreida
-dv_has_name_nl: Krijt
-dv_has_name_no: Kritt
-dv_has_name_pl: Kreda
-dv_has_name_pt: Cretácico
-dv_has_name_sk: krieda
-dv_has_name_sl: kreda
-dv_has_name_sv: krita
-dv_has_name_zh: 白垩纪
-dv_has_abbreviation: K
-dv_has_time_started: "-145.0e6"
-dv_has_time_stopped: "-66.0e6"
-dv_has_text_of_color: "0x7FC64E"
 ---
 
 # [[Period-0145~Cretaceous]] 
 
 #is_a_/time_/Period 
 
-#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-has_previous_item = `=this.dv_has_previous_item` 
-has_next_item = `=this.dv_has_next_item` 
+#has_/previous_/item :: [[Period-0201~Jurassic]] 
+#has_/next_/item :: [[../Era-0066~Cenozoic/Period-0066~Paleogene|Period~1~Paleogene]] 
 #is_/same_as :: [[../../../../WikiData/WD~Cretaceous,44626|WD~Cretaceous,44626]] 
 
 A time period from 145.0 to 66.0 million years ago. 
@@ -133,35 +53,35 @@ A time period from 145.0 to 66.0 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Cretaceous) 
 
 
-has_name_bg = `=this.dv_has_name_bg` 
-has_name_cs = `=this.dv_has_name_cs` 
-has_name_da = `=this.dv_has_name_da` 
-has_name_de = `=this.dv_has_name_de` 
-has_name_es = `=this.dv_has_name_es` 
-has_name_et = `=this.dv_has_name_et` 
-has_name_fi = `=this.dv_has_name_fi` 
-has_name_fr = `=this.dv_has_name_fr` 
-has_name_hu = `=this.dv_has_name_hu` 
-has_name_it = `=this.dv_has_name_it` 
-has_name_ja = `=this.dv_has_name_ja` 
-has_name_lt = `=this.dv_has_name_lt` 
-has_name_nl = `=this.dv_has_name_nl` 
-has_name_no = `=this.dv_has_name_no` 
-has_name_pl = `=this.dv_has_name_pl` 
-has_name_pt = `=this.dv_has_name_pt` 
-has_name_sk = `=this.dv_has_name_sk` 
-has_name_sl = `=this.dv_has_name_sl` 
-has_name_sv = `=this.dv_has_name_sv` 
-has_name_zh = `=this.dv_has_name_zh` 
+#has_/name_/bg  :: Креда
+#has_/name_/cs  :: Křída
+#has_/name_/da  :: Kridt
+#has_/name_/de  :: Kreide
+#has_/name_/es  :: Cretácico
+#has_/name_/et  :: Kriit
+#has_/name_/fi  :: Liitu
+#has_/name_/fr  :: Crétacé
+#has_/name_/hu  :: kréta
+#has_/name_/it  :: cretacico
+#has_/name_/ja  :: 白亜紀
+#has_/name_/lt  :: Kreida
+#has_/name_/nl  :: Krijt
+#has_/name_/no  :: Kritt
+#has_/name_/pl  :: Kreda
+#has_/name_/pt  :: Cretácico
+#has_/name_/sk  :: krieda
+#has_/name_/sl  :: kreda
+#has_/name_/sv  :: krita
+#has_/name_/zh  :: 白垩纪
 
-has_abbreviation = `=this.dv_has_abbreviation` 
+#has_/abbreviation :: K
 
-has_time_started = `=this.dv_has_time_started` 
-has_time_stopped = `=this.dv_has_time_stopped` 
+#has_/time_/started :: -145.0e6 
+#has_/time_/stopped ::  -66.0e6 
 
     sh:order 49 
 
-has_text_of_color = `=this.dv_has_text_of_color` 
+#has_/text_of_/color :: 0x7FC64E
 
 ## All Contents
 

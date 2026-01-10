@@ -4,40 +4,40 @@ aliases:
   - Déclaration des droits de l'Homme et du citoyen
   - Declaration_of_the_Rights_of_Man_and_of_the_Citizen
 has_id_wikidata: Q169759
-country: "[[_Standards/WikiData/WD~Kingdom_of_France,70972]]"
+country: '[[_Standards/WikiData/WD~Kingdom_of_France,70972]]'
 described_by_source:
-  - "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+  - '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 editor:
-  - "[[_Standards/WikiData/WD~National_Constituent_Assembly,876424]]"
-  - "[[_Standards/WikiData/WD~François_Jean_Baudouin,15407218]]"
-author: "[[_Standards/WikiData/WD~National_Constituent_Assembly,876424]]"
+  - '[[_Standards/WikiData/WD~National_Constituent_Assembly,876424]]'
+  - '[[_Standards/WikiData/WD~François_Jean_Baudouin,15407218]]'
+author: '[[_Standards/WikiData/WD~National_Constituent_Assembly,876424]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~declaration,2620826]]"
-  - "[[_Standards/WikiData/WD~document,49848]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
-heritage_designation: "[[_Standards/WikiData/WD~Memory_of_the_World_International_Register,16024238]]"
-published_in: "[[_Standards/WikiData/WD~Q40577195,40577195]]"
+  - '[[_Standards/WikiData/WD~declaration,2620826]]'
+  - '[[_Standards/WikiData/WD~document,49848]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+heritage_designation: '[[_Standards/WikiData/WD~Memory_of_the_World_International_Register,16024238]]'
+published_in: '[[_Standards/WikiData/WD~Q40577195,40577195]]'
 has_edition_or_translation:
-  - "[[_Standards/WikiData/WD~Q106570150,106570150]]"
-  - "[[_Standards/WikiData/WD~Q106570153,106570153]]"
-  - "[[_Standards/WikiData/WD~Q106570156,106570156]]"
-  - "[[_Standards/WikiData/WD~Q106570163,106570163]]"
-  - "[[_Standards/WikiData/WD~Q106570161,106570161]]"
-  - "[[_Standards/WikiData/WD~Q106570170,106570170]]"
-  - "[[_Standards/WikiData/WD~Q106570168,106570168]]"
-  - "[[_Standards/WikiData/WD~Q106570169,106570169]]"
-  - "[[_Standards/WikiData/WD~Q106570173,106570173]]"
-  - "[[_Standards/WikiData/WD~Q106570177,106570177]]"
-  - "[[_Standards/WikiData/WD~Q106570191,106570191]]"
-  - "[[_Standards/WikiData/WD~Q106570197,106570197]]"
-  - "[[_Standards/WikiData/WD~Q106570208,106570208]]"
-  - "[[_Standards/WikiData/WD~Q106570209,106570209]]"
-main_subject: "[[_Standards/WikiData/WD~human_rights,8458]]"
-copyright_status: "[[_Standards/WikiData/WD~public_domain,19652]]"
-place_of_publication: "[[_Standards/WikiData/WD~Paris,90]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~French,150]]"
+  - '[[_Standards/WikiData/WD~Q106570150,106570150]]'
+  - '[[_Standards/WikiData/WD~Q106570153,106570153]]'
+  - '[[_Standards/WikiData/WD~Q106570156,106570156]]'
+  - '[[_Standards/WikiData/WD~Q106570163,106570163]]'
+  - '[[_Standards/WikiData/WD~Q106570161,106570161]]'
+  - '[[_Standards/WikiData/WD~Q106570170,106570170]]'
+  - '[[_Standards/WikiData/WD~Q106570168,106570168]]'
+  - '[[_Standards/WikiData/WD~Q106570169,106570169]]'
+  - '[[_Standards/WikiData/WD~Q106570173,106570173]]'
+  - '[[_Standards/WikiData/WD~Q106570177,106570177]]'
+  - '[[_Standards/WikiData/WD~Q106570191,106570191]]'
+  - '[[_Standards/WikiData/WD~Q106570197,106570197]]'
+  - '[[_Standards/WikiData/WD~Q106570208,106570208]]'
+  - '[[_Standards/WikiData/WD~Q106570209,106570209]]'
+main_subject: '[[_Standards/WikiData/WD~human_rights,8458]]'
+copyright_status: '[[_Standards/WikiData/WD~public_domain,19652]]'
+place_of_publication: '[[_Standards/WikiData/WD~Paris,90]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~French,150]]'
 number_of_pages: 8
 described_at_URL:
   - https://www.unesco.org/en/memory-world/original-declaration-rights-man-and-citizen-1789-1791
@@ -52,34 +52,11 @@ inception: 1790-01-01T00:00:00Z
 date_of_promulgation: 1789-11-03T00:00:00Z
 publication_date: 1789-08-26T00:00:00Z
 first_line: Les Représentans du Peuple François, constitués en Assemblée Nationale, considérant que l’ignorance, l’oubli ou le mépris des droits de l’Homme sont les seules causes des malheurs publics et de la corruption des Gouvernemens, ont résolu d’exposer, dans une Déclaration solemnelle, les droits naturels, inaliénables et sacrés de l’Homme,
-dv_has_:
-  time_:
-    started: 1789-08-26T00:00:00.000+00:53
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../../WikiData/WD~Declaration_of_the_Rights_of_Man_and_of_the_Citizen,169759|WD~Declaration_of_the_Rights_of_Man_and_of_the_Citizen,169759]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Declaration_of_the_Rights_of_Man_and_of_the_Citizen|Declaration_of_the_Rights_of_Man_and_of_the_Citizen]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Declaration_of_the_Rights_of_Man_and_of_the_Citizen.public|Declaration_of_the_Rights_of_Man_and_of_the_Citizen.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Declaration_of_the_Rights_of_Man_and_of_the_Citizen.internal|Declaration_of_the_Rights_of_Man_and_of_the_Citizen.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Declaration_of_the_Rights_of_Man_and_of_the_Citizen.protect|Declaration_of_the_Rights_of_Man_and_of_the_Citizen.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Declaration_of_the_Rights_of_Man_and_of_the_Citizen.private|Declaration_of_the_Rights_of_Man_and_of_the_Citizen.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Declaration_of_the_Rights_of_Man_and_of_the_Citizen.personal|Declaration_of_the_Rights_of_Man_and_of_the_Citizen.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Declaration_of_the_Rights_of_Man_and_of_the_Citizen.secret|Declaration_of_the_Rights_of_Man_and_of_the_Citizen.secret]]"
-dv_has_time_started: 1789-08-26
-dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Declaration_of_the_Rights_of_Man_and_of_the_Citizen,169759|WD~Declaration_of_the_Rights_of_Man_and_of_the_Citizen,169759]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Declaration_of_the_Rights_of_Man_and_of_the_Citizen|Declaration_of_the_Rights_of_Man_and_of_the_Citizen]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Declaration_of_the_Rights_of_Man_and_of_the_Citizen.public|Declaration_of_the_Rights_of_Man_and_of_the_Citizen.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Declaration_of_the_Rights_of_Man_and_of_the_Citizen.internal|Declaration_of_the_Rights_of_Man_and_of_the_Citizen.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Declaration_of_the_Rights_of_Man_and_of_the_Citizen.protect|Declaration_of_the_Rights_of_Man_and_of_the_Citizen.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Declaration_of_the_Rights_of_Man_and_of_the_Citizen.private|Declaration_of_the_Rights_of_Man_and_of_the_Citizen.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Declaration_of_the_Rights_of_Man_and_of_the_Citizen.personal|Declaration_of_the_Rights_of_Man_and_of_the_Citizen.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution/Declaration_of_the_Rights_of_Man_and_of_the_Citizen.secret|Declaration_of_the_Rights_of_Man_and_of_the_Citizen.secret]]"
 ---
 
 # [[Declaration_of_the_Rights_of_Man_and_of_the_Citizen]] 
 
-has_time_started = `=this.dv_has_time_started` 
+#has_/time_/started :: 1789-08-26 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Declaration_of_the_Rights_of_Man_and_of_the_Citizen,169759|WD~Declaration_of_the_Rights_of_Man_and_of_the_Citizen,169759]] 
 
 ## #has_/text_of_/abstract 

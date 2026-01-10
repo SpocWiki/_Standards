@@ -9,18 +9,18 @@ aliases:
   - 1920-Treaty of Trianon
 has_id_wikidata: Q181902
 participant:
-  - "[[_Standards/WikiData/WD~Kingdom_of_Hungary,171150]]"
-  - "[[_Standards/WikiData/WD~Allies_of_the_First_World_War,215669]]"
+  - '[[_Standards/WikiData/WD~Kingdom_of_Hungary,171150]]'
+  - '[[_Standards/WikiData/WD~Allies_of_the_First_World_War,215669]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~Versailles_system,595819]]"
-  - "[[_Standards/WikiData/WD~peace_treaty,625298]]"
+  - '[[_Standards/WikiData/WD~Versailles_system,595819]]'
+  - '[[_Standards/WikiData/WD~peace_treaty,625298]]'
 has_edition_or_translation:
-  - "[[_Standards/WikiData/WD~Treaty_of_Trianon_Preamble,21192298]]"
-  - "[[_Standards/WikiData/WD~Treaty_of_Trianon_Part_I,21192299]]"
-  - "[[_Standards/WikiData/WD~Treaty_of_Trianon_Part_II,21192301]]"
-location: "[[_Standards/WikiData/WD~Grand_Trianon,8049]]"
-named_after: "[[_Standards/WikiData/WD~Grand_Trianon,8049]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~French,150]]"
+  - '[[_Standards/WikiData/WD~Treaty_of_Trianon_Preamble,21192298]]'
+  - '[[_Standards/WikiData/WD~Treaty_of_Trianon_Part_I,21192299]]'
+  - '[[_Standards/WikiData/WD~Treaty_of_Trianon_Part_II,21192301]]'
+location: '[[_Standards/WikiData/WD~Grand_Trianon,8049]]'
+named_after: '[[_Standards/WikiData/WD~Grand_Trianon,8049]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~French,150]]'
 BHCL_UUID: 7d1b20e9-0b24-4ad1-a782-a589bf6032cb
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Treaty%20of%20trianon%20negotiations.jpg
 Commons_category: Treaty of Trianon
@@ -28,25 +28,6 @@ law_identifier: 大正10年条約第3号
 title: Mírová smlouva mezi mocnostmi spojenými i sdruženými a Maďarskem
 short_name: トリアノン条約
 point_in_time: 1920-06-04T00:00:00Z
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../../WikiData/WD~Treaty_of_Trianon,181902|WD~Treaty_of_Trianon,181902]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1920-Treaty_of_Trianon|1920-Treaty_of_Trianon]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1920-Treaty_of_Trianon.public|1920-Treaty_of_Trianon.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1920-Treaty_of_Trianon.internal|1920-Treaty_of_Trianon.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1920-Treaty_of_Trianon.protect|1920-Treaty_of_Trianon.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1920-Treaty_of_Trianon.private|1920-Treaty_of_Trianon.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1920-Treaty_of_Trianon.personal|1920-Treaty_of_Trianon.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1920-Treaty_of_Trianon.secret|1920-Treaty_of_Trianon.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Treaty_of_Trianon,181902|WD~Treaty_of_Trianon,181902]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1920-Treaty_of_Trianon|1920-Treaty_of_Trianon]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1920-Treaty_of_Trianon.public|1920-Treaty_of_Trianon.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1920-Treaty_of_Trianon.internal|1920-Treaty_of_Trianon.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1920-Treaty_of_Trianon.protect|1920-Treaty_of_Trianon.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1920-Treaty_of_Trianon.private|1920-Treaty_of_Trianon.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1920-Treaty_of_Trianon.personal|1920-Treaty_of_Trianon.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1920-Treaty_of_Trianon.secret|1920-Treaty_of_Trianon.secret]]"
 ---
 
 # [[1920-Treaty_of_Trianon]] 

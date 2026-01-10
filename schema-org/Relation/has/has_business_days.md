@@ -8,7 +8,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,61 +16,32 @@ keywords:
   - days
   - business_days
   - businessDays
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_business_days
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_business_days
 type: Predi_Relation
-dv_has_:
-  business_days: OpeningHoursSpecification
-  domain: ShippingDeliveryTime
-dv_has_business_days: OpeningHoursSpecification
-dv_is_:
-  part_of: "pending:"
-  same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_business_days|has_business_days]]"
-    - "[[/_public/schema-org/Relation/has/has_business_days.public|has_business_days.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_business_days.internal|has_business_days.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_business_days.protect|has_business_days.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_business_days.private|has_business_days.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_business_days.personal|has_business_days.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_business_days.secret|has_business_days.secret]]"
-dv_#has_:
-  name: has_business_days
-  range: OpeningHoursSpecification
-dv_is_part_of: "pending:"
-dv_has_domain: ShippingDeliveryTime
-dv_has_name: has_business_days
-dv_has_range: OpeningHoursSpecification
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_business_days|has_business_days]]"
-  - "[[/_public/schema-org/Relation/has/has_business_days.public|has_business_days.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_business_days.internal|has_business_days.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_business_days.protect|has_business_days.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_business_days.private|has_business_days.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_business_days.personal|has_business_days.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_business_days.secret|has_business_days.secret]]"
 ---
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use it like this: 
-- has_business_days = `=this.dv_has_business_days`  
-- has_business_days = `=this.dv_has_business_days`  
+- [has_/business_days :: OpeningHoursSpecification ] 
+- [ has_business_days :: OpeningHoursSpecification ] 
 
 Days of the week when the merchant typically operates, indicated via opening hours markup.
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: ShippingDeliveryTime  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_business_days )
+( #has_/range :: OpeningHoursSpecification )
 
 
 ## Confidential Links & Embeds: 

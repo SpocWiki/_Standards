@@ -1,7 +1,5 @@
 ---
-location:
-  - 8.675
-  - 50.108
+location: [ 8.675 , 50.108 ] 
 aliases:
   - German Confederation
   - 1815-German_Confederation+1866
@@ -10,85 +8,85 @@ has_id_wikidata: Q151624
 Wolfram_Language_entity_code: Entity["HistoricalCountry", "GermanConfederation"]
 Commons_category: German Confederation
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~East_Prussia,103801]]"
-  - "[[_Standards/WikiData/WD~Austrian_Empire,131964]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Saxony,153015]]"
-  - "[[_Standards/WikiData/WD~Saxe_Weimar_Eisenach,155570]]"
-  - "[[_Standards/WikiData/WD~Hohenzollern_Sigmaringen,157013]]"
-  - "[[_Standards/WikiData/WD~Duchy_of_Saxe_Meiningen,157710]]"
-  - "[[_Standards/WikiData/WD~Saxe_Altenburg,158151]]"
-  - "[[_Standards/WikiData/WD~Grand_Duchy_of_Mecklenburg_Schwerin,158445]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Württemberg,159631]]"
-  - "[[_Standards/WikiData/WD~Grand_Duchy_of_Mecklenburg_Strelitz,161215]]"
-  - "[[_Standards/WikiData/WD~West_Prussia,161947]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Hanover,164079]]"
-  - "[[_Standards/WikiData/WD~Principality_of_Waldeck_and_Pyrmont,165763]]"
-  - "[[_Standards/WikiData/WD~Grand_Duchy_of_Baden,186320]]"
-  - "[[_Standards/WikiData/WD~Anhalt_Köthen,264970]]"
-  - "[[_Standards/WikiData/WD~Anhalt_Dessau,278874]]"
-  - "[[_Standards/WikiData/WD~Saxe_Hildburghausen,281005]]"
-  - "[[_Standards/WikiData/WD~Schaumburg_Lippe,310650]]"
-  - "[[_Standards/WikiData/WD~Saxe_Lauenburg,313175]]"
-  - "[[_Standards/WikiData/WD~Duchy_of_Brunswick,326029]]"
-  - "[[_Standards/WikiData/WD~Duchy_of_Limburg,376009]]"
-  - "[[_Standards/WikiData/WD~Electorate_of_Hesse,529605]]"
-  - "[[_Standards/WikiData/WD~Principality_of_Reuss_Greiz,531783]]"
-  - "[[_Standards/WikiData/WD~Cisleithania,533534]]"
-  - "[[_Standards/WikiData/WD~Schwarzburg_Sondershausen,630163]]"
-  - "[[_Standards/WikiData/WD~Principality_of_Reuss_Gera,639100]]"
-  - "[[_Standards/WikiData/WD~Hohenzollern_Hechingen,673865]]"
-  - "[[_Standards/WikiData/WD~Saxe_Gotha_Altenburg,675085]]"
-  - "[[_Standards/WikiData/WD~Anhalt_Bernburg,686965]]"
-  - "[[_Standards/WikiData/WD~Grand_Duchy_of_Oldenburg,693669]]"
-  - "[[_Standards/WikiData/WD~Schwarzburg_Rudolstadt,695316]]"
-  - "[[_Standards/WikiData/WD~Saxe_Coburg_Saalfeld,700663]]"
-  - "[[_Standards/WikiData/WD~Duchy_of_Holstein,704288]]"
-  - "[[_Standards/WikiData/WD~Free_City_of_Frankfurt,704300]]"
-  - "[[_Standards/WikiData/WD~Duchy_of_Nassau,836680]]"
-  - "[[_Standards/WikiData/WD~History_of_the_Free_and_Hanseatic_City_of_Lübeck,950240]]"
-  - "[[_Standards/WikiData/WD~Grand_Duchy_of_Posen,1783098]]"
-  - "[[_Standards/WikiData/WD~Duchy_of_Saxe_Coburg_and_Gotha,3462133]]"
-  - "[[_Standards/WikiData/WD~Principality_of_Lippe,14551680]]"
-  - "[[_Standards/WikiData/WD~Duchy_of_Anhalt,16550783]]"
-  - "[[_Standards/WikiData/WD~Liechtenstein,347]]"
-  - "[[_Standards/WikiData/WD~Bremen,1209]]"
-  - "[[_Standards/WikiData/WD~Grand_Duchy_of_Hesse,20135]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]"
-  - "[[_Standards/WikiData/WD~Luxembourg,32]]"
+  - '[[_Standards/WikiData/WD~East_Prussia,103801]]'
+  - '[[_Standards/WikiData/WD~Austrian_Empire,131964]]'
+  - '[[_Standards/WikiData/WD~Kingdom_of_Saxony,153015]]'
+  - '[[_Standards/WikiData/WD~Saxe_Weimar_Eisenach,155570]]'
+  - '[[_Standards/WikiData/WD~Hohenzollern_Sigmaringen,157013]]'
+  - '[[_Standards/WikiData/WD~Duchy_of_Saxe_Meiningen,157710]]'
+  - '[[_Standards/WikiData/WD~Saxe_Altenburg,158151]]'
+  - '[[_Standards/WikiData/WD~Grand_Duchy_of_Mecklenburg_Schwerin,158445]]'
+  - '[[_Standards/WikiData/WD~Kingdom_of_Württemberg,159631]]'
+  - '[[_Standards/WikiData/WD~Grand_Duchy_of_Mecklenburg_Strelitz,161215]]'
+  - '[[_Standards/WikiData/WD~West_Prussia,161947]]'
+  - '[[_Standards/WikiData/WD~Kingdom_of_Hanover,164079]]'
+  - '[[_Standards/WikiData/WD~Principality_of_Waldeck_and_Pyrmont,165763]]'
+  - '[[_Standards/WikiData/WD~Grand_Duchy_of_Baden,186320]]'
+  - '[[_Standards/WikiData/WD~Anhalt_Köthen,264970]]'
+  - '[[_Standards/WikiData/WD~Anhalt_Dessau,278874]]'
+  - '[[_Standards/WikiData/WD~Saxe_Hildburghausen,281005]]'
+  - '[[_Standards/WikiData/WD~Schaumburg_Lippe,310650]]'
+  - '[[_Standards/WikiData/WD~Saxe_Lauenburg,313175]]'
+  - '[[_Standards/WikiData/WD~Duchy_of_Brunswick,326029]]'
+  - '[[_Standards/WikiData/WD~Duchy_of_Limburg,376009]]'
+  - '[[_Standards/WikiData/WD~Electorate_of_Hesse,529605]]'
+  - '[[_Standards/WikiData/WD~Principality_of_Reuss_Greiz,531783]]'
+  - '[[_Standards/WikiData/WD~Cisleithania,533534]]'
+  - '[[_Standards/WikiData/WD~Schwarzburg_Sondershausen,630163]]'
+  - '[[_Standards/WikiData/WD~Principality_of_Reuss_Gera,639100]]'
+  - '[[_Standards/WikiData/WD~Hohenzollern_Hechingen,673865]]'
+  - '[[_Standards/WikiData/WD~Saxe_Gotha_Altenburg,675085]]'
+  - '[[_Standards/WikiData/WD~Anhalt_Bernburg,686965]]'
+  - '[[_Standards/WikiData/WD~Grand_Duchy_of_Oldenburg,693669]]'
+  - '[[_Standards/WikiData/WD~Schwarzburg_Rudolstadt,695316]]'
+  - '[[_Standards/WikiData/WD~Saxe_Coburg_Saalfeld,700663]]'
+  - '[[_Standards/WikiData/WD~Duchy_of_Holstein,704288]]'
+  - '[[_Standards/WikiData/WD~Free_City_of_Frankfurt,704300]]'
+  - '[[_Standards/WikiData/WD~Duchy_of_Nassau,836680]]'
+  - '[[_Standards/WikiData/WD~History_of_the_Free_and_Hanseatic_City_of_Lübeck,950240]]'
+  - '[[_Standards/WikiData/WD~Grand_Duchy_of_Posen,1783098]]'
+  - '[[_Standards/WikiData/WD~Duchy_of_Saxe_Coburg_and_Gotha,3462133]]'
+  - '[[_Standards/WikiData/WD~Principality_of_Lippe,14551680]]'
+  - '[[_Standards/WikiData/WD~Duchy_of_Anhalt,16550783]]'
+  - '[[_Standards/WikiData/WD~Liechtenstein,347]]'
+  - '[[_Standards/WikiData/WD~Bremen,1209]]'
+  - '[[_Standards/WikiData/WD~Grand_Duchy_of_Hesse,20135]]'
+  - '[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]'
+  - '[[_Standards/WikiData/WD~Luxembourg,32]]'
 replaced_by:
-  - "[[_Standards/WikiData/WD~North_German_Confederation,150981]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Bavaria,154195]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Württemberg,159631]]"
-  - "[[_Standards/WikiData/WD~Grand_Duchy_of_Baden,186320]]"
-  - "[[_Standards/WikiData/WD~German_Empire_of_1848_1849,18285930]]"
-  - "[[_Standards/WikiData/WD~Liechtenstein,347]]"
-  - "[[_Standards/WikiData/WD~Grand_Duchy_of_Hesse,20135]]"
-  - "[[_Standards/WikiData/WD~Luxembourg,32]]"
+  - '[[_Standards/WikiData/WD~North_German_Confederation,150981]]'
+  - '[[_Standards/WikiData/WD~Kingdom_of_Bavaria,154195]]'
+  - '[[_Standards/WikiData/WD~Kingdom_of_Württemberg,159631]]'
+  - '[[_Standards/WikiData/WD~Grand_Duchy_of_Baden,186320]]'
+  - '[[_Standards/WikiData/WD~German_Empire_of_1848_1849,18285930]]'
+  - '[[_Standards/WikiData/WD~Liechtenstein,347]]'
+  - '[[_Standards/WikiData/WD~Grand_Duchy_of_Hesse,20135]]'
+  - '[[_Standards/WikiData/WD~Luxembourg,32]]'
 replaces:
-  - "[[_Standards/WikiData/WD~Confederation_of_the_Rhine,154741]]"
-  - "[[_Standards/WikiData/WD~German_Empire_of_1848_1849,18285930]]"
+  - '[[_Standards/WikiData/WD~Confederation_of_the_Rhine,154741]]'
+  - '[[_Standards/WikiData/WD~German_Empire_of_1848_1849,18285930]]'
 basic_form_of_government:
-  - "[[_Standards/WikiData/WD~confederation,170156]]"
-  - "[[_Standards/WikiData/WD~dual_monarchy,2994894]]"
+  - '[[_Standards/WikiData/WD~confederation,170156]]'
+  - '[[_Standards/WikiData/WD~dual_monarchy,2994894]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~confederation,170156]]"
-  - "[[_Standards/WikiData/WD~administrative_territorial_entity,56061]]"
+  - '[[_Standards/WikiData/WD~confederation,170156]]'
+  - '[[_Standards/WikiData/WD~administrative_territorial_entity,56061]]'
 owner_of:
-  - "[[_Standards/WikiData/WD~Reichsflotte,315173]]"
-  - "[[_Standards/WikiData/WD~Fortresses_of_the_German_Confederation,1005960]]"
+  - '[[_Standards/WikiData/WD~Reichsflotte,315173]]'
+  - '[[_Standards/WikiData/WD~Fortresses_of_the_German_Confederation,1005960]]'
 described_by_source:
-  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-capital: "[[_Standards/WikiData/WD~Free_City_of_Frankfurt,704300]]"
+  - '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+capital: '[[_Standards/WikiData/WD~Free_City_of_Frankfurt,704300]]'
 dissolved_abolished_or_demolished_date: 1866-08-24T00:00:00Z
 coordinate_location: Point(8.675 50.108)
-headquarters_locations: "[[_Standards/WikiData/WD~Frankfurt,1794]]"
-follows: "[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
-official_language: "[[_Standards/WikiData/WD~German,188]]"
-language_used: "[[_Standards/WikiData/WD~German,188]]"
+headquarters_locations: '[[_Standards/WikiData/WD~Frankfurt,1794]]'
+follows: '[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]'
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
+official_language: '[[_Standards/WikiData/WD~German,188]]'
+language_used: '[[_Standards/WikiData/WD~German,188]]'
 population: 29200000
 area: 630100
 BHCL_UUID: 34720a1f-10a7-4ad1-a723-af44cc8dc90b
@@ -99,25 +97,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20-%20Deutscher%20
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Wappen%20Deutscher%20Bund.svg
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/War%20ensign%20of%20the%20German%20Empire%20Navy%201848-1852.svg
 Libris_URI: 75kmqkzr1z1rbwk
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../WikiData/WD~German_Confederation,151624|WD~German_Confederation,151624]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1815-German_Confederation+1866|1815-German_Confederation+1866]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1815-German_Confederation+1866.public|1815-German_Confederation+1866.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1815-German_Confederation+1866.internal|1815-German_Confederation+1866.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1815-German_Confederation+1866.protect|1815-German_Confederation+1866.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1815-German_Confederation+1866.private|1815-German_Confederation+1866.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1815-German_Confederation+1866.personal|1815-German_Confederation+1866.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1815-German_Confederation+1866.secret|1815-German_Confederation+1866.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~German_Confederation,151624|WD~German_Confederation,151624]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1815-German_Confederation+1866|1815-German_Confederation+1866]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1815-German_Confederation+1866.public|1815-German_Confederation+1866.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1815-German_Confederation+1866.internal|1815-German_Confederation+1866.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1815-German_Confederation+1866.protect|1815-German_Confederation+1866.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1815-German_Confederation+1866.private|1815-German_Confederation+1866.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1815-German_Confederation+1866.personal|1815-German_Confederation+1866.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1815-German_Confederation+1866.secret|1815-German_Confederation+1866.secret]]"
 ---
 
 

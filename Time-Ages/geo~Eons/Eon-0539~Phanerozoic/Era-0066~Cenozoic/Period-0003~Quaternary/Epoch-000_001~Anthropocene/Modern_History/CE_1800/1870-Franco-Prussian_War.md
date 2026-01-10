@@ -6,53 +6,34 @@ aliases:
   - 1870-Franco-Prussian War
 has_id_wikidata: Q46083
 has_effect:
-  - "[[_Standards/WikiData/WD~French_Third_Republic,70802]]"
-  - "[[_Standards/WikiData/WD~French_German_enmity,542355]]"
+  - '[[_Standards/WikiData/WD~French_Third_Republic,70802]]'
+  - '[[_Standards/WikiData/WD~French_German_enmity,542355]]'
 participant:
-  - "[[_Standards/WikiData/WD~French_Third_Republic,70802]]"
-  - "[[_Standards/WikiData/WD~North_German_Confederation,150981]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Bavaria,154195]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Württemberg,159631]]"
-  - "[[_Standards/WikiData/WD~Grand_Duchy_of_Baden,186320]]"
-  - "[[_Standards/WikiData/WD~German_Empire,43287]]"
+  - '[[_Standards/WikiData/WD~French_Third_Republic,70802]]'
+  - '[[_Standards/WikiData/WD~North_German_Confederation,150981]]'
+  - '[[_Standards/WikiData/WD~Kingdom_of_Bavaria,154195]]'
+  - '[[_Standards/WikiData/WD~Kingdom_of_Württemberg,159631]]'
+  - '[[_Standards/WikiData/WD~Grand_Duchy_of_Baden,186320]]'
+  - '[[_Standards/WikiData/WD~German_Empire,43287]]'
 described_by_source:
-  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-order_of_battle: "[[_Standards/WikiData/WD~Franco_Prussian_War_order_of_battle,5484483]]"
-facet_of: "[[_Standards/WikiData/WD~Germans_in_France,25046339]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+order_of_battle: '[[_Standards/WikiData/WD~Franco_Prussian_War_order_of_battle,5484483]]'
+facet_of: '[[_Standards/WikiData/WD~Germans_in_France,25046339]]'
 end_time: 1871-01-28T00:00:00Z
 start_time: 1870-07-19T00:00:00Z
-locations: "[[_Standards/WikiData/WD~France,142]]"
-instance_of: "[[_Standards/WikiData/WD~war,198]]"
+locations: '[[_Standards/WikiData/WD~France,142]]'
+instance_of: '[[_Standards/WikiData/WD~war,198]]'
 BHCL_UUID: a8e35c2e-deaa-419a-8956-58b0e446ad79
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Battle-Mars-Le-Tour-large.jpg
 U_S_National_Archives_Identifier: 10664509
 Wolfram_Language_entity_code: Entity["HistoricalEvent", "FrancoPrussianWarEnds"]
 Commons_category: Franco-Prussian War
 Krugosvet_article: istoriya/franko-prusskaya-voina
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../WikiData/WD~Franco-Prussian_War,46083|WD~Franco-Prussian_War,46083]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1870-Franco-Prussian_War|1870-Franco-Prussian_War]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1870-Franco-Prussian_War.public|1870-Franco-Prussian_War.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1870-Franco-Prussian_War.internal|1870-Franco-Prussian_War.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1870-Franco-Prussian_War.protect|1870-Franco-Prussian_War.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1870-Franco-Prussian_War.private|1870-Franco-Prussian_War.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1870-Franco-Prussian_War.personal|1870-Franco-Prussian_War.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1870-Franco-Prussian_War.secret|1870-Franco-Prussian_War.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Franco-Prussian_War,46083|WD~Franco-Prussian_War,46083]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1870-Franco-Prussian_War|1870-Franco-Prussian_War]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1870-Franco-Prussian_War.public|1870-Franco-Prussian_War.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1870-Franco-Prussian_War.internal|1870-Franco-Prussian_War.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1870-Franco-Prussian_War.protect|1870-Franco-Prussian_War.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1870-Franco-Prussian_War.private|1870-Franco-Prussian_War.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1870-Franco-Prussian_War.personal|1870-Franco-Prussian_War.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1870-Franco-Prussian_War.secret|1870-Franco-Prussian_War.secret]]"
 ---
 
 # [[1870-Franco-Prussian_War]] 

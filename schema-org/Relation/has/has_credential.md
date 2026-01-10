@@ -9,66 +9,37 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - credential
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_credential
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_credential
 type: Predi_Relation
-dv_has_:
-  credential: EducationalOccupationalCredential
-  domain: Organization, Person
-dv_has_credential: EducationalOccupationalCredential
-dv_is_:
-  part_of: "pending:"
-  same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_credential|has_credential]]"
-    - "[[/_public/schema-org/Relation/has/has_credential.public|has_credential.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_credential.internal|has_credential.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_credential.protect|has_credential.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_credential.private|has_credential.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_credential.personal|has_credential.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_credential.secret|has_credential.secret]]"
-dv_#has_:
-  name: has_credential
-  range: EducationalOccupationalCredential
-dv_is_part_of: "pending:"
-dv_has_domain: Organization, Person
-dv_has_name: has_credential
-dv_has_range: EducationalOccupationalCredential
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_credential|has_credential]]"
-  - "[[/_public/schema-org/Relation/has/has_credential.public|has_credential.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_credential.internal|has_credential.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_credential.protect|has_credential.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_credential.private|has_credential.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_credential.personal|has_credential.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_credential.secret|has_credential.secret]]"
 ---
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use it like this: 
-- has_credential = `=this.dv_has_credential`  
-- has_credential = `=this.dv_has_credential`  
+- [has_/credential :: EducationalOccupationalCredential ] 
+- [ has_credential :: EducationalOccupationalCredential ] 
 
 A credential awarded to the Person or Organization.
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: Organization, Person  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_credential )
+( #has_/range :: EducationalOccupationalCredential )
 
 
 ## Confidential Links & Embeds: 

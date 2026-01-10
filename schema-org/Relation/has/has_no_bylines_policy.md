@@ -9,7 +9,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,66 +17,35 @@ keywords:
   - no
   - bylines
   - policy
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_no_bylines_policy
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_no_bylines_policy
 type: Predi_Relation
-dv_has_:
-  no_bylines_policy: CreativeWork, URL
-  domain: NewsMediaOrganization
-dv_has_no_bylines_policy: CreativeWork, URL
-dv_is_:
-  part_of: "pending:"
-  sub_property_of: publishingPrinciples
-  same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_no_bylines_policy|has_no_bylines_policy]]"
-    - "[[/_public/schema-org/Relation/has/has_no_bylines_policy.public|has_no_bylines_policy.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_no_bylines_policy.internal|has_no_bylines_policy.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_no_bylines_policy.protect|has_no_bylines_policy.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_no_bylines_policy.private|has_no_bylines_policy.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_no_bylines_policy.personal|has_no_bylines_policy.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_no_bylines_policy.secret|has_no_bylines_policy.secret]]"
-dv_#has_:
-  name: has_no_bylines_policy
-  range: CreativeWork, URL
-dv_is_part_of: "pending:"
-dv_has_domain: NewsMediaOrganization
-dv_has_name: has_no_bylines_policy
-dv_has_range: CreativeWork, URL
-dv_is_sub_property_of: publishingPrinciples
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_no_bylines_policy|has_no_bylines_policy]]"
-  - "[[/_public/schema-org/Relation/has/has_no_bylines_policy.public|has_no_bylines_policy.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_no_bylines_policy.internal|has_no_bylines_policy.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_no_bylines_policy.protect|has_no_bylines_policy.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_no_bylines_policy.private|has_no_bylines_policy.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_no_bylines_policy.personal|has_no_bylines_policy.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_no_bylines_policy.secret|has_no_bylines_policy.secret]]"
 ---
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use it like this: 
-- has_no_bylines_policy = `=this.dv_has_no_bylines_policy`  
-- has_no_bylines_policy = `=this.dv_has_no_bylines_policy`  
+- [has_/no_bylines_policy :: CreativeWork, URL ] 
+- [ has_no_bylines_policy :: CreativeWork, URL ] 
 
 For a [[NewsMediaOrganization]] or other news-related [[../../../Society/Agent/Community/Organization]], 
 a statement explaining when authors of articles are not named in bylines.
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: NewsMediaOrganization  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_no_bylines_policy )
+( #has_/range :: CreativeWork, URL )
 
-is_sub_property_of = `=this.dv_is_sub_property_of` 
+#is_/sub_property_of  :: publishingPrinciples  
 
 ## Confidential Links & Embeds: 
 

@@ -31,95 +31,15 @@ start_time: -298900000-01-01T00:00:00Z
 end_time: -295000000-01-01T00:00:00Z
 sRGB_color_hex_triplet: F0775F
 coordinate_location: Point(57.8914 50.2458)
-dv_has_:
-  duration_:
-    years: "5.390e+6"
-  previous_:
-    item: "[[../../Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian|Age~4~Gzhelian]]"
-  next_:
-    item: "[[Age~2~Sakmarian]]"
-  name_:
-    bg: пѿел
-    cs: Assel
-    da: Asselien
-    de: Asselium
-    es: Asseliense
-    et: Asseli
-    fi: Assel
-    fr: Assélien
-    hu: asszeli
-    it: asseliano
-    ja: アセリアン期
-    lt: Aselis
-    nl: Asseliën
-    no: Asselium
-    pl: Aselsk
-    pt: Asseliano
-    sk: assel
-    sl: asselij
-    sv: assel
-    zh: 阿瑟尔期
-  abbreviation: p1
-  time_:
-    started: "-298.90e6"
-    stopped: "-293.51e6"
-  text_of_:
-    color: "0xE36350"
-dv_is_:
-  same_as:
-    - "[[WD~Asselian,740340]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian|Age~1~Asselian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian.public|Age~1~Asselian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian.internal|Age~1~Asselian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian.protect|Age~1~Asselian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian.private|Age~1~Asselian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian.personal|Age~1~Asselian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian.secret|Age~1~Asselian.secret]]"
-dv_has_duration_years: "5.390e+6"
-dv_has_previous_item: "[[../../Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian|Age~4~Gzhelian]]"
-dv_has_next_item: "[[Age~2~Sakmarian]]"
-dv_is_same_as:
-  - "[[WD~Asselian,740340]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian|Age~1~Asselian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian.public|Age~1~Asselian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian.internal|Age~1~Asselian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian.protect|Age~1~Asselian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian.private|Age~1~Asselian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian.personal|Age~1~Asselian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian.secret|Age~1~Asselian.secret]]"
-dv_has_name_bg: пѿел
-dv_has_name_cs: Assel
-dv_has_name_da: Asselien
-dv_has_name_de: Asselium
-dv_has_name_es: Asseliense
-dv_has_name_et: Asseli
-dv_has_name_fi: Assel
-dv_has_name_fr: Assélien
-dv_has_name_hu: asszeli
-dv_has_name_it: asseliano
-dv_has_name_ja: アセリアン期
-dv_has_name_lt: Aselis
-dv_has_name_nl: Asseliën
-dv_has_name_no: Asselium
-dv_has_name_pl: Aselsk
-dv_has_name_pt: Asseliano
-dv_has_name_sk: assel
-dv_has_name_sl: asselij
-dv_has_name_sv: assel
-dv_has_name_zh: 阿瑟尔期
-dv_has_abbreviation: p1
-dv_has_time_started: "-298.90e6"
-dv_has_time_stopped: "-293.51e6"
-dv_has_text_of_color: "0xE36350"
 ---
 # [[Age~1~Asselian]]
 
 #is_a_/time_/Age 
 
-#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-has_previous_item = `=this.dv_has_previous_item` 
-has_next_item = `=this.dv_has_next_item` 
+#has_/previous_/item :: [[../../Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian|Age~4~Gzhelian]] 
+#has_/next_/item :: [[Age~2~Sakmarian]] 
 #is_/same_as :: [[WD~Asselian,740340]]  
 
 A time period from 298.9 to 293.51 million years ago. 
@@ -138,35 +58,35 @@ A time period from 298.9 to 293.51 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Asselian) 
 
 
-has_name_bg = `=this.dv_has_name_bg` 
-has_name_cs = `=this.dv_has_name_cs` 
-has_name_da = `=this.dv_has_name_da` 
-has_name_de = `=this.dv_has_name_de` 
-has_name_es = `=this.dv_has_name_es` 
-has_name_et = `=this.dv_has_name_et` 
-has_name_fi = `=this.dv_has_name_fi` 
-has_name_fr = `=this.dv_has_name_fr` 
-has_name_hu = `=this.dv_has_name_hu` 
-has_name_it = `=this.dv_has_name_it` 
-has_name_ja = `=this.dv_has_name_ja` 
-has_name_lt = `=this.dv_has_name_lt` 
-has_name_nl = `=this.dv_has_name_nl` 
-has_name_no = `=this.dv_has_name_no` 
-has_name_pl = `=this.dv_has_name_pl` 
-has_name_pt = `=this.dv_has_name_pt` 
-has_name_sk = `=this.dv_has_name_sk` 
-has_name_sl = `=this.dv_has_name_sl` 
-has_name_sv = `=this.dv_has_name_sv` 
-has_name_zh = `=this.dv_has_name_zh` 
+#has_/name_/bg  :: пѿел
+#has_/name_/cs  :: Assel
+#has_/name_/da  :: Asselien
+#has_/name_/de  :: Asselium
+#has_/name_/es  :: Asseliense
+#has_/name_/et  :: Asseli
+#has_/name_/fi  :: Assel
+#has_/name_/fr  :: Assélien
+#has_/name_/hu  :: asszeli
+#has_/name_/it  :: asseliano
+#has_/name_/ja  :: アセリアン期
+#has_/name_/lt  :: Aselis
+#has_/name_/nl  :: Asseliën
+#has_/name_/no  :: Asselium
+#has_/name_/pl  :: Aselsk
+#has_/name_/pt  :: Asseliano
+#has_/name_/sk  :: assel
+#has_/name_/sl  :: asselij
+#has_/name_/sv  :: assel
+#has_/name_/zh  :: 阿瑟尔期
 
-has_abbreviation = `=this.dv_has_abbreviation` 
+#has_/abbreviation :: p1
 
-has_time_started = `=this.dv_has_time_started` 
-has_time_stopped = `=this.dv_has_time_stopped` 
+#has_/time_/started :: -298.90e6 
+#has_/time_/stopped :: -293.51e6 
 
     sh:order 89 
 
-has_text_of_color = `=this.dv_has_text_of_color` 
+#has_/text_of_/color :: 0xE36350
 
 ## All Contents
 

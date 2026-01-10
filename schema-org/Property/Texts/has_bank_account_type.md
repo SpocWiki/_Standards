@@ -11,71 +11,41 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - bank
   - account
   - type
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_bank_account_type
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_bank_account_type
 type: Pred_Text
-dv_has_:
-  text_of_:
-    bank_account_type: Text, URL
-  domain: BankAccount
-dv_has_text_of_bank_account_type: Text, URL
-dv_is_:
-  part_of: "pending:"
-  same_as:
-    - "[[/_Standards/schema-org/Property/Texts/has_bank_account_type|has_bank_account_type]]"
-    - "[[/_public/schema-org/Property/Texts/has_bank_account_type.public|has_bank_account_type.public]]"
-    - "[[/_internal/schema-org/Property/Texts/has_bank_account_type.internal|has_bank_account_type.internal]]"
-    - "[[/_protect/schema-org/Property/Texts/has_bank_account_type.protect|has_bank_account_type.protect]]"
-    - "[[/_private/schema-org/Property/Texts/has_bank_account_type.private|has_bank_account_type.private]]"
-    - "[[/_personal/schema-org/Property/Texts/has_bank_account_type.personal|has_bank_account_type.personal]]"
-    - "[[/_secret/schema-org/Property/Texts/has_bank_account_type.secret|has_bank_account_type.secret]]"
-dv_#has_:
-  name: has_text_of_bank_account_type
-  range: Text, URL
-dv_is_part_of: "pending:"
-dv_has_domain: BankAccount
-dv_has_name: has_text_of_bank_account_type
-dv_has_range: Text, URL
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_bank_account_type|has_bank_account_type]]"
-  - "[[/_public/schema-org/Property/Texts/has_bank_account_type.public|has_bank_account_type.public]]"
-  - "[[/_internal/schema-org/Property/Texts/has_bank_account_type.internal|has_bank_account_type.internal]]"
-  - "[[/_protect/schema-org/Property/Texts/has_bank_account_type.protect|has_bank_account_type.protect]]"
-  - "[[/_private/schema-org/Property/Texts/has_bank_account_type.private|has_bank_account_type.private]]"
-  - "[[/_personal/schema-org/Property/Texts/has_bank_account_type.personal|has_bank_account_type.personal]]"
-  - "[[/_secret/schema-org/Property/Texts/has_bank_account_type.secret|has_bank_account_type.secret]]"
 ---
 
 Predicate to describe the Text of BankAccount.
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use it like this: 
-- has_text_of_bank_account_type = `=this.dv_has_text_of_bank_account_type`  
-- has_text_of_bank_account_type = `=this.dv_has_text_of_bank_account_type`  
+- [has_/text_of_/bank_account_type :: Text, URL ] 
+- [ has_text_of_bank_account_type :: Text, URL ] 
 
 The type of a bank account.
 
 Predicated describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: BankAccount  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_text_of_bank_account_type )
+( #has_/range :: Text, URL )
 
 
 ## Confidential Links & Embeds: 

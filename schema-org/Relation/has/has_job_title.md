@@ -9,68 +9,39 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - job_title
   - job
   - title
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_job_title
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_job_title
 type: Predi_Relation
-dv_has_:
-  job_title: DefinedTerm, Text
-  domain: Person
-dv_has_job_title: DefinedTerm, Text
-dv_is_:
-  part_of: "pending:"
-  same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_job_title|has_job_title]]"
-    - "[[/_public/schema-org/Relation/has/has_job_title.public|has_job_title.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_job_title.internal|has_job_title.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_job_title.protect|has_job_title.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_job_title.private|has_job_title.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_job_title.personal|has_job_title.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_job_title.secret|has_job_title.secret]]"
-dv_#has_:
-  name: has_job_title
-  range: DefinedTerm, Text
-dv_is_part_of: "pending:"
-dv_has_domain: Person
-dv_has_name: has_job_title
-dv_has_range: DefinedTerm, Text
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_job_title|has_job_title]]"
-  - "[[/_public/schema-org/Relation/has/has_job_title.public|has_job_title.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_job_title.internal|has_job_title.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_job_title.protect|has_job_title.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_job_title.private|has_job_title.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_job_title.personal|has_job_title.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_job_title.secret|has_job_title.secret]]"
 ---
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use it like this: 
-- has_job_title = `=this.dv_has_job_title`  
-- has_job_title = `=this.dv_has_job_title`  
+- [has_/job_title :: DefinedTerm, Text ] 
+- [ has_job_title :: DefinedTerm, Text ] 
 
 The job title of the person (for example, Financial Manager).
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: Person  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_job_title )
+( #has_/range :: DefinedTerm, Text )
 
 
 ## Confidential Links & Embeds: 

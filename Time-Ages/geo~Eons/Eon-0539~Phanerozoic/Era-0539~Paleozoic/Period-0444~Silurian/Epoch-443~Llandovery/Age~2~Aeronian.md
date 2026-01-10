@@ -29,96 +29,16 @@ end_time: -438500000-01-01T00:00:00Z
 start_time: -440800000-01-01T00:00:00Z
 sRGB_color_hex_triplet: A4E0D0
 coordinate_location: Point(14.2119 49.923)
-dv_has_:
-  duration_:
-    years: "2.300e+6"
-  previous_:
-    item: "[[Age~1~Rhuddanian]]"
-  next_:
-    item: "[[Age~3~Telychian]]"
-  name_:
-    bg: перон
-    cs: Aeron
-    da: Aeronien
-    de: Aeronium
-    es: Aeroniense
-    et: Aeroni
-    fi: Aeron
-    fr: Aéronien
-    hu: aeroni
-    it: aeroniano
-    ja: アエロニアン期
-    lt: Aeronis
-    nl: Aeroniën
-    no: Aeronium
-    pl: Aeron
-    pt: Aeroniano
-    sk: aerón
-    sl: aeronij
-    sv: aeron
-    zh: 埃隆期
-  abbreviation: s2
-  time_:
-    started: "-440.8e6"
-    stopped: "-438.5e6"
-  text_of_:
-    color: "0xB3E1C2"
-dv_is_:
-  same_as:
-    - "[[WD~Aeronian,381595]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian|Age~2~Aeronian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian.public|Age~2~Aeronian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian.internal|Age~2~Aeronian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian.protect|Age~2~Aeronian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian.private|Age~2~Aeronian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian.personal|Age~2~Aeronian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian.secret|Age~2~Aeronian.secret]]"
-dv_has_duration_years: "2.300e+6"
-dv_has_previous_item: "[[Age~1~Rhuddanian]]"
-dv_has_next_item: "[[Age~3~Telychian]]"
-dv_is_same_as:
-  - "[[WD~Aeronian,381595]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian|Age~2~Aeronian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian.public|Age~2~Aeronian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian.internal|Age~2~Aeronian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian.protect|Age~2~Aeronian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian.private|Age~2~Aeronian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian.personal|Age~2~Aeronian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~2~Aeronian.secret|Age~2~Aeronian.secret]]"
-dv_has_name_bg: перон
-dv_has_name_cs: Aeron
-dv_has_name_da: Aeronien
-dv_has_name_de: Aeronium
-dv_has_name_es: Aeroniense
-dv_has_name_et: Aeroni
-dv_has_name_fi: Aeron
-dv_has_name_fr: Aéronien
-dv_has_name_hu: aeroni
-dv_has_name_it: aeroniano
-dv_has_name_ja: アエロニアン期
-dv_has_name_lt: Aeronis
-dv_has_name_nl: Aeroniën
-dv_has_name_no: Aeronium
-dv_has_name_pl: Aeron
-dv_has_name_pt: Aeroniano
-dv_has_name_sk: aerón
-dv_has_name_sl: aeronij
-dv_has_name_sv: aeron
-dv_has_name_zh: 埃隆期
-dv_has_abbreviation: s2
-dv_has_time_started: "-440.8e6"
-dv_has_time_stopped: "-438.5e6"
-dv_has_text_of_color: "0xB3E1C2"
 ---
 
 # [[Age~2~Aeronian]] 
 
 #is_a_/time_/Age 
 
-#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-has_previous_item = `=this.dv_has_previous_item` 
-has_next_item = `=this.dv_has_next_item` 
+#has_/previous_/item :: [[Age~1~Rhuddanian]] 
+#has_/next_/item :: [[Age~3~Telychian]] 
 #is_/same_as :: [[WD~Aeronian,381595]]  
 
 A time period from 440.8 to 438.5 million years ago. 
@@ -132,35 +52,35 @@ A time period from 440.8 to 438.5 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Aeronian) 
 
 
-has_name_bg = `=this.dv_has_name_bg` 
-has_name_cs = `=this.dv_has_name_cs` 
-has_name_da = `=this.dv_has_name_da` 
-has_name_de = `=this.dv_has_name_de` 
-has_name_es = `=this.dv_has_name_es` 
-has_name_et = `=this.dv_has_name_et` 
-has_name_fi = `=this.dv_has_name_fi` 
-has_name_fr = `=this.dv_has_name_fr` 
-has_name_hu = `=this.dv_has_name_hu` 
-has_name_it = `=this.dv_has_name_it` 
-has_name_ja = `=this.dv_has_name_ja` 
-has_name_lt = `=this.dv_has_name_lt` 
-has_name_nl = `=this.dv_has_name_nl` 
-has_name_no = `=this.dv_has_name_no` 
-has_name_pl = `=this.dv_has_name_pl` 
-has_name_pt = `=this.dv_has_name_pt` 
-has_name_sk = `=this.dv_has_name_sk` 
-has_name_sl = `=this.dv_has_name_sl` 
-has_name_sv = `=this.dv_has_name_sv` 
-has_name_zh = `=this.dv_has_name_zh` 
+#has_/name_/bg  :: перон
+#has_/name_/cs  :: Aeron
+#has_/name_/da  :: Aeronien
+#has_/name_/de  :: Aeronium
+#has_/name_/es  :: Aeroniense
+#has_/name_/et  :: Aeroni
+#has_/name_/fi  :: Aeron
+#has_/name_/fr  :: Aéronien
+#has_/name_/hu  :: aeroni
+#has_/name_/it  :: aeroniano
+#has_/name_/ja  :: アエロニアン期
+#has_/name_/lt  :: Aeronis
+#has_/name_/nl  :: Aeroniën
+#has_/name_/no  :: Aeronium
+#has_/name_/pl  :: Aeron
+#has_/name_/pt  :: Aeroniano
+#has_/name_/sk  :: aerón
+#has_/name_/sl  :: aeronij
+#has_/name_/sv  :: aeron
+#has_/name_/zh  :: 埃隆期
 
-has_abbreviation = `=this.dv_has_abbreviation` 
+#has_/abbreviation :: s2
 
-has_time_started = `=this.dv_has_time_started` 
-has_time_stopped = `=this.dv_has_time_stopped` 
+#has_/time_/started :: -440.8e6 
+#has_/time_/stopped :: -438.5e6 
 
     sh:order 127 
 
-has_text_of_color = `=this.dv_has_text_of_color` 
+#has_/text_of_/color :: 0xB3E1C2
 
 ## All Contents
 

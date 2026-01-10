@@ -1,95 +1,57 @@
 ---
 aliases:
-  - "{ label-dash: }": ""
-  - "{ label_snail: }": ""
-  - "{ label: }": ""
+  - '{ label-dash: }': ''
+  - '{ label_snail: }': ''
+  - '{ label: }': ''
   - has_{{label_snail}}
   - _has_Relation-Template
-  - " has Relation-Template"
+  - ' has Relation-Template'
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - "{ label_snail: }": ""
-layout: ""
+  - '{ label_snail: }': ''
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_{{label_snail}}
 publish: true
-publishDate: ""
+publishDate: ''
 superseded_by:
-  "{ supersededBy: }": ""
+  '{ supersededBy: }': ''
 supersedes:
-  "{ supersedes: }": ""
+  '{ supersedes: }': ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_{{label_snail}}
 type: Predi_Relation
-dv_has_:
-  "{{label_snail}}": "{{rangeIncludes}}"
-  domain: "{{domainIncludes}}"
-  sub_properties: "[ {{subproperties}} ]"
-dv_has_{{label_snail}}: "{{rangeIncludes}}"
-dv_is_:
-  part_of: "{{isPartOf}}"
-  inverse_of: "{{inverseOf}}"
-  sub_property_of: "{{subPropertyOf}}"
-  same_as:
-    - "[[/_Standards/schema-org/Relation/_has_Relation-Template|_has_Relation-Template]]"
-    - "[[/_public/schema-org/Relation/_has_Relation-Template.public|_has_Relation-Template.public]]"
-    - "[[/_internal/schema-org/Relation/_has_Relation-Template.internal|_has_Relation-Template.internal]]"
-    - "[[/_protect/schema-org/Relation/_has_Relation-Template.protect|_has_Relation-Template.protect]]"
-    - "[[/_private/schema-org/Relation/_has_Relation-Template.private|_has_Relation-Template.private]]"
-    - "[[/_personal/schema-org/Relation/_has_Relation-Template.personal|_has_Relation-Template.personal]]"
-    - "[[/_secret/schema-org/Relation/_has_Relation-Template.secret|_has_Relation-Template.secret]]"
-dv_#has_:
-  name: is_{{label_snail}}
-  range: "{{rangeIncludes}}"
-dv_has_label_snail:
-  - "{{rangeIncludes}}"
-  - "{{rangeIncludes}}"
-dv_is_part_of: "{{isPartOf}}"
-dv_has_domain: "{{domainIncludes}}"
-dv_has_name: is_{{label_snail}}
-dv_has_range: "{{rangeIncludes}}"
-dv_is_inverse_of: "{{inverseOf}}"
-dv_is_sub_property_of: "{{subPropertyOf}}"
-dv_has_sub_properties: "[ {{subproperties}} ]"
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/_has_Relation-Template|_has_Relation-Template]]"
-  - "[[/_public/schema-org/Relation/_has_Relation-Template.public|_has_Relation-Template.public]]"
-  - "[[/_internal/schema-org/Relation/_has_Relation-Template.internal|_has_Relation-Template.internal]]"
-  - "[[/_protect/schema-org/Relation/_has_Relation-Template.protect|_has_Relation-Template.protect]]"
-  - "[[/_private/schema-org/Relation/_has_Relation-Template.private|_has_Relation-Template.private]]"
-  - "[[/_personal/schema-org/Relation/_has_Relation-Template.personal|_has_Relation-Template.personal]]"
-  - "[[/_secret/schema-org/Relation/_has_Relation-Template.secret|_has_Relation-Template.secret]]"
 ---
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: {{isPartOf}}  
 
 Use it like this: 
-- has_{{label_snail}} = `=this.dv_has_{{label_snail}}`  
-- has_{{label_snail}} = `=this.dv_has_{{label_snail}}`  
+- [has_/{{label_snail}} :: {{rangeIncludes}} ] 
+- [ has_{{label_snail}} :: {{rangeIncludes}} ] 
 
 {{comment}}
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: {{domainIncludes}}  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: is_{{label_snail}} )
+( #has_/range :: {{rangeIncludes}} )
 
-is_inverse_of = `=this.dv_is_inverse_of` 
+#is_/inverse_of  :: {{inverseOf}}  
 
-is_sub_property_of = `=this.dv_is_sub_property_of` 
+#is_/sub_property_of  :: {{subPropertyOf}}  
 
-has_sub_properties = `=this.dv_has_sub_properties` 
+#has_/sub_properties :: [ {{subproperties}} ]  
 
 ## Confidential Links & Embeds: 
 

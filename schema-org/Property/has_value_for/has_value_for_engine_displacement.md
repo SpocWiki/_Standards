@@ -10,60 +10,30 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - engine-displacement
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_engine-displacement
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_engine-displacement
 type: Predi_Quantity
-dv_has_:
-  value_for_:
-    engine_displacement: QuantitativeValue
-  domain: EngineSpecification
-dv_has_value_for_engine_displacement: QuantitativeValue
-dv_is_:
-  part_of: https://auto.schema.org
-  same_as:
-    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_engine_displacement|has_value_for_engine_displacement]]"
-    - "[[/_public/schema-org/Property/has_value_for/has_value_for_engine_displacement.public|has_value_for_engine_displacement.public]]"
-    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_engine_displacement.internal|has_value_for_engine_displacement.internal]]"
-    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_engine_displacement.protect|has_value_for_engine_displacement.protect]]"
-    - "[[/_private/schema-org/Property/has_value_for/has_value_for_engine_displacement.private|has_value_for_engine_displacement.private]]"
-    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_engine_displacement.personal|has_value_for_engine_displacement.personal]]"
-    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_engine_displacement.secret|has_value_for_engine_displacement.secret]]"
-dv_#has_:
-  name: has_value_for_engine_displacement
-  range: QuantitativeValue
-dv_is_part_of: https://auto.schema.org
-dv_has_domain: EngineSpecification
-dv_has_name: has_value_for_engine_displacement
-dv_has_range: QuantitativeValue
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_engine_displacement|has_value_for_engine_displacement]]"
-  - "[[/_public/schema-org/Property/has_value_for/has_value_for_engine_displacement.public|has_value_for_engine_displacement.public]]"
-  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_engine_displacement.internal|has_value_for_engine_displacement.internal]]"
-  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_engine_displacement.protect|has_value_for_engine_displacement.protect]]"
-  - "[[/_private/schema-org/Property/has_value_for/has_value_for_engine_displacement.private|has_value_for_engine_displacement.private]]"
-  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_engine_displacement.personal|has_value_for_engine_displacement.personal]]"
-  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_engine_displacement.secret|has_value_for_engine_displacement.secret]]"
 ---
 
 Predicate to describe the Quantity of EngineSpecification.
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: https://auto.schema.org  
 
 Use it like this: 
-- has_value_for_engine_displacement = `=this.dv_has_value_for_engine_displacement`  
-- has_value_for_engine_displacement = `=this.dv_has_value_for_engine_displacement`  
+- [has_/value_for_/engine_displacement :: QuantitativeValue ] 
+- [ has_value_for_engine_displacement :: QuantitativeValue ] 
 
 The volume swept by all of the pistons inside the cylinders of an internal combustion engine in a single movement. 
 
@@ -75,10 +45,10 @@ Typical unit code(s): CMQ for cubic centimeter, LTR for liters, INQ for cubic in
 
 Predicate describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: EngineSpecification  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_value_for_engine_displacement )
+( #has_/range :: QuantitativeValue )
 
 
 ## Confidential Links & Embeds: 

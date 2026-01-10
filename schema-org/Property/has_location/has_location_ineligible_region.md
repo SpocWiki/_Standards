@@ -10,60 +10,30 @@ cssclasses:
   - Predicate
   - geo
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - ineligible_region
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_location_ineligible_region
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/geo
 title: has_location_ineligible_region
 type: Pred_geo
-dv_has_:
-  location_:
-    ineligible_region: GeoShape, Place, Text
-  domain: ActionAccessSpecification, DeliveryChargeSpecification, Demand, MediaObject, Offer
-dv_has_location_ineligible_region: GeoShape, Place, Text
-dv_is_:
-  part_of: "pending:"
-  same_as:
-    - "[[/_Standards/schema-org/Property/has_location/has_location_ineligible_region|has_location_ineligible_region]]"
-    - "[[/_public/schema-org/Property/has_location/has_location_ineligible_region.public|has_location_ineligible_region.public]]"
-    - "[[/_internal/schema-org/Property/has_location/has_location_ineligible_region.internal|has_location_ineligible_region.internal]]"
-    - "[[/_protect/schema-org/Property/has_location/has_location_ineligible_region.protect|has_location_ineligible_region.protect]]"
-    - "[[/_private/schema-org/Property/has_location/has_location_ineligible_region.private|has_location_ineligible_region.private]]"
-    - "[[/_personal/schema-org/Property/has_location/has_location_ineligible_region.personal|has_location_ineligible_region.personal]]"
-    - "[[/_secret/schema-org/Property/has_location/has_location_ineligible_region.secret|has_location_ineligible_region.secret]]"
-dv_#has_:
-  name: has_location_ineligible_region
-  range: GeoShape, Place, Text
-dv_is_part_of: "pending:"
-dv_has_domain: ActionAccessSpecification, DeliveryChargeSpecification, Demand, MediaObject, Offer
-dv_has_name: has_location_ineligible_region
-dv_has_range: GeoShape, Place, Text
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_location/has_location_ineligible_region|has_location_ineligible_region]]"
-  - "[[/_public/schema-org/Property/has_location/has_location_ineligible_region.public|has_location_ineligible_region.public]]"
-  - "[[/_internal/schema-org/Property/has_location/has_location_ineligible_region.internal|has_location_ineligible_region.internal]]"
-  - "[[/_protect/schema-org/Property/has_location/has_location_ineligible_region.protect|has_location_ineligible_region.protect]]"
-  - "[[/_private/schema-org/Property/has_location/has_location_ineligible_region.private|has_location_ineligible_region.private]]"
-  - "[[/_personal/schema-org/Property/has_location/has_location_ineligible_region.personal|has_location_ineligible_region.personal]]"
-  - "[[/_secret/schema-org/Property/has_location/has_location_ineligible_region.secret|has_location_ineligible_region.secret]]"
 ---
 
 Predicate to describe the geo of ActionAccessSpecification, DeliveryChargeSpecification, Demand, MediaObject, Offer.
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use it like this: 
-- has_location_ineligible_region = `=this.dv_has_location_ineligible_region`  
-- has_location_ineligible_region = `=this.dv_has_location_ineligible_region`  
+- [has_/location_/ineligible_region :: GeoShape, Place, Text ] 
+- [ has_location_ineligible_region :: GeoShape, Place, Text ] 
 
 The ISO 3166-1 (ISO 3166-1 alpha-2) or ISO 3166-2 code, the place, or the GeoShape for the geo-political region(s) for which the offer or delivery charge specification is not valid, e.g. a region where the transaction is not allowed.
 
@@ -73,10 +43,10 @@ See also [[eligibleRegion]].
 
 Predicate describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: ActionAccessSpecification, DeliveryChargeSpecification, Demand, MediaObject, Offer  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_location_ineligible_region )
+( #has_/range :: GeoShape, Place, Text )
 
 
 ## Confidential Links & Embeds: 

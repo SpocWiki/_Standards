@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Treaty of Saint-Germain-en-Laye
+  - Treaty of Saint-Germain-en-Laye 
   - Traité de Saint-Germain-en-Laye
 has_id_wikidata: Q192924
 signatory:
@@ -22,25 +22,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/TratadoDeSaintGermainR
 subject_named_as: Friede von Saint-Germain-en-Laye
 Commons_category: Treaty of Saint-Germain
 point_in_time: 1919-09-10T00:00:00Z
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../../WikiData/WD~Treaty_of_Saint-Germain-en-Laye,192924]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Treaty_of_Saint-Germain-en-Laye|1919-Treaty_of_Saint-Germain-en-Laye]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Treaty_of_Saint-Germain-en-Laye.public|1919-Treaty_of_Saint-Germain-en-Laye.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Treaty_of_Saint-Germain-en-Laye.internal|1919-Treaty_of_Saint-Germain-en-Laye.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Treaty_of_Saint-Germain-en-Laye.protect|1919-Treaty_of_Saint-Germain-en-Laye.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Treaty_of_Saint-Germain-en-Laye.private|1919-Treaty_of_Saint-Germain-en-Laye.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Treaty_of_Saint-Germain-en-Laye.personal|1919-Treaty_of_Saint-Germain-en-Laye.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Treaty_of_Saint-Germain-en-Laye.secret|1919-Treaty_of_Saint-Germain-en-Laye.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Treaty_of_Saint-Germain-en-Laye,192924]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Treaty_of_Saint-Germain-en-Laye|1919-Treaty_of_Saint-Germain-en-Laye]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Treaty_of_Saint-Germain-en-Laye.public|1919-Treaty_of_Saint-Germain-en-Laye.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Treaty_of_Saint-Germain-en-Laye.internal|1919-Treaty_of_Saint-Germain-en-Laye.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Treaty_of_Saint-Germain-en-Laye.protect|1919-Treaty_of_Saint-Germain-en-Laye.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Treaty_of_Saint-Germain-en-Laye.private|1919-Treaty_of_Saint-Germain-en-Laye.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Treaty_of_Saint-Germain-en-Laye.personal|1919-Treaty_of_Saint-Germain-en-Laye.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Treaty_of_Saint-Germain-en-Laye.secret|1919-Treaty_of_Saint-Germain-en-Laye.secret]]"
 ---
 
 # [[1919-Treaty_of_Saint-Germain-en-Laye]] 

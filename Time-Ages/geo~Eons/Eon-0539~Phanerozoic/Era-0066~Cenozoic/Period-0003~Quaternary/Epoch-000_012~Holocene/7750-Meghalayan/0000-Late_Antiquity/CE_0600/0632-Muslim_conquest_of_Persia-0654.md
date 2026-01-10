@@ -29,25 +29,6 @@ start_time: 0633-01-01T00:00:00Z
 Commons_category: Muslim conquest of Persia
 image: http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A7%D9%84%D9%81%D8%AA%D8%AD%20%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%20%D9%84%D9%81%D8%A7%D8%B1%D8%B3.svg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Islamic%20Conquest%20of%20Persia-ar.wav
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../../WikiData/WD~Muslim_conquest_of_Persia,887684]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654|0632-Muslim_conquest_of_Persia-0654]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.public|0632-Muslim_conquest_of_Persia-0654.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.internal|0632-Muslim_conquest_of_Persia-0654.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.protect|0632-Muslim_conquest_of_Persia-0654.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.private|0632-Muslim_conquest_of_Persia-0654.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.personal|0632-Muslim_conquest_of_Persia-0654.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.secret|0632-Muslim_conquest_of_Persia-0654.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Muslim_conquest_of_Persia,887684]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654|0632-Muslim_conquest_of_Persia-0654]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.public|0632-Muslim_conquest_of_Persia-0654.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.internal|0632-Muslim_conquest_of_Persia-0654.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.protect|0632-Muslim_conquest_of_Persia-0654.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.private|0632-Muslim_conquest_of_Persia-0654.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.personal|0632-Muslim_conquest_of_Persia-0654.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0600/0632-Muslim_conquest_of_Persia-0654.secret|0632-Muslim_conquest_of_Persia-0654.secret]]"
 ---
 
 # [[0632-Muslim_conquest_of_Persia-0654]] 

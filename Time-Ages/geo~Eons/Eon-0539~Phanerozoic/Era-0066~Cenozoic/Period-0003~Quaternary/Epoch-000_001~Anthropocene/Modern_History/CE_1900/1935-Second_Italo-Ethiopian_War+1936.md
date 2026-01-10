@@ -10,17 +10,17 @@ aliases:
   - 1935-Second Italo-Ethiopian War+1936
 has_id_wikidata: Q94916
 participant:
-  - "[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]"
-  - "[[_Standards/WikiData/WD~Ethiopian_Empire,207521]]"
-location: "[[_Standards/WikiData/WD~Ethiopian_Empire,207521]]"
-different_from: "[[_Standards/WikiData/WD~Italo_Abyssinian_War,443393]]"
+  - '[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]'
+  - '[[_Standards/WikiData/WD~Ethiopian_Empire,207521]]'
+location: '[[_Standards/WikiData/WD~Ethiopian_Empire,207521]]'
+different_from: '[[_Standards/WikiData/WD~Italo_Abyssinian_War,443393]]'
 order_of_battle:
-  - "[[_Standards/WikiData/WD~Ethiopian_order_of_battle_in_the_Second_Italo_Ethiopian_War,5403639]]"
-  - "[[_Standards/WikiData/WD~Italian_Order_of_Battle_Second_Italo_Ethiopian_War,6092894]]"
+  - '[[_Standards/WikiData/WD~Ethiopian_order_of_battle_in_the_Second_Italo_Ethiopian_War,5403639]]'
+  - '[[_Standards/WikiData/WD~Italian_Order_of_Battle_Second_Italo_Ethiopian_War,6092894]]'
 number_of_deaths:
   - 20000
   - 275000
-instance_of: "[[_Standards/WikiData/WD~war,198]]"
+instance_of: '[[_Standards/WikiData/WD~war,198]]'
 number_of_injured:
   - 500000
   - 188000
@@ -36,25 +36,6 @@ Commons_category:
   - Second Italo-Ethiopian War
 image: http://commons.wikimedia.org/wiki/Special:FilePath/DC-1936-52-d.jpg
 detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Ethiopia%20War%20Map%20%28may%201936%29%20it.svg
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../WikiData/WD~Second_Italo-Ethiopian_War,94916|WD~Second_Italo-Ethiopian_War,94916]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1935-Second_Italo-Ethiopian_War+1936|1935-Second_Italo-Ethiopian_War+1936]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1935-Second_Italo-Ethiopian_War+1936.public|1935-Second_Italo-Ethiopian_War+1936.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1935-Second_Italo-Ethiopian_War+1936.internal|1935-Second_Italo-Ethiopian_War+1936.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1935-Second_Italo-Ethiopian_War+1936.protect|1935-Second_Italo-Ethiopian_War+1936.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1935-Second_Italo-Ethiopian_War+1936.private|1935-Second_Italo-Ethiopian_War+1936.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1935-Second_Italo-Ethiopian_War+1936.personal|1935-Second_Italo-Ethiopian_War+1936.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1935-Second_Italo-Ethiopian_War+1936.secret|1935-Second_Italo-Ethiopian_War+1936.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Second_Italo-Ethiopian_War,94916|WD~Second_Italo-Ethiopian_War,94916]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1935-Second_Italo-Ethiopian_War+1936|1935-Second_Italo-Ethiopian_War+1936]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1935-Second_Italo-Ethiopian_War+1936.public|1935-Second_Italo-Ethiopian_War+1936.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1935-Second_Italo-Ethiopian_War+1936.internal|1935-Second_Italo-Ethiopian_War+1936.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1935-Second_Italo-Ethiopian_War+1936.protect|1935-Second_Italo-Ethiopian_War+1936.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1935-Second_Italo-Ethiopian_War+1936.private|1935-Second_Italo-Ethiopian_War+1936.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1935-Second_Italo-Ethiopian_War+1936.personal|1935-Second_Italo-Ethiopian_War+1936.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1935-Second_Italo-Ethiopian_War+1936.secret|1935-Second_Italo-Ethiopian_War+1936.secret]]"
 ---
 
 # [[1935-Second_Italo-Ethiopian_War+1936]] 

@@ -9,72 +9,41 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - main_entity
   - main
   - entity
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_main_entity
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_main_entity
 type: Predi_Relation
-dv_has_:
-  main_entity: "[Thing](../../../Class/Thing.md)"
-  domain: CreativeWork
-dv_has_main_entity: "[Thing](../../../Class/Thing.md)"
-dv_#has_:
-  name: has_main_entity
-  range: Thing
-dv_is_:
-  inverse_of: "[[../is/is_main_entity_of_page]]"
-  sub_property_of: about
-  same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_main_entity|has_main_entity]]"
-    - "[[/_public/schema-org/Relation/has/has_main_entity.public|has_main_entity.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_main_entity.internal|has_main_entity.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_main_entity.protect|has_main_entity.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_main_entity.private|has_main_entity.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_main_entity.personal|has_main_entity.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_main_entity.secret|has_main_entity.secret]]"
-dv_has_domain: CreativeWork
-dv_has_name: has_main_entity
-dv_has_range: Thing
-dv_is_inverse_of: "[[../is/is_main_entity_of_page]]"
-dv_is_sub_property_of: about
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_main_entity|has_main_entity]]"
-  - "[[/_public/schema-org/Relation/has/has_main_entity.public|has_main_entity.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_main_entity.internal|has_main_entity.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_main_entity.protect|has_main_entity.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_main_entity.private|has_main_entity.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_main_entity.personal|has_main_entity.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_main_entity.secret|has_main_entity.secret]]"
 ---
 
 Use it like this: 
-- has_main_entity = `=this.dv_has_main_entity` (../../../Class/Thing.md) ] 
-- has_main_entity = `=this.dv_has_main_entity` (../../../Class/Thing.md) ] 
+- [has_/main_entity :: [Thing](../../../Class/Thing.md) ] 
+- [ has_main_entity :: [Thing](../../../Class/Thing.md) ] 
 
 Indicates the primary entity described in some page or other CreativeWork.
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: CreativeWork  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_main_entity )
+( #has_/range :: Thing )
 
-is_inverse_of = `=this.dv_is_inverse_of` 
+#is_/inverse_of  :: [[../is/is_main_entity_of_page]]  
 
-is_sub_property_of = `=this.dv_is_sub_property_of` 
+#is_/sub_property_of  :: about  
 
 ## Confidential Links & Embeds: 
 

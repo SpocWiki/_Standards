@@ -1,7 +1,7 @@
 ---
 aliases:
   - War_of_the_Pacific
-  - War of the Pacific
+  - War of the Pacific 
   - Guerra del Pacífico
 has_id_wikidata: Q152004
 described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
@@ -30,25 +30,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Sinking%20of%20the%20E
 Commons_gallery: Óleos de la Guerra del Pacífico
 Commons_category: War of the Pacific
 Dewey_Decimal_Classification: "983.0616"
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../WikiData/WD~War_of_the_Pacific,152004|WD~War_of_the_Pacific,152004]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879|1884-War_of_the_Pacific+1879]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.public|1884-War_of_the_Pacific+1879.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.internal|1884-War_of_the_Pacific+1879.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.protect|1884-War_of_the_Pacific+1879.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.private|1884-War_of_the_Pacific+1879.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.personal|1884-War_of_the_Pacific+1879.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.secret|1884-War_of_the_Pacific+1879.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~War_of_the_Pacific,152004|WD~War_of_the_Pacific,152004]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879|1884-War_of_the_Pacific+1879]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.public|1884-War_of_the_Pacific+1879.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.internal|1884-War_of_the_Pacific+1879.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.protect|1884-War_of_the_Pacific+1879.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.private|1884-War_of_the_Pacific+1879.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.personal|1884-War_of_the_Pacific+1879.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.secret|1884-War_of_the_Pacific+1879.secret]]"
 ---
 
 # [[1884-War_of_the_Pacific+1879]] 

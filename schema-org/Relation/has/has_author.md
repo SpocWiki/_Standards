@@ -10,66 +10,37 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - author
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_author
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_author
 type: Predi_Relation
-dv_has_:
-  author: Organization, Person
-  domain: CreativeWork, Rating, UserComments
-dv_has_author: Organization, Person
-dv_#has_:
-  name: has_author
-  range: Organization, Person
-dv_is_:
-  sub_relation_of: "[[has_creator]]"
-  same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_author|has_author]]"
-    - "[[/_public/schema-org/Relation/has/has_author.public|has_author.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_author.internal|has_author.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_author.protect|has_author.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_author.private|has_author.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_author.personal|has_author.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_author.secret|has_author.secret]]"
-dv_has_domain: CreativeWork, Rating, UserComments
-dv_has_name: has_author
-dv_has_range: Organization, Person
-dv_is_sub_relation_of: "[[has_creator]]"
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_author|has_author]]"
-  - "[[/_public/schema-org/Relation/has/has_author.public|has_author.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_author.internal|has_author.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_author.protect|has_author.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_author.private|has_author.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_author.personal|has_author.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_author.secret|has_author.secret]]"
 ---
 
 Use it like this: 
-- has_author = `=this.dv_has_author`  
-- has_author = `=this.dv_has_author`  
+- [has_/author :: Organization, Person ] 
+- [ has_author :: Organization, Person ] 
 
 The author of this content or rating. Please note that author is special in that HTML 5 provides a special mechanism for indicating authorship via the rel tag. That is equivalent to this and may be used interchangeably.
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: CreativeWork, Rating, UserComments   
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_author )
+( #has_/range :: Organization, Person )
 
-is_sub_relation_of = `=this.dv_is_sub_relation_of` 
+#is_/sub_relation_of :: [[has_creator]] 
 
 
 ## Confidential Links & Embeds: 

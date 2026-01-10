@@ -7,28 +7,28 @@ aliases:
   - 1931-Second_Spanish_Republic+1939
   - 1931-Second Spanish Republic+1939
 has_id_wikidata: Q178038
-political_ideology: "[[_Standards/WikiData/WD~anti_clericalism,478004]]"
-legislative_body: "[[_Standards/WikiData/WD~Congress_of_Deputies,539149]]"
+political_ideology: '[[_Standards/WikiData/WD~anti_clericalism,478004]]'
+legislative_body: '[[_Standards/WikiData/WD~Congress_of_Deputies,539149]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~secular_state,859563]]"
-  - "[[_Standards/WikiData/WD~historical_country,3024240]]"
-  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
-  - "[[_Standards/WikiData/WD~republic,7270]]"
-anthem: "[[_Standards/WikiData/WD~Hymn_of_Riego,992460]]"
-follows: "[[_Standards/WikiData/WD~Spain_under_the_Restoration,1044536]]"
-motto: "[[_Standards/WikiData/WD~Plus_ultra,1045726]]"
-replaced_by: "[[_Standards/WikiData/WD~Junta_de_Defensa_Nacional,1626826]]"
-flag: "[[_Standards/WikiData/WD~flag_of_the_Second_Spanish_Republic,3314598]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_the_Second_Spanish_Republic,3816809]]"
-followed_by: "[[_Standards/WikiData/WD~Francoist_Spain,13474305]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
-official_language: "[[_Standards/WikiData/WD~Spanish,1321]]"
+  - '[[_Standards/WikiData/WD~secular_state,859563]]'
+  - '[[_Standards/WikiData/WD~historical_country,3024240]]'
+  - '[[_Standards/WikiData/WD~historical_period,11514315]]'
+  - '[[_Standards/WikiData/WD~republic,7270]]'
+anthem: '[[_Standards/WikiData/WD~Hymn_of_Riego,992460]]'
+follows: '[[_Standards/WikiData/WD~Spain_under_the_Restoration,1044536]]'
+motto: '[[_Standards/WikiData/WD~Plus_ultra,1045726]]'
+replaced_by: '[[_Standards/WikiData/WD~Junta_de_Defensa_Nacional,1626826]]'
+flag: '[[_Standards/WikiData/WD~flag_of_the_Second_Spanish_Republic,3314598]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_the_Second_Spanish_Republic,3816809]]'
+followed_by: '[[_Standards/WikiData/WD~Francoist_Spain,13474305]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
+official_language: '[[_Standards/WikiData/WD~Spanish,1321]]'
 capital:
-  - "[[_Standards/WikiData/WD~Barcelona,1492]]"
-  - "[[_Standards/WikiData/WD~Madrid,2807]]"
-country: "[[_Standards/WikiData/WD~Spain,29]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
-member_of: "[[_Standards/WikiData/WD~League_of_Nations,38130]]"
+  - '[[_Standards/WikiData/WD~Barcelona,1492]]'
+  - '[[_Standards/WikiData/WD~Madrid,2807]]'
+country: '[[_Standards/WikiData/WD~Spain,29]]'
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
+member_of: '[[_Standards/WikiData/WD~League_of_Nations,38130]]'
 short_name: España
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Escudo%20de%20la%20Segunda%20Rep%C3%BAblica%20Espa%C3%B1ola.svg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Spanish%20State.png
@@ -38,25 +38,6 @@ Commons_gallery: Seconde République espagnole
 dissolved_abolished_or_demolished_date: 1939-04-01T00:00:00Z
 coordinate_location: Point(-3.5 40.2)
 inception: 1931-04-14T00:00:00Z
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../WikiData/WD~Second_Spanish_Republic,178038|WD~Second_Spanish_Republic,178038]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939|1931-Second_Spanish_Republic+1939]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939.public|1931-Second_Spanish_Republic+1939.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939.internal|1931-Second_Spanish_Republic+1939.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939.protect|1931-Second_Spanish_Republic+1939.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939.private|1931-Second_Spanish_Republic+1939.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939.personal|1931-Second_Spanish_Republic+1939.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939.secret|1931-Second_Spanish_Republic+1939.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Second_Spanish_Republic,178038|WD~Second_Spanish_Republic,178038]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939|1931-Second_Spanish_Republic+1939]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939.public|1931-Second_Spanish_Republic+1939.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939.internal|1931-Second_Spanish_Republic+1939.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939.protect|1931-Second_Spanish_Republic+1939.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939.private|1931-Second_Spanish_Republic+1939.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939.personal|1931-Second_Spanish_Republic+1939.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1931-Second_Spanish_Republic+1939.secret|1931-Second_Spanish_Republic+1939.secret]]"
 ---
 
 # [[1931-Second_Spanish_Republic+1939]] 

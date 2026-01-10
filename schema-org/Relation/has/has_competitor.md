@@ -7,66 +7,37 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - competitor
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_competitor
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_competitor
 type: Predi_Relation
-dv_has_:
-  competitor: Person, SportsTeam
-  domain: SportsEvent
-  sub_properties: "[ awayTeam, homeTeam ]"
-dv_has_competitor: Person, SportsTeam
-dv_#has_:
-  name: has_competitor
-  range: Person, SportsTeam
-dv_is_:
-  same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_competitor|has_competitor]]"
-    - "[[/_public/schema-org/Relation/has/has_competitor.public|has_competitor.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_competitor.internal|has_competitor.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_competitor.protect|has_competitor.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_competitor.private|has_competitor.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_competitor.personal|has_competitor.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_competitor.secret|has_competitor.secret]]"
-dv_has_domain: SportsEvent
-dv_has_name: has_competitor
-dv_has_range: Person, SportsTeam
-dv_has_sub_properties: "[ awayTeam, homeTeam ]"
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_competitor|has_competitor]]"
-  - "[[/_public/schema-org/Relation/has/has_competitor.public|has_competitor.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_competitor.internal|has_competitor.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_competitor.protect|has_competitor.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_competitor.private|has_competitor.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_competitor.personal|has_competitor.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_competitor.secret|has_competitor.secret]]"
 ---
 
 Use it like this: 
-- has_competitor = `=this.dv_has_competitor`  
-- has_competitor = `=this.dv_has_competitor`  
+- [has_/competitor :: Person, SportsTeam ] 
+- [ has_competitor :: Person, SportsTeam ] 
 
 A competitor in a sports event.
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: SportsEvent  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_competitor )
+( #has_/range :: Person, SportsTeam )
 
-has_sub_properties = `=this.dv_has_sub_properties` 
+#has_/sub_properties :: [ awayTeam, homeTeam ]  
 
 ## Confidential Links & Embeds: 
 

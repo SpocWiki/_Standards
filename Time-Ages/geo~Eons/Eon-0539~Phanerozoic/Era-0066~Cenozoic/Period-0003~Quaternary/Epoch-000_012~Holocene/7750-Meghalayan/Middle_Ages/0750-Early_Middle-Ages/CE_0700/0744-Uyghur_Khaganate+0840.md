@@ -20,25 +20,6 @@ inception: 0744-01-01T00:00:00Z
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20the%20Uyghur%20Khaganate.png
 dissolved_abolished_or_demolished_date: 0840-01-01T00:00:00Z
 Commons_category: Uyghur Khaganate
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../../../WikiData/WD~Uyghur_Khaganate,831218|WD~Uyghur_Khaganate,831218]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0744-Uyghur_Khaganate+0840|0744-Uyghur_Khaganate+0840]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0744-Uyghur_Khaganate+0840.public|0744-Uyghur_Khaganate+0840.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0744-Uyghur_Khaganate+0840.internal|0744-Uyghur_Khaganate+0840.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0744-Uyghur_Khaganate+0840.protect|0744-Uyghur_Khaganate+0840.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0744-Uyghur_Khaganate+0840.private|0744-Uyghur_Khaganate+0840.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0744-Uyghur_Khaganate+0840.personal|0744-Uyghur_Khaganate+0840.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0744-Uyghur_Khaganate+0840.secret|0744-Uyghur_Khaganate+0840.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../../../WikiData/WD~Uyghur_Khaganate,831218|WD~Uyghur_Khaganate,831218]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0744-Uyghur_Khaganate+0840|0744-Uyghur_Khaganate+0840]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0744-Uyghur_Khaganate+0840.public|0744-Uyghur_Khaganate+0840.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0744-Uyghur_Khaganate+0840.internal|0744-Uyghur_Khaganate+0840.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0744-Uyghur_Khaganate+0840.protect|0744-Uyghur_Khaganate+0840.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0744-Uyghur_Khaganate+0840.private|0744-Uyghur_Khaganate+0840.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0744-Uyghur_Khaganate+0840.personal|0744-Uyghur_Khaganate+0840.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0744-Uyghur_Khaganate+0840.secret|0744-Uyghur_Khaganate+0840.secret]]"
 ---
 
 # [[0744-Uyghur_Khaganate+0840]] 

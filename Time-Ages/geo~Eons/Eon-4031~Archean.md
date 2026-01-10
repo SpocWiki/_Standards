@@ -41,89 +41,6 @@ said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q11039569,11039569]]"
 sRGB_color_hex_triplet: F0047F
 start_time: -4031000000
 topic_s_main_template: "[[_Standards/WikiData/WD~Q100870042,100870042]]"
-dv_has_:
-  time_:
-    started: "-4.031e9"
-    stopped: "-2.500e9"
-  duration_:
-    years: "1.531e+9"
-  previous_:
-    item: "[[Eon-4567~Hadean]]"
-  next_:
-    item: "[[Eon-2500~Proterozoic]]"
-  name_:
-    bg: прхай
-    cs: Archaikum
-    da: Arkæisk
-    de: Archaikum
-    en-GB: Archaean
-    en-US: Archean
-    es: Arcaico
-    et: Arhaikum
-    fi: Arkeikum
-    fr: Archéen
-    hu: archaikum
-    it: archeano
-    ja: 始生代
-    lt: Archejus
-    nl: Archaïcum
-    no: Arkeikum
-    pl: Archaik
-    pt: Arcaico
-    sk: archaikum, prahory
-    sl: arhaik
-    sv: arkeikum
-    zh: 太古宙
-  abbreviation: AR
-  text_of_:
-    color: "0xF0047F"
-dv_is_:
-  same_as:
-    - "[[WD~Archean,104168]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-4031~Archean|Eon-4031~Archean]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-4031~Archean.public|Eon-4031~Archean.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-4031~Archean.internal|Eon-4031~Archean.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-4031~Archean.protect|Eon-4031~Archean.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-4031~Archean.private|Eon-4031~Archean.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-4031~Archean.personal|Eon-4031~Archean.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-4031~Archean.secret|Eon-4031~Archean.secret]]"
-dv_has_time_stopped: "-2.500e9"
-dv_has_duration_years: "1.531e+9"
-dv_has_previous_item: "[[Eon-4567~Hadean]]"
-dv_has_next_item: "[[Eon-2500~Proterozoic]]"
-dv_is_same_as:
-  - "[[WD~Archean,104168]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-4031~Archean|Eon-4031~Archean]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-4031~Archean.public|Eon-4031~Archean.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-4031~Archean.internal|Eon-4031~Archean.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-4031~Archean.protect|Eon-4031~Archean.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-4031~Archean.private|Eon-4031~Archean.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-4031~Archean.personal|Eon-4031~Archean.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-4031~Archean.secret|Eon-4031~Archean.secret]]"
-dv_has_name_bg: прхай
-dv_has_name_cs: Archaikum
-dv_has_name_da: Arkæisk
-dv_has_name_de: Archaikum
-dv_has_name_en-gb: Archaean
-dv_has_name_en-us: Archean
-dv_has_name_es: Arcaico
-dv_has_name_et: Arhaikum
-dv_has_name_fi: Arkeikum
-dv_has_name_fr: Archéen
-dv_has_name_hu: archaikum
-dv_has_name_it: archeano
-dv_has_name_ja: 始生代
-dv_has_name_lt: Archejus
-dv_has_name_nl: Archaïcum
-dv_has_name_no: Arkeikum
-dv_has_name_pl: Archaik
-dv_has_name_pt: Arcaico
-dv_has_name_sk: archaikum, prahory
-dv_has_name_sl: arhaik
-dv_has_name_sv: arkeikum
-dv_has_name_zh: 太古宙
-dv_has_abbreviation: AR
-dv_has_text_of_color: "0xF0047F"
 ---
 
 # [[Eon-4031~Archean]] 
@@ -133,12 +50,12 @@ dv_has_text_of_color: "0xF0047F"
 A time period from 4031 to 2500 million years ago.
 
 #has_/time_/started :: -4.031e9 
-has_time_stopped = `=this.dv_has_time_stopped` 
+#has_/time_/stopped :: -2.500e9 
 
-#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-has_previous_item = `=this.dv_has_previous_item` 
-has_next_item = `=this.dv_has_next_item` 
+#has_/previous_/item :: [[Eon-4567~Hadean]]    
+#has_/next_/item :: [[Eon-2500~Proterozoic]]    
 #is_/same_as :: [[WD~Archean,104168]] 
 
 ## #has_/text_of_/abstract 
@@ -156,32 +73,32 @@ has_next_item = `=this.dv_has_next_item`
 > [Wikipedia](https://en.wikipedia.org/wiki/Archean) 
 
 
-has_name_bg = `=this.dv_has_name_bg` 
-has_name_cs = `=this.dv_has_name_cs` 
-has_name_da = `=this.dv_has_name_da` 
-has_name_de = `=this.dv_has_name_de` 
-has_name_en-gb = `=this.dv_has_name_en-gb` 
-has_name_en-us = `=this.dv_has_name_en-us` 
-has_name_es = `=this.dv_has_name_es` 
-has_name_et = `=this.dv_has_name_et` 
-has_name_fi = `=this.dv_has_name_fi` 
-has_name_fr = `=this.dv_has_name_fr` 
-has_name_hu = `=this.dv_has_name_hu` 
-has_name_it = `=this.dv_has_name_it` 
-has_name_ja = `=this.dv_has_name_ja` 
-has_name_lt = `=this.dv_has_name_lt` 
-has_name_nl = `=this.dv_has_name_nl` 
-has_name_no = `=this.dv_has_name_no` 
-has_name_pl = `=this.dv_has_name_pl` 
-has_name_pt = `=this.dv_has_name_pt` 
-has_name_sk = `=this.dv_has_name_sk` 
-has_name_sl = `=this.dv_has_name_sl` 
-has_name_sv = `=this.dv_has_name_sv` 
-has_name_zh = `=this.dv_has_name_zh` 
+#has_/name_/bg  :: прхай
+#has_/name_/cs  :: Archaikum
+#has_/name_/da  :: Arkæisk
+#has_/name_/de  :: Archaikum
+#has_/name_/en-GB  :: Archaean
+#has_/name_/en-US  :: Archean
+#has_/name_/es  :: Arcaico
+#has_/name_/et  :: Arhaikum
+#has_/name_/fi  :: Arkeikum
+#has_/name_/fr  :: Archéen
+#has_/name_/hu  :: archaikum
+#has_/name_/it  :: archeano
+#has_/name_/ja  :: 始生代
+#has_/name_/lt  :: Archejus
+#has_/name_/nl  :: Archaïcum
+#has_/name_/no  :: Arkeikum
+#has_/name_/pl  :: Archaik
+#has_/name_/pt  :: Arcaico
+#has_/name_/sk  :: archaikum, prahory
+#has_/name_/sl  :: arhaik
+#has_/name_/sv  :: arkeikum
+#has_/name_/zh  :: 太古宙
 
-has_abbreviation = `=this.dv_has_abbreviation` 
+#has_/abbreviation :: AR
 
-has_text_of_color = `=this.dv_has_text_of_color` 
+#has_/text_of_/color :: 0xF0047F
 
 There are 2 wikidata IDs, one for the geologic Archean and one for the common Eon 
 

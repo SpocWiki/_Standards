@@ -9,7 +9,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -18,61 +18,32 @@ keywords:
   - category
   - energy_efficiency_category
   - energyEfficiencyCategory
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_energy_efficiency_category
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_energy_efficiency_category
 type: Predi_Relation
-dv_has_:
-  energy_efficiency_category: EnergyEfficiencyEnumeration
-  domain: EnergyConsumptionDetails
-dv_has_energy_efficiency_category: EnergyEfficiencyEnumeration
-dv_is_:
-  part_of: "pending:"
-  same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_energy_efficiency_category|has_energy_efficiency_category]]"
-    - "[[/_public/schema-org/Relation/has/has_energy_efficiency_category.public|has_energy_efficiency_category.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_energy_efficiency_category.internal|has_energy_efficiency_category.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_energy_efficiency_category.protect|has_energy_efficiency_category.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_energy_efficiency_category.private|has_energy_efficiency_category.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_energy_efficiency_category.personal|has_energy_efficiency_category.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_energy_efficiency_category.secret|has_energy_efficiency_category.secret]]"
-dv_#has_:
-  name: has_energy_efficiency_category
-  range: EnergyEfficiencyEnumeration
-dv_is_part_of: "pending:"
-dv_has_domain: EnergyConsumptionDetails
-dv_has_name: has_energy_efficiency_category
-dv_has_range: EnergyEfficiencyEnumeration
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_energy_efficiency_category|has_energy_efficiency_category]]"
-  - "[[/_public/schema-org/Relation/has/has_energy_efficiency_category.public|has_energy_efficiency_category.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_energy_efficiency_category.internal|has_energy_efficiency_category.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_energy_efficiency_category.protect|has_energy_efficiency_category.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_energy_efficiency_category.private|has_energy_efficiency_category.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_energy_efficiency_category.personal|has_energy_efficiency_category.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_energy_efficiency_category.secret|has_energy_efficiency_category.secret]]"
 ---
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use it like this: 
-- has_energy_efficiency_category = `=this.dv_has_energy_efficiency_category`  
-- has_energy_efficiency_category = `=this.dv_has_energy_efficiency_category`  
+- [has_/energy_efficiency_category :: EnergyEfficiencyEnumeration ] 
+- [ has_energy_efficiency_category :: EnergyEfficiencyEnumeration ] 
 
 Defines the energy efficiency Category (which could be either a rating out of range of values or a yes/no certification) for a product according to an international energy efficiency standard.
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: EnergyConsumptionDetails  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_energy_efficiency_category )
+( #has_/range :: EnergyEfficiencyEnumeration )
 
 
 ## Confidential Links & Embeds: 

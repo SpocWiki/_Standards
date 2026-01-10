@@ -18,86 +18,6 @@ described_at_URL: https://popups.uliege.be/1374-8505/index.php?id=1101
 sRGB_color_hex_triplet: FEAE7D
 start_time: -56000000-01-01T00:00:00Z
 end_time: -47800000-01-01T00:00:00Z
-dv_has_:
-  duration_:
-    years: "8.200e+6"
-  previous_:
-    item: "[[../Epoch-066~Paleocene/Age~3~Thanetian|Age~3~Thanetian]]"
-  next_:
-    item: "[[Age~2~Lutetian]]"
-  name_:
-    bg: Ипреѿ
-    cs: Ypres
-    da: Ypresien
-    de: Ypersium
-    es: Ypresiense
-    et: Ypresi
-    fi: Ypres
-    fr: Yprésien
-    hu: ypresi
-    it: ypresiano
-    ja: イプレシアン期
-    lt: Ypris
-    nl: Ypresiën
-    no: Ypres
-    pl: Ipr
-    pt: Ipresiano
-    sk: ypres
-    sl: ypresij
-    sv: ypres
-    zh: 伊普雷斯期
-  abbreviation: e4
-  time_:
-    started: "-56.0e6"
-    stopped: "-47.8e6"
-  text_of_:
-    color: "0xFCA773"
-dv_is_:
-  same_as:
-    - "[[WD~Ypresian,508691]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~1~Ypresian|Age~1~Ypresian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~1~Ypresian.public|Age~1~Ypresian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~1~Ypresian.internal|Age~1~Ypresian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~1~Ypresian.protect|Age~1~Ypresian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~1~Ypresian.private|Age~1~Ypresian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~1~Ypresian.personal|Age~1~Ypresian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~1~Ypresian.secret|Age~1~Ypresian.secret]]"
-dv_has_duration_years: "8.200e+6"
-dv_has_previous_item: "[[../Epoch-066~Paleocene/Age~3~Thanetian|Age~3~Thanetian]]"
-dv_has_next_item: "[[Age~2~Lutetian]]"
-dv_is_same_as:
-  - "[[WD~Ypresian,508691]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~1~Ypresian|Age~1~Ypresian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~1~Ypresian.public|Age~1~Ypresian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~1~Ypresian.internal|Age~1~Ypresian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~1~Ypresian.protect|Age~1~Ypresian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~1~Ypresian.private|Age~1~Ypresian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~1~Ypresian.personal|Age~1~Ypresian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~1~Ypresian.secret|Age~1~Ypresian.secret]]"
-dv_has_name_bg: Ипреѿ
-dv_has_name_cs: Ypres
-dv_has_name_da: Ypresien
-dv_has_name_de: Ypersium
-dv_has_name_es: Ypresiense
-dv_has_name_et: Ypresi
-dv_has_name_fi: Ypres
-dv_has_name_fr: Yprésien
-dv_has_name_hu: ypresi
-dv_has_name_it: ypresiano
-dv_has_name_ja: イプレシアン期
-dv_has_name_lt: Ypris
-dv_has_name_nl: Ypresiën
-dv_has_name_no: Ypres
-dv_has_name_pl: Ipr
-dv_has_name_pt: Ipresiano
-dv_has_name_sk: ypres
-dv_has_name_sl: ypresij
-dv_has_name_sv: ypres
-dv_has_name_zh: 伊普雷斯期
-dv_has_abbreviation: e4
-dv_has_time_started: "-56.0e6"
-dv_has_time_stopped: "-47.8e6"
-dv_has_text_of_color: "0xFCA773"
 ---
 # [[Age~1~Ypresian]] 
 
@@ -105,10 +25,10 @@ dv_has_text_of_color: "0xFCA773"
 
 A time period from 56.0 to 47.8 million years ago. 
 
-#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-has_previous_item = `=this.dv_has_previous_item` 
-has_next_item = `=this.dv_has_next_item` 
+#has_/previous_/item :: [[../Epoch-066~Paleocene/Age~3~Thanetian|Age~3~Thanetian]] 
+#has_/next_/item :: [[Age~2~Lutetian]] 
 #is_/same_as :: [[WD~Ypresian,508691]] 
 
 ## #has_/text_of_/abstract 
@@ -118,35 +38,35 @@ has_next_item = `=this.dv_has_next_item`
 > [Wikipedia](https://en.wikipedia.org/wiki/Ypresian) 
 
 
-has_name_bg = `=this.dv_has_name_bg` 
-has_name_cs = `=this.dv_has_name_cs` 
-has_name_da = `=this.dv_has_name_da` 
-has_name_de = `=this.dv_has_name_de` 
-has_name_es = `=this.dv_has_name_es` 
-has_name_et = `=this.dv_has_name_et` 
-has_name_fi = `=this.dv_has_name_fi` 
-has_name_fr = `=this.dv_has_name_fr` 
-has_name_hu = `=this.dv_has_name_hu` 
-has_name_it = `=this.dv_has_name_it` 
-has_name_ja = `=this.dv_has_name_ja` 
-has_name_lt = `=this.dv_has_name_lt` 
-has_name_nl = `=this.dv_has_name_nl` 
-has_name_no = `=this.dv_has_name_no` 
-has_name_pl = `=this.dv_has_name_pl` 
-has_name_pt = `=this.dv_has_name_pt` 
-has_name_sk = `=this.dv_has_name_sk` 
-has_name_sl = `=this.dv_has_name_sl` 
-has_name_sv = `=this.dv_has_name_sv` 
-has_name_zh = `=this.dv_has_name_zh` 
+#has_/name_/bg  :: Ипреѿ
+#has_/name_/cs  :: Ypres
+#has_/name_/da  :: Ypresien
+#has_/name_/de  :: Ypersium
+#has_/name_/es  :: Ypresiense
+#has_/name_/et  :: Ypresi
+#has_/name_/fi  :: Ypres
+#has_/name_/fr  :: Yprésien
+#has_/name_/hu  :: ypresi
+#has_/name_/it  :: ypresiano
+#has_/name_/ja  :: イプレシアン期
+#has_/name_/lt  :: Ypris
+#has_/name_/nl  :: Ypresiën
+#has_/name_/no  :: Ypres
+#has_/name_/pl  :: Ipr
+#has_/name_/pt  :: Ipresiano
+#has_/name_/sk  :: ypres
+#has_/name_/sl  :: ypresij
+#has_/name_/sv  :: ypres
+#has_/name_/zh  :: 伊普雷斯期
 
-has_abbreviation = `=this.dv_has_abbreviation` 
+#has_/abbreviation :: e4
 
-has_time_started = `=this.dv_has_time_started` 
-has_time_stopped = `=this.dv_has_time_stopped` 
+#has_/time_/started :: -56.0e6 
+#has_/time_/stopped :: -47.8e6 
 
     sh:order 29 
 
-has_text_of_color = `=this.dv_has_text_of_color` 
+#has_/text_of_/color :: 0xFCA773
 
 ## All Contents
 

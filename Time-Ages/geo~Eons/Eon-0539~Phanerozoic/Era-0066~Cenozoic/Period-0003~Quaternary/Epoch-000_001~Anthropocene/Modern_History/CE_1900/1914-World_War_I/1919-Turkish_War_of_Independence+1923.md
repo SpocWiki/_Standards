@@ -31,25 +31,6 @@ Commons_category: Turkish War of Independence
 end_time: 1923-07-24T00:00:00Z
 point_in_time: 1922-10-11T00:00:00Z
 start_time: 1919-05-19T00:00:00Z
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../../WikiData/WD~Turkish_War_of_Independence,234738|WD~Turkish_War_of_Independence,234738]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Turkish_War_of_Independence+1923|1919-Turkish_War_of_Independence+1923]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Turkish_War_of_Independence+1923.public|1919-Turkish_War_of_Independence+1923.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Turkish_War_of_Independence+1923.internal|1919-Turkish_War_of_Independence+1923.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Turkish_War_of_Independence+1923.protect|1919-Turkish_War_of_Independence+1923.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Turkish_War_of_Independence+1923.private|1919-Turkish_War_of_Independence+1923.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Turkish_War_of_Independence+1923.personal|1919-Turkish_War_of_Independence+1923.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Turkish_War_of_Independence+1923.secret|1919-Turkish_War_of_Independence+1923.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Turkish_War_of_Independence,234738|WD~Turkish_War_of_Independence,234738]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Turkish_War_of_Independence+1923|1919-Turkish_War_of_Independence+1923]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Turkish_War_of_Independence+1923.public|1919-Turkish_War_of_Independence+1923.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Turkish_War_of_Independence+1923.internal|1919-Turkish_War_of_Independence+1923.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Turkish_War_of_Independence+1923.protect|1919-Turkish_War_of_Independence+1923.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Turkish_War_of_Independence+1923.private|1919-Turkish_War_of_Independence+1923.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Turkish_War_of_Independence+1923.personal|1919-Turkish_War_of_Independence+1923.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1919-Turkish_War_of_Independence+1923.secret|1919-Turkish_War_of_Independence+1923.secret]]"
 ---
 
 # [[1919-Turkish_War_of_Independence+1923]] 

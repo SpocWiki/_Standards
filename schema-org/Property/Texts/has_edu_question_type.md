@@ -11,71 +11,41 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - edu
   - question
   - type
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_edu_question_type
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_edu_question_type
 type: Pred_Text
-dv_has_:
-  text_of_:
-    edu_question_type: Text
-  domain: Question, SolveMathAction
-dv_has_text_of_edu_question_type: Text
-dv_is_:
-  part_of: "pending:"
-  same_as:
-    - "[[/_Standards/schema-org/Property/Texts/has_edu_question_type|has_edu_question_type]]"
-    - "[[/_public/schema-org/Property/Texts/has_edu_question_type.public|has_edu_question_type.public]]"
-    - "[[/_internal/schema-org/Property/Texts/has_edu_question_type.internal|has_edu_question_type.internal]]"
-    - "[[/_protect/schema-org/Property/Texts/has_edu_question_type.protect|has_edu_question_type.protect]]"
-    - "[[/_private/schema-org/Property/Texts/has_edu_question_type.private|has_edu_question_type.private]]"
-    - "[[/_personal/schema-org/Property/Texts/has_edu_question_type.personal|has_edu_question_type.personal]]"
-    - "[[/_secret/schema-org/Property/Texts/has_edu_question_type.secret|has_edu_question_type.secret]]"
-dv_#has_:
-  name: has_text_of_edu_question_type
-  range: Text
-dv_is_part_of: "pending:"
-dv_has_domain: Question, SolveMathAction
-dv_has_name: has_text_of_edu_question_type
-dv_has_range: Text
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_edu_question_type|has_edu_question_type]]"
-  - "[[/_public/schema-org/Property/Texts/has_edu_question_type.public|has_edu_question_type.public]]"
-  - "[[/_internal/schema-org/Property/Texts/has_edu_question_type.internal|has_edu_question_type.internal]]"
-  - "[[/_protect/schema-org/Property/Texts/has_edu_question_type.protect|has_edu_question_type.protect]]"
-  - "[[/_private/schema-org/Property/Texts/has_edu_question_type.private|has_edu_question_type.private]]"
-  - "[[/_personal/schema-org/Property/Texts/has_edu_question_type.personal|has_edu_question_type.personal]]"
-  - "[[/_secret/schema-org/Property/Texts/has_edu_question_type.secret|has_edu_question_type.secret]]"
 ---
 
 Predicate to describe the Text of Question, SolveMathAction.
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use it like this: 
-- has_text_of_edu_question_type = `=this.dv_has_text_of_edu_question_type`  
-- has_text_of_edu_question_type = `=this.dv_has_text_of_edu_question_type`  
+- [has_/text_of_/edu_question_type :: Text ] 
+- [ has_text_of_edu_question_type :: Text ] 
 
 For questions that are part of learning resources (e.g. Quiz), eduQuestionType indicates the format of question being given. Example: "Multiple choice", "Open ended", "Flashcard".
 
 Predicated describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: Question, SolveMathAction  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_text_of_edu_question_type )
+( #has_/range :: Text )
 
 
 ## Confidential Links & Embeds: 

@@ -10,63 +10,36 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - connected
   - to
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_connected_to
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: is_connected_to
 type: Predi_Relation
-dv_is_:
-  connected_to: AnatomicalStructure
-  same_as:
-    - "[[/_Standards/schema-org/Relation/is/is_connected_to|is_connected_to]]"
-    - "[[/_public/schema-org/Relation/is/is_connected_to.public|is_connected_to.public]]"
-    - "[[/_internal/schema-org/Relation/is/is_connected_to.internal|is_connected_to.internal]]"
-    - "[[/_protect/schema-org/Relation/is/is_connected_to.protect|is_connected_to.protect]]"
-    - "[[/_private/schema-org/Relation/is/is_connected_to.private|is_connected_to.private]]"
-    - "[[/_personal/schema-org/Relation/is/is_connected_to.personal|is_connected_to.personal]]"
-    - "[[/_secret/schema-org/Relation/is/is_connected_to.secret|is_connected_to.secret]]"
-dv_is_connected_to: AnatomicalStructure
-dv_has_:
-  domain: AnatomicalStructure
-dv_#has_:
-  name: is_connected_to
-  range: AnatomicalStructure
-dv_has_domain: AnatomicalStructure
-dv_has_name: is_connected_to
-dv_has_range: AnatomicalStructure
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/is/is_connected_to|is_connected_to]]"
-  - "[[/_public/schema-org/Relation/is/is_connected_to.public|is_connected_to.public]]"
-  - "[[/_internal/schema-org/Relation/is/is_connected_to.internal|is_connected_to.internal]]"
-  - "[[/_protect/schema-org/Relation/is/is_connected_to.protect|is_connected_to.protect]]"
-  - "[[/_private/schema-org/Relation/is/is_connected_to.private|is_connected_to.private]]"
-  - "[[/_personal/schema-org/Relation/is/is_connected_to.personal|is_connected_to.personal]]"
-  - "[[/_secret/schema-org/Relation/is/is_connected_to.secret|is_connected_to.secret]]"
 ---
 
 Use it like this: 
-- is_connected_to = `=this.dv_is_connected_to`  
-- is_connected_to = `=this.dv_is_connected_to`  
+- [is_/connected_to :: AnatomicalStructure ] 
+- [ is_connected_to :: AnatomicalStructure ] 
 
 Other anatomical structures to which this structure is connected.
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: AnatomicalStructure  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: is_connected_to )
+( #has_/range :: AnatomicalStructure )
 
 
 ## Confidential Links & Embeds: 

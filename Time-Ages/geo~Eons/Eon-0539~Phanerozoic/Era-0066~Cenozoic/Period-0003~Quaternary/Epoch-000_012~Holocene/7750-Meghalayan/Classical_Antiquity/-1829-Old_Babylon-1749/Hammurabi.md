@@ -42,25 +42,6 @@ Commons_gallery: Hammurabi
 Commons_category: Hammurabi
 image: http://commons.wikimedia.org/wiki/Special:FilePath/F0182%20Louvre%20Code%20Hammourabi%20Bas-relief%20Sb8%20rwk.jpg
 ISNI: 000000038779161X
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../../WikiData/WD~Hammurabi,36359]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749/Hammurabi|Hammurabi]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749/Hammurabi.public|Hammurabi.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749/Hammurabi.internal|Hammurabi.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749/Hammurabi.protect|Hammurabi.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749/Hammurabi.private|Hammurabi.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749/Hammurabi.personal|Hammurabi.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749/Hammurabi.secret|Hammurabi.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Hammurabi,36359]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749/Hammurabi|Hammurabi]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749/Hammurabi.public|Hammurabi.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749/Hammurabi.internal|Hammurabi.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749/Hammurabi.protect|Hammurabi.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749/Hammurabi.private|Hammurabi.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749/Hammurabi.personal|Hammurabi.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749/Hammurabi.secret|Hammurabi.secret]]"
 ---
 
 # [[Hammurabi]] 

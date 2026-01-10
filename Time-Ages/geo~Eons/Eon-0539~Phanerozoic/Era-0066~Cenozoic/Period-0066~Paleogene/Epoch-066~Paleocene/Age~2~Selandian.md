@@ -16,86 +16,6 @@ named_after: "[[_Standards/WikiData/WD~Zealand,25535]]"
 end_time: -59200000-01-01T00:00:00Z
 Commons_category: Selandian
 sRGB_color_hex_triplet: FEC274
-dv_has_:
-  duration_:
-    years: "2.400e+6"
-  previous_:
-    item: "[[Age~1~Danian]]"
-  next_:
-    item: "[[Age~3~Thanetian]]"
-  name_:
-    bg: Селанд
-    cs: Seland
-    da: Selandien
-    de: Selandium
-    es: Selandiense
-    et: Selandi
-    fi: Seland
-    fr: Sélandien
-    hu: selandi
-    it: selandiano
-    ja: セランディアン期
-    lt: Selandis
-    nl: Selandiën
-    no: Selandium
-    pl: Zeland
-    pt: Selandiano
-    sk: seland
-    sl: selandij
-    sv: seland
-    zh: 塞兰特期
-  abbreviation: e2
-  time_:
-    started: "-61.6e6"
-    stopped: "-59.2e6"
-  text_of_:
-    color: "0xFEBF65"
-dv_is_:
-  same_as:
-    - "[[WD~Selandian,503349]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian|Age~2~Selandian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian.public|Age~2~Selandian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian.internal|Age~2~Selandian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian.protect|Age~2~Selandian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian.private|Age~2~Selandian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian.personal|Age~2~Selandian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian.secret|Age~2~Selandian.secret]]"
-dv_has_duration_years: "2.400e+6"
-dv_has_previous_item: "[[Age~1~Danian]]"
-dv_has_next_item: "[[Age~3~Thanetian]]"
-dv_is_same_as:
-  - "[[WD~Selandian,503349]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian|Age~2~Selandian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian.public|Age~2~Selandian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian.internal|Age~2~Selandian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian.protect|Age~2~Selandian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian.private|Age~2~Selandian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian.personal|Age~2~Selandian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~2~Selandian.secret|Age~2~Selandian.secret]]"
-dv_has_name_bg: Селанд
-dv_has_name_cs: Seland
-dv_has_name_da: Selandien
-dv_has_name_de: Selandium
-dv_has_name_es: Selandiense
-dv_has_name_et: Selandi
-dv_has_name_fi: Seland
-dv_has_name_fr: Sélandien
-dv_has_name_hu: selandi
-dv_has_name_it: selandiano
-dv_has_name_ja: セランディアン期
-dv_has_name_lt: Selandis
-dv_has_name_nl: Selandiën
-dv_has_name_no: Selandium
-dv_has_name_pl: Zeland
-dv_has_name_pt: Selandiano
-dv_has_name_sk: seland
-dv_has_name_sl: selandij
-dv_has_name_sv: seland
-dv_has_name_zh: 塞兰特期
-dv_has_abbreviation: e2
-dv_has_time_started: "-61.6e6"
-dv_has_time_stopped: "-59.2e6"
-dv_has_text_of_color: "0xFEBF65"
 ---
 # [[Age~2~Selandian]] 
 
@@ -103,10 +23,10 @@ dv_has_text_of_color: "0xFEBF65"
 
 A time period from 61.6 to 59.2 million years ago. 
 
-#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-has_previous_item = `=this.dv_has_previous_item` 
-has_next_item = `=this.dv_has_next_item` 
+#has_/previous_/item :: [[Age~1~Danian]] 
+#has_/next_/item :: [[Age~3~Thanetian]] 
 #is_/same_as :: [[WD~Selandian,503349]] 
 
 ![[../../../../../../../xLarge/Earth/Geology/Earth-060_Ma_(Selandian_Age).png]] 
@@ -118,35 +38,35 @@ has_next_item = `=this.dv_has_next_item`
 > [Wikipedia](https://en.wikipedia.org/wiki/Selandian) 
 
 
-has_name_bg = `=this.dv_has_name_bg` 
-has_name_cs = `=this.dv_has_name_cs` 
-has_name_da = `=this.dv_has_name_da` 
-has_name_de = `=this.dv_has_name_de` 
-has_name_es = `=this.dv_has_name_es` 
-has_name_et = `=this.dv_has_name_et` 
-has_name_fi = `=this.dv_has_name_fi` 
-has_name_fr = `=this.dv_has_name_fr` 
-has_name_hu = `=this.dv_has_name_hu` 
-has_name_it = `=this.dv_has_name_it` 
-has_name_ja = `=this.dv_has_name_ja` 
-has_name_lt = `=this.dv_has_name_lt` 
-has_name_nl = `=this.dv_has_name_nl` 
-has_name_no = `=this.dv_has_name_no` 
-has_name_pl = `=this.dv_has_name_pl` 
-has_name_pt = `=this.dv_has_name_pt` 
-has_name_sk = `=this.dv_has_name_sk` 
-has_name_sl = `=this.dv_has_name_sl` 
-has_name_sv = `=this.dv_has_name_sv` 
-has_name_zh = `=this.dv_has_name_zh` 
+#has_/name_/bg  :: Селанд
+#has_/name_/cs  :: Seland
+#has_/name_/da  :: Selandien
+#has_/name_/de  :: Selandium
+#has_/name_/es  :: Selandiense
+#has_/name_/et  :: Selandi
+#has_/name_/fi  :: Seland
+#has_/name_/fr  :: Sélandien
+#has_/name_/hu  :: selandi
+#has_/name_/it  :: selandiano
+#has_/name_/ja  :: セランディアン期
+#has_/name_/lt  :: Selandis
+#has_/name_/nl  :: Selandiën
+#has_/name_/no  :: Selandium
+#has_/name_/pl  :: Zeland
+#has_/name_/pt  :: Selandiano
+#has_/name_/sk  :: seland
+#has_/name_/sl  :: selandij
+#has_/name_/sv  :: seland
+#has_/name_/zh  :: 塞兰特期
 
-has_abbreviation = `=this.dv_has_abbreviation` 
+#has_/abbreviation :: e2
 
-has_time_started = `=this.dv_has_time_started` 
-has_time_stopped = `=this.dv_has_time_stopped` 
+#has_/time_/started :: -61.6e6 
+#has_/time_/stopped :: -59.2e6 
 
     sh:order 31 
 
-has_text_of_color = `=this.dv_has_text_of_color` 
+#has_/text_of_/color :: 0xFEBF65
 
 ## All Contents
 

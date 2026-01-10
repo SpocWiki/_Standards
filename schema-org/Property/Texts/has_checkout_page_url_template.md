@@ -11,7 +11,7 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -19,64 +19,34 @@ keywords:
   - page
   - url
   - template
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_checkout_page_url_template
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_checkout_page_url_template
 type: Pred_Text
-dv_has_:
-  text_of_:
-    checkout_page_url_template: Text
-  domain: Offer
-dv_has_text_of_checkout_page_url_template: Text
-dv_is_:
-  part_of: "pending:"
-  same_as:
-    - "[[/_Standards/schema-org/Property/Texts/has_checkout_page_url_template|has_checkout_page_url_template]]"
-    - "[[/_public/schema-org/Property/Texts/has_checkout_page_url_template.public|has_checkout_page_url_template.public]]"
-    - "[[/_internal/schema-org/Property/Texts/has_checkout_page_url_template.internal|has_checkout_page_url_template.internal]]"
-    - "[[/_protect/schema-org/Property/Texts/has_checkout_page_url_template.protect|has_checkout_page_url_template.protect]]"
-    - "[[/_private/schema-org/Property/Texts/has_checkout_page_url_template.private|has_checkout_page_url_template.private]]"
-    - "[[/_personal/schema-org/Property/Texts/has_checkout_page_url_template.personal|has_checkout_page_url_template.personal]]"
-    - "[[/_secret/schema-org/Property/Texts/has_checkout_page_url_template.secret|has_checkout_page_url_template.secret]]"
-dv_#has_:
-  name: has_text_of_checkout_page_url_template
-  range: Text
-dv_is_part_of: "pending:"
-dv_has_domain: Offer
-dv_has_name: has_text_of_checkout_page_url_template
-dv_has_range: Text
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_checkout_page_url_template|has_checkout_page_url_template]]"
-  - "[[/_public/schema-org/Property/Texts/has_checkout_page_url_template.public|has_checkout_page_url_template.public]]"
-  - "[[/_internal/schema-org/Property/Texts/has_checkout_page_url_template.internal|has_checkout_page_url_template.internal]]"
-  - "[[/_protect/schema-org/Property/Texts/has_checkout_page_url_template.protect|has_checkout_page_url_template.protect]]"
-  - "[[/_private/schema-org/Property/Texts/has_checkout_page_url_template.private|has_checkout_page_url_template.private]]"
-  - "[[/_personal/schema-org/Property/Texts/has_checkout_page_url_template.personal|has_checkout_page_url_template.personal]]"
-  - "[[/_secret/schema-org/Property/Texts/has_checkout_page_url_template.secret|has_checkout_page_url_template.secret]]"
 ---
 
 Predicate to describe the Text of Offer.
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use it like this: 
-- has_text_of_checkout_page_url_template = `=this.dv_has_text_of_checkout_page_url_template`  
-- has_text_of_checkout_page_url_template = `=this.dv_has_text_of_checkout_page_url_template`  
+- [has_/text_of_/checkout_page_url_template :: Text ] 
+- [ has_text_of_checkout_page_url_template :: Text ] 
 
 A URL template (RFC 6570) for a checkout page for an offer. This approach allows merchants to specify a URL for online checkout of the offered product, by interpolating parameters such as the logged in user ID, product ID, quantity, discount code etc. Parameter naming and standardization are not specified here.
 
 Predicated describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: Offer  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_text_of_checkout_page_url_template )
+( #has_/range :: Text )
 
 
 ## Confidential Links & Embeds: 

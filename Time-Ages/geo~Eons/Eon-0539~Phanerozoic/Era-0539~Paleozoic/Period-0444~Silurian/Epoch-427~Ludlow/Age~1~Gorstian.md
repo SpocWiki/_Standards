@@ -27,96 +27,15 @@ end_time: -427400000-01-01T00:00:00Z
 start_time: -427400000-01-01T00:00:00Z
 sRGB_color_hex_triplet: C3EAE6
 coordinate_location: Point(-2.7772 52.3592)
-dv_has_:
-  duration_:
-    years: "1.800e+6"
-  previous_:
-    item: "[[../Epoch-433~Wenlock/Age~2~Homerian|Age~2~Homerian]]"
-  next_:
-    item: "[[Age~2~Ludfordian]]"
-  name_:
-    bg: Горѿт
-    cs: Gorst
-    da: Gorstien
-    de: Gorstium
-    es: Gorstiense
-    et: Gorsti
-    fi: Gorst
-    fr: Gorstien
-    hu: gorsti
-    it: gorstiano
-    ja: ゴースティアン期
-    lt: Gorstis
-    nl: Gorstiën
-    no: Gorstium
-    pl: Gorst
-    pt: Gorstiano
-    sk: gorst
-    sl: gorstij
-    sv: gorst
-    zh: 格斯特期
-  abbreviation: s6
-  time_:
-    started: "-427.4e6"
-    stopped: "-425.6e6"
-  text_of_:
-    color: "0xCCECDD"
-dv_is_:
-  same_as:
-    - "[[WD~Gorstian,752878]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian|Age~1~Gorstian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian.public|Age~1~Gorstian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian.internal|Age~1~Gorstian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian.protect|Age~1~Gorstian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian.private|Age~1~Gorstian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian.personal|Age~1~Gorstian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian.secret|Age~1~Gorstian.secret]]"
-dv_ischart: Gorstian
-dv_has_duration_years: "1.800e+6"
-dv_has_previous_item: "[[../Epoch-433~Wenlock/Age~2~Homerian|Age~2~Homerian]]"
-dv_has_next_item: "[[Age~2~Ludfordian]]"
-dv_is_same_as:
-  - "[[WD~Gorstian,752878]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian|Age~1~Gorstian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian.public|Age~1~Gorstian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian.internal|Age~1~Gorstian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian.protect|Age~1~Gorstian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian.private|Age~1~Gorstian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian.personal|Age~1~Gorstian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-427~Ludlow/Age~1~Gorstian.secret|Age~1~Gorstian.secret]]"
-dv_has_name_bg: Горѿт
-dv_has_name_cs: Gorst
-dv_has_name_da: Gorstien
-dv_has_name_de: Gorstium
-dv_has_name_es: Gorstiense
-dv_has_name_et: Gorsti
-dv_has_name_fi: Gorst
-dv_has_name_fr: Gorstien
-dv_has_name_hu: gorsti
-dv_has_name_it: gorstiano
-dv_has_name_ja: ゴースティアン期
-dv_has_name_lt: Gorstis
-dv_has_name_nl: Gorstiën
-dv_has_name_no: Gorstium
-dv_has_name_pl: Gorst
-dv_has_name_pt: Gorstiano
-dv_has_name_sk: gorst
-dv_has_name_sl: gorstij
-dv_has_name_sv: gorst
-dv_has_name_zh: 格斯特期
-dv_has_abbreviation: s6
-dv_has_time_started: "-427.4e6"
-dv_has_time_stopped: "-425.6e6"
-dv_has_text_of_color: "0xCCECDD"
 ---
 # [[Age~1~Gorstian]] 
 
 #is_a_/time_/Age 
 
-#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-has_previous_item = `=this.dv_has_previous_item` 
-has_next_item = `=this.dv_has_next_item` 
+#has_/previous_/item :: [[../Epoch-433~Wenlock/Age~2~Homerian|Age~2~Homerian]] 
+#has_/next_/item :: [[Age~2~Ludfordian]] 
 #is_/same_as :: [[WD~Gorstian,752878]] 
 
 A time period from 427.4 to 425.6 million years ago. 
@@ -128,35 +47,35 @@ A time period from 427.4 to 425.6 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Gorstian) 
 
 
-ischart = `=this.dv_ischart` 
-has_name_bg = `=this.dv_has_name_bg` 
-has_name_cs = `=this.dv_has_name_cs` 
-has_name_da = `=this.dv_has_name_da` 
-has_name_de = `=this.dv_has_name_de` 
-has_name_es = `=this.dv_has_name_es` 
-has_name_et = `=this.dv_has_name_et` 
-has_name_fi = `=this.dv_has_name_fi` 
-has_name_fr = `=this.dv_has_name_fr` 
-has_name_hu = `=this.dv_has_name_hu` 
-has_name_it = `=this.dv_has_name_it` 
-has_name_ja = `=this.dv_has_name_ja` 
-has_name_lt = `=this.dv_has_name_lt` 
-has_name_nl = `=this.dv_has_name_nl` 
-has_name_no = `=this.dv_has_name_no` 
-has_name_pl = `=this.dv_has_name_pl` 
-has_name_pt = `=this.dv_has_name_pt` 
-has_name_sk = `=this.dv_has_name_sk` 
-has_name_sl = `=this.dv_has_name_sl` 
-has_name_sv = `=this.dv_has_name_sv` 
-has_name_zh = `=this.dv_has_name_zh` 
+ischart::Gorstian
+#has_/name_/bg  :: Горѿт
+#has_/name_/cs  :: Gorst
+#has_/name_/da  :: Gorstien
+#has_/name_/de  :: Gorstium
+#has_/name_/es  :: Gorstiense
+#has_/name_/et  :: Gorsti
+#has_/name_/fi  :: Gorst
+#has_/name_/fr  :: Gorstien
+#has_/name_/hu  :: gorsti
+#has_/name_/it  :: gorstiano
+#has_/name_/ja  :: ゴースティアン期
+#has_/name_/lt  :: Gorstis
+#has_/name_/nl  :: Gorstiën
+#has_/name_/no  :: Gorstium
+#has_/name_/pl  :: Gorst
+#has_/name_/pt  :: Gorstiano
+#has_/name_/sk  :: gorst
+#has_/name_/sl  :: gorstij
+#has_/name_/sv  :: gorst
+#has_/name_/zh  :: 格斯特期
 
-has_abbreviation = `=this.dv_has_abbreviation` 
-has_time_started = `=this.dv_has_time_started` 
-has_time_stopped = `=this.dv_has_time_stopped` 
+#has_/abbreviation :: s6
+#has_/time_/started :: -427.4e6 
+#has_/time_/stopped :: -425.6e6 
 
     sh:order 121 
 
-has_text_of_color = `=this.dv_has_text_of_color` 
+#has_/text_of_/color :: 0xCCECDD
 
 ## All Contents
 

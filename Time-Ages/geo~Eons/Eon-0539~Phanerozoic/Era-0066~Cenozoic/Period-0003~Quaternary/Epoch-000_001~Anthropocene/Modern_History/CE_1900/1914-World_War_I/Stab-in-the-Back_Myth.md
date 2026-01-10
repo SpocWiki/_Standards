@@ -6,37 +6,18 @@ aliases:
   - Stab-in-the-Back Myth
 has_id_wikidata: Q160944
 significant_person:
-  - "[[_Standards/WikiData/WD~Max_Bauer,67930]]"
-  - "[[_Standards/WikiData/WD~Bruno_Doehring,993199]]"
-instance_of: "[[_Standards/WikiData/WD~conspiracy_theory,159535]]"
+  - '[[_Standards/WikiData/WD~Max_Bauer,67930]]'
+  - '[[_Standards/WikiData/WD~Bruno_Doehring,993199]]'
+instance_of: '[[_Standards/WikiData/WD~conspiracy_theory,159535]]'
 facet_of:
-  - "[[_Standards/WikiData/WD~anti_communism,182121]]"
-  - "[[_Standards/WikiData/WD~antisemitism,22649]]"
-main_subject: "[[_Standards/WikiData/WD~betrayal,2166722]]"
-significant_event: "[[_Standards/WikiData/WD~aftermath_of_World_War_I,2519948]]"
+  - '[[_Standards/WikiData/WD~anti_communism,182121]]'
+  - '[[_Standards/WikiData/WD~antisemitism,22649]]'
+main_subject: '[[_Standards/WikiData/WD~betrayal,2166722]]'
+significant_event: '[[_Standards/WikiData/WD~aftermath_of_World_War_I,2519948]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Stab-in-the-back%20postcard.jpg
 described_at_URL: https://www.nytimes.com/2020/11/30/opinion/trump-conspiracy-germany-1918.html
 Commons_category: Stab-in-the-back legend
 inception: 1918-01-01T00:00:00Z
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../../WikiData/WD~Stab-in-the-back_myth,160944|WD~Stab-in-the-back_myth,160944]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth|Stab-in-the-Back_Myth]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth.public|Stab-in-the-Back_Myth.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth.internal|Stab-in-the-Back_Myth.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth.protect|Stab-in-the-Back_Myth.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth.private|Stab-in-the-Back_Myth.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth.personal|Stab-in-the-Back_Myth.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth.secret|Stab-in-the-Back_Myth.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Stab-in-the-back_myth,160944|WD~Stab-in-the-back_myth,160944]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth|Stab-in-the-Back_Myth]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth.public|Stab-in-the-Back_Myth.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth.internal|Stab-in-the-Back_Myth.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth.protect|Stab-in-the-Back_Myth.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth.private|Stab-in-the-Back_Myth.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth.personal|Stab-in-the-Back_Myth.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/Stab-in-the-Back_Myth.secret|Stab-in-the-Back_Myth.secret]]"
 ---
 
 # [[Stab-in-the-Back_Myth]] 

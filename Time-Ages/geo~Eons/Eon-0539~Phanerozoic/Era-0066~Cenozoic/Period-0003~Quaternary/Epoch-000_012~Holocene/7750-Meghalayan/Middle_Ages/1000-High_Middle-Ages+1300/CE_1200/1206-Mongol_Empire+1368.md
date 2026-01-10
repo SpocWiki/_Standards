@@ -11,88 +11,62 @@ area:
   - 24000000
   - 4000000
 basic_form_of_government:
-  - "[[_Standards/WikiData/WD~elective_monarchy,584683]]"
-  - "[[_Standards/WikiData/WD~hereditary_monarchy,849242]]"
+  - '[[_Standards/WikiData/WD~elective_monarchy,584683]]'
+  - '[[_Standards/WikiData/WD~hereditary_monarchy,849242]]'
 capital:
-  - "[[_Standards/WikiData/WD~Avarga,4827751]]"
-  - "[[_Standards/WikiData/WD~Karakorum,62677]]"
-  - "[[_Standards/WikiData/WD~Khanbaliq,101186473]]"
-  - "[[_Standards/WikiData/WD~Xanadu,471765]]"
+  - '[[_Standards/WikiData/WD~Avarga,4827751]]'
+  - '[[_Standards/WikiData/WD~Karakorum,62677]]'
+  - '[[_Standards/WikiData/WD~Khanbaliq,101186473]]'
+  - '[[_Standards/WikiData/WD~Xanadu,471765]]'
 Commons_category: Mongol Empire
-continent: "[[_Standards/WikiData/WD~Eurasia,5401]]"
-currency: "[[_Standards/WikiData/WD~balysh,4077050]]"
-described_by_source: "[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-different_from: "[[_Standards/WikiData/WD~Mughal_Empire,33296]]"
+continent: '[[_Standards/WikiData/WD~Eurasia,5401]]'
+currency: '[[_Standards/WikiData/WD~balysh,4077050]]'
+described_by_source: '[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+different_from: '[[_Standards/WikiData/WD~Mughal_Empire,33296]]'
 dissolved_abolished_or_demolished_date: 1368
-flag: "[[_Standards/WikiData/WD~Flag_of_the_Mongol_Empire,65406099]]"
+flag: '[[_Standards/WikiData/WD~Flag_of_the_Mongol_Empire,65406099]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Ilkhanate,178084]]"
-  - "[[_Standards/WikiData/WD~Chagatai_Khanate,487829]]"
-  - "[[_Standards/WikiData/WD~Golden_Horde,79965]]"
-  - "[[_Standards/WikiData/WD~House_of_Ögedei,294652]]"
-  - "[[_Standards/WikiData/WD~Yuan_dynasty,7313]]"
-has_seal_badge_or_sigil: "[[_Standards/WikiData/WD~Imperial_Seal_of_Mongolia,3874663]]"
+  - '[[_Standards/WikiData/WD~Ilkhanate,178084]]'
+  - '[[_Standards/WikiData/WD~Chagatai_Khanate,487829]]'
+  - '[[_Standards/WikiData/WD~Golden_Horde,79965]]'
+  - '[[_Standards/WikiData/WD~House_of_Ögedei,294652]]'
+  - '[[_Standards/WikiData/WD~Yuan_dynasty,7313]]'
+has_seal_badge_or_sigil: '[[_Standards/WikiData/WD~Imperial_Seal_of_Mongolia,3874663]]'
 has_time_started: 1206-06
 has_time_stopped: 1368-01-01
 head_of_state:
-  - "[[_Standards/WikiData/WD~Genghis_Khan,720]]"
-  - "[[_Standards/WikiData/WD~Güyük_Khan,7520]]"
-  - "[[_Standards/WikiData/WD~Kublai_Khan,7523]]"
-  - "[[_Standards/WikiData/WD~Möngke_Khan,7521]]"
-  - "[[_Standards/WikiData/WD~Ögedei_Khan,7519]]"
-  - "[[_Standards/WikiData/WD~Toghon_Temür,8666]]"
+  - '[[_Standards/WikiData/WD~Genghis_Khan,720]]'
+  - '[[_Standards/WikiData/WD~Güyük_Khan,7520]]'
+  - '[[_Standards/WikiData/WD~Kublai_Khan,7523]]'
+  - '[[_Standards/WikiData/WD~Möngke_Khan,7521]]'
+  - '[[_Standards/WikiData/WD~Ögedei_Khan,7519]]'
+  - '[[_Standards/WikiData/WD~Toghon_Temür,8666]]'
 inception: 1206
-instance_of: "[[_Standards/WikiData/WD~historical_country,3024240]]"
-language_used: "[[_Standards/WikiData/WD~Middle_Chinese,2016252]]"
-legislative_body: "[[_Standards/WikiData/WD~Kurultai,136649]]"
+instance_of: '[[_Standards/WikiData/WD~historical_country,3024240]]'
+language_used: '[[_Standards/WikiData/WD~Middle_Chinese,2016252]]'
+legislative_body: '[[_Standards/WikiData/WD~Kurultai,136649]]'
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Mongol%20Empire%20%28greatest%20extent%29.svg
 native_label: Их Монгол улс
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~khagan,187878]]"
-official_language: "[[_Standards/WikiData/WD~Mongolic,33750]]"
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~khagan,187878]]'
+official_language: '[[_Standards/WikiData/WD~Mongolic,33750]]'
 official_name: Их Монгол улс
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Mongol%20Empire%20banner%20Painting.jpeg
 population: 160000000
 religion_or_worldview:
-  - "[[_Standards/WikiData/WD~Buddhism,748]]"
-  - "[[_Standards/WikiData/WD~Islam,432]]"
-  - "[[_Standards/WikiData/WD~Nestorianism,168414]]"
-  - "[[_Standards/WikiData/WD~shamanism,42042]]"
-  - "[[_Standards/WikiData/WD~Tengrism,837605]]"
-replaced_by: "[[_Standards/WikiData/WD~Ming_dynasty,9903]]"
+  - '[[_Standards/WikiData/WD~Buddhism,748]]'
+  - '[[_Standards/WikiData/WD~Islam,432]]'
+  - '[[_Standards/WikiData/WD~Nestorianism,168414]]'
+  - '[[_Standards/WikiData/WD~shamanism,42042]]'
+  - '[[_Standards/WikiData/WD~Tengrism,837605]]'
+replaced_by: '[[_Standards/WikiData/WD~Ming_dynasty,9903]]'
 replaces:
-  - "[[_Standards/WikiData/WD~Jin_dynasty,5066]]"
-  - "[[_Standards/WikiData/WD~Nizari_Ismaili_state,6563843]]"
-  - "[[_Standards/WikiData/WD~Qara_Khitai,862304]]"
-  - "[[_Standards/WikiData/WD~Western_Xia,7427]]"
+  - '[[_Standards/WikiData/WD~Jin_dynasty,5066]]'
+  - '[[_Standards/WikiData/WD~Nizari_Ismaili_state,6563843]]'
+  - '[[_Standards/WikiData/WD~Qara_Khitai,862304]]'
+  - '[[_Standards/WikiData/WD~Western_Xia,7427]]'
 seal_image: http://commons.wikimedia.org/wiki/Special:FilePath/Imperial%20Seal%20of%20the%20Mongols%201246.svg
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Q42351369,42351369]]"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q42351369,42351369]]'
 Wolfram_Language_entity_code: Entity["HistoricalCountry", "MongolEmpire"]
-dv_has_:
-  time_:
-    started: 1206-06-01T00:00:00.000+00:53
-    stopped: 1368-01-01T00:00:00.000+00:53
-  duration_: P161Y7M
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../../../WikiData/WD~Mongol_Empire,12557|WD~Mongol_Empire,12557]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1206-Mongol_Empire+1368|1206-Mongol_Empire+1368]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1206-Mongol_Empire+1368.public|1206-Mongol_Empire+1368.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1206-Mongol_Empire+1368.internal|1206-Mongol_Empire+1368.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1206-Mongol_Empire+1368.protect|1206-Mongol_Empire+1368.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1206-Mongol_Empire+1368.private|1206-Mongol_Empire+1368.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1206-Mongol_Empire+1368.personal|1206-Mongol_Empire+1368.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1206-Mongol_Empire+1368.secret|1206-Mongol_Empire+1368.secret]]"
-dv_has_duration_years: 162
-dv_has_duration_: P161Y7M
-dv_is_same_as:
-  - "[[../../../../../../../../../../WikiData/WD~Mongol_Empire,12557|WD~Mongol_Empire,12557]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1206-Mongol_Empire+1368|1206-Mongol_Empire+1368]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1206-Mongol_Empire+1368.public|1206-Mongol_Empire+1368.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1206-Mongol_Empire+1368.internal|1206-Mongol_Empire+1368.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1206-Mongol_Empire+1368.protect|1206-Mongol_Empire+1368.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1206-Mongol_Empire+1368.private|1206-Mongol_Empire+1368.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1206-Mongol_Empire+1368.personal|1206-Mongol_Empire+1368.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1206-Mongol_Empire+1368.secret|1206-Mongol_Empire+1368.secret]]"
 ---
 
 # [[1206-Mongol_Empire+1368]] 

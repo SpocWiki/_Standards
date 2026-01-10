@@ -9,68 +9,39 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - work_presented
   - work
   - presented
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_work_presented
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_work_presented
 type: Predi_Relation
-dv_has_:
-  work_presented: Movie
-  domain: ScreeningEvent
-dv_has_work_presented: Movie
-dv_#has_:
-  name: is_work_presented
-  range: Movie
-dv_is_:
-  sub_property_of: workFeatured
-  same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_work_presented|has_work_presented]]"
-    - "[[/_public/schema-org/Relation/has/has_work_presented.public|has_work_presented.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_work_presented.internal|has_work_presented.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_work_presented.protect|has_work_presented.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_work_presented.private|has_work_presented.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_work_presented.personal|has_work_presented.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_work_presented.secret|has_work_presented.secret]]"
-dv_has_domain: ScreeningEvent
-dv_has_name: is_work_presented
-dv_has_range: Movie
-dv_is_sub_property_of: workFeatured
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_work_presented|has_work_presented]]"
-  - "[[/_public/schema-org/Relation/has/has_work_presented.public|has_work_presented.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_work_presented.internal|has_work_presented.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_work_presented.protect|has_work_presented.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_work_presented.private|has_work_presented.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_work_presented.personal|has_work_presented.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_work_presented.secret|has_work_presented.secret]]"
 ---
 
 Use it like this: 
-- has_work_presented = `=this.dv_has_work_presented`  
-- has_work_presented = `=this.dv_has_work_presented`  
+- [has_/work_presented :: Movie ] 
+- [ has_work_presented :: Movie ] 
 
 The movie presented during this event.
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: ScreeningEvent  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: is_work_presented )
+( #has_/range :: Movie )
 
-is_sub_property_of = `=this.dv_is_sub_property_of` 
+#is_/sub_property_of  :: workFeatured  
 
 ## Confidential Links & Embeds: 
 

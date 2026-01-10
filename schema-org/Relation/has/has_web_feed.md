@@ -9,68 +9,39 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - web_feed
   - web
   - feed
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_web_feed
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_web_feed
 type: Predi_Relation
-dv_has_:
-  web_feed: DataFeed, URL
-  domain: PodcastSeries, SpecialAnnouncement
-dv_has_web_feed: DataFeed, URL
-dv_is_:
-  part_of: "pending:"
-  same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_web_feed|has_web_feed]]"
-    - "[[/_public/schema-org/Relation/has/has_web_feed.public|has_web_feed.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_web_feed.internal|has_web_feed.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_web_feed.protect|has_web_feed.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_web_feed.private|has_web_feed.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_web_feed.personal|has_web_feed.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_web_feed.secret|has_web_feed.secret]]"
-dv_#has_:
-  name: is_web_feed
-  range: DataFeed, URL
-dv_is_part_of: "pending:"
-dv_has_domain: PodcastSeries, SpecialAnnouncement
-dv_has_name: is_web_feed
-dv_has_range: DataFeed, URL
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_web_feed|has_web_feed]]"
-  - "[[/_public/schema-org/Relation/has/has_web_feed.public|has_web_feed.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_web_feed.internal|has_web_feed.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_web_feed.protect|has_web_feed.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_web_feed.private|has_web_feed.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_web_feed.personal|has_web_feed.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_web_feed.secret|has_web_feed.secret]]"
 ---
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use it like this: 
-- has_web_feed = `=this.dv_has_web_feed`  
-- has_web_feed = `=this.dv_has_web_feed`  
+- [has_/web_feed :: DataFeed, URL ] 
+- [ has_web_feed :: DataFeed, URL ] 
 
 The URL for a feed, e.g. associated with a podcast series, blog, or series of date-stamped updates. This is usually RSS or Atom.
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: PodcastSeries, SpecialAnnouncement  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: is_web_feed )
+( #has_/range :: DataFeed, URL )
 
 
 ## Confidential Links & Embeds: 

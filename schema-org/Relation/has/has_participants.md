@@ -38,34 +38,6 @@ tags:
   - schema-org/Relation
 title: has_participant
 type: Predi_Relation
-dv_has_:
-  participants: Organization, Person
-  domain: Action
-  sub_properties: "[ borrower, buyer, endorsee, landlord, lender, loser, opponent, realEstateAgent, recipient, seller, sender, sportsTeam, vendor, winner ]"
-dv_has_participants: Organization, Person
-dv_#has_:
-  name: has_participant
-  range: Organization, Person
-dv_is_:
-  same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_participants|has_participants]]"
-    - "[[/_public/schema-org/Relation/has/has_participants.public|has_participants.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_participants.internal|has_participants.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_participants.protect|has_participants.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_participants.private|has_participants.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_participants.personal|has_participants.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_participants.secret|has_participants.secret]]"
-dv_has_domain: Action
-dv_has_name: has_participant
-dv_has_range: Organization, Person
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_participants|has_participants]]"
-  - "[[/_public/schema-org/Relation/has/has_participants.public|has_participants.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_participants.internal|has_participants.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_participants.protect|has_participants.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_participants.private|has_participants.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_participants.personal|has_participants.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_participants.secret|has_participants.secret]]"
 ---
 
 # [[has_participants]] 
@@ -74,15 +46,15 @@ Other co-agents that participated in the action indirectly.
 E.g. John wrote a book with <em>Steve</em>.
 
 Use it like this: 
-- has_participants = `=this.dv_has_participants`  
-- has_participants = `=this.dv_has_participants`  
+- [has_/participants :: Organization, Person ] 
+- [ has_participants :: Organization, Person ] 
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: Action  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_participant )
+( #has_/range :: Organization, Person )
 
 #has_/sub_properties :: [ borrower, buyer, endorsee, landlord, lender, loser, opponent, realEstateAgent, recipient, seller, sender, sportsTeam, vendor, winner ]  
 

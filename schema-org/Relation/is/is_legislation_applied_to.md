@@ -11,60 +11,29 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - legislation
   - applies
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_legislation_applies
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_legislation_applies
 type: Predi_Relation
-dv_has_:
-  legislation_applies: Legislation
-  domain: Legislation
-  sub_properties: "[ legislationTransposes ]"
-dv_has_legislation_applies: Legislation
-dv_is_:
-  part_of: "pending:"
-  same_as:
-    - "[[/_Standards/schema-org/Relation/is/is_legislation_applied_to|is_legislation_applied_to]]"
-    - "[[/_public/schema-org/Relation/is/is_legislation_applied_to.public|is_legislation_applied_to.public]]"
-    - "[[/_internal/schema-org/Relation/is/is_legislation_applied_to.internal|is_legislation_applied_to.internal]]"
-    - "[[/_protect/schema-org/Relation/is/is_legislation_applied_to.protect|is_legislation_applied_to.protect]]"
-    - "[[/_private/schema-org/Relation/is/is_legislation_applied_to.private|is_legislation_applied_to.private]]"
-    - "[[/_personal/schema-org/Relation/is/is_legislation_applied_to.personal|is_legislation_applied_to.personal]]"
-    - "[[/_secret/schema-org/Relation/is/is_legislation_applied_to.secret|is_legislation_applied_to.secret]]"
-dv_#has_:
-  name: is_legislation_applied_to
-  range: Legislation
-dv_is_part_of: "pending:"
-dv_has_domain: Legislation
-dv_has_name: is_legislation_applied_to
-dv_has_range: Legislation
-dv_has_sub_properties: "[ legislationTransposes ]"
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/is/is_legislation_applied_to|is_legislation_applied_to]]"
-  - "[[/_public/schema-org/Relation/is/is_legislation_applied_to.public|is_legislation_applied_to.public]]"
-  - "[[/_internal/schema-org/Relation/is/is_legislation_applied_to.internal|is_legislation_applied_to.internal]]"
-  - "[[/_protect/schema-org/Relation/is/is_legislation_applied_to.protect|is_legislation_applied_to.protect]]"
-  - "[[/_private/schema-org/Relation/is/is_legislation_applied_to.private|is_legislation_applied_to.private]]"
-  - "[[/_personal/schema-org/Relation/is/is_legislation_applied_to.personal|is_legislation_applied_to.personal]]"
-  - "[[/_secret/schema-org/Relation/is/is_legislation_applied_to.secret|is_legislation_applied_to.secret]]"
 ---
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use it like this: 
-- has_legislation_applies = `=this.dv_has_legislation_applies`  
-- has_legislation_applies = `=this.dv_has_legislation_applies`  
+- [has_/legislation_applies :: Legislation ] 
+- [ has_legislation_applies :: Legislation ] 
 
 Indicates that this legislation (or part of a legislation) somehow
 transfers another legislation in a different legislative context. 
@@ -77,12 +46,12 @@ For example an informative consolidated law of a European Union's member state
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: Legislation  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: is_legislation_applied_to )
+( #has_/range :: Legislation )
 
-has_sub_properties = `=this.dv_has_sub_properties` 
+#has_/sub_properties :: [ legislationTransposes ]  
 
 ## Confidential Links & Embeds: 
 

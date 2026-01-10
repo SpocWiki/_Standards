@@ -36,37 +36,12 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-Operati
 detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Operation%20Barbarossa%20corrected%20border.png
 Wolfram_Language_entity_code: Entity["MilitaryConflict", "OperationBarbarossa"]
 Commons_category: Operation Barbarossa
-dv_has_:
-  time_:
-    started: 1941-06-22T00:00:00.000+02:00
-    stopped: 1941-12-01T00:00:00.000+02:00
-dv_is_:
-  same_as:
-    - "[[WD~Operation Barbarossa,83055]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa|Operation_Barbarossa]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa.public|Operation_Barbarossa.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa.internal|Operation_Barbarossa.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa.protect|Operation_Barbarossa.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa.private|Operation_Barbarossa.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa.personal|Operation_Barbarossa.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa.secret|Operation_Barbarossa.secret]]"
-dv_has_time_started: 1941-06-22
-dv_has_time_stopped: 1941-12-01
-dv_is_same_as:
-  - "[[WD~Operation Barbarossa,83055]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa|Operation_Barbarossa]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa.public|Operation_Barbarossa.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa.internal|Operation_Barbarossa.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa.protect|Operation_Barbarossa.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa.private|Operation_Barbarossa.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa.personal|Operation_Barbarossa.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa.secret|Operation_Barbarossa.secret]]"
 ---
 
 # [[Operation_Barbarossa]] 
 
-has_time_started = `=this.dv_has_time_started` 
-has_time_stopped = `=this.dv_has_time_stopped` 
+#has_/time_/started :: 1941-06-22 
+#has_/time_/stopped  :: 1941-12-01 
 #is_/same_as :: [[WD~Operation Barbarossa,83055]] 
 
 ## #has_/text_of_/abstract  

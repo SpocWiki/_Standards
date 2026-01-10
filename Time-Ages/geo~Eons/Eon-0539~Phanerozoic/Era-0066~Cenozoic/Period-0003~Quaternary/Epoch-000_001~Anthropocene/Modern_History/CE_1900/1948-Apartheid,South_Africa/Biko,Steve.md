@@ -57,25 +57,6 @@ ISNI: "0000000081456296"
 P1015: "90081591"
 Libris_URI: fcrtngbz5hcpt4h
 pseudonym: Frank Talk
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../../WikiData/WD~Steve_Biko,214473|WD~Steve_Biko,214473]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Biko,Steve|Biko,Steve]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Biko,Steve.public|Biko,Steve.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Biko,Steve.internal|Biko,Steve.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Biko,Steve.protect|Biko,Steve.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Biko,Steve.private|Biko,Steve.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Biko,Steve.personal|Biko,Steve.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Biko,Steve.secret|Biko,Steve.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Steve_Biko,214473|WD~Steve_Biko,214473]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Biko,Steve|Biko,Steve]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Biko,Steve.public|Biko,Steve.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Biko,Steve.internal|Biko,Steve.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Biko,Steve.protect|Biko,Steve.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Biko,Steve.private|Biko,Steve.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Biko,Steve.personal|Biko,Steve.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa/Biko,Steve.secret|Biko,Steve.secret]]"
 ---
 
 # [[Biko,Steve]] 

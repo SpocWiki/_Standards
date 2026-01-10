@@ -10,68 +10,40 @@ cssclasses:
   - Predicate
   - Boolean
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - job_immediate_start
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_job_immediate_start
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/True
 title: is_job_immediate_start
 type: Pred_Bool
-dv_is_:
-  part_of: "pending:"
-  same_as:
-    - "[[/_Standards/schema-org/Property/Flags/is_job_immediate_start|is_job_immediate_start]]"
-    - "[[/_public/schema-org/Property/Flags/is_job_immediate_start.public|is_job_immediate_start.public]]"
-    - "[[/_internal/schema-org/Property/Flags/is_job_immediate_start.internal|is_job_immediate_start.internal]]"
-    - "[[/_protect/schema-org/Property/Flags/is_job_immediate_start.protect|is_job_immediate_start.protect]]"
-    - "[[/_private/schema-org/Property/Flags/is_job_immediate_start.private|is_job_immediate_start.private]]"
-    - "[[/_personal/schema-org/Property/Flags/is_job_immediate_start.personal|is_job_immediate_start.personal]]"
-    - "[[/_secret/schema-org/Property/Flags/is_job_immediate_start.secret|is_job_immediate_start.secret]]"
-dv_is_job_immediate_start: Boolean
-dv_has_:
-  domain: JobPosting
-dv_#has_:
-  name: is_job_immediate_start
-  range: Boolean
-dv_is_part_of: "pending:"
-dv_has_domain: JobPosting
-dv_has_name: is_job_immediate_start
-dv_has_range: Boolean
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Flags/is_job_immediate_start|is_job_immediate_start]]"
-  - "[[/_public/schema-org/Property/Flags/is_job_immediate_start.public|is_job_immediate_start.public]]"
-  - "[[/_internal/schema-org/Property/Flags/is_job_immediate_start.internal|is_job_immediate_start.internal]]"
-  - "[[/_protect/schema-org/Property/Flags/is_job_immediate_start.protect|is_job_immediate_start.protect]]"
-  - "[[/_private/schema-org/Property/Flags/is_job_immediate_start.private|is_job_immediate_start.private]]"
-  - "[[/_personal/schema-org/Property/Flags/is_job_immediate_start.personal|is_job_immediate_start.personal]]"
-  - "[[/_secret/schema-org/Property/Flags/is_job_immediate_start.secret|is_job_immediate_start.secret]]"
 ---
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use these simple Tags to mark Instances as True or False: 
 #is_/job_immediate_start 
 #is_not_/job_immediate_start 
 
 Or write it as a Triple: 
-is_job_immediate_start = `=this.dv_is_job_immediate_start`  
+[ is_job_immediate_start :: Boolean ] 
 
 An indicator as to whether a position is available for an immediate start.
 
 Predicate describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: JobPosting  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: is_job_immediate_start )
+( #has_/range :: Boolean )
 
 
 ## Confidential Links & Embeds: 

@@ -10,68 +10,40 @@ cssclasses:
   - Predicate
   - Boolean
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - loan_recourseable
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_loan_recourseable
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/True
 title: is_loan_recourseable
 type: Pred_Bool
-dv_is_:
-  part_of: "pending:"
-  same_as:
-    - "[[/_Standards/schema-org/Property/Flags/is_loan_recourseable|is_loan_recourseable]]"
-    - "[[/_public/schema-org/Property/Flags/is_loan_recourseable.public|is_loan_recourseable.public]]"
-    - "[[/_internal/schema-org/Property/Flags/is_loan_recourseable.internal|is_loan_recourseable.internal]]"
-    - "[[/_protect/schema-org/Property/Flags/is_loan_recourseable.protect|is_loan_recourseable.protect]]"
-    - "[[/_private/schema-org/Property/Flags/is_loan_recourseable.private|is_loan_recourseable.private]]"
-    - "[[/_personal/schema-org/Property/Flags/is_loan_recourseable.personal|is_loan_recourseable.personal]]"
-    - "[[/_secret/schema-org/Property/Flags/is_loan_recourseable.secret|is_loan_recourseable.secret]]"
-dv_is_loan_recourseable: Boolean
-dv_has_:
-  domain: LoanOrCredit
-dv_#has_:
-  name: is_loan_recourseable
-  range: Boolean
-dv_is_part_of: "pending:"
-dv_has_domain: LoanOrCredit
-dv_has_name: is_loan_recourseable
-dv_has_range: Boolean
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Flags/is_loan_recourseable|is_loan_recourseable]]"
-  - "[[/_public/schema-org/Property/Flags/is_loan_recourseable.public|is_loan_recourseable.public]]"
-  - "[[/_internal/schema-org/Property/Flags/is_loan_recourseable.internal|is_loan_recourseable.internal]]"
-  - "[[/_protect/schema-org/Property/Flags/is_loan_recourseable.protect|is_loan_recourseable.protect]]"
-  - "[[/_private/schema-org/Property/Flags/is_loan_recourseable.private|is_loan_recourseable.private]]"
-  - "[[/_personal/schema-org/Property/Flags/is_loan_recourseable.personal|is_loan_recourseable.personal]]"
-  - "[[/_secret/schema-org/Property/Flags/is_loan_recourseable.secret|is_loan_recourseable.secret]]"
 ---
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use these simple Tags to mark Instances as True or False: 
 #is_/loan_recourseable 
 #is_not_/loan_recourseable 
 
 Or write it as a Triple: 
-is_loan_recourseable = `=this.dv_is_loan_recourseable`  
+[ is_loan_recourseable :: Boolean ] 
 
 The only way you get the money back in the event of default is the security. Recourse is where you still have the opportunity to go back to the borrower for the rest of the money.
 
 Predicate describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: LoanOrCredit  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: is_loan_recourseable )
+( #has_/range :: Boolean )
 
 
 ## Confidential Links & Embeds: 

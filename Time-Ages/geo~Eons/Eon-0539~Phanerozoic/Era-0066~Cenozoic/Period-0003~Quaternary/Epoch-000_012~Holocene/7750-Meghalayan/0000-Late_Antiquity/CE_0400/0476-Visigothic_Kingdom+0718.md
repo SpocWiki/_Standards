@@ -8,30 +8,30 @@ aliases:
   - 0476-Visigothic Kingdom+0718
 has_id_wikidata: Q126936
 replaces:
-  - "[[_Standards/WikiData/WD~Kingdom_of_the_Suebi,1048918]]"
-  - "[[_Standards/WikiData/WD~Western_Roman_Empire,42834]]"
+  - '[[_Standards/WikiData/WD~Kingdom_of_the_Suebi,1048918]]'
+  - '[[_Standards/WikiData/WD~Western_Roman_Empire,42834]]'
 official_religion:
-  - "[[_Standards/WikiData/WD~Germanic_paganism,1122452]]"
-  - "[[_Standards/WikiData/WD~Chalcedonian_Christianity,2711500]]"
+  - '[[_Standards/WikiData/WD~Germanic_paganism,1122452]]'
+  - '[[_Standards/WikiData/WD~Chalcedonian_Christianity,2711500]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Kingdom_of_Toledo,2940142]]"
-  - "[[_Standards/WikiData/WD~Visigothic_Kingdom_of_Tolosa,3307686]]"
-  - "[[_Standards/WikiData/WD~Empire_of_Theodoric_the_Great,5919137]]"
-owner_of: "[[_Standards/WikiData/WD~Castle_of_Cabrières,2968724]]"
-instance_of: "[[_Standards/WikiData/WD~historical_country,3024240]]"
-part_of: "[[_Standards/WikiData/WD~barbarian_kingdom,5402094]]"
-position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~king_of_Wisigoths,22953238]]"
+  - '[[_Standards/WikiData/WD~Kingdom_of_Toledo,2940142]]'
+  - '[[_Standards/WikiData/WD~Visigothic_Kingdom_of_Tolosa,3307686]]'
+  - '[[_Standards/WikiData/WD~Empire_of_Theodoric_the_Great,5919137]]'
+owner_of: '[[_Standards/WikiData/WD~Castle_of_Cabrières,2968724]]'
+instance_of: '[[_Standards/WikiData/WD~historical_country,3024240]]'
+part_of: '[[_Standards/WikiData/WD~barbarian_kingdom,5402094]]'
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~king_of_Wisigoths,22953238]]'
 inception: 0476-01-01T00:00:00Z
 capital:
-  - "[[_Standards/WikiData/WD~Barcelona,1492]]"
-  - "[[_Standards/WikiData/WD~Toledo,5836]]"
-  - "[[_Standards/WikiData/WD~Toulouse,7880]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~monarchy,7269]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
+  - '[[_Standards/WikiData/WD~Barcelona,1492]]'
+  - '[[_Standards/WikiData/WD~Toledo,5836]]'
+  - '[[_Standards/WikiData/WD~Toulouse,7880]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~monarchy,7269]]'
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
 area: 600000
 language_used:
-  - "[[_Standards/WikiData/WD~Gothic,35722]]"
-  - "[[_Standards/WikiData/WD~Vulgar_Latin,37560]]"
+  - '[[_Standards/WikiData/WD~Gothic,35722]]'
+  - '[[_Standards/WikiData/WD~Vulgar_Latin,37560]]'
 locator_map_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Reino%20de%20los%20visigodos-ca.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Reino%20de%20los%20visigodos.svg
@@ -43,25 +43,6 @@ native_label:
 official_name: Regnum Gothorum
 dissolved_abolished_or_demolished_date: 0718-01-01T00:00:00Z
 OpenStreetMap_tag: historic:civilization=visigothic_kingdom
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../../WikiData/WD~Visigothic_Kingdom,126936|WD~Visigothic_Kingdom,126936]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Visigothic_Kingdom+0718|0476-Visigothic_Kingdom+0718]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Visigothic_Kingdom+0718.public|0476-Visigothic_Kingdom+0718.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Visigothic_Kingdom+0718.internal|0476-Visigothic_Kingdom+0718.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Visigothic_Kingdom+0718.protect|0476-Visigothic_Kingdom+0718.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Visigothic_Kingdom+0718.private|0476-Visigothic_Kingdom+0718.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Visigothic_Kingdom+0718.personal|0476-Visigothic_Kingdom+0718.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Visigothic_Kingdom+0718.secret|0476-Visigothic_Kingdom+0718.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Visigothic_Kingdom,126936|WD~Visigothic_Kingdom,126936]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Visigothic_Kingdom+0718|0476-Visigothic_Kingdom+0718]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Visigothic_Kingdom+0718.public|0476-Visigothic_Kingdom+0718.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Visigothic_Kingdom+0718.internal|0476-Visigothic_Kingdom+0718.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Visigothic_Kingdom+0718.protect|0476-Visigothic_Kingdom+0718.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Visigothic_Kingdom+0718.private|0476-Visigothic_Kingdom+0718.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Visigothic_Kingdom+0718.personal|0476-Visigothic_Kingdom+0718.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Visigothic_Kingdom+0718.secret|0476-Visigothic_Kingdom+0718.secret]]"
 ---
 
 # [[0476-Visigothic_Kingdom+0718]] 

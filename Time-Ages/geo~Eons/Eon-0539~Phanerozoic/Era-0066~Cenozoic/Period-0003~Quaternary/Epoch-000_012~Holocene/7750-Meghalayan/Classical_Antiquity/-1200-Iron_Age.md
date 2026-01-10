@@ -6,15 +6,15 @@ has_id_wikidata: Q11764
 aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Pentref%20Celtaidd%20Din%20Lligwy%20Celtic%20village%20%28pre-Roman%29%20nr%20Moelfre%2C%20Ynys%20Mon%2C%20Wales%2005.png
 Commons_category: Iron Age
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-different_from: "[[_Standards/WikiData/WD~Iron age,2805136]]"
-has_part_s_: "[[_Standards/WikiData/WD~Early Iron Age,98271225]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]'
+  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+  - '[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]'
+different_from: '[[_Standards/WikiData/WD~Iron age,2805136]]'
+has_part_s_: '[[_Standards/WikiData/WD~Early Iron Age,98271225]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/HMB%20Keltengrab%20M%C3%BCnsingen-Rain%20Grab%2091.jpg
-instance_of: "[[_Standards/WikiData/WD~archaeological period,15401633]]"
+instance_of: '[[_Standards/WikiData/WD~archaeological period,15401633]]'
 Krugosvet_article: istoriya/ZHELEZNI_VEK.html
-named_after: "[[_Standards/WikiData/WD~iron,677]]"
+named_after: '[[_Standards/WikiData/WD~iron,677]]'
 OmegaWiki_Defined_Meaning: 846346
 OpenStreetMap_tag_or_key: Tag:historic:period=iron-age
 Stadtwiki_Dresden_article: Eisenzeit
@@ -24,45 +24,19 @@ start_time:
   - -1049-06
   - -1199-06
   - -0799-06
-subclass_of: "[[_Standards/WikiData/WD~prehistory,11756]]"
+subclass_of: '[[_Standards/WikiData/WD~prehistory,11756]]'
 subject_named_as: Eisenzeit
-dv_has_:
-  time_:
-    started: -1200
-    stopped: -550
-  duration_: 650
-dv_is_:
-  same_as:
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Iron_Age|-1200-Iron_Age]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Iron_Age.public|-1200-Iron_Age.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Iron_Age.internal|-1200-Iron_Age.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Iron_Age.protect|-1200-Iron_Age.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Iron_Age.private|-1200-Iron_Age.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Iron_Age.personal|-1200-Iron_Age.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Iron_Age.secret|-1200-Iron_Age.secret]]"
-dv_has_time_started: -1200
-dv_has_time_stopped: -550
-dv_has_duration_years: 650
-dv_has_duration_: 650
-dv_is_same_as:
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Iron_Age|-1200-Iron_Age]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Iron_Age.public|-1200-Iron_Age.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Iron_Age.internal|-1200-Iron_Age.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Iron_Age.protect|-1200-Iron_Age.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Iron_Age.private|-1200-Iron_Age.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Iron_Age.personal|-1200-Iron_Age.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Iron_Age.secret|-1200-Iron_Age.secret]]"
 ---
 
 # [[Iron_Age]] 
 
 #is_a_/time_/Culture 
 
-has_time_started = `=this.dv_has_time_started` 
-has_time_stopped = `=this.dv_has_time_stopped` 
+#has_/time_/started :: -1200 
+#has_/time_/stopped :: -550 
 
-#has_/duration_/years :: `$=Math.round((Number(dv.current().dv_has_time_stopped) - dv.current().dv_has_time_started))` 
-#has_/duration_ :: `=number(this.dv_has_time_stopped) - number(this.dv_has_time_started)` 
+#has_/duration_/years :: `$=Math.round((Number(dv.current().has_time_stopped) - dv.current().has_time_started))` 
+#has_/duration_ :: `=number(this.has_time_stopped) - number(this.has_time_started)` 
 
 ## #has_/text_of_/abstract 
 

@@ -5,47 +5,22 @@ aliases:
   - Modern History
 has_id_wikidata: Q3281534
 Commons_category: Modern period
-follows: "[[_Standards/WikiData/WD~Postclassical_Era,7234117]]"
+follows: '[[_Standards/WikiData/WD~Postclassical_Era,7234117]]'
 has_time_started: 1750-06
 image: http://commons.wikimedia.org/wiki/Special:FilePath/La%20Libert%C3%A9%20guidant%20le%20peuple%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%20129%20-%20apr%C3%A8s%20restauration%202024.jpg
 instance_of:
-  - "[[_Standards/WikiData/WD~era,6428674]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
-  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
+  - '[[_Standards/WikiData/WD~era,6428674]]'
+  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+  - '[[_Standards/WikiData/WD~academic_major,4671286]]'
+  - '[[_Standards/WikiData/WD~historical_period,11514315]]'
 MeSH_tree_code: K01.400.504
-part_of: "[[_Standards/WikiData/WD~periodization,816829]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q23016635,23016635]]"
-practiced_by: "[[_Standards/WikiData/WD~historian_of_Modern_Age,17489339]]"
+part_of: '[[_Standards/WikiData/WD~periodization,816829]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q23016635,23016635]]'
+practiced_by: '[[_Standards/WikiData/WD~historian_of_Modern_Age,17489339]]'
 start_time: 1750-06
-subclass_of: "[[_Standards/WikiData/WD~history,309]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Modern_history,13834331]]"
+subclass_of: '[[_Standards/WikiData/WD~history,309]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Modern_history,13834331]]'
 U_S_National_Archives_Identifier: 10647222
-dv_is_:
-  same_as:
-    - "[[../../../../../../WikiData/WD~Modern_history,3281534]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History|Modern_History]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History.public|Modern_History.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History.internal|Modern_History.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History.protect|Modern_History.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History.private|Modern_History.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History.personal|Modern_History.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History.secret|Modern_History.secret]]"
-dv_has_:
-  time_:
-    started: 1750-06-01T00:00:00.000+00:53
-  duration_: P275Y7M1W1DT17H53M21.835S
-dv_is_same_as:
-  - "[[../../../../../../WikiData/WD~Modern_history,3281534]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History|Modern_History]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History.public|Modern_History.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History.internal|Modern_History.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History.protect|Modern_History.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History.private|Modern_History.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History.personal|Modern_History.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History.secret|Modern_History.secret]]"
-dv_has_duration_years: 276
-dv_has_duration_: P275Y7M1W1DT17H53M21.835S
 ---
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Modern_history,3281534]] 

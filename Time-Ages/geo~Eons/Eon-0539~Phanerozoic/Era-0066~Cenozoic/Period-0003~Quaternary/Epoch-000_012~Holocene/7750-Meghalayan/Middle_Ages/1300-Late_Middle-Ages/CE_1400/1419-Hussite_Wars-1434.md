@@ -7,39 +7,20 @@ aliases:
   - 1419-Hussite Wars-1434
 has_id_wikidata: Q478301
 described_by_source:
-  - "[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - '[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-instance_of: "[[_Standards/WikiData/WD~religious_war,1827102]]"
+  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+instance_of: '[[_Standards/WikiData/WD~religious_war,1827102]]'
 end_time: 1434-06-08T00:00:00Z
-locations: "[[_Standards/WikiData/WD~Central_Europe,27509]]"
+locations: '[[_Standards/WikiData/WD~Central_Europe,27509]]'
 BHCL_UUID: 6662153f-b2f1-49c3-aa86-d4c522617e5b
 start_time: 1419-08-08T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hussitenkriege.tif
 Commons_gallery: Hussite wars
 Commons_category: Hussite wars
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../../../WikiData/WD~Hussite_Wars,478301]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1419-Hussite_Wars-1434|1419-Hussite_Wars-1434]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1419-Hussite_Wars-1434.public|1419-Hussite_Wars-1434.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1419-Hussite_Wars-1434.internal|1419-Hussite_Wars-1434.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1419-Hussite_Wars-1434.protect|1419-Hussite_Wars-1434.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1419-Hussite_Wars-1434.private|1419-Hussite_Wars-1434.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1419-Hussite_Wars-1434.personal|1419-Hussite_Wars-1434.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1419-Hussite_Wars-1434.secret|1419-Hussite_Wars-1434.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../../../WikiData/WD~Hussite_Wars,478301]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1419-Hussite_Wars-1434|1419-Hussite_Wars-1434]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1419-Hussite_Wars-1434.public|1419-Hussite_Wars-1434.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1419-Hussite_Wars-1434.internal|1419-Hussite_Wars-1434.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1419-Hussite_Wars-1434.protect|1419-Hussite_Wars-1434.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1419-Hussite_Wars-1434.private|1419-Hussite_Wars-1434.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1419-Hussite_Wars-1434.personal|1419-Hussite_Wars-1434.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1419-Hussite_Wars-1434.secret|1419-Hussite_Wars-1434.secret]]"
 ---
 
 # [[1419-Hussite_Wars-1434]] 

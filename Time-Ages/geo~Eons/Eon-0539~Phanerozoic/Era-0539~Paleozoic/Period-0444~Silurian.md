@@ -39,96 +39,16 @@ Dewey_Decimal_Classification:
   - "551.73"
   - "560.1732"
   - "561.1132"
-dv_has_:
-  duration_:
-    years: "2.460e+7"
-  previous_:
-    item: "[[Period-0485~Ordovician]]"
-  next_:
-    item: "[[Period-0419~Devonian]]"
-  name_:
-    bg: Силур
-    cs: Silur
-    da: Silur
-    de: Silur
-    es: Silúrcio
-    et: Silur
-    fi: Siluuri
-    fr: Silurien
-    hu: szilur
-    it: siluriano
-    ja: シルル紀
-    lt: Silūras
-    nl: Siluur
-    no: Silur
-    pl: Sylur
-    pt: Silúrico
-    sk: silúr
-    sl: silur
-    sv: silur
-    zh: 志留纪
-  abbreviation: S
-  time_:
-    started: "-443.8e6"
-    stopped: "-419.2e6"
-  text_of_:
-    color: "0xB3E1B6"
-dv_is_:
-  same_as:
-    - "[[WD~Silurian,62412]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian|Period-0444~Silurian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian.public|Period-0444~Silurian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian.internal|Period-0444~Silurian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian.protect|Period-0444~Silurian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian.private|Period-0444~Silurian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian.personal|Period-0444~Silurian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian.secret|Period-0444~Silurian.secret]]"
-dv_has_duration_years: "2.460e+7"
-dv_has_previous_item: "[[Period-0485~Ordovician]]"
-dv_has_next_item: "[[Period-0419~Devonian]]"
-dv_is_same_as:
-  - "[[WD~Silurian,62412]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian|Period-0444~Silurian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian.public|Period-0444~Silurian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian.internal|Period-0444~Silurian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian.protect|Period-0444~Silurian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian.private|Period-0444~Silurian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian.personal|Period-0444~Silurian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian.secret|Period-0444~Silurian.secret]]"
-dv_has_name_bg: Силур
-dv_has_name_cs: Silur
-dv_has_name_da: Silur
-dv_has_name_de: Silur
-dv_has_name_es: Silúrcio
-dv_has_name_et: Silur
-dv_has_name_fi: Siluuri
-dv_has_name_fr: Silurien
-dv_has_name_hu: szilur
-dv_has_name_it: siluriano
-dv_has_name_ja: シルル紀
-dv_has_name_lt: Silūras
-dv_has_name_nl: Siluur
-dv_has_name_no: Silur
-dv_has_name_pl: Sylur
-dv_has_name_pt: Silúrico
-dv_has_name_sk: silúr
-dv_has_name_sl: silur
-dv_has_name_sv: silur
-dv_has_name_zh: 志留纪
-dv_has_abbreviation: S
-dv_has_time_started: "-443.8e6"
-dv_has_time_stopped: "-419.2e6"
-dv_has_text_of_color: "0xB3E1B6"
 ---
 
 # [[Period-0444~Silurian]] 
 
 #is_a_/time_/Period 
 
-#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-has_previous_item = `=this.dv_has_previous_item` 
-has_next_item = `=this.dv_has_next_item` 
+#has_/previous_/item :: [[Period-0485~Ordovician]] 
+#has_/next_/item :: [[Period-0419~Devonian]] 
 #is_/same_as :: [[WD~Silurian,62412]]  
 
 A time period from 443.8 to 419.2 million years ago.
@@ -147,34 +67,34 @@ A time period from 443.8 to 419.2 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Silurian) 
 
 
-has_name_bg = `=this.dv_has_name_bg` 
-has_name_cs = `=this.dv_has_name_cs` 
-has_name_da = `=this.dv_has_name_da` 
-has_name_de = `=this.dv_has_name_de` 
-has_name_es = `=this.dv_has_name_es` 
-has_name_et = `=this.dv_has_name_et` 
-has_name_fi = `=this.dv_has_name_fi` 
-has_name_fr = `=this.dv_has_name_fr` 
-has_name_hu = `=this.dv_has_name_hu` 
-has_name_it = `=this.dv_has_name_it` 
-has_name_ja = `=this.dv_has_name_ja` 
-has_name_lt = `=this.dv_has_name_lt` 
-has_name_nl = `=this.dv_has_name_nl` 
-has_name_no = `=this.dv_has_name_no` 
-has_name_pl = `=this.dv_has_name_pl` 
-has_name_pt = `=this.dv_has_name_pt` 
-has_name_sk = `=this.dv_has_name_sk` 
-has_name_sl = `=this.dv_has_name_sl` 
-has_name_sv = `=this.dv_has_name_sv` 
-has_name_zh = `=this.dv_has_name_zh` 
+#has_/name_/bg  :: Силур
+#has_/name_/cs  :: Silur
+#has_/name_/da  :: Silur
+#has_/name_/de  :: Silur
+#has_/name_/es  :: Silúrcio
+#has_/name_/et  :: Silur
+#has_/name_/fi  :: Siluuri
+#has_/name_/fr  :: Silurien
+#has_/name_/hu  :: szilur
+#has_/name_/it  :: siluriano
+#has_/name_/ja  :: シルル紀
+#has_/name_/lt  :: Silūras
+#has_/name_/nl  :: Siluur
+#has_/name_/no  :: Silur
+#has_/name_/pl  :: Sylur
+#has_/name_/pt  :: Silúrico
+#has_/name_/sk  :: silúr
+#has_/name_/sl  :: silur
+#has_/name_/sv  :: silur
+#has_/name_/zh  :: 志留纪
 
-has_abbreviation = `=this.dv_has_abbreviation` 
-has_time_started = `=this.dv_has_time_started` 
-has_time_stopped = `=this.dv_has_time_stopped` 
+#has_/abbreviation :: S
+#has_/time_/started :: -443.8e6 
+#has_/time_/stopped :: -419.2e6 
 
     sh:order 130 
 
-has_text_of_color = `=this.dv_has_text_of_color` 
+#has_/text_of_/color :: 0xB3E1B6
 
 ## All Contents
 

@@ -5,43 +5,18 @@ aliases:
   - 1868-Meiji Restoration
 has_id_wikidata: Q8707
 Commons_category: Meiji Restoration
-country: "[[_Standards/WikiData/WD~Empire_of_Japan,188712]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+country: '[[_Standards/WikiData/WD~Empire_of_Japan,188712]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 end_time: 1889-02-11
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Conscription_Law,11020846]]"
-  - "[[_Standards/WikiData/WD~Full_Name_Ordinance,11483153]]"
+  - '[[_Standards/WikiData/WD~Conscription_Law,11020846]]'
+  - '[[_Standards/WikiData/WD~Full_Name_Ordinance,11483153]]'
 has_time_started: 1868-06
 has_time_stopped: 1889-02-11
 image: http://commons.wikimedia.org/wiki/Special:FilePath/MeijiJoukyou.jpg
-instance_of: "[[_Standards/WikiData/WD~reform,900406]]"
+instance_of: '[[_Standards/WikiData/WD~reform,900406]]'
 native_label: 明治維新
 start_time: 1868-06
-dv_has_:
-  duration_:
-    years: 21
-  duration: P20Y8M1W3D
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../WikiData/WD~Meiji_restoration,8707]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1868-Meiji_Restoration|1868-Meiji_Restoration]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1868-Meiji_Restoration.public|1868-Meiji_Restoration.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1868-Meiji_Restoration.internal|1868-Meiji_Restoration.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1868-Meiji_Restoration.protect|1868-Meiji_Restoration.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1868-Meiji_Restoration.private|1868-Meiji_Restoration.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1868-Meiji_Restoration.personal|1868-Meiji_Restoration.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1868-Meiji_Restoration.secret|1868-Meiji_Restoration.secret]]"
-dv_has_duration_years: 21
-dv_has_duration: P20Y8M1W3D
-dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Meiji_restoration,8707]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1868-Meiji_Restoration|1868-Meiji_Restoration]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1868-Meiji_Restoration.public|1868-Meiji_Restoration.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1868-Meiji_Restoration.internal|1868-Meiji_Restoration.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1868-Meiji_Restoration.protect|1868-Meiji_Restoration.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1868-Meiji_Restoration.private|1868-Meiji_Restoration.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1868-Meiji_Restoration.personal|1868-Meiji_Restoration.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1868-Meiji_Restoration.secret|1868-Meiji_Restoration.secret]]"
 ---
 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

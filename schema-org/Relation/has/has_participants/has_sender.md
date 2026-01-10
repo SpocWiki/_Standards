@@ -7,67 +7,38 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - sender
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_sender
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_sender
 type: Predi_Relation
-dv_has_:
-  sender: Audience, Organization, Person
-  domain: Message, ReceiveAction
-dv_has_sender: Audience, Organization, Person
-dv_#has_:
-  name: is_sender
-  range: Audience, Organization, Person
-dv_is_:
-  sub_property_of: participant
-  same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_participants/has_sender|has_sender]]"
-    - "[[/_public/schema-org/Relation/has/has_participants/has_sender.public|has_sender.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_participants/has_sender.internal|has_sender.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_participants/has_sender.protect|has_sender.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_participants/has_sender.private|has_sender.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_participants/has_sender.personal|has_sender.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_participants/has_sender.secret|has_sender.secret]]"
-dv_has_domain: Message, ReceiveAction
-dv_has_name: is_sender
-dv_has_range: Audience, Organization, Person
-dv_is_sub_property_of: participant
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_participants/has_sender|has_sender]]"
-  - "[[/_public/schema-org/Relation/has/has_participants/has_sender.public|has_sender.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_participants/has_sender.internal|has_sender.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_participants/has_sender.protect|has_sender.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_participants/has_sender.private|has_sender.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_participants/has_sender.personal|has_sender.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_participants/has_sender.secret|has_sender.secret]]"
 ---
 
 Use it like this: 
-- has_sender = `=this.dv_has_sender`  
-- has_sender = `=this.dv_has_sender`  
+- [has_/sender :: Audience, Organization, Person ] 
+- [ has_sender :: Audience, Organization, Person ] 
 
 A sub property of Participant. 
 The participant who is at the sending end of the action.
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: Message, ReceiveAction  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: is_sender )
+( #has_/range :: Audience, Organization, Person )
 
-is_sub_property_of = `=this.dv_is_sub_property_of` 
+#is_/sub_property_of  :: participant 
 
 
 ## Confidential Links & Embeds: 

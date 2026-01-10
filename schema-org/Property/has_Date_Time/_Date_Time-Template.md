@@ -1,83 +1,44 @@
 ---
 aliases:
-  - "{ label-dash: }": ""
-  - "{ label_snail: }": ""
-  - "{ label: }": ""
+  - '{ label-dash: }': ''
+  - '{ label_snail: }': ''
+  - '{ label: }': ''
   - has_time_of_{{label_snail}}
   - _Date_Time-Template
-  - " Date Time-Template"
+  - ' Date Time-Template'
 confidential: public
 cssclasses:
   - Predicate
   - Date_Time
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - "{ label_snail: }": ""
-layout: ""
+  - '{ label_snail: }': ''
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_time_of_{{label_snail}}
 publish: true
-publishDate: ""
+publishDate: ''
 superseded_by:
-  "{ supersededBy: }": ""
+  '{ supersededBy: }': ''
 supersedes:
-  "{ supersedes: }": ""
+  '{ supersedes: }': ''
 tags:
   - class/Property
   - schema-org/Property/Date
 title: has_time_of_{{label_snail}}
 type: Predi_Date_Time
-dv_has_:
-  time_:
-    of_{{label_snail}}: P#Y#M#W#DT#H#M#s.fff
-  domain: "{{domainIncludes}}"
-  sub_properties: "[ {{subproperties}} ]"
-dv_has_time_of_{{label_snail}}: P#Y#M#W#DT#H#M#s.fff
-dv_is_:
-  part_of: "{{isPartOf}}"
-  inverse_of: "{{inverseOf}}"
-  sub_property_of: "{{subPropertyOf}}"
-  same_as:
-    - "[[/_Standards/schema-org/Property/has_Date_Time/_Date_Time-Template|_Date_Time-Template]]"
-    - "[[/_public/schema-org/Property/has_Date_Time/_Date_Time-Template.public|_Date_Time-Template.public]]"
-    - "[[/_internal/schema-org/Property/has_Date_Time/_Date_Time-Template.internal|_Date_Time-Template.internal]]"
-    - "[[/_protect/schema-org/Property/has_Date_Time/_Date_Time-Template.protect|_Date_Time-Template.protect]]"
-    - "[[/_private/schema-org/Property/has_Date_Time/_Date_Time-Template.private|_Date_Time-Template.private]]"
-    - "[[/_personal/schema-org/Property/has_Date_Time/_Date_Time-Template.personal|_Date_Time-Template.personal]]"
-    - "[[/_secret/schema-org/Property/has_Date_Time/_Date_Time-Template.secret|_Date_Time-Template.secret]]"
-dv_#has_:
-  name: is_{{label_snail}}
-  range: "{{rangeIncludes}}"
-dv_has_time_of_label_snail:
-  - P#Y#M#W#DT#H#M#s.fff
-  - P#Y#M#W#DT#H#M#s.fff
-dv_is_part_of: "{{isPartOf}}"
-dv_has_domain: "{{domainIncludes}}"
-dv_has_name: is_{{label_snail}}
-dv_has_range: "{{rangeIncludes}}"
-dv_is_inverse_of: "{{inverseOf}}"
-dv_is_sub_property_of: "{{subPropertyOf}}"
-dv_has_sub_properties: "[ {{subproperties}} ]"
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_Date_Time/_Date_Time-Template|_Date_Time-Template]]"
-  - "[[/_public/schema-org/Property/has_Date_Time/_Date_Time-Template.public|_Date_Time-Template.public]]"
-  - "[[/_internal/schema-org/Property/has_Date_Time/_Date_Time-Template.internal|_Date_Time-Template.internal]]"
-  - "[[/_protect/schema-org/Property/has_Date_Time/_Date_Time-Template.protect|_Date_Time-Template.protect]]"
-  - "[[/_private/schema-org/Property/has_Date_Time/_Date_Time-Template.private|_Date_Time-Template.private]]"
-  - "[[/_personal/schema-org/Property/has_Date_Time/_Date_Time-Template.personal|_Date_Time-Template.personal]]"
-  - "[[/_secret/schema-org/Property/has_Date_Time/_Date_Time-Template.secret|_Date_Time-Template.secret]]"
 ---
 
 Predicate to describe the date of {{domainIncludes}}.
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: {{isPartOf}}  
 
 Use it like this: 
-- has_time_of_{{label_snail}} = `=this.dv_has_time_of_{{label_snail}}`  
-- has_time_of_{{label_snail}} = `=this.dv_has_time_of_{{label_snail}}`  
+- [has_/time_/of_{{label_snail}}::P#Y#M#W#DT#H#M#s.fff] 
+- [has_time_of_{{label_snail}}::P#Y#M#W#DT#H#M#s.fff] 
 
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
@@ -85,16 +46,16 @@ with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: {{domainIncludes}}  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: is_{{label_snail}} )
+( #has_/range :: {{rangeIncludes}} )
 
-is_inverse_of = `=this.dv_is_inverse_of` 
+#is_/inverse_of  :: {{inverseOf}}  
 
-is_sub_property_of = `=this.dv_is_sub_property_of` 
+#is_/sub_property_of  :: {{subPropertyOf}}  
 
-has_sub_properties = `=this.dv_has_sub_properties` 
+#has_/sub_properties :: [ {{subproperties}} ]  
 
 ## Confidential Links & Embeds: 
 

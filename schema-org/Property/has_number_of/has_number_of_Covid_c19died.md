@@ -10,69 +10,39 @@ cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - cvd-num-c19died
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_number_of_cvd-num-c19died
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Count
 title: has_number_of_cvd-num-c19died
 type: Predi_Count
-dv_has_:
-  number_of_:
-    Covid_c19died: Number
-  domain: CDCPMDRecord
-dv_has_number_of_Covid_c19died: Number
-dv_is_:
-  part_of: "pending:"
-  same_as:
-    - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_Covid_c19died|has_number_of_Covid_c19died]]"
-    - "[[/_public/schema-org/Property/has_number_of/has_number_of_Covid_c19died.public|has_number_of_Covid_c19died.public]]"
-    - "[[/_internal/schema-org/Property/has_number_of/has_number_of_Covid_c19died.internal|has_number_of_Covid_c19died.internal]]"
-    - "[[/_protect/schema-org/Property/has_number_of/has_number_of_Covid_c19died.protect|has_number_of_Covid_c19died.protect]]"
-    - "[[/_private/schema-org/Property/has_number_of/has_number_of_Covid_c19died.private|has_number_of_Covid_c19died.private]]"
-    - "[[/_personal/schema-org/Property/has_number_of/has_number_of_Covid_c19died.personal|has_number_of_Covid_c19died.personal]]"
-    - "[[/_secret/schema-org/Property/has_number_of/has_number_of_Covid_c19died.secret|has_number_of_Covid_c19died.secret]]"
-dv_#has_:
-  name: has_number_of_Covid_c19died
-  range: Number
-dv_is_part_of: "pending:"
-dv_has_domain: CDCPMDRecord
-dv_has_name: has_number_of_Covid_c19died
-dv_has_range: Number
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_Covid_c19died|has_number_of_Covid_c19died]]"
-  - "[[/_public/schema-org/Property/has_number_of/has_number_of_Covid_c19died.public|has_number_of_Covid_c19died.public]]"
-  - "[[/_internal/schema-org/Property/has_number_of/has_number_of_Covid_c19died.internal|has_number_of_Covid_c19died.internal]]"
-  - "[[/_protect/schema-org/Property/has_number_of/has_number_of_Covid_c19died.protect|has_number_of_Covid_c19died.protect]]"
-  - "[[/_private/schema-org/Property/has_number_of/has_number_of_Covid_c19died.private|has_number_of_Covid_c19died.private]]"
-  - "[[/_personal/schema-org/Property/has_number_of/has_number_of_Covid_c19died.personal|has_number_of_Covid_c19died.personal]]"
-  - "[[/_secret/schema-org/Property/has_number_of/has_number_of_Covid_c19died.secret|has_number_of_Covid_c19died.secret]]"
 ---
 
 Predicate to describe the Number of CDCPMDRecord.
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use it like this: 
-- has_number_of_Covid_c19died = `=this.dv_has_number_of_Covid_c19died`  
-- has_number_of_Covid_c19died = `=this.dv_has_number_of_Covid_c19died`  
+- [has_/number_of_/Covid_c19died :: Number ] 
+- [ has_number_of_Covid_c19died :: Number ] 
 
 numc19died - DEATHS: Patients with suspected or confirmed COVID-19 who died in the hospital, ED, or any overflow location.
 
 Predicate describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: CDCPMDRecord  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_number_of_Covid_c19died )
+( #has_/range :: Number )
 
 
 ## Confidential Links & Embeds: 

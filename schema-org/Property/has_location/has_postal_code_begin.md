@@ -11,71 +11,41 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - postal
   - code
   - begin
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_postal_code_begin
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_postal_code_begin
 type: Pred_Text
-dv_has_:
-  text_of_:
-    postal_code_begin: Text
-  domain: PostalCodeRangeSpecification
-dv_has_text_of_postal_code_begin: Text
-dv_is_:
-  part_of: "pending:"
-  same_as:
-    - "[[/_Standards/schema-org/Property/has_name/has_postal_code_begin|has_postal_code_begin]]"
-    - "[[/_public/schema-org/Property/has_name/has_postal_code_begin.public|has_postal_code_begin.public]]"
-    - "[[/_internal/schema-org/Property/has_name/has_postal_code_begin.internal|has_postal_code_begin.internal]]"
-    - "[[/_protect/schema-org/Property/has_name/has_postal_code_begin.protect|has_postal_code_begin.protect]]"
-    - "[[/_private/schema-org/Property/has_name/has_postal_code_begin.private|has_postal_code_begin.private]]"
-    - "[[/_personal/schema-org/Property/has_name/has_postal_code_begin.personal|has_postal_code_begin.personal]]"
-    - "[[/_secret/schema-org/Property/has_name/has_postal_code_begin.secret|has_postal_code_begin.secret]]"
-dv_#has_:
-  name: has_text_of_postal_code_begin
-  range: Text
-dv_is_part_of: "pending:"
-dv_has_domain: PostalCodeRangeSpecification
-dv_has_name: has_text_of_postal_code_begin
-dv_has_range: Text
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_name/has_postal_code_begin|has_postal_code_begin]]"
-  - "[[/_public/schema-org/Property/has_name/has_postal_code_begin.public|has_postal_code_begin.public]]"
-  - "[[/_internal/schema-org/Property/has_name/has_postal_code_begin.internal|has_postal_code_begin.internal]]"
-  - "[[/_protect/schema-org/Property/has_name/has_postal_code_begin.protect|has_postal_code_begin.protect]]"
-  - "[[/_private/schema-org/Property/has_name/has_postal_code_begin.private|has_postal_code_begin.private]]"
-  - "[[/_personal/schema-org/Property/has_name/has_postal_code_begin.personal|has_postal_code_begin.personal]]"
-  - "[[/_secret/schema-org/Property/has_name/has_postal_code_begin.secret|has_postal_code_begin.secret]]"
 ---
 
 Predicate to describe the Text of PostalCodeRangeSpecification.
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use it like this: 
-- has_text_of_postal_code_begin = `=this.dv_has_text_of_postal_code_begin`  
-- has_text_of_postal_code_begin = `=this.dv_has_text_of_postal_code_begin`  
+- [has_/text_of_/postal_code_begin :: Text ] 
+- [ has_text_of_postal_code_begin :: Text ] 
 
 First postal code in a range (included).
 
 Predicated describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: PostalCodeRangeSpecification  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_text_of_postal_code_begin )
+( #has_/range :: Text )
 
 
 ## Confidential Links & Embeds: 

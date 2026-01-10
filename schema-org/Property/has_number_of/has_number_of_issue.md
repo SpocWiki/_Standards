@@ -10,69 +10,39 @@ cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - issue_number
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_number_of_issue_number
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Count
 title: has_number_of_issue_number
 type: Predi_Count
-dv_has_:
-  number_of_:
-    issue: Integer, Text
-  domain: PublicationIssue
-dv_has_number_of_issue: Integer, Text
-dv_#has_:
-  name: has_number_of_issue
-  range: Integer, Text
-dv_is_:
-  sub_property_of: position
-  same_as:
-    - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_issue|has_number_of_issue]]"
-    - "[[/_public/schema-org/Property/has_number_of/has_number_of_issue.public|has_number_of_issue.public]]"
-    - "[[/_internal/schema-org/Property/has_number_of/has_number_of_issue.internal|has_number_of_issue.internal]]"
-    - "[[/_protect/schema-org/Property/has_number_of/has_number_of_issue.protect|has_number_of_issue.protect]]"
-    - "[[/_private/schema-org/Property/has_number_of/has_number_of_issue.private|has_number_of_issue.private]]"
-    - "[[/_personal/schema-org/Property/has_number_of/has_number_of_issue.personal|has_number_of_issue.personal]]"
-    - "[[/_secret/schema-org/Property/has_number_of/has_number_of_issue.secret|has_number_of_issue.secret]]"
-dv_has_domain: PublicationIssue
-dv_has_name: has_number_of_issue
-dv_has_range: Integer, Text
-dv_is_sub_property_of: position
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_issue|has_number_of_issue]]"
-  - "[[/_public/schema-org/Property/has_number_of/has_number_of_issue.public|has_number_of_issue.public]]"
-  - "[[/_internal/schema-org/Property/has_number_of/has_number_of_issue.internal|has_number_of_issue.internal]]"
-  - "[[/_protect/schema-org/Property/has_number_of/has_number_of_issue.protect|has_number_of_issue.protect]]"
-  - "[[/_private/schema-org/Property/has_number_of/has_number_of_issue.private|has_number_of_issue.private]]"
-  - "[[/_personal/schema-org/Property/has_number_of/has_number_of_issue.personal|has_number_of_issue.personal]]"
-  - "[[/_secret/schema-org/Property/has_number_of/has_number_of_issue.secret|has_number_of_issue.secret]]"
 ---
 
 Predicate to describe the Number of PublicationIssue.
 
 Use it like this: 
-- has_number_of_issue = `=this.dv_has_number_of_issue`  
-- has_number_of_issue = `=this.dv_has_number_of_issue`  
+- [has_/number_of_/issue :: Integer, Text ] 
+- [ has_number_of_issue :: Integer, Text ] 
 
 Identifies the issue of publication; for example, "iii" or "2".
 
 Predicate describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: PublicationIssue  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_number_of_issue )
+( #has_/range :: Integer, Text )
 
-is_sub_property_of = `=this.dv_is_sub_property_of` 
+#is_/sub_property_of  :: position  
 
 ## Confidential Links & Embeds: 
 

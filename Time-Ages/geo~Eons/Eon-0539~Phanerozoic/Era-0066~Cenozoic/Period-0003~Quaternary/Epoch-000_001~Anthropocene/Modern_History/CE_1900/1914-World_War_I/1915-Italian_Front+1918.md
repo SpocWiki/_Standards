@@ -6,35 +6,16 @@ aliases:
   - 1915-Italian_Front+1918
   - 1915-Italian Front+1918
 has_id_wikidata: Q659745
-instance_of: "[[_Standards/WikiData/WD~war_front,842332]]"
+instance_of: '[[_Standards/WikiData/WD~war_front,842332]]'
 location:
-  - "[[_Standards/WikiData/WD~Venetian_Plain,2309448]]"
-  - "[[_Standards/WikiData/WD~Eastern_Alps,63817]]"
+  - '[[_Standards/WikiData/WD~Venetian_Plain,2309448]]'
+  - '[[_Standards/WikiData/WD~Eastern_Alps,63817]]'
 Commons_category: Italian Front theatre of World War I
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Vittorio%20Veneto.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Italian%20front%20%28World%20War%20I%29.jpg
 Wolfram_Language_entity_code: Entity["MilitaryConflict", "ItalianFrontWorldWarI"]
 end_time: 1918-11-06T00:00:00Z
 start_time: 1915-05-23T00:00:00Z
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../../WikiData/WD~Italian_front,659745]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1915-Italian_Front+1918|1915-Italian_Front+1918]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1915-Italian_Front+1918.public|1915-Italian_Front+1918.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1915-Italian_Front+1918.internal|1915-Italian_Front+1918.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1915-Italian_Front+1918.protect|1915-Italian_Front+1918.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1915-Italian_Front+1918.private|1915-Italian_Front+1918.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1915-Italian_Front+1918.personal|1915-Italian_Front+1918.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1915-Italian_Front+1918.secret|1915-Italian_Front+1918.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Italian_front,659745]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1915-Italian_Front+1918|1915-Italian_Front+1918]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1915-Italian_Front+1918.public|1915-Italian_Front+1918.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1915-Italian_Front+1918.internal|1915-Italian_Front+1918.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1915-Italian_Front+1918.protect|1915-Italian_Front+1918.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1915-Italian_Front+1918.private|1915-Italian_Front+1918.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1915-Italian_Front+1918.personal|1915-Italian_Front+1918.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1915-Italian_Front+1918.secret|1915-Italian_Front+1918.secret]]"
 ---
 
 # [[1915-Italian_Front+1918]] 

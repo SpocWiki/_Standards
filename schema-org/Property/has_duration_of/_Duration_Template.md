@@ -1,87 +1,55 @@
 ---
 aliases:
-  - "{ label-dash: }": ""
-  - "{ label_snail: }": ""
-  - "{ label: }": ""
+  - '{ label-dash: }': ''
+  - '{ label_snail: }': ''
+  - '{ label: }': ''
   - has_duration_of_{{label_snail}}
   - _Duration_Template
-  - " Duration Template"
+  - ' Duration Template'
 confidential: public
 cssclasses:
   - Predicate
   - Duration
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - "{ label_snail: }": ""
-layout: ""
+  - '{ label_snail: }': ''
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_duration_of_{{label_snail}}
 publish: true
-publishDate: ""
+publishDate: ''
 superseded_by:
-  "{ supersededBy: }": ""
+  '{ supersededBy: }': ''
 supersedes:
-  "{ supersedes: }": ""
+  '{ supersedes: }': ''
 tags:
   - class/Property
   - schema-org/Property/Durations
 title: has_duration_of_{{label_snail}}
 type: Predi_Duration
-dv_has_duration_of_{{label_snail}}: P#Y#M#W#DT#H#M#s.fff
-dv_#has_:
-  duration_:
-    of_{{label_snail}}: P#Y#M#W#DT#H#M#s.fff
-dv_is_part_of: "{{isPartOf}}"
-dv_domain: "{{domainIncludes}}"
-dv_has_:
-  name: has_duration_of_{{label_snail}}
-dv_range: "{{rangeIncludes}}"
-dv_sub_property_of: "{{subPropertyOf}}"
-dv_sub_properties: "{{subproperties}}"
-dv_is_:
-  same_as:
-    - "[[/_Standards/schema-org/Property/has_duration_of/_Duration_Template|_Duration_Template]]"
-    - "[[/_public/schema-org/Property/has_duration_of/_Duration_Template.public|_Duration_Template.public]]"
-    - "[[/_internal/schema-org/Property/has_duration_of/_Duration_Template.internal|_Duration_Template.internal]]"
-    - "[[/_protect/schema-org/Property/has_duration_of/_Duration_Template.protect|_Duration_Template.protect]]"
-    - "[[/_private/schema-org/Property/has_duration_of/_Duration_Template.private|_Duration_Template.private]]"
-    - "[[/_personal/schema-org/Property/has_duration_of/_Duration_Template.personal|_Duration_Template.personal]]"
-    - "[[/_secret/schema-org/Property/has_duration_of/_Duration_Template.secret|_Duration_Template.secret]]"
-dv_has_duration_of_label_snail:
-  - P#Y#M#W#DT#H#M#s.fff
-  - P#Y#M#W#DT#H#M#s.fff
-dv_has_name: has_duration_of_{{label_snail}}
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_duration_of/_Duration_Template|_Duration_Template]]"
-  - "[[/_public/schema-org/Property/has_duration_of/_Duration_Template.public|_Duration_Template.public]]"
-  - "[[/_internal/schema-org/Property/has_duration_of/_Duration_Template.internal|_Duration_Template.internal]]"
-  - "[[/_protect/schema-org/Property/has_duration_of/_Duration_Template.protect|_Duration_Template.protect]]"
-  - "[[/_private/schema-org/Property/has_duration_of/_Duration_Template.private|_Duration_Template.private]]"
-  - "[[/_personal/schema-org/Property/has_duration_of/_Duration_Template.personal|_Duration_Template.personal]]"
-  - "[[/_secret/schema-org/Property/has_duration_of/_Duration_Template.secret|_Duration_Template.secret]]"
 ---
 
 Predicate to describe the Duration of {{domainIncludes}}.
 
-is_part_of = `=this.dv_is_part_of` 
+[is_part_of:: {{isPartOf}}]
 
 Use it like this: 
-- has_duration_of_{{label_snail}} = `=this.dv_has_duration_of_{{label_snail}}`  
-- has_duration_of_{{label_snail}} = `=this.dv_has_duration_of_{{label_snail}}`  with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
+- [has_duration_of_{{label_snail}}::P#Y#M#W#DT#H#M#s.fff] 
+- [ #has_/duration_/of_{{label_snail}}::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
 
 {{comment}}
 
 Formal Predicate: 
-domain = `=this.dv_domain` 
-has_name = `=this.dv_has_name` 
-range = `=this.dv_range` 
+[domain::{{domainIncludes}}]
+(has_/name::has_duration_of_{{label_snail}})
+(range::{{rangeIncludes}})
 
-Is sub_property_of = `=this.dv_sub_property_of` 
+Is [sub_property_of::{{subPropertyOf}}]
 
-Has sub_properties = `=this.dv_sub_properties` 
+Has [sub_properties::{{subproperties}}]
 
 
 ## Confidential Links & Embeds: 

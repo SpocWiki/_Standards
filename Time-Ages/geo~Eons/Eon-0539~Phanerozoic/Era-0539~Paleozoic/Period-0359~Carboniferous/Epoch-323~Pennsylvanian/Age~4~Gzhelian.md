@@ -33,95 +33,15 @@ start_time: -303700000-01-01T00:00:00Z
 end_time: -298900000-01-01T00:00:00Z
 sRGB_color_hex_triplet: CCD4C7
 Commons_category: Gzhelian
-dv_has_:
-  duration_:
-    years: "4.800e+6"
-  previous_:
-    item: "[[Age~3~Kasimovian]]"
-  next_:
-    item: "[[../../Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian|Age~1~Asselian]]"
-  name_:
-    bg: Гжел
-    cs: Gzhel
-    da: Gzhelien
-    de: Gzhelium
-    es: Gzeliense
-    et: Gzheli
-    fi: Gzhel
-    fr: Gzhélien
-    hu: gzseli
-    it: gzheliano
-    ja: グゼリアン期
-    lt: Gželis
-    nl: Gzheliën
-    no: Gzhelium
-    pl: Gżel
-    pt: Gzeliano
-    sk: gžel
-    sl: gželij
-    sv: gzhel
-    zh: 格热尔期
-  abbreviation: c7
-  time_:
-    started: "-303.7e6"
-    stopped: "-298.9e6"
-  text_of_:
-    color: "0xCCD4C7"
-dv_is_:
-  same_as:
-    - "[[WD~Gzhelian,1030848]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian|Age~4~Gzhelian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian.public|Age~4~Gzhelian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian.internal|Age~4~Gzhelian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian.protect|Age~4~Gzhelian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian.private|Age~4~Gzhelian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian.personal|Age~4~Gzhelian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian.secret|Age~4~Gzhelian.secret]]"
-dv_has_duration_years: "4.800e+6"
-dv_has_previous_item: "[[Age~3~Kasimovian]]"
-dv_has_next_item: "[[../../Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian|Age~1~Asselian]]"
-dv_is_same_as:
-  - "[[WD~Gzhelian,1030848]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian|Age~4~Gzhelian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian.public|Age~4~Gzhelian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian.internal|Age~4~Gzhelian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian.protect|Age~4~Gzhelian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian.private|Age~4~Gzhelian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian.personal|Age~4~Gzhelian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian.secret|Age~4~Gzhelian.secret]]"
-dv_has_name_bg: Гжел
-dv_has_name_cs: Gzhel
-dv_has_name_da: Gzhelien
-dv_has_name_de: Gzhelium
-dv_has_name_es: Gzeliense
-dv_has_name_et: Gzheli
-dv_has_name_fi: Gzhel
-dv_has_name_fr: Gzhélien
-dv_has_name_hu: gzseli
-dv_has_name_it: gzheliano
-dv_has_name_ja: グゼリアン期
-dv_has_name_lt: Gželis
-dv_has_name_nl: Gzheliën
-dv_has_name_no: Gzhelium
-dv_has_name_pl: Gżel
-dv_has_name_pt: Gzeliano
-dv_has_name_sk: gžel
-dv_has_name_sl: gželij
-dv_has_name_sv: gzhel
-dv_has_name_zh: 格热尔期
-dv_has_abbreviation: c7
-dv_has_time_started: "-303.7e6"
-dv_has_time_stopped: "-298.9e6"
-dv_has_text_of_color: "0xCCD4C7"
 ---
 # [[Age~4~Gzhelian]] 
 
 #is_a_/time_/Age 
 
-#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-has_previous_item = `=this.dv_has_previous_item` 
-has_next_item = `=this.dv_has_next_item` 
+#has_/previous_/item :: [[Age~3~Kasimovian]] 
+#has_/next_/item :: [[../../Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian|Age~1~Asselian]] 
 #is_/same_as :: [[WD~Gzhelian,1030848]] 
 
 A time period from 303.7 to 298.9 million years ago. 
@@ -135,35 +55,35 @@ A time period from 303.7 to 298.9 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Gzhelian) 
 
 
-has_name_bg = `=this.dv_has_name_bg` 
-has_name_cs = `=this.dv_has_name_cs` 
-has_name_da = `=this.dv_has_name_da` 
-has_name_de = `=this.dv_has_name_de` 
-has_name_es = `=this.dv_has_name_es` 
-has_name_et = `=this.dv_has_name_et` 
-has_name_fi = `=this.dv_has_name_fi` 
-has_name_fr = `=this.dv_has_name_fr` 
-has_name_hu = `=this.dv_has_name_hu` 
-has_name_it = `=this.dv_has_name_it` 
-has_name_ja = `=this.dv_has_name_ja` 
-has_name_lt = `=this.dv_has_name_lt` 
-has_name_nl = `=this.dv_has_name_nl` 
-has_name_no = `=this.dv_has_name_no` 
-has_name_pl = `=this.dv_has_name_pl` 
-has_name_pt = `=this.dv_has_name_pt` 
-has_name_sk = `=this.dv_has_name_sk` 
-has_name_sl = `=this.dv_has_name_sl` 
-has_name_sv = `=this.dv_has_name_sv` 
-has_name_zh = `=this.dv_has_name_zh` 
+#has_/name_/bg  :: Гжел
+#has_/name_/cs  :: Gzhel
+#has_/name_/da  :: Gzhelien
+#has_/name_/de  :: Gzhelium
+#has_/name_/es  :: Gzeliense
+#has_/name_/et  :: Gzheli
+#has_/name_/fi  :: Gzhel
+#has_/name_/fr  :: Gzhélien
+#has_/name_/hu  :: gzseli
+#has_/name_/it  :: gzheliano
+#has_/name_/ja  :: グゼリアン期
+#has_/name_/lt  :: Gželis
+#has_/name_/nl  :: Gzheliën
+#has_/name_/no  :: Gzhelium
+#has_/name_/pl  :: Gżel
+#has_/name_/pt  :: Gzeliano
+#has_/name_/sk  :: gžel
+#has_/name_/sl  :: gželij
+#has_/name_/sv  :: gzhel
+#has_/name_/zh  :: 格热尔期
 
-has_abbreviation = `=this.dv_has_abbreviation` 
+#has_/abbreviation :: c7
 
-has_time_started = `=this.dv_has_time_started` 
-has_time_stopped = `=this.dv_has_time_stopped` 
+#has_/time_/started :: -303.7e6 
+#has_/time_/stopped :: -298.9e6 
 
     sh:order 92 
 
-has_text_of_color = `=this.dv_has_text_of_color` 
+#has_/text_of_/color :: 0xCCD4C7
 
 ## All Contents
 

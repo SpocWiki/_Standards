@@ -6,32 +6,13 @@ aliases:
   - Nazi Concentration Camp
 has_id_wikidata: Q328468
 subclass_of:
-  - "[[_Standards/WikiData/WD~concentration_camp,152081]]"
-  - "[[_Standards/WikiData/WD~total_institution,1752649]]"
+  - '[[_Standards/WikiData/WD~concentration_camp,152081]]'
+  - '[[_Standards/WikiData/WD~total_institution,1752649]]'
 Commons_category: Nazi concentration camps
 image: http://commons.wikimedia.org/wiki/Special:FilePath/NaziConcentrationCamp.gif
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/WW2%20Holocaust%20Europe%20map-de.png
 OpenStreetMap_tag_or_key: Tag:concentration_camp=nazism
 code_name: protective custody
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../../WikiData/WD~Nazi_concentration_camp,328468|WD~Nazi_concentration_camp,328468]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Nazi_Concentration_Camp|Nazi_Concentration_Camp]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Nazi_Concentration_Camp.public|Nazi_Concentration_Camp.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Nazi_Concentration_Camp.internal|Nazi_Concentration_Camp.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Nazi_Concentration_Camp.protect|Nazi_Concentration_Camp.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Nazi_Concentration_Camp.private|Nazi_Concentration_Camp.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Nazi_Concentration_Camp.personal|Nazi_Concentration_Camp.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Nazi_Concentration_Camp.secret|Nazi_Concentration_Camp.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Nazi_concentration_camp,328468|WD~Nazi_concentration_camp,328468]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Nazi_Concentration_Camp|Nazi_Concentration_Camp]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Nazi_Concentration_Camp.public|Nazi_Concentration_Camp.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Nazi_Concentration_Camp.internal|Nazi_Concentration_Camp.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Nazi_Concentration_Camp.protect|Nazi_Concentration_Camp.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Nazi_Concentration_Camp.private|Nazi_Concentration_Camp.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Nazi_Concentration_Camp.personal|Nazi_Concentration_Camp.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Nazi_Concentration_Camp.secret|Nazi_Concentration_Camp.secret]]"
 ---
 
 

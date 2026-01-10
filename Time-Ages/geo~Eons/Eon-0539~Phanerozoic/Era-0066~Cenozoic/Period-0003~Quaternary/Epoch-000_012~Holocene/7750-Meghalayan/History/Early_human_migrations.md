@@ -4,30 +4,11 @@ aliases:
   - Frühe Wanderung des Menschen
   - Early_human_migrations
 has_id_wikidata: Q858288
-has_part_s_: "[[_Standards/WikiData/WD~human_migration,177626]]"
+has_part_s_: '[[_Standards/WikiData/WD~human_migration,177626]]'
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Spreading%20homo%20sapiens%20la.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Early%20migrations%20mercator.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Mt-Haplogruppen-Wanderung.png
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../WikiData/WD~Early_human_migrations,858288|WD~Early_human_migrations,858288]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Early_human_migrations|Early_human_migrations]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Early_human_migrations.public|Early_human_migrations.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Early_human_migrations.internal|Early_human_migrations.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Early_human_migrations.protect|Early_human_migrations.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Early_human_migrations.private|Early_human_migrations.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Early_human_migrations.personal|Early_human_migrations.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Early_human_migrations.secret|Early_human_migrations.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Early_human_migrations,858288|WD~Early_human_migrations,858288]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Early_human_migrations|Early_human_migrations]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Early_human_migrations.public|Early_human_migrations.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Early_human_migrations.internal|Early_human_migrations.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Early_human_migrations.protect|Early_human_migrations.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Early_human_migrations.private|Early_human_migrations.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Early_human_migrations.personal|Early_human_migrations.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Early_human_migrations.secret|Early_human_migrations.secret]]"
 ---
 
 

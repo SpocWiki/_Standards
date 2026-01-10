@@ -8,23 +8,23 @@ aliases:
   - Molotov–Ribbentrop_Pact
 has_id_wikidata: Q130796
 signatory:
-  - "[[_Standards/WikiData/WD~Joachim_von_Ribbentrop,101886]]"
-  - "[[_Standards/WikiData/WD~Vyacheslav_Molotov,132899]]"
+  - '[[_Standards/WikiData/WD~Joachim_von_Ribbentrop,101886]]'
+  - '[[_Standards/WikiData/WD~Vyacheslav_Molotov,132899]]'
 ratified_by:
-  - "[[_Standards/WikiData/WD~German_Reich,1206012]]"
-  - "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
+  - '[[_Standards/WikiData/WD~German_Reich,1206012]]'
+  - '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~non_aggression_pact,1412901]]"
-  - "[[_Standards/WikiData/WD~secret_treaty,1498487]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-has_edition_or_translation: "[[_Standards/WikiData/WD~Secret_Additional_Protocol_to_the_Molotov_Ribbentrop_Pact,4413308]]"
-locations: "[[_Standards/WikiData/WD~Moscow,649]]"
+  - '[[_Standards/WikiData/WD~non_aggression_pact,1412901]]'
+  - '[[_Standards/WikiData/WD~secret_treaty,1498487]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+has_edition_or_translation: '[[_Standards/WikiData/WD~Secret_Additional_Protocol_to_the_Molotov_Ribbentrop_Pact,4413308]]'
+locations: '[[_Standards/WikiData/WD~Moscow,649]]'
 participant:
-  - "[[_Standards/WikiData/WD~Nazi_Germany,7318]]"
-  - "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
+  - '[[_Standards/WikiData/WD~Nazi_Germany,7318]]'
+  - '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
 language_of_work_or_name:
-  - "[[_Standards/WikiData/WD~Russian,7737]]"
-  - "[[_Standards/WikiData/WD~German,188]]"
+  - '[[_Standards/WikiData/WD~Russian,7737]]'
+  - '[[_Standards/WikiData/WD~German,188]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20183-H27337%2C%20Moskau%2C%20Stalin%20und%20Ribbentrop%20im%20Kreml.jpg
 Libris_URI: 1zcgpbgk4tzbn8v
 Commons_gallery: Molotov-Ribbentrop Pact
@@ -42,48 +42,27 @@ draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate: ""
-has_Template: "[[Extract~Note~Template]]"
+expiryDate: ''
+has_Template: '[[Extract~Note~Template]]'
 has_time_started:
-  '{ "date:YYYY-MM-DD": }': ""
+  '{ "date:YYYY-MM-DD": }': ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  "{ newTitle: }": ""
+  '{ newTitle: }': ''
 lang: en
-layout: ""
+layout: ''
 license: (c)copyrighted
 linkTitle:
-  "{ newTitle: }": ""
+  '{ newTitle: }': ''
 publish: false
-publishDate: ""
+publishDate: ''
 tags:
-  - "{ newTitle: }": ""
+  - '{ newTitle: }': ''
   - excalidraw
 title:
-  "{ newTitle: }": ""
+  '{ newTitle: }': ''
 type: private_note
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../../WikiData/WD~Molotov–Ribbentrop_Pact,130796]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Molotov–Ribbentrop_Pact|Molotov–Ribbentrop_Pact]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Molotov–Ribbentrop_Pact.public|Molotov–Ribbentrop_Pact.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Molotov–Ribbentrop_Pact.internal|Molotov–Ribbentrop_Pact.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Molotov–Ribbentrop_Pact.protect|Molotov–Ribbentrop_Pact.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Molotov–Ribbentrop_Pact.private|Molotov–Ribbentrop_Pact.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Molotov–Ribbentrop_Pact.personal|Molotov–Ribbentrop_Pact.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Molotov–Ribbentrop_Pact.secret|Molotov–Ribbentrop_Pact.secret]]"
-  part_of: "[[Molotov–Ribbentrop_Pact]]"
-dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Molotov–Ribbentrop_Pact,130796]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Molotov–Ribbentrop_Pact|Molotov–Ribbentrop_Pact]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Molotov–Ribbentrop_Pact.public|Molotov–Ribbentrop_Pact.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Molotov–Ribbentrop_Pact.internal|Molotov–Ribbentrop_Pact.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Molotov–Ribbentrop_Pact.protect|Molotov–Ribbentrop_Pact.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Molotov–Ribbentrop_Pact.private|Molotov–Ribbentrop_Pact.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Molotov–Ribbentrop_Pact.personal|Molotov–Ribbentrop_Pact.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Molotov–Ribbentrop_Pact.secret|Molotov–Ribbentrop_Pact.secret]]"
-dv_is_part_of: "[[Molotov–Ribbentrop_Pact]]"
 ---
 
 # [[Molotov–Ribbentrop_Pact]] 
@@ -177,7 +156,7 @@ dv_is_part_of: "[[Molotov–Ribbentrop_Pact]]"
 
 # [[Molotov–Ribbentrop_Pact]] 
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: [[Molotov–Ribbentrop_Pact]] 
 
 ![[Molotov–Ribbentrop_Pact.svg]]
 

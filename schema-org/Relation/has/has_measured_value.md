@@ -9,68 +9,39 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - measured_value
   - measured
   - value
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_measured_value
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_measured_value
 type: Predi_Relation
-dv_has_:
-  measured_value: DataType
-  domain: Observation
-dv_has_measured_value: DataType
-dv_is_:
-  part_of: "pending:"
-  same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_measured_value|has_measured_value]]"
-    - "[[/_public/schema-org/Relation/has/has_measured_value.public|has_measured_value.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_measured_value.internal|has_measured_value.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_measured_value.protect|has_measured_value.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_measured_value.private|has_measured_value.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_measured_value.personal|has_measured_value.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_measured_value.secret|has_measured_value.secret]]"
-dv_#has_:
-  name: has_measured_value
-  range: DataType
-dv_is_part_of: "pending:"
-dv_has_domain: Observation
-dv_has_name: has_measured_value
-dv_has_range: DataType
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_measured_value|has_measured_value]]"
-  - "[[/_public/schema-org/Relation/has/has_measured_value.public|has_measured_value.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_measured_value.internal|has_measured_value.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_measured_value.protect|has_measured_value.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_measured_value.private|has_measured_value.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_measured_value.personal|has_measured_value.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_measured_value.secret|has_measured_value.secret]]"
 ---
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use it like this: 
-- has_measured_value = `=this.dv_has_measured_value`  
-- has_measured_value = `=this.dv_has_measured_value`  
+- [has_/measured_value :: DataType ] 
+- [ has_measured_value :: DataType ] 
 
 The measuredValue of an [[Observation]].
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: Observation  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_measured_value )
+( #has_/range :: DataType )
 
 
 ## Confidential Links & Embeds: 

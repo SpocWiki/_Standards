@@ -7,72 +7,41 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - archive
   - held
   - archiveHeld
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_archive_held
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_archive_held
 type: Predi_Relation
-dv_has_:
-  archive_held: ArchiveComponent
-  domain: ArchiveOrganization
-dv_has_archive_held: ArchiveComponent
-dv_is_:
-  part_of: "pending:"
-  inverse_of: "[[../is/is_holding_archive]]"
-  same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_archive_held|has_archive_held]]"
-    - "[[/_public/schema-org/Relation/has/has_archive_held.public|has_archive_held.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_archive_held.internal|has_archive_held.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_archive_held.protect|has_archive_held.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_archive_held.private|has_archive_held.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_archive_held.personal|has_archive_held.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_archive_held.secret|has_archive_held.secret]]"
-dv_#has_:
-  name: has_archive_held
-  range: ArchiveComponent
-dv_is_part_of: "pending:"
-dv_has_domain: ArchiveOrganization
-dv_has_name: has_archive_held
-dv_has_range: ArchiveComponent
-dv_is_inverse_of: "[[../is/is_holding_archive]]"
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_archive_held|has_archive_held]]"
-  - "[[/_public/schema-org/Relation/has/has_archive_held.public|has_archive_held.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_archive_held.internal|has_archive_held.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_archive_held.protect|has_archive_held.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_archive_held.private|has_archive_held.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_archive_held.personal|has_archive_held.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_archive_held.secret|has_archive_held.secret]]"
 ---
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use it like this: 
-- has_archive_held = `=this.dv_has_archive_held`  
-- has_archive_held = `=this.dv_has_archive_held`  
+- [has_/archive_held :: ArchiveComponent ] 
+- [ has_archive_held :: ArchiveComponent ] 
 
 Collection, [fonds](https://en.wikipedia.org/wiki/Fonds), or item held, kept or maintained by an [[ArchiveOrganization]].
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: ArchiveOrganization  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_archive_held )
+( #has_/range :: ArchiveComponent )
 
-is_inverse_of = `=this.dv_is_inverse_of` 
+#is_/inverse_of  :: [[../is/is_holding_archive]]  
 
 ## Confidential Links & Embeds: 
 

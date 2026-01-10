@@ -9,7 +9,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,61 +17,32 @@ keywords:
   - aid
   - eligible
   - financial_aid_eligible
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_financial_aid_eligible
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_financial_aid_eligible
 type: Predi_Relation
-dv_has_:
-  financial_aid_eligible: DefinedTerm, Text
-  domain: EducationalOccupationalProgram
-dv_has_financial_aid_eligible: DefinedTerm, Text
-dv_is_:
-  part_of: "pending:"
-  same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_financial_aid_eligible|has_financial_aid_eligible]]"
-    - "[[/_public/schema-org/Relation/has/has_financial_aid_eligible.public|has_financial_aid_eligible.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_financial_aid_eligible.internal|has_financial_aid_eligible.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_financial_aid_eligible.protect|has_financial_aid_eligible.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_financial_aid_eligible.private|has_financial_aid_eligible.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_financial_aid_eligible.personal|has_financial_aid_eligible.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_financial_aid_eligible.secret|has_financial_aid_eligible.secret]]"
-dv_#has_:
-  name: has_financial_aid_eligible
-  range: DefinedTerm, Text
-dv_is_part_of: "pending:"
-dv_has_domain: EducationalOccupationalProgram
-dv_has_name: has_financial_aid_eligible
-dv_has_range: DefinedTerm, Text
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_financial_aid_eligible|has_financial_aid_eligible]]"
-  - "[[/_public/schema-org/Relation/has/has_financial_aid_eligible.public|has_financial_aid_eligible.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_financial_aid_eligible.internal|has_financial_aid_eligible.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_financial_aid_eligible.protect|has_financial_aid_eligible.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_financial_aid_eligible.private|has_financial_aid_eligible.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_financial_aid_eligible.personal|has_financial_aid_eligible.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_financial_aid_eligible.secret|has_financial_aid_eligible.secret]]"
 ---
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use it like this: 
-- has_financial_aid_eligible = `=this.dv_has_financial_aid_eligible`  
-- has_financial_aid_eligible = `=this.dv_has_financial_aid_eligible`  
+- [has_/financial_aid_eligible :: DefinedTerm, Text ] 
+- [ has_financial_aid_eligible :: DefinedTerm, Text ] 
 
 A financial aid type or program which students may use to pay for tuition or fees associated with the program.
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: EducationalOccupationalProgram  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_financial_aid_eligible )
+( #has_/range :: DefinedTerm, Text )
 
 
 ## Confidential Links & Embeds: 

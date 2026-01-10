@@ -17,29 +17,6 @@ location: "[[_Standards/WikiData/WD~Northern_Europe,27479]]"
 continent: "[[_Standards/WikiData/WD~Europe,46]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Nicholas%20Roerich%2C%20Guests%20from%20Overseas.jpg
 Commons_category: Viking Age
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../../WikiData/WD~Viking_Age,213649|WD~Viking_Age,213649]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0793-Viking_Age+1066|0793-Viking_Age+1066]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0793-Viking_Age+1066.public|0793-Viking_Age+1066.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0793-Viking_Age+1066.internal|0793-Viking_Age+1066.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0793-Viking_Age+1066.protect|0793-Viking_Age+1066.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0793-Viking_Age+1066.private|0793-Viking_Age+1066.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0793-Viking_Age+1066.personal|0793-Viking_Age+1066.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0793-Viking_Age+1066.secret|0793-Viking_Age+1066.secret]]"
-dv_has_:
-  duration_: P273Y
-dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Viking_Age,213649|WD~Viking_Age,213649]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0793-Viking_Age+1066|0793-Viking_Age+1066]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0793-Viking_Age+1066.public|0793-Viking_Age+1066.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0793-Viking_Age+1066.internal|0793-Viking_Age+1066.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0793-Viking_Age+1066.protect|0793-Viking_Age+1066.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0793-Viking_Age+1066.private|0793-Viking_Age+1066.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0793-Viking_Age+1066.personal|0793-Viking_Age+1066.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0793-Viking_Age+1066.secret|0793-Viking_Age+1066.secret]]"
-dv_has_duration_years: 273
-dv_has_duration_: P273Y
 ---
 
 # [[0793-Viking_Age+1066]] 

@@ -11,7 +11,7 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -19,64 +19,34 @@ keywords:
   - to
   - text
   - markup
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_speech_to_text_markup
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_speech_to_text_markup
 type: Pred_Text
-dv_has_:
-  text_of_:
-    speech_to_text_markup: Text
-  domain: PronounceableText
-dv_has_text_of_speech_to_text_markup: Text
-dv_is_:
-  part_of: "pending:"
-  same_as:
-    - "[[/_Standards/schema-org/Property/Texts/has_speech_to_text_markup|has_speech_to_text_markup]]"
-    - "[[/_public/schema-org/Property/Texts/has_speech_to_text_markup.public|has_speech_to_text_markup.public]]"
-    - "[[/_internal/schema-org/Property/Texts/has_speech_to_text_markup.internal|has_speech_to_text_markup.internal]]"
-    - "[[/_protect/schema-org/Property/Texts/has_speech_to_text_markup.protect|has_speech_to_text_markup.protect]]"
-    - "[[/_private/schema-org/Property/Texts/has_speech_to_text_markup.private|has_speech_to_text_markup.private]]"
-    - "[[/_personal/schema-org/Property/Texts/has_speech_to_text_markup.personal|has_speech_to_text_markup.personal]]"
-    - "[[/_secret/schema-org/Property/Texts/has_speech_to_text_markup.secret|has_speech_to_text_markup.secret]]"
-dv_#has_:
-  name: has_text_of_speech_to_text_markup
-  range: Text
-dv_is_part_of: "pending:"
-dv_has_domain: PronounceableText
-dv_has_name: has_text_of_speech_to_text_markup
-dv_has_range: Text
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_speech_to_text_markup|has_speech_to_text_markup]]"
-  - "[[/_public/schema-org/Property/Texts/has_speech_to_text_markup.public|has_speech_to_text_markup.public]]"
-  - "[[/_internal/schema-org/Property/Texts/has_speech_to_text_markup.internal|has_speech_to_text_markup.internal]]"
-  - "[[/_protect/schema-org/Property/Texts/has_speech_to_text_markup.protect|has_speech_to_text_markup.protect]]"
-  - "[[/_private/schema-org/Property/Texts/has_speech_to_text_markup.private|has_speech_to_text_markup.private]]"
-  - "[[/_personal/schema-org/Property/Texts/has_speech_to_text_markup.personal|has_speech_to_text_markup.personal]]"
-  - "[[/_secret/schema-org/Property/Texts/has_speech_to_text_markup.secret|has_speech_to_text_markup.secret]]"
 ---
 
 Predicate to describe the Text of PronounceableText.
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use it like this: 
-- has_text_of_speech_to_text_markup = `=this.dv_has_text_of_speech_to_text_markup`  
-- has_text_of_speech_to_text_markup = `=this.dv_has_text_of_speech_to_text_markup`  
+- [has_/text_of_/speech_to_text_markup :: Text ] 
+- [ has_text_of_speech_to_text_markup :: Text ] 
 
 Form of markup used. eg. [SSML](https://www.w3.org/TR/speech-synthesis11) or [IPA](https://www.wikidata.org/wiki/Property:P898).
 
 Predicated describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: PronounceableText  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_text_of_speech_to_text_markup )
+( #has_/range :: Text )
 
 
 ## Confidential Links & Embeds: 

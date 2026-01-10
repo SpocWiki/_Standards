@@ -73,25 +73,6 @@ ISNI: "0000000121581586"
 P1015: "90088552"
 Commons_gallery: Warsaw Pact
 Commons_category: Warsaw Pact
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../WikiData/WD~Warsaw_Pact,41644]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1955-Warsaw_Pact+1991|1955-Warsaw_Pact+1991]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1955-Warsaw_Pact+1991.public|1955-Warsaw_Pact+1991.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1955-Warsaw_Pact+1991.internal|1955-Warsaw_Pact+1991.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1955-Warsaw_Pact+1991.protect|1955-Warsaw_Pact+1991.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1955-Warsaw_Pact+1991.private|1955-Warsaw_Pact+1991.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1955-Warsaw_Pact+1991.personal|1955-Warsaw_Pact+1991.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1955-Warsaw_Pact+1991.secret|1955-Warsaw_Pact+1991.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Warsaw_Pact,41644]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1955-Warsaw_Pact+1991|1955-Warsaw_Pact+1991]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1955-Warsaw_Pact+1991.public|1955-Warsaw_Pact+1991.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1955-Warsaw_Pact+1991.internal|1955-Warsaw_Pact+1991.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1955-Warsaw_Pact+1991.protect|1955-Warsaw_Pact+1991.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1955-Warsaw_Pact+1991.private|1955-Warsaw_Pact+1991.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1955-Warsaw_Pact+1991.personal|1955-Warsaw_Pact+1991.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1955-Warsaw_Pact+1991.secret|1955-Warsaw_Pact+1991.secret]]"
 ---
 
 # [[1955-Warsaw_Pact+1991]] 

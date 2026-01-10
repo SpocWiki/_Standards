@@ -76,40 +76,14 @@ Facebook_username: Prof.Yuval.Noah.Harari
 Libris_URI: q1m3bp9nnwjwbskz
 name_in_native_language: יובל נח הררי
 birth_name: יובל נח הררי
-dv_has_:
-  time_:
-    started: 1976-02-24T00:00:00.000+01:00
-  duration_: P49Y10M2W2DT17H53M21.796S
-dv_is_:
-  same_as:
-    - "[[WD~Yuval Noah Harari,2484404]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah|Harari,Yuval_Noah]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah.public|Harari,Yuval_Noah.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah.internal|Harari,Yuval_Noah.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah.protect|Harari,Yuval_Noah.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah.private|Harari,Yuval_Noah.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah.personal|Harari,Yuval_Noah.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah.secret|Harari,Yuval_Noah.secret]]"
-dv_has_time_started: 1976-02-24
-dv_has_duration_years: 50
-dv_has_duration_: P49Y10M2W2DT17H53M21.796S
-dv_is_same_as:
-  - "[[WD~Yuval Noah Harari,2484404]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah|Harari,Yuval_Noah]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah.public|Harari,Yuval_Noah.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah.internal|Harari,Yuval_Noah.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah.protect|Harari,Yuval_Noah.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah.private|Harari,Yuval_Noah.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah.personal|Harari,Yuval_Noah.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah.secret|Harari,Yuval_Noah.secret]]"
 ---
 
 # [[Harari,Yuval_Noah]] 
 
-has_time_started = `=this.dv_has_time_started` 
+#has_/time_/started :: 1976-02-24 
 
-#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().dv_has_time_started)/1000/60/60/24/365.2425)` 
-#has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.dv_has_time_started` 
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+#has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 
 #is_/same_as :: [[WD~Yuval Noah Harari,2484404]] 
 
 ## #has_/text_of_/abstract 

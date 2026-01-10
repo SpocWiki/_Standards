@@ -10,70 +10,40 @@ cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - constraining_property
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_number_of_constraining_property
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Count
 title: has_number_of_constraining_property
 type: Predi_Count
-dv_has_:
-  number_of_:
-    constraining_properties: Integer
-  domain: StatisticalPopulation
-dv_has_number_of_constraining_properties: Integer
-dv_is_:
-  part_of: "pending:"
-  same_as:
-    - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_constraining_properties|has_number_of_constraining_properties]]"
-    - "[[/_public/schema-org/Property/has_number_of/has_number_of_constraining_properties.public|has_number_of_constraining_properties.public]]"
-    - "[[/_internal/schema-org/Property/has_number_of/has_number_of_constraining_properties.internal|has_number_of_constraining_properties.internal]]"
-    - "[[/_protect/schema-org/Property/has_number_of/has_number_of_constraining_properties.protect|has_number_of_constraining_properties.protect]]"
-    - "[[/_private/schema-org/Property/has_number_of/has_number_of_constraining_properties.private|has_number_of_constraining_properties.private]]"
-    - "[[/_personal/schema-org/Property/has_number_of/has_number_of_constraining_properties.personal|has_number_of_constraining_properties.personal]]"
-    - "[[/_secret/schema-org/Property/has_number_of/has_number_of_constraining_properties.secret|has_number_of_constraining_properties.secret]]"
-dv_#has_:
-  name: has_number_of_constraining_properties
-  range: Integer
-dv_is_part_of: "pending:"
-dv_has_domain: StatisticalPopulation
-dv_has_name: has_number_of_constraining_properties
-dv_has_range: Integer
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_constraining_properties|has_number_of_constraining_properties]]"
-  - "[[/_public/schema-org/Property/has_number_of/has_number_of_constraining_properties.public|has_number_of_constraining_properties.public]]"
-  - "[[/_internal/schema-org/Property/has_number_of/has_number_of_constraining_properties.internal|has_number_of_constraining_properties.internal]]"
-  - "[[/_protect/schema-org/Property/has_number_of/has_number_of_constraining_properties.protect|has_number_of_constraining_properties.protect]]"
-  - "[[/_private/schema-org/Property/has_number_of/has_number_of_constraining_properties.private|has_number_of_constraining_properties.private]]"
-  - "[[/_personal/schema-org/Property/has_number_of/has_number_of_constraining_properties.personal|has_number_of_constraining_properties.personal]]"
-  - "[[/_secret/schema-org/Property/has_number_of/has_number_of_constraining_properties.secret|has_number_of_constraining_properties.secret]]"
 ---
 
 Predicate to describe the Number of StatisticalPopulation.
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use it like this: 
-- has_number_of_constraining_properties = `=this.dv_has_number_of_constraining_properties`  
-- has_number_of_constraining_properties = `=this.dv_has_number_of_constraining_properties`  
+- [has_/number_of_/constraining_properties :: Integer ] 
+- [ has_number_of_constraining_properties :: Integer ] 
 
 Indicates a property used as a constraint to define a [[StatisticalPopulation]] with respect to the set of entities
   corresponding to an indicated type (via [[populationType]]).
 
 Predicate describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: StatisticalPopulation  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_number_of_constraining_properties )
+( #has_/range :: Integer )
 
 
 ## Confidential Links & Embeds: 

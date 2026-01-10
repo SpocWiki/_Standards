@@ -10,69 +10,38 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords: ""
-layout: ""
+keywords: ''
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_encoding_bio_chem_entity
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: is_encoding_bio_chem_entity
 type: Predi_Relation
-dv_is_:
-  encoding_bio_chem_entity: BioChemEntity
-  part_of: "pending:"
-  inverse_of: isEncodedByBioChemEntity
-  same_as:
-    - "[[/_Standards/schema-org/Relation/is/is_encoding_bio_chem_entity|is_encoding_bio_chem_entity]]"
-    - "[[/_public/schema-org/Relation/is/is_encoding_bio_chem_entity.public|is_encoding_bio_chem_entity.public]]"
-    - "[[/_internal/schema-org/Relation/is/is_encoding_bio_chem_entity.internal|is_encoding_bio_chem_entity.internal]]"
-    - "[[/_protect/schema-org/Relation/is/is_encoding_bio_chem_entity.protect|is_encoding_bio_chem_entity.protect]]"
-    - "[[/_private/schema-org/Relation/is/is_encoding_bio_chem_entity.private|is_encoding_bio_chem_entity.private]]"
-    - "[[/_personal/schema-org/Relation/is/is_encoding_bio_chem_entity.personal|is_encoding_bio_chem_entity.personal]]"
-    - "[[/_secret/schema-org/Relation/is/is_encoding_bio_chem_entity.secret|is_encoding_bio_chem_entity.secret]]"
-dv_is_encoding_bio_chem_entity: BioChemEntity
-dv_has_:
-  domain: Gene
-dv_#has_:
-  name: is_encoding_bio_chem_entity
-  range: BioChemEntity
-dv_is_part_of: "pending:"
-dv_has_domain: Gene
-dv_has_name: is_encoding_bio_chem_entity
-dv_has_range: BioChemEntity
-dv_is_inverse_of: isEncodedByBioChemEntity
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/is/is_encoding_bio_chem_entity|is_encoding_bio_chem_entity]]"
-  - "[[/_public/schema-org/Relation/is/is_encoding_bio_chem_entity.public|is_encoding_bio_chem_entity.public]]"
-  - "[[/_internal/schema-org/Relation/is/is_encoding_bio_chem_entity.internal|is_encoding_bio_chem_entity.internal]]"
-  - "[[/_protect/schema-org/Relation/is/is_encoding_bio_chem_entity.protect|is_encoding_bio_chem_entity.protect]]"
-  - "[[/_private/schema-org/Relation/is/is_encoding_bio_chem_entity.private|is_encoding_bio_chem_entity.private]]"
-  - "[[/_personal/schema-org/Relation/is/is_encoding_bio_chem_entity.personal|is_encoding_bio_chem_entity.personal]]"
-  - "[[/_secret/schema-org/Relation/is/is_encoding_bio_chem_entity.secret|is_encoding_bio_chem_entity.secret]]"
 ---
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending: 
 
 Use it like this: 
-- is_encoding_bio_chem_entity = `=this.dv_is_encoding_bio_chem_entity`  
-- is_encoding_bio_chem_entity = `=this.dv_is_encoding_bio_chem_entity`  
+- [is_/encoding_bio_chem_entity :: BioChemEntity] 
+- [ is_encoding_bio_chem_entity :: BioChemEntity] 
 
 Another BioChemEntity encoded by this one.
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: Gene 
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: is_encoding_bio_chem_entity)
+( #has_/range :: BioChemEntity)
 
-is_inverse_of = `=this.dv_is_inverse_of` 
+#is_/inverse_of  :: isEncodedByBioChemEntity 
 
 ## Confidential Links & Embeds: 
 

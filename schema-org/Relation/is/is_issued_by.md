@@ -10,63 +10,36 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - issued
   - by
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_issued_by
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: is_issued_by
 type: Predi_Relation
-dv_is_:
-  issued_by: Organization
-  same_as:
-    - "[[/_Standards/schema-org/Relation/is/is_issued_by|is_issued_by]]"
-    - "[[/_public/schema-org/Relation/is/is_issued_by.public|is_issued_by.public]]"
-    - "[[/_internal/schema-org/Relation/is/is_issued_by.internal|is_issued_by.internal]]"
-    - "[[/_protect/schema-org/Relation/is/is_issued_by.protect|is_issued_by.protect]]"
-    - "[[/_private/schema-org/Relation/is/is_issued_by.private|is_issued_by.private]]"
-    - "[[/_personal/schema-org/Relation/is/is_issued_by.personal|is_issued_by.personal]]"
-    - "[[/_secret/schema-org/Relation/is/is_issued_by.secret|is_issued_by.secret]]"
-dv_is_issued_by: Organization
-dv_has_:
-  domain: Permit, Ticket
-dv_#has_:
-  name: is_issued_by
-  range: Organization
-dv_has_domain: Permit, Ticket
-dv_has_name: is_issued_by
-dv_has_range: Organization
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/is/is_issued_by|is_issued_by]]"
-  - "[[/_public/schema-org/Relation/is/is_issued_by.public|is_issued_by.public]]"
-  - "[[/_internal/schema-org/Relation/is/is_issued_by.internal|is_issued_by.internal]]"
-  - "[[/_protect/schema-org/Relation/is/is_issued_by.protect|is_issued_by.protect]]"
-  - "[[/_private/schema-org/Relation/is/is_issued_by.private|is_issued_by.private]]"
-  - "[[/_personal/schema-org/Relation/is/is_issued_by.personal|is_issued_by.personal]]"
-  - "[[/_secret/schema-org/Relation/is/is_issued_by.secret|is_issued_by.secret]]"
 ---
 
 Use it like this: 
-- is_issued_by = `=this.dv_is_issued_by`  
-- is_issued_by = `=this.dv_is_issued_by`  
+- [is_/issued_by :: Organization ] 
+- [ is_issued_by :: Organization ] 
 
 The organization issuing the ticket or permit.
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: Permit, Ticket  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: is_issued_by )
+( #has_/range :: Organization )
 
 
 ## Confidential Links & Embeds: 

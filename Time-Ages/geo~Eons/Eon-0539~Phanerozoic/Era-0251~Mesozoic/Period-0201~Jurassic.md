@@ -35,96 +35,16 @@ Dewey_Decimal_Classification:
   - "551.766"
   - "560.1766"
   - "561.1166"
-dv_has_:
-  duration_:
-    years: "5.640e+7"
-  previous_:
-    item: "[[Period-0252~Triassic]]"
-  next_:
-    item: "[[Period-0145~Cretaceous]]"
-  name_:
-    bg: Юра
-    cs: Jura
-    da: Jurassisk
-    de: Jura
-    es: Jurásico
-    et: Juura
-    fi: Jura
-    fr: Jurassique
-    hu: jura
-    it: giurassico
-    ja: ジュラ紀
-    lt: Jura
-    nl: Jura
-    no: Jura
-    pl: Jura
-    pt: Jurássico
-    sk: jura, jurský
-    sl: jura
-    sv: jura
-    zh: 侏罗纪
-  abbreviation: J
-  time_:
-    started: "-201.4e6"
-    stopped: "-145.0e6"
-  text_of_:
-    color: "0x34B2C9"
-dv_is_:
-  same_as:
-    - "[[../../../../WikiData/WD~Jurassic,45805|WD~Jurassic,45805]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic|Period-0201~Jurassic]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic.public|Period-0201~Jurassic.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic.internal|Period-0201~Jurassic.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic.protect|Period-0201~Jurassic.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic.private|Period-0201~Jurassic.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic.personal|Period-0201~Jurassic.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic.secret|Period-0201~Jurassic.secret]]"
-dv_has_duration_years: "5.640e+7"
-dv_has_previous_item: "[[Period-0252~Triassic]]"
-dv_has_next_item: "[[Period-0145~Cretaceous]]"
-dv_is_same_as:
-  - "[[../../../../WikiData/WD~Jurassic,45805|WD~Jurassic,45805]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic|Period-0201~Jurassic]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic.public|Period-0201~Jurassic.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic.internal|Period-0201~Jurassic.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic.protect|Period-0201~Jurassic.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic.private|Period-0201~Jurassic.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic.personal|Period-0201~Jurassic.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic.secret|Period-0201~Jurassic.secret]]"
-dv_has_name_bg: Юра
-dv_has_name_cs: Jura
-dv_has_name_da: Jurassisk
-dv_has_name_de: Jura
-dv_has_name_es: Jurásico
-dv_has_name_et: Juura
-dv_has_name_fi: Jura
-dv_has_name_fr: Jurassique
-dv_has_name_hu: jura
-dv_has_name_it: giurassico
-dv_has_name_ja: ジュラ紀
-dv_has_name_lt: Jura
-dv_has_name_nl: Jura
-dv_has_name_no: Jura
-dv_has_name_pl: Jura
-dv_has_name_pt: Jurássico
-dv_has_name_sk: jura, jurský
-dv_has_name_sl: jura
-dv_has_name_sv: jura
-dv_has_name_zh: 侏罗纪
-dv_has_abbreviation: J
-dv_has_time_started: "-201.4e6"
-dv_has_time_stopped: "-145.0e6"
-dv_has_text_of_color: "0x34B2C9"
 ---
 
 # [[Period-0201~Jurassic]] 
 
 #is_a_/time_/Period 
 
-#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-has_previous_item = `=this.dv_has_previous_item` 
-has_next_item = `=this.dv_has_next_item` 
+#has_/previous_/item :: [[Period-0252~Triassic]] 
+#has_/next_/item :: [[Period-0145~Cretaceous]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Jurassic,45805|WD~Jurassic,45805]] 
 
@@ -151,35 +71,35 @@ A time period from 201.4 million years ago to 145 Mya.
 > [Wikipedia](https://en.wikipedia.org/wiki/Jurassic) 
 
 
-has_name_bg = `=this.dv_has_name_bg` 
-has_name_cs = `=this.dv_has_name_cs` 
-has_name_da = `=this.dv_has_name_da` 
-has_name_de = `=this.dv_has_name_de` 
-has_name_es = `=this.dv_has_name_es` 
-has_name_et = `=this.dv_has_name_et` 
-has_name_fi = `=this.dv_has_name_fi` 
-has_name_fr = `=this.dv_has_name_fr` 
-has_name_hu = `=this.dv_has_name_hu` 
-has_name_it = `=this.dv_has_name_it` 
-has_name_ja = `=this.dv_has_name_ja` 
-has_name_lt = `=this.dv_has_name_lt` 
-has_name_nl = `=this.dv_has_name_nl` 
-has_name_no = `=this.dv_has_name_no` 
-has_name_pl = `=this.dv_has_name_pl` 
-has_name_pt = `=this.dv_has_name_pt` 
-has_name_sk = `=this.dv_has_name_sk` 
-has_name_sl = `=this.dv_has_name_sl` 
-has_name_sv = `=this.dv_has_name_sv` 
-has_name_zh = `=this.dv_has_name_zh` 
+#has_/name_/bg  :: Юра
+#has_/name_/cs  :: Jura
+#has_/name_/da  :: Jurassisk
+#has_/name_/de  :: Jura
+#has_/name_/es  :: Jurásico
+#has_/name_/et  :: Juura
+#has_/name_/fi  :: Jura
+#has_/name_/fr  :: Jurassique
+#has_/name_/hu  :: jura
+#has_/name_/it  :: giurassico
+#has_/name_/ja  :: ジュラ紀
+#has_/name_/lt  :: Jura
+#has_/name_/nl  :: Jura
+#has_/name_/no  :: Jura
+#has_/name_/pl  :: Jura
+#has_/name_/pt  :: Jurássico
+#has_/name_/sk  :: jura, jurský
+#has_/name_/sl  :: jura
+#has_/name_/sv  :: jura
+#has_/name_/zh  :: 侏罗纪
 
-has_abbreviation = `=this.dv_has_abbreviation` 
+#has_/abbreviation :: J
 
-has_time_started = `=this.dv_has_time_started` 
-has_time_stopped = `=this.dv_has_time_stopped` 
+#has_/time_/started :: -201.4e6 
+#has_/time_/stopped :: -145.0e6 
 
     sh:order 64 
 
-has_text_of_color = `=this.dv_has_text_of_color` 
+#has_/text_of_/color :: 0x34B2C9
 
 ## All Contents
 

@@ -62,95 +62,16 @@ start_time: -330900000-01-01T00:00:00Z
 sRGB_color_hex_triplet: BFC26B
 Commons_category: Serpukhovian
 end_time: -323200000-01-01T00:00:00Z
-dv_has_:
-  duration_:
-    years: NaN
-  previous_:
-    item: "[[Age~2~Visean|Age~Visean]]"
-  next_:
-    item: "[[../Epoch-323~Pennsylvanian/Age~1~Bashkirian|Age~1~Bashkirian]]"
-  name_:
-    bg: Серпухов
-    cs: Serpukhov
-    da: Serpukhovien
-    de: Serpukhovium
-    es: Serpulkhoviense
-    et: Serpuhhovi
-    fi: Serpukhov
-    fr: Serpukhovien
-    hu: szerpuhovi
-    it: serpukhoviano
-    ja: サプコビアン期
-    lt: Serpuchovis
-    nl: Serpukhoviën
-    no: Serpukovium
-    pl: Serpuchow
-    pt: Serpukoviano
-    sk: serpuchov
-    sl: serpukhovij
-    sv: serpukhov
-    zh: 谢尔普霍夫期
-  abbreviation: c3
-  time_:
-    started: "-330.9e6"
-    stopped: "-323.2e6"
-  text_of_:
-    color: "0xBFC26B"
-dv_is_:
-  same_as:
-    - "[[WD~Serpukhovian,1068088]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian|Age~3~Serpukhovian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian.public|Age~3~Serpukhovian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian.internal|Age~3~Serpukhovian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian.protect|Age~3~Serpukhovian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian.private|Age~3~Serpukhovian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian.personal|Age~3~Serpukhovian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian.secret|Age~3~Serpukhovian.secret]]"
-dv_has_duration_years: NaN
-dv_has_previous_item: "[[Age~2~Visean|Age~Visean]]"
-dv_has_next_item: "[[../Epoch-323~Pennsylvanian/Age~1~Bashkirian|Age~1~Bashkirian]]"
-dv_is_same_as:
-  - "[[WD~Serpukhovian,1068088]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian|Age~3~Serpukhovian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian.public|Age~3~Serpukhovian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian.internal|Age~3~Serpukhovian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian.protect|Age~3~Serpukhovian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian.private|Age~3~Serpukhovian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian.personal|Age~3~Serpukhovian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~3~Serpukhovian.secret|Age~3~Serpukhovian.secret]]"
-dv_has_name_bg: Серпухов
-dv_has_name_cs: Serpukhov
-dv_has_name_da: Serpukhovien
-dv_has_name_de: Serpukhovium
-dv_has_name_es: Serpulkhoviense
-dv_has_name_et: Serpuhhovi
-dv_has_name_fi: Serpukhov
-dv_has_name_fr: Serpukhovien
-dv_has_name_hu: szerpuhovi
-dv_has_name_it: serpukhoviano
-dv_has_name_ja: サプコビアン期
-dv_has_name_lt: Serpuchovis
-dv_has_name_nl: Serpukhoviën
-dv_has_name_no: Serpukovium
-dv_has_name_pl: Serpuchow
-dv_has_name_pt: Serpukoviano
-dv_has_name_sk: serpuchov
-dv_has_name_sl: serpukhovij
-dv_has_name_sv: serpukhov
-dv_has_name_zh: 谢尔普霍夫期
-dv_has_abbreviation: c3
-dv_has_time_stopped: "-323.2e6"
-dv_has_text_of_color: "0xBFC26B"
 ---
 
 # [[Age~3~Serpukhovian]] 
 
 #is_a_/time_/Age 
 
-#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-has_previous_item = `=this.dv_has_previous_item` 
-has_next_item = `=this.dv_has_next_item` 
+#has_/previous_/item :: [[Age~2~Visean|Age~Visean]] 
+#has_/next_/item :: [[../Epoch-323~Pennsylvanian/Age~1~Bashkirian|Age~1~Bashkirian]] 
 #is_/same_as :: [[WD~Serpukhovian,1068088]]  
 
 A time period from 330.9 to 323.2 million years ago. 
@@ -169,34 +90,34 @@ A time period from 330.9 to 323.2 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Serpukhovian) 
 
 
-has_name_bg = `=this.dv_has_name_bg` 
-has_name_cs = `=this.dv_has_name_cs` 
-has_name_da = `=this.dv_has_name_da` 
-has_name_de = `=this.dv_has_name_de` 
-has_name_es = `=this.dv_has_name_es` 
-has_name_et = `=this.dv_has_name_et` 
-has_name_fi = `=this.dv_has_name_fi` 
-has_name_fr = `=this.dv_has_name_fr` 
-has_name_hu = `=this.dv_has_name_hu` 
-has_name_it = `=this.dv_has_name_it` 
-has_name_ja = `=this.dv_has_name_ja` 
-has_name_lt = `=this.dv_has_name_lt` 
-has_name_nl = `=this.dv_has_name_nl` 
-has_name_no = `=this.dv_has_name_no` 
-has_name_pl = `=this.dv_has_name_pl` 
-has_name_pt = `=this.dv_has_name_pt` 
-has_name_sk = `=this.dv_has_name_sk` 
-has_name_sl = `=this.dv_has_name_sl` 
-has_name_sv = `=this.dv_has_name_sv` 
-has_name_zh = `=this.dv_has_name_zh` 
+#has_/name_/bg  :: Серпухов
+#has_/name_/cs  :: Serpukhov
+#has_/name_/da  :: Serpukhovien
+#has_/name_/de  :: Serpukhovium
+#has_/name_/es  :: Serpulkhoviense
+#has_/name_/et  :: Serpuhhovi
+#has_/name_/fi  :: Serpukhov
+#has_/name_/fr  :: Serpukhovien
+#has_/name_/hu  :: szerpuhovi
+#has_/name_/it  :: serpukhoviano
+#has_/name_/ja  :: サプコビアン期
+#has_/name_/lt  :: Serpuchovis
+#has_/name_/nl  :: Serpukhoviën
+#has_/name_/no  :: Serpukovium
+#has_/name_/pl  :: Serpuchow
+#has_/name_/pt  :: Serpukoviano
+#has_/name_/sk  :: serpuchov
+#has_/name_/sl  :: serpukhovij
+#has_/name_/sv  :: serpukhov
+#has_/name_/zh  :: 谢尔普霍夫期
 
-has_abbreviation = `=this.dv_has_abbreviation` 
+#has_/abbreviation :: c3
 #has_/time_/started :: -330.9e6 
-has_time_stopped = `=this.dv_has_time_stopped` 
+#has_/time_/stopped :: -323.2e6 
 
     sh:order 100 
 
-has_text_of_color = `=this.dv_has_text_of_color` 
+#has_/text_of_/color :: 0xBFC26B
 
 ## All Contents
 

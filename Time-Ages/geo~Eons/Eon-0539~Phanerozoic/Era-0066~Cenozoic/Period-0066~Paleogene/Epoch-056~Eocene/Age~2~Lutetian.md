@@ -16,86 +16,6 @@ Commons_category: Lutetian
 sRGB_color_hex_triplet: FEB98A
 end_time: -41200000-01-01T00:00:00Z
 start_time: -47800000-01-01T00:00:00Z
-dv_has_:
-  duration_:
-    years: "6.600e+6"
-  previous_:
-    item: "[[Age~1~Ypresian]]"
-  next_:
-    item: "[[Age~3~Bartonian]]"
-  name_:
-    bg: Лютеѿ
-    cs: Lutet
-    da: Lutetien
-    de: Lutetium
-    es: Luteciense
-    et: Luteti
-    fi: Lutet
-    fr: Lutétien
-    hu: lutetiai
-    it: leteziano
-    ja: ルテシアン期
-    lt: Liutetis
-    nl: Lutetiën
-    no: Litetium
-    pl: Lutet
-    pt: Luteciano
-    sk: lutét
-    sl: lutecij
-    sv: lutet
-    zh: 卢台特期
-  abbreviation: e5
-  time_:
-    started: "-47.8e6"
-    stopped: "-41.2e6"
-  text_of_:
-    color: "0xFDB482"
-dv_is_:
-  same_as:
-    - "[[WD~Lutetian,514893]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~2~Lutetian|Age~2~Lutetian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~2~Lutetian.public|Age~2~Lutetian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~2~Lutetian.internal|Age~2~Lutetian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~2~Lutetian.protect|Age~2~Lutetian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~2~Lutetian.private|Age~2~Lutetian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~2~Lutetian.personal|Age~2~Lutetian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~2~Lutetian.secret|Age~2~Lutetian.secret]]"
-dv_has_duration_years: "6.600e+6"
-dv_has_previous_item: "[[Age~1~Ypresian]]"
-dv_has_next_item: "[[Age~3~Bartonian]]"
-dv_is_same_as:
-  - "[[WD~Lutetian,514893]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~2~Lutetian|Age~2~Lutetian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~2~Lutetian.public|Age~2~Lutetian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~2~Lutetian.internal|Age~2~Lutetian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~2~Lutetian.protect|Age~2~Lutetian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~2~Lutetian.private|Age~2~Lutetian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~2~Lutetian.personal|Age~2~Lutetian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-056~Eocene/Age~2~Lutetian.secret|Age~2~Lutetian.secret]]"
-dv_has_name_bg: Лютеѿ
-dv_has_name_cs: Lutet
-dv_has_name_da: Lutetien
-dv_has_name_de: Lutetium
-dv_has_name_es: Luteciense
-dv_has_name_et: Luteti
-dv_has_name_fi: Lutet
-dv_has_name_fr: Lutétien
-dv_has_name_hu: lutetiai
-dv_has_name_it: leteziano
-dv_has_name_ja: ルテシアン期
-dv_has_name_lt: Liutetis
-dv_has_name_nl: Lutetiën
-dv_has_name_no: Litetium
-dv_has_name_pl: Lutet
-dv_has_name_pt: Luteciano
-dv_has_name_sk: lutét
-dv_has_name_sl: lutecij
-dv_has_name_sv: lutet
-dv_has_name_zh: 卢台特期
-dv_has_abbreviation: e5
-dv_has_time_started: "-47.8e6"
-dv_has_time_stopped: "-41.2e6"
-dv_has_text_of_color: "0xFDB482"
 ---
 # [[Age~2~Lutetian]] 
 
@@ -103,10 +23,10 @@ dv_has_text_of_color: "0xFDB482"
 
 A time period from 47.8 to 41.2 million years ago. 
 
-#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-has_previous_item = `=this.dv_has_previous_item` 
-has_next_item = `=this.dv_has_next_item` 
+#has_/previous_/item :: [[Age~1~Ypresian]] 
+#has_/next_/item :: [[Age~3~Bartonian]] 
 #is_/same_as :: [[WD~Lutetian,514893]] 
 
 
@@ -119,35 +39,35 @@ has_next_item = `=this.dv_has_next_item`
 > [Wikipedia](https://en.wikipedia.org/wiki/Lutetian) 
 
 
-has_name_bg = `=this.dv_has_name_bg` 
-has_name_cs = `=this.dv_has_name_cs` 
-has_name_da = `=this.dv_has_name_da` 
-has_name_de = `=this.dv_has_name_de` 
-has_name_es = `=this.dv_has_name_es` 
-has_name_et = `=this.dv_has_name_et` 
-has_name_fi = `=this.dv_has_name_fi` 
-has_name_fr = `=this.dv_has_name_fr` 
-has_name_hu = `=this.dv_has_name_hu` 
-has_name_it = `=this.dv_has_name_it` 
-has_name_ja = `=this.dv_has_name_ja` 
-has_name_lt = `=this.dv_has_name_lt` 
-has_name_nl = `=this.dv_has_name_nl` 
-has_name_no = `=this.dv_has_name_no` 
-has_name_pl = `=this.dv_has_name_pl` 
-has_name_pt = `=this.dv_has_name_pt` 
-has_name_sk = `=this.dv_has_name_sk` 
-has_name_sl = `=this.dv_has_name_sl` 
-has_name_sv = `=this.dv_has_name_sv` 
-has_name_zh = `=this.dv_has_name_zh` 
+#has_/name_/bg  :: Лютеѿ
+#has_/name_/cs  :: Lutet
+#has_/name_/da  :: Lutetien
+#has_/name_/de  :: Lutetium
+#has_/name_/es  :: Luteciense
+#has_/name_/et  :: Luteti
+#has_/name_/fi  :: Lutet
+#has_/name_/fr  :: Lutétien
+#has_/name_/hu  :: lutetiai
+#has_/name_/it  :: leteziano
+#has_/name_/ja  :: ルテシアン期
+#has_/name_/lt  :: Liutetis
+#has_/name_/nl  :: Lutetiën
+#has_/name_/no  :: Litetium
+#has_/name_/pl  :: Lutet
+#has_/name_/pt  :: Luteciano
+#has_/name_/sk  :: lutét
+#has_/name_/sl  :: lutecij
+#has_/name_/sv  :: lutet
+#has_/name_/zh  :: 卢台特期
 
-has_abbreviation = `=this.dv_has_abbreviation` 
+#has_/abbreviation :: e5
 
-has_time_started = `=this.dv_has_time_started` 
-has_time_stopped = `=this.dv_has_time_stopped` 
+#has_/time_/started :: -47.8e6 
+#has_/time_/stopped :: -41.2e6 
 
     sh:order 27 
 
-has_text_of_color = `=this.dv_has_text_of_color` 
+#has_/text_of_/color :: 0xFDB482
 
 ## All Contents
 

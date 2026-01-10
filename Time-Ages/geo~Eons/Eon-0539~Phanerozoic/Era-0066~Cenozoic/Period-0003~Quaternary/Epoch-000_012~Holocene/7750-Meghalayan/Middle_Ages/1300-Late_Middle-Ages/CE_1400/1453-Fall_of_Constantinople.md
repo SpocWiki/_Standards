@@ -1,7 +1,5 @@
 ---
-location:
-  - 28.935
-  - 41.03
+location: [ 28.935 , 41.03 ] 
 aliases:
   - Fall of Constantinople
   - Conquest of Constantinople
@@ -9,39 +7,20 @@ aliases:
   - 1453-Fall of Constantinople
 has_id_wikidata: Q160077
 instance_of:
-  - "[[_Standards/WikiData/WD~battle,178561]]"
-  - "[[_Standards/WikiData/WD~siege,188055]]"
-  - "[[_Standards/WikiData/WD~conquest,1361229]]"
-different_from: "[[_Standards/WikiData/WD~Fall_of_Constantinople,1361212]]"
+  - '[[_Standards/WikiData/WD~battle,178561]]'
+  - '[[_Standards/WikiData/WD~siege,188055]]'
+  - '[[_Standards/WikiData/WD~conquest,1361229]]'
+different_from: '[[_Standards/WikiData/WD~Fall_of_Constantinople,1361212]]'
 coordinate_location: Point(28.935 41.03)
 end_time: 1453-05-29T00:00:00Z
 start_time: 1453-04-15T00:00:00Z
 participant:
-  - "[[_Standards/WikiData/WD~Byzantine_Empire,12544]]"
-  - "[[_Standards/WikiData/WD~Ottoman_Empire,12560]]"
-country: "[[_Standards/WikiData/WD~Byzantine_Empire,12544]]"
-locations: "[[_Standards/WikiData/WD~Constantinople,16869]]"
+  - '[[_Standards/WikiData/WD~Byzantine_Empire,12544]]'
+  - '[[_Standards/WikiData/WD~Ottoman_Empire,12560]]'
+country: '[[_Standards/WikiData/WD~Byzantine_Empire,12544]]'
+locations: '[[_Standards/WikiData/WD~Constantinople,16869]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Le%20si%C3%A8ge%20de%20Constantinople%20%281453%29%20by%20Jean%20Le%20Tavernier%20after%201455.jpg
 Commons_category: Fall of Constantinople (1453)
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../../../WikiData/WD~Fall_of_Constantinople,160077|WD~Fall_of_Constantinople,160077]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1453-Fall_of_Constantinople|1453-Fall_of_Constantinople]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1453-Fall_of_Constantinople.public|1453-Fall_of_Constantinople.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1453-Fall_of_Constantinople.internal|1453-Fall_of_Constantinople.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1453-Fall_of_Constantinople.protect|1453-Fall_of_Constantinople.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1453-Fall_of_Constantinople.private|1453-Fall_of_Constantinople.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1453-Fall_of_Constantinople.personal|1453-Fall_of_Constantinople.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1453-Fall_of_Constantinople.secret|1453-Fall_of_Constantinople.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../../../WikiData/WD~Fall_of_Constantinople,160077|WD~Fall_of_Constantinople,160077]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1453-Fall_of_Constantinople|1453-Fall_of_Constantinople]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1453-Fall_of_Constantinople.public|1453-Fall_of_Constantinople.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1453-Fall_of_Constantinople.internal|1453-Fall_of_Constantinople.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1453-Fall_of_Constantinople.protect|1453-Fall_of_Constantinople.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1453-Fall_of_Constantinople.private|1453-Fall_of_Constantinople.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1453-Fall_of_Constantinople.personal|1453-Fall_of_Constantinople.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1400/1453-Fall_of_Constantinople.secret|1453-Fall_of_Constantinople.secret]]"
 ---
 
 # [[1453-Fall_of_Constantinople]] 

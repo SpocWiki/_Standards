@@ -7,64 +7,35 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - replacee
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_replacee
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_replacee
 type: Predi_Relation
-dv_has_:
-  replacee: "[Thing](../../../Class/Thing.md)"
-dv_has_replacee: "[Thing](../../../Class/Thing.md)"
-dv_#has_:
-  domain: ReplaceAction
-  name: has_replacee
-  range: Thing
-dv_is_:
-  sub_property_of: object
-  same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_replacee|has_replacee]]"
-    - "[[/_public/schema-org/Relation/has/has_replacee.public|has_replacee.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_replacee.internal|has_replacee.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_replacee.protect|has_replacee.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_replacee.private|has_replacee.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_replacee.personal|has_replacee.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_replacee.secret|has_replacee.secret]]"
-dv_has_domain: ReplaceAction
-dv_has_name: has_replacee
-dv_has_range: Thing
-dv_is_sub_property_of: object
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_replacee|has_replacee]]"
-  - "[[/_public/schema-org/Relation/has/has_replacee.public|has_replacee.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_replacee.internal|has_replacee.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_replacee.protect|has_replacee.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_replacee.private|has_replacee.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_replacee.personal|has_replacee.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_replacee.secret|has_replacee.secret]]"
 ---
 
 Use it like this: 
-- has_replacee = `=this.dv_has_replacee` (../../../Class/Thing.md) ] 
-- has_replacee = `=this.dv_has_replacee` (../../../Class/Thing.md) ] 
+- [has_/replacee :: [Thing](../../../Class/Thing.md) ] 
+- [ has_replacee :: [Thing](../../../Class/Thing.md) ] 
 
 A sub property of object. The object that is being replaced.
 
 Relation describes that: 
-has_domain = `=this.dv_has_domain` 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/domain  :: ReplaceAction )
+( #has_/name :: has_replacee )
+( #has_/range :: Thing )
 
-is_sub_property_of = `=this.dv_is_sub_property_of` 
+#is_/sub_property_of  :: object  
 
 ## Confidential Links & Embeds: 
 

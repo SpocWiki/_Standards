@@ -18,86 +18,6 @@ coordinate_location: Point(14.3361 35.9139)
 end_time: -11630000-01-01T00:00:00Z
 Commons_category: Serravallian
 sRGB_color_hex_triplet: FFFF59
-dv_has_:
-  duration_:
-    years: "2.190e+6"
-  previous_:
-    item: "[[Age~3~Langhian]]"
-  next_:
-    item: "[[Age~5~Tortonian]]"
-  name_:
-    bg: Саравал
-    cs: Serraval
-    da: Serravallien
-    de: Serravallium
-    es: Serravalliense
-    et: Serravalli
-    fi: Serravall
-    fr: Serravallien
-    hu: serravallei
-    it: serravaliano
-    ja: サーラバリアン期
-    lt: Seravalis
-    nl: Serravalliën - Langeveld
-    no: Servallium
-    pl: Serrawal
-    pt: Serravaliano
-    sk: serravall
-    sl: serravallij
-    sv: serravall
-    zh: 塞拉瓦尔期
-  abbreviation: n4
-  time_:
-    started: "-13.82e6"
-    stopped: "-11.63e6"
-  text_of_:
-    color: "0xFFFF59"
-dv_is_:
-  same_as:
-    - "[[WD~Serravallian,499307]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~4~Serravallian|Age~4~Serravallian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~4~Serravallian.public|Age~4~Serravallian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~4~Serravallian.internal|Age~4~Serravallian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~4~Serravallian.protect|Age~4~Serravallian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~4~Serravallian.private|Age~4~Serravallian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~4~Serravallian.personal|Age~4~Serravallian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~4~Serravallian.secret|Age~4~Serravallian.secret]]"
-dv_has_duration_years: "2.190e+6"
-dv_has_previous_item: "[[Age~3~Langhian]]"
-dv_has_next_item: "[[Age~5~Tortonian]]"
-dv_is_same_as:
-  - "[[WD~Serravallian,499307]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~4~Serravallian|Age~4~Serravallian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~4~Serravallian.public|Age~4~Serravallian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~4~Serravallian.internal|Age~4~Serravallian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~4~Serravallian.protect|Age~4~Serravallian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~4~Serravallian.private|Age~4~Serravallian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~4~Serravallian.personal|Age~4~Serravallian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene/Age~4~Serravallian.secret|Age~4~Serravallian.secret]]"
-dv_has_name_bg: Саравал
-dv_has_name_cs: Serraval
-dv_has_name_da: Serravallien
-dv_has_name_de: Serravallium
-dv_has_name_es: Serravalliense
-dv_has_name_et: Serravalli
-dv_has_name_fi: Serravall
-dv_has_name_fr: Serravallien
-dv_has_name_hu: serravallei
-dv_has_name_it: serravaliano
-dv_has_name_ja: サーラバリアン期
-dv_has_name_lt: Seravalis
-dv_has_name_nl: Serravalliën - Langeveld
-dv_has_name_no: Servallium
-dv_has_name_pl: Serrawal
-dv_has_name_pt: Serravaliano
-dv_has_name_sk: serravall
-dv_has_name_sl: serravallij
-dv_has_name_sv: serravall
-dv_has_name_zh: 塞拉瓦尔期
-dv_has_abbreviation: n4
-dv_has_time_started: "-13.82e6"
-dv_has_time_stopped: "-11.63e6"
-dv_has_text_of_color: "0xFFFF59"
 ---
 # [[Age~4~Serravallian]] 
 
@@ -105,10 +25,10 @@ dv_has_text_of_color: "0xFFFF59"
 
 A time period from 13.82 to 11.63 million years ago. 
 
-#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-has_previous_item = `=this.dv_has_previous_item` 
-has_next_item = `=this.dv_has_next_item` 
+#has_/previous_/item :: [[Age~3~Langhian]] 
+#has_/next_/item :: [[Age~5~Tortonian]] 
 #is_/same_as :: [[WD~Serravallian,499307]] 
 
 ## #has_/text_of_/abstract 
@@ -118,35 +38,35 @@ has_next_item = `=this.dv_has_next_item`
 > [Wikipedia](https://en.wikipedia.org/wiki/Serravallian) 
 
 
-has_name_bg = `=this.dv_has_name_bg` 
-has_name_cs = `=this.dv_has_name_cs` 
-has_name_da = `=this.dv_has_name_da` 
-has_name_de = `=this.dv_has_name_de` 
-has_name_es = `=this.dv_has_name_es` 
-has_name_et = `=this.dv_has_name_et` 
-has_name_fi = `=this.dv_has_name_fi` 
-has_name_fr = `=this.dv_has_name_fr` 
-has_name_hu = `=this.dv_has_name_hu` 
-has_name_it = `=this.dv_has_name_it` 
-has_name_ja = `=this.dv_has_name_ja` 
-has_name_lt = `=this.dv_has_name_lt` 
-has_name_nl = `=this.dv_has_name_nl` 
-has_name_no = `=this.dv_has_name_no` 
-has_name_pl = `=this.dv_has_name_pl` 
-has_name_pt = `=this.dv_has_name_pt` 
-has_name_sk = `=this.dv_has_name_sk` 
-has_name_sl = `=this.dv_has_name_sl` 
-has_name_sv = `=this.dv_has_name_sv` 
-has_name_zh = `=this.dv_has_name_zh` 
+#has_/name_/bg  :: Саравал
+#has_/name_/cs  :: Serraval
+#has_/name_/da  :: Serravallien
+#has_/name_/de  :: Serravallium
+#has_/name_/es  :: Serravalliense
+#has_/name_/et  :: Serravalli
+#has_/name_/fi  :: Serravall
+#has_/name_/fr  :: Serravallien
+#has_/name_/hu  :: serravallei
+#has_/name_/it  :: serravaliano
+#has_/name_/ja  :: サーラバリアン期
+#has_/name_/lt  :: Seravalis
+#has_/name_/nl  :: Serravalliën - Langeveld
+#has_/name_/no  :: Servallium
+#has_/name_/pl  :: Serrawal
+#has_/name_/pt  :: Serravaliano
+#has_/name_/sk  :: serravall
+#has_/name_/sl  :: serravallij
+#has_/name_/sv  :: serravall
+#has_/name_/zh  :: 塞拉瓦尔期
 
-has_abbreviation = `=this.dv_has_abbreviation` 
+#has_/abbreviation :: n4
 
-has_time_started = `=this.dv_has_time_started` 
-has_time_stopped = `=this.dv_has_time_stopped` 
+#has_/time_/started :: -13.82e6 
+#has_/time_/stopped :: -11.63e6 
 
     sh:order 16 
 
-has_text_of_color = `=this.dv_has_text_of_color` 
+#has_/text_of_/color :: 0xFFFF59
 
 ## All Contents
 

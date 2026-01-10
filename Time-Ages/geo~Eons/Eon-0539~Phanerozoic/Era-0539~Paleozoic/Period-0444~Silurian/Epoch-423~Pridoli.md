@@ -22,96 +22,16 @@ type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Pří
 sRGB_color_hex_triplet: E4F2E6
 end_time: -419200000-01-01T00:00:00Z
 start_time: -423000000-01-01T00:00:00Z
-dv_has_:
-  duration_:
-    years: "3.800e+6"
-  previous_:
-    item: "[[Epoch-427~Ludlow]]"
-  next_:
-    item: "[[../Period-0419~Devonian/Epoch-419~Early_Devonian|Epoch~1~Early_Devonian]]"
-  name_:
-    bg: Пржидол
-    cs: Přídolí
-    da: Pridoli
-    de: Pridoli
-    es: Prídoli
-    et: Pridoli
-    fi: Pridoli
-    fr: Pridoli
-    hu: pridoli
-    it: pridoli
-    ja: プリドリアン世
-    lt: Pržidolis
-    nl: Pridoli
-    no: Pridoli
-    pl: Przydol
-    pt: Pridoli
-    sk: přídol
-    sl: pridolij
-    sv: pridoli
-    zh: 普里多利世
-  abbreviation: S4
-  time_:
-    started: "-423.0e6"
-    stopped: "-419.2e6"
-  text_of_:
-    color: "0xE6F5E1"
-dv_is_:
-  same_as:
-    - "[[WD~Pridoli,1062563]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli|Epoch-423~Pridoli]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli.public|Epoch-423~Pridoli.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli.internal|Epoch-423~Pridoli.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli.protect|Epoch-423~Pridoli.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli.private|Epoch-423~Pridoli.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli.personal|Epoch-423~Pridoli.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli.secret|Epoch-423~Pridoli.secret]]"
-dv_has_duration_years: "3.800e+6"
-dv_has_previous_item: "[[Epoch-427~Ludlow]]"
-dv_has_next_item: "[[../Period-0419~Devonian/Epoch-419~Early_Devonian|Epoch~1~Early_Devonian]]"
-dv_is_same_as:
-  - "[[WD~Pridoli,1062563]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli|Epoch-423~Pridoli]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli.public|Epoch-423~Pridoli.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli.internal|Epoch-423~Pridoli.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli.protect|Epoch-423~Pridoli.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli.private|Epoch-423~Pridoli.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli.personal|Epoch-423~Pridoli.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-423~Pridoli.secret|Epoch-423~Pridoli.secret]]"
-dv_has_name_bg: Пржидол
-dv_has_name_cs: Přídolí
-dv_has_name_da: Pridoli
-dv_has_name_de: Pridoli
-dv_has_name_es: Prídoli
-dv_has_name_et: Pridoli
-dv_has_name_fi: Pridoli
-dv_has_name_fr: Pridoli
-dv_has_name_hu: pridoli
-dv_has_name_it: pridoli
-dv_has_name_ja: プリドリアン世
-dv_has_name_lt: Pržidolis
-dv_has_name_nl: Pridoli
-dv_has_name_no: Pridoli
-dv_has_name_pl: Przydol
-dv_has_name_pt: Pridoli
-dv_has_name_sk: přídol
-dv_has_name_sl: pridolij
-dv_has_name_sv: pridoli
-dv_has_name_zh: 普里多利世
-dv_has_abbreviation: S4
-dv_has_time_started: "-423.0e6"
-dv_has_time_stopped: "-419.2e6"
-dv_has_text_of_color: "0xE6F5E1"
 ---
 
 # [[Epoch-423~Pridoli]] 
 
 #is_a_/time_/Epoch 
 
-#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-has_previous_item = `=this.dv_has_previous_item` 
-has_next_item = `=this.dv_has_next_item` 
+#has_/previous_/item :: [[Epoch-427~Ludlow]] 
+#has_/next_/item :: [[../Period-0419~Devonian/Epoch-419~Early_Devonian|Epoch~1~Early_Devonian]]  
 #is_/same_as :: [[WD~Pridoli,1062563]]  
 
 A time period from 423.0 to 419.2 million years ago. 
@@ -138,35 +58,35 @@ A time period from 423.0 to 419.2 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Pridoli%20Epoch) 
 
 
-has_name_bg = `=this.dv_has_name_bg` 
-has_name_cs = `=this.dv_has_name_cs` 
-has_name_da = `=this.dv_has_name_da` 
-has_name_de = `=this.dv_has_name_de` 
-has_name_es = `=this.dv_has_name_es` 
-has_name_et = `=this.dv_has_name_et` 
-has_name_fi = `=this.dv_has_name_fi` 
-has_name_fr = `=this.dv_has_name_fr` 
-has_name_hu = `=this.dv_has_name_hu` 
-has_name_it = `=this.dv_has_name_it` 
-has_name_ja = `=this.dv_has_name_ja` 
-has_name_lt = `=this.dv_has_name_lt` 
-has_name_nl = `=this.dv_has_name_nl` 
-has_name_no = `=this.dv_has_name_no` 
-has_name_pl = `=this.dv_has_name_pl` 
-has_name_pt = `=this.dv_has_name_pt` 
-has_name_sk = `=this.dv_has_name_sk` 
-has_name_sl = `=this.dv_has_name_sl` 
-has_name_sv = `=this.dv_has_name_sv` 
-has_name_zh = `=this.dv_has_name_zh` 
+#has_/name_/bg  :: Пржидол
+#has_/name_/cs  :: Přídolí
+#has_/name_/da  :: Pridoli
+#has_/name_/de  :: Pridoli
+#has_/name_/es  :: Prídoli
+#has_/name_/et  :: Pridoli
+#has_/name_/fi  :: Pridoli
+#has_/name_/fr  :: Pridoli
+#has_/name_/hu  :: pridoli
+#has_/name_/it  :: pridoli
+#has_/name_/ja  :: プリドリアン世
+#has_/name_/lt  :: Pržidolis
+#has_/name_/nl  :: Pridoli
+#has_/name_/no  :: Pridoli
+#has_/name_/pl  :: Przydol
+#has_/name_/pt  :: Pridoli
+#has_/name_/sk  :: přídol
+#has_/name_/sl  :: pridolij
+#has_/name_/sv  :: pridoli
+#has_/name_/zh  :: 普里多利世
 
-has_abbreviation = `=this.dv_has_abbreviation` 
+#has_/abbreviation :: S4
 
-has_time_started = `=this.dv_has_time_started` 
-has_time_stopped = `=this.dv_has_time_stopped` 
+#has_/time_/started :: -423.0e6 
+#has_/time_/stopped :: -419.2e6 
 
     sh:order 119 
 
-has_text_of_color = `=this.dv_has_text_of_color` 
+#has_/text_of_/color :: 0xE6F5E1
 
 ## All Contents
 

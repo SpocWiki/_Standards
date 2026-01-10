@@ -5,14 +5,14 @@ aliases:
   - 1936-Spanish Civil War+1939
 has_id_wikidata: Q10859
 participant:
-  - "[[_Standards/WikiData/WD~Nationalist_faction,2742116]]"
-  - "[[_Standards/WikiData/WD~Republican_faction,3456351]]"
-archives_at: "[[_Standards/WikiData/WD~Thomas_Fisher_Rare_Book_Library,7789602]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Spanish_Civil_War,22676616]]"
-described_by_source: "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-instance_of: "[[_Standards/WikiData/WD~civil_war,8465]]"
-locations: "[[_Standards/WikiData/WD~Iberian_Peninsula,12837]]"
-country: "[[_Standards/WikiData/WD~Spain,29]]"
+  - '[[_Standards/WikiData/WD~Nationalist_faction,2742116]]'
+  - '[[_Standards/WikiData/WD~Republican_faction,3456351]]'
+archives_at: '[[_Standards/WikiData/WD~Thomas_Fisher_Rare_Book_Library,7789602]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Spanish_Civil_War,22676616]]'
+described_by_source: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+instance_of: '[[_Standards/WikiData/WD~civil_war,8465]]'
+locations: '[[_Standards/WikiData/WD~Iberian_Peninsula,12837]]'
+country: '[[_Standards/WikiData/WD~Spain,29]]'
 described_at_URL: https://discoverarchives.library.utoronto.ca/index.php/spanish-civil-war-collection
 BHCL_UUID: ae43a7fd-d96f-468a-a862-3190ec8d7b15
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Collage%20guerra%20civile%20spagnola.png
@@ -24,25 +24,6 @@ Commons_category: Spanish Civil War
 end_time: 1939-04-01T00:00:00Z
 start_time: 1936-07-18T00:00:00Z
 EcuRed_article: Guerra_civil_española
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../WikiData/WD~Spanish_Civil_War,10859|WD~Spanish_Civil_War,10859]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1936-Spanish_Civil_War+1939|1936-Spanish_Civil_War+1939]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1936-Spanish_Civil_War+1939.public|1936-Spanish_Civil_War+1939.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1936-Spanish_Civil_War+1939.internal|1936-Spanish_Civil_War+1939.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1936-Spanish_Civil_War+1939.protect|1936-Spanish_Civil_War+1939.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1936-Spanish_Civil_War+1939.private|1936-Spanish_Civil_War+1939.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1936-Spanish_Civil_War+1939.personal|1936-Spanish_Civil_War+1939.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1936-Spanish_Civil_War+1939.secret|1936-Spanish_Civil_War+1939.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Spanish_Civil_War,10859|WD~Spanish_Civil_War,10859]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1936-Spanish_Civil_War+1939|1936-Spanish_Civil_War+1939]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1936-Spanish_Civil_War+1939.public|1936-Spanish_Civil_War+1939.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1936-Spanish_Civil_War+1939.internal|1936-Spanish_Civil_War+1939.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1936-Spanish_Civil_War+1939.protect|1936-Spanish_Civil_War+1939.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1936-Spanish_Civil_War+1939.private|1936-Spanish_Civil_War+1939.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1936-Spanish_Civil_War+1939.personal|1936-Spanish_Civil_War+1939.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1936-Spanish_Civil_War+1939.secret|1936-Spanish_Civil_War+1939.secret]]"
 ---
 
 

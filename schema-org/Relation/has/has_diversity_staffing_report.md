@@ -8,72 +8,41 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - diversity
   - staffing
   - report
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_diversity_staffing_report
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_diversity_staffing_report
 type: Predi_Relation
-dv_has_:
-  diversity_staffing_report: Article, URL
-  domain: NewsMediaOrganization, Organization
-dv_has_diversity_staffing_report: Article, URL
-dv_is_:
-  part_of: "pending:"
-  sub_property_of: publishingPrinciples
-  same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_diversity_staffing_report|has_diversity_staffing_report]]"
-    - "[[/_public/schema-org/Relation/has/has_diversity_staffing_report.public|has_diversity_staffing_report.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_diversity_staffing_report.internal|has_diversity_staffing_report.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_diversity_staffing_report.protect|has_diversity_staffing_report.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_diversity_staffing_report.private|has_diversity_staffing_report.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_diversity_staffing_report.personal|has_diversity_staffing_report.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_diversity_staffing_report.secret|has_diversity_staffing_report.secret]]"
-dv_#has_:
-  name: has_diversity_staffing_report
-  range: Article, URL
-dv_is_part_of: "pending:"
-dv_has_domain: NewsMediaOrganization, Organization
-dv_has_name: has_diversity_staffing_report
-dv_has_range: Article, URL
-dv_is_sub_property_of: publishingPrinciples
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_diversity_staffing_report|has_diversity_staffing_report]]"
-  - "[[/_public/schema-org/Relation/has/has_diversity_staffing_report.public|has_diversity_staffing_report.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_diversity_staffing_report.internal|has_diversity_staffing_report.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_diversity_staffing_report.protect|has_diversity_staffing_report.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_diversity_staffing_report.private|has_diversity_staffing_report.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_diversity_staffing_report.personal|has_diversity_staffing_report.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_diversity_staffing_report.secret|has_diversity_staffing_report.secret]]"
 ---
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use it like this: 
-- has_diversity_staffing_report = `=this.dv_has_diversity_staffing_report`  
-- has_diversity_staffing_report = `=this.dv_has_diversity_staffing_report`  
+- [has_/diversity_staffing_report :: Article, URL ] 
+- [ has_diversity_staffing_report :: Article, URL ] 
 
 For an [[../../../Society/Agent/Community/Organization]] (often but not necessarily a [[NewsMediaOrganization]]), a report on staffing diversity issues. In a news context this might be for example ASNE or RTDNA (US) reports, or self-reported.
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: NewsMediaOrganization, Organization  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_diversity_staffing_report )
+( #has_/range :: Article, URL )
 
-is_sub_property_of = `=this.dv_is_sub_property_of` 
+#is_/sub_property_of  :: publishingPrinciples  
 
 ## Confidential Links & Embeds: 
 

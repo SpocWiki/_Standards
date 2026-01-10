@@ -6,25 +6,6 @@ subclass_of: "[[_Standards/WikiData/WD~human_migration,177626]]"
 topic_s_main_category: "[[_Standards/WikiData/WD~Category_Peopling_of_the_Americas,55940737]]"
 location: "[[_Standards/WikiData/WD~Americas,828]]"
 Commons_category: Settlement of the Americas
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../WikiData/WD~Peopling_of_the_Americas,13925462]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas|Peopling_of_the_Americas]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.public|Peopling_of_the_Americas.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.internal|Peopling_of_the_Americas.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.protect|Peopling_of_the_Americas.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.private|Peopling_of_the_Americas.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.personal|Peopling_of_the_Americas.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.secret|Peopling_of_the_Americas.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Peopling_of_the_Americas,13925462]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas|Peopling_of_the_Americas]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.public|Peopling_of_the_Americas.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.internal|Peopling_of_the_Americas.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.protect|Peopling_of_the_Americas.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.private|Peopling_of_the_Americas.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.personal|Peopling_of_the_Americas.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-002_568~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.secret|Peopling_of_the_Americas.secret]]"
 ---
 
 # [[Peopling_of_the_Americas]] 

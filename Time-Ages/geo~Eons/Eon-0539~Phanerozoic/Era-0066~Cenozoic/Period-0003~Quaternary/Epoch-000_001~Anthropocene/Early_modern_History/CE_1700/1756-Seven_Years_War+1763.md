@@ -51,33 +51,12 @@ instance_of: "[[_Standards/WikiData/WD~war,198]]"
 Commons_category: Seven Years' War
 image: http://commons.wikimedia.org/wiki/Special:FilePath/SevenYearsWar.png
 Wolfram_Language_entity_code:
-  - Entity"Concept", "SevenYearsWar = `=this.dv_"Concept", "SevenYearsWar` 
+  - Entity["Concept", "SevenYearsWar::g2cyy"]
   - Entity["HistoricalEvent", "SevenYearsWarBegins"]
   - Entity["MilitaryConflict", "SevenYearsWar"]
 Krugosvet_article_archived_: istoriya/SEMILETNYAYA_VONA.html
 Commons_gallery: Seven Years War
 Stadtwiki_Dresden_article: Siebenjähriger_Krieg
-dv_"Concept", "SevenYearsWar: g2cyy"
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../WikiData/WD~Seven_Years_War,33143|WD~Seven_Years_War,33143]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1756-Seven_Years_War+1763|1756-Seven_Years_War+1763]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1756-Seven_Years_War+1763.public|1756-Seven_Years_War+1763.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1756-Seven_Years_War+1763.internal|1756-Seven_Years_War+1763.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1756-Seven_Years_War+1763.protect|1756-Seven_Years_War+1763.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1756-Seven_Years_War+1763.private|1756-Seven_Years_War+1763.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1756-Seven_Years_War+1763.personal|1756-Seven_Years_War+1763.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1756-Seven_Years_War+1763.secret|1756-Seven_Years_War+1763.secret]]"
-dv_concept-sevenyearswar: g2cyy"
-dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Seven_Years_War,33143|WD~Seven_Years_War,33143]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1756-Seven_Years_War+1763|1756-Seven_Years_War+1763]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1756-Seven_Years_War+1763.public|1756-Seven_Years_War+1763.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1756-Seven_Years_War+1763.internal|1756-Seven_Years_War+1763.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1756-Seven_Years_War+1763.protect|1756-Seven_Years_War+1763.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1756-Seven_Years_War+1763.private|1756-Seven_Years_War+1763.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1756-Seven_Years_War+1763.personal|1756-Seven_Years_War+1763.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1756-Seven_Years_War+1763.secret|1756-Seven_Years_War+1763.secret]]"
 ---
 
 # [[1756-Seven_Years_War+1763]] 

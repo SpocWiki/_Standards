@@ -19,86 +19,6 @@ named_after: "[[_Standards/WikiData/WD~Le_Mans,1476]]"
 country: "[[_Standards/WikiData/WD~France,142]]"
 sRGB_color_hex_triplet: B5DA71
 Commons_category: Cenomanian
-dv_has_:
-  duration_:
-    years: "6.600e+6"
-  previous_:
-    item: "[[../Epoch-145~Early_Cretaceous/Age~6~Albian|Age~6~Albian]]"
-  next_:
-    item: "[[Age~2~Turonian]]"
-  name_:
-    bg: Ценоман
-    cs: Cenoman
-    da: Cenomanien
-    de: Cenomanium
-    es: Cenomaniense
-    et: Cenomani
-    fi: Cenoman
-    fr: Cénomanien
-    hu: cenoman
-    it: cenomaniano
-    ja: セノマニアン期
-    lt: Cenomanis
-    nl: Laat/Boven Krijt
-    no: Cenomanium
-    pl: Cenoman
-    pt: Cenomaniano
-    sk: cenoman
-    sl: cenomanij
-    sv: cenoman
-    zh: 森诺曼期
-  abbreviation: k1
-  time_:
-    started: "-100.5e6"
-    stopped: "-93.9e6"
-  text_of_:
-    color: "0xB3DE53"
-dv_is_:
-  same_as:
-    - "[[WD~Cenomanian,185567]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian|Age~1~Cenomanian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian.public|Age~1~Cenomanian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian.internal|Age~1~Cenomanian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian.protect|Age~1~Cenomanian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian.private|Age~1~Cenomanian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian.personal|Age~1~Cenomanian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian.secret|Age~1~Cenomanian.secret]]"
-dv_has_duration_years: "6.600e+6"
-dv_has_previous_item: "[[../Epoch-145~Early_Cretaceous/Age~6~Albian|Age~6~Albian]]"
-dv_has_next_item: "[[Age~2~Turonian]]"
-dv_is_same_as:
-  - "[[WD~Cenomanian,185567]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian|Age~1~Cenomanian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian.public|Age~1~Cenomanian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian.internal|Age~1~Cenomanian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian.protect|Age~1~Cenomanian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian.private|Age~1~Cenomanian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian.personal|Age~1~Cenomanian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~1~Cenomanian.secret|Age~1~Cenomanian.secret]]"
-dv_has_name_bg: Ценоман
-dv_has_name_cs: Cenoman
-dv_has_name_da: Cenomanien
-dv_has_name_de: Cenomanium
-dv_has_name_es: Cenomaniense
-dv_has_name_et: Cenomani
-dv_has_name_fi: Cenoman
-dv_has_name_fr: Cénomanien
-dv_has_name_hu: cenoman
-dv_has_name_it: cenomaniano
-dv_has_name_ja: セノマニアン期
-dv_has_name_lt: Cenomanis
-dv_has_name_nl: Laat/Boven Krijt
-dv_has_name_no: Cenomanium
-dv_has_name_pl: Cenoman
-dv_has_name_pt: Cenomaniano
-dv_has_name_sk: cenoman
-dv_has_name_sl: cenomanij
-dv_has_name_sv: cenoman
-dv_has_name_zh: 森诺曼期
-dv_has_abbreviation: k1
-dv_has_time_started: "-100.5e6"
-dv_has_time_stopped: "-93.9e6"
-dv_has_text_of_color: "0xB3DE53"
 ---
 # [[Age~1~Cenomanian]] 
 
@@ -106,10 +26,10 @@ dv_has_text_of_color: "0xB3DE53"
 
 A time period from 100.5 to 93.9 million years ago. 
 
-#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-has_previous_item = `=this.dv_has_previous_item` 
-has_next_item = `=this.dv_has_next_item` 
+#has_/previous_/item :: [[../Epoch-145~Early_Cretaceous/Age~6~Albian|Age~6~Albian]] 
+#has_/next_/item :: [[Age~2~Turonian]] 
 #is_/same_as :: [[WD~Cenomanian,185567]] 
 
 ## #has_/text_of_/abstract 
@@ -123,35 +43,35 @@ has_next_item = `=this.dv_has_next_item`
 > [Wikipedia](https://en.wikipedia.org/wiki/Cenomanian) 
 
 
-has_name_bg = `=this.dv_has_name_bg` 
-has_name_cs = `=this.dv_has_name_cs` 
-has_name_da = `=this.dv_has_name_da` 
-has_name_de = `=this.dv_has_name_de` 
-has_name_es = `=this.dv_has_name_es` 
-has_name_et = `=this.dv_has_name_et` 
-has_name_fi = `=this.dv_has_name_fi` 
-has_name_fr = `=this.dv_has_name_fr` 
-has_name_hu = `=this.dv_has_name_hu` 
-has_name_it = `=this.dv_has_name_it` 
-has_name_ja = `=this.dv_has_name_ja` 
-has_name_lt = `=this.dv_has_name_lt` 
-has_name_nl = `=this.dv_has_name_nl` 
-has_name_no = `=this.dv_has_name_no` 
-has_name_pl = `=this.dv_has_name_pl` 
-has_name_pt = `=this.dv_has_name_pt` 
-has_name_sk = `=this.dv_has_name_sk` 
-has_name_sl = `=this.dv_has_name_sl` 
-has_name_sv = `=this.dv_has_name_sv` 
-has_name_zh = `=this.dv_has_name_zh` 
+#has_/name_/bg  :: Ценоман
+#has_/name_/cs  :: Cenoman
+#has_/name_/da  :: Cenomanien
+#has_/name_/de  :: Cenomanium
+#has_/name_/es  :: Cenomaniense
+#has_/name_/et  :: Cenomani
+#has_/name_/fi  :: Cenoman
+#has_/name_/fr  :: Cénomanien
+#has_/name_/hu  :: cenoman
+#has_/name_/it  :: cenomaniano
+#has_/name_/ja  :: セノマニアン期
+#has_/name_/lt  :: Cenomanis
+#has_/name_/nl  :: Laat/Boven Krijt
+#has_/name_/no  :: Cenomanium
+#has_/name_/pl  :: Cenoman
+#has_/name_/pt  :: Cenomaniano
+#has_/name_/sk  :: cenoman
+#has_/name_/sl  :: cenomanij
+#has_/name_/sv  :: cenoman
+#has_/name_/zh  :: 森诺曼期
 
-has_abbreviation = `=this.dv_has_abbreviation` 
+#has_/abbreviation :: k1
 
-has_time_started = `=this.dv_has_time_started` 
-has_time_stopped = `=this.dv_has_time_stopped` 
+#has_/time_/started :: -100.5e6 
+#has_/time_/stopped ::  -93.9e6 
 
     sh:order 41 
 
-has_text_of_color = `=this.dv_has_text_of_color` 
+#has_/text_of_/color :: 0xB3DE53
 
 ## All Contents
 

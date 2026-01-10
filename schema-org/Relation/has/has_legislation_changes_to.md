@@ -10,59 +10,30 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - legislation_changes
   - legislation
   - changes
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_legislation_changes
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_legislation_changes
 type: Predi_Relation
-dv_has_:
-  legislation_changes: Legislation
-  domain: Legislation
-dv_has_legislation_changes: Legislation
-dv_is_:
-  part_of: "pending:"
-  same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_legislation_changes_to|has_legislation_changes_to]]"
-    - "[[/_public/schema-org/Relation/has/has_legislation_changes_to.public|has_legislation_changes_to.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_legislation_changes_to.internal|has_legislation_changes_to.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_legislation_changes_to.protect|has_legislation_changes_to.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_legislation_changes_to.private|has_legislation_changes_to.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_legislation_changes_to.personal|has_legislation_changes_to.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_legislation_changes_to.secret|has_legislation_changes_to.secret]]"
-dv_#has_:
-  name: has_legislation_changes_to
-  range: Legislation
-dv_is_part_of: "pending:"
-dv_has_domain: Legislation
-dv_has_name: has_legislation_changes_to
-dv_has_range: Legislation
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_legislation_changes_to|has_legislation_changes_to]]"
-  - "[[/_public/schema-org/Relation/has/has_legislation_changes_to.public|has_legislation_changes_to.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_legislation_changes_to.internal|has_legislation_changes_to.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_legislation_changes_to.protect|has_legislation_changes_to.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_legislation_changes_to.private|has_legislation_changes_to.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_legislation_changes_to.personal|has_legislation_changes_to.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_legislation_changes_to.secret|has_legislation_changes_to.secret]]"
 ---
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use it like this: 
-- has_legislation_changes = `=this.dv_has_legislation_changes`  
-- has_legislation_changes = `=this.dv_has_legislation_changes`  
+- [has_/legislation_changes :: Legislation ] 
+- [ has_legislation_changes :: Legislation ] 
 
 Another legislation that this legislation changes. 
 
@@ -77,10 +48,10 @@ For consolidation relationships, use the [[legislation_Consolidates]] property.
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: Legislation  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_legislation_changes_to )
+( #has_/range :: Legislation )
 
 
 ## Confidential Links & Embeds: 

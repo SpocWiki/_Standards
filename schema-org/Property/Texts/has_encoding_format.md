@@ -11,59 +11,23 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - encoding
   - format
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_encoding_format
 publish: true
-publishDate: ""
+publishDate: ''
 supersedes: fileFormat
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_encoding_format
 type: Pred_Text
-dv_has_:
-  text_of_:
-    encoding_format: Text, URL
-  domain: CreativeWork, MediaObject
-dv_has_text_of_encoding_format: Text, URL
-dv_is_:
-  similar_to:
-    - "[[has_content_type|contentType]]"
-    - "[[has_encoding_type]]"
-  different_from: "[[../../Relation/has/has_encoding|has_encoding]]"
-  same_as:
-    - "[[/_Standards/schema-org/Property/Texts/has_encoding_format|has_encoding_format]]"
-    - "[[/_public/schema-org/Property/Texts/has_encoding_format.public|has_encoding_format.public]]"
-    - "[[/_internal/schema-org/Property/Texts/has_encoding_format.internal|has_encoding_format.internal]]"
-    - "[[/_protect/schema-org/Property/Texts/has_encoding_format.protect|has_encoding_format.protect]]"
-    - "[[/_private/schema-org/Property/Texts/has_encoding_format.private|has_encoding_format.private]]"
-    - "[[/_personal/schema-org/Property/Texts/has_encoding_format.personal|has_encoding_format.personal]]"
-    - "[[/_secret/schema-org/Property/Texts/has_encoding_format.secret|has_encoding_format.secret]]"
-dv_#has_:
-  name: has_text_of_encoding_format
-  range: Text, URL
-dv_is_similar_to:
-  - "[[has_content_type|contentType]]"
-  - "[[has_encoding_type]]"
-dv_is_different_from: "[[../../Relation/has/has_encoding|has_encoding]]"
-dv_has_domain: CreativeWork, MediaObject
-dv_has_name: has_text_of_encoding_format
-dv_has_range: Text, URL
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_encoding_format|has_encoding_format]]"
-  - "[[/_public/schema-org/Property/Texts/has_encoding_format.public|has_encoding_format.public]]"
-  - "[[/_internal/schema-org/Property/Texts/has_encoding_format.internal|has_encoding_format.internal]]"
-  - "[[/_protect/schema-org/Property/Texts/has_encoding_format.protect|has_encoding_format.protect]]"
-  - "[[/_private/schema-org/Property/Texts/has_encoding_format.private|has_encoding_format.private]]"
-  - "[[/_personal/schema-org/Property/Texts/has_encoding_format.personal|has_encoding_format.personal]]"
-  - "[[/_secret/schema-org/Property/Texts/has_encoding_format.secret|has_encoding_format.secret]]"
 ---
 
 # [[has_encoding_format]] 
@@ -72,8 +36,8 @@ Predicate to describe the media type or MIME type of a [[CreativeWork]] or [[Med
 Use **`encodingFormat`** in most cases, since it is more general and widely adopted. 
 
 Use it like this: 
-- has_text_of_encoding_format = `=this.dv_has_text_of_encoding_format`  
-- has_text_of_encoding_format = `=this.dv_has_text_of_encoding_format`  
+- [has_/text_of_/encoding_format :: Text, URL ] 
+- [ has_text_of_encoding_format :: Text, URL ] 
 
 Media type typically expressed using a MIME format (see [IANA site](http://www.iana.org/assignments/media-types/media-types.xhtml) and [MDN reference](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types)), 
 e.g. application/zip for a SoftwareApplication binary, audio/mpeg for .mp3 etc.
@@ -86,14 +50,14 @@ e.g. defining Web page or a Wikipedia/Wikidata entry.
 
 #is_/similar_to :: [[has_content_type|contentType]] 
 #is_/similar_to :: [[has_encoding_type]] 
-is_different_from = `=this.dv_is_different_from` 
+#is_/different_from :: [[../../Relation/has/has_encoding|has_encoding]] 
 
 Predicated describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: CreativeWork, MediaObject  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_text_of_encoding_format )
+( #has_/range :: Text, URL )
 
 
 ## Confidential Links & Embeds: 

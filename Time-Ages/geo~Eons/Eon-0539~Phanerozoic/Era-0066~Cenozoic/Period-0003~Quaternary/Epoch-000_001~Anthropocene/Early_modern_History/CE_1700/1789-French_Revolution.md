@@ -7,58 +7,37 @@ has_id_wikidata: Q6534
 Archive_of_Our_Own_tag: French Revolution RPF
 BHCL_UUID: fbef2e02-f948-4704-969d-fe324ffff48c
 Commons_category: French Revolution
-country: "[[_Standards/WikiData/WD~France,142]]"
+country: '[[_Standards/WikiData/WD~France,142]]'
 described_by_source:
-  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-different_from: "[[_Standards/WikiData/WD~French_Revolution,239523]]"
+  - '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+different_from: '[[_Standards/WikiData/WD~French_Revolution,239523]]'
 end_time: 1799-11-09
 has_time_started: 1789-07-14
 has_time_stopped: 1799-11-09
-history_of_topic: "[[_Standards/WikiData/WD~timeline_of_the_French_Revolution,186961]]"
+history_of_topic: '[[_Standards/WikiData/WD~timeline_of_the_French_Revolution,186961]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/LouisXVIExecutionBig.jpg
 instance_of:
-  - "[[_Standards/WikiData/WD~revolution,10931]]"
-  - "[[_Standards/WikiData/WD~historical_event,13418847]]"
+  - '[[_Standards/WikiData/WD~revolution,10931]]'
+  - '[[_Standards/WikiData/WD~historical_event,13418847]]'
 Krugosvet_article: kultura_i_obrazovanie/religiya/VELIKAYA_FRANTSUZSKAYA_REVOLYUTSIYA.html
-location: "[[_Standards/WikiData/WD~France,142]]"
+location: '[[_Standards/WikiData/WD~France,142]]'
 MeSH_tree_code:
   - I01.880.735.950.250.563
   - K01.400.504.875.374
-participant: "[[_Standards/WikiData/WD~Louis_Antoine_de_Saint-Just,27764]]"
+participant: '[[_Standards/WikiData/WD~Louis_Antoine_de_Saint-Just,27764]]'
 point_in_time: 1789-05-05
 Provenio_UUID: b2270e29-4998-4b15-aec5-c99cb843eba0
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Es-Revoluci%C3%B3n%20Francesa-article.ogg
 start_time: 1789-07-14
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_French_Revolution,14403429]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_French_Revolution,3247542]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_French_Revolution,14403429]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_French_Revolution,3247542]]'
 UMLS_CUI: C1449767
 U_S_National_Archives_Identifier: 10638936
-dv_has_:
-  duration_: P10Y3M3W5D
-dv_is_:
-  same_as:
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution|1789-French_Revolution]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution.public|1789-French_Revolution.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution.internal|1789-French_Revolution.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution.protect|1789-French_Revolution.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution.private|1789-French_Revolution.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution.personal|1789-French_Revolution.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution.secret|1789-French_Revolution.secret]]"
-dv_has_duration_years: 10
-dv_has_duration_: P10Y3M3W5D
-dv_is_same_as:
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution|1789-French_Revolution]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution.public|1789-French_Revolution.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution.internal|1789-French_Revolution.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution.protect|1789-French_Revolution.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution.private|1789-French_Revolution.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution.personal|1789-French_Revolution.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1789-French_Revolution.secret|1789-French_Revolution.secret]]"
 ---
 
 #has_/time_/started : `=this.has_time_started` 

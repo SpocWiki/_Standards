@@ -9,68 +9,39 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - refund_type
   - refund
   - type
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_refund_type
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_refund_type
 type: Predi_Relation
-dv_has_:
-  refund_type: RefundTypeEnumeration
-  domain: MerchantReturnPolicy
-dv_has_refund_type: RefundTypeEnumeration
-dv_is_:
-  part_of: "pending:"
-  same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_refund_type|has_refund_type]]"
-    - "[[/_public/schema-org/Relation/has/has_refund_type.public|has_refund_type.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_refund_type.internal|has_refund_type.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_refund_type.protect|has_refund_type.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_refund_type.private|has_refund_type.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_refund_type.personal|has_refund_type.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_refund_type.secret|has_refund_type.secret]]"
-dv_#has_:
-  name: is_refund_type
-  range: RefundTypeEnumeration
-dv_is_part_of: "pending:"
-dv_has_domain: MerchantReturnPolicy
-dv_has_name: is_refund_type
-dv_has_range: RefundTypeEnumeration
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_refund_type|has_refund_type]]"
-  - "[[/_public/schema-org/Relation/has/has_refund_type.public|has_refund_type.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_refund_type.internal|has_refund_type.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_refund_type.protect|has_refund_type.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_refund_type.private|has_refund_type.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_refund_type.personal|has_refund_type.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_refund_type.secret|has_refund_type.secret]]"
 ---
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use it like this: 
-- has_refund_type = `=this.dv_has_refund_type`  
-- has_refund_type = `=this.dv_has_refund_type`  
+- [has_/refund_type :: RefundTypeEnumeration ] 
+- [ has_refund_type :: RefundTypeEnumeration ] 
 
 A refund type, from an enumerated list.
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: MerchantReturnPolicy  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: is_refund_type )
+( #has_/range :: RefundTypeEnumeration )
 
 
 ## Confidential Links & Embeds: 

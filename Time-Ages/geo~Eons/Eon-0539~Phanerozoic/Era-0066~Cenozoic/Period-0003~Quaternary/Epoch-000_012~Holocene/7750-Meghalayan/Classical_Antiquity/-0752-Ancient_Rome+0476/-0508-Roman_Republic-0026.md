@@ -1,7 +1,5 @@
 ---
-location:
-  - 12.5
-  - 41.9
+location: [ 12.5 , 41.9 ] 
 aliases:
   - Roman Republic
   - Roman_Republic
@@ -13,27 +11,27 @@ inception: -0508-01-01T00:00:00Z
 dissolved_abolished_or_demolished_date: -0026-01-14T00:00:00Z
 end_time: -0026-01-01T00:00:00Z
 legislative_body:
-  - "[[_Standards/WikiData/WD~Roman_Senate,130614]]"
+  - '[[_Standards/WikiData/WD~Roman_Senate,130614]]'
   - "[[_Standards/WikiData/WD~citizens'_assemblies_of_the_Roman_Republic,1114821]]"
-official_religion: "[[_Standards/WikiData/WD~ancient_Roman_religion,337547]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~ancient_Roman_religion,337547]]"
-different_from: "[[_Standards/WikiData/WD~Roman_Republic,346629]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~aristocratic_republic,666680]]"
-currency: "[[_Standards/WikiData/WD~Roman_currency,952064]]"
+official_religion: '[[_Standards/WikiData/WD~ancient_Roman_religion,337547]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~ancient_Roman_religion,337547]]'
+different_from: '[[_Standards/WikiData/WD~Roman_Republic,346629]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~aristocratic_republic,666680]]'
+currency: '[[_Standards/WikiData/WD~Roman_currency,952064]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~form_of_government,1307214]]"
-  - "[[_Standards/WikiData/WD~historical_country,3024240]]"
-  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
-  - "[[_Standards/WikiData/WD~empire,48349]]"
+  - '[[_Standards/WikiData/WD~form_of_government,1307214]]'
+  - '[[_Standards/WikiData/WD~historical_country,3024240]]'
+  - '[[_Standards/WikiData/WD~historical_period,11514315]]'
+  - '[[_Standards/WikiData/WD~empire,48349]]'
 language_used:
-  - "[[_Standards/WikiData/WD~Latin,397]]"
-  - "[[_Standards/WikiData/WD~Ancient_Greek,35497]]"
-official_language: "[[_Standards/WikiData/WD~Latin,397]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
+  - '[[_Standards/WikiData/WD~Latin,397]]'
+  - '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
+official_language: '[[_Standards/WikiData/WD~Latin,397]]'
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
 area:
   - 10000
   - 1950000
-capital: "[[_Standards/WikiData/WD~Rome,220]]"
+capital: '[[_Standards/WikiData/WD~Rome,220]]'
 OmegaWiki_Defined_Meaning: 913399
 Commons_category: Roman Republic
 coordinate_location: Point(12.5 41.9)
@@ -42,42 +40,14 @@ EAGLE_id: dates/lod/69
 Wolfram_Language_entity_code: Entity["HistoricalCountry", "RomanRepublic"]
 official_name: Res publica Romana
 OpenStreetMap_tag: historic:period=roman_republic
-dv_has_:
-  time_:
-    started: -508
-    stopped: -26
-  duration_:
-    years: 482
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../../WikiData/WD~Roman_Republic,17167|WD~Roman_Republic,17167]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026|-0508-Roman_Republic-0026]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026.public|-0508-Roman_Republic-0026.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026.internal|-0508-Roman_Republic-0026.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026.protect|-0508-Roman_Republic-0026.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026.private|-0508-Roman_Republic-0026.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026.personal|-0508-Roman_Republic-0026.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026.secret|-0508-Roman_Republic-0026.secret]]"
-dv_has_time_started: -508
-dv_has_time_stopped: -26
-dv_has_duration_years: 482
-dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Roman_Republic,17167|WD~Roman_Republic,17167]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026|-0508-Roman_Republic-0026]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026.public|-0508-Roman_Republic-0026.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026.internal|-0508-Roman_Republic-0026.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026.protect|-0508-Roman_Republic-0026.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026.private|-0508-Roman_Republic-0026.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026.personal|-0508-Roman_Republic-0026.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026.secret|-0508-Roman_Republic-0026.secret]]"
 ---
 
 # [[-0508-Roman_Republic-0026]] 
 
-has_time_started = `=this.dv_has_time_started` 
-has_time_stopped = `=this.dv_has_time_stopped` 
+#has_/time_/started :: -0508 
+#has_/time_/stopped :: -0026 
 
-#has_/duration_/years :: `$=Math.round(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started))` 
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started))` 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Roman_Republic,17167|WD~Roman_Republic,17167]] 
 
 ## #has_/text_of_/abstract 

@@ -10,60 +10,30 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - speed
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_speed
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_speed
 type: Predi_Quantity
-dv_has_:
-  value_for_:
-    speed_km_h: QuantitativeValue
-  domain: Vehicle
-dv_has_value_for_speed_km_h: QuantitativeValue
-dv_is_:
-  part_of: https://auto.schema.org
-  same_as:
-    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_speed_km_h|has_value_for_speed_km_h]]"
-    - "[[/_public/schema-org/Property/has_value_for/has_value_for_speed_km_h.public|has_value_for_speed_km_h.public]]"
-    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_speed_km_h.internal|has_value_for_speed_km_h.internal]]"
-    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_speed_km_h.protect|has_value_for_speed_km_h.protect]]"
-    - "[[/_private/schema-org/Property/has_value_for/has_value_for_speed_km_h.private|has_value_for_speed_km_h.private]]"
-    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_speed_km_h.personal|has_value_for_speed_km_h.personal]]"
-    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_speed_km_h.secret|has_value_for_speed_km_h.secret]]"
-dv_#has_:
-  name: has_value_for_speed_km_h
-  range: QuantitativeValue
-dv_is_part_of: https://auto.schema.org
-dv_has_domain: Vehicle
-dv_has_name: has_value_for_speed_km_h
-dv_has_range: QuantitativeValue
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_speed_km_h|has_value_for_speed_km_h]]"
-  - "[[/_public/schema-org/Property/has_value_for/has_value_for_speed_km_h.public|has_value_for_speed_km_h.public]]"
-  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_speed_km_h.internal|has_value_for_speed_km_h.internal]]"
-  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_speed_km_h.protect|has_value_for_speed_km_h.protect]]"
-  - "[[/_private/schema-org/Property/has_value_for/has_value_for_speed_km_h.private|has_value_for_speed_km_h.private]]"
-  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_speed_km_h.personal|has_value_for_speed_km_h.personal]]"
-  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_speed_km_h.secret|has_value_for_speed_km_h.secret]]"
 ---
 
 Predicate to describe the Quantity of Vehicle.
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: https://auto.schema.org  
 
 Use it like this: 
-- has_value_for_speed_km_h = `=this.dv_has_value_for_speed_km_h`  
-- has_value_for_speed_km_h = `=this.dv_has_value_for_speed_km_h`  
+- [has_/value_for_/speed_km_h :: QuantitativeValue ] 
+- [ has_value_for_speed_km_h :: QuantitativeValue ] 
 
 The speed range of the vehicle. If the vehicle is powered by an engine, the upper limit of the speed range (indicated by [[maxValue]]) should be the maximum speed achievable under regular conditions.
 
@@ -78,10 +48,10 @@ Typical unit code(s): KMH for km/h, HM for mile per hour (0.447 04 m/s), KNT for
 
 Predicate describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: Vehicle  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_value_for_speed_km_h )
+( #has_/range :: QuantitativeValue )
 
 
 ## Confidential Links & Embeds: 

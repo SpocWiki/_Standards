@@ -4,43 +4,24 @@ aliases:
   - Prehistory
 has_id_wikidata: Q11756
 Commons_category: Prehistory
-described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
 EAGLE_id: dates/lod/67
 Iconclass_notation: 23T21
 image: http://commons.wikimedia.org/wiki/Special:FilePath/PSM%20V44%20D647%20Delineations%20on%20pieces%20of%20antler.jpg
 instance_of:
-  - "[[_Standards/WikiData/WD~periodization,816829]]"
-  - "[[_Standards/WikiData/WD~time,11471]]"
-  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
+  - '[[_Standards/WikiData/WD~periodization,816829]]'
+  - '[[_Standards/WikiData/WD~time,11471]]'
+  - '[[_Standards/WikiData/WD~historical_period,11514315]]'
 OmegaWiki_Defined_Meaning: 857661
 OpenStreetMap_tag_or_key: Tag:historic:civilization=prehistoric
 Provenio_UUID: ecc9e72e-1bc6-446a-8c53-c6a97b8a37d6
 studied_in:
-  - "[[_Standards/WikiData/WD~prehistoric_archaeology,2415966]]"
-  - "[[_Standards/WikiData/WD~prehistory_and_early_history,2310752]]"
-subclass_of: "[[_Standards/WikiData/WD~archaeological_culture,465299]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Q6187119,6187119]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Prehistory,7498415]]"
+  - '[[_Standards/WikiData/WD~prehistoric_archaeology,2415966]]'
+  - '[[_Standards/WikiData/WD~prehistory_and_early_history,2310752]]'
+subclass_of: '[[_Standards/WikiData/WD~archaeological_culture,465299]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Q6187119,6187119]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Prehistory,7498415]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Historiaurreko%20pigmentuak.webm
-dv_is_:
-  same_as:
-    - "[[../../../../../WikiData/WD~Prehistory,11756|WD~Prehistory,11756]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Prehistory|Prehistory]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Prehistory.public|Prehistory.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Prehistory.internal|Prehistory.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Prehistory.protect|Prehistory.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Prehistory.private|Prehistory.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Prehistory.personal|Prehistory.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Prehistory.secret|Prehistory.secret]]"
-dv_is_same_as:
-  - "[[../../../../../WikiData/WD~Prehistory,11756|WD~Prehistory,11756]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Prehistory|Prehistory]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Prehistory.public|Prehistory.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Prehistory.internal|Prehistory.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Prehistory.protect|Prehistory.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Prehistory.private|Prehistory.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Prehistory.personal|Prehistory.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Prehistory.secret|Prehistory.secret]]"
 ---
 
 # [[Prehistory]] 

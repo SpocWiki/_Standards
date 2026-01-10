@@ -11,25 +11,6 @@ topic_s_main_category: "[[_Standards/WikiData/WD~Q16267118,16267118]]"
 applies_to_jurisdiction: "[[_Standards/WikiData/WD~Czechoslovakia,33946]]"
 country: "[[_Standards/WikiData/WD~Czechoslovakia,33946]]"
 BHCL_UUID: b26c8083-3a61-48ef-846c-8e25ba880caa
-dv_is_:
-  same_as:
-    - "[[WD~Benes-Decrees,165559]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946|1940-Benes-Decrees+1946]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.public|1940-Benes-Decrees+1946.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.internal|1940-Benes-Decrees+1946.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.protect|1940-Benes-Decrees+1946.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.private|1940-Benes-Decrees+1946.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.personal|1940-Benes-Decrees+1946.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.secret|1940-Benes-Decrees+1946.secret]]"
-dv_is_same_as:
-  - "[[WD~Benes-Decrees,165559]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946|1940-Benes-Decrees+1946]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.public|1940-Benes-Decrees+1946.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.internal|1940-Benes-Decrees+1946.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.protect|1940-Benes-Decrees+1946.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.private|1940-Benes-Decrees+1946.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.personal|1940-Benes-Decrees+1946.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1940-Benes-Decrees+1946.secret|1940-Benes-Decrees+1946.secret]]"
 ---
 
 # [[1940-Benes-Decrees+1946]] 

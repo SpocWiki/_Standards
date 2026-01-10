@@ -4,53 +4,29 @@ aliases:
 has_id_wikidata: Q12542
 Commons_category: Aztec
 currency:
-  - "[[_Standards/WikiData/WD~Quachtli,105620744]]"
-  - "[[_Standards/WikiData/WD~cocoa_bean,208008]]"
+  - '[[_Standards/WikiData/WD~Quachtli,105620744]]'
+  - '[[_Standards/WikiData/WD~cocoa_bean,208008]]'
 described_by_source:
-  - "[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
 end_time: 1521-06
 has_time_started: 1200-06
 has_time_stopped: 1521-06
-history_of_topic: "[[_Standards/WikiData/WD~history_of_the_Aztecs,2362871]]"
+history_of_topic: '[[_Standards/WikiData/WD~history_of_the_Aztecs,2362871]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~civilization,8432]]"
-  - "[[_Standards/WikiData/WD~culture,11042]]"
-  - "[[_Standards/WikiData/WD~historical_ethnic_group,4204501]]"
+  - '[[_Standards/WikiData/WD~civilization,8432]]'
+  - '[[_Standards/WikiData/WD~culture,11042]]'
+  - '[[_Standards/WikiData/WD~historical_ethnic_group,4204501]]'
 Krugosvet_article: istoriya/ATSTEKI.html
 start_time: 1200-06
-uses: "[[_Standards/WikiData/WD~human_sacrifice,119094]]"
+uses: '[[_Standards/WikiData/WD~human_sacrifice,119094]]'
 U_S_National_Archives_Identifier: 10675178
-dv_has_:
-  time_:
-    started: 1200-06-01T00:00:00.000+00:53
-    stopped: 1521-06-01T00:00:00.000+00:53
-  duration_: P321Y
-dv_is_:
-  same_as:
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1200-Aztec|1200-Aztec]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1200-Aztec.public|1200-Aztec.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1200-Aztec.internal|1200-Aztec.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1200-Aztec.protect|1200-Aztec.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1200-Aztec.private|1200-Aztec.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1200-Aztec.personal|1200-Aztec.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1200-Aztec.secret|1200-Aztec.secret]]"
-dv_has_duration_years: 321
-dv_has_duration_: P321Y
-dv_is_same_as:
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1200-Aztec|1200-Aztec]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1200-Aztec.public|1200-Aztec.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1200-Aztec.internal|1200-Aztec.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1200-Aztec.protect|1200-Aztec.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1200-Aztec.private|1200-Aztec.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1200-Aztec.personal|1200-Aztec.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1200-Aztec.secret|1200-Aztec.secret]]"
 ---
 
 has_/time_/started :: `=this.has_time_started` 

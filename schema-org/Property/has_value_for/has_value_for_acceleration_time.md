@@ -10,60 +10,30 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - acceleration-time
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_acceleration-time
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_acceleration-time
 type: Predi_Quantity
-dv_has_:
-  value_for_:
-    acceleration_time: QuantitativeValue
-  domain: Vehicle
-dv_has_value_for_acceleration_time: QuantitativeValue
-dv_is_:
-  part_of: https://auto.schema.org
-  same_as:
-    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_acceleration_time|has_value_for_acceleration_time]]"
-    - "[[/_public/schema-org/Property/has_value_for/has_value_for_acceleration_time.public|has_value_for_acceleration_time.public]]"
-    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_acceleration_time.internal|has_value_for_acceleration_time.internal]]"
-    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_acceleration_time.protect|has_value_for_acceleration_time.protect]]"
-    - "[[/_private/schema-org/Property/has_value_for/has_value_for_acceleration_time.private|has_value_for_acceleration_time.private]]"
-    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_acceleration_time.personal|has_value_for_acceleration_time.personal]]"
-    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_acceleration_time.secret|has_value_for_acceleration_time.secret]]"
-dv_#has_:
-  name: has_value_for_acceleration_time
-  range: QuantitativeValue
-dv_is_part_of: https://auto.schema.org
-dv_has_domain: Vehicle
-dv_has_name: has_value_for_acceleration_time
-dv_has_range: QuantitativeValue
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_acceleration_time|has_value_for_acceleration_time]]"
-  - "[[/_public/schema-org/Property/has_value_for/has_value_for_acceleration_time.public|has_value_for_acceleration_time.public]]"
-  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_acceleration_time.internal|has_value_for_acceleration_time.internal]]"
-  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_acceleration_time.protect|has_value_for_acceleration_time.protect]]"
-  - "[[/_private/schema-org/Property/has_value_for/has_value_for_acceleration_time.private|has_value_for_acceleration_time.private]]"
-  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_acceleration_time.personal|has_value_for_acceleration_time.personal]]"
-  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_acceleration_time.secret|has_value_for_acceleration_time.secret]]"
 ---
 
 Predicate to describe the Quantity of Vehicle.
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: https://auto.schema.org  
 
 Use it like this: 
-- has_value_for_acceleration_time = `=this.dv_has_value_for_acceleration_time`  
-- has_value_for_acceleration_time = `=this.dv_has_value_for_acceleration_time`  
+- [has_/value_for_/acceleration_time :: QuantitativeValue ] 
+- [ has_value_for_acceleration_time :: QuantitativeValue ] 
 
 The time needed to accelerate the vehicle from a given start velocity to a given target velocity.
 
@@ -77,10 +47,10 @@ Typical unit code(s): SEC for seconds
 
 Predicate describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: Vehicle  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_value_for_acceleration_time )
+( #has_/range :: QuantitativeValue )
 
 
 ## Confidential Links & Embeds: 

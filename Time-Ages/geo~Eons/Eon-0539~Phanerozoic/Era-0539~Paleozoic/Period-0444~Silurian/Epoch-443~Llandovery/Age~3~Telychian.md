@@ -27,95 +27,15 @@ start_time: -438500000-01-01T00:00:00Z
 end_time: -433400000-01-01T00:00:00Z
 sRGB_color_hex_triplet: B4E5DB
 coordinate_location: Point(-5.9285 37.9853)
-dv_has_:
-  duration_:
-    years: "5.100e+6"
-  previous_:
-    item: "[[Age~2~Aeronian]]"
-  next_:
-    item: "[[../Epoch-433~Wenlock/Age~1~Sheinwoodian|Age~1~Sheinwoodian]]"
-  name_:
-    bg: Телич
-    cs: Telych
-    da: Telychien
-    de: Telychium
-    es: Telychiense
-    et: Telychi
-    fi: Telych
-    fr: Télychien
-    hu: telychi
-    it: telychiano
-    ja: テリチアン期
-    lt: TelyĿis
-    nl: Telychiën
-    no: Telychium
-    pl: Telych
-    pt: Telychiano
-    sk: telych
-    sl: telychij
-    sv: telych
-    zh: 特列奇期
-  abbreviation: s3
-  time_:
-    started: "-438.5e6"
-    stopped: "-433.4e6"
-  text_of_:
-    color: "0xBFE6CF"
-dv_is_:
-  same_as:
-    - "[[WD~Telychian,681835]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian|Age~3~Telychian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian.public|Age~3~Telychian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian.internal|Age~3~Telychian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian.protect|Age~3~Telychian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian.private|Age~3~Telychian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian.personal|Age~3~Telychian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian.secret|Age~3~Telychian.secret]]"
-dv_has_duration_years: "5.100e+6"
-dv_has_previous_item: "[[Age~2~Aeronian]]"
-dv_has_next_item: "[[../Epoch-433~Wenlock/Age~1~Sheinwoodian|Age~1~Sheinwoodian]]"
-dv_is_same_as:
-  - "[[WD~Telychian,681835]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian|Age~3~Telychian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian.public|Age~3~Telychian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian.internal|Age~3~Telychian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian.protect|Age~3~Telychian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian.private|Age~3~Telychian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian.personal|Age~3~Telychian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-443~Llandovery/Age~3~Telychian.secret|Age~3~Telychian.secret]]"
-dv_has_name_bg: Телич
-dv_has_name_cs: Telych
-dv_has_name_da: Telychien
-dv_has_name_de: Telychium
-dv_has_name_es: Telychiense
-dv_has_name_et: Telychi
-dv_has_name_fi: Telych
-dv_has_name_fr: Télychien
-dv_has_name_hu: telychi
-dv_has_name_it: telychiano
-dv_has_name_ja: テリチアン期
-dv_has_name_lt: TelyĿis
-dv_has_name_nl: Telychiën
-dv_has_name_no: Telychium
-dv_has_name_pl: Telych
-dv_has_name_pt: Telychiano
-dv_has_name_sk: telych
-dv_has_name_sl: telychij
-dv_has_name_sv: telych
-dv_has_name_zh: 特列奇期
-dv_has_abbreviation: s3
-dv_has_time_started: "-438.5e6"
-dv_has_time_stopped: "-433.4e6"
-dv_has_text_of_color: "0xBFE6CF"
 ---
 # [[Age~3~Telychian]] 
 
 #is_a_/time_/Age 
 
-#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-has_previous_item = `=this.dv_has_previous_item` 
-has_next_item = `=this.dv_has_next_item` 
+#has_/previous_/item :: [[Age~2~Aeronian]] 
+#has_/next_/item :: [[../Epoch-433~Wenlock/Age~1~Sheinwoodian|Age~1~Sheinwoodian]] 
 #is_/same_as :: [[WD~Telychian,681835]]  
 
 A time period from 438.5 to 433.4 million years ago. 
@@ -129,35 +49,35 @@ A time period from 438.5 to 433.4 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Telychian) 
 
 
-has_name_bg = `=this.dv_has_name_bg` 
-has_name_cs = `=this.dv_has_name_cs` 
-has_name_da = `=this.dv_has_name_da` 
-has_name_de = `=this.dv_has_name_de` 
-has_name_es = `=this.dv_has_name_es` 
-has_name_et = `=this.dv_has_name_et` 
-has_name_fi = `=this.dv_has_name_fi` 
-has_name_fr = `=this.dv_has_name_fr` 
-has_name_hu = `=this.dv_has_name_hu` 
-has_name_it = `=this.dv_has_name_it` 
-has_name_ja = `=this.dv_has_name_ja` 
-has_name_lt = `=this.dv_has_name_lt` 
-has_name_nl = `=this.dv_has_name_nl` 
-has_name_no = `=this.dv_has_name_no` 
-has_name_pl = `=this.dv_has_name_pl` 
-has_name_pt = `=this.dv_has_name_pt` 
-has_name_sk = `=this.dv_has_name_sk` 
-has_name_sl = `=this.dv_has_name_sl` 
-has_name_sv = `=this.dv_has_name_sv` 
-has_name_zh = `=this.dv_has_name_zh` 
+#has_/name_/bg  :: Телич
+#has_/name_/cs  :: Telych
+#has_/name_/da  :: Telychien
+#has_/name_/de  :: Telychium
+#has_/name_/es  :: Telychiense
+#has_/name_/et  :: Telychi
+#has_/name_/fi  :: Telych
+#has_/name_/fr  :: Télychien
+#has_/name_/hu  :: telychi
+#has_/name_/it  :: telychiano
+#has_/name_/ja  :: テリチアン期
+#has_/name_/lt  :: TelyĿis
+#has_/name_/nl  :: Telychiën
+#has_/name_/no  :: Telychium
+#has_/name_/pl  :: Telych
+#has_/name_/pt  :: Telychiano
+#has_/name_/sk  :: telych
+#has_/name_/sl  :: telychij
+#has_/name_/sv  :: telych
+#has_/name_/zh  :: 特列奇期
 
-has_abbreviation = `=this.dv_has_abbreviation` 
+#has_/abbreviation :: s3
 
-has_time_started = `=this.dv_has_time_started` 
-has_time_stopped = `=this.dv_has_time_stopped` 
+#has_/time_/started :: -438.5e6 
+#has_/time_/stopped :: -433.4e6 
 
     sh:order 126 
 
-has_text_of_color = `=this.dv_has_text_of_color` 
+#has_/text_of_/color :: 0xBFE6CF
 
 ## All Contents
 

@@ -10,67 +10,38 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - actor
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_actor
 publish: true
-publishDate: ""
+publishDate: ''
 supersedes: actors
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_actor
 type: Predi_Relation
-dv_has_:
-  actor: Person
-  domain: Clip, CreativeWorkSeason, Episode, Event, Movie, MovieSeries, PodcastSeries, RadioSeries, TVSeries, VideoGame, VideoGameSeries, VideoObject
-  sub_properties: "[ readBy ]"
-dv_has_actor: Person
-dv_#has_:
-  name: has_actor
-  range: Person
-dv_is_:
-  same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_actor|has_actor]]"
-    - "[[/_public/schema-org/Relation/has/has_actor.public|has_actor.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_actor.internal|has_actor.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_actor.protect|has_actor.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_actor.private|has_actor.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_actor.personal|has_actor.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_actor.secret|has_actor.secret]]"
-dv_has_domain: Clip, CreativeWorkSeason, Episode, Event, Movie, MovieSeries, PodcastSeries, RadioSeries, TVSeries, VideoGame, VideoGameSeries, VideoObject
-dv_has_name: has_actor
-dv_has_range: Person
-dv_has_sub_properties: "[ readBy ]"
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_actor|has_actor]]"
-  - "[[/_public/schema-org/Relation/has/has_actor.public|has_actor.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_actor.internal|has_actor.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_actor.protect|has_actor.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_actor.private|has_actor.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_actor.personal|has_actor.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_actor.secret|has_actor.secret]]"
 ---
 
 Use it like this: 
-- has_actor = `=this.dv_has_actor`  
-- has_actor = `=this.dv_has_actor`  
+- [has_/actor :: Person ] 
+- [ has_actor :: Person ] 
 
 An actor, e.g. in TV, radio, movie, video games etc., or in an event. Actors can be associated with individual items or with a series, episode, clip.
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: Clip, CreativeWorkSeason, Episode, Event, Movie, MovieSeries, PodcastSeries, RadioSeries, TVSeries, VideoGame, VideoGameSeries, VideoObject  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_actor )
+( #has_/range :: Person )
 
-has_sub_properties = `=this.dv_has_sub_properties` 
+#has_/sub_properties :: [ readBy ]  
 
 ## Confidential Links & Embeds: 
 

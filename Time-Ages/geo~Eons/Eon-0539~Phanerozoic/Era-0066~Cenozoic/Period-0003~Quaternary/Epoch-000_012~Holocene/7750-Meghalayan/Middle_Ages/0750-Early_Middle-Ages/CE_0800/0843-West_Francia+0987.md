@@ -1,7 +1,7 @@
 ---
 aliases:
   - West_Francia
-  - West Francia
+  - West Francia 
   - Francia occidentalis
 has_id_wikidata: Q46370
 replaced_by: "[[_Standards/WikiData/WD~Kingdom_of_France,70972]]"
@@ -27,25 +27,6 @@ Commons_category: Maps of the Kingdom of the West Franks
 dissolved_abolished_or_demolished_date: 0987-01-01T00:00:00Z
 inception: 0843-01-01T00:00:00Z
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/West%20Francia%20843.svg
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../../../WikiData/WD~West_Francia,46370|WD~West_Francia,46370]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0800/0843-West_Francia+0987|0843-West_Francia+0987]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0800/0843-West_Francia+0987.public|0843-West_Francia+0987.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0800/0843-West_Francia+0987.internal|0843-West_Francia+0987.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0800/0843-West_Francia+0987.protect|0843-West_Francia+0987.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0800/0843-West_Francia+0987.private|0843-West_Francia+0987.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0800/0843-West_Francia+0987.personal|0843-West_Francia+0987.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0800/0843-West_Francia+0987.secret|0843-West_Francia+0987.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../../../WikiData/WD~West_Francia,46370|WD~West_Francia,46370]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0800/0843-West_Francia+0987|0843-West_Francia+0987]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0800/0843-West_Francia+0987.public|0843-West_Francia+0987.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0800/0843-West_Francia+0987.internal|0843-West_Francia+0987.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0800/0843-West_Francia+0987.protect|0843-West_Francia+0987.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0800/0843-West_Francia+0987.private|0843-West_Francia+0987.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0800/0843-West_Francia+0987.personal|0843-West_Francia+0987.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0800/0843-West_Francia+0987.secret|0843-West_Francia+0987.secret]]"
 ---
 
 # [[0843-West_Francia+0987]]  

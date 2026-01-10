@@ -8,56 +8,23 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - before
   - media
   - beforeMedia
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_before_media
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_before_media
 type: Predi_Relation
-dv_has_:
-  before_media: MediaObject, URL
-  domain: HowToDirection
-dv_has_before_media: MediaObject, URL
-dv_is_:
-  similar_to:
-    - "[[has_after-media]]"
-    - "[[has_during-media]]"
-  same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_before-media|has_before-media]]"
-    - "[[/_public/schema-org/Relation/has/has_before-media.public|has_before-media.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_before-media.internal|has_before-media.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_before-media.protect|has_before-media.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_before-media.private|has_before-media.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_before-media.personal|has_before-media.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_before-media.secret|has_before-media.secret]]"
-dv_#has_:
-  name: has_before_media
-  range: MediaObject, URL
-dv_is_similar_to:
-  - "[[has_after-media]]"
-  - "[[has_during-media]]"
-dv_has_domain: HowToDirection
-dv_has_name: has_before_media
-dv_has_range: MediaObject, URL
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_before-media|has_before-media]]"
-  - "[[/_public/schema-org/Relation/has/has_before-media.public|has_before-media.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_before-media.internal|has_before-media.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_before-media.protect|has_before-media.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_before-media.private|has_before-media.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_before-media.personal|has_before-media.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_before-media.secret|has_before-media.secret]]"
 ---
 
 # [[has_before-media]] 
@@ -66,17 +33,17 @@ dv_is_same_as:
 #is_/similar_to :: [[has_during-media]] 
 
 Use it like this: 
-- has_before_media = `=this.dv_has_before_media`  
-- has_before_media = `=this.dv_has_before_media`  
+- [has_/before_media :: MediaObject, URL ] 
+- [ has_before_media :: MediaObject, URL ] 
 
 A media object representing the circumstances before performing this direction.
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: HowToDirection  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_before_media )
+( #has_/range :: MediaObject, URL )
 
 
 ## Confidential Links & Embeds: 

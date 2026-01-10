@@ -11,74 +11,42 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - smiles
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_smiles
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_smiles
 type: Pred_Text
-dv_has_:
-  text_of_:
-    smiles: Text
-  domain: MolecularEntity
-dv_has_text_of_smiles: Text
-dv_is_:
-  part_of: "pending:"
-  sub_property_of: hasRepresentation
-  same_as:
-    - "[[/_Standards/schema-org/Property/Texts/has_smiles|has_smiles]]"
-    - "[[/_public/schema-org/Property/Texts/has_smiles.public|has_smiles.public]]"
-    - "[[/_internal/schema-org/Property/Texts/has_smiles.internal|has_smiles.internal]]"
-    - "[[/_protect/schema-org/Property/Texts/has_smiles.protect|has_smiles.protect]]"
-    - "[[/_private/schema-org/Property/Texts/has_smiles.private|has_smiles.private]]"
-    - "[[/_personal/schema-org/Property/Texts/has_smiles.personal|has_smiles.personal]]"
-    - "[[/_secret/schema-org/Property/Texts/has_smiles.secret|has_smiles.secret]]"
-dv_#has_:
-  name: has_text_of_smiles
-  range: Text
-dv_is_part_of: "pending:"
-dv_has_domain: MolecularEntity
-dv_has_name: has_text_of_smiles
-dv_has_range: Text
-dv_is_sub_property_of: hasRepresentation
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_smiles|has_smiles]]"
-  - "[[/_public/schema-org/Property/Texts/has_smiles.public|has_smiles.public]]"
-  - "[[/_internal/schema-org/Property/Texts/has_smiles.internal|has_smiles.internal]]"
-  - "[[/_protect/schema-org/Property/Texts/has_smiles.protect|has_smiles.protect]]"
-  - "[[/_private/schema-org/Property/Texts/has_smiles.private|has_smiles.private]]"
-  - "[[/_personal/schema-org/Property/Texts/has_smiles.personal|has_smiles.personal]]"
-  - "[[/_secret/schema-org/Property/Texts/has_smiles.secret|has_smiles.secret]]"
 ---
 
 Predicate to describe the Text of MolecularEntity.
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use it like this: 
-- has_text_of_smiles = `=this.dv_has_text_of_smiles`  
-- has_text_of_smiles = `=this.dv_has_text_of_smiles`  
+- [has_/text_of_/smiles :: Text ] 
+- [ has_text_of_smiles :: Text ] 
 
 A specification in form of a line notation for describing the structure of chemical species using short ASCII strings. 
 Double bond stereochemistry \ indicators may need to be escaped in the string in formats where the backslash is an escape character.
 
 Predicated describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: MolecularEntity  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_text_of_smiles )
+( #has_/range :: Text )
 
-is_sub_property_of = `=this.dv_is_sub_property_of` 
+#is_/sub_property_of  :: hasRepresentation  
 
 ## Confidential Links & Embeds: 
 

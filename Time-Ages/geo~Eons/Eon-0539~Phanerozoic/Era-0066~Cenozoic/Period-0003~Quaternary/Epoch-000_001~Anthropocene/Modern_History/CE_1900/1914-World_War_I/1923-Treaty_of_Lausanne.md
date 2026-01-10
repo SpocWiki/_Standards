@@ -7,50 +7,31 @@ aliases:
   - 1923-Treaty of Lausanne
 has_id_wikidata: Q193258
 signatory:
-  - "[[_Standards/WikiData/WD~French_Third_Republic,70802]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]"
-  - "[[_Standards/WikiData/WD~Empire_of_Japan,188712]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Romania,203493]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Serbs,_Croats_and_Slovenes,15102440]]"
-  - "[[_Standards/WikiData/WD~Turkey,43]]"
-  - "[[_Standards/WikiData/WD~Greece,41]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+  - '[[_Standards/WikiData/WD~French_Third_Republic,70802]]'
+  - '[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]'
+  - '[[_Standards/WikiData/WD~Empire_of_Japan,188712]]'
+  - '[[_Standards/WikiData/WD~Kingdom_of_Romania,203493]]'
+  - '[[_Standards/WikiData/WD~Kingdom_of_Serbs,_Croats_and_Slovenes,15102440]]'
+  - '[[_Standards/WikiData/WD~Turkey,43]]'
+  - '[[_Standards/WikiData/WD~Greece,41]]'
+  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 participant:
-  - "[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]"
-  - "[[_Standards/WikiData/WD~Empire_of_Japan,188712]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Yugoslavia,191077]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Romania,203493]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Greece,209065]]"
-  - "[[_Standards/WikiData/WD~British_Empire,8680]]"
-  - "[[_Standards/WikiData/WD~Turkey,43]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-instance_of: "[[_Standards/WikiData/WD~peace_treaty,625298]]"
-location: "[[_Standards/WikiData/WD~Lausanne,807]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~French,150]]"
+  - '[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]'
+  - '[[_Standards/WikiData/WD~Empire_of_Japan,188712]]'
+  - '[[_Standards/WikiData/WD~Kingdom_of_Yugoslavia,191077]]'
+  - '[[_Standards/WikiData/WD~Kingdom_of_Romania,203493]]'
+  - '[[_Standards/WikiData/WD~Kingdom_of_Greece,209065]]'
+  - '[[_Standards/WikiData/WD~British_Empire,8680]]'
+  - '[[_Standards/WikiData/WD~Turkey,43]]'
+  - '[[_Standards/WikiData/WD~France,142]]'
+instance_of: '[[_Standards/WikiData/WD~peace_treaty,625298]]'
+location: '[[_Standards/WikiData/WD~Lausanne,807]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~French,150]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Turkey-Greece-Bulgaria%20on%20Treaty%20of%20Lausanne.png
 Commons_category: Treaty of Lausanne
 law_identifier: 大正13年条約第9号
 official_name: 「平和条約」、「海峡制度ニ関スル条約」、「トラース国境ニ関スル条約」、「居住裁判管轄ニ関スル条約」、「通商条約」、「「ローザンヌ」ニ於テ署名セラレタル文書中一定ノ規定ニ対スル白耳義国及葡萄牙国ノ加入ニ関スル議定書」、「「カラガツチ」ノ領域並「インプロス」島及「テネドス」島ニ関スル議定書」、「千九百二十年八月十日「セーヴル」ニ於テ主タル同盟国國及希臘國ニ於ケル少数民族ノ保護ニ関スル条約ニ関スル並「トラース」ニ関スル条約ニ関スル議定書」及「「セルブ、クロァート、スロヴェーヌ」国ノ署名ニ関スル議定書」
 point_in_time: 1923-07-24T00:00:00Z
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../../WikiData/WD~Treaty_of_Lausanne,193258|WD~Treaty_of_Lausanne,193258]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1923-Treaty_of_Lausanne|1923-Treaty_of_Lausanne]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1923-Treaty_of_Lausanne.public|1923-Treaty_of_Lausanne.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1923-Treaty_of_Lausanne.internal|1923-Treaty_of_Lausanne.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1923-Treaty_of_Lausanne.protect|1923-Treaty_of_Lausanne.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1923-Treaty_of_Lausanne.private|1923-Treaty_of_Lausanne.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1923-Treaty_of_Lausanne.personal|1923-Treaty_of_Lausanne.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1923-Treaty_of_Lausanne.secret|1923-Treaty_of_Lausanne.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Treaty_of_Lausanne,193258|WD~Treaty_of_Lausanne,193258]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1923-Treaty_of_Lausanne|1923-Treaty_of_Lausanne]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1923-Treaty_of_Lausanne.public|1923-Treaty_of_Lausanne.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1923-Treaty_of_Lausanne.internal|1923-Treaty_of_Lausanne.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1923-Treaty_of_Lausanne.protect|1923-Treaty_of_Lausanne.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1923-Treaty_of_Lausanne.private|1923-Treaty_of_Lausanne.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1923-Treaty_of_Lausanne.personal|1923-Treaty_of_Lausanne.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1923-Treaty_of_Lausanne.secret|1923-Treaty_of_Lausanne.secret]]"
 ---
 
 # [[1923-Treaty_of_Lausanne]] 

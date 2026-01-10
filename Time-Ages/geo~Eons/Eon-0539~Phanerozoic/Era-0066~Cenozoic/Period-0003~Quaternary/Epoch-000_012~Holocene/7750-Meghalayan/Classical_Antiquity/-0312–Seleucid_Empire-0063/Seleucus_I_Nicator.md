@@ -1,7 +1,7 @@
 ---
 aliases:
   - Seleucus_I_Nicator
-  - Seleucus I Nicator
+  - Seleucus I Nicator 
   - Σέλευκος Νικάτωρ
   - Séleukos Nikátōr
   - Seleucus the Victorious
@@ -49,28 +49,7 @@ date_of_birth: -0357-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Seleuco%20I%20Nicatore.JPG
 ISNI: "0000000010591044"
 Libris_URI: 42gjk0rn3ddv3qs
-Wolfram_Language_entity_code: Entity"Concept", "Seleucus = `=this.dv_"Concept", "Seleucus` 
-dv_"Concept", "Seleucus: 92cn8"
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../../WikiData/WD~Seleucus_I_Nicator,184176|WD~Seleucus_I_Nicator,184176]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0312–Seleucid_Empire-0063/Seleucus_I_Nicator|Seleucus_I_Nicator]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0312–Seleucid_Empire-0063/Seleucus_I_Nicator.public|Seleucus_I_Nicator.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0312–Seleucid_Empire-0063/Seleucus_I_Nicator.internal|Seleucus_I_Nicator.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0312–Seleucid_Empire-0063/Seleucus_I_Nicator.protect|Seleucus_I_Nicator.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0312–Seleucid_Empire-0063/Seleucus_I_Nicator.private|Seleucus_I_Nicator.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0312–Seleucid_Empire-0063/Seleucus_I_Nicator.personal|Seleucus_I_Nicator.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0312–Seleucid_Empire-0063/Seleucus_I_Nicator.secret|Seleucus_I_Nicator.secret]]"
-dv_concept-seleucus: 92cn8"
-dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Seleucus_I_Nicator,184176|WD~Seleucus_I_Nicator,184176]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0312–Seleucid_Empire-0063/Seleucus_I_Nicator|Seleucus_I_Nicator]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0312–Seleucid_Empire-0063/Seleucus_I_Nicator.public|Seleucus_I_Nicator.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0312–Seleucid_Empire-0063/Seleucus_I_Nicator.internal|Seleucus_I_Nicator.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0312–Seleucid_Empire-0063/Seleucus_I_Nicator.protect|Seleucus_I_Nicator.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0312–Seleucid_Empire-0063/Seleucus_I_Nicator.private|Seleucus_I_Nicator.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0312–Seleucid_Empire-0063/Seleucus_I_Nicator.personal|Seleucus_I_Nicator.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0312–Seleucid_Empire-0063/Seleucus_I_Nicator.secret|Seleucus_I_Nicator.secret]]"
+Wolfram_Language_entity_code: Entity["Concept", "Seleucus::92cn8"]
 ---
 
 # [[Seleucus_I_Nicator]] 

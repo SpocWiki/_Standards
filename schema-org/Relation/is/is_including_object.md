@@ -10,61 +10,34 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords: ""
-layout: ""
+keywords: ''
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_including_object
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: is_including_object
 type: Predi_Relation
-dv_is_:
-  including_object: TypeAndQuantityNode
-  same_as:
-    - "[[/_Standards/schema-org/Relation/is/is_including_object|is_including_object]]"
-    - "[[/_public/schema-org/Relation/is/is_including_object.public|is_including_object.public]]"
-    - "[[/_internal/schema-org/Relation/is/is_including_object.internal|is_including_object.internal]]"
-    - "[[/_protect/schema-org/Relation/is/is_including_object.protect|is_including_object.protect]]"
-    - "[[/_private/schema-org/Relation/is/is_including_object.private|is_including_object.private]]"
-    - "[[/_personal/schema-org/Relation/is/is_including_object.personal|is_including_object.personal]]"
-    - "[[/_secret/schema-org/Relation/is/is_including_object.secret|is_including_object.secret]]"
-dv_is_including_object: TypeAndQuantityNode
-dv_has_:
-  domain: Demand, Offer, ProductCollection
-dv_#has_:
-  name: is_including_object
-  range: TypeAndQuantityNode
-dv_has_domain: Demand, Offer, ProductCollection
-dv_has_name: is_including_object
-dv_has_range: TypeAndQuantityNode
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/is/is_including_object|is_including_object]]"
-  - "[[/_public/schema-org/Relation/is/is_including_object.public|is_including_object.public]]"
-  - "[[/_internal/schema-org/Relation/is/is_including_object.internal|is_including_object.internal]]"
-  - "[[/_protect/schema-org/Relation/is/is_including_object.protect|is_including_object.protect]]"
-  - "[[/_private/schema-org/Relation/is/is_including_object.private|is_including_object.private]]"
-  - "[[/_personal/schema-org/Relation/is/is_including_object.personal|is_including_object.personal]]"
-  - "[[/_secret/schema-org/Relation/is/is_including_object.secret|is_including_object.secret]]"
 ---
 
 Use it like this: 
-- is_including_object = `=this.dv_is_including_object`  
-- is_including_object = `=this.dv_is_including_object`  
+- [is_/including_object :: TypeAndQuantityNode] 
+- [ is_including_object :: TypeAndQuantityNode] 
 
 This links to a node or nodes indicating the exact quantity of the products included in  an [[../../../Society/Agent/Community/Organization/Business/Offer]] or [[ProductCollection]].
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: Demand, Offer, ProductCollection 
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: is_including_object)
+( #has_/range :: TypeAndQuantityNode)
 
 
 ## Confidential Links & Embeds: 

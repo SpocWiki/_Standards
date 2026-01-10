@@ -38,86 +38,6 @@ part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geoc
 significant_event: "[[_Standards/WikiData/WD~Middle_Bronze_Age_Cold_Epoch,4375138]]"
 sRGB_color_hex_triplet: FEEBD2
 start_time: -9700-01-01
-dv_has_:
-  abbreviation: Q2
-  time_:
-    started: "-10.e3"
-    stopped: 1492
-  text_of_:
-    color: "0xFEEBD2"
-  duration_:
-    years: "1.149e+4"
-  previous_:
-    item: "[[Epoch-002_568~Pleistocene]]"
-  next_:
-    item: "[[Epoch-000_001~Anthropocene]]"
-  name_:
-    bg: Холоцен
-    cs: Holocén
-    da: Holocæn
-    de: Holozän
-    es: Holoceno
-    et: Holotseen
-    fi: Holoseeni
-    fr: Holocène
-    hu: holocén
-    it: olocene
-    ja: 完新世
-    lt: Holocenas
-    nl: Holoceen
-    no: Holocen
-    pl: Holocen
-    pt: Holocénico
-    sk: holocén
-    sl: holocen
-    sv: holocen
-    zh: 全新世
-dv_is_:
-  same_as:
-    - "[[../../../../../WikiData/WD~Holocene,25445]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene|Epoch-000_012~Holocene]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene.public|Epoch-000_012~Holocene.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene.internal|Epoch-000_012~Holocene.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene.protect|Epoch-000_012~Holocene.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene.private|Epoch-000_012~Holocene.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene.personal|Epoch-000_012~Holocene.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene.secret|Epoch-000_012~Holocene.secret]]"
-dv_has_abbreviation: Q2
-dv_has_time_started: "-10.e3"
-dv_has_time_stopped: 1492
-dv_has_text_of_color: "0xFEEBD2"
-dv_has_duration_years: "1.149e+4"
-dv_has_previous_item: "[[Epoch-002_568~Pleistocene]]"
-dv_has_next_item: "[[Epoch-000_001~Anthropocene]]"
-dv_is_same_as:
-  - "[[../../../../../WikiData/WD~Holocene,25445]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene|Epoch-000_012~Holocene]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene.public|Epoch-000_012~Holocene.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene.internal|Epoch-000_012~Holocene.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene.protect|Epoch-000_012~Holocene.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene.private|Epoch-000_012~Holocene.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene.personal|Epoch-000_012~Holocene.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene.secret|Epoch-000_012~Holocene.secret]]"
-dv_has_name_bg: Холоцен
-dv_has_name_cs: Holocén
-dv_has_name_da: Holocæn
-dv_has_name_de: Holozän
-dv_has_name_es: Holoceno
-dv_has_name_et: Holotseen
-dv_has_name_fi: Holoseeni
-dv_has_name_fr: Holocène
-dv_has_name_hu: holocén
-dv_has_name_it: olocene
-dv_has_name_ja: 完新世
-dv_has_name_lt: Holocenas
-dv_has_name_nl: Holoceen
-dv_has_name_no: Holocen
-dv_has_name_pl: Holocen
-dv_has_name_pt: Holocénico
-dv_has_name_sk: holocén
-dv_has_name_sl: holocen
-dv_has_name_sv: holocen
-dv_has_name_zh: 全新世
 ---
 
 # [[Epoch-000_012~Holocene]] 
@@ -129,19 +49,19 @@ It starts 200 years into the so-called __Human Era__,
 which can be __converted to Gregorian Calendar by adding 10000 years__. 
 It follows the Last Glacial Period, which concluded with the Holocene glacial retreat. 
 
-has_abbreviation = `=this.dv_has_abbreviation` 
-has_time_started = `=this.dv_has_time_started` 
-has_time_stopped = `=this.dv_has_time_stopped` 
+#has_/abbreviation :: Q2
+#has_/time_/started :: -10.e3 
+#has_/time_/stopped ::   1492
 
     sh:order 4 
 
-has_text_of_color = `=this.dv_has_text_of_color` 
+#has_/text_of_/color :: 0xFEEBD2
 
 
-#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-has_previous_item = `=this.dv_has_previous_item` 
-has_next_item = `=this.dv_has_next_item` 
+#has_/previous_/item :: [[Epoch-002_568~Pleistocene]]   
+#has_/next_/item :: [[Epoch-000_001~Anthropocene]]    
 #is_/same_as :: [[../../../../../WikiData/WD~Holocene,25445]]
 
 ## #has_/text_of_/abstract 
@@ -183,26 +103,26 @@ has_next_item = `=this.dv_has_next_item`
 > [Wikipedia](https://en.wikipedia.org/wiki/Holocene) 
 
 
-has_name_bg = `=this.dv_has_name_bg` 
-has_name_cs = `=this.dv_has_name_cs` 
-has_name_da = `=this.dv_has_name_da` 
-has_name_de = `=this.dv_has_name_de` 
-has_name_es = `=this.dv_has_name_es` 
-has_name_et = `=this.dv_has_name_et` 
-has_name_fi = `=this.dv_has_name_fi` 
-has_name_fr = `=this.dv_has_name_fr` 
-has_name_hu = `=this.dv_has_name_hu` 
-has_name_it = `=this.dv_has_name_it` 
-has_name_ja = `=this.dv_has_name_ja` 
-has_name_lt = `=this.dv_has_name_lt` 
-has_name_nl = `=this.dv_has_name_nl` 
-has_name_no = `=this.dv_has_name_no` 
-has_name_pl = `=this.dv_has_name_pl` 
-has_name_pt = `=this.dv_has_name_pt` 
-has_name_sk = `=this.dv_has_name_sk` 
-has_name_sl = `=this.dv_has_name_sl` 
-has_name_sv = `=this.dv_has_name_sv` 
-has_name_zh = `=this.dv_has_name_zh` 
+#has_/name_/bg  :: Холоцен
+#has_/name_/cs  :: Holocén
+#has_/name_/da  :: Holocæn
+#has_/name_/de  :: Holozän
+#has_/name_/es  :: Holoceno
+#has_/name_/et  :: Holotseen
+#has_/name_/fi  :: Holoseeni
+#has_/name_/fr  :: Holocène
+#has_/name_/hu  :: holocén
+#has_/name_/it  :: olocene
+#has_/name_/ja  :: 完新世
+#has_/name_/lt  :: Holocenas
+#has_/name_/nl  :: Holoceen
+#has_/name_/no  :: Holocen
+#has_/name_/pl  :: Holocen
+#has_/name_/pt  :: Holocénico
+#has_/name_/sk  :: holocén
+#has_/name_/sl  :: holocen
+#has_/name_/sv  :: holocen
+#has_/name_/zh  :: 全新世
 
 ## All Contents
 

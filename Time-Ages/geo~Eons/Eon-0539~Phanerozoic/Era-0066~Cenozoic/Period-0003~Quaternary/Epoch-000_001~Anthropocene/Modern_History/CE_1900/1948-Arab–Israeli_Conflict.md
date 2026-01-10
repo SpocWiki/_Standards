@@ -6,44 +6,17 @@ aliases:
 has_id_wikidata: Q8669
 Commons_category: Arab-Israeli conflict
 has_time_started: 1948-05-15
-history_of_topic: "[[_Standards/WikiData/WD~history_of_the_Arab_Israeli_conflict,2967235]]"
+history_of_topic: '[[_Standards/WikiData/WD~history_of_the_Arab_Israeli_conflict,2967235]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Arab-Israeli%20Map.svg
 instance_of:
-  - "[[_Standards/WikiData/WD~ethnic_conflict,766875]]"
-  - "[[_Standards/WikiData/WD~international_conflict,11422542]]"
-location: "[[_Standards/WikiData/WD~Middle_East,7204]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_Rights,13382529]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~Arab_Israeli_Wars,3491398]]"
+  - '[[_Standards/WikiData/WD~ethnic_conflict,766875]]'
+  - '[[_Standards/WikiData/WD~international_conflict,11422542]]'
+location: '[[_Standards/WikiData/WD~Middle_East,7204]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_Rights,13382529]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~Arab_Israeli_Wars,3491398]]'
 start_time: 1948-05-15
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Arab_Israeli_conflict,6682272]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Arab_Israeli_conflict,6682272]]'
 U_S_National_Archives_Identifier: 10637980
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../WikiData/WD~Arab–Israeli_conflict,8669|WD~Arab–Israeli_conflict,8669]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict|1948-Arab–Israeli_Conflict]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict.public|1948-Arab–Israeli_Conflict.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict.internal|1948-Arab–Israeli_Conflict.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict.protect|1948-Arab–Israeli_Conflict.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict.private|1948-Arab–Israeli_Conflict.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict.personal|1948-Arab–Israeli_Conflict.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict.secret|1948-Arab–Israeli_Conflict.secret]]"
-dv_has_:
-  time_:
-    started: 1948-05-15T00:00:00.000+02:00
-    stopped: "-"
-  duration_: \-
-dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Arab–Israeli_conflict,8669|WD~Arab–Israeli_conflict,8669]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict|1948-Arab–Israeli_Conflict]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict.public|1948-Arab–Israeli_Conflict.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict.internal|1948-Arab–Israeli_Conflict.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict.protect|1948-Arab–Israeli_Conflict.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict.private|1948-Arab–Israeli_Conflict.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict.personal|1948-Arab–Israeli_Conflict.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1948-Arab–Israeli_Conflict.secret|1948-Arab–Israeli_Conflict.secret]]"
-dv_has_time_stopped: "-"
-dv_has_duration_years: NaN
-dv_has_duration_: \-
 ---
 
 # [[1948-Arab–Israeli_Conflict]] 
@@ -51,10 +24,10 @@ dv_has_duration_: \-
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Arab–Israeli_conflict,8669|WD~Arab–Israeli_conflict,8669]]
 
 #has_/time_/started :: `=this.has_time_started`
-#has_/time_/stopped ::  `$=this.dv_has_time_stopped`
+#has_/time_/stopped ::  `$=this.has_time_stopped`
 
-#has_/duration_/years :: `$=Math.round(((dv.current().dv_has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
-#has_/duration_ :: `=default(this.dv_has_time_stopped, date(now)) - this.has_time_started` 
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+#has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 
 
 
 ## #has_/text_of_/abstract 

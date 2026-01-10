@@ -1,82 +1,50 @@
 ---
-location:
-  - 31.3
-  - 29.8
+location: [ 31.3 , 29.8 ] 
 aliases:
   - 6000-Ancient_Egypt
   - 6000-Ancient Egypt
 has_id_wikidata: Q11768
 BHCL_UUID: 3c692f3d-a5bb-4256-8e72-9155b8949b6e
-category_for_people_born_here: "[[_Standards/WikiData/WD~Q44620178,44620178]]"
-category_for_people_who_died_here: "[[_Standards/WikiData/WD~Q32650623,32650623]]"
+category_for_people_born_here: '[[_Standards/WikiData/WD~Q44620178,44620178]]'
+category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q32650623,32650623]]'
 Commons_category: Ancient Egypt
-continent: "[[_Standards/WikiData/WD~Africa,15]]"
+continent: '[[_Standards/WikiData/WD~Africa,15]]'
 coordinate_location: Point(31.3 29.8)
-country: "[[_Standards/WikiData/WD~Egypt,79]]"
+country: '[[_Standards/WikiData/WD~Egypt,79]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
 Dewey_Decimal_Classification:
   - 2--32
   - 932
-dissolved_abolished_or_demolished_date: -29
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Ancient_Egypt,24734962]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Ancient_Egypt,2487803]]"
+dissolved_abolished_or_demolished_date: -0029
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Ancient_Egypt,24734962]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Ancient_Egypt,2487803]]'
 has_time_started: -4000
-has_time_stopped: -29
+has_time_stopped: -0029
 historical_region:
-  - "[[_Standards/WikiData/WD~ancient_Near_East,269678]]"
-  - "[[_Standards/WikiData/WD~Nile_Valley_Civilizations,11041351]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_ancient_Egypt,766876]]"
+  - '[[_Standards/WikiData/WD~ancient_Near_East,269678]]'
+  - '[[_Standards/WikiData/WD~Nile_Valley_Civilizations,11041351]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_ancient_Egypt,766876]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Egypt.Giza.Sphinx.02%20%28cropped%29.jpg
 inception: -4000
 instance_of:
-  - "[[_Standards/WikiData/WD~ancient_civilization,28171280]]"
-  - "[[_Standards/WikiData/WD~cultural_region,3502482]]"
-  - "[[_Standards/WikiData/WD~historical_country,3024240]]"
-  - "[[_Standards/WikiData/WD~historical_region,1620908]]"
+  - '[[_Standards/WikiData/WD~ancient_civilization,28171280]]'
+  - '[[_Standards/WikiData/WD~cultural_region,3502482]]'
+  - '[[_Standards/WikiData/WD~historical_country,3024240]]'
+  - '[[_Standards/WikiData/WD~historical_region,1620908]]'
 Krugosvet_article: istoriya/DREVNI_EGIPET.html
 MeSH_tree_code: Z01.586.035.325
 OpenStreetMap_tag_or_key: Tag:historic:civilization=ancient_egyptian
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Pharaoh%20Tutankhamun%20banner.jpg
-studied_in: "[[_Standards/WikiData/WD~Egyptology,145903]]"
+studied_in: '[[_Standards/WikiData/WD~Egyptology,145903]]'
 subreddit: ancientegypt
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Ancient_Egypt_topics,6043821]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Ancient_Egypt,8440998]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Ancient_Egypt_topics,6043821]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Ancient_Egypt,8440998]]'
 UMLS_CUI: C4505338
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_ancient_Egypt,7112549]]"
-dv_has_:
-  time_:
-    started: -3100-06
-    stopped: -332
-  duration_:
-    years:
-      - 3971
-      - 3971
-dv_is_:
-  same_as:
-    - "[[../../../../../../../WikiData/WD~Ancient_Egypt,11768|WD~Ancient_Egypt,11768]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt|6000-Ancient_Egypt]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt.public|6000-Ancient_Egypt.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt.internal|6000-Ancient_Egypt.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt.protect|6000-Ancient_Egypt.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt.private|6000-Ancient_Egypt.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt.personal|6000-Ancient_Egypt.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt.secret|6000-Ancient_Egypt.secret]]"
-dv_has_duration_years:
-  - 3971
-  - 3971
-dv_is_same_as:
-  - "[[../../../../../../../WikiData/WD~Ancient_Egypt,11768|WD~Ancient_Egypt,11768]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt|6000-Ancient_Egypt]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt.public|6000-Ancient_Egypt.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt.internal|6000-Ancient_Egypt.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt.protect|6000-Ancient_Egypt.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt.private|6000-Ancient_Egypt.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt.personal|6000-Ancient_Egypt.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6000-Ancient_Egypt.secret|6000-Ancient_Egypt.secret]]"
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_ancient_Egypt,7112549]]'
 ---
 
 # [[6000-Ancient_Egypt]] 

@@ -7,70 +7,39 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - masthead
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_masthead
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_masthead
 type: Predi_Relation
-dv_has_:
-  masthead: CreativeWork, URL
-  domain: NewsMediaOrganization
-dv_has_masthead: CreativeWork, URL
-dv_is_:
-  part_of: "pending:"
-  sub_property_of: publishingPrinciples
-  same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_masthead|has_masthead]]"
-    - "[[/_public/schema-org/Relation/has/has_masthead.public|has_masthead.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_masthead.internal|has_masthead.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_masthead.protect|has_masthead.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_masthead.private|has_masthead.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_masthead.personal|has_masthead.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_masthead.secret|has_masthead.secret]]"
-dv_#has_:
-  name: has_masthead
-  range: CreativeWork, URL
-dv_is_part_of: "pending:"
-dv_has_domain: NewsMediaOrganization
-dv_has_name: has_masthead
-dv_has_range: CreativeWork, URL
-dv_is_sub_property_of: publishingPrinciples
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_masthead|has_masthead]]"
-  - "[[/_public/schema-org/Relation/has/has_masthead.public|has_masthead.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_masthead.internal|has_masthead.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_masthead.protect|has_masthead.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_masthead.private|has_masthead.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_masthead.personal|has_masthead.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_masthead.secret|has_masthead.secret]]"
 ---
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use it like this: 
-- has_masthead = `=this.dv_has_masthead`  
-- has_masthead = `=this.dv_has_masthead`  
+- [has_/masthead :: CreativeWork, URL ] 
+- [ has_masthead :: CreativeWork, URL ] 
 
 For a [[NewsMediaOrganization]], a link to the masthead page or a page listing top editorial management.
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: NewsMediaOrganization  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_masthead )
+( #has_/range :: CreativeWork, URL )
 
-is_sub_property_of = `=this.dv_is_sub_property_of` 
+#is_/sub_property_of  :: publishingPrinciples  
 
 ## Confidential Links & Embeds: 
 

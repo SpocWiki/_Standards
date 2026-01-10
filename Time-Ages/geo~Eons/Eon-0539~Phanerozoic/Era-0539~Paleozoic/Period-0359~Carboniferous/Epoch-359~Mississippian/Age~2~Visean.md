@@ -70,95 +70,16 @@ Commons_category: Visean
 coordinate_location: Point(109.45 24.4333)
 described_at_URL: https://popups.uliege.be/1374-8505/index.php?id=1091
 sRGB_color_hex_triplet: A6B96C
-dv_has_:
-  duration_:
-    years: NaN
-  previous_:
-    item: "[[Age~1~Tournaisian]]"
-  next_:
-    item: "[[Age~3~Serpukhovian]]"
-  name_:
-    bg: Визей
-    cs: Visé
-    da: Viseen
-    de: Viseum
-    es: Viseense
-    et: Vise
-    fi: Vis
-    fr: Viséen
-    hu: viséi
-    it: viseano
-    ja: ビゼアン期
-    lt: Vizejis
-    nl: Vise-iën
-    no: Viseium
-    pl: Wizen
-    pt: Viseano
-    sk: visén
-    sl: viseij
-    sv: vis
-    zh: 韦宪期
-  abbreviation: c2
-  time_:
-    started: "-346.7e6"
-    stopped: "-330.9e6"
-  text_of_:
-    color: "0xA6B96C"
-dv_is_:
-  same_as:
-    - "[[WD~Visean,Q647290]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean|Age~2~Visean]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean.public|Age~2~Visean.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean.internal|Age~2~Visean.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean.protect|Age~2~Visean.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean.private|Age~2~Visean.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean.personal|Age~2~Visean.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean.secret|Age~2~Visean.secret]]"
-dv_has_duration_years: NaN
-dv_has_previous_item: "[[Age~1~Tournaisian]]"
-dv_has_next_item: "[[Age~3~Serpukhovian]]"
-dv_is_same_as:
-  - "[[WD~Visean,Q647290]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean|Age~2~Visean]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean.public|Age~2~Visean.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean.internal|Age~2~Visean.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean.protect|Age~2~Visean.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean.private|Age~2~Visean.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean.personal|Age~2~Visean.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0359~Carboniferous/Epoch-359~Mississippian/Age~2~Visean.secret|Age~2~Visean.secret]]"
-dv_has_name_bg: Визей
-dv_has_name_cs: Visé
-dv_has_name_da: Viseen
-dv_has_name_de: Viseum
-dv_has_name_es: Viseense
-dv_has_name_et: Vise
-dv_has_name_fi: Vis
-dv_has_name_fr: Viséen
-dv_has_name_hu: viséi
-dv_has_name_it: viseano
-dv_has_name_ja: ビゼアン期
-dv_has_name_lt: Vizejis
-dv_has_name_nl: Vise-iën
-dv_has_name_no: Viseium
-dv_has_name_pl: Wizen
-dv_has_name_pt: Viseano
-dv_has_name_sk: visén
-dv_has_name_sl: viseij
-dv_has_name_sv: vis
-dv_has_name_zh: 韦宪期
-dv_has_abbreviation: c2
-dv_has_time_stopped: "-330.9e6"
-dv_has_text_of_color: "0xA6B96C"
 ---
 
 # [[Age~2~Visean]] 
 
 #is_a_/time_/Age 
 
-#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-has_previous_item = `=this.dv_has_previous_item` 
-has_next_item = `=this.dv_has_next_item` 
+#has_/previous_/item :: [[Age~1~Tournaisian|Age~1~Tournaisian]] 
+#has_/next_/item :: [[Age~3~Serpukhovian|Age~3~Serpukhovian]] 
 #is_/same_as :: [[WD~Visean,Q647290]] 
 
 A time period from 346.7 to 330.9 million years ago. 
@@ -166,35 +87,35 @@ A time period from 346.7 to 330.9 million years ago.
 
 ![[../../../../../../../../xLarge/Earth/Geology/Earth-340_Ma_(Viséan_Age).png]] 
 
-has_name_bg = `=this.dv_has_name_bg` 
-has_name_cs = `=this.dv_has_name_cs` 
-has_name_da = `=this.dv_has_name_da` 
-has_name_de = `=this.dv_has_name_de` 
-has_name_es = `=this.dv_has_name_es` 
-has_name_et = `=this.dv_has_name_et` 
-has_name_fi = `=this.dv_has_name_fi` 
-has_name_fr = `=this.dv_has_name_fr` 
-has_name_hu = `=this.dv_has_name_hu` 
-has_name_it = `=this.dv_has_name_it` 
-has_name_ja = `=this.dv_has_name_ja` 
-has_name_lt = `=this.dv_has_name_lt` 
-has_name_nl = `=this.dv_has_name_nl` 
-has_name_no = `=this.dv_has_name_no` 
-has_name_pl = `=this.dv_has_name_pl` 
-has_name_pt = `=this.dv_has_name_pt` 
-has_name_sk = `=this.dv_has_name_sk` 
-has_name_sl = `=this.dv_has_name_sl` 
-has_name_sv = `=this.dv_has_name_sv` 
-has_name_zh = `=this.dv_has_name_zh` 
+#has_/name_/bg  :: Визей
+#has_/name_/cs  :: Visé
+#has_/name_/da  :: Viseen
+#has_/name_/de  :: Viseum
+#has_/name_/es  :: Viseense
+#has_/name_/et  :: Vise
+#has_/name_/fi  :: Vis
+#has_/name_/fr  :: Viséen
+#has_/name_/hu  :: viséi
+#has_/name_/it  :: viseano
+#has_/name_/ja  :: ビゼアン期
+#has_/name_/lt  :: Vizejis
+#has_/name_/nl  :: Vise-iën
+#has_/name_/no  :: Viseium
+#has_/name_/pl  :: Wizen
+#has_/name_/pt  :: Viseano
+#has_/name_/sk  :: visén
+#has_/name_/sl  :: viseij
+#has_/name_/sv  :: vis
+#has_/name_/zh  :: 韦宪期
 
-has_abbreviation = `=this.dv_has_abbreviation` 
+#has_/abbreviation :: c2
 
 #has_/time_/started :: -346.7e6 
-has_time_stopped = `=this.dv_has_time_stopped` 
+#has_/time_/stopped :: -330.9e6 
 
     sh:order 103 
 
-has_text_of_color = `=this.dv_has_text_of_color` 
+#has_/text_of_/color :: 0xA6B96C
 
 ## #has_/text_of_/abstract 
 

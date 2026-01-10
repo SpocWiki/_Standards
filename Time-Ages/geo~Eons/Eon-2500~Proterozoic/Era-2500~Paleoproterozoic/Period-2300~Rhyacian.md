@@ -32,95 +32,15 @@ start_time: -2300000000-01-01T00:00:00Z
 Commons_category: Rhyacian
 sRGB_color_hex_triplet: F75B89
 IPA_transcription: raɪˈeɪsiən
-dv_has_:
-  duration_:
-    years: "2.500e+8"
-  previous_:
-    item: "[[Period-2500~Siderian]]"
-  next_:
-    item: "[[Period-2050~Orosirian]]"
-  name_:
-    bg: Риац
-    cs: Rhyak
-    da: Rhyacien
-    de: Rhyacium
-    es: Ryaciense
-    et: Rhyac
-    fi: Ryak
-    fr: Rhyacien
-    hu: rhyaci
-    it: rhyaciano
-    ja: リヤシアン紀
-    lt: Riacis
-    nl: Rhyaciën
-    no: Ryasium
-    pl: Riak
-    pt: Riaciano
-    sk: rhyacium
-    sl: rhyacij
-    sv: ryacium
-    zh: 层侵纪
-  abbreviation: PP2
-  time_:
-    started: "-2.300e9"
-    stopped: "-2.050e9"
-  text_of_:
-    color: "0xF75B89"
-dv_is_:
-  same_as:
-    - "[[WD~Rhyacian,870511]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian|Period-2300~Rhyacian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian.public|Period-2300~Rhyacian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian.internal|Period-2300~Rhyacian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian.protect|Period-2300~Rhyacian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian.private|Period-2300~Rhyacian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian.personal|Period-2300~Rhyacian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian.secret|Period-2300~Rhyacian.secret]]"
-dv_has_duration_years: "2.500e+8"
-dv_has_previous_item: "[[Period-2500~Siderian]]"
-dv_has_next_item: "[[Period-2050~Orosirian]]"
-dv_is_same_as:
-  - "[[WD~Rhyacian,870511]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian|Period-2300~Rhyacian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian.public|Period-2300~Rhyacian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian.internal|Period-2300~Rhyacian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian.protect|Period-2300~Rhyacian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian.private|Period-2300~Rhyacian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian.personal|Period-2300~Rhyacian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-2500~Proterozoic/Era-2500~Paleoproterozoic/Period-2300~Rhyacian.secret|Period-2300~Rhyacian.secret]]"
-dv_has_name_bg: Риац
-dv_has_name_cs: Rhyak
-dv_has_name_da: Rhyacien
-dv_has_name_de: Rhyacium
-dv_has_name_es: Ryaciense
-dv_has_name_et: Rhyac
-dv_has_name_fi: Ryak
-dv_has_name_fr: Rhyacien
-dv_has_name_hu: rhyaci
-dv_has_name_it: rhyaciano
-dv_has_name_ja: リヤシアン紀
-dv_has_name_lt: Riacis
-dv_has_name_nl: Rhyaciën
-dv_has_name_no: Ryasium
-dv_has_name_pl: Riak
-dv_has_name_pt: Riaciano
-dv_has_name_sk: rhyacium
-dv_has_name_sl: rhyacij
-dv_has_name_sv: ryacium
-dv_has_name_zh: 层侵纪
-dv_has_abbreviation: PP2
-dv_has_time_started: "-2.300e9"
-dv_has_time_stopped: "-2.050e9"
-dv_has_text_of_color: "0xF75B89"
 ---
 # [[Period-2300~Rhyacian]] 
 
 #is_a_/time_/Period 
 
-#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-has_previous_item = `=this.dv_has_previous_item` 
-has_next_item = `=this.dv_has_next_item` 
+#has_/previous_/item :: [[Period-2500~Siderian]] 
+#has_/next_/item :: [[Period-2050~Orosirian]] 
 #is_/same_as :: [[WD~Rhyacian,870511]] 
 
 ## #has_/text_of_/abstract 
@@ -136,35 +56,35 @@ has_next_item = `=this.dv_has_next_item`
 > [Wikipedia](https://en.wikipedia.org/wiki/Rhyacian) 
 
 
-has_name_bg = `=this.dv_has_name_bg` 
-has_name_cs = `=this.dv_has_name_cs` 
-has_name_da = `=this.dv_has_name_da` 
-has_name_de = `=this.dv_has_name_de` 
-has_name_es = `=this.dv_has_name_es` 
-has_name_et = `=this.dv_has_name_et` 
-has_name_fi = `=this.dv_has_name_fi` 
-has_name_fr = `=this.dv_has_name_fr` 
-has_name_hu = `=this.dv_has_name_hu` 
-has_name_it = `=this.dv_has_name_it` 
-has_name_ja = `=this.dv_has_name_ja` 
-has_name_lt = `=this.dv_has_name_lt` 
-has_name_nl = `=this.dv_has_name_nl` 
-has_name_no = `=this.dv_has_name_no` 
-has_name_pl = `=this.dv_has_name_pl` 
-has_name_pt = `=this.dv_has_name_pt` 
-has_name_sk = `=this.dv_has_name_sk` 
-has_name_sl = `=this.dv_has_name_sl` 
-has_name_sv = `=this.dv_has_name_sv` 
-has_name_zh = `=this.dv_has_name_zh` 
+#has_/name_/bg  :: Риац
+#has_/name_/cs  :: Rhyak
+#has_/name_/da  :: Rhyacien
+#has_/name_/de  :: Rhyacium
+#has_/name_/es  :: Ryaciense
+#has_/name_/et  :: Rhyac
+#has_/name_/fi  :: Ryak
+#has_/name_/fr  :: Rhyacien
+#has_/name_/hu  :: rhyaci
+#has_/name_/it  :: rhyaciano
+#has_/name_/ja  :: リヤシアン紀
+#has_/name_/lt  :: Riacis
+#has_/name_/nl  :: Rhyaciën
+#has_/name_/no  :: Ryasium
+#has_/name_/pl  :: Riak
+#has_/name_/pt  :: Riaciano
+#has_/name_/sk  :: rhyacium
+#has_/name_/sl  :: rhyacij
+#has_/name_/sv  :: ryacium
+#has_/name_/zh  :: 层侵纪
 
-has_abbreviation = `=this.dv_has_abbreviation` 
+#has_/abbreviation :: PP2
 
-has_time_started = `=this.dv_has_time_started` 
-has_time_stopped = `=this.dv_has_time_stopped` 
+#has_/time_/started :: -2.300e9 
+#has_/time_/stopped :: -2.050e9 
 
     sh:order 168 
 
-has_text_of_color = `=this.dv_has_text_of_color` 
+#has_/text_of_/color :: 0xF75B89
 
 ## All Contents
 

@@ -5,27 +5,27 @@ aliases:
   - 1980-Iran–Iraq War+1988
 has_id_wikidata: Q82664
 instance_of:
-  - "[[_Standards/WikiData/WD~annexation,194465]]"
-  - "[[_Standards/WikiData/WD~war_of_aggression,474138]]"
-  - "[[_Standards/WikiData/WD~war,198]]"
+  - '[[_Standards/WikiData/WD~annexation,194465]]'
+  - '[[_Standards/WikiData/WD~war_of_aggression,474138]]'
+  - '[[_Standards/WikiData/WD~war,198]]'
 participant:
   - "[[_Standards/WikiData/WD~People's_Mojahedin_Organization_of_Iran,636947]]"
-  - "[[_Standards/WikiData/WD~Patriotic_Union_of_Kurdistan,677505]]"
-  - "[[_Standards/WikiData/WD~Islamic_Supreme_Council_of_Iraq,718723]]"
-  - "[[_Standards/WikiData/WD~Kurdistan_Democratic_Party,781221]]"
-  - "[[_Standards/WikiData/WD~Democratic_Party_of_Iranian_Kurdistan,785078]]"
-  - "[[_Standards/WikiData/WD~Democratic_Revolutionary_Front_for_the_Liberation_of_Arabistan,5255812]]"
-  - "[[_Standards/WikiData/WD~Iran,794]]"
-  - "[[_Standards/WikiData/WD~Iraq,796]]"
-  - "[[_Standards/WikiData/WD~Sudan,1049]]"
-order_of_battle: "[[_Standards/WikiData/WD~Order_of_battle_during_the_Iran_Iraq_War,7100587]]"
-part_of: "[[_Standards/WikiData/WD~Gulf_War,9001214]]"
-has_effect: "[[_Standards/WikiData/WD~multiple_causes,18121382]]"
+  - '[[_Standards/WikiData/WD~Patriotic_Union_of_Kurdistan,677505]]'
+  - '[[_Standards/WikiData/WD~Islamic_Supreme_Council_of_Iraq,718723]]'
+  - '[[_Standards/WikiData/WD~Kurdistan_Democratic_Party,781221]]'
+  - '[[_Standards/WikiData/WD~Democratic_Party_of_Iranian_Kurdistan,785078]]'
+  - '[[_Standards/WikiData/WD~Democratic_Revolutionary_Front_for_the_Liberation_of_Arabistan,5255812]]'
+  - '[[_Standards/WikiData/WD~Iran,794]]'
+  - '[[_Standards/WikiData/WD~Iraq,796]]'
+  - '[[_Standards/WikiData/WD~Sudan,1049]]'
+order_of_battle: '[[_Standards/WikiData/WD~Order_of_battle_during_the_Iran_Iraq_War,7100587]]'
+part_of: '[[_Standards/WikiData/WD~Gulf_War,9001214]]'
+has_effect: '[[_Standards/WikiData/WD~multiple_causes,18121382]]'
 location:
-  - "[[_Standards/WikiData/WD~Iran,794]]"
-  - "[[_Standards/WikiData/WD~Iraq,796]]"
-  - "[[_Standards/WikiData/WD~Persian_Gulf,34675]]"
-named_after: "[[_Standards/WikiData/WD~Persian_Gulf,34675]]"
+  - '[[_Standards/WikiData/WD~Iran,794]]'
+  - '[[_Standards/WikiData/WD~Iraq,796]]'
+  - '[[_Standards/WikiData/WD~Persian_Gulf,34675]]'
+named_after: '[[_Standards/WikiData/WD~Persian_Gulf,34675]]'
 start_time: 1980-09-22T00:00:00Z
 end_time: 1988-08-20T00:00:00Z
 U_S_National_Archives_Identifier: 10639243
@@ -34,25 +34,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Iran-Iraq%20War%20Mont
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Irak-Iranoorlog-article.ogg
 Wolfram_Language_entity_code: Entity["HistoricalEvent", "IranIraqWarCeasefire1988"]
 Commons_category: Iran-Iraq War
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../WikiData/WD~Iran–Iraq_War,82664]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988|1980-Iran–Iraq_War+1988]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988.public|1980-Iran–Iraq_War+1988.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988.internal|1980-Iran–Iraq_War+1988.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988.protect|1980-Iran–Iraq_War+1988.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988.private|1980-Iran–Iraq_War+1988.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988.personal|1980-Iran–Iraq_War+1988.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988.secret|1980-Iran–Iraq_War+1988.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Iran–Iraq_War,82664]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988|1980-Iran–Iraq_War+1988]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988.public|1980-Iran–Iraq_War+1988.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988.internal|1980-Iran–Iraq_War+1988.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988.protect|1980-Iran–Iraq_War+1988.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988.private|1980-Iran–Iraq_War+1988.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988.personal|1980-Iran–Iraq_War+1988.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1980-Iran–Iraq_War+1988.secret|1980-Iran–Iraq_War+1988.secret]]"
 ---
 
 # [[1980-Iran–Iraq_War+1988]] 

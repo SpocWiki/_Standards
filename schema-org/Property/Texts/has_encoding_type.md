@@ -11,58 +11,22 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - encoding
   - type
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_encoding_type
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_encoding_type
 type: Pred_Text
-dv_has_:
-  text_of_:
-    encoding_type: Text
-  domain: EntryPoint
-dv_has_text_of_encoding_type: Text
-dv_is_:
-  similar_to:
-    - "[[has_content_type|contentType]]"
-    - "[[has_encoding_format|encodingFormat]]"
-  different_from: "[[../../Relation/has/has_encoding|has_encoding]]"
-  same_as:
-    - "[[/_Standards/schema-org/Property/Texts/has_encoding_type|has_encoding_type]]"
-    - "[[/_public/schema-org/Property/Texts/has_encoding_type.public|has_encoding_type.public]]"
-    - "[[/_internal/schema-org/Property/Texts/has_encoding_type.internal|has_encoding_type.internal]]"
-    - "[[/_protect/schema-org/Property/Texts/has_encoding_type.protect|has_encoding_type.protect]]"
-    - "[[/_private/schema-org/Property/Texts/has_encoding_type.private|has_encoding_type.private]]"
-    - "[[/_personal/schema-org/Property/Texts/has_encoding_type.personal|has_encoding_type.personal]]"
-    - "[[/_secret/schema-org/Property/Texts/has_encoding_type.secret|has_encoding_type.secret]]"
-dv_#has_:
-  name: has_text_of_encoding_type
-  range: Text
-dv_is_similar_to:
-  - "[[has_content_type|contentType]]"
-  - "[[has_encoding_format|encodingFormat]]"
-dv_is_different_from: "[[../../Relation/has/has_encoding|has_encoding]]"
-dv_has_domain: EntryPoint
-dv_has_name: has_text_of_encoding_type
-dv_has_range: Text
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_encoding_type|has_encoding_type]]"
-  - "[[/_public/schema-org/Property/Texts/has_encoding_type.public|has_encoding_type.public]]"
-  - "[[/_internal/schema-org/Property/Texts/has_encoding_type.internal|has_encoding_type.internal]]"
-  - "[[/_protect/schema-org/Property/Texts/has_encoding_type.protect|has_encoding_type.protect]]"
-  - "[[/_private/schema-org/Property/Texts/has_encoding_type.private|has_encoding_type.private]]"
-  - "[[/_personal/schema-org/Property/Texts/has_encoding_type.personal|has_encoding_type.personal]]"
-  - "[[/_secret/schema-org/Property/Texts/has_encoding_type.secret|has_encoding_type.secret]]"
 ---
 
 # [[has_encoding_type]] 
@@ -72,20 +36,20 @@ Use **`encodingType`** only when you want to **strictly specify a MIME type** fo
 otherwise rather use #see :: [[has_encoding_format]]  . 
 
 Use it like this: 
-- has_text_of_encoding_type = `=this.dv_has_text_of_encoding_type`  
-- has_text_of_encoding_type = `=this.dv_has_text_of_encoding_type`  
+- [has_/text_of_/encoding_type :: Text ] 
+- [ has_text_of_encoding_type :: Text ] 
 
 The supported encoding type(s) for an [[../../Class/is_a_/Intangible/entry_point|EntryPoint]] request.
 #is_/similar_to :: [[has_content_type|contentType]] 
 #is_/similar_to :: [[has_encoding_format|encodingFormat]] 
-is_different_from = `=this.dv_is_different_from` 
+#is_/different_from :: [[../../Relation/has/has_encoding|has_encoding]] 
 
 Predicated describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: EntryPoint  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_text_of_encoding_type )
+( #has_/range :: Text )
 
 
 ## Confidential Links & Embeds: 

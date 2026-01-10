@@ -9,57 +9,27 @@ aliases:
   - dbo:location
   - schema:location
   - wdt:P276
-  - "has location "
+  - 'has location '
 confidential: public
 cssclasses:
   - Predicate
   - geo
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - location
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_location_
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/geo
 title: has_location_
 type: Pred_geo
-dv_has_:
-  location_:
-    "": Place, PostalAddress, Text, VirtualLocation
-  domain: Action, Event, InteractionCounter, Organization
-  sub_properties: "[ course, entertainmentBusiness, exerciseCourse, foodEstablishment, foodEvent, fromLocation, homeLocation, itemLocation, sportsActivityLocation, sportsEvent, toLocation, workLocation ]"
-dv_has_location_: Place, PostalAddress, Text, VirtualLocation
-dv_#has_:
-  name: has_location_
-  range: Place, PostalAddress, Text, VirtualLocation
-dv_is_:
-  same_as:
-    - "[[/_Standards/schema-org/Property/has_location/has_location_|has_location_]]"
-    - "[[/_public/schema-org/Property/has_location/has_location_.public|has_location_.public]]"
-    - "[[/_internal/schema-org/Property/has_location/has_location_.internal|has_location_.internal]]"
-    - "[[/_protect/schema-org/Property/has_location/has_location_.protect|has_location_.protect]]"
-    - "[[/_private/schema-org/Property/has_location/has_location_.private|has_location_.private]]"
-    - "[[/_personal/schema-org/Property/has_location/has_location_.personal|has_location_.personal]]"
-    - "[[/_secret/schema-org/Property/has_location/has_location_.secret|has_location_.secret]]"
-dv_has_domain: Action, Event, InteractionCounter, Organization
-dv_has_name: has_location_
-dv_has_range: Place, PostalAddress, Text, VirtualLocation
-dv_has_sub_properties: "[ course, entertainmentBusiness, exerciseCourse, foodEstablishment, foodEvent, fromLocation, homeLocation, itemLocation, sportsActivityLocation, sportsEvent, toLocation, workLocation ]"
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_location/has_location_|has_location_]]"
-  - "[[/_public/schema-org/Property/has_location/has_location_.public|has_location_.public]]"
-  - "[[/_internal/schema-org/Property/has_location/has_location_.internal|has_location_.internal]]"
-  - "[[/_protect/schema-org/Property/has_location/has_location_.protect|has_location_.protect]]"
-  - "[[/_private/schema-org/Property/has_location/has_location_.private|has_location_.private]]"
-  - "[[/_personal/schema-org/Property/has_location/has_location_.personal|has_location_.personal]]"
-  - "[[/_secret/schema-org/Property/has_location/has_location_.secret|has_location_.secret]]"
 ---
 
 Predicate to describe the geo:lat_long of an Action, Event, InteractionCounter, Organization.
@@ -79,20 +49,20 @@ the Event can be appended like so:
 Preferably use [[../../../Earth/Geography/Place|place]], because it is not limited to the earth and is better recognizable for known Locations. 
 
 Use it like this: 
-- has_location_ = `=this.dv_has_location_`  
-- has_location_ = `=this.dv_has_location_`  
+- [has_/location_/ :: Place, PostalAddress, Text, VirtualLocation ] 
+- [ has_location_ :: Place, PostalAddress, Text, VirtualLocation ] 
 
 The location of, for example, where an event is happening, where an organization is located, 
 or where an action takes place.
 
 Predicate describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: Action, Event, InteractionCounter, Organization  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_location_ )
+( #has_/range :: Place, PostalAddress, Text, VirtualLocation )
 
-has_sub_properties = `=this.dv_has_sub_properties` 
+#has_/sub_properties :: [ course, entertainmentBusiness, exerciseCourse, foodEstablishment, foodEvent, fromLocation, homeLocation, itemLocation, sportsActivityLocation, sportsEvent, toLocation, workLocation ]  
 
 ## Confidential Links & Embeds: 
 

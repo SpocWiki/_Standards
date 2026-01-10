@@ -9,37 +9,18 @@ coordinate_location: Point(-102.365 43.1425)
 location:
   - 43.1425
   - -102.365
-participant: "[[_Standards/WikiData/WD~7th_Cavalry_Regiment,269574]]"
+participant: '[[_Standards/WikiData/WD~7th_Cavalry_Regiment,269574]]'
 locations:
-  - "[[_Standards/WikiData/WD~Wounded_Knee_Creek,1839733]]"
-  - "[[_Standards/WikiData/WD~Wounded_Knee_National_Historic_Landmark,8037403]]"
-instance_of: "[[_Standards/WikiData/WD~massacre,3199915]]"
+  - '[[_Standards/WikiData/WD~Wounded_Knee_Creek,1839733]]'
+  - '[[_Standards/WikiData/WD~Wounded_Knee_National_Historic_Landmark,8037403]]'
+instance_of: '[[_Standards/WikiData/WD~massacre,3199915]]'
 point_in_time: 1890-12-29T00:00:00Z
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~South_Dakota,1211]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~South_Dakota,1211]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
 number_of_deaths: 300
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Woundedkneesceneafterbattle.jpg
 Commons_category: Wounded Knee Massacre
 IMDb_keyword: wounded-knee-massacre
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../WikiData/WD~Wounded_Knee_Massacre,108413]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre|1890-Wounded_Knee_Massacre]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre.public|1890-Wounded_Knee_Massacre.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre.internal|1890-Wounded_Knee_Massacre.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre.protect|1890-Wounded_Knee_Massacre.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre.private|1890-Wounded_Knee_Massacre.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre.personal|1890-Wounded_Knee_Massacre.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre.secret|1890-Wounded_Knee_Massacre.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Wounded_Knee_Massacre,108413]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre|1890-Wounded_Knee_Massacre]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre.public|1890-Wounded_Knee_Massacre.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre.internal|1890-Wounded_Knee_Massacre.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre.protect|1890-Wounded_Knee_Massacre.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre.private|1890-Wounded_Knee_Massacre.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre.personal|1890-Wounded_Knee_Massacre.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1890-Wounded_Knee_Massacre.secret|1890-Wounded_Knee_Massacre.secret]]"
 ---
 
 # [[1890-Wounded_Knee_Massacre]] 

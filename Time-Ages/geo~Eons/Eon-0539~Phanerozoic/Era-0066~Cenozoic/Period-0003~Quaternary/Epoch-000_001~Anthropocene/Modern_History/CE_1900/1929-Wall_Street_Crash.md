@@ -5,11 +5,11 @@ aliases:
   - 1929-Wall_Street_Crash
   - 1929-Wall Street Crash
 has_id_wikidata: Q201684
-different_from: "[[_Standards/WikiData/WD~Black_Friday,86483]]"
-instance_of: "[[_Standards/WikiData/WD~stock_market_crash,1020018]]"
-participant: "[[_Standards/WikiData/WD~New_York_Stock_Exchange,13677]]"
-location: "[[_Standards/WikiData/WD~United_States,30]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
+different_from: '[[_Standards/WikiData/WD~Black_Friday,86483]]'
+instance_of: '[[_Standards/WikiData/WD~stock_market_crash,1020018]]'
+participant: '[[_Standards/WikiData/WD~New_York_Stock_Exchange,13677]]'
+location: '[[_Standards/WikiData/WD~United_States,30]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
 nickname:
   - Black Thursday
   - Black Tuesday
@@ -20,25 +20,6 @@ Commons_category: Wall Street Crash of 1929
 end_time: 1929-10-29T00:00:00Z
 start_time: 1929-10-24T00:00:00Z
 point_in_time: 1929-01-01T00:00:00Z
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../WikiData/WD~Wall_Street_Crash_of_1929,201684|WD~Wall_Street_Crash_of_1929,201684]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash|1929-Wall_Street_Crash]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash.public|1929-Wall_Street_Crash.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash.internal|1929-Wall_Street_Crash.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash.protect|1929-Wall_Street_Crash.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash.private|1929-Wall_Street_Crash.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash.personal|1929-Wall_Street_Crash.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash.secret|1929-Wall_Street_Crash.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Wall_Street_Crash_of_1929,201684|WD~Wall_Street_Crash_of_1929,201684]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash|1929-Wall_Street_Crash]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash.public|1929-Wall_Street_Crash.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash.internal|1929-Wall_Street_Crash.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash.protect|1929-Wall_Street_Crash.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash.private|1929-Wall_Street_Crash.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash.personal|1929-Wall_Street_Crash.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1929-Wall_Street_Crash.secret|1929-Wall_Street_Crash.secret]]"
 ---
 
 # [[1929-Wall_Street_Crash]] 

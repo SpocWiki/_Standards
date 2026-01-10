@@ -9,68 +9,39 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - publisher_imprint
   - publisher
   - imprint
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_publisher_imprint
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_publisher_imprint
 type: Predi_Relation
-dv_has_:
-  publisher_imprint: Organization
-  domain: CreativeWork
-dv_has_publisher_imprint: Organization
-dv_is_:
-  part_of: https://bib.schema.org
-  same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_publisher_imprint|has_publisher_imprint]]"
-    - "[[/_public/schema-org/Relation/has/has_publisher_imprint.public|has_publisher_imprint.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_publisher_imprint.internal|has_publisher_imprint.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_publisher_imprint.protect|has_publisher_imprint.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_publisher_imprint.private|has_publisher_imprint.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_publisher_imprint.personal|has_publisher_imprint.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_publisher_imprint.secret|has_publisher_imprint.secret]]"
-dv_#has_:
-  name: is_publisher_imprint
-  range: Organization
-dv_is_part_of: https://bib.schema.org
-dv_has_domain: CreativeWork
-dv_has_name: is_publisher_imprint
-dv_has_range: Organization
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_publisher_imprint|has_publisher_imprint]]"
-  - "[[/_public/schema-org/Relation/has/has_publisher_imprint.public|has_publisher_imprint.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_publisher_imprint.internal|has_publisher_imprint.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_publisher_imprint.protect|has_publisher_imprint.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_publisher_imprint.private|has_publisher_imprint.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_publisher_imprint.personal|has_publisher_imprint.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_publisher_imprint.secret|has_publisher_imprint.secret]]"
 ---
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: https://bib.schema.org  
 
 Use it like this: 
-- has_publisher_imprint = `=this.dv_has_publisher_imprint`  
-- has_publisher_imprint = `=this.dv_has_publisher_imprint`  
+- [has_/publisher_imprint :: Organization ] 
+- [ has_publisher_imprint :: Organization ] 
 
 The publishing division which published the comic.
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: CreativeWork  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: is_publisher_imprint )
+( #has_/range :: Organization )
 
 
 ## Confidential Links & Embeds: 

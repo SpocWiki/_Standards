@@ -16,68 +16,26 @@ official_website: http://www.sonymusic.com/
 X_Twitter_username:
   - sonymusicglobal
   - sonymusicsg
-dv_has_:
-  duration_:
-    years: "4.500e+6"
-  previous_:
-    item: "[[Age-497~Paibian]]"
-  next_:
-    item: "[[Age-490~Cambrian_Stage_10]]"
-  name_:
-    zh: 江山期
-  abbreviation: ep9
-  time_:
-    started: "-494.0e6"
-    stopped: "-489.5e6"
-  text_of_:
-    color: "0xD9F0BB"
-dv_is_:
-  same_as:
-    - "[[WD~Jiangshanian,33062]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian|Age-494~Jiangshanian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian.public|Age-494~Jiangshanian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian.internal|Age-494~Jiangshanian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian.protect|Age-494~Jiangshanian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian.private|Age-494~Jiangshanian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian.personal|Age-494~Jiangshanian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian.secret|Age-494~Jiangshanian.secret]]"
-dv_has_duration_years: "4.500e+6"
-dv_has_previous_item: "[[Age-497~Paibian]]"
-dv_has_next_item: "[[Age-490~Cambrian_Stage_10]]"
-dv_is_same_as:
-  - "[[WD~Jiangshanian,33062]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian|Age-494~Jiangshanian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian.public|Age-494~Jiangshanian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian.internal|Age-494~Jiangshanian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian.protect|Age-494~Jiangshanian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian.private|Age-494~Jiangshanian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian.personal|Age-494~Jiangshanian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-497~Furongian/Age-494~Jiangshanian.secret|Age-494~Jiangshanian.secret]]"
-dv_has_name_zh: 江山期
-dv_has_abbreviation: ep9
-dv_has_time_started: "-494.0e6"
-dv_has_time_stopped: "-489.5e6"
-dv_has_text_of_color: "0xD9F0BB"
 ---
 # [[Age-494~Jiangshanian]] 
 
 #is_a_/time_/Age 
 
-#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-has_previous_item = `=this.dv_has_previous_item` 
-has_next_item = `=this.dv_has_next_item` 
+#has_/previous_/item :: [[Age-497~Paibian]] 
+#has_/next_/item :: [[Age-490~Cambrian_Stage_10]]   
 #is_/same_as :: [[WD~Jiangshanian,33062]] 
 
-has_name_zh = `=this.dv_has_name_zh` 
+#has_/name_/zh  :: 江山期 
 
-has_abbreviation = `=this.dv_has_abbreviation` 
-has_time_started = `=this.dv_has_time_started` 
-has_time_stopped = `=this.dv_has_time_stopped` 
+#has_/abbreviation :: ep9
+#has_/time_/started :: -494.0e6 
+#has_/time_/stopped :: -489.5e6 
 
     sh:order 143 
 
-has_text_of_color = `=this.dv_has_text_of_color` 
+#has_/text_of_/color :: 0xD9F0BB
 
 A time period from 494 to 489.5 million years ago. 
 

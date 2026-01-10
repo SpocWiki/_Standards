@@ -9,68 +9,39 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - suggested_answer
   - suggested
   - answer
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_suggested_answer
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_suggested_answer
 type: Predi_Relation
-dv_has_:
-  suggested_answer: Answer, ItemList
-  domain: Question
-  sub_properties: "[ acceptedAnswer ]"
-dv_has_suggested_answer: Answer, ItemList
-dv_#has_:
-  name: is_suggested_answer
-  range: Answer, ItemList
-dv_is_:
-  same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_suggested_answer|has_suggested_answer]]"
-    - "[[/_public/schema-org/Relation/has/has_suggested_answer.public|has_suggested_answer.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_suggested_answer.internal|has_suggested_answer.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_suggested_answer.protect|has_suggested_answer.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_suggested_answer.private|has_suggested_answer.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_suggested_answer.personal|has_suggested_answer.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_suggested_answer.secret|has_suggested_answer.secret]]"
-dv_has_domain: Question
-dv_has_name: is_suggested_answer
-dv_has_range: Answer, ItemList
-dv_has_sub_properties: "[ acceptedAnswer ]"
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_suggested_answer|has_suggested_answer]]"
-  - "[[/_public/schema-org/Relation/has/has_suggested_answer.public|has_suggested_answer.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_suggested_answer.internal|has_suggested_answer.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_suggested_answer.protect|has_suggested_answer.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_suggested_answer.private|has_suggested_answer.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_suggested_answer.personal|has_suggested_answer.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_suggested_answer.secret|has_suggested_answer.secret]]"
 ---
 
 Use it like this: 
-- has_suggested_answer = `=this.dv_has_suggested_answer`  
-- has_suggested_answer = `=this.dv_has_suggested_answer`  
+- [has_/suggested_answer :: Answer, ItemList ] 
+- [ has_suggested_answer :: Answer, ItemList ] 
 
 An answer (possibly one of several, possibly incorrect) to a Question, e.g. on a Question/Answer site.
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: Question  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: is_suggested_answer )
+( #has_/range :: Answer, ItemList )
 
-has_sub_properties = `=this.dv_has_sub_properties` 
+#has_/sub_properties :: [ acceptedAnswer ]  
 
 ## Confidential Links & Embeds: 
 

@@ -10,79 +10,45 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords: ""
-layout: ""
+keywords: ''
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_similar_to
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: is_similar_to
 type: Predi_Relation
-dv_is_:
-  similar_to:
-    - Product, Service
-    - "[[is_same_as]]"
-  different_from: "[[is_same_as]]"
-  complement_of: "[[is_different_from]]"
-  same_as:
-    - "[[/_Standards/schema-org/Relation/is_similar_to|is_similar_to]]"
-    - "[[/_public/schema-org/Relation/is_similar_to.public|is_similar_to.public]]"
-    - "[[/_internal/schema-org/Relation/is_similar_to.internal|is_similar_to.internal]]"
-    - "[[/_protect/schema-org/Relation/is_similar_to.protect|is_similar_to.protect]]"
-    - "[[/_private/schema-org/Relation/is_similar_to.private|is_similar_to.private]]"
-    - "[[/_personal/schema-org/Relation/is_similar_to.personal|is_similar_to.personal]]"
-    - "[[/_secret/schema-org/Relation/is_similar_to.secret|is_similar_to.secret]]"
-dv_is_similar_to: Product, Service
-dv_because: reason for the difference
-dv_has_:
-  domain: Product, Service
-dv_#has_:
-  name: is_similar_to
-  range: Product, Service
-dv_is_different_from: "[[is_same_as]]"
-dv_is_complement_of: "[[is_different_from]]"
-dv_has_domain: Product, Service
-dv_has_name: is_similar_to
-dv_has_range: Product, Service
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/is_similar_to|is_similar_to]]"
-  - "[[/_public/schema-org/Relation/is_similar_to.public|is_similar_to.public]]"
-  - "[[/_internal/schema-org/Relation/is_similar_to.internal|is_similar_to.internal]]"
-  - "[[/_protect/schema-org/Relation/is_similar_to.protect|is_similar_to.protect]]"
-  - "[[/_private/schema-org/Relation/is_similar_to.private|is_similar_to.private]]"
-  - "[[/_personal/schema-org/Relation/is_similar_to.personal|is_similar_to.personal]]"
-  - "[[/_secret/schema-org/Relation/is_similar_to.secret|is_similar_to.secret]]"
 ---
 
-is_similar_to = `=this.dv_is_similar_to` 
-is_different_from = `=this.dv_is_different_from` 
-is_complement_of = `=this.dv_is_complement_of` 
+#is_/similar_to :: [[is_same_as]] 
+#is_/different_from :: [[is_same_as]] 
+#is_/complement_of :: [[is_different_from]] 
 
 If possible, use the more specific 
 #is_/sub_class_of  or #has_/sub_classes 
-or specify because = `=this.dv_because` ]. 
+or specify [[because :: reason for the difference]]. 
 
 Additionally use the Standard [[../../W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/owl(Ontology_Web_Language)|owl(Ontology_Web_Language)]] Relation 
  [[is_different_from]], to express the same as [[is_similar_to]]. 
 
 Use it like this: 
-- is_similar_to = `=this.dv_is_similar_to`  
-- is_similar_to = `=this.dv_is_similar_to`  
+- [is_/similar_to :: Product, Service] 
+- [ is_similar_to :: Product, Service] 
 
 A pointer to another, functionally similar product (or multiple products).
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: Product, Service 
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: is_similar_to)
+( #has_/range :: Product, Service)
 
 
 ## Confidential Links & Embeds: 

@@ -12,59 +12,21 @@ cssclasses:
   - Predicate
   - Url
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - content_url
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_url_for_content_url
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Url
 title: has_url_for_content_url
 type: Predi_Url
-dv_has_:
-  url_for_:
-    content: URL
-    same_as:
-      - "[[../../../W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RDF~Relations/rdfs~seeAlso|rdfs:seeAlso]]"
-      - "[[../../../W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RDF~Relations/rdfs~isDefinedBy|rdfs:isDefinedBy]]"
-      - "[[dc~source]]"
-      - "[[../../../Schemas/foaf/foaf~page|foaf:page]]"
-  domain: MediaObject
-dv_has_url_for_content: URL
-dv_#has_:
-  name: has_url_for_content_url
-  range: URL
-dv_is_:
-  same_as:
-    - "[[/_Standards/schema-org/Property/has_url_for/has_url_for_content|has_url_for_content]]"
-    - "[[/_public/schema-org/Property/has_url_for/has_url_for_content.public|has_url_for_content.public]]"
-    - "[[/_internal/schema-org/Property/has_url_for/has_url_for_content.internal|has_url_for_content.internal]]"
-    - "[[/_protect/schema-org/Property/has_url_for/has_url_for_content.protect|has_url_for_content.protect]]"
-    - "[[/_private/schema-org/Property/has_url_for/has_url_for_content.private|has_url_for_content.private]]"
-    - "[[/_personal/schema-org/Property/has_url_for/has_url_for_content.personal|has_url_for_content.personal]]"
-    - "[[/_secret/schema-org/Property/has_url_for/has_url_for_content.secret|has_url_for_content.secret]]"
-dv_has_url_for_same_as:
-  - "[[../../../W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RDF~Relations/rdfs~seeAlso|rdfs:seeAlso]]"
-  - "[[../../../W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RDF~Relations/rdfs~isDefinedBy|rdfs:isDefinedBy]]"
-  - "[[dc~source]]"
-  - "[[../../../Schemas/foaf/foaf~page|foaf:page]]"
-dv_has_domain: MediaObject
-dv_has_name: has_url_for_content_url
-dv_has_range: URL
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_url_for/has_url_for_content|has_url_for_content]]"
-  - "[[/_public/schema-org/Property/has_url_for/has_url_for_content.public|has_url_for_content.public]]"
-  - "[[/_internal/schema-org/Property/has_url_for/has_url_for_content.internal|has_url_for_content.internal]]"
-  - "[[/_protect/schema-org/Property/has_url_for/has_url_for_content.protect|has_url_for_content.protect]]"
-  - "[[/_private/schema-org/Property/has_url_for/has_url_for_content.private|has_url_for_content.private]]"
-  - "[[/_personal/schema-org/Property/has_url_for/has_url_for_content.personal|has_url_for_content.personal]]"
-  - "[[/_secret/schema-org/Property/has_url_for/has_url_for_content.secret|has_url_for_content.secret]]"
 ---
 
 #has_/url_for_/same_as :: [[../../../W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RDF~Relations/rdfs~seeAlso|rdfs:seeAlso]]
@@ -76,17 +38,17 @@ dv_is_same_as:
 Predicate to specify the Url of a [[../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|MediaObject]].
 
 Use it like this: 
-- has_url_for_content = `=this.dv_has_url_for_content`  
-- has_url_for_content = `=this.dv_has_url_for_content`  
+- [has_/url_for_/content :: URL ] 
+- [ has_url_for_content :: URL ] 
 
 Actual bytes of the media object, for example the image file or video file.
 
 Predicate describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: MediaObject  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_url_for_content_url )
+( #has_/range :: URL )
 
 
 ## Confidential Links & Embeds: 

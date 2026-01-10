@@ -1,7 +1,5 @@
 ---
-location:
-  - 16.363805555
-  - 48.2085
+location: [ 16.363805555 , 48.2085 ] 
 aliases:
   - Wiener Kongress
   - 1815-Congress_of_Vienna
@@ -15,69 +13,69 @@ Library_of_Congress_Classification:
   - D383
 native_label: Wiener Kongress
 participant:
-  - "[[_Standards/WikiData/WD~Hans_Christoph_Ernst_von_Gagern,67224]]"
-  - "[[_Standards/WikiData/WD~Ernst_zu_Münster,67418]]"
-  - "[[_Standards/WikiData/WD~Friedrich_August_von_Staegemann,68334]]"
-  - "[[_Standards/WikiData/WD~Karl_Friedrich_von_dem_Knesebeck,70439]]"
-  - "[[_Standards/WikiData/WD~Friedrich_von_Gentz,77476]]"
-  - "[[_Standards/WikiData/WD~Wilhelm_von_Humboldt,77888]]"
-  - "[[_Standards/WikiData/WD~Johann_Smidt,89519]]"
-  - "[[_Standards/WikiData/WD~Charles_Pictet_de_Rochemont,116793]]"
-  - "[[_Standards/WikiData/WD~Hans_von_Reinhard,119506]]"
-  - "[[_Standards/WikiData/WD~Arthur_Wellesley,_1st_Duke_of_Wellington,131691]]"
-  - "[[_Standards/WikiData/WD~Friedrich_Schlegel,157271]]"
-  - "[[_Standards/WikiData/WD~Charles_Maurice_de_Talleyrand_Périgord,160499]]"
-  - "[[_Standards/WikiData/WD~Karl_August_von_Hardenberg,213645]]"
-  - "[[_Standards/WikiData/WD~Maximilian_von_Montgelas,213722]]"
-  - "[[_Standards/WikiData/WD~Emmerich_Joseph_de_Dalberg,214217]]"
-  - "[[_Standards/WikiData/WD~Karl_August_Varnhagen_von_Ense,215691]]"
-  - "[[_Standards/WikiData/WD~Karl_Nesselrode,314196]]"
-  - "[[_Standards/WikiData/WD~Robert_Stewart,_Viscount_Castlereagh,333050]]"
-  - "[[_Standards/WikiData/WD~William_Cathcart,_1st_Earl_Cathcart,335766]]"
-  - "[[_Standards/WikiData/WD~Andrii_Rozumovskyi,502943]]"
-  - "[[_Standards/WikiData/WD~Ercole_Consalvi,533003]]"
-  - "[[_Standards/WikiData/WD~Baron_Johann_von_Wessenberg_Ampringen,697262]]"
-  - "[[_Standards/WikiData/WD~Richard_Trench,_2nd_Earl_of_Clancarty,736545]]"
-  - "[[_Standards/WikiData/WD~Pedro_de_Sousa_Holstein,_1st_Duke_of_Palmela,982358]]"
-  - "[[_Standards/WikiData/WD~Carl_Löwenhielm,1069154]]"
-  - "[[_Standards/WikiData/WD~Jean_de_Noailles,1308299]]"
-  - "[[_Standards/WikiData/WD~Georg_Ernst_Levin_von_Wintzingerode,1504153]]"
-  - "[[_Standards/WikiData/WD~António_de_Saldanha_da_Gama,_Count_of_Porto_Santo,1661560]]"
-  - "[[_Standards/WikiData/WD~Jean_de_Montenach,1685947]]"
-  - "[[_Standards/WikiData/WD~Leopold_von_Plessen,1697825]]"
-  - "[[_Standards/WikiData/WD~Gustav_Ernst_von_Stackelberg,1856350]]"
-  - "[[_Standards/WikiData/WD~Charles_Vane,_3rd_Marquess_of_Londonderry,2268227]]"
-  - "[[_Standards/WikiData/WD~Wilhelm_Ludwig_Leopold_Berstett,2574006]]"
-  - "[[_Standards/WikiData/WD~Aloys_Franz_Rechberg_und_Rothenlöwen,2650687]]"
-  - "[[_Standards/WikiData/WD~Antoine_Marie_Philippe_Asinari_de_Saint_Marsan,2854203]]"
-  - "[[_Standards/WikiData/WD~Filippo_Magawly_Cerati,3071901]]"
-  - "[[_Standards/WikiData/WD~Frédéric_Séraphin_de_La_Tour_du_Pin_Gouvernet,3089547]]"
+  - '[[_Standards/WikiData/WD~Hans_Christoph_Ernst_von_Gagern,67224]]'
+  - '[[_Standards/WikiData/WD~Ernst_zu_Münster,67418]]'
+  - '[[_Standards/WikiData/WD~Friedrich_August_von_Staegemann,68334]]'
+  - '[[_Standards/WikiData/WD~Karl_Friedrich_von_dem_Knesebeck,70439]]'
+  - '[[_Standards/WikiData/WD~Friedrich_von_Gentz,77476]]'
+  - '[[_Standards/WikiData/WD~Wilhelm_von_Humboldt,77888]]'
+  - '[[_Standards/WikiData/WD~Johann_Smidt,89519]]'
+  - '[[_Standards/WikiData/WD~Charles_Pictet_de_Rochemont,116793]]'
+  - '[[_Standards/WikiData/WD~Hans_von_Reinhard,119506]]'
+  - '[[_Standards/WikiData/WD~Arthur_Wellesley,_1st_Duke_of_Wellington,131691]]'
+  - '[[_Standards/WikiData/WD~Friedrich_Schlegel,157271]]'
+  - '[[_Standards/WikiData/WD~Charles_Maurice_de_Talleyrand_Périgord,160499]]'
+  - '[[_Standards/WikiData/WD~Karl_August_von_Hardenberg,213645]]'
+  - '[[_Standards/WikiData/WD~Maximilian_von_Montgelas,213722]]'
+  - '[[_Standards/WikiData/WD~Emmerich_Joseph_de_Dalberg,214217]]'
+  - '[[_Standards/WikiData/WD~Karl_August_Varnhagen_von_Ense,215691]]'
+  - '[[_Standards/WikiData/WD~Karl_Nesselrode,314196]]'
+  - '[[_Standards/WikiData/WD~Robert_Stewart,_Viscount_Castlereagh,333050]]'
+  - '[[_Standards/WikiData/WD~William_Cathcart,_1st_Earl_Cathcart,335766]]'
+  - '[[_Standards/WikiData/WD~Andrii_Rozumovskyi,502943]]'
+  - '[[_Standards/WikiData/WD~Ercole_Consalvi,533003]]'
+  - '[[_Standards/WikiData/WD~Baron_Johann_von_Wessenberg_Ampringen,697262]]'
+  - '[[_Standards/WikiData/WD~Richard_Trench,_2nd_Earl_of_Clancarty,736545]]'
+  - '[[_Standards/WikiData/WD~Pedro_de_Sousa_Holstein,_1st_Duke_of_Palmela,982358]]'
+  - '[[_Standards/WikiData/WD~Carl_Löwenhielm,1069154]]'
+  - '[[_Standards/WikiData/WD~Jean_de_Noailles,1308299]]'
+  - '[[_Standards/WikiData/WD~Georg_Ernst_Levin_von_Wintzingerode,1504153]]'
+  - '[[_Standards/WikiData/WD~António_de_Saldanha_da_Gama,_Count_of_Porto_Santo,1661560]]'
+  - '[[_Standards/WikiData/WD~Jean_de_Montenach,1685947]]'
+  - '[[_Standards/WikiData/WD~Leopold_von_Plessen,1697825]]'
+  - '[[_Standards/WikiData/WD~Gustav_Ernst_von_Stackelberg,1856350]]'
+  - '[[_Standards/WikiData/WD~Charles_Vane,_3rd_Marquess_of_Londonderry,2268227]]'
+  - '[[_Standards/WikiData/WD~Wilhelm_Ludwig_Leopold_Berstett,2574006]]'
+  - '[[_Standards/WikiData/WD~Aloys_Franz_Rechberg_und_Rothenlöwen,2650687]]'
+  - '[[_Standards/WikiData/WD~Antoine_Marie_Philippe_Asinari_de_Saint_Marsan,2854203]]'
+  - '[[_Standards/WikiData/WD~Filippo_Magawly_Cerati,3071901]]'
+  - '[[_Standards/WikiData/WD~Frédéric_Séraphin_de_La_Tour_du_Pin_Gouvernet,3089547]]'
   - "[[_Standards/WikiData/WD~Luigi_de'_Medici,3840279]]"
-  - "[[_Standards/WikiData/WD~Joaquim_Lobo_da_Silveira,_7th_Count_of_Oriola,6206321]]"
-  - "[[_Standards/WikiData/WD~Pedro_Gómez_Labrador,_Marquis_of_Labrador,7159632]]"
-  - "[[_Standards/WikiData/WD~Niels_Rosenkrantz,9347716]]"
-  - "[[_Standards/WikiData/WD~Franz_Binder_von_Kriegelstein,15728656]]"
-  - "[[_Standards/WikiData/WD~Johann_Heinrich_Wieland,17038224]]"
-  - "[[_Standards/WikiData/WD~Nikolaus_von_Wacken,66124768]]"
-  - "[[_Standards/WikiData/WD~Agostino_Pareto,66133222]]"
-  - "[[_Standards/WikiData/WD~Klemens_von_Metternich,45662]]"
-  - "[[_Standards/WikiData/WD~Carl_Philipp_von_Wrede,64759]]"
+  - '[[_Standards/WikiData/WD~Joaquim_Lobo_da_Silveira,_7th_Count_of_Oriola,6206321]]'
+  - '[[_Standards/WikiData/WD~Pedro_Gómez_Labrador,_Marquis_of_Labrador,7159632]]'
+  - '[[_Standards/WikiData/WD~Niels_Rosenkrantz,9347716]]'
+  - '[[_Standards/WikiData/WD~Franz_Binder_von_Kriegelstein,15728656]]'
+  - '[[_Standards/WikiData/WD~Johann_Heinrich_Wieland,17038224]]'
+  - '[[_Standards/WikiData/WD~Nikolaus_von_Wacken,66124768]]'
+  - '[[_Standards/WikiData/WD~Agostino_Pareto,66133222]]'
+  - '[[_Standards/WikiData/WD~Klemens_von_Metternich,45662]]'
+  - '[[_Standards/WikiData/WD~Carl_Philipp_von_Wrede,64759]]'
 described_by_source:
-  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
+  - '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~peace_treaty,625298]]"
-  - "[[_Standards/WikiData/WD~peace_conference,7157512]]"
-different_from: "[[_Standards/WikiData/WD~Vienna_Conference,7928315]]"
+  - '[[_Standards/WikiData/WD~peace_treaty,625298]]'
+  - '[[_Standards/WikiData/WD~peace_conference,7157512]]'
+different_from: '[[_Standards/WikiData/WD~Vienna_Conference,7928315]]'
 subject_named_as: Wiener Kongress (1814/1815)
 has_effect:
-  - "[[_Standards/WikiData/WD~Border_Kingdom_of_Saxony_Kingdom_of_Prussia_1815,54859684]]"
-  - "[[_Standards/WikiData/WD~borderstones_Belgium_Prussia,59268184]]"
+  - '[[_Standards/WikiData/WD~Border_Kingdom_of_Saxony_Kingdom_of_Prussia_1815,54859684]]'
+  - '[[_Standards/WikiData/WD~borderstones_Belgium_Prussia,59268184]]'
 coordinate_location: Point(16.363805555 48.2085)
-locations: "[[_Standards/WikiData/WD~Vienna,1741]]"
-country: "[[_Standards/WikiData/WD~Austria,40]]"
+locations: '[[_Standards/WikiData/WD~Vienna,1741]]'
+country: '[[_Standards/WikiData/WD~Austria,40]]'
 BHCL_UUID:
   - f0b0dace-a391-46d8-a8de-5d19338ca16a
   - c42e9b1b-4e93-48f4-991d-70e5c55190b7
@@ -91,25 +89,6 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Wiener%
 detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Europe%201815%20map%20en.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Wiener%20Kongress%20Abschlussdokument%202.JPG
 described_at_URL: https://stadtlexikon.karlsruhe.de/index.php/De:Lexikon:ereig-0236
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../WikiData/WD~Congress_of_Vienna,46362|WD~Congress_of_Vienna,46362]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1815-Congress_of_Vienna|1815-Congress_of_Vienna]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1815-Congress_of_Vienna.public|1815-Congress_of_Vienna.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1815-Congress_of_Vienna.internal|1815-Congress_of_Vienna.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1815-Congress_of_Vienna.protect|1815-Congress_of_Vienna.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1815-Congress_of_Vienna.private|1815-Congress_of_Vienna.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1815-Congress_of_Vienna.personal|1815-Congress_of_Vienna.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1815-Congress_of_Vienna.secret|1815-Congress_of_Vienna.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Congress_of_Vienna,46362|WD~Congress_of_Vienna,46362]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1815-Congress_of_Vienna|1815-Congress_of_Vienna]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1815-Congress_of_Vienna.public|1815-Congress_of_Vienna.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1815-Congress_of_Vienna.internal|1815-Congress_of_Vienna.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1815-Congress_of_Vienna.protect|1815-Congress_of_Vienna.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1815-Congress_of_Vienna.private|1815-Congress_of_Vienna.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1815-Congress_of_Vienna.personal|1815-Congress_of_Vienna.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1815-Congress_of_Vienna.secret|1815-Congress_of_Vienna.secret]]"
 ---
 
 # [[1815-Congress_of_Vienna]] 

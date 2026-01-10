@@ -27,25 +27,6 @@ locations: "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
 country: "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
 coordinate_location: Point(90.0 65.0)
 Commons_category: Soviet deportations
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../WikiData/WD~Population_transfer_in_the_Soviet_Union,85125|WD~Population_transfer_in_the_Soviet_Union,85125]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1930-Population_Transfer_in_the_Soviet_Union-1952|1930-Population_Transfer_in_the_Soviet_Union-1952]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1930-Population_Transfer_in_the_Soviet_Union-1952.public|1930-Population_Transfer_in_the_Soviet_Union-1952.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1930-Population_Transfer_in_the_Soviet_Union-1952.internal|1930-Population_Transfer_in_the_Soviet_Union-1952.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1930-Population_Transfer_in_the_Soviet_Union-1952.protect|1930-Population_Transfer_in_the_Soviet_Union-1952.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1930-Population_Transfer_in_the_Soviet_Union-1952.private|1930-Population_Transfer_in_the_Soviet_Union-1952.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1930-Population_Transfer_in_the_Soviet_Union-1952.personal|1930-Population_Transfer_in_the_Soviet_Union-1952.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1930-Population_Transfer_in_the_Soviet_Union-1952.secret|1930-Population_Transfer_in_the_Soviet_Union-1952.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Population_transfer_in_the_Soviet_Union,85125|WD~Population_transfer_in_the_Soviet_Union,85125]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1930-Population_Transfer_in_the_Soviet_Union-1952|1930-Population_Transfer_in_the_Soviet_Union-1952]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1930-Population_Transfer_in_the_Soviet_Union-1952.public|1930-Population_Transfer_in_the_Soviet_Union-1952.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1930-Population_Transfer_in_the_Soviet_Union-1952.internal|1930-Population_Transfer_in_the_Soviet_Union-1952.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1930-Population_Transfer_in_the_Soviet_Union-1952.protect|1930-Population_Transfer_in_the_Soviet_Union-1952.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1930-Population_Transfer_in_the_Soviet_Union-1952.private|1930-Population_Transfer_in_the_Soviet_Union-1952.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1930-Population_Transfer_in_the_Soviet_Union-1952.personal|1930-Population_Transfer_in_the_Soviet_Union-1952.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1930-Population_Transfer_in_the_Soviet_Union-1952.secret|1930-Population_Transfer_in_the_Soviet_Union-1952.secret]]"
 ---
 
 # [[1930-Population_Transfer_in_the_Soviet_Union-1952]] 

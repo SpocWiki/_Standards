@@ -10,60 +10,30 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - fuel-capacity
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_fuel-capacity
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_fuel-capacity
 type: Predi_Quantity
-dv_has_:
-  value_for_:
-    fuel_capacity_liter: QuantitativeValue
-  domain: Vehicle
-dv_has_value_for_fuel_capacity_liter: QuantitativeValue
-dv_is_:
-  part_of: https://auto.schema.org
-  same_as:
-    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_fuel_capacity_liter|has_value_for_fuel_capacity_liter]]"
-    - "[[/_public/schema-org/Property/has_value_for/has_value_for_fuel_capacity_liter.public|has_value_for_fuel_capacity_liter.public]]"
-    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_fuel_capacity_liter.internal|has_value_for_fuel_capacity_liter.internal]]"
-    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_fuel_capacity_liter.protect|has_value_for_fuel_capacity_liter.protect]]"
-    - "[[/_private/schema-org/Property/has_value_for/has_value_for_fuel_capacity_liter.private|has_value_for_fuel_capacity_liter.private]]"
-    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_fuel_capacity_liter.personal|has_value_for_fuel_capacity_liter.personal]]"
-    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_fuel_capacity_liter.secret|has_value_for_fuel_capacity_liter.secret]]"
-dv_#has_:
-  name: has_value_for_fuel_capacity_liter
-  range: QuantitativeValue
-dv_is_part_of: https://auto.schema.org
-dv_has_domain: Vehicle
-dv_has_name: has_value_for_fuel_capacity_liter
-dv_has_range: QuantitativeValue
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_fuel_capacity_liter|has_value_for_fuel_capacity_liter]]"
-  - "[[/_public/schema-org/Property/has_value_for/has_value_for_fuel_capacity_liter.public|has_value_for_fuel_capacity_liter.public]]"
-  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_fuel_capacity_liter.internal|has_value_for_fuel_capacity_liter.internal]]"
-  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_fuel_capacity_liter.protect|has_value_for_fuel_capacity_liter.protect]]"
-  - "[[/_private/schema-org/Property/has_value_for/has_value_for_fuel_capacity_liter.private|has_value_for_fuel_capacity_liter.private]]"
-  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_fuel_capacity_liter.personal|has_value_for_fuel_capacity_liter.personal]]"
-  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_fuel_capacity_liter.secret|has_value_for_fuel_capacity_liter.secret]]"
 ---
 
 Predicate to describe the Quantity of Vehicle.
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: https://auto.schema.org  
 
 Use it like this: 
-- has_value_for_fuel_capacity_liter = `=this.dv_has_value_for_fuel_capacity_liter`  
-- has_value_for_fuel_capacity_liter = `=this.dv_has_value_for_fuel_capacity_liter`  
+- [has_/value_for_/fuel_capacity_liter :: QuantitativeValue ] 
+- [ has_value_for_fuel_capacity_liter :: QuantitativeValue ] 
 
 The capacity of the fuel tank or in the case of electric cars, the battery. If there are multiple components for storage, this should indicate the total of all storage of the same type.
 
@@ -73,10 +43,10 @@ Typical unit code(s): LTR for liters, GLL of US gallons, GLI for UK / imperial g
 
 Predicate describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: Vehicle  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_value_for_fuel_capacity_liter )
+( #has_/range :: QuantitativeValue )
 
 
 ## Confidential Links & Embeds: 

@@ -29,43 +29,15 @@ P8189: 987007548261505200
 start_time: 1700-01-01T00:00:00Z
 subject_named_as: Aufklärung
 topic_s_main_template: "[[_Standards/WikiData/WD~Template_Age_of_Enlightenment,10962287]]"
-dv_has_:
-  time_:
-    started: 1680-06-01T00:00:00.000+00:53
-    stopped: 1840-06-01T00:00:00.000+00:53
-  duration_: P160Y
-dv_is_:
-  same_as:
-    - "[[../../../../../../../WikiData/WD~Age_of_Enlightenment,12539]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1680-Age_of_Enlightenment|1680-Age_of_Enlightenment]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1680-Age_of_Enlightenment.public|1680-Age_of_Enlightenment.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1680-Age_of_Enlightenment.internal|1680-Age_of_Enlightenment.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1680-Age_of_Enlightenment.protect|1680-Age_of_Enlightenment.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1680-Age_of_Enlightenment.private|1680-Age_of_Enlightenment.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1680-Age_of_Enlightenment.personal|1680-Age_of_Enlightenment.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1680-Age_of_Enlightenment.secret|1680-Age_of_Enlightenment.secret]]"
-dv_has_time_started: 1680-06-01
-dv_has_time_stopped: 1840-06-01
-dv_has_duration_years: 160
-dv_has_duration_: P160Y
-dv_is_same_as:
-  - "[[../../../../../../../WikiData/WD~Age_of_Enlightenment,12539]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1680-Age_of_Enlightenment|1680-Age_of_Enlightenment]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1680-Age_of_Enlightenment.public|1680-Age_of_Enlightenment.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1680-Age_of_Enlightenment.internal|1680-Age_of_Enlightenment.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1680-Age_of_Enlightenment.protect|1680-Age_of_Enlightenment.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1680-Age_of_Enlightenment.private|1680-Age_of_Enlightenment.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1680-Age_of_Enlightenment.personal|1680-Age_of_Enlightenment.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1680-Age_of_Enlightenment.secret|1680-Age_of_Enlightenment.secret]]"
 ---
 
 # [[1680-Age_of_Enlightenment]] 
 
-has_time_started = `=this.dv_has_time_started` 
-has_time_stopped = `=this.dv_has_time_stopped` 
+#has_/time_/started :: 1680-06 
+#has_/time_/stopped ::  1840-06
 
-#has_/duration_/years :: `$=Math.round(((dv.current().dv_has_time_stopped ?? new Date()) - dv.current().dv_has_time_started)/1000/60/60/24/365.2425)` 
-#has_/duration_ :: `=default(this.dv_has_time_stopped, date(now)) - this.dv_has_time_started` 
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+#has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Age_of_Enlightenment,12539]] 
 

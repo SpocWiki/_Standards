@@ -9,68 +9,39 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - sub_organization
   - sub
   - organization
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_sub_organization
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_sub_organization
 type: Predi_Relation
-dv_has_:
-  sub_organization: Organization
-  domain: Organization
-dv_has_sub_organization: Organization
-dv_#has_:
-  name: is_sub_organization
-  range: Organization
-dv_is_:
-  inverse_of: parentOrganization
-  same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_sub_organization|has_sub_organization]]"
-    - "[[/_public/schema-org/Relation/has/has_sub_organization.public|has_sub_organization.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_sub_organization.internal|has_sub_organization.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_sub_organization.protect|has_sub_organization.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_sub_organization.private|has_sub_organization.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_sub_organization.personal|has_sub_organization.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_sub_organization.secret|has_sub_organization.secret]]"
-dv_has_domain: Organization
-dv_has_name: is_sub_organization
-dv_has_range: Organization
-dv_is_inverse_of: parentOrganization
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_sub_organization|has_sub_organization]]"
-  - "[[/_public/schema-org/Relation/has/has_sub_organization.public|has_sub_organization.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_sub_organization.internal|has_sub_organization.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_sub_organization.protect|has_sub_organization.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_sub_organization.private|has_sub_organization.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_sub_organization.personal|has_sub_organization.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_sub_organization.secret|has_sub_organization.secret]]"
 ---
 
 Use it like this: 
-- has_sub_organization = `=this.dv_has_sub_organization`  
-- has_sub_organization = `=this.dv_has_sub_organization`  
+- [has_/sub_organization :: Organization ] 
+- [ has_sub_organization :: Organization ] 
 
 A relationship between two organizations where the first includes the second, e.g., as a subsidiary. See also: the more specific 'department' property.
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: Organization  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: is_sub_organization )
+( #has_/range :: Organization )
 
-is_inverse_of = `=this.dv_is_inverse_of` 
+#is_/inverse_of  :: parentOrganization  
 
 ## Confidential Links & Embeds: 
 

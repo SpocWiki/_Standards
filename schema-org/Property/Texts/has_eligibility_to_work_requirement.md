@@ -11,7 +11,7 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -19,64 +19,34 @@ keywords:
   - to
   - work
   - requirement
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_eligibility_to_work_requirement
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_eligibility_to_work_requirement
 type: Pred_Text
-dv_has_:
-  text_of_:
-    eligibility_to_work_requirement: Text
-  domain: JobPosting
-dv_has_text_of_eligibility_to_work_requirement: Text
-dv_is_:
-  part_of: "pending:"
-  same_as:
-    - "[[/_Standards/schema-org/Property/Texts/has_eligibility_to_work_requirement|has_eligibility_to_work_requirement]]"
-    - "[[/_public/schema-org/Property/Texts/has_eligibility_to_work_requirement.public|has_eligibility_to_work_requirement.public]]"
-    - "[[/_internal/schema-org/Property/Texts/has_eligibility_to_work_requirement.internal|has_eligibility_to_work_requirement.internal]]"
-    - "[[/_protect/schema-org/Property/Texts/has_eligibility_to_work_requirement.protect|has_eligibility_to_work_requirement.protect]]"
-    - "[[/_private/schema-org/Property/Texts/has_eligibility_to_work_requirement.private|has_eligibility_to_work_requirement.private]]"
-    - "[[/_personal/schema-org/Property/Texts/has_eligibility_to_work_requirement.personal|has_eligibility_to_work_requirement.personal]]"
-    - "[[/_secret/schema-org/Property/Texts/has_eligibility_to_work_requirement.secret|has_eligibility_to_work_requirement.secret]]"
-dv_#has_:
-  name: has_text_of_eligibility_to_work_requirement
-  range: Text
-dv_is_part_of: "pending:"
-dv_has_domain: JobPosting
-dv_has_name: has_text_of_eligibility_to_work_requirement
-dv_has_range: Text
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_eligibility_to_work_requirement|has_eligibility_to_work_requirement]]"
-  - "[[/_public/schema-org/Property/Texts/has_eligibility_to_work_requirement.public|has_eligibility_to_work_requirement.public]]"
-  - "[[/_internal/schema-org/Property/Texts/has_eligibility_to_work_requirement.internal|has_eligibility_to_work_requirement.internal]]"
-  - "[[/_protect/schema-org/Property/Texts/has_eligibility_to_work_requirement.protect|has_eligibility_to_work_requirement.protect]]"
-  - "[[/_private/schema-org/Property/Texts/has_eligibility_to_work_requirement.private|has_eligibility_to_work_requirement.private]]"
-  - "[[/_personal/schema-org/Property/Texts/has_eligibility_to_work_requirement.personal|has_eligibility_to_work_requirement.personal]]"
-  - "[[/_secret/schema-org/Property/Texts/has_eligibility_to_work_requirement.secret|has_eligibility_to_work_requirement.secret]]"
 ---
 
 Predicate to describe the Text of JobPosting.
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use it like this: 
-- has_text_of_eligibility_to_work_requirement = `=this.dv_has_text_of_eligibility_to_work_requirement`  
-- has_text_of_eligibility_to_work_requirement = `=this.dv_has_text_of_eligibility_to_work_requirement`  
+- [has_/text_of_/eligibility_to_work_requirement :: Text ] 
+- [ has_text_of_eligibility_to_work_requirement :: Text ] 
 
 The legal requirements such as citizenship, visa and other documentation required for an applicant to this job.
 
 Predicated describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: JobPosting  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_text_of_eligibility_to_work_requirement )
+( #has_/range :: Text )
 
 
 ## Confidential Links & Embeds: 

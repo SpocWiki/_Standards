@@ -19,25 +19,6 @@ end_time: 1989-02-15T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Afghan-Soviet%20war.png
 Wolfram_Language_entity_code: Entity["HistoricalEvent", "SovietWarAfghanistan"]
 Commons_category: Soviet–Afghan War
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../WikiData/WD~Soviet–Afghan_War,83085]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1979-Soviet–Afghan_War+1989|1979-Soviet–Afghan_War+1989]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1979-Soviet–Afghan_War+1989.public|1979-Soviet–Afghan_War+1989.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1979-Soviet–Afghan_War+1989.internal|1979-Soviet–Afghan_War+1989.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1979-Soviet–Afghan_War+1989.protect|1979-Soviet–Afghan_War+1989.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1979-Soviet–Afghan_War+1989.private|1979-Soviet–Afghan_War+1989.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1979-Soviet–Afghan_War+1989.personal|1979-Soviet–Afghan_War+1989.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1979-Soviet–Afghan_War+1989.secret|1979-Soviet–Afghan_War+1989.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Soviet–Afghan_War,83085]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1979-Soviet–Afghan_War+1989|1979-Soviet–Afghan_War+1989]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1979-Soviet–Afghan_War+1989.public|1979-Soviet–Afghan_War+1989.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1979-Soviet–Afghan_War+1989.internal|1979-Soviet–Afghan_War+1989.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1979-Soviet–Afghan_War+1989.protect|1979-Soviet–Afghan_War+1989.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1979-Soviet–Afghan_War+1989.private|1979-Soviet–Afghan_War+1989.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1979-Soviet–Afghan_War+1989.personal|1979-Soviet–Afghan_War+1989.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1979-Soviet–Afghan_War+1989.secret|1979-Soviet–Afghan_War+1989.secret]]"
 ---
 
 # [[1979-Soviet–Afghan_War+1989]] 

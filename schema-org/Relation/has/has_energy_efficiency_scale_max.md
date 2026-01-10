@@ -8,7 +8,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -18,61 +18,32 @@ keywords:
   - max
   - energy_efficiency_scale_max
   - energyEfficiencyScaleMax
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_energy_efficiency_scale_max
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_energy_efficiency_scale_max
 type: Predi_Relation
-dv_has_:
-  energy_efficiency_scale_max: EUEnergyEfficiencyEnumeration
-  domain: EnergyConsumptionDetails
-dv_has_energy_efficiency_scale_max: EUEnergyEfficiencyEnumeration
-dv_is_:
-  part_of: "pending:"
-  same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_energy_efficiency_scale_max|has_energy_efficiency_scale_max]]"
-    - "[[/_public/schema-org/Relation/has/has_energy_efficiency_scale_max.public|has_energy_efficiency_scale_max.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_energy_efficiency_scale_max.internal|has_energy_efficiency_scale_max.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_energy_efficiency_scale_max.protect|has_energy_efficiency_scale_max.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_energy_efficiency_scale_max.private|has_energy_efficiency_scale_max.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_energy_efficiency_scale_max.personal|has_energy_efficiency_scale_max.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_energy_efficiency_scale_max.secret|has_energy_efficiency_scale_max.secret]]"
-dv_#has_:
-  name: has_energy_efficiency_scale_max
-  range: EUEnergyEfficiencyEnumeration
-dv_is_part_of: "pending:"
-dv_has_domain: EnergyConsumptionDetails
-dv_has_name: has_energy_efficiency_scale_max
-dv_has_range: EUEnergyEfficiencyEnumeration
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_energy_efficiency_scale_max|has_energy_efficiency_scale_max]]"
-  - "[[/_public/schema-org/Relation/has/has_energy_efficiency_scale_max.public|has_energy_efficiency_scale_max.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_energy_efficiency_scale_max.internal|has_energy_efficiency_scale_max.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_energy_efficiency_scale_max.protect|has_energy_efficiency_scale_max.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_energy_efficiency_scale_max.private|has_energy_efficiency_scale_max.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_energy_efficiency_scale_max.personal|has_energy_efficiency_scale_max.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_energy_efficiency_scale_max.secret|has_energy_efficiency_scale_max.secret]]"
 ---
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use it like this: 
-- has_energy_efficiency_scale_max = `=this.dv_has_energy_efficiency_scale_max`  
-- has_energy_efficiency_scale_max = `=this.dv_has_energy_efficiency_scale_max`  
+- [has_/energy_efficiency_scale_max :: EUEnergyEfficiencyEnumeration ] 
+- [ has_energy_efficiency_scale_max :: EUEnergyEfficiencyEnumeration ] 
 
 Specifies the most energy efficient class on the regulated EU energy consumption scale for the product category a product belongs to. For example, energy consumption for televisions placed on the market after 2020-01-01 is scaled from D to A+++.
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: EnergyConsumptionDetails  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_energy_efficiency_scale_max )
+( #has_/range :: EUEnergyEfficiencyEnumeration )
 
 
 ## Confidential Links & Embeds: 

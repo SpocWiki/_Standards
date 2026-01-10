@@ -10,7 +10,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -18,69 +18,36 @@ keywords:
   - defined
   - term
   - set
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_in_defined_term_set
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: is_in_defined_term_set
 type: Predi_Relation
-dv_is_:
-  in_defined_term_set: DefinedTermSet, URL
-  part_of: "pending:"
-  sub_property_of: "[[../../Composite/is_part_of]]"
-  same_as:
-    - "[[/_Standards/schema-org/Relation/is/is_in_defined_term_set|is_in_defined_term_set]]"
-    - "[[/_public/schema-org/Relation/is/is_in_defined_term_set.public|is_in_defined_term_set.public]]"
-    - "[[/_internal/schema-org/Relation/is/is_in_defined_term_set.internal|is_in_defined_term_set.internal]]"
-    - "[[/_protect/schema-org/Relation/is/is_in_defined_term_set.protect|is_in_defined_term_set.protect]]"
-    - "[[/_private/schema-org/Relation/is/is_in_defined_term_set.private|is_in_defined_term_set.private]]"
-    - "[[/_personal/schema-org/Relation/is/is_in_defined_term_set.personal|is_in_defined_term_set.personal]]"
-    - "[[/_secret/schema-org/Relation/is/is_in_defined_term_set.secret|is_in_defined_term_set.secret]]"
-dv_is_in_defined_term_set: DefinedTermSet, URL
-dv_has_:
-  domain: DefinedTerm
-  sub_properties: "[[is_in_code_set]]"
-dv_#has_:
-  name: is_in_defined_term_set
-  range: DefinedTermSet, URL
-dv_is_part_of: "pending:"
-dv_has_domain: DefinedTerm
-dv_has_name: is_in_defined_term_set
-dv_has_range: DefinedTermSet, URL
-dv_is_sub_property_of: "[[../../Composite/is_part_of]]"
-dv_has_sub_properties: "[[is_in_code_set]]"
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/is/is_in_defined_term_set|is_in_defined_term_set]]"
-  - "[[/_public/schema-org/Relation/is/is_in_defined_term_set.public|is_in_defined_term_set.public]]"
-  - "[[/_internal/schema-org/Relation/is/is_in_defined_term_set.internal|is_in_defined_term_set.internal]]"
-  - "[[/_protect/schema-org/Relation/is/is_in_defined_term_set.protect|is_in_defined_term_set.protect]]"
-  - "[[/_private/schema-org/Relation/is/is_in_defined_term_set.private|is_in_defined_term_set.private]]"
-  - "[[/_personal/schema-org/Relation/is/is_in_defined_term_set.personal|is_in_defined_term_set.personal]]"
-  - "[[/_secret/schema-org/Relation/is/is_in_defined_term_set.secret|is_in_defined_term_set.secret]]"
 ---
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use it like this: 
-- is_in_defined_term_set = `=this.dv_is_in_defined_term_set`  
-- is_in_defined_term_set = `=this.dv_is_in_defined_term_set`  
+- [is_/in_defined_term_set :: DefinedTermSet, URL ] 
+- [ is_in_defined_term_set :: DefinedTermSet, URL ] 
 
 A [[DefinedTermSet]] that contains this term.
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: DefinedTerm  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: is_in_defined_term_set )
+( #has_/range :: DefinedTermSet, URL )
 
-is_sub_property_of = `=this.dv_is_sub_property_of` 
+#is_/sub_property_of  :: [[../../../Composite/is_part_of]]  
 
-has_sub_properties = `=this.dv_has_sub_properties` 
+#has_/sub_properties :: [[is_in_code_set]]  
 
 ## Confidential Links & Embeds: 
 

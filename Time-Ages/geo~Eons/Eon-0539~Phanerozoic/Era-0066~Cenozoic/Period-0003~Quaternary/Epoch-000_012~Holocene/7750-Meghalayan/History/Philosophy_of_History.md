@@ -19,25 +19,6 @@ image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Anton%20Raphael%20Mengs%2C%20The%20Triumph%20of%20History%20over%20Time%20%28Allegory%20of%20the%20Museum%20Clementinum%29%2C%20ceiling%20fresco%20in%20the%20Camera%20dei%20Papiri%2C%20Vatican%20Library%2C%201772%20-%20M0tty.jpg
 Commons_category: Philosophy of history
 PhilPapers_topic: philosophy-of-history
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../WikiData/WD~Philosophy_of_history,190721|WD~Philosophy_of_history,190721]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Philosophy_of_History|Philosophy_of_History]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Philosophy_of_History.public|Philosophy_of_History.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Philosophy_of_History.internal|Philosophy_of_History.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Philosophy_of_History.protect|Philosophy_of_History.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Philosophy_of_History.private|Philosophy_of_History.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Philosophy_of_History.personal|Philosophy_of_History.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Philosophy_of_History.secret|Philosophy_of_History.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Philosophy_of_history,190721|WD~Philosophy_of_history,190721]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Philosophy_of_History|Philosophy_of_History]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Philosophy_of_History.public|Philosophy_of_History.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Philosophy_of_History.internal|Philosophy_of_History.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Philosophy_of_History.protect|Philosophy_of_History.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Philosophy_of_History.private|Philosophy_of_History.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Philosophy_of_History.personal|Philosophy_of_History.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Philosophy_of_History.secret|Philosophy_of_History.secret]]"
 ---
 
 # [[Philosophy_of_History]] 

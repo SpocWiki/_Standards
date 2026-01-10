@@ -9,68 +9,39 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - result_review
   - result
   - review
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_result_review
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_result_review
 type: Predi_Relation
-dv_has_:
-  result_review: Review
-  domain: ReviewAction
-dv_has_result_review: Review
-dv_#has_:
-  name: is_result_review
-  range: Review
-dv_is_:
-  sub_property_of: result
-  same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_result_review|has_result_review]]"
-    - "[[/_public/schema-org/Relation/has/has_result_review.public|has_result_review.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_result_review.internal|has_result_review.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_result_review.protect|has_result_review.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_result_review.private|has_result_review.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_result_review.personal|has_result_review.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_result_review.secret|has_result_review.secret]]"
-dv_has_domain: ReviewAction
-dv_has_name: is_result_review
-dv_has_range: Review
-dv_is_sub_property_of: result
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_result_review|has_result_review]]"
-  - "[[/_public/schema-org/Relation/has/has_result_review.public|has_result_review.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_result_review.internal|has_result_review.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_result_review.protect|has_result_review.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_result_review.private|has_result_review.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_result_review.personal|has_result_review.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_result_review.secret|has_result_review.secret]]"
 ---
 
 Use it like this: 
-- has_result_review = `=this.dv_has_result_review`  
-- has_result_review = `=this.dv_has_result_review`  
+- [has_/result_review :: Review ] 
+- [ has_result_review :: Review ] 
 
 A sub property of result. The review that resulted in the performing of the action.
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: ReviewAction  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: is_result_review )
+( #has_/range :: Review )
 
-is_sub_property_of = `=this.dv_is_sub_property_of` 
+#is_/sub_property_of  :: result  
 
 ## Confidential Links & Embeds: 
 

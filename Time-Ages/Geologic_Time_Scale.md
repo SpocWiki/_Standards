@@ -5,44 +5,25 @@ aliases:
   - Geologic Time Scale
 has_id_wikidata: Q43521
 studied_by:
-  - "[[_Standards/WikiData/WD~geochronology,213891]]"
-  - "[[_Standards/WikiData/WD~biostratigraphy,864826]]"
-  - "[[_Standards/WikiData/WD~chronostratigraphy,973297]]"
-subclass_of: "[[_Standards/WikiData/WD~technical_standard,317623]]"
+  - '[[_Standards/WikiData/WD~geochronology,213891]]'
+  - '[[_Standards/WikiData/WD~biostratigraphy,864826]]'
+  - '[[_Standards/WikiData/WD~chronostratigraphy,973297]]'
+subclass_of: '[[_Standards/WikiData/WD~technical_standard,317623]]'
 standards_body:
-  - "[[_Standards/WikiData/WD~International_Commission_on_Stratigraphy,402104]]"
-  - "[[_Standards/WikiData/WD~International_Union_of_Geological_Sciences,579663]]"
+  - '[[_Standards/WikiData/WD~International_Commission_on_Stratigraphy,402104]]'
+  - '[[_Standards/WikiData/WD~International_Union_of_Geological_Sciences,579663]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~periodization,816829]]"
-  - "[[_Standards/WikiData/WD~chronostratigraphic_classification_scheme,63463337]]"
-has_part_s_: "[[_Standards/WikiData/WD~geochronological_unit,4005761]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~geological_time,6146525]]"
+  - '[[_Standards/WikiData/WD~periodization,816829]]'
+  - '[[_Standards/WikiData/WD~chronostratigraphic_classification_scheme,63463337]]'
+has_part_s_: '[[_Standards/WikiData/WD~geochronological_unit,4005761]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~geological_time,6146525]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Geologic_time_scale,6457426]]"
-  - "[[_Standards/WikiData/WD~Template_Geology_to_Paleobiology,11011947]]"
-  - "[[_Standards/WikiData/WD~Q100869473,100869473]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[_Standards/WikiData/WD~Template_Geologic_time_scale,6457426]]'
+  - '[[_Standards/WikiData/WD~Template_Geology_to_Paleobiology,11011947]]'
+  - '[[_Standards/WikiData/WD~Q100869473,100869473]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 official_website: https://stratigraphy.org/ICSchart/ChronostratChart2023-09.pdf
 Commons_category: Geologic time scale
-dv_is_:
-  same_as:
-    - "[[../WikiData/WD~Geologic_time_scale,43521|WD~Geologic_time_scale,43521]]"
-    - "[[/_Standards/Time-Ages/Geologic_Time_Scale|Geologic_Time_Scale]]"
-    - "[[/_public/Time-Ages/Geologic_Time_Scale.public|Geologic_Time_Scale.public]]"
-    - "[[/_internal/Time-Ages/Geologic_Time_Scale.internal|Geologic_Time_Scale.internal]]"
-    - "[[/_protect/Time-Ages/Geologic_Time_Scale.protect|Geologic_Time_Scale.protect]]"
-    - "[[/_private/Time-Ages/Geologic_Time_Scale.private|Geologic_Time_Scale.private]]"
-    - "[[/_personal/Time-Ages/Geologic_Time_Scale.personal|Geologic_Time_Scale.personal]]"
-    - "[[/_secret/Time-Ages/Geologic_Time_Scale.secret|Geologic_Time_Scale.secret]]"
-dv_is_same_as:
-  - "[[../WikiData/WD~Geologic_time_scale,43521|WD~Geologic_time_scale,43521]]"
-  - "[[/_Standards/Time-Ages/Geologic_Time_Scale|Geologic_Time_Scale]]"
-  - "[[/_public/Time-Ages/Geologic_Time_Scale.public|Geologic_Time_Scale.public]]"
-  - "[[/_internal/Time-Ages/Geologic_Time_Scale.internal|Geologic_Time_Scale.internal]]"
-  - "[[/_protect/Time-Ages/Geologic_Time_Scale.protect|Geologic_Time_Scale.protect]]"
-  - "[[/_private/Time-Ages/Geologic_Time_Scale.private|Geologic_Time_Scale.private]]"
-  - "[[/_personal/Time-Ages/Geologic_Time_Scale.personal|Geologic_Time_Scale.personal]]"
-  - "[[/_secret/Time-Ages/Geologic_Time_Scale.secret|Geologic_Time_Scale.secret]]"
 ---
 
 # [[Geologic_Time_Scale]] 

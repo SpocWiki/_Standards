@@ -9,7 +9,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,65 +17,34 @@ keywords:
   - unnamed
   - sources
   - policy
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_unnamed_sources_policy
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_unnamed_sources_policy
 type: Predi_Relation
-dv_has_:
-  unnamed_sources_policy: CreativeWork, URL
-  domain: NewsMediaOrganization, Organization
-dv_has_unnamed_sources_policy: CreativeWork, URL
-dv_is_:
-  part_of: "pending:"
-  sub_property_of: publishingPrinciples
-  same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_unnamed_sources_policy|has_unnamed_sources_policy]]"
-    - "[[/_public/schema-org/Relation/has/has_unnamed_sources_policy.public|has_unnamed_sources_policy.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_unnamed_sources_policy.internal|has_unnamed_sources_policy.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_unnamed_sources_policy.protect|has_unnamed_sources_policy.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_unnamed_sources_policy.private|has_unnamed_sources_policy.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_unnamed_sources_policy.personal|has_unnamed_sources_policy.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_unnamed_sources_policy.secret|has_unnamed_sources_policy.secret]]"
-dv_#has_:
-  name: is_unnamed_sources_policy
-  range: CreativeWork, URL
-dv_is_part_of: "pending:"
-dv_has_domain: NewsMediaOrganization, Organization
-dv_has_name: is_unnamed_sources_policy
-dv_has_range: CreativeWork, URL
-dv_is_sub_property_of: publishingPrinciples
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_unnamed_sources_policy|has_unnamed_sources_policy]]"
-  - "[[/_public/schema-org/Relation/has/has_unnamed_sources_policy.public|has_unnamed_sources_policy.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_unnamed_sources_policy.internal|has_unnamed_sources_policy.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_unnamed_sources_policy.protect|has_unnamed_sources_policy.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_unnamed_sources_policy.private|has_unnamed_sources_policy.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_unnamed_sources_policy.personal|has_unnamed_sources_policy.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_unnamed_sources_policy.secret|has_unnamed_sources_policy.secret]]"
 ---
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use it like this: 
-- has_unnamed_sources_policy = `=this.dv_has_unnamed_sources_policy`  
-- has_unnamed_sources_policy = `=this.dv_has_unnamed_sources_policy`  
+- [has_/unnamed_sources_policy :: CreativeWork, URL ] 
+- [ has_unnamed_sources_policy :: CreativeWork, URL ] 
 
 For an [[../../../Society/Agent/Community/Organization]] (typically a [[NewsMediaOrganization]]), a statement about policy on use of unnamed sources and the decision process required.
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: NewsMediaOrganization, Organization  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: is_unnamed_sources_policy )
+( #has_/range :: CreativeWork, URL )
 
-is_sub_property_of = `=this.dv_is_sub_property_of` 
+#is_/sub_property_of  :: publishingPrinciples  
 
 ## Confidential Links & Embeds: 
 

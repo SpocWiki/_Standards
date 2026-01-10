@@ -10,60 +10,30 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - payload
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_payload
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_payload
 type: Predi_Quantity
-dv_has_:
-  value_for_:
-    payload_kg: QuantitativeValue
-  domain: Vehicle
-dv_has_value_for_payload_kg: QuantitativeValue
-dv_is_:
-  part_of: https://auto.schema.org
-  same_as:
-    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_payload_kg|has_value_for_payload_kg]]"
-    - "[[/_public/schema-org/Property/has_value_for/has_value_for_payload_kg.public|has_value_for_payload_kg.public]]"
-    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_payload_kg.internal|has_value_for_payload_kg.internal]]"
-    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_payload_kg.protect|has_value_for_payload_kg.protect]]"
-    - "[[/_private/schema-org/Property/has_value_for/has_value_for_payload_kg.private|has_value_for_payload_kg.private]]"
-    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_payload_kg.personal|has_value_for_payload_kg.personal]]"
-    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_payload_kg.secret|has_value_for_payload_kg.secret]]"
-dv_#has_:
-  name: has_value_for_payload_kg
-  range: QuantitativeValue
-dv_is_part_of: https://auto.schema.org
-dv_has_domain: Vehicle
-dv_has_name: has_value_for_payload_kg
-dv_has_range: QuantitativeValue
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_payload_kg|has_value_for_payload_kg]]"
-  - "[[/_public/schema-org/Property/has_value_for/has_value_for_payload_kg.public|has_value_for_payload_kg.public]]"
-  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_payload_kg.internal|has_value_for_payload_kg.internal]]"
-  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_payload_kg.protect|has_value_for_payload_kg.protect]]"
-  - "[[/_private/schema-org/Property/has_value_for/has_value_for_payload_kg.private|has_value_for_payload_kg.private]]"
-  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_payload_kg.personal|has_value_for_payload_kg.personal]]"
-  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_payload_kg.secret|has_value_for_payload_kg.secret]]"
 ---
 
 Predicate to describe the Quantity of Vehicle.
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: https://auto.schema.org  
 
 Use it like this: 
-- has_value_for_payload_kg = `=this.dv_has_value_for_payload_kg`  
-- has_value_for_payload_kg = `=this.dv_has_value_for_payload_kg`  
+- [has_/value_for_/payload_kg :: QuantitativeValue ] 
+- [ has_value_for_payload_kg :: QuantitativeValue ] 
 
 The permitted weight of passengers and cargo, EXCLUDING the weight of the empty vehicle.
 
@@ -82,10 +52,10 @@ Typical unit code(s): KGM for kilogram, LBR for pound
 
 Predicate describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: Vehicle  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_value_for_payload_kg )
+( #has_/range :: QuantitativeValue )
 
 
 ## Confidential Links & Embeds: 

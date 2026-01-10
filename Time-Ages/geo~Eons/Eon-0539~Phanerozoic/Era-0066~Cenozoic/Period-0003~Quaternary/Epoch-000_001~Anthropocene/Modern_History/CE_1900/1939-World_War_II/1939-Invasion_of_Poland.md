@@ -8,17 +8,17 @@ aliases:
   - 1939-Invasion of Poland
 has_id_wikidata: Q150812
 instance_of:
-  - "[[_Standards/WikiData/WD~invasion,467011]]"
-  - "[[_Standards/WikiData/WD~military_operation,645883]]"
-  - "[[_Standards/WikiData/WD~military_campaign,831663]]"
+  - '[[_Standards/WikiData/WD~invasion,467011]]'
+  - '[[_Standards/WikiData/WD~military_operation,645883]]'
+  - '[[_Standards/WikiData/WD~military_campaign,831663]]'
 order_of_battle:
-  - "[[_Standards/WikiData/WD~German_order_of_battle_for_Operation_Fall_Weiss,855504]]"
-  - "[[_Standards/WikiData/WD~Polish_army_order_of_battle_in_1939,7210012]]"
-  - "[[_Standards/WikiData/WD~order_of_battle_of_the_Polish_Army,_September_28,_1939,11798978]]"
-  - "[[_Standards/WikiData/WD~order_of_battle_of_the_Wehrmacht_for_the_attack_on_Poland,11798976]]"
-participant: "[[_Standards/WikiData/WD~Nazi_Germany,7318]]"
-has_contributing_factor: "[[_Standards/WikiData/WD~Fall_Weiss,26078]]"
-locations: "[[_Standards/WikiData/WD~Poland,36]]"
+  - '[[_Standards/WikiData/WD~German_order_of_battle_for_Operation_Fall_Weiss,855504]]'
+  - '[[_Standards/WikiData/WD~Polish_army_order_of_battle_in_1939,7210012]]'
+  - '[[_Standards/WikiData/WD~order_of_battle_of_the_Polish_Army,_September_28,_1939,11798978]]'
+  - '[[_Standards/WikiData/WD~order_of_battle_of_the_Wehrmacht_for_the_attack_on_Poland,11798976]]'
+participant: '[[_Standards/WikiData/WD~Nazi_Germany,7318]]'
+has_contributing_factor: '[[_Standards/WikiData/WD~Fall_Weiss,26078]]'
+locations: '[[_Standards/WikiData/WD~Poland,36]]'
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Poland.png
 image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Defenders%20of%20Warsaw%20%281939%29.jpg
@@ -28,25 +28,6 @@ official_website: http://www.1wrzesnia39.pl/
 Commons_category: Polish Defensive War of 1939
 end_time: 1939-10-06T00:00:00Z
 start_time: 1939-09-01T00:00:00Z
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../../WikiData/WD~Invasion_of_Poland,150812]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1939-Invasion_of_Poland|1939-Invasion_of_Poland]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1939-Invasion_of_Poland.public|1939-Invasion_of_Poland.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1939-Invasion_of_Poland.internal|1939-Invasion_of_Poland.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1939-Invasion_of_Poland.protect|1939-Invasion_of_Poland.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1939-Invasion_of_Poland.private|1939-Invasion_of_Poland.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1939-Invasion_of_Poland.personal|1939-Invasion_of_Poland.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1939-Invasion_of_Poland.secret|1939-Invasion_of_Poland.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Invasion_of_Poland,150812]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1939-Invasion_of_Poland|1939-Invasion_of_Poland]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1939-Invasion_of_Poland.public|1939-Invasion_of_Poland.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1939-Invasion_of_Poland.internal|1939-Invasion_of_Poland.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1939-Invasion_of_Poland.protect|1939-Invasion_of_Poland.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1939-Invasion_of_Poland.private|1939-Invasion_of_Poland.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1939-Invasion_of_Poland.personal|1939-Invasion_of_Poland.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/1939-Invasion_of_Poland.secret|1939-Invasion_of_Poland.secret]]"
 ---
 
 # [[1939-Invasion_of_Poland]] 

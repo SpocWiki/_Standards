@@ -7,70 +7,39 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - recipient
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_recipient
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_recipient
 type: Predi_Relation
-dv_has_:
-  recipient: Audience, ContactPoint, Organization, Person
-  domain: AuthorizeAction, CommunicateAction, DonateAction, GiveAction, Message, PayAction, ReturnAction, SendAction, TipAction
-  sub_properties: "[ bccRecipient, ccRecipient, toRecipient ]"
-dv_has_recipient: Audience, ContactPoint, Organization, Person
-dv_#has_:
-  name: is_recipient
-  range: Audience, ContactPoint, Organization, Person
-dv_is_:
-  sub_property_of: participant
-  same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_participants/has_recipient|has_recipient]]"
-    - "[[/_public/schema-org/Relation/has/has_participants/has_recipient.public|has_recipient.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_participants/has_recipient.internal|has_recipient.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_participants/has_recipient.protect|has_recipient.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_participants/has_recipient.private|has_recipient.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_participants/has_recipient.personal|has_recipient.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_participants/has_recipient.secret|has_recipient.secret]]"
-dv_has_domain: AuthorizeAction, CommunicateAction, DonateAction, GiveAction, Message, PayAction, ReturnAction, SendAction, TipAction
-dv_has_name: is_recipient
-dv_has_range: Audience, ContactPoint, Organization, Person
-dv_is_sub_property_of: participant
-dv_has_sub_properties: "[ bccRecipient, ccRecipient, toRecipient ]"
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_participants/has_recipient|has_recipient]]"
-  - "[[/_public/schema-org/Relation/has/has_participants/has_recipient.public|has_recipient.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_participants/has_recipient.internal|has_recipient.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_participants/has_recipient.protect|has_recipient.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_participants/has_recipient.private|has_recipient.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_participants/has_recipient.personal|has_recipient.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_participants/has_recipient.secret|has_recipient.secret]]"
 ---
 
 Use it like this: 
-- has_recipient = `=this.dv_has_recipient`  
-- has_recipient = `=this.dv_has_recipient`  
+- [has_/recipient :: Audience, ContactPoint, Organization, Person ] 
+- [ has_recipient :: Audience, ContactPoint, Organization, Person ] 
 
 A sub property of participant. The participant who is at the receiving end of the action.
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: AuthorizeAction, CommunicateAction, DonateAction, GiveAction, Message, PayAction, ReturnAction, SendAction, TipAction  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: is_recipient )
+( #has_/range :: Audience, ContactPoint, Organization, Person )
 
-is_sub_property_of = `=this.dv_is_sub_property_of` 
+#is_/sub_property_of  :: participant  
 
-has_sub_properties = `=this.dv_has_sub_properties` 
+#has_/sub_properties :: [ bccRecipient, ccRecipient, toRecipient ]  
 
 ## Confidential Links & Embeds: 
 

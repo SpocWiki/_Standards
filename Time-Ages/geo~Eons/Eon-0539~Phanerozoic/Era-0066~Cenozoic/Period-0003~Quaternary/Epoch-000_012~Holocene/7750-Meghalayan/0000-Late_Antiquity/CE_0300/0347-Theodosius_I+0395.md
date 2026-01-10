@@ -5,49 +5,49 @@ aliases:
   - 0347-Theodosius_I+0395
   - 0347-Theodosius I+0395
 has_id_wikidata: Q46696
-occupation: "[[_Standards/WikiData/WD~politician,82955]]"
+occupation: '[[_Standards/WikiData/WD~politician,82955]]'
 child:
-  - "[[_Standards/WikiData/WD~Arcadius,159369]]"
-  - "[[_Standards/WikiData/WD~Honorius,159798]]"
-  - "[[_Standards/WikiData/WD~Galla_Placidia,237907]]"
-  - "[[_Standards/WikiData/WD~Pulcheria,1282616]]"
-  - "[[_Standards/WikiData/WD~Gratianus,11924576]]"
+  - '[[_Standards/WikiData/WD~Arcadius,159369]]'
+  - '[[_Standards/WikiData/WD~Honorius,159798]]'
+  - '[[_Standards/WikiData/WD~Galla_Placidia,237907]]'
+  - '[[_Standards/WikiData/WD~Pulcheria,1282616]]'
+  - '[[_Standards/WikiData/WD~Gratianus,11924576]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Aelia_Flaccilla,235603]]"
-  - "[[_Standards/WikiData/WD~Galla,236999]]"
-relative: "[[_Standards/WikiData/WD~Serena,257819]]"
-father: "[[_Standards/WikiData/WD~Flavius_Theodosius,537126]]"
+  - '[[_Standards/WikiData/WD~Aelia_Flaccilla,235603]]'
+  - '[[_Standards/WikiData/WD~Galla,236999]]'
+relative: '[[_Standards/WikiData/WD~Serena,257819]]'
+father: '[[_Standards/WikiData/WD~Flavius_Theodosius,537126]]'
 described_by_source:
-  - "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
   - "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
 place_of_birth:
-  - "[[_Standards/WikiData/WD~Coca,649612]]"
-  - "[[_Standards/WikiData/WD~Italica,658893]]"
-noble_title: "[[_Standards/WikiData/WD~Roman_emperor,842606]]"
+  - '[[_Standards/WikiData/WD~Coca,649612]]'
+  - '[[_Standards/WikiData/WD~Italica,658893]]'
+noble_title: '[[_Standards/WikiData/WD~Roman_emperor,842606]]'
 position_held:
-  - "[[_Standards/WikiData/WD~Roman_emperor,842606]]"
-  - "[[_Standards/WikiData/WD~Byzantine_emperor,18577504]]"
-  - "[[_Standards/WikiData/WD~ancient_Roman_senator,20056508]]"
-  - "[[_Standards/WikiData/WD~Roman_consul,40779]]"
+  - '[[_Standards/WikiData/WD~Roman_emperor,842606]]'
+  - '[[_Standards/WikiData/WD~Byzantine_emperor,18577504]]'
+  - '[[_Standards/WikiData/WD~ancient_Roman_senator,20056508]]'
+  - '[[_Standards/WikiData/WD~Roman_consul,40779]]'
 family:
-  - "[[_Standards/WikiData/WD~Theodosian_dynasty,854070]]"
-  - "[[_Standards/WikiData/WD~Valentinianic_dynasty,1324480]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-sibling: "[[_Standards/WikiData/WD~Honorius,11926044]]"
-time_period: "[[_Standards/WikiData/WD~Byzantine_Egypt,17302295]]"
-mother: "[[_Standards/WikiData/WD~Thermantia,56305768]]"
+  - '[[_Standards/WikiData/WD~Theodosian_dynasty,854070]]'
+  - '[[_Standards/WikiData/WD~Valentinianic_dynasty,1324480]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+sibling: '[[_Standards/WikiData/WD~Honorius,11926044]]'
+time_period: '[[_Standards/WikiData/WD~Byzantine_Egypt,17302295]]'
+mother: '[[_Standards/WikiData/WD~Thermantia,56305768]]'
 date_of_death: 0395-01-18T00:00:00Z
 date_of_birth: 0347-01-12T00:00:00Z
-place_of_death: "[[_Standards/WikiData/WD~Milan,490]]"
-feast_day: "[[_Standards/WikiData/WD~January_17,2264]]"
-place_of_burial: "[[_Standards/WikiData/WD~Constantinople,16869]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-canonization_status: "[[_Standards/WikiData/WD~saint,43115]]"
+place_of_death: '[[_Standards/WikiData/WD~Milan,490]]'
+feast_day: '[[_Standards/WikiData/WD~January_17,2264]]'
+place_of_burial: '[[_Standards/WikiData/WD~Constantinople,16869]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+canonization_status: '[[_Standards/WikiData/WD~saint,43115]]'
 BHCL_UUID: 136c9f04-35df-4f94-91fa-97774d2236b4
 Commons_category: Theodosius I
 birth_name: Theodosius
@@ -55,35 +55,14 @@ name_in_native_language:
   - Flavius Theodosius
   - Flavius Theodosius Augustus
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Theodosius1cng11100822obverse.jpg
-ISNI: 116154512
+ISNI: 0000000116154512
 Libris_URI: c9psw85w1bw43sk
 EAGLE_id: dates/lod/173
-Wolfram_Language_entity_code: Entity"Concept", "FlaviusTheodosius = `=this.dv_"Concept", "FlaviusTheodosius` 
+Wolfram_Language_entity_code: Entity["Concept", "FlaviusTheodosius::62xng"]
 nickname: Theodosius the Great
 official_name:
   - Θεοδόσιος Α΄
   - Flavius Theodosius Augustus
-dv_"Concept", "FlaviusTheodosius: 62xng"
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../../WikiData/WD~Theodosius_I,46696|WD~Theodosius_I,46696]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0300/0347-Theodosius_I+0395|0347-Theodosius_I+0395]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0300/0347-Theodosius_I+0395.public|0347-Theodosius_I+0395.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0300/0347-Theodosius_I+0395.internal|0347-Theodosius_I+0395.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0300/0347-Theodosius_I+0395.protect|0347-Theodosius_I+0395.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0300/0347-Theodosius_I+0395.private|0347-Theodosius_I+0395.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0300/0347-Theodosius_I+0395.personal|0347-Theodosius_I+0395.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0300/0347-Theodosius_I+0395.secret|0347-Theodosius_I+0395.secret]]"
-dv_concept-flaviustheodosius: 62xng"
-dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Theodosius_I,46696|WD~Theodosius_I,46696]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0300/0347-Theodosius_I+0395|0347-Theodosius_I+0395]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0300/0347-Theodosius_I+0395.public|0347-Theodosius_I+0395.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0300/0347-Theodosius_I+0395.internal|0347-Theodosius_I+0395.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0300/0347-Theodosius_I+0395.protect|0347-Theodosius_I+0395.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0300/0347-Theodosius_I+0395.private|0347-Theodosius_I+0395.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0300/0347-Theodosius_I+0395.personal|0347-Theodosius_I+0395.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0300/0347-Theodosius_I+0395.secret|0347-Theodosius_I+0395.secret]]"
 ---
 
 # [[0347-Theodosius_I+0395]] 

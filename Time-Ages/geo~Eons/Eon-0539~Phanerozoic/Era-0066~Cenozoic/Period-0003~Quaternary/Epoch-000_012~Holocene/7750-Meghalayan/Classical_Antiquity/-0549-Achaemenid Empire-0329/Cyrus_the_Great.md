@@ -78,28 +78,7 @@ spouse:
   - "[[_Standards/WikiData/WD~Cassandane,442401]]"
   - "[[_Standards/WikiData/WD~Amitis_Shahbanu,482131]]"
   - "[[_Standards/WikiData/WD~Neithiyti,21011250]]"
-Wolfram_Language_entity_code: Entity"Concept", "CyrusII = `=this.dv_"Concept", "CyrusII` 
-dv_"Concept", "CyrusII: spbg8"
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../../WikiData/WD~Cyrus_the_Great,8423|WD~Cyrus_the_Great,8423]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329/Cyrus_the_Great|Cyrus_the_Great]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329/Cyrus_the_Great.public|Cyrus_the_Great.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329/Cyrus_the_Great.internal|Cyrus_the_Great.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329/Cyrus_the_Great.protect|Cyrus_the_Great.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329/Cyrus_the_Great.private|Cyrus_the_Great.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329/Cyrus_the_Great.personal|Cyrus_the_Great.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329/Cyrus_the_Great.secret|Cyrus_the_Great.secret]]"
-dv_concept-cyrusii: spbg8"
-dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Cyrus_the_Great,8423|WD~Cyrus_the_Great,8423]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329/Cyrus_the_Great|Cyrus_the_Great]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329/Cyrus_the_Great.public|Cyrus_the_Great.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329/Cyrus_the_Great.internal|Cyrus_the_Great.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329/Cyrus_the_Great.protect|Cyrus_the_Great.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329/Cyrus_the_Great.private|Cyrus_the_Great.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329/Cyrus_the_Great.personal|Cyrus_the_Great.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329/Cyrus_the_Great.secret|Cyrus_the_Great.secret]]"
+Wolfram_Language_entity_code: Entity["Concept", "CyrusII::spbg8"]
 ---
 
 # [[Cyrus_the_Great]] 

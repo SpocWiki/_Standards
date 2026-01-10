@@ -7,66 +7,37 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - endorsee
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_endorsee
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_endorsee
 type: Predi_Relation
-dv_has_:
-  endorsee: Organization, Person
-  domain: EndorseAction
-dv_has_endorsee: Organization, Person
-dv_#has_:
-  name: has_endorsee
-  range: Organization, Person
-dv_is_:
-  sub_property_of: participant
-  same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_participants/has_endorsee|has_endorsee]]"
-    - "[[/_public/schema-org/Relation/has/has_participants/has_endorsee.public|has_endorsee.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_participants/has_endorsee.internal|has_endorsee.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_participants/has_endorsee.protect|has_endorsee.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_participants/has_endorsee.private|has_endorsee.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_participants/has_endorsee.personal|has_endorsee.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_participants/has_endorsee.secret|has_endorsee.secret]]"
-dv_has_domain: EndorseAction
-dv_has_name: has_endorsee
-dv_has_range: Organization, Person
-dv_is_sub_property_of: participant
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_participants/has_endorsee|has_endorsee]]"
-  - "[[/_public/schema-org/Relation/has/has_participants/has_endorsee.public|has_endorsee.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_participants/has_endorsee.internal|has_endorsee.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_participants/has_endorsee.protect|has_endorsee.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_participants/has_endorsee.private|has_endorsee.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_participants/has_endorsee.personal|has_endorsee.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_participants/has_endorsee.secret|has_endorsee.secret]]"
 ---
 
 Use it like this: 
-- has_endorsee = `=this.dv_has_endorsee`  
-- has_endorsee = `=this.dv_has_endorsee`  
+- [has_/endorsee :: Organization, Person ] 
+- [ has_endorsee :: Organization, Person ] 
 
 A sub property of participant. The person/organization being supported.
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: EndorseAction  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_endorsee )
+( #has_/range :: Organization, Person )
 
-is_sub_property_of = `=this.dv_is_sub_property_of` 
+#is_/sub_property_of  :: participant  
 
 ## Confidential Links & Embeds: 
 

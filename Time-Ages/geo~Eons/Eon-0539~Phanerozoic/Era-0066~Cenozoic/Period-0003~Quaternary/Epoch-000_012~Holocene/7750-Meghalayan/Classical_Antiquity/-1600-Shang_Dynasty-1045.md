@@ -1,7 +1,5 @@
 ---
-location:
-  - 114.325
-  - 36.12083333
+location: [ 114.325 , 36.12083333 ] 
 aliases:
   - Shang dynasty
   - 商朝
@@ -14,66 +12,42 @@ aliases:
 has_id_wikidata: Q128938
 dissolved_abolished_or_demolished_date: -1045-01-01T00:00:00Z
 inception: -1599-01-01T00:00:00Z
-replaces: "[[_Standards/WikiData/WD~Xia_dynasty,169705]]"
-described_by_source: "[[_Standards/WikiData/WD~Records_of_the_Grand_Historian,272530]]"
+replaces: '[[_Standards/WikiData/WD~Xia_dynasty,169705]]'
+described_by_source: '[[_Standards/WikiData/WD~Records_of_the_Grand_Historian,272530]]'
 capital:
-  - "[[_Standards/WikiData/WD~Yinxu,464904]]"
-  - "[[_Standards/WikiData/WD~Bo,10883404]]"
-  - "[[_Standards/WikiData/WD~Ao,10924349]]"
+  - '[[_Standards/WikiData/WD~Yinxu,464904]]'
+  - '[[_Standards/WikiData/WD~Bo,10883404]]'
+  - '[[_Standards/WikiData/WD~Ao,10924349]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~ancient_Chinese_state,836688]]"
-  - "[[_Standards/WikiData/WD~style,1292119]]"
-  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
-  - "[[_Standards/WikiData/WD~Chinese_dynasty,12857432]]"
-  - "[[_Standards/WikiData/WD~culture,11042]]"
-replaced_by: "[[_Standards/WikiData/WD~Western_Zhou,1069609]]"
-official_religion: "[[_Standards/WikiData/WD~Chinese_folk_religion,1074275]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Chinese_folk_religion,1074275]]"
-ethnic_group: "[[_Standards/WikiData/WD~Huaxia,2673403]]"
-different_from: "[[_Standards/WikiData/WD~Shang,131914140]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~monarchy,7269]]"
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
+  - '[[_Standards/WikiData/WD~ancient_Chinese_state,836688]]'
+  - '[[_Standards/WikiData/WD~style,1292119]]'
+  - '[[_Standards/WikiData/WD~historical_period,11514315]]'
+  - '[[_Standards/WikiData/WD~Chinese_dynasty,12857432]]'
+  - '[[_Standards/WikiData/WD~culture,11042]]'
+replaced_by: '[[_Standards/WikiData/WD~Western_Zhou,1069609]]'
+official_religion: '[[_Standards/WikiData/WD~Chinese_folk_religion,1074275]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Chinese_folk_religion,1074275]]'
+ethnic_group: '[[_Standards/WikiData/WD~Huaxia,2673403]]'
+different_from: '[[_Standards/WikiData/WD~Shang,131914140]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~monarchy,7269]]'
+continent: '[[_Standards/WikiData/WD~Asia,48]]'
 population:
   - 150000
   - 13500000
-language_used: "[[_Standards/WikiData/WD~Old_Chinese,35137]]"
-official_language: "[[_Standards/WikiData/WD~Old_Chinese,35137]]"
+language_used: '[[_Standards/WikiData/WD~Old_Chinese,35137]]'
+official_language: '[[_Standards/WikiData/WD~Old_Chinese,35137]]'
 locator_map_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Shang.jpg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Shang%20dynasty.svg
 Commons_category: Shang Dynasty
 Commons_gallery: 商朝
 coordinate_location: Point(114.325 36.12083333)
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../WikiData/WD~Shang_dynasty,128938|WD~Shang_dynasty,128938]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1600-Shang_Dynasty-1045|-1600-Shang_Dynasty-1045]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1600-Shang_Dynasty-1045.public|-1600-Shang_Dynasty-1045.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1600-Shang_Dynasty-1045.internal|-1600-Shang_Dynasty-1045.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1600-Shang_Dynasty-1045.protect|-1600-Shang_Dynasty-1045.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1600-Shang_Dynasty-1045.private|-1600-Shang_Dynasty-1045.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1600-Shang_Dynasty-1045.personal|-1600-Shang_Dynasty-1045.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1600-Shang_Dynasty-1045.secret|-1600-Shang_Dynasty-1045.secret]]"
-dv_has_:
-  previous_:
-    state: "[[-2204-Xia_Dynasty-1599]]"
-  next_: {}
-dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Shang_dynasty,128938|WD~Shang_dynasty,128938]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1600-Shang_Dynasty-1045|-1600-Shang_Dynasty-1045]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1600-Shang_Dynasty-1045.public|-1600-Shang_Dynasty-1045.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1600-Shang_Dynasty-1045.internal|-1600-Shang_Dynasty-1045.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1600-Shang_Dynasty-1045.protect|-1600-Shang_Dynasty-1045.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1600-Shang_Dynasty-1045.private|-1600-Shang_Dynasty-1045.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1600-Shang_Dynasty-1045.personal|-1600-Shang_Dynasty-1045.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1600-Shang_Dynasty-1045.secret|-1600-Shang_Dynasty-1045.secret]]"
-dv_has_previous_state: "[[-2204-Xia_Dynasty-1599]]"
 ---
 
 # [[-1600-Shang_Dynasty-1045]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Shang_dynasty,128938|WD~Shang_dynasty,128938]]  
-has_previous_state = `=this.dv_has_previous_state` 
+#has_/previous_/state :: [[-2204-Xia_Dynasty-1599|-2204-Xia_Dynasty-1599]] 
 #has_/next_/state :: 
 
 ## #has_/text_of_/abstract 

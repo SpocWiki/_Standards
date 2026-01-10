@@ -1,7 +1,5 @@
 ---
-location:
-  - 12.48
-  - 41.89
+location: [ 12.48 , 41.89 ] 
 aliases:
   - Ancient Rome
   - Altes Rom
@@ -31,34 +29,34 @@ official_name:
   - Res publica Populi Romani
   - Imperium Romanum
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/No-ROMERRIKET.ogg
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Mediterranean_Basin,72499]]"
-indigenous_to: "[[_Standards/WikiData/WD~Italian_Peninsula,145694]]"
-public_holiday: "[[_Standards/WikiData/WD~Saturnalia,207213]]"
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Mediterranean_Basin,72499]]'
+indigenous_to: '[[_Standards/WikiData/WD~Italian_Peninsula,145694]]'
+public_holiday: '[[_Standards/WikiData/WD~Saturnalia,207213]]'
 has_works_in_the_collection:
-  - "[[_Standards/WikiData/WD~Art_Institute_of_Chicago,239303]]"
-  - "[[_Standards/WikiData/WD~Museum_of_Fine_Arts_of_Lyon,511]]"
-studied_by: "[[_Standards/WikiData/WD~ancient_history,435608]]"
-subclass_of: "[[_Standards/WikiData/WD~archaeological_culture,465299]]"
-follows: "[[_Standards/WikiData/WD~Latial_culture,634818]]"
+  - '[[_Standards/WikiData/WD~Art_Institute_of_Chicago,239303]]'
+  - '[[_Standards/WikiData/WD~Museum_of_Fine_Arts_of_Lyon,511]]'
+studied_by: '[[_Standards/WikiData/WD~ancient_history,435608]]'
+subclass_of: '[[_Standards/WikiData/WD~archaeological_culture,465299]]'
+follows: '[[_Standards/WikiData/WD~Latial_culture,634818]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Barbaricum,807748]]"
-  - "[[_Standards/WikiData/WD~Sarmatia,2528503]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_ancient_Rome,830852]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_ancient_Rome,1216140]]"
-instance_of: "[[_Standards/WikiData/WD~historical_country,3024240]]"
+  - '[[_Standards/WikiData/WD~Barbaricum,807748]]'
+  - '[[_Standards/WikiData/WD~Sarmatia,2528503]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_ancient_Rome,830852]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_ancient_Rome,1216140]]'
+instance_of: '[[_Standards/WikiData/WD~historical_country,3024240]]'
 followed_by:
-  - "[[_Standards/WikiData/WD~Medieval_Rome,3940476]]"
-  - "[[_Standards/WikiData/WD~Byzantine_Empire,12544]]"
+  - '[[_Standards/WikiData/WD~Medieval_Rome,3940476]]'
+  - '[[_Standards/WikiData/WD~Byzantine_Empire,12544]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Ancient_Rome,6337458]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Ancient_Rome_topics,6678368]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Ancient_Rome,10631465]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Ancient_Rome,15265460]]"
-capital: "[[_Standards/WikiData/WD~Roma,18287233]]"
-depicted_by: "[[_Standards/WikiData/WD~Scenes_from_ancient_Roman_history_(Buen_Retiro),131613909]]"
-has_part_s_: "[[_Standards/WikiData/WD~Byzantine_Empire,12544]]"
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Ancient_Rome,6337458]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Ancient_Rome_topics,6678368]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Ancient_Rome,10631465]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Ancient_Rome,15265460]]'
+capital: '[[_Standards/WikiData/WD~Roma,18287233]]'
+depicted_by: '[[_Standards/WikiData/WD~Scenes_from_ancient_Roman_history_(Buen_Retiro),131613909]]'
+has_part_s_: '[[_Standards/WikiData/WD~Byzantine_Empire,12544]]'
 population: 50000000
 Provenio_UUID: 6baf8301-68dc-4a0c-bbdc-4ac48e6a21e5
 BHCL_UUID: 8ba32098-0efb-4405-b3f6-a7e479a64d7e
@@ -68,47 +66,19 @@ Commons_category: Ancient Rome
 IMDb_keyword: ancient-rome
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Roman%20Republic%20Empire%20map.gif
 Basisklassifikation: 15.28
-P8189: 987007559656005100
+P8189: 987007559656005171
 subreddit: ancientrome
 Libris_URI: dbqsrrsx1l8h7mq
-dv_has_:
-  time_:
-    started: -753
-    stopped: 400
-  duration_: 1153
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../WikiData/WD~Ancient_Rome,1747689|WD~Ancient_Rome,1747689]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476|-0752-Ancient_Rome+0476]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476.public|-0752-Ancient_Rome+0476.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476.internal|-0752-Ancient_Rome+0476.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476.protect|-0752-Ancient_Rome+0476.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476.private|-0752-Ancient_Rome+0476.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476.personal|-0752-Ancient_Rome+0476.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476.secret|-0752-Ancient_Rome+0476.secret]]"
-dv_has_time_started: -753
-dv_has_time_stopped: 400
-dv_has_duration_years: 1153
-dv_has_duration_: 1153
-dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Ancient_Rome,1747689|WD~Ancient_Rome,1747689]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476|-0752-Ancient_Rome+0476]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476.public|-0752-Ancient_Rome+0476.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476.internal|-0752-Ancient_Rome+0476.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476.protect|-0752-Ancient_Rome+0476.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476.private|-0752-Ancient_Rome+0476.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476.personal|-0752-Ancient_Rome+0476.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476.secret|-0752-Ancient_Rome+0476.secret]]"
 ---
 # [[-0752-Ancient_Rome+0476]] 
 
 #is_a_/time_/Culture 
 
-has_time_started = `=this.dv_has_time_started` 
-has_time_stopped = `=this.dv_has_time_stopped` 
+#has_/time_/started :: -753 
+#has_/time_/stopped ::  400 
 
-#has_/duration_/years :: `$=Math.round(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started))` 
-#has_/duration_ :: `=default(this.dv_has_time_stopped, date(now)) - this.dv_has_time_started` 
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started))` 
+#has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Ancient_Rome,1747689|WD~Ancient_Rome,1747689]] 
 

@@ -23,25 +23,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20Greco-Persian%20
 Wolfram_Language_entity_code: Entity["MilitaryConflict", "GrecoPersianWars"]
 Commons_category: Greco–Persian Wars
 Krugosvet_article_archived_: istoriya/GREKO-PERSIDSKIE_VONI.html
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../../WikiData/WD~Greco-Persian_Wars,76026|WD~Greco-Persian_Wars,76026]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329/-0498-Greco-Persian_Wars-0448|-0498-Greco-Persian_Wars-0448]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329/-0498-Greco-Persian_Wars-0448.public|-0498-Greco-Persian_Wars-0448.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329/-0498-Greco-Persian_Wars-0448.internal|-0498-Greco-Persian_Wars-0448.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329/-0498-Greco-Persian_Wars-0448.protect|-0498-Greco-Persian_Wars-0448.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329/-0498-Greco-Persian_Wars-0448.private|-0498-Greco-Persian_Wars-0448.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329/-0498-Greco-Persian_Wars-0448.personal|-0498-Greco-Persian_Wars-0448.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329/-0498-Greco-Persian_Wars-0448.secret|-0498-Greco-Persian_Wars-0448.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Greco-Persian_Wars,76026|WD~Greco-Persian_Wars,76026]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329/-0498-Greco-Persian_Wars-0448|-0498-Greco-Persian_Wars-0448]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329/-0498-Greco-Persian_Wars-0448.public|-0498-Greco-Persian_Wars-0448.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329/-0498-Greco-Persian_Wars-0448.internal|-0498-Greco-Persian_Wars-0448.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329/-0498-Greco-Persian_Wars-0448.protect|-0498-Greco-Persian_Wars-0448.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329/-0498-Greco-Persian_Wars-0448.private|-0498-Greco-Persian_Wars-0448.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329/-0498-Greco-Persian_Wars-0448.personal|-0498-Greco-Persian_Wars-0448.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0549-Achaemenid Empire-0329/-0498-Greco-Persian_Wars-0448.secret|-0498-Greco-Persian_Wars-0448.secret]]"
 ---
 
 # [[-0498-Greco-Persian_Wars-0448]] 

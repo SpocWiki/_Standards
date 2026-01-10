@@ -11,70 +11,21 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - elevation
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_elevation_meters
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_elevation_meters
 type: Predi_Quantity
-dv_has_:
-  place_:
-    elevation_:
-      meters: Number, Text
-  domain:
-    - "[[../../Class/is_a_/Intangible/Structured_Value/Geo_Coordinates|GeoCoordinates]]"
-    - "[[../../Class/is_a_/Intangible/Structured_Value/Geo_Shape|GeoShape]]"
-dv_has_place_elevation_meters: "[Number, Text]"
-dv_is_:
-  similar_to:
-    - "[[has_place_altitude_meters|altitude]]"
-    - "[[has_place_altitude_meters]]"
-  different_from:
-    - "[[has_place_altitude_meters|altitude]]"
-    - "[[has_place_altitude_meters]]"
-  same_as:
-    - "[[/_Standards/schema-org/Property/has_value_for/has_place_elevation_meters|has_place_elevation_meters]]"
-    - "[[/_public/schema-org/Property/has_value_for/has_place_elevation_meters.public|has_place_elevation_meters.public]]"
-    - "[[/_internal/schema-org/Property/has_value_for/has_place_elevation_meters.internal|has_place_elevation_meters.internal]]"
-    - "[[/_protect/schema-org/Property/has_value_for/has_place_elevation_meters.protect|has_place_elevation_meters.protect]]"
-    - "[[/_private/schema-org/Property/has_value_for/has_place_elevation_meters.private|has_place_elevation_meters.private]]"
-    - "[[/_personal/schema-org/Property/has_value_for/has_place_elevation_meters.personal|has_place_elevation_meters.personal]]"
-    - "[[/_secret/schema-org/Property/has_value_for/has_place_elevation_meters.secret|has_place_elevation_meters.secret]]"
-dv_#has_:
-  name: has_place_elevation_in_meters
-  range:
-    - "[[../../Class/is_a_/Data_Type/Number|Number]]"
-    - "[[../../Class/is_a_/Data_Type/Text|Text]]"
-dv_is_similar_to:
-  - "[[has_place_altitude_meters|altitude]]"
-  - "[[has_place_altitude_meters]]"
-dv_is_different_from:
-  - "[[has_place_altitude_meters|altitude]]"
-  - "[[has_place_altitude_meters]]"
-dv_has_domain:
-  - "[[../../Class/is_a_/Intangible/Structured_Value/Geo_Coordinates|GeoCoordinates]]"
-  - "[[../../Class/is_a_/Intangible/Structured_Value/Geo_Shape|GeoShape]]"
-dv_has_name: has_place_elevation_in_meters
-dv_has_range:
-  - "[[../../Class/is_a_/Data_Type/Number|Number]]"
-  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_value_for/has_place_elevation_meters|has_place_elevation_meters]]"
-  - "[[/_public/schema-org/Property/has_value_for/has_place_elevation_meters.public|has_place_elevation_meters.public]]"
-  - "[[/_internal/schema-org/Property/has_value_for/has_place_elevation_meters.internal|has_place_elevation_meters.internal]]"
-  - "[[/_protect/schema-org/Property/has_value_for/has_place_elevation_meters.protect|has_place_elevation_meters.protect]]"
-  - "[[/_private/schema-org/Property/has_value_for/has_place_elevation_meters.private|has_place_elevation_meters.private]]"
-  - "[[/_personal/schema-org/Property/has_value_for/has_place_elevation_meters.personal|has_place_elevation_meters.personal]]"
-  - "[[/_secret/schema-org/Property/has_value_for/has_place_elevation_meters.secret|has_place_elevation_meters.secret]]"
 ---
 
 Elevation in [[../../../Dimension/Unit_of_Measurement/SI-Unit/Unit~Meter|Unit~Meter]]s __above Sea-Level__ of GeoCoordinate or GeoShape, typically [[WGS84]]. 
@@ -92,8 +43,8 @@ Unlike [[has_place_longitude|longitude]] and [[has_place_latitude|latitude]] whi
 #has_/place_/lat_longitude 
 
 Use it like this: 
-- has_place_elevation_meters = `=this.dv_has_place_elevation_meters`  
-- has_place_elevation_meters = `=this.dv_has_place_elevation_meters`  ] 
+- [has_/place_/elevation_/meters :: Number, Text ] 
+- [ has_place_elevation_meters :: [Number, Text] ] 
 
 The elevation of a location (<a href="https://en.wikipedia.org/wiki/World_Geodetic_System">WGS 84</a>). 
 
@@ -101,7 +52,7 @@ Predicate describes that:
 
 #has_/domain  :: [[../../Class/is_a_/Intangible/structured_value/geo_coordinates|GeoCoordinates]], [[../../Class/is_a_/Intangible/structured_value/geo_shape|GeoShape]]  
 
-has_name = `=this.dv_has_name` 
+( #has_/name :: has_place_elevation_in_meters )
 ( #has_/range :: [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]] )
 
 

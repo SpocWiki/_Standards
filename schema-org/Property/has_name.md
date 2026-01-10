@@ -75,44 +75,12 @@ Wikidata_usage_instructions:
   - beseda ali besedna zveza za identifikacijo; glej tudi lastno ime (Q147276) in osebno ime (Q1071027)
   - слово чи словосполучення, яке ідентифікує окремий елемент
   - 用于识别的字词；另可参见常用词（Q147276）和人名（Q1071027）
-dv_has_:
-  name_:
-    de: Text
-  domain: "[Thing](../../Class/Thing.md)"
-dv_has_name_de: Text
-dv_is_:
-  same_as:
-    - "[[../../WikiData/WD~Name,82799|WD~Name,82799]]"
-    - "[[/_Standards/schema-org/Property/has_name/has_name|has_name]]"
-    - "[[/_public/schema-org/Property/has_name/has_name.public|has_name.public]]"
-    - "[[/_internal/schema-org/Property/has_name/has_name.internal|has_name.internal]]"
-    - "[[/_protect/schema-org/Property/has_name/has_name.protect|has_name.protect]]"
-    - "[[/_private/schema-org/Property/has_name/has_name.private|has_name.private]]"
-    - "[[/_personal/schema-org/Property/has_name/has_name.personal|has_name.personal]]"
-    - "[[/_secret/schema-org/Property/has_name/has_name.secret|has_name.secret]]"
-  sub_property_of: http://www.w3.org/2000/01/rdf-schema#label
-dv_#has_:
-  name: has_name
-  range: Text
-dv_is_same_as:
-  - "[[../../WikiData/WD~Name,82799|WD~Name,82799]]"
-  - "[[/_Standards/schema-org/Property/has_name/has_name|has_name]]"
-  - "[[/_public/schema-org/Property/has_name/has_name.public|has_name.public]]"
-  - "[[/_internal/schema-org/Property/has_name/has_name.internal|has_name.internal]]"
-  - "[[/_protect/schema-org/Property/has_name/has_name.protect|has_name.protect]]"
-  - "[[/_private/schema-org/Property/has_name/has_name.private|has_name.private]]"
-  - "[[/_personal/schema-org/Property/has_name/has_name.personal|has_name.personal]]"
-  - "[[/_secret/schema-org/Property/has_name/has_name.secret|has_name.secret]]"
-dv_is_sub_property_of: http://www.w3.org/2000/01/rdf-schema#label
-dv_has_domain: "[Thing](../../Class/Thing.md)"
-dv_has_name: has_name
-dv_has_range: Text
 ---
 
 # [[has_name]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Name,82799|WD~Name,82799]] 
-is_sub_property_of = `=this.dv_is_sub_property_of` 
+#is_/sub_property_of  :: http://www.w3.org/2000/01/rdf-schema#label 
 
 The name of the item.
 
@@ -120,15 +88,15 @@ Predicate to describe the [[has_name]] of a Thing.
 The Name can be specialized by Language (as with any Text)
 
 Use it like this: 
-- has_name_de = `=this.dv_has_name_de`  
-- has_name_de = `=this.dv_has_name_de`  
+- [has_/name_/de :: Text ] 
+- [ has_name_de :: Text ] 
 
 Predicated describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: [Thing](../../Class/Thing.md)  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_name )
+( #has_/range :: Text )
 
 ## #has_/text_of_/abstract 
 

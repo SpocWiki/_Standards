@@ -6,11 +6,11 @@ aliases:
   - 1928-Kellogg-Briand_Pact
   - 1928-Kellogg-Briand Pact
 has_id_wikidata: Q205073
-instance_of: "[[_Standards/WikiData/WD~treaty,131569]]"
+instance_of: '[[_Standards/WikiData/WD~treaty,131569]]'
 named_after:
-  - "[[_Standards/WikiData/WD~Aristide_Briand,179888]]"
-  - "[[_Standards/WikiData/WD~Frank_B._Kellogg,193009]]"
-locations: "[[_Standards/WikiData/WD~Paris,90]]"
+  - '[[_Standards/WikiData/WD~Aristide_Briand,179888]]'
+  - '[[_Standards/WikiData/WD~Frank_B._Kellogg,193009]]'
+locations: '[[_Standards/WikiData/WD~Paris,90]]'
 United_Nations_Treaty_Series_registration_number: 2137
 Library_of_Congress_Classification: KZ5593.2
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kellogg%E2%80%93Briand%20Pact%20%281928%29.jpg
@@ -22,25 +22,6 @@ title: Briand–Kelloggův pakt
 short_name: パリ不戦条約
 effective_date: 1929-07-24T00:00:00Z
 point_in_time: 1928-08-27T00:00:00Z
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../WikiData/WD~Kellogg-Briand_pact,205073]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1928-Kellogg-Briand_Pact|1928-Kellogg-Briand_Pact]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1928-Kellogg-Briand_Pact.public|1928-Kellogg-Briand_Pact.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1928-Kellogg-Briand_Pact.internal|1928-Kellogg-Briand_Pact.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1928-Kellogg-Briand_Pact.protect|1928-Kellogg-Briand_Pact.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1928-Kellogg-Briand_Pact.private|1928-Kellogg-Briand_Pact.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1928-Kellogg-Briand_Pact.personal|1928-Kellogg-Briand_Pact.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1928-Kellogg-Briand_Pact.secret|1928-Kellogg-Briand_Pact.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Kellogg-Briand_pact,205073]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1928-Kellogg-Briand_Pact|1928-Kellogg-Briand_Pact]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1928-Kellogg-Briand_Pact.public|1928-Kellogg-Briand_Pact.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1928-Kellogg-Briand_Pact.internal|1928-Kellogg-Briand_Pact.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1928-Kellogg-Briand_Pact.protect|1928-Kellogg-Briand_Pact.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1928-Kellogg-Briand_Pact.private|1928-Kellogg-Briand_Pact.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1928-Kellogg-Briand_Pact.personal|1928-Kellogg-Briand_Pact.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1928-Kellogg-Briand_Pact.secret|1928-Kellogg-Briand_Pact.secret]]"
 ---
 
 # [[1928-Kellogg-Briand_Pact]] 

@@ -10,69 +10,39 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - material-extent
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_material-extent
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_material-extent
 type: Predi_Quantity
-dv_has_:
-  value_for_:
-    material_extent: QuantitativeValue, Text
-  domain: CreativeWork
-dv_has_value_for_material_extent: QuantitativeValue, Text
-dv_is_:
-  part_of: "pending:"
-  same_as:
-    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_material_extent|has_value_for_material_extent]]"
-    - "[[/_public/schema-org/Property/has_value_for/has_value_for_material_extent.public|has_value_for_material_extent.public]]"
-    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_material_extent.internal|has_value_for_material_extent.internal]]"
-    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_material_extent.protect|has_value_for_material_extent.protect]]"
-    - "[[/_private/schema-org/Property/has_value_for/has_value_for_material_extent.private|has_value_for_material_extent.private]]"
-    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_material_extent.personal|has_value_for_material_extent.personal]]"
-    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_material_extent.secret|has_value_for_material_extent.secret]]"
-dv_#has_:
-  name: has_value_for_material_extent
-  range: QuantitativeValue, Text
-dv_is_part_of: "pending:"
-dv_has_domain: CreativeWork
-dv_has_name: has_value_for_material_extent
-dv_has_range: QuantitativeValue, Text
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_material_extent|has_value_for_material_extent]]"
-  - "[[/_public/schema-org/Property/has_value_for/has_value_for_material_extent.public|has_value_for_material_extent.public]]"
-  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_material_extent.internal|has_value_for_material_extent.internal]]"
-  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_material_extent.protect|has_value_for_material_extent.protect]]"
-  - "[[/_private/schema-org/Property/has_value_for/has_value_for_material_extent.private|has_value_for_material_extent.private]]"
-  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_material_extent.personal|has_value_for_material_extent.personal]]"
-  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_material_extent.secret|has_value_for_material_extent.secret]]"
 ---
 
 Predicate to describe the Quantity of CreativeWork.
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use it like this: 
-- has_value_for_material_extent = `=this.dv_has_value_for_material_extent`  
-- has_value_for_material_extent = `=this.dv_has_value_for_material_extent`  
+- [has_/value_for_/material_extent :: QuantitativeValue, Text ] 
+- [ has_value_for_material_extent :: QuantitativeValue, Text ] 
 
 The quantity of the materials being described or an expression of the physical space they occupy.
 
 Predicate describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: CreativeWork  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_value_for_material_extent )
+( #has_/range :: QuantitativeValue, Text )
 
 
 ## Confidential Links & Embeds: 

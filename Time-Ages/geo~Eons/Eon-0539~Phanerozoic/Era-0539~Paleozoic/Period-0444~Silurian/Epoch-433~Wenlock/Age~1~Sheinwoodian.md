@@ -27,95 +27,15 @@ start_time: -433400000-01-01T00:00:00Z
 end_time: -430500000-01-01T00:00:00Z
 sRGB_color_hex_triplet: B6E4D0
 coordinate_location: Point(-2.6389 52.5811)
-dv_has_:
-  duration_:
-    years: "2.900e+6"
-  previous_:
-    item: "[[../Epoch-443~Llandovery/Age~3~Telychian|Age~3~Telychian]]"
-  next_:
-    item: "[[Age~2~Homerian]]"
-  name_:
-    bg: Шейнуд
-    cs: Sheinwood
-    da: Sheinwoodien
-    de: Sheinwoodium
-    es: Sheinwoodiense
-    et: Sheinwoodi
-    fi: Sheinwood
-    fr: Sheinwoodien
-    hu: sheinwoodi
-    it: sheinwoodiano
-    ja: シェインウッディアン期
-    lt: Šeinvudis
-    nl: Sheinwoodiën
-    no: Sheinwood
-    pl: Sheinwood
-    pt: Sheinwoodiano
-    sk: sheinwood
-    sl: sheinwodij
-    sv: sheinwood
-    zh: 申伍德期
-  abbreviation: s4
-  time_:
-    started: "-433.4e6"
-    stopped: "-430.5e6"
-  text_of_:
-    color: "0xBFE6C3"
-dv_is_:
-  same_as:
-    - "[[WD~Sheinwoodian,582801]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock/Age~1~Sheinwoodian|Age~1~Sheinwoodian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock/Age~1~Sheinwoodian.public|Age~1~Sheinwoodian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock/Age~1~Sheinwoodian.internal|Age~1~Sheinwoodian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock/Age~1~Sheinwoodian.protect|Age~1~Sheinwoodian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock/Age~1~Sheinwoodian.private|Age~1~Sheinwoodian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock/Age~1~Sheinwoodian.personal|Age~1~Sheinwoodian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock/Age~1~Sheinwoodian.secret|Age~1~Sheinwoodian.secret]]"
-dv_has_duration_years: "2.900e+6"
-dv_has_previous_item: "[[../Epoch-443~Llandovery/Age~3~Telychian|Age~3~Telychian]]"
-dv_has_next_item: "[[Age~2~Homerian]]"
-dv_is_same_as:
-  - "[[WD~Sheinwoodian,582801]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock/Age~1~Sheinwoodian|Age~1~Sheinwoodian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock/Age~1~Sheinwoodian.public|Age~1~Sheinwoodian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock/Age~1~Sheinwoodian.internal|Age~1~Sheinwoodian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock/Age~1~Sheinwoodian.protect|Age~1~Sheinwoodian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock/Age~1~Sheinwoodian.private|Age~1~Sheinwoodian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock/Age~1~Sheinwoodian.personal|Age~1~Sheinwoodian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0444~Silurian/Epoch-433~Wenlock/Age~1~Sheinwoodian.secret|Age~1~Sheinwoodian.secret]]"
-dv_has_name_bg: Шейнуд
-dv_has_name_cs: Sheinwood
-dv_has_name_da: Sheinwoodien
-dv_has_name_de: Sheinwoodium
-dv_has_name_es: Sheinwoodiense
-dv_has_name_et: Sheinwoodi
-dv_has_name_fi: Sheinwood
-dv_has_name_fr: Sheinwoodien
-dv_has_name_hu: sheinwoodi
-dv_has_name_it: sheinwoodiano
-dv_has_name_ja: シェインウッディアン期
-dv_has_name_lt: Šeinvudis
-dv_has_name_nl: Sheinwoodiën
-dv_has_name_no: Sheinwood
-dv_has_name_pl: Sheinwood
-dv_has_name_pt: Sheinwoodiano
-dv_has_name_sk: sheinwood
-dv_has_name_sl: sheinwodij
-dv_has_name_sv: sheinwood
-dv_has_name_zh: 申伍德期
-dv_has_abbreviation: s4
-dv_has_time_started: "-433.4e6"
-dv_has_time_stopped: "-430.5e6"
-dv_has_text_of_color: "0xBFE6C3"
 ---
 # [[Age~1~Sheinwoodian]] 
 
 #is_a_/time_/Age 
 
-#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-has_previous_item = `=this.dv_has_previous_item` 
-has_next_item = `=this.dv_has_next_item` 
+#has_/previous_/item :: [[../Epoch-443~Llandovery/Age~3~Telychian|Age~3~Telychian]] 
+#has_/next_/item :: [[Age~2~Homerian]] 
 #is_/same_as :: [[WD~Sheinwoodian,582801]]  
 
 A time period from 433.4 to 430.5 million years ago. 
@@ -127,35 +47,35 @@ A time period from 433.4 to 430.5 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Sheinwoodian) 
 
 
-has_name_bg = `=this.dv_has_name_bg` 
-has_name_cs = `=this.dv_has_name_cs` 
-has_name_da = `=this.dv_has_name_da` 
-has_name_de = `=this.dv_has_name_de` 
-has_name_es = `=this.dv_has_name_es` 
-has_name_et = `=this.dv_has_name_et` 
-has_name_fi = `=this.dv_has_name_fi` 
-has_name_fr = `=this.dv_has_name_fr` 
-has_name_hu = `=this.dv_has_name_hu` 
-has_name_it = `=this.dv_has_name_it` 
-has_name_ja = `=this.dv_has_name_ja` 
-has_name_lt = `=this.dv_has_name_lt` 
-has_name_nl = `=this.dv_has_name_nl` 
-has_name_no = `=this.dv_has_name_no` 
-has_name_pl = `=this.dv_has_name_pl` 
-has_name_pt = `=this.dv_has_name_pt` 
-has_name_sk = `=this.dv_has_name_sk` 
-has_name_sl = `=this.dv_has_name_sl` 
-has_name_sv = `=this.dv_has_name_sv` 
-has_name_zh = `=this.dv_has_name_zh` 
+#has_/name_/bg  :: Шейнуд
+#has_/name_/cs  :: Sheinwood
+#has_/name_/da  :: Sheinwoodien
+#has_/name_/de  :: Sheinwoodium
+#has_/name_/es  :: Sheinwoodiense
+#has_/name_/et  :: Sheinwoodi
+#has_/name_/fi  :: Sheinwood
+#has_/name_/fr  :: Sheinwoodien
+#has_/name_/hu  :: sheinwoodi
+#has_/name_/it  :: sheinwoodiano
+#has_/name_/ja  :: シェインウッディアン期
+#has_/name_/lt  :: Šeinvudis
+#has_/name_/nl  :: Sheinwoodiën
+#has_/name_/no  :: Sheinwood
+#has_/name_/pl  :: Sheinwood
+#has_/name_/pt  :: Sheinwoodiano
+#has_/name_/sk  :: sheinwood
+#has_/name_/sl  :: sheinwodij
+#has_/name_/sv  :: sheinwood
+#has_/name_/zh  :: 申伍德期
 
-has_abbreviation = `=this.dv_has_abbreviation` 
+#has_/abbreviation :: s4
 
-has_time_started = `=this.dv_has_time_started` 
-has_time_stopped = `=this.dv_has_time_stopped` 
+#has_/time_/started :: -433.4e6 
+#has_/time_/stopped :: -430.5e6 
 
     sh:order 124 
 
-has_text_of_color = `=this.dv_has_text_of_color` 
+#has_/text_of_/color :: 0xBFE6C3
 
 ## All Contents
 

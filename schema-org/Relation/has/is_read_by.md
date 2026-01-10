@@ -10,72 +10,41 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - read_by
   - read
   - by
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_read_by
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_read_by
 type: Predi_Relation
-dv_has_:
-  read_by: Person
-  domain: Audiobook
-dv_has_read_by: Person
-dv_is_:
-  part_of: https://bib.schema.org
-  sub_property_of: actor
-  same_as:
-    - "[[/_Standards/schema-org/Relation/has/is_read_by|is_read_by]]"
-    - "[[/_public/schema-org/Relation/has/is_read_by.public|is_read_by.public]]"
-    - "[[/_internal/schema-org/Relation/has/is_read_by.internal|is_read_by.internal]]"
-    - "[[/_protect/schema-org/Relation/has/is_read_by.protect|is_read_by.protect]]"
-    - "[[/_private/schema-org/Relation/has/is_read_by.private|is_read_by.private]]"
-    - "[[/_personal/schema-org/Relation/has/is_read_by.personal|is_read_by.personal]]"
-    - "[[/_secret/schema-org/Relation/has/is_read_by.secret|is_read_by.secret]]"
-dv_#has_:
-  name: is_read_by
-  range: Person
-dv_is_part_of: https://bib.schema.org
-dv_has_domain: Audiobook
-dv_has_name: is_read_by
-dv_has_range: Person
-dv_is_sub_property_of: actor
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/is_read_by|is_read_by]]"
-  - "[[/_public/schema-org/Relation/has/is_read_by.public|is_read_by.public]]"
-  - "[[/_internal/schema-org/Relation/has/is_read_by.internal|is_read_by.internal]]"
-  - "[[/_protect/schema-org/Relation/has/is_read_by.protect|is_read_by.protect]]"
-  - "[[/_private/schema-org/Relation/has/is_read_by.private|is_read_by.private]]"
-  - "[[/_personal/schema-org/Relation/has/is_read_by.personal|is_read_by.personal]]"
-  - "[[/_secret/schema-org/Relation/has/is_read_by.secret|is_read_by.secret]]"
 ---
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: https://bib.schema.org  
 
 Use it like this: 
-- has_read_by = `=this.dv_has_read_by`  
-- has_read_by = `=this.dv_has_read_by`  
+- [has_/read_by :: Person ] 
+- [ has_read_by :: Person ] 
 
 A person who reads (performs) the audiobook.
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: Audiobook  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: is_read_by )
+( #has_/range :: Person )
 
-is_sub_property_of = `=this.dv_is_sub_property_of` 
+#is_/sub_property_of  :: actor  
 
 ## Confidential Links & Embeds: 
 

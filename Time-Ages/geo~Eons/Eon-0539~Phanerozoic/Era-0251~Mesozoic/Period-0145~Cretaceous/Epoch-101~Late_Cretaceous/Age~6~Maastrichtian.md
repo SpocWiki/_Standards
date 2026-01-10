@@ -19,86 +19,6 @@ Commons_category: Maastrichtian
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Main%20floristic%20types%20from%20the%20Maastrichtian%20-%20journal.pone.0052455.g007-left.png
 described_at_URL: https://popups.uliege.be/1374-8505/index.php?id=1095
 sRGB_color_hex_triplet: F3F29C
-dv_has_:
-  duration_:
-    years: "6.100e+6"
-  previous_:
-    item: "[[Age~5~Campanian]]"
-  next_:
-    item: "[[../../../Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian|Age~1~Danian]]"
-  name_:
-    bg: Маѿтрихт
-    cs: Maastricht
-    da: Maastrichtien
-    de: Maastrichtium
-    es: Maastrichtiense
-    et: Maastrichti
-    fi: Maastricht
-    fr: Maastrichtien
-    hu: maastrichti
-    it: maastrichtiano
-    ja: マーストリヒシアン期
-    lt: Mastrichtis
-    nl: Maastrichtiën
-    no: Maastricht
-    pl: Mastrycht
-    pt: Maestrichtiano
-    sk: mástricht
-    sl: maastrichtij
-    sv: maastricht
-    zh: 马斯特里赫特期
-  abbreviation: k6
-  time_:
-    started: "-72.1e6"
-    stopped: "-66.0e6"
-  text_of_:
-    color: "0xF2FA8C"
-dv_is_:
-  same_as:
-    - "[[WD~Maastrichtian,278141]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~6~Maastrichtian|Age~6~Maastrichtian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~6~Maastrichtian.public|Age~6~Maastrichtian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~6~Maastrichtian.internal|Age~6~Maastrichtian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~6~Maastrichtian.protect|Age~6~Maastrichtian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~6~Maastrichtian.private|Age~6~Maastrichtian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~6~Maastrichtian.personal|Age~6~Maastrichtian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~6~Maastrichtian.secret|Age~6~Maastrichtian.secret]]"
-dv_has_duration_years: "6.100e+6"
-dv_has_previous_item: "[[Age~5~Campanian]]"
-dv_has_next_item: "[[../../../Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian|Age~1~Danian]]"
-dv_is_same_as:
-  - "[[WD~Maastrichtian,278141]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~6~Maastrichtian|Age~6~Maastrichtian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~6~Maastrichtian.public|Age~6~Maastrichtian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~6~Maastrichtian.internal|Age~6~Maastrichtian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~6~Maastrichtian.protect|Age~6~Maastrichtian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~6~Maastrichtian.private|Age~6~Maastrichtian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~6~Maastrichtian.personal|Age~6~Maastrichtian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0145~Cretaceous/Epoch-101~Late_Cretaceous/Age~6~Maastrichtian.secret|Age~6~Maastrichtian.secret]]"
-dv_has_name_bg: Маѿтрихт
-dv_has_name_cs: Maastricht
-dv_has_name_da: Maastrichtien
-dv_has_name_de: Maastrichtium
-dv_has_name_es: Maastrichtiense
-dv_has_name_et: Maastrichti
-dv_has_name_fi: Maastricht
-dv_has_name_fr: Maastrichtien
-dv_has_name_hu: maastrichti
-dv_has_name_it: maastrichtiano
-dv_has_name_ja: マーストリヒシアン期
-dv_has_name_lt: Mastrichtis
-dv_has_name_nl: Maastrichtiën
-dv_has_name_no: Maastricht
-dv_has_name_pl: Mastrycht
-dv_has_name_pt: Maestrichtiano
-dv_has_name_sk: mástricht
-dv_has_name_sl: maastrichtij
-dv_has_name_sv: maastricht
-dv_has_name_zh: 马斯特里赫特期
-dv_has_abbreviation: k6
-dv_has_time_started: "-72.1e6"
-dv_has_time_stopped: "-66.0e6"
-dv_has_text_of_color: "0xF2FA8C"
 ---
 # [[Age~6~Maastrichtian]]
 
@@ -106,10 +26,10 @@ dv_has_text_of_color: "0xF2FA8C"
 
 A time period from 72.1 to 66.0 million years ago. 
 
-#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-has_previous_item = `=this.dv_has_previous_item` 
-has_next_item = `=this.dv_has_next_item` 
+#has_/previous_/item :: [[Age~5~Campanian]] 
+#has_/next_/item :: [[../../../Era-0066~Cenozoic/Period-0066~Paleogene/Epoch-066~Paleocene/Age~1~Danian|Age~1~Danian]] 
 #is_/same_as :: [[WD~Maastrichtian,278141]] 
 
 ## #has_/text_of_/abstract 
@@ -120,35 +40,35 @@ has_next_item = `=this.dv_has_next_item`
 > [Wikipedia](https://en.wikipedia.org/wiki/Maastrichtian) 
 
 
-has_name_bg = `=this.dv_has_name_bg` 
-has_name_cs = `=this.dv_has_name_cs` 
-has_name_da = `=this.dv_has_name_da` 
-has_name_de = `=this.dv_has_name_de` 
-has_name_es = `=this.dv_has_name_es` 
-has_name_et = `=this.dv_has_name_et` 
-has_name_fi = `=this.dv_has_name_fi` 
-has_name_fr = `=this.dv_has_name_fr` 
-has_name_hu = `=this.dv_has_name_hu` 
-has_name_it = `=this.dv_has_name_it` 
-has_name_ja = `=this.dv_has_name_ja` 
-has_name_lt = `=this.dv_has_name_lt` 
-has_name_nl = `=this.dv_has_name_nl` 
-has_name_no = `=this.dv_has_name_no` 
-has_name_pl = `=this.dv_has_name_pl` 
-has_name_pt = `=this.dv_has_name_pt` 
-has_name_sk = `=this.dv_has_name_sk` 
-has_name_sl = `=this.dv_has_name_sl` 
-has_name_sv = `=this.dv_has_name_sv` 
-has_name_zh = `=this.dv_has_name_zh` 
+#has_/name_/bg  :: Маѿтрихт
+#has_/name_/cs  :: Maastricht
+#has_/name_/da  :: Maastrichtien
+#has_/name_/de  :: Maastrichtium
+#has_/name_/es  :: Maastrichtiense
+#has_/name_/et  :: Maastrichti
+#has_/name_/fi  :: Maastricht
+#has_/name_/fr  :: Maastrichtien
+#has_/name_/hu  :: maastrichti
+#has_/name_/it  :: maastrichtiano
+#has_/name_/ja  :: マーストリヒシアン期
+#has_/name_/lt  :: Mastrichtis
+#has_/name_/nl  :: Maastrichtiën
+#has_/name_/no  :: Maastricht
+#has_/name_/pl  :: Mastrycht
+#has_/name_/pt  :: Maestrichtiano
+#has_/name_/sk  :: mástricht
+#has_/name_/sl  :: maastrichtij
+#has_/name_/sv  :: maastricht
+#has_/name_/zh  :: 马斯特里赫特期
 
-has_abbreviation = `=this.dv_has_abbreviation` 
+#has_/abbreviation :: k6
 
-has_time_started = `=this.dv_has_time_started` 
-has_time_stopped = `=this.dv_has_time_stopped` 
+#has_/time_/started :: -72.1e6 
+#has_/time_/stopped :: -66.0e6 
 
     sh:order 36 
 
-has_text_of_color = `=this.dv_has_text_of_color` 
+#has_/text_of_/color :: 0xF2FA8C
 
 ## All Contents
 

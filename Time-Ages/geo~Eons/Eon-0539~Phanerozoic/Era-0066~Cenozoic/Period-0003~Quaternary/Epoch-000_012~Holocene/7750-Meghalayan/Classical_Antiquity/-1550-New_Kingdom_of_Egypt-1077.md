@@ -1,7 +1,5 @@
 ---
-location:
-  - 30
-  - 30
+location: [ 30.0 , 30.0 ] 
 aliases:
 has_id_wikidata: Q180568
 capital:
@@ -20,25 +18,6 @@ Library_of_Congress_Classification: DT87-DT88.8
 Commons_category: Egyptian New Kingdom
 end_time: -1069-01-01T00:00:00Z
 OpenStreetMap_tag: historic:period=new_kingdom
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../WikiData/WD~New_Kingdom_of_Egypt,180568]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1550-New_Kingdom_of_Egypt-1077|-1550-New_Kingdom_of_Egypt-1077]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1550-New_Kingdom_of_Egypt-1077.public|-1550-New_Kingdom_of_Egypt-1077.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1550-New_Kingdom_of_Egypt-1077.internal|-1550-New_Kingdom_of_Egypt-1077.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1550-New_Kingdom_of_Egypt-1077.protect|-1550-New_Kingdom_of_Egypt-1077.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1550-New_Kingdom_of_Egypt-1077.private|-1550-New_Kingdom_of_Egypt-1077.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1550-New_Kingdom_of_Egypt-1077.personal|-1550-New_Kingdom_of_Egypt-1077.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1550-New_Kingdom_of_Egypt-1077.secret|-1550-New_Kingdom_of_Egypt-1077.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~New_Kingdom_of_Egypt,180568]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1550-New_Kingdom_of_Egypt-1077|-1550-New_Kingdom_of_Egypt-1077]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1550-New_Kingdom_of_Egypt-1077.public|-1550-New_Kingdom_of_Egypt-1077.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1550-New_Kingdom_of_Egypt-1077.internal|-1550-New_Kingdom_of_Egypt-1077.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1550-New_Kingdom_of_Egypt-1077.protect|-1550-New_Kingdom_of_Egypt-1077.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1550-New_Kingdom_of_Egypt-1077.private|-1550-New_Kingdom_of_Egypt-1077.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1550-New_Kingdom_of_Egypt-1077.personal|-1550-New_Kingdom_of_Egypt-1077.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1550-New_Kingdom_of_Egypt-1077.secret|-1550-New_Kingdom_of_Egypt-1077.secret]]"
 ---
 
 # [[-1550-New_Kingdom_of_Egypt-1077]] 

@@ -8,62 +8,35 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - equal
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_equal_to
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: is_equal_to
 type: Predi_Relation
-dv_is_:
-  equal_to: QualitativeValue
-  same_as:
-    - "[[/_Standards/schema-org/Relation/is/is_equal_to|is_equal_to]]"
-    - "[[/_public/schema-org/Relation/is/is_equal_to.public|is_equal_to.public]]"
-    - "[[/_internal/schema-org/Relation/is/is_equal_to.internal|is_equal_to.internal]]"
-    - "[[/_protect/schema-org/Relation/is/is_equal_to.protect|is_equal_to.protect]]"
-    - "[[/_private/schema-org/Relation/is/is_equal_to.private|is_equal_to.private]]"
-    - "[[/_personal/schema-org/Relation/is/is_equal_to.personal|is_equal_to.personal]]"
-    - "[[/_secret/schema-org/Relation/is/is_equal_to.secret|is_equal_to.secret]]"
-dv_is_equal_to: QualitativeValue
-dv_has_:
-  domain: QualitativeValue
-dv_#has_:
-  name: is_equal_to
-  range: QualitativeValue
-dv_has_domain: QualitativeValue
-dv_has_name: is_equal_to
-dv_has_range: QualitativeValue
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/is/is_equal_to|is_equal_to]]"
-  - "[[/_public/schema-org/Relation/is/is_equal_to.public|is_equal_to.public]]"
-  - "[[/_internal/schema-org/Relation/is/is_equal_to.internal|is_equal_to.internal]]"
-  - "[[/_protect/schema-org/Relation/is/is_equal_to.protect|is_equal_to.protect]]"
-  - "[[/_private/schema-org/Relation/is/is_equal_to.private|is_equal_to.private]]"
-  - "[[/_personal/schema-org/Relation/is/is_equal_to.personal|is_equal_to.personal]]"
-  - "[[/_secret/schema-org/Relation/is/is_equal_to.secret|is_equal_to.secret]]"
 ---
 
 Use it like this: 
-- is_equal_to = `=this.dv_is_equal_to`  
-- is_equal_to = `=this.dv_is_equal_to`  
+- [is_/equal_to :: QualitativeValue ] 
+- [ is_equal_to :: QualitativeValue ] 
 
 This ordering relation for qualitative values indicates that the subject is equal to the object.
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: QualitativeValue  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: is_equal_to )
+( #has_/range :: QualitativeValue )
 
 
 ## Confidential Links & Embeds: 

@@ -10,71 +10,41 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - health
   - plan
   - id
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_id_health_plan
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_id_health_plan
 type: Pred_Text
-dv_has_:
-  id_:
-    health_plan: Text
-  domain: HealthInsurancePlan
-dv_has_id_health_plan: Text
-dv_is_:
-  part_of: "pending:"
-  same_as:
-    - "[[/_Standards/schema-org/Property/has_name/has_id_health_plan|has_id_health_plan]]"
-    - "[[/_public/schema-org/Property/has_name/has_id_health_plan.public|has_id_health_plan.public]]"
-    - "[[/_internal/schema-org/Property/has_name/has_id_health_plan.internal|has_id_health_plan.internal]]"
-    - "[[/_protect/schema-org/Property/has_name/has_id_health_plan.protect|has_id_health_plan.protect]]"
-    - "[[/_private/schema-org/Property/has_name/has_id_health_plan.private|has_id_health_plan.private]]"
-    - "[[/_personal/schema-org/Property/has_name/has_id_health_plan.personal|has_id_health_plan.personal]]"
-    - "[[/_secret/schema-org/Property/has_name/has_id_health_plan.secret|has_id_health_plan.secret]]"
-dv_#has_:
-  name: has_id_health_plan
-  range: Text
-dv_is_part_of: "pending:"
-dv_has_domain: HealthInsurancePlan
-dv_has_name: has_id_health_plan
-dv_has_range: Text
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_name/has_id_health_plan|has_id_health_plan]]"
-  - "[[/_public/schema-org/Property/has_name/has_id_health_plan.public|has_id_health_plan.public]]"
-  - "[[/_internal/schema-org/Property/has_name/has_id_health_plan.internal|has_id_health_plan.internal]]"
-  - "[[/_protect/schema-org/Property/has_name/has_id_health_plan.protect|has_id_health_plan.protect]]"
-  - "[[/_private/schema-org/Property/has_name/has_id_health_plan.private|has_id_health_plan.private]]"
-  - "[[/_personal/schema-org/Property/has_name/has_id_health_plan.personal|has_id_health_plan.personal]]"
-  - "[[/_secret/schema-org/Property/has_name/has_id_health_plan.secret|has_id_health_plan.secret]]"
 ---
 
 Predicate to describe the Text of HealthInsurancePlan.
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use it like this: 
-- has_id_health_plan = `=this.dv_has_id_health_plan`  
-- has_id_health_plan = `=this.dv_has_id_health_plan`  
+- [has_/id_/health_plan :: Text ] 
+- [ has_id_health_plan :: Text ] 
 
 The 14-character, HIOS-generated Plan ID number. (Plan IDs must be unique, even across different markets.)
 
 Predicated describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: HealthInsurancePlan  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_id_health_plan )
+( #has_/range :: Text )
 
 
 ## Confidential Links & Embeds: 

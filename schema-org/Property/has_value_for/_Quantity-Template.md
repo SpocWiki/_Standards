@@ -1,98 +1,59 @@
 ---
 aliases:
-  - "{ label-dash: }": ""
-  - "{ label_snail: }": ""
-  - "{ label: }": ""
+  - '{ label-dash: }': ''
+  - '{ label_snail: }': ''
+  - '{ label: }': ''
   - has_value_for_{{has_label_snail}}
   - _Quantity-Template
-  - " Quantity-Template"
+  - ' Quantity-Template'
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - "{ label_snail: }": ""
-layout: ""
+  - '{ label_snail: }': ''
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_{{label_snail}}
 publish: true
-publishDate: ""
+publishDate: ''
 superseded_by:
-  "{ supersededBy: }": ""
+  '{ supersededBy: }': ''
 supersedes:
-  "{ supersedes: }": ""
+  '{ supersedes: }': ''
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_{{label_snail}}
 type: Predi_Quantity
-dv_has_:
-  value_for_:
-    "{{has_label_snail}}": "{{rangeIncludes}}"
-  domain: "{{domainIncludes}}"
-  sub_properties: "[ {{subproperties}} ]"
-dv_has_value_for_{{has_label_snail}}: "{{rangeIncludes}}"
-dv_is_:
-  part_of: "{{isPartOf}}"
-  inverse_of: "{{inverseOf}}"
-  sub_property_of: "{{subPropertyOf}}"
-  same_as:
-    - "[[/_Standards/schema-org/Property/has_value_for/_Quantity-Template|_Quantity-Template]]"
-    - "[[/_public/schema-org/Property/has_value_for/_Quantity-Template.public|_Quantity-Template.public]]"
-    - "[[/_internal/schema-org/Property/has_value_for/_Quantity-Template.internal|_Quantity-Template.internal]]"
-    - "[[/_protect/schema-org/Property/has_value_for/_Quantity-Template.protect|_Quantity-Template.protect]]"
-    - "[[/_private/schema-org/Property/has_value_for/_Quantity-Template.private|_Quantity-Template.private]]"
-    - "[[/_personal/schema-org/Property/has_value_for/_Quantity-Template.personal|_Quantity-Template.personal]]"
-    - "[[/_secret/schema-org/Property/has_value_for/_Quantity-Template.secret|_Quantity-Template.secret]]"
-dv_#has_:
-  name: has_value_for_{{has_label_snail}}
-  range: "{{rangeIncludes}}"
-dv_has_value_for_has_label_snail:
-  - "{{rangeIncludes}}"
-  - "{{rangeIncludes}}"
-dv_is_part_of: "{{isPartOf}}"
-dv_has_domain: "{{domainIncludes}}"
-dv_has_name: has_value_for_{{has_label_snail}}
-dv_has_range: "{{rangeIncludes}}"
-dv_is_inverse_of: "{{inverseOf}}"
-dv_is_sub_property_of: "{{subPropertyOf}}"
-dv_has_sub_properties: "[ {{subproperties}} ]"
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_value_for/_Quantity-Template|_Quantity-Template]]"
-  - "[[/_public/schema-org/Property/has_value_for/_Quantity-Template.public|_Quantity-Template.public]]"
-  - "[[/_internal/schema-org/Property/has_value_for/_Quantity-Template.internal|_Quantity-Template.internal]]"
-  - "[[/_protect/schema-org/Property/has_value_for/_Quantity-Template.protect|_Quantity-Template.protect]]"
-  - "[[/_private/schema-org/Property/has_value_for/_Quantity-Template.private|_Quantity-Template.private]]"
-  - "[[/_personal/schema-org/Property/has_value_for/_Quantity-Template.personal|_Quantity-Template.personal]]"
-  - "[[/_secret/schema-org/Property/has_value_for/_Quantity-Template.secret|_Quantity-Template.secret]]"
 ---
 
 Predicate to describe the Quantity of {{domainIncludes}}.
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: {{isPartOf}}  
 
 Use it like this: 
-- has_value_for_{{has_label_snail}} = `=this.dv_has_value_for_{{has_label_snail}}`  
-- has_value_for_{{has_label_snail}} = `=this.dv_has_value_for_{{has_label_snail}}`  
+- [has_/value_for_/{{has_label_snail}} :: {{rangeIncludes}} ] 
+- [ has_value_for_{{has_label_snail}} :: {{rangeIncludes}} ] 
 
 {{comment}}
 
 Predicate describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: {{domainIncludes}}  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_value_for_{{has_label_snail}} )
+( #has_/range :: {{rangeIncludes}} )
 
-is_inverse_of = `=this.dv_is_inverse_of` 
+#is_/inverse_of  :: {{inverseOf}}  
 
-is_sub_property_of = `=this.dv_is_sub_property_of` 
+#is_/sub_property_of  :: {{subPropertyOf}}  
 
-has_sub_properties = `=this.dv_has_sub_properties` 
+#has_/sub_properties :: [ {{subproperties}} ]  
 
 ## Confidential Links & Embeds: 
 

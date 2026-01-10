@@ -7,45 +7,26 @@ aliases:
   - -0058-Gallic War-0050
 has_id_wikidata: Q202161
 described_by_source:
-  - "[[_Standards/WikiData/WD~Q106199,106199]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[_Standards/WikiData/WD~Q106199,106199]]'
+  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 participant:
-  - "[[_Standards/WikiData/WD~Iberians,190992]]"
-  - "[[_Standards/WikiData/WD~Gauls,273854]]"
-  - "[[_Standards/WikiData/WD~Belgae,337104]]"
-  - "[[_Standards/WikiData/WD~Celtic_Britons,849967]]"
-  - "[[_Standards/WikiData/WD~Aquitani,1255605]]"
-  - "[[_Standards/WikiData/WD~Germanic_people,22633]]"
-significant_event: "[[_Standards/WikiData/WD~Battle_of_Cavillonum,2984753]]"
+  - '[[_Standards/WikiData/WD~Iberians,190992]]'
+  - '[[_Standards/WikiData/WD~Gauls,273854]]'
+  - '[[_Standards/WikiData/WD~Belgae,337104]]'
+  - '[[_Standards/WikiData/WD~Celtic_Britons,849967]]'
+  - '[[_Standards/WikiData/WD~Aquitani,1255605]]'
+  - '[[_Standards/WikiData/WD~Germanic_people,22633]]'
+significant_event: '[[_Standards/WikiData/WD~Battle_of_Cavillonum,2984753]]'
 end_time: -0050-01-01T00:00:00Z
 start_time: -0057-01-01T00:00:00Z
-instance_of: "[[_Standards/WikiData/WD~war,198]]"
-locations: "[[_Standards/WikiData/WD~Gaul,38060]]"
+instance_of: '[[_Standards/WikiData/WD~war,198]]'
+locations: '[[_Standards/WikiData/WD~Gaul,38060]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Siege-alesia-vercingetorix-jules-cesar.jpg
 detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Caesar%20campaigns%20gaul-ca.svg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Caesar%20campaigns%20gaul-fr.svg
 Wolfram_Language_entity_code: Entity["MilitaryConflict", "GallicWars"]
 Commons_category: Gallic War
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../../../WikiData/WD~Gallic_War,202161|WD~Gallic_War,202161]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026/-0058-Gallic_War-0050|-0058-Gallic_War-0050]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026/-0058-Gallic_War-0050.public|-0058-Gallic_War-0050.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026/-0058-Gallic_War-0050.internal|-0058-Gallic_War-0050.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026/-0058-Gallic_War-0050.protect|-0058-Gallic_War-0050.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026/-0058-Gallic_War-0050.private|-0058-Gallic_War-0050.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026/-0058-Gallic_War-0050.personal|-0058-Gallic_War-0050.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026/-0058-Gallic_War-0050.secret|-0058-Gallic_War-0050.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../../../WikiData/WD~Gallic_War,202161|WD~Gallic_War,202161]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026/-0058-Gallic_War-0050|-0058-Gallic_War-0050]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026/-0058-Gallic_War-0050.public|-0058-Gallic_War-0050.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026/-0058-Gallic_War-0050.internal|-0058-Gallic_War-0050.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026/-0058-Gallic_War-0050.protect|-0058-Gallic_War-0050.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026/-0058-Gallic_War-0050.private|-0058-Gallic_War-0050.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026/-0058-Gallic_War-0050.personal|-0058-Gallic_War-0050.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026/-0058-Gallic_War-0050.secret|-0058-Gallic_War-0050.secret]]"
 ---
 
 # [[-0058-Gallic_War-0050]] 

@@ -15,25 +15,6 @@ end_time: 1667-01-01T00:00:00Z
 start_time: 1654-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/War%20between%20Muscovy%20and%20the%20Polish-Lithuanian%20Commonwealth%20of%201654-1667%20Montage.png
 Commons_category: Polish-Russian War 1654-1667
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../WikiData/WD~Russo-Polish_War,631991|WD~Russo-Polish_War,631991]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1654-Russo-Polish_War+1667|1654-Russo-Polish_War+1667]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1654-Russo-Polish_War+1667.public|1654-Russo-Polish_War+1667.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1654-Russo-Polish_War+1667.internal|1654-Russo-Polish_War+1667.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1654-Russo-Polish_War+1667.protect|1654-Russo-Polish_War+1667.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1654-Russo-Polish_War+1667.private|1654-Russo-Polish_War+1667.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1654-Russo-Polish_War+1667.personal|1654-Russo-Polish_War+1667.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1654-Russo-Polish_War+1667.secret|1654-Russo-Polish_War+1667.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Russo-Polish_War,631991|WD~Russo-Polish_War,631991]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1654-Russo-Polish_War+1667|1654-Russo-Polish_War+1667]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1654-Russo-Polish_War+1667.public|1654-Russo-Polish_War+1667.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1654-Russo-Polish_War+1667.internal|1654-Russo-Polish_War+1667.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1654-Russo-Polish_War+1667.protect|1654-Russo-Polish_War+1667.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1654-Russo-Polish_War+1667.private|1654-Russo-Polish_War+1667.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1654-Russo-Polish_War+1667.personal|1654-Russo-Polish_War+1667.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1654-Russo-Polish_War+1667.secret|1654-Russo-Polish_War+1667.secret]]"
 ---
 
 # [[1654-Russo-Polish_War+1667]] 

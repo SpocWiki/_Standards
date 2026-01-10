@@ -15,86 +15,6 @@ start_time: -201300000-01-01T00:00:00Z
 coordinate_location: Point(11.530555555 47.483888888)
 sRGB_color_hex_triplet: 00BBEB
 end_time: -199300000-01-01T00:00:00Z
-dv_has_:
-  duration_:
-    years: "1.900e+6"
-  previous_:
-    item: "[[../../Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian|Age~3~Rhaetian]]"
-  next_:
-    item: "[[Age~2~Sinemurian]]"
-  name_:
-    bg: Хетанж
-    cs: Hettang
-    da: Hettangien
-    de: Hettangium
-    es: Hettagiense
-    et: Hettangi
-    fi: Hettang
-    fr: Hettangien
-    hu: hettangi
-    it: hettangiano
-    ja: ヘッタンギアン期
-    lt: Hetangis
-    nl: Hettangiën
-    no: Hettang
-    pl: Hetang
-    pt: Hetangiano
-    sk: hetanž
-    sl: hettangij
-    sv: hettang
-    zh: 赫唐期
-  abbreviation: I1
-  time_:
-    started: "-201.4e6"
-    stopped: "-199.5e6"
-  text_of_:
-    color: "0x4EB3D3"
-dv_is_:
-  same_as:
-    - "[[WD~Hettangian,633834]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~1~Hettangian|Age~1~Hettangian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~1~Hettangian.public|Age~1~Hettangian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~1~Hettangian.internal|Age~1~Hettangian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~1~Hettangian.protect|Age~1~Hettangian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~1~Hettangian.private|Age~1~Hettangian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~1~Hettangian.personal|Age~1~Hettangian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~1~Hettangian.secret|Age~1~Hettangian.secret]]"
-dv_has_duration_years: "1.900e+6"
-dv_has_previous_item: "[[../../Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian|Age~3~Rhaetian]]"
-dv_has_next_item: "[[Age~2~Sinemurian]]"
-dv_is_same_as:
-  - "[[WD~Hettangian,633834]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~1~Hettangian|Age~1~Hettangian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~1~Hettangian.public|Age~1~Hettangian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~1~Hettangian.internal|Age~1~Hettangian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~1~Hettangian.protect|Age~1~Hettangian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~1~Hettangian.private|Age~1~Hettangian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~1~Hettangian.personal|Age~1~Hettangian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~1~Hettangian.secret|Age~1~Hettangian.secret]]"
-dv_has_name_bg: Хетанж
-dv_has_name_cs: Hettang
-dv_has_name_da: Hettangien
-dv_has_name_de: Hettangium
-dv_has_name_es: Hettagiense
-dv_has_name_et: Hettangi
-dv_has_name_fi: Hettang
-dv_has_name_fr: Hettangien
-dv_has_name_hu: hettangi
-dv_has_name_it: hettangiano
-dv_has_name_ja: ヘッタンギアン期
-dv_has_name_lt: Hetangis
-dv_has_name_nl: Hettangiën
-dv_has_name_no: Hettang
-dv_has_name_pl: Hetang
-dv_has_name_pt: Hetangiano
-dv_has_name_sk: hetanž
-dv_has_name_sl: hettangij
-dv_has_name_sv: hettang
-dv_has_name_zh: 赫唐期
-dv_has_abbreviation: I1
-dv_has_time_started: "-201.4e6"
-dv_has_time_stopped: "-199.5e6"
-dv_has_text_of_color: "0x4EB3D3"
 ---
 # [[Age~1~Hettangian]] 
 
@@ -102,10 +22,10 @@ dv_has_text_of_color: "0x4EB3D3"
 
 A time period from 201.4 to 199.5 million years ago. 
 
-#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-has_previous_item = `=this.dv_has_previous_item` 
-has_next_item = `=this.dv_has_next_item` 
+#has_/previous_/item :: [[../../Period-0252~Triassic/Epoch-237~Late_Triassic/Age~3~Rhaetian|Age~3~Rhaetian]] 
+#has_/next_/item :: [[Age~2~Sinemurian]] 
 #is_/same_as :: [[WD~Hettangian,633834]] 
 
 ## #has_/text_of_/abstract 
@@ -127,35 +47,35 @@ has_next_item = `=this.dv_has_next_item`
 > [Wikipedia](https://en.wikipedia.org/wiki/Hettangian) 
 
 
-has_name_bg = `=this.dv_has_name_bg` 
-has_name_cs = `=this.dv_has_name_cs` 
-has_name_da = `=this.dv_has_name_da` 
-has_name_de = `=this.dv_has_name_de` 
-has_name_es = `=this.dv_has_name_es` 
-has_name_et = `=this.dv_has_name_et` 
-has_name_fi = `=this.dv_has_name_fi` 
-has_name_fr = `=this.dv_has_name_fr` 
-has_name_hu = `=this.dv_has_name_hu` 
-has_name_it = `=this.dv_has_name_it` 
-has_name_ja = `=this.dv_has_name_ja` 
-has_name_lt = `=this.dv_has_name_lt` 
-has_name_nl = `=this.dv_has_name_nl` 
-has_name_no = `=this.dv_has_name_no` 
-has_name_pl = `=this.dv_has_name_pl` 
-has_name_pt = `=this.dv_has_name_pt` 
-has_name_sk = `=this.dv_has_name_sk` 
-has_name_sl = `=this.dv_has_name_sl` 
-has_name_sv = `=this.dv_has_name_sv` 
-has_name_zh = `=this.dv_has_name_zh` 
+#has_/name_/bg  :: Хетанж
+#has_/name_/cs  :: Hettang
+#has_/name_/da  :: Hettangien
+#has_/name_/de  :: Hettangium
+#has_/name_/es  :: Hettagiense
+#has_/name_/et  :: Hettangi
+#has_/name_/fi  :: Hettang
+#has_/name_/fr  :: Hettangien
+#has_/name_/hu  :: hettangi
+#has_/name_/it  :: hettangiano
+#has_/name_/ja  :: ヘッタンギアン期
+#has_/name_/lt  :: Hetangis
+#has_/name_/nl  :: Hettangiën
+#has_/name_/no  :: Hettang
+#has_/name_/pl  :: Hetang
+#has_/name_/pt  :: Hetangiano
+#has_/name_/sk  :: hetanž
+#has_/name_/sl  :: hettangij
+#has_/name_/sv  :: hettang
+#has_/name_/zh  :: 赫唐期
 
-has_abbreviation = `=this.dv_has_abbreviation` 
+#has_/abbreviation :: I1
 
-has_time_started = `=this.dv_has_time_started` 
-has_time_stopped = `=this.dv_has_time_stopped` 
+#has_/time_/started :: -201.4e6 
+#has_/time_/stopped :: -199.5e6 
 
     sh:order 63 
 
-has_text_of_color = `=this.dv_has_text_of_color` 
+#has_/text_of_/color :: 0x4EB3D3
 
 ## All Contents
 

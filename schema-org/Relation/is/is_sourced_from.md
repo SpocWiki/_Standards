@@ -10,63 +10,36 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - sourced
   - from
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_sourced_from
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: is_sourced_from
 type: Predi_Relation
-dv_is_:
-  sourced_from: BrainStructure
-  same_as:
-    - "[[/_Standards/schema-org/Relation/is/is_sourced_from|is_sourced_from]]"
-    - "[[/_public/schema-org/Relation/is/is_sourced_from.public|is_sourced_from.public]]"
-    - "[[/_internal/schema-org/Relation/is/is_sourced_from.internal|is_sourced_from.internal]]"
-    - "[[/_protect/schema-org/Relation/is/is_sourced_from.protect|is_sourced_from.protect]]"
-    - "[[/_private/schema-org/Relation/is/is_sourced_from.private|is_sourced_from.private]]"
-    - "[[/_personal/schema-org/Relation/is/is_sourced_from.personal|is_sourced_from.personal]]"
-    - "[[/_secret/schema-org/Relation/is/is_sourced_from.secret|is_sourced_from.secret]]"
-dv_is_sourced_from: BrainStructure
-dv_has_:
-  domain: Nerve
-dv_#has_:
-  name: is_sourced_from
-  range: BrainStructure
-dv_has_domain: Nerve
-dv_has_name: is_sourced_from
-dv_has_range: BrainStructure
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/is/is_sourced_from|is_sourced_from]]"
-  - "[[/_public/schema-org/Relation/is/is_sourced_from.public|is_sourced_from.public]]"
-  - "[[/_internal/schema-org/Relation/is/is_sourced_from.internal|is_sourced_from.internal]]"
-  - "[[/_protect/schema-org/Relation/is/is_sourced_from.protect|is_sourced_from.protect]]"
-  - "[[/_private/schema-org/Relation/is/is_sourced_from.private|is_sourced_from.private]]"
-  - "[[/_personal/schema-org/Relation/is/is_sourced_from.personal|is_sourced_from.personal]]"
-  - "[[/_secret/schema-org/Relation/is/is_sourced_from.secret|is_sourced_from.secret]]"
 ---
 
 Use it like this: 
-- is_sourced_from = `=this.dv_is_sourced_from`  
-- is_sourced_from = `=this.dv_is_sourced_from`  
+- [is_/sourced_from :: BrainStructure ] 
+- [ is_sourced_from :: BrainStructure ] 
 
 The neurological pathway that originates the neurons.
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: Nerve  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: is_sourced_from )
+( #has_/range :: BrainStructure )
 
 
 ## Confidential Links & Embeds: 

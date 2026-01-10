@@ -10,66 +10,37 @@ cssclasses:
   - Predicate
   - geo
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - dropoff_location
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_location_dropoff
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/geo
 title: has_location_dropoff
 type: Pred_geo
-dv_has_:
-  location_:
-    dropoff_location: Place
-  domain: RentalCarReservation
-dv_has_location_dropoff: Place
-dv_#has_:
-  name: has_location_dropoff
-  range: Place
-dv_is_:
-  same_as:
-    - "[[/_Standards/schema-org/Property/has_location/has_location_dropoff|has_location_dropoff]]"
-    - "[[/_public/schema-org/Property/has_location/has_location_dropoff.public|has_location_dropoff.public]]"
-    - "[[/_internal/schema-org/Property/has_location/has_location_dropoff.internal|has_location_dropoff.internal]]"
-    - "[[/_protect/schema-org/Property/has_location/has_location_dropoff.protect|has_location_dropoff.protect]]"
-    - "[[/_private/schema-org/Property/has_location/has_location_dropoff.private|has_location_dropoff.private]]"
-    - "[[/_personal/schema-org/Property/has_location/has_location_dropoff.personal|has_location_dropoff.personal]]"
-    - "[[/_secret/schema-org/Property/has_location/has_location_dropoff.secret|has_location_dropoff.secret]]"
-dv_has_location_dropoff_location: Place
-dv_has_domain: RentalCarReservation
-dv_has_name: has_location_dropoff
-dv_has_range: Place
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_location/has_location_dropoff|has_location_dropoff]]"
-  - "[[/_public/schema-org/Property/has_location/has_location_dropoff.public|has_location_dropoff.public]]"
-  - "[[/_internal/schema-org/Property/has_location/has_location_dropoff.internal|has_location_dropoff.internal]]"
-  - "[[/_protect/schema-org/Property/has_location/has_location_dropoff.protect|has_location_dropoff.protect]]"
-  - "[[/_private/schema-org/Property/has_location/has_location_dropoff.private|has_location_dropoff.private]]"
-  - "[[/_personal/schema-org/Property/has_location/has_location_dropoff.personal|has_location_dropoff.personal]]"
-  - "[[/_secret/schema-org/Property/has_location/has_location_dropoff.secret|has_location_dropoff.secret]]"
 ---
 
 Predicate to describe the geo of RentalCarReservation.
 
 Use it like this: 
-- has_location_dropoff_location = `=this.dv_has_location_dropoff_location`  
-- has_location_dropoff = `=this.dv_has_location_dropoff`  
+- [has_/location_/dropoff_location :: Place ] 
+- [ has_location_dropoff :: Place ] 
 
 Where a rental car can be dropped off.
 
 Predicate describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: RentalCarReservation  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_location_dropoff )
+( #has_/range :: Place )
 
 
 ## Confidential Links & Embeds: 

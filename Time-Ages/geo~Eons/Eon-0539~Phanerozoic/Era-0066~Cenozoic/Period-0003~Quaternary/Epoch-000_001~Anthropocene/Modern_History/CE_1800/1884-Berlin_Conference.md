@@ -35,32 +35,11 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Afrikakonferenz.jpg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-BerlinConference-article.ogg
 Commons_category: Berlin Conference (1884)
 Wolfram_Language_entity_code: Entity["HistoricalEvent", "BerlinConference1885"]
-dv_is_:
-  different_from: "[[1878-Congress_of_Berlin]]"
-  same_as:
-    - "[[WD~Berlin_Conference,13582]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference|1884-Berlin_Conference]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.public|1884-Berlin_Conference.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.internal|1884-Berlin_Conference.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.protect|1884-Berlin_Conference.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.private|1884-Berlin_Conference.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.personal|1884-Berlin_Conference.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.secret|1884-Berlin_Conference.secret]]"
-dv_is_different_from: "[[1878-Congress_of_Berlin]]"
-dv_is_same_as:
-  - "[[WD~Berlin_Conference,13582]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference|1884-Berlin_Conference]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.public|1884-Berlin_Conference.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.internal|1884-Berlin_Conference.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.protect|1884-Berlin_Conference.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.private|1884-Berlin_Conference.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.personal|1884-Berlin_Conference.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1884-Berlin_Conference.secret|1884-Berlin_Conference.secret]]"
 ---
 
 # [[1884-Berlin_Conference]] 
 
-is_different_from = `=this.dv_is_different_from` 
+#is_/different_from :: [[1878-Congress_of_Berlin]] 
 
 #is_/same_as :: [[WD~Berlin_Conference,13582]] 
 

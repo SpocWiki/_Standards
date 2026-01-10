@@ -10,18 +10,18 @@ aliases:
   - 1962-Cuban Missile Crisis
 has_id_wikidata: Q128160
 instance_of:
-  - "[[_Standards/WikiData/WD~conflict,180684]]"
-  - "[[_Standards/WikiData/WD~political_crisis,3002772]]"
-part_of: "[[_Standards/WikiData/WD~history_of_Cuba,473130]]"
-different_from: "[[_Standards/WikiData/WD~Cuban_Missile_Crisis_The_Aftermath,1619053]]"
-facet_of: "[[_Standards/WikiData/WD~Soviet_Union_United_States_relations,3424262]]"
+  - '[[_Standards/WikiData/WD~conflict,180684]]'
+  - '[[_Standards/WikiData/WD~political_crisis,3002772]]'
+part_of: '[[_Standards/WikiData/WD~history_of_Cuba,473130]]'
+different_from: '[[_Standards/WikiData/WD~Cuban_Missile_Crisis_The_Aftermath,1619053]]'
+facet_of: '[[_Standards/WikiData/WD~Soviet_Union_United_States_relations,3424262]]'
 location:
-  - "[[_Standards/WikiData/WD~Caribbean_Sea,1247]]"
-  - "[[_Standards/WikiData/WD~Cuba,241]]"
+  - '[[_Standards/WikiData/WD~Caribbean_Sea,1247]]'
+  - '[[_Standards/WikiData/WD~Cuba,241]]'
 participant:
-  - "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-country: "[[_Standards/WikiData/WD~Cuba,241]]"
+  - '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
+  - '[[_Standards/WikiData/WD~United_States,30]]'
+country: '[[_Standards/WikiData/WD~Cuba,241]]'
 BHCL_UUID: ebea0419-aa4c-4495-bace-b9c77ebfb7a0
 end_time: 1962-10-28T00:00:00Z
 start_time: 1962-10-14T00:00:00Z
@@ -39,25 +39,6 @@ Wolfram_Language_entity_code:
   - Entity["HistoricalEvent", "PresidentKennedyAnnouncesExistanceSovietMissilesCuba"]
 Krugosvet_article: istoriya/KUBINSKI_KRIZIS.html
 coordinate_location: Point(-82.3885 23.1166)
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../WikiData/WD~Cuban_Missile_Crisis,128160|WD~Cuban_Missile_Crisis,128160]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1962-Cuban_Missile_Crisis|1962-Cuban_Missile_Crisis]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1962-Cuban_Missile_Crisis.public|1962-Cuban_Missile_Crisis.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1962-Cuban_Missile_Crisis.internal|1962-Cuban_Missile_Crisis.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1962-Cuban_Missile_Crisis.protect|1962-Cuban_Missile_Crisis.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1962-Cuban_Missile_Crisis.private|1962-Cuban_Missile_Crisis.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1962-Cuban_Missile_Crisis.personal|1962-Cuban_Missile_Crisis.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1962-Cuban_Missile_Crisis.secret|1962-Cuban_Missile_Crisis.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Cuban_Missile_Crisis,128160|WD~Cuban_Missile_Crisis,128160]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1962-Cuban_Missile_Crisis|1962-Cuban_Missile_Crisis]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1962-Cuban_Missile_Crisis.public|1962-Cuban_Missile_Crisis.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1962-Cuban_Missile_Crisis.internal|1962-Cuban_Missile_Crisis.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1962-Cuban_Missile_Crisis.protect|1962-Cuban_Missile_Crisis.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1962-Cuban_Missile_Crisis.private|1962-Cuban_Missile_Crisis.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1962-Cuban_Missile_Crisis.personal|1962-Cuban_Missile_Crisis.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1962-Cuban_Missile_Crisis.secret|1962-Cuban_Missile_Crisis.secret]]"
 ---
 
 # [[1962-Cuban_Missile_Crisis]] 

@@ -10,69 +10,39 @@ cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - cvd-num-beds
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_number_of_cvd-num-beds
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Count
 title: has_number_of_cvd-num-beds
 type: Predi_Count
-dv_has_:
-  number_of_:
-    Covid_beds: Number
-  domain: CDCPMDRecord
-dv_has_number_of_Covid_beds: Number
-dv_is_:
-  part_of: "pending:"
-  same_as:
-    - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_Covid_beds|has_number_of_Covid_beds]]"
-    - "[[/_public/schema-org/Property/has_number_of/has_number_of_Covid_beds.public|has_number_of_Covid_beds.public]]"
-    - "[[/_internal/schema-org/Property/has_number_of/has_number_of_Covid_beds.internal|has_number_of_Covid_beds.internal]]"
-    - "[[/_protect/schema-org/Property/has_number_of/has_number_of_Covid_beds.protect|has_number_of_Covid_beds.protect]]"
-    - "[[/_private/schema-org/Property/has_number_of/has_number_of_Covid_beds.private|has_number_of_Covid_beds.private]]"
-    - "[[/_personal/schema-org/Property/has_number_of/has_number_of_Covid_beds.personal|has_number_of_Covid_beds.personal]]"
-    - "[[/_secret/schema-org/Property/has_number_of/has_number_of_Covid_beds.secret|has_number_of_Covid_beds.secret]]"
-dv_#has_:
-  name: has_number_of_Covid_beds
-  range: Number
-dv_is_part_of: "pending:"
-dv_has_domain: CDCPMDRecord
-dv_has_name: has_number_of_Covid_beds
-dv_has_range: Number
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_Covid_beds|has_number_of_Covid_beds]]"
-  - "[[/_public/schema-org/Property/has_number_of/has_number_of_Covid_beds.public|has_number_of_Covid_beds.public]]"
-  - "[[/_internal/schema-org/Property/has_number_of/has_number_of_Covid_beds.internal|has_number_of_Covid_beds.internal]]"
-  - "[[/_protect/schema-org/Property/has_number_of/has_number_of_Covid_beds.protect|has_number_of_Covid_beds.protect]]"
-  - "[[/_private/schema-org/Property/has_number_of/has_number_of_Covid_beds.private|has_number_of_Covid_beds.private]]"
-  - "[[/_personal/schema-org/Property/has_number_of/has_number_of_Covid_beds.personal|has_number_of_Covid_beds.personal]]"
-  - "[[/_secret/schema-org/Property/has_number_of/has_number_of_Covid_beds.secret|has_number_of_Covid_beds.secret]]"
 ---
 
 Predicate to describe the Number of CDCPMDRecord.
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use it like this: 
-- has_number_of_Covid_beds = `=this.dv_has_number_of_Covid_beds`  
-- has_number_of_Covid_beds = `=this.dv_has_number_of_Covid_beds`  
+- [has_/number_of_/Covid_beds :: Number ] 
+- [ has_number_of_Covid_beds :: Number ] 
 
 numbeds - HOSPITAL INPATIENT BEDS: Inpatient beds, including all staffed, licensed, and overflow (surge) beds used for inpatients.
 
 Predicate describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: CDCPMDRecord  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_number_of_Covid_beds )
+( #has_/range :: Number )
 
 
 ## Confidential Links & Embeds: 

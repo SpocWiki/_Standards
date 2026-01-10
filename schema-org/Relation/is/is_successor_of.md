@@ -11,62 +11,27 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - successor
   - of
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_successor_of
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_successor_of
 type: Predi_Relation
-dv_is_:
-  successor_of: "[[../../../Society/Agent/Community/Organization/Business/Product/Product_Model|ProductModel]]"
-  similar_to: "[[../has/has_previous_item|has_previous_item]]"
-  inverse_of:
-    - "[[../has/has_next_item]]"
-    - "[[is_predecessor_of]]"
-  same_as:
-    - "[[/_Standards/schema-org/Relation/is/is_successor_of|is_successor_of]]"
-    - "[[/_public/schema-org/Relation/is/is_successor_of.public|is_successor_of.public]]"
-    - "[[/_internal/schema-org/Relation/is/is_successor_of.internal|is_successor_of.internal]]"
-    - "[[/_protect/schema-org/Relation/is/is_successor_of.protect|is_successor_of.protect]]"
-    - "[[/_private/schema-org/Relation/is/is_successor_of.private|is_successor_of.private]]"
-    - "[[/_personal/schema-org/Relation/is/is_successor_of.personal|is_successor_of.personal]]"
-    - "[[/_secret/schema-org/Relation/is/is_successor_of.secret|is_successor_of.secret]]"
-dv_is_successor_of: "[[../../Class/is_a_/product/product_model|ProductModel]]"
-dv_has_:
-  domain: "[[../../Class/is_a_/product/product_model|ProductModel]]"
-dv_#has_:
-  name: is_successor_of
-  range: "[[../../../Society/Agent/Community/Organization/Business/Product/Product_Model|ProductModel]]"
-dv_has_domain: "[[../../Class/is_a_/product/product_model|ProductModel]]"
-dv_has_name: is_successor_of
-dv_has_range: "[[../../../Society/Agent/Community/Organization/Business/Product/Product_Model|ProductModel]]"
-dv_is_similar_to: "[[../has/has_previous_item|has_previous_item]]"
-dv_is_inverse_of:
-  - "[[../has/has_next_item]]"
-  - "[[is_predecessor_of]]"
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/is/is_successor_of|is_successor_of]]"
-  - "[[/_public/schema-org/Relation/is/is_successor_of.public|is_successor_of.public]]"
-  - "[[/_internal/schema-org/Relation/is/is_successor_of.internal|is_successor_of.internal]]"
-  - "[[/_protect/schema-org/Relation/is/is_successor_of.protect|is_successor_of.protect]]"
-  - "[[/_private/schema-org/Relation/is/is_successor_of.private|is_successor_of.private]]"
-  - "[[/_personal/schema-org/Relation/is/is_successor_of.personal|is_successor_of.personal]]"
-  - "[[/_secret/schema-org/Relation/is/is_successor_of.secret|is_successor_of.secret]]"
 ---
 
 Use it like this: 
-- is_successor_of = `=this.dv_is_successor_of` ] ] 
-- is_successor_of = `=this.dv_is_successor_of` ] ] 
+- [is_/successor_of :: [[../../../Society/Agent/Community/Organization/Business/Product/Product_Model|ProductModel]] ] 
+- [ is_successor_of :: [[../../Class/is_a_/product/product_model|ProductModel]] ] 
 
 
 - [ ] TODO: unify with [[../has/has_previous_item]].  
@@ -76,12 +41,12 @@ often [[../../Enumeration/Item_Availability/Discontinued|discontinued]] predeces
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain :: [[../../Class/is_a_/product/product_model|ProductModel]]  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: is_successor_of )
+( #has_/range :: [[../../../Society/Agent/Community/Organization/Business/Product/Product_Model|ProductModel]] )
 
-is_similar_to = `=this.dv_is_similar_to` 
+#is_/similar_to :: [[../has/has_previous_item|has_previous_item]] 
 #is_/inverse_of :: [[../has/has_next_item]]    
 #is_/inverse_of :: [[is_predecessor_of]]   
 

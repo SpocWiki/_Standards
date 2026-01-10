@@ -11,7 +11,7 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -19,64 +19,34 @@ keywords:
   - plan
   - copay
   - option
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_health_plan_copay_option
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_health_plan_copay_option
 type: Pred_Text
-dv_has_:
-  text_of_:
-    health_plan_copay_option: Text
-  domain: HealthPlanCostSharingSpecification
-dv_has_text_of_health_plan_copay_option: Text
-dv_is_:
-  part_of: "pending:"
-  same_as:
-    - "[[/_Standards/schema-org/Property/Texts/has_health_plan_copay_option|has_health_plan_copay_option]]"
-    - "[[/_public/schema-org/Property/Texts/has_health_plan_copay_option.public|has_health_plan_copay_option.public]]"
-    - "[[/_internal/schema-org/Property/Texts/has_health_plan_copay_option.internal|has_health_plan_copay_option.internal]]"
-    - "[[/_protect/schema-org/Property/Texts/has_health_plan_copay_option.protect|has_health_plan_copay_option.protect]]"
-    - "[[/_private/schema-org/Property/Texts/has_health_plan_copay_option.private|has_health_plan_copay_option.private]]"
-    - "[[/_personal/schema-org/Property/Texts/has_health_plan_copay_option.personal|has_health_plan_copay_option.personal]]"
-    - "[[/_secret/schema-org/Property/Texts/has_health_plan_copay_option.secret|has_health_plan_copay_option.secret]]"
-dv_#has_:
-  name: has_text_of_health_plan_copay_option
-  range: Text
-dv_is_part_of: "pending:"
-dv_has_domain: HealthPlanCostSharingSpecification
-dv_has_name: has_text_of_health_plan_copay_option
-dv_has_range: Text
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_health_plan_copay_option|has_health_plan_copay_option]]"
-  - "[[/_public/schema-org/Property/Texts/has_health_plan_copay_option.public|has_health_plan_copay_option.public]]"
-  - "[[/_internal/schema-org/Property/Texts/has_health_plan_copay_option.internal|has_health_plan_copay_option.internal]]"
-  - "[[/_protect/schema-org/Property/Texts/has_health_plan_copay_option.protect|has_health_plan_copay_option.protect]]"
-  - "[[/_private/schema-org/Property/Texts/has_health_plan_copay_option.private|has_health_plan_copay_option.private]]"
-  - "[[/_personal/schema-org/Property/Texts/has_health_plan_copay_option.personal|has_health_plan_copay_option.personal]]"
-  - "[[/_secret/schema-org/Property/Texts/has_health_plan_copay_option.secret|has_health_plan_copay_option.secret]]"
 ---
 
 Predicate to describe the Text of HealthPlanCostSharingSpecification.
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use it like this: 
-- has_text_of_health_plan_copay_option = `=this.dv_has_text_of_health_plan_copay_option`  
-- has_text_of_health_plan_copay_option = `=this.dv_has_text_of_health_plan_copay_option`  
+- [has_/text_of_/health_plan_copay_option :: Text ] 
+- [ has_text_of_health_plan_copay_option :: Text ] 
 
 Whether the copay is before or after deductible, etc. TODO: Is this a closed set?
 
 Predicated describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: HealthPlanCostSharingSpecification  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_text_of_health_plan_copay_option )
+( #has_/range :: Text )
 
 
 ## Confidential Links & Embeds: 

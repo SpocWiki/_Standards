@@ -15,25 +15,6 @@ location: "[[_Standards/WikiData/WD~Balkans,23522]]"
 BHCL_UUID: 409a2310-1cd6-4888-8b90-f15b22dd191f
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fight%20near%20Telish%201877.jpg
 Commons_category: Russo-Turkish War (1877–1878)
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../WikiData/WD~Tenth_Russo-Turkish_War,174205|WD~Tenth_Russo-Turkish_War,174205]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1853-Tenth_Russo-Turkish_War+1856|1853-Tenth_Russo-Turkish_War+1856]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1853-Tenth_Russo-Turkish_War+1856.public|1853-Tenth_Russo-Turkish_War+1856.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1853-Tenth_Russo-Turkish_War+1856.internal|1853-Tenth_Russo-Turkish_War+1856.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1853-Tenth_Russo-Turkish_War+1856.protect|1853-Tenth_Russo-Turkish_War+1856.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1853-Tenth_Russo-Turkish_War+1856.private|1853-Tenth_Russo-Turkish_War+1856.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1853-Tenth_Russo-Turkish_War+1856.personal|1853-Tenth_Russo-Turkish_War+1856.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1853-Tenth_Russo-Turkish_War+1856.secret|1853-Tenth_Russo-Turkish_War+1856.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Tenth_Russo-Turkish_War,174205|WD~Tenth_Russo-Turkish_War,174205]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1853-Tenth_Russo-Turkish_War+1856|1853-Tenth_Russo-Turkish_War+1856]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1853-Tenth_Russo-Turkish_War+1856.public|1853-Tenth_Russo-Turkish_War+1856.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1853-Tenth_Russo-Turkish_War+1856.internal|1853-Tenth_Russo-Turkish_War+1856.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1853-Tenth_Russo-Turkish_War+1856.protect|1853-Tenth_Russo-Turkish_War+1856.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1853-Tenth_Russo-Turkish_War+1856.private|1853-Tenth_Russo-Turkish_War+1856.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1853-Tenth_Russo-Turkish_War+1856.personal|1853-Tenth_Russo-Turkish_War+1856.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1853-Tenth_Russo-Turkish_War+1856.secret|1853-Tenth_Russo-Turkish_War+1856.secret]]"
 ---
 
 # [[1853-Tenth_Russo-Turkish_War+1856]] 

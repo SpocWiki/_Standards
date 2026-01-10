@@ -4,25 +4,6 @@ has_id_wikidata: Q51662
 instance_of: "[[_Standards/WikiData/WD~religious_war,1827102]]"
 category_of_associated_people: "[[_Standards/WikiData/WD~CTSE,18248582]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Deutscher%20Orden%201260%2BFarb.png
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../../../WikiData/WD~Northern_Crusades,51662]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1100/1147-Northern_Crusades+1410|1147-Northern_Crusades+1410]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1100/1147-Northern_Crusades+1410.public|1147-Northern_Crusades+1410.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1100/1147-Northern_Crusades+1410.internal|1147-Northern_Crusades+1410.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1100/1147-Northern_Crusades+1410.protect|1147-Northern_Crusades+1410.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1100/1147-Northern_Crusades+1410.private|1147-Northern_Crusades+1410.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1100/1147-Northern_Crusades+1410.personal|1147-Northern_Crusades+1410.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1100/1147-Northern_Crusades+1410.secret|1147-Northern_Crusades+1410.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../../../WikiData/WD~Northern_Crusades,51662]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1100/1147-Northern_Crusades+1410|1147-Northern_Crusades+1410]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1100/1147-Northern_Crusades+1410.public|1147-Northern_Crusades+1410.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1100/1147-Northern_Crusades+1410.internal|1147-Northern_Crusades+1410.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1100/1147-Northern_Crusades+1410.protect|1147-Northern_Crusades+1410.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1100/1147-Northern_Crusades+1410.private|1147-Northern_Crusades+1410.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1100/1147-Northern_Crusades+1410.personal|1147-Northern_Crusades+1410.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1100/1147-Northern_Crusades+1410.secret|1147-Northern_Crusades+1410.secret]]"
 ---
 
 # [[1147-Northern_Crusades+1410]] 

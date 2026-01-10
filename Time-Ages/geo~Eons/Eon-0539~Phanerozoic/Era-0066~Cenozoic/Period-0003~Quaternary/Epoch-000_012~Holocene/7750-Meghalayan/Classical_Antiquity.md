@@ -13,99 +13,69 @@ cssclasses:
   - private
   - note
 described_by_source:
-  - "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
+  - '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
 draft: true
 end_time: 0500-06
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate: ""
+expiryDate: ''
 facet_of:
-  - "[[_Standards/WikiData/WD~Greco-Roman_world,937284]]"
-follows: "[[_Standards/WikiData/WD~Early_antiquity,98270938]]"
+  - '[[_Standards/WikiData/WD~Greco-Roman_world,937284]]'
+follows: '[[_Standards/WikiData/WD~Early_antiquity,98270938]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Etruscans,17161]]"
-  - "[[_Standards/WikiData/WD~Lydians,1778719]]"
-  - "[[_Standards/WikiData/WD~Macedonia,83958]]"
-  - "[[_Standards/WikiData/WD~Scythians,131802]]"
-  - "[[_Standards/WikiData/WD~Bronze_age_Cyprus,245813]]"
-  - "[[_Standards/WikiData/WD~Byzantine_Empire,12544]]"
-  - "[[_Standards/WikiData/WD~Italic_peoples,3617880]]"
-has_Template: "[[Extract~Note~Template]]"
+  - '[[_Standards/WikiData/WD~Etruscans,17161]]'
+  - '[[_Standards/WikiData/WD~Lydians,1778719]]'
+  - '[[_Standards/WikiData/WD~Macedonia,83958]]'
+  - '[[_Standards/WikiData/WD~Scythians,131802]]'
+  - '[[_Standards/WikiData/WD~Bronze_age_Cyprus,245813]]'
+  - '[[_Standards/WikiData/WD~Byzantine_Empire,12544]]'
+  - '[[_Standards/WikiData/WD~Italic_peoples,3617880]]'
+has_Template: '[[Extract~Note~Template]]'
 Iconclass_notation:
   - 23T23
   - 98
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ancient%20pano%20%284362583154%29.jpg
 instance_of:
-  - "[[_Standards/WikiData/WD~style,1292119]]"
-  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
+  - '[[_Standards/WikiData/WD~style,1292119]]'
+  - '[[_Standards/WikiData/WD~historical_period,11514315]]'
 isDeleted: false
 isReadOnly: false
 keywords: Classical_Antiquity
 lang: en
-layout: ""
+layout: ''
 license: (c)copyrighted
 linkTitle: Classical_Antiquity
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Mediterranean_Basin,72499]]"
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Mediterranean_Basin,72499]]'
 Provenio_UUID: 6ed0abb9-8760-428d-bbf2-89754e4fd8ef
 publish: false
-publishDate: ""
+publishDate: ''
 start_time:
-  - -798
+  - -0798
   - -1198
 studied_in:
-  - "[[_Standards/WikiData/WD~Classical_Greek_and_Roman_history,112939719]]"
-  - "[[_Standards/WikiData/WD~classical_philology,495527]]"
+  - '[[_Standards/WikiData/WD~Classical_Greek_and_Roman_history,112939719]]'
+  - '[[_Standards/WikiData/WD~classical_philology,495527]]'
 TableByName:
   Classical_Antiquity.tsv:
     columns:
       - Event
       - Start
       - Stop
-    headings: ""
-    align: "|---|--:|--:|"
+    headings: ''
+    align: '|---|--:|--:|'
 tags:
   - Classical_Antiquity
   - excalidraw
 title: Classical_Antiquity
 type: private_note
-dv_has_:
-  time_:
-    started: -800
-    stopped: 500
-  duration_: 1300
-dv_is_:
-  same_as:
-    - "[[../../../../../../../WikiData/WD~Classical_antiquity,486761|WD~Classical_antiquity,486761]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity|Classical_Antiquity]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity.public|Classical_Antiquity.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity.internal|Classical_Antiquity.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity.protect|Classical_Antiquity.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity.private|Classical_Antiquity.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity.personal|Classical_Antiquity.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity.secret|Classical_Antiquity.secret]]"
-  part_of: "[[Classical_Antiquity]]"
-dv_has_time_started: -800
-dv_has_time_stopped: 500
-dv_has_duration_years: 1300
-dv_has_duration_: 1300
-dv_is_same_as:
-  - "[[../../../../../../../WikiData/WD~Classical_antiquity,486761|WD~Classical_antiquity,486761]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity|Classical_Antiquity]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity.public|Classical_Antiquity.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity.internal|Classical_Antiquity.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity.protect|Classical_Antiquity.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity.private|Classical_Antiquity.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity.personal|Classical_Antiquity.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity.secret|Classical_Antiquity.secret]]"
-dv_is_part_of: "[[Classical_Antiquity]]"
 ---
 
-has_time_started = `=this.dv_has_time_started` 
-has_time_stopped = `=this.dv_has_time_stopped` 
+#has_/time_/started :: -0800 
+#has_/time_/stopped :: 0500 
 
-#has_/duration_/years :: `$=Math.round(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started))` 
-#has_/duration_ :: `=default(this.dv_has_time_stopped, date(now)) - this.dv_has_time_started` 
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started))` 
+#has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Classical_antiquity,486761|WD~Classical_antiquity,486761]] 
 
@@ -151,7 +121,7 @@ dv.view("TableByName",["Classical_Antiquity.tsv"])
 
 # [[Classical_Antiquity]] 
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: [[Classical_Antiquity]] 
 
 ![[Classical_Antiquity.svg]]
 

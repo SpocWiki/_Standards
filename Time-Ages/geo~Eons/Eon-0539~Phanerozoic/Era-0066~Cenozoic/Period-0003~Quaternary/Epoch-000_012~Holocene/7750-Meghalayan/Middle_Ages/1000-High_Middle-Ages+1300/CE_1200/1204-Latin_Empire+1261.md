@@ -6,50 +6,31 @@ aliases:
   - 1204-Latin Empire+1261
 has_id_wikidata: Q178897
 described_by_source:
-  - "[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
-instance_of: "[[_Standards/WikiData/WD~historical_country,3024240]]"
+  - '[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
+instance_of: '[[_Standards/WikiData/WD~historical_country,3024240]]'
 religion_or_worldview:
-  - "[[_Standards/WikiData/WD~Eastern_Orthodoxy,3333484]]"
-  - "[[_Standards/WikiData/WD~Catholic_Church,9592]]"
+  - '[[_Standards/WikiData/WD~Eastern_Orthodoxy,3333484]]'
+  - '[[_Standards/WikiData/WD~Catholic_Church,9592]]'
 inception: 1204-01-01T00:00:00Z
 official_language:
-  - "[[_Standards/WikiData/WD~Latin,397]]"
-  - "[[_Standards/WikiData/WD~Old_French,35222]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~monarchy,7269]]"
-official_religion: "[[_Standards/WikiData/WD~Catholic_Church,9592]]"
-capital: "[[_Standards/WikiData/WD~Constantinople,16869]]"
+  - '[[_Standards/WikiData/WD~Latin,397]]'
+  - '[[_Standards/WikiData/WD~Old_French,35222]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~monarchy,7269]]'
+official_religion: '[[_Standards/WikiData/WD~Catholic_Church,9592]]'
+capital: '[[_Standards/WikiData/WD~Constantinople,16869]]'
 continent:
-  - "[[_Standards/WikiData/WD~Europe,46]]"
-  - "[[_Standards/WikiData/WD~Asia,48]]"
-language_used: "[[_Standards/WikiData/WD~Medieval_Greek,36387]]"
+  - '[[_Standards/WikiData/WD~Europe,46]]'
+  - '[[_Standards/WikiData/WD~Asia,48]]'
+language_used: '[[_Standards/WikiData/WD~Medieval_Greek,36387]]'
 OmegaWiki_Defined_Meaning: 1310434
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/LatinEmpire.png
 Commons_category: Latin Empire
 dissolved_abolished_or_demolished_date: 1261-01-01T00:00:00Z
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../../../WikiData/WD~Latin_Empire,178897]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1204-Latin_Empire+1261|1204-Latin_Empire+1261]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1204-Latin_Empire+1261.public|1204-Latin_Empire+1261.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1204-Latin_Empire+1261.internal|1204-Latin_Empire+1261.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1204-Latin_Empire+1261.protect|1204-Latin_Empire+1261.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1204-Latin_Empire+1261.private|1204-Latin_Empire+1261.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1204-Latin_Empire+1261.personal|1204-Latin_Empire+1261.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1204-Latin_Empire+1261.secret|1204-Latin_Empire+1261.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../../../WikiData/WD~Latin_Empire,178897]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1204-Latin_Empire+1261|1204-Latin_Empire+1261]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1204-Latin_Empire+1261.public|1204-Latin_Empire+1261.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1204-Latin_Empire+1261.internal|1204-Latin_Empire+1261.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1204-Latin_Empire+1261.protect|1204-Latin_Empire+1261.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1204-Latin_Empire+1261.private|1204-Latin_Empire+1261.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1204-Latin_Empire+1261.personal|1204-Latin_Empire+1261.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages+1300/CE_1200/1204-Latin_Empire+1261.secret|1204-Latin_Empire+1261.secret]]"
 ---
 
 # [[1204-Latin_Empire+1261]] 

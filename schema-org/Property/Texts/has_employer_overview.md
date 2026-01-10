@@ -11,70 +11,40 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - employer
   - overview
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_employer_overview
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_employer_overview
 type: Pred_Text
-dv_has_:
-  text_of_:
-    employer_overview: Text
-  domain: JobPosting
-dv_has_text_of_employer_overview: Text
-dv_is_:
-  part_of: "pending:"
-  same_as:
-    - "[[/_Standards/schema-org/Property/Texts/has_employer_overview|has_employer_overview]]"
-    - "[[/_public/schema-org/Property/Texts/has_employer_overview.public|has_employer_overview.public]]"
-    - "[[/_internal/schema-org/Property/Texts/has_employer_overview.internal|has_employer_overview.internal]]"
-    - "[[/_protect/schema-org/Property/Texts/has_employer_overview.protect|has_employer_overview.protect]]"
-    - "[[/_private/schema-org/Property/Texts/has_employer_overview.private|has_employer_overview.private]]"
-    - "[[/_personal/schema-org/Property/Texts/has_employer_overview.personal|has_employer_overview.personal]]"
-    - "[[/_secret/schema-org/Property/Texts/has_employer_overview.secret|has_employer_overview.secret]]"
-dv_#has_:
-  name: has_text_of_employer_overview
-  range: Text
-dv_is_part_of: "pending:"
-dv_has_domain: JobPosting
-dv_has_name: has_text_of_employer_overview
-dv_has_range: Text
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_employer_overview|has_employer_overview]]"
-  - "[[/_public/schema-org/Property/Texts/has_employer_overview.public|has_employer_overview.public]]"
-  - "[[/_internal/schema-org/Property/Texts/has_employer_overview.internal|has_employer_overview.internal]]"
-  - "[[/_protect/schema-org/Property/Texts/has_employer_overview.protect|has_employer_overview.protect]]"
-  - "[[/_private/schema-org/Property/Texts/has_employer_overview.private|has_employer_overview.private]]"
-  - "[[/_personal/schema-org/Property/Texts/has_employer_overview.personal|has_employer_overview.personal]]"
-  - "[[/_secret/schema-org/Property/Texts/has_employer_overview.secret|has_employer_overview.secret]]"
 ---
 
 Predicate to describe the Text of JobPosting.
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use it like this: 
-- has_text_of_employer_overview = `=this.dv_has_text_of_employer_overview`  
-- has_text_of_employer_overview = `=this.dv_has_text_of_employer_overview`  
+- [has_/text_of_/employer_overview :: Text ] 
+- [ has_text_of_employer_overview :: Text ] 
 
 A description of the employer, career opportunities and work environment for this position.
 
 Predicated describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: JobPosting  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_text_of_employer_overview )
+( #has_/range :: Text )
 
 
 ## Confidential Links & Embeds: 

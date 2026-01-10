@@ -9,68 +9,39 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - toc_continuation
   - toc
   - continuation
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_toc_continuation
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_toc_continuation
 type: Predi_Relation
-dv_has_:
-  toc_continuation: HyperTocEntry
-  domain: HyperTocEntry
-dv_has_toc_continuation: HyperTocEntry
-dv_is_:
-  part_of: "pending:"
-  same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_toc_continuation|has_toc_continuation]]"
-    - "[[/_public/schema-org/Relation/has/has_toc_continuation.public|has_toc_continuation.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_toc_continuation.internal|has_toc_continuation.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_toc_continuation.protect|has_toc_continuation.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_toc_continuation.private|has_toc_continuation.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_toc_continuation.personal|has_toc_continuation.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_toc_continuation.secret|has_toc_continuation.secret]]"
-dv_#has_:
-  name: is_toc_continuation
-  range: HyperTocEntry
-dv_is_part_of: "pending:"
-dv_has_domain: HyperTocEntry
-dv_has_name: is_toc_continuation
-dv_has_range: HyperTocEntry
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_toc_continuation|has_toc_continuation]]"
-  - "[[/_public/schema-org/Relation/has/has_toc_continuation.public|has_toc_continuation.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_toc_continuation.internal|has_toc_continuation.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_toc_continuation.protect|has_toc_continuation.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_toc_continuation.private|has_toc_continuation.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_toc_continuation.personal|has_toc_continuation.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_toc_continuation.secret|has_toc_continuation.secret]]"
 ---
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use it like this: 
-- has_toc_continuation = `=this.dv_has_toc_continuation`  
-- has_toc_continuation = `=this.dv_has_toc_continuation`  
+- [has_/toc_continuation :: HyperTocEntry ] 
+- [ has_toc_continuation :: HyperTocEntry ] 
 
 A [[HyperTocEntry]] can have a [[tocContinuation]] indicated, which is another [[HyperTocEntry]] that would be the default next item to play or render.
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: HyperTocEntry  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: is_toc_continuation )
+( #has_/range :: HyperTocEntry )
 
 
 ## Confidential Links & Embeds: 

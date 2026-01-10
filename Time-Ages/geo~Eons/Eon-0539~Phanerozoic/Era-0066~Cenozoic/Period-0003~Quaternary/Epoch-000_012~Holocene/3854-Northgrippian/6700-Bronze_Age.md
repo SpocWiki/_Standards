@@ -6,65 +6,37 @@ aliases:
 has_id_wikidata: Q11761
 Commons_category: Bronze Age
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-different_from: "[[_Standards/WikiData/WD~Bronze_age,67484121]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+different_from: '[[_Standards/WikiData/WD~Bronze_age,67484121]]'
 EAGLE_id: dates/lod/13
 end_time:
-  - -299
-  - -599
+  - -0299
+  - -0599
   - -1199
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Minoan%20copper%20ingot%20from%20Zakros%2C%20Crete.jpg
-instance_of: "[[_Standards/WikiData/WD~archaeological_age,15401699]]"
+instance_of: '[[_Standards/WikiData/WD~archaeological_age,15401699]]'
 Krugosvet_article: istoriya/BRONZOVI_VEK.html
-named_after: "[[_Standards/WikiData/WD~bronze,34095]]"
+named_after: '[[_Standards/WikiData/WD~bronze,34095]]'
 OmegaWiki_Defined_Meaning: 846334
 OpenStreetMap_tag_or_key: Tag:historic:period=bronze-age
 start_time:
   - -3099
   - -3199
   - -3299
-subclass_of: "[[_Standards/WikiData/WD~prehistory,11756]]"
-dv_has_:
-  time_:
-    started: -3300
-    stopped: -1200
-  duration_: 2100
-dv_is_:
-  same_as:
-    - "[[../../../../../../../WikiData/WD~Bronze_Age,11761|WD~Bronze_Age,11761]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6700-Bronze_Age|6700-Bronze_Age]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6700-Bronze_Age.public|6700-Bronze_Age.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6700-Bronze_Age.internal|6700-Bronze_Age.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6700-Bronze_Age.protect|6700-Bronze_Age.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6700-Bronze_Age.private|6700-Bronze_Age.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6700-Bronze_Age.personal|6700-Bronze_Age.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6700-Bronze_Age.secret|6700-Bronze_Age.secret]]"
-dv_has_time_started: -3300
-dv_has_time_stopped: -1200
-dv_has_duration_years: 2100
-dv_has_duration_: 2100
-dv_is_same_as:
-  - "[[../../../../../../../WikiData/WD~Bronze_Age,11761|WD~Bronze_Age,11761]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6700-Bronze_Age|6700-Bronze_Age]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6700-Bronze_Age.public|6700-Bronze_Age.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6700-Bronze_Age.internal|6700-Bronze_Age.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6700-Bronze_Age.protect|6700-Bronze_Age.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6700-Bronze_Age.private|6700-Bronze_Age.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6700-Bronze_Age.personal|6700-Bronze_Age.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/3854-Northgrippian/6700-Bronze_Age.secret|6700-Bronze_Age.secret]]"
+subclass_of: '[[_Standards/WikiData/WD~prehistory,11756]]'
 ---
 
 # [[Bronze-Age]] 
 
 #is_a_/time_/Culture 
 
-has_time_started = `=this.dv_has_time_started` 
-has_time_stopped = `=this.dv_has_time_stopped` 
+#has_/time_/started :: -3300 
+#has_/time_/stopped :: -1200 
 
-#has_/duration_/years :: `$=Math.round(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started))` 
-#has_/duration_ :: `=default(this.dv_has_time_stopped, date(now).year) - this.dv_has_time_started` 
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started))` 
+#has_/duration_ :: `=default(this.has_time_stopped, date(now).year) - this.has_time_started` 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Bronze_Age,11761|WD~Bronze_Age,11761]] 
 

@@ -9,68 +9,39 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - super_event
   - super
   - event
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_super_event
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_super_event
 type: Predi_Relation
-dv_has_:
-  super_event: Event
-  domain: Event
-dv_has_super_event: Event
-dv_#has_:
-  name: is_super_event
-  range: Event
-dv_is_:
-  inverse_of: subEvent
-  same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_super_event|has_super_event]]"
-    - "[[/_public/schema-org/Relation/has/has_super_event.public|has_super_event.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_super_event.internal|has_super_event.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_super_event.protect|has_super_event.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_super_event.private|has_super_event.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_super_event.personal|has_super_event.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_super_event.secret|has_super_event.secret]]"
-dv_has_domain: Event
-dv_has_name: is_super_event
-dv_has_range: Event
-dv_is_inverse_of: subEvent
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_super_event|has_super_event]]"
-  - "[[/_public/schema-org/Relation/has/has_super_event.public|has_super_event.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_super_event.internal|has_super_event.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_super_event.protect|has_super_event.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_super_event.private|has_super_event.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_super_event.personal|has_super_event.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_super_event.secret|has_super_event.secret]]"
 ---
 
 Use it like this: 
-- has_super_event = `=this.dv_has_super_event`  
-- has_super_event = `=this.dv_has_super_event`  
+- [has_/super_event :: Event ] 
+- [ has_super_event :: Event ] 
 
 An event that this event is a part of. For example, a collection of individual music performances might each have a music festival as their superEvent.
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: Event  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: is_super_event )
+( #has_/range :: Event )
 
-is_inverse_of = `=this.dv_is_inverse_of` 
+#is_/inverse_of  :: subEvent  
 
 ## Confidential Links & Embeds: 
 

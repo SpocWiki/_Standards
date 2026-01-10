@@ -2,27 +2,8 @@
 aliases:
   - Fall_of_the_western_Roman_Empire
   - fall of the Western Roman Empire
-  - fall of the Roman Empire
+  - fall of the Roman Empire 
   - fall of Rome
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../../WikiData/WD~Fall_of_the_western_Roman_Empire,608613|WD~Fall_of_the_western_Roman_Empire,608613]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Fall_of_the_western_Roman_Empire|0476-Fall_of_the_western_Roman_Empire]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Fall_of_the_western_Roman_Empire.public|0476-Fall_of_the_western_Roman_Empire.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Fall_of_the_western_Roman_Empire.internal|0476-Fall_of_the_western_Roman_Empire.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Fall_of_the_western_Roman_Empire.protect|0476-Fall_of_the_western_Roman_Empire.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Fall_of_the_western_Roman_Empire.private|0476-Fall_of_the_western_Roman_Empire.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Fall_of_the_western_Roman_Empire.personal|0476-Fall_of_the_western_Roman_Empire.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Fall_of_the_western_Roman_Empire.secret|0476-Fall_of_the_western_Roman_Empire.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Fall_of_the_western_Roman_Empire,608613|WD~Fall_of_the_western_Roman_Empire,608613]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Fall_of_the_western_Roman_Empire|0476-Fall_of_the_western_Roman_Empire]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Fall_of_the_western_Roman_Empire.public|0476-Fall_of_the_western_Roman_Empire.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Fall_of_the_western_Roman_Empire.internal|0476-Fall_of_the_western_Roman_Empire.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Fall_of_the_western_Roman_Empire.protect|0476-Fall_of_the_western_Roman_Empire.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Fall_of_the_western_Roman_Empire.private|0476-Fall_of_the_western_Roman_Empire.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Fall_of_the_western_Roman_Empire.personal|0476-Fall_of_the_western_Roman_Empire.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Fall_of_the_western_Roman_Empire.secret|0476-Fall_of_the_western_Roman_Empire.secret]]"
 ---
 
 # [[0476-Fall_of_the_western_Roman_Empire]] 

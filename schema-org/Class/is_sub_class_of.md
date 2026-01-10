@@ -18,57 +18,24 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
-keywords: ""
-layout: ""
+keywords: ''
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_subclass_of
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - schema-org/Relation
 title: is_subclass_of
 type: Predi_Relation
-dv_is_:
-  sub_class_of: Class
-  similar_to: "[[../../W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RDF~Relations/rdfs~subClassOf|rdfs~subClassOf]]"
-  inverse_of: "[[has_sub_classes]]"
-  better_than: "[[../Relation/is_similar_to|is_similar_to]]"
-  same_as:
-    - "[[/_Standards/schema-org/Class/is_sub_class_of|is_sub_class_of]]"
-    - "[[/_public/schema-org/Class/is_sub_class_of.public|is_sub_class_of.public]]"
-    - "[[/_internal/schema-org/Class/is_sub_class_of.internal|is_sub_class_of.internal]]"
-    - "[[/_protect/schema-org/Class/is_sub_class_of.protect|is_sub_class_of.protect]]"
-    - "[[/_private/schema-org/Class/is_sub_class_of.private|is_sub_class_of.private]]"
-    - "[[/_personal/schema-org/Class/is_sub_class_of.personal|is_sub_class_of.personal]]"
-    - "[[/_secret/schema-org/Class/is_sub_class_of.secret|is_sub_class_of.secret]]"
-dv_is_sub_class_of: Class
-dv_has_:
-  domain: "[Class](../../Classes.md)"
-dv_#has_:
-  name: "[is_subclass_of](is_sub_class_of.md)"
-  range: "[Class](../../Classes.md)"
-dv_is_similar_to: "[[../../W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RDF~Relations/rdfs~subClassOf|rdfs~subClassOf]]"
-dv_is_inverse_of: "[[has_sub_classes]]"
-dv_is_better_than: "[[../Relation/is_similar_to|is_similar_to]]"
-dv_has_domain: "[Class](../../Classes.md)"
-dv_has_name: "[is_subclass_of](is_sub_class_of.md)"
-dv_has_range: "[Class](../../Classes.md)"
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Class/is_sub_class_of|is_sub_class_of]]"
-  - "[[/_public/schema-org/Class/is_sub_class_of.public|is_sub_class_of.public]]"
-  - "[[/_internal/schema-org/Class/is_sub_class_of.internal|is_sub_class_of.internal]]"
-  - "[[/_protect/schema-org/Class/is_sub_class_of.protect|is_sub_class_of.protect]]"
-  - "[[/_private/schema-org/Class/is_sub_class_of.private|is_sub_class_of.private]]"
-  - "[[/_personal/schema-org/Class/is_sub_class_of.personal|is_sub_class_of.personal]]"
-  - "[[/_secret/schema-org/Class/is_sub_class_of.secret|is_sub_class_of.secret]]"
 ---
 
-is_similar_to = `=this.dv_is_similar_to` 
-is_inverse_of = `=this.dv_is_inverse_of` 
-is_better_than = `=this.dv_is_better_than` 
+#is_/similar_to :: [[../../W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RDF~Relations/rdfs~subClassOf|rdfs~subClassOf]] 
+#is_/inverse_of  :: [[has_sub_classes]]
+#is_/better_than :: [[../Relation/is_similar_to|is_similar_to]] 
 
 Relates a subclass to its super-class. 
 Alternative, better readable Name: is_a_kind_of similar to `#is_a_` 
@@ -76,15 +43,15 @@ Could be implemented with dedicated #Tags,
 but that would create a Tag-Proliferation. 
 
 Use it like this: 
-- is_sub_class_of = `=this.dv_is_sub_class_of`  
-- is_sub_class_of = `=this.dv_is_sub_class_of`  
+- [is_/sub_class_of :: Class] 
+- [ is_sub_class_of :: Class] 
 
 [[../Relation|Relation]] describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: [Class](../../Classes.md) 
 
-has_name = `=this.dv_has_name` )
-has_range = `=this.dv_has_range` )
+( #has_/name :: [is_subclass_of](is_sub_class_of.md))
+( #has_/range :: [Class](../../Classes.md))
 
 ### Definitions
 

@@ -19,25 +19,6 @@ point_in_time: 1814-05-30T00:00:00Z
 title: Traité de paix signé à Paris le 30 mai 1814, et traités et conventions signés dans la même ville le 20 novembre 1815
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Franz%20Stassen%20-%20Treaty%20of%20Paris%20in%201814.png
 Commons_category: Treaty of Paris, 1814
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../WikiData/WD~Treaty_of_Paris,740724|WD~Treaty_of_Paris,740724]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1814-Treaty_of_Paris|1814-Treaty_of_Paris]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1814-Treaty_of_Paris.public|1814-Treaty_of_Paris.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1814-Treaty_of_Paris.internal|1814-Treaty_of_Paris.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1814-Treaty_of_Paris.protect|1814-Treaty_of_Paris.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1814-Treaty_of_Paris.private|1814-Treaty_of_Paris.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1814-Treaty_of_Paris.personal|1814-Treaty_of_Paris.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1814-Treaty_of_Paris.secret|1814-Treaty_of_Paris.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Treaty_of_Paris,740724|WD~Treaty_of_Paris,740724]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1814-Treaty_of_Paris|1814-Treaty_of_Paris]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1814-Treaty_of_Paris.public|1814-Treaty_of_Paris.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1814-Treaty_of_Paris.internal|1814-Treaty_of_Paris.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1814-Treaty_of_Paris.protect|1814-Treaty_of_Paris.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1814-Treaty_of_Paris.private|1814-Treaty_of_Paris.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1814-Treaty_of_Paris.personal|1814-Treaty_of_Paris.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1814-Treaty_of_Paris.secret|1814-Treaty_of_Paris.secret]]"
 ---
 
 # [[1814-Treaty_of_Paris]] 

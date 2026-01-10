@@ -9,7 +9,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,52 +17,23 @@ keywords:
   - legislation
   - legal
   - value
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_legislation_legal_value
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_legislation_legal_value
 type: Predi_Relation
-dv_has_:
-  legislation_legal_value: LegalValueLevel
-  domain: LegislationObject
-dv_has_legislation_legal_value: LegalValueLevel
-dv_is_:
-  part_of: "pending:"
-  same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_legislation_legal_value|has_legislation_legal_value]]"
-    - "[[/_public/schema-org/Relation/has/has_legislation_legal_value.public|has_legislation_legal_value.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_legislation_legal_value.internal|has_legislation_legal_value.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_legislation_legal_value.protect|has_legislation_legal_value.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_legislation_legal_value.private|has_legislation_legal_value.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_legislation_legal_value.personal|has_legislation_legal_value.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_legislation_legal_value.secret|has_legislation_legal_value.secret]]"
-dv_#has_:
-  name: has_legislation_legal_value
-  range: LegalValueLevel
-dv_is_part_of: "pending:"
-dv_has_domain: LegislationObject
-dv_has_name: has_legislation_legal_value
-dv_has_range: LegalValueLevel
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_legislation_legal_value|has_legislation_legal_value]]"
-  - "[[/_public/schema-org/Relation/has/has_legislation_legal_value.public|has_legislation_legal_value.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_legislation_legal_value.internal|has_legislation_legal_value.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_legislation_legal_value.protect|has_legislation_legal_value.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_legislation_legal_value.private|has_legislation_legal_value.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_legislation_legal_value.personal|has_legislation_legal_value.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_legislation_legal_value.secret|has_legislation_legal_value.secret]]"
 ---
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use it like this: 
-- has_legislation_legal_value = `=this.dv_has_legislation_legal_value`  
-- has_legislation_legal_value = `=this.dv_has_legislation_legal_value`  
+- [has_/legislation_legal_value :: LegalValueLevel ] 
+- [ has_legislation_legal_value :: LegalValueLevel ] 
 
 The legal value of this legislation file.
 The same legislation can be written in multiple files with different legal values.
@@ -70,10 +41,10 @@ Typically a digitally signed PDF have a "stronger" legal value than the HTML fil
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: LegislationObject  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_legislation_legal_value )
+( #has_/range :: LegalValueLevel )
 
 
 ## Confidential Links & Embeds: 

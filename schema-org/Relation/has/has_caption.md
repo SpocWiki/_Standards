@@ -7,66 +7,37 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - caption
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_caption
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_caption
 type: Predi_Relation
-dv_has_:
-  caption: MediaObject, Text
-  domain: AudioObject, ImageObject, VideoObject
-  sub_properties: "[ embeddedTextCaption ]"
-dv_has_caption: MediaObject, Text
-dv_#has_:
-  name: has_caption
-  range: MediaObject, Text
-dv_is_:
-  same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_caption|has_caption]]"
-    - "[[/_public/schema-org/Relation/has/has_caption.public|has_caption.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_caption.internal|has_caption.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_caption.protect|has_caption.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_caption.private|has_caption.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_caption.personal|has_caption.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_caption.secret|has_caption.secret]]"
-dv_has_domain: AudioObject, ImageObject, VideoObject
-dv_has_name: has_caption
-dv_has_range: MediaObject, Text
-dv_has_sub_properties: "[ embeddedTextCaption ]"
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_caption|has_caption]]"
-  - "[[/_public/schema-org/Relation/has/has_caption.public|has_caption.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_caption.internal|has_caption.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_caption.protect|has_caption.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_caption.private|has_caption.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_caption.personal|has_caption.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_caption.secret|has_caption.secret]]"
 ---
 
 Use it like this: 
-- has_caption = `=this.dv_has_caption`  
-- has_caption = `=this.dv_has_caption`  
+- [has_/caption :: MediaObject, Text ] 
+- [ has_caption :: MediaObject, Text ] 
 
 The caption for this object. For downloadable machine formats (closed caption, subtitles etc.) use MediaObject and indicate the [[encodingFormat]].
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: AudioObject, ImageObject, VideoObject  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_caption )
+( #has_/range :: MediaObject, Text )
 
-has_sub_properties = `=this.dv_has_sub_properties` 
+#has_/sub_properties :: [ embeddedTextCaption ]  
 
 ## Confidential Links & Embeds: 
 

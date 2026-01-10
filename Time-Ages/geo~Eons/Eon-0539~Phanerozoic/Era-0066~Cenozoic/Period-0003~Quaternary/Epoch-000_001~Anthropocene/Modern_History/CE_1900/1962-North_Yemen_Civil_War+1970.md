@@ -40,25 +40,6 @@ end_time: 1970-12-01T00:00:00Z
 start_time: 1962-09-26T00:00:00Z
 Commons_category: North Yemen Civil War
 image: http://commons.wikimedia.org/wiki/Special:FilePath/North%20Yemen%20Civil%20War.jpg
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../WikiData/WD~North_Yemen_civil_war,521199]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1962-North_Yemen_Civil_War+1970|1962-North_Yemen_Civil_War+1970]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1962-North_Yemen_Civil_War+1970.public|1962-North_Yemen_Civil_War+1970.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1962-North_Yemen_Civil_War+1970.internal|1962-North_Yemen_Civil_War+1970.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1962-North_Yemen_Civil_War+1970.protect|1962-North_Yemen_Civil_War+1970.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1962-North_Yemen_Civil_War+1970.private|1962-North_Yemen_Civil_War+1970.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1962-North_Yemen_Civil_War+1970.personal|1962-North_Yemen_Civil_War+1970.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1962-North_Yemen_Civil_War+1970.secret|1962-North_Yemen_Civil_War+1970.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~North_Yemen_civil_war,521199]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1962-North_Yemen_Civil_War+1970|1962-North_Yemen_Civil_War+1970]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1962-North_Yemen_Civil_War+1970.public|1962-North_Yemen_Civil_War+1970.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1962-North_Yemen_Civil_War+1970.internal|1962-North_Yemen_Civil_War+1970.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1962-North_Yemen_Civil_War+1970.protect|1962-North_Yemen_Civil_War+1970.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1962-North_Yemen_Civil_War+1970.private|1962-North_Yemen_Civil_War+1970.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1962-North_Yemen_Civil_War+1970.personal|1962-North_Yemen_Civil_War+1970.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1962-North_Yemen_Civil_War+1970.secret|1962-North_Yemen_Civil_War+1970.secret]]"
 ---
 
 # [[1962-North_Yemen_Civil_War+1970]] 

@@ -1,14 +1,12 @@
 ---
-location:
-  - 88.7311
-  - 23.9888
+location: [ 88.7311 , 23.9888 ] 
 aliases:
   - Great Bengal famine of 1770
   - 1770_Great_Bengal_famine
   - 1770 Great Bengal famine
 has_id_wikidata: Q2477522
-locations: "[[_Standards/WikiData/WD~Bengal,80338]]"
-instance_of: "[[_Standards/WikiData/WD~famine,168247]]"
+locations: '[[_Standards/WikiData/WD~Bengal,80338]]'
+instance_of: '[[_Standards/WikiData/WD~famine,168247]]'
 number_of_deaths:
   - 10000000
   - 7000000
@@ -16,25 +14,6 @@ coordinate_location: Point(88.7311 23.9888)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Distressed%20Natives%20Going%20to%20the%20Relief%20Works%20-%20The%20Graphic%201874.jpg
 end_time: 1773-01-01T00:00:00Z
 start_time: 1767-01-01T00:00:00Z
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../WikiData/WD~Great_Bengal_famine_of_1770,2477522|WD~Great_Bengal_famine_of_1770,2477522]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1770_Great_Bengal_famine|1770_Great_Bengal_famine]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1770_Great_Bengal_famine.public|1770_Great_Bengal_famine.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1770_Great_Bengal_famine.internal|1770_Great_Bengal_famine.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1770_Great_Bengal_famine.protect|1770_Great_Bengal_famine.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1770_Great_Bengal_famine.private|1770_Great_Bengal_famine.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1770_Great_Bengal_famine.personal|1770_Great_Bengal_famine.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1770_Great_Bengal_famine.secret|1770_Great_Bengal_famine.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Great_Bengal_famine_of_1770,2477522|WD~Great_Bengal_famine_of_1770,2477522]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1770_Great_Bengal_famine|1770_Great_Bengal_famine]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1770_Great_Bengal_famine.public|1770_Great_Bengal_famine.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1770_Great_Bengal_famine.internal|1770_Great_Bengal_famine.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1770_Great_Bengal_famine.protect|1770_Great_Bengal_famine.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1770_Great_Bengal_famine.private|1770_Great_Bengal_famine.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1770_Great_Bengal_famine.personal|1770_Great_Bengal_famine.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1770_Great_Bengal_famine.secret|1770_Great_Bengal_famine.secret]]"
 ---
 
 # [[1770_Great_Bengal_famine]]

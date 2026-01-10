@@ -13,67 +13,38 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - subject
   - of
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_subject_of
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: is_subject_of
 type: Predi_Relation
-dv_is_:
-  subject_of: CreativeWork, Event
-  inverse_of: "[is_about](../is/is_about.md)"
-  same_as:
-    - "[[/_Standards/schema-org/Relation/is/is_subject_of|is_subject_of]]"
-    - "[[/_public/schema-org/Relation/is/is_subject_of.public|is_subject_of.public]]"
-    - "[[/_internal/schema-org/Relation/is/is_subject_of.internal|is_subject_of.internal]]"
-    - "[[/_protect/schema-org/Relation/is/is_subject_of.protect|is_subject_of.protect]]"
-    - "[[/_private/schema-org/Relation/is/is_subject_of.private|is_subject_of.private]]"
-    - "[[/_personal/schema-org/Relation/is/is_subject_of.personal|is_subject_of.personal]]"
-    - "[[/_secret/schema-org/Relation/is/is_subject_of.secret|is_subject_of.secret]]"
-dv_is_subject_of: CreativeWork, Event
-dv_has_:
-  domain: "[Thing](../../../Class/Thing.md)"
-dv_#has_:
-  name: is_subject_of
-  range: CreativeWork, Event
-dv_has_domain: "[Thing](../../../Class/Thing.md)"
-dv_has_name: is_subject_of
-dv_has_range: CreativeWork, Event
-dv_is_inverse_of: "[is_about](../is/is_about.md)"
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/is/is_subject_of|is_subject_of]]"
-  - "[[/_public/schema-org/Relation/is/is_subject_of.public|is_subject_of.public]]"
-  - "[[/_internal/schema-org/Relation/is/is_subject_of.internal|is_subject_of.internal]]"
-  - "[[/_protect/schema-org/Relation/is/is_subject_of.protect|is_subject_of.protect]]"
-  - "[[/_private/schema-org/Relation/is/is_subject_of.private|is_subject_of.private]]"
-  - "[[/_personal/schema-org/Relation/is/is_subject_of.personal|is_subject_of.personal]]"
-  - "[[/_secret/schema-org/Relation/is/is_subject_of.secret|is_subject_of.secret]]"
 ---
 
 Use it like this: 
-- is_subject_of = `=this.dv_is_subject_of`  
-- is_subject_of = `=this.dv_is_subject_of`  
+- [is_/subject_of :: CreativeWork, Event ] 
+- [ is_subject_of :: CreativeWork, Event ] 
 
 A CreativeWork or Event about this Thing.
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: [Thing](../../../Class/Thing.md)  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: is_subject_of )
+( #has_/range :: CreativeWork, Event )
 
-is_inverse_of = `=this.dv_is_inverse_of` 
+#is_/inverse_of  :: [is_about](../is/is_about.md)  
 
 ## Confidential Links & Embeds: 
 

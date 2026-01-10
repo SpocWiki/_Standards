@@ -5,94 +5,68 @@ aliases:
   - 0750-Abbasid Caliphate
 has_id_wikidata: Q12536
 area: 11100000
-basic_form_of_government: "[[_Standards/WikiData/WD~theocracy,44405]]"
+basic_form_of_government: '[[_Standards/WikiData/WD~theocracy,44405]]'
 capital:
-  - "[[_Standards/WikiData/WD~Baghdad,1530]]"
-  - "[[_Standards/WikiData/WD~Cairo,85]]"
-  - "[[_Standards/WikiData/WD~Hashimiyya,68169717]]"
-  - "[[_Standards/WikiData/WD~Samarra,170047]]"
+  - '[[_Standards/WikiData/WD~Baghdad,1530]]'
+  - '[[_Standards/WikiData/WD~Cairo,85]]'
+  - '[[_Standards/WikiData/WD~Hashimiyya,68169717]]'
+  - '[[_Standards/WikiData/WD~Samarra,170047]]'
 Commons_category: Abbasid Caliphate
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
+continent: '[[_Standards/WikiData/WD~Asia,48]]'
 culture:
-  - "[[_Standards/WikiData/WD~culture_of_Iran,953291]]"
-  - "[[_Standards/WikiData/WD~Islamic_culture,1340372]]"
+  - '[[_Standards/WikiData/WD~culture_of_Iran,953291]]'
+  - '[[_Standards/WikiData/WD~Islamic_culture,1340372]]'
 currency:
-  - "[[_Standards/WikiData/WD~Dirham,572664]]"
-  - "[[_Standards/WikiData/WD~gold_dinar,11220294]]"
+  - '[[_Standards/WikiData/WD~Dirham,572664]]'
+  - '[[_Standards/WikiData/WD~gold_dinar,11220294]]'
 described_by_source:
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
 dissolved_abolished_or_demolished_date: 1258-02-17
-family: "[[_Standards/WikiData/WD~Abbasids,4437641]]"
+family: '[[_Standards/WikiData/WD~Abbasids,4437641]]'
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Black%20flag.svg
 followed_by:
-  - "[[_Standards/WikiData/WD~Ilkhanate,178084]]"
-  - "[[_Standards/WikiData/WD~Fatimid_Caliphate,160307]]"
-  - "[[_Standards/WikiData/WD~Tulunid_emirate,4147013]]"
-follows: "[[_Standards/WikiData/WD~Umayyad_Caliphate,8575586]]"
-founded_by: "[[_Standards/WikiData/WD~As-Saffah,252087]]"
+  - '[[_Standards/WikiData/WD~Ilkhanate,178084]]'
+  - '[[_Standards/WikiData/WD~Fatimid_Caliphate,160307]]'
+  - '[[_Standards/WikiData/WD~Tulunid_emirate,4147013]]'
+follows: '[[_Standards/WikiData/WD~Umayyad_Caliphate,8575586]]'
+founded_by: '[[_Standards/WikiData/WD~As-Saffah,252087]]'
 has_time_started: 0750-06
 has_time_stopped: 1258-02-17
-head_of_state: "[[_Standards/WikiData/WD~As-Saffah,252087]]"
-inception: 750
-instance_of: "[[_Standards/WikiData/WD~historical_country,3024240]]"
+head_of_state: '[[_Standards/WikiData/WD~As-Saffah,252087]]'
+inception: 0750
+instance_of: '[[_Standards/WikiData/WD~historical_country,3024240]]'
 language_used:
-  - "[[_Standards/WikiData/WD~Arabic,13955]]"
-  - "[[_Standards/WikiData/WD~Persian,9168]]"
+  - '[[_Standards/WikiData/WD~Arabic,13955]]'
+  - '[[_Standards/WikiData/WD~Persian,9168]]'
 locator_map_image:
-  - "http: //commons.wikimedia.org/wiki/Special:FilePath/Abbasid%20Caliphate%20850AD-ar.png"
+  - 'http: //commons.wikimedia.org/wiki/Special:FilePath/Abbasid%20Caliphate%20850AD-ar.png'
   - http://commons.wikimedia.org/wiki/Special:FilePath/Abbasid%20Caliphate%20850AD.png
 main_regulatory_text:
-  - "[[_Standards/WikiData/WD~Qur_an,428]]"
-  - "[[_Standards/WikiData/WD~sharia,482752]]"
-  - "[[_Standards/WikiData/WD~Sunnah,234764]]"
-named_after: "[[_Standards/WikiData/WD~Abbas_ibn_Abd_al-Muttalib,293599]]"
+  - '[[_Standards/WikiData/WD~Qur_an,428]]'
+  - '[[_Standards/WikiData/WD~sharia,482752]]'
+  - '[[_Standards/WikiData/WD~Sunnah,234764]]'
+named_after: '[[_Standards/WikiData/WD~Abbas_ibn_Abd_al-Muttalib,293599]]'
 native_label: الدولة العبَّاسيَّة
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~Abbasid_caliph,28541943]]"
-official_language: "[[_Standards/WikiData/WD~Arabic,13955]]"
-position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Abbasid_caliph,28541943]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Islam,432]]"
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~Abbasid_caliph,28541943]]'
+official_language: '[[_Standards/WikiData/WD~Arabic,13955]]'
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~Abbasid_caliph,28541943]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Islam,432]]'
 replaced_by:
-  - "[[_Standards/WikiData/WD~Fatimid_Caliphate,160307]]"
-  - "[[_Standards/WikiData/WD~Mamluk_Sultanate,282428]]"
-  - "[[_Standards/WikiData/WD~Ottoman_Empire,12560]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Q42351353,42351353]]"
+  - '[[_Standards/WikiData/WD~Fatimid_Caliphate,160307]]'
+  - '[[_Standards/WikiData/WD~Mamluk_Sultanate,282428]]'
+  - '[[_Standards/WikiData/WD~Ottoman_Empire,12560]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q42351353,42351353]]'
 Wolfram_Language_entity_code: Entity["HistoricalCountry", "AbbasidCaliphate"]
-dv_has_:
-  previous_: "[[../../../../../../../../../Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/0661-Umayyad Caliphate+0750|0661-Umayyad Caliphate+0750]]"
-  time_:
-    started: 0750-06-01T00:00:00.000+00:53
-    stopped: 1258-02-17T00:00:00.000+00:53
-  duration_: P507Y8M2W2D
-dv_is_:
-  same_as:
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0750-Abbasid_Caliphate|0750-Abbasid_Caliphate]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0750-Abbasid_Caliphate.public|0750-Abbasid_Caliphate.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0750-Abbasid_Caliphate.internal|0750-Abbasid_Caliphate.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0750-Abbasid_Caliphate.protect|0750-Abbasid_Caliphate.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0750-Abbasid_Caliphate.private|0750-Abbasid_Caliphate.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0750-Abbasid_Caliphate.personal|0750-Abbasid_Caliphate.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0750-Abbasid_Caliphate.secret|0750-Abbasid_Caliphate.secret]]"
-dv_has_previous_: "[[../../../../../../../../../Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/0661-Umayyad Caliphate+0750|0661-Umayyad Caliphate+0750]]"
-dv_has_duration_years: 508
-dv_has_duration_: P507Y8M2W2D
-dv_is_same_as:
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0750-Abbasid_Caliphate|0750-Abbasid_Caliphate]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0750-Abbasid_Caliphate.public|0750-Abbasid_Caliphate.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0750-Abbasid_Caliphate.internal|0750-Abbasid_Caliphate.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0750-Abbasid_Caliphate.protect|0750-Abbasid_Caliphate.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0750-Abbasid_Caliphate.private|0750-Abbasid_Caliphate.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0750-Abbasid_Caliphate.personal|0750-Abbasid_Caliphate.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0750-Abbasid_Caliphate.secret|0750-Abbasid_Caliphate.secret]]"
 ---
 
 # [[0750-Abbasid_Caliphate]] 
 
-has_previous_ = `=this.dv_has_previous_` 
+#has_/previous_ :: [[../../../../../../../../../Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/0661-Umayyad Caliphate+0750|0661-Umayyad Caliphate+0750]] 
 #has_/time_/started :: `=this.has_time_started` 
 #has_/time_/stopped :: `=this.has_time_stopped` 
 

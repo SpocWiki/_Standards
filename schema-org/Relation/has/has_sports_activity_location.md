@@ -9,7 +9,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,61 +17,32 @@ keywords:
   - sports
   - activity
   - location
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_sports_activity_location
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_sports_activity_location
 type: Predi_Relation
-dv_has_:
-  sports_activity_location: SportsActivityLocation
-  domain: ExerciseAction
-dv_has_sports_activity_location: SportsActivityLocation
-dv_#has_:
-  name: is_sports_activity_location
-  range: SportsActivityLocation
-dv_is_:
-  sub_property_of: location
-  same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_sports_activity_location|has_sports_activity_location]]"
-    - "[[/_public/schema-org/Relation/has/has_sports_activity_location.public|has_sports_activity_location.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_sports_activity_location.internal|has_sports_activity_location.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_sports_activity_location.protect|has_sports_activity_location.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_sports_activity_location.private|has_sports_activity_location.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_sports_activity_location.personal|has_sports_activity_location.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_sports_activity_location.secret|has_sports_activity_location.secret]]"
-dv_has_domain: ExerciseAction
-dv_has_name: is_sports_activity_location
-dv_has_range: SportsActivityLocation
-dv_is_sub_property_of: location
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_sports_activity_location|has_sports_activity_location]]"
-  - "[[/_public/schema-org/Relation/has/has_sports_activity_location.public|has_sports_activity_location.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_sports_activity_location.internal|has_sports_activity_location.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_sports_activity_location.protect|has_sports_activity_location.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_sports_activity_location.private|has_sports_activity_location.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_sports_activity_location.personal|has_sports_activity_location.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_sports_activity_location.secret|has_sports_activity_location.secret]]"
 ---
 
 Use it like this: 
-- has_sports_activity_location = `=this.dv_has_sports_activity_location`  
-- has_sports_activity_location = `=this.dv_has_sports_activity_location`  
+- [has_/sports_activity_location :: SportsActivityLocation ] 
+- [ has_sports_activity_location :: SportsActivityLocation ] 
 
 A sub property of location. The sports activity location where this action occurred.
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: ExerciseAction  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: is_sports_activity_location )
+( #has_/range :: SportsActivityLocation )
 
-is_sub_property_of = `=this.dv_is_sub_property_of` 
+#is_/sub_property_of  :: location  
 
 ## Confidential Links & Embeds: 
 

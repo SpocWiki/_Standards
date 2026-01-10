@@ -51,25 +51,25 @@ dv_has_:
 dv_is_:
   same_as:
     - "[[WD~Toarcian,914363]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian|Age~4~Toarcian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian.public|Age~4~Toarcian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian.internal|Age~4~Toarcian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian.protect|Age~4~Toarcian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian.private|Age~4~Toarcian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian.personal|Age~4~Toarcian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian.secret|Age~4~Toarcian.secret]]"
+    - "[[Age~4~Toarcian]]"
+    - "[[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~4~Toarcian.public|Age~4~Toarcian.public]]"
+    - "[[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~4~Toarcian.internal|Age~4~Toarcian.internal]]"
+    - "[[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~4~Toarcian.protect|Age~4~Toarcian.protect]]"
+    - "[[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~4~Toarcian.private|Age~4~Toarcian.private]]"
+    - "[[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~4~Toarcian.personal|Age~4~Toarcian.personal]]"
+    - "[[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~4~Toarcian.secret|Age~4~Toarcian.secret]]"
 dv_has_duration_years: "9.500e+6"
 dv_has_previous_item: "[[Age~3~Pliensbachian]]"
 dv_has_next_item: "[[../Epoch-175~Middle_Jurassic/Age~1~Aalenian|Age~1~Aalenian]]"
 dv_is_same_as:
   - "[[WD~Toarcian,914363]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian|Age~4~Toarcian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian.public|Age~4~Toarcian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian.internal|Age~4~Toarcian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian.protect|Age~4~Toarcian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian.private|Age~4~Toarcian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian.personal|Age~4~Toarcian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~4~Toarcian.secret|Age~4~Toarcian.secret]]"
+  - "[[Age~4~Toarcian]]"
+  - "[[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~4~Toarcian.public|Age~4~Toarcian.public]]"
+  - "[[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~4~Toarcian.internal|Age~4~Toarcian.internal]]"
+  - "[[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~4~Toarcian.protect|Age~4~Toarcian.protect]]"
+  - "[[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~4~Toarcian.private|Age~4~Toarcian.private]]"
+  - "[[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~4~Toarcian.personal|Age~4~Toarcian.personal]]"
+  - "[[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~4~Toarcian.secret|Age~4~Toarcian.secret]]"
 dv_has_label_bg: Тоар
 dv_has_label_cs: Toark
 dv_has_label_da: Toarcien
@@ -94,6 +94,7 @@ dv_has_abbreviation: I4
 dv_has_time_started: "-184.2e6"
 dv_has_time_stopped: "-174.7e6"
 dv_has_text_of_color: "0x99CEE3"
+
 ---
 # [[Age~4~Toarcian]] 
 

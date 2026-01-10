@@ -15,62 +15,28 @@ cssclasses:
   - Predicate
   - Url
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - same_as
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_url_for_same_as
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Url
 title: has_url_for_same_as
 type: Predi_Url
-dv_has_:
-  url_for_:
-    same_as: "[[../Class/is_a_/Data_Type/Text/Url]]"
-  domain: "[[../Class/Thing|Thing]]"
-dv_has_url_for_same_as: "[[../../Class/is_a_/data_type/text/URLs]]"
-dv_is_:
-  complement_of: "[[is_different_from]]"
-  different_from: "[[is_similar_to]]"
-  similar_to: "[[is_similar_to]]"
-  same_as:
-    - "[[/_Standards/schema-org/Relation/is_same_as|is_same_as]]"
-    - "[[/_public/schema-org/Relation/is_same_as.public|is_same_as.public]]"
-    - "[[/_internal/schema-org/Relation/is_same_as.internal|is_same_as.internal]]"
-    - "[[/_protect/schema-org/Relation/is_same_as.protect|is_same_as.protect]]"
-    - "[[/_private/schema-org/Relation/is_same_as.private|is_same_as.private]]"
-    - "[[/_personal/schema-org/Relation/is_same_as.personal|is_same_as.personal]]"
-    - "[[/_secret/schema-org/Relation/is_same_as.secret|is_same_as.secret]]"
-dv_#has_:
-  name: has_url_for_same_as
-  range: "[[../Class/is_a_/Data_Type/Text/Url]]"
-dv_is_complement_of: "[[is_different_from]]"
-dv_is_different_from: "[[is_similar_to]]"
-dv_is_similar_to: "[[is_similar_to]]"
-dv_has_domain: "[[../Class/Thing|Thing]]"
-dv_has_name: has_url_for_same_as
-dv_has_range: "[[../Class/is_a_/Data_Type/Text/Url]]"
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/is_same_as|is_same_as]]"
-  - "[[/_public/schema-org/Relation/is_same_as.public|is_same_as.public]]"
-  - "[[/_internal/schema-org/Relation/is_same_as.internal|is_same_as.internal]]"
-  - "[[/_protect/schema-org/Relation/is_same_as.protect|is_same_as.protect]]"
-  - "[[/_private/schema-org/Relation/is_same_as.private|is_same_as.private]]"
-  - "[[/_personal/schema-org/Relation/is_same_as.personal|is_same_as.personal]]"
-  - "[[/_secret/schema-org/Relation/is_same_as.secret|is_same_as.secret]]"
 ---
 
 # [[is_same_as]] 
 
-is_complement_of = `=this.dv_is_complement_of` 
-is_different_from = `=this.dv_is_different_from` 
-is_similar_to = `=this.dv_is_similar_to` 
+#is_/complement_of :: [[is_different_from]] 
+#is_/different_from :: [[is_similar_to]]
+#is_/similar_to :: [[is_similar_to]]
 
 Predicate to specify another [[../Class/is_a_/data_type/text/URL|url]] for the same [[../Class/Thing|Thing]].
 
@@ -79,15 +45,15 @@ E.g. the URLs of the item's Wikidata entry,
 Wikipedia page, database-IDs, social media websites, or official website.
 
 Use it like this: 
-- has_url_for_same_as = `=this.dv_has_url_for_same_as` ] ] 
-- has_url_for_same_as = `=this.dv_has_url_for_same_as` ] ] 
+- [has_/url_for_/same_as :: [[../Class/is_a_/data_type/text/URL]] ] 
+- [ has_url_for_same_as :: [[../../Class/is_a_/data_type/text/URLs]] ] 
 
 Predicate describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: [[../Class/Thing|Thing]]  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_url_for_same_as )
+( #has_/range :: [[../Class/is_a_/data_type/text/URL]] )
 
 
 ## Confidential Links & Embeds: 

@@ -8,7 +8,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,61 +16,32 @@ keywords:
   - level
   - educational_level
   - educationalLevel
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_educational_level
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_educational_level
 type: Predi_Relation
-dv_has_:
-  educational_level: DefinedTerm, Text, URL
-  domain: CreativeWork, EducationEvent, EducationalOccupationalCredential, LearningResource
-dv_has_educational_level: DefinedTerm, Text, URL
-dv_is_:
-  part_of: "pending:"
-  same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_educational_level|has_educational_level]]"
-    - "[[/_public/schema-org/Relation/has/has_educational_level.public|has_educational_level.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_educational_level.internal|has_educational_level.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_educational_level.protect|has_educational_level.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_educational_level.private|has_educational_level.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_educational_level.personal|has_educational_level.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_educational_level.secret|has_educational_level.secret]]"
-dv_#has_:
-  name: has_educational_level
-  range: DefinedTerm, Text, URL
-dv_is_part_of: "pending:"
-dv_has_domain: CreativeWork, EducationEvent, EducationalOccupationalCredential, LearningResource
-dv_has_name: has_educational_level
-dv_has_range: DefinedTerm, Text, URL
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_educational_level|has_educational_level]]"
-  - "[[/_public/schema-org/Relation/has/has_educational_level.public|has_educational_level.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_educational_level.internal|has_educational_level.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_educational_level.protect|has_educational_level.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_educational_level.private|has_educational_level.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_educational_level.personal|has_educational_level.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_educational_level.secret|has_educational_level.secret]]"
 ---
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use it like this: 
-- has_educational_level = `=this.dv_has_educational_level`  
-- has_educational_level = `=this.dv_has_educational_level`  
+- [has_/educational_level :: DefinedTerm, Text, URL ] 
+- [ has_educational_level :: DefinedTerm, Text, URL ] 
 
 The level in terms of progression through an educational or training context. Examples of educational levels include 'beginner', 'intermediate' or 'advanced', and formal sets of level indicators.
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: CreativeWork, EducationEvent, EducationalOccupationalCredential, LearningResource  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_educational_level )
+( #has_/range :: DefinedTerm, Text, URL )
 
 
 ## Confidential Links & Embeds: 

@@ -13,25 +13,6 @@ BHCL_UUID: 1c0b0a85-8530-4bc8-a621-b2940743ba29
 point_in_time: 1968-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/10%20Soviet%20Invasion%20of%20Czechoslovakia%20-%20Flickr%20-%20The%20Central%20Intelligence%20Agency.jpg
 Commons_category: Prague Spring
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../WikiData/WD~Prague_Spring,162401]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1968-Prague_Spring|1968-Prague_Spring]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1968-Prague_Spring.public|1968-Prague_Spring.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1968-Prague_Spring.internal|1968-Prague_Spring.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1968-Prague_Spring.protect|1968-Prague_Spring.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1968-Prague_Spring.private|1968-Prague_Spring.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1968-Prague_Spring.personal|1968-Prague_Spring.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1968-Prague_Spring.secret|1968-Prague_Spring.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Prague_Spring,162401]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1968-Prague_Spring|1968-Prague_Spring]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1968-Prague_Spring.public|1968-Prague_Spring.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1968-Prague_Spring.internal|1968-Prague_Spring.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1968-Prague_Spring.protect|1968-Prague_Spring.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1968-Prague_Spring.private|1968-Prague_Spring.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1968-Prague_Spring.personal|1968-Prague_Spring.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1968-Prague_Spring.secret|1968-Prague_Spring.secret]]"
 ---
 
 # [[1968-Prague_Spring]] 

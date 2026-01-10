@@ -10,65 +10,37 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - part
   - of
   - order
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_part_of_order
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: is_part_of_order
 type: Predi_Relation
-dv_is_:
-  part_of_:
-    order: Order
-  same_as:
-    - "[[/_Standards/schema-org/Relation/is/part_of/is_part_of_order|is_part_of_order]]"
-    - "[[/_public/schema-org/Relation/is/part_of/is_part_of_order.public|is_part_of_order.public]]"
-    - "[[/_internal/schema-org/Relation/is/part_of/is_part_of_order.internal|is_part_of_order.internal]]"
-    - "[[/_protect/schema-org/Relation/is/part_of/is_part_of_order.protect|is_part_of_order.protect]]"
-    - "[[/_private/schema-org/Relation/is/part_of/is_part_of_order.private|is_part_of_order.private]]"
-    - "[[/_personal/schema-org/Relation/is/part_of/is_part_of_order.personal|is_part_of_order.personal]]"
-    - "[[/_secret/schema-org/Relation/is/part_of/is_part_of_order.secret|is_part_of_order.secret]]"
-dv_is_part_of_order: Order
-dv_has_:
-  domain: ParcelDelivery
-dv_#has_:
-  name: is_part_of_order
-  range: Order
-dv_has_domain: ParcelDelivery
-dv_has_name: is_part_of_order
-dv_has_range: Order
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/is/part_of/is_part_of_order|is_part_of_order]]"
-  - "[[/_public/schema-org/Relation/is/part_of/is_part_of_order.public|is_part_of_order.public]]"
-  - "[[/_internal/schema-org/Relation/is/part_of/is_part_of_order.internal|is_part_of_order.internal]]"
-  - "[[/_protect/schema-org/Relation/is/part_of/is_part_of_order.protect|is_part_of_order.protect]]"
-  - "[[/_private/schema-org/Relation/is/part_of/is_part_of_order.private|is_part_of_order.private]]"
-  - "[[/_personal/schema-org/Relation/is/part_of/is_part_of_order.personal|is_part_of_order.personal]]"
-  - "[[/_secret/schema-org/Relation/is/part_of/is_part_of_order.secret|is_part_of_order.secret]]"
 ---
 
 Use it like this: 
-- is_part_of_order = `=this.dv_is_part_of_order`  
-- is_part_of_order = `=this.dv_is_part_of_order`  
+- [is_/part_of_/order :: Order ] 
+- [ is_part_of_order :: Order ] 
 
 The overall order the items in this delivery were included in.
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: ParcelDelivery  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: is_part_of_order )
+( #has_/range :: Order )
 
 
 ## Confidential Links & Embeds: 

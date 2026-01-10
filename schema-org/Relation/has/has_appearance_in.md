@@ -9,72 +9,40 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - appearance
   - appearanceIn
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_appearance_in
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_appearance_in
 type: Predi_Relation
-dv_has_:
-  appearance: CreativeWork
-  domain: Claim
-dv_has_appearance_in: CreativeWork
-dv_is_:
-  part_of: "pending:"
-  sub_property_of: workExample
-  same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_appearance_in|has_appearance_in]]"
-    - "[[/_public/schema-org/Relation/has/has_appearance_in.public|has_appearance_in.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_appearance_in.internal|has_appearance_in.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_appearance_in.protect|has_appearance_in.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_appearance_in.private|has_appearance_in.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_appearance_in.personal|has_appearance_in.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_appearance_in.secret|has_appearance_in.secret]]"
-dv_#has_:
-  name: has_appearance_in
-  range: CreativeWork
-dv_has_appearance: CreativeWork
-dv_is_part_of: "pending:"
-dv_has_domain: Claim
-dv_has_name: has_appearance_in
-dv_has_range: CreativeWork
-dv_is_sub_property_of: workExample
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_appearance_in|has_appearance_in]]"
-  - "[[/_public/schema-org/Relation/has/has_appearance_in.public|has_appearance_in.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_appearance_in.internal|has_appearance_in.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_appearance_in.protect|has_appearance_in.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_appearance_in.private|has_appearance_in.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_appearance_in.personal|has_appearance_in.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_appearance_in.secret|has_appearance_in.secret]]"
 ---
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use it like this: 
-- has_appearance = `=this.dv_has_appearance`  
-- has_appearance_in = `=this.dv_has_appearance_in`  
+- [has_/appearance :: CreativeWork ] 
+- [ has_appearance_in :: CreativeWork ] 
 
 Indicates an occurrence of a [[../../../Society/Communication/Media/Creative_Work/Statement/Claim]] in some [[CreativeWork]].
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: Claim  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_appearance_in )
+( #has_/range :: CreativeWork )
 
-is_sub_property_of = `=this.dv_is_sub_property_of` 
+#is_/sub_property_of  :: workExample  
 
 ## Confidential Links & Embeds: 
 

@@ -16,53 +16,20 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Meister%20der%20Reiche
 Basisklassifikation: "15.31"
 EAGLE_id: dates/lod/57
 Commons_category: Early Middle Ages
-dv_has_:
-  time_:
-    started: 0750-06-01T00:00:00.000+00:53
-    stopped: 1000-06-01T00:00:00.000+00:53
-  duration_: P250Y
-  previous_item: "[[../0000-Late_Antiquity]]"
-  next_:
-    item: "[[1000-High_Middle-Ages+1300]]"
-dv_is_:
-  same_as:
-    - "[[WD~Early_Middle-Ages,202763]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages|0750-Early_Middle-Ages]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages.public|0750-Early_Middle-Ages.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages.internal|0750-Early_Middle-Ages.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages.protect|0750-Early_Middle-Ages.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages.private|0750-Early_Middle-Ages.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages.personal|0750-Early_Middle-Ages.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages.secret|0750-Early_Middle-Ages.secret]]"
-dv_has_time_started: 0750-06-01
-dv_has_time_stopped: 1000-06-01
-dv_has_duration_years: 250
-dv_has_duration_: P250Y
-dv_has_previous_item: "[[../0000-Late_Antiquity]]"
-dv_has_next_item: "[[1000-High_Middle-Ages+1300]]"
-dv_is_same_as:
-  - "[[WD~Early_Middle-Ages,202763]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages|0750-Early_Middle-Ages]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages.public|0750-Early_Middle-Ages.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages.internal|0750-Early_Middle-Ages.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages.protect|0750-Early_Middle-Ages.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages.private|0750-Early_Middle-Ages.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages.personal|0750-Early_Middle-Ages.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages.secret|0750-Early_Middle-Ages.secret]]"
 ---
 
 # [[0750-Early_Middle-Ages]] 
 
 #is_a_/time_/Culture 
 
-has_time_started = `=this.dv_has_time_started` 
-has_time_stopped = `=this.dv_has_time_stopped` 
+#has_/time_/started :: 0750-06 
+#has_/time_/stopped :: 1000-06 
 
-#has_/duration_/years :: `$=Math.round(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)/1000/60/60/24/365.2425)` 
-#has_/duration_ :: `=default(this.dv_has_time_stopped, date(now).year) - this.dv_has_time_started` 
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+#has_/duration_ :: `=default(this.has_time_stopped, date(now).year) - this.has_time_started` 
 
-has_previous_item = `=this.dv_has_previous_item` 
-has_next_item = `=this.dv_has_next_item` 
+#has_/previous_item :: [[../0000-Late_Antiquity]] 
+#has_/next_/item :: [[1000-High_Middle-Ages+1300]]
 #is_/same_as :: [[WD~Early_Middle-Ages,202763]] 
 
 ## #has_/text_of_/abstract 

@@ -8,7 +8,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,61 +16,32 @@ keywords:
   - time
   - delivery_time
   - deliveryTime
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_delivery_time
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_delivery_time
 type: Predi_Relation
-dv_has_:
-  delivery_time: ShippingDeliveryTime
-  domain: DeliveryTimeSettings, OfferShippingDetails
-dv_has_delivery_time: ShippingDeliveryTime
-dv_is_:
-  part_of: "pending:"
-  same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_delivery_time|has_delivery_time]]"
-    - "[[/_public/schema-org/Relation/has/has_delivery_time.public|has_delivery_time.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_delivery_time.internal|has_delivery_time.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_delivery_time.protect|has_delivery_time.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_delivery_time.private|has_delivery_time.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_delivery_time.personal|has_delivery_time.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_delivery_time.secret|has_delivery_time.secret]]"
-dv_#has_:
-  name: has_delivery_time
-  range: ShippingDeliveryTime
-dv_is_part_of: "pending:"
-dv_has_domain: DeliveryTimeSettings, OfferShippingDetails
-dv_has_name: has_delivery_time
-dv_has_range: ShippingDeliveryTime
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_delivery_time|has_delivery_time]]"
-  - "[[/_public/schema-org/Relation/has/has_delivery_time.public|has_delivery_time.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_delivery_time.internal|has_delivery_time.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_delivery_time.protect|has_delivery_time.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_delivery_time.private|has_delivery_time.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_delivery_time.personal|has_delivery_time.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_delivery_time.secret|has_delivery_time.secret]]"
 ---
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use it like this: 
-- has_delivery_time = `=this.dv_has_delivery_time`  
-- has_delivery_time = `=this.dv_has_delivery_time`  
+- [has_/delivery_time :: ShippingDeliveryTime ] 
+- [ has_delivery_time :: ShippingDeliveryTime ] 
 
 The total delay between the receipt of the order and the goods reaching the final customer.
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: DeliveryTimeSettings, OfferShippingDetails  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_delivery_time )
+( #has_/range :: ShippingDeliveryTime )
 
 
 ## Confidential Links & Embeds: 

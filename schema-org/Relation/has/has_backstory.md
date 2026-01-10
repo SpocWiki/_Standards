@@ -7,66 +7,37 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - backstory
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_backstory
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_backstory
 type: Predi_Relation
-dv_has_:
-  backstory: CreativeWork, Text
-  domain: Article
-dv_has_backstory: CreativeWork, Text
-dv_is_:
-  part_of: "pending:"
-  same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_backstory|has_backstory]]"
-    - "[[/_public/schema-org/Relation/has/has_backstory.public|has_backstory.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_backstory.internal|has_backstory.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_backstory.protect|has_backstory.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_backstory.private|has_backstory.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_backstory.personal|has_backstory.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_backstory.secret|has_backstory.secret]]"
-dv_#has_:
-  name: has_backstory
-  range: CreativeWork, Text
-dv_is_part_of: "pending:"
-dv_has_domain: Article
-dv_has_name: has_backstory
-dv_has_range: CreativeWork, Text
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_backstory|has_backstory]]"
-  - "[[/_public/schema-org/Relation/has/has_backstory.public|has_backstory.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_backstory.internal|has_backstory.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_backstory.protect|has_backstory.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_backstory.private|has_backstory.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_backstory.personal|has_backstory.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_backstory.secret|has_backstory.secret]]"
 ---
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use it like this: 
-- has_backstory = `=this.dv_has_backstory`  
-- has_backstory = `=this.dv_has_backstory`  
+- [has_/backstory :: CreativeWork, Text ] 
+- [ has_backstory :: CreativeWork, Text ] 
 
 For an [[../../../Society/Communication/Media/Creative_Work/Article]], typically a [[NewsArticle]], the backstory property provides a textual summary giving a brief explanation of why and how an article was created. In a journalistic setting this could include information about reporting process, methods, interviews, data sources, etc.
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: Article  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_backstory )
+( #has_/range :: CreativeWork, Text )
 
 
 ## Confidential Links & Embeds: 

@@ -10,69 +10,39 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - health-plan-coinsurance-rate
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_health-plan-coinsurance-rate
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_health-plan-coinsurance-rate
 type: Predi_Quantity
-dv_has_:
-  value_for_:
-    health_plan_coinsurance_rate: Number
-  domain: HealthPlanCostSharingSpecification
-dv_has_value_for_health_plan_coinsurance_rate: Number
-dv_is_:
-  part_of: "pending:"
-  same_as:
-    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_health_plan_coinsurance_rate|has_value_for_health_plan_coinsurance_rate]]"
-    - "[[/_public/schema-org/Property/has_value_for/has_value_for_health_plan_coinsurance_rate.public|has_value_for_health_plan_coinsurance_rate.public]]"
-    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_health_plan_coinsurance_rate.internal|has_value_for_health_plan_coinsurance_rate.internal]]"
-    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_health_plan_coinsurance_rate.protect|has_value_for_health_plan_coinsurance_rate.protect]]"
-    - "[[/_private/schema-org/Property/has_value_for/has_value_for_health_plan_coinsurance_rate.private|has_value_for_health_plan_coinsurance_rate.private]]"
-    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_health_plan_coinsurance_rate.personal|has_value_for_health_plan_coinsurance_rate.personal]]"
-    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_health_plan_coinsurance_rate.secret|has_value_for_health_plan_coinsurance_rate.secret]]"
-dv_#has_:
-  name: has_value_for_health_plan_coinsurance_rate
-  range: Number
-dv_is_part_of: "pending:"
-dv_has_domain: HealthPlanCostSharingSpecification
-dv_has_name: has_value_for_health_plan_coinsurance_rate
-dv_has_range: Number
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_health_plan_coinsurance_rate|has_value_for_health_plan_coinsurance_rate]]"
-  - "[[/_public/schema-org/Property/has_value_for/has_value_for_health_plan_coinsurance_rate.public|has_value_for_health_plan_coinsurance_rate.public]]"
-  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_health_plan_coinsurance_rate.internal|has_value_for_health_plan_coinsurance_rate.internal]]"
-  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_health_plan_coinsurance_rate.protect|has_value_for_health_plan_coinsurance_rate.protect]]"
-  - "[[/_private/schema-org/Property/has_value_for/has_value_for_health_plan_coinsurance_rate.private|has_value_for_health_plan_coinsurance_rate.private]]"
-  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_health_plan_coinsurance_rate.personal|has_value_for_health_plan_coinsurance_rate.personal]]"
-  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_health_plan_coinsurance_rate.secret|has_value_for_health_plan_coinsurance_rate.secret]]"
 ---
 
 Predicate to describe the Quantity of HealthPlanCostSharingSpecification.
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use it like this: 
-- has_value_for_health_plan_coinsurance_rate = `=this.dv_has_value_for_health_plan_coinsurance_rate`  
-- has_value_for_health_plan_coinsurance_rate = `=this.dv_has_value_for_health_plan_coinsurance_rate`  
+- [has_/value_for_/health_plan_coinsurance_rate :: Number ] 
+- [ has_value_for_health_plan_coinsurance_rate :: Number ] 
 
 The rate of coinsurance expressed as a number between 0.0 and 1.0.
 
 Predicate describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: HealthPlanCostSharingSpecification  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_value_for_health_plan_coinsurance_rate )
+( #has_/range :: Number )
 
 
 ## Confidential Links & Embeds: 

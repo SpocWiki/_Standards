@@ -9,73 +9,41 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - parent_taxon
   - parent
   - taxon
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_parent_taxon
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_parent_taxon
 type: Predi_Relation
-dv_has_:
-  parent_:
-    taxon: Taxon, Text, URL
-  domain: Taxon
-dv_has_parent_taxon: Taxon, Text, URL
-dv_is_:
-  part_of: "pending:"
-  inverse_of: childTaxon
-  same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_parent_taxon|has_parent_taxon]]"
-    - "[[/_public/schema-org/Relation/has/has_parent_taxon.public|has_parent_taxon.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_parent_taxon.internal|has_parent_taxon.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_parent_taxon.protect|has_parent_taxon.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_parent_taxon.private|has_parent_taxon.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_parent_taxon.personal|has_parent_taxon.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_parent_taxon.secret|has_parent_taxon.secret]]"
-dv_#has_:
-  name: has_parent_taxon
-  range: Taxon, Text, URL
-dv_is_part_of: "pending:"
-dv_has_domain: Taxon
-dv_has_name: has_parent_taxon
-dv_has_range: Taxon, Text, URL
-dv_is_inverse_of: childTaxon
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_parent_taxon|has_parent_taxon]]"
-  - "[[/_public/schema-org/Relation/has/has_parent_taxon.public|has_parent_taxon.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_parent_taxon.internal|has_parent_taxon.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_parent_taxon.protect|has_parent_taxon.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_parent_taxon.private|has_parent_taxon.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_parent_taxon.personal|has_parent_taxon.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_parent_taxon.secret|has_parent_taxon.secret]]"
 ---
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use it like this: 
-- has_parent_taxon = `=this.dv_has_parent_taxon`  
-- has_parent_taxon = `=this.dv_has_parent_taxon`  
+- [has_/parent_/taxon :: Taxon, Text, URL ] 
+- [ has_parent_taxon :: Taxon, Text, URL ] 
 
 Closest parent taxon of the taxon in question.
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: Taxon  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_parent_taxon )
+( #has_/range :: Taxon, Text, URL )
 
-is_inverse_of = `=this.dv_is_inverse_of` 
+#is_/inverse_of  :: childTaxon  
 
 ## Confidential Links & Embeds: 
 

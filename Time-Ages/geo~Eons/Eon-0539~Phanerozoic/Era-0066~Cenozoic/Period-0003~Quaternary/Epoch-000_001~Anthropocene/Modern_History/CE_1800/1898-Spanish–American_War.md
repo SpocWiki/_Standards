@@ -5,20 +5,20 @@ aliases:
   - 1898-Spanish–American War
 has_id_wikidata: Q12583
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
 participant:
-  - "[[_Standards/WikiData/WD~Spain_under_the_Restoration,1044536]]"
-  - "[[_Standards/WikiData/WD~Republic_of_Cuba,14905932]]"
-  - "[[_Standards/WikiData/WD~Revolutionary_Government_of_the_Philippines,53553879]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
+  - '[[_Standards/WikiData/WD~Spain_under_the_Restoration,1044536]]'
+  - '[[_Standards/WikiData/WD~Republic_of_Cuba,14905932]]'
+  - '[[_Standards/WikiData/WD~Revolutionary_Government_of_the_Philippines,53553879]]'
+  - '[[_Standards/WikiData/WD~United_States,30]]'
 end_time: 1898-08-11T00:00:00Z
 start_time: 1898-04-25T00:00:00Z
 point_in_time: 1898-01-01T00:00:00Z
-locations: "[[_Standards/WikiData/WD~Caribbean_Sea,1247]]"
-instance_of: "[[_Standards/WikiData/WD~war,198]]"
+locations: '[[_Standards/WikiData/WD~Caribbean_Sea,1247]]'
+instance_of: '[[_Standards/WikiData/WD~war,198]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Maine%20explosion.jpg
 UMLS_CUI: C1449763
 Library_of_Congress_Classification: E714-E735
@@ -29,25 +29,6 @@ MeSH_tree_code:
   - I01.880.735.950.250.875
   - K01.400.504.937.750
 Commons_category: Spanish-American War
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../WikiData/WD~Spanish–American_War,12583|WD~Spanish–American_War,12583]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1898-Spanish–American_War|1898-Spanish–American_War]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1898-Spanish–American_War.public|1898-Spanish–American_War.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1898-Spanish–American_War.internal|1898-Spanish–American_War.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1898-Spanish–American_War.protect|1898-Spanish–American_War.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1898-Spanish–American_War.private|1898-Spanish–American_War.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1898-Spanish–American_War.personal|1898-Spanish–American_War.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1898-Spanish–American_War.secret|1898-Spanish–American_War.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Spanish–American_War,12583|WD~Spanish–American_War,12583]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1898-Spanish–American_War|1898-Spanish–American_War]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1898-Spanish–American_War.public|1898-Spanish–American_War.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1898-Spanish–American_War.internal|1898-Spanish–American_War.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1898-Spanish–American_War.protect|1898-Spanish–American_War.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1898-Spanish–American_War.private|1898-Spanish–American_War.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1898-Spanish–American_War.personal|1898-Spanish–American_War.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1898-Spanish–American_War.secret|1898-Spanish–American_War.secret]]"
 ---
 
 # [[1898-Spanish–American_War]]

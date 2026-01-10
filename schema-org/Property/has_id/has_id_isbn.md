@@ -11,69 +11,39 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - id_isbn
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_id_isbn
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_id_isbn
 type: Pred_Text
-dv_has_:
-  id_:
-    isbn: Text
-  domain: Book
-dv_has_id_isbn: Text
-dv_#has_:
-  name: has_id_isbn
-  range: Text
-dv_is_:
-  sub_property_of: identifier
-  same_as:
-    - "[[/_Standards/schema-org/Property/has_name/has_id_isbn|has_id_isbn]]"
-    - "[[/_public/schema-org/Property/has_name/has_id_isbn.public|has_id_isbn.public]]"
-    - "[[/_internal/schema-org/Property/has_name/has_id_isbn.internal|has_id_isbn.internal]]"
-    - "[[/_protect/schema-org/Property/has_name/has_id_isbn.protect|has_id_isbn.protect]]"
-    - "[[/_private/schema-org/Property/has_name/has_id_isbn.private|has_id_isbn.private]]"
-    - "[[/_personal/schema-org/Property/has_name/has_id_isbn.personal|has_id_isbn.personal]]"
-    - "[[/_secret/schema-org/Property/has_name/has_id_isbn.secret|has_id_isbn.secret]]"
-dv_has_domain: Book
-dv_has_name: has_id_isbn
-dv_has_range: Text
-dv_is_sub_property_of: identifier
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_name/has_id_isbn|has_id_isbn]]"
-  - "[[/_public/schema-org/Property/has_name/has_id_isbn.public|has_id_isbn.public]]"
-  - "[[/_internal/schema-org/Property/has_name/has_id_isbn.internal|has_id_isbn.internal]]"
-  - "[[/_protect/schema-org/Property/has_name/has_id_isbn.protect|has_id_isbn.protect]]"
-  - "[[/_private/schema-org/Property/has_name/has_id_isbn.private|has_id_isbn.private]]"
-  - "[[/_personal/schema-org/Property/has_name/has_id_isbn.personal|has_id_isbn.personal]]"
-  - "[[/_secret/schema-org/Property/has_name/has_id_isbn.secret|has_id_isbn.secret]]"
 ---
 
 Predicate to describe the Text of Book.
 
 Use it like this: 
-- has_id_isbn = `=this.dv_has_id_isbn`  
-- has_id_isbn = `=this.dv_has_id_isbn`  
+- [has_/id_/isbn :: Text ] 
+- [ has_id_isbn :: Text ] 
 
 The id_isbn of the book.
 
 Predicated describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: Book  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_id_isbn )
+( #has_/range :: Text )
 
-is_sub_property_of = `=this.dv_is_sub_property_of` 
+#is_/sub_property_of  :: identifier  
 
 ## Confidential Links & Embeds: 
 

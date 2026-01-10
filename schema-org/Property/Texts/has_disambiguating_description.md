@@ -11,70 +11,40 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - disambiguating
   - description
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_disambiguating_description
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_disambiguating_description
 type: Pred_Text
-dv_has_:
-  text_of_:
-    disambiguating_description: Text
-  domain: "[Thing](../../Class/Thing.md)"
-dv_has_text_of_disambiguating_description: Text
-dv_#has_:
-  name: has_text_of_disambiguating_description
-  range: Text
-dv_is_:
-  sub_property_of: description
-  same_as:
-    - "[[/_Standards/schema-org/Property/Texts/has_disambiguating_description|has_disambiguating_description]]"
-    - "[[/_public/schema-org/Property/Texts/has_disambiguating_description.public|has_disambiguating_description.public]]"
-    - "[[/_internal/schema-org/Property/Texts/has_disambiguating_description.internal|has_disambiguating_description.internal]]"
-    - "[[/_protect/schema-org/Property/Texts/has_disambiguating_description.protect|has_disambiguating_description.protect]]"
-    - "[[/_private/schema-org/Property/Texts/has_disambiguating_description.private|has_disambiguating_description.private]]"
-    - "[[/_personal/schema-org/Property/Texts/has_disambiguating_description.personal|has_disambiguating_description.personal]]"
-    - "[[/_secret/schema-org/Property/Texts/has_disambiguating_description.secret|has_disambiguating_description.secret]]"
-dv_has_domain: "[Thing](../../Class/Thing.md)"
-dv_has_name: has_text_of_disambiguating_description
-dv_has_range: Text
-dv_is_sub_property_of: description
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_disambiguating_description|has_disambiguating_description]]"
-  - "[[/_public/schema-org/Property/Texts/has_disambiguating_description.public|has_disambiguating_description.public]]"
-  - "[[/_internal/schema-org/Property/Texts/has_disambiguating_description.internal|has_disambiguating_description.internal]]"
-  - "[[/_protect/schema-org/Property/Texts/has_disambiguating_description.protect|has_disambiguating_description.protect]]"
-  - "[[/_private/schema-org/Property/Texts/has_disambiguating_description.private|has_disambiguating_description.private]]"
-  - "[[/_personal/schema-org/Property/Texts/has_disambiguating_description.personal|has_disambiguating_description.personal]]"
-  - "[[/_secret/schema-org/Property/Texts/has_disambiguating_description.secret|has_disambiguating_description.secret]]"
 ---
 
 Predicate to describe the Text of Thing.
 
 Use it like this: 
-- has_text_of_disambiguating_description = `=this.dv_has_text_of_disambiguating_description`  
-- has_text_of_disambiguating_description = `=this.dv_has_text_of_disambiguating_description`  
+- [has_/text_of_/disambiguating_description :: Text ] 
+- [ has_text_of_disambiguating_description :: Text ] 
 
 A sub property of description. A short description of the item used to disambiguate from other, similar items. Information from other properties (in particular, name) may be necessary for the description to be useful for disambiguation.
 
 Predicated describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: [Thing](../../Class/Thing.md)  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_text_of_disambiguating_description )
+( #has_/range :: Text )
 
-is_sub_property_of = `=this.dv_is_sub_property_of` 
+#is_/sub_property_of  :: description  
 
 ## Confidential Links & Embeds: 
 

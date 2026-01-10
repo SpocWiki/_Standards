@@ -6,53 +6,23 @@ aliases:
 has_id_wikidata: Q8729
 Commons_category: Russian Revolution of 1917
 Commons_gallery: Russian Revolution of 1917
-country: "[[_Standards/WikiData/WD~Russian_Empire,34266]]"
+country: '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Revoluci%C3%B3n-marzo-rusia--russianbolshevik00rossuoft.png
-instance_of: "[[_Standards/WikiData/WD~revolution,10931]]"
-location: "[[_Standards/WikiData/WD~Russian_Empire,34266]]"
+instance_of: '[[_Standards/WikiData/WD~revolution,10931]]'
+location: '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
 participant:
-  - "[[_Standards/WikiData/WD~Bolsheviks,83372]]"
-  - "[[_Standards/WikiData/WD~Mensheviks,191515]]"
-  - "[[_Standards/WikiData/WD~Socialist_Revolutionary_Party,217009]]"
-part_of: "[[_Standards/WikiData/WD~Revolutions_of_1917_1923,7318933]]"
+  - '[[_Standards/WikiData/WD~Bolsheviks,83372]]'
+  - '[[_Standards/WikiData/WD~Mensheviks,191515]]'
+  - '[[_Standards/WikiData/WD~Socialist_Revolutionary_Party,217009]]'
+part_of: '[[_Standards/WikiData/WD~Revolutions_of_1917_1923,7318933]]'
 point_in_time: 1917-06
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Russian_Revolution,14398246]]"
-dv_has_:
-  time_:
-    started: 1917-06-01T00:00:00.000+02:00
-    stopped: 1922-06-01T00:00:00.000+01:00
-  duration_:
-    years: 5
-  duration: P5Y
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../WikiData/WD~Russian_Revolution,8729]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution|1917-Russian_Revolution]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.public|1917-Russian_Revolution.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.internal|1917-Russian_Revolution.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.protect|1917-Russian_Revolution.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.private|1917-Russian_Revolution.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.personal|1917-Russian_Revolution.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.secret|1917-Russian_Revolution.secret]]"
-dv_has_time_started: 1917-06-01
-dv_has_time_stopped: 1922-06-01
-dv_has_duration_years: 5
-dv_has_duration: P5Y
-dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Russian_Revolution,8729]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution|1917-Russian_Revolution]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.public|1917-Russian_Revolution.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.internal|1917-Russian_Revolution.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.protect|1917-Russian_Revolution.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.private|1917-Russian_Revolution.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.personal|1917-Russian_Revolution.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1917-Russian_Revolution.secret|1917-Russian_Revolution.secret]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Russian_Revolution,14398246]]'
 ---
 
-has_time_started = `=this.dv_has_time_started` 
-has_time_stopped = `=this.dv_has_time_stopped` 
-#has_/duration_/years :: `$=Math.round(((dv.current().dv_has_time_stopped ?? new Date()) - dv.current().dv_has_time_started)/1000/60/60/24/365.2425)` 
-#has_/duration :: `=default(this.dv_has_time_stopped,date(now)) - this.dv_has_time_started` 
+#has_/time_/started :: 1917-06 
+#has_/time_/stopped  :: 1922-06 
+#has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
+#has_/duration :: `=default(this.has_time_stopped,date(now)) - this.has_time_started` 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Russian_Revolution,8729]] 
 
 

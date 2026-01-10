@@ -11,84 +11,84 @@ Commons_category: World War I
 Commons_gallery: World War I
 described_at_URL: https://dmna.ny.gov/historic/reghist/wwi/HonorList/?l=g
 described_by_source:
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]"
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - '[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Patriotic_War,7148056]]"
-  - "[[_Standards/WikiData/WD~(The)_Great_War,85888603]]"
+  - '[[_Standards/WikiData/WD~Patriotic_War,7148056]]'
+  - '[[_Standards/WikiData/WD~(The)_Great_War,85888603]]'
 end_time: 1918-11-11T00:00:00Z
-facet_of: "[[_Standards/WikiData/WD~German_colonial_empire,329618]]"
-has_cause: "[[_Standards/WikiData/WD~multiple_causes,18121382]]"
+facet_of: '[[_Standards/WikiData/WD~German_colonial_empire,329618]]'
+has_cause: '[[_Standards/WikiData/WD~multiple_causes,18121382]]'
 has_contributing_factor:
-  - "[[_Standards/WikiData/WD~Alsace_Lorraine,155144]]"
-  - "[[_Standards/WikiData/WD~Anglo_German_naval_arms_race,4763720]]"
+  - '[[_Standards/WikiData/WD~Alsace_Lorraine,155144]]'
+  - '[[_Standards/WikiData/WD~Anglo_German_naval_arms_race,4763720]]'
 has_effect:
-  - "[[_Standards/WikiData/WD~Allies_of_the_First_World_War,215669]]"
-  - "[[_Standards/WikiData/WD~Ottoman_Empire,12560]]"
-  - "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
-  - "[[_Standards/WikiData/WD~Austria_Hungary,28513]]"
-  - "[[_Standards/WikiData/WD~Europe,46]]"
-  - "[[_Standards/WikiData/WD~Asia,48]]"
-  - "[[_Standards/WikiData/WD~Russian_Empire,34266]]"
-  - "[[_Standards/WikiData/WD~League_of_Nations,38130]]"
-  - "[[_Standards/WikiData/WD~Weimar_Republic,41304]]"
-  - "[[_Standards/WikiData/WD~German_Empire,43287]]"
+  - '[[_Standards/WikiData/WD~Allies_of_the_First_World_War,215669]]'
+  - '[[_Standards/WikiData/WD~Ottoman_Empire,12560]]'
+  - '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
+  - '[[_Standards/WikiData/WD~Austria_Hungary,28513]]'
+  - '[[_Standards/WikiData/WD~Europe,46]]'
+  - '[[_Standards/WikiData/WD~Asia,48]]'
+  - '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
+  - '[[_Standards/WikiData/WD~League_of_Nations,38130]]'
+  - '[[_Standards/WikiData/WD~Weimar_Republic,41304]]'
+  - '[[_Standards/WikiData/WD~German_Empire,43287]]'
 has_time_started: 1914-07-28
 has_time_stopped: 1918-11-11
 history_of_topic:
-  - "[[_Standards/WikiData/WD~timeline_of_World_War_I,74978]]"
-  - "[[_Standards/WikiData/WD~diplomatic_history_of_World_War_I,30324643]]"
+  - '[[_Standards/WikiData/WD~timeline_of_World_War_I,74978]]'
+  - '[[_Standards/WikiData/WD~diplomatic_history_of_World_War_I,30324643]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/WWImontage.jpg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Cmentarz%20wojenny%20w%20Str%C3%B3%C5%BCach%20%28Za506%29.jpg
 instance_of:
-  - "[[_Standards/WikiData/WD~world_war,103495]]"
-  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
+  - '[[_Standards/WikiData/WD~world_war,103495]]'
+  - '[[_Standards/WikiData/WD~historical_period,11514315]]'
 Krugosvet_article: istoriya/PERVAYA_MIROVAYA_VONA.html
 located_in_on_physical_feature:
-  - "[[_Standards/WikiData/WD~Republic_of_China,13426199]]"
-  - "[[_Standards/WikiData/WD~Indian_Ocean,1239]]"
-  - "[[_Standards/WikiData/WD~West_Asia,27293]]"
-  - "[[_Standards/WikiData/WD~Africa,15]]"
-  - "[[_Standards/WikiData/WD~Europe,46]]"
-  - "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
-  - "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
+  - '[[_Standards/WikiData/WD~Republic_of_China,13426199]]'
+  - '[[_Standards/WikiData/WD~Indian_Ocean,1239]]'
+  - '[[_Standards/WikiData/WD~West_Asia,27293]]'
+  - '[[_Standards/WikiData/WD~Africa,15]]'
+  - '[[_Standards/WikiData/WD~Europe,46]]'
+  - '[[_Standards/WikiData/WD~Pacific_Ocean,98]]'
+  - '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
 location:
-  - "[[_Standards/WikiData/WD~Indian_Ocean,1239]]"
-  - "[[_Standards/WikiData/WD~Middle_East,7204]]"
-  - "[[_Standards/WikiData/WD~Africa,15]]"
-  - "[[_Standards/WikiData/WD~Europe,46]]"
-  - "[[_Standards/WikiData/WD~Asia,48]]"
-  - "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
-  - "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
+  - '[[_Standards/WikiData/WD~Indian_Ocean,1239]]'
+  - '[[_Standards/WikiData/WD~Middle_East,7204]]'
+  - '[[_Standards/WikiData/WD~Africa,15]]'
+  - '[[_Standards/WikiData/WD~Europe,46]]'
+  - '[[_Standards/WikiData/WD~Asia,48]]'
+  - '[[_Standards/WikiData/WD~Pacific_Ocean,98]]'
+  - '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
   - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Near_East,48214]]"
-  - "[[_Standards/WikiData/WD~Oceania,55643]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_World_War_I,10656655]]"
+  - '[[_Standards/WikiData/WD~Near_East,48214]]'
+  - '[[_Standards/WikiData/WD~Oceania,55643]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_World_War_I,10656655]]'
 MeSH_tree_code:
   - I01.880.735.950.250.968
   - K01.400.504.968.900
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/WWImontage.jpg
 number_of_deaths: 17000000
 order_of_battle:
-  - "[[_Standards/WikiData/WD~French_Army_order_of_battle,3355540]]"
-  - "[[_Standards/WikiData/WD~Indian_Army_during_World_War_I_order_of_battle,6019852]]"
-  - "[[_Standards/WikiData/WD~Indian_Cavalry_Corps_order_of_battle_in_World_War_I,6019982]]"
-  - "[[_Standards/WikiData/WD~American_Expeditionary_Forces_on_the_Western_Front_order_of_battle,19839852]]"
-  - "[[_Standards/WikiData/WD~Order_of_battle_of_the_Serbian_Army_in_World_War_I,23002658]]"
+  - '[[_Standards/WikiData/WD~French_Army_order_of_battle,3355540]]'
+  - '[[_Standards/WikiData/WD~Indian_Army_during_World_War_I_order_of_battle,6019852]]'
+  - '[[_Standards/WikiData/WD~Indian_Cavalry_Corps_order_of_battle_in_World_War_I,6019982]]'
+  - '[[_Standards/WikiData/WD~American_Expeditionary_Forces_on_the_Western_Front_order_of_battle,19839852]]'
+  - '[[_Standards/WikiData/WD~Order_of_battle_of_the_Serbian_Army_in_World_War_I,23002658]]'
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Royal%20Naval%20Division%20banner.jpg
 participant:
-  - "[[_Standards/WikiData/WD~Central_Powers,152283]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]"
-  - "[[_Standards/WikiData/WD~Allies_of_the_First_World_War,215669]]"
-  - "[[_Standards/WikiData/WD~Australia,408]]"
+  - '[[_Standards/WikiData/WD~Central_Powers,152283]]'
+  - '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
+  - '[[_Standards/WikiData/WD~Allies_of_the_First_World_War,215669]]'
+  - '[[_Standards/WikiData/WD~Australia,408]]'
 permanent_duplicated_item:
-  - "[[_Standards/WikiData/WD~Q21200344,21200344]]"
-  - "[[_Standards/WikiData/WD~Q29950537,29950537]]"
+  - '[[_Standards/WikiData/WD~Q21200344,21200344]]'
+  - '[[_Standards/WikiData/WD~Q29950537,29950537]]'
 pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Zinou2go-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%20%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89.wav
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33491%20%28hat%29-Jnermano-Premy%C3%A8%20G%C3%A8%20mondyal.wav
@@ -97,51 +97,20 @@ Stadtwiki_Dresden_article: Erster_Weltkrieg
 start_time: 1914-07-28T00:00:00Z
 Swedish_Anbytarforum: 11154
 topic_s_main_template:
-  - "[[_Standards/WikiData/WD~Template_World_War_I,5909782]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_World_War_I,10651811]]"
+  - '[[_Standards/WikiData/WD~Template_World_War_I,5909782]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_World_War_I,10651811]]'
 UMLS_CUI: C1449759
 U_S_National_Archives_Identifier: 10646525
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_World_War_I,20716546]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_World_War_I,5909782]]"
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_World_War_I,20716546]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_World_War_I,5909782]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/World%20War%20I%20%28part%201%29.ogg
 subject_named_as: Erster Weltkrieg
 IMDb_keyword: reference-to-world-war-one
-dv_has_:
-  time_:
-    started: 28 July 1914
-    stopped: 1918-11-11T00:00:00.000+01:00
-  duration_:
-    years: 4
-  duration: P4Y3M2W
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../WikiData/WD~World_War_I,361]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I|1914-World_War_I]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I.public|1914-World_War_I.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I.internal|1914-World_War_I.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I.protect|1914-World_War_I.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I.private|1914-World_War_I.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I.personal|1914-World_War_I.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I.secret|1914-World_War_I.secret]]"
-dv_has_next_item: "[[1939-World_War_II]]"
-dv_has_duration_years: 4
-dv_has_duration: P4Y3M2W
-dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~World_War_I,361]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I|1914-World_War_I]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I.public|1914-World_War_I.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I.internal|1914-World_War_I.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I.protect|1914-World_War_I.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I.private|1914-World_War_I.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I.personal|1914-World_War_I.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I.secret|1914-World_War_I.secret]]"
 ---
-
-# [[1914-World_War_I]] 
 
 #has_/time_/started :: 28 July 1914 
 #has_/time_/stopped  :: 1918-11-11 
-has_next_item = `=this.dv_has_next_item` 
+#has_/next_/item :: [[1939-World_War_II]] 
 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration :: `=default(this.has_time_stopped,date(now)) - this.has_time_started` 

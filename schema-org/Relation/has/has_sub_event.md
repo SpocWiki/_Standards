@@ -9,69 +9,40 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - sub_event
   - sub
   - event
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_sub_event
 publish: true
-publishDate: ""
+publishDate: ''
 supersedes: subEvents
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_sub_event
 type: Predi_Relation
-dv_has_:
-  sub_event: Event
-  domain: Event
-dv_has_sub_event: Event
-dv_#has_:
-  name: is_sub_event
-  range: Event
-dv_is_:
-  inverse_of: superEvent
-  same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_sub_event|has_sub_event]]"
-    - "[[/_public/schema-org/Relation/has/has_sub_event.public|has_sub_event.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_sub_event.internal|has_sub_event.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_sub_event.protect|has_sub_event.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_sub_event.private|has_sub_event.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_sub_event.personal|has_sub_event.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_sub_event.secret|has_sub_event.secret]]"
-dv_has_domain: Event
-dv_has_name: is_sub_event
-dv_has_range: Event
-dv_is_inverse_of: superEvent
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_sub_event|has_sub_event]]"
-  - "[[/_public/schema-org/Relation/has/has_sub_event.public|has_sub_event.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_sub_event.internal|has_sub_event.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_sub_event.protect|has_sub_event.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_sub_event.private|has_sub_event.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_sub_event.personal|has_sub_event.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_sub_event.secret|has_sub_event.secret]]"
 ---
 
 Use it like this: 
-- has_sub_event = `=this.dv_has_sub_event`  
-- has_sub_event = `=this.dv_has_sub_event`  
+- [has_/sub_event :: Event ] 
+- [ has_sub_event :: Event ] 
 
 An Event that is part of this event. For example, a conference event includes many presentations, each of which is a subEvent of the conference.
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: Event  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: is_sub_event )
+( #has_/range :: Event )
 
-is_inverse_of = `=this.dv_is_inverse_of` 
+#is_/inverse_of  :: superEvent  
 
 ## Confidential Links & Embeds: 
 

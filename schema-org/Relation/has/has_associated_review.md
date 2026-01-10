@@ -7,72 +7,41 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - associated
   - review
   - associatedReview
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_associated_review
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_associated_review
 type: Predi_Relation
-dv_has_:
-  associated_review: Review
-  domain: Review
-  sub_properties: "[ associatedClaimReview, associatedMediaReview ]"
-dv_has_associated_review: Review
-dv_is_:
-  part_of: "pending:"
-  same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_associated_review|has_associated_review]]"
-    - "[[/_public/schema-org/Relation/has/has_associated_review.public|has_associated_review.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_associated_review.internal|has_associated_review.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_associated_review.protect|has_associated_review.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_associated_review.private|has_associated_review.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_associated_review.personal|has_associated_review.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_associated_review.secret|has_associated_review.secret]]"
-dv_#has_:
-  name: has_associated_review
-  range: Review
-dv_is_part_of: "pending:"
-dv_has_domain: Review
-dv_has_name: has_associated_review
-dv_has_range: Review
-dv_has_sub_properties: "[ associatedClaimReview, associatedMediaReview ]"
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_associated_review|has_associated_review]]"
-  - "[[/_public/schema-org/Relation/has/has_associated_review.public|has_associated_review.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_associated_review.internal|has_associated_review.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_associated_review.protect|has_associated_review.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_associated_review.private|has_associated_review.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_associated_review.personal|has_associated_review.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_associated_review.secret|has_associated_review.secret]]"
 ---
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use it like this: 
-- has_associated_review = `=this.dv_has_associated_review`  
-- has_associated_review = `=this.dv_has_associated_review`  
+- [has_/associated_review :: Review ] 
+- [ has_associated_review :: Review ] 
 
 An associated [[../../../Society/Communication/Media/Creative_Work/Review]].
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: Review  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_associated_review )
+( #has_/range :: Review )
 
-has_sub_properties = `=this.dv_has_sub_properties` 
+#has_/sub_properties :: [ associatedClaimReview, associatedMediaReview ]  
 
 ## Confidential Links & Embeds: 
 

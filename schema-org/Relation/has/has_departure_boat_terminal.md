@@ -8,7 +8,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,61 +17,32 @@ keywords:
   - terminal
   - departure_boat_terminal
   - departureBoatTerminal
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_departure_boat_terminal
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_departure_boat_terminal
 type: Predi_Relation
-dv_has_:
-  departure_boat_terminal: BoatTerminal
-  domain: BoatTrip
-dv_has_departure_boat_terminal: BoatTerminal
-dv_is_:
-  part_of: "pending:"
-  same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_departure_boat_terminal|has_departure_boat_terminal]]"
-    - "[[/_public/schema-org/Relation/has/has_departure_boat_terminal.public|has_departure_boat_terminal.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_departure_boat_terminal.internal|has_departure_boat_terminal.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_departure_boat_terminal.protect|has_departure_boat_terminal.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_departure_boat_terminal.private|has_departure_boat_terminal.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_departure_boat_terminal.personal|has_departure_boat_terminal.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_departure_boat_terminal.secret|has_departure_boat_terminal.secret]]"
-dv_#has_:
-  name: has_departure_boat_terminal
-  range: BoatTerminal
-dv_is_part_of: "pending:"
-dv_has_domain: BoatTrip
-dv_has_name: has_departure_boat_terminal
-dv_has_range: BoatTerminal
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_departure_boat_terminal|has_departure_boat_terminal]]"
-  - "[[/_public/schema-org/Relation/has/has_departure_boat_terminal.public|has_departure_boat_terminal.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_departure_boat_terminal.internal|has_departure_boat_terminal.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_departure_boat_terminal.protect|has_departure_boat_terminal.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_departure_boat_terminal.private|has_departure_boat_terminal.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_departure_boat_terminal.personal|has_departure_boat_terminal.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_departure_boat_terminal.secret|has_departure_boat_terminal.secret]]"
 ---
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use it like this: 
-- has_departure_boat_terminal = `=this.dv_has_departure_boat_terminal`  
-- has_departure_boat_terminal = `=this.dv_has_departure_boat_terminal`  
+- [has_/departure_boat_terminal :: BoatTerminal ] 
+- [ has_departure_boat_terminal :: BoatTerminal ] 
 
 The terminal or port from which the boat departs.
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: BoatTrip  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_departure_boat_terminal )
+( #has_/range :: BoatTerminal )
 
 
 ## Confidential Links & Embeds: 

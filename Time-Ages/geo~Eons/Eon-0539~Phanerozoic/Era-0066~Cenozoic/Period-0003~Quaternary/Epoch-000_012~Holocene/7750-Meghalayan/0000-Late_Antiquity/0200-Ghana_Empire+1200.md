@@ -6,17 +6,17 @@ aliases:
   - 0200-Ghana_Empire+1200
   - 0200-Ghana Empire+1200
 has_id_wikidata: Q206789
-capital: "[[_Standards/WikiData/WD~Koumbi_Saleh,682728]]"
-instance_of: "[[_Standards/WikiData/WD~historical_country,3024240]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q3446265,3446265]]"
+capital: '[[_Standards/WikiData/WD~Koumbi_Saleh,682728]]'
+instance_of: '[[_Standards/WikiData/WD~historical_country,3024240]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q3446265,3446265]]'
 dissolved_abolished_or_demolished_date: 1200-01-01T00:00:00Z
 inception: 0100-01-01T00:00:00Z
 located_in_the_present_day_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Mali,912]]"
-  - "[[_Standards/WikiData/WD~Mauritania,1025]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~monarchy,7269]]"
-continent: "[[_Standards/WikiData/WD~Africa,15]]"
-official_language: "[[_Standards/WikiData/WD~Soninke,36660]]"
+  - '[[_Standards/WikiData/WD~Mali,912]]'
+  - '[[_Standards/WikiData/WD~Mauritania,1025]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~monarchy,7269]]'
+continent: '[[_Standards/WikiData/WD~Africa,15]]'
+official_language: '[[_Standards/WikiData/WD~Soninke,36660]]'
 locator_map_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/%CE%91%CF%85%CF%84%CE%BF%CE%BA%CF%81%CE%B1%CF%84%CE%BF%CF%81%CE%AF%CE%B1%20%CE%93%CE%BA%CE%AC%CE%BD%CE%B1%20%CF%87%CE%AC%CF%81%CF%84%CE%B7%CF%82.png
   - http://commons.wikimedia.org/wiki/Special:FilePath/Ghana%20empire%20map-fr.png
@@ -26,25 +26,6 @@ locator_map_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/The%20Ghana%20Empire.svg
 Commons_category: Ghana Empire
 coordinate_location: Point(-8.0 15.66666667)
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../WikiData/WD~Ghana_Empire,206789|WD~Ghana_Empire,206789]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0200-Ghana_Empire+1200|0200-Ghana_Empire+1200]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0200-Ghana_Empire+1200.public|0200-Ghana_Empire+1200.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0200-Ghana_Empire+1200.internal|0200-Ghana_Empire+1200.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0200-Ghana_Empire+1200.protect|0200-Ghana_Empire+1200.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0200-Ghana_Empire+1200.private|0200-Ghana_Empire+1200.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0200-Ghana_Empire+1200.personal|0200-Ghana_Empire+1200.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0200-Ghana_Empire+1200.secret|0200-Ghana_Empire+1200.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../WikiData/WD~Ghana_Empire,206789|WD~Ghana_Empire,206789]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0200-Ghana_Empire+1200|0200-Ghana_Empire+1200]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0200-Ghana_Empire+1200.public|0200-Ghana_Empire+1200.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0200-Ghana_Empire+1200.internal|0200-Ghana_Empire+1200.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0200-Ghana_Empire+1200.protect|0200-Ghana_Empire+1200.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0200-Ghana_Empire+1200.private|0200-Ghana_Empire+1200.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0200-Ghana_Empire+1200.personal|0200-Ghana_Empire+1200.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/0200-Ghana_Empire+1200.secret|0200-Ghana_Empire+1200.secret]]"
 ---
 
 

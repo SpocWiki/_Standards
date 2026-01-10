@@ -21,96 +21,16 @@ Dewey_Decimal_Classification:
   - "551.766"
   - "560.1766"
   - "561.1166"
-dv_has_:
-  duration_:
-    years: "2.670e+7"
-  previous_:
-    item: "[[../Period-0252~Triassic/Epoch-237~Late_Triassic|Epoch~3~Late_Triassic]]"
-  next_:
-    item: "[[Epoch-175~Middle_Jurassic]]"
-  name_:
-    bg: Ранна Юра
-    cs: brzy jura
-    da: Tidlig Jurassisk
-    de: Früher Jura
-    es: Jurásico temprano
-    et: Vara-Juura
-    fi: Varhais-Jura
-    fr: Jurassique précoce
-    hu: kora-jura
-    it: giurassico precoce
-    ja: ジュラ紀前期
-    lt: Ankstyvoji Jura
-    nl: Vroeg Jura
-    no: Tidlig jura
-    pl: Wczesna Jura
-    pt: Jurássico primitivo
-    sk: raná jura
-    sl: zgodnja jura
-    sv: äldre jura
-    zh: 早侏罗世
-  abbreviation: J1
-  time_:
-    started: "-201.4e6"
-    stopped: "-174.7e6"
-  text_of_:
-    color: "0x42AED0"
-dv_is_:
-  same_as:
-    - "[[WD~Early_Jurassic,284787]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic|Epoch-201~Early_Jurassic]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic.public|Epoch-201~Early_Jurassic.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic.internal|Epoch-201~Early_Jurassic.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic.protect|Epoch-201~Early_Jurassic.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic.private|Epoch-201~Early_Jurassic.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic.personal|Epoch-201~Early_Jurassic.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic.secret|Epoch-201~Early_Jurassic.secret]]"
-dv_has_duration_years: "2.670e+7"
-dv_has_previous_item: "[[../Period-0252~Triassic/Epoch-237~Late_Triassic|Epoch~3~Late_Triassic]]"
-dv_has_next_item: "[[Epoch-175~Middle_Jurassic]]"
-dv_is_same_as:
-  - "[[WD~Early_Jurassic,284787]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic|Epoch-201~Early_Jurassic]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic.public|Epoch-201~Early_Jurassic.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic.internal|Epoch-201~Early_Jurassic.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic.protect|Epoch-201~Early_Jurassic.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic.private|Epoch-201~Early_Jurassic.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic.personal|Epoch-201~Early_Jurassic.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0251~Mesozoic/Period-0201~Jurassic/Epoch-201~Early_Jurassic.secret|Epoch-201~Early_Jurassic.secret]]"
-dv_has_name_bg: Ранна Юра
-dv_has_name_cs: brzy jura
-dv_has_name_da: Tidlig Jurassisk
-dv_has_name_de: Früher Jura
-dv_has_name_es: Jurásico temprano
-dv_has_name_et: Vara-Juura
-dv_has_name_fi: Varhais-Jura
-dv_has_name_fr: Jurassique précoce
-dv_has_name_hu: kora-jura
-dv_has_name_it: giurassico precoce
-dv_has_name_ja: ジュラ紀前期
-dv_has_name_lt: Ankstyvoji Jura
-dv_has_name_nl: Vroeg Jura
-dv_has_name_no: Tidlig jura
-dv_has_name_pl: Wczesna Jura
-dv_has_name_pt: Jurássico primitivo
-dv_has_name_sk: raná jura
-dv_has_name_sl: zgodnja jura
-dv_has_name_sv: äldre jura
-dv_has_name_zh: 早侏罗世
-dv_has_abbreviation: J1
-dv_has_time_started: "-201.4e6"
-dv_has_time_stopped: "-174.7e6"
-dv_has_text_of_color: "0x42AED0"
 ---
 
 # [[Epoch-201~Early_Jurassic]] 
 
 #is_a_/time_/Epoch 
 
-#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-has_previous_item = `=this.dv_has_previous_item` 
-has_next_item = `=this.dv_has_next_item` 
+#has_/previous_/item :: [[../Period-0252~Triassic/Epoch-237~Late_Triassic|Epoch~3~Late_Triassic]] 
+#has_/next_/item :: [[Epoch-175~Middle_Jurassic]] 
 #is_/same_as :: [[WD~Early_Jurassic,284787]] 
 
 A time period from 201.4 to 174.7 million years ago. 
@@ -126,35 +46,35 @@ A time period from 201.4 to 174.7 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Early%20Jurassic) 
 
 
-has_name_bg = `=this.dv_has_name_bg` 
-has_name_cs = `=this.dv_has_name_cs` 
-has_name_da = `=this.dv_has_name_da` 
-has_name_de = `=this.dv_has_name_de` 
-has_name_es = `=this.dv_has_name_es` 
-has_name_et = `=this.dv_has_name_et` 
-has_name_fi = `=this.dv_has_name_fi` 
-has_name_fr = `=this.dv_has_name_fr` 
-has_name_hu = `=this.dv_has_name_hu` 
-has_name_it = `=this.dv_has_name_it` 
-has_name_ja = `=this.dv_has_name_ja` 
-has_name_lt = `=this.dv_has_name_lt` 
-has_name_nl = `=this.dv_has_name_nl` 
-has_name_no = `=this.dv_has_name_no` 
-has_name_pl = `=this.dv_has_name_pl` 
-has_name_pt = `=this.dv_has_name_pt` 
-has_name_sk = `=this.dv_has_name_sk` 
-has_name_sl = `=this.dv_has_name_sl` 
-has_name_sv = `=this.dv_has_name_sv` 
-has_name_zh = `=this.dv_has_name_zh` 
+#has_/name_/bg  :: Ранна Юра
+#has_/name_/cs  :: brzy jura
+#has_/name_/da  :: Tidlig Jurassisk
+#has_/name_/de  :: Früher Jura
+#has_/name_/es  :: Jurásico temprano
+#has_/name_/et  :: Vara-Juura
+#has_/name_/fi  :: Varhais-Jura
+#has_/name_/fr  :: Jurassique précoce
+#has_/name_/hu  :: kora-jura
+#has_/name_/it  :: giurassico precoce
+#has_/name_/ja  :: ジュラ紀前期
+#has_/name_/lt  :: Ankstyvoji Jura
+#has_/name_/nl  :: Vroeg Jura
+#has_/name_/no  :: Tidlig jura
+#has_/name_/pl  :: Wczesna Jura
+#has_/name_/pt  :: Jurássico primitivo
+#has_/name_/sk  :: raná jura
+#has_/name_/sl  :: zgodnja jura
+#has_/name_/sv  :: äldre jura
+#has_/name_/zh  :: 早侏罗世
 
-has_abbreviation = `=this.dv_has_abbreviation` 
+#has_/abbreviation :: J1
 
-has_time_started = `=this.dv_has_time_started` 
-has_time_stopped = `=this.dv_has_time_stopped` 
+#has_/time_/started :: -201.4e6 
+#has_/time_/stopped :: -174.7e6 
 
     sh:order 65 
 
-has_text_of_color = `=this.dv_has_text_of_color` 
+#has_/text_of_/color :: 0x42AED0
 
 ## All Contents
 

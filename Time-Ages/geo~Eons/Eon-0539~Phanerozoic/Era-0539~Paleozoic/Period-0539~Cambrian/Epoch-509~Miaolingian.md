@@ -14,55 +14,16 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleograph
 exact_match: http://resource.geosciml.org/classifier/ics/ischart/Miaolingian
 sRGB_color_hex_triplet: A6CF86
 start_time: -506500000-01-01T00:00:00Z
-dv_has_:
-  duration_:
-    years: "1.200e+7"
-  previous_:
-    item: "[[Epoch~]]"
-  next_:
-    item: "[[Epoch~]]"
-  abbreviation: Ep3
-  time_:
-    started: -509000000
-    stopped: -497000000
-  text_of_:
-    color: "0xA6CF86"
-dv_is_:
-  same_as:
-    - "[[WD~Miaolingian,5025304]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian|Epoch-509~Miaolingian]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian.public|Epoch-509~Miaolingian.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian.internal|Epoch-509~Miaolingian.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian.protect|Epoch-509~Miaolingian.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian.private|Epoch-509~Miaolingian.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian.personal|Epoch-509~Miaolingian.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian.secret|Epoch-509~Miaolingian.secret]]"
-dv_has_duration_years: "1.200e+7"
-dv_has_previous_item: "[[Epoch~]]"
-dv_has_next_item: "[[Epoch~]]"
-dv_is_same_as:
-  - "[[WD~Miaolingian,5025304]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian|Epoch-509~Miaolingian]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian.public|Epoch-509~Miaolingian.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian.internal|Epoch-509~Miaolingian.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian.protect|Epoch-509~Miaolingian.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian.private|Epoch-509~Miaolingian.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian.personal|Epoch-509~Miaolingian.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0539~Paleozoic/Period-0539~Cambrian/Epoch-509~Miaolingian.secret|Epoch-509~Miaolingian.secret]]"
-dv_has_abbreviation: Ep3
-dv_has_time_started: -509000000
-dv_has_time_stopped: -497000000
-dv_has_text_of_color: "0xA6CF86"
 ---
 
 # [[Epoch-509~Miaolingian]] 
 
 #is_a_/time_/Epoch 
 
-#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-has_previous_item = `=this.dv_has_previous_item` 
-has_next_item = `=this.dv_has_next_item` 
+#has_/previous_/item :: [[Epoch~]] 
+#has_/next_/item :: [[Epoch~]] 
 #is_/same_as :: [[WD~Miaolingian,5025304]] 
 
 A time period from 509 to 497 million years ago. 
@@ -76,14 +37,14 @@ A time period from 509 to 497 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Miaolingian) 
 
 
-has_abbreviation = `=this.dv_has_abbreviation` 
+#has_/abbreviation :: Ep3
 
-has_time_started = `=this.dv_has_time_started` 
-has_time_stopped = `=this.dv_has_time_stopped` 
+#has_/time_/started :: -509e6 
+#has_/time_/stopped :: -497e6 
 
     sh:order 148 
 
-has_text_of_color = `=this.dv_has_text_of_color` 
+#has_/text_of_/color :: 0xA6CF86
 
 ## All Contents
 

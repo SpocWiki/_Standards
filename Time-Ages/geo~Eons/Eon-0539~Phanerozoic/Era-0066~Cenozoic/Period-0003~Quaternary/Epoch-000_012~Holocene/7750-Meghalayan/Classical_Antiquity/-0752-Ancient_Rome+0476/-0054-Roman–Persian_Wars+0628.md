@@ -6,42 +6,23 @@ aliases:
   - -0054-Roman–Persian Wars+0628
 has_id_wikidata: Q500409
 location:
-  - "[[_Standards/WikiData/WD~Levant,81483]]"
-  - "[[_Standards/WikiData/WD~South_Caucasus,200173]]"
-  - "[[_Standards/WikiData/WD~Atropatene,260437]]"
-  - "[[_Standards/WikiData/WD~Asia_Minor,12824780]]"
-  - "[[_Standards/WikiData/WD~Mesopotamia,11767]]"
-  - "[[_Standards/WikiData/WD~Balkans,23522]]"
-  - "[[_Standards/WikiData/WD~Aegean_Sea,34575]]"
+  - '[[_Standards/WikiData/WD~Levant,81483]]'
+  - '[[_Standards/WikiData/WD~South_Caucasus,200173]]'
+  - '[[_Standards/WikiData/WD~Atropatene,260437]]'
+  - '[[_Standards/WikiData/WD~Asia_Minor,12824780]]'
+  - '[[_Standards/WikiData/WD~Mesopotamia,11767]]'
+  - '[[_Standards/WikiData/WD~Balkans,23522]]'
+  - '[[_Standards/WikiData/WD~Aegean_Sea,34575]]'
 participant:
-  - "[[_Standards/WikiData/WD~Sasanian_Empire,83891]]"
-  - "[[_Standards/WikiData/WD~Parthian_Empire,1986139]]"
-  - "[[_Standards/WikiData/WD~Byzantine_Empire,12544]]"
-has_effect: "[[_Standards/WikiData/WD~Fall_of_the_Sasanian_Empire,5432180]]"
-has_cause: "[[_Standards/WikiData/WD~multiple_causes,18121382]]"
-instance_of: "[[_Standards/WikiData/WD~series_of_wars,104212151]]"
+  - '[[_Standards/WikiData/WD~Sasanian_Empire,83891]]'
+  - '[[_Standards/WikiData/WD~Parthian_Empire,1986139]]'
+  - '[[_Standards/WikiData/WD~Byzantine_Empire,12544]]'
+has_effect: '[[_Standards/WikiData/WD~Fall_of_the_Sasanian_Empire,5432180]]'
+has_cause: '[[_Standards/WikiData/WD~multiple_causes,18121382]]'
+instance_of: '[[_Standards/WikiData/WD~series_of_wars,104212151]]'
 end_time: 0628-01-01T00:00:00Z
 start_time: -0053-01-01T00:00:00Z
 Commons_category: Persian-Roman wars
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../../WikiData/WD~Roman–Persian_Wars,500409]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0054-Roman–Persian_Wars+0628|-0054-Roman–Persian_Wars+0628]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0054-Roman–Persian_Wars+0628.public|-0054-Roman–Persian_Wars+0628.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0054-Roman–Persian_Wars+0628.internal|-0054-Roman–Persian_Wars+0628.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0054-Roman–Persian_Wars+0628.protect|-0054-Roman–Persian_Wars+0628.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0054-Roman–Persian_Wars+0628.private|-0054-Roman–Persian_Wars+0628.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0054-Roman–Persian_Wars+0628.personal|-0054-Roman–Persian_Wars+0628.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0054-Roman–Persian_Wars+0628.secret|-0054-Roman–Persian_Wars+0628.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Roman–Persian_Wars,500409]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0054-Roman–Persian_Wars+0628|-0054-Roman–Persian_Wars+0628]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0054-Roman–Persian_Wars+0628.public|-0054-Roman–Persian_Wars+0628.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0054-Roman–Persian_Wars+0628.internal|-0054-Roman–Persian_Wars+0628.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0054-Roman–Persian_Wars+0628.protect|-0054-Roman–Persian_Wars+0628.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0054-Roman–Persian_Wars+0628.private|-0054-Roman–Persian_Wars+0628.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0054-Roman–Persian_Wars+0628.personal|-0054-Roman–Persian_Wars+0628.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0054-Roman–Persian_Wars+0628.secret|-0054-Roman–Persian_Wars+0628.secret]]"
 ---
 
 # [[-0054-Roman–Persian_Wars+0628]] 

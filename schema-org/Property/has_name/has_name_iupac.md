@@ -10,70 +10,40 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - iupac
   - name
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_name_iupac
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_name_iupac
 type: Pred_Text
-dv_has_:
-  name_:
-    iupac: Text
-  domain: MolecularEntity
-dv_has_name_iupac: Text
-dv_is_:
-  part_of: "pending:"
-  same_as:
-    - "[[/_Standards/schema-org/Property/has_name/has_name_iupac|has_name_iupac]]"
-    - "[[/_public/schema-org/Property/has_name/has_name_iupac.public|has_name_iupac.public]]"
-    - "[[/_internal/schema-org/Property/has_name/has_name_iupac.internal|has_name_iupac.internal]]"
-    - "[[/_protect/schema-org/Property/has_name/has_name_iupac.protect|has_name_iupac.protect]]"
-    - "[[/_private/schema-org/Property/has_name/has_name_iupac.private|has_name_iupac.private]]"
-    - "[[/_personal/schema-org/Property/has_name/has_name_iupac.personal|has_name_iupac.personal]]"
-    - "[[/_secret/schema-org/Property/has_name/has_name_iupac.secret|has_name_iupac.secret]]"
-dv_#has_:
-  name: has_name_iupac
-  range: Text
-dv_is_part_of: "pending:"
-dv_has_domain: MolecularEntity
-dv_has_name: has_name_iupac
-dv_has_range: Text
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_name/has_name_iupac|has_name_iupac]]"
-  - "[[/_public/schema-org/Property/has_name/has_name_iupac.public|has_name_iupac.public]]"
-  - "[[/_internal/schema-org/Property/has_name/has_name_iupac.internal|has_name_iupac.internal]]"
-  - "[[/_protect/schema-org/Property/has_name/has_name_iupac.protect|has_name_iupac.protect]]"
-  - "[[/_private/schema-org/Property/has_name/has_name_iupac.private|has_name_iupac.private]]"
-  - "[[/_personal/schema-org/Property/has_name/has_name_iupac.personal|has_name_iupac.personal]]"
-  - "[[/_secret/schema-org/Property/has_name/has_name_iupac.secret|has_name_iupac.secret]]"
 ---
 
 Predicate to describe the Text of MolecularEntity.
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use it like this: 
-- has_name_iupac = `=this.dv_has_name_iupac`  
-- has_name_iupac = `=this.dv_has_name_iupac`  
+- [has_/name_/iupac :: Text ] 
+- [ has_name_iupac :: Text ] 
 
 Systematic method of naming chemical compounds as recommended by the International Union of Pure and Applied Chemistry (IUPAC).
 
 Predicated describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: MolecularEntity  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_name_iupac )
+( #has_/range :: Text )
 
 
 ## Confidential Links & Embeds: 

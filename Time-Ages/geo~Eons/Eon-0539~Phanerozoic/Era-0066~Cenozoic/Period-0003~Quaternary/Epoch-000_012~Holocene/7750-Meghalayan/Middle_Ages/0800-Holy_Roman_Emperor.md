@@ -33,31 +33,9 @@ Commons_category: Holy Roman Emperors
 Colon_Classification: V1-5,1
 dissolved_abolished_or_demolished_date: 1806-08-06T00:00:00Z
 inception: 0962-01-01T00:00:00Z
-dv_has_:
-  previous_: "[[../Classical_Antiquity/9247-Ancient_Rome/0027-Roman_Emperor|0027-Roman_Emperor]]"
-dv_is_:
-  same_as:
-    - "[[WD~Holy_Roman_Emperor,181765]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0800-Holy_Roman_Emperor|0800-Holy_Roman_Emperor]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0800-Holy_Roman_Emperor.public|0800-Holy_Roman_Emperor.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0800-Holy_Roman_Emperor.internal|0800-Holy_Roman_Emperor.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0800-Holy_Roman_Emperor.protect|0800-Holy_Roman_Emperor.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0800-Holy_Roman_Emperor.private|0800-Holy_Roman_Emperor.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0800-Holy_Roman_Emperor.personal|0800-Holy_Roman_Emperor.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0800-Holy_Roman_Emperor.secret|0800-Holy_Roman_Emperor.secret]]"
-dv_has_previous_: "[[../Classical_Antiquity/9247-Ancient_Rome/0027-Roman_Emperor|0027-Roman_Emperor]]"
-dv_is_same_as:
-  - "[[WD~Holy_Roman_Emperor,181765]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0800-Holy_Roman_Emperor|0800-Holy_Roman_Emperor]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0800-Holy_Roman_Emperor.public|0800-Holy_Roman_Emperor.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0800-Holy_Roman_Emperor.internal|0800-Holy_Roman_Emperor.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0800-Holy_Roman_Emperor.protect|0800-Holy_Roman_Emperor.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0800-Holy_Roman_Emperor.private|0800-Holy_Roman_Emperor.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0800-Holy_Roman_Emperor.personal|0800-Holy_Roman_Emperor.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0800-Holy_Roman_Emperor.secret|0800-Holy_Roman_Emperor.secret]]"
 ---
 
-has_previous_ = `=this.dv_has_previous_` 
+#has_/previous_ :: [[../Classical_Antiquity/9247-Ancient_Rome/0027-Roman_Emperor|0027-Roman_Emperor]] 
 #is_/same_as :: [[WD~Holy_Roman_Emperor,181765]] 
 
 ## #has_/text_of_/abstract 

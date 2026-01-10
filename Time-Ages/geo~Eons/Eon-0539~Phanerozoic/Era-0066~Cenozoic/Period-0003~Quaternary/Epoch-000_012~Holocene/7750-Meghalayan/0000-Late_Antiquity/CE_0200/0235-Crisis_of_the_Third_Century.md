@@ -5,32 +5,13 @@ aliases:
   - 0235-Crisis of the Third Century
 has_id_wikidata: Q329838
 instance_of:
-  - "[[_Standards/WikiData/WD~crisis,381072]]"
-  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
+  - '[[_Standards/WikiData/WD~crisis,381072]]'
+  - '[[_Standards/WikiData/WD~historical_period,11514315]]'
 start_time: 0235-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20Ancient%20Rome%20271%20AD-ru.svg
 Commons_category: Crisis of the Third Century
 point_in_time: 0300-01-01T00:00:00Z
 end_time: 0284-01-01T00:00:00Z
-dv_is_:
-  same_as:
-    - "[[../../../../../../../../../WikiData/WD~Crisis_of_the_Third_Century,329838|WD~Crisis_of_the_Third_Century,329838]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0200/0235-Crisis_of_the_Third_Century|0235-Crisis_of_the_Third_Century]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0200/0235-Crisis_of_the_Third_Century.public|0235-Crisis_of_the_Third_Century.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0200/0235-Crisis_of_the_Third_Century.internal|0235-Crisis_of_the_Third_Century.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0200/0235-Crisis_of_the_Third_Century.protect|0235-Crisis_of_the_Third_Century.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0200/0235-Crisis_of_the_Third_Century.private|0235-Crisis_of_the_Third_Century.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0200/0235-Crisis_of_the_Third_Century.personal|0235-Crisis_of_the_Third_Century.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0200/0235-Crisis_of_the_Third_Century.secret|0235-Crisis_of_the_Third_Century.secret]]"
-dv_is_same_as:
-  - "[[../../../../../../../../../WikiData/WD~Crisis_of_the_Third_Century,329838|WD~Crisis_of_the_Third_Century,329838]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0200/0235-Crisis_of_the_Third_Century|0235-Crisis_of_the_Third_Century]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0200/0235-Crisis_of_the_Third_Century.public|0235-Crisis_of_the_Third_Century.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0200/0235-Crisis_of_the_Third_Century.internal|0235-Crisis_of_the_Third_Century.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0200/0235-Crisis_of_the_Third_Century.protect|0235-Crisis_of_the_Third_Century.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0200/0235-Crisis_of_the_Third_Century.private|0235-Crisis_of_the_Third_Century.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0200/0235-Crisis_of_the_Third_Century.personal|0235-Crisis_of_the_Third_Century.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0200/0235-Crisis_of_the_Third_Century.secret|0235-Crisis_of_the_Third_Century.secret]]"
 ---
 
 # [[0235-Crisis_of_the_Third_Century]] 

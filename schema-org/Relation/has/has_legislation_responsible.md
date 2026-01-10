@@ -9,59 +9,30 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
   - legislation_responsible
   - legislation
   - responsible
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_legislation_responsible
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_legislation_responsible
 type: Predi_Relation
-dv_has_:
-  legislation_responsible: Organization, Person
-  domain: Legislation
-dv_has_legislation_responsible: Organization, Person
-dv_is_:
-  part_of: "pending:"
-  same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_legislation_responsible|has_legislation_responsible]]"
-    - "[[/_public/schema-org/Relation/has/has_legislation_responsible.public|has_legislation_responsible.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_legislation_responsible.internal|has_legislation_responsible.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_legislation_responsible.protect|has_legislation_responsible.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_legislation_responsible.private|has_legislation_responsible.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_legislation_responsible.personal|has_legislation_responsible.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_legislation_responsible.secret|has_legislation_responsible.secret]]"
-dv_#has_:
-  name: has_legislation_responsible
-  range: Organization, Person
-dv_is_part_of: "pending:"
-dv_has_domain: Legislation
-dv_has_name: has_legislation_responsible
-dv_has_range: Organization, Person
-dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_legislation_responsible|has_legislation_responsible]]"
-  - "[[/_public/schema-org/Relation/has/has_legislation_responsible.public|has_legislation_responsible.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_legislation_responsible.internal|has_legislation_responsible.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_legislation_responsible.protect|has_legislation_responsible.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_legislation_responsible.private|has_legislation_responsible.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_legislation_responsible.personal|has_legislation_responsible.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_legislation_responsible.secret|has_legislation_responsible.secret]]"
 ---
 
-is_part_of = `=this.dv_is_part_of` 
+#is_/part_of :: pending:  
 
 Use it like this: 
-- has_legislation_responsible = `=this.dv_has_legislation_responsible`  
-- has_legislation_responsible = `=this.dv_has_legislation_responsible`  
+- [has_/legislation_responsible :: Organization, Person ] 
+- [ has_legislation_responsible :: Organization, Person ] 
 
 An individual or organization that has some kind of responsibility for the legislation.
 Typically the ministry who is/was in charge of elaborating the legislation,
@@ -69,10 +40,10 @@ or the adressee for potential questions about the legislation once it is publish
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain  :: Legislation  
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+( #has_/name :: has_legislation_responsible )
+( #has_/range :: Organization, Person )
 
 
 ## Confidential Links & Embeds: 

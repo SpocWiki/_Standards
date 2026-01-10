@@ -30,88 +30,6 @@ end_time: -2800000000-01-01T00:00:00Z
 start_time: -3200000000-01-01T00:00:00Z
 Commons_category: Mesoarchean
 sRGB_color_hex_triplet: F768A9
-dv_has_:
-  duration_:
-    years: "4.000e+8"
-  previous_:
-    item: "[[Era-3600~Paleoarchean]]"
-  next_:
-    item: "[[Era-2800~Neoarchean]]"
-  abbreviation: MA
-  name_:
-    bg: Мезоархай
-    cs: Mezoarchaikum
-    da: Mesoarkæisk
-    de: Mesoarchaikum
-    en-GB: Mesoarchaean
-    en-US: Mesoarchean
-    es: Mesoarcaico
-    et: Mesoarhaikum
-    fi: Mesoarkeikum
-    fr: Mésoarchéen
-    hu: mezoarchai
-    it: mesoarcheano
-    ja: 中始生代
-    lt: Mezoarchejus
-    nl: Meso-archaicum
-    no: Mesoarkeikum
-    pl: Mezoarchaik
-    pt: Mesoarcaico
-    sk: mezoarchaikum
-    sl: mezoarhaik
-    sv: mesoarkeikum
-    zh: 中太古代
-  time_:
-    started: "-3.200e9"
-    stopped: "-2.800e9"
-  text_of_:
-    color: "0xF768A9"
-dv_is_:
-  same_as:
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean|Era-3200~Mesoarchean]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean.public|Era-3200~Mesoarchean.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean.internal|Era-3200~Mesoarchean.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean.protect|Era-3200~Mesoarchean.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean.private|Era-3200~Mesoarchean.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean.personal|Era-3200~Mesoarchean.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean.secret|Era-3200~Mesoarchean.secret]]"
-dv_has_duration_years: "4.000e+8"
-dv_has_previous_item: "[[Era-3600~Paleoarchean]]"
-dv_has_next_item: "[[Era-2800~Neoarchean]]"
-dv_has_abbreviation: MA
-dv_has_name_bg: Мезоархай
-dv_has_name_cs: Mezoarchaikum
-dv_has_name_da: Mesoarkæisk
-dv_has_name_de: Mesoarchaikum
-dv_has_name_en-gb: Mesoarchaean
-dv_has_name_en-us: Mesoarchean
-dv_has_name_es: Mesoarcaico
-dv_has_name_et: Mesoarhaikum
-dv_has_name_fi: Mesoarkeikum
-dv_has_name_fr: Mésoarchéen
-dv_has_name_hu: mezoarchai
-dv_has_name_it: mesoarcheano
-dv_has_name_ja: 中始生代
-dv_has_name_lt: Mezoarchejus
-dv_has_name_nl: Meso-archaicum
-dv_has_name_no: Mesoarkeikum
-dv_has_name_pl: Mezoarchaik
-dv_has_name_pt: Mesoarcaico
-dv_has_name_sk: mezoarchaikum
-dv_has_name_sl: mezoarhaik
-dv_has_name_sv: mesoarkeikum
-dv_has_name_zh: 中太古代
-dv_has_time_started: "-3.200e9"
-dv_has_time_stopped: "-2.800e9"
-dv_has_text_of_color: "0xF768A9"
-dv_is_same_as:
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean|Era-3200~Mesoarchean]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean.public|Era-3200~Mesoarchean.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean.internal|Era-3200~Mesoarchean.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean.protect|Era-3200~Mesoarchean.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean.private|Era-3200~Mesoarchean.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean.personal|Era-3200~Mesoarchean.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-4031~Archean/Era-3200~Mesoarchean.secret|Era-3200~Mesoarchean.secret]]"
 ---
 # [[Era-3200~Mesoarchean]] 
 
@@ -119,10 +37,10 @@ dv_is_same_as:
 
 A time period from 3200 to 2800 million years ago. 
 
-#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-has_previous_item = `=this.dv_has_previous_item` 
-has_next_item = `=this.dv_has_next_item` 
+#has_/previous_/item :: [[Era-3600~Paleoarchean]] 
+#has_/next_/item :: [[Era-2800~Neoarchean]] 
 
 ## #has_/text_of_/abstract 
 
@@ -131,35 +49,35 @@ has_next_item = `=this.dv_has_next_item`
 > [Wikipedia](https://en.wikipedia.org/wiki/Mesoarchean) 
 
 
-has_abbreviation = `=this.dv_has_abbreviation` 
+#has_/abbreviation :: MA
 
-has_name_bg = `=this.dv_has_name_bg` 
-has_name_cs = `=this.dv_has_name_cs` 
-has_name_da = `=this.dv_has_name_da` 
-has_name_de = `=this.dv_has_name_de` 
-has_name_en-gb = `=this.dv_has_name_en-gb` 
-has_name_en-us = `=this.dv_has_name_en-us` 
-has_name_es = `=this.dv_has_name_es` 
-has_name_et = `=this.dv_has_name_et` 
-has_name_fi = `=this.dv_has_name_fi` 
-has_name_fr = `=this.dv_has_name_fr` 
-has_name_hu = `=this.dv_has_name_hu` 
-has_name_it = `=this.dv_has_name_it` 
-has_name_ja = `=this.dv_has_name_ja` 
-has_name_lt = `=this.dv_has_name_lt` 
-has_name_nl = `=this.dv_has_name_nl` 
-has_name_no = `=this.dv_has_name_no` 
-has_name_pl = `=this.dv_has_name_pl` 
-has_name_pt = `=this.dv_has_name_pt` 
-has_name_sk = `=this.dv_has_name_sk` 
-has_name_sl = `=this.dv_has_name_sl` 
-has_name_sv = `=this.dv_has_name_sv` 
-has_name_zh = `=this.dv_has_name_zh` 
+#has_/name_/bg  :: Мезоархай
+#has_/name_/cs  :: Mezoarchaikum
+#has_/name_/da  :: Mesoarkæisk
+#has_/name_/de  :: Mesoarchaikum
+#has_/name_/en-GB  :: Mesoarchaean
+#has_/name_/en-US  :: Mesoarchean
+#has_/name_/es  :: Mesoarcaico
+#has_/name_/et  :: Mesoarhaikum
+#has_/name_/fi  :: Mesoarkeikum
+#has_/name_/fr  :: Mésoarchéen
+#has_/name_/hu  :: mezoarchai
+#has_/name_/it  :: mesoarcheano
+#has_/name_/ja  :: 中始生代
+#has_/name_/lt  :: Mezoarchejus
+#has_/name_/nl  :: Meso-archaicum
+#has_/name_/no  :: Mesoarkeikum
+#has_/name_/pl  :: Mezoarchaik
+#has_/name_/pt  :: Mesoarcaico
+#has_/name_/sk  :: mezoarchaikum
+#has_/name_/sl  :: mezoarhaik
+#has_/name_/sv  :: mesoarkeikum
+#has_/name_/zh  :: 中太古代
 
-has_time_started = `=this.dv_has_time_started` 
-has_time_stopped = `=this.dv_has_time_stopped` 
+#has_/time_/started :: -3.200e9 
+#has_/time_/stopped :: -2.800e9 
 
-has_text_of_color = `=this.dv_has_text_of_color` 
+#has_/text_of_/color :: 0xF768A9
 
 ## All Contents
 

@@ -36,105 +36,25 @@ sRGB_color_hex_triplet: FFFF00
 end_time: -5333000-01-01T00:00:00Z
 Commons_category: Miocene
 Dewey_Decimal_Classification: "551.787"
-dv_has_:
-  previous_:
-    item: "[[../Period-0066~Paleogene/Epoch-034~Oligocene|Epoch-034~Oligocene]]"
-  next_:
-    item: "[[Epoch-005~Pliocene]]"
-  abbreviation: N1
-  time_:
-    started: "-23.030e6"
-    stopped: "-5.333e6"
-  duration_:
-    years: "1.770e+7"
-  text_of_:
-    color: "0xFFFF00"
-  name_:
-    bg: Миоцен
-    cs: Miocén
-    da: Miocæn
-    de: Miozän
-    es: Mioceno
-    et: Miotseen
-    fi: Mioseeni
-    fr: Miocène
-    hu: miocén
-    it: miocene
-    ja: 中新世
-    lt: Miocenas
-    nl: Mioceen
-    no: Miocen
-    pl: Miocen
-    pt: Miocénico
-    sk: miocén
-    sl: miocen
-    sv: miocen
-    zh: 中新世
-dv_is_:
-  same_as:
-    - "[[WD~Miocene,76267]]"
-    - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene|Epoch-023~Miocene]]"
-    - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene.public|Epoch-023~Miocene.public]]"
-    - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene.internal|Epoch-023~Miocene.internal]]"
-    - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene.protect|Epoch-023~Miocene.protect]]"
-    - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene.private|Epoch-023~Miocene.private]]"
-    - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene.personal|Epoch-023~Miocene.personal]]"
-    - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene.secret|Epoch-023~Miocene.secret]]"
-dv_has_previous_item: "[[../Period-0066~Paleogene/Epoch-034~Oligocene|Epoch-034~Oligocene]]"
-dv_has_next_item: "[[Epoch-005~Pliocene]]"
-dv_is_same_as:
-  - "[[WD~Miocene,76267]]"
-  - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene|Epoch-023~Miocene]]"
-  - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene.public|Epoch-023~Miocene.public]]"
-  - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene.internal|Epoch-023~Miocene.internal]]"
-  - "[[/_protect/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene.protect|Epoch-023~Miocene.protect]]"
-  - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene.private|Epoch-023~Miocene.private]]"
-  - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene.personal|Epoch-023~Miocene.personal]]"
-  - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0023~Neogene/Epoch-023~Miocene.secret|Epoch-023~Miocene.secret]]"
-dv_has_abbreviation: N1
-dv_has_time_started: "-23.030e6"
-dv_has_time_stopped: "-5.333e6"
-dv_has_duration_years: "1.770e+7"
-dv_has_text_of_color: "0xFFFF00"
-dv_has_name_bg: Миоцен
-dv_has_name_cs: Miocén
-dv_has_name_da: Miocæn
-dv_has_name_de: Miozän
-dv_has_name_es: Mioceno
-dv_has_name_et: Miotseen
-dv_has_name_fi: Mioseeni
-dv_has_name_fr: Miocène
-dv_has_name_hu: miocén
-dv_has_name_it: miocene
-dv_has_name_ja: 中新世
-dv_has_name_lt: Miocenas
-dv_has_name_nl: Mioceen
-dv_has_name_no: Miocen
-dv_has_name_pl: Miocen
-dv_has_name_pt: Miocénico
-dv_has_name_sk: miocén
-dv_has_name_sl: miocen
-dv_has_name_sv: miocen
-dv_has_name_zh: 中新世
 ---
 
 # [[Epoch-023~Miocene]] 
 
 #is_a_/time_/Epoch 
 
-has_previous_item = `=this.dv_has_previous_item` 
-has_next_item = `=this.dv_has_next_item` 
+#has_/previous_/item :: [[../Period-0066~Paleogene/Epoch-034~Oligocene|Epoch-034~Oligocene]]  
+#has_/next_/item :: [[Epoch-005~Pliocene]] 
 #is_/same_as :: [[WD~Miocene,76267]] 
 
-has_abbreviation = `=this.dv_has_abbreviation` 
-has_time_started = `=this.dv_has_time_started` 
-has_time_stopped = `=this.dv_has_time_stopped` 
-#has_/duration_/years :: `$=(((dv.current().dv_has_time_stopped ?? new Date().year) - dv.current().dv_has_time_started)).toExponential(3)` 
+#has_/abbreviation :: N1
+#has_/time_/started :: -23.030e6 
+#has_/time_/stopped ::  -5.333e6 
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
 
     sh:order 20 
 
-has_text_of_color = `=this.dv_has_text_of_color` 
+#has_/text_of_/color :: 0xFFFF00
 
 A time period from 23.03 to 5.333 million years ago. 
 
@@ -189,26 +109,26 @@ A time period from 23.03 to 5.333 million years ago.
 > [Wikipedia](https://en.wikipedia.org/wiki/Miocene) 
 
 
-has_name_bg = `=this.dv_has_name_bg` 
-has_name_cs = `=this.dv_has_name_cs` 
-has_name_da = `=this.dv_has_name_da` 
-has_name_de = `=this.dv_has_name_de` 
-has_name_es = `=this.dv_has_name_es` 
-has_name_et = `=this.dv_has_name_et` 
-has_name_fi = `=this.dv_has_name_fi` 
-has_name_fr = `=this.dv_has_name_fr` 
-has_name_hu = `=this.dv_has_name_hu` 
-has_name_it = `=this.dv_has_name_it` 
-has_name_ja = `=this.dv_has_name_ja` 
-has_name_lt = `=this.dv_has_name_lt` 
-has_name_nl = `=this.dv_has_name_nl` 
-has_name_no = `=this.dv_has_name_no` 
-has_name_pl = `=this.dv_has_name_pl` 
-has_name_pt = `=this.dv_has_name_pt` 
-has_name_sk = `=this.dv_has_name_sk` 
-has_name_sl = `=this.dv_has_name_sl` 
-has_name_sv = `=this.dv_has_name_sv` 
-has_name_zh = `=this.dv_has_name_zh` 
+#has_/name_/bg  :: Миоцен
+#has_/name_/cs  :: Miocén
+#has_/name_/da  :: Miocæn
+#has_/name_/de  :: Miozän
+#has_/name_/es  :: Mioceno
+#has_/name_/et  :: Miotseen
+#has_/name_/fi  :: Mioseeni
+#has_/name_/fr  :: Miocène
+#has_/name_/hu  :: miocén
+#has_/name_/it  :: miocene
+#has_/name_/ja  :: 中新世
+#has_/name_/lt  :: Miocenas
+#has_/name_/nl  :: Mioceen
+#has_/name_/no  :: Miocen
+#has_/name_/pl  :: Miocen
+#has_/name_/pt  :: Miocénico
+#has_/name_/sk  :: miocén
+#has_/name_/sl  :: miocen
+#has_/name_/sv  :: miocen
+#has_/name_/zh  :: 中新世
 
 ## All Contents
 
