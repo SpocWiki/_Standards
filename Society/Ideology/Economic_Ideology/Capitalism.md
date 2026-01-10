@@ -90,14 +90,12 @@ Wolfram_Language_entity_code: Entity["Concept", "Capitalism::qk623"]
 #has_/creator :: [[../../Economics/Economist/Smith,Adam|Smith,Adam]] 
 #has_/creator :: [[../../Economics/Economist/Ricardo,David|Ricardo,David]]  
 
-<<<<<<< HEAD
 [[Capitalism/Credit|Credit]]s increase the amount of [[Capitalism/Capital(Economics)|Capital]] available in the Market. 
-=======
+
 Unrestrained Capitalism led to many atrocities, 
 among others to [[Workforce_Exploitation]], the [[Great_Bengal_Famine]], 
 the [[Atlantic_Slave_Trade]] and the [[Opium_Wars]]. 
 This shows what [[../Political_Ideology/Humanism/Liberalism|Liberalism]] will lead to. 
->>>>>>> b0db95c5cb1c1d0a79daaff62de9ffba40b4805b
 
 ## #has_/text_of_/abstract 
 
