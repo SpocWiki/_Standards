@@ -393,7 +393,7 @@ dv_ISO4217-currency_country_name: ZAMBIA
 dv_Telephone: 260
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Zambia
+dv_has_name: Zambia
 dv_has_name_en: Zambia
 dv_has_name_es: Zambia
 dv_has_name_fr: Zambie
@@ -489,7 +489,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 [	has_name_en	 :: Zambia ]
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`

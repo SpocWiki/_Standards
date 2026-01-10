@@ -44,7 +44,7 @@ dv_ISO4217-currency_country_name: "{{ISO4217-currency_country_name}}"
 dv_Telephone: "{{Dial}}"
 dv_Global: "{{Global}}"
 dv_Global_Name: "{{Global_Name}}"
-dv_has_name_: "{{CLDR_display_name}}"
+dv_has_name: "{{CLDR_display_name}}"
 dv_has_name_en: "{{has_name_en}}"
 dv_has_name_es: "{{has_name_es}}"
 dv_has_name_fr: "{{has_name_fr}}"
@@ -120,7 +120,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 has_name_en = `=this.dv_has_name_en`
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`

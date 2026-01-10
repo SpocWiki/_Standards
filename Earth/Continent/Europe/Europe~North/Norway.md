@@ -21,7 +21,7 @@ dv_ISO4217-currency_country_name: NORWAY
 dv_Telephone: 47
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Norway
+dv_has_name: Norway
 dv_has_name_en: Norway
 dv_has_name_es: Noruega
 dv_has_name_fr: Norvège
@@ -599,7 +599,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 [	has_name_en	 :: Norway ]
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`

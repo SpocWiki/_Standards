@@ -1,6 +1,6 @@
 ---
 dv_Telephone: 886
-dv_has_name_: Taiwan
+dv_has_name: Taiwan
 dv_has_name_en:
   - 
   - Taiwan
@@ -533,9 +533,9 @@ is_a_ = `=this.dv_is_a_`
 Telephone = `=this.dv_Telephone`
 
 [	Global	 ::  ]
-[	Global_name = `=this.dv_name`
+[	Global_name = `=this.dv_has_name`
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 [	has_name_en	 ::  ]
 [	has_name_es	 ::  ]
 [	has_name_fr	 ::  ]

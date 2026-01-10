@@ -136,7 +136,7 @@ dv_ISO4217-currency_country_name: WESTERN SAHARA
 dv_Telephone: 212
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Western Sahara
+dv_has_name: Western Sahara
 dv_has_name_en:
   - Western Sahara
   - Western Sahara
@@ -214,7 +214,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 [	has_name_en	 :: Western Sahara ]
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`

@@ -328,7 +328,7 @@ dv_ISO4217-currency_country_name: BURUNDI
 dv_Telephone: 257
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Burundi
+dv_has_name: Burundi
 dv_has_name_en: Burundi
 dv_has_name_es: Burundi
 dv_has_name_fr: Burundi
@@ -422,7 +422,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
-has_name = `=this.dv_name`
+has_name = `=this.dv_has_name`
 has_name = `=this.dv_has_.name_`
 has_name_en = `=this.dv_has_name_en`
 has_name_de = `=this.dv_has_name_de`

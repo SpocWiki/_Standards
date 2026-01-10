@@ -11,7 +11,7 @@ dv_ISO4217-currency_country_name: DENMARK
 dv_Telephone: 45
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Denmark
+dv_has_name: Denmark
 dv_has_name_en: Denmark
 dv_has_name_es: Dinamarca
 dv_has_name_fr: Danemark
@@ -617,7 +617,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 [	has_name_en	 :: Denmark ]
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`

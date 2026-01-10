@@ -35,7 +35,7 @@ type:
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 134.4667
 dv_has_place_latitude: 7.35
-dv_has_name_: Melekeok
+dv_has_name: Melekeok
 dv_Country: "[[../../../../Micronesia/Palau]]]"
 dv_Unknown: 32
 dv_is_:
@@ -61,7 +61,7 @@ dv_is_same_as:
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 has_place_province::  
 Country = `=this.dv_Country`
 [StateId::] 

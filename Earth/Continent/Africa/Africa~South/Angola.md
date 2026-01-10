@@ -380,7 +380,7 @@ dv_ISO4217-currency_country_name: ANGOLA
 dv_Telephone: 244
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Angola
+dv_has_name: Angola
 dv_has_name_en: Angola
 dv_has_name_es: Angola
 dv_has_name_fr: Angola
@@ -477,7 +477,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 [	has_name_en	 :: Angola ]
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`

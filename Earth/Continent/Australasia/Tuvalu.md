@@ -251,7 +251,7 @@ dv_ISO4217-currency_country_name: TUVALU
 dv_Telephone: 688
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Tuvalu
+dv_has_name: Tuvalu
 dv_has_name_en: Tuvalu
 dv_has_name_es: Tuvalu
 dv_has_name_fr: Tuvalu
@@ -336,7 +336,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global` 
 Global_Name = `=this.dv_Global_Name` 
 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 [	has_name_en	 :: Tuvalu ] 
 has_name_es = `=this.dv_has_name_es` 
 has_name_fr = `=this.dv_has_name_fr` 

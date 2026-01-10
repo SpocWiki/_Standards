@@ -11,7 +11,7 @@ dv_ISO4217-currency_country_name: CAMEROON
 dv_Telephone: 237
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Cameroon
+dv_has_name: Cameroon
 dv_has_name_en: Cameroon
 dv_has_name_es: Camerún
 dv_has_name_fr: Cameroun
@@ -714,7 +714,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 [	has_name_en	 :: Cameroon ]
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`

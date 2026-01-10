@@ -24,7 +24,7 @@ dv_is_:
     - "[[/_private/Earth/Continent/Europe/Europe~Central/Germany.private|Germany.private]]"
     - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany.personal|Germany.personal]]"
     - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany.secret|Germany.secret]]"
-dv_has_name_: Germany
+dv_has_name: Germany
 dv_has_name_en: Germany
 dv_has_name_es: Alemania
 dv_has_name_fr: Allemagne
@@ -768,7 +768,7 @@ defaultZoom: 5
 
 ## International Names
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 has_name_en = `=this.dv_has_name_en`
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`

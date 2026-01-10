@@ -14,7 +14,7 @@ type: City
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: 165.33
 dv_has_place_latitude: 11.58
-dv_has_name_: Bikini
+dv_has_name: Bikini
 dv_has_place_country: "[[../../../Marshall~Islands]]"
 dv_is_:
   same_as:
@@ -39,7 +39,7 @@ dv_is_same_as:
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 has_place_province::  
 has_place_country = `=this.dv_has_place_country`
 [StateId::] 

@@ -846,7 +846,7 @@ dv_ISO4217-currency_country_name: MEXICO
 dv_Telephone: 52
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Mexico
+dv_has_name: Mexico
 dv_has_name_en: Mexico
 dv_has_name_es: México
 dv_has_name_fr: Mexique
@@ -939,7 +939,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 [	has_name_en	 :: Mexico ]
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`

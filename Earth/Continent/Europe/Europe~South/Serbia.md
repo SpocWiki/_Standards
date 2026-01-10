@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: SERBIA
 dv_Telephone: 381
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Serbia
+dv_has_name: Serbia
 dv_has_name_en: Serbia
 dv_has_name_es: Serbia
 dv_has_name_fr: Serbie
@@ -541,7 +541,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 [	has_name_en	 :: Serbia ]
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`

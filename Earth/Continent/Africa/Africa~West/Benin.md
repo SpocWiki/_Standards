@@ -11,7 +11,7 @@ dv_ISO4217-currency_country_name: BENIN
 dv_Telephone: 229
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Benin
+dv_has_name: Benin
 dv_has_name_en: Benin
 dv_has_name_es: Benin
 dv_has_name_fr: Bénin
@@ -478,7 +478,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 [	has_name_en	 :: Benin ]
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`

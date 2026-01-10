@@ -310,7 +310,7 @@ dv_ISO4217-currency_country_name: RWANDA
 dv_Telephone: 250
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Rwanda
+dv_has_name: Rwanda
 dv_has_name_en: Rwanda
 dv_has_name_es: Rwanda
 dv_has_name_fr: Rwanda
@@ -406,7 +406,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 [	has_name_en	 :: Rwanda ]
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`

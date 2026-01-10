@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: LEBANON
 dv_Telephone: 961
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Lebanon
+dv_has_name: Lebanon
 dv_has_name_en: Lebanon
 dv_has_name_es: Líbano
 dv_has_name_fr: Liban
@@ -458,7 +458,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 [	has_name_en	 :: Lebanon ]
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`

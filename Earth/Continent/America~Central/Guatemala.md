@@ -387,7 +387,7 @@ dv_ISO4217-currency_country_name: GUATEMALA
 dv_Telephone: 502
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Guatemala
+dv_has_name: Guatemala
 dv_has_name_en: Guatemala
 dv_has_name_es: Guatemala
 dv_has_name_fr: Guatemala
@@ -481,7 +481,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 [	has_name_en	 :: Guatemala ]
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`

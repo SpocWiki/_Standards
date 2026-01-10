@@ -11,7 +11,7 @@ dv_ISO4217-currency_country_name: LATVIA
 dv_Telephone: 371
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Latvia
+dv_has_name: Latvia
 dv_has_name_en: Latvia
 dv_has_name_es: Letonia
 dv_has_name_fr: Lettonie
@@ -598,7 +598,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
-name = `=this.dv_name`
+name = `=this.dv_has_name`
 [	has_name_en	 :: Latvia ]
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`
