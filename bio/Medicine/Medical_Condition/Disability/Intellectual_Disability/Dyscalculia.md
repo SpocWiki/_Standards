@@ -1,0 +1,70 @@
+---
+aliases:
+  - Dyskalkulie
+has_id_wikidata: Q742672
+subclass_of:
+  - "[[_Standards/WikiData/WD~mathematical anxiety,845527]]"
+  - "[[_Standards/WikiData/WD~learning disability,860740]]"
+  - "[[_Standards/WikiData/WD~disease,12136]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Medicine,4099686]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~Mathematical disorder,79052868]]"
+  - "[[_Standards/WikiData/WD~class of disease,112193867]]"
+health_specialty:
+  - "[[_Standards/WikiData/WD~neuropsychology,3872]]"
+  - "[[_Standards/WikiData/WD~psychiatry,7867]]"
+OmegaWiki_Defined_Meaning: "1056375"
+ICD_9_CM: "315.1"
+DSM_IV_classification: "315.1"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Rijtjes%20sommen%20beloning.jpg
+exact_match:
+  - http://identifiers.org/doid/DOID:12568
+  - http://purl.obolibrary.org/obo/DOID_12568
+  - http://purl.obolibrary.org/obo/HP_0002442
+UMLS_CUI:
+  - C0869474
+  - C1411876
+  - C4280576
+MeSH_tree_code:
+  - C10.597.606.150.550.700.250
+  - C23.888.592.604.150.550.700.250
+  - F03.625.374.188.700.250
+  - F03.625.562.700.250
+subreddit: dyscalculia
+Commons_category: Dyscalculia
+Dewey_Decimal_Classification:
+  - "618.9285889"
+  - "371.926"
+---
+
+# [[Dyscalculia]] 
+
+#is_/same_as :: [[WD~Dyscalculia,742672]] 
+
+## #has_/text_of_/abstract 
+
+> **Dyscalculia** is a learning disability resulting in difficulty learning or comprehending arithmetic, 
+> such as difficulty in understanding numbers, numeracy, 
+> learning how to manipulate numbers, performing mathematical calculations, 
+> and learning facts in mathematics. 
+> 
+> It is sometimes colloquially referred to as "math [[Dyslexia]]", 
+> though this analogy can be misleading as they are distinct syndromes.
+>
+> Dyscalculia is associated with dysfunction in the region around the intraparietal sulcus 
+> and potentially also the frontal lobe. 
+> 
+> Dyscalculia does not reflect a general deficit in cognitive abilities 
+> or difficulties with time, measurement, and spatial reasoning. 
+> 
+> Estimates of the prevalence of dyscalculia range 
+> between three and six percent of the population. 
+> 
+> In 2015, it was established that 
+> 11% of children with dyscalculia also have attention deficit hyperactivity disorder (ADHD). 
+> 
+> Dyscalculia has also been associated with Turner syndrome and people who have spina bifida.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Dyscalculia) 
+
+

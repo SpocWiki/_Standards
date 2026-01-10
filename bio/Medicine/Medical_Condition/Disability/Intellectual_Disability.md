@@ -90,7 +90,14 @@ Krugosvet_article_archived_: medicina/UMSTVENNAYA_OTSTALOST.html
 >
 > Intellectual disability is subdivided into syndromic intellectual disability, in which intellectual deficits associated with other medical and behavioral signs and symptoms are present, and non-syndromic intellectual disability, in which intellectual deficits appear without other abnormalities. Down syndrome and fragile X syndrome are examples of syndromic intellectual disabilities.
 >
-> Intellectual disability affects about 2–3% of the general population. Seventy-five to ninety percent of the affected people have mild intellectual disability. Non-syndromic, or idiopathic cases account for 30–50% of these cases. About a quarter of cases are caused by a genetic disorder, and about 5% of cases are inherited. Cases of unknown cause affect about 95 million people as of 2013.
+> Intellectual disability affects about 2–3% of the general population. 
+> Seventy-five to ninety percent of the affected people have mild intellectual disability. 
+> Non-syndromic, or idiopathic cases account for 30–50% of these cases. 
+> 
+> About a quarter of cases are caused by a genetic disorder, 
+> and about 5% of cases are inherited. 
+> 
+> Cases of unknown cause affect about 95 million people as of 2013.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Intellectual%20disability) 
 

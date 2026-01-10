@@ -1,0 +1,113 @@
+---
+aliases:
+  - Lese- und Rechtschreibstörung
+  - Lese- und Rechtschreibschwäche
+  - Leseschwäche
+  - Legasthenie
+  - Dyslexie
+has_id_wikidata: Q132971
+Wolfram_Language_entity_code: Entity["Concept", "Dyslexia::2m4tp"]
+MeSH_tree_code:
+  - F03.625.374.188.700.500
+  - F03.625.562.700.500
+  - C10.597.606.150.500.300
+  - C10.597.606.150.550.700.500
+  - C23.888.592.604.150.500.300
+  - C23.888.592.604.150.550.700.500
+Dewey_Decimal_Classification:
+  - "618.928553"
+  - "371.9144"
+  - "616.8553"
+health_specialty:
+  - "[[_Standards/WikiData/WD~pediatrics,123028]]"
+  - "[[_Standards/WikiData/WD~neuropsychology,3872]]"
+has_cause: "[[_Standards/WikiData/WD~genetic disease,200779]]"
+opposite_of: "[[_Standards/WikiData/WD~hyperlexia,776660]]"
+subclass_of:
+  - "[[_Standards/WikiData/WD~learning disability,860740]]"
+  - "[[_Standards/WikiData/WD~language disorder,10469820]]"
+  - "[[_Standards/WikiData/WD~reading disorder and écrites disorder,17077617]]"
+  - "[[_Standards/WikiData/WD~disease,12136]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~learning disability,860740]]"
+  - "[[_Standards/WikiData/WD~reading disability,97696569]]"
+  - "[[_Standards/WikiData/WD~class of disease,112193867]]"
+medical_examination: "[[_Standards/WikiData/WD~functional magnetic resonance imaging,903809]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Medicine,4099686]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Dyslexia,7452219]]"
+symptoms_and_signs: "[[_Standards/WikiData/WD~reading disorder and écrites disorder,17077617]]"
+genetic_association: "[[_Standards/WikiData/WD~PCSK6,18030335]]"
+described_by_source: "[[_Standards/WikiData/WD~Lexicon van de jeugdliteratuur,66087609]]"
+facet_of: "[[_Standards/WikiData/WD~dyslexic,114049688]]"
+DiseasesDB: "4016"
+OmegaWiki_Defined_Meaning: "428063"
+Commons_category: Dyslexia
+subreddit: Dyslexia
+ICD_10_CM: R48.0
+schematic:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Assessment%2C%20Diagnosis%20and%20Intervention%20Cycle%20for%20Dyslexia%20in%20the%20United%20Kingdom.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Dyslexies.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Erscheinungsbild%20Legasthenie.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Infogr%C3%A1fico%20ilustrado%20com%20diversos%20dados%20e%20informa%C3%A7%C3%B5es%20sobre%20a%20dislexia.png
+icon: http://commons.wikimedia.org/wiki/Special:FilePath/Dislekti48px-04.jpg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Dislexia1.jpg
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-Dyslexia-article.ogg
+video: http://commons.wikimedia.org/wiki/Special:FilePath/Hoe%20ontstaat%20dyslexie.webm
+WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/dyslexia
+exact_match:
+  - http://identifiers.org/doid/DOID:4428
+  - http://purl.obolibrary.org/obo/DOID_4428
+UMLS_CUI:
+  - C0476254
+  - C0920296
+GitHub_topic: dyslexia
+---
+
+# [[Dyslexia]] 
+
+#is_/same_as :: [[WD~Dyslexia,132971]] 
+
+## #has_/text_of_/abstract 
+
+> **Dyslexia**, also known as "word blindness", 
+> is a learning disability that affects either reading or writing. 
+> 
+> Different people are affected to different degrees. 
+> Problems may include difficulties in 
+> - spelling words, reading quickly, writing words, "sounding out" words in the head, 
+> pronouncing words when reading aloud and understanding what one reads. 
+> 
+> Often these difficulties are first noticed at school. 
+> The difficulties are involuntary, and people with this disorder have a normal desire to learn. People with dyslexia have higher rates of attention deficit hyperactivity disorder (ADHD), developmental language disorders, and difficulties with numbers.
+>
+> Dyslexia is believed to be caused by the interaction of genetic and environmental factors. 
+> Some cases run in families. 
+> 
+> Dyslexia that develops due to a traumatic brain injury, stroke, or dementia 
+> is sometimes called "acquired dyslexia" or alexia. 
+> 
+> The underlying mechanisms of dyslexia result from 
+> differences within the brain's language processing. 
+> Dyslexia is diagnosed through a series of tests of memory, vision, spelling, and reading skills. 
+> Dyslexia is separate from reading difficulties caused by hearing or vision problems 
+> or by insufficient teaching or opportunity to learn.
+>
+> Treatment involves adjusting teaching methods to meet the person's needs. 
+> While not curing the underlying problem, it may decrease the degree or impact of symptoms. 
+> 
+> Treatments targeting vision are not effective. 
+> Dyslexia is the most common learning disability and occurs in all areas of the world. 
+> 
+> It affects 3–7% of the population; however, 
+> up to 20% of the general population may have **some degree of symptoms**. 
+> 
+> While dyslexia is more often diagnosed in boys, 
+> this is partly explained by a self-fulfilling referral bias among teachers and professionals. 
+> 
+> It has even been suggested that the condition affects men and women equally. 
+> Some believe that dyslexia is best considered as a different way of learning, 
+> with both benefits and downsides.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Dyslexia) 
+
+
