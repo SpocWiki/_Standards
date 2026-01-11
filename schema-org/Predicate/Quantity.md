@@ -97,13 +97,28 @@ This has the Benefit that Translation becomes Conversion.
 :example rdf:value "This is an English text."@en .
 ```
 
-## JSON uses the reserved @language and @value Keys to encode an rdf:value 
+## JSON uses 
+
+### reserved @language and @value Keys to encode an rdf:value 
 ```json
 {
   "@id": "#example",
   "rdf:value": {
 	"@value": "This is an English text.",
 	"@language": "en"
+  }
+}
+```
+
+### Schema.org Vocabulary  
+```json
+{
+  "@type": "Product",
+  "name": "Industrial Drill",
+  "weight": {
+    "@type": "QuantitativeValue",
+    "value": 12.50000000000000000,
+    "unitCode": "KGM"
   }
 }
 ```
