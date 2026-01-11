@@ -57,9 +57,13 @@ dv_is_same_as:
 
 Predicate to describe the Quantity of OfferShippingDetails, Product, VisualArtwork.
 
+The default [[../../../Dimension/Unit_of_Measure|Unit_of_Measure]]  are [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Meter|Meter]]s, unless specified different, either 
+- in the XPath/JsonPath 
+- as a [[../../Predicate/Quantity|Quantity]] with `value` and `unitCode`
+
 Use it like this: 
-- has_value_for_depth = `=this.dv_has_value_for_depth`  
-- has_value_for_depth = `=this.dv_has_value_for_depth`  
+- #has_/value_for_/depth = `=this.dv_has_value_for_depth`  
+- #has_value_for_depth = `=this.dv_has_value_for_depth`  
 
 The depth of the item.
 

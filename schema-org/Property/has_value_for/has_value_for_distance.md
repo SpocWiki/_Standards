@@ -59,7 +59,7 @@ Predicate to describe the Quantity of ExerciseAction, TravelAction.
 
 The default [[../../../Dimension/Unit_of_Measure|Unit_of_Measure]]  are [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Meter|Meter]]s, unless specified different, either 
 - in the XPath/JsonPath 
-- as a [[../../Predicate/Quantity|Quantity]] 
+- as a [[../../Predicate/Quantity|Quantity]] with `value` and `unitCode`
 
 Use it like this: 
 - has_value_for_distance = `=this.dv_has_value_for_distance`  

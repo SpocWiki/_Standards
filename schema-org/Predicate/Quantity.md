@@ -100,6 +100,7 @@ This has the Benefit that Translation becomes Conversion.
 ## JSON uses 
 
 ### reserved @language and @value Keys to encode an rdf:value 
+but only for Strings! 
 ```json
 {
   "@id": "#example",
@@ -111,6 +112,7 @@ This has the Benefit that Translation becomes Conversion.
 ```
 
 ### Schema.org Vocabulary  
+for everything else
 ```json
 {
   "@type": "Product",

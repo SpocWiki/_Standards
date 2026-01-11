@@ -57,9 +57,13 @@ dv_is_same_as:
 
 Predicate to describe the Quantity of Flight.
 
+The default [[../../../Dimension/Unit_of_Measure|Unit_of_Measure]]  are [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Meter|Meter]]s, unless specified different, either 
+- in the XPath/JsonPath 
+- as a [[../../Predicate/Quantity|Quantity]] with `value` and `unitCode`
+
 Use it like this: 
-- has_value_for_flight_distance = `=this.dv_has_value_for_flight_distance`  
-- has_value_for_flight_distance = `=this.dv_has_value_for_flight_distance`  
+- #has_/value_for_/distance_/flight = `=this.dv_has_value_for_flight_distance`  
+- #has_value_for_distance_flight = `=this.dv_has_value_for_flight_distance`  
 
 The distance of the flight.
 
