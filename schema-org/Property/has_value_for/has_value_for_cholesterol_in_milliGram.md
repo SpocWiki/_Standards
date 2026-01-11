@@ -1,9 +1,9 @@
 ---
 aliases:
-  - cholesterol
+  - cholesterol_in_milligram
   - cholesterol-content
   - cholesterolContent
-  - has_value_for_cholesterol
+  - has_value_for_cholesterol_in_milliGram
   - has value for cholesterol in milliGram
 confidential: public
 cssclasses:
@@ -27,39 +27,38 @@ title: has_cholesterol-content
 type: Predi_Quantity
 ---
 
-# [[has_value_for_cholesterol]] 
+# [[has_value_for_cholesterol_in_milliGram]] 
 
 #has_/unit_for_/default :: [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Gram|Unit~Gram]] 
 
 Predicate to describe the Quantity of NutritionInformation.
 
 Use it like this: 
-- #has_/value_for_/cholesterol :: Mass   
-- #has_value_for_cholesterol :: Mass   
+- #has_/value_for_/cholesterol_in_milliGram :: Mass   
+- #has_value_for_cholesterol_in_milliGram :: Mass   
 
 The number of milligrams of cholesterol.
 
 Predicate describes that: 
 
-#has_/domain  :: NutritionInformation  
-
-( #has_/name :: has_value_for_cholesterol )
+#has_/domain :: [[../../Class/is_a_/Intangible/Structured_Value/Nutrition_Information|Nutrition_Information]] 
+( #has_/name :: has_value_for_cholesterol_in_milliGram )
 ( #has_/range :: Mass )
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_cholesterol|has_value_for_cholesterol]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_cholesterol_in_milliGram|has_value_for_cholesterol_in_milliGram]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_cholesterol.public|has_value_for_cholesterol.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_cholesterol_in_milliGram.public|has_value_for_cholesterol_in_milliGram.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_cholesterol.internal|has_value_for_cholesterol.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_cholesterol_in_milliGram.internal|has_value_for_cholesterol_in_milliGram.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_cholesterol.protect|has_value_for_cholesterol.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_cholesterol_in_milliGram.protect|has_value_for_cholesterol_in_milliGram.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_cholesterol.private|has_value_for_cholesterol.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_cholesterol_in_milliGram.private|has_value_for_cholesterol_in_milliGram.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_cholesterol.personal|has_value_for_cholesterol.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_cholesterol_in_milliGram.personal|has_value_for_cholesterol_in_milliGram.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_cholesterol.secret|has_value_for_cholesterol.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_cholesterol_in_milliGram.secret|has_value_for_cholesterol_in_milliGram.secret]] 
 

@@ -45,8 +45,7 @@ The number of grams of fiber.
 
 Predicate describes that: 
 
-#has_/domain  :: NutritionInformation  
-( #has_/name :: has_value_for_fiber )
+#has_/domain :: [[../../Class/is_a_/Intangible/Structured_Value/Nutrition_Information|Nutrition_Information]] ( #has_/name :: has_value_for_fiber )
 ( #has_/range :: Mass )
 
 ## Confidential Links & Embeds: 

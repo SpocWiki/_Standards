@@ -4,7 +4,7 @@ aliases:
   - sodium-content
   - sodiumContent
   - has_value_for_sodium
-  - has value for sodium in milliGram
+  - has value for sodium 
 confidential: public
 cssclasses:
   - Predicate
@@ -39,14 +39,14 @@ Predicate to describe the Quantity of NutritionInformation.
 
 Use it like this: 
 - #has_/value_for_/sodium :: Mass   
+- #has_/value_for_/sodium_/milli_/gram :: Mass   
 - #has_/value_for_sodium :: Mass   
 
 The number of milligrams of sodium.
 
 Predicate describes that: 
 
-#has_/domain  :: NutritionInformation  
-
+#has_/domain :: [[../../Class/is_a_/Intangible/Structured_Value/Nutrition_Information|Nutrition_Information]] 
 ( #has_/name :: has_value_for_sodium )
 ( #has_/range :: Mass )
 

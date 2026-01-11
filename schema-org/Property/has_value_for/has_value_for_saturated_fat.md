@@ -39,14 +39,13 @@ Predicate to describe the Quantity of NutritionInformation.
 
 Use it like this: 
 - #has_/value_for_/saturated_fat :: Mass   
-- #has_/value_for_saturated_fat :: Mass   
+- #has_value_for_saturated_fat :: Mass   
 
 The number of grams of saturated fat.
 
 Predicate describes that: 
 
-#has_/domain  :: NutritionInformation  
-
+#has_/domain :: [[../../Class/is_a_/Intangible/Structured_Value/Nutrition_Information|Nutrition_Information]] 
 ( #has_/name :: has_value_for_saturated_fat )
 ( #has_/range :: Mass )
 

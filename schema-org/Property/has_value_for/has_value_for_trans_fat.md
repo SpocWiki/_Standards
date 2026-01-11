@@ -39,14 +39,13 @@ Predicate to describe the Quantity of NutritionInformation.
 
 Use it like this: 
 - #has_/value_for_/trans_fat :: Mass   
-- #has_/value_for_trans_fat :: Mass   
+- #has_value_for_trans_fat :: Mass   
 
 The number of grams of trans fat.
 
 Predicate describes that: 
 
-#has_/domain  :: NutritionInformation  
-
+#has_/domain :: [[../../Class/is_a_/Intangible/Structured_Value/Nutrition_Information|Nutrition_Information]] 
 ( #has_/name :: has_value_for_trans_fat )
 ( #has_/range :: Mass )
 
