@@ -2,6 +2,8 @@
 aliases:
   - vitamer
   - Vitamin
+  - Vitamins
+  - Vitamine
 has_id_wikidata: Q34956
 named_after:
   - '[[_Standards/WikiData/WD~amine,167198]]'
