@@ -1,8 +1,6 @@
 ---
 aliases:
   - depth
-  - depth
-  - depth
   - has_value_for_depth
   - has value for depth 
   - has_value_for_depth_m
