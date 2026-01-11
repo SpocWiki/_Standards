@@ -4,7 +4,7 @@ aliases:
   - height
   - height
   - has_value_for_height
-  - has value for height in meters
+  - has value for height 
 confidential: public
 cssclasses:
   - Predicate
@@ -29,9 +29,13 @@ type: Predi_Quantity
 
 The height of an item.
 
+The default [[../../../Dimension/Unit_of_Measure|Unit_of_Measure]]  are [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Meter|Meter]]s, unless specified different, either 
+- in the XPath/JsonPath 
+- as a [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]] with `value` and `unitCode` 
+
 Use it like this: 
-- [has_/value_for_/height :: [[../../Predicate/Quantity/has_value_for_distance|Distance]], [[../../Class/is_a_/Intangible/structured_value/quantitative_value|QuantitativeValue]] ] 
-- [ has_value_for_height :: [[../../Predicate/Quantity/has_value_for_distance|Distance]], [[../../Class/is_a_/Intangible/structured_value/quantitative_value|QuantitativeValue]] ] 
+- #has_/value_for_/height :: [[../../Predicate/Quantity/has_value_for_distance|Distance]], [[../../Class/is_a_/Intangible/structured_value/quantitative_value|QuantitativeValue]] 
+- #has_value_for_height :: [[../../Predicate/Quantity/has_value_for_distance|Distance]], [[../../Class/is_a_/Intangible/structured_value/quantitative_value|QuantitativeValue]] 
 
 Predicate describes that: 
 

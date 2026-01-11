@@ -39,7 +39,7 @@ for [[../../../Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/count
 | Storm Gusts      |       20 |    85 |
 | heavy storm      |        3 |   105 |
 | Orkanartige Böen |      < 1 |   120 |
-| Orkan            |    < 0.1 | ≥ 120 |
+| Orkan            |    < 0.1 | ≥ 120 |
 
 ## #has_/text_of_/abstract 
 

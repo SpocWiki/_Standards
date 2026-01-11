@@ -38,7 +38,7 @@ Commons_category: Neutrino physics
 > A **Neutrino** ( new-TREE-noh; denoted by the Greek letter ν) 
 > is an elementary particle that interacts  via the weak interaction and gravity. 
 > 
-> Neutrinos are fermions, which have spin of ⁠ 1 /2⁠ħ.
+> Neutrinos are fermions, which have spin of ⁠ 1 /2⁠ħ.
 > The neutrino is so named because it is electrically neutral 
 > and its rest mass is so small (-ino) that it was long thought to be zero. 
 > The rest mass of the neutrino is much smaller than that of the 
@@ -74,7 +74,7 @@ Commons_category: Neutrino physics
 > but laboratory experiments and cosmological observations have determined the differences of their squares, an upper limit on their sum (< 0.120 eV/c2), and an upper limit on the mass of the electron neutrino. 
 >
 > For each neutrino, there also exists a corresponding antiparticle, 
-> called an antineutrino, which also has spin of ⁠ 1 /2⁠ħ and no electric charge. 
+> called an antineutrino, which also has spin of ⁠ 1 /2⁠ħ and no electric charge. 
 > 
 > Antineutrinos are distinguished from neutrinos 
 > by having opposite-signed lepton number and weak isospin, 

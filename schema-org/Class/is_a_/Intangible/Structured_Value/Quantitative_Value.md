@@ -49,6 +49,8 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value.secret|Quantitative_Value.secret]]"
 ---
 
+#is_/better_than :: [[../../../../Predicate/Quantity|Quantity]] 
+
 Class of all quantitative_values that [[../../../../Property/has_value_for|has_value_for]] Property and a [[../../../../Property/Texts/has_unit_text|unitText]]. 
 Additionally it [[../../../../Property/has_value_for/has_value_for_min|has_value_for_min]] and [[../../../../Property/has_value_for/has_value_for_max|has_value_for_max]]. 
 

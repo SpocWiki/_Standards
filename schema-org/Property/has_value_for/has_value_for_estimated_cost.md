@@ -65,10 +65,10 @@ The estimated cost of the supply or supplies consumed when performing instructio
 
 Predicate describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain = `=this.dv_has_domain` 
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+#has_/name = `=this.dv_has_name` 
+#has_/range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

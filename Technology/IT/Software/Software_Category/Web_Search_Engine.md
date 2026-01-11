@@ -50,12 +50,12 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Search-engine-diagram-
 > however, Google Search became the dominant one in the 2000s and has remained so. 
 > 
 > As of May 2025, according to StatCounter, 
-> - Google holds approximately 89–90 % of the worldwide search share, with competitors trailing far behind: 
-> - Bing (~4 %), 
-> - Yandex (~2.5 %), 
-> - Yahoo! (~1.3 %), 
-> - DuckDuckGo (~0.8 %), and 
-> - Baidu (~0.7 %). 
+> - Google holds approximately 89–90 % of the worldwide search share, with competitors trailing far behind: 
+> - Bing (~4 %), 
+> - Yandex (~2.5 %), 
+> - Yahoo! (~1.3 %), 
+> - DuckDuckGo (~0.8 %), and 
+> - Baidu (~0.7 %). 
 > 
 > Notably, this marks the first time in over a decade 
 > that Google's share has fallen below the 90% threshold. 

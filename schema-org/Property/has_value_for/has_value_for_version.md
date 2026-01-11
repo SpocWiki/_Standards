@@ -65,10 +65,10 @@ The version of the CreativeWork embodied by a specified resource.
 
 Predicate describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain = `=this.dv_has_domain` 
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+#has_/name = `=this.dv_has_name` 
+#has_/range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

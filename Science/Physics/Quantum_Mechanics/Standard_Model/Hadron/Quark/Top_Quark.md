@@ -48,7 +48,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Top%20quark.svg
 > - weak interactions, and 
 > - strong interactions. 
 > 
-> It has an electric charge of +⁠ 2 /3⁠ e. It has a mass of 172.76±0.3 GeV/c2, which is close to the rhenium atom mass (more precisely, the average of its isotopes). The antiparticle of the top quark is the top antiquark (symbol: t, sometimes called antitop quark or simply antitop), which differs from it only in that some of its properties have equal magnitude but opposite sign.
+> It has an electric charge of +⁠ 2 /3⁠ e. It has a mass of 172.76±0.3 GeV/c2, which is close to the rhenium atom mass (more precisely, the average of its isotopes). The antiparticle of the top quark is the top antiquark (symbol: t, sometimes called antitop quark or simply antitop), which differs from it only in that some of its properties have equal magnitude but opposite sign.
 >
 > The top quark interacts with gluons of the strong interaction and is typically produced in hadron colliders via this interaction. However, once produced, the top (or antitop) can decay only through the weak force. It decays to a W boson and either a bottom quark (most frequently), a strange quark, or, on the rarest of occasions, a down quark.
 >

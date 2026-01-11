@@ -60,13 +60,13 @@ dv_is_same_as:
 
 ## #has_/text_of_/abstract 
 
-> An **Alum** is a type of chemical compound, usually a hydrated double sulfate salt of aluminium with the general formula XAl(SO4)2·12 H2O, such that X is a monovalent cation such as potassium or ammonium. 
+> An **Alum** is a type of chemical compound, usually a hydrated double sulfate salt of aluminium with the general formula XAl(SO4)2·12 H2O, such that X is a monovalent cation such as potassium or ammonium. 
 > 
-> By itself, alum often refers to potassium alum, with the formula KAl(SO4)2·12 H2O. Other alums are named after the monovalent ion, such as sodium alum and ammonium alum.
+> By itself, alum often refers to potassium alum, with the formula KAl(SO4)2·12 H2O. Other alums are named after the monovalent ion, such as sodium alum and ammonium alum.
 >
-> The name alum is also used, more generally, for salts with the same formula and structure, except that aluminium is replaced by another trivalent metal ion like chromiumIII, or sulfur is replaced by another chalcogen like selenium. The most common of these analogs is chrome alum KCr(SO4)2·12 H2O.
+> The name alum is also used, more generally, for salts with the same formula and structure, except that aluminium is replaced by another trivalent metal ion like chromiumIII, or sulfur is replaced by another chalcogen like selenium. The most common of these analogs is chrome alum KCr(SO4)2·12 H2O.
 >
-> In most industries, the name alum (or papermaker's alum) is used to refer to aluminium sulfate, Al2 (SO4)3·n H2O, which is used for most industrial flocculation: 766  (the variable n is an integer whose size depends on the amount of water absorbed into the alum). For medicine, the word alum may also refer to aluminium hydroxide gel used as a vaccine adjuvant.
+> In most industries, the name alum (or papermaker's alum) is used to refer to aluminium sulfate, Al2 (SO4)3·n H2O, which is used for most industrial flocculation: 766  (the variable n is an integer whose size depends on the amount of water absorbed into the alum). For medicine, the word alum may also refer to aluminium hydroxide gel used as a vaccine adjuvant.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Alum) 
 

@@ -28,14 +28,14 @@ At Temperatures between 0 and 40°C the thermal Radiation Maximum is around 10µ
 #### Material and Environmental Considerations
 
 - **Pane Thickness**: 
-	- 4–6 mm acrylic resists light wind (up to 50 km/h) for small areas (≤1 m²) ; 
-	- 8–12 mm recommended for larger surfaces or high-wind zones (>70 km/h) 
+	- 4–6 mm acrylic resists light wind (up to 50 km/h) for small areas (≤1 m²) ; 
+	- 8–12 mm recommended for larger surfaces or high-wind zones (>70 km/h) 
     
 - **Pane Size**: Larger panes act as levers and amplify wind force; 
-  cutting into smaller sections reduces bending stress by 40–60 %.
+  cutting into smaller sections reduces bending stress by 40–60 %.
     
-- **Temperature Variation**: Acrylic expands 0.07 mm/m per °C; 
-  gaps must accommodate thermal movement to avoid cracking 
+- **Temperature Variation**: Acrylic expands 0.07 mm/m per °C; 
+  gaps must accommodate thermal movement to avoid cracking 
     
 
 #### Mechanical Fixation Methods
@@ -44,23 +44,23 @@ By combining the Methods below, 12mm Panes can resist Wind up to 120 km/h
 
 ##### Framing and Fastening
 
-- **Aluminum or Steel Frames**: Encase acrylic edges in a rigid frame; provides 50–70 % more resistance to wind uplift.
+- **Aluminum or Steel Frames**: Encase acrylic edges in a rigid frame; provides 50–70 % more resistance to wind uplift.
     
-- **Countersunk Screws with Rubber Washers**: Prevents point stress cracking; leave 2–3 mm gaps for expansion.
+- **Countersunk Screws with Rubber Washers**: Prevents point stress cracking; leave 2–3 mm gaps for expansion.
     
-- **Bolted or Clamped Systems**: Distributes load along edges; recommended for panes larger than 1 m².
+- **Bolted or Clamped Systems**: Distributes load along edges; recommended for panes larger than 1 m².
     
 
 ##### Edge Protection and Support
 
-- **U-Channels or L-Channels**: Provide lateral stability; reduce pane deflection by 30–40 %.
+- **U-Channels or L-Channels**: Provide lateral stability; reduce pane deflection by 30–40 %.
     
-- **Corner Brackets**: Reduce torsional stress in high-wind areas by 20–25 %.
+- **Corner Brackets**: Reduce torsional stress in high-wind areas by 20–25 %.
     
 
 ##### Sealing and Windproofing
 
-- **EPDM or Silicone Gaskets**: Absorb vibration and minor wind shocks; increases wind tolerance by up to 15–20 %.
+- **EPDM or Silicone Gaskets**: Absorb vibration and minor wind shocks; increases wind tolerance by up to 15–20 %.
     
 - **Overlapping Joints**: Prevent wind from lifting panes; effective in outdoor façades or greenhouses.
 

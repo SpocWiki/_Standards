@@ -69,9 +69,11 @@ dv_has_properties: "[ additionalType, alternateName, description, disambiguating
 
 # [[Quantity]] 
 
-#is_/same_as :: [[WD~Quantity,309314]]
+#is_/same_as :: [[WD~Quantity,309314]] 
+#is_/worse_than :: [[../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]] 
 
-Class of all Quantities, i.e. measurable Values with a Unit and possibly Error Range.
+Class of all Quantities, i.e. **Types with a** [[../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]].
+This is used to model Metadata Relations between [[../../Dimension/Unit_of_Measure|Unit_of_Measure]]. 
 
 Quantities such as distance, time, mass, weight, etc. 
 Particular instances of say Mass are entities like '3 kg' or '4 milligrams'. 

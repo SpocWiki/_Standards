@@ -687,14 +687,14 @@ has_place_latitude = `=this.dv_has_place_latitude`
 
 #### 1.1 Electricity Generation Mix (2023–2024)
 
-Uruguay has achieved an impressive **94–98 % renewable** electricity share: 
+Uruguay has achieved an impressive **94–98 % renewable** electricity share: 
 
 | Source           |    % |    % | Notes                                     |
 | ---------------- | ---: | ---: | ----------------------------------------- |
-| Wind             | 40.0 | 50.0 | ~43 % in 2023; ~50.8 % Jan–Feb 2024       |
-| Hydropower       | 33.0 | 33.0 | ~30.9 % early‑2024                        |
-| Biomass          | 15.0 | 15.0 | 9.3 % in 2023; up to 15.7 % in early 2024 |
-| Solar            |  3.7 |  3.7 | ~3 % range                                |
+| Wind             | 40.0 | 50.0 | ~43 % in 2023; ~50.8 % Jan–Feb 2024       |
+| Hydropower       | 33.0 | 33.0 | ~30.9 % early‑2024                        |
+| Biomass          | 15.0 | 15.0 | 9.3 % in 2023; up to 15.7 % in early 2024 |
+| Solar            |  3.7 |  3.7 | ~3 % range                                |
 | Fossil (thermal) |  7.8 |  7.8 | Limited to dry seasons/back‐up            |
 
 With such a diversified profile, Uruguay exports electricity to Brazil and Argentina, especially during surplus periods

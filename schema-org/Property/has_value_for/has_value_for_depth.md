@@ -59,7 +59,7 @@ Predicate to describe the Quantity of OfferShippingDetails, Product, VisualArtwo
 
 The default [[../../../Dimension/Unit_of_Measure|Unit_of_Measure]]  are [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Meter|Meter]]s, unless specified different, either 
 - in the XPath/JsonPath 
-- as a [[../../Predicate/Quantity|Quantity]] with `value` and `unitCode`
+- as a [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]] with `value` and `unitCode`
 
 Use it like this: 
 - #has_/value_for_/depth = `=this.dv_has_value_for_depth`  
@@ -69,10 +69,10 @@ The depth of the item.
 
 Predicate describes that: 
 
-has_domain = `=this.dv_has_domain` 
+#has_/domain = `=this.dv_has_domain` 
 
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+#has_/name = `=this.dv_has_name` 
+#has_/range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

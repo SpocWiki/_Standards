@@ -55,21 +55,23 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Property/has_value_for/has_value_for_geo_radius.secret|has_value_for_geo_radius.secret]]"
 ---
 
-Predicate to describe the Quantity of GeoCircle.
+Predicate to describe the Quantity of a [[../../Class/is_a_/Intangible/Structured_Value/Geo_Shape/Geo_Circle|GeoCircle]].
+
+The default [[../../../Dimension/Unit_of_Measure|Unit_of_Measure]]  are [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Meter|Meter]]s, unless specified different, either 
+- in the XPath/JsonPath 
+- as a [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]] with `value` and `unitCode` 
 
 Use it like this: 
-- has_value_for_geo_radius = `=this.dv_has_value_for_geo_radius`  
-- has_value_for_geo_radius = `=this.dv_has_value_for_geo_radius`  
+- #has_/value_for_/geo_radius = `=this.dv_has_value_for_geo_radius`  
+- #has_value_for_geo_radius = `=this.dv_has_value_for_geo_radius`  
 
-Indicates the approximate radius of a GeoCircle (metres unless indicated otherwise via Distance notation).
+Indicates the approximate radius of a GeoCircle 
+(metres unless indicated otherwise via Distance notation). 
 
 Predicate describes that: 
-
-has_domain = `=this.dv_has_domain` 
-
-has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
-
+#has_/domain = `=this.dv_has_domain` 
+#has_/name = `=this.dv_has_name` 
+#has_/range = `=this.dv_has_range` 
 
 ## Confidential Links & Embeds: 
 
