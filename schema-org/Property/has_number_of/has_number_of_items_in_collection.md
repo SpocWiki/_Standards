@@ -33,7 +33,7 @@ Predicate to describe the Number of Collection.
 
 Use it like this: 
 - #has_/number_of_/items_in_collection :: Integer   
-- #has_number_of_items_in_collection :: Integer   
+- has_number_of_items_in_collection :: Integer   
 
 The number of items in the [[Collection]].
 

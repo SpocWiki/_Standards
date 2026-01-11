@@ -34,7 +34,7 @@ Predicate to describe the Text of HyperTocEntry.
 
 Use it like this: 
 - #has_/text_of_/utterances :: Text   
-- #has_text_of_utterances :: Text   
+- has_text_of_utterances :: Text   
 
 Text of an utterances (spoken words, lyrics etc.) that occurs at a certain section of a media object, represented as a [[HyperTocEntry]].
 

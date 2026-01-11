@@ -37,7 +37,7 @@ Predicate to describe the Text of Product.
 
 Use it like this: 
 - #has_/id_of_/product_group :: Text   
-- #has_id_of_product_group :: Text   
+- has_id_of_product_group :: Text   
 
 Indicates the [[productGroupID]] for a [[ProductGroup]] that this product [[isVariantOf]].
 

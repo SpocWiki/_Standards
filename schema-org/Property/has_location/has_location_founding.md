@@ -31,7 +31,7 @@ Predicate to describe the geo of Organization.
 
 Use it like this: 
 - #has_/location_/founding_location :: Place   
-- #has_location_founding :: Place   
+- has_location_founding :: Place   
 
 The place where the Organization was founded.
 

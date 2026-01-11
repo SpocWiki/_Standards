@@ -33,7 +33,7 @@ Symmetric Relation of two overlapping [[../../Class/is_a_/Intangible/geospatial_
 
 Use it like this: 
 - #has_/location_/overlap_with :: GeospatialGeometry, Place   
-- #has_location_that_overlaps_with :: GeospatialGeometry, Place   
+- has_location_that_overlaps_with :: GeospatialGeometry, Place   
 
 Represents a relationship between two geometries (or the places they represent), relating a geometry to another that geospatially overlaps it, i.e. they have some but not all points in common. As defined in [DE-9IM](https://en.wikipedia.org/wiki/DE-9IM). 
 

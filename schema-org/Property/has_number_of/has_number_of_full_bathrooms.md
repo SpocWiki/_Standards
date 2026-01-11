@@ -33,7 +33,7 @@ Predicate to describe the Number of Accommodation, FloorPlan.
 
 Use it like this: 
 - #has_/number_of_/full_bathrooms :: Number   
-- #has_number_of_full_bathrooms :: Number   
+- has_number_of_full_bathrooms :: Number   
 
 Number of full bathrooms - The total number of full and � bathrooms in an [[../../../Earth/Geography/Place/Accommodation]]. This corresponds to the <a href="https://ddwiki.reso.org/display/DDW17/BathroomsFull+Field">BathroomsFull field in RESO</a>.
 

@@ -33,7 +33,7 @@ Predicate to specify the Url of SpecialAnnouncement.
 
 Use it like this: 
 - #has_/url_for_/quarantine_guidelines :: URL, WebContent   
-- #has_url_for_quarantine_guidelines :: URL, WebContent   
+- has_url_for_quarantine_guidelines :: URL, WebContent   
 
 Guidelines about quarantine rules, e.g. in the context of a pandemic.
 

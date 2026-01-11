@@ -33,7 +33,7 @@ Predicate to describe the Quantity of Vehicle.
 
 Use it like this: 
 - #has_/value_for_/fuel_capacity_liter :: QuantitativeValue   
-- #has_value_for_fuel_capacity_liter :: QuantitativeValue   
+- has_value_for_fuel_capacity_liter :: QuantitativeValue   
 
 The capacity of the fuel tank or in the case of electric cars, the battery. If there are multiple components for storage, this should indicate the total of all storage of the same type.
 

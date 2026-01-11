@@ -33,7 +33,7 @@ Predicate to describe the geo of ArchiveComponent.
 
 Use it like this: 
 - #has_/location_/item_location :: Place, PostalAddress, Text   
-- #has_location_of_item :: Place, PostalAddress, Text   
+- has_location_of_item :: Place, PostalAddress, Text   
 
 Current location of the item.
 

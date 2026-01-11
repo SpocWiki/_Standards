@@ -49,7 +49,7 @@ Predicate to describe a Quantity of Vehicle.
 Use it like this: 
 - #has_/value_for_/load_/vertical :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]] 
 - #has_/value_for_/load_/vertical_/kilo_/gram :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]] 
-- #has_value_for_load_vertical :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]] 
+- has_value_for_load_vertical :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]] 
 
 The permitted **vertical** load (TWR) of a trailer attached to the vehicle. 
 Also referred to as Tongue Load Rating (TLR) or Vertical Load Rating (VLR).

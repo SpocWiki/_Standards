@@ -46,7 +46,7 @@ this can be given in other Units, which need to be specified.
 
 Use it like this: 
 - #has_/place_/altitude_/meters :: Number, Text   
-- #has_place_altitude_meters :: [ [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]] ]   
+- has_place_altitude_meters :: [ [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]] ]   
 
 Predicate describes that: 
 

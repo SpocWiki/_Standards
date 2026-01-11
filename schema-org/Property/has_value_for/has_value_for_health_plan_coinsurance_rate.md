@@ -33,7 +33,7 @@ Predicate to describe the Quantity of HealthPlanCostSharingSpecification.
 
 Use it like this: 
 - #has_/value_for_/health_plan_coinsurance_rate :: Number   
-- #has_value_for_health_plan_coinsurance_rate :: Number   
+- has_value_for_health_plan_coinsurance_rate :: Number   
 
 The rate of coinsurance expressed as a number between 0.0 and 1.0.
 

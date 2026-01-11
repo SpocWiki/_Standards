@@ -35,7 +35,7 @@ Predicate to describe the Text of LoanOrCredit.
 
 Use it like this: 
 - #has_/text_of_/loan_type :: Text, URL   
-- #has_text_of_loan_type :: Text, URL   
+- has_text_of_loan_type :: Text, URL   
 
 The type of a loan or credit.
 

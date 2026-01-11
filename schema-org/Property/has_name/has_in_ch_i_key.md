@@ -37,7 +37,7 @@ Predicate to describe the Text of MolecularEntity.
 
 Use it like this: 
 - #has_/text_of_/in_ch_i_key :: Text   
-- #has_text_of_in_ch_i_key :: Text   
+- has_text_of_in_ch_i_key :: Text   
 
 InChIKey is a hashed version of the full InChI (using the SHA-256 algorithm).
 

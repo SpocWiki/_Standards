@@ -65,7 +65,7 @@ Predicate to describe the Text of SoftwareApplication.
 
 Use it like this: 
 - #has_/text_of_/feature_list :: Text, URL   
-- #has_text_of_feature_list :: Text, URL   
+- has_text_of_feature_list :: Text, URL   
 
 Features or modules provided by this application (and possibly required by other applications).
 

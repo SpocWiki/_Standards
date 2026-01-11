@@ -31,7 +31,7 @@ Predicate to describe the location of ExerciseAction, MoveAction, TransferAction
 
 Use it like this: 
 - #has_/location_/from :: Place   
-- #has_location_from :: Place   
+- has_location_from :: Place   
 
 A sub property of location. The original location of the object or the agent before the action.
 

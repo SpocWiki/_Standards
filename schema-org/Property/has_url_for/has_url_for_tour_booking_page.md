@@ -33,7 +33,7 @@ Predicate to specify the Url of Accommodation, ApartmentComplex, Place.
 
 Use it like this: 
 - #has_/url_for_/tour_booking_page :: URL   
-- #has_url_for_tour_booking_page :: URL   
+- has_url_for_tour_booking_page :: URL   
 
 A page providing information on how to book a tour of some [[../../../Earth/Geography/Place]], such as an [[../../../Earth/Geography/Place/Accommodation]] or [[ApartmentComplex]] in a real estate setting, as well as other kinds of tours as appropriate.
 

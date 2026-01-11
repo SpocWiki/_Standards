@@ -37,7 +37,7 @@ Predicate to describe the Text of PronounceableText.
 
 Use it like this: 
 - #has_/text_of_/speech_to_text_markup :: Text   
-- #has_text_of_speech_to_text_markup :: Text   
+- has_text_of_speech_to_text_markup :: Text   
 
 Form of markup used. eg. [SSML](https://www.w3.org/TR/speech-synthesis11) or [IPA](https://www.wikidata.org/wiki/Property:P898).
 

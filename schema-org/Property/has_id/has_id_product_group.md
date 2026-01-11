@@ -35,7 +35,7 @@ Predicate to describe the Text of ProductGroup.
 
 Use it like this: 
 - #has_/id_/product_group :: Text   
-- #has_id_product_group :: Text   
+- has_id_product_group :: Text   
 
 Indicates a textual identifier for a ProductGroup.
 

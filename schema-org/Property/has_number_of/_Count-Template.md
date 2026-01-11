@@ -38,7 +38,7 @@ Predicate to describe the Number of {{domainIncludes}}.
 
 Use it like this: 
 - #has_/number_of_/{{has_label_snail}} :: {{rangeIncludes}}   
-- #has_number_of_{{has_label_snail}} :: {{rangeIncludes}}   
+- has_number_of_{{has_label_snail}} :: {{rangeIncludes}}   
 
 {{comment}}
 

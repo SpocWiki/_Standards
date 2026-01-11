@@ -89,7 +89,7 @@ The Name can be specialized by Language (as with any Text)
 
 Use it like this: 
 - #has_/name_/de :: Text   
-- #has_name_de :: Text   
+- has_name_de :: Text   
 
 Predicated describes that: 
 

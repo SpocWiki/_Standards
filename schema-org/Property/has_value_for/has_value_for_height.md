@@ -39,7 +39,7 @@ The default [[../../../Dimension/Unit_of_Measure|Unit_of_Measure]]  are [[../../
 
 Use it like this: 
 - #has_/value_for_/height :: [[../../Predicate/Quantity/has_value_for_distance|Distance]], [[../../Class/is_a_/Intangible/structured_value/quantitative_value|QuantitativeValue]] 
-- #has_value_for_height :: [[../../Predicate/Quantity/has_value_for_distance|Distance]], [[../../Class/is_a_/Intangible/structured_value/quantitative_value|QuantitativeValue]] 
+- has_value_for_height :: [[../../Predicate/Quantity/has_value_for_distance|Distance]], [[../../Class/is_a_/Intangible/structured_value/quantitative_value|QuantitativeValue]] 
 
 Predicate describes that: 
 

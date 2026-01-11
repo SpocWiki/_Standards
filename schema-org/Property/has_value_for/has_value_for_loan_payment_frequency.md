@@ -33,7 +33,7 @@ Predicate to describe the Quantity of RepaymentSpecification.
 
 Use it like this: 
 - #has_/value_for_/loan_payment_frequency :: Number   
-- #has_value_for_loan_payment_frequency :: Number   
+- has_value_for_loan_payment_frequency :: Number   
 
 Frequency of payments due, i.e. number of months between payments. This is defined as a frequency, i.e. the reciprocal of a period of time.
 

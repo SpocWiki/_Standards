@@ -33,7 +33,7 @@ Predicate to specify the Url of SpecialAnnouncement.
 
 Use it like this: 
 - #has_/url_for_/news_updates_and_guidelines :: URL, WebContent   
-- #has_url_for_news_updates_and_guidelines :: URL, WebContent   
+- has_url_for_news_updates_and_guidelines :: URL, WebContent   
 
 Indicates a page with news updates and guidelines. This could often be (but is not required to be) the main page containing [[SpecialAnnouncement]] markup on a site.
 

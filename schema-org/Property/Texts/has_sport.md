@@ -34,7 +34,7 @@ Predicate to describe the Text of SportsEvent, SportsOrganization.
 
 Use it like this: 
 - #has_/text_of_/sport :: Text, URL   
-- #has_text_of_sport :: Text, URL   
+- has_text_of_sport :: Text, URL   
 
 A type of sport (e.g. Baseball).
 

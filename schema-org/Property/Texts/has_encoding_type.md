@@ -37,7 +37,7 @@ otherwise rather use #see :: [[has_encoding_format]]  .
 
 Use it like this: 
 - #has_/text_of_/encoding_type :: Text   
-- #has_text_of_encoding_type :: Text   
+- has_text_of_encoding_type :: Text   
 
 The supported encoding type(s) for an [[../../Class/is_a_/Intangible/entry_point|EntryPoint]] request.
 #is_/similar_to :: [[has_content_type|contentType]] 

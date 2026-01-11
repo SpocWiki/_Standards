@@ -44,9 +44,9 @@ Unlike [[has_place_longitude|longitude]] and [[has_place_latitude|latitude]] whi
 
 Use it like this: 
 - #has_/place_/elevation_/m :: Number   
-- #has_place_elevation_m :: Number   
+- has_place_elevation_m :: Number   
 - #has_/place_/elevation :: Number   
-- #has_place_elevation :: Number   
+- has_place_elevation :: Number   
 
 The elevation of a location (<a href="https://en.wikipedia.org/wiki/World_Geodetic_System">WGS 84</a>). 
 

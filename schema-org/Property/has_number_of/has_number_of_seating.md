@@ -33,7 +33,7 @@ Predicate to describe the Number of Vehicle.
 
 Use it like this: 
 - #has_/number_of_/seating_capacity :: Number, QuantitativeValue   
-- #has_number_of_seating :: Number, QuantitativeValue   
+- has_number_of_seating :: Number, QuantitativeValue   
 
 The number of persons that can be seated (e.g. in a vehicle), 
 both in terms of the physical space available, and in terms of limitations set by law.

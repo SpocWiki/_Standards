@@ -33,7 +33,7 @@ Predicate to describe the Number of CDCPMDRecord.
 
 Use it like this: 
 - #has_/number_of_/Covid_icu_beds_occ :: Number   
-- #has_number_of_Covid_icu_beds_occ :: Number   
+- has_number_of_Covid_icu_beds_occ :: Number   
 
 numicubedsocc - ICU BED OCCUPANCY: Total number of staffed inpatient ICU beds that are occupied.
 

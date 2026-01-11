@@ -35,7 +35,7 @@ Predicate to describe the Text of PronounceableText.
 
 Use it like this: 
 - #has_/text_of_/phonetic_text :: Text   
-- #has_text_of_phonetic_text :: Text   
+- has_text_of_phonetic_text :: Text   
 
 Representation of a text [[textValue]] using the specified [[speechToTextMarkup]]. For example the city name of Houston in IPA: /?hju?st?n/.
 

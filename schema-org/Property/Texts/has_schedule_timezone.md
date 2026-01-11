@@ -35,7 +35,7 @@ Predicate to describe the Text of Schedule.
 
 Use it like this: 
 - #has_/text_of_/schedule_timezone :: Text   
-- #has_text_of_schedule_timezone :: Text   
+- has_text_of_schedule_timezone :: Text   
 
 Indicates the timezone for which the time(s) indicated in the [[Schedule]] are given. The value provided should be among those listed in the IANA Time Zone Database.
 

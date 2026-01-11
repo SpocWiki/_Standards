@@ -36,7 +36,7 @@ Predicate to describe the Text of HealthPlanNetwork, MedicalOrganization.
 
 Use it like this: 
 - #has_/id_/health_plan_network :: Text   
-- #has_id_health_plan_network :: Text   
+- has_id_health_plan_network :: Text   
 
 Name or unique ID of network. (Networks are often reused across different insurance plans.)
 

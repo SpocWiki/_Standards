@@ -33,7 +33,7 @@ Predicate to describe the Number of CDCPMDRecord.
 
 Use it like this: 
 - #has_/number_of_/Covid_c19of_mech_vent_patients :: Number   
-- #has_number_of_Covid_c19of_mech_vent_patients :: Number   
+- has_number_of_Covid_c19of_mech_vent_patients :: Number   
 
 numc19ofmechventpats - ED/OVERFLOW and VENTILATED: Patients with suspected or confirmed COVID-19 who are in the ED or any overflow location awaiting an inpatient bed and on a mechanical ventilator.
 

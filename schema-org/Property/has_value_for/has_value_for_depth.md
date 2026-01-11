@@ -67,7 +67,7 @@ The default [[../../../Dimension/Unit_of_Measure|Unit_of_Measure]]  are [[../../
 
 Use it like this: 
 - #has_/value_for_/depth = `=this.dv_has_value_for_depth`  
-- #has_value_for_depth = `=this.dv_has_value_for_depth`  
+- has_value_for_depth = `=this.dv_has_value_for_depth`  
 
 The depth of the item.
 

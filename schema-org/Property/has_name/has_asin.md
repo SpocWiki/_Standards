@@ -34,7 +34,7 @@ Amazon Standard Identification Number (ASIN) Predicate to describe the Text of D
 
 Use it like this: 
 - #has_/text_of_/asin :: Text, URL   
-- #has_text_of_asin :: Text, URL   
+- has_text_of_asin :: Text, URL   
 
 An Amazon Standard Identification Number (ASIN) is a 10-character alphanumeric unique identifier assigned by Amazon.com and its partners for product identification within the Amazon organization (summary from [Wikipedia](https://en.wikipedia.org/wiki/Amazon_Standard_Identification_Number)"s article).
 

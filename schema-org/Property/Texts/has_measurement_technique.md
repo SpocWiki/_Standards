@@ -35,7 +35,7 @@ Predicate to describe the Text of DataCatalog, DataDownload, Dataset, PropertyVa
 
 Use it like this: 
 - #has_/text_of_/measurement_technique :: Text, URL   
-- #has_text_of_measurement_technique :: Text, URL   
+- has_text_of_measurement_technique :: Text, URL   
 
 A technique or technology used in a [[../../../Society/Communication/Media/Creative_Work/Dataset]] (or [[DataDownload]], [[DataCatalog]]),
 corresponding to the method used for measuring the corresponding variable(s) (described using [[variableMeasured]]). This is oriented towards scientific and scholarly dataset publication but may have broader applicability; it is not intended as a full representation of measurement, but rather as a high level summary for dataset discovery.

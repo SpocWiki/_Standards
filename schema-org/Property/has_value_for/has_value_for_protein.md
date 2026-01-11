@@ -39,7 +39,7 @@ Predicate to describe the Quantity of NutritionInformation.
 
 Use it like this: 
 - #has_/value_for_/protein :: Mass   
-- #has_value_for_protein :: Mass   
+- has_value_for_protein :: Mass   
 
 The number of grams of protein.
 

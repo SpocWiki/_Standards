@@ -33,7 +33,7 @@ Predicate to specify the Url of SpecialAnnouncement.
 
 Use it like this: 
 - #has_/url_for_/travel_bans :: URL, WebContent   
-- #has_url_for_travel_bans :: URL, WebContent   
+- has_url_for_travel_bans :: URL, WebContent   
 
 Information about travel bans, e.g. in the context of a pandemic.
 

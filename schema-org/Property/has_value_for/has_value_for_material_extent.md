@@ -33,7 +33,7 @@ Predicate to describe the Quantity of CreativeWork.
 
 Use it like this: 
 - #has_/value_for_/material_extent :: QuantitativeValue, Text   
-- #has_value_for_material_extent :: QuantitativeValue, Text   
+- has_value_for_material_extent :: QuantitativeValue, Text   
 
 The quantity of the materials being described or an expression of the physical space they occupy.
 

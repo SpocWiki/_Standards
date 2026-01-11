@@ -37,7 +37,7 @@ that uniquely identifies the value of CategoryCode, MedicalCode.
 
 Use it like this: 
 - #has_/code_/value :: Text   
-- #has_code_value :: Text   
+- has_code_value :: Text   
 
 Predicated describes that: 
 

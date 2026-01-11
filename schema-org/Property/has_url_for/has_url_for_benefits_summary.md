@@ -34,7 +34,7 @@ Predicate to specify the Url of HealthInsurancePlan.
 
 Use it like this: 
 - #has_/url_for_/benefits_summary:: URL   
-- #has_url_for_benefits_summary :: URL   
+- has_url_for_benefits_summary :: URL   
 
 The URL that goes directly to the summary of benefits and coverage for the specific standard plan or plan variation.
 

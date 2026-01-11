@@ -31,7 +31,7 @@ Predicate to describe the geo of CreativeWork.
 
 Use it like this: 
 - #has_/location_/content :: Place   
-- #has_location_content :: Place   
+- has_location_content :: Place   
 
 The location depicted or described in the content. For example, the location in a photograph or painting.
 

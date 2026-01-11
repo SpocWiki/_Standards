@@ -36,7 +36,7 @@ Predicate to describe the Text of BankAccount.
 
 Use it like this: 
 - #has_/text_of_/bank_account_type :: Text, URL   
-- #has_text_of_bank_account_type :: Text, URL   
+- has_text_of_bank_account_type :: Text, URL   
 
 The type of a bank account.
 

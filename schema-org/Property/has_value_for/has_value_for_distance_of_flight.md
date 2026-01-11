@@ -67,7 +67,7 @@ The default [[../../../Dimension/Unit_of_Measure|Unit_of_Measure]]  are [[../../
 
 Use it like this: 
 - #has_/value_for_/distance_/of_flight = `=this.dv_has_value_for_flight_distance`  
-- #has_value_for_distance_of_flight = `=this.dv_has_value_for_flight_distance`  
+- has_value_for_distance_of_flight = `=this.dv_has_value_for_flight_distance`  
 
 The distance of the flight.
 

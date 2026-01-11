@@ -38,7 +38,7 @@ Predicate to specify the Url of {{domainIncludes}}.
 
 Use it like this: 
 - #has_/url_for_/{{label_snail}} :: {{rangeIncludes}}   
-- #has_url_for_{{label_snail}} :: {{rangeIncludes}}   
+- has_url_for_{{label_snail}} :: {{rangeIncludes}}   
 
 {{comment}}
 

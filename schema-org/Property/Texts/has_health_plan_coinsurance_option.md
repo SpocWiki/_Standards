@@ -37,7 +37,7 @@ Predicate to describe the Text of HealthPlanCostSharingSpecification.
 
 Use it like this: 
 - #has_/text_of_/health_plan_coinsurance_option :: Text   
-- #has_text_of_health_plan_coinsurance_option :: Text   
+- has_text_of_health_plan_coinsurance_option :: Text   
 
 Whether the coinsurance applies before or after deductible, etc. TODO: Is this a closed set?
 

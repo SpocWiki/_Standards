@@ -33,7 +33,7 @@ Predicate to describe the Number of Course, EducationalOccupationalProgram.
 
 Use it like this: 
 - #has_/number_of_/credits :: Integer, StructuredValue   
-- #has_number_of_credits :: Integer, StructuredValue   
+- has_number_of_credits :: Integer, StructuredValue   
 
 The number of credits or units awarded by a Course or required to complete an EducationalOccupationalProgram.
 

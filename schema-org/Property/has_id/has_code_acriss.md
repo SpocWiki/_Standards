@@ -36,7 +36,7 @@ Predicate to describe the Text of BusOrCoach, Car.
 
 Use it like this: 
 - #has_/code_/acriss :: Text   
-- #has_code_acriss :: Text   
+- has_code_acriss :: Text   
 
 The ACRISS Car Classification Code is a code 
 used by many car rental companies, for classifying vehicles. 

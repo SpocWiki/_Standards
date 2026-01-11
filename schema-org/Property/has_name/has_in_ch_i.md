@@ -36,7 +36,7 @@ Predicate to describe the Text of MolecularEntity.
 
 Use it like this: 
 - #has_/text_of_/in_ch_i :: Text   
-- #has_text_of_in_ch_i :: Text   
+- has_text_of_in_ch_i :: Text   
 
 Non-proprietary identifier for molecular entity 
 that can be used in printed and electronic data sources 

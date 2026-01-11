@@ -32,7 +32,7 @@ Predicate to describe the geo of ExerciseAction.
 
 Use it like this: 
 - #has_/location_/course :: Place   
-- #has_location_course :: Place   
+- has_location_course :: Place   
 
 A sub property of location. The course where this action was taken.
 
