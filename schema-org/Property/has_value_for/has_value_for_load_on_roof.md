@@ -30,13 +30,15 @@ title: has_roof-load
 type: Predi_Quantity
 ---
 
-Predicate to describe the Quantity of BusOrCoach, Car.
+# [[has_value_for_load_on_roof]] 
+
+Predicate to describe the Quantity of [[../../../Technology/Transport/Road_Transport/Bus_or_Coach|Bus_or_Coach]], [[../../../Technology/Transport/Road_Transport/Car|Car]]. 
 
 #is_/part_of :: https://auto.schema.org  
 
 Use it like this: 
-- #has_/value_for_/load_/on_roof :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]]   
-- #has_/value_for_load_on_roof :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]]   
+- #has_/value_for_/load_/on_roof :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]] 
+- #has_/value_for_load_on_roof :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]] 
 
 The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
 
@@ -50,9 +52,9 @@ Typical unit code(s): KGM for kilogram, LBR for pound
 
 Predicate describes that: 
 
-#has_/domain  :: [[../../../Technology/Transport/Road_Transport/Bus_or_Coach|Bus_or_Coach]], [[../../../Technology/Transport/Road_Transport/Car|Car]]   
-(has_/name :: has_value_for_load_on_roof )
-(has_/range :: QuantitativeValue )
+#has_/domain  :: [[../../../Technology/Transport/Road_Transport/Bus_or_Coach|Bus_or_Coach]], [[../../../Technology/Transport/Road_Transport/Car|Car]] 
+(has_/name :: has_value_for_load_on_roof ) 
+(has_/range :: QuantitativeValue) 
 
 
 ## Confidential Links & Embeds: 
