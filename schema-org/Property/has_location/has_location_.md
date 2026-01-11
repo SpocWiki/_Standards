@@ -49,8 +49,8 @@ the Event can be appended like so:
 Preferably use [[../../../Earth/Geography/Place|place]], because it is not limited to the earth and is better recognizable for known Locations. 
 
 Use it like this: 
-- [has_/location_/ :: Place, PostalAddress, Text, VirtualLocation ] 
-- [ has_location_ :: Place, PostalAddress, Text, VirtualLocation ] 
+- #has_/location_/ :: Place, PostalAddress, Text, VirtualLocation   
+- #has_location_ :: Place, PostalAddress, Text, VirtualLocation   
 
 The location of, for example, where an event is happening, where an organization is located, 
 or where an action takes place.

@@ -35,8 +35,8 @@ Predicate to describe the Text of PostalCodeRangeSpecification.
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/text_of_/postal_code_begin :: Text ] 
-- [ has_text_of_postal_code_begin :: Text ] 
+- #has_/text_of_/postal_code_begin :: Text   
+- #has_text_of_postal_code_begin :: Text   
 
 First postal code in a range (included).
 

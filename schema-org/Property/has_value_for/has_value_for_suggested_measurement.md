@@ -32,8 +32,8 @@ Predicate to describe the Quantity of PeopleAudience, SizeSpecification.
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/value_for_/suggested_measurement :: QuantitativeValue ] 
-- [ has_value_for_suggested_measurement :: QuantitativeValue ] 
+- #has_/value_for_/suggested_measurement :: QuantitativeValue   
+- #has_/value_for_suggested_measurement :: QuantitativeValue   
 
 A suggested range of body measurements for the intended audience or person, for example inseam between 32 and 34 inches or height between 170 and 190 cm. Typically found on a size chart for wearable products.
 

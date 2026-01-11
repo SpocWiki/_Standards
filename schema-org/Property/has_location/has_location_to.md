@@ -30,8 +30,8 @@ type: Pred_geo
 Predicate to describe the geo of ExerciseAction, InsertAction, MoveAction, TransferAction.
 
 Use it like this: 
-- [has_/location_/to :: Place ] 
-- [ has_location_to :: Place ] 
+- #has_/location_/to :: Place   
+- #has_location_to :: Place   
 
 A sub property of location. 
 The final location of the object or the agent after the action.

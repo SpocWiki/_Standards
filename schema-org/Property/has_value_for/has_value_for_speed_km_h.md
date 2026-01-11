@@ -32,8 +32,8 @@ Predicate to describe the Quantity of Vehicle.
 #is_/part_of :: https://auto.schema.org  
 
 Use it like this: 
-- [has_/value_for_/speed_km_h :: QuantitativeValue ] 
-- [ has_value_for_speed_km_h :: QuantitativeValue ] 
+- #has_/value_for_/speed_km_h :: QuantitativeValue   
+- #has_/value_for_speed_km_h :: QuantitativeValue   
 
 The speed range of the vehicle. If the vehicle is powered by an engine, the upper limit of the speed range (indicated by [[maxValue]]) should be the maximum speed achievable under regular conditions.
 

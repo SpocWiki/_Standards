@@ -37,8 +37,8 @@ Predicate to specify the Url of {{domainIncludes}}.
 #is_/part_of :: {{isPartOf}}  
 
 Use it like this: 
-- [has_/url_for_/{{label_snail}} :: {{rangeIncludes}} ] 
-- [ has_url_for_{{label_snail}} :: {{rangeIncludes}} ] 
+- #has_/url_for_/{{label_snail}} :: {{rangeIncludes}}   
+- #has_url_for_{{label_snail}} :: {{rangeIncludes}}   
 
 {{comment}}
 

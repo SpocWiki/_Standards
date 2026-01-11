@@ -30,8 +30,8 @@ type: Predi_Count
 Predicate to describe the Number of Clip.
 
 Use it like this: 
-- [has_/number_of_/clip :: Integer, Text ] 
-- [ has_number_of_clip :: Integer, Text ] 
+- #has_/number_of_/clip :: Integer, Text   
+- #has_number_of_clip :: Integer, Text   
 
 Position of the clip within an ordered group of clips.
 

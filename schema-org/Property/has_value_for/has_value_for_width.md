@@ -27,6 +27,10 @@ title: has_width
 type: Predi_Quantity
 ---
 
+# [[has_value_for_width]] 
+
+#has_/unit_for_/default :: [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Meter|Unit~Meter]]  
+
 The width of the item in [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Meter|Unit~Meter]]s.
 
 The default [[../../../Dimension/Unit_of_Measure|Unit_of_Measure]]  are [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Meter|Meter]]s, unless specified different, either 

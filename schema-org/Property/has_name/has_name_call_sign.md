@@ -33,8 +33,8 @@ Predicate to describe the Text of BroadcastService, Person, Vehicle.
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/name_/call_sign :: Text ] 
-- [ has_name_call_sign :: Text ] 
+- #has_/name_/call_sign :: Text   
+- #has_name_call_sign :: Text   
 
 A [callsign](https://en.wikipedia.org/wiki/Call_sign), as used in broadcasting and radio communications to identify people, radio and TV stations, or vehicles.
 

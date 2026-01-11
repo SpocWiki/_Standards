@@ -32,8 +32,8 @@ Predicate to describe the Quantity of ShippingDeliveryTime.
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/value_for_/transit_time :: QuantitativeValue ] 
-- [ has_value_for_transit_time :: QuantitativeValue ] 
+- #has_/value_for_/transit_time :: QuantitativeValue   
+- #has_/value_for_transit_time :: QuantitativeValue   
 
 The typical delay the order has been sent for delivery and the goods reach the final customer. Typical properties: minValue, maxValue, unitCode (d for DAY).
 

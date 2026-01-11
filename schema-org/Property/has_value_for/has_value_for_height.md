@@ -27,6 +27,10 @@ title: has_height
 type: Predi_Quantity
 ---
 
+# [[has_value_for_height]]
+
+#has_/unit_for_/default :: [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Meter|Unit~Meter]]  
+
 The height of an item.
 
 The default [[../../../Dimension/Unit_of_Measure|Unit_of_Measure]]  are [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Meter|Meter]]s, unless specified different, either 

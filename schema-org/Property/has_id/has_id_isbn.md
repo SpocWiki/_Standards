@@ -31,8 +31,8 @@ type: Pred_Text
 Predicate to describe the Text of Book.
 
 Use it like this: 
-- [has_/id_/isbn :: Text ] 
-- [ has_id_isbn :: Text ] 
+- #has_/id_/isbn :: Text   
+- #has_id_isbn :: Text   
 
 The id_isbn of the book.
 

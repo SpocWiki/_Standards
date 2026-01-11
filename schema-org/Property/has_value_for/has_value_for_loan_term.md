@@ -30,8 +30,8 @@ type: Predi_Quantity
 Predicate to describe the Quantity of LoanOrCredit.
 
 Use it like this: 
-- [has_/value_for_/loan_term :: QuantitativeValue ] 
-- [ has_value_for_loan_term :: QuantitativeValue ] 
+- #has_/value_for_/loan_term :: QuantitativeValue   
+- #has_/value_for_loan_term :: QuantitativeValue   
 
 The duration of the loan or credit agreement.
 

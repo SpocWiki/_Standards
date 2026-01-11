@@ -36,8 +36,8 @@ Predicate to describe the media type or MIME type of a [[CreativeWork]] or [[Med
 Use **`encodingFormat`** in most cases, since it is more general and widely adopted. 
 
 Use it like this: 
-- [has_/text_of_/encoding_format :: Text, URL ] 
-- [ has_text_of_encoding_format :: Text, URL ] 
+- #has_/text_of_/encoding_format :: Text, URL   
+- #has_text_of_encoding_format :: Text, URL   
 
 Media type typically expressed using a MIME format (see [IANA site](http://www.iana.org/assignments/media-types/media-types.xhtml) and [MDN reference](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types)), 
 e.g. application/zip for a SoftwareApplication binary, audio/mpeg for .mp3 etc.

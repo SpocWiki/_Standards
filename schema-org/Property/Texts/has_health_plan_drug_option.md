@@ -36,8 +36,8 @@ Predicate to describe the Text of HealthInsurancePlan.
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/text_of_/health_plan_drug_option :: Text ] 
-- [ has_text_of_health_plan_drug_option :: Text ] 
+- #has_/text_of_/health_plan_drug_option :: Text   
+- #has_text_of_health_plan_drug_option :: Text   
 
 TODO.
 

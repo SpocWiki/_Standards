@@ -33,8 +33,8 @@ Predicate to specify the Url of MerchantReturnPolicy.
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/url_for_/merchant_return_link :: URL ] 
-- [ has_url_for_merchant_return_link :: URL ] 
+- #has_/url_for_/merchant_return_link :: URL   
+- #has_url_for_merchant_return_link :: URL   
 
 Specifies a Web page or service by URL, for product returns.
 

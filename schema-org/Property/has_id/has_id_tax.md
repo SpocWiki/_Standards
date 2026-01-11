@@ -31,8 +31,8 @@ type: Pred_Text
 Predicate to describe the Text of Organization, Person.
 
 Use it like this: 
-- [has_/id_/tax :: Text ] 
-- [ has_id_tax :: Text ] 
+- #has_/id_/tax :: Text   
+- #has_id_tax :: Text   
 
 The Tax / Fiscal ID of the organization or person, e.g. the TIN in the US or the CIF/NIF in Spain.
 

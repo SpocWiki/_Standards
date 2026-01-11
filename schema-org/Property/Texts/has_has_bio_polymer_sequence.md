@@ -36,8 +36,8 @@ Predicate to describe the Text of Gene, Protein.
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/text_of_/has_bio_polymer_sequence :: Text ] 
-- [ has_text_of_has_bio_polymer_sequence :: Text ] 
+- #has_/text_of_/has_bio_polymer_sequence :: Text   
+- #has_text_of_has_bio_polymer_sequence :: Text   
 
 A symbolic representation of a BioChemEntity. For example, a nucleotide sequence of a Gene or an amino acid sequence of a Protein.
 

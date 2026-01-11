@@ -35,8 +35,8 @@ Predicate to describe the Text of Product.
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/text_of_/country_of_assembly :: Text ] 
-- [ has_text_of_country_of_assembly :: Text ] 
+- #has_/text_of_/country_of_assembly :: Text   
+- #has_text_of_country_of_assembly :: Text   
 
 The place where the product was assembled.
 

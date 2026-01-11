@@ -30,8 +30,8 @@ type: Predi_Count
 Predicate to describe the Number of PublicationIssue.
 
 Use it like this: 
-- [has_/number_of_/issue :: Integer, Text ] 
-- [ has_number_of_issue :: Integer, Text ] 
+- #has_/number_of_/issue :: Integer, Text   
+- #has_number_of_issue :: Integer, Text   
 
 Identifies the issue of publication; for example, "iii" or "2".
 

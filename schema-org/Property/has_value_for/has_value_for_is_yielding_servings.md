@@ -30,8 +30,8 @@ type: Predi_Quantity
 Predicate to describe the Quantity of Recipe.
 
 Use it like this: 
-- [has_/value_for_/is_yielding_servings :: QuantitativeValue, Text ] 
-- [ has_value_for_is_yielding_servings :: QuantitativeValue, Text ] 
+- #has_/value_for_/is_yielding_servings :: QuantitativeValue, Text   
+- #has_/value_for_is_yielding_servings :: QuantitativeValue, Text   
 
 The quantity produced by the recipe (for example, number of people served, number of servings, etc).
 

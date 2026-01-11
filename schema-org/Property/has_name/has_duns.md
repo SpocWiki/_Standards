@@ -31,8 +31,8 @@ type: Pred_Text
 Predicate to describe the Text of Organization, Person.
 
 Use it like this: 
-- [has_/text_of_/duns :: Text ] 
-- [ has_text_of_duns :: Text ] 
+- #has_/text_of_/duns :: Text   
+- #has_text_of_duns :: Text   
 
 The Dun & Bradstreet DUNS number for identifying an organization or business person.
 

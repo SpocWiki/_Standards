@@ -32,8 +32,8 @@ Predicate to describe the Quantity of Vehicle.
 #is_/part_of :: https://auto.schema.org  
 
 Use it like this: 
-- [has_/value_for_/trailer_weight_kg :: QuantitativeValue ] 
-- [ has_value_for_trailer_weight_kg :: QuantitativeValue ] 
+- #has_/value_for_/trailer_weight_kg :: QuantitativeValue   
+- #has_/value_for_trailer_weight_kg :: QuantitativeValue   
 
 The permitted weight of a trailer attached to the vehicle.
 

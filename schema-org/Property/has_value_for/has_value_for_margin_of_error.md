@@ -32,8 +32,8 @@ Predicate to describe the Quantity of Observation.
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/value_for_/margin_of_error :: QuantitativeValue ] 
-- [ has_value_for_margin_of_error :: QuantitativeValue ] 
+- #has_/value_for_/margin_of_error :: QuantitativeValue   
+- #has_/value_for_margin_of_error :: QuantitativeValue   
 
 A marginOfError for an [[Observation]].
 

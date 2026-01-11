@@ -1,6 +1,6 @@
 ---
 aliases:
-  - sodium_in_gram
+  - sodium
   - sodium-content
   - sodiumContent
   - has_value_for_sodium_in_milliGram
@@ -31,11 +31,15 @@ type: Predi_Quantity
 
 #has_/unit_for_/default :: [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Gram|Unit~Gram]] 
 
+The default [[../../../Dimension/Unit_of_Measure|Unit_of_Measure]]  are [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Gram|Unit~Gram]]s, unless specified different, either 
+- in the XPath/JsonPath 
+- as a [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]] with `value` and `unitCode` 
+
 Predicate to describe the Quantity of NutritionInformation.
 
 Use it like this: 
-- [has_/value_for_/sodium_in_milliGram :: Mass ] 
-- [ has_value_for_sodium_in_milliGram :: Mass ] 
+- #has_/value_for_/sodium_in_milliGram :: Mass   
+- #has_/value_for_sodium_in_milliGram :: Mass   
 
 The number of milligrams of sodium.
 

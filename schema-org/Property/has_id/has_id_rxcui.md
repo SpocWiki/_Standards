@@ -32,8 +32,8 @@ Predicate to describe the Text of Drug.
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/id_/rxcui :: Text ] 
-- [ has_id_rxcui :: Text ] 
+- #has_/id_/rxcui :: Text   
+- #has_id_rxcui :: Text   
 
 The id_rxcui drug identifier from RXNORM.
 

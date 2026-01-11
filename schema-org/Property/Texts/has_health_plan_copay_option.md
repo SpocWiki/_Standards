@@ -36,8 +36,8 @@ Predicate to describe the Text of HealthPlanCostSharingSpecification.
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/text_of_/health_plan_copay_option :: Text ] 
-- [ has_text_of_health_plan_copay_option :: Text ] 
+- #has_/text_of_/health_plan_copay_option :: Text   
+- #has_text_of_health_plan_copay_option :: Text   
 
 Whether the copay is before or after deductible, etc. TODO: Is this a closed set?
 

@@ -30,8 +30,8 @@ type: Predi_Count
 Predicate to describe the Number of CreativeWorkSeason.
 
 Use it like this: 
-- [has_/number_of_/season :: Integer, Text ] 
-- [ has_number_of_season :: Integer, Text ] 
+- #has_/number_of_/season :: Integer, Text   
+- #has_number_of_season :: Integer, Text   
 
 Position of the season within an ordered group of seasons.
 

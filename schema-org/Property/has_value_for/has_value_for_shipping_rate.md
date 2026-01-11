@@ -32,8 +32,8 @@ Predicate to describe the Quantity of OfferShippingDetails, ShippingRateSettings
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/value_for_/shipping_rate :: MonetaryAmount ] 
-- [ has_value_for_shipping_rate :: MonetaryAmount ] 
+- #has_/value_for_/shipping_rate :: MonetaryAmount   
+- #has_/value_for_shipping_rate :: MonetaryAmount   
 
 The shipping rate is the cost of shipping to the specified destination. Typically, the maxValue and currency values (of the [[MonetaryAmount]]) are most appropriate.
 

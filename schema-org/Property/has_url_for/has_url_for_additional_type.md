@@ -37,8 +37,8 @@ In RDFa syntax, it is better to use the native RDFa syntax - the 'typeof' attrib
 Schema.org tools may have only weaker understanding of extra types, in particular those defined externally.
 
 Use it like this: 
-- [has_/url_for_/additional_type :: URL ] 
-- [ has_url_for_additional_type :: URL ] 
+- #has_/url_for_/additional_type :: URL   
+- #has_url_for_additional_type :: URL   
 
 Predicate describes that: 
 

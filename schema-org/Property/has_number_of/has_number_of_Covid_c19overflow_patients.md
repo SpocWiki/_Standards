@@ -32,8 +32,8 @@ Predicate to describe the Number of CDCPMDRecord.
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/number_of_/Covid_c19overflow_patients :: Number ] 
-- [ has_number_of_Covid_c19overflow_patients :: Number ] 
+- #has_/number_of_/Covid_c19overflow_patients :: Number   
+- #has_number_of_Covid_c19overflow_patients :: Number   
 
 numc19overflowpats - ED/OVERFLOW: Patients with suspected or confirmed COVID-19 who are in the ED or any overflow location awaiting an inpatient bed.
 

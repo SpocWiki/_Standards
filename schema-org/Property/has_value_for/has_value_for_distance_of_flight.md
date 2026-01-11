@@ -55,6 +55,10 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Property/has_value_for/has_value_for_flight_distance.secret|has_value_for_flight_distance.secret]]"
 ---
 
+# [[has_value_for_distance_of_flight]]
+
+#has_/unit_for_/default :: [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Meter|Unit~Meter]]  
+
 Predicate to describe the Quantity of Flight.
 
 The default [[../../../Dimension/Unit_of_Measure|Unit_of_Measure]]  are [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Meter|Meter]]s, unless specified different, either 

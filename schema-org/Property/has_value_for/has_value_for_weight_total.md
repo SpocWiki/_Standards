@@ -36,8 +36,8 @@ Predicate to describe the Quantity of Vehicle.
 #is_/part_of :: https://auto.schema.org  
 
 Use it like this: 
-- [has_/value_for_/weight_total_/kg :: QuantitativeValue ] 
-- [ has_value_for_weight_total_kg :: QuantitativeValue ] 
+- #has_/value_for_/weight_total_/kg :: QuantitativeValue   
+- #has_/value_for_weight_total_kg :: QuantitativeValue   
 
 The permitted total weight of the loaded vehicle, including passengers and cargo and the weight of the empty vehicle.
 

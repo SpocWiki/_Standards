@@ -35,8 +35,8 @@ Predicate to describe the Text of JobPosting.
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/text_of_/job_location_type :: Text ] 
-- [ has_text_of_job_location_type :: Text ] 
+- #has_/text_of_/job_location_type :: Text   
+- #has_text_of_job_location_type :: Text   
 
 A description of the job location (e.g. TELECOMMUTE for telecommute jobs).
 
