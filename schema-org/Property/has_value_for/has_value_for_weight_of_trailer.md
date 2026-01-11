@@ -30,7 +30,7 @@ type: Predi_Quantity
 # [[has_value_for_weight_of_trailer]] 
 
 #is_/part_of :: https://auto.schema.org  
-#is_/similar_to :: [[has_value_for_weight_tongue]] 
+#is_/similar_to :: [[has_value_for_weight_vertical]] 
 #has_/unit_for_/default :: [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Gram|Unit~Gram]] 
 
 The default [[../../../Dimension/Unit_of_Measure|Unit_of_Measure]]  are [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Gram|Unit~Gram]]s, unless specified different, either 
@@ -42,7 +42,7 @@ Predicate to describe the Quantity of Vehicle.
 Use it like this: 
 - #has_/value_for_/weight_/of_trailer :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]   
 - #has_/value_for_/weight_/of_trailer_/kilo_/gram :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]   
-- #has_/value_for_weight_of_trailer :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]]   
+- #has_value_for_weight_of_trailer :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]]   
 
 The maximum permitted weight of a trailer attached to the vehicle.
 

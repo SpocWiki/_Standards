@@ -48,8 +48,7 @@ Typical unit code(s): KMH for km/h, HM for mile per hour (0.447 04 m/s), KNT for
 
 Predicate describes that: 
 
-#has_/domain  :: Vehicle  
-
+#has_/domain  :: [[../../../Technology/Transport/Vehicle|Vehicle]]  
 ( #has_/name :: has_value_for_speed_km_h )
 ( #has_/range :: QuantitativeValue )
 

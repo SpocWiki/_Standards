@@ -3,8 +3,8 @@ aliases:
   - roof_load
   - roof-load
   - roofLoad
-  - has_value_for_roof_load_in_kg
-  - has value for roof load in kg
+  - has_value_for_roof_load
+  - has value for roof load
 confidential: public
 cssclasses:
   - Predicate

@@ -37,14 +37,11 @@ Use it like this:
 
 The distance between the centers of the front and rear wheels.
 
-
-
 Typical unit code(s): CMT for centimeters, MTR for meters, INH for inches, FOT for foot/feet
 
 Predicate describes that: 
 
-#has_/domain  :: Vehicle  
-
+#has_/domain  :: [[../../../Technology/Transport/Vehicle|Vehicle]]   
 ( #has_/name :: has_value_for_wheelbase )
 ( #has_/range :: QuantitativeValue )
 

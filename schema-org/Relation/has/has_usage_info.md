@@ -32,7 +32,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/usage_info :: CreativeWork, URL ] 
+- [has_/usage_/info :: CreativeWork, URL ] 
 - [ has_usage_info :: CreativeWork, URL ] 
 
 The schema.org [[usageInfo]] property indicates further information about a [[CreativeWork]]. 

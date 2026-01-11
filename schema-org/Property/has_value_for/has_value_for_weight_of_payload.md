@@ -31,17 +31,13 @@ Predicate to describe the Quantity of Vehicle.
 #is_/part_of :: https://auto.schema.org  
 
 Use it like this: 
-- #has_/value_for_/payload :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]   
-- #has_/value_for_/payload_/kilo_/gram :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]   
-- #has_/value_for_payload :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]]   
+- #has_/value_for_/weight_/of_payload :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]   
+- #has_/value_for_/weight_/of_payload_/kilo_/gram :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]   
+- #has_value_for_weight_of_payload :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]]   
 
 The permitted weight of passengers and cargo, EXCLUDING the weight of the empty vehicle.
 
-
-
 Typical unit code(s): KGM for kilogram, LBR for pound
-
-
 
 <ul>
 <li>Note 1: Many databases specify the permitted TOTAL weight instead, which is the sum of [[weight]] and [[payload]]</li>
