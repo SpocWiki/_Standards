@@ -29,7 +29,7 @@ type: Predi_Quantity
 
 # [[has_value_for_weight_total]] 
 
-#has_/unit_for_/default :: [[../../../Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Kilogram|Unit~Kilogram]]  
+#has_/unit_for_/default :: [[../../../Dimension/Unit_of_Measure/SI-Unit/derived_Unit/Unit~Kilogram|Unit~Kilogram]]  
 
 Predicate to describe the Quantity of Vehicle.
 

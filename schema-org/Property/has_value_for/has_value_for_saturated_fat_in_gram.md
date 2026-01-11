@@ -29,7 +29,7 @@ type: Predi_Quantity
 
 # [[has_value_for_saturated_fat_in_gram]] 
 
-#has_/unit_for_/default :: [[../../../Dimension/Unit_of_Measurement/SI-Unit/Unit~Gram|Unit~Gram]] 
+#has_/unit_for_/default :: [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Gram|Unit~Gram]] 
 
 Predicate to describe the Quantity of NutritionInformation.
 

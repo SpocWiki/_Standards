@@ -40,7 +40,7 @@ Commons_category: Electric charge
 
 # [[Charge,electric]]  
 
-The SI-Unit for Charge is the [[../../../Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Coulomb]].  
+The SI-Unit for Charge is the [[../../../Dimension/Unit_of_Measure/SI-Unit/derived_Unit/Unit~Coulomb]].  
 Since 2019 the Charge is defined as exactly 1 Electron Charge every 1.602176634×10[^−19]s . 
 
 #is_/same_as :: [[../../../WikiData/WD~Electric_charge,1111|WD~Electric_charge,1111]] 

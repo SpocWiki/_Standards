@@ -4,7 +4,7 @@
 Energy and [[../Mass]] are convertible, 
 but at low-energy, the Change in Mass is negligible. 
 
-It's SI Unit is the [[../Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Joule]].  
+It's SI Unit is the [[../Unit_of_Measure/SI-Unit/derived_Unit/Unit~Joule]].  
 
 Due to the [[Isotropy]] of Time, it is a conserved Unit. 
 

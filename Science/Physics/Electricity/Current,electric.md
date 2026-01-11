@@ -29,7 +29,7 @@ Wikidata_property: maximum current
 
 #is_/same_as :: [[../../../WikiData/WD~Electric_current,11651|WD~Electric_current,11651]] 
 
-There are many Units for Current, but the SI-Unit is the [[../../../Dimension/Unit_of_Measurement/SI-Unit/Unit~Ampere|Unit~Ampere]]. 
+There are many Units for Current, but the SI-Unit is the [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Ampere|Unit~Ampere]]. 
 
 
 ## #has_/text_of_/abstract 

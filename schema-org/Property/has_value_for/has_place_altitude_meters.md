@@ -29,7 +29,7 @@ type: Predi_Quantity
 
 # [[has_place_altitude_meters]] 
 
-Altitude of an Object in [[../../../Dimension/Unit_of_Measurement/SI-Unit/Unit~Meter|Unit~Meter]]s __above Ground__(!), 
+Altitude of an Object in [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Meter|Unit~Meter]]s __above Ground__(!), 
 often used in Aviation to describe the vertical Position of [[Airplane]]s or submarines. 
 To describe the geo:alt Altitude above the [[../../../../_public/geo/geo~Coordinates/WGS_84.public|WGS_84.public]] Ellipsoid, use [[has_place_elevation_meters|elevation]]. 
 

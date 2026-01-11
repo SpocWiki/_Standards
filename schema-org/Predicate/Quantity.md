@@ -75,7 +75,7 @@ Class of all Quantities, i.e. measurable Values with a Unit and possibly Error R
 
 Quantities such as distance, time, mass, weight, etc. 
 Particular instances of say Mass are entities like '3 kg' or '4 milligrams'. 
-Quantities must have a [[../../Dimension/Unit_of_Measurement|Unit_of_Measurement]] 
+Quantities must have a [[../../Dimension/Unit_of_Measure|Unit_of_Measure]] 
 (and often also an Origin/Reference-Point), 
 to be able to compare and operate on them. 
 

@@ -46,7 +46,7 @@ Stack_Exchange_tag: https://electronics.stackexchange.com/tags/voltage
 
 Voltage is the Energy per [[../../Science/Physics/Electricity/Charge,electric]]. 
 
-It's SI Unit is the [[../Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Volt]].  
+It's SI Unit is the [[../Unit_of_Measure/SI-Unit/derived_Unit/Unit~Volt]].  
 
 
 ## Confidential Links & Embeds: 

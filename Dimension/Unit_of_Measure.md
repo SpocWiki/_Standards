@@ -1,5 +1,7 @@
 ---
 aliases:
+  - unit of measure
+  - unit of measurement
 has_id_wikidata: Q47574
 subclass_of:
   - "[[_Standards/WikiData/WD~scalar_quantity,181175]]"
@@ -64,7 +66,7 @@ Krugosvet_article_archived_: nauka_i_tehnika/fizika/EDINITSI_IZMERENIYA_FIZICHES
 Commons_category: Units of measure
 ---
 
-# [[Unit_of_Measurement]] 
+# [[Unit_of_Measure]] 
 
 #is_/same_as :: [[WD~Unit_of_measurement,47574]] 
 

@@ -37,7 +37,7 @@ Stack_Exchange_tag:
 
 # [[Dim~Length]] 
 
-There are many Units for Length, but the SI-Unit is the [[Unit_of_Measurement/SI-Unit/Unit~Meter|Unit~Meter]] , 
+There are many Units for Length, but the SI-Unit is the [[Unit_of_Measure/SI-Unit/Unit~Meter|Unit~Meter]] , 
 originally defined as 1/40_000 of the Circumference through both Poles. 
 
 #is_/same_as :: [[../WikiData/WD~Length,36253|WD~Length,36253]] 

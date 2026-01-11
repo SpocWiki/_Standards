@@ -1,7 +1,7 @@
 
 # [[Unit~NewtonMeter]] 
 
-#is_/different_from :: [[../../Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Joule|Unit~Joule]] 
+#is_/different_from :: [[../../Unit_of_Measure/SI-Unit/derived_Unit/Unit~Joule|Unit~Joule]] 
 
 ## #has_/text_of_/abstract 
 

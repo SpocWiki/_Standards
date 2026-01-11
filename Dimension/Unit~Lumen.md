@@ -32,7 +32,7 @@ Wikidata_SPARQL_query_equivalent: wd:Q484092 p:P2370/psn:P2370 [wikibase:quantit
 
 # [[Unit~Lumen]]  
 
-Lumen is a derived from the SI- [[Unit_of_Measurement/SI-Unit/Unit~Candela|Unit~Candela]].  
+Lumen is a derived from the SI- [[Unit_of_Measure/SI-Unit/Unit~Candela|Unit~Candela]].  
 1 Lumen = 1 Candela* 1SteRad 
 This is the luminous Flow into 1 Steradian Space 
 
