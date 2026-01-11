@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: Offer  
 
-( #has_/name :: is_shipping_details )
-( #has_/range :: OfferShippingDetails )
+(has_/name :: is_shipping_details )
+(has_/range :: OfferShippingDetails )
 
 
 ## Confidential Links & Embeds: 

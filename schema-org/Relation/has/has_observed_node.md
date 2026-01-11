@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: Observation  
 
-( #has_/name :: has_observed_node )
-( #has_/range :: StatisticalPopulation )
+(has_/name :: has_observed_node )
+(has_/range :: StatisticalPopulation )
 
 
 ## Confidential Links & Embeds: 

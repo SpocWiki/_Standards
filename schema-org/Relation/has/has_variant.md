@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: ProductGroup  
 
-( #has_/name :: is_variant )
-( #has_/range :: Product )
+(has_/name :: is_variant )
+(has_/range :: Product )
 
 #is_/inverse_of  :: isVariantOf  
 

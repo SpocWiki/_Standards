@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: Review  
 
-( #has_/name :: has_associated_review )
-( #has_/range :: Review )
+(has_/name :: has_associated_review )
+(has_/range :: Review )
 
 #has_/sub_properties :: [ associatedClaimReview, associatedMediaReview ]  
 

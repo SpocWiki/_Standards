@@ -41,8 +41,8 @@ Relation describes that:
 
 #has_/domain  :: ExchangeRateSpecification  
 
-( #has_/name :: has_current_exchange_rate )
-( #has_/range :: UnitPriceSpecification )
+(has_/name :: has_current_exchange_rate )
+(has_/range :: UnitPriceSpecification )
 
 
 ## Confidential Links & Embeds: 

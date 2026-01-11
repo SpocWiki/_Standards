@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: Event  
 
-( #has_/name :: is_super_event )
-( #has_/range :: Event )
+(has_/name :: is_super_event )
+(has_/range :: Event )
 
 #is_/inverse_of  :: subEvent  
 

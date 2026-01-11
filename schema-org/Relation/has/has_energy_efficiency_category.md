@@ -42,8 +42,8 @@ Relation describes that:
 
 #has_/domain  :: EnergyConsumptionDetails  
 
-( #has_/name :: has_energy_efficiency_category )
-( #has_/range :: EnergyEfficiencyEnumeration )
+(has_/name :: has_energy_efficiency_category )
+(has_/range :: EnergyEfficiencyEnumeration )
 
 
 ## Confidential Links & Embeds: 

@@ -47,8 +47,8 @@ Relation describes that:
 
 #has_/domain  :: Person, SportsTeam  
 
-( #has_/name :: has_gender )
-( #has_/range :: GenderType, Text )
+(has_/name :: has_gender )
+(has_/range :: GenderType, Text )
 
 
 ## Confidential Links & Embeds: 

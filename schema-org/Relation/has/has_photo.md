@@ -35,8 +35,8 @@ Relation describes that:
 
 #has_/domain  :: Place  
 
-( #has_/name :: is_photo )
-( #has_/range :: ImageObject, Photograph )
+(has_/name :: is_photo )
+(has_/range :: ImageObject, Photograph )
 
 #is_/sub_property_of  :: image  
 

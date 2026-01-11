@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: PublicationEvent  
 
-( #has_/name :: is_published_by )
-( #has_/range :: Organization, Person )
+(has_/name :: is_published_by )
+(has_/range :: Organization, Person )
 
 
 ## Confidential Links & Embeds: 

@@ -41,8 +41,8 @@ Relation describes that:
 
 #has_/domain  :: BoatTrip  
 
-( #has_/name :: has_departure_boat_terminal )
-( #has_/range :: BoatTerminal )
+(has_/name :: has_departure_boat_terminal )
+(has_/range :: BoatTerminal )
 
 
 ## Confidential Links & Embeds: 

@@ -43,8 +43,8 @@ Relation describes that:
 
 #has_/domain  :: [[../../../Class/is_a_/creative_work/math_solver]]  
 
-( #has_/name :: has_math_expression )
-( #has_/range :: [[../../../Class/is_a_/action/solve_math_action]], Text )
+(has_/name :: has_math_expression )
+(has_/range :: [[../../../Class/is_a_/action/solve_math_action]], Text )
 
 
 ## Confidential Links & Embeds: 

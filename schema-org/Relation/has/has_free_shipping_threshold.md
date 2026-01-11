@@ -41,8 +41,8 @@ Relation describes that:
 
 #has_/domain  :: ShippingRateSettings  
 
-( #has_/name :: has_free_shipping_threshold )
-( #has_/range :: DeliveryChargeSpecification, MonetaryAmount )
+(has_/name :: has_free_shipping_threshold )
+(has_/range :: DeliveryChargeSpecification, MonetaryAmount )
 
 
 ## Confidential Links & Embeds: 

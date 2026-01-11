@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: CookAction  
 
-( #has_/name :: has_food_establishment )
-( #has_/range :: FoodEstablishment, Place )
+(has_/name :: has_food_establishment )
+(has_/range :: FoodEstablishment, Place )
 
 #is_/sub_property_of  :: location  
 

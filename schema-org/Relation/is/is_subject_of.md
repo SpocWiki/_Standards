@@ -41,8 +41,8 @@ Relation describes that:
 
 #has_/domain  :: [Thing](../../../Class/Thing.md)  
 
-( #has_/name :: is_subject_of )
-( #has_/range :: CreativeWork, Event )
+(has_/name :: is_subject_of )
+(has_/range :: CreativeWork, Event )
 
 #is_/inverse_of  :: [is_about](../is/is_about.md)  
 

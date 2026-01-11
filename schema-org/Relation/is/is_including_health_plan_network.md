@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: HealthInsurancePlan 
 
-( #has_/name :: is_including_health_plan_network)
-( #has_/range :: HealthPlanNetwork)
+(has_/name :: is_including_health_plan_network)
+(has_/range :: HealthPlanNetwork)
 
 
 ## Confidential Links & Embeds: 

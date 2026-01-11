@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: MerchantReturnPolicy  
 
-( #has_/name :: is_return_method )
-( #has_/range :: ReturnMethodEnumeration )
+(has_/name :: is_return_method )
+(has_/range :: ReturnMethodEnumeration )
 
 
 ## Confidential Links & Embeds: 

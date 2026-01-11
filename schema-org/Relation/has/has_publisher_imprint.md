@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: CreativeWork  
 
-( #has_/name :: is_publisher_imprint )
-( #has_/range :: Organization )
+(has_/name :: is_publisher_imprint )
+(has_/range :: Organization )
 
 
 ## Confidential Links & Embeds: 

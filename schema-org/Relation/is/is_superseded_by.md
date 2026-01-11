@@ -40,8 +40,8 @@ Reision describes that:
 
 #has_/domain  :: Class, Enumeration, Property  
 
-( #has_/name :: is_superseded_by )
-( #has_/range :: Class, Enumeration, Property )
+(has_/name :: is_superseded_by )
+(has_/range :: Class, Enumeration, Property )
 
 
 ## Confidential Links & Embeds: 

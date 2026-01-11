@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: BioChemEntity  
 
-( #has_/name :: is_taxonomic_range )
-( #has_/range :: DefinedTerm, Taxon, Text, URL )
+(has_/name :: is_taxonomic_range )
+(has_/range :: DefinedTerm, Taxon, Text, URL )
 
 
 ## Confidential Links & Embeds: 

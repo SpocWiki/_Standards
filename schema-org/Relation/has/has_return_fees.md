@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: MerchantReturnPolicy  
 
-( #has_/name :: is_return_fees )
-( #has_/range :: ReturnFeesEnumeration )
+(has_/name :: is_return_fees )
+(has_/range :: ReturnFeesEnumeration )
 
 
 ## Confidential Links & Embeds: 

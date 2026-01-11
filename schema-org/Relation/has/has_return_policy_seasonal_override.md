@@ -42,8 +42,8 @@ Relation describes that:
 
 #has_/domain  :: MerchantReturnPolicy  
 
-( #has_/name :: is_return_policy_seasonal_override )
-( #has_/range :: MerchantReturnPolicySeasonalOverride )
+(has_/name :: is_return_policy_seasonal_override )
+(has_/range :: MerchantReturnPolicySeasonalOverride )
 
 
 ## Confidential Links & Embeds: 

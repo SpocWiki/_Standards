@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: Organization, Person  
 
-( #has_/name :: has_credential )
-( #has_/range :: EducationalOccupationalCredential )
+(has_/name :: has_credential )
+(has_/range :: EducationalOccupationalCredential )
 
 
 ## Confidential Links & Embeds: 

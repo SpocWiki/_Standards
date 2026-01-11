@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: SpecialAnnouncement  
 
-( #has_/name :: has_announcement_location )
-( #has_/range :: CivicStructure, LocalBusiness )
+(has_/name :: has_announcement_location )
+(has_/range :: CivicStructure, LocalBusiness )
 
 #is_/sub_property_of  :: spatialCoverage  
 

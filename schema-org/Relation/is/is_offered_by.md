@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: Offer  
 
-( #has_/name :: is_offered_by )
-( #has_/range :: Organization, Person )
+(has_/name :: is_offered_by )
+(has_/range :: Organization, Person )
 
 #is_/inverse_of  :: [[../is/is_making_offer|makesOffer]]  
 

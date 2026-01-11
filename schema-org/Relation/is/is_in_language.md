@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: BroadcastService, CommunicateAction, CreativeWork, Event, LinkRole, PronounceableText, WriteAction 
 
-( #has_/name :: is_in_language)
-( #has_/range :: Language, Text)
+(has_/name :: is_in_language)
+(has_/range :: Language, Text)
 
 
 ## Confidential Links & Embeds: 

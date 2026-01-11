@@ -36,8 +36,8 @@ Relation describes that:
 
 #has_/domain  :: JobPosting, Occupation  
 
-( #has_/name :: is_qualifications )
-( #has_/range :: EducationalOccupationalCredential, Text )
+(has_/name :: is_qualifications )
+(has_/range :: EducationalOccupationalCredential, Text )
 
 
 ## Confidential Links & Embeds: 

@@ -36,8 +36,8 @@ Relation describes that:
 
 #has_/domain  :: BioChemEntity, CreativeWork, Event, MedicalEntity, Organization, Person, Product  
 
-( #has_/name :: has_funding )
-( #has_/range :: Grant )
+(has_/name :: has_funding )
+(has_/range :: Grant )
 
 #is_/inverse_of  :: [[is_funding_item]]  
 

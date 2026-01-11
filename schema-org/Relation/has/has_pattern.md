@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: CreativeWork, Product  
 
-( #has_/name :: has_pattern )
-( #has_/range :: DefinedTerm, Text )
+(has_/name :: has_pattern )
+(has_/range :: DefinedTerm, Text )
 
 
 ## Confidential Links & Embeds: 

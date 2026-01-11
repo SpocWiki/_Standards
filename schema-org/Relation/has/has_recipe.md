@@ -37,8 +37,8 @@ Relation describes that:
 
 #has_/domain  :: CookAction  
 
-( #has_/name :: is_recipe )
-( #has_/range :: Recipe )
+(has_/name :: is_recipe )
+(has_/range :: Recipe )
 
 #is_/sub_property_of  :: instrument  
 

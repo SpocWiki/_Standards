@@ -41,8 +41,8 @@ Relation describes that:
 
 #has_/domain  :: CreativeWork, EducationEvent, LearningResource  
 
-( #has_/name :: is_teaches )
-( #has_/range :: DefinedTerm, Text )
+(has_/name :: is_teaches )
+(has_/range :: DefinedTerm, Text )
 
 
 ## Confidential Links & Embeds: 

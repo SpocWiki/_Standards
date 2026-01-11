@@ -48,8 +48,8 @@ Relation describes that:
 
 #has_/domain  :: AggregateOffer, CreativeWork, EducationalOccupationalProgram, Event, MenuItem, Product, Service, Trip  
 
-( #has_/name :: is_offering )
-( #has_/range :: Demand, Offer )
+(has_/name :: is_offering )
+(has_/range :: Demand, Offer )
 
 #is_/inverse_of  :: itemOffered  
 

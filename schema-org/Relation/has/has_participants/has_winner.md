@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: LoseAction  
 
-( #has_/name :: is_winner )
-( #has_/range :: Person )
+(has_/name :: is_winner )
+(has_/range :: Person )
 
 #is_/sub_property_of  :: participant  
 

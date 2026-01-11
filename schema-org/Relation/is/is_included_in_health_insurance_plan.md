@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: Drug 
 
-( #has_/name :: is_included_in_health_insurance_plan)
-( #has_/range :: HealthInsurancePlan)
+(has_/name :: is_included_in_health_insurance_plan)
+(has_/range :: HealthInsurancePlan)
 
 
 ## Confidential Links & Embeds: 

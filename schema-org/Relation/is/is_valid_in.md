@@ -36,8 +36,8 @@ Relation describes that:
 
 #has_/domain  :: EducationalOccupationalCredential, Permit 
 
-( #has_/name :: is_valid_in)
-( #has_/range :: AdministrativeArea)
+(has_/name :: is_valid_in)
+(has_/range :: AdministrativeArea)
 
 
 ## Confidential Links & Embeds: 

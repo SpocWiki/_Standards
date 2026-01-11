@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: CategoryCodeSet  
 
-( #has_/name :: has_category_code )
-( #has_/range :: CategoryCode )
+(has_/name :: has_category_code )
+(has_/range :: CategoryCode )
 
 #is_/sub_property_of  :: hasDefinedTerm  
 

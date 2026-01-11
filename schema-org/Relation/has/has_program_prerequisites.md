@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: EducationalOccupationalProgram  
 
-( #has_/name :: is_program_prerequisites )
-( #has_/range :: AlignmentObject, Course, EducationalOccupationalCredential, Text )
+(has_/name :: is_program_prerequisites )
+(has_/range :: AlignmentObject, Course, EducationalOccupationalCredential, Text )
 
 
 ## Confidential Links & Embeds: 

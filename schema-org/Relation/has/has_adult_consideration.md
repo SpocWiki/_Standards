@@ -39,8 +39,8 @@ Relation describes that:
 
 #has_/domain  :: Offer, Product  
 
-( #has_/name :: has_adult_consideration )
-( #has_/range :: AdultOrientedEnumeration )
+(has_/name :: has_adult_consideration )
+(has_/range :: AdultOrientedEnumeration )
 
 
 ## Confidential Links & Embeds: 

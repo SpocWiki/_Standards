@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: CreativeWork  
 
-( #has_/name :: is_work_translation )
-( #has_/range :: CreativeWork )
+(has_/name :: is_work_translation )
+(has_/range :: CreativeWork )
 
 #is_/inverse_of  :: translationOfWork  
 

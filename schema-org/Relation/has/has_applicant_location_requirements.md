@@ -39,8 +39,8 @@ Relation describes that:
 
 #has_/domain  :: JobPosting  
 
-( #has_/name :: has_applicant_location_requirements )
-( #has_/range :: AdministrativeArea )
+(has_/name :: has_applicant_location_requirements )
+(has_/range :: AdministrativeArea )
 
 
 ## Confidential Links & Embeds: 

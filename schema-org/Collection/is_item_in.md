@@ -61,8 +61,8 @@ Relation describes that:
 
 #has_/domain  :: Thing 
 
-( #has_/name :: is_element_of)
-( #has_/range :: Collection)
+(has_/name :: is_element_of)
+(has_/range :: Collection)
 
 
 ## Confidential Links & Embeds: 

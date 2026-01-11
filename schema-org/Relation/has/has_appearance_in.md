@@ -39,8 +39,8 @@ Relation describes that:
 
 #has_/domain  :: Claim  
 
-( #has_/name :: has_appearance_in )
-( #has_/range :: CreativeWork )
+(has_/name :: has_appearance_in )
+(has_/range :: CreativeWork )
 
 #is_/sub_property_of  :: workExample  
 

@@ -43,8 +43,8 @@ Relation describes that:
 
 #has_/domain :: [[../../Class/is_a_/product/product_model|ProductModel]]  
 
-( #has_/name :: is_successor_of )
-( #has_/range :: [[../../../Society/Agent/Community/Organization/Business/Product/Product_Model|ProductModel]] )
+(has_/name :: is_successor_of )
+(has_/range :: [[../../../Society/Agent/Community/Organization/Business/Product/Product_Model|ProductModel]] )
 
 #is_/similar_to :: [[../has/has_previous_item|has_previous_item]] 
 #is_/inverse_of :: [[../has/has_next_item]]    

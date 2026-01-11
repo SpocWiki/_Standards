@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: Observation  
 
-( #has_/name :: has_measured_value )
-( #has_/range :: DataType )
+(has_/name :: has_measured_value )
+(has_/range :: DataType )
 
 
 ## Confidential Links & Embeds: 

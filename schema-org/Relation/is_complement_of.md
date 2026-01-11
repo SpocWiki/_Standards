@@ -63,8 +63,8 @@ Relation describes that:
 
 #has_/domain  :: Property 
 
-( #has_/name :: is_complement_of)
-( #has_/range :: Property)
+(has_/name :: is_complement_of)
+(has_/range :: Property)
 
 # #has_/examples 
 

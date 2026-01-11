@@ -34,8 +34,8 @@ Relation describes that:
 
 #has_/domain  :: VoteAction  
 
-( #has_/name :: has_candidate )
-( #has_/range :: Person )
+(has_/name :: has_candidate )
+(has_/range :: Person )
 
 #is_/sub_property_of  :: object  
 

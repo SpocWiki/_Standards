@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: MusicRelease  
 
-( #has_/name :: is_credited_to )
-( #has_/range :: Organization, Person )
+(has_/name :: is_credited_to )
+(has_/range :: Organization, Person )
 
 
 ## Confidential Links & Embeds: 

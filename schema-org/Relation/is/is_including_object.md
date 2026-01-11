@@ -36,8 +36,8 @@ Relation describes that:
 
 #has_/domain  :: Demand, Offer, ProductCollection 
 
-( #has_/name :: is_including_object)
-( #has_/range :: TypeAndQuantityNode)
+(has_/name :: is_including_object)
+(has_/range :: TypeAndQuantityNode)
 
 
 ## Confidential Links & Embeds: 

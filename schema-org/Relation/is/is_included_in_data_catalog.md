@@ -43,8 +43,8 @@ Relation describes that:
 
 #has_/domain  :: Dataset  
 
-( #has_/name :: [[is_included_in_data_catalog 1]] )
-( #has_/range :: DataCatalog )
+(has_/name :: [[is_included_in_data_catalog 1]] )
+(has_/range :: DataCatalog )
 
 #is_/inverse_of  :: dataset  
 

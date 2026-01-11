@@ -35,8 +35,8 @@ Relation describes that:
 
 #has_/domain  :: HowTo  
 
-( #has_/name :: is_step )
-( #has_/range :: CreativeWork, HowToSection, HowToStep, Text )
+(has_/name :: is_step )
+(has_/range :: CreativeWork, HowToSection, HowToStep, Text )
 
 #has_/sub_properties :: [ recipeInstructions ]  
 

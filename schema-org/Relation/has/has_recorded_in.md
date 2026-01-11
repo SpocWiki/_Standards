@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: Event  
 
-( #has_/name :: is_recorded_in )
-( #has_/range :: CreativeWork )
+(has_/name :: is_recorded_in )
+(has_/range :: CreativeWork )
 
 #is_/inverse_of  :: recordedAt  
 

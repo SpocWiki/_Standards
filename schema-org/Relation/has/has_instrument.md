@@ -34,8 +34,8 @@ Relation describes that:
 
 #has_/domain  :: Action  
 
-( #has_/name :: has_instrument )
-( #has_/range :: Thing )
+(has_/name :: has_instrument )
+(has_/range :: Thing )
 
 #has_/sub_properties :: [ deliveryMethod, diet, exercisePlan, exerciseRelatedDiet, language, query, recipe, supply, tool ]  
 

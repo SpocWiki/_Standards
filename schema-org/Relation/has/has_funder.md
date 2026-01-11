@@ -34,8 +34,8 @@ Relation describes that:
 
 #has_/domain  :: CreativeWork, Event, Grant, MonetaryGrant, Organization, Person  
 
-( #has_/name :: has_funder )
-( #has_/range :: Organization, Person )
+(has_/name :: has_funder )
+(has_/range :: Organization, Person )
 
 #is_/sub_property_of  :: sponsor  
 

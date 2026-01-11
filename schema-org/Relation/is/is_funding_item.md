@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: Grant  
 
-( #has_/name :: is_funding_item )
-( #has_/range :: BioChemEntity, CreativeWork, Event, MedicalEntity, Organization, Person, Product )
+(has_/name :: is_funding_item )
+(has_/range :: BioChemEntity, CreativeWork, Event, MedicalEntity, Organization, Person, Product )
 
 #is_/inverse_of  :: [[has_funding]]  
 

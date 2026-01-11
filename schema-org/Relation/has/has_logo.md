@@ -37,8 +37,8 @@ Relation describes that:
 
 #has_/domain  :: Brand, Organization, Place, Product, Service  
 
-( #has_/name :: has_logo )
-( #has_/range :: ImageObject, URL )
+(has_/name :: has_logo )
+(has_/range :: ImageObject, URL )
 
 #is_/sub_property_of  :: image  
 

@@ -36,8 +36,8 @@ Relation describes that:
 
 #has_/domain  :: WebAPI  
 
-( #has_/name :: has_documentation )
-( #has_/range :: CreativeWork, URL )
+(has_/name :: has_documentation )
+(has_/range :: CreativeWork, URL )
 
 
 ## Confidential Links & Embeds: 

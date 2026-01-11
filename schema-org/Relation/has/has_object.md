@@ -35,8 +35,8 @@ Relation describes that:
 
 #has_/domain  :: Action  
 
-( #has_/name :: has_object )
-( #has_/range :: Thing )
+(has_/name :: has_object )
+(has_/range :: Thing )
 
 (Links work only in read-mode)
 #has_/sub_properties :: [ [has_actionOption](../../Texts/has_action_option.md) , [has_candidate](has_candidate.md) , [is_in_collection](../is/is_in_collection.md), [is_followee_of](../is/is_followee_of.md), [has_option](../../Texts/has_option.md) , [has_question](has_question.md), [has_replacee](has_replacee.md), [replacer](has_replacer.md) , [has_targetCollection](has_target_collection.md) ] 

@@ -41,8 +41,8 @@ Relation describes that:
 
 #has_/domain  :: CreativeWork  
 
-( #has_/name :: is_sd_publisher )
-( #has_/range :: Organization, Person )
+(has_/name :: is_sd_publisher )
+(has_/range :: Organization, Person )
 
 
 ## Confidential Links & Embeds: 

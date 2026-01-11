@@ -36,8 +36,8 @@ Relation describes that:
 
 #has_/domain  :: PublicationEvent 
 
-( #has_/name :: is_published_on)
-( #has_/range :: BroadcastService)
+(has_/name :: is_published_on)
+(has_/range :: BroadcastService)
 
 
 ## Confidential Links & Embeds: 

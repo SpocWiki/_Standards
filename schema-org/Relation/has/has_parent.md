@@ -41,8 +41,8 @@ Relation describes that:
 
 #has_/domain  :: Person  
 
-( #has_/name :: has_parent )
-( #has_/range :: Person )
+(has_/name :: has_parent )
+(has_/range :: Person )
 
 #is_/sub_relation_of :: [[has_creator]] 
 #is_/inverse_of :: [[has_children]] 

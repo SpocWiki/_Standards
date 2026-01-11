@@ -36,8 +36,8 @@ Relation describes that:
 
 #has_/domain  :: Article  
 
-( #has_/name :: has_backstory )
-( #has_/range :: CreativeWork, Text )
+(has_/name :: has_backstory )
+(has_/range :: CreativeWork, Text )
 
 
 ## Confidential Links & Embeds: 

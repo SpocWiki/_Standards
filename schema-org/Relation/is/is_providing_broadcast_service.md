@@ -36,8 +36,8 @@ Relation describes that:
 
 #has_/domain  :: BroadcastChannel 
 
-( #has_/name :: is_providing_broadcast_service)
-( #has_/range :: BroadcastService)
+(has_/name :: is_providing_broadcast_service)
+(has_/range :: BroadcastService)
 
 #is_/inverse_of  :: hasBroadcastChannel 
 

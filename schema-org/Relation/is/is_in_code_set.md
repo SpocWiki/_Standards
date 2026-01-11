@@ -41,8 +41,8 @@ Relation describes that:
 
 #has_/domain  :: CategoryCode  
 
-( #has_/name :: is_in_code_set )
-( #has_/range :: CategoryCodeSet, URL )
+(has_/name :: is_in_code_set )
+(has_/range :: CategoryCodeSet, URL )
 
 #is_/sub_property_of  :: inDefinedTermSet  
 

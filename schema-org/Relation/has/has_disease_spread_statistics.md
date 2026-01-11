@@ -43,8 +43,8 @@ Relation describes that:
 
 #has_/domain  :: SpecialAnnouncement  
 
-( #has_/name :: has_disease_spread_statistics )
-( #has_/range :: Dataset, Observation, URL, WebContent )
+(has_/name :: has_disease_spread_statistics )
+(has_/range :: Dataset, Observation, URL, WebContent )
 
 
 ## Confidential Links & Embeds: 

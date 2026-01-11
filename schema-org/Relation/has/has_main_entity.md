@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: CreativeWork  
 
-( #has_/name :: has_main_entity )
-( #has_/range :: Thing )
+(has_/name :: has_main_entity )
+(has_/range :: Thing )
 
 #is_/inverse_of  :: [[../is/is_main_entity_of_page]]  
 

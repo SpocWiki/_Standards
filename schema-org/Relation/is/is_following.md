@@ -37,8 +37,8 @@ Relation describes that:
 
 #has_/domain  :: Person  
 
-( #has_/name :: is_following )
-( #has_/range :: Person )
+(has_/name :: is_following )
+(has_/range :: Person )
 
 
 ## Confidential Links & Embeds: 

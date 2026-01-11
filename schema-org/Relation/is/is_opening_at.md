@@ -37,8 +37,8 @@ Relation describes that:
 
 #has_/domain  :: OpeningHoursSpecification  
 
-( #has_/name :: is_opening_at )
-( #has_/range :: Time )
+(has_/name :: is_opening_at )
+(has_/range :: Time )
 
 
 ## Confidential Links & Embeds: 

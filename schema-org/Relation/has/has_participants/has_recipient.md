@@ -34,8 +34,8 @@ Relation describes that:
 
 #has_/domain  :: AuthorizeAction, CommunicateAction, DonateAction, GiveAction, Message, PayAction, ReturnAction, SendAction, TipAction  
 
-( #has_/name :: is_recipient )
-( #has_/range :: Audience, ContactPoint, Organization, Person )
+(has_/name :: is_recipient )
+(has_/range :: Audience, ContactPoint, Organization, Person )
 
 #is_/sub_property_of  :: participant  
 

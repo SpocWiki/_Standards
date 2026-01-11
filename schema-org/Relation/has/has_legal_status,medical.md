@@ -39,8 +39,8 @@ Relation describes that:
 
 #has_/domain  :: [[../../../Society/Agent/Community/Organization/Business/Product/Dietary_Supplement|DietarySupplement]], [[../../../bio/Medicine/Drug|Drug]], [[../../../bio/Medicine/Medical_Entity|MedicalEntity]]  
 
-( #has_/name :: has_legal_status )
-( #has_/range :: DrugLegalStatus, MedicalEnumeration, Text )
+(has_/name :: has_legal_status )
+(has_/range :: DrugLegalStatus, MedicalEnumeration, Text )
 
 
 ## Confidential Links & Embeds: 

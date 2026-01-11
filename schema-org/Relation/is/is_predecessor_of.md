@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: [[../../../Society/Agent/Community/Organization/Business/Product/Product_Model|ProductModel]]  
 
-( #has_/name :: is_predecessor_of )
-( #has_/range :: [[../../../Society/Agent/Community/Organization/Business/Product/Product_Model|ProductModel]] )
+(has_/name :: is_predecessor_of )
+(has_/range :: [[../../../Society/Agent/Community/Organization/Business/Product/Product_Model|ProductModel]] )
 
 #is_/similar_to :: [[../has/has_next_item]]  
 #is_/inverse_of :: [[../has/has_previous_item]]  

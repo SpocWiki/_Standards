@@ -42,8 +42,8 @@ Relation describes that:
 
 #has_/domain  :: NewsMediaOrganization  
 
-( #has_/name :: has_no_bylines_policy )
-( #has_/range :: CreativeWork, URL )
+(has_/name :: has_no_bylines_policy )
+(has_/range :: CreativeWork, URL )
 
 #is_/sub_property_of  :: publishingPrinciples  
 

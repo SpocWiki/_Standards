@@ -39,8 +39,8 @@ Relation describes that:
 
 #has_/domain  :: Order  
 
-( #has_/name :: is_part_of_invoice )
-( #has_/range :: Invoice )
+(has_/name :: is_part_of_invoice )
+(has_/range :: Invoice )
 
 
 ## Confidential Links & Embeds: 

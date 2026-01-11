@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: CreativeWork, EducationEvent, LearningResource  
 
-( #has_/name :: is_assessing )
-( #has_/range :: [[../../../Class/is_a_thing/intangible/defined_term]]], [[Text]] )
+(has_/name :: is_assessing )
+(has_/range :: [[../../../Class/is_a_thing/intangible/defined_term]]], [[Text]] )
 
 
 ## Confidential Links & Embeds: 

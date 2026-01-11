@@ -41,8 +41,8 @@ Relation describes that:
 
 #has_/domain  :: HealthPlanCostSharingSpecification  
 
-( #has_/name :: has_health_plan_copay )
-( #has_/range :: PriceSpecification )
+(has_/name :: has_health_plan_copay )
+(has_/range :: PriceSpecification )
 
 
 ## Confidential Links & Embeds: 

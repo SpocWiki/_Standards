@@ -35,8 +35,8 @@ Relation describes that:
 
 #has_/domain  :: FollowAction  
 
-( #has_/name :: is_followee_of )
-( #has_/range :: Organization, Person )
+(has_/name :: is_followee_of )
+(has_/range :: Organization, Person )
 
 #is_/sub_property_of  :: object  
 

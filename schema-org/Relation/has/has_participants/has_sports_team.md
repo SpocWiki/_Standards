@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: ExerciseAction  
 
-( #has_/name :: is_sports_team )
-( #has_/range :: SportsTeam )
+(has_/name :: is_sports_team )
+(has_/range :: SportsTeam )
 
 #is_/sub_property_of  :: participant  
 

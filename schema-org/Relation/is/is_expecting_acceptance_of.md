@@ -39,8 +39,8 @@ Relation describes that:
 
 #has_/domain  :: ActionAccessSpecification, ConsumeAction, MediaSubscription  
 
-( #has_/name :: is_expects_acceptance_of )
-( #has_/range :: Offer )
+(has_/name :: is_expects_acceptance_of )
+(has_/range :: Offer )
 
 
 ## Confidential Links & Embeds: 

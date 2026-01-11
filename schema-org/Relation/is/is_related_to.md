@@ -36,8 +36,8 @@ Relation describes that:
 
 #has_/domain  :: Product, Service 
 
-( #has_/name :: is_related_to)
-( #has_/range :: Product, Service)
+(has_/name :: is_related_to)
+(has_/range :: Product, Service)
 
 
 ## Confidential Links & Embeds: 

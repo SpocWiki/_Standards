@@ -34,8 +34,8 @@ Relation describes that:
 
 #has_/domain  :: Action  
 
-( #has_/name :: is_result )
-( #has_/range :: Thing )
+(has_/name :: is_result )
+(has_/range :: Thing )
 
 #has_/sub_properties :: [ resultComment, resultReview ]  
 

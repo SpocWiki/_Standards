@@ -80,8 +80,8 @@ Relation describes that:
 
 #has_/domain  :: [Thing](../../../Class/Thing.md)  
 
-( #has_/name :: is_main_entity_of_page )
-( #has_/range :: CreativeWork, URL )
+(has_/name :: is_main_entity_of_page )
+(has_/range :: CreativeWork, URL )
 
 #is_/inverse_of  :: [[has_main_entity]]  
 

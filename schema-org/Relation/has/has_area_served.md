@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: ContactPoint, DeliveryChargeSpecification, Demand, Offer, Organization, Service  
 
-( #has_/name :: has_area_served )
-( #has_/range :: AdministrativeArea, GeoShape, Place, Text )
+(has_/name :: has_area_served )
+(has_/range :: AdministrativeArea, GeoShape, Place, Text )
 
 #has_/sub_properties :: [ availableAtOrFrom, eligibleRegion ]  
 

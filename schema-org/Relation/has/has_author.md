@@ -37,8 +37,8 @@ Relation describes that:
 
 #has_/domain  :: CreativeWork, Rating, UserComments   
 
-( #has_/name :: has_author )
-( #has_/range :: Organization, Person )
+(has_/name :: has_author )
+(has_/range :: Organization, Person )
 
 #is_/sub_relation_of :: [[has_creator]] 
 

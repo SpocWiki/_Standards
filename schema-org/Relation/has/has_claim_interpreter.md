@@ -41,8 +41,8 @@ Relation describes that:
 
 #has_/domain  :: Claim  
 
-( #has_/name :: has_claim_interpreter )
-( #has_/range :: Organization, Person )
+(has_/name :: has_claim_interpreter )
+(has_/range :: Organization, Person )
 
 
 ## Confidential Links & Embeds: 

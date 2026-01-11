@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: ArchiveComponent 
 
-( #has_/name :: is_holding_archive)
-( #has_/range :: ArchiveOrganization)
+(has_/name :: is_holding_archive)
+(has_/range :: ArchiveOrganization)
 
 #is_/inverse_of  :: archiveHeld 
 

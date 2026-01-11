@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: Message  
 
-( #has_/name :: is_to_recipient )
-( #has_/range :: Audience, ContactPoint, Organization, Person )
+(has_/name :: is_to_recipient )
+(has_/range :: Audience, ContactPoint, Organization, Person )
 
 #is_/sub_property_of  :: recipient  
 

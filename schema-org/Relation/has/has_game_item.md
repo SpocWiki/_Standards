@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: Game, VideoGameSeries  
 
-( #has_/name :: has_game_item )
-( #has_/range :: Thing )
+(has_/name :: has_game_item )
+(has_/range :: Thing )
 
 
 ## Confidential Links & Embeds: 

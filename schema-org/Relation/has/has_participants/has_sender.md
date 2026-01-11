@@ -35,8 +35,8 @@ Relation describes that:
 
 #has_/domain  :: Message, ReceiveAction  
 
-( #has_/name :: is_sender )
-( #has_/range :: Audience, Organization, Person )
+(has_/name :: is_sender )
+(has_/range :: Audience, Organization, Person )
 
 #is_/sub_property_of  :: participant 
 

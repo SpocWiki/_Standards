@@ -42,8 +42,8 @@ Relation describes that:
 
 #has_/domain  :: BioChemEntity  
 
-( #has_/name :: is_bio_chem_interacting_with )
-( #has_/range :: BioChemEntity )
+(has_/name :: is_bio_chem_interacting_with )
+(has_/range :: BioChemEntity )
 
 
 ## Confidential Links & Embeds: 

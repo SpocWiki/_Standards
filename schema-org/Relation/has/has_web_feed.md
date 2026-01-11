@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: PodcastSeries, SpecialAnnouncement  
 
-( #has_/name :: is_web_feed )
-( #has_/range :: DataFeed, URL )
+(has_/name :: is_web_feed )
+(has_/range :: DataFeed, URL )
 
 
 ## Confidential Links & Embeds: 

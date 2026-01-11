@@ -42,8 +42,8 @@ Relation describes that:
 
 #has_/domain  :: CreativeWork  
 
-( #has_/name :: has_parts )
-( #has_/range :: [[../../Society/Communication/Media/Creative_Work|CreativeWork]] )
+(has_/name :: has_parts )
+(has_/range :: [[../../Society/Communication/Media/Creative_Work|CreativeWork]] )
 
 #is_/inverse_of  :: [[is_part_of|is_part_of]]   
 

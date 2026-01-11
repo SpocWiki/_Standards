@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: BorrowAction  
 
-( #has_/name :: has_lender )
-( #has_/range :: Organization, Person )
+(has_/name :: has_lender )
+(has_/range :: Organization, Person )
 
 #is_/sub_property_of  :: participant  
 

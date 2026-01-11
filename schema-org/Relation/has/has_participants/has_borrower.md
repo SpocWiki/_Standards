@@ -39,8 +39,8 @@ Relation describes that:
 
 #has_/domain  :: LendAction  
 
-( #has_/name :: has_borrower )
-( #has_/range :: Person )
+(has_/name :: has_borrower )
+(has_/range :: Person )
 
 #is_/sub_property_of  :: participant  
 

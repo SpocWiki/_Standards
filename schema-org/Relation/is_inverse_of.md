@@ -65,8 +65,8 @@ Relation describes that:
 
 #has_/domain  :: [[Property]] 
 
-( #has_/name :: is_inverse_of)
-( #has_/range :: [[Property]])
+(has_/name :: is_inverse_of)
+(has_/range :: [[Property]])
 
 Alternatively often a `has_inverse` Syntax comes to mind, 
 but that would be redundant (since the Relation is symmetric), 

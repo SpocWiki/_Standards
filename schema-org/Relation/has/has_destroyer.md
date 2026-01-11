@@ -34,8 +34,8 @@ Relation describes that:
 
 #has_/domain  :: CreativeWork, UserComments  
 
-( #has_/name :: has_destroyer )
-( #has_/range :: Organization, Person )
+(has_/name :: has_destroyer )
+(has_/range :: Organization, Person )
 
 #has_/sub_properties :: [ [[../is/is_legislation_passed_by|is_legislation_passed_by]] , [[has_founder]] ]  
 

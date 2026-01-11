@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: MusicRecording  
 
-( #has_/name :: is_recording_of )
-( #has_/range :: MusicComposition )
+(has_/name :: is_recording_of )
+(has_/range :: MusicComposition )
 
 #is_/inverse_of  :: recordedAs  
 

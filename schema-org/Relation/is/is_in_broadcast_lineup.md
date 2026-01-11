@@ -39,8 +39,8 @@ Relation describes that:
 
 #has_/domain  :: BroadcastChannel  
 
-( #has_/name :: is_in_broadcast_lineup )
-( #has_/range :: CableOrSatelliteService )
+(has_/name :: is_in_broadcast_lineup )
+(has_/range :: CableOrSatelliteService )
 
 
 ## Confidential Links & Embeds: 

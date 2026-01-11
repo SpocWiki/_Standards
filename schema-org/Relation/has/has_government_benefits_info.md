@@ -41,8 +41,8 @@ Relation describes that:
 
 #has_/domain  :: SpecialAnnouncement  
 
-( #has_/name :: has_government_benefits_info )
-( #has_/range :: GovernmentService )
+(has_/name :: has_government_benefits_info )
+(has_/range :: GovernmentService )
 
 
 ## Confidential Links & Embeds: 

@@ -36,8 +36,8 @@ Relation describes that:
 
 #has_/domain  :: MusicAlbum  
 
-( #has_/name :: has_album_release )
-( #has_/range :: MusicRelease )
+(has_/name :: has_album_release )
+(has_/range :: MusicRelease )
 
 #is_/inverse_of  :: releaseOf  
 

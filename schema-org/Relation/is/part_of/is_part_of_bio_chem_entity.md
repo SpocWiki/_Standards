@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: [[bio_chem_entity]]  
 
-( #has_/name :: is_part_of_bio_chem_entity)
-( #has_/range :: [[bio_chem_entity]] )
+(has_/name :: is_part_of_bio_chem_entity)
+(has_/range :: [[bio_chem_entity]] )
 
 #is_/inverse_of  :: [[../../has/has_bio_chem_entity_part]] 
 

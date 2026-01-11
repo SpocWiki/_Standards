@@ -34,8 +34,8 @@ Relation describes that:
 
 #has_/domain  :: ExerciseAction  
 
-( #has_/name :: has_opponent )
-( #has_/range :: Person )
+(has_/name :: has_opponent )
+(has_/range :: Person )
 
 #is_/sub_property_of  :: participant  
 

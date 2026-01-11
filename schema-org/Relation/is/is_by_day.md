@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: Schedule  
 
-( #has_/name :: is_by_day )
-( #has_/range :: DayOfWeek, Text )
+(has_/name :: is_by_day )
+(has_/range :: DayOfWeek, Text )
 
 
 ## Confidential Links & Embeds: 

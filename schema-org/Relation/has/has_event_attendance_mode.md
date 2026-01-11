@@ -41,8 +41,8 @@ Relation describes that:
 
 #has_/domain  :: Event  
 
-( #has_/name :: has_event_attendance_mode )
-( #has_/range :: EventAttendanceModeEnumeration )
+(has_/name :: has_event_attendance_mode )
+(has_/range :: EventAttendanceModeEnumeration )
 
 
 ## Confidential Links & Embeds: 

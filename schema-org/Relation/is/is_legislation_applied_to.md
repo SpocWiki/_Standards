@@ -48,8 +48,8 @@ Relation describes that:
 
 #has_/domain  :: Legislation  
 
-( #has_/name :: is_legislation_applied_to )
-( #has_/range :: Legislation )
+(has_/name :: is_legislation_applied_to )
+(has_/range :: Legislation )
 
 #has_/sub_properties :: [ legislationTransposes ]  
 

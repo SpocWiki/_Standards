@@ -41,8 +41,8 @@ Relation describes that:
 
 #has_/domain  :: EducationalOccupationalProgram  
 
-( #has_/name :: has_financial_aid_eligible )
-( #has_/range :: DefinedTerm, Text )
+(has_/name :: has_financial_aid_eligible )
+(has_/range :: DefinedTerm, Text )
 
 
 ## Confidential Links & Embeds: 

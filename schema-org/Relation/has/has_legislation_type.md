@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: Legislation  
 
-( #has_/name :: has_legislation_type )
-( #has_/range :: CategoryCode, Text )
+(has_/name :: has_legislation_type )
+(has_/range :: CategoryCode, Text )
 
 #is_/sub_property_of  :: genre  
 

@@ -39,8 +39,8 @@ Relation describes that:
 
 #has_/domain  :: ParcelDelivery  
 
-( #has_/name :: is_part_of_order )
-( #has_/range :: Order )
+(has_/name :: is_part_of_order )
+(has_/range :: Order )
 
 
 ## Confidential Links & Embeds: 

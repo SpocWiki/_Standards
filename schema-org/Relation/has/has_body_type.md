@@ -39,8 +39,8 @@ Indicates the design and body style of the vehicle (e.g. station wagon, hatchbac
 Relation describes that: 
 
 #has_/domain  :: [[../../../Technology/Transport/Vehicle|Vehicle]]  
-( #has_/name :: has_body_type )
-( #has_/range :: QualitativeValue, Text, URL )
+(has_/name :: has_body_type )
+(has_/range :: QualitativeValue, Text, URL )
 
 
 ## Confidential Links & Embeds: 

@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: CreativeWork  
 
-( #has_/name :: is_sd_license )
-( #has_/range :: CreativeWork, URL )
+(has_/name :: is_sd_license )
+(has_/range :: CreativeWork, URL )
 
 
 ## Confidential Links & Embeds: 

@@ -39,8 +39,8 @@ Relation describes that:
 
 #has_/domain  :: Event  
 
-( #has_/name :: is_work_featured )
-( #has_/range :: CreativeWork )
+(has_/name :: is_work_featured )
+(has_/range :: CreativeWork )
 
 #has_/sub_properties :: [ workPerformed, workPresented ]  
 

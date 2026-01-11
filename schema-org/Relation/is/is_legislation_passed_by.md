@@ -41,8 +41,8 @@ Relation describes that:
 
 #has_/domain  :: Legislation  
 
-( #has_/name :: is_legislation_passed_by )
-( #has_/range :: Organization, Person )
+(has_/name :: is_legislation_passed_by )
+(has_/range :: Organization, Person )
 
 #is_/sub_property_of  :: [[has_creator]]  
 

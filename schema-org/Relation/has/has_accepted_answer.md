@@ -44,8 +44,8 @@ Relation describes that:
 
 #has_/domain  :: Question  
 
-( #has_/name :: has_accepted_answer )
-( #has_/range :: Answer, ItemList )
+(has_/name :: has_accepted_answer )
+(has_/range :: Answer, ItemList )
 
 #is_/sub_property_of  :: [[has_suggested_answer]]  
 

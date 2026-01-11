@@ -83,8 +83,8 @@ to the actual Class Definition harder.
 
 #has_/domain  :: [[Thing]] 
 
-( #has_/name :: is_instance_of)
-( #has_/range :: Class)
+(has_/name :: is_instance_of)
+(has_/range :: Class)
 
 
 ## Confidential Links & Embeds: 

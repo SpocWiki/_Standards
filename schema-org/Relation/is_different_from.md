@@ -44,8 +44,8 @@ Relation describes that:
 
 #has_/domain  :: Product, Service 
 
-( #has_/name :: is_different_from)
-( #has_/range :: Product, Service)
+(has_/name :: is_different_from)
+(has_/range :: Product, Service)
 
 
 ## Confidential Links & Embeds: 

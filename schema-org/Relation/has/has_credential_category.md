@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: EducationalOccupationalCredential  
 
-( #has_/name :: has_credential_category )
-( #has_/range :: DefinedTerm, Text, URL )
+(has_/name :: has_credential_category )
+(has_/range :: DefinedTerm, Text, URL )
 
 
 ## Confidential Links & Embeds: 

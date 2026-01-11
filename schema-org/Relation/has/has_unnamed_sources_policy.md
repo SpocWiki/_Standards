@@ -41,8 +41,8 @@ Relation describes that:
 
 #has_/domain  :: NewsMediaOrganization, Organization  
 
-( #has_/name :: is_unnamed_sources_policy )
-( #has_/range :: CreativeWork, URL )
+(has_/name :: is_unnamed_sources_policy )
+(has_/range :: CreativeWork, URL )
 
 #is_/sub_property_of  :: publishingPrinciples  
 

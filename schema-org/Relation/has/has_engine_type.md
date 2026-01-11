@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: EngineSpecification  
 
-( #has_/name :: has_engine_type )
-( #has_/range :: QualitativeValue, Text, URL )
+(has_/name :: has_engine_type )
+(has_/range :: QualitativeValue, Text, URL )
 
 
 ## Confidential Links & Embeds: 

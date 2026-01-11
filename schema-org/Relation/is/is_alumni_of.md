@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: Person  
 
-( #has_/name :: is_alumni_of )
-( #has_/range :: EducationalOrganization, Organization )
+(has_/name :: is_alumni_of )
+(has_/range :: EducationalOrganization, Organization )
 
 #is_/inverse_of  :: [[has_alumni]]  
 

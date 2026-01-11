@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: TouristDestination 
 
-( #has_/name :: is_including_attraction)
-( #has_/range :: TouristAttraction)
+(has_/name :: is_including_attraction)
+(has_/range :: TouristAttraction)
 
 
 ## Confidential Links & Embeds: 

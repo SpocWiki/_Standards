@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: HealthTopicContent  
 
-( #has_/name :: has_health_aspect )
-( #has_/range :: HealthAspectEnumeration )
+(has_/name :: has_health_aspect )
+(has_/range :: HealthAspectEnumeration )
 
 
 ## Confidential Links & Embeds: 

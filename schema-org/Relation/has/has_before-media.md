@@ -42,8 +42,8 @@ Relation describes that:
 
 #has_/domain  :: HowToDirection  
 
-( #has_/name :: has_before_media )
-( #has_/range :: MediaObject, URL )
+(has_/name :: has_before_media )
+(has_/range :: MediaObject, URL )
 
 
 ## Confidential Links & Embeds: 

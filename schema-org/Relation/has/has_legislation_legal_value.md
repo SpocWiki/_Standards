@@ -43,8 +43,8 @@ Relation describes that:
 
 #has_/domain  :: LegislationObject  
 
-( #has_/name :: has_legislation_legal_value )
-( #has_/range :: LegalValueLevel )
+(has_/name :: has_legislation_legal_value )
+(has_/range :: LegalValueLevel )
 
 
 ## Confidential Links & Embeds: 

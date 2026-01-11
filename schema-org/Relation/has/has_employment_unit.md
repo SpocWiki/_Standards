@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: JobPosting  
 
-( #has_/name :: has_employment_unit )
-( #has_/range :: Organization )
+(has_/name :: has_employment_unit )
+(has_/range :: Organization )
 
 
 ## Confidential Links & Embeds: 

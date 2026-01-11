@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: Answer  
 
-( #has_/name :: has_answer_explanation )
-( #has_/range :: Comment, WebContent )
+(has_/name :: has_answer_explanation )
+(has_/range :: Comment, WebContent )
 
 
 ## Confidential Links & Embeds: 

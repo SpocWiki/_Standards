@@ -34,8 +34,8 @@ Relation describes that:
 
 #has_/domain  :: AskAction  
 
-( #has_/name :: is_question )
-( #has_/range :: Question )
+(has_/name :: is_question )
+(has_/range :: Question )
 
 #is_/sub_property_of  :: object  
 

@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: ContactPoint, LodgingBusiness, ServiceChannel, TouristAttraction  
 
-( #has_/name :: is_available_in_language )
-( #has_/range :: [[../../../Class/is_a_thing/intangible/language]], Text )
+(has_/name :: is_available_in_language )
+(has_/range :: [[../../../Class/is_a_thing/intangible/language]], Text )
 
 
 ## Confidential Links & Embeds: 

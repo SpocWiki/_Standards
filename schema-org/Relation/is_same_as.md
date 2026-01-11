@@ -52,8 +52,8 @@ Predicate describes that:
 
 #has_/domain  :: [[../Class/Thing|Thing]]  
 
-( #has_/name :: has_url_for_same_as )
-( #has_/range :: [[../Class/is_a_/data_type/text/URL]] )
+(has_/name :: has_url_for_same_as )
+(has_/range :: [[../Class/is_a_/data_type/text/URL]] )
 
 
 ## Confidential Links & Embeds: 

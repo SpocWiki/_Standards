@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: BioChemEntity 
 
-( #has_/name :: is_involved_in_biological_process)
-( #has_/range :: DefinedTerm, PropertyValue, URL)
+(has_/name :: is_involved_in_biological_process)
+(has_/range :: DefinedTerm, PropertyValue, URL)
 
 
 ## Confidential Links & Embeds: 

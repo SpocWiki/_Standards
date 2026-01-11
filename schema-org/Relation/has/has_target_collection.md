@@ -41,8 +41,8 @@ Relation describes that:
 
 #has_/domain  :: UpdateAction  
 
-( #has_/name :: has_target_collection )
-( #has_/range :: Thing )
+(has_/name :: has_target_collection )
+(has_/range :: Thing )
 
 #is_/sub_property_of  :: object  
 

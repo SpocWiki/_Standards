@@ -42,8 +42,8 @@ Relation describes that:
 
 #has_/domain  :: Product  
 
-( #has_/name :: has_energy_consumption_details )
-( #has_/range :: EnergyConsumptionDetails )
+(has_/name :: has_energy_consumption_details )
+(has_/range :: EnergyConsumptionDetails )
 
 
 ## Confidential Links & Embeds: 

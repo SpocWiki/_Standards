@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: HyperTocEntry  
 
-( #has_/name :: is_toc_continuation )
-( #has_/range :: HyperTocEntry )
+(has_/name :: is_toc_continuation )
+(has_/range :: HyperTocEntry )
 
 
 ## Confidential Links & Embeds: 

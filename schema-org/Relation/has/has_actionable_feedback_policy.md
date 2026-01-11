@@ -42,8 +42,8 @@ Relation describes that:
 
 #has_/domain  :: NewsMediaOrganization, Organization  
 
-( #has_/name :: has_actionable_feedback_policy )
-( #has_/range :: CreativeWork, URL )
+(has_/name :: has_actionable_feedback_policy )
+(has_/range :: CreativeWork, URL )
 
 #is_/sub_property_of  :: publishingPrinciples  
 

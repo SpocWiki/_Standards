@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: EducationalOccupationalProgram  
 
-( #has_/name :: has_course )
-( #has_/range :: Course )
+(has_/name :: has_course )
+(has_/range :: Course )
 
 
 ## Confidential Links & Embeds: 

@@ -41,8 +41,8 @@ Relation describes that:
 
 #has_/domain  :: UnitPriceSpecification  
 
-( #has_/name :: is_price_component_type )
-( #has_/range :: PriceComponentTypeEnumeration )
+(has_/name :: is_price_component_type )
+(has_/range :: PriceComponentTypeEnumeration )
 
 
 ## Confidential Links & Embeds: 

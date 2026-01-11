@@ -41,8 +41,8 @@ Relation describes that:
 
 #has_/domain  :: LoanOrCredit  
 
-( #has_/name :: has_loan_repayment_form )
-( #has_/range :: RepaymentSpecification )
+(has_/name :: has_loan_repayment_form )
+(has_/range :: RepaymentSpecification )
 
 
 ## Confidential Links & Embeds: 

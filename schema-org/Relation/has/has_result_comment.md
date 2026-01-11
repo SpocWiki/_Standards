@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: CommentAction, ReplyAction  
 
-( #has_/name :: is_result_comment )
-( #has_/range :: Comment )
+(has_/name :: is_result_comment )
+(has_/range :: Comment )
 
 #is_/sub_property_of  :: result  
 

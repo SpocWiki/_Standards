@@ -34,8 +34,8 @@ Relation describes that:
 
 #has_/domain  :: AudioObject, ImageObject, VideoObject  
 
-( #has_/name :: has_caption )
-( #has_/range :: MediaObject, Text )
+(has_/name :: has_caption )
+(has_/range :: MediaObject, Text )
 
 #has_/sub_properties :: [ embeddedTextCaption ]  
 

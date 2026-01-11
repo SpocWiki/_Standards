@@ -34,8 +34,8 @@ Relation describes that:
 
 #has_/domain  :: ExerciseAction  
 
-( #has_/name :: has_diet )
-( #has_/range :: Diet )
+(has_/name :: has_diet )
+(has_/range :: Diet )
 
 #is_/sub_property_of  :: instrument  
 

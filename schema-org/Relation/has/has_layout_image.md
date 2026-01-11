@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: FloorPlan  
 
-( #has_/name :: has_layout_image )
-( #has_/range :: ImageObject, URL )
+(has_/name :: has_layout_image )
+(has_/range :: ImageObject, URL )
 
 #is_/sub_property_of  :: image  
 

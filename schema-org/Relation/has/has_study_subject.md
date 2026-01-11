@@ -42,8 +42,8 @@ Relation describes that:
 
 #has_/domain  :: MedicalStudy  
 
-( #has_/name :: is_study_subject )
-( #has_/range :: MedicalEntity )
+(has_/name :: is_study_subject )
+(has_/range :: MedicalEntity )
 
 
 ## Confidential Links & Embeds: 

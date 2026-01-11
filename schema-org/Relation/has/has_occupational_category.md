@@ -44,8 +44,8 @@ Relation describes that:
 
 #has_/domain  :: EducationalOccupationalProgram, JobPosting, Occupation, WorkBasedProgram  
 
-( #has_/name :: has_occupational_category )
-( #has_/range :: CategoryCode, Text )
+(has_/name :: has_occupational_category )
+(has_/range :: CategoryCode, Text )
 
 
 ## Confidential Links & Embeds: 

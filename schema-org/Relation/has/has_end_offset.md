@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: Clip  
 
-( #has_/name :: has_end_offset )
-( #has_/range :: HyperTocEntry, Number )
+(has_/name :: has_end_offset )
+(has_/range :: HyperTocEntry, Number )
 
 
 ## Confidential Links & Embeds: 

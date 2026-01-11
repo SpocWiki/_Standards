@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: DataFeedItem, ListItem  
 
-( #has_/name :: has_items )
-( #has_/range :: Thing )
+(has_/name :: has_items )
+(has_/range :: Thing )
 
 
 ## Confidential Links & Embeds: 

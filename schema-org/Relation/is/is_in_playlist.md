@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: MusicRecording  
 
-( #has_/name :: is_in_playlist )
-( #has_/range :: MusicPlaylist )
+(has_/name :: is_in_playlist )
+(has_/range :: MusicPlaylist )
 
 
 ## Confidential Links & Embeds: 

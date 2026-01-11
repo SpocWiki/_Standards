@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: Trip  
 
-( #has_/name :: is_sub_trip )
-( #has_/range :: Trip )
+(has_/name :: is_sub_trip )
+(has_/range :: Trip )
 
 #is_/inverse_of  :: partOfTrip  
 

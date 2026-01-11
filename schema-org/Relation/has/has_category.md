@@ -48,8 +48,8 @@ Relation describes that:
 
 #has_/domain  :: ActionAccessSpecification, Invoice, Offer, PhysicalActivity, Product, Recommendation, Service, SpecialAnnouncement  
 
-( #has_/name :: has_category )
-( #has_/range :: CategoryCode, PhysicalActivityCategory, Text, Thing, URL )
+(has_/name :: has_category )
+(has_/range :: CategoryCode, PhysicalActivityCategory, Text, Thing, URL )
 
 #has_/sub_properties :: [ accommodationCategory ]  
 

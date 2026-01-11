@@ -17,8 +17,8 @@ Relation describes that:
 
 #has_/domain  :: [Quantity](../Property.md) 
 
-( #has_/name :: is_sub_property_of)
-( #has_/range :: [Quantity](../Property.md))
+(has_/name :: is_sub_property_of)
+(has_/range :: [Quantity](../Property.md))
 
 
 ## Confidential Links & Embeds: 

@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: Legislation  
 
-( #has_/name :: is_legislation_jurisdiction_of )
-( #has_/range :: AdministrativeArea, Text )
+(has_/name :: is_legislation_jurisdiction_of )
+(has_/range :: AdministrativeArea, Text )
 
 #is_/sub_property_of  :: jurisdiction, spatialCoverage  
 

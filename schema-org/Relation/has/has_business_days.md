@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: ShippingDeliveryTime  
 
-( #has_/name :: has_business_days )
-( #has_/range :: OpeningHoursSpecification )
+(has_/name :: has_business_days )
+(has_/range :: OpeningHoursSpecification )
 
 
 ## Confidential Links & Embeds: 

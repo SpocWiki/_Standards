@@ -20,8 +20,8 @@ Relation describes that:
 
 #has_/domain  :: [Relation](../../Relation.md) 
 
-( #has_/name :: is_subclass_of)
-( #has_/range :: [Relation](../../Relation.md))
+(has_/name :: is_subclass_of)
+(has_/range :: [Relation](../../Relation.md))
 
 
 ## Confidential Links & Embeds: 

@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: JobPosting  
 
-( #has_/name :: is_sensory_requirement )
-( #has_/range :: DefinedTerm, Text, URL )
+(has_/name :: is_sensory_requirement )
+(has_/range :: DefinedTerm, Text, URL )
 
 
 ## Confidential Links & Embeds: 

@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: CreativeWork, EducationEvent, EducationalOccupationalCredential, LearningResource  
 
-( #has_/name :: has_educational_level )
-( #has_/range :: DefinedTerm, Text, URL )
+(has_/name :: has_educational_level )
+(has_/range :: DefinedTerm, Text, URL )
 
 
 ## Confidential Links & Embeds: 

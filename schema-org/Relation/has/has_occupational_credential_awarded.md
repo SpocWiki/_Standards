@@ -41,8 +41,8 @@ Relation describes that:
 
 #has_/domain  :: Course, EducationalOccupationalProgram  
 
-( #has_/name :: has_occupational_credential_awarded )
-( #has_/range :: EducationalOccupationalCredential, Text, URL )
+(has_/name :: has_occupational_credential_awarded )
+(has_/range :: EducationalOccupationalCredential, Text, URL )
 
 
 ## Confidential Links & Embeds: 

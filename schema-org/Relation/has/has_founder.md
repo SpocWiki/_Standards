@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: Organization  
 
-( #has_/name :: has_founder )
-( #has_/range :: Person )
+(has_/name :: has_founder )
+(has_/range :: Person )
 
 
 ## Confidential Links & Embeds: 

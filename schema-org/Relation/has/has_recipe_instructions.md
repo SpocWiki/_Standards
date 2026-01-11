@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: Recipe  
 
-( #has_/name :: is_recipe_instructions )
-( #has_/range :: CreativeWork, ItemList, Text )
+(has_/name :: is_recipe_instructions )
+(has_/range :: CreativeWork, ItemList, Text )
 
 #is_/sub_property_of  :: step  
 

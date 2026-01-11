@@ -36,8 +36,8 @@ Relation describes that:
 
 #has_/domain  :: SportsEvent  
 
-( #has_/name :: has_away_team )
-( #has_/range :: Person, SportsTeam )
+(has_/name :: has_away_team )
+(has_/range :: Person, SportsTeam )
 
 #is_/sub_property_of  :: competitor  
 

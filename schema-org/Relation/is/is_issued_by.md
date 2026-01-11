@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: Permit, Ticket  
 
-( #has_/name :: is_issued_by )
-( #has_/range :: Organization )
+(has_/name :: is_issued_by )
+(has_/range :: Organization )
 
 
 ## Confidential Links & Embeds: 

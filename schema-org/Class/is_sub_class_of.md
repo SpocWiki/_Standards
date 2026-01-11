@@ -50,8 +50,8 @@ Use it like this:
 
 #has_/domain  :: [Class](../../Classes.md) 
 
-( #has_/name :: [is_subclass_of](is_sub_class_of.md))
-( #has_/range :: [Class](../../Classes.md))
+(has_/name :: [is_subclass_of](is_sub_class_of.md))
+(has_/range :: [Class](../../Classes.md))
 
 ### Definitions
 

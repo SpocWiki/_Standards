@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: Person  
 
-( #has_/name :: is_affiliated_with )
-( #has_/range :: Organization )
+(has_/name :: is_affiliated_with )
+(has_/range :: Organization )
 
 #is_/sub_property_of  :: memberOf  
 

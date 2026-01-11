@@ -36,8 +36,8 @@ Relation describes that:
 
 #has_/domain  :: Trip  
 
-( #has_/name :: has_itinerary )
-( #has_/range :: ItemList, Place )
+(has_/name :: has_itinerary )
+(has_/range :: ItemList, Place )
 
 
 ## Confidential Links & Embeds: 

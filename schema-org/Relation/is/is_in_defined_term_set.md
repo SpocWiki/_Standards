@@ -42,8 +42,8 @@ Relation describes that:
 
 #has_/domain  :: DefinedTerm  
 
-( #has_/name :: is_in_defined_term_set )
-( #has_/range :: DefinedTermSet, URL )
+(has_/name :: is_in_defined_term_set )
+(has_/range :: DefinedTermSet, URL )
 
 #is_/sub_property_of  :: [[../../../Composite/is_part_of]]  
 

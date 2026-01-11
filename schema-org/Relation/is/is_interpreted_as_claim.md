@@ -41,8 +41,8 @@ Relation describes that:
 
 #has_/domain  :: CreativeWork, MediaObject  
 
-( #has_/name :: is_interpreted_as_claim )
-( #has_/range :: Claim )
+(has_/name :: is_interpreted_as_claim )
+(has_/range :: Claim )
 
 #is_/sub_property_of  :: description  
 

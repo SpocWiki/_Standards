@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: Vein  
 
-( #has_/name :: is_draining_to )
-( #has_/range :: Vessel )
+(has_/name :: is_draining_to )
+(has_/range :: Vessel )
 
 
 ## Confidential Links & Embeds: 

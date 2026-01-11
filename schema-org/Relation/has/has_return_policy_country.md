@@ -41,8 +41,8 @@ Relation describes that:
 
 #has_/domain  :: MerchantReturnPolicy  
 
-( #has_/name :: is_return_policy_country )
-( #has_/range :: Country, Text )
+(has_/name :: is_return_policy_country )
+(has_/range :: Country, Text )
 
 
 ## Confidential Links & Embeds: 

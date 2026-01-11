@@ -34,8 +34,8 @@ Relation describes that:
 
 #has_/domain  :: ReplaceAction  
 
-( #has_/name :: is_replacer )
-( #has_/range :: Thing )
+(has_/name :: is_replacer )
+(has_/range :: Thing )
 
 #is_/sub_property_of  :: object  
 

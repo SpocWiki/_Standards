@@ -53,8 +53,8 @@ Relation describes that:
 
 #has_/domain  :: CreativeWork  
 
-( #has_/name :: is_usage_info )
-( #has_/range :: CreativeWork, URL )
+(has_/name :: is_usage_info )
+(has_/range :: CreativeWork, URL )
 
 #has_/sub_properties :: [ acquireLicensePage ]  
 

@@ -45,8 +45,8 @@ Specifies a [[../../Class/is_a_/Intangible/merchant_return_policy|MerchantReturn
 
 #has_/domain  :: [ [[../../../Society/Agent/Community/Organization/Business/Offer|Offer]], [[../../../Society/Agent/Community/Organization|Organization]], [[../../../Society/Agent/Community/Organization/Business/Product|Product]] ]  
 
-( #has_/name :: has_merchant_return_policy )
-( #has_/range :: [[../../Class/is_a_/Intangible/merchant_return_policy|MerchantReturnPolicy]] )
+(has_/name :: has_merchant_return_policy )
+(has_/range :: [[../../Class/is_a_/Intangible/merchant_return_policy|MerchantReturnPolicy]] )
 
 
 ## Confidential Links & Embeds: 

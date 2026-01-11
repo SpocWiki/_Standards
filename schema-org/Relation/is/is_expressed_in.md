@@ -41,8 +41,8 @@ Relation describes that:
 
 #has_/domain  :: Gene  
 
-( #has_/name :: is_expressed_in )
-( #has_/range :: AnatomicalStructure, AnatomicalSystem, BioChemEntity, DefinedTerm )
+(has_/name :: is_expressed_in )
+(has_/range :: AnatomicalStructure, AnatomicalSystem, BioChemEntity, DefinedTerm )
 
 
 ## Confidential Links & Embeds: 

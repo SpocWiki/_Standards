@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: ChemicalSubstance, MolecularEntity  
 
-( #has_/name :: has_role_chemical )
-( #has_/range :: DefinedTerm )
+(has_/name :: has_role_chemical )
+(has_/range :: DefinedTerm )
 
 
 ## Confidential Links & Embeds: 

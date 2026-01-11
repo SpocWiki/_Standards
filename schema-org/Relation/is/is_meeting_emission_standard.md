@@ -42,8 +42,8 @@ Indicates which emission standard the vehicle meets.
 Relation describes that: 
 
 #has_/domain  :: [[../../../Technology/Transport/Vehicle|Vehicle]]   
-( #has_/name :: is_meeting_standard_for_emission )
-( #has_/range :: QualitativeValue, Text, URL )
+(has_/name :: is_meeting_standard_for_emission )
+(has_/range :: QualitativeValue, Text, URL )
 
 
 ## Confidential Links & Embeds: 

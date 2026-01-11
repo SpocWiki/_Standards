@@ -36,8 +36,8 @@ Relation describes that:
 
 #has_/domain  :: MedicalRiskFactor 
 
-( #has_/name :: is_increasing_risk_of)
-( #has_/range :: MedicalEntity)
+(has_/name :: is_increasing_risk_of)
+(has_/range :: MedicalEntity)
 
 
 ## Confidential Links & Embeds: 

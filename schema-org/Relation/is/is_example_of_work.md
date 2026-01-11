@@ -43,8 +43,8 @@ Relation describes that:
 
 #has_/domain  :: CreativeWork  
 
-( #has_/name :: is_example_of_work )
-( #has_/range :: CreativeWork )
+(has_/name :: is_example_of_work )
+(has_/range :: CreativeWork )
 
 #is_/inverse_of  :: workExample  
 

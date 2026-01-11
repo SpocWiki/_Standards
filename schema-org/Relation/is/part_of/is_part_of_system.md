@@ -39,8 +39,8 @@ Relation describes that:
 
 #has_/domain  :: AnatomicalStructure  
 
-( #has_/name :: is_part_of_system )
-( #has_/range :: AnatomicalSystem )
+(has_/name :: is_part_of_system )
+(has_/range :: AnatomicalSystem )
 
 
 ## Confidential Links & Embeds: 

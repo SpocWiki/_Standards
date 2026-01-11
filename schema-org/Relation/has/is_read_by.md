@@ -41,8 +41,8 @@ Relation describes that:
 
 #has_/domain  :: Audiobook  
 
-( #has_/name :: is_read_by )
-( #has_/range :: Person )
+(has_/name :: is_read_by )
+(has_/range :: Person )
 
 #is_/sub_property_of  :: actor  
 

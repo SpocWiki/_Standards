@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: DrugCost, DrugLegalStatus  
 
-( #has_/name :: is_applicable_in_location )
-( #has_/range :: AdministrativeArea )
+(has_/name :: is_applicable_in_location )
+(has_/range :: AdministrativeArea )
 
 
 ## Confidential Links & Embeds: 

@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: DeliveryTimeSettings, OfferShippingDetails, ShippingRateSettings  
 
-( #has_/name :: is_shipping_destination )
-( #has_/range :: DefinedRegion )
+(has_/name :: is_shipping_destination )
+(has_/range :: DefinedRegion )
 
 
 ## Confidential Links & Embeds: 

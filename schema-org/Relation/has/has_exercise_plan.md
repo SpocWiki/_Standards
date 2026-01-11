@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: ExerciseAction  
 
-( #has_/name :: has_exercise_plan )
-( #has_/range :: ExercisePlan )
+(has_/name :: has_exercise_plan )
+(has_/range :: ExercisePlan )
 
 #is_/sub_property_of  :: instrument  
 

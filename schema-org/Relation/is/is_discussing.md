@@ -35,8 +35,8 @@ Relation describes that:
 
 #has_/domain  :: UserComments  
 
-( #has_/name :: is_discussing )
-( #has_/range :: CreativeWork )
+(has_/name :: is_discussing )
+(has_/range :: CreativeWork )
 
 
 ## Confidential Links & Embeds: 

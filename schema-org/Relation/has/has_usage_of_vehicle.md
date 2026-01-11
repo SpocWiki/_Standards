@@ -48,8 +48,8 @@ The legislation in many countries requires this information to be revealed when 
 Relation describes that: 
 
 #has_/domain  :: [[../../../Technology/Transport/Vehicle|Vehicle]]  
-( #has_/name :: has_usage_of_vehicle )
-( #has_/range :: CarUsageType, Text )
+(has_/name :: has_usage_of_vehicle )
+(has_/range :: CarUsageType, Text )
 
 
 ## Confidential Links & Embeds: 

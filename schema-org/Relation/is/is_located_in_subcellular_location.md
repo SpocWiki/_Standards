@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: BioChemEntity 
 
-( #has_/name :: is_located_in_subcellular_location)
-( #has_/range :: DefinedTerm, PropertyValue, URL)
+(has_/name :: is_located_in_subcellular_location)
+(has_/range :: DefinedTerm, PropertyValue, URL)
 
 
 ## Confidential Links & Embeds: 

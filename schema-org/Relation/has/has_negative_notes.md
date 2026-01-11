@@ -57,8 +57,8 @@ Relation describes that:
 
 #has_/domain  :: Product, Review  
 
-( #has_/name :: has_negative_notes )
-( #has_/range :: ItemList, ListItem, Text, WebContent )
+(has_/name :: has_negative_notes )
+(has_/range :: ItemList, ListItem, Text, WebContent )
 
 
 ## Confidential Links & Embeds: 

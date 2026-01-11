@@ -42,8 +42,8 @@ Relation describes that:
 
 #has_/domain  :: AnatomicalSystem  
 
-( #has_/name :: is_comprised_of )
-( #has_/range :: AnatomicalStructure, AnatomicalSystem )
+(has_/name :: is_comprised_of )
+(has_/range :: AnatomicalStructure, AnatomicalSystem )
 
 #is_/inverse_of  :: [[../../Composite/is_part_of]]  
 

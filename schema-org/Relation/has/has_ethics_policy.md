@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: NewsMediaOrganization, Organization  
 
-( #has_/name :: has_ethics_policy )
-( #has_/range :: CreativeWork, URL )
+(has_/name :: has_ethics_policy )
+(has_/range :: CreativeWork, URL )
 
 
 ## Confidential Links & Embeds: 

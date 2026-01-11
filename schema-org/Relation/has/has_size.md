@@ -36,8 +36,8 @@ Relation describes that:
 
 #has_/domain  :: CreativeWork, Product  
 
-( #has_/name :: is_size )
-( #has_/range :: DefinedTerm, QuantitativeValue, SizeSpecification, Text )
+(has_/name :: is_size )
+(has_/range :: DefinedTerm, QuantitativeValue, SizeSpecification, Text )
 
 
 ## Confidential Links & Embeds: 

@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: SizeSpecification  
 
-( #has_/name :: is_size_system )
-( #has_/range :: SizeSystemEnumeration, Text )
+(has_/name :: is_size_system )
+(has_/range :: SizeSystemEnumeration, Text )
 
 
 ## Confidential Links & Embeds: 

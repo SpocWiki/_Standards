@@ -36,8 +36,8 @@ Relation describes that:
 
 #has_/domain  :: ServiceChannel 
 
-( #has_/name :: is_providing_service)
-( #has_/range :: Service)
+(has_/name :: is_providing_service)
+(has_/range :: Service)
 
 
 ## Confidential Links & Embeds: 

@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: JobPosting  
 
-( #has_/name :: has_application_contact )
-( #has_/range :: ContactPoint )
+(has_/name :: has_application_contact )
+(has_/range :: ContactPoint )
 
 
 ## Confidential Links & Embeds: 

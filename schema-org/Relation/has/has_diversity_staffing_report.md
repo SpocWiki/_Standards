@@ -39,8 +39,8 @@ Relation describes that:
 
 #has_/domain  :: NewsMediaOrganization, Organization  
 
-( #has_/name :: has_diversity_staffing_report )
-( #has_/range :: Article, URL )
+(has_/name :: has_diversity_staffing_report )
+(has_/range :: Article, URL )
 
 #is_/sub_property_of  :: publishingPrinciples  
 

@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: FloorPlan 
 
-( #has_/name :: is_plan_for_apartment)
-( #has_/range :: Accommodation)
+(has_/name :: is_plan_for_apartment)
+(has_/range :: Accommodation)
 
 
 ## Confidential Links & Embeds: 

@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: Organization  
 
-( #has_/name :: has_nonprofit_status )
-( #has_/range :: NonprofitType )
+(has_/name :: has_nonprofit_status )
+(has_/range :: NonprofitType )
 
 
 ## Confidential Links & Embeds: 

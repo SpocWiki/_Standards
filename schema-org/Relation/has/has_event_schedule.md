@@ -55,8 +55,8 @@ Relation describes that:
 
 #has_/domain  :: Event  
 
-( #has_/name :: has_event_schedule )
-( #has_/range :: Schedule )
+(has_/name :: has_event_schedule )
+(has_/range :: Schedule )
 
 
 ## Confidential Links & Embeds: 

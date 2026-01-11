@@ -41,8 +41,8 @@ Relation describes that:
 
 #has_/domain  :: Hospital  
 
-( #has_/name :: has_healthcare_reporting_data )
-( #has_/range :: CDCPMDRecord, Dataset )
+(has_/name :: has_healthcare_reporting_data )
+(has_/range :: CDCPMDRecord, Dataset )
 
 
 ## Confidential Links & Embeds: 

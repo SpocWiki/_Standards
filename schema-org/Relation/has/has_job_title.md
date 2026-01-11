@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: Person  
 
-( #has_/name :: has_job_title )
-( #has_/range :: DefinedTerm, Text )
+(has_/name :: has_job_title )
+(has_/range :: DefinedTerm, Text )
 
 
 ## Confidential Links & Embeds: 

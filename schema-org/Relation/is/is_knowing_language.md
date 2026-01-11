@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: Organization, Person  
 
-( #has_/name :: is_knowing_language )
-( #has_/range :: Language, Text )
+(has_/name :: is_knowing_language )
+(has_/range :: Language, Text )
 
 
 ## Confidential Links & Embeds: 

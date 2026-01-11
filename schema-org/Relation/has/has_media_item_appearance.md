@@ -41,8 +41,8 @@ Relation describes that:
 
 #has_/domain  :: MediaReviewItem  
 
-( #has_/name :: has_media_item_appearance )
-( #has_/range :: MediaObject )
+(has_/name :: has_media_item_appearance )
+(has_/range :: MediaObject )
 
 
 ## Confidential Links & Embeds: 

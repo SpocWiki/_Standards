@@ -43,8 +43,8 @@ Relation describes that:
 
 #has_/domain  :: CreativeWork  
 
-( #has_/name :: has_encoding )
-( #has_/range :: MediaObject )
+(has_/name :: has_encoding )
+(has_/range :: MediaObject )
 
 
 ## Confidential Links & Embeds: 

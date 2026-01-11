@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: BioChemEntity 
 
-( #has_/name :: is_encoded_by_bio_chem_entity)
-( #has_/range :: Gene)
+(has_/name :: is_encoded_by_bio_chem_entity)
+(has_/range :: Gene)
 
 #is_/inverse_of  :: encodesBioChemEntity 
 

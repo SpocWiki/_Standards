@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: WebPage  
 
-( #has_/name :: is_reviewed_by )
-( #has_/range :: Organization, Person )
+(has_/name :: is_reviewed_by )
+(has_/range :: Organization, Person )
 
 
 ## Confidential Links & Embeds: 

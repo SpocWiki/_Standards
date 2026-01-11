@@ -44,8 +44,8 @@ Relation describes that:
 
 #has_/domain  :: Legislation  
 
-( #has_/name :: is_legislation_transpose_of )
-( #has_/range :: Legislation )
+(has_/name :: is_legislation_transpose_of )
+(has_/range :: Legislation )
 
 #is_/sub_property_of  :: legislationApplies  
 

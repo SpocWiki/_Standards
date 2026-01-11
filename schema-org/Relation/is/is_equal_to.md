@@ -35,8 +35,8 @@ Relation describes that:
 
 #has_/domain  :: QualitativeValue  
 
-( #has_/name :: is_equal_to )
-( #has_/range :: QualitativeValue )
+(has_/name :: is_equal_to )
+(has_/range :: QualitativeValue )
 
 
 ## Confidential Links & Embeds: 

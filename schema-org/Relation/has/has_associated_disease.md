@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: BioChemEntity  
 
-( #has_/name :: has_associated_disease )
-( #has_/range :: MedicalCondition, PropertyValue, URL )
+(has_/name :: has_associated_disease )
+(has_/range :: MedicalCondition, PropertyValue, URL )
 
 
 ## Confidential Links & Embeds: 

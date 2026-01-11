@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: Taxon  
 
-( #has_/name :: has_parent_taxon )
-( #has_/range :: Taxon, Text, URL )
+(has_/name :: has_parent_taxon )
+(has_/range :: Taxon, Text, URL )
 
 #is_/inverse_of  :: childTaxon  
 

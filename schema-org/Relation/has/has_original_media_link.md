@@ -41,8 +41,8 @@ Relation describes that:
 
 #has_/domain  :: MediaReview  
 
-( #has_/name :: has_original_media_link )
-( #has_/range :: MediaObject, URL, WebPage )
+(has_/name :: has_original_media_link )
+(has_/range :: MediaObject, URL, WebPage )
 
 
 ## Confidential Links & Embeds: 

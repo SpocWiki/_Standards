@@ -48,8 +48,8 @@ This Relation describes that:
 
 #has_/domain  :: ListItem  
 
-( #has_/name :: is_previous_item )
-( #has_/range :: ListItem )
+(has_/name :: is_previous_item )
+(has_/range :: ListItem )
 
 
 ## Confidential Links & Embeds: 

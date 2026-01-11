@@ -41,8 +41,8 @@ Relation describes that:
 
 #has_/domain  :: CreativeWork  
 
-( #has_/name :: has_creative_work_status )
-( #has_/range :: DefinedTerm, Text )
+(has_/name :: has_creative_work_status )
+(has_/range :: DefinedTerm, Text )
 
 
 ## Confidential Links & Embeds: 

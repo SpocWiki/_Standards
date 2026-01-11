@@ -39,8 +39,8 @@ Relation describes that:
 
 #has_/domain  :: RentAction  
 
-( #has_/name :: is_real_estate_agent )
-( #has_/range :: RealEstateAgent )
+(has_/name :: is_real_estate_agent )
+(has_/range :: RealEstateAgent )
 
 #is_/sub_property_of  :: participant  
 

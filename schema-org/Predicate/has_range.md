@@ -41,9 +41,9 @@ Use it like this:
 Relates a property to a class that constitutes (one of) the expected type(s) for values of the property.
 
 Relation describes that: 
-( #has_/domain  :: [Property](../Property.md) )
-( #has_/name :: is_range_includes )
-( #has_/range :: [Class](../Classes.md) )
+(has_/domain  :: [Property](../Property.md) )
+(has_/name :: is_range_includes )
+(has_/range :: [Class](../Classes.md) )
 
 
 ## Confidential Links & Embeds: 

@@ -36,8 +36,8 @@ Relation describes that:
 
 #has_/domain  :: MediaObject 
 
-( #has_/name :: is_encoding_creative_work)
-( #has_/range :: CreativeWork)
+(has_/name :: is_encoding_creative_work)
+(has_/range :: CreativeWork)
 
 #is_/inverse_of  :: [[../has/has_encoding]]  
 

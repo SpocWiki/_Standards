@@ -36,8 +36,8 @@ Relation describes that:
 
 #has_/domain  :: CreativeWork  
 
-( #has_/name :: has_correction )
-( #has_/range :: CorrectionComment, Text, URL )
+(has_/name :: has_correction )
+(has_/range :: CorrectionComment, Text, URL )
 
 
 ## Confidential Links & Embeds: 

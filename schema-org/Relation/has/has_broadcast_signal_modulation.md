@@ -41,8 +41,8 @@ Relation describes that:
 
 #has_/domain  :: BroadcastFrequencySpecification  
 
-( #has_/name :: has_broadcast_signal_modulation )
-( #has_/range :: QualitativeValue, Text )
+(has_/name :: has_broadcast_signal_modulation )
+(has_/range :: QualitativeValue, Text )
 
 
 ## Confidential Links & Embeds: 

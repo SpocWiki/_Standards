@@ -34,8 +34,8 @@ Relation describes that:
 
 #has_/domain  :: [Thing](../../../Class/Thing.md)  
 
-( #has_/name :: has_image )
-( #has_/range :: ImageObject, URL )
+(has_/name :: has_image )
+(has_/range :: ImageObject, URL )
 
 #has_/sub_properties :: [ layoutImage, logo, photo ]  
 

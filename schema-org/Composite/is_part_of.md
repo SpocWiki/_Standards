@@ -63,8 +63,8 @@ Relation describes that:
 
 #has_/domain  :: CreativeWork 
 
-( #has_/name :: is_part_of)
-( #has_/range :: CreativeWork, URL)
+(has_/name :: is_part_of)
+(has_/range :: CreativeWork, URL)
 
 #has_/sub_properties :: [ [[../Relation/is/is_in_defined_term_set|inDefinedTermSet]], [[../Relation/is/part_of/is_part_of_episode|partOfEpisode]], [[../Relation/is/part_of/is_part_of_season|partOfSeason]], [[../Relation/is/part_of/is_part_of_series|partOfSeries]] ]  
 

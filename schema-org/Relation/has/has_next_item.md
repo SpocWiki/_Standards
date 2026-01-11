@@ -40,8 +40,8 @@ This Relation describes that:
 
 #has_/domain  :: ListItem  
 
-( #has_/name :: has_next_item )
-( #has_/range :: ListItem )
+(has_/name :: has_next_item )
+(has_/range :: ListItem )
 
 #is_/inverse_of :: [[has_previous_item]] 
 

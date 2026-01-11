@@ -43,8 +43,8 @@ Relation describes that:
 
 #has_/domain  :: Action, CreativeWork, EducationalOccupationalProgram, Invoice, ParcelDelivery, Reservation, Service, Trip  
 
-( #has_/name :: is_provider )
-( #has_/range :: Organization, Person )
+(has_/name :: is_provider )
+(has_/range :: Organization, Person )
 
 
 ## Confidential Links & Embeds: 

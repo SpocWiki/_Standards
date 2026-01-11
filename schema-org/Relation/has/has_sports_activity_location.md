@@ -39,8 +39,8 @@ Relation describes that:
 
 #has_/domain  :: ExerciseAction  
 
-( #has_/name :: is_sports_activity_location )
-( #has_/range :: SportsActivityLocation )
+(has_/name :: is_sports_activity_location )
+(has_/range :: SportsActivityLocation )
 
 #is_/sub_property_of  :: location  
 

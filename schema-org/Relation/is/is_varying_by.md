@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: ProductGroup 
 
-( #has_/name :: is_varying_by)
-( #has_/range :: DefinedTerm, Text)
+(has_/name :: is_varying_by)
+(has_/range :: DefinedTerm, Text)
 
 
 ## Confidential Links & Embeds: 

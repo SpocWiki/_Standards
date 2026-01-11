@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: PerformAction  
 
-( #has_/name :: has_entertainment_business )
-( #has_/range :: EntertainmentBusiness )
+(has_/name :: has_entertainment_business )
+(has_/range :: EntertainmentBusiness )
 
 #is_/sub_property_of  :: location  
 

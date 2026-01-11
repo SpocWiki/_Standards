@@ -41,8 +41,8 @@ Relation describes that:
 
 #has_/domain  :: PlayGameAction  
 
-( #has_/name :: has_game_availability_type )
-( #has_/range :: GameAvailabilityEnumeration, Text )
+(has_/name :: has_game_availability_type )
+(has_/range :: GameAvailabilityEnumeration, Text )
 
 
 ## Confidential Links & Embeds: 

@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: MerchantReturnPolicy  
 
-( #has_/name :: is_refund_type )
-( #has_/range :: RefundTypeEnumeration )
+(has_/name :: is_refund_type )
+(has_/range :: RefundTypeEnumeration )
 
 
 ## Confidential Links & Embeds: 

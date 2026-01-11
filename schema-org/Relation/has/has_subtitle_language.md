@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: BroadcastEvent, Movie, ScreeningEvent, TVEpisode  
 
-( #has_/name :: is_subtitle_language )
-( #has_/range :: Language, Text )
+(has_/name :: is_subtitle_language )
+(has_/range :: Language, Text )
 
 
 ## Confidential Links & Embeds: 

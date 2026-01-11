@@ -42,8 +42,8 @@ Relation describes that:
 
 #has_/domain  :: Legislation  
 
-( #has_/name :: has_legislation_responsible )
-( #has_/range :: Organization, Person )
+(has_/name :: has_legislation_responsible )
+(has_/range :: Organization, Person )
 
 
 ## Confidential Links & Embeds: 

@@ -36,8 +36,8 @@ Relation describes that:
 
 #has_/domain  :: Invoice 
 
-( #has_/name :: is_referencing_order)
-( #has_/range :: Order)
+(has_/name :: is_referencing_order)
+(has_/range :: Order)
 
 
 ## Confidential Links & Embeds: 

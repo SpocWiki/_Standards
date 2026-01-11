@@ -39,8 +39,8 @@ Relation describes that:
 
 #has_/domain  :: Clip  
 
-( #has_/name :: is_part_of_episode )
-( #has_/range :: Episode )
+(has_/name :: is_part_of_episode )
+(has_/range :: Episode )
 
 #is_/sub_property_of  :: isPartOf  
 

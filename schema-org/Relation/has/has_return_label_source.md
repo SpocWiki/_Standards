@@ -41,8 +41,8 @@ Relation describes that:
 
 #has_/domain  :: MerchantReturnPolicy  
 
-( #has_/name :: is_return_label_source )
-( #has_/range :: ReturnLabelSourceEnumeration )
+(has_/name :: is_return_label_source )
+(has_/range :: ReturnLabelSourceEnumeration )
 
 
 ## Confidential Links & Embeds: 

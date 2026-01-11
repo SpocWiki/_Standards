@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: Person  
 
-( #has_/name :: is_performer_in )
-( #has_/range :: Event )
+(has_/name :: is_performer_in )
+(has_/range :: Event )
 
 #is_/inverse_of  :: [[has_performer]]  
 

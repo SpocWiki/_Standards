@@ -59,8 +59,8 @@ Relation describes that:
 
 #has_/domain  :: Place  
 
-( #has_/name :: has_opening_hours_specification )
-( #has_/range :: OpeningHoursSpecification )
+(has_/name :: has_opening_hours_specification )
+(has_/range :: OpeningHoursSpecification )
 
 
 ## Confidential Links & Embeds: 

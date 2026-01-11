@@ -41,8 +41,8 @@ Relation describes that:
 
 #has_/domain  :: Legislation  
 
-( #has_/name :: has_legislation_legal_force )
-( #has_/range :: LegalForceStatus )
+(has_/name :: has_legislation_legal_force )
+(has_/range :: LegalForceStatus )
 
 
 ## Confidential Links & Embeds: 

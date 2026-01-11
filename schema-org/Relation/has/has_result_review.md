@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: ReviewAction  
 
-( #has_/name :: is_result_review )
-( #has_/range :: Review )
+(has_/name :: is_result_review )
+(has_/range :: Review )
 
 #is_/sub_property_of  :: result  
 

@@ -34,8 +34,8 @@ Relation describes that:
 
 #has_/domain  :: HowTo, HowToDirection  
 
-( #has_/name :: is_supply )
-( #has_/range :: HowToSupply, Text )
+(has_/name :: is_supply )
+(has_/range :: HowToSupply, Text )
 
 #is_/sub_property_of  :: instrument  
 

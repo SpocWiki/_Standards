@@ -39,8 +39,8 @@ Relation describes that:
 
 #has_/domain  :: MedicalTest  
 
-( #has_/name :: is_used_to_diagnose )
-( #has_/range :: MedicalCondition )
+(has_/name :: is_used_to_diagnose )
+(has_/range :: MedicalCondition )
 
 
 ## Confidential Links & Embeds: 

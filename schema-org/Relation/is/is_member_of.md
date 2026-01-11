@@ -51,8 +51,8 @@ Relation describes that:
 
 #has_/domain  :: Organization, Person  
 
-( #has_/name :: is_member_of )
-( #has_/range :: [[../../../Class/is_a_/organization]], [[../../../Class/is_a_/intangible/program_membership]] )
+(has_/name :: is_member_of )
+(has_/range :: [[../../../Class/is_a_/organization]], [[../../../Class/is_a_/intangible/program_membership]] )
 
 #is_/inverse_of  :: [[has_member]]  
 

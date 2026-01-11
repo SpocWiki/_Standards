@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: Question  
 
-( #has_/name :: is_suggested_answer )
-( #has_/range :: Answer, ItemList )
+(has_/name :: is_suggested_answer )
+(has_/range :: Answer, ItemList )
 
 #has_/sub_properties :: [ acceptedAnswer ]  
 

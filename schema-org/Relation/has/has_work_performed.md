@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: Event  
 
-( #has_/name :: is_work_performed )
-( #has_/range :: CreativeWork )
+(has_/name :: is_work_performed )
+(has_/range :: CreativeWork )
 
 #is_/sub_property_of  :: workFeatured  
 

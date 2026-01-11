@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: StatisticalPopulation  
 
-( #has_/name :: is_population_type )
-( #has_/range :: Class )
+(has_/name :: is_population_type )
+(has_/range :: Class )
 
 
 ## Confidential Links & Embeds: 

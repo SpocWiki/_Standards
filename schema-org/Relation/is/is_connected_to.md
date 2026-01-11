@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: AnatomicalStructure  
 
-( #has_/name :: is_connected_to )
-( #has_/range :: AnatomicalStructure )
+(has_/name :: is_connected_to )
+(has_/range :: AnatomicalStructure )
 
 
 ## Confidential Links & Embeds: 

@@ -39,8 +39,8 @@ Relation describes that:
 
 #has_/domain  :: QualitativeValue  
 
-( #has_/name :: is_lesser_or_equal_to )
-( #has_/range :: QualitativeValue )
+(has_/name :: is_lesser_or_equal_to )
+(has_/range :: QualitativeValue )
 
 [[../is_inverse_of]]
 

@@ -36,8 +36,8 @@ Relation describes that:
 
 #has_/domain  :: Product 
 
-( #has_/name :: is_consumable_for)
-( #has_/range :: Product)
+(has_/name :: is_consumable_for)
+(has_/range :: Product)
 
 
 ## Confidential Links & Embeds: 

@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: Permit  
 
-( #has_/name :: is_issued_through )
-( #has_/range :: Service )
+(has_/name :: is_issued_through )
+(has_/range :: Service )
 
 
 ## Confidential Links & Embeds: 

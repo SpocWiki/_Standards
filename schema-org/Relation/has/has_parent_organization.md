@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: Organization  
 
-( #has_/name :: has_parent_organization )
-( #has_/range :: Organization )
+(has_/name :: has_parent_organization )
+(has_/range :: Organization )
 
 #is_/inverse_of  :: subOrganization  
 

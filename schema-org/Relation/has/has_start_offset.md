@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: Clip, SeekToAction  
 
-( #has_/name :: is_start_offset )
-( #has_/range :: HyperTocEntry, Number )
+(has_/name :: is_start_offset )
+(has_/range :: HyperTocEntry, Number )
 
 
 ## Confidential Links & Embeds: 

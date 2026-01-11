@@ -36,8 +36,8 @@ Relation describes that:
 
 #has_/domain  :: CommunicateAction, CreativeWork, Event  
 
-( #has_/name :: is_about )
-( #has_/range :: Thing )
+(has_/name :: is_about )
+(has_/range :: Thing )
 
 #is_/inverse_of  :: [[is_subject_of]]  
 

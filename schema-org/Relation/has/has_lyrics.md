@@ -36,8 +36,8 @@ Relation describes that:
 
 #has_/domain  :: MusicComposition  
 
-( #has_/name :: has_lyrics )
-( #has_/range :: CreativeWork )
+(has_/name :: has_lyrics )
+(has_/range :: CreativeWork )
 
 
 ## Confidential Links & Embeds: 

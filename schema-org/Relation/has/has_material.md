@@ -34,8 +34,8 @@ Relation describes that:
 
 #has_/domain  :: CreativeWork, Product  
 
-( #has_/name :: has_material )
-( #has_/range :: Product, Text, URL )
+(has_/name :: has_material )
+(has_/range :: Product, Text, URL )
 
 #has_/sub_properties :: [ artMedium, surface ]  
 

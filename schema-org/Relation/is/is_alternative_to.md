@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: Gene  
 
-( #has_/name :: is_alternative_to )
-( #has_/range :: Gene )
+(has_/name :: is_alternative_to )
+(has_/range :: Gene )
 
 
 ## Confidential Links & Embeds: 

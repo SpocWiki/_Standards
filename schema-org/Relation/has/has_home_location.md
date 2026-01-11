@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: Person  
 
-( #has_/name :: has_home_location )
-( #has_/range :: ContactPoint, Place )
+(has_/name :: has_home_location )
+(has_/range :: ContactPoint, Place )
 
 #is_/sub_property_of  :: location  
 

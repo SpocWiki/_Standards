@@ -37,8 +37,8 @@ Relation describes that:
 
 #has_/domain  :: GovernmentService, Legislation  
 
-( #has_/name :: has_jurisdiction )
-( #has_/range :: AdministrativeArea, Text )
+(has_/name :: has_jurisdiction )
+(has_/range :: AdministrativeArea, Text )
 
 #has_/sub_properties :: [ legislationJurisdiction ]  
 

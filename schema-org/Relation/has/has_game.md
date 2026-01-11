@@ -34,8 +34,8 @@ Relation describes that:
 
 #has_/domain  :: GameServer  
 
-( #has_/name :: has_game )
-( #has_/range :: VideoGame )
+(has_/name :: has_game )
+(has_/range :: VideoGame )
 
 #is_/inverse_of  :: gameServer  
 

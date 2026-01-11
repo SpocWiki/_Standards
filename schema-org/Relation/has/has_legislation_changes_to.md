@@ -50,8 +50,8 @@ Relation describes that:
 
 #has_/domain  :: Legislation  
 
-( #has_/name :: has_legislation_changes_to )
-( #has_/range :: Legislation )
+(has_/name :: has_legislation_changes_to )
+(has_/range :: Legislation )
 
 
 ## Confidential Links & Embeds: 

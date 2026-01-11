@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: BioChemEntity  
 
-( #has_/name :: is_representation )
-( #has_/range :: PropertyValue, Text, URL )
+(has_/name :: is_representation )
+(has_/range :: PropertyValue, Text, URL )
 
 #has_/sub_properties :: [ hasBioPolymerSequence, inChI, inChIKey, smiles ]  
 

@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: MoneyTransfer  
 
-( #has_/name :: has_beneficiary_bank )
-( #has_/range :: BankOrCreditUnion, Text )
+(has_/name :: has_beneficiary_bank )
+(has_/range :: BankOrCreditUnion, Text )
 
 
 ## Confidential Links & Embeds: 

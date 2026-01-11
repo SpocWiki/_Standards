@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: ScreeningEvent  
 
-( #has_/name :: is_work_presented )
-( #has_/range :: Movie )
+(has_/name :: is_work_presented )
+(has_/range :: Movie )
 
 #is_/sub_property_of  :: workFeatured  
 

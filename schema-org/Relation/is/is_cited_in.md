@@ -38,8 +38,8 @@ Relation describes that:
 
 #has_/domain  :: CreativeWork  
 
-( #has_/name :: is_cited_in )
-( #has_/range :: CreativeWork, Text )
+(has_/name :: is_cited_in )
+(has_/range :: CreativeWork, Text )
 
 
 ## Confidential Links & Embeds: 

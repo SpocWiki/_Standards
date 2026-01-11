@@ -42,8 +42,8 @@ Relation describes that:
 
 #has_/domain  :: CreativeWork, Organization, Person  
 
-( #has_/name :: is_publishing_principles )
-( #has_/range :: CreativeWork, URL )
+(has_/name :: is_publishing_principles )
+(has_/range :: CreativeWork, URL )
 
 #has_/sub_properties :: [ actionableFeedbackPolicy, correctionsPolicy, diversityStaffingReport, masthead, missionCoveragePrioritiesPolicy, noBylinesPolicy, ownershipFundingInfo, unnamedSourcesPolicy, verificationFactCheckingPolicy ]  
 

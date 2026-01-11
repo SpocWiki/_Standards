@@ -36,8 +36,8 @@ Relation describes that:
 
 #has_/domain  :: ComicIssue, ComicStory, VisualArtwork  
 
-( #has_/name :: has_penciler )
-( #has_/range :: Person )
+(has_/name :: has_penciler )
+(has_/range :: Person )
 
 
 ## Confidential Links & Embeds: 

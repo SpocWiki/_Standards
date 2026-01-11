@@ -40,8 +40,8 @@ Relation describes that:
 
 #has_/domain  :: Dataset  
 
-( #has_/name :: is_variable_measured )
-( #has_/range :: PropertyValue, Text )
+(has_/name :: is_variable_measured )
+(has_/range :: PropertyValue, Text )
 
 
 ## Confidential Links & Embeds: 
