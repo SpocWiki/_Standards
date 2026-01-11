@@ -260,7 +260,7 @@ has_ancestor = `=this.dv_has_ancestor`
 
 
 #has_/created_/quote :: Speak softly and carry a big stick; you will go far. 
-#has_created = `=this.dv_created`
+#has_/created = `=this.dv_created`
 #has_/created_/quote :: [[_Standards/WikiData/WD~Alan_Turing_teddy_bear,47451142]] 
 #is_/same_as :: [[../../../../WikiData/WD~Theodore_Roosevelt,33866|WD~Theodore_Roosevelt,33866]] 
 

@@ -33,7 +33,7 @@ Predicate to describe the Number of Schedule.
 
 Use it like this: 
 - #has_/number_of_/day_in_month :: Integer   
-- #has_number_of_day_in_month :: Integer   
+- has_number_of_day_in_month :: Integer   
 
 Defines the day(s) of the month on which a recurring [[Event]] takes place. Specified as an [[Integer]] between 1-31.
 

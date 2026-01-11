@@ -40,7 +40,7 @@ Predicate to describe the Quantity of NutritionInformation.
 Use it like this: 
 - #has_/value_for_/sodium :: Mass   
 - #has_/value_for_/sodium_/milli_/gram :: Mass   
-- #has_value_for_sodium :: Mass   
+- has_value_for_sodium :: Mass   
 
 The number of milligrams of sodium.
 

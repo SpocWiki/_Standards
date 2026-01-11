@@ -35,7 +35,7 @@ Predicate to describe the Quantity of NutritionInformation.
 
 Use it like this: 
 - #has_/value_for_/cholesterol_in_milliGram :: Mass   
-- #has_value_for_cholesterol_in_milliGram :: Mass   
+- has_value_for_cholesterol_in_milliGram :: Mass   
 
 The number of milligrams of cholesterol.
 

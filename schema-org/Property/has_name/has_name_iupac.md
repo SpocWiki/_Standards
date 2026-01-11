@@ -34,7 +34,7 @@ Predicate to describe the Text of MolecularEntity.
 
 Use it like this: 
 - #has_/name_/iupac :: Text   
-- #has_name_iupac :: Text   
+- has_name_iupac :: Text   
 
 Systematic method of naming chemical compounds as recommended by the International Union of Pure and Applied Chemistry (IUPAC).
 

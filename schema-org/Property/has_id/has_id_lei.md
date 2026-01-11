@@ -32,7 +32,7 @@ Predicate to describe the Text of Organization.
 
 Use it like this: 
 - #has_/id_/lei :: Text   
-- #has_id_lei :: Text   
+- has_id_lei :: Text   
 
 An organization identifier that uniquely identifies 
 a legal entity as defined in ISO 17442.

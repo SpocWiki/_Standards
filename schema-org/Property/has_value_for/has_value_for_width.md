@@ -51,7 +51,7 @@ as described in [[../../../Dimension/Unit_of_Measure]].
 
 Use it like this: 
 - #has_/value_for_/width :: [[../../Predicate/Quantity/has_value_for_distance|Distance]], [[../../Class/is_a_/Intangible/structured_value/quantitative_value|QuantitativeValue]] 
-- #has_value_for_width :: Distance, [[../../Class/is_a_/Intangible/structured_value/quantitative_value|QuantitativeValue]]  
+- has_value_for_width :: Distance, [[../../Class/is_a_/Intangible/structured_value/quantitative_value|QuantitativeValue]]  
 
 [[../../Predicate|Predicate]] describes that: 
 

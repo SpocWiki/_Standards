@@ -36,7 +36,7 @@ Predicate to describe the Text of Thesis.
 
 Use it like this: 
 - #has_/text_of_/in_support_of :: Text   
-- #has_text_of_in_support_of :: Text   
+- has_text_of_in_support_of :: Text   
 
 Qualification, candidature, degree, application that Thesis supports.
 

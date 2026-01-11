@@ -32,7 +32,7 @@ Predicate to describe the Text of PostalAddress.
 
 Use it like this: 
 - #has_/location_/address/locality :: Text   
-- #has_location_address_locality :: Text   
+- has_location_address_locality :: Text   
 
 The locality in which the street address is, 
 and which is in the region. For example, Mountain View.

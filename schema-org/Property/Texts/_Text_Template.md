@@ -38,7 +38,7 @@ Predicate to describe the Text of {{domainIncludes}}.
 
 Use it like this: 
 - #has_/text_of_/{{label_snail}} :: {{rangeIncludes}}   
-- #has_text_of_{{label_snail}} :: {{rangeIncludes}}   
+- has_text_of_{{label_snail}} :: {{rangeIncludes}}   
 
 {{comment}}
 

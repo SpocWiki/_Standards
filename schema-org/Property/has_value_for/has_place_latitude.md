@@ -43,7 +43,7 @@ but not [[has_place_altitude_meters|altitude]], which adds to [[has_place_elevat
 
 Use it like this: 
 - #has_/place_/latitude :: Number, Text   
-- #has_place_latitude :: [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]]   
+- has_place_latitude :: [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]]   
 
 Predicate describes that: 
 

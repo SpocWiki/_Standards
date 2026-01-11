@@ -41,7 +41,7 @@ Predicate to describe the Quantity of NutritionInformation.
 
 Use it like this: 
 - #has_/value_for_/fat_/saturated :: Mass   
-- #has_value_for_fat_saturated :: Mass   
+- has_value_for_fat_saturated :: Mass   
 
 The number of grams of [[../../../bio/Metabolism/Nutrition/Fat/Saturated_Fat|Saturated_Fat]].
 

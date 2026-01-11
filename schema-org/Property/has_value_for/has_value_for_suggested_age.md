@@ -33,7 +33,7 @@ Predicate to describe the Quantity of PeopleAudience, SizeSpecification.
 
 Use it like this: 
 - #has_/value_for_/suggested_age :: QuantitativeValue   
-- #has_value_for_suggested_age :: QuantitativeValue   
+- has_value_for_suggested_age :: QuantitativeValue   
 
 The age or age range for the intended audience or person, for example 3-12 months for infants, 1-5 years for toddlers.
 

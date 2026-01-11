@@ -34,7 +34,7 @@ Predicate to describe the Text of Thing.
 
 Use it like this: 
 - #has_/text_of_/description :: Text   
-- #has_text_of_description :: Text   
+- has_text_of_description :: Text   
 
 A description of the item.
 

@@ -35,7 +35,7 @@ Predicate to describe the Text of CreativeWork.
 
 Use it like this: 
 - #has_/text_of_/credit_text :: Text   
-- #has_text_of_credit_text :: Text   
+- has_text_of_credit_text :: Text   
 
 Text that can be used to credit person(s) and/or organization(s) associated with a published Creative Work.
 

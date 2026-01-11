@@ -32,7 +32,7 @@ Predicate to describe the Text of Thing.
 
 Use it like this: 
 - #has_/name_/alternate :: Text   
-- #has_name_alternate :: Text   
+- has_name_alternate :: Text   
 
 An alias for the item; 
 Rather use the #aliases Property. 

@@ -36,7 +36,7 @@ Predicate to describe the Text of DefinedRegion.
 
 Use it like this: 
 - #has_/text_of_/postal_code_prefix :: Text   
-- #has_text_of_postal_code_prefix :: Text   
+- has_text_of_postal_code_prefix :: Text   
 
 A defined range of postal codes indicated by a common textual prefix. Used for non-numeric systems such as UK.
 

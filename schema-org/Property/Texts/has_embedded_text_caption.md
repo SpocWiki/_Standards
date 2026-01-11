@@ -36,7 +36,7 @@ Predicate to describe the Text of AudioObject, ImageObject, VideoObject.
 
 Use it like this: 
 - #has_/text_of_/embedded_text_caption :: Text   
-- #has_text_of_embedded_text_caption :: Text   
+- has_text_of_embedded_text_caption :: Text   
 
 Represents textual captioning from a [[MediaObject]], e.g. text of a "meme".
 

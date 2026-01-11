@@ -35,7 +35,7 @@ Predicate to describe the Text of MolecularEntity.
 
 Use it like this: 
 - #has_/text_of_/molecular_formula :: Text   
-- #has_text_of_molecular_formula :: Text   
+- has_text_of_molecular_formula :: Text   
 
 The empirical formula is the simplest whole number ratio of all the atoms in a molecule.
 

@@ -67,7 +67,7 @@ The default [[../../../Dimension/Unit_of_Measure|Unit_of_Measure]]  are [[../../
 
 Use it like this: 
 - #has_/value_for_/geo_radius = `=this.dv_has_value_for_geo_radius`  
-- #has_value_for_geo_radius = `=this.dv_has_value_for_geo_radius`  
+- has_value_for_geo_radius = `=this.dv_has_value_for_geo_radius`  
 
 Indicates the approximate radius of a GeoCircle 
 (metres unless indicated otherwise via Distance notation). 

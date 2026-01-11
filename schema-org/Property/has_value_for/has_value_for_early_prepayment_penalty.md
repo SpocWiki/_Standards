@@ -33,7 +33,7 @@ Predicate to describe the Quantity of RepaymentSpecification.
 
 Use it like this: 
 - #has_/value_for_/early_prepayment_penalty :: MonetaryAmount   
-- #has_value_for_early_prepayment_penalty :: MonetaryAmount   
+- has_value_for_early_prepayment_penalty :: MonetaryAmount   
 
 The amount to be paid as a penalty in the event of early payment of the loan.
 

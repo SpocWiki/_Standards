@@ -31,7 +31,7 @@ Predicate to describe the Address of the ServiceChannel.
 
 Use it like this: 
 - #has_/location_/service_postal_address :: PostalAddress   
-- #has_location_address_postal_service :: PostalAddress   
+- has_location_address_postal_service :: PostalAddress   
 
 The address for accessing the service by mail.
 

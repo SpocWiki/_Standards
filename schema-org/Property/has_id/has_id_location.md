@@ -33,7 +33,7 @@ The [Global Location Number](http://www.gs1.org/gln) (GLN, sometimes also referr
 
 Use it like this: 
 - #has_/id_/location :: Text   
-- #has_id_location :: Text   
+- has_id_location :: Text   
 
 Predicated describes that: 
 

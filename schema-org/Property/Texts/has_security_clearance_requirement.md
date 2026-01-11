@@ -36,7 +36,7 @@ Predicate to describe the Text of JobPosting.
 
 Use it like this: 
 - #has_/text_of_/security_clearance_requirement :: Text, URL   
-- #has_text_of_security_clearance_requirement :: Text, URL   
+- has_text_of_security_clearance_requirement :: Text, URL   
 
 A description of any security clearance requirements of the job.
 

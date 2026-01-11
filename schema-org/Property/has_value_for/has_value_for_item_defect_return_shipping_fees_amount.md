@@ -33,7 +33,7 @@ Predicate to describe the Quantity of MerchantReturnPolicy.
 
 Use it like this: 
 - #has_/value_for_/item_defect_return_shipping_fees_amount :: MonetaryAmount   
-- #has_value_for_item_defect_return_shipping_fees_amount :: MonetaryAmount   
+- has_value_for_item_defect_return_shipping_fees_amount :: MonetaryAmount   
 
 Amount of shipping costs for defect product returns. Applicable when property [[itemDefectReturnFees]] equals [[ReturnShippingFees]].
 

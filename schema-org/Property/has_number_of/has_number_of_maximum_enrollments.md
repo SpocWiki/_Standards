@@ -33,7 +33,7 @@ Predicate to describe the Number of EducationalOccupationalProgram.
 
 Use it like this: 
 - #has_/number_of_/maximum_enrollments :: Integer   
-- #has_number_of_maximum_enrollments :: Integer   
+- has_number_of_maximum_enrollments :: Integer   
 
 The maximum number of students who may be enrolled in the program.
 

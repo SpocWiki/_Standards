@@ -35,7 +35,7 @@ Predicate to describe the Text of HealthInsurancePlan.
 
 Use it like this: 
 - #has_/id_/health_plan :: Text   
-- #has_id_health_plan :: Text   
+- has_id_health_plan :: Text   
 
 The 14-character, HIOS-generated Plan ID number. (Plan IDs must be unique, even across different markets.)
 

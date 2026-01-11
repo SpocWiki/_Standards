@@ -39,7 +39,7 @@ Predicate to describe the Quantity of NutritionInformation.
 
 Use it like this: 
 - #has_/value_for_/fat_/trans :: Mass   
-- #has_value_for_fat_trans :: Mass   
+- has_value_for_fat_trans :: Mass   
 
 The number of grams of [[../../../bio/Metabolism/Nutrition/Fat/Trans_Fat|Trans_Fat]].
 

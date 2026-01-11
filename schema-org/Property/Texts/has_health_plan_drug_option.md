@@ -37,7 +37,7 @@ Predicate to describe the Text of HealthInsurancePlan.
 
 Use it like this: 
 - #has_/text_of_/health_plan_drug_option :: Text   
-- #has_text_of_health_plan_drug_option :: Text   
+- has_text_of_health_plan_drug_option :: Text   
 
 TODO.
 

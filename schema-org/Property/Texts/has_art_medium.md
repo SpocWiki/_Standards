@@ -33,7 +33,7 @@ Predicate to describe the Text of VisualArtwork.
 
 Use it like this: 
 - #has_/text_of_/art_medium :: Text, URL   
-- #has_text_of_art_medium :: Text, URL   
+- has_text_of_art_medium :: Text, URL   
 
 The material used. (E.g. Oil, Watercolour, Acrylic, Linoprint, Marble, Cyanotype, Digital, Lithograph, DryPoint, Intaglio, Pastel, Woodcut, Pencil, Mixed Media, etc.)
 

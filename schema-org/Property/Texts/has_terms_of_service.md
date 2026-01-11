@@ -36,7 +36,7 @@ Predicate to describe the Text of Service.
 
 Use it like this: 
 - #has_/text_of_/terms_of_service :: Text, URL   
-- #has_text_of_terms_of_service :: Text, URL   
+- has_text_of_terms_of_service :: Text, URL   
 
 Human-readable terms of service documentation.
 

@@ -35,7 +35,7 @@ Predicate to describe the Text of JobPosting.
 
 Use it like this: 
 - #has_/text_of_/employer_overview :: Text   
-- #has_text_of_employer_overview :: Text   
+- has_text_of_employer_overview :: Text   
 
 A description of the employer, career opportunities and work environment for this position.
 

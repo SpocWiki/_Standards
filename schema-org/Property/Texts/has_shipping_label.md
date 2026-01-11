@@ -35,7 +35,7 @@ Predicate to describe the Text of OfferShippingDetails, ShippingRateSettings.
 
 Use it like this: 
 - #has_/text_of_/shipping_label :: Text   
-- #has_text_of_shipping_label :: Text   
+- has_text_of_shipping_label :: Text   
 
 Label to match an [[OfferShippingDetails]] with a [[ShippingRateSettings]] (within the context of a [[shippingSettingsLink]] cross-reference).
 

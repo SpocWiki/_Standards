@@ -35,7 +35,7 @@ Predicate to describe the Text of CreativeWork.
 
 Use it like this: 
 - #has_/text_of_/copyright_notice :: Text   
-- #has_text_of_copyright_notice :: Text   
+- has_text_of_copyright_notice :: Text   
 
 Text of a notice appropriate for describing the copyright aspects of this Creative Work, ideally indicating the owner of the copyright for the Work.
 

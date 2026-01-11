@@ -35,7 +35,7 @@ Predicate to describe the Text of ComicIssue.
 
 Use it like this: 
 - #has_/text_of_/variant_cover :: Text   
-- #has_text_of_variant_cover :: Text   
+- has_text_of_variant_cover :: Text   
 
 A description of the variant cover
 		for the issue, if the issue is a variant printing. For example, "Bryan Hitch

@@ -34,7 +34,7 @@ Predicate to describe the Text of ChooseAction.
 
 Use it like this: 
 - #has_/text_of_/action_option :: Text, Thing   
-- #has_text_of_action_option :: Text, Thing   
+- has_text_of_action_option :: Text, Thing   
 
 A sub property of object. The options subject to this action.
 

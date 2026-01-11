@@ -34,7 +34,7 @@ Predicate to describe the Quantity of MolecularEntity.
 
 Use it like this: 
 - #has_/value_for_/weight_/molecular :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]], Text 
-- #has_value_for_weight :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]], Text 
+- has_value_for_weight :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]], Text 
 
 This is the molecular weight of the entity being described, not of the parent. 
 Units should be included in the form 'Number unit', for example '12 amu' or as [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]]. 

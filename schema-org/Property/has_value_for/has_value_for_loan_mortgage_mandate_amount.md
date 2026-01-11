@@ -33,7 +33,7 @@ Predicate to describe the Quantity of MortgageLoan.
 
 Use it like this: 
 - #has_/value_for_/loan_mortgage_mandate_amount :: MonetaryAmount   
-- #has_value_for_loan_mortgage_mandate_amount :: MonetaryAmount   
+- has_value_for_loan_mortgage_mandate_amount :: MonetaryAmount   
 
 Amount of mortgage mandate that can be converted into a proper mortgage at a later stage.
 

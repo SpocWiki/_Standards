@@ -39,7 +39,7 @@ Predicate to specify the Url of a [[../../../Society/Communication/Communication
 
 Use it like this: 
 - #has_/url_for_/content :: URL   
-- #has_url_for_content :: URL   
+- has_url_for_content :: URL   
 
 Actual bytes of the media object, for example the image file or video file.
 

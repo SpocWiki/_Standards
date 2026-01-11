@@ -34,7 +34,7 @@ Predicate to describe the Text of Organization.
 
 Use it like this: 
 - #has_/text_of_/iso6523code :: Text   
-- #has_text_of_iso6523code :: Text   
+- has_text_of_iso6523code :: Text   
 
 An organization identifier as defined in ISO 6523(-1). 
 Note that many existing organization identifiers such as 

@@ -33,7 +33,7 @@ Predicate to describe the Quantity of Vehicle.
 Use it like this: 
 - #has_/value_for_/weight_/of_payload :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]   
 - #has_/value_for_/weight_/of_payload_/kilo_/gram :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]   
-- #has_value_for_weight_of_payload :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]]   
+- has_value_for_weight_of_payload :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]]   
 
 The permitted weight of passengers and cargo, EXCLUDING the weight of the empty vehicle.
 

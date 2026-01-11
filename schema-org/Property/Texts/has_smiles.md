@@ -34,7 +34,7 @@ Predicate to describe the Text of MolecularEntity.
 
 Use it like this: 
 - #has_/text_of_/smiles :: Text   
-- #has_text_of_smiles :: Text   
+- has_text_of_smiles :: Text   
 
 A specification in form of a line notation for describing the structure of chemical species using short ASCII strings. 
 Double bond stereochemistry \ indicators may need to be escaped in the string in formats where the backslash is an escape character.

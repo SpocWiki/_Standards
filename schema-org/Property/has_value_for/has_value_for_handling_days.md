@@ -33,7 +33,7 @@ Predicate to describe the Quantity of ShippingDeliveryTime.
 
 Use it like this: 
 - #has_/value_for_/handling_days :: QuantitativeValue   
-- #has_value_for_handling_days :: QuantitativeValue   
+- has_value_for_handling_days :: QuantitativeValue   
 
 The typical delay between the receipt of the order and the goods either leaving the warehouse or being prepared for pickup, in case the delivery method is on site pickup. Typical properties: minValue, maxValue, unitCode (d for DAY).  This is by common convention assumed to mean business days (if a unitCode is used, coded as "d"), i.e. only counting days when the business normally operates.
 

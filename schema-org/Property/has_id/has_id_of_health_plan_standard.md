@@ -37,7 +37,7 @@ Predicate to describe the Text of HealthInsurancePlan.
 
 Use it like this: 
 - #has_/id_of_/health_plan_standard :: Text, URL   
-- #has_id_of_health_plan_standard :: Text, URL   
+- has_id_of_health_plan_standard :: Text, URL   
 
 The standard for interpreting the Plan ID. The preferred is "HIOS". 
 See the Centers for Medicare & Medicaid Services for more details.

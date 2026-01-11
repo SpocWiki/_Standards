@@ -40,7 +40,7 @@ Predicate to describe the Quantity of NutritionInformation.
 
 Use it like this: 
 - #has_/value_for_/sugar :: Mass 
-- #has_value_for_sugar :: Mass 
+- has_value_for_sugar :: Mass 
 
 The number of grams of sugar.
 

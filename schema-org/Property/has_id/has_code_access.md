@@ -34,7 +34,7 @@ Predicate to describe the Text of DeliveryEvent.
 
 Use it like this: 
 - #has_/text_of_/access_code :: Text   
-- #has_code_access :: Text   
+- has_code_access :: Text   
 
 Password, PIN, or access code needed for delivery (e.g. from a locker).
 

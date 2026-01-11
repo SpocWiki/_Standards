@@ -33,7 +33,7 @@ Predicate to describe the Quantity of Vehicle.
 
 Use it like this: 
 - #has_/value_for_/wheelbase :: QuantitativeValue   
-- #has_value_for_wheelbase :: QuantitativeValue   
+- has_value_for_wheelbase :: QuantitativeValue   
 
 The distance between the centers of the front and rear wheels.
 

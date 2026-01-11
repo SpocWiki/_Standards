@@ -33,7 +33,7 @@ Predicate to describe the Number of CDCPMDRecord.
 
 Use it like this: 
 - #has_/number_of_/Covid_c19died :: Number   
-- #has_number_of_Covid_c19died :: Number   
+- has_number_of_Covid_c19died :: Number   
 
 numc19died - DEATHS: Patients with suspected or confirmed COVID-19 who died in the hospital, ED, or any overflow location.
 

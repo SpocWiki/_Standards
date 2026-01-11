@@ -65,7 +65,7 @@ Predicate to describe the Text of [[../../../Earth/Geography/Place/Accommodation
 
 Use it like this: 
 - #has_/usage_/permitted = `=this.dv_has_usage_permitted`  
-- #has_usage_permitted = `=this.dv_has_usage_permitted`  
+- has_usage_permitted = `=this.dv_has_usage_permitted`  
 
 Indications regarding the permitted usage of the [[../../../Earth/Geography/Place/Accommodation|Accommodation]].
 

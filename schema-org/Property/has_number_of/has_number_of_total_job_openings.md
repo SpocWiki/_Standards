@@ -33,7 +33,7 @@ Predicate to describe the Number of JobPosting.
 
 Use it like this: 
 - #has_/number_of_/total_job_openings :: Integer   
-- #has_number_of_total_job_openings :: Integer   
+- has_number_of_total_job_openings :: Integer   
 
 The number of positions open for this job posting. Use a positive integer. Do not use if the number of positions is unclear or not known.
 

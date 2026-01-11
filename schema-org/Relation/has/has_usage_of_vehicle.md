@@ -38,7 +38,7 @@ type: Predi_Relation
 
 Use it like this: 
 - #has_/usage_/of_vehicle :: [[../../Enumeration/Car_Usage_Type|CarUsageType]], Text 
-- #has_usage_of_vehicle :: [[../../Enumeration/Car_Usage_Type|CarUsageType]], Text 
+- has_usage_of_vehicle :: [[../../Enumeration/Car_Usage_Type|CarUsageType]], Text 
 
 Indicates whether the vehicle has been used for special purposes, like 
 commercial rental, driving school, or as a taxi. 

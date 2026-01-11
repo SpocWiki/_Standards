@@ -33,7 +33,7 @@ Properties are denoted with a starting `P`, followed by an integer.
 
 Use it like this: 
 - #has_/id_/wikidata :: Text   
-- #has_id_wikidata :: Text   
+- has_id_wikidata :: Text   
 
 Predicated describes that: 
 

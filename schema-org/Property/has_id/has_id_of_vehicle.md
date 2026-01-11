@@ -33,7 +33,7 @@ Predicate to describe the Text of Vehicle.
 
 Use it like this: 
 - #has_/id_of_/vehicle :: Text   
-- #has_id_of_vehicle :: Text   
+- has_id_of_vehicle :: Text   
 
 The Vehicle Identification Number (VIN) is a unique serial number used by the automotive industry to identify individual motor vehicles.
 

@@ -33,7 +33,7 @@ Predicate to describe the Number of CDCPMDRecord.
 
 Use it like this: 
 - #has_/number_of_/Covid_c19ho_patients :: Number   
-- #has_number_of_Covid_c19ho_patients :: Number   
+- has_number_of_Covid_c19ho_patients :: Number   
 
 numc19hopats - HOSPITAL ONSET: Patients hospitalized in an NHSN inpatient care location with onset of suspected or confirmed COVID-19 14 or more days after hospitalization.
 

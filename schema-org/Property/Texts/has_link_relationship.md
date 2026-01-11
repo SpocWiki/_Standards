@@ -35,7 +35,7 @@ Predicate to describe the Text of LinkRole.
 
 Use it like this: 
 - #has_/text_of_/link_relationship :: Text   
-- #has_text_of_link_relationship :: Text   
+- has_text_of_link_relationship :: Text   
 
 Indicates the relationship type of a Web link.
 
