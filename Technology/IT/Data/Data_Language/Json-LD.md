@@ -57,29 +57,29 @@ or put into a separate file and referenced
 All Meta-Attributes start with an `@`. 
 In YAML you can use a `$`, because that can be aliased to `@`.  
 
-| Name       | Purpose                                                                                             |
-| ---------- | --------------------------------------------------------------------------------------------------- |
-| @context   | Defines the context for the JSON-LD document, mapping key-prefixes to their IRIs                    |
-| @vocab     | Defines the Default Schema for Key-URIs without Prefix.                                             |
-| @type      | Specifies the type of an entity                                                                     |
-| @id        | Provides a unique identifier for an entity                                                          |
-| @base      | Defines the base URI for the URLs in a JSON-LD document, e.g. $id Values                            |
-| @value     | Represents the value of a property                                                                  |
-| @language  | Specifies the language of a string value                                                            |
-| @list      | Indicates that a property value should be treated as a list                                         |
-| @reverse   | Specifies a reverse property, used in describing relationships                                      |
-| @set       | Specifies that a value should be interpreted as a set.                                              |
-| @index     | Specifies an index for ordering elements in a list or set.                                          |
-| @direction | base text direction for string values.                                                              |
-| @included  | Indicates that a node should be included <br>even if it does not appear as the value of a property. |
-| @graph     | Specifies a named graph in a JSON-LD document.                                                      |
-| @iri       | specify the IRI of a property or value.                                                             |
-| @prefix    | prefix to be used in term definitions within a context                                              |
-| @protected | Prevents properties from being removed during compaction.                                           |
-|            |                                                                                                     |
+| Name       | Purpose                                                                                             | XML/RDF                   |
+| ---------- | --------------------------------------------------------------------------------------------------- | ------------------------- |
+| @context   | Defines the context for the JSON-LD document, mapping key-prefixes to their IRIs                    | xml:namespace             |
+| @vocab     | Defines the Default Schema for Key-URIs without Prefix.                                             | xml:default namespace     |
+| @type      | Specifies the type of an entity                                                                     | `<rdf:type>`              |
+| @id        | Provides a unique identifier for an entity                                                          | rdf:Description rdf:about |
+| @base      | Defines the base URI for the URLs in a JSON-LD document, e.g. $id Values                            | xml:base                  |
+| @value     | Represents the value of a property                                                                  | Literal                   |
+| @language  | Specifies the language of a string value                                                            | xml:lang                  |
+| @list      | Indicates that a property value should be treated as a list                                         | rdf:List                  |
+| @reverse   | Specifies a reverse property, used in describing relationships                                      | Inverse property          |
+| @set       | Specifies that a value should be interpreted as a set.                                              | Multiple triples          |
+| @index     | Specifies an index for ordering elements in a list or set.                                          | Dataset index metadata    |
+| @direction | base text direction for string values.                                                              |                           |
+| @included  | Indicates that a node should be included <br>even if it does not appear as the value of a property. |                           |
+| @graph     | Specifies a named graph in a JSON-LD document.                                                      |                           |
+| @iri       | specify the IRI of a property or value.                                                             |                           |
+| @prefix    | prefix to be used in term definitions within a context                                              |                           |
+| @protected | Prevents properties from being removed during compaction.                                           |                           |
+| @container | Group semantics                                                                                     | rdf:List                  |
 
 JSON requires Quotes around Keys and YAML requires a Space after the Colon. 
-That allows for using colon:Prefixes in Yaml-Keys for Abbreviation. 
+**Both allow for using colon:Prefixes in Xml/Yaml/Json-Keys** for Abbreviation. 
 These are later expanded to full URIs.
 
 ``` xml.rdf
