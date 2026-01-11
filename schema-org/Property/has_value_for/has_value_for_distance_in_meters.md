@@ -3,8 +3,8 @@ aliases:
   - distance
   - distance
   - distance
-  - has_value_for_distance_in_meters
-  - has value for distance in meters
+  - has_value_for_distance
+  - has value for distance
 confidential: public
 cssclasses:
   - Predicate
@@ -27,39 +27,39 @@ title: has_distance
 type: Predi_Quantity
 dv_has_:
   value_for_:
-    distance_in_meters: Distance
+    distance: Number
   domain: ExerciseAction, TravelAction
-dv_has_value_for_distance_in_meters: Distance
+dv_has_value_for_distance: Distance
 dv_#has_:
-  name: has_value_for_distance_in_meters
+  name: has_value_for_distance
   range: Distance
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_distance_in_meters|has_value_for_distance_in_meters]]"
-    - "[[/_public/schema-org/Property/has_value_for/has_value_for_distance_in_meters.public|has_value_for_distance_in_meters.public]]"
-    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_distance_in_meters.internal|has_value_for_distance_in_meters.internal]]"
-    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_distance_in_meters.protect|has_value_for_distance_in_meters.protect]]"
-    - "[[/_private/schema-org/Property/has_value_for/has_value_for_distance_in_meters.private|has_value_for_distance_in_meters.private]]"
-    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_distance_in_meters.personal|has_value_for_distance_in_meters.personal]]"
-    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_distance_in_meters.secret|has_value_for_distance_in_meters.secret]]"
+    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_distance|has_value_for_distance]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_distance.public|has_value_for_distance.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_distance.internal|has_value_for_distance.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_distance.protect|has_value_for_distance.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_distance.private|has_value_for_distance.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_distance.personal|has_value_for_distance.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_distance.secret|has_value_for_distance.secret]]"
 dv_has_domain: ExerciseAction, TravelAction
-dv_has_name: has_value_for_distance_in_meters
+dv_has_name: has_value_for_distance
 dv_has_range: Distance
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_distance_in_meters|has_value_for_distance_in_meters]]"
-  - "[[/_public/schema-org/Property/has_value_for/has_value_for_distance_in_meters.public|has_value_for_distance_in_meters.public]]"
-  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_distance_in_meters.internal|has_value_for_distance_in_meters.internal]]"
-  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_distance_in_meters.protect|has_value_for_distance_in_meters.protect]]"
-  - "[[/_private/schema-org/Property/has_value_for/has_value_for_distance_in_meters.private|has_value_for_distance_in_meters.private]]"
-  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_distance_in_meters.personal|has_value_for_distance_in_meters.personal]]"
-  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_distance_in_meters.secret|has_value_for_distance_in_meters.secret]]"
+  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_distance|has_value_for_distance]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_distance.public|has_value_for_distance.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_distance.internal|has_value_for_distance.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_distance.protect|has_value_for_distance.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_distance.private|has_value_for_distance.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_distance.personal|has_value_for_distance.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_distance.secret|has_value_for_distance.secret]]"
 ---
 
 Predicate to describe the Quantity of ExerciseAction, TravelAction.
 
 Use it like this: 
-- has_value_for_distance_in_meters = `=this.dv_has_value_for_distance_in_meters`  
-- has_value_for_distance_in_meters = `=this.dv_has_value_for_distance_in_meters`  
+- has_value_for_distance = `=this.dv_has_value_for_distance`  
+- has_value_for_distance = `=this.dv_has_value_for_distance`  
 
 The distance travelled, e.g. exercising or travelling.
 
@@ -73,17 +73,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_distance_in_meters|has_value_for_distance_in_meters]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_distance|has_value_for_distance]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_distance_in_meters.public|has_value_for_distance_in_meters.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_distance.public|has_value_for_distance.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_distance_in_meters.internal|has_value_for_distance_in_meters.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_distance.internal|has_value_for_distance.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_distance_in_meters.protect|has_value_for_distance_in_meters.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_distance.protect|has_value_for_distance.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_distance_in_meters.private|has_value_for_distance_in_meters.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_distance.private|has_value_for_distance.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_distance_in_meters.personal|has_value_for_distance_in_meters.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_distance.personal|has_value_for_distance.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_distance_in_meters.secret|has_value_for_distance_in_meters.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_distance.secret|has_value_for_distance.secret]] 
 

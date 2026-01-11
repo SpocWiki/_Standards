@@ -54,7 +54,8 @@ dv_is_same_as:
 Class of all distance-Values/Measurements.
 
 Tag Instances like this: 
-#has_/value_for_/distance_in_meters 
+#has_/value_for_/distance 
+#has_/value_for_/distance_/m 
 
 Properties that take Distances as values are of the form '<Number> <Length unit of measure>'. E.g., '7 ft'.
 

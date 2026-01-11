@@ -3,8 +3,10 @@ aliases:
   - depth
   - depth
   - depth
-  - has_value_for_depth_in_meters
-  - has value for depth in meters
+  - has_value_for_depth
+  - has value for depth 
+  - has_value_for_depth_m
+  - has value for depth m
 confidential: public
 cssclasses:
   - Predicate
@@ -27,39 +29,39 @@ title: has_depth
 type: Predi_Quantity
 dv_has_:
   value_for_:
-    depth_in_meters: Distance, QuantitativeValue
+    depth: QuantitativeValue
   domain: OfferShippingDetails, Product, VisualArtwork
-dv_has_value_for_depth_in_meters: Distance, QuantitativeValue
+dv_has_value_for_depth: QuantitativeValue
 dv_#has_:
-  name: has_value_for_depth_in_meters
-  range: Distance, QuantitativeValue
+  name: has_value_for_depth
+  range: QuantitativeValue
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_depth_in_meters|has_value_for_depth_in_meters]]"
-    - "[[/_public/schema-org/Property/has_value_for/has_value_for_depth_in_meters.public|has_value_for_depth_in_meters.public]]"
-    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_depth_in_meters.internal|has_value_for_depth_in_meters.internal]]"
-    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_depth_in_meters.protect|has_value_for_depth_in_meters.protect]]"
-    - "[[/_private/schema-org/Property/has_value_for/has_value_for_depth_in_meters.private|has_value_for_depth_in_meters.private]]"
-    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_depth_in_meters.personal|has_value_for_depth_in_meters.personal]]"
-    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_depth_in_meters.secret|has_value_for_depth_in_meters.secret]]"
+    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_depth|has_value_for_depth]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_depth.public|has_value_for_depth.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_depth.internal|has_value_for_depth.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_depth.protect|has_value_for_depth.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_depth.private|has_value_for_depth.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_depth.personal|has_value_for_depth.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_depth.secret|has_value_for_depth.secret]]"
 dv_has_domain: OfferShippingDetails, Product, VisualArtwork
-dv_has_name: has_value_for_depth_in_meters
+dv_has_name: has_value_for_depth
 dv_has_range: Distance, QuantitativeValue
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_depth_in_meters|has_value_for_depth_in_meters]]"
-  - "[[/_public/schema-org/Property/has_value_for/has_value_for_depth_in_meters.public|has_value_for_depth_in_meters.public]]"
-  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_depth_in_meters.internal|has_value_for_depth_in_meters.internal]]"
-  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_depth_in_meters.protect|has_value_for_depth_in_meters.protect]]"
-  - "[[/_private/schema-org/Property/has_value_for/has_value_for_depth_in_meters.private|has_value_for_depth_in_meters.private]]"
-  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_depth_in_meters.personal|has_value_for_depth_in_meters.personal]]"
-  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_depth_in_meters.secret|has_value_for_depth_in_meters.secret]]"
+  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_depth|has_value_for_depth]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_depth.public|has_value_for_depth.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_depth.internal|has_value_for_depth.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_depth.protect|has_value_for_depth.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_depth.private|has_value_for_depth.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_depth.personal|has_value_for_depth.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_depth.secret|has_value_for_depth.secret]]"
 ---
 
 Predicate to describe the Quantity of OfferShippingDetails, Product, VisualArtwork.
 
 Use it like this: 
-- has_value_for_depth_in_meters = `=this.dv_has_value_for_depth_in_meters`  
-- has_value_for_depth_in_meters = `=this.dv_has_value_for_depth_in_meters`  
+- has_value_for_depth = `=this.dv_has_value_for_depth`  
+- has_value_for_depth = `=this.dv_has_value_for_depth`  
 
 The depth of the item.
 
@@ -73,17 +75,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_depth_in_meters|has_value_for_depth_in_meters]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_depth|has_value_for_depth]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_depth_in_meters.public|has_value_for_depth_in_meters.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_depth.public|has_value_for_depth.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_depth_in_meters.internal|has_value_for_depth_in_meters.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_depth.internal|has_value_for_depth.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_depth_in_meters.protect|has_value_for_depth_in_meters.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_depth.protect|has_value_for_depth.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_depth_in_meters.private|has_value_for_depth_in_meters.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_depth.private|has_value_for_depth.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_depth_in_meters.personal|has_value_for_depth_in_meters.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_depth.personal|has_value_for_depth.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_depth_in_meters.secret|has_value_for_depth_in_meters.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_depth.secret|has_value_for_depth.secret]] 
 

@@ -90,17 +90,17 @@ fields:
     options: {}
     path: ''
     id: IgyCpw
-  - name: has_shape_length_in_meters
+  - name: has_shape_length
     type: Number
     options: {}
     path: ''
     id: dycYVt
-  - name: has_shape_width_in_meters
+  - name: has_shape_width
     type: Number
     options: {}
     path: ''
     id: X2X8SI
-  - name: has_shape_height_in_meters
+  - name: has_shape_height
     type: Number
     options: {}
     path: ''
