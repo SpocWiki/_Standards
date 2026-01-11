@@ -40,7 +40,7 @@ title: has_vertical-weight
 type: Predi_Quantity
 ---
 
-# [[has_value_for_weight_vertical]] 
+# [[has_value_for_load_vertical]] 
 
 Predicate to describe a Quantity of Vehicle.
 
