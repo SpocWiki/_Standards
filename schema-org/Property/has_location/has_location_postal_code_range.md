@@ -41,8 +41,8 @@ Predicate describes that:
 
 #has_/domain  :: DefinedRegion  
 
-( #has_/name :: has_location_postal_code_range )
-( #has_/range :: PostalCodeRangeSpecification )
+(has_/name :: has_location_postal_code_range )
+(has_/range :: PostalCodeRangeSpecification )
 
 
 ## Confidential Links & Embeds: 

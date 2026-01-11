@@ -42,8 +42,8 @@ Predicate describes that:
 
 #has_/domain  :: 3DModel  
 
-( #has_/name :: is_resizable )
-( #has_/range :: Boolean )
+(has_/name :: is_resizable )
+(has_/range :: Boolean )
 
 
 ## Confidential Links & Embeds: 

@@ -39,8 +39,8 @@ Predicate describes that:
 
 #has_/domain  :: Demand, Offer  
 
-( #has_/name :: has_location_available_at_or_from )
-( #has_/range :: Place )
+(has_/name :: has_location_available_at_or_from )
+(has_/range :: Place )
 
 #is_/sub_property_of  :: areaServed  
 

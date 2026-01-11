@@ -51,8 +51,8 @@ Typical unit code(s): KGM for kilogram, LBR for pound
 Predicate describes that: 
 
 #has_/domain  :: [[../../../Technology/Transport/Road_Transport/Bus_or_Coach|Bus_or_Coach]], [[../../../Technology/Transport/Road_Transport/Car|Car]]   
-( #has_/name :: has_value_for_load_on_roof )
-( #has_/range :: QuantitativeValue )
+(has_/name :: has_value_for_load_on_roof )
+(has_/range :: QuantitativeValue )
 
 
 ## Confidential Links & Embeds: 

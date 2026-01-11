@@ -43,8 +43,8 @@ Predicated describes that:
 
 #has_/domain  :: Rating  
 
-( #has_/name :: has_text_of_rating_explanation )
-( #has_/range :: Text )
+(has_/name :: has_text_of_rating_explanation )
+(has_/range :: Text )
 
 
 ## Confidential Links & Embeds: 

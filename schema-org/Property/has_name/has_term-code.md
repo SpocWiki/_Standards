@@ -43,8 +43,8 @@ Predicated describes that:
 
 #has_/domain  :: [[../../Relation/has/has_defined_term|defined_term]]  
 
-( #has_/name :: has_text_of_term_code )
-( #has_/range :: text )
+(has_/name :: has_text_of_term_code )
+(has_/range :: text )
 
 #has_/sub_properties :: [ [[../has_id/has_code_value]] ]
 

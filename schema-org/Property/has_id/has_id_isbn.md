@@ -40,8 +40,8 @@ Predicated describes that:
 
 #has_/domain  :: Book  
 
-( #has_/name :: has_id_isbn )
-( #has_/range :: Text )
+(has_/name :: has_id_isbn )
+(has_/range :: Text )
 
 #is_/sub_property_of  :: identifier  
 

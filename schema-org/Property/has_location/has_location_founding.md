@@ -39,8 +39,8 @@ Predicate describes that:
 
 #has_/domain  :: Organization  
 
-( #has_/name :: has_location_founding )
-( #has_/range :: Place )
+(has_/name :: has_location_founding )
+(has_/range :: Place )
 
 
 ## Confidential Links & Embeds: 

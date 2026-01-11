@@ -43,8 +43,8 @@ Predicated describes that:
 
 #has_/domain  :: Organization, Person  
 
-( #has_/name :: has_text_of_knows_about )
-( #has_/range :: Text, Thing, URL )
+(has_/name :: has_text_of_knows_about )
+(has_/range :: Text, Thing, URL )
 
 
 ## Confidential Links & Embeds: 

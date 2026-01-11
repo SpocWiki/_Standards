@@ -40,8 +40,8 @@ Predicate describes that:
 
 #has_/domain  :: ExerciseAction  
 
-( #has_/name :: has_location_exercise_course )
-( #has_/range :: Place )
+(has_/name :: has_location_exercise_course )
+(has_/range :: Place )
 
 #is_/sub_property_of  :: location  
 

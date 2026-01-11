@@ -40,8 +40,8 @@ Predicated describes that:
 
 #has_/domain  :: DoseSchedule  
 
-( #has_/name :: has_text_of_frequency )
-( #has_/range :: Text )
+(has_/name :: has_text_of_frequency )
+(has_/range :: Text )
 
 #has_/sub_properties :: [ repeatFrequency ]  
 

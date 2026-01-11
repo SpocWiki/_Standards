@@ -48,8 +48,8 @@ The number of grams of [[../../../bio/Metabolism/Nutrition/Fat/Unsaturated_Fat|U
 Predicate describes that: 
 
 #has_/domain :: [[../../Class/is_a_/Intangible/Structured_Value/Nutrition_Information|Nutrition_Information]] 
-( #has_/name :: has_value_for_fat_unsaturated )
-( #has_/range :: Mass )
+(has_/name :: has_value_for_fat_unsaturated )
+(has_/range :: Mass )
 
 
 ## Confidential Links & Embeds: 

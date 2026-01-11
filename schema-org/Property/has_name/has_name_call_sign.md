@@ -42,8 +42,8 @@ Predicated describes that:
 
 #has_/domain  :: BroadcastService, Person, Vehicle  
 
-( #has_/name :: has_name_call_sign )
-( #has_/range :: Text )
+(has_/name :: has_name_call_sign )
+(has_/range :: Text )
 
 #is_/sub_property_of  :: identifier  
 

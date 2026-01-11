@@ -45,8 +45,8 @@ Predicated describes that:
 
 #has_/domain  :: HealthPlanCostSharingSpecification  
 
-( #has_/name :: has_text_of_health_plan_coinsurance_option )
-( #has_/range :: Text )
+(has_/name :: has_text_of_health_plan_coinsurance_option )
+(has_/range :: Text )
 
 
 ## Confidential Links & Embeds: 

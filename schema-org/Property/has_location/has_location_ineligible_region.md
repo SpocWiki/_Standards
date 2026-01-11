@@ -45,8 +45,8 @@ Predicate describes that:
 
 #has_/domain  :: ActionAccessSpecification, DeliveryChargeSpecification, Demand, MediaObject, Offer  
 
-( #has_/name :: has_location_ineligible_region )
-( #has_/range :: GeoShape, Place, Text )
+(has_/name :: has_location_ineligible_region )
+(has_/range :: GeoShape, Place, Text )
 
 
 ## Confidential Links & Embeds: 

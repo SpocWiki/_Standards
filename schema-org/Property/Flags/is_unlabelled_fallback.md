@@ -42,8 +42,8 @@ Predicate describes that:
 
 #has_/domain  :: DeliveryTimeSettings, ShippingRateSettings  
 
-( #has_/name :: is_unlabelled_fallback )
-( #has_/range :: Boolean )
+(has_/name :: is_unlabelled_fallback )
+(has_/range :: Boolean )
 
 
 ## Confidential Links & Embeds: 

@@ -44,8 +44,8 @@ Predicated describes that:
 
 #has_/domain  :: Accommodation  
 
-( #has_/name :: has_text_of_floor_level )
-( #has_/range :: Text )
+(has_/name :: has_text_of_floor_level )
+(has_/range :: Text )
 
 
 ## Confidential Links & Embeds: 

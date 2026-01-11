@@ -41,8 +41,8 @@ Predicated describes that:
 
 #has_/domain  :: [Thing](../../Class/Thing.md)  
 
-( #has_/name :: has_text_of_disambiguating_description )
-( #has_/range :: Text )
+(has_/name :: has_text_of_disambiguating_description )
+(has_/range :: Text )
 
 #is_/sub_property_of  :: description  
 

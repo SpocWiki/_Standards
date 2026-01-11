@@ -39,8 +39,8 @@ Predicate describes that:
 
 #has_/domain  :: CreativeWork  
 
-( #has_/name :: has_location_content )
-( #has_/range :: Place )
+(has_/name :: has_location_content )
+(has_/range :: Place )
 
 #has_/sub_properties :: [ spatialCoverage ]  
 

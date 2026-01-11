@@ -44,8 +44,8 @@ Predicated describes that:
 
 #has_/domain  :: CDCPMDRecord  
 
-( #has_/name :: has_text_of_cvd_facility_county )
-( #has_/range :: Text )
+(has_/name :: has_text_of_cvd_facility_county )
+(has_/range :: Text )
 
 
 ## Confidential Links & Embeds: 

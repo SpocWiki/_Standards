@@ -33,7 +33,7 @@ Predicate to describe the Quantity of MerchantReturnPolicy.
 
 Use it like this: 
 - #has_/value_for_/restocking_fee :: MonetaryAmount, Number   
-- #has_/value_for_restocking_fee :: MonetaryAmount, Number   
+- #has_value_for_restocking_fee :: MonetaryAmount, Number   
 
 Use [[MonetaryAmount]] to specify a fixed restocking fee for product returns, or use[[../../Class/is_a_/data_type/number]]] to specify a percentage of the product price paid by the customer.
 
@@ -41,8 +41,8 @@ Predicate describes that:
 
 #has_/domain  :: MerchantReturnPolicy  
 
-( #has_/name :: has_value_for_restocking_fee )
-( #has_/range :: MonetaryAmount, Number )
+(has_/name :: has_value_for_restocking_fee )
+(has_/range :: MonetaryAmount, Number )
 
 
 ## Confidential Links & Embeds: 

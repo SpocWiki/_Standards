@@ -45,8 +45,8 @@ Predicated describes that:
 
 #has_/domain  :: ComicIssue  
 
-( #has_/name :: has_text_of_variant_cover )
-( #has_/range :: Text )
+(has_/name :: has_text_of_variant_cover )
+(has_/range :: Text )
 
 
 ## Confidential Links & Embeds: 

@@ -46,8 +46,8 @@ Predicate describes that:
 
 #has_/domain  :: {{domainIncludes}}  
 
-( #has_/name :: has_value_for_{{has_label_snail}} )
-( #has_/range :: {{rangeIncludes}} )
+(has_/name :: has_value_for_{{has_label_snail}} )
+(has_/range :: {{rangeIncludes}} )
 
 #is_/inverse_of  :: {{inverseOf}}  
 

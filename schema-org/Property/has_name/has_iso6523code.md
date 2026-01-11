@@ -48,8 +48,8 @@ Predicated describes that:
 
 #has_/domain  :: Organization  
 
-( #has_/name :: has_text_of_iso6523code )
-( #has_/range :: Text )
+(has_/name :: has_text_of_iso6523code )
+(has_/range :: Text )
 
 
 ## Confidential Links & Embeds: 

@@ -44,8 +44,8 @@ Predicated describes that:
 
 #has_/domain  :: BankAccount  
 
-( #has_/name :: has_text_of_bank_account_type )
-( #has_/range :: Text, URL )
+(has_/name :: has_text_of_bank_account_type )
+(has_/range :: Text, URL )
 
 
 ## Confidential Links & Embeds: 

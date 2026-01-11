@@ -39,8 +39,8 @@ Predicate describes that:
 
 #has_/domain  :: PublicationIssue  
 
-( #has_/name :: has_number_of_issue )
-( #has_/range :: Integer, Text )
+(has_/name :: has_number_of_issue )
+(has_/range :: Integer, Text )
 
 #is_/sub_property_of  :: position  
 

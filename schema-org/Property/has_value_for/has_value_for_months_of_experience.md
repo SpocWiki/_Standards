@@ -33,7 +33,7 @@ Predicate to describe the Quantity of OccupationalExperienceRequirements.
 
 Use it like this: 
 - #has_/value_for_/months_of_experience :: Number   
-- #has_/value_for_months_of_experience :: Number   
+- #has_value_for_months_of_experience :: Number   
 
 Indicates the minimal number of months of experience required for a position.
 
@@ -41,8 +41,8 @@ Predicate describes that:
 
 #has_/domain  :: OccupationalExperienceRequirements  
 
-( #has_/name :: has_value_for_months_of_experience )
-( #has_/range :: Number )
+(has_/name :: has_value_for_months_of_experience )
+(has_/range :: Number )
 
 
 ## Confidential Links & Embeds: 

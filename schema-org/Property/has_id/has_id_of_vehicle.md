@@ -40,8 +40,8 @@ The Vehicle Identification Number (VIN) is a unique serial number used by the au
 Predicated describes that: 
 
 #has_/domain  :: [[../../../Technology/Transport/Vehicle|Vehicle]]  
-( #has_/name :: has_id_of_vehicle )
-( #has_/range :: Text )
+(has_/name :: has_id_of_vehicle )
+(has_/range :: Text )
 
 #is_/sub_property_of  :: serialNumber  
 

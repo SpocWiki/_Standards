@@ -42,8 +42,8 @@ Predicate describes that:
 
 #has_/domain  :: LoanOrCredit  
 
-( #has_/name :: is_loan_recourseable )
-( #has_/range :: Boolean )
+(has_/name :: is_loan_recourseable )
+(has_/range :: Boolean )
 
 
 ## Confidential Links & Embeds: 

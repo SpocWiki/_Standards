@@ -56,8 +56,8 @@ Predicated describes that:
 
 #has_/domain  :: DataCatalog, DataDownload, Dataset, PropertyValue  
 
-( #has_/name :: has_text_of_measurement_technique )
-( #has_/range :: Text, URL )
+(has_/name :: has_text_of_measurement_technique )
+(has_/range :: Text, URL )
 
 
 ## Confidential Links & Embeds: 

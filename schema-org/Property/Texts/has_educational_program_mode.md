@@ -44,8 +44,8 @@ Predicated describes that:
 
 #has_/domain  :: EducationalOccupationalProgram  
 
-( #has_/name :: has_text_of_educational_program_mode )
-( #has_/range :: Text, URL )
+(has_/name :: has_text_of_educational_program_mode )
+(has_/range :: Text, URL )
 
 
 ## Confidential Links & Embeds: 

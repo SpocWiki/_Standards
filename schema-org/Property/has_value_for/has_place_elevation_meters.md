@@ -54,8 +54,8 @@ Predicate describes that:
 
 #has_/domain  :: [[../../Class/is_a_/Intangible/structured_value/geo_coordinates|GeoCoordinates]], [[../../Class/is_a_/Intangible/structured_value/geo_shape|GeoShape]]  
 
-( #has_/name :: has_place_elevation )
-( #has_/range :: [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]] )
+(has_/name :: has_place_elevation )
+(has_/range :: [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]] )
 
 
 ## Confidential Links & Embeds: 

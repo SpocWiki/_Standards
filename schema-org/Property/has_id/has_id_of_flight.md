@@ -40,8 +40,8 @@ Predicated describes that:
 
 #has_/domain  :: Flight  
 
-( #has_/name :: has_id_of_flight )
-( #has_/range :: Text )
+(has_/name :: has_id_of_flight )
+(has_/range :: Text )
 
 #is_/sub_property_of  :: identifier  
 

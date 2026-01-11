@@ -41,8 +41,8 @@ Predicate describes that:
 
 #has_/domain  :: GeospatialGeometry, Place  
 
-( #has_/name :: has_location_that_overlaps_with )
-( #has_/range :: GeospatialGeometry, Place )
+(has_/name :: has_location_that_overlaps_with )
+(has_/range :: GeospatialGeometry, Place )
 
 
 [[../../../schema-org|schema-org]] also defines the largely equivalent Relations

@@ -41,8 +41,8 @@ Predicate describes that:
 
 #has_/domain  :: SpecialAnnouncement  
 
-( #has_/name :: has_url_for_quarantine_guidelines )
-( #has_/range :: URL, WebContent )
+(has_/name :: has_url_for_quarantine_guidelines )
+(has_/range :: URL, WebContent )
 
 
 ## Confidential Links & Embeds: 

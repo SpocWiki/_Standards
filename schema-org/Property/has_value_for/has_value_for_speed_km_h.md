@@ -33,7 +33,7 @@ Predicate to describe the Quantity of Vehicle.
 
 Use it like this: 
 - #has_/value_for_/speed_km_h :: QuantitativeValue   
-- #has_/value_for_speed_km_h :: QuantitativeValue   
+- #has_value_for_speed_km_h :: QuantitativeValue   
 
 The speed range of the vehicle. If the vehicle is powered by an engine, the upper limit of the speed range (indicated by [[maxValue]]) should be the maximum speed achievable under regular conditions.
 
@@ -48,9 +48,10 @@ Typical unit code(s): KMH for km/h, HM for mile per hour (0.447 04 m/s), KNT for
 
 Predicate describes that: 
 
-#has_/domain  :: [[../../../Technology/Transport/Vehicle|Vehicle]]  
-( #has_/name :: has_value_for_speed_km_h )
-( #has_/range :: QuantitativeValue )
+#has_/domain  :: Vehicle  
+
+(has_/name :: has_value_for_speed_km_h )
+(has_/range :: QuantitativeValue )
 
 
 ## Confidential Links & Embeds: 

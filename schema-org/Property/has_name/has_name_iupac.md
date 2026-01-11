@@ -42,8 +42,8 @@ Predicated describes that:
 
 #has_/domain  :: MolecularEntity  
 
-( #has_/name :: has_name_iupac )
-( #has_/range :: Text )
+(has_/name :: has_name_iupac )
+(has_/range :: Text )
 
 
 ## Confidential Links & Embeds: 

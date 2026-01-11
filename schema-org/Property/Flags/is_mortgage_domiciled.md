@@ -42,8 +42,8 @@ Predicate describes that:
 
 #has_/domain  :: MortgageLoan  
 
-( #has_/name :: is_mortgage_domiciled )
-( #has_/range :: Boolean )
+(has_/name :: is_mortgage_domiciled )
+(has_/range :: Boolean )
 
 
 ## Confidential Links & Embeds: 

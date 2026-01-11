@@ -40,8 +40,8 @@ Predicated describes that:
 
 #has_/domain  :: Demand, Offer, Product  
 
-( #has_/name :: has_text_of_gtin13 )
-( #has_/range :: Text )
+(has_/name :: has_text_of_gtin13 )
+(has_/range :: Text )
 
 #is_/sub_property_of  :: gtin, identifier  
 

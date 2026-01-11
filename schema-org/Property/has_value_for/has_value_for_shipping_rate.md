@@ -33,7 +33,7 @@ Predicate to describe the Quantity of OfferShippingDetails, ShippingRateSettings
 
 Use it like this: 
 - #has_/value_for_/shipping_rate :: MonetaryAmount   
-- #has_/value_for_shipping_rate :: MonetaryAmount   
+- #has_value_for_shipping_rate :: MonetaryAmount   
 
 The shipping rate is the cost of shipping to the specified destination. Typically, the maxValue and currency values (of the [[MonetaryAmount]]) are most appropriate.
 
@@ -41,8 +41,8 @@ Predicate describes that:
 
 #has_/domain  :: OfferShippingDetails, ShippingRateSettings  
 
-( #has_/name :: has_value_for_shipping_rate )
-( #has_/range :: MonetaryAmount )
+(has_/name :: has_value_for_shipping_rate )
+(has_/range :: MonetaryAmount )
 
 
 ## Confidential Links & Embeds: 

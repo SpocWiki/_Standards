@@ -50,8 +50,8 @@ Predicated describes that:
 
 #has_/domain  :: CreativeWork  
 
-( #has_/name :: has_id_entertain_edit )
-( #has_/range :: Text, URL )
+(has_/name :: has_id_entertain_edit )
+(has_/range :: Text, URL )
 
 #is_/sub_property_of  :: identifier  
 

@@ -41,8 +41,8 @@ Predicated describes that:
 
 #has_/domain  :: Drug  
 
-( #has_/name :: has_id_rxcui )
-( #has_/range :: Text )
+(has_/name :: has_id_rxcui )
+(has_/range :: Text )
 
 
 ## Confidential Links & Embeds: 

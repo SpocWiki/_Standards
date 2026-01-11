@@ -45,8 +45,8 @@ Predicated describes that:
 
 #has_/domain  :: Product  
 
-( #has_/name :: has_id_of_product_group )
-( #has_/range :: Text )
+(has_/name :: has_id_of_product_group )
+(has_/range :: Text )
 
 
 ## Confidential Links & Embeds: 

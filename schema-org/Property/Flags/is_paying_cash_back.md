@@ -42,8 +42,8 @@ Predicate describes that:
 
 #has_/domain  :: PaymentCard  
 
-( #has_/name :: is_paying_cash_back )
-( #has_/range :: Boolean, Number )
+(has_/name :: is_paying_cash_back )
+(has_/range :: Boolean, Number )
 
 
 ## Confidential Links & Embeds: 

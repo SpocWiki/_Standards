@@ -43,8 +43,8 @@ Predicated describes that:
 
 #has_/domain  :: CourseInstance  
 
-( #has_/name :: has_text_of_course_workload )
-( #has_/range :: Text )
+(has_/name :: has_text_of_course_workload )
+(has_/range :: Text )
 
 
 ## Confidential Links & Embeds: 

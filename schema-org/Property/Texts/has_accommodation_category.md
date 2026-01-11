@@ -43,8 +43,8 @@ Predicated describes that:
 
 #has_/domain  :: Accommodation  
 
-( #has_/name :: has_text_of_accommodation_category )
-( #has_/range :: Text )
+(has_/name :: has_text_of_accommodation_category )
+(has_/range :: Text )
 
 #is_/sub_property_of  :: category  
 

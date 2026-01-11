@@ -40,8 +40,8 @@ Predicated describes that:
 
 #has_/domain  :: Blog, CreativeWorkSeries, Dataset, WebSite  
 
-( #has_/name :: has_id_issn )
-( #has_/range :: Text )
+(has_/name :: has_id_issn )
+(has_/range :: Text )
 
 #is_/sub_property_of  :: identifier  
 

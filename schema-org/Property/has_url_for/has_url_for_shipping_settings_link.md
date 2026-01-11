@@ -41,8 +41,8 @@ Predicate describes that:
 
 #has_/domain  :: OfferShippingDetails  
 
-( #has_/name :: has_url_for_shipping_settings_link )
-( #has_/range :: URL )
+(has_/name :: has_url_for_shipping_settings_link )
+(has_/range :: URL )
 
 
 ## Confidential Links & Embeds: 

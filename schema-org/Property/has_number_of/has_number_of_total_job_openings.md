@@ -41,8 +41,8 @@ Predicate describes that:
 
 #has_/domain  :: JobPosting  
 
-( #has_/name :: has_number_of_total_job_openings )
-( #has_/range :: Integer )
+(has_/name :: has_number_of_total_job_openings )
+(has_/range :: Integer )
 
 
 ## Confidential Links & Embeds: 

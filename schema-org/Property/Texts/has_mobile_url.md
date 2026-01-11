@@ -45,8 +45,8 @@ Predicated describes that:
 
 #has_/domain  :: [[Offer](../../../Society/Agent/Community/Organization/Business/Offer.md), [Product](../../../Society/Agent/Community/Organization/Business/Product.md)]  
 
-( #has_/name :: has_text_of_mobile_url )
-( #has_/range :: Text )
+(has_/name :: has_text_of_mobile_url )
+(has_/range :: Text )
 
 
 ## Confidential Links & Embeds: 

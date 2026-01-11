@@ -42,8 +42,8 @@ Predicate describes that:
 
 #has_/domain  :: MedicalOrganization  
 
-( #has_/name :: is_accepting_new_patients )
-( #has_/range :: Boolean )
+(has_/name :: is_accepting_new_patients )
+(has_/range :: Boolean )
 
 
 ## Confidential Links & Embeds: 

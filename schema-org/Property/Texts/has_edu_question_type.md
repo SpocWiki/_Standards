@@ -44,8 +44,8 @@ Predicated describes that:
 
 #has_/domain  :: Question, SolveMathAction  
 
-( #has_/name :: has_text_of_edu_question_type )
-( #has_/range :: Text )
+(has_/name :: has_text_of_edu_question_type )
+(has_/range :: Text )
 
 
 ## Confidential Links & Embeds: 

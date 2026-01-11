@@ -43,8 +43,8 @@ Predicated describes that:
 
 #has_/domain  :: LinkRole  
 
-( #has_/name :: has_text_of_link_relationship )
-( #has_/range :: Text )
+(has_/name :: has_text_of_link_relationship )
+(has_/range :: Text )
 
 
 ## Confidential Links & Embeds: 

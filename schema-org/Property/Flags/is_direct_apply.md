@@ -42,8 +42,8 @@ Predicate describes that:
 
 #has_/domain  :: JobPosting  
 
-( #has_/name :: is_direct_apply )
-( #has_/range :: Boolean )
+(has_/name :: is_direct_apply )
+(has_/range :: Boolean )
 
 
 ## Confidential Links & Embeds: 

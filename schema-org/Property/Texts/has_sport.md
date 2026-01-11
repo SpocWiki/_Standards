@@ -42,8 +42,8 @@ Predicated describes that:
 
 #has_/domain  :: SportsEvent, SportsOrganization  
 
-( #has_/name :: has_text_of_sport )
-( #has_/range :: Text, URL )
+(has_/name :: has_text_of_sport )
+(has_/range :: Text, URL )
 
 
 ## Confidential Links & Embeds: 

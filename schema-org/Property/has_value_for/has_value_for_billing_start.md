@@ -41,8 +41,8 @@ Predicate describes that:
 
 #has_/domain  :: UnitPriceSpecification  
 
-( #has_/name :: has_value_for_billing_start )
-( #has_/range :: Number )
+(has_/name :: has_value_for_billing_start )
+(has_/range :: Number )
 
 
 ## Confidential Links & Embeds: 

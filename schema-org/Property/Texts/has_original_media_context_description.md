@@ -45,8 +45,8 @@ Predicated describes that:
 
 #has_/domain  :: MediaReview  
 
-( #has_/name :: has_text_of_original_media_context_description )
-( #has_/range :: Text )
+(has_/name :: has_text_of_original_media_context_description )
+(has_/range :: Text )
 
 #is_/sub_property_of  :: description  
 

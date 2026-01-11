@@ -30,7 +30,7 @@ type: Predi_Quantity
 # [[has_value_for_weight_of_trailer]] 
 
 #is_/part_of :: https://auto.schema.org  
-#is_/similar_to :: [[has_value_for_weight_vertical]] 
+#is_/similar_to :: [[has_value_for_weight_tongue]] 
 #has_/unit_for_/default :: [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Gram|Unit~Gram]] 
 
 The default [[../../../Dimension/Unit_of_Measure|Unit_of_Measure]]  are [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Gram|Unit~Gram]]s, unless specified different, either 
@@ -54,8 +54,8 @@ Typical unit code(s): KGM for kilogram, LBR for pound
 Predicate describes that: 
 
 #has_/domain  :: [[../../../Technology/Transport/Vehicle|Vehicle]]   
-( #has_/name :: has_value_for_weight_of_trailer )
-( #has_/range :: QuantitativeValue )
+(has_/name :: has_value_for_weight_of_trailer )
+(has_/range :: QuantitativeValue )
 
 
 ## Confidential Links & Embeds: 

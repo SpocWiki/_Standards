@@ -41,8 +41,8 @@ Predicate describes that:
 
 #has_/domain  :: RepaymentSpecification  
 
-( #has_/name :: has_value_for_early_prepayment_penalty )
-( #has_/range :: MonetaryAmount )
+(has_/name :: has_value_for_early_prepayment_penalty )
+(has_/range :: MonetaryAmount )
 
 
 ## Confidential Links & Embeds: 

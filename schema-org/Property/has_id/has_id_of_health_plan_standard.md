@@ -46,8 +46,8 @@ Predicated describes that:
 
 #has_/domain  :: HealthInsurancePlan  
 
-( #has_/name :: has_id_of_health_plan_standard )
-( #has_/range :: Text, URL )
+(has_/name :: has_id_of_health_plan_standard )
+(has_/range :: Text, URL )
 
 
 ## Confidential Links & Embeds: 

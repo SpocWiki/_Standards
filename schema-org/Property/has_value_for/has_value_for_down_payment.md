@@ -41,8 +41,8 @@ Predicate describes that:
 
 #has_/domain  :: RepaymentSpecification  
 
-( #has_/name :: has_value_for_down_payment )
-( #has_/range :: MonetaryAmount, Number )
+(has_/name :: has_value_for_down_payment )
+(has_/range :: MonetaryAmount, Number )
 
 
 ## Confidential Links & Embeds: 

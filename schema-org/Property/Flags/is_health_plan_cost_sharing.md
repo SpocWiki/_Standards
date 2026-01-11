@@ -42,8 +42,8 @@ Predicate describes that:
 
 #has_/domain  :: HealthPlanFormulary, HealthPlanNetwork  
 
-( #has_/name :: is_health_plan_cost_sharing )
-( #has_/range :: Boolean )
+(has_/name :: is_health_plan_cost_sharing )
+(has_/range :: Boolean )
 
 
 ## Confidential Links & Embeds: 

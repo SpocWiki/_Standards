@@ -46,8 +46,8 @@ The number of grams of [[../../../bio/Metabolism/Nutrition/Fat/Trans_Fat|Trans_F
 Predicate describes that: 
 
 #has_/domain :: [[../../Class/is_a_/Intangible/Structured_Value/Nutrition_Information|Nutrition_Information]] 
-( #has_/name :: has_value_for_fat_trans )
-( #has_/range :: Mass )
+(has_/name :: has_value_for_fat_trans )
+(has_/range :: Mass )
 
 
 ## Confidential Links & Embeds: 

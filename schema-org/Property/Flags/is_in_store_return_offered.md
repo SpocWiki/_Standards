@@ -42,8 +42,8 @@ Predicate describes that:
 
 #has_/domain  :: MerchantReturnPolicy  
 
-( #has_/name :: is_in_store_return_offered )
-( #has_/range :: Boolean )
+(has_/name :: is_in_store_return_offered )
+(has_/range :: Boolean )
 
 
 ## Confidential Links & Embeds: 

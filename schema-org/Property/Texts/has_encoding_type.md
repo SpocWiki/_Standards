@@ -48,8 +48,8 @@ Predicated describes that:
 
 #has_/domain  :: EntryPoint  
 
-( #has_/name :: has_text_of_encoding_type )
-( #has_/range :: Text )
+(has_/name :: has_text_of_encoding_type )
+(has_/range :: Text )
 
 
 ## Confidential Links & Embeds: 

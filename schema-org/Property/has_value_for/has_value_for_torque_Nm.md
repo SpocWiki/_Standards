@@ -35,7 +35,7 @@ Predicate to describe the Quantity of [[../../../fileClass/FileClass~Thing/FileC
 
 Use it like this: 
 - #has_/value_for_/torque_Nm :: QuantitativeValue   
-- #has_/value_for_torque_Nm :: QuantitativeValue   
+- #has_value_for_torque_Nm :: QuantitativeValue   
 
 The torque (turning force) of the vehicle's engine.
 
@@ -53,8 +53,8 @@ Predicate describes that:
 
 #has_/domain  :: EngineSpecification  
 
-( #has_/name :: has_value_for_torque_Nm )
-( #has_/range :: QuantitativeValue )
+(has_/name :: has_value_for_torque_Nm )
+(has_/range :: QuantitativeValue )
 
 
 ## Confidential Links & Embeds: 

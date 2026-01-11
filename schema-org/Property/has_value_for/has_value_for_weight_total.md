@@ -2,12 +2,9 @@
 aliases:
   - weight_total
   - weight-total
-  - weight total
-  - total weight 
   - weightTotal
   - has_value_for_weight_total
   - has value for weight total
-  - has total weight 
 confidential: public
 cssclasses:
   - Predicate
@@ -39,9 +36,8 @@ Predicate to describe the Quantity of Vehicle.
 #is_/part_of :: https://auto.schema.org  
 
 Use it like this: 
-- #has_/value_for_/weight_/total :: QuantitativeValue   
-- #has_/value_for_/weight_/total_/kilo_/gram :: QuantitativeValue   
-- #has_/value_for_weight_total :: QuantitativeValue   
+- #has_/value_for_/weight_total_/kg :: QuantitativeValue   
+- #has_value_for_weight_total_kg :: QuantitativeValue   
 
 The permitted total weight of the loaded vehicle, including passengers and cargo and the weight of the empty vehicle.
 
@@ -54,24 +50,25 @@ Typical unit code(s): KGM for kilogram, LBR for pound
 
 Predicate describes that: 
 
-#has_/domain  :: [[../../../Technology/Transport/Vehicle|Vehicle]] 
-( #has_/name :: has_value_for_weight_total )
-( #has_/range :: QuantitativeValue )
+#has_/domain  :: Vehicle  
+
+(has_/name :: has_value_for_weight_total_kg )
+(has_/range :: QuantitativeValue )
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_weight_total|has_value_for_weight_total]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_weight_total_kg|has_value_for_weight_total_kg]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_weight_total.public|has_value_for_weight_total.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_weight_total_kg.public|has_value_for_weight_total_kg.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_weight_total.internal|has_value_for_weight_total.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_weight_total_kg.internal|has_value_for_weight_total_kg.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_weight_total.protect|has_value_for_weight_total.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_weight_total_kg.protect|has_value_for_weight_total_kg.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_weight_total.private|has_value_for_weight_total.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_weight_total_kg.private|has_value_for_weight_total_kg.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_weight_total.personal|has_value_for_weight_total.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_weight_total_kg.personal|has_value_for_weight_total_kg.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_weight_total.secret|has_value_for_weight_total.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_weight_total_kg.secret|has_value_for_weight_total_kg.secret]] 
 

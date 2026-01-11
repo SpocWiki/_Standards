@@ -41,8 +41,8 @@ Predicated describes that:
 
 #has_/domain  :: [Thing](../../Class/Thing.md)  
 
-( #has_/name :: has_name_alternate )
-( #has_/range :: Text )
+(has_/name :: has_name_alternate )
+(has_/range :: Text )
 
 #has_/sub_properties :: [ [[has_name_additional|additionalName]] ]  
 

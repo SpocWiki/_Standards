@@ -39,8 +39,8 @@ Predicate describes that:
 
 #has_/domain  :: ServiceChannel  
 
-( #has_/name :: has_location_address_postal_service )
-( #has_/range :: PostalAddress )
+(has_/name :: has_location_address_postal_service )
+(has_/range :: PostalAddress )
 
 
 ## Confidential Links & Embeds: 

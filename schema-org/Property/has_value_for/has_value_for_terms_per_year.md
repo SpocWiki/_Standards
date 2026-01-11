@@ -33,7 +33,7 @@ Predicate to describe the Quantity of EducationalOccupationalProgram.
 
 Use it like this: 
 - #has_/value_for_/terms_per_year :: Number   
-- #has_/value_for_terms_per_year :: Number   
+- #has_value_for_terms_per_year :: Number   
 
 The number of times terms of study are offered per year. Semesters and quarters are common units for term. For example, if the student can only take 2 semesters for the program in one year, then termsPerYear should be 2.
 
@@ -41,8 +41,8 @@ Predicate describes that:
 
 #has_/domain  :: EducationalOccupationalProgram  
 
-( #has_/name :: has_value_for_terms_per_year )
-( #has_/range :: Number )
+(has_/name :: has_value_for_terms_per_year )
+(has_/range :: Number )
 
 
 ## Confidential Links & Embeds: 

@@ -42,8 +42,8 @@ Predicate describes that:
 
 #has_/domain  :: HealthInsurancePlan  
 
-( #has_/name :: has_url_for_benefits_summary_url )
-( #has_/range :: URL )
+(has_/name :: has_url_for_benefits_summary_url )
+(has_/range :: URL )
 
 
 ## Confidential Links & Embeds: 

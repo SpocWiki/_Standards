@@ -95,8 +95,8 @@ Predicated describes that:
 
 #has_/domain  :: [Thing](../../Class/Thing.md)  
 
-( #has_/name :: has_name )
-( #has_/range :: Text )
+(has_/name :: has_name )
+(has_/range :: Text )
 
 ## #has_/text_of_/abstract 
 

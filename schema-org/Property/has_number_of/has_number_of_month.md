@@ -41,8 +41,8 @@ Predicate describes that:
 
 #has_/domain  :: Schedule  
 
-( #has_/name :: has_number_of_month )
-( #has_/range :: Integer )
+(has_/name :: has_number_of_month )
+(has_/range :: Integer )
 
 
 ## Confidential Links & Embeds: 

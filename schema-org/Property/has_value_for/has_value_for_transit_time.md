@@ -33,7 +33,7 @@ Predicate to describe the Quantity of ShippingDeliveryTime.
 
 Use it like this: 
 - #has_/value_for_/transit_time :: QuantitativeValue   
-- #has_/value_for_transit_time :: QuantitativeValue   
+- #has_value_for_transit_time :: QuantitativeValue   
 
 The typical delay the order has been sent for delivery and the goods reach the final customer. Typical properties: minValue, maxValue, unitCode (d for DAY).
 
@@ -41,8 +41,8 @@ Predicate describes that:
 
 #has_/domain  :: ShippingDeliveryTime  
 
-( #has_/name :: has_value_for_transit_time )
-( #has_/range :: QuantitativeValue )
+(has_/name :: has_value_for_transit_time )
+(has_/range :: QuantitativeValue )
 
 
 ## Confidential Links & Embeds: 

@@ -44,8 +44,8 @@ Predicated describes that:
 
 #has_/domain  :: DefinedRegion  
 
-( #has_/name :: has_text_of_postal_code_prefix )
-( #has_/range :: Text )
+(has_/name :: has_text_of_postal_code_prefix )
+(has_/range :: Text )
 
 
 ## Confidential Links & Embeds: 

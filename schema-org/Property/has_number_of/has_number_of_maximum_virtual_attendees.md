@@ -41,8 +41,8 @@ Predicate describes that:
 
 #has_/domain  :: Event  
 
-( #has_/name :: has_number_of_maximum_virtual_attendees )
-( #has_/range :: Integer )
+(has_/name :: has_number_of_maximum_virtual_attendees )
+(has_/range :: Integer )
 
 
 ## Confidential Links & Embeds: 

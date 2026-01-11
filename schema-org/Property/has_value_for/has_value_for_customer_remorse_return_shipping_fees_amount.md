@@ -41,8 +41,8 @@ Predicate describes that:
 
 #has_/domain  :: MerchantReturnPolicy  
 
-( #has_/name :: has_value_for_customer_remorse_return_shipping_fees_amount )
-( #has_/range :: MonetaryAmount )
+(has_/name :: has_value_for_customer_remorse_return_shipping_fees_amount )
+(has_/range :: MonetaryAmount )
 
 
 ## Confidential Links & Embeds: 

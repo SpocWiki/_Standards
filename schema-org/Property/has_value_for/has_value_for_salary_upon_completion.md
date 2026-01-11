@@ -33,7 +33,7 @@ Predicate to describe the Quantity of EducationalOccupationalProgram.
 
 Use it like this: 
 - #has_/value_for_/salary_upon_completion :: MonetaryAmountDistribution   
-- #has_/value_for_salary_upon_completion :: MonetaryAmountDistribution   
+- #has_value_for_salary_upon_completion :: MonetaryAmountDistribution   
 
 The expected salary upon completing the training.
 
@@ -41,8 +41,8 @@ Predicate describes that:
 
 #has_/domain  :: EducationalOccupationalProgram  
 
-( #has_/name :: has_value_for_salary_upon_completion )
-( #has_/range :: MonetaryAmountDistribution )
+(has_/name :: has_value_for_salary_upon_completion )
+(has_/range :: MonetaryAmountDistribution )
 
 
 ## Confidential Links & Embeds: 

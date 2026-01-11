@@ -43,8 +43,8 @@ Predicated describes that:
 
 #has_/domain  :: Schedule  
 
-( #has_/name :: has_text_of_schedule_timezone )
-( #has_/range :: Text )
+(has_/name :: has_text_of_schedule_timezone )
+(has_/range :: Text )
 
 
 ## Confidential Links & Embeds: 

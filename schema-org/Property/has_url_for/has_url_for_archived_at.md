@@ -41,8 +41,8 @@ Predicate describes that:
 
 #has_/domain  :: CreativeWork  
 
-( #has_/name :: has_url_for_archived_at )
-( #has_/range :: URL, WebPage )
+(has_/name :: has_url_for_archived_at )
+(has_/range :: URL, WebPage )
 
 
 ## Confidential Links & Embeds: 

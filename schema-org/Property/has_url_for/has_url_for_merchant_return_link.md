@@ -42,8 +42,8 @@ Predicate describes that:
 
 #has_/domain  :: MerchantReturnPolicy  
 
-( #has_/name :: has_url_for_merchant_return_link )
-( #has_/range :: URL )
+(has_/name :: has_url_for_merchant_return_link )
+(has_/range :: URL )
 
 
 ## Confidential Links & Embeds: 

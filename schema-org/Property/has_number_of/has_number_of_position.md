@@ -39,8 +39,8 @@ Predicate describes that:
 
 #has_/domain  :: CreativeWork, ListItem  
 
-( #has_/name :: has_number_of_position )
-( #has_/range :: Integer, Text )
+(has_/name :: has_number_of_position )
+(has_/range :: Integer, Text )
 
 #has_/sub_properties :: [ clipNumber, episodeNumber, issueNumber, seasonNumber, volumeNumber ]  
 

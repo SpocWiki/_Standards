@@ -51,8 +51,8 @@ Predicate describes that:
 
 #has_/domain  :: EngineSpecification  
 
-( #has_/name :: has_value_for_engine_power_watt )
-( #has_/range :: QuantitativeValue )
+(has_/name :: has_value_for_engine_power_watt )
+(has_/range :: QuantitativeValue )
 
 
 ## Confidential Links & Embeds: 

@@ -47,8 +47,8 @@ Predicate describes that:
 
 #has_/domain  :: MediaObject  
 
-( #has_/name :: has_url_for_content_url )
-( #has_/range :: URL )
+(has_/name :: has_url_for_content_url )
+(has_/range :: URL )
 
 
 ## Confidential Links & Embeds: 

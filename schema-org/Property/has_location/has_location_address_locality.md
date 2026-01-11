@@ -41,8 +41,8 @@ Predicated describes that:
 
 #has_/domain  :: PostalAddress  
 
-( #has_/name :: has_location_address_locality )
-( #has_/range :: Text )
+(has_/name :: has_location_address_locality )
+(has_/range :: Text )
 
 
 ## Confidential Links & Embeds: 

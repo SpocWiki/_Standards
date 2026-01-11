@@ -42,8 +42,8 @@ Predicate describes that:
 
 #has_/domain  :: HealthPlanFormulary  
 
-( #has_/name :: is_prescribing_by_mail )
-( #has_/range :: Boolean )
+(has_/name :: is_prescribing_by_mail )
+(has_/range :: Boolean )
 
 
 ## Confidential Links & Embeds: 

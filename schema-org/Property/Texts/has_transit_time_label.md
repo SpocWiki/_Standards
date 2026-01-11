@@ -44,8 +44,8 @@ Predicated describes that:
 
 #has_/domain  :: DeliveryTimeSettings, OfferShippingDetails  
 
-( #has_/name :: has_text_of_transit_time_label )
-( #has_/range :: Text )
+(has_/name :: has_text_of_transit_time_label )
+(has_/range :: Text )
 
 
 ## Confidential Links & Embeds: 

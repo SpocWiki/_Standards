@@ -41,8 +41,8 @@ Predicate describes that:
 
 #has_/domain  :: Accommodation, ApartmentComplex, Place  
 
-( #has_/name :: has_url_for_tour_booking_page )
-( #has_/range :: URL )
+(has_/name :: has_url_for_tour_booking_page )
+(has_/range :: URL )
 
 
 ## Confidential Links & Embeds: 

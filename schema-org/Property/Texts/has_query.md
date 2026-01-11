@@ -40,8 +40,8 @@ Predicated describes that:
 
 #has_/domain  :: SearchAction  
 
-( #has_/name :: has_text_of_query )
-( #has_/range :: Text )
+(has_/name :: has_text_of_query )
+(has_/range :: Text )
 
 #is_/sub_property_of  :: instrument  
 

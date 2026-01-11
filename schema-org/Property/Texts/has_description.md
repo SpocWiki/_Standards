@@ -42,8 +42,8 @@ Predicated describes that:
 
 #has_/domain  :: [Thing](../../Class/Thing.md)  
 
-( #has_/name :: has_text_of_description )
-( #has_/range :: Text )
+(has_/name :: has_text_of_description )
+(has_/range :: Text )
 
 #has_/sub_properties :: [ disambiguatingDescription, interpretedAsClaim, originalMediaContextDescription, sha256 ]  
 

@@ -44,8 +44,8 @@ Predicated describes that:
 
 #has_/domain  :: Service  
 
-( #has_/name :: has_text_of_terms_of_service )
-( #has_/range :: Text, URL )
+(has_/name :: has_text_of_terms_of_service )
+(has_/range :: Text, URL )
 
 
 ## Confidential Links & Embeds: 

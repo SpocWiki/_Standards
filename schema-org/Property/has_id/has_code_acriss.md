@@ -47,8 +47,8 @@ Predicated describes that:
 
 #has_/domain  :: BusOrCoach, Car  
 
-( #has_/name :: has_code_acriss )
-( #has_/range :: Text )
+(has_/name :: has_code_acriss )
+(has_/range :: Text )
 
 
 ## Confidential Links & Embeds: 

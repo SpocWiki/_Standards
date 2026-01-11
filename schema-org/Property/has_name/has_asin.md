@@ -47,8 +47,8 @@ Predicated describes that:
 
 #has_/domain  :: Demand, Offer, Product  
 
-( #has_/name :: has_text_of_asin )
-( #has_/range :: Text, URL )
+(has_/name :: has_text_of_asin )
+(has_/range :: Text, URL )
 
 #is_/sub_property_of  :: identifier  
 

@@ -41,8 +41,8 @@ Predicated describes that:
 
 #has_/domain  :: Order  
 
-( #has_/name :: has_text_of_order_number )
-( #has_/range :: Text )
+(has_/name :: has_text_of_order_number )
+(has_/range :: Text )
 
 #is_/sub_property_of  :: identifier  
 

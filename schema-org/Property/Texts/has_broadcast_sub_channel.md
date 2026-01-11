@@ -44,8 +44,8 @@ Predicated describes that:
 
 #has_/domain  :: BroadcastFrequencySpecification  
 
-( #has_/name :: has_text_of_broadcast_sub_channel )
-( #has_/range :: Text )
+(has_/name :: has_text_of_broadcast_sub_channel )
+(has_/range :: Text )
 
 
 ## Confidential Links & Embeds: 

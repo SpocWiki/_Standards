@@ -44,8 +44,8 @@ Predicated describes that:
 
 #has_/domain  :: PostalCodeRangeSpecification  
 
-( #has_/name :: has_text_of_postal_code_begin )
-( #has_/range :: Text )
+(has_/name :: has_text_of_postal_code_begin )
+(has_/range :: Text )
 
 
 ## Confidential Links & Embeds: 

@@ -41,8 +41,8 @@ Predicate describes that:
 
 #has_/domain  :: ArchiveComponent  
 
-( #has_/name :: has_location_of_item )
-( #has_/range :: Place, PostalAddress, Text )
+(has_/name :: has_location_of_item )
+(has_/range :: Place, PostalAddress, Text )
 
 #is_/sub_property_of  :: location  
 

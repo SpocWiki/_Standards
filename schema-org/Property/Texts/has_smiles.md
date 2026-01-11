@@ -43,8 +43,8 @@ Predicated describes that:
 
 #has_/domain  :: MolecularEntity  
 
-( #has_/name :: has_text_of_smiles )
-( #has_/range :: Text )
+(has_/name :: has_text_of_smiles )
+(has_/range :: Text )
 
 #is_/sub_property_of  :: hasRepresentation  
 

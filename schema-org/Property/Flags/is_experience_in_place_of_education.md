@@ -42,8 +42,8 @@ Predicate describes that:
 
 #has_/domain  :: JobPosting  
 
-( #has_/name :: is_experience_in_place_of_education )
-( #has_/range :: Boolean )
+(has_/name :: is_experience_in_place_of_education )
+(has_/range :: Boolean )
 
 
 ## Confidential Links & Embeds: 

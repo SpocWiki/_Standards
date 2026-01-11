@@ -42,8 +42,8 @@ Predicated describes that:
 
 #has_/domain  :: Legislation  
 
-( #has_/name :: has_id_legislation )
-( #has_/range :: Text, URL )
+(has_/name :: has_id_legislation )
+(has_/range :: Text, URL )
 
 #is_/sub_property_of  :: identifier  
 

@@ -44,8 +44,8 @@ Predicated describes that:
 
 #has_/domain  :: JobPosting  
 
-( #has_/name :: has_text_of_security_clearance_requirement )
-( #has_/range :: Text, URL )
+(has_/name :: has_text_of_security_clearance_requirement )
+(has_/range :: Text, URL )
 
 
 ## Confidential Links & Embeds: 

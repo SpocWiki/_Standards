@@ -33,7 +33,7 @@ Predicate to describe the Quantity of MolecularEntity.
 
 Use it like this: 
 - #has_/value_for_/monoisotopic_molecular_weight :: QuantitativeValue, Text   
-- #has_/value_for_monoisotopic_molecular_weight :: QuantitativeValue, Text   
+- #has_value_for_monoisotopic_molecular_weight :: QuantitativeValue, Text   
 
 The monoisotopic mass is the sum of the masses of the atoms in a molecule using the unbound, ground-state, rest mass of the principal (most abundant) isotope for each element instead of the isotopic average mass. Please include the units in the form '&amp;lt;Number&amp;gt; &amp;lt;unit&amp;gt;', for example '770.230488 g/mol' or as '&amp;lt;QuantitativeValue&amp;gt;.
 
@@ -41,8 +41,8 @@ Predicate describes that:
 
 #has_/domain  :: MolecularEntity  
 
-( #has_/name :: has_value_for_monoisotopic_molecular_weight )
-( #has_/range :: QuantitativeValue, Text )
+(has_/name :: has_value_for_monoisotopic_molecular_weight )
+(has_/range :: QuantitativeValue, Text )
 
 
 ## Confidential Links & Embeds: 

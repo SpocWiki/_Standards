@@ -42,8 +42,8 @@ Predicate describes that:
 
 #has_/domain  :: OfferShippingDetails, ShippingRateSettings  
 
-( #has_/name :: is_shipping )
-( #has_/range :: Boolean )
+(has_/name :: is_shipping )
+(has_/range :: Boolean )
 
 
 ## Confidential Links & Embeds: 

@@ -45,8 +45,8 @@ Predicated describes that:
 
 #has_/domain  :: Offer  
 
-( #has_/name :: has_text_of_checkout_page_url_template )
-( #has_/range :: Text )
+(has_/name :: has_text_of_checkout_page_url_template )
+(has_/range :: Text )
 
 
 ## Confidential Links & Embeds: 

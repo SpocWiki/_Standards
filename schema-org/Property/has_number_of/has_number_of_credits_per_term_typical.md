@@ -41,8 +41,8 @@ Predicate describes that:
 
 #has_/domain  :: EducationalOccupationalProgram  
 
-( #has_/name :: has_number_of_credits_per_term_typical )
-( #has_/range :: Integer, StructuredValue )
+(has_/name :: has_number_of_credits_per_term_typical )
+(has_/range :: Integer, StructuredValue )
 
 
 ## Confidential Links & Embeds: 

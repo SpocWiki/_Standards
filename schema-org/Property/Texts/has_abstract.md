@@ -44,8 +44,8 @@ Predicated describes that:
 
 #has_/domain  :: CreativeWork  
 
-( #has_/name :: has_text_of_abstract )
-( #has_/range :: Text )
+(has_/name :: has_text_of_abstract )
+(has_/range :: Text )
 
 
 ## Confidential Links & Embeds: 

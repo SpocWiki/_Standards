@@ -43,8 +43,8 @@ Predicate describes that:
 
 #has_/domain  :: BankAccount  
 
-( #has_/name :: has_value_for_account_overdraft_limit )
-( #has_/range :: MonetaryAmount )
+(has_/name :: has_value_for_account_overdraft_limit )
+(has_/range :: MonetaryAmount )
 
 
 ## Confidential Links & Embeds: 

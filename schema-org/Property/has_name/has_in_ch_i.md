@@ -46,8 +46,8 @@ Predicated describes that:
 
 #has_/domain  :: MolecularEntity  
 
-( #has_/name :: has_text_of_in_ch_i )
-( #has_/range :: Text )
+(has_/name :: has_text_of_in_ch_i )
+(has_/range :: Text )
 
 #is_/sub_property_of  :: hasRepresentation  
 

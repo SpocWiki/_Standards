@@ -39,8 +39,8 @@ Predicate describes that:
 
 #has_/domain  :: RentalCarReservation  
 
-( #has_/name :: has_location_dropoff )
-( #has_/range :: Place )
+(has_/name :: has_location_dropoff )
+(has_/range :: Place )
 
 
 ## Confidential Links & Embeds: 

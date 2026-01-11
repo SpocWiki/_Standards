@@ -43,8 +43,8 @@ Predicate describes that:
 
 #has_/domain  :: ActionAccessSpecification, DeliveryChargeSpecification, Demand, Offer  
 
-( #has_/name :: has_location_eligible_region )
-( #has_/range :: GeoShape, Place, Text )
+(has_/name :: has_location_eligible_region )
+(has_/range :: GeoShape, Place, Text )
 
 #is_/sub_property_of  :: areaServed  
 

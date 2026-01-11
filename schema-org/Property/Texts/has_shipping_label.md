@@ -43,8 +43,8 @@ Predicated describes that:
 
 #has_/domain  :: OfferShippingDetails, ShippingRateSettings  
 
-( #has_/name :: has_text_of_shipping_label )
-( #has_/range :: Text )
+(has_/name :: has_text_of_shipping_label )
+(has_/range :: Text )
 
 
 ## Confidential Links & Embeds: 

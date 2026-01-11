@@ -41,8 +41,8 @@ Predicate describes that:
 
 #has_/domain  :: Accommodation, FloorPlan  
 
-( #has_/name :: has_number_of_bathrooms_total )
-( #has_/range :: Integer )
+(has_/name :: has_number_of_bathrooms_total )
+(has_/range :: Integer )
 
 
 ## Confidential Links & Embeds: 

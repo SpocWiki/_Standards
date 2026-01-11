@@ -43,8 +43,8 @@ Predicated describes that:
 
 #has_/domain  :: [[../../Class/is_a_/Intangible/structured_value/cdcpmd_record|CDCPMDRecord]]  
 
-( #has_/name :: has_id_cvd_facility )
-( #has_/range :: Text )
+(has_/name :: has_id_cvd_facility )
+(has_/range :: Text )
 
 
 ## Confidential Links & Embeds: 

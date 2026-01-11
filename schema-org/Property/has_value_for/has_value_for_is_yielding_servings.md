@@ -31,7 +31,7 @@ Predicate to describe the Quantity of Recipe.
 
 Use it like this: 
 - #has_/value_for_/is_yielding_servings :: QuantitativeValue, Text   
-- #has_/value_for_is_yielding_servings :: QuantitativeValue, Text   
+- #has_value_for_is_yielding_servings :: QuantitativeValue, Text   
 
 The quantity produced by the recipe (for example, number of people served, number of servings, etc).
 
@@ -39,8 +39,8 @@ Predicate describes that:
 
 #has_/domain  :: Recipe  
 
-( #has_/name :: has_value_for_is_yielding_servings )
-( #has_/range :: QuantitativeValue, Text )
+(has_/name :: has_value_for_is_yielding_servings )
+(has_/range :: QuantitativeValue, Text )
 
 #is_/sub_property_of  :: yield  
 

@@ -45,8 +45,8 @@ Predicated describes that:
 
 #has_/domain  :: PronounceableText  
 
-( #has_/name :: has_text_of_speech_to_text_markup )
-( #has_/range :: Text )
+(has_/name :: has_text_of_speech_to_text_markup )
+(has_/range :: Text )
 
 
 ## Confidential Links & Embeds: 

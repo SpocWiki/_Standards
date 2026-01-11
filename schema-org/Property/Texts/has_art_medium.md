@@ -41,8 +41,8 @@ Predicated describes that:
 
 #has_/domain  :: VisualArtwork  
 
-( #has_/name :: has_text_of_art_medium )
-( #has_/range :: Text, URL )
+(has_/name :: has_text_of_art_medium )
+(has_/range :: Text, URL )
 
 #is_/sub_property_of  :: material  
 

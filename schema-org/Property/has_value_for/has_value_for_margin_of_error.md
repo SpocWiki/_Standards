@@ -33,7 +33,7 @@ Predicate to describe the Quantity of Observation.
 
 Use it like this: 
 - #has_/value_for_/margin_of_error :: QuantitativeValue   
-- #has_/value_for_margin_of_error :: QuantitativeValue   
+- #has_value_for_margin_of_error :: QuantitativeValue   
 
 A marginOfError for an [[Observation]].
 
@@ -41,8 +41,8 @@ Predicate describes that:
 
 #has_/domain  :: Observation  
 
-( #has_/name :: has_value_for_margin_of_error )
-( #has_/range :: QuantitativeValue )
+(has_/name :: has_value_for_margin_of_error )
+(has_/range :: QuantitativeValue )
 
 
 ## Confidential Links & Embeds: 

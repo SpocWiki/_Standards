@@ -33,7 +33,7 @@ Predicate to describe the Quantity of BankAccount.
 
 Use it like this: 
 - #has_/value_for_/account_minimum_inflow :: MonetaryAmount   
-- #has_/value_for_account_minimum_inflow :: MonetaryAmount   
+- #has_value_for_account_minimum_inflow :: MonetaryAmount   
 
 A minimum amount that has to be paid in every month.
 
@@ -41,8 +41,8 @@ Predicate describes that:
 
 #has_/domain  :: BankAccount  
 
-( #has_/name :: has_value_for_account_minimum_inflow )
-( #has_/range :: MonetaryAmount )
+(has_/name :: has_value_for_account_minimum_inflow )
+(has_/range :: MonetaryAmount )
 
 
 ## Confidential Links & Embeds: 

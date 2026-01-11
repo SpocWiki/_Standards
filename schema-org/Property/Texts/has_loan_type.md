@@ -43,8 +43,8 @@ Predicated describes that:
 
 #has_/domain  :: LoanOrCredit  
 
-( #has_/name :: has_text_of_loan_type )
-( #has_/range :: Text, URL )
+(has_/name :: has_text_of_loan_type )
+(has_/range :: Text, URL )
 
 
 ## Confidential Links & Embeds: 

@@ -41,8 +41,8 @@ Predicate describes that:
 
 #has_/domain  :: ExchangeRateSpecification  
 
-( #has_/name :: has_value_for_exchange_rate_spread )
-( #has_/range :: MonetaryAmount, Number )
+(has_/name :: has_value_for_exchange_rate_spread )
+(has_/range :: MonetaryAmount, Number )
 
 
 ## Confidential Links & Embeds: 

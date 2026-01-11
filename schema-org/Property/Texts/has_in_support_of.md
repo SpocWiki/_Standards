@@ -44,8 +44,8 @@ Predicated describes that:
 
 #has_/domain  :: Thesis  
 
-( #has_/name :: has_text_of_in_support_of )
-( #has_/range :: Text )
+(has_/name :: has_text_of_in_support_of )
+(has_/range :: Text )
 
 
 ## Confidential Links & Embeds: 

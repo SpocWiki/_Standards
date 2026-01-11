@@ -43,8 +43,8 @@ Typical unit code(s): C62 for persons
 Predicate describes that: 
 
 #has_/domain  :: [[../../../Technology/Transport/Vehicle|Vehicle]]  
-( #has_/name :: has_number_of_seating )
-( #has_/range :: Number, QuantitativeValue )
+(has_/name :: has_number_of_seating )
+(has_/range :: Number, QuantitativeValue )
 
 
 ## Confidential Links & Embeds: 

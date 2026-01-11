@@ -42,8 +42,8 @@ Predicated describes that:
 
 #has_/domain  :: DeliveryEvent  
 
-( #has_/name :: has_code_access )
-( #has_/range :: Text )
+(has_/name :: has_code_access )
+(has_/range :: Text )
 
 
 ## Confidential Links & Embeds: 

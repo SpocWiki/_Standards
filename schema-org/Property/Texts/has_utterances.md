@@ -42,8 +42,8 @@ Predicated describes that:
 
 #has_/domain  :: HyperTocEntry  
 
-( #has_/name :: has_text_of_utterances )
-( #has_/range :: Text )
+(has_/name :: has_text_of_utterances )
+(has_/range :: Text )
 
 
 ## Confidential Links & Embeds: 

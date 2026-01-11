@@ -56,8 +56,8 @@ Predicated describes that:
 
 #has_/domain  :: CreativeWork, MediaObject  
 
-( #has_/name :: has_text_of_encoding_format )
-( #has_/range :: Text, URL )
+(has_/name :: has_text_of_encoding_format )
+(has_/range :: Text, URL )
 
 
 ## Confidential Links & Embeds: 

@@ -40,8 +40,8 @@ Predicate describes that:
 
 #has_/domain  :: ExerciseAction, InsertAction, MoveAction, TransferAction  
 
-( #has_/name :: has_location_to )
-( #has_/range :: Place )
+(has_/name :: has_location_to )
+(has_/range :: Place )
 
 #is_/sub_property_of  :: location  
 

@@ -41,8 +41,8 @@ Predicate describes that:
 
 #has_/domain  :: CDCPMDRecord  
 
-( #has_/name :: has_number_of_Covid_c19mech_vent_patients )
-( #has_/range :: Number )
+(has_/name :: has_number_of_Covid_c19mech_vent_patients )
+(has_/range :: Number )
 
 
 ## Confidential Links & Embeds: 

@@ -42,8 +42,8 @@ Predicate describes that:
 
 #has_/domain  :: Book  
 
-( #has_/name :: is_abridged )
-( #has_/range :: Boolean )
+(has_/name :: is_abridged )
+(has_/range :: Boolean )
 
 
 ## Confidential Links & Embeds: 

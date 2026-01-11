@@ -43,8 +43,8 @@ Predicated describes that:
 
 #has_/domain  :: MediaObject  
 
-( #has_/name :: has_text_of_sha256 )
-( #has_/range :: Text )
+(has_/name :: has_text_of_sha256 )
+(has_/range :: Text )
 
 #is_/sub_property_of  :: description  
 
