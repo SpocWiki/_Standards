@@ -40,11 +40,7 @@ Use it like this:
 
 The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
 
-
-
 Typical unit code(s): KGM for kilogram, LBR for pound
-
-
 
 <ul>
 <li>Note 1: You can indicate additional information in the [[name]] of the [[QuantitativeValue]] node.</li>
@@ -54,8 +50,7 @@ Typical unit code(s): KGM for kilogram, LBR for pound
 
 Predicate describes that: 
 
-#has_/domain  :: BusOrCoach, Car  
-
+#has_/domain  :: [[../../../Technology/Transport/Road_Transport/Bus_or_Coach|Bus_or_Coach]], [[../../../Technology/Transport/Road_Transport/Car|Car]]   
 ( #has_/name :: has_value_for_load_on_roof )
 ( #has_/range :: QuantitativeValue )
 
