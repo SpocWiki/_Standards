@@ -1,8 +1,6 @@
 ---
 aliases:
   - depth
-  - depth
-  - depth
   - has_value_for_depth_in_meters
   - has value for depth in meters
 confidential: public
