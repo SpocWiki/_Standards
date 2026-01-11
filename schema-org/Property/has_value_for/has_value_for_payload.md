@@ -1,25 +1,24 @@
 ---
 aliases:
   - payload
-  - payload
-  - payload
-  - has_value_for_payload_kg
-  - has value for payload kg
+  - has_value_for_payload
+  - has value for payload
+  - Beladung
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - payload
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_payload
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
@@ -32,8 +31,9 @@ Predicate to describe the Quantity of Vehicle.
 #is_/part_of :: https://auto.schema.org  
 
 Use it like this: 
-- #has_/value_for_/payload_kg :: QuantitativeValue   
-- #has_/value_for_payload_kg :: QuantitativeValue   
+- #has_/value_for_/payload :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]   
+- #has_/value_for_/payload_/kilo_/gram :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]   
+- #has_/value_for_payload :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]]   
 
 The permitted weight of passengers and cargo, EXCLUDING the weight of the empty vehicle.
 
@@ -52,8 +52,7 @@ Typical unit code(s): KGM for kilogram, LBR for pound
 
 Predicate describes that: 
 
-#has_/domain  :: Vehicle  
-
+#has_/domain  :: [[../../../Technology/Transport/Vehicle|Vehicle]]  
 ( #has_/name :: has_value_for_payload_kg )
 ( #has_/range :: QuantitativeValue )
 

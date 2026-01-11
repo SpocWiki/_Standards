@@ -40,14 +40,13 @@ The time needed to accelerate the vehicle from a given start velocity to a given
 
 Typical unit code(s): SEC for seconds
 
-
 <ul>
 <li>Note: There are unfortunately no standard unit codes for seconds/0..100 km/h or seconds/0..60 mph. Simply use "SEC" for seconds and indicate the velocities in the [[name]] of the [[QuantitativeValue]], or use [[valueReference]] with a [[QuantitativeValue]] of 0..60 mph or 0..100 km/h to specify the reference speeds.</li>
 </ul>
 
 Predicate describes that: 
 
-#has_/domain  :: Vehicle  
+#has_/domain  :: [[../../../Technology/Transport/Vehicle|Vehicle]]   
 
 ( #has_/name :: has_value_for_acceleration_time )
 ( #has_/range :: QuantitativeValue )

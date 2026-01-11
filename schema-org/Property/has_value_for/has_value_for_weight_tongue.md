@@ -27,21 +27,19 @@ title: has_tongue-weight
 type: Predi_Quantity
 ---
 
-Predicate to describe the Quantity of Vehicle.
+Predicate to describe a Quantity of Vehicle.
 
 #is_/part_of :: https://auto.schema.org  
 
 Use it like this: 
-- #has_/value_for_/tongue_weight_kg :: QuantitativeValue   
-- #has_/value_for_tongue_weight_kg :: QuantitativeValue   
+- #has_/value_for_/weight_/tongue :: QuantitativeValue   
+- #has_/value_for_/weight_/tongue_/kilo_/gram :: QuantitativeValue   
+- #has_/value_for_weight_tongue :: QuantitativeValue   
 
-The permitted vertical load (TWR) of a trailer attached to the vehicle. Also referred to as Tongue Load Rating (TLR) or Vertical Load Rating (VLR).
-
-
+The permitted **vertical** load (TWR) of a trailer attached to the vehicle. 
+Also referred to as Tongue Load Rating (TLR) or Vertical Load Rating (VLR).
 
 Typical unit code(s): KGM for kilogram, LBR for pound
-
-
 
 <ul>
 <li>Note 1: You can indicate additional information in the [[name]] of the [[QuantitativeValue]] node.</li>
@@ -51,8 +49,7 @@ Typical unit code(s): KGM for kilogram, LBR for pound
 
 Predicate describes that: 
 
-#has_/domain  :: Vehicle  
-
+#has_/domain  :: [[../../../Technology/Transport/Vehicle|Vehicle]]   
 ( #has_/name :: has_value_for_tongue_weight_kg )
 ( #has_/range :: QuantitativeValue )
 

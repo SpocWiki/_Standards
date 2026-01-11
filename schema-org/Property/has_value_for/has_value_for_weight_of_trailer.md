@@ -27,17 +27,24 @@ title: has_trailer-weight
 type: Predi_Quantity
 ---
 
-Predicate to describe the Quantity of Vehicle.
+# [[has_value_for_weight_of_trailer]] 
 
 #is_/part_of :: https://auto.schema.org  
+#is_/similar_to :: [[has_value_for_weight_tongue]] 
+#has_/unit_for_/default :: [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Gram|Unit~Gram]] 
+
+The default [[../../../Dimension/Unit_of_Measure|Unit_of_Measure]]  are [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Gram|Unit~Gram]]s, unless specified different, either 
+- in the XPath/JsonPath 
+- as a [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]] with `value` and `unitCode` 
+
+Predicate to describe the Quantity of Vehicle.
 
 Use it like this: 
-- #has_/value_for_/trailer_weight_kg :: QuantitativeValue   
-- #has_/value_for_trailer_weight_kg :: QuantitativeValue   
+- #has_/value_for_/weight_/of_trailer :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]   
+- #has_/value_for_/weight_/of_trailer_/kilo_/gram :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]   
+- #has_/value_for_weight_of_trailer :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]]   
 
-The permitted weight of a trailer attached to the vehicle.
-
-
+The maximum permitted weight of a trailer attached to the vehicle.
 
 Typical unit code(s): KGM for kilogram, LBR for pound
 * Note 1: You can indicate additional information in the [[../has_name|Name]] of the [[QuantitativeValue]] node.
@@ -46,9 +53,8 @@ Typical unit code(s): KGM for kilogram, LBR for pound
 
 Predicate describes that: 
 
-#has_/domain  :: Vehicle  
-
-( #has_/name :: has_value_for_trailer_weight_kg )
+#has_/domain  :: [[../../../Technology/Transport/Vehicle|Vehicle]]   
+( #has_/name :: has_value_for_weight_of_trailer )
 ( #has_/range :: QuantitativeValue )
 
 

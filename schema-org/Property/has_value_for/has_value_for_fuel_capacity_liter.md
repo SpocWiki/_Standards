@@ -37,14 +37,11 @@ Use it like this:
 
 The capacity of the fuel tank or in the case of electric cars, the battery. If there are multiple components for storage, this should indicate the total of all storage of the same type.
 
-
-
 Typical unit code(s): LTR for liters, GLL of US gallons, GLI for UK / imperial gallons, AMH for ampere-hours (for electrical vehicles).
 
 Predicate describes that: 
 
-#has_/domain  :: Vehicle  
-
+#has_/domain  :: [[../../../Technology/Transport/Vehicle|Vehicle]]   
 ( #has_/name :: has_value_for_fuel_capacity_liter )
 ( #has_/range :: QuantitativeValue )
 
