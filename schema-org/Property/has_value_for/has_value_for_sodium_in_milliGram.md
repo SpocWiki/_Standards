@@ -3,7 +3,7 @@ aliases:
   - sodium
   - sodium-content
   - sodiumContent
-  - has_value_for_sodium_in_milliGram
+  - has_value_for_sodium
   - has value for sodium in milliGram
 confidential: public
 cssclasses:
@@ -27,7 +27,7 @@ title: has_sodium-content
 type: Predi_Quantity
 ---
 
-# [[has_value_for_sodium_in_milliGram]] 
+# [[has_value_for_sodium]] 
 
 #has_/unit_for_/default :: [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Gram|Unit~Gram]] 
 
@@ -38,8 +38,8 @@ The default [[../../../Dimension/Unit_of_Measure|Unit_of_Measure]]  are [[../../
 Predicate to describe the Quantity of NutritionInformation.
 
 Use it like this: 
-- #has_/value_for_/sodium_in_milliGram :: Mass   
-- #has_/value_for_sodium_in_milliGram :: Mass   
+- #has_/value_for_/sodium :: Mass   
+- #has_/value_for_sodium :: Mass   
 
 The number of milligrams of sodium.
 
@@ -47,23 +47,23 @@ Predicate describes that:
 
 #has_/domain  :: NutritionInformation  
 
-( #has_/name :: has_value_for_sodium_in_milliGram )
+( #has_/name :: has_value_for_sodium )
 ( #has_/range :: Mass )
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_sodium_in_milliGram|has_value_for_sodium_in_milliGram]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_sodium|has_value_for_sodium]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_sodium_in_milliGram.public|has_value_for_sodium_in_milliGram.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_sodium.public|has_value_for_sodium.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_sodium_in_milliGram.internal|has_value_for_sodium_in_milliGram.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_sodium.internal|has_value_for_sodium.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_sodium_in_milliGram.protect|has_value_for_sodium_in_milliGram.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_sodium.protect|has_value_for_sodium.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_sodium_in_milliGram.private|has_value_for_sodium_in_milliGram.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_sodium.private|has_value_for_sodium.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_sodium_in_milliGram.personal|has_value_for_sodium_in_milliGram.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_sodium.personal|has_value_for_sodium.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_sodium_in_milliGram.secret|has_value_for_sodium_in_milliGram.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_sodium.secret|has_value_for_sodium.secret]] 
 

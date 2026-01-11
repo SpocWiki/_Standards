@@ -1,7 +1,7 @@
 ---
 aliases:
   - geo
-  - has_location_
+  - has_location
   - has_location_geo
   - has location geo
 confidential: public
@@ -54,8 +54,13 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Property/has_location/has_location_geo.secret|has_location_geo.secret]]"
 ---
 
+# [[has_location_geo]] 
+
 Predicate to describe the geo-Coordinates of a Location 
 in latitude and longitude.
+
+This is equivalent to the Wikidata Property coordinate_location,
+but different from the Wikidata Property location, which specifies containing, contained or nearby Entities. 
 
 Use it like this: 
 - has_location_geo = `=this.dv_has_location_geo`  
@@ -69,7 +74,6 @@ While `schema:geo` is specifically designed for representing point locations usi
 Predicate describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 
