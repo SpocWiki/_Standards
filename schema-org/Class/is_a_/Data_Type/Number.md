@@ -85,7 +85,7 @@ dv_is_same_as:
 
 # [[Number]] 
 
-Class of all numbers.
+Class of all numbers: [[Number/Float|Float]] and [[Number/Integer|Integer]] 
 
 Tag Instances like this: 
 #is_a_/number

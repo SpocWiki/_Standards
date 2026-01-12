@@ -29,15 +29,19 @@ type: Predi_Quantity
 
 # [[has_value_for_weight_total]] 
 
-#has_/unit_for_/default :: [[../../../Dimension/Unit_of_Measure/SI-Unit/derived_Unit/Unit~Kilogram|Unit~Kilogram]]  
+#has_/unit_for_/default :: [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Gram|Unit~Gram]] 
+
+The default [[../../../Dimension/Unit_of_Measure|Unit_of_Measure]]  are [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Gram|Unit~Gram]]s, unless specified different, either 
+- in the XPath/JsonPath 
+- as a [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]] with `value` and `unitCode` 
 
 Predicate to describe the Quantity of Vehicle.
 
 #is_/part_of :: https://auto.schema.org  
 
 Use it like this: 
-- #has_/value_for_/weight_total_/kg :: QuantitativeValue   
-- has_value_for_weight_total_kg :: QuantitativeValue   
+- #has_/value_for_/weight_total_/kilo_/gram :: QuantitativeValue   
+- has_value_for_weight_total :: QuantitativeValue   
 
 The permitted total weight of the loaded vehicle, including passengers and cargo and the weight of the empty vehicle.
 

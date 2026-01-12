@@ -28,6 +28,15 @@ title: has_molecular-weight
 type: Predi_Quantity
 ---
 
+# [[has_value_for_weight_molecular]] 
+
+#has_/unit_for_/default :: [[../../../Dimension/Mass/Unit~Dalton|Unit~Dalton]] 
+
+The default [[../../../Dimension/Unit_of_Measure|Unit_of_Measure]]  are [[../../../Dimension/Mass/Unit~Dalton|Unit~Dalton]], unless specified different, either 
+- in the XPath/JsonPath 
+- as a [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]] with `value` and `unitCode` 
+
+
 Predicate to describe the Quantity of MolecularEntity. 
 
 #is_/part_of :: pending 

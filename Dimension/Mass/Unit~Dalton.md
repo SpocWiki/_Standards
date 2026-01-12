@@ -2,6 +2,8 @@
 aliases:
   - unified atomic mass unit
   - Unit~Dalton
+  - amu 
+  - Atomic mass unit
 has_id_wikidata: Q483261
 described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
 instance_of:
@@ -48,17 +50,46 @@ Wikidata_SPARQL_query_equivalent: wd:Q483261 p:P2370/psn:P2370 [wikibase:quantit
 > in its nuclear and electronic ground state and at rest. 
 > 
 > It is a non-SI unit accepted for use with SI. 
-> The word "unified" emphasizes that the definition was accepted by both IUPAP and IUPAC. The atomic mass constant, denoted mu, is defined identically. Expressed in terms of ma(12C), the atomic mass of carbon-12: mu = ma(12C)/12 = 1 Da. The dalton's numerical value in terms of the fixed-h kilogram is an experimentally determined quantity that, along with its inherent uncertainty, is updated periodically. The 2022 CODATA recommended value of the atomic mass constant expressed in the SI base unit kilogram is:mu = 1.66053906892(52)×10−27 kg. As of June 2025, the value given for the dalton (1 Da = 1 u = mu) in the SI Brochure is still listed as the 2018 CODATA recommended value:1 Da = mu = 1.66053906660(50)×10−27 kg. 
+> 
+> The word "unified" emphasizes that the definition was accepted by both IUPAP and IUPAC. 
+> The atomic mass constant, denoted mu, is defined identically. 
+> 
+> Expressed in terms of ma(12C), the atomic mass of carbon-12: mu = ma(12C)/12 = 1 Da. 
+> The dalton's numerical value in terms of the fixed-h kilogram 
+> is an experimentally determined quantity 
+> that, along with its inherent uncertainty, is updated periodically. 
+> 
+> The 2022 CODATA recommended value of the atomic mass constant 
+> expressed in the SI base unit kilogram is:mu = 1.66053906892(52)×10−27 kg. 
+> As of June 2025, the value given for the dalton (1 Da = 1 u = mu) in the SI Brochure 
+> is still listed as the 2018 CODATA recommended value:1 Da = mu = 1.66053906660(50)×10−27 kg. 
 >
 > This was the value used in the calculation of g/Da, the traditional definition of the Avogadro number,
+> g/Da = 6.022140762081123e23, 
+> which was then rounded to 9 significant figures 
+> and fixed at exactly that value for the 2019 redefinition of the mole.
 >
-> g/Da = 6.022 140 762 081 123 . . . × 1023, which was then
+> The value serves as a conversion factor of mass from daltons to kilograms, 
+> which can easily be converted to grams and other metric units of mass. 
+> 
+> The 2019 revision of the SI redefined the kilogram by fixing the value of the Planck constant (h), 
+> improving the precision of the atomic mass constant expressed in SI units 
+> by anchoring it to fixed physical constants. 
+> Although the dalton remains defined via carbon-12, 
+> the revision enhances traceability and accuracy in atomic mass measurements.
 >
-> rounded to 9 significant figures and fixed at exactly that value for the 2019 redefinition of the mole.
->
-> The value serves as a conversion factor of mass from daltons to kilograms, which can easily be converted to grams and other metric units of mass. The 2019 revision of the SI redefined the kilogram by fixing the value of the Planck constant (h), improving the precision of the atomic mass constant expressed in SI units by anchoring it to fixed physical constants. Although the dalton remains defined via carbon-12, the revision enhances traceability and accuracy in atomic mass measurements.
->
-> The mole is a unit of amount of substance used in chemistry and physics, such that the mass of one mole of a substance expressed in grams (i.e., the molar mass in g/mol or kg/kmol) is numerically equal to the average mass of an elementary entity of the substance (atom, molecule, or formula unit) expressed in daltons. For example, the average mass of one molecule of water is about 18.0153 Da, and the mass of one mole of water is about 18.0153 g. A protein whose molecule has an average mass of 64 kDa would have a molar mass of 64 kg/mol. However, while this equality can be assumed for practical purposes, it is only approximate, because of the 2019 redefinition of the mole.
+> The mole is a unit of amount of substance used in chemistry and physics, 
+> such that the mass of one mole of a substance expressed in grams 
+> (i.e., the molar mass in g/mol or kg/kmol) 
+> is numerically equal to the average mass of an elementary entity of the substance 
+> (atom, molecule, or formula unit) expressed in daltons. 
+> 
+> For example, the average mass of one molecule of water is about 18.0153 Da, 
+> and the mass of one mole of water is about 18.0153 g. 
+> 
+> A protein whose molecule has an average mass of 64 kDa would have a molar mass of 64 kg/mol. 
+> However, while this equality can be assumed for practical purposes, 
+> it is only approximate, because of the 2019 redefinition of the mole.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Dalton%20(unit)) 
 
