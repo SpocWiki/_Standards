@@ -569,7 +569,7 @@ has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 > [!warning] This can considerably increase the total size and depth of your wiki!
 
 
-## #has_/parts_  
+## #has_/parts  
 
 List of Constituent States
 with numbers as of 2022-06 

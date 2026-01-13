@@ -2,7 +2,7 @@
 # [[Brigade]] 
 
 
-#has_/parts_ :: [[Battalion]] 
+#has_/parts :: [[Battalion]] 
 #is_/part_of :: [[Division(Military)]] 
 #is_/same_as ::  
 

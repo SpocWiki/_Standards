@@ -892,7 +892,7 @@ Major Cities with Population in 1000s as of @2020
 | Mesa                                                                                                                      | [[USA/USA~Mountain/Arizona\|Arizona]]              |  504.258 |
 |                                                                                                                           |                                                    |            |
 
-## #has_/parts_  
+## #has_/parts  
 
 List of Constituent States with Data of 2024 
 

@@ -715,7 +715,7 @@ has_place_longitude = `=this.dv_has_place_longitude`
 has_place_latitude = `=this.dv_has_place_latitude`
 
 
-## #has_/parts_  
+## #has_/parts  
 
 List of Constituent States
 with numbers as of 2022-06 

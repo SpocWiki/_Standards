@@ -37,7 +37,7 @@ ISNI: "0000000121555062"
 # [[World_Bank_Group]] 
 
 #is_/same_as :: [[WD~World_Bank_Group,320863]] 
-#has_/parts_  :: [[../UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank|World_Bank]] 
+#has_/parts  :: [[../UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank|World_Bank]] 
 
 ## #has_/text_of_/abstract 
 

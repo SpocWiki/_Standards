@@ -36,7 +36,7 @@ Commons_category: Military operations
 
 # [[Military_Operation]] 
 
-#has_/parts_ :: [[Military_Operation/Military_Strategy|Military_Strategy]]  
+#has_/parts :: [[Military_Operation/Military_Strategy|Military_Strategy]]  
 #is_/same_as :: [[WD~Military_operation,645883]] 
 
 ## #has_/text_of_/abstract 

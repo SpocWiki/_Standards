@@ -568,7 +568,7 @@ has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 
 
-## #has_/parts_  
+## #has_/parts  
 
 List of Constituent States
 with numbers as of 2020-06 

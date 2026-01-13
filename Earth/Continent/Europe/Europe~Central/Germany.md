@@ -813,7 +813,7 @@ Major Cities with Population in 1000s as of @2020
 | Essen      | [[Germany/Germany~West/Nordrhein-Westfalen\|North Rhine-Westphalia]] |   583 |
 
 
-## #has_/parts_  
+## #has_/parts  
 
 List of Constituent States
 with numbers as of 2023-06 

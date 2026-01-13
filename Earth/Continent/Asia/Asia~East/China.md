@@ -1031,7 +1031,7 @@ Wolfram_Language_entity_code: Entity["Country", "China"]
 
 # [[China]] 
 
-## [#has_/parts_](app://obsidian.md/index.html#has_/parts_)
+## #has_/parts
 
 List of Constituent States with numbers as of 2021-06 
 Below is a detailed table of the 34 provincial-level divisions in China, which include 

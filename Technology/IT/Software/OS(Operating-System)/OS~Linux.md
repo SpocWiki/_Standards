@@ -79,7 +79,7 @@ IRC_channel_URL: irc://irc.freenode.net/linux
 
 # [[OS~Linux]] 
 
-#has_/parts_ :: [[OS~Linux/Linux_Kernel]] 
+#has_/parts :: [[OS~Linux/Linux_Kernel]] 
 #is_/same_as :: [[../../../../WikiData/WD~Linux,388|WD~Linux,388]] 
 
 ## #has_/text_of_/abstract 

@@ -25,13 +25,12 @@ tags:
 title: has_duration_total
 type: Predi_Duration
 dv_has_duration_total: P#Y#M#W#DT#H#M#s.fff
-dv_#has_:
-  duration_:
-    total: P#Y#M#W#DT#H#M#s.fff
-dv_domain: HowTo, HowToDirection
+dv_domain: ["[[../../../Society/Communication/Media/Creative_Work/How_to|How_To]]", "[[../../../Society/Communication/Media/Creative_Work/How_to/How_to_Direction|How_to_Direction]]"]
 dv_has_:
   name: has_duration_total
-dv_range: Duration
+  duration_:
+    total: P#Y#M#W#DT#H#M#s.fff
+dv_range: "[[../../Predicate/Quantity/Duration]]"
 dv_is_:
   same_as:
     - "[[has_duration_total|has_duration_total]]"
@@ -53,8 +52,9 @@ dv_is_same_as:
 ---
 
 # [[has_duration_total]] 
+#has_/parts :: [[../has_duration]] 
 
-Predicate to describe the Duration of [[../../../Society/Communication/Media/Creative_Work/How_to|How_To]], [[../../../Society/Communication/Media/Creative_Work/How_to/How_to_Direction|How_to_Direction]].
+Predicate to describe the [[../../Predicate/Quantity/Duration]] of [[../../../Society/Communication/Media/Creative_Work/How_to|How_To]], [[../../../Society/Communication/Media/Creative_Work/How_to/How_to_Direction|How_to_Direction]].
 
 Use it like this: 
 - #has_/duration_/total = `=this.dv_has_duration_total`  

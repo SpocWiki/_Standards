@@ -15,7 +15,7 @@ UNSPSC_Code: 92111705
 # [[Military_Strategy]] 
 
 #is_/part_of :: [[../Military_Operation|Military_Operation]]  
-#has_/parts_ :: [[Military_Strategy/Military_Tactics|Military_Tactics]]   
+#has_/parts :: [[Military_Strategy/Military_Tactics|Military_Tactics]]   
 #is_/same_as :: [[../../../WikiData/WD~Military_strategy,219087|WD~Military_strategy,219087]] 
 
 ## #has_/text_of_/abstract 
