@@ -31,7 +31,7 @@ type: Predi_Relation
 #is_/part_of :: https://bib.schema.org  
 
 Use it like this: 
-- [has_/publisher_imprint :: Organization ] 
+- #has_/publisher_imprint :: Organization  
 - [ has_publisher_imprint :: Organization ] 
 
 The publishing division which published the comic.

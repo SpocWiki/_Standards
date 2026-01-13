@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/result_comment :: Comment ] 
+- #has_/result_comment :: Comment  
 - [ has_result_comment :: Comment ] 
 
 A sub property of result. The Comment created or sent as a result of this action.

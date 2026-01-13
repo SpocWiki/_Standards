@@ -29,7 +29,7 @@ type: Predi_Relation
 #is_/opposite_of :: [[has_loser]] 
 
 Use it like this: 
-- [has_/winner :: Person ] 
+- #has_/winner :: Person  
 - [ has_winner :: Person ] 
 
 A sub property of participant. The winner of the action.

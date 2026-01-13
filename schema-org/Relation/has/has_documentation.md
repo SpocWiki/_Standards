@@ -27,7 +27,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/documentation :: CreativeWork, URL ] 
+- #has_/documentation :: CreativeWork, URL  
 - [ has_documentation :: CreativeWork, URL ] 
 
 Further documentation describing the Web API in more detail.

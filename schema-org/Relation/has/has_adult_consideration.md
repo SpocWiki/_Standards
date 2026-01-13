@@ -30,7 +30,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/adult_consideration :: AdultOrientedEnumeration ] 
+- #has_/adult_consideration :: AdultOrientedEnumeration  
 - [ has_adult_consideration :: AdultOrientedEnumeration ] 
 
 Used to tag an item to be intended or suitable for consumption or use by adults only.

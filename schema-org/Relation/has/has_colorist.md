@@ -27,7 +27,7 @@ type: Predi_Relation
 #is_/part_of :: https://bib.schema.org  
 
 Use it like this: 
-- [has_/colorist :: Person ] 
+- #has_/colorist :: Person  
 - [ has_colorist :: Person ] 
 
 The individual who adds color to inked drawings.

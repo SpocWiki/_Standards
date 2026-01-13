@@ -30,7 +30,7 @@ type: Predi_Relation
 
 
 Use it like this: 
-- [has_/borrower :: Person ] 
+- #has_/borrower :: Person  
 - [ has_borrower :: Person ] 
 
 A sub property of participant. The person that borrows the object being lent.

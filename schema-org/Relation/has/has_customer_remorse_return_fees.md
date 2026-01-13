@@ -33,7 +33,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/customer_remorse_return_fees :: ReturnFeesEnumeration ] 
+- #has_/customer_remorse_return_fees :: ReturnFeesEnumeration  
 - [ has_customer_remorse_return_fees :: ReturnFeesEnumeration ] 
 
 The type of return fees if the product is returned due to customer remorse.

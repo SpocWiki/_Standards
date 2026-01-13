@@ -31,7 +31,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/first_appearance_in :: CreativeWork ] 
+- #has_/first_appearance_in :: CreativeWork  
 - [ has_first_appearance_in :: CreativeWork ] 
 
 Indicates the first known occurrence of a [[../../../Society/Communication/Media/Creative_Work/Statement/Claim]] in some [[CreativeWork]].

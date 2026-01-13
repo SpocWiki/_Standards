@@ -27,7 +27,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/correction :: CorrectionComment, Text, URL ] 
+- #has_/correction :: CorrectionComment, Text, URL  
 - [ has_correction :: CorrectionComment, Text, URL ] 
 
 Indicates a correction to a [[CreativeWork]], either via a [[CorrectionComment]], textually or in another document.

@@ -31,7 +31,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/measured_value :: DataType ] 
+- #has_/measured_value :: DataType  
 - [ has_measured_value :: DataType ] 
 
 The measuredValue of an [[Observation]].

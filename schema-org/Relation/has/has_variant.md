@@ -29,7 +29,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/variant :: Product ] 
+- #has_/variant :: Product  
 - [ has_variant :: Product ] 
 
 Indicates a [[../../../Society/Agent/Community/Organization/Business/Product]] that is a member of this [[ProductGroup]] (or [[ProductModel]]).

@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/work_performed :: CreativeWork ] 
+- #has_/work_performed :: CreativeWork  
 - [ has_work_performed :: CreativeWork ] 
 
 A work performed in some event, for example a play performed in a TheaterEvent.

@@ -31,7 +31,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/parent_/taxon :: Taxon, Text, URL ] 
+- #has_/parent_/taxon :: Taxon, Text, URL  
 - [ has_parent_taxon :: Taxon, Text, URL ] 
 
 Closest parent taxon of the taxon in question.

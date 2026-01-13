@@ -31,7 +31,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/category_code :: CategoryCode ] 
+- #has_/category_code :: CategoryCode  
 - [ has_category_code :: CategoryCode ] 
 
 A Category code contained in this code set.

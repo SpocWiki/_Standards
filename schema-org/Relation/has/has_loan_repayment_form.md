@@ -32,7 +32,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/loan_repayment_form :: RepaymentSpecification ] 
+- #has_/loan_repayment_form :: RepaymentSpecification  
 - [ has_loan_repayment_form :: RepaymentSpecification ] 
 
 A form of paying back money previously borrowed from a lender. Repayment usually takes the form of periodic payments that normally include part principal plus interest in each payment.

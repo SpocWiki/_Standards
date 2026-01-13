@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/main_entity :: [Thing](../../../Class/Thing.md) ] 
+- #has_/main_entity :: [Thing](../../../Class/Thing.md)  
 - [ has_main_entity :: [Thing](../../../Class/Thing.md) ] 
 
 Indicates the primary entity described in some page or other CreativeWork.

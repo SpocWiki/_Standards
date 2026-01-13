@@ -32,7 +32,7 @@ type: Predi_Relation
 #is_/part_of :: https://bib.schema.org  
 
 Use it like this: 
-- [has_/translation_of_work :: CreativeWork ] 
+- #has_/translation_of_work :: CreativeWork  
 - [ has_translation_of_work :: CreativeWork ] 
 
 The work that this work has been translated from. E.g. ???? is a translationOf �On the Origin of Species�.

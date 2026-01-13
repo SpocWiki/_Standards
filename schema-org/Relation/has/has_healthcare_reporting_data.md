@@ -32,7 +32,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/healthcare_reporting_data :: CDCPMDRecord, Dataset ] 
+- #has_/healthcare_reporting_data :: CDCPMDRecord, Dataset  
 - [ has_healthcare_reporting_data :: CDCPMDRecord, Dataset ] 
 
 Indicates data describing a hospital, e.g. a CDC [[CDCPMDRecord]] or as some kind of [[../../../Society/Communication/Media/Creative_Work/Dataset]].

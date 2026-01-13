@@ -33,7 +33,7 @@ type: Predi_Relation
 #is_/different_from :: [[../../../Mathematics/Category_Theory/Category(Math)|Category(Math)]] 
 
 Use it like this: 
-- [has_/category :: CategoryCode, PhysicalActivityCategory, Text, Thing, URL ] 
+- #has_/category :: CategoryCode, PhysicalActivityCategory, Text, Thing, URL  
 - [ has_category :: CategoryCode, PhysicalActivityCategory, Text, Thing, URL ] 
 
 A category for the item. Categories don't form a controlled Vocabulary; they are often strings. 

@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/applicable_location :: AdministrativeArea ] 
+- #has_/applicable_location :: AdministrativeArea  
 - [ is_applicable_in_location :: AdministrativeArea ] 
 
 The location in which the status applies.

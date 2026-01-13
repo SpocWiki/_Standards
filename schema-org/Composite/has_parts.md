@@ -35,7 +35,7 @@ type: Predi_Relation
 Indicates an item or CreativeWork that is part of this item, or CreativeWork (in some sense).
 
 Use it like this: 
-- [has_/parts :: CreativeWork ] 
+- #has_/parts :: CreativeWork  
 - [ has_parts :: CreativeWork ] 
 
 Relation describes that: 

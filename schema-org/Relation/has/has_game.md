@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/game :: VideoGame ] 
+- #has_/game :: VideoGame  
 - [ has_game :: VideoGame ] 
 
 Video game which is played on this server.

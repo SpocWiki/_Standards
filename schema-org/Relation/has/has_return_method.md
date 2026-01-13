@@ -31,7 +31,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/return_method :: ReturnMethodEnumeration ] 
+- #has_/return_method :: ReturnMethodEnumeration  
 - [ has_return_method :: ReturnMethodEnumeration ] 
 
 The type of return method offered, specified from an enumeration.

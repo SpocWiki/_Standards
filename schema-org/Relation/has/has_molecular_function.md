@@ -31,7 +31,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/molecular_function :: DefinedTerm, PropertyValue, URL ] 
+- #has_/molecular_function :: DefinedTerm, PropertyValue, URL  
 - [ has_molecular_function :: DefinedTerm, PropertyValue, URL ] 
 
 Molecular function performed by this BioChemEntity; please use PropertyValue if you want to include any evidence.

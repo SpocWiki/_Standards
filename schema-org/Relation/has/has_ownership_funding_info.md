@@ -32,7 +32,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/ownership_funding_info :: AboutPage, CreativeWork, Text, URL ] 
+- #has_/ownership_funding_info :: AboutPage, CreativeWork, Text, URL  
 - [ has_ownership_funding_info :: AboutPage, CreativeWork, Text, URL ] 
 
 For an [[../../../Society/Agent/Community/Organization]] (often but not necessarily a [[NewsMediaOrganization]]), a description of organizational ownership structure; funding and grants. In a news/media setting, this is with particular reference to editorial independence.   Note that the [[funder]] is also available and can be used to make basic funder information machine-readable.

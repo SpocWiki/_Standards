@@ -27,7 +27,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/itinerary :: ItemList, Place ] 
+- #has_/itinerary :: ItemList, Place  
 - [ has_itinerary :: ItemList, Place ] 
 
 Destination(s) ( [[../../../Earth/Geography/Place]] ) that make up a trip. For a trip where destination order is important use [[ItemList]] to specify that order (see examples).

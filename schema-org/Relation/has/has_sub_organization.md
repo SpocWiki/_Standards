@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/sub_organization :: Organization ] 
+- #has_/sub_organization :: Organization  
 - [ has_sub_organization :: Organization ] 
 
 A relationship between two organizations where the first includes the second, e.g., as a subsidiary. See also: the more specific 'department' property.

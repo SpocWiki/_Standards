@@ -31,7 +31,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/accepted_answer :: Answer, ItemList ] 
+- #has_/accepted_answer :: Answer, ItemList  
 - [ has_accepted_answer :: Answer, ItemList ] 
 
 #class/Relation

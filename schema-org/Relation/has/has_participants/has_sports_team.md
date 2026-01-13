@@ -31,7 +31,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/sports_team :: SportsTeam ] 
+- #has_/sports_team :: SportsTeam  
 - [ has_sports_team :: SportsTeam ] 
 
 A sub property of[[has_participants]]]. The sports team that participated on this action.

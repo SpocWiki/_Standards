@@ -31,7 +31,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/toc_continuation :: HyperTocEntry ] 
+- #has_/toc_continuation :: HyperTocEntry  
 - [ has_toc_continuation :: HyperTocEntry ] 
 
 A [[HyperTocEntry]] can have a [[tocContinuation]] indicated, which is another [[HyperTocEntry]] that would be the default next item to play or render.

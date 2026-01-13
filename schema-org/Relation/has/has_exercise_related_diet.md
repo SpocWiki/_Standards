@@ -30,7 +30,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/exercise_related_diet :: Diet ] 
+- #has_/exercise_related_diet :: Diet  
 - [ has_exercise_related_diet :: Diet ] 
 
 A sub property of instrument. The diet used in this action.

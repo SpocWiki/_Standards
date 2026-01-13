@@ -33,7 +33,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/bio_chem_interaction :: BioChemEntity ] 
+- #has_/bio_chem_interaction :: BioChemEntity  
 - [ has_bio_chem_interaction :: BioChemEntity ] 
 
 A BioChemEntity that is known to interact with this item.

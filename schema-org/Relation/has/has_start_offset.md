@@ -31,7 +31,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/start_offset :: HyperTocEntry, Number ] 
+- #has_/start_offset :: HyperTocEntry, Number  
 - [ has_start_offset :: HyperTocEntry, Number ] 
 
 The start time of the clip expressed as the number of seconds from the beginning of the work.

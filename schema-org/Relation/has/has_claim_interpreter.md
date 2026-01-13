@@ -31,7 +31,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/claim_interpreter :: Organization, Person ] 
+- #has_/claim_interpreter :: Organization, Person  
 - [ has_claim_interpreter :: Organization, Person ] 
 
 For a [[../../../Society/Communication/Media/Creative_Work/Statement/Claim]] interpreted from [[MediaObject]] content

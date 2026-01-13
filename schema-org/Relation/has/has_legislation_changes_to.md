@@ -32,7 +32,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/legislation_changes :: Legislation ] 
+- #has_/legislation_changes :: Legislation  
 - [ has_legislation_changes :: Legislation ] 
 
 Another legislation that this legislation changes. 

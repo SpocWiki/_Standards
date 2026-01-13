@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/diet :: Diet ] 
+- #has_/diet :: Diet  
 - [ has_diet :: Diet ] 
 
 A sub property of instrument. The diet used in this action.

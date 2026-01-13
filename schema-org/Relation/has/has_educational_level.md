@@ -31,7 +31,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/educational_level :: DefinedTerm, Text, URL ] 
+- #has_/educational_level :: DefinedTerm, Text, URL  
 - [ has_educational_level :: DefinedTerm, Text, URL ] 
 
 The level in terms of progression through an educational or training context. Examples of educational levels include 'beginner', 'intermediate' or 'advanced', and formal sets of level indicators.

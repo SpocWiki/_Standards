@@ -31,7 +31,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/occupational_category :: CategoryCode, Text ] 
+- #has_/occupational_category :: CategoryCode, Text  
 - [ has_occupational_category :: CategoryCode, Text ] 
 
 A category describing the job, 

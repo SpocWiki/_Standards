@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/result :: [Thing](../../../Class/Thing.md) ] 
+- #has_/result :: [Thing](../../../Class/Thing.md)  
 - [ has_result :: [Thing](../../../Class/Thing.md) ] 
 
 The result produced in the action. E.g. John wrote <em>a book</em>.

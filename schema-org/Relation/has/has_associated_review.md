@@ -29,7 +29,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/associated_review :: Review ] 
+- #has_/associated_review :: Review  
 - [ has_associated_review :: Review ] 
 
 An associated [[../../../Society/Communication/Media/Creative_Work/Review]].

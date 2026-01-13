@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/creator :: Organization, Person ] 
+- #has_/creator :: Organization, Person  
 - [ has_creator :: Organization, Person ] 
 
 Specifies the creator/author of this [[../../../Society/Communication/Media/Creative_Work|CreativeWork]]. 

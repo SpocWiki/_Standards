@@ -31,7 +31,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/end_offset :: HyperTocEntry, Number ] 
+- #has_/end_offset :: HyperTocEntry, Number  
 - [ has_end_offset :: HyperTocEntry, Number ] 
 
 The end time of the clip expressed as the number of seconds from the beginning of the work.

@@ -27,7 +27,7 @@ type: Predi_Relation
 #is_/part_of :: https://bib.schema.org  
 
 Use it like this: 
-- [has_/penciler :: Person ] 
+- #has_/penciler :: Person  
 - [ has_penciler :: Person ] 
 
 The individual who draws the primary narrative artwork.

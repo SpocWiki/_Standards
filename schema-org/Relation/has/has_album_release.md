@@ -27,7 +27,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/album_release :: MusicRelease ] 
+- #has_/album_release :: MusicRelease  
 - [ has_album_release :: MusicRelease ] 
 
 A release of this album.

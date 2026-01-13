@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/caption :: MediaObject, Text ] 
+- #has_/caption :: MediaObject, Text  
 - [ has_caption :: MediaObject, Text ] 
 
 The caption for this object. For downloadable machine formats (closed caption, subtitles etc.) use MediaObject and indicate the [[encodingFormat]].

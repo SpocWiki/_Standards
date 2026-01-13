@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/exercise_plan :: ExercisePlan ] 
+- #has_/exercise_plan :: ExercisePlan  
 - [ has_exercise_plan :: ExercisePlan ] 
 
 A sub property of instrument. The exercise plan used on this action.

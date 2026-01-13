@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/food_establishment :: FoodEstablishment, Place ] 
+- #has_/food_establishment :: FoodEstablishment, Place  
 - [ has_food_establishment :: FoodEstablishment, Place ] 
 
 A sub property of location. The specific food establishment where the action occurred.

@@ -32,7 +32,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/event_attendance_mode :: EventAttendanceModeEnumeration ] 
+- #has_/event_attendance_mode :: EventAttendanceModeEnumeration  
 - [ has_event_attendance_mode :: EventAttendanceModeEnumeration ] 
 
 The eventAttendanceMode of an event indicates whether it occurs online, offline, or a mix.

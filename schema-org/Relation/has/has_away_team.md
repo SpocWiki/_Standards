@@ -27,7 +27,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/away_team :: Person, SportsTeam ] 
+- #has_/away_team :: Person, SportsTeam  
 - [ has_away_team :: Person, SportsTeam ] 
 
 The 'away' team in a sports event.

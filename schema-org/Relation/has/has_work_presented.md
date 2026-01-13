@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/work_presented :: Movie ] 
+- #has_/work_presented :: Movie  
 - [ has_work_presented :: Movie ] 
 
 The movie presented during this event.

@@ -29,7 +29,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/acquire_license_page :: CreativeWork, URL ] 
+- #has_/acquire_license_page :: CreativeWork, URL  
 - [ has_acquire_license_page :: CreativeWork, URL ] 
 
 Indicates a page documenting how licenses can be purchased or otherwise acquired, for the current item.

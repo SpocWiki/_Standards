@@ -34,7 +34,7 @@ type: Predi_Relation
 Is similar to has_subject that is applied to an instance of a Predicate and yields an Element of the Domain. 
 
 Use it like this: 
-- [has_/domain :: [[../Classes|Class]] ] 
+- #has_/domain :: [[../Classes|Class]]  
 - [ has_domain :: [[../Classes|Class]] ] 
 
 Relates a property to a class that is (one of) the type(s) the property is expected to be used on.

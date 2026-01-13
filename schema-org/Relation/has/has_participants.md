@@ -46,7 +46,7 @@ Other co-agents that participated in the action indirectly.
 E.g. John wrote a book with <em>Steve</em>.
 
 Use it like this: 
-- [has_/participants :: Organization, Person ] 
+- #has_/participants :: Organization, Person  
 - [ has_participants :: Organization, Person ] 
 
 Relation describes that: 

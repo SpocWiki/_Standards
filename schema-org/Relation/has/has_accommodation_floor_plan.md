@@ -31,7 +31,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/accommodation_floor_plan :: FloorPlan ] 
+- #has_/accommodation_floor_plan :: FloorPlan  
 - [ has_accommodation_floor_plan :: FloorPlan ] 
 
 A floorplan of some [[../../../Earth/Geography/Place/Accommodation]].

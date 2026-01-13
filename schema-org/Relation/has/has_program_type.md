@@ -31,7 +31,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/program_type :: DefinedTerm, Text ] 
+- #has_/program_type :: DefinedTerm, Text  
 - [ has_program_type :: DefinedTerm, Text ] 
 
 The type of educational or occupational program. For example, classroom, internship, alternance, etc.

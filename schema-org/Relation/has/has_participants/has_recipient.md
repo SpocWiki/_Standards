@@ -25,7 +25,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/recipient :: Audience, ContactPoint, Organization, Person ] 
+- #has_/recipient :: Audience, ContactPoint, Organization, Person  
 - [ has_recipient :: Audience, ContactPoint, Organization, Person ] 
 
 A sub property of participant. The participant who is at the receiving end of the action.

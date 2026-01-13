@@ -27,7 +27,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/backstory :: CreativeWork, Text ] 
+- #has_/backstory :: CreativeWork, Text  
 - [ has_backstory :: CreativeWork, Text ] 
 
 For an [[../../../Society/Communication/Media/Creative_Work/Article]], typically a [[NewsArticle]], the backstory property provides a textual summary giving a brief explanation of why and how an article was created. In a journalistic setting this could include information about reporting process, methods, interviews, data sources, etc.

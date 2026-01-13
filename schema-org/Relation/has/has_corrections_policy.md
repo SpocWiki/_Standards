@@ -31,7 +31,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/corrections_policy :: CreativeWork, URL ] 
+- #has_/corrections_policy :: CreativeWork, URL  
 - [ has_corrections_policy :: CreativeWork, URL ] 
 
 For an [[../../../Society/Agent/Community/Organization]] (e.g. [[NewsMediaOrganization]],

@@ -30,7 +30,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/applicant_location_requirements :: AdministrativeArea ] 
+- #has_/applicant_location_requirements :: AdministrativeArea  
 - [ has_applicant_location_requirements :: AdministrativeArea ] 
 
 The location(s) applicants can apply from. This is usually used for telecommuting jobs where the applicant does not need to be in a physical office. Note: This should not be used for citizenship or work visa requirements.
