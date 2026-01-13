@@ -34,7 +34,7 @@ dv_has_:
 dv_range: Duration, Text
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Property/has_duration_of/has_duration_of_flight|has_duration_of_flight]]"
+    - "[[has_duration_of_flight|has_duration_of_flight]]"
     - "[[/_public/schema-org/Property/has_duration_of/has_duration_of_flight.public|has_duration_of_flight.public]]"
     - "[[/_internal/schema-org/Property/has_duration_of/has_duration_of_flight.internal|has_duration_of_flight.internal]]"
     - "[[/_protect/schema-org/Property/has_duration_of/has_duration_of_flight.protect|has_duration_of_flight.protect]]"
@@ -43,7 +43,7 @@ dv_is_:
     - "[[/_secret/schema-org/Property/has_duration_of/has_duration_of_flight.secret|has_duration_of_flight.secret]]"
 dv_has_name: has_duration_of_flight
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_duration_of/has_duration_of_flight|has_duration_of_flight]]"
+  - "[[has_duration_of_flight|has_duration_of_flight]]"
   - "[[/_public/schema-org/Property/has_duration_of/has_duration_of_flight.public|has_duration_of_flight.public]]"
   - "[[/_internal/schema-org/Property/has_duration_of/has_duration_of_flight.internal|has_duration_of_flight.internal]]"
   - "[[/_protect/schema-org/Property/has_duration_of/has_duration_of_flight.protect|has_duration_of_flight.protect]]"
@@ -68,7 +68,7 @@ range = `=this.dv_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_duration_of/has_duration_of_flight|has_duration_of_flight]] 
+### #is_/same_as :: [[has_duration_of_flight|has_duration_of_flight]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Property/has_duration_of/has_duration_of_flight.public|has_duration_of_flight.public]] 
 

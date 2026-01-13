@@ -35,7 +35,7 @@ dv_has_:
 dv_range: Duration, QuantitativeValue
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Property/has_duration_of/has_duration_of_lease|has_duration_of_lease]]"
+    - "[[has_duration_of_lease|has_duration_of_lease]]"
     - "[[/_public/schema-org/Property/has_duration_of/has_duration_of_lease.public|has_duration_of_lease.public]]"
     - "[[/_internal/schema-org/Property/has_duration_of/has_duration_of_lease.internal|has_duration_of_lease.internal]]"
     - "[[/_protect/schema-org/Property/has_duration_of/has_duration_of_lease.protect|has_duration_of_lease.protect]]"
@@ -44,7 +44,7 @@ dv_is_:
     - "[[/_secret/schema-org/Property/has_duration_of/has_duration_of_lease.secret|has_duration_of_lease.secret]]"
 dv_has_name: has_duration_of_lease
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_duration_of/has_duration_of_lease|has_duration_of_lease]]"
+  - "[[has_duration_of_lease|has_duration_of_lease]]"
   - "[[/_public/schema-org/Property/has_duration_of/has_duration_of_lease.public|has_duration_of_lease.public]]"
   - "[[/_internal/schema-org/Property/has_duration_of/has_duration_of_lease.internal|has_duration_of_lease.internal]]"
   - "[[/_protect/schema-org/Property/has_duration_of/has_duration_of_lease.protect|has_duration_of_lease.protect]]"
@@ -71,7 +71,7 @@ range = `=this.dv_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_duration_of/has_duration_of_lease|has_duration_of_lease]] 
+### #is_/same_as :: [[has_duration_of_lease|has_duration_of_lease]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Property/has_duration_of/has_duration_of_lease.public|has_duration_of_lease.public]] 
 

@@ -35,7 +35,7 @@ dv_has_:
 dv_range: Duration
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Property/has_duration_of/has_duration_to_complete|has_duration_to_complete]]"
+    - "[[has_duration_to_complete|has_duration_to_complete]]"
     - "[[/_public/schema-org/Property/has_duration_of/has_duration_to_complete.public|has_duration_to_complete.public]]"
     - "[[/_internal/schema-org/Property/has_duration_of/has_duration_to_complete.internal|has_duration_to_complete.internal]]"
     - "[[/_protect/schema-org/Property/has_duration_of/has_duration_to_complete.protect|has_duration_to_complete.protect]]"
@@ -44,7 +44,7 @@ dv_is_:
     - "[[/_secret/schema-org/Property/has_duration_of/has_duration_to_complete.secret|has_duration_to_complete.secret]]"
 dv_has_name: has_duration_to_complete
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_duration_of/has_duration_to_complete|has_duration_to_complete]]"
+  - "[[has_duration_to_complete|has_duration_to_complete]]"
   - "[[/_public/schema-org/Property/has_duration_of/has_duration_to_complete.public|has_duration_to_complete.public]]"
   - "[[/_internal/schema-org/Property/has_duration_of/has_duration_to_complete.internal|has_duration_to_complete.internal]]"
   - "[[/_protect/schema-org/Property/has_duration_of/has_duration_to_complete.protect|has_duration_to_complete.protect]]"
@@ -71,7 +71,7 @@ range = `=this.dv_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_duration_of/has_duration_to_complete|has_duration_to_complete]] 
+### #is_/same_as :: [[has_duration_to_complete|has_duration_to_complete]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Property/has_duration_of/has_duration_to_complete.public|has_duration_to_complete.public]] 
 

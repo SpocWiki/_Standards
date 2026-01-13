@@ -54,7 +54,7 @@ Has [sub_properties::{{subproperties}}]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_duration_of/_Duration_Template|_Duration_Template]] 
+### #is_/same_as :: [[_Duration_Template|_Duration_Template]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Property/has_duration_of/_Duration_Template.public|_Duration_Template.public]] 
 

@@ -36,7 +36,7 @@ dv_range: Duration, Text
 dv_sub_property_of: frequency
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Property/has_duration_of/has_duration_until_repeat|has_duration_until_repeat]]"
+    - "[[has_duration_until_repeat|has_duration_until_repeat]]"
     - "[[/_public/schema-org/Property/has_duration_of/has_duration_until_repeat.public|has_duration_until_repeat.public]]"
     - "[[/_internal/schema-org/Property/has_duration_of/has_duration_until_repeat.internal|has_duration_until_repeat.internal]]"
     - "[[/_protect/schema-org/Property/has_duration_of/has_duration_until_repeat.protect|has_duration_until_repeat.protect]]"
@@ -45,7 +45,7 @@ dv_is_:
     - "[[/_secret/schema-org/Property/has_duration_of/has_duration_until_repeat.secret|has_duration_until_repeat.secret]]"
 dv_has_name: has_duration_until_repeat
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_duration_of/has_duration_until_repeat|has_duration_until_repeat]]"
+  - "[[has_duration_until_repeat|has_duration_until_repeat]]"
   - "[[/_public/schema-org/Property/has_duration_of/has_duration_until_repeat.public|has_duration_until_repeat.public]]"
   - "[[/_internal/schema-org/Property/has_duration_of/has_duration_until_repeat.internal|has_duration_until_repeat.internal]]"
   - "[[/_protect/schema-org/Property/has_duration_of/has_duration_until_repeat.protect|has_duration_until_repeat.protect]]"
@@ -63,7 +63,7 @@ Use it like this:
 - has_duration_until_repeat = `=this.dv_has_duration_until_repeat`  with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
 
 Defines the frequency at which [[Event]]s will occur according to a schedule [[Schedule]]. The intervals between
-	  events should be defined as a [[../../Predicate/Quantity/has_duration]] of time.
+	  events should be defined as a [[../../Predicate/Quantity/Duration]] of time.
 
 Formal Predicate: 
 domain = `=this.dv_domain` 
@@ -75,7 +75,7 @@ Is sub_property_of = `=this.dv_sub_property_of`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_duration_of/has_duration_until_repeat|has_duration_until_repeat]] 
+### #is_/same_as :: [[has_duration_until_repeat|has_duration_until_repeat]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Property/has_duration_of/has_duration_until_repeat.public|has_duration_until_repeat.public]] 
 

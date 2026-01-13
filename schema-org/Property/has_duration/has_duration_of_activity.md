@@ -34,7 +34,7 @@ dv_has_:
 dv_range: Duration, QuantitativeValue
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Property/has_duration_of/has_duration_of_activity|has_duration_of_activity]]"
+    - "[[has_duration_of_activity|has_duration_of_activity]]"
     - "[[/_public/schema-org/Property/has_duration_of/has_duration_of_activity.public|has_duration_of_activity.public]]"
     - "[[/_internal/schema-org/Property/has_duration_of/has_duration_of_activity.internal|has_duration_of_activity.internal]]"
     - "[[/_protect/schema-org/Property/has_duration_of/has_duration_of_activity.protect|has_duration_of_activity.protect]]"
@@ -43,7 +43,7 @@ dv_is_:
     - "[[/_secret/schema-org/Property/has_duration_of/has_duration_of_activity.secret|has_duration_of_activity.secret]]"
 dv_has_name: has_duration_of_activity
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_duration_of/has_duration_of_activity|has_duration_of_activity]]"
+  - "[[has_duration_of_activity|has_duration_of_activity]]"
   - "[[/_public/schema-org/Property/has_duration_of/has_duration_of_activity.public|has_duration_of_activity.public]]"
   - "[[/_internal/schema-org/Property/has_duration_of/has_duration_of_activity.internal|has_duration_of_activity.internal]]"
   - "[[/_protect/schema-org/Property/has_duration_of/has_duration_of_activity.protect|has_duration_of_activity.protect]]"
@@ -68,7 +68,7 @@ range = `=this.dv_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_duration_of/has_duration_of_activity|has_duration_of_activity]] 
+### #is_/same_as :: [[has_duration_of_activity|has_duration_of_activity]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Property/has_duration_of/has_duration_of_activity.public|has_duration_of_activity.public]] 
 

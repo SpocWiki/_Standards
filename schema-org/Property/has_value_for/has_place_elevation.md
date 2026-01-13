@@ -28,13 +28,22 @@ title: has_elevation_meters
 type: Predi_Quantity
 ---
 
+# [[has_place_elevation]] 
+
+#has_/unit_for_/default :: [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Meter|Unit~Meter]] 
+#is_/different_from :: [[has_place_altitude]] 
+
+The default [[../../../Dimension/Unit_of_Measure|Unit_of_Measure]]  are [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Meter|Unit~Meter]]s, unless specified different, either 
+- in the XPath/JsonPath 
+- as a [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]] with `value` and `unitCode` 
+
 Elevation in [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Meter|Unit~Meter]]s __above Sea-Level__ of GeoCoordinate or GeoShape, typically [[WGS84]]. 
 
-#is_/similar_to :: [[has_place_altitude_meters|altitude]] 
-#is_/different_from :: [[has_place_altitude_meters|altitude]] 
-#is_/similar_to :: [[has_place_altitude_meters]] 
-#is_/different_from :: [[has_place_altitude_meters]] 
-[[has_place_altitude_meters|Altitude]] is measured __above Ground__, so the elevation has to be added to get the.
+#is_/similar_to :: [[has_place_altitude|altitude]] 
+#is_/different_from :: [[has_place_altitude|altitude]] 
+#is_/similar_to :: [[has_place_altitude]] 
+#is_/different_from :: [[has_place_altitude]] 
+[[has_place_altitude|Altitude]] is measured __above Ground__, so the elevation has to be added to get the.
 
 Values may be of the form 'NUMBER UNIT_OF_MEASUREMENT' (e.g., '1,000 m', '3,200 ft') 
 while numbers alone should be assumed to be a value in meters.
@@ -60,7 +69,7 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_place_elevation_meters|has_place_elevation_meters]] 
+### #is_/same_as :: [[has_place_elevation|has_place_elevation_meters]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_place_elevation_meters.public|has_place_elevation_meters.public]] 
 

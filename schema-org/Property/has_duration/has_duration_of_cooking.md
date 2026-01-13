@@ -35,7 +35,7 @@ dv_range: Duration
 dv_sub_property_of: performTime
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Property/has_duration_of/has_duration_of_cooking|has_duration_of_cooking]]"
+    - "[[has_duration_of_cooking|has_duration_of_cooking]]"
     - "[[/_public/schema-org/Property/has_duration_of/has_duration_of_cooking.public|has_duration_of_cooking.public]]"
     - "[[/_internal/schema-org/Property/has_duration_of/has_duration_of_cooking.internal|has_duration_of_cooking.internal]]"
     - "[[/_protect/schema-org/Property/has_duration_of/has_duration_of_cooking.protect|has_duration_of_cooking.protect]]"
@@ -44,7 +44,7 @@ dv_is_:
     - "[[/_secret/schema-org/Property/has_duration_of/has_duration_of_cooking.secret|has_duration_of_cooking.secret]]"
 dv_has_name: has_duration_of_cooking
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_duration_of/has_duration_of_cooking|has_duration_of_cooking]]"
+  - "[[has_duration_of_cooking|has_duration_of_cooking]]"
   - "[[/_public/schema-org/Property/has_duration_of/has_duration_of_cooking.public|has_duration_of_cooking.public]]"
   - "[[/_internal/schema-org/Property/has_duration_of/has_duration_of_cooking.internal|has_duration_of_cooking.internal]]"
   - "[[/_protect/schema-org/Property/has_duration_of/has_duration_of_cooking.protect|has_duration_of_cooking.protect]]"
@@ -71,7 +71,7 @@ Is sub_property_of = `=this.dv_sub_property_of`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_duration_of/has_duration_of_cooking|has_duration_of_cooking]] 
+### #is_/same_as :: [[has_duration_of_cooking|has_duration_of_cooking]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Property/has_duration_of/has_duration_of_cooking.public|has_duration_of_cooking.public]] 
 

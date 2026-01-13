@@ -34,7 +34,7 @@ dv_has_:
 dv_range: Duration
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Property/has_duration_of/has_duration_total|has_duration_total]]"
+    - "[[has_duration_total|has_duration_total]]"
     - "[[/_public/schema-org/Property/has_duration_of/has_duration_total.public|has_duration_total.public]]"
     - "[[/_internal/schema-org/Property/has_duration_of/has_duration_total.internal|has_duration_total.internal]]"
     - "[[/_protect/schema-org/Property/has_duration_of/has_duration_total.protect|has_duration_total.protect]]"
@@ -43,7 +43,7 @@ dv_is_:
     - "[[/_secret/schema-org/Property/has_duration_of/has_duration_total.secret|has_duration_total.secret]]"
 dv_has_name: has_duration_total
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_duration_of/has_duration_total|has_duration_total]]"
+  - "[[has_duration_total|has_duration_total]]"
   - "[[/_public/schema-org/Property/has_duration_of/has_duration_total.public|has_duration_total.public]]"
   - "[[/_internal/schema-org/Property/has_duration_of/has_duration_total.internal|has_duration_total.internal]]"
   - "[[/_protect/schema-org/Property/has_duration_of/has_duration_total.protect|has_duration_total.protect]]"
@@ -68,7 +68,7 @@ range = `=this.dv_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_duration_of/has_duration_total|has_duration_total]] 
+### #is_/same_as :: [[has_duration_total|has_duration_total]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Property/has_duration_of/has_duration_total.public|has_duration_total.public]] 
 

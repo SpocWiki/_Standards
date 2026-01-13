@@ -38,8 +38,8 @@ For example <code>37.42242</code> (<a href="https://en.wikipedia.org/wiki/World_
 - #is_/different_from :: #has_/location which is a Relation to a [[../../../Earth/Geography/Place]] with Latitude 
 
 Predicate to describe the Quantity of [[../../../Earth/Geography/Place|Places]] and [[../../Class/is_a_/Intangible/structured_value/geo_coordinates|GeoCoordinates]], 
-together with [[has_place_longitude|longitude]] and [[has_place_elevation_meters|elevation]].
-but not [[has_place_altitude_meters|altitude]], which adds to [[has_place_elevation_meters|elevation]] and is typically used for flying (positive) or diving (negative) Objects.
+together with [[has_place_longitude|longitude]] and [[has_place_elevation|elevation]].
+but not [[has_place_altitude|altitude]], which adds to [[has_place_elevation|elevation]] and is typically used for flying (positive) or diving (negative) Objects.
 
 Use it like this: 
 - #has_/place_/latitude :: Number, Text   

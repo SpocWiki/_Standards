@@ -35,7 +35,7 @@ dv_has_:
 dv_range: Duration, Number, QuantitativeValue
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Property/has_duration_of/has_duration_of_billing|has_duration_of_billing]]"
+    - "[[has_duration_of_billing|has_duration_of_billing]]"
     - "[[/_public/schema-org/Property/has_duration_of/has_duration_of_billing.public|has_duration_of_billing.public]]"
     - "[[/_internal/schema-org/Property/has_duration_of/has_duration_of_billing.internal|has_duration_of_billing.internal]]"
     - "[[/_protect/schema-org/Property/has_duration_of/has_duration_of_billing.protect|has_duration_of_billing.protect]]"
@@ -44,7 +44,7 @@ dv_is_:
     - "[[/_secret/schema-org/Property/has_duration_of/has_duration_of_billing.secret|has_duration_of_billing.secret]]"
 dv_has_name: has_duration_of_billing
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_duration_of/has_duration_of_billing|has_duration_of_billing]]"
+  - "[[has_duration_of_billing|has_duration_of_billing]]"
   - "[[/_public/schema-org/Property/has_duration_of/has_duration_of_billing.public|has_duration_of_billing.public]]"
   - "[[/_internal/schema-org/Property/has_duration_of/has_duration_of_billing.internal|has_duration_of_billing.internal]]"
   - "[[/_protect/schema-org/Property/has_duration_of/has_duration_of_billing.protect|has_duration_of_billing.protect]]"
@@ -73,7 +73,7 @@ range = `=this.dv_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_duration_of/has_duration_of_billing|has_duration_of_billing]] 
+### #is_/same_as :: [[has_duration_of_billing|has_duration_of_billing]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Property/has_duration_of/has_duration_of_billing.public|has_duration_of_billing.public]] 
 

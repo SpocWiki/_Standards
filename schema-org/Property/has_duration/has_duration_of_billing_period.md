@@ -34,7 +34,7 @@ dv_has_:
 dv_range: Duration
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Property/has_duration_of/has_duration_of_billing_period|has_duration_of_billing_period]]"
+    - "[[has_duration_of_billing_period|has_duration_of_billing_period]]"
     - "[[/_public/schema-org/Property/has_duration_of/has_duration_of_billing_period.public|has_duration_of_billing_period.public]]"
     - "[[/_internal/schema-org/Property/has_duration_of/has_duration_of_billing_period.internal|has_duration_of_billing_period.internal]]"
     - "[[/_protect/schema-org/Property/has_duration_of/has_duration_of_billing_period.protect|has_duration_of_billing_period.protect]]"
@@ -43,7 +43,7 @@ dv_is_:
     - "[[/_secret/schema-org/Property/has_duration_of/has_duration_of_billing_period.secret|has_duration_of_billing_period.secret]]"
 dv_has_name: has_duration_of_billing_period
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_duration_of/has_duration_of_billing_period|has_duration_of_billing_period]]"
+  - "[[has_duration_of_billing_period|has_duration_of_billing_period]]"
   - "[[/_public/schema-org/Property/has_duration_of/has_duration_of_billing_period.public|has_duration_of_billing_period.public]]"
   - "[[/_internal/schema-org/Property/has_duration_of/has_duration_of_billing_period.internal|has_duration_of_billing_period.internal]]"
   - "[[/_protect/schema-org/Property/has_duration_of/has_duration_of_billing_period.protect|has_duration_of_billing_period.protect]]"
@@ -68,7 +68,7 @@ range = `=this.dv_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_duration_of/has_duration_of_billing_period|has_duration_of_billing_period]] 
+### #is_/same_as :: [[has_duration_of_billing_period|has_duration_of_billing_period]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Property/has_duration_of/has_duration_of_billing_period.public|has_duration_of_billing_period.public]] 
 

@@ -35,7 +35,7 @@ dv_range: Duration
 dv_sub_properties: cookTime
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Property/has_duration_of/has_duration_to_perform|has_duration_to_perform]]"
+    - "[[has_duration_to_perform|has_duration_to_perform]]"
     - "[[/_public/schema-org/Property/has_duration_of/has_duration_to_perform.public|has_duration_to_perform.public]]"
     - "[[/_internal/schema-org/Property/has_duration_of/has_duration_to_perform.internal|has_duration_to_perform.internal]]"
     - "[[/_protect/schema-org/Property/has_duration_of/has_duration_to_perform.protect|has_duration_to_perform.protect]]"
@@ -44,7 +44,7 @@ dv_is_:
     - "[[/_secret/schema-org/Property/has_duration_of/has_duration_to_perform.secret|has_duration_to_perform.secret]]"
 dv_has_name: has_duration_to_perform
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_duration_of/has_duration_to_perform|has_duration_to_perform]]"
+  - "[[has_duration_to_perform|has_duration_to_perform]]"
   - "[[/_public/schema-org/Property/has_duration_of/has_duration_to_perform.public|has_duration_to_perform.public]]"
   - "[[/_internal/schema-org/Property/has_duration_of/has_duration_to_perform.internal|has_duration_to_perform.internal]]"
   - "[[/_protect/schema-org/Property/has_duration_of/has_duration_to_perform.protect|has_duration_to_perform.protect]]"
@@ -71,7 +71,7 @@ Has sub_properties = `=this.dv_sub_properties`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_duration_of/has_duration_to_perform|has_duration_to_perform]] 
+### #is_/same_as :: [[has_duration_to_perform|has_duration_to_perform]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Property/has_duration_of/has_duration_to_perform.public|has_duration_to_perform.public]] 
 

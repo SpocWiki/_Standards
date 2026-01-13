@@ -35,7 +35,7 @@ dv_has_:
 dv_range: Duration
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Property/has_duration_of/has_duration_of_term|has_duration_of_term]]"
+    - "[[has_duration_of_term|has_duration_of_term]]"
     - "[[/_public/schema-org/Property/has_duration_of/has_duration_of_term.public|has_duration_of_term.public]]"
     - "[[/_internal/schema-org/Property/has_duration_of/has_duration_of_term.internal|has_duration_of_term.internal]]"
     - "[[/_protect/schema-org/Property/has_duration_of/has_duration_of_term.protect|has_duration_of_term.protect]]"
@@ -44,7 +44,7 @@ dv_is_:
     - "[[/_secret/schema-org/Property/has_duration_of/has_duration_of_term.secret|has_duration_of_term.secret]]"
 dv_has_name: has_duration_of_term
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_duration_of/has_duration_of_term|has_duration_of_term]]"
+  - "[[has_duration_of_term|has_duration_of_term]]"
   - "[[/_public/schema-org/Property/has_duration_of/has_duration_of_term.public|has_duration_of_term.public]]"
   - "[[/_internal/schema-org/Property/has_duration_of/has_duration_of_term.internal|has_duration_of_term.internal]]"
   - "[[/_protect/schema-org/Property/has_duration_of/has_duration_of_term.protect|has_duration_of_term.protect]]"
@@ -71,7 +71,7 @@ range = `=this.dv_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_duration_of/has_duration_of_term|has_duration_of_term]] 
+### #is_/same_as :: [[has_duration_of_term|has_duration_of_term]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Property/has_duration_of/has_duration_of_term.public|has_duration_of_term.public]] 
 
