@@ -38,7 +38,7 @@ perform a service, or give away tickets to an event.
 
 Use [[businessFunction]] to indicate the kind of transaction offered, i.e. sell, lease, etc. 
 
-This property can also be used to describe a [[Demand]]. 
+This property can also be used to describe a [[../../../Society/Agent/Community/Organization/Business/Demand]]. 
 
 While this property is listed as expected on a number of common types, it can be used in others. 
 In that case, using a second type, such as Product or a subtype of Product, 

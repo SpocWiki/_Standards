@@ -25,6 +25,10 @@ title: is_an_offer Class
 type: Type
 ---
 
+# [[Offer]] 
+
+#is_/complement_of :: [[Demand|Demand]] 
+
 Class of all offers.
 
 Tag Instances like this: 

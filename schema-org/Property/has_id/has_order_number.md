@@ -44,11 +44,11 @@ Predicated describes that:
 (has_/name :: has_text_of_order_number )
 (has_/range :: Text )
 
-#is_/sub_property_of  :: identifier  
+#is_/sub_property_of  :: [[../../Relation/has/has_identifier]]   
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_order_number|has_order_number]] 
+### #is_/same_as :: [[has_order_number|has_order_number]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_order_number.public|has_order_number.public]] 
 

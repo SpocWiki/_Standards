@@ -62,8 +62,8 @@ lang: en
 
 - #has_/icon :: ⏱️ 
 - #is_/different_from :: [[../Predicate/Quantity/Duration|Duration]] 
-- #is_/similar_to :: [[has_duration/has_duration_total|has_duration_total]]  
 - #is_/similar_to :: [[has_duration/has_duration_until_repeat|has_duration_until_repeat]]  
+- #is_/similar_to :: [[has_duration/has_duration_total|has_duration_total]]  
   which measures the [[../Predicate/Quantity/Duration|Duration]] of a specific State/Activity of the Subject, 
   whereas this Property is applied to the [[../Predicate/Quantity/Duration|Duration]] of the time-extended Subject itself, e.g. 
 	- [[../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object/Audiobook|Audiobook]], 
@@ -76,7 +76,7 @@ lang: en
 	- [[../Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution|QuantitativeValueDistribution]], or 
 	- [[../Class/is_a_/Intangible/Schedule|Schedule]].
 
-The Time-Span an Action takes or that a State is retained. 
+The Time-Span, the Subject (an Action or a State) takes on or is retained. 
 
 Time-Span can also be used to measure the Time between (unrelated) Events, 
 but Duration specifically measures the Time of a (continuous) Activity or State. 

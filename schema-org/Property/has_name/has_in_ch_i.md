@@ -30,7 +30,7 @@ title: has_text_of_in_ch_i
 type: Pred_Text
 ---
 
-Predicate to describe the Text of MolecularEntity.
+Predicate to describe the Text of a [[../../Class/is_a_/Bio_Chem_Entity/Molecular_Entity|Molecular_Entity]]  .
 
 #is_/part_of :: pending:  
 
@@ -44,12 +44,11 @@ thus enabling easier linking of diverse data compilations.
 
 Predicated describes that: 
 
-#has_/domain  :: MolecularEntity  
-
+#has_/domain  :: [[../../Class/is_a_/Bio_Chem_Entity/Molecular_Entity|Molecular_Entity]]  
 (has_/name :: has_text_of_in_ch_i )
 (has_/range :: Text )
 
-#is_/sub_property_of  :: hasRepresentation  
+#is_/sub_property_of  :: [[../../Relation/has/has_representation|has_representation]]  
 
 ## Confidential Links & Embeds: 
 

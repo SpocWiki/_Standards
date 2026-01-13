@@ -38,12 +38,11 @@ The identifier for the account the payment will be applied to.
 
 Predicated describes that: 
 
-#has_/domain  :: Invoice  
-
+#has_/domain  :: [[../../Class/is_a_/Intangible/Invoice]]  
 (has_/name :: has_id_account )
-(has_/range :: Text )
+(has_/range :: [[../../Class/is_a_/Data_Type/Text]] )
 
-#is_/sub_property_of  :: identifier  
+#is_/sub_property_of  :: [[../../Relation/has/has_identifier]]   
 
 ## Confidential Links & Embeds: 
 

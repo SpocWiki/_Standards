@@ -40,12 +40,11 @@ An identifier for the legislation. This can be either a string-based identifier,
 
 Predicated describes that: 
 
-#has_/domain  :: Legislation  
-
+#has_/domain  :: [[../../../Society/Communication/Media/Creative_Work/Legislation]]   
 (has_/name :: has_id_legislation )
 (has_/range :: Text, URL )
 
-#is_/sub_property_of  :: identifier  
+#is_/sub_property_of  :: [[../../Relation/has/has_identifier]]   
 
 ## Confidential Links & Embeds: 
 

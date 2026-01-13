@@ -38,12 +38,11 @@ The id_isbn of the book.
 
 Predicated describes that: 
 
-#has_/domain  :: Book  
-
+#has_/domain  :: [[../../../Society/Communication/Media/Writing/Book]]   
 (has_/name :: has_id_isbn )
 (has_/range :: Text )
 
-#is_/sub_property_of  :: identifier  
+#is_/sub_property_of  :: [[../../Relation/has/has_identifier]]  
 
 ## Confidential Links & Embeds: 
 

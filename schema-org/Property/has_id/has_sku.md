@@ -41,11 +41,11 @@ Predicated describes that:
 (has_/name :: has_text_of_sku )
 (has_/range :: Text )
 
-#is_/sub_property_of  :: identifier  
+#is_/sub_property_of  :: [[../../Relation/has/has_identifier]]   
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_sku|has_sku]] 
+### #is_/same_as :: [[has_sku|has_sku]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_sku.public|has_sku.public]] 
 

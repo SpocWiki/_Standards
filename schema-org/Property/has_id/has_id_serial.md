@@ -43,7 +43,7 @@ Predicated describes that:
 (has_/name :: has_id_serial )
 (has_/range :: Text )
 
-#is_/sub_property_of  :: identifier  
+#is_/sub_property_of  :: [[../../Relation/has/has_identifier]]  
 
 #has_/sub_properties :: [ vehicleIdentificationNumber ]  
 

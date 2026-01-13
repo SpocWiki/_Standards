@@ -38,16 +38,15 @@ The Dun & Bradstreet DUNS number for identifying an organization or business per
 
 Predicated describes that: 
 
-#has_/domain  :: Organization, Person  
-
+#has_/domain  :: "[[../../../Society/Agent/Community/Organization]]", "[[../../../Society/Agent/Person]]"  
 (has_/name :: has_text_of_duns )
-(has_/range :: Text )
+(has_/range :: [[../../Class/is_a_/Data_Type/Text]] )
 
-#is_/sub_property_of  :: identifier  
+#is_/sub_property_of  :: [[../../Relation/has/has_identifier]]   
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_duns|has_duns]] 
+### #is_/same_as :: [[has_duns|has_duns]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_duns.public|has_duns.public]] 
 

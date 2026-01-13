@@ -43,11 +43,11 @@ Predicated describes that:
 (has_/name :: has_text_of_gtin14 )
 (has_/range :: Text )
 
-#is_/sub_property_of  :: gtin, identifier  
+#is_/sub_property_of  :: [[../has_id/has_gtin]], [[../../Relation/has/has_identifier]]  
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_gtin14|has_gtin14]] 
+### #is_/same_as :: [[has_gtin14|has_gtin14]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_gtin14.public|has_gtin14.public]] 
 

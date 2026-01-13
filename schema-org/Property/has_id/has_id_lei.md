@@ -39,12 +39,11 @@ a legal entity as defined in ISO 17442.
 
 Predicated describes that: 
 
-#has_/domain  :: Organization  
-
+#has_/domain  :: [[../../../Society/Agent/Community/Organization|Organization]]  
 (has_/name :: has_id_lei )
 (has_/range :: Text )
 
-#is_/sub_property_of  :: identifier  
+#is_/sub_property_of  :: [[../../Relation/has/has_identifier]]   
 
 ## Confidential Links & Embeds: 
 

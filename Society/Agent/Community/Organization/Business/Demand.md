@@ -24,9 +24,9 @@ tags:
 title: is_a_demand Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Intangible]]"
+  sub_class_of: "[[../../../../../schema-org/Class/is_a_/Intangible]]"
   same_as:
-    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Demand|Demand]]"
+    - "[[Demand|Demand]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Demand.public|Demand.public]]"
     - "[[/_internal/schema-org/Class/is_a_/Intangible/Demand.internal|Demand.internal]]"
     - "[[/_protect/schema-org/Class/is_a_/Intangible/Demand.protect|Demand.protect]]"
@@ -35,10 +35,10 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Demand.secret|Demand.secret]]"
 dv_has_:
   properties: "[ acceptedPaymentMethod, additionalType, advanceBookingRequirement, alternateName, areaServed, asin, availability, availabilityEnds, availabilityStarts, availableAtOrFrom, availableDeliveryMethod, businessFunction, deliveryLeadTime, description, disambiguatingDescription, eligibleCustomerType, eligibleDuration, eligibleQuantity, eligibleRegion, eligibleTransactionVolume, gtin, gtin12, gtin13, gtin14, gtin8, identifier, image, includesObject, ineligibleRegion, inventoryLevel, itemCondition, itemOffered, mainEntityOfPage, mpn, name, potentialAction, priceSpecification, sameAs, seller, serialNumber, sku, subjectOf, url, validFrom, validThrough, warranty ]"
-dv_is_sub_class_of: "[[../Intangible]]"
+dv_is_sub_class_of: "[[../../../../../schema-org/Class/is_a_/Intangible]]"
 dv_has_properties: "[ acceptedPaymentMethod, additionalType, advanceBookingRequirement, alternateName, areaServed, asin, availability, availabilityEnds, availabilityStarts, availableAtOrFrom, availableDeliveryMethod, businessFunction, deliveryLeadTime, description, disambiguatingDescription, eligibleCustomerType, eligibleDuration, eligibleQuantity, eligibleRegion, eligibleTransactionVolume, gtin, gtin12, gtin13, gtin14, gtin8, identifier, image, includesObject, ineligibleRegion, inventoryLevel, itemCondition, itemOffered, mainEntityOfPage, mpn, name, potentialAction, priceSpecification, sameAs, seller, serialNumber, sku, subjectOf, url, validFrom, validThrough, warranty ]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Demand|Demand]]"
+  - "[[Demand|Demand]]"
   - "[[/_public/schema-org/Class/is_a_/Intangible/Demand.public|Demand.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Intangible/Demand.internal|Demand.internal]]"
   - "[[/_protect/schema-org/Class/is_a_/Intangible/Demand.protect|Demand.protect]]"
@@ -47,12 +47,19 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Demand.secret|Demand.secret]]"
 ---
 
+# [[Demand]] 
+
+#is_/complement_of :: [[Offer|Offer]] 
+
 Class of all demands.
 
 Tag Instances like this: 
 #is_a_/demand
 
-A demand entity represents the public, not necessarily binding, not necessarily exclusive, announcement by an organization or person to seek a certain type of goods or services. For describing demand using this type, the very same properties used for Offer apply.
+A demand entity represents the public, not necessarily binding, not necessarily exclusive, 
+announcement by an organization or person to seek a certain type of goods or services. 
+
+For describing demand using this type, the very same properties used for [[Offer]] apply.
 
 is_sub_class_of = `=this.dv_is_sub_class_of` 
 
@@ -60,7 +67,7 @@ has_properties = `=this.dv_has_properties`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Demand|Demand]] 
+### #is_/same_as :: [[Demand|Demand]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Demand.public|Demand.public]] 
 

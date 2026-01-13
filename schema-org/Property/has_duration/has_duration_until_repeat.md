@@ -57,6 +57,8 @@ dv_is_same_as:
 
 # [[has_duration_until_repeat]] 
 
+#is_/similar_to :: [[../has_duration]]
+
 Predicate to describe the Duration of a [[../../Class/is_a_/Intangible/Schedule|Schedule]].
 
 is_part_of = `=this.dv_is_part_of` 

@@ -45,16 +45,15 @@ ASINs are most commonly encoded as text strings, but the [asin] property support
 
 Predicated describes that: 
 
-#has_/domain  :: Demand, Offer, Product  
-
+#has_/domain  :: [[../../../Society/Agent/Community/Organization/Business/Demand|Demand]], [[../../../Society/Agent/Community/Organization/Business/Offer|Offer]], [[../../../Society/Agent/Community/Organization/Business/Product|Product]]  
 (has_/name :: has_text_of_asin )
 (has_/range :: Text, URL )
 
-#is_/sub_property_of  :: identifier  
+#is_/sub_property_of  :: [[../../Relation/has/has_identifier]]   
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_asin|has_asin]] 
+### #is_/same_as :: [[has_asin|has_asin]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_asin.public|has_asin.public]] 
 

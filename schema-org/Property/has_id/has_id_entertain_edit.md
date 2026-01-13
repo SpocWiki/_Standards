@@ -48,12 +48,11 @@ Since schema.org types like [[../../../Society/Communication/Media/Creative_Work
 
 Predicated describes that: 
 
-#has_/domain  :: CreativeWork  
-
+#has_/domain  :: [[../../../Society/Communication/Media/Creative_Work|CreativeWork]]  
 (has_/name :: has_id_entertain_edit )
 (has_/range :: Text, URL )
 
-#is_/sub_property_of  :: identifier  
+#is_/sub_property_of  :: [[../../Relation/has/has_identifier]]   
 
 ## Confidential Links & Embeds: 
 

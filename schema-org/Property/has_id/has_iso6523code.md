@@ -38,23 +38,22 @@ Use it like this:
 
 An organization identifier as defined in ISO 6523(-1). 
 Note that many existing organization identifiers such as 
-- [leiCode](leiCode), 
-- [duns](duns) and 
-- [vatID](vatID) 
+- [[has_id_lei|has_id_lei]]
+- [[has_duns]]  
+- [[has_id_vat|has_id_vat]] 
 can be expressed as an ISO 6523 identifier 
 by setting the ICD part of the ISO 6523 identifier accordingly.
 
 Predicated describes that: 
 
-#has_/domain  :: Organization  
-
-(has_/name :: has_text_of_iso6523code )
-(has_/range :: Text )
+#has_/domain  :: [[../../../Society/Agent/Community/Organization]]  
+(has_/name :: has_text_of_iso6523code ) 
+(has_/range :: [[../../Class/is_a_/Data_Type/Text]] ) 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_iso6523code|has_iso6523code]] 
+### #is_/same_as :: [[has_iso6523code|has_iso6523code]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_iso6523code.public|has_iso6523code.public]] 
 
