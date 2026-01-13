@@ -34,7 +34,7 @@ Predicate to describe the Quantity of Vehicle.
 #is_/part_of :: https://auto.schema.org  
 
 Use it like this: 
-- #has_/duration_/of_/acceleration :: QuantitativeValue 
+- #has_/duration_of_/acceleration :: QuantitativeValue 
 - has_duration_of_acceleration :: QuantitativeValue 
 
 The time needed to acscelerate the vehicle from a given start velocity to a given target velocity.

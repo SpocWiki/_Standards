@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of [[../../Class/is_a_/Intangible/Structured_Value/Warranty_Promise|Warranty_Promise]].
 
 Use it like this: 
-- #has_/duration_/of_warranty = `=this.dv_has_duration_of_warranty`  
+- #has_/duration_of_/warranty = `=this.dv_has_duration_of_warranty`  
 - has_duration_of_warranty = `=this.dv_has_duration_of_warranty`  
 
 The duration of the warranty promise. 

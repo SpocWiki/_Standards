@@ -38,7 +38,7 @@ Predicate to describe the Duration of {{domainIncludes}}.
 
 Use it like this: 
 - has_duration_of_{{label_snail}}::P#Y#M#W#DT#H#M#s.fff  
-- [ #has_/duration_/of_{{label_snail}}::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
+- [ #has_/duration_of_/{{label_snail}}::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
 
 {{comment}}
 
