@@ -162,7 +162,7 @@ RepeatCount:: {"type":"Number","options":{}}
 
 ### RepeatFrequency
 Defines the frequency at which [[Event]]s will occur according to a schedule [[Schedule]]. The intervals between  
- events should be defined as a [[../../../schema-org/Predicate/Quantity/has_duration]] of time.
+ events should be defined as a [[../../../schema-org/Predicate/Quantity/Duration]] of time.
 
 RepeatFrequency:: {"type":"Number","options":{"min":"0","max":"2359"}}
 

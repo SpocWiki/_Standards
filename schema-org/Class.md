@@ -2,10 +2,6 @@
 aliases:
   - class
   - Class
-  - additional-type
-  - additional_type
-  - additionalType
-  - has_url_for_additional_type
   - rdfs~Class
   - is_a_class
 confidential: public
