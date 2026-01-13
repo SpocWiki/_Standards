@@ -31,22 +31,24 @@ title: is_included_in_data_catalog
 type: Predi_Relation
 ---
 
-[ supersedes :: [[has_catalog]], [[is_included_in_data_catalog 1]] ]
+# [[is_included_in_data_catalog]] 
+
+#is_/inverse_of  :: [[../has/has_dataset|has_dataset]]   
+
+#supersedes :: "[[has_catalog]]", "[[is_included_in_data_catalog]]"
 
 Use it like this: 
-- [is_/included_in_data_catalog :: DataCatalog ] 
-- [ is_included_in_data_catalog :: DataCatalog ] 
+- #is_/included_in_/data_catalog :: [[../../../Society/Communication/Media/Creative_Work/Data_Catalog|Data_Catalog]] 
+- is_included_in_data_catalog :: [[../../../Society/Communication/Media/Creative_Work/Data_Catalog|Data_Catalog]] 
 
-A data catalog which contains this dataset (this property was previously 'catalog', preferred name is now 'includedInDataCatalog').
+A data catalog which contains this dataset 
+(this property was previously 'catalog', preferred name is now 'includedInDataCatalog').
 
 Relation describes that: 
 
-#has_/domain  :: Dataset  
-
-(has_/name :: [[is_included_in_data_catalog 1]] )
-(has_/range :: DataCatalog )
-
-#is_/inverse_of  :: dataset  
+#has_/domain  :: [[../../../Society/Communication/Media/Creative_Work/Dataset|Dataset]]  
+(has_/name :: [[is_included_in_data_catalog]] )
+(has_/range :: [[../../../Society/Communication/Media/Creative_Work/Data_Catalog|Data_Catalog]] )
 
 ## Confidential Links & Embeds: 
 

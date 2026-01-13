@@ -28,20 +28,23 @@ title: is_knowing_language
 type: Predi_Relation
 ---
 
+# [[is_knowing_language]] 
+
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [is_/knowing_language :: Language, Text ] 
-- [ is_knowing_language :: Language, Text ] 
+- #is_/knowing_/language :: "[[../../../Language|Language]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"  
+- is_knowing_language :: "[[../../../Language|Language]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"  
 
-Of a [[../../../Society/Agent/Person]], and less typically of an [[../../../Society/Agent/Community/Organization]], to indicate a known language. We do not distinguish skill levels or reading/writing/speaking/signing here. Use language codes from the [IETF BCP 47 standard](http://tools.ietf.org/html/bcp47).
+Of a [[../../../Society/Agent/Person|Person]], and less typically of an [[../../../Society/Agent/Community/Organization|Organization]], to indicate a known language. 
+We do not distinguish skill levels or reading/writing/speaking/signing here. 
+Use language codes from the [IETF BCP 47 standard](http://tools.ietf.org/html/bcp47).
 
 Relation describes that: 
 
-#has_/domain  :: Organization, Person  
-
-(has_/name :: is_knowing_language )
-(has_/range :: Language, Text )
+#has_/domain  :: Organization, Person 
+(has_/name :: [[is_knowing_language]] ) 
+(has_/range :: "[[../../../Language|Language]]", "[[../../Class/is_a_/Data_Type/Text|Text]]" ) 
 
 
 ## Confidential Links & Embeds: 

@@ -32,22 +32,21 @@ type: Predi_Relation
 
 #is_/part_of :: pending:  
 
-Use it like this: 
-- [is_/in_defined_term_set :: DefinedTermSet, URL ] 
-- [ is_in_defined_term_set :: DefinedTermSet, URL ] 
+Specifies the [[../../../Society/Communication/Media/Creative_Work/Defined_Term_Set|Defined_Term_Set]] that contains this [[../../Class/is_a_/Intangible/Defined_Term|Defined_Term]].
 
-A [[DefinedTermSet]] that contains this term.
+Use it like this: 
+- #is_/in_/defined_term_set :: "[[../../../Society/Communication/Media/Creative_Work/Defined_Term_Set|Defined_Term_Set]]", "[[../../Class/is_a_/Data_Type/Text/Url]]" 
+- is_in_defined_term_set :: "[[../../../Society/Communication/Media/Creative_Work/Defined_Term_Set|Defined_Term_Set]]", "[[../../Class/is_a_/Data_Type/Text/Url]]"  
 
 Relation describes that: 
 
-#has_/domain  :: DefinedTerm  
-
+#has_/domain  :: [[../../Class/is_a_/Intangible/Defined_Term|Defined_Term]]  
 (has_/name :: is_in_defined_term_set )
-(has_/range :: DefinedTermSet, URL )
+(has_/range :: "[[../../../Society/Communication/Media/Creative_Work/Defined_Term_Set|Defined_Term_Set]]", "[[../../Class/is_a_/Data_Type/Text/Url]]" )
 
-#is_/sub_property_of  :: [[../../../Composite/is_part_of]]  
+#is_/sub_property_of  :: [[../../Composite/is_part_of|is_part_of]] 
 
-#has_/sub_properties :: [[is_in_code_set]]  
+#has_/sub_properties :: [[is_in_code_set]] 
 
 ## Confidential Links & Embeds: 
 

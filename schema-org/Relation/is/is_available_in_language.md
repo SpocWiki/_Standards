@@ -29,17 +29,18 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/available_language :: Language, Text ] 
-- [ is_available_in_language :: Language, Text ] 
+- #is_/available_in_/language :: "[[../../../Language|Language]]", "[[../../Class/is_a_/Data_Type/Text|Text]]" 
+- is_available_in_language :: "[[../../../Language|Language]]", "[[../../Class/is_a_/Data_Type/Text|Text]]" 
 
-A language someone may use with or at the item, service or place. Please use one of the language codes from the [IETF BCP 47 standard](http://tools.ietf.org/html/bcp47). See also [[inLanguage]].
+A language someone may use with or at the item, service or place. 
+Please use one of the language codes from the [IETF BCP 47 standard](http://tools.ietf.org/html/bcp47). 
+See also [[./is_in_language|is_in_language]].
 
 Relation describes that: 
 
-#has_/domain  :: ContactPoint, LodgingBusiness, ServiceChannel, TouristAttraction  
-
-(has_/name :: is_available_in_language )
-(has_/range :: [[../../../Class/is_a_thing/intangible/language]], Text )
+#has_/domain  :: "[[../../Class/is_a_/Intangible/Structured_Value/Contact_Point|Contact_Point]]", "[[../../../Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business|Lodging_Business]]", "[[../../Class/is_a_/Intangible/Service_Channel|Service_Channel]]", "[[../../../Earth/Geography/Place/Tourist_Attraction|Tourist_Attraction]]" 
+(has_/name :: [[is_available_in_language]] )
+(has_/range :: "[[../../../Language|Language]]", "[[../../Class/is_a_/Data_Type/Text|Text]]" )
 
 
 ## Confidential Links & Embeds: 

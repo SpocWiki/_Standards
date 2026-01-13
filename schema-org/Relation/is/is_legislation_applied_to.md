@@ -29,29 +29,29 @@ title: has_legislation_applies
 type: Predi_Relation
 ---
 
+# [[is_legislation_applied_to]] 
+
+#has_/sub_properties :: [[is_legislation_transpose_of|is_legislation_transpose_of]]  
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [has_/legislation_applies :: Legislation ] 
-- [ has_legislation_applies :: Legislation ] 
+- #is_/legislation_applied_to :: "[[../../../Society/Communication/Media/Creative_Work/Legislation|Legislation]]" 
+- has_legislation_applies_to :: "[[../../../Society/Communication/Media/Creative_Work/Legislation|Legislation]]" 
 
 Indicates that this legislation (or part of a legislation) somehow
 transfers another legislation in a different legislative context. 
 
 This is an informative link, and it has no legal value. 
-For legally-binding links of transposition, use the [[legislationTransposes]] property.
+For legally-binding links of transposition, use the [[is_legislation_transpose_of|is_legislation_transpose_of]] property.
 
 For example an informative consolidated law of a European Union's member state
 "applies" the consolidated version of the European Directive implemented in it.
 
 Relation describes that: 
 
-#has_/domain  :: Legislation  
-
-(has_/name :: is_legislation_applied_to )
-(has_/range :: Legislation )
-
-#has_/sub_properties :: [ legislationTransposes ]  
+#has_/domain  :: "[[../../../Society/Communication/Media/Creative_Work/Legislation|Legislation]]" 
+(has_/name :: [[is_legislation_applied_to]] )
+(has_/range :: "[[../../../Society/Communication/Media/Creative_Work/Legislation|Legislation]]" )
 
 ## Confidential Links & Embeds: 
 

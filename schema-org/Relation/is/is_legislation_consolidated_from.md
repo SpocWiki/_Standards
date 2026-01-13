@@ -28,11 +28,13 @@ title: is_legislation_consolidated_from
 type: Predi_Relation
 ---
 
+# [[is_legislation_consolidated_from]] 
+
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [is_/legislation_consolidated_from :: Legislation ] 
-- [ is_legislation_consolidated_from :: Legislation ] 
+- #is_/legislation_/consolidated_from :: "[[../../../Society/Communication/Media/Creative_Work/Legislation|Legislation]]"  
+- is_legislation_consolidated_from :: "[[../../../Society/Communication/Media/Creative_Work/Legislation|Legislation]]" 
 
 Indicates another legislation taken into account in this consolidated legislation
 (which is usually the product of an editorial process that revises the legislation).
@@ -43,10 +45,9 @@ and to the legislations making the change.
 
 Relation describes that: 
 
-#has_/domain  :: Legislation  
-
+#has_/domain  :: "[[../../../Society/Communication/Media/Creative_Work/Legislation|Legislation]]"  
 (has_/name :: is_legislation_consolidated_from )
-(has_/range :: Legislation )
+(has_/range :: "[[../../../Society/Communication/Media/Creative_Work/Legislation|Legislation]]" )
 
 
 ## Confidential Links & Embeds: 

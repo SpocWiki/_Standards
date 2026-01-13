@@ -30,18 +30,18 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [is_/in_language :: Language, Text] 
-- [ is_in_language :: Language, Text] 
+- #is_/in_/language :: "[[../../../Language]]", "[[../../Class/is_a_/Data_Type/Text]]" 
+- is_in_language :: "[[../../../Language]]", "[[../../Class/is_a_/Data_Type/Text]]" 
 
 The language of the content or performance or used in an action. 
-Use one of the language codes from the [IETF BCP 47 standard](http://tools.ietf.org/html/bcp47). See also [[availableLanguage]].
+Use one of the language codes from the [IETF BCP 47 standard](http://tools.ietf.org/html/bcp47). 
+See also [[is_available_in_language|is_available_in_language]]. 
 
 Relation describes that: 
 
-#has_/domain  :: BroadcastService, CommunicateAction, CreativeWork, Event, LinkRole, PronounceableText, WriteAction 
-
+#has_/domain :: [[../../../Society/Agent/Community/Organization/Business/Service/Broadcast_Service|Broadcast_Service]], [[../../Class/is_a_/Action/Interact_Action/Communicate_Action|Communicate_Action]], [[../../../Society/Communication/Media/Creative_Work|Creative_Work]], [[../../Class/is_a_/Event|Event]], [[../../../Society/Agent/Community/Organization/Role/Link_Role|Link_Role]], [[../../Class/is_a_/Data_Type/Text/Pronounceable_Text|Pronounceable_Text]], [[../../Class/is_a_/Action/Create_Action/Write_Action|Write_Action]] 
 (has_/name :: is_in_language)
-(has_/range :: Language, Text)
+(has_/range :: "[[../../../Language]]", "[[../../Class/is_a_/Data_Type/Text]]")
 
 
 ## Confidential Links & Embeds: 

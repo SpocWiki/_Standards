@@ -31,19 +31,18 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [is_/legislation_jurisdiction_of :: AdministrativeArea, Text ] 
-- [ is_legislation_jurisdiction_of :: AdministrativeArea, Text ] 
+- #is_/legislation_/jurisdiction_of :: "[[../../../Earth/Geography/Place/Administrative_Area|Administrative_Area]]", "[[../../Class/is_a_/Data_Type/Text|Text]]" 
+- is_legislation_jurisdiction_of :: "[[../../../Earth/Geography/Place/Administrative_Area|Administrative_Area]]", "[[../../Class/is_a_/Data_Type/Text|Text]]" 
 
 The jurisdiction from which the legislation originates.
 
 Relation describes that: 
 
 #has_/domain  :: Legislation  
+(has_/name :: is_legislation_jurisdiction_of ) 
+(has_/range :: "[[../../../Earth/Geography/Place/Administrative_Area|Administrative_Area]]", "[[../../Class/is_a_/Data_Type/Text|Text]]" ) 
 
-(has_/name :: is_legislation_jurisdiction_of )
-(has_/range :: AdministrativeArea, Text )
-
-#is_/sub_property_of  :: jurisdiction, spatialCoverage  
+#is_/sub_property_of  :: [[is_jurisdiction_of]], spatialCoverage  
 
 ## Confidential Links & Embeds: 
 

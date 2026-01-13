@@ -19,36 +19,36 @@ keywords:
   - by
 layout: ''
 license: CC BY-SA 4.0
-linkTitle: has_read_by
+linkTitle: is_read_by
 publish: true
 publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
-title: has_read_by
+title: is_read_by
 type: Predi_Relation
 ---
 
-#is_/part_of :: https://bib.schema.org  
+# [[is_read_by]] 
 
-Use it like this: 
-- [has_/read_by :: Person ] 
-- [ has_read_by :: Person ] 
+#is_/part_of :: https://bib.schema.org  
+#is_/sub_property_of  :: [[has_actor]]  
 
 A person who reads (performs) the audiobook.
 
+Use it like this: 
+- #is_/read_by :: "[[../../../Society/Agent/Person|Person]]" 
+- is_read_by :: "[[../../../Society/Agent/Person|Person]]" 
+
 Relation describes that: 
 
-#has_/domain  :: Audiobook  
-
-(has_/name :: is_read_by )
-(has_/range :: Person )
-
-#is_/sub_property_of  :: actor  
+#has_/domain  :: "[[Audiobook]]"  
+(has_/name :: "[[is_read_by]]" )
+(has_/range :: "[[../../../Society/Agent/Person|Person]]" )
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/has/is_read_by|is_read_by]] 
+### #is_/same_as :: [[is_read_by|is_read_by]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/is_read_by.public|is_read_by.public]] 
 

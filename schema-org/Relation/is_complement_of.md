@@ -28,9 +28,13 @@ title: is_complement_of
 type: Predi_Relation
 ---
 
+# [[is_complement_of]] 
+
 #is_/part_of :: https://meta.schema.org 
 
 #is_/different_from :: [[is_inverse_of]] 
+
+alias: is opposite of 
 
 Use it like this: 
 - [is_/complement_of :: Property] 

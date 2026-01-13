@@ -25,21 +25,26 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [has_/object :: [Thing](../../../Class/Thing.md) ] 
-- [ has_object :: [Thing](../../../Class/Thing.md) ] 
+- #has_/object :: "[[../../Class/Thing|Thing]]" 
+- has_object :: "[[../../Class/Thing|Thing]]"  
 
-The object upon which the action is carried out, whose state is kept intact or changed. Also known as the semantic roles `patient`, `affected` or `undergoer` (which change their state) or theme (which doesn't). E.g. John read **a book**. 
+The object upon which the action is carried out, 
+whose state is kept intact or changed. 
+
+Also known as the semantic roles `patient`, `affected` or `undergoer` 
+(which change their state) or theme (which doesn't). 
+E.g. John read **a book**. 
+
 Rather choose one of the more specific Roles listed below:
 
 Relation describes that: 
 
-#has_/domain  :: Action  
-
-(has_/name :: has_object )
-(has_/range :: Thing )
+#has_/domain  :: [[../../Class/is_a_/Action|Action]]   
+(has_/name :: "[[has_object]]" )
+(has_/range :: "[[../../Class/Thing|Thing]]" ) 
 
 (Links work only in read-mode)
-#has_/sub_properties :: [ [has_actionOption](../../Texts/has_action_option.md) , [has_candidate](has_candidate.md) , [is_in_collection](../is/is_in_collection.md), [is_followee_of](../is/is_followee_of.md), [has_option](../../Texts/has_option.md) , [has_question](has_question.md), [has_replacee](has_replacee.md), [replacer](has_replacer.md) , [has_targetCollection](has_target_collection.md) ] 
+#has_/sub_properties :: [[../../Texts/has_action_option.md|has_actionOption]] , [[has_candidate.md]] , [[../is/is_in_collection.md]], [[../is/is_followee_of|is_followee_of]], [[../../Property/Texts/has_action_option|has_action_option]] , [[has_question.md]], [[has_replacee]], [[has_replacer|has_replacer]] , [[has_target_collection|has_targetCollection]] 
 
 
 ## Confidential Links & Embeds: 

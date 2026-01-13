@@ -3,7 +3,7 @@ aliases:
   - action-option
   - action_option
   - actionOption
-  - has_text_of_action_option
+  - has_action_option
   - has_action_option
   - has action option
 confidential: public
@@ -19,33 +19,36 @@ keywords:
   - option
 layout: ''
 license: CC BY-SA 4.0
-linkTitle: has_text_of_action_option
+linkTitle: has_action_option
 publish: true
 publishDate: ''
 supersedes: option
 tags:
   - class/Property
   - schema-org/Property/Text
-title: has_text_of_action_option
+title: has_action_option
 type: Pred_Text
 ---
 
-Predicate to describe the Text of ChooseAction.
+# [[has_action_option]] 
+
+#is_/sub_property_of  :: [[../../Relation/has/has_object|has_object]]  
+
+Predicate to describe the Text of "[[../../Class/is_a_/Action/Assess_Action/Choose_Action|Choose_Action]]".
 
 Use it like this: 
-- #has_/text_of_/action_option :: Text, Thing   
-- has_text_of_action_option :: Text, Thing   
+- #has_/action_option :: "[[../../Class/is_a_/Data_Type/Text|Text]]", "[[../../Class/Thing|Thing]]"  
+- has_action_option :: "[[../../Class/is_a_/Data_Type/Text|Text]]", "[[../../Class/Thing|Thing]]" 
 
-A sub property of object. The options subject to this action.
+A sub property of object. 
+The options subject to this action.
 
 Predicated describes that: 
 
-#has_/domain  :: ChooseAction  
+#has_/domain  :: "[[../../Class/is_a_/Action/Assess_Action/Choose_Action|Choose_Action]]"  
+(has_/name :: "[[has_action_option]]" ) 
+(has_/range :: "[[../../Class/is_a_/Data_Type/Text|Text]]", "[[../../Class/Thing|Thing]]" ) 
 
-(has_/name :: has_text_of_action_option )
-(has_/range :: Text, Thing )
-
-#is_/sub_property_of  :: object  
 
 ## Confidential Links & Embeds: 
 
