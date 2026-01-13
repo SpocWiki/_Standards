@@ -8,26 +8,32 @@ aliases:
   - has duration
 Unicode_character: ??
 icon: luc_timer_reset
-confidential: public
+confidential: private
 cssclasses:
   - Predicate
   - Duration
-draft: false
-expiryDate: ""
+  - private
+  - note
+draft: true
+expiryDate:
 isDeleted: false
 isReadOnly: false
 keywords:
   - duration
-layout: ""
-license: CC BY-SA 4.0
-linkTitle: is_a_duration Class
-publish: true
-publishDate: ""
+layout:
+license: (c)copyrighted
+linkTitle:
+  "{ newTitle: }":
+publish: false
+publishDate:
 tags:
   - class/Property
   - schema-org/Property/Durations
-title: has_duration
-type: Predi_Duration
+  - "{ newTitle: }":
+  - excalidraw
+title:
+  "{ newTitle: }":
+type: private_note
 dv_is_:
   same_as:
     - "[[has_duration|has_duration]]"
@@ -45,24 +51,30 @@ dv_is_same_as:
   - "[[/_private/schema-org/Property/has_duration.private|has_duration.private]]"
   - "[[/_personal/schema-org/Property/has_duration.personal|has_duration.personal]]"
   - "[[/_secret/schema-org/Property/has_duration.secret|has_duration.secret]]"
+excalidraw_autoexport: svg
+excalidraw_open_md: true
+excalidraw_plugin: parsed
+has_Template: "[[Extract~Note~Template]]"
+lang: en
 ---
 
 # [[has_duration]] ?? 
 
 - #has_/icon :: ?? 
-- #is_/different_from :: [[../../Predicate/Quantity/Duration|Duration]] 
-- #is_/different_from :: [[../has_duration|has_duration_of]] 
-  which measures the [[../../Predicate/Quantity/Duration|Duration]] of a specific State/Activity of the Subject, 
-  whereas this Property is applied to the [[../../Predicate/Quantity/Duration|Duration]] of the time-extended Subject itself, e.g. 
-	- [[../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object/Audiobook|Audiobook]], 
-	- [[../../../Society/Communication/Media/Creative_Work/Episode|Episode]], 
-	- [[../../Class/is_a_/Event|Event]], 
-	- [[../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|MediaObject]], 
-	- [[../../../Society/Communication/Media/Movie|Movie]], 
-	- [[../../../Society/Communication/Media/Creative_Work/Music_Recording|MusicRecording]], 
-	- [[../../../Society/Communication/Media/Creative_Work/Music_Playlist/Music_Release|MusicRelease]], 
-	- [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution|QuantitativeValueDistribution]], or 
-	- [[../../Class/is_a_/Intangible/Schedule|Schedule]].
+- #is_/different_from :: [[../Predicate/Quantity/Duration|Duration]] 
+- #is_/similar_to :: [[has_duration/has_duration_total|has_duration_total]]  
+- #is_/similar_to :: [[has_duration/has_duration_until_repeat|has_duration_until_repeat]]  
+  which measures the [[../Predicate/Quantity/Duration|Duration]] of a specific State/Activity of the Subject, 
+  whereas this Property is applied to the [[../Predicate/Quantity/Duration|Duration]] of the time-extended Subject itself, e.g. 
+	- [[../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object/Audiobook|Audiobook]], 
+	- [[../../Society/Communication/Media/Creative_Work/Episode|Episode]], 
+	- [[../Class/is_a_/Event|Event]], 
+	- [[../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|MediaObject]], 
+	- [[../../Society/Communication/Media/Movie|Movie]], 
+	- [[../../Society/Communication/Media/Creative_Work/Music_Recording|MusicRecording]], 
+	- [[../../Society/Communication/Media/Creative_Work/Music_Playlist/Music_Release|MusicRelease]], 
+	- [[../Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution|QuantitativeValueDistribution]], or 
+	- [[../Class/is_a_/Intangible/Schedule|Schedule]].
 
 The Time-Span an Action takes or that a State is retained. 
 
@@ -78,11 +90,11 @@ Use it like this:
 The duration of the item (movie, audio recording, event, etc.) in [ISO 8601 date format](http://en.wikipedia.org/wiki/ISO_8601).
 
 Formal Predicate: 
-#has_/domain :: [[../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object/Audiobook|Audiobook]], [[../../../Society/Communication/Media/Creative_Work/Episode|Episode]], [[../../Class/is_a_/Event|Event]], [[../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|MediaObject]], [[../../../Society/Communication/Media/Movie|Movie]], [[../../../Society/Communication/Media/Creative_Work/Music_Recording|MusicRecording]], [[../../../Society/Communication/Media/Creative_Work/Music_Playlist/Music_Release|MusicRelease]], [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution|QuantitativeValueDistribution]], [[../../Class/is_a_/Intangible/Schedule|Schedule]]
+#has_/domain :: [[../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object/Audiobook|Audiobook]], [[../../Society/Communication/Media/Creative_Work/Episode|Episode]], [[../Class/is_a_/Event|Event]], [[../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|MediaObject]], [[../../Society/Communication/Media/Movie|Movie]], [[../../Society/Communication/Media/Creative_Work/Music_Recording|MusicRecording]], [[../../Society/Communication/Media/Creative_Work/Music_Playlist/Music_Release|MusicRelease]], [[../Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution|QuantitativeValueDistribution]], [[../Class/is_a_/Intangible/Schedule|Schedule]]
 (has_/name::has_duration)
 (has_/range::[[../../Predicate/Quantity/Duration|Duration]])
 
-#has_/sub_properties :: [[../has_value_for/has_value_for_loan_term|loanTerm]] 
+#has_/sub_properties :: [[has_duration/has_duration_of_loan|loanTerm]]  
 
 
 ## Confidential Links & Embeds: 
@@ -101,3 +113,18 @@ Formal Predicate:
 
 ### #is_/same_as :: [[/_secret/schema-org/Property/has_duration.secret|has_duration.secret]] 
 
+
+![[has_duration.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[has_duration.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```

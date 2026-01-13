@@ -5,6 +5,8 @@ aliases:
   - loanTerm
   - has_value_for_loan_term
   - has value for loan term
+  - has_duration_of_loan
+  - has duration of loan
 confidential: public
 cssclasses:
   - Predicate
@@ -28,10 +30,11 @@ type: Predi_Quantity
 ---
 
 Predicate to describe the Quantity of LoanOrCredit.
+A **loan term** is the **total length of time** over which a borrower is legally required to repay a loan, measured from the **disbursement date** to the **final scheduled payment date**, expressed in **time units such as months or years**.
 
 Use it like this: 
-- #has_/value_for_/loan_term :: QuantitativeValue   
-- has_value_for_loan_term :: QuantitativeValue   
+- #has_/duration_of_/loan :: QuantitativeValue   
+- has_duration_of_loan :: QuantitativeValue   
 
 The duration of the loan or credit agreement.
 
@@ -46,7 +49,7 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_loan_term|has_value_for_loan_term]] 
+### #is_/same_as :: [[has_duration_of_loan|has_value_for_loan_term]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_loan_term.public|has_value_for_loan_term.public]] 
 
