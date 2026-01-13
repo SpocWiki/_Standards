@@ -40,7 +40,7 @@ A sub-grouping of steps in the instructions for how to achieve a result (e.g. st
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/How_To/How_to_Section|How_to_Section]] 
+### #is_/same_as :: [[How_to_Section|How_to_Section]] 
 
 ### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/How_To/How_to_Section.public|How_to_Section.public]] 
 

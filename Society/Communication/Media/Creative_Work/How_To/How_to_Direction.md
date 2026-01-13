@@ -40,7 +40,7 @@ A direction indicating a single action to do in the instructions for how to achi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/How_To/How_to_Direction|How_to_Direction]] 
+### #is_/same_as :: [[How_to_Direction|How_to_Direction]] 
 
 ### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/How_To/How_to_Direction.public|How_to_Direction.public]] 
 

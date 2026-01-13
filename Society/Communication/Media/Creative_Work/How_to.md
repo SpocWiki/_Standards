@@ -4,8 +4,8 @@ aliases:
   - how_to
   - HowTo
   - is_a_how_to
-  - How_To
-  - How To
+  - How_to
+  - How to
 confidential: public
 cssclasses:
   - Type
@@ -42,7 +42,7 @@ Instructions that explain how to achieve a result by performing a sequence of st
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/How_To|How_To]] 
+### #is_/same_as :: [[How_to|How_To]] 
 
 ### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/How_To.public|How_To.public]] 
 

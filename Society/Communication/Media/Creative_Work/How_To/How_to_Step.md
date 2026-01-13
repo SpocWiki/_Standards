@@ -40,7 +40,7 @@ A step in the instructions for how to achieve a result. It is an ordered list wi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/How_To/How_to_Step|How_to_Step]] 
+### #is_/same_as :: [[How_to_Step|How_to_Step]] 
 
 ### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/How_To/How_to_Step.public|How_to_Step.public]] 
 

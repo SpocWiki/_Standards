@@ -54,7 +54,7 @@ dv_is_same_as:
 
 # [[has_duration_total]] 
 
-Predicate to describe the Duration of [[../../../Society/Communication/Media/Creative_Work/How_To|How_To]], [[../../../Society/Communication/Media/Creative_Work/How_To/How_to_Direction|How_to_Direction]].
+Predicate to describe the Duration of [[../../../Society/Communication/Media/Creative_Work/How_to|How_To]], [[../../../Society/Communication/Media/Creative_Work/How_to/How_to_Direction|How_to_Direction]].
 
 Use it like this: 
 - #has_/duration_/total = `=this.dv_has_duration_total`  

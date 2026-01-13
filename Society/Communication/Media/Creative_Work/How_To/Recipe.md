@@ -38,7 +38,7 @@ A recipe. For dietary restrictions covered by the recipe, a few common restricti
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/How_To/Recipe|Recipe]] 
+### #is_/same_as :: [[Recipe|Recipe]] 
 
 ### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/How_To/Recipe.public|Recipe.public]] 
 
