@@ -25,14 +25,15 @@ tags:
 title: has_duration_until_repeat
 type: Predi_Duration
 dv_has_duration_until_repeat: P#Y#M#W#DT#H#M#s.fff
-dv_#has_:
-  duration_:
-    until_repeat: P#Y#M#W#DT#H#M#s.fff
 dv_is_part_of: "pending:"
-dv_domain: Schedule
+dv_domain: "[[../../Class/is_a_/Intangible/Schedule|Schedule]]"
 dv_has_:
   name: has_duration_until_repeat
-dv_range: Duration, Text
+  duration_:
+    until_repeat: P#Y#M#W#DT#H#M#s.fff
+dv_range:
+  - "[[../../Predicate/Quantity/Duration|Duration]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_sub_property_of: frequency
 dv_is_:
   same_as:
@@ -54,22 +55,24 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Property/has_duration_of/has_duration_until_repeat.secret|has_duration_until_repeat.secret]]"
 ---
 
-Predicate to describe the Duration of Schedule.
+# [[has_duration_until_repeat]] 
+
+Predicate to describe the Duration of a [[../../Class/is_a_/Intangible/Schedule|Schedule]].
 
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
+- #has_/duration_/until_repeat = `=this.dv_has_duration_until_repeat`  
 - has_duration_until_repeat = `=this.dv_has_duration_until_repeat`  
-- has_duration_until_repeat = `=this.dv_has_duration_until_repeat`  with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
+  with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
 
-Defines the frequency at which [[Event]]s will occur according to a schedule [[Schedule]]. The intervals between
+Defines the frequency at which [[Event]]s will occur according to a [[Schedule]]. The intervals between
 	  events should be defined as a [[../../Predicate/Quantity/Duration]] of time.
 
 Formal Predicate: 
 domain = `=this.dv_domain` 
 has_name = `=this.dv_has_name` 
 range = `=this.dv_range` 
-
 Is sub_property_of = `=this.dv_sub_property_of` 
 
 

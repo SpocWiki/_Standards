@@ -52,11 +52,14 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Property/has_duration_of/has_duration_total.secret|has_duration_total.secret]]"
 ---
 
-Predicate to describe the Duration of HowTo, HowToDirection.
+# [[has_duration_total]] 
+
+Predicate to describe the Duration of [[../../../Society/Communication/Media/Creative_Work/How_To|How_To]], [[../../../Society/Communication/Media/Creative_Work/How_To/How_to_Direction|How_to_Direction]].
 
 Use it like this: 
+- #has_/duration_/total = `=this.dv_has_duration_total`  
 - has_duration_total = `=this.dv_has_duration_total`  
-- has_duration_total = `=this.dv_has_duration_total`  with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
+  with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
 
 The total time required to perform instructions or a direction (including time to prepare the supplies), in [ISO 8601 duration format](http://en.wikipedia.org/wiki/ISO_8601).
 

@@ -6,7 +6,7 @@ aliases:
   - dbo:runtime
   - wdt:P2047
   - has duration
-Unicode_character: ??
+Unicode_character: ⏱️
 icon: luc_timer_reset
 confidential: private
 cssclasses:
@@ -58,9 +58,9 @@ has_Template: "[[Extract~Note~Template]]"
 lang: en
 ---
 
-# [[has_duration]] ?? 
+# [[has_duration]] ⏱️ 
 
-- #has_/icon :: ?? 
+- #has_/icon :: ⏱️ 
 - #is_/different_from :: [[../Predicate/Quantity/Duration|Duration]] 
 - #is_/similar_to :: [[has_duration/has_duration_total|has_duration_total]]  
 - #is_/similar_to :: [[has_duration/has_duration_until_repeat|has_duration_until_repeat]]  
