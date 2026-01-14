@@ -56,7 +56,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_order_delivery = `=this.dv_has_order_delivery`  
+- #has_/order_/delivery = `=this.dv_has_order_delivery`  
 - has_order_delivery = `=this.dv_has_order_delivery`  
 
 The delivery of the parcel related to this order or order item.

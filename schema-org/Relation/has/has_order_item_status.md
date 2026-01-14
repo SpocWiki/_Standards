@@ -28,12 +28,12 @@ tags:
 title: has_order_item_status
 type: Predi_Relation
 dv_has_:
-  order_item_status: OrderStatus
-  domain: OrderItem
-dv_has_order_item_status: OrderStatus
+  order_item_status: "[[../../Enumeration/Status_Enumeration/Order_Status|Order_Status]]"
+  domain: "[[../../Class/is_a_/Intangible/Order_Item|Order_Item]]"
+dv_has_order_item_status: "[[../../Enumeration/Status_Enumeration/Order_Status|Order_Status]]"
 dv_#has_:
   name: has_order_item_status
-  range: OrderStatus
+  range: "[[../../Enumeration/Status_Enumeration/Order_Status|Order_Status]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_order_item_status|has_order_item_status]]"
@@ -43,9 +43,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_order_item_status.private|has_order_item_status.private]]"
     - "[[/_personal/schema-org/Relation/has/has_order_item_status.personal|has_order_item_status.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_order_item_status.secret|has_order_item_status.secret]]"
-dv_has_domain: OrderItem
+dv_has_domain: "[[../../Class/is_a_/Intangible/Order_Item|Order_Item]]"
 dv_has_name: has_order_item_status
-dv_has_range: OrderStatus
+dv_has_range: "[[../../Enumeration/Status_Enumeration/Order_Status|Order_Status]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_order_item_status|has_order_item_status]]"
   - "[[/_public/schema-org/Relation/has/has_order_item_status.public|has_order_item_status.public]]"
@@ -57,7 +57,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_order_item_status = `=this.dv_has_order_item_status`  
+- #has_/order_/item_status = `=this.dv_has_order_item_status`  
 - has_order_item_status = `=this.dv_has_order_item_status`  
 
 The current status of the order item.
@@ -65,7 +65,6 @@ The current status of the order item.
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

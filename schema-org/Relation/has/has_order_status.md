@@ -56,7 +56,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_order_status = `=this.dv_has_order_status`  
+- #has_/order_/status = `=this.dv_has_order_status`  
 - has_order_status = `=this.dv_has_order_status`  
 
 The current status of the order.
