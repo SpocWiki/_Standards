@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   character_attribute: "[Thing](../../../Class/Thing.md)"
   domain: Game, VideoGameSeries
-dv_has_character_attribute: "[Thing](../../../Class/Thing.md)"
-dv_#has_:
   name: has_character_attribute
   range: Thing
+dv_has_character_attribute: "[Thing](../../../Class/Thing.md)"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_character_attribute|has_character_attribute]]"

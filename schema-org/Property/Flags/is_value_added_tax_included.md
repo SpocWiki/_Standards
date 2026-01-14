@@ -28,7 +28,6 @@ type: Pred_Bool
 dv_is_value_added_tax_included: Boolean
 dv_has_:
   domain: PriceSpecification
-dv_#has_:
   name: is_value_added_tax_included
   range: Boolean
 dv_is_:

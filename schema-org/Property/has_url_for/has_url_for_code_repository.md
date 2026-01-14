@@ -29,10 +29,9 @@ dv_has_:
   url_for_:
     code_repository: URL
   domain: SoftwareSourceCode
-dv_has_url_for_code_repository: URL
-dv_#has_:
   name: has_url_for_code_repository
   range: URL
+dv_has_url_for_code_repository: URL
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_url_for/has_url_for_code_repository|has_url_for_code_repository]]"

@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     fax_number: Text
   domain: ContactPoint, Organization, Person, Place
-dv_has_text_of_fax_number: Text
-dv_#has_:
   name: has_text_of_fax_number
   range: Text
+dv_has_text_of_fax_number: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_fax_number|has_fax_number]]"

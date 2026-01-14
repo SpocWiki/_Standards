@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     assembly_version: Text
   domain: APIReference
-dv_has_text_of_assembly_version: Text
-dv_#has_:
   name: has_text_of_assembly_version
   range: Text
+dv_has_text_of_assembly_version: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_assembly_version|has_assembly_version]]"

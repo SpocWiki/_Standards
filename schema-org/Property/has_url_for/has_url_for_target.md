@@ -30,10 +30,9 @@ dv_has_:
   url_for_:
     target: URL
   domain: AlignmentObject
-dv_has_url_for_target: URL
-dv_#has_:
   name: has_url_for_target_url
   range: URL
+dv_has_url_for_target: URL
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_url_for/has_url_for_target|has_url_for_target]]"

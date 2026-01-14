@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   delivery_status: DeliveryEvent
   domain: ParcelDelivery
-dv_has_delivery_status: DeliveryEvent
-dv_#has_:
   name: has_delivery_status
   range: DeliveryEvent
+dv_has_delivery_status: DeliveryEvent
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_delivery_status|has_delivery_status]]"

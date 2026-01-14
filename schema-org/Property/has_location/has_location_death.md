@@ -29,10 +29,9 @@ dv_has_:
   location_:
     death: Place
   domain: Person
-dv_has_location_death: Place
-dv_#has_:
   name: has_location_death
   range: Place
+dv_has_location_death: Place
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_location/has_location_death|has_location_death]]"

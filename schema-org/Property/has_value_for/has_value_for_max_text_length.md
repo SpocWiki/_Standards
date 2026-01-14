@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     max_text_length: Number
   domain: PropertyValueSpecification
-dv_has_value_for_max_text_length: Number
-dv_#has_:
   name: has_value_for_max_text_length
   range: Number
+dv_has_value_for_max_text_length: Number
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_max_text_length|has_value_for_max_text_length]]"

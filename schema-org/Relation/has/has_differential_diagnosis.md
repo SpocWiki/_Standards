@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   differential_diagnosis: DDxElement
   domain: MedicalCondition
-dv_has_differential_diagnosis: DDxElement
-dv_#has_:
   name: has_differential_diagnosis
   range: DDxElement
+dv_has_differential_diagnosis: DDxElement
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_differential_diagnosis|has_differential_diagnosis]]"

@@ -30,10 +30,9 @@ type: Predi_Relation
 dv_has_:
   infectious_agent_class: InfectiousAgentClass
   domain: InfectiousDisease
-dv_has_infectious_agent_class: InfectiousAgentClass
-dv_#has_:
   name: has_infectious_agent_class
   range: InfectiousAgentClass
+dv_has_infectious_agent_class: InfectiousAgentClass
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_infectious_agent_class|has_infectious_agent_class]]"

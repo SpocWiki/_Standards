@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     print_edition: Text
   domain: NewsArticle
-dv_has_text_of_print_edition: Text
-dv_#has_:
   name: has_text_of_print_edition
   range: Text
+dv_has_text_of_print_edition: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_print_edition|has_print_edition]]"

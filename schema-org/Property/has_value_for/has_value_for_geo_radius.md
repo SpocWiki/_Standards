@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     geo_radius: Distance, Number, Text
   domain: GeoCircle
-dv_has_value_for_geo_radius: Distance, Number, Text
-dv_#has_:
   name: has_value_for_geo_radius
   range: Distance, Number, Text
+dv_has_value_for_geo_radius: Distance, Number, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_geo_radius|has_value_for_geo_radius]]"

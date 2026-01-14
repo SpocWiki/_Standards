@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     alignment_type: Text
   domain: AlignmentObject
-dv_has_text_of_alignment_type: Text
-dv_#has_:
   name: has_text_of_alignment_type
   range: Text
+dv_has_text_of_alignment_type: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_alignment_type|has_alignment_type]]"

@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   geographic_area: AdministrativeArea
   domain: Audience
-dv_has_geographic_area: AdministrativeArea
-dv_#has_:
   name: has_geographic_area
   range: AdministrativeArea
+dv_has_geographic_area: AdministrativeArea
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_geographic_area|has_geographic_area]]"

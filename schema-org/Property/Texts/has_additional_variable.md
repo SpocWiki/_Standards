@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     additional_variable: Text
   domain: ExercisePlan
-dv_has_text_of_additional_variable: Text
-dv_#has_:
   name: has_text_of_additional_variable
   range: Text
+dv_has_text_of_additional_variable: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_additional_variable|has_additional_variable]]"

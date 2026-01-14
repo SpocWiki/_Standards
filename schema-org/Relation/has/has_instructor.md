@@ -25,10 +25,9 @@ type: Predi_Relation
 dv_has_:
   instructor: Person
   domain: CourseInstance
-dv_has_instructor: Person
-dv_#has_:
   name: has_instructor
   range: Person
+dv_has_instructor: Person
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_instructor|has_instructor]]"

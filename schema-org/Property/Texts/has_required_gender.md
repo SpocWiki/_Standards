@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     required_gender: Text
   domain: PeopleAudience
-dv_has_text_of_required_gender: Text
-dv_#has_:
   name: has_text_of_required_gender
   range: Text
+dv_has_text_of_required_gender: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_required_gender|has_required_gender]]"

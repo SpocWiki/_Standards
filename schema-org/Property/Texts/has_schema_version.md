@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     schema_version: Text, URL
   domain: CreativeWork
-dv_has_text_of_schema_version: Text, URL
-dv_#has_:
   name: has_text_of_schema_version
   range: Text, URL
+dv_has_text_of_schema_version: Text, URL
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_schema_version|has_schema_version]]"

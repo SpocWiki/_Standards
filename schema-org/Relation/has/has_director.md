@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   director: Person
   domain: Clip, CreativeWorkSeason, Episode, Event, Movie, MovieSeries, RadioSeries, TVSeries, VideoGame, VideoGameSeries, VideoObject
-dv_has_director: Person
-dv_#has_:
   name: has_director
   range: Person
+dv_has_director: Person
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_director|has_director]]"

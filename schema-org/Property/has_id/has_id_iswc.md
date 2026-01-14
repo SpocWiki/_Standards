@@ -30,10 +30,9 @@ dv_has_:
   id_:
     iswc: Text
   domain: MusicComposition
-dv_has_id_iswc: Text
-dv_#has_:
   name: has_id_iswc
   range: Text
+dv_has_id_iswc: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_name/has_id_iswc|has_id_iswc]]"

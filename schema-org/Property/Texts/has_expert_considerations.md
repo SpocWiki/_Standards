@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     expert_considerations: Text
   domain: Diet
-dv_has_text_of_expert_considerations: Text
-dv_#has_:
   name: has_text_of_expert_considerations
   range: Text
+dv_has_text_of_expert_considerations: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_expert_considerations|has_expert_considerations]]"

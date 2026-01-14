@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     unit_text: Text
   domain: PropertyValue, QuantitativeValue, TypeAndQuantityNode, UnitPriceSpecification
-dv_has_text_of_unit_text: Text
-dv_#has_:
   name: has_text_of_unit_text
   range: Text
+dv_has_text_of_unit_text: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_unit_text|has_unit_text]]"

@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     discount_currency: Text
   domain: Order
-dv_has_text_of_discount_currency: Text
-dv_#has_:
   name: has_text_of_discount_currency
   range: Text
+dv_has_text_of_discount_currency: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_discount_currency|has_discount_currency]]"

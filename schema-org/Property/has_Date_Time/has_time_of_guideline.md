@@ -25,12 +25,11 @@ tags:
 title: has_time_of_guideline
 type: Predi_Date_Time
 dv_has_time_of_guideline: P#Y#M#W#DT#H#M#s.fff
-dv_#has_:
+dv_has_:
+  name: has_time_of_guideline
   time_:
     of_guideline: P#Y#M#W#DT#H#M#s.fff
 dv_domain: MedicalGuideline
-dv_has_:
-  name: has_time_of_guideline
 dv_range: Date
 dv_is_:
   same_as:

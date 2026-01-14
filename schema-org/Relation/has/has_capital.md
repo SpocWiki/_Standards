@@ -27,10 +27,9 @@ type: Predi_Relation
 dv_has_:
   capital: "[[../../../Earth/Geography/Place/Administrative_Area/City|city]]"
   domain: "[[../../../Earth/Geography/Place/Administrative_Area/Country|country]],[[../../../Earth/Geography/Place/Administrative_Area/State|state]]]"
-dv_has_capital: "[[../../Class/is_a_/place/administrative_area/city|city]]"
-dv_#has_:
   name: has_capital
   range: "[[../../../Earth/Geography/Place/Administrative_Area/City|city]]"
+dv_has_capital: "[[../../Class/is_a_/place/administrative_area/city|city]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_capital|has_capital]]"

@@ -29,10 +29,9 @@ dv_has_:
   number_of_:
     rooms: Number, QuantitativeValue
   domain: Accommodation, Apartment, FloorPlan, House, LodgingBusiness, SingleFamilyResidence, Suite
-dv_has_number_of_rooms: Number, QuantitativeValue
-dv_#has_:
   name: has_number_of_rooms
   range: Number, QuantitativeValue
+dv_has_number_of_rooms: Number, QuantitativeValue
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_rooms|has_number_of_rooms]]"

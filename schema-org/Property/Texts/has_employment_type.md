@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     employment_type: Text
   domain: JobPosting
-dv_has_text_of_employment_type: Text
-dv_#has_:
   name: has_text_of_employment_type
   range: Text
+dv_has_text_of_employment_type: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_employment_type|has_employment_type]]"

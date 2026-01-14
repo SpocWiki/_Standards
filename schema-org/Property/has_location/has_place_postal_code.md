@@ -33,10 +33,9 @@ dv_has_:
   place_:
     postal_code: Text
   domain: DefinedRegion, GeoCoordinates, GeoShape, PostalAddress
-dv_has_place_postal_code: Text
-dv_#has_:
   name: has_place_postal_code
   range: Text
+dv_has_place_postal_code: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_name/has_place_postal_code|has_place_postal_code]]"

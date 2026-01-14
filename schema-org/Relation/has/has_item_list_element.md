@@ -30,10 +30,9 @@ type: Predi_Relation
 dv_has_:
   item_list_element: ListItem, Text, Thing
   domain: ItemList
-dv_has_item_list_element: ListItem, Text, Thing
-dv_#has_:
   name: has_item_list_element
   range: ListItem, Text, Thing
+dv_has_item_list_element: ListItem, Text, Thing
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_item_list_element|has_item_list_element]]"

@@ -29,10 +29,9 @@ dv_has_:
   location_:
     of_POS: Place
   domain: Organization, Person
-dv_has_location_of_POS: Place
-dv_#has_:
   name: has_location_of_POS
   range: Place
+dv_has_location_of_POS: Place
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_location/has_location_of_POS|has_location_of_POS]]"

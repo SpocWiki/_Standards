@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     player_type: Text
   domain: MediaObject
-dv_has_text_of_player_type: Text
-dv_#has_:
   name: has_text_of_player_type
   range: Text
+dv_has_text_of_player_type: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_player_type|has_player_type]]"

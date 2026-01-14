@@ -30,10 +30,9 @@ dv_has_:
   text_of_:
     circle: Text
   domain: GeoShape
-dv_has_text_of_circle: Text
-dv_#has_:
   name: has_text_of_circle
   range: Text
+dv_has_text_of_circle: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_circle|has_circle]]"

@@ -28,7 +28,6 @@ type: Pred_Bool
 dv_is_multi_valued: Boolean
 dv_has_:
   domain: PropertyValueSpecification
-dv_#has_:
   name: is_multi_valued
   range: Boolean
 dv_is_:

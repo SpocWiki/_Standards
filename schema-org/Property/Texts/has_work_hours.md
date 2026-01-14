@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     work_hours: Text
   domain: JobPosting
-dv_has_text_of_work_hours: Text
-dv_#has_:
   name: has_text_of_work_hours
   range: Text
+dv_has_text_of_work_hours: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_work_hours|has_work_hours]]"

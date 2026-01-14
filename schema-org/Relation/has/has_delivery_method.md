@@ -30,10 +30,9 @@ type: Predi_Relation
 dv_has_:
   delivery_method: DeliveryMethod
   domain: DeliveryEvent, ParcelDelivery
-dv_has_delivery_method: DeliveryMethod
-dv_#has_:
   name: has_delivery_method
   range: DeliveryMethod
+dv_has_delivery_method: DeliveryMethod
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_delivery_method|has_delivery_method]]"

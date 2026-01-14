@@ -32,10 +32,9 @@ dv_has_:
   text_of_:
     passenger_sequence_number: Text
   domain: FlightReservation
-dv_has_text_of_passenger_sequence_number: Text
-dv_#has_:
   name: has_text_of_passenger_sequence_number
   range: Text
+dv_has_text_of_passenger_sequence_number: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_passenger_sequence_number|has_passenger_sequence_number]]"

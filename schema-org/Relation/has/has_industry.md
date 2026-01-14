@@ -25,10 +25,9 @@ type: Predi_Relation
 dv_has_:
   industry: DefinedTerm, Text
   domain: JobPosting
-dv_has_industry: DefinedTerm, Text
-dv_#has_:
   name: has_industry
   range: DefinedTerm, Text
+dv_has_industry: DefinedTerm, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_industry|has_industry]]"

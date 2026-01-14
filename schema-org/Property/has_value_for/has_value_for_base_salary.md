@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     base_salary: MonetaryAmount, Number, PriceSpecification
   domain: EmployeeRole, JobPosting
-dv_has_value_for_base_salary: MonetaryAmount, Number, PriceSpecification
-dv_#has_:
   name: has_value_for_base_salary
   range: MonetaryAmount, Number, PriceSpecification
+dv_has_value_for_base_salary: MonetaryAmount, Number, PriceSpecification
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_base_salary|has_value_for_base_salary]]"

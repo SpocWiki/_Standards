@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     worst_rating: Number, Text
   domain: Rating
-dv_has_value_for_worst_rating: Number, Text
-dv_#has_:
   name: has_value_for_worst_rating
   range: Number, Text
+dv_has_value_for_worst_rating: Number, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_worst_rating|has_value_for_worst_rating]]"

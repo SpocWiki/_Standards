@@ -32,10 +32,9 @@ dv_has_:
   text_of_:
     runtime_platform: Text
   domain: SoftwareSourceCode
-dv_has_text_of_runtime_platform: Text
-dv_#has_:
   name: has_text_of_runtime_platform
   range: Text
+dv_has_text_of_runtime_platform: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_runtime_platform|has_runtime_platform]]"

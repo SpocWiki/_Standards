@@ -25,12 +25,11 @@ tags:
 title: has_time_modified
 type: Predi_Date_Time
 dv_has_time_modified: P#Y#M#W#DT#H#M#s.fff
-dv_#has_:
+dv_has_:
+  name: has_time_modified
   time_:
     modified: P#Y#M#W#DT#H#M#s.fff
 dv_domain: CreativeWork, DataFeedItem, Reservation
-dv_has_:
-  name: has_time_modified
 dv_range: Date, DateTime
 dv_is_:
   same_as:

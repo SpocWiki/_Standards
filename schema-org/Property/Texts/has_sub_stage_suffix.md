@@ -32,10 +32,9 @@ dv_has_:
   text_of_:
     sub_stage_suffix: Text
   domain: MedicalConditionStage
-dv_has_text_of_sub_stage_suffix: Text
-dv_#has_:
   name: has_text_of_sub_stage_suffix
   range: Text
+dv_has_text_of_sub_stage_suffix: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_sub_stage_suffix|has_sub_stage_suffix]]"

@@ -25,10 +25,9 @@ type: Predi_Relation
 dv_has_:
   nerve: Nerve
   domain: Muscle
-dv_has_nerve: Nerve
-dv_#has_:
   name: has_nerve
   range: Nerve
+dv_has_nerve: Nerve
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_nerve|has_nerve]]"

@@ -29,10 +29,9 @@ dv_has_:
   number_of_:
     required_min_age: Integer
   domain: PeopleAudience
-dv_has_number_of_required_min_age: Integer
-dv_#has_:
   name: has_number_of_required_min_age
   range: Integer
+dv_has_number_of_required_min_age: Integer
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_required_min_age|has_number_of_required_min_age]]"

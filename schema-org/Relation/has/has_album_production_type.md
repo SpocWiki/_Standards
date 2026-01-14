@@ -28,10 +28,9 @@ type: Predi_Relation
 dv_has_:
   album_production_type: MusicAlbumProductionType
   domain: MusicAlbum
-dv_has_album_production_type: MusicAlbumProductionType
-dv_#has_:
   name: has_album_production_type
   range: MusicAlbumProductionType
+dv_has_album_production_type: MusicAlbumProductionType
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_album_production_type|has_album_production_type]]"

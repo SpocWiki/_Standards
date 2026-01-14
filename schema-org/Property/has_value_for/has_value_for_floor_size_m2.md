@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     floor_size_m2: QuantitativeValue
   domain: Accommodation, FloorPlan
-dv_has_value_for_floor_size_m2: QuantitativeValue
-dv_#has_:
   name: has_value_for_floor_size_m2
   range: QuantitativeValue
+dv_has_value_for_floor_size_m2: QuantitativeValue
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_floor_size_m2|has_value_for_floor_size_m2]]"

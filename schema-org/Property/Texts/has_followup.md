@@ -30,10 +30,9 @@ dv_has_:
   text_of_:
     followup: Text
   domain: MedicalProcedure
-dv_has_text_of_followup: Text
-dv_#has_:
   name: has_text_of_followup
   range: Text
+dv_has_text_of_followup: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_followup|has_followup]]"

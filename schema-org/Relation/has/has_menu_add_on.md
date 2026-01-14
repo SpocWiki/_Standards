@@ -30,10 +30,9 @@ type: Predi_Relation
 dv_has_:
   menu_add_on: MenuItem, MenuSection
   domain: MenuItem
-dv_has_menu_add_on: MenuItem, MenuSection
-dv_#has_:
   name: has_menu_add_on
   range: MenuItem, MenuSection
+dv_has_menu_add_on: MenuItem, MenuSection
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_menu_add_on|has_menu_add_on]]"

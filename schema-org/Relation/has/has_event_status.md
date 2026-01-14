@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   event_status: EventStatusType
   domain: Event
-dv_has_event_status: EventStatusType
-dv_#has_:
   name: has_event_status
   range: EventStatusType
+dv_has_event_status: EventStatusType
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_event_status|has_event_status]]"

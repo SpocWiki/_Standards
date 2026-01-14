@@ -31,10 +31,9 @@ dv_has_:
   name_:
     given: Text
   domain: Person
-dv_has_name_given: Text
-dv_#has_:
   name: has_name_given
   range: Text
+dv_has_name_given: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_name/has_name_given|has_name_given]]"

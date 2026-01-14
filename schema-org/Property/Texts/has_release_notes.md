@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     release_notes: Text, URL
   domain: SoftwareApplication
-dv_has_text_of_release_notes: Text, URL
-dv_#has_:
   name: has_text_of_release_notes
   range: Text, URL
+dv_has_text_of_release_notes: Text, URL
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_release_notes|has_release_notes]]"

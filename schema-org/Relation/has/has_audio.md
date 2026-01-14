@@ -25,10 +25,9 @@ type: Predi_Relation
 dv_has_:
   audio: AudioObject, Clip, MusicRecording
   domain: CreativeWork
-dv_has_audio: AudioObject, Clip, MusicRecording
-dv_#has_:
   name: has_audio
   range: AudioObject, Clip, MusicRecording
+dv_has_audio: AudioObject, Clip, MusicRecording
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_audio|has_audio]]"

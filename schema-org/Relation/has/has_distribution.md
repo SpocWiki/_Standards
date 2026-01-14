@@ -25,10 +25,9 @@ type: Predi_Relation
 dv_has_:
   distribution: DataDownload
   domain: Dataset
-dv_has_distribution: DataDownload
-dv_#has_:
   name: has_distribution
   range: DataDownload
+dv_has_distribution: DataDownload
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_distribution|has_distribution]]"

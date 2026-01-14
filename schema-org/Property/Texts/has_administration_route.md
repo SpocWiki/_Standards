@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     administration_route: Text
   domain: Drug
-dv_has_text_of_administration_route: Text
-dv_#has_:
   name: has_text_of_administration_route
   range: Text
+dv_has_text_of_administration_route: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_administration_route|has_administration_route]]"

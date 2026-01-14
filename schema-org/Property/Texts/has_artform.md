@@ -30,10 +30,9 @@ dv_has_:
   text_of_:
     artform: Text, URL
   domain: VisualArtwork
-dv_has_text_of_artform: Text, URL
-dv_#has_:
   name: has_text_of_artform
   range: Text, URL
+dv_has_text_of_artform: Text, URL
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_artform|has_artform]]"

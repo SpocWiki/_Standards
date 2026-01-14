@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     train_number: Text
   domain: TrainTrip
-dv_has_text_of_train_number: Text
-dv_#has_:
   name: has_text_of_train_number
   range: Text
+dv_has_text_of_train_number: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_name/has_id_of_train|has_id_of_train]]"

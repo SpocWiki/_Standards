@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     child_min_age: Number
   domain: ParentAudience
-dv_has_value_for_child_min_age: Number
-dv_#has_:
   name: has_value_for_child_min_age
   range: Number
+dv_has_value_for_child_min_age: Number
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_child_min_age|has_value_for_child_min_age]]"

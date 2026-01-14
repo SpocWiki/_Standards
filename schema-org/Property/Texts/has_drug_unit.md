@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     drug_unit: Text
   domain: Drug, DrugCost
-dv_has_text_of_drug_unit: Text
-dv_#has_:
   name: has_text_of_drug_unit
   range: Text
+dv_has_text_of_drug_unit: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_drug_unit|has_drug_unit]]"

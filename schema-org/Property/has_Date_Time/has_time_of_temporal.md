@@ -25,12 +25,11 @@ tags:
 title: has_time_of_temporal
 type: Predi_Date_Time
 dv_has_time_of_temporal: P#Y#M#W#DT#H#M#s.fff
-dv_#has_:
+dv_has_:
+  name: has_time_of_temporal
   time_:
     of_temporal: P#Y#M#W#DT#H#M#s.fff
 dv_domain: CreativeWork
-dv_has_:
-  name: has_time_of_temporal
 dv_range: DateTime, Text
 dv_is_:
   same_as:

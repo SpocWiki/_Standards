@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     application_category: Text, URL
   domain: SoftwareApplication
-dv_has_text_of_application_category: Text, URL
-dv_#has_:
   name: has_text_of_application_category
   range: Text, URL
+dv_has_text_of_application_category: Text, URL
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_application_category|has_application_category]]"

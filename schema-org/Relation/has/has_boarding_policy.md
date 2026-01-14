@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   boarding_policy: BoardingPolicyType
   domain: Airline, Flight
-dv_has_boarding_policy: BoardingPolicyType
-dv_#has_:
   name: has_boarding_policy
   range: BoardingPolicyType
+dv_has_boarding_policy: BoardingPolicyType
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_boarding_policy|has_boarding_policy]]"

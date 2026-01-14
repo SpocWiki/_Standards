@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     algorithm: Text
   domain: MedicalRiskScore
-dv_has_text_of_algorithm: Text
-dv_#has_:
   name: has_text_of_algorithm
   range: Text
+dv_has_text_of_algorithm: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_algorithm|has_algorithm]]"

@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   menu_item: MenuItem
   domain: Menu, MenuSection
-dv_has_menu_item: MenuItem
-dv_#has_:
   name: has_menu_item
   range: MenuItem
+dv_has_menu_item: MenuItem
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_menu_item|has_menu_item]]"

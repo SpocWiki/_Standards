@@ -32,10 +32,9 @@ dv_has_:
   text_of_:
     mechanism_of_action: Text
   domain: DietarySupplement, Drug
-dv_has_text_of_mechanism_of_action: Text
-dv_#has_:
   name: has_text_of_mechanism_of_action
   range: Text
+dv_has_text_of_mechanism_of_action: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_mechanism_of_action|has_mechanism_of_action]]"

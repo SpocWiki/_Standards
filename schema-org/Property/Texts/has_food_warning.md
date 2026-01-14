@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     food_warning: Text
   domain: Drug
-dv_has_text_of_food_warning: Text
-dv_#has_:
   name: has_text_of_food_warning
   range: Text
+dv_has_text_of_food_warning: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_food_warning|has_food_warning]]"

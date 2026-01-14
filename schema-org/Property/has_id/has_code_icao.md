@@ -30,10 +30,9 @@ dv_has_:
   code_:
     icao: Text
   domain: Airport
-dv_has_code_icao: Text
-dv_#has_:
   name: has_code_icao
   range: Text
+dv_has_code_icao: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_name/has_code_icao|has_code_icao]]"

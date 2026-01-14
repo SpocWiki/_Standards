@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     review_aspect: Text
   domain: Guide, Rating, Review
-dv_has_text_of_review_aspect: Text
-dv_#has_:
   name: has_text_of_review_aspect
   range: Text
+dv_has_text_of_review_aspect: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_review_aspect|has_review_aspect]]"

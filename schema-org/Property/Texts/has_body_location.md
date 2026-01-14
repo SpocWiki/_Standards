@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     body_location: Text
   domain: AnatomicalStructure, MedicalProcedure
-dv_has_text_of_body_location: Text
-dv_#has_:
   name: has_text_of_body_location
   range: Text
+dv_has_text_of_body_location: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_body_location|has_body_location]]"

@@ -30,10 +30,9 @@ type: Predi_Relation
 dv_has_:
   aggregate_rating: AggregateRating
   domain: Brand, CreativeWork, Event, Offer, Organization, Place, Product, Service
-dv_has_aggregate_rating: AggregateRating
-dv_#has_:
   name: has_aggregate_rating
   range: AggregateRating
+dv_has_aggregate_rating: AggregateRating
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_aggregate_rating|has_aggregate_rating]]"

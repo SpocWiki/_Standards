@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     fuel_efficiency: QuantitativeValue
   domain: Vehicle
-dv_has_value_for_fuel_efficiency: QuantitativeValue
-dv_#has_:
   name: has_value_for_fuel_efficiency
   range: QuantitativeValue
+dv_has_value_for_fuel_efficiency: QuantitativeValue
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_fuel_efficiency|has_value_for_fuel_efficiency]]"

@@ -29,10 +29,9 @@ dv_has_:
   number_of_:
     art_edition: Integer, Text
   domain: VisualArtwork
-dv_has_number_of_art_edition: Integer, Text
-dv_#has_:
   name: has_number_of_art_edition
   range: Integer, Text
+dv_has_number_of_art_edition: Integer, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_art_edition|has_number_of_art_edition]]"

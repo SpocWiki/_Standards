@@ -26,10 +26,9 @@ type: Predi_Relation
 dv_has_:
   sub_properties: "[[../Property]]"
   domain: "[[../Property]]"
-dv_has_sub_properties: "[[../Property]]"
-dv_#has_:
   name: has_sub_properties
   range: "[[../Property]]"
+dv_has_sub_properties: "[[../Property]]"
 dv_is_:
   inverse_of: "[[is_sub_property_of]]"
   same_as:

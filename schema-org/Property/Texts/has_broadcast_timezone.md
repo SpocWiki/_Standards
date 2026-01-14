@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     broadcast_timezone: Text
   domain: BroadcastService
-dv_has_text_of_broadcast_timezone: Text
-dv_#has_:
   name: has_text_of_broadcast_timezone
   range: Text
+dv_has_text_of_broadcast_timezone: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_broadcast_timezone|has_broadcast_timezone]]"

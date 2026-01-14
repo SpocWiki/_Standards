@@ -30,10 +30,9 @@ dv_has_:
   value_for_:
     dose: Number, QualitativeValue
   domain: DoseSchedule
-dv_has_value_for_dose: Number, QualitativeValue
-dv_#has_:
   name: has_value_for_dose
   range: Number, QualitativeValue
+dv_has_value_for_dose: Number, QualitativeValue
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_dose_value|has_value_for_dose_value]]"

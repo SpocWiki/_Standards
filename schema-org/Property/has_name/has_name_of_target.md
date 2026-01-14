@@ -29,10 +29,9 @@ type: Pred_Text
 dv_has_:
   name_of_target: Text
   domain: AlignmentObject
-dv_has_name_of_target: Text
-dv_#has_:
   name: has_name_of_target
   range: Text
+dv_has_name_of_target: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_name/has_name_of_target|has_name_of_target]]"

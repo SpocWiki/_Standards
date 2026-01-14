@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     vehicle_configuration: Text
   domain: Vehicle
-dv_has_text_of_vehicle_configuration: Text
-dv_#has_:
   name: has_text_of_vehicle_configuration
   range: Text
+dv_has_text_of_vehicle_configuration: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_vehicle_configuration|has_vehicle_configuration]]"

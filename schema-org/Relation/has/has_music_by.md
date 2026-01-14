@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   music_by: MusicGroup, Person
   domain: Clip, Episode, Movie, MovieSeries, RadioSeries, TVSeries, VideoGame, VideoGameSeries, VideoObject
-dv_has_music_by: MusicGroup, Person
-dv_#has_:
   name: has_music_by
   range: MusicGroup, Person
+dv_has_music_by: MusicGroup, Person
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_music_by|has_music_by]]"

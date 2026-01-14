@@ -30,10 +30,9 @@ type: Predi_Relation
 dv_has_:
   interaction_statistic: InteractionCounter
   domain: CreativeWork, Organization, Person
-dv_has_interaction_statistic: InteractionCounter
-dv_#has_:
   name: has_interaction_statistic
   range: InteractionCounter
+dv_has_interaction_statistic: InteractionCounter
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_interaction_statistic|has_interaction_statistic]]"

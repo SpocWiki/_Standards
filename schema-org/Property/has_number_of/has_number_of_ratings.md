@@ -29,10 +29,9 @@ dv_has_:
   number_of_:
     ratings: Integer
   domain: AggregateRating
-dv_has_number_of_ratings: Integer
-dv_#has_:
   name: has_number_of_ratings
   range: Integer
+dv_has_number_of_ratings: Integer
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_ratings|has_number_of_ratings]]"

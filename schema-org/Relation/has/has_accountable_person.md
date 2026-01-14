@@ -26,10 +26,9 @@ type: Predi_Relation
 dv_has_:
   accountable_person: Person
   domain: CreativeWork
-dv_has_accountable_person: Person
-dv_#has_:
   name: has_accountable_person
   range: Person
+dv_has_accountable_person: Person
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_accountable_person|has_accountable_person]]"

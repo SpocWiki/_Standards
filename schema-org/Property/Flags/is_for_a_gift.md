@@ -28,7 +28,6 @@ type: Pred_Bool
 dv_is_for_a_gift: Boolean
 dv_has_:
   domain: Order
-dv_#has_:
   name: is_for_a_gift
   range: Boolean
 dv_is_:

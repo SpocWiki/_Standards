@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     isic_v4: Text
   domain: Organization, Person, Place
-dv_has_text_of_isic_v4: Text
-dv_#has_:
   name: has_text_of_isic_v4
   range: Text
+dv_has_text_of_isic_v4: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_isic_v4|has_isic_v4]]"

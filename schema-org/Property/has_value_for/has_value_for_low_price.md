@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     low_price: Number, Text
   domain: AggregateOffer
-dv_has_value_for_low_price: Number, Text
-dv_#has_:
   name: has_value_for_low_price
   range: Number, Text
+dv_has_value_for_low_price: Number, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_low_price|has_value_for_low_price]]"

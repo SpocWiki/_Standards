@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     distance: Number
   domain: ExerciseAction, TravelAction
-dv_has_value_for_distance: Distance
-dv_#has_:
   name: has_value_for_distance
   range: Distance
+dv_has_value_for_distance: Distance
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_distance|has_value_for_distance]]"

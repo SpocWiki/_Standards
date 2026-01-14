@@ -25,12 +25,11 @@ tags:
 title: has_time_of_coverage_end
 type: Predi_Date_Time
 dv_has_time_of_coverage_end: P#Y#M#W#DT#H#M#s.fff
-dv_#has_:
+dv_has_:
+  name: has_time_of_coverage_end
   time_:
     of_coverage_end: P#Y#M#W#DT#H#M#s.fff
 dv_domain: LiveBlogPosting
-dv_has_:
-  name: has_time_of_coverage_end
 dv_range: DateTime
 dv_is_:
   same_as:

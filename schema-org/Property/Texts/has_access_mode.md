@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     access_mode: Text
   domain: "[[../../../Society/Communication/Media/Creative_Work]]"
-dv_has_text_of_access_mode: Text
-dv_#has_:
   name: has_text_of_access_mode
   range: Text
+dv_has_text_of_access_mode: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_access_mode|has_access_mode]]"

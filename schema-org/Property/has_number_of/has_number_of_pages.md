@@ -29,10 +29,9 @@ dv_has_:
   number_of_:
     pages: Integer
   domain: Book
-dv_has_number_of_pages: Integer
-dv_#has_:
   name: has_number_of_pages
   range: Integer
+dv_has_number_of_pages: Integer
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_pages|has_number_of_pages]]"

@@ -27,10 +27,9 @@ type: Predi_Relation
 dv_has_:
   action_status: ActionStatusType
   domain: Action
-dv_has_action_status: ActionStatusType
-dv_#has_:
   name: has_action_status
   range: ActionStatusType
+dv_has_action_status: ActionStatusType
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_action_status|has_action_status]]"

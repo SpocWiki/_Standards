@@ -25,10 +25,9 @@ type: Predi_Relation
 dv_has_:
   organizer: Organization, Person
   domain: Event
-dv_has_organizer: Organization, Person
-dv_#has_:
   name: has_organizer
   range: Organization, Person
+dv_has_organizer: Organization, Person
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_organizer|has_organizer]]"

@@ -28,7 +28,6 @@ type: Pred_Bool
 dv_is_proprietary: Boolean
 dv_has_:
   domain: DietarySupplement, Drug
-dv_#has_:
   name: is_proprietary
   range: Boolean
 dv_is_:

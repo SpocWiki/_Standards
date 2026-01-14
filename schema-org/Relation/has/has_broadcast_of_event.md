@@ -30,10 +30,9 @@ type: Predi_Relation
 dv_has_:
   broadcast_of_event: Event
   domain: BroadcastEvent
-dv_has_broadcast_of_event: Event
-dv_#has_:
   name: has_broadcast_of_event
   range: Event
+dv_has_broadcast_of_event: Event
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_broadcast_of_event|has_broadcast_of_event]]"

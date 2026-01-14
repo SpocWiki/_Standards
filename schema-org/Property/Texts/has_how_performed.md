@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     how_performed: Text
   domain: MedicalProcedure
-dv_has_text_of_how_performed: Text
-dv_#has_:
   name: has_text_of_how_performed
   range: Text
+dv_has_text_of_how_performed: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_how_performed|has_how_performed]]"

@@ -30,10 +30,9 @@ dv_has_:
   value_for_:
     broadcast_frequency: Number, QuantitativeValue
   domain: BroadcastFrequencySpecification
-dv_has_value_for_broadcast_frequency: Number, QuantitativeValue
-dv_#has_:
   name: has_value_for_broadcast_frequency
   range: Number, QuantitativeValue
+dv_has_value_for_broadcast_frequency: Number, QuantitativeValue
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_broadcast_frequency_value|has_value_for_broadcast_frequency_value]]"

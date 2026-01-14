@@ -27,10 +27,9 @@ type: Predi_Relation
 dv_has_:
   amenity_feature: LocationFeatureSpecification
   domain: Accommodation, FloorPlan, LodgingBusiness, Place
-dv_has_amenity_feature: LocationFeatureSpecification
-dv_#has_:
   name: has_amenity_feature
   range: LocationFeatureSpecification
+dv_has_amenity_feature: LocationFeatureSpecification
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_amenity_feature|has_amenity_feature]]"

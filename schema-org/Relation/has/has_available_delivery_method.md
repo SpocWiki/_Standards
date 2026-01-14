@@ -28,10 +28,9 @@ type: Predi_Relation
 dv_has_:
   available_delivery_method: DeliveryMethod
   domain: Demand, Offer
-dv_has_available_delivery_method: DeliveryMethod
-dv_#has_:
   name: has_available_delivery_method
   range: DeliveryMethod
+dv_has_available_delivery_method: DeliveryMethod
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_available_delivery_method|has_available_delivery_method]]"

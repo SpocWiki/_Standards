@@ -25,10 +25,9 @@ type: Predi_Relation
 dv_has_:
   diagnosis: MedicalCondition
   domain: DDxElement, Patient
-dv_has_diagnosis: MedicalCondition
-dv_#has_:
   name: has_diagnosis
   range: MedicalCondition
+dv_has_diagnosis: MedicalCondition
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_diagnosis|has_diagnosis]]"

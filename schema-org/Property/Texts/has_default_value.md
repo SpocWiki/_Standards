@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     default_value: Text, Thing
   domain: PropertyValueSpecification
-dv_has_text_of_default_value: Text, Thing
-dv_#has_:
   name: has_text_of_default_value
   range: Text, Thing
+dv_has_text_of_default_value: Text, Thing
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_default_value|has_default_value]]"

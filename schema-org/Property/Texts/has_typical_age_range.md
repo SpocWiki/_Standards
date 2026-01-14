@@ -32,10 +32,9 @@ dv_has_:
   text_of_:
     typical_age_range: Text
   domain: CreativeWork, Event
-dv_has_text_of_typical_age_range: Text
-dv_#has_:
   name: has_text_of_typical_age_range
   range: Text
+dv_has_text_of_typical_age_range: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_typical_age_range|has_typical_age_range]]"

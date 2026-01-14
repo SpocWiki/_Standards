@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   occupation_location: "[[../../../Earth/Geography/Place/Administrative_Area|Administrative_Area]]"
   domain: Occupation
-dv_has_occupation_location: "[[../../../Earth/Geography/Place/Administrative_Area|Administrative_Area]]"
-dv_#has_:
   name: has_occupation_location
   range: "[[../../../Earth/Geography/Place/Administrative_Area|Administrative_Area]]"
+dv_has_occupation_location: "[[../../../Earth/Geography/Place/Administrative_Area|Administrative_Area]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_occupation_location|has_occupation_location]]"

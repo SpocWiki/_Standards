@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     target_platform: Text
   domain: APIReference
-dv_has_text_of_target_platform: Text
-dv_#has_:
   name: has_text_of_target_platform
   range: Text
+dv_has_text_of_target_platform: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_target_platform|has_target_platform]]"

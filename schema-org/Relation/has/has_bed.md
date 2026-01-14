@@ -25,10 +25,9 @@ type: Predi_Relation
 dv_has_:
   bed: BedDetails, BedType, Text
   domain: HotelRoom, Suite
-dv_has_bed: BedDetails, BedType, Text
-dv_#has_:
   name: has_bed
   range: BedDetails, BedType, Text
+dv_has_bed: BedDetails, BedType, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_bed|has_bed]]"

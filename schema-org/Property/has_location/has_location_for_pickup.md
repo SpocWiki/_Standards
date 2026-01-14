@@ -29,10 +29,9 @@ dv_has_:
   location_:
     for_pickup: Place
   domain: RentalCarReservation, TaxiReservation
-dv_has_location_for_pickup: Place
-dv_#has_:
   name: has_location_for_pickup
   range: Place
+dv_has_location_for_pickup: Place
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_location/has_location_for_pickup|has_location_for_pickup]]"

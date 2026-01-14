@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     structural_class: Text
   domain: Joint
-dv_has_text_of_structural_class: Text
-dv_#has_:
   name: has_text_of_structural_class
   range: Text
+dv_has_text_of_structural_class: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_structural_class|has_structural_class]]"

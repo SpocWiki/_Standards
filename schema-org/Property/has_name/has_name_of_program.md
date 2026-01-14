@@ -29,10 +29,9 @@ type: Pred_Text
 dv_has_:
   name_of_program: Text
   domain: ProgramMembership
-dv_has_name_of_program: Text
-dv_#has_:
   name: has_name_of_program
   range: Text
+dv_has_name_of_program: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_name/has_name_of_program|has_name_of_program]]"

@@ -30,10 +30,9 @@ dv_has_:
   url_for_:
     discussion: URL
   domain: CreativeWork
-dv_has_url_for_discussion: URL
-dv_#has_:
   name: has_url_for_discussion_url
   range: URL
+dv_has_url_for_discussion: URL
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_url_for/has_url_for_discussion|has_url_for_discussion]]"

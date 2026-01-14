@@ -30,10 +30,9 @@ type: Predi_Relation
 dv_has_:
   educational_credential_awarded: EducationalOccupationalCredential, Text, URL
   domain: Course, EducationalOccupationalProgram
-dv_has_educational_credential_awarded: EducationalOccupationalCredential, Text, URL
-dv_#has_:
   name: has_educational_credential_awarded
   range: EducationalOccupationalCredential, Text, URL
+dv_has_educational_credential_awarded: EducationalOccupationalCredential, Text, URL
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_educational_credential_awarded|has_educational_credential_awarded]]"

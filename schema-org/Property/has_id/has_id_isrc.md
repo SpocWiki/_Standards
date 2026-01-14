@@ -31,10 +31,9 @@ dv_has_:
   id_:
     isrc_code: Text
   domain: MusicRecording
-dv_has_id_isrc_code: Text
-dv_#has_:
   name: has_id_id_isrc_code
   range: Text
+dv_has_id_isrc_code: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_name/has_id_isrc|has_id_isrc]]"

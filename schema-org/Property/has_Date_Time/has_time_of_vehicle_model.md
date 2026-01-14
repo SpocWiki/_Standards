@@ -25,12 +25,11 @@ tags:
 title: has_time_of_vehicle_model
 type: Predi_Date_Time
 dv_has_time_of_vehicle_model: P#Y#M#W#DT#H#M#s.fff
-dv_#has_:
+dv_has_:
+  name: has_time_of_vehicle_model
   time_:
     of_vehicle_model: P#Y#M#W#DT#H#M#s.fff
 dv_domain: Vehicle
-dv_has_:
-  name: has_time_of_vehicle_model
 dv_range: Date
 dv_is_:
   same_as:

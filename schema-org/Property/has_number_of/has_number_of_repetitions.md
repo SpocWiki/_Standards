@@ -29,10 +29,9 @@ dv_has_:
   number_of_:
     repetitions: Number, QuantitativeValue
   domain: ExercisePlan
-dv_has_number_of_repetitions: Number, QuantitativeValue
-dv_#has_:
   name: has_number_of_repetitions
   range: Number, QuantitativeValue
+dv_has_number_of_repetitions: Number, QuantitativeValue
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_repetitions|has_number_of_repetitions]]"

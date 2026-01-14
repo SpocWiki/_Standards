@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   course_instance: CourseInstance
   domain: Course
-dv_has_course_instance: CourseInstance
-dv_#has_:
   name: has_course_instance
   range: CourseInstance
+dv_has_course_instance: CourseInstance
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_course_instance|has_course_instance]]"

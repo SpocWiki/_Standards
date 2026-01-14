@@ -25,10 +25,9 @@ type: Predi_Relation
 dv_has_:
   contributor: Organization, Person
   domain: CreativeWork, Event
-dv_has_contributor: Organization, Person
-dv_#has_:
   name: has_contributor
   range: Organization, Person
+dv_has_contributor: Organization, Person
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_contributor|has_contributor]]"

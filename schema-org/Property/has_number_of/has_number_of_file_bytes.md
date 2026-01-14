@@ -30,10 +30,9 @@ dv_has_:
   number_of_:
     file_bytes: Text
   domain: SoftwareApplication
-dv_has_number_of_file_bytes: Text
-dv_#has_:
   name: has_number_of_file_bytes
   range: Text
+dv_has_number_of_file_bytes: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_file_bytes|has_number_of_file_bytes]]"

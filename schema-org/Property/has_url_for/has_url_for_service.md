@@ -30,10 +30,9 @@ dv_has_:
   url_for_:
     service: URL
   domain: ServiceChannel
-dv_has_url_for_service: URL
-dv_#has_:
   name: has_url_for_service_url
   range: URL
+dv_has_url_for_service: URL
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_url_for/has_url_for_service|has_url_for_service]]"

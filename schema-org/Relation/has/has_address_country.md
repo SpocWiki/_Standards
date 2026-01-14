@@ -27,10 +27,9 @@ type: Predi_Relation
 dv_has_:
   address_country: Country, Text
   domain: DefinedRegion, GeoCoordinates, GeoShape, PostalAddress
-dv_has_address_country: Country, Text
-dv_#has_:
   name: has_address_country
   range: Country, Text
+dv_has_address_country: Country, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_address_country|has_address_country]]"

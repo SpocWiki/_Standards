@@ -25,10 +25,9 @@ type: Predi_Relation
 dv_has_:
   model: ProductModel, Text
   domain: Product
-dv_has_model: ProductModel, Text
-dv_#has_:
   name: has_model
   range: ProductModel, Text
+dv_has_model: ProductModel, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_model|has_model]]"

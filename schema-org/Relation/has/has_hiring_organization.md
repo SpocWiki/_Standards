@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   hiring_organization: Organization, Person
   domain: JobPosting
-dv_has_hiring_organization: Organization, Person
-dv_#has_:
   name: has_hiring_organization
   range: Organization, Person
+dv_has_hiring_organization: Organization, Person
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_hiring_organization|has_hiring_organization]]"

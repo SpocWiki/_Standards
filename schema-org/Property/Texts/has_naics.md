@@ -30,10 +30,9 @@ dv_has_:
   text_of_:
     naics: Text
   domain: Organization, Person
-dv_has_text_of_naics: Text
-dv_#has_:
   name: has_text_of_naics
   range: Text
+dv_has_text_of_naics: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_naics|has_naics]]"

@@ -30,10 +30,9 @@ type: Predi_Relation
 dv_has_:
   arterial_branch: AnatomicalStructure
   domain: Artery
-dv_has_arterial_branch: AnatomicalStructure
-dv_#has_:
   name: has_arterial_branch
   range: AnatomicalStructure
+dv_has_arterial_branch: AnatomicalStructure
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_arterial_branch|has_arterial_branch]]"

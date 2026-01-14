@@ -29,10 +29,9 @@ dv_has_:
   number_of_:
     comments: Integer
   domain: CreativeWork
-dv_has_number_of_comments: Integer
-dv_#has_:
   name: has_number_of_comments
   range: Integer
+dv_has_number_of_comments: Integer
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_comments|has_number_of_comments]]"

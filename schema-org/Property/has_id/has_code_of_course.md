@@ -30,10 +30,9 @@ dv_has_:
   code_:
     of_course: Text
   domain: Course
-dv_has_code_of_course: Text
-dv_#has_:
   name: has_code_of_course
   range: Text
+dv_has_code_of_course: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_name/has_code_of_course|has_code_of_course]]"

@@ -29,10 +29,9 @@ dv_has_:
   number_of_:
     forward_gears: Number, QuantitativeValue
   domain: Vehicle
-dv_has_number_of_forward_gears: Number, QuantitativeValue
-dv_#has_:
   name: has_number_of_forward_gears
   range: Number, QuantitativeValue
+dv_has_number_of_forward_gears: Number, QuantitativeValue
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_forward_gears|has_number_of_forward_gears]]"

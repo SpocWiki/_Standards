@@ -32,10 +32,9 @@ dv_has_:
   text_of_:
     software_requirements: Text, URL
   domain: SoftwareApplication
-dv_has_text_of_software_requirements: Text, URL
-dv_#has_:
   name: has_text_of_software_requirements
   range: Text, URL
+dv_has_text_of_software_requirements: Text, URL
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_software_requirements|has_software_requirements]]"

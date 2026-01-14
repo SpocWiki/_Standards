@@ -25,10 +25,9 @@ type: Predi_Relation
 dv_has_:
   character: Person
   domain: CreativeWork
-dv_has_character: Person
-dv_#has_:
   name: has_character
   range: Person
+dv_has_character: Person
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_character|has_character]]"

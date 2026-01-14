@@ -30,10 +30,9 @@ dv_has_:
   id_:
     membership: Text
   domain: ProgramMembership
-dv_has_id_membership: Text
-dv_#has_:
   name: has_id_membership
   range: Text
+dv_has_id_membership: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_name/has_id_membership|has_id_membership]]"

@@ -25,10 +25,9 @@ type: Predi_Relation
 dv_has_:
   department: Organization
   domain: Organization
-dv_has_department: Organization
-dv_#has_:
   name: has_department
   range: Organization
+dv_has_department: Organization
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_department|has_department]]"

@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   first_performance: Event
   domain: MusicComposition
-dv_has_first_performance: Event
-dv_#has_:
   name: has_first_performance
   range: Event
+dv_has_first_performance: Event
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_first_performance|has_first_performance]]"

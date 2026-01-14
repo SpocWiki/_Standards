@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     amount_of_this_good: Number
   domain: TypeAndQuantityNode
-dv_has_value_for_amount_of_this_good: Number
-dv_#has_:
   name: has_value_for_amount_of_this_good
   range: Number
+dv_has_value_for_amount_of_this_good: Number
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_amount_of_this_good|has_value_for_amount_of_this_good]]"

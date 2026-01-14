@@ -28,7 +28,6 @@ type: Pred_Bool
 dv_is_true: Boolean, Number, StructuredValue, Text
 dv_has_:
   domain: MonetaryAmount, PropertyValue, QuantitativeValue
-dv_#has_:
   name: is_true
   range: Boolean, Number, StructuredValue, Text
 dv_is_:

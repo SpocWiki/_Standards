@@ -26,10 +26,9 @@ type: Predi_Relation
 dv_has_:
   code: MedicalCode
   domain: "[[../../../Class/is_a_thing/medical_entity]]"
-dv_has_code: MedicalCode
-dv_#has_:
   name: has_code
   range: "[[../../Class/is_a_/Intangible/Defined_Term/Category_Code/Medical_Code]]"
+dv_has_code: MedicalCode
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_code|has_code]]"

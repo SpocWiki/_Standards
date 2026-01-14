@@ -30,10 +30,9 @@ type: Pred_Text
 dv_has_:
   name_display_broadcast: Text
   domain: BroadcastService
-dv_has_name_display_broadcast: Text
-dv_#has_:
   name: has_name_display_broadcast
   range: Text
+dv_has_name_display_broadcast: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_name/has_name_display_broadcast|has_name_display_broadcast]]"

@@ -30,10 +30,9 @@ dv_has_:
   text_of_:
     pagination: Text
   domain: Article, Chapter, PublicationIssue, PublicationVolume
-dv_has_text_of_pagination: Text
-dv_#has_:
   name: has_text_of_pagination
   range: Text
+dv_has_text_of_pagination: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_pagination|has_pagination]]"

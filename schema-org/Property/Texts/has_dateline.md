@@ -30,10 +30,9 @@ dv_has_:
   text_of_:
     dateline: Text
   domain: NewsArticle
-dv_has_text_of_dateline: Text
-dv_#has_:
   name: has_text_of_dateline
   range: Text
+dv_has_text_of_dateline: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_dateline|has_dateline]]"

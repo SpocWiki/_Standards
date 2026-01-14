@@ -28,10 +28,9 @@ dv_has_:
   location_:
     geo: GeoCoordinates, GeoShape
   domain: Place
-dv_has_location_geo: GeoCoordinates, GeoShape
-dv_#has_:
   name: has_location_
   range: GeoCoordinates, GeoShape
+dv_has_location_geo: GeoCoordinates, GeoShape
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_location/has_location_geo|has_location_geo]]"

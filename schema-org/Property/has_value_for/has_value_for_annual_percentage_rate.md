@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     annual_percentage_rate: Number, QuantitativeValue
   domain: FinancialProduct
-dv_has_value_for_annual_percentage_rate: Number, QuantitativeValue
-dv_#has_:
   name: has_value_for_annual_percentage_rate
   range: Number, QuantitativeValue
+dv_has_value_for_annual_percentage_rate: Number, QuantitativeValue
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_annual_percentage_rate|has_value_for_annual_percentage_rate]]"

@@ -28,7 +28,6 @@ type: Pred_Bool
 dv_is_public_access: Boolean
 dv_has_:
   domain: Place
-dv_#has_:
   name: is_public_access
   range: Boolean
 dv_is_:

@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   medical_audience: MedicalAudience, MedicalAudienceType
   domain: MedicalWebPage
-dv_has_medical_audience: MedicalAudience, MedicalAudienceType
-dv_#has_:
   name: has_medical_audience
   range: MedicalAudience, MedicalAudienceType
+dv_has_medical_audience: MedicalAudience, MedicalAudienceType
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_medical_audience|has_medical_audience]]"

@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   book_format: BookFormatType
   domain: Book
-dv_has_book_format: BookFormatType
-dv_#has_:
   name: has_book_format
   range: BookFormatType
+dv_has_book_format: BookFormatType
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_book_format|has_book_format]]"

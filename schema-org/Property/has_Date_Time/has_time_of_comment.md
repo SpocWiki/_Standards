@@ -25,12 +25,11 @@ tags:
 title: has_time_of_comment
 type: Predi_Date_Time
 dv_has_time_of_comment: P#Y#M#W#DT#H#M#s.fff
-dv_#has_:
+dv_has_:
+  name: has_time_of_comment
   time_:
     of_comment_time: P#Y#M#W#DT#H#M#s.fff
 dv_domain: UserComments
-dv_has_:
-  name: has_time_of_comment
 dv_range: Date, DateTime
 dv_is_:
   same_as:

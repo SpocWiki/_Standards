@@ -27,10 +27,9 @@ type: Predi_Relation
 dv_has_:
   available_test: MedicalTest
   domain: DiagnosticLab
-dv_has_available_test: MedicalTest
-dv_#has_:
   name: has_available_test
   range: MedicalTest
+dv_has_available_test: MedicalTest
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_available_test|has_available_test]]"

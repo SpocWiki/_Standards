@@ -25,10 +25,9 @@ type: Predi_Relation
 dv_has_:
   drug: Drug
   domain: DrugClass, MedicalCondition, Patient, TherapeuticProcedure
-dv_has_drug: Drug
-dv_#has_:
   name: has_drug
   range: Drug
+dv_has_drug: Drug
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_drug|has_drug]]"

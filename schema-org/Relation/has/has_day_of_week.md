@@ -30,10 +30,9 @@ type: Predi_Relation
 dv_has_:
   day_of_week: DayOfWeek
   domain: EducationalOccupationalProgram, OpeningHoursSpecification
-dv_has_day_of_week: DayOfWeek
-dv_#has_:
   name: has_day_of_week
   range: DayOfWeek
+dv_has_day_of_week: DayOfWeek
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_day_of_week|has_day_of_week]]"

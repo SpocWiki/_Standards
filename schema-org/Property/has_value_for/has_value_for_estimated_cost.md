@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     estimated_cost: MonetaryAmount, Text
   domain: HowTo, HowToSupply
-dv_has_value_for_estimated_cost: MonetaryAmount, Text
-dv_#has_:
   name: has_value_for_estimated_cost
   range: MonetaryAmount, Text
+dv_has_value_for_estimated_cost: MonetaryAmount, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_estimated_cost|has_value_for_estimated_cost]]"

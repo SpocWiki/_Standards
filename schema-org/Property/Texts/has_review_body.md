@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     review_body: Text
   domain: Review
-dv_has_text_of_review_body: Text
-dv_#has_:
   name: has_text_of_review_body
   range: Text
+dv_has_text_of_review_body: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_review_body|has_review_body]]"

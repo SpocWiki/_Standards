@@ -28,10 +28,9 @@ type: Predi_Relation
 dv_has_:
   nationality: Country
   domain: Person
-dv_has_nationality: Country
-dv_#has_:
   name: has_nationality
   range: Country
+dv_has_nationality: Country
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_nationality|has_nationality]]"

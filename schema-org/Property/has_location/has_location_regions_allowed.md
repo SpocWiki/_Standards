@@ -29,10 +29,9 @@ dv_has_:
   location_:
     regions_allowed: Place
   domain: MediaObject
-dv_has_location_regions_allowed: Place
-dv_#has_:
   name: has_location_regions_allowed
   range: Place
+dv_has_location_regions_allowed: Place
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_location/has_location_regions_allowed|has_location_regions_allowed]]"

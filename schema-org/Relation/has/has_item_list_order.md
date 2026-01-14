@@ -30,10 +30,9 @@ type: Predi_Relation
 dv_has_:
   item_list_order: ItemListOrderType, Text
   domain: ItemList
-dv_has_item_list_order: ItemListOrderType, Text
-dv_#has_:
   name: has_item_list_order
   range: ItemListOrderType, Text
+dv_has_item_list_order: ItemListOrderType, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_item_list_order|has_item_list_order]]"

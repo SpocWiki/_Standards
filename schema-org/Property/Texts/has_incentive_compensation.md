@@ -32,10 +32,9 @@ dv_has_:
   text_of_:
     incentive_compensation: Text
   domain: JobPosting
-dv_has_text_of_incentive_compensation: Text
-dv_#has_:
   name: has_text_of_incentive_compensation
   range: Text
+dv_has_text_of_incentive_compensation: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_incentive_compensation|has_incentive_compensation]]"

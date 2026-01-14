@@ -25,12 +25,11 @@ tags:
 title: has_time_of_arrival
 type: Predi_Date_Time
 dv_has_time_of_arrival: P#Y#M#W#DT#H#M#s.fff
-dv_#has_:
+dv_has_:
+  name: has_time_of_arrival
   time_:
     of_arrival: P#Y#M#W#DT#H#M#s.fff
 dv_domain: Trip
-dv_has_:
-  name: has_time_of_arrival
 dv_range: DateTime, Time
 dv_is_:
   same_as:

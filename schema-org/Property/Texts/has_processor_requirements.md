@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     processor_requirements: Text
   domain: SoftwareApplication
-dv_has_text_of_processor_requirements: Text
-dv_#has_:
   name: has_text_of_processor_requirements
   range: Text
+dv_has_text_of_processor_requirements: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_processor_requirements|has_processor_requirements]]"

@@ -27,10 +27,9 @@ type: Predi_Relation
 dv_has_:
   available_channel: ServiceChannel
   domain: Service
-dv_has_available_channel: ServiceChannel
-dv_#has_:
   name: has_available_channel
   range: ServiceChannel
+dv_has_available_channel: ServiceChannel
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_available_channel|has_available_channel]]"

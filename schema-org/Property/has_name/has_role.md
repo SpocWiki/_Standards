@@ -31,10 +31,9 @@ type: Pred_Text
 dv_has_:
   role: Text, URL
   domain: Role
-dv_has_role: Text, URL
-dv_#has_:
   name: has_role
   range: Text, URL
+dv_has_role: Text, URL
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_name/has_role|has_role]]"

@@ -30,10 +30,9 @@ dv_has_:
   text_of_:
     permissions: Text
   domain: SoftwareApplication
-dv_has_text_of_permissions: Text
-dv_#has_:
   name: has_text_of_permissions
   range: Text
+dv_has_text_of_permissions: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_permissions|has_permissions]]"

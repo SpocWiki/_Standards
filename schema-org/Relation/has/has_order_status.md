@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   order_status: OrderStatus
   domain: Order
-dv_has_order_status: OrderStatus
-dv_#has_:
   name: has_order_status
   range: OrderStatus
+dv_has_order_status: OrderStatus
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_order_status|has_order_status]]"

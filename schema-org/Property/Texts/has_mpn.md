@@ -30,10 +30,9 @@ dv_has_:
   text_of_:
     mpn: Text
   domain: Demand, Offer, Product
-dv_has_text_of_mpn: Text
-dv_#has_:
   name: has_text_of_mpn
   range: Text
+dv_has_text_of_mpn: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_mpn|has_mpn]]"

@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     inventory_level: QuantitativeValue
   domain: Demand, Offer, SomeProducts
-dv_has_value_for_inventory_level: QuantitativeValue
-dv_#has_:
   name: has_value_for_inventory_level
   range: QuantitativeValue
+dv_has_value_for_inventory_level: QuantitativeValue
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_inventory_level|has_value_for_inventory_level]]"

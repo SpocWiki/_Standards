@@ -25,10 +25,9 @@ type: Predi_Relation
 dv_has_:
   comment: Comment
   domain: CreativeWork, RsvpAction
-dv_has_comment: Comment
-dv_#has_:
   name: has_comment
   range: Comment
+dv_has_comment: Comment
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_comment|has_comment]]"

@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   item_condition: OfferItemCondition
   domain: Demand, MerchantReturnPolicy, Offer, Product
-dv_has_item_condition: OfferItemCondition
-dv_#has_:
   name: has_item_condition
   range: OfferItemCondition
+dv_has_item_condition: OfferItemCondition
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_item_condition|has_item_condition]]"

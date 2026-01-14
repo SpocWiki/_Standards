@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     departure_platform: Text
   domain: TrainTrip
-dv_has_text_of_departure_platform: Text
-dv_#has_:
   name: has_text_of_departure_platform
   range: Text
+dv_has_text_of_departure_platform: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_departure_platform|has_departure_platform]]"

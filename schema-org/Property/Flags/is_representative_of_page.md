@@ -28,7 +28,6 @@ type: Pred_Bool
 dv_is_representative_of_page: Boolean
 dv_has_:
   domain: ImageObject
-dv_#has_:
   name: is_representative_of_page
   range: Boolean
 dv_is_:

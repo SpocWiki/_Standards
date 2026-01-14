@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   fuel_type: QualitativeValue, Text, URL
   domain: EngineSpecification, Vehicle
-dv_has_fuel_type: QualitativeValue, Text, URL
-dv_#has_:
   name: has_fuel_type
   range: QualitativeValue, Text, URL
+dv_has_fuel_type: QualitativeValue, Text, URL
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_fuel_type|has_fuel_type]]"

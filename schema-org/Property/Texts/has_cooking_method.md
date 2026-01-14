@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     cooking_method: Text
   domain: Recipe
-dv_has_text_of_cooking_method: Text
-dv_#has_:
   name: has_text_of_cooking_method
   range: Text
+dv_has_text_of_cooking_method: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_cooking_method|has_cooking_method]]"

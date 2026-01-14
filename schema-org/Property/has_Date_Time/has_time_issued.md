@@ -25,12 +25,11 @@ tags:
 title: has_time_issued
 type: Predi_Date_Time
 dv_has_time_issued: P#Y#M#W#DT#H#M#s.fff
-dv_#has_:
+dv_has_:
+  name: has_time_issued
   time_:
     issued: P#Y#M#W#DT#H#M#s.fff
 dv_domain: Ticket
-dv_has_:
-  name: has_time_issued
 dv_range: Date, DateTime
 dv_is_:
   same_as:

@@ -29,7 +29,6 @@ type: Pred_Bool
 dv_is_accessible_for_free: Boolean
 dv_has_:
   domain: CreativeWork, Event, Place
-dv_#has_:
   name: is_accessible_for_free
   range: Boolean
 dv_is_:

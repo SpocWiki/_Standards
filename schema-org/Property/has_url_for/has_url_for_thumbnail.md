@@ -33,10 +33,9 @@ dv_has_:
   url_for_:
     thumbnail: URL
   domain: CreativeWork
-dv_has_url_for_thumbnail: URL
-dv_#has_:
   name: has_url_for_thumbnail_url
   range: URL
+dv_has_url_for_thumbnail: URL
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_url_for/has_url_for_thumbnail|has_url_for_thumbnail]]"

@@ -26,10 +26,9 @@ type: Predi_Relation
 dv_has_:
   aircraft: Text, Vehicle
   domain: Flight
-dv_has_aircraft: Text, Vehicle
-dv_#has_:
   name: has_aircraft
   range: Text, Vehicle
+dv_has_aircraft: Text, Vehicle
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_aircraft|has_aircraft]]"

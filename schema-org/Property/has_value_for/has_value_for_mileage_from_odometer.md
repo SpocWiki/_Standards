@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     mileage_from_odometer: QuantitativeValue
   domain: Vehicle
-dv_has_value_for_mileage_from_odometer: QuantitativeValue
-dv_#has_:
   name: has_value_for_mileage_from_odometer
   range: QuantitativeValue
+dv_has_value_for_mileage_from_odometer: QuantitativeValue
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_mileage_from_odometer|has_value_for_mileage_from_odometer]]"

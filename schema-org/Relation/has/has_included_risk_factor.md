@@ -30,10 +30,9 @@ type: Predi_Relation
 dv_has_:
   included_risk_factor: MedicalRiskFactor
   domain: MedicalRiskEstimator
-dv_has_included_risk_factor: MedicalRiskFactor
-dv_#has_:
   name: has_included_risk_factor
   range: MedicalRiskFactor
+dv_has_included_risk_factor: MedicalRiskFactor
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_included_risk_factor|has_included_risk_factor]]"

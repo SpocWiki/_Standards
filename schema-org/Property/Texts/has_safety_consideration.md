@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     safety_consideration: Text
   domain: DietarySupplement
-dv_has_text_of_safety_consideration: Text
-dv_#has_:
   name: has_text_of_safety_consideration
   range: Text
+dv_has_text_of_safety_consideration: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_safety_consideration|has_safety_consideration]]"

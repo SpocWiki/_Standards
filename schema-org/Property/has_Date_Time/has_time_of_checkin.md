@@ -25,12 +25,11 @@ tags:
 title: has_time_of_checkin
 type: Predi_time_Time
 dv_has_time_of_checkin_time: P#Y#M#W#DT#H#M#s.fff
-dv_#has_:
+dv_has_:
+  name: has_time_of_checkin_time
   time_:
     of_checkin_time: P#Y#M#W#DT#H#M#s.fff
 dv_domain: LodgingBusiness, LodgingReservation
-dv_has_:
-  name: has_time_of_checkin_time
 dv_range: DateTime, Time
 dv_is_:
   same_as:

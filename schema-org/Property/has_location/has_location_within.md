@@ -38,10 +38,9 @@ dv_has_:
   location_:
     within: GeospatialGeometry, Place
   domain: GeospatialGeometry, Place
-dv_has_location_within: GeospatialGeometry, Place
-dv_#has_:
   name: "[[has_location_within]]"
   range: GeospatialGeometry, Place
+dv_has_location_within: GeospatialGeometry, Place
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_location/has_location_within|has_location_within]]"

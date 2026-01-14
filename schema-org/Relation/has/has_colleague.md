@@ -26,10 +26,9 @@ type: Predi_Relation
 dv_has_:
   colleague: Person, URL
   domain: Person
-dv_has_colleague: Person, URL
-dv_#has_:
   name: has_colleague
   range: Person, URL
+dv_has_colleague: Person, URL
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_colleague|has_colleague]]"

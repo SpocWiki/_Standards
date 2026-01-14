@@ -27,10 +27,9 @@ type: Predi_Relation
 dv_has_:
   available_strength: DrugStrength
   domain: Drug
-dv_has_available_strength: DrugStrength
-dv_#has_:
   name: has_available_strength
   range: DrugStrength
+dv_has_available_strength: DrugStrength
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_available_strength|has_available_strength]]"

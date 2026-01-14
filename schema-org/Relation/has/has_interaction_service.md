@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   interaction_service: SoftwareApplication, WebSite
   domain: InteractionCounter
-dv_has_interaction_service: SoftwareApplication, WebSite
-dv_#has_:
   name: has_interaction_service
   range: SoftwareApplication, WebSite
+dv_has_interaction_service: SoftwareApplication, WebSite
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_interaction_service|has_interaction_service]]"

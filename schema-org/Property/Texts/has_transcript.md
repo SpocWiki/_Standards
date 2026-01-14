@@ -30,10 +30,9 @@ dv_has_:
   text_of_:
     transcript: Text
   domain: AudioObject, VideoObject
-dv_has_text_of_transcript: Text
-dv_#has_:
   name: has_text_of_transcript
   range: Text
+dv_has_text_of_transcript: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_transcript|has_transcript]]"

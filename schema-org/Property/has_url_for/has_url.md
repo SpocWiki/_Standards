@@ -27,10 +27,9 @@ type: Predi_Url
 dv_has_:
   url: URL
   domain: "[Thing](../../Class/Thing.md)"
-dv_has_url: URL
-dv_#has_:
   name: has_url_for_url
   range: URL
+dv_has_url: URL
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_url_for/has_url|has_url]]"

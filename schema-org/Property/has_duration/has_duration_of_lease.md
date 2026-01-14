@@ -25,13 +25,12 @@ tags:
 title: has_duration_of_lease
 type: Predi_Duration
 dv_has_duration_of_lease: P#Y#M#W#DT#H#M#s.fff
-dv_#has_:
+dv_has_:
+  name: has_duration_of_lease
   duration_:
     of_lease: P#Y#M#W#DT#H#M#s.fff
 dv_is_part_of: "pending:"
 dv_domain: Accommodation, Offer, RealEstateListing
-dv_has_:
-  name: has_duration_of_lease
 dv_range: Duration, QuantitativeValue
 dv_is_:
   same_as:

@@ -25,13 +25,12 @@ tags:
 title: has_duration_of_billing
 type: Predi_Duration
 dv_has_duration_of_billing: P#Y#M#W#DT#H#M#s.fff
-dv_#has_:
+dv_has_:
+  name: has_duration_of_billing
   duration_:
     of_billing: P#Y#M#W#DT#H#M#s.fff
 dv_is_part_of: "pending:"
 dv_domain: UnitPriceSpecification
-dv_has_:
-  name: has_duration_of_billing
 dv_range: Duration, Number, QuantitativeValue
 dv_is_:
   same_as:

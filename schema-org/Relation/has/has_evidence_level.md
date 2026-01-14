@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   evidence_level: MedicalEvidenceLevel
   domain: MedicalGuideline
-dv_has_evidence_level: MedicalEvidenceLevel
-dv_#has_:
   name: has_evidence_level
   range: MedicalEvidenceLevel
+dv_has_evidence_level: MedicalEvidenceLevel
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_evidence_level|has_evidence_level]]"

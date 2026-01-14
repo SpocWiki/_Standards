@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   educational_use: DefinedTerm, Text
   domain: CreativeWork, LearningResource
-dv_has_educational_use: DefinedTerm, Text
-dv_#has_:
   name: has_educational_use
   range: DefinedTerm, Text
+dv_has_educational_use: DefinedTerm, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_educational_use|has_educational_use]]"

@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   cheat_code: CreativeWork
   domain: VideoGame, VideoGameSeries
-dv_has_cheat_code: CreativeWork
-dv_#has_:
   name: has_cheat_code
   range: CreativeWork
+dv_has_cheat_code: CreativeWork
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_cheat_code|has_cheat_code]]"

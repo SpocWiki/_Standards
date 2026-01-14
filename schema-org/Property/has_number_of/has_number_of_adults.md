@@ -29,10 +29,9 @@ dv_has_:
   number_of_:
     adults: Integer, QuantitativeValue
   domain: LodgingReservation
-dv_has_number_of_adults: Integer, QuantitativeValue
-dv_#has_:
   name: has_number_of_adults
   range: Integer, QuantitativeValue
+dv_has_number_of_adults: Integer, QuantitativeValue
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_adults|has_number_of_adults]]"

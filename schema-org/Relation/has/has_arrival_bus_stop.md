@@ -28,10 +28,9 @@ type: Predi_Relation
 dv_has_:
   arrival_bus_stop: BusStation, BusStop
   domain: BusTrip
-dv_has_arrival_bus_stop: BusStation, BusStop
-dv_#has_:
   name: has_arrival_bus_stop
   range: BusStation, BusStop
+dv_has_arrival_bus_stop: BusStation, BusStop
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_arrival_bus_stop|has_arrival_bus_stop]]"

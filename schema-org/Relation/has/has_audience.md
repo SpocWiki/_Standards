@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   audience: Audience
   domain: CreativeWork, Event, LodgingBusiness, PlayAction, Product, Service
-dv_has_audience: Audience
-dv_#has_:
   name: has_audience
   range: Audience
+dv_has_audience: Audience
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_audience|has_audience]]"

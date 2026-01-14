@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   duplicate_therapy: MedicalTherapy
   domain: MedicalTherapy
-dv_has_duplicate_therapy: MedicalTherapy
-dv_#has_:
   name: has_duplicate_therapy
   range: MedicalTherapy
+dv_has_duplicate_therapy: MedicalTherapy
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_duplicate_therapy|has_duplicate_therapy]]"

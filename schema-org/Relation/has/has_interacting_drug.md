@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   interacting_drug: Drug
   domain: Drug
-dv_has_interacting_drug: Drug
-dv_#has_:
   name: has_interacting_drug
   range: Drug
+dv_has_interacting_drug: Drug
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_interacting_drug|has_interacting_drug]]"

@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     years_in_operation: QuantitativeValue
   domain: BusinessAudience
-dv_has_value_for_years_in_operation: QuantitativeValue
-dv_#has_:
   name: has_value_for_years_in_operation
   range: QuantitativeValue
+dv_has_value_for_years_in_operation: QuantitativeValue
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_years_in_operation|has_value_for_years_in_operation]]"

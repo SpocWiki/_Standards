@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     required_max_age: Integer
   domain: PeopleAudience
-dv_has_value_for_required_max_age: Integer
-dv_#has_:
   name: has_value_for_required_max_age
   range: Integer
+dv_has_value_for_required_max_age: Integer
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_required_max_age|has_value_for_required_max_age]]"

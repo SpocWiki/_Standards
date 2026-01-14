@@ -26,13 +26,12 @@ tags:
 title: has_time_of_merchant_return_days
 type: Predi_Date_Time
 dv_has_time_of_merchant_return_days: P#Y#M#W#DT#H#M#s.fff
-dv_#has_:
+dv_has_:
+  name: has_time_of_merchant_return_days
   time_:
     of_merchant_return_days: P#Y#M#W#DT#H#M#s.fff
 dv_is_part_of: "pending:"
 dv_domain: MerchantReturnPolicy, MerchantReturnPolicySeasonalOverride
-dv_has_:
-  name: has_time_of_merchant_return_days
 dv_range: Date, DateTime, Integer
 dv_is_:
   same_as:

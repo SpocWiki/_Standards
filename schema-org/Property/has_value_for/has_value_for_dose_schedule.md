@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     dose_schedule: DoseSchedule
   domain: Drug, TherapeuticProcedure
-dv_has_value_for_dose_schedule: DoseSchedule
-dv_#has_:
   name: has_value_for_dose_schedule
   range: DoseSchedule
+dv_has_value_for_dose_schedule: DoseSchedule
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_dose_schedule|has_value_for_dose_schedule]]"

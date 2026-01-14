@@ -30,10 +30,9 @@ dv_has_:
   value_for_:
     step: Number
   domain: PropertyValueSpecification
-dv_has_value_for_step: Number
-dv_#has_:
   name: has_value_for_step
   range: Number
+dv_has_value_for_step: Number
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_step_value|has_value_for_step_value]]"

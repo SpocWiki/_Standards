@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     percentile25: Number
   domain: QuantitativeValueDistribution
-dv_has_value_for_percentile25: Number
-dv_#has_:
   name: has_value_for_percentile25
   range: Number
+dv_has_value_for_percentile25: Number
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_percentile25|has_value_for_percentile25]]"

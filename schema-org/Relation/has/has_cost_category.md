@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   cost_category: DrugCostCategory
   domain: DrugCost
-dv_has_cost_category: DrugCostCategory
-dv_#has_:
   name: has_cost_category
   range: DrugCostCategory
+dv_has_cost_category: DrugCostCategory
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_cost_category|has_cost_category]]"

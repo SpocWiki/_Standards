@@ -30,10 +30,9 @@ dv_has_:
   name_:
     of_bus: Text
   domain: BusTrip
-dv_has_name_of_bus: Text
-dv_#has_:
   name: has_name_of_bus
   range: Text
+dv_has_name_of_bus: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_name/has_name_of_bus|has_name_of_bus]]"

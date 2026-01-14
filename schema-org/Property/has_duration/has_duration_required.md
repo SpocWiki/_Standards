@@ -25,12 +25,11 @@ tags:
 title: has_duration_required
 type: Predi_Duration
 dv_has_duration_required: P#Y#M#W#DT#H#M#s.fff
-dv_#has_:
+dv_has_:
+  name: has_duration_required
   duration_:
     required: P#Y#M#W#DT#H#M#s.fff
 dv_domain: CreativeWork
-dv_has_:
-  name: has_duration_required
 dv_range: Duration
 dv_is_:
   same_as:

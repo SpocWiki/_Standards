@@ -30,10 +30,9 @@ type: Predi_Relation
 dv_has_:
   contact_point: ContactPoint
   domain: HealthInsurancePlan, Organization, Person
-dv_has_contact_point: ContactPoint
-dv_#has_:
   name: has_contact_point
   range: ContactPoint
+dv_has_contact_point: ContactPoint
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_contact_point|has_contact_point]]"

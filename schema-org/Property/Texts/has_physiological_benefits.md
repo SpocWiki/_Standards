@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     physiological_benefits: Text
   domain: Diet
-dv_has_text_of_physiological_benefits: Text
-dv_#has_:
   name: has_text_of_physiological_benefits
   range: Text
+dv_has_text_of_physiological_benefits: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_physiological_benefits|has_physiological_benefits]]"

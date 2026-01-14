@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     programming_model: Text
   domain: APIReference
-dv_has_text_of_programming_model: Text
-dv_#has_:
   name: has_text_of_programming_model
   range: Text
+dv_has_text_of_programming_model: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_programming_model|has_programming_model]]"

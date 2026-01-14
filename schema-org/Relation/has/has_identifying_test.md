@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   identifying_test: MedicalTest
   domain: MedicalSign
-dv_has_identifying_test: MedicalTest
-dv_#has_:
   name: has_identifying_test
   range: MedicalTest
+dv_has_identifying_test: MedicalTest
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_identifying_test|has_identifying_test]]"

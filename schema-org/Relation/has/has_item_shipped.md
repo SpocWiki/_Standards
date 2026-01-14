@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   item_shipped: Product
   domain: ParcelDelivery
-dv_has_item_shipped: Product
-dv_#has_:
   name: has_item_shipped
   range: Product
+dv_has_item_shipped: Product
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_item_shipped|has_item_shipped]]"

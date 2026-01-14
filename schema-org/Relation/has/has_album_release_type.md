@@ -28,10 +28,9 @@ type: Predi_Relation
 dv_has_:
   album_release_type: MusicAlbumReleaseType
   domain: MusicAlbum
-dv_has_album_release_type: MusicAlbumReleaseType
-dv_#has_:
   name: has_album_release_type
   range: MusicAlbumReleaseType
+dv_has_album_release_type: MusicAlbumReleaseType
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_album_release_type|has_album_release_type]]"

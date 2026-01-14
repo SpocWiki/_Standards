@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     expected_prognosis: Text
   domain: MedicalCondition
-dv_has_text_of_expected_prognosis: Text
-dv_#has_:
   name: has_text_of_expected_prognosis
   range: Text
+dv_has_text_of_expected_prognosis: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_expected_prognosis|has_expected_prognosis]]"

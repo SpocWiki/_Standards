@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     copyright_year: Number
   domain: CreativeWork
-dv_has_value_for_copyright_year: Number
-dv_#has_:
   name: has_value_for_copyright_year
   range: Number
+dv_has_value_for_copyright_year: Number
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_copyright_year|has_value_for_copyright_year]]"

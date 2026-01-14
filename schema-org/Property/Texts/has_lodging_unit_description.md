@@ -32,10 +32,9 @@ dv_has_:
   text_of_:
     lodging_unit_description: Text
   domain: LodgingReservation
-dv_has_text_of_lodging_unit_description: Text
-dv_#has_:
   name: has_text_of_lodging_unit_description
   range: Text
+dv_has_text_of_lodging_unit_description: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_lodging_unit_description|has_lodging_unit_description]]"

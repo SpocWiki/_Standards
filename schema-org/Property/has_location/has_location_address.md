@@ -29,10 +29,9 @@ dv_has_:
   location_:
     address: PostalAddress, Text
   domain: GeoCoordinates, GeoShape, Organization, Person, Place
-dv_has_location_address: PostalAddress, Text
-dv_#has_:
   name: has_location_address
   range: PostalAddress, Text
+dv_has_location_address: PostalAddress, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_location/has_location_address|has_location_address]]"

@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     reference_quantity: QuantitativeValue
   domain: UnitPriceSpecification
-dv_has_value_for_reference_quantity: QuantitativeValue
-dv_#has_:
   name: has_value_for_reference_quantity
   range: QuantitativeValue
+dv_has_value_for_reference_quantity: QuantitativeValue
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_reference_quantity|has_value_for_reference_quantity]]"

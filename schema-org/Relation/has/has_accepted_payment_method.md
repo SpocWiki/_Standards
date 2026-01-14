@@ -31,10 +31,9 @@ type: Predi_Relation
 dv_has_:
   accepted_payment_method: LoanOrCredit, PaymentMethod
   domain: Demand, Offer
-dv_has_accepted_payment_method: LoanOrCredit, PaymentMethod
-dv_#has_:
   name: has_accepted_payment_method
   range: LoanOrCredit, PaymentMethod
+dv_has_accepted_payment_method: LoanOrCredit, PaymentMethod
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_accepted_payment_method|has_accepted_payment_method]]"

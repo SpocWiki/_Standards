@@ -28,7 +28,6 @@ type: Pred_Bool
 dv_is_family_friendly: Boolean
 dv_has_:
   domain: CreativeWork, Offer, Product
-dv_#has_:
   name: is_family_friendly
   range: Boolean
 dv_is_:

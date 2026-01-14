@@ -27,10 +27,9 @@ type: Predi_Relation
 dv_has_:
   add_on: Offer
   domain: Offer
-dv_has_add_on: Offer
-dv_#has_:
   name: has_add_on
   range: Offer
+dv_has_add_on: Offer
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_add_on|has_add_on]]"

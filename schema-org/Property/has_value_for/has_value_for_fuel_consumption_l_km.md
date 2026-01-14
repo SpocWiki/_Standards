@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     fuel_consumption_l_km: QuantitativeValue
   domain: Vehicle
-dv_has_value_for_fuel_consumption_l_km: QuantitativeValue
-dv_#has_:
   name: has_value_for_fuel_consumption_l_km
   range: QuantitativeValue
+dv_has_value_for_fuel_consumption_l_km: QuantitativeValue
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_fuel_consumption_l_km|has_value_for_fuel_consumption_l_km]]"

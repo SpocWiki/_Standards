@@ -33,10 +33,9 @@ dv_has_:
   text_of_:
     email: Text
   domain: ContactPoint, Organization, Person
-dv_has_text_of_email: Text
-dv_#has_:
   name: has_text_of_email
   range: Text
+dv_has_text_of_email: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_email|has_email]]"

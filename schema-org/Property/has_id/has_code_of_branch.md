@@ -30,10 +30,9 @@ dv_has_:
   code_:
     of_branch: Text
   domain: Place
-dv_has_code_of_branch: Text
-dv_#has_:
   name: has_code_of_branch
   range: Text
+dv_has_code_of_branch: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_name/has_code_of_branch|has_code_of_branch]]"

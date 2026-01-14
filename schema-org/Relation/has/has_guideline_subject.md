@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   guideline_subject: MedicalEntity
   domain: MedicalGuideline
-dv_has_guideline_subject: MedicalEntity
-dv_#has_:
   name: has_guideline_subject
   range: MedicalEntity
+dv_has_guideline_subject: MedicalEntity
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_guideline_subject|has_guideline_subject]]"

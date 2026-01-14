@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     yearly_revenue: QuantitativeValue
   domain: BusinessAudience
-dv_has_value_for_yearly_revenue: QuantitativeValue
-dv_#has_:
   name: has_value_for_yearly_revenue
   range: QuantitativeValue
+dv_has_value_for_yearly_revenue: QuantitativeValue
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_yearly_revenue|has_value_for_yearly_revenue]]"

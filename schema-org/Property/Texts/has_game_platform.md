@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     game_platform: Text, Thing, URL
   domain: VideoGame, VideoGameSeries
-dv_has_text_of_game_platform: Text, Thing, URL
-dv_#has_:
   name: has_text_of_game_platform
   range: Text, Thing, URL
+dv_has_text_of_game_platform: Text, Thing, URL
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_game_platform|has_game_platform]]"

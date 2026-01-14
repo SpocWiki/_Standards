@@ -29,10 +29,9 @@ dv_has_:
   location_:
     job: Place
   domain: JobPosting
-dv_has_location_job: Place
-dv_#has_:
   name: has_location_job
   range: Place
+dv_has_location_job: Place
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_location/has_location_job|has_location_job]]"

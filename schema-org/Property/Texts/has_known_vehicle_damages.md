@@ -32,10 +32,9 @@ dv_has_:
   text_of_:
     known_vehicle_damages: Text
   domain: Vehicle
-dv_has_text_of_known_vehicle_damages: Text
-dv_#has_:
   name: has_text_of_known_vehicle_damages
   range: Text
+dv_has_text_of_known_vehicle_damages: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_known_vehicle_damages|has_known_vehicle_damages]]"

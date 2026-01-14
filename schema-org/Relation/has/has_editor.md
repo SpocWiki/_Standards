@@ -28,10 +28,9 @@ type: Predi_Relation
 dv_has_:
   editor: Person
   domain: CreativeWork
-dv_has_editor: Person
-dv_#has_:
   name: has_editor
   range: Person
+dv_has_editor: Person
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_editor|has_editor]]"

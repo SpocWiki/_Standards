@@ -33,10 +33,9 @@ dv_has_:
     - "[[../../../Society/Agent/Community/Organization|Organization]]"
     - "[[../../../Earth/Geography/Place|Place]]"
     - "[[../../Class/is_a_/Action/Play_Action|PlayAction]]"
-dv_has_event: Event
-dv_#has_:
   name: has_event
   range: "[[../../Class/is_a_/Event|Event]]"
+dv_has_event: Event
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_event|has_event]]"

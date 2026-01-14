@@ -25,13 +25,12 @@ tags:
 title: has_time_of_legislation_version
 type: Predi_Date_Time
 dv_has_time_of_legislation_version: P#Y#M#W#DT#H#M#s.fff
-dv_#has_:
+dv_has_:
+  name: has_time_of_legislation_version
   time_:
     of_legislation_version: P#Y#M#W#DT#H#M#s.fff
 dv_is_part_of: "pending:"
 dv_domain: Legislation
-dv_has_:
-  name: has_time_of_legislation_version
 dv_range: Date
 dv_is_:
   same_as:

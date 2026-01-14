@@ -25,10 +25,9 @@ type: Predi_Relation
 dv_has_:
   agent: Organization, Person
   domain: "[Action](../../Class/is_a_/action.md)"
-dv_has_agent: Organization, Person
-dv_#has_:
   name: has_agent
   range: "[Organization](../../../Society/Agent/Community/Organization.md), [Person](../../../Society/Agent/Person.md)"
+dv_has_agent: Organization, Person
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_agent|has_agent]]"

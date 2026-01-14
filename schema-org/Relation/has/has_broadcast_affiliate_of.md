@@ -30,10 +30,9 @@ type: Predi_Relation
 dv_has_:
   broadcast_affiliate_of: Organization
   domain: BroadcastService
-dv_has_broadcast_affiliate_of: Organization
-dv_#has_:
   name: has_broadcast_affiliate_of
   range: Organization
+dv_has_broadcast_affiliate_of: Organization
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_broadcast_affiliate_of|has_broadcast_affiliate_of]]"

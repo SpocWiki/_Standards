@@ -25,12 +25,11 @@ tags:
 title: has_time_owned_from
 type: Predi_Date_Time
 dv_has_time_owned_from: P#Y#M#W#DT#H#M#s.fff
-dv_#has_:
+dv_has_:
+  name: has_time_owned_from
   time_:
     owned_from: P#Y#M#W#DT#H#M#s.fff
 dv_domain: OwnershipInfo
-dv_has_:
-  name: has_time_owned_from
 dv_range: DateTime
 dv_is_:
   same_as:

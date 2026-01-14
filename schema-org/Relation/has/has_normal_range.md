@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   normal_range: MedicalEnumeration, Text
   domain: MedicalTest
-dv_has_normal_range: MedicalEnumeration, Text
-dv_#has_:
   name: has_normal_range
   range: MedicalEnumeration, Text
+dv_has_normal_range: MedicalEnumeration, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_normal_range|has_normal_range]]"

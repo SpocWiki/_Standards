@@ -33,12 +33,11 @@ dv_has_:
       - Text
       - URL
   domain: SoftwareApplication
+  name: has_text_of_feature_list
+  range: Text, URL
 dv_has_text_of_feature_list:
   - Text
   - URL
-dv_#has_:
-  name: has_text_of_feature_list
-  range: Text, URL
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_feature_list|has_feature_list]]"

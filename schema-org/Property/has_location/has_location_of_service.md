@@ -29,10 +29,9 @@ dv_has_:
   location_:
     of_service: Place
   domain: ServiceChannel
-dv_has_location_of_service: Place
-dv_#has_:
   name: has_location_of_service
   range: Place
+dv_has_location_of_service: Place
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_location/has_location_of_service|has_location_of_service]]"

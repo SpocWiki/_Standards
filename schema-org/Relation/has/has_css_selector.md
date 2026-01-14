@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   css_selector: CssSelectorType
   domain: SpeakableSpecification, WebPageElement
-dv_has_css_selector: CssSelectorType
-dv_#has_:
   name: has_css_selector
   range: CssSelectorType
+dv_has_css_selector: CssSelectorType
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_css_selector|has_css_selector]]"

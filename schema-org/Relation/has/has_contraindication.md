@@ -25,10 +25,9 @@ type: Predi_Relation
 dv_has_:
   contraindication: MedicalContraindication, Text
   domain: MedicalDevice, MedicalTherapy
-dv_has_contraindication: MedicalContraindication, Text
-dv_#has_:
   name: has_contraindication
   range: MedicalContraindication, Text
+dv_has_contraindication: MedicalContraindication, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_contraindication|has_contraindication]]"

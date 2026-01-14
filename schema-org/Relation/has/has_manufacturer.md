@@ -28,10 +28,9 @@ type: Predi_Relation
 dv_has_:
   manufacturer: Organization
   domain: Product
-dv_has_manufacturer: Organization
-dv_#has_:
   name: has_manufacturer
   range: Organization
+dv_has_manufacturer: Organization
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_manufacturer|has_manufacturer]]"

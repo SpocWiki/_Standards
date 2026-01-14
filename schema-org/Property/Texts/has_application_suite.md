@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     application_suite: Text
   domain: SoftwareApplication
-dv_has_text_of_application_suite: Text
-dv_#has_:
   name: has_text_of_application_suite
   range: Text
+dv_has_text_of_application_suite: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_application_suite|has_application_suite]]"

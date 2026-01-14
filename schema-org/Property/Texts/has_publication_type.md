@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     publication_type: Text
   domain: MedicalScholarlyArticle
-dv_has_text_of_publication_type: Text
-dv_#has_:
   name: has_text_of_publication_type
   range: Text
+dv_has_text_of_publication_type: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_publication_type|has_publication_type]]"

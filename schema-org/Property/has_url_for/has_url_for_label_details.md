@@ -29,10 +29,9 @@ dv_has_:
   url_for_:
     label_details: URL
   domain: Drug
-dv_has_url_for_label_details: URL
-dv_#has_:
   name: has_url_for_label_details
   range: URL
+dv_has_url_for_label_details: URL
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_url_for/has_url_for_label_details|has_url_for_label_details]]"

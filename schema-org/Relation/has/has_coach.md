@@ -25,10 +25,9 @@ type: Predi_Relation
 dv_has_:
   coach: Person
   domain: SportsTeam
-dv_has_coach: Person
-dv_#has_:
   name: has_coach
   range: Person
+dv_has_coach: Person
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_coach|has_coach]]"

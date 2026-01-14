@@ -38,7 +38,6 @@ dv_is_:
 dv_is_drive_through_service: Boolean
 dv_has_:
   domain: "[[../../../Earth/Geography/Place]]"
-dv_#has_:
   name: is_drive_through_service
   range: Boolean
 dv_is_part_of: "pending:"

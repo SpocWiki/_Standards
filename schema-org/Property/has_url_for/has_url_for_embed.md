@@ -30,10 +30,9 @@ dv_has_:
   url_for_:
     embed: URL
   domain: MediaObject
-dv_has_url_for_embed: URL
-dv_#has_:
   name: has_url_for_embed_url
   range: URL
+dv_has_url_for_embed: URL
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_url_for/has_url_for_embed|has_url_for_embed]]"

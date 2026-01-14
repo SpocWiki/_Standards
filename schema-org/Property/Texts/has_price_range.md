@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     price_range: Text
   domain: LocalBusiness
-dv_has_text_of_price_range: Text
-dv_#has_:
   name: has_text_of_price_range
   range: Text
+dv_has_text_of_price_range: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_price_range|has_price_range]]"

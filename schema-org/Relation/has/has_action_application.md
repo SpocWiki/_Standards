@@ -28,10 +28,9 @@ type: Predi_Relation
 dv_has_:
   action_application: "[[../../../Society/Communication/Media/Creative_Work/Software_Application]]"
   domain: "[[../../../Class/is_a_thing/intangible/entry_point]]"
-dv_has_action_application: "[[../../../Society/Communication/Media/Creative_Work/Software_Application]]"
-dv_#has_:
   name: has_action_application
   range: "[[../../../Society/Communication/Media/Creative_Work/Software_Application]]"
+dv_has_action_application: "[[../../../Society/Communication/Media/Creative_Work/Software_Application]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_action_application|has_action_application]]"

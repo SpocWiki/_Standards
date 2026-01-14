@@ -29,10 +29,9 @@ dv_has_:
   location_:
     midpoint: GeoCoordinates
   domain: GeoCircle
-dv_has_location_midpoint: GeoCoordinates
-dv_#has_:
   name: has_location_midpoint
   range: GeoCoordinates
+dv_has_location_midpoint: GeoCoordinates
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_location/has_location_midpoint|has_location_midpoint]]"

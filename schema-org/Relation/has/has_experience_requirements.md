@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   experience_requirements: OccupationalExperienceRequirements, Text
   domain: JobPosting, Occupation
-dv_has_experience_requirements: OccupationalExperienceRequirements, Text
-dv_#has_:
   name: has_experience_requirements
   range: OccupationalExperienceRequirements, Text
+dv_has_experience_requirements: OccupationalExperienceRequirements, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_experience_requirements|has_experience_requirements]]"

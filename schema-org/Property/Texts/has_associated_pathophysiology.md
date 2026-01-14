@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     associated_pathophysiology: Text
   domain: AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy
-dv_has_text_of_associated_pathophysiology: Text
-dv_#has_:
   name: has_text_of_associated_pathophysiology
   range: Text
+dv_has_text_of_associated_pathophysiology: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_associated_pathophysiology|has_associated_pathophysiology]]"

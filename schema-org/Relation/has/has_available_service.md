@@ -27,10 +27,9 @@ type: Predi_Relation
 dv_has_:
   available_service: MedicalProcedure, MedicalTest, MedicalTherapy
   domain: Hospital, MedicalClinic, Physician
-dv_has_available_service: MedicalProcedure, MedicalTest, MedicalTherapy
-dv_#has_:
   name: has_available_service
   range: MedicalProcedure, MedicalTest, MedicalTherapy
+dv_has_available_service: MedicalProcedure, MedicalTest, MedicalTherapy
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_available_service|has_available_service]]"

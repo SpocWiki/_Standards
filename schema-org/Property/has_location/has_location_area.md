@@ -30,10 +30,9 @@ dv_has_:
   location_:
     area: Place
   domain: BroadcastService
-dv_has_location_area: Place
-dv_#has_:
   name: has_location_area
   range: Place
+dv_has_location_area: Place
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_location/has_location_area|has_location_area]]"

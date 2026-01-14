@@ -28,10 +28,9 @@ type: Predi_Relation
 dv_has_:
   brand: Brand, Organization
   domain: Organization, Person, Product, Service
-dv_has_brand: Brand, Organization
-dv_#has_:
   name: has_brand
   range: Brand, Organization
+dv_has_brand: Brand, Organization
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_brand|has_brand]]"

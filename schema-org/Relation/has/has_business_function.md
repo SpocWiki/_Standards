@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   business_function: BusinessFunction
   domain: Demand, Offer, TypeAndQuantityNode
-dv_has_business_function: BusinessFunction
-dv_#has_:
   name: has_business_function
   range: BusinessFunction
+dv_has_business_function: BusinessFunction
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_business_function|has_business_function]]"

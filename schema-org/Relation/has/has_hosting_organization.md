@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   hosting_organization: Organization
   domain: ProgramMembership
-dv_has_hosting_organization: Organization
-dv_#has_:
   name: has_hosting_organization
   range: Organization
+dv_has_hosting_organization: Organization
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_hosting_organization|has_hosting_organization]]"

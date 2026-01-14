@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     game_edition: Text
   domain: VideoGame
-dv_has_text_of_game_edition: Text
-dv_#has_:
   name: has_text_of_game_edition
   range: Text
+dv_has_text_of_game_edition: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_game_edition|has_game_edition]]"

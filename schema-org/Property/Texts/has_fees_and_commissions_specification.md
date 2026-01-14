@@ -33,10 +33,9 @@ dv_has_:
   text_of_:
     fees_and_commissions_specification: Text, URL
   domain: FinancialProduct, FinancialService
-dv_has_text_of_fees_and_commissions_specification: Text, URL
-dv_#has_:
   name: has_text_of_fees_and_commissions_specification
   range: Text, URL
+dv_has_text_of_fees_and_commissions_specification: Text, URL
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_fees_and_commissions_specification|has_fees_and_commissions_specification]]"

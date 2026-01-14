@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     content_rating_stars: Rating, Text
   domain: CreativeWork
-dv_has_value_for_content_rating_stars: Rating, Text
-dv_#has_:
   name: has_value_for_content_rating_stars
   range: Rating, Text
+dv_has_value_for_content_rating_stars: Rating, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_content_rating_stars|has_value_for_content_rating_stars]]"

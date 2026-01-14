@@ -30,10 +30,9 @@ dv_has_:
   value_for_:
     strength: Number
   domain: DrugStrength
-dv_has_value_for_strength: Number
-dv_#has_:
   name: has_value_for_strength
   range: Number
+dv_has_value_for_strength: Number
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_strength_value|has_value_for_strength_value]]"

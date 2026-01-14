@@ -26,12 +26,11 @@ tags:
 title: has_time_of_payment_due
 type: Predi_Date_Time
 dv_has_time_of_payment_due: P#Y#M#W#DT#H#M#s.fff
-dv_#has_:
+dv_has_:
+  name: has_time_of_payment_due
   time_:
     of_payment_due: P#Y#M#W#DT#H#M#s.fff
 dv_domain: Invoice, Order
-dv_has_:
-  name: has_time_of_payment_due
 dv_range: Date, DateTime
 dv_is_:
   same_as:

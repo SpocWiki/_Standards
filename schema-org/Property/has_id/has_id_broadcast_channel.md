@@ -31,10 +31,9 @@ dv_has_:
   id_:
     broadcast_channel: Text
   domain: BroadcastChannel
-dv_has_id_broadcast_channel: Text
-dv_#has_:
   name: has_id_broadcast_channel
   range: Text
+dv_has_id_broadcast_channel: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_name/has_id_broadcast_channel|has_id_broadcast_channel]]"

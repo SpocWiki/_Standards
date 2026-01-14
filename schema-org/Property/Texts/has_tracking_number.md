@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     tracking_number: Text
   domain: ParcelDelivery
-dv_has_text_of_tracking_number: Text
-dv_#has_:
   name: has_text_of_tracking_number
   range: Text
+dv_has_text_of_tracking_number: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_tracking_number|has_tracking_number]]"

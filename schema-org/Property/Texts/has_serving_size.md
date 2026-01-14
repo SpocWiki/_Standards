@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     serving_size: Text
   domain: NutritionInformation
-dv_has_text_of_serving_size: Text
-dv_#has_:
   name: has_text_of_serving_size
   range: Text
+dv_has_text_of_serving_size: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_serving_size|has_serving_size]]"

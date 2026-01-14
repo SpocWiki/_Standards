@@ -27,10 +27,9 @@ type: Predi_Relation
 dv_has_:
   action_accessibility_requirement: ActionAccessSpecification
   domain: ConsumeAction
-dv_has_action_accessibility_requirement: ActionAccessSpecification
-dv_#has_:
   name: has_action_accessibility_requirement
   range: ActionAccessSpecification
+dv_has_action_accessibility_requirement: ActionAccessSpecification
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_action_accessibility_requirement|has_action_accessibility_requirement]]"

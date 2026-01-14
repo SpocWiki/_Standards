@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     estimated_salary: MonetaryAmount, MonetaryAmountDistribution, Number
   domain: JobPosting, Occupation
-dv_has_value_for_estimated_salary: MonetaryAmount, MonetaryAmountDistribution, Number
-dv_#has_:
   name: has_value_for_estimated_salary
   range: MonetaryAmount, MonetaryAmountDistribution, Number
+dv_has_value_for_estimated_salary: MonetaryAmount, MonetaryAmountDistribution, Number
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_estimated_salary|has_value_for_estimated_salary]]"

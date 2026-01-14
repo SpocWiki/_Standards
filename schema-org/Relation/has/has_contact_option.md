@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   contact_option: ContactPointOption
   domain: ContactPoint
-dv_has_contact_option: ContactPointOption
-dv_#has_:
   name: has_contact_option
   range: ContactPointOption
+dv_has_contact_option: ContactPointOption
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_contact_option|has_contact_option]]"

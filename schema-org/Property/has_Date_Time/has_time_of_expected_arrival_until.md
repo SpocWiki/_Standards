@@ -25,12 +25,11 @@ tags:
 title: has_time_of_expected_arrival_until
 type: Predi_Date_Time
 dv_has_time_of_expected_arrival_until: P#Y#M#W#DT#H#M#s.fff
-dv_#has_:
+dv_has_:
+  name: has_time_of_expected_arrival_until
   time_:
     of_expected_arrival_until: P#Y#M#W#DT#H#M#s.fff
 dv_domain: ParcelDelivery
-dv_has_:
-  name: has_time_of_expected_arrival_until
 dv_range: Date, DateTime
 dv_is_:
   same_as:

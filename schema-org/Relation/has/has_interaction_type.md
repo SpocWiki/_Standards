@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   interaction_type: Action
   domain: InteractionCounter
-dv_has_interaction_type: Action
-dv_#has_:
   name: has_interaction_type
   range: Action
+dv_has_interaction_type: Action
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_interaction_type|has_interaction_type]]"

@@ -28,10 +28,9 @@ type: Predi_Relation
 dv_has_:
   keywords: DefinedTerm, Text, URL
   domain: CreativeWork, Event, Organization, Place, Product
-dv_has_keywords: DefinedTerm, Text, URL
-dv_#has_:
   name: has_keywords
   range: DefinedTerm, Text, URL
+dv_has_keywords: DefinedTerm, Text, URL
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_keywords|has_keywords]]"

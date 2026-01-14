@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   music_arrangement: MusicComposition
   domain: MusicComposition
-dv_has_music_arrangement: MusicComposition
-dv_#has_:
   name: has_music_arrangement
   range: MusicComposition
+dv_has_music_arrangement: MusicComposition
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_music_arrangement|has_music_arrangement]]"

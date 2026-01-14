@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   copyright_holder: Organization, Person
   domain: CreativeWork
-dv_has_copyright_holder: Organization, Person
-dv_#has_:
   name: has_copyright_holder
   range: Organization, Person
+dv_has_copyright_holder: Organization, Person
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_copyright_holder|has_copyright_holder]]"

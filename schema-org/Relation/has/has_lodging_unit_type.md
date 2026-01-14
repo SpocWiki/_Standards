@@ -30,10 +30,9 @@ type: Predi_Relation
 dv_has_:
   lodging_unit_type: QualitativeValue, Text
   domain: LodgingReservation
-dv_has_lodging_unit_type: QualitativeValue, Text
-dv_#has_:
   name: has_lodging_unit_type
   range: QualitativeValue, Text
+dv_has_lodging_unit_type: QualitativeValue, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_lodging_unit_type|has_lodging_unit_type]]"

@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     article_body: Text
   domain: Article
-dv_has_text_of_article_body: Text
-dv_#has_:
   name: has_text_of_article_body
   range: Text
+dv_has_text_of_article_body: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_article_body|has_article_body]]"

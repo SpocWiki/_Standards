@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     net_worth: MonetaryAmount, PriceSpecification
   domain: Person
-dv_has_value_for_net_worth: MonetaryAmount, PriceSpecification
-dv_#has_:
   name: has_value_for_net_worth
   range: MonetaryAmount, PriceSpecification
+dv_has_value_for_net_worth: MonetaryAmount, PriceSpecification
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_net_worth|has_value_for_net_worth]]"

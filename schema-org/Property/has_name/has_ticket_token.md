@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     ticket_token: Text, URL
   domain: Ticket
-dv_has_text_of_ticket_token: Text, URL
-dv_#has_:
   name: has_text_of_ticket_token
   range: Text, URL
+dv_has_text_of_ticket_token: Text, URL
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_name/has_ticket_token|has_ticket_token]]"

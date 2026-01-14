@@ -30,10 +30,9 @@ type: Predi_Relation
 dv_has_:
   employees: "[[../../../Society/Agent/Person]]"
   domain: "[[../../../Society/Agent/Community/Organization]]"
-dv_has_employees: "[[../../../Society/Agent/Person]]"
-dv_#has_:
   name: has_employees
   range: "[[../../../Society/Agent/Person]]"
+dv_has_employees: "[[../../../Society/Agent/Person]]"
 dv_is_:
   inverse_of: "[[has_employer]]"
   same_as:

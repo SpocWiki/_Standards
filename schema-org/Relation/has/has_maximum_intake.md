@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   maximum_intake: MaximumDoseSchedule
   domain: DietarySupplement, Drug, DrugStrength, Substance
-dv_has_maximum_intake: MaximumDoseSchedule
-dv_#has_:
   name: has_maximum_intake
   range: MaximumDoseSchedule
+dv_has_maximum_intake: MaximumDoseSchedule
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_maximum_intake|has_maximum_intake]]"

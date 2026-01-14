@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     operating_system: Text
   domain: SoftwareApplication
-dv_has_text_of_operating_system: Text
-dv_#has_:
   name: has_text_of_operating_system
   range: Text
+dv_has_text_of_operating_system: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_operating_system|has_operating_system]]"

@@ -29,10 +29,9 @@ dv_has_:
   number_of_:
     players: QuantitativeValue
   domain: Game, VideoGameSeries
-dv_has_number_of_players: QuantitativeValue
-dv_#has_:
   name: has_number_of_players
   range: QuantitativeValue
+dv_has_number_of_players: QuantitativeValue
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_players|has_number_of_players]]"

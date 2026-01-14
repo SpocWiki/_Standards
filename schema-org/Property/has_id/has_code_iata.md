@@ -30,10 +30,9 @@ dv_has_:
   code_:
     iata: Text
   domain: Airline, Airport
-dv_has_code_iata: Text
-dv_#has_:
   name: has_code_iata
   range: Text
+dv_has_code_iata: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_name/has_code_iata|has_code_iata]]"

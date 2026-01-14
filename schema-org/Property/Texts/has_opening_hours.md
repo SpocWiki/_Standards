@@ -34,10 +34,9 @@ dv_has_:
   text_of_:
     opening_hours: Text
   domain: CivicStructure, LocalBusiness
-dv_has_text_of_opening_hours: Text
-dv_#has_:
   name: has_text_of_opening_hours
   range: Text
+dv_has_text_of_opening_hours: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_opening_hours|has_opening_hours]]"

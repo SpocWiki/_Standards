@@ -28,10 +28,9 @@ type: Predi_Relation
 dv_has_:
   license_: CreativeWork, URL
   domain: CreativeWork
-dv_has_license_: CreativeWork, URL
-dv_#has_:
   name: has_license
   range: CreativeWork, URL
+dv_has_license_: CreativeWork, URL
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_license|has_license]]"

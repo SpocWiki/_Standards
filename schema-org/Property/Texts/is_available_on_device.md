@@ -33,10 +33,9 @@ dv_has_:
   text_of_:
     available_on_device: Text
   domain: SoftwareApplication
-dv_has_text_of_available_on_device: Text
-dv_#has_:
   name: "[[is_available_on_device]]"
   range: Text
+dv_has_text_of_available_on_device: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/is_available_on_device|is_available_on_device]]"

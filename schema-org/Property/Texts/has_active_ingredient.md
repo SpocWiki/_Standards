@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     active_ingredient: Text
   domain: DietarySupplement, Drug, DrugStrength, Substance
-dv_has_text_of_active_ingredient: Text
-dv_#has_:
   name: has_text_of_active_ingredient
   range: Text
+dv_has_text_of_active_ingredient: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_active_ingredient|has_active_ingredient]]"

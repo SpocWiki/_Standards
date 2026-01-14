@@ -28,7 +28,6 @@ type: Pred_Bool
 dv_is_subscription_required: Boolean, MediaSubscription
 dv_has_:
   domain: ActionAccessSpecification, MediaObject
-dv_#has_:
   name: is_subscription_required
   range: Boolean, MediaSubscription
 dv_is_:

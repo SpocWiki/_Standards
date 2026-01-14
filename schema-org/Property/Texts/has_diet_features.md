@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     diet_features: Text
   domain: Diet
-dv_has_text_of_diet_features: Text
-dv_#has_:
   name: has_text_of_diet_features
   range: Text
+dv_has_text_of_diet_features: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_diet_features|has_diet_features]]"

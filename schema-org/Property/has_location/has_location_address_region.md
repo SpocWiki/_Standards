@@ -30,10 +30,9 @@ dv_has_:
   location_:
     address_region: Text
   domain: DefinedRegion, PostalAddress
-dv_has_location_address_region: Text
-dv_#has_:
   name: has_location_address_region
   range: Text
+dv_has_location_address_region: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_location/has_location_address_region|has_location_address_region]]"

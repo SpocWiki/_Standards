@@ -27,10 +27,9 @@ type: Predi_Relation
 dv_has_:
   action_platform: DigitalPlatformEnumeration, Text, URL
   domain: EntryPoint
-dv_has_action_platform: DigitalPlatformEnumeration, Text, URL
-dv_#has_:
   name: has_action_platform
   range: DigitalPlatformEnumeration, Text, URL
+dv_has_action_platform: DigitalPlatformEnumeration, Text, URL
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_action_platform|has_action_platform]]"

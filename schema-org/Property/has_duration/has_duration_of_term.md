@@ -25,13 +25,12 @@ tags:
 title: has_duration_of_term
 type: Predi_Duration
 dv_has_duration_of_term: P#Y#M#W#DT#H#M#s.fff
-dv_#has_:
+dv_has_:
+  name: has_duration_of_term
   duration_:
     of_term: P#Y#M#W#DT#H#M#s.fff
 dv_is_part_of: "pending:"
 dv_domain: EducationalOccupationalProgram
-dv_has_:
-  name: has_duration_of_term
 dv_range: Duration
 dv_is_:
   same_as:

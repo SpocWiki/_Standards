@@ -30,10 +30,9 @@ dv_has_:
   id_:
     property: Text, URL
   domain: PropertyValue
-dv_has_id_property: Text, URL
-dv_#has_:
   name: has_id_property
   range: Text, URL
+dv_has_id_property: Text, URL
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_name/has_id_property|has_id_property]]"

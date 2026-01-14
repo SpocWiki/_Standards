@@ -25,12 +25,11 @@ tags:
 title: has_time_of_scheduled_payment
 type: Predi_Date_Time
 dv_has_time_of_scheduled_payment: P#Y#M#W#DT#H#M#s.fff
-dv_#has_:
+dv_has_:
+  name: has_time_of_scheduled_payment
   time_:
     of_scheduled_payment: P#Y#M#W#DT#H#M#s.fff
 dv_domain: Invoice
-dv_has_:
-  name: has_time_of_scheduled_payment
 dv_range: Date
 dv_is_:
   same_as:

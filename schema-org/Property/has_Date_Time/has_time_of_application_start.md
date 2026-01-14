@@ -25,13 +25,12 @@ tags:
 title: has_time_of_application_start
 type: Predi_Date_Time
 dv_has_time_of_application_start: P#Y#M#W#DT#H#M#s.fff
-dv_#has_:
+dv_has_:
+  name: has_time_of_application_start
   time_:
     of_application_start: P#Y#M#W#DT#H#M#s.fff
 dv_is_part_of: "pending:"
 dv_domain: EducationalOccupationalProgram
-dv_has_:
-  name: has_time_of_application_start
 dv_range: Date
 dv_is_:
   same_as:

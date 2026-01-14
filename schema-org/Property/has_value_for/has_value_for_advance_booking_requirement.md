@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     advance_booking_requirement: QuantitativeValue
   domain: Demand, Offer
-dv_has_value_for_advance_booking_requirement: QuantitativeValue
-dv_#has_:
   name: has_value_for_advance_booking_requirement
   range: QuantitativeValue
+dv_has_value_for_advance_booking_requirement: QuantitativeValue
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_advance_booking_requirement|has_value_for_advance_booking_requirement]]"

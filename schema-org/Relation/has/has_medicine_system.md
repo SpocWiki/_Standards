@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   medicine_system: MedicineSystem
   domain: MedicalEntity
-dv_has_medicine_system: MedicineSystem
-dv_#has_:
   name: has_medicine_system
   range: MedicineSystem
+dv_has_medicine_system: MedicineSystem
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_medicine_system|has_medicine_system]]"

@@ -29,10 +29,9 @@ dv_has_:
   number_of_:
     axles: Number, QuantitativeValue
   domain: Vehicle
-dv_has_number_of_axles: Number, QuantitativeValue
-dv_#has_:
   name: has_number_of_axles
   range: Number, QuantitativeValue
+dv_has_number_of_axles: Number, QuantitativeValue
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_axles|has_number_of_axles]]"

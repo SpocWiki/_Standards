@@ -28,10 +28,9 @@ type: Predi_Relation
 dv_has_:
   composer: Organization, Person
   domain: Event, MusicComposition
-dv_has_composer: Organization, Person
-dv_#has_:
   name: has_composer
   range: Organization, Person
+dv_has_composer: Organization, Person
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_composer|has_composer]]"

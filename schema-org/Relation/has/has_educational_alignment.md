@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   educational_alignment: AlignmentObject
   domain: CreativeWork, LearningResource
-dv_has_educational_alignment: AlignmentObject
-dv_#has_:
   name: has_educational_alignment
   range: AlignmentObject
+dv_has_educational_alignment: AlignmentObject
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_educational_alignment|has_educational_alignment]]"

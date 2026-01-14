@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   medical_specialty: MedicalSpecialty
   domain: Hospital, MedicalClinic, MedicalOrganization, Physician
-dv_has_medical_specialty: MedicalSpecialty
-dv_#has_:
   name: has_medical_specialty
   range: MedicalSpecialty
+dv_has_medical_specialty: MedicalSpecialty
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_medical_specialty|has_medical_specialty]]"

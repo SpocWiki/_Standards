@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   hours_available: OpeningHoursSpecification
   domain: ContactPoint, LocationFeatureSpecification, Service
-dv_has_hours_available: OpeningHoursSpecification
-dv_#has_:
   name: has_hours_available
   range: OpeningHoursSpecification
+dv_has_hours_available: OpeningHoursSpecification
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_hours_available|has_hours_available]]"

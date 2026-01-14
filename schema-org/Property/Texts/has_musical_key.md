@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     musical_key: Text
   domain: MusicComposition
-dv_has_text_of_musical_key: Text
-dv_#has_:
   name: has_text_of_musical_key
   range: Text
+dv_has_text_of_musical_key: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_musical_key|has_musical_key]]"

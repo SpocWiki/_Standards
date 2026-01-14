@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     depth: QuantitativeValue
   domain: OfferShippingDetails, Product, VisualArtwork
-dv_has_value_for_depth: QuantitativeValue
-dv_#has_:
   name: has_value_for_depth
   range: QuantitativeValue
+dv_has_value_for_depth: QuantitativeValue
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_depth|has_value_for_depth]]"

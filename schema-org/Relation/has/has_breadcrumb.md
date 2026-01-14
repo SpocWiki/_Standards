@@ -25,10 +25,9 @@ type: Predi_Relation
 dv_has_:
   breadcrumb: BreadcrumbList, Text
   domain: WebPage
-dv_has_breadcrumb: BreadcrumbList, Text
-dv_#has_:
   name: has_breadcrumb
   range: BreadcrumbList, Text
+dv_has_breadcrumb: BreadcrumbList, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_breadcrumb|has_breadcrumb]]"

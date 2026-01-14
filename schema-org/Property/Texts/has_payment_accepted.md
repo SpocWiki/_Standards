@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     payment_accepted: Text
   domain: LocalBusiness
-dv_has_text_of_payment_accepted: Text
-dv_#has_:
   name: has_text_of_payment_accepted
   range: Text
+dv_has_text_of_payment_accepted: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_payment_accepted|has_payment_accepted]]"

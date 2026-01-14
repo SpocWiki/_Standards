@@ -25,12 +25,11 @@ tags:
 title: has_duration_to_prepare
 type: Predi_Duration
 dv_has_duration_to_prepare: P#Y#M#W#DT#H#M#s.fff
-dv_#has_:
+dv_has_:
+  name: has_duration_to_prepare
   duration_:
     to_prepare: P#Y#M#W#DT#H#M#s.fff
 dv_domain: HowTo, HowToDirection
-dv_has_:
-  name: has_duration_to_prepare
 dv_range: Duration
 dv_is_:
   same_as:

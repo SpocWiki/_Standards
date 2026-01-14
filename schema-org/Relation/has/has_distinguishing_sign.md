@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   distinguishing_sign: MedicalSignOrSymptom
   domain: DDxElement
-dv_has_distinguishing_sign: MedicalSignOrSymptom
-dv_#has_:
   name: has_distinguishing_sign
   range: MedicalSignOrSymptom
+dv_has_distinguishing_sign: MedicalSignOrSymptom
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_distinguishing_sign|has_distinguishing_sign]]"

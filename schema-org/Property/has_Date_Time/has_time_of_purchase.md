@@ -25,12 +25,11 @@ tags:
 title: has_time_of_purchase
 type: Predi_Date_Time
 dv_has_time_of_purchase: P#Y#M#W#DT#H#M#s.fff
-dv_#has_:
+dv_has_:
+  name: has_time_of_purchase
   time_:
     of_purchase: P#Y#M#W#DT#H#M#s.fff
 dv_domain: Product, Vehicle
-dv_has_:
-  name: has_time_of_purchase
 dv_range: Date
 dv_is_:
   same_as:

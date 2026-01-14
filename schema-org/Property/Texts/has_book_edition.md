@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     book_edition: Text
   domain: Book
-dv_has_text_of_book_edition: Text
-dv_#has_:
   name: has_text_of_book_edition
   range: Text
+dv_has_text_of_book_edition: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_book_edition|has_book_edition]]"

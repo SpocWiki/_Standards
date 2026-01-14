@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     total_price: Number, PriceSpecification, Text
   domain: Reservation, Ticket
-dv_has_value_for_total_price: Number, PriceSpecification, Text
-dv_#has_:
   name: has_value_for_total_price
   range: Number, PriceSpecification, Text
+dv_has_value_for_total_price: Number, PriceSpecification, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_total_price|has_value_for_total_price]]"

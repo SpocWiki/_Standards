@@ -28,7 +28,6 @@ type: Pred_Bool
 dv_is_pet_allowed: Boolean, Text
 dv_has_:
   domain: Accommodation, ApartmentComplex, FloorPlan, LodgingBusiness
-dv_#has_:
   name: is_pet_allowed
   range: Boolean, Text
 dv_is_:

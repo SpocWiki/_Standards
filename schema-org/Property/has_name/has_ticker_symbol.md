@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     ticker_symbol: Text
   domain: Corporation
-dv_has_text_of_ticker_symbol: Text
-dv_#has_:
   name: has_text_of_ticker_symbol
   range: Text
+dv_has_text_of_ticker_symbol: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_name/has_ticker_symbol|has_ticker_symbol]]"

@@ -27,10 +27,9 @@ type: Predi_Relation
 dv_has_:
   associated_anatomy: AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy
   domain: MedicalCondition, PhysicalActivity
-dv_has_associated_anatomy: AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy
-dv_#has_:
   name: has_associated_anatomy
   range: AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy
+dv_has_associated_anatomy: AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_associated_anatomy|has_associated_anatomy]]"

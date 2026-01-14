@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     possible_complication: Text
   domain: MedicalCondition
-dv_has_text_of_possible_complication: Text
-dv_#has_:
   name: has_text_of_possible_complication
   range: Text
+dv_has_text_of_possible_complication: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_possible_complication|has_possible_complication]]"

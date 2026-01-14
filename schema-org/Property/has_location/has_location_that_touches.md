@@ -30,10 +30,9 @@ dv_has_:
   location_:
     that_touches: GeospatialGeometry, Place
   domain: GeospatialGeometry, Place
-dv_has_location_that_touches: GeospatialGeometry, Place
-dv_#has_:
   name: has_location_touches
   range: GeospatialGeometry, Place
+dv_has_location_that_touches: GeospatialGeometry, Place
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_location/has_location_that_touches|has_location_that_touches]]"

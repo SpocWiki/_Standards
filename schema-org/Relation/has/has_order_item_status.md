@@ -30,10 +30,9 @@ type: Predi_Relation
 dv_has_:
   order_item_status: "[[../../Enumeration/Status_Enumeration/Order_Status|Order_Status]]"
   domain: "[[../../Class/is_a_/Intangible/Order_Item|Order_Item]]"
-dv_has_order_item_status: "[[../../Enumeration/Status_Enumeration/Order_Status|Order_Status]]"
-dv_#has_:
   name: has_order_item_status
   range: "[[../../Enumeration/Status_Enumeration/Order_Status|Order_Status]]"
+dv_has_order_item_status: "[[../../Enumeration/Status_Enumeration/Order_Status|Order_Status]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_order_item_status|has_order_item_status]]"

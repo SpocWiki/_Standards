@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     cost_currency: Text
   domain: DrugCost
-dv_has_text_of_cost_currency: Text
-dv_#has_:
   name: has_text_of_cost_currency
   range: Text
+dv_has_text_of_cost_currency: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_cost_currency|has_cost_currency]]"

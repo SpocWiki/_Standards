@@ -30,10 +30,9 @@ dv_has_:
   location_:
     contained_in: Place
   domain: Place
-dv_has_location_contained_in: Place
-dv_#has_:
   name: has_location_contained_in
   range: Place
+dv_has_location_contained_in: Place
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_location/has_location_contained_in|has_location_contained_in]]"

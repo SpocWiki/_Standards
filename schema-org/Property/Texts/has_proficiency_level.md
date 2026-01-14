@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     proficiency_level: Text
   domain: TechArticle
-dv_has_text_of_proficiency_level: Text
-dv_#has_:
   name: has_text_of_proficiency_level
   range: Text
+dv_has_text_of_proficiency_level: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_proficiency_level|has_proficiency_level]]"

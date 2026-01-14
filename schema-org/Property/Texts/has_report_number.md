@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     report_number: Text
   domain: Report
-dv_has_text_of_report_number: Text
-dv_#has_:
   name: has_text_of_report_number
   range: Text
+dv_has_text_of_report_number: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_report_number|has_report_number]]"

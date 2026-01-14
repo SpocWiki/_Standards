@@ -30,10 +30,9 @@ dv_has_:
   value_for_:
     min: Number
   domain: MonetaryAmount, PropertyValue, PropertyValueSpecification, QuantitativeValue
-dv_has_value_for_min: Number
-dv_#has_:
   name: has_value_for_min
   range: Number
+dv_has_value_for_min: Number
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_min_value|has_value_for_min_value]]"

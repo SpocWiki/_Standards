@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   exif_data: PropertyValue, Text
   domain: ImageObject
-dv_has_exif_data: PropertyValue, Text
-dv_#has_:
   name: has_exif_data
   range: PropertyValue, Text
+dv_has_exif_data: PropertyValue, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_exif_data|has_exif_data]]"

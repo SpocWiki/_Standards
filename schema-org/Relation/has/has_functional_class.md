@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   functional_class: MedicalEntity, Text
   domain: Joint
-dv_has_functional_class: MedicalEntity, Text
-dv_#has_:
   name: has_functional_class
   range: MedicalEntity, Text
+dv_has_functional_class: MedicalEntity, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_functional_class|has_functional_class]]"

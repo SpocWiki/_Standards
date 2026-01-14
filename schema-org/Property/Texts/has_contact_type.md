@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     contact_type: Text
   domain: ContactPoint
-dv_has_text_of_contact_type: Text
-dv_#has_:
   name: has_text_of_contact_type
   range: Text
+dv_has_text_of_contact_type: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_contact_type|has_contact_type]]"

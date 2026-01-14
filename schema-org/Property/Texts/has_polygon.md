@@ -30,10 +30,9 @@ dv_has_:
   text_of_:
     polygon: Text
   domain: GeoShape
-dv_has_text_of_polygon: Text
-dv_#has_:
   name: has_text_of_polygon
   range: Text
+dv_has_text_of_polygon: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_polygon|has_polygon]]"

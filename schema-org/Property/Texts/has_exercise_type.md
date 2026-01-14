@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     exercise_type: Text
   domain: ExerciseAction, ExercisePlan
-dv_has_text_of_exercise_type: Text
-dv_#has_:
   name: has_text_of_exercise_type
   range: Text
+dv_has_text_of_exercise_type: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_exercise_type|has_exercise_type]]"

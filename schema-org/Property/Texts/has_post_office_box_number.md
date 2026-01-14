@@ -33,10 +33,9 @@ dv_has_:
   text_of_:
     post_office_box_number: Text
   domain: PostalAddress
-dv_has_text_of_post_office_box_number: Text
-dv_#has_:
   name: has_text_of_post_office_box_number
   range: Text
+dv_has_text_of_post_office_box_number: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_post_office_box_number|has_post_office_box_number]]"

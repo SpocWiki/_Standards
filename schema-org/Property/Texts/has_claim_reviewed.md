@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     claim_reviewed: Text
   domain: ClaimReview
-dv_has_text_of_claim_reviewed: Text
-dv_#has_:
   name: has_text_of_claim_reviewed
   range: Text
+dv_has_text_of_claim_reviewed: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_claim_reviewed|has_claim_reviewed]]"

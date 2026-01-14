@@ -26,10 +26,9 @@ type: Predi_Relation
 dv_has_:
   carrier: Organization
   domain: Flight, ParcelDelivery
-dv_has_carrier: Organization
-dv_#has_:
   name: has_carrier
   range: Organization
+dv_has_carrier: Organization
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_carrier|has_carrier]]"

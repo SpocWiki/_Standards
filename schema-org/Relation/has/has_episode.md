@@ -26,10 +26,9 @@ type: Predi_Relation
 dv_has_:
   episode: "[[../../../Society/Communication/Media/Creative_Work/Episode|Episode]]"
   domain: "[ [[../../../Society/Communication/Media/Creative_Work/Creative_Work_Season|CreativeWorkSeason]], [[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Radio_Series|RadioSeries]], [[../../../Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series|TVSeries]], [[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Video_Game_Series|VideoGameSeries]] ]"
-dv_has_episode: "[[../../Class/is_a_/creative_work/episode|Episode]]"
-dv_#has_:
   name: has_episode
   range: "[[../../../Society/Communication/Media/Creative_Work/Episode|Episode]]"
+dv_has_episode: "[[../../Class/is_a_/creative_work/episode|Episode]]"
 dv_is_:
   sub_property_of: "[[../../Composite/has_parts]]"
   same_as:

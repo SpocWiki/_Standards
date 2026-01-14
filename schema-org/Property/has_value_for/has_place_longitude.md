@@ -31,10 +31,9 @@ dv_has_:
   place_:
     longitude: Number, Text
   domain: GeoCoordinates, Place
-dv_has_place_longitude: Number, Text
-dv_#has_:
   name: has_place_longitude
   range: Number, Text
+dv_has_place_longitude: Number, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_place_longitude|has_place_longitude]]"

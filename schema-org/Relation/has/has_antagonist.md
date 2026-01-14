@@ -25,10 +25,9 @@ type: Predi_Relation
 dv_has_:
   antagonist: Muscle
   domain: Muscle
-dv_has_antagonist: Muscle
-dv_#has_:
   name: has_antagonist
   range: Muscle
+dv_has_antagonist: Muscle
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_antagonist|has_antagonist]]"

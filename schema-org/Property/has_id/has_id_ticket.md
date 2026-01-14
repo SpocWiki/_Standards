@@ -30,10 +30,9 @@ dv_has_:
   id_:
     ticket: Text
   domain: Ticket
-dv_has_id_ticket: Text
-dv_#has_:
   name: has_id_ticket
   range: Text
+dv_has_id_ticket: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_name/has_id_ticket|has_id_ticket]]"

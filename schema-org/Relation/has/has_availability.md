@@ -25,10 +25,9 @@ type: Predi_Relation
 dv_has_:
   availability: ItemAvailability
   domain: Demand, Offer
-dv_has_availability: ItemAvailability
-dv_#has_:
   name: has_availability
   range: ItemAvailability
+dv_has_availability: ItemAvailability
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_availability|has_availability]]"

@@ -25,12 +25,11 @@ tags:
 title: has_time_of_door
 type: Predi_Date_Time
 dv_has_time_of_door: P#Y#M#W#DT#H#M#s.fff
-dv_#has_:
+dv_has_:
+  name: has_time_of_door
   time_:
     of_door: P#Y#M#W#DT#H#M#s.fff
 dv_domain: Event
-dv_has_:
-  name: has_time_of_door
 dv_range: DateTime, Time
 dv_is_:
   same_as:

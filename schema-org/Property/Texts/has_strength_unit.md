@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     strength_unit: Text
   domain: DrugStrength
-dv_has_text_of_strength_unit: Text
-dv_#has_:
   name: has_text_of_strength_unit
   range: Text
+dv_has_text_of_strength_unit: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_strength_unit|has_strength_unit]]"

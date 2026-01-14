@@ -27,10 +27,9 @@ type: Predi_Relation
 dv_has_:
   arrival_airport: Airport
   domain: Flight
-dv_has_arrival_airport: Airport
-dv_#has_:
   name: has_arrival_airport
   range: Airport
+dv_has_arrival_airport: Airport
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_arrival_airport|has_arrival_airport]]"

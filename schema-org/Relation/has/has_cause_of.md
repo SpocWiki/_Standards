@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   cause_of: MedicalEntity
   domain: MedicalCause
-dv_has_cause_of: MedicalEntity
-dv_#has_:
   name: has_cause_of
   range: MedicalEntity
+dv_has_cause_of: MedicalEntity
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_cause_of|has_cause_of]]"

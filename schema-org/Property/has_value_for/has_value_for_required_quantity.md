@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     required_quantity: Number, QuantitativeValue, Text
   domain: HowToItem
-dv_has_value_for_required_quantity: Number, QuantitativeValue, Text
-dv_#has_:
   name: has_value_for_required_quantity
   range: Number, QuantitativeValue, Text
+dv_has_value_for_required_quantity: Number, QuantitativeValue, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_required_quantity|has_value_for_required_quantity]]"

@@ -30,10 +30,9 @@ type: Predi_Relation
 dv_has_:
   learning_resource_type: DefinedTerm, Text
   domain: CreativeWork, LearningResource
-dv_has_learning_resource_type: DefinedTerm, Text
-dv_#has_:
   name: has_learning_resource_type
   range: DefinedTerm, Text
+dv_has_learning_resource_type: DefinedTerm, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_learning_resource_type|has_learning_resource_type]]"

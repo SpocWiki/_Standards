@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   course_prerequisites: AlignmentObject, Course, Text
   domain: Course
-dv_has_course_prerequisites: AlignmentObject, Course, Text
-dv_#has_:
   name: has_course_prerequisites
   range: AlignmentObject, Course, Text
+dv_has_course_prerequisites: AlignmentObject, Course, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_course_prerequisites|has_course_prerequisites]]"

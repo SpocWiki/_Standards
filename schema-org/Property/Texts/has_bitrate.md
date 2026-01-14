@@ -30,10 +30,9 @@ dv_has_:
   text_of_:
     bitrate: Text
   domain: MediaObject
-dv_has_text_of_bitrate: Text
-dv_#has_:
   name: has_text_of_bitrate
   range: Text
+dv_has_text_of_bitrate: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_bitrate|has_bitrate]]"

@@ -30,10 +30,9 @@ type: Predi_Relation
 dv_has_:
   eligible_customer_type: BusinessEntityType
   domain: Demand, Offer
-dv_has_eligible_customer_type: BusinessEntityType
-dv_#has_:
   name: has_eligible_customer_type
   range: BusinessEntityType
+dv_has_eligible_customer_type: BusinessEntityType
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_eligible_customer_type|has_eligible_customer_type]]"

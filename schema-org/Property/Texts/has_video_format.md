@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     video_format: Text
   domain: BroadcastEvent, BroadcastService, ScreeningEvent
-dv_has_text_of_video_format: Text
-dv_#has_:
   name: has_text_of_video_format
   range: Text
+dv_has_text_of_video_format: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_video_format|has_video_format]]"

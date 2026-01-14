@@ -25,10 +25,9 @@ type: Predi_Relation
 dv_has_:
   broadcaster: Organization
   domain: BroadcastService
-dv_has_broadcaster: Organization
-dv_#has_:
   name: has_broadcaster
   range: Organization
+dv_has_broadcaster: Organization
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_broadcaster|has_broadcaster]]"

@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     tissue_sample: Text
   domain: PathologyTest
-dv_has_text_of_tissue_sample: Text
-dv_#has_:
   name: has_text_of_tissue_sample
   range: Text
+dv_has_text_of_tissue_sample: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_tissue_sample|has_tissue_sample]]"

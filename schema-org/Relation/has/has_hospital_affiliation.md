@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   hospital_affiliation: Hospital
   domain: Physician
-dv_has_hospital_affiliation: Hospital
-dv_#has_:
   name: has_hospital_affiliation
   range: Hospital
+dv_has_hospital_affiliation: Hospital
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_hospital_affiliation|has_hospital_affiliation]]"

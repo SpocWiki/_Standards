@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   broadcast_frequency: BroadcastFrequencySpecification, Text
   domain: BroadcastChannel, BroadcastService
-dv_has_broadcast_frequency: BroadcastFrequencySpecification, Text
-dv_#has_:
   name: has_broadcast_frequency
   range: BroadcastFrequencySpecification, Text
+dv_has_broadcast_frequency: BroadcastFrequencySpecification, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_broadcast_frequency|has_broadcast_frequency]]"

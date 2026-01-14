@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     recipe_category: Text
   domain: Recipe
-dv_has_text_of_recipe_category: Text
-dv_#has_:
   name: has_text_of_recipe_category
   range: Text
+dv_has_text_of_recipe_category: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_recipe_category|has_recipe_category]]"

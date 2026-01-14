@@ -31,10 +31,9 @@ type: Pred_Text
 dv_has_:
   telephone: Text
   domain: ContactPoint, Organization, Person, Place
-dv_has_telephone: Text
-dv_#has_:
   name: has_telephone
   range: Text
+dv_has_telephone: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_telephone|has_telephone]]"

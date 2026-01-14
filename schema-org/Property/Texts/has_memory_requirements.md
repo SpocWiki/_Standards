@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     memory_requirements: Text, URL
   domain: SoftwareApplication
-dv_has_text_of_memory_requirements: Text, URL
-dv_#has_:
   name: has_text_of_memory_requirements
   range: Text, URL
+dv_has_text_of_memory_requirements: Text, URL
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_memory_requirements|has_memory_requirements]]"

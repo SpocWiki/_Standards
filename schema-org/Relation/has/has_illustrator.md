@@ -28,10 +28,9 @@ type: Predi_Relation
 dv_has_:
   illustrator: Person
   domain: Book
-dv_has_illustrator: Person
-dv_#has_:
   name: has_illustrator
   range: Person
+dv_has_illustrator: Person
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_illustrator|has_illustrator]]"

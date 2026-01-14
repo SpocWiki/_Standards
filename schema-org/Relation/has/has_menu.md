@@ -25,10 +25,9 @@ type: Predi_Relation
 dv_has_:
   menu: Menu, Text, URL
   domain: FoodEstablishment
-dv_has_menu: Menu, Text, URL
-dv_#has_:
   name: has_menu
   range: Menu, Text, URL
+dv_has_menu: Menu, Text, URL
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_menu|has_menu]]"

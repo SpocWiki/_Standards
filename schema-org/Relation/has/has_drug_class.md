@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   drug_class: DrugClass
   domain: Drug
-dv_has_drug_class: DrugClass
-dv_#has_:
   name: has_drug_class
   range: DrugClass
+dv_has_drug_class: DrugClass
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_drug_class|has_drug_class]]"

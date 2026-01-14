@@ -25,6 +25,8 @@ type: Predi_Relation
 dv_has_:
   artist: "[[../../../Society/Agent/Person]]"
   domain: ComicIssue, ComicStory, VisualArtwork
+  name: has_artist
+  range: "[[../../../Society/Agent/Person]]"
 dv_has_artist: "[[../../../Society/Agent/Person]]"
 dv_is_:
   part_of: https://bib.schema.org
@@ -36,9 +38,6 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_artist.private|has_artist.private]]"
     - "[[/_personal/schema-org/Relation/has/has_artist.personal|has_artist.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_artist.secret|has_artist.secret]]"
-dv_#has_:
-  name: has_artist
-  range: "[[../../../Society/Agent/Person]]"
 dv_is_part_of: https://bib.schema.org
 dv_has_domain: ComicIssue, ComicStory, VisualArtwork
 dv_has_name: has_artist

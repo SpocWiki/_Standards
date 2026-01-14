@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     pre_op: Text
   domain: MedicalDevice
-dv_has_text_of_pre_op: Text
-dv_#has_:
   name: has_text_of_pre_op
   range: Text
+dv_has_text_of_pre_op: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_pre_op|has_pre_op]]"

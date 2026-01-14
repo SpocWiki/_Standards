@@ -33,10 +33,9 @@ type: Predi_Relation
 dv_has_:
   country_of_origin: Country
   domain: CreativeWork, Movie, Product, TVEpisode, TVSeason, TVSeries
-dv_has_country_of_origin: Country
-dv_#has_:
   name: has_country_of_origin
   range: Country
+dv_has_country_of_origin: Country
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_country_of_origin|has_country_of_origin]]"

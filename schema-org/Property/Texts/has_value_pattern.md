@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     value_pattern: Text
   domain: PropertyValueSpecification
-dv_has_text_of_value_pattern: Text
-dv_#has_:
   name: has_text_of_value_pattern
   range: Text
+dv_has_text_of_value_pattern: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_value_pattern|has_value_pattern]]"

@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   order_delivery: ParcelDelivery
   domain: Order, OrderItem
-dv_has_order_delivery: ParcelDelivery
-dv_#has_:
   name: has_order_delivery
   range: ParcelDelivery
+dv_has_order_delivery: ParcelDelivery
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_order_delivery|has_order_delivery]]"

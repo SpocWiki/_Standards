@@ -30,10 +30,9 @@ dv_has_:
   location_:
     equal_to: GeospatialGeometry, Place
   domain: GeospatialGeometry, Place
-dv_has_location_equal_to: GeospatialGeometry, Place
-dv_#has_:
   name: has_location_equals
   range: GeospatialGeometry, Place
+dv_has_location_equal_to: GeospatialGeometry, Place
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_location/has_location_equal_to|has_location_equal_to]]"

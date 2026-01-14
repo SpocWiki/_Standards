@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     arrival_terminal: Text
   domain: Flight
-dv_has_text_of_arrival_terminal: Text
-dv_#has_:
   name: has_text_of_arrival_terminal
   range: Text
+dv_has_text_of_arrival_terminal: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_arrival_terminal|has_arrival_terminal]]"

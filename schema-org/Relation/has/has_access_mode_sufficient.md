@@ -31,10 +31,9 @@ type: Predi_Relation
 dv_has_:
   access_mode_sufficient: ItemList
   domain: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
-dv_has_access_mode_sufficient: ItemList
-dv_#has_:
   name: has_access_mode_sufficient
   range: "[[../../Collection/item_list|Item_List]]"
+dv_has_access_mode_sufficient: ItemList
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_access_mode_sufficient|has_access_mode_sufficient]]"

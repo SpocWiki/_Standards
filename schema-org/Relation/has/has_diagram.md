@@ -25,10 +25,9 @@ type: Predi_Relation
 dv_has_:
   diagram: ImageObject
   domain: AnatomicalStructure
-dv_has_diagram: ImageObject
-dv_#has_:
   name: has_diagram
   range: ImageObject
+dv_has_diagram: ImageObject
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_diagram|has_diagram]]"

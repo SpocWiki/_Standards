@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     version: Number, Text
   domain: CreativeWork
-dv_has_value_for_version: Number, Text
-dv_#has_:
   name: has_value_for_version
   range: Number, Text
+dv_has_value_for_version: Number, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_version|has_value_for_version]]"

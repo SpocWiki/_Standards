@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   blood_supply: Vessel
   domain: Muscle
-dv_has_blood_supply: Vessel
-dv_#has_:
   name: has_blood_supply
   range: Vessel
+dv_has_blood_supply: Vessel
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_blood_supply|has_blood_supply]]"

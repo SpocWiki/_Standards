@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     browser_requirements: Text
   domain: WebApplication
-dv_has_text_of_browser_requirements: Text
-dv_#has_:
   name: has_text_of_browser_requirements
   range: Text
+dv_has_text_of_browser_requirements: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_browser_requirements|has_browser_requirements]]"

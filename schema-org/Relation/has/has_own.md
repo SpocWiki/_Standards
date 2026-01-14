@@ -26,10 +26,9 @@ type: Predi_Relation
 dv_has_:
   own: OwnershipInfo, Product
   domain: Organization, Person
-dv_has_own: OwnershipInfo, Product
-dv_#has_:
   name: "[[has_own]]"
   range: OwnershipInfo, Product
+dv_has_own: OwnershipInfo, Product
 dv_is_:
   inverse_of: "[[has_Owner]]"
   same_as:

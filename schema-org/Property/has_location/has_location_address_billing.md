@@ -29,10 +29,9 @@ dv_has_:
   location_:
     address_billing: PostalAddress
   domain: Order
-dv_has_location_address_billing: PostalAddress
-dv_#has_:
   name: has_location_address_billing
   range: PostalAddress
+dv_has_location_address_billing: PostalAddress
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_location/has_location_address_billing|has_location_address_billing]]"

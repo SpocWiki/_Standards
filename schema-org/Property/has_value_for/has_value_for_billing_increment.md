@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     billing_increment: Number
   domain: UnitPriceSpecification
-dv_has_value_for_billing_increment: Number
-dv_#has_:
   name: has_value_for_billing_increment
   range: Number
+dv_has_value_for_billing_increment: Number
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_billing_increment|has_value_for_billing_increment]]"

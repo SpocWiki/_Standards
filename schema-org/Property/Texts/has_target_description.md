@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     target_description: Text
   domain: AlignmentObject
-dv_has_text_of_target_description: Text
-dv_#has_:
   name: has_text_of_target_description
   range: Text
+dv_has_text_of_target_description: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_target_description|has_target_description]]"

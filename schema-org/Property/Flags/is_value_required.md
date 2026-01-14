@@ -28,7 +28,6 @@ type: Pred_Bool
 dv_is_value_required: Boolean
 dv_has_:
   domain: PropertyValueSpecification
-dv_#has_:
   name: is_value_required
   range: Boolean
 dv_is_:

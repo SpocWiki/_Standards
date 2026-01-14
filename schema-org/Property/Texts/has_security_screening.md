@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     security_screening: Text
   domain: FlightReservation
-dv_has_text_of_security_screening: Text
-dv_#has_:
   name: has_text_of_security_screening
   range: Text
+dv_has_text_of_security_screening: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_security_screening|has_security_screening]]"

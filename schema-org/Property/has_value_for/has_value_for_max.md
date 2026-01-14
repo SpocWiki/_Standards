@@ -30,10 +30,9 @@ dv_has_:
   value_for_:
     max: Number
   domain: MonetaryAmount, PropertyValue, PropertyValueSpecification, QuantitativeValue
-dv_has_value_for_max: Number
-dv_#has_:
   name: has_value_for_max
   range: Number
+dv_has_value_for_max: Number
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_max_value|has_value_for_max_value]]"

@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     occupancy: QuantitativeValue
   domain: Apartment, HotelRoom, SingleFamilyResidence, Suite
-dv_has_value_for_occupancy: QuantitativeValue
-dv_#has_:
   name: has_value_for_occupancy
   range: QuantitativeValue
+dv_has_value_for_occupancy: QuantitativeValue
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_occupancy|has_value_for_occupancy]]"

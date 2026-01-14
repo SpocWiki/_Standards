@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     rating: "[ [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]] ]"
   domain: "[[../../Class/is_a_/Intangible/Rating|Rating]]"
-dv_has_value_for_rating: "[ [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]] ]"
-dv_#has_:
   name: has_value_for_rating
   range: "[ [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]]  ]"
+dv_has_value_for_rating: "[ [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]] ]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_rating|has_value_for_rating]]"

@@ -29,10 +29,9 @@ dv_has_:
   location_:
     spatial: Place
   domain: CreativeWork
-dv_has_location_spatial: Place
-dv_#has_:
   name: has_location_spatial
   range: Place
+dv_has_location_spatial: Place
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_location/has_location_spatial|has_location_spatial]]"

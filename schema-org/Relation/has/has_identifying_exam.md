@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   identifying_exam: PhysicalExam
   domain: MedicalSign
-dv_has_identifying_exam: PhysicalExam
-dv_#has_:
   name: has_identifying_exam
   range: PhysicalExam
+dv_has_identifying_exam: PhysicalExam
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_identifying_exam|has_identifying_exam]]"

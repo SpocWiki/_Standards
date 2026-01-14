@@ -2,10 +2,9 @@
 dv_has_:
   employer: "[[../../../Society/Agent/Community/Organization]]"
   domain: "[[../../../Society/Agent/Person]]"
-dv_has_employer: "[[../../Class/is_a_/Organization]]"
-dv_#has_:
   name: has_employer
   range: "[[../../../Society/Agent/Community/Organization]]"
+dv_has_employer: "[[../../Class/is_a_/Organization]]"
 dv_is_:
   inverse_of: "[[has_employees]]"
   same_as:

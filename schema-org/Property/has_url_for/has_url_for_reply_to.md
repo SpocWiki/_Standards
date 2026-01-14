@@ -30,10 +30,9 @@ dv_has_:
   url_for_:
     reply_to: URL
   domain: UserComments
-dv_has_url_for_reply_to: URL
-dv_#has_:
   name: has_url_for_reply_to_url
   range: URL
+dv_has_url_for_reply_to: URL
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_url_for/has_url_for_reply_to|has_url_for_reply_to]]"

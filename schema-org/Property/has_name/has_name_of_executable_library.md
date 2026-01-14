@@ -32,10 +32,9 @@ type: Pred_Text
 dv_has_:
   name_executable_library: Text
   domain: APIReference
-dv_has_name_executable_library: Text
-dv_#has_:
   name: has_name_executable_library
   range: Text
+dv_has_name_executable_library: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_name/has_name_of_executable_library|has_name_of_executable_library]]"

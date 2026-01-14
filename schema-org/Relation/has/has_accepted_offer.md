@@ -30,10 +30,9 @@ type: Predi_Relation
 dv_has_:
   accepted_offer: "[[../../../Society/Agent/Community/Organization/Business/Offer]]"
   domain: "[[../../Class/is_a_/Intangible/Order]]"
-dv_has_accepted_offer: "[[../../../Society/Agent/Community/Organization/Business/Offer]]"
-dv_#has_:
   name: has_accepted_offer
   range: "[[../../../Society/Agent/Community/Organization/Business/Offer]]"
+dv_has_accepted_offer: "[[../../../Society/Agent/Community/Organization/Business/Offer]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_accepted_offer|has_accepted_offer]]"

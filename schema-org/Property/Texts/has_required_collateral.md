@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     required_collateral: Text, Thing
   domain: LoanOrCredit
-dv_has_text_of_required_collateral: Text, Thing
-dv_#has_:
   name: has_text_of_required_collateral
   range: Text, Thing
+dv_has_text_of_required_collateral: Text, Thing
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_required_collateral|has_required_collateral]]"

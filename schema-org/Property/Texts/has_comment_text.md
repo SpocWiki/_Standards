@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     comment_text: Text
   domain: UserComments
-dv_has_text_of_comment_text: Text
-dv_#has_:
   name: has_text_of_comment_text
   range: Text
+dv_has_text_of_comment_text: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_comment_text|has_comment_text]]"

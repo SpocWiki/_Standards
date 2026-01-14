@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     cargo_volume: QuantitativeValue
   domain: Vehicle
-dv_has_value_for_cargo_volume: QuantitativeValue
-dv_#has_:
   name: has_value_for_cargo_volume
   range: QuantitativeValue
+dv_has_value_for_cargo_volume: QuantitativeValue
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_cargo_volume|has_value_for_cargo_volume]]"

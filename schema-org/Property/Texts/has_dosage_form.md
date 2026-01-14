@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     dosage_form: Text
   domain: Drug
-dv_has_text_of_dosage_form: Text
-dv_#has_:
   name: has_text_of_dosage_form
   range: Text
+dv_has_text_of_dosage_form: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_dosage_form|has_dosage_form]]"

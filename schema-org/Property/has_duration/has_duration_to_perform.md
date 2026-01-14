@@ -25,12 +25,11 @@ tags:
 title: has_duration_to_perform
 type: Predi_Duration
 dv_has_duration_to_perform: P#Y#M#W#DT#H#M#s.fff
-dv_#has_:
+dv_has_:
+  name: has_duration_to_perform
   duration_:
     to_perform: P#Y#M#W#DT#H#M#s.fff
 dv_domain: HowTo, HowToDirection
-dv_has_:
-  name: has_duration_to_perform
 dv_range: Duration
 dv_sub_properties: cookTime
 dv_is_:

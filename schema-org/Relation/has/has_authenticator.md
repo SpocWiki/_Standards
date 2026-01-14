@@ -25,10 +25,9 @@ type: Predi_Relation
 dv_has_:
   authenticator: Organization
   domain: MediaSubscription
-dv_has_authenticator: Organization
-dv_#has_:
   name: has_authenticator
   range: Organization
+dv_has_authenticator: Organization
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_authenticator|has_authenticator]]"

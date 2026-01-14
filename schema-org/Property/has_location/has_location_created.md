@@ -32,10 +32,9 @@ dv_has_:
   location_:
     created: Place
   domain: CreativeWork
-dv_has_location_created: Place
-dv_#has_:
   name: has_location_created
   range: Place
+dv_has_location_created: Place
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_location/has_location_created|has_location_created]]"

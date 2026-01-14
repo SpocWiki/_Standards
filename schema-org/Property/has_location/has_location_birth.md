@@ -32,10 +32,9 @@ dv_has_:
   location_:
     birth: Place
   domain: Person
-dv_has_location_birth: Place
-dv_#has_:
   name: has_location_birth
   range: Place
+dv_has_location_birth: Place
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_location/has_location_birth|has_location_birth]]"

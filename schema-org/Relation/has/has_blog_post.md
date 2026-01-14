@@ -30,10 +30,9 @@ type: Predi_Relation
 dv_has_:
   blog_post: BlogPosting
   domain: Blog
-dv_has_blog_post: BlogPosting
-dv_#has_:
   name: has_blog_post
   range: BlogPosting
+dv_has_blog_post: BlogPosting
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_blog_post|has_blog_post]]"

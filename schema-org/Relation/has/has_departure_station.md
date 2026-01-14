@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   departure_station: TrainStation
   domain: TrainTrip
-dv_has_departure_station: TrainStation
-dv_#has_:
   name: has_departure_station
   range: TrainStation
+dv_has_departure_station: TrainStation
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_departure_station|has_departure_station]]"

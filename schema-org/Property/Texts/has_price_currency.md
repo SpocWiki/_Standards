@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     price_currency: Text
   domain: Offer, PriceSpecification, Reservation, Ticket, TradeAction
-dv_has_text_of_price_currency: Text
-dv_#has_:
   name: has_text_of_price_currency
   range: Text
+dv_has_text_of_price_currency: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_price_currency|has_price_currency]]"

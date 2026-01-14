@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     eligible_quantity: QuantitativeValue
   domain: Demand, Offer, PriceSpecification
-dv_has_value_for_eligible_quantity: QuantitativeValue
-dv_#has_:
   name: has_value_for_eligible_quantity
   range: QuantitativeValue
+dv_has_value_for_eligible_quantity: QuantitativeValue
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_eligible_quantity|has_value_for_eligible_quantity]]"

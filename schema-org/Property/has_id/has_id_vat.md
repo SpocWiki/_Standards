@@ -30,10 +30,9 @@ dv_has_:
   id_:
     vat: Text
   domain: Organization, Person
-dv_has_id_vat: Text
-dv_#has_:
   name: has_id_vat
   range: Text
+dv_has_id_vat: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_name/has_id_vat|has_id_vat]]"

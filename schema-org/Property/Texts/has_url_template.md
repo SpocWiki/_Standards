@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     url_template: Text
   domain: EntryPoint
-dv_has_text_of_url_template: Text
-dv_#has_:
   name: has_text_of_url_template
   range: Text
+dv_has_text_of_url_template: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_url_template|has_url_template]]"

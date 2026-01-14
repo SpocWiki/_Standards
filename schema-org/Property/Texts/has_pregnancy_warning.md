@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     pregnancy_warning: Text
   domain: Drug
-dv_has_text_of_pregnancy_warning: Text
-dv_#has_:
   name: has_text_of_pregnancy_warning
   range: Text
+dv_has_text_of_pregnancy_warning: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_pregnancy_warning|has_pregnancy_warning]]"

@@ -30,10 +30,9 @@ type: Predi_Relation
 dv_has_:
   occupation: Occupation
   domain: Person
-dv_has_occupation: Occupation
-dv_#has_:
   name: has_occupation
   range: Occupation
+dv_has_occupation: Occupation
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_occupation|has_occupation]]"

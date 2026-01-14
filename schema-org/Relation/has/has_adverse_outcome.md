@@ -27,10 +27,9 @@ type: Predi_Relation
 dv_has_:
   adverse_outcome: MedicalEntity
   domain: MedicalDevice, TherapeuticProcedure
-dv_has_adverse_outcome: MedicalEntity
-dv_#has_:
   name: has_adverse_outcome
   range: "[[../../../bio/Medicine/Medical_Entity]]"
+dv_has_adverse_outcome: MedicalEntity
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_adverse_outcome|has_adverse_outcome]]"

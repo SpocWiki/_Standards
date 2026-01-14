@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     seat_number: Text
   domain: Seat
-dv_has_text_of_seat_number: Text
-dv_#has_:
   name: has_text_of_seat_number
   range: Text
+dv_has_text_of_seat_number: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_seat_number|has_seat_number]]"

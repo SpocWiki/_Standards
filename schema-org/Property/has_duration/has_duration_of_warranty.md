@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     duration_of_warranty: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]]"
   domain: "[[../../Class/is_a_/Intangible/Structured_Value/Warranty_Promise|Warranty_Promise]]"
-dv_has_duration_of_warranty: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]]"
-dv_#has_:
   name: has_duration_of_warranty
   range: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]]"
+dv_has_duration_of_warranty: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]]"
 dv_is_:
   same_as:
     - "[[has_duration_of_warranty|has_duration_of_warranty]]"

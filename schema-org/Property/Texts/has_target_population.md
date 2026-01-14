@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     target_population: Text
   domain: DietarySupplement, DoseSchedule
-dv_has_text_of_target_population: Text
-dv_#has_:
   name: has_text_of_target_population
   range: Text
+dv_has_text_of_target_population: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_target_population|has_target_population]]"

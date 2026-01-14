@@ -29,10 +29,9 @@ dv_has_:
   location_:
     address_delivery: PostalAddress
   domain: ParcelDelivery
-dv_has_location_address_delivery: PostalAddress
-dv_#has_:
   name: has_location_address_delivery
   range: PostalAddress
+dv_has_location_address_delivery: PostalAddress
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_location/has_location_address_delivery|has_location_address_delivery]]"

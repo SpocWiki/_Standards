@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   imaging_technique: MedicalImagingTechnique
   domain: ImagingTest
-dv_has_imaging_technique: MedicalImagingTechnique
-dv_#has_:
   name: has_imaging_technique
   range: MedicalImagingTechnique
+dv_has_imaging_technique: MedicalImagingTechnique
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_imaging_technique|has_imaging_technique]]"

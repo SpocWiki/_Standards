@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     dose_unit: Text
   domain: DoseSchedule
-dv_has_text_of_dose_unit: Text
-dv_#has_:
   name: has_text_of_dose_unit
   range: Text
+dv_has_text_of_dose_unit: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_dose_unit|has_dose_unit]]"

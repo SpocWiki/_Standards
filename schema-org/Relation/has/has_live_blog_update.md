@@ -30,10 +30,9 @@ type: Predi_Relation
 dv_has_:
   live_blog_update: BlogPosting
   domain: LiveBlogPosting
-dv_has_live_blog_update: BlogPosting
-dv_#has_:
   name: has_live_blog_update
   range: BlogPosting
+dv_has_live_blog_update: BlogPosting
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_live_blog_update|has_live_blog_update]]"

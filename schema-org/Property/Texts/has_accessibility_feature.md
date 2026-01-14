@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     accessibility_feature: Text
   domain: CreativeWork
-dv_has_text_of_accessibility_feature: Text
-dv_#has_:
   name: has_text_of_accessibility_feature
   range: Text
+dv_has_text_of_accessibility_feature: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_accessibility_feature|has_accessibility_feature]]"

@@ -25,10 +25,9 @@ type: Predi_Relation
 dv_has_:
   endorsers: Organization, Person
   domain: Diet
-dv_has_endorsers: Organization, Person
-dv_#has_:
   name: has_endorsers
   range: Organization, Person
+dv_has_endorsers: Organization, Person
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_endorsers|has_endorsers]]"

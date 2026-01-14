@@ -44,7 +44,6 @@ dv_is_:
 dv_is_sub_property_of: "[[../Property]]"
 dv_has_:
   domain: "[[../Property]]"
-dv_#has_:
   name: "[[../Relation/is_sub_property_of]]"
   range: "[[../Property]]"
 dv_has_domain: "[[../Property]]"

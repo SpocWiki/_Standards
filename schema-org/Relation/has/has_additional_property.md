@@ -28,10 +28,9 @@ type: Predi_Relation
 dv_has_:
   additional_property: PropertyValue
   domain: MerchantReturnPolicy, Place, Product, QualitativeValue, QuantitativeValue
-dv_has_additional_property: PropertyValue
-dv_#has_:
   name: has_additional_property
   range: PropertyValue
+dv_has_additional_property: PropertyValue
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_additional_property|has_additional_property]]"

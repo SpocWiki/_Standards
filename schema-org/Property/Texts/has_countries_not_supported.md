@@ -32,10 +32,9 @@ dv_has_:
   text_of_:
     countries_not_supported: Text
   domain: SoftwareApplication
-dv_has_text_of_countries_not_supported: Text
-dv_#has_:
   name: has_text_of_countries_not_supported
   range: Text
+dv_has_text_of_countries_not_supported: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_countries_not_supported|has_countries_not_supported]]"

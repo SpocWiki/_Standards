@@ -27,6 +27,8 @@ type: Predi_Relation
 dv_has_:
   associated_media: MediaObject
   domain: CreativeWork, HyperToc, HyperTocEntry
+  name: has_associated_media
+  range: MediaObject
 dv_has_associated_media: MediaObject
 dv_is_:
   same_as:
@@ -38,9 +40,6 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_associated_media.private|has_associated_media.private]]"
     - "[[/_personal/schema-org/Relation/has/has_associated_media.personal|has_associated_media.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_associated_media.secret|has_associated_media.secret]]"
-dv_#has_:
-  name: has_associated_media
-  range: MediaObject
 dv_is_same_as:
   - "[[has_encoding|encoding]]"
   - "[[/_Standards/schema-org/Relation/has/has_associated_media|has_associated_media]]"

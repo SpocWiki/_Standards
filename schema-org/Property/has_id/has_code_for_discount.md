@@ -30,10 +30,9 @@ dv_has_:
   code_:
     for_discount: Text
   domain: Order
-dv_has_code_for_discount: Text
-dv_#has_:
   name: has_code_for_discount
   range: Text
+dv_has_code_for_discount: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_name/has_code_for_discount|has_code_for_discount]]"

@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     http_method: Text
   domain: EntryPoint
-dv_has_text_of_http_method: Text
-dv_#has_:
   name: has_text_of_http_method
   range: Text
+dv_has_text_of_http_method: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_http_method|has_http_method]]"

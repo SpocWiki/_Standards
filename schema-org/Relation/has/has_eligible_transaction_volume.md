@@ -30,10 +30,9 @@ type: Predi_Relation
 dv_has_:
   eligible_transaction_volume: PriceSpecification
   domain: Demand, Offer, PriceSpecification
-dv_has_eligible_transaction_volume: PriceSpecification
-dv_#has_:
   name: has_eligible_transaction_volume
   range: PriceSpecification
+dv_has_eligible_transaction_volume: PriceSpecification
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_eligible_transaction_volume|has_eligible_transaction_volume]]"

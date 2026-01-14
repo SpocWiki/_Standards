@@ -25,10 +25,9 @@ type: Predi_Relation
 dv_has_:
   calories: Energy
   domain: NutritionInformation
-dv_has_calories: Energy
-dv_#has_:
   name: has_calories
   range: Energy
+dv_has_calories: Energy
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_calories|has_calories]]"

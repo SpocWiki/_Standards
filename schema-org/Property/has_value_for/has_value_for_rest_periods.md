@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     rest_periods: QuantitativeValue, Text
   domain: ExercisePlan
-dv_has_value_for_rest_periods: QuantitativeValue, Text
-dv_#has_:
   name: has_value_for_rest_periods
   range: QuantitativeValue, Text
+dv_has_value_for_rest_periods: QuantitativeValue, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_rest_periods|has_value_for_rest_periods]]"

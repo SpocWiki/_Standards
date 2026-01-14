@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     content_size: Text
   domain: MediaObject
-dv_has_text_of_content_size: Text
-dv_#has_:
   name: has_text_of_content_size
   range: Text
+dv_has_text_of_content_size: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_content_size|has_content_size]]"

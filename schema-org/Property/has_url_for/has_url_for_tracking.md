@@ -30,10 +30,9 @@ dv_has_:
   url_for_:
     tracking: URL
   domain: ParcelDelivery
-dv_has_url_for_tracking: URL
-dv_#has_:
   name: has_url_for_tracking_url
   range: URL
+dv_has_url_for_tracking: URL
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_url_for/has_url_for_tracking|has_url_for_tracking]]"

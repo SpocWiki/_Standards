@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     natural_progression: Text
   domain: MedicalCondition
-dv_has_text_of_natural_progression: Text
-dv_#has_:
   name: has_text_of_natural_progression
   range: Text
+dv_has_text_of_natural_progression: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_natural_progression|has_natural_progression]]"

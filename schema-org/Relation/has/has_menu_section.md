@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   menu_section: MenuSection
   domain: Menu, MenuSection
-dv_has_menu_section: MenuSection
-dv_#has_:
   name: has_menu_section
   range: MenuSection
+dv_has_menu_section: MenuSection
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_menu_section|has_menu_section]]"

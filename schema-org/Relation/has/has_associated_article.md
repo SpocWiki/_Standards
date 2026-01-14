@@ -27,10 +27,9 @@ type: Predi_Relation
 dv_has_:
   associated_article: NewsArticle
   domain: MediaObject
-dv_has_associated_article: NewsArticle
-dv_#has_:
   name: has_associated_article
   range: NewsArticle
+dv_has_associated_article: NewsArticle
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_associated_article|has_associated_article]]"

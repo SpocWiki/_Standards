@@ -25,12 +25,11 @@ tags:
 title: has_time_of_dissolution
 type: Predi_Date_Time
 dv_has_time_of_dissolution: P#Y#M#W#DT#H#M#s.fff
-dv_#has_:
+dv_has_:
+  name: has_time_of_dissolution
   time_:
     of_dissolution: P#Y#M#W#DT#H#M#s.fff
 dv_domain: Organization
-dv_has_:
-  name: has_time_of_dissolution
 dv_range: Date
 dv_is_:
   same_as:

@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     alternative_headline: Text
   domain: CreativeWork
-dv_has_text_of_alternative_headline: Text
-dv_#has_:
   name: has_text_of_alternative_headline
   range: Text
+dv_has_text_of_alternative_headline: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_alternative_headline|has_alternative_headline]]"

@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     storage_requirements: Text, URL
   domain: SoftwareApplication
-dv_has_text_of_storage_requirements: Text, URL
-dv_#has_:
   name: has_text_of_storage_requirements
   range: Text, URL
+dv_has_text_of_storage_requirements: Text, URL
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_storage_requirements|has_storage_requirements]]"

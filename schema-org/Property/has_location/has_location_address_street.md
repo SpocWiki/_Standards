@@ -31,10 +31,9 @@ dv_has_:
     address_:
       street: Text
   domain: PostalAddress
-dv_has_location_address_street: Text
-dv_#has_:
   name: has_location_address_street
   range: Text
+dv_has_location_address_street: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_location/has_location_address_street|has_location_address_street]]"

@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   nerve_motor: Muscle
   domain: Nerve
-dv_has_nerve_motor: Muscle
-dv_#has_:
   name: has_nerve_motor
   range: Muscle
+dv_has_nerve_motor: Muscle
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_nerve_motor|has_nerve_motor]]"

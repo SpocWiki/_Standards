@@ -31,10 +31,9 @@ type: Predi_Relation
 dv_has_:
   digital_document_permission: DigitalDocumentPermission
   domain: DigitalDocument
-dv_has_digital_document_permission: DigitalDocumentPermission
-dv_#has_:
   name: has_digital_document_permission
   range: DigitalDocumentPermission
+dv_has_digital_document_permission: DigitalDocumentPermission
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_digital_document_permission|has_digital_document_permission]]"

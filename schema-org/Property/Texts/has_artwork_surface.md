@@ -32,10 +32,9 @@ dv_has_:
   text_of_:
     artwork_surface: Text, URL
   domain: VisualArtwork
-dv_has_text_of_artwork_surface: Text, URL
-dv_#has_:
   name: has_text_of_artwork_surface
   range: Text, URL
+dv_has_text_of_artwork_surface: Text, URL
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_artwork_surface|has_artwork_surface]]"

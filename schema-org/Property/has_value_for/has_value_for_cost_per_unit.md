@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     cost_per_unit: Number, QualitativeValue, Text
   domain: DrugCost
-dv_has_value_for_cost_per_unit: Number, QualitativeValue, Text
-dv_#has_:
   name: has_value_for_cost_per_unit
   range: Number, QualitativeValue, Text
+dv_has_value_for_cost_per_unit: Number, QualitativeValue, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_cost_per_unit|has_value_for_cost_per_unit]]"

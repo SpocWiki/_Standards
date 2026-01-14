@@ -28,7 +28,6 @@ type: Pred_Bool
 dv_is_readonly: Boolean
 dv_has_:
   domain: PropertyValueSpecification
-dv_#has_:
   name: is_readonly
   range: Boolean
 dv_is_:

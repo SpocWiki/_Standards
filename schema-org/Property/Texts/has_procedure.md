@@ -30,10 +30,9 @@ dv_has_:
   text_of_:
     procedure: Text
   domain: MedicalDevice
-dv_has_text_of_procedure: Text
-dv_#has_:
   name: has_text_of_procedure
   range: Text
+dv_has_text_of_procedure: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_procedure|has_procedure]]"

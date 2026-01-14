@@ -30,10 +30,9 @@ dv_has_:
   url_for_:
     download: URL
   domain: SoftwareApplication
-dv_has_url_for_download: URL
-dv_#has_:
   name: has_url_for_download_url
   range: URL
+dv_has_url_for_download: URL
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_url_for/has_url_for_download|has_url_for_download]]"

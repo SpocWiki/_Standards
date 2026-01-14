@@ -32,10 +32,9 @@ dv_has_:
   text_of_:
     job_benefits: Text
   domain: JobPosting
-dv_has_text_of_job_benefits: Text
-dv_#has_:
   name: has_text_of_job_benefits
   range: Text
+dv_has_text_of_job_benefits: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_job_benefits|has_job_benefits]]"

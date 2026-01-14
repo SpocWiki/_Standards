@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     delivery_lead_time: QuantitativeValue
   domain: Demand, Offer
-dv_has_value_for_delivery_lead_time: QuantitativeValue
-dv_#has_:
   name: has_value_for_delivery_lead_time
   range: QuantitativeValue
+dv_has_value_for_delivery_lead_time: QuantitativeValue
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_delivery_lead_time|has_value_for_delivery_lead_time]]"

@@ -25,12 +25,11 @@ tags:
 title: has_duration_of_validity
 type: Predi_Duration
 dv_has_duration_of_validity: P#Y#M#W#DT#H#M#s.fff
-dv_#has_:
+dv_has_:
+  name: has_duration_of_validity
   duration_:
     of_validity: P#Y#M#W#DT#H#M#s.fff
 dv_domain: EducationalOccupationalCredential, Permit
-dv_has_:
-  name: has_duration_of_validity
 dv_range: Duration
 dv_is_:
   same_as:

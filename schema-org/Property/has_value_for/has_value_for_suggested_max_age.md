@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     suggested_max_age: Number
   domain: PeopleAudience
-dv_has_value_for_suggested_max_age: Number
-dv_#has_:
   name: has_value_for_suggested_max_age
   range: Number
+dv_has_value_for_suggested_max_age: Number
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_suggested_max_age|has_value_for_suggested_max_age]]"

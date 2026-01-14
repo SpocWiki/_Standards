@@ -30,10 +30,9 @@ type: Predi_Relation
 dv_has_:
   data_feed_element: DataFeedItem, Text, Thing
   domain: DataFeed
-dv_has_data_feed_element: DataFeedItem, Text, Thing
-dv_#has_:
   name: has_data_feed_element
   range: DataFeedItem, Text, Thing
+dv_has_data_feed_element: DataFeedItem, Text, Thing
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_data_feed_element|has_data_feed_element]]"

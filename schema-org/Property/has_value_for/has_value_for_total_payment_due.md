@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     total_payment_due: MonetaryAmount, PriceSpecification
   domain: Invoice
-dv_has_value_for_total_payment_due: MonetaryAmount, PriceSpecification
-dv_#has_:
   name: has_value_for_total_payment_due
   range: MonetaryAmount, PriceSpecification
+dv_has_value_for_total_payment_due: MonetaryAmount, PriceSpecification
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_total_payment_due|has_value_for_total_payment_due]]"

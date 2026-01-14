@@ -25,10 +25,9 @@ type: Predi_Relation
 dv_has_:
   insertion: AnatomicalStructure
   domain: Muscle
-dv_has_insertion: AnatomicalStructure
-dv_#has_:
   name: has_insertion
   range: AnatomicalStructure
+dv_has_insertion: AnatomicalStructure
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_insertion|has_insertion]]"

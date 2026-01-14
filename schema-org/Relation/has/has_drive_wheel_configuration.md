@@ -30,10 +30,9 @@ type: Predi_Relation
 dv_has_:
   drive_wheel_configuration: DriveWheelConfigurationValue, Text
   domain: Vehicle
-dv_has_drive_wheel_configuration: DriveWheelConfigurationValue, Text
-dv_#has_:
   name: has_drive_wheel_configuration
   range: DriveWheelConfigurationValue, Text
+dv_has_drive_wheel_configuration: DriveWheelConfigurationValue, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_drive_wheel_configuration|has_drive_wheel_configuration]]"

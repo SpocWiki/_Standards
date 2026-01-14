@@ -29,10 +29,9 @@ dv_has_:
   number_of_:
     stage_as_number: Number
   domain: MedicalConditionStage
-dv_has_number_of_stage_as_number: Number
-dv_#has_:
   name: has_number_of_stage_as_number
   range: Number
+dv_has_number_of_stage_as_number: Number
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_stage_as_number|has_number_of_stage_as_number]]"

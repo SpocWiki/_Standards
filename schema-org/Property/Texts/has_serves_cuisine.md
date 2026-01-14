@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     serves_cuisine: Text
   domain: FoodEstablishment
-dv_has_text_of_serves_cuisine: Text
-dv_#has_:
   name: has_text_of_serves_cuisine
   range: Text
+dv_has_text_of_serves_cuisine: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_serves_cuisine|has_serves_cuisine]]"

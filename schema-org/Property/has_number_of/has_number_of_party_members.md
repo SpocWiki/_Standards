@@ -29,10 +29,9 @@ dv_has_:
   number_of_:
     party_members: Integer, QuantitativeValue
   domain: FoodEstablishmentReservation, TaxiReservation
-dv_has_number_of_party_members: Integer, QuantitativeValue
-dv_#has_:
   name: has_number_of_party_members
   range: Integer, QuantitativeValue
+dv_has_number_of_party_members: Integer, QuantitativeValue
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_party_members|has_number_of_party_members]]"

@@ -30,10 +30,9 @@ dv_has_:
   url_for_:
     significant_link: URL
   domain: WebPage
-dv_has_url_for_significant_link: URL
-dv_#has_:
   name: has_url_for_significant_link
   range: URL
+dv_has_url_for_significant_link: URL
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_url_for/has_url_for_significant_link|has_url_for_significant_link]]"

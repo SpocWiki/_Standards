@@ -30,10 +30,9 @@ type: Predi_Relation
 dv_has_:
   music_release_format: MusicReleaseFormatType
   domain: MusicRelease
-dv_has_music_release_format: MusicReleaseFormatType
-dv_#has_:
   name: has_music_release_format
   range: MusicReleaseFormatType
+dv_has_music_release_format: MusicReleaseFormatType
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_music_release_format|has_music_release_format]]"

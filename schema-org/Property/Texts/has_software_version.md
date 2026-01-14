@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     software_version: Text
   domain: SoftwareApplication
-dv_has_text_of_software_version: Text
-dv_#has_:
   name: has_text_of_software_version
   range: Text
+dv_has_text_of_software_version: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_software_version|has_software_version]]"

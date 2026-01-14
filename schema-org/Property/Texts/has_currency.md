@@ -30,10 +30,9 @@ dv_has_:
   text_of_:
     currency: Text
   domain: DatedMoneySpecification, ExchangeRateSpecification, LoanOrCredit, MonetaryAmount, MonetaryAmountDistribution
-dv_has_text_of_currency: Text
-dv_#has_:
   name: has_text_of_currency
   range: Text
+dv_has_text_of_currency: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_currency|has_currency]]"

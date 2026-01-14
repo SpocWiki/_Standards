@@ -28,7 +28,6 @@ type: Pred_Bool
 dv_is_reservation_accepted: Boolean, Text, URL
 dv_has_:
   domain: FoodEstablishment
-dv_#has_:
   name: is_reservation_accepted
   range: Boolean, Text, URL
 dv_is_:

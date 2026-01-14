@@ -29,10 +29,9 @@ dv_has_:
   location_:
     game: Place, PostalAddress, URL
   domain: Game, VideoGameSeries
-dv_has_location_game: Place, PostalAddress, URL
-dv_#has_:
   name: has_location_game
   range: Place, PostalAddress, URL
+dv_has_location_game: Place, PostalAddress, URL
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_location/has_location_game|has_location_game]]"

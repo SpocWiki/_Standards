@@ -29,10 +29,9 @@ dv_has_:
   number_of_:
     additional_guests: Number
   domain: RsvpAction
-dv_has_number_of_additional_guests: Number
-dv_#has_:
   name: has_number_of_additional_number_of_guests
   range: Number
+dv_has_number_of_additional_guests: Number
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_additional_number_of_guests|has_number_of_additional_number_of_guests]]"

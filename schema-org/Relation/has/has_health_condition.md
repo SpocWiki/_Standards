@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   health_condition: MedicalCondition
   domain: MedicalStudy, Patient, PeopleAudience
-dv_has_health_condition: MedicalCondition
-dv_#has_:
   name: has_health_condition
   range: MedicalCondition
+dv_has_health_condition: MedicalCondition
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_health_condition|has_health_condition]]"

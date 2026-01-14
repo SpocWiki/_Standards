@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     audience_type: Text
   domain: Audience
-dv_has_text_of_audience_type: Text
-dv_#has_:
   name: has_text_of_audience_type
   range: Text
+dv_has_text_of_audience_type: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_audience_type|has_audience_type]]"

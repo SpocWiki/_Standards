@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     course_mode: Text, URL
   domain: CourseInstance
-dv_has_text_of_course_mode: Text, URL
-dv_#has_:
   name: has_text_of_course_mode
   range: Text, URL
+dv_has_text_of_course_mode: Text, URL
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_course_mode|has_course_mode]]"

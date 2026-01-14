@@ -26,10 +26,9 @@ type: Predi_Relation
 dv_has_:
   broker: Organization, Person
   domain: Invoice, Order, Reservation, Service
-dv_has_broker: Organization, Person
-dv_#has_:
   name: has_broker
   range: Organization, Person
+dv_has_broker: Organization, Person
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_broker|has_broker]]"

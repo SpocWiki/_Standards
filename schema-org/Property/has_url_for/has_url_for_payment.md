@@ -30,10 +30,9 @@ dv_has_:
   url_for_:
     payment: URL
   domain: Order
-dv_has_url_for_payment: URL
-dv_#has_:
   name: has_url_for_payment_url
   range: URL
+dv_has_url_for_payment: URL
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_url_for/has_url_for_payment|has_url_for_payment]]"

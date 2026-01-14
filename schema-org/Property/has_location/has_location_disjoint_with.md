@@ -30,10 +30,9 @@ dv_has_:
   location_:
     disjoint_with: GeospatialGeometry, Place
   domain: GeospatialGeometry, Place
-dv_has_location_disjoint_with: GeospatialGeometry, Place
-dv_#has_:
   name: has_location_disjoint
   range: GeospatialGeometry, Place
+dv_has_location_disjoint_with: GeospatialGeometry, Place
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_location/has_location_disjoint_with|has_location_disjoint_with]]"

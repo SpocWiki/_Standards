@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     review_rating_stars: Rating
   domain: Review
-dv_has_value_for_review_rating_stars: Rating
-dv_#has_:
   name: has_value_for_review_rating_stars
   range: Rating
+dv_has_value_for_review_rating_stars: Rating
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_review_rating_stars|has_value_for_review_rating_stars]]"

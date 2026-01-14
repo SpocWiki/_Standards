@@ -28,7 +28,6 @@ type: Pred_Bool
 dv_is_available_generically: Boolean
 dv_has_:
   domain: Drug
-dv_#has_:
   name: is_available_generically
   range: Boolean
 dv_is_:

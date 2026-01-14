@@ -29,10 +29,9 @@ type: Pred_Text
 dv_has_:
   name_proprietary: Text
   domain: DietarySupplement, Drug
-dv_has_name_proprietary: Text
-dv_#has_:
   name: has_name_proprietary
   range: Text
+dv_has_name_proprietary: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_name/has_name_proprietary|has_name_proprietary]]"

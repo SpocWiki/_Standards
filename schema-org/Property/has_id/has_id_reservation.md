@@ -30,10 +30,9 @@ dv_has_:
   id_:
     reservation: Text
   domain: Reservation
-dv_has_id_reservation: Text
-dv_#has_:
   name: has_id_reservation
   range: Text
+dv_has_id_reservation: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_name/has_id_reservation|has_id_reservation]]"

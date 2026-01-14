@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     educational_framework: Text
   domain: AlignmentObject
-dv_has_text_of_educational_framework: Text
-dv_#has_:
   name: has_text_of_educational_framework
   range: Text
+dv_has_text_of_educational_framework: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_educational_framework|has_educational_framework]]"

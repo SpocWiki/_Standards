@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   offer_catalog: OfferCatalog
   domain: Organization, Person, Service
-dv_has_offer_catalog: OfferCatalog
-dv_#has_:
   name: has_offer_catalog
   range: OfferCatalog
+dv_has_offer_catalog: OfferCatalog
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_offer_catalog|has_offer_catalog]]"

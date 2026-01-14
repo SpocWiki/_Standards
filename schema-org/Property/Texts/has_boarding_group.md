@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     boarding_group: Text
   domain: FlightReservation
-dv_has_text_of_boarding_group: Text
-dv_#has_:
   name: has_text_of_boarding_group
   range: Text
+dv_has_text_of_boarding_group: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_boarding_group|has_boarding_group]]"

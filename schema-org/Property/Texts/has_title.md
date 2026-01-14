@@ -30,10 +30,9 @@ dv_has_:
   text_of_:
     title: Text
   domain: JobPosting
-dv_has_text_of_title: Text
-dv_#has_:
   name: has_text_of_title
   range: Text
+dv_has_text_of_title: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_title|has_title]]"

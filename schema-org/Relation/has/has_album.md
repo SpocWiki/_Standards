@@ -26,10 +26,9 @@ type: Predi_Relation
 dv_has_:
   album: MusicAlbum
   domain: MusicGroup
-dv_has_album: MusicAlbum
-dv_#has_:
   name: has_album
   range: MusicAlbum
+dv_has_album: MusicAlbum
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_album|has_album]]"

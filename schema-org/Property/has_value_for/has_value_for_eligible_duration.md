@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     eligible_duration: QuantitativeValue
   domain: Demand, Offer
-dv_has_value_for_eligible_duration: QuantitativeValue
-dv_#has_:
   name: has_value_for_eligible_duration
   range: QuantitativeValue
+dv_has_value_for_eligible_duration: QuantitativeValue
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_eligible_duration|has_value_for_eligible_duration]]"

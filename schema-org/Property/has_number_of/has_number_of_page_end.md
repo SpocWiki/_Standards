@@ -29,10 +29,9 @@ dv_has_:
   number_of_:
     page_end: Integer, Text
   domain: Article, Chapter, PublicationIssue, PublicationVolume
-dv_has_number_of_page_end: Integer, Text
-dv_#has_:
   name: has_number_of_page_end
   range: Integer, Text
+dv_has_number_of_page_end: Integer, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_page_end|has_number_of_page_end]]"

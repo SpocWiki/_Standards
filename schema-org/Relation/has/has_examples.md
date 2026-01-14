@@ -3,10 +3,9 @@ dv_has_:
   examples: "[[../../Collection]]"
   domain: "[[../../Class|Class]]"
   sub_properties: "[ [[has_work_example]] ]"
-dv_has_examples: "[[../../Collection]]"
-dv_#has_:
   name: "[[has_examples]]"
   range: "[[../../Collection]]"
+dv_has_examples: "[[../../Collection]]"
 dv_is_:
   inverse_of: "[[../../Class/is_instance_of]]"
   same_as:

@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     evidence_origin: Text
   domain: MedicalGuideline
-dv_has_text_of_evidence_origin: Text
-dv_#has_:
   name: has_text_of_evidence_origin
   range: Text
+dv_has_text_of_evidence_origin: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_evidence_origin|has_evidence_origin]]"

@@ -26,10 +26,9 @@ type: Predi_Relation
 dv_has_:
   demand_for: Demand
   domain: Organization, Person
-dv_has_demand_for: Demand
-dv_#has_:
   name: "[[has_demand_for]]"
   range: Demand
+dv_has_demand_for: Demand
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_demand_for|has_demand_for]]"

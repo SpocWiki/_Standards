@@ -32,10 +32,9 @@ type: Predi_Relation
 dv_has_:
   main_content_of_page: WebPageElement
   domain: WebPage
-dv_has_main_content_of_page: WebPageElement
-dv_#has_:
   name: has_main_content_of_page
   range: WebPageElement
+dv_has_main_content_of_page: WebPageElement
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_main_content_of_page|has_main_content_of_page]]"

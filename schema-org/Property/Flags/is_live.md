@@ -28,7 +28,6 @@ type: Pred_Bool
 dv_is_live: Boolean
 dv_has_:
   domain: BroadcastEvent
-dv_#has_:
   name: is_live
   range: Boolean
 dv_is_:

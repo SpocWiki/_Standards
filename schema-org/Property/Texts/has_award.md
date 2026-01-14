@@ -34,10 +34,9 @@ dv_has_:
   text_of_:
     award: Text
   domain: CreativeWork, Organization, Person, Product, Service
-dv_has_text_of_award: Text
-dv_#has_:
   name: has_award
   range: Text
+dv_has_text_of_award: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_award|has_award]]"

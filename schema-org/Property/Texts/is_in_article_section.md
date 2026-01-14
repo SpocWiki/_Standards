@@ -41,7 +41,6 @@ dv_is_:
 dv_is_in_article_section: "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_has_:
   domain: "[[../../../Society/Communication/Media/Creative_Work/Article|Article]]"
-dv_#has_:
   name: is_in_article_section
   range: "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Article|Article]]"

@@ -25,12 +25,11 @@ tags:
 title: has_duration_to_process
 type: Predi_Duration
 dv_has_duration_to_process: P#Y#M#W#DT#H#M#s.fff
-dv_#has_:
+dv_has_:
+  name: has_duration_to_process
   duration_:
     to_process: P#Y#M#W#DT#H#M#s.fff
 dv_domain: ServiceChannel
-dv_has_:
-  name: has_duration_to_process
 dv_range: Duration
 dv_is_:
   same_as:

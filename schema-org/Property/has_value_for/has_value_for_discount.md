@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     discount: Number, Text
   domain: Order
-dv_has_value_for_discount: Number, Text
-dv_#has_:
   name: has_value_for_discount
   range: Number, Text
+dv_has_value_for_discount: Number, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_discount|has_value_for_discount]]"

@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     print_column: Text
   domain: NewsArticle
-dv_has_text_of_print_column: Text
-dv_#has_:
   name: has_text_of_print_column
   range: Text
+dv_has_text_of_print_column: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_print_column|has_print_column]]"

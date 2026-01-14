@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     activity_frequency: QuantitativeValue, Text
   domain: ExercisePlan
-dv_has_value_for_activity_frequency: QuantitativeValue, Text
-dv_#has_:
   name: has_value_for_activity_frequency
   range: QuantitativeValue, Text
+dv_has_value_for_activity_frequency: QuantitativeValue, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_activity_frequency|has_value_for_activity_frequency]]"

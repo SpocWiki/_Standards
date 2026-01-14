@@ -25,12 +25,11 @@ tags:
 title: has_duration_of_flight
 type: Predi_Duration
 dv_has_duration_of_flight: P#Y#M#W#DT#H#M#s.fff
-dv_#has_:
+dv_has_:
+  name: has_duration_of_flight
   duration_:
     of_flight: P#Y#M#W#DT#H#M#s.fff
 dv_domain: Flight
-dv_has_:
-  name: has_duration_of_flight
 dv_range: Duration, Text
 dv_is_:
   same_as:

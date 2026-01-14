@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     special_commitments: Text
   domain: JobPosting
-dv_has_text_of_special_commitments: Text
-dv_#has_:
   name: has_text_of_special_commitments
   range: Text
+dv_has_text_of_special_commitments: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_special_commitments|has_special_commitments]]"

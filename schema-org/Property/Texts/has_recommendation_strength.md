@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     recommendation_strength: Text
   domain: MedicalGuidelineRecommendation
-dv_has_text_of_recommendation_strength: Text
-dv_#has_:
   name: has_text_of_recommendation_strength
   range: Text
+dv_has_text_of_recommendation_strength: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_recommendation_strength|has_recommendation_strength]]"

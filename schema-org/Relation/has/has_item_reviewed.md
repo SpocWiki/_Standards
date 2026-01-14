@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   item_reviewed: "[Thing](../../../Class/Thing.md)"
   domain: AggregateRating, Review
-dv_has_item_reviewed: "[Thing](../../../Class/Thing.md)"
-dv_#has_:
   name: has_item_reviewed
   range: Thing
+dv_has_item_reviewed: "[Thing](../../../Class/Thing.md)"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_item_reviewed|has_item_reviewed]]"

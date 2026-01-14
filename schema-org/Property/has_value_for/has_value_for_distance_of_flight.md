@@ -29,10 +29,9 @@ dv_has_:
   value_for_:
     flight_distance: Distance, Text
   domain: Flight
-dv_has_value_for_flight_distance: Distance, Text
-dv_#has_:
   name: has_value_for_flight_distance
   range: Distance, Text
+dv_has_value_for_flight_distance: Distance, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_flight_distance|has_value_for_flight_distance]]"

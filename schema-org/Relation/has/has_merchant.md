@@ -26,10 +26,9 @@ type: Predi_Relation
 dv_has_:
   merchant: Organization, Person
   domain: Order
-dv_has_merchant: Organization, Person
-dv_#has_:
   name: has_merchant
   range: Organization, Person
+dv_has_merchant: Organization, Person
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_merchant|has_merchant]]"

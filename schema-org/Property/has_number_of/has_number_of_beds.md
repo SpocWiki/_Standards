@@ -29,10 +29,9 @@ dv_has_:
   number_of_:
     beds: Number
   domain: BedDetails
-dv_has_number_of_beds: Number
-dv_#has_:
   name: has_number_of_beds
   range: Number
+dv_has_number_of_beds: Number
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_beds|has_number_of_beds]]"

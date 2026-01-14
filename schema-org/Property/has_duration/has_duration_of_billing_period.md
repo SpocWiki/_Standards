@@ -25,12 +25,11 @@ tags:
 title: has_duration_of_billing_period
 type: Predi_Duration
 dv_has_duration_of_billing_period: P#Y#M#W#DT#H#M#s.fff
-dv_#has_:
+dv_has_:
+  name: has_duration_of_billing_period
   duration_:
     of_billing_period: P#Y#M#W#DT#H#M#s.fff
 dv_domain: Invoice
-dv_has_:
-  name: has_duration_of_billing_period
 dv_range: Duration
 dv_is_:
   same_as:
