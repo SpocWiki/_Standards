@@ -38,7 +38,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/CanisMinorCC.jpg
 official_name: Canis Minor
 short_name: CMi
 dv_SpocWebEntityId: 28097
-dv_#has_:
+dv_has_:
   name_:
     la: Canis Minor
     la_:

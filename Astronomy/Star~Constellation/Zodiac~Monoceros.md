@@ -39,7 +39,7 @@ Commons_category: Monoceros (constellation)
 short_name: Mon
 official_name: Monoceros
 dv_SpocWebEntityId: 28137
-dv_#has_:
+dv_has_:
   name_:
     la: Monoceros
     la_:

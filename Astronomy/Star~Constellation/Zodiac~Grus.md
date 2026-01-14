@@ -33,7 +33,7 @@ Commons_category: Grus (constellation)
 short_name: Gru
 official_name: Grus
 dv_SpocWebEntityId: 28121
-dv_#has_:
+dv_has_:
   name_:
     la: Grus
     la_:

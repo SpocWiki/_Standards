@@ -32,7 +32,7 @@ astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Crat
 image: http://commons.wikimedia.org/wiki/Special:FilePath/CraterCC.jpg
 short_name: Crt
 dv_SpocWebEntityId: 28111
-dv_#has_:
+dv_has_:
   name_:
     la: Crater
     la_:

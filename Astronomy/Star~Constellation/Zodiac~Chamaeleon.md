@@ -33,7 +33,7 @@ Commons_category: Chamaeleon (constellation)
 short_name: Cha
 official_name: Chamaeleon
 dv_SpocWebEntityId: 28104
-dv_#has_:
+dv_has_:
   name_:
     la: Chamaeleon
     la_:

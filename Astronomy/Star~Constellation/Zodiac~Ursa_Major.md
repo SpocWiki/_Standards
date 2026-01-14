@@ -74,7 +74,7 @@ Hederich_encyclopedia_article: Arctos
 Gujarati_Vishwakosh_entry: સપ્તર્ષિ-તારામંડળ-ursa-major
 short_name: UMa
 dv_SpocWebEntityId: 28165
-dv_#has_:
+dv_has_:
   name_:
     la: Ursa Major
     la_:

@@ -44,7 +44,7 @@ astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Cetu
 image: http://commons.wikimedia.org/wiki/Special:FilePath/CetusCC.jpg
 short_name: Cet
 dv_SpocWebEntityId: 28103
-dv_#has_:
+dv_has_:
   name_:
     la: Cetus
     la_:

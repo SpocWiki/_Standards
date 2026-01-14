@@ -57,7 +57,7 @@ Commons_category: Ursa Minor (constellation)
 short_name: UMi
 official_name: Ursa Minor
 dv_SpocWebEntityId: 28166
-dv_#has_:
+dv_has_:
   name_:
     la: Ursa Minor
     la_:

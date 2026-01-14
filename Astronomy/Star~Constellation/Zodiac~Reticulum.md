@@ -32,7 +32,7 @@ Commons_category: Reticulum (constellation)
 short_name: Ret
 official_name: Reticulum
 dv_SpocWebEntityId: 28152
-dv_#has_:
+dv_has_:
   name_:
     la: Reticulum
     la_:

@@ -38,7 +38,7 @@ short_name: Lyn
 official_name: Lynx
 time_of_discovery_or_invention: 1687-01-01T00:00:00Z
 dv_SpocWebEntityId: 28133
-dv_#has_:
+dv_has_:
   name_:
     la: Lynx
     la_:

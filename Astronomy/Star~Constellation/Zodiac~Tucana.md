@@ -33,7 +33,7 @@ Commons_gallery: Tucana
 short_name: Tuc
 official_name: Tucana
 dv_SpocWebEntityId: 28164
-dv_#has_:
+dv_has_:
   name_:
     la: Tucana
     la_:

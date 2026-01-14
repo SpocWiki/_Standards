@@ -39,7 +39,7 @@ astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Cent
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Constellation%20Centaurus.jpg
 Hederich_encyclopedia_article: Centavrvs
 dv_SpocWebEntityId: 28101
-dv_#has_:
+dv_has_:
   name_:
     la: Centaurus
     la_:

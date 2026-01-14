@@ -34,7 +34,7 @@ Commons_category: Corona Australis
 official_name: Corona Australis
 short_name: CrA
 dv_SpocWebEntityId: 28108
-dv_#has_:
+dv_has_:
   name_:
     la: Corona Australis
     la_:

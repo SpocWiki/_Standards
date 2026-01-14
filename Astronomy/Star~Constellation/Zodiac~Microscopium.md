@@ -35,7 +35,7 @@ Commons_category: Microscopium (constellation)
 short_name: Mic
 official_name: Microscopium
 dv_SpocWebEntityId: 28136
-dv_#has_:
+dv_has_:
   name_:
     la: Microscopium
     la_:

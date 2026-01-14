@@ -41,7 +41,7 @@ Commons_category: Carina (constellation)
 short_name: Car
 official_name: Carina
 dv_SpocWebEntityId: 28099
-dv_#has_:
+dv_has_:
   name_:
     la: Carina
     la_:

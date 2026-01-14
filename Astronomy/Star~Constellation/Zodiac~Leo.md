@@ -62,7 +62,7 @@ astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Leo%
 image: http://commons.wikimedia.org/wiki/Special:FilePath/LeoCC.jpg
 Baidu_Tieba_name: 狮子座
 dv_SpocWebEntityId: 28128
-dv_#has_:
+dv_has_:
   name_:
     la: Leo
     la_:

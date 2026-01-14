@@ -36,7 +36,7 @@ Commons_category: Phoenix (constellation)
 short_name: Phe
 official_name: Phoenix
 dv_SpocWebEntityId: 28146
-dv_#has_:
+dv_has_:
   name_:
     la: Phoenix
     la_:

@@ -48,7 +48,7 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Orion.ogv
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Orion%20symbol%20%28Moskowitz%2C%20variable%20width%29.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/OrionCC.jpg
 dv_SpocWebEntityId: 28142
-dv_#has_:
+dv_has_:
   name_:
     la: Orion
     la_:

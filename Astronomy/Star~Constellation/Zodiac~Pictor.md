@@ -35,7 +35,7 @@ Commons_category: Pictor (constellation)
 short_name: Pic
 official_name: Pictor
 dv_SpocWebEntityId: 28147
-dv_#has_:
+dv_has_:
   name_:
     la: Pictor
     la_:

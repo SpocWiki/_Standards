@@ -41,7 +41,7 @@ Commons_category: Eridanus (constellation)
 short_name: Eri
 official_name: Eridanus
 dv_SpocWebEntityId: 28118
-dv_#has_:
+dv_has_:
   name_:
     la: Eridanus
     la_:

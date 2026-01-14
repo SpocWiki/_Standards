@@ -38,7 +38,7 @@ Commons_category: Piscis Austrinus
 official_name: Piscis Austrinus
 short_name: PsA
 dv_SpocWebEntityId: 28149
-dv_#has_:
+dv_has_:
   name_:
     la: Piscis Australis
     la_:

@@ -37,7 +37,7 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Sculptor%2
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Sculptor%20symbol%20%28Moskowitz%2C%20variable%20width%29.svg
 short_name: Scl
 dv_SpocWebEntityId: 28156
-dv_#has_:
+dv_has_:
   name_:
     la: Sculptor
     la_:

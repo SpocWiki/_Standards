@@ -33,7 +33,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/CepheusCC.jpg
 Commons_category: Cepheus (constellation)
 short_name: Cep
 dv_SpocWebEntityId: 28102
-dv_#has_:
+dv_has_:
   name_:
     la: Cepheus
     la_:

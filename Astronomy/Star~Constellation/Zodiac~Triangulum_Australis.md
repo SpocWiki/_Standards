@@ -39,7 +39,7 @@ Commons_category: Triangulum Australe
 short_name: TrA
 official_name: Triangulum Australe
 dv_SpocWebEntityId: 28163
-dv_#has_:
+dv_has_:
   name_:
     la: Triangulum Australis
     la_:

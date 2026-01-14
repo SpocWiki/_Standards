@@ -46,7 +46,7 @@ Baidu_Tieba_name: 天蝎座
 short_name: Sco
 official_name: Scorpius
 dv_SpocWebEntityId: 28155
-dv_#has_:
+dv_has_:
   name_:
     la: Scorpius
     la_:

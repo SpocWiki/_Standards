@@ -51,7 +51,7 @@ Baidu_Tieba_name: 天秤座
 short_name: Lib
 official_name: Libra
 dv_SpocWebEntityId: 28131
-dv_#has_:
+dv_has_:
   name_:
     la: Libra
     la_:

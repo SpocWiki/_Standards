@@ -34,7 +34,7 @@ Commons_category: Pyxis (constellation)
 short_name: Pyx
 official_name: Pyxis
 dv_SpocWebEntityId: 28151
-dv_#has_:
+dv_has_:
   name_:
     la: Pyxis
     la_:

@@ -38,7 +38,7 @@ astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Ara%
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Constellation%20Ara.jpg
 Hederich_encyclopedia_article: Arvla
 dv_SpocWebEntityId: 28088
-dv_#has_:
+dv_has_:
   name_:
     la: Ara
     la_:

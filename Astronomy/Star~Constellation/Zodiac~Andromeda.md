@@ -42,7 +42,7 @@ astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Andr
 image: http://commons.wikimedia.org/wiki/Special:FilePath/AndromedaCC.jpg
 P8189: 987007551838705200
 dv_SpocWebEntityId: 28083
-dv_#has_:
+dv_has_:
   name_:
     la: Andromeda
     la_:

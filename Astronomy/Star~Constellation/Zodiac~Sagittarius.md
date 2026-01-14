@@ -52,7 +52,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/SagittariusCC.jpg
 Baidu_Tieba_name: 射手座
 short_name: Sgr
 dv_SpocWebEntityId: Schuetze
-dv_#has_:
+dv_has_:
   name_:
     la: Sagittarius
     la_:

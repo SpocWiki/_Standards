@@ -36,7 +36,7 @@ Commons_gallery: Circinus
 Commons_category: Circinus (constellation)
 short_name: Cir
 dv_SpocWebEntityId: 28105
-dv_#has_:
+dv_has_:
   name_:
     la: Circinus
     la_:

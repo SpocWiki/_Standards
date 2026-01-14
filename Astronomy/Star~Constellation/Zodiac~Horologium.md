@@ -32,7 +32,7 @@ Commons_category: Horologium (constellation)
 short_name: Hor
 official_name: Horologium
 dv_SpocWebEntityId: 28123
-dv_#has_:
+dv_has_:
   name_:
     la: Horologium
     la_:

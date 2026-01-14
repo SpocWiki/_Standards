@@ -41,7 +41,7 @@ Commons_category: Vela (constellation)
 short_name: Vel
 official_name: Vela
 dv_SpocWebEntityId: 28167
-dv_#has_:
+dv_has_:
   name_:
     la: Vela
     la_:

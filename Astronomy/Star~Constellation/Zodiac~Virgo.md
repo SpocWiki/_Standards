@@ -50,7 +50,7 @@ astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Virg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/VirgoCC.jpg
 Baidu_Tieba_name: 处女座
 dv_SpocWebEntityId: 28168
-dv_#has_:
+dv_has_:
   name_:
     la: Virgo
     la_:

@@ -40,7 +40,7 @@ Commons_category: Auriga (constellation)
 short_name: Aur
 official_name: Auriga
 dv_SpocWebEntityId: 28090
-dv_#has_:
+dv_has_:
   name_:
     la: Auriga
     la_:

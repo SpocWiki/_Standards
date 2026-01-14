@@ -33,7 +33,7 @@ Commons_category: Octans (constellation)
 short_name: Oct
 official_name: Octans
 dv_SpocWebEntityId: 28140
-dv_#has_:
+dv_has_:
   name_:
     la: Octans
     la_:

@@ -32,7 +32,7 @@ Commons_category: Triangulum (constellation)
 short_name: Tri
 official_name: Triangulum
 dv_SpocWebEntityId: 28162
-dv_#has_:
+dv_has_:
   name_:
     la: Triangulum
     la_:

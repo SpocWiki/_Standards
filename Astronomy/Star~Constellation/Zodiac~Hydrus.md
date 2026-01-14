@@ -36,7 +36,7 @@ Commons_category: Hydrus (constellation)
 official_name: Hydrus
 short_name: Hyi
 dv_SpocWebEntityId: 28125
-dv_#has_:
+dv_has_:
   name_:
     la: Hydrus
     la_:

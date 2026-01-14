@@ -42,7 +42,7 @@ astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Came
 image: http://commons.wikimedia.org/wiki/Special:FilePath/CamelopardalisCC.jpg
 topic_has_template: "[[_Standards/WikiData/WD~Template_Stars_of_Camelopardalis,12159643]]"
 dv_SpocWebEntityId: 28093
-dv_#has_:
+dv_has_:
   name_:
     la: Camelopardalis
     la_:

@@ -48,7 +48,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/GeminiCC.jpg
 Baidu_Tieba_name: 双子座
 short_name: Gem
 dv_SpocWebEntityId: 28120
-dv_#has_:
+dv_has_:
   name_:
     la: Gemini
     la_:

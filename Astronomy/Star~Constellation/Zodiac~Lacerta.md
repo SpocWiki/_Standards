@@ -38,7 +38,7 @@ short_name: Lac
 official_name: Lacerta
 time_of_discovery_or_invention: 1687-01-01T00:00:00Z
 dv_SpocWebEntityId: 28127
-dv_#has_:
+dv_has_:
   name_:
     la: Lacerta
     la_:

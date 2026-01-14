@@ -41,7 +41,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/PiscesCC.jpg
 Baidu_Tieba_name: 双鱼座
 short_name: Psc
 dv_SpocWebEntityId: 28148
-dv_#has_:
+dv_has_:
   name_:
     la: Pisces
     la_:

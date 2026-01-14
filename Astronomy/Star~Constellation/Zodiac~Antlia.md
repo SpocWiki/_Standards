@@ -33,12 +33,6 @@ Commons_category: Antlia (constellation)
 short_name: Ant
 official_name: Antlia
 dv_SpocWebEntityId: 28084
-dv_#has_:
-  name_:
-    la: Antlia
-    la_:
-      genitive: Antliae
-    de: Luftpumpe
 dv_is_:
   same_as:
     - "[[_Standards/WikiData/WD~Antlia,10481]]"

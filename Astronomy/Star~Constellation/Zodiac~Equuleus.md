@@ -36,7 +36,7 @@ Hederich_encyclopedia_article: Eqvvs
 short_name: Equ
 official_name: Equuleus
 dv_SpocWebEntityId: 28117
-dv_#has_:
+dv_has_:
   name_:
     la: Equuleus
     la_:

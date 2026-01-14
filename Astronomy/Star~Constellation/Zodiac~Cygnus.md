@@ -41,7 +41,7 @@ astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Cygn
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kru%C5%A1n%C3%A9%20hory%2C%20Hora%20sv.%20%C5%A0ebesti%C3%A1na%2C%20imgp0651-71info%20%282018-05%29.jpg
 short_name: Cyg
 dv_SpocWebEntityId: 28113
-dv_#has_:
+dv_has_:
   name_:
     la: Cygnus
     la_:

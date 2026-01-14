@@ -40,7 +40,7 @@ Commons_category: Musca (constellation)
 short_name: Mus
 official_name: Musca
 dv_SpocWebEntityId: 28138
-dv_#has_:
+dv_has_:
   name_:
     la: Musca
     la_:

@@ -48,7 +48,7 @@ Baidu_Tieba_name: 水瓶座
 short_name: Aqr
 official_name: Aquarius
 dv_SpocWebEntityId: 28086
-dv_#has_:
+dv_has_:
   name_:
     la: Aquarius
     la_:

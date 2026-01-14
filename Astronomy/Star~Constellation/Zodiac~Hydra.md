@@ -43,7 +43,7 @@ Commons_gallery: Hydra (constellation)
 Commons_category: Hydra (constellation)
 short_name: Hya
 dv_SpocWebEntityId: 28124
-dv_#has_:
+dv_has_:
   name_:
     la: Hydra
     la_:

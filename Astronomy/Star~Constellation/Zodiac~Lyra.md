@@ -39,7 +39,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/LyraCC.jpg
 Commons_category: Lyra (constellation)
 official_name: Lyra
 dv_SpocWebEntityId: 28134
-dv_#has_:
+dv_has_:
   name_:
     la: Lyra
     la_:

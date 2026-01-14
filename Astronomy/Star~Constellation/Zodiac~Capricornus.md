@@ -41,7 +41,7 @@ Commons_category: Capricornus (constellation)
 short_name: Cap
 official_name: Capricornus
 dv_SpocWebEntityId: 28098
-dv_#has_:
+dv_has_:
   name_:
     la: Capricornus
     la_:

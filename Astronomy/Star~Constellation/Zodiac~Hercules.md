@@ -56,7 +56,7 @@ Commons_gallery: Hercules (constellation)
 Commons_category: Hercules (constellation)
 short_name: Her
 dv_SpocWebEntityId: 28122
-dv_#has_:
+dv_has_:
   name_:
     la: Hercules
     la_:

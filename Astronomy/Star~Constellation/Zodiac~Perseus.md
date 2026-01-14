@@ -38,7 +38,7 @@ Commons_category: Perseus (constellation)
 short_name: Per
 official_name: Perseus
 dv_SpocWebEntityId: 28145
-dv_#has_:
+dv_has_:
   name_:
     la: Perseus
     la_:

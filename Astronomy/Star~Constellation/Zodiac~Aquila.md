@@ -44,7 +44,7 @@ Hederich_encyclopedia_article: Aqvila
 short_name: Aql
 official_name: Aquila
 dv_SpocWebEntityId: 28087
-dv_#has_:
+dv_has_:
   name_:
     la: Aquila
     la_:

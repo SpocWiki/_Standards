@@ -39,7 +39,7 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Puppis%20c
 image: http://commons.wikimedia.org/wiki/Special:FilePath/PuppisCC.jpg
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Puppis%20symbol%20%28Moskowitz%2C%20variable%20width%29.svg
 dv_SpocWebEntityId: 28150
-dv_#has_:
+dv_has_:
   name_:
     la: Puppis
     la_:

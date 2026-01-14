@@ -47,7 +47,7 @@ Commons_category: Taurus (constellation)
 Baidu_Tieba_name: 金牛座
 short_name: Tau
 dv_SpocWebEntityId: 28160
-dv_#has_:
+dv_has_:
   name_:
     la: Taurus
     la_:

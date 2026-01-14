@@ -44,7 +44,7 @@ Commons_category: Canes Venatici (constellation)
 official_name: Canes Venatici
 short_name: CVn
 dv_SpocWebEntityId: 28095
-dv_#has_:
+dv_has_:
   name_:
     la: Canes Venatici
     la_:

@@ -38,7 +38,7 @@ short_name: Vul
 official_name: Vulpecula
 time_of_discovery_or_invention: 1683-01-01T00:00:00Z
 dv_SpocWebEntityId: 28170
-dv_#has_:
+dv_has_:
   name_:
     la: Vulpecula
     la_:

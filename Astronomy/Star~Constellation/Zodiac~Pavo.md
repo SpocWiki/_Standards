@@ -38,7 +38,7 @@ Commons_category: Pavo (constellation)
 short_name: Pav
 official_name: Pavo
 dv_SpocWebEntityId: 28143
-dv_#has_:
+dv_has_:
   name_:
     la: Pavo
     la_:

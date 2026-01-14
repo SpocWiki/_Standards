@@ -40,7 +40,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/CancerCC.jpg
 Baidu_Tieba_name: ???
 short_name: Cnc
 dv_SpocWebEntityId: 28094
-dv_#has_:
+dv_has_:
   name_:
     la: Cancer
     la_:

@@ -33,7 +33,7 @@ Commons_category: Norma (constellation)
 short_name: Nor
 official_name: Norma
 dv_SpocWebEntityId: 28139
-dv_#has_:
+dv_has_:
   name_:
     la: Norma
     la_:

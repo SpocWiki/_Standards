@@ -36,7 +36,7 @@ Commons_category: Sagitta (constellation)
 official_name: Sagitta
 short_name: Sge
 dv_SpocWebEntityId: 28153
-dv_#has_:
+dv_has_:
   name_:
     la: Sagitta
     la_:

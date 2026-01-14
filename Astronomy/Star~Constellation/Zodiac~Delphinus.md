@@ -38,7 +38,7 @@ Commons_category: Delphinus (constellation)
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Delphinus%20symbol%20%28Moskowitz%2C%20variable%20width%29.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/DelphinusCC.jpg
 dv_SpocWebEntityId: 28114
-dv_#has_:
+dv_has_:
   name_:
     la: Delphinus
     la_:

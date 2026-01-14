@@ -45,7 +45,7 @@ astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Drac
 image: http://commons.wikimedia.org/wiki/Special:FilePath/DracoCC.jpg
 short_name: Dra
 dv_SpocWebEntityId: 28116
-dv_#has_:
+dv_has_:
   name_:
     la: Draco
     la_:

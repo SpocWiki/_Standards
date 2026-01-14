@@ -34,7 +34,7 @@ Commons_category: Telescopium (constellation)
 short_name: Tel
 official_name: Telescopium
 dv_SpocWebEntityId: 28161
-dv_#has_:
+dv_has_:
   name_:
     la: Telescopium
     la_:

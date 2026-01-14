@@ -42,7 +42,7 @@ short_name: Sex
 official_name: Sextans
 time_of_discovery_or_invention: 1687-01-01T00:00:00Z
 dv_SpocWebEntityId: 28159
-dv_#has_:
+dv_has_:
   name_:
     la: Sextans
     la_:

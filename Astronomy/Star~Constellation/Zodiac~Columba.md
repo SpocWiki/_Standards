@@ -37,7 +37,7 @@ Commons_category: Columba (constellation)
 short_name: Col
 official_name: Columba
 dv_SpocWebEntityId: 28106
-dv_#has_:
+dv_has_:
   name_:
     la: Columba
     la_:

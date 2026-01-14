@@ -40,7 +40,7 @@ Commons_category: Corona Borealis
 official_name: Corona Borealis
 short_name: CrB
 dv_SpocWebEntityId: 28109
-dv_#has_:
+dv_has_:
   name_:
     la: Corona Borealis
     la_:

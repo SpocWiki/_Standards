@@ -50,7 +50,7 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Serpens%20
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Serpens%20symbol%20%28Moskowitz%2C%20variable%20width%29.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/SerpensCaudaCC.jpg
 dv_SpocWebEntityId: 28158
-dv_#has_:
+dv_has_:
   name_:
     la: Serpens
     la_:

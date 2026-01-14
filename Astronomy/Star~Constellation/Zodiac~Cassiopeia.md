@@ -38,7 +38,7 @@ Commons_category: Cassiopeia (constellation)
 short_name: Cas
 official_name: Cassiopeia
 dv_SpocWebEntityId: 28100
-dv_#has_:
+dv_has_:
   name_:
     la: Cassiopeia
     la_:

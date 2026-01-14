@@ -33,7 +33,7 @@ Commons_category: Lupus (constellation)
 short_name: Lup
 official_name: Lupus
 dv_SpocWebEntityId: 28132
-dv_#has_:
+dv_has_:
   name_:
     la: Lupus
     la_:

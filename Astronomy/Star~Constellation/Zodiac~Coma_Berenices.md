@@ -46,7 +46,7 @@ astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coma
 image: http://commons.wikimedia.org/wiki/Special:FilePath/ComaBerenicesCC.jpg
 short_name: Com
 dv_SpocWebEntityId: 28107
-dv_#has_:
+dv_has_:
   name_:
     la: Coma Berenices
     la_:

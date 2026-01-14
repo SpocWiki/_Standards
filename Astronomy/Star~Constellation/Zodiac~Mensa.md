@@ -35,7 +35,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Constellation%20Mensa.
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Mensa%20constellation%20map.svg
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Mensa%20symbol%20%28Moskowitz%2C%20variable%20width%29.svg
 dv_SpocWebEntityId: 28135
-dv_#has_:
+dv_has_:
   name_:
     la: Mensa
     la_:

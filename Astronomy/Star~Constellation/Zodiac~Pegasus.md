@@ -39,7 +39,7 @@ astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Pega
 image: http://commons.wikimedia.org/wiki/Special:FilePath/PegasusCC.jpg
 short_name: Peg
 dv_SpocWebEntityId: 28144
-dv_#has_:
+dv_has_:
   name_:
     la: Pegasus
     la_:

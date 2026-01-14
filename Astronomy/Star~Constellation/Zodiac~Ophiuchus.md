@@ -54,7 +54,7 @@ astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Ophi
 image: http://commons.wikimedia.org/wiki/Special:FilePath/OphiuchusCC.jpg
 short_name: Oph
 dv_SpocWebEntityId: 28141
-dv_#has_:
+dv_has_:
   name_:
     la: Ophiuchus
     la_:

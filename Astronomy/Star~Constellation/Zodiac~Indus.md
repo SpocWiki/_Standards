@@ -34,7 +34,7 @@ Commons_gallery: Indus (constellation)
 Commons_category: Indus (constellation)
 short_name: Ind
 dv_SpocWebEntityId: 28126
-dv_#has_:
+dv_has_:
   name_:
     la: Indus
     la_:

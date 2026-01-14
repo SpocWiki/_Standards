@@ -41,7 +41,7 @@ Commons_category: Canis Major
 official_name: Canis Major
 short_name: CMa
 dv_SpocWebEntityId: 28096
-dv_#has_:
+dv_has_:
   name_:
     la: Canis Major
     la_:

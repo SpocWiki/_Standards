@@ -37,7 +37,7 @@ Commons_category: Lepus (constellation)
 short_name: Lep
 official_name: Lepus
 dv_SpocWebEntityId: 28130
-dv_#has_:
+dv_has_:
   name_:
     la: Lepus
     la_:
