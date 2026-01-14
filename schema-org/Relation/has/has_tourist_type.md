@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   tourist_type: Audience, Text
   domain: TouristAttraction, TouristDestination, TouristTrip
-dv_has_tourist_type: Audience, Text
-dv_#has_:
   name: is_tourist_type
   range: Audience, Text
+dv_has_tourist_type: Audience, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_tourist_type|has_tourist_type]]"

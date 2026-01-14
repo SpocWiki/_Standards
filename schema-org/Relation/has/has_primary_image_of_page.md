@@ -31,10 +31,9 @@ type: Predi_Relation
 dv_has_:
   primary_image_of_page: ImageObject
   domain: WebPage
-dv_has_primary_image_of_page: ImageObject
-dv_#has_:
   name: is_primary_image_of_page
   range: ImageObject
+dv_has_primary_image_of_page: ImageObject
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_primary_image_of_page|has_primary_image_of_page]]"

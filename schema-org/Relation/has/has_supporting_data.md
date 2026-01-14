@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   supporting_data: DataFeed
   domain: SoftwareApplication
-dv_has_supporting_data: DataFeed
-dv_#has_:
   name: is_supporting_data
   range: DataFeed
+dv_has_supporting_data: DataFeed
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_supporting_data|has_supporting_data]]"

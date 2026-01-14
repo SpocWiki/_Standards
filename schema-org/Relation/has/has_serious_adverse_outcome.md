@@ -30,10 +30,9 @@ type: Predi_Relation
 dv_has_:
   serious_adverse_outcome: MedicalEntity
   domain: MedicalDevice, MedicalTherapy
-dv_has_serious_adverse_outcome: MedicalEntity
-dv_#has_:
   name: is_serious_adverse_outcome
   range: MedicalEntity
+dv_has_serious_adverse_outcome: MedicalEntity
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_serious_adverse_outcome|has_serious_adverse_outcome]]"

@@ -6,10 +6,9 @@ aliases:
 dv_has_:
   Cons: "[[../../Collection]]"
   domain: "[[../../Class|Class]]"
-dv_has_Cons: "[[../../Collection]]"
-dv_#has_:
   name: "[[has_Cons]]"
   range: "[[../../Collection]]"
+dv_has_Cons: "[[../../Collection]]"
 dv_is_:
   inverse_of: is_inhibiting
   same_as:

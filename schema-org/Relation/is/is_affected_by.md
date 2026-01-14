@@ -38,7 +38,6 @@ dv_is_:
 dv_is_affected_by: Drug
 dv_has_:
   domain: MedicalTest
-dv_#has_:
   name: is_affected_by
   range: Drug
 dv_has_domain: MedicalTest

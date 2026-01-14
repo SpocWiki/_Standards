@@ -31,10 +31,9 @@ type: Predi_Relation
 dv_has_:
   special_opening_hours_specification: OpeningHoursSpecification
   domain: Place
-dv_has_special_opening_hours_specification: OpeningHoursSpecification
-dv_#has_:
   name: is_special_opening_hours_specification
   range: OpeningHoursSpecification
+dv_has_special_opening_hours_specification: OpeningHoursSpecification
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_special_opening_hours_specification|has_special_opening_hours_specification]]"

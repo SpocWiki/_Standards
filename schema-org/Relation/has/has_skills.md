@@ -25,10 +25,9 @@ type: Predi_Relation
 dv_has_:
   skills: DefinedTerm, Text
   domain: JobPosting, Occupation
-dv_has_skills: DefinedTerm, Text
-dv_#has_:
   name: is_skills
   range: DefinedTerm, Text
+dv_has_skills: DefinedTerm, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_skills|has_skills]]"

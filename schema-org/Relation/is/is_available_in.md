@@ -37,7 +37,6 @@ dv_is_:
 dv_is_available_in: "[[../../../Earth/Geography/Place/Administrative_Area|Administrative_Area]]" 
 dv_has_:
   domain: "[[../../../bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Strength|Drug_Strength]]"
-dv_#has_:
   name: is_available_in
   range: "[[../../../Earth/Geography/Place/Administrative_Area|Administrative_Area]]" 
 dv_has_domain: "[[../../../bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Strength|Drug_Strength]]"

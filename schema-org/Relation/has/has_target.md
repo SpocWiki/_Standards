@@ -25,10 +25,9 @@ type: Predi_Relation
 dv_has_:
   target: EntryPoint, URL
   domain: Action
-dv_has_target: EntryPoint, URL
-dv_#has_:
   name: is_target
   range: EntryPoint, URL
+dv_has_target: EntryPoint, URL
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_target|has_target]]"

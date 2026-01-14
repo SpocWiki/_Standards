@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   service_operator: Organization
   domain: GovernmentService
-dv_has_service_operator: Organization
-dv_#has_:
   name: is_service_operator
   range: Organization
+dv_has_service_operator: Organization
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_service_operator|has_service_operator]]"

@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   product_supported: Product, Text
   domain: ContactPoint
-dv_has_product_supported: Product, Text
-dv_#has_:
   name: is_product_supported
   range: Product, Text
+dv_has_product_supported: Product, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_product_supported|has_product_supported]]"

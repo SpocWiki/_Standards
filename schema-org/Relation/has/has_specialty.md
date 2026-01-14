@@ -25,10 +25,9 @@ type: Predi_Relation
 dv_has_:
   specialty: Specialty
   domain: WebPage
-dv_has_specialty: Specialty
-dv_#has_:
   name: is_specialty
   range: Specialty
+dv_has_specialty: Specialty
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_specialty|has_specialty]]"

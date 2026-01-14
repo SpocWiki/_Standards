@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   server_status: GameServerStatus
   domain: GameServer
-dv_has_server_status: GameServerStatus
-dv_#has_:
   name: is_server_status
   range: GameServerStatus
+dv_has_server_status: GameServerStatus
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_server_status|has_server_status]]"

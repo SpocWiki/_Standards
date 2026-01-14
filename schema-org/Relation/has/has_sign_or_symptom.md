@@ -30,10 +30,9 @@ type: Predi_Relation
 dv_has_:
   sign_or_symptom: MedicalSignOrSymptom
   domain: MedicalCondition
-dv_has_sign_or_symptom: MedicalSignOrSymptom
-dv_#has_:
   name: is_sign_or_symptom
   range: MedicalSignOrSymptom
+dv_has_sign_or_symptom: MedicalSignOrSymptom
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_sign_or_symptom|has_sign_or_symptom]]"

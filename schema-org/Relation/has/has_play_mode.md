@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   play_mode: GamePlayMode
   domain: VideoGame, VideoGameSeries
-dv_has_play_mode: GamePlayMode
-dv_#has_:
   name: is_play_mode
   range: GamePlayMode
+dv_has_play_mode: GamePlayMode
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_play_mode|has_play_mode]]"

@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   region_drained: AnatomicalStructure, AnatomicalSystem
   domain: LymphaticVessel, Vein
-dv_has_region_drained: AnatomicalStructure, AnatomicalSystem
-dv_#has_:
   name: is_region_drained
   range: AnatomicalStructure, AnatomicalSystem
+dv_has_region_drained: AnatomicalStructure, AnatomicalSystem
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_region_drained|has_region_drained]]"

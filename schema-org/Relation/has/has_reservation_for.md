@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   reservation_for: "[Thing](../../../Class/Thing.md)"
   domain: Reservation
-dv_has_reservation_for: "[Thing](../../../Class/Thing.md)"
-dv_#has_:
   name: is_reservation_for
   range: Thing
+dv_has_reservation_for: "[Thing](../../../Class/Thing.md)"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_reservation_for|has_reservation_for]]"

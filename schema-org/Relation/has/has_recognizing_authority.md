@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   recognizing_authority: Organization
   domain: MedicalEntity
-dv_has_recognizing_authority: Organization
-dv_#has_:
   name: is_recognizing_authority
   range: Organization
+dv_has_recognizing_authority: Organization
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_recognizing_authority|has_recognizing_authority]]"

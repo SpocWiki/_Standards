@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   relevant_specialty: MedicalSpecialty
   domain: MedicalEntity
-dv_has_relevant_specialty: MedicalSpecialty
-dv_#has_:
   name: is_relevant_specialty
   range: MedicalSpecialty
+dv_has_relevant_specialty: MedicalSpecialty
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_relevant_specialty|has_relevant_specialty]]"

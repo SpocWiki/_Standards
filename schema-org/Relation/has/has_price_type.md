@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   price_type: PriceTypeEnumeration, Text
   domain: CompoundPriceSpecification, UnitPriceSpecification
-dv_has_price_type: PriceTypeEnumeration, Text
-dv_#has_:
   name: is_price_type
   range: PriceTypeEnumeration, Text
+dv_has_price_type: PriceTypeEnumeration, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_price_type|has_price_type]]"

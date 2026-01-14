@@ -2,10 +2,9 @@
 dv_has_:
   owner: "[[has_agent|agent]]"
   domain: "[[../../Property|Property]]"
-dv_has_owner: "[[has_agent|agent]]"
-dv_#has_:
   name: "[[has_Owner]]"
   range: "[[../../../Society/Agent|Agent]]"
+dv_has_owner: "[[has_agent|agent]]"
 dv_is_:
   inverse_of: "[[has_own]]"
   same_as:

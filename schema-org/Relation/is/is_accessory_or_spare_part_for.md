@@ -37,7 +37,6 @@ dv_is_:
 dv_is_accessory_or_spare_part_for: Product
 dv_has_:
   domain: Product
-dv_#has_:
   name: is_accessory_or_spare_part_for
   range: Product
 dv_has_domain: Product

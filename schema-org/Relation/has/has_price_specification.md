@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   price_specification: PriceSpecification
   domain: Demand, Offer, TradeAction
-dv_has_price_specification: PriceSpecification
-dv_#has_:
   name: is_price_specification
   range: PriceSpecification
+dv_has_price_specification: PriceSpecification
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_price_specification|has_price_specification]]"

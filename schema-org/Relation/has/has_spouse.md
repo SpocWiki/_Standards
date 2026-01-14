@@ -28,10 +28,9 @@ type: Predi_Relation
 dv_has_:
   spouse: Person
   domain: Person
-dv_has_spouse: Person
-dv_#has_:
   name: has_spouse
   range: Person
+dv_has_spouse: Person
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_spouse|has_spouse]]"

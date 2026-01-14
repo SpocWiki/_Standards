@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   study_design: MedicalObservationalStudyDesign
   domain: MedicalObservationalStudy
-dv_has_study_design: MedicalObservationalStudyDesign
-dv_#has_:
   name: is_study_design
   range: MedicalObservationalStudyDesign
+dv_has_study_design: MedicalObservationalStudyDesign
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_study_design|has_study_design]]"

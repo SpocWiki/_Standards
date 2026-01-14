@@ -25,10 +25,9 @@ type: Predi_Relation
 dv_has_:
   speakable: SpeakableSpecification, URL
   domain: Article, WebPage
-dv_has_speakable: SpeakableSpecification, URL
-dv_#has_:
   name: is_speakable
   range: SpeakableSpecification, URL
+dv_has_speakable: SpeakableSpecification, URL
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_speakable|has_speakable]]"

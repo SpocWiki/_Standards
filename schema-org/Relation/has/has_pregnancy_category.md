@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   pregnancy_category: DrugPregnancyCategory
   domain: Drug
-dv_has_pregnancy_category: DrugPregnancyCategory
-dv_#has_:
   name: is_pregnancy_category
   range: DrugPregnancyCategory
+dv_has_pregnancy_category: DrugPregnancyCategory
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_pregnancy_category|has_pregnancy_category]]"

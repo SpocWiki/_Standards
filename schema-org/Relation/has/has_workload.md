@@ -25,10 +25,9 @@ type: Predi_Relation
 dv_has_:
   workload: Energy, QuantitativeValue
   domain: ExercisePlan
-dv_has_workload: Energy, QuantitativeValue
-dv_#has_:
   name: is_workload
   range: Energy, QuantitativeValue
+dv_has_workload: Energy, QuantitativeValue
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_workload|has_workload]]"

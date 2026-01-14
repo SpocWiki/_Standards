@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   sub_reservation: Reservation
   domain: ReservationPackage
-dv_has_sub_reservation: Reservation
-dv_#has_:
   name: is_sub_reservation
   range: Reservation
+dv_has_sub_reservation: Reservation
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_sub_reservation|has_sub_reservation]]"

@@ -36,7 +36,6 @@ dv_is_:
 dv_is_applying_to_delivery_method: DeliveryMethod
 dv_has_:
   domain: DeliveryChargeSpecification, PaymentChargeSpecification
-dv_#has_:
   name: is_applying_to_delivery_method
   range: DeliveryMethod
 dv_has_domain: DeliveryChargeSpecification, PaymentChargeSpecification

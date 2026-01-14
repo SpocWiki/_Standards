@@ -25,10 +25,9 @@ type: Predi_Relation
 dv_has_:
   trailer: VideoObject
   domain: CreativeWorkSeason, Episode, Movie, MovieSeries, RadioSeries, TVSeries, VideoGame, VideoGameSeries
-dv_has_trailer: VideoObject
-dv_#has_:
   name: is_trailer
   range: VideoObject
+dv_has_trailer: VideoObject
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_trailer|has_trailer]]"

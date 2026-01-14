@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   sub_test: MedicalTest
   domain: MedicalTestPanel
-dv_has_sub_test: MedicalTest
-dv_#has_:
   name: is_sub_test
   range: MedicalTest
+dv_has_sub_test: MedicalTest
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_sub_test|has_sub_test]]"

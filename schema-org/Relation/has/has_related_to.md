@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   related_to: Person
   domain: Person
-dv_has_related_to: Person
-dv_#has_:
   name: is_related_to
   range: Person
+dv_has_related_to: Person
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_related_to|has_related_to]]"

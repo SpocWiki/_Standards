@@ -38,7 +38,6 @@ dv_is_:
 dv_is_acquired_from: Organization, Person
 dv_has_:
   domain: OwnershipInfo
-dv_#has_:
   name: is_acquired_from
   range: Organization, Person
 dv_has_domain: OwnershipInfo

@@ -30,10 +30,9 @@ dv_has_:
   parent_:
     service: BroadcastService
   domain: BroadcastService
-dv_has_parent_service: BroadcastService
-dv_#has_:
   name: has_parent_service
   range: BroadcastService
+dv_has_parent_service: BroadcastService
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_parent_service|has_parent_service]]"

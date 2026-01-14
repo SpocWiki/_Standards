@@ -25,10 +25,9 @@ type: Predi_Relation
 dv_has_:
   quest: "[Thing](../../../Class/Thing.md)"
   domain: Game, VideoGameSeries
-dv_has_quest: "[Thing](../../../Class/Thing.md)"
-dv_#has_:
   name: is_quest
   range: Thing
+dv_has_quest: "[Thing](../../../Class/Thing.md)"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_quest|has_quest]]"

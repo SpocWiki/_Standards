@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   procedure_type: MedicalProcedureType
   domain: MedicalProcedure
-dv_has_procedure_type: MedicalProcedureType
-dv_#has_:
   name: is_procedure_type
   range: MedicalProcedureType
+dv_has_procedure_type: MedicalProcedureType
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_procedure_type|has_procedure_type]]"

@@ -30,10 +30,9 @@ type: Predi_Relation
 dv_has_:
   software_add_on: SoftwareApplication
   domain: SoftwareApplication
-dv_has_software_add_on: SoftwareApplication
-dv_#has_:
   name: is_software_add_on
   range: SoftwareApplication
+dv_has_software_add_on: SoftwareApplication
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_software_add_on|has_software_add_on]]"

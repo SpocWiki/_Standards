@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   sensory_unit: AnatomicalStructure, SuperficialAnatomy
   domain: Nerve
-dv_has_sensory_unit: AnatomicalStructure, SuperficialAnatomy
-dv_#has_:
   name: is_sensory_unit
   range: AnatomicalStructure, SuperficialAnatomy
+dv_has_sensory_unit: AnatomicalStructure, SuperficialAnatomy
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_sensory_unit|has_sensory_unit]]"

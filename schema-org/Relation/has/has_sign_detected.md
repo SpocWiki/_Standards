@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   sign_detected: MedicalSign
   domain: MedicalTest
-dv_has_sign_detected: MedicalSign
-dv_#has_:
   name: is_sign_detected
   range: MedicalSign
+dv_has_sign_detected: MedicalSign
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_sign_detected|has_sign_detected]]"

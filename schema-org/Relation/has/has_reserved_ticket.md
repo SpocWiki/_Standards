@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   reserved_ticket: Ticket
   domain: Reservation
-dv_has_reserved_ticket: Ticket
-dv_#has_:
   name: is_reserved_ticket
   range: Ticket
+dv_has_reserved_ticket: Ticket
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_reserved_ticket|has_reserved_ticket]]"

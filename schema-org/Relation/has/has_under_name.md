@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   under_name: Organization, Person
   domain: Reservation, Ticket
-dv_has_under_name: Organization, Person
-dv_#has_:
   name: is_under_name
   range: Organization, Person
+dv_has_under_name: Organization, Person
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_under_name|has_under_name]]"

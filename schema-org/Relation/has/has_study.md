@@ -25,10 +25,9 @@ type: Predi_Relation
 dv_has_:
   study: MedicalStudy
   domain: MedicalEntity
-dv_has_study: MedicalStudy
-dv_#has_:
   name: is_study
   range: MedicalStudy
+dv_has_study: MedicalStudy
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_study|has_study]]"

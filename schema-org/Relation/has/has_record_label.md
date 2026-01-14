@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   record_label: Organization
   domain: MusicRelease
-dv_has_record_label: Organization
-dv_#has_:
   name: is_record_label
   range: Organization
+dv_has_record_label: Organization
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_record_label|has_record_label]]"

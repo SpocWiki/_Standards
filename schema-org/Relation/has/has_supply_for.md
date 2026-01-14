@@ -31,10 +31,9 @@ type: Predi_Relation
 dv_has_:
   supply_for: AnatomicalStructure
   domain: Artery
-dv_has_supply_for: AnatomicalStructure
-dv_#has_:
   name: is_supply_for
   range: AnatomicalStructure
+dv_has_supply_for: AnatomicalStructure
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_supply_for|has_supply_for]]"

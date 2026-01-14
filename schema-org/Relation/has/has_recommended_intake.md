@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   recommended_intake: RecommendedDoseSchedule
   domain: DietarySupplement
-dv_has_recommended_intake: RecommendedDoseSchedule
-dv_#has_:
   name: is_recommended_intake
   range: RecommendedDoseSchedule
+dv_has_recommended_intake: RecommendedDoseSchedule
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_recommended_intake|has_recommended_intake]]"

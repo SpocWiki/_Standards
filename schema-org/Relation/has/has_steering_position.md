@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   steering_position: SteeringPositionValue
   domain: Vehicle
-dv_has_steering_position: SteeringPositionValue
-dv_#has_:
   name: is_steering_position
   range: SteeringPositionValue
+dv_has_steering_position: SteeringPositionValue
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_steering_position|has_steering_position]]"

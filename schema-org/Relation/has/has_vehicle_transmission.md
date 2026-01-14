@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   vehicle_transmission: QualitativeValue, Text, URL
   domain: Vehicle
-dv_has_vehicle_transmission: QualitativeValue, Text, URL
-dv_#has_:
   name: is_vehicle_transmission
   range: QualitativeValue, Text, URL
+dv_has_vehicle_transmission: QualitativeValue, Text, URL
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_vehicle_transmission|has_vehicle_transmission]]"

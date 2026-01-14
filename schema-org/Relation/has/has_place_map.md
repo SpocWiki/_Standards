@@ -30,10 +30,9 @@ dv_has_:
   place_:
     map: Map, URL
   domain: Place
-dv_has_place_map: Map, URL
-dv_#has_:
   name: has_place_map
   range: Map, URL
+dv_has_place_map: Map, URL
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_place_map|has_place_map]]"

@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   related_therapy: MedicalTherapy
   domain: AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy
-dv_has_related_therapy: MedicalTherapy
-dv_#has_:
   name: is_related_therapy
   range: MedicalTherapy
+dv_has_related_therapy: MedicalTherapy
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_related_therapy|has_related_therapy]]"

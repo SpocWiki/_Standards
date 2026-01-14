@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   secondary_prevention: MedicalTherapy
   domain: MedicalCondition
-dv_has_secondary_prevention: MedicalTherapy
-dv_#has_:
   name: is_secondary_prevention
   range: MedicalTherapy
+dv_has_secondary_prevention: MedicalTherapy
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_secondary_prevention|has_secondary_prevention]]"

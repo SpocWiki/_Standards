@@ -30,10 +30,9 @@ dv_has_:
   parent_:
     item: Comment
   domain: Comment
-dv_has_parent_item: Comment
-dv_#has_:
   name: has_parent_item
   range: Comment
+dv_has_parent_item: Comment
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_parent_item|has_parent_item]]"

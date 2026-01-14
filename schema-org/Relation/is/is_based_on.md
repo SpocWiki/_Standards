@@ -39,7 +39,6 @@ dv_is_:
 dv_is_based_on: CreativeWork, Product, URL
 dv_has_:
   domain: CreativeWork
-dv_#has_:
   name: is_based_on
   range: CreativeWork, Product, URL
 dv_has_domain: CreativeWork

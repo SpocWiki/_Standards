@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   released_event: PublicationEvent
   domain: CreativeWork
-dv_has_released_event: PublicationEvent
-dv_#has_:
   name: is_released_event
   range: PublicationEvent
+dv_has_released_event: PublicationEvent
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_released_event|has_released_event]]"

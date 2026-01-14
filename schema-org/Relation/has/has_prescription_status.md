@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   prescription_status: DrugPrescriptionStatus, Text
   domain: Drug
-dv_has_prescription_status: DrugPrescriptionStatus, Text
-dv_#has_:
   name: is_prescription_status
   range: DrugPrescriptionStatus, Text
+dv_has_prescription_status: DrugPrescriptionStatus, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_prescription_status|has_prescription_status]]"

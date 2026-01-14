@@ -40,7 +40,6 @@ dv_is_:
 dv_is_non_equal: "[[../../../Class/is_a_/intangible/enumeration/qualitative_value|Qualitative Value]]"
 dv_has_:
   domain: QualitativeValue
-dv_#has_:
   name: is_non_equal
   range: QualitativeValue
 dv_has_domain: QualitativeValue

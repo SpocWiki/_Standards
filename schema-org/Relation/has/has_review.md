@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   review: "[[../../../Society/Communication/Media/Creative_Work/Review|Review]]"
   domain: "[ [[../../Class/is_a_/Intangible/brand|Brand]], [[../../../Society/Communication/Media/Creative_Work|CreativeWork]], [[../../Class/is_a_/event|Event]], [[../../../Society/Agent/Community/Organization/Business/Offer|Offer]], [[../../../Society/Agent/Community/Organization|Organization]], [[../../../Earth/Geography/Place|Place]], [[../../../Society/Agent/Community/Organization/Business/Product|Product]], [[../../../Society/Agent/Community/Organization/Business/Service|Service]] ]"
-dv_has_review: "[[../../Class/is_a_/creative_work/review|Review]]"
-dv_#has_:
   name: has_review
   range: "[[../../../Society/Communication/Media/Creative_Work/Review|Review]]"
+dv_has_review: "[[../../Class/is_a_/creative_work/review|Review]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_review|has_review]]"

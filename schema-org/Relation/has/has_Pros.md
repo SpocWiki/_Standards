@@ -7,10 +7,9 @@ dv_has_:
   Pros: "[[../../Collection]]"
   domain: "[[../../Class|Class]]"
   complement: "[[has_Cons]]"
-dv_has_Pros: "[[../../Collection]]"
-dv_#has_:
   name: "[[has_Pros]]"
   range: "[[../../Collection]]"
+dv_has_Pros: "[[../../Collection]]"
 dv_is_:
   inverse_of: is_facilitating
   same_as:

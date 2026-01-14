@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   study_location: AdministrativeArea
   domain: MedicalStudy
-dv_has_study_location: AdministrativeArea
-dv_#has_:
   name: is_study_location
   range: AdministrativeArea
+dv_has_study_location: AdministrativeArea
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_study_location|has_study_location]]"

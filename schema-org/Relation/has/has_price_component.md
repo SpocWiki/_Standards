@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   price_component: UnitPriceSpecification
   domain: CompoundPriceSpecification
-dv_has_price_component: UnitPriceSpecification
-dv_#has_:
   name: is_price_component
   range: UnitPriceSpecification
+dv_has_price_component: UnitPriceSpecification
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_price_component|has_price_component]]"

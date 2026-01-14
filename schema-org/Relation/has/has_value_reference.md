@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   value_reference: DefinedTerm, Enumeration, MeasurementTypeEnumeration, PropertyValue, QualitativeValue, QuantitativeValue, StructuredValue, Text
   domain: PropertyValue, QualitativeValue, QuantitativeValue
-dv_has_value_reference: DefinedTerm, Enumeration, MeasurementTypeEnumeration, PropertyValue, QualitativeValue, QuantitativeValue, StructuredValue, Text
-dv_#has_:
   name: is_value_reference
   range: DefinedTerm, Enumeration, MeasurementTypeEnumeration, PropertyValue, QualitativeValue, QuantitativeValue, StructuredValue, Text
+dv_has_value_reference: DefinedTerm, Enumeration, MeasurementTypeEnumeration, PropertyValue, QualitativeValue, QuantitativeValue, StructuredValue, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_value_reference|has_value_reference]]"

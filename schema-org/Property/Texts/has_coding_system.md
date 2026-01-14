@@ -31,10 +31,9 @@ dv_has_:
   text_of_:
     coding_system: Text
   domain: MedicalCode
-dv_has_text_of_coding_system: Text
-dv_#has_:
   name: has_text_of_coding_system
   range: Text
+dv_has_text_of_coding_system: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_coding_system|has_coding_system]]"

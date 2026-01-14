@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   payment_status: PaymentStatusType, Text
   domain: Invoice
-dv_has_payment_status: PaymentStatusType, Text
-dv_#has_:
   name: has_payment_status
   range: PaymentStatusType, Text
+dv_has_payment_status: PaymentStatusType, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_payment_status|has_payment_status]]"

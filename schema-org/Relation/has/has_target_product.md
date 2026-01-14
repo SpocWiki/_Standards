@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   target_product: SoftwareApplication
   domain: SoftwareSourceCode
-dv_has_target_product: SoftwareApplication
-dv_#has_:
   name: is_target_product
   range: SoftwareApplication
+dv_has_target_product: SoftwareApplication
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_target_product|has_target_product]]"

@@ -29,6 +29,8 @@ type: Predi_Relation
 dv_has_:
   taxon_rank: PropertyValue, Text, URL
   domain: "[[../../../bio/Taxon_Rank/Taxon|Taxon]]"
+  name: has_taxon_rank
+  range: "[[../../../bio/Taxon_Rank|Taxon_Rank]]"
 dv_has_taxon_rank: PropertyValue, Text, URL
 dv_is_:
   part_of: "pending:"
@@ -40,9 +42,6 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_taxon_rank.private|has_taxon_rank.private]]"
     - "[[/_personal/schema-org/Relation/has/has_taxon_rank.personal|has_taxon_rank.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_taxon_rank.secret|has_taxon_rank.secret]]"
-dv_#has_:
-  name: has_taxon_rank
-  range: "[[../../../bio/Taxon_Rank|Taxon_Rank]]"
 dv_is_part_of: "pending:"
 dv_has_domain: "[[../../../bio/Taxon_Rank/Taxon|Taxon]]"
 dv_has_name: has_taxon_rank

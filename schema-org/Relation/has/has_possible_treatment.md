@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   possible_treatment: MedicalTherapy
   domain: MedicalCondition, MedicalSignOrSymptom
-dv_has_possible_treatment: MedicalTherapy
-dv_#has_:
   name: is_possible_treatment
   range: MedicalTherapy
+dv_has_possible_treatment: MedicalTherapy
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_possible_treatment|has_possible_treatment]]"

@@ -26,10 +26,9 @@ type: Predi_Relation
 dv_has_:
   track: ItemList, MusicRecording
   domain: MusicGroup, MusicPlaylist
-dv_has_track: ItemList, MusicRecording
-dv_#has_:
   name: is_track
   range: ItemList, MusicRecording
+dv_has_track: ItemList, MusicRecording
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_track|has_track]]"

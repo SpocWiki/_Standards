@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   permission_type: DigitalDocumentPermissionType
   domain: DigitalDocumentPermission
-dv_has_permission_type: DigitalDocumentPermissionType
-dv_#has_:
   name: is_permission_type
   range: DigitalDocumentPermissionType
+dv_has_permission_type: DigitalDocumentPermissionType
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_permission_type|has_permission_type]]"

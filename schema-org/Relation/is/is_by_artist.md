@@ -39,7 +39,6 @@ dv_is_:
 dv_is_by_artist: MusicGroup, Person
 dv_has_:
   domain: MusicAlbum, MusicRecording
-dv_#has_:
   name: is_by_artist
   range: MusicGroup, Person
 dv_has_domain: MusicAlbum, MusicRecording

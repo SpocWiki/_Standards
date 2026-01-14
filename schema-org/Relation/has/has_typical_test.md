@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   typical_test: MedicalTest
   domain: MedicalCondition
-dv_has_typical_test: MedicalTest
-dv_#has_:
   name: is_typical_test
   range: MedicalTest
+dv_has_typical_test: MedicalTest
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_typical_test|has_typical_test]]"

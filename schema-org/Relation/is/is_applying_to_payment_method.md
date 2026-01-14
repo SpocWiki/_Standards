@@ -36,7 +36,6 @@ dv_is_:
 dv_is_applying_to_payment_method: PaymentMethod
 dv_has_:
   domain: PaymentChargeSpecification
-dv_#has_:
   name: is_applying_to_payment_method
   range: PaymentMethod
 dv_has_domain: PaymentChargeSpecification

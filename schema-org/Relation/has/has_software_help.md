@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   software_help: CreativeWork
   domain: SoftwareApplication
-dv_has_software_help: CreativeWork
-dv_#has_:
   name: is_software_help
   range: CreativeWork
+dv_has_software_help: CreativeWork
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_software_help|has_software_help]]"

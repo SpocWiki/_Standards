@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   ticketed_seat: Seat
   domain: Ticket
-dv_has_ticketed_seat: Seat
-dv_#has_:
   name: is_ticketed_seat
   range: Seat
+dv_has_ticketed_seat: Seat
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_ticketed_seat|has_ticketed_seat]]"

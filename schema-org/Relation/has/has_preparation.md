@@ -25,10 +25,9 @@ type: Predi_Relation
 dv_has_:
   preparation: MedicalEntity, Text
   domain: MedicalProcedure
-dv_has_preparation: MedicalEntity, Text
-dv_#has_:
   name: is_preparation
   range: MedicalEntity, Text
+dv_has_preparation: MedicalEntity, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_preparation|has_preparation]]"

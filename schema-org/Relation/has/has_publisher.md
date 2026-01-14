@@ -28,10 +28,9 @@ type: Predi_Relation
 dv_has_:
   publisher: Organization, Person
   domain: CreativeWork
-dv_has_publisher: Organization, Person
-dv_#has_:
   name: is_publisher
   range: Organization, Person
+dv_has_publisher: Organization, Person
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_publisher|has_publisher]]"

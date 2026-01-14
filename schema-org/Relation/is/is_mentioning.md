@@ -38,7 +38,6 @@ dv_is_:
 dv_is_mentioning: "[[../../Class/is_a_|Thing]]"
 dv_has_:
   domain: "[[../../../Class/is_a_/creative_work]]"
-dv_#has_:
   name: is_mentioning
   range: "[[../../Class/Thing|thing]]"
 dv_has_domain: "[[../../../Class/is_a_/creative_work]]"

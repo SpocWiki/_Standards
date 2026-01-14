@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   service_type: GovernmentBenefitsType, Text
   domain: Service
-dv_has_service_type: GovernmentBenefitsType, Text
-dv_#has_:
   name: is_service_type
   range: GovernmentBenefitsType, Text
+dv_has_service_type: GovernmentBenefitsType, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_service_type|has_service_type]]"

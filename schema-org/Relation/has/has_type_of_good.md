@@ -30,10 +30,9 @@ type: Predi_Relation
 dv_has_:
   type_of_good: Product, Service
   domain: OwnershipInfo, TypeAndQuantityNode
-dv_has_type_of_good: Product, Service
-dv_#has_:
   name: is_type_of_good
   range: Product, Service
+dv_has_type_of_good: Product, Service
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_type_of_good|has_type_of_good]]"

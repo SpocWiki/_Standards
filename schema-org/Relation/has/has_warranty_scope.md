@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   warranty_scope: WarrantyScope
   domain: WarrantyPromise
-dv_has_warranty_scope: WarrantyScope
-dv_#has_:
   name: is_warranty_scope
   range: WarrantyScope
+dv_has_warranty_scope: WarrantyScope
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_warranty_scope|has_warranty_scope]]"

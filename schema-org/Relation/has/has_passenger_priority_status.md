@@ -30,10 +30,9 @@ type: Predi_Relation
 dv_has_:
   passenger_priority_status: QualitativeValue, Text
   domain: FlightReservation
-dv_has_passenger_priority_status: QualitativeValue, Text
-dv_#has_:
   name: has_passenger_priority_status
   range: QualitativeValue, Text
+dv_has_passenger_priority_status: QualitativeValue, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_passenger_priority_status|has_passenger_priority_status]]"

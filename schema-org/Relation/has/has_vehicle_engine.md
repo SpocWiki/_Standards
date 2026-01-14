@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   vehicle_engine: EngineSpecification
   domain: Vehicle
-dv_has_vehicle_engine: EngineSpecification
-dv_#has_:
   name: is_vehicle_engine
   range: EngineSpecification
+dv_has_vehicle_engine: EngineSpecification
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_vehicle_engine|has_vehicle_engine]]"

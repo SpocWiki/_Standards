@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   production_company: Organization
   domain: CreativeWorkSeason, Episode, MediaObject, Movie, MovieSeries, RadioSeries, TVSeries, VideoGameSeries
-dv_has_production_company: Organization
-dv_#has_:
   name: is_production_company
   range: Organization
+dv_has_production_company: Organization
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_production_company|has_production_company]]"

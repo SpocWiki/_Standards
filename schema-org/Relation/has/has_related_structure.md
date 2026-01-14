@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   related_structure: AnatomicalStructure
   domain: AnatomicalSystem
-dv_has_related_structure: AnatomicalStructure
-dv_#has_:
   name: is_related_structure
   range: AnatomicalStructure
+dv_has_related_structure: AnatomicalStructure
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_related_structure|has_related_structure]]"

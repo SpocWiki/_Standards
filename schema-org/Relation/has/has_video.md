@@ -25,10 +25,9 @@ type: Predi_Relation
 dv_has_:
   video: Clip, VideoObject
   domain: CreativeWork
-dv_has_video: Clip, VideoObject
-dv_#has_:
   name: is_video
   range: Clip, VideoObject
+dv_has_video: Clip, VideoObject
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_video|has_video]]"

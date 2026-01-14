@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   permit_audience: Audience
   domain: Permit
-dv_has_permit_audience: Audience
-dv_#has_:
   name: is_permit_audience
   range: Audience
+dv_has_permit_audience: Audience
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_permit_audience|has_permit_audience]]"

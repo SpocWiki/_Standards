@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   potential_action: Action
   domain: "[Thing](../../../Class/Thing.md)"
-dv_has_potential_action: Action
-dv_#has_:
   name: is_potential_action
   range: Action
+dv_has_potential_action: Action
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_potential_action|has_potential_action]]"

@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   relevant_occupation: Occupation
   domain: JobPosting
-dv_has_relevant_occupation: Occupation
-dv_#has_:
   name: is_relevant_occupation
   range: Occupation
+dv_has_relevant_occupation: Occupation
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_relevant_occupation|has_relevant_occupation]]"

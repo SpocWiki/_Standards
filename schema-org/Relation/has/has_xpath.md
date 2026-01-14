@@ -25,10 +25,9 @@ type: Predi_Relation
 dv_has_:
   xpath: XPathType
   domain: SpeakableSpecification, WebPageElement
-dv_has_xpath: XPathType
-dv_#has_:
   name: is_xpath
   range: XPathType
+dv_has_xpath: XPathType
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_xpath|has_xpath]]"

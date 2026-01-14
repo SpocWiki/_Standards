@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   trial_design: MedicalTrialDesign
   domain: MedicalTrial
-dv_has_trial_design: MedicalTrialDesign
-dv_#has_:
   name: is_trial_design
   range: MedicalTrialDesign
+dv_has_trial_design: MedicalTrialDesign
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_trial_design|has_trial_design]]"

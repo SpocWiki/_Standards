@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   works_for: Organization
   domain: Person
-dv_has_works_for: Organization
-dv_#has_:
   name: is_works_for
   range: Organization
+dv_has_works_for: Organization
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_works_for|has_works_for]]"

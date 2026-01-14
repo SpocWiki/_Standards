@@ -25,10 +25,9 @@ type: Predi_Relation
 dv_has_:
   screenshot: ImageObject, URL
   domain: SoftwareApplication
-dv_has_screenshot: ImageObject, URL
-dv_#has_:
   name: is_screenshot
   range: ImageObject, URL
+dv_has_screenshot: ImageObject, URL
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_screenshot|has_screenshot]]"

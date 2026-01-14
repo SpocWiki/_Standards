@@ -30,10 +30,9 @@ type: Predi_Relation
 dv_has_:
   type_of_bed: BedType, Text
   domain: BedDetails
-dv_has_type_of_bed: BedType, Text
-dv_#has_:
   name: is_type_of_bed
   range: BedType, Text
+dv_has_type_of_bed: BedType, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_type_of_bed|has_type_of_bed]]"

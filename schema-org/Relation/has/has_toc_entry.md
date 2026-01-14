@@ -29,6 +29,8 @@ type: Predi_Relation
 dv_has_:
   toc_entry: "[[../../../Society/Communication/Media/Creative_Work/Hyper_Toc_Entry|HyperTocEntry]]"
   domain: "[[../../../Society/Communication/Media/Creative_Work/Hyper_Toc|HyperToc]]"
+  name: is_toc_entry
+  range: "[[../../../Society/Communication/Media/Creative_Work/Hyper_Toc_Entry|HyperTocEntry]]"
 dv_has_toc_entry: "[[../../Class/is_a_/creative_work/hyper_toc_entry|HyperTocEntry]]"
 dv_is_:
   part_of: "pending:"
@@ -41,9 +43,6 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_toc_entry.private|has_toc_entry.private]]"
     - "[[/_personal/schema-org/Relation/has/has_toc_entry.personal|has_toc_entry.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_toc_entry.secret|has_toc_entry.secret]]"
-dv_#has_:
-  name: is_toc_entry
-  range: "[[../../../Society/Communication/Media/Creative_Work/Hyper_Toc_Entry|HyperTocEntry]]"
 dv_is_part_of: "pending:"
 dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Hyper_Toc|HyperToc]]"
 dv_has_name: is_toc_entry

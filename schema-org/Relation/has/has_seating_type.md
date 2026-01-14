@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   seating_type: QualitativeValue, Text
   domain: Seat
-dv_has_seating_type: QualitativeValue, Text
-dv_#has_:
   name: is_seating_type
   range: QualitativeValue, Text
+dv_has_seating_type: QualitativeValue, Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_seating_type|has_seating_type]]"

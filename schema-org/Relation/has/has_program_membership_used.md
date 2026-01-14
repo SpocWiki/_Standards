@@ -30,10 +30,9 @@ type: Predi_Relation
 dv_has_:
   program_membership_used: ProgramMembership
   domain: Reservation
-dv_has_program_membership_used: ProgramMembership
-dv_#has_:
   name: is_program_membership_used
   range: ProgramMembership
+dv_has_program_membership_used: ProgramMembership
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_program_membership_used|has_program_membership_used]]"

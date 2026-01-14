@@ -29,10 +29,9 @@ type: Predi_Relation
 dv_has_:
   service_phone: ContactPoint
   domain: ServiceChannel
-dv_has_service_phone: ContactPoint
-dv_#has_:
   name: is_service_phone
   range: ContactPoint
+dv_has_service_phone: ContactPoint
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_service_phone|has_service_phone]]"

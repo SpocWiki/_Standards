@@ -25,10 +25,9 @@ type: Predi_Relation
 dv_has_:
   tributary: AnatomicalStructure
   domain: Vein
-dv_has_tributary: AnatomicalStructure
-dv_#has_:
   name: is_tributary
   range: AnatomicalStructure
+dv_has_tributary: AnatomicalStructure
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_tributary|has_tributary]]"
