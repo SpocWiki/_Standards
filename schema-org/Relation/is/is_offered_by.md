@@ -41,7 +41,7 @@ Relation describes that:
 (has_/name :: is_offered_by )
 (has_/range :: Organization, Person )
 
-#is_/inverse_of  :: [[../is/is_making_offer|makesOffer]]  
+#has_/inverse  :: [[../is/is_making_offer|makesOffer]]  
 
 ## Confidential Links & Embeds: 
 

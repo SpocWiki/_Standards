@@ -13,7 +13,7 @@ dv_is_:
     - "[[/_private/schema-org/Relation/is_used_by.private|is_used_by.private]]"
     - "[[/_personal/schema-org/Relation/is_used_by.personal|is_used_by.personal]]"
     - "[[/_secret/schema-org/Relation/is_used_by.secret|is_used_by.secret]]"
-dv_is_inverse_of: "#is_/using"
+dv_has_inverse: "#is_/using"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/is_used_by|is_used_by]]"
   - "[[/_public/schema-org/Relation/is_used_by.public|is_used_by.public]]"
@@ -31,7 +31,7 @@ Tag Instances like this:
 #is_/used_by 
 
 
-is_inverse_of = `=this.dv_is_inverse_of` 
+has_inverse = `=this.dv_has_inverse` 
 
 Vocabularies defining similar Relations: 
  

@@ -45,7 +45,7 @@ Relation describes that:
 (has_/name :: is_comprised_of )
 (has_/range :: AnatomicalStructure, AnatomicalSystem )
 
-#is_/inverse_of  :: [[../../Composite/is_part_of]]  
+#has_/inverse  :: [[../../Composite/is_part_of]]  
 
 ## Confidential Links & Embeds: 
 

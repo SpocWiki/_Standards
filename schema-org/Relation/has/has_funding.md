@@ -39,7 +39,7 @@ Relation describes that:
 (has_/name :: has_funding )
 (has_/range :: Grant )
 
-#is_/inverse_of  :: [[is_funding_item]]  
+#has_/inverse  :: [[is_funding_item]]  
 
 ## Confidential Links & Embeds: 
 

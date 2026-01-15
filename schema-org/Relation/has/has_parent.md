@@ -45,7 +45,7 @@ Relation describes that:
 (has_/range :: Person )
 
 #is_/sub_relation_of :: [[has_creator]] 
-#is_/inverse_of :: [[has_children]] 
+#has_/inverse :: [[has_children]] 
 #is_/same_as :: [[WD~P40]]
 
 

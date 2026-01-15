@@ -34,7 +34,7 @@ Use it like this:
 
 An entity represented by an entry in a list or data feed (e.g. an 'artist' in a list of 'artists').
 
-#is_/inverse_of :: [[is_item_in]] 
+#has_/inverse :: [[is_item_in]] 
 
 Relation describes that: 
 

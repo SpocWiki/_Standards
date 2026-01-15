@@ -24,18 +24,22 @@ title: has_destroyer
 type: Predi_Relation
 ---
 
+[[has_creator]] 
+
+#has_/complement 
+#has_/complement 
+
 Use it like this: 
-- #has_/destroyer :: Organization, Person  
-- [ has_destroyer :: Organization, Person ] 
+- #has_/destroyer :: "[[../../../Society/Agent/Community/Organization|Organization]]", "[[../../../Society/Agent/Person|Person]]"  
+- has_destroyer :: "[[../../../Society/Agent/Community/Organization|Organization]]", "[[../../../Society/Agent/Person|Person]]"   
 
 The destroyer/author of this CreativeWork. This is the same as the Author property for CreativeWork.
 
 Relation describes that: 
 
-#has_/domain  :: CreativeWork, UserComments  
-
-(has_/name :: has_destroyer )
-(has_/range :: Organization, Person )
+#has_/domain  :: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]", "[[../../Class/is_a_/Event/User_Interaction/User_Comments|User_Comments]]"  
+(has_/name :: "[[has_destroyer]]" )
+(has_/range :: "[[../../../Society/Agent/Community/Organization|Organization]]", "[[../../../Society/Agent/Person|Person]]" )
 
 #has_/sub_properties :: [ [[../is/is_legislation_passed_by|is_legislation_passed_by]] , [[has_founder]] ]  
 

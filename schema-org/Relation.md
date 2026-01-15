@@ -55,9 +55,9 @@ dv_is_same_as:
 A Relation is a Set of Tuples with the same [[Arity]] (Pairs in the simplest case). 
 A binary Relation {sRo} has the Subject/Key and the Object/Value 
 which can come from different Sets. 
-A binary Relation RI #is_/inverse_of  R, 
+A binary Relation RI #has_/inverse  R, 
 with all the Pairs of R but with Subject and Object Position switched: {oRIs}
-A binary Relation #is_/complement_of  R, 
+A binary Relation #has_/complement  R, 
 with all the Pairs from the Cross Product of S and O minus the of A 
 but with Subject and Object Position switched. 
 

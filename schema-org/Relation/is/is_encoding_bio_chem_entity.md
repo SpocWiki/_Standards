@@ -41,7 +41,7 @@ Relation describes that:
 (has_/name :: is_encoding_bio_chem_entity)
 (has_/range :: BioChemEntity)
 
-#is_/inverse_of  :: isEncodedByBioChemEntity 
+#has_/inverse  :: isEncodedByBioChemEntity 
 
 ## Confidential Links & Embeds: 
 

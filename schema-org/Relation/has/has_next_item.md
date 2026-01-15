@@ -43,7 +43,7 @@ This Relation describes that:
 (has_/name :: has_next_item )
 (has_/range :: ListItem )
 
-#is_/inverse_of :: [[has_previous_item]] 
+#has_/inverse :: [[has_previous_item]] 
 
 
 ## Confidential Links & Embeds: 

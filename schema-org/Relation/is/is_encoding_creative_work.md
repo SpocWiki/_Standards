@@ -39,7 +39,7 @@ Relation describes that:
 (has_/name :: is_encoding_creative_work)
 (has_/range :: CreativeWork)
 
-#is_/inverse_of  :: [[../has/has_encoding]]  
+#has_/inverse  :: [[../has/has_encoding]]  
 
 ## Confidential Links & Embeds: 
 

@@ -31,19 +31,18 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- #has_/parent_/taxon :: Taxon, Text, URL  
-- [ has_parent_taxon :: Taxon, Text, URL ] 
+- #has_/parent_/taxon :: "[[../../../bio/Taxon_Rank/Taxon|Taxon]]", Text, URL  
+- has_parent_taxon :: "[[../../../bio/Taxon_Rank/Taxon|Taxon]]", Text, URL  
 
 Closest parent taxon of the taxon in question.
 
 Relation describes that: 
 
-#has_/domain  :: Taxon  
+#has_/domain  :: "[[../../../bio/Taxon_Rank/Taxon|Taxon]]"  
+(has_/name :: [[has_parent_Taxon]] )
+(has_/range :: "[[../../../bio/Taxon_Rank/Taxon|Taxon]]", Text, URL )
 
-(has_/name :: has_parent_taxon )
-(has_/range :: Taxon, Text, URL )
-
-#is_/inverse_of  :: childTaxon  
+#has_/inverse  :: "[[has_child_taxon|has_child_taxon]]"  
 
 ## Confidential Links & Embeds: 
 

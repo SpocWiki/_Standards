@@ -41,7 +41,7 @@ Relation describes that:
 (has_/name :: is_holding_archive)
 (has_/range :: ArchiveOrganization)
 
-#is_/inverse_of  :: archiveHeld 
+#has_/inverse  :: archiveHeld 
 
 ## Confidential Links & Embeds: 
 

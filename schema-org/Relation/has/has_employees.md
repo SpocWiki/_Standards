@@ -46,7 +46,7 @@ dv_is_:
 dv_has_domain: "[[../../../Society/Agent/Community/Organization]]"
 dv_has_name: has_employees
 dv_has_range: "[[../../../Society/Agent/Person]]"
-dv_is_inverse_of: "[[has_employer]]"
+dv_has_inverse: "[[has_employer]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_employees|has_employees]]"
   - "[[/_public/schema-org/Relation/has/has_employees.public|has_employees.public]]"
@@ -71,7 +71,7 @@ has_domain = `=this.dv_has_domain`
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 
-is_inverse_of = `=this.dv_is_inverse_of` 
+has_inverse = `=this.dv_has_inverse` 
 
 
 ## Confidential Links & Embeds: 

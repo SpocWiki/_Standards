@@ -43,7 +43,7 @@ Relation describes that:
 (has_/name :: is_work_translation )
 (has_/range :: CreativeWork )
 
-#is_/inverse_of  :: translationOfWork  
+#has_/inverse  :: translationOfWork  
 
 ## Confidential Links & Embeds: 
 

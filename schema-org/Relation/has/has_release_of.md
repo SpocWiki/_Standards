@@ -41,7 +41,7 @@ Relation describes that:
 (has_/name :: is_release_of )
 (has_/range :: MusicAlbum )
 
-#is_/inverse_of  :: albumRelease  
+#has_/inverse  :: albumRelease  
 
 ## Confidential Links & Embeds: 
 

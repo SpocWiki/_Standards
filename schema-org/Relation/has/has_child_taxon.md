@@ -3,12 +3,13 @@ aliases:
   - has child-taxon
   - has_child_taxon
   - has child taxon
+  - childTaxon
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,11 +17,11 @@ keywords:
   - taxon
   - child_taxon
   - childTaxon
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_child_taxon
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
@@ -29,21 +30,19 @@ type: Predi_Relation
 ---
 
 #is_/part_of :: pending:  
+#has_/inverse  :: "[[has_parent_taxon|has_parent_taxon]]"  
 
 Use it like this: 
-- #has_/child_taxon :: Taxon, Text, URL  
-- [ has_child_taxon :: Taxon, Text, URL ] 
+- #has_/child_/taxon :: "[[../../../bio/Taxon_Rank/Taxon|Taxon]]", Text, URL  
+- has_child_taxon :: "[[../../../bio/Taxon_Rank/Taxon|Taxon]]", Text, URL 
 
 Closest child taxa of the taxon in question.
 
 Relation describes that: 
 
-#has_/domain  :: Taxon  
-
+#has_/domain  :: "[[../../../bio/Taxon_Rank/Taxon|Taxon]]"  
 (has_/name :: has_child_taxon )
-(has_/range :: Taxon, Text, URL )
-
-#is_/inverse_of  :: parentTaxon  
+(has_/range :: [ "[[../../../bio/Taxon_Rank/Taxon|Taxon]]", Text, URL ] )
 
 ## Confidential Links & Embeds: 
 

@@ -41,7 +41,7 @@ Relation describes that:
 (has_/name :: is_recorded_in )
 (has_/range :: CreativeWork )
 
-#is_/inverse_of  :: recordedAt  
+#has_/inverse  :: recordedAt  
 
 ## Confidential Links & Embeds: 
 

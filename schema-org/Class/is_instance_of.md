@@ -51,7 +51,7 @@ Unlike the untyped, finite [[../Collection/is_item_in|is_element_of]] Relation,
 or the typed, finite [[../Composite/is_part_of|is_part_of]] Relation 
 this is an infinite, typed Relation. 
 
-#is_/inverse_of :: [[has_instances]] 
+#has_/inverse :: [[has_instances]] 
 
 Verbs: 
 - rdf:type for XML-RDF

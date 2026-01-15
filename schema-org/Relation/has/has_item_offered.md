@@ -41,7 +41,7 @@ Relation describes that:
 (has_/name :: has_item_offered )
 (has_/range :: AggregateOffer, CreativeWork, Event, MenuItem, Product, Service, Trip )
 
-#is_/inverse_of  :: offers  
+#has_/inverse  :: offers  
 
 ## Confidential Links & Embeds: 
 

@@ -22,7 +22,7 @@ dv_is_:
 dv_has_domain: "[[../../Class|Class]]"
 dv_has_name: "[[has_Cons]]"
 dv_has_range: "[[../../Collection]]"
-dv_is_inverse_of: is_inhibiting
+dv_has_inverse: is_inhibiting
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_Cons|has_Cons]]"
   - "[[/_public/schema-org/Relation/has/has_Cons.public|has_Cons.public]]"
@@ -52,7 +52,7 @@ has_domain = `=this.dv_has_domain`
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 
-is_inverse_of = `=this.dv_is_inverse_of` 
+has_inverse = `=this.dv_has_inverse` 
 
 The Name is derived from the [[../../../../Knowledge/Languages/Natural~Languages/Latin|Latin]] word 
 'contra'. 

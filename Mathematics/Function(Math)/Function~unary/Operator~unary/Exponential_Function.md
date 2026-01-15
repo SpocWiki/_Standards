@@ -25,7 +25,7 @@ Commons_category: Exponential functions
 
 # [[Exponential_Function]] 
 
-#is_/inverse_of :: [[Natural_Logarithm]] 
+#has_/inverse :: [[Natural_Logarithm]] 
 #is_/instance_of :: [[../../Function~binary/Operator~binary/Exponentiation|Exponentiation]]  
 #is_/same_as :: [[../../../../WikiData/WD~Exponential_function,168698|WD~Exponential_function,168698]] 
 

@@ -45,7 +45,7 @@ dv_is_:
 dv_has_domain: "[[../Class]]"
 dv_has_name: has_instances
 dv_has_range: "[[Thing]]"
-dv_is_inverse_of: "[[is_instance_of]]"
+dv_has_inverse: "[[is_instance_of]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/has_instances|has_instances]]"
   - "[[/_public/schema-org/Class/has_instances.public|has_instances.public]]"
@@ -73,7 +73,7 @@ has_range = `=this.dv_has_range`
 
 But typically it is a typed [[../Collection/item_list|Item_list]] with Instances. 
 
-is_inverse_of = `=this.dv_is_inverse_of` 
+has_inverse = `=this.dv_has_inverse` 
 
 
 ## Confidential Links & Embeds: 

@@ -39,7 +39,7 @@ Relation describes that:
 (has_/name :: is_variant_of)
 (has_/range :: ProductGroup, ProductModel)
 
-#is_/inverse_of  :: hasVariant 
+#has_/inverse  :: hasVariant 
 
 ## Confidential Links & Embeds: 
 

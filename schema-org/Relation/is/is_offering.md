@@ -51,7 +51,7 @@ Relation describes that:
 (has_/name :: is_offering )
 (has_/range :: Demand, Offer )
 
-#is_/inverse_of  :: itemOffered  
+#has_/inverse  :: itemOffered  
 
 ## Confidential Links & Embeds: 
 

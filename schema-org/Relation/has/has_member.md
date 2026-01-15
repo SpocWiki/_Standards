@@ -43,7 +43,7 @@ Relation describes that:
 (has_/name :: is_member )
 (has_/range :: Organization, Person )
 
-#is_/inverse_of  :: [[../is/is_member_of]]  
+#has_/inverse  :: [[../is/is_member_of]]  
 
 ## Confidential Links & Embeds: 
 

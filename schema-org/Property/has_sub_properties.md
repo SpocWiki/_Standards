@@ -42,7 +42,7 @@ dv_is_:
 dv_has_domain: "[[../Property]]"
 dv_has_name: has_sub_properties
 dv_has_range: "[[../Property]]"
-dv_is_inverse_of: "[[is_sub_property_of]]"
+dv_has_inverse: "[[is_sub_property_of]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_sub_properties|has_sub_properties]]"
   - "[[/_public/schema-org/Property/has_sub_properties.public|has_sub_properties.public]]"
@@ -70,7 +70,7 @@ has_range = `=this.dv_has_range`
 
 But typically it is a typed [[../Collection/item_list|item_list]] with sub-properties. 
 
-is_inverse_of = `=this.dv_is_inverse_of` 
+has_inverse = `=this.dv_has_inverse` 
 
 
 ## Confidential Links & Embeds: 

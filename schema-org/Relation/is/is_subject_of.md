@@ -44,7 +44,7 @@ Relation describes that:
 (has_/name :: is_subject_of )
 (has_/range :: CreativeWork, Event )
 
-#is_/inverse_of  :: [is_about](../is/is_about.md)  
+#has_/inverse  :: [is_about](../is/is_about.md)  
 
 ## Confidential Links & Embeds: 
 

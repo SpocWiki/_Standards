@@ -34,8 +34,8 @@ type: Predi_Relation
 A link to the [[../../Collection/list_item|ListItem]] that precedes the current one.
 
 #is_/similar_to :: [[../is/is_successor_of]] 
-#is_/inverse_of :: [[../has/has_next_item]]    
-#is_/inverse_of :: [[is_predecessor_of]]   
+#has_/inverse :: [[../has/has_next_item]]    
+#has_/inverse :: [[is_predecessor_of]]   
 
 - [ ] TODO: unify with [[../is/is_successor_of]].  
 

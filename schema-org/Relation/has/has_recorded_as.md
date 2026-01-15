@@ -41,7 +41,7 @@ Relation describes that:
 (has_/name :: is_recorded_as )
 (has_/range :: MusicRecording )
 
-#is_/inverse_of  :: recordingOf  
+#has_/inverse  :: recordingOf  
 
 ## Confidential Links & Embeds: 
 

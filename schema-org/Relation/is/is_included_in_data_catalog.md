@@ -33,7 +33,7 @@ type: Predi_Relation
 
 # [[is_included_in_data_catalog]] 
 
-#is_/inverse_of  :: [[../has/has_dataset|has_dataset]]   
+#has_/inverse  :: [[../has/has_dataset|has_dataset]]   
 
 #supersedes :: "[[has_catalog]]", "[[is_included_in_data_catalog]]"
 

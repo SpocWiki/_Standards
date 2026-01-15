@@ -49,7 +49,7 @@ dv_is_same_as:
 
 # [[Demand]] 
 
-#is_/complement_of :: [[Offer|Offer]] 
+#has_/complement :: [[Offer|Offer]] 
 
 Class of all demands.
 

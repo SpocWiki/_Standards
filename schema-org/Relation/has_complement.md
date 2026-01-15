@@ -2,7 +2,7 @@
 aliases:
   - complement-of
   - complement_of
-  - is_complement_of
+  - has_complement
   - is_opposite_to
   - is_opposite_of
   - is_negation_of
@@ -18,36 +18,36 @@ isReadOnly: false
 keywords: ''
 layout: ''
 license: CC BY-SA 4.0
-linkTitle: is_complement_of
+linkTitle: has_complement
 publish: true
 publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
-title: is_complement_of
+title: has_complement
 type: Predi_Relation
 ---
 
-# [[is_complement_of]] 
+# [[has_complement]] 
 
 #is_/part_of :: https://meta.schema.org 
 
-#is_/different_from :: [[is_inverse_of]] 
+#is_/different_from :: [[has_inverse]] 
 
 alias: is opposite of 
 
 Use it like this: 
-- [is_/complement_of :: Property] 
-- [ is_complement_of :: Property] 
+- [has_/complement :: Property] 
+- [ has_complement :: Property] 
 
 In lack of a better term this is often used to relate 
-mutually exclusive, but not necessarily exhaustive Categories as Complements do. 
+disjoint/mutually exclusive, but not necessarily exhaustive Categories as Complements do. 
 
 Complementary Relations are e.g. Order Relations. 
 They relate exactly those pairs of items to each other, 
 that the original Relation does NOT relate.
 
-Don't confuse that with the [[is_inverse_of|inverse_of]] Relation 
+Don't confuse that with the [[has_inverse|inverse_of]] Relation 
 where A->Relates->B <=> B->Inverse->A.
 
 Sometimes this is also named "Negative_of", "Negation_of" or "negated".
@@ -67,7 +67,7 @@ Relation describes that:
 
 #has_/domain  :: Property 
 
-(has_/name :: is_complement_of)
+(has_/name :: has_complement)
 (has_/range :: Property)
 
 # #has_/examples 
@@ -75,17 +75,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/is_complement_of|is_complement_of]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has_complement|has_complement]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/is_complement_of.public|is_complement_of.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has_complement.public|has_complement.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/is_complement_of.internal|is_complement_of.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has_complement.internal|has_complement.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/is_complement_of.protect|is_complement_of.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has_complement.protect|has_complement.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/is_complement_of.private|is_complement_of.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has_complement.private|has_complement.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/is_complement_of.personal|is_complement_of.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has_complement.personal|has_complement.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/is_complement_of.secret|is_complement_of.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has_complement.secret|has_complement.secret]] 
 

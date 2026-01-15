@@ -38,7 +38,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Action/Transfer_Action/Borrow_Action.secret|Borrow_Action.secret]]"
 dv_has_:
   properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, lender, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ]"
-dv_is_inverse_of: "[[Lend_Action]]"
+dv_has_inverse: "[[Lend_Action]]"
 dv_is_sub_class_of: "[[../TransferAction]]"
 dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, lender, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ]"
 dv_is_same_as:
@@ -53,7 +53,7 @@ dv_is_same_as:
 
 # [[Borrow_Action]] 
 
-is_inverse_of = `=this.dv_is_inverse_of` 
+has_inverse = `=this.dv_has_inverse` 
 
 Class of all borrow_actions.
 

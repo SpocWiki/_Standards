@@ -3,7 +3,7 @@ aliases:
   - inverse-of
   - inverse_of
   - inverseOf
-  - is_inverse_of
+  - has_inverse
   - is_converse_of
   - has inverse
   - is inverse of
@@ -20,22 +20,22 @@ keywords:
   - of
 layout: ''
 license: CC BY-SA 4.0
-linkTitle: is_inverse_of
+linkTitle: has_inverse
 publish: true
 publishDate: ''
 tags:
-  - is_/inverse_of
+  - has_/inverse
   - class/Relation
   - schema-org/Relation
-title: is_inverse_of
+title: has_inverse
 type: Predi_Relation
 ---
 
-# is_inverse_of 
+# has_inverse 
 
 Relates a property to a property that is its inverse / converse.
 
-#is_/different_from :: [[is_complement_of]]  
+#is_/different_from :: [[has_complement]]  
 
 owl:inverseOf is defined only for binary object properties with arity 2 count. 
 
@@ -58,14 +58,14 @@ For example, the [[../../../Relation/has/has_alumni]] and [[is/is_alumni_of]] pr
 #is_/part_of :: https://meta.schema.org 
 
 Use it like this: 
-- [is_/inverse_of :: [[Property]]] 
-- [ is_inverse_of :: [[Property]]] 
+- [has_/inverse :: [[Property]]] 
+- [ has_inverse :: [[Property]]] 
 
 Relation describes that: 
 
 #has_/domain  :: [[Property]] 
 
-(has_/name :: is_inverse_of)
+(has_/name :: has_inverse)
 (has_/range :: [[Property]])
 
 Alternatively often a `has_inverse` Syntax comes to mind, 
@@ -89,7 +89,7 @@ Some properties don't have explicit inverses;
 in these situations RDFa and JSON-LD syntax for reverse properties can be used.
 
 ## Complement 
-Don't confuse that with the [[is_complement_of]] Relation where ARelatesB <=> !BComplementsA.
+Don't confuse that with the [[has_complement]] Relation where ARelatesB <=> !BComplementsA.
 The Complement of `>` is `<=`. 
 The Converse of `>` is `<`. 
 
@@ -104,17 +104,17 @@ Complement(Converse(`>`)) = Complement(`<`)  = `>=`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/is_inverse_of|is_inverse_of]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has_inverse|has_inverse]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/is_inverse_of.public|is_inverse_of.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has_inverse.public|has_inverse.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/is_inverse_of.internal|is_inverse_of.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has_inverse.internal|has_inverse.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/is_inverse_of.protect|is_inverse_of.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has_inverse.protect|has_inverse.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/is_inverse_of.private|is_inverse_of.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has_inverse.private|has_inverse.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/is_inverse_of.personal|is_inverse_of.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has_inverse.personal|has_inverse.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/is_inverse_of.secret|is_inverse_of.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has_inverse.secret|has_inverse.secret]] 
 

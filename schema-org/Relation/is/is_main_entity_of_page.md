@@ -65,7 +65,7 @@ aliases:
 
 Indicates a page (or other CreativeWork) for which this thing is the main entity being described. See [background notes](https://schema.org/docs/datamodel.html#mainEntityBackground) for details.
 
-#is_/inverse_of :: [[../has/has_main_entity]] 
+#has_/inverse :: [[../has/has_main_entity]] 
 
 
 Use it like this: 
@@ -83,7 +83,7 @@ Relation describes that:
 (has_/name :: is_main_entity_of_page )
 (has_/range :: CreativeWork, URL )
 
-#is_/inverse_of  :: [[has_main_entity]]  
+#has_/inverse  :: [[has_main_entity]]  
 
 ## Confidential Links & Embeds: 
 

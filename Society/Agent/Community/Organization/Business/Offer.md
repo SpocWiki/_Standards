@@ -27,7 +27,7 @@ type: Type
 
 # [[Offer]] 
 
-#is_/complement_of :: [[Demand|Demand]] 
+#has_/complement :: [[Demand|Demand]] 
 
 Class of all offers.
 

@@ -41,11 +41,11 @@ Relation describes that:
 (has_/name :: has_performer )
 (has_/range :: Organization, Person )
 
-#is_/inverse_of  :: [[../is/is_performer_in]]  
+#has_/inverse  :: [[../is/is_performer_in]]  
 
-[[../is_inverse_of]]
+[[../has_inverse]]
 
-[[../is_inverse_of]]
+[[../has_inverse]]
 
 
 ## Confidential Links & Embeds: 

@@ -41,7 +41,7 @@ Relation describes that:
 (has_/name :: has_game_server )
 (has_/range :: GameServer )
 
-#is_/inverse_of  :: game  
+#has_/inverse  :: game  
 
 ## Confidential Links & Embeds: 
 

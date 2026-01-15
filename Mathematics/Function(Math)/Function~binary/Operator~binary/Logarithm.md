@@ -34,7 +34,7 @@ subclass_of:
 subreddit: Logarithms
 ---
 
-#is_/inverse_of :: [[Exponentiation]] 
+#has_/inverse :: [[Exponentiation]] 
 #is_/same_as :: [[../../../../WikiData/WD~Logarithm,11197|WD~Logarithm,11197]] 
 
 ## #has_/text_of_/abstract 

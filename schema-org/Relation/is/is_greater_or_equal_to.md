@@ -42,9 +42,9 @@ Relation describes that:
 (has_/name :: is_greater_or_equal_to )
 (has_/range :: QualitativeValue )
 
-#is_/inverse_of :: [[is_lesser_or_equal_to]] 
+#has_/inverse :: [[is_lesser_or_equal_to]] 
 
-#is_/complement_of :: [[is_less_than]] 
+#has_/complement :: [[is_less_than]] 
 
 ## Confidential Links & Embeds: 
 

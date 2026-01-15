@@ -28,7 +28,7 @@ type: Predi_Relation
 
 #is_/similar_to :: [[is_same_as]] 
 #is_/different_from :: [[is_same_as]] 
-#is_/complement_of :: [[is_different_from]] 
+#has_/complement :: [[is_different_from]] 
 
 If possible, use the more specific 
 #is_/sub_class_of  or #has_/sub_classes 

@@ -47,7 +47,7 @@ Predicated describes that:
 
 #has_/sub_properties :: [ disambiguatingDescription, interpretedAsClaim, originalMediaContextDescription, sha256 ]  
 
-#is_/inverse_of :: [[is_describing]] 
+#has_/inverse :: [[is_describing]] 
 
 
 ## Confidential Links & Embeds: 

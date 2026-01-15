@@ -41,7 +41,7 @@ Relation describes that:
 (has_/name :: is_performer_in )
 (has_/range :: Event )
 
-#is_/inverse_of  :: [[has_performer]]  
+#has_/inverse  :: [[has_performer]]  
 
 ## Confidential Links & Embeds: 
 

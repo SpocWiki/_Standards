@@ -42,7 +42,7 @@ Relation describes that:
 (has_/name :: is_sub_event )
 (has_/range :: Event )
 
-#is_/inverse_of  :: superEvent  
+#has_/inverse  :: superEvent  
 
 ## Confidential Links & Embeds: 
 

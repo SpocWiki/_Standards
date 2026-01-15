@@ -34,7 +34,7 @@ type: Predi_Url
 
 # [[is_same_as]] 
 
-#is_/complement_of :: [[is_different_from]] 
+#has_/complement :: [[is_different_from]] 
 #is_/different_from :: [[is_similar_to]]
 #is_/similar_to :: [[is_similar_to]]
 

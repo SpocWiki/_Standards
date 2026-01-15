@@ -55,8 +55,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_parent_item.secret|has_parent_item.secret]]"
 ---
 
+# [[has_parent_item]] 
+
+#has_/inverse :: [[has_child_items]]  
+
 Use it like this: 
-- has_parent_item = `=this.dv_has_parent_item`  
+- #has_/parent_/item = `=this.dv_has_parent_item`  
 - has_parent_item = `=this.dv_has_parent_item`  
 
 The parent of a question, answer or item in general.

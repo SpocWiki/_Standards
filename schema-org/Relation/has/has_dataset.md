@@ -37,7 +37,7 @@ Relation describes that:
 (has_/name :: has_dataset )
 (has_/range :: Dataset )
 
-#is_/inverse_of  :: [[../is/is_included_in_data_catalog]]  
+#has_/inverse  :: [[../is/is_included_in_data_catalog]]  
 
 ## Confidential Links & Embeds: 
 

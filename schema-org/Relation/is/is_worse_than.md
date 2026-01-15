@@ -10,7 +10,7 @@ dv_is_:
     - "[[/_private/schema-org/Relation/is/is_worse_than.private|is_worse_than.private]]"
     - "[[/_personal/schema-org/Relation/is/is_worse_than.personal|is_worse_than.personal]]"
     - "[[/_secret/schema-org/Relation/is/is_worse_than.secret|is_worse_than.secret]]"
-dv_is_inverse_of: "[[is_better_than]]"
+dv_has_inverse: "[[is_better_than]]"
 dv_is_worse_than: "[[../../Property/has_value_for/has_value_for_rating|has_value_for_rating]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/is/is_worse_than|is_worse_than]]"
@@ -27,7 +27,7 @@ Boolean Relation to express the relative Fitness of the Object compared to the S
 There is no standard-Relation because the Purpose of this Relation is implicit, not explicit. 
 Prefer quantitative Attributes like [[../../Class/is_a_/Intangible/rating|Rating]]  or one of its more specific derivatives which uses an absolute Scale, not a relative and is therefore universally comparable. 
 
-is_inverse_of = `=this.dv_is_inverse_of` 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 is_worse_than = `=this.dv_is_worse_than` 

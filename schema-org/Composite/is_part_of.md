@@ -35,7 +35,7 @@ which differentiates between a Product and its Parts, or Sub-Assemblies
 ---such as the relationship of a molecule to its atoms. 
 Typically [[Part]]s have a specific Role in the [[../Composite|Composite]]. 
 
-#is_/inverse_of  :: [[has_parts]] 
+#has_/inverse  :: [[has_parts]] 
 
 This is different from 
 - the [is_item_in](../Collection/is_item_in.md) Function that characterizes a loose Association of [[../Collection/Item|Items]] in a [[../Collection|Collection]] that may also change over time and from 

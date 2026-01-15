@@ -46,7 +46,7 @@ Relation describes that:
 (has_/name :: is_example_of_work )
 (has_/range :: CreativeWork )
 
-#is_/inverse_of  :: workExample  
+#has_/inverse  :: workExample  
 
 ## Confidential Links & Embeds: 
 

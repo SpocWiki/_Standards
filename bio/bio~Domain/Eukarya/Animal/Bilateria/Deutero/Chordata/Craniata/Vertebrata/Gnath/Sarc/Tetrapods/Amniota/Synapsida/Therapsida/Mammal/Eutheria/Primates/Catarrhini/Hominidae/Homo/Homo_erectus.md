@@ -33,21 +33,29 @@ end_time: -143000-06
 ## #has_/text_of_/abstract 
 
 > Homo erectus ( lit. 'upright man') is an extinct species of archaic human 
-> from the Pleistocene, spanning nearly 2 million years. 
+> from the Pleistocene, **spanning nearly 2 million years**! 
 > It is the first human species to evolve a humanlike body plan and gait, 
 > to leave Africa and colonize Asia and Europe, and to wield fire. 
 > 
 > H. erectus is the ancestor of later human species, including 
-> - H. heidelbergensis — the last common ancestor of modern humans, 
+> - H. heidelbergensis — the **last common ancestor** with modern humans, 
 > - Neanderthals, and 
 > - Denisovans. 
+> 
 > As such a widely distributed species both geographically and temporally, 
 > H. erectus anatomy varies considerably. 
-> Subspecies are sometimes recognized: H. e. erectus, H. e. pekinensis, H. e. soloensis, H. e. ergaster, H. e. georgicus, and H. e. tautavelensis.
+> Subspecies are sometimes recognized: 
+> - H. e. erectus, 
+> - H. e. pekinensis, 
+> - H. e. soloensis, 
+> - H. e. ergaster, 
+> - H. e. georgicus, and 
+> - H. e. tautavelensis.
 >
 > The species was first described by Eugène Dubois in 1893 as 
 > "Pithecanthropus erectus" using a skullcap, molar, and femur from Java, Indonesia. 
-> Further discoveries around East Asia were used to contend that humanity evolved out of Asia. Based on historical race concepts, it was argued that local H. erectus populations evolved directly into local modern human populations (polycentrism) rather than all humanity sharing a single anatomically modern ancestor (monogenism). As the fossil record improved over the mid-to-late 20th century, "Out of Africa" theory and monogenism became the consensus.
+> Further discoveries around East Asia were used to contend that humanity evolved out of Asia. 
+> Based on historical race concepts, it was argued that local H. erectus populations evolved directly into local modern human populations (polycentrism) rather than all humanity sharing a single anatomically modern ancestor (monogenism). As the fossil record improved over the mid-to-late 20th century, "Out of Africa" theory and monogenism became the consensus.
 >
 > The typical skull has a pronounced brow ridge, a protruding jaw, and large teeth. The bones are much thicker than in modern humans. East Asian populations normally have an even more robust skeleton and larger brain volume — averaging 1,000 cc (61 cu in). Western H. erectus brain volume could be as low as 546 cc (33.3 cu in) in H. e. georgicus. H. erectus probably had a faster apelike growth trajectory, lacking the extended childhood required for language acquisition. Reconstructed adult body dimensions range from 141–167 cm (4 ft 8 in – 5 ft 6 in) in height and about 50 kg (110 lb) in weight.
 >

@@ -47,7 +47,7 @@ Relation describes that:
 (has_/name :: is_{{label_snail}})
 (has_/range :: {{rangeIncludes}})
 
-#is_/inverse_of  :: {{inverseOf}} 
+#has_/inverse  :: {{inverseOf}} 
 
 #is_/sub_property_of  :: {{subPropertyOf}} 
 

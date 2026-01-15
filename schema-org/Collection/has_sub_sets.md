@@ -43,7 +43,7 @@ dv_is_:
 dv_has_domain: "[[../Collection]]"
 dv_has_name: has_sub_sets
 dv_has_range: "[[../Collection]]"
-dv_is_inverse_of: "[[is_sub_set_of]]"
+dv_has_inverse: "[[is_sub_set_of]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Collection/has_sub_sets|has_sub_sets]]"
   - "[[/_public/schema-org/Collection/has_sub_sets.public|has_sub_sets.public]]"
@@ -71,7 +71,7 @@ has_range = `=this.dv_has_range`
 
 But typically it is an example [[../Collection/item_list|item_list]] with sub-sets. 
 
-is_inverse_of = `=this.dv_is_inverse_of` 
+has_inverse = `=this.dv_has_inverse` 
 
 
 ## Confidential Links & Embeds: 

@@ -43,7 +43,7 @@ Relation describes that:
 (has_/name :: is_sub_trip )
 (has_/range :: Trip )
 
-#is_/inverse_of  :: partOfTrip  
+#has_/inverse  :: partOfTrip  
 
 ## Confidential Links & Embeds: 
 

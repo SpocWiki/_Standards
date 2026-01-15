@@ -44,8 +44,8 @@ Relation describes that:
 (has_/range :: [[../../../Society/Agent/Community/Organization/Business/Product/Product_Model|ProductModel]] )
 
 #is_/similar_to :: [[../has/has_next_item]]  
-#is_/inverse_of :: [[../has/has_previous_item]]  
-#is_/inverse_of :: [[is_successor_of]]   
+#has_/inverse :: [[../has/has_previous_item]]  
+#has_/inverse :: [[is_successor_of]]   
 
 
 ## Confidential Links & Embeds: 

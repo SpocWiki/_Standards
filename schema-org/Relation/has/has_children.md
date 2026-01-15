@@ -26,11 +26,11 @@ tags:
 title: has_children
 type: Predi_Relation
 dv_has_:
-  children: Person
-  domain: Person
+  children: "[[../../../Society/Agent/Person]]"
+  domain: "[[../../../Society/Agent/Person]]"
   name: has_children
-  range: Person
-dv_has_children: Person
+  range: "[[../../../Society/Agent/Person]]"
+dv_has_children: "[[../../../Society/Agent/Person]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_children|has_children]]"
@@ -40,9 +40,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_children.private|has_children.private]]"
     - "[[/_personal/schema-org/Relation/has/has_children.personal|has_children.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_children.secret|has_children.secret]]"
-dv_has_domain: Person
+dv_has_domain: "[[../../../Society/Agent/Person]]"
 dv_has_name: has_children
-dv_has_range: Person
+dv_has_range: "[[../../../Society/Agent/Person]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_children|has_children]]"
   - "[[/_public/schema-org/Relation/has/has_children.public|has_children.public]]"
@@ -57,12 +57,11 @@ Use it like this:
 - has_children = `=this.dv_has_children`  
 - has_children = `=this.dv_has_children`  
 
-A child of the person.
+The children of the person.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

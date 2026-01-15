@@ -36,6 +36,8 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Denisovan) 
 
 
+in 2025 a Ring was found that may be produced by Denisovans ca. 40000BC. 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Homo/Homo_sapiens/Denisovan|Denisovan]] 

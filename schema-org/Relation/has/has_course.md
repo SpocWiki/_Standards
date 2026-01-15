@@ -29,17 +29,21 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- #has_/course :: Course  
-- [ has_course :: Course ] 
+- #has_/course :: "[[../../../Society/Communication/Media/Creative_Work/Course]]"  
+- has_course :: "[[../../../Society/Communication/Media/Creative_Work/Course]]"   
 
-A course or class that is one of the learning opportunities that constitute an educational / occupational program. No information is implied about whether the course is mandatory or optional; no guarantee is implied about whether the course will be available to everyone on the program.
+A course or class that is one of the learning opportunities 
+that constitute an educational / occupational program. 
+
+No information is implied about whether the course is mandatory or optional; 
+no guarantee is implied about 
+whether the course will be available to everyone on the program.
 
 Relation describes that: 
 
-#has_/domain  :: EducationalOccupationalProgram  
-
-(has_/name :: has_course )
-(has_/range :: Course )
+#has_/domain  :: "[[../../Class/is_a_/Intangible/Educational_Occupational_Program|Educational_Occupational_Program]]"  
+(has_/name :: [[has_course]] )
+(has_/range :: "[[../../../Society/Communication/Media/Creative_Work/Course|Course]]" )
 
 
 ## Confidential Links & Embeds: 

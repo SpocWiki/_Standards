@@ -39,7 +39,7 @@ These [Collection](../Collection.md) - [Item](Item.md)s are
 - less uniform than [Instances](../Class/Thing.md), which are [instances_of](../Class/is_instance_of.md) of a [Classes](../../Classes.md) 
 - and not as tightly coupled as the [Parts](../Composite/Part.md) that are [parts_of](../Composite/is_part_of.md) a [Composite](../Composite.md)  relationship. 
 
-#is_/inverse_of :: [[has_items]] 
+#has_/inverse :: [[has_items]] 
 
 The collection provides functionality, such as iterating over its members
 and performing operations on each of them. 

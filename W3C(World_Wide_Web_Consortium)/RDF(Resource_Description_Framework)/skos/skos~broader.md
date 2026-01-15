@@ -1,7 +1,7 @@
 # [[skos~broader]] 
 
 
-#is_/inverse_of :: [[skos~narrower]] 
+#has_/inverse :: [[skos~narrower]] 
 
 Indicates a _has_broader_ relationship to the rdf~object in a hierarchical structure, such as a thesaurus or taxonomy.
 

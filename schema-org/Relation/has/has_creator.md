@@ -24,6 +24,8 @@ title: has_creator
 type: Predi_Relation
 ---
 
+# [[has_creator]] 
+
 Use it like this: 
 - #has_/creator :: Organization, Person  
 - [ has_creator :: Organization, Person ] 
@@ -40,7 +42,7 @@ Relation describes that:
 
 #has_/sub_properties :: [ [[../is/is_legislation_passed_by|is_legislation_passed_by]] , [[has_founder]] ]  
 
-#is_/inverse_of  :: [[is_creating]] 
+#has_/inverse  :: [[is_creating]] 
 
 [[has_creator]] is often described as a N : 1 Relation with a single Creator, 
 but as with its Sub-Relation [[has_parent]] which is N : 2, 

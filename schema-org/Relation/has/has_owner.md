@@ -18,7 +18,7 @@ dv_is_:
 dv_has_domain: "[[../../Property|Property]]"
 dv_has_name: "[[has_owner]]"
 dv_has_range: "[[../../../Society/Agent|Agent]]"
-dv_is_inverse_of: "[[has_own]]"
+dv_has_inverse: "[[has_own]]"
 dv_is_same_as:
   - "[[has_owner|has_owner]]"
   - "[[/_public/schema-org/Relation/has/has_owner.public|has_owner.public]]"
@@ -29,19 +29,19 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_owner.secret|has_owner.secret]]"
 ---
 
-Use it like this: 
-- has_owner = `=this.dv_has_owner` ] ] 
-- has_owner = `=this.dv_has_owner` ]  ] 
+# [[has_owner]] 
 
-Relation describes [[../../../Society/Law/Civil_Law/Ownership|Ownership]] from the Side of the [[../../Property|Property]]: 
+has_inverse = `=this.dv_has_inverse` 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 
-is_inverse_of = `=this.dv_is_inverse_of` 
+Use it like this: 
+- has_owner = `=this.dv_has_owner`  
+- has_owner = `=this.dv_has_owner` 
 
+Relation describes [[../../../Society/Law/Civil_Law/Ownership|Ownership]] from the Side of the [[../../Property|Property]]: 
 
 ## Confidential Links & Embeds: 
 

@@ -34,7 +34,7 @@ type: Predi_Relation
 ---
 
 #is_/similar_to :: [[../../W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RDF~Relations/rdfs~subClassOf|rdfs~subClassOf]] 
-#is_/inverse_of  :: [[has_sub_classes]]
+#has_/inverse  :: [[has_sub_classes]]
 #is_/better_than :: [[../Relation/is_similar_to|is_similar_to]] 
 
 Relates a subclass to its super-class. 

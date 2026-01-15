@@ -35,7 +35,7 @@ Use it like this:
 Relates a module to its super-set. 
 Can be implemented with dedicated #Tags
 
-#is_/inverse_of :: [[has_modules]] 
+#has_/inverse :: [[has_modules]] 
 
 Relation describes that: 
 

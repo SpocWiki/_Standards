@@ -39,7 +39,7 @@ Relation describes that:
 (has_/name :: is_making_offer)
 (has_/range :: Offer)
 
-#is_/inverse_of  :: [[../has/is_offered_by]] 
+#has_/inverse  :: [[../has/is_offered_by]] 
 
 ## Confidential Links & Embeds: 
 

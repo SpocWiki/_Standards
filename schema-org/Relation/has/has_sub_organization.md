@@ -41,7 +41,7 @@ Relation describes that:
 (has_/name :: is_sub_organization )
 (has_/range :: Organization )
 
-#is_/inverse_of  :: parentOrganization  
+#has_/inverse  :: parentOrganization  
 
 ## Confidential Links & Embeds: 
 

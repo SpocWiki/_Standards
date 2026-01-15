@@ -27,11 +27,11 @@ tags:
 title: has_course_instance
 type: Predi_Relation
 dv_has_:
-  course_instance: CourseInstance
-  domain: Course
-  name: has_course_instance
-  range: CourseInstance
-dv_has_course_instance: CourseInstance
+  course_instance: "[[../../Class/is_a_/Event/Course_Instance|Course_Instance]]"
+  domain: "[[../../../Society/Communication/Media/Creative_Work/Course|Course]]"
+  name: "[[has_course_instance]]"
+  range: "[[../../Class/is_a_/Event/Course_Instance|Course_Instance]]"
+dv_has_course_instance: "[[../../Class/is_a_/Event/Course_Instance|Course_Instance]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_course_instance|has_course_instance]]"
@@ -41,9 +41,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_course_instance.private|has_course_instance.private]]"
     - "[[/_personal/schema-org/Relation/has/has_course_instance.personal|has_course_instance.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_course_instance.secret|has_course_instance.secret]]"
-dv_has_domain: Course
-dv_has_name: has_course_instance
-dv_has_range: CourseInstance
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Course|Course]]"
+dv_has_name: "[[has_course_instance]]"
+dv_has_range: "[[../../Class/is_a_/Event/Course_Instance|Course_Instance]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_course_instance|has_course_instance]]"
   - "[[/_public/schema-org/Relation/has/has_course_instance.public|has_course_instance.public]]"
@@ -54,16 +54,18 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_course_instance.secret|has_course_instance.secret]]"
 ---
 
+# [[has_course_instance]] 
+
 Use it like this: 
-- has_course_instance = `=this.dv_has_course_instance`  
+- #has_/course_/instance = `=this.dv_has_course_instance`  
 - has_course_instance = `=this.dv_has_course_instance`  
 
-An offering of the course at a specific time and place or through specific media or mode of study or to a specific section of students.
+An offering of the course at a specific time and place 
+or through specific media or mode of study or to a specific section of students.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

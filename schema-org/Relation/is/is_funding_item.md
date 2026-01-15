@@ -43,7 +43,7 @@ Relation describes that:
 (has_/name :: is_funding_item )
 (has_/range :: BioChemEntity, CreativeWork, Event, MedicalEntity, Organization, Person, Product )
 
-#is_/inverse_of  :: [[has_funding]]  
+#has_/inverse  :: [[has_funding]]  
 
 ## Confidential Links & Embeds: 
 

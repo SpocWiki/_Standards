@@ -51,7 +51,7 @@ Relation describes that:
 (has_/name :: is_work_example )
 (has_/range :: CreativeWork )
 
-#is_/inverse_of  :: exampleOfWork  
+#has_/inverse  :: exampleOfWork  
 
 #has_/sub_properties :: [ appearance, firstAppearance ]  
 

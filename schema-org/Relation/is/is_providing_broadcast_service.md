@@ -39,7 +39,7 @@ Relation describes that:
 (has_/name :: is_providing_broadcast_service)
 (has_/range :: BroadcastService)
 
-#is_/inverse_of  :: hasBroadcastChannel 
+#has_/inverse  :: hasBroadcastChannel 
 
 ## Confidential Links & Embeds: 
 

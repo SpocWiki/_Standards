@@ -37,7 +37,7 @@ This property is a synonym for [[has_associated_media|associatedMedia]].
 #is_/different_from :: [[../../Property/Texts/has_encoding_format|encodingFormat]]  
 #is_/different_from :: [[has_text_encoding]]  
 
-#is_/inverse_of  :: [[../is/is_encoding_creative_work]]  
+#has_/inverse  :: [[../is/is_encoding_creative_work]]  
 
 Relation describes that: 
 

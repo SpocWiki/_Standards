@@ -23,7 +23,7 @@ dv_is_:
 dv_has_domain: "[[../../Class|Class]]"
 dv_has_name: "[[has_Pros]]"
 dv_has_range: "[[../../Collection]]"
-dv_is_inverse_of: is_facilitating
+dv_has_inverse: is_facilitating
 dv_has_complement: "[[has_Cons]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_Pros|has_Pros]]"
@@ -54,7 +54,7 @@ has_domain = `=this.dv_has_domain`
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 
-is_inverse_of = `=this.dv_is_inverse_of` 
+has_inverse = `=this.dv_has_inverse` 
 
 [[is_inhibiting]]
 has_complement = `=this.dv_has_complement` 

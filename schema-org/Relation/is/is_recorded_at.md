@@ -41,7 +41,7 @@ Relation describes that:
 (has_/name :: is_recorded_at )
 (has_/range :: [[../../../Class/is_a_thing/event]] )
 
-#is_/inverse_of  :: recordedIn  
+#has_/inverse  :: recordedIn  
 
 ## Confidential Links & Embeds: 
 

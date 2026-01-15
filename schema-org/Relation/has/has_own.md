@@ -42,7 +42,7 @@ dv_is_:
 dv_has_domain: Organization, Person
 dv_has_name: "[[has_own]]"
 dv_has_range: OwnershipInfo, Product
-dv_is_inverse_of: "[[has_owner]]"
+dv_has_inverse: "[[has_owner]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_own|has_own]]"
   - "[[/_public/schema-org/Relation/has/has_own.public|has_own.public]]"
@@ -69,7 +69,7 @@ has_name = `=this.dv_has_name`
 has_range = `=this.dv_has_range` 
 
 #has_/owner 
-is_inverse_of = `=this.dv_is_inverse_of` 
+has_inverse = `=this.dv_has_inverse` 
 #has_/own 
 
 

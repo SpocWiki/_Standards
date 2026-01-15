@@ -41,7 +41,7 @@ Relation describes that:
 (has_/name :: is_variant )
 (has_/range :: Product )
 
-#is_/inverse_of  :: isVariantOf  
+#has_/inverse  :: isVariantOf  
 
 ## Confidential Links & Embeds: 
 

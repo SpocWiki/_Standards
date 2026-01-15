@@ -41,7 +41,7 @@ Relation describes that:
 (has_/name :: has_archive_held )
 (has_/range :: ArchiveComponent )
 
-#is_/inverse_of  :: [[../is/is_holding_archive]]  
+#has_/inverse  :: [[../is/is_holding_archive]]  
 
 ## Confidential Links & Embeds: 
 
