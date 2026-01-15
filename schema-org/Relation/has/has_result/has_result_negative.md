@@ -4,43 +4,73 @@ aliases:
   - has_Cons
   - has Cons
   - has_result_negative
+  - "{ newTitle: }":
 dv_has_:
-  Cons: "[[../../Collection]]"
-  domain: "[[../../Class|Class]]"
-  name: "[[has_result_negative]]"
-  range: "[[../../Collection]]"
-dv_has_result_negative: "[[../../Collection]]"
+  Cons: "[[../../../Collection]]"
+  domain: "[[../../../Class|Class]]"
+  name: "[[has_result_negative 1]]"
+  range: "[[../../../Collection]]"
+dv_has_result_negative: "[[../../../Collection]]"
 dv_is_:
   inverse_of: is_inhibiting
   same_as:
-    - "[[has_result_negative|has_result_negative]]"
+    - "[[has_result_negative 1|has_result_negative]]"
     - "[[/_public/schema-org/Relation/has/has_result_negative.public|has_result_negative.public]]"
     - "[[/_internal/schema-org/Relation/has/has_result_negative.internal|has_result_negative.internal]]"
     - "[[/_protect/schema-org/Relation/has/has_result_negative.protect|has_result_negative.protect]]"
     - "[[/_private/schema-org/Relation/has/has_result_negative.private|has_result_negative.private]]"
     - "[[/_personal/schema-org/Relation/has/has_result_negative.personal|has_result_negative.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_result_negative.secret|has_result_negative.secret]]"
-dv_has_domain: "[[../../Class|Class]]"
-dv_has_name: "[[has_result_negative]]"
-dv_has_range: "[[../../Collection]]"
+dv_has_domain: "[[../../../Class|Class]]"
+dv_has_name: "[[has_result_negative 1]]"
+dv_has_range: "[[../../../Collection]]"
 dv_has_inverse: is_inhibiting
 dv_is_same_as:
-  - "[[has_result_negative|has_result_negative]]"
+  - "[[has_result_negative 1|has_result_negative]]"
   - "[[/_public/schema-org/Relation/has/has_result_negative.public|has_result_negative.public]]"
   - "[[/_internal/schema-org/Relation/has/has_result_negative.internal|has_result_negative.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_result_negative.protect|has_result_negative.protect]]"
   - "[[/_private/schema-org/Relation/has/has_result_negative.private|has_result_negative.private]]"
   - "[[/_personal/schema-org/Relation/has/has_result_negative.personal|has_result_negative.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_result_negative.secret|has_result_negative.secret]]"
+confidential: private
+cssclasses:
+  - private
+  - note
+draft: true
+excalidraw_autoexport: svg
+excalidraw_open_md: true
+excalidraw_plugin: parsed
+expiryDate:
+has_Template: "[[Extract~Note~Template]]"
+has_time_started:
+  '{ "date:YYYY-MM-DD": }':
+isDeleted: false
+isReadOnly: false
+keywords:
+  "{ newTitle: }":
+lang: en
+layout:
+license: (c)copyrighted
+linkTitle:
+  "{ newTitle: }":
+publish: false
+publishDate:
+tags:
+  - "{ newTitle: }":
+  - excalidraw
+title:
+  "{ newTitle: }":
+type: private_note
 ---
 
 Enumerates negative, inhibiting Reasons for this Statement. 
-Plural Form chosen to indicate the [[../../Collection]]-Nature. 
+Plural Form chosen to indicate the [[../../../Collection]]-Nature. 
 
-Therefore this partially(incomplete) inverse Relation is included in the non-standard more generic [[has_result_negative]] Relation. 
+Therefore this partially(incomplete) inverse Relation is included in the non-standard more generic [[has_result_negative 1]] Relation. 
 
 Usually this is complemented by [[has_result_positive]], 
-to be able to weigh a Decision in a [[../../../../_protect/Society/Communication/Media/Literature/Team-Tactics/Team-Direction/Force-Field_Analysis|Force-Field_Analysis]].
+to be able to weigh a Decision in a [[../../../../../_protect/Society/Communication/Media/Literature/Team-Tactics/Team-Direction/Force-Field_Analysis|Force-Field_Analysis]].
 
 Use it like this: 
 - has_result_negative = `=this.dv_has_result_negative` ] ] 
@@ -55,13 +85,13 @@ has_range = `=this.dv_has_range`
 
 has_inverse = `=this.dv_has_inverse` 
 
-The Name is derived from the [[../../../../Knowledge/Languages/Natural~Languages/Latin|Latin]] word 
+The Name is derived from the [[../../../../../Knowledge/Languages/Natural~Languages/Latin|Latin]] word 
 'contra'. 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_result_negative|has_result_negative]] 
+### #is_/same_as :: [[has_result_negative 1|has_result_negative]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_result_negative.public|has_result_negative.public]] 
 
@@ -75,3 +105,22 @@ The Name is derived from the [[../../../../Knowledge/Languages/Natural~Languages
 
 ### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_result_negative.secret|has_result_negative.secret]] 
 
+
+# [[has_result_negative]] 
+
+#is_/part_of :: [[has_result_negative 1]] 
+
+![[has_result_negative.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[has_result_negative.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```

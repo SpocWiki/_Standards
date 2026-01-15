@@ -6,12 +6,12 @@ aliases:
   - has_result_positive
   - has positive result
 dv_has_:
-  Pros: "[[../../Collection]]"
-  domain: "[[../../Class|Class]]"
-  complement: "[[has_result_negative]]"
+  Pros: "[[../../../Collection]]"
+  domain: "[[../../../Class|Class]]"
+  complement: "[[has_result/has_result_negative]]"
   name: "[[has_result_positive]]"
-  range: "[[../../Collection]]"
-dv_has_result_positive: "[[../../Collection]]"
+  range: "[[../../../Collection]]"
+dv_has_result_positive: "[[../../../Collection]]"
 dv_is_:
   inverse_of: is_facilitating
   same_as:
@@ -22,11 +22,11 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_result_positive.private|has_result_positive.private]]"
     - "[[/_personal/schema-org/Relation/has/has_result_positive.personal|has_result_positive.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_result_positive.secret|has_result_positive.secret]]"
-dv_has_domain: "[[../../Class|Class]]"
+dv_has_domain: "[[../../../Class|Class]]"
 dv_has_name: "[[has_result_positive]]"
-dv_has_range: "[[../../Collection]]"
+dv_has_range: "[[../../../Collection]]"
 dv_has_inverse: is_facilitating
-dv_has_complement: "[[has_result_negative]]"
+dv_has_complement: "[[has_result/has_result_negative]]"
 dv_is_same_as:
   - "[[has_result_positive|has_result_positive]]"
   - "[[/_public/schema-org/Relation/has/has_result_positive.public|has_result_positive.public]]"
@@ -38,12 +38,12 @@ dv_is_same_as:
 ---
 
 Enumerates positive, reinforcing Reasons for this Statement. 
-Plural Form chosen to indicate the [[../../Collection]]-Nature. 
+Plural Form chosen to indicate the [[../../../Collection]]-Nature. 
 
 Therefore this partially(incomplete) inverse Relation is included in the non-standard more generic [[has_result_positive]] Relation. 
 
-Usually this is complemented by [[has_result_negative]], 
-to be able to weigh a Decision in a [[../../../../_protect/Society/Communication/Media/Literature/Team-Tactics/Team-Direction/Force-Field_Analysis|Force-Field_Analysis]].
+Usually this is complemented by [[has_result/has_result_negative]], 
+to be able to weigh a Decision in a [[../../../../../_protect/Society/Communication/Media/Literature/Team-Tactics/Team-Direction/Force-Field_Analysis|Force-Field_Analysis]].
 
 Use it like this: 
 - #has_/result_/positive = `=this.dv_has_result_positive` ] ] 
@@ -61,7 +61,7 @@ has_inverse = `=this.dv_has_inverse`
 has_complement = `=this.dv_has_complement` 
 
 
-The Name is from the [[../../../../Knowledge/Languages/Natural~Languages/Latin|Latin]] word 
+The Name is from the [[../../../../../Knowledge/Languages/Natural~Languages/Latin|Latin]] word 
 'pro' meaning 'for'. 
 
 

@@ -45,7 +45,7 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_result_comment|has_result_comment]] 
+### #is_/same_as :: [[has_result_comment|has_result_comment]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_result_comment.public|has_result_comment.public]] 
 
