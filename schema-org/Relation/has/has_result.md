@@ -33,7 +33,6 @@ The result produced in the action. E.g. John wrote <em>a book</em>.
 Relation describes that: 
 
 #has_/domain  :: Action  
-
 (has_/name :: is_result )
 (has_/range :: Thing )
 

@@ -28,12 +28,11 @@ type: Predi_Relation
 dv_has_:
   instances: "[[../Class]]"
   domain: "[[../Class]]"
-dv_has_instances: "[[../Class]]"
-dv_#has_:
   name: has_instances
   range: "[[Thing]]"
+  inverse: "[[is_instance_of]]"
+dv_has_instances: "[[../Class]]"
 dv_is_:
-  inverse_of: "[[is_instance_of]]"
   same_as:
     - "[[/_Standards/schema-org/Class/has_instances|has_instances]]"
     - "[[/_public/schema-org/Class/has_instances.public|has_instances.public]]"

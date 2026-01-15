@@ -29,7 +29,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- #has_/result_review :: Review  
+- #has_/result_/review :: Review  
 - [ has_result_review :: Review ] 
 
 A sub property of result. The review that resulted in the performing of the action.
