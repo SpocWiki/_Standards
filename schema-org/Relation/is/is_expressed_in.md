@@ -31,8 +31,8 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [is_/expressed_in :: AnatomicalStructure, AnatomicalSystem, BioChemEntity, DefinedTerm ] 
-- [ is_expressed_in :: AnatomicalStructure, AnatomicalSystem, BioChemEntity, DefinedTerm ] 
+- #is_/expressed_in :: AnatomicalStructure, AnatomicalSystem, BioChemEntity, DefinedTerm  
+- is_/expressed_in :: AnatomicalStructure, AnatomicalSystem, BioChemEntity, DefinedTerm  
 
 Tissue, organ, biological sample, etc in which activity of this gene has been observed experimentally.
 For example brain, digestive system.

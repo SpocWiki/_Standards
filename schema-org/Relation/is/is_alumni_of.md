@@ -31,8 +31,8 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [is_/alumni_of :: EducationalOrganization, Organization ] 
-- [ is_alumni_of :: EducationalOrganization, Organization ] 
+- #is_/alumni_of :: EducationalOrganization, Organization  
+- is_/alumni_of :: EducationalOrganization, Organization  
 
 An organization that the person is an alumni of.
 

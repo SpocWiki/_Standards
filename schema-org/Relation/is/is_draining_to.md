@@ -29,8 +29,8 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [is_/draining_to :: Vessel ] 
-- [ is_draining_to :: Vessel ] 
+- #is_/draining_to :: Vessel  
+- is_/draining_to :: Vessel  
 
 The vasculature that the vein drains into.
 

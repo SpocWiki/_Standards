@@ -9,8 +9,8 @@ aliases:
 # [[is_sub_relation_of]]
 
 Use it like this: 
-- [is_/sub_relation_of :: [Relation](../../Relation.md)] 
-- [ is_sub_relation_of :: [Relation](../../Relation.md)] 
+- #is_/sub_relation_of :: [Relation](../../Relation.md) 
+- is_/sub_relation_of :: [Relation](../../Relation.md) 
 
 Relates a sub-Relation to its super-Relation. 
 sub-Relations are Sub-Sets of (binary) Relations 

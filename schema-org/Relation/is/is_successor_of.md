@@ -30,8 +30,8 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [is_/successor_of :: [[../../../Society/Agent/Community/Organization/Business/Product/Product_Model|ProductModel]] ] 
-- [ is_successor_of :: [[../../Class/is_a_/product/product_model|ProductModel]] ] 
+- #is_/successor_of :: [[../../../Society/Agent/Community/Organization/Business/Product/Product_Model|ProductModel]]  
+- is_/successor_of :: [[../../Class/is_a_/product/product_model|ProductModel]]  
 
 
 - [ ] TODO: unify with [[../has/has_previous_item]].  

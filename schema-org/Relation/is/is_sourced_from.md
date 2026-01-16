@@ -29,8 +29,8 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [is_/sourced_from :: BrainStructure ] 
-- [ is_sourced_from :: BrainStructure ] 
+- #is_/sourced_from :: BrainStructure  
+- is_/sourced_from :: BrainStructure  
 
 The neurological pathway that originates the neurons.
 

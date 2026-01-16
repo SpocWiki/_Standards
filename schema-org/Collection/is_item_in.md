@@ -51,8 +51,8 @@ The contents may often be dynamically added to or removed from.
 #class/Relation  
 
 Use it like this: 
-- [is_/element_of :: Collection] 
-- [ is_element_of :: Collection] 
+- #is_/element_of :: Collection 
+- is_/element_of :: Collection 
 
 Relates an Element to its Set. 
 Can be implemented with dedicated boolean #Tags for each Set 

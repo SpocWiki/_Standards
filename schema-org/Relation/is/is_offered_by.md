@@ -29,8 +29,8 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [is_/offered_by :: Organization, Person ] 
-- [ is_offered_by :: Organization, Person ] 
+- #is_/offered_by :: Organization, Person  
+- is_/offered_by :: Organization, Person  
 
 A pointer to the organization or person making the offer.
 

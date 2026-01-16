@@ -29,7 +29,7 @@ type: Predi_Relation
 
 Use it like this: 
 - #has_/closes :: Time  
-- [ is_closing_at :: Time ] 
+- is_/closing_at :: Time  
 
 The closing hour of the place or service on the given day(s) of the week.
 

@@ -32,8 +32,8 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [is_/member_/of :: [[../../../Class/is_a_/organization]], [[../../../Class/is_a_/intangible/program_membership]] ] 
-- [ is_member_of :: [[../../../Class/is_a_/organization]], [[../../../Class/is_a_/intangible/program_membership]] ] 
+- #is_/member_/of :: [[../../../Class/is_a_/organization]], [[../../../Class/is_a_/intangible/program_membership]]  
+- is_/member_of :: [[../../../Class/is_a_/organization]], [[../../../Class/is_a_/intangible/program_membership]]  
 
 This relation can have additional Attributes to indicate the Time-Period: 
 - #is_/member_/since  to indicate the Start of Membership  

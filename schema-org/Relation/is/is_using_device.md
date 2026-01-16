@@ -29,8 +29,8 @@ type: Predi_Relation
 [MedicalDevice](../../../Class/is_a_/medical_entity/medical_device.md) used to perform the test.
 
 Use it like this: 
-- [is_/using_device :: MedicalDevice] 
-- [ is_using_device :: MedicalDevice] 
+- #is_/using_device :: MedicalDevice 
+- is_/using_device :: MedicalDevice 
 
 Relation describes that: 
 

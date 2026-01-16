@@ -31,8 +31,8 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [is_/legislation_transpose_of :: Legislation ] 
-- [ is_legislation_transpose_of :: Legislation ] 
+- #is_/legislation_transpose_of :: Legislation  
+- is_/legislation_transpose_of :: Legislation  
 
 Indicates that this legislation (or part of legislation) fulfills the objectives set by another legislation,
 by passing appropriate implementation measures.

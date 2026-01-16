@@ -62,14 +62,14 @@ Verbs:
 -  
 
 ## Other hierarchical Relations: 
-- [is_part_of](../Composite/is_part_of)
-- [is_item_in](../Collection/is_item_in) 
+- is_/part_of(../Composite/is_part_of)
+- is_/item_in(../Collection/is_item_in) 
 - [[../Relation/is/is_member_of|is_member_of]] 
 
 ## Use it like this: 
-- [is_/instance_of :: Class] 
+- #is_/instance_of :: Class 
 - [ #is_a_ :: Class] 
-- [ is_instance_of :: Class]  
+- is_/instance_of :: Class  
 for Objects
 Do __not__ flex the predicate when the Class starts with a Vowel like so is_an_ ant!
 

@@ -30,8 +30,8 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [is_/part_of_/order :: Order ] 
-- [ is_part_of_order :: Order ] 
+- #is_/part_of_/order :: Order  
+- is_/part_of_order :: Order  
 
 The overall order the items in this delivery were included in.
 

@@ -30,8 +30,8 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [is_/lesser_or_equal_to :: QualitativeValue ] 
-- [ is_lesser_or_equal_to :: QualitativeValue ] 
+- #is_/lesser_or_equal_to :: QualitativeValue  
+- is_/lesser_or_equal_to :: QualitativeValue  
 
 This ordering relation for qualitative values indicates that the subject is lesser than or equal to the object.
 

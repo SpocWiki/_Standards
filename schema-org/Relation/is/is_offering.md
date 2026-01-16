@@ -28,8 +28,8 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [is_/offering :: Demand, Offer ] 
-- [ is_offering :: Demand, Offer ] 
+- #is_/offering :: Demand, Offer  
+- is_/offering :: Demand, Offer  
 
 An offer to provide this item;
 

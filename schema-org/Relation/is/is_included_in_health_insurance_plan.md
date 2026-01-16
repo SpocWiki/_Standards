@@ -29,8 +29,8 @@ type: Predi_Relation
 #is_/part_of :: pending: 
 
 Use it like this: 
-- [is_/included_in_health_insurance_plan :: HealthInsurancePlan] 
-- [ is_included_in_health_insurance_plan :: HealthInsurancePlan] 
+- #is_/included_in_health_insurance_plan :: HealthInsurancePlan 
+- is_/included_in_health_insurance_plan :: HealthInsurancePlan 
 
 The insurance plans that cover this drug.
 

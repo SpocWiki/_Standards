@@ -26,8 +26,8 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [is_/equal_to :: QualitativeValue ] 
-- [ is_equal_to :: QualitativeValue ] 
+- #is_/equal_to :: QualitativeValue  
+- is_/equal_to :: QualitativeValue  
 
 This ordering relation for qualitative values indicates that the subject is equal to the object.
 

@@ -32,8 +32,8 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [is_/legislation_passed_by :: Organization, Person ] 
-- [ is_legislation_passed_by :: Organization, Person ] 
+- #is_/legislation_passed_by :: Organization, Person  
+- is_/legislation_passed_by :: Organization, Person  
 
 The person or organization that originally passed or made the law: typically parliament (for primary legislation) or government (for secondary legislation). This indicates the "legal author" of the law, as opposed to its physical author.
 

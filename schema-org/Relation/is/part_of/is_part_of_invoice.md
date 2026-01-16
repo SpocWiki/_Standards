@@ -30,8 +30,8 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [is_/part_of_/invoice :: Invoice ] 
-- [ is_part_of_invoice :: Invoice ] 
+- #is_/part_of_/invoice :: Invoice  
+- is_/part_of_invoice :: Invoice  
 
 The order is being paid as part of the referenced Invoice.
 

@@ -27,8 +27,8 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [is_/running_to :: Vessel] 
-- [ is_running_to :: Vessel] 
+- #is_/running_to :: Vessel 
+- is_/running_to :: Vessel 
 
 The vasculature the lymphatic structure runs, or efferents, to.
 

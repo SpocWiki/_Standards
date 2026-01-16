@@ -43,8 +43,8 @@ Could be implemented with dedicated #Tags,
 but that would create a Tag-Proliferation. 
 
 Use it like this: 
-- [is_/sub_class_of :: Class] 
-- [ is_sub_class_of :: Class] 
+- #is_/sub_class_of :: Class] 
+- is_/sub_class_of :: Class 
 
 [[../Relation|Relation]] describes that: 
 

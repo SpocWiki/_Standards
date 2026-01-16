@@ -26,8 +26,8 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [is_/about :: [Thing](../../../Class/Thing.md) ] 
-- [ is_about :: [Thing](../../../Class/Thing.md) ] 
+- #is_/about :: [Thing](../../../Class/Thing.md)  
+- is_/about :: [Thing](../../../Class/Thing.md)  
 
 The subject matter of the content. 
 This has a very narrow meaning compared to [[../../../../RDF/RDF~Relations/rdf~subject]], [[../../../../RDF/RDF~Relations/rdf~predicate]], and [[../../../../RDF/RDF~Relations/rdf~object]]. 

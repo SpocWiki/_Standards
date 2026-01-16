@@ -28,8 +28,8 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- [is_/assessing :: DefinedTerm, Text ] 
-- [ is_assessing :: DefinedTerm, Text ] 
+- #is_/assessing :: DefinedTerm, Text  
+- is_/assessing :: DefinedTerm, Text  
 
 The item being described is intended to assess the competency or learning outcome
 defined by the referenced term.

@@ -29,8 +29,8 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [is_/in_playlist :: MusicPlaylist ] 
-- [ is_in_playlist :: MusicPlaylist ] 
+- #is_/in_playlist :: MusicPlaylist  
+- is_/in_playlist :: MusicPlaylist  
 
 The playlist to which this recording belongs.
 

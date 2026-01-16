@@ -27,8 +27,8 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [is_/related_to :: Product, Service] 
-- [ is_related_to :: Product, Service] 
+- #is_/related_to :: Product, Service 
+- is_/related_to :: Product, Service 
 
 A pointer to another, somehow related product (or multiple products).
 

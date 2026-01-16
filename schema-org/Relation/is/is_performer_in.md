@@ -29,8 +29,8 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- [is_/performer_in :: Event ] 
-- [ is_performer_in :: Event ] 
+- #is_/performer_in :: Event  
+- is_/performer_in :: Event  
 
 Event that this person is a performer or participant in.
 

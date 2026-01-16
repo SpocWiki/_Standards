@@ -7,8 +7,8 @@ aliases:
 ---
 
 Use it like this: 
-- [is_/sub_property_of :: [Class](../../Classes.md)] 
-- [ is_sub_property_of :: [Class](../../Classes.md)] 
+- #is_/sub_property_of :: [Class](../../Classes.md) 
+- is_/sub_property_of :: [Class](../../Classes.md) 
 
 Relates a sub-Property to its super-Property. 
 Sub-Properties are more specialized and assign a (named) subset of the Values to a (named, reified) subset of the Subjects. 

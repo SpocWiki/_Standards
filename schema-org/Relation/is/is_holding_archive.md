@@ -29,8 +29,8 @@ type: Predi_Relation
 #is_/part_of :: pending: 
 
 Use it like this: 
-- [is_/holding_archive :: ArchiveOrganization] 
-- [ is_holding_archive :: ArchiveOrganization] 
+- #is_/holding_archive :: ArchiveOrganization 
+- is_/holding_archive :: ArchiveOrganization 
 
 [[ArchiveOrganization]] that holds, keeps or maintains the [[ArchiveComponent]].
 

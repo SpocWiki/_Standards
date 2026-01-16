@@ -35,8 +35,8 @@ type: Predi_Relation
 #is_/part_of :: {{isPartOf}} 
 
 Use it like this: 
-- [is_/{{label_snail}} :: {{rangeIncludes}}] 
-- [ is_{{label_snail}} :: {{rangeIncludes}}] 
+- #is_/{{label_snail}} :: {{rangeIncludes}} 
+- is_/{{label_snail}} :: {{rangeIncludes}} 
 
 {{comment}}
 
