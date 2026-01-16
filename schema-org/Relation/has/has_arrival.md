@@ -1,5 +1,5 @@
 
 # [[has_arrival]] 
 
-#has_/arrival :: [[has_departure]] 
+#has_/complement :: [[has_departure]] 
 
