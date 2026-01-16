@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Number of MedicalConditionStage.
 
 Use it like this: 
-- has_number_of_stage_as_number = `=this.dv_has_number_of_stage_as_number`  
+- #has_/number_of_stage_as_number = `=this.dv_has_number_of_stage_as_number`  
 - has_number_of_stage_as_number = `=this.dv_has_number_of_stage_as_number`  
 
 The stage represented as a number, e.g. 3.

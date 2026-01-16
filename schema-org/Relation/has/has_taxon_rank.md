@@ -59,7 +59,7 @@ dv_is_same_as:
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- has_taxon_rank = `=this.dv_has_taxon_rank`  
+- #has_/taxon_rank = `=this.dv_has_taxon_rank`  
 - has_taxon_rank = `=this.dv_has_taxon_rank`  
 
 The taxonomic rank of this taxon; 

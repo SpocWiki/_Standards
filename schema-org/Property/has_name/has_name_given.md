@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of Person.
 
 Use it like this: 
-- has_name_given = `=this.dv_has_name_given`  
+- #has_/name_given = `=this.dv_has_name_given`  
 - has_name_given = `=this.dv_has_name_given`  
 
 Given name. In the U.S., the first name of a Person.

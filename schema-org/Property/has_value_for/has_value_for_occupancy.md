@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of Apartment, HotelRoom, SingleFamilyResidence, Suite.
 
 Use it like this: 
-- has_value_for_occupancy = `=this.dv_has_value_for_occupancy`  
+- #has_/value_for_occupancy = `=this.dv_has_value_for_occupancy`  
 - has_value_for_occupancy = `=this.dv_has_value_for_occupancy`  
 
 The allowed total occupancy for the accommodation in persons (including infants etc). For individual accommodations, this is not necessarily the legal maximum but defines the permitted usage as per the contractual agreement (e.g. a double room used by a single person).

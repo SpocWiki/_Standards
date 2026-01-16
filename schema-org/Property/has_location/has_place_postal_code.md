@@ -61,7 +61,7 @@ dv_is_same_as:
 Predicate to describe the Text of DefinedRegion, GeoCoordinates, GeoShape, PostalAddress.
 
 Use it like this: 
-- has_place_postal_code = `=this.dv_has_place_postal_code`  
+- #has_/place_postal_code = `=this.dv_has_place_postal_code`  
 - has_place_postal_code = `=this.dv_has_place_postal_code`  
 
 The postal code. For example, 94043.

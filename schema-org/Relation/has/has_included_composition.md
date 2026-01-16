@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_included_composition = `=this.dv_has_included_composition`  
+- #has_/included_composition = `=this.dv_has_included_composition`  
 - has_included_composition = `=this.dv_has_included_composition`  
 
 Smaller compositions included in this work (e.g. a movement in a symphony).

@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Number of Event, Place.
 
 Use it like this: 
-- has_number_of_maximum_attendees = `=this.dv_has_number_of_maximum_attendees`  
+- #has_/number_of_maximum_attendees = `=this.dv_has_number_of_maximum_attendees`  
 - has_number_of_maximum_attendees = `=this.dv_has_number_of_maximum_attendees`  
 
 The total number of individuals that may attend an event or venue.

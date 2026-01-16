@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_workload = `=this.dv_has_workload`  
+- #has_/workload = `=this.dv_has_workload`  
 - has_workload = `=this.dv_has_workload`  
 
 Quantitative measure of the physiologic output of the exercise; also referred to as energy expenditure.

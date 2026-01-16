@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_health_condition = `=this.dv_has_health_condition`  
+- #has_/health_condition = `=this.dv_has_health_condition`  
 - has_health_condition = `=this.dv_has_health_condition`  
 
 Specifying the health condition(s) of a patient, medical study, or other target audience.

@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_trailer = `=this.dv_has_trailer`  
+- #has_/trailer = `=this.dv_has_trailer`  
 - has_trailer = `=this.dv_has_trailer`  
 
 The trailer of a movie or TV/radio series, season, episode, etc.

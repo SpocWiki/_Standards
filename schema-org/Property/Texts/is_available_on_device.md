@@ -64,7 +64,7 @@ Used in cases where a specific make/model is required to run the application.
 Predicate to describe a [[../../../Society/Communication/Media/Creative_Work/Software_Application|SoftwareApplication]].
 
 Use it like this: 
-- has_text_of_available_on_device = `=this.dv_has_text_of_available_on_device`  
+- #has_/text_of_available_on_device = `=this.dv_has_text_of_available_on_device`  
 - has_text_of_available_on_device = `=this.dv_has_text_of_available_on_device`  
 
 Predicated describes that: 

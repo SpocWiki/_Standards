@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Text of GeoShape.
 
 Use it like this: 
-- has_text_of_circle = `=this.dv_has_text_of_circle`  
+- #has_/text_of_circle = `=this.dv_has_text_of_circle`  
 - has_text_of_circle = `=this.dv_has_text_of_circle`  
 
 A circle is the circular region of a specified radius 

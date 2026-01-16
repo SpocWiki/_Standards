@@ -57,7 +57,7 @@ Predicate to describe the date of JobPosting.
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- has_time_to_start_job = `=this.dv_has_time_to_start_job`  
+- #has_/time_to_start_job = `=this.dv_has_time_to_start_job`  
 - has_time_to_start_job = `=this.dv_has_time_to_start_job`  
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 

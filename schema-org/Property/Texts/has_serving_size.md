@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of NutritionInformation.
 
 Use it like this: 
-- has_text_of_serving_size = `=this.dv_has_text_of_serving_size`  
+- #has_/text_of_serving_size = `=this.dv_has_text_of_serving_size`  
 - has_text_of_serving_size = `=this.dv_has_text_of_serving_size`  
 
 The serving size, in terms of the number of volume or mass.

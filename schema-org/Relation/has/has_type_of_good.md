@@ -56,7 +56,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_type_of_good = `=this.dv_has_type_of_good`  
+- #has_/type_of_good = `=this.dv_has_type_of_good`  
 - has_type_of_good = `=this.dv_has_type_of_good`  
 
 The product that this structured value is referring to.

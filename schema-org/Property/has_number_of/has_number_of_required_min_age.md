@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Number of PeopleAudience.
 
 Use it like this: 
-- has_number_of_required_min_age = `=this.dv_has_number_of_required_min_age`  
+- #has_/number_of_required_min_age = `=this.dv_has_number_of_required_min_age`  
 - has_number_of_required_min_age = `=this.dv_has_number_of_required_min_age`  
 
 Audiences defined by a person's minimum age.

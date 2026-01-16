@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the geo of ParcelDelivery.
 
 Use it like this: 
-- has_location_address_delivery = `=this.dv_has_location_address_delivery`  
+- #has_/location_address_delivery = `=this.dv_has_location_address_delivery`  
 - has_location_address_delivery = `=this.dv_has_location_address_delivery`  
 
 Destination address.

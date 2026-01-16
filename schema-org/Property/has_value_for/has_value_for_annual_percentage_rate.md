@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of FinancialProduct.
 
 Use it like this: 
-- has_value_for_annual_percentage_rate = `=this.dv_has_value_for_annual_percentage_rate`  
+- #has_/value_for_annual_percentage_rate = `=this.dv_has_value_for_annual_percentage_rate`  
 - has_value_for_annual_percentage_rate = `=this.dv_has_value_for_annual_percentage_rate`  
 
 The annual rate that is charged for borrowing (or made by investing), expressed as a single percentage number that represents the actual yearly cost of funds over the term of a loan. This includes any fees or additional costs associated with the transaction.

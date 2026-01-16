@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to specify the Url of AlignmentObject.
 
 Use it like this: 
-- has_url_for_target = `=this.dv_has_url_for_target`  
+- #has_/url_for_target = `=this.dv_has_url_for_target`  
 - has_url_for_target = `=this.dv_has_url_for_target`  
 
 The URL of a node in an established educational framework.

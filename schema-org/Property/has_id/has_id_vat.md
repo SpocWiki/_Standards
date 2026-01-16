@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Text of Organization, Person.
 
 Use it like this: 
-- has_id_vat = `=this.dv_has_id_vat`  
+- #has_/id_vat = `=this.dv_has_id_vat`  
 - has_id_vat = `=this.dv_has_id_vat`  
 
 The Value-added Tax ID of the organization or person.

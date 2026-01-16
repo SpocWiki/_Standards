@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of CreativeWork.
 
 Use it like this: 
-- has_text_of_accessibility_control = `=this.dv_has_text_of_accessibility_control`  
+- #has_/text_of_accessibility_control = `=this.dv_has_text_of_accessibility_control`  
 - has_text_of_accessibility_control = `=this.dv_has_text_of_accessibility_control`  
 
 Identifies input methods that are sufficient to fully control the described resource. Values should be drawn from the [approved vocabulary](https://www.w3.org/2021/a11y-discov-vocab/latest/#accessibilityControl-vocabulary).

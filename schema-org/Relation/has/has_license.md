@@ -54,7 +54,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_license_ = `=this.dv_has_license_`  
+- #has_/license_ = `=this.dv_has_license_`  
 - has_license_ = `=this.dv_has_license_`  
 
 A license document that applies to this content, typically indicated by URL.

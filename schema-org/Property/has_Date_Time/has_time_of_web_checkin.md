@@ -54,7 +54,7 @@ dv_is_same_as:
 Predicate to describe the date of Flight.
 
 Use it like this: 
-- has_time_of_web_checkin = `=this.dv_has_time_of_web_checkin`  
+- #has_/time_of_web_checkin = `=this.dv_has_time_of_web_checkin`  
 - has_time_of_web_checkin = `=this.dv_has_time_of_web_checkin`  
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 

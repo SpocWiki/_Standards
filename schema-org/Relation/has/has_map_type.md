@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_map_type = `=this.dv_has_map_type`  
+- #has_/map_type = `=this.dv_has_map_type`  
 - has_map_type = `=this.dv_has_map_type`  
 
 Indicates the kind of Map, from the MapCategoryType Enumeration.

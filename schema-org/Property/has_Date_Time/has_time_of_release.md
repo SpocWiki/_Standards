@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the date of Product.
 
 Use it like this: 
-- has_time_of_release = `=this.dv_has_time_of_release`  
+- #has_/time_of_release = `=this.dv_has_time_of_release`  
 - has_time_of_release = `=this.dv_has_time_of_release`  
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 

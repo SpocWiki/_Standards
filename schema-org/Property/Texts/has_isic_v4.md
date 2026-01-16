@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of Organization, Person, Place.
 
 Use it like this: 
-- has_text_of_isic_v4 = `=this.dv_has_text_of_isic_v4`  
+- #has_/text_of_isic_v4 = `=this.dv_has_text_of_isic_v4`  
 - has_text_of_isic_v4 = `=this.dv_has_text_of_isic_v4`  
 
 ISIC(International Standard of Industrial Classification of All Economic Activities) Revision 4 code for a particular organization, business person, or place.

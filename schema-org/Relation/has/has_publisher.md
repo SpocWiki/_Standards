@@ -54,7 +54,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_publisher = `=this.dv_has_publisher`  
+- #has_/publisher = `=this.dv_has_publisher`  
 - has_publisher = `=this.dv_has_publisher`  
 
 The publisher of the creative work. 

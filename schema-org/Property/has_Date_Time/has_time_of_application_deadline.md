@@ -57,7 +57,7 @@ Predicate to describe the date of EducationalOccupationalProgram.
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- has_time_of_application_deadline = `=this.dv_has_time_of_application_deadline`  
+- #has_/time_of_application_deadline = `=this.dv_has_time_of_application_deadline`  
 - has_time_of_application_deadline = `=this.dv_has_time_of_application_deadline`  
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 

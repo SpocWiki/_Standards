@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Number of LodgingReservation.
 
 Use it like this: 
-- has_number_of_adults = `=this.dv_has_number_of_adults`  
+- #has_/number_of_adults = `=this.dv_has_number_of_adults`  
 - has_number_of_adults = `=this.dv_has_number_of_adults`  
 
 The number of adults staying in the unit.

@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of Demand, Offer, PriceSpecification.
 
 Use it like this: 
-- has_value_for_eligible_quantity = `=this.dv_has_value_for_eligible_quantity`  
+- #has_/value_for_eligible_quantity = `=this.dv_has_value_for_eligible_quantity`  
 - has_value_for_eligible_quantity = `=this.dv_has_value_for_eligible_quantity`  
 
 The interval and unit of measurement of ordering quantities for which the offer or price specification is valid. This allows e.g. specifying that a certain freight charge is valid only for a certain quantity.

@@ -29,7 +29,7 @@ type: Predi_Relation
 # [[has_items]] 
 
 Use it like this: 
-- has_/items :: [Thing](../../../Class/Thing.md) 
+- #has_/items :: [Thing](../../../Class/Thing.md) 
 - has_items :: [Thing](../../../Class/Thing.md) 
 
 An entity represented by an entry in a list or data feed (e.g. an 'artist' in a list of 'artists').

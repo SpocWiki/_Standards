@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of JobPosting, Occupation.
 
 Use it like this: 
-- has_value_for_estimated_salary = `=this.dv_has_value_for_estimated_salary`  
+- #has_/value_for_estimated_salary = `=this.dv_has_value_for_estimated_salary`  
 - has_value_for_estimated_salary = `=this.dv_has_value_for_estimated_salary`  
 
 An estimated salary for a job posting or occupation, based on a variety of variables including, but not limited to industry, job title, and location. Estimated salaries  are often computed by outside organizations rather than the hiring organization, who may not have committed to the estimated value.

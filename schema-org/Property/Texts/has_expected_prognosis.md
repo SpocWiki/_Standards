@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of MedicalCondition.
 
 Use it like this: 
-- has_text_of_expected_prognosis = `=this.dv_has_text_of_expected_prognosis`  
+- #has_/text_of_expected_prognosis = `=this.dv_has_text_of_expected_prognosis`  
 - has_text_of_expected_prognosis = `=this.dv_has_text_of_expected_prognosis`  
 
 The likely outcome in either the short term or long term of the medical condition.

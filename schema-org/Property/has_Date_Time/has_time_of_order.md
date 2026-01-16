@@ -54,7 +54,7 @@ dv_is_same_as:
 Predicate to describe the date of Order.
 
 Use it like this: 
-- has_time_of_order = `=this.dv_has_time_of_order`  
+- #has_/time_of_order = `=this.dv_has_time_of_order`  
 - has_time_of_order = `=this.dv_has_time_of_order`  
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 

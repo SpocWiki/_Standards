@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of ExercisePlan.
 
 Use it like this: 
-- has_text_of_additional_variable = `=this.dv_has_text_of_additional_variable`  
+- #has_/text_of_additional_variable = `=this.dv_has_text_of_additional_variable`  
 - has_text_of_additional_variable = `=this.dv_has_text_of_additional_variable`  
 
 Any additional component of the exercise prescription that may need to be articulated to the patient. This may include the order of exercises, the number of repetitions of movement, quantitative distance, progressions over time, etc.

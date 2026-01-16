@@ -54,7 +54,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_translator = `=this.dv_has_translator`  
+- #has_/translator = `=this.dv_has_translator`  
 - has_translator = `=this.dv_has_translator`  
 
 Organization or person who adapts a creative work to different languages, regional differences and technical requirements of a target market, or that translates during some event.

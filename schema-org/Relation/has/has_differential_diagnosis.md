@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_differential_diagnosis = `=this.dv_has_differential_diagnosis`  
+- #has_/differential_diagnosis = `=this.dv_has_differential_diagnosis`  
 - has_differential_diagnosis = `=this.dv_has_differential_diagnosis`  
 
 One of a set of differential diagnoses for the condition. Specifically, a closely-related or competing diagnosis typically considered later in the cognitive process whereby this medical condition is distinguished from others most likely responsible for a similar collection of signs and symptoms to reach the most parsimonious diagnosis or diagnoses in a patient.

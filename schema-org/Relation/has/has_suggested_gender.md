@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_suggested_gender = `=this.dv_has_suggested_gender`  
+- #has_/suggested_gender = `=this.dv_has_suggested_gender`  
 - has_suggested_gender = `=this.dv_has_suggested_gender`  
 
 The suggested gender of the intended person or audience, for example "male", "female", or "unisex".

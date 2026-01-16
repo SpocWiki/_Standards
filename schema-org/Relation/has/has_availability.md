@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_availability = `=this.dv_has_availability`  
+- #has_/availability = `=this.dv_has_availability`  
 - has_availability = `=this.dv_has_availability`  
 
 The availability of this item&amp;#x2014;for example In stock, Out of stock, Pre-order, etc.

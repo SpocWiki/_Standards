@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_permission_type = `=this.dv_has_permission_type`  
+- #has_/permission_type = `=this.dv_has_permission_type`  
 - has_permission_type = `=this.dv_has_permission_type`  
 
 The type of permission granted the person, organization, or audience.

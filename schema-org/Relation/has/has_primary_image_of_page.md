@@ -57,7 +57,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_primary_image_of_page = `=this.dv_has_primary_image_of_page`  
+- #has_/primary_image_of_page = `=this.dv_has_primary_image_of_page`  
 - has_primary_image_of_page = `=this.dv_has_primary_image_of_page`  
 
 Indicates the main image on the page.

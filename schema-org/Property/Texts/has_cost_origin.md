@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of DrugCost.
 
 Use it like this: 
-- has_text_of_cost_origin = `=this.dv_has_text_of_cost_origin`  
+- #has_/text_of_cost_origin = `=this.dv_has_text_of_cost_origin`  
 - has_text_of_cost_origin = `=this.dv_has_text_of_cost_origin`  
 
 Additional details to capture the origin of the cost data. For example, "Medicare Part B".

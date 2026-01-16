@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_music_by = `=this.dv_has_music_by`  
+- #has_/music_by = `=this.dv_has_music_by`  
 - has_music_by = `=this.dv_has_music_by`  
 
 The composer of the soundtrack.

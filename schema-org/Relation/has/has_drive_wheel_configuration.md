@@ -56,7 +56,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_drive_wheel_configuration = `=this.dv_has_drive_wheel_configuration`  
+- #has_/drive_wheel_configuration = `=this.dv_has_drive_wheel_configuration`  
 - has_drive_wheel_configuration = `=this.dv_has_drive_wheel_configuration`  
 
 The drive wheel configuration, i.e. which roadwheels will receive torque from the vehicle's engine via the drivetrain.

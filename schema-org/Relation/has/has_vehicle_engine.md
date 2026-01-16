@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_vehicle_engine = `=this.dv_has_vehicle_engine`  
+- #has_/vehicle_engine = `=this.dv_has_vehicle_engine`  
 - has_vehicle_engine = `=this.dv_has_vehicle_engine`  
 
 Information about the engine or engines of the vehicle.

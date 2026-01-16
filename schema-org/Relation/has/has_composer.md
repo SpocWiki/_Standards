@@ -54,7 +54,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_composer = `=this.dv_has_composer`  
+- #has_/composer = `=this.dv_has_composer`  
 - has_composer = `=this.dv_has_composer`  
 
 The person or organization who wrote a composition, or who is the composer of a work performed at some event.

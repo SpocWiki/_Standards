@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Text of Demand, Offer, Product.
 
 Use it like this: 
-- has_text_of_mpn = `=this.dv_has_text_of_mpn`  
+- #has_/text_of_mpn = `=this.dv_has_text_of_mpn`  
 - has_text_of_mpn = `=this.dv_has_text_of_mpn`  
 
 The Manufacturer Part Number (MPN) of the product, or the product to which the offer refers.

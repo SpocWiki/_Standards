@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_hiring_organization = `=this.dv_has_hiring_organization`  
+- #has_/hiring_organization = `=this.dv_has_hiring_organization`  
 - has_hiring_organization = `=this.dv_has_hiring_organization`  
 
 Organization or Person offering the job position.

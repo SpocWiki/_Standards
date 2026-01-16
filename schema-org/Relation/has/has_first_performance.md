@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_first_performance = `=this.dv_has_first_performance`  
+- #has_/first_performance = `=this.dv_has_first_performance`  
 - has_first_performance = `=this.dv_has_first_performance`  
 
 The date and place the work was first performed.

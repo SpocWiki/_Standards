@@ -60,7 +60,7 @@ dv_is_same_as:
 Predicate to describe the Text of SoftwareApplication.
 
 Use it like this: 
-- has_text_of_software_requirements = `=this.dv_has_text_of_software_requirements`  
+- #has_/text_of_software_requirements = `=this.dv_has_text_of_software_requirements`  
 - has_text_of_software_requirements = `=this.dv_has_text_of_software_requirements`  
 
 Component dependency requirements for application. This includes runtime environments and shared libraries that are not included in the application distribution package, but required to run the application (examples: DirectX, Java or .NET runtime).

@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Text of SoftwareApplication.
 
 Use it like this: 
-- has_text_of_permissions = `=this.dv_has_text_of_permissions`  
+- #has_/text_of_permissions = `=this.dv_has_text_of_permissions`  
 - has_text_of_permissions = `=this.dv_has_text_of_permissions`  
 
 Permission(s) required to run the app (for example, a mobile app may require full internet access or may run only on wifi).

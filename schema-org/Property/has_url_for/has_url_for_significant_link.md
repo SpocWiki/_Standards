@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to specify the Url of WebPage.
 
 Use it like this: 
-- has_url_for_significant_link = `=this.dv_has_url_for_significant_link`  
+- #has_/url_for_significant_link = `=this.dv_has_url_for_significant_link`  
 - has_url_for_significant_link = `=this.dv_has_url_for_significant_link`  
 
 One of the more significant URLs on the page. Typically, these are the non-navigation links that are clicked on the most.

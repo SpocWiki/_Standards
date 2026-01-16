@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Text of NewsArticle.
 
 Use it like this: 
-- has_text_of_dateline = `=this.dv_has_text_of_dateline`  
+- #has_/text_of_dateline = `=this.dv_has_text_of_dateline`  
 - has_text_of_dateline = `=this.dv_has_text_of_dateline`  
 
 A [dateline](https://en.wikipedia.org/wiki/Dateline) is a brief piece of text 

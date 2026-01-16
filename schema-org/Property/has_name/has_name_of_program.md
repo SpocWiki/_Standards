@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Text of ProgramMembership.
 
 Use it like this: 
-- has_name_of_program = `=this.dv_has_name_of_program`  
+- #has_/name_of_program = `=this.dv_has_name_of_program`  
 - has_name_of_program = `=this.dv_has_name_of_program`  
 
 The program providing the membership.

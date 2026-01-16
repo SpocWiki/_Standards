@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Text of Diet.
 
 Use it like this: 
-- has_text_of_risks = `=this.dv_has_text_of_risks`  
+- #has_/text_of_risks = `=this.dv_has_text_of_risks`  
 - has_text_of_risks = `=this.dv_has_text_of_risks`  
 
 Specific physiologic risks associated to the diet plan.

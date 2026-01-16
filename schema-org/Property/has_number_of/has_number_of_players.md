@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Number of Game, VideoGameSeries.
 
 Use it like this: 
-- has_number_of_players = `=this.dv_has_number_of_players`  
+- #has_/number_of_players = `=this.dv_has_number_of_players`  
 - has_number_of_players = `=this.dv_has_number_of_players`  
 
 Indicate how many people can play this game (minimum, maximum, or range).

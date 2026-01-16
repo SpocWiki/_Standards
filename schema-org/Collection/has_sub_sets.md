@@ -59,7 +59,7 @@ dv_is_same_as:
 Indicates a ([[../Collection/item_list|item_list]] of) [[../Collection]]s is a subset of this [[../Collection]].
 
 Use it like this: 
-- has_sub_sets = `=this.dv_has_sub_sets` ] ] 
+- #has_/sub_sets = `=this.dv_has_sub_sets` ] ] 
 - has_sub_sets = `=this.dv_has_sub_sets` ] ] 
 
 Relation describes that: 

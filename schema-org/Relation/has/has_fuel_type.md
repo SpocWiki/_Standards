@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_fuel_type = `=this.dv_has_fuel_type`  
+- #has_/fuel_type = `=this.dv_has_fuel_type`  
 - has_fuel_type = `=this.dv_has_fuel_type`  
 
 The type of fuel suitable for the engine or engines of the vehicle. If the vehicle has only one engine, this property can be attached directly to the vehicle.

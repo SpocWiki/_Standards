@@ -38,7 +38,7 @@ has_name = `=this.dv_has_name`
 has_range = `=this.dv_has_range` 
 
 Use it like this: 
-- has_owner = `=this.dv_has_owner`  
+- #has_/owner = `=this.dv_has_owner`  
 - has_owner = `=this.dv_has_owner` 
 
 Relation describes [[../../../Society/Law/Civil_Law/Ownership|Ownership]] from the Side of the [[../../Property|Property]]: 

@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of TechArticle.
 
 Use it like this: 
-- has_text_of_proficiency_level = `=this.dv_has_text_of_proficiency_level`  
+- #has_/text_of_proficiency_level = `=this.dv_has_text_of_proficiency_level`  
 - has_text_of_proficiency_level = `=this.dv_has_text_of_proficiency_level`  
 
 Proficiency needed for this content; expected values: "Beginner", "Expert".

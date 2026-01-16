@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_accepted_offer = `=this.dv_has_accepted_offer` ] ] 
+- #has_/accepted_offer = `=this.dv_has_accepted_offer` ] ] 
 - has_accepted_offer = `=this.dv_has_accepted_offer` ] ] 
 
 The offer(s) -- e.g., product, quantity and price combinations -- included in the order.

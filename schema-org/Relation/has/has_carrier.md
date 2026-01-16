@@ -52,7 +52,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_carrier = `=this.dv_has_carrier`  
+- #has_/carrier = `=this.dv_has_carrier`  
 - has_carrier = `=this.dv_has_carrier`  
 
 'carrier' is an out-dated term indicating the 'provider' for parcel delivery and flights.

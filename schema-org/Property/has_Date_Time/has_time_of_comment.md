@@ -55,7 +55,7 @@ dv_is_same_as:
 Predicate to describe the time of UserComments.
 
 Use it like this: 
-- has_time_of_comment = `=this.dv_has_time_of_comment`  
+- #has_/time_of_comment = `=this.dv_has_time_of_comment`  
 - has_time_of_comment_time = `=this.dv_has_time_of_comment_time`  
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 

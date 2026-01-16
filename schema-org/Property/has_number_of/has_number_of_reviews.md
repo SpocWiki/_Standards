@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Number of AggregateRating.
 
 Use it like this: 
-- has_number_of_reviews = `=this.dv_has_number_of_reviews`  
+- #has_/number_of_reviews = `=this.dv_has_number_of_reviews`  
 - has_number_of_reviews = `=this.dv_has_number_of_reviews`  
 
 The count of total number of reviews.

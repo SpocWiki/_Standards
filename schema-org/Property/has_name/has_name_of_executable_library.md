@@ -61,7 +61,7 @@ Library file name, e.g., mscorlib.dll, system.web.dll.
 Predicate to describe the Text of [[../../../Society/Communication/Media/Creative_Work/Article/Tech_Article/Api_Reference|APIReference]].
 
 Use it like this: 
-- has_name_executable_library = `=this.dv_has_name_executable_library`  
+- #has_/name_executable_library = `=this.dv_has_name_executable_library`  
 - has_name_executable_library = `=this.dv_has_name_executable_library`  
 
 Predicated describes that: 

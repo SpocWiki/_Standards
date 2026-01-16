@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of CreativeWork.
 
 Use it like this: 
-- has_text_of_accessibility_hazard = `=this.dv_has_text_of_accessibility_hazard`  
+- #has_/text_of_accessibility_hazard = `=this.dv_has_text_of_accessibility_hazard`  
 - has_text_of_accessibility_hazard = `=this.dv_has_text_of_accessibility_hazard`  
 
 A characteristic of the described resource that is physiologically dangerous to some users. 

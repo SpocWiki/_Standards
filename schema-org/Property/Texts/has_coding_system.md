@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of MedicalCode.
 
 Use it like this: 
-- has_text_of_coding_system = `=this.dv_has_text_of_coding_system`  
+- #has_/text_of_coding_system = `=this.dv_has_text_of_coding_system`  
 - has_text_of_coding_system = `=this.dv_has_text_of_coding_system`  
 
 The coding system, e.g. "ICD-10".

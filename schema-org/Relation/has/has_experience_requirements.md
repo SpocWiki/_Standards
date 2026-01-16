@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_experience_requirements = `=this.dv_has_experience_requirements`  
+- #has_/experience_requirements = `=this.dv_has_experience_requirements`  
 - has_experience_requirements = `=this.dv_has_experience_requirements`  
 
 Description of skills and experience needed for the position or Occupation.

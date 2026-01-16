@@ -60,7 +60,7 @@ dv_is_same_as:
 Predicate to describe the Text of SoftwareApplication.
 
 Use it like this: 
-- has_text_of_countries_not_supported = `=this.dv_has_text_of_countries_not_supported`  
+- #has_/text_of_countries_not_supported = `=this.dv_has_text_of_countries_not_supported`  
 - has_text_of_countries_not_supported = `=this.dv_has_text_of_countries_not_supported`  
 
 Countries for which the application is not supported. You can also provide the two-letter ISO 3166-1 alpha-2 country code.

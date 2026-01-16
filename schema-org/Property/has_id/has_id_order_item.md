@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of OrderItem.
 
 Use it like this: 
-- has_id_order_item = `=this.dv_has_id_order_item`  
+- #has_/id_order_item = `=this.dv_has_id_order_item`  
 - has_id_order_item = `=this.dv_has_id_order_item`  
 
 The identifier of the order item.

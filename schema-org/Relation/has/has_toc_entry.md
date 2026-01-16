@@ -63,7 +63,7 @@ Indicates a [[../../../Society/Communication/Media/Creative_Work/Hyper_Toc_Entry
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- has_toc_entry = `=this.dv_has_toc_entry` ] ] 
+- #has_/toc_entry = `=this.dv_has_toc_entry` ] ] 
 - has_toc_entry = `=this.dv_has_toc_entry` ] ] 
 
 Relation describes that: 

@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_geographic_area = `=this.dv_has_geographic_area`  
+- #has_/geographic_area = `=this.dv_has_geographic_area`  
 - has_geographic_area = `=this.dv_has_geographic_area`  
 
 The geographic area associated with the audience.

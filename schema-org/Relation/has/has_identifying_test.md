@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_identifying_test = `=this.dv_has_identifying_test`  
+- #has_/identifying_test = `=this.dv_has_identifying_test`  
 - has_identifying_test = `=this.dv_has_identifying_test`  
 
 A diagnostic test that can identify this sign.

@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_error = `=this.dv_has_error` (../../../Class/Thing.md) ] 
+- #has_/error = `=this.dv_has_error` (../../../Class/Thing.md) ] 
 - has_error = `=this.dv_has_error` (../../../Class/Thing.md) ] 
 
 For failed actions, more information on the cause of the failure.

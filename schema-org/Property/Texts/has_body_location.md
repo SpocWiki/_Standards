@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of AnatomicalStructure, MedicalProcedure.
 
 Use it like this: 
-- has_text_of_body_location = `=this.dv_has_text_of_body_location`  
+- #has_/text_of_body_location = `=this.dv_has_text_of_body_location`  
 - has_text_of_body_location = `=this.dv_has_text_of_body_location`  
 
 Location in the body of the anatomical structure.

@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of Flight.
 
 Use it like this: 
-- has_text_of_meal_service = `=this.dv_has_text_of_meal_service`  
+- #has_/text_of_meal_service = `=this.dv_has_text_of_meal_service`  
 - has_text_of_meal_service = `=this.dv_has_text_of_meal_service`  
 
 Description of the meals that will be provided or available for purchase.

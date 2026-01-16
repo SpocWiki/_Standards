@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_reservation_for = `=this.dv_has_reservation_for` (../../../Class/Thing.md) ] 
+- #has_/reservation_for = `=this.dv_has_reservation_for` (../../../Class/Thing.md) ] 
 - has_reservation_for = `=this.dv_has_reservation_for` (../../../Class/Thing.md) ] 
 
 The thing -- flight, event, restaurant, etc. being reserved.

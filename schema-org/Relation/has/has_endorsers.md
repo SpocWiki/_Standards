@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_endorsers = `=this.dv_has_endorsers`  
+- #has_/endorsers = `=this.dv_has_endorsers`  
 - has_endorsers = `=this.dv_has_endorsers`  
 
 People or organizations that endorse the plan.

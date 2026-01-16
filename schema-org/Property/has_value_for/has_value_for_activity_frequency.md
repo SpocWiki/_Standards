@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of ExercisePlan.
 
 Use it like this: 
-- has_value_for_activity_frequency = `=this.dv_has_value_for_activity_frequency`  
+- #has_/value_for_activity_frequency = `=this.dv_has_value_for_activity_frequency`  
 - has_value_for_activity_frequency = `=this.dv_has_value_for_activity_frequency`  
 
 How often one should engage in the activity.

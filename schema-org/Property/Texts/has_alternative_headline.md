@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of CreativeWork.
 
 Use it like this: 
-- has_text_of_alternative_headline = `=this.dv_has_text_of_alternative_headline`  
+- #has_/text_of_alternative_headline = `=this.dv_has_text_of_alternative_headline`  
 - has_text_of_alternative_headline = `=this.dv_has_text_of_alternative_headline`  
 
 A secondary title of the CreativeWork.

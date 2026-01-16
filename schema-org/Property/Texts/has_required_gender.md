@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of PeopleAudience.
 
 Use it like this: 
-- has_text_of_required_gender = `=this.dv_has_text_of_required_gender`  
+- #has_/text_of_required_gender = `=this.dv_has_text_of_required_gender`  
 - has_text_of_required_gender = `=this.dv_has_text_of_required_gender`  
 
 Audiences defined by a person"s gender.

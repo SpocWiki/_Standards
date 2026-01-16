@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_medical_specialty = `=this.dv_has_medical_specialty`  
+- #has_/medical_specialty = `=this.dv_has_medical_specialty`  
 - has_medical_specialty = `=this.dv_has_medical_specialty`  
 
 A medical specialty of the provider.

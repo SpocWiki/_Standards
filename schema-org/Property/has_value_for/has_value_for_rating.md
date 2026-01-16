@@ -68,7 +68,7 @@ Similarly the common [[../has_number_of/has_number_of_stars_rating]]  #has_/valu
 
 
 Use it like this: 
-- has_value_for_rating = `=this.dv_has_value_for_rating` ], [[../../Class/is_a_/data_type/text|Text]] ] ] 
+- #has_/value_for_rating = `=this.dv_has_value_for_rating` ], [[../../Class/is_a_/data_type/text|Text]] ] ] 
 - has_value_for_rating = `=this.dv_has_value_for_rating` ], [[../../Class/is_a_/data_type/text|Text]] ] ] 
 
 The rating for the content.

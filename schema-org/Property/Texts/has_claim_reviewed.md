@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of ClaimReview.
 
 Use it like this: 
-- has_text_of_claim_reviewed = `=this.dv_has_text_of_claim_reviewed`  
+- #has_/text_of_claim_reviewed = `=this.dv_has_text_of_claim_reviewed`  
 - has_text_of_claim_reviewed = `=this.dv_has_text_of_claim_reviewed`  
 
 A short summary of the specific claims reviewed in a ClaimReview.

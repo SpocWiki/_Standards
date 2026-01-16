@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Number of AggregateOffer.
 
 Use it like this: 
-- has_number_of_offers = `=this.dv_has_number_of_offers`  
+- #has_/number_of_offers = `=this.dv_has_number_of_offers`  
 - has_number_of_offers = `=this.dv_has_number_of_offers`  
 
 The number of offers for the product.

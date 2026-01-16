@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_bed = `=this.dv_has_bed`  
+- #has_/bed = `=this.dv_has_bed`  
 - has_bed = `=this.dv_has_bed`  
 
 The type of bed or beds included in the accommodation. For the single case of just one bed of a certain type, you use bed directly with a text.

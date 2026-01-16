@@ -60,7 +60,7 @@ dv_is_same_as:
 Predicate to describe the Text of SoftwareApplication.
 
 Use it like this: 
-- has_text_of_application_sub_category = `=this.dv_has_text_of_application_sub_category`  
+- #has_/text_of_application_sub_category = `=this.dv_has_text_of_application_sub_category`  
 - has_text_of_application_sub_category = `=this.dv_has_text_of_application_sub_category`  
 
 Subcategory of the application, e.g. "Arcade Game".

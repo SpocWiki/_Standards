@@ -60,7 +60,7 @@ dv_is_same_as:
 Predicate to describe the Text of VideoObject.
 
 Use it like this: 
-- has_text_of_video_frame_size = `=this.dv_has_text_of_video_frame_size`  
+- #has_/text_of_video_frame_size = `=this.dv_has_text_of_video_frame_size`  
 - has_text_of_video_frame_size = `=this.dv_has_text_of_video_frame_size`  
 
 The frame size of the video.

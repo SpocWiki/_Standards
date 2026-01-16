@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of DatedMoneySpecification, InvestmentOrDeposit, LoanOrCredit, MonetaryGrant, MoneyTransfer.
 
 Use it like this: 
-- has_value_for_amount = `=this.dv_has_value_for_amount`  
+- #has_/value_for_amount = `=this.dv_has_value_for_amount`  
 - has_value_for_amount = `=this.dv_has_value_for_amount`  
 
 The amount of money.

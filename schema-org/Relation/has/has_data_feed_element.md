@@ -56,7 +56,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_data_feed_element = `=this.dv_has_data_feed_element`  
+- #has_/data_feed_element = `=this.dv_has_data_feed_element`  
 - has_data_feed_element = `=this.dv_has_data_feed_element`  
 
 An item within a data feed. Data feeds may have many elements.

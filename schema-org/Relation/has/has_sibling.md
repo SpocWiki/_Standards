@@ -52,7 +52,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_sibling = `=this.dv_has_sibling`  
+- #has_/sibling = `=this.dv_has_sibling`  
 - has_sibling = `=this.dv_has_sibling`  
 
 A sibling of the person.

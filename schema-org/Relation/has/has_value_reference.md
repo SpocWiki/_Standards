@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_value_reference = `=this.dv_has_value_reference`  
+- #has_/value_reference = `=this.dv_has_value_reference`  
 - has_value_reference = `=this.dv_has_value_reference`  
 
 A secondary value that provides additional information on the original value, e.g. a reference temperature or a type of measurement.

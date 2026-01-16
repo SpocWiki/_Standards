@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of DietarySupplement.
 
 Use it like this: 
-- has_text_of_safety_consideration = `=this.dv_has_text_of_safety_consideration`  
+- #has_/text_of_safety_consideration = `=this.dv_has_text_of_safety_consideration`  
 - has_text_of_safety_consideration = `=this.dv_has_text_of_safety_consideration`  
 
 Any potential safety concern associated with the supplement. May include interactions with other drugs and foods, pregnancy, breastfeeding, known adverse reactions, and documented efficacy of the supplement.

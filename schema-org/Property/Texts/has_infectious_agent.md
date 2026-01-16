@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of InfectiousDisease.
 
 Use it like this: 
-- has_text_of_infectious_agent = `=this.dv_has_text_of_infectious_agent`  
+- #has_/text_of_infectious_agent = `=this.dv_has_text_of_infectious_agent`  
 - has_text_of_infectious_agent = `=this.dv_has_text_of_infectious_agent`  
 
 The actual infectious agent, such as a specific bacterium.

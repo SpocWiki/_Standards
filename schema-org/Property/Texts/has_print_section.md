@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of NewsArticle.
 
 Use it like this: 
-- has_text_of_print_section = `=this.dv_has_text_of_print_section`  
+- #has_/text_of_print_section = `=this.dv_has_text_of_print_section`  
 - has_text_of_print_section = `=this.dv_has_text_of_print_section`  
 
 If this NewsArticle appears in print, this field indicates the print section in which the article appeared.

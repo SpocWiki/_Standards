@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of Vehicle.
 
 Use it like this: 
-- has_value_for_fuel_efficiency = `=this.dv_has_value_for_fuel_efficiency`  
+- #has_/value_for_fuel_efficiency = `=this.dv_has_value_for_fuel_efficiency`  
 - has_value_for_fuel_efficiency = `=this.dv_has_value_for_fuel_efficiency`  
 
 The distance traveled per unit of fuel used; most commonly miles per gallon (mpg) or kilometers per liter (km/L).

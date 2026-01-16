@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Text of Airline, Airport.
 
 Use it like this: 
-- has_code_iata = `=this.dv_has_code_iata`  
+- #has_/code_iata = `=this.dv_has_code_iata`  
 - has_code_iata = `=this.dv_has_code_iata`  
 
 IATA identifier for an airline or airport.

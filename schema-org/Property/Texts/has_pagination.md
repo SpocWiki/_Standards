@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Text of Article, Chapter, PublicationIssue, PublicationVolume.
 
 Use it like this: 
-- has_text_of_pagination = `=this.dv_has_text_of_pagination`  
+- #has_/text_of_pagination = `=this.dv_has_text_of_pagination`  
 - has_text_of_pagination = `=this.dv_has_text_of_pagination`  
 
 Any description of pages that is not separated into pageStart and pageEnd; for example, "1-6, 9, 55" or "10-12, 46-49".

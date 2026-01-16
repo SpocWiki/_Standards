@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_authenticator = `=this.dv_has_authenticator`  
+- #has_/authenticator = `=this.dv_has_authenticator`  
 - has_authenticator = `=this.dv_has_authenticator`  
 
 The Organization responsible for authenticating the user's subscription.

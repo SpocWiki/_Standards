@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_play_mode = `=this.dv_has_play_mode`  
+- #has_/play_mode = `=this.dv_has_play_mode`  
 - has_play_mode = `=this.dv_has_play_mode`  
 
 Indicates whether this game is multi-player, co-op or single-player.  The game can be marked as multi-player, co-op and single-player at the same time.

@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_sub_structure = `=this.dv_has_sub_structure`  
+- #has_/sub_structure = `=this.dv_has_sub_structure`  
 - has_sub_structure = `=this.dv_has_sub_structure`  
 
 Component (sub-)structure(s) that comprise this anatomical structure.

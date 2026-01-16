@@ -53,7 +53,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_associated_anatomy = `=this.dv_has_associated_anatomy`  
+- #has_/associated_anatomy = `=this.dv_has_associated_anatomy`  
 - has_associated_anatomy = `=this.dv_has_associated_anatomy`  
 
 The anatomy of the underlying organ system or structures associated with this entity.

@@ -58,7 +58,7 @@ dv_is_same_as:
 Indicates a ([[../Collection/item_list|item_list]] of) [[../Property]]  is an instance of this [[../Property]] .
 
 Use it like this: 
-- has_sub_properties = `=this.dv_has_sub_properties` ]  ] 
+- #has_/sub_properties = `=this.dv_has_sub_properties` ]  ] 
 - has_sub_properties = `=this.dv_has_sub_properties` ]  ] 
 
 Relation describes that: 

@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Text of MedicalProcedure.
 
 Use it like this: 
-- has_text_of_followup = `=this.dv_has_text_of_followup`  
+- #has_/text_of_followup = `=this.dv_has_text_of_followup`  
 - has_text_of_followup = `=this.dv_has_text_of_followup`  
 
 Typical or recommended followup care after the procedure is performed.

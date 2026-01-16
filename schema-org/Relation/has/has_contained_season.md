@@ -61,7 +61,7 @@ dv_is_same_as:
 A season that is part of the media series.
 
 Use it like this: 
-- has_contained_season = `=this.dv_has_contained_season` ] ] 
+- #has_/contained_season = `=this.dv_has_contained_season` ] ] 
 - has_contained_season = `=this.dv_has_contained_season` ] ] 
 
 [[../../Relation|Relation]] describes that: 

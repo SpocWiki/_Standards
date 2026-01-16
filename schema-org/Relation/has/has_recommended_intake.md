@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_recommended_intake = `=this.dv_has_recommended_intake`  
+- #has_/recommended_intake = `=this.dv_has_recommended_intake`  
 - has_recommended_intake = `=this.dv_has_recommended_intake`  
 
 Recommended intake of this supplement for a given population as defined by a specific recommending authority.

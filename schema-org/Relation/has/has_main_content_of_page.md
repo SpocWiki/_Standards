@@ -58,7 +58,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_main_content_of_page = `=this.dv_has_main_content_of_page`  
+- #has_/main_content_of_page = `=this.dv_has_main_content_of_page`  
 - has_main_content_of_page = `=this.dv_has_main_content_of_page`  
 
 Indicates if this web page element is the main subject of the page.

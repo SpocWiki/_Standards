@@ -56,7 +56,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_music_release_format = `=this.dv_has_music_release_format`  
+- #has_/music_release_format = `=this.dv_has_music_release_format`  
 - has_music_release_format = `=this.dv_has_music_release_format`  
 
 Format of this release (the type of recording media used, i.e. compact disc, digital media, LP, etc.).

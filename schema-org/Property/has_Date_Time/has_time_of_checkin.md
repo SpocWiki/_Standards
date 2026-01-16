@@ -54,7 +54,7 @@ dv_is_same_as:
 Predicate to describe the time of LodgingBusiness, LodgingReservation.
 
 Use it like this: 
-- has_time_of_checkin_time = `=this.dv_has_time_of_checkin_time`  
+- #has_/time_of_checkin_time = `=this.dv_has_time_of_checkin_time`  
 - has_time_of_checkin_time = `=this.dv_has_time_of_checkin_time`  
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 

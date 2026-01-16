@@ -60,7 +60,7 @@ dv_is_same_as:
 Predicate to describe the Text of Drug.
 
 Use it like this: 
-- has_text_of_clinical_pharmacology = `=this.dv_has_text_of_clinical_pharmacology`  
+- #has_/text_of_clinical_pharmacology = `=this.dv_has_text_of_clinical_pharmacology`  
 - has_text_of_clinical_pharmacology = `=this.dv_has_text_of_clinical_pharmacology`  
 
 Description of the absorption and elimination of drugs, including their concentration (pharmacokinetics, pK) and biological effects (pharmacodynamics, pD).

@@ -52,7 +52,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_track = `=this.dv_has_track`  
+- #has_/track = `=this.dv_has_track`  
 - has_track = `=this.dv_has_track`  
 
 A music recording (track)&amp;#x2014;usually a single song. If an ItemList is given, the list should contain items of type MusicRecording.

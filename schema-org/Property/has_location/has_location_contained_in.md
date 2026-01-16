@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the geo of Place.
 
 Use it like this: 
-- has_location_contained_in = `=this.dv_has_location_contained_in`  
+- #has_/location_contained_in = `=this.dv_has_location_contained_in`  
 - has_location_contained_in = `=this.dv_has_location_contained_in`  
 
 The basic containment relation between a place and one that contains it.

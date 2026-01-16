@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of MonetaryAmount, PropertyValue, PropertyValueSpecification, QuantitativeValue.
 
 Use it like this: 
-- has_value_for_max = `=this.dv_has_value_for_max`  
+- #has_/value_for_max = `=this.dv_has_value_for_max`  
 - has_value_for_max = `=this.dv_has_value_for_max`  
 
 The upper value of some characteristic or property.

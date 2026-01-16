@@ -55,7 +55,7 @@ dv_is_same_as:
 Predicate to describe the Duration of Recipe.
 
 Use it like this: 
-- has_duration_of_cooking = `=this.dv_has_duration_of_cooking`  
+- #has_/duration_of_cooking = `=this.dv_has_duration_of_cooking`  
 - has_duration_of_cooking = `=this.dv_has_duration_of_cooking`  with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
 
 The time it takes to actually cook the dish, in [ISO 8601 duration format](http://en.wikipedia.org/wiki/ISO_8601).

@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to specify the Url of ParcelDelivery.
 
 Use it like this: 
-- has_url_for_tracking = `=this.dv_has_url_for_tracking`  
+- #has_/url_for_tracking = `=this.dv_has_url_for_tracking`  
 - has_url_for_tracking = `=this.dv_has_url_for_tracking`  
 
 Tracking url for the parcel delivery.

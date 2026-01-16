@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Text of SoftwareApplication.
 
 Use it like this: 
-- has_number_of_file_bytes = `=this.dv_has_number_of_file_bytes`  
+- #has_/number_of_file_bytes = `=this.dv_has_number_of_file_bytes`  
 - has_number_of_file_bytes = `=this.dv_has_number_of_file_bytes`  
 
 Size of the application / package (e.g. 18MB). In the absence of a unit (MB, KB etc.), KB will be assumed.

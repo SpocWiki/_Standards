@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the geo of [[geo_coordinates]], [[Geo_Shape]], [[../../../Society/Agent/Community/Organization]], [[../../../Society/Agent/Person]], [[../../../Earth/Geography/Place]].
 
 Use it like this: 
-- has_location_address = `=this.dv_has_location_address`  
+- #has_/location_address = `=this.dv_has_location_address`  
 - has_location_address = `=this.dv_has_location_address`  
 
 Physical address of the item.

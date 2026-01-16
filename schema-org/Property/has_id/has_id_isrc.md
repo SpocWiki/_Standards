@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of MusicRecording.
 
 Use it like this: 
-- has_id_isrc_code = `=this.dv_has_id_isrc_code`  
+- #has_/id_isrc_code = `=this.dv_has_id_isrc_code`  
 - has_id_isrc_code = `=this.dv_has_id_isrc_code`  
 
 The International Standard Recording Code for the recording.

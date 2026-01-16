@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of APIReference.
 
 Use it like this: 
-- has_text_of_target_platform = `=this.dv_has_text_of_target_platform`  
+- #has_/text_of_target_platform = `=this.dv_has_text_of_target_platform`  
 - has_text_of_target_platform = `=this.dv_has_text_of_target_platform`  
 
 Type of app development: phone, Metro style, desktop, XBox, etc.

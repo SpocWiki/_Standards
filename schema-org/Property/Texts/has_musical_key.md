@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of MusicComposition.
 
 Use it like this: 
-- has_text_of_musical_key = `=this.dv_has_text_of_musical_key`  
+- #has_/text_of_musical_key = `=this.dv_has_text_of_musical_key`  
 - has_text_of_musical_key = `=this.dv_has_text_of_musical_key`  
 
 The key, mode, or scale this composition uses.

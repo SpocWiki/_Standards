@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_imaging_technique = `=this.dv_has_imaging_technique`  
+- #has_/imaging_technique = `=this.dv_has_imaging_technique`  
 - has_imaging_technique = `=this.dv_has_imaging_technique`  
 
 Imaging technique used.

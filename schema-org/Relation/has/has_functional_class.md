@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_functional_class = `=this.dv_has_functional_class`  
+- #has_/functional_class = `=this.dv_has_functional_class`  
 - has_functional_class = `=this.dv_has_functional_class`  
 
 The degree of mobility the joint allows.

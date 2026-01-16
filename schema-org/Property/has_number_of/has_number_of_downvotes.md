@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Number of Comment.
 
 Use it like this: 
-- has_number_of_downvotes = `=this.dv_has_number_of_downvotes`  
+- #has_/number_of_downvotes = `=this.dv_has_number_of_downvotes`  
 - has_number_of_downvotes = `=this.dv_has_number_of_downvotes`  
 
 The number of downvotes this question, answer or comment has received from the community.

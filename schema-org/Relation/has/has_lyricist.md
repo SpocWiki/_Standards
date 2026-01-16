@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_lyricist = `=this.dv_has_lyricist`  
+- #has_/lyricist = `=this.dv_has_lyricist`  
 - has_lyricist = `=this.dv_has_lyricist`  
 
 The person who wrote the words.

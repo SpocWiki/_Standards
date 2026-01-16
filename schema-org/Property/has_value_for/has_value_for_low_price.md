@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of AggregateOffer.
 
 Use it like this: 
-- has_value_for_low_price = `=this.dv_has_value_for_low_price`  
+- #has_/value_for_low_price = `=this.dv_has_value_for_low_price`  
 - has_value_for_low_price = `=this.dv_has_value_for_low_price`  
 
 The lowest price of all offers available.

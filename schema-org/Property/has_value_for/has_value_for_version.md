@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of CreativeWork.
 
 Use it like this: 
-- has_value_for_version = `=this.dv_has_value_for_version`  
+- #has_/value_for_version = `=this.dv_has_value_for_version`  
 - has_value_for_version = `=this.dv_has_value_for_version`  
 
 The version of the CreativeWork embodied by a specified resource.

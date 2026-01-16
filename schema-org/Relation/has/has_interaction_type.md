@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_interaction_type = `=this.dv_has_interaction_type`  
+- #has_/interaction_type = `=this.dv_has_interaction_type`  
 - has_interaction_type = `=this.dv_has_interaction_type`  
 
 The Action representing the type of interaction. 

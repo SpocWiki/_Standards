@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_game_tip = `=this.dv_has_game_tip`  
+- #has_/game_tip = `=this.dv_has_game_tip`  
 - has_game_tip = `=this.dv_has_game_tip`  
 
 Links to tips, tactics, etc.

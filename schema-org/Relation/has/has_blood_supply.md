@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_blood_supply = `=this.dv_has_blood_supply`  
+- #has_/blood_supply = `=this.dv_has_blood_supply`  
 - has_blood_supply = `=this.dv_has_blood_supply`  
 
 The blood vessel that carries blood from the heart to the muscle.

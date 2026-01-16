@@ -60,7 +60,7 @@ dv_is_same_as:
 Predicate to describe the Text of BroadcastChannel.
 
 Use it like this: 
-- has_text_of_broadcast_service_tier = `=this.dv_has_text_of_broadcast_service_tier`  
+- #has_/text_of_broadcast_service_tier = `=this.dv_has_text_of_broadcast_service_tier`  
 - has_text_of_broadcast_service_tier = `=this.dv_has_text_of_broadcast_service_tier`  
 
 The type of service required to have access to the channel (e.g. Standard or Premium).

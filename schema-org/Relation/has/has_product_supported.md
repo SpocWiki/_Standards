@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_product_supported = `=this.dv_has_product_supported`  
+- #has_/product_supported = `=this.dv_has_product_supported`  
 - has_product_supported = `=this.dv_has_product_supported`  
 
 The product or service this support contact point is related to (such as product support for a particular product line). This can be a specific product or product line (e.g. "iPhone") or a general category of products or services (e.g. "smartphones").

@@ -61,7 +61,7 @@ The default [[../../../Dimension/Unit_of_Measure|Unit_of_Measure]]  are [[../../
 - as a [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]] with `value` and `unitCode`
 
 Use it like this: 
-- has_value_for_distance = `=this.dv_has_value_for_distance`  
+- #has_/value_for_distance = `=this.dv_has_value_for_distance`  
 - has_value_for_distance = `=this.dv_has_value_for_distance`  
 
 The distance travelled, e.g. exercising or travelling.

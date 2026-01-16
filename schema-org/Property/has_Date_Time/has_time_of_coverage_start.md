@@ -54,7 +54,7 @@ dv_is_same_as:
 Predicate to describe the time of LiveBlogPosting.
 
 Use it like this: 
-- has_time_of_coverage_start = `=this.dv_has_time_of_coverage_start`  
+- #has_/time_of_coverage_start = `=this.dv_has_time_of_coverage_start`  
 - has_time_of_coverage_start = `=this.dv_has_time_of_coverage_start`  
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 

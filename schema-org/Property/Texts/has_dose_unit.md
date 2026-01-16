@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of DoseSchedule.
 
 Use it like this: 
-- has_text_of_dose_unit = `=this.dv_has_text_of_dose_unit`  
+- #has_/text_of_dose_unit = `=this.dv_has_text_of_dose_unit`  
 - has_text_of_dose_unit = `=this.dv_has_text_of_dose_unit`  
 
 The unit of the dose, e.g. "mg".

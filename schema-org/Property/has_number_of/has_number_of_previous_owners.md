@@ -59,7 +59,7 @@ Predicate to describe the Number of owners of the vehicle,
 including the current one.
 
 Use it like this: 
-- has_number_of_previous_owners = `=this.dv_has_number_of_previous_owners`  
+- #has_/number_of_previous_owners = `=this.dv_has_number_of_previous_owners`  
 - has_number_of_previous_owners = `=this.dv_has_number_of_previous_owners`  
 
 

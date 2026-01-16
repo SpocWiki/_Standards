@@ -54,7 +54,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_illustrator = `=this.dv_has_illustrator`  
+- #has_/illustrator = `=this.dv_has_illustrator`  
 - has_illustrator = `=this.dv_has_illustrator`  
 
 The illustrator of the book.

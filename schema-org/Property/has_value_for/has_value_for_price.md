@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of Offer, PriceSpecification, TradeAction.
 
 Use it like this: 
-- has_value_for_price = `=this.dv_has_value_for_price`  
+- #has_/value_for_price = `=this.dv_has_value_for_price`  
 - has_value_for_price = `=this.dv_has_value_for_price`  
 
 The offer price of a product, or of a price component when attached to PriceSpecification and its subtypes.

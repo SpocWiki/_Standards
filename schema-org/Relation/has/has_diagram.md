@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_diagram = `=this.dv_has_diagram`  
+- #has_/diagram = `=this.dv_has_diagram`  
 - has_diagram = `=this.dv_has_diagram`  
 
 An image containing a diagram that illustrates the structure and/or its component substructures and/or connections with other structures.

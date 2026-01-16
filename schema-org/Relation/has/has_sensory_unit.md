@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_sensory_unit = `=this.dv_has_sensory_unit`  
+- #has_/sensory_unit = `=this.dv_has_sensory_unit`  
 - has_sensory_unit = `=this.dv_has_sensory_unit`  
 
 The neurological pathway extension that inputs and sends information to the brain or spinal cord.

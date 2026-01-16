@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Number of GameServer.
 
 Use it like this: 
-- has_number_of_players_online = `=this.dv_has_number_of_players_online`  
+- #has_/number_of_players_online = `=this.dv_has_number_of_players_online`  
 - has_number_of_players_online = `=this.dv_has_number_of_players_online`  
 
 Number of players on the server.

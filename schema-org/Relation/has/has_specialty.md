@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_specialty = `=this.dv_has_specialty`  
+- #has_/specialty = `=this.dv_has_specialty`  
 - has_specialty = `=this.dv_has_specialty`  
 
 One of the domain specialities to which this web page's content applies.

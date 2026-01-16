@@ -54,7 +54,7 @@ dv_is_same_as:
 Predicate to describe the date of Product, Vehicle.
 
 Use it like this: 
-- has_time_of_production = `=this.dv_has_time_of_production`  
+- #has_/time_of_production = `=this.dv_has_time_of_production`  
 - has_time_of_production = `=this.dv_has_time_of_production`  
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 

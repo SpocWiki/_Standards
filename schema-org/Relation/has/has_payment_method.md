@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_payment_method = `=this.dv_has_payment_method`  
+- #has_/payment_method = `=this.dv_has_payment_method`  
 - has_payment_method = `=this.dv_has_payment_method`  
 
 The name of the credit card or other method of payment for the order.

@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_drug = `=this.dv_has_drug`  
+- #has_/drug = `=this.dv_has_drug`  
 - has_drug = `=this.dv_has_drug`  
 
 Specifying a drug or medicine used in a medication procedure.

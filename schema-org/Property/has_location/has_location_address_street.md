@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of PostalAddress.
 
 Use it like this: 
-- has_location_address_street = `=this.dv_has_location_address_street`  
+- #has_/location_address_street = `=this.dv_has_location_address_street`  
 - has_location_address_street = `=this.dv_has_location_address_street`  
 
 The street address. For example, 1600 Amphitheatre Pkwy.

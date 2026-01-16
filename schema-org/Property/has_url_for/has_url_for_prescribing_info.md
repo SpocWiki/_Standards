@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to specify the Url of Drug.
 
 Use it like this: 
-- has_url_for_prescribing_info = `=this.dv_has_url_for_prescribing_info`  
+- #has_/url_for_prescribing_info = `=this.dv_has_url_for_prescribing_info`  
 - has_url_for_prescribing_info = `=this.dv_has_url_for_prescribing_info`  
 
 Link to prescribing information for the drug.

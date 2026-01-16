@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Text of BroadcastService.
 
 Use it like this: 
-- has_name_display_broadcast = `=this.dv_has_name_display_broadcast`  
+- #has_/name_display_broadcast = `=this.dv_has_name_display_broadcast`  
 - has_name_display_broadcast = `=this.dv_has_name_display_broadcast`  
 
 The name displayed in the channel guide. 

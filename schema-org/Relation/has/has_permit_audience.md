@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_permit_audience = `=this.dv_has_permit_audience`  
+- #has_/permit_audience = `=this.dv_has_permit_audience`  
 - has_permit_audience = `=this.dv_has_permit_audience`  
 
 The target audience for this permit.

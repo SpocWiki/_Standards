@@ -53,7 +53,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_available_strength = `=this.dv_has_available_strength`  
+- #has_/available_strength = `=this.dv_has_available_strength`  
 - has_available_strength = `=this.dv_has_available_strength`  
 
 An available dosage strength for the drug.

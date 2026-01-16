@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to specify the Url of SoftwareApplication.
 
 Use it like this: 
-- has_url_for_download = `=this.dv_has_url_for_download`  
+- #has_/url_for_download = `=this.dv_has_url_for_download`  
 - has_url_for_download = `=this.dv_has_url_for_download`  
 
 If the file can be downloaded, URL to download the binary.

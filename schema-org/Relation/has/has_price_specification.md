@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_price_specification = `=this.dv_has_price_specification`  
+- #has_/price_specification = `=this.dv_has_price_specification`  
 - has_price_specification = `=this.dv_has_price_specification`  
 
 One or more detailed price specifications, indicating the unit price and delivery or payment charges.

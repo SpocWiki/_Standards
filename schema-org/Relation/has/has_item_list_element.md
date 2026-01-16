@@ -56,7 +56,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_item_list_element = `=this.dv_has_item_list_element`  
+- #has_/item_list_element = `=this.dv_has_item_list_element`  
 - has_item_list_element = `=this.dv_has_item_list_element`  
 
 For itemListElement values, you can use simple strings (e.g. "Peter", "Paul", "Mary"), existing entities, or use ListItem.

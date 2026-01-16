@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Text of Brand, Organization, Place, Product, Service.
 
 Use it like this: 
-- has_text_of_slogan = `=this.dv_has_text_of_slogan`  
+- #has_/text_of_slogan = `=this.dv_has_text_of_slogan`  
 - has_text_of_slogan = `=this.dv_has_text_of_slogan`  
 
 A slogan or motto associated with the item.

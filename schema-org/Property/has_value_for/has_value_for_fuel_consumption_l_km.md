@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of Vehicle.
 
 Use it like this: 
-- has_value_for_fuel_consumption_l_km = `=this.dv_has_value_for_fuel_consumption_l_km`  
+- #has_/value_for_fuel_consumption_l_km = `=this.dv_has_value_for_fuel_consumption_l_km`  
 - has_value_for_fuel_consumption_l_km = `=this.dv_has_value_for_fuel_consumption_l_km`  
 
 The amount of fuel consumed for traveling a particular distance or temporal duration with the given vehicle (e.g. liters per 100 km).

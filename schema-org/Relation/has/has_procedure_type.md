@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_procedure_type = `=this.dv_has_procedure_type`  
+- #has_/procedure_type = `=this.dv_has_procedure_type`  
 - has_procedure_type = `=this.dv_has_procedure_type`  
 
 The type of procedure, for example Surgical, Noninvasive, or Percutaneous.

@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of EntryPoint.
 
 Use it like this: 
-- has_text_of_http_method = `=this.dv_has_text_of_http_method`  
+- #has_/text_of_http_method = `=this.dv_has_text_of_http_method`  
 - has_text_of_http_method = `=this.dv_has_text_of_http_method`  
 
 An HTTP method that specifies the appropriate HTTP method for a request to an HTTP EntryPoint. Values are capitalized strings as used in HTTP.

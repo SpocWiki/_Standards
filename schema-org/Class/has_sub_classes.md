@@ -70,7 +70,7 @@ is_similar_to = `=this.dv_is_similar_to`
 Indicates a ([[../Collection/item_list|item_list]] of) [[Thing]] is an instance of this [[../Class]].
 
 Use it like this: 
-- has_sub_classes = `=this.dv_has_sub_classes` ] ] 
+- #has_/sub_classes = `=this.dv_has_sub_classes` ] ] 
 - has_sub_classes = `=this.dv_has_sub_classes` ] ] 
 
 Relation describes that: 

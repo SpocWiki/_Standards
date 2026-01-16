@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of UnitPriceSpecification.
 
 Use it like this: 
-- has_value_for_billing_increment = `=this.dv_has_value_for_billing_increment`  
+- #has_/value_for_billing_increment = `=this.dv_has_value_for_billing_increment`  
 - has_value_for_billing_increment = `=this.dv_has_value_for_billing_increment`  
 
 This property specifies the minimal quantity and rounding increment that will be the basis for the billing. The unit of measurement is specified by the unitCode property.

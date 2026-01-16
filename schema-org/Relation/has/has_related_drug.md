@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_related_drug = `=this.dv_has_related_drug`  
+- #has_/related_drug = `=this.dv_has_related_drug`  
 - has_related_drug = `=this.dv_has_related_drug`  
 
 Any other drug related to this one, for example commonly-prescribed alternatives.

@@ -54,7 +54,7 @@ dv_is_same_as:
 Predicate to describe the date of CreativeWork, DataFeedItem, Reservation.
 
 Use it like this: 
-- has_time_modified = `=this.dv_has_time_modified`  
+- #has_/time_modified = `=this.dv_has_time_modified`  
 - has_time_modified = `=this.dv_has_time_modified`  
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 

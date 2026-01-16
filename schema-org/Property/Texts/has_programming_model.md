@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of APIReference.
 
 Use it like this: 
-- has_text_of_programming_model = `=this.dv_has_text_of_programming_model`  
+- #has_/text_of_programming_model = `=this.dv_has_text_of_programming_model`  
 - has_text_of_programming_model = `=this.dv_has_text_of_programming_model`  
 
 Indicates whether API is managed or unmanaged.

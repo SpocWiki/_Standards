@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of BroadcastService.
 
 Use it like this: 
-- has_text_of_broadcast_timezone = `=this.dv_has_text_of_broadcast_timezone`  
+- #has_/text_of_broadcast_timezone = `=this.dv_has_text_of_broadcast_timezone`  
 - has_text_of_broadcast_timezone = `=this.dv_has_text_of_broadcast_timezone`  
 
 The timezone in [ISO 8601 format](http://en.wikipedia.org/wiki/ISO_8601) for which the service bases its broadcasts.

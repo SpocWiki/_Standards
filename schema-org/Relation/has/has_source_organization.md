@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_source_organization = `=this.dv_has_source_organization`  
+- #has_/source_organization = `=this.dv_has_source_organization`  
 - has_source_organization = `=this.dv_has_source_organization`  
 
 The Organization on whose behalf the creator was working.

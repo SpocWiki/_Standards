@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Text of PropertyValue.
 
 Use it like this: 
-- has_id_property = `=this.dv_has_id_property`  
+- #has_/id_property = `=this.dv_has_id_property`  
 - has_id_property = `=this.dv_has_id_property`  
 
 A commonly used identifier for the characteristic represented by the property, e.g. a manufacturer or a standard code for a property. propertyID can be

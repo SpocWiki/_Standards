@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_programming_language = `=this.dv_has_programming_language`  
+- #has_/programming_language = `=this.dv_has_programming_language`  
 - has_programming_language = `=this.dv_has_programming_language`  
 
 The computer programming language of the Subject Source Code.

@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_reservation_status = `=this.dv_has_reservation_status`  
+- #has_/reservation_status = `=this.dv_has_reservation_status`  
 - has_reservation_status = `=this.dv_has_reservation_status`  
 
 The current status of the reservation.

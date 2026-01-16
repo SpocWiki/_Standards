@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_breadcrumb = `=this.dv_has_breadcrumb`  
+- #has_/breadcrumb = `=this.dv_has_breadcrumb`  
 - has_breadcrumb = `=this.dv_has_breadcrumb`  
 
 A set of links that can help a user understand and navigate a website hierarchy.

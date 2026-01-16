@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of PropertyValueSpecification.
 
 Use it like this: 
-- has_text_of_value_pattern = `=this.dv_has_text_of_value_pattern`  
+- #has_/text_of_value_pattern = `=this.dv_has_text_of_value_pattern`  
 - has_text_of_value_pattern = `=this.dv_has_text_of_value_pattern`  
 
 Specifies a regular expression for testing literal values according to the HTML spec.

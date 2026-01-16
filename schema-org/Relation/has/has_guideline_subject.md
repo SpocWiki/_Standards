@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_guideline_subject = `=this.dv_has_guideline_subject`  
+- #has_/guideline_subject = `=this.dv_has_guideline_subject`  
 - has_guideline_subject = `=this.dv_has_guideline_subject`  
 
 The medical conditions, treatments, etc. that are the subject of the guideline.

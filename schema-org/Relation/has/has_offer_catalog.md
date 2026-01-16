@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_offer_catalog = `=this.dv_has_offer_catalog`  
+- #has_/offer_catalog = `=this.dv_has_offer_catalog`  
 - has_offer_catalog = `=this.dv_has_offer_catalog`  
 
 Indicates an OfferCatalog listing for this Organization, Person, or Service.

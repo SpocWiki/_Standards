@@ -61,7 +61,7 @@ dv_is_same_as:
 Predicate to describe the Text of SoftwareSourceCode.
 
 Use it like this: 
-- has_code_of_sample_type = `=this.dv_has_code_of_sample_type`  
+- #has_/code_of_sample_type = `=this.dv_has_code_of_sample_type`  
 - has_code_of_sample_type = `=this.dv_has_code_of_sample_type`  
 
 What type of code sample: 

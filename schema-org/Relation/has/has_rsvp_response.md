@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_rsvp_response = `=this.dv_has_rsvp_response`  
+- #has_/rsvp_response = `=this.dv_has_rsvp_response`  
 - has_rsvp_response = `=this.dv_has_rsvp_response`  
 
 The response (yes, no, maybe) to the RSVP.

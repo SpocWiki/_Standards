@@ -56,7 +56,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_aggregate_rating = `=this.dv_has_aggregate_rating`  
+- #has_/aggregate_rating = `=this.dv_has_aggregate_rating`  
 - has_aggregate_rating = `=this.dv_has_aggregate_rating`  
 
 The overall rating, based on a collection of reviews or ratings, of the item.

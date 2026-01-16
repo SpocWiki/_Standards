@@ -57,7 +57,7 @@ Predicate to describe the Duration of EducationalOccupationalProgram.
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- has_duration_to_complete = `=this.dv_has_duration_to_complete`  
+- #has_/duration_to_complete = `=this.dv_has_duration_to_complete`  
 - has_duration_to_complete = `=this.dv_has_duration_to_complete`  with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
 
 The expected length of time to complete the program if attending full-time.

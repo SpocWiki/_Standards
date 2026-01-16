@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of APIReference.
 
 Use it like this: 
-- has_text_of_assembly_version = `=this.dv_has_text_of_assembly_version`  
+- #has_/text_of_assembly_version = `=this.dv_has_text_of_assembly_version`  
 - has_text_of_assembly_version = `=this.dv_has_text_of_assembly_version`  
 
 Associated product/technology version. E.g., .NET Framework 4.5.

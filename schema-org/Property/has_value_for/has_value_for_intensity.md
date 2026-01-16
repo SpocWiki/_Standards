@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of ExercisePlan.
 
 Use it like this: 
-- has_value_for_intensity = `=this.dv_has_value_for_intensity`  
+- #has_/value_for_intensity = `=this.dv_has_value_for_intensity`  
 - has_value_for_intensity = `=this.dv_has_value_for_intensity`  
 
 Quantitative measure gauging the degree of force involved in the exercise, for example, heartbeats per minute. May include the velocity of the movement.

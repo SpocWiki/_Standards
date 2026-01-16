@@ -54,7 +54,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_editor = `=this.dv_has_editor`  
+- #has_/editor = `=this.dv_has_editor`  
 - has_editor = `=this.dv_has_editor`  
 
 Specifies the Person who edited the CreativeWork.

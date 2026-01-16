@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of DrugStrength.
 
 Use it like this: 
-- has_value_for_strength = `=this.dv_has_value_for_strength`  
+- #has_/value_for_strength = `=this.dv_has_value_for_strength`  
 - has_value_for_strength = `=this.dv_has_value_for_strength`  
 
 The value of an active ingredient's strength, e.g. 325.

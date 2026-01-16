@@ -61,7 +61,7 @@ dv_is_same_as:
 Predicate to describe the email-Address-Text of ContactPoint, Organization, Person.
 
 Use it like this: 
-- has_text_of_email = `=this.dv_has_text_of_email`  
+- #has_/text_of_email = `=this.dv_has_text_of_email`  
 - has_text_of_email = `=this.dv_has_text_of_email`  
 
 Email address.

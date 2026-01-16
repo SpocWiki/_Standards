@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of CreativeWork.
 
 Use it like this: 
-- has_text_of_interactivity_type = `=this.dv_has_text_of_interactivity_type`  
+- #has_/text_of_interactivity_type = `=this.dv_has_text_of_interactivity_type`  
 - has_text_of_interactivity_type = `=this.dv_has_text_of_interactivity_type`  
 
 The predominant mode of learning supported by the learning resource. Acceptable values are "active", "expositive", or "mixed".

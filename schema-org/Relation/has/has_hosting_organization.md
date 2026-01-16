@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_hosting_organization = `=this.dv_has_hosting_organization`  
+- #has_/hosting_organization = `=this.dv_has_hosting_organization`  
 - has_hosting_organization = `=this.dv_has_hosting_organization`  
 
 The organization (airline, travelers' club, etc.) the membership is made with.

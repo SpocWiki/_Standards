@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_service_type = `=this.dv_has_service_type`  
+- #has_/service_type = `=this.dv_has_service_type`  
 - has_service_type = `=this.dv_has_service_type`  
 
 The type of service being offered, e.g. veterans' benefits, emergency relief, etc.

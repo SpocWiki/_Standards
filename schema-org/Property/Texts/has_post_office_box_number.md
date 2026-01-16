@@ -61,7 +61,7 @@ dv_is_same_as:
 Predicate to describe the Text of PostalAddress.
 
 Use it like this: 
-- has_text_of_post_office_box_number = `=this.dv_has_text_of_post_office_box_number`  
+- #has_/text_of_post_office_box_number = `=this.dv_has_text_of_post_office_box_number`  
 - has_text_of_post_office_box_number = `=this.dv_has_text_of_post_office_box_number`  
 
 The post office box number for PO box addresses.

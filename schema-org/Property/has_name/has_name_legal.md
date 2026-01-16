@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Text of Organization.
 
 Use it like this: 
-- has_name_legal = `=this.dv_has_name_legal`  
+- #has_/name_legal = `=this.dv_has_name_legal`  
 - has_name_legal = `=this.dv_has_name_legal`  
 
 The official name of the organization, e.g. the registered company name.

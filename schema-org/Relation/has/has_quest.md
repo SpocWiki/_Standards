@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_quest = `=this.dv_has_quest` (../../../Class/Thing.md) ] 
+- #has_/quest = `=this.dv_has_quest` (../../../Class/Thing.md) ] 
 - has_quest = `=this.dv_has_quest` (../../../Class/Thing.md) ] 
 
 The task that a player-controlled character, or group of characters may complete in order to gain a reward.

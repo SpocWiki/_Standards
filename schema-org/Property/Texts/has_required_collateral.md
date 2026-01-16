@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of LoanOrCredit.
 
 Use it like this: 
-- has_text_of_required_collateral = `=this.dv_has_text_of_required_collateral`  
+- #has_/text_of_required_collateral = `=this.dv_has_text_of_required_collateral`  
 - has_text_of_required_collateral = `=this.dv_has_text_of_required_collateral`  
 
 Assets required to secure loan or credit repayments. It may take form of third party pledge, goods, financial instruments (cash, securities, etc.)

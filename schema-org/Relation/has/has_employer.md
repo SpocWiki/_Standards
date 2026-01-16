@@ -32,7 +32,7 @@ dv_is_same_as:
 # [[has_employer]] 
 
 Use it like this: 
-- has_employer = `=this.dv_has_employer` ] ] 
+- #has_/employer = `=this.dv_has_employer` ] ] 
 - has_employer = `=this.dv_has_employer` ] ] 
 
 Someone working for this organization.

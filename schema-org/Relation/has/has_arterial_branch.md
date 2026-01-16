@@ -56,7 +56,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_arterial_branch = `=this.dv_has_arterial_branch`  
+- #has_/arterial_branch = `=this.dv_has_arterial_branch`  
 - has_arterial_branch = `=this.dv_has_arterial_branch`  
 
 The branches that comprise the arterial structure.

@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Number of VisualArtwork.
 
 Use it like this: 
-- has_number_of_art_edition = `=this.dv_has_number_of_art_edition`  
+- #has_/number_of_art_edition = `=this.dv_has_number_of_art_edition`  
 - has_number_of_art_edition = `=this.dv_has_number_of_art_edition`  
 
 The number of copies when multiple copies of a piece of artwork are produced - e.g. for a limited edition of 20 prints, 'artEdition' refers to the total number of copies (in this example "20").

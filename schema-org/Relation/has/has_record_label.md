@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_record_label = `=this.dv_has_record_label`  
+- #has_/record_label = `=this.dv_has_record_label`  
 - has_record_label = `=this.dv_has_record_label`  
 
 The label that issued the release.

@@ -60,7 +60,7 @@ dv_is_same_as:
 Predicate to describe the Text of DietarySupplement, Drug.
 
 Use it like this: 
-- has_text_of_mechanism_of_action = `=this.dv_has_text_of_mechanism_of_action`  
+- #has_/text_of_mechanism_of_action = `=this.dv_has_text_of_mechanism_of_action`  
 - has_text_of_mechanism_of_action = `=this.dv_has_text_of_mechanism_of_action`  
 
 The specific biochemical interaction through which this drug or supplement produces its pharmacological effect.

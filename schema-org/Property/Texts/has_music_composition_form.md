@@ -60,7 +60,7 @@ dv_is_same_as:
 Predicate to describe the Text of MusicComposition.
 
 Use it like this: 
-- has_text_of_music_composition_form = `=this.dv_has_text_of_music_composition_form`  
+- #has_/text_of_music_composition_form = `=this.dv_has_text_of_music_composition_form`  
 - has_text_of_music_composition_form = `=this.dv_has_text_of_music_composition_form`  
 
 The type of composition (e.g. overture, sonata, symphony, etc.).

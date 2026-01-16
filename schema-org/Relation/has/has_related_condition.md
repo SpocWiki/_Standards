@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_related_condition = `=this.dv_has_related_condition`  
+- #has_/related_condition = `=this.dv_has_related_condition`  
 - has_related_condition = `=this.dv_has_related_condition`  
 
 A medical condition associated with this anatomy.

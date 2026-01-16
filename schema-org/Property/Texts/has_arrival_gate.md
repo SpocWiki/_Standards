@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of Flight.
 
 Use it like this: 
-- has_text_of_arrival_gate = `=this.dv_has_text_of_arrival_gate`  
+- #has_/text_of_arrival_gate = `=this.dv_has_text_of_arrival_gate`  
 - has_text_of_arrival_gate = `=this.dv_has_text_of_arrival_gate`  
 
 Identifier of the flight"s arrival gate.

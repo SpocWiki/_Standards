@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of MedicalGuideline.
 
 Use it like this: 
-- has_text_of_evidence_origin = `=this.dv_has_text_of_evidence_origin`  
+- #has_/text_of_evidence_origin = `=this.dv_has_text_of_evidence_origin`  
 - has_text_of_evidence_origin = `=this.dv_has_text_of_evidence_origin`  
 
 Source of the data used to formulate the guidance, e.g. RCT, consensus opinion, etc.

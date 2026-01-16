@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_relevant_occupation = `=this.dv_has_relevant_occupation`  
+- #has_/relevant_occupation = `=this.dv_has_relevant_occupation`  
 - has_relevant_occupation = `=this.dv_has_relevant_occupation`  
 
 The Occupation for the JobPosting.

@@ -54,7 +54,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_children = `=this.dv_has_children`  
+- #has_/children = `=this.dv_has_children`  
 - has_children = `=this.dv_has_children`  
 
 The children of the person.

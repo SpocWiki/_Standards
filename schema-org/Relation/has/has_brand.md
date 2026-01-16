@@ -54,7 +54,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_brand = `=this.dv_has_brand`  
+- #has_/brand = `=this.dv_has_brand`  
 - has_brand = `=this.dv_has_brand`  
 
 The brand(s) associated with a product or service, or the brand(s) maintained by an organization or business person.

@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Text of GeoShape.
 
 Use it like this: 
-- has_text_of_box = `=this.dv_has_text_of_box`  
+- #has_/text_of_box = `=this.dv_has_text_of_box`  
 - has_text_of_box = `=this.dv_has_text_of_box`  
 
 A box is the area enclosed by the rectangle formed by two points. The first point is the lower corner, the second point is the upper corner. A box is expressed as two points separated by a space character.

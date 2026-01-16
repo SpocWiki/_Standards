@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to specify the Url of SoftwareApplication.
 
 Use it like this: 
-- has_url_for_install = `=this.dv_has_url_for_install`  
+- #has_/url_for_install = `=this.dv_has_url_for_install`  
 - has_url_for_install = `=this.dv_has_url_for_install`  
 
 URL at which the app may be installed, if different from the URL of the item.

@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of FlightReservation.
 
 Use it like this: 
-- has_text_of_security_screening = `=this.dv_has_text_of_security_screening`  
+- #has_/text_of_security_screening = `=this.dv_has_text_of_security_screening`  
 - has_text_of_security_screening = `=this.dv_has_text_of_security_screening`  
 
 The type of security screening the passenger is subject to.

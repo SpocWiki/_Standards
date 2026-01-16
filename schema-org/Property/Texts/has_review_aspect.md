@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of Guide, Rating, Review.
 
 Use it like this: 
-- has_text_of_review_aspect = `=this.dv_has_text_of_review_aspect`  
+- #has_/text_of_review_aspect = `=this.dv_has_text_of_review_aspect`  
 - has_text_of_review_aspect = `=this.dv_has_text_of_review_aspect`  
 
 This Review or Rating is relevant to this part or facet of the itemReviewed.

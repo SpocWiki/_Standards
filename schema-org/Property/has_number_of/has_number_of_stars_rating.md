@@ -73,7 +73,7 @@ The interpretation of each star can vary, but a general understanding is:
 The Rating can be mapped to an equivalent linear scale (although the Distribution is often Gaussian) using 20* Stars - 10%
 
 Use it like this: 
-- has_number_of_stars_rating = `=this.dv_has_number_of_stars_rating` ] ] 
+- #has_/number_of_stars_rating = `=this.dv_has_number_of_stars_rating` ] ] 
 - has_number_of_stars_rating = `=this.dv_has_number_of_stars_rating` ] ] 
 
 An official rating for a lodging business or food establishment, e.g. from national associations or standards bodies. 

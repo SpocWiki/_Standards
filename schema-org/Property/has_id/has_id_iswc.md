@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Text of MusicComposition.
 
 Use it like this: 
-- has_id_iswc = `=this.dv_has_id_iswc`  
+- #has_/id_iswc = `=this.dv_has_id_iswc`  
 - has_id_iswc = `=this.dv_has_id_iswc`  
 
 The International Standard Musical Work Code for the composition.

@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Number of Question.
 
 Use it like this: 
-- has_number_of_answers = `=this.dv_has_number_of_answers`  
+- #has_/number_of_answers = `=this.dv_has_number_of_answers`  
 - has_number_of_answers = `=this.dv_has_number_of_answers`  
 
 The number of answers this question has received.

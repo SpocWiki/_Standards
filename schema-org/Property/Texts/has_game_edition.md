@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of VideoGame.
 
 Use it like this: 
-- has_text_of_game_edition = `=this.dv_has_text_of_game_edition`  
+- #has_/text_of_game_edition = `=this.dv_has_text_of_game_edition`  
 - has_text_of_game_edition = `=this.dv_has_text_of_game_edition`  
 
 The edition of a video game.

@@ -54,7 +54,7 @@ dv_is_same_as:
 Predicate to describe the date of Permit.
 
 Use it like this: 
-- has_time_valid_until = `=this.dv_has_time_valid_until`  
+- #has_/time_valid_until = `=this.dv_has_time_valid_until`  
 - has_time_valid_until = `=this.dv_has_time_valid_until`  
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 

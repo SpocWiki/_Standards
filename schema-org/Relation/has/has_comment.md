@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_comment = `=this.dv_has_comment`  
+- #has_/comment = `=this.dv_has_comment`  
 - has_comment = `=this.dv_has_comment`  
 
 Comments, typically from users.

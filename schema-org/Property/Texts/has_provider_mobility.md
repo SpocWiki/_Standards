@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of Service.
 
 Use it like this: 
-- has_text_of_provider_mobility = `=this.dv_has_text_of_provider_mobility`  
+- #has_/text_of_provider_mobility = `=this.dv_has_text_of_provider_mobility`  
 - has_text_of_provider_mobility = `=this.dv_has_text_of_provider_mobility`  
 
 Indicates the mobility of a provided service (e.g. "static", "dynamic").

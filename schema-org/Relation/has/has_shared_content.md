@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_shared_content = `=this.dv_has_shared_content`  
+- #has_/shared_content = `=this.dv_has_shared_content`  
 - has_shared_content = `=this.dv_has_shared_content`  
 
 A CreativeWork such as an image, video, or audio clip shared as part of this posting.

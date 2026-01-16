@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the geo of CreativeWork.
 
 Use it like this: 
-- has_location_spatial = `=this.dv_has_location_spatial`  
+- #has_/location_spatial = `=this.dv_has_location_spatial`  
 - has_location_spatial = `=this.dv_has_location_spatial`  
 
 The "spatial" property can be used in cases when more specific properties

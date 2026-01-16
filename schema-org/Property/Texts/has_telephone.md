@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of ContactPoint, Organization, Person, Place.
 
 Use it like this: 
-- has_telephone = `=this.dv_has_telephone`  
+- #has_/telephone = `=this.dv_has_telephone`  
 - has_telephone = `=this.dv_has_telephone`  
 
 The telephone number. Specify the Type of Phone Number to distinguish multiple. 

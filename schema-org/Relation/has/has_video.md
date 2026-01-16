@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_video = `=this.dv_has_video`  
+- #has_/video = `=this.dv_has_video`  
 - has_video = `=this.dv_has_video`  
 
 An embedded video object.

@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Number of BedDetails.
 
 Use it like this: 
-- has_number_of_beds = `=this.dv_has_number_of_beds`  
+- #has_/number_of_beds = `=this.dv_has_number_of_beds`  
 - has_number_of_beds = `=this.dv_has_number_of_beds`  
 
 The quantity of the given bed type available in the HotelRoom, Suite, House, or Apartment.

@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of Joint.
 
 Use it like this: 
-- has_text_of_structural_class = `=this.dv_has_text_of_structural_class`  
+- #has_/text_of_structural_class = `=this.dv_has_text_of_structural_class`  
 - has_text_of_structural_class = `=this.dv_has_text_of_structural_class`  
 
 The name given to how bone physically connects to each other.

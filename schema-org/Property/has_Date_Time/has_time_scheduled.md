@@ -54,7 +54,7 @@ dv_is_same_as:
 Predicate to describe the date of PlanAction.
 
 Use it like this: 
-- has_time_scheduled = `=this.dv_has_time_scheduled`  
+- #has_/time_scheduled = `=this.dv_has_time_scheduled`  
 - has_time_scheduled = `=this.dv_has_time_scheduled`  
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 

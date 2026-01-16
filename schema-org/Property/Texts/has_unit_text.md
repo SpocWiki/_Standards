@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of PropertyValue, QuantitativeValue, TypeAndQuantityNode, UnitPriceSpecification.
 
 Use it like this: 
-- has_text_of_unit_text = `=this.dv_has_text_of_unit_text`  
+- #has_/text_of_unit_text = `=this.dv_has_text_of_unit_text`  
 - has_text_of_unit_text = `=this.dv_has_text_of_unit_text`  
 
 A string or text indicating the unit of measurement. Useful if you can not provide a standard unit code for

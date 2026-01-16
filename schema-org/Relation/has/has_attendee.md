@@ -52,7 +52,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_attendee = `=this.dv_has_attendee`  
+- #has_/attendee = `=this.dv_has_attendee`  
 - has_attendee = `=this.dv_has_attendee`  
 
 A person or organization attending the event.

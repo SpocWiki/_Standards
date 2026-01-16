@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of EducationalAudience.
 
 Use it like this: 
-- has_text_of_educational_role = `=this.dv_has_text_of_educational_role`  
+- #has_/text_of_educational_role = `=this.dv_has_text_of_educational_role`  
 - has_text_of_educational_role = `=this.dv_has_text_of_educational_role`  
 
 An educationalRole of an EducationalAudience.

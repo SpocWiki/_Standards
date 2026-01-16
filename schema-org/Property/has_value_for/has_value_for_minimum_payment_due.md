@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of Invoice.
 
 Use it like this: 
-- has_value_for_minimum_payment_due = `=this.dv_has_value_for_minimum_payment_due`  
+- #has_/value_for_minimum_payment_due = `=this.dv_has_value_for_minimum_payment_due`  
 - has_value_for_minimum_payment_due = `=this.dv_has_value_for_minimum_payment_due`  
 
 The minimum payment required at this time.

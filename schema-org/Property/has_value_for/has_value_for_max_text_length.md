@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of [[../../Class/is_a_/Intangible/property_value_specification|PropertyValueSpecification]].
 
 Use it like this: 
-- has_value_for_max_text_length = `=this.dv_has_value_for_max_text_length`  
+- #has_/value_for_max_text_length = `=this.dv_has_value_for_max_text_length`  
 - has_value_for_max_text_length = `=this.dv_has_value_for_max_text_length`  
 
 Specifies the allowed range for number of characters in a literal value.

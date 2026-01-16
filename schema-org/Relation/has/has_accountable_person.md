@@ -52,7 +52,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_accountable_person = `=this.dv_has_accountable_person`  
+- #has_/accountable_person = `=this.dv_has_accountable_person`  
 - has_accountable_person = `=this.dv_has_accountable_person`  
 
 Specifies the Person that is legally accountable for the CreativeWork.

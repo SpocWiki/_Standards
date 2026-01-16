@@ -53,7 +53,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_associated_article = `=this.dv_has_associated_article`  
+- #has_/associated_article = `=this.dv_has_associated_article`  
 - has_associated_article = `=this.dv_has_associated_article`  
 
 A NewsArticle associated with the Media Object.

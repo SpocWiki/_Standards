@@ -60,7 +60,7 @@ dv_is_same_as:
 Predicate to describe the Text of JobPosting.
 
 Use it like this: 
-- has_text_of_job_benefits = `=this.dv_has_text_of_job_benefits`  
+- #has_/text_of_job_benefits = `=this.dv_has_text_of_job_benefits`  
 - has_text_of_job_benefits = `=this.dv_has_text_of_job_benefits`  
 
 Description of benefits associated with the job.

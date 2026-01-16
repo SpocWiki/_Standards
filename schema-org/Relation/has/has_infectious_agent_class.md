@@ -56,7 +56,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_infectious_agent_class = `=this.dv_has_infectious_agent_class`  
+- #has_/infectious_agent_class = `=this.dv_has_infectious_agent_class`  
 - has_infectious_agent_class = `=this.dv_has_infectious_agent_class`  
 
 The class of infectious agent (bacteria, prion, etc.) that causes the disease.

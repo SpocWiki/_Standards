@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to specify the Url of Order.
 
 Use it like this: 
-- has_url_for_payment = `=this.dv_has_url_for_payment`  
+- #has_/url_for_payment = `=this.dv_has_url_for_payment`  
 - has_url_for_payment = `=this.dv_has_url_for_payment`  
 
 The URL for sending a payment.

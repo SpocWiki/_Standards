@@ -56,7 +56,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_software_add_on = `=this.dv_has_software_add_on`  
+- #has_/software_add_on = `=this.dv_has_software_add_on`  
 - has_software_add_on = `=this.dv_has_software_add_on`  
 
 Additional content for a software application.

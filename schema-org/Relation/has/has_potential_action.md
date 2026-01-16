@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_potential_action = `=this.dv_has_potential_action`  
+- #has_/potential_action = `=this.dv_has_potential_action`  
 - has_potential_action = `=this.dv_has_potential_action`  
 
 Indicates a potential Action, which describes an idealized action in which this thing would play an 'object' role.

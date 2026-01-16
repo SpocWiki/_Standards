@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_item_shipped = `=this.dv_has_item_shipped`  
+- #has_/item_shipped = `=this.dv_has_item_shipped`  
 - has_item_shipped = `=this.dv_has_item_shipped`  
 
 Item(s) being shipped.

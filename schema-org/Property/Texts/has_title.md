@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Text of JobPosting.
 
 Use it like this: 
-- has_text_of_title = `=this.dv_has_text_of_title`  
+- #has_/text_of_title = `=this.dv_has_text_of_title`  
 - has_text_of_title = `=this.dv_has_text_of_title`  
 
 The title of the job.

@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the geo of JobPosting.
 
 Use it like this: 
-- has_location_job = `=this.dv_has_location_job`  
+- #has_/location_job = `=this.dv_has_location_job`  
 - has_location_job = `=this.dv_has_location_job`  
 
 A (typically single) geographic location associated with the job position.

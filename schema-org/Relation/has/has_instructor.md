@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_instructor = `=this.dv_has_instructor`  
+- #has_/instructor = `=this.dv_has_instructor`  
 - has_instructor = `=this.dv_has_instructor`  
 
 A person assigned to instruct or provide instructional assistance for the [[CourseInstance]].

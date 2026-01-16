@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Text of ProgramMembership.
 
 Use it like this: 
-- has_id_membership = `=this.dv_has_id_membership`  
+- #has_/id_membership = `=this.dv_has_id_membership`  
 - has_id_membership = `=this.dv_has_id_membership`  
 
 A unique identifier for the membership.

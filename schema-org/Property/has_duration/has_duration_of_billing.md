@@ -61,7 +61,7 @@ Type can be either a Duration or a Number
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- has_duration_of_billing = `=this.dv_has_duration_of_billing`  
+- #has_/duration_of_billing = `=this.dv_has_duration_of_billing`  
 - has_duration_of_billing = `=this.dv_has_duration_of_billing`  with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
 
 Formal Predicate: 

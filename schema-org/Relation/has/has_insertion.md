@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_insertion = `=this.dv_has_insertion`  
+- #has_/insertion = `=this.dv_has_insertion`  
 - has_insertion = `=this.dv_has_insertion`  
 
 The place of attachment of a muscle, or what the muscle moves.

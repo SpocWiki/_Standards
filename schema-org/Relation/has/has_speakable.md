@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_speakable = `=this.dv_has_speakable`  
+- #has_/speakable = `=this.dv_has_speakable`  
 - has_speakable = `=this.dv_has_speakable`  
 
 Indicates sections of a Web page that are particularly 'speakable' in the sense of being highlighted as being especially appropriate for text-to-speech conversion. Other sections of a page may also be usefully spoken in particular circumstances; the 'speakable' property serves to indicate the parts most likely to be generally useful for speech.

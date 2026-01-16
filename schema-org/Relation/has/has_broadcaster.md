@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_broadcaster = `=this.dv_has_broadcaster`  
+- #has_/broadcaster = `=this.dv_has_broadcaster`  
 - has_broadcaster = `=this.dv_has_broadcaster`  
 
 The organization owning or operating the broadcast service.
@@ -59,7 +59,6 @@ The organization owning or operating the broadcast service.
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

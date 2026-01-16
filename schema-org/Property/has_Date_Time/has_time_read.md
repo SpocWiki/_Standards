@@ -54,7 +54,7 @@ dv_is_same_as:
 Predicate to describe the date of Message.
 
 Use it like this: 
-- has_time_read = `=this.dv_has_time_read`  
+- #has_/time_read = `=this.dv_has_time_read`  
 - has_time_read = `=this.dv_has_time_read`  
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 

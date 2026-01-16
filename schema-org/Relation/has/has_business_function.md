@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_business_function = `=this.dv_has_business_function`  
+- #has_/business_function = `=this.dv_has_business_function`  
 - has_business_function = `=this.dv_has_business_function`  
 
 The business function (e.g. sell, lease, repair, dispose) of the offer or component of a bundle (TypeAndQuantityNode). The default is http://purl.org/goodrelations/v1#Sell.

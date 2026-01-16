@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of MedicalDevice.
 
 Use it like this: 
-- has_text_of_pre_op = `=this.dv_has_text_of_pre_op`  
+- #has_/text_of_pre_op = `=this.dv_has_text_of_pre_op`  
 - has_text_of_pre_op = `=this.dv_has_text_of_pre_op`  
 
 A description of the workup, testing, and other preparations required before implanting this device.

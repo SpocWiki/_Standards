@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_released_event = `=this.dv_has_released_event`  
+- #has_/released_event = `=this.dv_has_released_event`  
 - has_released_event = `=this.dv_has_released_event`  
 
 The place and time the release was issued, expressed as a PublicationEvent.

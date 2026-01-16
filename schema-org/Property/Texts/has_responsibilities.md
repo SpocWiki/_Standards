@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Text of JobPosting, Occupation.
 
 Use it like this: 
-- has_text_of_responsibilities = `=this.dv_has_text_of_responsibilities`  
+- #has_/text_of_responsibilities = `=this.dv_has_text_of_responsibilities`  
 - has_text_of_responsibilities = `=this.dv_has_text_of_responsibilities`  
 
 Responsibilities associated with this role or Occupation.

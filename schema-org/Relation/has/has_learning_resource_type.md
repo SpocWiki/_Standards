@@ -56,7 +56,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_learning_resource_type = `=this.dv_has_learning_resource_type`  
+- #has_/learning_resource_type = `=this.dv_has_learning_resource_type`  
 - has_learning_resource_type = `=this.dv_has_learning_resource_type`  
 
 The predominant type or kind characterizing the learning resource. For example, 'presentation', 'handout'.

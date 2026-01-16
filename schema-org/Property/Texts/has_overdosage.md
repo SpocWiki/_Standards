@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Text of Drug.
 
 Use it like this: 
-- has_text_of_overdosage = `=this.dv_has_text_of_overdosage`  
+- #has_/text_of_overdosage = `=this.dv_has_text_of_overdosage`  
 - has_text_of_overdosage = `=this.dv_has_text_of_overdosage`  
 
 Any information related to overdose on a drug, including signs or symptoms, treatments, contact information for emergency response.

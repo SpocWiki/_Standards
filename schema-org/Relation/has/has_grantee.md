@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_grantee = `=this.dv_has_grantee`  
+- #has_/grantee = `=this.dv_has_grantee`  
 - has_grantee = `=this.dv_has_grantee`  
 
 The person, organization, contact point, or audience that has been granted this permission.

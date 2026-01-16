@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of PathologyTest.
 
 Use it like this: 
-- has_text_of_tissue_sample = `=this.dv_has_text_of_tissue_sample`  
+- #has_/text_of_tissue_sample = `=this.dv_has_text_of_tissue_sample`  
 - has_text_of_tissue_sample = `=this.dv_has_text_of_tissue_sample`  
 
 The type of tissue sample required for the test.

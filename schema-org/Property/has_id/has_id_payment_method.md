@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of Invoice, Order.
 
 Use it like this: 
-- has_id_payment_method = `=this.dv_has_id_payment_method`  
+- #has_/id_payment_method = `=this.dv_has_id_payment_method`  
 - has_id_payment_method = `=this.dv_has_id_payment_method`  
 
 An identifier for the method of payment used (e.g. the last 4 digits of the credit card).

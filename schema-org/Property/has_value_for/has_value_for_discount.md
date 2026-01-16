@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of Order.
 
 Use it like this: 
-- has_value_for_discount = `=this.dv_has_value_for_discount`  
+- #has_/value_for_discount = `=this.dv_has_value_for_discount`  
 - has_value_for_discount = `=this.dv_has_value_for_discount`  
 
 Any discount applied (to an Order).

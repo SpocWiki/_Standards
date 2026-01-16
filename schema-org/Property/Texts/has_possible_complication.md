@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of MedicalCondition.
 
 Use it like this: 
-- has_text_of_possible_complication = `=this.dv_has_text_of_possible_complication`  
+- #has_/text_of_possible_complication = `=this.dv_has_text_of_possible_complication`  
 - has_text_of_possible_complication = `=this.dv_has_text_of_possible_complication`  
 
 A possible unexpected and unfavorable evolution of a medical condition. Complications may include worsening of the signs or symptoms of the disease, extension of the condition to other organ systems, etc.

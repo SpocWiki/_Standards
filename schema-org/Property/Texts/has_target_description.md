@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of AlignmentObject.
 
 Use it like this: 
-- has_text_of_target_description = `=this.dv_has_text_of_target_description`  
+- #has_/text_of_target_description = `=this.dv_has_text_of_target_description`  
 - has_text_of_target_description = `=this.dv_has_text_of_target_description`  
 
 The description of a node in an established educational framework.

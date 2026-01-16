@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of Person.
 
 Use it like this: 
-- has_value_for_net_worth = `=this.dv_has_value_for_net_worth`  
+- #has_/value_for_net_worth = `=this.dv_has_value_for_net_worth`  
 - has_value_for_net_worth = `=this.dv_has_value_for_net_worth`  
 
 The total financial value of the person as calculated by subtracting assets from liabilities.

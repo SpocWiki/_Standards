@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_athlete = `=this.dv_has_athlete`  
+- #has_/athlete = `=this.dv_has_athlete`  
 - has_athlete = `=this.dv_has_athlete`  
 
 A person that acts as performing member of a sports team; a player as opposed to a coach.

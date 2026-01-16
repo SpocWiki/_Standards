@@ -54,7 +54,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_additional_property = `=this.dv_has_additional_property`  
+- #has_/additional_property = `=this.dv_has_additional_property`  
 - has_additional_property = `=this.dv_has_additional_property`  
 
 A property-value pair representing an additional characteristic of the entity, e.g. a product feature or another characteristic for which there is no matching property in schema.org.

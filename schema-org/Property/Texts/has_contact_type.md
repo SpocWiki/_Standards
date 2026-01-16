@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of ContactPoint.
 
 Use it like this: 
-- has_text_of_contact_type = `=this.dv_has_text_of_contact_type`  
+- #has_/text_of_contact_type = `=this.dv_has_text_of_contact_type`  
 - has_text_of_contact_type = `=this.dv_has_text_of_contact_type`  
 
 A person or organization can have different contact points, for different purposes. For example, a sales contact point, a PR contact point and so on. This property is used to specify the kind of contact point.

@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of DietarySupplement, DoseSchedule.
 
 Use it like this: 
-- has_text_of_target_population = `=this.dv_has_text_of_target_population`  
+- #has_/text_of_target_population = `=this.dv_has_text_of_target_population`  
 - has_text_of_target_population = `=this.dv_has_text_of_target_population`  
 
 Characteristics of the population for which this is intended, or which typically uses it, e.g. "adults".

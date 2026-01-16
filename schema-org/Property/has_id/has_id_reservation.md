@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Text of Reservation.
 
 Use it like this: 
-- has_id_reservation = `=this.dv_has_id_reservation`  
+- #has_/id_reservation = `=this.dv_has_id_reservation`  
 - has_id_reservation = `=this.dv_has_id_reservation`  
 
 A unique identifier for the reservation.

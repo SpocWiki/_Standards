@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of MedicalGuidelineRecommendation.
 
 Use it like this: 
-- has_text_of_recommendation_strength = `=this.dv_has_text_of_recommendation_strength`  
+- #has_/text_of_recommendation_strength = `=this.dv_has_text_of_recommendation_strength`  
 - has_text_of_recommendation_strength = `=this.dv_has_text_of_recommendation_strength`  
 
 Strength of the guideline"s recommendation (e.g. "class I").

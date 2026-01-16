@@ -56,7 +56,7 @@ dv_is_same_as:
 A pointer to products or services sought by the organization or person (demand).
 
 Use it like this: 
-- has_demand_for = `=this.dv_has_demand_for`  
+- #has_/demand_for = `=this.dv_has_demand_for`  
 - has_demand_for = `=this.dv_has_demand_for`  
 
 Relation describes that: 

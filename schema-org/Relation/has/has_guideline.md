@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_guideline = `=this.dv_has_guideline`  
+- #has_/guideline = `=this.dv_has_guideline`  
 - has_guideline = `=this.dv_has_guideline`  
 
 A medical guideline related to this entity.

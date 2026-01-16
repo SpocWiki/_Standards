@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Text of CreativeWork.
 
 Use it like this: 
-- has_text_of_text = `=this.dv_has_text_of_text`  
+- #has_/text_of_text = `=this.dv_has_text_of_text`  
 - has_text_of_text = `=this.dv_has_text_of_text`  
 
 The textual content of this CreativeWork.

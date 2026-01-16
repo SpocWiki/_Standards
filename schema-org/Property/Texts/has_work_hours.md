@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of JobPosting.
 
 Use it like this: 
-- has_text_of_work_hours = `=this.dv_has_text_of_work_hours`  
+- #has_/text_of_work_hours = `=this.dv_has_text_of_work_hours`  
 - has_text_of_work_hours = `=this.dv_has_text_of_work_hours`  
 
 The typical working hours for this job (e.g. 1st shift, night shift, 8am-5pm).

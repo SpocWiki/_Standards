@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_cost_category = `=this.dv_has_cost_category`  
+- #has_/cost_category = `=this.dv_has_cost_category`  
 - has_cost_category = `=this.dv_has_cost_category`  
 
 The category of cost, such as wholesale, retail, reimbursement cap, etc.

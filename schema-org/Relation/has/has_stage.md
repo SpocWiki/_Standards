@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_stage = `=this.dv_has_stage`  
+- #has_/stage = `=this.dv_has_stage`  
 - has_stage = `=this.dv_has_stage`  
 
 The stage of the condition, if applicable.

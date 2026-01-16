@@ -54,7 +54,7 @@ dv_is_same_as:
 Predicate to describe the date of DeliveryEvent.
 
 Use it like this: 
-- has_time_available_from = `=this.dv_has_time_available_from`  
+- #has_/time_available_from = `=this.dv_has_time_available_from`  
 - has_time_available_from = `=this.dv_has_time_available_from`  
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 

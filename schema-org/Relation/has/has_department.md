@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_department = `=this.dv_has_department`  
+- #has_/department = `=this.dv_has_department`  
 - has_department = `=this.dv_has_department`  
 
 A relationship between an organization and a department of that organization, also described as an organization (allowing different urls, logos, opening hours). For example: a store with a pharmacy, or a bakery with a cafe.

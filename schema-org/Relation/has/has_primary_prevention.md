@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_primary_prevention = `=this.dv_has_primary_prevention`  
+- #has_/primary_prevention = `=this.dv_has_primary_prevention`  
 - has_primary_prevention = `=this.dv_has_primary_prevention`  
 
 A preventative therapy used to prevent an initial occurrence of the medical condition, such as vaccination.

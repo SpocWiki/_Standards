@@ -54,7 +54,7 @@ dv_is_same_as:
 Predicate to describe the date of ActionAccessSpecification, Demand, Offer.
 
 Use it like this: 
-- has_time_when_availability_starts = `=this.dv_has_time_when_availability_starts`  
+- #has_/time_when_availability_starts = `=this.dv_has_time_when_availability_starts`  
 - has_time_when_availability_starts = `=this.dv_has_time_when_availability_starts`  
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 

@@ -56,7 +56,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_lodging_unit_type = `=this.dv_has_lodging_unit_type`  
+- #has_/lodging_unit_type = `=this.dv_has_lodging_unit_type`  
 - has_lodging_unit_type = `=this.dv_has_lodging_unit_type`  
 
 Textual description of the unit type (including suite vs. room, size of bed, etc.).

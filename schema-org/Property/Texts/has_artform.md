@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Text of VisualArtwork.
 
 Use it like this: 
-- has_text_of_artform = `=this.dv_has_text_of_artform`  
+- #has_/text_of_artform = `=this.dv_has_text_of_artform`  
 - has_text_of_artform = `=this.dv_has_text_of_artform`  
 
 e.g. Painting, Drawing, Sculpture, Print, Photograph, Assemblage, Collage, etc.

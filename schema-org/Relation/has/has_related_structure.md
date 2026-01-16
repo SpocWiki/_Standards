@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_related_structure = `=this.dv_has_related_structure`  
+- #has_/related_structure = `=this.dv_has_related_structure`  
 - has_related_structure = `=this.dv_has_related_structure`  
 
 Related anatomical structure(s) that are not part of the system but relate or connect to it, such as vascular bundles associated with an organ system.

@@ -54,7 +54,7 @@ dv_is_same_as:
 Predicate to describe the Duration of Invoice.
 
 Use it like this: 
-- has_duration_of_billing_period = `=this.dv_has_duration_of_billing_period`  
+- #has_/duration_of_billing_period = `=this.dv_has_duration_of_billing_period`  
 - has_duration_of_billing_period = `=this.dv_has_duration_of_billing_period`  with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
 
 The time interval used to compute the invoice.

@@ -52,7 +52,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_code = `=this.dv_has_code`  
+- #has_/code = `=this.dv_has_code`  
 - has_code = `=this.dv_has_code`  
 
 A medical code for the entity, taken from a controlled vocabulary or ontology such as ICD-9, DiseasesDB, MeSH, SNOMED-CT, RxNorm, etc.

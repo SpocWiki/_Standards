@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of Drug.
 
 Use it like this: 
-- has_text_of_breastfeeding_warning = `=this.dv_has_text_of_breastfeeding_warning`  
+- #has_/text_of_breastfeeding_warning = `=this.dv_has_text_of_breastfeeding_warning`  
 - has_text_of_breastfeeding_warning = `=this.dv_has_text_of_breastfeeding_warning`  
 
 Any precaution, guidance, contraindication, etc. related to this drug"s use by breastfeeding mothers.

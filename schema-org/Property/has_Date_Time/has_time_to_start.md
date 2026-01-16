@@ -55,7 +55,7 @@ Predicate to describe the time of Action, FoodEstablishmentReservation, Interact
 Predicate to describe the date of CreativeWorkSeason, CreativeWorkSeries, DatedMoneySpecification, EducationalOccupationalProgram, Event, MerchantReturnPolicySeasonalOverride, Role, Schedule.
 
 Use it like this: 
-- has_time_to_start = `=this.dv_has_time_to_start`  
+- #has_/time_to_start = `=this.dv_has_time_to_start`  
 - has_time_to_start = `=this.dv_has_time_to_start`  
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 

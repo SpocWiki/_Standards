@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_evidence_level = `=this.dv_has_evidence_level`  
+- #has_/evidence_level = `=this.dv_has_evidence_level`  
 - has_evidence_level = `=this.dv_has_evidence_level`  
 
 Strength of evidence of the data used to formulate the guideline (enumerated).

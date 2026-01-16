@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_recognizing_authority = `=this.dv_has_recognizing_authority`  
+- #has_/recognizing_authority = `=this.dv_has_recognizing_authority`  
 - has_recognizing_authority = `=this.dv_has_recognizing_authority`  
 
 If applicable, the organization that officially recognizes this entity as part of its endorsed system of medicine.

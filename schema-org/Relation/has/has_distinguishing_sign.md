@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_distinguishing_sign = `=this.dv_has_distinguishing_sign`  
+- #has_/distinguishing_sign = `=this.dv_has_distinguishing_sign`  
 - has_distinguishing_sign = `=this.dv_has_distinguishing_sign`  
 
 One of a set of signs and symptoms that can be used to distinguish this diagnosis from others in the differential diagnosis.

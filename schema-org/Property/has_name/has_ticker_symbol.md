@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of Corporation.
 
 Use it like this: 
-- has_text_of_ticker_symbol = `=this.dv_has_text_of_ticker_symbol`  
+- #has_/text_of_ticker_symbol = `=this.dv_has_text_of_ticker_symbol`  
 - has_text_of_ticker_symbol = `=this.dv_has_text_of_ticker_symbol`  
 
 The exchange traded instrument associated with a Corporation object. The tickerSymbol is expressed as an exchange and an instrument name separated by a space character. For the exchange component of the tickerSymbol attribute, we recommend using the controlled vocabulary of Market Identifier Codes (MIC) specified in ISO 15022.

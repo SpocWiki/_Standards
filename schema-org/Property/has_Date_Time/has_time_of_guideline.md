@@ -54,7 +54,7 @@ dv_is_same_as:
 Predicate to describe the date of MedicalGuideline.
 
 Use it like this: 
-- has_time_of_guideline = `=this.dv_has_time_of_guideline`  
+- #has_/time_of_guideline = `=this.dv_has_time_of_guideline`  
 - has_time_of_guideline = `=this.dv_has_time_of_guideline`  
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 

@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of an Algorithm.
 
 Use it like this: 
-- has_text_of_algorithm = `=this.dv_has_text_of_algorithm`  
+- #has_/text_of_algorithm = `=this.dv_has_text_of_algorithm`  
 - has_text_of_algorithm = `=this.dv_has_text_of_algorithm`  
 
 The algorithm or rules to follow to compute the score.

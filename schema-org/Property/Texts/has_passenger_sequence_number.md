@@ -60,7 +60,7 @@ dv_is_same_as:
 Predicate to describe the Text of FlightReservation.
 
 Use it like this: 
-- has_text_of_passenger_sequence_number = `=this.dv_has_text_of_passenger_sequence_number`  
+- #has_/text_of_passenger_sequence_number = `=this.dv_has_text_of_passenger_sequence_number`  
 - has_text_of_passenger_sequence_number = `=this.dv_has_text_of_passenger_sequence_number`  
 
 The passenger"s sequence number as assigned by the airline.

@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_skills = `=this.dv_has_skills`  
+- #has_/skills = `=this.dv_has_skills`  
 - has_skills = `=this.dv_has_skills`  
 
 A statement of knowledge, skill, ability, task or any other assertion expressing a competency that is desired or required to fulfill this role or to work in this occupation.

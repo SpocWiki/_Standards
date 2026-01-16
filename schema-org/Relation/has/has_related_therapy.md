@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_related_therapy = `=this.dv_has_related_therapy`  
+- #has_/related_therapy = `=this.dv_has_related_therapy`  
 - has_related_therapy = `=this.dv_has_related_therapy`  
 
 A medical therapy related to this anatomy.

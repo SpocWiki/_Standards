@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_contraindication = `=this.dv_has_contraindication`  
+- #has_/contraindication = `=this.dv_has_contraindication`  
 - has_contraindication = `=this.dv_has_contraindication`  
 
 A contraindication for this therapy.

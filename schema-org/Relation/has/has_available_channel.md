@@ -53,7 +53,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_available_channel = `=this.dv_has_available_channel`  
+- #has_/available_channel = `=this.dv_has_available_channel`  
 - has_available_channel = `=this.dv_has_available_channel`  
 
 A means of accessing the service (e.g. a phone bank, a web site, a location, etc.).

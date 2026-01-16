@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_identifying_exam = `=this.dv_has_identifying_exam`  
+- #has_/identifying_exam = `=this.dv_has_identifying_exam`  
 - has_identifying_exam = `=this.dv_has_identifying_exam`  
 
 A physical examination that can identify this sign.

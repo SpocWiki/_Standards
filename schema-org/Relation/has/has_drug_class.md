@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_drug_class = `=this.dv_has_drug_class`  
+- #has_/drug_class = `=this.dv_has_drug_class`  
 - has_drug_class = `=this.dv_has_drug_class`  
 
 The class of drug this belongs to (e.g., statins).

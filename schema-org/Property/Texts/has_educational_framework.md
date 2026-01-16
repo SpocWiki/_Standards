@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of AlignmentObject.
 
 Use it like this: 
-- has_text_of_educational_framework = `=this.dv_has_text_of_educational_framework`  
+- #has_/text_of_educational_framework = `=this.dv_has_text_of_educational_framework`  
 - has_text_of_educational_framework = `=this.dv_has_text_of_educational_framework`  
 
 The framework to which the resource being described is aligned.

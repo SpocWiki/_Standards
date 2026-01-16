@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of QuantitativeValueDistribution.
 
 Use it like this: 
-- has_value_for_percentile25 = `=this.dv_has_value_for_percentile25`  
+- #has_/value_for_percentile25 = `=this.dv_has_value_for_percentile25`  
 - has_value_for_percentile25 = `=this.dv_has_value_for_percentile25`  
 
 The 25th percentile value.

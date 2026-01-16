@@ -58,7 +58,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_employees = `=this.dv_has_employees` ] ] 
+- #has_/employees = `=this.dv_has_employees` ] ] 
 - has_employees = `=this.dv_has_employees` ] ] 
 
 People working for this organization.

@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of Accommodation, FloorPlan.
 
 Use it like this: 
-- has_value_for_floor_size_m2 = `=this.dv_has_value_for_floor_size_m2`  
+- #has_/value_for_floor_size_m2 = `=this.dv_has_value_for_floor_size_m2`  
 - has_value_for_floor_size_m2 = `=this.dv_has_value_for_floor_size_m2`  
 
 The size of the accommodation, e.g. in square meter or squarefoot.

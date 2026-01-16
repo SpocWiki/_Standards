@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Number of Vehicle.
 
 Use it like this: 
-- has_number_of_doors = `=this.dv_has_number_of_doors`  
+- #has_/number_of_doors = `=this.dv_has_number_of_doors`  
 - has_number_of_doors = `=this.dv_has_number_of_doors`  
 
 The number of doors.

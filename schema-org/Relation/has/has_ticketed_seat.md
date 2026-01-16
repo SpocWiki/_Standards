@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_ticketed_seat = `=this.dv_has_ticketed_seat`  
+- #has_/ticketed_seat = `=this.dv_has_ticketed_seat`  
 - has_ticketed_seat = `=this.dv_has_ticketed_seat`  
 
 The seat associated with the ticket.

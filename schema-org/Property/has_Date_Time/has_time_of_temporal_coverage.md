@@ -55,7 +55,7 @@ dv_is_same_as:
 Predicate to describe the date-Range of a [[CreativeWork]].
 
 Use it like this: 
-- has_time_of_temporal_coverage = `=this.dv_has_time_of_temporal_coverage`  
+- #has_/time_of_temporal_coverage = `=this.dv_has_time_of_temporal_coverage`  
 - has_time_of_temporal_coverage = `=this.dv_has_time_of_temporal_coverage`  
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 

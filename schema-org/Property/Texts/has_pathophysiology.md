@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Text of MedicalCondition, PhysicalActivity.
 
 Use it like this: 
-- has_text_of_pathophysiology = `=this.dv_has_text_of_pathophysiology`  
+- #has_/text_of_pathophysiology = `=this.dv_has_text_of_pathophysiology`  
 - has_text_of_pathophysiology = `=this.dv_has_text_of_pathophysiology`  
 
 Changes in the normal mechanical, physical, and biochemical functions that are associated with this activity or condition.

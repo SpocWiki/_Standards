@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to specify the Url of SoftwareSourceCode.
 
 Use it like this: 
-- has_url_for_code_repository = `=this.dv_has_url_for_code_repository`  
+- #has_/url_for_code_repository = `=this.dv_has_url_for_code_repository`  
 - has_url_for_code_repository = `=this.dv_has_url_for_code_repository`  
 
 Link to the repository where the un-compiled, human readable code and related code is located (SVN, GitHub, CodePlex).

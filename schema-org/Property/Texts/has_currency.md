@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Text of DatedMoneySpecification, ExchangeRateSpecification, LoanOrCredit, MonetaryAmount, MonetaryAmountDistribution.
 
 Use it like this: 
-- has_text_of_currency = `=this.dv_has_text_of_currency`  
+- #has_/text_of_currency = `=this.dv_has_text_of_currency`  
 - has_text_of_currency = `=this.dv_has_text_of_currency`  
 
 The currency in which the monetary amount is expressed.

@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the geo of GeoCircle.
 
 Use it like this: 
-- has_location_midpoint = `=this.dv_has_location_midpoint`  
+- #has_/location_midpoint = `=this.dv_has_location_midpoint`  
 - has_location_midpoint = `=this.dv_has_location_midpoint`  
 
 Indicates the GeoCoordinates at the centre of a GeoShape, e.g. GeoCircle.

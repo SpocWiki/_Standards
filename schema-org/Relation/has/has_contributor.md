@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_contributor = `=this.dv_has_contributor`  
+- #has_/contributor = `=this.dv_has_contributor`  
 - has_contributor = `=this.dv_has_contributor`  
 
 A secondary contributor to the CreativeWork or Event.

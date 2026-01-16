@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of Drug.
 
 Use it like this: 
-- has_text_of_administration_route = `=this.dv_has_text_of_administration_route`  
+- #has_/text_of_administration_route = `=this.dv_has_text_of_administration_route`  
 - has_text_of_administration_route = `=this.dv_has_text_of_administration_route`  
 
 A route by which this drug may be administered, e.g. "oral".

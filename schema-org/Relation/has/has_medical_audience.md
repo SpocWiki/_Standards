@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_medical_audience = `=this.dv_has_medical_audience`  
+- #has_/medical_audience = `=this.dv_has_medical_audience`  
 - has_medical_audience = `=this.dv_has_medical_audience`  
 
 Medical audience for page.

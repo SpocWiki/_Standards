@@ -57,7 +57,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_special_opening_hours_specification = `=this.dv_has_special_opening_hours_specification`  
+- #has_/special_opening_hours_specification = `=this.dv_has_special_opening_hours_specification`  
 - has_special_opening_hours_specification = `=this.dv_has_special_opening_hours_specification`  
 
 The special opening hours of a certain place.

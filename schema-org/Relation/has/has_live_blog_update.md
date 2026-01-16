@@ -56,7 +56,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_live_blog_update = `=this.dv_has_live_blog_update`  
+- #has_/live_blog_update = `=this.dv_has_live_blog_update`  
 - has_live_blog_update = `=this.dv_has_live_blog_update`  
 
 An update to the LiveBlog.

@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of BroadcastChannel.
 
 Use it like this: 
-- has_id_broadcast_channel = `=this.dv_has_id_broadcast_channel`  
+- #has_/id_broadcast_channel = `=this.dv_has_id_broadcast_channel`  
 - has_id_broadcast_channel = `=this.dv_has_id_broadcast_channel`  
 
 The unique address by which the BroadcastService can be identified in a provider lineup. In US, this is typically a number.

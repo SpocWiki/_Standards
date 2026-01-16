@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_coach = `=this.dv_has_coach`  
+- #has_/coach = `=this.dv_has_coach`  
 - has_coach = `=this.dv_has_coach`  
 
 A person that acts in a coaching role for a sports team.

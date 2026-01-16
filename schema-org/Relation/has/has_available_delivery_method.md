@@ -54,7 +54,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_available_delivery_method = `=this.dv_has_available_delivery_method`  
+- #has_/available_delivery_method = `=this.dv_has_available_delivery_method`  
 - has_available_delivery_method = `=this.dv_has_available_delivery_method`  
 
 The delivery method(s) available for this offer.

@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of DoseSchedule.
 
 Use it like this: 
-- has_value_for_dose = `=this.dv_has_value_for_dose`  
+- #has_/value_for_dose = `=this.dv_has_value_for_dose`  
 - has_value_for_dose = `=this.dv_has_value_for_dose`  
 
 The value of the dose, e.g. 500.

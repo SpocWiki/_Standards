@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of MusicRelease.
 
 Use it like this: 
-- has_text_of_catalog_number = `=this.dv_has_text_of_catalog_number`  
+- #has_/text_of_catalog_number = `=this.dv_has_text_of_catalog_number`  
 - has_text_of_catalog_number = `=this.dv_has_text_of_catalog_number`  
 
 The catalog number for the release.

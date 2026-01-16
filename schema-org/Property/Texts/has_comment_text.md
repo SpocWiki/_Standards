@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of UserComments.
 
 Use it like this: 
-- has_text_of_comment_text = `=this.dv_has_text_of_comment_text`  
+- #has_/text_of_comment_text = `=this.dv_has_text_of_comment_text`  
 - has_text_of_comment_text = `=this.dv_has_text_of_comment_text`  
 
 The text of the UserComment.

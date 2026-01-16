@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of HowTo, HowToSupply.
 
 Use it like this: 
-- has_value_for_estimated_cost = `=this.dv_has_value_for_estimated_cost`  
+- #has_/value_for_estimated_cost = `=this.dv_has_value_for_estimated_cost`  
 - has_value_for_estimated_cost = `=this.dv_has_value_for_estimated_cost`  
 
 The estimated cost of the supply or supplies consumed when performing instructions.

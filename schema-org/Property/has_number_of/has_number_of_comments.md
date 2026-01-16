@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Number of CreativeWork.
 
 Use it like this: 
-- has_number_of_comments = `=this.dv_has_number_of_comments`  
+- #has_/number_of_comments = `=this.dv_has_number_of_comments`  
 - has_number_of_comments = `=this.dv_has_number_of_comments`  
 
 The number of comments this CreativeWork (e.g. Article, Question or Answer) has received. This is most applicable to works published in Web sites with commenting system; additional comments may exist elsewhere.

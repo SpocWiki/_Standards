@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Number of Vehicle.
 
 Use it like this: 
-- has_number_of_vehicle_seating_capacity = `=this.dv_has_number_of_vehicle_seating_capacity`  
+- #has_/number_of_vehicle_seating_capacity = `=this.dv_has_number_of_vehicle_seating_capacity`  
 - has_number_of_vehicle_seating_capacity = `=this.dv_has_number_of_vehicle_seating_capacity`  
 
 The number of passengers that can be seated in the vehicle, both in terms of the physical space available, and in terms of limitations set by law.

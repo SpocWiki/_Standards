@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_hospital_affiliation = `=this.dv_has_hospital_affiliation`  
+- #has_/hospital_affiliation = `=this.dv_has_hospital_affiliation`  
 - has_hospital_affiliation = `=this.dv_has_hospital_affiliation`  
 
 A hospital with which the physician or office is affiliated.

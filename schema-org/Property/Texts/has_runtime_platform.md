@@ -60,7 +60,7 @@ dv_is_same_as:
 Predicate to describe the Text of SoftwareSourceCode.
 
 Use it like this: 
-- has_text_of_runtime_platform = `=this.dv_has_text_of_runtime_platform`  
+- #has_/text_of_runtime_platform = `=this.dv_has_text_of_runtime_platform`  
 - has_text_of_runtime_platform = `=this.dv_has_text_of_runtime_platform`  
 
 Runtime platform or script interpreter dependencies (example: Java v1, Python 2.3, .NET Framework 3.0).

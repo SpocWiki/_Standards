@@ -39,7 +39,7 @@ Plural Form chosen to indicate the [[../../Collection]]-Nature.
 Therefore this partially(incomplete) inverse Relation is included in the non-standard more generic [[has_examples]] Relation. 
 
 Use it like this: 
-- has_examples = `=this.dv_has_examples` ] ] 
+- #has_/examples = `=this.dv_has_examples` ] ] 
 - has_examples = `=this.dv_has_examples` ]] 
 
 Relation describes that: 

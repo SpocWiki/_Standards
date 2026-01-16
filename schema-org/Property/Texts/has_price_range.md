@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of LocalBusiness.
 
 Use it like this: 
-- has_text_of_price_range = `=this.dv_has_text_of_price_range`  
+- #has_/text_of_price_range = `=this.dv_has_text_of_price_range`  
 - has_text_of_price_range = `=this.dv_has_text_of_price_range`  
 
 The price range of the business, for example <code>$$$</code>.

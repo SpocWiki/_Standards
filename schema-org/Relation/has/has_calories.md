@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_calories = `=this.dv_has_calories`  
+- #has_/calories = `=this.dv_has_calories`  
 - has_calories = `=this.dv_has_calories`  
 
 The number of calories.

@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_item_reviewed = `=this.dv_has_item_reviewed` (../../../Class/Thing.md) ] 
+- #has_/item_reviewed = `=this.dv_has_item_reviewed` (../../../Class/Thing.md) ] 
 - has_item_reviewed = `=this.dv_has_item_reviewed` (../../../Class/Thing.md) ] 
 
 The item that is being reviewed/rated.

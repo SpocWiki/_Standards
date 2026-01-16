@@ -60,7 +60,7 @@ dv_is_same_as:
 Predicate to describe the Text of LodgingReservation.
 
 Use it like this: 
-- has_text_of_lodging_unit_description = `=this.dv_has_text_of_lodging_unit_description`  
+- #has_/text_of_lodging_unit_description = `=this.dv_has_text_of_lodging_unit_description`  
 - has_text_of_lodging_unit_description = `=this.dv_has_text_of_lodging_unit_description`  
 
 A full description of the lodging unit.

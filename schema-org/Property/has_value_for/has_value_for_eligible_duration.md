@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of Demand, Offer.
 
 Use it like this: 
-- has_value_for_eligible_duration = `=this.dv_has_value_for_eligible_duration`  
+- #has_/value_for_eligible_duration = `=this.dv_has_value_for_eligible_duration`  
 - has_value_for_eligible_duration = `=this.dv_has_value_for_eligible_duration`  
 
 The duration for which the given offer is valid.

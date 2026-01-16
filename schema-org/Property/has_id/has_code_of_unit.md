@@ -31,7 +31,7 @@ type: Pred_Text
 Predicate to describe the Text of PropertyValue, QuantitativeValue, TypeAndQuantityNode, UnitPriceSpecification.
 
 Use it like this: 
-- has_/code_/of_unit :: Text, URL  
+- #has_/code_/of_unit :: Text, URL  
 - has_code_of_unit :: Text, URL  
 
 The unit of measurement given using the UN/CEFACT Common Code (3 characters) or a URL. Other codes than the UN/CEFACT Common Code may be used with a prefix followed by a colon.

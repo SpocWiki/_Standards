@@ -56,7 +56,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_occupation = `=this.dv_has_occupation`  
+- #has_/occupation = `=this.dv_has_occupation`  
 - has_occupation = `=this.dv_has_occupation`  
 
 The Person's occupation. For past professions, use Role for expressing dates.

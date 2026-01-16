@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of Drug.
 
 Use it like this: 
-- has_text_of_dosage_form = `=this.dv_has_text_of_dosage_form`  
+- #has_/text_of_dosage_form = `=this.dv_has_text_of_dosage_form`  
 - has_text_of_dosage_form = `=this.dv_has_text_of_dosage_form`  
 
 A dosage form in which this drug/supplement is available, e.g. "tablet", "suspension", "injection".

@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Text of DietarySupplement, Drug.
 
 Use it like this: 
-- has_name_non_proprietary = `=this.dv_has_name_non_proprietary`  
+- #has_/name_non_proprietary = `=this.dv_has_name_non_proprietary`  
 - has_name_non_proprietary = `=this.dv_has_name_non_proprietary`  
 
 The generic name of this drug or supplement.

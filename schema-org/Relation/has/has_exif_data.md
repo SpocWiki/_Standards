@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_exif_data = `=this.dv_has_exif_data`  
+- #has_/exif_data = `=this.dv_has_exif_data`  
 - has_exif_data = `=this.dv_has_exif_data`  
 
 exif data for this object.

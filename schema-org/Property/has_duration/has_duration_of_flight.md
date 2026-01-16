@@ -54,7 +54,7 @@ dv_is_same_as:
 Predicate to describe the Duration of Flight.
 
 Use it like this: 
-- has_duration_of_flight = `=this.dv_has_duration_of_flight`  
+- #has_/duration_of_flight = `=this.dv_has_duration_of_flight`  
 - has_duration_of_flight = `=this.dv_has_duration_of_flight`  with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
 
 The estimated time the flight will take.

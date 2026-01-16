@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of Recipe.
 
 Use it like this: 
-- has_text_of_recipe_category = `=this.dv_has_text_of_recipe_category`  
+- #has_/text_of_recipe_category = `=this.dv_has_text_of_recipe_category`  
 - has_text_of_recipe_category = `=this.dv_has_text_of_recipe_category`  
 
 The category of the recipeï¿½for example, appetizer, entree, etc.

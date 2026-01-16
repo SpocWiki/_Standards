@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_tributary = `=this.dv_has_tributary`  
+- #has_/tributary = `=this.dv_has_tributary`  
 - has_tributary = `=this.dv_has_tributary`  
 
 The anatomical or organ system that the vein flows into; a larger structure that the vein connects to.

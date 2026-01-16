@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of OrderItem.
 
 Use it like this: 
-- has_value_for_order_quantity = `=this.dv_has_value_for_order_quantity`  
+- #has_/value_for_order_quantity = `=this.dv_has_value_for_order_quantity`  
 - has_value_for_order_quantity = `=this.dv_has_value_for_order_quantity`  
 
 The number of the item ordered. If the property is not set, assume the quantity is one.

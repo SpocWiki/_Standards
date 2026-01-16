@@ -60,7 +60,7 @@ dv_is_same_as:
 Predicate to describe the Text of Person. 
 
 Use it like this: 
-- has_name_family = `=this.dv_has_name_family`  
+- #has_/name_family = `=this.dv_has_name_family`  
 - has_name_family = `=this.dv_has_name_family`  
 
 Family name. 

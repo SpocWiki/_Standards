@@ -71,7 +71,7 @@ i.e. this is inside (i.e. within) the Object's interior.
 As defined in [DE-9IM](https://en.wikipedia.org/wiki/DE-9IM).
 
 Use it like this: 
-- has_location_within = `=this.dv_has_location_within`  
+- #has_/location_within = `=this.dv_has_location_within`  
 - has_location_within = `=this.dv_has_location_within`  
 
 Predicate describes that: 

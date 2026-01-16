@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of CreativeWork.
 
 Use it like this: 
-- has_text_of_schema_version = `=this.dv_has_text_of_schema_version`  
+- #has_/text_of_schema_version = `=this.dv_has_text_of_schema_version`  
 - has_text_of_schema_version = `=this.dv_has_text_of_schema_version`  
 
 Indicates (by URL or string) a particular version of a schema used in some CreativeWork. This property was created primarily to

@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of Audience.
 
 Use it like this: 
-- has_text_of_audience_type = `=this.dv_has_text_of_audience_type`  
+- #has_/text_of_audience_type = `=this.dv_has_text_of_audience_type`  
 - has_text_of_audience_type = `=this.dv_has_text_of_audience_type`  
 
 The target group associated with a given audience (e.g. veterans, car owners, musicians, etc.).

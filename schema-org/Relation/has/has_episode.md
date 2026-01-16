@@ -56,7 +56,7 @@ dv_is_same_as:
 An episode of a TV, radio or game media within a series or season.
 
 Use it like this: 
-- has_episode = `=this.dv_has_episode` ] ] 
+- #has_/episode = `=this.dv_has_episode` ] ] 
 - has_episode = `=this.dv_has_episode` ] ] 
 
 [[../../Relation|Relation]] describes that: 

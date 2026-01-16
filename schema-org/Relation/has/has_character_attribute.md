@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_character_attribute = `=this.dv_has_character_attribute` (../../../Class/Thing.md) ] 
+- #has_/character_attribute = `=this.dv_has_character_attribute` (../../../Class/Thing.md) ] 
 - has_character_attribute = `=this.dv_has_character_attribute` (../../../Class/Thing.md) ] 
 
 A piece of data that represents a particular aspect of a fictional character (skill, power, character points, advantage, disadvantage).

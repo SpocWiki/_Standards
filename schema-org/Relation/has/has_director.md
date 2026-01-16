@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_director = `=this.dv_has_director`  
+- #has_/director = `=this.dv_has_director`  
 - has_director = `=this.dv_has_director`  
 
 A director of e.g. Company,TV, radio, movie, video gaming etc. content, or of an event. 

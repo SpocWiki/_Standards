@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Text of Drug.
 
 Use it like this: 
-- has_text_of_warning = `=this.dv_has_text_of_warning`  
+- #has_/text_of_warning = `=this.dv_has_text_of_warning`  
 - has_text_of_warning = `=this.dv_has_text_of_warning`  
 
 Any FDA or other warnings about the drug (text or URL).

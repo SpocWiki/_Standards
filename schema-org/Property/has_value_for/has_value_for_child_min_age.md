@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of ParentAudience.
 
 Use it like this: 
-- has_value_for_child_min_age = `=this.dv_has_value_for_child_min_age`  
+- #has_/value_for_child_min_age = `=this.dv_has_value_for_child_min_age`  
 - has_value_for_child_min_age = `=this.dv_has_value_for_child_min_age`  
 
 Minimal age of the child.

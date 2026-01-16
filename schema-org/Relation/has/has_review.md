@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_review = `=this.dv_has_review` ] ] 
+- #has_/review = `=this.dv_has_review` ] ] 
 - has_review = `=this.dv_has_review` ] ] 
 
 A [[../../../Society/Communication/Media/Creative_Work/Review|review]] of the item.

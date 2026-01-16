@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_region_drained = `=this.dv_has_region_drained`  
+- #has_/region_drained = `=this.dv_has_region_drained`  
 - has_region_drained = `=this.dv_has_region_drained`  
 
 The anatomical or organ system drained by this vessel; generally refers to a specific part of an organ.

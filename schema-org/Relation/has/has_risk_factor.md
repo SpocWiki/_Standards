@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_risk_factor = `=this.dv_has_risk_factor`  
+- #has_/risk_factor = `=this.dv_has_risk_factor`  
 - has_risk_factor = `=this.dv_has_risk_factor`  
 
 A modifiable or non-modifiable factor that increases the risk of a patient contracting this condition, e.g. age,  coexisting condition.

@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Number of LodgingReservation.
 
 Use it like this: 
-- has_number_of_children = `=this.dv_has_number_of_children`  
+- #has_/number_of_children = `=this.dv_has_number_of_children`  
 - has_number_of_children = `=this.dv_has_number_of_children`  
 
 The number of children staying in the unit.

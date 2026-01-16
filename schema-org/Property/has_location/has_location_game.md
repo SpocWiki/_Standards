@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the geo of Game, VideoGameSeries.
 
 Use it like this: 
-- has_location_game = `=this.dv_has_location_game`  
+- #has_/location_game = `=this.dv_has_location_game`  
 - has_location_game = `=this.dv_has_location_game`  
 
 Real or fictional location of the game (or part of game).

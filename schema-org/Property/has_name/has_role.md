@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of Role.
 
 Use it like this: 
-- has_role = `=this.dv_has_role`  
+- #has_/role = `=this.dv_has_role`  
 - has_role = `=this.dv_has_role`  
 
 A role played, performed or filled by a person or organization. 

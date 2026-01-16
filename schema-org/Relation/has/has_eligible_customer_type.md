@@ -56,7 +56,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_eligible_customer_type = `=this.dv_has_eligible_customer_type`  
+- #has_/eligible_customer_type = `=this.dv_has_eligible_customer_type`  
 - has_eligible_customer_type = `=this.dv_has_eligible_customer_type`  
 
 The type(s) of customers for which the given offer is valid.

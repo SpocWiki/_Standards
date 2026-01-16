@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of TrainTrip.
 
 Use it like this: 
-- has_text_of_departure_platform = `=this.dv_has_text_of_departure_platform`  
+- #has_/text_of_departure_platform = `=this.dv_has_text_of_departure_platform`  
 - has_text_of_departure_platform = `=this.dv_has_text_of_departure_platform`  
 
 The platform from which the train departs.

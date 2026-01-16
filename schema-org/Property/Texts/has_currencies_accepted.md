@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of LocalBusiness.
 
 Use it like this: 
-- has_text_of_currencies_accepted = `=this.dv_has_text_of_currencies_accepted`  
+- #has_/text_of_currencies_accepted = `=this.dv_has_text_of_currencies_accepted`  
 - has_text_of_currencies_accepted = `=this.dv_has_text_of_currencies_accepted`  
 
 The currency accepted.

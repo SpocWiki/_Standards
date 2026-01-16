@@ -55,7 +55,7 @@ dv_has_range: MediaObject
 ---
 
 Use it like this: 
-- has_associated_media = `=this.dv_has_associated_media`  
+- #has_/associated_media = `=this.dv_has_associated_media`  
 - has_associated_media = `=this.dv_has_associated_media`  
 
 A media object that encodes this CreativeWork. 

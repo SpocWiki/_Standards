@@ -60,7 +60,7 @@ dv_is_same_as:
 Predicate to describe the Text of Vehicle.
 
 Use it like this: 
-- has_text_of_vehicle_interior_color = `=this.dv_has_text_of_vehicle_interior_color`  
+- #has_/text_of_vehicle_interior_color = `=this.dv_has_text_of_vehicle_interior_color`  
 - has_text_of_vehicle_interior_color = `=this.dv_has_text_of_vehicle_interior_color`  
 
 The color or color combination of the interior of the vehicle.

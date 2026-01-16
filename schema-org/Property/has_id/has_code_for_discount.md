@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Text of Order.
 
 Use it like this: 
-- has_code_for_discount = `=this.dv_has_code_for_discount`  
+- #has_/code_for_discount = `=this.dv_has_code_for_discount`  
 - has_code_for_discount = `=this.dv_has_code_for_discount`  
 
 Code used to redeem a discount.

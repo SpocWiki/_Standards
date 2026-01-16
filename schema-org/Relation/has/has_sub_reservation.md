@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_sub_reservation = `=this.dv_has_sub_reservation`  
+- #has_/sub_reservation = `=this.dv_has_sub_reservation`  
 - has_sub_reservation = `=this.dv_has_sub_reservation`  
 
 The individual reservations included in the package. Typically a repeated property.

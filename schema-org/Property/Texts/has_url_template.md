@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of EntryPoint.
 
 Use it like this: 
-- has_text_of_url_template = `=this.dv_has_text_of_url_template`  
+- #has_/text_of_url_template = `=this.dv_has_text_of_url_template`  
 - has_text_of_url_template = `=this.dv_has_text_of_url_template`  
 
 An url template (RFC6570) that will be used to construct the target of the execution of the action.

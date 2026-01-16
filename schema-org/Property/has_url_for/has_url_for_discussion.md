@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to specify the Url of [[../../../Society/Communication/Media/Creative_Work|CreativeWork]].
 
 Use it like this: 
-- has_url_for_discussion = `=this.dv_has_url_for_discussion`  
+- #has_/url_for_discussion = `=this.dv_has_url_for_discussion`  
 - has_url_for_discussion = `=this.dv_has_url_for_discussion`  
 
 A link to the page containing the comments of the CreativeWork.

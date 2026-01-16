@@ -52,7 +52,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_merchant = `=this.dv_has_merchant`  
+- #has_/merchant = `=this.dv_has_merchant`  
 - has_merchant = `=this.dv_has_merchant`  
 
 'merchant' is an out-dated term for 'seller'.

@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of Report.
 
 Use it like this: 
-- has_text_of_report_number = `=this.dv_has_text_of_report_number`  
+- #has_/text_of_report_number = `=this.dv_has_text_of_report_number`  
 - has_text_of_report_number = `=this.dv_has_text_of_report_number`  
 
 The number or other unique designator assigned to a Report by the publishing organization.

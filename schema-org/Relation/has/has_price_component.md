@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_price_component = `=this.dv_has_price_component`  
+- #has_/price_component = `=this.dv_has_price_component`  
 - has_price_component = `=this.dv_has_price_component`  
 
 This property links to all [[UnitPriceSpecification]] nodes that apply in parallel for the [[CompoundPriceSpecification]] node.

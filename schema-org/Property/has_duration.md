@@ -83,7 +83,7 @@ but Duration specifically measures the Time of a (continuous) Activity or State.
 
 
 Use it like this: 
-- has_duration :: P#y#m#w#dT#h#m#s.fff  
+- #has_/duration :: P#y#m#w#dT#h#m#s.fff  
 - #has_/duration :: P#y#m#w#dT#h#m#s.fff 
   with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
 

@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_cause_of = `=this.dv_has_cause_of`  
+- #has_/cause_of = `=this.dv_has_cause_of`  
 - has_cause_of = `=this.dv_has_cause_of`  
 
 The condition, complication, symptom, sign, etc. caused.

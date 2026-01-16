@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_css_selector = `=this.dv_has_css_selector`  
+- #has_/css_selector = `=this.dv_has_css_selector`  
 - has_css_selector = `=this.dv_has_css_selector`  
 
 A CSS selector, e.g. of a [[SpeakableSpecification]] or [[WebPageElement]]. In the latter case, multiple matches within a page can constitute a single conceptual "Web page element".

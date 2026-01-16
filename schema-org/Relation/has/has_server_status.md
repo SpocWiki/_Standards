@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_server_status = `=this.dv_has_server_status`  
+- #has_/server_status = `=this.dv_has_server_status`  
 - has_server_status = `=this.dv_has_server_status`  
 
 Status of a game server.

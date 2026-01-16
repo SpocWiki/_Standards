@@ -54,7 +54,7 @@ dv_is_same_as:
 Predicate to describe the date of MediaObject.
 
 Use it like this: 
-- has_time_of_upload = `=this.dv_has_time_of_upload`  
+- #has_/time_of_upload = `=this.dv_has_time_of_upload`  
 - has_time_of_upload = `=this.dv_has_time_of_upload`  
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 

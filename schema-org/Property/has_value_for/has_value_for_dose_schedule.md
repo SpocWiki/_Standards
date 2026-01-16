@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of Drug, TherapeuticProcedure.
 
 Use it like this: 
-- has_value_for_dose_schedule = `=this.dv_has_value_for_dose_schedule`  
+- #has_/value_for_dose_schedule = `=this.dv_has_value_for_dose_schedule`  
 - has_value_for_dose_schedule = `=this.dv_has_value_for_dose_schedule`  
 
 A dosing schedule for the drug for a given population, either observed, recommended, or maximum dose based on the type used.

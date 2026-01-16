@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Number of RsvpAction.
 
 Use it like this: 
-- has_number_of_additional_guests = `=this.dv_has_number_of_additional_guests`  
+- #has_/number_of_additional_guests = `=this.dv_has_number_of_additional_guests`  
 - has_number_of_additional_guests = `=this.dv_has_number_of_additional_guests`  
 
 If responding yes, the number of guests who will attend in addition to the invitee.

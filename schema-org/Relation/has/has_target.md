@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_target = `=this.dv_has_target`  
+- #has_/target = `=this.dv_has_target`  
 - has_target = `=this.dv_has_target`  
 
 Indicates a target EntryPoint, or url, for an Action.

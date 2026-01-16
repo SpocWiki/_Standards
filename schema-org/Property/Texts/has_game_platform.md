@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of VideoGame, VideoGameSeries.
 
 Use it like this: 
-- has_text_of_game_platform = `=this.dv_has_text_of_game_platform`  
+- #has_/text_of_game_platform = `=this.dv_has_text_of_game_platform`  
 - has_text_of_game_platform = `=this.dv_has_text_of_game_platform`  
 
 The electronic systems used to play [video games](http://en.wikipedia.org/wiki/Category:Video_game_platforms).

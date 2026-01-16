@@ -57,7 +57,7 @@ Predicate to describe the date of Legislation.
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- has_time_of_legislation_version = `=this.dv_has_time_of_legislation_version`  
+- #has_/time_of_legislation_version = `=this.dv_has_time_of_legislation_version`  
 - has_time_of_legislation_version = `=this.dv_has_time_of_legislation_version`  
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 

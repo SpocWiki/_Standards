@@ -60,7 +60,7 @@ dv_is_same_as:
 Predicate to describe the Text of MedicalConditionStage.
 
 Use it like this: 
-- has_text_of_sub_stage_suffix = `=this.dv_has_text_of_sub_stage_suffix`  
+- #has_/text_of_sub_stage_suffix = `=this.dv_has_text_of_sub_stage_suffix`  
 - has_text_of_sub_stage_suffix = `=this.dv_has_text_of_sub_stage_suffix`  
 
 The substage, e.g. "a" for Stage IIIa.

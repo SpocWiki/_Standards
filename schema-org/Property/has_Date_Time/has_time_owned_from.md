@@ -54,7 +54,7 @@ dv_is_same_as:
 Predicate to describe the date of OwnershipInfo.
 
 Use it like this: 
-- has_time_owned_from = `=this.dv_has_time_owned_from`  
+- #has_/time_owned_from = `=this.dv_has_time_owned_from`  
 - has_time_owned_from = `=this.dv_has_time_owned_from`  
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 

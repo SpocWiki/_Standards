@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of Drug, DrugCost.
 
 Use it like this: 
-- has_text_of_drug_unit = `=this.dv_has_text_of_drug_unit`  
+- #has_/text_of_drug_unit = `=this.dv_has_text_of_drug_unit`  
 - has_text_of_drug_unit = `=this.dv_has_text_of_drug_unit`  
 
 The unit in which the drug is measured, e.g. "5 mg tablet".

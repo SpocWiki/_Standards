@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Text of MedicalDevice.
 
 Use it like this: 
-- has_text_of_procedure = `=this.dv_has_text_of_procedure`  
+- #has_/text_of_procedure = `=this.dv_has_text_of_procedure`  
 - has_text_of_procedure = `=this.dv_has_text_of_procedure`  
 
 A description of the procedure involved in setting up, using, and/or installing the device.

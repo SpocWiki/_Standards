@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to specify the Url of WebPage.
 
 Use it like this: 
-- has_url_for_related_link = `=this.dv_has_url_for_related_link`  
+- #has_/url_for_related_link = `=this.dv_has_url_for_related_link`  
 - has_url_for_related_link = `=this.dv_has_url_for_related_link`  
 
 A link related to this web page, for example to other related web pages.

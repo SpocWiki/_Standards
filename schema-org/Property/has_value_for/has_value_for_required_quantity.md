@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of HowToItem.
 
 Use it like this: 
-- has_value_for_required_quantity = `=this.dv_has_value_for_required_quantity`  
+- #has_/value_for_required_quantity = `=this.dv_has_value_for_required_quantity`  
 - has_value_for_required_quantity = `=this.dv_has_value_for_required_quantity`  
 
 The required quantity of the item(s).

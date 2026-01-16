@@ -56,7 +56,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_passenger_priority_status = `=this.dv_has_passenger_priority_status`  
+- #has_/passenger_priority_status = `=this.dv_has_passenger_priority_status`  
 - has_passenger_priority_status = `=this.dv_has_passenger_priority_status`  
 
 The priority status assigned to a passenger for security or boarding (e.g. FastTrack or Priority).

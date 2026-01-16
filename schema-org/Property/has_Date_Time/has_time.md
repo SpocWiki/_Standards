@@ -54,7 +54,7 @@ dv_is_same_as:
 Predicate to describe the date and Time of an [[Event]]
 
 Use it like this: 
-- has_time = `=this.dv_has_time`  
+- #has_/time = `=this.dv_has_time`  
 - has_time = `=this.dv_has_time`  
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 

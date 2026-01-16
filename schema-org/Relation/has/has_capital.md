@@ -53,7 +53,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_capital = `=this.dv_has_capital` ] ] 
+- #has_/capital = `=this.dv_has_capital` ] ] 
 - has_capital = `=this.dv_has_capital` ] ] 
 
 The capital for this Country or State. For downloadable machine formats (closed capital, subtitles etc.) use MediaObject and indicate the [[encodingFormat]].

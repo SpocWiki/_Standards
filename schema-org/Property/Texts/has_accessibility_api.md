@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of CreativeWork.
 
 Use it like this: 
-- has_text_of_accessibility_api = `=this.dv_has_text_of_accessibility_api`  
+- #has_/text_of_accessibility_api = `=this.dv_has_text_of_accessibility_api`  
 - has_text_of_accessibility_api = `=this.dv_has_text_of_accessibility_api`  
 
 Indicates that the resource is compatible with the referenced accessibility API. Values should be drawn from the [approved vocabulary](https://www.w3.org/2021/a11y-discov-vocab/latest/#accessibilityAPI-vocabulary).

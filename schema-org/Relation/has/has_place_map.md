@@ -56,7 +56,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_place_map = `=this.dv_has_place_map`  
+- #has_/place_map = `=this.dv_has_place_map`  
 - has_place_map = `=this.dv_has_place_map`  
 
 A URL to a map of the place.

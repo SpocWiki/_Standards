@@ -53,7 +53,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_amenity_feature = `=this.dv_has_amenity_feature`  
+- #has_/amenity_feature = `=this.dv_has_amenity_feature`  
 - has_amenity_feature = `=this.dv_has_amenity_feature`  
 
 An amenity feature (e.g. a characteristic or service) of the Accommodation. This generic property does not make a statement about whether the feature is included in an offer for the main accommodation or available at extra costs.

@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of CreativeWork.
 
 Use it like this: 
-- has_value_for_content_rating_stars = `=this.dv_has_value_for_content_rating_stars`  
+- #has_/value_for_content_rating_stars = `=this.dv_has_value_for_content_rating_stars`  
 - has_value_for_content_rating_stars = `=this.dv_has_value_for_content_rating_stars`  
 
 Official rating of a piece of content&amp;#x2014;for example, 'MPAA PG-13'.

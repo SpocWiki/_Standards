@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Text of AudioObject, VideoObject.
 
 Use it like this: 
-- has_text_of_transcript = `=this.dv_has_text_of_transcript`  
+- #has_/text_of_transcript = `=this.dv_has_text_of_transcript`  
 - has_text_of_transcript = `=this.dv_has_text_of_transcript`  
 
 If this MediaObject is an AudioObject or VideoObject, the transcript of that object.

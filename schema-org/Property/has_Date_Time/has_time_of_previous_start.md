@@ -54,7 +54,7 @@ dv_is_same_as:
 Predicate to describe the date of Event.
 
 Use it like this: 
-- has_time_of_previous_start = `=this.dv_has_time_of_previous_start`  
+- #has_/time_of_previous_start = `=this.dv_has_time_of_previous_start`  
 - has_time_of_previous_start = `=this.dv_has_time_of_previous_start`  
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 

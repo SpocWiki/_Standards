@@ -61,7 +61,7 @@ dv_is_same_as:
 Predicate to specify the Url of CreativeWork.
 
 Use it like this: 
-- has_url_for_thumbnail = `=this.dv_has_url_for_thumbnail`  
+- #has_/url_for_thumbnail = `=this.dv_has_url_for_thumbnail`  
 - has_url_for_thumbnail = `=this.dv_has_url_for_thumbnail`  
 
 A thumbnail image relevant to the Thing.

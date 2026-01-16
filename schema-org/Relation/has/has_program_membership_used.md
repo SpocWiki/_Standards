@@ -56,7 +56,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_program_membership_used = `=this.dv_has_program_membership_used`  
+- #has_/program_membership_used = `=this.dv_has_program_membership_used`  
 - has_program_membership_used = `=this.dv_has_program_membership_used`  
 
 Any membership in a frequent flyer, hotel loyalty program, etc. being applied to the reservation.

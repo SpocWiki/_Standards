@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Text of [[../../../Society/Agent/Community/Organization/Role/Performance_Role|PerformanceRole]].
 
 Use it like this: 
-- has_name_of_character = `=this.dv_has_name_of_character`  
+- #has_/name_of_character = `=this.dv_has_name_of_character`  
 - has_name_of_character = `=this.dv_has_name_of_character`  
 
 The name of a character played in some acting or performing role, i.e. in a [[../../../Society/Agent/Community/Organization/Role/Performance_Role|PerformanceRole]].

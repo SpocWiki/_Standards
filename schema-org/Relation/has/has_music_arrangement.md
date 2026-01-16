@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_music_arrangement = `=this.dv_has_music_arrangement`  
+- #has_/music_arrangement = `=this.dv_has_music_arrangement`  
 - has_music_arrangement = `=this.dv_has_music_arrangement`  
 
 An arrangement derived from the composition.

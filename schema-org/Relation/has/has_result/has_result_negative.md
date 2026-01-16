@@ -73,7 +73,7 @@ Usually this is complemented by [[has_result_positive]],
 to be able to weigh a Decision in a [[../../../../../_protect/Society/Communication/Media/Literature/Team-Tactics/Team-Direction/Force-Field_Analysis|Force-Field_Analysis]].
 
 Use it like this: 
-- has_result_negative = `=this.dv_has_result_negative` ] ] 
+- #has_/result_/negative = `=this.dv_has_result_negative` ] ] 
 - has_result_negative = `=this.dv_has_result_negative` ]] 
 
 Relation describes that: 

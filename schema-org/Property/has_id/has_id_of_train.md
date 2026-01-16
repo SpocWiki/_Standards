@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of TrainTrip.
 
 Use it like this: 
-- has_text_of_train_number = `=this.dv_has_text_of_train_number`  
+- #has_/text_of_train_number = `=this.dv_has_text_of_train_number`  
 - has_text_of_train_number = `=this.dv_has_text_of_train_number`  
 
 The unique identifier for the train.

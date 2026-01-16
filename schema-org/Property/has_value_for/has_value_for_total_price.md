@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of Reservation, Ticket.
 
 Use it like this: 
-- has_value_for_total_price = `=this.dv_has_value_for_total_price`  
+- #has_/value_for_total_price = `=this.dv_has_value_for_total_price`  
 - has_value_for_total_price = `=this.dv_has_value_for_total_price`  
 
 The total price for the reservation or ticket, including applicable taxes, shipping, etc.

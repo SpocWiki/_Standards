@@ -56,7 +56,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_sign_or_symptom = `=this.dv_has_sign_or_symptom`  
+- #has_/sign_or_symptom = `=this.dv_has_sign_or_symptom`  
 - has_sign_or_symptom = `=this.dv_has_sign_or_symptom`  
 
 A sign or symptom of this condition. Signs are objective or physically observable manifestations of the medical condition while symptoms are the subjective experience of the medical condition.

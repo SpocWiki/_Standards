@@ -53,13 +53,13 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_adverse_outcome = `=this.dv_has_adverse_outcome`  
+- #has_/adverse_outcome = `=this.dv_has_adverse_outcome`  
 - has_adverse_outcome = `=this.dv_has_adverse_outcome`  
 
 A possible complication and/or side effect of this therapy.
 If it is known that an adverse outcome is serious (resulting in death, disability, or permanent damage;
 requiring hospitalization; or otherwise life-threatening or requiring immediate medical attention),
-tag it as a [[has_serious_adverse_outcome]] instead.
+tag it as a [[has_result/has_result_negative_serious]] instead.
 
 Relation describes that: 
 

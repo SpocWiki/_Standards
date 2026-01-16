@@ -58,7 +58,7 @@ dv_is_same_as:
 Symmetric relation between 2 neighboring, non-overlapping GeospatialGeometry or Place.
 
 Use it like this: 
-- has_location_that_touches = `=this.dv_has_location_that_touches`  
+- #has_/location_that_touches = `=this.dv_has_location_that_touches`  
 - has_location_that_touches = `=this.dv_has_location_that_touches`  
 
 Represents spatial relations in which two geometries (or the places they represent) touch: 

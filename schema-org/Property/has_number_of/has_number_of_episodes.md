@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Number of CreativeWorkSeason, RadioSeries, TVSeries, VideoGameSeries.
 
 Use it like this: 
-- has_number_of_episodes = `=this.dv_has_number_of_episodes`  
+- #has_/number_of_episodes = `=this.dv_has_number_of_episodes`  
 - has_number_of_episodes = `=this.dv_has_number_of_episodes`  
 
 The number of episodes in this season or series.

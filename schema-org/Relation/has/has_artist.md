@@ -55,7 +55,7 @@ dv_is_same_as:
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- has_artist = `=this.dv_has_artist` ] ] 
+- #has_/artist = `=this.dv_has_artist` ] ] 
 - has_artist = `=this.dv_has_artist` ] ] 
 
 The primary artist for a work

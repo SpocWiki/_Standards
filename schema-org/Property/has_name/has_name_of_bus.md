@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Text of [[../../Class/is_a_/Intangible/trip/bus_trip|BusTrip]].
 
 Use it like this: 
-- has_name_of_bus = `=this.dv_has_name_of_bus`  
+- #has_/name_of_bus = `=this.dv_has_name_of_bus`  
 - has_name_of_bus = `=this.dv_has_name_of_bus`  
 
 The name of the bus (e.g. Bolt Express).

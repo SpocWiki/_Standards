@@ -55,7 +55,7 @@ dv_is_same_as:
 Predicate to describe the date of Invoice, Order.
 
 Use it like this: 
-- has_time_of_payment_due = `=this.dv_has_time_of_payment_due`  
+- #has_/time_of_payment_due = `=this.dv_has_time_of_payment_due`  
 - has_time_of_payment_due = `=this.dv_has_time_of_payment_due`  
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 

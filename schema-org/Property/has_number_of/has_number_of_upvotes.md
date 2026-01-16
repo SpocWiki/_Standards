@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Number of Comment.
 
 Use it like this: 
-- has_number_of_upvotes = `=this.dv_has_number_of_upvotes`  
+- #has_/number_of_upvotes = `=this.dv_has_number_of_upvotes`  
 - has_number_of_upvotes = `=this.dv_has_number_of_upvotes`  
 
 The number of upvotes this question, answer or comment has received from the community.

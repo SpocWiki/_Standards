@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the geo of ServiceChannel.
 
 Use it like this: 
-- has_location_of_service = `=this.dv_has_location_of_service`  
+- #has_/location_of_service = `=this.dv_has_location_of_service`  
 - has_location_of_service = `=this.dv_has_location_of_service`  
 
 The location (e.g. civic structure, local business, etc.) where a person can go to access the service.

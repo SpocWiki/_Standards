@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_pregnancy_category = `=this.dv_has_pregnancy_category`  
+- #has_/pregnancy_category = `=this.dv_has_pregnancy_category`  
 - has_pregnancy_category = `=this.dv_has_pregnancy_category`  
 
 Pregnancy category of this drug.

@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the geo of MediaObject.
 
 Use it like this: 
-- has_location_regions_allowed = `=this.dv_has_location_regions_allowed`  
+- #has_/location_regions_allowed = `=this.dv_has_location_regions_allowed`  
 - has_location_regions_allowed = `=this.dv_has_location_regions_allowed`  
 
 The regions where the media is allowed. If not specified, then it's assumed to be allowed everywhere. Specify the countries in <a href="http://en.wikipedia.org/wiki/ISO_3166">ISO 3166 format]].

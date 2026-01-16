@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Text of MedicalCondition, PhysicalActivity.
 
 Use it like this: 
-- has_text_of_epidemiology = `=this.dv_has_text_of_epidemiology`  
+- #has_/text_of_epidemiology = `=this.dv_has_text_of_epidemiology`  
 - has_text_of_epidemiology = `=this.dv_has_text_of_epidemiology`  
 
 The characteristics of associated patients, such as age, gender, race etc.

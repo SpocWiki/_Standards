@@ -57,7 +57,7 @@ Predicate to describe the date of Observation.
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- has_time_of_observation = `=this.dv_has_time_of_observation`  
+- #has_/time_of_observation = `=this.dv_has_time_of_observation`  
 - has_time_of_observation = `=this.dv_has_time_of_observation`  
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 

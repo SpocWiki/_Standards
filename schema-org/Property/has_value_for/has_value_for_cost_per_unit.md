@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of DrugCost.
 
 Use it like this: 
-- has_value_for_cost_per_unit = `=this.dv_has_value_for_cost_per_unit`  
+- #has_/value_for_cost_per_unit = `=this.dv_has_value_for_cost_per_unit`  
 - has_value_for_cost_per_unit = `=this.dv_has_value_for_cost_per_unit`  
 
 The cost per unit of the drug.

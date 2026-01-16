@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Text of SuperficialAnatomy.
 
 Use it like this: 
-- has_text_of_significance = `=this.dv_has_text_of_significance`  
+- #has_/text_of_significance = `=this.dv_has_text_of_significance`  
 - has_text_of_significance = `=this.dv_has_text_of_significance`  
 
 The significance associated with the superficial anatomy; as an example, how characteristics of the superficial anatomy can suggest underlying medical conditions or courses of treatment.

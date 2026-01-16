@@ -60,7 +60,7 @@ dv_is_same_as:
 Indicates a ([[../Collection/item_list|Item_list]] of) [[Thing]] is an instance of this [[../Class]].
 
 Use it like this: 
-- has_instances = `=this.dv_has_instances` ] ] 
+- #has_/instances = `=this.dv_has_instances` ] ] 
 - has_instances = `=this.dv_has_instances` ] ] 
 
 Relation describes that: 

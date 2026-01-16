@@ -58,7 +58,7 @@ dv_is_same_as:
 Products owned by the organization or person.
 
 Use it like this: 
-- has_own = `=this.dv_has_own`  
+- #has_/own = `=this.dv_has_own`  
 - has_own = `=this.dv_has_own`  
 
 Relation describes [[../../../Society/Law/Civil_Law/Ownership|Ownership]] from the Side of the [[Owner]]: 

@@ -41,7 +41,7 @@ A code that identifies this [[DefinedTerm]] within a [[DefinedTermSet]]
 
 Predicated describes that: 
 
-#has_/domain  :: [[../../Relation/has/has_defined_term|defined_term]]  
+#has_/domain  :: [[../../Relation/has/has_delivery/has_defined_term|defined_term]]  
 
 (has_/name :: has_text_of_term_code )
 (has_/range :: text )

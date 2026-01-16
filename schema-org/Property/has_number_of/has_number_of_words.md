@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Number of Article.
 
 Use it like this: 
-- has_number_of_words = `=this.dv_has_number_of_words`  
+- #has_/number_of_words = `=this.dv_has_number_of_words`  
 - has_number_of_words = `=this.dv_has_number_of_words`  
 
 The number of words in the text of the Article.

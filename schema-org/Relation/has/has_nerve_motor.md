@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_nerve_motor = `=this.dv_has_nerve_motor`  
+- #has_/nerve_motor = `=this.dv_has_nerve_motor`  
 - has_nerve_motor = `=this.dv_has_nerve_motor`  
 
 The neurological pathway extension that involves muscle control.

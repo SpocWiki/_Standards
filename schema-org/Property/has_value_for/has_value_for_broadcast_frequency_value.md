@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of BroadcastFrequencySpecification.
 
 Use it like this: 
-- has_value_for_broadcast_frequency = `=this.dv_has_value_for_broadcast_frequency`  
+- #has_/value_for_broadcast_frequency = `=this.dv_has_value_for_broadcast_frequency`  
 - has_value_for_broadcast_frequency = `=this.dv_has_value_for_broadcast_frequency`  
 
 The frequency in MHz for a particular broadcast.

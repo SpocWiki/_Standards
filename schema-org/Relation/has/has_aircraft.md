@@ -52,7 +52,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_aircraft = `=this.dv_has_aircraft`  
+- #has_/aircraft = `=this.dv_has_aircraft`  
 - has_aircraft = `=this.dv_has_aircraft`  
 
 The kind of aircraft (e.g., "Boeing 747").

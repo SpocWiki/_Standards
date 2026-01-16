@@ -52,7 +52,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_album = `=this.dv_has_album`  
+- #has_/album = `=this.dv_has_album`  
 - has_album = `=this.dv_has_album`  
 
 A music album.

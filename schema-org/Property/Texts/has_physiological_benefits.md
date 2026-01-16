@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of Diet.
 
 Use it like this: 
-- has_text_of_physiological_benefits = `=this.dv_has_text_of_physiological_benefits`  
+- #has_/text_of_physiological_benefits = `=this.dv_has_text_of_physiological_benefits`  
 - has_text_of_physiological_benefits = `=this.dv_has_text_of_physiological_benefits`  
 
 Specific physiologic benefits associated to the plan.

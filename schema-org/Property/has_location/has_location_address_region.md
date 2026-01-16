@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Text of DefinedRegion, PostalAddress.
 
 Use it like this: 
-- has_location_address_region = `=this.dv_has_location_address_region`  
+- #has_/location_address_region = `=this.dv_has_location_address_region`  
 - has_location_address_region = `=this.dv_has_location_address_region`  
 
 The region in which the locality is, and which is in the country. For example, California or another appropriate first-level [Administrative division](https://en.wikipedia.org/wiki/List_of_administrative_divisions_by_country).

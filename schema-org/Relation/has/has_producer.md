@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_producer = `=this.dv_has_producer`  
+- #has_/producer = `=this.dv_has_producer`  
 - has_producer = `=this.dv_has_producer`  
 
 The person or organization who produced the work (e.g. music album, movie, TV/radio series etc.).

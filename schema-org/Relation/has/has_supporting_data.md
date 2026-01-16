@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_supporting_data = `=this.dv_has_supporting_data`  
+- #has_/supporting_data = `=this.dv_has_supporting_data`  
 - has_supporting_data = `=this.dv_has_supporting_data`  
 
 Supporting data for a SoftwareApplication.

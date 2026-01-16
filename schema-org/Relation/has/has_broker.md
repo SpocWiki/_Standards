@@ -52,7 +52,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_broker = `=this.dv_has_broker`  
+- #has_/broker = `=this.dv_has_broker`  
 - has_broker = `=this.dv_has_broker`  
 
 An entity that arranges for an exchange between a buyer and a seller.  

@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of Demand, Offer.
 
 Use it like this: 
-- has_value_for_advance_booking_requirement = `=this.dv_has_value_for_advance_booking_requirement`  
+- #has_/value_for_advance_booking_requirement = `=this.dv_has_value_for_advance_booking_requirement`  
 - has_value_for_advance_booking_requirement = `=this.dv_has_value_for_advance_booking_requirement`  
 
 The amount of time that is required between accepting the offer and the actual usage of the resource or service.

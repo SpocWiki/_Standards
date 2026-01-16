@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the geo of Order.
 
 Use it like this: 
-- has_location_address_billing = `=this.dv_has_location_address_billing`  
+- #has_/location_address_billing = `=this.dv_has_location_address_billing`  
 - has_location_address_billing = `=this.dv_has_location_address_billing`  
 
 The billing address for the order.

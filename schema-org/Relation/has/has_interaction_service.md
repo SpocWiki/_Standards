@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_interaction_service = `=this.dv_has_interaction_service`  
+- #has_/interaction_service = `=this.dv_has_interaction_service`  
 - has_interaction_service = `=this.dv_has_interaction_service`  
 
 The WebSite or SoftwareApplication where the interactions took place.

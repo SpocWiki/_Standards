@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_works_for = `=this.dv_has_works_for`  
+- #has_/works_for = `=this.dv_has_works_for`  
 - has_works_for = `=this.dv_has_works_for`  
 
 Organizations that the person works for.

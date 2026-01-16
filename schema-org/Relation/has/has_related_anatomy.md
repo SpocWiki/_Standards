@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_related_anatomy = `=this.dv_has_related_anatomy`  
+- #has_/related_anatomy = `=this.dv_has_related_anatomy`  
 - has_related_anatomy = `=this.dv_has_related_anatomy`  
 
 Anatomical systems or structures that relate to the superficial anatomy.

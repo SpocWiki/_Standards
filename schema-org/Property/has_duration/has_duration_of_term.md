@@ -57,7 +57,7 @@ Predicate to describe the Duration of EducationalOccupationalProgram.
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- has_duration_of_term = `=this.dv_has_duration_of_term`  
+- #has_/duration_of_term = `=this.dv_has_duration_of_term`  
 - has_duration_of_term = `=this.dv_has_duration_of_term`  with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
 
 The amount of time in a term as defined by the institution. A term is a length of time where students take one or more classes. Semesters and quarters are common units for term.

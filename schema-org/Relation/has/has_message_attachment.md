@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_message_attachment = `=this.dv_has_message_attachment`  
+- #has_/message_attachment = `=this.dv_has_message_attachment`  
 - has_message_attachment = `=this.dv_has_message_attachment`  
 
 A CreativeWork attached to the message.

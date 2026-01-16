@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Text of DietarySupplement, Drug.
 
 Use it like this: 
-- has_name_proprietary = `=this.dv_has_name_proprietary`  
+- #has_/name_proprietary = `=this.dv_has_name_proprietary`  
 - has_name_proprietary = `=this.dv_has_name_proprietary`  
 
 Proprietary name given to the diet plan, typically by its originator or creator.

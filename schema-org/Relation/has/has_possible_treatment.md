@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_possible_treatment = `=this.dv_has_possible_treatment`  
+- #has_/possible_treatment = `=this.dv_has_possible_treatment`  
 - has_possible_treatment = `=this.dv_has_possible_treatment`  
 
 A possible treatment to address this condition, sign or symptom.

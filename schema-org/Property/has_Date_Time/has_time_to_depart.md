@@ -54,7 +54,7 @@ dv_is_same_as:
 Predicate to describe the time of Trip.
 
 Use it like this: 
-- has_time_to_depart = `=this.dv_has_time_to_depart`  
+- #has_/time_to_depart = `=this.dv_has_time_to_depart`  
 - has_time_to_depart = `=this.dv_has_time_to_depart`  
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 

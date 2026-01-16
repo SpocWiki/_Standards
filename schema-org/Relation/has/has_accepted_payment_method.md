@@ -57,7 +57,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_accepted_payment_method = `=this.dv_has_accepted_payment_method`  
+- #has_/accepted_payment_method = `=this.dv_has_accepted_payment_method`  
 - has_accepted_payment_method = `=this.dv_has_accepted_payment_method`  
 
 The payment method(s) accepted by seller for this offer.

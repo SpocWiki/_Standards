@@ -54,7 +54,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_keywords = `=this.dv_has_keywords`  
+- #has_/keywords = `=this.dv_has_keywords`  
 - has_keywords = `=this.dv_has_keywords`  
 
 Keywords or tags used to describe some item. Multiple textual entries in a keywords list are typically delimited by commas, or by repeating the property.

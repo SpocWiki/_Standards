@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Number of OrganizationRole.
 
 Use it like this: 
-- has_number_of_numbered_position = `=this.dv_has_number_of_numbered_position`  
+- #has_/number_of_numbered_position = `=this.dv_has_number_of_numbered_position`  
 - has_number_of_numbered_position = `=this.dv_has_number_of_numbered_position`  
 
 A number associated with a role in an organization, for example, the number on an athlete's jersey.

@@ -320,7 +320,7 @@ AmenityFeature:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#clas
 ### BranchCode
 A short textual code (also called "store code") 
 that uniquely identifies a place of business. 
-The code is typically assigned by the [[../../schema-org/Relation/has/has_parent_organization|parent-organization]] 
+The code is typically assigned by the [[../../schema-org/Relation/has/has_parent/has_parent_organization|parent-organization]] 
 and used in structured URLs.
 
 For example, in the URL http://www.starbucks.co.uk/store-locator/etc/detail/3047 the code "3047" is a branchCode for a particular branch.

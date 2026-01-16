@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Number of Event.
 
 Use it like this: 
-- has_number_of_remaining_attendees = `=this.dv_has_number_of_remaining_attendees`  
+- #has_/number_of_remaining_attendees = `=this.dv_has_number_of_remaining_attendees`  
 - has_number_of_remaining_attendees = `=this.dv_has_number_of_remaining_attendees`  
 
 The number of attendee places for an event that remain unallocated.

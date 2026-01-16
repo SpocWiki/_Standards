@@ -56,7 +56,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_item_list_order = `=this.dv_has_item_list_order`  
+- #has_/item_list_order = `=this.dv_has_item_list_order`  
 - has_item_list_order = `=this.dv_has_item_list_order`  
 
 Type of ordering (e.g. Ascending, Descending, Unordered).

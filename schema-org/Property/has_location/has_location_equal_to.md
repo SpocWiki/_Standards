@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the geo of GeospatialGeometry, Place.
 
 Use it like this: 
-- has_location_equal_to = `=this.dv_has_location_equal_to`  
+- #has_/location_equal_to = `=this.dv_has_location_equal_to`  
 - has_location_equal_to = `=this.dv_has_location_equal_to`  
 
 Represents spatial relations in which two geometries (or the places they represent) are topologically equal, 

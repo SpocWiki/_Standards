@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of Muscle.
 
 Use it like this: 
-- has_text_of_muscle_action = `=this.dv_has_text_of_muscle_action`  
+- #has_/text_of_muscle_action = `=this.dv_has_text_of_muscle_action`  
 - has_text_of_muscle_action = `=this.dv_has_text_of_muscle_action`  
 
 The movement the muscle generates.

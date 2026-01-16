@@ -52,7 +52,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_colleague = `=this.dv_has_colleague`  
+- #has_/colleague = `=this.dv_has_colleague`  
 - has_colleague = `=this.dv_has_colleague`  
 
 A colleague of the person.

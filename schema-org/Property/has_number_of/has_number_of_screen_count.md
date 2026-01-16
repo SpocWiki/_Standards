@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Number of MovieTheater.
 
 Use it like this: 
-- has_number_of_screen_count = `=this.dv_has_number_of_screen_count`  
+- #has_/number_of_screen_count = `=this.dv_has_number_of_screen_count`  
 - has_number_of_screen_count = `=this.dv_has_number_of_screen_count`  
 
 The number of screens in the movie theater.

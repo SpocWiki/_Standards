@@ -56,7 +56,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_included_risk_factor = `=this.dv_has_included_risk_factor`  
+- #has_/included_risk_factor = `=this.dv_has_included_risk_factor`  
 - has_included_risk_factor = `=this.dv_has_included_risk_factor`  
 
 A modifiable or non-modifiable risk factor included in the calculation, e.g. age, coexisting condition.

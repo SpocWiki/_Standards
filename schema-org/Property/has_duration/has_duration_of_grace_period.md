@@ -57,7 +57,7 @@ Predicate to describe the Duration of LoanOrCredit.
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- has_duration_of_grace_period = `=this.dv_has_duration_of_grace_period`  
+- #has_/duration_of_grace_period = `=this.dv_has_duration_of_grace_period`  
 - has_duration_of_grace_period = `=this.dv_has_duration_of_grace_period`  with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
 
 The period of time after any due date that the borrower has to fulfil its obligations before a default (failure to pay) is deemed to have occurred.

@@ -30,7 +30,7 @@ type: Predi_Relation
 ---
 
 #is_/part_of :: pending:  
-#has_/inverse  :: "[[has_parent_taxon|has_parent_taxon]]"  
+#has_/inverse  :: "[[has_parent/has_parent_taxon|has_parent_taxon]]"  
 
 Use it like this: 
 - #has_/child_/taxon :: "[[../../../bio/Taxon_Rank/Taxon|Taxon]]", Text, URL  

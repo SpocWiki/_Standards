@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_customer = `=this.dv_has_customer`  
+- #has_/customer = `=this.dv_has_customer`  
 - has_customer = `=this.dv_has_customer`  
 
 Party placing the order or paying the invoice.

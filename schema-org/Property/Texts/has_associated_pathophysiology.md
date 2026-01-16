@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy.
 
 Use it like this: 
-- has_text_of_associated_pathophysiology = `=this.dv_has_text_of_associated_pathophysiology`  
+- #has_/text_of_associated_pathophysiology = `=this.dv_has_text_of_associated_pathophysiology`  
 - has_text_of_associated_pathophysiology = `=this.dv_has_text_of_associated_pathophysiology`  
 
 If applicable, a description of the pathophysiology associated with the anatomical system, including potential abnormal changes in the mechanical, physical, and biochemical functions of the system.

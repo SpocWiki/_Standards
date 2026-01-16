@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of Article.
 
 Use it like this: 
-- has_text_of_article_body = `=this.dv_has_text_of_article_body`  
+- #has_/text_of_article_body = `=this.dv_has_text_of_article_body`  
 - has_text_of_article_body = `=this.dv_has_text_of_article_body`  
 
 The actual body of the article.

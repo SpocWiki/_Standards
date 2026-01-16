@@ -54,7 +54,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_spouse = `=this.dv_has_spouse`  
+- #has_/spouse = `=this.dv_has_spouse`  
 - has_spouse = `=this.dv_has_spouse`  
 
 The person's spouse.

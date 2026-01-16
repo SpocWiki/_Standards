@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of TypeAndQuantityNode.
 
 Use it like this: 
-- has_value_for_amount_of_this_good = `=this.dv_has_value_for_amount_of_this_good`  
+- #has_/value_for_amount_of_this_good = `=this.dv_has_value_for_amount_of_this_good`  
 - has_value_for_amount_of_this_good = `=this.dv_has_value_for_amount_of_this_good`  
 
 The quantity of the goods included in the offer.

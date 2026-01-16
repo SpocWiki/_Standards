@@ -57,7 +57,7 @@ Predicate to describe the date of CDCPMDRecord.
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- has_time_of_cvd_collection = `=this.dv_has_time_of_cvd_collection`  
+- #has_/time_of_cvd_collection = `=this.dv_has_time_of_cvd_collection`  
 - has_time_of_cvd_collection = `=this.dv_has_time_of_cvd_collection`  
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 

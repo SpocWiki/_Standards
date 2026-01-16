@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of ParentAudience.
 
 Use it like this: 
-- has_value_for_child_max_age = `=this.dv_has_value_for_child_max_age`  
+- #has_/value_for_child_max_age = `=this.dv_has_value_for_child_max_age`  
 - has_value_for_child_max_age = `=this.dv_has_value_for_child_max_age`  
 
 Maximal age of the child.

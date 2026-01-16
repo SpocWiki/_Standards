@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of FlightReservation.
 
 Use it like this: 
-- has_text_of_boarding_group = `=this.dv_has_text_of_boarding_group`  
+- #has_/text_of_boarding_group = `=this.dv_has_text_of_boarding_group`  
 - has_text_of_boarding_group = `=this.dv_has_text_of_boarding_group`  
 
 The airline-specific indicator of boarding order / preference.

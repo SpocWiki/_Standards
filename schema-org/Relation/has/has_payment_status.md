@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_payment_status = `=this.dv_has_payment_status`  
+- #has_/payment_status = `=this.dv_has_payment_status`  
 - has_payment_status = `=this.dv_has_payment_status`  
 
 The status of payment; whether the invoice has been paid or not.

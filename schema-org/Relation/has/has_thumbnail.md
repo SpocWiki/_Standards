@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_thumbnail = `=this.dv_has_thumbnail`  
+- #has_/thumbnail = `=this.dv_has_thumbnail`  
 - has_thumbnail = `=this.dv_has_thumbnail`  
 
 Thumbnail image for an image or video.

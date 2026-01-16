@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_medicine_system = `=this.dv_has_medicine_system`  
+- #has_/medicine_system = `=this.dv_has_medicine_system`  
 - has_medicine_system = `=this.dv_has_medicine_system`  
 
 The system of medicine that includes this MedicalEntity, for example 'evidence-based', 'homeopathic', 'chiropractic', etc.

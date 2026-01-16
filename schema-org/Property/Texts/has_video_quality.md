@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of VideoObject.
 
 Use it like this: 
-- has_text_of_video_quality = `=this.dv_has_text_of_video_quality`  
+- #has_/text_of_video_quality = `=this.dv_has_text_of_video_quality`  
 - has_text_of_video_quality = `=this.dv_has_text_of_video_quality`  
 
 The quality of the video.

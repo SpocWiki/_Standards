@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of CreativeWork.
 
 Use it like this: 
-- has_value_for_copyright_year = `=this.dv_has_value_for_copyright_year`  
+- #has_/value_for_copyright_year = `=this.dv_has_value_for_copyright_year`  
 - has_value_for_copyright_year = `=this.dv_has_value_for_copyright_year`  
 
 The year during which the claimed copyright for the CreativeWork was first asserted.

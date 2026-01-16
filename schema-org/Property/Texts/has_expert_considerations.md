@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of Diet.
 
 Use it like this: 
-- has_text_of_expert_considerations = `=this.dv_has_text_of_expert_considerations`  
+- #has_/text_of_expert_considerations = `=this.dv_has_text_of_expert_considerations`  
 - has_text_of_expert_considerations = `=this.dv_has_text_of_expert_considerations`  
 
 Medical expert advice related to the plan.

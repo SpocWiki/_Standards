@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Number of Article, Chapter, PublicationIssue, PublicationVolume.
 
 Use it like this: 
-- has_number_of_page_start = `=this.dv_has_number_of_page_start`  
+- #has_/number_of_page_start = `=this.dv_has_number_of_page_start`  
 - has_number_of_page_start = `=this.dv_has_number_of_page_start`  
 
 The page on which the work starts; for example "135" or "xiii".

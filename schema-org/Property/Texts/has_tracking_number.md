@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of ParcelDelivery.
 
 Use it like this: 
-- has_text_of_tracking_number = `=this.dv_has_text_of_tracking_number`  
+- #has_/text_of_tracking_number = `=this.dv_has_text_of_tracking_number`  
 - has_text_of_tracking_number = `=this.dv_has_text_of_tracking_number`  
 
 Shipper tracking number.

@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of MediaObject.
 
 Use it like this: 
-- has_text_of_content_size = `=this.dv_has_text_of_content_size`  
+- #has_/text_of_content_size = `=this.dv_has_text_of_content_size`  
 - has_text_of_content_size = `=this.dv_has_text_of_content_size`  
 
 File size in (mega/kilo)bytes.

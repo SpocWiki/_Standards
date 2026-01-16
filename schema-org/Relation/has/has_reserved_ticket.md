@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_reserved_ticket = `=this.dv_has_reserved_ticket`  
+- #has_/reserved_ticket = `=this.dv_has_reserved_ticket`  
 - has_reserved_ticket = `=this.dv_has_reserved_ticket`  
 
 A ticket associated with the reservation.

@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_character = `=this.dv_has_character`  
+- #has_/character = `=this.dv_has_character`  
 - has_character = `=this.dv_has_character`  
 
 Fictional person connected with a creative work.

@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_hours_available = `=this.dv_has_hours_available`  
+- #has_/hours_available = `=this.dv_has_hours_available`  
 - has_hours_available = `=this.dv_has_hours_available`  
 
 The hours during which this service or contact is available.

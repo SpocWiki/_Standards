@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the geo of Organization or Person that operates the POS.
 
 Use it like this: 
-- has_location_of_POS = `=this.dv_has_location_of_POS`  
+- #has_/location_of_POS = `=this.dv_has_location_of_POS`  
 - has_location_of_POS = `=this.dv_has_location_of_POS`  
 
 Points-of-Sales operated by the organization or person.

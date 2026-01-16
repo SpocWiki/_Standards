@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_steering_position = `=this.dv_has_steering_position`  
+- #has_/steering_position = `=this.dv_has_steering_position`  
 - has_steering_position = `=this.dv_has_steering_position`  
 
 The position of the steering wheel or similar device (mostly for cars).

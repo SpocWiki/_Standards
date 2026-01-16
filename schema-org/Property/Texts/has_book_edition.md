@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of Book.
 
 Use it like this: 
-- has_text_of_book_edition = `=this.dv_has_text_of_book_edition`  
+- #has_/text_of_book_edition = `=this.dv_has_text_of_book_edition`  
 - has_text_of_book_edition = `=this.dv_has_text_of_book_edition`  
 
 The edition of the book.

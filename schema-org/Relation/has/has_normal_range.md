@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_normal_range = `=this.dv_has_normal_range`  
+- #has_/normal_range = `=this.dv_has_normal_range`  
 - has_normal_range = `=this.dv_has_normal_range`  
 
 Range of acceptable values for a typical patient, when applicable.

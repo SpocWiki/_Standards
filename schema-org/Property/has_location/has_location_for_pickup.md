@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the geo of RentalCarReservation, TaxiReservation.
 
 Use it like this: 
-- has_location_for_pickup = `=this.dv_has_location_for_pickup`  
+- #has_/location_for_pickup = `=this.dv_has_location_for_pickup`  
 - has_location_for_pickup = `=this.dv_has_location_for_pickup`  
 
 Where a taxi will pick up a passenger or a rental car can be picked up.

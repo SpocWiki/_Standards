@@ -60,7 +60,7 @@ dv_is_same_as:
 Predicate to describe the Text of Vehicle.
 
 Use it like this: 
-- has_text_of_vehicle_interior_type = `=this.dv_has_text_of_vehicle_interior_type`  
+- #has_/text_of_vehicle_interior_type = `=this.dv_has_text_of_vehicle_interior_type`  
 - has_text_of_vehicle_interior_type = `=this.dv_has_text_of_vehicle_interior_type`  
 
 The type or material of the interior of the vehicle (e.g. synthetic fabric, leather, wood, etc.). While most interior types are characterized by the material used, an interior type can also be based on vehicle usage or target audience.

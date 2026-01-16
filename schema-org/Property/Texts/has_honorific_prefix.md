@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of Person.
 
 Use it like this: 
-- has_text_of_honorific_prefix = `=this.dv_has_text_of_honorific_prefix`  
+- #has_/text_of_honorific_prefix = `=this.dv_has_text_of_honorific_prefix`  
 - has_text_of_honorific_prefix = `=this.dv_has_text_of_honorific_prefix`  
 
 An honorific prefix preceding a Person"s name such as Dr/Mrs/Mr.

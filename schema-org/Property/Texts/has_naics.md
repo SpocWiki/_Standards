@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate with the North American Industry Classification System (NAICS) code for a particular organization or business person.
 
 Use it like this: 
-- has_text_of_naics = `=this.dv_has_text_of_naics`  
+- #has_/text_of_naics = `=this.dv_has_text_of_naics`  
 - has_text_of_naics = `=this.dv_has_text_of_naics`  
 
 Predicated describes that: 

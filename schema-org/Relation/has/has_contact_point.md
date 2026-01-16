@@ -56,7 +56,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_contact_point = `=this.dv_has_contact_point`  
+- #has_/contact_point = `=this.dv_has_contact_point`  
 - has_contact_point = `=this.dv_has_contact_point`  
 
 A contact point for a person or organization.

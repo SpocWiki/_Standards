@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Text of PropertyValueSpecification.
 
 Use it like this: 
-- has_name_of_value = `=this.dv_has_name_of_value`  
+- #has_/name_of_value = `=this.dv_has_name_of_value`  
 - has_name_of_value = `=this.dv_has_name_of_value`  
 
 Indicates the name of the PropertyValueSpecification to be used in URL templates and form encoding in a manner analogous to HTML's input@name.

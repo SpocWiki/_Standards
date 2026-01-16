@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Number of Article, Chapter, PublicationIssue, PublicationVolume.
 
 Use it like this: 
-- has_number_of_page_end = `=this.dv_has_number_of_page_end`  
+- #has_/number_of_page_end = `=this.dv_has_number_of_page_end`  
 - has_number_of_page_end = `=this.dv_has_number_of_page_end`  
 
 The page on which the work ends; for example "138" or "xvi".

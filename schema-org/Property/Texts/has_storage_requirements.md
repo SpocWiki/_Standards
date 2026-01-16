@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of SoftwareApplication.
 
 Use it like this: 
-- has_text_of_storage_requirements = `=this.dv_has_text_of_storage_requirements`  
+- #has_/text_of_storage_requirements = `=this.dv_has_text_of_storage_requirements`  
 - has_text_of_storage_requirements = `=this.dv_has_text_of_storage_requirements`  
 
 Storage requirements (free space required).

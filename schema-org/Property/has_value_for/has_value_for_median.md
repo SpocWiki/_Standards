@@ -56,7 +56,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of QuantitativeValueDistribution.
 
 Use it like this: 
-- has_value_for_median = `=this.dv_has_value_for_median`  
+- #has_/value_for_median = `=this.dv_has_value_for_median`  
 - has_value_for_median = `=this.dv_has_value_for_median`  
 
 The median value.

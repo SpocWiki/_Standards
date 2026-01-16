@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of Rating.
 
 Use it like this: 
-- has_value_for_worst_rating = `=this.dv_has_value_for_worst_rating`  
+- #has_/value_for_worst_rating = `=this.dv_has_value_for_worst_rating`  
 - has_value_for_worst_rating = `=this.dv_has_value_for_worst_rating`  
 
 The lowest value allowed in this rating system. If worstRating is omitted, 1 is assumed.

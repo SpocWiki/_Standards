@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_tourist_type = `=this.dv_has_tourist_type`  
+- #has_/tourist_type = `=this.dv_has_tourist_type`  
 - has_tourist_type = `=this.dv_has_tourist_type`  
 
 Attraction suitable for type(s) of tourist. E.g. children, visitors from a particular country, etc.

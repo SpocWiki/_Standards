@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_audio = `=this.dv_has_audio`  
+- #has_/audio = `=this.dv_has_audio`  
 - has_audio = `=this.dv_has_audio`  
 
 An embedded audio object.

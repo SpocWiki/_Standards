@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_diagnosis = `=this.dv_has_diagnosis`  
+- #has_/diagnosis = `=this.dv_has_diagnosis`  
 - has_diagnosis = `=this.dv_has_diagnosis`  
 
 One or more alternative conditions considered in the differential diagnosis process as output of a diagnosis process.

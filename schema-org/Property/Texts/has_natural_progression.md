@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of MedicalCondition.
 
 Use it like this: 
-- has_text_of_natural_progression = `=this.dv_has_text_of_natural_progression`  
+- #has_/text_of_natural_progression = `=this.dv_has_text_of_natural_progression`  
 - has_text_of_natural_progression = `=this.dv_has_text_of_natural_progression`  
 
 The expected progression of the condition if it is not treated and allowed to progress naturally.

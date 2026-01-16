@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Text of Ticket.
 
 Use it like this: 
-- has_id_ticket = `=this.dv_has_id_ticket`  
+- #has_/id_ticket = `=this.dv_has_id_ticket`  
 - has_id_ticket = `=this.dv_has_id_ticket`  
 
 The unique identifier for the ticket.

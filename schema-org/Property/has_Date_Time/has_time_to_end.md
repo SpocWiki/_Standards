@@ -58,7 +58,7 @@ EducationalOccupationalProgram, Event,
 MerchantReturnPolicySeasonalOverride, Role, Schedule.
 
 Use it like this: 
-- has_time_to_end = `=this.dv_has_time_to_end`  
+- #has_/time_to_end = `=this.dv_has_time_to_end`  
 - has_time_to_end = `=this.dv_has_time_to_end`  
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 

@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of SoftwareApplication.
 
 Use it like this: 
-- has_text_of_application_suite = `=this.dv_has_text_of_application_suite`  
+- #has_/text_of_application_suite = `=this.dv_has_text_of_application_suite`  
 - has_text_of_application_suite = `=this.dv_has_text_of_application_suite`  
 
 The name of the application suite to which the application belongs (e.g. Excel belongs to Office).

@@ -53,7 +53,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_address_country = `=this.dv_has_address_country`  
+- #has_/address_country = `=this.dv_has_address_country`  
 - has_address_country = `=this.dv_has_address_country`  
 
 The country. For example, USA. You can also provide the two-letter [ISO 3166-1 alpha-2 country code](http://en.wikipedia.org/wiki/ISO_3166-1).

@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_industry = `=this.dv_has_industry`  
+- #has_/industry = `=this.dv_has_industry`  
 - has_industry = `=this.dv_has_industry`  
 
 The industry associated with the job position.

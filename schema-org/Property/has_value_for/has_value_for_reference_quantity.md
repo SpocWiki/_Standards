@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of UnitPriceSpecification.
 
 Use it like this: 
-- has_value_for_reference_quantity = `=this.dv_has_value_for_reference_quantity`  
+- #has_/value_for_reference_quantity = `=this.dv_has_value_for_reference_quantity`  
 - has_value_for_reference_quantity = `=this.dv_has_value_for_reference_quantity`  
 
 The reference quantity for which a certain price applies, e.g. 1 EUR per 4 kWh of electricity. This property is a replacement for unitOfMeasurement for the advanced cases where the price does not relate to a standard unit.

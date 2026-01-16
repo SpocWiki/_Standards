@@ -54,7 +54,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_nationality = `=this.dv_has_nationality`  
+- #has_/nationality = `=this.dv_has_nationality`  
 - has_nationality = `=this.dv_has_nationality`  
 
 Nationality of the person.

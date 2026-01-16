@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Number of Book.
 
 Use it like this: 
-- has_number_of_pages = `=this.dv_has_number_of_pages`  
+- #has_/number_of_pages = `=this.dv_has_number_of_pages`  
 - has_number_of_pages = `=this.dv_has_number_of_pages`  
 
 The number of pages in the book.

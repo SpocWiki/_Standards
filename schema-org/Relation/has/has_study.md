@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_study = `=this.dv_has_study`  
+- #has_/study = `=this.dv_has_study`  
 - has_study = `=this.dv_has_study`  
 
 A medical study or trial related to this entity.

@@ -71,7 +71,7 @@ It is used when the item is described on multiple websites, and you want to expl
 It is common that e.g. Companies and Brands hog their name on any available Platform, e.g. Facebook, Instagram, Twitter, Google, Amazon etc. 
 
 Use it like this: 
-- has_url = `=this.dv_has_url`  
+- #has_/url = `=this.dv_has_url`  
 - has_url = `=this.dv_has_url`  
 
 URL of the item.

@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to specify the Url of UserComments.
 
 Use it like this: 
-- has_url_for_reply_to = `=this.dv_has_url_for_reply_to`  
+- #has_/url_for_reply_to = `=this.dv_has_url_for_reply_to`  
 - has_url_for_reply_to = `=this.dv_has_url_for_reply_to`  
 
 The URL at which a reply may be posted to the specified UserComment.

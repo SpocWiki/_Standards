@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of CreativeWork.
 
 Use it like this: 
-- has_text_of_accessibility_summary = `=this.dv_has_text_of_accessibility_summary`  
+- #has_/text_of_accessibility_summary = `=this.dv_has_text_of_accessibility_summary`  
 - has_text_of_accessibility_summary = `=this.dv_has_text_of_accessibility_summary`  
 
 A human-readable summary of specific accessibility features or deficiencies, consistent with the other accessibility metadata but expressing subtleties such as "short descriptions are present but long descriptions will be needed for non-visual users" or "short descriptions are present and no long descriptions are needed."

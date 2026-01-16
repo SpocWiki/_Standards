@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of EmployeeRole, JobPosting.
 
 Use it like this: 
-- has_value_for_base_salary = `=this.dv_has_value_for_base_salary`  
+- #has_/value_for_base_salary = `=this.dv_has_value_for_base_salary`  
 - has_value_for_base_salary = `=this.dv_has_value_for_base_salary`  
 
 The base salary of the job or of an employee in an EmployeeRole.

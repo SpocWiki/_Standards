@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of Ticket.
 
 Use it like this: 
-- has_text_of_ticket_token = `=this.dv_has_text_of_ticket_token`  
+- #has_/text_of_ticket_token = `=this.dv_has_text_of_ticket_token`  
 - has_text_of_ticket_token = `=this.dv_has_text_of_ticket_token`  
 
 Reference to an asset (e.g., Barcode, QR code image or PDF) usable for entrance.

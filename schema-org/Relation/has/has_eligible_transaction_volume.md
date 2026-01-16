@@ -56,7 +56,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_eligible_transaction_volume = `=this.dv_has_eligible_transaction_volume`  
+- #has_/eligible_transaction_volume = `=this.dv_has_eligible_transaction_volume`  
 - has_eligible_transaction_volume = `=this.dv_has_eligible_transaction_volume`  
 
 The transaction volume, in a monetary unit, for which the offer or price specification is valid, e.g. for indicating a minimal purchasing volume, to express free shipping above a certain order volume, or to limit the acceptance of credit cards to purchases to a certain minimal amount.

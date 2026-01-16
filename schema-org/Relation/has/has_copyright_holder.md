@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_copyright_holder = `=this.dv_has_copyright_holder`  
+- #has_/copyright_holder = `=this.dv_has_copyright_holder`  
 - has_copyright_holder = `=this.dv_has_copyright_holder`  
 
 The party holding the legal copyright to the CreativeWork.

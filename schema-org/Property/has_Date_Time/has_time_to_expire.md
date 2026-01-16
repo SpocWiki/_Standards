@@ -54,7 +54,7 @@ dv_is_same_as:
 Predicate to describe the date of CreativeWork.
 
 Use it like this: 
-- has_time_to_expire = `=this.dv_has_time_to_expire`  
+- #has_/time_to_expire = `=this.dv_has_time_to_expire`  
 - has_time_to_expire = `=this.dv_has_time_to_expire`  
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 

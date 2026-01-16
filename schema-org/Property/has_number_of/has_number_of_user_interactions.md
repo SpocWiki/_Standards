@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Number of InteractionCounter.
 
 Use it like this: 
-- has_number_of_user_interactions = `=this.dv_has_number_of_user_interactions`  
+- #has_/number_of_user_interactions = `=this.dv_has_number_of_user_interactions`  
 - has_number_of_user_interactions = `=this.dv_has_number_of_user_interactions`  
 
 The number of interactions for the CreativeWork using the WebSite or SoftwareApplication.

@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_secondary_prevention = `=this.dv_has_secondary_prevention`  
+- #has_/secondary_prevention = `=this.dv_has_secondary_prevention`  
 - has_secondary_prevention = `=this.dv_has_secondary_prevention`  
 
 A preventative therapy used to prevent reoccurrence of the medical condition after an initial episode of the condition.

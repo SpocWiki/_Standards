@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_related_to = `=this.dv_has_related_to`  
+- #has_/related_to = `=this.dv_has_related_to`  
 - has_related_to = `=this.dv_has_related_to`  
 
 The most generic familial relation.

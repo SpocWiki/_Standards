@@ -54,7 +54,7 @@ dv_is_same_as:
 Predicate to describe the Duration of HowTo, HowToDirection.
 
 Use it like this: 
-- has_duration_to_prepare = `=this.dv_has_duration_to_prepare`  
+- #has_/duration_to_prepare = `=this.dv_has_duration_to_prepare`  
 - has_duration_to_prepare = `=this.dv_has_duration_to_prepare`  with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
 
 The length of time it takes to prepare the items to be used in instructions or a direction, in [ISO 8601 duration format](http://en.wikipedia.org/wiki/ISO_8601).

@@ -62,7 +62,7 @@ This is equivalent to the Wikidata Property coordinate_location,
 but different from the Wikidata Property location, which specifies containing, contained or nearby Entities. 
 
 Use it like this: 
-- has_location_geo = `=this.dv_has_location_geo`  
+- #has_/location_geo = `=this.dv_has_location_geo`  
 - has_location_geo = `=this.dv_has_location_geo`  
 
 The geo coordinates of the place.

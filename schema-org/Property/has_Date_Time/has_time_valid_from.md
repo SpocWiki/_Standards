@@ -54,7 +54,7 @@ dv_is_same_as:
 Predicate to describe the date of Demand, LocationFeatureSpecification, MonetaryAmount, Offer, OpeningHoursSpecification, Permit, PriceSpecification.
 
 Use it like this: 
-- has_time_valid_from = `=this.dv_has_time_valid_from`  
+- #has_/time_valid_from = `=this.dv_has_time_valid_from`  
 - has_time_valid_from = `=this.dv_has_time_valid_from`  
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 

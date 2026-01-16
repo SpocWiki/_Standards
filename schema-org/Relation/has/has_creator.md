@@ -49,9 +49,7 @@ but as with its Sub-Relation [[has_parent]] which is N : 2,
 it can actually describe any Cardinality e.g. for scientific Papers. 
 
 is_definin
-[[has_defined_term|defined_term]]
-
-
+[[[[has_delivery/has_defined_term|defined_term]]
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_creator|has_creator]] 

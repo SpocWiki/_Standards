@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_screenshot = `=this.dv_has_screenshot`  
+- #has_/screenshot = `=this.dv_has_screenshot`  
 - has_screenshot = `=this.dv_has_screenshot`  
 
 A link to a screenshot image of the app.

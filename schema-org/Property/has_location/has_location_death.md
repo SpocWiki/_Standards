@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the geo of Person.
 
 Use it like this: 
-- has_location_death = `=this.dv_has_location_death`  
+- #has_/location_death = `=this.dv_has_location_death`  
 - has_location_death = `=this.dv_has_location_death`  
 
 The place where the person died.

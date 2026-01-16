@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Text of MediaObject.
 
 Use it like this: 
-- has_text_of_bitrate = `=this.dv_has_text_of_bitrate`  
+- #has_/text_of_bitrate = `=this.dv_has_text_of_bitrate`  
 - has_text_of_bitrate = `=this.dv_has_text_of_bitrate`  
 
 The bitrate of the media object.

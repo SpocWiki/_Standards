@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Number of ExercisePlan.
 
 Use it like this: 
-- has_number_of_repetitions = `=this.dv_has_number_of_repetitions`  
+- #has_/number_of_repetitions = `=this.dv_has_number_of_repetitions`  
 - has_number_of_repetitions = `=this.dv_has_number_of_repetitions`  
 
 Number of times one should repeat the activity.

@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of Recipe.
 
 Use it like this: 
-- has_text_of_cooking_method = `=this.dv_has_text_of_cooking_method`  
+- #has_/text_of_cooking_method = `=this.dv_has_text_of_cooking_method`  
 - has_text_of_cooking_method = `=this.dv_has_text_of_cooking_method`  
 
 The method of cooking, such as Frying, Steaming, ...

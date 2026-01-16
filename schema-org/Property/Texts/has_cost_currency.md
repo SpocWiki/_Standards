@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of DrugCost.
 
 Use it like this: 
-- has_text_of_cost_currency = `=this.dv_has_text_of_cost_currency`  
+- #has_/text_of_cost_currency = `=this.dv_has_text_of_cost_currency`  
 - has_text_of_cost_currency = `=this.dv_has_text_of_cost_currency`  
 
 The currency (in 3-letter) of the drug cost. See: http://en.wikipedia.org/wiki/ISO_4217.

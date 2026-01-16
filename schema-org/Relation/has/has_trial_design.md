@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_trial_design = `=this.dv_has_trial_design`  
+- #has_/trial_design = `=this.dv_has_trial_design`  
 - has_trial_design = `=this.dv_has_trial_design`  
 
 Specifics about the trial design (enumerated).

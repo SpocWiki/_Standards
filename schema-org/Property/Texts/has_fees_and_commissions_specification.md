@@ -61,7 +61,7 @@ dv_is_same_as:
 Predicate to describe the Text of FinancialProduct, FinancialService.
 
 Use it like this: 
-- has_text_of_fees_and_commissions_specification = `=this.dv_has_text_of_fees_and_commissions_specification`  
+- #has_/text_of_fees_and_commissions_specification = `=this.dv_has_text_of_fees_and_commissions_specification`  
 - has_text_of_fees_and_commissions_specification = `=this.dv_has_text_of_fees_and_commissions_specification`  
 
 Description of fees, commissions, and other terms applied either to a class of financial product, or by a financial service organization.

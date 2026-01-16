@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_model = `=this.dv_has_model`  
+- #has_/model = `=this.dv_has_model`  
 - has_model = `=this.dv_has_model`  
 
 The model of the product. 

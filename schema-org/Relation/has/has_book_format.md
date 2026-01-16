@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_book_format = `=this.dv_has_book_format`  
+- #has_/book_format = `=this.dv_has_book_format`  
 - has_book_format = `=this.dv_has_book_format`  
 
 The format of the book.

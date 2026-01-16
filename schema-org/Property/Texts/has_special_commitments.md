@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of JobPosting.
 
 Use it like this: 
-- has_text_of_special_commitments = `=this.dv_has_text_of_special_commitments`  
+- #has_/text_of_special_commitments = `=this.dv_has_text_of_special_commitments`  
 - has_text_of_special_commitments = `=this.dv_has_text_of_special_commitments`  
 
 Any special commitments associated with this job posting. Valid entries include VeteranCommit, MilitarySpouseCommit, etc.

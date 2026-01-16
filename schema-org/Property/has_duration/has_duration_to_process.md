@@ -54,7 +54,7 @@ dv_is_same_as:
 Predicate to describe the Duration of ServiceChannel.
 
 Use it like this: 
-- has_duration_to_process = `=this.dv_has_duration_to_process`  
+- #has_/duration_to_process = `=this.dv_has_duration_to_process`  
 - has_duration_to_process = `=this.dv_has_duration_to_process`  with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
 
 Estimated processing time for the service using this channel.

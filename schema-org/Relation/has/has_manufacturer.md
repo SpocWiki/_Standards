@@ -54,7 +54,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_manufacturer = `=this.dv_has_manufacturer`  
+- #has_/manufacturer = `=this.dv_has_manufacturer`  
 - has_manufacturer = `=this.dv_has_manufacturer`  
 
 The manufacturer of the product.

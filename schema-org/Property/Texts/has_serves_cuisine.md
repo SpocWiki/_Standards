@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of FoodEstablishment.
 
 Use it like this: 
-- has_text_of_serves_cuisine = `=this.dv_has_text_of_serves_cuisine`  
+- #has_/text_of_serves_cuisine = `=this.dv_has_text_of_serves_cuisine`  
 - has_text_of_serves_cuisine = `=this.dv_has_text_of_serves_cuisine`  
 
 The cuisine of the restaurant.

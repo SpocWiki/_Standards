@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of SoftwareApplication.
 
 Use it like this: 
-- has_text_of_operating_system = `=this.dv_has_text_of_operating_system`  
+- #has_/text_of_operating_system = `=this.dv_has_text_of_operating_system`  
 - has_text_of_operating_system = `=this.dv_has_text_of_operating_system`  
 
 Operating systems supported (Windows 7, OS X 10.6, Android 1.6).

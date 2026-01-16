@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_contact_option = `=this.dv_has_contact_option`  
+- #has_/contact_option = `=this.dv_has_contact_option`  
 - has_contact_option = `=this.dv_has_contact_option`  
 
 An option available on this contact point (e.g. a toll-free number or support for hearing-impaired callers).

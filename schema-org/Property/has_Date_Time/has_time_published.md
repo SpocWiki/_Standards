@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the date of CreativeWork.
 
 Use it like this: 
-- has_time_published = `=this.dv_has_time_published`  
+- #has_/time_published = `=this.dv_has_time_published`  
 - has_time_published = `=this.dv_has_time_published`  
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 

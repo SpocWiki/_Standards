@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_seating_type = `=this.dv_has_seating_type`  
+- #has_/seating_type = `=this.dv_has_seating_type`  
 - has_seating_type = `=this.dv_has_seating_type`  
 
 The type/class of the seat.

@@ -56,7 +56,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_type_of_bed = `=this.dv_has_type_of_bed`  
+- #has_/type_of_bed = `=this.dv_has_type_of_bed`  
 - has_type_of_bed = `=this.dv_has_type_of_bed`  
 
 The type of bed to which the BedDetail refers, i.e. the type of bed available in the quantity indicated by quantity.

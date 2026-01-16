@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Number of FoodEstablishmentReservation, TaxiReservation.
 
 Use it like this: 
-- has_number_of_party_members = `=this.dv_has_number_of_party_members`  
+- #has_/number_of_party_members = `=this.dv_has_number_of_party_members`  
 - has_number_of_party_members = `=this.dv_has_number_of_party_members`  
 
 Number of people the reservation should accommodate.

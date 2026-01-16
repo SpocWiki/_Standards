@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Number of RadioSeries, TVSeries, VideoGameSeries.
 
 Use it like this: 
-- has_number_of_seasons = `=this.dv_has_number_of_seasons`  
+- #has_/number_of_seasons = `=this.dv_has_number_of_seasons`  
 - has_number_of_seasons = `=this.dv_has_number_of_seasons`  
 
 The number of seasons in this series.

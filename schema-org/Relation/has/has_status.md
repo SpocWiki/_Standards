@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_status = `=this.dv_has_status`  
+- #has_/status = `=this.dv_has_status`  
 - has_status = `=this.dv_has_status`  
 
 The status of the study (enumerated).

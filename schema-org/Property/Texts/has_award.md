@@ -62,7 +62,7 @@ dv_is_same_as:
 Predicate to describe the Text of CreativeWork, Organization, Person, Product, Service.
 
 Use it like this: 
-- has_text_of_award = `=this.dv_has_text_of_award`  
+- #has_/text_of_award = `=this.dv_has_text_of_award`  
 - has_text_of_award = `=this.dv_has_text_of_award`  
 
 Description of an award won by or for this item.

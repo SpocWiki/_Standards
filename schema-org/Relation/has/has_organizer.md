@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_organizer = `=this.dv_has_organizer`  
+- #has_/organizer = `=this.dv_has_organizer`  
 - has_organizer = `=this.dv_has_organizer`  
 
 An organizer of an Event.

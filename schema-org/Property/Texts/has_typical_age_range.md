@@ -60,7 +60,7 @@ dv_is_same_as:
 Predicate to describe the Text of CreativeWork, Event.
 
 Use it like this: 
-- has_text_of_typical_age_range = `=this.dv_has_text_of_typical_age_range`  
+- #has_/text_of_typical_age_range = `=this.dv_has_text_of_typical_age_range`  
 - has_text_of_typical_age_range = `=this.dv_has_text_of_typical_age_range`  
 
 The typical expected age range, e.g. "7-9", "11-".

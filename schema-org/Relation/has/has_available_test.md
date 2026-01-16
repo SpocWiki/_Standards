@@ -53,7 +53,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_available_test = `=this.dv_has_available_test`  
+- #has_/available_test = `=this.dv_has_available_test`  
 - has_available_test = `=this.dv_has_available_test`  
 
 A diagnostic test or procedure offered by this lab.

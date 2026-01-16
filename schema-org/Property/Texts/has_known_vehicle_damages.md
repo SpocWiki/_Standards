@@ -60,7 +60,7 @@ dv_is_same_as:
 Predicate to describe the Text of Vehicle.
 
 Use it like this: 
-- has_text_of_known_vehicle_damages = `=this.dv_has_text_of_known_vehicle_damages`  
+- #has_/text_of_known_vehicle_damages = `=this.dv_has_text_of_known_vehicle_damages`  
 - has_text_of_known_vehicle_damages = `=this.dv_has_text_of_known_vehicle_damages`  
 
 A textual description of known damages, both repaired and unrepaired.

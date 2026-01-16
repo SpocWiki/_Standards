@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_vehicle_transmission = `=this.dv_has_vehicle_transmission`  
+- #has_/vehicle_transmission = `=this.dv_has_vehicle_transmission`  
 - has_vehicle_transmission = `=this.dv_has_vehicle_transmission`  
 
 The type of component used for transmitting the power from a rotating power source to the wheels or other relevant component(s) ("gearbox" for cars).

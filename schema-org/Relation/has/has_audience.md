@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_audience = `=this.dv_has_audience`  
+- #has_/audience = `=this.dv_has_audience`  
 - has_audience = `=this.dv_has_audience`  
 
 An intended audience, i.e. a group for whom something was created.

@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Number of BusinessAudience, Organization.
 
 Use it like this: 
-- has_number_of_employees = `=this.dv_has_number_of_employees`  
+- #has_/number_of_employees = `=this.dv_has_number_of_employees`  
 - has_number_of_employees = `=this.dv_has_number_of_employees`  
 
 The number of employees in an organization, e.g. business.

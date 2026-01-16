@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Text of BusTrip.
 
 Use it like this: 
-- has_id_of_bus = `=this.dv_has_id_of_bus`  
+- #has_/id_of_bus = `=this.dv_has_id_of_bus`  
 - has_id_of_bus = `=this.dv_has_id_of_bus`  
 
 The unique identifier for the bus.

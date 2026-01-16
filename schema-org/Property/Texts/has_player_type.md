@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of MediaObject.
 
 Use it like this: 
-- has_text_of_player_type = `=this.dv_has_text_of_player_type`  
+- #has_/text_of_player_type = `=this.dv_has_text_of_player_type`  
 - has_text_of_player_type = `=this.dv_has_text_of_player_type`  
 
 Player type required&amp;#x2014;for example, Flash or Silverlight.

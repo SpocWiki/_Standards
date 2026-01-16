@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of Joint.
 
 Use it like this: 
-- has_text_of_biomechnical_class = `=this.dv_has_text_of_biomechnical_class`  
+- #has_/text_of_biomechnical_class = `=this.dv_has_text_of_biomechnical_class`  
 - has_text_of_biomechnical_class = `=this.dv_has_text_of_biomechnical_class`  
 
 The biomechanical properties of the bone.

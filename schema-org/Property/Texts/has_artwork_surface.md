@@ -60,7 +60,7 @@ dv_is_same_as:
 Predicate to describe the Text of VisualArtwork.
 
 Use it like this: 
-- has_text_of_artwork_surface = `=this.dv_has_text_of_artwork_surface`  
+- #has_/text_of_artwork_surface = `=this.dv_has_text_of_artwork_surface`  
 - has_text_of_artwork_surface = `=this.dv_has_text_of_artwork_surface`  
 
 The supporting materials for the artwork, e.g. Canvas, Paper, Wood, Board, etc.

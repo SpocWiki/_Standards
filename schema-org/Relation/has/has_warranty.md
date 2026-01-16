@@ -52,7 +52,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_warranty = `=this.dv_has_warranty`  
+- #has_/warranty = `=this.dv_has_warranty`  
 - has_warranty = `=this.dv_has_warranty`  
 
 The warranty promise(s) included in the offer.

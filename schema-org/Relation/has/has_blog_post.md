@@ -56,7 +56,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_blog_post = `=this.dv_has_blog_post`  
+- #has_/blog_post = `=this.dv_has_blog_post`  
 - has_blog_post = `=this.dv_has_blog_post`  
 
 A posting that is part of this blog.

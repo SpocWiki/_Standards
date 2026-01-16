@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_nerve = `=this.dv_has_nerve`  
+- #has_/nerve = `=this.dv_has_nerve`  
 - has_nerve = `=this.dv_has_nerve`  
 
 The underlying innervation associated with the muscle.

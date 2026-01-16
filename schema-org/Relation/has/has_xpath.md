@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_xpath = `=this.dv_has_xpath`  
+- #has_/xpath = `=this.dv_has_xpath`  
 - has_xpath = `=this.dv_has_xpath`  
 
 An XPath, e.g. of a [[SpeakableSpecification]] or [[WebPageElement]]. In the latter case, multiple matches within a page can constitute a single conceptual "Web page element".

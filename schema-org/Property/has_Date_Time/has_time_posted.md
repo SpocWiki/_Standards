@@ -54,7 +54,7 @@ dv_is_same_as:
 Predicate to describe the date of CDCPMDRecord, JobPosting, RealEstateListing, SpecialAnnouncement.
 
 Use it like this: 
-- has_time_posted = `=this.dv_has_time_posted`  
+- #has_/time_posted = `=this.dv_has_time_posted`  
 - has_time_posted = `=this.dv_has_time_posted`  
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 

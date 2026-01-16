@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Meta-Type Text of EntryPoint.
 
 Use it like this: 
-- has_text_of_content_type = `=this.dv_has_text_of_content_type`  
+- #has_/text_of_content_type = `=this.dv_has_text_of_content_type`  
 - has_text_of_content_type = `=this.dv_has_text_of_content_type`  
 
 The supported content type(s) for an EntryPoint response.

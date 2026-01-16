@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of WebApplication.
 
 Use it like this: 
-- has_text_of_browser_requirements = `=this.dv_has_text_of_browser_requirements`  
+- #has_/text_of_browser_requirements = `=this.dv_has_text_of_browser_requirements`  
 - has_text_of_browser_requirements = `=this.dv_has_text_of_browser_requirements`  
 
 Specifies browser requirements in human-readable text. For example, "requires HTML5 support".

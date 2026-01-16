@@ -53,7 +53,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_available_service = `=this.dv_has_available_service`  
+- #has_/available_service = `=this.dv_has_available_service`  
 - has_available_service = `=this.dv_has_available_service`  
 
 A medical service available from this provider.

@@ -57,7 +57,7 @@ Predicate to describe the Duration of Accommodation, Offer, RealEstateListing.
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- has_duration_of_lease = `=this.dv_has_duration_of_lease`  
+- #has_/duration_of_lease = `=this.dv_has_duration_of_lease`  
 - has_duration_of_lease = `=this.dv_has_duration_of_lease`  with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
 
 Length of the lease for some [[../../../Earth/Geography/Place/Accommodation]], either particular to some [[../../../Society/Agent/Community/Organization/Business/Offer]] or in some cases intrinsic to the property.

@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_menu = `=this.dv_has_menu`  
+- #has_/menu = `=this.dv_has_menu`  
 - has_menu = `=this.dv_has_menu`  
 
 Either the actual menu as a structured representation, as text, or a URL of the menu.

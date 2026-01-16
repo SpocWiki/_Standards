@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_publication = `=this.dv_has_publication`  
+- #has_/publication = `=this.dv_has_publication`  
 - has_publication = `=this.dv_has_publication`  
 
 A publication event associated with the item.

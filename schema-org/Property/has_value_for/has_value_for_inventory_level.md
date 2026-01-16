@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of Demand, Offer, SomeProducts.
 
 Use it like this: 
-- has_value_for_inventory_level = `=this.dv_has_value_for_inventory_level`  
+- #has_/value_for_inventory_level = `=this.dv_has_value_for_inventory_level`  
 - has_value_for_inventory_level = `=this.dv_has_value_for_inventory_level`  
 
 The current approximate inventory level for the item or items.

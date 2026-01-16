@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_cheat_code = `=this.dv_has_cheat_code`  
+- #has_/cheat_code = `=this.dv_has_cheat_code`  
 - has_cheat_code = `=this.dv_has_cheat_code`  
 
 Cheat codes to the game.

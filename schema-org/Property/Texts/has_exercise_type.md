@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of ExerciseAction, ExercisePlan.
 
 Use it like this: 
-- has_text_of_exercise_type = `=this.dv_has_text_of_exercise_type`  
+- #has_/text_of_exercise_type = `=this.dv_has_text_of_exercise_type`  
 - has_text_of_exercise_type = `=this.dv_has_text_of_exercise_type`  
 
 Type(s) of exercise or activity, such as strength training, flexibility training, aerobics, cardiac rehabilitation, etc.

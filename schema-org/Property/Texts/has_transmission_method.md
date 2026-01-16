@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of InfectiousDisease.
 
 Use it like this: 
-- has_text_of_transmission_method = `=this.dv_has_text_of_transmission_method`  
+- #has_/text_of_transmission_method = `=this.dv_has_text_of_transmission_method`  
 - has_text_of_transmission_method = `=this.dv_has_text_of_transmission_method`  
 
 How the disease spreads, either as a route or vector, for example "direct contact", "Aedes aegypti", etc.

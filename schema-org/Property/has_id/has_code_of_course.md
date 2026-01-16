@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Text of Course.
 
 Use it like this: 
-- has_code_of_course = `=this.dv_has_code_of_course`  
+- #has_/code_of_course = `=this.dv_has_code_of_course`  
 - has_code_of_course = `=this.dv_has_code_of_course`  
 
 The identifier for the [[../../../Society/Communication/Media/Creative_Work/Course]] used by the course [[provider]] (e.g. CS101 or 6.001).

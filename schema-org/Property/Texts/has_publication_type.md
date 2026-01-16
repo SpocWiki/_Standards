@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of MedicalScholarlyArticle.
 
 Use it like this: 
-- has_text_of_publication_type = `=this.dv_has_text_of_publication_type`  
+- #has_/text_of_publication_type = `=this.dv_has_text_of_publication_type`  
 - has_text_of_publication_type = `=this.dv_has_text_of_publication_type`  
 
 The type of the medical article, taken from the US NLM MeSH publication type catalog. See also [MeSH documentation](http://www.nlm.nih.gov/mesh/pubtypes.html).

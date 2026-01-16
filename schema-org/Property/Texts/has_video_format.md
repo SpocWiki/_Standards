@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of BroadcastEvent, BroadcastService, ScreeningEvent.
 
 Use it like this: 
-- has_text_of_video_format = `=this.dv_has_text_of_video_format`  
+- #has_/text_of_video_format = `=this.dv_has_text_of_video_format`  
 - has_text_of_video_format = `=this.dv_has_text_of_video_format`  
 
 The type of screening or video broadcast used (e.g. IMAX, 3D, SD, HD, etc.).

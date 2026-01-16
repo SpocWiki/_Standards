@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of BusinessAudience.
 
 Use it like this: 
-- has_value_for_yearly_revenue = `=this.dv_has_value_for_yearly_revenue`  
+- #has_/value_for_yearly_revenue = `=this.dv_has_value_for_yearly_revenue`  
 - has_value_for_yearly_revenue = `=this.dv_has_value_for_yearly_revenue`  
 
 The size of the business in annual revenue.

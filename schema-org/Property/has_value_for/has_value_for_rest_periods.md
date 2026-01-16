@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of ExercisePlan.
 
 Use it like this: 
-- has_value_for_rest_periods = `=this.dv_has_value_for_rest_periods`  
+- #has_/value_for_rest_periods = `=this.dv_has_value_for_rest_periods`  
 - has_value_for_rest_periods = `=this.dv_has_value_for_rest_periods`  
 
 How often one should break from the activity.

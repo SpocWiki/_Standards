@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_interacting_drug = `=this.dv_has_interacting_drug`  
+- #has_/interacting_drug = `=this.dv_has_interacting_drug`  
 - has_interacting_drug = `=this.dv_has_interacting_drug`  
 
 Another drug that is known to interact with this drug in a way that impacts the effect of this drug or causes a risk to the patient. Note: disease interactions are typically captured as contraindications.

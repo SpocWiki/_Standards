@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Text of GeoShape.
 
 Use it like this: 
-- has_text_of_line = `=this.dv_has_text_of_line`  
+- #has_/text_of_line = `=this.dv_has_text_of_line`  
 - has_text_of_line = `=this.dv_has_text_of_line`  
 
 A line is a point-to-point path consisting of two or more points. A line is expressed as a series of two or more point objects separated by space.

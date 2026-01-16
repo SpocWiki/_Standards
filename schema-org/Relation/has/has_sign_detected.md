@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_sign_detected = `=this.dv_has_sign_detected`  
+- #has_/sign_detected = `=this.dv_has_sign_detected`  
 - has_sign_detected = `=this.dv_has_sign_detected`  
 
 A sign detected by the test.

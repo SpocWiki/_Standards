@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to specify the Url of ServiceChannel.
 
 Use it like this: 
-- has_url_for_service = `=this.dv_has_url_for_service`  
+- #has_/url_for_service = `=this.dv_has_url_for_service`  
 - has_url_for_service = `=this.dv_has_url_for_service`  
 
 The website to access the service.

@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of PriceSpecification.
 
 Use it like this: 
-- has_value_for_max_price = `=this.dv_has_value_for_max_price`  
+- #has_/value_for_max_price = `=this.dv_has_value_for_max_price`  
 - has_value_for_max_price = `=this.dv_has_value_for_max_price`  
 
 The highest price if the price is a range.

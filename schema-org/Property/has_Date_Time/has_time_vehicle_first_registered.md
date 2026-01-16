@@ -54,7 +54,7 @@ dv_is_same_as:
 Predicate to describe the date of Vehicle.
 
 Use it like this: 
-- has_time_vehicle_first_registered = `=this.dv_has_time_vehicle_first_registered`  
+- #has_/time_vehicle_first_registered = `=this.dv_has_time_vehicle_first_registered`  
 - has_time_vehicle_first_registered = `=this.dv_has_time_vehicle_first_registered`  
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 

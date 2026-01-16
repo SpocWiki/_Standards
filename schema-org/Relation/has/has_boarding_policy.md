@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_boarding_policy = `=this.dv_has_boarding_policy`  
+- #has_/boarding_policy = `=this.dv_has_boarding_policy`  
 - has_boarding_policy = `=this.dv_has_boarding_policy`  
 
 The type of boarding policy used by the airline (e.g. zone-based or group-based).

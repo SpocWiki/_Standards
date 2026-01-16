@@ -57,7 +57,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_access_mode_sufficient = `=this.dv_has_access_mode_sufficient`  
+- #has_/access_mode_sufficient = `=this.dv_has_access_mode_sufficient`  
 - has_access_mode_sufficient = `=this.dv_has_access_mode_sufficient`  
 
 A list of single or combined [access_modes](../../Texts/has_access_mode.md) 

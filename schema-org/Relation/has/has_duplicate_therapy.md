@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_duplicate_therapy = `=this.dv_has_duplicate_therapy`  
+- #has_/duplicate_therapy = `=this.dv_has_duplicate_therapy`  
 - has_duplicate_therapy = `=this.dv_has_duplicate_therapy`  
 
 A therapy that duplicates or overlaps this one.

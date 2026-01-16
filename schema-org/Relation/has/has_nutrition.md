@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_nutrition = `=this.dv_has_nutrition`  
+- #has_/nutrition = `=this.dv_has_nutrition`  
 - has_nutrition = `=this.dv_has_nutrition`  
 
 Nutrition information about the recipe or menu item.

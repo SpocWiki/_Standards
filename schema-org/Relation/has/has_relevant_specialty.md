@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_relevant_specialty = `=this.dv_has_relevant_specialty`  
+- #has_/relevant_specialty = `=this.dv_has_relevant_specialty`  
 - has_relevant_specialty = `=this.dv_has_relevant_specialty`  
 
 If applicable, a medical specialty in which this entity is relevant.

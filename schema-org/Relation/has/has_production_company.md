@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_production_company = `=this.dv_has_production_company`  
+- #has_/production_company = `=this.dv_has_production_company`  
 - has_production_company = `=this.dv_has_production_company`  
 
 The production company or studio responsible for the item, e.g. series, video game, episode etc.

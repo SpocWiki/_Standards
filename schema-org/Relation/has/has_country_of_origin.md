@@ -59,7 +59,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_country_of_origin = `=this.dv_has_country_of_origin`  
+- #has_/country_of_origin = `=this.dv_has_country_of_origin`  
 - has_country_of_origin = `=this.dv_has_country_of_origin`  
 
 The country of origin of something, including products as well as creative  works such as movie and TV content.

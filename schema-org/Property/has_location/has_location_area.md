@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the geo of BroadcastService.
 
 Use it like this: 
-- has_location_area = `=this.dv_has_location_area`  
+- #has_/location_area = `=this.dv_has_location_area`  
 - has_location_area = `=this.dv_has_location_area`  
 
 The area within which users can expect to reach the broadcast service.

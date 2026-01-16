@@ -68,7 +68,7 @@ dv_is_same_as:
 # [[has_event]] 
 
 Use it like this: 
-- has_event = `=this.dv_has_event`  
+- #has_/event = `=this.dv_has_event`  
 - has_event = `=this.dv_has_event`  
 
 Upcoming or past [[../../Class/is_a_/event|Event]] associated with this [[../../../Earth/Geography/Place|Place]], [[../../../Society/Agent/Community/Organization|Organization]], or [[../../Class/is_a_/action|Action]].

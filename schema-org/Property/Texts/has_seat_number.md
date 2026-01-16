@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of Seat.
 
 Use it like this: 
-- has_text_of_seat_number = `=this.dv_has_text_of_seat_number`  
+- #has_/text_of_seat_number = `=this.dv_has_text_of_seat_number`  
 - has_text_of_seat_number = `=this.dv_has_text_of_seat_number`  
 
 The location of the reserved seat (e.g., 27).

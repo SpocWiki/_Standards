@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of EmployeeRole, JobPosting.
 
 Use it like this: 
-- has_text_of_salary_currency = `=this.dv_has_text_of_salary_currency`  
+- #has_/text_of_salary_currency = `=this.dv_has_text_of_salary_currency`  
 - has_text_of_salary_currency = `=this.dv_has_text_of_salary_currency`  
 
 The currency (coded using [ISO 4217](http://en.wikipedia.org/wiki/ISO_4217)) used for the main salary information in this job posting or for this employee.

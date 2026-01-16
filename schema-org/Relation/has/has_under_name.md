@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_under_name = `=this.dv_has_under_name`  
+- #has_/under_name = `=this.dv_has_under_name`  
 - has_under_name = `=this.dv_has_under_name`  
 
 The person or organization the reservation or ticket is for.

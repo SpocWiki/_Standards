@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of Rating.
 
 Use it like this: 
-- has_value_for_best_rating = `=this.dv_has_value_for_best_rating`  
+- #has_/value_for_best_rating = `=this.dv_has_value_for_best_rating`  
 - has_value_for_best_rating = `=this.dv_has_value_for_best_rating`  
 
 The highest value allowed in this rating system. If bestRating is omitted, 5 is assumed.

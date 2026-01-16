@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_sub_test = `=this.dv_has_sub_test`  
+- #has_/sub_test = `=this.dv_has_sub_test`  
 - has_sub_test = `=this.dv_has_sub_test`  
 
 A component test of the panel.

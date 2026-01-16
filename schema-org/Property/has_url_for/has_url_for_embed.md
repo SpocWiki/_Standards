@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to specify the Url of MediaObject.
 
 Use it like this: 
-- has_url_for_embed = `=this.dv_has_url_for_embed`  
+- #has_/url_for_embed = `=this.dv_has_url_for_embed`  
 - has_url_for_embed = `=this.dv_has_url_for_embed`  
 
 A URL pointing to a player for a specific video. In general, this is the information in the <code>src</code> element of an <code>embed</code> tag and should not be the same as the content of the <code>loc</code> tag.

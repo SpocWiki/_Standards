@@ -54,7 +54,7 @@ dv_is_same_as:
 Predicate to describe the date of Organization.
 
 Use it like this: 
-- has_time_of_dissolution = `=this.dv_has_time_of_dissolution`  
+- #has_/time_of_dissolution = `=this.dv_has_time_of_dissolution`  
 - has_time_of_dissolution = `=this.dv_has_time_of_dissolution`  
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 

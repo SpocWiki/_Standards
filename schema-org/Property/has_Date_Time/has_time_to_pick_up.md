@@ -54,7 +54,7 @@ dv_is_same_as:
 Predicate to describe the time of RentalCarReservation, TaxiReservation.
 
 Use it like this: 
-- has_time_to_pick_up = `=this.dv_has_time_to_pick_up`  
+- #has_/time_to_pick_up = `=this.dv_has_time_to_pick_up`  
 - has_time_to_pick_up = `=this.dv_has_time_to_pick_up`  
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 

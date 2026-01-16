@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Text of TechArticle.
 
 Use it like this: 
-- has_text_of_dependencies = `=this.dv_has_text_of_dependencies`  
+- #has_/text_of_dependencies = `=this.dv_has_text_of_dependencies`  
 - has_text_of_dependencies = `=this.dv_has_text_of_dependencies`  
 
 Prerequisites needed to fulfill steps in article.

@@ -56,7 +56,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_day_of_week = `=this.dv_has_day_of_week`  
+- #has_/day_of_week = `=this.dv_has_day_of_week`  
 - has_day_of_week = `=this.dv_has_day_of_week`  
 
 The day of the week for which these opening hours are valid.

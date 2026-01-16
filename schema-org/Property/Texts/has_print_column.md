@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of NewsArticle.
 
 Use it like this: 
-- has_text_of_print_column = `=this.dv_has_text_of_print_column`  
+- #has_/text_of_print_column = `=this.dv_has_text_of_print_column`  
 - has_text_of_print_column = `=this.dv_has_text_of_print_column`  
 
 The number of the column in which the NewsArticle appears in the print edition.

@@ -63,7 +63,7 @@ The type of room can be put in the [[../Texts/has_unit_text|unitText]] property 
 
 
 Use it like this: 
-- has_number_of_rooms = `=this.dv_has_number_of_rooms`  
+- #has_/number_of_rooms = `=this.dv_has_number_of_rooms`  
 - has_number_of_rooms = `=this.dv_has_number_of_rooms`  
 
 Predicate describes that: 

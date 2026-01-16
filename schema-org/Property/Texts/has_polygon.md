@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Text of GeoShape.
 
 Use it like this: 
-- has_text_of_polygon = `=this.dv_has_text_of_polygon`  
+- #has_/text_of_polygon = `=this.dv_has_text_of_polygon`  
 - has_text_of_polygon = `=this.dv_has_text_of_polygon`  
 
 A polygon is the area enclosed by a point-to-point path for which the starting and ending points are the same. A polygon is expressed as a series of four or more space delimited points where the first and final points are identical.

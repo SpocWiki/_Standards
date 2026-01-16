@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of FinancialProduct.
 
 Use it like this: 
-- has_value_for_interest_rate = `=this.dv_has_value_for_interest_rate`  
+- #has_/value_for_interest_rate = `=this.dv_has_value_for_interest_rate`  
 - has_value_for_interest_rate = `=this.dv_has_value_for_interest_rate`  
 
 The interest rate, charged or paid, applicable to the financial product. Note: This is different from the calculated annualPercentageRate.

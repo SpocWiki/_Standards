@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Text of educational  AlignmentObject.
 
 Use it like this: 
-- has_name_of_target = `=this.dv_has_name_of_target`  
+- #has_/name_of_target = `=this.dv_has_name_of_target`  
 - has_name_of_target = `=this.dv_has_name_of_target`  
 
 The name of a node in an established educational framework.

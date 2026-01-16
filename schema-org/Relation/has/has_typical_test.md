@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_typical_test = `=this.dv_has_typical_test`  
+- #has_/typical_test = `=this.dv_has_typical_test`  
 - has_typical_test = `=this.dv_has_typical_test`  
 
 A medical test typically performed given this condition.

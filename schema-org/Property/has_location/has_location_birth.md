@@ -60,7 +60,7 @@ dv_is_same_as:
 Predicate to describe the geo of Person.
 
 Use it like this: 
-- has_location_birth = `=this.dv_has_location_birth`  
+- #has_/location_birth = `=this.dv_has_location_birth`  
 - has_location_birth = `=this.dv_has_location_birth`  
 
 The place where the person was born.

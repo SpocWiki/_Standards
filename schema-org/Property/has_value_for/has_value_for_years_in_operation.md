@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of BusinessAudience.
 
 Use it like this: 
-- has_value_for_years_in_operation = `=this.dv_has_value_for_years_in_operation`  
+- #has_/value_for_years_in_operation = `=this.dv_has_value_for_years_in_operation`  
 - has_value_for_years_in_operation = `=this.dv_has_value_for_years_in_operation`  
 
 The age of the business.

@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_antagonist = `=this.dv_has_antagonist`  
+- #has_/antagonist = `=this.dv_has_antagonist`  
 - has_antagonist = `=this.dv_has_antagonist`  
 
 The muscle whose action counteracts the specified muscle.

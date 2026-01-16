@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of Vehicle.
 
 Use it like this: 
-- has_value_for_mileage_from_odometer = `=this.dv_has_value_for_mileage_from_odometer`  
+- #has_/value_for_mileage_from_odometer = `=this.dv_has_value_for_mileage_from_odometer`  
 - has_value_for_mileage_from_odometer = `=this.dv_has_value_for_mileage_from_odometer`  
 
 The total distance travelled by the particular vehicle since its initial production, as read from its odometer.

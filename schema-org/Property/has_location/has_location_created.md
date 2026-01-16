@@ -60,7 +60,7 @@ dv_is_same_as:
 Predicate to describe the geo of CreativeWork.
 
 Use it like this: 
-- has_location_created = `=this.dv_has_location_created`  
+- #has_/location_created = `=this.dv_has_location_created`  
 - has_location_created = `=this.dv_has_location_created`  
 
 The location where the CreativeWork was created, which may not be the same as the location depicted in the CreativeWork.

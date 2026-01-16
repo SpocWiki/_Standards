@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Text of Place.
 
 Use it like this: 
-- has_code_of_branch = `=this.dv_has_code_of_branch`  
+- #has_/code_of_branch = `=this.dv_has_code_of_branch`  
 - has_code_of_branch = `=this.dv_has_code_of_branch`  
 
 A short textual code (also called "store code") that uniquely identifies a place of business. The code is typically assigned by the parentOrganization and used in structured URLs.

@@ -57,7 +57,7 @@ Predicate to describe the time of CreativeWork.
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- has_time_of_content_reference = `=this.dv_has_time_of_content_reference`  
+- #has_/time_of_content_reference = `=this.dv_has_time_of_content_reference`  
 - has_time_of_content_reference = `=this.dv_has_time_of_content_reference`  
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 

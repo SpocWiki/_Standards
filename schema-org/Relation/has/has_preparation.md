@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_preparation = `=this.dv_has_preparation`  
+- #has_/preparation = `=this.dv_has_preparation`  
 - has_preparation = `=this.dv_has_preparation`  
 
 Typical preparation that a patient must undergo before having the procedure performed.

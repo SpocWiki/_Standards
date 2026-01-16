@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- has_software_help = `=this.dv_has_software_help`  
+- #has_/software_help = `=this.dv_has_software_help`  
 - has_software_help = `=this.dv_has_software_help`  
 
 Software application help.

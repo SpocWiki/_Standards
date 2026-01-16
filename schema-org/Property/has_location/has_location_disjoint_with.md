@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the geo of GeospatialGeometry, Place.
 
 Use it like this: 
-- has_location_disjoint_with = `=this.dv_has_location_disjoint_with`  
+- #has_/location_disjoint_with = `=this.dv_has_location_disjoint_with`  
 - has_location_disjoint_with = `=this.dv_has_location_disjoint_with`  
 
 Represents spatial relations in which two geometries (or the places they represent) are topologically disjoint: 

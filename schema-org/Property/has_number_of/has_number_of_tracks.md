@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Number of MusicPlaylist.
 
 Use it like this: 
-- has_number_of_tracks = `=this.dv_has_number_of_tracks`  
+- #has_/number_of_tracks = `=this.dv_has_number_of_tracks`  
 - has_number_of_tracks = `=this.dv_has_number_of_tracks`  
 
 The number of tracks in this album or playlist.

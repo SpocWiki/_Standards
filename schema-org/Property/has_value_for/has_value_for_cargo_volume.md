@@ -57,7 +57,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of Vehicle.
 
 Use it like this: 
-- has_value_for_cargo_volume = `=this.dv_has_value_for_cargo_volume`  
+- #has_/value_for_cargo_volume = `=this.dv_has_value_for_cargo_volume`  
 - has_value_for_cargo_volume = `=this.dv_has_value_for_cargo_volume`  
 
 The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.

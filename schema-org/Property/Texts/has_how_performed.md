@@ -59,7 +59,7 @@ dv_is_same_as:
 Predicate to describe the Text of MedicalProcedure.
 
 Use it like this: 
-- has_text_of_how_performed = `=this.dv_has_text_of_how_performed`  
+- #has_/text_of_how_performed = `=this.dv_has_text_of_how_performed`  
 - has_text_of_how_performed = `=this.dv_has_text_of_how_performed`  
 
 How the procedure is performed.
