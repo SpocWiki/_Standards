@@ -27,25 +27,25 @@ tags:
 title: has_drug_class
 type: Predi_Relation
 dv_has_:
-  drug_class: DrugClass
-  domain: Drug
+  drug_class: "[[../../../../bio/Medicine/Drug/Drug_Class|Drug_Class]]"
+  domain: "[[../../../../bio/Medicine/Drug|Drug]]"
   name: has_drug_class
-  range: DrugClass
-dv_has_drug_class: DrugClass
+  range: "[[../../../../bio/Medicine/Drug/Drug_Class|Drug_Class]]"
+dv_has_drug_class: "[[../../../../bio/Medicine/Drug/Drug_Class|Drug_Class]]"
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_drug_class|has_drug_class]]"
+    - "[[has_drug_class|has_drug_class]]"
     - "[[/_public/schema-org/Relation/has/has_drug_class.public|has_drug_class.public]]"
     - "[[/_internal/schema-org/Relation/has/has_drug_class.internal|has_drug_class.internal]]"
     - "[[/_protect/schema-org/Relation/has/has_drug_class.protect|has_drug_class.protect]]"
     - "[[/_private/schema-org/Relation/has/has_drug_class.private|has_drug_class.private]]"
     - "[[/_personal/schema-org/Relation/has/has_drug_class.personal|has_drug_class.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_drug_class.secret|has_drug_class.secret]]"
-dv_has_domain: Drug
+dv_has_domain: "[[../../../../bio/Medicine/Drug|Drug]]"
 dv_has_name: has_drug_class
-dv_has_range: DrugClass
+dv_has_range: "[[../../../../bio/Medicine/Drug/Drug_Class|Drug_Class]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_drug_class|has_drug_class]]"
+  - "[[has_drug_class|has_drug_class]]"
   - "[[/_public/schema-org/Relation/has/has_drug_class.public|has_drug_class.public]]"
   - "[[/_internal/schema-org/Relation/has/has_drug_class.internal|has_drug_class.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_drug_class.protect|has_drug_class.protect]]"
@@ -54,8 +54,10 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_drug_class.secret|has_drug_class.secret]]"
 ---
 
+# [[has_drug_class]] 
+
 Use it like this: 
-- #has_/drug_class = `=this.dv_has_drug_class`  
+- #has_/drug_/class = `=this.dv_has_drug_class`  
 - has_drug_class = `=this.dv_has_drug_class`  
 
 The class of drug this belongs to (e.g., statins).
@@ -63,14 +65,13 @@ The class of drug this belongs to (e.g., statins).
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_drug_class|has_drug_class]] 
+### #is_/same_as :: [[has_drug_class|has_drug_class]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_drug_class.public|has_drug_class.public]] 
 
