@@ -7,7 +7,7 @@ aliases:
 
 #is_/same_as :: [[../../../WikiData/WD~Atheism,7066|WD~Atheism,7066]] 
 #is_/different_from :: [[Nontheism/Antitheism]] 
-#is_/opposite_of :: [[Theism]] 
+#has_/complement :: [[Theism]] 
 
 ## #has_/text_of_/abstract 
 

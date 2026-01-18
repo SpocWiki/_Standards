@@ -12,7 +12,7 @@ Commons_category: Laminar flow
 
 # [[Laminar_Flow]] 
 
-#is_/opposite_of :: [[Turbulence|Turbulence]] 
+#has_/complement :: [[Turbulence|Turbulence]] 
 #is_/same_as :: [[../../../../WikiData/WD~laminar_flow,189452|WD~laminar_flow,189452]]  
 
 ## #has_/text_of_/abstract 

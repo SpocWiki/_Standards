@@ -28,7 +28,7 @@ MeSH_tree_code: G08.686.784.830
 
 # [[Asexual_Reproduction]] 
 
-#is_/opposite_of :: [[Sexual_Reproduction]] 
+#has_/complement :: [[Sexual_Reproduction]] 
 #is_/same_as :: [[../../WikiData/WD~Asexual_reproduction,173432|WD~Asexual_reproduction,173432]] 
 
 ## #has_/text_of_/abstract 

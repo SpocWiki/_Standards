@@ -4,7 +4,7 @@ aliases:
   - Code-completion
 ---
 
-#has_/Pros :: Code-Completion considerably speeds up Programming, 
+#has_/result_/positive :: Code-Completion considerably speeds up Programming, 
 because all eligible Alternatives are presented in a Dropdown-List. 
 
 This is in stark Contrast to Editors of previous IDEs 

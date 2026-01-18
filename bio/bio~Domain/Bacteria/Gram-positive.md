@@ -1,7 +1,7 @@
 
 # [[Gram-positive]] 
 
-#is_/opposite_of :: [[Gram-negative]] 
+#has_/complement :: [[Gram-negative]] 
 
 ## #has_/text_of_/abstract 
 

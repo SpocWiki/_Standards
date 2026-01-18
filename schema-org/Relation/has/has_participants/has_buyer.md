@@ -26,7 +26,7 @@ type: Predi_Relation
 
 # [[has_buyer]] 
 
-#is_/opposite_of :: [[has_seller]]  
+#has_/complement :: [[has_seller]]  
 
 
 Use it like this: 

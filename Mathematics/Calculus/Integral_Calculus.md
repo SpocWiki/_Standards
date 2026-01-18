@@ -25,7 +25,7 @@ Commons_category: Integral calculus
 
 # [[Integral_Calculus]] 
 
-#is_/opposite_of :: [[Differential_Calculus]] 
+#has_/complement :: [[Differential_Calculus]] 
 #is_/same_as :: [[_Standards/WikiData/WD~integral_calculus,150008]] 
 
 ## #has_/text_of_/abstract 

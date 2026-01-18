@@ -16,7 +16,7 @@ Commons_category: Holism
 
 # [[Holism]] 
 
-#is_/opposite_of :: [[Reductionism]]
+#has_/complement :: [[Reductionism]]
 #is_/same_as :: [[_Standards/WikiData/WD~holism,192891]] 
 
 ## #has_/text_of_/abstract 

@@ -21,7 +21,7 @@ Iconclass_notation: 51H2
 
 # [[Universalism]]  
 
-#is_/opposite_of :: [[Relativism]] 
+#has_/complement :: [[Relativism]] 
 #is_/different_from :: [[../Philosophy/Ethics/Universalism]] 
 #is_/same_as :: [[_Standards/WikiData/WD~universality,875797]]  
 

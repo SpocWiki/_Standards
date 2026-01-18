@@ -35,7 +35,7 @@ subreddit: TalesFromRetail
 # [[Retail]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Retail,126793|WD~Retail,126793]] 
-#is_/opposite_of :: [[Wholesale]]   
+#has_/complement :: [[Wholesale]]   
 
 ## #has_/text_of_/abstract 
 

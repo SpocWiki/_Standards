@@ -36,7 +36,7 @@ Commons_category: Floors
 
 # [[Floor]] 
 
-#is_/opposite_of :: [[Ceiling]] 
+#has_/complement :: [[Ceiling]] 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Floor,217164|WD~Floor,217164]] 
 
 ## #has_/text_of_/abstract 

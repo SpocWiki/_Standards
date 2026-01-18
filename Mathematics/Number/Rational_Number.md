@@ -34,7 +34,7 @@ Commons_category: Rational numbers
 
 # [[Rational_Number]] 
 
-#is_/opposite_of :: [[Irrational_Number]]
+#has_/complement :: [[Irrational_Number]]
 #is_/same_as :: [[WD~Rational_number,1244890]] 
 
 ## #has_/text_of_/abstract 

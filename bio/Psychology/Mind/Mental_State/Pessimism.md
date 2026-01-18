@@ -30,7 +30,7 @@ Commons_category: Pessimism
 
 # [[Pessimism]] 
 
-#is_/opposite_of :: [[Optimism]]  
+#has_/complement :: [[Optimism]]  
 #is_/same_as :: [[WD~Pessimism,484954]] 
 
 ## #has_/text_of_/abstract 

@@ -20,7 +20,7 @@ Commons_category: Irrational numbers
 
 # [[Irrational_Number]] 
 
-#is_/opposite_of :: [[Rational_Number]] 
+#has_/complement :: [[Rational_Number]] 
 #is_/same_as :: [[WD~Irrational_number,607728]] 
 
 ## #has_/text_of_/abstract 

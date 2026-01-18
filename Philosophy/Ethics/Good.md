@@ -1,7 +1,7 @@
 
 # [[Good]] 
 
-#is_/opposite_of :: [[Evil]] 
+#has_/complement :: [[Evil]] 
 #is_/same_as :: [[../../WikiData/WD~Good,15290|WD~Good,15290]] 
 ## #has_/text_of_/abstract 
 

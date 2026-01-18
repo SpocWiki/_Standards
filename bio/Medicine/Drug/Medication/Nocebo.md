@@ -12,7 +12,7 @@ Commons_category: Nocebos
 
 # [[Nocebo]] 
 
-#is_/opposite_of :: [[Placebo]] 
+#has_/complement :: [[Placebo]] 
 #is_/same_as :: [[WD~Nocebo,1332954]]
 
 ## #has_/text_of_/abstract 

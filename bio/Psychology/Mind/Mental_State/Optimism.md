@@ -31,7 +31,7 @@ MeSH_tree_code: F01.100.787
 
 # [[Optimism]] 
 
-#is_/opposite_of :: [[Pessimism]] 
+#has_/complement :: [[Pessimism]] 
 #is_/same_as :: [[WD~Optimism,485446]] 
 
 ## #has_/text_of_/abstract 

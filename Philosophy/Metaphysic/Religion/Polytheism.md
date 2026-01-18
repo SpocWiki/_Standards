@@ -17,7 +17,7 @@ subreddit: polytheism
 
 # [[Polytheism]] 
 
-#is_/opposite_of :: [[Monotheism|Monotheism]] 
+#has_/complement :: [[Monotheism|Monotheism]] 
 #is_/same_as :: [[WD~Polytheism,9163]] 
 
 ## #has_/text_of_/abstract 

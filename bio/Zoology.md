@@ -63,7 +63,7 @@ UMLS_CUI: C0043526
 
 # [[Zoology]] 
 
-#is_/opposite_of :: [[Botany]]
+#has_/complement :: [[Botany]]
 
 #is_/same_as :: [[../WikiData/WD~Zoology,431|WD~Zoology,431]] 
 

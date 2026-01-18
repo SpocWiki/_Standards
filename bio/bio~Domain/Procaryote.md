@@ -6,7 +6,7 @@ aliases:
 
 This is a Super-[[../Taxon~Domain]]. 
 
-#is_/opposite_of :: [[Eukaryote]] 
+#has_/complement :: [[Eukaryote]] 
 #has_/parts :: [[Archaea]] 
 #has_/parts :: [[Bacteria|Bacteria]] 
 

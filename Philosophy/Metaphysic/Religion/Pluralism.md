@@ -15,7 +15,7 @@ instance_of:
 # [[Pluralism]] 
 
 #has_/prev_item :: [[Dualism]] 
-#is_/opposite_of :: [[Monism]] 
+#has_/complement :: [[Monism]] 
 #is_/same_as :: [[_Standards/WikiData/WD~pluralism,879021]] 
 
 ## #has_/text_of_/abstract 

@@ -4,7 +4,7 @@ As useful as it is, it has certain drawbacks:
 
 ## Benefits : 
 
-### #has_/Pros :: minimal Code 
+### #has_/result_/positive :: minimal Code 
 Just referencing the Base Class enables full Polymorphism and Implementation.
 
 ## Liabilities: 

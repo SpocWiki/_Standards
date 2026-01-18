@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Scottish Agricultural Revolution
   - British Agricultural Revolution
   - Second Agricultural Revolution
   - Second_Agricultural_Revolution
@@ -41,17 +42,14 @@ title: British Agricultural Revolution
 type: private_note
 ---
 
-# [[Second_Agricultural_Revolution]] 
+# [[1670-Second_Agricultural_Revolution+1850]] 
 
 #is_/part_of :: [[../../../Knowledge/Economy/Agricultural_Revolution]] 
-#is_/different_from :: [[First_Agricultural_Revolution]]  
+#is_/different_from :: [[-9700-First_Agricultural_Revolution]]  
 
 #has_/time_/started :: 1670-06 
 #has_/time_/started :: 1850-06 
-## British Agricultural Revolution
-(17th–19th century), 
-an unprecedented increase in agricultural productivity in Great Britain 
-(also known as the Second Agricultural Revolution)
+## British and Scottish Agricultural Revolution
 
 ## #has_/text_of_/abstract 
 
@@ -61,16 +59,18 @@ an unprecedented increase in agricultural productivity in Great Britain
 > between the mid-17th and late 19th centuries. 
 > 
 > Agricultural output grew faster than the population over the hundred-year period 
-> ending in 1770, and thereafter productivity remained among the highest in the world. 
-> This increase in the food supply contributed to the rapid growth of population 
-> in England and Wales, from 5.5 million in 1700 to over 9 million by 1801, 
+> ending in 1770, and thereafter productivity remained **among the highest in the world**. 
+> 
+> This increase in the food supply contributed to the 
+> rapid growth of population in England and Wales, 
+> from 5.5 million in 1700 to over 9 million by 1801, 
 > though domestic production gave way increasingly to food imports 
 > in the 19th century as the population more than tripled to over 35 million.
 >
-> Using 1700 as a base year (=100), agricultural output per agricultural worker 
-> in Britain steadily increased from about 50 in 1500, to around 65 in 1550, 
-> to 90 in 1600, to over 100 by 1650, to over 150 by 1750, 
-> rapidly increasing to over 250 by 1850. 
+> Using 1700 as a base year (=100%), agricultural output per agricultural worker 
+> in Britain steadily increased from about 50% in 1500, to around 65% in 1550, 
+> to 90% in 1600, to over 100% by 1650, to over 150% by 1750, 
+> rapidly increasing to over 250% by 1850. 
 > The rise in productivity accelerated the decline of the 
 > agricultural share of the labour force, 
 > adding to the urban workforce on which industrialization depended: 
@@ -101,7 +101,7 @@ an unprecedented increase in agricultural productivity in Great Britain
 
 Crop Yield net of Seed  (bushels/acre) 
 ```dataviewjs
-dv.view("TableByName");
+dv.view("TableByName","British_Agricultural_Revolution.tsv");
 ```
 
 
@@ -124,7 +124,7 @@ dv.view("TableByName");
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Second_Agricultural_Revolution|Second_Agricultural_Revolution]] 
+### #is_/same_as :: [[1670-Second_Agricultural_Revolution+1850|Second_Agricultural_Revolution]] 
 
 ### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Second_Agricultural_Revolution.public|Second_Agricultural_Revolution.public]] 
 

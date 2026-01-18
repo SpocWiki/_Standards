@@ -1,8 +1,8 @@
 
 # [[Theism]] 
 
-#is_/opposite_of :: [[Atheism|Atheism]] 
-#is_/opposite_of :: [[../../../Society/Ideology/Political_Ideology/Humanism|Humanism]]  
+#has_/complement :: [[Atheism|Atheism]] 
+#has_/complement :: [[../../../Society/Ideology/Political_Ideology/Humanism|Humanism]]  
 #is_/different_from :: [[Nontheism/Animism]] 
 #is_/same_as :: [[../../../WikiData/WD~Theism,620805|WD~Theism,620805]]  
 

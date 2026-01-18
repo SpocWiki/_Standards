@@ -42,10 +42,12 @@ MeSH_tree_code: N01.824.245
 # [[Employment]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Employment,656365|WD~Employment,656365]] 
+#has_/complement :: [[Unemployment]] 
 
 ## #has_/text_of_/abstract 
 
 > **Employment** is a relationship between two parties regulating the provision of paid labour services.  
+> 
 > Usually based on a contract, one party, the employer, which might be a corporation, 
 > a not-for-profit organization, a co-operative, or any other entity, 
 > pays the other, the employee, in return for carrying out assigned work. 

@@ -49,7 +49,7 @@ Krugosvet_article_archived_: nauka_i_tehnika/fizika/ELEKTRON.html
 
 # [[Electron]] 
 
-#is_/opposite_of ::  [[../../../Antimatter/Positron|Positron]] 
+#has_/complement ::  [[../../../Antimatter/Positron|Positron]] 
 #is_/same_as :: [[../../../../../../WikiData/WD~Electron,2225|WD~Electron,2225]] 
 
 ## #has_/text_of_/abstract 

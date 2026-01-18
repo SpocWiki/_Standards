@@ -5,27 +5,32 @@ aliases:
   - has_complement
   - is_opposite_to
   - is_opposite_of
+  - is opposite of
   - is_negation_of
   - is complement of
+  - opposite of
+  - opposite_of
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
-layout: ''
+keywords: ""
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_complement
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_complement
 type: Predi_Relation
+Wikidata_property:
+has_id_wikidata: P461
 ---
 
 # [[has_complement]] 
@@ -33,6 +38,7 @@ type: Predi_Relation
 #is_/part_of :: https://meta.schema.org 
 
 #is_/different_from :: [[has_inverse]] 
+#is_/similar_to :: [[WD~opposite of,P461]]
 
 alias: is opposite of 
 
@@ -42,6 +48,8 @@ Use it like this:
 
 In lack of a better term this is often used to relate 
 disjoint/mutually exclusive, but not necessarily exhaustive Categories as Complements do. 
+The Union of multiple Complements form a Universe 
+with Partitions following the [[MECE_principle]]. 
 
 Complementary Relations are e.g. Order Relations. 
 They relate exactly those pairs of items to each other, 

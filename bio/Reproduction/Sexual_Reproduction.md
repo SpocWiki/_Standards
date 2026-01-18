@@ -39,7 +39,7 @@ Commons_category: Sexual reproduction
 
 # [[Sexual_Reproduction]] 
 
-#is_/opposite_of :: [[Asexual_Reproduction]] 
+#has_/complement :: [[Asexual_Reproduction]] 
 #is_/same_as :: [[../../WikiData/WD~Sexual_reproduction,182353|WD~Sexual_reproduction,182353]] 
 
 ## #has_/text_of_/abstract 

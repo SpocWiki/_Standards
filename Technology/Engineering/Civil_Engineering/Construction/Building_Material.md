@@ -30,7 +30,7 @@ EAGLE_id: objtyp/lod/13
 
 #is_/same_as :: [[../../../../../WikiData/WD~Building_material,206615|WD~Building_material,206615]] 
 
-| **Material**      | #has_/Pros                                                                                                                                   | #has_/Cons                                                                                                                                 |
+| **Material**      | #has_/result_/positive                                                                                                                                   | #has_/result_/negative                                                                                                                                 |
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Brick**         | - Good thermal mass <br>- Fire-resistant <br>- Lifespan: over 100 years <br>- Readily available                                              | - __Labor-intensive__ installation <br>- Brittle under seismic loads <br>- Moderate embodied carbon (250–400 kg CO₂/m³)                    |
 | **Stone**         | - Excellent durability (lifespan: over 100 years) <br>- Low maintenance <br>- Natural appearance                                             | - structural load due to weight (2,400–2,800 kg/m³) <br>- Difficult to work with <br>- Expensive transport costs                           |

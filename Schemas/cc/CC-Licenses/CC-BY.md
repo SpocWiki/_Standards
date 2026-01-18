@@ -34,8 +34,8 @@ Tags: #IT #URL #license
 'BY' indicates this Reference.
 
 This has a dual Benefit: 
-#has_/Pros :: Authors/Creators are credited 
-#has_/Pros :: Information has provenience 
+#has_/result_/positive :: Authors/Creators are credited 
+#has_/result_/positive :: Information has provenience 
 
 
 ## Confidential Links & Embeds: 

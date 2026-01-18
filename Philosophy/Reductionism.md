@@ -20,7 +20,7 @@ Commons_category: Reductionism
 
 # [[Reductionism]] 
 
-#is_/opposite_of :: [[Holism]]   
+#has_/complement :: [[Holism]]   
 #is_/same_as :: [[WD~Reductionism,206829]] 
 
 ## #has_/text_of_/abstract 

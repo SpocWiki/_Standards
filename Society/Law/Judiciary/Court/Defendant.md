@@ -10,7 +10,7 @@ has_id_wikidata: Q159394
 
 # [[Defendant]] 
 
-#is_/opposite_of :: [[Claimant]] 
+#has_/complement :: [[Claimant]] 
 #has_/name_/abbreviated :: Δ 
 #is_/same_as :: [[_Standards/WikiData/WD~defendant,159394]] 
 

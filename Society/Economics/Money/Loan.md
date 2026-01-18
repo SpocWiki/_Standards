@@ -30,7 +30,7 @@ IPTC_NewsCode: mediatopic/20000393
 
 # [[Loan]] 
 
-#is_/opposite_of :: [[Debt|Debt]]
+#has_/complement :: [[Debt|Debt]]
 #is_/same_as :: [[WD~Loan,189539]] 
 
 ## #has_/text_of_/abstract 

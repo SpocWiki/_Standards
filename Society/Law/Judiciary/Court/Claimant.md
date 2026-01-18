@@ -6,7 +6,7 @@ aliases:
 
 # [[Claimant]] 
 
-#is_/opposite_of :: [[Defendant]] 
+#has_/complement :: [[Defendant]] 
 #has_/name_/abbreviated :: Π  
 #is_/same_as :: [[Claimant,]]
 

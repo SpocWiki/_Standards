@@ -34,7 +34,7 @@ Krugosvet_article_archived_: gumanitarnye_nauki/filosofiya/NASLAZHDENIE.html
 
 # [[Pleasure]] 
 
-#is_/opposite_of :: [[Pain]] 
+#has_/complement :: [[Pain]] 
 #is_/same_as :: [[WD~Pleasure,208195]] 
 
 ## #has_/text_of_/abstract 

@@ -11,7 +11,7 @@ short_name: FOMO
 # [[FOMO]] 
 
 #is_/same_as :: [[WD~FOMO,16753510]] 
-#is_/opposite_of :: [[../../../../../bio/Psychology/Mind/Meditation|Meditation]]  
+#has_/complement :: [[../../../../../bio/Psychology/Mind/Meditation|Meditation]]  
 
 ## #has_/text_of_/abstract 
 

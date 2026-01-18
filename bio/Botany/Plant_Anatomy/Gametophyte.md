@@ -18,7 +18,7 @@ Commons_category: Gametophytes
 
 # [[Gametophyte]] 
 
-#is_/opposite_of :: [[Sporophyte]] 
+#has_/complement :: [[Sporophyte]] 
 #is_/same_as :: [[../../../../../WikiData/WD~Gametophyte,189951|WD~Gametophyte,189951]] 
 
 ## #has_/text_of_/abstract 

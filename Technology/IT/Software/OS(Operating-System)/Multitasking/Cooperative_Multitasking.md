@@ -5,7 +5,7 @@ aliases:
   - Cooperative Multitasking
 ---
 
-#is_/opposite_of :: [[Preemptive_Multitasking]] 
+#has_/complement :: [[Preemptive_Multitasking]] 
 
 ## #has_/text_of_/abstract 
 

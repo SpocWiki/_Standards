@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Crop
+  - Crops
 has_id_wikidata: Q235352
 Colon_Classification: J:5
 Commons_category: Crops

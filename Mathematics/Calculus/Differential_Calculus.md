@@ -20,7 +20,7 @@ Wolfram_Language_entity_code: Entity["Concept", "DifferentialCalculus::767tz"]
 # [[Differential_Calculus]] 
 
 
-#is_/opposite_of :: [[Integral_Calculus]]  
+#has_/complement :: [[Integral_Calculus]]  
 #is_/same_as :: [[../../WikiData/WD~Differential_calculus,149999|WD~Differential_calculus,149999]] 
 
 ## #has_/text_of_/abstract 

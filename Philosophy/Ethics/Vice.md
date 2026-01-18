@@ -25,7 +25,7 @@ Commons_category: Vices
 # [[Vice]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~vice,1411242]] 
-#is_/opposite_of :: [[../../../Philosophy/Ethics/Virtue|Virtue]] 
+#has_/complement :: [[../../../Philosophy/Ethics/Virtue|Virtue]] 
 
 | Vice             | Category   |    % | Source     | Typical Description                                 |
 | ---------------- | ---------- | ---: | ---------- | --------------------------------------------------- |

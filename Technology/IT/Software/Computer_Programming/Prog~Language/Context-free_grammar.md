@@ -78,10 +78,10 @@ you may feel tempted to skip writing the formal grammar
 and just define your little language with code. 
 Skipping the formal grammar is usually a bad idea for the following reasons:
 
-#has_/Cons :: Without a formal grammar, there is no precise way to **communicate the definition of your language** to other people without having them read your source code.
-#has_/Cons :: As the syntax for languages becomes larger or more complex, so does the parser for the language. 
+#has_/result_/negative :: Without a formal grammar, there is no precise way to **communicate the definition of your language** to other people without having them read your source code.
+#has_/result_/negative :: As the syntax for languages becomes larger or more complex, so does the parser for the language. 
 As the parser becomes more complex, the code becomes cluttered with necessary details and the relationship between the code and the grammar it implements becomes less obvious.
-#has_/Cons :: Over time, languages often evolve, gaining new features. 
+#has_/result_/negative :: Over time, languages often evolve, gaining new features. 
 When trying to make changes to a language that has no formal grammar, 
 you may find it difficult to distinguish between changes to the language's grammar 
 and changes to its implementation.

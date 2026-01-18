@@ -24,7 +24,7 @@ Dewey_Decimal_Classification:
 
 # [[Turbulence]] 
 
-#is_/opposite_of :: [[Laminar_Flow]]  
+#has_/complement :: [[Laminar_Flow]]  
 #is_/same_as :: [[WD~Turbulence,190132]] 
 
 ## #has_/text_of_/abstract 

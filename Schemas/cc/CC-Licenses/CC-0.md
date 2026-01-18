@@ -32,8 +32,8 @@ Tags: #IT #URL #license
 
 Most permissice of the [[../CC-Licenses]], waiving all rights and requiring no attribution. 
 
-#has_/Pros :: no Sources need to be specified 
-#has_/Cons :: provenience gets lost 
+#has_/result_/positive :: no Sources need to be specified 
+#has_/result_/negative :: provenience gets lost 
 #is_/used_by ::[[../../../../Data/Wikipedia/WikiData|WikiData]]] 
 
 The motivation behind this choice is to maximize reuse. 

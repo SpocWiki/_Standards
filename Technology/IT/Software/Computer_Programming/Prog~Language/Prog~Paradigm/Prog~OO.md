@@ -14,7 +14,7 @@ In contrast to structured Programming, where only individual [[Prog~Paradigm/Pro
 
 (pure Virtual Classes in C++)
 
-## #has_/Pros 
+## #has_/result_/positive 
 
 ### Often intuitive Entities => Usable 
 
@@ -55,9 +55,9 @@ prototypal --> Re-usable
 Both can be used to __define Polymorphy__ (more important) 
 and achieve Re-Use (less important)
 
-## #has_/Cons 
+## #has_/result_/negative 
 
-### #has_/Cons :: Coupling between Classes / Prototypes 
+### #has_/result_/negative :: Coupling between Classes / Prototypes 
 
 Using one Class drags dozens of other Classes or Objects (as Parameters or as Base-Classes/Prototypes).
 Contrast this with the Functional Paradigm, 

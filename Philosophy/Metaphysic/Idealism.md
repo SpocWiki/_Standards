@@ -28,7 +28,7 @@ Commons_category: Idealism
 
 # [[Idealism]] 
 
-#is_/opposite_of :: [[Materialism]] 
+#has_/complement :: [[Materialism]] 
 #is_/same_as :: [[WD~Idealism,33442]] 
 
 ## #has_/text_of_/abstract 

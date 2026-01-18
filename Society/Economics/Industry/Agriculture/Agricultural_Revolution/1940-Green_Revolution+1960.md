@@ -7,6 +7,7 @@ aliases:
   - Green_Revolution
   - Green Revolution
 has_id_wikidata: Q186050
+start_time: 1940-01-01
 end_time: 1960-01-01
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Irrigation1.jpg
 instance_of:
@@ -17,12 +18,11 @@ on_focus_list_of_Wikimedia_project:
 participant:
   - '[[_Standards/WikiData/WD~Norman_Borlaug,154824]]'
   - '[[_Standards/WikiData/WD~Nazareno_Strampelli,1224426]]'
-start_time: 1940-01-01
 subclass_of: '[[_Standards/WikiData/WD~change,1150070]]'
 Wolfram_Language_entity_code: Entity["Concept", "GreenRevolution::2bt99"]
 ---
 
-# [[Green_Revolution]] 
+# [[1940-Green_Revolution+1960]] 
 
 #has_/time_/started :: 1940-06 
 #is_/same_as :: [[../../../_Standards/WikiData/WD~Green_Revolution,186050|WD~Green_Revolution,186050]] 
@@ -49,7 +49,7 @@ Wolfram_Language_entity_code: Entity["Concept", "GreenRevolution::2bt99"]
 > were heavily involved in its initial development in Mexico. 
 > 
 > A key leader was agricultural scientist [[../../../../../_internal/Society/Economy/Agricultural_Revolution/Borlaug,Norman]], the "Father of the Green Revolution", 
-> who received the [[../../../Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Peace_Nobel_Prize|Nobel Peace Prize]] in 1970. 
+> who received the [[../../../../Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Peace_Nobel_Prize|Nobel Peace Prize]] in 1970. 
 > He is credited with saving over a billion people from starvation. 
 > 
 > Another important scientific figure was [[../../../../../_internal/Society/Economy/Agricultural_Revolution/Yuan Longping]], 
@@ -71,7 +71,7 @@ Wolfram_Language_entity_code: Entity["Concept", "GreenRevolution::2bt99"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Green_Revolution|Green_Revolution]] 
+### #is_/same_as :: [[1940-Green_Revolution+1960|Green_Revolution]] 
 
 ### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Green_Revolution.public|Green_Revolution.public]] 
 

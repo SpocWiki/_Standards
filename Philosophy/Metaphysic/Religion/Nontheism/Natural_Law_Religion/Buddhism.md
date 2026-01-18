@@ -96,7 +96,7 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Mani%20Rimdu%20festiva
 # [[Buddhism]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Buddhism,748|WD~Buddhism,748]] 
-#is_/opposite_of :: [[../../../../../bio/Psychology/Mind/Meditation/FOMO]]  
+#has_/complement :: [[../../../../../bio/Psychology/Mind/Meditation/FOMO]]  
 
 ## #has_/text_of_/abstract 
 

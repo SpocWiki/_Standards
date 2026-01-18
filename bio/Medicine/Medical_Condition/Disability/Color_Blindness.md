@@ -55,7 +55,7 @@ Baidu_Tieba_name: 色盲
 # [[Color_Blindness]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Color_blindness,133696|WD~Color_blindness,133696]] 
-#is_/opposite_of :: [[Color_Vision]] 
+#has_/complement :: [[Color_Vision]] 
 
 ## #has_/text_of_/abstract 
 

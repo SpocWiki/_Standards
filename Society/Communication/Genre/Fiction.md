@@ -60,7 +60,7 @@ U_S_National_Archives_Identifier: 10639193
 # [[Fiction]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Fiction,8253|WD~Fiction,8253]] 
-#is_/opposite_of :: [[Non-Fiction]] 
+#has_/complement :: [[Non-Fiction]] 
 
 ## #has_/text_of_/abstract 
 

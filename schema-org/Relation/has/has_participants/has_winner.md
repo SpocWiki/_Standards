@@ -26,7 +26,7 @@ type: Predi_Relation
 
 # [[has_winner]] 
 
-#is_/opposite_of :: [[has_loser]] 
+#has_/complement :: [[has_loser]] 
 
 Use it like this: 
 - #has_/winner :: Person  

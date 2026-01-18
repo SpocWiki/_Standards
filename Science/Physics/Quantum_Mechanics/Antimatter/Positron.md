@@ -34,7 +34,7 @@ time_of_discovery_or_invention: 1932-01-01T00:00:00Z
 
 # [[Positron]] 
 
-#is_/opposite_of ::  [[../Standard_Model/Fermion/Lepton/Electron|Electron]]  
+#has_/complement ::  [[../Standard_Model/Fermion/Lepton/Electron|Electron]]  
 #is_/same_as :: [[../../../../WikiData/WD~Positron,3229|WD~Positron,3229]] 
 
 ## #has_/text_of_/abstract 

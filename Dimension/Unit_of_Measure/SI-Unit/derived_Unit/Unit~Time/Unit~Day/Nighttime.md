@@ -46,7 +46,7 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-Night-a
 
 #is_/part_of :: [[../Unit~Day|Unit~Day]] 
 #is_/same_as :: [[WD~Night,575]] 
-#is_/opposite_of :: [[Daytime]] 
+#has_/complement :: [[Daytime]] 
 
 ## #has_/text_of_/abstract 
 

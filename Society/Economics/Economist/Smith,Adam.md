@@ -96,7 +96,7 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 
 
-#has_/created :: [[../../../../_internal/Society/Economy/Wealth_of_Nations]]  
+#has_/created :: [[../Economy/Economy-Books/Wealth_of_Nations]]  
 
 #is_/same_as :: [[../../../WikiData/WD~Adam_Smith,9381]] 
 
@@ -113,7 +113,7 @@ Leistungsgesellschaft
 > 
 > Seen by some as "The Father of Economics" or "The Father of Capitalism", 
 > he wrote two classic works, The [[../../../../_internal/Society/Economy/Theory_of_Moral_Sentiments]] (1759) 
-> and An Inquiry into the Nature and Causes of the [[../../../../_internal/Society/Economy/Wealth_of_Nations]] (1776). 
+> and An Inquiry into the Nature and Causes of the [[../Economy/Economy-Books/Wealth_of_Nations]] (1776). 
 > 
 > The latter, often abbreviated as The Wealth of Nations, 
 > is considered his magnum opus and the first modern work 

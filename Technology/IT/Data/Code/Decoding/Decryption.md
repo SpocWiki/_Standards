@@ -19,7 +19,7 @@ IEV_number: 171-08-10
 # [[Decryption]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~decryption,25560977]] 
-#is_/opposite_of :: [[../Encoding/Encryption|Encryption]] 
+#has_/complement :: [[../Encoding/Encryption|Encryption]] 
 
 ## #has_/text_of_/abstract 
 

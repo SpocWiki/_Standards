@@ -1,7 +1,7 @@
 
 # [[Happiness]] 
 
-#is_/opposite_of :: [[Suffering]] 
+#has_/complement :: [[Suffering]] 
 #is_/different_from :: [[Pleasure]] 
 #is_/same_as :: [[WD~Happiness,8]] 
 

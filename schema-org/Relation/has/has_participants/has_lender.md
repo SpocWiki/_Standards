@@ -26,7 +26,7 @@ type: Predi_Relation
 
 # [[has_lender]] 
 
-#is_/opposite_of :: [[has_borrower]] 
+#has_/complement :: [[has_borrower]] 
 
 Use it like this: 
 - #has_/lender :: Organization, Person  

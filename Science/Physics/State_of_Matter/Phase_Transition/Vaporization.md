@@ -23,7 +23,7 @@ Commons_category: Vaporization
 # [[Vaporization]] 
 
 
-#is_/opposite_of :: [[Phase_Transition/Condensation]] 
+#has_/complement :: [[Phase_Transition/Condensation]] 
 #is_/same_as :: [[_Standards/WikiData/WD~vaporization,6452502]]
 
 ## #has_/text_of_/abstract 

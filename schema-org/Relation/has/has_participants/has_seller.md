@@ -29,7 +29,7 @@ type: Predi_Relation
 
 # [[has_seller]] 
 
-#is_/opposite_of :: [[has_buyer]]  
+#has_/complement :: [[has_buyer]]  
 
 Use it like this: 
 - #has_/seller :: Organization, Person  

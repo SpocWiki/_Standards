@@ -36,8 +36,8 @@ Used by:
 - [[SpocWiki]] 
 
 Several perceived obstacles of this License proved to be beneficial in data sanity: 
-#has_/Pros :: BY ensures that everyone can check facts 
-#has_/Pros :: SA ensures that downstream results flow back to the source 
+#has_/result_/positive :: BY ensures that everyone can check facts 
+#has_/result_/positive :: SA ensures that downstream results flow back to the source 
 
 
 ## Confidential Links & Embeds: 

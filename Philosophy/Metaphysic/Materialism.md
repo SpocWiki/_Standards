@@ -24,7 +24,7 @@ part_of: '[[_Standards/WikiData/WD~monism,178801]]'
 
 # [[Materialism]] 
 
-#is_/opposite_of :: [[Idealism]] 
+#has_/complement :: [[Idealism]] 
 #is_/same_as :: [[../../WikiData/WD~Materialism,7081|WD~Materialism,7081]] 
 
 ## #has_/text_of_/abstract 

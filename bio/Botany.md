@@ -69,7 +69,7 @@ IPTC_NewsCode: mediatopic/20000720
 Krugosvet_article: nauka_i_tehnika/biologiya/BOTANIKA.html
 ---
 
-#is_/opposite_of :: [[Zoology]] 
+#has_/complement :: [[Zoology]] 
 #is_/same_as :: [[../../../../WikiData/WD~Botany,441|WD~Botany,441]] 
 
 ## #has_/text_of_/abstract 

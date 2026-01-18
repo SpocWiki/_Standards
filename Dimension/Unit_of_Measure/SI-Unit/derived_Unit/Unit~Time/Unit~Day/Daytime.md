@@ -26,7 +26,7 @@ Commons_category: Daytime (astronomy)
 
 #is_/part_of :: [[../Unit~Day|Unit~Day]] 
 #is_/same_as :: [[../../../../../../WikiData/WD~Daytime,52643|WD~Daytime,52643]] 
-#is_/opposite_of :: [[Nighttime]]  
+#has_/complement :: [[Nighttime]]  
 
 ## #has_/text_of_/abstract 
 

@@ -29,7 +29,7 @@ Commons_category: Suffering
 
 # [[Suffering]] 
 
-#is_/opposite_of :: [[Happiness|Happiness]] 
+#has_/complement :: [[Happiness|Happiness]] 
 #is_/same_as :: [[WD~Suffering,5780945]] 
 
 ## #has_/text_of_/abstract 

@@ -32,7 +32,7 @@ type: Predi_Relation
 
 #is_/part_of :: pending:  
 
-#is_/similar_to :: #has_/Pros 
+#is_/similar_to :: #has_/result_/positive 
 #has_/dual_/property  :: [[has_negative_notes]] 
 
 Use it like this: 

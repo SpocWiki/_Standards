@@ -5,9 +5,9 @@ Works only on DOS & Windows.
 
 #is_/alternative_to :: [[Mount_Partition_as_Folder]] 
 
-#has_/Pros :: no Partitioning, use all Space 
-#has_/Cons :: only for the current User, not for Admin or Service 
-#has_/Cons :: File-Path length is limited. 
+#has_/result_/positive :: no Partitioning, use all Space 
+#has_/result_/negative :: only for the current User, not for Admin or Service 
+#has_/result_/negative :: File-Path length is limited. 
 
 
 ## Confidential Links & Embeds: 

@@ -18,7 +18,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20mosaic%20%22LAW%22
 
 # [[Rule_of_Law]] 
 
-#is_/opposite_of :: [[Rule_of_Man]]
+#has_/complement :: [[Rule_of_Man]]
 #is_/same_as :: [[WD~Rule_of_law,44918]] 
 
 ## #has_/text_of_/abstract 

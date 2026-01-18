@@ -12,7 +12,7 @@ cssclasses:
 draft: true
 expiryDate: ''
 has_Template: '[[Extract~Note~Template]]'
-has_time_started: 2024-06-23
+has_time_started: -9700-01
 isDeleted: false
 isReadOnly: false
 keywords: First Agricultural Revolution
@@ -29,23 +29,21 @@ title: First Agricultural Revolution
 type: private_note
 ---
 
-# [[First Agricultural Revolution]] 
+# [[-9700-First_Agricultural_Revolution]] 
 
-#is_/part_of :: [[../../../Knowledge/Economy/Agricultural_Revolution]] 
-#is_/different_from :: [[Industry/Agriculture/Second_Agricultural_Revolution]]  
+#is_/part_of :: [[../Agricultural_Revolution]] 
+#is_/different_from :: [[1670-Second_Agricultural_Revolution+1850]]  
 #is_/same_as :: [[WD~Neolithic_revolution,180548]] 
 
-## First Agricultural Revolution
-
 (circa 10,000 BC), the prehistoric transition from hunting and gathering 
-to settled agriculture (also known as the Neolithic Revolution)
+to settled agriculture (also known as the Neolithic Revolution).
 
-## #has_/Pros  
+## #has_/result_/positive  
 
 - higher Population 
 - accumulation of Wealth 
 
-## #has_/Cons   
+## #has_/result_/negative   
 
 - poor, less varied Diet 
 	- Food Allergies  
@@ -62,9 +60,30 @@ to settled agriculture (also known as the Neolithic Revolution)
 
 ## #has_/text_of_/abstract 
 
-> The Neolithic Revolution, also known as the  First Agricultural Revolution, was the wide-scale transition of many human cultures during the Neolithic period in Afro-Eurasia from a lifestyle of hunting and gathering to one of agriculture and settlement, making an increasingly large population possible. These settled communities permitted humans to observe and experiment with plants, learning how they grew and developed. This new knowledge led to the domestication of plants into crops.
+> The Neolithic Revolution, also known as the  First Agricultural Revolution, 
+> was the wide-scale transition of many human cultures during the Neolithic period 
+> in Afro-Eurasia from a lifestyle of hunting and gathering 
+> to one of agriculture and settlement, making an increasingly large population possible. 
+> 
+> These settled communities permitted humans to observe and experiment with plants, 
+> learning how they grew and developed. 
+> This new knowledge led to the domestication of plants into crops.
 >
-> Archaeological data indicate that the domestication of various types of plants and animals happened in separate locations worldwide, starting in the geological epoch of the Holocene 11,700 years ago, after the end of the last Ice Age. It was humankind's first historically verifiable transition to agriculture. The Neolithic Revolution greatly narrowed the diversity of foods available, resulting in a decrease in the quality of human nutrition compared with that obtained previously from hunting and foraging.  However, because food production became more efficient, it released humans to invest their efforts in other activities and was thus "ultimately necessary to the rise of modern civilization by creating the foundation for the later process of industrialization and sustained economic growth".
+> Archaeological data indicate that the domestication of various types of plants and animals 
+> happened in separate locations worldwide, 
+> starting in the geological epoch of the Holocene 11,700 years ago, 
+> after the end of the last Ice Age. 
+> 
+> It was humankind's first historically verifiable transition to agriculture. 
+> 
+> The Neolithic Revolution greatly narrowed the diversity of foods available, 
+> resulting in a decrease in the quality of human nutrition 
+> compared with that obtained previously from hunting and foraging.  
+> 
+> However, because food production became more efficient, 
+> it released humans to invest their efforts in other activities and was thus 
+> "ultimately necessary to the rise of modern civilization 
+> by creating the foundation for the later process of industrialization and sustained economic growth".
 >
 > The Neolithic Revolution involved much more than the adoption of a limited set of food-producing techniques. During the next millennia, it transformed the small and mobile groups of hunter-gatherers that had hitherto dominated human prehistory into sedentary (non-nomadic) societies based in built-up villages and towns. These societies radically modified their natural environment by means of specialized food-crop cultivation, with activities such as irrigation and deforestation which allowed the production of surplus food. Other developments that are found very widely during this era are the domestication of animals, pottery, polished stone tools, and rectangular houses. In many regions, the adoption of agriculture by prehistoric societies caused episodes of rapid population growth, a phenomenon known as the Neolithic demographic transition.
 >
@@ -77,7 +96,7 @@ to settled agriculture (also known as the Neolithic Revolution)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/First_Agricultural_Revolution|First_Agricultural_Revolution]] 
+### #is_/same_as :: [[-9700-First_Agricultural_Revolution|First_Agricultural_Revolution]] 
 
 ### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/First_Agricultural_Revolution.public|First_Agricultural_Revolution.public]] 
 

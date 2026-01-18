@@ -39,7 +39,7 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/GUMANIZM.html
 # [[Humanism]] 
 
 #is_/same_as :: [[WD~Humanism,46158]] 
-#is_/opposite_of :: [[Metaphysic/Religion/Theism|Theism]] 
+#has_/complement :: [[Metaphysic/Religion/Theism|Theism]] 
 
 ## #has_/text_of_/abstract 
 

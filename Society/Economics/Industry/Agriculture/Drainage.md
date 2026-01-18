@@ -23,7 +23,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Drainbankstown.jpg
 
 # [[Drainage]] 
 
-#is_/opposite_of :: [[Irrigation]] 
+#has_/complement :: [[Irrigation]] 
 #is_/same_as :: [[_Standards/WikiData/WD~drainage,7481320]] 
 
 ## #has_/text_of_/abstract 

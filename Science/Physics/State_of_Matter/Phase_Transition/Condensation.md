@@ -21,7 +21,7 @@ Commons_category: Condensation
 
 # [[Condensation]] 
 
-#is_/opposite_of :: [[Vaporization]]  
+#has_/complement :: [[Vaporization]]  
 #is_/same_as :: [[../../../../WikiData/WD~Condensation,166583|WD~Condensation,166583]] 
 
 ## #has_/text_of_/abstract 

@@ -2,7 +2,7 @@
 ## [[Belief]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~belief,34394]] 
-#is_/opposite_of :: [[Skepticism|Scepticism]] 
+#has_/complement :: [[Skepticism|Scepticism]] 
 #is_/greater_than :: [[../../../Society/Communication/Media/Creative_Work/Statement/Opinion|Opinion]] 
 
 ## #has_/text_of_/abstract 

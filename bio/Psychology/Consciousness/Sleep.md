@@ -66,7 +66,7 @@ Krugosvet_article_archived_: medicina/SON.html
 # [[Sleep]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Sleep,35831|WD~Sleep,35831]] 
-#is_/opposite_of :: [[../Consciousness|Consciousness]] 
+#has_/complement :: [[../Consciousness|Consciousness]] 
 
 ## #has_/text_of_/abstract 
 

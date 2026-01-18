@@ -64,17 +64,19 @@ title:
 type: private_note
 ---
 
+# [[has_result_negative]]
+
 Enumerates negative, inhibiting Reasons for this Statement. 
 Plural Form chosen to indicate the [[../../../Collection]]-Nature. 
+
+Use it like this: 
+- #has_/result_/negative = `=this.dv_has_result_negative` 
+- has_result_negative = `=this.dv_has_result_negative` 
 
 Therefore this partially(incomplete) inverse Relation is included in the non-standard more generic [[has_result_negative 1]] Relation. 
 
 Usually this is complemented by [[has_result_positive]], 
 to be able to weigh a Decision in a [[../../../../../_protect/Society/Communication/Media/Literature/Team-Tactics/Team-Direction/Force-Field_Analysis|Force-Field_Analysis]].
-
-Use it like this: 
-- #has_/result_/negative = `=this.dv_has_result_negative` ] ] 
-- has_result_negative = `=this.dv_has_result_negative` ]] 
 
 Relation describes that: 
 

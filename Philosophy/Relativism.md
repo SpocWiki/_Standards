@@ -17,7 +17,7 @@ PhilPapers_topic: relativism
 
 # [[Relativism]] 
 
-#is_/opposite_of :: [[Universalism]] 
+#has_/complement :: [[Universalism]] 
 
 #is_/same_as :: [[WD~Relativism,83188]] 
 

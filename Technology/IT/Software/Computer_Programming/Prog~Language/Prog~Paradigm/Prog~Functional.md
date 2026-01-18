@@ -69,9 +69,9 @@ which allows for [[Code-completion]],
 a domain that was previously only available to [[Prog~Paradigm/Prog~OO/OO-Lang|OO-Languages]]. 
 
 Opening up the Records is a two-edged Sword: 
-#has_/Pros :: allows for dynamic and 'intelligent' Programming 
-#has_/Pros :: allows to re-use Algorithms across different Hierarchies without [[Prog~Paradigm/Prog~OO/Inheritance_by_Class|Inheritance]] or [[../../../../IT/Programming/Patterns/Patterns~Java.1/Patterns~Fundamental/Pattern~Delegation|Pattern~Delegation]], using only [[../../../../IT/Programming/Patterns/Patterns~Java.1/Patterns~Fundamental/Pattern~Interface|Interface]]s. 
-#has_/Cons :: makes Code fragile by relying on sometimes accidental Fields/Properties  
+#has_/result_/positive :: allows for dynamic and 'intelligent' Programming 
+#has_/result_/positive :: allows to re-use Algorithms across different Hierarchies without [[Prog~Paradigm/Prog~OO/Inheritance_by_Class|Inheritance]] or [[../../../../IT/Programming/Patterns/Patterns~Java.1/Patterns~Fundamental/Pattern~Delegation|Pattern~Delegation]], using only [[../../../../IT/Programming/Patterns/Patterns~Java.1/Patterns~Fundamental/Pattern~Interface|Interface]]s. 
+#has_/result_/negative :: makes Code fragile by relying on sometimes accidental Fields/Properties  
 
 Therefore a conscious Design is still needed on which Properties are added to the public Interface. 
 These Interfaces subsequently also allow for robust migration by centralizing Adapter Logic. 

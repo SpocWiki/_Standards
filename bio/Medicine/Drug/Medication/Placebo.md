@@ -24,7 +24,7 @@ UMLS_CUI: C0032042
 
 # [[Placebo]] 
 
-#is_/opposite_of :: [[Nocebo]] 
+#has_/complement :: [[Nocebo]] 
 #is_/same_as :: [[../../../../WikiData/WD~Placebo,269829|WD~Placebo,269829]] 
 
 ## #has_/text_of_/abstract 

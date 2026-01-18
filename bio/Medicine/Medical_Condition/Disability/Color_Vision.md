@@ -32,7 +32,7 @@ MeSH_tree_code:
 # [[Color_Vision]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Color_vision,374259|WD~Color_vision,374259]] 
-#is_/opposite_of :: [[Color_Blindness]]  
+#has_/complement :: [[Color_Blindness]]  
 
 ## #has_/text_of_/abstract 
 
