@@ -87,7 +87,13 @@ to settled agriculture (also known as the Neolithic Revolution).
 >
 > The Neolithic Revolution involved much more than the adoption of a limited set of food-producing techniques. During the next millennia, it transformed the small and mobile groups of hunter-gatherers that had hitherto dominated human prehistory into sedentary (non-nomadic) societies based in built-up villages and towns. These societies radically modified their natural environment by means of specialized food-crop cultivation, with activities such as irrigation and deforestation which allowed the production of surplus food. Other developments that are found very widely during this era are the domestication of animals, pottery, polished stone tools, and rectangular houses. In many regions, the adoption of agriculture by prehistoric societies caused episodes of rapid population growth, a phenomenon known as the Neolithic demographic transition.
 >
-> These developments, sometimes called the Neolithic package, provided the basis for centralized administrations and political structures, hierarchical ideologies, depersonalized systems of knowledge (e.g. writing), densely populated settlements, specialization and division of labour, more trade, the development of non-portable art and architecture, and greater property ownership. The earliest known civilization developed in Sumer in southern Mesopotamia (c. 6,500 BP); its emergence also heralded the beginning of the Bronze Age.
+> These developments, sometimes called the Neolithic package, 
+> provided the basis for centralized administrations and political structures, 
+> hierarchical ideologies, depersonalized systems of knowledge (e.g. writing), 
+> densely populated settlements, specialization and division of labour, more trade, 
+> the development of non-portable art and architecture, and greater property ownership. 
+> The earliest known civilization developed in Sumer in southern Mesopotamia (c. 6,500 BP); 
+> its emergence also heralded the beginning of the Bronze Age.
 >
 > The relationship of the aforementioned Neolithic characteristics to the onset of agriculture, their sequence of emergence, and their empirical relation to each other at various Neolithic sites remains the subject of academic debate. It is usually understood to vary from place to place, rather than being the outcome of universal laws of social evolution.
 >
