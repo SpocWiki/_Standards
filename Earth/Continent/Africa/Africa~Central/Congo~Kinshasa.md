@@ -579,7 +579,7 @@ dv_has_place_continent: "[[../../Africa]]"
 dv_VehicleCode: CGO
 dv_Alcohol-l: 3.3
 dv_Language-Id: 496
-dv_is_a_: "[[../../../Geography/Place]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 15.3
 dv_has_place_latitude: -4.3
 dv_is_same_as:
@@ -634,8 +634,10 @@ Capital ::  [[Congo~Dem_Rep/City/Kinshasa]] ]
 ![[Flag_of_the_Democratic_Republic_of_the_Congo.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+
+
+
+ is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude`
 has_place_latitude = `=this.dv_has_place_latitude`
 

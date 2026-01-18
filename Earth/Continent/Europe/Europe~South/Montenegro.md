@@ -67,7 +67,7 @@ dv_has_name_de: Montenegro
 dv_has_place_continent: "[[../../Europe]]"
 dv_VehicleCode: MNE
 dv_Capital: "[[./Montenegro/Counties/Podgorica]]"
-dv_is_a_: "[[../../../Geography/Place]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 19.4667
 dv_has_place_latitude: 42.7833
 dv_developed_developing_countries: Developed
@@ -542,8 +542,10 @@ Capital = `=this.dv_Capital`
 ![[Flag_of_Montenegro.svg|350]]
 [Alcohol-l::]
 [Language-Id::]
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+
+
+
+ is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude`
 has_place_latitude = `=this.dv_has_place_latitude`
 

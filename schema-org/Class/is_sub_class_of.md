@@ -36,7 +36,7 @@ type: Predi_Relation
 
 ## [[is_sub_class_of]] 
 
-#is_/similar_to :: [[../../W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RDF~Relations/rdfs~subClassOf|rdfs~subClassOf]] 
+#is_/same_as  :: [[../../W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RDF~Relations/rdfs~subClassOf|rdfs~subClassOf]] 
 #has_/inverse  :: [[has_sub_classes]]
 #is_/better_than :: [[../Relation/is_similar_to|is_similar_to]] 
 
@@ -52,7 +52,6 @@ Use it like this:
 [[../Relation|Relation]] describes that: 
 
 #has_/domain  :: [Class](../../Classes.md) 
-
 (has_/name :: [is_subclass_of](is_sub_class_of.md))
 (has_/range :: [Class](../../Classes.md))
 

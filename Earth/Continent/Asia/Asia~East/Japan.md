@@ -64,7 +64,7 @@ dv_VehicleCode: J
 dv_Capital: "[[Japan/Counties/Tokyo/City/Tokio]]"
 dv_Alcohol-l: 8
 dv_Language-Id: 466
-dv_is_a_: "[[../../../Geography/Place]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 137.199
 dv_has_place_latitude: 36.8617
 dv_is_:
@@ -770,8 +770,10 @@ Capital = `=this.dv_Capital`
 ![[Japan/Flag_of_Japan.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+
+
+
+ is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude`
 has_place_latitude = `=this.dv_has_place_latitude`
 

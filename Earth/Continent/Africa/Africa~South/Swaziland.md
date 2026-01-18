@@ -290,7 +290,7 @@ dv_has_place_continent: "[[../../Africa]]"
 dv_VehicleCode: SD
 dv_Alcohol-l: 5.7
 dv_Language-Id: 499
-dv_is_a_: "[[../../../Geography/Place]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 31.1333
 dv_has_place_latitude: -26.3167
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Swaziland
@@ -341,8 +341,10 @@ Capital :: [[Mbabane]]
 ![[Flag_of_Swaziland.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+
+
+
+ is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude`
 has_place_latitude = `=this.dv_has_place_latitude`
 

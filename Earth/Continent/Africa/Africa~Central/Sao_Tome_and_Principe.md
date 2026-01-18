@@ -34,7 +34,7 @@ dv_Area-Land: 960
 dv_has_place_continent: "[[../../Africa]]"
 dv_Alcohol-l: 8.7
 dv_Language-Id: 467
-dv_is_a_: "[[../../../Geography/Place]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 6.73333
 dv_has_place_latitude: 0.333333
 dv_is_same_as:
@@ -319,8 +319,10 @@ has_place_continent = `=this.dv_has_place_continent`
 [Capital-Id::]
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+
+
+
+ is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude`
 has_place_latitude = `=this.dv_has_place_latitude`
 

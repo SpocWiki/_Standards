@@ -23,7 +23,7 @@ dv_has_place_continent: "[[../../Europe]]"
 dv_VehicleCode: GEO
 dv_Capital: "[[Georgia,Europe/Regions~Georgia/Tbilisi]]]"
 dv_Alcohol-l: 6.4
-dv_is_a_: "[[../../../Geography/Place]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 44.7833
 dv_has_place_latitude: 41.7167
 dv_is_same_as:
@@ -494,8 +494,10 @@ Capital = `=this.dv_Capital`
 ![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Georgia.mp3]]![[Georgia,Europe/Flag_of_Georgia.svg|350]]]
 Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+
+
+
+ is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude`
 has_place_latitude = `=this.dv_has_place_latitude`
 

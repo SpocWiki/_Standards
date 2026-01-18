@@ -54,7 +54,7 @@ dv_Area-Total: 0
 dv_Area-Land: 0
 dv_has_place_continent: "[[../../Oceania]]"
 dv_Capital: "[[Guam/Villages~Guam/Hagåtña]]"
-dv_is_a_: "[[../../../Geography/Place]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 144.75
 dv_has_place_latitude: 13.4792
 dv_developed_developing_countries: Developing
@@ -367,8 +367,10 @@ has_place_continent = `=this.dv_has_place_continent`
 Capital = `=this.dv_Capital`
 [Alcohol-l::] 
 [Language-Id::] 
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+
+
+
+ is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
 

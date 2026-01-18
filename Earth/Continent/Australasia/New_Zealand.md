@@ -453,7 +453,7 @@ dv_has_place_continent: "[[Australia]]"
 dv_VehicleCode: NZ
 dv_Alcohol-l: 9.6
 dv_Language-Id: 499
-dv_is_a_: "[[../../Geography/Place]]"
+dv_is_a_: "[[../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 174.78
 dv_has_place_latitude: -41.28
 dv_developed_developing_countries: Developed
@@ -574,8 +574,10 @@ Capital :: [[Wellington]]
 
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+
+
+
+ is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude`
 has_place_latitude = `=this.dv_has_place_latitude`
 

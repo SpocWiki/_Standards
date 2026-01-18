@@ -1,5 +1,5 @@
 ---
-dv_is_a_: "[[../../../Geography/Place]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 10.1207
 dv_has_place_latitude: 50.8699
 dv_has_:

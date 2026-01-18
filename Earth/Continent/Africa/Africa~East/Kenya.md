@@ -73,7 +73,7 @@ dv_VehicleCode: EAK
 dv_Capital: "[[Kenya/Counties/Nairobi.County]]"
 dv_Alcohol-l: 4.1
 dv_Language-Id: 499
-dv_is_a_: "[[../../../Geography/Place]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 36.83
 dv_has_place_latitude: -1.28
 dv_developed_developing_countries: Developing
@@ -606,8 +606,10 @@ Capital = `=this.dv_Capital`
 ![[Kenya/Flag_of_Kenya.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+
+
+
+ is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude`
 has_place_latitude = `=this.dv_has_place_latitude`
 

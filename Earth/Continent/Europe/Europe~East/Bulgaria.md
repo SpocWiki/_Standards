@@ -76,7 +76,7 @@ dv_has_place_continent: "[[../../Europe]]"
 dv_VehicleCode: BG
 dv_Capital: "[[./Bulgaria/Counties/Sofia]]"
 dv_Alcohol-l: 12.4
-dv_is_a_: "[[../../../Geography/Place]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 25.3029
 dv_has_place_latitude: 42.9342
 dv_has_number_of_people: "6.795803e6"
@@ -618,8 +618,10 @@ Capital = `=this.dv_Capital`
 ![[Flag_of_Bulgaria.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+
+
+
+ is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude`
 has_place_latitude = `=this.dv_has_place_latitude`
 

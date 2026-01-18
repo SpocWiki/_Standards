@@ -72,7 +72,7 @@ dv_VehicleCode: L
 dv_Capital: "[[geo/Continent/Europe/Europe~West/Luxembourg]]"
 dv_Alcohol-l: 13
 dv_Language-Id: 496
-dv_is_a_: "[[../../../Geography/Place]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 6.07904
 dv_has_place_latitude: 49.6827
 dv_developed_developing_countries: Developed
@@ -561,8 +561,10 @@ Capital = `=this.dv_Capital`
 ![[Flag_of_Luxembourg.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+
+
+
+ is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude`
 has_place_latitude = `=this.dv_has_place_latitude`
 

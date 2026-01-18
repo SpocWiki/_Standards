@@ -75,7 +75,7 @@ dv_has_place_continent: "[[../../Europe]]"
 dv_VehicleCode: S
 dv_Capital: "[[./Sweden/Counties/Stockholm]]"
 dv_Alcohol-l: 10.3
-dv_is_a_: "[[../../../Geography/Place]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 16.5434
 dv_has_place_latitude: 59.7646
 dv_is_member_of:
@@ -746,8 +746,10 @@ Capital = `=this.dv_Capital`
 ![[Flag_of_Sweden.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+
+
+
+ is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
 

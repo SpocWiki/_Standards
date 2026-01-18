@@ -71,7 +71,7 @@ dv_has_place_continent: "[[../../Europe]]"
 dv_VehicleCode: DK
 dv_Capital: "[[Denmark/Regions~Denmark/Zealand/Hovedstaden/City/Copenhagen]]"
 dv_Alcohol-l: 13.4
-dv_is_a_: "[[../../../Geography/Place]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 10.5
 dv_has_place_latitude: 55.6789
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Denmark
@@ -709,8 +709,10 @@ Capital = `=this.dv_Capital`
 ![[Flag_of_Denmark.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+
+
+
+ is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude`
 has_place_latitude = `=this.dv_has_place_latitude`
 

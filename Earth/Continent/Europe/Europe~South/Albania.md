@@ -95,7 +95,7 @@ dv_has_place_continent: "[[../../Europe]]"
 dv_VehicleCode: AL
 dv_Capital: "[[Albania/Counties~Albania/Tiranë,State/counties~Tiranë/Tiranës,County/cities~Tiranës/Tirana,City]]"
 dv_Alcohol-l: 6.7
-dv_is_a_: "[[../../../Geography/Place]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 19.9565
 dv_has_place_latitude: 40.793
 dv_is_same_as:
@@ -562,8 +562,10 @@ Capital = `=this.dv_Capital`
 ![[Flag_of_Albania.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+
+
+
+ is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude`
 has_place_latitude = `=this.dv_has_place_latitude`
 

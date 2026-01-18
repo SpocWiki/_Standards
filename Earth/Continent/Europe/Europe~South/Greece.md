@@ -72,7 +72,7 @@ dv_VehicleCode: GR
 dv_Capital: "[[Greece/Regions-Greek/Attica/cities~Attica/Athens|Athens]]"
 dv_Alcohol-l: 10.8
 dv_Language-Id: 491
-dv_is_a_: "[[../../../Geography/Place]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 23.0356
 dv_has_place_latitude: 38.6175
 dv_developed_developing_countries: Developed
@@ -673,8 +673,10 @@ Capital = `=this.dv_Capital`
 ![[_public/Earth/Continent/Europe/Europe~South/Greece/Flag_of_Greece.svg|350]] 
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+
+
+
+ is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude`
 has_place_latitude = `=this.dv_has_place_latitude`
 

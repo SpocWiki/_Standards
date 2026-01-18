@@ -74,7 +74,7 @@ dv_has_place_continent: "[[../../Africa]]"
 dv_VehicleCode: TD
 dv_Capital: "[[N'Djamena]]"
 dv_Alcohol-l: 4.4
-dv_is_a_: "[[../../../Geography/Place]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 16.0333
 dv_has_place_latitude: 12.1
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Chad
@@ -660,8 +660,10 @@ Capital = `=this.dv_Capital`
 
 Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+
+
+
+ is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude`
 has_place_latitude = `=this.dv_has_place_latitude`
 

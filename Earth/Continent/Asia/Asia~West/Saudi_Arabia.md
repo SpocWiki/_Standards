@@ -74,7 +74,7 @@ dv_VehicleCode: KSA
 dv_Capital: "[[Saudi_Arabia/Counties/Ar_Riyad/City/Riyadh=Er_Riad]]"
 dv_Alcohol-l: 0.3
 dv_Language-Id: 472
-dv_is_a_: "[[../../../Geography/Place]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 43.27
 dv_has_place_latitude: 23.05
 dv_developed_developing_countries: Developing
@@ -625,8 +625,10 @@ Capital = `=this.dv_Capital`
 
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+
+
+
+ is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude`
 has_place_latitude = `=this.dv_has_place_latitude`
 

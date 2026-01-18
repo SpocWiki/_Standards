@@ -109,7 +109,7 @@ dv_has_place_continent: "[[../../Asia]]"
 dv_VehicleCode: AZ
 dv_Capital: "[[Azerbaijan/Counties/Bakı/City/Baku]]"
 dv_Alcohol-l: 10.6
-dv_is_a_: "[[../../../Geography/Place]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 49.83
 dv_has_place_latitude: 40.42
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Azerbaijan
@@ -229,8 +229,10 @@ Capital = `=this.dv_Capital`
 
 Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+
+
+
+ is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude`
 has_place_latitude = `=this.dv_has_place_latitude`
 

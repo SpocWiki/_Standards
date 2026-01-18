@@ -14,7 +14,7 @@ type: Country
 dv_has_name_en: Serbia and Montenegro
 dv_has_name_de: Serbien-Montenegro
 dv_has_place_continent: "[[../../Europe]]"
-dv_is_a_: "[[../../../Geography/Place]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 20.4667
 dv_has_place_latitude: 44.8167
 dv_is_:
@@ -59,8 +59,10 @@ has_place_continent = `=this.dv_has_place_continent`
 ![[Flag_of_Serbia.svg|350]]
 [Alcohol-l::]
 [Language-Id::]
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+
+
+
+ is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude`
 has_place_latitude = `=this.dv_has_place_latitude`
 

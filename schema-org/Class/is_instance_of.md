@@ -37,13 +37,26 @@ title: is_instance_of
 type: Predi_Relation
 ---
 
+# [[is_instance_of]] 
+
+#is_a :: [[Relation]] 
+
+#has_/inverse :: [[has_instances]] 
+
+## Relation describes that: 
+
+#has_/domain  :: [[Thing]] 
+(has_/name :: is_instance_of)
+(has_/range :: Class)
+
 # [Class](../../Classes.md)-[Thing](Thing.md) Relationship 
 
-Relates an Object/Thing/Entity to its Class. 
+Relates an Object/Thing/Entity to a Class. 
+Objects can be related to any number of Classes. 
 Can be implemented with a dedicated #Tag for each Class 
 to enable Tools to restrict the Range to defined Classes.
 
-Classes help to group all (potential) **similar** objects and extend Rules 
+Classes help to group all (potentially) **similar** objects and extend Rules 
 from (countable) Sets (for which you can use Induction) 
 to uncountable Classes. 
  
@@ -51,15 +64,13 @@ Unlike the untyped, finite [[../Collection/is_item_in|is_element_of]] Relation,
 or the typed, finite [[../Composite/is_part_of|is_part_of]] Relation 
 this is an infinite, typed Relation. 
 
-#has_/inverse :: [[has_instances]] 
-
 Verbs: 
 - rdf:type for XML-RDF
 - typeof Attribute in HTML 
 - @type in JSON-LD 
 - [[is_instance_of]] [[is_a]] in this Markdown Structure 
 - itemtype or additionalType in MicroData 
--  
+-  `a` in [[TRTL]] 
 
 ## Other hierarchical Relations: 
 - is_/part_of(../Composite/is_part_of)
@@ -67,23 +78,22 @@ Verbs:
 - [[../Relation/is/is_member_of|is_member_of]] 
 
 ## Use it like this: 
-- #is_/instance_of :: Class 
-- [ #is_a_ :: Class] 
-- is_/instance_of :: Class  
+- #is_a :: Class 
 for Objects
-Do __not__ flex the predicate when the Class starts with a Vowel like so is_an_ ant!
 
-You can also use a pre-defined #Tag, 
-like #is_a_/pet, but that makes Navigation 
-to the actual Class Definition harder.
+Don't use `is_instance_of :: Class`, 
+although that is closer to the schema.org Predicate name
+
+You could also use a pre-defined #Tag, 
+by extending #is_a by the class name like e.g. `#is_a_/pet`, 
+although it Tags can be used for efficient filtering.
+But that only helps if it reflects the full Class Hierarchy like `#is_a_/Product_/Vehicle_/Car`
+and it makes Navigation to the actual Class Definition harder.
+
+Also do __not__ use `#is_an_` when the Class starts with a Vowel like so: `is_an_Apple` 
+avoid extending the Attribute with the Class like this: `#is_a_/Car`,
 
 - For Classes use [is_subclass_of](is_sub_class_of.md)  
-
-## Relation describes that: 
-
-#has_/domain  :: [[Thing]] 
-(has_/name :: is_instance_of)
-(has_/range :: Class)
 
 
 ## Confidential Links & Embeds: 

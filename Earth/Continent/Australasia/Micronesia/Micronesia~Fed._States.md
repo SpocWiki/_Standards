@@ -21,7 +21,7 @@ dv_VehicleCode: FSM
 dv_Capital: "[[Micronesia~Fed._States/States~Micronesia/Pohnpei/City/Palikir]]"
 dv_Alcohol-l: 5.5
 dv_Language-Id: 499
-dv_is_a_: "[[../../../Geography/Place]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 158.15
 dv_has_place_latitude: 6.91667
 dv_concept-federatedstatesofmicronesia: 6yt84"
@@ -352,8 +352,10 @@ VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
 Alcohol-l = `=this.dv_Alcohol-l` 
 Language-Id = `=this.dv_Language-Id` 
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+
+
+
+ is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
 

@@ -1041,7 +1041,7 @@ dv_has_place_continent: Australia
 dv_VehicleCode: AUS
 dv_Alcohol-l: 10
 dv_Language-Id: 499
-dv_is_a_: "[[../../Geography/Place]]"
+dv_is_a_: "[[../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 149.027
 dv_has_place_latitude: -35.4776
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Australia-Australia
@@ -1164,8 +1164,10 @@ Capital :: [[Canberra]]
 
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+
+
+
+ is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude`
 has_place_latitude = `=this.dv_has_place_latitude`
 

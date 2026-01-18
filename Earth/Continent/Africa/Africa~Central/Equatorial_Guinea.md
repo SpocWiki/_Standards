@@ -75,7 +75,7 @@ dv_VehicleCode: EQ
 dv_Capital: "[[Malabo]]"
 dv_Alcohol-l: 6.1
 dv_Language-Id: 492
-dv_is_a_: "[[../../../Geography/Place]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 8.78333
 dv_has_place_latitude: 3.75
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Equatorial_Guinea
@@ -499,8 +499,10 @@ Capital = `=this.dv_Capital`
 ![[Flag_of_Guinea.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+
+
+
+ is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude`
 has_place_latitude = `=this.dv_has_place_latitude`
 

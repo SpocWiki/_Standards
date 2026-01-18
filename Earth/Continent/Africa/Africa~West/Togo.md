@@ -74,7 +74,7 @@ dv_VehicleCode: TG
 dv_Capital: "[[Lomé]]"
 dv_Alcohol-l: 2
 dv_Language-Id: 496
-dv_is_a_: "[[../../../Geography/Place]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 1.21667
 dv_has_place_latitude: 6.11667
 dv_developed_developing_countries: Developing
@@ -532,8 +532,10 @@ Capital = `=this.dv_Capital`
 
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+
+
+
+ is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude`
 has_place_latitude = `=this.dv_has_place_latitude`
 

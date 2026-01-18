@@ -32,7 +32,7 @@ title: Saipan
 type:
   - City
   - geo-Region
-dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 145.75
 dv_has_place_latitude: 15.18333
 dv_has_name: Saipan
@@ -56,8 +56,10 @@ dv_is_same_as:
   - "[[/_secret/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Saipan.secret|Saipan.secret]]"
 ---
 
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+
+
+
+ is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
 name = `=this.dv_has_name` 

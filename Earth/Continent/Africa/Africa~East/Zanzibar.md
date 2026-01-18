@@ -2,7 +2,7 @@
 dv_has_name_en: Zanzibar
 dv_has_name_de: Sansibar
 dv_has_place_continent: "[[../../Africa]]"
-dv_is_a_: "[[../../../Geography/Place]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 39.3167
 dv_has_place_latitude: -6.13333
 dv_is_:
@@ -111,8 +111,10 @@ has_place_continent = `=this.dv_has_place_continent`
 [Capital-Id::]
 [Alcohol-l::]
 [Language-Id::]
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+
+
+
+ is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude`
 has_place_latitude = `=this.dv_has_place_latitude`
 

@@ -23,7 +23,7 @@ dv_has_place_continent: "[[../../Europe]]"
 dv_VehicleCode: CZ
 dv_Capital: "[[Czech_Republic/regions~Czech_Republic/Prague/City/Praha]]"
 dv_Alcohol-l: 16.5
-dv_is_a_: "[[../../../Geography/Place]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 15.8734
 dv_has_place_latitude: 49.7633
 dv_is_same_as:
@@ -547,8 +547,10 @@ Capital = `=this.dv_Capital`
 ![[Flag_of_Czech-republic.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+
+
+
+ is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude`
 has_place_latitude = `=this.dv_has_place_latitude`
 

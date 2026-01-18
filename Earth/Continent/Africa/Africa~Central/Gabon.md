@@ -415,7 +415,7 @@ dv_has_place_continent: "[[../../Africa]]"
 dv_VehicleCode: G
 dv_Alcohol-l: 9.3
 dv_Language-Id: 496
-dv_is_a_: "[[../../../Geography/Place]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 9.45
 dv_has_place_latitude: 0.383333
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Gabon
@@ -533,8 +533,10 @@ Capital :: [[Libreville]]
 ![[Flag_of_Gabon.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+
+
+
+ is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude`
 has_place_latitude = `=this.dv_has_place_latitude`
 

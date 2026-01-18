@@ -42,7 +42,7 @@ UN_LOCODE: TVFUN
 demonym:
   - Funafutien
   - Funafutienne
-dv_is_a_: "[[../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 179.2167
 dv_has_place_latitude: -8.516666
 dv_has_name: Funafuti
@@ -71,8 +71,10 @@ dv_is_same_as:
 
 # [[Funafuti]] 
 
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
+
+
+
+ is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
 name = `=this.dv_has_name` 
