@@ -1,4 +1,8 @@
 ---
+aliases:
+  - is_instance_of
+  - is_an_instance_of
+  - 
 dv_is_a_: "[[../Relation]]"
 dv_is_:
   same_as:
@@ -18,6 +22,8 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Class/is_a_.personal|is_a_.personal]]"
   - "[[/_secret/schema-org/Class/is_a_.secret|is_a_.secret]]"
 ---
+
+
 Use this Relation to specify a [[../Class]] for Any-[[Thing]] like this: 
 is_a_ = `=this.dv_is_a_` 
 

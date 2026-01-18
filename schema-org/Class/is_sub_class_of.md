@@ -7,6 +7,7 @@ aliases:
   - subClassOf
   - is_subclass_of
   - is_a_kind_of
+  - is a kind of
   - is_a
   - are_a_kind_of
   - rdfs~subClassOf
@@ -33,12 +34,14 @@ title: is_subclass_of
 type: Predi_Relation
 ---
 
+## [[is_sub_class_of]] 
+
 #is_/similar_to :: [[../../W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RDF~Relations/rdfs~subClassOf|rdfs~subClassOf]] 
 #has_/inverse  :: [[has_sub_classes]]
 #is_/better_than :: [[../Relation/is_similar_to|is_similar_to]] 
 
 Relates a subclass to its super-class. 
-Alternative, better readable Name: is_a_kind_of similar to `#is_a_` 
+Alternative, better readable Name: is_a_kind_of analogous to `#is_a_` for [[is_instance_of]]
 Could be implemented with dedicated #Tags, 
 but that would create a Tag-Proliferation. 
 

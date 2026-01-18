@@ -36,7 +36,7 @@ U_S_National_Archives_Identifier: 10642735
 #is_/same_as :: [[../WikiData/WD~Natural_disaster,8065]]
 
 In addition to [[Disaster/Natural_Disaster|Natural_Disaster]] there are Disasters caused by Humans: 
-- [[Military/Military_Operation/Combat/War|War]]s 
+- [[Military/Military_Operation/War|War]]s 
 - [[Politics/Political_Power/Structural_Abuse|Structural_Violence]] 
 - 
 

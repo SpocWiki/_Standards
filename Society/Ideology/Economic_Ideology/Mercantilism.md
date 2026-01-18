@@ -18,7 +18,7 @@ schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Wallerstein%27s%20
 
 # [[Mercantilism]] 
 
-#is_/better_than :: [[../../Military/Military_Operation/Combat/War|War]] 
+#is_/better_than :: [[../../Military/Military_Operation/War|War]] 
 #is_/worse_than :: [[Capitalism]]
 #has_/next_/item :: [[Capitalism|Capitalism]] 
 #is_/similar_to :: [[Zero-Sum_Game]] 

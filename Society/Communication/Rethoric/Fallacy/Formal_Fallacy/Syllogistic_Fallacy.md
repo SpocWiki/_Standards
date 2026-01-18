@@ -1,0 +1,15 @@
+
+People often make mistakes when reasoning syllogistically.[[16]](https://en.wikipedia.org/wiki/Syllogism#cite_note-16)
+
+For instance, from the premises some A are B, some B are C, people tend to come to a definitive conclusion that therefore some A are C.[[17]](https://en.wikipedia.org/wiki/Syllogism#cite_note-17)[[18]](https://en.wikipedia.org/wiki/Syllogism#cite_note-18) However, this does not follow according to the rules of classical logic. For instance, while some cats (A) are black things (B), and some black things (B) are televisions (C), it does not follow from the parameters that some cats (A) are televisions (C). This is because in the structure of the syllogism invoked (i.e. III-1) the middle term is not distributed in either the major premise or in the minor premise, a pattern called the "[fallacy of the undistributed middle](https://en.wikipedia.org/wiki/Fallacy_of_the_undistributed_middle "Fallacy of the undistributed middle")". Because of this, it can be hard to follow formal logic, and a closer eye is needed in order to ensure that an argument is, in fact, valid.[[19]](https://en.wikipedia.org/wiki/Syllogism#cite_note-19)
+
+Determining the validity of a syllogism involves determining the [distribution](https://en.wikipedia.org/wiki/Distribution_of_terms "Distribution of terms") of each term in each statement, meaning whether all members of that term are accounted for.
+
+In simple syllogistic patterns, the fallacies of invalid patterns are:
+
+- [Undistributed middle](https://en.wikipedia.org/wiki/Fallacy_of_the_undistributed_middle "Fallacy of the undistributed middle"): Neither of the premises accounts for all members of the middle term, which consequently fails to link the major and minor term.
+- [Illicit treatment of the major term](https://en.wikipedia.org/wiki/Illicit_major "Illicit major"): The conclusion implicates all members of the major term (P – meaning the proposition is negative); however, the major premise does not account for them all (i.e., P is either an affirmative predicate or a particular subject there).
+- [Illicit treatment of the minor term](https://en.wikipedia.org/wiki/Illicit_minor "Illicit minor"): Same as above, but for the minor term (S – meaning the proposition is universal) and minor premise (where S is either a particular subject or an affirmative predicate).
+- [Exclusive premises](https://en.wikipedia.org/wiki/Fallacy_of_exclusive_premises "Fallacy of exclusive premises"): Both premises are negative, meaning no link is established between the major and minor terms.
+- [Affirmative conclusion from a negative premise](https://en.wikipedia.org/wiki/Affirmative_conclusion_from_a_negative_premise "Affirmative conclusion from a negative premise"): If either premise is negative, the conclusion must also be.
+- [Negative conclusion from affirmative premises](https://en.wikipedia.org/wiki/Negative_conclusion_from_affirmative_premises "Negative conclusion from affirmative premises"): If both premises are affirmative, the conclusion must also be.

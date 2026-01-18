@@ -30,7 +30,7 @@ Colon_Classification: Y:4353
 
 > A **Famine** is a widespread scarcity of food 
 > caused by several possible factors, including, but not limited to 
-> [[../Military/Military_Operation/Combat/War|War]], [[Natural_Disaster]], [[../Economics/Industry/Agriculture/Crop|crop]] failure, widespread poverty, an economic catastrophe or government policies. 
+> [[../Military/Military_Operation/War|War]], [[Natural_Disaster]], [[../Economics/Industry/Agriculture/Crop|crop]] failure, widespread poverty, an economic catastrophe or government policies. 
 > 
 > This phenomenon is usually accompanied or followed by regional 
 > [[../../bio/Metabolism/Nutrition/Malnutrition|malnutrition]], starvation, epidemic, and increased mortality. 

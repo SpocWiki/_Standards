@@ -82,7 +82,6 @@ to the actual Class Definition harder.
 ## Relation describes that: 
 
 #has_/domain  :: [[Thing]] 
-
 (has_/name :: is_instance_of)
 (has_/range :: Class)
 

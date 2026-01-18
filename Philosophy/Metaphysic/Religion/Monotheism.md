@@ -38,7 +38,7 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/MONOTEIZM.html
 #is_/same_as :: [[WD~Monotheism,9159]] 
 
 Monotheistic Religions were the most fanatic in history. 
-They caused many [[../../../Society/Military/Military_Operation/Combat/War|War]]s, forced Conversions and [[Pogrom]]s. 
+They caused many [[../../../Society/Military/Military_Operation/War|War]]s, forced Conversions and [[Pogrom]]s. 
 These holy Wars and Persecutions caused many more deaths 
 than Christianity or Islam has Martyrs. 
 
