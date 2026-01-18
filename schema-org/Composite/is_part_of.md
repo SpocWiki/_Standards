@@ -104,7 +104,7 @@ Subtypes:
 - Physical: A pedal is part of a bike.
 - Abstract: Algebra is part of math
 
-Wikidata properties: [part of (P361)](https://www.wikidata.org/wiki/Property:P361 "Property:P361")/[has part(s) (P527)](https://www.wikidata.org/wiki/Property:P527 "Property:P527")
+Wikidata properties: [part of (P361)](https://www.wikidata.org/wiki/Property:P361 "Property:P361")/[has part(s) (P527)](https://www.wikidata.org/wiki/Property:P527 "Property:P527")
 
 #### Properties
 
@@ -115,9 +115,9 @@ Wikidata properties: [part of (P361)](https://www.wikidata.org/wiki/Property:P
 
 ### Member-bunch, Member/Collection, Membership
 
-Examples: If **Rock and Roll Hall of Fame**has partThe Beatles and **The Beatles**has partJohn Lennon, that doesn't mean **Rock and Roll Hall of Fame**has partJohn Lennon (it's not transitive).
+Examples: If **Rock and Roll Hall of Fame**has partThe Beatles and **The Beatles**has partJohn Lennon, that doesn't mean **Rock and Roll Hall of Fame**has partJohn Lennon (it's not transitive).
 
-Wikidata properties: [has part(s) (P527)](https://www.wikidata.org/wiki/Property:P527 "Property:P527")/[member of (P463)](https://www.wikidata.org/wiki/Property:P463 "Property:P463")
+Wikidata properties: [has part(s) (P527)](https://www.wikidata.org/wiki/Property:P527 "Property:P527")/[member of (P463)](https://www.wikidata.org/wiki/Property:P463 "Property:P463")
 
 #### Properties
 
@@ -130,7 +130,7 @@ Wikidata properties: [has part(s) (P527)](https://www.wikidata.org/wiki/Proper
 
 Example: "Bonnie" and "Clyde" are part of "Bonnie and Clyde"
 
-Wikidata properties: [has part(s) (P527)](https://www.wikidata.org/wiki/Property:P527 "Property:P527")/[member of (P463)](https://www.wikidata.org/wiki/Property:P463 "Property:P463")
+Wikidata properties: [has part(s) (P527)](https://www.wikidata.org/wiki/Property:P527 "Property:P527")/[member of (P463)](https://www.wikidata.org/wiki/Property:P463 "Property:P463")
 
 #### Properties
 
@@ -144,7 +144,7 @@ Examples: A windshield is made of glass. A cappuccino is partly milk. Water is p
 
 Considerations: Determining whether something follows a component-integral object or material-object relationship can subjective.
 
-Wikidata properties: [made from material (P186)](https://www.wikidata.org/wiki/Property:P186 "Property:P186")
+Wikidata properties: [made from material (P186)](https://www.wikidata.org/wiki/Property:P186 "Property:P186")
 
 #### Properties
 
@@ -157,7 +157,7 @@ Wikidata properties: [made from material (P186)](https://www.wikidata.org/wiki
 
 Example: A slice of pie is part of a pie.
 
-Wikidata properties: [part of (P361)](https://www.wikidata.org/wiki/Property:P361 "Property:P361")/[has part(s) (P527)](https://www.wikidata.org/wiki/Property:P527 "Property:P527")
+Wikidata properties: [part of (P361)](https://www.wikidata.org/wiki/Property:P361 "Property:P361")/[has part(s) (P527)](https://www.wikidata.org/wiki/Property:P527 "Property:P527")
 
 #### Properties
 
@@ -170,7 +170,7 @@ Wikidata properties: [part of (P361)](https://www.wikidata.org/wiki/Property:P
 
 Examples: San Francisco is part of California. A sand bar is part of a beach.
 
-Wikidata properties: [location (P276)](https://www.wikidata.org/wiki/Property:P276 "Property:P276")
+Wikidata properties: [location (P276)](https://www.wikidata.org/wiki/Property:P276 "Property:P276")
 
 #### Properties
 
@@ -183,7 +183,7 @@ Wikidata properties: [location (P276)](https://www.wikidata.org/wiki/Property:
 
 Examples: Paying is part of shopping. Dating is part of adolescence.
 
-Wikidata properties: [part of (P361)](https://www.wikidata.org/wiki/Property:P361 "Property:P361")/[has part(s) (P527)](https://www.wikidata.org/wiki/Property:P527 "Property:P527")
+Wikidata properties: [part of (P361)](https://www.wikidata.org/wiki/Property:P361 "Property:P361")/[has part(s) (P527)](https://www.wikidata.org/wiki/Property:P527 "Property:P527")
 
 #### Properties
 
@@ -199,19 +199,19 @@ These types of relationships may be confused to be part-whole relationships but 
 
 Example: If something is inside a room, that doesn't mean it's part of it.
 
-Wikidata properties: [contains (P4330)](https://www.wikidata.org/wiki/Property:P4330 "Property:P4330")/[container (P9813)](https://www.wikidata.org/wiki/Property:P9813 "Property:P9813"), [enclosure (P3158)](https://www.wikidata.org/wiki/Property:P3158 "Property:P3158")
+Wikidata properties: [contains (P4330)](https://www.wikidata.org/wiki/Property:P4330 "Property:P4330")/[container (P9813)](https://www.wikidata.org/wiki/Property:P9813 "Property:P9813"), [enclosure (P3158)](https://www.wikidata.org/wiki/Property:P3158 "Property:P3158")
 
 ### Connections and branches
 
 Example: Just because the Mississippi River connects to the Gulf of Mexico and shares a body of water with it does not mean it is a part of it.
 
-Wikidata properties: [connects with (P2789)](https://www.wikidata.org/wiki/Property:P2789 "Property:P2789"), [tributary (P974)](https://www.wikidata.org/wiki/Property:P974 "Property:P974")
+Wikidata properties: [connects with (P2789)](https://www.wikidata.org/wiki/Property:P2789 "Property:P2789"), [tributary (P974)](https://www.wikidata.org/wiki/Property:P974 "Property:P974")
 
 ### Classification inclusion, subclassOf
 
-Example: A book is part of the set of all books, but that doesn't mean it is part of a "book". We use [instance of (P31)](https://www.wikidata.org/wiki/Property:P31 "Property:P31") instead.
+Example: A book is part of the set of all books, but that doesn't mean it is part of a "book". We use [instance of (P31)](https://www.wikidata.org/wiki/Property:P31 "Property:P31") instead.
 
-Wikidata property: [subclass of (P279)](https://www.wikidata.org/wiki/Property:P279 "Property:P279"), [instance of (P31)](https://www.wikidata.org/wiki/Property:P31 "Property:P31")
+Wikidata property: [subclass of (P279)](https://www.wikidata.org/wiki/Property:P279 "Property:P279"), [instance of (P31)](https://www.wikidata.org/wiki/Property:P31 "Property:P31")
 
 
 ## Confidential Links & Embeds: 

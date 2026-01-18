@@ -37,7 +37,7 @@ vertical migration is seen in *Pterotrachea.*
 
 The Pterotracheidae are widely regarded as the most highly derived of
 the heteropod families. Features supporting this contention include: (1)
-enlargement, elongation and narrowing (to a  basically cylindrical
+enlargement, elongation and narrowing (to a  basically cylindrical
 shape) of the body in the anterior-posterior axis, resulting in a
 streamlined body with enhanced swimming abilities, (2) shedding of the
 larval shell at metamorphosis, with the result that buoyancy problems

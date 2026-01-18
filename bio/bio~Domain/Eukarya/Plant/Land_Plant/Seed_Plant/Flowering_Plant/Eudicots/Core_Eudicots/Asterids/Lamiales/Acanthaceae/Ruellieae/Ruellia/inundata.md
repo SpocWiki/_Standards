@@ -14,7 +14,7 @@ title: Ruellia inundata clade
 
 Species in the *Ruellia inundata* clade exhibit a disjunct distribution:
 some occur in Mexico and Central America, while others occur in Brazil
-and Ecuador.  All inhabit forests or habitats that experience
+and Ecuador.  All inhabit forests or habitats that experience
 seasonality, i. e., a dry season. Some species in this clade are
 characterized by having clavate fruits with external, maroon splotches.
 Many have a very pungent, vegetative odor. This clade is well supported

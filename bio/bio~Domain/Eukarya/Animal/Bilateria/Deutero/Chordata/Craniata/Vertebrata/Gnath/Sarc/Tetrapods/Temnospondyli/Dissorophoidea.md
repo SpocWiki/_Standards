@@ -28,13 +28,13 @@ Dissorophoids comprise a diverse group of small and medium-sized
 temnospondyl stegocephalians that occupied a number of ecological niches
 (both aquatic and terrestrial) and played an important role in
 vertebrate communities for at least 80 million years (Carroll, 1964;
-Holmes, 2000).  Some of the earliest known dissorophoid fossils occur in
+Holmes, 2000).  Some of the earliest known dissorophoid fossils occur in
 Pennsylvanian-aged sediments (325-299 million years ago) of the Czech
 Republic and the Midwestern United States. They are represented by the
-tiny, paedomorphic Branchiosauridae and Micromelerpetontidae.  These
+tiny, paedomorphic Branchiosauridae and Micromelerpetontidae.  These
 forms were virtually ubiquitous in aquatic freshwater vertebrate
 communities of the Pennsylvanian and Early Permian in Europe and North
-America.  Both groups had aquatic larvae and adult branchiosaurids seem
+America.  Both groups had aquatic larvae and adult branchiosaurids seem
 to have retained an ossified hyobranchial skeleton into maturity, along
 with external gill filaments and gill rakers (Holmes, 2000). These taxa
 resided in a niche similar to that which is occupied by some[ambystomatid salamanders](../Amphibia/Caudata/Ambystomatidae.md)) (e.g., the
@@ -43,7 +43,7 @@ Mexican axolotl) today.
 ![ ](Dissorophoidea/globe2copy.jpg)
 
 Figure 1. Paleobiogeographic distribution of Permo-Carboniferous and
-Triassic dissorophoids based on selected fossil localities.  (1) Utah,
+Triassic dissorophoids based on selected fossil localities.  (1) Utah,
 USA (Lower Permian); (2) Rio Arriba County, north-central New Mexico,
 USA (Lower Permian); (3) Badger Creek quarry, central Colorado, USA
 (Upper Pennsylvanian); (4) Baylor County localities, Texas, USA (Lower
@@ -62,20 +62,20 @@ Pennsylvanian to the Early Triassic. It was composed of miniaturized
 temnospondyls showing predominantly terrestrial adaptations based on the
 development and degree of ossification of the appendicular skeleton and
 histological evidence in the long bones of some specimens (Bolt, 1977,
-Laurin et al., 2004).  While these adaptations are most evident in
+Laurin et al., 2004).  While these adaptations are most evident in
 adults, amphibamids still relied on water for reproduction and had
 aquatic larvae with external gills, closely resembling branchiosaurs
-(Milner, 1982).  Amphibamidae was the longest-lived dissorophoid taxon,
+(Milner, 1982).  Amphibamidae was the longest-lived dissorophoid taxon,
 persisting for at least 60 million years.
 
 The latest dissorophoid clades that appear in the fossil record are the
 trematopids (Late Pennsylvanian to Early Permian) and the armored
-dissorophids (Early to Late Permian).  The trematopids are typified by a
+dissorophids (Early to Late Permian).  The trematopids are typified by a
 posteriorly elongated or keyhole-shaped external naris (as in
-*Ecolsonia*) and large 'caniniform' maxillary teeth.  The most widely
+*Ecolsonia*) and large 'caniniform' maxillary teeth.  The most widely
 recognized feature of the Dissorophidae, on the other hand, is the
 development of an armored carapace covering the dorsal surface of the
-body.  Together, these two taxa display more progressive trends in
+body.  Together, these two taxa display more progressive trends in
 terrestriality, larger adult body sizes, and an otic notch that is often
 closed off posteriorly.
 
@@ -92,7 +92,7 @@ bars). The otic notch, believed by some authors to be associated with
 the reception of airborne sounds (Bolt, 1974; Holmes, 2000), is also an
 important feature in dissorophoids. However, the role of the otic notch
 for hearing air-borne sounds has recently been disputed (Laurin, 1998;
-Laurin and Soler-Gijon, 2006).  Among Permo-Carboniferous temnospondyls,
+Laurin and Soler-Gijon, 2006).  Among Permo-Carboniferous temnospondyls,
 the otic notch is most deeply developed in this group, particularly in
 the trematopids and dissorophids where it is quite long
 anteroposteriorly and sometimes closed off posteriorly (fig. 2C,D).
@@ -100,10 +100,10 @@ anteroposteriorly and sometimes closed off posteriorly (fig. 2C,D).
 ![ ](Dissorophoidea/figure311.jpg)
 
 Figure 2. Evolutionary trends in the development of the otic notch based
-on selected temnospondyls.  Posterior region of the skull (not to scale)
-is shown in left lateral view.  (A) edopoid *Dendrerpeton*; (B)
+on selected temnospondyls.  Posterior region of the skull (not to scale)
+is shown in left lateral view.  (A) edopoid *Dendrerpeton*; (B)
 amphibamid dissorophoid *Eoscopus*; (C) dissorophid *Dissorophus*; (D)
-cacopine dissorophid *Cacops*.  (modified from Holmes et al., 1998). ©
+cacopine dissorophid *Cacops*.  (modified from Holmes et al., 1998). ©
 [Adam Huttenlocker](http://www.geocities.com/paleo_biology/).
 
 A complete list of synapomorphies supporting the monophyly of
@@ -161,7 +161,7 @@ Amphibamidae as the monophyletic sister taxon to Branchiosauridae or to
 Branchiosauridae + Crown-Lissamphibia (including modern amphibians),
 with Trematopidae and Dissorophidae serving as successive outgroups.
 Their phylogenetic hypothesis suggests a basal position for trematopids
-within Dissorophoidea.  Other recent analyses (Anderson, in press;
+within Dissorophoidea.  Other recent analyses (Anderson, in press;
 Anderson et al., 2004) have indicated similar familial-level
 relationships, suggesting close affinities between amphibamids,
 'branchiosaurs,' and at least some lissamphibians, and placing

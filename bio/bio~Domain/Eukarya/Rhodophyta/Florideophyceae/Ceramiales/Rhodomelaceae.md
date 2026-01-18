@@ -67,7 +67,7 @@ by the formation of pericentral cells in an alternating fashion.
    ![ ](Rhodomelaceae/pericentral_comp_drawing.gif))\
     Fig. 2. Sequential transverse section views of axial cell (A)
     divisions to form pericentral cells (labeled 1 thru 4) in an
-    alternating fashion.  The developmental sequence goes from youngest
+    alternating fashion.  The developmental sequence goes from youngest
     segments on the left to older segments on the right. Drawing depicts
     a species with 4 pericentral cells. © [D. Wilson     Freshwater](mailto:freshwaterw@uncw.edu)
 
@@ -105,7 +105,7 @@ by the formation of pericentral cells in an alternating fashion.
     Plate-like spermatangia of *Acanthophora spicifera*. B.
     Cylindro-conical spermatangia of *Polysiphonia* sp. © 2005 [Brooke     Stuercke](mailto:bs8253@uncw.edu)
 
--    Tetrasporangia are generally borne on pericentral cells (Fig. 7)\
+-    Tetrasporangia are generally borne on pericentral cells (Fig. 7)\
 
 
 ## Title Illustrations

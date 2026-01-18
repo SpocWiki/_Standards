@@ -55,7 +55,7 @@ A Chiroteuthis \...
 
 -   with protective membranes of club in three sections; proximal
     section much shorter than others.
--   with circular ocular photophores in two series. 
+-   with circular ocular photophores in two series. 
 
 ### Characteristics
 

@@ -26,8 +26,8 @@ title: Sigmodon
 
 The rodents of Sigmodontini are commonly referred to as the cotton rats;
 a name that stems from their habit of using cotton fibers to make
-nests.  The tribe is comprised of a single genus, *Sigmodon*, which
-consists of twelve recognized species and many subspecies.  The
+nests.  The tribe is comprised of a single genus, *Sigmodon*, which
+consists of twelve recognized species and many subspecies.  The
 Sigmodontini are found throughout both North and South America with a
 majority residing in Central America and only a few species living in
 the United States or South America.
@@ -36,11 +36,11 @@ While the sigmodontini are normally considered minor agricultural pests,
 several species have become associated with viral diseases. *Sigmodon
 hispidus* is a known vector of Hantavirus, specifically the Sin Nombre
 and Black Creek viruses, in the southern United States. Sin Nombre was
-first seen in the Four Corners Region of the United States in 1993.  It
+first seen in the Four Corners Region of the United States in 1993.  It
 was found to cause Hantavirus Pulmonary Syndrome, a flu-like illness
 which rapidly progresses into cardiovascular shock in roughly three
 days. *Sigmodon alstoni* has become a vector for Arenovirus,
-specifically Guanarito Virus, in South America.  Gaunarito Virus is
+specifically Guanarito Virus, in South America.  Gaunarito Virus is
 responsible for Venezuelan Hemorrhagic Fever, a disease associated with
 high fever leading to hemorrhagic organ failure with a 30% mortality
 rate. (Strauss and Strauss, 2002)
@@ -56,7 +56,7 @@ Sigmodon are generally large sized rodents which average greater than
 small ears. The tail is usually sparsely covered by hair and shorter
 than the body length (Voss, 1992). *Sigmodon* *fulviventer* is the
 largest of the Sigmodontini and reaches a mass of 220 grams (LaRoche
-and Yahnke, 2004). There is little morphological difference among the
+and Yahnke, 2004). There is little morphological difference among the
 species of the Sigmodontini.
 
 The Sigmodontini range from northern South America to central United
@@ -79,13 +79,13 @@ molar. © [Phil Myers, University of Michigan Animal Diversity Web](http://anima
 *Sigmodon hispidus* is the type species (Say and Ord, 1825). A large
 volume of work has been conducted using the North American species;
 however, little phylogenetic work has utilized the South American
-species.  Voss (1992) provides a great deal of systematic work based on
+species.  Voss (1992) provides a great deal of systematic work based on
 morphology. Early morphological descriptions of the Sigmodontini was
 provided by Say and Ord (1825); however, these descriptions are based on
 only three samples of *Sigmodon hispidus* collected in Florida. The
 Sigmodontini have small ears, short whiskers, and short tails. They have
 unwebbed hind feet with the first and fifth digits shorter than the
-middle three. Their molars are hypsodont with conspicuous lophodont
+middle three. Their molars are hypsodont with conspicuous lophodont
 (high crowned with ridges perpendicular to the jaw). These molars are
 best suited for grinding the stems, roots, and shots that compose the
 bulk of their diet. The cusps and crests are arranged in a sigmoidal
@@ -93,7 +93,7 @@ array (S-shaped), and the mesoloph is absent (Say and Ord, 1825).
 
 Morphological differences among the Sigmodontini are rather scarce.
 *Sigmodon alstoni* is perhaps the most divergent of the group and most
-easily identified.  It is distinguishibale due to its smaller size,
+easily identified.  It is distinguishibale due to its smaller size,
 deeply grooved incisors, rounded cusps on upper molars, and mandibular
 molars with only three roots (Voss 1992). Morphological characters among
 other species of *Sigmodon* vary only slightly.
@@ -110,7 +110,7 @@ an independent lineage or Reithrodontini by Smith and Patton (1999),
 Jansa and Weksler (2004), and Steppan et al. (2004).
 
 Little work has been done to determine the phylogenetic relationships
-among the species of *Sigmodon*.  Oftentimes, *Sigmodon hispidus* and
+among the species of *Sigmodon*.  Oftentimes, *Sigmodon hispidus* and
 *Sigmodon alstoni* appear in larger sample sets; however, only one major
 study has been conducted with focus on the Sigmodontini. Peppers et al.
 (2002) utilized cytochrome b sequences, and the follow-up study (Carroll

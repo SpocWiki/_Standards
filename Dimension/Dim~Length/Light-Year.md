@@ -35,7 +35,7 @@ unit_symbol:
   - ly
   - ljusår
   - al
-  - a. ll.
+  - a. ll.
   - Lj
   - l.y.
   - lj

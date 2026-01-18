@@ -203,20 +203,20 @@ D_U_N_S_number: 108024050
 > [Wikipedia](https://en.wikipedia.org/wiki/AT&T%20Corporation) 
 
 
-In 1880 the management of American Bell had created what would become **AT&T Long Lines**. 
+In 1880 the management of American Bell had created what would become **AT&T Long Lines**. 
 The project was the first of its kind to create a nationwide long-distance network with a commercially viable cost-structure. 
 The project was formally incorporated in New York 
-as a separate company named **American Telephone and Telegraph Company** on 1885-03-03. 
+as a separate company named **American Telephone and Telegraph Company** on 1885-03-03. 
 
-Originating in New York City, its long-distance telephone network reached [Chicago, Illinois](https://en.wikipedia.org/wiki/Chicago "Chicago"), in 1892, 
+Originating in New York City, its long-distance telephone network reached [Chicago, Illinois](https://en.wikipedia.org/wiki/Chicago "Chicago"), in 1892, 
 with its multitudes of local exchanges continuing to stretch further and further yearly, 
 eventually creating a continent-wide telephone system. 
 On 1899-12-30, the assets of American Bell were transferred 
-into its subsidiary American Telephone and Telegraph Company (formerly _AT&T Long Lines_); 
-this was because [Massachusetts](https://en.wikipedia.org/wiki/Massachusetts "Massachusetts") corporate laws were very restrictive, and limited capitalization to ten million dollars, 
+into its subsidiary American Telephone and Telegraph Company (formerly _AT&T Long Lines_); 
+this was because [Massachusetts](https://en.wikipedia.org/wiki/Massachusetts "Massachusetts") corporate laws were very restrictive, and limited capitalization to ten million dollars, 
 forestalling American Bell's further growth. 
 With this assets transfer at the very end of the 19th century, 
-AT&T became the parent of both American Bell and the [Bell System](https://en.wikipedia.org/wiki/Bell_System "Bell System").
+AT&T became the parent of both American Bell and the [Bell System](https://en.wikipedia.org/wiki/Bell_System "Bell System").
 
 
 ## Confidential Links & Embeds: 

@@ -52,7 +52,7 @@ Unit :: #Unit/SI/K
 Temperature is a macroscopic, statistical Energy Measurement. 
 Therefore Temperature can be expressed as mean Energy: 
 - either for a macroscopic [[Unit~Mole]] using the [R(Gas-Constant)]  
-- or for a single Particle using the [[Boltzmann-constant]] 1.380649×10−23 J⋅K−1
+- or for a single Particle using the [[Boltzmann-constant]] 1.380649×10−23 J⋅K−1
 
 # #has_/text_of_/abstract 
 

@@ -35,30 +35,30 @@ pauropods
 ## Introduction
 
 Pauropods are small (less than 5 mm), pale, [terrestrial]
-arthropods that are rarely encountered by the casual observer. 
+arthropods that are rarely encountered by the casual observer. 
 Superficially they may resemble insects such as
 [collembolans](tree?group=Collembola){target="_self"}
 or
 [psocopterans](tree?group=Psocoptera){target="_self"},
 but adult pauropods have 11 (or sometimes 12) body segments and 9 (or
-sometimes 10 or 11) pairs of legs.  They also possess unique forked
+sometimes 10 or 11) pairs of legs.  They also possess unique forked
 antennae (see figure below) and a distinctive locomotory pattern
 characterized by rapid burst of movement and frequent abrupt changes in
-direction.  Most pauropods lack eyes and a tracheal system.
+direction.  Most pauropods lack eyes and a tracheal system.
 ![](Pauropoda/Pauropus_huxleyi.gif)){width="441"}
 
 Habitus of a typical pauropod, *Pauropus huxleyi*. Note the unique
 forked antennae. There are eleven body segments, and nine of the
 segments feature a single pairs of legs. From above the apparent number
 of segments is smaller since a few of the segments are partially fused
-along the back.  Drawing after Lubbock from Dr. H. G. Bronns Klassen und
+along the back.  Drawing after Lubbock from Dr. H. G. Bronns Klassen und
 Ordnungen des Tierreichs. Fünfter Band. II. Abteilung. Gliederfüssler:
 Arthropoda. 3. Buch: Symphyla und Pauropoda. Akademische
 Verlagsgesellschaft m. b. H., Leipzig. 1934.
 
 Pauropods can be found in soil, decaying wood, leaf litter, and other
 moist places, where they feed on fungi and [decaying organic
-matter].  Over 500 species of pauropods have been described so
+matter].  Over 500 species of pauropods have been described so
 far.\
 
 ## Phylogeny 

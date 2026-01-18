@@ -722,24 +722,24 @@ Population in 1000s as of @2024
 
 ## Government 
 
-[Direct democracy](https://en.wikipedia.org/wiki/Direct_democracy "Direct democracy") and [federalism](https://en.wikipedia.org/wiki/Federalism "Federalism") are hallmarks of the Swiss political system. 
-Three main bodies govern on the federal level:[[86]](https://en.wikipedia.org/wiki/Switzerland#cite_note-94) the [bicameral](https://en.wikipedia.org/wiki/Bicameralism "Bicameralism") parliament (legislative), the [Federal Council](https://en.wikipedia.org/wiki/Swiss_Federal_Council "Swiss Federal Council") (executive) and the [Federal Court](https://en.wikipedia.org/wiki/Federal_Supreme_Court_of_Switzerland "Federal Supreme Court of Switzerland") (judicial).
-the [Council of States](https://en.wikipedia.org/wiki/Swiss_Council_of_States "Swiss Council of States") which has 46 representatives (two from each canton and one from each [half-canton](https://en.wikipedia.org/wiki/Half-canton "Half-canton")) who are elected under a system determined by each canton, and the [National Council](https://en.wikipedia.org/wiki/National_Council_of_Switzerland "National Council of Switzerland"), which consists of 200 members who are elected under a system of [proportional representation](https://en.wikipedia.org/wiki/Proportional_representation "Proportional representation"), reflecting each canton's population.
+[Direct democracy](https://en.wikipedia.org/wiki/Direct_democracy "Direct democracy") and [federalism](https://en.wikipedia.org/wiki/Federalism "Federalism") are hallmarks of the Swiss political system. 
+Three main bodies govern on the federal level:[[86]](https://en.wikipedia.org/wiki/Switzerland#cite_note-94) the [bicameral](https://en.wikipedia.org/wiki/Bicameralism "Bicameralism") parliament (legislative), the [Federal Council](https://en.wikipedia.org/wiki/Swiss_Federal_Council "Swiss Federal Council") (executive) and the [Federal Court](https://en.wikipedia.org/wiki/Federal_Supreme_Court_of_Switzerland "Federal Supreme Court of Switzerland") (judicial).
+the [Council of States](https://en.wikipedia.org/wiki/Swiss_Council_of_States "Swiss Council of States") which has 46 representatives (two from each canton and one from each [half-canton](https://en.wikipedia.org/wiki/Half-canton "Half-canton")) who are elected under a system determined by each canton, and the [National Council](https://en.wikipedia.org/wiki/National_Council_of_Switzerland "National Council of Switzerland"), which consists of 200 members who are elected under a system of [proportional representation](https://en.wikipedia.org/wiki/Proportional_representation "Proportional representation"), reflecting each canton's population.
 
 ## Military 
 
 Switzerland has no Navy. 
 The Swiss militia system stipulates that soldiers keep their army-issued equipment, 
-including [fully automatic](https://en.wikipedia.org/wiki/Automatic_firearm "Automatic firearm") personal weapons, at home. Women can serve voluntarily. 
-Men usually receive military conscription orders for training at the age of 18. 
+including [fully automatic](https://en.wikipedia.org/wiki/Automatic_firearm "Automatic firearm") personal weapons, at home. Women can serve voluntarily. 
+Men usually receive military conscription orders for training at the age of 18. 
 About two-thirds of young Swiss are found suitable for service; 
 for the others, various forms of alternative service are available.
 
-[Gun politics in Switzerland](https://en.wikipedia.org/wiki/Gun_politics_in_Switzerland "Gun politics in Switzerland") are unique in Europe in that 
-2–3.5 million guns are in the hands of civilians, giving the nation 
-an estimate of 28–41 guns per 100 people. 
-As per the Small Arms Survey, only 324,484 guns are owned by the military. 
-Only 143,372 are in the hands of soldiers. However, ammunition is no longer issued. 
+[Gun politics in Switzerland](https://en.wikipedia.org/wiki/Gun_politics_in_Switzerland "Gun politics in Switzerland") are unique in Europe in that 
+2–3.5 million guns are in the hands of civilians, giving the nation 
+an estimate of 28–41 guns per 100 people. 
+As per the Small Arms Survey, only 324,484 guns are owned by the military. 
+Only 143,372 are in the hands of soldiers. However, ammunition is no longer issued. 
 
 
 ## Maps and Flags 

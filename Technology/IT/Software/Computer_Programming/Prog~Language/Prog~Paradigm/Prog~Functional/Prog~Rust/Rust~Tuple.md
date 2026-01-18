@@ -10,7 +10,7 @@ Unlike [[Rust~struct]]s their Members are numbered only.
 ### Declaration
 ```rust
 enum Message {
-    ChangeColor(u8, u8, u8),
+    ChangeColor(u8, u8, u8),
 }
 ```
 

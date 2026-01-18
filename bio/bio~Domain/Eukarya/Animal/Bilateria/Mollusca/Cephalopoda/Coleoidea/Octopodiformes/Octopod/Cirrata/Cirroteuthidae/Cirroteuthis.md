@@ -48,10 +48,10 @@ the genus.
 
 #### Diagnosis
 
- A cirroteuthid \...
+ A cirroteuthid \...
 
 -   with shell having very wide saddle and oval wings.\
--   with normal, lens-bearing eyes. 
+-   with normal, lens-bearing eyes. 
 
 ### Characteristics
 

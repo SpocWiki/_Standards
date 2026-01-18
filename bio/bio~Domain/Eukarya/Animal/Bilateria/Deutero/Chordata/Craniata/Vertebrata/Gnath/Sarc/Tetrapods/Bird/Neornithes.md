@@ -10,7 +10,7 @@ title: Neornithes
 
  ![ ](Neornithes/Rhea_americana0104.jpg)  ![](Neornithes/Anas_rubripes.jpg)  ![ ](Neornithes/1023Heliodoxa_jacula.jpg) 
 
-Neornithes includes all extant birds.  
+Neornithes includes all extant birds.  
 
 ## #has_/text_of_/abstract 
 

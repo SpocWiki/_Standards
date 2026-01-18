@@ -73,13 +73,13 @@ dv_is_same_as:
 > [Wikipedia](https://en.wikipedia.org/wiki/Peat) 
 
 
-Most modern peat [bogs](https://en.wikipedia.org/wiki/Bog "Bog") formed 12,000 years ago in high latitudes 
-after the glaciers retreated at the end of the [last ice age](https://en.wikipedia.org/wiki/Last_glacial_period "Last glacial period"). 
-Peat usually accumulates slowly at the rate of about a millimetre per year. 
+Most modern peat [bogs](https://en.wikipedia.org/wiki/Bog "Bog") formed 12,000 years ago in high latitudes 
+after the glaciers retreated at the end of the [last ice age](https://en.wikipedia.org/wiki/Last_glacial_period "Last glacial period"). 
+Peat usually accumulates slowly at the rate of about a millimetre per year. 
 The estimated carbon content is 
-415 gigatonnes (457 billion short tons) (northern peatlands),
-50 Gt (55 billion short tons) ([tropical peatlands](https://en.wikipedia.org/wiki/Tropical_peat "Tropical peat")) and 
-15 Gt (17 billion short tons) (South America). 
+415 gigatonnes (457 billion short tons) (northern peatlands),
+50 Gt (55 billion short tons) ([tropical peatlands](https://en.wikipedia.org/wiki/Tropical_peat "Tropical peat")) and 
+15 Gt (17 billion short tons) (South America). 
 
 
 ## Confidential Links & Embeds: 

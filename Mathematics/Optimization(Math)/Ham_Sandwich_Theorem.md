@@ -23,7 +23,7 @@ aliases:
 
 ## Pancake Theorem Proof 
 
-In two dimensions, the theorem is known as the **pancake theorem** to refer to 
+In two dimensions, the theorem is known as the **pancake theorem** to refer to 
 the flat nature of the two objects to be bisected by a line, e.g. Pancake and Topping. 
 
 ### Round Pancake 

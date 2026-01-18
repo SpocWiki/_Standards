@@ -47,7 +47,7 @@ P8189: 987007565835205100
 
 # [[Spy]] 🕵️ 
 
-A **[secret agent](https://en.wikipedia.org/wiki/Secret_agent "Secret agent")** is a covert agent engaged in espionage. 
+A **[secret agent](https://en.wikipedia.org/wiki/Secret_agent "Secret agent")** is a covert agent engaged in espionage. 
 
 
 ## Confidential Links & Embeds: 

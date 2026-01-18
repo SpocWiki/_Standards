@@ -40,16 +40,16 @@ A mastigoteuthid \...
 4.  Measurements
       ---------------------
       Total length                   61 mm to tip of arm IV   45 mm to tip of tentacle
-      Mantle length (without fins)   25 mm                     
-      Mantle length (with fins)\*    46 mm                     
-      Head width                     17 mm                     
-      Head length                    7 mm                      
+      Mantle length (without fins)   25 mm                     
+      Mantle length (with fins)\*    46 mm                     
+      Head width                     17 mm                     
+      Head length                    7 mm                      
       Fin length                     25 mm                    11 mm\*
       Fin width                      17 mm                    7 mm
-      Arm I, length                  3 mm                      
-      Arm II, length                 5 mm                      
-      Arm III, length                4 mm                      
-      Arm IV, length                 14 mm                     
+      Arm I, length                  3 mm                      
+      Arm II, length                 5 mm                      
+      Arm III, length                4 mm                      
+      Arm IV, length                 14 mm                     
       Tail                           \< 1 mm\*                9 mm
       Tentacle length                \--                      45 mm
       ---------------------

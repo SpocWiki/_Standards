@@ -220,10 +220,10 @@ Taphrinomycotina (Eriksson 2004; =Archiascomycetes Nishida and Sugiyama
 Taphrinomycotina (Nishida and Sugiyama 1994) and the paraphyletic
 resolution of these taxa in some analyses (Lutzoni et al 2004),
 Taphrinamycotina is not recognized in some classifications (Ericksson
-2005).  More recent analyses, however, that included multiple protein
+2005).  More recent analyses, however, that included multiple protein
 coding genes and RNA genes recovered a monophyletic Taphrinomycotina
 with greater support (James et al 2006, Liu et al 2006, Spatafora et al
-2006). 
+2006). 
 
 The Taphrinomycotina includes yeast species (*Pneumocystis*,
 *Schizosaccharomyces*), dimorphic taxa (*Taphrina* spp.) and a
@@ -243,9 +243,9 @@ and *Pencillium chrysogenum* (Pezizomycotina, Eurotiomycetes).
 By comparing nucleic acid sequences from 50 genes, the timing of
 Ascomycota evolution has been estimated, although results produced a
 wide geological time span depending on calibrations points used (Taylor
-and Berbee 2006).  The Taphrinomycotina, Saccharomycotina and
+and Berbee 2006).  The Taphrinomycotina, Saccharomycotina and
 Pezizomycotina were likely established in the early Devonian, a bit more
-than 400 million years ago (mya).  Some estimates, however, suggest a
+than 400 million years ago (mya).  Some estimates, however, suggest a
 much earlier Ascomycota origin of ca. 1000 mya (Hedges et al 2001,
 Taylor and Berbee 2006). Fossils of early Ascomycota are not easy to
 recognize and the utility of some of them as exemplars of extant

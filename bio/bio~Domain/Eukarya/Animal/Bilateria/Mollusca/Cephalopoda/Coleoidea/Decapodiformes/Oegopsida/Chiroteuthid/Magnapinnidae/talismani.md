@@ -81,7 +81,7 @@ captured and has not survived well in preservation. The poor condition
 of the holotype which has lost most species-level characters makes
 comparisons with other species difficult.
 
- 
+ 
 
 ### Nomenclature
 

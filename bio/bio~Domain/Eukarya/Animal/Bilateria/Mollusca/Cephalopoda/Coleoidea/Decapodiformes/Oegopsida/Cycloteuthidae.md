@@ -83,7 +83,7 @@ An oegopsid \...
 #### Comments
 
 The genera are easily separated by body and fin shape (see title
-illustrations).  In addition the presence of a large visceral photophore
+illustrations).  In addition the presence of a large visceral photophore
 only in ***Cycloteuthis*** allows genera to be separated when badly
 damaged.\
 

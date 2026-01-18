@@ -12,41 +12,41 @@
 
 
 ```cs
-public void NullableMembers() {
-	var c = new c();
-	var cInt = new c<int>();
+public void NullableMembers() {
+	var c = new c();
+	var cInt = new c<int>();
  
 	cInt.nullableInt.ShouldBe(0);
 	c.nullableInt.ShouldBeNull();
  
-	var rc = c.nullableInt = null;
-	var rcInt = cInt.nullableInt = default; //null; does not compile!
+	var rc = c.nullableInt = null;
+	var rcInt = cInt.nullableInt = default; //null; does not compile!
  
-	var cResult = c.TryGetValue();
-	var cIntResult = cInt.TryGetValue();
+	var cResult = c.TryGetValue();
+	var cIntResult = cInt.TryGetValue();
  
 }
  
-class c<T> {
-	public T? nullableInt = default;// = null; does not compile!
+class c<T> {
+	public T? nullableInt = default;// = null; does not compile!
  
-	public T? TryGetValue() {
-		if (nullableInt is null) {
-			return default; //never the case!
-		} else {
-			return nullableInt;
+	public T? TryGetValue() {
+		if (nullableInt is null) {
+			return default; //never the case!
+		} else {
+			return nullableInt;
 		}
 	}
 }
  
-class c {
-	public int? nullableInt = null;
+class c {
+	public int? nullableInt = null;
  
-	public int? TryGetValue() {
-		if (nullableInt is null) {
-			return null;
-		} else {
-			return nullableInt;
+	public int? TryGetValue() {
+		if (nullableInt is null) {
+			return null;
+		} else {
+			return nullableInt;
 		}
 	}
 }

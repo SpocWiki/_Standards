@@ -63,7 +63,7 @@ thus not surprising that Neotropical acanths remain incompletely known,
 and we expect many more species to be described from this region. As a
 quantitative indication of the pace of new discovery in Acanthaceae,
 Index Kewensis reports 81 new species described in the genus *Justicia*
-alone between 1986 and 1995.  We expect the species count eventually to
+alone between 1986 and 1995.  We expect the species count eventually to
 exceed 4000.\
 
 ### Characteristics
@@ -82,7 +82,7 @@ lacking.
 
 ![ ](Acanthaceae/Asystasiagangetica.jpg)\
 
-Retinacula of the fruit of Asystasia gangetica.  © 2006 [Gerald Carr](http://www.botany.hawaii.edu/Faculty/Carr/acanth.htm)
+Retinacula of the fruit of Asystasia gangetica.  © 2006 [Gerald Carr](http://www.botany.hawaii.edu/Faculty/Carr/acanth.htm)
 
 Within Core Acanthaceae, Acantheae are well marked as monophyletic by
 morphological and molecular synapomorphies. Its sister group which we
@@ -102,7 +102,7 @@ pantropical and subtropical black mangroves, *Avicennia*; Old World
 Elytraria, Staurogyne, a handful of other small genera). Each of these
 four groups has its own distinctive fruit type. Unfortunately, we have
 yet to identify a synapomorphy for all Acanthaceae that is as notable
-and easy to recognize as fruit type is for the core group.  Compared to
+and easy to recognize as fruit type is for the core group.  Compared to
 most other Lamiales, Acanthaceae have relatively few ovules.\
 
 Beyond fruits of Acanthaceae, diversity in other traits is spectacular.
@@ -116,7 +116,7 @@ that often eclipse the corollas in showiness (e.g., *Pachystachys,
 Megaskepasma*; see images below). However, bracts of plants of many
 other species are diminutive, green and clearly not involved in
 attracting pollinators. Many species have extremely showy flowers and a
-number are cultivated for their beauty (e.g.,  *Justicia brandegeana*
+number are cultivated for their beauty (e.g.,  *Justicia brandegeana*
 and many other species belonging to this large genus*, Aphelandra
 squarrosa*; you will see examples below); however, many others have
 diminutive green bracts and very small flowers. Across the family,
@@ -136,7 +136,7 @@ Carr) is cultivated because of its showy flowers.\
 Structural diversity continues below the visible level in Acanthaceae.
 In terms of number and type of apertures and, especially in terms of
 ultrasculpturing, pollen grains of Acanthaceae are without doubt as
-diverse as any other family-level lineage regardless of size.  
+diverse as any other family-level lineage regardless of size.  
 
 ![ ](Acanthaceae/Acantheae/Crossandra/crossandra.jpg)
 
@@ -153,21 +153,21 @@ transitions via both dysploidy and polyploidy.
 
 There is at present little disagreement among students of Acanthaceae
 regarding membership in the family and delineation of the main clades as
-presented in the phylogeny above.  There is, however, quite a bit of
-work to be done to resolve relationships at a number of levels.  For
+presented in the phylogeny above.  There is, however, quite a bit of
+work to be done to resolve relationships at a number of levels.  For
 example, the results of Schwarzbach & McDade (2001) placed *Avicennia*
 sister to Thunbergioideae but without strong support from molecular data
 for this relationship and with no identifiable morphological
-synapomorphies supporting the relationship.  Similarly, the placement of
+synapomorphies supporting the relationship.  Similarly, the placement of
 *Neuracanthus* among the lineages of core Acanthaceae (i. e., the
 lineages with retinacula) have yet to be fully resolved.
 
 There also remains a great deal of work to be done on relationships
-within lineages.  At present (August 2006), we present intra-lineage
+within lineages.  At present (August 2006), we present intra-lineage
 phylogenetic information for Acantheae, for Isoglossinae and the
-Tetramerium Lineage within Justicieae, and for Ruellieae.  Our
+Tetramerium Lineage within Justicieae, and for Ruellieae.  Our
 continuing work and that of our colleagues will gradually add knowledge
-of relationships within the other lineages.     
+of relationships within the other lineages.     
 
 
 ## Title Illustrations

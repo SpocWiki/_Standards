@@ -83,17 +83,17 @@ and return a small SubSet that you can test externally.
 
 | rules for overriding methods in some languages                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Parameter type | Return type |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ----------- |
-| [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language) "C Sharp (programming language)") (before C# 9)                                                                                                                                                                                                                                                                                                                                                                              | Invariant      | Invariant   |
-| [C++](https://en.wikipedia.org/wiki/C%2B%2B "C++") (since 1998), [Java](https://en.wikipedia.org/wiki/Java_(programming_language) "Java (programming language)") (since [J2SE 5.0](https://en.wikipedia.org/wiki/Java_Platform,_Standard_Edition "Java Platform, Standard Edition")), [D](https://en.wikipedia.org/wiki/D_(programming_language) "D (programming language)"), [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language) "C Sharp (programming language)") (since C# 9) | Invariant      | Covariant   |
-| C#, [Scala](https://en.wikipedia.org/wiki/Scala_(programming_language) "Scala (programming language)"), [Sather](https://en.wikipedia.org/wiki/Sather "Sather")                                                                                                                                                                                                                                                                                                                                | Contravariant  | Covariant   |
+| [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language) "C Sharp (programming language)") (before C# 9)                                                                                                                                                                                                                                                                                                                                                                              | Invariant      | Invariant   |
+| [C++](https://en.wikipedia.org/wiki/C%2B%2B "C++") (since 1998), [Java](https://en.wikipedia.org/wiki/Java_(programming_language) "Java (programming language)") (since [J2SE 5.0](https://en.wikipedia.org/wiki/Java_Platform,_Standard_Edition "Java Platform, Standard Edition")), [D](https://en.wikipedia.org/wiki/D_(programming_language) "D (programming language)"), [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language) "C Sharp (programming language)") (since C# 9) | Invariant      | Covariant   |
+| C#, [Scala](https://en.wikipedia.org/wiki/Scala_(programming_language) "Scala (programming language)"), [Sather](https://en.wikipedia.org/wiki/Sather "Sather")                                                                                                                                                                                                                                                                                                                                | Contravariant  | Covariant   |
 | [Eiffel](https://en.wikipedia.org/wiki/Eiffel_(programming_language) "Eiffel (programming language)")                                                                                                                                                                                                                                                                                                                                                                                          | Covariant      | Covariant   |
 
 
 ## [[Prog~Eiffel|Prog~Eiffel]] CoVariance 
 The cat shelter illustrates a common phenomenon: 
-it is _a kind of_ animal shelter but has _additional restrictions_, 
+it is _a kind of_ animal shelter but has _additional restrictions_, 
 and it seems reasonable to use inheritance and restricted parameter types to model this. 
-In proposing this use of inheritance, the Eiffel designers reject the [Liskov substitution principle](https://en.wikipedia.org/wiki/Liskov_substitution_principle "Liskov substitution principle"), 
+In proposing this use of inheritance, the Eiffel designers reject the [Liskov substitution principle](https://en.wikipedia.org/wiki/Liskov_substitution_principle "Liskov substitution principle"), 
 which states that objects of subclasses should always be less restricted than objects of their superclass.
 
 Giuseppe Castagna observed that in a typed language with multiple dispatch, 
@@ -108,29 +108,29 @@ Using the previous terminology, types used for runtime method selection are cova
 while types not used for runtime method selection of the method are contravariant. 
 
 Conventional single-dispatch languages like Java also obey this rule: 
-only one argument is used for method selection (the receiver object, passed along to a method as the hidden argument `this`), 
-and indeed the type of `this` is more specialized inside overriding methods than in the superclass.
+only one argument is used for method selection (the receiver object, passed along to a method as the hidden argument `this`), 
+and indeed the type of `this` is more specialized inside overriding methods than in the superclass.
 
 Castagna suggests that examples where covariant parameter types are superior 
 (particularly, binary methods) should be handled using [[multiple-dispatch]]; which is naturally covariant. 
 However, most programming languages do not support multiple dispatch natively.  
 
-In [[OO-Lang/Prog~Java|Prog~Java]] the type `List<? extends Animal>` acts as an interface type 
-containing only the covariant methods of `List<T>`, 
-but unlike in C# the implementer of `List<T>` did not have to define it ahead of time.
+In [[OO-Lang/Prog~Java|Prog~Java]] the type `List<? extends Animal>` acts as an interface type 
+containing only the covariant methods of `List<T>`, 
+but unlike in C# the implementer of `List<T>` did not have to define it ahead of time.
 
 In a declaration-site language, libraries must either expose less variance, or define more interfaces.
 In a call-site language like Java, 
 
 ## Origins [[../../../../Knowledge/Math/Category_Theory.internal|Category_Theory.internal]]] 
 
-These terms come from the notion of [covariant and contravariant functors](https://en.wikipedia.org/wiki/Covariance_and_contravariance_of_functors "Covariance and contravariance of functors") in [category theory](https://en.wikipedia.org/wiki/Category_theory "Category theory"). 
-Consider the category 𝐶 whose objects are types 
+These terms come from the notion of [covariant and contravariant functors](https://en.wikipedia.org/wiki/Covariance_and_contravariance_of_functors "Covariance and contravariance of functors") in [category theory](https://en.wikipedia.org/wiki/Category_theory "Category theory"). 
+Consider the category 𝐶 whose objects are types 
 and whose morphisms represent the subtype relationship ≤. 
 (This is an example of how any partially ordered set can be considered as a category.) 
 
-Then for example the function type constructor takes two types _p_ and _r_ 
-and creates a new type _p_ → _r_; so it takes objects in 𝐶² to objects in 𝐶. 
+Then for example the function type constructor takes two types _p_ and _r_ 
+and creates a new type _p_ → _r_; so it takes objects in 𝐶² to objects in 𝐶. 
 By the subtyping rule for function types this operation reverses ≤ for the first parameter and preserves it for the second, 
 so it is a contravariant functor in the first parameter and a covariant functor in the second.
 

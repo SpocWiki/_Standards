@@ -61,7 +61,7 @@ has_name_ar_latn = `=this.dv_has_name_ar_latn`
 has_name_ar_arab = `=this.dv_has_name_ar_arab`
 #is_/same_as :: [[../../WikiData/WD~North,659|WD~North,659]] 
 
-**Ash Shamaliyah** (from Arabic الشمالية, 'northern') or **Shamal** ('north'), or variants, may refer to:
+**Ash Shamaliyah** (from Arabic الشمالية, 'northern') or **Shamal** ('north'), or variants, may refer to:
 
 - [Northern state, Sudan](https://en.wikipedia.org/wiki/Northern_state,_Sudan "Northern state, Sudan"), or Ash Shamaliyah
 - [Northern Governorate](https://en.wikipedia.org/wiki/Northern_Governorate "Northern Governorate"), Bahrain, or Ash Shamaliyah

@@ -112,16 +112,16 @@ because the String is mutable.
 ### Ownership Examples 
 
 ```rust
-    let mut x = 100;
+    let mut x = 100;
 
-    let y = &mut x;
-    *y += 100;
-    //y runs out of scope here, so x is available again!
+    let y = &mut x;
+    *y += 100;
+    //y runs out of scope here, so x is available again!
 
-    let z = &mut x;
-    *z += 1000;
-    // z releases x here
-    assert_eq!(x, 1200);
+    let z = &mut x;
+    *z += 1000;
+    // z releases x here
+    assert_eq!(x, 1200);
 ```
 
 

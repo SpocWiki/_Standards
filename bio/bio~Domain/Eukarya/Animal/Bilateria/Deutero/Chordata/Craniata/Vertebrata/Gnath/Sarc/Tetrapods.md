@@ -316,7 +316,7 @@ crown-group (Gauthier et al., 1989). A crown-group is a clade that
 includes the last common ancestor of two or more extant taxa, and all
 its descendants. In this case, Tetrapoda was defined as the clade that
 includes the last common ancestor of lissamphibians and amniotes, and
-all its descendants. \
+all its descendants. \
 
 According to Gauthier et al. (1989), Tetrapoda included most known
 fossil terrestrial vertebrates because temnospondyls were thought to be

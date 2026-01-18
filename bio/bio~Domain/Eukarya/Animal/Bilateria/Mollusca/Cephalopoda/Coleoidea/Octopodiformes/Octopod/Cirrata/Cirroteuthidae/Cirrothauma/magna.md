@@ -37,7 +37,7 @@ Containing group: *[Cirrothauma](../Cirrothauma.md)*
 
 ## Introduction
 
- 
+ 
 
 ***C. magna*** is a large (up to 1200 mm TL) but fragile deep-sea
 cirrate that is known from 4 specimens captured from the Atlantic,
@@ -47,7 +47,7 @@ Diagnosis
 
 A ***Cirrothauma*** \...
 
--   with normal eyes bearing lenses. 
+-   with normal eyes bearing lenses. 
 
 ### Characteristics
 

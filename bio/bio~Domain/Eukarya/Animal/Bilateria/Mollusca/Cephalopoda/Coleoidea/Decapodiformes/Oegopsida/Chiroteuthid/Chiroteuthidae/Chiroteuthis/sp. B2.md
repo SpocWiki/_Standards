@@ -53,7 +53,7 @@ dentition.
 
 A ***Chiroteuthis*** \...
 
--   with club protective  membranes divided into three divisions of
+-   with club protective  membranes divided into three divisions of
     roughly the same size.
 -   with nonglobular arm suckers globular bearing pointed teeth.\
 
@@ -71,7 +71,7 @@ A ***Chiroteuthis*** \...
         length.
     3.  Protective membranes
         1.  Membranes in three distinctive sets of roughtly comparable
-            length;  intermediate set with fused trabeculae.\
+            length;  intermediate set with fused trabeculae.\
 3.  Photophores
     1.  Eyeball - Two series of circular organs.
     2.  Viscera: two large organs.\

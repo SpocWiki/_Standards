@@ -68,7 +68,7 @@ A loliginid \...
 
 ### Characteristics
 
- 
+ 
 
 1.  Arms
     1.  Hectocotylus
@@ -102,7 +102,7 @@ A loliginid \...
 
 #### Comments:
 
-***Alloteuthis*** is morphologically very similar to ***Loligo***. 
+***Alloteuthis*** is morphologically very similar to ***Loligo***. 
 However, molecular analyses by Anderson (2000) indicate that
 ***Alloteuthis*** should be considered a separate genus. This supports
 earlier inferences by Naef (1921-23) and Alexeyev (1989) that the
@@ -148,8 +148,8 @@ which hooks replace some of the suckers on the arms or tentacles, and
 Except for geographic distribution, ***Loligo*** species are unified in
 their lack of the characters distinctive of some other genera
 (photophores, spermatophore with long cement body, large eggs,
-hectocotylus with ventral crest, etc.). The  most distinct of the three
-species is ***L. forbesi***.  The southern African species, ***L.
+hectocotylus with ventral crest, etc.). The  most distinct of the three
+species is ***L. forbesi***.  The southern African species, ***L.
 reynaudii***, is very similar to ***L. vulgaris*** and , based on
 electrophoresis, Augustyn and Grant (1988) concluded that ***L.
 reynaudii*** should be considered a subspecies of ***L. vulgaris***.

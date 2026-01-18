@@ -68,7 +68,7 @@ A Sepiolida \...
         **Figure**. **Left** - Ventral view of the funnel
         locking-apparatus of ***Sepioloidea pacifica***, 12 mm ML, 43°S,
         167°E. **Right** - Ventral view of the funnel base with the
-        mantle  reflected backward showing the strong fusion of the
+        mantle  reflected backward showing the strong fusion of the
         funnel locking-apparatus (arrow) of ***Sepiadarium*** sp.
         Photographs by R. Young.
 

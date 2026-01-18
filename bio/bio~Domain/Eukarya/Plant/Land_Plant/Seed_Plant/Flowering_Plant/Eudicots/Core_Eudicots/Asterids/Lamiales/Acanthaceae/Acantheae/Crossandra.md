@@ -60,12 +60,12 @@ title: Crossandra
 *Crossandra* is a genus of 52 species that occur in Africa, Madagascar,
 Arabia and the Indian subcontinent. A number of species of this genus,
 notably *C*. *infundibuliformis*, are cultivated owing to their
-beautiful and often brightly colored flowers. \
+beautiful and often brightly colored flowers. \
 
 Like other members of the One-lipped Corolla Lineage (i.e., as indicated
 in the phylogeny of Acantheae, all lineages from *Crossandra* through
 the *Acanthus* clade), the corollas of plants of *Crossandra* have all
-five lobes of the corolla directed ventrally.  The tube is of the same
+five lobes of the corolla directed ventrally.  The tube is of the same
 length dorsally and ventrally (which distinguishes these plants from the
 crown clade of Acantheae \[i.e., *Cynarospermum* through *Acanthus*
 clade\]) and the stamens are almost always included within the tube
@@ -73,7 +73,7 @@ clade\]) and the stamens are almost always included within the tube
 One-Lipped Corolla Lineage except *Crossandrella*). Vollesen (1990)
 suggested that the 2-veined and 2-toothed dorsal calyx lobe is a
 diagnostic morphological character for at least the African species of
-*Crossandra*.  However, this character is sometimes hard to detect and
+*Crossandra*.  However, this character is sometimes hard to detect and
 is apparently lacking or dimorphic in some Malagasy species (Vollesen
 1997).\
 

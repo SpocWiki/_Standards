@@ -1,5 +1,5 @@
 
-[[../../../Science/Physics/Measurement/Accuracy]] = [[Trueness]] AND [[../../../Science/Physics/Measurement/Precision]] 
+[[../../../Science/Physics/Measurement/Accuracy]] = [[Trueness]] AND [[../../../Science/Physics/Measurement/Precision]] 
 
 The International Organization for Standardization (ISO) defines trueness as, 
 "the closeness of agreement between the arithmetic mean of a large number of test results and the true or accepted reference value."

@@ -99,29 +99,29 @@ And if we changed the computer like for an upgrade
 then we had to rewrite all the code. 
 And everyone agreed that this was wasteful.
 
-What we needed was a common platform on which we can develop software. 
+What we needed was a common platform on which we can develop software. 
 Capable of handling different hardware.
 But also not too expensive. 
-Perhaps collectively managed and developed 
-by a team of volunteers around the world? 
+Perhaps collectively managed and developed 
+by a team of volunteers around the world? 
 
 The creation and emergence of the operating system Unix 
-was one of those special moments in technology history. 
+was one of those special moments in technology history. 
 
 ## Beginnings
 
 In 1965, a few scientists at Bell Labs joined with peers from MIT and General Electric 
-on a project called "Multiplexed Information and Computing Service", or [[Multics]].
+on a project called "Multiplexed Information and Computing Service", or [[Multics]].
 
 The idea was to create this general-purpose utility 
 for sharing time on a computer system. 
 
-Computers were super expensive, 
-so time-sharing operating systems were developed for multiple users 
-to efficiently share computer resources.
+Computers were super expensive, 
+so time-sharing operating systems were developed for multiple users 
+to efficiently share computer resources.
 
 Over time these time-sharing systems 
-matured into a communications tool 
+matured into a communications tool 
 connecting multiple users on the time share, 
 with user public profiles and everything.
 

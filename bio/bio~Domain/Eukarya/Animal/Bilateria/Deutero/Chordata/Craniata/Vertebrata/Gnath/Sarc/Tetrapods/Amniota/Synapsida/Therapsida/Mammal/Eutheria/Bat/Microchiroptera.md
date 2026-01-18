@@ -46,7 +46,7 @@ hunting. These bats occur on every continent but Antartica. Every food
 preference that is found in bats is represented in Microchiroptera,
 although the majority are predominatly insectivorous. Several notable
 microchiropteran bats include *Craseonycteris* (Bumblebee Bat), which is
-one of the smallest mammals in the world, *Thyroptera * (Disc-winged
+one of the smallest mammals in the world, *Thyroptera * (Disc-winged
 Bats), which attach to leaves using suction cuplike discs on the foot
 and thumb, and Desmodontinae, which are the only blood-feeding bats.
 
@@ -124,7 +124,7 @@ material collected to date, it is not known whether they also occured in
 fossils which are closely related to Microchiroptera. Thus, these
 characteristics can only indirectly support microchiropteran monophyly.
 
- 
+ 
 
 ### Discussion of Phylogenetic Relationships
 
@@ -240,7 +240,7 @@ and molossids, now appears to be closely related to this group (Pierson,
 1986; Kirsch et al., In press) and is therfore here included in the
 Noctilionoidea.
 
- 
+ 
 
 ### Geographic Distribution
 

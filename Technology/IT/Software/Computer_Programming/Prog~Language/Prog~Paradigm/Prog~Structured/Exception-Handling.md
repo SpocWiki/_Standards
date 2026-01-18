@@ -119,9 +119,9 @@ and often Developers fall back to catching all checked Exceptions
 
 Checked Exceptions were introduced in CLU by [[Liskov,Barbara]]. 
 This use of exception specifications was 
-- included in [C++98](https://en.wikipedia.org/wiki/C%2B%2B98 "C++98") and [C++03](https://en.wikipedia.org/wiki/C%2B%2B03 "C++03"), 
-- [deprecated](https://en.wikipedia.org/wiki/Deprecated "Deprecated") in the 2012 C++ language standard ([C++11](https://en.wikipedia.org/wiki/C%2B%2B11 "C++11")), and 
-- removed from the language in [C++17](https://en.wikipedia.org/wiki/C%2B%2B17 "C++17").
+- included in [C++98](https://en.wikipedia.org/wiki/C%2B%2B98 "C++98") and [C++03](https://en.wikipedia.org/wiki/C%2B%2B03 "C++03"), 
+- [deprecated](https://en.wikipedia.org/wiki/Deprecated "Deprecated") in the 2012 C++ language standard ([C++11](https://en.wikipedia.org/wiki/C%2B%2B11 "C++11")), and 
+- removed from the language in [C++17](https://en.wikipedia.org/wiki/C%2B%2B17 "C++17").
 
 ## Exception_Control-Flow 
 

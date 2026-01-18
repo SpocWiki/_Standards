@@ -112,9 +112,9 @@ basiradialis muscles are present. The hyoglossus muscle is large and has
 a complete anterior section and posteriorly oriented fibers in the
 posterior section. The suprapeduncularis muscle is weakly developed.
 
-##### Epibranchial Number 
+##### Epibranchial Number 
 
-Embryos (or larvae) have four epibranchials. 
+Embryos (or larvae) have four epibranchials. 
 
 ##### Tail Autotomy
 
@@ -143,7 +143,7 @@ strong negative allometry with respect to body weight.
 
 The diploid number of chromosomes is 28.
 
-##### Development 
+##### Development 
 
 All but 3 species (*Desmognathus aeneus, D. wrighti* and *Phaeognathus
 hubrichti*) have gilled, aquatic larvae.\

@@ -2,7 +2,7 @@
 aliases:
   - Visigothic Kingdom
   - Visigothic Spain
-  - Kingdom of the Goths 
+  - Kingdom of the Goths 
   - Regnum Gothorum
   - 0476-Visigothic_Kingdom+0718
   - 0476-Visigothic Kingdom+0718

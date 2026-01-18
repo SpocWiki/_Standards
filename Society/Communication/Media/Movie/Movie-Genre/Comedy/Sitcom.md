@@ -27,7 +27,7 @@ IMDb_keyword:
 >
 > [Wikipedia](https://de.wikipedia.org/wiki/Sitcom)
 
-Ein Kennzeichen der Sitcom ist die ständige, schnelle Abfolge von Gags, [Pointen](https://de.wikipedia.org/wiki/Pointe "Pointe") und komischen Momenten, 
+Ein Kennzeichen der Sitcom ist die ständige, schnelle Abfolge von Gags, [Pointen](https://de.wikipedia.org/wiki/Pointe "Pointe") und komischen Momenten, 
 allerdings im Rahmen einer dramatischen Handlung, 
 womit sich die Sitcom von Comedyshows unterscheidet, 
 bei denen Sketche lediglich aneinandergereiht werden.

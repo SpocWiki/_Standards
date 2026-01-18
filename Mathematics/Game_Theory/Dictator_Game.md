@@ -29,7 +29,7 @@ While the ultimatum game is informative, it can be considered an over simplified
 
 ## Application
 
-The initial game was developed by [Daniel Kahneman](https://en.wikipedia.org/wiki/Daniel_Kahneman "Daniel Kahneman") in the 1980s and involved three parties, with one active and two passive participants. However, it was only in 1994 that a paper by [Forsythe](https://en.wikipedia.org/wiki/Robert_E._Forsythe "Robert E. Forsythe") et al. simplified this to the contemporary form of this game with one decision-maker (the dictator) and one passive participant (the recipient).
+The initial game was developed by [Daniel Kahneman](https://en.wikipedia.org/wiki/Daniel_Kahneman "Daniel Kahneman") in the 1980s and involved three parties, with one active and two passive participants. However, it was only in 1994 that a paper by [Forsythe](https://en.wikipedia.org/wiki/Robert_E._Forsythe "Robert E. Forsythe") et al. simplified this to the contemporary form of this game with one decision-maker (the dictator) and one passive participant (the recipient).
 
 
 ## Confidential Links & Embeds: 

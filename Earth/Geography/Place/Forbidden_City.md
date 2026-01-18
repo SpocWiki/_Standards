@@ -91,20 +91,20 @@ official_website:
 ![[../../../assets/Forbidden_City.png]] 
 By Tommy Chen (<a href="//commons.wikimedia.org/wiki/User:Sumple" class="mw-redirect" title="User:Sumple">Sumple</a>) - Drawn by <a href="https://en.wikipedia.org/wiki/User:Sumple" class="extiw" title="en:User:Sumple">Sumple</a>., <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=2595509">Link</a> 
 – – – Approximate dividing line between Inner (north) and Outer (south) Courts. 
-A. [Meridian Gate](https://en.wikipedia.org/wiki/Meridian_Gate "Meridian Gate") 
-B. [Gate of Divine Might](https://en.wikipedia.org/wiki/Gate_of_Divine_Might "Gate of Divine Might") 
+A. [Meridian Gate](https://en.wikipedia.org/wiki/Meridian_Gate "Meridian Gate") 
+B. [Gate of Divine Might](https://en.wikipedia.org/wiki/Gate_of_Divine_Might "Gate of Divine Might") 
 C. West Glorious Gate 
 D. East Glorious Gate 
 E. Corner towers 
-F. [Gate of Supreme Harmony](https://en.wikipedia.org/wiki/Gate_of_Supreme_Harmony "Gate of Supreme Harmony") 
-G. [Hall of Supreme Harmony](https://en.wikipedia.org/wiki/Hall_of_Supreme_Harmony "Hall of Supreme Harmony") 
+F. [Gate of Supreme Harmony](https://en.wikipedia.org/wiki/Gate_of_Supreme_Harmony "Gate of Supreme Harmony") 
+G. [Hall of Supreme Harmony](https://en.wikipedia.org/wiki/Hall_of_Supreme_Harmony "Hall of Supreme Harmony") 
 H. Hall of Military Eminence 
-J. [Hall of Literary Glory](https://en.wikipedia.org/wiki/Hall_of_Literary_Brilliance "Hall of Literary Brilliance") 
+J. [Hall of Literary Glory](https://en.wikipedia.org/wiki/Hall_of_Literary_Brilliance "Hall of Literary Brilliance") 
 K. Southern Three Places 
-L. [Palace of Heavenly Purity](https://en.wikipedia.org/wiki/Palace_of_Heavenly_Purity "Palace of Heavenly Purity") 
+L. [Palace of Heavenly Purity](https://en.wikipedia.org/wiki/Palace_of_Heavenly_Purity "Palace of Heavenly Purity") 
 M. Imperial Garden 
-N. [Hall of Mental Cultivation](https://en.wikipedia.org/wiki/Hall_of_Mental_Cultivation "Hall of Mental Cultivation") 
-O. [Palace of Tranquil Longevity](https://en.wikipedia.org/wiki/Palace_of_Tranquil_Longevity "Palace of Tranquil Longevity")
+N. [Hall of Mental Cultivation](https://en.wikipedia.org/wiki/Hall_of_Mental_Cultivation "Hall of Mental Cultivation") 
+O. [Palace of Tranquil Longevity](https://en.wikipedia.org/wiki/Palace_of_Tranquil_Longevity "Palace of Tranquil Longevity")
 
 #is_/same_as :: [[../../../WikiData/WD~Forbidden_City,80290|WD~Forbidden_City,80290]] 
 

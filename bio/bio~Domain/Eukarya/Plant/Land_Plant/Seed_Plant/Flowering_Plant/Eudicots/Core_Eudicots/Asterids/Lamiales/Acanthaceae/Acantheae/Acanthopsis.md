@@ -54,11 +54,11 @@ title: Acanthopsis
 [Lucinda A. McDade and Carrie Kiel]() 
 
 The small southern African genus *Acanthopsis* is monophyletic in
-phylogenetic studies to date (McDade et al. 2005).  These plants have
+phylogenetic studies to date (McDade et al. 2005).  These plants have
 unusual bracts with 3-5 apical spines that are themselves spinescent and
-branched hygroscopic trichomes on the seeds.  Although phylogenetic
+branched hygroscopic trichomes on the seeds.  Although phylogenetic
 results based on DNA data place *Acanthopsis* sister to *Acanthus*, we
-do not know of morphological data that support this relationship. 
+do not know of morphological data that support this relationship. 
 Indeed, the fact that *Acanthopsis* and *Blepharis* have unusual
 branched hygroscopic trichomes on their seeds (the seeds of *Acanthus*
 are glabrous or puberulous) would suggest a closer relationship between

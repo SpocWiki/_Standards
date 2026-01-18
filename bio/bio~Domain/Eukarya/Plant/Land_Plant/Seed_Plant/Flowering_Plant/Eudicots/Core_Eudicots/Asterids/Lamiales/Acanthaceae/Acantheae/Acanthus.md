@@ -65,43 +65,43 @@ title: Acanthus Clade
 
 *Acanthus* L. is an Old World genus of about 20 species; most species
 occur in Africa but a few range into southern Europe and one extends
-through south Asia and Malesia to Australasia.   Studies to date
+through south Asia and Malesia to Australasia.   Studies to date
 indicate that the genus is monophyletic with the inclusion of a single
-species of *Blepharis* (see below).  Excepting this single *Blepharis*,
+species of *Blepharis* (see below).  Excepting this single *Blepharis*,
 *Acanthus* is apparently unique among members of the one-lipped clade
 (i.e., *Crossandra* through *Acanthus* clade in the phylogeny for
 Acantheae) in having glabrous or rarely puberulous seeds.
 
 These are, to our knowledge, the only architecturally important members
-of Acanthaceae.  *Acanthus* leaves have a long history of use as a
+of Acanthaceae.  *Acanthus* leaves have a long history of use as a
 decorative motif in architecture of the Meditteranean area (for
-examples: [Acanthus Gallery](http://www.acanth.com/gallery/acanthus02.php)).  A number of
+examples: [Acanthus Gallery](http://www.acanth.com/gallery/acanthus02.php)).  A number of
 species of *Acanthus* are also widely cultivated, in particular *A*.
 *mollis*.
 
 Perhaps the most unusual species of the genus is *A*. *ilicifolius*, the
-"mangrove thistle."  This plant shares many of the peculiar adaptations
+"mangrove thistle."  This plant shares many of the peculiar adaptations
 that characterize mangroves (e.g., special glands to secrete salt,
 special roots that emerge above the water surface to permit gas exchange
-even during high tide; see Tomlinson 1986).  It occurs in coastal
-habitats from south Asia to Australia.  In this context, it is
+even during high tide; see Tomlinson 1986).  It occurs in coastal
+habitats from south Asia to Australia.  In this context, it is
 interesting that the mangrove genus *Avicennia* has been shown to be
-part of Acanthaceae s.l.:  phylogenetic results indicate that
+part of Acanthaceae s.l.:  phylogenetic results indicate that
 *Avicennia* and *A*. *ilicifolius* are not closely related such that the
 mangrove habit has evolved twice in acanths.
 
 We refer to this group as the *Acanthus* clade rather than simply
 *Acanthus* because, as noted above, it includes one species of
-*Blepharis*, *B*. *dhofarensis*.  Inclusion of this species with
+*Blepharis*, *B*. *dhofarensis*.  Inclusion of this species with
 *Acanthus* is both very strongly supported by our molecular data (see
-McDade et al. 2005) and also unexpected based on morphology.  To verify
+McDade et al. 2005) and also unexpected based on morphology.  To verify
 our results, we obtained DNA from a different specimen of this species
 and obtained essentially identical DNA sequence data for it, which
-enabled us to rule out contamination.  Vollesen (2000) has noted that
+enabled us to rule out contamination.  Vollesen (2000) has noted that
 this species is remarkable in *Blepharis* in a number of characters
-including habit, and size of the anthers, capsules, and seeds.  However,
+including habit, and size of the anthers, capsules, and seeds.  However,
 these plants have a number of the synapomorphies of *Blepharis*, notably
-dimorphic filaments and hygroscopic trichomes on seeds.  This enigmatic
+dimorphic filaments and hygroscopic trichomes on seeds.  This enigmatic
 result deserves further study.
 
 ### References

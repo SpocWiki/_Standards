@@ -73,7 +73,7 @@ oligobessa***. Photographs by R. Young.
 The species are compared in the following table.
 
   ------------------------------------ -------- ---------
-                                               Arm IV suckers, number   Arm sucker dentition, arm I-III    Antitragus                            Fin length     Club shape            Club keel   Distribution
+                                               Arm IV suckers, number   Arm sucker dentition, arm I-III    Antitragus                            Fin length     Club shape            Club keel   Distribution
   ***P. danae***                               12-13                    7-9 distal truncated teeth         Double. Lobes nearly equal            52% ML         Symmetrical           No          Trop. Pacific
   ***P. exopthalmica*** = ***P. levimana***?   10                       ?                                  ?                                     width=36% ML   Symmetrical           No          S. Indian
   ***P. levimana***                            6-8                      Broad truncate teeth all around    Double. Lobes unequal                 40% ML         Long, symmetrical     No          N. Atlantic, Trop. Pacific

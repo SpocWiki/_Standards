@@ -59,13 +59,13 @@ title: Streptosiphon hirsutus
 *Streptosiphon* is a genus of a single species that occurs in Tanzania.
 This plant is unique among Acantheae in having corollas that are
 resupinate (i.e., upside down) via twisting of the tube through 180
-degrees.   Although our molecular data place *Streptosiphon* as part of
-the *Schlerochiton* clade, other characters suggest other affinities. 
+degrees.   Although our molecular data place *Streptosiphon* as part of
+the *Schlerochiton* clade, other characters suggest other affinities. 
 For example, like *Crossandrella* and some species of *Crossandra*,
 these plants have remarkable pollen that is shaped rather like a
-Toblerone chocolate bar:  triangular in polar view, elongate in
+Toblerone chocolate bar:  triangular in polar view, elongate in
 equatorial view, and with open areas (caveae) at the \'points\' of the
-triangle.  Our molecular data, as well as other morphological
+triangle.  Our molecular data, as well as other morphological
 characters, strongly suggest that this pollen type has evolved several
 times in Acantheae.
 

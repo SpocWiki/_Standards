@@ -73,7 +73,7 @@ has_name_ar_arab = `=this.dv_has_name_ar_arab`
 
 #is_/same_as :: [[../../WikiData/WD~East,684|WD~East,684]] 
 
-**Al Sharqiyah**, **Ash Sharqiyah** (Arabic: الشرقية, from Arabic شرقية) or its variants, 
+**Al Sharqiyah**, **Ash Sharqiyah** (Arabic: الشرقية, from Arabic شرقية) or its variants, 
 meaning 'eastern' or loosely 'oriental'.
 
 ## #has_/text_of_/abstract 

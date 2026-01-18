@@ -103,7 +103,7 @@ groups.
     Cetotheriidae s.l., Bouetel and Muizon (2006) isolate a monophyletic
     Cetotheriidae s.s., supported by a series of cranial characters and
     including six genera (*Cetotherium*, *Herpetocetus*, *Metopocetus*,
-    *Mixocetus*, *Nannocetus*, and *Piscobalaena*). 
+    *Mixocetus*, *Nannocetus*, and *Piscobalaena*). 
 
 ## Phylogeny 
 

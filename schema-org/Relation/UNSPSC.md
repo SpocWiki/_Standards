@@ -30,8 +30,8 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/UNSPSC.secret|UNSPSC.secret]]"
 ---
 
-The **United Nations Standard Products and Services Code® (UNSPSC®)**, managed by GS1 US® for the UN Development Programme (UNDP), is an open, global, multi-sector standard for efficient, accurate classification of products and services.
-[UNSPSC](https://www.unspsc.org/) is aTaxonomy propagated by the UN 
+The **United Nations Standard Products and Services Code® (UNSPSC®)**, managed by GS1 US® for the UN Development Programme (UNDP), is an open, global, multi-sector standard for efficient, accurate classification of products and services.
+[UNSPSC](https://www.unspsc.org/) is aTaxonomy propagated by the UN 
 There are no correlations among the structure and/or content of UNSPSC and GPC, 
 and despite GS1 managing both, they does not provide mapping tables between the Codesets.
 

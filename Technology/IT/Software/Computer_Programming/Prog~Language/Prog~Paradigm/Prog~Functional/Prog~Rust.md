@@ -30,7 +30,7 @@ Arch_Linux_package:
   - rust-musl
   - rust
 Docker_Hub_repository: library/rust
-PyPI_trove_classifier: 'Programming Language :: Rust'
+PyPI_trove_classifier: 'Programming Language :: Rust'
 Commons_category: Rust (programming language)
 ArchWiki_article:
   - Rust_(Português)

@@ -55,13 +55,13 @@ title: Ruellieae
 [Erin Tripp]()
 
 The Ruellieae lineage consists of some 750+ species (ca. 50 genera) that
-are distributed throughout the tropics, New and Old World, and also
-extend into temperate latitudes.  It includes several diverse genera
+are distributed throughout the tropics, New and Old World, and also
+extend into temperate latitudes.  It includes several diverse genera
 such as *Ruellia, Strobilanthes, Sanchezia, Hygrophila,* and
-*Dyschoriste* among others.  Pollination syndromes and floral
-morphologies are wildly diverse in the group.  The genus *Ruellia* alone
+*Dyschoriste* among others.  Pollination syndromes and floral
+morphologies are wildly diverse in the group.  The genus *Ruellia* alone
 is known to be pollinated by bees, hummingbirds, sunbirds, hawkmoths,
-butterflies, and bats.  Cleistogamy, or the production of closed (thus
+butterflies, and bats.  Cleistogamy, or the production of closed (thus
 obligately self-fertilizing) flowers, is also widespread in Ruellieae.
 
 ### Characteristics

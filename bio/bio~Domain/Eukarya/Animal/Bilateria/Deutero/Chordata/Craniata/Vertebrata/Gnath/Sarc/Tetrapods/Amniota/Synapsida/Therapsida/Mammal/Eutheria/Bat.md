@@ -298,7 +298,7 @@ sister-taxa to extant microchiropteran bats.
 
 ![Chiroptera Distribution](Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Terrestrial/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Chiroptera/chiroptera.gif)
 
-The geographical distribution of bats is shown in red.  Distribution
+The geographical distribution of bats is shown in red.  Distribution
 from Hill and Smith (1984).
 
 ## Phylogeny 

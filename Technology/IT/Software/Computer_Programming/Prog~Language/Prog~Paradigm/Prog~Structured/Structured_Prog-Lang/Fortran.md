@@ -82,7 +82,7 @@ name_in_kana: フォートラン
 > for scientific and engineering applications, 
 > and subsequently came to dominate scientific computing
 > . 
-> In late 1953, [John W. Backus](https://en.wikipedia.org/wiki/John_Backus "John Backus") submitted a proposal to his superiors at [IBM](https://en.wikipedia.org/wiki/IBM "IBM") to develop a more practical alternative to [assembly language](https://en.wikipedia.org/wiki/Assembly_language "Assembly language") for programming their [IBM 704](https://en.wikipedia.org/wiki/IBM_704 "IBM 704") [mainframe computer](https://en.wikipedia.org/wiki/Mainframe_computer "Mainframe computer").
+> In late 1953, [John W. Backus](https://en.wikipedia.org/wiki/John_Backus "John Backus") submitted a proposal to his superiors at [IBM](https://en.wikipedia.org/wiki/IBM "IBM") to develop a more practical alternative to [assembly language](https://en.wikipedia.org/wiki/Assembly_language "Assembly language") for programming their [IBM 704](https://en.wikipedia.org/wiki/IBM_704 "IBM 704") [mainframe computer](https://en.wikipedia.org/wiki/Mainframe_computer "Mainframe computer").
 > 
 > It has been in use for over seven decades in computationally intensive areas such as numerical weather prediction, finite element analysis, computational fluid dynamics, geophysics, computational physics, crystallography and computational chemistry. 
 > 

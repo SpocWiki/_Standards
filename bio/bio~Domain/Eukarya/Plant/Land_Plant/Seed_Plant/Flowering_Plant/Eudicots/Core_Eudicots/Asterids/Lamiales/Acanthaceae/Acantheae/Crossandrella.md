@@ -59,18 +59,18 @@ title: Crossandrella dusenii
 
 [Lucinda A. McDade and Carrie Kiel]() 
 
-*Crossandrella* is a West African genus of two species.  These plants
+*Crossandrella* is a West African genus of two species.  These plants
 are unique among Acantheae in having beaked capsules that crack
-transversely at maturity.  Although our molecular data place
+transversely at maturity.  Although our molecular data place
 *Crossandrella* as part of the *Schlerochiton* clade, other characters
-suggest other affinities.  For example, with *Cynarospermum,*
+suggest other affinities.  For example, with *Cynarospermum,*
 *Blepharis,* *Acanthopsis* and the *Acanthus* clade, plants of
 *Crossandrella* share the four-lobed, \"fused, sheathing, reduced\"
-calyx.  In contrast, with *Sclerochiton* and some species of
+calyx.  In contrast, with *Sclerochiton* and some species of
 *Crossandra,* plants of *Crossandrella* share remarkable pollen that is
-shaped rather like a Toblerone chocolate bar:  triangular in polar view,
+shaped rather like a Toblerone chocolate bar:  triangular in polar view,
 elongate in equatorial view, and with open areas (caveae) at the
-\'points\' of the triangle.  In sum, *Crossandrella* presents a mosaic
+\'points\' of the triangle.  In sum, *Crossandrella* presents a mosaic
 of characters that do not permiit an entirely satisfactory placement of
 the genus.
 

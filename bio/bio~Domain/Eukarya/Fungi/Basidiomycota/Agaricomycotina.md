@@ -152,7 +152,7 @@ Tremellomycetes have \"vesiculate\" parenthesomes, in which the septal
 pore cap is divided into cup-shaped sections. Dacrymycetes and some
 Agaricomycetes have \"imperforate\" parenthesomes, in which the septal
 pore cap forms a smooth, dome-shaped covering over the dolipore. Most
-Agaricomycetes have \"perforate\" parenthesomes, in which  the septal
+Agaricomycetes have \"perforate\" parenthesomes, in which  the septal
 pore cap has openings of varying sizes, and appears discontinuous in
 section.\
 ![Dolipore septa with perforate parenthesome](Agaricomycotina/Fig4_small.jpg) 

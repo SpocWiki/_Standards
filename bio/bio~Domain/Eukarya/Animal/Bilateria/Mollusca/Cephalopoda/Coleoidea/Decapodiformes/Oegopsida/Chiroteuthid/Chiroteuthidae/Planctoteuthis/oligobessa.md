@@ -73,7 +73,7 @@ A ***Planctoteuthis*** with \...
     1.  Length 23-33% of ML.
 3.  Measurements
       ------------ ----
-                                           Paratype   Paratype   Holotype
+                                           Paratype   Paratype   Holotype
       Sex ::                                \--        \--        Female
       Mantle length                        34         34         76
       Mantle width                         11         11         28

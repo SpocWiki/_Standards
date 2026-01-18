@@ -73,7 +73,7 @@ while maintaining a perch in arboreal habitats (Larson et al., 1981).
 The genus *Hydromantes* comprises three clades, one in California
 (subgenus *Hydromantes*), and two in Southern Europe and Sardinia
 (subgenera *Atylodes* and *Speleomantes*; Wake et al., 2005). Members of
-the genus *Hydromantes* inhabit wet rocky areas and caves,  and possess
+the genus *Hydromantes* inhabit wet rocky areas and caves,  and possess
 unique adaptations for locomotion on slippery rock surfaces, including
 flattened digits that are webbed in some species. The short tail is used
 to assist in maintaining a purchase on the substrate by pushing the tip
@@ -81,7 +81,7 @@ of the tail against the substrate each time a hind foot is moved
 forward. One species, *Hydromantes platycephalus*, exhibits a unique
 escape behavior. Like many other plethodontids, this species coils
 tightly into a ball when disturbed or picked up. Unlike any other
-species however, *H. platycephalus* will actually roll downhill  if
+species however, *H. platycephalus* will actually roll downhill  if
 dropped (Garcia-Paris and Deban, 1995).
 
 The salamanders of the genus *Ensatina* have been featured prominently
@@ -137,7 +137,7 @@ below were scored for *Karsenia* only where noted.
 Tongues are attached to the jaw by a short muscle plus connective and
 mucosal tissue. Tongues are protrusible (attached) in *Aneides*,
 (supergenus) *Desmognathus*, *Karsenia*, and *Plethodon*; projectile
-(attached) in *Ensatina*; and projectile (free) in *Hydromantes*.  The
+(attached) in *Ensatina*; and projectile (free) in *Hydromantes*.  The
 hyobranchial skeleton includes a urohyal (except in *Hydromantes*),
 cylindrical basibranchial (except in *Hydromantes* which has an expanded
 basibranchial), and radii that are broad and flat and independent of the
@@ -183,7 +183,7 @@ Skeleton of *Aneides flavipunctatus* (juvenile specimen) (red = bone;
 blue = cartilage). The hyobranchial skeleton is visible in blue at the
 anterior portion of the specimen. (Photograph © Allan Larson)
 
- 
+ 
 
 ##### Epibranchial Number 
 
@@ -191,7 +191,7 @@ anterior portion of the specimen. (Photograph © Allan Larson)
 members of the supergenus *Desmognathus* have four, and *Hydromantes*
 embryos have only one.
 
-##### Tail Autotomy 
+##### Tail Autotomy 
 
 In *Plethodon*, *Aneides* and *Hydromantes*, cutaneous wound healing
 occurs, there are 3 caudosacral vertebrae, the first caudal vertebra is
@@ -200,12 +200,12 @@ supergenus *Desmognathus*, cutaneous wound healing does not occur, there
 are 2 caudosacral vertebrae, the first caudal vertebra is normal and
 tail breakage is not localized. In *Ensatina*, cutaneous wound healing
 in the tail occurs, there are 3 caudosacral vertebrae, the first caudal
-vertebra is specialized, and tail breakage is localized. 
+vertebra is specialized, and tail breakage is localized. 
 
 ##### Brain Stem Motor Column
 
 There are two distinct classes of cells in the motor column of the neck
-and trunk, except in *Hydromantes*, which has only one class of cells. 
+and trunk, except in *Hydromantes*, which has only one class of cells. 
 
 ##### Jaws, Cranial Osteology and Structure of the Inner Ear
 
@@ -245,7 +245,7 @@ Development is direct in *Aneides*, *Ensatina*, *Hydromantes*,
 *Desmognathus* (*Desmognathus aeneus*, *D. wrighti* and *Phaeognathus
 hubrichti*). All remaining species of the supergenus *Desmognathus*
 belong to the genus *Desmognathus* and have biphasic life histories
-featuring gilled, aquatic larvae and fully metamorphosed adults. 
+featuring gilled, aquatic larvae and fully metamorphosed adults. 
 
 ### Classification
 
@@ -273,11 +273,11 @@ molecular data.\
 [ ]
 
 Thus, the subfamily Plethodontinae (sensu Chippindale et al. \[2004\],
-Macey \[2005\], and Min et al. \[2005\]),  comprises the genera
+Macey \[2005\], and Min et al. \[2005\]),  comprises the genera
 *Aneides, Ensatina*, *Hydromantes,* *Karsenia* and *Plethodon* plus the
 supergenus *Desmognathus*. Although the closest relatives of
 *Hydromantes* remain to be determined, recent phylogenetic results place
-it within this clade  (Mueller et al., 2004; Macey, 2005; Min et al.,
+it within this clade  (Mueller et al., 2004; Macey, 2005; Min et al.,
 2005).\
 
 *Aneides* contains six species noteworthy because of evolutionarily

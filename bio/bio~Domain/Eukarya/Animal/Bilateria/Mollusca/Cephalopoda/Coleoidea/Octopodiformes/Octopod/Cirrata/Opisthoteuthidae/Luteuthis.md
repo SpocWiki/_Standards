@@ -54,7 +54,7 @@ two species in this genus are known from only three specimens.
 
 Opisthoteuthids \...
 
--   with distinctive shell. 
+-   with distinctive shell. 
 
 ### Characteristics
 

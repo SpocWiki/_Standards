@@ -124,13 +124,13 @@ slender, and the intermaxillary gland is posterior to the pars dentalis.
 The periotic canal is straight or with a dorsal loop after it leaves the
 periotic cistern. Growth of otic semicircular ducts is nearly isometric.
 
-##### Chromosome Number 
+##### Chromosome Number 
 
-The diploid number of chromosomes is 26. 
+The diploid number of chromosomes is 26. 
 
 ##### Development 
 
-Development is direct. 
+Development is direct. 
 
 ### Classification
 

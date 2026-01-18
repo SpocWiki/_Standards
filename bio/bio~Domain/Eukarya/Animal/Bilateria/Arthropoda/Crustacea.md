@@ -148,12 +148,12 @@ Crabs, lobsters, shrimp, barnacles, sow bugs, etc.
     [BIODIDAC](http://biodidac.bio.uottawa.ca/).
 ![Daphnia_pulex](Crustacea/Daphnia_pulex.jpg)) 
 -   Sally Lightfoot crab, Grapsus grapsus (Malacostraca,
-    Decapoda). Punta Espinosa (Ecuador).\
+    Decapoda). Punta Espinosa (Ecuador).\
     Photograph by Gerald and Buff Corsi, courtesy
     [CalPhotos](http://elib.cs.berkeley.edu/photos/), copyright © 2001
     [California Academy of Sciences](mailto:manzanita@calacademy.org).
 ![Grapsus_grapsus](Crustacea/Grapsus_grapsus.jpg) 
--   Barnacle, Semibalanus cariosus (Thecostraca, Cirripedia).  Ketchikan
+-   Barnacle, Semibalanus cariosus (Thecostraca, Cirripedia).  Ketchikan
     (Alaska, US).\
     Photograph by Gerald and Buff Corsi, courtesy
     [CalPhotos](http://elib.cs.berkeley.edu/photos/), copyright © 1999

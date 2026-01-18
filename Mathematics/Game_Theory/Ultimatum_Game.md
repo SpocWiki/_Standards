@@ -27,7 +27,7 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Ultimatum%20game) 
 
 
-A [Nash equilibrium](https://en.wikipedia.org/wiki/Nash_equilibrium "Nash equilibrium") is a set of strategies (one for the proposer and one for the responder in this case), 
+A [Nash equilibrium](https://en.wikipedia.org/wiki/Nash_equilibrium "Nash equilibrium") is a set of strategies (one for the proposer and one for the responder in this case), 
 where **no individual party can improve their reward** by changing strategy. 
 
 If the proposer always makes an unfair offer, the responder will do best by always accepting the offer, 
@@ -49,7 +49,7 @@ Thus, there are two sets of Nash equilibria for this game:
 
 ### Finite Horizon
 
-In a non-repeated or finite-horizon ultimatum game, the first Nash equilibria (unfair offer, always accept) are the only that satisfy a stricter condition called [subgame perfection equilibrium](https://en.wikipedia.org/wiki/Subgame_perfect_equilibrium "Subgame perfect equilibrium") (SPE). The game can be viewed as having two subgames that repeat themselves: the subgame where the proposer makes a fair offer, and the subgame where the proposer makes an unfair offer. An SPE occurs when there are Nash Equilibria in every subgame, that players have no incentive to deviate from.[[2]](https://en.wikipedia.org/wiki/Ultimatum_game#cite_note-2) Using [backward induction](https://en.wikipedia.org/wiki/Backward_induction "Backward induction"), we see that in the final stage, the responder will always accept any offer. Therefore, in previous stages, the proposer will always offer the minimum amount. Thus, the responder's threat to reject unfair offers in the second Nash equilibrium is not credible in a finite setting.
+In a non-repeated or finite-horizon ultimatum game, the first Nash equilibria (unfair offer, always accept) are the only that satisfy a stricter condition called [subgame perfection equilibrium](https://en.wikipedia.org/wiki/Subgame_perfect_equilibrium "Subgame perfect equilibrium") (SPE). The game can be viewed as having two subgames that repeat themselves: the subgame where the proposer makes a fair offer, and the subgame where the proposer makes an unfair offer. An SPE occurs when there are Nash Equilibria in every subgame, that players have no incentive to deviate from.[[2]](https://en.wikipedia.org/wiki/Ultimatum_game#cite_note-2) Using [backward induction](https://en.wikipedia.org/wiki/Backward_induction "Backward induction"), we see that in the final stage, the responder will always accept any offer. Therefore, in previous stages, the proposer will always offer the minimum amount. Thus, the responder's threat to reject unfair offers in the second Nash equilibrium is not credible in a finite setting.
 
 
 ## Confidential Links & Embeds: 

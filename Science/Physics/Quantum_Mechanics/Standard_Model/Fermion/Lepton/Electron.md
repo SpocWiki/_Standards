@@ -90,7 +90,7 @@ Krugosvet_article_archived_: nauka_i_tehnika/fizika/ELEKTRON.html
 Experiments show the electron is **pointlike** to at least 1e−19m, much smaller than Re​.
 For a uniformly charged sphere of radius R, the electrostatic self-energy is U(R)=e²/(8πεR) 
 
-Equating this to mc² gives Re=2.82 fm
+Equating this to mc² gives Re=2.82 fm
 
 So **if** the mass came purely from field energy, shrinking R would make U(R) exceed the rest energy. 
 The paradox vanishes once you adopt modern quantum field theory:

@@ -73,7 +73,7 @@ A ***Chiroteuthis*** \...
 
 1.  Arms
     1.  Largest arm suckers not globular nor greatly enlarged.
-    2.  Large arm suckers with pointed teeth on distal margin of ring. \
+    2.  Large arm suckers with pointed teeth on distal margin of ring. \
 2.  Tentacular clubs
     1.  Club suckers with central tooth enlarged.
     2.  Club sucker stalks in two distinct parts; stalks of lateral
@@ -147,7 +147,7 @@ life history of ***C. veranyi***.
 
 ***C. veranyi*** is found throughout most of the Atlantic and the
 southern subtropical areas of the Indian, and Pacific Ocean (Nesis,
-1987). 
+1987). 
 ![ ](veranyi/CveranyiMap.jpg)){width="500"}
 
 **Figure**. Distribution map of ***C. veranyi*** based only on capture

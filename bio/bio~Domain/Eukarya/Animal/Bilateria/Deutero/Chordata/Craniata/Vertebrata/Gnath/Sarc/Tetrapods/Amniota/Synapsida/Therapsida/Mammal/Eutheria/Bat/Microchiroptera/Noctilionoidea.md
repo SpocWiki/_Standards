@@ -64,7 +64,7 @@ Many of these bats have unusally facial ornimentation, including
 nose-leafs, leaf-chin flaps, swollen lips and other projections in the
 labio-nasal region.
 
- 
+ 
 
 ### Characteristics
 
@@ -97,7 +97,7 @@ placement of Mystacinidae within Noctilionoidea. Kirsch et al. suggested
 that *Mystacina* is the sister-group of all other noctilionoids, a
 hypothesis which is compatible with available morphological data.
 
- 
+ 
 
 ### Geographic Distribution
 ![ ](Noctilionoidea/noctilionoidea.gif) 

@@ -136,7 +136,7 @@ gliding membranes between the forearms and hind limbs for gliding from
 tree to tree.
 
 From chirps and yelps to quick movements and tail flagging, squirrels
-have  highly sophisticated communication, ranging from warnings to
+have  highly sophisticated communication, ranging from warnings to
 mating signals. Squirrels also have the ability to change the color of
 their coat during mating season. One oriental species of squirrel,
 *Sciurus caniceps*, is one of the rare known instance among mammals
@@ -162,7 +162,7 @@ within the traditional classification containing two subfamilies.
 Phylogenetic analyses using slowly evolving nuclear DNA (Steppan et al.,
 2004; Mercer and Roth, 2003) have had a significant effect on the
 rearrangement of the phylogenetic relationships within family
-Sciuridae.  The nuclear gene regions IRBP, RAG1, and c-myc, and the
+Sciuridae.  The nuclear gene regions IRBP, RAG1, and c-myc, and the
 mitochondrial gene region 12S provided strong evidence that flying
 squirrels are derived from tree squirrels, and that they are
 specifically related to New World tree squirrels (Steppan et al., 2004).
@@ -189,10 +189,10 @@ concentration in the Nearctic region (North America).
 
 Tree squirrels, of *Sciurinae*, are concentrated mostly in North and
 South America, with very few species located in Japan and in regions of
-the Middle East.  Flying squirrels, also of subfamily *Sciurinae*, are
+the Middle East.  Flying squirrels, also of subfamily *Sciurinae*, are
 found generally in the Indomalaya region, in addition to Russia, Japan
 and China. The giant squirrels in subfamily *Ratufinae* are limited to
-the Eastern hemisphere, recorded only in Indomalaya and the Palearctic,
+the Eastern hemisphere, recorded only in Indomalaya and the Palearctic,
 and *Sciurillinae*, the neotropical pygmy squirrels, exist only in the
 Neotropic region of South America (Wilson and Reeder 1993).
 
@@ -202,7 +202,7 @@ The first fossil records of squirrels suggest that they originated in
 the Northern Hemisphere, particularly North America, around 36 million
 years ago. The fossil of the earliest recorded squirrel, *Douglassciurus
 jeffersoni*, ranges from approximately 37.5 to 35 million years ago
-(Thorington and Emry 1984).  This squirrel species had very similar
+(Thorington and Emry 1984).  This squirrel species had very similar
 skeletal and dental structures like those of present day squirrels, but
 it lacked the characteristic sciuromorphous zygomasseteric system, which
 classifies squirrels today (Mercer and Roth 2003). The earliest

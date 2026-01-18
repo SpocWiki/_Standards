@@ -294,7 +294,7 @@ member_of:
 mobile_country_code: 740
 maritime_identification_digits: 735
 motto_text:
-  - « Allah,Vətən və Azadlıq "
+  - « Allah,Vətən və Azadlıq "
   - Duw, Mamwlad a Rhyddid
 mains_voltage: 120
 marriageable_age: 18

@@ -60,7 +60,7 @@ capture. The squid is an immature male. The buccal mass is relatively
 large and the buccal membrane is very reduced. We are uncertain at
 present whether this represents a separate species or is conspecific
 with ***M. atlantica*** and/or ***M. talismani***. This specimen needs
-to be re-examined. 
+to be re-examined. 
 
 ## Phylogeny 
 

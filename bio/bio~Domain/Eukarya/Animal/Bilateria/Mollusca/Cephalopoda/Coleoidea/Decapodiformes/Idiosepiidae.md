@@ -73,7 +73,7 @@ A decapodiform \...
         **Figure**. **Top** - Dorsal view of ***Idiosepius*** sp.,
         preserved, with an enlargement of a portion of the dorsal
         adhesive organ showing the glandular (white reflection)
-        epithelium. 12 mm ML, mature female, 05°27\'S, 134°27\'E. 
+        epithelium. 12 mm ML, mature female, 05°27\'S, 134°27\'E. 
         Photograph by R. Young. **Bottom** -Side view of ***Idiosepius
         paradoxus*** in an aquarium attached by its adhesive organ to a
         blade of seagrass. Photograph by Takashi Kasugai, Port of Nagoya
@@ -103,7 +103,7 @@ pertinent references.
 
 ### Life History
 
- ***I. paradoxus*** spawns repeatedly in captivity. A single individual
+ ***I. paradoxus*** spawns repeatedly in captivity. A single individual
 may lay as many as 42 batches over a 70 day period (Kasugai, 2006).\
 ![ ](Idiosepiidae/IdioSpawning.jpg))\
 

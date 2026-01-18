@@ -143,20 +143,20 @@ You don't need a `Copy` or `Clone` Trait for that.
 
 ## References 
 
-Rust substitutes the `*` operator with a call to the `deref` method and then a plain dereference
+Rust substitutes the `*` operator with a call to the `deref` method and then a plain dereference
 
-_Deref coercion_ converts a reference to a type that implements the `Deref` trait into a reference to another type. For example, deref coercion can convert `&String` to `&str` because `String` implements the `Deref` trait 
+_Deref coercion_ converts a reference to a type that implements the `Deref` trait into a reference to another type. For example, deref coercion can convert `&String` to `&str` because `String` implements the `Deref` trait 
 
 ### automatic Deref coercion 
-Deref coercion was added to Rust so that programmers writing function and method calls don’t need to add as many explicit references and dereferences with `&` and `*`. The deref coercion feature also lets us write more code that can work for either references or smart pointers.
- The standard library provides an implementation of `Deref` on `String` that returns a string slice, and this is in the API documentation for `Deref`. Rust calls `deref` again to turn the `&String` into `&str`, which matches the `hello` function’s definition.
- 
+Deref coercion was added to Rust so that programmers writing function and method calls don’t need to add as many explicit references and dereferences with `&` and `*`. The deref coercion feature also lets us write more code that can work for either references or smart pointers.
+ The standard library provides an implementation of `Deref` on `String` that returns a string slice, and this is in the API documentation for `Deref`. Rust calls `deref` again to turn the `&String` into `&str`, which matches the `hello` function’s definition.
+ 
 ```rust
 let m = MyBox::new(String::from("Rust"));
 hello(&(*m)[..]);
 ```
 
-you can use the `DerefMut` trait to override the `*` operator on mutable references.
+you can use the `DerefMut` trait to override the `*` operator on mutable references.
 
 ## &Arrays[0] and Tuples.0 
 

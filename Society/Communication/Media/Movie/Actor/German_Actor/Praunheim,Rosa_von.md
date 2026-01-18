@@ -76,9 +76,9 @@ type: private_note
 ## Rosa von Praunheim
 
 Mitte der 1960er nahm er den Künstlernamen „Rosa von Praunheim“ an, 
-der eine [Reminiszenz](https://de.wikipedia.org/wiki/Reminiszenz "Reminiszenz") an den [Rosa Winkel](https://de.wikipedia.org/wiki/Rosa_Winkel "Rosa Winkel") darstellt, 
-den [homosexuelle](https://de.wikipedia.org/wiki/Homosexualit%C3%A4t "Homosexualität") Männer in der [Zeit des Nationalsozialismus](https://de.wikipedia.org/wiki/Zeit_des_Nationalsozialismus "Zeit des Nationalsozialismus") in [Konzentrationslagern](https://de.wikipedia.org/wiki/Deutsche_Konzentrationslager "Deutsche Konzentrationslager") tragen mussten, 
-sowie an den Frankfurter Stadtteil [Praunheim](https://de.wikipedia.org/wiki/Frankfurt-Praunheim "Frankfurt-Praunheim"), wo er als Jugendlicher aufgewachsen war. 
+der eine [Reminiszenz](https://de.wikipedia.org/wiki/Reminiszenz "Reminiszenz") an den [Rosa Winkel](https://de.wikipedia.org/wiki/Rosa_Winkel "Rosa Winkel") darstellt, 
+den [homosexuelle](https://de.wikipedia.org/wiki/Homosexualit%C3%A4t "Homosexualität") Männer in der [Zeit des Nationalsozialismus](https://de.wikipedia.org/wiki/Zeit_des_Nationalsozialismus "Zeit des Nationalsozialismus") in [Konzentrationslagern](https://de.wikipedia.org/wiki/Deutsche_Konzentrationslager "Deutsche Konzentrationslager") tragen mussten, 
+sowie an den Frankfurter Stadtteil [Praunheim](https://de.wikipedia.org/wiki/Frankfurt-Praunheim "Frankfurt-Praunheim"), wo er als Jugendlicher aufgewachsen war. 
 
 
 ## Confidential Links & Embeds: 

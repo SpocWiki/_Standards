@@ -68,7 +68,7 @@ the crimson-colored aril is removed from the nutmeg seed that it envelops
 and is flattened out and dried for 10 to 14 days. 
 Its color changes to pale yellow, orange, or tan. 
 
-Whole dry mace consists of flat pieces—smooth, horn-like, and brittle—about 40 mm (1+1⁄2 in) long.
+Whole dry mace consists of flat pieces—smooth, horn-like, and brittle—about 40 mm (1+1⁄2 in) long.
 
 
 ## Confidential Links & Embeds: 

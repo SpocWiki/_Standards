@@ -122,7 +122,7 @@ pub fn some_name(
 //DECLARATIVE
 let v: Vec<u32> = vec![1, 2, 3];
 
-//add code to structs and enums with the `derive` attribute 
+//add code to structs and enums with the `derive` attribute 
 #[derive(MyHelloMacro)]
 struct Pancakes;
 

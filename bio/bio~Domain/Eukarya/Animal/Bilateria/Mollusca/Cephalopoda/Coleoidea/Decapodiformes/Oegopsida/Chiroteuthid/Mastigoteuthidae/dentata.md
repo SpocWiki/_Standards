@@ -71,27 +71,27 @@ Arms
     truncate teeth proximally, 23 teeth total (Young, 1972, Cape Mala
     specimens, drawing on near right, bottom).
 
- 
+ 
 
 Funnel locking-apparatus
 
 1.  Funnel locking-apparatus with tragus and weak antitragus; area of
     antitragus well undercut (Young, 1972, examination of lectotype).
 
- 
+ 
 
 Mantle
 
 1.  Tubercules absent.
 
- 
+ 
 
 Fins
 
 1.  43-67% of ML (Hoyle, 1904). 66-67% of ML (Young, 1972, Cape Mala
     specimens).
 
- 
+ 
 
 Photophores
 
@@ -99,7 +99,7 @@ Photophores
     lectotype).
 2.  Eyelid photophore present (Young, 1972, examination of lectotype).
 
- 
+ 
 
 Measurements
 

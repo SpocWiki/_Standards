@@ -100,10 +100,10 @@ oviducal glands.
 Spermatophore groove of ***Abdopus aculeatus***, arrow points to
 spermatophore guide that may direct the spermatophores as they are
 expelled from the funnel. Note coiled tip of this mating arm, perhaps to
-protect the ligula.  © 2005 [Christine Huffard](mailto:chuffard@berkeley.edu) .  Ligula of an undescribed pygmy
+protect the ligula.  © 2005 [Christine Huffard](mailto:chuffard@berkeley.edu) .  Ligula of an undescribed pygmy
 octopus from Tonga. © 1997 [Christine Huffard](mailto:chuffard@berkeley.edu) . Diagram of the female
-reproductive tract (***Abdopus aculeatus***) during copulation.  Arrow 1
-points to the spermatophore groove of the inserted hectocotylus.  Arrow
+reproductive tract (***Abdopus aculeatus***) during copulation.  Arrow 1
+points to the spermatophore groove of the inserted hectocotylus.  Arrow
 2 points an oviducal gland, photo © 2005 [Roy L Caldwell](mailto:rlcaldwell@berkeley.edu)
 
 ![ ](Octopodidae/omercatorishatchling1.jpg){width="212"}
@@ -153,7 +153,7 @@ die shortly after the last embryos have hatched. In other species, e.g.,
 ***Octopus chierchiae***, spawning is intermittent, where females resume
 feeding after the embryos hatch, and grow until the next spawning takes
 place (Rodaniche, 1984) although the ovaries do not regress and regrow
-between spawning episodes.  At the end of their life span, octopuses
+between spawning episodes.  At the end of their life span, octopuses
 tend to lose mass, coordination, and the ability to express complex body
 patterns (see brooding female ***Abdopus abaculus*** below).
 
@@ -195,8 +195,8 @@ texture of the background (in spite of the fact that they are color
 blind!). This camouflage is produced by chromatophore combinations,
 passive reflection from specialized cells (iridophores, leucophores) and
 sculpture formed by raised (even branched) muscular patches and papillae
-(see image below).  Variation in skin anatomies leads to a wide range of
-species-specific body patterns and skin textures.  For example, body
+(see image below).  Variation in skin anatomies leads to a wide range of
+species-specific body patterns and skin textures.  For example, body
 patterns in ***Octopus bocki*** appear limited to fairly uniform purple
 with iridescent patches on the mantle and around the eyes, while
 ***Octopus cyanea*** can display numerous patterns using differently
@@ -218,7 +218,7 @@ Octopuses of this family seek shelter in a number of ways. Many species
 utilize or construct holes as temporary or semi-permanent lairs, often
 recognised by prey remains or small piles of pebbles surrounding the
 entrance. These lairs may occur in corals, rock and rubble or can be
-excavated in sand or mud sediments.  Many night-active species such as
+excavated in sand or mud sediments.  Many night-active species such as
 ***O. ornatus*** simply excavate a hole anywhere amongst rubble in the
 substrate at the end of a night\'s foraging, covering themselves with
 rubble or sand during the day. Other species which occur on open sand
@@ -228,8 +228,8 @@ keel around the lateral mantle which may aid in guiding the animal below
 the sand. This species frequently buries below the sand, occasionally
 raising a single eye like a periscope to scan. In some species (such as
 ***O. bimaculoides***) larger individuals outcompete smaller individuals
-for preferred shelters.  True territoriality however has not been shown
-in octopuses.  
+for preferred shelters.  True territoriality however has not been shown
+in octopuses.  
 
 Defenses in this group range from camouflage (as seen in the photograph
 below), to ink dummy decoys, to ink smoke screens (see image below of
@@ -239,7 +239,7 @@ production of strong toxins advertised by distinctive colour patterns
 supplemented by a pair of false-eye spots, one on the lateral arm crown
 below each eye. These ocellate octopuses flare the webs and display
 these spots to produce the appearance of the head of a large predator
-(e.g., photograph below of ***Octopus mototi***, Norman, 1993b).  Some
+(e.g., photograph below of ***Octopus mototi***, Norman, 1993b).  Some
 sand-dwelling octopuses (such as ***Thaumoctopus mimicus***) can escape
 threatening sitations by burying into the sand and emerging more than
 one meter away.
@@ -248,9 +248,9 @@ one meter away.
 
 ***Octopus berrima***, from Victoria, southern Australia , © 1996 S.
 Foale. Ink smokescreen of ***Octopus cyanea**,* from Palmyra Atoll. ©
-2006 [Christine Huffard](mailto:chuffard@berkeley.edu) .  Ocellated
+2006 [Christine Huffard](mailto:chuffard@berkeley.edu) .  Ocellated
 octopus ***Octopus mototi***, from the Great Barrier Reef © 1996 M.
-Norman. 
+Norman. 
 ### Distribution
 
 Members of this family are found in marine habitats ranging from
@@ -263,9 +263,9 @@ dofleini*** which ranges from the intertidal to depths in excess of 450
 m) and specialists (such as ***Vulcanoctopus hydrothermalis*** which is
 found only in hydrothermal vents). Some octopodids appear to space
 themselves far apart from each other, while others clump in available
-habitat.  We do not currently know if these distributions reflect
+habitat.  We do not currently know if these distributions reflect
 ecological preferences or the outcomes of inter/intra-specific
-competition.  Although some species occupy a den and forage in the
+competition.  Although some species occupy a den and forage in the
 vicinity for weeks or longer, species studied thus far do not appear to
 be territorial and defend their home range from conspecifics.
 
@@ -298,41 +298,41 @@ sudden change in sucker diameter at any point along an arm is an
 indicator of partial arm regeneration. Such arms should not be
 considered in assessing relative arm lengths.
 
-1a         Suckers in single row or as slight zigzag in live animals or
+1a         Suckers in single row or as slight zigzag in live animals or
 contracted specimens.....................2
 
-1b.        Suckers clearly in two rows on all arms
+1b.        Suckers clearly in two rows on all arms
 .............................................................. 13
 
-2a.        Ink sac
+2a.        Ink sac
 present.............................................................................................
 3
 
-2b.        Ink sac
+2b.        Ink sac
 absent.............................................................................................
 10
 
-3a.        Webs greatly enlarged at distal ends to forms wing-like vanes
+3a.        Webs greatly enlarged at distal ends to forms wing-like vanes
 (single species restricted to western Indian
 Ocean)...\.........................................................***Velodona***
 **Chun, 1915**
 
-3b.        Web margins absent or as narrow bands to arms tips, not
+3b.        Web margins absent or as narrow bands to arms tips, not
 expanded in distal portion......\...... 4
 
-4a.        Mature males with suckers highly modified on tips of normal
+4a.        Mature males with suckers highly modified on tips of normal
 arms, as ridges, stellate suckers, frills of papillae or spongiform
 tissue; some member taxa with hectocotylised arm tip that lacks a
 distinct ligula and/or
 calamus................................................................\....
 5
 
-4b.        Mature males with distinct ligula and calamus; normal arm
+4b.        Mature males with distinct ligula and calamus; normal arm
 tips of mature males without obvious sucker modifications
 .....................................................................\.......
 6
 
-5a.            Hectocotylised arm tip of mature male fleshy and
+5a.            Hectocotylised arm tip of mature male fleshy and
 convoluted in the form of a walnut, no obvious calamus; distal suckers
 of normal arms of mature males modified into a fringe of long thin
 papillae (single species restricted to southern
@@ -340,45 +340,45 @@ Africa).............................................
 ................................................\...***Aphrodoctopus***
 **Roper and Mangold, 1992**
 
-5b.            Hectocotylised arm tip as normal ligula and calamus or
+5b.            Hectocotylised arm tip as normal ligula and calamus or
 may lack calamus; distal suckers of normal arms of mature males modified
 as regular ridges or as spongiform tissue... ........
 ......................................................................................***Eledone***
 **Leach, 1817*\****
 
-6a.        Radula normal with seven rows of teeth plus marginal
+6a.        Radula normal with seven rows of teeth plus marginal
 plates.................................... 7
 
-6b.        Radula reduced to a single row of highly modified teeth with
+6b.        Radula reduced to a single row of highly modified teeth with
 vane-like lateral wings (single species restricted to west and
 south-west Atlantic Ocean).........***Vosseledone*** **Palacio, 1978**
 
-7a.        Funnel organ as W, UU or VV-shaped pads; skin smooth or
+7a.        Funnel organ as W, UU or VV-shaped pads; skin smooth or
 sculptured ....................... 8
 
-7b.        Funnel organ as four distinct short longitudinal pads (IIII);
+7b.        Funnel organ as four distinct short longitudinal pads (IIII);
 all dorsal and lateral surfaces covered in large branched papillae
 (single species restricted to central western Atlantic
 Ocean)....................................................................***Tetracheledone***
 **Voss, 1955**
 
-8a.        Small to moderate species, never attaining large sizes; head
+8a.        Small to moderate species, never attaining large sizes; head
 width close to or greater than mantle width; gills with 6-11 lamellae
 per demibranch........................................... 9
 
-8b.        Large (up to 14kg) species with loose soft gelatinous skin;
+8b.        Large (up to 14kg) species with loose soft gelatinous skin;
 head distinctly narrower than mantle; gills with 10-11 lamellae per
 demibranch (single species restricted to Antarctic waters)
 ....................................................................
 ***Megaleledone*** **Taki, 1961**
 
-9a.        Ligula grove without transverse ridges; lower beak without
+9a.        Ligula grove without transverse ridges; lower beak without
 sharp modified tip, rostrum curved downwards in lateral profile;
 posterior salivary glands approximately equal in length with buccal
 mass; stylets present .............................................
 ***Pareledone*** **Robson, 1932**
 
-9b.        Ligula grove with distinct transverse ridges; lower beak with
+9b.        Ligula grove with distinct transverse ridges; lower beak with
 sharp modified tip, rostrum straight or slightly upturned in lateral
 profile; posterior salivary glands approximately twice length of buccal
 mass; stylets absent
@@ -386,171 +386,171 @@ mass; stylets absent
 ..................................***Adelieledone*** **Allcock,
 Hochberg, Rodhouse and Thorpe, 2003**
 
-10a.      Skin beset with raised conical or composite papillae hardened
+10a.      Skin beset with raised conical or composite papillae hardened
 with cartilaginous inclusions (less obvious in frozen
 material)....................................... ***Graneledone***
 **Joubin, 1918**
 
-10b.      Skin lacks hardened papillae, sculpture soft or skin
+10b.      Skin lacks hardened papillae, sculpture soft or skin
 completely smooth...................... 11
 
-11a.      Arms short, less than 2 times mantle length; posterior
+11a.      Arms short, less than 2 times mantle length; posterior
 salivary glands large, more than half buccal mass
 length....................................................................................
 12
 
-11b.      Arms of moderate length, approximately 2-3 times mantle
+11b.      Arms of moderate length, approximately 2-3 times mantle
 length; posterior salivary glands small, significantly less than half
 buccal mass length ............***Bentheledone*** **Robson, 1932*\****
 
-12a.      Radula reduced to three to five rows of teeth; skin covered in
+12a.      Radula reduced to three to five rows of teeth; skin covered in
 low regular rounded papillae
 ..........................................................................***Thaumeledone***
 **Robson, 1930*\****
 
-12b.      Radula complete with 7 rows of teeth, lateral teeth flattened
+12b.      Radula complete with 7 rows of teeth, lateral teeth flattened
 into broad plates; skin smooth (single species known only from Tasman
 Sea)........................................................
 ...................................***Microeledone*** **Norman, Hochberg
 and Boucher-Rodoni, 2004**
 
-13a.      Small octopuses with repeated colour pattern of iridescent
+13a.      Small octopuses with repeated colour pattern of iridescent
 blue lines or rings over body, arms and webs (markings fade to white in
 preserved material)...... ***Hapalochlaena*** **Robson, 1929**
 
-13b.      Small to large octopuses without repeated iridescent markings
+13b.      Small to large octopuses without repeated iridescent markings
 over body, arms and webs (some species possess a pair of iridescent
 rings, one on each side of the web between the bases of arms 2 and
 3)..........................................................................................
 14
 
-14a.      Ink sac
+14a.      Ink sac
 present............................................................................................
 15
 
-14b.      Ink sac
+14b.      Ink sac
 absent..........................................................................................\....
 22
 
-15a.      Arm autotomy present, evident as multiple arms severed or
+15a.      Arm autotomy present, evident as multiple arms severed or
 regenerating from set level near to arm base (restricted to long-armed
 species, arms typically \>4 times mantle length)........... 16
 
-15b.      Arm damage and regeneration not at set plane on arm (long and
+15b.      Arm damage and regeneration not at set plane on arm (long and
 short-armed species)....... 17
 
-16a. ***    *** Third or fourth arm pair longest; large crescent-shaped
+16a. ***    *** Third or fourth arm pair longest; large crescent-shaped
 markings on mantle absent; fields of enlarged suckers present on arms 2
 and 3 of mature males (Indo West Pacific only)
 ...\......\..........................\......\...\...\...\...\...\...\...\...\...\...\...\...\...\.....***Abdopus***
 **Norman and Finn, 2001**
 
-16b.      Second arm pair longest; large crescent markings present on
+16b.      Second arm pair longest; large crescent markings present on
 dorso-lateral posterior mantle; enlarged suckers absent (restricted to
 Central Americas only).........***Euaxoctopus*** **Voss, 1971**
 
-17a.      Dorsal arms distinctly longer than remaining arms, arm formula
+17a.      Dorsal arms distinctly longer than remaining arms, arm formula
 1\>2\>3\>4 ..................\... 16
 
-17b.      Arms approximately equal in length or lateral arms longest
+17b.      Arms approximately equal in length or lateral arms longest
 ....................................\... 17
 
-16a       Series of water pores on oral web in ring around mouth, small
+16a       Series of water pores on oral web in ring around mouth, small
 muscular pore of each pouch opening to exterior around level of 3rd-6th
 proximal suckers; ligula tiny in mature males, calamus barely
 visible............................................................***Cistopus***
 **Gray, 1849**
 
-16b.      Water pouches and pores absent; ligula well-developed in
+16b.      Water pouches and pores absent; ligula well-developed in
 mature males..........................
 ..................................................................................***Callistoctopus***
 **Taki, 1964**
 
-17a.      Ligula with transverse ligula groove containing small
+17a.      Ligula with transverse ligula groove containing small
 teeth-like lugs; raised skin ridge present on lateral mantle \[single
 deepwater species (200-400 m) in western Pacific\]......................
 ................................................***Galeoctopus***
 **Norman, Boucher and Hochberg, 2004**
 
-17b.      Ligula groove longitudinal, without teeth-like lugs; lateral
+17b.      Ligula groove longitudinal, without teeth-like lugs; lateral
 mantle ridge present or absent \... 18
 
-18a.      Left third arm of males
+18a.      Left third arm of males
 hectocotylised.................................................................19
 
-18b.      Right third arm of males hectocotylised
+18b.      Right third arm of males hectocotylised
 .............................................................. 20
 
-19a.      Mantle opening narrow, one third or less of body
+19a.      Mantle opening narrow, one third or less of body
 circumference, fitting close to funnel; paired narrow papillae over each
 eye; skin ridge absent from lateral mantle; body markings absent
 ...............................................................................***Pteroctopus***
 **Fischer, 1882*\****
 
-19b.      Mantle opening moderate to wide, approximately one half of
+19b.      Mantle opening moderate to wide, approximately one half of
 body circumference; single large papilla over each eye; lateral mantle
 skin ridge present; two pairs of dark spots visible on mantle of live
 and well-preserved material............................ ***Scaeurgus***
 **Troschel, 1857**
 
-20a.      Giant species (to \>4m total length); skin on mantle in loose
+20a.      Giant species (to \>4m total length); skin on mantle in loose
 longitudinal folds; ligula very long to accommodate giant spermatophores
 (up to 1 m long)...............................................
 .....................................................\....***Enteroctopus***
 **Rochebrune and Mabille, 1889**
 
-20b.      Small to large species; skin typically with regular or
+20b.      Small to large species; skin typically with regular or
 irregular patch and groove sculpture of raised patches or papillae (not
 in loose longitudinal folds); spermatophores small to moderate, never
 giant................................................................................................
 21
 
-21a.      Arms typically 2-3 times mantle length; skin sculpture of
+21a.      Arms typically 2-3 times mantle length; skin sculpture of
 dorsal mantle head and webs continues on to oral surface of shallow
 dorsal web; colour patterns often incorporate dark leading edges along
 dorso-lateral face of arms 1-3; four short longitudinal ridges of skin
 in diamond arrangement on dorsal mantle; stylets absent .........\...
-***Amphioctopus*** **Fisher, 1882* ***
+***Amphioctopus*** **Fisher, 1882* ***
 
-21b.      Arms typically 3-5 times mantle length; sculpture on oral
+21b.      Arms typically 3-5 times mantle length; sculpture on oral
 surface of dorsal web not a continuation of mantle and aboral web
 sculpture; colour patterns of dark leading arm edges absent; four large
 primary papillae in diamond arrangement on dorsal mantle, stylets
 present...........................................................
 ***Octopus sensu strictu*** **Cuvier, 1797\***
 
-22a.      Arms extremely long, more than 6 times mantle length; arms
+22a.      Arms extremely long, more than 6 times mantle length; arms
 with banded brown and white colour pattern
 .............................................................***Ameloctopus***
 **Norman, 1992**
 
-22b.      Arms short to moderate in length, less than 6 times mantle
+22b.      Arms short to moderate in length, less than 6 times mantle
 length; arms not banded ......\... 23
 
-23a.      Skin white, lacking any pigmentation; iris of eye absent; eyes
+23a.      Skin white, lacking any pigmentation; iris of eye absent; eyes
 small (single species from hydrothermal
 vents).................................. ***Vulcanoctopus*** **Gonzalez
 and Guerra, 1998**
 
-23b.      Skin with at least some pigmentation (ie oral webs, ventral
+23b.      Skin with at least some pigmentation (ie oral webs, ventral
 and/or dorsal surfaces); iris present; eyes moderate to large
 .......................................................................
 24
 
-24a.      Calamus of mature males very large, over half ligula length
+24a.      Calamus of mature males very large, over half ligula length
 (single species, southern Australia)
 \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..........
 ***Grimpella*** **Robson, 1928*\****
 
-24b.      Calamus small to moderate, much less than half ligula
+24b.      Calamus small to moderate, much less than half ligula
 length.................................... 25
 
-25a.      Ligula of mature males large and spoon-shaped, deeply
+25a.      Ligula of mature males large and spoon-shaped, deeply
 excavated with a number of well-defined transverse ridges
-(laminae).................................  ***Bathypolypus*** **Grimpe,
+(laminae).................................  ***Bathypolypus*** **Grimpe,
 1921**
 
-25b.      Ligula moderate to large, elongate, typically with closed
+25b.      Ligula moderate to large, elongate, typically with closed
 ligula groove; raised laminae absent
 ............................................................................***Benthoctopus***
 **Grimpe, 1921*\****

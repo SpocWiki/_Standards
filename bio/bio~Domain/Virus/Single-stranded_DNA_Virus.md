@@ -25,7 +25,7 @@ title: Single-stranded DNA Viruses
 
 ![ ](Single-stranded_DNA_Virus/20_lores.jpg)
 
- 
+ 
 ## #has_/text_of_/abstract 
 
 > A **DNA virus** is a virus that has a genome made of deoxyribonucleic acid (DNA) that is replicated by a DNA polymerase. They can be divided between those that have two strands of DNA in their genome, called double-stranded DNA (dsDNA) viruses, and those that have one strand of DNA in their genome, called single-stranded DNA (ssDNA) viruses. dsDNA viruses primarily belong to two realms: Duplodnaviria and Varidnaviria, and ssDNA viruses are almost exclusively assigned to the realm Monodnaviria, which also includes some dsDNA viruses. Additionally, many DNA viruses are unassigned to higher taxa. Reverse transcribing viruses, which have a DNA genome that is replicated through an RNA intermediate by a reverse transcriptase, are classified into the kingdom Pararnavirae in the realm Riboviria.

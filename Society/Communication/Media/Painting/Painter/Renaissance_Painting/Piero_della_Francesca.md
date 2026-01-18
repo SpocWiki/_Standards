@@ -1,7 +1,7 @@
 ---
 aliases:
   - Piero_della_Francesca
-  - "Piero della Francesca (PYAIR-oh DEL-ə fran-CHESK-ə; Italian: [ˈpjɛːro della franˈtʃeska] ; > né Piero di Benedetto de' Franceschi"
+  - "Piero della Francesca (PYAIR-oh DEL-ə fran-CHESK-ə; Italian: [ˈpjɛːro della franˈtʃeska] ; > né Piero di Benedetto de' Franceschi"
   - Piero della Francesca
 has_id_wikidata: Q5822
 has_works_in_the_collection:

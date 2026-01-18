@@ -115,7 +115,7 @@ front of septa of lower cycles in a distinctive pattern (see Wells,
 1956: fig. 239).
 
 ------------------------
-![ ](Dendrophylliina/Pourtales.gif)){align="middle"}    
+![ ](Dendrophylliina/Pourtales.gif)){align="middle"}    
 ![ ](Dendrophylliina/Balanophyllia_malouinensis.jpg)){align="middle"}
 
 **Left (top):** Composite cross-sectional diagram of a calice

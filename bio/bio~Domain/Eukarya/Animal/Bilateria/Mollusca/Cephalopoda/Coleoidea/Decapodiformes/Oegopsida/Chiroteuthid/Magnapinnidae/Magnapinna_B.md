@@ -29,7 +29,7 @@ at 42.8°N, 29.3°W on ll July 2004 (Vecchione and Young, 2006).
 
 A ***Magnapinna*** without \...
 
--   chromatophores  (ie, pigment not in chromatophores).
+-   chromatophores  (ie, pigment not in chromatophores).
 
 ### Characteristics
 

@@ -38,7 +38,7 @@ The four universal constants that, by definition, have a numeric value 1 when ex
 - 1 == c, the speed of light in vacuum, 
 - 1 == G, the gravitational constant,
 - ħ, the reduced Planck constant, and 
-- kB, the [[Boltzmann-constant]] 1.380649e−23 J/K. 
+- kB, the [[Boltzmann-constant]] 1.380649e−23 J/K. 
 
 Variants of the basic idea of Planck units exist, 
 such as [[Stoney-Unit]] which set the elementary Charge to 1. 

@@ -47,7 +47,7 @@ first_line:
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Comedy_of_Errors,506505|WD~Comedy_of_Errors,506505]] 
 
-The play is a modernised adaptation of _[Menaechmi](https://en.wikipedia.org/wiki/Menaechmi "Menaechmi")_ by [Plautus](https://en.wikipedia.org/wiki/Plautus "Plautus"). 
+The play is a modernised adaptation of _[Menaechmi](https://en.wikipedia.org/wiki/Menaechmi "Menaechmi")_ by [Plautus](https://en.wikipedia.org/wiki/Plautus "Plautus"). 
 
 ## #has_/text_of_/abstract 
 

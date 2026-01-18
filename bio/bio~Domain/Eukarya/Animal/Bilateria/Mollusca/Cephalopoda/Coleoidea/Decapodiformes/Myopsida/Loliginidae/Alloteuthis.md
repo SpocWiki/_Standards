@@ -92,7 +92,7 @@ Arms
 #### Comments:
 
 ***Alloteuthis*** is morphologically very similar to ***Loligo*** and
-was considered by Vecchione et al. (1998) to be a subgenus.  However,
+was considered by Vecchione et al. (1998) to be a subgenus.  However,
 molecular analyses by Anderson (2000) indicate that ***Alloteuthis***
 should be a separate genus. This supports earlier inferences by Naef
 (1921-23) and Alexeyev (1989) that the presence of a gladial conus in
@@ -101,7 +101,7 @@ should be a separate genus. This supports earlier inferences by Naef
 difficult to find and in some ***Alloteuthis*** specimens may be reduced
 until it is essentially absent. The posterior tip of the mantle in
 ***Alloteuthis*** is elongate into a tail-like structure that tends to
-be more pointed than in ***Loligo***.  This is particularly true for
+be more pointed than in ***Loligo***.  This is particularly true for
 males but identification of this character state can be subjective in
 females.
 

@@ -129,7 +129,7 @@ Oceanographic Institution. Dives co-sponsored by NOAA Undersea Research
 Program, Minerals Management Service and National Energy Technology Lab.
 
   -------- ---------- ------
-                     Tentacle    Proximal-tentacle   Proximal-tentacle   Chromatophores   Habitat
+                     Tentacle    Proximal-tentacle   Proximal-tentacle   Chromatophores   Habitat
                      base much   with numerous       with glandular      abundant\        
                      wider than  suckers             structures.                          
                      arm IV base                                                          

@@ -243,7 +243,7 @@ Plethodontinae equivalent to the former tribe Plethodontini; 3)
 elevating the tribe Bolitoglossini to subfamilial status; 4) placing
 *Hemidactylium* in its own subfamily (Hemidactylinae); and 5)
 recognizing remaining taxa previously assigned to Hemidactyliini in
-their own subfamily. \
+their own subfamily. \
 
 ### Discussion of Phylogenetic Relationships
 
@@ -267,7 +267,7 @@ attached protusible tongues. Modes III (*Ensatina*), V
 (*Hemidactylium*), and VIII (*Batrachoseps*) have derived morphologies
 but retain an anterior muscular attachment of the tongue to the lower
 jaw and were characterized functionally as having attached projectile
-tongues.  The remaining genera were grouped into modes IV (current
+tongues.  The remaining genera were grouped into modes IV (current
 spelerpines), VI (tropical plethodontids, supergenus *Bolitoglossa*),
 and VII (*Hydromantes*). Modes III -- VIII were all considered to be
 independently derived from generalized ancestors, similar to modes I and
@@ -276,7 +276,7 @@ hypothesis.
 
 Parsimony analysis of their results indicate[ ]a basal split
 between Desmognathinae and Plethodontinae, and, within Plethodontinae,
-Bolitoglossini as sister to (Hemidactyliini + Plethodontini).  However,
+Bolitoglossini as sister to (Hemidactyliini + Plethodontini).  However,
 this was only marginally more parsimonious than their preferred tree,
 which was a basal split between Desmognathinae and Plethodontinae, and,
 within Plethodontinae, Hemidactyliini as sister to (Bolitoglossini +
@@ -311,10 +311,10 @@ plethodontids, a result Mueller et al. (2004) also found when using
 maximum parsimony, but not maximum likelihood or Bayesian methods.\
 
 Min et al. (2005) investigated the phylogenetic position of *Karsenia*
-using Bayesian phylogenetic analysis of the nuclear-encoded *RAG-1*
+using Bayesian phylogenetic analysis of the nuclear-encoded *RAG-1*
 gene, placing *Karsenia* as the sister taxon to a clade comprising
 *Aneides* and members of the supergenus *Desmognathus* (sensu
-Chippindale et al., 2004). 
+Chippindale et al., 2004). 
 
 ## Phylogeny 
 

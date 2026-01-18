@@ -54,20 +54,20 @@ Commons_category: Speciation
 
 [![[../../assets/Knowledge/Biology/Evolution-Punctuated_Equilibrium.png]]](https://en.wikipedia.org/wiki/File:Punctuated-equilibrium.svg)
 
-[Phyletic gradualism](https://en.wikipedia.org/wiki/Phyletic_gradualism "Phyletic gradualism"), above, consists of relatively slow change over geological time. [Punctuated equilibrium](https://en.wikipedia.org/wiki/Punctuated_equilibrium "Punctuated equilibrium"), bottom, consists of [morphological](https://en.wikipedia.org/wiki/Morphology_(biology) "Morphology (biology)") stability and rare, relatively rapid bursts of [evolutionary](https://en.wikipedia.org/wiki/Evolution "Evolution") change.
+[Phyletic gradualism](https://en.wikipedia.org/wiki/Phyletic_gradualism "Phyletic gradualism"), above, consists of relatively slow change over geological time. [Punctuated equilibrium](https://en.wikipedia.org/wiki/Punctuated_equilibrium "Punctuated equilibrium"), bottom, consists of [morphological](https://en.wikipedia.org/wiki/Morphology_(biology) "Morphology (biology)") stability and rare, relatively rapid bursts of [evolutionary](https://en.wikipedia.org/wiki/Evolution "Evolution") change.
 
 ## Punctuated Evolution Theory 
 
 There is debate as to the rate at which speciation events occur over geologic time. 
 While some evolutionary biologists claim that speciation events have remained relatively constant and gradual over time 
 (known as "Phyletic gradualism" – see diagram), 
-some [palaeontologists](https://en.wikipedia.org/wiki/Paleontology "Paleontology") such as [Niles Eldredge](https://en.wikipedia.org/wiki/Niles_Eldredge "Niles Eldredge") and [Stephen Jay Gould](https://en.wikipedia.org/wiki/Stephen_Jay_Gould "Stephen Jay Gould") have argued 
+some [palaeontologists](https://en.wikipedia.org/wiki/Paleontology "Paleontology") such as [Niles Eldredge](https://en.wikipedia.org/wiki/Niles_Eldredge "Niles Eldredge") and [Stephen Jay Gould](https://en.wikipedia.org/wiki/Stephen_Jay_Gould "Stephen Jay Gould") have argued 
 that species usually remain unchanged over long stretches of time, 
-and that speciation occurs only over relatively brief intervals, a view known as _[punctuated equilibrium](https://en.wikipedia.org/wiki/Punctuated_equilibrium "Punctuated equilibrium")_.
+and that speciation occurs only over relatively brief intervals, a view known as _[punctuated equilibrium](https://en.wikipedia.org/wiki/Punctuated_equilibrium "Punctuated equilibrium")_.
 
 While a species or group might benefit from being able to adapt to a new environment 
 by accumulating a wide range of genetic variation, 
-this is to the detriment of the _individuals_ who have to carry these mutations 
+this is to the detriment of the _individuals_ who have to carry these mutations 
 until a small, unpredictable minority of them ultimately contributes to such an adaptation. 
 
 ### evolutionary stagnation 
@@ -80,13 +80,13 @@ Evolution is, therefore, effectively halted or slowed down considerably.
 The only mutations that can accumulate in a population, on this punctuated equilibrium view, 
 are ones that have no noticeable effect on the outward appearance and functionality of their bearers 
 (i.e., they are "silent" or "[neutral mutations](https://en.wikipedia.org/wiki/Neutral_theory_of_molecular_evolution "Neutral theory of molecular evolution")", 
-which can be, and are, used to trace the [relatedness and age of populations and species](https://en.wikipedia.org/wiki/History_of_molecular_evolution "History of molecular evolution").
+which can be, and are, used to trace the [relatedness and age of populations and species](https://en.wikipedia.org/wiki/History_of_molecular_evolution "History of molecular evolution").
 ### Isolation and Pressure 
 
 Evolution can only occur if mutant mates cannot be avoided, as a result of a severe scarcity of potential mates. 
-This is most likely to occur in [small, isolated communities](https://en.wikipedia.org/wiki/Small_population_size "Small population size"). 
-These occur most commonly on small islands, in remote valleys, lakes, river systems, or caves, 
-or during the aftermath of a [mass extinction](https://en.wikipedia.org/wiki/Extinction_event "Extinction event").
+This is most likely to occur in [small, isolated communities](https://en.wikipedia.org/wiki/Small_population_size "Small population size"). 
+These occur most commonly on small islands, in remote valleys, lakes, river systems, or caves, 
+or during the aftermath of a [mass extinction](https://en.wikipedia.org/wiki/Extinction_event "Extinction event").
 Under these circumstances, not only is the choice of mates severely restricted 
 but population bottlenecks, founder effects, genetic drift and inbreeding 
 cause rapid, random changes in the isolated population's genetic composition.
@@ -96,7 +96,7 @@ might introduce additional genetic changes.
 
 ### Expansion and evolutionary stagnation 
 
-If an isolated population such as this [survives its genetic upheavals](https://en.wikipedia.org/wiki/Toba_catastrophe_theory#Genetic_bottleneck_hypothesis "Toba catastrophe theory"), 
+If an isolated population such as this [survives its genetic upheavals](https://en.wikipedia.org/wiki/Toba_catastrophe_theory#Genetic_bottleneck_hypothesis "Toba catastrophe theory"), 
 and subsequently expands into an unoccupied niche, 
 or into a niche in which it has an advantage over its competitors, 
 a new species, or subspecies, will have come into being. 

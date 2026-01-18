@@ -30,7 +30,7 @@ This is an advancement over [[J2EE]] Server Model.
 [Orleans overview - .NET | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/orleans/overview) 
 #### Grain AKA Instance 
 
-The grain is one of several Orleans primitives. In terms of the actor model, a grain is a virtual actor. The fundamental building block in any Orleans application is a _grain_. Grains are entities comprising user-defined identity, behavior, and state.
+The grain is one of several Orleans primitives. In terms of the actor model, a grain is a virtual actor. The fundamental building block in any Orleans application is a _grain_. Grains are entities comprising user-defined identity, behavior, and state.
 
 #### Silo AKA Server 
 A silo is another example of an Orleans primitive. A silo hosts one or more grains. The Orleans runtime is what implements the programming model for applications.
@@ -38,7 +38,7 @@ A silo is another example of an Orleans primitive. A silo hosts one or more grai
 When a grain is activated in Orleans, the runtime decides which server (silo) to activate that grain on. This is called grain placement.
 
 The placement process in Orleans is fully configurable. Developers can choose from a set of out-of-the-box placement policies such as random, prefer-local, and load-based, or custom logic can be configured.
-####  [Timers and reminders](https://learn.microsoft.com/en-us/dotnet/orleans/grains/timers-and-reminders)    
+####  [Timers and reminders](https://learn.microsoft.com/en-us/dotnet/orleans/grains/timers-and-reminders)    
 
 Reminders are a durable scheduling mechanism for grains.
 

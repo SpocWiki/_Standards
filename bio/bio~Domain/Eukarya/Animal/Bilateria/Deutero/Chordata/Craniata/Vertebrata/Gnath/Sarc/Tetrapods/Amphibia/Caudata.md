@@ -159,7 +159,7 @@ Gao and Shubin (2001) investigated higher-level salamander relationships
 using combined morphological and molecular (nuclear ribosomal RNA from
 Larson and Dimmick, 1993) data, placing three of four families comprised
 of paedomorphic species in a single clade. In contrast, previous
-phylogenies (e.g., Duellman and Trueb, 1986;  Larson and Dimmick, 1993)
+phylogenies (e.g., Duellman and Trueb, 1986;  Larson and Dimmick, 1993)
 indicate that salamanders that retain at least some aquatic larval
 characteristics throughout life (families Amphiumidae, Cryptobranchidae,
 Proteidae, Sirenidae and parts of the Ambystomatidae and Plethodontidae)
@@ -180,7 +180,7 @@ characters from Larson (1991) and Larson and Dimmick (1993), plus 1,530
 base pairs of nuclear recombination-activating gene 1 (RAG-1). They
 found that paedomorphic traits significantly confounded phylogenetic
 analysis of morphological data, and rejected the hypothesis that
-paedomorphic salamanders form a monophyletic group.  Their preferred
+paedomorphic salamanders form a monophyletic group.  Their preferred
 hypothesis of salamander relationships (their Fig. 8, see tree above)
 was more similar to previous phylogenies (e.g., Larson and Dimmick,
 1993) than to that of Gao and Shubin (2001).\
@@ -194,7 +194,7 @@ notable features of the Wiens et al. (2005) phylogeny include: 1)
 Rhyacotritonidae as the sister taxon of Amphiumidae , Plethodontidae; 2)
 monophyly of Proteidae (i. e., North American *Necturus* and European
 *Proteus*; and 3) the possibility of Cryptobranchoidea as the sister
-taxon to all other salamanders (rather than Sirenidae).  Although the
+taxon to all other salamanders (rather than Sirenidae).  Although the
 preferred tree of Wiens et al. (2005; their Fig. 8) placed Proteidae as
 the sister taxon of (Salamandridae , (Dicamptodontidae ,
 Ambystomatidae)), parsimony analyses provided support for a more basal

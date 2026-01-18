@@ -35,13 +35,13 @@
 
 
 ## WhatsApp Business
-WhatsApp launched two business-oriented apps in January 2018, separated by the intended userbase:
+WhatsApp launched two business-oriented apps in January 2018, separated by the intended userbase:
 
-- A **WhatsApp Business app** for small companies. 
-- An **Enterprise Solution** for bigger companies with global customer bases, 
-  such as airlines, e-commerce retailers and banks, who would be able to offer [customer service](https://en.wikipedia.org/wiki/Customer_service "Customer service") 
-  and [conversational commerce](https://en.wikipedia.org/wiki/Conversational_commerce "Conversational commerce") ([e-commerce](https://en.wikipedia.org/wiki/E-commerce "E-commerce")) via WhatsApp [chat](https://en.wikipedia.org/wiki/Instant_messaging "Instant messaging"), using live agents or [chatbots](https://en.wikipedia.org/wiki/Chatbot "Chatbot") 
-  (as far back as 2015, companies like Meteordesk had provided unofficial solutions for enterprises 
+- A **WhatsApp Business app** for small companies. 
+- An **Enterprise Solution** for bigger companies with global customer bases, 
+  such as airlines, e-commerce retailers and banks, who would be able to offer [customer service](https://en.wikipedia.org/wiki/Customer_service "Customer service") 
+  and [conversational commerce](https://en.wikipedia.org/wiki/Conversational_commerce "Conversational commerce") ([e-commerce](https://en.wikipedia.org/wiki/E-commerce "E-commerce")) via WhatsApp [chat](https://en.wikipedia.org/wiki/Instant_messaging "Instant messaging"), using live agents or [chatbots](https://en.wikipedia.org/wiki/Chatbot "Chatbot") 
+  (as far back as 2015, companies like Meteordesk had provided unofficial solutions for enterprises 
   to attend to large numbers of users, but these were shut down by WhatsApp)
 
 In October 2020, Facebook announced the introduction of pricing tiers 

@@ -32,16 +32,16 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610
 #has_/next_/item :: [[bio~Order/bio~Family]]  
 #is_/same_as :: [[../../../../../WikiData/WD~Order,36602|WD~Order,36602]] 
 
-|Name|Latin [prefix](https://en.wikipedia.org/wiki/Prefix "Prefix")|Examples|
+|Name|Latin [prefix](https://en.wikipedia.org/wiki/Prefix "Prefix")|Examples|
 |---|---|---|
 |Magnorder|_[magnus](https://en.wiktionary.org/wiki/magnus#Latin "wikt:magnus")_, 'large, great, important'|[Boreoeutheria](https://en.wikipedia.org/wiki/Boreoeutheria "Boreoeutheria")|
-|Superorder|_[super](https://en.wiktionary.org/wiki/super#Latin "wikt:super")_, 'above'|[Euarchontoglires](https://en.wikipedia.org/wiki/Euarchontoglires "Euarchontoglires"), [Laurasiatheria](https://en.wikipedia.org/wiki/Laurasiatheria "Laurasiatheria")|
-|Grandorder|_[grandis](https://en.wiktionary.org/wiki/grandis#Latin "wikt:grandis")_, 'large'|[Euarchonta](https://en.wikipedia.org/wiki/Euarchonta "Euarchonta"), [Ferungulata](https://en.wikipedia.org/wiki/Ferungulata "Ferungulata")|
-|Mirorder|_[mirus](https://en.wiktionary.org/wiki/mirus#Latin "wikt:mirus")_, 'wonderful, strange'|[Primatomorpha](https://en.wikipedia.org/wiki/Primatomorpha "Primatomorpha"), [Ferae](https://en.wikipedia.org/wiki/Ferae "Ferae")|
-|Order||[Primates](https://en.wikipedia.org/wiki/Primate "Primate"), [Procolophonomorpha](https://en.wikipedia.org/wiki/Procolophonomorpha "Procolophonomorpha")|
-|Suborder|_[sub](https://en.wiktionary.org/wiki/sub#Latin "wikt:sub")_, 'under'|[Haplorrhini](https://en.wikipedia.org/wiki/Haplorrhini "Haplorrhini"), [Procolophonia](https://en.wikipedia.org/wiki/Procolophonia "Procolophonia")|
-|Infraorder|_[infra](https://en.wiktionary.org/wiki/infra#Latin "wikt:infra")_, 'below'|[Simiiformes](https://en.wikipedia.org/wiki/Simiiformes "Simiiformes"), [Tarsiiformes](https://en.wikipedia.org/wiki/Tarsiiformes "Tarsiiformes")|
-|Parvorder|_[parvus](https://en.wiktionary.org/wiki/parvus#Latin "wikt:parvus")_, 'small, unimportant'|[Catarrhini](https://en.wikipedia.org/wiki/Catarrhini "Catarrhini"), [Mysticeti](https://en.wikipedia.org/wiki/Baleen_whale "Baleen whale")|
+|Superorder|_[super](https://en.wiktionary.org/wiki/super#Latin "wikt:super")_, 'above'|[Euarchontoglires](https://en.wikipedia.org/wiki/Euarchontoglires "Euarchontoglires"), [Laurasiatheria](https://en.wikipedia.org/wiki/Laurasiatheria "Laurasiatheria")|
+|Grandorder|_[grandis](https://en.wiktionary.org/wiki/grandis#Latin "wikt:grandis")_, 'large'|[Euarchonta](https://en.wikipedia.org/wiki/Euarchonta "Euarchonta"), [Ferungulata](https://en.wikipedia.org/wiki/Ferungulata "Ferungulata")|
+|Mirorder|_[mirus](https://en.wiktionary.org/wiki/mirus#Latin "wikt:mirus")_, 'wonderful, strange'|[Primatomorpha](https://en.wikipedia.org/wiki/Primatomorpha "Primatomorpha"), [Ferae](https://en.wikipedia.org/wiki/Ferae "Ferae")|
+|Order||[Primates](https://en.wikipedia.org/wiki/Primate "Primate"), [Procolophonomorpha](https://en.wikipedia.org/wiki/Procolophonomorpha "Procolophonomorpha")|
+|Suborder|_[sub](https://en.wiktionary.org/wiki/sub#Latin "wikt:sub")_, 'under'|[Haplorrhini](https://en.wikipedia.org/wiki/Haplorrhini "Haplorrhini"), [Procolophonia](https://en.wikipedia.org/wiki/Procolophonia "Procolophonia")|
+|Infraorder|_[infra](https://en.wiktionary.org/wiki/infra#Latin "wikt:infra")_, 'below'|[Simiiformes](https://en.wikipedia.org/wiki/Simiiformes "Simiiformes"), [Tarsiiformes](https://en.wikipedia.org/wiki/Tarsiiformes "Tarsiiformes")|
+|Parvorder|_[parvus](https://en.wiktionary.org/wiki/parvus#Latin "wikt:parvus")_, 'small, unimportant'|[Catarrhini](https://en.wikipedia.org/wiki/Catarrhini "Catarrhini"), [Mysticeti](https://en.wikipedia.org/wiki/Baleen_whale "Baleen whale")|
 
 ## #has_/text_of_/abstract 
 

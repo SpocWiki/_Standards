@@ -78,7 +78,7 @@ xxd ./kernel7.img #shows the hex-Bytes
 
 ### Download Bootcode from the RaspberryPi/firmware Repo on [[../../../../../../../../Society/Agent/Community/Organization/Company/Corporation/IT~Company/Github|Github]]  
 
-Navigate to the boot/ Folder and download 3 files: 
+Navigate to the boot/ Folder and download 3 files: 
 - fixup.dat 
 - start.elf and
 - bootcode.bin

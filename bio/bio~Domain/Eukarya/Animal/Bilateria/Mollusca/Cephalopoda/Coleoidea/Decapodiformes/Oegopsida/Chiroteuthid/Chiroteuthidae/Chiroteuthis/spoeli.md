@@ -48,7 +48,7 @@ Containing group: [Chiroteuthis](../Chiroteuthis.md))*
 ## Introduction
 
 ***Chiroteuthis spoeli*** is a broadly distributed species that is
-similar to  ***Chiroteuthis joubini*** and ***Chiroteuthis*** sp. B2 in
+similar to  ***Chiroteuthis joubini*** and ***Chiroteuthis*** sp. B2 in
 the three-part division of the club protective membranes. It is closest
 to ***C***. sp. B2 but is most easily separated by the arm sucker size
 and dentition.
@@ -57,7 +57,7 @@ and dentition.
 
 A ***Chiroteuthis*** \...
 
--   with club protective  membranes divided into three divisions of
+-   with club protective  membranes divided into three divisions of
     roughly the same size.
 -   with large arm suckers globular in form and bearing broad, truncate
     teeth.\
@@ -84,8 +84,8 @@ A ***Chiroteuthis*** \...
         Drawing by J. R. Schroeder (© C. Roper).
 
 3.  Photophores
-    1.  Eyeball: Two series: lateral series with 7-8 round photophores; 
-        medial series with 6-7 round photophores. \
+    1.  Eyeball: Two series: lateral series with 7-8 round photophores; 
+        medial series with 6-7 round photophores. \
     2.  Viscera: two, large organs.
 
 #### Comments

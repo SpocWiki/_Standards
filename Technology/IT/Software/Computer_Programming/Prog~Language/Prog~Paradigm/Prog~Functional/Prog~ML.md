@@ -7,7 +7,7 @@
 #has_/creator :: [[Milner~Robin]] 
 #has_/time_/started :: 1973-07-01 
 
-ML can be referred to as an _impure_ functional language, because although it encourages functional programming, it does allow [side-effects](https://en.wikipedia.org/wiki/Side-effect_(computer_science)) 
+ML can be referred to as an _impure_ functional language, because although it encourages functional programming, it does allow [side-effects](https://en.wikipedia.org/wiki/Side-effect_(computer_science)) 
 
 > ML (Meta Language) is a functional programming language. 
 > 

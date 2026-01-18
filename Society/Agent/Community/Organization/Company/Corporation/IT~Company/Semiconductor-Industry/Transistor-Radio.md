@@ -27,7 +27,7 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Transistor%20radio) 
 
 
-The use of transistors instead of [vacuum tubes](https://en.wikipedia.org/wiki/Vacuum_tube "Vacuum tube") as the amplifier elements 
+The use of transistors instead of [vacuum tubes](https://en.wikipedia.org/wiki/Vacuum_tube "Vacuum tube") as the amplifier elements 
 meant that the device was much smaller, required far less power to operate 
 than a tube radio, and was more resistant to physical shock. 
 It also allowed "instant-on" operation, since there were no filaments to heat up.

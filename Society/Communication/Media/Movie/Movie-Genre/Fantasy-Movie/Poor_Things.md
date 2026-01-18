@@ -27,7 +27,7 @@ With many Allusions to the novel and its Metadata:
 
 Godwin is the Name of [[../../books/Authors/Godwin,William|Godwin,William]], Mary Shelleys Father, but the short form "God" also fits very much. 
 
-In June 1812, Mary's father sent her to stay with the [dissenting](https://en.wikipedia.org/wiki/Dissenter "Dissenter") family of the [radical](https://en.wikipedia.org/wiki/Radicalism_(historical) "Radicalism (historical)") William Baxter, near [Dundee](https://en.wikipedia.org/wiki/Dundee "Dundee"), Scotland. 
+In June 1812, Mary's father sent her to stay with the [dissenting](https://en.wikipedia.org/wiki/Dissenter "Dissenter") family of the [radical](https://en.wikipedia.org/wiki/Radicalism_(historical) "Radicalism (historical)") William Baxter, near [Dundee](https://en.wikipedia.org/wiki/Dundee "Dundee"), Scotland. 
 
 Duncan Weatherburn is manipulative and played by [[../../Actor/US_Actor/Ruffalo,Mark]]. 
 [[../../Actor/US_Actor/Stone,Emma]] plays Bella Baxter/Victoria Bellingham. The last Name is taken from the Guest Family that [[../../books/Authors/Shelley,Mary|Mary Shelley]] was sent to. 

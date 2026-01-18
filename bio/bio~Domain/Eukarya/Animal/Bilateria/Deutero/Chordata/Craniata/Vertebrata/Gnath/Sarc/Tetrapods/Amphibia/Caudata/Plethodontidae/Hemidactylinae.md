@@ -30,7 +30,7 @@ voluntarily autotomize its tail (Petranka, 1998).
 
 ### Characteristics
 
-#### Diagnosis 
+#### Diagnosis 
 
 *Hemidactylium scutatum* is readily identified by having only four toes
 on each hindfoot, a constriction around the base of the tail, and a

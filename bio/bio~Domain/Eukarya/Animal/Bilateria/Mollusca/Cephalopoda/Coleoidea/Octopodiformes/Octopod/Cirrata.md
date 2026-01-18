@@ -199,10 +199,10 @@ mode of life immediately after hatching.
 **Figure**. **Left** - The broken egg case of an unknown cirrate taken
 in a bottom trawl, where it was found among sponges, from the R/V Meteor
 in the Angola Basin at a depth of 5400 m. The chorion can be seen
-protruding on the right side. **Right** -  The empty chorion and the
+protruding on the right side. **Right** -  The empty chorion and the
 advanced embryo, ca 10 mm from mouth to tip of mantle with very large
 fins, that was removed from it. A portion of the egg case in remains in
-the upper right.  Photographs by F. J. Cristobo, provided by U.
+the upper right.  Photographs by F. J. Cristobo, provided by U.
 Piatkowski.
 
 At least in ***Opisithoteuthis*** both males and females are mature over

@@ -52,7 +52,7 @@ A cirrate \...
 
 -   with long cirri and secondary webs.
 -   with saddle-shaped shell.
--   with anterior mantle attached dorsally to head. 
+-   with anterior mantle attached dorsally to head. 
 
 ### Characteristics
 

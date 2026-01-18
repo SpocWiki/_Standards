@@ -88,23 +88,23 @@ A ***Magnapinna*** with \...
         \
 6.  Measurements, mm
       --------- ---------
-                        Holotype          Berry specimen    **Atlantic
-                                                            specimen **
+                        Holotype          Berry specimen    **Atlantic
+                                                            specimen **
 
-      Mantle length     51                49                51 
+      Mantle length     51                49                51 
 
-      Muscular mantle   16                17                18 
+      Muscular mantle   16                17                18 
       length                                                
 
-      Gladius length\*  53                52                52\* 
+      Gladius length\*  53                52                52\* 
 
-      Fin length        39                40                47 
+      Fin length        39                40                47 
 
-      Fin width         34                41                38 
+      Fin width         34                41                38 
 
-      Head length       5                 4                 4 
+      Head length       5                 4                 4 
 
-      Head width        7                 5                 6 
+      Head width        7                 5                 6 
 
       Eye diameter      4                 3                 4
 
@@ -112,7 +112,7 @@ A ***Magnapinna*** with \...
       left/right, to                                        
       terminal sucker                                       
 
-      Arm II,           3.9 / 3.5         \-                4.1 / 3.8 
+      Arm II,           3.9 / 3.5         \-                4.1 / 3.8 
       left/right, to                                        
       terminal sucker                                       
 
@@ -120,35 +120,35 @@ A ***Magnapinna*** with \...
       left/right, to                                        
       terminal sucker                                       
 
-      Arm IV,           4.8 / 4.8         \-                \- / 3.8 
+      Arm IV,           4.8 / 4.8         \-                \- / 3.8 
       left/right, to                                        
       terminal sucker                                       
 
-      Tentacle,         7.1 / 7.4         \-                7.4 / 7.0 
+      Tentacle,         7.1 / 7.4         \-                7.4 / 7.0 
       left/right, to                                        
       terminal sucker                                       
 
-      Arm I,            2+ / 1.3+         \-                - 
+      Arm I,            2+ / 1.3+         \-                - 
       left/right,                                           
       terminal filament                                     
       length                                                
 
-      Arm II,           2+ / 2.6          \-                - 
+      Arm II,           2+ / 2.6          \-                - 
       left/right,                                           
       terminal filament                                     
       length                                                
 
-      Arm III,          2.6+ / 2.9        \-                - 
+      Arm III,          2.6+ / 2.9        \-                - 
       left/right,                                           
       terminal filament                                     
       length                                                
 
-      Arm IV,           2.0 / 1.3+        \-                - 
+      Arm IV,           2.0 / 1.3+        \-                - 
       left/right,                                           
       terminal filament                                     
       length                                                
 
-      Tentacle,         2.2 / -           \-                - 
+      Tentacle,         2.2 / -           \-                - 
       left/right,                                           
       terminal filament                                     
       length                                                

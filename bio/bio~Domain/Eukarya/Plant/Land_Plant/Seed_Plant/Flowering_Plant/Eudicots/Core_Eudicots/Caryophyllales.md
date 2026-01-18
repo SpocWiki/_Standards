@@ -67,13 +67,13 @@ II) and refer to the larger, more inclusive clade as the caryophyllid
 clade. Although morphological and anatomical characters are generally
 consistent with these expanded circumscriptions, nonDNA synapomorphies
 for this newly recognized expanded Caryophyllales have not yet been
-discovered. Caryophyllales *sensu* APG II (2003) comprise 29 families,
+discovered. Caryophyllales *sensu* APG II (2003) comprise 29 families,
 including Caryophyllaceae, Nyctaginaceae, Phytolaccaceae, Aizoaceae,
 Amaranthaceae (including Chenopodiaceae), Molluginaceae, Basellaceae,
 Cactaceae, Didiereaceae, a polyphyletic "Portulacaceae" and several
 small families, some of them of problematic placement, such as
 Frankeniaceae, Tamaricaceae, Asteropeiaceae, Rhabdodendraceae,
-Simmondsiaceae, Nepenthaceae and Droseraceae.  Two other families have
+Simmondsiaceae, Nepenthaceae and Droseraceae.  Two other families have
 been proposed: "Agdestidaceae" and "Petiveriaceae".
 
 ### Characteristics

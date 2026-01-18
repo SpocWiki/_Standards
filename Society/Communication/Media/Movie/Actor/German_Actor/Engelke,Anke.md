@@ -48,12 +48,12 @@ Anke ist sehr streng mit sich selbst.
 
 ### Karriereanfänge
 
-Von 1978 bis 1980 moderierte sie bei [Radio Luxemburg](https://de.wikipedia.org/wiki/RTL_%E2%80%93_Deutschlands_Hit-Radio "RTL – Deutschlands Hit-Radio") die Sendung _Moment mal_. 
-1979 sang sie in der Gruppe [Manuel & Pony](https://de.wikipedia.org/wiki/Pony_(Band) "Pony (Band)") _Das Lied von Manuel_ 
-und trat damit auch in der _[ZDF-Hitparade](https://de.wikipedia.org/wiki/ZDF-Hitparade "ZDF-Hitparade")_ auf. 
+Von 1978 bis 1980 moderierte sie bei [Radio Luxemburg](https://de.wikipedia.org/wiki/RTL_%E2%80%93_Deutschlands_Hit-Radio "RTL – Deutschlands Hit-Radio") die Sendung _Moment mal_. 
+1979 sang sie in der Gruppe [Manuel & Pony](https://de.wikipedia.org/wiki/Pony_(Band) "Pony (Band)") _Das Lied von Manuel_ 
+und trat damit auch in der _[ZDF-Hitparade](https://de.wikipedia.org/wiki/ZDF-Hitparade "ZDF-Hitparade")_ auf. 
 
-Von 1979 bis 1986 war sie [Moderatorin](https://de.wikipedia.org/wiki/Moderator#Moderator_(Journalismus) "Moderator") der täglichen Kindersendungen auf der Funkausstellung fürs ZDF; 
-zusammen mit [Benny Schnier](https://de.wikipedia.org/wiki/Benny_Schnier "Benny Schnier") moderierte sie das [ZDF-Ferienprogramm](https://de.wikipedia.org/wiki/ZDF-Ferienprogramm "ZDF-Ferienprogramm").
+Von 1979 bis 1986 war sie [Moderatorin](https://de.wikipedia.org/wiki/Moderator#Moderator_(Journalismus) "Moderator") der täglichen Kindersendungen auf der Funkausstellung fürs ZDF; 
+zusammen mit [Benny Schnier](https://de.wikipedia.org/wiki/Benny_Schnier "Benny Schnier") moderierte sie das [ZDF-Ferienprogramm](https://de.wikipedia.org/wiki/ZDF-Ferienprogramm "ZDF-Ferienprogramm").
 
 
 ## Confidential Links & Embeds: 

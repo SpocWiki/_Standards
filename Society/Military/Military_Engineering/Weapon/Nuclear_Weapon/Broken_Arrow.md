@@ -11,7 +11,7 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/United%20States%20military%20nuclear%20incident%20terminology) 
 
 
-The US Department of Defense has officially recognized at least 32 "Broken Arrow" incidents from 1950 to 1980. Examples of these events include:
+The US Department of Defense has officially recognized at least 32 "Broken Arrow" incidents from 1950 to 1980. Examples of these events include:
 
 - [1950 British Columbia B-36 crash](https://en.wikipedia.org/wiki/1950_British_Columbia_B-36_crash "1950 British Columbia B-36 crash")
 - [1956 B-47 disappearance](https://en.wikipedia.org/wiki/1956_B-47_disappearance "1956 B-47 disappearance")
@@ -26,7 +26,7 @@ The US Department of Defense has officially recognized at least 32 "Broken Arrow
 - [1968 Thule Air Base B-52 crash](https://en.wikipedia.org/wiki/1968_Thule_Air_Base_B-52_crash "1968 Thule Air Base B-52 crash")
 - [1980 Damascus Titan missile explosion](https://en.wikipedia.org/wiki/1980_Damascus_Titan_missile_explosion "1980 Damascus Titan missile explosion")
 
-Unofficially, the Defense Atomic Support Agency (now known as the [Defense Threat Reduction Agency](https://en.wikipedia.org/wiki/Defense_Threat_Reduction_Agency "Defense Threat Reduction Agency") (DTRA)) has detailed hundreds of "Broken Arrow" incidents.[[8]](https://en.wikipedia.org/wiki/United_States_military_nuclear_incident_terminology#cite_note-8)
+Unofficially, the Defense Atomic Support Agency (now known as the [Defense Threat Reduction Agency](https://en.wikipedia.org/wiki/Defense_Threat_Reduction_Agency "Defense Threat Reduction Agency") (DTRA)) has detailed hundreds of "Broken Arrow" incidents.[[8]](https://en.wikipedia.org/wiki/United_States_military_nuclear_incident_terminology#cite_note-8)
 
 
 ## Operation Chrome Dome 

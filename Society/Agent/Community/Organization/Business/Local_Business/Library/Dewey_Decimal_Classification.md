@@ -59,16 +59,16 @@ official_website: https://www.oclc.org/en/dewey.html
 
 ## Top-Level Classes 
 
-- [000](https://en.wikipedia.org/wiki/List_of_Dewey_Decimal_classes#Class_000_%E2%80%93_Computer_science,_information_and_general_works "List of Dewey Decimal classes") – Computer science, information and general works
-- [100](https://en.wikipedia.org/wiki/List_of_Dewey_Decimal_classes#Class_100_%E2%80%93_Philosophy_and_psychology "List of Dewey Decimal classes") – Philosophy and psychology
-- [200](https://en.wikipedia.org/wiki/List_of_Dewey_Decimal_classes#Class_200_%E2%80%93_Religion "List of Dewey Decimal classes") – Religion
-- [300](https://en.wikipedia.org/wiki/List_of_Dewey_Decimal_classes#Class_300_%E2%80%93_Social_sciences "List of Dewey Decimal classes") – Social sciences
-- [400](https://en.wikipedia.org/wiki/List_of_Dewey_Decimal_classes#Class_400_%E2%80%93_Language "List of Dewey Decimal classes") – Language
-- [500](https://en.wikipedia.org/wiki/List_of_Dewey_Decimal_classes#Class_500_%E2%80%93_Science "List of Dewey Decimal classes") – Pure science
-- [600](https://en.wikipedia.org/wiki/List_of_Dewey_Decimal_classes#Class_600_%E2%80%93_Technology "List of Dewey Decimal classes") – Technology
-- [700](https://en.wikipedia.org/wiki/List_of_Dewey_Decimal_classes#Class_700_%E2%80%93_Arts_and_recreation "List of Dewey Decimal classes") – Arts and recreation
-- [800](https://en.wikipedia.org/wiki/List_of_Dewey_Decimal_classes#Class_800_%E2%80%93_Literature "List of Dewey Decimal classes") – Literature
-- [900](https://en.wikipedia.org/wiki/List_of_Dewey_Decimal_classes#Class_900_%E2%80%93_History_and_geography "List of Dewey Decimal classes") – History and geography 
+- [000](https://en.wikipedia.org/wiki/List_of_Dewey_Decimal_classes#Class_000_%E2%80%93_Computer_science,_information_and_general_works "List of Dewey Decimal classes") – Computer science, information and general works
+- [100](https://en.wikipedia.org/wiki/List_of_Dewey_Decimal_classes#Class_100_%E2%80%93_Philosophy_and_psychology "List of Dewey Decimal classes") – Philosophy and psychology
+- [200](https://en.wikipedia.org/wiki/List_of_Dewey_Decimal_classes#Class_200_%E2%80%93_Religion "List of Dewey Decimal classes") – Religion
+- [300](https://en.wikipedia.org/wiki/List_of_Dewey_Decimal_classes#Class_300_%E2%80%93_Social_sciences "List of Dewey Decimal classes") – Social sciences
+- [400](https://en.wikipedia.org/wiki/List_of_Dewey_Decimal_classes#Class_400_%E2%80%93_Language "List of Dewey Decimal classes") – Language
+- [500](https://en.wikipedia.org/wiki/List_of_Dewey_Decimal_classes#Class_500_%E2%80%93_Science "List of Dewey Decimal classes") – Pure science
+- [600](https://en.wikipedia.org/wiki/List_of_Dewey_Decimal_classes#Class_600_%E2%80%93_Technology "List of Dewey Decimal classes") – Technology
+- [700](https://en.wikipedia.org/wiki/List_of_Dewey_Decimal_classes#Class_700_%E2%80%93_Arts_and_recreation "List of Dewey Decimal classes") – Arts and recreation
+- [800](https://en.wikipedia.org/wiki/List_of_Dewey_Decimal_classes#Class_800_%E2%80%93_Literature "List of Dewey Decimal classes") – Literature
+- [900](https://en.wikipedia.org/wiki/List_of_Dewey_Decimal_classes#Class_900_%E2%80%93_History_and_geography "List of Dewey Decimal classes") – History and geography 
 
 ## #has_/text_of_/abstract 
 

@@ -14,7 +14,7 @@ Containing group:[Magnapinnidae](../Magnapinnidae.md)
 
 ***Magnapinna atlantica*** (formerly known as ***Magnapinna*** sp. A on
 this page) was originally described from two specimens taken from the
-North Atlantic.  The holotype (US National Museum of Natural History
+North Atlantic.  The holotype (US National Museum of Natural History
 cat. no. USNM 1086800) is a juvenile female, 59 mm ML, and was captured
 intact with damage only to the tips of the appendages. The paratype
 (Natural History Museum, London, cat. no. BMNH 20060134) is a juvenile
@@ -54,7 +54,7 @@ A magnapinnid with:
 
 #### Comments
 
-This description is based on the holotype.  [More details of the holotype\'s description can be found here.](http://www.tolweb.org/notes/?note_id=3127) The paratype is a
+This description is based on the holotype.  [More details of the holotype\'s description can be found here.](http://www.tolweb.org/notes/?note_id=3127) The paratype is a
 smaller specimen (53 mm ML) and in less perfect condition. [Information on the paratype can be found here.](http://www.tolweb.org/notes/?note_id=3982)
 
 ***M. atlantica*** is very different from ***M. pacifica***. (1) ***M.
@@ -76,15 +76,15 @@ identical with those of ***M.*** ***atlantica*** (59 mm, 53 mm) but the
 diameter of the buccal mass, the size of the arm suckers and the
 thickness of the arm basis all suggest that ***M. talismani*** either
 had very different body proportions or, more likely, that it is actually
-a much larger individual (see photograph below).  At present, the only
+a much larger individual (see photograph below).  At present, the only
 clear difference that separates ***M. atlantica*** from ***M.
 talismani*** and **Magnapinna** sp. C is the presence of glandular
 regions on the proximal-tentacles. While the tentacles of the holotype
 of ***M. talismani*** where badly damaged, one recently described
 specimen assigned to ***M. talismani*** (see the ***M. talismani*** page
-on the ToL)  has proximal tentacles in in fairly good condition and they
+on the ToL)  has proximal tentacles in in fairly good condition and they
 show no trace of glandular regions. The absence could be size related
-but this seems unlikely. 
+but this seems unlikely. 
 ![ ](Magnapinna_atlantica/MagnapinnaSpNMagTalis.jpg)){width="457"}
 
 **Figure**. Oral-oblique views of the buccal region of the holotypes of

@@ -39,14 +39,14 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Bell%20System) 
 
 
-AT&T started with [Bell Patent Association](https://en.wikipedia.org/wiki/Bell_Patent_Association "Bell Patent Association"), a legal entity established in 1874 
-to protect the patent rights o[[../../../../../../../../Knowledge/Science/Scientist/Bell,Alexander_Graham]] after he invented the telephone system. 
+AT&T started with [Bell Patent Association](https://en.wikipedia.org/wiki/Bell_Patent_Association "Bell Patent Association"), a legal entity established in 1874 
+to protect the patent rights o[[../../../../../../../../Knowledge/Science/Scientist/Bell,Alexander_Graham]] after he invented the telephone system. 
 
-Originally a verbal agreement, it was formalized in writing in 1875 as [Bell Telephone Company](https://en.wikipedia.org/wiki/Bell_Telephone_Company "Bell Telephone Company").
+Originally a verbal agreement, it was formalized in writing in 1875 as [Bell Telephone Company](https://en.wikipedia.org/wiki/Bell_Telephone_Company "Bell Telephone Company").
 
-In 1877, the American Bell Telephone Company, named after [Alexander Graham Bell](https://en.wikipedia.org/wiki/Alexander_Graham_Bell "Alexander Graham Bell"), 
-opened the first telephone exchange in [New Haven, Connecticut](https://en.wikipedia.org/wiki/New_Haven,_Connecticut "New Haven, Connecticut"). 
-Within a few years [local exchange](https://en.wikipedia.org/wiki/Telephone_exchange "Telephone exchange") companies were established in every major city in the United States.
+In 1877, the American Bell Telephone Company, named after [Alexander Graham Bell](https://en.wikipedia.org/wiki/Alexander_Graham_Bell "Alexander Graham Bell"), 
+opened the first telephone exchange in [New Haven, Connecticut](https://en.wikipedia.org/wiki/New_Haven,_Connecticut "New Haven, Connecticut"). 
+Within a few years [local exchange](https://en.wikipedia.org/wiki/Telephone_exchange "Telephone exchange") companies were established in every major city in the United States.
 
 In 1899, American Telephone & Telegraph (AT&T) acquired the assets of its parent, the American Bell Telephone Company. 
 American Bell had created AT&T to provide long-distance calls between New York and Chicago and beyond. 

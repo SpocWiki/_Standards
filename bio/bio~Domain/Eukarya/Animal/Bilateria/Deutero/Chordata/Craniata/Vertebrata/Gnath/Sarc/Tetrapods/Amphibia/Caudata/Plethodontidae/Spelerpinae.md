@@ -79,7 +79,7 @@ anterior end of basibranchial, lingual cartilage, or equivalent. The
 anterior section of the hyoglossus muscle is present. The posterior
 fibers of the hyoglossus are oriented posteriorly. The suprapeduncularis
 muscle is well developed. The ramus hypoglossus bifurcates distally,
-near the tip of the basibranchial. 
+near the tip of the basibranchial. 
 
 ##### Epibranchial Number
 
@@ -94,7 +94,7 @@ breakage is not localized.
 ##### Brain Stem Motor Column
 
 There are two distinct classes of cells in the motor column of the neck
-and trunk. 
+and trunk. 
 
 ##### Jaws, Cranial Osteology and Structure of the Inner Ear
 

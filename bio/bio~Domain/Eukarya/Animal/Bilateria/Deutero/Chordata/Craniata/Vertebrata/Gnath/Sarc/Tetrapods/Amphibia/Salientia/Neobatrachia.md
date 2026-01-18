@@ -155,7 +155,7 @@ has been controversial because of ambiguity in the definition of the
 term. One of the simpler and more widely accepted definitions of
 firmisterny is the complete fusion of the epicoracoid cartilages
 (Peters, 1964). The girdle has been treated as a single complex unit,
-and many individual aspects of it (i. e., clavicle, coracoid,
+and many individual aspects of it (i. e., clavicle, coracoid,
 epicoracoid and procoracoid cartilages) have been not used in systematic
 analyses (Ford, 1989a). The validity of the firmisternal girdle as a
 single character cannot be assessed until the individual elements are

@@ -279,7 +279,7 @@ permanent_duplicated_item:
   - '[[_Standards/WikiData/WD~Q22001659,22001659]]'
   - '[[_Standards/WikiData/WD~English,23014481]]'
 POSIX_locale_identifier: en
-PyPI_trove_classifier: 'Natural Language :: English'
+PyPI_trove_classifier: 'Natural Language :: English'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Oldspeak,76836247]]'
 short_name:
   - анґліцькый

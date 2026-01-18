@@ -4,7 +4,7 @@ aliases:
   - Messier 42
   - M42
   - NGC 1976
-  - Great Nebula in Orion > or the Great Orion Nebula
+  - Great Nebula in Orion > or the Great Orion Nebula
   - Orion_Nebula
 has_id_wikidata: Q13903
 instance_of:

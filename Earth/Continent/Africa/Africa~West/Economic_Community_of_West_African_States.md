@@ -21,7 +21,7 @@ dv_is_same_as:
 
 has_time_started: 1975-05-28 
 aliases:
-  - Economic Community of West African States 
+  - Economic Community of West African States 
   - ECOWAS
   - CEDEAO
   - Economic_Community_of_West_African_States

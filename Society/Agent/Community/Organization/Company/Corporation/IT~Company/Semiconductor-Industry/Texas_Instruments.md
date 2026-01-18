@@ -18,7 +18,7 @@
 > a company founded in 1930 that manufactured equipment for use 
 > in the seismic industry, as well as defense electronics. 
 > 
-> TI entered the [defense](https://en.wikipedia.org/wiki/Defense_(military) "Defense (military)") electronics market in 1942 with submarine detection equipment, 
+> TI entered the [defense](https://en.wikipedia.org/wiki/Defense_(military) "Defense (military)") electronics market in 1942 with submarine detection equipment, 
 > based on the seismic exploration technology previously developed for the oil industry.
 > 
 > TI produced the world's first commercial silicon transistor in 1954, 
@@ -48,30 +48,30 @@
 
 
 In early 1952, Texas Instruments purchased a patent license 
-to produce germanium [[../../../../../../../../Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Transistor]]s from [Western Electric](https://en.wikipedia.org/wiki/Western_Electric "Western Electric"), 
+to produce germanium [[../../../../../../../../Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Transistor]]s from [Western Electric](https://en.wikipedia.org/wiki/Western_Electric "Western Electric"), 
 the manufacturing arm of AT&T, for US$25,000, 
 beginning production by the end of the year. 
 
-Haggerty brought [Gordon Teal](https://en.wikipedia.org/wiki/Gordon_Teal "Gordon Teal") to the company due to his expertise in growing semiconductor crystals while at [Bell Telephone Laboratories](https://en.wikipedia.org/wiki/Bell_Telephone_Laboratories "Bell Telephone Laboratories"). 
+Haggerty brought [Gordon Teal](https://en.wikipedia.org/wiki/Gordon_Teal "Gordon Teal") to the company due to his expertise in growing semiconductor crystals while at [Bell Telephone Laboratories](https://en.wikipedia.org/wiki/Bell_Telephone_Laboratories "Bell Telephone Laboratories"). 
 Teal's first assignment was to direct TI's research laboratory. 
 At the end of 1952, Texas Instruments announced 
-that it had expanded to 2,000 employees and $17 million in sales.
+that it had expanded to 2,000 employees and $17 million in sales.
 
-Among his new hires was [Willis Adcock](https://en.wikipedia.org/wiki/Willis_Adcock "Willis Adcock"), who joined TI early in 1953. 
-Adcock, who like Teal was a [physical chemist](https://en.wikipedia.org/wiki/Physical_chemist "Physical chemist"), began leading a small research group 
-focused on the task of fabricating grown-junction, [silicon](https://en.wikipedia.org/wiki/Silicon "Silicon"), single-crystal, 
-small-signal transistors. Adcock later became the first TI Principal Fellow. 
+Among his new hires was [Willis Adcock](https://en.wikipedia.org/wiki/Willis_Adcock "Willis Adcock"), who joined TI early in 1953. 
+Adcock, who like Teal was a [physical chemist](https://en.wikipedia.org/wiki/Physical_chemist "Physical chemist"), began leading a small research group 
+focused on the task of fabricating grown-junction, [silicon](https://en.wikipedia.org/wiki/Silicon "Silicon"), single-crystal, 
+small-signal transistors. Adcock later became the first TI Principal Fellow. 
 
-[[../../../../../../../../Science/Inventor/Kilby,Jack]], an employee at TI, invented the [integrated circuit](https://en.wikipedia.org/wiki/Integrated_circuit "Integrated circuit") in 1958.
+[[../../../../../../../../Science/Inventor/Kilby,Jack]], an employee at TI, invented the [integrated circuit](https://en.wikipedia.org/wiki/Integrated_circuit "Integrated circuit") in 1958.
 Kilby recorded his initial ideas concerning the integrated circuit in July 1958, 
 and successfully demonstrated the world's first working integrated circuit on 1958-09-12.
-Six months later, [Robert Noyce](https://en.wikipedia.org/wiki/Robert_Noyce "Robert Noyce") of [Fairchild Semiconductor](https://en.wikipedia.org/wiki/Fairchild_Semiconductor "Fairchild Semiconductor") 
-(who went on to co-found [Intel](https://en.wikipedia.org/wiki/Intel "Intel")) 
+Six months later, [Robert Noyce](https://en.wikipedia.org/wiki/Robert_Noyce "Robert Noyce") of [Fairchild Semiconductor](https://en.wikipedia.org/wiki/Fairchild_Semiconductor "Fairchild Semiconductor") 
+(who went on to co-found [Intel](https://en.wikipedia.org/wiki/Intel "Intel")) 
 independently developed the integrated circuit with integrated interconnect, 
 and is also considered an inventor of the integrated circuit.
-Noyce's chip, made at Fairchild, was made of silicon, while Kilby's chip was made of [germanium](https://en.wikipedia.org/wiki/Germanium "Germanium").
+Noyce's chip, made at Fairchild, was made of silicon, while Kilby's chip was made of [germanium](https://en.wikipedia.org/wiki/Germanium "Germanium").
 
-The [7400 series](https://en.wikipedia.org/wiki/7400_series "7400 series") of [[TTL(Transistor-Transistor_Logic)]] chips, 
+The [7400 series](https://en.wikipedia.org/wiki/7400_series "7400 series") of [[TTL(Transistor-Transistor_Logic)]] chips, 
 developed by Texas Instruments in the 1960s, 
 popularized the use of integrated circuits in computer logic.
 

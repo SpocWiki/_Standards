@@ -45,7 +45,7 @@ this genus. O\'shea (1999) placed ***Cirroteuthis magna*** in this genus
 on the basis of the similarity of the shells in the two species. These
 are fragile, gelatinous deep-sea cirrates.
 
-#### Diagnosis 
+#### Diagnosis 
 
 A cirroteuthid \...
 

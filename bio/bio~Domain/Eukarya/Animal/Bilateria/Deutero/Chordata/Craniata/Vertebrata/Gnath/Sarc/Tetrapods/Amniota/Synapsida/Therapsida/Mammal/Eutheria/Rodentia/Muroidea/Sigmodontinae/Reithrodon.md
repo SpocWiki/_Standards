@@ -32,10 +32,10 @@ and Geographic Reference. Internet version.
 [Scott J. Steppan and Michael Reno]()
 
 Reithrodontini is composed of a single genus with two recognized
-species: *R. typicus* and *R. auritus*.  *Reithrodon typicus* is the
-type species (Waterhouse, 1837).  They are commonly known as the coney
+species: *R. typicus* and *R. auritus*.  *Reithrodon typicus* is the
+type species (Waterhouse, 1837).  They are commonly known as the coney
 or bunny rats and are found mostly in southern South America from Tierra
-del Fuego to northern Argentina (Pardiñas and Galliari, 2001).  The
+del Fuego to northern Argentina (Pardiñas and Galliari, 2001).  The
 Reithrodontini are viewed as agricultural pests because they consume
 largely only grasses; some have been observed consuming amounts equal to
 their body weight in a single night (Pearson, 1988).
@@ -45,36 +45,36 @@ their body weight in a single night (Pearson, 1988).
 ### Characteristics
 
 *Reithroidon* are large, robust rodents with an average body mass of 80
-grams (Pearson, 1988).  Fur is usually dense and gray in color.  The
+grams (Pearson, 1988).  Fur is usually dense and gray in color.  The
 tail, which is slightly longer than the body, is covered with hair and
-ends with a tuft (Gyldenstolpe, 1932).  The ears are large, rounded, and
-covered with hair.  *R. typicus* may be differentiated from *R. auritus*
-by the sole of its feet with are bare.  *R. auritus* has hair on the
+ends with a tuft (Gyldenstolpe, 1932).  The ears are large, rounded, and
+covered with hair.  *R. typicus* may be differentiated from *R. auritus*
+by the sole of its feet with are bare.  *R. auritus* has hair on the
 soles of its feet (Thomas, 1920).
 
 The Reithrodontini range from Tierra del Fuego to the Pataganoian region
-of Argentina.  They are found in patchy clusters in the northern regions
-of Argentina (Pardiñas and Galliari, 2001).  They prefer the open
+of Argentina.  They are found in patchy clusters in the northern regions
+of Argentina (Pardiñas and Galliari, 2001).  They prefer the open
 habitat of grassy prairies but have been found in a great variety of
 habitats ranging from grassland to woodland areas (Pearson, 1988;
-Johnson et al., 1990).  They are known to form tunnels in tall grass and
+Johnson et al., 1990).  They are known to form tunnels in tall grass and
 even cohabitate these tunnels with other rodent, such as *Akodon
-longipilus* (Pearson, 1988).  The Reithrodontini can be either diurnal
+longipilus* (Pearson, 1988).  The Reithrodontini can be either diurnal
 or nocturnal depending on the weather conditions; they are active year
-round (Mann Fischer, 1978).  They are reproductively active in the
+round (Mann Fischer, 1978).  They are reproductively active in the
 spring with litter sizes ranging from one to eight (Pearson, 1988; Pine
 et al., 1979).
 
 ### Morphology
 
 The Reithrodontini are large rodents with large, rounded ears which are
-covered by hair.  They have a tail slightly longer than their body.  The
-hind legs are long and have hair between the sole pads.  The first and
+covered by hair.  They have a tail slightly longer than their body.  The
+hind legs are long and have hair between the sole pads.  The first and
 fifth digits of the foot are shorter than the middle three
-(Glydenstolpe, 1932; Pearson, 1988, 1995).  The incisors have two
-grooves, and the molars are hypsodont (high crowned) and laminated.  The
+(Glydenstolpe, 1932; Pearson, 1988, 1995).  The incisors have two
+grooves, and the molars are hypsodont (high crowned) and laminated.  The
 cusps and crests of the third molar are arranged in a sigmoidal array
-(S-haped), and the mesoloph is absent (Pearson, 1995; Steppan, 1995). 
+(S-haped), and the mesoloph is absent (Pearson, 1995; Steppan, 1995). 
 The Reithrodontini can easily be distgiushed from other Sigmodontinae by
 regular and rhomboidal cuticular scales on dorsal guard hairs (Busch,
 1986).\
@@ -97,35 +97,35 @@ selecting the appropriate view below.
 \|
 
 There are two characteristics which differentiate *R. typicus* and *R.
-auritus*: karyotyping and hair on the sole pads.  *R. typicus* has a
+auritus*: karyotyping and hair on the sole pads.  *R. typicus* has a
 diploid chromosome number of 28 and no hair on the sole pads while *R.
 auritus* has a diploid chromosome number of 34 and hair on its sole pads
 (Thomas,1920; Freitas et al., 1983).
 
 ### Taxonomy
 
-Waterhouse (1837) first described the genus *Reithrodon*.  Several taxa,
+Waterhouse (1837) first described the genus *Reithrodon*.  Several taxa,
 such as *Euneomys* and *Irenomys*, were initally thought to be members
-of *Reithrodon* (Waterhouse, 1839;  Trouessart, 1898), but were later
-removed to their own genera (Thomas, 1901; Allen 1903).  For many years
+of *Reithrodon* (Waterhouse, 1839;  Trouessart, 1898), but were later
+removed to their own genera (Thomas, 1901; Allen 1903).  For many years
 *R. cuniculoides* was recognized as the type species (Coues 1874;
-Trouessart, 1905); however in 1926, a change in International Rules of
+Trouessart, 1905); however in 1926, a change in International Rules of
 Nomenclature placed *R. typicus* as type species.\
 
 Herskovitz (1955) placed the Reithrodontini within a sigmodont group
-along with *Sigmodon, Holochilus*, *Sigmodon*, and *Neotomys*. 
+along with *Sigmodon, Holochilus*, *Sigmodon*, and *Neotomys*. 
 Karyotyping showed the Reithrodontini to be more closely related to the
-Phyllotini (Pearson and Patton, 1976).  Olds and Anderson (1989) placed
+Phyllotini (Pearson and Patton, 1976).  Olds and Anderson (1989) placed
 the Reithrodontini in an informal reithrodont group along with
-*Euneomys* and *Neotomys* within the Phyllotini.  This would be further
+*Euneomys* and *Neotomys* within the Phyllotini.  This would be further
 supported by other studies (Steppan 1993; Steppan and Pardiñas, 1998;
 Ortiz et al., 2000).
 
 Recent phylogenetic studies have removed *Reithrodon* from the
 Phyllotini and elevated them first to a suprageneric group (Engel et
-al., 1998) and later to tribe status (Smith and Patton, 1999).   D'Elía
+al., 1998) and later to tribe status (Smith and Patton, 1999).   D'Elía
 (2003) further confirmed this through the use of interphotoreceptor
-retinoid binding protein (IRBP), a nuclear gene.  More recent studies
+retinoid binding protein (IRBP), a nuclear gene.  More recent studies
 using multiple nuclear genes have been in agreement (Steppan,
 unpublished).\
 

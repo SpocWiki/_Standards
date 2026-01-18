@@ -51,7 +51,7 @@ source becomes scarce (Nowak 1999).
 160-220 mm, tail length 180-230 mm, and weight range of 300-350 grams
 (Krapp *in* Grzimek 1990). It has a white stripe that runs down each
 side of its body, with the occasional white stripe straight down the
-back.  The fur is short and stiff.
+back.  The fur is short and stiff.
 
 \
 

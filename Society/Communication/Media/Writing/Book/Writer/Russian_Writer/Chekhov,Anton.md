@@ -104,7 +104,7 @@ pronunciation_audio:
 Provenio_UUID: 9f91bc9d-9df1-4d20-b7d5-4ff8a2bb18e8
 pseudonym:
   - Антоша Чехонте
-  - Брат моего брата
+  - Брат моего брата
   - Человек без селизёнки
 residence:
   - '[[_Standards/WikiData/WD~Melikhovo,564901]]'

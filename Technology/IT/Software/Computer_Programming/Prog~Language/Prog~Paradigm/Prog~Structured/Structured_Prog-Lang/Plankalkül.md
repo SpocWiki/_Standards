@@ -14,9 +14,9 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Plankalk%C3%BCl) 
 
 
-Most of his computers were destroyed by Allied bombs, but Zuse was able to rescue one machine, the [Z4](https://en.wikipedia.org/wiki/Z4_(computer) "Z4 (computer)"), and move it to the Alpine village of [Hinterstein](https://en.wikipedia.org/wiki/Hinterstein) 
+Most of his computers were destroyed by Allied bombs, but Zuse was able to rescue one machine, the [Z4](https://en.wikipedia.org/wiki/Z4_(computer) "Z4 (computer)"), and move it to the Alpine village of [Hinterstein](https://en.wikipedia.org/wiki/Hinterstein) 
 Unable to continue building computers 
-– which was also forbidden by the Allied Powers – 
+– which was also forbidden by the Allied Powers – 
 Zuse devoted his time to the development of a higher-level programming model and language.
 
 

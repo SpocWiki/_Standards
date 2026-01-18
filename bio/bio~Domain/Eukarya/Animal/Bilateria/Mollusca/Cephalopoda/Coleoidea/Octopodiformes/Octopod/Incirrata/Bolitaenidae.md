@@ -78,7 +78,7 @@ and pigmentation is accuated by the size disparity. In addition, if the
 ***J. diaphana*** were smaller, the separation of its eyes would be
 less.\
 
- 
+ 
 
 ### Nomenclature
 
@@ -135,7 +135,7 @@ organ known in incirrate octopods.
 
 ![ ](Bolitaenidae/JapetellaPhotop.JPG)
 
-**Figure*****. *** Oral view of mature female ***Japetella
+**Figure*****. *** Oral view of mature female ***Japetella
 diaphana***showing yellow photophore around mouth, off Hawaii.
 Photograph by M. Vecchione.
 
@@ -150,13 +150,13 @@ embryos. Arrow in photograph points to a sucker holding one of the eggs.
 Photograph by R. Young.
 
 The chorion of each egg has a long stalk that attaches to the chorion of
-an adjacent egg. Some eggs will have several stalks attached to them. 
+an adjacent egg. Some eggs will have several stalks attached to them. 
 As a result the egg cluster is a matrix of eggs attached to one another
 in a rather haphazard way.
 
 ![ ](Bolitaenidae/BolitEmbryos.jpg)
 
-**Figure**. Developing embryos of ***Bolitaena pygmaea*** (?).  The egg
+**Figure**. Developing embryos of ***Bolitaena pygmaea*** (?).  The egg
 in the upper left corner of the photograph has two stalks attached to
 the chorion opposite the large yolk sac. Photograpyh by R. Young.
 

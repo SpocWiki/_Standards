@@ -52,7 +52,7 @@ Diagnosis
 
 A Chiroteuthis \...
 
--   with three rows of individual, round photophores on each eyeball. 
+-   with three rows of individual, round photophores on each eyeball. 
 
 ### Characteristics
 

@@ -503,7 +503,7 @@ has_place_latitude = `=this.dv_has_place_latitude`
 |Governorate|[ISO 3166-2:KW](https://en.wikipedia.org/wiki/ISO_3166-2:KW "ISO 3166-2:KW")|Formation|Population|Area (km2)|Notes|
 |---|---|---|---|---|---|
 |[Ahmadi Governorate](https://en.wikipedia.org/wiki/Ahmadi_Governorate "Ahmadi Governorate")|KW-AH|1962|959,009|5,120|It was named after Sheikh [Ahmad Al-Jaber Al-Sabah](https://en.wikipedia.org/wiki/Ahmad_Al-Jaber_Al-Sabah "Ahmad Al-Jaber Al-Sabah"), 10th ruler of Kuwait.|
-|[Asimah Governorate](https://en.wikipedia.org/wiki/Capital_Governorate_\(Kuwait\) "Capital Governorate (Kuwait)")|KW-KU|1962|568,567|175|It houses most of Kuwait's financial and business centres such as the [Kuwait Stock Exchange](https://en.wikipedia.org/wiki/Kuwait_Stock_Exchange "Kuwait Stock Exchange").|
+|[Asimah Governorate](https://en.wikipedia.org/wiki/Capital_Governorate_\(Kuwait\) "Capital Governorate (Kuwait)")|KW-KU|1962|568,567|175|It houses most of Kuwait's financial and business centres such as the [Kuwait Stock Exchange](https://en.wikipedia.org/wiki/Kuwait_Stock_Exchange "Kuwait Stock Exchange").|
 |[Farwaniya Governorate](https://en.wikipedia.org/wiki/Farwaniya_Governorate "Farwaniya Governorate")|KW-FA|1988|1,169,312|204|It is the most populated governorate.|
 |[Hawalli Governorate](https://en.wikipedia.org/wiki/Hawalli_Governorate "Hawalli Governorate")|KW-HA|1962|939,792|85|It is the smallest and most densely populated governorate.|
 |[Jahra Governorate](https://en.wikipedia.org/wiki/Jahra_Governorate "Jahra Governorate")|KW-JA|1979|540,910|11,230|It is the largest governorate and contains the agricultural area.|

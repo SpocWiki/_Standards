@@ -116,25 +116,25 @@ The following table compares characteristics of subadults for the genera
 of Gonatidae.\
 
   --------- ---------
-  Genus / Character   Tentacles         Hooks present on  Club
-                      present           clubs             locking-apparatus 
+  Genus / Character   Tentacles         Hooks present on  Club
+                      present           clubs             locking-apparatus 
 
-  **Berryteuthis**     Yes               No               Single series of
+  **Berryteuthis**     Yes               No               Single series of
                                                           suckers and knobs
                                                           along entire dorsal
                                                           margin of manus.\
 
-  **Eogonatus**        Yes               No               Short series of
-                                                          suckers, knobs and 
+  **Eogonatus**        Yes               No               Short series of
+                                                          suckers, knobs and 
                                                           elongate ridges at
                                                           base of manus.\
 
-  **Gonatopsis**       No                NA               NA 
+  **Gonatopsis**       No                NA               NA 
 
-  **Gonatus**          Yes               Yes              Short series of
-                                                          suckers, knobs and 
+  **Gonatus**          Yes               Yes              Short series of
+                                                          suckers, knobs and 
                                                           elongate ridges at
-                                                          base of manus. \
+                                                          base of manus. \
   --------- ---------
 
 ### Discussion of Phylogenetic Relationships

@@ -100,8 +100,8 @@ A ***Planctoteuthis*** \...
     1.  Each fin circular in outline.
 5.  Measurements and counts
       --------- ------
-                        North Atlantic    Hawaiian waters
-      Sex ::             Immature female    
+                        North Atlantic    Hawaiian waters
+      Sex ::             Immature female    
       Mantle length     56 mm             35 mm
       Fin length        25 mm             14 mm
       Fin width         37 mm             25 mm
@@ -109,8 +109,8 @@ A ***Planctoteuthis*** \...
       Arm II, length    \-                14 mm
       Arm III, length   \-                18 mm
       Arm IV, length    40 mm             28 mm
-      Tentacle length   88 mm              
-      Club length\*     5.7                
+      Tentacle length   88 mm              
+      Club length\*     5.7                
       Arm IV, suckers   19+ / 22+         25
       --------- ------
 

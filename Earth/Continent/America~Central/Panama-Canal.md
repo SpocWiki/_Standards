@@ -56,11 +56,11 @@ dv_is_same_as:
 > because of the combination of tropical rain forests, debilitating climate, 
 > the need for canal locks, and the lack of any ancient route to follow.
 > In 1887, [[Eiffel,Gustave]] became involved. The French Panama Canal Company, 
-> headed by [Ferdinand de Lesseps](https://en.wikipedia.org/wiki/Ferdinand_de_Lesseps "Ferdinand de Lesseps"), had been attempting to build a __sea-level canal__, 
+> headed by [Ferdinand de Lesseps](https://en.wikipedia.org/wiki/Ferdinand_de_Lesseps "Ferdinand de Lesseps"), had been attempting to build a __sea-level canal__, 
 > but came to the realization that this was impractical. 
-> The plan was changed to one using [locks](https://en.wikipedia.org/wiki/Lock_(water_transport) "Lock (water transport)"), 
+> The plan was changed to one using [locks](https://en.wikipedia.org/wiki/Lock_(water_transport) "Lock (water transport)"), 
 > which Eiffel was contracted to design and build. 
-> The locks were on a large scale, most having a change of level of 11 m. 
+> The locks were on a large scale, most having a change of level of 11 m. 
 > The dense jungle was alive with venomous snakes, insects, and spiders, 
 > but the worst challenges were [yellow fever](https://en.wikipedia.org/wiki/Yellow_fever "Yellow fever"), [malaria](https://en.wikipedia.org/wiki/Malaria "Malaria"), and other tropical diseases, 
 > which killed thousands of workers; by 1884, the death rate was over 200 per month. 
@@ -68,7 +68,7 @@ dv_is_same_as:
 > 
 > Eiffel had been working on the project for little more than a year 
 > when the company suspended payments of interest on 14 December 1888,
-> and shortly afterwards was put into [liquidation](https://en.wikipedia.org/wiki/Liquidation "Liquidation"). 
+> and shortly afterwards was put into [liquidation](https://en.wikipedia.org/wiki/Liquidation "Liquidation"). 
 > The French effort went bankrupt in 1889 
 > after reportedly spending US$287,000,000; 
 > an estimated 22,000 men died from disease and accidents, 
@@ -80,7 +80,7 @@ dv_is_same_as:
 > he was charged along with the directors of the project 
 > with raising money under false pretenses and misappropriation of funds. 
 > On 9 February 1893, Eiffel was found guilty 
-> on the charge of misuse of funds and was fined 20,000 francs and sentenced to two years in prison, although he was acquitted on appeal. 
+> on the charge of misuse of funds and was fined 20,000 francs and sentenced to two years in prison, although he was acquitted on appeal. 
 > 
 > The US took over the project in 1904 and opened the canal in 1914. 
 > The US continued to control the canal and surrounding Panama Canal Zone 

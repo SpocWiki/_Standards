@@ -78,20 +78,20 @@ A Sepiolida \...
 The following table compares the three subfamilies.
 
   -------- ------ ------
-                        Mantle      Head with   Mantle with Extensive web  Lateral
+                        Mantle      Head with   Mantle with Extensive web  Lateral
                         fused to    nuchal      ventral     between arms   funnel
                         head        cartilage   shield      I-III          adductor
-                                                                           muscles 
+                                                                           muscles 
 
-  ***Choneteuthis***    Yes         Yes         Yes\        No             Yes 
+  ***Choneteuthis***    Yes         Yes         Yes\        No             Yes 
 
-  Heteroteuthinae       Yes/No      Yes/No      Yes         Yes            Yes 
+  Heteroteuthinae       Yes/No      Yes/No      Yes         Yes            Yes 
 
-  NewSubFamily          Yes\        No\         No\         Moderate\      No\
+  NewSubFamily          Yes\        No\         No\         Moderate\      No\
 
-  Rossinae              No          Yes         No          No             Yes 
+  Rossinae              No          Yes         No          No             Yes 
 
-  Sepiolinae            Yes         No          No          Moderarte/No   Yes 
+  Sepiolinae            Yes         No          No          Moderarte/No   Yes 
   -------- ------ ------
 
 The NewSubFamily does not fit well in the Order Sepioidea as two basic
@@ -111,7 +111,7 @@ characteristics listed above is due to loss. At present, the
 phylogenetic position of the NewSubFamily is guesswork since the
 phylogeny of the Sepiolida is in flux.\
 
- 
+ 
 
 ### Nomenclature
 
@@ -130,9 +130,9 @@ As Naef (1921-23) recognized, characteristics of this genus place it
 right between the two subfamilies. ***Choneteuthis*** which is presently
 not placed in any subfamily shows strong similarities to ***Sepiolina***
 especially in having a large visceral photophore and ventral shield and
-lacking a tentacular organ. The latter feature is  primarily responsible
+lacking a tentacular organ. The latter feature is  primarily responsible
 for separating ***Sepiolina*** from the remainder of the
-Heteroteuthinae.   ***Choneteuthis*** further confuses the boundries of
+Heteroteuthinae.   ***Choneteuthis*** further confuses the boundries of
 the Heteroteuthinae.\
 
 A cladistic analysis has not been made on this family but one is badly

@@ -55,13 +55,13 @@ This is a very popular NuGet Package to dynamically write a Parser using a fluen
 The Grammar has to be transformed to be either iterative or use `Parse.Ref` for Recursions. 
 
 ```cs
-/// <summary> argument_list = expression { ',' expression } </summary>
-private static readonly Parser<IEnumerable<string>> ArgumentListParser =
-    from first in Parse.Ref(() => ExpressionParser) //need a Ref, because recursive 
-    from rest in (from comma in Parse.Char(',').Token()
-                  from expr in Parse.Ref(() => ExpressionParser)
-                  select expr).Many()
-    select new[] { first }.Concat(rest);
+/// <summary> argument_list = expression { ',' expression } </summary>
+private static readonly Parser<IEnumerable<string>> ArgumentListParser =
+    from first in Parse.Ref(() => ExpressionParser) //need a Ref, because recursive 
+    from rest in (from comma in Parse.Char(',').Token()
+                  from expr in Parse.Ref(() => ExpressionParser)
+                  select expr).Many()
+    select new[] { first }.Concat(rest);
 ```
 
 

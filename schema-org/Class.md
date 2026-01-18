@@ -99,7 +99,7 @@ In Category Theory **large types** (analog of proper classes) can be **elements 
 | Framework                         | What Counts as Small               | Formal Criterion          | Typical Quantification Unit | Notes                                                                                  |
 | --------------------------------- | ---------------------------------- | ------------------------- | --------------------------- | -------------------------------------------------------------------------------------- |
 | **ZFC (Zermelo–Fraenkel)**        | Set inside a fixed “universe” U    | S∈U where U is a set      | Size relative to U          | All mathematical objects are sets; “small” is relative to an agreed background set.    |
-| **NBG / MK**                      | Set                                | ∃C (S∈C)                  | N/A                         | Proper classes are never small; small means being a set rather than a proper class.    |
+| **NBG / MK**                      | Set                                | ∃C (S∈C)                  | N/A                         | Proper classes are never small; small means being a set rather than a proper class.    |
 | **Type Theory (MLTT, Coq, Lean)** | Type in lowest considered universe | A : Type_i with minimal i | Universe index i            | “Small type” means it lives in Type0 relative to context; higher universes are larger. |
 | **Category Theory**               | Set or type with cardinality < κ   |                           | S                           | < κ                                                                                    |
 

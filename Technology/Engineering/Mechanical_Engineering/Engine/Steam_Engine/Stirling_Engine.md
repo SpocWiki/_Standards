@@ -2,13 +2,13 @@
 
 ![[../../../../../assets/Alpha_Stirling_highres.gif]] 
 
-The idealised Stirling cycle consists of four [thermodynamic processes](https://en.wikipedia.org/wiki/Thermodynamic_processes "Thermodynamic processes") acting on the working fluid:
+The idealised Stirling cycle consists of four [thermodynamic processes](https://en.wikipedia.org/wiki/Thermodynamic_processes "Thermodynamic processes") acting on the working fluid:
 [[../../../../../assets/Stirling_cycle.jpeg]] 
 ![[../../../../../assets/Stirling_cycle.jpeg]] 
-1. [Isothermal](https://en.wikipedia.org/wiki/Isothermal "Isothermal") [expansion](https://en.wikipedia.org/wiki/Thermal_expansion "Thermal expansion"). The expansion-space and associated heat exchanger are maintained at a constant high temperature, and the gas undergoes near-isothermal expansion absorbing heat from the hot source.
-2. Constant-volume (known as [isovolumetric](https://en.wikipedia.org/wiki/Isometric_process "Isometric process") or [isochoric](https://en.wikipedia.org/wiki/Isochoric_process "Isochoric process")) heat-removal. The gas is passed through the [regenerator](https://en.wikipedia.org/wiki/Regenerative_heat_exchanger "Regenerative heat exchanger"), where it cools, transferring heat to the regenerator for use in the next cycle.
-3. [Isothermal](https://en.wikipedia.org/wiki/Isothermal "Isothermal") [compression](https://en.wikipedia.org/wiki/Compression_ratio "Compression ratio"). The compression space and associated heat exchanger are maintained at a constant low temperature so the gas undergoes near-isothermal compression rejecting heat to the cold sink
-4. Constant-volume (known as [isovolumetric](https://en.wikipedia.org/wiki/Isometric_process "Isometric process") or [isochoric](https://en.wikipedia.org/wiki/Isochoric_process "Isochoric process")) heat-addition. The gas passes back through the regenerator where it recovers much of the heat transferred in process 2, heating up on its way to the expansion space.
+1. [Isothermal](https://en.wikipedia.org/wiki/Isothermal "Isothermal") [expansion](https://en.wikipedia.org/wiki/Thermal_expansion "Thermal expansion"). The expansion-space and associated heat exchanger are maintained at a constant high temperature, and the gas undergoes near-isothermal expansion absorbing heat from the hot source.
+2. Constant-volume (known as [isovolumetric](https://en.wikipedia.org/wiki/Isometric_process "Isometric process") or [isochoric](https://en.wikipedia.org/wiki/Isochoric_process "Isochoric process")) heat-removal. The gas is passed through the [regenerator](https://en.wikipedia.org/wiki/Regenerative_heat_exchanger "Regenerative heat exchanger"), where it cools, transferring heat to the regenerator for use in the next cycle.
+3. [Isothermal](https://en.wikipedia.org/wiki/Isothermal "Isothermal") [compression](https://en.wikipedia.org/wiki/Compression_ratio "Compression ratio"). The compression space and associated heat exchanger are maintained at a constant low temperature so the gas undergoes near-isothermal compression rejecting heat to the cold sink
+4. Constant-volume (known as [isovolumetric](https://en.wikipedia.org/wiki/Isometric_process "Isometric process") or [isochoric](https://en.wikipedia.org/wiki/Isochoric_process "Isochoric process")) heat-addition. The gas passes back through the regenerator where it recovers much of the heat transferred in process 2, heating up on its way to the expansion space.
 
 
 ![[../../../../../assets/Beta_Stirling_Animation.gif]] 

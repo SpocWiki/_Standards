@@ -176,7 +176,7 @@ color - Day captures. Chart modified from Young (1978).
 
 The type locality is 29° N and 39° W in the North Atlantic. It is known
 from the tropical and subtropical North Atlantic and the tropical and
-temperate North Pacific (Nesis, 1982). 
+temperate North Pacific (Nesis, 1982). 
 
 ### References
 

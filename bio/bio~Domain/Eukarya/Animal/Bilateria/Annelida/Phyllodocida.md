@@ -233,16 +233,16 @@ dorsal view, copyright © 2004 Fredrik Pleijel.
      Aphroditiformia                                                   
 
 
-                                   Acoetidae\                          
+                                   Acoetidae\                          
                                                  Aphroditidae\                       
                                                               Eulepethidae\                       
                                                               Pholoidae\                          
                                                               Polynoidae\                         
                                                               Sigalionidae                        
 
-                                Nereidiformia                                                     
+                                Nereidiformia                                                     
 
-                                                              Chrysopetalidae\                    
+                                                              Chrysopetalidae\                    
                                                               Hesionidae\                         
                                                               Nautiliniellidae\                   
                                                               Nereididae\                         
@@ -253,36 +253,36 @@ dorsal view, copyright © 2004 Fredrik Pleijel.
                                                               (*Microphthalmus*,                  
                                                               *Hesionides*)                       
 
-                                Glyceriformia                                                     
+                                Glyceriformia                                                     
 
-                                                              Glyceridae\                         
+                                                              Glyceridae\                         
                                                               Goniadidae                          
 
-                                *Ichthyotomus*                                                    
+                                *Ichthyotomus*                                                    
 
-                                Lopadorhynchidae                                                  
+                                Lopadorhynchidae                                                  
 
-                                \"Minor\" holopelagic                                             
+                                \"Minor\" holopelagic                                             
                                 Phyllodocida (Iospilidae,                                         
                                 *Pontodora*,                                                      
                                 Typhloscolecidae)                                                 
 
-                                Myzostomids                                                       
+                                Myzostomids                                                       
 
-                                Nephtyidae                                                        
+                                Nephtyidae                                                        
 
-                                *Paralacydonia*                                                   
+                                *Paralacydonia*                                                   
 
-                                Unnamed clade                                                     
+                                Unnamed clade                                                     
 
-                                                              Phyllodocidae\                      
+                                                              Phyllodocidae\                      
                                                               *Lacydonia*                         
 
-                                Sphaerodoridae                                                    
+                                Sphaerodoridae                                                    
 
-                                Tomopteridae                                                      
+                                Tomopteridae                                                      
 
-                                Phyllodocida incertae sedis                                       
+                                Phyllodocida incertae sedis                                       
                                 (*Antonbruunia*, *Struwela*,                                      
                                 *Yndolacia*)                                                      
   ------------------- -------

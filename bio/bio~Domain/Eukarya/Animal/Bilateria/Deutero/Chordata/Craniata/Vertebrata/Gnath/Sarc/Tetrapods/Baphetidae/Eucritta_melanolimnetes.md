@@ -39,7 +39,7 @@ clade.\
 ![ ](Eucritta_melanolimnetes/Eucrittareconstrn1.gif){height="500" width="348"}\
 
 Reconstruction of the skeleton of the holotype specimen of *Eucritta
-melanolimnetes* (UMZC T.1347).  See Clack (2001). © [Jennifer A. Clack](http://www.zoo.cam.ac.uk/museum/jenny.htm)
+melanolimnetes* (UMZC T.1347).  See Clack (2001). © [Jennifer A. Clack](http://www.zoo.cam.ac.uk/museum/jenny.htm)
 
 ## Phylogeny 
 

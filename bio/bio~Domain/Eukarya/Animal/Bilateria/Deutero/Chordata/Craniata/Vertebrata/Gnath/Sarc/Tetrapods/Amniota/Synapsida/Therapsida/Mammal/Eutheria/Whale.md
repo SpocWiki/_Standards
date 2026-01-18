@@ -272,7 +272,7 @@ In the giant sperm whale, the nasal passages remain discrete tubes until
 just proximal to the single s-shaped blowhole.\
 © 1989 John E. Heyning.
 
- 
+ 
 ### Hearing and Echolocation
 
 Echolocation is the ability to assess the environment (mostly, detecting
@@ -444,7 +444,7 @@ Phylogenetic relationships among the families of extant cetaceans are
 still problematic and hypotheses on various nodes of the tree come from
 a variety of data: the morphology of extant taxa (including the soft
 anatomy) (*e.g.,* Heyning, 1989), paleontological (e.g., Muizon 1991;
-Fordyce 1994; Geisler and Sanders 2003), and molecular evidence (*e.g.*,
+Fordyce 1994; Geisler and Sanders 2003), and molecular evidence (*e.g.*,
 Milinkovitch *et al.* 1993, 1994; Arnason and Gulberg, 1996; Cassens *et
 al.* 2000) or a combination of these (Milinkovitch 1995; Messenger and
 Mc Guire, 1998; Gatesy *et al.* 1999). This evidence will be discussed

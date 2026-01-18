@@ -1,7 +1,7 @@
 ---
 aliases:
   - Control engineering
-  - control systems engineering 
+  - control systems engineering 
   - automation engineering
   - Control_Engineering
   - Control Engineering

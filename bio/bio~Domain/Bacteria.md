@@ -292,8 +292,8 @@ and Mycobacterium tuberculosis.
 
 ## Classification: 
 
-There is a great deal of diversity in the domain [Bacteria](https://en.wikipedia.org/wiki/Bacteria "Bacteria"). 
-That diversity is further confounded by the [exchange of genes](https://en.wikipedia.org/wiki/Horizontal_gene_transfer "Horizontal gene transfer") between different bacterial lineages. 
+There is a great deal of diversity in the domain [Bacteria](https://en.wikipedia.org/wiki/Bacteria "Bacteria"). 
+That diversity is further confounded by the [exchange of genes](https://en.wikipedia.org/wiki/Horizontal_gene_transfer "Horizontal gene transfer") between different bacterial lineages. 
 The occurrence of duplicate genes between otherwise distantly-related bacteria 
 makes it nearly impossible to distinguish bacterial species, count the bacterial species on the Earth, 
 or organize them into a tree-like structure

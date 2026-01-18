@@ -34,13 +34,13 @@ aliases:
 16. [Fanfare band](https://en.wikipedia.org/wiki/Fanfare_band "Fanfare band")
 17. [Fanfare orchestra](https://en.wikipedia.org/wiki/Fanfare_orchestra "Fanfare orchestra")
 18. [Fife and drum](https://en.wikipedia.org/wiki/Fife_and_drum "Fife and drum")
-19. [Garage rock](https://en.wikipedia.org/wiki/Garage_rock "Garage rock") band
+19. [Garage rock](https://en.wikipedia.org/wiki/Garage_rock "Garage rock") band
 20. [Girl group](https://en.wikipedia.org/wiki/Girl_group "Girl group")
 21. [Heavy metal band](https://en.wikipedia.org/wiki/Heavy_metal_band "Heavy metal band")
 22. [Jam band](https://en.wikipedia.org/wiki/Jam_band "Jam band")
 23. [Jazz band](https://en.wikipedia.org/wiki/Jazz_band "Jazz band")
 24. [Jug band](https://en.wikipedia.org/wiki/Jug_band "Jug band")
-25. [Klezmer](https://en.wikipedia.org/wiki/Klezmer "Klezmer") band
+25. [Klezmer](https://en.wikipedia.org/wiki/Klezmer "Klezmer") band
 26. [Marching band](https://en.wikipedia.org/wiki/Marching_band "Marching band")
 27. [Metal band](https://en.wikipedia.org/wiki/Metal_band "Metal band")
 28. [Military band](https://en.wikipedia.org/wiki/Military_band "Military band")
@@ -53,7 +53,7 @@ aliases:
 35. [Rock band / Pop band](https://en.wikipedia.org/wiki/Band_\(rock_and_pop\) "Band (rock and pop)")
 36. [Rock Supergroup](https://en.wikipedia.org/wiki/Rock_Supergroup "Rock Supergroup")
 37. [School band](https://en.wikipedia.org/wiki/School_band "School band")
-38. [Ska](https://en.wikipedia.org/wiki/Ska "Ska") band
+38. [Ska](https://en.wikipedia.org/wiki/Ska "Ska") band
 39. [Studio band](https://en.wikipedia.org/wiki/Studio_band "Studio band")
 40. [Tribute act](https://en.wikipedia.org/wiki/Tribute_act "Tribute act") 
 

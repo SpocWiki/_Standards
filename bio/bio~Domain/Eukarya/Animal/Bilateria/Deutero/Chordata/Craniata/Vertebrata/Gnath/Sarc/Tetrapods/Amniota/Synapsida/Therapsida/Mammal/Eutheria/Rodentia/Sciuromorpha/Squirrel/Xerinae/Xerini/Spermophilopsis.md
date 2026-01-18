@@ -70,14 +70,14 @@ African xerine squirrels (Wilson and Reeder 2005). In 2004, Steppan et
 al. concluded that there were three major lineages within the ground
 squirrel clade known as the Xerine group. One major lineage, the Old
 World Xerini, includes *S. leptodactylus,* and places the species among
-the African *Xerus * and *Atlantoxerus* species (Steppan et al. 2004).
+the African *Xerus * and *Atlantoxerus* species (Steppan et al. 2004).
 
 ### Geographic Distribution
 
 *S. leptodactylus* is the only species of the xerine squirrels found
 outside of Africa. The squirrel is concentrated in Central Asia, from
 the southeastern shore of the Caspian Sea to Lake Balkhash in
-Kazakhstan.  This includes the countries Turkmenistan, Uzbekistan and is
+Kazakhstan.  This includes the countries Turkmenistan, Uzbekistan and is
 limited to the western parts of Tajikistan. The northwest region of
 Afghanistan and northeast region of Iran create the southern most
 boundary of the squirrel's distribution (Corbet 1978; Lay 1967; Wilson

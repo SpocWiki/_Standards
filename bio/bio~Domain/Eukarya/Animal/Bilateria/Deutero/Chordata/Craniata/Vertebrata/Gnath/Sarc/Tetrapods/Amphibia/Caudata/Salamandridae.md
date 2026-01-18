@@ -45,7 +45,7 @@ represented in Europe, Asia, and North America. The true salamanders are
 almost entirely European in distribution, except for some peripheral
 populations of *Salamandra infraimmaculata* and *S. semenovi* located in
 the Middle East (Iran, Iraq, Israel, Lebanon, Syria, and Turkey),
-*Salamandra algira * from northwest Africa (northern Algeria and
+*Salamandra algira * from northwest Africa (northern Algeria and
 Morocco), and the genus *Lyciasalamandra* in southern Turkey and some
 Aegean islands. Habitats favored by the true salamanders include burrows
 and refuges located under logs or stones in moist woodlands and

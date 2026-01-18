@@ -24,7 +24,7 @@ obs.). [A video of this species can be found here.](http://www.mnh.si.edu/cephs/
 
 #### Diagnosis
 
-See \"Comments\" below. 
+See \"Comments\" below. 
 
 ### Characteristics
 

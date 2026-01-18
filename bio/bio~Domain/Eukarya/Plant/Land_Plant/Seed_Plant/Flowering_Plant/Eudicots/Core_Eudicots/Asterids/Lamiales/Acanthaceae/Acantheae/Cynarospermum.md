@@ -58,12 +58,12 @@ title: Cynarospermum asperrimum
 
 [Lucinda A. McDade and Carrie Kiel]() 
 
-*Cynarospermum* is an Indian genus with a single species.  This species
+*Cynarospermum* is an Indian genus with a single species.  This species
 was treated as a member of *Blepharis* until Vollesen (1999) pointed out
 that it lacks the synapomorphies of that genus (i.e., leaves are
 opposite rather than in pseudowhorls, and the anterior pair of filaments
-is normal rather than appendaged).  Plants of this species also have a
-number of apomorphies that further distinguish them from *Blepharis*. 
+is normal rather than appendaged).  Plants of this species also have a
+number of apomorphies that further distinguish them from *Blepharis*. 
 Inflorescences are reduced to solitary or paired flowers in the axils of
 vegetatives leaves, the bracteoles are three parted at the apex, and the
 seeds have conical tubercles.

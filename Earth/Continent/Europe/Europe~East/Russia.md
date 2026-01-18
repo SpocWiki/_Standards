@@ -1195,7 +1195,7 @@ has_place_latitude = `=this.dv_has_place_latitude`
   
  
 [[../../media/Podcast/Navalny,Alexei]]  
-[Alexander Walterowitsch Litwinenko](https://de.wikipedia.org/wiki/Alexander_Walterowitsch_Litwinenko "Alexander Walterowitsch Litwinenko"), ehemaliger russischer [FSB](https://de.wikipedia.org/wiki/FSB_\(Geheimdienst\) "FSB (Geheimdienst)")-Agent, Buchautor und [Putin](https://de.wikipedia.org/wiki/Wladimir_Wladimirowitsch_Putin "Wladimir Wladimirowitsch Putin")-Kritiker, wurde am 1. November 2006 im Exil in London mit [Polonium-210](https://de.wikipedia.org/wiki/Polonium-210 "Polonium-210") vergiftet 
+[Alexander Walterowitsch Litwinenko](https://de.wikipedia.org/wiki/Alexander_Walterowitsch_Litwinenko "Alexander Walterowitsch Litwinenko"), ehemaliger russischer [FSB](https://de.wikipedia.org/wiki/FSB_\(Geheimdienst\) "FSB (Geheimdienst)")-Agent, Buchautor und [Putin](https://de.wikipedia.org/wiki/Wladimir_Wladimirowitsch_Putin "Wladimir Wladimirowitsch Putin")-Kritiker, wurde am 1. November 2006 im Exil in London mit [Polonium-210](https://de.wikipedia.org/wiki/Polonium-210 "Polonium-210") vergiftet 
 
 
 ## #has_/text_of_/abstract 

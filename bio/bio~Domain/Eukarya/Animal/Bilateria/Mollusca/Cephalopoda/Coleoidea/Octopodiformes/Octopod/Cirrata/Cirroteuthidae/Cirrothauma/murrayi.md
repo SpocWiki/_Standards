@@ -38,7 +38,7 @@ Containing group: *[Cirrothauma](../Cirrothauma.md)*
 
 ## Introduction
 
- 
+ 
 
 ***C. murrayi*** is virtually blind. The eye lacks a lens; the retina is
 reduced and continuous with a cornea. The eye is embedded within the
@@ -53,7 +53,7 @@ hole in the Arctic Ocean (Aldred *et al.*, 1983).
 
 A Cirrothauma \...
 
--    with reduced eyes lacking lenses.\
+-    with reduced eyes lacking lenses.\
 
 ### Characteristics
 

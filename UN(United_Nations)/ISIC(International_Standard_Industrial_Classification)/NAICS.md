@@ -28,7 +28,7 @@ The first five digits are generally (although not always strictly) the same in a
 - the third digit represents the subsector; the fourth digit represents the industry group; 
 - the fifth digit designates the NAICS [industries](https://en.wikipedia.org/wiki/Industry_\(economics\)), 
 - and the sixth digit represents the national [industries](https://en.wikipedia.org/wiki/Industry_\(economics\)).
-The system is designed to be largely compatible with the [United Nations](https://en.wikipedia.org/wiki/United_Nations "United Nations") Statistical Office's [International Standard Industrial Classification](https://en.wikipedia.org/wiki/International_Standard_Industrial_Classification "International Standard Industrial Classification") system (ISIC). 
+The system is designed to be largely compatible with the [United Nations](https://en.wikipedia.org/wiki/United_Nations "United Nations") Statistical Office's [International Standard Industrial Classification](https://en.wikipedia.org/wiki/International_Standard_Industrial_Classification "International Standard Industrial Classification") system (ISIC). 
 
 
 NAICS aggregation levels

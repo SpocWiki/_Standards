@@ -49,7 +49,7 @@ often changes its direction.
 
 ### Distribution
 
-This species has been recorded from soil in Australia (Ekelund and
+This species has been recorded from soil in Australia (Ekelund and
 Patterson, 1997).
 
 ### Discussion

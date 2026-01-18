@@ -68,7 +68,7 @@ distinguished from *A. filosa* because it lacks the thin cytoplasmic
 extensions which are distinctive for *A. filosa*. We suspect that some
 of these differences will not be sustainable. The genus has not been
 extensively documented. Additional studies suggest that there will be a
-continuum of form which embraces *A. debruynei*, *A. bermudensis*, *A.
+continuum of form which embraces *A. debruynei*, *A. bermudensis*, *A.
 terricola* and perhaps even *A. mutabilis*.
 
 ### References

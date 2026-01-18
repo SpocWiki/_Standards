@@ -99,48 +99,48 @@ In 1955, Carl Frosch and Lincoln Derick at Bell Telephone Laboratories (BTL)
 accidentally discovered that silicon dioxide (SiO2) could be grown on silicon. 
 
 They showed that oxide layer prevented certain dopants into the silicon wafer, 
-while allowing for others, thus discovering the passivating effect of oxidation on the semiconductor surface. 
-In the 1950s, [Mohamed Atalla](https://en.wikipedia.org/wiki/Mohamed_Atalla "Mohamed Atalla"), picked up Frosch's work on oxidation, 
-investigated the surface properties of silicon semiconductors at [Bell Labs](https://en.wikipedia.org/wiki/Bell_Labs "Bell Labs"), 
-where he proposed a new method of [semiconductor device fabrication](https://en.wikipedia.org/wiki/Semiconductor_device_fabrication "Semiconductor device fabrication"), 
-coating a [silicon wafer](https://en.wikipedia.org/wiki/Silicon_wafer "Silicon wafer") with an insulating layer of [silicon oxide](https://en.wikipedia.org/wiki/Silicon_oxide "Silicon oxide") 
+while allowing for others, thus discovering the passivating effect of oxidation on the semiconductor surface. 
+In the 1950s, [Mohamed Atalla](https://en.wikipedia.org/wiki/Mohamed_Atalla "Mohamed Atalla"), picked up Frosch's work on oxidation, 
+investigated the surface properties of silicon semiconductors at [Bell Labs](https://en.wikipedia.org/wiki/Bell_Labs "Bell Labs"), 
+where he proposed a new method of [semiconductor device fabrication](https://en.wikipedia.org/wiki/Semiconductor_device_fabrication "Semiconductor device fabrication"), 
+coating a [silicon wafer](https://en.wikipedia.org/wiki/Silicon_wafer "Silicon wafer") with an insulating layer of [silicon oxide](https://en.wikipedia.org/wiki/Silicon_oxide "Silicon oxide") 
 so that electricity could reliably penetrate to the conducting silicon below, 
 overcoming the surface states 
 that prevented electricity from reaching the semiconducting layer. 
 
-This is known as [surface passivation](https://en.wikipedia.org/wiki/Surface_passivation "Surface passivation"), 
-a method that became critical to the [semiconductor industry](https://en.wikipedia.org/wiki/Semiconductor_industry "Semiconductor industry") 
-as it later made possible the mass-production of silicon [integrated circuits](https://en.wikipedia.org/wiki/Integrated_circuit "Integrated circuit"). 
+This is known as [surface passivation](https://en.wikipedia.org/wiki/Surface_passivation "Surface passivation"), 
+a method that became critical to the [semiconductor industry](https://en.wikipedia.org/wiki/Semiconductor_industry "Semiconductor industry") 
+as it later made possible the mass-production of silicon [integrated circuits](https://en.wikipedia.org/wiki/Integrated_circuit "Integrated circuit"). 
 He presented his findings in 1957. 
-He studied the passivation of [p-n junctions](https://en.wikipedia.org/wiki/P-n_junction "P-n junction") by [oxide](https://en.wikipedia.org/wiki/Oxide "Oxide"), 
+He studied the passivation of [p-n junctions](https://en.wikipedia.org/wiki/P-n_junction "P-n junction") by [oxide](https://en.wikipedia.org/wiki/Oxide "Oxide"), 
 and published his experimental results in 1957 BTL memos. 
 Atalla's surface passivation method was later the basis for two inventions in 1959: 
-the [MOS transistor](https://en.wikipedia.org/wiki/MOS_transistor "MOS transistor") by Atalla and [Dawon Kahng](https://en.wikipedia.org/wiki/Dawon_Kahng "Dawon Kahng"), 
-and the [planar process](https://en.wikipedia.org/wiki/Planar_process "Planar process") by [[Hoerni,Jean]]. 
+the [MOS transistor](https://en.wikipedia.org/wiki/MOS_transistor "MOS transistor") by Atalla and [Dawon Kahng](https://en.wikipedia.org/wiki/Dawon_Kahng "Dawon Kahng"), 
+and the [planar process](https://en.wikipedia.org/wiki/Planar_process "Planar process") by [[Hoerni,Jean]]. 
 
 ### Planar process 
 
-At a 1958 [Electrochemical Society](https://en.wikipedia.org/wiki/Electrochemical_Society "Electrochemical Society") meeting, Atalla presented a paper about the [surface passivation](https://en.wikipedia.org/wiki/Surface_passivation "Surface passivation") of PN junctions by oxide (based on his 1957 BTL memos), 
-and demonstrated silicon dioxide's passivating effect on a silicon surface. 
-[Jean Hoerni](https://en.wikipedia.org/wiki/Jean_Hoerni "Jean Hoerni") attended the same meeting, and was intrigued by Atalla's presentation. 
+At a 1958 [Electrochemical Society](https://en.wikipedia.org/wiki/Electrochemical_Society "Electrochemical Society") meeting, Atalla presented a paper about the [surface passivation](https://en.wikipedia.org/wiki/Surface_passivation "Surface passivation") of PN junctions by oxide (based on his 1957 BTL memos), 
+and demonstrated silicon dioxide's passivating effect on a silicon surface. 
+[Jean Hoerni](https://en.wikipedia.org/wiki/Jean_Hoerni "Jean Hoerni") attended the same meeting, and was intrigued by Atalla's presentation. 
 Hoerni came up with a "planar idea" one morning while thinking about Atalla's device.
 Taking advantage of silicon dioxide's passivating effect on the silicon surface, 
 Hoerni proposed to make transistors that were protected by a layer of silicon dioxide.
 
 The planar process was developed by Jean Hoerni 
-while working at [Fairchild Semiconductor](https://en.wikipedia.org/wiki/Fairchild_Semiconductor "Fairchild Semiconductor"), with a first patent issued in 1959. 
-The [planar process](https://en.wikipedia.org/wiki/Planar_process "Planar process") used to make these transistors 
-made mass-produced monolithic silicon [integrated circuits](https://en.wikipedia.org/wiki/Integrated_circuit "Integrated circuit") possible.
+while working at [Fairchild Semiconductor](https://en.wikipedia.org/wiki/Fairchild_Semiconductor "Fairchild Semiconductor"), with a first patent issued in 1959. 
+The [planar process](https://en.wikipedia.org/wiki/Planar_process "Planar process") used to make these transistors 
+made mass-produced monolithic silicon [integrated circuits](https://en.wikipedia.org/wiki/Integrated_circuit "Integrated circuit") possible.
 
 ### MOSFET 
 
 In 1959, the MOSFET was introduced and 
 in 2020 it was still the dominant transistor type in use, 
-with an estimated total of 13 sextillion (13×10^21) MOSFETs 
+with an estimated total of 13 sextillion (13×10^21) MOSFETs 
 manufactured between 1960 and 2018. 
 
 The key advantages of a MOSFET transistors over BJTs are that 
-they __consume no current__ _except_ when switching states (unlike TTL-ICs) 
+they __consume no current__ _except_ when switching states (unlike TTL-ICs) 
 and they have faster switching speed (ideal for digital signals).
 
 

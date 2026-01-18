@@ -11,7 +11,7 @@ could not be found nor synthesized.
 ## Eₚ = c² mₚ = c² √(ℏ c / G) 
 
 This is approximately equal to the energy released 
-in the combustion of the fuel in an automobile fuel tank of 57.2 L. 
+in the combustion of the fuel in an automobile fuel tank of 57.2 L. 
 
 
 ## Confidential Links & Embeds: 

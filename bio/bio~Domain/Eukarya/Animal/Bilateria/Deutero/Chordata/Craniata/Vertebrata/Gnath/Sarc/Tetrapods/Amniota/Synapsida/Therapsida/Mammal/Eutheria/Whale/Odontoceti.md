@@ -206,7 +206,7 @@ paraphyletic groups.
     Oligocene of New Zealand is either related to the clade
     (Platanistidae , Squalodelphinidae) (Fordyce, 1994), to the clade
     (Eurhinodelphinidae , Ziphiidae) (Lambert, 2005), or basal to
-    crown-Cetacea (Geisler & Sanders, 2003). 
+    crown-Cetacea (Geisler & Sanders, 2003). 
 -   **Eurhinodelphinidae** is a family of small- to moderate-size Late
     Oligocene to Miocene long-snouted odontocetes, including, among
     others, the genera *Eurhinodelphis*, *Schizodelphis*,

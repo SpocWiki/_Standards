@@ -54,7 +54,7 @@ A ***Planctoteuthis*** with
 
 #### Comments
 
-[More details of the description of ***P. danae*** can be found here.](http://www.tolweb.org/notes/?note_id=4169 "P. danae description") 
+[More details of the description of ***P. danae*** can be found here.](http://www.tolweb.org/notes/?note_id=4169 "P. danae description") 
 
 ### Nomenclature
 

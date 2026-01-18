@@ -33,7 +33,7 @@ title: Dothideomycetes
 ![](Dothideomycetes/cucurbitarialaburni30.jpg)![ ](Dothideomycetes/21.jpg) 
 
 Dothideomycete tree is based on DNA sequences from the large and small
-subunits of the  nuclear ribosome, RNA polymerase II second largest
+subunits of the  nuclear ribosome, RNA polymerase II second largest
 subunit (RPB2) and transcription elongation factor 1 alpha (EF1a)\
 
 Containing group:[Pezizomycotina](../Pezizomycotina.md) 
@@ -75,7 +75,7 @@ Robert Shoemaker.
 To a casual observer there is little to distinguish the flask, spherical
 or disk-shaped fruiting bodies of Dothideomycetes from several other
 groups in the Ascomycota, but they share a distinctive pattern of
-development.  The sexual spore bearing asci develop in pockets (locules)
+development.  The sexual spore bearing asci develop in pockets (locules)
 already formed in an unfertilized mass of hyphae (stroma). This is
 defined as ascolocular development and is in contrast to ascohymenial
 development found in the majority of other fungal classes.
@@ -87,15 +87,15 @@ Samuels
 The double layered, or bitunicate, ascus remains an important character
 in dothideomycete taxonomy. Bitunicate asci consists of a thick
 extensible inner layer (endotunica) and a thin inextensible outer layer
-(ectotunica).  Most bitunicate fungi release their ascospores by the
+(ectotunica).  Most bitunicate fungi release their ascospores by the
 extension of the inner ascus wall and the rupture of the outer wall,
 similar to a \"jack-in-the-box\" (fissitunicate), but variations are
-numerous. The broken ectotunica is  seen in the picture on the right,
+numerous. The broken ectotunica is  seen in the picture on the right,
 and another set of asci with the thick layered ectotunica is shown in
 the picture on the left.
 
 Another important character, the centrum, is defined as the tissues and
-cells occupying the cavity of the sexual structure.  The hamathecium
+cells occupying the cavity of the sexual structure.  The hamathecium
 (Eriksson 1981), i. e. the sterile centrum tissues existing between the
 asci, is one of the most reliable characters used to delineate ordinal
 classifications within the Dothideomycetes (see drawings below).
@@ -116,12 +116,12 @@ known as conidiophores such as the *Alternaria* species pictured on the
 left.
 ![ ](Dothideomycetes/Dothiorella.jpg) 
 
-*Dothiorella* sp.:  Conidia borne in pycnidium. © Pedro Crous
+*Dothiorella* sp.:  Conidia borne in pycnidium. © Pedro Crous
 
 In other cases the conidia are within enclosed flask shaped structres
 (pycnidia) also occuring in several families (e. g., Leptosphaeriaceae,
 Lophiostomataceae). Pictured to the right is a microscope squash slide
-sample of conidia from a pycnidium.  Other important species include the
+sample of conidia from a pycnidium.  Other important species include the
 remainder of the group now informally referred to as the \"black
 yeasts\" (the majority of which now belong to the Eurotiomycetes)
 characterized by the production of dark, slimy colonies and sporulation
@@ -133,14 +133,14 @@ important concepts revolves around three different developmental types
 originally exemplified by the genera *Dothidea*, *Pleospora* and
 *Elsinoё* (Luttrell 1951, 1955) and later extended (e. g. Barr, 1987).
 These species form part of the orders, Dothideales, Pleosporales and
-Myriangiales.  The presence of pseudoparaphyses (sterile cells extending
+Myriangiales.  The presence of pseudoparaphyses (sterile cells extending
 down from the upper portion of the sexual structures, initially attached
 at both ends, although the upper part may become free) is a notable
 character for the Pleosporales, together with mainly ostiolate flask
 shaped sexual structures. Conversely, the absence of pseudoparaphyses
-and the presence of groups of asci are important in the Dothideales. 
+and the presence of groups of asci are important in the Dothideales. 
 The Myriangiales also do not have pseudoparaphyses, but produce single
-asci in multiple locules.  Several additional orders, defined by
+asci in multiple locules.  Several additional orders, defined by
 combining centrum and ascomal characters, form part of the most recent
 classification proposed by Eriksson (2006).
 ![ ](Dothideomycetes/Elsinoe.jpg) 

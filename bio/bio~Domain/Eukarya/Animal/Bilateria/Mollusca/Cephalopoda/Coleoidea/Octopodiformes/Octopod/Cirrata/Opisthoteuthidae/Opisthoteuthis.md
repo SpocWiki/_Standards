@@ -128,7 +128,7 @@ Opisthoteuthids \...
         several authors due to their appearance in preserved animals.
         However, this attribute remains uncertain.
     4.  Web nodules (= web supports; these are often difficult to
-        detect) present as multiple or single nodules or absent. 
+        detect) present as multiple or single nodules or absent. 
 
         ![ ](Opisthoteuthis/OpisthoAgassiziiMultNods.jpg)
         **Figure**. Oral view of ***Opisthoteuthis grimaldii*** (?).
@@ -171,7 +171,7 @@ Opisthoteuthids \...
 #### Species Comparisons
 
   ------------ --------------------------------------- --------- -------------
-                          **Mature males**                                                                                                                                                              **Both sexes**                                                                               
+                          **Mature males**                                                                                                                                                              **Both sexes**                                                                               
   Species                 Arm I more robust   Prox. field: No. of suckers   Distal field: No. of suckers   Prox. field: Arm no.   Distal field: Arm no.   Distal field: Largest sucker, mean position   DESD\> PESD \*\*   Arm sucker counts   Funnel organ   Web supports   Digest. gland bilobed   Ocean
   ***O. agassizii***      No                  5                             7-8                            I-IV                   I-IV                    34-36                                         No/yes             58-80               V-shape        Multiple       No                      W.N. Atlantic
   ***O. albatrossi***     No                  0                             3                              None                   I                       ?                                             Yes                80                  ?              Single?        Yes                     N. Pacific

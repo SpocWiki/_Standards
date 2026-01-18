@@ -15,7 +15,7 @@ Extension Methods were a big Leap!
 
 #has_/time_/started :: 2003-04 
 
-`foreach` loop called [Dispose](https://learn.microsoft.com/en-us/dotnet/api/system.idisposable.dispose)  at the end 
+`foreach` loop called [Dispose](https://learn.microsoft.com/en-us/dotnet/api/system.idisposable.dispose)  at the end 
 
 ## CSharp-2
 
@@ -134,7 +134,7 @@ Other features included:
 - [Records](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/record)
 - [Init only setters](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/init)
 - [Top-level statements](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/program-structure/top-level-statements)
-- Pattern matching enhancements: [relational patterns](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/patterns#relational-patterns) and [logical patterns](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/patterns#logical-patterns)
+- Pattern matching enhancements: [relational patterns](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/patterns#relational-patterns) and [logical patterns](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/patterns#logical-patterns)
 - [Performance and interop](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#performance-and-interop)
     - [Native sized integers](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-9.0/native-integers)
     - [Function pointers](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-9.0/function-pointers)
@@ -142,11 +142,11 @@ Other features included:
     - [Module initializers](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-9.0/module-initializers)
     - [New features for partial methods](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-9.0/extending-partial-methods)
 - [Fit and finish features](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#fit-and-finish-features)
-    - [Target-typed `new` expressions](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-9.0/target-typed-new)
-    - [`static` anonymous functions](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-9.0/static-anonymous-functions)
+    - [Target-typed `new` expressions](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-9.0/target-typed-new)
+    - [`static` anonymous functions](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-9.0/static-anonymous-functions)
     - [Target-typed conditional expressions](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-9.0/target-typed-conditional-expression)
     - [Covariant return types](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-9.0/covariant-returns)
-    - [Extension `GetEnumerator` support for `foreach` loops](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-9.0/extension-getenumerator)
+    - [Extension `GetEnumerator` support for `foreach` loops](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-9.0/extension-getenumerator)
     - [Lambda discard parameters](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-9.0/lambda-discard-parameters)
     - [Attributes on local functions](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-9.0/local-function-attributes)
 
@@ -159,19 +159,19 @@ C# 10 adds the following features and enhancements to the C# language:
 - [Record structs](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/record)
 - [Improvements of structure types](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/struct#struct-initialization-and-default-values)
 - [Interpolated string handlers](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/tokens/interpolated#compilation-of-interpolated-strings)
-- [`global using` directives](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/using-directive)
+- [`global using` directives](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/using-directive)
 - [File-scoped namespace declaration](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/namespace)
 - [Extended property patterns](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-10.0/extended-property-patterns)
-- Lambda expressions can have a [natural type](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions#natural-type-of-a-lambda-expression), where the compiler can infer a delegate type from the lambda expression or method group.
-- Lambda expressions can declare a [return type](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions#explicit-return-type) when the compiler can't infer it.
-- [Attributes](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions#attributes) can be applied to lambda expressions.
-- In C# 10, `const` strings can be initialized using [string interpolation](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/tokens/interpolated) if all the placeholders are themselves constant strings.
-- In C# 10, you can add the `sealed` modifier when you override `ToString` in a [record](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/record) type.
+- Lambda expressions can have a [natural type](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions#natural-type-of-a-lambda-expression), where the compiler can infer a delegate type from the lambda expression or method group.
+- Lambda expressions can declare a [return type](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions#explicit-return-type) when the compiler can't infer it.
+- [Attributes](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions#attributes) can be applied to lambda expressions.
+- In C# 10, `const` strings can be initialized using [string interpolation](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/tokens/interpolated) if all the placeholders are themselves constant strings.
+- In C# 10, you can add the `sealed` modifier when you override `ToString` in a [record](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/record) type.
 - Warnings for definite assignment and null-state analysis are more accurate.
 - Allow both assignment and declaration in the same deconstruction.
-- [Allow `AsyncMethodBuilder` attribute on methods](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/attributes/general#asyncmethodbuilder-attribute)
+- [Allow `AsyncMethodBuilder` attribute on methods](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/attributes/general#asyncmethodbuilder-attribute)
 - [CallerArgumentExpression attribute](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/attributes/caller-information#argument-expressions)
-- C# 10 supports a new format for the `#line` pragma.
+- C# 10 supports a new format for the `#line` pragma.
 
 ## CSharp-11
 
@@ -184,19 +184,19 @@ C# 10 adds the following features and enhancements to the C# language:
 
 #### Raw string literals with triple quotes 
 
-### add the [`required` modifier](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/required) to properties and fields to enforce constructors and callers to initialize those values.
+### add the [`required` modifier](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/required) to properties and fields to enforce constructors and callers to initialize those values.
 
-### specify the `u8` suffix on a string literal to specify UTF-8 character encoding.
+### specify the `u8` suffix on a string literal to specify UTF-8 character encoding.
 ### Generic math support 
 
 There are several language features that enable generic math support:
 
-- `static virtual` members in interfaces
+- `static virtual` members in interfaces
 - checked user defined operators
 - relaxed shift operators
 - unsigned right-shift operator
 
-###  `file` scoped access modifier to create a type with visibility only inside the same source file.
+###  `file` scoped access modifier to create a type with visibility only inside the same source file.
 ## CSharp-12
 
 #has_/time_/started :: 2023-11 
@@ -213,17 +213,17 @@ This goes especially well with 2D and 3D Arrays, because you
 
 ### Primary constructors for `class` and `struct` 
 
-### addition of `ref readonly` parameters 
-APIs created before `in` was introduced might use `ref` even though the argument isn't modified. 
-Those APIs can be updated with `ref readonly`.
+### addition of `ref readonly` parameters 
+APIs created before `in` was introduced might use `ref` even though the argument isn't modified. 
+Those APIs can be updated with `ref readonly`.
 
 ### define default values for parameters on lambda expressions. 
 
-### use the `using` alias directive to alias any type, not just named types. 
+### use the `using` alias directive to alias any type, not just named types. 
 
 ### Inline Fixed-size Arrays on the Stack 
 
-An _inline array_ is declared as a `struct`:
+An _inline array_ is declared as a `struct`:
 ```
 [System.Runtime.CompilerServices.InlineArray(10)]
 public struct Buffer {
@@ -247,7 +247,7 @@ You likely consume inline arrays as you would any other array.
 
 ### [ExperimentalAttribute] 
 
-Types, methods, or assemblies can be marked with the [System.Diagnostics.CodeAnalysis.ExperimentalAttribute](https://learn.microsoft.com/en-us/dotnet/api/system.diagnostics.codeanalysis.experimentalattribute) to indicate an experimental feature. 
+Types, methods, or assemblies can be marked with the [System.Diagnostics.CodeAnalysis.ExperimentalAttribute](https://learn.microsoft.com/en-us/dotnet/api/system.diagnostics.codeanalysis.experimentalattribute) to indicate an experimental feature. 
 This is the opposite to the [[ObsoleteAttribute]] 
 
 ## CSharp-13 
@@ -256,21 +256,21 @@ This is the opposite to the [[ObsoleteAttribute]]
 
 requires .net9 
 
-### ## `params` with any collection Type 
+### ## `params` with any collection Type 
 
-### ## New [System.Threading.Lock](https://learn.microsoft.com/en-us/dotnet/api/system.threading.lock) type with faster API than Monitor 
+### ## New [System.Threading.Lock](https://learn.microsoft.com/en-us/dotnet/api/system.threading.lock) type with faster API than Monitor 
 
 Instead of using any ``new object()`` use a `new Lock()`
 
 ### `\e` for the Escape Character instead of `\u001b` 
 
-### Use [OverloadResolutionPriorityAttribute](https://learn.microsoft.com/en-us/dotnet/api/system.runtime.compilerservices.overloadresolutionpriorityattribute) to prefer one overload over another 
+### Use [OverloadResolutionPriorityAttribute](https://learn.microsoft.com/en-us/dotnet/api/system.runtime.compilerservices.overloadresolutionpriorityattribute) to prefer one overload over another 
 
-### declare `partial` properties and `partial` indexers 
+### declare `partial` properties and `partial` indexers 
 
 ### `ref struct` Improvements 
 
-#### `ref` and `unsafe` in iterators and `async` methods 
+#### `ref` and `unsafe` in iterators and `async` methods 
 
 #### allows `ref struct` in generic Types 
 
@@ -281,11 +281,11 @@ Instead of using any ``new object()`` use a `new Lock()`
 
 #has_/time_/started :: 2025-11 
 
-### new syntax to define _extension members_ without `this`. 
+### new syntax to define _extension members_ without `this`. 
 
-The new syntax enables you to declare _extension properties_ in addition to extension methods.
+The new syntax enables you to declare _extension properties_ in addition to extension methods.
 
-### The `field` keyword
+### The `field` keyword
 
 Instead of declaring a private Variable `_msg`....
 ```
@@ -306,7 +306,7 @@ public string Message { get;
 
 ### `nameof(List<T>)` now possible 
 
-### declare [instance constructors](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/constructors#partial-constructors) and [events](https://learn.microsoft.com/en-us/dotnet/csharp/event-pattern) as [partial members](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/partial-member). 
+### declare [instance constructors](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/constructors#partial-constructors) and [events](https://learn.microsoft.com/en-us/dotnet/csharp/event-pattern) as [partial members](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/partial-member). 
 
 ### Compound Assignment Operators `op=` are overridable 
 
@@ -322,13 +322,13 @@ if (customer is not null) {
     customer[4] = myCust;
 }
 ```
-You can simplify the preceding code using the `?.` or `?[]` operator:
+You can simplify the preceding code using the `?.` or `?[]` operator:
 ```
 customer?.Order = GetCurrentOrder();
 customer?[4] = myCust;
 ```
 
-compound assignment operators like `+=` and `-=` are also allowed: 
+compound assignment operators like `+=` and `-=` are also allowed: 
 
 
 ## Confidential Links & Embeds: 

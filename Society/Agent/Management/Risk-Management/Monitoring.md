@@ -23,7 +23,7 @@ and support timely decision-making and corrective actions.
 - [Monitoring (medicine)](https://en.wikipedia.org/wiki/Monitoring_\(medicine\) "Monitoring (medicine)"), the observation of a disease, condition or one or several medical parameters over time
 - [Baby monitoring](https://en.wikipedia.org/wiki/Baby_monitor "Baby monitor")
 - [Biomonitoring](https://en.wikipedia.org/wiki/Biomonitoring "Biomonitoring"), of toxic chemical compounds, elements, or their metabolites, in biological substances
-- [Fetal monitoring](https://en.wikipedia.org/wiki/Childbirth#Fetal_monitoring "Childbirth") in childbirth
+- [Fetal monitoring](https://en.wikipedia.org/wiki/Childbirth#Fetal_monitoring "Childbirth") in childbirth
 - [Heart rate monitoring](https://en.wikipedia.org/wiki/Heart_rate_monitor "Heart rate monitor")
 - [Intraoperative neurophysiological monitoring](https://en.wikipedia.org/wiki/Intraoperative_neurophysiological_monitoring "Intraoperative neurophysiological monitoring")
 - [Monitoring in clinical trials](https://en.wikipedia.org/wiki/Monitoring_in_clinical_trials "Monitoring in clinical trials"), oversight and administrative efforts that monitor a participant's health during a clinical trial
@@ -57,7 +57,7 @@ and support timely decision-making and corrective actions.
 - [Futures monitoring](https://en.wikipedia.org/wiki/Futures_techniques#Monitoring "Futures techniques"), evaluation of events, as they occur or just afterward
 - [Media monitoring service](https://en.wikipedia.org/wiki/Media_monitoring_service "Media monitoring service"), providing clients with copies of media content, which is of specific interest
 - [Monitoring and evaluation](https://en.wikipedia.org/wiki/Monitoring_and_evaluation "Monitoring and evaluation"), process that helps improve performance and achieve results in project management
-- [Wildlife Enforcement Monitoring System](https://en.wikipedia.org/wiki/Wildlife_Enforcement_Monitoring_System "Wildlife Enforcement Monitoring System") (WEMS) Initiative
+- [Wildlife Enforcement Monitoring System](https://en.wikipedia.org/wiki/Wildlife_Enforcement_Monitoring_System "Wildlife Enforcement Monitoring System") (WEMS) Initiative
 
 ## See also
 

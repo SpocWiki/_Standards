@@ -51,7 +51,7 @@ Containing group:[Oegopsida](../Oegopsida.md)
 
 Members of the Ommastrephidae are small (about 10 cm ML) to large (about
 100 cm ML), muscular squids that are often the dominant large squids in
-oceanic and, occasionally, neritic waters.  A number of species are
+oceanic and, occasionally, neritic waters.  A number of species are
 fished commercially. Although the family is very well characterized,
 placement of species with genera and subfamilies has, in some cases,
 been controversial. These controversies have often revolved around the
@@ -92,22 +92,22 @@ An oegopsid squid \...
 **Comparison of subfamilies:**
 
   ------- ---- ------ ---------
-                    Photophores   Dactylus   Funnel-    Funnel-    Distal          Carpal locking
-                    present^1^    suckers    groove     groove     protective      apparatus^2^ 
-                    **\                      foveola    side       membranes on    
-                    **                                  pockets    hectocotylus    
+                    Photophores   Dactylus   Funnel-    Funnel-    Distal          Carpal locking
+                    present^1^    suckers    groove     groove     protective      apparatus^2^ 
+                    **\                      foveola    side       membranes on    
+                    **                                  pockets    hectocotylus    
 
-  Illicinae         No            8 series\  No         No         Absent          Absent 
+  Illicinae         No            8 series\  No         No         Absent          Absent 
 
-  Ommastrephinae    Yes           4 series   Yes        Yes        Ventral         Present except
+  Ommastrephinae    Yes           4 series   Yes        Yes        Ventral         Present except
                                                                    membrane        ***Ornithoteuthis***\
                                                                    enlarged        
-                                                                   subdistally     
+                                                                   subdistally     
 
-  Todarodinae       No            4 series   Yes/No     No         Ventral         Absent 
+  Todarodinae       No            4 series   Yes/No     No         Ventral         Absent 
                                                                    membrane with   
                                                                    thickened       
-                                                                   trabeculae      
+                                                                   trabeculae      
   ------- ---- ------ ---------
 
 [ ^1^Photophores difficult to detect in some species.\

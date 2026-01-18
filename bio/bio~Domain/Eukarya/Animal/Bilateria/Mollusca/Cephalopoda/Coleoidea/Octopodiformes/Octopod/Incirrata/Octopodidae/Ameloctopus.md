@@ -88,7 +88,7 @@ unknown.
 Left: ***Ameloctopus litoralis*** with left arm III autotomized.
 Photograph copyright © 1996, Mark D. Norman. Right: Histological section
 (longitudinal) of an arm showing the plane where autotomy occurs
-(arrow).  Histology, B. Abaloz, photograph copyright © 1996, David Paul.
+(arrow).  Histology, B. Abaloz, photograph copyright © 1996, David Paul.
 ### Life history
 
 The males of this octopus have a unique system of reproduction. In other

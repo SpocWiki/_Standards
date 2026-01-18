@@ -151,7 +151,7 @@ consider too variable to be of use in the generic systematics of the
 Loliginidae include spermatophore deposition site, presence of suckers
 on the buccal lappets, adult chromatophore patterns (e.g. lateral
 \"flame stripes\"), and presence of a longitudinal mid-ventral ridge on
-the mantle. 
+the mantle. 
 
 Although the preliminary generic classification of Vecchione et al.
 (1998) represented an important step toward consensus on the genera of
@@ -222,8 +222,8 @@ species were unresolved.
 A follow-up workshop consensus on generic and sub-generic taxonomy of
 the family was published by Vecchione et al. (2005), based primarily on
 the phylogenetic research of Anderson (1996; 2000a; 2000b) and Alexeyev
-(1989; 1991).  Both of those authors built upon the previous workshop
-proceedings.  The most noteworthy differences in Vecchione et al. (2005)
+(1989; 1991).  Both of those authors built upon the previous workshop
+proceedings.  The most noteworthy differences in Vecchione et al. (2005)
 from the classification of Vecchione et al. (1998) include the
 following: (1) removal of ***mercatoris*** from ***Lolliguncula*** based
 primarily on gladius characters, DNA sequence data and biogeography, and

@@ -169,7 +169,7 @@ until a better understanding of the variability is known.
 
 The late doratopsis stages of the paralarval period have tentacles that
 possess a distal, expanded, paralarval club and a proximal presumptive
-(developing) adult club. The latter   has four series of very small
+(developing) adult club. The latter   has four series of very small
 suckers which are more regularly arranged and extensive than in
 paralarvae of the other genera except New Genus B.
 ![ ](Chiroteuthis/doratopsisTentacle.jpg) 

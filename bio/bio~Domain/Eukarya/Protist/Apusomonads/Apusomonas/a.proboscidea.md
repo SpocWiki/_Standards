@@ -34,7 +34,7 @@ This species of *Apusomonas* is distinguished by having a rounded body.
 It has been reported from Australia and Europe.
 
 *A. proboscidea* seems to be a typical, common soil flagellate
-(Vickerman et al. 1974, Ekelund and Patterson, 1997). It has only been
+(Vickerman et al. 1974, Ekelund and Patterson, 1997). It has only been
 reported a few times from aquatic habitats: from freshwater, under the
 name *Rostromonas applanata* (Karpov and Zhukov, 1980), and from
 estuarine habitats (unpublished data).

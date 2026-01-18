@@ -30,12 +30,12 @@ has_name_ar_latn = `=this.dv_has_name_ar_latn`
 has_name_ar_arab = `=this.dv_has_name_ar_arab`
 
 
-**Al Wusta** (from Arabic الوسطى, 'central') may refer to:
+**Al Wusta** (from Arabic الوسطى, 'central') may refer to:
 
 - [Central Governorate, Bahrain](https://en.wikipedia.org/wiki/Central_Governorate,_Bahrain "Central Governorate, Bahrain")
     - [Central Region, Bahrain](https://en.wikipedia.org/wiki/Central_Region,_Bahrain "Central Region, Bahrain")
 - [Al Wusta Governorate (Oman)](https://en.wikipedia.org/wiki/Al_Wusta_Governorate_(Oman) "Al Wusta Governorate (Oman)")
-- Wusta, a former [district in Libya](https://en.wikipedia.org/wiki/Districts_of_Libya "Districts of Libya") prior to 1995
+- Wusta, a former [district in Libya](https://en.wikipedia.org/wiki/Districts_of_Libya "Districts of Libya") prior to 1995
 
 
 ## Confidential Links & Embeds: 

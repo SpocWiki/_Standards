@@ -80,7 +80,7 @@ plants where they form ectomycorrhizas (EM), or more rarely associate
 with unicellular green algae or cyanobacteria as lichens. A few colonize
 bryophytes. Orchids and mycotrophic plants depend on some Agaricales
 (*Armillaria*, *Tricholoma*), in addition to other groups of
-Agaricomycetes, for their nutrition.  Several clades of Agaricales
+Agaricomycetes, for their nutrition.  Several clades of Agaricales
 include ant or termite symbionts or even nematode predators. Species of
 *Armillaria*, *Athelia* pro parte, *Moniliophthora*, and *Mycena* are
 economically devastating plant pathogens, whereas others in the genera
@@ -91,7 +91,7 @@ the Agaricales, and others, as in some species of *Amanita*, produce
 toxins lethal to humans.
 ![ ](Agaricales/termitomyces_aanen2.jpg) 
 
- A sample of different nutritional modes among Agaricales. Left:
+ A sample of different nutritional modes among Agaricales. Left:
 Ectomycorrizal (EM) habitat in Karri (*Eucalyptus diversicolor*) forest
 in the south-west botanical district of Western Australia. © [Brandon Matheny](http://www.clarku.edu/faculty/dhibbett/people_matheny.html).
 Center: Attack and consumption of a nematode by *Pleurotus* (Oyster

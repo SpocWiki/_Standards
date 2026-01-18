@@ -69,31 +69,31 @@ title: Blepharis
 [Lucinda A. McDade and Carrie Kiel]() 
 
 *Blepharis* is the largest genus of Acantheae in the Old World; it was
-recently monographed by Vollesen (2000) as containing 129 species. 
+recently monographed by Vollesen (2000) as containing 129 species. 
 Phylogenetic analyses using molecular data indicate that the genus is
 monophyletic with the somewhat enigmatic exception of *B. dhofarensis*
 which is placed with species of *Acanthus*, with strong support. Our
 results also clearly point to two very well supported subclades within
-*Blepharis*;  these correspond  to Vollesen\'s (2000) subgenera
+*Blepharis*;  these correspond  to Vollesen\'s (2000) subgenera
 *Acanthodium* and *Blepharis*.
 
 ### Characteristics
 
 Plants belonging to this genus have leaves in pseudowhorls and extremely
-odd dimorphic filaments:  the anterior pair is laterally flattened and
-bears a remarkable appendage distally (i. e., near the anther).  This
-appendage is usually tooth- or finger-like but is sometimes rounded. 
-The posterior pair is \'normal\':  narrower and unappendaged.  These
+odd dimorphic filaments:  the anterior pair is laterally flattened and
+bears a remarkable appendage distally (i. e., near the anther).  This
+appendage is usually tooth- or finger-like but is sometimes rounded. 
+The posterior pair is \'normal\':  narrower and unappendaged.  These
 plants also have seeds with hygroscopic (i. e., water absorbing)
 trichomes.
 
 The two subclades of *Blepharis* are both very strongly supported by
 molecular data and one, subgenus *Blepharis*, is also extremely well
-marked by morphological synapomorphies:  inflorescences are reduced, the
+marked by morphological synapomorphies:  inflorescences are reduced, the
 corolla limb has three (rather than five) lobes, and the fertile portion
 of each anther locule is reduced to 1/2 - 2/3 of the total anther
-length.  In contrast,  subgenus *Acanthodium* is not marked by
-synapomorphies that we have been able to identify.  It is interesting in
+length.  In contrast,  subgenus *Acanthodium* is not marked by
+synapomorphies that we have been able to identify.  It is interesting in
 this context that Vollesen suggested that *Acanthodium* is the least
 advanced of the two subgenera.\
 

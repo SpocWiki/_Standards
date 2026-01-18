@@ -53,22 +53,22 @@ value.
 
 The status of this genus has been questioned as rather than being a
 group of species that share a unique evolutionary history, it is a group
-that simply shares primitive character states (Voight, 1993).  Certain
+that simply shares primitive character states (Voight, 1993).  Certain
 characteristics, however, such as the absence of cartilaginous stylets,
-are almost certainly derived.  Furthermore, recent biochemical genetic
+are almost certainly derived.  Furthermore, recent biochemical genetic
 analyses confirm that the species are closely related (Allcock, 1997).
 
 ### Life History
 
-Life history data on the **Pareledone** is limited.  Although live
+Life history data on the **Pareledone** is limited.  Although live
 specimens have been successfully transported from Antarctica and kept in
-captivity, there are no reported cases of successful breeding.  Studies
+captivity, there are no reported cases of successful breeding.  Studies
 into the maturation of the gonads by Kuehl (1988) suggest that the
 spawning season extends over a considerable period of time. The eggs of
 **Pareledone** are large (reaching 20 mm in length), hence they are
 likely to be incubated for a considerable time. The incubation period
-probably extends over the winter months.  The large size of the eggs
-also means that the hatchlings are probably benthic in habitat.  The
+probably extends over the winter months.  The large size of the eggs
+also means that the hatchlings are probably benthic in habitat.  The
 lack of a planktonic larval stage restricts gene flow between isolated
 populations (Allcock et al., 1997) and may have consequences for
 speciation.

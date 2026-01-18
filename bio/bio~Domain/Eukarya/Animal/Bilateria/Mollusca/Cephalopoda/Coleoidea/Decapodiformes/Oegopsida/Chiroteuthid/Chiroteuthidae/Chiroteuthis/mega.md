@@ -54,7 +54,7 @@ long clubs with an especially large club-tip photophore.
 
 A ***Chiroteuthis*** \...
 
--   without visceral photophores. 
+-   without visceral photophores. 
 
 ### Characteristics
 

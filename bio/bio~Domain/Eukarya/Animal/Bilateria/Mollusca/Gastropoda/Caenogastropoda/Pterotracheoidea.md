@@ -131,7 +131,7 @@ opercular lobe extend from shell. Photograph copyright © 2005 R. Seapy.
 
 ### Natural History
 
- 
+ 
 
 All heteropods swim with their ventral side directed upward and the
 dorsal side, with the shell (when present) and visceral mass downward.

@@ -119,13 +119,13 @@ slender, and the intermaxillary gland is posterior to the pars dentalis.
 The periotic canal is straight or with a dorsal loop after it leaves the
 periotic cistern. Growth of otic semicircular ducts is nearly isometric.
 
-##### Chromosome Number 
+##### Chromosome Number 
 
-The diploid number of chromosomes is 26. 
+The diploid number of chromosomes is 26. 
 
 ##### Development 
 
-Development is direct. 
+Development is direct. 
 
 ### Classification
 
@@ -139,7 +139,7 @@ be the sister taxon of *Pseudoeurycea* , *Ixalotriton* , *Lineatriton*.
 *Lineatriton* is diphyletic with respect to mtDNA and is deeply nested
 within *Pseudoeurycea*, close to species associated with *P. leprosa*.
 The diminutive *Cryptotriton* is at present improbably resolved as the
-sister taxon of all remaining members of the supergenus. 
+sister taxon of all remaining members of the supergenus. 
 *Bolitoglossa*, the largest genus, is comprised of 6 subgenera, based on
 mtDNA, all well-supported statistically (Parra-Olea et al., 2004).
 

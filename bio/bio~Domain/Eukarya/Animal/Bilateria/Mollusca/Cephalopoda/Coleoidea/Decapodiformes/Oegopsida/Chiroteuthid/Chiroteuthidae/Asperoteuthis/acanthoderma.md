@@ -51,7 +51,7 @@ cartilagenous tubercules over the surface of the head, mantle and arms.
 An ***Asperoteuthis*** \...
 
 -   with tiny, pointed tubercules in skin.
--   with a  Y-shaped groove in the funnel locking-apparatus.\
+-   with a  Y-shaped groove in the funnel locking-apparatus.\
 
 ### Characteristics
 

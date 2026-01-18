@@ -29,7 +29,7 @@ The Vitreledonellidae contains one species.
 
 ## Introduction
 
-[Richard E. Young, Katharina M. Mangold (1922-2003), and Michael Vecchione]()  
+[Richard E. Young, Katharina M. Mangold (1922-2003), and Michael Vecchione]()  
 
 Little information exists on the biology or ecology of this pelagic
 octopod. It has a cosmopolitan distribution in tropical and subtropical

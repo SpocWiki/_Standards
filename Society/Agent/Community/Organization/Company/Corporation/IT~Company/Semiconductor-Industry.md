@@ -9,7 +9,7 @@ There are a few world-leading equipment and chemicals companies -
 
 None of this was inevitable. 
 Europeans independently invented the first transistor 
-just a few months after the Americans. 
+just a few months after the Americans. 
 Europe - France in particular - was an early research pioneer.
 
 But this early optimistic technical lead was squandered. 

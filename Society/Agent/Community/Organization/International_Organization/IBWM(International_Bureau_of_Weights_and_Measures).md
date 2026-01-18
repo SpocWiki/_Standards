@@ -2,7 +2,7 @@
 has_time_started: 1875-05-20 
 aliases:
   - IBWM
-  - International Bureau of Weights and Measures 
+  - International Bureau of Weights and Measures 
   - Bureau international des poids et mesures
   - BIPM
   - IBWM(International_Bureau_of_Weights_and_Measures)

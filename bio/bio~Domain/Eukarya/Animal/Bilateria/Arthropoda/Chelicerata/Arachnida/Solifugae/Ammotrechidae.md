@@ -23,18 +23,18 @@ title: Ammotrechidae
 ### Characteristics
 
 Male ammotrechids have a fixed, non-rotatable membranous flagellum
-attached to the mesal face of each chelicera. 
+attached to the mesal face of each chelicera. 
 ![ ](Ammotrechidae/ammotrechid-characters.jpg))\
 \
 
- 
+ 
 
 ### Geographic Distribution
 
 Members of the family Ammotrechidae are known from North America,
-Central America, South America, and the Caribbean Islands. 
+Central America, South America, and the Caribbean Islands. 
 
- 
+ 
 ![ ](Ammotrechidae/Ammotrechidae-map.jpg))\
 
 ## Phylogeny 

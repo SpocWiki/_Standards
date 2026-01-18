@@ -51,7 +51,7 @@ title: Orbiculariae
 ![](Orbiculariae/araneusface.jpg)![ ](Orbiculariae/Latrodectus_curacaviensis.jpg) 
 
 Tree from Griswold et al. 1998 with modifications from Kuntner, 2005
-(Nephilidae conservatively placed in  a basal trichotomy with Araneidae
+(Nephilidae conservatively placed in  a basal trichotomy with Araneidae
 and derived araneoids.\
 \
 

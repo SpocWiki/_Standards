@@ -103,7 +103,7 @@ some geographic structure can be found within subclades. In other cases,
 some subclades are characterized by species having similar growth forms
 and habitat preferences, such as the group containing the widespread
 *Ruellia geminiflora*. Though species in this group are distributed
-across various parts of the neotropics (no geographic structure),  they
+across various parts of the neotropics (no geographic structure),  they
 all occupy open areas such as savannas, cerrados, and grasslands. Some
 of these species, e.g., *Ruellia bulbifera*, have thick, tuberous
 xylopodia (see above photo) and are apparently adapted to withstand

@@ -1,5 +1,5 @@
 
-[[Accuracy]] = [[Trueness]] AND [[Precision]] 
+[[Accuracy]] = [[Trueness]] AND [[Precision]] 
 
 Accuracy describes the Influence of **systematic errors**. 
 

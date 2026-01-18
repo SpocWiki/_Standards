@@ -118,13 +118,13 @@ Photograph by R. Young.
 Comparisons of the major taxa within the Decapodiformes
 
   ------ --- ------------------ -----------
-                   Cornea   Branchial canal   Buccal support suckers   Sucker circular muscle   Tentacle pocket   **Interstellate connective **
-  Oegopsida        No       Yes               No                       No                       No                Yes 
-  Bathyteuthoida   No       Yes               Yes                      No                       Yes               Yes 
-  Myopsida         Yes      Yes               Yes/No                   Yes                      Yes               Yes 
-  Idiosepiidae     Yes      No                No                       No                       Yes               ? 
-  Spirulidae       No       No                No                       No                       Yes               No 
-  Sepioidea        Yes      No                Yes/No                   Yes                      Yes               No 
+                   Cornea   Branchial canal   Buccal support suckers   Sucker circular muscle   Tentacle pocket   **Interstellate connective **
+  Oegopsida        No       Yes               No                       No                       No                Yes 
+  Bathyteuthoida   No       Yes               Yes                      No                       Yes               Yes 
+  Myopsida         Yes      Yes               Yes/No                   Yes                      Yes               Yes 
+  Idiosepiidae     Yes      No                No                       No                       Yes               ? 
+  Spirulidae       No       No                No                       No                       Yes               No 
+  Sepioidea        Yes      No                Yes/No                   Yes                      Yes               No 
   ------ --- ------------------ -----------
 
 [A key to the families of the Decapodiformes can be found here.](http://www.mnh.si.edu/cephs/cephkeyintro.html)
