@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- #has_/service_operator = `=this.dv_has_service_operator`  
+- #has_/service_/operator = `=this.dv_has_service_operator`  
 - has_service_operator = `=this.dv_has_service_operator`  
 
 The operating organization, if different from the provider.  This enables the representation of services that are provided by an organization, but operated by another organization like a subcontractor.

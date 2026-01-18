@@ -100,7 +100,7 @@ has_previous_item = `=this.dv_has_previous_item`
 has_next_item = `=this.dv_has_next_item` 
 #is_/same_as :: [[WD~Late_Pleistocene,498831 ]] 
 
-A time period from 129 to 11.7 thousand years ago, right before the [[../../../../../../../Knowledge/Economy/Agricultural_Revolution|Agricultural_Revolution]]. [[../../../../../../bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Homo/Homo_sapiens|Homo_sapiens]] developed and migrated out of [[../../../../../../Earth/Continent/Africa|Africa]]. 
+A time period from 129 to 11.7 thousand years ago, right before the [[../../../../../../../_internal/Society/Economy/Agricultural_Revolution|Agricultural_Revolution]]. [[../../../../../../bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Homo/Homo_sapiens|Homo_sapiens]] developed and migrated out of [[../../../../../../Earth/Continent/Africa|Africa]]. 
 
 ![[../../../../../../../xLarge/Earth/Geology/Earth-000_021_Ma_(Late_Pleistocene_Age).png]] 
 

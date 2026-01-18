@@ -26,7 +26,7 @@ is_similar_to = `=this.dv_is_similar_to`
 
 Stannane decomposes slowly at room temperature to give metallic tin and hydrogen. 
 It occurs when ionizing metallic Tin in a Hydrogen Atmosphere as done in 
-XUV-Lithography at [[../../../../../Knowledge/Economy/Company/ASML(Advanced_Semiconductor)|ASML(Advanced_Semiconductor)]] 
+XUV-Lithography at [[../../../../Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/ASML(Advanced_Semiconductor)|ASML(Advanced_Semiconductor)]] 
 
 ## #has_/text_of_/abstract 
 

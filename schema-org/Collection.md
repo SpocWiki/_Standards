@@ -53,16 +53,29 @@ dv_is_same_as:
 
 # [[Collection]]
 
-#is_a_/class  . 
+#is_a_/class   
 #class/Collection is the Base-Class of all (mutable, finite, at most countable) collections with untyped [Items](../../../Collection/Item.md).
-It is the Object of the [[Collection/is_item_in|is_item_in]] Relation from the [[Collection/Item|Item]] to the  [[Collection]]
+It is the Object of the [[Collection/is_item_in|is_item_in]] Relation from the [[Collection/Item|Item]] to the  [[Collection]]. 
 
 A collection of items, e.g. creative works or products.
 
 The collection provides functionality, such as iterating over its members
 and performing operations on each of them. 
 
-Collections are usually finite and often untyped. 
+Collections are usually finite and often untyped, i.e. not generic;
+therefore it should **not be used as the Domain** of Relations. 
+Instead e.g. schema.org leaves the [[../../Knowledge/Math/Cardinality]] open; 
+this can be amended using OWL with [[owl~minCardinality]]:  
+``` turtle
+schema:employee a owl:ObjectProperty .
+schema:Organization
+    rdfs:subClassOf [
+        a owl:Restriction ;
+        owl:onProperty schema:employee ;
+        owl:minCardinality "1"^^xsd:nonNegativeInteger ;
+    ] .
+
+```
 
 They can be at most countable, but to allow for Mathematical Induction, 
 they also need to be finitely typed (to allow a finite switch-Statement). 

@@ -31,7 +31,7 @@ dv_is_same_as:
 
 # [[GlobalFoundries]] 
 
-#is_/similar_to :: [[../../../../../../../../../Knowledge/Economy/Company/TSMC(Taiwan_Semiconductor)|TSMC(Taiwan_Semiconductor)]] 
+#is_/similar_to :: [[TSMC(Taiwan_Semiconductor)|TSMC(Taiwan_Semiconductor)]] 
 
 > **GlobalFoundries** Inc. (GF) is a multinational semiconductor contract manufacturing and design company 
 > incorporated in the Cayman Islands and headquartered in Malta, New York. 

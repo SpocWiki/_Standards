@@ -14,7 +14,7 @@ aliases:
 > 
 > He won his first [[../../../../../../../../_private/Society/Communication/Media/TV-Series/Tony_Award|Tony Award]] for Best Actor in a Play for his performance 
 > as Henry VIII in the Broadway play Anne of the Thousand Days in 1949. 
-> He returned to Broadway portraying Professor Henry Higgins in [[My_Fair_Lady|My Fair Lady]] (1956) 
+> He returned to Broadway portraying Professor Henry Higgins in [[../../../../../../../_internal/bio/Psychology/Anthropology/My_Fair_Lady|My Fair Lady]] (1956) 
 > where he won the [[../../../../../../../../_private/Society/Communication/Media/TV-Series/Tony_Award|Tony Award]] for Best Actor in a Musical.
 >
 > In addition to his stage career, Harrison also appeared in numerous films. 
@@ -25,7 +25,7 @@ aliases:
 > - Anna and the King of Siam (1946), 
 > - The Ghost and Mrs. Muir (1947), 
 > - Cleopatra (1963), 
-> - [[My_Fair_Lady|My Fair Lady]] (1964), reprising his stage role as Henry Higgins 
+> - [[../../../../../../../_internal/bio/Psychology/Anthropology/My_Fair_Lady|My Fair Lady]] (1964), reprising his stage role as Henry Higgins 
 >   which won him an [[../../../../../../../_Standards/Society/Communication/Media/Movie/Academy_Award|Academy Award]] for Best Actor, and 
 > - the titular character in Doctor Dolittle (1967).
 >

@@ -87,7 +87,7 @@ type: private_note
 > "the presence of these two opposites together is essential to an economic system. 
 > The parties to an economic action co-operate in competing, like two chess players". 
 > Optimal strategies to achieve goals are studied in the branch of 
-> mathematics known as [[Game_Theory]].
+> mathematics known as [[../../../_internal/Society/Economy/Game_Theory]].
 >
 > Competition has been studied in several fields, including psychology, sociology and anthropology. 
 > Social psychologists, for instance, study the nature of competition. 

@@ -2,6 +2,7 @@
 aliases:
   - has provider
   - has_provider
+  - has source
 confidential: public
 cssclasses:
   - Predicate
@@ -27,9 +28,15 @@ type: Predi_Relation
 
 #is_/part_of :: pending:  
 
+#has_/inverse :: [[has_consumers]] 
+
+#is_/similar_to :: [[has_dependencies]] 
+#is_/similar_to :: [[has_server]] 
+
+
 Use it like this: 
-- #has_/provider :: Organization, Person  
-- [ has_provider :: Organization, Person ] 
+- #has_/provider :: [[../../../Society/Agent/Community/Organization|Organization]], [[../../../Society/Agent/Person|Person]]   
+- has_provider :: [[../../../Society/Agent/Community/Organization|Organization]], [[../../../Society/Agent/Person|Person]]  
 
 The service provider, service operator, or service performer; the goods producer. 
 
@@ -41,10 +48,9 @@ A provider may also serve as the seller.
 
 Relation describes that: 
 
-#has_/domain  :: Action, CreativeWork, EducationalOccupationalProgram, Invoice, ParcelDelivery, Reservation, Service, Trip  
-
-(has_/name :: is_provider )
-(has_/range :: Organization, Person )
+#has_/domain  :: [[../../Class/is_a_/Action|Action]], [[../../../Society/Communication/Media/Creative_Work|Creative_Work]], [[../../Class/is_a_/Intangible/Educational_Occupational_Program|Educational_Occupational_Program]], [[../../Class/is_a_/Intangible/Invoice|Invoice]], [[../../Class/is_a_/Intangible/Parcel_Delivery|Parcel_Delivery]], [[../../Class/is_a_/Intangible/Reservation|Reservation]], [[../../../Society/Agent/Community/Organization/Business/Service|Service]], [[../../Class/is_a_/Intangible/Trip|Trip]]  
+(has_/name :: is_provider ) 
+(has_/range ::  [[../../../Society/Agent/Community/Organization|Organization]], [[../../../Society/Agent/Person|Person]]  )
 
 
 ## Confidential Links & Embeds: 

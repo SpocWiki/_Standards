@@ -485,6 +485,8 @@ dv_has_url_for_code_repository: https://github.com/SpocWiki/America-Bolivia
 
 # [[Bolivia]] 
 
+## [[Bolivia]] has Properties...
+
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
 ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
@@ -497,7 +499,7 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_has_name`
-[	has_name_en	 :: Bolivia (Plurinational State of) ]
+has_name_en	 :: Bolivia (Plurinational State of) 
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`
 has_name_cn = `=this.dv_has_name_cn`

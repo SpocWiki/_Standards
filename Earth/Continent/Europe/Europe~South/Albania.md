@@ -1,4 +1,25 @@
 ---
+aliases:
+  - Albania
+  - Albanie
+  - ألبانيا
+  - 阿尔巴尼亚
+  - Албания
+  - the Republic of Albania
+  - la República de Albania
+has_id_wikidata: Q222
+location:
+  - 40.793
+  - 19.9565
+type: Country
+SpocWebEntityId: 26830
+isDeleted: false
+confidential: public
+tags:
+  - geo/Country
+license: CC BY-SA 4.0
+isReadOnly: false
+
 dv_ISO4217-currency_alphabetic: ALL
 dv_ISO4217-currency_name: Lek
 dv_ISO4217-currency_numeric: 8
@@ -77,7 +98,6 @@ dv_Alcohol-l: 6.7
 dv_is_a_: "[[../../../Geography/Place]]"
 dv_has_place_longitude: 19.9565
 dv_has_place_latitude: 40.793
-dv_has_id_wikidata: Q222
 dv_is_same_as:
   - "[[_Standards/WikiData/WD~Albania,222]]"
   - "[[../../../../WikiData/WD~Albania,222]]"
@@ -91,26 +111,6 @@ dv_is_same_as:
 dv_developed_developing_countries: Developed
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Albania
 
-aliases:
-  - Albania
-  - Albanie
-  - ألبانيا
-  - 阿尔巴尼亚
-  - Албания
-  - the Republic of Albania
-  - la República de Albania
-has_id_wikidata: Q222
-location:
-  - 40.793
-  - 19.9565
-type: Country
-SpocWebEntityId: 26830
-isDeleted: false
-confidential: public
-tags:
-  - geo/Country
-license: CC BY-SA 4.0
-isReadOnly: false
 source: https://datahub.io/core/country-codes
 cssclasses:
   - Country
@@ -502,7 +502,6 @@ Region = `=this.dv_Region`
 [	Intermediate_Region = `=this.dv_Region`
 Sub-region = `=this.dv_Sub-region`
 
-has_id_wikidata = `=this.dv_has_id_wikidata`
 is_a_ = `=this.dv_is_a_`
 Geoname-ID = `=this.dv_Geoname-ID`
 Unicode = `=this.dv_Unicode` 

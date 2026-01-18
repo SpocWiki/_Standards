@@ -48,11 +48,11 @@ Wolfram_Language_entity_code: Entity["Concept", "GreenRevolution::2bt99"]
 > Both the Ford Foundation and the Rockefeller Foundation 
 > were heavily involved in its initial development in Mexico. 
 > 
-> A key leader was agricultural scientist [[Borlaug,Norman]], the "Father of the Green Revolution", 
+> A key leader was agricultural scientist [[../../../../../_internal/Society/Economy/Agricultural_Revolution/Borlaug,Norman]], the "Father of the Green Revolution", 
 > who received the [[../../../Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Peace_Nobel_Prize|Nobel Peace Prize]] in 1970. 
 > He is credited with saving over a billion people from starvation. 
 > 
-> Another important scientific figure was [[Yuan Longping]], 
+> Another important scientific figure was [[../../../../../_internal/Society/Economy/Agricultural_Revolution/Yuan Longping]], 
 > whose work on hybrid rice varieties is credited with saving at least as many lives. 
 > 
 > The basic approach was the development of high-yielding varieties of cereal grains, 

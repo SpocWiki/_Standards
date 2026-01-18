@@ -6,6 +6,8 @@ aliases:
   - has_text_of_dependencies
   - has_dependencies
   - has dependencies
+  - is dependent on
+  - depends on
 confidential: public
 cssclasses:
   - Predicate
@@ -18,21 +20,21 @@ keywords:
   - dependencies
 layout: ""
 license: CC BY-SA 4.0
-linkTitle: has_text_of_dependencies
+linkTitle: has_dependencies
 publish: true
 publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
-title: has_text_of_dependencies
+title: has_dependencies
 type: Pred_Text
 dv_has_:
   text_of_:
     dependencies: Text
-  domain: TechArticle
-  name: has_text_of_dependencies
+  domain: "[[../../../Society/Communication/Media/Creative_Work/Article/Tech_Article|Tech_Article]]"
+  name: has_dependencies
   range: Text
-dv_has_text_of_dependencies: Text
+dv_has_dependencies: Text
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/Texts/has_dependencies|has_dependencies]]"
@@ -42,8 +44,8 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_dependencies.private|has_dependencies.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_dependencies.personal|has_dependencies.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_dependencies.secret|has_dependencies.secret]]"
-dv_has_domain: TechArticle
-dv_has_name: has_text_of_dependencies
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Article/Tech_Article|Tech_Article]]"
+dv_has_name: has_dependencies
 dv_has_range: Text
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/Texts/has_dependencies|has_dependencies]]"
@@ -55,18 +57,25 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Property/Texts/has_dependencies.secret|has_dependencies.secret]]"
 ---
 
-Predicate to describe the Text of TechArticle.
+# [[has_dependencies]] 
+
+#has_/inverse :: [[has_dependents]]
+
+#is_/similar_to :: [[has_server]] 
+#is_/similar_to :: [[../../Relation/has/has_provider|has_provider]] 
+
+Originally a [[../../Class/is_a_/Data_Type/Text|Text]] Predicate used to describe Prerequisites needed to fulfill steps in a "[[../../../Society/Communication/Media/Creative_Work/Article/Tech_Article|Tech_Article]]", 
+but extended to a Relation List of Entities for any [[../../Class/Thing|Thing]] that it depends on.
 
 Use it like this: 
-- #has_/text_of_dependencies = `=this.dv_has_text_of_dependencies`  
-- has_text_of_dependencies = `=this.dv_has_text_of_dependencies`  
+- #has_/dependencies = `=this.dv_has_dependencies`  
+- has_dependencies = `=this.dv_has_dependencies`  
 
 Prerequisites needed to fulfill steps in article.
 
 Predicated describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

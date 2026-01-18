@@ -174,7 +174,7 @@ Each revolution laid the groundwork for significant shifts in how humans live an
 > First Industrial Revolution and Second Industrial Revolution, 
 > was a period of global transition of the human economy 
 > towards more widespread, efficient and stable manufacturing processes 
-> that succeeded the [[Agricultural_Revolution]]. 
+> that succeeded the [[../../../../../../../../../_internal/Society/Economy/Agricultural_Revolution]]. 
 > 
 > Beginning in Great Britain, the Industrial Revolution spread to continental Europe 
 > and the United States, during the period from around 1760 to about 1820–1840. 

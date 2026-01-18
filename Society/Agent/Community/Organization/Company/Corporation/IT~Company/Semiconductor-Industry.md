@@ -4,7 +4,7 @@ EU firms make up a small percentage of semiconductor design
 , fabrication, and assembly.
 
 There are a few world-leading equipment and chemicals companies - 
- [[../../../../../../../../Knowledge/Economy/Company/ASML(Advanced_Semiconductor)]] and [[Semiconductor-Industry/STMicroelectronics]] 
+ [[Semiconductor-Industry/ASML(Advanced_Semiconductor)]] and [[Semiconductor-Industry/STMicroelectronics]] 
  and [[Infineon]] - but that's about it.
 
 None of this was inevitable. 
