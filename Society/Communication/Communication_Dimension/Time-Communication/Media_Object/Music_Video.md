@@ -34,7 +34,7 @@ Class of all music_video_objects.
 
 Tag Instances like this: 
 #is_a_/music_video
-#is_a_ :: [[Music_Video]] 
+#is_a :: [[Music_Video]] 
 
 A music video file.
 

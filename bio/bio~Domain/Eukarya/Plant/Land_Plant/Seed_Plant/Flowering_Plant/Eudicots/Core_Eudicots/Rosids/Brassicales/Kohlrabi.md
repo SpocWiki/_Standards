@@ -69,7 +69,7 @@ NBN_System_Key: NBNSYS0000033981
 # [[Kohlrabi]] 
 
 #is_/same_as :: [[WD~Kohlrabi,147202]] 
-#is_a_ :: [[../../../../../../../../../../../Society/Economics/Home_Economics/Cooking/Food/Vegetable|Vegetable]] 
+#is_a :: [[../../../../../../../../../../../Society/Economics/Home_Economics/Cooking/Food/Vegetable|Vegetable]] 
 
 ## #has_/text_of_/abstract 
 

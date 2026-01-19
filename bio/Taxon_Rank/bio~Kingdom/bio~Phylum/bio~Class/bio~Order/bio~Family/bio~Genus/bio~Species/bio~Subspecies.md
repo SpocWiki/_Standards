@@ -28,7 +28,7 @@ OmegaWiki_Defined_Meaning: 960607
 # [[bio~Subspecies]] 
 
 #is_a_/taxon_rank  
-#is_a_ :: [[../../../../../../../../Taxon_Rank|Taxon_Rank]]  
+#is_a :: [[../../../../../../../../Taxon_Rank|Taxon_Rank]]  
 #has_/previous_/item :: [[../bio~Species]] 
 #is_/different_from :: [[Breed]] 
 

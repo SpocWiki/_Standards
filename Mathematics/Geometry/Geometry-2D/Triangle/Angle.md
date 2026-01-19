@@ -41,7 +41,7 @@ Unicode_character: ∠
 
 # [[Angle]] 
 
-#is_a_ :: [[Pseudo-Vector]] 
+#is_a :: [[Pseudo-Vector]] 
 #is_/similar_to :: [[Vector]] 
 #is_/same_as :: [[../../../../WikiData/WD~Angle,11352|WD~Angle,11352]] 
 

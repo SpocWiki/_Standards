@@ -34,7 +34,7 @@ Class of all natural persons.
 
 Tag Instances like this: 
 #is_a_/person
-#is_a_ :: [[Person]]
+#is_a :: [[Person]]
 
 A person (alive, dead, undead, or fictional).
 

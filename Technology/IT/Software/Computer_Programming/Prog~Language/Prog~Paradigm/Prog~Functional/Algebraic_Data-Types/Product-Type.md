@@ -35,7 +35,7 @@ type: private note
 
 #is_/part_of :: [[../Algebraic_Data-Types]] 
 
-#is_a_ :: [[categorical_Product]] 
+#is_a :: [[categorical_Product]] 
 
 This is the [[categorical_Product]] [[../../../../Knowledge/Math/Category_Theory.internal]]], and is the Dual to the [[Sum-Type]]. 
 

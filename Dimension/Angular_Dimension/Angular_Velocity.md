@@ -10,7 +10,7 @@ aliases:
 
 # [[Angular_Velocity]] 
 
-#is_a_ :: [[../../Dimension]] 
+#is_a :: [[../../Dimension]] 
 #Dimension 
 #is_/similar_to :: [[../Linear_Dimension/Velocity|Velocity]] 
 

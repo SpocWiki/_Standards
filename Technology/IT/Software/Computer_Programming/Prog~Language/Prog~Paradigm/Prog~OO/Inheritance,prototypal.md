@@ -1,7 +1,7 @@
 
 # [[Inheritance,prototypal]] 
 
-#is_a_ :: [[../../../../../IT/Programming/Patterns/Patterns~Java.1/Patterns~Behavioral/Pattern~Chain_of_Responsibility]] 
+#is_a :: [[../../../../../IT/Programming/Patterns/Patterns~Java.1/Patterns~Behavioral/Pattern~Chain_of_Responsibility]] 
 
 #is_/similar_to :: [[Inheritance_by_Class]] 
 #is_/different_from  :: [[Inheritance_by_Class]]  

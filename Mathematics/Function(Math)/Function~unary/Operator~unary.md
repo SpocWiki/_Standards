@@ -15,7 +15,7 @@ Commons_category: Symbols for binary operations
 
 # [[Operator~unary]] 
 
-#is_a_ :: [[Function~unary]] 
+#is_a :: [[Function~unary]] 
 #is_/same_as :: [[WD~unary_operator,30242895]]  
 
 ## #has_/text_of_/abstract 

@@ -141,7 +141,7 @@ official_website: http://www.freddiemercury.com
 #has_/time_/stopped :: 1991-11-24 
 #has_/duration  :: `$=((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)` 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000 /60 /60 /24 /365.2425)` 
-#is_a_ :: [[../../../../../../../_Standards/Society/Communication/Media/Music/Musician/Singer|Singer]] 
+#is_a :: [[../../../../../../../_Standards/Society/Communication/Media/Music/Musician/Singer|Singer]] 
 #is_/same_as :: [[../../../../../../../_Standards/WikiData/WD~Freddie_Mercury,15869|WD~Freddie_Mercury,15869]] 
 
 ## #has_/text_of_/abstract 

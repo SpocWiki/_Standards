@@ -107,7 +107,7 @@ Class of all libraries.
 
 Tag Instances like this: 
 #is_a_/library 
-#is_a_:: [[Library]]  
+#is_a :: [[Library]]  
 
 A library.
 

@@ -137,7 +137,7 @@ ISNI: 0000000121451116
 #has_/time_/started :: 1712-06-28 
 #has_/time_/stopped  :: 1778-07-02 
 
-#is_a_ :: [[../../Philosopher]] 
+#is_a :: [[../../Philosopher]] 
 
 # [[Rousseau,Jean-Jacques]] 
 

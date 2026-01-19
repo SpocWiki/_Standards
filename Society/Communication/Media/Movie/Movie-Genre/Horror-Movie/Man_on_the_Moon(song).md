@@ -1,5 +1,5 @@
 
-#is_a_ :: [[../../music/Song]]
+#is_a :: [[../../music/Song]]
 #has_/creator :: [[R.E.M]] 
 
 The [[../../music/Song]] "Man on the Moon" by R.E.M. is often 

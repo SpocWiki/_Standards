@@ -8,7 +8,7 @@ aliases:
 
 #is_/different_from :: [[../../../../../Earth/Atlas|Atlas]]
 #is_/same_as :: [[../../../../../WikiData/WD~Atlas,130818|WD~Atlas,130818]] 
-#is_a_ :: [[Titan(Mythology)]]
+#is_a :: [[Titan(Mythology)]]
 
 ## #has_/text_of_/abstract  
 

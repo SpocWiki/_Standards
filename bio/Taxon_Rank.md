@@ -13,7 +13,7 @@ aliases:
 
 Use it like this: 
 - #is_a_/taxon_rank  or 
-- #is_a_ :: [[Taxon_Rank]] 
+- #is_a :: [[Taxon_Rank]] 
 
 #is_/used_by :: [[Taxon_Rank/Biological_Classification|Biological Taxonomy]] 
 

@@ -43,7 +43,7 @@ To describe the geo:alt Altitude above the [[../../../../_public/geo/geo~Coordin
 Unlike [[has_place_longitude|longitude]] and [[has_place_latitude|latitude]] which are given only in Degrees, 
 this can be given in other Units, which need to be specified. 
 
-#is_a_ :: [[../../../Mathematics/Geometry/Position-Vector|Position-Vector]] 
+#is_a :: [[../../../Mathematics/Geometry/Position-Vector|Position-Vector]] 
 
 
 #is_/similar_to :: [[has_place_elevation]] 

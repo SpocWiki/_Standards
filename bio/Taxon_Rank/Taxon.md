@@ -32,7 +32,7 @@ These create a [[Taxonomy]] .
 
 Tag Instances like this: 
 #is_a_/taxon restricts the Classes to a common set, but does not create a Link 
-#is_a_ :: [[Taxon]] 
+#is_a :: [[Taxon]] 
 creates a Link, but that is unrestricted
 
 #is_/part_of :: https://pending.schema.org  

@@ -30,7 +30,7 @@ part_of:
 # [[bio~Family]] 
 
 #is_a_/taxon_rank  
-#is_a_ :: [[Taxon_Rank]] 
+#is_a :: [[Taxon_Rank]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Family,35409|WD~Family,35409]]  
 #has_/previous_/item :: [[../bio~Order]]  

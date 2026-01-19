@@ -31,7 +31,7 @@ short_name: g.
 # [[bio~Genus]] 
 
 #is_a_/taxon_rank  
-#is_a_ :: [[Taxon_Rank]] 
+#is_a :: [[Taxon_Rank]] 
 
 #has_/previous_/item :: [[../bio~Family]]  
 #has_/next_/item :: [[bio~Genus/bio~Species]] 

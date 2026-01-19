@@ -32,7 +32,7 @@ Class of all medical_researchers.
 
 Tag Instances like this: 
 #is_a_/medical_researcher
-#is_a_ :: [[Medical_Researcher]] 
+#is_a :: [[Medical_Researcher]] 
 
 Medical researchers.
 

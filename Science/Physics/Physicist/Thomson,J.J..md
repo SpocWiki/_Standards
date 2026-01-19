@@ -130,7 +130,7 @@ Krugosvet_article_archived_: nauka_i_tehnika/fizika/TOMSON_DZHOZEF_DZHON.html
 
 # [[Thomson,J.J.]] 
 
-#is_a_ :: [[../Physicist|Physicist]] 
+#is_a :: [[../Physicist|Physicist]] 
 #is_/same_as :: [[WD~J._J._Thomson,47285]] 
 
 ## #has_/text_of_/abstract 

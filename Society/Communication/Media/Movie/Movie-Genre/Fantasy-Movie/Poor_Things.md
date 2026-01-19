@@ -4,7 +4,7 @@ aliases:
   - Poor_Things
 ---
 
-#is_a_ ::  [[Born_yesterday-Trope]] 
+#is_a ::  [[Born_yesterday-Trope]] 
 
 ## #has_/text_of_/abstract 
 

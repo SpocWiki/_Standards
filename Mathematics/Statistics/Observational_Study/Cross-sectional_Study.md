@@ -11,7 +11,7 @@ aliases:
 
 # [[Cross-sectional_Study]] 
 
-#is_a_ :: [[../Observational_Study|Observational_Study]] 
+#is_a :: [[../Observational_Study|Observational_Study]] 
 #is_/worse_than :: [[Observational_Study/Longitudinal_Study|Longitudinal_Study]] 
 #is_/different_from :: [[../Experiment]] 
 

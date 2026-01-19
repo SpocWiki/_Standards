@@ -95,7 +95,7 @@ Class of all houses.
 
 Tag Instances like this: 
 #is_a_/house
-#is_a_ :: [[House]] 
+#is_a :: [[House]] 
 
 A house is a building or structure that has the ability 
 to be occupied for habitation by humans or other creatures 

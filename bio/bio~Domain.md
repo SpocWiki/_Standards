@@ -24,7 +24,7 @@ Commons_category: Domains (biology)
 #has_/time_/started : 1990-06 
 
 #is_a_/taxon_rank  
-#is_a_ :: [[Taxon_Rank]] 
+#is_a :: [[Taxon_Rank]] 
 
 #has_/next_/item ::[[Taxon_Rank/bio~Kingdom]]] 
 

@@ -37,7 +37,7 @@ U_S_National_Archives_Identifier: 10663903
 # [[bio~Species]] 
 
 #is_a_/taxon_rank 
-#is_a_ :: [[Taxon_Rank]] 
+#is_a :: [[Taxon_Rank]] 
 
 #has_/previous_/item :: [[../bio~Genus]]  
 #has_/next_/item :: [[bio~Species/bio~Subspecies]] 

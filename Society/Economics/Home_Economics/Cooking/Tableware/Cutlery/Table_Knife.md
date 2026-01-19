@@ -1,7 +1,7 @@
 
 # [[Table_Knife]] 
 
-#is_a_ :: [[../../../../../../Technology/Tool/Mechanical_Tool/Hand_Tool/Knife]] 
+#is_a :: [[../../../../../../Technology/Tool/Mechanical_Tool/Hand_Tool/Knife]] 
 
 ## #has_/text_of_/abstract 
 

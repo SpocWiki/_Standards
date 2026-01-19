@@ -127,7 +127,7 @@ Royal_Academy_new_identifier: clemens-lothar-wenzel-prince-metternich
 # [[Klemens_von_Metternich]] 
 
 #is_/same_as :: [[WD~Klemens_von_Metternich,45662]] 
-#is_a_ :: [[../Diplomat|Diplomat]] 
+#is_a :: [[../Diplomat|Diplomat]] 
 ## #has_/text_of_/abstract 
 
 > Klemens Wenzel Nepomuk Lothar, Prince of Metternich-Winneburg zu Beilstein 

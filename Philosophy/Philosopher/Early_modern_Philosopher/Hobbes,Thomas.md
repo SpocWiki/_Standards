@@ -104,7 +104,7 @@ Krugosvet_article_archived_: istoriya/GOBBS_TOMAS.html
 #has_/time_/started :: 1588-04-05 
 #has_/time_/stopped  :: 1679-12-20 
 
-#is_a_ :: [[../../../../../../_Standards/Philosophy/Philosopher]] 
+#is_a :: [[../../../../../../_Standards/Philosophy/Philosopher]] 
 
 #has_/created :: Opportunism, Individualism  
 #has_/created_/quote :: Krieg Aller gegen Alle 

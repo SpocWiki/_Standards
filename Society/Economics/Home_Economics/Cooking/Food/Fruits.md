@@ -60,7 +60,7 @@ Unicode_range: U+1F347-1F353
 # [[Fruits]] 
 
 #is_a_/class 
-#is_a_ :: [[../../../../../schema-org/Class|Class]]  
+#is_a :: [[../../../../../schema-org/Class|Class]]  
 
 Use it like this: 
 #is_a :: [[Fruits]] 

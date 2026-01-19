@@ -26,7 +26,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Linnaeus%20-%20%C3%96r
 # [[bio~Phylum]] 
 
 #is_a_/taxon_rank 
-#is_a_ :: [[Taxon_Rank]] 
+#is_a :: [[Taxon_Rank]] 
 
 #has_/previous_/item :: [[../bio~Kingdom]]  
 #has_/next_/item :: [[bio~Phylum/bio~Class]]  

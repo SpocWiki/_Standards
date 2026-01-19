@@ -54,7 +54,7 @@ date_of_death: 1919-12-28T00:00:00Z
 
 # [[Rydberg,Johannes]] 
 
-#is_a_ :: [[../Physicist|Physicist]] 
+#is_a :: [[../Physicist|Physicist]] 
 #is_/same_as :: [[WD~Johannes_Rydberg,311567]] 
 
 ## #has_/text_of_/abstract 

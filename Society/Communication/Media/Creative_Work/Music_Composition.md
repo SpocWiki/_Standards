@@ -119,7 +119,7 @@ Class of all music_compositions.
 
 Tag Instances like this: 
 #is_a_/music_composition 
-#is_a_ :: [[Music_Composition]] 
+#is_a :: [[Music_Composition]] 
 
 A musical composition.
 

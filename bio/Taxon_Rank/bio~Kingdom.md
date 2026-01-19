@@ -24,7 +24,7 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Full_biological_kingdo
 # [[bio~Kingdom]] 
 
 - #is_a_/taxon_rank  
-- #is_a_ :: [[Taxon_Rank]] 
+- #is_a :: [[Taxon_Rank]] 
 - 
 - #is_/same_as :: [[../../../WikiData/WD~Kingdom,36732]] 
 - #has_/previous_/item :: [[../bio~Domain]] 

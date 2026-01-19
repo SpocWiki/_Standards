@@ -2,7 +2,7 @@
 # [[Why_Nations_Fail]] 
 
 #is_a_/Book 
-#is_a_ :: [[../../Communication/Media/Writing/Book|Book]]  
+#is_a :: [[../../Communication/Media/Writing/Book|Book]]  
 
 #has_/url_ :: 
 

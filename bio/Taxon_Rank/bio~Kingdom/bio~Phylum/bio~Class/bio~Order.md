@@ -25,7 +25,7 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610
 # [[bio~Order]] 
 
 #is_a_/taxon_rank  
-#is_a_ :: [[Taxon_Rank]] 
+#is_a :: [[Taxon_Rank]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Order,36602|WD~Order,36602]]   
 #has_/previous_/item :: [[../bio~Class]]  

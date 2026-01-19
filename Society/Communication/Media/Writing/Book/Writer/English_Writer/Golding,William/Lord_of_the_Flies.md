@@ -42,7 +42,7 @@ Wolfram_Language_entity_code: Entity["Book", "LordOfTheFlies"]
 # [[Lord_of_the_Flies]] 
 
 #is_a_/novel 
-#is_a_ :: [[../../../Prose/Novel|Novel]] 
+#is_a :: [[../../../Prose/Novel|Novel]] 
 
 #has_/creator :: [[../Golding,William]] 
 #is_/same_as :: [[_Standards/WikiData/WD~Lord_of_the_Flies,271764]] 
