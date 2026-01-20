@@ -127,7 +127,7 @@ fields:
     options: {}
     path: ''
     id: mEQ8uX
-  - name: is_related_to
+  - name: has_related
     type: MultiFile
     options: {}
     path: ''

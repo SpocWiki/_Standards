@@ -34,7 +34,7 @@ dv_has_:
 dv_has_relevant_specialty: MedicalSpecialty
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_relevant_specialty|has_relevant_specialty]]"
+    - "[[has_relevant_specialty|has_relevant_specialty]]"
     - "[[/_public/schema-org/Relation/has/has_relevant_specialty.public|has_relevant_specialty.public]]"
     - "[[/_internal/schema-org/Relation/has/has_relevant_specialty.internal|has_relevant_specialty.internal]]"
     - "[[/_protect/schema-org/Relation/has/has_relevant_specialty.protect|has_relevant_specialty.protect]]"
@@ -45,7 +45,7 @@ dv_has_domain: MedicalEntity
 dv_has_name: is_relevant_specialty
 dv_has_range: MedicalSpecialty
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_relevant_specialty|has_relevant_specialty]]"
+  - "[[has_relevant_specialty|has_relevant_specialty]]"
   - "[[/_public/schema-org/Relation/has/has_relevant_specialty.public|has_relevant_specialty.public]]"
   - "[[/_internal/schema-org/Relation/has/has_relevant_specialty.internal|has_relevant_specialty.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_relevant_specialty.protect|has_relevant_specialty.protect]]"
@@ -70,7 +70,7 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_relevant_specialty|has_relevant_specialty]] 
+### #is_/same_as :: [[has_relevant_specialty|has_relevant_specialty]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_relevant_specialty.public|has_relevant_specialty.public]] 
 

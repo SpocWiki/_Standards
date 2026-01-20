@@ -34,7 +34,7 @@ dv_has_:
 dv_has_related_drug: Drug
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_related_drug|has_related_drug]]"
+    - "[[has_related_drug|has_related_drug]]"
     - "[[/_public/schema-org/Relation/has/has_related_drug.public|has_related_drug.public]]"
     - "[[/_internal/schema-org/Relation/has/has_related_drug.internal|has_related_drug.internal]]"
     - "[[/_protect/schema-org/Relation/has/has_related_drug.protect|has_related_drug.protect]]"
@@ -45,7 +45,7 @@ dv_has_domain: Drug
 dv_has_name: is_related_drug
 dv_has_range: Drug
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_related_drug|has_related_drug]]"
+  - "[[has_related_drug|has_related_drug]]"
   - "[[/_public/schema-org/Relation/has/has_related_drug.public|has_related_drug.public]]"
   - "[[/_internal/schema-org/Relation/has/has_related_drug.internal|has_related_drug.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_related_drug.protect|has_related_drug.protect]]"
@@ -70,7 +70,7 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_related_drug|has_related_drug]] 
+### #is_/same_as :: [[has_related_drug|has_related_drug]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_related_drug.public|has_related_drug.public]] 
 

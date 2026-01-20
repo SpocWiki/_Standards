@@ -34,7 +34,7 @@ dv_has_:
 dv_has_related_condition: MedicalCondition
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_related_condition|has_related_condition]]"
+    - "[[has_related_condition|has_related_condition]]"
     - "[[/_public/schema-org/Relation/has/has_related_condition.public|has_related_condition.public]]"
     - "[[/_internal/schema-org/Relation/has/has_related_condition.internal|has_related_condition.internal]]"
     - "[[/_protect/schema-org/Relation/has/has_related_condition.protect|has_related_condition.protect]]"
@@ -45,7 +45,7 @@ dv_has_domain: AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy
 dv_has_name: is_related_condition
 dv_has_range: MedicalCondition
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_related_condition|has_related_condition]]"
+  - "[[has_related_condition|has_related_condition]]"
   - "[[/_public/schema-org/Relation/has/has_related_condition.public|has_related_condition.public]]"
   - "[[/_internal/schema-org/Relation/has/has_related_condition.internal|has_related_condition.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_related_condition.protect|has_related_condition.protect]]"
@@ -70,7 +70,7 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_related_condition|has_related_condition]] 
+### #is_/same_as :: [[has_related_condition|has_related_condition]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_related_condition.public|has_related_condition.public]] 
 

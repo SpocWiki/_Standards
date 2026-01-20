@@ -34,7 +34,7 @@ dv_has_:
 dv_has_related_therapy: MedicalTherapy
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_related_therapy|has_related_therapy]]"
+    - "[[has_related_therapy|has_related_therapy]]"
     - "[[/_public/schema-org/Relation/has/has_related_therapy.public|has_related_therapy.public]]"
     - "[[/_internal/schema-org/Relation/has/has_related_therapy.internal|has_related_therapy.internal]]"
     - "[[/_protect/schema-org/Relation/has/has_related_therapy.protect|has_related_therapy.protect]]"
@@ -45,7 +45,7 @@ dv_has_domain: AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy
 dv_has_name: is_related_therapy
 dv_has_range: MedicalTherapy
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_related_therapy|has_related_therapy]]"
+  - "[[has_related_therapy|has_related_therapy]]"
   - "[[/_public/schema-org/Relation/has/has_related_therapy.public|has_related_therapy.public]]"
   - "[[/_internal/schema-org/Relation/has/has_related_therapy.internal|has_related_therapy.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_related_therapy.protect|has_related_therapy.protect]]"
@@ -70,7 +70,7 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_related_therapy|has_related_therapy]] 
+### #is_/same_as :: [[has_related_therapy|has_related_therapy]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_related_therapy.public|has_related_therapy.public]] 
 

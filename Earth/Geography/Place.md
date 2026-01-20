@@ -1,7 +1,6 @@
 ---
 aliases:
   - place
-  - place
   - Place
   - is_a_place
   - schema:Place
@@ -25,12 +24,20 @@ tags:
   - schema-org/Class
 title: is_a_place Class
 type: Type
-dv_#is_:
-  sub_class_of: "[[../../schema-org/Class/Thing|Thing]]"
-dv_#has_:
-  sub_classes: "[ Accommodation, AdministrativeArea, CivicStructure, Landform, LandmarksOrHistoricalBuildings, LocalBusiness, Residence, TouristAttraction, TouristDestination ]"
+dv_has_:
+  sub_classes:
+    - "[[Place/Accommodation]]"
+    - "[[Place/Administrative_Area|Administrative_Area]]"
+    - "[[Place/Civic_Structure|Civic_Structure]]"
+    - "[[../Geology/Landform]]"
+    - "[[Place/Landmarks_or_Historical_Buildings|Landmarks_or_Historical_Buildings]]"
+    - "[[../../Society/Agent/Community/Organization/Business/Local_Business|Local_Business]]"
+    - "[[Place/Residence|Residence]]"
+    - "[[Place/Tourist_Attraction|Tourist_Attraction]]"
+    - "[[Place/Tourist_Destination|Tourist_Destination]]"
   properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
 dv_is_:
+  sub_class_of: "[[../../schema-org/Class/Thing|Thing]]"
   same_as:
     - "[[/_Standards/Earth/Geography/Place|Place]]"
     - "[[/_public/Earth/Geography/Place.public|Place.public]]"
@@ -40,8 +47,74 @@ dv_is_:
     - "[[/_personal/Earth/Geography/Place.personal|Place.personal]]"
     - "[[/_secret/Earth/Geography/Place.secret|Place.secret]]"
 dv_is_sub_class_of: "[[../../schema-org/Class/Thing|Thing]]"
-dv_has_sub_classes: "[ Accommodation, AdministrativeArea, CivicStructure, Landform, LandmarksOrHistoricalBuildings, LocalBusiness, Residence, TouristAttraction, TouristDestination ]"
-dv_has_properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+dv_has_sub_classes:
+  - "[[Place/Accommodation]]"
+  - "[[Place/Administrative_Area|Administrative_Area]]"
+  - "[[Place/Civic_Structure|Civic_Structure]]"
+  - "[[../Geology/Landform]]"
+  - "[[Place/Landmarks_or_Historical_Buildings|Landmarks_or_Historical_Buildings]]"
+  - "[[../../Society/Agent/Community/Organization/Business/Local_Business|Local_Business]]"
+  - "[[Place/Residence|Residence]]"
+  - "[[Place/Tourist_Attraction|Tourist_Attraction]]"
+  - "[[Place/Tourist_Destination|Tourist_Destination]]"
+dv_has_properties:
+  - "[[additionalProperty]]"
+  - "[[../../schema-org/Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
+  - "[[../../schema-org/Property/has_location/has_location_address|has_location_address]]"
+  - "[[../../schema-org/Relation/has/has_aggregate_rating|has_aggregate_rating]]"
+  - "[[../../schema-org/Property/has_name/has_name_alternate|has_name_alternate]]"
+  - "[[../../schema-org/Relation/has/has_amenity_feature|has_amenity_feature]]"
+  - "[[../../schema-org/Property/has_id/has_code_of_branch|branchCode]]"
+  - "[[../../schema-org/Property/has_location/has_location_contained_in|has_location_contained_in]]"
+  - "[[../../schema-org/Property/has_location/has_location_within|has_location_within]]"
+  - "[[../../schema-org/Property/has_location/has_location_within|has_location_within]]"
+  - "[[../../schema-org/Property/Texts/has_description|has_description]]"
+  - "[[../../schema-org/Property/Texts/has_description/has_description_disambiguating|has_disambiguating_description]]"
+  - "[[event]]"
+  - "[[events]]"
+  - "[[faxNumber]]"
+  - "[[geo]]"
+  - "[[geoContains]]"
+  - "[[geoCoveredBy]]"
+  - "[[geoCovers]]"
+  - "[[geoCrosses]]"
+  - "[[geoDisjoint]]"
+  - "[[../../schema-org/Property/has_location/has_location_equal_to|has_location_equal_to]]"
+  - "[[geoIntersects]]"
+  - "[[geoOverlaps]]"
+  - "[[geoTouches]]"
+  - "[[../../schema-org/Property/has_location/has_location_within|has_location_within]]"
+  - "[[globalLocationNumber]]"
+  - "[[hasDriveThroughService]]"
+  - "[[hasMap]]"
+  - "[[identifier]]"
+  - "[[image]]"
+  - "[[isAccessibleForFree]]"
+  - "[[isicV4]]"
+  - "[[keywords]]"
+  - "[[latitude]]"
+  - "[[logo]]"
+  - "[[longitude]]"
+  - "[[mainEntityOfPage]]"
+  - "[[map]]"
+  - "[[maps]]"
+  - "[[maximumAttendeeCapacity]]"
+  - "[[name]]"
+  - "[[openingHoursSpecification]]"
+  - "[[photo]]"
+  - "[[photos]]"
+  - "[[potentialAction]]"
+  - "[[publicAccess]]"
+  - "[[review]]"
+  - "[[reviews]]"
+  - "[[sameAs]]"
+  - "[[slogan]]"
+  - "[[smokingAllowed]]"
+  - "[[../../schema-org/Relation/has/has_special_opening_hours_specification|has_special_opening_hours]]"
+  - "[[subjectOf]]"
+  - "[[telephone]]"
+  - "[[tourBookingPage]]"
+  - "[[url]]"
 dv_is_same_as:
   - "[[/_Standards/Earth/Geography/Place|Place]]"
   - "[[/_public/Earth/Geography/Place.public|Place.public]]"
@@ -59,7 +132,7 @@ Tag Instances like this:
 
 Entities that have a somewhat fixed, physical extension.
 
-is_sub_class_of = `=this.dv_is_sub_class_of`] ] 
+is_sub_class_of = `=this.dv_is_sub_class_of` 
 
 has_sub_classes = `=this.dv_has_sub_classes` ]
 

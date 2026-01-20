@@ -34,7 +34,7 @@ dv_has_:
 dv_has_related_anatomy: AnatomicalStructure, AnatomicalSystem
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_related_anatomy|has_related_anatomy]]"
+    - "[[has_related_anatomy|has_related_anatomy]]"
     - "[[/_public/schema-org/Relation/has/has_related_anatomy.public|has_related_anatomy.public]]"
     - "[[/_internal/schema-org/Relation/has/has_related_anatomy.internal|has_related_anatomy.internal]]"
     - "[[/_protect/schema-org/Relation/has/has_related_anatomy.protect|has_related_anatomy.protect]]"
@@ -45,7 +45,7 @@ dv_has_domain: SuperficialAnatomy
 dv_has_name: is_related_anatomy
 dv_has_range: AnatomicalStructure, AnatomicalSystem
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_related_anatomy|has_related_anatomy]]"
+  - "[[has_related_anatomy|has_related_anatomy]]"
   - "[[/_public/schema-org/Relation/has/has_related_anatomy.public|has_related_anatomy.public]]"
   - "[[/_internal/schema-org/Relation/has/has_related_anatomy.internal|has_related_anatomy.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_related_anatomy.protect|has_related_anatomy.protect]]"
@@ -70,7 +70,7 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_related_anatomy|has_related_anatomy]] 
+### #is_/same_as :: [[has_related_anatomy|has_related_anatomy]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_related_anatomy.public|has_related_anatomy.public]] 
 

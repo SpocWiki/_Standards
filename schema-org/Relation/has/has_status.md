@@ -23,11 +23,11 @@ tags:
 title: has_status
 type: Predi_Relation
 dv_has_:
-  status: EventStatusType, MedicalStudyStatus, Text
-  domain: MedicalCondition, MedicalProcedure, MedicalStudy
+  status: ["[[../../Enumeration/Status_Enumeration/Event_Status_Type|Event_Status_Type]]", "[[../../../bio/Medicine/Medical_Enumeration/Medical_Study_Status|Medical_Study_Status]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
+  domain: ["[[../../../bio/Medicine/Medical_Condition|Medical_Condition]]", "[[../../../bio/Medicine/Medical_Guideline/Medical_Procedure|Medical_Procedure]]", "[[../../../bio/Medicine/Medical_Entity/Medical_Study|Medical_Study]]"]
   name: is_status
-  range: EventStatusType, MedicalStudyStatus, Text
-dv_has_status: EventStatusType, MedicalStudyStatus, Text
+  range: ["[[../../Enumeration/Status_Enumeration/Event_Status_Type|Event_Status_Type]]", "[[../../../bio/Medicine/Medical_Enumeration/Medical_Study_Status|Medical_Study_Status]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
+dv_has_status: ["[[../../Enumeration/Status_Enumeration/Event_Status_Type|Event_Status_Type]]", "[[../../../bio/Medicine/Medical_Enumeration/Medical_Study_Status|Medical_Study_Status]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_status|has_status]]"
@@ -37,9 +37,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_status.private|has_status.private]]"
     - "[[/_personal/schema-org/Relation/has/has_status.personal|has_status.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_status.secret|has_status.secret]]"
-dv_has_domain: MedicalCondition, MedicalProcedure, MedicalStudy
+dv_has_domain: ["[[../../../bio/Medicine/Medical_Condition|Medical_Condition]]", "[[../../../bio/Medicine/Medical_Guideline/Medical_Procedure|Medical_Procedure]]", "[[../../../bio/Medicine/Medical_Entity/Medical_Study|Medical_Study]]"]
 dv_has_name: is_status
-dv_has_range: EventStatusType, MedicalStudyStatus, Text
+dv_has_range: ["[[../../Enumeration/Status_Enumeration/Event_Status_Type|Event_Status_Type]]", "[[../../../bio/Medicine/Medical_Enumeration/Medical_Study_Status|Medical_Study_Status]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_status|has_status]]"
   - "[[/_public/schema-org/Relation/has/has_status.public|has_status.public]]"

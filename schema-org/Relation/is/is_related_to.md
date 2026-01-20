@@ -16,13 +16,13 @@ isReadOnly: false
 keywords: ''
 layout: ''
 license: CC BY-SA 4.0
-linkTitle: is_related_to
+linkTitle: has_related
 publish: true
 publishDate: ''
 tags:
   - class/Relation
   - schema-org/Relation
-title: is_related_to
+title: has_related
 type: Predi_Relation
 ---
 
@@ -36,23 +36,23 @@ Relation describes that:
 
 #has_/domain  :: Product, Service 
 
-(has_/name :: is_related_to)
+(has_/name :: has_related)
 (has_/range :: Product, Service)
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_related_to|is_related_to]] 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/has_related|has_related]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/is/is_related_to.public|is_related_to.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/has_related.public|has_related.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_related_to.internal|is_related_to.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/has_related.internal|has_related.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_related_to.protect|is_related_to.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/has_related.protect|has_related.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/is/is_related_to.private|is_related_to.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/has_related.private|has_related.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_related_to.personal|is_related_to.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/has_related.personal|has_related.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_related_to.secret|is_related_to.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/has_related.secret|has_related.secret]] 
 

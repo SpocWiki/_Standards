@@ -46,7 +46,7 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_size_system|has_size_system]] 
+### #is_/same_as :: [[has_size_system|has_size_system]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_size_system.public|has_size_system.public]] 
 

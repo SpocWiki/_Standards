@@ -2,6 +2,7 @@
 aliases:
   - has_amenity_feature
   - has amenity feature
+  - AmenityFeature
 confidential: public
 cssclasses:
   - Predicate

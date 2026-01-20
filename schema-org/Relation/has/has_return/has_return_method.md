@@ -46,7 +46,7 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_return_method|has_return_method]] 
+### #is_/same_as :: [[has_return_method|has_return_method]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_return_method.public|has_return_method.public]] 
 
