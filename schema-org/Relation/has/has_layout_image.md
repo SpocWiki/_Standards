@@ -43,7 +43,7 @@ Relation describes that:
 (has_/name :: has_layout_image )
 (has_/range :: ImageObject, URL )
 
-#is_/sub_property_of  :: image  
+#has_/parent_/property  :: image  
 
 ## Confidential Links & Embeds: 
 

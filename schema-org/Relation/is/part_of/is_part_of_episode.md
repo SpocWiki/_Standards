@@ -42,7 +42,7 @@ Relation describes that:
 (has_/name :: is_part_of_episode )
 (has_/range :: Episode )
 
-#is_/sub_property_of  :: isPartOf  
+#has_/parent_/property  :: isPartOf  
 
 ## Confidential Links & Embeds: 
 

@@ -48,7 +48,7 @@ Predicated describes that:
 (has_/name :: has_text_of_in_ch_i_key )
 (has_/range :: Text )
 
-#is_/sub_property_of  :: hasRepresentation  
+#has_/parent_/property  :: hasRepresentation  
 
 ## Confidential Links & Embeds: 
 

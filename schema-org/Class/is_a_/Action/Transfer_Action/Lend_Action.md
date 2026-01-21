@@ -26,7 +26,6 @@ tags:
 title: is_a_lend_action Class
 type: Type
 dv_is_:
-  inverse_of: "[[Borrow_Action]]"
   sub_class_of: "[[../TransferAction]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Action/Transfer_Action/Lend_Action|Lend_Action]]"
@@ -37,6 +36,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Action/Transfer_Action/Lend_Action.personal|Lend_Action.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Action/Transfer_Action/Lend_Action.secret|Lend_Action.secret]]"
 dv_has_:
+  inverse: "[[Borrow_Action]]"
   properties: "[ actionStatus, additionalType, agent, alternateName, borrower, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ]"
 dv_has_inverse: "[[Borrow_Action]]"
 dv_is_sub_class_of: "[[../TransferAction]]"

@@ -41,7 +41,7 @@ Relation describes that:
 (has_/name :: is_work_location )
 (has_/range :: ContactPoint, Place )
 
-#is_/sub_property_of  :: location  
+#has_/parent_/property  :: location  
 
 ## Confidential Links & Embeds: 
 

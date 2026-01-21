@@ -41,7 +41,7 @@ Relation describes that:
 (has_/name :: is_work_presented )
 (has_/range :: Movie )
 
-#is_/sub_property_of  :: workFeatured  
+#has_/parent_/property  :: workFeatured  
 
 ## Confidential Links & Embeds: 
 

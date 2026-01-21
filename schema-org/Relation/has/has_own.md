@@ -24,13 +24,13 @@ tags:
 title: is_owning
 type: Predi_Relation
 dv_has_:
+  inverse: "[[has_owner]]"
   own: OwnershipInfo, Product
   domain: Organization, Person
   name: "[[has_own]]"
   range: OwnershipInfo, Product
 dv_has_own: OwnershipInfo, Product
 dv_is_:
-  inverse_of: "[[has_owner]]"
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_own|has_own]]"
     - "[[/_public/schema-org/Relation/has/has_own.public|has_own.public]]"

@@ -37,7 +37,7 @@ Relation describes that:
 (has_/name :: is_tool )
 (has_/range :: HowToTool, Text )
 
-#is_/sub_property_of  :: instrument  
+#has_/parent_/property  :: instrument  
 
 ## Confidential Links & Embeds: 
 

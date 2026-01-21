@@ -80,7 +80,7 @@ Wikidata_usage_instructions:
 # [[has_name]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Name,82799|WD~Name,82799]] 
-#is_/sub_property_of  :: http://www.w3.org/2000/01/rdf-schema#label 
+#has_/parent_/property  :: http://www.w3.org/2000/01/rdf-schema#label 
 
 The name of the item.
 

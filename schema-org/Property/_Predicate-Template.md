@@ -38,8 +38,8 @@ type: Predicate
 dv_domain: "{{domainIncludes}}"
 dv_name: "{{has_label_snail}}"
 dv_range: "{{rangeIncludes}}"
-dv_inverse_of: "{{inverseOf}}"
-dv_sub_property_of: "{{subPropertyOf}}"
+dv_has_inverse: "{{inverseOf}}"
+dv_has_parent_property: "{{subPropertyOf}}"
 dv_sub_properties: "{{subproperties}}"
 dv_is_part_of: "{{isPartOf}}"
 dv_is_:
@@ -67,8 +67,8 @@ range = `=this.dv_range`
 
 {{comment}}
 
-inverse_of = `=this.dv_inverse_of` 
-sub_property_of = `=this.dv_sub_property_of` 
+has_inverse = `=this.dv_has_inverse` 
+has_parent_property = `=this.dv_has_parent_property` 
 sub_properties = `=this.dv_sub_properties` 
 
 is_part_of = `=this.dv_is_part_of` 

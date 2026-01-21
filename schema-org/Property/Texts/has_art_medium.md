@@ -44,7 +44,7 @@ Predicated describes that:
 (has_/name :: has_text_of_art_medium )
 (has_/range :: Text, URL )
 
-#is_/sub_property_of  :: material  
+#has_/parent_/property  :: material  
 
 ## Confidential Links & Embeds: 
 

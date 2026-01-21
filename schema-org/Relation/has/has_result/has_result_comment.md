@@ -28,20 +28,22 @@ title: has_result_comment
 type: Predi_Relation
 ---
 
-Use it like this: 
-- #has_/result_/comment :: Comment  
-- [ has_result_comment :: Comment ] 
+# [[has_result_comment]] 
 
-A sub property of result. The Comment created or sent as a result of this action.
+#has_/parent_/property  :: [[../has_result|has_result]]  
+
+Use it like this: 
+- #has_/result_/comment :: "[[../../../../Society/Communication/Media/Creative_Work/Comment|Comment]]"  
+- has_result_comment :: "[[../../../../Society/Communication/Media/Creative_Work/Comment|Comment]]" 
+
+A sub property of result. 
+The Comment created or sent as a result of this action.
 
 Relation describes that: 
 
-#has_/domain  :: CommentAction, ReplyAction  
-
-(has_/name :: is_result_comment )
-(has_/range :: Comment )
-
-#is_/sub_property_of  :: result  
+#has_/domain  :: "[[../../../Class/is_a_/Action/Interact_Action/Communicate_Action/Comment_Action|Comment_Action]]", "[[../../../Class/is_a_/Action/Interact_Action/Communicate_Action/Reply_Action|Reply_Action]]"  
+(has_/name :: has_result_comment )
+(has_/range :: "[[../../../../Society/Communication/Media/Creative_Work/Comment|Comment]]" )
 
 ## Confidential Links & Embeds: 
 

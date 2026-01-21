@@ -43,7 +43,7 @@ Predicate describes that:
 (has_/name :: has_location_course )
 (has_/range :: Place )
 
-#is_/sub_property_of  :: location  
+#has_/parent_/property  :: location  
 
 ## Confidential Links & Embeds: 
 

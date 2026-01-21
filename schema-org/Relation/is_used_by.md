@@ -3,8 +3,9 @@ aliases:
   - prov:used
   - is_used_by
   - is used by
+dv_has_:
+  inverse: "#is_/using"
 dv_is_:
-  inverse_of: "#is_/using"
   same_as:
     - "[[/_Standards/schema-org/Relation/is_used_by|is_used_by]]"
     - "[[/_public/schema-org/Relation/is_used_by.public|is_used_by.public]]"

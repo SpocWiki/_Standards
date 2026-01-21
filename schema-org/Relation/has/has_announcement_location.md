@@ -41,7 +41,7 @@ Relation describes that:
 (has_/name :: has_announcement_location )
 (has_/range :: CivicStructure, LocalBusiness )
 
-#is_/sub_property_of  :: spatialCoverage  
+#has_/parent_/property  :: spatialCoverage  
 
 ## Confidential Links & Embeds: 
 

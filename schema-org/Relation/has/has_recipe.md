@@ -40,7 +40,7 @@ Relation describes that:
 (has_/name :: is_recipe )
 (has_/range :: Recipe )
 
-#is_/sub_property_of  :: instrument  
+#has_/parent_/property  :: instrument  
 
 ## Confidential Links & Embeds: 
 

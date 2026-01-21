@@ -44,7 +44,7 @@ Predicate describes that:
 (has_/name :: has_location_spatial_coverage )
 (has_/range :: Place )
 
-#is_/sub_property_of  :: contentLocation  
+#has_/parent_/property  :: contentLocation  
 
 #has_/sub_properties :: [ announcementLocation, legislationJurisdiction ]  
 

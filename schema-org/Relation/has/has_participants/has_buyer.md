@@ -42,7 +42,7 @@ Relation describes that:
 (has_/name :: has_buyer )
 (has_/range :: Organization, Person )
 
-#is_/sub_property_of  :: participant  
+#has_/parent_/property  :: participant  
 
 ## Confidential Links & Embeds: 
 

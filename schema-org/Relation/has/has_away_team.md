@@ -39,7 +39,7 @@ Relation describes that:
 (has_/name :: has_away_team )
 (has_/range :: Person, SportsTeam )
 
-#is_/sub_property_of  :: competitor  
+#has_/parent_/property  :: competitor  
 
 ## Confidential Links & Embeds: 
 

@@ -47,7 +47,7 @@ Relation describes that:
 (has_/name :: has_accepted_answer )
 (has_/range :: Answer, ItemList )
 
-#is_/sub_property_of  :: [[has_suggested_answer]]  
+#has_/parent_/property  :: [[has_suggested_answer]]  
 
 ## Confidential Links & Embeds: 
 

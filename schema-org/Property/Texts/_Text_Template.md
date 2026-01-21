@@ -51,7 +51,7 @@ Predicate describes that:
 
 #has_/inverse  :: {{inverseOf}}  
 
-#is_/sub_property_of  :: {{subPropertyOf}}  
+#has_/parent_/property  :: {{subPropertyOf}}  
 
 #has_/sub_properties :: [ {{subproperties}} ]  
 

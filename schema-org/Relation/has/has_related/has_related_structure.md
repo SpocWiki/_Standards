@@ -27,11 +27,11 @@ tags:
 title: has_related_structure
 type: Predi_Relation
 dv_has_:
-  related_structure: AnatomicalStructure
-  domain: AnatomicalSystem
-  name: is_related_structure
-  range: AnatomicalStructure
-dv_has_related_structure: AnatomicalStructure
+  related_structure: "[[../../../../bio/Medicine/Medical_Entity/Anatomical_System|Anatomical_System]]"
+  domain: "[[../../../../bio/Medicine/Medical_Entity/Anatomical_System|Anatomical_System]]"
+  name: has_related_structure
+  range: "[[../../../../bio/Medicine/Medical_Entity/Anatomical_System|Anatomical_System]]"
+dv_has_related_structure: "[[../../../../bio/Medicine/Medical_Entity/Anatomical_System|Anatomical_System]]"
 dv_is_:
   same_as:
     - "[[has_related_structure|has_related_structure]]"
@@ -41,9 +41,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_related_structure.private|has_related_structure.private]]"
     - "[[/_personal/schema-org/Relation/has/has_related_structure.personal|has_related_structure.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_related_structure.secret|has_related_structure.secret]]"
-dv_has_domain: AnatomicalSystem
-dv_has_name: is_related_structure
-dv_has_range: AnatomicalStructure
+dv_has_domain: "[[../../../../bio/Medicine/Medical_Entity/Anatomical_System|Anatomical_System]]"
+dv_has_name: has_related_structure
+dv_has_range: "[[../../../../bio/Medicine/Medical_Entity/Anatomical_System|Anatomical_System]]"
 dv_is_same_as:
   - "[[has_related_structure|has_related_structure]]"
   - "[[/_public/schema-org/Relation/has/has_related_structure.public|has_related_structure.public]]"
@@ -54,8 +54,10 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_related_structure.secret|has_related_structure.secret]]"
 ---
 
+# [[has_related_structure]] 
+
 Use it like this: 
-- #has_/related_structure = `=this.dv_has_related_structure`  
+- #has_/related_/structure = `=this.dv_has_related_structure`  
 - has_related_structure = `=this.dv_has_related_structure`  
 
 Related anatomical structure(s) that are not part of the system but relate or connect to it, such as vascular bundles associated with an organ system.
@@ -63,7 +65,6 @@ Related anatomical structure(s) that are not part of the system but relate or co
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

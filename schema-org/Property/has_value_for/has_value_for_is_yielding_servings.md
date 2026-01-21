@@ -42,7 +42,7 @@ Predicate describes that:
 (has_/name :: has_value_for_is_yielding_servings )
 (has_/range :: QuantitativeValue, Text )
 
-#is_/sub_property_of  :: yield  
+#has_/parent_/property  :: yield  
 
 ## Confidential Links & Embeds: 
 

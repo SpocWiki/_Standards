@@ -43,7 +43,7 @@ Predicated describes that:
 (has_/name :: has_text_of_query )
 (has_/range :: Text )
 
-#is_/sub_property_of  :: instrument  
+#has_/parent_/property  :: instrument  
 
 ## Confidential Links & Embeds: 
 

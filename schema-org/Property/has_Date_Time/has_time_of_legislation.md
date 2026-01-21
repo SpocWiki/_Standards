@@ -32,7 +32,7 @@ dv_has_:
 dv_is_part_of: "pending:"
 dv_domain: Legislation
 dv_range: Date
-dv_sub_property_of: dateCreated
+dv_has_parent_property: dateCreated
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_of_legislation|has_time_of_legislation]]"
@@ -69,7 +69,7 @@ domain = `=this.dv_domain`
 has_name = `=this.dv_has_name` 
 range = `=this.dv_range` 
 
-Is sub_property_of = `=this.dv_sub_property_of` 
+has_parent_property = `=this.dv_has_parent_property` 
 
 
 ## Confidential Links & Embeds: 

@@ -1,12 +1,12 @@
 ---
 dv_has_:
+  inverse: "[[has_own]]"
   owner: "[[has_agent|agent]]"
   domain: "[[../../Property|Property]]"
   name: "[[has_owner]]"
   range: "[[../../../Society/Agent|Agent]]"
 dv_has_owner: "[[has_agent|agent]]"
 dv_is_:
-  inverse_of: "[[has_own]]"
   same_as:
     - "[[has_owner|has_owner]]"
     - "[[/_public/schema-org/Relation/has/has_owner.public|has_owner.public]]"

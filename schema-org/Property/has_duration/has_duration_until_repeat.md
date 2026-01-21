@@ -34,7 +34,7 @@ dv_has_:
 dv_range:
   - "[[../../Predicate/Quantity/Duration|Duration]]"
   - "[[../../Class/is_a_/Data_Type/Text|Text]]"
-dv_sub_property_of: frequency
+dv_has_parent_property: frequency
 dv_is_:
   same_as:
     - "[[has_duration_until_repeat|has_duration_until_repeat]]"
@@ -75,7 +75,7 @@ Formal Predicate:
 domain = `=this.dv_domain` 
 has_name = `=this.dv_has_name` 
 range = `=this.dv_range` 
-Is sub_property_of = `=this.dv_sub_property_of` 
+has_parent_property = `=this.dv_has_parent_property` 
 
 
 ## Confidential Links & Embeds: 

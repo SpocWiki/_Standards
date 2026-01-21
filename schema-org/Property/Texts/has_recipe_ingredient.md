@@ -45,7 +45,7 @@ Predicated describes that:
 (has_/name :: has_text_of_recipe_ingredient )
 (has_/range :: Text )
 
-#is_/sub_property_of  :: supply  
+#has_/parent_/property  :: supply  
 
 ## Confidential Links & Embeds: 
 

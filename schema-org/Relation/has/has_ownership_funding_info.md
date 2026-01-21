@@ -44,7 +44,7 @@ Relation describes that:
 (has_/name :: has_ownership_funding_info )
 (has_/range :: AboutPage, CreativeWork, Text, URL )
 
-#is_/sub_property_of  :: publishingPrinciples  
+#has_/parent_/property  :: publishingPrinciples  
 
 ## Confidential Links & Embeds: 
 

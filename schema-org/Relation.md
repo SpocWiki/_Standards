@@ -78,12 +78,28 @@ A [Quantity](Quantity.md) connects a Scalar [[data_val]] to an Entity.
 [[Predicate]] unifies both. 
 [Property](Property.md) 
 
-Flags start with #is_/ or #is_not_/ 
-in contrast to Relations which start with #is_/ or #has_/ 
+Flags start with #is_/ or #is_/not_/ 
+in contrast to Relations which should preferably start with  #has_/.
 
 In RDF there is no distinction between these, except for the specified Range. 
 But since ValueTypes are fundamentally different from ReferenceTypes in Software, 
 it makes sense to also differentiate between [Property](Property.md) and [Relation](Relation.md). 
+
+(Binary) Relations should be maintained from both Sides, 
+which requires a name for the [[Relation/has_inverse|inverse]] Relation. 
+
+With symmetric Relations like [[Relation/has_inverse|has_inverse]] or [[Relation/has/has_sibling|has_sibling]] you can just re-use the same.  
+
+Most Relations are not symmetric though, 
+and sometimes they have explicit names e.g. 
+- [[Relation/has/has_parent|has_parent]]  and  [[Relation/has/has_children|has_children]] 
+but more often you can only revert the previous 
+`#has_/xyz` Relation into an `#is_/xyz_of` Relation, which is not very distinctive, 
+but frequently used, also in RDF, WikiData and schema.org. 
+
+With transitive verbs you can use the continuous and passive forms e.g. 
+#is_/using and #is_/used_by  . 
+
 
 # #has_/examples 
 

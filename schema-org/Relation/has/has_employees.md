@@ -28,13 +28,13 @@ tags:
 title: has_employee
 type: Predi_Relation
 dv_has_:
+  inverse: "[[has_employer]]"
   employees: "[[../../../Society/Agent/Person]]"
   domain: "[[../../../Society/Agent/Community/Organization]]"
   name: has_employees
   range: "[[../../../Society/Agent/Person]]"
 dv_has_employees: "[[../../../Society/Agent/Person]]"
 dv_is_:
-  inverse_of: "[[has_employer]]"
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_employees|has_employees]]"
     - "[[/_public/schema-org/Relation/has/has_employees.public|has_employees.public]]"

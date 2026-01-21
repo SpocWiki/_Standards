@@ -37,7 +37,7 @@ Relation describes that:
 (has_/name :: is_recipient )
 (has_/range :: Audience, ContactPoint, Organization, Person )
 
-#is_/sub_property_of  :: participant  
+#has_/parent_/property  :: participant  
 
 #has_/sub_properties :: [ bccRecipient, ccRecipient, toRecipient ]  
 

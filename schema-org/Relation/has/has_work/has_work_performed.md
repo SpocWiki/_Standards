@@ -41,7 +41,7 @@ Relation describes that:
 (has_/name :: is_work_performed )
 (has_/range :: CreativeWork )
 
-#is_/sub_property_of  :: workFeatured  
+#has_/parent_/property  :: workFeatured  
 
 ## Confidential Links & Embeds: 
 

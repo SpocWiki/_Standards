@@ -43,7 +43,7 @@ Relation describes that:
 (has_/name :: has_category_code )
 (has_/range :: CategoryCode )
 
-#is_/sub_property_of  :: hasDefinedTerm  
+#has_/parent_/property  :: hasDefinedTerm  
 
 ## Confidential Links & Embeds: 
 

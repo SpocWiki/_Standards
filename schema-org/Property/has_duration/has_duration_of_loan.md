@@ -45,7 +45,7 @@ Predicate describes that:
 (has_/name :: has_value_for_loan_term )
 (has_/range :: QuantitativeValue )
 
-#is_/sub_property_of  :: duration  
+#has_/parent_/property  :: duration  
 
 ## Confidential Links & Embeds: 
 

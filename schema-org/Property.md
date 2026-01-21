@@ -31,7 +31,7 @@ tags:
   - schema-org/Property
 title: is_a_property Class
 type: Property
-dv_is_sub_property_of: rdf:Property
+dv_has_parent_property: rdf:Property
 dv_has_range: "[[Class/is_a_/Data_Type]]"
 dv_has_domain: "[[Class/Thing]]"
 dv_is_:
@@ -70,7 +70,7 @@ This is the Type of all Properties that map a [[rdfs:Domain]] to an [[rdfs:Range
 
 #class/Property 
 
-- is_sub_property_of = `=this.dv_is_sub_property_of`  
+- has_parent_property = `=this.dv_has_parent_property`  
 
 ```turtle
 owl:ObjectProperty 

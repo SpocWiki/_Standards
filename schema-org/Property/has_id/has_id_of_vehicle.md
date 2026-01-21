@@ -43,7 +43,7 @@ Predicated describes that:
 (has_/name :: has_id_of_vehicle )
 (has_/range :: Text )
 
-#is_/sub_property_of  :: serialNumber  
+#has_/parent_/property  :: serialNumber  
 
 ## Confidential Links & Embeds: 
 

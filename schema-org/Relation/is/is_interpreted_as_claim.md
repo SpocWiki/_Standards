@@ -44,7 +44,7 @@ Relation describes that:
 (has_/name :: is_interpreted_as_claim )
 (has_/range :: Claim )
 
-#is_/sub_property_of  :: description  
+#has_/parent_/property  :: description  
 
 ## Confidential Links & Embeds: 
 

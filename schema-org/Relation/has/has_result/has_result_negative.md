@@ -4,15 +4,15 @@ aliases:
   - has_Cons
   - has Cons
   - has_result_negative
-  - "{ newTitle: }":
+  - inhibits
 dv_has_:
+  inverse: "[[has_result_positive]]"
   Cons: "[[../../../Collection]]"
   domain: "[[../../../Class|Class]]"
   name: "[[has_result_negative 1]]"
   range: "[[../../../Collection]]"
 dv_has_result_negative: "[[../../../Collection]]"
 dv_is_:
-  inverse_of: is_inhibiting
   same_as:
     - "[[has_result_negative 1|has_result_negative]]"
     - "[[/_public/schema-org/Relation/has/has_result_negative.public|has_result_negative.public]]"
@@ -24,7 +24,7 @@ dv_is_:
 dv_has_domain: "[[../../../Class|Class]]"
 dv_has_name: "[[has_result_negative 1]]"
 dv_has_range: "[[../../../Collection]]"
-dv_has_inverse: is_inhibiting
+dv_has_inverse: "[[has_result_positive]]"
 dv_is_same_as:
   - "[[has_result_negative 1|has_result_negative]]"
   - "[[/_public/schema-org/Relation/has/has_result_negative.public|has_result_negative.public]]"
@@ -64,14 +64,14 @@ title:
 type: private_note
 ---
 
-# [[has_result_negative]]
+# [[has_result_negative]] 
+
+has_inverse = `=this.dv_has_inverse` 
 
 Enumerates negative, inhibiting Reasons for this Statement. 
 Plural Form chosen to indicate the [[../../../Collection]]-Nature. 
 
-Use it like this: 
-- #has_/result_/negative = `=this.dv_has_result_negative` 
-- has_result_negative = `=this.dv_has_result_negative` 
+The Name is derived from the [[../../../../../Knowledge/Languages/Natural~Languages/Latin|Latin]] word 'contra'. 
 
 Therefore this partially(incomplete) inverse Relation is included in the non-standard more generic [[has_result_negative 1]] Relation. 
 
@@ -81,15 +81,8 @@ to be able to weigh a Decision in a [[../../../../../_protect/Society/Communicat
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
-
-has_inverse = `=this.dv_has_inverse` 
-
-The Name is derived from the [[../../../../../Knowledge/Languages/Natural~Languages/Latin|Latin]] word 
-'contra'. 
-
 
 ## Confidential Links & Embeds: 
 

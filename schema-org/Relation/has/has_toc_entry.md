@@ -27,6 +27,7 @@ tags:
 title: has_toc_entry
 type: Predi_Relation
 dv_has_:
+  parent_property: "[[../../Composite/has_parts]]"
   toc_entry: "[[../../../Society/Communication/Media/Creative_Work/Hyper_Toc_Entry|HyperTocEntry]]"
   domain: "[[../../../Society/Communication/Media/Creative_Work/Hyper_Toc|HyperToc]]"
   name: is_toc_entry
@@ -34,7 +35,6 @@ dv_has_:
 dv_has_toc_entry: "[[../../Class/is_a_/creative_work/hyper_toc_entry|HyperTocEntry]]"
 dv_is_:
   part_of: "pending:"
-  sub_property_of: "[[../../Composite/has_parts]]"
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_toc_entry|has_toc_entry]]"
     - "[[/_public/schema-org/Relation/has/has_toc_entry.public|has_toc_entry.public]]"
@@ -47,7 +47,7 @@ dv_is_part_of: "pending:"
 dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Hyper_Toc|HyperToc]]"
 dv_has_name: is_toc_entry
 dv_has_range: "[[../../../Society/Communication/Media/Creative_Work/Hyper_Toc_Entry|HyperTocEntry]]"
-dv_is_sub_property_of: "[[../../Composite/has_parts]]"
+dv_has_parent_property: "[[../../Composite/has_parts]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_toc_entry|has_toc_entry]]"
   - "[[/_public/schema-org/Relation/has/has_toc_entry.public|has_toc_entry.public]]"
@@ -73,7 +73,7 @@ has_domain = `=this.dv_has_domain`
 has_name = `=this.dv_has_name`  
 has_range = `=this.dv_has_range`  
 
-is_sub_property_of = `=this.dv_is_sub_property_of` 
+has_parent_property = `=this.dv_has_parent_property` 
 
 ## Confidential Links & Embeds: 
 

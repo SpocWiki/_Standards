@@ -24,13 +24,13 @@ tags:
 title: has_sub_properties
 type: Predi_Relation
 dv_has_:
+  inverse: "[[has_parent_property]]"
   sub_properties: "[[../Property]]"
   domain: "[[../Property]]"
   name: has_sub_properties
   range: "[[../Property]]"
 dv_has_sub_properties: "[[../Property]]"
 dv_is_:
-  inverse_of: "[[is_sub_property_of]]"
   same_as:
     - "[[/_Standards/schema-org/Property/has_sub_properties|has_sub_properties]]"
     - "[[/_public/schema-org/Property/has_sub_properties.public|has_sub_properties.public]]"
@@ -42,7 +42,7 @@ dv_is_:
 dv_has_domain: "[[../Property]]"
 dv_has_name: has_sub_properties
 dv_has_range: "[[../Property]]"
-dv_has_inverse: "[[is_sub_property_of]]"
+dv_has_inverse: "[[has_parent_property]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_sub_properties|has_sub_properties]]"
   - "[[/_public/schema-org/Property/has_sub_properties.public|has_sub_properties.public]]"

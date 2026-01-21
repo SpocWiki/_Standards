@@ -37,7 +37,7 @@ Relation describes that:
 (has_/name :: is_question )
 (has_/range :: Question )
 
-#is_/sub_property_of  :: object  
+#has_/parent_/property  :: object  
 
 ## Confidential Links & Embeds: 
 

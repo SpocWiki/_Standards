@@ -40,7 +40,7 @@ Relation describes that:
 (has_/name :: has_logo )
 (has_/range :: ImageObject, URL )
 
-#is_/sub_property_of  :: image  
+#has_/parent_/property  :: image  
 
 ## Confidential Links & Embeds: 
 

@@ -42,7 +42,7 @@ Relation describes that:
 (has_/name :: is_real_estate_agent )
 (has_/range :: RealEstateAgent )
 
-#is_/sub_property_of  :: participant  
+#has_/parent_/property  :: participant  
 
 ## Confidential Links & Embeds: 
 

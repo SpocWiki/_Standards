@@ -42,7 +42,7 @@ Predicate describes that:
 (has_/name :: has_location_available_at_or_from )
 (has_/range :: Place )
 
-#is_/sub_property_of  :: areaServed  
+#has_/parent_/property  :: areaServed  
 
 ## Confidential Links & Embeds: 
 

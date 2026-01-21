@@ -47,7 +47,7 @@ Predicate describes that:
 (has_/name :: has_url_for_additional_type )
 (has_/range :: URL )
 
-#is_/sub_property_of  :: [ [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) ]
+#has_/parent_/property  :: [ [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) ]
 
 [is_instance_of](../../Class/is_instance_of.md) 
 

@@ -47,7 +47,7 @@ Relation describes that:
 (has_/name :: is_legislation_transpose_of )
 (has_/range :: Legislation )
 
-#is_/sub_property_of  :: legislationApplies  
+#has_/parent_/property  :: legislationApplies  
 
 ## Confidential Links & Embeds: 
 

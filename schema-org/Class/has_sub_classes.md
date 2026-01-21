@@ -28,13 +28,13 @@ tags:
 title: has_sub_classes
 type: Predi_Relation
 dv_has_:
+  inverse: "[[is_sub_class_of]]"
   sub_classes: "[[../Class]]"
   domain: "[[../Class]]"
 dv_has_sub_classes: "[[../Class]]"
 dv_is_:
   better_than: "[[../Relation/is_similar_to|is_similar_to]]"
   similar_to: "[[../../../Knowledge/Engineer/Engineer~Generalization|Engineer~Generalization]]"
-  inverse_of: "[[is_sub_class_of]]"
   same_as:
     - "[[/_Standards/schema-org/Class/has_sub_classes|has_sub_classes]]"
     - "[[/_public/schema-org/Class/has_sub_classes.public|has_sub_classes.public]]"

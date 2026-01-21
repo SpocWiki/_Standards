@@ -23,15 +23,14 @@ tags:
   - schema-org/Relation
 title: has_sub_sets
 type: Predi_Relation
+dv_has_sub_sets: "[[../Collection]]"
 dv_has_:
   sub_sets: "[[../Collection]]"
   domain: "[[../Collection]]"
-dv_has_sub_sets: "[[../Collection]]"
-dv_#has_:
+  inverse: "[[is_sub_set_of]]"
   name: has_sub_sets
   range: "[[../Collection]]"
 dv_is_:
-  inverse_of: "[[is_sub_set_of]]"
   same_as:
     - "[[/_Standards/schema-org/Collection/has_sub_sets|has_sub_sets]]"
     - "[[/_public/schema-org/Collection/has_sub_sets.public|has_sub_sets.public]]"

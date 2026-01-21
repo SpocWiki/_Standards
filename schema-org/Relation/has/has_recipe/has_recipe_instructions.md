@@ -41,7 +41,7 @@ Relation describes that:
 (has_/name :: is_recipe_instructions )
 (has_/range :: CreativeWork, ItemList, Text )
 
-#is_/sub_property_of  :: step  
+#has_/parent_/property  :: step  
 
 ## Confidential Links & Embeds: 
 

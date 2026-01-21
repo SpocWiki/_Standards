@@ -37,7 +37,7 @@ Relation describes that:
 (has_/name :: has_candidate )
 (has_/range :: Person )
 
-#is_/sub_property_of  :: object  
+#has_/parent_/property  :: object  
 
 ## Confidential Links & Embeds: 
 

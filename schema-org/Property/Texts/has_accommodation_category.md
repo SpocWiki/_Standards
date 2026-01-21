@@ -46,7 +46,7 @@ Predicated describes that:
 (has_/name :: has_text_of_accommodation_category )
 (has_/range :: Text )
 
-#is_/sub_property_of  :: category  
+#has_/parent_/property  :: category  
 
 ## Confidential Links & Embeds: 
 

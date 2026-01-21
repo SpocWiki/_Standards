@@ -45,7 +45,7 @@ Relation describes that:
 (has_/name :: is_verification_fact_checking_policy )
 (has_/range :: CreativeWork, URL )
 
-#is_/sub_property_of  :: publishingPrinciples  
+#has_/parent_/property  :: publishingPrinciples  
 
 ## Confidential Links & Embeds: 
 

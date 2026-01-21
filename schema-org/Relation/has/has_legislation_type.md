@@ -43,7 +43,7 @@ Relation describes that:
 (has_/name :: has_legislation_type )
 (has_/range :: CategoryCode, Text )
 
-#is_/sub_property_of  :: genre  
+#has_/parent_/property  :: genre  
 
 ## Confidential Links & Embeds: 
 

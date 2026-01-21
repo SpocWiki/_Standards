@@ -38,7 +38,7 @@ Relation describes that:
 (has_/name :: is_photo )
 (has_/range :: ImageObject, Photograph )
 
-#is_/sub_property_of  :: image  
+#has_/parent_/property  :: image  
 
 ## Confidential Links & Embeds: 
 

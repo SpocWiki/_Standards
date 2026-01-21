@@ -39,7 +39,7 @@ Relation describes that:
 (has_/name :: has_bcc_recipient )
 (has_/range :: ContactPoint, Organization, Person )
 
-#is_/sub_property_of  :: recipient  
+#has_/parent_/property  :: recipient  
 
 ## Confidential Links & Embeds: 
 

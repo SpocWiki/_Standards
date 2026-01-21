@@ -42,7 +42,7 @@ Predicated describes that:
 (has_/name :: has_text_of_duns )
 (has_/range :: [[../../Class/is_a_/Data_Type/Text]] )
 
-#is_/sub_property_of  :: [[../../Relation/has/has_identifier]]   
+#has_/parent_/property  :: [[../../Relation/has/has_identifier]]   
 
 ## Confidential Links & Embeds: 
 

@@ -88,17 +88,17 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/has_parent_property|has_parent_property]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_parent_property|has_parent_property]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has_parent_property.public|has_parent_property.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_parent_property.public|has_parent_property.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has_parent_property.internal|has_parent_property.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_parent_property.internal|has_parent_property.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has_parent_property.protect|has_parent_property.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_parent_property.protect|has_parent_property.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has_parent_property.private|has_parent_property.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_parent_property.private|has_parent_property.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has_parent_property.personal|has_parent_property.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_parent_property.personal|has_parent_property.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has_parent_property.secret|has_parent_property.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_parent_property.secret|has_parent_property.secret]] 
 

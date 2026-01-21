@@ -42,7 +42,7 @@ Relation describes that:
 (has_/name :: has_diversity_staffing_report )
 (has_/range :: Article, URL )
 
-#is_/sub_property_of  :: publishingPrinciples  
+#has_/parent_/property  :: publishingPrinciples  
 
 ## Confidential Links & Embeds: 
 

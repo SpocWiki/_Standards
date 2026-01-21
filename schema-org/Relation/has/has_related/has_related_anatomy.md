@@ -27,11 +27,11 @@ tags:
 title: has_related_anatomy
 type: Predi_Relation
 dv_has_:
-  related_anatomy: AnatomicalStructure, AnatomicalSystem
-  domain: SuperficialAnatomy
-  name: is_related_anatomy
-  range: AnatomicalStructure, AnatomicalSystem
-dv_has_related_anatomy: AnatomicalStructure, AnatomicalSystem
+  related_anatomy: ["[[../../../../bio/Medicine/Anatomy/Anatomical_Structure|Anatomical_Structure]]", "[[../../../../bio/Medicine/Medical_Entity/Anatomical_System|Anatomical_System]]"]
+  domain: "[[../../../../bio/Medicine/Medical_Entity/Superficial_Anatomy|Superficial_Anatomy]]"
+  name: has_related_anatomy
+  range: ["[[../../../../bio/Medicine/Anatomy/Anatomical_Structure|Anatomical_Structure]]", "[[../../../../bio/Medicine/Medical_Entity/Anatomical_System|Anatomical_System]]"]
+dv_has_related_anatomy: ["[[../../../../bio/Medicine/Anatomy/Anatomical_Structure|Anatomical_Structure]]", "[[../../../../bio/Medicine/Medical_Entity/Anatomical_System|Anatomical_System]]"]
 dv_is_:
   same_as:
     - "[[has_related_anatomy|has_related_anatomy]]"
@@ -41,9 +41,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_related_anatomy.private|has_related_anatomy.private]]"
     - "[[/_personal/schema-org/Relation/has/has_related_anatomy.personal|has_related_anatomy.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_related_anatomy.secret|has_related_anatomy.secret]]"
-dv_has_domain: SuperficialAnatomy
-dv_has_name: is_related_anatomy
-dv_has_range: AnatomicalStructure, AnatomicalSystem
+dv_has_domain: "[[../../../../bio/Medicine/Medical_Entity/Superficial_Anatomy|Superficial_Anatomy]]"
+dv_has_name: has_related_anatomy
+dv_has_range: ["[[../../../../bio/Medicine/Anatomy/Anatomical_Structure|Anatomical_Structure]]", "[[../../../../bio/Medicine/Medical_Entity/Anatomical_System|Anatomical_System]]"]
 dv_is_same_as:
   - "[[has_related_anatomy|has_related_anatomy]]"
   - "[[/_public/schema-org/Relation/has/has_related_anatomy.public|has_related_anatomy.public]]"
@@ -54,8 +54,10 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_related_anatomy.secret|has_related_anatomy.secret]]"
 ---
 
+# [[has_related_anatomy]] 
+
 Use it like this: 
-- #has_/related_anatomy = `=this.dv_has_related_anatomy`  
+- #has_/related_/anatomy = `=this.dv_has_related_anatomy`  
 - has_related_anatomy = `=this.dv_has_related_anatomy`  
 
 Anatomical systems or structures that relate to the superficial anatomy.
@@ -63,7 +65,6 @@ Anatomical systems or structures that relate to the superficial anatomy.
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

@@ -1,5 +1,6 @@
 ---
 dv_has_:
+  inverse: "[[../../Class/is_instance_of]]"
   examples: "[[../../Collection]]"
   domain: "[[../../Class|Class]]"
   sub_properties: "[ [[has_work_example]] ]"
@@ -7,7 +8,6 @@ dv_has_:
   range: "[[../../Collection]]"
 dv_has_examples: "[[../../Collection]]"
 dv_is_:
-  inverse_of: "[[../../Class/is_instance_of]]"
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_examples|has_examples]]"
     - "[[/_public/schema-org/Relation/has/has_examples.public|has_examples.public]]"

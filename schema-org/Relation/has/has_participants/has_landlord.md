@@ -37,7 +37,7 @@ Relation describes that:
 (has_/name :: has_landlord )
 (has_/range :: Organization, Person )
 
-#is_/sub_property_of  :: participant  
+#has_/parent_/property  :: participant  
 
 ## Confidential Links & Embeds: 
 

@@ -41,7 +41,7 @@ Relation describes that:
 (has_/name :: has_acquire_license_page )
 (has_/range :: CreativeWork, URL )
 
-#is_/sub_property_of  :: usageInfo  
+#has_/parent_/property  :: usageInfo  
 
 ## Confidential Links & Embeds: 
 

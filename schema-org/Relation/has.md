@@ -24,6 +24,8 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has.secret|has.secret]]"
 ---
 
+# [[has]] 
+
 The Prefix `has_` makes Predicates much more readable. 
 For the same Relation, sometimes both a Relation and a Property are available, 
 when the Subject is a Scalar: 
@@ -38,6 +40,8 @@ You can use it like this when the Lyrics need to be referenced from multiple pla
 
 or, when giving the text directly: 
 - has_text_of_lyrics = `=this.dv_has_text_of_lyrics`  
+
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Relation/has|has]] 

@@ -42,7 +42,7 @@ Relation describes that:
 (has_/name :: is_sports_activity_location )
 (has_/range :: SportsActivityLocation )
 
-#is_/sub_property_of  :: location  
+#has_/parent_/property  :: location  
 
 ## Confidential Links & Embeds: 
 

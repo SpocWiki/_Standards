@@ -41,7 +41,7 @@ Relation describes that:
 (has_/name :: has_exercise_plan )
 (has_/range :: ExercisePlan )
 
-#is_/sub_property_of  :: instrument  
+#has_/parent_/property  :: instrument  
 
 ## Confidential Links & Embeds: 
 

@@ -46,7 +46,7 @@ Predicated describes that:
 (has_/name :: has_code_value )
 (has_/range :: Text )
 
-#is_/sub_property_of  :: termCode  
+#has_/parent_/property  :: termCode  
 
 ## Confidential Links & Embeds: 
 

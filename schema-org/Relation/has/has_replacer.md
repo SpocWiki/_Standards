@@ -37,7 +37,7 @@ Relation describes that:
 (has_/name :: is_replacer )
 (has_/range :: Thing )
 
-#is_/sub_property_of  :: object  
+#has_/parent_/property  :: object  
 
 ## Confidential Links & Embeds: 
 

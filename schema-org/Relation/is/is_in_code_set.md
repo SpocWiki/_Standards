@@ -44,7 +44,7 @@ Relation describes that:
 (has_/name :: is_in_code_set )
 (has_/range :: CategoryCodeSet, URL )
 
-#is_/sub_property_of  :: inDefinedTermSet  
+#has_/parent_/property  :: inDefinedTermSet  
 
 ## Confidential Links & Embeds: 
 

@@ -32,7 +32,7 @@ type: Predi_Relation
 # [[is_read_by]] 
 
 #is_/part_of :: https://bib.schema.org  
-#is_/sub_property_of  :: [[has_actor]]  
+#has_/parent_/property  :: [[has_actor]]  
 
 A person who reads (performs) the audiobook.
 

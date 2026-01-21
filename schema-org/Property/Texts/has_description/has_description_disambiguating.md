@@ -31,7 +31,7 @@ type: Pred_Text
 
 # [[has_description_disambiguating]] 
 
-#is_/sub_property_of  :: description  
+#has_/parent_/property  :: description  
 
 Predicate to describe the Text of Thing.
 

@@ -44,7 +44,7 @@ Relation describes that:
 (has_/name :: has_first_appearance_in )
 (has_/range :: CreativeWork )
 
-#is_/sub_property_of  :: workExample  
+#has_/parent_/property  :: workExample  
 
 ## Confidential Links & Embeds: 
 

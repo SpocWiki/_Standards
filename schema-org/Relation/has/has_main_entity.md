@@ -43,7 +43,7 @@ Relation describes that:
 
 #has_/inverse  :: [[../is/is_main_entity_of_page]]  
 
-#is_/sub_property_of  :: about  
+#has_/parent_/property  :: about  
 
 ## Confidential Links & Embeds: 
 

@@ -29,13 +29,13 @@ tags:
 title: has_contained_season
 type: Predi_Relation
 dv_has_:
+  parent_property: "[[../../Composite/has_parts]]"
   contained_season: "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Season|CreativeWorkSeason]]"
   domain: "[ [[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Radio_Series|RadioSeries]], [[../../../Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series|TVSeries]], [[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Video_Game_Series|VideoGameSeries]] ]"
   name: has_contained_season
   range: "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Season|CreativeWorkSeason]]"
 dv_has_contained_season: "[[../../Class/is_a_/creative_work/creative_work_season|CreativeWorkSeason]]"
 dv_is_:
-  sub_property_of: "[[../../Composite/has_parts]]"
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_contained_season|has_contained_season]]"
     - "[[/_public/schema-org/Relation/has/has_contained_season.public|has_contained_season.public]]"
@@ -47,7 +47,7 @@ dv_is_:
 dv_has_domain: "[ [[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Radio_Series|RadioSeries]], [[../../../Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series|TVSeries]], [[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Video_Game_Series|VideoGameSeries]] ]"
 dv_has_name: has_contained_season
 dv_has_range: "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Season|CreativeWorkSeason]]"
-dv_is_sub_property_of: "[[../../Composite/has_parts]]"
+dv_has_parent_property: "[[../../Composite/has_parts]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_contained_season|has_contained_season]]"
   - "[[/_public/schema-org/Relation/has/has_contained_season.public|has_contained_season.public]]"
@@ -71,7 +71,7 @@ has_domain = `=this.dv_has_domain`
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 
-is_sub_property_of = `=this.dv_is_sub_property_of` 
+has_parent_property = `=this.dv_has_parent_property` 
 
 ## Confidential Links & Embeds: 
 

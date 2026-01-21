@@ -32,7 +32,6 @@ type: Predi_Relation
 dv_is_:
   part_of_:
     series: "[[../../../../Society/Communication/Media/Creative_Work/Creative_Work_Series|CreativeWorkSeries]]"
-  sub_property_of: "[[../../../Composite/is_part_of]]"
   same_as:
     - "[[/_Standards/schema-org/Relation/is/part_of/is_part_of_series|is_part_of_series]]"
     - "[[/_public/schema-org/Relation/is/part_of/is_part_of_series.public|is_part_of_series.public]]"
@@ -43,13 +42,14 @@ dv_is_:
     - "[[/_secret/schema-org/Relation/is/part_of/is_part_of_series.secret|is_part_of_series.secret]]"
 dv_is_part_of_series: "[[../../../Class/is_a_/creative_work/creative_work_series|CreativeWorkSeries]]"
 dv_has_:
+  parent_property: "[[../../../Composite/is_part_of]]"
   domain: "[ [[../../../../Society/Communication/Media/Creative_Work/Clip|Clip]], [[../../../../Society/Communication/Media/Creative_Work/Creative_Work_Season|CreativeWorkSeason]], [[../../../../Society/Communication/Media/Creative_Work/Episode|Episode]] ]"
   name: is_part_of_series
   range: "[[../../../../Society/Communication/Media/Creative_Work/Creative_Work_Series|CreativeWorkSeries]]"
 dv_has_domain: "[ [[../../../../Society/Communication/Media/Creative_Work/Clip|Clip]], [[../../../../Society/Communication/Media/Creative_Work/Creative_Work_Season|CreativeWorkSeason]], [[../../../../Society/Communication/Media/Creative_Work/Episode|Episode]] ]"
 dv_has_name: is_part_of_series
 dv_has_range: "[[../../../../Society/Communication/Media/Creative_Work/Creative_Work_Series|CreativeWorkSeries]]"
-dv_is_sub_property_of: "[[../../../Composite/is_part_of]]"
+dv_has_parent_property: "[[../../../Composite/is_part_of]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/is/part_of/is_part_of_series|is_part_of_series]]"
   - "[[/_public/schema-org/Relation/is/part_of/is_part_of_series.public|is_part_of_series.public]]"
@@ -73,7 +73,7 @@ has_domain = `=this.dv_has_domain`
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 
-is_sub_property_of = `=this.dv_is_sub_property_of` 
+has_parent_property = `=this.dv_has_parent_property` 
 
 ## Confidential Links & Embeds: 
 

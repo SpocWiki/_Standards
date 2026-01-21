@@ -46,7 +46,7 @@ Predicate describes that:
 (has_/name :: has_location_eligible_region )
 (has_/range :: GeoShape, Place, Text )
 
-#is_/sub_property_of  :: areaServed  
+#has_/parent_/property  :: areaServed  
 
 ## Confidential Links & Embeds: 
 

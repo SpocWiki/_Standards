@@ -42,7 +42,7 @@ Relation describes that:
 (has_/name :: is_legislation_jurisdiction_of ) 
 (has_/range :: "[[../../../Earth/Geography/Place/Administrative_Area|Administrative_Area]]", "[[../../Class/is_a_/Data_Type/Text|Text]]" ) 
 
-#is_/sub_property_of  :: [[is_jurisdiction_of]], spatialCoverage  
+#has_/parent_/property  :: [[is_jurisdiction_of]], spatialCoverage  
 
 ## Confidential Links & Embeds: 
 

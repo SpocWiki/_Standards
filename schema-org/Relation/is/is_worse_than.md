@@ -1,6 +1,7 @@
 ---
+dv_has_:
+  inverse: "[[is_better_than]]"
 dv_is_:
-  inverse_of: "[[is_better_than]]"
   worse_than: "[[../../Property/has_value_for/has_value_for_rating|has_value_for_rating]]"
   same_as:
     - "[[/_Standards/schema-org/Relation/is/is_worse_than|is_worse_than]]"

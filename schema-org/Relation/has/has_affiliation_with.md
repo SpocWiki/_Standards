@@ -43,7 +43,7 @@ Relation describes that:
 (has_/name :: is_affiliated_with )
 (has_/range :: Organization )
 
-#is_/sub_property_of  :: memberOf  
+#has_/parent_/property  :: memberOf  
 
 ## Confidential Links & Embeds: 
 

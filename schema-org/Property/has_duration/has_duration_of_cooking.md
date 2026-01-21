@@ -31,7 +31,7 @@ dv_has_:
     of_cooking: P#Y#M#W#DT#H#M#s.fff
 dv_domain: Recipe
 dv_range: Duration
-dv_sub_property_of: performTime
+dv_has_parent_property: performTime
 dv_is_:
   same_as:
     - "[[has_duration_of_cooking|has_duration_of_cooking]]"
@@ -65,7 +65,7 @@ domain = `=this.dv_domain`
 has_name = `=this.dv_has_name` 
 range = `=this.dv_range` 
 
-Is sub_property_of = `=this.dv_sub_property_of` 
+has_parent_property = `=this.dv_has_parent_property` 
 
 
 ## Confidential Links & Embeds: 

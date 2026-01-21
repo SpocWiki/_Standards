@@ -65,7 +65,7 @@ Predicated describes that:
 (has_/name :: has_text_of_gtin )
 (has_/range :: Text, URL )
 
-#is_/sub_property_of  :: [[../../Relation/has/has_identifier]]   
+#has_/parent_/property  :: [[../../Relation/has/has_identifier]]   
 
 #has_/sub_properties :: [ gtin12, gtin13, gtin14, gtin8 ]  
 

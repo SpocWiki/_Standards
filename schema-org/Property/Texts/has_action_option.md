@@ -32,7 +32,7 @@ type: Pred_Text
 
 # [[has_action_option]] 
 
-#is_/sub_property_of  :: [[../../Relation/has/has_object|has_object]]  
+#has_/parent_/property  :: [[../../Relation/has/has_object|has_object]]  
 
 Predicate to describe the Text of "[[../../Class/is_a_/Action/Assess_Action/Choose_Action|Choose_Action]]".
 

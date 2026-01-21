@@ -49,7 +49,7 @@ Predicated describes that:
 (has_/name :: has_text_of_asin )
 (has_/range :: Text, URL )
 
-#is_/sub_property_of  :: [[../../Relation/has/has_identifier]]   
+#has_/parent_/property  :: [[../../Relation/has/has_identifier]]   
 
 ## Confidential Links & Embeds: 
 

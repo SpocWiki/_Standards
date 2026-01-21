@@ -47,7 +47,7 @@ Predicated describes that:
 (has_/name :: has_text_of_embedded_text_caption )
 (has_/range :: Text )
 
-#is_/sub_property_of  :: caption  
+#has_/parent_/property  :: caption  
 
 ## Confidential Links & Embeds: 
 

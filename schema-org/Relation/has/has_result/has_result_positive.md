@@ -5,7 +5,9 @@ aliases:
   - has Pros
   - has_result_positive
   - has positive result
+  - facilitates
 dv_has_:
+  inverse: "[[has_result_negative]]"
   Pros: "[[../../../Collection]]"
   domain: "[[../../../Class|Class]]"
   complement: "[[has_result/has_result_negative]]"
@@ -13,7 +15,6 @@ dv_has_:
   range: "[[../../../Collection]]"
 dv_has_result_positive: "[[../../../Collection]]"
 dv_is_:
-  inverse_of: is_facilitating
   same_as:
     - "[[has_result_positive|has_result_positive]]"
     - "[[/_public/schema-org/Relation/has/has_result_positive.public|has_result_positive.public]]"
@@ -25,7 +26,7 @@ dv_is_:
 dv_has_domain: "[[../../../Class|Class]]"
 dv_has_name: "[[has_result_positive]]"
 dv_has_range: "[[../../../Collection]]"
-dv_has_inverse: is_facilitating
+dv_has_inverse: "[[has_result_negative]]"
 dv_has_complement: "[[has_result/has_result_negative]]"
 dv_is_same_as:
   - "[[has_result_positive|has_result_positive]]"

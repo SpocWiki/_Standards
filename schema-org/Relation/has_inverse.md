@@ -6,6 +6,7 @@ aliases:
   - has_inverse
   - is_converse_of
   - has inverse
+  - inverse
   - is inverse of
 confidential: public
 cssclasses:

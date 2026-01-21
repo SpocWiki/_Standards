@@ -42,7 +42,7 @@ Relation describes that:
 (has_/name :: has_exercise_related_diet )
 (has_/range :: Diet )
 
-#is_/sub_property_of  :: instrument  
+#has_/parent_/property  :: instrument  
 
 ## Confidential Links & Embeds: 
 

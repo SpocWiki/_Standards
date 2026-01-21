@@ -46,7 +46,7 @@ Predicated describes that:
 (has_/name :: has_text_of_sha256 )
 (has_/range :: Text )
 
-#is_/sub_property_of  :: description  
+#has_/parent_/property  :: description  
 
 The SHA256 Algorithm is part of the SHA-2 Family and still considered safe in 2024. 
 But a 3rd Family SHA-3 was defined in 2012. 

@@ -37,7 +37,7 @@ Relation describes that:
 (has_/name :: is_supply )
 (has_/range :: HowToSupply, Text )
 
-#is_/sub_property_of  :: instrument  
+#has_/parent_/property  :: instrument  
 
 #has_/sub_properties :: [ ingredients, recipeIngredient ]  
 

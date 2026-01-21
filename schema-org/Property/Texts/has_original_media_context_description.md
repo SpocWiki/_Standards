@@ -48,7 +48,7 @@ Predicated describes that:
 (has_/name :: has_text_of_original_media_context_description )
 (has_/range :: Text )
 
-#is_/sub_property_of  :: description  
+#has_/parent_/property  :: description  
 
 ## Confidential Links & Embeds: 
 

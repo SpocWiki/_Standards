@@ -44,7 +44,7 @@ Relation describes that:
 (has_/name :: is_in_defined_term_set )
 (has_/range :: "[[../../../Society/Communication/Media/Creative_Work/Defined_Term_Set|Defined_Term_Set]]", "[[../../Class/is_a_/Data_Type/Text/Url]]" )
 
-#is_/sub_property_of  :: [[../../Composite/is_part_of|is_part_of]] 
+#has_/parent_/property  :: [[../../Composite/is_part_of|is_part_of]] 
 
 #has_/sub_properties :: [[is_in_code_set]] 
 

@@ -41,7 +41,7 @@ Relation describes that:
 (has_/name :: has_food_establishment )
 (has_/range :: FoodEstablishment, Place )
 
-#is_/sub_property_of  :: location  
+#has_/parent_/property  :: location  
 
 ## Confidential Links & Embeds: 
 

@@ -1,12 +1,12 @@
 ---
 dv_has_:
+  inverse: "[[has_employees]]"
   employer: "[[../../../Society/Agent/Community/Organization]]"
   domain: "[[../../../Society/Agent/Person]]"
   name: has_employer
   range: "[[../../../Society/Agent/Community/Organization]]"
 dv_has_employer: "[[../../Class/is_a_/Organization]]"
 dv_is_:
-  inverse_of: "[[has_employees]]"
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_employer|has_employer]]"
     - "[[/_public/schema-org/Relation/has/has_employer.public|has_employer.public]]"
