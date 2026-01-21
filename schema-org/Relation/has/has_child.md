@@ -1,6 +1,6 @@
 ---
 aliases:
-  - has_children
+  - has_child
   - has_child
   - schema:child
   - dbo:child
@@ -19,45 +19,45 @@ keywords:
   - children
 layout: ""
 license: CC BY-SA 4.0
-linkTitle: has_children
+linkTitle: has_child
 publish: true
 publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
-title: has_children
+title: has_child
 type: Predi_Relation
 dv_has_:
   children: "[[../../../Society/Agent/Person]]"
   domain: "[[../../../Society/Agent/Person]]"
-  name: has_children
+  name: has_child
   range: "[[../../../Society/Agent/Person]]"
-dv_has_children: "[[../../../Society/Agent/Person]]"
+dv_has_child: "[[../../../Society/Agent/Person]]"
 dv_is_:
   same_as:
     - "[[has_child|has_child]]"
-    - "[[/_public/schema-org/Relation/has/has_children.public|has_children.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_children.internal|has_children.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_children.protect|has_children.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_children.private|has_children.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_children.personal|has_children.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_children.secret|has_children.secret]]"
+    - "[[/_public/schema-org/Relation/has/has_child.public|has_child.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_child.internal|has_child.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_child.protect|has_child.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_child.private|has_child.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_child.personal|has_child.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_child.secret|has_child.secret]]"
 dv_has_domain: "[[../../../Society/Agent/Person]]"
-dv_has_name: has_children
+dv_has_name: has_child
 dv_has_range: "[[../../../Society/Agent/Person]]"
 dv_is_same_as:
   - "[[has_child|has_child]]"
-  - "[[/_public/schema-org/Relation/has/has_children.public|has_children.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_children.internal|has_children.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_children.protect|has_children.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_children.private|has_children.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_children.personal|has_children.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_children.secret|has_children.secret]]"
+  - "[[/_public/schema-org/Relation/has/has_child.public|has_child.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_child.internal|has_child.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_child.protect|has_child.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_child.private|has_child.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_child.personal|has_child.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_child.secret|has_child.secret]]"
 ---
 
 Use it like this: 
-- #has_/children = `=this.dv_has_children`  
-- has_children = `=this.dv_has_children`  
+- #has_/child = `=this.dv_has_child`  
+- has_child = `=this.dv_has_child`  
 
 The children of the person.
 
@@ -72,15 +72,15 @@ has_range = `=this.dv_has_range`
 
 ### #is_/same_as :: [[has_child|has_child]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_children.public|has_children.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_child.public|has_child.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_children.internal|has_children.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_child.internal|has_child.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_children.protect|has_children.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_child.protect|has_child.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_children.private|has_children.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_child.private|has_child.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_children.personal|has_children.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_child.personal|has_child.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_children.secret|has_children.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_child.secret|has_child.secret]] 
 

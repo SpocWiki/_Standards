@@ -412,7 +412,7 @@ There are ca. 13e3 Properties defined; these are the 100 [most frequent Properti
 | father                                           | #has_/parent                      | P22   | WikibaseItem    | sem |   30 |
 | mother                                           | #has_/parent                      | P25   | WikibaseItem    | sem |   29 |
 | spouse                                           | #has_/spouse                      | P26   | WikibaseItem    | sem |   28 |
-| child                                            | #has_/children                    | P40   | WikibaseItem    | sem |   27 |
+| child                                            | #has_/child                    | P40   | WikibaseItem    | sem |   27 |
 | educated at (duplicate frequency)                |                                   | P69   | WikibaseItem    | sem |   26 |
 | sibling                                          | #has_/sibling                     | P3373 | WikibaseItem    | sem |   25 |
 | member of political party                        |                                   | P102  | WikibaseItem    | sem |   24 |

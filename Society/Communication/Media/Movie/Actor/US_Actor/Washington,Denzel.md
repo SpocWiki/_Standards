@@ -9,7 +9,7 @@ aliases:
 # [[Washington,Denzel]] 
 
 #has_/time_/started :: 1954-12-28 
-#has_/children ::  [[Washington,John_David]] 
+#has_/child ::  [[Washington,John_David]] 
 
 ## #has_/text_of_/abstract 
 

@@ -70,7 +70,7 @@ date_of_birth: 1903-02-28T00:00:00Z
 # [[Minnelli,Vincente]] 
 
 #is_/parent_of :: [[../Actor/US_Actor/Minnelli,Liza|Liza_Minnelli]] 
-#has_/children_ :: [[../Actor/US_Actor/Minnelli,Liza|Liza_Minnelli]] 
+#has_/child :: [[../Actor/US_Actor/Minnelli,Liza|Liza_Minnelli]] 
 #has_/time_/started :: 1903-02-28 
 #has_/time_/stopped :: 1986-07-25 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
