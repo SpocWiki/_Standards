@@ -70,7 +70,7 @@ has_properties = `=this.dv_has_properties`
 [[has_properties]] 
 [[is_property_of]] 
 [[has_sub_properties]] 
-[[../Relation/has_parent_property]] 
+[[../Property/has_parent_property]] 
 
 
 ## Confidential Links & Embeds: 
