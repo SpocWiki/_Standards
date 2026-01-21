@@ -34,7 +34,7 @@ dv_has_:
 dv_has_sub_test: MedicalTest
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_sub_test|has_sub_test]]"
+    - "[[has_sub_test|has_sub_test]]"
     - "[[/_public/schema-org/Relation/has/has_sub_test.public|has_sub_test.public]]"
     - "[[/_internal/schema-org/Relation/has/has_sub_test.internal|has_sub_test.internal]]"
     - "[[/_protect/schema-org/Relation/has/has_sub_test.protect|has_sub_test.protect]]"
@@ -45,7 +45,7 @@ dv_has_domain: MedicalTestPanel
 dv_has_name: is_sub_test
 dv_has_range: MedicalTest
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_sub_test|has_sub_test]]"
+  - "[[has_sub_test|has_sub_test]]"
   - "[[/_public/schema-org/Relation/has/has_sub_test.public|has_sub_test.public]]"
   - "[[/_internal/schema-org/Relation/has/has_sub_test.internal|has_sub_test.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_sub_test.protect|has_sub_test.protect]]"
@@ -70,7 +70,7 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_sub_test|has_sub_test]] 
+### #is_/same_as :: [[has_sub_test|has_sub_test]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_sub_test.public|has_sub_test.public]] 
 

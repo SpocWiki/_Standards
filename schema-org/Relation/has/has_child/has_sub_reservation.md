@@ -34,7 +34,7 @@ dv_has_:
 dv_has_sub_reservation: Reservation
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_sub_reservation|has_sub_reservation]]"
+    - "[[has_sub_reservation|has_sub_reservation]]"
     - "[[/_public/schema-org/Relation/has/has_sub_reservation.public|has_sub_reservation.public]]"
     - "[[/_internal/schema-org/Relation/has/has_sub_reservation.internal|has_sub_reservation.internal]]"
     - "[[/_protect/schema-org/Relation/has/has_sub_reservation.protect|has_sub_reservation.protect]]"
@@ -45,7 +45,7 @@ dv_has_domain: ReservationPackage
 dv_has_name: is_sub_reservation
 dv_has_range: Reservation
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_sub_reservation|has_sub_reservation]]"
+  - "[[has_sub_reservation|has_sub_reservation]]"
   - "[[/_public/schema-org/Relation/has/has_sub_reservation.public|has_sub_reservation.public]]"
   - "[[/_internal/schema-org/Relation/has/has_sub_reservation.internal|has_sub_reservation.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_sub_reservation.protect|has_sub_reservation.protect]]"
@@ -70,7 +70,7 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_sub_reservation|has_sub_reservation]] 
+### #is_/same_as :: [[has_sub_reservation|has_sub_reservation]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_sub_reservation.public|has_sub_reservation.public]] 
 

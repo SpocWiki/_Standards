@@ -27,7 +27,7 @@ tags:
 title: has_parent_taxon
 type: Predi_Relation
 dv_has_:
-  inverse: "[[../has_child_taxon|has_child_taxon]]"
+  inverse: "[[../has_child/has_child_taxon|has_child_taxon]]"
   domain: "[[../../../../bio/Taxon_Rank/Taxon|Taxon]]"
   name: "[[has_parent_taxon]]"
   range:
@@ -44,7 +44,7 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_parent_taxon.private|has_parent_taxon.private]]"
     - "[[/_personal/schema-org/Relation/has/has_parent_taxon.personal|has_parent_taxon.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_parent_taxon.secret|has_parent_taxon.secret]]"
-dv_has_inverse: "[[../has_child_taxon|has_child_taxon]]"
+dv_has_inverse: "[[../has_child/has_child_taxon|has_child_taxon]]"
 dv_is_part_of: "pending:"
 dv_has_domain: "[[../../../../bio/Taxon_Rank/Taxon|Taxon]]"
 dv_has_name: "[[has_parent_taxon]]"

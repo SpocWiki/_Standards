@@ -45,7 +45,7 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_sub_organization|has_sub_organization]] 
+### #is_/same_as :: [[has_sub_organization|has_sub_organization]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_sub_organization.public|has_sub_organization.public]] 
 

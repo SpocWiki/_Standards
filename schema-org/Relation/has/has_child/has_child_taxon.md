@@ -33,20 +33,20 @@ type: Predi_Relation
 #has_/inverse  :: "[[has_parent/has_parent_taxon|has_parent_taxon]]"  
 
 Use it like this: 
-- #has_/child_/taxon :: "[[../../../bio/Taxon_Rank/Taxon|Taxon]]", Text, URL  
-- has_child_taxon :: "[[../../../bio/Taxon_Rank/Taxon|Taxon]]", Text, URL 
+- #has_/child_/taxon :: "[[../../../../bio/Taxon_Rank/Taxon|Taxon]]", Text, URL  
+- has_child_taxon :: "[[../../../../bio/Taxon_Rank/Taxon|Taxon]]", Text, URL 
 
 Closest child taxa of the taxon in question.
 
 Relation describes that: 
 
-#has_/domain  :: "[[../../../bio/Taxon_Rank/Taxon|Taxon]]"  
+#has_/domain  :: "[[../../../../bio/Taxon_Rank/Taxon|Taxon]]"  
 (has_/name :: has_child_taxon )
-(has_/range :: [ "[[../../../bio/Taxon_Rank/Taxon|Taxon]]", Text, URL ] )
+(has_/range :: [ "[[../../../../bio/Taxon_Rank/Taxon|Taxon]]", Text, URL ] )
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_child_taxon|has_child_taxon]] 
+### #is_/same_as :: [[has_child_taxon|has_child_taxon]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_child_taxon.public|has_child_taxon.public]] 
 

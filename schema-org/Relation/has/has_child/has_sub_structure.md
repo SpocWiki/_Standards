@@ -34,7 +34,7 @@ dv_has_:
 dv_has_sub_structure: AnatomicalStructure
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_sub_structure|has_sub_structure]]"
+    - "[[has_sub_structure|has_sub_structure]]"
     - "[[/_public/schema-org/Relation/has/has_sub_structure.public|has_sub_structure.public]]"
     - "[[/_internal/schema-org/Relation/has/has_sub_structure.internal|has_sub_structure.internal]]"
     - "[[/_protect/schema-org/Relation/has/has_sub_structure.protect|has_sub_structure.protect]]"
@@ -45,7 +45,7 @@ dv_has_domain: AnatomicalStructure
 dv_has_name: is_sub_structure
 dv_has_range: AnatomicalStructure
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_sub_structure|has_sub_structure]]"
+  - "[[has_sub_structure|has_sub_structure]]"
   - "[[/_public/schema-org/Relation/has/has_sub_structure.public|has_sub_structure.public]]"
   - "[[/_internal/schema-org/Relation/has/has_sub_structure.internal|has_sub_structure.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_sub_structure.protect|has_sub_structure.protect]]"
@@ -70,7 +70,7 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_sub_structure|has_sub_structure]] 
+### #is_/same_as :: [[has_sub_structure|has_sub_structure]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_sub_structure.public|has_sub_structure.public]] 
 

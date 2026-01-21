@@ -47,7 +47,7 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_sub_trip|has_sub_trip]] 
+### #is_/same_as :: [[has_sub_trip|has_sub_trip]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_sub_trip.public|has_sub_trip.public]] 
 
