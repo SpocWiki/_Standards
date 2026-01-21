@@ -2,7 +2,9 @@
 aliases:
   - tags
   - adjectives
+  - adjective
   - Flags
+  - Flag
 icon: luc_flag_triangle_right
 dv_is_:
   same_as:
@@ -26,8 +28,13 @@ dv_is_same_as:
 # Flags Overview
  
 Flags AKA Tags are Boolean Predicates with `true` and `false` as the only allowed Values. 
-Flags start with #is_/ or #is_not_/ 
-in contrast to Relations which start with #is_/ or #has_/ 
+Flags start with #is_/ or #is_/not_/ 
+in contrast to [[../Relation|Relation]]s which start with #is_/ or #has_/ 
+and Classifications, which start with #is_a_/  or #is_an_/
+
+Flags are useful despite the confusion with Relations,
+because, in contrast to [[../Class|Classifications]], which are considered permanent, 
+Flags are considered mutable and can change.
 
 Similar to Tags, they can be attached to Entities,
 but different from Tags, which are only positive,

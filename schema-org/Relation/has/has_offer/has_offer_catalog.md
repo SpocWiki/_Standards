@@ -27,14 +27,14 @@ tags:
 title: has_offer_catalog
 type: Predi_Relation
 dv_has_:
-  offer_catalog: OfferCatalog
+  offer_catalog: "[[../../../Collection/item_list/offer_catalog|offer_catalog]]"
   domain: Organization, Person, Service
   name: has_offer_catalog
-  range: OfferCatalog
-dv_has_offer_catalog: OfferCatalog
+  range: "[[../../../Collection/item_list/offer_catalog|offer_catalog]]"
+dv_has_offer_catalog: "[[../../../Collection/item_list/offer_catalog|offer_catalog]]"
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_offer_catalog|has_offer_catalog]]"
+    - "[[has_offer_catalog|has_offer_catalog]]"
     - "[[/_public/schema-org/Relation/has/has_offer_catalog.public|has_offer_catalog.public]]"
     - "[[/_internal/schema-org/Relation/has/has_offer_catalog.internal|has_offer_catalog.internal]]"
     - "[[/_protect/schema-org/Relation/has/has_offer_catalog.protect|has_offer_catalog.protect]]"
@@ -43,9 +43,9 @@ dv_is_:
     - "[[/_secret/schema-org/Relation/has/has_offer_catalog.secret|has_offer_catalog.secret]]"
 dv_has_domain: Organization, Person, Service
 dv_has_name: has_offer_catalog
-dv_has_range: OfferCatalog
+dv_has_range: "[[../../../Collection/item_list/offer_catalog|offer_catalog]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_offer_catalog|has_offer_catalog]]"
+  - "[[has_offer_catalog|has_offer_catalog]]"
   - "[[/_public/schema-org/Relation/has/has_offer_catalog.public|has_offer_catalog.public]]"
   - "[[/_internal/schema-org/Relation/has/has_offer_catalog.internal|has_offer_catalog.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_offer_catalog.protect|has_offer_catalog.protect]]"
@@ -58,19 +58,18 @@ Use it like this:
 - #has_/offer_catalog = `=this.dv_has_offer_catalog`  
 - has_offer_catalog = `=this.dv_has_offer_catalog`  
 
-Indicates an OfferCatalog listing for this Organization, Person, or Service.
+Indicates an "[[../../../Collection/item_list/offer_catalog|offer_catalog]]" listing for this Organization, Person, or Service.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_offer_catalog|has_offer_catalog]] 
+### #is_/same_as :: [[has_offer_catalog|has_offer_catalog]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_offer_catalog.public|has_offer_catalog.public]] 
 

@@ -27,6 +27,13 @@ title: has_author
 type: Predi_Relation
 ---
 
+# [[has_author]] 
+
+#is_a :: [[../../Relation|Relation]]
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: #is_/author_of 
+
 Use it like this: 
 - #has_/author :: Organization, Person  
 - [ has_author :: Organization, Person ] 
@@ -36,7 +43,6 @@ The author of this content or rating. Please note that author is special in that
 Relation describes that: 
 
 #has_/domain  :: CreativeWork, Rating, UserComments   
-
 (has_/name :: has_author )
 (has_/range :: Organization, Person )
 

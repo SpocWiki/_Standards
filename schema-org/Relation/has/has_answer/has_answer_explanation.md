@@ -29,22 +29,23 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- #has_/answer_explanation :: Comment, WebContent  
-- [ has_answer_explanation :: Comment, WebContent ] 
+- #has_/answer_/explanation :: [[../../../../Society/Communication/Media/Creative_Work/Comment|Comment]], [[../../../../Society/Communication/Media/Creative_Work/Web_Content|WebContent]]  
+- has_answer_explanation :: [[../../../../Society/Communication/Media/Creative_Work/Comment|Comment]], [[../../../../Society/Communication/Media/Creative_Work/Web_Content|WebContent]]   
 
-A step-by-step or full explanation about Answer. Can outline how this Answer was achieved or contain more broad clarification or statement about it.
+A step-by-step or full explanation about Answer. 
+Can outline how this Answer was achieved 
+or contain more broad clarification or statement about it.
 
 Relation describes that: 
 
-#has_/domain  :: Answer  
-
+#has_/domain  :: [[../../../../Society/Communication/Media/Creative_Work/Comment/Answer|Answer]]  
 (has_/name :: has_answer_explanation )
-(has_/range :: Comment, WebContent )
+(has_/range :: [[../../../../Society/Communication/Media/Creative_Work/Comment|Comment]], [[../../../../Society/Communication/Media/Creative_Work/Web_Content|WebContent]] )
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_answer_explanation|has_answer_explanation]] 
+### #is_/same_as :: [[has_answer_explanation|has_answer_explanation]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_answer_explanation.public|has_answer_explanation.public]] 
 

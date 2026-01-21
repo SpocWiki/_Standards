@@ -41,7 +41,6 @@ Indicates whether the book is an abridged edition.
 Predicate describes that: 
 
 #has_/domain  :: Book  
-
 (has_/name :: is_abridged )
 (has_/range :: Boolean )
 

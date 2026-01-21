@@ -25,8 +25,8 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- #has_/lyrics  :: CreativeWork  
-- [ has_lyrics :: CreativeWork ] 
+- #has_/lyrics  :: "[[../../../Society/Communication/Media/Creative_Work|CreativeWork]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"  
+- has_lyrics :: "[[../../../Society/Communication/Media/Creative_Work|CreativeWork]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"   
 
 or, when giving the text directly: 
 - #has_/text_of_/lyrics  :: Text  
@@ -35,7 +35,6 @@ The words in the song.
 Relation describes that: 
 
 #has_/domain  :: MusicComposition  
-
 (has_/name :: has_lyrics )
 (has_/range :: CreativeWork )
 

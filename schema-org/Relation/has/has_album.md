@@ -51,7 +51,9 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_album.secret|has_album.secret]]"
 ---
 
-Use it like this: 
+# [[has_album]]
+
+Use it like this: [[../../../Society/Agent/Community/Organization/Performing_Group/Music_Group|Music_Group]]
 - #has_/album = `=this.dv_has_album`  
 - has_album = `=this.dv_has_album`  
 
@@ -60,7 +62,6 @@ A music album.
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

@@ -28,14 +28,14 @@ tags:
 title: has_accepted_offer
 type: Predi_Relation
 dv_has_:
-  accepted_offer: "[[../../../Society/Agent/Community/Organization/Business/Offer]]"
-  domain: "[[../../Class/is_a_/Intangible/Order]]"
+  accepted_offer: "[[../../../../Society/Agent/Community/Organization/Business/Offer]]"
+  domain: "[[../../../Class/is_a_/Intangible/Order]]"
   name: has_accepted_offer
-  range: "[[../../../Society/Agent/Community/Organization/Business/Offer]]"
-dv_has_accepted_offer: "[[../../../Society/Agent/Community/Organization/Business/Offer]]"
+  range: "[[../../../../Society/Agent/Community/Organization/Business/Offer]]"
+dv_has_accepted_offer: "[[../../../../Society/Agent/Community/Organization/Business/Offer]]"
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_accepted_offer|has_accepted_offer]]"
+    - "[[has_accepted_offer|has_accepted_offer]]"
     - "[[/_public/schema-org/Relation/has/has_accepted_offer.public|has_accepted_offer.public]]"
     - "[[/_internal/schema-org/Relation/has/has_accepted_offer.internal|has_accepted_offer.internal]]"
     - "[[/_protect/schema-org/Relation/has/has_accepted_offer.protect|has_accepted_offer.protect]]"
@@ -43,9 +43,9 @@ dv_is_:
     - "[[/_personal/schema-org/Relation/has/has_accepted_offer.personal|has_accepted_offer.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_accepted_offer.secret|has_accepted_offer.secret]]"
 dv_has_name: has_accepted_offer
-dv_has_range: "[[../../../Society/Agent/Community/Organization/Business/Offer]]"
+dv_has_range: "[[../../../../Society/Agent/Community/Organization/Business/Offer]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_accepted_offer|has_accepted_offer]]"
+  - "[[has_accepted_offer|has_accepted_offer]]"
   - "[[/_public/schema-org/Relation/has/has_accepted_offer.public|has_accepted_offer.public]]"
   - "[[/_internal/schema-org/Relation/has/has_accepted_offer.internal|has_accepted_offer.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_accepted_offer.protect|has_accepted_offer.protect]]"
@@ -53,6 +53,14 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/has/has_accepted_offer.personal|has_accepted_offer.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_accepted_offer.secret|has_accepted_offer.secret]]"
 ---
+
+
+
+#is_a :: [[../../../Relation|Relation]]
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: #is_/accepted_answer_/of
+
 
 Use it like this: 
 - #has_/accepted_offer = `=this.dv_has_accepted_offer` ] ] 
@@ -70,7 +78,7 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_accepted_offer|has_accepted_offer]] 
+### #is_/same_as :: [[has_accepted_offer|has_accepted_offer]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_accepted_offer.public|has_accepted_offer.public]] 
 

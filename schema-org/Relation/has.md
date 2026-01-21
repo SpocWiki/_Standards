@@ -26,13 +26,16 @@ dv_is_same_as:
 
 # [[has]] 
 
-The Prefix `has_` makes Predicates much more readable. 
+The Prefix #has_ makes Predicates much more readable. 
 For the same Relation, sometimes both a Relation and a Property are available, 
 when the Subject is a Scalar: 
+It can also be used as a boolean Flag using #has to indicate 
+whether the Subject has the Object 'available' or as a Quality.
 
 ## #has_/examples 
 
-#see [[has/has_lyrics|has_lyrics]]: 
+#see [[has/has_lyrics|has_lyrics]] requires an Object, 
+wheras #has [[../Class/is_a_/Data_Type/Text|Text]] describes a similar Situation but with an indefinite Object. 
 
 You can use it like this when the Lyrics need to be referenced from multiple places: 
 - has_lyrics = `=this.dv_has_lyrics`  

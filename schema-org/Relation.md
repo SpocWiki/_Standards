@@ -74,12 +74,13 @@ has_range = `=this.dv_has_range`
 has_domain = `=this.dv_has_domain` 
 
 A [Relation](Relation.md) connects one [[Class/Thing|Thing]] to another. 
-A [Quantity](Quantity.md) connects a Scalar [[data_val]] to an Entity.  
+A [Quantity](Quantity.md) connects a Scalar [[Value]] to an Entity.  
 [[Predicate]] unifies both. 
 [Property](Property.md) 
 
-Flags start with #is_/ or #is_/not_/ 
-in contrast to Relations which should preferably start with  #has_/.
+Flags (Binary Properties) could start with #is_/ or #is_/not_/ followed by an [[Property/Flags|adjectives]] 
+but should better be written as Classifications starting with #is_a_ or #is_an_ followed by an equivalent Noun.
+This is in contrast to Relations which should preferably start with #has_/, but also with #is_/.
 
 In RDF there is no distinction between these, except for the specified Range. 
 But since ValueTypes are fundamentally different from ReferenceTypes in Software, 
@@ -100,6 +101,19 @@ but frequently used, also in RDF, WikiData and schema.org.
 With transitive verbs you can use the continuous and passive forms e.g. 
 #is_/using and #is_/used_by  . 
 
+## Don't form Classification from Predicate 
+
+It is **common** to omit prepositional suffixes such as 
+`_of, _in, _for` in ca. 70% to transform a predicate 
+- from a **binary relational property** 
+- into an **unary classification** 
+
+Still it is **better to use #is_a_ or #is_an_** and write #is_an_/author to perform the classification
+instead of truncating the suffix to yield `#is_author` from the #is_/author_of Relation,
+also because it better separates Classification from Predicates. 
+
+So **the suffix should not be separated** from the relation, 
+because it will not regularly be trimmed or replaced by other prepositions. 
 
 # #has_/examples 
 
