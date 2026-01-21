@@ -33,7 +33,7 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- #has_/child_event :: Event  
+- #has_/child_/event :: Event  
 - [ has_child_event :: Event ] 
 
 An Event that is part of this event. For example, a conference event includes many presentations, each of which is a subEvent of the conference.
@@ -41,8 +41,7 @@ An Event that is part of this event. For example, a conference event includes ma
 Relation describes that: 
 
 #has_/domain  :: Event  
-
-(has_/name :: is_child_event )
+(has_/name :: has_child_event )
 (has_/range :: Event )
 
 #has_/inverse  :: superEvent  
