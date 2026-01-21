@@ -31,6 +31,12 @@ title: has_parent
 type: Predi_Relation
 ---
 
+# [[has_parent]]
+
+#is_/sub_relation_of :: [[has_creator]] 
+#has_/inverse :: [[has_child]] 
+#is_/same_as :: [[WD~P40]]
+
 Use it like this: 
 - #has_/parent :: Person  
 - [ has_parent :: Person ] 
@@ -43,10 +49,6 @@ Relation describes that:
 
 (has_/name :: has_parent )
 (has_/range :: Person )
-
-#is_/sub_relation_of :: [[has_creator]] 
-#has_/inverse :: [[has_children]] 
-#is_/same_as :: [[WD~P40]]
 
 
 ## Confidential Links & Embeds: 

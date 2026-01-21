@@ -93,7 +93,7 @@ With symmetric Relations like [[Relation/has_inverse|has_inverse]] or [[Relation
 
 Most Relations are not symmetric though, 
 and sometimes they have explicit names e.g. 
-- [[Relation/has/has_parent|has_parent]]  and  [[Relation/has/has_children|has_children]] 
+- [[Relation/has/has_parent|has_parent]]  and  [[Relation/has/has_child|has_child]] 
 but more often you can only revert the previous 
 `#has_/xyz` Relation into an `#is_/xyz_of` Relation, which is not very distinctive, 
 but frequently used, also in RDF, WikiData and schema.org. 

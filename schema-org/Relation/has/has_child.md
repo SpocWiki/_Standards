@@ -1,10 +1,12 @@
 ---
 aliases:
   - has_children
+  - has_child
   - schema:child
   - dbo:child
   - wdt:P40
   - has children
+  - has child
 confidential: public
 cssclasses:
   - Predicate
@@ -33,7 +35,7 @@ dv_has_:
 dv_has_children: "[[../../../Society/Agent/Person]]"
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_children|has_children]]"
+    - "[[has_child|has_child]]"
     - "[[/_public/schema-org/Relation/has/has_children.public|has_children.public]]"
     - "[[/_internal/schema-org/Relation/has/has_children.internal|has_children.internal]]"
     - "[[/_protect/schema-org/Relation/has/has_children.protect|has_children.protect]]"
@@ -44,7 +46,7 @@ dv_has_domain: "[[../../../Society/Agent/Person]]"
 dv_has_name: has_children
 dv_has_range: "[[../../../Society/Agent/Person]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_children|has_children]]"
+  - "[[has_child|has_child]]"
   - "[[/_public/schema-org/Relation/has/has_children.public|has_children.public]]"
   - "[[/_internal/schema-org/Relation/has/has_children.internal|has_children.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_children.protect|has_children.protect]]"
@@ -68,7 +70,7 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_children|has_children]] 
+### #is_/same_as :: [[has_child|has_child]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_children.public|has_children.public]] 
 

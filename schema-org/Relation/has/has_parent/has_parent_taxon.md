@@ -27,8 +27,6 @@ tags:
 title: has_parent_taxon
 type: Predi_Relation
 dv_has_:
-  parent_:
-    taxon: '"[[../../../../bio/Taxon_Rank/Taxon|Taxon]]", Text, URL'
   inverse: "[[../has_child_taxon|has_child_taxon]]"
   domain: "[[../../../../bio/Taxon_Rank/Taxon|Taxon]]"
   name: "[[has_parent_taxon]]"
@@ -36,7 +34,6 @@ dv_has_:
     - "[[../../../../bio/Taxon_Rank/Taxon|Taxon]]"
     - "[[../../../Class/is_a_/Data_Type/Text|Text]]"
     - "[[../../../Class/is_a_/Data_Type/Text/Url|Url]]"
-dv_has_parent_taxon: '"[[../../../../bio/Taxon_Rank/Taxon|Taxon]]", Text, URL'
 dv_is_:
   part_of: "pending:"
   same_as:
@@ -65,20 +62,22 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_parent_taxon.secret|has_parent_taxon.secret]]"
 ---
 
+# [[has_parent_taxon]] 
+
 has_inverse = `=this.dv_has_inverse` 
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/parent_/taxon :: "[[../../../../bio/Taxon_Rank/Taxon|Taxon]]", Text, URL  
-- has_parent_taxon :: "[[../../../../bio/Taxon_Rank/Taxon|Taxon]]", Text, URL  
+- #has_/parent_/taxon :: `=this.dv_has_range` 
+- has_parent_taxon :: `=this.dv_has_range`  
 
-Closest parent taxon of the taxon in question.
+Closest parent taxon of the Subject [[../../../../bio/Taxon_Rank/Taxon|Taxon]].
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
 has_name = `=this.dv_has_name` 
-(has_/range :: "[[../../../../bio/Taxon_Rank/Taxon|Taxon]]", "[[../../../Class/is_a_/Data_Type/Text|Text]]", "[[../../../Class/is_a_/Data_Type/Text/Url|Url]]" )
+has_range = `=this.dv_has_range` 
 
 ## Confidential Links & Embeds: 
 
