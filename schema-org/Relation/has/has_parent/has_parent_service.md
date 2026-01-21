@@ -56,7 +56,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- #has_/parent_service = `=this.dv_has_parent_service`  
+- #has_/parent_/service = `=this.dv_has_parent_service`  
 - has_parent_service = `=this.dv_has_parent_service`  
 
 A broadcast service to which the broadcast service may belong to 
