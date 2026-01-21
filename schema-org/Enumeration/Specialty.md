@@ -35,8 +35,8 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration/Specialty.secret|Specialty.secret]]"
 dv_has_:
   sub_classes: "[ MedicalSpecialty ]"
-dv_is_sub_class_of: "[[../Enumeration]]"
-dv_has_sub_classes: "[ MedicalSpecialty ]"
+dv_has_parent_class: "[[../Enumeration]]"
+dv_has_child_classes: "[ MedicalSpecialty ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Specialty|Specialty]]"
   - "[[/_public/schema-org/Enumeration/Specialty.public|Specialty.public]]"
@@ -54,9 +54,9 @@ Tag Instances like this:
 
 Any branch of a field in which people typically develop specific expertise, usually after significant study, time, and effort.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
-has_sub_classes = `=this.dv_has_sub_classes` 
+has_child_classes = `=this.dv_has_child_classes` 
 
 ## Confidential Links & Embeds: 
 

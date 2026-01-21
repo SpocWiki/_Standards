@@ -41,7 +41,7 @@ Relation describes that:
 (has_/name :: has_associated_review )
 (has_/range :: Review )
 
-#has_/sub_properties :: [ associatedClaimReview, associatedMediaReview ]  
+#has_/child_properties :: [ associatedClaimReview, associatedMediaReview ]  
 
 ## Confidential Links & Embeds: 
 

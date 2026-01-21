@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Due.private|Payment_Due.private]]"
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Due.personal|Payment_Due.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Due.secret|Payment_Due.secret]]"
-dv_is_sub_class_of: "[[../PaymentStatusType]]"
+dv_has_parent_class: "[[../PaymentStatusType]]"
 dv_is_enum_of: "[[../PaymentStatusType]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Due|Payment_Due]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 The payment is due, but still within an acceptable time to be received.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

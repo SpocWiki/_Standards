@@ -37,8 +37,8 @@ dv_is_:
 dv_has_:
   sub_classes: "[ HowToSupply, HowToTool ]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, item, mainEntityOfPage, name, nextItem, position, potentialAction, previousItem, requiredQuantity, sameAs, subjectOf, url ]"
-dv_is_sub_class_of: "[[../ListItem]]"
-dv_has_sub_classes: "[ HowToSupply, HowToTool ]"
+dv_has_parent_class: "[[../ListItem]]"
+dv_has_child_classes: "[ HowToSupply, HowToTool ]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, item, mainEntityOfPage, name, nextItem, position, potentialAction, previousItem, requiredQuantity, sameAs, subjectOf, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Collection/list_item/how_to_item|how_to_item]]"
@@ -57,9 +57,9 @@ Tag Instances like this:
 
 An item used as either a tool or supply when performing the instructions for how to achieve a result.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
-has_sub_classes = `=this.dv_has_sub_classes` 
+has_child_classes = `=this.dv_has_child_classes` 
 
 has_properties = `=this.dv_has_properties` 
 

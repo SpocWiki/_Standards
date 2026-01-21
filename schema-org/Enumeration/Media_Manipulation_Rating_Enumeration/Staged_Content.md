@@ -39,7 +39,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Staged_Content.personal|Staged_Content.personal]]"
     - "[[/_secret/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Staged_Content.secret|Staged_Content.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../Media_Manipulation_Rating_Enumeration]]"
+dv_has_parent_class: "[[../Media_Manipulation_Rating_Enumeration]]"
 dv_is_enum_of: "[[../Media_Manipulation_Rating_Enumeration]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Staged_Content|Staged_Content]]"
@@ -69,7 +69,7 @@ An image that was created using actors or similarly contrived, such as a screens
 # For an [[../../../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object|AudioObject]]: 
 Audio that has been created using actors or similarly contrived.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

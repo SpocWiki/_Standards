@@ -40,7 +40,7 @@ dv_name: "{{has_label_snail}}"
 dv_range: "{{rangeIncludes}}"
 dv_has_inverse: "{{inverseOf}}"
 dv_has_parent_property: "{{subPropertyOf}}"
-dv_sub_properties: "{{subproperties}}"
+dv_child_properties: "{{subproperties}}"
 dv_is_part_of: "{{isPartOf}}"
 dv_is_:
   same_as:
@@ -69,7 +69,7 @@ range = `=this.dv_range`
 
 has_inverse = `=this.dv_has_inverse` 
 has_parent_property = `=this.dv_has_parent_property` 
-sub_properties = `=this.dv_sub_properties` 
+sub_properties = `=this.dv_child_properties` 
 
 is_part_of = `=this.dv_is_part_of` 
 

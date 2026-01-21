@@ -67,7 +67,7 @@ Predicated describes that:
 
 #has_/parent_/property  :: [[../../Relation/has/has_identifier]]   
 
-#has_/sub_properties :: [ gtin12, gtin13, gtin14, gtin8 ]  
+#has_/child_properties :: [ gtin12, gtin13, gtin14, gtin8 ]  
 
 ## Confidential Links & Embeds: 
 

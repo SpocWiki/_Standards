@@ -84,7 +84,7 @@ SPLASH:
 ---
 
 #is_/instance_of :: [[../Disaccharide]] 
-#is_/sub_class_of :: [[../Disaccharide]] 
+#has_/parent_class :: [[../Disaccharide]] 
 #has_/parts :: [[../Monosaccharide/Galactose]] 
 #has_/parts :: [[../Monosaccharide/Glucose]]  
 #is_/same_as :: [[../../../../../WikiData/WD~Β-lactose,127900|WD~Β-lactose,127900]] 

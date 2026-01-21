@@ -33,7 +33,7 @@ Tag Instances like this:
 
 A branch of medicine that is involved in the dental care.
 
-#is_/sub_class_of :: [[../MedicalSpecialty]]  
+#has_/parent_class :: [[../MedicalSpecialty]]  
 
 #is_/enum_of :: [[../MedicalSpecialty]]  
 

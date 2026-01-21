@@ -39,7 +39,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Car_Usage_Type/Driving_School_Vehicle_Usage.personal|Driving_School_Vehicle_Usage.personal]]"
     - "[[/_secret/schema-org/Enumeration/Car_Usage_Type/Driving_School_Vehicle_Usage.secret|Driving_School_Vehicle_Usage.secret]]"
 dv_is_part_of: https://auto.schema.org
-dv_is_sub_class_of: "[[../CarUsageType]]"
+dv_has_parent_class: "[[../CarUsageType]]"
 dv_is_enum_of: "[[../CarUsageType]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Car_Usage_Type/Driving_School_Vehicle_Usage|Driving_School_Vehicle_Usage]]"
@@ -60,7 +60,7 @@ is_part_of = `=this.dv_is_part_of`
 
 Indicates the usage of the vehicle for driving school.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

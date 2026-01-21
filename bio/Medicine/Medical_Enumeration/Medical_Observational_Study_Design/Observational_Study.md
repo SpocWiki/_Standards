@@ -33,7 +33,7 @@ Tag Instances like this:
 
 An observational study design.
 
-#is_/sub_class_of :: [[../MedicalObservationalStudyDesign]]  
+#has_/parent_class :: [[../MedicalObservationalStudyDesign]]  
 
 #is_/enum_of :: [[../MedicalObservationalStudyDesign]]  
 

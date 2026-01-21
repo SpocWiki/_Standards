@@ -77,7 +77,7 @@ You can also use a pre-defined #Tag,
 like #is_a_/pet, but that makes Navigation 
 to the actual Class Definition harder.
 
-- For Classes use [is_subclass_of](is_sub_class_of.md)  
+- For Classes use [has_parent_class](../Relation/has/has_parent/has_parent_class.md)  
 
 ## Relation describes that: 
 

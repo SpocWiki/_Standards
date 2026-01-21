@@ -44,7 +44,7 @@ Predicated describes that:
 (has_/name :: has_name_alternate )
 (has_/range :: Text )
 
-#has_/sub_properties :: [ [[has_name_additional|additionalName]] ]  
+#has_/child_properties :: [ [[has_name_additional|additionalName]] ]  
 
 ## Confidential Links & Embeds: 
 

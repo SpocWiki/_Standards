@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Music_Release_Format_Type/Cd_Format.private|Cd_Format.private]]"
     - "[[/_personal/schema-org/Enumeration/Music_Release_Format_Type/Cd_Format.personal|Cd_Format.personal]]"
     - "[[/_secret/schema-org/Enumeration/Music_Release_Format_Type/Cd_Format.secret|Cd_Format.secret]]"
-dv_is_sub_class_of: "[[../MusicReleaseFormatType]]"
+dv_has_parent_class: "[[../MusicReleaseFormatType]]"
 dv_is_enum_of: "[[../MusicReleaseFormatType]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Music_Release_Format_Type/Cd_Format|Cd_Format]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 CDFormat.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

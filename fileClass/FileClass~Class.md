@@ -5,7 +5,7 @@ excludes: ''
 extends: FileClass~Thing/FileClass~Intangible
 fields:
   - id: rpfWON
-    name: is_sub_class_of
+    name: has_parent_class
     options:
       dvQueryString: dv.pages('#class/Class')
     type: File
@@ -37,7 +37,7 @@ version: 2.0
 
 ### Subclass Relation: 
 ![[../schema-org/Class/is_sub-class_of|subclassOf]] 
-is_sub_class_of::  {"type":"File","options":{"dvQueryString":"dv.pages('#class/Class')"}}
+has_parent_class::  {"type":"File","options":{"dvQueryString":"dv.pages('#class/Class')"}}
 
 
 ## Confidential Links & Embeds: 

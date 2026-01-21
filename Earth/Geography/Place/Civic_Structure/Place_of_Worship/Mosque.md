@@ -85,7 +85,7 @@ dv_is_:
     - "[[/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mosque.private|Mosque.private]]"
     - "[[/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mosque.personal|Mosque.personal]]"
     - "[[/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mosque.secret|Mosque.secret]]"
-dv_is_sub_class_of: "[[../PlaceOfWorship]]"
+dv_has_parent_class: "[[../PlaceOfWorship]]"
 dv_has_properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
 dv_is_same_as:
   - "[[../../../../../WikiData/WD~Mosque,32815|WD~Mosque,32815]]"
@@ -107,7 +107,7 @@ Tag Instances like this:
 
 A mosque.
 
-is_sub_class_of = `=this.dv_is_sub_class_of`] ]
+has_parent_class = `=this.dv_has_parent_class`] ]
 
 has_properties = `=this.dv_has_properties` ]
 

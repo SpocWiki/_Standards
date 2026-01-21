@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Restricted_Diet/Kosher_Diet.private|Kosher_Diet.private]]"
     - "[[/_personal/schema-org/Enumeration/Restricted_Diet/Kosher_Diet.personal|Kosher_Diet.personal]]"
     - "[[/_secret/schema-org/Enumeration/Restricted_Diet/Kosher_Diet.secret|Kosher_Diet.secret]]"
-dv_is_sub_class_of: "[[../RestrictedDiet]]"
+dv_has_parent_class: "[[../RestrictedDiet]]"
 dv_is_enum_of: "[[../RestrictedDiet]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Restricted_Diet/Kosher_Diet|Kosher_Diet]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 A diet conforming to Jewish dietary practices.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

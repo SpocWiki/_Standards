@@ -45,7 +45,7 @@ Predicated describes that:
 
 #has_/parent_/property  :: [[../../Relation/has/has_identifier]]  
 
-#has_/sub_properties :: [ vehicleIdentificationNumber ]  
+#has_/child_properties :: [ vehicleIdentificationNumber ]  
 
 ## Confidential Links & Embeds: 
 

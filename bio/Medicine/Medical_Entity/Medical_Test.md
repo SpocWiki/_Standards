@@ -34,9 +34,9 @@ Tag Instances like this:
 
 Any medical test, typically performed for diagnostic purposes.
 
-#is_/sub_class_of :: [[../MedicalEntity]]  
+#has_/parent_class :: [[../MedicalEntity]]  
 
-#has_/sub_classes :: [ BloodTest, ImagingTest, MedicalTestPanel, PathologyTest ]  
+#has_/child_classes :: [ BloodTest, ImagingTest, MedicalTestPanel, PathologyTest ]  
 
 #has_/properties :: [ additionalType, affectedBy, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, normalRange, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, signDetected, study, subjectOf, url, usedToDiagnose, usesDevice ]  
 

@@ -36,7 +36,7 @@ dv_is_:
     - "[[/_secret/schema-org/Collection/item_list/offer_catalog.secret|offer_catalog.secret]]"
 dv_has_:
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, itemListElement, itemListOrder, mainEntityOfPage, name, numberOfItems, potentialAction, sameAs, subjectOf, url ]"
-dv_is_sub_class_of: "[[../ItemList]]"
+dv_has_parent_class: "[[../ItemList]]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, itemListElement, itemListOrder, mainEntityOfPage, name, numberOfItems, potentialAction, sameAs, subjectOf, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Collection/item_list/offer_catalog|offer_catalog]]"
@@ -55,7 +55,7 @@ Tag Instances like this:
 
 An OfferCatalog is an ItemList that contains related Offers and/or further OfferCatalogs that are offeredBy the same provider.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

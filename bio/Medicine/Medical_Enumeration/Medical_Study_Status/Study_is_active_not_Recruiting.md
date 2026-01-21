@@ -35,7 +35,7 @@ Tag Instances like this:
 
 Active, but not recruiting new participants.
 
-#is_/sub_class_of :: [[../MedicalStudyStatus]]  
+#has_/parent_class :: [[../MedicalStudyStatus]]  
 
 #is_/enum_of :: [[../MedicalStudyStatus]]  
 

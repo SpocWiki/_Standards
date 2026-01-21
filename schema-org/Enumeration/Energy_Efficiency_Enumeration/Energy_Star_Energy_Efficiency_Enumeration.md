@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration.personal|Energy_Star_Energy_Efficiency_Enumeration.personal]]"
     - "[[/_secret/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration.secret|Energy_Star_Energy_Efficiency_Enumeration.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../EnergyEfficiencyEnumeration]]"
+dv_has_parent_class: "[[../EnergyEfficiencyEnumeration]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration|Energy_Star_Energy_Efficiency_Enumeration]]"
   - "[[/_public/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration.public|Energy_Star_Energy_Efficiency_Enumeration.public]]"
@@ -57,7 +57,7 @@ is_part_of = `=this.dv_is_part_of`
 
 Used to indicate whether a product is EnergyStar certified.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 ## Confidential Links & Embeds: 
 

@@ -35,7 +35,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Book_Format_Type/Hardcover.private|Hardcover.private]]"
     - "[[/_personal/schema-org/Enumeration/Book_Format_Type/Hardcover.personal|Hardcover.personal]]"
     - "[[/_secret/schema-org/Enumeration/Book_Format_Type/Hardcover.secret|Hardcover.secret]]"
-dv_is_sub_class_of: "[[../BookFormatType]]"
+dv_has_parent_class: "[[../BookFormatType]]"
 dv_is_enum_of: "[[../BookFormatType]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Book_Format_Type/Hardcover|Hardcover]]"
@@ -54,7 +54,7 @@ Tag Instances like this:
 
 Book format: Hardcover.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

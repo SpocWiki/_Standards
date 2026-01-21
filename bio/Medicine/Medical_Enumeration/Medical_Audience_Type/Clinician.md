@@ -33,7 +33,7 @@ Tag Instances like this:
 
 Medical clinicians, including practicing physicians and other medical professionals involved in clinical practice.
 
-#is_/sub_class_of :: [[../MedicalAudienceType]]  
+#has_/parent_class :: [[../MedicalAudienceType]]  
 
 #is_/enum_of :: [[../MedicalAudienceType]]  
 

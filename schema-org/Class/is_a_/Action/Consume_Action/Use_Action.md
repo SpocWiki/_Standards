@@ -38,8 +38,8 @@ dv_is_:
 dv_has_:
   sub_classes: "[ WearAction ]"
   properties: "[ actionAccessibilityRequirement, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, expectsAcceptanceOf, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
-dv_is_sub_class_of: "[[../ConsumeAction]]"
-dv_has_sub_classes: "[ WearAction ]"
+dv_has_parent_class: "[[../ConsumeAction]]"
+dv_has_child_classes: "[ WearAction ]"
 dv_has_properties: "[ actionAccessibilityRequirement, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, expectsAcceptanceOf, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Action/Consume_Action/Use_Action|Use_Action]]"
@@ -59,9 +59,9 @@ Class of all use_actions.
 Tag Instances like this: 
 #is_a_/use_action
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
-has_sub_classes = `=this.dv_has_sub_classes` 
+has_child_classes = `=this.dv_has_child_classes` 
 
 has_properties = `=this.dv_has_properties` 
 

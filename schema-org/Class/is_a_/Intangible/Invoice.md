@@ -35,7 +35,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Invoice.secret|Invoice.secret]]"
 dv_has_:
   properties: "[ accountId, additionalType, alternateName, billingPeriod, broker, category, confirmationNumber, customer, description, disambiguatingDescription, identifier, image, mainEntityOfPage, minimumPaymentDue, name, paymentDue, paymentDueDate, paymentMethod, paymentMethodId, paymentStatus, potentialAction, provider, referencesOrder, sameAs, scheduledPaymentDate, subjectOf, totalPaymentDue, url ]"
-dv_is_sub_class_of: "[[../Intangible]]"
+dv_has_parent_class: "[[../Intangible]]"
 dv_has_properties: "[ accountId, additionalType, alternateName, billingPeriod, broker, category, confirmationNumber, customer, description, disambiguatingDescription, identifier, image, mainEntityOfPage, minimumPaymentDue, name, paymentDue, paymentDueDate, paymentMethod, paymentMethodId, paymentStatus, potentialAction, provider, referencesOrder, sameAs, scheduledPaymentDate, subjectOf, totalPaymentDue, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Invoice|Invoice]]"
@@ -54,7 +54,7 @@ Tag Instances like this:
 
 A statement of the money due for goods or services; a bill.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

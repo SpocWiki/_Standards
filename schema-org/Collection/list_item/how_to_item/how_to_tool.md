@@ -36,7 +36,7 @@ dv_is_:
     - "[[/_secret/schema-org/Collection/list_item/how_to_item/how_to_tool.secret|how_to_tool.secret]]"
 dv_has_:
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, item, mainEntityOfPage, name, nextItem, position, potentialAction, previousItem, requiredQuantity, sameAs, subjectOf, url ]"
-dv_is_sub_class_of: "[[../HowToItem]]"
+dv_has_parent_class: "[[../HowToItem]]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, item, mainEntityOfPage, name, nextItem, position, potentialAction, previousItem, requiredQuantity, sameAs, subjectOf, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Collection/list_item/how_to_item/how_to_tool|how_to_tool]]"
@@ -55,7 +55,7 @@ Tag Instances like this:
 
 A tool used (but not consumed) when performing instructions for how to achieve a result.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

@@ -39,7 +39,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Partially_in_Force.personal|Partially_in_Force.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Partially_in_Force.secret|Partially_in_Force.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../LegalForceStatus]]"
+dv_has_parent_class: "[[../LegalForceStatus]]"
 dv_is_enum_of: "[[../LegalForceStatus]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Partially_in_Force|Partially_in_Force]]"
@@ -60,7 +60,7 @@ is_part_of = `=this.dv_is_part_of`
 
 Indicates that parts of the legislation are in force, and parts are not.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

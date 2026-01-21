@@ -39,7 +39,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Price_Component_Type_Enumeration/Cleaning_Fee.personal|Cleaning_Fee.personal]]"
     - "[[/_secret/schema-org/Enumeration/Price_Component_Type_Enumeration/Cleaning_Fee.secret|Cleaning_Fee.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../PriceComponentTypeEnumeration]]"
+dv_has_parent_class: "[[../PriceComponentTypeEnumeration]]"
 dv_is_enum_of: "[[../PriceComponentTypeEnumeration]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Price_Component_Type_Enumeration/Cleaning_Fee|Cleaning_Fee]]"
@@ -60,7 +60,7 @@ is_part_of = `=this.dv_is_part_of`
 
 Represents the cleaning fee part of the total price for an offered product, for example a vacation rental.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

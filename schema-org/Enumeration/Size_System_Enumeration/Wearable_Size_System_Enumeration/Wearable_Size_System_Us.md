@@ -39,7 +39,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Us.personal|Wearable_Size_System_Us.personal]]"
     - "[[/_secret/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Us.secret|Wearable_Size_System_Us.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../WearableSizeSystemEnumeration]]"
+dv_has_parent_class: "[[../WearableSizeSystemEnumeration]]"
 dv_is_enum_of: "[[../WearableSizeSystemEnumeration]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Us|Wearable_Size_System_Us]]"
@@ -60,7 +60,7 @@ is_part_of = `=this.dv_is_part_of`
 
 United States size system for wearables.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

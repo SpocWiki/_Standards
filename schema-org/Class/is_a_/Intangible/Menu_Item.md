@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Menu_Item.secret|Menu_Item.secret]]"
 dv_has_:
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, menuAddOn, name, nutrition, offers, potentialAction, sameAs, subjectOf, suitableForDiet, url ]"
-dv_is_sub_class_of: "[[../Intangible]]"
+dv_has_parent_class: "[[../Intangible]]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, menuAddOn, name, nutrition, offers, potentialAction, sameAs, subjectOf, suitableForDiet, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Menu_Item|Menu_Item]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 A food or drink item listed in a menu or menu section.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

@@ -38,8 +38,8 @@ dv_is_:
 dv_has_:
   sub_classes: "[ AcceptAction, AssignAction, AuthorizeAction, RejectAction ]"
   properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
-dv_is_sub_class_of: "[[../OrganizeAction]]"
-dv_has_sub_classes: "[ AcceptAction, AssignAction, AuthorizeAction, RejectAction ]"
+dv_has_parent_class: "[[../OrganizeAction]]"
+dv_has_child_classes: "[ AcceptAction, AssignAction, AuthorizeAction, RejectAction ]"
 dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action|Allocate_Action]]"
@@ -58,9 +58,9 @@ Tag Instances like this:
 
 The act of organizing tasks/objects/events by associating resources to it.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
-has_sub_classes = `=this.dv_has_sub_classes` 
+has_child_classes = `=this.dv_has_child_classes` 
 
 has_properties = `=this.dv_has_properties` 
 

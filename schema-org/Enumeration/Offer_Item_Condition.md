@@ -35,7 +35,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Offer_Item_Condition.private|Offer_Item_Condition.private]]"
     - "[[/_personal/schema-org/Enumeration/Offer_Item_Condition.personal|Offer_Item_Condition.personal]]"
     - "[[/_secret/schema-org/Enumeration/Offer_Item_Condition.secret|Offer_Item_Condition.secret]]"
-dv_is_sub_class_of: "[[../Enumeration]]"
+dv_has_parent_class: "[[../Enumeration]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Offer_Item_Condition|Offer_Item_Condition]]"
   - "[[/_public/schema-org/Enumeration/Offer_Item_Condition.public|Offer_Item_Condition.public]]"
@@ -53,7 +53,7 @@ Tag Instances like this:
 
 A list of possible conditions for the item.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 ## Confidential Links & Embeds: 
 

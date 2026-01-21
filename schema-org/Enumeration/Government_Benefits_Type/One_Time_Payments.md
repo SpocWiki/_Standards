@@ -39,7 +39,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Government_Benefits_Type/One_Time_Payments.personal|One_Time_Payments.personal]]"
     - "[[/_secret/schema-org/Enumeration/Government_Benefits_Type/One_Time_Payments.secret|One_Time_Payments.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../GovernmentBenefitsType]]"
+dv_has_parent_class: "[[../GovernmentBenefitsType]]"
 dv_is_enum_of: "[[../GovernmentBenefitsType]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Government_Benefits_Type/One_Time_Payments|One_Time_Payments]]"
@@ -60,7 +60,7 @@ is_part_of = `=this.dv_is_part_of`
 
 OneTimePayments: this is a benefit for one-time payments for individuals.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

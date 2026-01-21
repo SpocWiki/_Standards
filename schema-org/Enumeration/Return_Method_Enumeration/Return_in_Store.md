@@ -39,7 +39,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Return_Method_Enumeration/Return_in_Store.personal|Return_in_Store.personal]]"
     - "[[/_secret/schema-org/Enumeration/Return_Method_Enumeration/Return_in_Store.secret|Return_in_Store.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../ReturnMethodEnumeration]]"
+dv_has_parent_class: "[[../ReturnMethodEnumeration]]"
 dv_is_enum_of: "[[../ReturnMethodEnumeration]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Return_Method_Enumeration/Return_in_Store|Return_in_Store]]"
@@ -60,7 +60,7 @@ is_part_of = `=this.dv_is_part_of`
 
 Specifies that product returns must be made in a store.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

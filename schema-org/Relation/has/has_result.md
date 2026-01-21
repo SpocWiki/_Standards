@@ -38,7 +38,7 @@ Relation describes that:
 (has_/name :: is_result )
 (has_/range :: Thing )
 
-#has_/sub_properties :: [ resultComment, resultReview ]  
+#has_/child_properties :: [ resultComment, resultReview ]  
 
 ## Confidential Links & Embeds: 
 

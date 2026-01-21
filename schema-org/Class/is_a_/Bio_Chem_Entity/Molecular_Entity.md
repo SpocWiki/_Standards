@@ -39,7 +39,7 @@ dv_is_:
 dv_has_:
   properties: "[ additionalType, alternateName, associatedDisease, bioChemInteraction, bioChemSimilarity, biologicalRole, chemicalRole, description, disambiguatingDescription, funding, hasBioChemEntityPart, hasMolecularFunction, hasRepresentation, identifier, image, inChI, inChIKey, isEncodedByBioChemEntity, isInvolvedInBiologicalProcess, isLocatedInSubcellularLocation, isPartOfBioChemEntity, iupacName, mainEntityOfPage, molecularFormula, molecularWeight, monoisotopicMolecularWeight, name, potentialAction, potentialUse, sameAs, smiles, subjectOf, taxonomicRange, url ]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../Bio_Chem_Entity]]"
+dv_has_parent_class: "[[../Bio_Chem_Entity]]"
 dv_has_properties: "[ additionalType, alternateName, associatedDisease, bioChemInteraction, bioChemSimilarity, biologicalRole, chemicalRole, description, disambiguatingDescription, funding, hasBioChemEntityPart, hasMolecularFunction, hasRepresentation, identifier, image, inChI, inChIKey, isEncodedByBioChemEntity, isInvolvedInBiologicalProcess, isLocatedInSubcellularLocation, isPartOfBioChemEntity, iupacName, mainEntityOfPage, molecularFormula, molecularWeight, monoisotopicMolecularWeight, name, potentialAction, potentialUse, sameAs, smiles, subjectOf, taxonomicRange, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Bio_Chem_Entity/Molecular_Entity|Molecular_Entity]]"
@@ -63,7 +63,7 @@ is_part_of = `=this.dv_is_part_of`
 Any constitutionally or isotopically distinct atom, molecule, ion, ion pair, radical, radical ion, complex, conformer etc., 
 identifiable as a separately distinguishable entity.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

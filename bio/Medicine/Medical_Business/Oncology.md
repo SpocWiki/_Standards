@@ -58,7 +58,7 @@ Tag Instances like this:
 
 A specific branch of medical science that deals with benign and malignant tumors, including the study of their development, diagnosis, treatment and prevention.
 
-#is_/sub_class_of :: [[../MedicalBusiness, MedicalSpecialty]]  
+#has_/parent_class :: [[../MedicalBusiness, MedicalSpecialty]]  
 
 #is_/enum_of :: [[../MedicalSpecialty]]  
 

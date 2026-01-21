@@ -39,7 +39,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Legal_Value_Level/Unofficial_Legal_Value.personal|Unofficial_Legal_Value.personal]]"
     - "[[/_secret/schema-org/Enumeration/Legal_Value_Level/Unofficial_Legal_Value.secret|Unofficial_Legal_Value.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../LegalValueLevel]]"
+dv_has_parent_class: "[[../LegalValueLevel]]"
 dv_is_enum_of: "[[../LegalValueLevel]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Legal_Value_Level/Unofficial_Legal_Value|Unofficial_Legal_Value]]"
@@ -60,7 +60,7 @@ is_part_of = `=this.dv_is_part_of`
 
 Indicates that a document has no particular or special standing (e.g. a republication of a law by a private publisher).
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

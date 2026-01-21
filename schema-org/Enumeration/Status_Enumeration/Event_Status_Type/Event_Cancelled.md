@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Cancelled.private|Event_Cancelled.private]]"
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Cancelled.personal|Event_Cancelled.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Cancelled.secret|Event_Cancelled.secret]]"
-dv_is_sub_class_of: "[[../EventStatusType]]"
+dv_has_parent_class: "[[../EventStatusType]]"
 dv_is_enum_of: "[[../EventStatusType]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Cancelled|Event_Cancelled]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 The event has been cancelled. If the event has multiple startDate values, all are assumed to be cancelled. Either startDate or previousStartDate may be used to specify the event's cancelled date(s).
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

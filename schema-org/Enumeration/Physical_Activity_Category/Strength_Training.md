@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Physical_Activity_Category/Strength_Training.private|Strength_Training.private]]"
     - "[[/_personal/schema-org/Enumeration/Physical_Activity_Category/Strength_Training.personal|Strength_Training.personal]]"
     - "[[/_secret/schema-org/Enumeration/Physical_Activity_Category/Strength_Training.secret|Strength_Training.secret]]"
-dv_is_sub_class_of: "[[../PhysicalActivityCategory]]"
+dv_has_parent_class: "[[../PhysicalActivityCategory]]"
 dv_is_enum_of: "[[../PhysicalActivityCategory]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Physical_Activity_Category/Strength_Training|Strength_Training]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 Physical activity that is engaged in to improve muscle and bone strength. Also referred to as resistance training.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

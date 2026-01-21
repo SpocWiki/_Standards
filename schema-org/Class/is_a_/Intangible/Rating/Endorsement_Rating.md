@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Rating/Endorsement_Rating.secret|Endorsement_Rating.secret]]"
 dv_has_:
   properties: "[ additionalType, alternateName, author, bestRating, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, ratingExplanation, ratingValue, reviewAspect, sameAs, subjectOf, url, worstRating ]"
-dv_is_sub_class_of: "[[../Rating]]"
+dv_has_parent_class: "[[../Rating]]"
 dv_has_properties: "[ additionalType, alternateName, author, bestRating, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, ratingExplanation, ratingValue, reviewAspect, sameAs, subjectOf, url, worstRating ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Rating/Endorsement_Rating|Endorsement_Rating]]"
@@ -61,7 +61,7 @@ some [[../../../../../Society/Agent]]. As is common elsewhere in schema.org, it 
 An [[EndorsementRating]] may be part of a numeric scale or organized system, but this is not required: having an explicit type for indicating a positive,
 endorsement rating is particularly useful in the absence of numeric scales as it helps consumers understand that the rating is broadly positive.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

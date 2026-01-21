@@ -41,7 +41,7 @@ Relation describes that:
 (has_/name :: is_representation )
 (has_/range :: PropertyValue, Text, URL )
 
-#has_/sub_properties :: [ hasBioPolymerSequence, inChI, inChIKey, smiles ]  
+#has_/child_properties :: [ hasBioPolymerSequence, inChI, inChIKey, smiles ]  
 
 ## Confidential Links & Embeds: 
 

@@ -36,8 +36,8 @@ dv_is_:
 dv_has_:
   sub_classes: "[ BoatTrip, BusTrip, Flight, TouristTrip, TrainTrip ]"
   properties: "[ additionalType, alternateName, arrivalTime, departureTime, description, disambiguatingDescription, identifier, image, itinerary, mainEntityOfPage, name, offers, partOfTrip, potentialAction, provider, sameAs, subTrip, subjectOf, url ]"
-dv_is_sub_class_of: "[[../Intangible]]"
-dv_has_sub_classes: "[ BoatTrip, BusTrip, Flight, TouristTrip, TrainTrip ]"
+dv_has_parent_class: "[[../Intangible]]"
+dv_has_child_classes: "[ BoatTrip, BusTrip, Flight, TouristTrip, TrainTrip ]"
 dv_has_properties: "[ additionalType, alternateName, arrivalTime, departureTime, description, disambiguatingDescription, identifier, image, itinerary, mainEntityOfPage, name, offers, partOfTrip, potentialAction, provider, sameAs, subTrip, subjectOf, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Trip|Trip]]"
@@ -56,9 +56,9 @@ Tag Instances like this:
 
 A trip or journey. An itinerary of visits to one or more places.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
-has_sub_classes = `=this.dv_has_sub_classes` 
+has_child_classes = `=this.dv_has_child_classes` 
 
 has_properties = `=this.dv_has_properties` 
 

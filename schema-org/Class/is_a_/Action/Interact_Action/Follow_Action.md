@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Action/Interact_Action/Follow_Action.secret|Follow_Action.secret]]"
 dv_has_:
   properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, followee, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
-dv_is_sub_class_of: "[[../InteractAction]]"
+dv_has_parent_class: "[[../InteractAction]]"
 dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, followee, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Action/Interact_Action/Follow_Action|Follow_Action]]"
@@ -66,7 +66,7 @@ Related actions:
 <li>[[TrackAction]]: Unlike TrackAction, FollowAction refers to the polling of updates of all aspects of animate objects rather than the location of inanimate objects (e.g. you track a package, but you don't follow it).</li>
 </ul>
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

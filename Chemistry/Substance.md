@@ -39,8 +39,8 @@ dv_is_:
 dv_has_:
   sub_classes: "[ DietarySupplement, Drug ]"
   properties: "[ activeIngredient, additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, maximumIntake, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ]"
-dv_is_sub_class_of: "[[../MedicalEntity]]"
-dv_has_sub_classes: "[ DietarySupplement, Drug ]"
+dv_has_parent_class: "[[../MedicalEntity]]"
+dv_has_child_classes: "[ DietarySupplement, Drug ]"
 dv_has_properties: "[ activeIngredient, additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, maximumIntake, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ]"
 dv_is_same_as:
   - "[[../WikiData/WD~Matter,35758|WD~Matter,35758]]"
@@ -63,9 +63,9 @@ Tag Instances like this:
 Any matter of defined composition that has discrete existence, 
 whose origin may be biological, mineral or chemical.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
-has_sub_classes = `=this.dv_has_sub_classes` 
+has_child_classes = `=this.dv_has_child_classes` 
 
 has_properties = `=this.dv_has_properties` 
 

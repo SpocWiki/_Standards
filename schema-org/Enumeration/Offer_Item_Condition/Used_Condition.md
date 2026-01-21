@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Offer_Item_Condition/Used_Condition.private|Used_Condition.private]]"
     - "[[/_personal/schema-org/Enumeration/Offer_Item_Condition/Used_Condition.personal|Used_Condition.personal]]"
     - "[[/_secret/schema-org/Enumeration/Offer_Item_Condition/Used_Condition.secret|Used_Condition.secret]]"
-dv_is_sub_class_of: "[[../OfferItemCondition]]"
+dv_has_parent_class: "[[../OfferItemCondition]]"
 dv_is_enum_of: "[[../OfferItemCondition]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Offer_Item_Condition/Used_Condition|Used_Condition]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 Indicates that the item is used.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

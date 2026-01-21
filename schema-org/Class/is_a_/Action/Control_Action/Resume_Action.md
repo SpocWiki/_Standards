@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Action/Control_Action/Resume_Action.secret|Resume_Action.secret]]"
 dv_has_:
   properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
-dv_is_sub_class_of: "[[../ControlAction]]"
+dv_has_parent_class: "[[../ControlAction]]"
 dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Action/Control_Action/Resume_Action|Resume_Action]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 The act of resuming a device or application which was formerly paused (e.g. resume music playback or resume a timer).
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

@@ -72,7 +72,7 @@ Commons_category: Public health
 
 # [[Public_Health]] 
 
-#is_/sub_class_of :: [[../MedicalBusiness, MedicalSpecialty]]  
+#has_/parent_class :: [[../MedicalBusiness, MedicalSpecialty]]  
 
 #is_/enum_of :: [[../MedicalSpecialty]]  
 

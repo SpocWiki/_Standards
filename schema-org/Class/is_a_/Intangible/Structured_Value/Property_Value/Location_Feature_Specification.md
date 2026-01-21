@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value/Location_Feature_Specification.secret|Location_Feature_Specification.secret]]"
 dv_has_:
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, hoursAvailable, identifier, image, mainEntityOfPage, maxValue, measurementTechnique, minValue, name, potentialAction, propertyID, sameAs, subjectOf, unitCode, unitText, url, validFrom, validThrough, value, valueReference ]"
-dv_is_sub_class_of: "[[../PropertyValue]]"
+dv_has_parent_class: "[[../PropertyValue]]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, hoursAvailable, identifier, image, mainEntityOfPage, maxValue, measurementTechnique, minValue, name, potentialAction, propertyID, sameAs, subjectOf, unitCode, unitText, url, validFrom, validThrough, value, valueReference ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value/Location_Feature_Specification|Location_Feature_Specification]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 Specifies a location feature by providing a structured value representing a feature of an accommodation as a property-value pair of varying degrees of formality.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

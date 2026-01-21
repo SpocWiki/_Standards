@@ -38,8 +38,8 @@ dv_has_:
   sub_classes: "[ MonetaryGrant ]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, fundedItem, funder, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, sponsor, subjectOf, url ]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../Intangible]]"
-dv_has_sub_classes: "[ MonetaryGrant ]"
+dv_has_parent_class: "[[../Intangible]]"
+dv_has_child_classes: "[ MonetaryGrant ]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, fundedItem, funder, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, sponsor, subjectOf, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Grant|Grant]]"
@@ -65,9 +65,9 @@ Grants support  activities directed towards some agreed collective goals, often 
 
 The amount of a [[Grant]] is represented using [[amount]] as a [[MonetaryAmount]].
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
-has_sub_classes = `=this.dv_has_sub_classes` 
+has_child_classes = `=this.dv_has_child_classes` 
 
 has_properties = `=this.dv_has_properties` 
 

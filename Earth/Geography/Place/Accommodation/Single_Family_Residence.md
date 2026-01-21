@@ -38,7 +38,7 @@ dv_is_:
     - "[[/_private/Earth/Geography/Place/Accommodation/Single_Family_Residence.private|Single_Family_Residence.private]]"
     - "[[/_personal/Earth/Geography/Place/Accommodation/Single_Family_Residence.personal|Single_Family_Residence.personal]]"
     - "[[/_secret/Earth/Geography/Place/Accommodation/Single_Family_Residence.secret|Single_Family_Residence.secret]]"
-dv_is_sub_class_of: "[[../../../../Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House]]"
+dv_has_parent_class: "[[../../../../Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House]]"
 dv_has_properties: "[ accommodationCategory, accommodationFloorPlan, additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, floorLevel, floorSize, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, leaseLength, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, numberOfBathroomsTotal, numberOfBedrooms, numberOfFullBathrooms, numberOfPartialBathrooms, numberOfRooms, occupancy, openingHoursSpecification, permittedUsage, petsAllowed, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url, yearBuilt ]"
 dv_is_same_as:
   - "[[/_Standards/Earth/Geography/Place/Accommodation/Single_Family_Residence|Single_Family_Residence]]"
@@ -57,7 +57,7 @@ Tag Instances like this:
 
 Residence type: Single-family home.
 
-is_sub_class_of = `=this.dv_is_sub_class_of`] ]
+has_parent_class = `=this.dv_has_parent_class`] ]
 
 has_properties = `=this.dv_has_properties` ]
 

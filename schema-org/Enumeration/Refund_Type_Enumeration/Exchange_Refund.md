@@ -39,7 +39,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Refund_Type_Enumeration/Exchange_Refund.personal|Exchange_Refund.personal]]"
     - "[[/_secret/schema-org/Enumeration/Refund_Type_Enumeration/Exchange_Refund.secret|Exchange_Refund.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../RefundTypeEnumeration]]"
+dv_has_parent_class: "[[../RefundTypeEnumeration]]"
 dv_is_enum_of: "[[../RefundTypeEnumeration]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Refund_Type_Enumeration/Exchange_Refund|Exchange_Refund]]"
@@ -60,7 +60,7 @@ is_part_of = `=this.dv_is_part_of`
 
 Specifies that a refund can be done as an exchange for the same product.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

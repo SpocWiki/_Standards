@@ -42,7 +42,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.personal|Satire_or_Parody_Content.personal]]"
     - "[[/_secret/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.secret|Satire_or_Parody_Content.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../Media_Manipulation_Rating_Enumeration]]"
+dv_has_parent_class: "[[../Media_Manipulation_Rating_Enumeration]]"
 dv_is_enum_of: "[[../Media_Manipulation_Rating_Enumeration]]"
 dv_is_same_as:
   - "[[../../../WikiData/WD~Satire,128758|WD~Satire,128758]]"
@@ -66,7 +66,7 @@ is_part_of = `=this.dv_is_part_of`
 
 Content coded 'satire or parody content' in a [[MediaReview]], considered in the context of how it was published or shared.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

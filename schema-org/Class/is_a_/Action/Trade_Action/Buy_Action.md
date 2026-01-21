@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Action/Trade_Action/Buy_Action.secret|Buy_Action.secret]]"
 dv_has_:
   properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, price, priceCurrency, priceSpecification, provider, result, sameAs, seller, startTime, subjectOf, target, url, vendor, warrantyPromise ]"
-dv_is_sub_class_of: "[[../TradeAction]]"
+dv_has_parent_class: "[[../TradeAction]]"
 dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, price, priceCurrency, priceSpecification, provider, result, sameAs, seller, startTime, subjectOf, target, url, vendor, warrantyPromise ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Action/Trade_Action/Buy_Action|Buy_Action]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 The act of giving money to a seller in exchange for goods or services rendered. An agent buys an object, product, or service from a seller for a price. Reciprocal of SellAction.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

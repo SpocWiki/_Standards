@@ -36,7 +36,7 @@ dv_is_:
     - "[[/_secret/schema-org/Collection/list_item/how_to_item/how_to_supply.secret|how_to_supply.secret]]"
 dv_has_:
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, estimatedCost, identifier, image, item, mainEntityOfPage, name, nextItem, position, potentialAction, previousItem, requiredQuantity, sameAs, subjectOf, url ]"
-dv_is_sub_class_of: "[[../HowToItem]]"
+dv_has_parent_class: "[[../HowToItem]]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, estimatedCost, identifier, image, item, mainEntityOfPage, name, nextItem, position, potentialAction, previousItem, requiredQuantity, sameAs, subjectOf, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Collection/list_item/how_to_item/how_to_supply|how_to_supply]]"
@@ -55,7 +55,7 @@ Tag Instances like this:
 
 A supply consumed when performing the instructions for how to achieve a result.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

@@ -39,7 +39,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Uk_Trust.personal|Uk_Trust.personal]]"
     - "[[/_secret/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Uk_Trust.secret|Uk_Trust.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../UKNonprofitType]]"
+dv_has_parent_class: "[[../UKNonprofitType]]"
 dv_is_enum_of: "[[../UKNonprofitType]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Uk_Trust|Uk_Trust]]"
@@ -60,7 +60,7 @@ is_part_of = `=this.dv_is_part_of`
 
 UKTrust: Non-profit type referring to a UK trust.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

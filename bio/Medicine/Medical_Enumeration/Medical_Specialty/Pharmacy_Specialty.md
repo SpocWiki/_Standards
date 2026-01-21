@@ -35,7 +35,7 @@ Tag Instances like this:
 
 The practice or art and science of preparing and dispensing drugs and medicines.
 
-#is_/sub_class_of :: [[../MedicalSpecialty]]  
+#has_/parent_class :: [[../MedicalSpecialty]]  
 
 #is_/enum_of :: [[../MedicalSpecialty]]  
 

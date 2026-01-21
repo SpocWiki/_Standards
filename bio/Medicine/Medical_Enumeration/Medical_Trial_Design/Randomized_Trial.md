@@ -35,7 +35,7 @@ Tag Instances like this:
 
 A randomized trial design.
 
-#is_/sub_class_of :: [[../MedicalTrialDesign]]  
+#has_/parent_class :: [[../MedicalTrialDesign]]  
 
 #is_/enum_of :: [[../MedicalTrialDesign]]  
 

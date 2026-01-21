@@ -34,7 +34,7 @@ Tag Instances like this:
 
 A medical test performed by a laboratory that typically involves examination of a tissue sample by a pathologist.
 
-#is_/sub_class_of :: [[../MedicalTest]]  
+#has_/parent_class :: [[../MedicalTest]]  
 
 #has_/properties :: [ additionalType, affectedBy, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, normalRange, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, signDetected, study, subjectOf, tissueSample, url, usedToDiagnose, usesDevice ]  
 

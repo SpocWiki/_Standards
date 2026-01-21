@@ -36,7 +36,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Item_Availability.private|Item_Availability.private]]"
     - "[[/_personal/schema-org/Enumeration/Item_Availability.personal|Item_Availability.personal]]"
     - "[[/_secret/schema-org/Enumeration/Item_Availability.secret|Item_Availability.secret]]"
-dv_is_sub_class_of: "[[../Enumeration]]"
+dv_has_parent_class: "[[../Enumeration]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Item_Availability|Item_Availability]]"
   - "[[/_public/schema-org/Enumeration/Item_Availability.public|Item_Availability.public]]"
@@ -64,7 +64,7 @@ A list of possible product availability options:
 - [[Item_Availability/Pre_Sale|pre-sale]]
 - [[Item_Availability/Sold_Out|is_sold_out]]
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 ## Confidential Links & Embeds: 
 

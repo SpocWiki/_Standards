@@ -328,7 +328,7 @@ There are ca. 13e3 Properties defined; these are the 100 [most frequent Properti
 | Property Label                                   |                                   | ID    | Data Type       | Typ | # /M |
 | ------------------------------------------------ | --------------------------------- | ----- | --------------- | --- | ---: |
 | instance of                                      | #is_/instance_of                  | P31   | WikibaseItem    | sem | 1250 |
-| subclass of                                      | #is_/sub_class_of                 | P279  | WikibaseItem    | sem |  410 |
+| subclass of                                      | #has_/parent_class                 | P279  | WikibaseItem    | sem |  410 |
 | image                                            | #has_/image                       | P18   | CommonsMedia    | ref |  380 |
 | coordinate location                              | #has_/location                    | P625  | GlobeCoordinate | sem |  300 |
 | country                                          | #geo/Country                      | P17   | WikibaseItem    | sem |  270 |

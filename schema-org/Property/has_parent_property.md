@@ -6,7 +6,7 @@ aliases:
   - subproperty-of
   - subproperty_of
   - sub_property_of
-  - is_sub_property_of
+  - is_child_property_of
   - subPropertyOf
   - has_parent_property
   - is_a_kind_of
@@ -52,7 +52,7 @@ dv_is_:
     - "[[/_secret/schema-org/Property/has_parent_property.secret|has_parent_property.secret]]"
 dv_has_parent_property: "[[../Property]]"
 dv_has_:
-  inverse: "[[has_sub_properties]]"
+  inverse: "[[has_child_properties]]"
   domain: "[[../Property]]"
   name: "[[has_parent_property]]"
   range: "[[../Property]]"
@@ -60,7 +60,7 @@ dv_has_domain: "[[../Property]]"
 dv_has_name: "[[has_parent_property]]"
 dv_has_range: "[[../Property]]"
 dv_is_similar_to: "[[../../W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdfs~subPropertyOf|rdfs~subPropertyOf]]"
-dv_has_inverse: "[[has_sub_properties]]"
+dv_has_inverse: "[[has_child_properties]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_parent_property|has_parent_property]]"
   - "[[/_public/schema-org/Property/has_parent_property.public|has_parent_property.public]]"

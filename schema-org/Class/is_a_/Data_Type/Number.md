@@ -71,7 +71,7 @@ dv_is_:
     - "[[/_private/schema-org/Class/is_a_/Data_Type/Number.private|Number.private]]"
     - "[[/_personal/schema-org/Class/is_a_/Data_Type/Number.personal|Number.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Data_Type/Number.secret|Number.secret]]"
-dv_has_sub_classes: "[ Float, Integer ]"
+dv_has_child_classes: "[ Float, Integer ]"
 dv_is_same_as:
   - "[[../../../../WikiData/WD~Number,11563|WD~Number,11563]]"
   - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Number|Number]]"
@@ -99,7 +99,7 @@ Usage guidelines:
 <li>Use '.' (Unicode 'FULL STOP' (U+002E)) rather than ',' to indicate a decimal point. Avoid using these symbols as a readability separator.</li>
 </ul>
 
-has_sub_classes = `=this.dv_has_sub_classes` 
+has_child_classes = `=this.dv_has_child_classes` 
 
 #is_/same_as :: [[../../../../WikiData/WD~Number,11563|WD~Number,11563]] 
 

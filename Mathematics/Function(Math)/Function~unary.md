@@ -19,7 +19,7 @@ opposite_of: "[[_Standards/WikiData/WD~multivariate_function,78081419]]"
 # [[Function~unary]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~unary_function,7882311]] 
-#is_/sub_class_of :: [[../../schema-org/Relation/Binary_Relation|Binary_Relation]]  
+#has_/parent_class :: [[../../schema-org/Relation/Binary_Relation|Binary_Relation]]  
 
 ## #has_/text_of_/abstract 
 

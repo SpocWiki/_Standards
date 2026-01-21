@@ -45,7 +45,7 @@ Predicated describes that:
 (has_/name :: has_text_of_description )
 (has_/range :: Text )
 
-#has_/sub_properties :: [ disambiguatingDescription, interpretedAsClaim, originalMediaContextDescription, sha256 ]  
+#has_/child_properties :: [ disambiguatingDescription, interpretedAsClaim, originalMediaContextDescription, sha256 ]  
 
 #has_/inverse :: [[is_describing]] 
 

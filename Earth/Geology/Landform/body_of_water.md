@@ -36,7 +36,7 @@ dv_is_:
     - "[[/_private/Earth/Geology/Landform/body_of_water.private|body_of_water.private]]"
     - "[[/_personal/Earth/Geology/Landform/body_of_water.personal|body_of_water.personal]]"
     - "[[/_secret/Earth/Geology/Landform/body_of_water.secret|body_of_water.secret]]"
-dv_has_sub_classes: "[ Canal, LakeBodyOfWater, OceanBodyOfWater, Pond, Reservoir, RiverBodyOfWater, SeaBodyOfWater, Waterfall ]"
+dv_has_child_classes: "[ Canal, LakeBodyOfWater, OceanBodyOfWater, Pond, Reservoir, RiverBodyOfWater, SeaBodyOfWater, Waterfall ]"
 dv_has_properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
 dv_is_same_as:
   - "[[/_Standards/Earth/Geology/Landform/body_of_water|body_of_water]]"
@@ -55,9 +55,9 @@ Tag Instances like this:
 
 A body of water, such as a sea, ocean, or lake.
 
-#is_/sub_class_of [[../Landform]]]  
+#has_/parent_class [[../Landform]]]  
 
-has_sub_classes = `=this.dv_has_sub_classes` ]
+has_child_classes = `=this.dv_has_child_classes` ]
 
 has_properties = `=this.dv_has_properties` ]
 

@@ -33,7 +33,7 @@ Tag Instances like this:
 
 A specific branch of medical science that pertains to the health care of women, particularly in the diagnosis and treatment of disorders affecting the female reproductive system.
 
-#is_/sub_class_of :: [[../MedicalBusiness, MedicalSpecialty]]  
+#has_/parent_class :: [[../MedicalBusiness, MedicalSpecialty]]  
 
 #is_/enum_of :: [[../MedicalSpecialty]]  
 

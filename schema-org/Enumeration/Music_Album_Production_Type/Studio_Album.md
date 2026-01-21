@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Music_Album_Production_Type/Studio_Album.private|Studio_Album.private]]"
     - "[[/_personal/schema-org/Enumeration/Music_Album_Production_Type/Studio_Album.personal|Studio_Album.personal]]"
     - "[[/_secret/schema-org/Enumeration/Music_Album_Production_Type/Studio_Album.secret|Studio_Album.secret]]"
-dv_is_sub_class_of: "[[../MusicAlbumProductionType]]"
+dv_has_parent_class: "[[../MusicAlbumProductionType]]"
 dv_is_enum_of: "[[../MusicAlbumProductionType]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Music_Album_Production_Type/Studio_Album|Studio_Album]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 StudioAlbum.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Endorse_Action.secret|Endorse_Action.secret]]"
 dv_has_:
   properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, endorsee, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
-dv_is_sub_class_of: "[[../ReactAction]]"
+dv_has_parent_class: "[[../ReactAction]]"
 dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, endorsee, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Endorse_Action|Endorse_Action]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 An agent approves/certifies/likes/supports/sanctions an object.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

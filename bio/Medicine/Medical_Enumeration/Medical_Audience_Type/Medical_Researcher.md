@@ -36,7 +36,7 @@ Tag Instances like this:
 
 Medical researchers.
 
-#is_/sub_class_of :: [[../MedicalAudienceType]]  
+#has_/parent_class :: [[../MedicalAudienceType]]  
 
 #is_/enum_of :: [[../MedicalAudienceType]]  
 

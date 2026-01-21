@@ -39,7 +39,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Adult_Oriented_Enumeration/Sexual_Content_Consideration.personal|Sexual_Content_Consideration.personal]]"
     - "[[/_secret/schema-org/Enumeration/Adult_Oriented_Enumeration/Sexual_Content_Consideration.secret|Sexual_Content_Consideration.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../AdultOrientedEnumeration]]"
+dv_has_parent_class: "[[../AdultOrientedEnumeration]]"
 dv_is_enum_of: "[[../AdultOrientedEnumeration]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Adult_Oriented_Enumeration/Sexual_Content_Consideration|Sexual_Content_Consideration]]"
@@ -60,7 +60,7 @@ is_part_of = `=this.dv_is_part_of`
 
 The item contains sexually oriented content such as nudity, suggestive or explicit material, or related online services, or is intended to enhance sexual activity. Examples: Erotic videos or magazine, sexual enhancement devices, sex toys.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

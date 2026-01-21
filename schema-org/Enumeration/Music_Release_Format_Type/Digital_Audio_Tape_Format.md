@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Music_Release_Format_Type/Digital_Audio_Tape_Format.private|Digital_Audio_Tape_Format.private]]"
     - "[[/_personal/schema-org/Enumeration/Music_Release_Format_Type/Digital_Audio_Tape_Format.personal|Digital_Audio_Tape_Format.personal]]"
     - "[[/_secret/schema-org/Enumeration/Music_Release_Format_Type/Digital_Audio_Tape_Format.secret|Digital_Audio_Tape_Format.secret]]"
-dv_is_sub_class_of: "[[../MusicReleaseFormatType]]"
+dv_has_parent_class: "[[../MusicReleaseFormatType]]"
 dv_is_enum_of: "[[../MusicReleaseFormatType]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Music_Release_Format_Type/Digital_Audio_Tape_Format|Digital_Audio_Tape_Format]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 DigitalAudioTapeFormat.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

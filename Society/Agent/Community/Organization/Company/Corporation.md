@@ -23,7 +23,7 @@ tags:
   - schema-org/Class
 title: is_a_corporation Class
 type: Type
-dv_#is_/sub_class_of:
+dv_#has_/parent_class:
   - path: _Standards/Society/Agent/Organization.md
     embed: false
     type: file
@@ -53,7 +53,7 @@ dv_is_/same_as:
   - '[Corporation.private](/_private/Society/Organization/Corporation.private.md)'
   - '[Corporation.personal](/_personal/Society/Organization/Corporation.personal.md)'
   - '[Corporation.secret](/_secret/Society/Organization/Corporation.secret.md)'
-dv_is_sub_class_of:
+dv_has_parent_class:
   - path: _Standards/Society/Agent/Organization.md
     embed: false
     type: file
@@ -87,9 +87,9 @@ dv_is_same_as:
 
 # [[Corporation]] 
 
-#is_/sub_class_of :: [[../../Organization]]  
+#has_/parent_class :: [[../../Organization]]  
 
-#is_/sub_class_of :: [[../../../../../../Knowledge/Business/Business-Entity|Business-Entity]]  
+#has_/parent_class :: [[../../../../../../Knowledge/Business/Business-Entity|Business-Entity]]  
 
 #has_/characteristics :: Separate legal entity owned by [[Shareholder]]s 
 #has_/legal_status :: [[Owner]] 

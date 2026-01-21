@@ -34,7 +34,7 @@ Tag Instances like this:
 
 Any collection of tests commonly ordered together.
 
-#is_/sub_class_of :: [[../MedicalTest]]  
+#has_/parent_class :: [[../MedicalTest]]  
 
 #has_/properties :: [ additionalType, affectedBy, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, normalRange, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, signDetected, study, subTest, subjectOf, url, usedToDiagnose, usesDevice ]  
 

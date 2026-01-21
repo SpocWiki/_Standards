@@ -38,8 +38,8 @@ dv_is_:
 dv_has_:
   sub_classes: "[ LocationFeatureSpecification ]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, maxValue, measurementTechnique, minValue, name, potentialAction, propertyID, sameAs, subjectOf, unitCode, unitText, url, value, valueReference ]"
-dv_is_sub_class_of: "[[../StructuredValue]]"
-dv_has_sub_classes: "[ LocationFeatureSpecification ]"
+dv_has_parent_class: "[[../StructuredValue]]"
+dv_has_child_classes: "[ LocationFeatureSpecification ]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, maxValue, measurementTechnique, minValue, name, potentialAction, propertyID, sameAs, subjectOf, unitCode, unitText, url, value, valueReference ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value|Property_Value]]"
@@ -60,9 +60,9 @@ A property-value pair, e.g. representing a feature of a product or place. Use th
 
 Always use specific schema.org properties when a) they exist and b) you can populate them. Using PropertyValue as a substitute will typically not trigger the same effect as using the original, specific property.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
-has_sub_classes = `=this.dv_has_sub_classes` 
+has_child_classes = `=this.dv_has_child_classes` 
 
 has_properties = `=this.dv_has_properties` 
 

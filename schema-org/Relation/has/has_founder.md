@@ -34,7 +34,7 @@ Use it like this:
 - #has_/founder :: Person  
 - [ has_founder :: Person ] 
 
-#is_/sub_relation_of :: [[has_creator]]
+#is_/child_relation_of :: [[has_creator]]
 
 Relation describes that:  
 

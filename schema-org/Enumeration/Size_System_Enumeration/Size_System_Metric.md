@@ -39,7 +39,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Size_System_Enumeration/Size_System_Metric.personal|Size_System_Metric.personal]]"
     - "[[/_secret/schema-org/Enumeration/Size_System_Enumeration/Size_System_Metric.secret|Size_System_Metric.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../SizeSystemEnumeration]]"
+dv_has_parent_class: "[[../SizeSystemEnumeration]]"
 dv_is_enum_of: "[[../SizeSystemEnumeration]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Size_System_Enumeration/Size_System_Metric|Size_System_Metric]]"
@@ -60,7 +60,7 @@ is_part_of = `=this.dv_is_part_of`
 
 Metric size system.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

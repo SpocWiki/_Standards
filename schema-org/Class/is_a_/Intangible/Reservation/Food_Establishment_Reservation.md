@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Reservation/Food_Establishment_Reservation.secret|Food_Establishment_Reservation.secret]]"
 dv_has_:
   properties: "[ additionalType, alternateName, bookingAgent, bookingTime, broker, description, disambiguatingDescription, endTime, identifier, image, mainEntityOfPage, modifiedTime, name, partySize, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, startTime, subjectOf, totalPrice, underName, url ]"
-dv_is_sub_class_of: "[[../Reservation]]"
+dv_has_parent_class: "[[../Reservation]]"
 dv_has_properties: "[ additionalType, alternateName, bookingAgent, bookingTime, broker, description, disambiguatingDescription, endTime, identifier, image, mainEntityOfPage, modifiedTime, name, partySize, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, startTime, subjectOf, totalPrice, underName, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Reservation/Food_Establishment_Reservation|Food_Establishment_Reservation]]"
@@ -58,7 +58,7 @@ A reservation to dine at a food-related business.
 
 Note: This type is for information about actual reservations, e.g. in confirmation emails or HTML pages with individual confirmations of reservations.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

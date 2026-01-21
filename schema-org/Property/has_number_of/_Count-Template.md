@@ -53,7 +53,7 @@ Predicate describes that:
 
 #has_/parent_/property  :: {{subPropertyOf}}  
 
-#has_/sub_properties :: [ {{subproperties}} ]  
+#has_/child_properties :: [ {{subproperties}} ]  
 
 ## Confidential Links & Embeds: 
 

@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Audience/People_Audience/Parent_Audience.secret|Parent_Audience.secret]]"
 dv_has_:
   properties: "[ additionalType, alternateName, audienceType, childMaxAge, childMinAge, description, disambiguatingDescription, geographicArea, healthCondition, identifier, image, mainEntityOfPage, name, potentialAction, requiredGender, requiredMaxAge, requiredMinAge, sameAs, subjectOf, suggestedAge, suggestedGender, suggestedMaxAge, suggestedMeasurement, suggestedMinAge, url ]"
-dv_is_sub_class_of: "[[../PeopleAudience]]"
+dv_has_parent_class: "[[../PeopleAudience]]"
 dv_has_properties: "[ additionalType, alternateName, audienceType, childMaxAge, childMinAge, description, disambiguatingDescription, geographicArea, healthCondition, identifier, image, mainEntityOfPage, name, potentialAction, requiredGender, requiredMaxAge, requiredMinAge, sameAs, subjectOf, suggestedAge, suggestedGender, suggestedMaxAge, suggestedMeasurement, suggestedMinAge, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Audience/People_Audience/Parent_Audience|Parent_Audience]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 A set of characteristics describing parents, who can be interested in viewing some content.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

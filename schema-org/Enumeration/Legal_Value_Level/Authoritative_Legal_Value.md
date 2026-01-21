@@ -39,7 +39,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Legal_Value_Level/Authoritative_Legal_Value.personal|Authoritative_Legal_Value.personal]]"
     - "[[/_secret/schema-org/Enumeration/Legal_Value_Level/Authoritative_Legal_Value.secret|Authoritative_Legal_Value.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../LegalValueLevel]]"
+dv_has_parent_class: "[[../LegalValueLevel]]"
 dv_is_enum_of: "[[../LegalValueLevel]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Legal_Value_Level/Authoritative_Legal_Value|Authoritative_Legal_Value]]"
@@ -60,7 +60,7 @@ is_part_of = `=this.dv_is_part_of`
 
 Indicates that the publisher gives some special status to the publication of the document. ("The Queens Printer" version of a UK Act of Parliament, or the PDF version of a Directive published by the EU Office of Publications.) Something "Authoritative" is considered to be also [[OfficialLegalValue]].
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

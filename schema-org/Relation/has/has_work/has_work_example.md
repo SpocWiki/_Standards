@@ -34,7 +34,7 @@ E.g. the paperback edition, first edition, or e-book.
 Inverse Relation of [[../../is/is_example_of_work]]. 
 
 Usually to express [[../../../Class/is_instance_of|is_instance_of]], 
-but also used to express the [[../../../Class/is_sub_class_of|is_subclass_of]] Relation. 
+but also used to express the [[../../../Class/has_parent_class|has_parent_class]] Relation. 
 
 Enumerating Examples is rarely exact or exhaustive, but very helpful for Humans to illustrate a Concept with already known Instances. 
 
@@ -53,7 +53,7 @@ Relation describes that:
 
 #has_/inverse  :: exampleOfWork  
 
-#has_/sub_properties :: [ appearance, firstAppearance ]  
+#has_/child_properties :: [ appearance, firstAppearance ]  
 
 ## Confidential Links & Embeds: 
 

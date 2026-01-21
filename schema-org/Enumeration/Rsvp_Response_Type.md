@@ -35,7 +35,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Rsvp_Response_Type.private|Rsvp_Response_Type.private]]"
     - "[[/_personal/schema-org/Enumeration/Rsvp_Response_Type.personal|Rsvp_Response_Type.personal]]"
     - "[[/_secret/schema-org/Enumeration/Rsvp_Response_Type.secret|Rsvp_Response_Type.secret]]"
-dv_is_sub_class_of: "[[../Enumeration]]"
+dv_has_parent_class: "[[../Enumeration]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Rsvp_Response_Type|Rsvp_Response_Type]]"
   - "[[/_public/schema-org/Enumeration/Rsvp_Response_Type.public|Rsvp_Response_Type.public]]"
@@ -53,7 +53,7 @@ Tag Instances like this:
 
 RsvpResponseType is an enumeration type whose instances represent responding to an RSVP request.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 ## Confidential Links & Embeds: 
 

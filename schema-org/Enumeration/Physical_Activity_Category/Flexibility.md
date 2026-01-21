@@ -35,7 +35,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Physical_Activity_Category/Flexibility.private|Flexibility.private]]"
     - "[[/_personal/schema-org/Enumeration/Physical_Activity_Category/Flexibility.personal|Flexibility.personal]]"
     - "[[/_secret/schema-org/Enumeration/Physical_Activity_Category/Flexibility.secret|Flexibility.secret]]"
-dv_is_sub_class_of: "[[../PhysicalActivityCategory]]"
+dv_has_parent_class: "[[../PhysicalActivityCategory]]"
 dv_is_enum_of: "[[../PhysicalActivityCategory]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Physical_Activity_Category/Flexibility|Flexibility]]"
@@ -54,7 +54,7 @@ Tag Instances like this:
 
 Physical activity that is engaged in to improve joint and muscle flexibility.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

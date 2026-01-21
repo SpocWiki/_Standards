@@ -35,7 +35,7 @@ Tag Instances like this:
 
 The conventional Western system of medicine, that aims to apply the best available evidence gained from the scientific method to clinical decision making. Also known as conventional or Western medicine.
 
-#is_/sub_class_of :: [[../MedicineSystem]]  
+#has_/parent_class :: [[../MedicineSystem]]  
 
 #is_/enum_of :: [[../MedicineSystem]]  
 

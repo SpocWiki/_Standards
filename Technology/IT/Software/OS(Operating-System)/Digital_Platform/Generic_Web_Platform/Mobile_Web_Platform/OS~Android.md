@@ -201,7 +201,7 @@ Tag Instances like this:
 
 Represents the broad notion of Android-based operating systems.
 
-#is_/sub_class_of :: [[../DigitalPlatformEnumeration]]  
+#has_/parent_class :: [[../DigitalPlatformEnumeration]]  
 
 #is_/enum_of :: [[../DigitalPlatformEnumeration]]  
 

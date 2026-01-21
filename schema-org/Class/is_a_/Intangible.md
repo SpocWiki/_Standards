@@ -37,8 +37,8 @@ dv_is_:
 dv_has_:
   sub_classes: "[ ActionAccessSpecification, AlignmentObject, Audience, BedDetails, Brand, BroadcastChannel, BroadcastFrequencySpecification, Class, ComputerLanguage, DataFeedItem, DefinedTerm, Demand, DigitalDocumentPermission, EducationalOccupationalProgram, EnergyConsumptionDetails, EntryPoint, Enumeration, FloorPlan, GameServer, GeospatialGeometry, Grant, HealthInsurancePlan, HealthPlanCostSharingSpecification, HealthPlanFormulary, HealthPlanNetwork, Invoice, ItemList, JobPosting, Language, ListItem, MediaSubscription, MenuItem, MerchantReturnPolicy, MerchantReturnPolicySeasonalOverride, Observation, Occupation, OccupationalExperienceRequirements, Offer, Order, OrderItem, ParcelDelivery, Permit, ProductReturnPolicy, ProgramMembership, Property, PropertyValueSpecification, Quantity, Rating, Reservation, Role, Schedule, Seat, Series, Service, ServiceChannel, SpeakableSpecification, StatisticalPopulation, StructuredValue, Ticket, Trip, VirtualLocation ]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
-dv_is_sub_class_of: "[[../Thing|Thing]]"
-dv_has_sub_classes: "[ ActionAccessSpecification, AlignmentObject, Audience, BedDetails, Brand, BroadcastChannel, BroadcastFrequencySpecification, Class, ComputerLanguage, DataFeedItem, DefinedTerm, Demand, DigitalDocumentPermission, EducationalOccupationalProgram, EnergyConsumptionDetails, EntryPoint, Enumeration, FloorPlan, GameServer, GeospatialGeometry, Grant, HealthInsurancePlan, HealthPlanCostSharingSpecification, HealthPlanFormulary, HealthPlanNetwork, Invoice, ItemList, JobPosting, Language, ListItem, MediaSubscription, MenuItem, MerchantReturnPolicy, MerchantReturnPolicySeasonalOverride, Observation, Occupation, OccupationalExperienceRequirements, Offer, Order, OrderItem, ParcelDelivery, Permit, ProductReturnPolicy, ProgramMembership, Property, PropertyValueSpecification, Quantity, Rating, Reservation, Role, Schedule, Seat, Series, Service, ServiceChannel, SpeakableSpecification, StatisticalPopulation, StructuredValue, Ticket, Trip, VirtualLocation ]"
+dv_has_parent_class: "[[../Thing|Thing]]"
+dv_has_child_classes: "[ ActionAccessSpecification, AlignmentObject, Audience, BedDetails, Brand, BroadcastChannel, BroadcastFrequencySpecification, Class, ComputerLanguage, DataFeedItem, DefinedTerm, Demand, DigitalDocumentPermission, EducationalOccupationalProgram, EnergyConsumptionDetails, EntryPoint, Enumeration, FloorPlan, GameServer, GeospatialGeometry, Grant, HealthInsurancePlan, HealthPlanCostSharingSpecification, HealthPlanFormulary, HealthPlanNetwork, Invoice, ItemList, JobPosting, Language, ListItem, MediaSubscription, MenuItem, MerchantReturnPolicy, MerchantReturnPolicySeasonalOverride, Observation, Occupation, OccupationalExperienceRequirements, Offer, Order, OrderItem, ParcelDelivery, Permit, ProductReturnPolicy, ProgramMembership, Property, PropertyValueSpecification, Quantity, Rating, Reservation, Role, Schedule, Seat, Series, Service, ServiceChannel, SpeakableSpecification, StatisticalPopulation, StructuredValue, Ticket, Trip, VirtualLocation ]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible|Intangible]]"
@@ -61,9 +61,9 @@ These Properties are added only by the Sibling Concepts of [[../../../Earth/Geog
 Tag Instances like this: 
 #is_an_/intangible
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
-has_sub_classes = `=this.dv_has_sub_classes` 
+has_child_classes = `=this.dv_has_child_classes` 
 
 has_properties = `=this.dv_has_properties` 
 

@@ -52,7 +52,7 @@ Class of all computer_languages.
 Tag Instances like this: 
 #is_a_/computer_language
 
-This type covers computer programming languages such as Scheme and Lisp, as well as other language-like computer representations. Natural languages are best represented with the[[language]]] [[../../../../Language]]_/sub_class_of :: [[../Intangible]] ]
+This type covers computer programming languages such as Scheme and Lisp, as well as other language-like computer representations. Natural languages are best represented with the[[language]]] [[../../../../Language]]_/child_class_of :: [[../Intangible]] ]
 
 has_properties = `=this.dv_has_properties` 
 

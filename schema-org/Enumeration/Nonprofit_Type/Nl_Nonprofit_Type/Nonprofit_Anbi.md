@@ -39,7 +39,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Anbi.personal|Nonprofit_Anbi.personal]]"
     - "[[/_secret/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Anbi.secret|Nonprofit_Anbi.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../NLNonprofitType]]"
+dv_has_parent_class: "[[../NLNonprofitType]]"
 dv_is_enum_of: "[[../NLNonprofitType]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Anbi|Nonprofit_Anbi]]"
@@ -60,7 +60,7 @@ is_part_of = `=this.dv_is_part_of`
 
 NonprofitANBI: Non-profit type referring to a Public Benefit Organization (NL).
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

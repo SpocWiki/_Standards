@@ -35,7 +35,7 @@ Tag Instances like this:
 
 X-ray computed tomography imaging.
 
-#is_/sub_class_of :: [[../MedicalImagingTechnique]]  
+#has_/parent_class :: [[../MedicalImagingTechnique]]  
 
 #is_/enum_of :: [[../MedicalImagingTechnique]]  
 

@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Game_Play_Mode/Co_Op.private|Co_Op.private]]"
     - "[[/_personal/schema-org/Enumeration/Game_Play_Mode/Co_Op.personal|Co_Op.personal]]"
     - "[[/_secret/schema-org/Enumeration/Game_Play_Mode/Co_Op.secret|Co_Op.secret]]"
-dv_is_sub_class_of: "[[../GamePlayMode]]"
+dv_has_parent_class: "[[../GamePlayMode]]"
 dv_is_enum_of: "[[../GamePlayMode]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Game_Play_Mode/Co_Op|Co_Op]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 Play mode: CoOp. Co-operative games, where you play on the same team with friends.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

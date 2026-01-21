@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Reservation/Lodging_Reservation.secret|Lodging_Reservation.secret]]"
 dv_has_:
   properties: "[ additionalType, alternateName, bookingAgent, bookingTime, broker, checkinTime, checkoutTime, description, disambiguatingDescription, identifier, image, lodgingUnitDescription, lodgingUnitType, mainEntityOfPage, modifiedTime, name, numAdults, numChildren, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, subjectOf, totalPrice, underName, url ]"
-dv_is_sub_class_of: "[[../Reservation]]"
+dv_has_parent_class: "[[../Reservation]]"
 dv_has_properties: "[ additionalType, alternateName, bookingAgent, bookingTime, broker, checkinTime, checkoutTime, description, disambiguatingDescription, identifier, image, lodgingUnitDescription, lodgingUnitType, mainEntityOfPage, modifiedTime, name, numAdults, numChildren, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, subjectOf, totalPrice, underName, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Reservation/Lodging_Reservation|Lodging_Reservation]]"
@@ -58,7 +58,7 @@ A reservation for lodging at a hotel, motel, inn, etc.
 
 Note: This type is for information about actual reservations, e.g. in confirmation emails or HTML pages with individual confirmations of reservations.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

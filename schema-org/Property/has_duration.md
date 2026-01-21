@@ -94,7 +94,7 @@ Formal Predicate:
 (has_/name::has_duration)
 (has_/range::[[../../Predicate/Quantity/Duration|Duration]])
 
-#has_/sub_properties :: [[has_duration/has_duration_of_loan|loanTerm]]  
+#has_/child_properties :: [[has_duration/has_duration_of_loan|loanTerm]]  
 
 
 ## Confidential Links & Embeds: 

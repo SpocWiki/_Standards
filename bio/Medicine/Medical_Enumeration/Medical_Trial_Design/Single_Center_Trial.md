@@ -35,7 +35,7 @@ Tag Instances like this:
 
 A trial that takes place at a single center.
 
-#is_/sub_class_of :: [[../MedicalTrialDesign]]  
+#has_/parent_class :: [[../MedicalTrialDesign]]  
 
 #is_/enum_of :: [[../MedicalTrialDesign]]  
 

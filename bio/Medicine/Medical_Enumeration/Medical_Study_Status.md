@@ -34,7 +34,7 @@ Tag Instances like this:
 
 The status of a medical study. Enumerated type.
 
-#is_/sub_class_of :: [[../MedicalEnumeration]]  
+#has_/parent_class :: [[../MedicalEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

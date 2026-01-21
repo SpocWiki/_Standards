@@ -3,7 +3,7 @@ aliases:
   - has sub-event
   - has child-event
   - subEvent
-  - has_sub_event
+  - has_child_event
   - has_child_event
   - has sub event
   - has child event

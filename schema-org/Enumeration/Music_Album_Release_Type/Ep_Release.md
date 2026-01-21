@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Music_Album_Release_Type/Ep_Release.private|Ep_Release.private]]"
     - "[[/_personal/schema-org/Enumeration/Music_Album_Release_Type/Ep_Release.personal|Ep_Release.personal]]"
     - "[[/_secret/schema-org/Enumeration/Music_Album_Release_Type/Ep_Release.secret|Ep_Release.secret]]"
-dv_is_sub_class_of: "[[../MusicAlbumReleaseType]]"
+dv_has_parent_class: "[[../MusicAlbumReleaseType]]"
 dv_is_enum_of: "[[../MusicAlbumReleaseType]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Music_Album_Release_Type/Ep_Release|Ep_Release]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 EPRelease.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

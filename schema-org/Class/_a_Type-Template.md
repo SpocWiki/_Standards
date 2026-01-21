@@ -49,9 +49,9 @@ dv_has_:
   sub_classes: "[ {{subTypes}} ]"
   properties: "[ {{properties}} ]"
 dv_is_part_of: "{{isPartOf}}"
-dv_is_sub_class_of: "[[../{{subTypeOf}}]]"
+dv_has_parent_class: "[[../{{subTypeOf}}]]"
 dv_is_enum_of: "[[../{{enumerationtype}}]]"
-dv_has_sub_classes: "[ {{subTypes}} ]"
+dv_has_child_classes: "[ {{subTypes}} ]"
 dv_has_properties: "[ {{properties}} ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/_a_Type-Template|_a_Type-Template]]"
@@ -72,11 +72,11 @@ is_part_of = `=this.dv_is_part_of`
 
 {{comment}}
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 
-has_sub_classes = `=this.dv_has_sub_classes` 
+has_child_classes = `=this.dv_has_child_classes` 
 
 has_properties = `=this.dv_has_properties` 
 

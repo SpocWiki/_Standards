@@ -33,7 +33,7 @@ type: Predi_Relation
 
 # [[has_parent]]
 
-#is_/sub_relation_of :: [[has_creator]] 
+#is_/child_relation_of :: [[has_creator]] 
 #has_/inverse :: [[has_child]] 
 #is_/same_as :: [[WD~P40]]
 

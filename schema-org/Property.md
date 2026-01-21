@@ -48,7 +48,7 @@ dv_is_:
 dv_has_:
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, domainIncludes, identifier, image, inverseOf, mainEntityOfPage, name, potentialAction, rangeIncludes, [[Relation/is_same_as|sameAs]], subjectOf, supersededBy, url ] ]"
 dv_is_part_of: https://meta.schema.org
-dv_is_sub_class_of: "[[Class/is_a_/Intangible]]"
+dv_has_parent_class: "[[Class/is_a_/Intangible]]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, domainIncludes, identifier, image, inverseOf, mainEntityOfPage, name, potentialAction, rangeIncludes, [[Relation/is_same_as|sameAs]], subjectOf, supersededBy, url ] ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property|Property]]"
@@ -87,7 +87,7 @@ is_part_of = `=this.dv_is_part_of`
 
 [Properties](../Property.md) are used to indicate attributes and relationships of some Thing; equivalent to rdf:Property.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

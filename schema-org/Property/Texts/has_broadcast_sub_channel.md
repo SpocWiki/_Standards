@@ -1,10 +1,10 @@
 ---
 aliases:
   - broadcast-sub-channel
-  - broadcast_sub_channel
+  - broadcast_child_channel
   - broadcastSubChannel
-  - has_text_of_broadcast_sub_channel
-  - has_broadcast_sub_channel
+  - has_text_of_broadcast_child_channel
+  - has_broadcast_child_channel
   - has broadcast sub channel
 confidential: public
 cssclasses:
@@ -20,13 +20,13 @@ keywords:
   - channel
 layout: ''
 license: CC BY-SA 4.0
-linkTitle: has_text_of_broadcast_sub_channel
+linkTitle: has_text_of_broadcast_child_channel
 publish: true
 publishDate: ''
 tags:
   - class/Property
   - schema-org/Property/Text
-title: has_text_of_broadcast_sub_channel
+title: has_text_of_broadcast_child_channel
 type: Pred_Text
 ---
 
@@ -35,8 +35,8 @@ Predicate to describe the Text of BroadcastFrequencySpecification.
 #is_/part_of :: pending:  
 
 Use it like this: 
-- #has_/text_of_/broadcast_sub_channel :: Text   
-- has_text_of_broadcast_sub_channel :: Text   
+- #has_/text_of_/broadcast_child_channel :: Text   
+- has_text_of_broadcast_child_channel :: Text   
 
 The subchannel used for the broadcast.
 
@@ -44,23 +44,23 @@ Predicated describes that:
 
 #has_/domain  :: BroadcastFrequencySpecification  
 
-(has_/name :: has_text_of_broadcast_sub_channel )
+(has_/name :: has_text_of_broadcast_child_channel )
 (has_/range :: Text )
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_broadcast_sub_channel|has_broadcast_sub_channel]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_broadcast_child_channel|has_broadcast_child_channel]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_broadcast_sub_channel.public|has_broadcast_sub_channel.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_broadcast_child_channel.public|has_broadcast_child_channel.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_broadcast_sub_channel.internal|has_broadcast_sub_channel.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_broadcast_child_channel.internal|has_broadcast_child_channel.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_broadcast_sub_channel.protect|has_broadcast_sub_channel.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_broadcast_child_channel.protect|has_broadcast_child_channel.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_broadcast_sub_channel.private|has_broadcast_sub_channel.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_broadcast_child_channel.private|has_broadcast_child_channel.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_broadcast_sub_channel.personal|has_broadcast_sub_channel.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_broadcast_child_channel.personal|has_broadcast_child_channel.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_broadcast_sub_channel.secret|has_broadcast_sub_channel.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_broadcast_child_channel.secret|has_broadcast_child_channel.secret]] 
 

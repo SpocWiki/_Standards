@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration.personal|Wearable_Size_Group_Enumeration.personal]]"
     - "[[/_secret/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration.secret|Wearable_Size_Group_Enumeration.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../SizeGroupEnumeration]]"
+dv_has_parent_class: "[[../SizeGroupEnumeration]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration|Wearable_Size_Group_Enumeration]]"
   - "[[/_public/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration.public|Wearable_Size_Group_Enumeration.public]]"
@@ -57,7 +57,7 @@ is_part_of = `=this.dv_is_part_of`
 
 Enumerates common size groups (also known as "size types") for wearable products.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 ## Confidential Links & Embeds: 
 

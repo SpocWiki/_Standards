@@ -39,7 +39,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Adult_Oriented_Enumeration/Dangerous_Good_Consideration.personal|Dangerous_Good_Consideration.personal]]"
     - "[[/_secret/schema-org/Enumeration/Adult_Oriented_Enumeration/Dangerous_Good_Consideration.secret|Dangerous_Good_Consideration.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../AdultOrientedEnumeration]]"
+dv_has_parent_class: "[[../AdultOrientedEnumeration]]"
 dv_is_enum_of: "[[../AdultOrientedEnumeration]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Adult_Oriented_Enumeration/Dangerous_Good_Consideration|Dangerous_Good_Consideration]]"
@@ -60,7 +60,7 @@ is_part_of = `=this.dv_is_part_of`
 
 The item is dangerous and requires careful handling and/or special training of the user. See also the <a href="https://unece.org/DAM/trans/danger/publi/unrec/rev17/English/02EREv17_Part2.pdf">UN Model Classification</a> defining the 9 classes of dangerous goods such as explosives, gases, flammables, and more.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

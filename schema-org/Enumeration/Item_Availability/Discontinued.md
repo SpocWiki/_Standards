@@ -35,7 +35,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Item_Availability/Discontinued.private|Discontinued.private]]"
     - "[[/_personal/schema-org/Enumeration/Item_Availability/Discontinued.personal|Discontinued.personal]]"
     - "[[/_secret/schema-org/Enumeration/Item_Availability/Discontinued.secret|Discontinued.secret]]"
-dv_is_sub_class_of: "[[../ItemAvailability]]"
+dv_has_parent_class: "[[../ItemAvailability]]"
 dv_is_enum_of: "[[../ItemAvailability]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Item_Availability/Discontinued|Discontinued]]"
@@ -54,7 +54,7 @@ Tag Instances like this:
 
 Indicates that the item has been discontinued.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

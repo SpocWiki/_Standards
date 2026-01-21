@@ -38,8 +38,8 @@ dv_is_:
 dv_has_:
   sub_classes: "[ EmployerAggregateRating ]"
   properties: "[ additionalType, alternateName, author, bestRating, description, disambiguatingDescription, identifier, image, itemReviewed, mainEntityOfPage, name, potentialAction, ratingCount, ratingExplanation, ratingValue, reviewAspect, reviewCount, sameAs, subjectOf, url, worstRating ]"
-dv_is_sub_class_of: "[[../Rating]]"
-dv_has_sub_classes: "[ EmployerAggregateRating ]"
+dv_has_parent_class: "[[../Rating]]"
+dv_has_child_classes: "[ EmployerAggregateRating ]"
 dv_has_properties: "[ additionalType, alternateName, author, bestRating, description, disambiguatingDescription, identifier, image, itemReviewed, mainEntityOfPage, name, potentialAction, ratingCount, ratingExplanation, ratingValue, reviewAspect, reviewCount, sameAs, subjectOf, url, worstRating ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating|Aggregate_Rating]]"
@@ -58,9 +58,9 @@ Tag Instances like this:
 
 The average rating based on multiple ratings or reviews.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
-has_sub_classes = `=this.dv_has_sub_classes` 
+has_child_classes = `=this.dv_has_child_classes` 
 
 has_properties = `=this.dv_has_properties` 
 

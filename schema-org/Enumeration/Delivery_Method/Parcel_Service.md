@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Delivery_Method/Parcel_Service.private|Parcel_Service.private]]"
     - "[[/_personal/schema-org/Enumeration/Delivery_Method/Parcel_Service.personal|Parcel_Service.personal]]"
     - "[[/_secret/schema-org/Enumeration/Delivery_Method/Parcel_Service.secret|Parcel_Service.secret]]"
-dv_is_sub_class_of: "[[../DeliveryMethod]]"
+dv_has_parent_class: "[[../DeliveryMethod]]"
 dv_is_enum_of: "[[../DeliveryMethod]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Delivery_Method/Parcel_Service|Parcel_Service]]"
@@ -64,7 +64,7 @@ Commonly used values:
 <li>http://purl.org/goodrelations/v1#UPS</li>
 </ul>
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

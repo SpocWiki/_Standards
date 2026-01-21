@@ -8,7 +8,7 @@ aliases:
 
 #is_/part_of :: [[Variance,OO]] 
 
-Function-__Results__ and out-Parameters [[../../../../../../../schema-org/Class/has_sub_classes|sub_classes]]]]] are co-variant, 
+Function-__Results__ and out-Parameters [[../../../../../../../schema-org/Relation/has/has_child/has_child_class|sub_classes]]]]] are co-variant, 
 i.e. they can be more specific without breaking the [[Liskov_Substitution-Principle]].  
 
 

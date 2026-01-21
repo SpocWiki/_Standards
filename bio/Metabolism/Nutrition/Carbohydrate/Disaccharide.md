@@ -5,8 +5,8 @@ aliases:
   - Disaccharide
 ---
 
-#is_/sub_class_of :: [[Oligosaccharide]] 
-#has_/sub_classes :: [[Monosaccharide]] 
+#has_/parent_class :: [[Oligosaccharide]] 
+#has_/child_classes :: [[Monosaccharide]] 
 #has_/instances :: [[Disaccharide/Lactose]] 
 #has_/instances :: [[Disaccharide/Maltose]] 
 #has_/instances :: [[Disaccharide/Sucrose]]  

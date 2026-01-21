@@ -34,7 +34,7 @@ dv_is_:
     - "[[/_private/schema-org/Class/is_a_/Data_Type/Text/Url.private|Url.private]]"
     - "[[/_personal/schema-org/Class/is_a_/Data_Type/Text/Url.personal|Url.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Data_Type/Text/Url.secret|Url.secret]]"
-dv_is_sub_class_of: "[[../Text]]"
+dv_has_parent_class: "[[../Text]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Text/Url|Url]]"
   - "[[/_public/schema-org/Class/is_a_/Data_Type/Text/Url.public|Url.public]]"
@@ -144,7 +144,7 @@ Tag Instances like this:
 
 Data type: URL.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 ## Confidential Links & Embeds: 
 

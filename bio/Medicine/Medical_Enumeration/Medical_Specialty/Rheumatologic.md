@@ -33,7 +33,7 @@ Tag Instances like this:
 
 A specific branch of medical science that deals with the study and treatment of rheumatic, autoimmune or joint diseases.
 
-#is_/sub_class_of :: [[../MedicalSpecialty]]  
+#has_/parent_class :: [[../MedicalSpecialty]]  
 
 #is_/enum_of :: [[../MedicalSpecialty]]  
 

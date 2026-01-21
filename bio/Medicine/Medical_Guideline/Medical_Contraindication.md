@@ -34,7 +34,7 @@ Tag Instances like this:
 
 A guideline contraindication that designates a process as harmful and where quality of the data supporting the contraindication is sound.
 
-#is_/sub_class_of :: [[../MedicalGuideline]]  
+#has_/parent_class :: [[../MedicalGuideline]]  
 
 #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, evidenceLevel, evidenceOrigin, funding, guideline, guidelineDate, guidelineSubject, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ]  
 

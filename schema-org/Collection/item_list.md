@@ -37,8 +37,8 @@ dv_is_:
 dv_has_:
   sub_classes: "[ BreadcrumbList, HowToSection, HowToStep, OfferCatalog ]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, itemListElement, itemListOrder, mainEntityOfPage, name, numberOfItems, potentialAction, sameAs, subjectOf, url ]"
-dv_is_sub_class_of: "[[../Class/is_a_/Intangible]]]"
-dv_has_sub_classes: "[ BreadcrumbList, HowToSection, HowToStep, OfferCatalog ]"
+dv_has_parent_class: "[[../Class/is_a_/Intangible]]]"
+dv_has_child_classes: "[ BreadcrumbList, HowToSection, HowToStep, OfferCatalog ]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, itemListElement, itemListOrder, mainEntityOfPage, name, numberOfItems, potentialAction, sameAs, subjectOf, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Collection/item_list|item_list]]"
@@ -58,18 +58,18 @@ Tag Instances like this:
 
 A list of items of any sort — for example, Top 10 Movies About Weathermen, or Top 100 Party Songs. Not to be confused with HTML lists, which are often used only for formatting.
 
-[[../Class/is_sub_class_of|is_subclass_of]] 
+[[../Class/has_parent_class|has_parent_class]] 
 [[has_sub classe]]
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
-has_sub_classes = `=this.dv_has_sub_classes` 
+has_child_classes = `=this.dv_has_child_classes` 
 
 has_properties = `=this.dv_has_properties` 
 
 [[has_properties]] 
 [[is_property_of]] 
-[[has_sub_properties]] 
+[[has_child_properties]] 
 [[../Property/has_parent_property]] 
 
 

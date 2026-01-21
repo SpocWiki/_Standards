@@ -37,8 +37,8 @@ dv_is_:
 dv_has_:
   sub_classes: "[ HowToDirection, HowToItem, HowToSection, HowToStep, HowToTip ]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, item, mainEntityOfPage, name, nextItem, position, potentialAction, previousItem, sameAs, subjectOf, url ]"
-dv_is_sub_class_of: "[[../Class/is_a_/Intangible]]]"
-dv_has_sub_classes: "[ HowToDirection, HowToItem, HowToSection, HowToStep, HowToTip ]"
+dv_has_parent_class: "[[../Class/is_a_/Intangible]]]"
+dv_has_child_classes: "[ HowToDirection, HowToItem, HowToSection, HowToStep, HowToTip ]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, item, mainEntityOfPage, name, nextItem, position, potentialAction, previousItem, sameAs, subjectOf, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Collection/list_item|list_item]]"
@@ -57,9 +57,9 @@ Tag Instances like this:
 
 An list item, e.g. a step in a checklist or how-to description.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
-has_sub_classes = `=this.dv_has_sub_classes` 
+has_child_classes = `=this.dv_has_child_classes` 
 
 has_properties = `=this.dv_has_properties` 
 

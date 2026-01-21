@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Pickup_Available.private|Order_Pickup_Available.private]]"
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Pickup_Available.personal|Order_Pickup_Available.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Pickup_Available.secret|Order_Pickup_Available.secret]]"
-dv_is_sub_class_of: "[[../OrderStatus]]"
+dv_has_parent_class: "[[../OrderStatus]]"
 dv_is_enum_of: "[[../OrderStatus]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Pickup_Available|Order_Pickup_Available]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 OrderStatus representing availability of an order for pickup.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

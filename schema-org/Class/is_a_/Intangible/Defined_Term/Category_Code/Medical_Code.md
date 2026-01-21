@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code/Medical_Code.secret|Medical_Code.secret]]"
 dv_has_:
   properties: "[ additionalType, alternateName, code, codeValue, codingSystem, description, disambiguatingDescription, funding, guideline, identifier, image, inCodeSet, inDefinedTermSet, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, termCode, url ]"
-dv_is_sub_class_of: "[[../CategoryCode, MedicalIntangible]]"
+dv_has_parent_class: "[[../CategoryCode, MedicalIntangible]]"
 dv_has_properties: "[ additionalType, alternateName, code, codeValue, codingSystem, description, disambiguatingDescription, funding, guideline, identifier, image, inCodeSet, inDefinedTermSet, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, termCode, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code/Medical_Code|Medical_Code]]"
@@ -54,7 +54,7 @@ Class of all medical_codes.
 Tag Instances like this: 
 #is_a_/medical_code
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

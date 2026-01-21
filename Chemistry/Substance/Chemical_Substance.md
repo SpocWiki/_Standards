@@ -75,7 +75,7 @@ dv_is_:
 dv_has_:
   properties: "[ additionalType, alternateName, associatedDisease, bioChemInteraction, bioChemSimilarity, biologicalRole, chemicalComposition, chemicalRole, description, disambiguatingDescription, funding, hasBioChemEntityPart, hasMolecularFunction, hasRepresentation, identifier, image, isEncodedByBioChemEntity, isInvolvedInBiologicalProcess, isLocatedInSubcellularLocation, isPartOfBioChemEntity, mainEntityOfPage, name, potentialAction, potentialUse, sameAs, subjectOf, taxonomicRange, url ]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../../schema-org/Class/is_a_/Bio_Chem_Entity|bio_chem_entity]]"
+dv_has_parent_class: "[[../../schema-org/Class/is_a_/Bio_Chem_Entity|bio_chem_entity]]"
 dv_has_properties: "[ additionalType, alternateName, associatedDisease, bioChemInteraction, bioChemSimilarity, biologicalRole, chemicalComposition, chemicalRole, description, disambiguatingDescription, funding, hasBioChemEntityPart, hasMolecularFunction, hasRepresentation, identifier, image, isEncodedByBioChemEntity, isInvolvedInBiologicalProcess, isLocatedInSubcellularLocation, isPartOfBioChemEntity, mainEntityOfPage, name, potentialAction, potentialUse, sameAs, subjectOf, taxonomicRange, url ]"
 dv_is_same_as:
   - "[[../../WikiData/WD~Chemical_substance,79529|WD~Chemical_substance,79529]]"
@@ -100,7 +100,7 @@ is_part_of = `=this.dv_is_part_of`
 A chemical substance is 'a portion of matter of constant composition, 
 composed of molecular entities of the same type or of different types' (source: <a href="https://www.ebi.ac.uk/chebi/searchId.do?chebiId=59999">ChEBI:59999</a>).
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

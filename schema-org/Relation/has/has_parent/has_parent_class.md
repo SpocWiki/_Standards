@@ -5,13 +5,15 @@ aliases:
   - subclass_of
   - sub_class_of
   - subClassOf
-  - is_subclass_of
+  - has_parent_class
   - is_a_kind_of
   - is a kind of
   - is_a
   - are_a_kind_of
   - rdfs~subClassOf
   - Class-Specialization
+  - is_child_class_of
+  - has_parent_class
   - is_sub_class_of
   - is sub class of
 confidential: public
@@ -25,20 +27,20 @@ isReadOnly: false
 keywords: ''
 layout: ''
 license: CC BY-SA 4.0
-linkTitle: is_subclass_of
+linkTitle: has_parent_class
 publish: true
 publishDate: ''
 tags:
   - schema-org/Relation
-title: is_subclass_of
+title: has_parent_class
 type: Predi_Relation
 ---
 
-## [[is_sub_class_of]] 
+## [[has_parent_class]] 
 
-#is_/same_as  :: [[../../W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RDF~Relations/rdfs~subClassOf|rdfs~subClassOf]] 
-#has_/inverse  :: [[has_sub_classes]]
-#is_/better_than :: [[../Relation/is_similar_to|is_similar_to]] 
+#is_/same_as  :: [[../../../../W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RDF~Relations/rdfs~subClassOf|rdfs~subClassOf]] 
+#has_/inverse  :: [[has_child_class]] 
+#is_/better_than :: [[../../is_similar_to|is_similar_to]] 
 
 Relates a subclass to its super-class. 
 Alternative, better readable Name: is_a_kind_of analogous to `#is_a_` for [[is_instance_of]]
@@ -46,14 +48,14 @@ Could be implemented with dedicated #Tags,
 but that would create a Tag-Proliferation. 
 
 Use it like this: 
-- #is_/sub_class_of :: Class] 
-- is_/sub_class_of :: Class 
+- #has_/parent_/class :: Class 
+- has_parent_class :: Class 
 
-[[../Relation|Relation]] describes that: 
+[[../../../Relation|Relation]] describes that: 
 
 #has_/domain  :: [Class](../../Classes.md) 
-(has_/name :: [is_subclass_of](is_sub_class_of.md))
-(has_/range :: [Class](../../Classes.md))
+(has_/name :: [has_parent_class](has_parent_class.md)) 
+(has_/range :: [Class](../../Classes.md)) 
 
 ### Definitions
 
@@ -198,17 +200,17 @@ Differences among [has part(s) (P527)](https://www.wikidata.org/wiki/Property:P5
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_sub_class_of|is_sub_class_of]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/has_parent_class|has_parent_class]] 
 
-### #is_/same_as :: [[/_public/schema-org/Class/is_sub_class_of.public|is_sub_class_of.public]] 
+### #is_/same_as :: [[/_public/schema-org/Class/has_parent_class.public|has_parent_class.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Class/is_sub_class_of.internal|is_sub_class_of.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Class/has_parent_class.internal|has_parent_class.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Class/is_sub_class_of.protect|is_sub_class_of.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Class/has_parent_class.protect|has_parent_class.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Class/is_sub_class_of.private|is_sub_class_of.private]] 
+### #is_/same_as :: [[/_private/schema-org/Class/has_parent_class.private|has_parent_class.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Class/is_sub_class_of.personal|is_sub_class_of.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Class/has_parent_class.personal|has_parent_class.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Class/is_sub_class_of.secret|is_sub_class_of.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Class/has_parent_class.secret|has_parent_class.secret]] 
 

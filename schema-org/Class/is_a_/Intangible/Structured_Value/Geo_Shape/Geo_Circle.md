@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape/Geo_Circle.secret|Geo_Circle.secret]]"
 dv_has_:
   properties: "[ additionalType, address, addressCountry, alternateName, box, circle, description, disambiguatingDescription, elevation, geoMidpoint, geoRadius, identifier, image, line, mainEntityOfPage, name, polygon, postalCode, potentialAction, sameAs, subjectOf, url ]"
-dv_is_sub_class_of: "[[../GeoShape]]"
+dv_has_parent_class: "[[../GeoShape]]"
 dv_has_properties: "[ additionalType, address, addressCountry, alternateName, box, circle, description, disambiguatingDescription, elevation, geoMidpoint, geoRadius, identifier, image, line, mainEntityOfPage, name, polygon, postalCode, potentialAction, sameAs, subjectOf, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape/Geo_Circle|Geo_Circle]]"
@@ -58,7 +58,7 @@ A GeoCircle is a GeoShape representing a circular geographic area. As it is a Ge
 		  it provides the simple textual property 'circle', but also allows the combination of postalCode alongside geoRadius.
 		  The center of the circle can be indicated via the 'geoMidpoint' property, or more approximately using 'address', 'postalCode'.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

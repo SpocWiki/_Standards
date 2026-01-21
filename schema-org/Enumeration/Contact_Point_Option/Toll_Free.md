@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Contact_Point_Option/Toll_Free.private|Toll_Free.private]]"
     - "[[/_personal/schema-org/Enumeration/Contact_Point_Option/Toll_Free.personal|Toll_Free.personal]]"
     - "[[/_secret/schema-org/Enumeration/Contact_Point_Option/Toll_Free.secret|Toll_Free.secret]]"
-dv_is_sub_class_of: "[[../ContactPointOption]]"
+dv_has_parent_class: "[[../ContactPointOption]]"
 dv_is_enum_of: "[[../ContactPointOption]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Contact_Point_Option/Toll_Free|Toll_Free]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 The associated telephone number is toll free.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

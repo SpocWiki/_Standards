@@ -35,7 +35,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Music_Album_Production_Type.private|Music_Album_Production_Type.private]]"
     - "[[/_personal/schema-org/Enumeration/Music_Album_Production_Type.personal|Music_Album_Production_Type.personal]]"
     - "[[/_secret/schema-org/Enumeration/Music_Album_Production_Type.secret|Music_Album_Production_Type.secret]]"
-dv_is_sub_class_of: "[[../Enumeration]]"
+dv_has_parent_class: "[[../Enumeration]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Music_Album_Production_Type|Music_Album_Production_Type]]"
   - "[[/_public/schema-org/Enumeration/Music_Album_Production_Type.public|Music_Album_Production_Type.public]]"
@@ -53,7 +53,7 @@ Tag Instances like this:
 
 Classification of the album by its type of content: soundtrack, live album, studio album, etc.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 ## Confidential Links & Embeds: 
 

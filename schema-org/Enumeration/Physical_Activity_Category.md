@@ -35,7 +35,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Physical_Activity_Category.private|Physical_Activity_Category.private]]"
     - "[[/_personal/schema-org/Enumeration/Physical_Activity_Category.personal|Physical_Activity_Category.personal]]"
     - "[[/_secret/schema-org/Enumeration/Physical_Activity_Category.secret|Physical_Activity_Category.secret]]"
-dv_is_sub_class_of: "[[../Enumeration]]"
+dv_has_parent_class: "[[../Enumeration]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Physical_Activity_Category|Physical_Activity_Category]]"
   - "[[/_public/schema-org/Enumeration/Physical_Activity_Category.public|Physical_Activity_Category.public]]"
@@ -53,7 +53,7 @@ Tag Instances like this:
 
 Categories of physical activity, organized by physiologic classification.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 ## Confidential Links & Embeds: 
 

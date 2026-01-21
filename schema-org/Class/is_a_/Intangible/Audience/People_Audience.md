@@ -38,8 +38,8 @@ dv_is_:
 dv_has_:
   sub_classes: "[ MedicalAudience, ParentAudience ]"
   properties: "[ additionalType, alternateName, audienceType, description, disambiguatingDescription, geographicArea, healthCondition, identifier, image, mainEntityOfPage, name, potentialAction, requiredGender, requiredMaxAge, requiredMinAge, sameAs, subjectOf, suggestedAge, suggestedGender, suggestedMaxAge, suggestedMeasurement, suggestedMinAge, url ]"
-dv_is_sub_class_of: "[[../Audience]]"
-dv_has_sub_classes: "[ MedicalAudience, ParentAudience ]"
+dv_has_parent_class: "[[../Audience]]"
+dv_has_child_classes: "[ MedicalAudience, ParentAudience ]"
 dv_has_properties: "[ additionalType, alternateName, audienceType, description, disambiguatingDescription, geographicArea, healthCondition, identifier, image, mainEntityOfPage, name, potentialAction, requiredGender, requiredMaxAge, requiredMinAge, sameAs, subjectOf, suggestedAge, suggestedGender, suggestedMaxAge, suggestedMeasurement, suggestedMinAge, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Audience/People_Audience|People_Audience]]"
@@ -58,9 +58,9 @@ Tag Instances like this:
 
 A set of characteristics belonging to people, e.g. who compose an item's target audience.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
-has_sub_classes = `=this.dv_has_sub_classes` 
+has_child_classes = `=this.dv_has_child_classes` 
 
 has_properties = `=this.dv_has_properties` 
 

@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating/Employer_Aggregate_Rating.secret|Employer_Aggregate_Rating.secret]]"
 dv_has_:
   properties: "[ additionalType, alternateName, author, bestRating, description, disambiguatingDescription, identifier, image, itemReviewed, mainEntityOfPage, name, potentialAction, ratingCount, ratingExplanation, ratingValue, reviewAspect, reviewCount, sameAs, subjectOf, url, worstRating ]"
-dv_is_sub_class_of: "[[../AggregateRating]]"
+dv_has_parent_class: "[[../AggregateRating]]"
 dv_has_properties: "[ additionalType, alternateName, author, bestRating, description, disambiguatingDescription, identifier, image, itemReviewed, mainEntityOfPage, name, potentialAction, ratingCount, ratingExplanation, ratingValue, reviewAspect, reviewCount, sameAs, subjectOf, url, worstRating ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating/Employer_Aggregate_Rating|Employer_Aggregate_Rating]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 An aggregate rating of an Organization related to its role as an employer.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

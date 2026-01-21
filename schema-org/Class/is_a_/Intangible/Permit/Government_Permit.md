@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Permit/Government_Permit.secret|Government_Permit.secret]]"
 dv_has_:
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, issuedBy, issuedThrough, mainEntityOfPage, name, permitAudience, potentialAction, sameAs, subjectOf, url, validFor, validFrom, validIn, validUntil ]"
-dv_is_sub_class_of: "[[../Permit]]"
+dv_has_parent_class: "[[../Permit]]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, issuedBy, issuedThrough, mainEntityOfPage, name, permitAudience, potentialAction, sameAs, subjectOf, url, validFor, validFrom, validIn, validUntil ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Permit/Government_Permit|Government_Permit]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 A permit issued by a government agency.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

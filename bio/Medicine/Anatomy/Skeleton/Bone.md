@@ -37,7 +37,7 @@ Rigid connective tissue that comprises up the skeletal structure of the human bo
 
 #is_/same_as :: [[../../../../../WikiData/WD~Bone,265868|WD~Bone,265868]] 
 
-#is_/sub_class_of :: [[../AnatomicalStructure]]  
+#has_/parent_class :: [[../AnatomicalStructure]]  
 
 #has_/properties :: [ additionalType, alternateName, associatedPathophysiology, bodyLocation, code, connectedTo, description, diagram, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, partOfSystem, potentialAction, recognizingAuthority, relatedCondition, relatedTherapy, relevantSpecialty, sameAs, study, subStructure, subjectOf, url ]  
 

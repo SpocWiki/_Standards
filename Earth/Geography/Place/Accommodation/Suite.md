@@ -36,7 +36,7 @@ dv_is_:
     - "[[/_private/Earth/Geography/Place/Accommodation/Suite.private|Suite.private]]"
     - "[[/_personal/Earth/Geography/Place/Accommodation/Suite.personal|Suite.personal]]"
     - "[[/_secret/Earth/Geography/Place/Accommodation/Suite.secret|Suite.secret]]"
-dv_is_sub_class_of: "[[../Accommodation]]"
+dv_has_parent_class: "[[../Accommodation]]"
 dv_has_properties: "[ accommodationCategory, accommodationFloorPlan, additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, bed, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, floorLevel, floorSize, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, leaseLength, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, numberOfBathroomsTotal, numberOfBedrooms, numberOfFullBathrooms, numberOfPartialBathrooms, numberOfRooms, occupancy, openingHoursSpecification, permittedUsage, petsAllowed, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url, yearBuilt ]"
 dv_is_same_as:
   - "[[/_Standards/Earth/Geography/Place/Accommodation/Suite|Suite]]"
@@ -57,7 +57,7 @@ A suite in a hotel or other public accommodation, denotes a class of luxury acco
 
 See also the <a href="https://schema.org/docs/hotels.html">dedicated document on the use of schema.org for marking up hotels and other forms of accommodations</a>.
 
-is_sub_class_of = `=this.dv_is_sub_class_of`] ]
+has_parent_class = `=this.dv_has_parent_class`] ]
 
 has_properties = `=this.dv_has_properties` ]
 

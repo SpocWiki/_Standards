@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Broadcast_Frequency_Specification.secret|Broadcast_Frequency_Specification.secret]]"
 dv_has_:
   properties: "[ additionalType, alternateName, broadcastFrequencyValue, broadcastSignalModulation, broadcastSubChannel, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
-dv_is_sub_class_of: "[[../Intangible]]"
+dv_has_parent_class: "[[../Intangible]]"
 dv_has_properties: "[ additionalType, alternateName, broadcastFrequencyValue, broadcastSignalModulation, broadcastSubChannel, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Broadcast_Frequency_Specification|Broadcast_Frequency_Specification]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 The frequency in MHz and the modulation used for a particular BroadcastService.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

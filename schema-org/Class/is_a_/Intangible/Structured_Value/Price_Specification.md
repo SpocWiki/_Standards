@@ -38,8 +38,8 @@ dv_is_:
 dv_has_:
   sub_classes: "[ CompoundPriceSpecification, DeliveryChargeSpecification, PaymentChargeSpecification, UnitPriceSpecification ]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, eligibleQuantity, eligibleTransactionVolume, identifier, image, mainEntityOfPage, maxPrice, minPrice, name, potentialAction, price, priceCurrency, sameAs, subjectOf, url, validFrom, validThrough, valueAddedTaxIncluded ]"
-dv_is_sub_class_of: "[[../StructuredValue]]"
-dv_has_sub_classes: "[ CompoundPriceSpecification, DeliveryChargeSpecification, PaymentChargeSpecification, UnitPriceSpecification ]"
+dv_has_parent_class: "[[../StructuredValue]]"
+dv_has_child_classes: "[ CompoundPriceSpecification, DeliveryChargeSpecification, PaymentChargeSpecification, UnitPriceSpecification ]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, eligibleQuantity, eligibleTransactionVolume, identifier, image, mainEntityOfPage, maxPrice, minPrice, name, potentialAction, price, priceCurrency, sameAs, subjectOf, url, validFrom, validThrough, valueAddedTaxIncluded ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification|Price_Specification]]"
@@ -58,9 +58,9 @@ Tag Instances like this:
 
 A structured value representing a price or price range. Typically, only the subclasses of this type are used for markup. It is recommended to use [[MonetaryAmount]] to describe independent amounts of money such as a salary, credit card limits, etc.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
-has_sub_classes = `=this.dv_has_sub_classes` 
+has_child_classes = `=this.dv_has_child_classes` 
 
 has_properties = `=this.dv_has_properties` 
 

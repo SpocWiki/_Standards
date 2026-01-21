@@ -3,7 +3,7 @@ aliases:
   - has-sub-properties
   - sub-properties
   - hassub-properties
-  - has_sub_properties
+  - has_child_properties
   - has sub properties
 confidential: public
 cssproperties: Predicate Relation
@@ -15,51 +15,51 @@ keywords:
   - part
 layout: ""
 license: CC BY-SA 4.0
-linkTitle: has_sub_properties
+linkTitle: has_child_properties
 publish: true
 publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
-title: has_sub_properties
+title: has_child_properties
 type: Predi_Relation
 dv_has_:
   inverse: "[[has_parent_property]]"
   sub_properties: "[[../Property]]"
   domain: "[[../Property]]"
-  name: has_sub_properties
+  name: has_child_properties
   range: "[[../Property]]"
-dv_has_sub_properties: "[[../Property]]"
+dv_has_child_properties: "[[../Property]]"
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Property/has_sub_properties|has_sub_properties]]"
-    - "[[/_public/schema-org/Property/has_sub_properties.public|has_sub_properties.public]]"
-    - "[[/_internal/schema-org/Property/has_sub_properties.internal|has_sub_properties.internal]]"
-    - "[[/_protect/schema-org/Property/has_sub_properties.protect|has_sub_properties.protect]]"
-    - "[[/_private/schema-org/Property/has_sub_properties.private|has_sub_properties.private]]"
-    - "[[/_personal/schema-org/Property/has_sub_properties.personal|has_sub_properties.personal]]"
-    - "[[/_secret/schema-org/Property/has_sub_properties.secret|has_sub_properties.secret]]"
+    - "[[/_Standards/schema-org/Property/has_child_properties|has_child_properties]]"
+    - "[[/_public/schema-org/Property/has_child_properties.public|has_child_properties.public]]"
+    - "[[/_internal/schema-org/Property/has_child_properties.internal|has_child_properties.internal]]"
+    - "[[/_protect/schema-org/Property/has_child_properties.protect|has_child_properties.protect]]"
+    - "[[/_private/schema-org/Property/has_child_properties.private|has_child_properties.private]]"
+    - "[[/_personal/schema-org/Property/has_child_properties.personal|has_child_properties.personal]]"
+    - "[[/_secret/schema-org/Property/has_child_properties.secret|has_child_properties.secret]]"
 dv_has_domain: "[[../Property]]"
-dv_has_name: has_sub_properties
+dv_has_name: has_child_properties
 dv_has_range: "[[../Property]]"
 dv_has_inverse: "[[has_parent_property]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_sub_properties|has_sub_properties]]"
-  - "[[/_public/schema-org/Property/has_sub_properties.public|has_sub_properties.public]]"
-  - "[[/_internal/schema-org/Property/has_sub_properties.internal|has_sub_properties.internal]]"
-  - "[[/_protect/schema-org/Property/has_sub_properties.protect|has_sub_properties.protect]]"
-  - "[[/_private/schema-org/Property/has_sub_properties.private|has_sub_properties.private]]"
-  - "[[/_personal/schema-org/Property/has_sub_properties.personal|has_sub_properties.personal]]"
-  - "[[/_secret/schema-org/Property/has_sub_properties.secret|has_sub_properties.secret]]"
+  - "[[/_Standards/schema-org/Property/has_child_properties|has_child_properties]]"
+  - "[[/_public/schema-org/Property/has_child_properties.public|has_child_properties.public]]"
+  - "[[/_internal/schema-org/Property/has_child_properties.internal|has_child_properties.internal]]"
+  - "[[/_protect/schema-org/Property/has_child_properties.protect|has_child_properties.protect]]"
+  - "[[/_private/schema-org/Property/has_child_properties.private|has_child_properties.private]]"
+  - "[[/_personal/schema-org/Property/has_child_properties.personal|has_child_properties.personal]]"
+  - "[[/_secret/schema-org/Property/has_child_properties.secret|has_child_properties.secret]]"
 ---
 
-# [[has_sub_properties]] 
+# [[has_child_properties]] 
 
 Indicates a ([[../Collection/item_list|item_list]] of) [[../Property]]  is an instance of this [[../Property]] .
 
 Use it like this: 
-- #has_/sub_properties = `=this.dv_has_sub_properties` ]  ] 
-- has_sub_properties = `=this.dv_has_sub_properties` ]  ] 
+- #has_/child_properties = `=this.dv_has_child_properties` ]  ] 
+- has_child_properties = `=this.dv_has_child_properties` ]  ] 
 
 Relation describes that: 
 
@@ -75,17 +75,17 @@ has_inverse = `=this.dv_has_inverse`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_sub_properties|has_sub_properties]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_child_properties|has_child_properties]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_sub_properties.public|has_sub_properties.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_child_properties.public|has_child_properties.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_sub_properties.internal|has_sub_properties.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_child_properties.internal|has_child_properties.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_sub_properties.protect|has_sub_properties.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_child_properties.protect|has_child_properties.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_sub_properties.private|has_sub_properties.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_child_properties.private|has_child_properties.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_sub_properties.personal|has_sub_properties.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_child_properties.personal|has_child_properties.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_sub_properties.secret|has_sub_properties.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_child_properties.secret|has_child_properties.secret]] 
 

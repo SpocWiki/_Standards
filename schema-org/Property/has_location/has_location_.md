@@ -62,7 +62,7 @@ Predicate describes that:
 (has_/name :: has_location_ )
 (has_/range :: Place, PostalAddress, Text, VirtualLocation )
 
-#has_/sub_properties :: [ course, entertainmentBusiness, exerciseCourse, foodEstablishment, foodEvent, fromLocation, homeLocation, itemLocation, sportsActivityLocation, sportsEvent, toLocation, workLocation ]  
+#has_/child_properties :: [ course, entertainmentBusiness, exerciseCourse, foodEstablishment, foodEvent, fromLocation, homeLocation, itemLocation, sportsActivityLocation, sportsEvent, toLocation, workLocation ]  
 
 ## Confidential Links & Embeds: 
 

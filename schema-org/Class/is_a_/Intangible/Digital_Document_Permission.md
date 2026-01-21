@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.secret|Digital_Document_Permission.secret]]"
 dv_has_:
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, grantee, identifier, image, mainEntityOfPage, name, permissionType, potentialAction, sameAs, subjectOf, url ]"
-dv_is_sub_class_of: "[[../Intangible]]"
+dv_has_parent_class: "[[../Intangible]]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, grantee, identifier, image, mainEntityOfPage, name, permissionType, potentialAction, sameAs, subjectOf, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Digital_Document_Permission|Digital_Document_Permission]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 A permission for a particular person or group to access a particular file.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Inform_Action/Rsvp_Action.secret|Rsvp_Action.secret]]"
 dv_has_:
   properties: "[ about, actionStatus, additionalNumberOfGuests, additionalType, agent, alternateName, comment, description, disambiguatingDescription, endTime, error, event, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, rsvpResponse, sameAs, startTime, subjectOf, target, url ]"
-dv_is_sub_class_of: "[[../InformAction]]"
+dv_has_parent_class: "[[../InformAction]]"
 dv_has_properties: "[ about, actionStatus, additionalNumberOfGuests, additionalType, agent, alternateName, comment, description, disambiguatingDescription, endTime, error, event, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, rsvpResponse, sameAs, startTime, subjectOf, target, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Inform_Action/Rsvp_Action|Rsvp_Action]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 The act of notifying an event organizer as to whether you expect to attend the event.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

@@ -43,7 +43,7 @@ Relation describes that:
 (has_/name :: "[[has_actor]]" )
 (has_/range :: "[[../../../Society/Agent/Person|Person]]" ) 
 
-#has_/sub_properties :: "[[../is/is_read_by|is_read_by]]" 
+#has_/child_properties :: "[[../is/is_read_by|is_read_by]]" 
 
 ## Confidential Links & Embeds: 
 

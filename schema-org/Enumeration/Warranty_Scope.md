@@ -35,7 +35,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Warranty_Scope.private|Warranty_Scope.private]]"
     - "[[/_personal/schema-org/Enumeration/Warranty_Scope.personal|Warranty_Scope.personal]]"
     - "[[/_secret/schema-org/Enumeration/Warranty_Scope.secret|Warranty_Scope.secret]]"
-dv_is_sub_class_of: "[[../Enumeration]]"
+dv_has_parent_class: "[[../Enumeration]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Warranty_Scope|Warranty_Scope]]"
   - "[[/_public/schema-org/Enumeration/Warranty_Scope.public|Warranty_Scope.public]]"
@@ -61,7 +61,7 @@ Commonly used values:
 <li>http://purl.org/goodrelations/v1#PartsAndLabor-PickUp</li>
 </ul>
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 ## Confidential Links & Embeds: 
 

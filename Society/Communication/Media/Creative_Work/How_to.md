@@ -34,9 +34,9 @@ Tag Instances like this:
 
 Instructions that explain how to achieve a result by performing a sequence of steps.
 
-#is_/sub_class_of :: [[../CreativeWork]]  
+#has_/parent_class :: [[../CreativeWork]]  
 
-#has_/sub_classes :: [ Recipe ]  
+#has_/child_classes :: [ Recipe ]  
 
 #has_/properties :: [ about, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, assesses, associatedMedia, audience, audio, author, award, awards, character, citation, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, description, disambiguatingDescription, discussionUrl, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, estimatedCost, exampleOfWork, expires, fileFormat, funder, funding, genre, hasPart, headline, identifier, image, inLanguage, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, name, offers, pattern, performTime, position, potentialAction, prepTime, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, sponsor, step, steps, subjectOf, supply, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, tool, totalTime, translationOfWork, translator, typicalAgeRange, url, usageInfo, version, video, workExample, workTranslation, yield ]  
 

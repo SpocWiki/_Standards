@@ -39,7 +39,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Item_Availability/Back_Order.private|Back_Order.private]]"
     - "[[/_personal/schema-org/Enumeration/Item_Availability/Back_Order.personal|Back_Order.personal]]"
     - "[[/_secret/schema-org/Enumeration/Item_Availability/Back_Order.secret|Back_Order.secret]]"
-dv_itemavailability-is_sub_class_of: "[../ItemAvailability]"
+dv_itemavailability-has_parent_class: "[../ItemAvailability]"
 dv_itemavailability-is_enum_of: "[../ItemAvailability]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Item_Availability/Back_Order|Back_Order]]"
@@ -58,7 +58,7 @@ Tag Instances like this:
 
 Indicates that the item is available on back order.
 
-[[../ItemAvailability| #is_/sub_class_of :: [../ItemAvailability]] ]
+[[../ItemAvailability| #has_/parent_class :: [../ItemAvailability]] ]
 
 [[../ItemAvailability| #is_/enum_of :: [../ItemAvailability]] ]
 

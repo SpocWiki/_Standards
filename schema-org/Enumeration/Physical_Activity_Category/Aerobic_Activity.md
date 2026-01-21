@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Physical_Activity_Category/Aerobic_Activity.private|Aerobic_Activity.private]]"
     - "[[/_personal/schema-org/Enumeration/Physical_Activity_Category/Aerobic_Activity.personal|Aerobic_Activity.personal]]"
     - "[[/_secret/schema-org/Enumeration/Physical_Activity_Category/Aerobic_Activity.secret|Aerobic_Activity.secret]]"
-dv_is_sub_class_of: "[[../PhysicalActivityCategory]]"
+dv_has_parent_class: "[[../PhysicalActivityCategory]]"
 dv_is_enum_of: "[[../PhysicalActivityCategory]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Physical_Activity_Category/Aerobic_Activity|Aerobic_Activity]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 Physical activity of relatively low intensity that depends primarily on the aerobic energy-generating process; during activity, the aerobic metabolism uses oxygen to adequately meet energy demands during exercise.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

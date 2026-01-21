@@ -34,7 +34,7 @@ Tag Instances like this:
 
 A radio channel that uses FM.
 
-#is_/sub_class_of :: [[../RadioChannel]]  
+#has_/parent_class :: [[../RadioChannel]]  
 
 #has_/properties :: [ additionalType, alternateName, broadcastChannelId, broadcastFrequency, broadcastServiceTier, description, disambiguatingDescription, genre, identifier, image, inBroadcastLineup, mainEntityOfPage, name, potentialAction, providesBroadcastService, sameAs, subjectOf, url ]  
 

@@ -39,7 +39,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Transformed_Content.personal|Transformed_Content.personal]]"
     - "[[/_secret/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Transformed_Content.secret|Transformed_Content.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../Media_Manipulation_Rating_Enumeration]]"
+dv_has_parent_class: "[[../Media_Manipulation_Rating_Enumeration]]"
 dv_is_enum_of: "[[../Media_Manipulation_Rating_Enumeration]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Transformed_Content|Transformed_Content]]"
@@ -72,7 +72,7 @@ Adding or deleting visual elements to give the image a different meaning with th
 # For an [[../../../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object|AudioObject]]: 
 Part or all of the audio has been manipulated to alter the words or sounds, or the audio has been synthetically generated, such as to create a sound-alike voice.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

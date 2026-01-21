@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Rescheduled.private|Event_Rescheduled.private]]"
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Rescheduled.personal|Event_Rescheduled.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Rescheduled.secret|Event_Rescheduled.secret]]"
-dv_is_sub_class_of: "[[../EventStatusType]]"
+dv_has_parent_class: "[[../EventStatusType]]"
 dv_is_enum_of: "[[../EventStatusType]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Rescheduled|Event_Rescheduled]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 The event has been rescheduled. The event's previousStartDate should be set to the old date and the startDate should be set to the event's new date. (If the event has been rescheduled multiple times, the previousStartDate property may be repeated.)
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

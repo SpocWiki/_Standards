@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status.personal|Legal_Force_Status.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status.secret|Legal_Force_Status.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../StatusEnumeration]]"
+dv_has_parent_class: "[[../StatusEnumeration]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status|Legal_Force_Status]]"
   - "[[/_public/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status.public|Legal_Force_Status.public]]"
@@ -57,7 +57,7 @@ is_part_of = `=this.dv_is_part_of`
 
 A list of possible statuses for the legal force of a legislation.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 ## Confidential Links & Embeds: 
 

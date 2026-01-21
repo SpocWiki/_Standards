@@ -35,7 +35,7 @@ Tag Instances like this:
 
 A system of medicine based on common theoretical concepts that originated in China and evolved over thousands of years, that uses herbs, acupuncture, exercise, massage, dietary therapy, and other methods to treat a wide range of conditions.
 
-#is_/sub_class_of :: [[../MedicineSystem]]  
+#has_/parent_class :: [[../MedicineSystem]]  
 
 #is_/enum_of :: [[../MedicineSystem]]  
 

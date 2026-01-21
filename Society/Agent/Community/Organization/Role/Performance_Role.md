@@ -36,7 +36,7 @@ Tag Instances like this:
 
 A PerformanceRole is a Role that some entity places with regard to a theatrical performance, e.g. in a Movie, TVSeries etc.
 
-#is_/sub_class_of :: [[../Role]]  
+#has_/parent_class :: [[../Role]]  
 
 #has_/properties :: [ additionalType, alternateName, characterName, description, disambiguatingDescription, endDate, identifier, image, mainEntityOfPage, name, namedPosition, potentialAction, roleName, sameAs, startDate, subjectOf, url ]  
 

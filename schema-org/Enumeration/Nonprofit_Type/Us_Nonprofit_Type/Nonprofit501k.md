@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501k.personal|Nonprofit501k.personal]]"
     - "[[/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501k.secret|Nonprofit501k.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../USNonprofitType]]"
+dv_has_parent_class: "[[../USNonprofitType]]"
 dv_is_enum_of: "[[../USNonprofitType]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501k|Nonprofit501k]]"
@@ -58,7 +58,7 @@ is_part_of = `=this.dv_is_part_of`
 
 Nonprofit501k: Non-profit type referring to Child Care Organizations.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

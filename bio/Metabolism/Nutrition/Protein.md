@@ -129,7 +129,7 @@ A protein can thus be a subclass of another protein, e.g. schema:Protein
 as a UniProt record can have multiple isoforms inside it which would also be schema:Protein. 
 They can be imagined, synthetic, hypothetical or naturally occurring.
 
-#is_/sub_class_of :: [[../../../schema-org/Class/is_a_/Bio_Chem_Entity]]  
+#has_/parent_class :: [[../../../schema-org/Class/is_a_/Bio_Chem_Entity]]  
 
 #has_/properties :: [ additionalType, alternateName, associatedDisease, bioChemInteraction, bioChemSimilarity, biologicalRole, description, disambiguatingDescription, funding, hasBioChemEntityPart, hasBioPolymerSequence, hasMolecularFunction, hasRepresentation, identifier, image, isEncodedByBioChemEntity, isInvolvedInBiologicalProcess, isLocatedInSubcellularLocation, isPartOfBioChemEntity, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, taxonomicRange, url ]  
 

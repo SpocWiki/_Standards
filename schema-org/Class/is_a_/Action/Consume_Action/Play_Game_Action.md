@@ -39,7 +39,7 @@ dv_is_:
 dv_has_:
   properties: "[ actionAccessibilityRequirement, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, expectsAcceptanceOf, gameAvailabilityType, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../ConsumeAction]]"
+dv_has_parent_class: "[[../ConsumeAction]]"
 dv_has_properties: "[ actionAccessibilityRequirement, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, expectsAcceptanceOf, gameAvailabilityType, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Action/Consume_Action/Play_Game_Action|Play_Game_Action]]"
@@ -60,7 +60,7 @@ is_part_of = `=this.dv_is_part_of`
 
 The act of playing a video game.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

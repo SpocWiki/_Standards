@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Map_Category_Type/Transit_Map.private|Transit_Map.private]]"
     - "[[/_personal/schema-org/Enumeration/Map_Category_Type/Transit_Map.personal|Transit_Map.personal]]"
     - "[[/_secret/schema-org/Enumeration/Map_Category_Type/Transit_Map.secret|Transit_Map.secret]]"
-dv_is_sub_class_of: "[[../MapCategoryType]]"
+dv_has_parent_class: "[[../MapCategoryType]]"
 dv_is_enum_of: "[[../MapCategoryType]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Map_Category_Type/Transit_Map|Transit_Map]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 A transit map.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

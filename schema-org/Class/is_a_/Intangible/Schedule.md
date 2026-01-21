@@ -37,7 +37,7 @@ dv_is_:
 dv_has_:
   properties: "[ additionalType, alternateName, byDay, byMonth, byMonthDay, byMonthWeek, description, disambiguatingDescription, duration, endDate, endTime, exceptDate, identifier, image, mainEntityOfPage, name, potentialAction, repeatCount, repeatFrequency, sameAs, scheduleTimezone, startDate, startTime, subjectOf, url ]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../Intangible]]"
+dv_has_parent_class: "[[../Intangible]]"
 dv_has_properties: "[ additionalType, alternateName, byDay, byMonth, byMonthDay, byMonthWeek, description, disambiguatingDescription, duration, endDate, endTime, exceptDate, identifier, image, mainEntityOfPage, name, potentialAction, repeatCount, repeatFrequency, sameAs, scheduleTimezone, startDate, startTime, subjectOf, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Schedule|Schedule]]"
@@ -62,7 +62,7 @@ A schedule defines a repeating time period used to describe a regularly occurrin
 
 is_part_of = `=this.dv_is_part_of` 
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

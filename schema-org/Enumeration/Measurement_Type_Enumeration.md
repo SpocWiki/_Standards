@@ -13,8 +13,8 @@ dv_is_:
 dv_has_:
   sub_classes: "[ BodyMeasurementTypeEnumeration, WearableMeasurementTypeEnumeration ]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../Enumeration]]"
-dv_has_sub_classes: "[ BodyMeasurementTypeEnumeration, WearableMeasurementTypeEnumeration ]"
+dv_has_parent_class: "[[../Enumeration]]"
+dv_has_child_classes: "[ BodyMeasurementTypeEnumeration, WearableMeasurementTypeEnumeration ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration|Measurement_Type_Enumeration]]"
   - "[[/_public/schema-org/Enumeration/Measurement_Type_Enumeration.public|Measurement_Type_Enumeration.public]]"
@@ -66,9 +66,9 @@ is_part_of = `=this.dv_is_part_of`
 
 Enumeration of common measurement types (or dimensions), for example "chest" for a person, "inseam" for pants, "gauge" for screws, or "wheel" for bicycles.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
-has_sub_classes = `=this.dv_has_sub_classes` 
+has_child_classes = `=this.dv_has_child_classes` 
 
 ## Confidential Links & Embeds: 
 

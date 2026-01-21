@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Music_Album_Production_Type/Remix_Album.private|Remix_Album.private]]"
     - "[[/_personal/schema-org/Enumeration/Music_Album_Production_Type/Remix_Album.personal|Remix_Album.personal]]"
     - "[[/_secret/schema-org/Enumeration/Music_Album_Production_Type/Remix_Album.secret|Remix_Album.secret]]"
-dv_is_sub_class_of: "[[../MusicAlbumProductionType]]"
+dv_has_parent_class: "[[../MusicAlbumProductionType]]"
 dv_is_enum_of: "[[../MusicAlbumProductionType]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Music_Album_Production_Type/Remix_Album|Remix_Album]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 RemixAlbum.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

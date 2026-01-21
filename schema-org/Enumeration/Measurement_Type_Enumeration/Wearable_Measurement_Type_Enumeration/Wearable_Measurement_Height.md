@@ -39,7 +39,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Height.personal|Wearable_Measurement_Height.personal]]"
     - "[[/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Height.secret|Wearable_Measurement_Height.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../WearableMeasurementTypeEnumeration]]"
+dv_has_parent_class: "[[../WearableMeasurementTypeEnumeration]]"
 dv_is_enum_of: "[[../WearableMeasurementTypeEnumeration]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Height|Wearable_Measurement_Height]]"
@@ -60,7 +60,7 @@ is_part_of = `=this.dv_is_part_of`
 
 Measurement of the height, for example the heel height of a shoe
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

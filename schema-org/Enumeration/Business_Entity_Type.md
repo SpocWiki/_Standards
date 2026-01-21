@@ -35,7 +35,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Business_Entity_Type.private|Business_Entity_Type.private]]"
     - "[[/_personal/schema-org/Enumeration/Business_Entity_Type.personal|Business_Entity_Type.personal]]"
     - "[[/_secret/schema-org/Enumeration/Business_Entity_Type.secret|Business_Entity_Type.secret]]"
-dv_is_sub_class_of: "[[../Enumeration]]"
+dv_has_parent_class: "[[../Enumeration]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Business_Entity_Type|Business_Entity_Type]]"
   - "[[/_public/schema-org/Enumeration/Business_Entity_Type.public|Business_Entity_Type.public]]"
@@ -68,7 +68,7 @@ Businesses are also distinguished by Ownership::
 - [[../../../../../Society/Agent/Community/Organization/Company/Corporation]]  
 - [[../../../../../../Knowledge/Business/Business-Entity/LLC(Limited_Liability_Company)]] 
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 ## Confidential Links & Embeds: 
 

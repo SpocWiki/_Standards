@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Game_Availability_Enumeration.personal|Game_Availability_Enumeration.personal]]"
     - "[[/_secret/schema-org/Enumeration/Game_Availability_Enumeration.secret|Game_Availability_Enumeration.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../Enumeration]]"
+dv_has_parent_class: "[[../Enumeration]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Game_Availability_Enumeration|Game_Availability_Enumeration]]"
   - "[[/_public/schema-org/Enumeration/Game_Availability_Enumeration.public|Game_Availability_Enumeration.public]]"
@@ -57,7 +57,7 @@ is_part_of = `=this.dv_is_part_of`
 
 For a [[VideoGame]], such as used with a [[PlayGameAction]], an enumeration of the kind of game availability offered.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 ## Confidential Links & Embeds: 
 

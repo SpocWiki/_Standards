@@ -173,7 +173,7 @@ Tag Instances like this:
 
 In [[../../schema-org]]: Pathogenic bacteria that cause bacterial infection.
 
-is_/sub_class_of :: [[../InfectiousAgentClass]]  
+has_/parent_class :: [[../InfectiousAgentClass]]  
 
 is_/enum_of :: [[../InfectiousAgentClass]]  
 

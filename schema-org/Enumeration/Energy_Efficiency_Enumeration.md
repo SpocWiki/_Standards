@@ -39,8 +39,8 @@ dv_is_:
 dv_has_:
   sub_classes: "[ EUEnergyEfficiencyEnumeration, EnergyStarEnergyEfficiencyEnumeration ]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../Enumeration]]"
-dv_has_sub_classes: "[ EUEnergyEfficiencyEnumeration, EnergyStarEnergyEfficiencyEnumeration ]"
+dv_has_parent_class: "[[../Enumeration]]"
+dv_has_child_classes: "[ EUEnergyEfficiencyEnumeration, EnergyStarEnergyEfficiencyEnumeration ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Energy_Efficiency_Enumeration|Energy_Efficiency_Enumeration]]"
   - "[[/_public/schema-org/Enumeration/Energy_Efficiency_Enumeration.public|Energy_Efficiency_Enumeration.public]]"
@@ -60,9 +60,9 @@ is_part_of = `=this.dv_is_part_of`
 
 Enumerates energy efficiency levels (also known as "classes" or "ratings") and certifications that are part of several international energy efficiency standards.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
-has_sub_classes = `=this.dv_has_sub_classes` 
+has_child_classes = `=this.dv_has_child_classes` 
 
 ## Confidential Links & Embeds: 
 

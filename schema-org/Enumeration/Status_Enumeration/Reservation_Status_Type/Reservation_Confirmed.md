@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Confirmed.private|Reservation_Confirmed.private]]"
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Confirmed.personal|Reservation_Confirmed.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Confirmed.secret|Reservation_Confirmed.secret]]"
-dv_is_sub_class_of: "[[../ReservationStatusType]]"
+dv_has_parent_class: "[[../ReservationStatusType]]"
 dv_is_enum_of: "[[../ReservationStatusType]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Confirmed|Reservation_Confirmed]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 The status of a confirmed reservation.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

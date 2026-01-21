@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Status_Enumeration/Action_Status_Type/Completed_Action_Status.private|Completed_Action_Status.private]]"
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Action_Status_Type/Completed_Action_Status.personal|Completed_Action_Status.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Action_Status_Type/Completed_Action_Status.secret|Completed_Action_Status.secret]]"
-dv_is_sub_class_of: "[[../ActionStatusType]]"
+dv_has_parent_class: "[[../ActionStatusType]]"
 dv_is_enum_of: "[[../ActionStatusType]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Action_Status_Type/Completed_Action_Status|Completed_Action_Status]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 An action that has already taken place.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

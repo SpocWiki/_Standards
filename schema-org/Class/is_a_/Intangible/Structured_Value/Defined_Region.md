@@ -39,7 +39,7 @@ dv_is_:
 dv_has_:
   properties: "[ additionalType, addressCountry, addressRegion, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, postalCode, postalCodePrefix, postalCodeRange, potentialAction, sameAs, subjectOf, url ]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../StructuredValue]]"
+dv_has_parent_class: "[[../StructuredValue]]"
 dv_has_properties: "[ additionalType, addressCountry, addressRegion, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, postalCode, postalCodePrefix, postalCodeRange, potentialAction, sameAs, subjectOf, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region|Defined_Region]]"
@@ -72,7 +72,7 @@ PostalCode Set: { [94000-94585], [97000, 97999], [13000, 13599]}
 { [12345, 12345], [78945, 78945], }
 Region = state, canton, prefecture, autonomous community...
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Restricted_Diet/Gluten_Free_Diet.private|Gluten_Free_Diet.private]]"
     - "[[/_personal/schema-org/Enumeration/Restricted_Diet/Gluten_Free_Diet.personal|Gluten_Free_Diet.personal]]"
     - "[[/_secret/schema-org/Enumeration/Restricted_Diet/Gluten_Free_Diet.secret|Gluten_Free_Diet.secret]]"
-dv_is_sub_class_of: "[[../RestrictedDiet]]"
+dv_has_parent_class: "[[../RestrictedDiet]]"
 dv_is_enum_of: "[[../RestrictedDiet]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Restricted_Diet/Gluten_Free_Diet|Gluten_Free_Diet]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 A diet exclusive of gluten.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

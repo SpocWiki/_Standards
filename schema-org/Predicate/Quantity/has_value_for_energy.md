@@ -157,7 +157,7 @@ dv_is_:
     - "[[/_secret/schema-org/Predicate/Quantity/has_value_for_energy.secret|has_value_for_energy.secret]]"
 dv_has_:
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
-dv_is_sub_class_of: "[[../Quantity]]"
+dv_has_parent_class: "[[../Quantity]]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Predicate/Quantity/has_value_for_energy|has_value_for_energy]]"
@@ -178,7 +178,7 @@ Tag Instances like this:
 
 Properties that take Energy as values are of the form '{Number} {Energy unit of measure}'.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

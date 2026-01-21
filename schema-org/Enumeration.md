@@ -36,8 +36,8 @@ dv_is_:
 dv_has_:
   sub_classes: "[ AdultOrientedEnumeration, BoardingPolicyType, BookFormatType, BusinessEntityType, BusinessFunction, CarUsageType, ContactPointOption, DayOfWeek, DeliveryMethod, DigitalDocumentPermissionType, DigitalPlatformEnumeration, EnergyEfficiencyEnumeration, EventAttendanceModeEnumeration, GameAvailabilityEnumeration, GamePlayMode, GenderType, GovernmentBenefitsType, HealthAspectEnumeration, ItemAvailability, ItemListOrderType, LegalValueLevel, MapCategoryType, MeasurementTypeEnumeration, MediaManipulationRatingEnumeration, MedicalEnumeration, MerchantReturnEnumeration, MusicAlbumProductionType, MusicAlbumReleaseType, MusicReleaseFormatType, NonprofitType, OfferItemCondition, PaymentMethod, PhysicalActivityCategory, PriceComponentTypeEnumeration, PriceTypeEnumeration, ProductReturnEnumeration, QualitativeValue, RefundTypeEnumeration, RestrictedDiet, ReturnFeesEnumeration, ReturnLabelSourceEnumeration, ReturnMethodEnumeration, RsvpResponseType, SizeGroupEnumeration, SizeSystemEnumeration, Specialty, StatusEnumeration, WarrantyScope ]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, supersededBy, url ]"
-dv_is_sub_class_of: "[[Class/is_a_/Intangible]]"
-dv_has_sub_classes: "[ AdultOrientedEnumeration, BoardingPolicyType, BookFormatType, BusinessEntityType, BusinessFunction, CarUsageType, ContactPointOption, DayOfWeek, DeliveryMethod, DigitalDocumentPermissionType, DigitalPlatformEnumeration, EnergyEfficiencyEnumeration, EventAttendanceModeEnumeration, GameAvailabilityEnumeration, GamePlayMode, GenderType, GovernmentBenefitsType, HealthAspectEnumeration, ItemAvailability, ItemListOrderType, LegalValueLevel, MapCategoryType, MeasurementTypeEnumeration, MediaManipulationRatingEnumeration, MedicalEnumeration, MerchantReturnEnumeration, MusicAlbumProductionType, MusicAlbumReleaseType, MusicReleaseFormatType, NonprofitType, OfferItemCondition, PaymentMethod, PhysicalActivityCategory, PriceComponentTypeEnumeration, PriceTypeEnumeration, ProductReturnEnumeration, QualitativeValue, RefundTypeEnumeration, RestrictedDiet, ReturnFeesEnumeration, ReturnLabelSourceEnumeration, ReturnMethodEnumeration, RsvpResponseType, SizeGroupEnumeration, SizeSystemEnumeration, Specialty, StatusEnumeration, WarrantyScope ]"
+dv_has_parent_class: "[[Class/is_a_/Intangible]]"
+dv_has_child_classes: "[ AdultOrientedEnumeration, BoardingPolicyType, BookFormatType, BusinessEntityType, BusinessFunction, CarUsageType, ContactPointOption, DayOfWeek, DeliveryMethod, DigitalDocumentPermissionType, DigitalPlatformEnumeration, EnergyEfficiencyEnumeration, EventAttendanceModeEnumeration, GameAvailabilityEnumeration, GamePlayMode, GenderType, GovernmentBenefitsType, HealthAspectEnumeration, ItemAvailability, ItemListOrderType, LegalValueLevel, MapCategoryType, MeasurementTypeEnumeration, MediaManipulationRatingEnumeration, MedicalEnumeration, MerchantReturnEnumeration, MusicAlbumProductionType, MusicAlbumReleaseType, MusicReleaseFormatType, NonprofitType, OfferItemCondition, PaymentMethod, PhysicalActivityCategory, PriceComponentTypeEnumeration, PriceTypeEnumeration, ProductReturnEnumeration, QualitativeValue, RefundTypeEnumeration, RestrictedDiet, ReturnFeesEnumeration, ReturnLabelSourceEnumeration, ReturnMethodEnumeration, RsvpResponseType, SizeGroupEnumeration, SizeSystemEnumeration, Specialty, StatusEnumeration, WarrantyScope ]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, supersededBy, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration|Enumeration]]"
@@ -56,9 +56,9 @@ Tag Instances like this:
 
 Lists or enumerationsâ€”for example, a list of cuisines or music genres, etc.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
-has_sub_classes = `=this.dv_has_sub_classes` 
+has_child_classes = `=this.dv_has_child_classes` 
 
 has_properties = `=this.dv_has_properties` 
 

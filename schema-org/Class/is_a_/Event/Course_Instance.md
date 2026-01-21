@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Event/Course_Instance.secret|Course_Instance.secret]]"
 dv_has_:
   properties: "[ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, composer, contributor, courseMode, courseWorkload, description, director, disambiguatingDescription, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, funder, funding, identifier, image, inLanguage, instructor, isAccessibleForFree, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, recordedIn, remainingAttendeeCapacity, review, sameAs, sponsor, startDate, subEvent, subEvents, subjectOf, superEvent, translator, typicalAgeRange, url, workFeatured, workPerformed ]"
-dv_is_sub_class_of: "[[../Event]]"
+dv_has_parent_class: "[[../Event]]"
 dv_has_properties: "[ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, composer, contributor, courseMode, courseWorkload, description, director, disambiguatingDescription, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, funder, funding, identifier, image, inLanguage, instructor, isAccessibleForFree, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, recordedIn, remainingAttendeeCapacity, review, sameAs, sponsor, startDate, subEvent, subEvents, subjectOf, superEvent, translator, typicalAgeRange, url, workFeatured, workPerformed ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Event/Course_Instance|Course_Instance]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 An instance of a [[../../../../Society/Communication/Media/Creative_Work/Course]] which is distinct from other instances because it is offered at a different time or location or through different media or modes of study or to a specific section of students.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

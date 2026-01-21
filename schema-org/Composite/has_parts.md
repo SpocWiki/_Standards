@@ -47,12 +47,12 @@ Relation describes that:
 
 #has_/inverse  :: [[is_part_of|is_part_of]]   
 
-#has_/sub_properties :: [ [[has_contained_season|containsSeason]], [[has_episode|episode]], [[has_toc_entry|tocEntry]] ]  
+#has_/child_properties :: [ [[has_contained_season|containsSeason]], [[has_episode|episode]], [[has_toc_entry|tocEntry]] ]  
 
-#has_/sub_properties :: [ [[has_contained_season|containsSeason]], [[has_episode|episode]], [[has_toc_entry|tocEntry]] ]  
+#has_/child_properties :: [ [[has_contained_season|containsSeason]], [[has_episode|episode]], [[has_toc_entry|tocEntry]] ]  
 
-`$=dv.current().has_sub_properties`
-`$=dv.current().has_sub_properties`
+`$=dv.current().has_child_properties`
+`$=dv.current().has_child_properties`
 
 
 ## Confidential Links & Embeds: 

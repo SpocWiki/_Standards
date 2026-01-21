@@ -39,7 +39,7 @@ dv_is_:
 dv_has_:
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, postalCodeBegin, postalCodeEnd, potentialAction, sameAs, subjectOf, url ]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../StructuredValue]]"
+dv_has_parent_class: "[[../StructuredValue]]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, postalCodeBegin, postalCodeEnd, potentialAction, sameAs, subjectOf, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Postal_Code_Range_Specification|Postal_Code_Range_Specification]]"
@@ -60,7 +60,7 @@ is_part_of = `=this.dv_is_part_of`
 
 Indicates a range of postal codes, usually defined as the set of valid codes between [[postalCodeBegin]] and [[postalCodeEnd]], inclusively.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

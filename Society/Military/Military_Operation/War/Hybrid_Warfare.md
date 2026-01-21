@@ -6,7 +6,7 @@ aliases:
 
 # [[Hybrid_Warfare]] 
 
-#is_sub_class_of 
+#has_parent_class 
 
 ## #has_/text_of_/abstract 
 

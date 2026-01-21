@@ -40,7 +40,7 @@ dv_is_:
     - "[[/_personal/Earth/Geography/Place/Administrative_Area/School_District.personal|School_District.personal]]"
     - "[[/_secret/Earth/Geography/Place/Administrative_Area/School_District.secret|School_District.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../AdministrativeArea]]"
+dv_has_parent_class: "[[../AdministrativeArea]]"
 dv_has_properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
 dv_is_same_as:
   - "[[/_Standards/Earth/Geography/Place/Administrative_Area/School_District|School_District]]"
@@ -61,7 +61,7 @@ is_part_of = `=this.dv_is_part_of`
 
 A School District is an administrative area for the administration of schools.
 
-is_sub_class_of = `=this.dv_is_sub_class_of`] ]
+has_parent_class = `=this.dv_has_parent_class`] ]
 
 has_properties = `=this.dv_has_properties` ]
 

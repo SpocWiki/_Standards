@@ -39,7 +39,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Legal_Value_Level/Definitive_Legal_Value.personal|Definitive_Legal_Value.personal]]"
     - "[[/_secret/schema-org/Enumeration/Legal_Value_Level/Definitive_Legal_Value.secret|Definitive_Legal_Value.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../LegalValueLevel]]"
+dv_has_parent_class: "[[../LegalValueLevel]]"
 dv_is_enum_of: "[[../LegalValueLevel]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Legal_Value_Level/Definitive_Legal_Value|Definitive_Legal_Value]]"
@@ -61,7 +61,7 @@ is_part_of = `=this.dv_is_part_of`
 Indicates a document for which the text is conclusively what the law says and is legally binding. (E.g. the digitally signed version of an Official Journal.)
   Something "Definitive" is considered to be also [[AuthoritativeLegalValue]].
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

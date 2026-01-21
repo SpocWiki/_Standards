@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Reply_Action.secret|Reply_Action.secret]]"
 dv_has_:
   properties: "[ about, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, resultComment, sameAs, startTime, subjectOf, target, url ]"
-dv_is_sub_class_of: "[[../CommunicateAction]]"
+dv_has_parent_class: "[[../CommunicateAction]]"
 dv_has_properties: "[ about, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, resultComment, sameAs, startTime, subjectOf, target, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Reply_Action|Reply_Action]]"
@@ -62,7 +62,7 @@ Related actions:
 <li>[[AskAction]]: Appears generally as an origin of a ReplyAction.</li>
 </ul>
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

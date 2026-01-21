@@ -80,7 +80,7 @@ Tag Instances like this:
 
 The day of the week between Thursday and Saturday.
 
-#is_/sub_class_of :: [[../DayOfWeek]]  
+#has_/parent_class :: [[../DayOfWeek]]  
 
 #is_/enum_of :: [[../DayOfWeek]]  
 

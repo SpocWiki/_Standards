@@ -41,7 +41,7 @@ Relation describes that:
 
 #has_/inverse  :: [[is_subject_of]]  
 
-#has_/sub_properties :: [ [has_main_entity](../has/has_main_entity.md) ]  
+#has_/child_properties :: [ [has_main_entity](../has/has_main_entity.md) ]  
 
 ## Confidential Links & Embeds: 
 

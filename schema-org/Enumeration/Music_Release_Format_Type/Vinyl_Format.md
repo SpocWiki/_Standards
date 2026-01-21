@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Music_Release_Format_Type/Vinyl_Format.private|Vinyl_Format.private]]"
     - "[[/_personal/schema-org/Enumeration/Music_Release_Format_Type/Vinyl_Format.personal|Vinyl_Format.personal]]"
     - "[[/_secret/schema-org/Enumeration/Music_Release_Format_Type/Vinyl_Format.secret|Vinyl_Format.secret]]"
-dv_is_sub_class_of: "[[../MusicReleaseFormatType]]"
+dv_has_parent_class: "[[../MusicReleaseFormatType]]"
 dv_is_enum_of: "[[../MusicReleaseFormatType]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Music_Release_Format_Type/Vinyl_Format|Vinyl_Format]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 VinylFormat.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

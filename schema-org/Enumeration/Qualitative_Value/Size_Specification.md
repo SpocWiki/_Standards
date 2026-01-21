@@ -39,7 +39,7 @@ dv_is_:
 dv_has_:
   properties: "[ additionalProperty, equal, greater, greaterOrEqual, hasMeasurement, lesser, lesserOrEqual, nonEqual, sizeGroup, sizeSystem, suggestedAge, suggestedGender, suggestedMeasurement, valueReference ]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../QualitativeValue]]"
+dv_has_parent_class: "[[../QualitativeValue]]"
 dv_has_properties: "[ additionalProperty, equal, greater, greaterOrEqual, hasMeasurement, lesser, lesserOrEqual, nonEqual, sizeGroup, sizeSystem, suggestedAge, suggestedGender, suggestedMeasurement, valueReference ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Qualitative_Value/Size_Specification|Size_Specification]]"
@@ -60,7 +60,7 @@ is_part_of = `=this.dv_is_part_of`
 
 Size related properties of a product, typically a size code ([[../../Property/has_name|Name]]) and optionally a [[sizeSystem]], [[sizeGroup]], and product measurements ([[hasMeasurement]]). In addition, the intended audience can be defined through [[suggestedAge]], [[suggestedGender]], and suggested body measurements ([[suggestedMeasurement]]).
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

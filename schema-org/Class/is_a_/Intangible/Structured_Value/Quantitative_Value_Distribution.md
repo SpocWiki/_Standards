@@ -38,8 +38,8 @@ dv_is_:
 dv_has_:
   sub_classes: "[ MonetaryAmountDistribution ]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, duration, identifier, image, mainEntityOfPage, median, name, percentile10, percentile25, percentile75, percentile90, potentialAction, sameAs, subjectOf, url ]"
-dv_is_sub_class_of: "[[../StructuredValue]]"
-dv_has_sub_classes: "[ MonetaryAmountDistribution ]"
+dv_has_parent_class: "[[../StructuredValue]]"
+dv_has_child_classes: "[ MonetaryAmountDistribution ]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, duration, identifier, image, mainEntityOfPage, median, name, percentile10, percentile25, percentile75, percentile90, potentialAction, sameAs, subjectOf, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution|Quantitative_Value_Distribution]]"
@@ -58,9 +58,9 @@ Tag Instances like this:
 
 A statistical distribution of values.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
-has_sub_classes = `=this.dv_has_sub_classes` 
+has_child_classes = `=this.dv_has_child_classes` 
 
 has_properties = `=this.dv_has_properties` 
 

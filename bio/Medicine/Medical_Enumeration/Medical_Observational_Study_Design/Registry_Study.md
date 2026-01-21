@@ -34,7 +34,7 @@ Tag Instances like this:
 
 A registry-based study design.
 
-#is_/sub_class_of :: [[../MedicalObservationalStudyDesign]]  
+#has_/parent_class :: [[../MedicalObservationalStudyDesign]]  
 
 #is_/enum_of :: [[../MedicalObservationalStudyDesign]]  
 

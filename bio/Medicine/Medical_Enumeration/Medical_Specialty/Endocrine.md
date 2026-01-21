@@ -33,7 +33,7 @@ Tag Instances like this:
 
 A specific branch of medical science that pertains to diagnosis and treatment of disorders of endocrine glands and their secretions.
 
-#is_/sub_class_of :: [[../MedicalSpecialty]]  
+#has_/parent_class :: [[../MedicalSpecialty]]  
 
 #is_/enum_of :: [[../MedicalSpecialty]]  
 

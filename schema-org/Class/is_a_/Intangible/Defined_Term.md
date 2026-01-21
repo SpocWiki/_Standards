@@ -41,8 +41,8 @@ dv_has_:
   sub_classes: "[ [[defined_term/category_code|CategoryCode]] ]"
   properties: "[ [[../../../Property/has_url_for/has_url_for_additional_type|additionalType]], [[../../../Property/Texts/has_alternate_name|alternateName]], [[../../../Property/Texts/has_description|description]], [[../../../Property/Texts/has_disambiguating_description|disambiguatingDescription]], [[../../../Relation/has/has_identifier|identifier]], [[../../../Relation/has/has_image|image]], [[../../../Relation/is/is_in_defined_term_set|inDefinedTermSet]], [[../../../Relation/is/is_main_entity_of_page|mainEntityOfPage]], [[../../../Property/Texts/has_name|name]], [[../../../Relation/has/has_potential_action|potentialAction]], [[../../../Relation/is_same_as|sameAs]], [[../../../Relation/is/is_subject_of|subjectOf]], [[../../../Property/Texts/has_term-code|termCode]], url ] ]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../Intangible]]"
-dv_has_sub_classes: "[ [[defined_term/category_code|CategoryCode]] ]"
+dv_has_parent_class: "[[../Intangible]]"
+dv_has_child_classes: "[ [[defined_term/category_code|CategoryCode]] ]"
 dv_has_properties: "[ [[../../../Property/has_url_for/has_url_for_additional_type|additionalType]], [[../../../Property/Texts/has_alternate_name|alternateName]], [[../../../Property/Texts/has_description|description]], [[../../../Property/Texts/has_disambiguating_description|disambiguatingDescription]], [[../../../Relation/has/has_identifier|identifier]], [[../../../Relation/has/has_image|image]], [[../../../Relation/is/is_in_defined_term_set|inDefinedTermSet]], [[../../../Relation/is/is_main_entity_of_page|mainEntityOfPage]], [[../../../Property/Texts/has_name|name]], [[../../../Relation/has/has_potential_action|potentialAction]], [[../../../Relation/is_same_as|sameAs]], [[../../../Relation/is/is_subject_of|subjectOf]], [[../../../Property/Texts/has_term-code|termCode]], url ] ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Defined_Term|Defined_Term]]"
@@ -92,9 +92,9 @@ Tag Term-Classes like this:
 
 is_part_of = `=this.dv_is_part_of` 
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
-has_sub_classes = `=this.dv_has_sub_classes` 
+has_child_classes = `=this.dv_has_child_classes` 
 
 has_properties = `=this.dv_has_properties` 
 

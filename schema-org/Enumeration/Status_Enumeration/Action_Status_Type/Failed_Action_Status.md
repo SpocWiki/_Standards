@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Status_Enumeration/Action_Status_Type/Failed_Action_Status.private|Failed_Action_Status.private]]"
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Action_Status_Type/Failed_Action_Status.personal|Failed_Action_Status.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Action_Status_Type/Failed_Action_Status.secret|Failed_Action_Status.secret]]"
-dv_is_sub_class_of: "[[../ActionStatusType]]"
+dv_has_parent_class: "[[../ActionStatusType]]"
 dv_is_enum_of: "[[../ActionStatusType]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Action_Status_Type/Failed_Action_Status|Failed_Action_Status]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 An action that failed to complete. The action's error property and the HTTP return code contain more information about the failure.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

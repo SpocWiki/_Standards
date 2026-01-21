@@ -38,8 +38,8 @@ dv_is_:
 dv_has_:
   sub_classes: "[ AppendAction, PrependAction ]"
   properties: "[ actionStatus, additionalType, agent, alternateName, collection, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, targetCollection, toLocation, url ]"
-dv_is_sub_class_of: "[[../AddAction]]"
-dv_has_sub_classes: "[ AppendAction, PrependAction ]"
+dv_has_parent_class: "[[../AddAction]]"
+dv_has_child_classes: "[ AppendAction, PrependAction ]"
 dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, collection, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, targetCollection, toLocation, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Action/Update_Action/Add_Action/Insert_Action|Insert_Action]]"
@@ -58,9 +58,9 @@ Tag Instances like this:
 
 The act of adding at a specific location in an ordered collection.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
-has_sub_classes = `=this.dv_has_sub_classes` 
+has_child_classes = `=this.dv_has_child_classes` 
 
 has_properties = `=this.dv_has_properties` 
 

@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Entry_Point.secret|Entry_Point.secret]]"
 dv_has_:
   properties: "[ actionApplication, actionPlatform, additionalType, alternateName, application, contentType, description, disambiguatingDescription, encodingType, httpMethod, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url, urlTemplate ]"
-dv_is_sub_class_of: "[[../Intangible]]"
+dv_has_parent_class: "[[../Intangible]]"
 dv_has_properties: "[ actionApplication, actionPlatform, additionalType, alternateName, application, contentType, description, disambiguatingDescription, encodingType, httpMethod, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url, urlTemplate ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Entry_Point|Entry_Point]]"
@@ -57,7 +57,7 @@ Tag Instances like this:
 
 An entry point, within some Web-based protocol.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

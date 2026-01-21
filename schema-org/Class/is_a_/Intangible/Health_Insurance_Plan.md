@@ -39,7 +39,7 @@ dv_is_:
 dv_has_:
   properties: "[ additionalType, alternateName, benefitsSummaryUrl, contactPoint, description, disambiguatingDescription, healthPlanDrugOption, healthPlanDrugTier, healthPlanId, healthPlanMarketingUrl, identifier, image, includesHealthPlanFormulary, includesHealthPlanNetwork, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url, usesHealthPlanIdStandard ]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../Intangible]]"
+dv_has_parent_class: "[[../Intangible]]"
 dv_has_properties: "[ additionalType, alternateName, benefitsSummaryUrl, contactPoint, description, disambiguatingDescription, healthPlanDrugOption, healthPlanDrugTier, healthPlanId, healthPlanMarketingUrl, identifier, image, includesHealthPlanFormulary, includesHealthPlanNetwork, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url, usesHealthPlanIdStandard ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Health_Insurance_Plan|Health_Insurance_Plan]]"
@@ -60,7 +60,7 @@ is_part_of = `=this.dv_is_part_of`
 
 A US-style health insurance plan, including PPOs, EPOs, and HMOs.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

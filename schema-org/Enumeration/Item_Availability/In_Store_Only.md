@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Item_Availability/In_Store_Only.private|In_Store_Only.private]]"
     - "[[/_personal/schema-org/Enumeration/Item_Availability/In_Store_Only.personal|In_Store_Only.personal]]"
     - "[[/_secret/schema-org/Enumeration/Item_Availability/In_Store_Only.secret|In_Store_Only.secret]]"
-dv_is_sub_class_of: "[[../ItemAvailability]]"
+dv_has_parent_class: "[[../ItemAvailability]]"
 dv_is_enum_of: "[[../ItemAvailability]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Item_Availability/In_Store_Only|In_Store_Only]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 Indicates that the item is available only at physical locations.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

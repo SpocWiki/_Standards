@@ -56,7 +56,7 @@ Relation describes that:
 
 #has_/inverse  :: [[has_member]]  
 
-#has_/sub_properties :: [[has_affiliation_with]]  
+#has_/child_properties :: [[has_affiliation_with]]  
 
 ## Confidential Links & Embeds: 
 

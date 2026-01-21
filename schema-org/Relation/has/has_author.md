@@ -46,7 +46,7 @@ Relation describes that:
 (has_/name :: has_author )
 (has_/range :: Organization, Person )
 
-#is_/sub_relation_of :: [[has_creator]] 
+#is_/child_relation_of :: [[has_creator]] 
 
 
 ## Confidential Links & Embeds: 

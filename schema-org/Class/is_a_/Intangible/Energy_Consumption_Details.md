@@ -39,7 +39,7 @@ dv_is_:
 dv_has_:
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, energyEfficiencyScaleMax, energyEfficiencyScaleMin, hasEnergyEfficiencyCategory, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../Intangible]]"
+dv_has_parent_class: "[[../Intangible]]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, energyEfficiencyScaleMax, energyEfficiencyScaleMin, hasEnergyEfficiencyCategory, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details|Energy_Consumption_Details]]"
@@ -60,7 +60,7 @@ is_part_of = `=this.dv_is_part_of`
 
 EnergyConsumptionDetails represents information related to the energy efficiency of a product that consumes energy. The information that can be provided is based on international regulations such as for example <a href="https://eur-lex.europa.eu/eli/reg/2017/1369/oj">EU directive 2017/1369</a> for energy labeling and the <a href="https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/energy-water-use-labeling-consumer">Energy labeling rule</a> under the Energy Policy and Conservation Act (EPCA) in the US.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

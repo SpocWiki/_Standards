@@ -40,7 +40,7 @@ dv_is_:
     - "[[/_personal/Earth/Geography/Place/Tourist_Destination.personal|Tourist_Destination.personal]]"
     - "[[/_secret/Earth/Geography/Place/Tourist_Destination.secret|Tourist_Destination.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../Place]]"
+dv_has_parent_class: "[[../Place]]"
 dv_has_properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, includesAttraction, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, touristType, url ]"
 dv_is_same_as:
   - "[[/_Standards/Earth/Geography/Place/Tourist_Destination|Tourist_Destination]]"
@@ -62,7 +62,7 @@ is_part_of = `=this.dv_is_part_of`
 A tourist destination. In principle any [[../../../../Earth/Geography/Place]] can be a [[TouristDestination]] from a[[Administrative_Area/City]]], Region or[[Administrative_Area/Country]]] to an [[AmusementPark]] or [[../../../Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Hotel]]. This Type can be used on its own to describe a general [[TouristDestination]], or be used as an [[additionalType]] to add tourist relevant properties to any other [[../../../../Earth/Geography/Place]].  A [[TouristDestination]] is defined as a [[../../../../Earth/Geography/Place]] that contains, or is colocated with, one or more [[TouristAttraction]]s, often linked by a similar theme or interest to a particular [[touristType]]. The <a href="http://www2.unwto.org/">UNWTO</a> defines Destination (main destination of a tourism trip) as the place visited that is central to the decision to take the trip.
   (See examples below.)
 
-is_sub_class_of = `=this.dv_is_sub_class_of`] ]
+has_parent_class = `=this.dv_has_parent_class`] ]
 
 has_properties = `=this.dv_has_properties` ]
 

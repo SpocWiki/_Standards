@@ -34,7 +34,7 @@ Tag Instances like this:
 
 Target audiences types for medical web pages. Enumerated type.
 
-#is_/sub_class_of :: [[../MedicalEnumeration]]  
+#has_/parent_class :: [[../MedicalEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

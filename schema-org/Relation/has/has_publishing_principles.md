@@ -45,7 +45,7 @@ Relation describes that:
 (has_/name :: is_publishing_principles )
 (has_/range :: CreativeWork, URL )
 
-#has_/sub_properties :: [ actionableFeedbackPolicy, correctionsPolicy, diversityStaffingReport, masthead, missionCoveragePrioritiesPolicy, noBylinesPolicy, ownershipFundingInfo, unnamedSourcesPolicy, verificationFactCheckingPolicy ]  
+#has_/child_properties :: [ actionableFeedbackPolicy, correctionsPolicy, diversityStaffingReport, masthead, missionCoveragePrioritiesPolicy, noBylinesPolicy, ownershipFundingInfo, unnamedSourcesPolicy, verificationFactCheckingPolicy ]  
 
 ## Confidential Links & Embeds: 
 

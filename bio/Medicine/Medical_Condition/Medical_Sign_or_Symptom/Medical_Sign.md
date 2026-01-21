@@ -34,9 +34,9 @@ Tag Instances like this:
 
 Any physical manifestation of a person's medical condition discoverable by objective diagnostic tests or physical examination.
 
-#is_/sub_class_of :: [[../MedicalSignOrSymptom]]  
+#has_/parent_class :: [[../MedicalSignOrSymptom]]  
 
-#has_/sub_classes :: [ VitalSign ]  
+#has_/child_classes :: [ VitalSign ]  
 
 #has_/properties :: [ additionalType, alternateName, associatedAnatomy, code, description, differentialDiagnosis, disambiguatingDescription, drug, epidemiology, expectedPrognosis, funding, guideline, identifier, identifyingExam, identifyingTest, image, legalStatus, mainEntityOfPage, medicineSystem, name, naturalProgression, pathophysiology, possibleComplication, possibleTreatment, potentialAction, primaryPrevention, recognizingAuthority, relevantSpecialty, riskFactor, sameAs, secondaryPrevention, signOrSymptom, stage, status, study, subjectOf, typicalTest, url ]  
 

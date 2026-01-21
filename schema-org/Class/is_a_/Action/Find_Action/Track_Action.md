@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Action/Find_Action/Track_Action.secret|Track_Action.secret]]"
 dv_has_:
   properties: "[ actionStatus, additionalType, agent, alternateName, deliveryMethod, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
-dv_is_sub_class_of: "[[../FindAction]]"
+dv_has_parent_class: "[[../FindAction]]"
 dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, deliveryMethod, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Action/Find_Action/Track_Action|Track_Action]]"
@@ -63,7 +63,7 @@ Related actions:
 <li>[[SubscribeAction]]: Unlike SubscribeAction, TrackAction refers to  the interest on the location of innanimate objects.</li>
 </ul>
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Return_Method_Enumeration.personal|Return_Method_Enumeration.personal]]"
     - "[[/_secret/schema-org/Enumeration/Return_Method_Enumeration.secret|Return_Method_Enumeration.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../Enumeration]]"
+dv_has_parent_class: "[[../Enumeration]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Return_Method_Enumeration|Return_Method_Enumeration]]"
   - "[[/_public/schema-org/Enumeration/Return_Method_Enumeration.public|Return_Method_Enumeration.public]]"
@@ -57,7 +57,7 @@ is_part_of = `=this.dv_is_part_of`
 
 Enumerates several types of product return methods.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 ## Confidential Links & Embeds: 
 

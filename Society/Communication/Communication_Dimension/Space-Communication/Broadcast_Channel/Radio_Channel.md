@@ -38,9 +38,9 @@ Tag Instances like this:
 
 A unique instance of a [[../../../../../Agent/Community/Organization/Business/Service/Broadcast_Service/Radio_Broadcast_Service|Radio_Broadcast_Service]] on a [[../../../../../Agent/Community/Organization/Business/Service/Cable_or_Satellite_Service|Cable_or_Satellite_Service]] lineup.
 
-#is_/sub_class_of :: [[../BroadcastChannel]]  
+#has_/parent_class :: [[../BroadcastChannel]]  
 
-#has_/sub_classes :: [ AMRadioChannel, FMRadioChannel ]  
+#has_/child_classes :: [ AMRadioChannel, FMRadioChannel ]  
 
 #has_/properties :: [ additionalType, alternateName, broadcastChannelId, broadcastFrequency, broadcastServiceTier, description, disambiguatingDescription, genre, identifier, image, inBroadcastLineup, mainEntityOfPage, name, potentialAction, providesBroadcastService, sameAs, subjectOf, url ]  
 

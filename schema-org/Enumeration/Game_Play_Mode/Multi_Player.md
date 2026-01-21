@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Game_Play_Mode/Multi_Player.private|Multi_Player.private]]"
     - "[[/_personal/schema-org/Enumeration/Game_Play_Mode/Multi_Player.personal|Multi_Player.personal]]"
     - "[[/_secret/schema-org/Enumeration/Game_Play_Mode/Multi_Player.secret|Multi_Player.secret]]"
-dv_is_sub_class_of: "[[../GamePlayMode]]"
+dv_has_parent_class: "[[../GamePlayMode]]"
 dv_is_enum_of: "[[../GamePlayMode]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Game_Play_Mode/Multi_Player|Multi_Player]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 Play mode: MultiPlayer. Requiring or allowing multiple human players to play simultaneously.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

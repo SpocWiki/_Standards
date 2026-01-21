@@ -36,7 +36,7 @@ Tag Instances like this:
 
 A loan in which property or real estate is used as collateral. (A loan securitized against some real estate.)
 
-#is_/sub_class_of :: [[../LoanOrCredit]]  
+#has_/parent_class :: [[../LoanOrCredit]]  
 
 #has_/properties :: [ additionalType, aggregateRating, alternateName, amount, annualPercentageRate, areaServed, audience, availableChannel, award, brand, broker, category, currency, description, disambiguatingDescription, domiciledMortgage, feesAndCommissionsSpecification, gracePeriod, hasOfferCatalog, hoursAvailable, identifier, image, interestRate, isRelatedTo, isSimilarTo, loanMortgageMandateAmount, loanRepaymentForm, loanTerm, loanType, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, recourseLoan, renegotiableLoan, requiredCollateral, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ]  
 

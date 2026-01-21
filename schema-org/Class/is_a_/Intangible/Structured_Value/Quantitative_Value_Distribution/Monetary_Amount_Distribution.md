@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution.secret|Monetary_Amount_Distribution.secret]]"
 dv_has_:
   properties: "[ additionalType, alternateName, currency, description, disambiguatingDescription, duration, identifier, image, mainEntityOfPage, median, name, percentile10, percentile25, percentile75, percentile90, potentialAction, sameAs, subjectOf, url ]"
-dv_is_sub_class_of: "[[../QuantitativeValueDistribution]]"
+dv_has_parent_class: "[[../QuantitativeValueDistribution]]"
 dv_has_properties: "[ additionalType, alternateName, currency, description, disambiguatingDescription, duration, identifier, image, mainEntityOfPage, median, name, percentile10, percentile25, percentile75, percentile90, potentialAction, sameAs, subjectOf, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution|Monetary_Amount_Distribution]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 A statistical distribution of monetary amounts.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

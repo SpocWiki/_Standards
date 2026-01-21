@@ -45,7 +45,7 @@ either a larger [[ApartmentComplex]] or a single[[../../../../../../../Earth/Geo
 The visual/spatial aspects of a floor plan (i.e. room layout, <a href="https://en.wikipedia.org/wiki/Floor_plan">see wikipedia</a>) 
 can be indicated using [[image]].
 
-#is_/sub_class_of :: [[../../../../../../../schema-org/Class/is_a_/Intangible]]  
+#has_/parent_class :: [[../../../../../../../schema-org/Class/is_a_/Intangible]]  
 
 #has_/properties :: [ additionalType, alternateName, amenityFeature, description, disambiguatingDescription, floorSize, identifier, image, isPlanForApartment, layoutImage, mainEntityOfPage, name, numberOfAccommodationUnits, numberOfAvailableAccommodationUnits, numberOfBathroomsTotal, numberOfBedrooms, numberOfFullBathrooms, numberOfPartialBathrooms, numberOfRooms, petsAllowed, potentialAction, sameAs, subjectOf, url ]  
 

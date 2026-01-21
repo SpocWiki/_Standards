@@ -19,7 +19,7 @@ cssclasses:
   - Type
 draft: false
 expiryDate: ""
-has_sub_classes:
+has_child_classes:
   - "[[./Class/is_a_/action|Action]]"
   - "[[Class/is_a_/bio_chem_entity|bio_chem_entity]]"
   - "[[../../Society/Communication/Media/Creative_Work|creative_work]]"
@@ -77,7 +77,7 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Class/Thing.personal|Thing.personal]]"
   - "[[/_secret/schema-org/Class/Thing.secret|Thing.secret]]"
 dv_is_instance_of: "[[../Class|Class]]"
-dv_is_sub_class_of: "[[Thing]]"
+dv_has_parent_class: "[[Thing]]"
 dv_predicateurlshas_url_for_additional_typemd-has_properties: "[ \"[has_url_for_additional_type]]\", '[[Predicate/Texts/has_alternate_name.md|has_alternate_name]]', \"[[Predicate/Texts/has_description.md|has_description]]\", disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url"
 ---
 
@@ -97,7 +97,7 @@ They are the Subject of the [[is_instance_of]] Relation to their [[../Classes.md
 This is disjoint to the [[is_part_of]] and [[../Collection/is_item_in|is_item_in]] Relations. 
 
 Instances can be Members of [[../Classes.md|Classes]]. Typically the narrowest Sub-Class is specified, 
-as the [[is_sub_class_of|subclass-of]] Relation allows to infer many other Classes 
+as the [[../Relation/has/has_parent/has_parent_class|subclass-of]] Relation allows to infer many other Classes 
 (but not all! A Thing may be an instance of multiple disjoint Class Hierarchies). 
 
 Tagging Instances like this is futile, because it is implied: 
@@ -107,13 +107,13 @@ Tagging Instances like this is futile, because it is implied:
 
 Don't used this Class in a Relation, because it is too vague. Rather use 
 - [[is_instance_of]] for Objects or 
-- [[is_sub_class_of|is_subclass_of]]  for Classes
+- [[../Relation/has/has_parent/has_parent_class|has_parent_class]]  for Classes
 
 But this is_instance_of = `=this.dv_is_instance_of` ] ] 
-There is no larger Class:  is_sub_class_of = `=this.dv_is_sub_class_of` ] ] 
-#has_/sub_classes :: [[Class/is_a_/creative_work.md| "[[Action]], [[Class/is_a_/place.md|[Event]], [[../../Society/Agent/Community/Organization/Business/Product]], [[stupid_Type]], [[../../bio/Taxon_Rank/Taxon]] ] 
+There is no larger Class:  has_parent_class = `=this.dv_has_parent_class` ] ] 
+#has_/child_classes :: [[Class/is_a_/creative_work.md| "[[Action]], [[Class/is_a_/place.md|[Event]], [[../../Society/Agent/Community/Organization/Business/Product]], [[stupid_Type]], [[../../bio/Taxon_Rank/Taxon]] ] 
 
-has_/sub_classes:: [ "[[./Class/is_an_/action|Action]]", "[[Class/is_a_/bio_chem_entity|bio_chem_entity]]", "[[../../Society/Communication/Media/Creative_Work|creative_work]]", "[[Class/is_a_/event|event]]", "[[Class/is_a_/Intangible|Intangible]]", "[[../../bio/Medicine/Medical_Entity|medical-entity]]", "[[../../Earth/Geography/Place|place]]", "[[../../Society/Agent/Community/Organization|organization]]", "[[../../Society/Agent/Person|person]]", "[[../../Society/Agent/Community/Organization/Business/Product|product]]", "[[../../bio/Taxon_Rank/Taxon|taxon]]" ]
+has_/child_classes:: [ "[[./Class/is_an_/action|Action]]", "[[Class/is_a_/bio_chem_entity|bio_chem_entity]]", "[[../../Society/Communication/Media/Creative_Work|creative_work]]", "[[Class/is_a_/event|event]]", "[[Class/is_a_/Intangible|Intangible]]", "[[../../bio/Medicine/Medical_Entity|medical-entity]]", "[[../../Earth/Geography/Place|place]]", "[[../../Society/Agent/Community/Organization|organization]]", "[[../../Society/Agent/Person|person]]", "[[../../Society/Agent/Community/Organization/Business/Product|product]]", "[[../../bio/Taxon_Rank/Taxon|taxon]]" ]
 
 [[Predicate/Urls/has_url_for_additional_type.md| #has_/properties :: [ "[has_url_for_additional_type]]", '[[Predicate/Texts/has_alternate_name.md|has_alternate_name]]', "[[Predicate/Texts/has_description.md|has_description]]", disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 

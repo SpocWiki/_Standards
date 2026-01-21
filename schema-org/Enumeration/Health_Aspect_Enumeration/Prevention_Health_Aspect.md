@@ -39,7 +39,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Health_Aspect_Enumeration/Prevention_Health_Aspect.personal|Prevention_Health_Aspect.personal]]"
     - "[[/_secret/schema-org/Enumeration/Health_Aspect_Enumeration/Prevention_Health_Aspect.secret|Prevention_Health_Aspect.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../HealthAspectEnumeration]]"
+dv_has_parent_class: "[[../HealthAspectEnumeration]]"
 dv_is_enum_of: "[[../HealthAspectEnumeration]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Health_Aspect_Enumeration/Prevention_Health_Aspect|Prevention_Health_Aspect]]"
@@ -60,7 +60,7 @@ is_part_of = `=this.dv_is_part_of`
 
 Information about actions or measures that can be taken to avoid getting the topic or reaching a critical situation related to the topic.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

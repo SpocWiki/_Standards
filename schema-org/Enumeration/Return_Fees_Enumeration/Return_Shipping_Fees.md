@@ -39,7 +39,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Return_Fees_Enumeration/Return_Shipping_Fees.personal|Return_Shipping_Fees.personal]]"
     - "[[/_secret/schema-org/Enumeration/Return_Fees_Enumeration/Return_Shipping_Fees.secret|Return_Shipping_Fees.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../ReturnFeesEnumeration]]"
+dv_has_parent_class: "[[../ReturnFeesEnumeration]]"
 dv_is_enum_of: "[[../ReturnFeesEnumeration]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Return_Fees_Enumeration/Return_Shipping_Fees|Return_Shipping_Fees]]"
@@ -60,7 +60,7 @@ is_part_of = `=this.dv_is_part_of`
 
 Specifies that the customer must pay the return shipping costs when returning a product.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

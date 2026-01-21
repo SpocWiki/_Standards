@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Music_Release_Format_Type/Laser_Disc_Format.private|Laser_Disc_Format.private]]"
     - "[[/_personal/schema-org/Enumeration/Music_Release_Format_Type/Laser_Disc_Format.personal|Laser_Disc_Format.personal]]"
     - "[[/_secret/schema-org/Enumeration/Music_Release_Format_Type/Laser_Disc_Format.secret|Laser_Disc_Format.secret]]"
-dv_is_sub_class_of: "[[../MusicReleaseFormatType]]"
+dv_has_parent_class: "[[../MusicReleaseFormatType]]"
 dv_is_enum_of: "[[../MusicReleaseFormatType]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Music_Release_Format_Type/Laser_Disc_Format|Laser_Disc_Format]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 LaserDiscFormat.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

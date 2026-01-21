@@ -37,8 +37,8 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration.secret|Status_Enumeration.secret]]"
 dv_has_:
   sub_classes: "[ ActionStatusType, EventStatusType, GameServerStatus, LegalForceStatus, OrderStatus, PaymentStatusType, ReservationStatusType ]"
-dv_is_sub_class_of: "[[../Enumeration]]"
-dv_has_sub_classes: "[ ActionStatusType, EventStatusType, GameServerStatus, LegalForceStatus, OrderStatus, PaymentStatusType, ReservationStatusType ]"
+dv_has_parent_class: "[[../Enumeration]]"
+dv_has_child_classes: "[ ActionStatusType, EventStatusType, GameServerStatus, LegalForceStatus, OrderStatus, PaymentStatusType, ReservationStatusType ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Status_Enumeration|Status_Enumeration]]"
   - "[[/_public/schema-org/Enumeration/Status_Enumeration.public|Status_Enumeration.public]]"
@@ -56,9 +56,9 @@ Tag Instances like this:
 
 Lists or enumerations dealing with status types.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
-has_sub_classes = `=this.dv_has_sub_classes` 
+has_child_classes = `=this.dv_has_child_classes` 
 
 ## Confidential Links & Embeds: 
 

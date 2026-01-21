@@ -33,7 +33,7 @@ Tag Instances like this:
 
 A specific branch of medical science that is concerned with the ear, nose and throat and their respective disease states.
 
-#is_/sub_class_of :: [[../MedicalBusiness, MedicalSpecialty]]  
+#has_/parent_class :: [[../MedicalBusiness, MedicalSpecialty]]  
 
 #is_/enum_of :: [[../MedicalSpecialty]]  
 

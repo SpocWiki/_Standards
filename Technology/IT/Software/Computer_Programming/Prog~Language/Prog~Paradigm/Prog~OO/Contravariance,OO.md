@@ -6,7 +6,7 @@ aliases:
 
 #is_/part_of :: [[Variance,OO]] 
 
-Function-Parameters [[../../../../../../../schema-org/Class/has_sub_classes|sub_classes]]]]] are contra-variant, 
+Function-Parameters [[../../../../../../../schema-org/Relation/has/has_child/has_child_class|sub_classes]]]]] are contra-variant, 
 i.e. they can be more general without breaking the [[Liskov_Substitution-Principle]].  
 
 

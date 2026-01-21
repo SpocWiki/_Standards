@@ -39,7 +39,7 @@ Relation describes that:
 
 #has_/parent_/property  :: participant  
 
-#has_/sub_properties :: [ bccRecipient, ccRecipient, toRecipient ]  
+#has_/child_properties :: [ bccRecipient, ccRecipient, toRecipient ]  
 
 ## Confidential Links & Embeds: 
 

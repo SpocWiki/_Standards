@@ -4,7 +4,7 @@ aliases:
   - Post-medieval
   - Post-medieval archaeology
 has_id_wikidata: Q1982103
-instance_of: "[[_Standards/WikiData/WD~archaeological_sub_discipline,4785472]]"
+instance_of: "[[_Standards/WikiData/WD~archaeological_child_discipline,4785472]]"
 subclass_of: "[[_Standards/WikiData/WD~archaeology,23498]]"
 dv_has_:
   time_:

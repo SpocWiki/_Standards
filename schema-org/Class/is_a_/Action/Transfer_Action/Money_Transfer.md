@@ -39,7 +39,7 @@ dv_is_:
 dv_has_:
   properties: "[ actionStatus, additionalType, agent, alternateName, amount, beneficiaryBank, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../TransferAction]]"
+dv_has_parent_class: "[[../TransferAction]]"
 dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, amount, beneficiaryBank, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Action/Transfer_Action/Money_Transfer|Money_Transfer]]"
@@ -60,7 +60,7 @@ is_part_of = `=this.dv_is_part_of`
 
 The act of transferring money from one place to another place. This may occur electronically or physically.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

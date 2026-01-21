@@ -35,7 +35,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Trip/Flight.secret|Flight.secret]]"
 dv_has_:
   properties: "[ additionalType, aircraft, alternateName, arrivalAirport, arrivalGate, arrivalTerminal, arrivalTime, boardingPolicy, carrier, departureAirport, departureGate, departureTerminal, departureTime, description, disambiguatingDescription, estimatedFlightDuration, flightDistance, flightNumber, identifier, image, itinerary, mainEntityOfPage, mealService, name, offers, partOfTrip, potentialAction, provider, sameAs, seller, subTrip, subjectOf, url, webCheckinTime ]"
-dv_is_sub_class_of: "[[../Trip]]"
+dv_has_parent_class: "[[../Trip]]"
 dv_has_properties: "[ additionalType, aircraft, alternateName, arrivalAirport, arrivalGate, arrivalTerminal, arrivalTime, boardingPolicy, carrier, departureAirport, departureGate, departureTerminal, departureTime, description, disambiguatingDescription, estimatedFlightDuration, flightDistance, flightNumber, identifier, image, itinerary, mainEntityOfPage, mealService, name, offers, partOfTrip, potentialAction, provider, sameAs, seller, subTrip, subjectOf, url, webCheckinTime ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Trip/Flight|Flight]]"
@@ -54,7 +54,7 @@ Tag Instances like this:
 
 An airline flight.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

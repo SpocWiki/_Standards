@@ -38,7 +38,7 @@ Tag Instances like this:
 Represents the generic notion of the Web Platform. 
 More specific codes include [[MobileWebPlatform]] and [[DesktopWebPlatform]], as an incomplete list.
 
-#is_/sub_class_of :: [[../DigitalPlatformEnumeration]]  
+#has_/parent_class :: [[../DigitalPlatformEnumeration]]  
 
 #is_/enum_of :: [[../DigitalPlatformEnumeration]]  
 

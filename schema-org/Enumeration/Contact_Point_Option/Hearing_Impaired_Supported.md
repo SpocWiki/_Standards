@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Contact_Point_Option/Hearing_Impaired_Supported.private|Hearing_Impaired_Supported.private]]"
     - "[[/_personal/schema-org/Enumeration/Contact_Point_Option/Hearing_Impaired_Supported.personal|Hearing_Impaired_Supported.personal]]"
     - "[[/_secret/schema-org/Enumeration/Contact_Point_Option/Hearing_Impaired_Supported.secret|Hearing_Impaired_Supported.secret]]"
-dv_is_sub_class_of: "[[../ContactPointOption]]"
+dv_has_parent_class: "[[../ContactPointOption]]"
 dv_is_enum_of: "[[../ContactPointOption]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Contact_Point_Option/Hearing_Impaired_Supported|Hearing_Impaired_Supported]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 Uses devices to support users with hearing impairments.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

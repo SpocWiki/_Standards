@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification.secret|Unit_Price_Specification.secret]]"
 dv_has_:
   properties: "[ additionalType, alternateName, billingDuration, billingIncrement, billingStart, description, disambiguatingDescription, eligibleQuantity, eligibleTransactionVolume, identifier, image, mainEntityOfPage, maxPrice, minPrice, name, potentialAction, price, priceComponentType, priceCurrency, priceType, referenceQuantity, sameAs, subjectOf, unitCode, unitText, url, validFrom, validThrough, valueAddedTaxIncluded ]"
-dv_is_sub_class_of: "[[../PriceSpecification]]"
+dv_has_parent_class: "[[../PriceSpecification]]"
 dv_has_properties: "[ additionalType, alternateName, billingDuration, billingIncrement, billingStart, description, disambiguatingDescription, eligibleQuantity, eligibleTransactionVolume, identifier, image, mainEntityOfPage, maxPrice, minPrice, name, potentialAction, price, priceComponentType, priceCurrency, priceType, referenceQuantity, sameAs, subjectOf, unitCode, unitText, url, validFrom, validThrough, valueAddedTaxIncluded ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification|Unit_Price_Specification]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 The price asked for a given offer by the respective organization or person.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

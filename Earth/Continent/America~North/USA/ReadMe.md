@@ -174,7 +174,7 @@ dv.table(
             .sort(p => -p.is_a_member_of_usa_since)
             .map(async d => [
                 d.file.link,
-                //d.is_sub_class_of,
+                //d.has_parent_class,
                 d.is_a_member_of_usa_since,
                 d.Capital,
                 d.has_place_longitude,

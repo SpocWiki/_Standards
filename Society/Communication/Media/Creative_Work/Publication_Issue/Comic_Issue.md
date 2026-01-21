@@ -85,7 +85,7 @@ All comic issues can be uniquely identified by:
 - the issue number; and 
 - the variant description of the issue (if any).
 
-#is_/sub_class_of :: [[../PublicationIssue]]  
+#has_/parent_class :: [[../PublicationIssue]]  
 
 #is_/same_as :: [[../../../../../WikiData/WD~Comics,1004|WD~Comics,1004]] 
 

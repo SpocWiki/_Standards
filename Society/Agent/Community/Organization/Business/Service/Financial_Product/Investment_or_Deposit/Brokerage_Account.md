@@ -36,7 +36,7 @@ Tag Instances like this:
 
 An account that allows an investor to deposit funds and place investment orders with a licensed broker or brokerage firm.
 
-#is_/sub_class_of :: [[../InvestmentOrDeposit]]  
+#has_/parent_class :: [[../InvestmentOrDeposit]]  
 
 #has_/properties :: [ additionalType, aggregateRating, alternateName, amount, annualPercentageRate, areaServed, audience, availableChannel, award, brand, broker, category, description, disambiguatingDescription, feesAndCommissionsSpecification, hasOfferCatalog, hoursAvailable, identifier, image, interestRate, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ]  
 

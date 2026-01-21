@@ -38,8 +38,8 @@ dv_is_:
 dv_has_:
   sub_classes: "[ LoseAction, TieAction, WinAction ]"
   properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
-dv_is_sub_class_of: "[[../Action]]"
-dv_has_sub_classes: "[ LoseAction, TieAction, WinAction ]"
+dv_has_parent_class: "[[../Action]]"
+dv_has_child_classes: "[ LoseAction, TieAction, WinAction ]"
 dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Action/Achieve_Action|Achieve_Action]]"
@@ -61,9 +61,9 @@ Tag Instances like this:
 The act of accomplishing something via previous efforts. 
 It is an instantaneous action rather than an ongoing process.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
-has_sub_classes = `=this.dv_has_sub_classes` 
+has_child_classes = `=this.dv_has_child_classes` 
 
 has_properties = `=this.dv_has_properties` 
 

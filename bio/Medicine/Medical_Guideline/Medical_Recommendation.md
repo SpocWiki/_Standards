@@ -36,7 +36,7 @@ Tag Instances like this:
 
 A guideline recommendation that is regarded as efficacious and where quality of the data supporting the recommendation is sound.
 
-#is_/sub_class_of :: [[../MedicalGuideline]]  
+#has_/parent_class :: [[../MedicalGuideline]]  
 
 #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, evidenceLevel, evidenceOrigin, funding, guideline, guidelineDate, guidelineSubject, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, recommendationStrength, relevantSpecialty, sameAs, study, subjectOf, url ]  
 

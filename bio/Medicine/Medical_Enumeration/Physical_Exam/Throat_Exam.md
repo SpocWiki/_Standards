@@ -33,7 +33,7 @@ Tag Instances like this:
 
 Throat assessment with  clinical examination.
 
-#is_/sub_class_of :: [[../PhysicalExam]]  
+#has_/parent_class :: [[../PhysicalExam]]  
 
 #is_/enum_of :: [[../PhysicalExam]]  
 

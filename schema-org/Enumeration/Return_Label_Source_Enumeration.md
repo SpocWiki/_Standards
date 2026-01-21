@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Return_Label_Source_Enumeration.personal|Return_Label_Source_Enumeration.personal]]"
     - "[[/_secret/schema-org/Enumeration/Return_Label_Source_Enumeration.secret|Return_Label_Source_Enumeration.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../Enumeration]]"
+dv_has_parent_class: "[[../Enumeration]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Return_Label_Source_Enumeration|Return_Label_Source_Enumeration]]"
   - "[[/_public/schema-org/Enumeration/Return_Label_Source_Enumeration.public|Return_Label_Source_Enumeration.public]]"
@@ -57,7 +57,7 @@ is_part_of = `=this.dv_is_part_of`
 
 Enumerates several types of return labels for product returns.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 ## Confidential Links & Embeds: 
 

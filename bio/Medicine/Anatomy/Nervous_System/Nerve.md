@@ -55,7 +55,7 @@ WordLift_URL: http://data.wordlift.io/wl01714/entity/nerves
 
 # [[Nerve]] 
 
-#is_/sub_class_of :: [[../AnatomicalStructure]]  
+#has_/parent_class :: [[../AnatomicalStructure]]  
 
 #has_/properties :: [ additionalType, alternateName, associatedPathophysiology, bodyLocation, branch, code, connectedTo, description, diagram, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, nerveMotor, partOfSystem, potentialAction, recognizingAuthority, relatedCondition, relatedTherapy, relevantSpecialty, sameAs, sensoryUnit, sourcedFrom, study, subStructure, subjectOf, url ]  
 

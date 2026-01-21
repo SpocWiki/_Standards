@@ -20,7 +20,7 @@ dv_has_domain: "[[../../Class|Class]]"
 dv_has_name: "[[has_examples]]"
 dv_has_range: "[[../../Collection]]"
 dv_has_inverse: "[[../../Class/is_instance_of]]"
-dv_has_sub_properties: "[ [[has_work_example]] ]"
+dv_has_child_properties: "[ [[has_work_example]] ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_examples|has_examples]]"
   - "[[/_public/schema-org/Relation/has/has_examples.public|has_examples.public]]"
@@ -51,7 +51,7 @@ has_range = `=this.dv_has_range`
 
 has_inverse = `=this.dv_has_inverse` 
 
-has_sub_properties = `=this.dv_has_sub_properties` 
+has_child_properties = `=this.dv_has_child_properties` 
 
 ## Confidential Links & Embeds: 
 

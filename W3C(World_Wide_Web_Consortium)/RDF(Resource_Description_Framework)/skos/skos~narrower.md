@@ -4,8 +4,8 @@ Indicates a _has_narrower_ relationship to the [[../RDF~Relations/rdf~object|rdf
 
 This can mean different Things like 
 - #is_/similar_to :: [[../../../schema-org/Composite/has_parts|has_parts]] 
-- #is_/similar_to :: [[../../../schema-org/Class/has_sub_classes|has_sub_classes]] 
-- #is_/similar_to :: [[../../../schema-org/Collection/has_sub_sets|has_sub_sets]] 
+- #is_/similar_to :: [[../../../schema-org/Relation/has/has_child/has_child_class|has_child_class]] 
+- #is_/similar_to :: [[../../../schema-org/Collection/has_child_sets|has_child_sets]] 
 
 
 ## Confidential Links & Embeds: 

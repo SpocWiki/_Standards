@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Action/Trade_Action/Order_Action.secret|Order_Action.secret]]"
 dv_has_:
   properties: "[ actionStatus, additionalType, agent, alternateName, deliveryMethod, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, price, priceCurrency, priceSpecification, provider, result, sameAs, startTime, subjectOf, target, url ]"
-dv_is_sub_class_of: "[[../TradeAction]]"
+dv_has_parent_class: "[[../TradeAction]]"
 dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, deliveryMethod, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, price, priceCurrency, priceSpecification, provider, result, sameAs, startTime, subjectOf, target, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Action/Trade_Action/Order_Action|Order_Action]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 An agent orders an object/product/service to be delivered/sent.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

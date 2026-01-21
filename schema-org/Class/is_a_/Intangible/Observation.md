@@ -52,7 +52,7 @@ dv_is_:
 dv_has_:
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, marginOfError, measuredProperty, measuredValue, name, observationDate, observedNode, potentialAction, sameAs, subjectOf, url ]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../Intangible]]"
+dv_has_parent_class: "[[../Intangible]]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, marginOfError, measuredProperty, measuredValue, name, observationDate, observedNode, potentialAction, sameAs, subjectOf, url ]"
 dv_is_same_as:
   - "[[../../../../WikiData/WD~Observation,193181|WD~Observation,193181]]"
@@ -77,7 +77,7 @@ is_part_of = `=this.dv_is_part_of`
 Instances of the class [[Observation]] are used to specify observations about an entity (which may or may not be an instance of a [[StatisticalPopulation]]), at a particular time. The principal properties of an [[Observation]] are [[observedNode]], [[measuredProperty]], [[measuredValue]] (or [[../../../../Mathematics/Statistics/Probability/Median]], etc.) and [[observationDate]] ([[measuredProperty]] properties can, but need not always, be W3C RDF Data Cube "measure properties", as in the <a href="https://www.w3.org/TR/vocab-data-cube/#dsd-example">lifeExpectancy example</a>).
 See also [[StatisticalPopulation]], and the <a href="/docs/data-and-datasets.html">data and datasets</a> overview for more details.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

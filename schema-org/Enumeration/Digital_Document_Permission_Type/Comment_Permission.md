@@ -38,7 +38,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission.private|Comment_Permission.private]]"
     - "[[/_personal/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission.personal|Comment_Permission.personal]]"
     - "[[/_secret/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission.secret|Comment_Permission.secret]]"
-dv_is_sub_class_of: "[[../DigitalDocumentPermissionType]]"
+dv_has_parent_class: "[[../DigitalDocumentPermissionType]]"
 dv_is_enum_of: "[[../DigitalDocumentPermissionType]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission|Comment_Permission]]"
@@ -60,7 +60,7 @@ Comments are MetaData that should be stored separately from the actual Data.
 In Word, these are stored inside the same Document, bearing the Risk of accidentally modifying the Original. 
 In Markdown this is even riskier, since there are no clear limits, except for the FrontMatter and external Indices. 
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

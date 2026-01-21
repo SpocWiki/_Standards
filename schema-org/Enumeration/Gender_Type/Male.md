@@ -35,7 +35,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Gender_Type/Male.private|Male.private]]"
     - "[[/_personal/schema-org/Enumeration/Gender_Type/Male.personal|Male.personal]]"
     - "[[/_secret/schema-org/Enumeration/Gender_Type/Male.secret|Male.secret]]"
-dv_is_sub_class_of: "[[../GenderType]]"
+dv_has_parent_class: "[[../GenderType]]"
 dv_is_enum_of: "[[../GenderType]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Gender_Type/Male|Male]]"
@@ -54,7 +54,7 @@ Tag Instances like this:
 
 The male gender.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

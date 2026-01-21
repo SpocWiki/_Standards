@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Data_Feed_Item.secret|Data_Feed_Item.secret]]"
 dv_has_:
   properties: "[ additionalType, alternateName, dateCreated, dateDeleted, dateModified, description, disambiguatingDescription, identifier, image, item, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
-dv_is_sub_class_of: "[[../Intangible]]"
+dv_has_parent_class: "[[../Intangible]]"
 dv_has_properties: "[ additionalType, alternateName, dateCreated, dateDeleted, dateModified, description, disambiguatingDescription, identifier, image, item, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Data_Feed_Item|Data_Feed_Item]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 A single item within a larger data feed.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

@@ -39,7 +39,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Government_Benefits_Type/Business_Support.personal|Business_Support.personal]]"
     - "[[/_secret/schema-org/Enumeration/Government_Benefits_Type/Business_Support.secret|Business_Support.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../GovernmentBenefitsType]]"
+dv_has_parent_class: "[[../GovernmentBenefitsType]]"
 dv_is_enum_of: "[[../GovernmentBenefitsType]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Government_Benefits_Type/Business_Support|Business_Support]]"
@@ -60,7 +60,7 @@ is_part_of = `=this.dv_is_part_of`
 
 BusinessSupport: this is a benefit for supporting businesses.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

@@ -51,7 +51,7 @@ Relation describes that:
 (has_/name :: has_category )
 (has_/range :: CategoryCode, PhysicalActivityCategory, Text, Thing, URL )
 
-#has_/sub_properties :: [ accommodationCategory ]  
+#has_/child_properties :: [ accommodationCategory ]  
 
 ## Confidential Links & Embeds: 
 

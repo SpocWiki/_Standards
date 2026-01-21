@@ -39,7 +39,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Legal_Value_Level/Official_Legal_Value.personal|Official_Legal_Value.personal]]"
     - "[[/_secret/schema-org/Enumeration/Legal_Value_Level/Official_Legal_Value.secret|Official_Legal_Value.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../LegalValueLevel]]"
+dv_has_parent_class: "[[../LegalValueLevel]]"
 dv_is_enum_of: "[[../LegalValueLevel]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Legal_Value_Level/Official_Legal_Value|Official_Legal_Value]]"
@@ -60,7 +60,7 @@ is_part_of = `=this.dv_is_part_of`
 
 All the documents published by an official publisher should have at least the legal value level "OfficialLegalValue". This indicates that the document was published by an organisation with the public task of making it available (e.g. a consolidated version of an EU directive published by the EU Office of Publications).
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

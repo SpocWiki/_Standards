@@ -36,7 +36,7 @@ type: private note
 # [[Sum-Type]] 
 
 #is_/part_of ::[[../Algebraic_Data-Types]]] 
-#has_/sub_classes :[[../../../../../../IT/Programming/Patterns/Patterns~Java.2/Patterns~GRASP/Option-Type|Option-Type]]]][[../../../../../../IT/Programming/Patterns/Patterns~Java.2/Patterns~GRASP/OneOf-Monad|OneOf-Monad]]]] 
+#has_/child_classes :[[../../../../../../IT/Programming/Patterns/Patterns~Java.2/Patterns~GRASP/Option-Type|Option-Type]]]][[../../../../../../IT/Programming/Patterns/Patterns~Java.2/Patterns~GRASP/OneOf-Monad|OneOf-Monad]]]] 
 
 This is the [[categorical_Sum]] [[../../../../Knowledge/Math/Category_Theory.internal]]], and is the Dual to th[[Product-Type]]]]. 
 Aliases: discriminated Union, tagged Union

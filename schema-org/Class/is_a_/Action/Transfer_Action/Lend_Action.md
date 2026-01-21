@@ -39,7 +39,7 @@ dv_has_:
   inverse: "[[Borrow_Action]]"
   properties: "[ actionStatus, additionalType, agent, alternateName, borrower, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ]"
 dv_has_inverse: "[[Borrow_Action]]"
-dv_is_sub_class_of: "[[../TransferAction]]"
+dv_has_parent_class: "[[../TransferAction]]"
 dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, borrower, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Action/Transfer_Action/Lend_Action|Lend_Action]]"
@@ -68,7 +68,7 @@ Related actions:
 <li>[[BorrowAction]]: Reciprocal of LendAction.</li>
 </ul>
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

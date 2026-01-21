@@ -37,11 +37,11 @@ Tag Instances like this:
 #is_a_/fungus
 #is_an_/infectious_agent
 
-#has_/sub_classes :: [[../../../../../../../WikiData/WD~Mushroom,83093_WD~Mushroom,83093]] 
+#has_/child_classes :: [[../../../../../../../WikiData/WD~Mushroom,83093_WD~Mushroom,83093]] 
 
 Pathogenic fungus.
 
-#is_/sub_class_of :: [[../InfectiousAgentClass]]  
+#has_/parent_class :: [[../InfectiousAgentClass]]  
 
 #is_/enum_of :: [[../InfectiousAgentClass]]  
 

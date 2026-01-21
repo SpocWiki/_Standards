@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Action/Update_Action/Replace_Action.secret|Replace_Action.secret]]"
 dv_has_:
   properties: "[ actionStatus, additionalType, agent, alternateName, collection, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, replacee, replacer, result, sameAs, startTime, subjectOf, target, targetCollection, url ]"
-dv_is_sub_class_of: "[[../UpdateAction]]"
+dv_has_parent_class: "[[../UpdateAction]]"
 dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, collection, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, replacee, replacer, result, sameAs, startTime, subjectOf, target, targetCollection, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Action/Update_Action/Replace_Action|Replace_Action]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 The act of editing a recipient by replacing an old object with a new object.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

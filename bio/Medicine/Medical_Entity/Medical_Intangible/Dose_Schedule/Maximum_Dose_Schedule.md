@@ -34,7 +34,7 @@ Tag Instances like this:
 
 The maximum dosing schedule considered safe for a drug or supplement as recommended by an authority or by the drug/supplement's manufacturer. Capture the recommending authority in the recognizingAuthority property of MedicalEntity.
 
-#is_/sub_class_of :: [[../DoseSchedule]]  
+#has_/parent_class :: [[../DoseSchedule]]  
 
 #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, doseUnit, doseValue, frequency, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, targetPopulation, url ]  
 

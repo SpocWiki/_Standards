@@ -39,7 +39,7 @@ dv_is_:
 dv_has_:
   properties: "[ additionalType, alternateName, arrivalBoatTerminal, arrivalTime, departureBoatTerminal, departureTime, description, disambiguatingDescription, identifier, image, itinerary, mainEntityOfPage, name, offers, partOfTrip, potentialAction, provider, sameAs, subTrip, subjectOf, url ]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../Trip]]"
+dv_has_parent_class: "[[../Trip]]"
 dv_has_properties: "[ additionalType, alternateName, arrivalBoatTerminal, arrivalTime, departureBoatTerminal, departureTime, description, disambiguatingDescription, identifier, image, itinerary, mainEntityOfPage, name, offers, partOfTrip, potentialAction, provider, sameAs, subTrip, subjectOf, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Trip/Boat_Trip|Boat_Trip]]"
@@ -60,7 +60,7 @@ is_part_of = `=this.dv_is_part_of`
 
 A trip on a commercial ferry line.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

@@ -5,7 +5,7 @@ subclass_of: "[[_Standards/WikiData/WD~ethics,9465]]"
 facet_of: "[[_Standards/WikiData/WD~engineering,11023]]"
 ---
 
-#is_/sub_class_of_ :: [[../../Philosophy/Ethics|Ethics]] 
+#has_/parent_class_ :: [[../../Philosophy/Ethics|Ethics]] 
 #is_/facet_of_ :: [[../Engineering|Engineering]] 
 #is_/similar_to :: [[Engineering_Principles]]  
 

@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_No.private|Rsvp_Response_No.private]]"
     - "[[/_personal/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_No.personal|Rsvp_Response_No.personal]]"
     - "[[/_secret/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_No.secret|Rsvp_Response_No.secret]]"
-dv_is_sub_class_of: "[[../RsvpResponseType]]"
+dv_has_parent_class: "[[../RsvpResponseType]]"
 dv_is_enum_of: "[[../RsvpResponseType]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_No|Rsvp_Response_No]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 The invitee will not attend.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

@@ -41,7 +41,7 @@ Relation describes that:
 (has_/name :: "[[has_destroyer]]" )
 (has_/range :: "[[../../../Society/Agent/Community/Organization|Organization]]", "[[../../../Society/Agent/Person|Person]]" )
 
-#has_/sub_properties :: [ [[../is/is_legislation_passed_by|is_legislation_passed_by]] , [[has_founder]] ]  
+#has_/child_properties :: [ [[../is/is_legislation_passed_by|is_legislation_passed_by]] , [[has_founder]] ]  
 
 ## Confidential Links & Embeds: 
 

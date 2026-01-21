@@ -36,8 +36,8 @@ dv_is_:
 dv_has_:
   sub_classes: "[ BoatReservation, BusReservation, EventReservation, FlightReservation, FoodEstablishmentReservation, LodgingReservation, RentalCarReservation, ReservationPackage, TaxiReservation, TrainReservation ]"
   properties: "[ additionalType, alternateName, bookingAgent, bookingTime, broker, description, disambiguatingDescription, identifier, image, mainEntityOfPage, modifiedTime, name, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, subjectOf, totalPrice, underName, url ]"
-dv_is_sub_class_of: "[[../Intangible]]"
-dv_has_sub_classes: "[ BoatReservation, BusReservation, EventReservation, FlightReservation, FoodEstablishmentReservation, LodgingReservation, RentalCarReservation, ReservationPackage, TaxiReservation, TrainReservation ]"
+dv_has_parent_class: "[[../Intangible]]"
+dv_has_child_classes: "[ BoatReservation, BusReservation, EventReservation, FlightReservation, FoodEstablishmentReservation, LodgingReservation, RentalCarReservation, ReservationPackage, TaxiReservation, TrainReservation ]"
 dv_has_properties: "[ additionalType, alternateName, bookingAgent, bookingTime, broker, description, disambiguatingDescription, identifier, image, mainEntityOfPage, modifiedTime, name, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, subjectOf, totalPrice, underName, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Reservation|Reservation]]"
@@ -58,9 +58,9 @@ Describes a reservation for travel, dining or an event. Some reservations requir
 
 Note: This type is for information about actual reservations, e.g. in confirmation emails or HTML pages with individual confirmations of reservations. For offers of tickets, restaurant reservations, flights, or rental cars, use [[../../../../Society/Agent/Community/Organization/Business/Offer]].
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
-has_sub_classes = `=this.dv_has_sub_classes` 
+has_child_classes = `=this.dv_has_child_classes` 
 
 has_properties = `=this.dv_has_properties` 
 

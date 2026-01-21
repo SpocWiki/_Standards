@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Delivery_Method/Locker_Delivery.private|Locker_Delivery.private]]"
     - "[[/_personal/schema-org/Enumeration/Delivery_Method/Locker_Delivery.personal|Locker_Delivery.personal]]"
     - "[[/_secret/schema-org/Enumeration/Delivery_Method/Locker_Delivery.secret|Locker_Delivery.secret]]"
-dv_is_sub_class_of: "[[../DeliveryMethod]]"
+dv_has_parent_class: "[[../DeliveryMethod]]"
 dv_is_enum_of: "[[../DeliveryMethod]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Delivery_Method/Locker_Delivery|Locker_Delivery]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 A DeliveryMethod in which an item is made available via locker.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

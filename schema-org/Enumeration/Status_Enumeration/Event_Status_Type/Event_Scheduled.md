@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Scheduled.private|Event_Scheduled.private]]"
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Scheduled.personal|Event_Scheduled.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Scheduled.secret|Event_Scheduled.secret]]"
-dv_is_sub_class_of: "[[../EventStatusType]]"
+dv_has_parent_class: "[[../EventStatusType]]"
 dv_is_enum_of: "[[../EventStatusType]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Scheduled|Event_Scheduled]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 The event is taking place or has taken place on the startDate as scheduled. Use of this value is optional, as it is assumed by default.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

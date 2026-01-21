@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Restricted_Diet/Diabetic_Diet.private|Diabetic_Diet.private]]"
     - "[[/_personal/schema-org/Enumeration/Restricted_Diet/Diabetic_Diet.personal|Diabetic_Diet.personal]]"
     - "[[/_secret/schema-org/Enumeration/Restricted_Diet/Diabetic_Diet.secret|Diabetic_Diet.secret]]"
-dv_is_sub_class_of: "[[../RestrictedDiet]]"
+dv_has_parent_class: "[[../RestrictedDiet]]"
 dv_is_enum_of: "[[../RestrictedDiet]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Restricted_Diet/Diabetic_Diet|Diabetic_Diet]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 A diet appropriate for people with diabetes.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

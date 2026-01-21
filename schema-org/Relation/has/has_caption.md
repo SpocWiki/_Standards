@@ -37,7 +37,7 @@ Relation describes that:
 (has_/name :: has_caption )
 (has_/range :: MediaObject, Text )
 
-#has_/sub_properties :: [ embeddedTextCaption ]  
+#has_/child_properties :: [ embeddedTextCaption ]  
 
 ## Confidential Links & Embeds: 
 

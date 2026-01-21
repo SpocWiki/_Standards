@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Pending.private|Reservation_Pending.private]]"
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Pending.personal|Reservation_Pending.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Pending.secret|Reservation_Pending.secret]]"
-dv_is_sub_class_of: "[[../ReservationStatusType]]"
+dv_has_parent_class: "[[../ReservationStatusType]]"
 dv_is_enum_of: "[[../ReservationStatusType]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Pending|Reservation_Pending]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 The status of a reservation when a request has been sent, but not confirmed.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

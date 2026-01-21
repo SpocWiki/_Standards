@@ -34,7 +34,7 @@ Tag Instances like this:
 
 Categories of medical devices, organized by the purpose or intended use of the device.
 
-#is_/sub_class_of :: [[../MedicalEnumeration]]  
+#has_/parent_class :: [[../MedicalEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

@@ -39,7 +39,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_A1plus.personal|Eu_Energy_Efficiency_Category_A1plus.personal]]"
     - "[[/_secret/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_A1plus.secret|Eu_Energy_Efficiency_Category_A1plus.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../EUEnergyEfficiencyEnumeration]]"
+dv_has_parent_class: "[[../EUEnergyEfficiencyEnumeration]]"
 dv_is_enum_of: "[[../EUEnergyEfficiencyEnumeration]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_A1plus|Eu_Energy_Efficiency_Category_A1plus]]"
@@ -60,7 +60,7 @@ is_part_of = `=this.dv_is_part_of`
 
 Represents EU Energy Efficiency Class A+ as defined in EU energy labeling regulations.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

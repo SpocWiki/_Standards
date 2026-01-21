@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending.private|Item_List_Order_Descending.private]]"
     - "[[/_personal/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending.personal|Item_List_Order_Descending.personal]]"
     - "[[/_secret/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending.secret|Item_List_Order_Descending.secret]]"
-dv_is_sub_class_of: "[[../ItemListOrderType]]"
+dv_has_parent_class: "[[../ItemListOrderType]]"
 dv_is_enum_of: "[[../ItemListOrderType]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending|Item_List_Order_Descending]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 An ItemList ordered with higher values listed first.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

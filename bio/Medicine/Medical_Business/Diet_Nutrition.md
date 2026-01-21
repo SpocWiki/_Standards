@@ -35,7 +35,7 @@ Tag Instances like this:
 
 Dietetics and nutrition as a medical specialty.
 
-#is_/sub_class_of :: [[../MedicalBusiness, MedicalSpecialty]]  
+#has_/parent_class :: [[../MedicalBusiness, MedicalSpecialty]]  
 
 #is_/enum_of :: [[../MedicalSpecialty]]  
 

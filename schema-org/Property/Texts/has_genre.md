@@ -46,7 +46,7 @@ Predicated describes that:
 (has_/name :: has_text_of_genre )
 (has_/range :: Text, URL )
 
-#has_/sub_properties :: [ legislationType ]  
+#has_/child_properties :: [ legislationType ]  
 
 ## Confidential Links & Embeds: 
 

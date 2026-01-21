@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Nutrition_Information.secret|Nutrition_Information.secret]]"
 dv_has_:
   properties: "[ additionalType, alternateName, calories, carbohydrateContent, cholesterolContent, description, disambiguatingDescription, fatContent, fiberContent, identifier, image, mainEntityOfPage, name, potentialAction, proteinContent, sameAs, saturatedFatContent, servingSize, sodiumContent, subjectOf, sugarContent, transFatContent, unsaturatedFatContent, url ]"
-dv_is_sub_class_of: "[[../StructuredValue]]"
+dv_has_parent_class: "[[../StructuredValue]]"
 dv_has_properties: "[ additionalType, alternateName, calories, carbohydrateContent, cholesterolContent, description, disambiguatingDescription, fatContent, fiberContent, identifier, image, mainEntityOfPage, name, potentialAction, proteinContent, sameAs, saturatedFatContent, servingSize, sodiumContent, subjectOf, sugarContent, transFatContent, unsaturatedFatContent, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Nutrition_Information|Nutrition_Information]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 Nutritional information about the recipe.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

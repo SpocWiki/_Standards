@@ -39,8 +39,8 @@ dv_is_:
 dv_has_:
   sub_classes: "[ WearableSizeGroupEnumeration ]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../Enumeration]]"
-dv_has_sub_classes: "[ WearableSizeGroupEnumeration ]"
+dv_has_parent_class: "[[../Enumeration]]"
+dv_has_child_classes: "[ WearableSizeGroupEnumeration ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Size_Group_Enumeration|Size_Group_Enumeration]]"
   - "[[/_public/schema-org/Enumeration/Size_Group_Enumeration.public|Size_Group_Enumeration.public]]"
@@ -60,9 +60,9 @@ is_part_of = `=this.dv_is_part_of`
 
 Enumerates common size groups for various product categories.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
-has_sub_classes = `=this.dv_has_sub_classes` 
+has_child_classes = `=this.dv_has_child_classes` 
 
 ## Confidential Links & Embeds: 
 

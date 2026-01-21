@@ -35,7 +35,7 @@ Tag Instances like this:
 
 A trial design in which the researcher knows the full details of the treatment, and so does the patient.
 
-#is_/sub_class_of :: [[../MedicalTrialDesign]]  
+#has_/parent_class :: [[../MedicalTrialDesign]]  
 
 #is_/enum_of :: [[../MedicalTrialDesign]]  
 

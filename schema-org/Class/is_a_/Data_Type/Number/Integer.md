@@ -54,7 +54,7 @@ dv_is_:
     - "[[/_private/schema-org/Class/is_a_/Data_Type/Number/Integer.private|Integer.private]]"
     - "[[/_personal/schema-org/Class/is_a_/Data_Type/Number/Integer.personal|Integer.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Data_Type/Number/Integer.secret|Integer.secret]]"
-dv_is_sub_class_of: "[[../Number]]"
+dv_has_parent_class: "[[../Number]]"
 dv_is_same_as:
   - "[[../../../../../WikiData/WD~Integer,12503|WD~Integer,12503]]"
   - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Number/Integer|Integer]]"
@@ -75,7 +75,7 @@ Tag Instances like this:
 
 Data type: Integer.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Integer,12503|WD~Integer,12503]] 
 

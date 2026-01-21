@@ -34,7 +34,7 @@ Tag Instances like this:
 
 An indication for preventing an underlying condition, symptom, etc.
 
-#is_/sub_class_of :: [[../MedicalIndication]]  
+#has_/parent_class :: [[../MedicalIndication]]  
 
 #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ]  
 

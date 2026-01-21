@@ -39,8 +39,8 @@ dv_is_:
 dv_has_:
   sub_classes: "[ NLNonprofitType, UKNonprofitType, USNonprofitType ]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../Enumeration]]"
-dv_has_sub_classes: "[ NLNonprofitType, UKNonprofitType, USNonprofitType ]"
+dv_has_parent_class: "[[../Enumeration]]"
+dv_has_child_classes: "[ NLNonprofitType, UKNonprofitType, USNonprofitType ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Nonprofit_Type|Nonprofit_Type]]"
   - "[[/_public/schema-org/Enumeration/Nonprofit_Type.public|Nonprofit_Type.public]]"
@@ -60,9 +60,9 @@ is_part_of = `=this.dv_is_part_of`
 
 NonprofitType enumerates several kinds of official non-profit types of which a non-profit organization can be.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
-has_sub_classes = `=this.dv_has_sub_classes` 
+has_child_classes = `=this.dv_has_child_classes` 
 
 ## Confidential Links & Embeds: 
 

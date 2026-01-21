@@ -39,7 +39,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Neck.personal|Body_Measurement_Neck.personal]]"
     - "[[/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Neck.secret|Body_Measurement_Neck.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../BodyMeasurementTypeEnumeration]]"
+dv_has_parent_class: "[[../BodyMeasurementTypeEnumeration]]"
 dv_is_enum_of: "[[../BodyMeasurementTypeEnumeration]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Neck|Body_Measurement_Neck]]"
@@ -60,7 +60,7 @@ is_part_of = `=this.dv_is_part_of`
 
 Girth of neck. Used, for example, to fit shirts.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

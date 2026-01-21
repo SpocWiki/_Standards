@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Delivery_Method/On_Site_Pickup.private|On_Site_Pickup.private]]"
     - "[[/_personal/schema-org/Enumeration/Delivery_Method/On_Site_Pickup.personal|On_Site_Pickup.personal]]"
     - "[[/_secret/schema-org/Enumeration/Delivery_Method/On_Site_Pickup.secret|On_Site_Pickup.secret]]"
-dv_is_sub_class_of: "[[../DeliveryMethod]]"
+dv_has_parent_class: "[[../DeliveryMethod]]"
 dv_is_enum_of: "[[../DeliveryMethod]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Delivery_Method/On_Site_Pickup|On_Site_Pickup]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 A DeliveryMethod in which an item is collected on site, e.g. in a store or at a box office.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

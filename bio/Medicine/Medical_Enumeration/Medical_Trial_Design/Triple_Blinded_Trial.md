@@ -35,7 +35,7 @@ Tag Instances like this:
 
 A trial design in which neither the researcher, the person administering the therapy nor the patient knows the details of the treatment the patient was randomly assigned to.
 
-#is_/sub_class_of :: [[../MedicalTrialDesign]]  
+#has_/parent_class :: [[../MedicalTrialDesign]]  
 
 #is_/enum_of :: [[../MedicalTrialDesign]]  
 

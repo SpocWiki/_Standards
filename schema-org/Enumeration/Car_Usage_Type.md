@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Car_Usage_Type.personal|Car_Usage_Type.personal]]"
     - "[[/_secret/schema-org/Enumeration/Car_Usage_Type.secret|Car_Usage_Type.secret]]"
 dv_is_part_of: https://auto.schema.org
-dv_is_sub_class_of: "[[../Enumeration]]"
+dv_has_parent_class: "[[../Enumeration]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Car_Usage_Type|Car_Usage_Type]]"
   - "[[/_public/schema-org/Enumeration/Car_Usage_Type.public|Car_Usage_Type.public]]"
@@ -57,7 +57,7 @@ is_part_of = `=this.dv_is_part_of`
 
 A value indicating a special usage of a car, e.g. commercial rental, driving school, or as a taxi.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 ## Confidential Links & Embeds: 
 

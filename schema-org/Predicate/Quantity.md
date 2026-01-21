@@ -62,8 +62,8 @@ dv_is_same_as:
   - "[[/_private/schema-org/Predicate/Quantity.private|Quantity.private]]"
   - "[[/_personal/schema-org/Predicate/Quantity.personal|Quantity.personal]]"
   - "[[/_secret/schema-org/Predicate/Quantity.secret|Quantity.secret]]"
-dv_is_sub_class_of: "[[../Class/is_a_/Intangible]]"
-dv_has_sub_classes: "[ Distance, Duration, Energy, Mass ]"
+dv_has_parent_class: "[[../Class/is_a_/Intangible]]"
+dv_has_child_classes: "[ Distance, Duration, Energy, Mass ]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
 ---
 
@@ -81,9 +81,9 @@ Quantities must have a [[../../Dimension/Unit_of_Measure|Unit_of_Measure]]
 (and often also an Origin/Reference-Point), 
 to be able to compare and operate on them. 
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
-has_sub_classes = `=this.dv_has_sub_classes` 
+has_child_classes = `=this.dv_has_child_classes` 
 
 has_properties = `=this.dv_has_properties` 
 

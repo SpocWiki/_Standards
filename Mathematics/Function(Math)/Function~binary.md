@@ -12,7 +12,7 @@ in_defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmln
 # [[Function~binary]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~binary_function,3737844]] 
-#is_/sub_class_of :: [[../../schema-org/Relation/Ternary_Relation|ternary Relation]] 
+#has_/parent_class :: [[../../schema-org/Relation/Ternary_Relation|ternary Relation]] 
 [
 ## #has_/text_of_/abstract 
 

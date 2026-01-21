@@ -37,9 +37,9 @@ A service provided by an organization, e.g. delivery service, print services, et
 economic product that directly satisfies wants 
 without producing a lasting asset
 
-#is_/sub_class_of :: [[../../../../../schema-org/Class/is_a_/Intangible]]  
+#has_/parent_class :: [[../../../../../schema-org/Class/is_a_/Intangible]]  
 
-#has_/sub_classes :: [ BroadcastService, CableOrSatelliteService, FinancialProduct, FoodService, GovernmentService, Taxi, TaxiService, WebAPI ]  
+#has_/child_classes :: [ BroadcastService, CableOrSatelliteService, FinancialProduct, FoodService, GovernmentService, Taxi, TaxiService, WebAPI ]  
 
 #has_/properties :: [ additionalType, aggregateRating, alternateName, areaServed, audience, availableChannel, award, brand, broker, category, description, disambiguatingDescription, hasOfferCatalog, hoursAvailable, identifier, image, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ]  
 

@@ -38,7 +38,7 @@ dv_is_:
     - "[[/_private/Earth/Geography/Place/Residence/Gated_Residence_Community.private|Gated_Residence_Community.private]]"
     - "[[/_personal/Earth/Geography/Place/Residence/Gated_Residence_Community.personal|Gated_Residence_Community.personal]]"
     - "[[/_secret/Earth/Geography/Place/Residence/Gated_Residence_Community.secret|Gated_Residence_Community.secret]]"
-dv_is_sub_class_of: "[[../Residence]]"
+dv_has_parent_class: "[[../Residence]]"
 dv_has_properties: "[ accommodationFloorPlan, additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
 dv_is_same_as:
   - "[[/_Standards/Earth/Geography/Place/Residence/Gated_Residence_Community|Gated_Residence_Community]]"
@@ -57,7 +57,7 @@ Tag Instances like this:
 
 Residence type: Gated community.
 
-is_sub_class_of = `=this.dv_is_sub_class_of`] ]
+has_parent_class = `=this.dv_has_parent_class`] ]
 
 has_properties = `=this.dv_has_properties` ]
 

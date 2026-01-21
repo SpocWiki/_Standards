@@ -74,8 +74,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Geography/Place/Accommodation/Room.private|Room.private]]"
   - "[[/_personal/Earth/Geography/Place/Accommodation/Room.personal|Room.personal]]"
   - "[[/_secret/Earth/Geography/Place/Accommodation/Room.secret|Room.secret]]"
-dv_is_sub_class_of: "[[../Accommodation]]"
-dv_has_sub_classes: "[ HotelRoom, MeetingRoom ]"
+dv_has_parent_class: "[[../Accommodation]]"
+dv_has_child_classes: "[ HotelRoom, MeetingRoom ]"
 dv_has_properties: "[ accommodationCategory, accommodationFloorPlan, additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, floorLevel, floorSize, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, leaseLength, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, numberOfBathroomsTotal, numberOfBedrooms, numberOfFullBathrooms, numberOfPartialBathrooms, numberOfRooms, openingHoursSpecification, permittedUsage, petsAllowed, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url, yearBuilt ]"
 ---
 
@@ -94,9 +94,9 @@ usually separated from other spaces by interior walls
 
 See also the <a href="https://schema.org/docs/hotels.html">dedicated document on the use of schema.org for marking up hotels and other forms of accommodations</a>.
 
-is_sub_class_of = `=this.dv_is_sub_class_of`] ]
+has_parent_class = `=this.dv_has_parent_class`] ]
 
-has_sub_classes = `=this.dv_has_sub_classes` ]
+has_child_classes = `=this.dv_has_child_classes` ]
 
 has_properties = `=this.dv_has_properties` ]
 

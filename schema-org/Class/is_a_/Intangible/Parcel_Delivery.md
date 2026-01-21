@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Parcel_Delivery.secret|Parcel_Delivery.secret]]"
 dv_has_:
   properties: "[ additionalType, alternateName, carrier, deliveryAddress, deliveryStatus, description, disambiguatingDescription, expectedArrivalFrom, expectedArrivalUntil, hasDeliveryMethod, identifier, image, itemShipped, mainEntityOfPage, name, originAddress, partOfOrder, potentialAction, provider, sameAs, subjectOf, trackingNumber, trackingUrl, url ]"
-dv_is_sub_class_of: "[[../Intangible]]"
+dv_has_parent_class: "[[../Intangible]]"
 dv_has_properties: "[ additionalType, alternateName, carrier, deliveryAddress, deliveryStatus, description, disambiguatingDescription, expectedArrivalFrom, expectedArrivalUntil, hasDeliveryMethod, identifier, image, itemShipped, mainEntityOfPage, name, originAddress, partOfOrder, potentialAction, provider, sameAs, subjectOf, trackingNumber, trackingUrl, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Parcel_Delivery|Parcel_Delivery]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 The delivery of a parcel either via the postal service or a commercial service.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

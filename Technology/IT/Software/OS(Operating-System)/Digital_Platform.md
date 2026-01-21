@@ -43,7 +43,7 @@ when a suitable code is not enumerated here, textual or URL values can be used i
 These codes are at a fairly high level and do not deal with versioning and other nuance. 
 Additional codes can be suggested <a href="https://github.com/schemaorg/schemaorg/issues/3057">in github</a>.
 
-#is_/sub_class_of :: [[../../../../schema-org/Enumeration]]  
+#has_/parent_class :: [[../../../../schema-org/Enumeration]]  
 
 ## Confidential Links & Embeds: 
 

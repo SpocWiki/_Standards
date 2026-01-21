@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Physical_Activity_Category/Occupational_Activity.private|Occupational_Activity.private]]"
     - "[[/_personal/schema-org/Enumeration/Physical_Activity_Category/Occupational_Activity.personal|Occupational_Activity.personal]]"
     - "[[/_secret/schema-org/Enumeration/Physical_Activity_Category/Occupational_Activity.secret|Occupational_Activity.secret]]"
-dv_is_sub_class_of: "[[../PhysicalActivityCategory]]"
+dv_has_parent_class: "[[../PhysicalActivityCategory]]"
 dv_is_enum_of: "[[../PhysicalActivityCategory]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Physical_Activity_Category/Occupational_Activity|Occupational_Activity]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 Any physical activity engaged in for job-related purposes. Examples may include waiting tables, maid service, carrying a mailbag, picking fruits or vegetables, construction work, etc.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

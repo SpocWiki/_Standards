@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type.personal|Uk_Nonprofit_Type.personal]]"
     - "[[/_secret/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type.secret|Uk_Nonprofit_Type.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../NonprofitType]]"
+dv_has_parent_class: "[[../NonprofitType]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type|Uk_Nonprofit_Type]]"
   - "[[/_public/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type.public|Uk_Nonprofit_Type.public]]"
@@ -57,7 +57,7 @@ is_part_of = `=this.dv_is_part_of`
 
 UKNonprofitType: Non-profit organization type originating from the United Kingdom.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 ## Confidential Links & Embeds: 
 

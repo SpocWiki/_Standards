@@ -35,7 +35,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Status_Enumeration/Game_Server_Status.private|Game_Server_Status.private]]"
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Game_Server_Status.personal|Game_Server_Status.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Game_Server_Status.secret|Game_Server_Status.secret]]"
-dv_is_sub_class_of: "[[../StatusEnumeration]]"
+dv_has_parent_class: "[[../StatusEnumeration]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Game_Server_Status|Game_Server_Status]]"
   - "[[/_public/schema-org/Enumeration/Status_Enumeration/Game_Server_Status.public|Game_Server_Status.public]]"
@@ -53,7 +53,7 @@ Tag Instances like this:
 
 Status of a game server.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 ## Confidential Links & Embeds: 
 

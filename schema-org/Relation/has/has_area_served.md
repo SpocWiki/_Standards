@@ -41,7 +41,7 @@ Relation describes that:
 (has_/name :: has_area_served )
 (has_/range :: AdministrativeArea, GeoShape, Place, Text )
 
-#has_/sub_properties :: [ availableAtOrFrom, eligibleRegion ]  
+#has_/child_properties :: [ availableAtOrFrom, eligibleRegion ]  
 
 ## Confidential Links & Embeds: 
 

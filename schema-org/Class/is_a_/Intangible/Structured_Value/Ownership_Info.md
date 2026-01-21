@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Ownership_Info.secret|Ownership_Info.secret]]"
 dv_has_:
   properties: "[ acquiredFrom, additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, ownedFrom, ownedThrough, potentialAction, sameAs, subjectOf, typeOfGood, url ]"
-dv_is_sub_class_of: "[[../StructuredValue]]"
+dv_has_parent_class: "[[../StructuredValue]]"
 dv_has_properties: "[ acquiredFrom, additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, ownedFrom, ownedThrough, potentialAction, sameAs, subjectOf, typeOfGood, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Ownership_Info|Ownership_Info]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 A structured value providing information about when a certain organization or person owned a certain product.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

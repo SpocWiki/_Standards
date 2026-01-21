@@ -35,7 +35,7 @@ Tag Instances like this:
 
 A trial design in which the researcher knows which treatment the patient was randomly assigned to but the patient does not.
 
-#is_/sub_class_of :: [[../MedicalTrialDesign]]  
+#has_/parent_class :: [[../MedicalTrialDesign]]  
 
 #is_/enum_of :: [[../MedicalTrialDesign]]  
 

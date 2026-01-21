@@ -33,7 +33,7 @@ Tag Instances like this:
 
 A specific branch of medical science that pertains to treating diseases, injuries and deformities by manual and instrumental means.
 
-#is_/sub_class_of :: [[../MedicalSpecialty]]  
+#has_/parent_class :: [[../MedicalSpecialty]]  
 
 #is_/enum_of :: [[../MedicalSpecialty]]  
 

@@ -34,7 +34,7 @@ dv_is_:
     - "[[/_private/schema-org/Class/is_a_/Data_Type/Boolean.private|Boolean.private]]"
     - "[[/_personal/schema-org/Class/is_a_/Data_Type/Boolean.personal|Boolean.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Data_Type/Boolean.secret|Boolean.secret]]"
-dv_has_sub_classes: "[ False, True ]"
+dv_has_child_classes: "[ False, True ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Boolean|Boolean]]"
   - "[[/_public/schema-org/Class/is_a_/Data_Type/Boolean.public|Boolean.public]]"
@@ -52,7 +52,7 @@ Tag Instances like this:
 
 Boolean: True or False.
 
-has_sub_classes = `=this.dv_has_sub_classes` 
+has_child_classes = `=this.dv_has_child_classes` 
 
 ## Confidential Links & Embeds: 
 

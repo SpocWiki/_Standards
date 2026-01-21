@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Job_Posting.secret|Job_Posting.secret]]"
 dv_has_:
   properties: "[ additionalType, alternateName, applicantLocationRequirements, applicationContact, baseSalary, benefits, datePosted, description, directApply, disambiguatingDescription, educationRequirements, eligibilityToWorkRequirement, employerOverview, employmentType, employmentUnit, estimatedSalary, experienceInPlaceOfEducation, experienceRequirements, hiringOrganization, identifier, image, incentiveCompensation, incentives, industry, jobBenefits, jobImmediateStart, jobLocation, jobLocationType, jobStartDate, mainEntityOfPage, name, occupationalCategory, physicalRequirement, potentialAction, qualifications, relevantOccupation, responsibilities, salaryCurrency, sameAs, securityClearanceRequirement, sensoryRequirement, skills, specialCommitments, subjectOf, title, totalJobOpenings, url, validThrough, workHours ]"
-dv_is_sub_class_of: "[[../Intangible]]"
+dv_has_parent_class: "[[../Intangible]]"
 dv_has_properties: "[ additionalType, alternateName, applicantLocationRequirements, applicationContact, baseSalary, benefits, datePosted, description, directApply, disambiguatingDescription, educationRequirements, eligibilityToWorkRequirement, employerOverview, employmentType, employmentUnit, estimatedSalary, experienceInPlaceOfEducation, experienceRequirements, hiringOrganization, identifier, image, incentiveCompensation, incentives, industry, jobBenefits, jobImmediateStart, jobLocation, jobLocationType, jobStartDate, mainEntityOfPage, name, occupationalCategory, physicalRequirement, potentialAction, qualifications, relevantOccupation, responsibilities, salaryCurrency, sameAs, securityClearanceRequirement, sensoryRequirement, skills, specialCommitments, subjectOf, title, totalJobOpenings, url, validThrough, workHours ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Job_Posting|Job_Posting]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 A listing that describes a job opening in a certain organization.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

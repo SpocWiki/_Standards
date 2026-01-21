@@ -35,9 +35,9 @@ Tag Instances like this:
 An enterprise (potentially individual but typically collaborative), planned to achieve a particular aim.
 Use properties from [[../Organization]], [[subOrganization]]/[[parentOrganization]] to indicate project sub-structures.
 
-#is_/sub_class_of :: [[../Organization]]  
+#has_/parent_class :: [[../Organization]]  
 
-#has_/sub_classes :: [ FundingAgency, ResearchProject ]  
+#has_/child_classes :: [ FundingAgency, ResearchProject ]  
 
 #has_/properties :: [ actionableFeedbackPolicy, additionalType, address, aggregateRating, alternateName, alumni, areaServed, award, awards, brand, contactPoint, contactPoints, correctionsPolicy, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, globalLocationNumber, hasCredential, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, legalName, leiCode, location, logo, mainEntityOfPage, makesOffer, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, ownershipFundingInfo, owns, parentOrganization, potentialAction, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, sponsor, subOrganization, subjectOf, taxID, telephone, unnamedSourcesPolicy, url, vatID ]  
 

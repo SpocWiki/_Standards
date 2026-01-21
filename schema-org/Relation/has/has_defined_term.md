@@ -44,7 +44,7 @@ Relation describes that:
 (has_/name :: has_defined_term )
 (has_/range :: DefinedTerm )
 
-#has_/sub_properties :: [ hasCategoryCode ]  
+#has_/child_properties :: [ hasCategoryCode ]  
 
 ## Confidential Links & Embeds: 
 

@@ -33,7 +33,7 @@ dv_is_:
     - "[[/_private/schema-org/Class/is_a_/Data_Type/Number/Float.private|Float.private]]"
     - "[[/_personal/schema-org/Class/is_a_/Data_Type/Number/Float.personal|Float.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Data_Type/Number/Float.secret|Float.secret]]"
-dv_is_sub_class_of: "[[../Number]]"
+dv_has_parent_class: "[[../Number]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Number/Float|Float]]"
   - "[[/_public/schema-org/Class/is_a_/Data_Type/Number/Float.public|Float.public]]"
@@ -51,7 +51,7 @@ Tag Instances like this:
 
 Data type: Floating number.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 ## Confidential Links & Embeds: 
 

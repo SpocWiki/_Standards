@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Opening_Hours_Specification.secret|Opening_Hours_Specification.secret]]"
 dv_has_:
   properties: "[ additionalType, alternateName, closes, dayOfWeek, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, opens, potentialAction, sameAs, subjectOf, url, validFrom, validThrough ]"
-dv_is_sub_class_of: "[[../StructuredValue]]"
+dv_has_parent_class: "[[../StructuredValue]]"
 dv_has_properties: "[ additionalType, alternateName, closes, dayOfWeek, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, opens, potentialAction, sameAs, subjectOf, url, validFrom, validThrough ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Opening_Hours_Specification|Opening_Hours_Specification]]"
@@ -60,7 +60,7 @@ The place is <strong>open</strong> if the [[opens]] property is specified, and <
 
 If the value for the [[closes]] property is less than the value for the [[opens]] property then the hour range is assumed to span over the next day.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

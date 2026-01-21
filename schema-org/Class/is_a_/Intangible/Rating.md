@@ -36,8 +36,8 @@ dv_is_:
 dv_has_:
   sub_classes: "[ AggregateRating, EndorsementRating ]"
   properties: "[ additionalType, alternateName, author, bestRating, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, ratingExplanation, ratingValue, reviewAspect, sameAs, subjectOf, url, worstRating ]"
-dv_is_sub_class_of: "[[../Intangible]]"
-dv_has_sub_classes: "[ AggregateRating, EndorsementRating ]"
+dv_has_parent_class: "[[../Intangible]]"
+dv_has_child_classes: "[ AggregateRating, EndorsementRating ]"
 dv_has_properties: "[ additionalType, alternateName, author, bestRating, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, ratingExplanation, ratingValue, reviewAspect, sameAs, subjectOf, url, worstRating ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Rating|Rating]]"
@@ -55,9 +55,9 @@ A rating is an evaluation on a numeric scale, such as 1 to 5 stars.
 Tag Instances like this: 
 #is_a_/rating
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
-has_sub_classes = `=this.dv_has_sub_classes` 
+has_child_classes = `=this.dv_has_child_classes` 
 
 has_properties = `=this.dv_has_properties` 
 

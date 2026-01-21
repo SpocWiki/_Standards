@@ -34,7 +34,7 @@ Tag Instances like this:
 
 A medical procedure intended primarily for diagnostic, as opposed to therapeutic, purposes.
 
-#is_/sub_class_of :: [[../MedicalProcedure]]  
+#has_/parent_class :: [[../MedicalProcedure]]  
 
 #has_/properties :: [ additionalType, alternateName, bodyLocation, code, description, disambiguatingDescription, followup, funding, guideline, howPerformed, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, preparation, procedureType, recognizingAuthority, relevantSpecialty, sameAs, status, study, subjectOf, url ]  
 

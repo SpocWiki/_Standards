@@ -125,7 +125,7 @@ The Language type **previously** also covered programming languages
 such as Scheme and Lisp, 
 which are now best represented using [[ComputerLanguage]].
 
-#is_/sub_class_of :: [[../Intangible]]  
+#has_/parent_class :: [[../Intangible]]  
 
 #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]  
 

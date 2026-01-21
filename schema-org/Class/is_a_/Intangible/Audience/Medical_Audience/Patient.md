@@ -36,7 +36,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Audience/Medical_Audience/Patient.secret|Patient.secret]]"
 dv_has_:
   properties: "[ additionalName, additionalType, address, affiliation, alternateName, alumniOf, audienceType, award, awards, birthDate, birthPlace, brand, callSign, children, colleague, colleagues, contactPoint, contactPoints, deathDate, deathPlace, description, diagnosis, disambiguatingDescription, drug, duns, email, familyName, faxNumber, follows, funder, funding, gender, geographicArea, givenName, globalLocationNumber, hasCredential, hasOccupation, hasOfferCatalog, hasPOS, healthCondition, height, homeLocation, honorificPrefix, honorificSuffix, identifier, image, interactionStatistic, isicV4, jobTitle, knows, knowsAbout, knowsLanguage, mainEntityOfPage, makesOffer, memberOf, naics, name, nationality, netWorth, owns, parent, parents, performerIn, potentialAction, publishingPrinciples, relatedTo, requiredGender, requiredMaxAge, requiredMinAge, sameAs, seeks, sibling, siblings, sponsor, spouse, subjectOf, suggestedAge, suggestedGender, suggestedMaxAge, suggestedMeasurement, suggestedMinAge, taxID, telephone, url, vatID, weight, workLocation, worksFor ]"
-dv_is_sub_class_of: "[[../MedicalAudience, Person]]"
+dv_has_parent_class: "[[../MedicalAudience, Person]]"
 dv_has_properties: "[ additionalName, additionalType, address, affiliation, alternateName, alumniOf, audienceType, award, awards, birthDate, birthPlace, brand, callSign, children, colleague, colleagues, contactPoint, contactPoints, deathDate, deathPlace, description, diagnosis, disambiguatingDescription, drug, duns, email, familyName, faxNumber, follows, funder, funding, gender, geographicArea, givenName, globalLocationNumber, hasCredential, hasOccupation, hasOfferCatalog, hasPOS, healthCondition, height, homeLocation, honorificPrefix, honorificSuffix, identifier, image, interactionStatistic, isicV4, jobTitle, knows, knowsAbout, knowsLanguage, mainEntityOfPage, makesOffer, memberOf, naics, name, nationality, netWorth, owns, parent, parents, performerIn, potentialAction, publishingPrinciples, relatedTo, requiredGender, requiredMaxAge, requiredMinAge, sameAs, seeks, sibling, siblings, sponsor, spouse, subjectOf, suggestedAge, suggestedGender, suggestedMaxAge, suggestedMeasurement, suggestedMinAge, taxID, telephone, url, vatID, weight, workLocation, worksFor ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Audience/Medical_Audience/Patient|Patient]]"
@@ -55,7 +55,7 @@ Tag Instances like this:
 
 A patient is any person recipient of health care services.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

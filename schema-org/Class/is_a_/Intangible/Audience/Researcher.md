@@ -35,7 +35,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Audience/Researcher.secret|Researcher.secret]]"
 dv_has_:
   properties: "[ additionalType, alternateName, audienceType, description, disambiguatingDescription, geographicArea, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
-dv_is_sub_class_of: "[[../Audience]]"
+dv_has_parent_class: "[[../Audience]]"
 dv_has_properties: "[ additionalType, alternateName, audienceType, description, disambiguatingDescription, geographicArea, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Audience/Researcher|Researcher]]"
@@ -54,7 +54,7 @@ Tag Instances like this:
 
 Researchers.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

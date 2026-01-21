@@ -36,7 +36,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Qualitative_Value/Bed_Type.private|Bed_Type.private]]"
     - "[[/_personal/schema-org/Enumeration/Qualitative_Value/Bed_Type.personal|Bed_Type.personal]]"
     - "[[/_secret/schema-org/Enumeration/Qualitative_Value/Bed_Type.secret|Bed_Type.secret]]"
-dv_is_sub_class_of: "[[../DayOfWeek]]"
+dv_has_parent_class: "[[../DayOfWeek]]"
 dv_is_enum_of: "[[../DayOfWeek]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Qualitative_Value/Bed_Type|Bed_Type]]"
@@ -92,7 +92,7 @@ Tag Instances like this:
 
 The day of the week between Saturday and Monday.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

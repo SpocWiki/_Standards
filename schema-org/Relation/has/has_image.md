@@ -37,7 +37,7 @@ Relation describes that:
 (has_/name :: has_image )
 (has_/range :: ImageObject, URL )
 
-#has_/sub_properties :: [ layoutImage, logo, photo ]  
+#has_/child_properties :: [ layoutImage, logo, photo ]  
 
 ## Confidential Links & Embeds: 
 

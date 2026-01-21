@@ -38,8 +38,8 @@ dv_is_:
 dv_has_:
   sub_classes: "[ GeoCircle ]"
   properties: "[ additionalType, address, addressCountry, alternateName, box, circle, description, disambiguatingDescription, elevation, identifier, image, line, mainEntityOfPage, name, polygon, postalCode, potentialAction, sameAs, subjectOf, url ]"
-dv_is_sub_class_of: "[[../StructuredValue]]"
-dv_has_sub_classes: "[ GeoCircle ]"
+dv_has_parent_class: "[[../StructuredValue]]"
+dv_has_child_classes: "[ GeoCircle ]"
 dv_has_properties: "[ additionalType, address, addressCountry, alternateName, box, circle, description, disambiguatingDescription, elevation, identifier, image, line, mainEntityOfPage, name, polygon, postalCode, potentialAction, sameAs, subjectOf, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape|Geo_Shape]]"
@@ -58,9 +58,9 @@ Tag Instances like this:
 
 The geographic shape of a place. A GeoShape can be described using several properties whose values are based on latitude/longitude pairs. Either whitespace or commas can be used to separate latitude and longitude; whitespace should be used when writing a list of several such points.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
-has_sub_classes = `=this.dv_has_sub_classes` 
+has_child_classes = `=this.dv_has_child_classes` 
 
 has_properties = `=this.dv_has_properties` 
 

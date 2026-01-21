@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Reservation/Reservation_Package.secret|Reservation_Package.secret]]"
 dv_has_:
   properties: "[ additionalType, alternateName, bookingAgent, bookingTime, broker, description, disambiguatingDescription, identifier, image, mainEntityOfPage, modifiedTime, name, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, subReservation, subjectOf, totalPrice, underName, url ]"
-dv_is_sub_class_of: "[[../Reservation]]"
+dv_has_parent_class: "[[../Reservation]]"
 dv_has_properties: "[ additionalType, alternateName, bookingAgent, bookingTime, broker, description, disambiguatingDescription, identifier, image, mainEntityOfPage, modifiedTime, name, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, subReservation, subjectOf, totalPrice, underName, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Reservation/Reservation_Package|Reservation_Package]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 A group of multiple reservations with common values for all sub-reservations.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

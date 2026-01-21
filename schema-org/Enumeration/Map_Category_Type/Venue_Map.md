@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Map_Category_Type/Venue_Map.private|Venue_Map.private]]"
     - "[[/_personal/schema-org/Enumeration/Map_Category_Type/Venue_Map.personal|Venue_Map.personal]]"
     - "[[/_secret/schema-org/Enumeration/Map_Category_Type/Venue_Map.secret|Venue_Map.secret]]"
-dv_is_sub_class_of: "[[../MapCategoryType]]"
+dv_has_parent_class: "[[../MapCategoryType]]"
 dv_is_enum_of: "[[../MapCategoryType]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Map_Category_Type/Venue_Map|Venue_Map]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 A venue map (e.g. for malls, auditoriums, museums, etc.).
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

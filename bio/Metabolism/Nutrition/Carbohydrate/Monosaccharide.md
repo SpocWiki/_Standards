@@ -31,7 +31,7 @@ Commons_category: Monosaccharides
 
 # [[Monosaccharide]] 
 
-#is_/sub_class_of :: [[Disaccharide]]  
+#has_/parent_class :: [[Disaccharide]]  
 #has_/instances :: [[Monosaccharide/Fructose]]  
 #has_/instances :: [[Monosaccharide/Galactose]]  
 #has_/instances :: [[Monosaccharide/Glucose]]   

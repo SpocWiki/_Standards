@@ -35,7 +35,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Restricted_Diet.private|Restricted_Diet.private]]"
     - "[[/_personal/schema-org/Enumeration/Restricted_Diet.personal|Restricted_Diet.personal]]"
     - "[[/_secret/schema-org/Enumeration/Restricted_Diet.secret|Restricted_Diet.secret]]"
-dv_is_sub_class_of: "[[../Enumeration]]"
+dv_has_parent_class: "[[../Enumeration]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Restricted_Diet|Restricted_Diet]]"
   - "[[/_public/schema-org/Enumeration/Restricted_Diet.public|Restricted_Diet.public]]"
@@ -53,7 +53,7 @@ Tag Instances like this:
 
 A diet restricted to certain foods or preparations for cultural, religious, health or lifestyle reasons.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 ## Confidential Links & Embeds: 
 

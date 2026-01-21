@@ -34,7 +34,7 @@ Tag Instances like this:
 
 A process of care relying upon counseling, dialogue and communication  aimed at improving a mental health condition without use of drugs.
 
-#is_/sub_class_of :: [[../TherapeuticProcedure]]  
+#has_/parent_class :: [[../TherapeuticProcedure]]  
 
 #has_/properties :: [ additionalType, adverseOutcome, alternateName, bodyLocation, code, description, disambiguatingDescription, doseSchedule, drug, followup, funding, guideline, howPerformed, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, preparation, procedureType, recognizingAuthority, relevantSpecialty, sameAs, status, study, subjectOf, url ]  
 

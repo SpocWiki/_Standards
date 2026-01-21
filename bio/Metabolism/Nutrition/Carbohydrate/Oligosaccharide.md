@@ -1,6 +1,6 @@
 
-#has_/sub_classes :: [[Disaccharide]] 
-#is_/sub_class_of :: [[Polysaccharide]] 
+#has_/child_classes :: [[Disaccharide]] 
+#has_/parent_class :: [[Polysaccharide]] 
 #has_/instances :: [[Oligosaccharide/Raffinose]] 
 #has_/instances :: [[Oligosaccharide/Stachyose]]  
 

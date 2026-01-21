@@ -40,7 +40,7 @@ dv_is_:
     - "[[/_secret/schema-org/Predicate/Quantity/Duration.secret|Duration.secret]]"
 dv_has_:
   properties:
-dv_is_sub_class_of: "[[../Quantity]]"
+dv_has_parent_class: "[[../Quantity]]"
 dv_has_properties:
   - "[[../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
   - "[[../../Property/has_name/has_name_alternate|has_name_alternate]]"
@@ -73,7 +73,7 @@ Tag Instances like this:
 
 Quantity: Duration (uses <a href="http://en.wikipedia.org/wiki/ISO_8601">ISO 8601 duration format</a>: P#y#m#w#dT#h#m#s.fff  ).
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

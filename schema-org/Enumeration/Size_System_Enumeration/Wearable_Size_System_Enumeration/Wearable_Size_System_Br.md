@@ -39,7 +39,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Br.personal|Wearable_Size_System_Br.personal]]"
     - "[[/_secret/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Br.secret|Wearable_Size_System_Br.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../WearableSizeSystemEnumeration]]"
+dv_has_parent_class: "[[../WearableSizeSystemEnumeration]]"
 dv_is_enum_of: "[[../WearableSizeSystemEnumeration]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Br|Wearable_Size_System_Br]]"
@@ -60,7 +60,7 @@ is_part_of = `=this.dv_is_part_of`
 
 Brazilian size system for wearables.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

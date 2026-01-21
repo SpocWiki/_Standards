@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Action_Access_Specification.secret|Action_Access_Specification.secret]]"
 dv_has_:
   properties: "[ additionalType, alternateName, availabilityEnds, availabilityStarts, category, description, disambiguatingDescription, eligibleRegion, expectsAcceptanceOf, identifier, image, ineligibleRegion, mainEntityOfPage, name, potentialAction, requiresSubscription, sameAs, subjectOf, url ]"
-dv_is_sub_class_of: "[[../Intangible]]"
+dv_has_parent_class: "[[../Intangible]]"
 dv_has_properties: "[ additionalType, alternateName, availabilityEnds, availabilityStarts, category, description, disambiguatingDescription, eligibleRegion, expectsAcceptanceOf, identifier, image, ineligibleRegion, mainEntityOfPage, name, potentialAction, requiresSubscription, sameAs, subjectOf, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Action_Access_Specification|Action_Access_Specification]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 A set of requirements that must be fulfilled in order to perform an Action.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

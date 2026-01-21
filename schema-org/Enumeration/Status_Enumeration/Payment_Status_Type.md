@@ -35,7 +35,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type.private|Payment_Status_Type.private]]"
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type.personal|Payment_Status_Type.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type.secret|Payment_Status_Type.secret]]"
-dv_is_sub_class_of: "[[../StatusEnumeration]]"
+dv_has_parent_class: "[[../StatusEnumeration]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type|Payment_Status_Type]]"
   - "[[/_public/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type.public|Payment_Status_Type.public]]"
@@ -53,7 +53,7 @@ Tag Instances like this:
 
 A specific payment status. For example, PaymentDue, PaymentComplete, etc.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 ## Confidential Links & Embeds: 
 

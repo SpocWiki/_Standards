@@ -33,7 +33,7 @@ Tag Instances like this:
 
 A system of medicine focused on the relationship between the body's structure, mainly the spine, and its functioning.
 
-#is_/sub_class_of :: [[../MedicineSystem]]  
+#has_/parent_class :: [[../MedicineSystem]]  
 
 #is_/enum_of :: [[../MedicineSystem]]  
 

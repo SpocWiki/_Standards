@@ -37,7 +37,7 @@ creates a Link, but that is unrestricted
 
 #is_/part_of :: https://pending.schema.org  
 
-#is_/sub_class_of :: [[../../schema-org/Class/Thing|Thing]] 
+#has_/parent_class :: [[../../schema-org/Class/Thing|Thing]] 
 
 #has_/properties :: [ additionalType, alternateName, childTaxon, description, disambiguatingDescription, hasDefinedTerm, identifier, image, mainEntityOfPage, name, parentTaxon, potentialAction, sameAs, subjectOf, taxonRank, url ]  
 

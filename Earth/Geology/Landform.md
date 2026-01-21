@@ -63,8 +63,8 @@ dv_is_:
     - "[[/_private/Earth/Geology/Landform.private|Landform.private]]"
     - "[[/_personal/Earth/Geology/Landform.personal|Landform.personal]]"
     - "[[/_secret/Earth/Geology/Landform.secret|Landform.secret]]"
-dv_is_sub_class_of: "[[../Geography/Place/Administrative_Area/City|City]]"
-dv_has_sub_classes: "[ BodyOfWater, Continent, Mountain, Volcano ]"
+dv_has_parent_class: "[[../Geography/Place/Administrative_Area/City|City]]"
+dv_has_child_classes: "[ BodyOfWater, Continent, Mountain, Volcano ]"
 dv_has_properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
 dv_is_same_as:
   - "[[../../WikiData/WD~Landform,271669|WD~Landform,271669]]"
@@ -90,9 +90,9 @@ and oceanic waterbody interface features such as bays, peninsulas, seas and so f
 including sub-aqueous terrain features such as submersed mountain ranges, volcanoes, 
 and the great ocean basins.
 
-is_sub_class_of = `=this.dv_is_sub_class_of`]] ]
+has_parent_class = `=this.dv_has_parent_class`]] ]
 
-has_sub_classes = `=this.dv_has_sub_classes` ]
+has_child_classes = `=this.dv_has_child_classes` ]
 
 has_properties = `=this.dv_has_properties` ]
 

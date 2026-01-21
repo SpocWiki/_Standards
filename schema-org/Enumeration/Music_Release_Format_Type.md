@@ -35,7 +35,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Music_Release_Format_Type.private|Music_Release_Format_Type.private]]"
     - "[[/_personal/schema-org/Enumeration/Music_Release_Format_Type.personal|Music_Release_Format_Type.personal]]"
     - "[[/_secret/schema-org/Enumeration/Music_Release_Format_Type.secret|Music_Release_Format_Type.secret]]"
-dv_is_sub_class_of: "[[../Enumeration]]"
+dv_has_parent_class: "[[../Enumeration]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Music_Release_Format_Type|Music_Release_Format_Type]]"
   - "[[/_public/schema-org/Enumeration/Music_Release_Format_Type.public|Music_Release_Format_Type.public]]"
@@ -53,7 +53,7 @@ Tag Instances like this:
 
 Format of this release (the type of recording media used, i.e. compact disc, digital media, LP, etc.).
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 ## Confidential Links & Embeds: 
 

@@ -34,7 +34,7 @@ Tag Instances like this:
 
 Enumerated categories of medical drug costs.
 
-#is_/sub_class_of :: [[../MedicalEnumeration]]  
+#has_/parent_class :: [[../MedicalEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

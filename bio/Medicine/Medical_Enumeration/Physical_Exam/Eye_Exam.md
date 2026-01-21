@@ -43,7 +43,7 @@ Tag Instances like this:
 
 Eye or ophthalmological function assessment with clinical examination.
 
-#is_/sub_class_of :: [[../PhysicalExam]]  
+#has_/parent_class :: [[../PhysicalExam]]  
 
 #is_/enum_of :: [[../PhysicalExam]]  
 

@@ -35,7 +35,7 @@ Tag Instances like this:
 
 Data derived from multiple randomized clinical trials or meta-analyses.
 
-#is_/sub_class_of :: [[../MedicalEvidenceLevel]]  
+#has_/parent_class :: [[../MedicalEvidenceLevel]]  
 
 #is_/enum_of :: [[../MedicalEvidenceLevel]]  
 

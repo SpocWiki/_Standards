@@ -39,7 +39,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Edited_or_Cropped_Content.personal|Edited_or_Cropped_Content.personal]]"
     - "[[/_secret/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Edited_or_Cropped_Content.secret|Edited_or_Cropped_Content.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../Media_Manipulation_Rating_Enumeration]]"
+dv_has_parent_class: "[[../Media_Manipulation_Rating_Enumeration]]"
 dv_is_enum_of: "[[../Media_Manipulation_Rating_Enumeration]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Edited_or_Cropped_Content|Edited_or_Cropped_Content]]"
@@ -72,7 +72,7 @@ The audio has been edited or rearranged. This category applies to time edits,
 including editing multiple audio clips together to alter the story being told
 or editing out large portions from the recording.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

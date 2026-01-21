@@ -39,7 +39,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Return_Fees_Enumeration/Return_Fees_Customer_Responsibility.personal|Return_Fees_Customer_Responsibility.personal]]"
     - "[[/_secret/schema-org/Enumeration/Return_Fees_Enumeration/Return_Fees_Customer_Responsibility.secret|Return_Fees_Customer_Responsibility.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../ReturnFeesEnumeration]]"
+dv_has_parent_class: "[[../ReturnFeesEnumeration]]"
 dv_is_enum_of: "[[../ReturnFeesEnumeration]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Return_Fees_Enumeration/Return_Fees_Customer_Responsibility|Return_Fees_Customer_Responsibility]]"
@@ -60,7 +60,7 @@ is_part_of = `=this.dv_is_part_of`
 
 Specifies that product returns must be paid for, and are the responsibility of, the customer.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

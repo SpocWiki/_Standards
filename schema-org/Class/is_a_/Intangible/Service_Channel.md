@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Service_Channel.secret|Service_Channel.secret]]"
 dv_has_:
   properties: "[ additionalType, alternateName, availableLanguage, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, processingTime, providesService, sameAs, serviceLocation, servicePhone, servicePostalAddress, serviceSmsNumber, serviceUrl, subjectOf, url ]"
-dv_is_sub_class_of: "[[../Intangible]]"
+dv_has_parent_class: "[[../Intangible]]"
 dv_has_properties: "[ additionalType, alternateName, availableLanguage, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, processingTime, providesService, sameAs, serviceLocation, servicePhone, servicePostalAddress, serviceSmsNumber, serviceUrl, subjectOf, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Service_Channel|Service_Channel]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 A means for accessing a service, e.g. a government office location, web site, or phone number.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

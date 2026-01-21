@@ -39,7 +39,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Return_Fees_Enumeration/Free_Return.personal|Free_Return.personal]]"
     - "[[/_secret/schema-org/Enumeration/Return_Fees_Enumeration/Free_Return.secret|Free_Return.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../ReturnFeesEnumeration]]"
+dv_has_parent_class: "[[../ReturnFeesEnumeration]]"
 dv_is_enum_of: "[[../ReturnFeesEnumeration]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Return_Fees_Enumeration/Free_Return|Free_Return]]"
@@ -60,7 +60,7 @@ is_part_of = `=this.dv_is_part_of`
 
 Specifies that product returns are free of charge for the customer.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

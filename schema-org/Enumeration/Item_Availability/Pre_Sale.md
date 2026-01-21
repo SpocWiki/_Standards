@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Item_Availability/Pre_Sale.private|Pre_Sale.private]]"
     - "[[/_personal/schema-org/Enumeration/Item_Availability/Pre_Sale.personal|Pre_Sale.personal]]"
     - "[[/_secret/schema-org/Enumeration/Item_Availability/Pre_Sale.secret|Pre_Sale.secret]]"
-dv_is_sub_class_of: "[[../ItemAvailability]]"
+dv_has_parent_class: "[[../ItemAvailability]]"
 dv_is_enum_of: "[[../ItemAvailability]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Item_Availability/Pre_Sale|Pre_Sale]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 Indicates that the item is available for ordering and delivery before general availability.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

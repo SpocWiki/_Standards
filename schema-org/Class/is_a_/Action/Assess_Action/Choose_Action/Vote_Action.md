@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Action/Assess_Action/Choose_Action/Vote_Action.secret|Vote_Action.secret]]"
 dv_has_:
   properties: "[ actionOption, actionStatus, additionalType, agent, alternateName, candidate, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, option, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
-dv_is_sub_class_of: "[[../ChooseAction]]"
+dv_has_parent_class: "[[../ChooseAction]]"
 dv_has_properties: "[ actionOption, actionStatus, additionalType, agent, alternateName, candidate, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, option, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Action/Assess_Action/Choose_Action/Vote_Action|Vote_Action]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 The act of expressing a preference from a fixed/finite/structured set of choices/options.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

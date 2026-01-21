@@ -35,7 +35,7 @@ Tag Instances like this:
 
 A designation by the US FDA signifying that animal reproduction studies have shown an adverse effect on the fetus and there are no adequate and well-controlled studies in humans, but potential benefits may warrant use of the drug in pregnant women despite potential risks.
 
-#is_/sub_class_of :: [[../DrugPregnancyCategory]]  
+#has_/parent_class :: [[../DrugPregnancyCategory]]  
 
 #is_/enum_of :: [[../DrugPregnancyCategory]]  
 

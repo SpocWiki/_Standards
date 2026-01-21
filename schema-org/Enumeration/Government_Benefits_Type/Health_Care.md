@@ -84,7 +84,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Government_Benefits_Type/Health_Care.personal|Health_Care.personal]]"
     - "[[/_secret/schema-org/Enumeration/Government_Benefits_Type/Health_Care.secret|Health_Care.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../GovernmentBenefitsType]]"
+dv_has_parent_class: "[[../GovernmentBenefitsType]]"
 dv_is_enum_of: "[[../GovernmentBenefitsType]]"
 dv_is_same_as:
   - "[[../../../WikiData/WD~Health_care,31207|WD~Health_care,31207]]"
@@ -108,7 +108,7 @@ is_part_of = `=this.dv_is_part_of`
 
 HealthCare: this is a benefit for health care.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

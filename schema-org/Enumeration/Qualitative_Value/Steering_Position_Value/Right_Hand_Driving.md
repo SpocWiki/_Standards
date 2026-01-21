@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value/Right_Hand_Driving.private|Right_Hand_Driving.private]]"
     - "[[/_personal/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value/Right_Hand_Driving.personal|Right_Hand_Driving.personal]]"
     - "[[/_secret/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value/Right_Hand_Driving.secret|Right_Hand_Driving.secret]]"
-dv_is_sub_class_of: "[[../SteeringPositionValue]]"
+dv_has_parent_class: "[[../SteeringPositionValue]]"
 dv_is_enum_of: "[[../SteeringPositionValue]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value/Right_Hand_Driving|Right_Hand_Driving]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 The steering position is on the right side of the vehicle (viewed from the main direction of driving).
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

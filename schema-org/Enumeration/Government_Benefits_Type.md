@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Government_Benefits_Type.personal|Government_Benefits_Type.personal]]"
     - "[[/_secret/schema-org/Enumeration/Government_Benefits_Type.secret|Government_Benefits_Type.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../Enumeration]]"
+dv_has_parent_class: "[[../Enumeration]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Government_Benefits_Type|Government_Benefits_Type]]"
   - "[[/_public/schema-org/Enumeration/Government_Benefits_Type.public|Government_Benefits_Type.public]]"
@@ -57,7 +57,7 @@ is_part_of = `=this.dv_is_part_of`
 
 GovernmentBenefitsType enumerates several kinds of government benefits to support the COVID-19 situation. Note that this structure may not capture all benefits offered.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 ## Confidential Links & Embeds: 
 

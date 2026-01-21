@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Item_Availability/Online_Only.private|Online_Only.private]]"
     - "[[/_personal/schema-org/Enumeration/Item_Availability/Online_Only.personal|Online_Only.personal]]"
     - "[[/_secret/schema-org/Enumeration/Item_Availability/Online_Only.secret|Online_Only.secret]]"
-dv_is_sub_class_of: "[[../ItemAvailability]]"
+dv_has_parent_class: "[[../ItemAvailability]]"
 dv_is_enum_of: "[[../ItemAvailability]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Item_Availability/Online_Only|Online_Only]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 Indicates that the item is available only online.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

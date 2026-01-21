@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Payment_Charge_Specification.secret|Payment_Charge_Specification.secret]]"
 dv_has_:
   properties: "[ additionalType, alternateName, appliesToDeliveryMethod, appliesToPaymentMethod, description, disambiguatingDescription, eligibleQuantity, eligibleTransactionVolume, identifier, image, mainEntityOfPage, maxPrice, minPrice, name, potentialAction, price, priceCurrency, sameAs, subjectOf, url, validFrom, validThrough, valueAddedTaxIncluded ]"
-dv_is_sub_class_of: "[[../PriceSpecification]]"
+dv_has_parent_class: "[[../PriceSpecification]]"
 dv_has_properties: "[ additionalType, alternateName, appliesToDeliveryMethod, appliesToPaymentMethod, description, disambiguatingDescription, eligibleQuantity, eligibleTransactionVolume, identifier, image, mainEntityOfPage, maxPrice, minPrice, name, potentialAction, price, priceCurrency, sameAs, subjectOf, url, validFrom, validThrough, valueAddedTaxIncluded ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Payment_Charge_Specification|Payment_Charge_Specification]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 The costs of settling the payment using a particular payment method.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

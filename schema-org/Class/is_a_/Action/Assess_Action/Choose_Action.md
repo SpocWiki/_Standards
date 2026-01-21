@@ -38,8 +38,8 @@ dv_is_:
 dv_has_:
   sub_classes: "[ VoteAction ]"
   properties: "[ actionOption, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, option, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
-dv_is_sub_class_of: "[[../AssessAction]]"
-dv_has_sub_classes: "[ VoteAction ]"
+dv_has_parent_class: "[[../AssessAction]]"
+dv_has_child_classes: "[ VoteAction ]"
 dv_has_properties: "[ actionOption, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, option, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Action/Assess_Action/Choose_Action|Choose_Action]]"
@@ -58,9 +58,9 @@ Tag Instances like this:
 
 The act of expressing a preference from a set of options or a large or unbounded set of choices/options.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
-has_sub_classes = `=this.dv_has_sub_classes` 
+has_child_classes = `=this.dv_has_child_classes` 
 
 has_properties = `=this.dv_has_properties` 
 

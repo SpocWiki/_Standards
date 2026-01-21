@@ -39,7 +39,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Price_Type_Enumeration/List_Price.personal|List_Price.personal]]"
     - "[[/_secret/schema-org/Enumeration/Price_Type_Enumeration/List_Price.secret|List_Price.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../PriceTypeEnumeration]]"
+dv_has_parent_class: "[[../PriceTypeEnumeration]]"
 dv_is_enum_of: "[[../PriceTypeEnumeration]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Price_Type_Enumeration/List_Price|List_Price]]"
@@ -60,7 +60,7 @@ is_part_of = `=this.dv_is_part_of`
 
 Represents the list price (the price a product is actually advertised for) of an offered product.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

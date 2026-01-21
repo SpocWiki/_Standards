@@ -37,8 +37,8 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration/Payment_Method.secret|Payment_Method.secret]]"
 dv_has_:
   sub_classes: "[ PaymentCard ]"
-dv_is_sub_class_of: "[[../Enumeration]]"
-dv_has_sub_classes: "[ PaymentCard ]"
+dv_has_parent_class: "[[../Enumeration]]"
+dv_has_child_classes: "[ PaymentCard ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Payment_Method|Payment_Method]]"
   - "[[/_public/schema-org/Enumeration/Payment_Method.public|Payment_Method.public]]"
@@ -70,9 +70,9 @@ Commonly used values:
 <li>http://purl.org/goodrelations/v1#PaySwarm</li>
 </ul>
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
-has_sub_classes = `=this.dv_has_sub_classes` 
+has_child_classes = `=this.dv_has_child_classes` 
 
 ## Confidential Links & Embeds: 
 

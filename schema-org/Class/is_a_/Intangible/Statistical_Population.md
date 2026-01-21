@@ -58,7 +58,7 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Class/is_a_/Intangible/Statistical_Population.personal|Statistical_Population.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Statistical_Population.secret|Statistical_Population.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../Intangible]]"
+dv_has_parent_class: "[[../Intangible]]"
 dv_has_properties: "[ additionalType, alternateName, constrainingProperty, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, numConstraints, populationType, potentialAction, sameAs, subjectOf, url ]"
 ---
 
@@ -77,7 +77,7 @@ A StatisticalPopulation is a set of instances of a certain given type that satis
 The properties [[numConstraints]] and [[constrainingProperty]] are used to specify which of the populations properties are used to specify the population. Note that the sense of "population" used here is the general sense of a statistical
 population, and does not imply that the population consists of people. For example, a [[populationType]] of [[Event]] or [[NewsArticle]] could be used. See also [[Observation]], and the <a href="/docs/data-and-datasets.html">data and datasets</a> overview for more details.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

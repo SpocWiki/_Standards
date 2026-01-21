@@ -38,7 +38,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Monetary_Amount.secret|Monetary_Amount.secret]]"
 dv_has_:
   properties: "[ additionalType, alternateName, currency, description, disambiguatingDescription, identifier, image, mainEntityOfPage, maxValue, minValue, name, potentialAction, sameAs, subjectOf, url, validFrom, validThrough, value ]"
-dv_is_sub_class_of: "[[../StructuredValue]]"
+dv_has_parent_class: "[[../StructuredValue]]"
 dv_has_properties: "[ additionalType, alternateName, currency, description, disambiguatingDescription, identifier, image, mainEntityOfPage, maxValue, minValue, name, potentialAction, sameAs, subjectOf, url, validFrom, validThrough, value ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Monetary_Amount|Monetary_Amount]]"
@@ -63,7 +63,7 @@ or the value of a salary, etc.
 It is recommended to use [[../../../../Relation/has/has_price_specification|price-specification]] Types 
 to describe the price of an Offer, Invoice, etc.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

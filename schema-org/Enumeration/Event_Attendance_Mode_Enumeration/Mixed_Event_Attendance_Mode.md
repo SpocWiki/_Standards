@@ -39,7 +39,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Event_Attendance_Mode_Enumeration/Mixed_Event_Attendance_Mode.personal|Mixed_Event_Attendance_Mode.personal]]"
     - "[[/_secret/schema-org/Enumeration/Event_Attendance_Mode_Enumeration/Mixed_Event_Attendance_Mode.secret|Mixed_Event_Attendance_Mode.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../EventAttendanceModeEnumeration]]"
+dv_has_parent_class: "[[../EventAttendanceModeEnumeration]]"
 dv_is_enum_of: "[[../EventAttendanceModeEnumeration]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Event_Attendance_Mode_Enumeration/Mixed_Event_Attendance_Mode|Mixed_Event_Attendance_Mode]]"
@@ -60,7 +60,7 @@ is_part_of = `=this.dv_is_part_of`
 
 MixedEventAttendanceMode - an event that is conducted as a combination of both offline and online modes.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

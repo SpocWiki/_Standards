@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Book_Format_Type/Audiobook_Format.private|Audiobook_Format.private]]"
     - "[[/_personal/schema-org/Enumeration/Book_Format_Type/Audiobook_Format.personal|Audiobook_Format.personal]]"
     - "[[/_secret/schema-org/Enumeration/Book_Format_Type/Audiobook_Format.secret|Audiobook_Format.secret]]"
-dv_is_sub_class_of: "[[../BookFormatType]]"
+dv_has_parent_class: "[[../BookFormatType]]"
 dv_is_enum_of: "[[../BookFormatType]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Book_Format_Type/Audiobook_Format|Audiobook_Format]]"
@@ -56,7 +56,7 @@ Tag Instances like this:
 
 Book format: Audiobook. This is an enumerated value for use with the bookFormat property. There is also a type 'Audiobook' in the bib extension which includes Audiobook specific properties.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

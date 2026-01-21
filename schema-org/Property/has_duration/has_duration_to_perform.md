@@ -31,7 +31,7 @@ dv_has_:
     to_perform: P#Y#M#W#DT#H#M#s.fff
 dv_domain: HowTo, HowToDirection
 dv_range: Duration
-dv_sub_properties: cookTime
+dv_child_properties: cookTime
 dv_is_:
   same_as:
     - "[[has_duration_to_perform|has_duration_to_perform]]"
@@ -65,7 +65,7 @@ domain = `=this.dv_domain`
 has_name = `=this.dv_has_name` 
 range = `=this.dv_range` 
 
-Has sub_properties = `=this.dv_sub_properties` 
+Has sub_properties = `=this.dv_child_properties` 
 
 
 ## Confidential Links & Embeds: 

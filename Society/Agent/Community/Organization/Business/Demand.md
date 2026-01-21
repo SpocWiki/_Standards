@@ -35,7 +35,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Demand.secret|Demand.secret]]"
 dv_has_:
   properties: "[ acceptedPaymentMethod, additionalType, advanceBookingRequirement, alternateName, areaServed, asin, availability, availabilityEnds, availabilityStarts, availableAtOrFrom, availableDeliveryMethod, businessFunction, deliveryLeadTime, description, disambiguatingDescription, eligibleCustomerType, eligibleDuration, eligibleQuantity, eligibleRegion, eligibleTransactionVolume, gtin, gtin12, gtin13, gtin14, gtin8, identifier, image, includesObject, ineligibleRegion, inventoryLevel, itemCondition, itemOffered, mainEntityOfPage, mpn, name, potentialAction, priceSpecification, sameAs, seller, serialNumber, sku, subjectOf, url, validFrom, validThrough, warranty ]"
-dv_is_sub_class_of: "[[../../../../../schema-org/Class/is_a_/Intangible]]"
+dv_has_parent_class: "[[../../../../../schema-org/Class/is_a_/Intangible]]"
 dv_has_properties: "[ acceptedPaymentMethod, additionalType, advanceBookingRequirement, alternateName, areaServed, asin, availability, availabilityEnds, availabilityStarts, availableAtOrFrom, availableDeliveryMethod, businessFunction, deliveryLeadTime, description, disambiguatingDescription, eligibleCustomerType, eligibleDuration, eligibleQuantity, eligibleRegion, eligibleTransactionVolume, gtin, gtin12, gtin13, gtin14, gtin8, identifier, image, includesObject, ineligibleRegion, inventoryLevel, itemCondition, itemOffered, mainEntityOfPage, mpn, name, potentialAction, priceSpecification, sameAs, seller, serialNumber, sku, subjectOf, url, validFrom, validThrough, warranty ]"
 dv_is_same_as:
   - "[[Demand|Demand]]"
@@ -61,7 +61,7 @@ announcement by an organization or person to seek a certain type of goods or ser
 
 For describing demand using this type, the very same properties used for [[Offer]] apply.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

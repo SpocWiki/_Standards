@@ -34,9 +34,9 @@ Tag Instances like this:
 
 Any bodily activity that enhances or maintains physical fitness and overall health and wellness. Includes activity that is part of daily living and routine, structured exercise, and exercise prescribed as part of a medical treatment or recovery plan.
 
-#is_/sub_class_of :: [[../LifestyleModification]]  
+#has_/parent_class :: [[../LifestyleModification]]  
 
-#has_/sub_classes :: [ ExercisePlan ]  
+#has_/child_classes :: [ ExercisePlan ]  
 
 #has_/properties :: [ additionalType, alternateName, associatedAnatomy, category, code, description, disambiguatingDescription, epidemiology, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, pathophysiology, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ]  
 

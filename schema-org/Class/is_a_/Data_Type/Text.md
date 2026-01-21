@@ -37,7 +37,7 @@ dv_is_:
 dv_has_:
   sub_classes: "[ CssSelectorType, PronounceableText, URL, XPathType ]"
 dv_is_similar_to: "[[../../../../../IT/Data/Data~Text/JSON(JavaScript_Object_Notation)/Type~primitive/Type~String]]"
-dv_has_sub_classes: "[ CssSelectorType, PronounceableText, URL, XPathType ]"
+dv_has_child_classes: "[ CssSelectorType, PronounceableText, URL, XPathType ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Text|Text]]"
   - "[[/_public/schema-org/Class/is_a_/Data_Type/Text.public|Text.public]]"
@@ -62,7 +62,7 @@ but typically this is not necessary, because Text is treated as a Scalar/Struct 
 
 Data type: Text.
 
-has_sub_classes = `=this.dv_has_sub_classes` 
+has_child_classes = `=this.dv_has_child_classes` 
 
 ## Confidential Links & Embeds: 
 

@@ -39,7 +39,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Health_Aspect_Enumeration/How_It_Works_Health_Aspect.personal|How_It_Works_Health_Aspect.personal]]"
     - "[[/_secret/schema-org/Enumeration/Health_Aspect_Enumeration/How_It_Works_Health_Aspect.secret|How_It_Works_Health_Aspect.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../HealthAspectEnumeration]]"
+dv_has_parent_class: "[[../HealthAspectEnumeration]]"
 dv_is_enum_of: "[[../HealthAspectEnumeration]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Health_Aspect_Enumeration/How_It_Works_Health_Aspect|How_It_Works_Health_Aspect]]"
@@ -60,7 +60,7 @@ is_part_of = `=this.dv_is_part_of`
 
 Content that discusses and explains how a particular health-related topic works, e.g. in terms of mechanisms and underlying science.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

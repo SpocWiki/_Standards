@@ -39,7 +39,7 @@ dv_is_:
 dv_has_:
   properties: "[ additionalType, alternateName, cvdCollectionDate, cvdFacilityCounty, cvdFacilityId, cvdNumBeds, cvdNumBedsOcc, cvdNumC19Died, cvdNumC19HOPats, cvdNumC19HospPats, cvdNumC19MechVentPats, cvdNumC19OFMechVentPats, cvdNumC19OverflowPats, cvdNumICUBeds, cvdNumICUBedsOcc, cvdNumTotBeds, cvdNumVent, cvdNumVentUse, datePosted, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../StructuredValue]]"
+dv_has_parent_class: "[[../StructuredValue]]"
 dv_has_properties: "[ additionalType, alternateName, cvdCollectionDate, cvdFacilityCounty, cvdFacilityId, cvdNumBeds, cvdNumBedsOcc, cvdNumC19Died, cvdNumC19HOPats, cvdNumC19HospPats, cvdNumC19MechVentPats, cvdNumC19OFMechVentPats, cvdNumC19OverflowPats, cvdNumICUBeds, cvdNumICUBedsOcc, cvdNumTotBeds, cvdNumVent, cvdNumVentUse, datePosted, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Cdcpmd_Record|Cdcpmd_Record]]"
@@ -62,7 +62,7 @@ A CDCPMDRecord is a data structure representing a record in a CDC tabular data f
 	  used for hospital data reporting. See <a href="/docs/cdc-covid.html">documentation</a> for details, and the linked CDC materials for authoritative
 	  definitions used as the source here.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
 

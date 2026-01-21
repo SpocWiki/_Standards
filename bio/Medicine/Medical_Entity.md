@@ -34,9 +34,9 @@ Tag Instances like this:
 
 The most generic type of entity related to health and the practice of medicine.
 
-#is_/sub_class_of :: [[../../schema-org/Class/Thing|Thing]]  
+#has_/parent_class :: [[../../schema-org/Class/Thing|Thing]]  
 
-#has_/sub_classes :: [ AnatomicalStructure, AnatomicalSystem, DrugClass, DrugCost, LifestyleModification, MedicalCause, MedicalCondition, MedicalContraindication, MedicalDevice, MedicalGuideline, MedicalIndication, MedicalIntangible, MedicalProcedure, MedicalRiskEstimator, MedicalRiskFactor, MedicalStudy, MedicalTest, Substance, SuperficialAnatomy ]  
+#has_/child_classes :: [ AnatomicalStructure, AnatomicalSystem, DrugClass, DrugCost, LifestyleModification, MedicalCause, MedicalCondition, MedicalContraindication, MedicalDevice, MedicalGuideline, MedicalIndication, MedicalIntangible, MedicalProcedure, MedicalRiskEstimator, MedicalRiskFactor, MedicalStudy, MedicalTest, Substance, SuperficialAnatomy ]  
 
 #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ]  
 

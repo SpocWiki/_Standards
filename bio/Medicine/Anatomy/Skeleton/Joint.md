@@ -63,7 +63,7 @@ Tag Instances like this:
 
 The anatomical location at which two or more bones make contact.
 
-#is_/sub_class_of :: [[../AnatomicalStructure]]  
+#has_/parent_class :: [[../AnatomicalStructure]]  
 
 #has_/properties :: [ additionalType, alternateName, associatedPathophysiology, biomechnicalClass, bodyLocation, code, connectedTo, description, diagram, disambiguatingDescription, functionalClass, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, partOfSystem, potentialAction, recognizingAuthority, relatedCondition, relatedTherapy, relevantSpecialty, sameAs, structuralClass, study, subStructure, subjectOf, url ]  
 

@@ -40,8 +40,8 @@ dv_has_:
   sub_classes: "[ MedicalCode ]"
   properties: "[ additionalType, alternateName, codeValue, description, disambiguatingDescription, identifier, image, inCodeSet, inDefinedTermSet, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, termCode, url ]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../DefinedTerm]]"
-dv_has_sub_classes: "[ MedicalCode ]"
+dv_has_parent_class: "[[../DefinedTerm]]"
+dv_has_child_classes: "[ MedicalCode ]"
 dv_has_properties: "[ additionalType, alternateName, codeValue, description, disambiguatingDescription, identifier, image, inCodeSet, inDefinedTermSet, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, termCode, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code|Category_Code]]"
@@ -60,9 +60,9 @@ Tag Instances like this:
 
 is_part_of = `=this.dv_is_part_of` 
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
-has_sub_classes = `=this.dv_has_sub_classes` 
+has_child_classes = `=this.dv_has_child_classes` 
 
 has_properties = `=this.dv_has_properties` 
 

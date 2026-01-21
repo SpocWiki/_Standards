@@ -39,7 +39,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Adult_Oriented_Enumeration/Unclassified_Adult_Consideration.personal|Unclassified_Adult_Consideration.personal]]"
     - "[[/_secret/schema-org/Enumeration/Adult_Oriented_Enumeration/Unclassified_Adult_Consideration.secret|Unclassified_Adult_Consideration.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../AdultOrientedEnumeration]]"
+dv_has_parent_class: "[[../AdultOrientedEnumeration]]"
 dv_is_enum_of: "[[../AdultOrientedEnumeration]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Adult_Oriented_Enumeration/Unclassified_Adult_Consideration|Unclassified_Adult_Consideration]]"
@@ -60,7 +60,7 @@ is_part_of = `=this.dv_is_part_of`
 
 The item is suitable only for adults, without indicating why. Due to widespread use of "adult" as a euphemism for "sexual", many such items are likely suited also for the SexualContentConsideration code.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

@@ -34,7 +34,7 @@ Tag Instances like this:
 
 Systems of medical practice.
 
-#is_/sub_class_of :: [[../MedicalEnumeration]]  
+#has_/parent_class :: [[../MedicalEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

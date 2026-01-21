@@ -40,7 +40,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Unspecified.personal|Merchant_Return_Unspecified.personal]]"
     - "[[/_secret/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Unspecified.secret|Merchant_Return_Unspecified.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../MerchantReturnEnumeration]]"
+dv_has_parent_class: "[[../MerchantReturnEnumeration]]"
 dv_is_enum_of: "[[../MerchantReturnEnumeration]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Unspecified|Merchant_Return_Unspecified]]"
@@ -61,7 +61,7 @@ is_part_of = `=this.dv_is_part_of`
 
 Specifies that a product return policy is not provided.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

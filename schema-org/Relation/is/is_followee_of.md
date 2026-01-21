@@ -38,7 +38,7 @@ Relation describes that:
 (has_/name :: is_followee_of )
 (has_/range :: Organization, Person )
 
-#has_/parent_/property  :: object  
+#is_/child_property_of  :: object  
 
 ## Confidential Links & Embeds: 
 

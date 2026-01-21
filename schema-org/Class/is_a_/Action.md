@@ -12,7 +12,7 @@ draft: false
 expiryDate: ""
 isDeleted: false
 isReadOnly: false
-is_sub_class_of: "[[../Thing|Thing]]"
+has_parent_class: "[[../Thing|Thing]]"
 keywords:
   - action
 layout: ""
@@ -34,12 +34,12 @@ dv_is_:
     - "[[/_private/schema-org/Class/is_a_/Action.private|Action.private]]"
     - "[[/_personal/schema-org/Class/is_a_/Action.personal|Action.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Action.secret|Action.secret]]"
-dv__is_sub_class_of: "[[../Thing|Thing]]"
+dv__has_parent_class: "[[../Thing|Thing]]"
 dv_has_:
   sub_classes: "[ AchieveAction, AssessAction, ConsumeAction, ControlAction, CreateAction, FindAction, InteractAction, MoveAction, OrganizeAction, PlayAction, SearchAction, SeekToAction, SolveMathAction, TradeAction, TransferAction, UpdateAction ]"
   properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
 dv_is_similar_to: "[[Activity]]"
-dv_has_sub_classes: "[ AchieveAction, AssessAction, ConsumeAction, ControlAction, CreateAction, FindAction, InteractAction, MoveAction, OrganizeAction, PlayAction, SearchAction, SeekToAction, SolveMathAction, TradeAction, TransferAction, UpdateAction ]"
+dv_has_child_classes: "[ AchieveAction, AssessAction, ConsumeAction, ControlAction, CreateAction, FindAction, InteractAction, MoveAction, OrganizeAction, PlayAction, SearchAction, SeekToAction, SolveMathAction, TradeAction, TransferAction, UpdateAction ]"
 dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Action|Action]]"
@@ -76,9 +76,9 @@ Synonyms/Aliases:
 [Activity](Activity.md): `schema:Action` is used for specific, well-defined actions, 
 while `schema:Activity` is used for broader, ongoing processes or events that may involve multiple actions or steps.
 
-_is_sub_class_of = `=this.dv__is_sub_class_of` 
+_has_parent_class = `=this.dv__has_parent_class` 
 
-has_sub_classes = `=this.dv_has_sub_classes` 
+has_child_classes = `=this.dv_has_child_classes` 
 
 has_properties = `=this.dv_has_properties` 
 

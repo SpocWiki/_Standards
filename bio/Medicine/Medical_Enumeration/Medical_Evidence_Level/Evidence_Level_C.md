@@ -35,7 +35,7 @@ Tag Instances like this:
 
 Only consensus opinion of experts, case studies, or standard-of-care.
 
-#is_/sub_class_of :: [[../MedicalEvidenceLevel]]  
+#has_/parent_class :: [[../MedicalEvidenceLevel]]  
 
 #is_/enum_of :: [[../MedicalEvidenceLevel]]  
 

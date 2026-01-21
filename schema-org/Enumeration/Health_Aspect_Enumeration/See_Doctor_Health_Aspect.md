@@ -39,7 +39,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Health_Aspect_Enumeration/See_Doctor_Health_Aspect.personal|See_Doctor_Health_Aspect.personal]]"
     - "[[/_secret/schema-org/Enumeration/Health_Aspect_Enumeration/See_Doctor_Health_Aspect.secret|See_Doctor_Health_Aspect.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../HealthAspectEnumeration]]"
+dv_has_parent_class: "[[../HealthAspectEnumeration]]"
 dv_is_enum_of: "[[../HealthAspectEnumeration]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Health_Aspect_Enumeration/See_Doctor_Health_Aspect|See_Doctor_Health_Aspect]]"
@@ -60,7 +60,7 @@ is_part_of = `=this.dv_is_part_of`
 
 Information about questions that may be asked, when to see a professional, measures before seeing a doctor or content about the first consultation.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

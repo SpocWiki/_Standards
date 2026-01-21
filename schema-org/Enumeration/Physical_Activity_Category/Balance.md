@@ -35,7 +35,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Physical_Activity_Category/Balance.private|Balance.private]]"
     - "[[/_personal/schema-org/Enumeration/Physical_Activity_Category/Balance.personal|Balance.personal]]"
     - "[[/_secret/schema-org/Enumeration/Physical_Activity_Category/Balance.secret|Balance.secret]]"
-dv_is_sub_class_of: "[[../PhysicalActivityCategory]]"
+dv_has_parent_class: "[[../PhysicalActivityCategory]]"
 dv_is_enum_of: "[[../PhysicalActivityCategory]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Physical_Activity_Category/Balance|Balance]]"
@@ -54,7 +54,7 @@ Tag Instances like this:
 
 Physical activity that is engaged to help maintain posture and balance.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

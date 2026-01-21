@@ -38,9 +38,9 @@ Tag Instances like this:
 
 A process of care used in either a diagnostic, therapeutic, preventive or palliative capacity that relies on invasive (surgical), non-invasive, or other techniques.
 
-#is_/sub_class_of :: [[../MedicalEntity]]  
+#has_/parent_class :: [[../MedicalEntity]]  
 
-#has_/sub_classes :: [ DiagnosticProcedure, PalliativeProcedure, PhysicalExam, SurgicalProcedure, TherapeuticProcedure ]  
+#has_/child_classes :: [ DiagnosticProcedure, PalliativeProcedure, PhysicalExam, SurgicalProcedure, TherapeuticProcedure ]  
 
 #has_/properties :: [ additionalType, alternateName, bodyLocation, code, description, disambiguatingDescription, followup, funding, guideline, howPerformed, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, preparation, procedureType, recognizingAuthority, relevantSpecialty, sameAs, status, study, subjectOf, url ]  
 

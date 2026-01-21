@@ -40,7 +40,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Unlimited_Window.personal|Merchant_Return_Unlimited_Window.personal]]"
     - "[[/_secret/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Unlimited_Window.secret|Merchant_Return_Unlimited_Window.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../MerchantReturnEnumeration]]"
+dv_has_parent_class: "[[../MerchantReturnEnumeration]]"
 dv_is_enum_of: "[[../MerchantReturnEnumeration]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Unlimited_Window|Merchant_Return_Unlimited_Window]]"
@@ -61,7 +61,7 @@ is_part_of = `=this.dv_is_part_of`
 
 Specifies that there is an unlimited window for product returns.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
 

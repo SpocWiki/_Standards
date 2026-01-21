@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration.personal|Media_Manipulation_Rating_Enumeration.personal]]"
     - "[[/_secret/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration.secret|Media_Manipulation_Rating_Enumeration.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_is_sub_class_of: "[[../Enumeration]]"
+dv_has_parent_class: "[[../Enumeration]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration|Media_Manipulation_Rating_Enumeration]]"
   - "[[/_public/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration.public|Media_Manipulation_Rating_Enumeration.public]]"
@@ -64,7 +64,7 @@ if applied in the same [[../../../../../Society/Communication/Media/Creative_Wor
 
 Note that the application of these codes is with regard to a piece of media shared or published in a particular context.
 
-is_sub_class_of = `=this.dv_is_sub_class_of` 
+has_parent_class = `=this.dv_has_parent_class` 
 
 ## Confidential Links & Embeds: 
 

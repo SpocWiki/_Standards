@@ -92,7 +92,7 @@ Tag Instances like this:
 #is_a_/virus
 #is_an_/infectious_agent
 
-#is_/sub_class_of :: [[../InfectiousAgentClass]]  
+#has_/parent_class :: [[../InfectiousAgentClass]]  
 
 #is_/enum_of :: [[../InfectiousAgentClass]]  
 

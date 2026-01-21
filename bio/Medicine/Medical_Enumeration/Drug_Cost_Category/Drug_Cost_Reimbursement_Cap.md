@@ -35,7 +35,7 @@ Tag Instances like this:
 
 The drug's cost represents the maximum reimbursement paid by an insurer for the drug.
 
-#is_/sub_class_of :: [[../DrugCostCategory]]  
+#has_/parent_class :: [[../DrugCostCategory]]  
 
 #is_/enum_of :: [[../DrugCostCategory]]  
 
