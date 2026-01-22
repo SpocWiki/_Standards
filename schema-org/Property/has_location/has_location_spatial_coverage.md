@@ -46,7 +46,7 @@ Predicate describes that:
 
 #has_/parent_/property  :: contentLocation  
 
-#has_/child_properties :: [ announcementLocation, legislationJurisdiction ]  
+#has_/child_/property :: [ announcementLocation, legislationJurisdiction ]  
 
 ## Confidential Links & Embeds: 
 

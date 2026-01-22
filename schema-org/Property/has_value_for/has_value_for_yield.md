@@ -42,7 +42,7 @@ Predicate describes that:
 (has_/name :: has_value_for_yield )
 (has_/range :: QuantitativeValue, Text )
 
-#has_/child_properties :: [ recipeYield ]  
+#has_/child_/property :: [ recipeYield ]  
 
 ## Confidential Links & Embeds: 
 

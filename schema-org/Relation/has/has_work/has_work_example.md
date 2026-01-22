@@ -53,7 +53,7 @@ Relation describes that:
 
 #has_/inverse  :: exampleOfWork  
 
-#has_/child_properties :: [ appearance, firstAppearance ]  
+#has_/child_/property :: [ appearance, firstAppearance ]  
 
 ## Confidential Links & Embeds: 
 

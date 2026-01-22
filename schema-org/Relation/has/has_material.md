@@ -37,7 +37,7 @@ Relation describes that:
 (has_/name :: has_material )
 (has_/range :: Product, Text, URL )
 
-#has_/child_properties :: [ artMedium, surface ]  
+#has_/child_/property :: [ artMedium, surface ]  
 
 ## Confidential Links & Embeds: 
 

@@ -27,7 +27,7 @@ type: Predi_Relation
 # [[is_jurisdiction_of]] 
 
 #is_/part_of :: pending:  
-#has_/child_properties :: "[[../is/is_legislation_jurisdiction_of|is_legislation_jurisdiction_of]]" 
+#has_/child_/property :: "[[../is/is_legislation_jurisdiction_of|is_legislation_jurisdiction_of]]" 
 
 Use it like this to specify the geographic or administrative jurisdiction 
 where the Subject (e.g., a policy, regulation, or rule) is applicable.: 

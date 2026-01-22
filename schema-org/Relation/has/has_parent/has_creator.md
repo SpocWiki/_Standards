@@ -26,33 +26,33 @@ type: Predi_Relation
 
 # [[has_creator]] 
 
+#has_/child_/property :: [[../../is/is_legislation_passed_by|is_legislation_passed_by]] , [[has_founder]]    
+
+#has_/inverse  :: [[has_created]] 
+
 Use it like this: 
 - #has_/creator :: Organization, Person  
 - [ has_creator :: Organization, Person ] 
 
-Specifies the creator/author of this [[../../../Society/Communication/Media/Creative_Work|CreativeWork]]. 
+Specifies the creator/author of this [[../../../../Society/Communication/Media/Creative_Work|CreativeWork]]. 
 This is the same as the [[has_author]] property for CreativeWork.
 
 Relation describes that: 
 
-#has_/domain  :: [[../../Class/Thing|Thing]]  
-
+#has_/domain  :: [[../../../Class/Thing|Thing]]  
 (has_/name :: has_creator )
 (has_/range :: Organization, Person )
-
-#has_/child_properties :: [ [[../is/is_legislation_passed_by|is_legislation_passed_by]] , [[has_founder]] ]  
-
-#has_/inverse  :: [[is_creating]] 
 
 [[has_creator]] is often described as a N : 1 Relation with a single Creator, 
 but as with its Sub-Relation [[has_parent]] which is N : 2, 
 it can actually describe any Cardinality e.g. for scientific Papers. 
 
 is_definin
-[[[[has_delivery/has_defined_term|defined_term]]
+[[has_delivery/has_defined_term|defined_term]]  
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_creator|has_creator]] 
+### #is_/same_as :: [[has_creator|has_creator]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_creator.public|has_creator.public]] 
 

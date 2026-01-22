@@ -43,7 +43,7 @@ Predicated describes that:
 (has_/name :: has_text_of_frequency )
 (has_/range :: Text )
 
-#has_/child_properties :: [ repeatFrequency ]  
+#has_/child_/property :: [ repeatFrequency ]  
 
 ## Confidential Links & Embeds: 
 

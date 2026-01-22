@@ -31,7 +31,7 @@ type: Predi_Relation
 
 # [[is_legislation_applied_to]] 
 
-#has_/child_properties :: [[is_legislation_transpose_of|is_legislation_transpose_of]]  
+#has_/child_/property :: [[is_legislation_transpose_of|is_legislation_transpose_of]]  
 #is_/part_of :: pending:  
 
 Use it like this: 

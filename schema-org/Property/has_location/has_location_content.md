@@ -42,7 +42,7 @@ Predicate describes that:
 (has_/name :: has_location_content )
 (has_/range :: Place )
 
-#has_/child_properties :: [ spatialCoverage ]  
+#has_/child_/property :: [ spatialCoverage ]  
 
 ## Confidential Links & Embeds: 
 

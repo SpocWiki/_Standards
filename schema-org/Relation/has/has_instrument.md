@@ -37,7 +37,7 @@ Relation describes that:
 (has_/name :: has_instrument )
 (has_/range :: Thing )
 
-#has_/child_properties :: [ deliveryMethod, diet, exercisePlan, exerciseRelatedDiet, language, query, recipe, supply, tool ]  
+#has_/child_/property :: [ deliveryMethod, diet, exercisePlan, exerciseRelatedDiet, language, query, recipe, supply, tool ]  
 
 ## Confidential Links & Embeds: 
 

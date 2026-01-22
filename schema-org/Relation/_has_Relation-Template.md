@@ -51,7 +51,7 @@ Relation describes that:
 
 #has_/parent_/property  :: {{subPropertyOf}}  
 
-#has_/child_properties :: [ {{subproperties}} ]  
+#has_/child_/property :: [ {{subproperties}} ]  
 
 ## Confidential Links & Embeds: 
 

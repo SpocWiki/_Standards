@@ -26,6 +26,8 @@ title: has_credential
 type: Predi_Relation
 ---
 
+# [[has_credential]] 
+
 #is_/part_of :: pending:  
 
 Use it like this: 
@@ -37,9 +39,8 @@ A credential awarded to the Person or Organization.
 Relation describes that: 
 
 #has_/domain  :: Organization, Person  
-
-(has_/name :: has_credential )
-(has_/range :: EducationalOccupationalCredential )
+(has_/name :: has_credential ) 
+(has_/range :: EducationalOccupationalCredential ) 
 
 
 ## Confidential Links & Embeds: 

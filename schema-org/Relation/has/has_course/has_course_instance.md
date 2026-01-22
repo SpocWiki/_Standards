@@ -27,25 +27,25 @@ tags:
 title: has_course_instance
 type: Predi_Relation
 dv_has_:
-  course_instance: "[[../../Class/is_a_/Event/Course_Instance|Course_Instance]]"
-  domain: "[[../../../Society/Communication/Media/Creative_Work/Course|Course]]"
+  course_instance: "[[../../../Class/is_a_/Event/Course_Instance|Course_Instance]]"
+  domain: "[[../../../../Society/Communication/Media/Creative_Work/Course|Course]]"
   name: "[[has_course_instance]]"
-  range: "[[../../Class/is_a_/Event/Course_Instance|Course_Instance]]"
-dv_has_course_instance: "[[../../Class/is_a_/Event/Course_Instance|Course_Instance]]"
+  range: "[[../../../Class/is_a_/Event/Course_Instance|Course_Instance]]"
+dv_has_course_instance: "[[../../../Class/is_a_/Event/Course_Instance|Course_Instance]]"
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_course_instance|has_course_instance]]"
+    - "[[has_course_instance|has_course_instance]]"
     - "[[/_public/schema-org/Relation/has/has_course_instance.public|has_course_instance.public]]"
     - "[[/_internal/schema-org/Relation/has/has_course_instance.internal|has_course_instance.internal]]"
     - "[[/_protect/schema-org/Relation/has/has_course_instance.protect|has_course_instance.protect]]"
     - "[[/_private/schema-org/Relation/has/has_course_instance.private|has_course_instance.private]]"
     - "[[/_personal/schema-org/Relation/has/has_course_instance.personal|has_course_instance.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_course_instance.secret|has_course_instance.secret]]"
-dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Course|Course]]"
+dv_has_domain: "[[../../../../Society/Communication/Media/Creative_Work/Course|Course]]"
 dv_has_name: "[[has_course_instance]]"
-dv_has_range: "[[../../Class/is_a_/Event/Course_Instance|Course_Instance]]"
+dv_has_range: "[[../../../Class/is_a_/Event/Course_Instance|Course_Instance]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_course_instance|has_course_instance]]"
+  - "[[has_course_instance|has_course_instance]]"
   - "[[/_public/schema-org/Relation/has/has_course_instance.public|has_course_instance.public]]"
   - "[[/_internal/schema-org/Relation/has/has_course_instance.internal|has_course_instance.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_course_instance.protect|has_course_instance.protect]]"
@@ -72,7 +72,7 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_course_instance|has_course_instance]] 
+### #is_/same_as :: [[has_course_instance|has_course_instance]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_course_instance.public|has_course_instance.public]] 
 

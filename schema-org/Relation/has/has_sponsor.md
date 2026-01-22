@@ -37,7 +37,7 @@ Relation describes that:
 (has_/name :: is_sponsor )
 (has_/range :: Organization, Person )
 
-#has_/child_properties :: [ funder ]  
+#has_/child_/property :: [ funder ]  
 
 ## Confidential Links & Embeds: 
 

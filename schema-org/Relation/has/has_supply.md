@@ -39,7 +39,7 @@ Relation describes that:
 
 #has_/parent_/property  :: instrument  
 
-#has_/child_properties :: [ ingredients, recipeIngredient ]  
+#has_/child_/property :: [ ingredients, recipeIngredient ]  
 
 ## Confidential Links & Embeds: 
 

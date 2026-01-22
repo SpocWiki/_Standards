@@ -36,8 +36,10 @@ Use it like this:
 - #has_/category :: CategoryCode, PhysicalActivityCategory, Text, Thing, URL  
 - [ has_category :: CategoryCode, PhysicalActivityCategory, Text, Thing, URL ] 
 
-A category for the item. Categories don't form a controlled Vocabulary; they are often strings. 
-Greater signs `>` or slashes `/` can be used to informally indicate a category hierarchy, similar to a [[../../../bio/Taxonomy|Taxonomy]].
+A category for the item. 
+Categories don't form a controlled Vocabulary; they are often strings. 
+Greater signs `>` or slashes `/` can be used to informally indicate a category hierarchy, 
+similar to a [[../../../bio/Taxonomy|Taxonomy]].
 Categories are less formal than [[../../Class|Class]]es, which are extensions to [[../../../Mathematics/Set_Theory/Set(Math)]]s based on strict Predicates. 
 Therefore Categories cannot be used for inference. 
 
@@ -51,7 +53,7 @@ Relation describes that:
 (has_/name :: has_category )
 (has_/range :: CategoryCode, PhysicalActivityCategory, Text, Thing, URL )
 
-#has_/child_properties :: [ accommodationCategory ]  
+#has_/child_/property :: [ accommodationCategory ]  
 
 ## Confidential Links & Embeds: 
 

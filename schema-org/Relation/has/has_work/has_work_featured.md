@@ -42,7 +42,7 @@ Relation describes that:
 (has_/name :: is_work_featured )
 (has_/range :: CreativeWork )
 
-#has_/child_properties :: [ workPerformed, workPresented ]  
+#has_/child_/property :: [ workPerformed, workPresented ]  
 
 ## Confidential Links & Embeds: 
 

@@ -55,6 +55,8 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_aggregate_rating.secret|has_aggregate_rating.secret]]"
 ---
 
+# [[has_aggregate_rating]] 
+
 Use it like this: 
 - #has_/aggregate_rating = `=this.dv_has_aggregate_rating`  
 - has_aggregate_rating = `=this.dv_has_aggregate_rating`  
@@ -64,7 +66,6 @@ The overall rating, based on a collection of reviews or ratings, of the item.
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

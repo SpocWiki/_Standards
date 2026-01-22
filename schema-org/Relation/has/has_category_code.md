@@ -3,6 +3,7 @@ aliases:
   - has-category-code
   - has_category_code
   - has category code
+  - hasCategoryCode
 confidential: public
 cssclasses:
   - Predicate

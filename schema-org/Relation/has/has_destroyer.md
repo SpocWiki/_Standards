@@ -24,7 +24,7 @@ title: has_destroyer
 type: Predi_Relation
 ---
 
-[[has_creator]] 
+[[has_parent/has_creator]] 
 
 #has_/complement 
 #has_/complement 
@@ -41,7 +41,7 @@ Relation describes that:
 (has_/name :: "[[has_destroyer]]" )
 (has_/range :: "[[../../../Society/Agent/Community/Organization|Organization]]", "[[../../../Society/Agent/Person|Person]]" )
 
-#has_/child_properties :: [ [[../is/is_legislation_passed_by|is_legislation_passed_by]] , [[has_founder]] ]  
+#has_/child_/property :: [ [[../is/is_legislation_passed_by|is_legislation_passed_by]] , [[has_founder]] ]  
 
 ## Confidential Links & Embeds: 
 

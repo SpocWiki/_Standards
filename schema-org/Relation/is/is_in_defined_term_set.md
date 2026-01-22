@@ -46,7 +46,7 @@ Relation describes that:
 
 #has_/parent_/property  :: [[../../Composite/is_part_of|is_part_of]] 
 
-#has_/child_properties :: [[is_in_code_set]] 
+#has_/child_/property :: [[is_in_code_set]] 
 
 ## Confidential Links & Embeds: 
 

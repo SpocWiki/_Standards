@@ -50,8 +50,10 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_agent.secret|has_agent.secret]]"
 ---
 
+# [[has_agent]] 
+
 Use it like this in an [[../../Class/is_a_/action|action]]: 
-- has_agent = `=this.dv_has_agent`  
+- #has_/agent = `=this.dv_has_agent`  
 - has_agent = `=this.dv_has_agent`  
 
 The direct performer or driver of an action (animate or inanimate). 
@@ -60,7 +62,6 @@ E.g. <em>John</em> wrote a book.
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` , [Person](../../../Society/Agent/Person.md) )
 

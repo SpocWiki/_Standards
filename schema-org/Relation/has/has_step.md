@@ -38,7 +38,7 @@ Relation describes that:
 (has_/name :: is_step )
 (has_/range :: CreativeWork, HowToSection, HowToStep, Text )
 
-#has_/child_properties :: [ recipeInstructions ]  
+#has_/child_/property :: [ recipeInstructions ]  
 
 ## Confidential Links & Embeds: 
 

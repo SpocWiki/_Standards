@@ -42,7 +42,7 @@ Predicate describes that:
 (has_/name :: has_number_of_position )
 (has_/range :: Integer, Text )
 
-#has_/child_properties :: [ clipNumber, episodeNumber, issueNumber, seasonNumber, volumeNumber ]  
+#has_/child_/property :: [ clipNumber, episodeNumber, issueNumber, seasonNumber, volumeNumber ]  
 
 ## Confidential Links & Embeds: 
 

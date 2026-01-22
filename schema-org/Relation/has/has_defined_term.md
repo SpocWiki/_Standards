@@ -29,6 +29,10 @@ title: has_defined_term
 type: Predi_Relation
 ---
 
+# [[has_defined_term]] 
+
+#has_/child_/property :: [[has_category_code|hasCategoryCode]]   
+
 A [[../../Class/is_a_/Intangible/Defined_Term|defined_term]] contained in this term set.
 
 #is_/part_of :: pending:  
@@ -39,12 +43,9 @@ Use it like this:
 
 Relation describes that: 
 
-#has_/domain  :: DefinedTermSet, Taxon  
-
+#has_/domain  :: "[[../../../Society/Communication/Media/Creative_Work/Defined_Term_Set|Defined_Term_Set]]", "[[../../../bio/Taxon_Rank/Taxon|Taxon]]"  
 (has_/name :: has_defined_term )
-(has_/range :: DefinedTerm )
-
-#has_/child_properties :: [ hasCategoryCode ]  
+(has_/range :: "[[DefinedTer]]" )
 
 ## Confidential Links & Embeds: 
 

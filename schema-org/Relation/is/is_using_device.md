@@ -30,17 +30,16 @@ type: Predi_Relation
 
 Use it like this: 
 - #is_/using_device :: MedicalDevice 
-- is_/using_device :: MedicalDevice 
+- is_using_device :: MedicalDevice 
 
 Relation describes that: 
 
-#has_/domain  :: MedicalTest 
-
+#has_/domain  :: "[[../../../bio/Medicine/Medical_Entity/Medical_Test|Medical_Test]]" 
 (has_/name :: is_using_device)
-(has_/range :: MedicalDevice)
+(has_/range :: "[[../../../bio/Medicine/Medical_Entity/Medical_Device|Medical_Device]]")
 
 #is_a_/use_action 
-( [[is_child_Relation_of]] :: [use_action](../../../Class/is_a_/action/consume_action/use_action.md) )
+( [[has_parent_relation]] :: [use_action](../../../Class/is_a_/action/consume_action/use_action.md) )
 
 
 ## Confidential Links & Embeds: 

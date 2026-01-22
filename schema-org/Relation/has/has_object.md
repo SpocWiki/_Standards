@@ -44,7 +44,7 @@ Relation describes that:
 (has_/range :: "[[../../Class/Thing|Thing]]" ) 
 
 (Links work only in read-mode)
-#has_/child_properties :: [[../../Texts/has_action_option.md|has_actionOption]] , [[has_candidate.md]] , [[../is/is_in_collection.md]], [[../is/is_followee_of|is_followee_of]], [[../../Property/Texts/has_action_option|has_action_option]] , [[has_question.md]], [[has_replacee]], [[has_replacer|has_replacer]] , [[has_target/has_target_collection|has_targetCollection]] 
+#has_/child_/property :: [[../../Texts/has_action_option.md|has_actionOption]] , [[has_candidate.md]] , [[../is/is_in_collection.md]], [[../is/is_followee_of|is_followee_of]], [[../../Property/Texts/has_action_option|has_action_option]] , [[has_question.md]], [[has_replacee]], [[has_replacer|has_replacer]] , [[has_target/has_target_collection|has_targetCollection]] 
 
 
 ## Confidential Links & Embeds: 

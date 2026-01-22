@@ -34,7 +34,7 @@ dv_has_:
 dv_has_differential_diagnosis: DDxElement
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_differential_diagnosis|has_differential_diagnosis]]"
+    - "[[has_differential_diagnosis|has_differential_diagnosis]]"
     - "[[/_public/schema-org/Relation/has/has_differential_diagnosis.public|has_differential_diagnosis.public]]"
     - "[[/_internal/schema-org/Relation/has/has_differential_diagnosis.internal|has_differential_diagnosis.internal]]"
     - "[[/_protect/schema-org/Relation/has/has_differential_diagnosis.protect|has_differential_diagnosis.protect]]"
@@ -45,7 +45,7 @@ dv_has_domain: MedicalCondition
 dv_has_name: has_differential_diagnosis
 dv_has_range: DDxElement
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_differential_diagnosis|has_differential_diagnosis]]"
+  - "[[has_differential_diagnosis|has_differential_diagnosis]]"
   - "[[/_public/schema-org/Relation/has/has_differential_diagnosis.public|has_differential_diagnosis.public]]"
   - "[[/_internal/schema-org/Relation/has/has_differential_diagnosis.internal|has_differential_diagnosis.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_differential_diagnosis.protect|has_differential_diagnosis.protect]]"
@@ -63,14 +63,13 @@ One of a set of differential diagnoses for the condition. Specifically, a closel
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_differential_diagnosis|has_differential_diagnosis]] 
+### #is_/same_as :: [[has_differential_diagnosis|has_differential_diagnosis]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_differential_diagnosis.public|has_differential_diagnosis.public]] 
 

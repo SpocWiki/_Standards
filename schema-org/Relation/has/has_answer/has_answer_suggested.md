@@ -41,7 +41,7 @@ Relation describes that:
 (has_/name :: has_answer_suggested )
 (has_/range :: [[../../../../Society/Communication/Media/Creative_Work/Comment/Answer|Answer]], [[../../../Collection/item_list|item_list]]  )
 
-#has_/child_properties :: [ acceptedAnswer ]  
+#has_/child_/property :: [ acceptedAnswer ]  
 
 ## Confidential Links & Embeds: 
 

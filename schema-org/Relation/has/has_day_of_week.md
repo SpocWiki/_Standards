@@ -64,7 +64,6 @@ The day of the week for which these opening hours are valid.
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

@@ -31,7 +31,7 @@ type: Predi_Relation
 
 #has_/inverse  :: [[is_subject_of]]  
 
-#has_/child_properties :: [[../has/has_main_entity|has_main_entity]] 
+#has_/child_/property :: [[../has/has_main_entity|has_main_entity]] 
 
 Use it like this: 
 - #has_/subject :: [[../../Class/Thing.md|Thing]]  
