@@ -68,13 +68,14 @@ Use it like this:
 
 Relation describes that: 
 
-
 has_domain = `=this.dv_has_domain` 
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 
-But typically there are many possible sub-sets. 
+But actually there are many possible sub-sets, in fact |P(X)| = 2^|X|
+including the **empty set** and the **set itself**.
 
+Via [[../../../../../Knowledge/Math/Math-Axioms/Diagonal-Argument|Diagonal-Argument]] you can show that 2^N > N, even for infinite N. 
 
 ## Confidential Links & Embeds: 
 
