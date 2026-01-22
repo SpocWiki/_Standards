@@ -63,7 +63,6 @@ Target Operating System / Product to which the code applies.  If applies to seve
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

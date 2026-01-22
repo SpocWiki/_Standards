@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- #has_/study_location = `=this.dv_has_study_location`  
+- #has_/study_/location = `=this.dv_has_study_location`  
 - has_study_location = `=this.dv_has_study_location`  
 
 The location in which the study is taking/took place.

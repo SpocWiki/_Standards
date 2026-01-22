@@ -54,6 +54,8 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_director.secret|has_director.secret]]"
 ---
 
+# [[has_director]] 
+
 Use it like this: 
 - #has_/director = `=this.dv_has_director`  
 - has_director = `=this.dv_has_director`  

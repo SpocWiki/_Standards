@@ -42,7 +42,7 @@ date_of_death: 1914-03-12T00:00:00Z
 
 # [[Westinghouse,George]] 
 
-#has_/employees :: [[Tesla,Nikola]] 
+#has_/employee :: [[Tesla,Nikola]] 
 #is_/same_as :: [[../../WikiData/WD~George_Westinghouse,262367|WD~George_Westinghouse,262367]] 
 
 ## #has_/text_of_/abstract 

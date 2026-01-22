@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- #has_/study_design = `=this.dv_has_study_design`  
+- #has_/study_/design = `=this.dv_has_study_design`  
 - has_study_design = `=this.dv_has_study_design`  
 
 Specifics about the observational study design (enumerated).
