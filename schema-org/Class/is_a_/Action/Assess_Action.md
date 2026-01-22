@@ -26,7 +26,6 @@ tags:
 title: is_an_assess_action Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Action]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Action/Assess_Action|Assess_Action]]"
     - "[[/_public/schema-org/Class/is_a_/Action/Assess_Action.public|Assess_Action.public]]"
@@ -36,7 +35,8 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Action/Assess_Action.personal|Assess_Action.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Action/Assess_Action.secret|Assess_Action.secret]]"
 dv_has_:
-  sub_classes: "[ ChooseAction, IgnoreAction, ReactAction, ReviewAction ]"
+  parent_class: "[[../Action]]"
+  child_class: "[ ChooseAction, IgnoreAction, ReactAction, ReviewAction ]"
   properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
 dv_has_parent_class: "[[../Action]]"
 dv_has_child_classes: "[ ChooseAction, IgnoreAction, ReactAction, ReviewAction ]"

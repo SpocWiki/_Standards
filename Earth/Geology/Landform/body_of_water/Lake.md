@@ -90,9 +90,8 @@ equivalent_class:
 exact_match: http://purl.obolibrary.org/obo/ENVO_00000020
 UMLS_CUI: C0337049
 Krugosvet_article_archived_: Earth_sciences/geografiya/OZERO.html
-dv_#is_:
-  sub_class_of: "[[../BodyOfWater]]"
-dv_#has_:
+dv_has_:
+  parent_class: "[[../BodyOfWater]]"
   properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
 dv_is_:
   same_as:

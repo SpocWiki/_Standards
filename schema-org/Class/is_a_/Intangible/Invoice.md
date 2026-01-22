@@ -24,7 +24,6 @@ tags:
 title: is_an_invoice Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Intangible]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Invoice|Invoice]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Invoice.public|Invoice.public]]"
@@ -34,6 +33,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Invoice.personal|Invoice.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Invoice.secret|Invoice.secret]]"
 dv_has_:
+  parent_class: "[[../Intangible]]"
   properties: "[ accountId, additionalType, alternateName, billingPeriod, broker, category, confirmationNumber, customer, description, disambiguatingDescription, identifier, image, mainEntityOfPage, minimumPaymentDue, name, paymentDue, paymentDueDate, paymentMethod, paymentMethodId, paymentStatus, potentialAction, provider, referencesOrder, sameAs, scheduledPaymentDate, subjectOf, totalPaymentDue, url ]"
 dv_has_parent_class: "[[../Intangible]]"
 dv_has_properties: "[ accountId, additionalType, alternateName, billingPeriod, broker, category, confirmationNumber, customer, description, disambiguatingDescription, identifier, image, mainEntityOfPage, minimumPaymentDue, name, paymentDue, paymentDueDate, paymentMethod, paymentMethodId, paymentStatus, potentialAction, provider, referencesOrder, sameAs, scheduledPaymentDate, subjectOf, totalPaymentDue, url ]"

@@ -1,7 +1,7 @@
 ---
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../Enumeration]]"
+  parent_class: "[[../Enumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration|Measurement_Type_Enumeration]]"
     - "[[/_public/schema-org/Enumeration/Measurement_Type_Enumeration.public|Measurement_Type_Enumeration.public]]"
@@ -11,7 +11,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Measurement_Type_Enumeration.personal|Measurement_Type_Enumeration.personal]]"
     - "[[/_secret/schema-org/Enumeration/Measurement_Type_Enumeration.secret|Measurement_Type_Enumeration.secret]]"
 dv_has_:
-  sub_classes: "[ BodyMeasurementTypeEnumeration, WearableMeasurementTypeEnumeration ]"
+  child_class: "[ BodyMeasurementTypeEnumeration, WearableMeasurementTypeEnumeration ]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../Enumeration]]"
 dv_has_child_classes: "[ BodyMeasurementTypeEnumeration, WearableMeasurementTypeEnumeration ]"

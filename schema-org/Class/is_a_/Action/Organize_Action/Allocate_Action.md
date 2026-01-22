@@ -26,7 +26,6 @@ tags:
 title: is_an_allocate_action Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../OrganizeAction]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action|Allocate_Action]]"
     - "[[/_public/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action.public|Allocate_Action.public]]"
@@ -36,7 +35,8 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action.personal|Allocate_Action.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action.secret|Allocate_Action.secret]]"
 dv_has_:
-  sub_classes: "[ AcceptAction, AssignAction, AuthorizeAction, RejectAction ]"
+  parent_class: "[[../OrganizeAction]]"
+  child_class: "[ AcceptAction, AssignAction, AuthorizeAction, RejectAction ]"
   properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
 dv_has_parent_class: "[[../OrganizeAction]]"
 dv_has_child_classes: "[ AcceptAction, AssignAction, AuthorizeAction, RejectAction ]"

@@ -28,7 +28,7 @@ title: is_a_body_measurement_neck Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../BodyMeasurementTypeEnumeration]]"
+  parent_class: "[[../BodyMeasurementTypeEnumeration]]"
   enum_of: "[[../BodyMeasurementTypeEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Neck|Body_Measurement_Neck]]"

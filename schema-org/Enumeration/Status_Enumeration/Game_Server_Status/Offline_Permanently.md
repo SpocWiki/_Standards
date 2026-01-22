@@ -26,8 +26,9 @@ tags:
   - schema-org/Class
 title: is_an_offline_permanently Class
 type: Type
+dv_has_:
+  parent_class: "[[../GameServerStatus]]"
 dv_is_:
-  sub_class_of: "[[../GameServerStatus]]"
   enum_of: "[[../GameServerStatus]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Offline_Permanently|Offline_Permanently]]"

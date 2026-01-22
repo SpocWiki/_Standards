@@ -26,7 +26,6 @@ tags:
 title: is_a_lodging_reservation Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Reservation]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Reservation/Lodging_Reservation|Lodging_Reservation]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Reservation/Lodging_Reservation.public|Lodging_Reservation.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Reservation/Lodging_Reservation.personal|Lodging_Reservation.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Reservation/Lodging_Reservation.secret|Lodging_Reservation.secret]]"
 dv_has_:
+  parent_class: "[[../Reservation]]"
   properties: "[ additionalType, alternateName, bookingAgent, bookingTime, broker, checkinTime, checkoutTime, description, disambiguatingDescription, identifier, image, lodgingUnitDescription, lodgingUnitType, mainEntityOfPage, modifiedTime, name, numAdults, numChildren, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, subjectOf, totalPrice, underName, url ]"
 dv_has_parent_class: "[[../Reservation]]"
 dv_has_properties: "[ additionalType, alternateName, bookingAgent, bookingTime, broker, checkinTime, checkoutTime, description, disambiguatingDescription, identifier, image, lodgingUnitDescription, lodgingUnitType, mainEntityOfPage, modifiedTime, name, numAdults, numChildren, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, subjectOf, totalPrice, underName, url ]"

@@ -28,7 +28,7 @@ title: is_a_parental_support Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../GovernmentBenefitsType]]"
+  parent_class: "[[../GovernmentBenefitsType]]"
   enum_of: "[[../GovernmentBenefitsType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Government_Benefits_Type/Parental_Support|Parental_Support]]"

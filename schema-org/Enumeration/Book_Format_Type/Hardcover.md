@@ -24,8 +24,9 @@ tags:
   - schema-org/Class
 title: is_a_hardcover Class
 type: Type
+dv_has_:
+  parent_class: "[[../BookFormatType]]"
 dv_is_:
-  sub_class_of: "[[../BookFormatType]]"
   enum_of: "[[../BookFormatType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Book_Format_Type/Hardcover|Hardcover]]"

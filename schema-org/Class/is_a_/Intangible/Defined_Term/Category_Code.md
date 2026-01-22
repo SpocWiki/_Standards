@@ -27,7 +27,7 @@ title: is_a_category_code Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../DefinedTerm]]"
+  parent_class: "[[../DefinedTerm]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code|Category_Code]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code.public|Category_Code.public]]"
@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code.personal|Category_Code.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code.secret|Category_Code.secret]]"
 dv_has_:
-  sub_classes: "[ MedicalCode ]"
+  child_class: "[ MedicalCode ]"
   properties: "[ additionalType, alternateName, codeValue, description, disambiguatingDescription, identifier, image, inCodeSet, inDefinedTermSet, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, termCode, url ]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../DefinedTerm]]"

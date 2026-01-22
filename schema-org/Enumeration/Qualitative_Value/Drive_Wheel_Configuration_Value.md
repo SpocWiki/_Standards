@@ -26,7 +26,6 @@ tags:
 title: is_a_drive_wheel_configuration_value Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../QualitativeValue]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value|Drive_Wheel_Configuration_Value]]"
     - "[[/_public/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value.public|Drive_Wheel_Configuration_Value.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value.personal|Drive_Wheel_Configuration_Value.personal]]"
     - "[[/_secret/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value.secret|Drive_Wheel_Configuration_Value.secret]]"
 dv_has_:
+  parent_class: "[[../QualitativeValue]]"
   properties: "[ additionalProperty, equal, greater, greaterOrEqual, lesser, lesserOrEqual, nonEqual, valueReference ]"
 dv_has_parent_class: "[[../QualitativeValue]]"
 dv_has_properties: "[ additionalProperty, equal, greater, greaterOrEqual, lesser, lesserOrEqual, nonEqual, valueReference ]"

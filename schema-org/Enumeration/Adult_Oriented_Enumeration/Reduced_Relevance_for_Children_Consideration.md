@@ -28,7 +28,7 @@ title: is_a_reduced_relevance_for_children_consideration Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../AdultOrientedEnumeration]]"
+  parent_class: "[[../AdultOrientedEnumeration]]"
   enum_of: "[[../AdultOrientedEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Adult_Oriented_Enumeration/Reduced_Relevance_for_Children_Consideration|Reduced_Relevance_for_Children_Consideration]]"

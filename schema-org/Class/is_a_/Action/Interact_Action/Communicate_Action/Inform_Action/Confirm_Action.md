@@ -26,7 +26,6 @@ tags:
 title: is_a_confirm_action Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../InformAction]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Inform_Action/Confirm_Action|Confirm_Action]]"
     - "[[/_public/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Inform_Action/Confirm_Action.public|Confirm_Action.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Inform_Action/Confirm_Action.personal|Confirm_Action.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Inform_Action/Confirm_Action.secret|Confirm_Action.secret]]"
 dv_has_:
+  parent_class: "[[../InformAction]]"
   properties: "[ about, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, event, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, url ]"
 dv_has_parent_class: "[[../InformAction]]"
 dv_has_properties: "[ about, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, event, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, url ]"

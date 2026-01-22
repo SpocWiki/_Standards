@@ -24,7 +24,6 @@ tags:
 title: is_a_trip Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Intangible]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Trip|Trip]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Trip.public|Trip.public]]"
@@ -34,7 +33,8 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Trip.personal|Trip.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Trip.secret|Trip.secret]]"
 dv_has_:
-  sub_classes: "[ BoatTrip, BusTrip, Flight, TouristTrip, TrainTrip ]"
+  parent_class: "[[../Intangible]]"
+  child_class: "[ BoatTrip, BusTrip, Flight, TouristTrip, TrainTrip ]"
   properties: "[ additionalType, alternateName, arrivalTime, departureTime, description, disambiguatingDescription, identifier, image, itinerary, mainEntityOfPage, name, offers, partOfTrip, potentialAction, provider, sameAs, subTrip, subjectOf, url ]"
 dv_has_parent_class: "[[../Intangible]]"
 dv_has_child_classes: "[ BoatTrip, BusTrip, Flight, TouristTrip, TrainTrip ]"

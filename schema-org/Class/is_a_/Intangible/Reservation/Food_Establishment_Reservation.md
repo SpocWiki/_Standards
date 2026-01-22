@@ -26,7 +26,6 @@ tags:
 title: is_a_food_establishment_reservation Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Reservation]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Reservation/Food_Establishment_Reservation|Food_Establishment_Reservation]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Reservation/Food_Establishment_Reservation.public|Food_Establishment_Reservation.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Reservation/Food_Establishment_Reservation.personal|Food_Establishment_Reservation.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Reservation/Food_Establishment_Reservation.secret|Food_Establishment_Reservation.secret]]"
 dv_has_:
+  parent_class: "[[../Reservation]]"
   properties: "[ additionalType, alternateName, bookingAgent, bookingTime, broker, description, disambiguatingDescription, endTime, identifier, image, mainEntityOfPage, modifiedTime, name, partySize, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, startTime, subjectOf, totalPrice, underName, url ]"
 dv_has_parent_class: "[[../Reservation]]"
 dv_has_properties: "[ additionalType, alternateName, bookingAgent, bookingTime, broker, description, disambiguatingDescription, endTime, identifier, image, mainEntityOfPage, modifiedTime, name, partySize, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, startTime, subjectOf, totalPrice, underName, url ]"

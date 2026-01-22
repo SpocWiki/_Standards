@@ -26,7 +26,6 @@ tags:
 title: is_a_speakable_specification Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Intangible]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Speakable_Specification|Speakable_Specification]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Speakable_Specification.public|Speakable_Specification.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Speakable_Specification.personal|Speakable_Specification.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Speakable_Specification.secret|Speakable_Specification.secret]]"
 dv_has_:
+  parent_class: "[[../Intangible]]"
   properties: "[ additionalType, alternateName, cssSelector, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url, xpath ]"
 dv_has_parent_class: "[[../Intangible]]"
 dv_has_properties: "[ additionalType, alternateName, cssSelector, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url, xpath ]"

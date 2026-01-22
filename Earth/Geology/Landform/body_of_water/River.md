@@ -114,9 +114,8 @@ used_by:
 U_S_National_Archives_Identifier: 10643808
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Bedrohtes%20%C3%96kosystem%20Fluss.webm
 Wolfram_Language_entity_type: River
-dv_#is_:
-  sub_class_of: "[[../BodyOfWater]]"
-dv_#has_:
+dv_has_:
+  parent_class: "[[../BodyOfWater]]"
   properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
 dv_is_:
   same_as:

@@ -26,8 +26,9 @@ tags:
   - schema-org/Class
 title: is_a_vegan_diet Class
 type: Type
+dv_has_:
+  parent_class: "[[../RestrictedDiet]]"
 dv_is_:
-  sub_class_of: "[[../RestrictedDiet]]"
   enum_of: "[[../RestrictedDiet]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Restricted_Diet/Vegan_Diet|Vegan_Diet]]"

@@ -24,8 +24,9 @@ tags:
   - schema-org/Class
 title: is_a_male Class
 type: Type
+dv_has_:
+  parent_class: "[[../GenderType]]"
 dv_is_:
-  sub_class_of: "[[../GenderType]]"
   enum_of: "[[../GenderType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Gender_Type/Male|Male]]"

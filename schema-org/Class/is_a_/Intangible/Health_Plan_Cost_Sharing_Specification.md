@@ -27,7 +27,7 @@ title: is_a_health_plan_cost_sharing_specification Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../Intangible]]"
+  parent_class: "[[../Intangible]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Health_Plan_Cost_Sharing_Specification|Health_Plan_Cost_Sharing_Specification]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Health_Plan_Cost_Sharing_Specification.public|Health_Plan_Cost_Sharing_Specification.public]]"

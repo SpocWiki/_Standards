@@ -27,7 +27,7 @@ title: is_an_event_series Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../Event, Series]]"
+  parent_class: "[[../Event, Series]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Event/Event_Series|Event_Series]]"
     - "[[/_public/schema-org/Class/is_a_/Event/Event_Series.public|Event_Series.public]]"

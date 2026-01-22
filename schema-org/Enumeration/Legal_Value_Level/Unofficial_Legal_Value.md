@@ -28,7 +28,7 @@ title: is_an_unofficial_legal_value Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../LegalValueLevel]]"
+  parent_class: "[[../LegalValueLevel]]"
   enum_of: "[[../LegalValueLevel]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Legal_Value_Level/Unofficial_Legal_Value|Unofficial_Legal_Value]]"

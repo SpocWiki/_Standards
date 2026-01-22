@@ -26,8 +26,9 @@ tags:
   - schema-org/Class
 title: is_a_refurbished_condition Class
 type: Type
+dv_has_:
+  parent_class: "[[../OfferItemCondition]]"
 dv_is_:
-  sub_class_of: "[[../OfferItemCondition]]"
   enum_of: "[[../OfferItemCondition]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Offer_Item_Condition/Refurbished_Condition|Refurbished_Condition]]"

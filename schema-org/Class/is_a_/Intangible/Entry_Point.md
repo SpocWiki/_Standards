@@ -26,7 +26,6 @@ tags:
 title: is_an_entry_point Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Intangible]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Entry_Point|Entry_Point]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Entry_Point.public|Entry_Point.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Entry_Point.personal|Entry_Point.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Entry_Point.secret|Entry_Point.secret]]"
 dv_has_:
+  parent_class: "[[../Intangible]]"
   properties: "[ actionApplication, actionPlatform, additionalType, alternateName, application, contentType, description, disambiguatingDescription, encodingType, httpMethod, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url, urlTemplate ]"
 dv_has_parent_class: "[[../Intangible]]"
 dv_has_properties: "[ actionApplication, actionPlatform, additionalType, alternateName, application, contentType, description, disambiguatingDescription, encodingType, httpMethod, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url, urlTemplate ]"

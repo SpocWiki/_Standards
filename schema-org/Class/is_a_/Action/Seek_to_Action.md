@@ -27,7 +27,7 @@ title: is_a_seek_to_action Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../Action]]"
+  parent_class: "[[../Action]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Action/Seek_to_Action|Seek_to_Action]]"
     - "[[/_public/schema-org/Class/is_a_/Action/Seek_to_Action.public|Seek_to_Action.public]]"

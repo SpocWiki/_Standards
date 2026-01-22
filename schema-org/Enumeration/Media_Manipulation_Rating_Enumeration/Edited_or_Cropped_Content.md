@@ -28,7 +28,7 @@ title: is_an_edited_or_cropped_content Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../Media_Manipulation_Rating_Enumeration]]"
+  parent_class: "[[../Media_Manipulation_Rating_Enumeration]]"
   enum_of: "[[../Media_Manipulation_Rating_Enumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Edited_or_Cropped_Content|Edited_or_Cropped_Content]]"

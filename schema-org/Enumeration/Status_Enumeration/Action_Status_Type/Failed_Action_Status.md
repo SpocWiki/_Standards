@@ -26,8 +26,9 @@ tags:
   - schema-org/Class
 title: is_a_failed_action_status Class
 type: Type
+dv_has_:
+  parent_class: "[[../ActionStatusType]]"
 dv_is_:
-  sub_class_of: "[[../ActionStatusType]]"
   enum_of: "[[../ActionStatusType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Action_Status_Type/Failed_Action_Status|Failed_Action_Status]]"

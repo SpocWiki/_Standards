@@ -24,7 +24,7 @@ tags:
 title: is_a_demand Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../../../../../schema-org/Class/is_a_/Intangible]]"
+  parent_class: "[[../../../../../schema-org/Class/is_a_/Intangible]]"
   same_as:
     - "[[Demand|Demand]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Demand.public|Demand.public]]"

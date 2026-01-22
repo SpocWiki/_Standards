@@ -1,5 +1,5 @@
 ---
-dv_#is_:
+dv_is_:
   member_:
     of:
       - "[[../EU(European_Union)|EU]]"
@@ -9,6 +9,14 @@ dv_#is_:
       - 1995-01-01T00:00:00.000+01:00
       - 1999-01-01T00:00:00.000+01:00
       - 2023-04-04T00:00:00.000+02:00
+  same_as:
+    - "[[/_Standards/Earth/Continent/Europe/Europe~North/Finland|Finland]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~North/Finland.public|Finland.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~North/Finland.internal|Finland.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~North/Finland.protect|Finland.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~North/Finland.private|Finland.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~North/Finland.personal|Finland.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~North/Finland.secret|Finland.secret]]"
 dv_has_:
   name_:
   url_for_:
@@ -75,15 +83,6 @@ dv_Alcohol-l: 12.5
 dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 25.4668
 dv_has_place_latitude: 62.3173
-dv_is_:
-  same_as:
-    - "[[/_Standards/Earth/Continent/Europe/Europe~North/Finland|Finland]]"
-    - "[[/_public/Earth/Continent/Europe/Europe~North/Finland.public|Finland.public]]"
-    - "[[/_internal/Earth/Continent/Europe/Europe~North/Finland.internal|Finland.internal]]"
-    - "[[/_protect/Earth/Continent/Europe/Europe~North/Finland.protect|Finland.protect]]"
-    - "[[/_private/Earth/Continent/Europe/Europe~North/Finland.private|Finland.private]]"
-    - "[[/_personal/Earth/Continent/Europe/Europe~North/Finland.personal|Finland.personal]]"
-    - "[[/_secret/Earth/Continent/Europe/Europe~North/Finland.secret|Finland.secret]]"
 dv_is_member_of:
   - "[[../EU(European_Union)|EU]]"
   - "[[Eurozone]]"

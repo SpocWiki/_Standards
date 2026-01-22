@@ -1,9 +1,9 @@
 ---
 aliases:
   - integer
-  - integer
   - Integer
   - is_an_integer
+  - Ganzzahl
 has_id_wikidata: Q12503
 confidential: public
 cssclasses:
@@ -44,7 +44,6 @@ equivalent_class: https://schema.org/Integer
 IEV_number: 102-02-02
 Commons_category: Integers
 dv_is_:
-  sub_class_of: "[[../Number]]"
   same_as:
     - "[[../../../../../WikiData/WD~Integer,12503|WD~Integer,12503]]"
     - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Number/Integer|Integer]]"
@@ -54,6 +53,8 @@ dv_is_:
     - "[[/_private/schema-org/Class/is_a_/Data_Type/Number/Integer.private|Integer.private]]"
     - "[[/_personal/schema-org/Class/is_a_/Data_Type/Number/Integer.personal|Integer.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Data_Type/Number/Integer.secret|Integer.secret]]"
+dv_has_:
+  parent_class: "[[../Number]]"
 dv_has_parent_class: "[[../Number]]"
 dv_is_same_as:
   - "[[../../../../../WikiData/WD~Integer,12503|WD~Integer,12503]]"

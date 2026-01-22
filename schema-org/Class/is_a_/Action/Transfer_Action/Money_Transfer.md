@@ -27,7 +27,7 @@ title: is_a_money_transfer Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../TransferAction]]"
+  parent_class: "[[../TransferAction]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Action/Transfer_Action/Money_Transfer|Money_Transfer]]"
     - "[[/_public/schema-org/Class/is_a_/Action/Transfer_Action/Money_Transfer.public|Money_Transfer.public]]"

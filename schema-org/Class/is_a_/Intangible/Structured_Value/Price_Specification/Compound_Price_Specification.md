@@ -26,7 +26,6 @@ tags:
 title: is_a_compound_price_specification Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../PriceSpecification]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Compound_Price_Specification|Compound_Price_Specification]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Compound_Price_Specification.public|Compound_Price_Specification.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Compound_Price_Specification.personal|Compound_Price_Specification.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Compound_Price_Specification.secret|Compound_Price_Specification.secret]]"
 dv_has_:
+  parent_class: "[[../PriceSpecification]]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, eligibleQuantity, eligibleTransactionVolume, identifier, image, mainEntityOfPage, maxPrice, minPrice, name, potentialAction, price, priceComponent, priceCurrency, priceType, sameAs, subjectOf, url, validFrom, validThrough, valueAddedTaxIncluded ]"
 dv_has_parent_class: "[[../PriceSpecification]]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, eligibleQuantity, eligibleTransactionVolume, identifier, image, mainEntityOfPage, maxPrice, minPrice, name, potentialAction, price, priceComponent, priceCurrency, priceType, sameAs, subjectOf, url, validFrom, validThrough, valueAddedTaxIncluded ]"

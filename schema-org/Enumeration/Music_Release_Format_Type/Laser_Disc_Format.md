@@ -26,8 +26,9 @@ tags:
   - schema-org/Class
 title: is_a_laser_disc_format Class
 type: Type
+dv_has_:
+  parent_class: "[[../MusicReleaseFormatType]]"
 dv_is_:
-  sub_class_of: "[[../MusicReleaseFormatType]]"
   enum_of: "[[../MusicReleaseFormatType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Music_Release_Format_Type/Laser_Disc_Format|Laser_Disc_Format]]"

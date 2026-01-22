@@ -27,7 +27,7 @@ title: is_a_boat_trip Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../Trip]]"
+  parent_class: "[[../Trip]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Trip/Boat_Trip|Boat_Trip]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Trip/Boat_Trip.public|Boat_Trip.public]]"

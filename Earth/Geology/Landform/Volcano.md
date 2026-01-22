@@ -25,7 +25,6 @@ tags:
 title: is_a_volcano Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Landform]]"
   same_as:
     - "[[../../../WikiData/WD~Volcano,8072|WD~Volcano,8072]]"
     - "[[/_Standards/Earth/Geology/Landform/Volcano|Volcano]]"
@@ -35,7 +34,8 @@ dv_is_:
     - "[[/_private/Earth/Geology/Landform/Volcano.private|Volcano.private]]"
     - "[[/_personal/Earth/Geology/Landform/Volcano.personal|Volcano.personal]]"
     - "[[/_secret/Earth/Geology/Landform/Volcano.secret|Volcano.secret]]"
-dv_#has_:
+dv_has_:
+  parent_class: "[[../Landform]]"
   properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
 dv_has_parent_class: "[[../Landform]]"
 dv_has_properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"

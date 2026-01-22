@@ -26,7 +26,6 @@ tags:
 title: is_a_price_specification Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../StructuredValue]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification|Price_Specification]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification.public|Price_Specification.public]]"
@@ -36,7 +35,8 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification.personal|Price_Specification.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification.secret|Price_Specification.secret]]"
 dv_has_:
-  sub_classes: "[ CompoundPriceSpecification, DeliveryChargeSpecification, PaymentChargeSpecification, UnitPriceSpecification ]"
+  parent_class: "[[../StructuredValue]]"
+  child_class: "[ CompoundPriceSpecification, DeliveryChargeSpecification, PaymentChargeSpecification, UnitPriceSpecification ]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, eligibleQuantity, eligibleTransactionVolume, identifier, image, mainEntityOfPage, maxPrice, minPrice, name, potentialAction, price, priceCurrency, sameAs, subjectOf, url, validFrom, validThrough, valueAddedTaxIncluded ]"
 dv_has_parent_class: "[[../StructuredValue]]"
 dv_has_child_classes: "[ CompoundPriceSpecification, DeliveryChargeSpecification, PaymentChargeSpecification, UnitPriceSpecification ]"

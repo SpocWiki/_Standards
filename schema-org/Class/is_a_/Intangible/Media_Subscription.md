@@ -26,7 +26,6 @@ tags:
 title: is_a_media_subscription Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Intangible]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Media_Subscription|Media_Subscription]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Media_Subscription.public|Media_Subscription.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Media_Subscription.personal|Media_Subscription.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Media_Subscription.secret|Media_Subscription.secret]]"
 dv_has_:
+  parent_class: "[[../Intangible]]"
   properties: "[ additionalType, alternateName, authenticator, description, disambiguatingDescription, expectsAcceptanceOf, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
 dv_has_parent_class: "[[../Intangible]]"
 dv_has_properties: "[ additionalType, alternateName, authenticator, description, disambiguatingDescription, expectsAcceptanceOf, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"

@@ -26,7 +26,6 @@ tags:
 title: is_a_flight_reservation Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Reservation]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Reservation/Flight_Reservation|Flight_Reservation]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Reservation/Flight_Reservation.public|Flight_Reservation.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Reservation/Flight_Reservation.personal|Flight_Reservation.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Reservation/Flight_Reservation.secret|Flight_Reservation.secret]]"
 dv_has_:
+  parent_class: "[[../Reservation]]"
   properties: "[ additionalType, alternateName, boardingGroup, bookingAgent, bookingTime, broker, description, disambiguatingDescription, identifier, image, mainEntityOfPage, modifiedTime, name, passengerPriorityStatus, passengerSequenceNumber, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, securityScreening, subjectOf, totalPrice, underName, url ]"
 dv_has_parent_class: "[[../Reservation]]"
 dv_has_properties: "[ additionalType, alternateName, boardingGroup, bookingAgent, bookingTime, broker, description, disambiguatingDescription, identifier, image, mainEntityOfPage, modifiedTime, name, passengerPriorityStatus, passengerSequenceNumber, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, securityScreening, subjectOf, totalPrice, underName, url ]"

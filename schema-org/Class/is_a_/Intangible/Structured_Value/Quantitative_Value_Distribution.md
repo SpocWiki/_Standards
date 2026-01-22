@@ -26,7 +26,6 @@ tags:
 title: is_a_quantitative_value_distribution Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../StructuredValue]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution|Quantitative_Value_Distribution]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution.public|Quantitative_Value_Distribution.public]]"
@@ -36,7 +35,8 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution.personal|Quantitative_Value_Distribution.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution.secret|Quantitative_Value_Distribution.secret]]"
 dv_has_:
-  sub_classes: "[ MonetaryAmountDistribution ]"
+  parent_class: "[[../StructuredValue]]"
+  child_class: "[ MonetaryAmountDistribution ]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, duration, identifier, image, mainEntityOfPage, median, name, percentile10, percentile25, percentile75, percentile90, potentialAction, sameAs, subjectOf, url ]"
 dv_has_parent_class: "[[../StructuredValue]]"
 dv_has_child_classes: "[ MonetaryAmountDistribution ]"

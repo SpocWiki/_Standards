@@ -26,7 +26,6 @@ tags:
 title: is_a_postal_address Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../ContactPoint]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address|Postal_Address]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address.public|Postal_Address.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address.personal|Postal_Address.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address.secret|Postal_Address.secret]]"
 dv_has_:
+  parent_class: "[[../ContactPoint]]"
   properties: "[ additionalType, addressCountry, addressLocality, addressRegion, alternateName, areaServed, availableLanguage, contactOption, contactType, description, disambiguatingDescription, email, faxNumber, hoursAvailable, identifier, image, mainEntityOfPage, name, postOfficeBoxNumber, postalCode, potentialAction, productSupported, sameAs, serviceArea, streetAddress, subjectOf, telephone, url ]"
 dv_has_parent_class: "[[../ContactPoint]]"
 dv_has_properties: "[ additionalType, addressCountry, addressLocality, addressRegion, alternateName, areaServed, availableLanguage, contactOption, contactType, description, disambiguatingDescription, email, faxNumber, hoursAvailable, identifier, image, mainEntityOfPage, name, postOfficeBoxNumber, postalCode, potentialAction, productSupported, sameAs, serviceArea, streetAddress, subjectOf, telephone, url ]"

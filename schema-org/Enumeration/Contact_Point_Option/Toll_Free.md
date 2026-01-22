@@ -26,8 +26,9 @@ tags:
   - schema-org/Class
 title: is_a_toll_free Class
 type: Type
+dv_has_:
+  parent_class: "[[../ContactPointOption]]"
 dv_is_:
-  sub_class_of: "[[../ContactPointOption]]"
   enum_of: "[[../ContactPointOption]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Contact_Point_Option/Toll_Free|Toll_Free]]"

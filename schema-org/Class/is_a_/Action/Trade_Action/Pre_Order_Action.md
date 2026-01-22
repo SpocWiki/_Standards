@@ -26,7 +26,6 @@ tags:
 title: is_a_pre_order_action Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../TradeAction]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Action/Trade_Action/Pre_Order_Action|Pre_Order_Action]]"
     - "[[/_public/schema-org/Class/is_a_/Action/Trade_Action/Pre_Order_Action.public|Pre_Order_Action.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Action/Trade_Action/Pre_Order_Action.personal|Pre_Order_Action.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Action/Trade_Action/Pre_Order_Action.secret|Pre_Order_Action.secret]]"
 dv_has_:
+  parent_class: "[[../TradeAction]]"
   properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, price, priceCurrency, priceSpecification, provider, result, sameAs, startTime, subjectOf, target, url ]"
 dv_has_parent_class: "[[../TradeAction]]"
 dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, price, priceCurrency, priceSpecification, provider, result, sameAs, startTime, subjectOf, target, url ]"

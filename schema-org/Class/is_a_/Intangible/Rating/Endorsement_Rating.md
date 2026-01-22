@@ -26,7 +26,6 @@ tags:
 title: is_an_endorsement_rating Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Rating]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Rating/Endorsement_Rating|Endorsement_Rating]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Rating/Endorsement_Rating.public|Endorsement_Rating.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Rating/Endorsement_Rating.personal|Endorsement_Rating.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Rating/Endorsement_Rating.secret|Endorsement_Rating.secret]]"
 dv_has_:
+  parent_class: "[[../Rating]]"
   properties: "[ additionalType, alternateName, author, bestRating, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, ratingExplanation, ratingValue, reviewAspect, sameAs, subjectOf, url, worstRating ]"
 dv_has_parent_class: "[[../Rating]]"
 dv_has_properties: "[ additionalType, alternateName, author, bestRating, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, ratingExplanation, ratingValue, reviewAspect, sameAs, subjectOf, url, worstRating ]"

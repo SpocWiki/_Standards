@@ -26,7 +26,6 @@ tags:
 title: is_a_train_trip Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Trip]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Trip/Train_Trip|Train_Trip]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.public|Train_Trip.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.personal|Train_Trip.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.secret|Train_Trip.secret]]"
 dv_has_:
+  parent_class: "[[../Trip]]"
   properties: "[ additionalType, alternateName, arrivalPlatform, arrivalStation, arrivalTime, departurePlatform, departureStation, departureTime, description, disambiguatingDescription, identifier, image, itinerary, mainEntityOfPage, name, offers, partOfTrip, potentialAction, provider, sameAs, subTrip, subjectOf, trainName, trainNumber, url ]"
 dv_has_parent_class: "[[../Trip]]"
 dv_has_properties: "[ additionalType, alternateName, arrivalPlatform, arrivalStation, arrivalTime, departurePlatform, departureStation, departureTime, description, disambiguatingDescription, identifier, image, itinerary, mainEntityOfPage, name, offers, partOfTrip, potentialAction, provider, sameAs, subTrip, subjectOf, trainName, trainNumber, url ]"

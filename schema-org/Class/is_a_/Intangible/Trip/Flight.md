@@ -24,7 +24,6 @@ tags:
 title: is_a_flight Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Trip]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Trip/Flight|Flight]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Trip/Flight.public|Flight.public]]"
@@ -34,6 +33,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Trip/Flight.personal|Flight.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Trip/Flight.secret|Flight.secret]]"
 dv_has_:
+  parent_class: "[[../Trip]]"
   properties: "[ additionalType, aircraft, alternateName, arrivalAirport, arrivalGate, arrivalTerminal, arrivalTime, boardingPolicy, carrier, departureAirport, departureGate, departureTerminal, departureTime, description, disambiguatingDescription, estimatedFlightDuration, flightDistance, flightNumber, identifier, image, itinerary, mainEntityOfPage, mealService, name, offers, partOfTrip, potentialAction, provider, sameAs, seller, subTrip, subjectOf, url, webCheckinTime ]"
 dv_has_parent_class: "[[../Trip]]"
 dv_has_properties: "[ additionalType, aircraft, alternateName, arrivalAirport, arrivalGate, arrivalTerminal, arrivalTime, boardingPolicy, carrier, departureAirport, departureGate, departureTerminal, departureTime, description, disambiguatingDescription, estimatedFlightDuration, flightDistance, flightNumber, identifier, image, itinerary, mainEntityOfPage, mealService, name, offers, partOfTrip, potentialAction, provider, sameAs, seller, subTrip, subjectOf, url, webCheckinTime ]"

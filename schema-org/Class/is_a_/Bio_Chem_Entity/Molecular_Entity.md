@@ -27,7 +27,7 @@ title: is_a_molecular_entity Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../Bio_Chem_Entity]]"
+  parent_class: "[[../Bio_Chem_Entity]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Bio_Chem_Entity/Molecular_Entity|Molecular_Entity]]"
     - "[[/_public/schema-org/Class/is_a_/Bio_Chem_Entity/Molecular_Entity.public|Molecular_Entity.public]]"

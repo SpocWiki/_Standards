@@ -25,8 +25,9 @@ tags:
   - schema-org/Class
 title: is_a_game_server_status Class
 type: Type
+dv_has_:
+  parent_class: "[[../StatusEnumeration]]"
 dv_is_:
-  sub_class_of: "[[../StatusEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Game_Server_Status|Game_Server_Status]]"
     - "[[/_public/schema-org/Enumeration/Status_Enumeration/Game_Server_Status.public|Game_Server_Status.public]]"

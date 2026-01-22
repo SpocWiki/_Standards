@@ -27,7 +27,7 @@ title: is_a_geospatial_geometry Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../Intangible]]"
+  parent_class: "[[../Intangible]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Geospatial_Geometry|Geospatial_Geometry]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Geospatial_Geometry.public|Geospatial_Geometry.public]]"

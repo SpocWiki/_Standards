@@ -26,7 +26,6 @@ tags:
 title: is_a_bookmark_action Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../OrganizeAction]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Action/Organize_Action/Bookmark_Action|Bookmark_Action]]"
     - "[[/_public/schema-org/Class/is_a_/Action/Organize_Action/Bookmark_Action.public|Bookmark_Action.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Action/Organize_Action/Bookmark_Action.personal|Bookmark_Action.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Action/Organize_Action/Bookmark_Action.secret|Bookmark_Action.secret]]"
 dv_has_:
+  parent_class: "[[../OrganizeAction]]"
   properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
 dv_has_parent_class: "[[../OrganizeAction]]"
 dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"

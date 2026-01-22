@@ -26,7 +26,6 @@ tags:
 title: is_an_order_action Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../TradeAction]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Action/Trade_Action/Order_Action|Order_Action]]"
     - "[[/_public/schema-org/Class/is_a_/Action/Trade_Action/Order_Action.public|Order_Action.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Action/Trade_Action/Order_Action.personal|Order_Action.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Action/Trade_Action/Order_Action.secret|Order_Action.secret]]"
 dv_has_:
+  parent_class: "[[../TradeAction]]"
   properties: "[ actionStatus, additionalType, agent, alternateName, deliveryMethod, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, price, priceCurrency, priceSpecification, provider, result, sameAs, startTime, subjectOf, target, url ]"
 dv_has_parent_class: "[[../TradeAction]]"
 dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, deliveryMethod, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, price, priceCurrency, priceSpecification, provider, result, sameAs, startTime, subjectOf, target, url ]"

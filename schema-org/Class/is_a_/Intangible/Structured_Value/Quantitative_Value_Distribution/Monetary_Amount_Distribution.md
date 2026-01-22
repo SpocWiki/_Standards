@@ -26,7 +26,6 @@ tags:
 title: is_a_monetary_amount_distribution Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../QuantitativeValueDistribution]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution|Monetary_Amount_Distribution]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution.public|Monetary_Amount_Distribution.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution.personal|Monetary_Amount_Distribution.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution.secret|Monetary_Amount_Distribution.secret]]"
 dv_has_:
+  parent_class: "[[../QuantitativeValueDistribution]]"
   properties: "[ additionalType, alternateName, currency, description, disambiguatingDescription, duration, identifier, image, mainEntityOfPage, median, name, percentile10, percentile25, percentile75, percentile90, potentialAction, sameAs, subjectOf, url ]"
 dv_has_parent_class: "[[../QuantitativeValueDistribution]]"
 dv_has_properties: "[ additionalType, alternateName, currency, description, disambiguatingDescription, duration, identifier, image, mainEntityOfPage, median, name, percentile10, percentile25, percentile75, percentile90, potentialAction, sameAs, subjectOf, url ]"

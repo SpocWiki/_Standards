@@ -27,7 +27,7 @@ title: is_a_government_benefits_type Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../Enumeration]]"
+  parent_class: "[[../Enumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Government_Benefits_Type|Government_Benefits_Type]]"
     - "[[/_public/schema-org/Enumeration/Government_Benefits_Type.public|Government_Benefits_Type.public]]"

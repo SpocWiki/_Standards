@@ -36,7 +36,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Action.secret|Action.secret]]"
 dv__has_parent_class: "[[../Thing|Thing]]"
 dv_has_:
-  sub_classes: "[ AchieveAction, AssessAction, ConsumeAction, ControlAction, CreateAction, FindAction, InteractAction, MoveAction, OrganizeAction, PlayAction, SearchAction, SeekToAction, SolveMathAction, TradeAction, TransferAction, UpdateAction ]"
+  child_class: "[ AchieveAction, AssessAction, ConsumeAction, ControlAction, CreateAction, FindAction, InteractAction, MoveAction, OrganizeAction, PlayAction, SearchAction, SeekToAction, SolveMathAction, TradeAction, TransferAction, UpdateAction ]"
   properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
 dv_is_similar_to: "[[Activity]]"
 dv_has_child_classes: "[ AchieveAction, AssessAction, ConsumeAction, ControlAction, CreateAction, FindAction, InteractAction, MoveAction, OrganizeAction, PlayAction, SearchAction, SeekToAction, SolveMathAction, TradeAction, TransferAction, UpdateAction ]"

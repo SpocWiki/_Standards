@@ -27,7 +27,6 @@ tags:
 title: is_an_interaction_counter Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../StructuredValue]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Interaction_Counter|Interaction_Counter]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Interaction_Counter.public|Interaction_Counter.public]]"
@@ -37,6 +36,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Interaction_Counter.personal|Interaction_Counter.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Interaction_Counter.secret|Interaction_Counter.secret]]"
 dv_has_:
+  parent_class: "[[../StructuredValue]]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, endTime, identifier, image, interactionService, interactionType, location, mainEntityOfPage, name, potentialAction, sameAs, startTime, subjectOf, url, userInteractionCount ]"
 dv_has_parent_class: "[[../StructuredValue]]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, endTime, identifier, image, interactionService, interactionType, location, mainEntityOfPage, name, potentialAction, sameAs, startTime, subjectOf, url, userInteractionCount ]"

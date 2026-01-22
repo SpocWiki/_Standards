@@ -26,7 +26,6 @@ tags:
 title: is_a_data_type Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../../Class|Class]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Data_Type|Data_Type]]"
     - "[[/_public/schema-org/Class/is_a_/Data_Type.public|Data_Type.public]]"
@@ -36,7 +35,8 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Data_Type.personal|Data_Type.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Data_Type.secret|Data_Type.secret]]"
 dv_has_:
-  sub_classes: "[ Boolean, Time, DateTime, Date, Text, Number ]"
+  parent_class: "[[../../Class|Class]]"
+  child_class: "[ Boolean, Time, DateTime, Date, Text, Number ]"
 dv_has_parent_class: "[[../../Class|Class]]"
 dv_has_child_classes: "[ Boolean, Time, DateTime, Date, Text, Number ]"
 dv_is_same_as:

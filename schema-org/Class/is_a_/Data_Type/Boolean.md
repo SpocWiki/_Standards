@@ -24,7 +24,7 @@ tags:
 title: is_a_boolean Class
 type: Type
 dv_has_:
-  sub_classes: "[ False, True ]"
+  child_class: "[ False, True ]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Boolean|Boolean]]"

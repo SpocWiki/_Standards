@@ -24,7 +24,6 @@ tags:
 title: is_a_researcher Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Audience]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Audience/Researcher|Researcher]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Audience/Researcher.public|Researcher.public]]"
@@ -34,6 +33,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Audience/Researcher.personal|Researcher.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Audience/Researcher.secret|Researcher.secret]]"
 dv_has_:
+  parent_class: "[[../Audience]]"
   properties: "[ additionalType, alternateName, audienceType, description, disambiguatingDescription, geographicArea, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
 dv_has_parent_class: "[[../Audience]]"
 dv_has_properties: "[ additionalType, alternateName, audienceType, description, disambiguatingDescription, geographicArea, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"

@@ -26,7 +26,6 @@ tags:
 title: is_a_structured_value Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Intangible]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value|Structured_Value]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value.public|Structured_Value.public]]"
@@ -36,7 +35,8 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value.personal|Structured_Value.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value.secret|Structured_Value.secret]]"
 dv_has_:
-  sub_classes: "[ CDCPMDRecord, ContactPoint, DatedMoneySpecification, DefinedRegion, DeliveryTimeSettings, EngineSpecification, ExchangeRateSpecification, GeoCoordinates, GeoShape, InteractionCounter, MonetaryAmount, NutritionInformation, OfferShippingDetails, OpeningHoursSpecification, OwnershipInfo, PostalCodeRangeSpecification, PriceSpecification, PropertyValue, QuantitativeValue, QuantitativeValueDistribution, RepaymentSpecification, ShippingDeliveryTime, ShippingRateSettings, TypeAndQuantityNode, WarrantyPromise ]"
+  parent_class: "[[../Intangible]]"
+  child_class: "[ CDCPMDRecord, ContactPoint, DatedMoneySpecification, DefinedRegion, DeliveryTimeSettings, EngineSpecification, ExchangeRateSpecification, GeoCoordinates, GeoShape, InteractionCounter, MonetaryAmount, NutritionInformation, OfferShippingDetails, OpeningHoursSpecification, OwnershipInfo, PostalCodeRangeSpecification, PriceSpecification, PropertyValue, QuantitativeValue, QuantitativeValueDistribution, RepaymentSpecification, ShippingDeliveryTime, ShippingRateSettings, TypeAndQuantityNode, WarrantyPromise ]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
 dv_has_parent_class: "[[../Intangible]]"
 dv_has_child_classes: "[ CDCPMDRecord, ContactPoint, DatedMoneySpecification, DefinedRegion, DeliveryTimeSettings, EngineSpecification, ExchangeRateSpecification, GeoCoordinates, GeoShape, InteractionCounter, MonetaryAmount, NutritionInformation, OfferShippingDetails, OpeningHoursSpecification, OwnershipInfo, PostalCodeRangeSpecification, PriceSpecification, PropertyValue, QuantitativeValue, QuantitativeValueDistribution, RepaymentSpecification, ShippingDeliveryTime, ShippingRateSettings, TypeAndQuantityNode, WarrantyPromise ]"

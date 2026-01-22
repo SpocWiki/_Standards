@@ -26,7 +26,6 @@ tags:
 title: is_a_qualitative_value Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Enumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Qualitative_Value|Qualitative_Value]]"
     - "[[/_public/schema-org/Enumeration/Qualitative_Value.public|Qualitative_Value.public]]"
@@ -36,7 +35,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Qualitative_Value.personal|Qualitative_Value.personal]]"
     - "[[/_secret/schema-org/Enumeration/Qualitative_Value.secret|Qualitative_Value.secret]]"
 dv_has_:
-  sub_classes: "[ BedType, DriveWheelConfigurationValue, SizeSpecification, SteeringPositionValue ]"
+  parent_class: "[[../Enumeration]]"
+  child_class: "[ BedType, DriveWheelConfigurationValue, SizeSpecification, SteeringPositionValue ]"
   properties: "[ additionalProperty, equal, greater, greaterOrEqual, lesser, lesserOrEqual, nonEqual, valueReference ]"
 dv_has_parent_class: "[[../Enumeration]]"
 dv_has_child_classes: "[ BedType, DriveWheelConfigurationValue, SizeSpecification, SteeringPositionValue ]"

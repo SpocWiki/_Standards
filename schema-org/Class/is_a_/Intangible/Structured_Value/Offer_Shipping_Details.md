@@ -27,7 +27,7 @@ title: is_an_offer_shipping_details Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../StructuredValue]]"
+  parent_class: "[[../StructuredValue]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Offer_Shipping_Details|Offer_Shipping_Details]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Offer_Shipping_Details.public|Offer_Shipping_Details.public]]"

@@ -27,7 +27,7 @@ title: is_an_adult_oriented_enumeration Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../Enumeration]]"
+  parent_class: "[[../Enumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Adult_Oriented_Enumeration|Adult_Oriented_Enumeration]]"
     - "[[/_public/schema-org/Enumeration/Adult_Oriented_Enumeration.public|Adult_Oriented_Enumeration.public]]"

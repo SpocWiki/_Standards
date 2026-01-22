@@ -26,7 +26,6 @@ tags:
 title: is_a_parcel_delivery Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Intangible]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Parcel_Delivery|Parcel_Delivery]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Parcel_Delivery.public|Parcel_Delivery.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Parcel_Delivery.personal|Parcel_Delivery.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Parcel_Delivery.secret|Parcel_Delivery.secret]]"
 dv_has_:
+  parent_class: "[[../Intangible]]"
   properties: "[ additionalType, alternateName, carrier, deliveryAddress, deliveryStatus, description, disambiguatingDescription, expectedArrivalFrom, expectedArrivalUntil, hasDeliveryMethod, identifier, image, itemShipped, mainEntityOfPage, name, originAddress, partOfOrder, potentialAction, provider, sameAs, subjectOf, trackingNumber, trackingUrl, url ]"
 dv_has_parent_class: "[[../Intangible]]"
 dv_has_properties: "[ additionalType, alternateName, carrier, deliveryAddress, deliveryStatus, description, disambiguatingDescription, expectedArrivalFrom, expectedArrivalUntil, hasDeliveryMethod, identifier, image, itemShipped, mainEntityOfPage, name, originAddress, partOfOrder, potentialAction, provider, sameAs, subjectOf, trackingNumber, trackingUrl, url ]"

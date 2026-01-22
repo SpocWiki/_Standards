@@ -59,9 +59,8 @@ topic_s_main_template:
   - "[[_Standards/WikiData/WD~Template_Infobox_continent,6075519]]"
   - "[[_Standards/WikiData/WD~Template_Continents_of_Earth,6263301]]"
 Wikidata_property: continent
-dv_#is_:
-  sub_class_of: "[[Geology/Landform]]"
-dv_#has_:
+dv_has_:
+  parent_class: "[[Geology/Landform]]"
   properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
 dv_is_:
   same_as:

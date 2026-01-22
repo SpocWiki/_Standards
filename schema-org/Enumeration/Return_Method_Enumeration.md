@@ -27,7 +27,7 @@ title: is_a_return_method_enumeration Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../Enumeration]]"
+  parent_class: "[[../Enumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Return_Method_Enumeration|Return_Method_Enumeration]]"
     - "[[/_public/schema-org/Enumeration/Return_Method_Enumeration.public|Return_Method_Enumeration.public]]"

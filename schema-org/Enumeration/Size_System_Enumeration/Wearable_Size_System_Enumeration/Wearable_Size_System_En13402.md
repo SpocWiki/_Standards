@@ -28,7 +28,7 @@ title: is_a_wearable_size_system_en13402 Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../WearableSizeSystemEnumeration]]"
+  parent_class: "[[../WearableSizeSystemEnumeration]]"
   enum_of: "[[../WearableSizeSystemEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_En13402|Wearable_Size_System_En13402]]"

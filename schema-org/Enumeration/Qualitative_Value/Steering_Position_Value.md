@@ -26,7 +26,6 @@ tags:
 title: is_a_steering_position_value Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../QualitativeValue]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value|Steering_Position_Value]]"
     - "[[/_public/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value.public|Steering_Position_Value.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value.personal|Steering_Position_Value.personal]]"
     - "[[/_secret/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value.secret|Steering_Position_Value.secret]]"
 dv_has_:
+  parent_class: "[[../QualitativeValue]]"
   properties: "[ additionalProperty, equal, greater, greaterOrEqual, lesser, lesserOrEqual, nonEqual, valueReference ]"
 dv_has_parent_class: "[[../QualitativeValue]]"
 dv_has_properties: "[ additionalProperty, equal, greater, greaterOrEqual, lesser, lesserOrEqual, nonEqual, valueReference ]"

@@ -26,7 +26,6 @@ tags:
 title: is_an_aggregate_rating Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Rating]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating|Aggregate_Rating]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating.public|Aggregate_Rating.public]]"
@@ -36,7 +35,8 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating.personal|Aggregate_Rating.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating.secret|Aggregate_Rating.secret]]"
 dv_has_:
-  sub_classes: "[ EmployerAggregateRating ]"
+  parent_class: "[[../Rating]]"
+  child_class: "[ EmployerAggregateRating ]"
   properties: "[ additionalType, alternateName, author, bestRating, description, disambiguatingDescription, identifier, image, itemReviewed, mainEntityOfPage, name, potentialAction, ratingCount, ratingExplanation, ratingValue, reviewAspect, reviewCount, sameAs, subjectOf, url, worstRating ]"
 dv_has_parent_class: "[[../Rating]]"
 dv_has_child_classes: "[ EmployerAggregateRating ]"

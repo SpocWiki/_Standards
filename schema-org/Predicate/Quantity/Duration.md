@@ -29,7 +29,6 @@ tags:
 title: Duration
 type: Predi_Duration
 dv_is_:
-  sub_class_of: "[[../Quantity]]"
   same_as:
     - "[[Duration|Duration]]"
     - "[[/_public/schema-org/Predicate/Quantity/Duration.public|Duration.public]]"
@@ -39,6 +38,7 @@ dv_is_:
     - "[[/_personal/schema-org/Predicate/Quantity/Duration.personal|Duration.personal]]"
     - "[[/_secret/schema-org/Predicate/Quantity/Duration.secret|Duration.secret]]"
 dv_has_:
+  parent_class: "[[../Quantity]]"
   properties:
 dv_has_parent_class: "[[../Quantity]]"
 dv_has_properties:

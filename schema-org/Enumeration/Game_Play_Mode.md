@@ -25,8 +25,9 @@ tags:
   - schema-org/Class
 title: is_a_game_play_mode Class
 type: Type
+dv_has_:
+  parent_class: "[[../Enumeration]]"
 dv_is_:
-  sub_class_of: "[[../Enumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Game_Play_Mode|Game_Play_Mode]]"
     - "[[/_public/schema-org/Enumeration/Game_Play_Mode.public|Game_Play_Mode.public]]"

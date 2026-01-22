@@ -26,7 +26,6 @@ tags:
 title: is_an_interact_action Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Action]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Action/Interact_Action|Interact_Action]]"
     - "[[/_public/schema-org/Class/is_a_/Action/Interact_Action.public|Interact_Action.public]]"
@@ -36,7 +35,8 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Action/Interact_Action.personal|Interact_Action.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Action/Interact_Action.secret|Interact_Action.secret]]"
 dv_has_:
-  sub_classes: "[ BefriendAction, CommunicateAction, FollowAction, JoinAction, LeaveAction, MarryAction, RegisterAction, SubscribeAction, UnRegisterAction ]"
+  parent_class: "[[../Action]]"
+  child_class: "[ BefriendAction, CommunicateAction, FollowAction, JoinAction, LeaveAction, MarryAction, RegisterAction, SubscribeAction, UnRegisterAction ]"
   properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
 dv_has_parent_class: "[[../Action]]"
 dv_has_child_classes: "[ BefriendAction, CommunicateAction, FollowAction, JoinAction, LeaveAction, MarryAction, RegisterAction, SubscribeAction, UnRegisterAction ]"

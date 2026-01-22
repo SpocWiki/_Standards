@@ -28,7 +28,7 @@ title: is_a_return_shipping_fees Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../ReturnFeesEnumeration]]"
+  parent_class: "[[../ReturnFeesEnumeration]]"
   enum_of: "[[../ReturnFeesEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Return_Fees_Enumeration/Return_Shipping_Fees|Return_Shipping_Fees]]"

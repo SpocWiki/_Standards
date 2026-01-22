@@ -26,8 +26,9 @@ tags:
   - schema-org/Class
 title: is_a_read_permission Class
 type: Type
+dv_has_:
+  parent_class: "[[../DigitalDocumentPermissionType]]"
 dv_is_:
-  sub_class_of: "[[../DigitalDocumentPermissionType]]"
   enum_of: "[[../DigitalDocumentPermissionType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Digital_Document_Permission_Type/Read_Permission|Read_Permission]]"

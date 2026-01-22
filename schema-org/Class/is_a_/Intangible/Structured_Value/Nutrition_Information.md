@@ -26,7 +26,6 @@ tags:
 title: is_a_nutrition_information Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../StructuredValue]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Nutrition_Information|Nutrition_Information]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Nutrition_Information.public|Nutrition_Information.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Nutrition_Information.personal|Nutrition_Information.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Nutrition_Information.secret|Nutrition_Information.secret]]"
 dv_has_:
+  parent_class: "[[../StructuredValue]]"
   properties: "[ additionalType, alternateName, calories, carbohydrateContent, cholesterolContent, description, disambiguatingDescription, fatContent, fiberContent, identifier, image, mainEntityOfPage, name, potentialAction, proteinContent, sameAs, saturatedFatContent, servingSize, sodiumContent, subjectOf, sugarContent, transFatContent, unsaturatedFatContent, url ]"
 dv_has_parent_class: "[[../StructuredValue]]"
 dv_has_properties: "[ additionalType, alternateName, calories, carbohydrateContent, cholesterolContent, description, disambiguatingDescription, fatContent, fiberContent, identifier, image, mainEntityOfPage, name, potentialAction, proteinContent, sameAs, saturatedFatContent, servingSize, sodiumContent, subjectOf, sugarContent, transFatContent, unsaturatedFatContent, url ]"

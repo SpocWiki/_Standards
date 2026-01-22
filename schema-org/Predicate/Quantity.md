@@ -49,9 +49,9 @@ dv_is_:
     - "[[/_private/schema-org/Predicate/Quantity.private|Quantity.private]]"
     - "[[/_personal/schema-org/Predicate/Quantity.personal|Quantity.personal]]"
     - "[[/_secret/schema-org/Predicate/Quantity.secret|Quantity.secret]]"
-  sub_class_of: "[[../Class/is_a_/Intangible]]"
+  parent_class: "[[../Class/is_a_/Intangible]]"
 dv_has_:
-  sub_classes: "[ Distance, Duration, Energy, Mass ]"
+  child_class: "[ Distance, Duration, Energy, Mass ]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
 dv_is_same_as:
   - "[[WD~Quantity,309314]]"

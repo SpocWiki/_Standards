@@ -27,7 +27,7 @@ title: is_a_media_manipulation_rating_enumeration Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../Enumeration]]"
+  parent_class: "[[../Enumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration|Media_Manipulation_Rating_Enumeration]]"
     - "[[/_public/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration.public|Media_Manipulation_Rating_Enumeration.public]]"

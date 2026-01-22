@@ -24,7 +24,6 @@ tags:
 title: is_a_reservation Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Intangible]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Reservation|Reservation]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Reservation.public|Reservation.public]]"
@@ -34,7 +33,8 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Reservation.personal|Reservation.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Reservation.secret|Reservation.secret]]"
 dv_has_:
-  sub_classes: "[ BoatReservation, BusReservation, EventReservation, FlightReservation, FoodEstablishmentReservation, LodgingReservation, RentalCarReservation, ReservationPackage, TaxiReservation, TrainReservation ]"
+  parent_class: "[[../Intangible]]"
+  child_class: "[ BoatReservation, BusReservation, EventReservation, FlightReservation, FoodEstablishmentReservation, LodgingReservation, RentalCarReservation, ReservationPackage, TaxiReservation, TrainReservation ]"
   properties: "[ additionalType, alternateName, bookingAgent, bookingTime, broker, description, disambiguatingDescription, identifier, image, mainEntityOfPage, modifiedTime, name, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, subjectOf, totalPrice, underName, url ]"
 dv_has_parent_class: "[[../Intangible]]"
 dv_has_child_classes: "[ BoatReservation, BusReservation, EventReservation, FlightReservation, FoodEstablishmentReservation, LodgingReservation, RentalCarReservation, ReservationPackage, TaxiReservation, TrainReservation ]"

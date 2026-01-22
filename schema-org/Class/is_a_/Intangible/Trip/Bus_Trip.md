@@ -26,7 +26,6 @@ tags:
 title: is_a_bus_trip Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Trip]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Trip/Bus_Trip|Bus_Trip]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Trip/Bus_Trip.public|Bus_Trip.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Trip/Bus_Trip.personal|Bus_Trip.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Trip/Bus_Trip.secret|Bus_Trip.secret]]"
 dv_has_:
+  parent_class: "[[../Trip]]"
   properties: "[ additionalType, alternateName, arrivalBusStop, arrivalTime, busName, busNumber, departureBusStop, departureTime, description, disambiguatingDescription, identifier, image, itinerary, mainEntityOfPage, name, offers, partOfTrip, potentialAction, provider, sameAs, subTrip, subjectOf, url ]"
 dv_has_parent_class: "[[../Trip]]"
 dv_has_properties: "[ additionalType, alternateName, arrivalBusStop, arrivalTime, busName, busNumber, departureBusStop, departureTime, description, disambiguatingDescription, identifier, image, itinerary, mainEntityOfPage, name, offers, partOfTrip, potentialAction, provider, sameAs, subTrip, subjectOf, url ]"

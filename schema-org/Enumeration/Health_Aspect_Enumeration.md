@@ -27,7 +27,7 @@ title: is_a_health_aspect_enumeration Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../Enumeration]]"
+  parent_class: "[[../Enumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Health_Aspect_Enumeration|Health_Aspect_Enumeration]]"
     - "[[/_public/schema-org/Enumeration/Health_Aspect_Enumeration.public|Health_Aspect_Enumeration.public]]"

@@ -27,7 +27,7 @@ title: is_a_shipping_delivery_time Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../StructuredValue]]"
+  parent_class: "[[../StructuredValue]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Delivery_Time|Shipping_Delivery_Time]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Delivery_Time.public|Shipping_Delivery_Time.public]]"

@@ -26,7 +26,6 @@ tags:
 title: is_a_job_posting Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Intangible]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Job_Posting|Job_Posting]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Job_Posting.public|Job_Posting.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Job_Posting.personal|Job_Posting.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Job_Posting.secret|Job_Posting.secret]]"
 dv_has_:
+  parent_class: "[[../Intangible]]"
   properties: "[ additionalType, alternateName, applicantLocationRequirements, applicationContact, baseSalary, benefits, datePosted, description, directApply, disambiguatingDescription, educationRequirements, eligibilityToWorkRequirement, employerOverview, employmentType, employmentUnit, estimatedSalary, experienceInPlaceOfEducation, experienceRequirements, hiringOrganization, identifier, image, incentiveCompensation, incentives, industry, jobBenefits, jobImmediateStart, jobLocation, jobLocationType, jobStartDate, mainEntityOfPage, name, occupationalCategory, physicalRequirement, potentialAction, qualifications, relevantOccupation, responsibilities, salaryCurrency, sameAs, securityClearanceRequirement, sensoryRequirement, skills, specialCommitments, subjectOf, title, totalJobOpenings, url, validThrough, workHours ]"
 dv_has_parent_class: "[[../Intangible]]"
 dv_has_properties: "[ additionalType, alternateName, applicantLocationRequirements, applicationContact, baseSalary, benefits, datePosted, description, directApply, disambiguatingDescription, educationRequirements, eligibilityToWorkRequirement, employerOverview, employmentType, employmentUnit, estimatedSalary, experienceInPlaceOfEducation, experienceRequirements, hiringOrganization, identifier, image, incentiveCompensation, incentives, industry, jobBenefits, jobImmediateStart, jobLocation, jobLocationType, jobStartDate, mainEntityOfPage, name, occupationalCategory, physicalRequirement, potentialAction, qualifications, relevantOccupation, responsibilities, salaryCurrency, sameAs, securityClearanceRequirement, sensoryRequirement, skills, specialCommitments, subjectOf, title, totalJobOpenings, url, validThrough, workHours ]"

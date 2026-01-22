@@ -26,7 +26,7 @@ tags:
 title: is_a_substance Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../MedicalEntity]]"
+  parent_class: "[[../MedicalEntity]]"
   same_as:
     - "[[../WikiData/WD~Matter,35758|WD~Matter,35758]]"
     - "[[/_Standards/Chemistry/Substance|Substance]]"
@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_personal/Chemistry/Substance.personal|Substance.personal]]"
     - "[[/_secret/Chemistry/Substance.secret|Substance.secret]]"
 dv_has_:
-  sub_classes: "[ DietarySupplement, Drug ]"
+  child_class: "[ DietarySupplement, Drug ]"
   properties: "[ activeIngredient, additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, maximumIntake, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ]"
 dv_has_parent_class: "[[../MedicalEntity]]"
 dv_has_child_classes: "[ DietarySupplement, Drug ]"

@@ -26,7 +26,6 @@ tags:
 title: is_a_business_audience Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Audience]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Audience/Business_Audience|Business_Audience]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Audience/Business_Audience.public|Business_Audience.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Audience/Business_Audience.personal|Business_Audience.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Audience/Business_Audience.secret|Business_Audience.secret]]"
 dv_has_:
+  parent_class: "[[../Audience]]"
   properties: "[ additionalType, alternateName, audienceType, description, disambiguatingDescription, geographicArea, identifier, image, mainEntityOfPage, name, numberOfEmployees, potentialAction, sameAs, subjectOf, url, yearlyRevenue, yearsInOperation ]"
 dv_has_parent_class: "[[../Audience]]"
 dv_has_properties: "[ additionalType, alternateName, audienceType, description, disambiguatingDescription, geographicArea, identifier, image, mainEntityOfPage, name, numberOfEmployees, potentialAction, sameAs, subjectOf, url, yearlyRevenue, yearsInOperation ]"

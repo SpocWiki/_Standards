@@ -27,7 +27,6 @@ tags:
 title: is_an_audience Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Intangible]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Audience|Audience]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Audience.public|Audience.public]]"
@@ -37,7 +36,8 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Audience.personal|Audience.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Audience.secret|Audience.secret]]"
 dv_has_:
-  sub_classes: "[ BusinessAudience, EducationalAudience, MedicalAudience, PeopleAudience, Researcher ]"
+  parent_class: "[[../Intangible]]"
+  child_class: "[ BusinessAudience, EducationalAudience, MedicalAudience, PeopleAudience, Researcher ]"
   properties: "[ additionalType, alternateName, audienceType, description, disambiguatingDescription, geographicArea, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
 dv_has_parent_class: "[[../Intangible]]"
 dv_has_child_classes: "[ BusinessAudience, EducationalAudience, MedicalAudience, PeopleAudience, Researcher ]"

@@ -26,7 +26,6 @@ tags:
 title: is_a_data_feed_item Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Intangible]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Data_Feed_Item|Data_Feed_Item]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Data_Feed_Item.public|Data_Feed_Item.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Data_Feed_Item.personal|Data_Feed_Item.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Data_Feed_Item.secret|Data_Feed_Item.secret]]"
 dv_has_:
+  parent_class: "[[../Intangible]]"
   properties: "[ additionalType, alternateName, dateCreated, dateDeleted, dateModified, description, disambiguatingDescription, identifier, image, item, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
 dv_has_parent_class: "[[../Intangible]]"
 dv_has_properties: "[ additionalType, alternateName, dateCreated, dateDeleted, dateModified, description, disambiguatingDescription, identifier, image, item, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"

@@ -67,9 +67,8 @@ dv_is_:
     - "[[/_private/Earth/Geology/Landform/body_of_water/reservoir.private|reservoir.private]]"
     - "[[/_personal/Earth/Geology/Landform/body_of_water/reservoir.personal|reservoir.personal]]"
     - "[[/_secret/Earth/Geology/Landform/body_of_water/reservoir.secret|reservoir.secret]]"
-dv_#is_:
-  sub_class_of: "[[../BodyOfWater]]"
-dv_#has_:
+dv_has_:
+  parent_class: "[[../BodyOfWater]]"
   properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
 dv_is_same_as:
   - "[[../../../../WikiData/WD~Reservoir,131681|WD~Reservoir,131681]]"

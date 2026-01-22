@@ -26,7 +26,6 @@ tags:
 title: is_a_medical_code Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../CategoryCode, MedicalIntangible]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code/Medical_Code|Medical_Code]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code/Medical_Code.public|Medical_Code.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code/Medical_Code.personal|Medical_Code.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code/Medical_Code.secret|Medical_Code.secret]]"
 dv_has_:
+  parent_class: "[[../CategoryCode, MedicalIntangible]]"
   properties: "[ additionalType, alternateName, code, codeValue, codingSystem, description, disambiguatingDescription, funding, guideline, identifier, image, inCodeSet, inDefinedTermSet, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, termCode, url ]"
 dv_has_parent_class: "[[../CategoryCode, MedicalIntangible]]"
 dv_has_properties: "[ additionalType, alternateName, code, codeValue, codingSystem, description, disambiguatingDescription, funding, guideline, identifier, image, inCodeSet, inDefinedTermSet, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, termCode, url ]"

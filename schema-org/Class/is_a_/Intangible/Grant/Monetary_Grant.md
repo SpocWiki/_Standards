@@ -27,7 +27,7 @@ title: is_a_monetary_grant Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../Grant]]"
+  parent_class: "[[../Grant]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Grant/Monetary_Grant|Monetary_Grant]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Grant/Monetary_Grant.public|Monetary_Grant.public]]"

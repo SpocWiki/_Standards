@@ -24,7 +24,6 @@ tags:
 title: is_an_occupation Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Intangible]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Occupation|Occupation]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Occupation.public|Occupation.public]]"
@@ -34,6 +33,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Occupation.personal|Occupation.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Occupation.secret|Occupation.secret]]"
 dv_has_:
+  parent_class: "[[../Intangible]]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, educationRequirements, estimatedSalary, experienceRequirements, identifier, image, mainEntityOfPage, name, occupationLocation, occupationalCategory, potentialAction, qualifications, responsibilities, sameAs, skills, subjectOf, url ]"
 dv_has_parent_class: "[[../Intangible]]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, educationRequirements, estimatedSalary, experienceRequirements, identifier, image, mainEntityOfPage, name, occupationLocation, occupationalCategory, potentialAction, qualifications, responsibilities, sameAs, skills, subjectOf, url ]"

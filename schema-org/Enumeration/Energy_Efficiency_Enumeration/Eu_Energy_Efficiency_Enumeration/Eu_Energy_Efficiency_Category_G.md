@@ -28,7 +28,7 @@ title: is_an_eu_energy_efficiency_category_g Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../EUEnergyEfficiencyEnumeration]]"
+  parent_class: "[[../EUEnergyEfficiencyEnumeration]]"
   enum_of: "[[../EUEnergyEfficiencyEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_G|Eu_Energy_Efficiency_Category_G]]"

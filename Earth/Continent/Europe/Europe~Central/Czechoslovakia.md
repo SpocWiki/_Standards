@@ -3,6 +3,7 @@ dv_has_:
   time_:
     started: 1918-10-28T00:00:00.000+01:00
     stopped: 1993-01-01T00:00:00.000+01:00
+    destroyed: 1993-01-01T00:00:00.000+01:00
 dv_is_:
   same_as:
     - "[[../../../../WikiData/WD~Czechoslovakia,33946|WD~Czechoslovakia,33946]]"
@@ -13,9 +14,6 @@ dv_is_:
     - "[[/_private/Earth/Continent/Europe/Europe~Central/Czechoslovakia.private|Czechoslovakia.private]]"
     - "[[/_personal/Earth/Continent/Europe/Europe~Central/Czechoslovakia.personal|Czechoslovakia.personal]]"
     - "[[/_secret/Earth/Continent/Europe/Europe~Central/Czechoslovakia.secret|Czechoslovakia.secret]]"
-dv_#has_:
-  time_:
-    destroyed: 1993-01-01T00:00:00.000+01:00
 dv_ISO2: CZ
 dv_has_name_en: Czechoslovakia
 dv_has_name_de: Tschechoslovakei

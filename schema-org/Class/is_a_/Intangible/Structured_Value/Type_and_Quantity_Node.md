@@ -26,7 +26,6 @@ tags:
 title: is_a_type_and_quantity_node Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../StructuredValue]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Type_and_Quantity_Node|Type_and_Quantity_Node]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Type_and_Quantity_Node.public|Type_and_Quantity_Node.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Type_and_Quantity_Node.personal|Type_and_Quantity_Node.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Type_and_Quantity_Node.secret|Type_and_Quantity_Node.secret]]"
 dv_has_:
+  parent_class: "[[../StructuredValue]]"
   properties: "[ additionalType, alternateName, amountOfThisGood, businessFunction, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, typeOfGood, unitCode, unitText, url ]"
 dv_has_parent_class: "[[../StructuredValue]]"
 dv_has_properties: "[ additionalType, alternateName, amountOfThisGood, businessFunction, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, typeOfGood, unitCode, unitText, url ]"

@@ -7,7 +7,7 @@ aliases:
   - has sub sets
   - has sub set
   - has subset
-  - skos:
+  - skos:broader
 confidential: public
 csssets: Predicate Relation
 draft: false

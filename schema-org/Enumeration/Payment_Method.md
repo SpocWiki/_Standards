@@ -26,7 +26,6 @@ tags:
 title: is_a_payment_method Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Enumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Payment_Method|Payment_Method]]"
     - "[[/_public/schema-org/Enumeration/Payment_Method.public|Payment_Method.public]]"
@@ -36,7 +35,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Payment_Method.personal|Payment_Method.personal]]"
     - "[[/_secret/schema-org/Enumeration/Payment_Method.secret|Payment_Method.secret]]"
 dv_has_:
-  sub_classes: "[ PaymentCard ]"
+  parent_class: "[[../Enumeration]]"
+  child_class: "[ PaymentCard ]"
 dv_has_parent_class: "[[../Enumeration]]"
 dv_has_child_classes: "[ PaymentCard ]"
 dv_is_same_as:

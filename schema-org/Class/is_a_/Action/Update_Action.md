@@ -26,7 +26,6 @@ tags:
 title: is_an_update_action Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Action]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Action/Update_Action|Update_Action]]"
     - "[[/_public/schema-org/Class/is_a_/Action/Update_Action.public|Update_Action.public]]"
@@ -36,7 +35,8 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Action/Update_Action.personal|Update_Action.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Action/Update_Action.secret|Update_Action.secret]]"
 dv_has_:
-  sub_classes: "[ AddAction, DeleteAction, ReplaceAction ]"
+  parent_class: "[[../Action]]"
+  child_class: "[ AddAction, DeleteAction, ReplaceAction ]"
   properties: "[ actionStatus, additionalType, agent, alternateName, collection, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, targetCollection, url ]"
 dv_has_parent_class: "[[../Action]]"
 dv_has_child_classes: "[ AddAction, DeleteAction, ReplaceAction ]"

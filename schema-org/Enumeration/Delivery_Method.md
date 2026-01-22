@@ -25,8 +25,9 @@ tags:
   - schema-org/Class
 title: is_a_delivery_method Class
 type: Type
+dv_has_:
+  parent_class: "[[../Enumeration]]"
 dv_is_:
-  sub_class_of: "[[../Enumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Delivery_Method|Delivery_Method]]"
     - "[[/_public/schema-org/Enumeration/Delivery_Method.public|Delivery_Method.public]]"

@@ -27,7 +27,7 @@ title: is_a_defined_region Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../StructuredValue]]"
+  parent_class: "[[../StructuredValue]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region|Defined_Region]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region.public|Defined_Region.public]]"

@@ -27,7 +27,7 @@ title: is_a_merchant_return_policy_seasonal_override Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../Intangible]]"
+  parent_class: "[[../Intangible]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy_Seasonal_Override|Merchant_Return_Policy_Seasonal_Override]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy_Seasonal_Override.public|Merchant_Return_Policy_Seasonal_Override.public]]"

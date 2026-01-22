@@ -26,7 +26,6 @@ tags:
 title: is_a_win_action Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../AchieveAction]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Action/Achieve_Action/Win_Action|Win_Action]]"
     - "[[/_public/schema-org/Class/is_a_/Action/Achieve_Action/Win_Action.public|Win_Action.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Action/Achieve_Action/Win_Action.personal|Win_Action.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Action/Achieve_Action/Win_Action.secret|Win_Action.secret]]"
 dv_has_:
+  parent_class: "[[../AchieveAction]]"
   properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, loser, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
 dv_has_parent_class: "[[../AchieveAction]]"
 dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, loser, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"

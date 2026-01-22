@@ -27,7 +27,7 @@ title: is_a_tourist_trip Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../Trip]]"
+  parent_class: "[[../Trip]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Trip/Tourist_Trip|Tourist_Trip]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Trip/Tourist_Trip.public|Tourist_Trip.public]]"

@@ -24,7 +24,6 @@ tags:
 title: is_a_seat Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Intangible]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Seat|Seat]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Seat.public|Seat.public]]"
@@ -34,6 +33,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Seat.personal|Seat.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Seat.secret|Seat.secret]]"
 dv_has_:
+  parent_class: "[[../Intangible]]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, seatNumber, seatRow, seatSection, seatingType, subjectOf, url ]"
 dv_has_parent_class: "[[../Intangible]]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, seatNumber, seatRow, seatSection, seatingType, subjectOf, url ]"

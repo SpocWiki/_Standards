@@ -26,7 +26,6 @@ tags:
 title: is_a_geo_shape Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../StructuredValue]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape|Geo_Shape]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape.public|Geo_Shape.public]]"
@@ -36,7 +35,8 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape.personal|Geo_Shape.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape.secret|Geo_Shape.secret]]"
 dv_has_:
-  sub_classes: "[ GeoCircle ]"
+  parent_class: "[[../StructuredValue]]"
+  child_class: "[ GeoCircle ]"
   properties: "[ additionalType, address, addressCountry, alternateName, box, circle, description, disambiguatingDescription, elevation, identifier, image, line, mainEntityOfPage, name, polygon, postalCode, potentialAction, sameAs, subjectOf, url ]"
 dv_has_parent_class: "[[../StructuredValue]]"
 dv_has_child_classes: "[ GeoCircle ]"

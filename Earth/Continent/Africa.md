@@ -11,7 +11,7 @@ dv_is_:
     - "[[/_secret/Earth/Continent/Africa.secret|Africa.secret]]"
 dv_has_name_en: Africa
 dv_has_name_de: Afrika
-dv_#has_:
+dv_has_:
   code: AF
 dv_is_same_as:
   - "[[../../WikiData/WD~Africa,15]]"

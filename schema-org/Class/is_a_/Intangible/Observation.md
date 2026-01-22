@@ -39,7 +39,7 @@ UMLS_CUI: C0302523
 MeSH_tree_code: E05.581.249
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../Intangible]]"
+  parent_class: "[[../Intangible]]"
   same_as:
     - "[[../../../../WikiData/WD~Observation,193181|WD~Observation,193181]]"
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Observation|Observation]]"

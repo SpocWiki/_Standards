@@ -25,7 +25,6 @@ tags:
 title: is_an_offer_catalog Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../ItemList]]"
   same_as:
     - "[[/_Standards/schema-org/Collection/item_list/offer_catalog|offer_catalog]]"
     - "[[/_public/schema-org/Collection/item_list/offer_catalog.public|offer_catalog.public]]"
@@ -35,6 +34,7 @@ dv_is_:
     - "[[/_personal/schema-org/Collection/item_list/offer_catalog.personal|offer_catalog.personal]]"
     - "[[/_secret/schema-org/Collection/item_list/offer_catalog.secret|offer_catalog.secret]]"
 dv_has_:
+  parent_class: "[[../ItemList]]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, itemListElement, itemListOrder, mainEntityOfPage, name, numberOfItems, potentialAction, sameAs, subjectOf, url ]"
 dv_has_parent_class: "[[../ItemList]]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, itemListElement, itemListOrder, mainEntityOfPage, name, numberOfItems, potentialAction, sameAs, subjectOf, url ]"

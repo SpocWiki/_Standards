@@ -148,7 +148,7 @@ dv_is_:
     - "[[/_secret/Earth/Continent/America~South.secret|America~South.secret]]"
 dv_has_name_en: South America
 dv_has_name_de: Südamerika
-dv_#has_:
+dv_has_:
   code: SA
 dv_is_same_as:
   - "[[../../WikiData/WD~South_America,18|WD~South_America,18]]"

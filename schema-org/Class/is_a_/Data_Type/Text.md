@@ -35,7 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Data_Type/Text.personal|Text.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Data_Type/Text.secret|Text.secret]]"
 dv_has_:
-  sub_classes: "[ CssSelectorType, PronounceableText, URL, XPathType ]"
+  child_class: "[ CssSelectorType, PronounceableText, URL, XPathType ]"
 dv_is_similar_to: "[[../../../../../IT/Data/Data~Text/JSON(JavaScript_Object_Notation)/Type~primitive/Type~String]]"
 dv_has_child_classes: "[ CssSelectorType, PronounceableText, URL, XPathType ]"
 dv_is_same_as:

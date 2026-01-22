@@ -27,7 +27,7 @@ title: is_a_size_specification Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../QualitativeValue]]"
+  parent_class: "[[../QualitativeValue]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Qualitative_Value/Size_Specification|Size_Specification]]"
     - "[[/_public/schema-org/Enumeration/Qualitative_Value/Size_Specification.public|Size_Specification.public]]"

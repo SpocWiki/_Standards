@@ -24,8 +24,9 @@ tags:
   - class/data_type
 title: is_a_url Class
 type: Type
+dv_has_:
+  parent_class: "[[../Text]]"
 dv_is_:
-  sub_class_of: "[[../Text]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Text/Url|Url]]"
     - "[[/_public/schema-org/Class/is_a_/Data_Type/Text/Url.public|Url.public]]"

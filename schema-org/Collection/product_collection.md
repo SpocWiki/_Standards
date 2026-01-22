@@ -26,7 +26,7 @@ title: is_a_product_collection Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../Collection, Product]]"
+  parent_class: "[[../Collection, Product]]"
   same_as:
     - "[[/_Standards/schema-org/Collection/product_collection|product_collection]]"
     - "[[/_public/schema-org/Collection/product_collection.public|product_collection.public]]"

@@ -37,7 +37,7 @@ dv_has_:
     - "[[Place/Tourist_Destination|Tourist_Destination]]"
   properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
 dv_is_:
-  sub_class_of: "[[../../schema-org/Class/Thing|Thing]]"
+  parent_class: "[[../../schema-org/Class/Thing|Thing]]"
   same_as:
     - "[[/_Standards/Earth/Geography/Place|Place]]"
     - "[[/_public/Earth/Geography/Place.public|Place.public]]"

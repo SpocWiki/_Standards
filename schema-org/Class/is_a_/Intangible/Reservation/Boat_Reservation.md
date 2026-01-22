@@ -27,7 +27,7 @@ title: is_a_boat_reservation Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../Reservation]]"
+  parent_class: "[[../Reservation]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Reservation/Boat_Reservation|Boat_Reservation]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Reservation/Boat_Reservation.public|Boat_Reservation.public]]"

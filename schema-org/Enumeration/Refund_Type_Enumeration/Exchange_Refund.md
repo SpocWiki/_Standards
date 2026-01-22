@@ -28,7 +28,7 @@ title: is_an_exchange_refund Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../RefundTypeEnumeration]]"
+  parent_class: "[[../RefundTypeEnumeration]]"
   enum_of: "[[../RefundTypeEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Refund_Type_Enumeration/Exchange_Refund|Exchange_Refund]]"

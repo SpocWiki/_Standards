@@ -26,7 +26,6 @@ tags:
 title: is_a_contact_point Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../StructuredValue]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point|Contact_Point]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point.public|Contact_Point.public]]"
@@ -36,7 +35,8 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point.personal|Contact_Point.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point.secret|Contact_Point.secret]]"
 dv_has_:
-  sub_classes: "[ PostalAddress ]"
+  parent_class: "[[../StructuredValue]]"
+  child_class: "[ PostalAddress ]"
   properties: "[ additionalType, alternateName, areaServed, availableLanguage, contactOption, contactType, description, disambiguatingDescription, email, faxNumber, hoursAvailable, identifier, image, mainEntityOfPage, name, potentialAction, productSupported, sameAs, serviceArea, subjectOf, telephone, url ]"
 dv_has_parent_class: "[[../StructuredValue]]"
 dv_has_child_classes: "[ PostalAddress ]"

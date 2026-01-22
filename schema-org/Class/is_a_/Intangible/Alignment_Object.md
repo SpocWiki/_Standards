@@ -26,7 +26,6 @@ tags:
 title: is_an_alignment_object Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Intangible]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Alignment_Object|Alignment_Object]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Alignment_Object.public|Alignment_Object.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Alignment_Object.personal|Alignment_Object.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Alignment_Object.secret|Alignment_Object.secret]]"
 dv_has_:
+  parent_class: "[[../Intangible]]"
   properties: "[ additionalType, alignmentType, alternateName, description, disambiguatingDescription, educationalFramework, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, targetDescription, targetName, targetUrl, url ]"
 dv_has_parent_class: "[[../Intangible]]"
 dv_has_properties: "[ additionalType, alignmentType, alternateName, description, disambiguatingDescription, educationalFramework, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, targetDescription, targetName, targetUrl, url ]"

@@ -26,8 +26,9 @@ tags:
   - schema-org/Class
 title: is_a_seating_map Class
 type: Type
+dv_has_:
+  parent_class: "[[../MapCategoryType]]"
 dv_is_:
-  sub_class_of: "[[../MapCategoryType]]"
   enum_of: "[[../MapCategoryType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Map_Category_Type/Seating_Map|Seating_Map]]"

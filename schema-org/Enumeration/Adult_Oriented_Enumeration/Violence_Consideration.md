@@ -28,7 +28,7 @@ title: is_a_violence_consideration Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../AdultOrientedEnumeration]]"
+  parent_class: "[[../AdultOrientedEnumeration]]"
   enum_of: "[[../AdultOrientedEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Adult_Oriented_Enumeration/Violence_Consideration|Violence_Consideration]]"

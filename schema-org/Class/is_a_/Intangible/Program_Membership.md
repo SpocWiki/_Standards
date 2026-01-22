@@ -26,7 +26,6 @@ tags:
 title: is_a_program_membership Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Intangible]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Program_Membership|Program_Membership]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Program_Membership.public|Program_Membership.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Program_Membership.personal|Program_Membership.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Program_Membership.secret|Program_Membership.secret]]"
 dv_has_:
+  parent_class: "[[../Intangible]]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, hostingOrganization, identifier, image, mainEntityOfPage, member, members, membershipNumber, membershipPointsEarned, name, potentialAction, programName, sameAs, subjectOf, url ]"
 dv_has_parent_class: "[[../Intangible]]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, hostingOrganization, identifier, image, mainEntityOfPage, member, members, membershipNumber, membershipPointsEarned, name, potentialAction, programName, sameAs, subjectOf, url ]"

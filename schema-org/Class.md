@@ -27,7 +27,7 @@ type: Type
 dv_is_a_: "[[Class]]"
 dv_is_:
   part_of: https://meta.schema.org
-  sub_class_of: "[[Class/is_a_/Intangible|Intangible]]"
+  parent_class: "[[Class/is_a_/Intangible|Intangible]]"
   same_as:
     - "[[/_Standards/schema-org/Class|Class]]"
     - "[[/_public/schema-org/Class.public|Class.public]]"

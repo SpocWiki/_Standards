@@ -27,7 +27,7 @@ title: is_a_game_availability_enumeration Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../Enumeration]]"
+  parent_class: "[[../Enumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Game_Availability_Enumeration|Game_Availability_Enumeration]]"
     - "[[/_public/schema-org/Enumeration/Game_Availability_Enumeration.public|Game_Availability_Enumeration.public]]"

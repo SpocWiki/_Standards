@@ -26,7 +26,6 @@ tags:
 title: is_a_search_action Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Action]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Action/Search_Action|Search_Action]]"
     - "[[/_public/schema-org/Class/is_a_/Action/Search_Action.public|Search_Action.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Action/Search_Action.personal|Search_Action.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Action/Search_Action.secret|Search_Action.secret]]"
 dv_has_:
+  parent_class: "[[../Action]]"
   properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, query, result, sameAs, startTime, subjectOf, target, url ]"
 dv_has_parent_class: "[[../Action]]"
 dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, query, result, sameAs, startTime, subjectOf, target, url ]"

@@ -25,7 +25,6 @@ tags:
 title: is_a_how_to_tool Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../HowToItem]]"
   same_as:
     - "[[/_Standards/schema-org/Collection/list_item/how_to_item/how_to_tool|how_to_tool]]"
     - "[[/_public/schema-org/Collection/list_item/how_to_item/how_to_tool.public|how_to_tool.public]]"
@@ -35,6 +34,7 @@ dv_is_:
     - "[[/_personal/schema-org/Collection/list_item/how_to_item/how_to_tool.personal|how_to_tool.personal]]"
     - "[[/_secret/schema-org/Collection/list_item/how_to_item/how_to_tool.secret|how_to_tool.secret]]"
 dv_has_:
+  parent_class: "[[../HowToItem]]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, item, mainEntityOfPage, name, nextItem, position, potentialAction, previousItem, requiredQuantity, sameAs, subjectOf, url ]"
 dv_has_parent_class: "[[../HowToItem]]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, item, mainEntityOfPage, name, nextItem, position, potentialAction, previousItem, requiredQuantity, sameAs, subjectOf, url ]"

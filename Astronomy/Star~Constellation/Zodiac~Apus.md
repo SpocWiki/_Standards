@@ -40,7 +40,7 @@ Commons_gallery: Apus (constellation)
 Commons_category: Apus (constellation)
 official_name: Apus
 dv_SpocWebEntityId: 28085
-dv_#has_:
+dv_has_:
   name_:
     la: Apus
     la_:
@@ -68,12 +68,6 @@ dv_is_same_as:
   - "[[/_private/Astronomy/Star~Constellation/Zodiac~Apus.private|Zodiac~Apus.private]]"
   - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Apus.personal|Zodiac~Apus.personal]]"
   - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Apus.secret|Zodiac~Apus.secret]]"
-dv_dv_has_:
-  name_:
-    la: Apus
-    la_:
-      genitive: Apodis
-    de: Paradiesvogel
 ---
 
 # [[Zodiac~Apus]] 

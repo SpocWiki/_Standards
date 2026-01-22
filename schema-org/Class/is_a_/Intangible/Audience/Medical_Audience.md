@@ -26,7 +26,6 @@ tags:
 title: is_a_medical_audience Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Audience, PeopleAudience]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Audience/Medical_Audience|Medical_Audience]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Audience/Medical_Audience.public|Medical_Audience.public]]"
@@ -36,7 +35,8 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Audience/Medical_Audience.personal|Medical_Audience.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Audience/Medical_Audience.secret|Medical_Audience.secret]]"
 dv_has_:
-  sub_classes: "[ Patient ]"
+  parent_class: "[[../Audience, PeopleAudience]]"
+  child_class: "[ Patient ]"
   properties: "[ additionalType, alternateName, audienceType, description, disambiguatingDescription, geographicArea, healthCondition, identifier, image, mainEntityOfPage, name, potentialAction, requiredGender, requiredMaxAge, requiredMinAge, sameAs, subjectOf, suggestedAge, suggestedGender, suggestedMaxAge, suggestedMeasurement, suggestedMinAge, url ]"
 dv_has_parent_class: "[[../Audience, PeopleAudience]]"
 dv_has_child_classes: "[ Patient ]"

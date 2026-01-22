@@ -27,7 +27,7 @@ title: is_a_postal_code_range_specification Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../StructuredValue]]"
+  parent_class: "[[../StructuredValue]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Postal_Code_Range_Specification|Postal_Code_Range_Specification]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Postal_Code_Range_Specification.public|Postal_Code_Range_Specification.public]]"

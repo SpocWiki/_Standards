@@ -25,8 +25,9 @@ tags:
   - schema-org/Class
 title: is_a_business_entity_type Class
 type: Type
+dv_has_:
+  parent_class: "[[../Enumeration]]"
 dv_is_:
-  sub_class_of: "[[../Enumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Business_Entity_Type|Business_Entity_Type]]"
     - "[[/_public/schema-org/Enumeration/Business_Entity_Type.public|Business_Entity_Type.public]]"

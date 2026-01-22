@@ -26,7 +26,6 @@ tags:
 title: is_a_game_server Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Intangible]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Game_Server|Game_Server]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Game_Server.public|Game_Server.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Game_Server.personal|Game_Server.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Game_Server.secret|Game_Server.secret]]"
 dv_has_:
+  parent_class: "[[../Intangible]]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, game, identifier, image, mainEntityOfPage, name, playersOnline, potentialAction, sameAs, serverStatus, subjectOf, url ]"
 dv_has_parent_class: "[[../Intangible]]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, game, identifier, image, mainEntityOfPage, name, playersOnline, potentialAction, sameAs, serverStatus, subjectOf, url ]"

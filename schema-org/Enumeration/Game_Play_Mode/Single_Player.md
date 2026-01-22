@@ -26,8 +26,9 @@ tags:
   - schema-org/Class
 title: is_a_single_player Class
 type: Type
+dv_has_:
+  parent_class: "[[../GamePlayMode]]"
 dv_is_:
-  sub_class_of: "[[../GamePlayMode]]"
   enum_of: "[[../GamePlayMode]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Game_Play_Mode/Single_Player|Single_Player]]"

@@ -27,7 +27,6 @@ tags:
 title: is_a_monetary_amount Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../StructuredValue]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Monetary_Amount|Monetary_Amount]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Monetary_Amount.public|Monetary_Amount.public]]"
@@ -37,6 +36,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Monetary_Amount.personal|Monetary_Amount.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Monetary_Amount.secret|Monetary_Amount.secret]]"
 dv_has_:
+  parent_class: "[[../StructuredValue]]"
   properties: "[ additionalType, alternateName, currency, description, disambiguatingDescription, identifier, image, mainEntityOfPage, maxValue, minValue, name, potentialAction, sameAs, subjectOf, url, validFrom, validThrough, value ]"
 dv_has_parent_class: "[[../StructuredValue]]"
 dv_has_properties: "[ additionalType, alternateName, currency, description, disambiguatingDescription, identifier, image, mainEntityOfPage, maxValue, minValue, name, potentialAction, sameAs, subjectOf, url, validFrom, validThrough, value ]"

@@ -28,7 +28,7 @@ title: is_a_uk_trust Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../UKNonprofitType]]"
+  parent_class: "[[../UKNonprofitType]]"
   enum_of: "[[../UKNonprofitType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Uk_Trust|Uk_Trust]]"

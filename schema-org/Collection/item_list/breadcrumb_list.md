@@ -25,7 +25,6 @@ tags:
 title: is_a_breadcrumb_list Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../ItemList]]"
   same_as:
     - "[[/_Standards/schema-org/Collection/item_list/breadcrumb_list|breadcrumb_list]]"
     - "[[/_public/schema-org/Collection/item_list/breadcrumb_list.public|breadcrumb_list.public]]"
@@ -35,6 +34,7 @@ dv_is_:
     - "[[/_personal/schema-org/Collection/item_list/breadcrumb_list.personal|breadcrumb_list.personal]]"
     - "[[/_secret/schema-org/Collection/item_list/breadcrumb_list.secret|breadcrumb_list.secret]]"
 dv_has_:
+  parent_class: "[[../ItemList]]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, itemListElement, itemListOrder, mainEntityOfPage, name, numberOfItems, potentialAction, sameAs, subjectOf, url ]"
 dv_has_parent_class: "[[../ItemList]]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, itemListElement, itemListOrder, mainEntityOfPage, name, numberOfItems, potentialAction, sameAs, subjectOf, url ]"

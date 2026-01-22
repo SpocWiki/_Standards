@@ -26,8 +26,9 @@ tags:
   - schema-org/Class
 title: is_an_event_cancelled Class
 type: Type
+dv_has_:
+  parent_class: "[[../EventStatusType]]"
 dv_is_:
-  sub_class_of: "[[../EventStatusType]]"
   enum_of: "[[../EventStatusType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Cancelled|Event_Cancelled]]"

@@ -76,9 +76,14 @@ dv_has_:
   name_:
     group: Group-01-Alkali
     abbreviated: H
+    en: Hydrogenium
+    de: Wasserstoff
   created: "[[Hydrogen/Hydrogen_Embrittlement]]"
   value_for_:
     radius: 0.79
+    radius_:
+      nano_:
+        m: 13.598
     volume_:
       ccm_:
         mol: 14.4
@@ -94,6 +99,13 @@ dv_has_:
       form_:
         kj_:
           mol: 0.44936
+    weight_:
+      u: 1.0079
+    temperature_:
+      melt_:
+        c: -259.14
+      boil_:
+        c: -252.87
   number_of_:
     period: 1
     group: 1
@@ -109,21 +121,6 @@ dv_is_:
     - "[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.private|Hydrogen.private]]"
     - "[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.personal|Hydrogen.personal]]"
     - "[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.secret|Hydrogen.secret]]"
-dv_#has_:
-  name_:
-    en: Hydrogenium
-    de: Wasserstoff
-  value_for_:
-    weight_:
-      u: 1.0079
-    radius_:
-      nano_:
-        m: 13.598
-    temperature_:
-      melt_:
-        c: -259.14
-      boil_:
-        c: -252.87
 dv_has_name_group: Group-01-Alkali
 dv_is_part_of: "[[../Group-01-Alkali]]"
 dv_has_created: "[[Hydrogen/Hydrogen_Embrittlement]]"

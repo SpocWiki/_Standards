@@ -24,7 +24,6 @@ tags:
 title: is_a_specialty Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Enumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Specialty|Specialty]]"
     - "[[/_public/schema-org/Enumeration/Specialty.public|Specialty.public]]"
@@ -34,7 +33,8 @@ dv_is_:
     - "[[/_personal/schema-org/Enumeration/Specialty.personal|Specialty.personal]]"
     - "[[/_secret/schema-org/Enumeration/Specialty.secret|Specialty.secret]]"
 dv_has_:
-  sub_classes: "[ MedicalSpecialty ]"
+  parent_class: "[[../Enumeration]]"
+  child_class: "[ MedicalSpecialty ]"
 dv_has_parent_class: "[[../Enumeration]]"
 dv_has_child_classes: "[ MedicalSpecialty ]"
 dv_is_same_as:

@@ -28,7 +28,7 @@ title: is_a_full_game_availability Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../GameAvailabilityEnumeration]]"
+  parent_class: "[[../GameAvailabilityEnumeration]]"
   enum_of: "[[../GameAvailabilityEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Game_Availability_Enumeration/Full_Game_Availability|Full_Game_Availability]]"

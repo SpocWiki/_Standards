@@ -26,7 +26,6 @@ tags:
 title: is_a_move_action Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Action]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Action/Move_Action|Move_Action]]"
     - "[[/_public/schema-org/Class/is_a_/Action/Move_Action.public|Move_Action.public]]"
@@ -36,7 +35,8 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Action/Move_Action.personal|Move_Action.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Action/Move_Action.secret|Move_Action.secret]]"
 dv_has_:
-  sub_classes: "[ ArriveAction, DepartAction, TravelAction ]"
+  parent_class: "[[../Action]]"
+  child_class: "[ ArriveAction, DepartAction, TravelAction ]"
   properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ]"
 dv_has_parent_class: "[[../Action]]"
 dv_has_child_classes: "[ ArriveAction, DepartAction, TravelAction ]"

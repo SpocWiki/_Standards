@@ -26,7 +26,6 @@ tags:
 title: is_a_register_action Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../InteractAction]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Action/Interact_Action/Register_Action|Register_Action]]"
     - "[[/_public/schema-org/Class/is_a_/Action/Interact_Action/Register_Action.public|Register_Action.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Action/Interact_Action/Register_Action.personal|Register_Action.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Action/Interact_Action/Register_Action.secret|Register_Action.secret]]"
 dv_has_:
+  parent_class: "[[../InteractAction]]"
   properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
 dv_has_parent_class: "[[../InteractAction]]"
 dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"

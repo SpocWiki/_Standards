@@ -26,7 +26,6 @@ tags:
 title: is_a_menu_item Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Intangible]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Menu_Item|Menu_Item]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Menu_Item.public|Menu_Item.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Menu_Item.personal|Menu_Item.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Menu_Item.secret|Menu_Item.secret]]"
 dv_has_:
+  parent_class: "[[../Intangible]]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, menuAddOn, name, nutrition, offers, potentialAction, sameAs, subjectOf, suitableForDiet, url ]"
 dv_has_parent_class: "[[../Intangible]]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, menuAddOn, name, nutrition, offers, potentialAction, sameAs, subjectOf, suitableForDiet, url ]"

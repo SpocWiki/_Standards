@@ -25,7 +25,7 @@ title: is_a_schedule Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../Intangible]]"
+  parent_class: "[[../Intangible]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Schedule|Schedule]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Schedule.public|Schedule.public]]"

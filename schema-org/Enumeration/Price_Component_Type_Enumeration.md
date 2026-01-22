@@ -27,7 +27,7 @@ title: is_a_price_component_type_enumeration Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../Enumeration]]"
+  parent_class: "[[../Enumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Price_Component_Type_Enumeration|Price_Component_Type_Enumeration]]"
     - "[[/_public/schema-org/Enumeration/Price_Component_Type_Enumeration.public|Price_Component_Type_Enumeration.public]]"

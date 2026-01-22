@@ -26,7 +26,6 @@ tags:
 title: is_an_inform_action Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../CommunicateAction]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Inform_Action|Inform_Action]]"
     - "[[/_public/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Inform_Action.public|Inform_Action.public]]"
@@ -36,7 +35,8 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Inform_Action.personal|Inform_Action.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Inform_Action.secret|Inform_Action.secret]]"
 dv_has_:
-  sub_classes: "[ ConfirmAction, RsvpAction ]"
+  parent_class: "[[../CommunicateAction]]"
+  child_class: "[ ConfirmAction, RsvpAction ]"
   properties: "[ about, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, event, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, url ]"
 dv_has_parent_class: "[[../CommunicateAction]]"
 dv_has_child_classes: "[ ConfirmAction, RsvpAction ]"

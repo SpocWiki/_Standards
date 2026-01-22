@@ -27,7 +27,7 @@ title: is_a_cdcpmd_record Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../StructuredValue]]"
+  parent_class: "[[../StructuredValue]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Cdcpmd_Record|Cdcpmd_Record]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Cdcpmd_Record.public|Cdcpmd_Record.public]]"

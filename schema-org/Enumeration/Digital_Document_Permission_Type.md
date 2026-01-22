@@ -25,8 +25,9 @@ tags:
   - schema-org/Class
 title: is_a_digital_document_permission_type Class
 type: Type
+dv_has_:
+  parent_class: "[[../Enumeration]]"
 dv_is_:
-  sub_class_of: "[[../Enumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Digital_Document_Permission_Type|Digital_Document_Permission_Type]]"
     - "[[/_public/schema-org/Enumeration/Digital_Document_Permission_Type.public|Digital_Document_Permission_Type.public]]"

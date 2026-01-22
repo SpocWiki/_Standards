@@ -28,7 +28,7 @@ title: is_a_paid_leave Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../GovernmentBenefitsType]]"
+  parent_class: "[[../GovernmentBenefitsType]]"
   enum_of: "[[../GovernmentBenefitsType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Government_Benefits_Type/Paid_Leave|Paid_Leave]]"

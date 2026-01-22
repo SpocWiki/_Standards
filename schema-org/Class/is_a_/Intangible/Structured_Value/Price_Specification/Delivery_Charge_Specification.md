@@ -26,7 +26,6 @@ tags:
 title: is_a_delivery_charge_specification Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../PriceSpecification]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Delivery_Charge_Specification|Delivery_Charge_Specification]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Delivery_Charge_Specification.public|Delivery_Charge_Specification.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Delivery_Charge_Specification.personal|Delivery_Charge_Specification.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Delivery_Charge_Specification.secret|Delivery_Charge_Specification.secret]]"
 dv_has_:
+  parent_class: "[[../PriceSpecification]]"
   properties: "[ additionalType, alternateName, appliesToDeliveryMethod, areaServed, description, disambiguatingDescription, eligibleQuantity, eligibleRegion, eligibleTransactionVolume, identifier, image, ineligibleRegion, mainEntityOfPage, maxPrice, minPrice, name, potentialAction, price, priceCurrency, sameAs, subjectOf, url, validFrom, validThrough, valueAddedTaxIncluded ]"
 dv_has_parent_class: "[[../PriceSpecification]]"
 dv_has_properties: "[ additionalType, alternateName, appliesToDeliveryMethod, areaServed, description, disambiguatingDescription, eligibleQuantity, eligibleRegion, eligibleTransactionVolume, identifier, image, ineligibleRegion, mainEntityOfPage, maxPrice, minPrice, name, potentialAction, price, priceCurrency, sameAs, subjectOf, url, validFrom, validThrough, valueAddedTaxIncluded ]"

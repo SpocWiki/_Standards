@@ -155,7 +155,7 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Asia,7112190]]"
 Wikitribune_category: asia
 dv_has_name_en: Asia
 dv_has_name_de: Asien
-dv_#has_:
+dv_has_:
   code: AS
 dv_is_:
   same_as:

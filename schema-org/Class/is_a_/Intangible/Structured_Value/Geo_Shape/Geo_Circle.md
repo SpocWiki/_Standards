@@ -26,7 +26,6 @@ tags:
 title: is_a_geo_circle Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../GeoShape]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape/Geo_Circle|Geo_Circle]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape/Geo_Circle.public|Geo_Circle.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape/Geo_Circle.personal|Geo_Circle.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape/Geo_Circle.secret|Geo_Circle.secret]]"
 dv_has_:
+  parent_class: "[[../GeoShape]]"
   properties: "[ additionalType, address, addressCountry, alternateName, box, circle, description, disambiguatingDescription, elevation, geoMidpoint, geoRadius, identifier, image, line, mainEntityOfPage, name, polygon, postalCode, potentialAction, sameAs, subjectOf, url ]"
 dv_has_parent_class: "[[../GeoShape]]"
 dv_has_properties: "[ additionalType, address, addressCountry, alternateName, box, circle, description, disambiguatingDescription, elevation, geoMidpoint, geoRadius, identifier, image, line, mainEntityOfPage, name, polygon, postalCode, potentialAction, sameAs, subjectOf, url ]"

@@ -26,7 +26,6 @@ tags:
 title: is_a_geo_coordinates Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../StructuredValue]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Coordinates|Geo_Coordinates]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Coordinates.public|Geo_Coordinates.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Coordinates.personal|Geo_Coordinates.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Coordinates.secret|Geo_Coordinates.secret]]"
 dv_has_:
+  parent_class: "[[../StructuredValue]]"
   properties: "[ [[../../../../Property/has_url_for/has_url_for_additional_type|additionalType]], [[../../../../Property/has_location/has_location_address|address]], [[../../../../Relation/has/has_address_country|addressCountry]], [[../../../../Property/has_name/has_name_alternate|alternateName]], [[../../../../Property/Texts/has_description|description]], [[../../../../Property/Texts/has_disambiguating_description|disambiguatingDescription]], [[../../../../Property/has_value_for/has_place_elevation_meters|elevation]], [[../../../../Relation/has/has_identifier|identifier]], [[../../../../Relation/has/has_image|image]], [[../../../../Property/has_value_for/has_place_latitude|latitude]], [[../../../../Property/has_value_for/has_place_longitude|longitude]], [[../../../../Relation/is/is_main_entity_of_page|mainEntityOfPage]], [[../../../../Property/has_name|name]], [[../../../../Property/has_location/has_place_postal_code|postalCode]], [[../../../../Relation/has/has_potential_action|potentialAction]], [[../../../../Relation/is_same_as|sameAs]], [[../../../../Relation/is/is_subject_of|subjectOf]], [[../../../../Property/has_url_for|url]] ]"
 dv_has_parent_class: "[[../StructuredValue]]"
 dv_has_properties: "[ [[../../../../Property/has_url_for/has_url_for_additional_type|additionalType]], [[../../../../Property/has_location/has_location_address|address]], [[../../../../Relation/has/has_address_country|addressCountry]], [[../../../../Property/has_name/has_name_alternate|alternateName]], [[../../../../Property/Texts/has_description|description]], [[../../../../Property/Texts/has_disambiguating_description|disambiguatingDescription]], [[../../../../Property/has_value_for/has_place_elevation_meters|elevation]], [[../../../../Relation/has/has_identifier|identifier]], [[../../../../Relation/has/has_image|image]], [[../../../../Property/has_value_for/has_place_latitude|latitude]], [[../../../../Property/has_value_for/has_place_longitude|longitude]], [[../../../../Relation/is/is_main_entity_of_page|mainEntityOfPage]], [[../../../../Property/has_name|name]], [[../../../../Property/has_location/has_place_postal_code|postalCode]], [[../../../../Relation/has/has_potential_action|potentialAction]], [[../../../../Relation/is_same_as|sameAs]], [[../../../../Relation/is/is_subject_of|subjectOf]], [[../../../../Property/has_url_for|url]] ]"

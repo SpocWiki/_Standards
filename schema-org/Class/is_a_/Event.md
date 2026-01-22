@@ -68,7 +68,6 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Events%20Banner.
 Commons_category: Events
 Uniform_Type_Identifier: public.calendar-event
 dv_is_:
-  sub_class_of: "[[../Thing|Thing]]"
   same_as:
     - "[[_Standards/WikiData/WD~event,1656682]]"
     - "[[/_Standards/schema-org/Class/is_a_/Event|Event]]"
@@ -80,7 +79,8 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Event.secret|Event.secret]]"
   similar_to: "[[Event(computing)]]"
 dv_has_:
-  sub_classes: "[ BusinessEvent, ChildrensEvent, ComedyEvent, CourseInstance, DanceEvent, DeliveryEvent, EducationEvent, EventSeries, ExhibitionEvent, Festival, FoodEvent, Hackathon, LiteraryEvent, MusicEvent, PublicationEvent, SaleEvent, ScreeningEvent, SocialEvent, SportsEvent, TheaterEvent, UserInteraction, VisualArtsEvent ]"
+  parent_class: "[[../Thing|Thing]]"
+  child_class: "[ BusinessEvent, ChildrensEvent, ComedyEvent, CourseInstance, DanceEvent, DeliveryEvent, EducationEvent, EventSeries, ExhibitionEvent, Festival, FoodEvent, Hackathon, LiteraryEvent, MusicEvent, PublicationEvent, SaleEvent, ScreeningEvent, SocialEvent, SportsEvent, TheaterEvent, UserInteraction, VisualArtsEvent ]"
   properties: "[ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, composer, contributor, description, director, disambiguatingDescription, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, funder, funding, identifier, image, inLanguage, isAccessibleForFree, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, recordedIn, remainingAttendeeCapacity, review, sameAs, sponsor, startDate, subEvent, subEvents, subjectOf, superEvent, translator, typicalAgeRange, url, workFeatured, workPerformed ]"
 dv_has_parent_class: "[[../Thing|Thing]]"
 dv_has_child_classes: "[ BusinessEvent, ChildrensEvent, ComedyEvent, CourseInstance, DanceEvent, DeliveryEvent, EducationEvent, EventSeries, ExhibitionEvent, Festival, FoodEvent, Hackathon, LiteraryEvent, MusicEvent, PublicationEvent, SaleEvent, ScreeningEvent, SocialEvent, SportsEvent, TheaterEvent, UserInteraction, VisualArtsEvent ]"

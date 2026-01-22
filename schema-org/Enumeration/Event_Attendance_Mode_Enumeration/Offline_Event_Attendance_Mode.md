@@ -28,7 +28,7 @@ title: is_an_offline_event_attendance_mode Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../EventAttendanceModeEnumeration]]"
+  parent_class: "[[../EventAttendanceModeEnumeration]]"
   enum_of: "[[../EventAttendanceModeEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Event_Attendance_Mode_Enumeration/Offline_Event_Attendance_Mode|Offline_Event_Attendance_Mode]]"

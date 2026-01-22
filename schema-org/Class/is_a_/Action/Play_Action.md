@@ -26,7 +26,6 @@ tags:
 title: is_a_play_action Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Action]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Action/Play_Action|Play_Action]]"
     - "[[/_public/schema-org/Class/is_a_/Action/Play_Action.public|Play_Action.public]]"
@@ -36,7 +35,8 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Action/Play_Action.personal|Play_Action.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Action/Play_Action.secret|Play_Action.secret]]"
 dv_has_:
-  sub_classes: "[ ExerciseAction, PerformAction ]"
+  parent_class: "[[../Action]]"
+  child_class: "[ ExerciseAction, PerformAction ]"
   properties: "[ actionStatus, additionalType, agent, alternateName, audience, description, disambiguatingDescription, endTime, error, event, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
 dv_has_parent_class: "[[../Action]]"
 dv_has_child_classes: "[ ExerciseAction, PerformAction ]"

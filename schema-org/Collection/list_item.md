@@ -25,7 +25,6 @@ tags:
 title: is_a_list_item Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Class/is_a_/Intangible]]]"
   same_as:
     - "[[/_Standards/schema-org/Collection/list_item|list_item]]"
     - "[[/_public/schema-org/Collection/list_item.public|list_item.public]]"
@@ -35,7 +34,8 @@ dv_is_:
     - "[[/_personal/schema-org/Collection/list_item.personal|list_item.personal]]"
     - "[[/_secret/schema-org/Collection/list_item.secret|list_item.secret]]"
 dv_has_:
-  sub_classes: "[ HowToDirection, HowToItem, HowToSection, HowToStep, HowToTip ]"
+  parent_class: "[[../Class/is_a_/Intangible]]]"
+  child_class: "[ HowToDirection, HowToItem, HowToSection, HowToStep, HowToTip ]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, item, mainEntityOfPage, name, nextItem, position, potentialAction, previousItem, sameAs, subjectOf, url ]"
 dv_has_parent_class: "[[../Class/is_a_/Intangible]]]"
 dv_has_child_classes: "[ HowToDirection, HowToItem, HowToSection, HowToStep, HowToTip ]"

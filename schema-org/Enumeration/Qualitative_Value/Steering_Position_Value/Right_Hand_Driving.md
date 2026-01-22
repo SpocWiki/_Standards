@@ -26,8 +26,9 @@ tags:
   - schema-org/Class
 title: is_a_right_hand_driving Class
 type: Type
+dv_has_:
+  parent_class: "[[../SteeringPositionValue]]"
 dv_is_:
-  sub_class_of: "[[../SteeringPositionValue]]"
   enum_of: "[[../SteeringPositionValue]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value/Right_Hand_Driving|Right_Hand_Driving]]"

@@ -31,20 +31,23 @@ title: is_subject_of
 type: Predi_Relation
 ---
 
-Use it like this: 
-- #is_/subject_of :: CreativeWork, Event  
-- is_/subject_of :: CreativeWork, Event  
+# [[is_subject_of]] 
 
-A CreativeWork or Event about this Thing.
+
+#has_/inverse  :: [[has_subject|has_subject]]  
+
+Use it like this: 
+- #is_/subject_of :: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]", "[[../../Class/is_a_/Event|Event]]"  
+- is_subject_of :: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]", "[[../../Class/is_a_/Event|Event]]"  
+
+A Statement, CreativeWork or Event about this Thing.
 
 Relation describes that: 
 
-#has_/domain  :: [Thing](../../../Class/Thing.md)  
-
+#has_/domain  :: [[../../Class/Thing.md|Thing]]  
 (has_/name :: is_subject_of )
-(has_/range :: CreativeWork, Event )
+(has_/range :: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]", "[[../../Class/is_a_/Event|Event]]" )
 
-#has_/inverse  :: [is_about](../is/is_about.md)  
 
 ## Confidential Links & Embeds: 
 

@@ -26,7 +26,6 @@ tags:
 title: is_a_location_feature_specification Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../PropertyValue]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value/Location_Feature_Specification|Location_Feature_Specification]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value/Location_Feature_Specification.public|Location_Feature_Specification.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value/Location_Feature_Specification.personal|Location_Feature_Specification.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value/Location_Feature_Specification.secret|Location_Feature_Specification.secret]]"
 dv_has_:
+  parent_class: "[[../PropertyValue]]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, hoursAvailable, identifier, image, mainEntityOfPage, maxValue, measurementTechnique, minValue, name, potentialAction, propertyID, sameAs, subjectOf, unitCode, unitText, url, validFrom, validThrough, value, valueReference ]"
 dv_has_parent_class: "[[../PropertyValue]]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, hoursAvailable, identifier, image, mainEntityOfPage, maxValue, measurementTechnique, minValue, name, potentialAction, propertyID, sameAs, subjectOf, unitCode, unitText, url, validFrom, validThrough, value, valueReference ]"

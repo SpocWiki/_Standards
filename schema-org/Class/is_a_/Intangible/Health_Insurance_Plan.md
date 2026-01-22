@@ -27,7 +27,7 @@ title: is_a_health_insurance_plan Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../Intangible]]"
+  parent_class: "[[../Intangible]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Health_Insurance_Plan|Health_Insurance_Plan]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Health_Insurance_Plan.public|Health_Insurance_Plan.public]]"

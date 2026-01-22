@@ -123,6 +123,8 @@ dv_has_:
   name_:
     group: Group-01-Alkali
     abbreviated: Li
+    en: Lithium
+    de: Lithium
   value_for_:
     radius: 2.05
     volume_:
@@ -140,6 +142,16 @@ dv_has_:
       form_:
         kj_:
           mol: 145.92
+    weight_:
+      u: 6.941
+    radius_:
+      nano_:
+        m: 5.392
+    temperature_:
+      melt_:
+        c: 180.54
+      boil_:
+        c: 1347
   number_of_:
     period: 2
     group: 1
@@ -155,21 +167,6 @@ dv_is_:
     - "[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.private|Lithium.private]]"
     - "[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.personal|Lithium.personal]]"
     - "[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.secret|Lithium.secret]]"
-dv_#has_:
-  name_:
-    en: Lithium
-    de: Lithium
-  value_for_:
-    weight_:
-      u: 6.941
-    radius_:
-      nano_:
-        m: 5.392
-    temperature_:
-      melt_:
-        c: 180.54
-      boil_:
-        c: 1347
 dv_has_name_group: Group-01-Alkali
 dv_is_part_of: "[[../Group-01-Alkali]]"
 dv_has_name_en: Lithium

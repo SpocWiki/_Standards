@@ -64,9 +64,8 @@ P2167: 90151503
 Wolfram_Language_entity_code: Entity"Concept", "Zoo = `=this.dv_"Concept", "Zoo`
 GeoNames_feature_code: S.ZOO
 dv_"Concept", "Zoo: 323jy"
-dv_#is_:
-  sub_class_of: "[[../CivicStructure]]"
 dv_has_:
+  parent_class: "[[../CivicStructure]]"
   properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
 dv_is_:
   same_as:

@@ -191,9 +191,8 @@ dv_is_:
     - "[[/_secret/Earth/Continent/Europe.secret|Europe.secret]]"
 dv_has_name_en: Europe
 dv_has_name_de: Europa
-dv_#has_:
-  code: EU
 dv_has_:
+  code: EU
   image_for_:
     flag: "![Flag|350](https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg)"
     coat_of_arms: "[[Europe/Seal_of_Europe.svg|350]]"

@@ -26,7 +26,6 @@ tags:
 title: is_a_course_instance Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Event]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Event/Course_Instance|Course_Instance]]"
     - "[[/_public/schema-org/Class/is_a_/Event/Course_Instance.public|Course_Instance.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Event/Course_Instance.personal|Course_Instance.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Event/Course_Instance.secret|Course_Instance.secret]]"
 dv_has_:
+  parent_class: "[[../Event]]"
   properties: "[ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, composer, contributor, courseMode, courseWorkload, description, director, disambiguatingDescription, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, funder, funding, identifier, image, inLanguage, instructor, isAccessibleForFree, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, recordedIn, remainingAttendeeCapacity, review, sameAs, sponsor, startDate, subEvent, subEvents, subjectOf, superEvent, translator, typicalAgeRange, url, workFeatured, workPerformed ]"
 dv_has_parent_class: "[[../Event]]"
 dv_has_properties: "[ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, composer, contributor, courseMode, courseWorkload, description, director, disambiguatingDescription, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, funder, funding, identifier, image, inLanguage, instructor, isAccessibleForFree, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, recordedIn, remainingAttendeeCapacity, review, sameAs, sponsor, startDate, subEvent, subEvents, subjectOf, superEvent, translator, typicalAgeRange, url, workFeatured, workPerformed ]"

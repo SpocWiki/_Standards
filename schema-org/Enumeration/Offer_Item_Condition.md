@@ -25,8 +25,9 @@ tags:
   - schema-org/Class
 title: is_an_offer_item_condition Class
 type: Type
+dv_has_:
+  parent_class: "[[../Enumeration]]"
 dv_is_:
-  sub_class_of: "[[../Enumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Offer_Item_Condition|Offer_Item_Condition]]"
     - "[[/_public/schema-org/Enumeration/Offer_Item_Condition.public|Offer_Item_Condition.public]]"

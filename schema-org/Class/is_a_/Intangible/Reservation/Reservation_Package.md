@@ -26,7 +26,6 @@ tags:
 title: is_a_reservation_package Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Reservation]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Reservation/Reservation_Package|Reservation_Package]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Reservation/Reservation_Package.public|Reservation_Package.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Reservation/Reservation_Package.personal|Reservation_Package.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Reservation/Reservation_Package.secret|Reservation_Package.secret]]"
 dv_has_:
+  parent_class: "[[../Reservation]]"
   properties: "[ additionalType, alternateName, bookingAgent, bookingTime, broker, description, disambiguatingDescription, identifier, image, mainEntityOfPage, modifiedTime, name, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, subReservation, subjectOf, totalPrice, underName, url ]"
 dv_has_parent_class: "[[../Reservation]]"
 dv_has_properties: "[ additionalType, alternateName, bookingAgent, bookingTime, broker, description, disambiguatingDescription, identifier, image, mainEntityOfPage, modifiedTime, name, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, subReservation, subjectOf, totalPrice, underName, url ]"

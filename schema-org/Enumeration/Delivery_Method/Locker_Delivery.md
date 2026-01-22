@@ -26,8 +26,9 @@ tags:
   - schema-org/Class
 title: is_a_locker_delivery Class
 type: Type
+dv_has_:
+  parent_class: "[[../DeliveryMethod]]"
 dv_is_:
-  sub_class_of: "[[../DeliveryMethod]]"
   enum_of: "[[../DeliveryMethod]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Delivery_Method/Locker_Delivery|Locker_Delivery]]"

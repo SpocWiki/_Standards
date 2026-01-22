@@ -27,7 +27,6 @@ tags:
 title: is_a_user_comments Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../UserInteraction]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Event/User_Interaction/User_Comments|User_Comments]]"
     - "[[/_public/schema-org/Class/is_a_/Event/User_Interaction/User_Comments.public|User_Comments.public]]"
@@ -37,6 +36,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Event/User_Interaction/User_Comments.personal|User_Comments.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Event/User_Interaction/User_Comments.secret|User_Comments.secret]]"
 dv_has_:
+  parent_class: "[[../UserInteraction]]"
   properties: "[ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, commentText, commentTime, composer, contributor, creator, description, director, disambiguatingDescription, discusses, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, funder, funding, identifier, image, inLanguage, isAccessibleForFree, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, recordedIn, remainingAttendeeCapacity, replyToUrl, review, sameAs, sponsor, startDate, subEvent, subEvents, subjectOf, superEvent, translator, typicalAgeRange, url, workFeatured, workPerformed ]"
 dv_has_parent_class: "[[../UserInteraction]]"
 dv_has_properties: "[ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, commentText, commentTime, composer, contributor, creator, description, director, disambiguatingDescription, discusses, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, funder, funding, identifier, image, inLanguage, isAccessibleForFree, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, recordedIn, remainingAttendeeCapacity, replyToUrl, review, sameAs, sponsor, startDate, subEvent, subEvents, subjectOf, superEvent, translator, typicalAgeRange, url, workFeatured, workPerformed ]"

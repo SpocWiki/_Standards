@@ -27,7 +27,7 @@ title: is_a_legal_value_level Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../Enumeration]]"
+  parent_class: "[[../Enumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Legal_Value_Level|Legal_Value_Level]]"
     - "[[/_public/schema-org/Enumeration/Legal_Value_Level.public|Legal_Value_Level.public]]"

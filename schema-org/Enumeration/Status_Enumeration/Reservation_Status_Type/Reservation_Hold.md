@@ -26,8 +26,9 @@ tags:
   - schema-org/Class
 title: is_a_reservation_hold Class
 type: Type
+dv_has_:
+  parent_class: "[[../ReservationStatusType]]"
 dv_is_:
-  sub_class_of: "[[../ReservationStatusType]]"
   enum_of: "[[../ReservationStatusType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Hold|Reservation_Hold]]"

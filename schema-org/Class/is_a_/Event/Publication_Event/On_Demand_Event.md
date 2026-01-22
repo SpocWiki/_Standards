@@ -26,7 +26,6 @@ tags:
 title: is_an_on_demand_event Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../PublicationEvent]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Event/Publication_Event/On_Demand_Event|On_Demand_Event]]"
     - "[[/_public/schema-org/Class/is_a_/Event/Publication_Event/On_Demand_Event.public|On_Demand_Event.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Event/Publication_Event/On_Demand_Event.personal|On_Demand_Event.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Event/Publication_Event/On_Demand_Event.secret|On_Demand_Event.secret]]"
 dv_has_:
+  parent_class: "[[../PublicationEvent]]"
   properties: "[ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, composer, contributor, description, director, disambiguatingDescription, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, free, funder, funding, identifier, image, inLanguage, isAccessibleForFree, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, publishedBy, publishedOn, recordedIn, remainingAttendeeCapacity, review, sameAs, sponsor, startDate, subEvent, subEvents, subjectOf, superEvent, translator, typicalAgeRange, url, workFeatured, workPerformed ]"
 dv_has_parent_class: "[[../PublicationEvent]]"
 dv_has_properties: "[ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, composer, contributor, description, director, disambiguatingDescription, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, free, funder, funding, identifier, image, inLanguage, isAccessibleForFree, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, publishedBy, publishedOn, recordedIn, remainingAttendeeCapacity, review, sameAs, sponsor, startDate, subEvent, subEvents, subjectOf, superEvent, translator, typicalAgeRange, url, workFeatured, workPerformed ]"

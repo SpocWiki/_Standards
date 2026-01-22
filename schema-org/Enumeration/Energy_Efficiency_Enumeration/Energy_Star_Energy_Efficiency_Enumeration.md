@@ -27,7 +27,7 @@ title: is_an_energy_star_energy_efficiency_enumeration Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../EnergyEfficiencyEnumeration]]"
+  parent_class: "[[../EnergyEfficiencyEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration|Energy_Star_Energy_Efficiency_Enumeration]]"
     - "[[/_public/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration.public|Energy_Star_Energy_Efficiency_Enumeration.public]]"

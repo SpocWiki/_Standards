@@ -26,7 +26,6 @@ tags:
 title: is_a_government_permit Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Permit]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Permit/Government_Permit|Government_Permit]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Permit/Government_Permit.public|Government_Permit.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Permit/Government_Permit.personal|Government_Permit.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Permit/Government_Permit.secret|Government_Permit.secret]]"
 dv_has_:
+  parent_class: "[[../Permit]]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, issuedBy, issuedThrough, mainEntityOfPage, name, permitAudience, potentialAction, sameAs, subjectOf, url, validFor, validFrom, validIn, validUntil ]"
 dv_has_parent_class: "[[../Permit]]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, issuedBy, issuedThrough, mainEntityOfPage, name, permitAudience, potentialAction, sameAs, subjectOf, url, validFor, validFrom, validIn, validUntil ]"

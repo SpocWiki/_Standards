@@ -25,8 +25,9 @@ tags:
   - schema-org/Class
 title: is_a_bed_type Class
 type: Type
+dv_has_:
+  parent_class: "[[../DayOfWeek]]"
 dv_is_:
-  sub_class_of: "[[../DayOfWeek]]"
   enum_of: "[[../DayOfWeek]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Qualitative_Value/Bed_Type|Bed_Type]]"

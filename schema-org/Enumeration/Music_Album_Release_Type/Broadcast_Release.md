@@ -26,8 +26,9 @@ tags:
   - schema-org/Class
 title: is_a_broadcast_release Class
 type: Type
+dv_has_:
+  parent_class: "[[../MusicAlbumReleaseType]]"
 dv_is_:
-  sub_class_of: "[[../MusicAlbumReleaseType]]"
   enum_of: "[[../MusicAlbumReleaseType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Music_Album_Release_Type/Broadcast_Release|Broadcast_Release]]"

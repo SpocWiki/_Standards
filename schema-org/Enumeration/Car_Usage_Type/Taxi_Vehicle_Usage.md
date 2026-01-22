@@ -28,7 +28,7 @@ title: is_a_taxi_vehicle_usage Class
 type: Type
 dv_is_:
   part_of: https://auto.schema.org
-  sub_class_of: "[[../CarUsageType]]"
+  parent_class: "[[../CarUsageType]]"
   enum_of: "[[../CarUsageType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Car_Usage_Type/Taxi_Vehicle_Usage|Taxi_Vehicle_Usage]]"

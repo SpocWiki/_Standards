@@ -26,7 +26,6 @@ tags:
 title: is_a_wear_action Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../UseAction]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Action/Consume_Action/Use_Action/Wear_Action|Wear_Action]]"
     - "[[/_public/schema-org/Class/is_a_/Action/Consume_Action/Use_Action/Wear_Action.public|Wear_Action.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Action/Consume_Action/Use_Action/Wear_Action.personal|Wear_Action.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Action/Consume_Action/Use_Action/Wear_Action.secret|Wear_Action.secret]]"
 dv_has_:
+  parent_class: "[[../UseAction]]"
   properties: "[ actionAccessibilityRequirement, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, expectsAcceptanceOf, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
 dv_has_parent_class: "[[../UseAction]]"
 dv_has_properties: "[ actionAccessibilityRequirement, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, expectsAcceptanceOf, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"

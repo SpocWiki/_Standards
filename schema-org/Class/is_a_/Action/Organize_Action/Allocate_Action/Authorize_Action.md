@@ -26,7 +26,6 @@ tags:
 title: is_an_authorize_action Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../AllocateAction]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Authorize_Action|Authorize_Action]]"
     - "[[/_public/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Authorize_Action.public|Authorize_Action.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Authorize_Action.personal|Authorize_Action.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Authorize_Action.secret|Authorize_Action.secret]]"
 dv_has_:
+  parent_class: "[[../AllocateAction]]"
   properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, url ]"
 dv_has_parent_class: "[[../AllocateAction]]"
 dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, url ]"

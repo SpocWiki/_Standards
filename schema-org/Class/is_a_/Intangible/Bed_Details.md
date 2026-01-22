@@ -28,7 +28,6 @@ tags:
 title: is_a_bed_details Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Intangible]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Bed_Details|Bed_Details]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Bed_Details.public|Bed_Details.public]]"
@@ -38,6 +37,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Bed_Details.personal|Bed_Details.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Bed_Details.secret|Bed_Details.secret]]"
 dv_has_:
+  parent_class: "[[../Intangible]]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, numberOfBeds, potentialAction, sameAs, subjectOf, typeOfBed, url ]"
 dv_has_parent_class: "[[../Intangible]]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, numberOfBeds, potentialAction, sameAs, subjectOf, typeOfBed, url ]"

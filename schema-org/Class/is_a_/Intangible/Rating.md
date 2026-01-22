@@ -24,7 +24,6 @@ tags:
 title: is_a_rating Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Intangible]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Rating|Rating]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Rating.public|Rating.public]]"
@@ -34,7 +33,8 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Rating.personal|Rating.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Rating.secret|Rating.secret]]"
 dv_has_:
-  sub_classes: "[ AggregateRating, EndorsementRating ]"
+  parent_class: "[[../Intangible]]"
+  child_class: "[ AggregateRating, EndorsementRating ]"
   properties: "[ additionalType, alternateName, author, bestRating, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, ratingExplanation, ratingValue, reviewAspect, sameAs, subjectOf, url, worstRating ]"
 dv_has_parent_class: "[[../Intangible]]"
 dv_has_child_classes: "[ AggregateRating, EndorsementRating ]"

@@ -26,8 +26,9 @@ tags:
   - schema-org/Class
 title: is_a_group_boarding_policy Class
 type: Type
+dv_has_:
+  parent_class: "[[../BoardingPolicyType]]"
 dv_is_:
-  sub_class_of: "[[../BoardingPolicyType]]"
   enum_of: "[[../BoardingPolicyType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Boarding_Policy_Type/Group_Boarding_Policy|Group_Boarding_Policy]]"

@@ -26,7 +26,6 @@ tags:
 title: is_an_employer_aggregate_rating Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../AggregateRating]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating/Employer_Aggregate_Rating|Employer_Aggregate_Rating]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating/Employer_Aggregate_Rating.public|Employer_Aggregate_Rating.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating/Employer_Aggregate_Rating.personal|Employer_Aggregate_Rating.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating/Employer_Aggregate_Rating.secret|Employer_Aggregate_Rating.secret]]"
 dv_has_:
+  parent_class: "[[../AggregateRating]]"
   properties: "[ additionalType, alternateName, author, bestRating, description, disambiguatingDescription, identifier, image, itemReviewed, mainEntityOfPage, name, potentialAction, ratingCount, ratingExplanation, ratingValue, reviewAspect, reviewCount, sameAs, subjectOf, url, worstRating ]"
 dv_has_parent_class: "[[../AggregateRating]]"
 dv_has_properties: "[ additionalType, alternateName, author, bestRating, description, disambiguatingDescription, identifier, image, itemReviewed, mainEntityOfPage, name, potentialAction, ratingCount, ratingExplanation, ratingValue, reviewAspect, reviewCount, sameAs, subjectOf, url, worstRating ]"

@@ -26,7 +26,6 @@ tags:
 title: is_a_parent_audience Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../PeopleAudience]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Audience/People_Audience/Parent_Audience|Parent_Audience]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Audience/People_Audience/Parent_Audience.public|Parent_Audience.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Audience/People_Audience/Parent_Audience.personal|Parent_Audience.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Audience/People_Audience/Parent_Audience.secret|Parent_Audience.secret]]"
 dv_has_:
+  parent_class: "[[../PeopleAudience]]"
   properties: "[ additionalType, alternateName, audienceType, childMaxAge, childMinAge, description, disambiguatingDescription, geographicArea, healthCondition, identifier, image, mainEntityOfPage, name, potentialAction, requiredGender, requiredMaxAge, requiredMinAge, sameAs, subjectOf, suggestedAge, suggestedGender, suggestedMaxAge, suggestedMeasurement, suggestedMinAge, url ]"
 dv_has_parent_class: "[[../PeopleAudience]]"
 dv_has_properties: "[ additionalType, alternateName, audienceType, childMaxAge, childMinAge, description, disambiguatingDescription, geographicArea, healthCondition, identifier, image, mainEntityOfPage, name, potentialAction, requiredGender, requiredMaxAge, requiredMinAge, sameAs, subjectOf, suggestedAge, suggestedGender, suggestedMaxAge, suggestedMeasurement, suggestedMinAge, url ]"

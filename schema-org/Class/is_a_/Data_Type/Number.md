@@ -60,7 +60,7 @@ Stack_Exchange_tag: https://stackoverflow.com/tags/numbers
 Krugosvet_article_archived_: nauka_i_tehnika/matematika/CHISLO.html
 IMDb_keyword: number-in-title
 dv_has_:
-  sub_classes: "[ Float, Integer ]"
+  child_class: "[ Float, Integer ]"
 dv_is_:
   same_as:
     - "[[../../../../WikiData/WD~Number,11563|WD~Number,11563]]"

@@ -28,7 +28,7 @@ title: is_back_order Class
 type: Type
 dv_..:
   "ItemAvailability| #is_":
-    sub_class_of: "[../ItemAvailability]"
+    parent_class: "[../ItemAvailability]"
     enum_of: "[../ItemAvailability]"
 dv_is_:
   same_as:

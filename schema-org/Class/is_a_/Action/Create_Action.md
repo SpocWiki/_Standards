@@ -26,7 +26,6 @@ tags:
 title: is_a_create_action Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Action]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Action/Create_Action|Create_Action]]"
     - "[[/_public/schema-org/Class/is_a_/Action/Create_Action.public|Create_Action.public]]"
@@ -36,7 +35,8 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Action/Create_Action.personal|Create_Action.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Action/Create_Action.secret|Create_Action.secret]]"
 dv_has_:
-  sub_classes: "[ CookAction, DrawAction, FilmAction, PaintAction, PhotographAction, WriteAction ]"
+  parent_class: "[[../Action]]"
+  child_class: "[ CookAction, DrawAction, FilmAction, PaintAction, PhotographAction, WriteAction ]"
   properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
 dv_has_parent_class: "[[../Action]]"
 dv_has_child_classes: "[ CookAction, DrawAction, FilmAction, PaintAction, PhotographAction, WriteAction ]"

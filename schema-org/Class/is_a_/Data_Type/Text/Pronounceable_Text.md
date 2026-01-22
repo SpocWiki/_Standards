@@ -28,7 +28,7 @@ title: is_a_pronounceable_text Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../Text]]"
+  parent_class: "[[../Text]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Text/Pronounceable_Text|Pronounceable_Text]]"
     - "[[/_public/schema-org/Class/is_a_/Data_Type/Text/Pronounceable_Text.public|Pronounceable_Text.public]]"

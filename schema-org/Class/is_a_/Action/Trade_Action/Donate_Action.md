@@ -26,7 +26,6 @@ tags:
 title: is_a_donate_action Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../TradeAction]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Action/Trade_Action/Donate_Action|Donate_Action]]"
     - "[[/_public/schema-org/Class/is_a_/Action/Trade_Action/Donate_Action.public|Donate_Action.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Action/Trade_Action/Donate_Action.personal|Donate_Action.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Action/Trade_Action/Donate_Action.secret|Donate_Action.secret]]"
 dv_has_:
+  parent_class: "[[../TradeAction]]"
   properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, price, priceCurrency, priceSpecification, provider, recipient, result, sameAs, startTime, subjectOf, target, url ]"
 dv_has_parent_class: "[[../TradeAction]]"
 dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, price, priceCurrency, priceSpecification, provider, recipient, result, sameAs, startTime, subjectOf, target, url ]"

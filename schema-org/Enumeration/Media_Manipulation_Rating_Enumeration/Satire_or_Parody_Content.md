@@ -30,7 +30,7 @@ title: is_a_satire_or_parody_content Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../Media_Manipulation_Rating_Enumeration]]"
+  parent_class: "[[../Media_Manipulation_Rating_Enumeration]]"
   enum_of: "[[../Media_Manipulation_Rating_Enumeration]]"
   same_as:
     - "[[../../../WikiData/WD~Satire,128758|WD~Satire,128758]]"

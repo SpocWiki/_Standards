@@ -27,7 +27,7 @@ title: is_a_wearable_size_system_enumeration Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../SizeSystemEnumeration]]"
+  parent_class: "[[../SizeSystemEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration|Wearable_Size_System_Enumeration]]"
     - "[[/_public/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration.public|Wearable_Size_System_Enumeration.public]]"

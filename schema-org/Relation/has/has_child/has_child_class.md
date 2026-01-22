@@ -30,7 +30,7 @@ title: has_child_class
 type: Predi_Relation
 dv_has_:
   inverse: "[[../has_parent/has_parent_class]]"
-  sub_classes: "[[../../../Class]]"
+  child_class: "[[../../../Class]]"
   domain: "[[../../../Class]]"
   name: has_child_class
   range: "[[Thing]]"

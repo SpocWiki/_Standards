@@ -26,7 +26,6 @@ tags:
 title: is_an_order Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Intangible]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Order|Order]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Order.public|Order.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Order.personal|Order.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Order.secret|Order.secret]]"
 dv_has_:
+  parent_class: "[[../Intangible]]"
   properties: "[ acceptedOffer, additionalType, alternateName, billingAddress, broker, confirmationNumber, customer, description, disambiguatingDescription, discount, discountCode, discountCurrency, identifier, image, isGift, mainEntityOfPage, merchant, name, orderDate, orderDelivery, orderNumber, orderStatus, orderedItem, partOfInvoice, paymentDue, paymentDueDate, paymentMethod, paymentMethodId, paymentUrl, potentialAction, sameAs, seller, subjectOf, url ]"
 dv_has_parent_class: "[[../Intangible]]"
 dv_has_properties: "[ acceptedOffer, additionalType, alternateName, billingAddress, broker, confirmationNumber, customer, description, disambiguatingDescription, discount, discountCode, discountCurrency, identifier, image, isGift, mainEntityOfPage, merchant, name, orderDate, orderDelivery, orderNumber, orderStatus, orderedItem, partOfInvoice, paymentDue, paymentDueDate, paymentMethod, paymentMethodId, paymentUrl, potentialAction, sameAs, seller, subjectOf, url ]"

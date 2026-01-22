@@ -26,8 +26,9 @@ tags:
   - schema-org/Class
 title: is_an_item_list_order_ascending Class
 type: Type
+dv_has_:
+  parent_class: "[[../ItemListOrderType]]"
 dv_is_:
-  sub_class_of: "[[../ItemListOrderType]]"
   enum_of: "[[../ItemListOrderType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Ascending|Item_List_Order_Ascending]]"

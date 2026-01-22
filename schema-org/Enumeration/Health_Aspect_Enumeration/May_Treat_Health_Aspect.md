@@ -28,7 +28,7 @@ title: is_a_may_treat_health_aspect Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../HealthAspectEnumeration]]"
+  parent_class: "[[../HealthAspectEnumeration]]"
   enum_of: "[[../HealthAspectEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Health_Aspect_Enumeration/May_Treat_Health_Aspect|May_Treat_Health_Aspect]]"

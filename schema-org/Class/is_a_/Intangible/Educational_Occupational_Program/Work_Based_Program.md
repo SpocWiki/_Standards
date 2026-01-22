@@ -27,7 +27,7 @@ title: is_a_work_based_program Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../EducationalOccupationalProgram]]"
+  parent_class: "[[../EducationalOccupationalProgram]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Educational_Occupational_Program/Work_Based_Program|Work_Based_Program]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Educational_Occupational_Program/Work_Based_Program.public|Work_Based_Program.public]]"

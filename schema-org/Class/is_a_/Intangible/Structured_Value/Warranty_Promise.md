@@ -26,7 +26,6 @@ tags:
 title: is_a_warranty_promise Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../StructuredValue]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise|Warranty_Promise]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.public|Warranty_Promise.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.personal|Warranty_Promise.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.secret|Warranty_Promise.secret]]"
 dv_has_:
+  parent_class: "[[../StructuredValue]]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, durationOfWarranty, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url, warrantyScope ]"
 dv_has_parent_class: "[[../StructuredValue]]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, durationOfWarranty, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url, warrantyScope ]"

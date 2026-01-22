@@ -25,8 +25,9 @@ tags:
   - schema-org/Class
 title: is_a_gender_type Class
 type: Type
+dv_has_:
+  parent_class: "[[../Enumeration]]"
 dv_is_:
-  sub_class_of: "[[../Enumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Gender_Type|Gender_Type]]"
     - "[[/_public/schema-org/Enumeration/Gender_Type.public|Gender_Type.public]]"

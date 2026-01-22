@@ -27,7 +27,7 @@ title: is_a_play_game_action Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../ConsumeAction]]"
+  parent_class: "[[../ConsumeAction]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Action/Consume_Action/Play_Game_Action|Play_Game_Action]]"
     - "[[/_public/schema-org/Class/is_a_/Action/Consume_Action/Play_Game_Action.public|Play_Game_Action.public]]"

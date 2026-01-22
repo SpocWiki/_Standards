@@ -142,7 +142,7 @@ dv_is_:
     - "[[/_secret/Earth/Continent/America~North.secret|America~North.secret]]"
 dv_has_name_en: North America
 dv_has_name_de: Nordamerika
-dv_#has_:
+dv_has_:
   code: NA
 dv_is_same_as:
   - "[[../../WikiData/WD~North_America,49|WD~North_America,49]]"

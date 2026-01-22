@@ -26,7 +26,6 @@ tags:
 title: is_a_discover_action Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../FindAction]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Action/Find_Action/Discover_Action|Discover_Action]]"
     - "[[/_public/schema-org/Class/is_a_/Action/Find_Action/Discover_Action.public|Discover_Action.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Action/Find_Action/Discover_Action.personal|Discover_Action.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Action/Find_Action/Discover_Action.secret|Discover_Action.secret]]"
 dv_has_:
+  parent_class: "[[../FindAction]]"
   properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
 dv_has_parent_class: "[[../FindAction]]"
 dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"

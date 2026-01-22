@@ -28,7 +28,7 @@ title: is_a_wearable_measurement_width Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../WearableMeasurementTypeEnumeration]]"
+  parent_class: "[[../WearableMeasurementTypeEnumeration]]"
   enum_of: "[[../WearableMeasurementTypeEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Wearable_Measurement_Type_Enumeration/Wearable_Measurement_Width|Wearable_Measurement_Width]]"

@@ -26,7 +26,6 @@ tags:
 title: is_an_exercise_action Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../PlayAction]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Action/Play_Action/Exercise_Action|Exercise_Action]]"
     - "[[/_public/schema-org/Class/is_a_/Action/Play_Action/Exercise_Action.public|Exercise_Action.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Action/Play_Action/Exercise_Action.personal|Exercise_Action.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Action/Play_Action/Exercise_Action.secret|Exercise_Action.secret]]"
 dv_has_:
+  parent_class: "[[../PlayAction]]"
   properties: "[ actionStatus, additionalType, agent, alternateName, audience, course, description, diet, disambiguatingDescription, distance, endTime, error, event, exerciseCourse, exercisePlan, exerciseRelatedDiet, exerciseType, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, opponent, participant, potentialAction, provider, result, sameAs, sportsActivityLocation, sportsEvent, sportsTeam, startTime, subjectOf, target, toLocation, url ]"
 dv_has_parent_class: "[[../PlayAction]]"
 dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, audience, course, description, diet, disambiguatingDescription, distance, endTime, error, event, exerciseCourse, exercisePlan, exerciseRelatedDiet, exerciseType, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, opponent, participant, potentialAction, provider, result, sameAs, sportsActivityLocation, sportsEvent, sportsTeam, startTime, subjectOf, target, toLocation, url ]"

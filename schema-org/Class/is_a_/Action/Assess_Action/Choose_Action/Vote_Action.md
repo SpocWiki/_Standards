@@ -26,7 +26,6 @@ tags:
 title: is_a_vote_action Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../ChooseAction]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Action/Assess_Action/Choose_Action/Vote_Action|Vote_Action]]"
     - "[[/_public/schema-org/Class/is_a_/Action/Assess_Action/Choose_Action/Vote_Action.public|Vote_Action.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Action/Assess_Action/Choose_Action/Vote_Action.personal|Vote_Action.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Action/Assess_Action/Choose_Action/Vote_Action.secret|Vote_Action.secret]]"
 dv_has_:
+  parent_class: "[[../ChooseAction]]"
   properties: "[ actionOption, actionStatus, additionalType, agent, alternateName, candidate, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, option, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
 dv_has_parent_class: "[[../ChooseAction]]"
 dv_has_properties: "[ actionOption, actionStatus, additionalType, agent, alternateName, candidate, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, option, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"

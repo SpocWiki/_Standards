@@ -42,6 +42,7 @@ TableByName:
       - result-date
     headings: ""
 dv_has_:
+  code: EU
   time_:
     started: 1993-11-01T00:00:00.000+01:00
   previous_item: "[[European_Communities(EC)]]"
@@ -55,8 +56,6 @@ dv_has_:
   image_for_:
     flag: "![Flag|350](https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg)"
     coat_of_arms: "[[Seal_of_Europe.svg|350]]"
-dv_#has_:
-  code: EU
 dv_is_:
   same_as:
     - "[[/_Standards/Earth/Continent/Europe/EU(European_Union)|EU(European_Union)]]"

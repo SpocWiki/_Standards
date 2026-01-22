@@ -26,7 +26,6 @@ tags:
 title: is_a_digital_document_permission Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Intangible]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Digital_Document_Permission|Digital_Document_Permission]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.public|Digital_Document_Permission.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.personal|Digital_Document_Permission.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.secret|Digital_Document_Permission.secret]]"
 dv_has_:
+  parent_class: "[[../Intangible]]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, grantee, identifier, image, mainEntityOfPage, name, permissionType, potentialAction, sameAs, subjectOf, url ]"
 dv_has_parent_class: "[[../Intangible]]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, grantee, identifier, image, mainEntityOfPage, name, permissionType, potentialAction, sameAs, subjectOf, url ]"

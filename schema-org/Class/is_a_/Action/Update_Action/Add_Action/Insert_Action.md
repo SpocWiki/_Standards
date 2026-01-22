@@ -26,7 +26,6 @@ tags:
 title: is_an_insert_action Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../AddAction]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Action/Update_Action/Add_Action/Insert_Action|Insert_Action]]"
     - "[[/_public/schema-org/Class/is_a_/Action/Update_Action/Add_Action/Insert_Action.public|Insert_Action.public]]"
@@ -36,7 +35,8 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Action/Update_Action/Add_Action/Insert_Action.personal|Insert_Action.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Action/Update_Action/Add_Action/Insert_Action.secret|Insert_Action.secret]]"
 dv_has_:
-  sub_classes: "[ AppendAction, PrependAction ]"
+  parent_class: "[[../AddAction]]"
+  child_class: "[ AppendAction, PrependAction ]"
   properties: "[ actionStatus, additionalType, agent, alternateName, collection, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, targetCollection, toLocation, url ]"
 dv_has_parent_class: "[[../AddAction]]"
 dv_has_child_classes: "[ AppendAction, PrependAction ]"

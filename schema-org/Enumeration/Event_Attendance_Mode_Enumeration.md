@@ -27,7 +27,7 @@ title: is_an_event_attendance_mode_enumeration Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../Enumeration]]"
+  parent_class: "[[../Enumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Event_Attendance_Mode_Enumeration|Event_Attendance_Mode_Enumeration]]"
     - "[[/_public/schema-org/Enumeration/Event_Attendance_Mode_Enumeration.public|Event_Attendance_Mode_Enumeration.public]]"

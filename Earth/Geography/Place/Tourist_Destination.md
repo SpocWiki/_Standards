@@ -25,12 +25,11 @@ tags:
   - schema-org/Class
 title: is_a_tourist_destination Class
 type: Type
-dv_#is_:
-  part_of: https://pending.schema.org
-  sub_class_of: "[[../Place]]"
-dv_#has_:
+dv_has_:
+  parent_class: "[[../Place]]"
   properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, includesAttraction, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, touristType, url ]"
 dv_is_:
+  part_of: https://pending.schema.org
   same_as:
     - "[[/_Standards/Earth/Geography/Place/Tourist_Destination|Tourist_Destination]]"
     - "[[/_public/Earth/Geography/Place/Tourist_Destination.public|Tourist_Destination.public]]"

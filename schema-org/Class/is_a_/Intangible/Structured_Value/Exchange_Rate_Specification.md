@@ -27,7 +27,7 @@ title: is_an_exchange_rate_specification Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../StructuredValue]]"
+  parent_class: "[[../StructuredValue]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Exchange_Rate_Specification|Exchange_Rate_Specification]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Exchange_Rate_Specification.public|Exchange_Rate_Specification.public]]"

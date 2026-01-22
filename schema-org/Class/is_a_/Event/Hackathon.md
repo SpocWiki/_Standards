@@ -25,7 +25,7 @@ title: is_a_hackathon Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../Event]]"
+  parent_class: "[[../Event]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Event/Hackathon|Hackathon]]"
     - "[[/_public/schema-org/Class/is_a_/Event/Hackathon.public|Hackathon.public]]"

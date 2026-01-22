@@ -27,7 +27,7 @@ title: is_an_educational_occupational_program Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../Intangible]]"
+  parent_class: "[[../Intangible]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Educational_Occupational_Program|Educational_Occupational_Program]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Educational_Occupational_Program.public|Educational_Occupational_Program.public]]"
@@ -37,7 +37,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Educational_Occupational_Program.personal|Educational_Occupational_Program.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Educational_Occupational_Program.secret|Educational_Occupational_Program.secret]]"
 dv_has_:
-  sub_classes: "[ WorkBasedProgram ]"
+  child_class: "[ WorkBasedProgram ]"
   properties: "[ additionalType, alternateName, applicationDeadline, applicationStartDate, dayOfWeek, description, disambiguatingDescription, educationalCredentialAwarded, educationalProgramMode, endDate, financialAidEligible, hasCourse, identifier, image, mainEntityOfPage, maximumEnrollment, name, numberOfCredits, occupationalCategory, occupationalCredentialAwarded, offers, potentialAction, programPrerequisites, programType, provider, salaryUponCompletion, sameAs, startDate, subjectOf, termDuration, termsPerYear, timeOfDay, timeToComplete, trainingSalary, typicalCreditsPerTerm, url ]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../Intangible]]"

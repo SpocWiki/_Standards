@@ -26,7 +26,6 @@ tags:
 title: is_a_property_value Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../StructuredValue]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value|Property_Value]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value.public|Property_Value.public]]"
@@ -36,9 +35,10 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value.personal|Property_Value.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value.secret|Property_Value.secret]]"
 dv_has_:
-  sub_classes: "[ LocationFeatureSpecification ]"
+  parent_class: "[[../Structured_Value|Structured_Value]]"
+  child_class: "[[Property_Value/Location_Feature_Specification|Location_Feature_Specification]]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, maxValue, measurementTechnique, minValue, name, potentialAction, propertyID, sameAs, subjectOf, unitCode, unitText, url, value, valueReference ]"
-dv_has_parent_class: "[[../StructuredValue]]"
+dv_has_parent_class: "[[../Structured_Value|Structured_Value]]"
 dv_has_child_classes: "[ LocationFeatureSpecification ]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, maxValue, measurementTechnique, minValue, name, potentialAction, propertyID, sameAs, subjectOf, unitCode, unitText, url, value, valueReference ]"
 dv_is_same_as:
@@ -51,14 +51,22 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value.secret|Property_Value.secret]]"
 ---
 
+# [[Property_Value]] 
+
 Class of all property_values.
 
 Tag Instances like this: 
 #is_a_/property_value
 
-A property-value pair, e.g. representing a feature of a product or place. Use the 'name' property for the name of the property. If there is an additional human-readable version of the value, put that into the 'description' property.
+A property-value pair, e.g. representing a feature of a product or place. 
+Use the 'name' property for the name of the property. 
+If there is an additional human-readable version of the value, 
+put that into the 'description' property.
 
-Always use specific schema.org properties when a) they exist and b) you can populate them. Using PropertyValue as a substitute will typically not trigger the same effect as using the original, specific property.
+Always use specific schema.org properties 
+when a) they exist and b) you can populate them. 
+Using PropertyValue as a substitute will typically not trigger the same effect 
+as using the original, specific property.
 
 has_parent_class = `=this.dv_has_parent_class` 
 

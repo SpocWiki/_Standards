@@ -26,7 +26,6 @@ tags:
 title: is_a_payment_charge_specification Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../PriceSpecification]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Payment_Charge_Specification|Payment_Charge_Specification]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Payment_Charge_Specification.public|Payment_Charge_Specification.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Payment_Charge_Specification.personal|Payment_Charge_Specification.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Payment_Charge_Specification.secret|Payment_Charge_Specification.secret]]"
 dv_has_:
+  parent_class: "[[../PriceSpecification]]"
   properties: "[ additionalType, alternateName, appliesToDeliveryMethod, appliesToPaymentMethod, description, disambiguatingDescription, eligibleQuantity, eligibleTransactionVolume, identifier, image, mainEntityOfPage, maxPrice, minPrice, name, potentialAction, price, priceCurrency, sameAs, subjectOf, url, validFrom, validThrough, valueAddedTaxIncluded ]"
 dv_has_parent_class: "[[../PriceSpecification]]"
 dv_has_properties: "[ additionalType, alternateName, appliesToDeliveryMethod, appliesToPaymentMethod, description, disambiguatingDescription, eligibleQuantity, eligibleTransactionVolume, identifier, image, mainEntityOfPage, maxPrice, minPrice, name, potentialAction, price, priceCurrency, sameAs, subjectOf, url, validFrom, validThrough, valueAddedTaxIncluded ]"

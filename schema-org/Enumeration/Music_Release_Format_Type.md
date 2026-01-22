@@ -25,8 +25,9 @@ tags:
   - schema-org/Class
 title: is_a_music_release_format_type Class
 type: Type
+dv_has_:
+  parent_class: "[[../Enumeration]]"
 dv_is_:
-  sub_class_of: "[[../Enumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Music_Release_Format_Type|Music_Release_Format_Type]]"
     - "[[/_public/schema-org/Enumeration/Music_Release_Format_Type.public|Music_Release_Format_Type.public]]"

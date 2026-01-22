@@ -26,7 +26,6 @@ tags:
 title: is_an_ownership_info Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../StructuredValue]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Ownership_Info|Ownership_Info]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Ownership_Info.public|Ownership_Info.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Ownership_Info.personal|Ownership_Info.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Ownership_Info.secret|Ownership_Info.secret]]"
 dv_has_:
+  parent_class: "[[../StructuredValue]]"
   properties: "[ acquiredFrom, additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, ownedFrom, ownedThrough, potentialAction, sameAs, subjectOf, typeOfGood, url ]"
 dv_has_parent_class: "[[../StructuredValue]]"
 dv_has_properties: "[ acquiredFrom, additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, ownedFrom, ownedThrough, potentialAction, sameAs, subjectOf, typeOfGood, url ]"

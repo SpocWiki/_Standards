@@ -26,7 +26,6 @@ tags:
 title: is_an_opening_hours_specification Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../StructuredValue]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Opening_Hours_Specification|Opening_Hours_Specification]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Opening_Hours_Specification.public|Opening_Hours_Specification.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Opening_Hours_Specification.personal|Opening_Hours_Specification.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Opening_Hours_Specification.secret|Opening_Hours_Specification.secret]]"
 dv_has_:
+  parent_class: "[[../StructuredValue]]"
   properties: "[ additionalType, alternateName, closes, dayOfWeek, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, opens, potentialAction, sameAs, subjectOf, url, validFrom, validThrough ]"
 dv_has_parent_class: "[[../StructuredValue]]"
 dv_has_properties: "[ additionalType, alternateName, closes, dayOfWeek, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, opens, potentialAction, sameAs, subjectOf, url, validFrom, validThrough ]"

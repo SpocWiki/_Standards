@@ -26,8 +26,9 @@ tags:
   - schema-org/Class
 title: is_out_of_stock Class
 type: Type
+dv_has_:
+  parent_class: "[[../ItemAvailability]]"
 dv_is_:
-  sub_class_of: "[[../ItemAvailability]]"
   enum_of: "[[../ItemAvailability]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Item_Availability/Out_of_Stock|Out_of_Stock]]"

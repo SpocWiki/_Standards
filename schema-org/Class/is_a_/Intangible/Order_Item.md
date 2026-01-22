@@ -26,7 +26,6 @@ tags:
 title: is_an_order_item Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Intangible]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Order_Item|Order_Item]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Order_Item.public|Order_Item.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Order_Item.personal|Order_Item.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Order_Item.secret|Order_Item.secret]]"
 dv_has_:
+  parent_class: "[[../Intangible]]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, orderDelivery, orderItemNumber, orderItemStatus, orderQuantity, orderedItem, potentialAction, sameAs, subjectOf, url ]"
 dv_has_parent_class: "[[../Intangible]]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, orderDelivery, orderItemNumber, orderItemStatus, orderQuantity, orderedItem, potentialAction, sameAs, subjectOf, url ]"

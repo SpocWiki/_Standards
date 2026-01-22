@@ -25,8 +25,9 @@ tags:
   - schema-org/Class
 title: is_an_action_status_type Class
 type: Type
+dv_has_:
+  parent_class: "[[../StatusEnumeration]]"
 dv_is_:
-  sub_class_of: "[[../StatusEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Action_Status_Type|Action_Status_Type]]"
     - "[[/_public/schema-org/Enumeration/Status_Enumeration/Action_Status_Type.public|Action_Status_Type.public]]"

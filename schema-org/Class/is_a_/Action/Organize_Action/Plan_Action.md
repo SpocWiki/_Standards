@@ -26,7 +26,6 @@ tags:
 title: is_a_plan_action Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../OrganizeAction]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Action/Organize_Action/Plan_Action|Plan_Action]]"
     - "[[/_public/schema-org/Class/is_a_/Action/Organize_Action/Plan_Action.public|Plan_Action.public]]"
@@ -36,7 +35,8 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Action/Organize_Action/Plan_Action.personal|Plan_Action.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Action/Organize_Action/Plan_Action.secret|Plan_Action.secret]]"
 dv_has_:
-  sub_classes: "[ CancelAction, ReserveAction, ScheduleAction ]"
+  parent_class: "[[../OrganizeAction]]"
+  child_class: "[ CancelAction, ReserveAction, ScheduleAction ]"
   properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, scheduledTime, startTime, subjectOf, target, url ]"
 dv_has_parent_class: "[[../OrganizeAction]]"
 dv_has_child_classes: "[ CancelAction, ReserveAction, ScheduleAction ]"

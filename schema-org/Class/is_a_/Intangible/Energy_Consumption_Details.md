@@ -27,7 +27,7 @@ title: is_an_energy_consumption_details Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../Intangible]]"
+  parent_class: "[[../Intangible]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details|Energy_Consumption_Details]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details.public|Energy_Consumption_Details.public]]"

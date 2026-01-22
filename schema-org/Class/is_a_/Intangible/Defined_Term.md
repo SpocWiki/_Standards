@@ -28,7 +28,7 @@ title: is_a_defined_term Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../Intangible]]"
+  parent_class: "[[../Intangible]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Defined_Term|Defined_Term]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Defined_Term.public|Defined_Term.public]]"
@@ -38,7 +38,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Defined_Term.personal|Defined_Term.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Defined_Term.secret|Defined_Term.secret]]"
 dv_has_:
-  sub_classes: "[ [[defined_term/category_code|CategoryCode]] ]"
+  child_class: "[ [[defined_term/category_code|CategoryCode]] ]"
   properties: "[ [[../../../Property/has_url_for/has_url_for_additional_type|additionalType]], [[../../../Property/Texts/has_alternate_name|alternateName]], [[../../../Property/Texts/has_description|description]], [[../../../Property/Texts/has_disambiguating_description|disambiguatingDescription]], [[../../../Relation/has/has_identifier|identifier]], [[../../../Relation/has/has_image|image]], [[../../../Relation/is/is_in_defined_term_set|inDefinedTermSet]], [[../../../Relation/is/is_main_entity_of_page|mainEntityOfPage]], [[../../../Property/Texts/has_name|name]], [[../../../Relation/has/has_potential_action|potentialAction]], [[../../../Relation/is_same_as|sameAs]], [[../../../Relation/is/is_subject_of|subjectOf]], [[../../../Property/Texts/has_term-code|termCode]], url ] ]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../Intangible]]"

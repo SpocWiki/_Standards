@@ -26,7 +26,6 @@ tags:
 title: is_a_control_action Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Action]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Action/Control_Action|Control_Action]]"
     - "[[/_public/schema-org/Class/is_a_/Action/Control_Action.public|Control_Action.public]]"
@@ -36,7 +35,8 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Action/Control_Action.personal|Control_Action.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Action/Control_Action.secret|Control_Action.secret]]"
 dv_has_:
-  sub_classes: "[ ActivateAction, DeactivateAction, ResumeAction, SuspendAction ]"
+  parent_class: "[[../Action]]"
+  child_class: "[ ActivateAction, DeactivateAction, ResumeAction, SuspendAction ]"
   properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
 dv_has_parent_class: "[[../Action]]"
 dv_has_child_classes: "[ ActivateAction, DeactivateAction, ResumeAction, SuspendAction ]"

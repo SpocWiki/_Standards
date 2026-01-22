@@ -25,8 +25,9 @@ tags:
   - schema-org/Class
 title: is_a_physical_activity_category Class
 type: Type
+dv_has_:
+  parent_class: "[[../Enumeration]]"
 dv_is_:
-  sub_class_of: "[[../Enumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Physical_Activity_Category|Physical_Activity_Category]]"
     - "[[/_public/schema-org/Enumeration/Physical_Activity_Category.public|Physical_Activity_Category.public]]"

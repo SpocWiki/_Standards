@@ -26,7 +26,6 @@ tags:
 title: is_an_arrive_action Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../MoveAction]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Action/Move_Action/Arrive_Action|Arrive_Action]]"
     - "[[/_public/schema-org/Class/is_a_/Action/Move_Action/Arrive_Action.public|Arrive_Action.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Action/Move_Action/Arrive_Action.personal|Arrive_Action.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Action/Move_Action/Arrive_Action.secret|Arrive_Action.secret]]"
 dv_has_:
+  parent_class: "[[../MoveAction]]"
   properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ]"
 dv_has_parent_class: "[[../MoveAction]]"
 dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ]"

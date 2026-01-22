@@ -28,7 +28,7 @@ title: is_a_return_label_customer_responsibility Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../ReturnLabelSourceEnumeration]]"
+  parent_class: "[[../ReturnLabelSourceEnumeration]]"
   enum_of: "[[../ReturnLabelSourceEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Return_Label_Source_Enumeration/Return_Label_Customer_Responsibility|Return_Label_Customer_Responsibility]]"

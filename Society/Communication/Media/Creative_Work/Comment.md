@@ -33,7 +33,7 @@ Tag Instances like this:
 A comment on an item - for example, a comment on a blog post. 
 
 The comment's content is expressed via the [[text]] property, 
-and its topic via [[../../../../schema-org/Relation/is/is_about|is_about]] properties shared with all [[../Creative_Work]].
+and its topic via [[../../../../schema-org/Relation/is/has_subject|has_subject]] properties shared with all [[../Creative_Work]].
 
 #has_/parent_class :: [[../Creative_Work]]  
 

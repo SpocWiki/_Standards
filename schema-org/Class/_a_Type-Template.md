@@ -35,7 +35,7 @@ title: is_a_{{label_snail}} Class
 type: Type
 dv_is_:
   part_of: "{{isPartOf}}"
-  sub_class_of: "[[../{{subTypeOf}}]]"
+  parent_class: "[[../{{subTypeOf}}]]"
   enum_of: "[[../{{enumerationtype}}]]"
   same_as:
     - "[[/_Standards/schema-org/Class/_a_Type-Template|_a_Type-Template]]"
@@ -46,7 +46,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/_a_Type-Template.personal|_a_Type-Template.personal]]"
     - "[[/_secret/schema-org/Class/_a_Type-Template.secret|_a_Type-Template.secret]]"
 dv_has_:
-  sub_classes: "[ {{subTypes}} ]"
+  child_class: "[ {{subTypes}} ]"
   properties: "[ {{properties}} ]"
 dv_is_part_of: "{{isPartOf}}"
 dv_has_parent_class: "[[../{{subTypeOf}}]]"

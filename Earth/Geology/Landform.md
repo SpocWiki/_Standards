@@ -48,10 +48,9 @@ equivalent_class:
   - "[[_Standards/WikiData/WD~https_id.oclc.org_worldcat_entity_Q340,340]]"
   - https://schema.org/Landform
 Wikidata_usage_instructions: Instances of this class are actual physical landforms, e.g., Mount Everest, not types of landforms like glacier.
-dv_#is_:
-  sub_class_of: "[[../Geography/Place/Administrative_Area/City|City]]"
-dv_#has_:
-  sub_classes: "[ BodyOfWater, Continent, Mountain, Volcano ]"
+dv_has_:
+  parent_class: "[[../Geography/Place/Administrative_Area/City|City]]"
+  child_class: "[ BodyOfWater, Continent, Mountain, Volcano ]"
   properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
 dv_is_:
   same_as:

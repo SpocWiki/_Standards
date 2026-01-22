@@ -26,8 +26,9 @@ tags:
   - schema-org/Class
 title: is_a_rsvp_response_maybe Class
 type: Type
+dv_has_:
+  parent_class: "[[../RsvpResponseType]]"
 dv_is_:
-  sub_class_of: "[[../RsvpResponseType]]"
   enum_of: "[[../RsvpResponseType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe|Rsvp_Response_Maybe]]"

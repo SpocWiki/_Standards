@@ -26,7 +26,6 @@ tags:
 title: is_a_review_action Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../AssessAction]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Action/Assess_Action/Review_Action|Review_Action]]"
     - "[[/_public/schema-org/Class/is_a_/Action/Assess_Action/Review_Action.public|Review_Action.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Action/Assess_Action/Review_Action.personal|Review_Action.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Action/Assess_Action/Review_Action.secret|Review_Action.secret]]"
 dv_has_:
+  parent_class: "[[../AssessAction]]"
   properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, resultReview, sameAs, startTime, subjectOf, target, url ]"
 dv_has_parent_class: "[[../AssessAction]]"
 dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, resultReview, sameAs, startTime, subjectOf, target, url ]"

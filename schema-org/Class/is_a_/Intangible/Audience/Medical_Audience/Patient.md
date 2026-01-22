@@ -25,7 +25,6 @@ tags:
 title: is_a_patient Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../MedicalAudience, Person]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Audience/Medical_Audience/Patient|Patient]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Audience/Medical_Audience/Patient.public|Patient.public]]"
@@ -35,6 +34,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Audience/Medical_Audience/Patient.personal|Patient.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Audience/Medical_Audience/Patient.secret|Patient.secret]]"
 dv_has_:
+  parent_class: "[[../MedicalAudience, Person]]"
   properties: "[ additionalName, additionalType, address, affiliation, alternateName, alumniOf, audienceType, award, awards, birthDate, birthPlace, brand, callSign, children, colleague, colleagues, contactPoint, contactPoints, deathDate, deathPlace, description, diagnosis, disambiguatingDescription, drug, duns, email, familyName, faxNumber, follows, funder, funding, gender, geographicArea, givenName, globalLocationNumber, hasCredential, hasOccupation, hasOfferCatalog, hasPOS, healthCondition, height, homeLocation, honorificPrefix, honorificSuffix, identifier, image, interactionStatistic, isicV4, jobTitle, knows, knowsAbout, knowsLanguage, mainEntityOfPage, makesOffer, memberOf, naics, name, nationality, netWorth, owns, parent, parents, performerIn, potentialAction, publishingPrinciples, relatedTo, requiredGender, requiredMaxAge, requiredMinAge, sameAs, seeks, sibling, siblings, sponsor, spouse, subjectOf, suggestedAge, suggestedGender, suggestedMaxAge, suggestedMeasurement, suggestedMinAge, taxID, telephone, url, vatID, weight, workLocation, worksFor ]"
 dv_has_parent_class: "[[../MedicalAudience, Person]]"
 dv_has_properties: "[ additionalName, additionalType, address, affiliation, alternateName, alumniOf, audienceType, award, awards, birthDate, birthPlace, brand, callSign, children, colleague, colleagues, contactPoint, contactPoints, deathDate, deathPlace, description, diagnosis, disambiguatingDescription, drug, duns, email, familyName, faxNumber, follows, funder, funding, gender, geographicArea, givenName, globalLocationNumber, hasCredential, hasOccupation, hasOfferCatalog, hasPOS, healthCondition, height, homeLocation, honorificPrefix, honorificSuffix, identifier, image, interactionStatistic, isicV4, jobTitle, knows, knowsAbout, knowsLanguage, mainEntityOfPage, makesOffer, memberOf, naics, name, nationality, netWorth, owns, parent, parents, performerIn, potentialAction, publishingPrinciples, relatedTo, requiredGender, requiredMaxAge, requiredMinAge, sameAs, seeks, sibling, siblings, sponsor, spouse, subjectOf, suggestedAge, suggestedGender, suggestedMaxAge, suggestedMeasurement, suggestedMinAge, taxID, telephone, url, vatID, weight, workLocation, worksFor ]"

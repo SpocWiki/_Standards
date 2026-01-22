@@ -26,7 +26,6 @@ tags:
 title: is_a_mass Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Quantity]]"
   same_as:
     - "[[/_Standards/schema-org/Predicate/Quantity/has_value_for_mass|has_value_for_mass]]"
     - "[[/_public/schema-org/Predicate/Quantity/has_value_for_mass.public|has_value_for_mass.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Predicate/Quantity/has_value_for_mass.personal|has_value_for_mass.personal]]"
     - "[[/_secret/schema-org/Predicate/Quantity/has_value_for_mass.secret|has_value_for_mass.secret]]"
 dv_has_:
+  parent_class: "[[../Quantity]]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
 dv_has_parent_class: "[[../Quantity]]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"

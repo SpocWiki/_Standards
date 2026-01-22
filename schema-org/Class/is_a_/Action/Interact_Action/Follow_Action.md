@@ -26,7 +26,6 @@ tags:
 title: is_a_follow_action Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../InteractAction]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Action/Interact_Action/Follow_Action|Follow_Action]]"
     - "[[/_public/schema-org/Class/is_a_/Action/Interact_Action/Follow_Action.public|Follow_Action.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Action/Interact_Action/Follow_Action.personal|Follow_Action.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Action/Interact_Action/Follow_Action.secret|Follow_Action.secret]]"
 dv_has_:
+  parent_class: "[[../InteractAction]]"
   properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, followee, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
 dv_has_parent_class: "[[../InteractAction]]"
 dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, followee, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"

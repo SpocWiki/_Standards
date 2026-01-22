@@ -26,7 +26,6 @@ tags:
 title: is_a_check_in_action Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../CommunicateAction]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Check_in_Action|Check_in_Action]]"
     - "[[/_public/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Check_in_Action.public|Check_in_Action.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Check_in_Action.personal|Check_in_Action.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Check_in_Action.secret|Check_in_Action.secret]]"
 dv_has_:
+  parent_class: "[[../CommunicateAction]]"
   properties: "[ about, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, url ]"
 dv_has_parent_class: "[[../CommunicateAction]]"
 dv_has_properties: "[ about, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, url ]"

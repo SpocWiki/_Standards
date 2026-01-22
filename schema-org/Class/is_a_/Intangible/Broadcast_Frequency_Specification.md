@@ -26,7 +26,6 @@ tags:
 title: is_a_broadcast_frequency_specification Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Intangible]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Broadcast_Frequency_Specification|Broadcast_Frequency_Specification]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Broadcast_Frequency_Specification.public|Broadcast_Frequency_Specification.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Broadcast_Frequency_Specification.personal|Broadcast_Frequency_Specification.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Broadcast_Frequency_Specification.secret|Broadcast_Frequency_Specification.secret]]"
 dv_has_:
+  parent_class: "[[../Intangible]]"
   properties: "[ additionalType, alternateName, broadcastFrequencyValue, broadcastSignalModulation, broadcastSubChannel, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
 dv_has_parent_class: "[[../Intangible]]"
 dv_has_properties: "[ additionalType, alternateName, broadcastFrequencyValue, broadcastSignalModulation, broadcastSubChannel, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"

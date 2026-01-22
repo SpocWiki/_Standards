@@ -107,13 +107,12 @@ Unicode_character: 🇦🇶
 U_S_National_Archives_Identifier: 10035701
 Wolfram_Language_entity_code: Entity["HistoricalCountry", "Antarctica"]
 dv_has_:
+  code: AN
   name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Antarctica
 dv_has_name_en: Antarctica
 dv_has_name_de: Antarktis
-dv_#has_:
-  code: AN
 dv_is_:
   same_as:
     - "[[../../WikiData/WD~Antarctica,51|WD~Antarctica,51]]"

@@ -25,8 +25,9 @@ tags:
   - schema-org/Class
 title: is_a_restricted_diet Class
 type: Type
+dv_has_:
+  parent_class: "[[../Enumeration]]"
 dv_is_:
-  sub_class_of: "[[../Enumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Restricted_Diet|Restricted_Diet]]"
     - "[[/_public/schema-org/Enumeration/Restricted_Diet.public|Restricted_Diet.public]]"

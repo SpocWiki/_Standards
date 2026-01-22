@@ -26,7 +26,6 @@ tags:
 title: is_an_engine_specification Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../StructuredValue]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Engine_Specification|Engine_Specification]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Engine_Specification.public|Engine_Specification.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Engine_Specification.personal|Engine_Specification.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Engine_Specification.secret|Engine_Specification.secret]]"
 dv_has_:
+  parent_class: "[[../StructuredValue]]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, engineDisplacement, enginePower, engineType, fuelType, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, torque, url ]"
 dv_has_parent_class: "[[../StructuredValue]]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, engineDisplacement, enginePower, engineType, fuelType, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, torque, url ]"

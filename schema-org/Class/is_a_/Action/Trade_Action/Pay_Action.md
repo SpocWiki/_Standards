@@ -26,7 +26,6 @@ tags:
 title: is_a_pay_action Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../TradeAction]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Action/Trade_Action/Pay_Action|Pay_Action]]"
     - "[[/_public/schema-org/Class/is_a_/Action/Trade_Action/Pay_Action.public|Pay_Action.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Action/Trade_Action/Pay_Action.personal|Pay_Action.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Action/Trade_Action/Pay_Action.secret|Pay_Action.secret]]"
 dv_has_:
+  parent_class: "[[../TradeAction]]"
   properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, price, priceCurrency, priceSpecification, provider, recipient, result, sameAs, startTime, subjectOf, target, url ]"
 dv_has_parent_class: "[[../TradeAction]]"
 dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, price, priceCurrency, priceSpecification, provider, recipient, result, sameAs, startTime, subjectOf, target, url ]"

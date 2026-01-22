@@ -28,7 +28,7 @@ title: is_an_invoice_price Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../PriceTypeEnumeration]]"
+  parent_class: "[[../PriceTypeEnumeration]]"
   enum_of: "[[../PriceTypeEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Price_Type_Enumeration/Invoice_Price|Invoice_Price]]"

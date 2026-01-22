@@ -24,7 +24,6 @@ tags:
 title: is_a_brand Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Intangible]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Brand|Brand]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Brand.public|Brand.public]]"
@@ -34,6 +33,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Brand.personal|Brand.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Brand.secret|Brand.secret]]"
 dv_has_:
+  parent_class: "[[../Intangible]]"
   properties: "[ additionalType, aggregateRating, alternateName, description, disambiguatingDescription, identifier, image, logo, mainEntityOfPage, name, potentialAction, review, sameAs, slogan, subjectOf, url ]"
 dv_has_parent_class: "[[../Intangible]]"
 dv_has_properties: "[ additionalType, aggregateRating, alternateName, description, disambiguatingDescription, identifier, image, logo, mainEntityOfPage, name, potentialAction, review, sameAs, slogan, subjectOf, url ]"

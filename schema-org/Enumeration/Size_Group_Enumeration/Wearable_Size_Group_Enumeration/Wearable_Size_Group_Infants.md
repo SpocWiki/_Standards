@@ -28,7 +28,7 @@ title: is_a_wearable_size_group_infants Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../WearableSizeGroupEnumeration]]"
+  parent_class: "[[../WearableSizeGroupEnumeration]]"
   enum_of: "[[../WearableSizeGroupEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Infants|Wearable_Size_Group_Infants]]"

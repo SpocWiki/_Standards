@@ -26,8 +26,9 @@ tags:
   - schema-org/Class
 title: is_a_payment_due Class
 type: Type
+dv_has_:
+  parent_class: "[[../PaymentStatusType]]"
 dv_is_:
-  sub_class_of: "[[../PaymentStatusType]]"
   enum_of: "[[../PaymentStatusType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Due|Payment_Due]]"

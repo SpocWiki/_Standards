@@ -25,8 +25,9 @@ tags:
   - schema-org/Class
 title: is_a_contact_point_option Class
 type: Type
+dv_has_:
+  parent_class: "[[../Enumeration]]"
 dv_is_:
-  sub_class_of: "[[../Enumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Contact_Point_Option|Contact_Point_Option]]"
     - "[[/_public/schema-org/Enumeration/Contact_Point_Option.public|Contact_Point_Option.public]]"

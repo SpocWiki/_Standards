@@ -26,7 +26,6 @@ tags:
 title: is_a_unit_price_specification Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../PriceSpecification]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification|Unit_Price_Specification]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification.public|Unit_Price_Specification.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification.personal|Unit_Price_Specification.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification.secret|Unit_Price_Specification.secret]]"
 dv_has_:
+  parent_class: "[[../PriceSpecification]]"
   properties: "[ additionalType, alternateName, billingDuration, billingIncrement, billingStart, description, disambiguatingDescription, eligibleQuantity, eligibleTransactionVolume, identifier, image, mainEntityOfPage, maxPrice, minPrice, name, potentialAction, price, priceComponentType, priceCurrency, priceType, referenceQuantity, sameAs, subjectOf, unitCode, unitText, url, validFrom, validThrough, valueAddedTaxIncluded ]"
 dv_has_parent_class: "[[../PriceSpecification]]"
 dv_has_properties: "[ additionalType, alternateName, billingDuration, billingIncrement, billingStart, description, disambiguatingDescription, eligibleQuantity, eligibleTransactionVolume, identifier, image, mainEntityOfPage, maxPrice, minPrice, name, potentialAction, price, priceComponentType, priceCurrency, priceType, referenceQuantity, sameAs, subjectOf, unitCode, unitText, url, validFrom, validThrough, valueAddedTaxIncluded ]"

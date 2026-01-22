@@ -26,7 +26,6 @@ tags:
 title: is_a_choose_action Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../AssessAction]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Action/Assess_Action/Choose_Action|Choose_Action]]"
     - "[[/_public/schema-org/Class/is_a_/Action/Assess_Action/Choose_Action.public|Choose_Action.public]]"
@@ -36,7 +35,8 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Action/Assess_Action/Choose_Action.personal|Choose_Action.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Action/Assess_Action/Choose_Action.secret|Choose_Action.secret]]"
 dv_has_:
-  sub_classes: "[ VoteAction ]"
+  parent_class: "[[../AssessAction]]"
+  child_class: "[ VoteAction ]"
   properties: "[ actionOption, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, option, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
 dv_has_parent_class: "[[../AssessAction]]"
 dv_has_child_classes: "[ VoteAction ]"

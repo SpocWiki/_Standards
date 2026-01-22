@@ -24,8 +24,9 @@ tags:
   - schema-org/Class
 title: is_a_flexibility Class
 type: Type
+dv_has_:
+  parent_class: "[[../PhysicalActivityCategory]]"
 dv_is_:
-  sub_class_of: "[[../PhysicalActivityCategory]]"
   enum_of: "[[../PhysicalActivityCategory]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Physical_Activity_Category/Flexibility|Flexibility]]"

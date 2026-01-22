@@ -12,7 +12,7 @@ tags:
 type: Continent
 dv_has_name_en: Australia
 dv_has_name_de: Australien
-dv_#has_:
+dv_has_:
   code: AU
 dv_is_:
   same_as:

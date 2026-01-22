@@ -26,7 +26,6 @@ tags:
 title: is_a_rsvp_action Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../InformAction]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Inform_Action/Rsvp_Action|Rsvp_Action]]"
     - "[[/_public/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Inform_Action/Rsvp_Action.public|Rsvp_Action.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Inform_Action/Rsvp_Action.personal|Rsvp_Action.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action/Inform_Action/Rsvp_Action.secret|Rsvp_Action.secret]]"
 dv_has_:
+  parent_class: "[[../InformAction]]"
   properties: "[ about, actionStatus, additionalNumberOfGuests, additionalType, agent, alternateName, comment, description, disambiguatingDescription, endTime, error, event, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, rsvpResponse, sameAs, startTime, subjectOf, target, url ]"
 dv_has_parent_class: "[[../InformAction]]"
 dv_has_properties: "[ about, actionStatus, additionalNumberOfGuests, additionalType, agent, alternateName, comment, description, disambiguatingDescription, endTime, error, event, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, rsvpResponse, sameAs, startTime, subjectOf, target, url ]"

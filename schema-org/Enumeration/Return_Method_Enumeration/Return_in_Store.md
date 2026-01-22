@@ -28,7 +28,7 @@ title: is_a_return_in_store Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../ReturnMethodEnumeration]]"
+  parent_class: "[[../ReturnMethodEnumeration]]"
   enum_of: "[[../ReturnMethodEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Return_Method_Enumeration/Return_in_Store|Return_in_Store]]"

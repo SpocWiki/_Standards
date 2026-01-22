@@ -26,7 +26,6 @@ tags:
 title: is_a_service_channel Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Intangible]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Intangible/Service_Channel|Service_Channel]]"
     - "[[/_public/schema-org/Class/is_a_/Intangible/Service_Channel.public|Service_Channel.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Service_Channel.personal|Service_Channel.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Service_Channel.secret|Service_Channel.secret]]"
 dv_has_:
+  parent_class: "[[../Intangible]]"
   properties: "[ additionalType, alternateName, availableLanguage, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, processingTime, providesService, sameAs, serviceLocation, servicePhone, servicePostalAddress, serviceSmsNumber, serviceUrl, subjectOf, url ]"
 dv_has_parent_class: "[[../Intangible]]"
 dv_has_properties: "[ additionalType, alternateName, availableLanguage, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, processingTime, providesService, sameAs, serviceLocation, servicePhone, servicePostalAddress, serviceSmsNumber, serviceUrl, subjectOf, url ]"

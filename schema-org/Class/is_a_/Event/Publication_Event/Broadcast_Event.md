@@ -26,7 +26,6 @@ tags:
 title: is_a_broadcast_event Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../PublicationEvent]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Event/Publication_Event/Broadcast_Event|Broadcast_Event]]"
     - "[[/_public/schema-org/Class/is_a_/Event/Publication_Event/Broadcast_Event.public|Broadcast_Event.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Event/Publication_Event/Broadcast_Event.personal|Broadcast_Event.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Event/Publication_Event/Broadcast_Event.secret|Broadcast_Event.secret]]"
 dv_has_:
+  parent_class: "[[../PublicationEvent]]"
   properties: "[ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, broadcastOfEvent, composer, contributor, description, director, disambiguatingDescription, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, free, funder, funding, identifier, image, inLanguage, isAccessibleForFree, isLiveBroadcast, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, publishedBy, publishedOn, recordedIn, remainingAttendeeCapacity, review, sameAs, sponsor, startDate, subEvent, subEvents, subjectOf, subtitleLanguage, superEvent, translator, typicalAgeRange, url, videoFormat, workFeatured, workPerformed ]"
 dv_has_parent_class: "[[../PublicationEvent]]"
 dv_has_properties: "[ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, broadcastOfEvent, composer, contributor, description, director, disambiguatingDescription, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, free, funder, funding, identifier, image, inLanguage, isAccessibleForFree, isLiveBroadcast, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, publishedBy, publishedOn, recordedIn, remainingAttendeeCapacity, review, sameAs, sponsor, startDate, subEvent, subEvents, subjectOf, subtitleLanguage, superEvent, translator, typicalAgeRange, url, videoFormat, workFeatured, workPerformed ]"

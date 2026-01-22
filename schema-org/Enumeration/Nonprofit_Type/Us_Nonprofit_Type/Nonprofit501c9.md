@@ -26,7 +26,7 @@ title: is_a_nonprofit501c9 Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../USNonprofitType]]"
+  parent_class: "[[../USNonprofitType]]"
   enum_of: "[[../USNonprofitType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c9|Nonprofit501c9]]"

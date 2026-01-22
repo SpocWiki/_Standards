@@ -26,8 +26,9 @@ tags:
   - schema-org/Class
 title: is_a_demo_album Class
 type: Type
+dv_has_:
+  parent_class: "[[../MusicAlbumProductionType]]"
 dv_is_:
-  sub_class_of: "[[../MusicAlbumProductionType]]"
   enum_of: "[[../MusicAlbumProductionType]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Music_Album_Production_Type/Demo_Album|Demo_Album]]"

@@ -45,7 +45,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Statistical_Population.personal|Statistical_Population.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Statistical_Population.secret|Statistical_Population.secret]]"
   part_of: https://pending.schema.org
-  sub_class_of: "[[../Intangible]]"
+  parent_class: "[[../Intangible]]"
 dv_has_:
   properties: "[ additionalType, alternateName, constrainingProperty, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, numConstraints, populationType, potentialAction, sameAs, subjectOf, url ]"
 dv_is_same_as:

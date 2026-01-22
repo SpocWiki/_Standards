@@ -58,7 +58,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/Thing.personal|Thing.personal]]"
     - "[[/_secret/schema-org/Class/Thing.secret|Thing.secret]]"
   instance_of: "[[../Class|Class]]"
-  sub_class_of: "[[Thing]]"
+  parent_class: "[[Thing]]"
 dv_has_:
   sub_classes:
     - '[[Class/is_a_/creative_work.md| "[[Action]], [[Class/is_a_/place.md|[Event]], [[../../Society/Agent/Community/Organization/Business/Product]], [[stupid_Type]], [[../../bio/Taxon_Rank/Taxon]] ]'

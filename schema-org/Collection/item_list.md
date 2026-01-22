@@ -25,7 +25,6 @@ tags:
 title: is_an_item_list Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../Class/is_a_/Intangible]]]"
   same_as:
     - "[[/_Standards/schema-org/Collection/item_list|item_list]]"
     - "[[/_public/schema-org/Collection/item_list.public|item_list.public]]"
@@ -35,7 +34,8 @@ dv_is_:
     - "[[/_personal/schema-org/Collection/item_list.personal|item_list.personal]]"
     - "[[/_secret/schema-org/Collection/item_list.secret|item_list.secret]]"
 dv_has_:
-  sub_classes: "[ BreadcrumbList, HowToSection, HowToStep, OfferCatalog ]"
+  parent_class: "[[../Class/is_a_/Intangible]]]"
+  child_class: "[ BreadcrumbList, HowToSection, HowToStep, OfferCatalog ]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, itemListElement, itemListOrder, mainEntityOfPage, name, numberOfItems, potentialAction, sameAs, subjectOf, url ]"
 dv_has_parent_class: "[[../Class/is_a_/Intangible]]]"
 dv_has_child_classes: "[ BreadcrumbList, HowToSection, HowToStep, OfferCatalog ]"

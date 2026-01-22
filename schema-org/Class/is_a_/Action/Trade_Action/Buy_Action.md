@@ -26,7 +26,6 @@ tags:
 title: is_a_buy_action Class
 type: Type
 dv_is_:
-  sub_class_of: "[[../TradeAction]]"
   same_as:
     - "[[/_Standards/schema-org/Class/is_a_/Action/Trade_Action/Buy_Action|Buy_Action]]"
     - "[[/_public/schema-org/Class/is_a_/Action/Trade_Action/Buy_Action.public|Buy_Action.public]]"
@@ -36,6 +35,7 @@ dv_is_:
     - "[[/_personal/schema-org/Class/is_a_/Action/Trade_Action/Buy_Action.personal|Buy_Action.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Action/Trade_Action/Buy_Action.secret|Buy_Action.secret]]"
 dv_has_:
+  parent_class: "[[../TradeAction]]"
   properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, price, priceCurrency, priceSpecification, provider, result, sameAs, seller, startTime, subjectOf, target, url, vendor, warrantyPromise ]"
 dv_has_parent_class: "[[../TradeAction]]"
 dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, price, priceCurrency, priceSpecification, provider, result, sameAs, seller, startTime, subjectOf, target, url, vendor, warrantyPromise ]"

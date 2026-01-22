@@ -26,8 +26,9 @@ tags:
   - schema-org/Class
 title: is_a_four_wheel_drive_configuration Class
 type: Type
+dv_has_:
+  parent_class: "[[../DriveWheelConfigurationValue]]"
 dv_is_:
-  sub_class_of: "[[../DriveWheelConfigurationValue]]"
   enum_of: "[[../DriveWheelConfigurationValue]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value/Four_Wheel_Drive_Configuration|Four_Wheel_Drive_Configuration]]"

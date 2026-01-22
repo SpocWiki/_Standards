@@ -62,7 +62,7 @@ UMLS_CUI: C0220806
 IPTC_NewsCode: mediatopic/20000217
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../../schema-org/Class/is_a_/Bio_Chem_Entity|bio_chem_entity]]"
+  parent_class: "[[../../schema-org/Class/is_a_/Bio_Chem_Entity|bio_chem_entity]]"
   same_as:
     - "[[../../WikiData/WD~Chemical_substance,79529|WD~Chemical_substance,79529]]"
     - "[[/_Standards/Chemistry/Substance/Chemical_Substance|Chemical_Substance]]"

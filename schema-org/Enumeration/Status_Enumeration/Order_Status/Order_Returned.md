@@ -26,8 +26,9 @@ tags:
   - schema-org/Class
 title: is_an_order_returned Class
 type: Type
+dv_has_:
+  parent_class: "[[../OrderStatus]]"
 dv_is_:
-  sub_class_of: "[[../OrderStatus]]"
   enum_of: "[[../OrderStatus]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned|Order_Returned]]"

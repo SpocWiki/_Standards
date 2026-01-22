@@ -28,7 +28,7 @@ title: is_a_size_system_metric Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  sub_class_of: "[[../SizeSystemEnumeration]]"
+  parent_class: "[[../SizeSystemEnumeration]]"
   enum_of: "[[../SizeSystemEnumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Size_System_Enumeration/Size_System_Metric|Size_System_Metric]]"

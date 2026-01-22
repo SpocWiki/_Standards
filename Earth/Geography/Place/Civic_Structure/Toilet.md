@@ -54,6 +54,7 @@ audio: http://commons.wikimedia.org/wiki/Special:FilePath/Flushing%20the%20toile
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Toilet%20banner.JPG
 Commons_category: Toilets (sanitation fixtures)
 dv_is_:
+  part_of: https://pending.schema.org
   same_as:
     - "[[../../../../WikiData/WD~Toilet,7857|WD~Toilet,7857]]"
     - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Toilet|Toilet]]"
@@ -63,10 +64,8 @@ dv_is_:
     - "[[/_private/Earth/Geography/Place/Civic_Structure/Toilet.private|Toilet.private]]"
     - "[[/_personal/Earth/Geography/Place/Civic_Structure/Toilet.personal|Toilet.personal]]"
     - "[[/_secret/Earth/Geography/Place/Civic_Structure/Toilet.secret|Toilet.secret]]"
-dv_#is_:
-  part_of: https://pending.schema.org
-  sub_class_of: "[[../CivicStructure]]"
-dv_#has_:
+dv_has_:
+  parent_class: "[[../CivicStructure]]"
   properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
 dv_is_same_as:
   - "[[../../../../WikiData/WD~Toilet,7857|WD~Toilet,7857]]"
