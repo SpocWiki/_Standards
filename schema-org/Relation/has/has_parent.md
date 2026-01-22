@@ -41,7 +41,11 @@ Use it like this:
 - #has_/parent :: Person  
 - [ has_parent :: Person ] 
 
-The parent (Object) of this person (Subject).
+A parent (Object) of this person (Subject). 
+Typically parent relations are considered unique, so they form a Hierarchy. 
+
+This is not strictly hierarchical, since a Human already has 2 biological Parents of different [[../../../bio/Reproduction/Sexual_Reproduction/Gender|Gender]]. 
+Additionally there can me more legal Parents. 
 
 Relation describes that: 
 
@@ -49,11 +53,12 @@ Relation describes that:
 (has_/name :: has_parent )
 (has_/range :: Person )
 
+Alternatively the terms `_super_` and `_sub_` are common in [[../../../Philosophy/Logic/Logic(Math)|Logic(Math)]], 
+to indicate transitive, but not hierarchical Relations. 
+
 To improve discoverability, 
 - the Names of most transitive, anti-symmetric Relations should be named #has_/parent_ 
 - and their inverse Relations should be named #has_/child_ .
-
-Alternatively the terms `_super_` and `_sub_` are also common, but 
 
 ## Confidential Links & Embeds: 
 

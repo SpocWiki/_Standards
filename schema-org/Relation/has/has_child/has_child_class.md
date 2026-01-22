@@ -32,6 +32,8 @@ dv_has_:
   inverse: "[[../has_parent/has_parent_class]]"
   sub_classes: "[[../../../Class]]"
   domain: "[[../../../Class]]"
+  name: has_child_class
+  range: "[[Thing]]"
 dv_has_child_class: "[[../../../Class]]"
 dv_is_:
   better_than: "[[../../is_similar_to|is_similar_to]]"
@@ -44,9 +46,6 @@ dv_is_:
     - "[[/_private/schema-org/Class/has_child_class.private|has_child_class.private]]"
     - "[[/_personal/schema-org/Class/has_child_class.personal|has_child_class.personal]]"
     - "[[/_secret/schema-org/Class/has_child_class.secret|has_child_class.secret]]"
-dv_#has_:
-  name: has_child_class
-  range: "[[Thing]]"
 dv_is_better_than: "[[../../is_similar_to|is_similar_to]]"
 dv_is_similar_to: "[[../../../../../Knowledge/Engineer/Engineer~Generalization|Engineer~Generalization]]"
 dv_has_domain: "[[../../../Class]]"

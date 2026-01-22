@@ -6,7 +6,7 @@
 Indicates a _has_broader_ relationship to the rdf~object in a hierarchical structure, such as a thesaurus or taxonomy.
 
 This can mean different Things like 
-- #is_/similar_to :: [[../../../schema-org/Collection/is_child_set_of|is_child_set_of]] 
+- #is_/similar_to :: [[../../../schema-org/Relation/has/has_parent/has_parent_set|has_parent_set]] 
 - #is_/similar_to :: [[../../../schema-org/Class/has_parent_class|has_parent_class]] 
 - #is_/similar_to :: [[../../../schema-org/Composite/is_part_of|is_part_of]] 
 - 
