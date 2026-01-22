@@ -30,7 +30,7 @@ type: Predi_Relation
 dv_has_:
   sub_test: MedicalTest
   domain: MedicalTestPanel
-  name: is_child_test
+  name: has_child_test
   range: MedicalTest
 dv_has_child_test: MedicalTest
 dv_is_:
@@ -43,7 +43,7 @@ dv_is_:
     - "[[/_personal/schema-org/Relation/has/has_child_test.personal|has_child_test.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_child_test.secret|has_child_test.secret]]"
 dv_has_domain: MedicalTestPanel
-dv_has_name: is_child_test
+dv_has_name: has_child_test
 dv_has_range: MedicalTest
 dv_is_same_as:
   - "[[has_child_test|has_child_test]]"
@@ -56,7 +56,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- #has_/child_test = `=this.dv_has_child_test`  
+- #has_/child_/test = `=this.dv_has_child_test`  
 - has_child_test = `=this.dv_has_child_test`  
 
 A component test of the panel.

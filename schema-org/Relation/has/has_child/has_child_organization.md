@@ -30,16 +30,17 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- #has_/child_organization :: Organization  
+- #has_/child_/organization :: Organization  
 - [ has_child_organization :: Organization ] 
 
-A relationship between two organizations where the first includes the second, e.g., as a subsidiary. See also: the more specific 'department' property.
+A relationship between two organizations where 
+the first(Subject) includes the second (Object), e.g., as a subsidiary. 
+See also: the more specific 'department' property.
 
 Relation describes that: 
 
 #has_/domain  :: Organization  
-
-(has_/name :: is_child_organization )
+(has_/name :: has_child_organization )
 (has_/range :: Organization )
 
 #has_/inverse  :: parentOrganization  

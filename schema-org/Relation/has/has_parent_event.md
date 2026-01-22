@@ -3,7 +3,9 @@ aliases:
   - has super-event
   - superEvent
   - has_super_event
+  - has_parent_event
   - has super event
+  - has parent event
 confidential: public
 cssclasses:
   - Predicate
@@ -45,7 +47,7 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_super_event|has_super_event]] 
+### #is_/same_as :: [[has_parent_event|has_parent_event]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_super_event.public|has_super_event.public]] 
 

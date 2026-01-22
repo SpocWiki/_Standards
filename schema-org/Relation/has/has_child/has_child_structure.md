@@ -30,7 +30,7 @@ type: Predi_Relation
 dv_has_:
   sub_structure: AnatomicalStructure
   domain: AnatomicalStructure
-  name: is_child_structure
+  name: has_child_structure
   range: AnatomicalStructure
 dv_has_child_structure: AnatomicalStructure
 dv_is_:
@@ -43,7 +43,7 @@ dv_is_:
     - "[[/_personal/schema-org/Relation/has/has_child_structure.personal|has_child_structure.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_child_structure.secret|has_child_structure.secret]]"
 dv_has_domain: AnatomicalStructure
-dv_has_name: is_child_structure
+dv_has_name: has_child_structure
 dv_has_range: AnatomicalStructure
 dv_is_same_as:
   - "[[has_child_structure|has_child_structure]]"
@@ -56,7 +56,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- #has_/child_structure = `=this.dv_has_child_structure`  
+- #has_/child_/structure = `=this.dv_has_child_structure`  
 - has_child_structure = `=this.dv_has_child_structure`  
 
 Component (sub-)structure(s) that comprise this anatomical structure.

@@ -35,21 +35,25 @@ type: Predi_Relation
 
 #is_/child_relation_of :: [[has_creator]] 
 #has_/inverse :: [[has_child]] 
-#is_/same_as :: [[WD~P40]]
+#is_/same_as :: [[WD~P40]] 
 
 Use it like this: 
 - #has_/parent :: Person  
 - [ has_parent :: Person ] 
 
-A parent of this person.
+The parent (Object) of this person (Subject).
 
 Relation describes that: 
 
 #has_/domain  :: Person  
-
 (has_/name :: has_parent )
 (has_/range :: Person )
 
+To improve discoverability, 
+- the Names of most transitive, anti-symmetric Relations should be named #has_/parent_ 
+- and their inverse Relations should be named #has_/child_ .
+
+Alternatively the terms `_super_` and `_sub_` are also common, but 
 
 ## Confidential Links & Embeds: 
 

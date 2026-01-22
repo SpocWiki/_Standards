@@ -30,7 +30,7 @@ type: Predi_Relation
 dv_has_:
   sub_reservation: Reservation
   domain: ReservationPackage
-  name: is_child_reservation
+  name: has_child_reservation
   range: Reservation
 dv_has_child_reservation: Reservation
 dv_is_:
@@ -43,7 +43,7 @@ dv_is_:
     - "[[/_personal/schema-org/Relation/has/has_child_reservation.personal|has_child_reservation.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_child_reservation.secret|has_child_reservation.secret]]"
 dv_has_domain: ReservationPackage
-dv_has_name: is_child_reservation
+dv_has_name: has_child_reservation
 dv_has_range: Reservation
 dv_is_same_as:
   - "[[has_child_reservation|has_child_reservation]]"
@@ -56,7 +56,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- #has_/child_reservation = `=this.dv_has_child_reservation`  
+- #has_/child_/reservation = `=this.dv_has_child_reservation`  
 - has_child_reservation = `=this.dv_has_child_reservation`  
 
 The individual reservations included in the package. Typically a repeated property.

@@ -31,7 +31,7 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- #has_/child_trip :: Trip  
+- #has_/child_/trip :: Trip  
 - [ has_child_trip :: Trip ] 
 
 Identifies a [[Trip]] that is a subTrip of this Trip.  For example Day 1, Day 2, etc. of a multi-day trip.
@@ -40,7 +40,7 @@ Relation describes that:
 
 #has_/domain  :: Trip  
 
-(has_/name :: is_child_trip )
+(has_/name :: has_child_trip )
 (has_/range :: Trip )
 
 #has_/inverse  :: partOfTrip  
