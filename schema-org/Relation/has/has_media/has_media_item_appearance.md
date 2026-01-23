@@ -32,22 +32,22 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- #has_/media_item_appearance :: MediaObject  
-- [ has_media_item_appearance :: MediaObject ] 
+- #has_/media_/item_/appearance :: [[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]]  
+- has_media_item_appearance :: [[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]]  
 
-In the context of a [[MediaReview]], indicates specific media item(s) that are grouped using a [[MediaReviewItem]].
+In the context of a [[../../../../Society/Communication/Media/Creative_Work/Review/Media_Review|Media_Review]], indicates specific media item(s) 
+that are grouped using a [[../../../../Society/Communication/Media/Creative_Work/Media_Review_Item|Media_Review_Item]].
 
 Relation describes that: 
 
-#has_/domain  :: MediaReviewItem  
-
+#has_/domain  :: [[../../../../Society/Communication/Media/Creative_Work/Media_Review_Item|Media_Review_Item]] 
 (has_/name :: has_media_item_appearance )
-(has_/range :: MediaObject )
+(has_/range :: [[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]] )
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_media_item_appearance|has_media_item_appearance]] 
+### #is_/same_as :: [[has_media_item_appearance|has_media_item_appearance]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_media_item_appearance.public|has_media_item_appearance.public]] 
 

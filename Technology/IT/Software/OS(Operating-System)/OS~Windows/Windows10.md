@@ -1,8 +1,8 @@
 # [[Windows10]] 
 
 
-#has_/previous_item :: [[Windows7Vista]]  
-#has_/next_item :: [[Windows11]] 
+#has_/previous_/item :: [[Windows7Vista]]  
+#has_/next_/item :: [[Windows11]] 
 
 
 ## Confidential Links & Embeds: 

@@ -55,7 +55,7 @@ Tag Instances like this:
 
 is_part_of = `=this.dv_is_part_of` 
 
-Codes for use with the [[../../../../Relation/has/has_media_authenticity_category]] property,
+Codes for use with the [[../Relation/has/has_media/has_media_authenticity_category]] property,
 indicating the authenticity of a media object (in the context of how it was published or shared).
 
 In general, these codes are not mutually exclusive,

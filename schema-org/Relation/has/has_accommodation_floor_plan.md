@@ -28,6 +28,12 @@ title: has_accommodation_floor_plan
 type: Predi_Relation
 ---
 
+# [[has_accommodation_floor_plan]] 
+
+#is_a :: [[../../../Relation|Relation]]
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
 #is_/part_of :: pending:  
 
 Use it like this: 

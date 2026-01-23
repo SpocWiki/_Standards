@@ -26,6 +26,13 @@ title: has_acquire_license_page
 type: Predi_Relation
 ---
 
+# [[has_acquire_license_page]]
+
+#is_a :: [[../../../Relation|Relation]]
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 #is_/part_of :: pending:  
 
 Use it like this: 

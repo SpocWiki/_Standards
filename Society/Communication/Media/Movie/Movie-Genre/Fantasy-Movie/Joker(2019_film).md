@@ -1,7 +1,7 @@
 
 
-#has_/previous_item :: [[Taxi_Driver]] 
-#has_/previous_item :: [[King_of_Comedy]] 
+#has_/previous_/item :: [[Taxi_Driver]] 
+#has_/previous_/item :: [[King_of_Comedy]] 
 ## #has_/text_of_/abstract 
 
 > Joker is a 2019 American psychological thriller film directed by Todd Phillips 

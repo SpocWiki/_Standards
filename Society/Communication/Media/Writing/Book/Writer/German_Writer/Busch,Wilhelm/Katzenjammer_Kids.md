@@ -4,7 +4,7 @@ aliases:
   - Katzenjammer_Kids
 ---
 
-#has_/previous_item :: [[Max_and_Moritz]] 
+#has_/previous_/item :: [[Max_and_Moritz]] 
 
 ## #has_/text_of_/abstract 
 

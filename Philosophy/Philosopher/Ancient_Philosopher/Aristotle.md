@@ -148,7 +148,7 @@ writing_language: '[[_Standards/WikiData/WD~Attic_Greek,506588]]'
 #has_/time_/started :: -384-06-01 
 #has_/time_/stopped :: -322-06-01 
 #has_/duration_/years :: 62 
-#has_/previous_item :: [[Plato]] 
+#has_/previous_/item :: [[Plato]] 
 
 [[../Early_modern_Philosopher/Hume,David]] 
 #has_/created ::  [[../../Stoicism]]  

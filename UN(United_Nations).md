@@ -265,7 +265,7 @@ Libris_URI: vs686bpd13rcfvg
 
 # [[UN(United_Nations)]] 
 
-#has_/previous_item :: [[UN(United_Nations)/League_of_Nations|League_of_Nations]] 
+#has_/previous_/item :: [[UN(United_Nations)/League_of_Nations|League_of_Nations]] 
 #is_/same_as :: [[WikiData/WD~United_Nations,1065|WD~United_Nations,1065]] 
 
 ## #has_/text_of_/abstract 

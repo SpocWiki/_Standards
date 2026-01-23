@@ -1,8 +1,8 @@
 
 # [[WindowsXP]] 
 
-#has_/previous_item :: [[Windows2000]] 
-#has_/next_item :: [[Windows7Vista]] 
+#has_/previous_/item :: [[Windows2000]] 
+#has_/next_/item :: [[Windows7Vista]] 
 
 
 ## Confidential Links & Embeds: 

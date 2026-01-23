@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- #has_/interaction_service = `=this.dv_has_interaction_service`  
+- #has_/interaction_/service = `=this.dv_has_interaction_service`  
 - has_interaction_service = `=this.dv_has_interaction_service`  
 
 The WebSite or SoftwareApplication where the interactions took place.
@@ -63,7 +63,6 @@ The WebSite or SoftwareApplication where the interactions took place.
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

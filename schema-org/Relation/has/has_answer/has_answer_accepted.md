@@ -37,7 +37,7 @@ type: Predi_Relation
 #is_a :: [[../../../Relation|Relation]]
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: #is_/accepted_answer_of
+#has_/inverse :: #is_/answer_/accepted_for 
 
 Use it like this: 
 - #has_/answer_/accepted :: [[../../../../Society/Communication/Media/Creative_Work/Comment/Answer|Answer]], [[../../../Collection/item_list|item_list]]  

@@ -27,7 +27,7 @@ Commons_category: Dualism
 # [[Dualism]] 
 
 
-#has_/prev_item :: [[Monism]] 
+#has_/previous_/item :: [[Monism]] 
 #has_/next_/item ::  [[Pluralism]]  
 #is_/same_as :: [[../../../WikiData/WD~Dualism,167312|WD~Dualism,167312]] 
 

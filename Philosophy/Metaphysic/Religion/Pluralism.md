@@ -14,7 +14,7 @@ instance_of:
 
 # [[Pluralism]] 
 
-#has_/prev_item :: [[Dualism]] 
+#has_/previous_/item :: [[Dualism]] 
 #has_/complement :: [[Monism]] 
 #is_/same_as :: [[_Standards/WikiData/WD~pluralism,879021]] 
 

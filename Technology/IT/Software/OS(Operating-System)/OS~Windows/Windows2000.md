@@ -2,8 +2,8 @@
 # [[Windows2000]] 
 
 
-#has_/previous_item :: [[WindowsNT]] 
-#has_/next_item :: [[WindowsXP]] 
+#has_/previous_/item :: [[WindowsNT]] 
+#has_/next_/item :: [[WindowsXP]] 
 
 
 ## Confidential Links & Embeds: 

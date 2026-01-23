@@ -2,8 +2,8 @@
 # [[Windows95]] 
 
 
-#has_/previous_item :: [[Windows3.11]] 
-#has_/next_item :: [[Windows2000]] 
+#has_/previous_/item :: [[Windows3.11]] 
+#has_/next_/item :: [[Windows2000]] 
 
 
 ## Confidential Links & Embeds: 

@@ -48,7 +48,7 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_media_authenticity_category|has_media_authenticity_category]] 
+### #is_/same_as :: [[has_media_authenticity_category|has_media_authenticity_category]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_media_authenticity_category.public|has_media_authenticity_category.public]] 
 

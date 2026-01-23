@@ -104,7 +104,7 @@ ISNI: 0000000121318235
 
 #has_/time_/started :: 1711-05-07 
 #has_/time_/stopped :: 1776-08-25 
-#has_/previous_item :: [[Locke,John]] 
+#has_/previous_/item :: [[Locke,John]] 
 
 #has_/created_/quote :: Reason is the Slave of Passion 
 in opposition to [[../Ancient_Philosopher/Plato]]ns Model 

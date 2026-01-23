@@ -2,8 +2,8 @@
 # [[WindowsNT]] 
 
 
-#has_/previous_item :: [[Windows95]] 
-#has_/next_item :: [[Windows2000]] 
+#has_/previous_/item :: [[Windows95]] 
+#has_/next_/item :: [[Windows2000]] 
 
 EndOfLife 2003 => Munich had 15000 Computers and did not want to buy new Hardware. 
 Created LiMux Distribution rolled out in 2006 slowly. 

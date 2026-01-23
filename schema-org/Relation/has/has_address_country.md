@@ -52,11 +52,19 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_address_country.secret|has_address_country.secret]]"
 ---
 
+# [[has_address_country]] 
+
+#is_a :: [[../../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
-- #has_/address_country = `=this.dv_has_address_country`  
+- #has_/address_/country = `=this.dv_has_address_country`  
 - has_address_country = `=this.dv_has_address_country`  
 
-The country. For example, USA. You can also provide the two-letter [ISO 3166-1 alpha-2 country code](http://en.wikipedia.org/wiki/ISO_3166-1).
+The country. For example, USA. 
+You can also provide the two-letter [ISO 3166-1 alpha-2 country code](http://en.wikipedia.org/wiki/ISO_3166-1).
 
 Relation describes that: 
 

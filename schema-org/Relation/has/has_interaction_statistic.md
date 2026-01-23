@@ -29,7 +29,7 @@ title: has_interaction_statistic
 type: Predi_Relation
 dv_has_:
   interaction_statistic: InteractionCounter
-  domain: CreativeWork, Organization, Person
+  domain: ["[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]", "[[../../../Society/Agent/Community/Organization|Organization]]", "[[../../../Society/Agent/Person|Person]]"] 
   name: has_interaction_statistic
   range: InteractionCounter
 dv_has_interaction_statistic: InteractionCounter
@@ -42,9 +42,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_interaction_statistic.private|has_interaction_statistic.private]]"
     - "[[/_personal/schema-org/Relation/has/has_interaction_statistic.personal|has_interaction_statistic.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_interaction_statistic.secret|has_interaction_statistic.secret]]"
-dv_has_domain: CreativeWork, Organization, Person
+dv_has_domain: ["[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]", "[[../../../Society/Agent/Community/Organization|Organization]]", "[[../../../Society/Agent/Person|Person]]"] 
 dv_has_name: has_interaction_statistic
-dv_has_range: InteractionCounter
+dv_has_range: "[[../../Class/is_a_/Intangible/Structured_Value/Interaction_Counter|Interaction_Counter]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_interaction_statistic|has_interaction_statistic]]"
   - "[[/_public/schema-org/Relation/has/has_interaction_statistic.public|has_interaction_statistic.public]]"
@@ -55,18 +55,19 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_interaction_statistic.secret|has_interaction_statistic.secret]]"
 ---
 
+# [[has_interaction_statistic]] 
+
 This is a List of [[../../Class/is_a_/Intangible/structured_value/interaction_counter|InteractionCounter]]s counting the number of interactions for this CreativeWork using a WebSite or SoftwareApplication. 
 
 Use a specific [[has_interaction_type|interactionType]] for each InteractionCounter.
 
 Use it like this: 
-- #has_/interaction_statistic = `=this.dv_has_interaction_statistic`  
-- has_interaction_statistic = `=this.dv_has_interaction_statistic`  
+- #has_/interaction_/statistic = `=this.dv_has_range`  
+- has_interaction_statistic = `=this.dv_has_range`  
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

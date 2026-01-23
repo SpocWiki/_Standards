@@ -52,6 +52,14 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_adverse_outcome.secret|has_adverse_outcome.secret]]"
 ---
 
+# [[has_adverse_outcome]] 
+
+#is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
+
 Use it like this: 
 - #has_/adverse_outcome = `=this.dv_has_adverse_outcome`  
 - has_adverse_outcome = `=this.dv_has_adverse_outcome`  

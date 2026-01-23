@@ -2,8 +2,8 @@
 # [[Windows7Vista]] 
 
 
-#has_/previous_item :: [[WindowsXP]] 
-#has_/next_item :: [[Windows10]]  
+#has_/previous_/item :: [[WindowsXP]] 
+#has_/next_/item :: [[Windows10]]  
 
 
 ## Confidential Links & Embeds: 

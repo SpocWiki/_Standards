@@ -190,7 +190,7 @@ writing_language: '[[_Standards/WikiData/WD~Attic_Greek,506588]]'
 #has_/time_/stopped :: -348 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started))` 
 
-#has_/previous_item :: [[Socrates]] 
+#has_/previous_/item :: [[Socrates]] 
 #has_/next_/item :: [[Aristotle]]  
 
 #has_/created :: 

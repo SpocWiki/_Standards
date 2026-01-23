@@ -147,7 +147,7 @@ Krugosvet_article_archived_: ekonomika-i-pravo/vseobshchaya-deklaratsiya-prav-ch
 Commons_category: Universal Declaration of Human Rights
 ---
 
-#has_/next_item :: [[International_Bill_of_Human_Rights]] 
+#has_/next_/item :: [[International_Bill_of_Human_Rights]] 
 #has_/time_/started :: 1948-12-10 
 #is_/same_as :: [[../../../WikiData/WD~Universal_Declaration_of_Human_Rights,7813|WD~Universal_Declaration_of_Human_Rights,7813]] 
 

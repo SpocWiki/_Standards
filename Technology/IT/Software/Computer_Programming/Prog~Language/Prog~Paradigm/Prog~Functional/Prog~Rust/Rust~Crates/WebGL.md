@@ -1,7 +1,7 @@
 
 # [[WebGL]] 
 
-#has_/next_item :: [[WebGPU]] 
+#has_/next_/item :: [[WebGPU]] 
 
 > **WebGL** (short for Web Graphics Library) is a JavaScript API for rendering interactive 2D and 3D graphics within any compatible web browser without the use of plug-ins. 
 > 

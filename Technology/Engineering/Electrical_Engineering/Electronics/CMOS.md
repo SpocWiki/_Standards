@@ -1,7 +1,7 @@
 
 # [[CMOS]] 
 
-#has_/previous_item :: [[TTL(Transistor–Transistor_Logic)]] 
+#has_/previous_/item :: [[TTL(Transistor–Transistor_Logic)]] 
 #is_/better_than :: [[TTL(Transistor–Transistor_Logic)]] 
 
 Consumes power only during switching => much higher VLSI Integration 

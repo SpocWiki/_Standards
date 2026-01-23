@@ -5,7 +5,7 @@
 #has_/creator :: [[Intel/Moore,Gordon]] 
 #has_/creator :: [[Intel/Noyce,Robert]] 
 #has_/creator :: [[Intel/Grove,Andrew]] 
-#has_/previous_item :: [[Fairchild_Semiconductor]] 
+#has_/previous_/item :: [[Fairchild_Semiconductor]] 
 
 
 > **Intel** Corporation is an American multinational 

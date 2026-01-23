@@ -52,6 +52,13 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_add_on.secret|has_add_on.secret]]"
 ---
 
+# [[has_add_on]] 
+
+#is_a :: [[../../../Relation|Relation]]
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/add_on = `=this.dv_has_add_on`  
 - has_add_on = `=this.dv_has_add_on`  

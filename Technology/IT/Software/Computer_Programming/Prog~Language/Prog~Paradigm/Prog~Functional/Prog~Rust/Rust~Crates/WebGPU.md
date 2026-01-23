@@ -2,7 +2,7 @@
 # [[WebGPU]] 
 
 #has_/time_/started : 2017-02-01 
-#has_/previous_item :: [[WebGL]]
+#has_/previous_/item :: [[WebGL]]
  
 > **WebGPU** is the working name for a potential web standard and JavaScript API for accelerated graphics and compute, aiming to provide "modern 3D graphics and computation capabilities". 
 > 

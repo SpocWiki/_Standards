@@ -139,7 +139,7 @@ type: private_note
 
 #has_/time_/started :: 1961-06 
 #has_/duration_ :: `=(default(this.has_time_stopped,date(now)) - this.has_time_started)`  
-#has_/previous_item : [[OEEC]] 
+#has_/previous_/item : [[OEEC]] 
 #is_/same_as :: [[WD~Organization_for_Economic_Cooperation_and_Development,41550]] 
 
 ## #has_/text_of_/abstract  

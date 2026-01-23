@@ -29,6 +29,14 @@ title: has_affiliation_with
 type: Predi_Relation
 ---
 
+# [[has_affiliation_with]] 
+
+#is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
+
 Use it like this: 
 - #has_/affiliation_with :: Organization  
 - [ has_affiliation_with :: Organization ] 

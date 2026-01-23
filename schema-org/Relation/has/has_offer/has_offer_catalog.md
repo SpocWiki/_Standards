@@ -54,8 +54,15 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_offer_catalog.secret|has_offer_catalog.secret]]"
 ---
 
+# [[has_offer_catalog]] 
+
+#is_a :: [[../../../Relation|Relation]]
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
-- #has_/offer_catalog = `=this.dv_has_offer_catalog`  
+- #has_/offer_/catalog = `=this.dv_has_offer_catalog`  
 - has_offer_catalog = `=this.dv_has_offer_catalog`  
 
 Indicates an "[[../../../Collection/item_list/offer_catalog|offer_catalog]]" listing for this Organization, Person, or Service.
