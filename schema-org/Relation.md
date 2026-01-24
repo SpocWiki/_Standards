@@ -82,7 +82,7 @@ A [Quantity](Quantity) connects a Scalar [[Value]] to an Entity.
 [Property](Property) 
 
 Flags (Binary Properties) could start with #is_/ or #is_/not_/ followed by an [[Property/Flags|adjectives]] 
-but should better be written as Classifications starting with #is_a_ or #is_an_ followed by an equivalent Noun.
+but should better be written as Classifications starting with #is_a or #is_a followed by an equivalent Noun.
 This is in contrast to Relations which should preferably start with #has_/, but also with #is_/.
 
 In RDF there is no distinction between these, except for the specified Range. 
@@ -112,7 +112,7 @@ It is **common** to omit prepositional suffixes such as
 - from a **binary relational property** 
 - into an **unary classification** 
 
-Still it is **better to use #is_a_ or #is_an_** and write #is_an_/author to perform the classification
+Still it is **better to use #is_a or #is_an_** and write #is_an_/author to perform the classification
 instead of truncating the suffix to yield `#is_author` from the #is_/author_of Relation,
 also because it better separates Classification from Predicates. 
 

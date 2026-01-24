@@ -94,7 +94,7 @@ Country ::[[../../../../Asia/Asia~South~East/Malay_Archipelago/Indonesia/Countie
 [StateId::] 
 [Population::] 
 Unknown = `=this.dv_Unknown` 
-is_a_ = `=this.dv_is_a_`
+is_a = `=this.dv_is_a_`
 
 ## #has_/map 
 

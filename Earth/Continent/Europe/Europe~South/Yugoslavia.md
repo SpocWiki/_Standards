@@ -55,7 +55,7 @@ dv_is_same_as:
 
 has_time_started = `=this.dv_has_time_started`
 has_time_stopped = `=this.dv_has_time_stopped`
-is_a_ = `=this.dv_is_a_`
+is_a = `=this.dv_is_a_`
 
 ## #has_/text_of_/abstract  
 

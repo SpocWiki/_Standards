@@ -582,7 +582,7 @@ is_independent = `=this.dv_is_independent`
 developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
-[	Small_is_a_ = `=this.dv_is_a_`
+[	Small_is_a = `=this.dv_is_a_`
 
 ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
@@ -633,7 +633,7 @@ Language-Id = `=this.dv_Language-Id`
 has_place_longitude = `=this.dv_has_place_longitude`
 has_place_latitude = `=this.dv_has_place_latitude`
 
-is_a_ = `=this.dv_is_a_`
+is_a = `=this.dv_is_a_`
 
 
 ## #has_/text_of_/abstract 

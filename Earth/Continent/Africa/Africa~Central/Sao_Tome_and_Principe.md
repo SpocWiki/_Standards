@@ -286,7 +286,7 @@ confidential: public
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3`
 
-is_a_ = `=this.dv_is_a_`
+is_a = `=this.dv_is_a_`
 
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`

@@ -741,7 +741,7 @@ Wolfram_Language_entity_code: Entity["Country", "Germany"]
 
 #is_a_/Country 
 #is_a_/Place 
-is_a_ = `=this.dv_is_a_`
+is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
 
@@ -749,7 +749,7 @@ has_time_started = `=this.dv_has_time_started`
 
 #has_/population_/density :: `=this.population/this.area`
 
-is_a_ = `=this.dv_is_a_`
+is_a = `=this.dv_is_a_`
 
 
 ## #has_/map 
@@ -989,7 +989,7 @@ is_independent = `=this.dv_is_independent`
 developed_developing_countries = `=this.dv_developed_developing_countries` 
 [	Land_Locked_Developing_Countries	 ::  ] 
 [	Least_Developed_Countries	 ::  ] 
-[	Small_is_a_ = `=this.dv_is_a_`
+[	Small_is_a = `=this.dv_is_a_`
 
 ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric` 
 

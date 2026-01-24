@@ -25,12 +25,12 @@ dv_is_same_as:
 
 
 Use this Relation to specify a [[../Class]] for Any-[[Thing]] like this: 
-is_a_ = `=this.dv_is_a_` 
+is_a = `=this.dv_is_a_` 
 
 The Name is motivated from the [[TRTL]]-Language 
 which abbreviates the [[../../W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RDF~Relations/rdf~type|rdf~type]] Relation with "is a" because it is so common. 
 This is also equivalent to the [[is_instance_of|typeof]] Relation. 
-# is_a_ Overview
+# is_a Overview
  
 ```folderv
 ```

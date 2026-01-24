@@ -502,7 +502,7 @@ Region = `=this.dv_Region`
 [	Intermediate_Region = `=this.dv_Region`
 Sub-region = `=this.dv_Sub-region`
 
-is_a_ = `=this.dv_is_a_`
+is_a = `=this.dv_is_a_`
 Geoname-ID = `=this.dv_Geoname-ID`
 Unicode = `=this.dv_Unicode` 
 FIPS = `=this.dv_FIPS` 
@@ -521,14 +521,14 @@ is_independent = `=this.dv_is_independent`
 developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
-[	Small_is_a_ = `=this.dv_is_a_`
+[	Small_is_a = `=this.dv_is_a_`
 
 ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3` 
 
-is_a_ = `=this.dv_is_a_`
+is_a = `=this.dv_is_a_`
 
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`

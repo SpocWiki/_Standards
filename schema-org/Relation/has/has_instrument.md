@@ -29,8 +29,8 @@ type: Predi_Relation
 #has_/inverse :: [[is_instrumental_for]] 
 
 Use it like this: 
-- #has_/instrument :: [[../../../Class/Thing|Thing]]  
-- has_instrument :: [[../../../Class/Thing|Thing]] 
+- #has_/instrument :: [[../../../../Class/Thing|Thing]]  
+- has_instrument :: [[../../../../Class/Thing|Thing]] 
 
 The object that helped/is needed for the agent to perform the action. 
 E.g. John wrote a book with <em>a pen</em>.

@@ -129,8 +129,8 @@ has_name_ru = `=this.dv_has_name_ru`
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
 [	UNTERM_English	 ::  ]
-[	UNTERM_Englis_a_ = `=this.dv_is_a_`
-[	UNTERM_Spanis_a_ = `=this.dv_is_a_`
+[	UNTERM_Englis_a = `=this.dv_is_a_`
+[	UNTERM_Spanis_a = `=this.dv_is_a_`
 [	UNTERM_Spanish	 ::  ]
 [	UNTERM_French	 ::  ]
 [	UNTERM_Arabic	 ::  ]
@@ -166,7 +166,7 @@ is_independent = `=this.dv_is_independent`
 developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
-[	Small_is_a_ = `=this.dv_is_a_`
+[	Small_is_a = `=this.dv_is_a_`
 
 ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 

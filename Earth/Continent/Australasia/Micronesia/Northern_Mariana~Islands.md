@@ -131,8 +131,8 @@ has_name_ru = `=this.dv_has_name_ru`
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
 [	UNTERM_English	 ::  ] 
-[	UNTERM_Englis_a_ = `=this.dv_is_a_`
-[	UNTERM_Spanis_a_ = `=this.dv_is_a_`
+[	UNTERM_Englis_a = `=this.dv_is_a_`
+[	UNTERM_Spanis_a = `=this.dv_is_a_`
 [	UNTERM_Spanish	 ::  ] 
 [	UNTERM_French	 ::  ] 
 [	UNTERM_Arabic	 ::  ] 

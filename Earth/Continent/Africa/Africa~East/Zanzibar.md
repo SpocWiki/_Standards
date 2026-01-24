@@ -118,7 +118,7 @@ has_place_continent = `=this.dv_has_place_continent`
 has_place_longitude = `=this.dv_has_place_longitude`
 has_place_latitude = `=this.dv_has_place_latitude`
 
-is_a_ = `=this.dv_is_a_`
+is_a = `=this.dv_is_a_`
 
 ## #has_/text_of_/abstract 
 

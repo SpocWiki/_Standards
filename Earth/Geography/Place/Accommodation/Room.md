@@ -80,13 +80,13 @@ dv_has_properties: "[ accommodationCategory, accommodationFloorPlan, additionalP
 
 # [[Room]] 
 
-is_a_ = `=this.dv_is_a_`
+is_a = `=this.dv_is_a_`
 
 Class of all rooms.
 
 Tag Instances like this: 
 #is_a_/room 
-is_a_ = `=this.dv_is_a_`
+is_a = `=this.dv_is_a_`
 
 A room is a distinguishable space within a structure, 
 usually separated from other spaces by interior walls 

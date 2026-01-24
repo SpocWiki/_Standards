@@ -293,8 +293,8 @@ has_name_ru = `=this.dv_has_name_ru`
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
 [	UNTERM_English	 ::  ] 
-[	UNTERM_Englis_a_ = `=this.dv_is_a_`
-[	UNTERM_Spanis_a_ = `=this.dv_is_a_`
+[	UNTERM_Englis_a = `=this.dv_is_a_`
+[	UNTERM_Spanis_a = `=this.dv_is_a_`
 [	UNTERM_Spanish	 ::  ] 
 [	UNTERM_French	 ::  ] 
 [	UNTERM_Arabic	 ::  ] 
@@ -337,7 +337,7 @@ ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 ISO2 = `=this.dv_ISO2` 
 ISO3 = `=this.dv_ISO3`  
 
-is_a_ = `=this.dv_is_a_`
+is_a = `=this.dv_is_a_`
 
 ## #has_/map  
 

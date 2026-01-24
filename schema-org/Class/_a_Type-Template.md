@@ -66,7 +66,7 @@ dv_is_same_as:
 Class of all {{label_snail}}s.
 
 Tag Instances like this: 
-#is_a_ /{{label_snail}}
+#is_a /{{label_snail}}
 
 is_part_of = `=this.dv_is_part_of` 
 

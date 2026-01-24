@@ -67,7 +67,7 @@ and thus must be treated specially in inference.
 Tag Instances like this: 
 
 #is_a_/class which restricts the range, but does not create a Relation or 
-is_a_ = `=this.dv_is_a_` 
+is_a = `=this.dv_is_a_` 
 
 is_part_of = `=this.dv_is_part_of` 
 

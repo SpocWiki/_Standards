@@ -75,7 +75,7 @@ dv_is_same_as:
 
 # [[Atmosphere,Earth]] 
 
-is_a_ = `=this.dv_is_a_`
+is_a = `=this.dv_is_a_`
 #is_/same_as :: [[../../WikiData/WD~Atmosphere_of_Earth,3230|WD~Atmosphere_of_Earth,3230]] 
 
 ## Atmosphere-Composition 

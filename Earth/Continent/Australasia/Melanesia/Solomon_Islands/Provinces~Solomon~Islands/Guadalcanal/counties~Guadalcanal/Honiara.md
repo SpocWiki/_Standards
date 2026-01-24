@@ -53,7 +53,7 @@ has_place_country = `=this.dv_has_place_country`
 [Population::] 
 
 
-is_a_ = `=this.dv_is_a_`
+is_a = `=this.dv_is_a_`
 
 ## #has_/map 
 

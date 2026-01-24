@@ -524,7 +524,7 @@ icon: flag-tw
 
 ## [[Taiwan]] has Properties...
 
-is_a_ = `=this.dv_is_a_`
+is_a = `=this.dv_is_a_`
 [	ISO4217-currency_name	 ::  ]
 [	ISO4217-currency_numeric	 ::  ]
 [	ISO4217-currency_minor_unit	 ::  ]
