@@ -41,7 +41,7 @@ Relation describes that:
 (has_/name :: has_instrument )
 (has_/range :: [[../../../../Class/Thing|Thing]] ) 
 
-#has_/child_/property :: deliveryMethod, diet, exercisePlan, exerciseRelatedDiet, language, query, recipe, [[has_supply]], [[has_tool]]   
+#has_/child_/property :: deliveryMethod, diet, exercisePlan, exerciseRelatedDiet, language, query, recipe, [[has_supply_consumed]],  [[has_tool]]   
 
 ## Confidential Links & Embeds: 
 

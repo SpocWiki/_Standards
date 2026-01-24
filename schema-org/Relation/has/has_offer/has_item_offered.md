@@ -50,7 +50,7 @@ can clarify the nature of the offer.
 
 Relation describes that: 
 
-#has_/domain  :: [[../../../../Society/Agent/Community/Organization/Business/Demand|Demand]], [[../../../../Society/Agent/Community/Organization/Business/Offer|Offer]]  
+#has_/domain  :: [[../../../../Society/Agent/Community/Organization/Business/Demand|Demand]],  [[../../../../Society/Agent/Community/Organization/Business/Offer|Offer]]  
 (has_/name :: has_item_offered )
 (has_/range :: "[[../../../../Society/Agent/Community/Organization/Business/Offer/Aggregate_Offer|Aggregate_Offer]]", "[[../../../../Society/Communication/Media/Creative_Work|Creative_Work]]", "[[../../../Class/is_a_/Event|Event]]", "[[../../../Class/is_a_/Intangible/Menu_Item|Menu_Item]]", "[[../../../../Society/Agent/Community/Organization/Business/Product|Product]]", "[[../../../../Society/Agent/Community/Organization/Business/Service|Service]]", "[[../../../Class/is_a_/Intangible/Trip|Trip]]" )
 

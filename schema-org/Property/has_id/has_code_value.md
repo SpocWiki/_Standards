@@ -41,7 +41,7 @@ Use it like this:
 
 Predicated describes that: 
 
-#has_/domain  :: [[../../Class/is_a_/Intangible/defined_term/category_code|CategoryCode]], [[../../Class/is_a_/Intangible/defined_term/category_code/medical_code|MedicalCode]]  
+#has_/domain  :: [[../../Class/is_a_/Intangible/defined_term/category_code|CategoryCode]],  [[../../Class/is_a_/Intangible/defined_term/category_code/medical_code|MedicalCode]]  
 
 (has_/name :: has_code_value )
 (has_/range :: Text )

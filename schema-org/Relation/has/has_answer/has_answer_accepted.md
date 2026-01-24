@@ -40,8 +40,8 @@ type: Predi_Relation
 #has_/inverse :: #is_/answer_/accepted_for 
 
 Use it like this: 
-- #has_/answer_/accepted :: [[../../../../Society/Communication/Media/Creative_Work/Comment/Answer|Answer]], [[../../../Collection/item_list|item_list]]  
-- has_answer_accepted :: [[../../../../Society/Communication/Media/Creative_Work/Comment/Answer|Answer]], [[../../../Collection/item_list|item_list]]   
+- #has_/answer_/accepted :: [[../../../../Society/Communication/Media/Creative_Work/Comment/Answer|Answer]],  [[../../../Collection/item_list|item_list]]  
+- has_answer_accepted :: [[../../../../Society/Communication/Media/Creative_Work/Comment/Answer|Answer]],  [[../../../Collection/item_list|item_list]]   
 
 The answer(s) that has been accepted as best, typically on a Question/Answer site.
 Sites vary in their selection mechanisms, e.g. drawing on community opinion

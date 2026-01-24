@@ -38,15 +38,15 @@ The default [[../../../Dimension/Unit_of_Measure|Unit_of_Measure]]  are [[../../
 - as a [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]] with `value` and `unitCode` 
 
 Use it like this: 
-- #has_/value_for_/height :: [[../../Predicate/Quantity/has_value_for_distance|Distance]], [[../../Class/is_a_/Intangible/structured_value/quantitative_value|QuantitativeValue]] 
-- has_value_for_height :: [[../../Predicate/Quantity/has_value_for_distance|Distance]], [[../../Class/is_a_/Intangible/structured_value/quantitative_value|QuantitativeValue]] 
+- #has_/value_for_/height :: [[../../Predicate/Quantity/has_value_for_distance|Distance]],  [[../../Class/is_a_/Intangible/structured_value/quantitative_value|QuantitativeValue]] 
+- has_value_for_height :: [[../../Predicate/Quantity/has_value_for_distance|Distance]],  [[../../Class/is_a_/Intangible/structured_value/quantitative_value|QuantitativeValue]] 
 
 Predicate describes that: 
 
-#has_/domain  :: [[../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|MediaObject]], [[../../Class/is_a_/Intangible/structured_value/offer_shipping_details|OfferShippingDetails]], [[../../../Society/Agent/Person|Person]], [[../../../Society/Agent/Community/Organization/Business/Product|Product]], [[../../../Society/Communication/Media/Creative_Work/Visual_Artwork|VisualArtwork]]  
+#has_/domain  :: [[../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|MediaObject]],  [[../../Class/is_a_/Intangible/structured_value/offer_shipping_details|OfferShippingDetails]],  [[../../../Society/Agent/Person|Person]],  [[../../../Society/Agent/Community/Organization/Business/Product|Product]],  [[../../../Society/Communication/Media/Creative_Work/Visual_Artwork|VisualArtwork]]  
 
 (has_/name :: has_value_for_height )
-(has_/range :: [[../../Predicate/Quantity/has_value_for_distance|Distance]], [[../../Class/is_a_/Intangible/structured_value/quantitative_value|QuantitativeValue]] )
+(has_/range :: [[../../Predicate/Quantity/has_value_for_distance|Distance]],  [[../../Class/is_a_/Intangible/structured_value/quantitative_value|QuantitativeValue]] )
 
 
 ## Confidential Links & Embeds: 

@@ -23,11 +23,11 @@ tags:
 title: has_comment
 type: Predi_Relation
 dv_has_:
-  comment: Comment
-  domain: CreativeWork, RsvpAction
+  comment: "[[../../../Society/Communication/Media/Creative_Work/Comment|Comment]]"
+  domain: ["[[../../../Society/Communication/Media/Creative_Work|CreativeWork]]", "[[../../Class/is_a_/Action/Interact_Action/Communicate_Action/Inform_Action/Rsvp_Action|Rsvp_Action]]"]
   name: has_comment
-  range: Comment
-dv_has_comment: Comment
+  range: "[[../../../Society/Communication/Media/Creative_Work/Comment|Comment]]"
+dv_has_comment: "[[../../../Society/Communication/Media/Creative_Work/Comment|Comment]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_comment|has_comment]]"
@@ -37,9 +37,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_comment.private|has_comment.private]]"
     - "[[/_personal/schema-org/Relation/has/has_comment.personal|has_comment.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_comment.secret|has_comment.secret]]"
-dv_has_domain: CreativeWork, RsvpAction
+dv_has_domain: ["[[../../../Society/Communication/Media/Creative_Work|CreativeWork]]", "[[../../Class/is_a_/Action/Interact_Action/Communicate_Action/Inform_Action/Rsvp_Action|Rsvp_Action]]"]
 dv_has_name: has_comment
-dv_has_range: Comment
+dv_has_range: "[[../../../Society/Communication/Media/Creative_Work/Comment|Comment]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_comment|has_comment]]"
   - "[[/_public/schema-org/Relation/has/has_comment.public|has_comment.public]]"
@@ -50,6 +50,8 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_comment.secret|has_comment.secret]]"
 ---
 
+# [[has_comment]] 
+
 Use it like this: 
 - #has_/comment = `=this.dv_has_comment`  
 - has_comment = `=this.dv_has_comment`  
@@ -59,7 +61,6 @@ Comments, typically from users.
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

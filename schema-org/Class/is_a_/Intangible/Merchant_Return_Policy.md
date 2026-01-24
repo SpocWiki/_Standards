@@ -62,7 +62,7 @@ Tag Instances like this:
 
 is_part_of = `=this.dv_is_part_of` 
 
-A MerchantReturnPolicy provides information about product return policies associated with an [[../../../../Society/Agent/Community/Organization]], [[../../../../Society/Agent/Community/Organization/Business/Product]], or [[../../../../Society/Agent/Community/Organization/Business/Offer]].
+A MerchantReturnPolicy provides information about product return policies associated with an [[../../../../Society/Agent/Community/Organization]],  [[../../../../Society/Agent/Community/Organization/Business/Product]], or [[../../../../Society/Agent/Community/Organization/Business/Offer]].
 
 has_parent_class = `=this.dv_has_parent_class` 
 

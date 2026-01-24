@@ -38,13 +38,13 @@ Use it like this:
 - has_subject :: [[../../Class/Thing|Thing]]  
 
 The subject matter of the content. 
-This has a very narrow meaning compared to [[../../../W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RDF~Relations/rdf~subject|rdf~subject]], [[../../../../RDF/RDF~Relations/rdf~predicate]], and [[../../../../RDF/RDF~Relations/rdf~object]]. 
+This has a very narrow meaning compared to [[../../../W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RDF~Relations/rdf~subject|rdf~subject]],  [[../../../../RDF/RDF~Relations/rdf~predicate]], and [[../../../../RDF/RDF~Relations/rdf~object]]. 
 
 Relation describes that: 
 
-#has_/domain  :: CommunicateAction, CreativeWork, Event  
-(has_/name :: has_subject )
-(has_/range :: Thing )
+#has_/domain  :: [[../../Class/is_a_/Action/Interact_Action/Communicate_Action|Communicate_Action]],  [[../../../Society/Communication/Media/Creative_Work|Creative_Work|]],  [[../../Class/is_a_/Event|Event]]  
+(has_/name :: has_subject ) 
+(has_/range :: [[../../Class/Thing|Thing]] ) 
 
 ## Confidential Links & Embeds: 
 

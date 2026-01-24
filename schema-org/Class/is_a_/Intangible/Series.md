@@ -58,7 +58,7 @@ Tag Instances like this:
 
 A Series in schema.org is a group of related items, 
 typically but not necessarily of the same kind. 
-See also [[CreativeWorkSeries]], [[EventSeries]].
+See also [[CreativeWorkSeries]],  [[EventSeries]].
 
 has_parent_class = `=this.dv_has_parent_class` 
 

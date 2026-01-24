@@ -39,7 +39,7 @@ or where some government service is based.
 
 Relation describes that: 
 
-#has_/domain  :: [[../../../Society/Agent/Community/Organization/Business/Service/Government_Service|Government_Service]], [[../../../Society/Communication/Media/Creative_Work/Legislation|Legislation]]  
+#has_/domain  :: [[../../../Society/Agent/Community/Organization/Business/Service/Government_Service|Government_Service]],  [[../../../Society/Communication/Media/Creative_Work/Legislation|Legislation]]  
 (has_/name :: [[is_jurisdiction_of]] )
 (has_/range :: "[[../../../Earth/Geography/Place/Administrative_Area|Administrative_Area]]", "[[../../Class/is_a_/Data_Type/Text|Text]]" )
 

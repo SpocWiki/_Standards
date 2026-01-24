@@ -58,7 +58,13 @@ Tag Instances like this:
 
 is_part_of = `=this.dv_is_part_of` 
 
-Size related properties of a product, typically a size code ([[../../Property/has_name|Name]]) and optionally a [[sizeSystem]], [[sizeGroup]], and product measurements ([[hasMeasurement]]). In addition, the intended audience can be defined through [[suggestedAge]], [[suggestedGender]], and suggested body measurements ([[suggestedMeasurement]]).
+Size related properties of a product, 
+typically a size code ([[../../Property/has_name|Name]]) 
+and optionally a [[sizeSystem]],  [[sizeGroup]], 
+and product measurements ([[hasMeasurement]]). 
+
+In addition, the intended audience can be defined through 
+[[suggestedAge]],  [[suggestedGender]], and suggested body measurements ([[suggestedMeasurement]]).
 
 has_parent_class = `=this.dv_has_parent_class` 
 

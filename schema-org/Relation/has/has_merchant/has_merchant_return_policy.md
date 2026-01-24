@@ -43,7 +43,7 @@ Specifies a [[../../../Class/is_a_/Intangible/Merchant_Return_Policy|MerchantRet
 
 [[../../../Relation|Relation]] describes that: 
 
-#has_/domain  :: [ [[../../../../Society/Agent/Community/Organization/Business/Offer|Offer]], [[../../../../Society/Agent/Community/Organization|Organization]], [[../../../../Society/Agent/Community/Organization/Business/Product|Product]] ]  
+#has_/domain  :: [ [[../../../../Society/Agent/Community/Organization/Business/Offer|Offer]],  [[../../../../Society/Agent/Community/Organization|Organization]],  [[../../../../Society/Agent/Community/Organization/Business/Product|Product]] ]  
 
 (has_/name :: has_merchant_return_policy )
 (has_/range :: [[../../../Class/is_a_/Intangible/Merchant_Return_Policy|MerchantReturnPolicy]] )

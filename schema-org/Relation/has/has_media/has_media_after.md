@@ -4,6 +4,8 @@ aliases:
   - has_media_after
   - has media_after
   - has_after-media
+  - schema:afterMedia
+  - afterMedia
 confidential: public
 cssclasses:
   - Predicate
@@ -40,8 +42,8 @@ type: Predi_Relation
 
 
 Use it like this: 
-- #has_/media_/after :: [[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]], [[../../../Class/is_a_/Data_Type/Text/Url|Url]]   
-- has_media_after :: [[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]], [[../../../Class/is_a_/Data_Type/Text/Url|Url]] 
+- #has_/media_/after :: [[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]],  [[../../../Class/is_a_/Data_Type/Text/Url|Url]]   
+- has_media_after :: [[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]],  [[../../../Class/is_a_/Data_Type/Text/Url|Url]] 
 
 A media object representing the circumstances after performing this direction.
 
@@ -49,7 +51,7 @@ Relation describes that:
 
 #has_/domain  :: [[../../../../Society/Communication/Media/Creative_Work/How_to/How_to_Direction|How_to_Direction]]  
 (has_/name :: has_media_after )
-(has_/range :: [[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]], [[../../../Class/is_a_/Data_Type/Text/Url|Url]]   )
+(has_/range :: [[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]],  [[../../../Class/is_a_/Data_Type/Text/Url|Url]]   )
 
 
 ## Confidential Links & Embeds: 

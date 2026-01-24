@@ -35,8 +35,8 @@ type: Predi_Relation
 
 
 Use it like this: 
-- #has_/provider :: [[../../../Society/Agent/Community/Organization|Organization]], [[../../../Society/Agent/Person|Person]]   
-- has_provider :: [[../../../Society/Agent/Community/Organization|Organization]], [[../../../Society/Agent/Person|Person]]  
+- #has_/provider :: [[../../../Society/Agent/Community/Organization|Organization]],  [[../../../Society/Agent/Person|Person]]   
+- has_provider :: [[../../../Society/Agent/Community/Organization|Organization]],  [[../../../Society/Agent/Person|Person]]  
 
 The service provider, service operator, or service performer; the goods producer. 
 
@@ -48,9 +48,9 @@ A provider may also serve as the seller.
 
 Relation describes that: 
 
-#has_/domain  :: [[../../Class/is_a_/Action|Action]], [[../../../Society/Communication/Media/Creative_Work|Creative_Work]], [[../../Class/is_a_/Intangible/Educational_Occupational_Program|Educational_Occupational_Program]], [[../../Class/is_a_/Intangible/Invoice|Invoice]], [[../../Class/is_a_/Intangible/Parcel_Delivery|Parcel_Delivery]], [[../../Class/is_a_/Intangible/Reservation|Reservation]], [[../../../Society/Agent/Community/Organization/Business/Service|Service]], [[../../Class/is_a_/Intangible/Trip|Trip]]  
+#has_/domain  :: [[../../Class/is_a_/Action|Action]],  [[../../../Society/Communication/Media/Creative_Work|Creative_Work]],  [[../../Class/is_a_/Intangible/Educational_Occupational_Program|Educational_Occupational_Program]],  [[../../Class/is_a_/Intangible/Invoice|Invoice]],  [[../../Class/is_a_/Intangible/Parcel_Delivery|Parcel_Delivery]],  [[../../Class/is_a_/Intangible/Reservation|Reservation]],  [[../../../Society/Agent/Community/Organization/Business/Service|Service]],  [[../../Class/is_a_/Intangible/Trip|Trip]]  
 (has_/name :: is_provider ) 
-(has_/range ::  [[../../../Society/Agent/Community/Organization|Organization]], [[../../../Society/Agent/Person|Person]]  )
+(has_/range ::  [[../../../Society/Agent/Community/Organization|Organization]],  [[../../../Society/Agent/Person|Person]]  )
 
 
 ## Confidential Links & Embeds: 

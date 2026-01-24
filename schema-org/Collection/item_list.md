@@ -51,7 +51,7 @@ dv_is_same_as:
 ---
 
 Class of all item-lists. 
-Lists can contain Elements of different Type, because they are used in 1:N Relations like [[../Composite/has_parts|has_parts]], [[../Class/has_instances|has_instances]] or [[has_items]]. 
+Lists can contain Elements of different Type, because they are used in 1:N Relations like [[../Composite/has_parts|has_parts]],  [[../Class/has_instances|has_instances]] or  [[has_items]]. 
 
 Tag Instances like this: 
 #is_an_/item_list

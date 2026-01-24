@@ -44,7 +44,7 @@ A floorplan of some [[../../../Earth/Geography/Place/Accommodation|Accommodation
 
 Relation describes that: 
 
-#has_/domain  :: [[../../../Earth/Geography/Place/Accommodation|Accommodation]], [[../../../Earth/Geography/Place/Residence|Residence]] 
+#has_/domain  :: [[../../../Earth/Geography/Place/Accommodation|Accommodation]],  [[../../../Earth/Geography/Place/Residence|Residence]] 
 (has_/name :: has_accommodation_floor_plan )
 (has_/range :: [[../../../Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor_Plan|Floor_Plan]]  )
 

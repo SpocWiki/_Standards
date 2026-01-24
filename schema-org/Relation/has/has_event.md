@@ -71,11 +71,11 @@ Use it like this:
 - #has_/event = `=this.dv_has_event`  
 - has_event = `=this.dv_has_event`  
 
-Upcoming or past [[../../Class/is_a_/event|Event]] associated with this [[../../../Earth/Geography/Place|Place]], [[../../../Society/Agent/Community/Organization|Organization]], or [[../../Class/is_a_/action|Action]].
+Upcoming or past [[../../Class/is_a_/event|Event]] associated with this [[../../../Earth/Geography/Place|Place]],  [[../../../Society/Agent/Community/Organization|Organization]], or [[../../Class/is_a_/action|Action]].
 
 [[../../Relation|Relation]] describes that: 
 
-#has_/domain  :: [[../../Class/is_a_/action/interact_action/communicate_action/inform_action|InformAction]], [[../../Class/is_a_/action/interact_action/communicate_action/invite_action|InviteAction]], [[../../Class/is_a_/action/interact_action/join_action|JoinAction]], [[../../Class/is_a_/action/interact_action/leave_action|LeaveAction]], [[../../../Society/Agent/Community/Organization|Organization]], [[../../../Earth/Geography/Place|Place]], [[../../Class/is_a_/action/play_action|PlayAction]]  
+#has_/domain  :: [[../../Class/is_a_/action/interact_action/communicate_action/inform_action|InformAction]],  [[../../Class/is_a_/action/interact_action/communicate_action/invite_action|InviteAction]],  [[../../Class/is_a_/action/interact_action/join_action|JoinAction]],  [[../../Class/is_a_/action/interact_action/leave_action|LeaveAction]],  [[../../../Society/Agent/Community/Organization|Organization]],  [[../../../Earth/Geography/Place|Place]],  [[../../Class/is_a_/action/play_action|PlayAction]]  
 
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 

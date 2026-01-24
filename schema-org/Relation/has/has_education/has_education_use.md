@@ -6,6 +6,7 @@ aliases:
   - has education-use
   - has_education_use
   - has education use
+  - educationalUse
 confidential: public
 cssclasses:
   - Predicate

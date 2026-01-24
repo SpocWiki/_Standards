@@ -54,7 +54,7 @@ allowing to apply well-known Operators on the Projection.
 
 > In logic, mathematics, and computer science, 
 > **Arity** is the number of arguments or operands 
-> taken by a [[../Mathematics/Function(Math)|Function(Math)]], operation, operator, [[Tuple]], [[Record]] or [[Relation]]. 
+> taken by a [[../Mathematics/Function(Math)|Function(Math)]], operation, operator, [[Tuple]],  [[Record]] or [[Relation]]. 
 > 
 > In mathematics, arity may also be called __rank__, but this word can have many other meanings. 
 > 

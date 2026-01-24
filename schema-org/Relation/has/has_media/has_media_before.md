@@ -3,23 +3,25 @@ aliases:
   - has_media_before
   - has_before-media
   - has media_before
+  - schema:beforeMedia
+  - beforeMedia
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - before
   - media
   - beforeMedia
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_media_before
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
@@ -29,12 +31,16 @@ type: Predi_Relation
 
 # [[has_media_before]] 
 
+#is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse ::
 #has_/next_ :: [[./has_media_during|has_media_during]] 
 #is_/similar_to :: [[./has_media_after|has_media_after]] 
 
 Use it like this: 
-- #has_/media_/before :: [[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]], [[../../../Class/is_a_/Data_Type/Text/Url|Url]]  
-- has_media_before :: [[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]], [[../../../Class/is_a_/Data_Type/Text/Url|Url]]   
+- #has_/media_/before :: [[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]],  [[../../../Class/is_a_/Data_Type/Text/Url|Url]]  
+- has_media_before :: [[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]],  [[../../../Class/is_a_/Data_Type/Text/Url|Url]]   
 
 A media object representing the circumstances before performing this direction.
 
@@ -42,7 +48,7 @@ Relation describes that:
 
 #has_/domain  :: HowToDirection  
 (has_/name :: has_media_before )
-(has_/range :: [[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]], [[../../../Class/is_a_/Data_Type/Text/Url|Url]] )
+(has_/range :: [[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]],  [[../../../Class/is_a_/Data_Type/Text/Url|Url]] )
 
 
 ## Confidential Links & Embeds: 

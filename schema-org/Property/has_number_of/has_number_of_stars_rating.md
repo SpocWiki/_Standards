@@ -56,7 +56,7 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Property/has_number_of/has_number_of_stars_rating.secret|has_number_of_stars_rating.secret]]"
 ---
 
-[[../../Predicate|Predicate]] to describe the relative Quality of a [[../../../Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment|FoodEstablishment]], [[../../../Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business|LodgingBusiness]]  etc.
+[[../../Predicate|Predicate]] to describe the relative Quality of a [[../../../Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment|FoodEstablishment]],  [[../../../Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business|LodgingBusiness]]  etc.
 
 is_similar_to = `=this.dv_is_similar_to` 
 
@@ -78,7 +78,7 @@ Use it like this:
 
 An official rating for a lodging business or food establishment, e.g. from national associations or standards bodies. 
 
-Use the [[../../Relation/has/has_author|has_author]] property to indicate the rating [[../../../Society/Agent|Agent]], [[../../../Society/Agent/Person|Person]] or [[../../../Society/Agent/Community/Organization|Organization]], 
+Use the [[../../Relation/has/has_author|has_author]] property to indicate the rating [[../../../Society/Agent|Agent]],  [[../../../Society/Agent/Person|Person]] or [[../../../Society/Agent/Community/Organization|Organization]], 
 e.g. as an Organization with name such as (e.g. HOTREC, DEHOGA, WHR, or Hotelstars).
 
 Predicate describes that: 

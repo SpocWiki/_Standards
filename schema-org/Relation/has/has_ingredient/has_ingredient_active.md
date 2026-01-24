@@ -30,9 +30,8 @@ tags:
 title: has_ingredient_active
 type: Pred_Text
 dv_has_:
-  text_of_:
-    active_ingredient: Text
-  domain: DietarySupplement, Drug, DrugStrength, Substance
+  ingredient_active: Text
+  domain: ["[[../../../../Society/Agent/Community/Organization/Business/Product/Dietary_Supplement|DietarySupplement]]", "[[../../../../bio/Medicine/Drug|Drug]]", "[[../../../../bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Strength|DrugStrength]]", "[[../../../../Chemistry/Substance|Substance]]"]
   name: has_ingredient_active
   range: Text
 dv_has_ingredient_active: Text
@@ -45,7 +44,7 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_ingredient_active.private|has_ingredient_active.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_ingredient_active.personal|has_ingredient_active.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_ingredient_active.secret|has_ingredient_active.secret]]"
-dv_has_domain: DietarySupplement, Drug, DrugStrength, Substance
+dv_has_domain: ["[[../../../../Society/Agent/Community/Organization/Business/Product/Dietary_Supplement|DietarySupplement]]", "[[../../../../bio/Medicine/Drug|Drug]]", "[[../../../../bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Strength|DrugStrength]]", "[[../../../../Chemistry/Substance|Substance]]"]
 dv_has_name: has_ingredient_active
 dv_has_range: Text
 dv_is_same_as:

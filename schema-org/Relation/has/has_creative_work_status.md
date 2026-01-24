@@ -3,6 +3,7 @@ aliases:
   - has creative-work-status
   - has_creative_work_status
   - has creative work status
+  - creativeWorkStatus
 confidential: public
 cssclasses:
   - Predicate

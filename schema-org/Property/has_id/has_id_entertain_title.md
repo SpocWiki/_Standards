@@ -48,7 +48,7 @@ Since schema.org types like [[../../../Society/Communication/Media/Creative_Work
 
 Predicated describes that: 
 
-#has_/domain  :: [[../../../Society/Communication/Media/Movie]], [[../../../Society/Communication/Media/Creative_Work/Episode/Tv_Episode|TVEpisode]]  
+#has_/domain  :: [[../../../Society/Communication/Media/Movie]],  [[../../../Society/Communication/Media/Creative_Work/Episode/Tv_Episode|TVEpisode]]  
 (has_/name :: has_id_entertain_title )
 (has_/range :: Text, URL )
 

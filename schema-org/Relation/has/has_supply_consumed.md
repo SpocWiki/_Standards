@@ -3,6 +3,7 @@ aliases:
   - has supply
   - has_supply
   - supply
+  - supply required
   - needs supply
 confidential: public
 cssclasses:
@@ -26,11 +27,11 @@ title: has_supply
 type: Predi_Relation
 ---
 
-# [[has_supply]] 
+# [[has_supply_consumed]] 
 
 #has_/parent_/property  :: [[./has_instrument|has_instrument]]  
-#has_/child_/property ::  [[ingredient]], [[has_ingredient/has_ingredient_for_recipe|has_ingredient_for_recipe]] 
-#has_/inverse :: [[has_supply/is_supplier_for|supplyTo]] 
+#has_/child_/property ::  [[ingredient]],  [[has_ingredient/has_ingredient_for_recipe|has_ingredient_for_recipe]] 
+#has_/inverse :: [[has_supply_consumed/is_supplier_for|supplyTo]] 
 
 Use it like this: 
 - #has_/supply :: "[[../../Collection/list_item/how_to_item/how_to_supply|how_to_supply]]", "[[../../Property/Texts/has_text|has_text]]"  
@@ -48,7 +49,7 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_supply|has_supply]] 
+### #is_/same_as :: [[has_supply_consumed|has_supply_consumed]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_supply.public|has_supply.public]] 
 

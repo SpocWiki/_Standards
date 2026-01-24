@@ -49,7 +49,7 @@ should be an all-numeric string of either 8, 12, 13 or 14 digits,
 or a "GS1 Digital Link" URL based on such a string. 
 The numeric component should also have a [valid GS1 check digit](https://www.gs1.org/services/check-digit-calculator) 
 and meet the other rules for valid GTINs. See also [GS1"s GTIN Summary](http://www.gs1.org/barcodes/technical/idkeys/gtin) and [Wikipedia](https://en.wikipedia.org/wiki/Global_Trade_Item_Number) for more details. 
-Left-padding of the gtin values is not required or encouraged. The [[gtin]] property generalizes the earlier [[gtin8]], [[gtin12]], [[gtin13]], and [[gtin14]] properties.
+Left-padding of the gtin values is not required or encouraged. The [[gtin]] property generalizes the earlier [[gtin8]],  [[gtin12]],  [[gtin13]], and [[gtin14]] properties.
 
 
 

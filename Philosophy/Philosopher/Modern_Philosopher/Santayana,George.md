@@ -1,0 +1,106 @@
+---
+aliases:
+  - George Santayana
+  - Santayana,George
+has_id_wikidata: Q237833
+educated_at:
+  - "[[_Standards/WikiData/WD~Humboldt-Universität zu Berlin,152087]]"
+  - "[[_Standards/WikiData/WD~King's College,924289]]"
+  - "[[_Standards/WikiData/WD~Harvard University,13371]]"
+  - "[[_Standards/WikiData/WD~Harvard College,49123]]"
+  - "[[_Standards/WikiData/WD~Boston Latin School,49129]]"
+cause_of_death: "[[_Standards/WikiData/WD~stomach cancer,189588]]"
+member_of:
+  - "[[_Standards/WikiData/WD~American Academy of Arts and Letters,463281]]"
+  - "[[_Standards/WikiData/WD~Phi Beta Kappa Society,1938003]]"
+religion_or_worldview: "[[_Standards/WikiData/WD~Christian atheism,620016]]"
+occupation:
+  - "[[_Standards/WikiData/WD~university teacher,1622272]]"
+  - "[[_Standards/WikiData/WD~philosopher,4964182]]"
+  - "[[_Standards/WikiData/WD~novelist,6625963]]"
+  - "[[_Standards/WikiData/WD~essayist,11774202]]"
+  - "[[_Standards/WikiData/WD~writer,36180]]"
+  - "[[_Standards/WikiData/WD~poet,49757]]"
+manner_of_death: "[[_Standards/WikiData/WD~natural causes,3739104]]"
+residence:
+  - "[[_Standards/WikiData/WD~Beacon Street,4875985]]"
+  - "[[_Standards/WikiData/WD~Ávila,15688]]"
+place_of_birth: "[[_Standards/WikiData/WD~San Bernardo street,5740864]]"
+sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+given_name: "[[_Standards/WikiData/WD~George,15921732]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~1922 Encyclopædia Britannica,15987490]]"
+  - "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1969–1978),17378135]]"
+  - "[[_Standards/WikiData/WD~Library of the World's Best Literature,19098835]]"
+  - "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 10,124737637]]"
+family_name: "[[_Standards/WikiData/WD~Santayana,37478147]]"
+copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights on works have expired,71887839]]"
+father: "[[_Standards/WikiData/WD~Agustín Ruiz de Santayana,109424692]]"
+mother: "[[_Standards/WikiData/WD~Josefina Borrás,113003707]]"
+field_of_work:
+  - "[[_Standards/WikiData/WD~creative and professional writing,113209507]]"
+  - "[[_Standards/WikiData/WD~poetry,482]]"
+  - "[[_Standards/WikiData/WD~philosophy,5891]]"
+date_of_birth: 1863-12-16T00:00:00Z
+languages_spoken_written_or_signed:
+  - "[[_Standards/WikiData/WD~Spanish,1321]]"
+  - "[[_Standards/WikiData/WD~English,1860]]"
+writing_language: "[[_Standards/WikiData/WD~English,1860]]"
+employer: "[[_Standards/WikiData/WD~Harvard University,13371]]"
+place_of_burial: "[[_Standards/WikiData/WD~Campo Verano,27426]]"
+instance_of: "[[_Standards/WikiData/WD~human,5]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~Spain,29]]"
+place_of_death: "[[_Standards/WikiData/WD~Rome,220]]"
+nominated_for: "[[_Standards/WikiData/WD~Nobel Prize in Literature,37922]]"
+pseudonym: George Santayana
+Commons_category: George Santayana
+P1015: "90136716"
+date_of_death: 1952-09-26T00:00:00Z
+image: http://commons.wikimedia.org/wiki/Special:FilePath/George%20Santayana.jpg
+signature: http://commons.wikimedia.org/wiki/Special:FilePath/Signature%20of%20George%20Santayana%20%281863%E2%80%931952%29.png
+ISNI: "0000000110645919"
+Europeana_entity: agent/base/145472
+PhilPapers_topic: george-santayana
+Libris_URI: jgvx03821khfp07
+Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/SANTAYANA_DZHORDZH.html
+name_in_native_language: George Santayana
+birth_name: Jorge Agustín Nicolás Ruiz de Santayana y Borrás
+---
+
+# [[Santayana,George]] 
+
+#is_/same_as :: [[_Standards/WikiData/WD~George_Santayana,237833]] 
+
+#has_/created_/quote :: Those who cannot remember the past are condemned to repeat it. 
+This sentence was written by **George Santayana** in **1905 CE** in _The Life of Reason, Volume 1_.
+There is a fatalistic addition to that by [[../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian|Historian]]s: 
+"Those who do remember the past are condemned to watch repeating it."
+
+## #has_/text_of_/abstract 
+
+> **George Santayana** (born Jorge Agustín Nicolás Ruiz de Santayana y Borrás, 
+> December 16, 1863 – September 26, 1952) 
+> was a Spanish philosopher, essayist, poet, and novelist. 
+> 
+> Born in Spain, he moved to the United States at the age of eight.
+> 
+> As a philosopher, Santayana is known for aphorisms, 
+> such as "Those who cannot remember the past are condemned to repeat it", 
+> and "Only the dead have seen the end of war", 
+> and his definition of beauty as "pleasure objectified". 
+> 
+> Although an atheist, Santayana respected the culture of the 
+> Spanish Catholic values, practices, and worldview, in which he was raised. 
+> 
+> As an intellectual, 
+> George Santayana was a broad-range cultural critic in several academic disciplines.
+> 
+> At the age of 48, he left his academic position at Harvard University 
+> and permanently returned to Europe; 
+> his last will was to be buried in the Spanish Pantheon in the Campo di Verano, Rome.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/George%20Santayana)   
+
+
+

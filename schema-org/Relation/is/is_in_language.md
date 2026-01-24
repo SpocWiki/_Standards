@@ -39,7 +39,7 @@ See also [[is_available_in_language|is_available_in_language]].
 
 Relation describes that: 
 
-#has_/domain :: [[../../../Society/Agent/Community/Organization/Business/Service/Broadcast_Service|Broadcast_Service]], [[../../Class/is_a_/Action/Interact_Action/Communicate_Action|Communicate_Action]], [[../../../Society/Communication/Media/Creative_Work|Creative_Work]], [[../../Class/is_a_/Event|Event]], [[../../../Society/Agent/Community/Organization/Role/Link_Role|Link_Role]], [[../../Class/is_a_/Data_Type/Text/Pronounceable_Text|Pronounceable_Text]], [[../../Class/is_a_/Action/Create_Action/Write_Action|Write_Action]] 
+#has_/domain :: [[../../../Society/Agent/Community/Organization/Business/Service/Broadcast_Service|Broadcast_Service]],  [[../../Class/is_a_/Action/Interact_Action/Communicate_Action|Communicate_Action]],  [[../../../Society/Communication/Media/Creative_Work|Creative_Work]],  [[../../Class/is_a_/Event|Event]],  [[../../../Society/Agent/Community/Organization/Role/Link_Role|Link_Role]],  [[../../Class/is_a_/Data_Type/Text/Pronounceable_Text|Pronounceable_Text]],  [[../../Class/is_a_/Action/Create_Action/Write_Action|Write_Action]] 
 (has_/name :: is_in_language)
 (has_/range :: "[[../../../Language]]", "[[../../Class/is_a_/Data_Type/Text]]")
 

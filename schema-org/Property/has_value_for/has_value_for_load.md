@@ -42,9 +42,9 @@ Predicate to describe the Quantity of Vehicle.
 #is_/part_of :: https://auto.schema.org  
 
 Use it like this: 
-- #has_/value_for_/load :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]], [[../../Class/is_a_/Data_Type/Number|Number]]    
+- #has_/value_for_/load :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]],  [[../../Class/is_a_/Data_Type/Number|Number]]    
 - #has_/value_for_/load_/kilo_/gram :: [[../../Class/is_a_/Data_Type/Number|Number]]    
-- #has_value_for_load :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]], [[../../Class/is_a_/Data_Type/Number|Number]]    
+- #has_value_for_load :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]],  [[../../Class/is_a_/Data_Type/Number|Number]]    
 
 The permitted weight of passengers and cargo, EXCLUDING the weight of the empty vehicle.
 

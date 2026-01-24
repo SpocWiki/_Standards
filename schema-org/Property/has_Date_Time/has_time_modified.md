@@ -5,6 +5,7 @@ aliases:
   - modifiedTime
   - has_time_modified
   - has time modified
+  - dateModified
 confidential: public
 cssclasses:
   - Predicate

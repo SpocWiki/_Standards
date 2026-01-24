@@ -34,10 +34,10 @@ Predicate to describe the Quantity of Vehicle.
 #is_/part_of :: https://auto.schema.org  
 
 Use it like this: 
-- #has_/value_for_/emissions_/co2 :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]], [[../../Class/is_a_/Data_Type/Number|Number]]   
+- #has_/value_for_/emissions_/co2 :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]],  [[../../Class/is_a_/Data_Type/Number|Number]]   
 - #has_/value_for_/emissions_/co2_/gram_/km :: [[../../Class/is_a_/Data_Type/Number|Number]] 
 - has_value_for_emissions_co2_gram_km :: [[../../Class/is_a_/Data_Type/Number|Number]] 
-- has_value_for_emissions_co2 :: [[../../Class/is_a_/Data_Type/Number|Number]], [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]] 
+- has_value_for_emissions_co2 :: [[../../Class/is_a_/Data_Type/Number|Number]],  [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]] 
 
 The CO2 emissions in g/km. 
 When used in combination with a QuantitativeValue, put "g/km" into the unitText property of that value, 

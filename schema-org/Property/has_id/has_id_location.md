@@ -38,7 +38,7 @@ Use it like this:
 
 Predicated describes that: 
 
-#has_/domain  :: [[../../../Society/Agent/Community/Organization|Organization]], [[../../../Society/Agent/Person|Person]], [[../../../Earth/Geography/Place|Place]]  
+#has_/domain  :: [[../../../Society/Agent/Community/Organization|Organization]],  [[../../../Society/Agent/Person|Person]],  [[../../../Earth/Geography/Place|Place]]  
 (has_/name :: has_id_location )
 (has_/range :: Text )
 

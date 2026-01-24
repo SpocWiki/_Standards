@@ -43,14 +43,14 @@ but not [[has_place_altitude|altitude]], which adds to [[has_place_elevation|ele
 
 Use it like this: 
 - #has_/place_/latitude :: Number, Text   
-- has_place_latitude :: [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]]   
+- has_place_latitude :: [[../../Class/is_a_/data_type/number|Number]],  [[../../Class/is_a_/data_type/text|Text]]   
 
 Predicate describes that: 
 
-#has_/domain  :: [[../../Class/is_a_/Intangible/structured_value/geo_coordinates|GeoCoordinates]], [[../../../Earth/Geography/Place|Place]]  
+#has_/domain  :: [[../../Class/is_a_/Intangible/structured_value/geo_coordinates|GeoCoordinates]],  [[../../../Earth/Geography/Place|Place]]  
 
 (has_/name :: has_place_latitude )
-(has_/range :: [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]] )
+(has_/range :: [[../../Class/is_a_/data_type/number|Number]],  [[../../Class/is_a_/data_type/text|Text]] )
 
 #is_/similar_to :: [[../../../WikiData/WD~Latitude,34027|WD~Latitude,34027]] 
 

@@ -35,7 +35,7 @@ Use it like this:
 - #has_/number_of_/bedrooms :: Number, QuantitativeValue   
 - has_number_of_bedrooms :: Number, QuantitativeValue   
 
-The total integer number of bedrooms in a some [[../../../Earth/Geography/Place/Accommodation]], [[ApartmentComplex]] or [[FloorPlan]].
+The total integer number of bedrooms in a some [[../../../Earth/Geography/Place/Accommodation]],  [[ApartmentComplex]] or [[FloorPlan]].
 
 Predicate describes that: 
 

@@ -6,6 +6,7 @@ aliases:
   - is_based_on
   - is_based_on_url
   - is based on
+  - isBasedOnUrl
 confidential: public
 cssclasses:
   - Predicate

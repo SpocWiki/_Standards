@@ -59,7 +59,7 @@ Use it like this:
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
 The "temporal" property can be used in cases where more specific properties
-(e.g. [[temporalCoverage]], [[dateCreated]], [[dateModified]], [[datePublished]]) are not known to be appropriate.
+(e.g. [[temporalCoverage]],  [[dateCreated]],  [[dateModified]],  [[datePublished]]) are not known to be appropriate.
 
 Formal Predicate: 
 domain = `=this.dv_domain` 

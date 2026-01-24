@@ -24,9 +24,10 @@ title: has_agent
 type: Predi_Relation
 dv_has_:
   agent: Organization, Person
-  domain: "[Action](../../Class/is_a_/action)"
+  domain: "[[../../Class/is_a_/action]]"
   name: has_agent
-  range: "[Organization](../../../Society/Agent/Community/Organization), [Person](../../../Society/Agent/Person)"
+  range: "[[../../../Society/Agent/Community/Organization]], [[../../../Society/Agent/Person]]"
+  inverse: "[[is_agent_for]]"
 dv_has_agent: Organization, Person
 dv_is_:
   same_as:
@@ -37,17 +38,20 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_agent.private|has_agent.private]]"
     - "[[/_personal/schema-org/Relation/has/has_agent.personal|has_agent.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_agent.secret|has_agent.secret]]"
-dv_has_domain: "[Action](../../Class/is_a_/action)"
+    - "[[has_agent]]"
+dv_has_domain: "[[../../Class/is_a_/action]]"
 dv_has_name: has_agent
-dv_has_range: "[Organization](../../../Society/Agent/Community/Organization), [Person](../../../Society/Agent/Person)"
+dv_has_range: "[[../../../Society/Agent/Community/Organization]], [[../../../Society/Agent/Person]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_agent|has_agent]]"
+  - "[[has_agent]]"
   - "[[/_public/schema-org/Relation/has/has_agent.public|has_agent.public]]"
   - "[[/_internal/schema-org/Relation/has/has_agent.internal|has_agent.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_agent.protect|has_agent.protect]]"
   - "[[/_private/schema-org/Relation/has/has_agent.private|has_agent.private]]"
   - "[[/_personal/schema-org/Relation/has/has_agent.personal|has_agent.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_agent.secret|has_agent.secret]]"
+dv_is_a: "[[../../../Relation|Relation]]"
+dv_has_inverse: "[[is_agent_for]]"
 ---
 
 # [[has_agent]] 
@@ -55,7 +59,7 @@ dv_is_same_as:
 #is_a :: [[../../../Relation|Relation]]
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[is_agent_for]]
 
 Use it like this in an [[../../Class/is_a_/action|action]]: 
 - #has_/agent = `=this.dv_has_agent`  
@@ -68,7 +72,7 @@ Relation describes that:
 
 has_domain = `=this.dv_has_domain` 
 has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` , [Person](../../../Society/Agent/Person) )
+has_range = `=this.dv_has_range` , [[../../../Society/Agent/Person]] )
 
 
 ## Confidential Links & Embeds: 

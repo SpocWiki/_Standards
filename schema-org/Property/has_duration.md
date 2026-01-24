@@ -90,7 +90,7 @@ Use it like this:
 The duration of the item (movie, audio recording, event, etc.) in [ISO 8601 date format](http://en.wikipedia.org/wiki/ISO_8601).
 
 Formal Predicate: 
-#has_/domain :: [[../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object/Audiobook|Audiobook]], [[../../Society/Communication/Media/Creative_Work/Episode|Episode]], [[../Class/is_a_/Event|Event]], [[../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|MediaObject]], [[../../Society/Communication/Media/Movie|Movie]], [[../../Society/Communication/Media/Creative_Work/Music_Recording|MusicRecording]], [[../../Society/Communication/Media/Creative_Work/Music_Playlist/Music_Release|MusicRelease]], [[../Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution|QuantitativeValueDistribution]], [[../Class/is_a_/Intangible/Schedule|Schedule]]
+#has_/domain :: [[../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object/Audiobook|Audiobook]],  [[../../Society/Communication/Media/Creative_Work/Episode|Episode]],  [[../Class/is_a_/Event|Event]],  [[../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|MediaObject]],  [[../../Society/Communication/Media/Movie|Movie]],  [[../../Society/Communication/Media/Creative_Work/Music_Recording|MusicRecording]],  [[../../Society/Communication/Media/Creative_Work/Music_Playlist/Music_Release|MusicRelease]],  [[../Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution|QuantitativeValueDistribution]],  [[../Class/is_a_/Intangible/Schedule|Schedule]]
 (has_/name::has_duration)
 (has_/range::[[../../Predicate/Quantity/Duration|Duration]])
 

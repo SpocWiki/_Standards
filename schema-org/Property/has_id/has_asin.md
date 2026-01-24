@@ -45,7 +45,7 @@ ASINs are most commonly encoded as text strings, but the [asin] property support
 
 Predicated describes that: 
 
-#has_/domain  :: [[../../../Society/Agent/Community/Organization/Business/Demand|Demand]], [[../../../Society/Agent/Community/Organization/Business/Offer|Offer]], [[../../../Society/Agent/Community/Organization/Business/Product|Product]]  
+#has_/domain  :: [[../../../Society/Agent/Community/Organization/Business/Demand|Demand]],  [[../../../Society/Agent/Community/Organization/Business/Offer|Offer]],  [[../../../Society/Agent/Community/Organization/Business/Product|Product]]  
 (has_/name :: has_text_of_asin )
 (has_/range :: Text, URL )
 

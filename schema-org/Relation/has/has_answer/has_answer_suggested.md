@@ -30,8 +30,8 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- #has_/answer_/suggested :: [[../../../../Society/Communication/Media/Creative_Work/Comment/Answer|Answer]], [[../../../Collection/item_list|item_list]]   
-- has_answer_suggested :: [[../../../../Society/Communication/Media/Creative_Work/Comment/Answer|Answer]], [[../../../Collection/item_list|item_list]]  
+- #has_/answer_/suggested :: [[../../../../Society/Communication/Media/Creative_Work/Comment/Answer|Answer]],  [[../../../Collection/item_list|item_list]]   
+- has_answer_suggested :: [[../../../../Society/Communication/Media/Creative_Work/Comment/Answer|Answer]],  [[../../../Collection/item_list|item_list]]  
 
 An answer (possibly one of several, possibly incorrect) to a Question, e.g. on a Question/Answer site.
 
@@ -39,7 +39,7 @@ Relation describes that:
 
 #has_/domain  :: [[../../../../Society/Communication/Media/Creative_Work/Comment/Question|Question]]  
 (has_/name :: has_answer_suggested )
-(has_/range :: [[../../../../Society/Communication/Media/Creative_Work/Comment/Answer|Answer]], [[../../../Collection/item_list|item_list]]  )
+(has_/range :: [[../../../../Society/Communication/Media/Creative_Work/Comment/Answer|Answer]],  [[../../../Collection/item_list|item_list]]  )
 
 #has_/child_/property :: [ acceptedAnswer ]  
 

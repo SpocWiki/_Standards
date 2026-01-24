@@ -58,7 +58,7 @@ dv_is_same_as:
 
 # [[is_supplier_for]] 
 
-#has_/inverse :: [[../has_supply|has_supply]] 
+#has_/inverse :: [[../has_supply_consumed|has_supply_consumed]] 
 
 Use it like this: 
 - #is_/supplier_for = `=this.dv_is_supplier_for`  

@@ -54,7 +54,7 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Property/has_location/has_location_address.secret|has_location_address.secret]]"
 ---
 
-Predicate to describe the geo of [[geo_coordinates]], [[Geo_Shape]], [[../../../Society/Agent/Community/Organization]], [[../../../Society/Agent/Person]], [[../../../Earth/Geography/Place]].
+Predicate to describe the geo of [[geo_coordinates]],  [[Geo_Shape]],  [[../../../Society/Agent/Community/Organization]],  [[../../../Society/Agent/Person]],  [[../../../Earth/Geography/Place]].
 
 Use it like this: 
 - #has_/location_address = `=this.dv_has_location_address`  

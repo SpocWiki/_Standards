@@ -34,8 +34,8 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- #has_/backstory :: [[../../../Society/Communication/Media/Creative_Work|Creative_Work]], [[../../Class/is_a_/Data_Type/Text|Text]]  
-- has_backstory :: [[../../../Society/Communication/Media/Creative_Work|Creative_Work]], [[../../Class/is_a_/Data_Type/Text|Text]]  
+- #has_/backstory :: [[../../../Society/Communication/Media/Creative_Work|Creative_Work]],  [[../../Class/is_a_/Data_Type/Text|Text]]  
+- has_backstory :: [[../../../Society/Communication/Media/Creative_Work|Creative_Work]],  [[../../Class/is_a_/Data_Type/Text|Text]]  
 
 For an [[../../../Society/Communication/Media/Creative_Work/Article|Article]], typically a [[../../../Society/Communication/Media/Creative_Work/Article/News_Article|News_Article]], 
 the backstory property provides a textual summary 
@@ -48,7 +48,7 @@ Relation describes that:
 
 #has_/domain  :: [[../../../Society/Communication/Media/Creative_Work/Article|Article]]   
 (has_/name :: has_backstory )
-(has_/range :: [[../../../Society/Communication/Media/Creative_Work|Creative_Work]], [[../../Class/is_a_/Data_Type/Text|Text]]  )
+(has_/range :: [[../../../Society/Communication/Media/Creative_Work|Creative_Work]],  [[../../Class/is_a_/Data_Type/Text|Text]]  )
 
 
 ## Confidential Links & Embeds: 

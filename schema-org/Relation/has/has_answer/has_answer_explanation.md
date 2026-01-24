@@ -29,8 +29,8 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- #has_/answer_/explanation :: [[../../../../Society/Communication/Media/Creative_Work/Comment|Comment]], [[../../../../Society/Communication/Media/Creative_Work/Web_Content|WebContent]]  
-- has_answer_explanation :: [[../../../../Society/Communication/Media/Creative_Work/Comment|Comment]], [[../../../../Society/Communication/Media/Creative_Work/Web_Content|WebContent]]   
+- #has_/answer_/explanation :: [[../../../../Society/Communication/Media/Creative_Work/Comment|Comment]],  [[../../../../Society/Communication/Media/Creative_Work/Web_Content|WebContent]]  
+- has_answer_explanation :: [[../../../../Society/Communication/Media/Creative_Work/Comment|Comment]],  [[../../../../Society/Communication/Media/Creative_Work/Web_Content|WebContent]]   
 
 A step-by-step or full explanation about Answer. 
 Can outline how this Answer was achieved 
@@ -40,7 +40,7 @@ Relation describes that:
 
 #has_/domain  :: [[../../../../Society/Communication/Media/Creative_Work/Comment/Answer|Answer]]  
 (has_/name :: has_answer_explanation )
-(has_/range :: [[../../../../Society/Communication/Media/Creative_Work/Comment|Comment]], [[../../../../Society/Communication/Media/Creative_Work/Web_Content|WebContent]] )
+(has_/range :: [[../../../../Society/Communication/Media/Creative_Work/Comment|Comment]],  [[../../../../Society/Communication/Media/Creative_Work/Web_Content|WebContent]] )
 
 
 ## Confidential Links & Embeds: 

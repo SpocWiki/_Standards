@@ -38,7 +38,7 @@ The International Standard Serial Number (id_issn) that identifies this serial p
 
 Predicated describes that: 
 
-#has_/domain  :: [[../../../Society/Communication/Media/Creative_Work/Blog|Blog]], [[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series|CreativeWorkSeries]], [[../../../Society/Communication/Media/Creative_Work/Dataset|Dataset]], [[../../../Society/Communication/Media/Creative_Work/Web_Site|WebSite]]  
+#has_/domain  :: [[../../../Society/Communication/Media/Creative_Work/Blog|Blog]],  [[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series|CreativeWorkSeries]],  [[../../../Society/Communication/Media/Creative_Work/Dataset|Dataset]],  [[../../../Society/Communication/Media/Creative_Work/Web_Site|WebSite]]  
 (has_/name :: has_id_issn )
 (has_/range :: Text )
 

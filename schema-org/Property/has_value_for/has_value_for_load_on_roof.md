@@ -38,7 +38,7 @@ The default [[../../../Dimension/Unit_of_Measure|Unit_of_Measure]]  are [[../../
 - in the XPath/JsonPath 
 - as a [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]] with `value` and `unitCode` 
 
-Predicate to describe the Quantity of [[../../../Technology/Transport/Road_Transport/Bus_or_Coach|Bus_or_Coach]], [[../../../Technology/Transport/Road_Transport/Car|Car]]. 
+Predicate to describe the Quantity of [[../../../Technology/Transport/Road_Transport/Bus_or_Coach|Bus_or_Coach]],  [[../../../Technology/Transport/Road_Transport/Car|Car]]. 
 
 #is_/part_of :: https://auto.schema.org  
 
@@ -58,7 +58,7 @@ Typical unit code(s): KGM for kilogram, LBR for pound
 
 Predicate describes that: 
 
-#has_/domain  :: [[../../../Technology/Transport/Road_Transport/Bus_or_Coach|Bus_or_Coach]], [[../../../Technology/Transport/Road_Transport/Car|Car]] 
+#has_/domain  :: [[../../../Technology/Transport/Road_Transport/Bus_or_Coach|Bus_or_Coach]],  [[../../../Technology/Transport/Road_Transport/Car|Car]] 
 (has_/name :: has_value_for_load_on_roof ) 
 (has_/range :: QuantitativeValue) 
 
