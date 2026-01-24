@@ -44,7 +44,7 @@ Wikidata_SPARQL_query_equivalent: wd:Q11579 p:P2370/psn:P2370 [wikibase:quantity
 
 # [[Unit~Kelvin]] 
 
-#is_an_ :: [[../SI-Unit]] 
+#is_a :: [[../SI-Unit]] 
 Unit :: #Unit/SI/K
 #is_a_/unit_/for_/temperature 
 #is_/same_as :: [[../../../WikiData/WD~Kelvin,11579|WD~Kelvin,11579]] 

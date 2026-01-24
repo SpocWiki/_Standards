@@ -37,7 +37,7 @@ schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Mole%20carbon-12%2
 
 # [[Unit~Mole]] 
 
-#is_an_ :: [[../SI-Unit]] 
+#is_a :: [[../SI-Unit]] 
 Unit :: #Unit/SI/mol
 #is_a_/unit_/for_/number 
 

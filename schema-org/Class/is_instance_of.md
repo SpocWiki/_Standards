@@ -71,7 +71,7 @@ Verbs:
 - [ #is_a :: Class] 
 - is_/instance_of :: Class  
 for Objects
-Do __not__ flex the predicate when the Class starts with a Vowel like so is_an_ ant!
+Do __not__ flex the predicate when the Class starts with a Vowel like so is_a ant!
 
 You can also use a pre-defined #Tag, 
 like #is_a_/pet, but that makes Navigation 

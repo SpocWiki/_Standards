@@ -35,7 +35,7 @@ Wikidata_SPARQL_query_equivalent: wd:Q83216 p:P2370/psn:P2370 [wikibase:quantity
 
 # [[Unit~Candela]] 
 
-#is_an_ :: [[../SI-Unit]] 
+#is_a :: [[../SI-Unit]] 
 Unit :: #Unit/SI/cd
 #is_a_/unit_/for_/intensity 
 

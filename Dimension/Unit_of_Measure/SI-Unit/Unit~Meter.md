@@ -93,7 +93,7 @@ Wolfram_Language_unit_code: '"Meters"'
 
 # [[Unit~Meter]] 
 
-#is_an_ :: [[../SI-Unit]] 
+#is_a :: [[../SI-Unit]] 
 Unit :: #Unit/SI/m
 #is_a_/unit_/for_ :: [[../../Dimension/Dim~Length|Dim~Length]] 
 #is_a_/unit_/for_/length 

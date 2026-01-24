@@ -67,7 +67,7 @@ Wolfram_Language_unit_code: '"Seconds"'
 
 # [[Unit~Second]] 
 
-#is_an_ :: [[../SI-Unit]] 
+#is_a :: [[../SI-Unit]] 
 Unit :: #Unit/SI/s
 #is_a_/unit_/for_/time 
 #is_a_/unit_/for_ :: [[../../Dim~Time|Dim~Time]]  

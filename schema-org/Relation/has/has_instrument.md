@@ -39,9 +39,9 @@ Relation describes that:
 
 #has_/domain  :: [[../../Class/is_a_/Action|Action]]   
 (has_/name :: has_instrument )
-(has_/range :: Thing ) 
+(has_/range :: [[../../../../Class/Thing|Thing]] ) 
 
-#has_/child_/property :: [ deliveryMethod, diet, exercisePlan, exerciseRelatedDiet, language, query, recipe, supply, tool ]  
+#has_/child_/property :: deliveryMethod, diet, exercisePlan, exerciseRelatedDiet, language, query, recipe, [[has_supply]], [[has_tool]]   
 
 ## Confidential Links & Embeds: 
 

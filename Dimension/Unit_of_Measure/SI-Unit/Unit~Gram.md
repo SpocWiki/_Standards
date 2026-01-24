@@ -2,7 +2,7 @@
 # [[Unit~Gram]] 
 
 
-#is_an_ :: [[../SI-Unit]] 
+#is_a :: [[../SI-Unit]] 
 Unit :: #Unit/SI/g
 #is_a_/unit_/for_/weight 
 
