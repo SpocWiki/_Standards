@@ -54,15 +54,15 @@ Predicated describes that:
 
 ### #is_/same_as :: [[has_description_disambiguating|has_description_disambiguating]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_description_disambiguating.public|has_description_disambiguating.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_description/has_description_disambiguating.public|has_description_disambiguating.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_description_disambiguating.internal|has_description_disambiguating.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_description/has_description_disambiguating.internal|has_description_disambiguating.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_description_disambiguating.protect|has_description_disambiguating.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_description/has_description_disambiguating.protect|has_description_disambiguating.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_description_disambiguating.private|has_description_disambiguating.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_description/has_description_disambiguating.private|has_description_disambiguating.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_description_disambiguating.personal|has_description_disambiguating.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_description/has_description_disambiguating.personal|has_description_disambiguating.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_description_disambiguating.secret|has_description_disambiguating.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_description/has_description_disambiguating.secret|has_description_disambiguating.secret]] 
 

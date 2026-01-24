@@ -36,7 +36,7 @@ A specific dosing schedule for a drug or supplement.
 
 #has_/parent_class :: [[../MedicalIntangible]]  
 
-#has_/child_classes :: [ MaximumDoseSchedule, RecommendedDoseSchedule, ReportedDoseSchedule ]  
+#has_/child_/class :: [ MaximumDoseSchedule, RecommendedDoseSchedule, ReportedDoseSchedule ]  
 
 #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, doseUnit, doseValue, frequency, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, targetPopulation, url ]  
 

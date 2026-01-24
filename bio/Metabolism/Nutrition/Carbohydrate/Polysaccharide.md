@@ -33,7 +33,7 @@ Commons_category: Polysaccharides
 
 # [[Polysaccharide]] 
 
-#has_/child_classes :: [[Oligosaccharide]] 
+#has_/child_/class :: [[Oligosaccharide]] 
 #has_/instances :: [[Polysaccharide/Cellulose]]
 #has_/instances :: [[Polysaccharide/Chitin]]
 #has_/instances :: [[Polysaccharide/Glycogen]]

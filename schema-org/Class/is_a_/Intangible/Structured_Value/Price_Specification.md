@@ -39,7 +39,7 @@ dv_has_:
   child_class: "[ CompoundPriceSpecification, DeliveryChargeSpecification, PaymentChargeSpecification, UnitPriceSpecification ]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, eligibleQuantity, eligibleTransactionVolume, identifier, image, mainEntityOfPage, maxPrice, minPrice, name, potentialAction, price, priceCurrency, sameAs, subjectOf, url, validFrom, validThrough, valueAddedTaxIncluded ]"
 dv_has_parent_class: "[[../StructuredValue]]"
-dv_has_child_classes: "[ CompoundPriceSpecification, DeliveryChargeSpecification, PaymentChargeSpecification, UnitPriceSpecification ]"
+dv_has_child_class: "[ CompoundPriceSpecification, DeliveryChargeSpecification, PaymentChargeSpecification, UnitPriceSpecification ]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, eligibleQuantity, eligibleTransactionVolume, identifier, image, mainEntityOfPage, maxPrice, minPrice, name, potentialAction, price, priceCurrency, sameAs, subjectOf, url, validFrom, validThrough, valueAddedTaxIncluded ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification|Price_Specification]]"

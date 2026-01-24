@@ -36,7 +36,7 @@ A financial product for the loaning of an amount of money, or line of credit, un
 
 #has_/parent_class :: [[../FinancialProduct]]  
 
-#has_/child_classes :: [ CreditCard, MortgageLoan ]  
+#has_/child_/class :: [ CreditCard, MortgageLoan ]  
 
 #has_/properties :: [ additionalType, aggregateRating, alternateName, amount, annualPercentageRate, areaServed, audience, availableChannel, award, brand, broker, category, currency, description, disambiguatingDescription, feesAndCommissionsSpecification, gracePeriod, hasOfferCatalog, hoursAvailable, identifier, image, interestRate, isRelatedTo, isSimilarTo, loanRepaymentForm, loanTerm, loanType, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, recourseLoan, renegotiableLoan, requiredCollateral, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ]  
 

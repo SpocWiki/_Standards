@@ -37,7 +37,7 @@ dv_has_:
   child_class: "[ AggregateRating, EndorsementRating ]"
   properties: "[ additionalType, alternateName, author, bestRating, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, ratingExplanation, ratingValue, reviewAspect, sameAs, subjectOf, url, worstRating ]"
 dv_has_parent_class: "[[../Intangible]]"
-dv_has_child_classes: "[ AggregateRating, EndorsementRating ]"
+dv_has_child_class: "[ AggregateRating, EndorsementRating ]"
 dv_has_properties: "[ additionalType, alternateName, author, bestRating, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, ratingExplanation, ratingValue, reviewAspect, sameAs, subjectOf, url, worstRating ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Rating|Rating]]"

@@ -35,7 +35,7 @@ that transport blood throughout the entire body.
 
 #has_/parent_class :: [[../AnatomicalStructure]]  
 
-#has_/child_classes :: [ Artery, LymphaticVessel, Vein ]  
+#has_/child_/class :: [ Artery, LymphaticVessel, Vein ]  
 
 #has_/properties :: [ additionalType, alternateName, associatedPathophysiology, bodyLocation, code, connectedTo, description, diagram, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, partOfSystem, potentialAction, recognizingAuthority, relatedCondition, relatedTherapy, relevantSpecialty, sameAs, study, subStructure, subjectOf, url ]  
 

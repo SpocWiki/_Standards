@@ -39,7 +39,7 @@ Any part of the human body, typically a component of an anatomical system. Organ
 
 #has_/parent_class :: [[../MedicalEntity]]  
 
-#has_/child_classes :: [ Bone, BrainStructure, Joint, Ligament, Muscle, Nerve, Vessel ]  
+#has_/child_/class :: [ Bone, BrainStructure, Joint, Ligament, Muscle, Nerve, Vessel ]  
 
 #has_/properties :: [ additionalType, alternateName, associatedPathophysiology, bodyLocation, code, connectedTo, description, diagram, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, partOfSystem, potentialAction, recognizingAuthority, relatedCondition, relatedTherapy, relevantSpecialty, sameAs, study, subStructure, subjectOf, url ]  
 

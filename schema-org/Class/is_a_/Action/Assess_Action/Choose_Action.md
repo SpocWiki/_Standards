@@ -39,7 +39,7 @@ dv_has_:
   child_class: "[ VoteAction ]"
   properties: "[ actionOption, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, option, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
 dv_has_parent_class: "[[../AssessAction]]"
-dv_has_child_classes: "[ VoteAction ]"
+dv_has_child_class: "[ VoteAction ]"
 dv_has_properties: "[ actionOption, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, option, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Action/Assess_Action/Choose_Action|Choose_Action]]"

@@ -36,7 +36,7 @@ Any medical test, typically performed for diagnostic purposes.
 
 #has_/parent_class :: [[../MedicalEntity]]  
 
-#has_/child_classes :: [ BloodTest, ImagingTest, MedicalTestPanel, PathologyTest ]  
+#has_/child_/class :: [ BloodTest, ImagingTest, MedicalTestPanel, PathologyTest ]  
 
 #has_/properties :: [ additionalType, affectedBy, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, normalRange, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, signDetected, study, subjectOf, url, usedToDiagnose, usesDevice ]  
 

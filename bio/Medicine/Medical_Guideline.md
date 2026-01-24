@@ -38,7 +38,7 @@ Any recommendation made by a standard society (e.g. ACC/AHA) or consensus statem
 
 #has_/parent_class :: [[../MedicalEntity]]  
 
-#has_/child_classes :: [ MedicalGuidelineContraindication, MedicalGuidelineRecommendation ]  
+#has_/child_/class :: [ MedicalGuidelineContraindication, MedicalGuidelineRecommendation ]  
 
 #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, evidenceLevel, evidenceOrigin, funding, guideline, guidelineDate, guidelineSubject, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ]  
 

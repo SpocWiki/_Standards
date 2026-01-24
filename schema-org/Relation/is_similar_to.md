@@ -31,7 +31,7 @@ type: Predi_Relation
 #has_/complement :: [[is_different_from]] 
 
 If possible, use the more specific 
-#has_/parent_class  or #has_/child_classes 
+#has_/parent_class  or #has_/child_/class 
 or specify [[because :: reason for the difference]]. 
 
 Additionally use the Standard [[../../W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/owl(Ontology_Web_Language)|owl(Ontology_Web_Language)]] Relation 

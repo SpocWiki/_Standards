@@ -49,15 +49,15 @@ Relation describes that:
 
 ### #is_/same_as :: [[has_return_policy_country|has_return_policy_country]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_return_policy_country.public|has_return_policy_country.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_return/has_return_policy_country.public|has_return_policy_country.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_return_policy_country.internal|has_return_policy_country.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_return/has_return_policy_country.internal|has_return_policy_country.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_return_policy_country.protect|has_return_policy_country.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_return/has_return_policy_country.protect|has_return_policy_country.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_return_policy_country.private|has_return_policy_country.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_return/has_return_policy_country.private|has_return_policy_country.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_return_policy_country.personal|has_return_policy_country.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_return/has_return_policy_country.personal|has_return_policy_country.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_return_policy_country.secret|has_return_policy_country.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_return/has_return_policy_country.secret|has_return_policy_country.secret]] 
 

@@ -48,15 +48,15 @@ Relation describes that:
 
 ### #is_/same_as :: [[has_return_fees|has_return_fees]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_return_fees.public|has_return_fees.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_return/has_return_fees.public|has_return_fees.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_return_fees.internal|has_return_fees.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_return/has_return_fees.internal|has_return_fees.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_return_fees.protect|has_return_fees.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_return/has_return_fees.protect|has_return_fees.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_return_fees.private|has_return_fees.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_return/has_return_fees.private|has_return_fees.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_return_fees.personal|has_return_fees.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_return/has_return_fees.personal|has_return_fees.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_return_fees.secret|has_return_fees.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_return/has_return_fees.secret|has_return_fees.secret]] 
 

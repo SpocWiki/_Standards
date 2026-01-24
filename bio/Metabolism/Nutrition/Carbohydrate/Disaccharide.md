@@ -6,7 +6,7 @@ aliases:
 ---
 
 #has_/parent_class :: [[Oligosaccharide]] 
-#has_/child_classes :: [[Monosaccharide]] 
+#has_/child_/class :: [[Monosaccharide]] 
 #has_/instances :: [[Disaccharide/Lactose]] 
 #has_/instances :: [[Disaccharide/Maltose]] 
 #has_/instances :: [[Disaccharide/Sucrose]]  

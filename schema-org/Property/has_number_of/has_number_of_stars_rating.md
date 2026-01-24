@@ -28,7 +28,7 @@ type: Predi_Quantity
 dv_has_:
   number_of_:
     stars_rating: "[[../../Class/is_a_/Intangible/Rating|Rating]]"
-  domain: "[ [[../../../Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment|FoodEstablishment]], [[../../../Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business|LodgingBusiness]] ]"
+  domain: ["[[../../../Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment|FoodEstablishment]]", "[[../../../Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business|LodgingBusiness]]"]
   name: has_number_of_stars_rating
   range: "[[../../Class/is_a_/Intangible/Rating|Rating]]"
 dv_has_number_of_stars_rating: "[[../../Class/is_a_/Intangible/Rating|Rating]]"
@@ -43,7 +43,7 @@ dv_is_:
     - "[[/_personal/schema-org/Property/has_number_of/has_number_of_stars_rating.personal|has_number_of_stars_rating.personal]]"
     - "[[/_secret/schema-org/Property/has_number_of/has_number_of_stars_rating.secret|has_number_of_stars_rating.secret]]"
 dv_is_similar_to: "[[../has_value_for/has_value_for_rating|has_value_for_rating]]"
-dv_has_domain: "[ [[../../../Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment|FoodEstablishment]], [[../../../Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business|LodgingBusiness]] ]"
+dv_has_domain: ["[[../../../Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment|FoodEstablishment]]", "[[../../../Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business|LodgingBusiness]]"]
 dv_has_name: has_number_of_stars_rating
 dv_has_range: "[[../../Class/is_a_/Intangible/Rating|Rating]]"
 dv_is_same_as:

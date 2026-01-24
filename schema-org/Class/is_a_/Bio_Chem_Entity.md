@@ -41,10 +41,10 @@ For example: a protein; a gene; a chemical; a synthetic chemical.
 
 #has_/parent_class :: [[../Thing|Thing]] 
 
-#has_/child_classes :: [[../../../Chemistry/Substance/Chemical_Substance|Chemical_Substance]]  
-#has_/child_classes :: [ ChemicalSubstance, Gene, MolecularEntity, Protein ] 
-#has_/child_classes :: [ ChemicalSubstance, Gene, MolecularEntity, Protein ] 
-#has_/child_classes :: [ ChemicalSubstance, Gene, MolecularEntity, Protein ] 
+#has_/child_/class :: [[../../../Chemistry/Substance/Chemical_Substance|Chemical_Substance]]  
+#has_/child_/class :: [ ChemicalSubstance, Gene, MolecularEntity, Protein ] 
+#has_/child_/class :: [ ChemicalSubstance, Gene, MolecularEntity, Protein ] 
+#has_/child_/class :: [ ChemicalSubstance, Gene, MolecularEntity, Protein ] 
 
 #has_/properties :: [ additionalType, alternateName, associatedDisease, bioChemInteraction, bioChemSimilarity, biologicalRole, description, disambiguatingDescription, funding, hasBioChemEntityPart, hasMolecularFunction, hasRepresentation, identifier, image, isEncodedByBioChemEntity, isInvolvedInBiologicalProcess, isLocatedInSubcellularLocation, isPartOfBioChemEntity, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, taxonomicRange, url ]  
 

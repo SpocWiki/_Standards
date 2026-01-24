@@ -38,7 +38,7 @@ dv_has_:
   child_class: "[ HowToSupply, HowToTool ]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, item, mainEntityOfPage, name, nextItem, position, potentialAction, previousItem, requiredQuantity, sameAs, subjectOf, url ]"
 dv_has_parent_class: "[[../ListItem]]"
-dv_has_child_classes: "[ HowToSupply, HowToTool ]"
+dv_has_child_class: "[ HowToSupply, HowToTool ]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, item, mainEntityOfPage, name, nextItem, position, potentialAction, previousItem, requiredQuantity, sameAs, subjectOf, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Collection/list_item/how_to_item|how_to_item]]"

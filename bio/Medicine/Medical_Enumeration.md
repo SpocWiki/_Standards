@@ -36,7 +36,7 @@ Enumerations related to health and the practice of medicine: A concept that is u
 
 #has_/parent_class :: [[../../schema-org/Enumeration]]  
 
-#has_/child_classes :: [ DrugCostCategory, DrugPregnancyCategory, DrugPrescriptionStatus, InfectiousAgentClass, MedicalAudienceType, MedicalDevicePurpose, MedicalEvidenceLevel, MedicalImagingTechnique, MedicalObservationalStudyDesign, MedicalProcedureType, MedicalSpecialty, MedicalStudyStatus, MedicalTrialDesign, MedicineSystem, PhysicalExam ]  
+#has_/child_/class :: [ DrugCostCategory, DrugPregnancyCategory, DrugPrescriptionStatus, InfectiousAgentClass, MedicalAudienceType, MedicalDevicePurpose, MedicalEvidenceLevel, MedicalImagingTechnique, MedicalObservationalStudyDesign, MedicalProcedureType, MedicalSpecialty, MedicalStudyStatus, MedicalTrialDesign, MedicineSystem, PhysicalExam ]  
 
 ## Confidential Links & Embeds: 
 

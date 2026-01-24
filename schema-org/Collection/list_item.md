@@ -38,7 +38,7 @@ dv_has_:
   child_class: "[ HowToDirection, HowToItem, HowToSection, HowToStep, HowToTip ]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, item, mainEntityOfPage, name, nextItem, position, potentialAction, previousItem, sameAs, subjectOf, url ]"
 dv_has_parent_class: "[[../Class/is_a_/Intangible]]]"
-dv_has_child_classes: "[ HowToDirection, HowToItem, HowToSection, HowToStep, HowToTip ]"
+dv_has_child_class: "[ HowToDirection, HowToItem, HowToSection, HowToStep, HowToTip ]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, item, mainEntityOfPage, name, nextItem, position, potentialAction, previousItem, sameAs, subjectOf, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Collection/list_item|list_item]]"

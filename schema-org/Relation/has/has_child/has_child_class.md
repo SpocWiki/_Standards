@@ -62,10 +62,11 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Class/has_child_class.secret|has_child_class.secret]]"
 ---
 
+# [[has_child_class]] 
+
 is_better_than = `=this.dv_is_better_than` 
 is_similar_to = `=this.dv_is_similar_to` 
 
-# [[has_child_class]] 
 
 Indicates a ([[../../../Collection/item_list|item_list]] of) [[Thing]] is an instance of this [[../../../Class]].
 
@@ -74,7 +75,8 @@ Use it like this:
 - has_child_class = `=this.dv_has_child_class` 
 
 Relation describes that: 
-
+#has_/child_/class 
+#has_/child_/class 
 has_domain = `=this.dv_has_domain` 
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 

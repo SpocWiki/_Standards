@@ -41,7 +41,7 @@ dv_has_:
   properties: "[ additionalType, alternateName, applicationDeadline, applicationStartDate, dayOfWeek, description, disambiguatingDescription, educationalCredentialAwarded, educationalProgramMode, endDate, financialAidEligible, hasCourse, identifier, image, mainEntityOfPage, maximumEnrollment, name, numberOfCredits, occupationalCategory, occupationalCredentialAwarded, offers, potentialAction, programPrerequisites, programType, provider, salaryUponCompletion, sameAs, startDate, subjectOf, termDuration, termsPerYear, timeOfDay, timeToComplete, trainingSalary, typicalCreditsPerTerm, url ]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../Intangible]]"
-dv_has_child_classes: "[ WorkBasedProgram ]"
+dv_has_child_class: "[ WorkBasedProgram ]"
 dv_has_properties: "[ additionalType, alternateName, applicationDeadline, applicationStartDate, dayOfWeek, description, disambiguatingDescription, educationalCredentialAwarded, educationalProgramMode, endDate, financialAidEligible, hasCourse, identifier, image, mainEntityOfPage, maximumEnrollment, name, numberOfCredits, occupationalCategory, occupationalCredentialAwarded, offers, potentialAction, programPrerequisites, programType, provider, salaryUponCompletion, sameAs, startDate, subjectOf, termDuration, termsPerYear, timeOfDay, timeToComplete, trainingSalary, typicalCreditsPerTerm, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Educational_Occupational_Program|Educational_Occupational_Program]]"

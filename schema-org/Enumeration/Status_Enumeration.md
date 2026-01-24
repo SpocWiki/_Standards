@@ -38,7 +38,7 @@ dv_has_:
   parent_class: "[[../Enumeration]]"
   child_class: "[ ActionStatusType, EventStatusType, GameServerStatus, LegalForceStatus, OrderStatus, PaymentStatusType, ReservationStatusType ]"
 dv_has_parent_class: "[[../Enumeration]]"
-dv_has_child_classes: "[ ActionStatusType, EventStatusType, GameServerStatus, LegalForceStatus, OrderStatus, PaymentStatusType, ReservationStatusType ]"
+dv_has_child_class: "[ ActionStatusType, EventStatusType, GameServerStatus, LegalForceStatus, OrderStatus, PaymentStatusType, ReservationStatusType ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Status_Enumeration|Status_Enumeration]]"
   - "[[/_public/schema-org/Enumeration/Status_Enumeration.public|Status_Enumeration.public]]"

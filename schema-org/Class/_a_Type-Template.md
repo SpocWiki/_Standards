@@ -51,7 +51,7 @@ dv_has_:
 dv_is_part_of: "{{isPartOf}}"
 dv_has_parent_class: "[[../{{subTypeOf}}]]"
 dv_is_enum_of: "[[../{{enumerationtype}}]]"
-dv_has_child_classes: "[ {{subTypes}} ]"
+dv_has_child_class: "[ {{subTypes}} ]"
 dv_has_properties: "[ {{properties}} ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/_a_Type-Template|_a_Type-Template]]"

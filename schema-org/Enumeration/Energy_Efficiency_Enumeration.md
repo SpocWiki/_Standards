@@ -40,7 +40,7 @@ dv_has_:
   child_class: "[ EUEnergyEfficiencyEnumeration, EnergyStarEnergyEfficiencyEnumeration ]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../Enumeration]]"
-dv_has_child_classes: "[ EUEnergyEfficiencyEnumeration, EnergyStarEnergyEfficiencyEnumeration ]"
+dv_has_child_class: "[ EUEnergyEfficiencyEnumeration, EnergyStarEnergyEfficiencyEnumeration ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Energy_Efficiency_Enumeration|Energy_Efficiency_Enumeration]]"
   - "[[/_public/schema-org/Enumeration/Energy_Efficiency_Enumeration.public|Energy_Efficiency_Enumeration.public]]"

@@ -36,7 +36,7 @@ A payment method using a credit, debit, store or other card to associate the pay
 
 #has_/parent_class :: [[../FinancialProduct, PaymentMethod]]  
 
-#has_/child_classes :: [ CreditCard ]  
+#has_/child_/class :: [ CreditCard ]  
 
 #has_/properties :: [ additionalType, aggregateRating, alternateName, annualPercentageRate, areaServed, audience, availableChannel, award, brand, broker, cashBack, category, contactlessPayment, description, disambiguatingDescription, feesAndCommissionsSpecification, floorLimit, hasOfferCatalog, hoursAvailable, identifier, image, interestRate, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, monthlyMinimumRepaymentAmount, name, offers, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ]  
 

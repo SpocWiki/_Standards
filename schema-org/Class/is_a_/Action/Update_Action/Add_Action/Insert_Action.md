@@ -39,7 +39,7 @@ dv_has_:
   child_class: "[ AppendAction, PrependAction ]"
   properties: "[ actionStatus, additionalType, agent, alternateName, collection, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, targetCollection, toLocation, url ]"
 dv_has_parent_class: "[[../AddAction]]"
-dv_has_child_classes: "[ AppendAction, PrependAction ]"
+dv_has_child_class: "[ AppendAction, PrependAction ]"
 dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, collection, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, targetCollection, toLocation, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Action/Update_Action/Add_Action/Insert_Action|Insert_Action]]"

@@ -3,6 +3,8 @@ aliases:
   - alternate-name
   - alternate_name
   - alternateName
+  - schema:alternateName
+  - has_name_alternate
   - has_name_alternate
   - has name alternate
 confidential: public

@@ -40,7 +40,7 @@ dv_has_:
   child_class: "[ NLNonprofitType, UKNonprofitType, USNonprofitType ]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../Enumeration]]"
-dv_has_child_classes: "[ NLNonprofitType, UKNonprofitType, USNonprofitType ]"
+dv_has_child_class: "[ NLNonprofitType, UKNonprofitType, USNonprofitType ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Nonprofit_Type|Nonprofit_Type]]"
   - "[[/_public/schema-org/Enumeration/Nonprofit_Type.public|Nonprofit_Type.public]]"

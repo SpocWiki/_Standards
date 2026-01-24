@@ -39,7 +39,7 @@ dv_has_:
   child_class: "[ AchieveAction, AssessAction, ConsumeAction, ControlAction, CreateAction, FindAction, InteractAction, MoveAction, OrganizeAction, PlayAction, SearchAction, SeekToAction, SolveMathAction, TradeAction, TransferAction, UpdateAction ]"
   properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
 dv_is_similar_to: "[[Activity]]"
-dv_has_child_classes: "[ AchieveAction, AssessAction, ConsumeAction, ControlAction, CreateAction, FindAction, InteractAction, MoveAction, OrganizeAction, PlayAction, SearchAction, SeekToAction, SolveMathAction, TradeAction, TransferAction, UpdateAction ]"
+dv_has_child_class: "[ AchieveAction, AssessAction, ConsumeAction, ControlAction, CreateAction, FindAction, InteractAction, MoveAction, OrganizeAction, PlayAction, SearchAction, SeekToAction, SolveMathAction, TradeAction, TransferAction, UpdateAction ]"
 dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Action|Action]]"

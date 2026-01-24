@@ -26,7 +26,7 @@ dv_has_:
   agent: Organization, Person
   domain: "[[../../Class/is_a_/action]]"
   name: has_agent
-  range: "[[../../../Society/Agent/Community/Organization]], [[../../../Society/Agent/Person]]"
+  range: ["[[../../../Society/Agent/Community/Organization]]", "[[../../../Society/Agent/Person]]"]
   inverse: "[[is_agent_for]]"
 dv_has_agent: Organization, Person
 dv_is_:
@@ -41,7 +41,7 @@ dv_is_:
     - "[[has_agent]]"
 dv_has_domain: "[[../../Class/is_a_/action]]"
 dv_has_name: has_agent
-dv_has_range: "[[../../../Society/Agent/Community/Organization]], [[../../../Society/Agent/Person]]"
+dv_has_range: ["[[../../../Society/Agent/Community/Organization]]", "[[../../../Society/Agent/Person]]"]
 dv_is_same_as:
   - "[[has_agent]]"
   - "[[/_public/schema-org/Relation/has/has_agent.public|has_agent.public]]"

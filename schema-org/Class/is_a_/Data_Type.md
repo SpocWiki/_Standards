@@ -38,7 +38,7 @@ dv_has_:
   parent_class: "[[../../Class|Class]]"
   child_class: "[ Boolean, Time, DateTime, Date, Text, Number ]"
 dv_has_parent_class: "[[../../Class|Class]]"
-dv_has_child_classes: "[ Boolean, Time, DateTime, Date, Text, Number ]"
+dv_has_child_class: "[ Boolean, Time, DateTime, Date, Text, Number ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Data_Type|Data_Type]]"
   - "[[/_public/schema-org/Class/is_a_/Data_Type.public|Data_Type.public]]"

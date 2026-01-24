@@ -49,15 +49,15 @@ Relation describes that:
 
 ### #is_/same_as :: [[has_return_label_source|has_return_label_source]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_return_label_source.public|has_return_label_source.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_return/has_return_label_source.public|has_return_label_source.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_return_label_source.internal|has_return_label_source.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_return/has_return_label_source.internal|has_return_label_source.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_return_label_source.protect|has_return_label_source.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_return/has_return_label_source.protect|has_return_label_source.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_return_label_source.private|has_return_label_source.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_return/has_return_label_source.private|has_return_label_source.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_return_label_source.personal|has_return_label_source.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_return/has_return_label_source.personal|has_return_label_source.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_return_label_source.secret|has_return_label_source.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_return/has_return_label_source.secret|has_return_label_source.secret]] 
 

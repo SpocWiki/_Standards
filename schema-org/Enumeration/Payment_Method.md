@@ -38,7 +38,7 @@ dv_has_:
   parent_class: "[[../Enumeration]]"
   child_class: "[ PaymentCard ]"
 dv_has_parent_class: "[[../Enumeration]]"
-dv_has_child_classes: "[ PaymentCard ]"
+dv_has_child_class: "[ PaymentCard ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Payment_Method|Payment_Method]]"
   - "[[/_public/schema-org/Enumeration/Payment_Method.public|Payment_Method.public]]"

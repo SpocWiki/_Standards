@@ -37,7 +37,7 @@ dv_has_:
   child_class: "[ BoatReservation, BusReservation, EventReservation, FlightReservation, FoodEstablishmentReservation, LodgingReservation, RentalCarReservation, ReservationPackage, TaxiReservation, TrainReservation ]"
   properties: "[ additionalType, alternateName, bookingAgent, bookingTime, broker, description, disambiguatingDescription, identifier, image, mainEntityOfPage, modifiedTime, name, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, subjectOf, totalPrice, underName, url ]"
 dv_has_parent_class: "[[../Intangible]]"
-dv_has_child_classes: "[ BoatReservation, BusReservation, EventReservation, FlightReservation, FoodEstablishmentReservation, LodgingReservation, RentalCarReservation, ReservationPackage, TaxiReservation, TrainReservation ]"
+dv_has_child_class: "[ BoatReservation, BusReservation, EventReservation, FlightReservation, FoodEstablishmentReservation, LodgingReservation, RentalCarReservation, ReservationPackage, TaxiReservation, TrainReservation ]"
 dv_has_properties: "[ additionalType, alternateName, bookingAgent, bookingTime, broker, description, disambiguatingDescription, identifier, image, mainEntityOfPage, modifiedTime, name, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, subjectOf, totalPrice, underName, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Reservation|Reservation]]"

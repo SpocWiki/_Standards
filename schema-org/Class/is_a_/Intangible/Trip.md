@@ -37,7 +37,7 @@ dv_has_:
   child_class: "[ BoatTrip, BusTrip, Flight, TouristTrip, TrainTrip ]"
   properties: "[ additionalType, alternateName, arrivalTime, departureTime, description, disambiguatingDescription, identifier, image, itinerary, mainEntityOfPage, name, offers, partOfTrip, potentialAction, provider, sameAs, subTrip, subjectOf, url ]"
 dv_has_parent_class: "[[../Intangible]]"
-dv_has_child_classes: "[ BoatTrip, BusTrip, Flight, TouristTrip, TrainTrip ]"
+dv_has_child_class: "[ BoatTrip, BusTrip, Flight, TouristTrip, TrainTrip ]"
 dv_has_properties: "[ additionalType, alternateName, arrivalTime, departureTime, description, disambiguatingDescription, identifier, image, itinerary, mainEntityOfPage, name, offers, partOfTrip, potentialAction, provider, sameAs, subTrip, subjectOf, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Trip|Trip]]"

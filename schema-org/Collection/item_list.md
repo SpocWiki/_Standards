@@ -38,7 +38,7 @@ dv_has_:
   child_class: "[ BreadcrumbList, HowToSection, HowToStep, OfferCatalog ]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, itemListElement, itemListOrder, mainEntityOfPage, name, numberOfItems, potentialAction, sameAs, subjectOf, url ]"
 dv_has_parent_class: "[[../Class/is_a_/Intangible]]]"
-dv_has_child_classes: "[ BreadcrumbList, HowToSection, HowToStep, OfferCatalog ]"
+dv_has_child_class: "[ BreadcrumbList, HowToSection, HowToStep, OfferCatalog ]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, itemListElement, itemListOrder, mainEntityOfPage, name, numberOfItems, potentialAction, sameAs, subjectOf, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Collection/item_list|item_list]]"

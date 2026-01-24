@@ -39,7 +39,7 @@ dv_has_:
   child_class: "[ BorrowAction, DownloadAction, GiveAction, LendAction, MoneyTransfer, ReceiveAction, ReturnAction, SendAction, TakeAction ]"
   properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ]"
 dv_has_parent_class: "[[../Action]]"
-dv_has_child_classes: "[ BorrowAction, DownloadAction, GiveAction, LendAction, MoneyTransfer, ReceiveAction, ReturnAction, SendAction, TakeAction ]"
+dv_has_child_class: "[ BorrowAction, DownloadAction, GiveAction, LendAction, MoneyTransfer, ReceiveAction, ReturnAction, SendAction, TakeAction ]"
 dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Action/Transfer_Action|Transfer_Action]]"

@@ -3,7 +3,7 @@ dv_has_:
   inverse: "[[../../Class/is_instance_of]]"
   examples: "[[../../Collection]]"
   domain: "[[../../Class|Class]]"
-  sub_properties: "[ [[has_work_example]] ]"
+  sub_properties: ["[[has_work_example]]"]
   name: "[[has_examples]]"
   range: "[[../../Collection]]"
 dv_has_examples: "[[../../Collection]]"
@@ -20,7 +20,7 @@ dv_has_domain: "[[../../Class|Class]]"
 dv_has_name: "[[has_examples]]"
 dv_has_range: "[[../../Collection]]"
 dv_has_inverse: "[[../../Class/is_instance_of]]"
-dv_has_child_property: "[ [[has_work_example]] ]"
+dv_has_child_property: ["[[has_work_example]]"]
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_examples|has_examples]]"
   - "[[/_public/schema-org/Relation/has/has_examples.public|has_examples.public]]"

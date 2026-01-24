@@ -39,7 +39,7 @@ without producing a lasting asset
 
 #has_/parent_class :: [[../../../../../schema-org/Class/is_a_/Intangible]]  
 
-#has_/child_classes :: [ BroadcastService, CableOrSatelliteService, FinancialProduct, FoodService, GovernmentService, Taxi, TaxiService, WebAPI ]  
+#has_/child_/class :: [ BroadcastService, CableOrSatelliteService, FinancialProduct, FoodService, GovernmentService, Taxi, TaxiService, WebAPI ]  
 
 #has_/properties :: [ additionalType, aggregateRating, alternateName, areaServed, audience, availableChannel, award, brand, broker, category, description, disambiguatingDescription, hasOfferCatalog, hoursAvailable, identifier, image, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ]  
 

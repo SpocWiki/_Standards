@@ -37,7 +37,7 @@ dv_has_:
   child_class: "[ GovernmentPermit ]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, issuedBy, issuedThrough, mainEntityOfPage, name, permitAudience, potentialAction, sameAs, subjectOf, url, validFor, validFrom, validIn, validUntil ]"
 dv_has_parent_class: "[[../Intangible]]"
-dv_has_child_classes: "[ GovernmentPermit ]"
+dv_has_child_class: "[ GovernmentPermit ]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, issuedBy, issuedThrough, mainEntityOfPage, name, permitAudience, potentialAction, sameAs, subjectOf, url, validFor, validFrom, validIn, validUntil ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Permit|Permit]]"

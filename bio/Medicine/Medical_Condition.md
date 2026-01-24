@@ -36,7 +36,7 @@ Any condition of the human body that affects the normal functioning of a person,
 
 #has_/parent_class :: [[../MedicalEntity]]  
 
-#has_/child_classes :: [ InfectiousDisease, MedicalSignOrSymptom ]  
+#has_/child_/class :: [ InfectiousDisease, MedicalSignOrSymptom ]  
 
 #has_/properties :: [ additionalType, alternateName, associatedAnatomy, code, description, differentialDiagnosis, disambiguatingDescription, drug, epidemiology, expectedPrognosis, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, naturalProgression, pathophysiology, possibleComplication, possibleTreatment, potentialAction, primaryPrevention, recognizingAuthority, relevantSpecialty, riskFactor, sameAs, secondaryPrevention, signOrSymptom, stage, status, study, subjectOf, typicalTest, url ]  
 

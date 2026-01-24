@@ -39,7 +39,7 @@ dv_has_:
   child_class: "[ Patient ]"
   properties: "[ additionalType, alternateName, audienceType, description, disambiguatingDescription, geographicArea, healthCondition, identifier, image, mainEntityOfPage, name, potentialAction, requiredGender, requiredMaxAge, requiredMinAge, sameAs, subjectOf, suggestedAge, suggestedGender, suggestedMaxAge, suggestedMeasurement, suggestedMinAge, url ]"
 dv_has_parent_class: "[[../Audience, PeopleAudience]]"
-dv_has_child_classes: "[ Patient ]"
+dv_has_child_class: "[ Patient ]"
 dv_has_properties: "[ additionalType, alternateName, audienceType, description, disambiguatingDescription, geographicArea, healthCondition, identifier, image, mainEntityOfPage, name, potentialAction, requiredGender, requiredMaxAge, requiredMinAge, sameAs, subjectOf, suggestedAge, suggestedGender, suggestedMaxAge, suggestedMeasurement, suggestedMinAge, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Audience/Medical_Audience|Medical_Audience]]"

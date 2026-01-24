@@ -36,7 +36,7 @@ dv_has_:
   parent_class: "[[../Enumeration]]"
   child_class: "[ MedicalSpecialty ]"
 dv_has_parent_class: "[[../Enumeration]]"
-dv_has_child_classes: "[ MedicalSpecialty ]"
+dv_has_child_class: "[ MedicalSpecialty ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Specialty|Specialty]]"
   - "[[/_public/schema-org/Enumeration/Specialty.public|Specialty.public]]"

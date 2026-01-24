@@ -3,6 +3,7 @@ aliases:
   - value-pattern
   - value_pattern
   - valuePattern
+  - schema:valuePattern
   - has_text_of_value_pattern
   - has_value_pattern
   - has value pattern

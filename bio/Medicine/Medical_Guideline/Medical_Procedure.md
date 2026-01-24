@@ -40,7 +40,7 @@ A process of care used in either a diagnostic, therapeutic, preventive or pallia
 
 #has_/parent_class :: [[../MedicalEntity]]  
 
-#has_/child_classes :: [ DiagnosticProcedure, PalliativeProcedure, PhysicalExam, SurgicalProcedure, TherapeuticProcedure ]  
+#has_/child_/class :: [ DiagnosticProcedure, PalliativeProcedure, PhysicalExam, SurgicalProcedure, TherapeuticProcedure ]  
 
 #has_/properties :: [ additionalType, alternateName, bodyLocation, code, description, disambiguatingDescription, followup, funding, guideline, howPerformed, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, preparation, procedureType, recognizingAuthority, relevantSpecialty, sameAs, status, study, subjectOf, url ]  
 

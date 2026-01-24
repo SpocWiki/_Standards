@@ -39,7 +39,7 @@ dv_has_:
   child_class: "[ EmployerAggregateRating ]"
   properties: "[ additionalType, alternateName, author, bestRating, description, disambiguatingDescription, identifier, image, itemReviewed, mainEntityOfPage, name, potentialAction, ratingCount, ratingExplanation, ratingValue, reviewAspect, reviewCount, sameAs, subjectOf, url, worstRating ]"
 dv_has_parent_class: "[[../Rating]]"
-dv_has_child_classes: "[ EmployerAggregateRating ]"
+dv_has_child_class: "[ EmployerAggregateRating ]"
 dv_has_properties: "[ additionalType, alternateName, author, bestRating, description, disambiguatingDescription, identifier, image, itemReviewed, mainEntityOfPage, name, potentialAction, ratingCount, ratingExplanation, ratingValue, reviewAspect, reviewCount, sameAs, subjectOf, url, worstRating ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating|Aggregate_Rating]]"

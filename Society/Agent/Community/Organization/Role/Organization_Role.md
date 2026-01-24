@@ -36,7 +36,7 @@ A subclass of Role used to describe roles within organizations.
 
 #has_/parent_class :: [[../Role]]  
 
-#has_/child_classes :: [ EmployeeRole ]  
+#has_/child_/class :: [ EmployeeRole ]  
 
 #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, endDate, identifier, image, mainEntityOfPage, name, namedPosition, numberedPosition, potentialAction, roleName, sameAs, startDate, subjectOf, url ]  
 

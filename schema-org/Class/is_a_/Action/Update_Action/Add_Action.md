@@ -39,7 +39,7 @@ dv_has_:
   child_class: "[ InsertAction ]"
   properties: "[ actionStatus, additionalType, agent, alternateName, collection, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, targetCollection, url ]"
 dv_has_parent_class: "[[../UpdateAction]]"
-dv_has_child_classes: "[ InsertAction ]"
+dv_has_child_class: "[ InsertAction ]"
 dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, collection, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, targetCollection, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Action/Update_Action/Add_Action|Add_Action]]"

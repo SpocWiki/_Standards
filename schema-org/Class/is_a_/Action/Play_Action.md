@@ -39,7 +39,7 @@ dv_has_:
   child_class: "[ ExerciseAction, PerformAction ]"
   properties: "[ actionStatus, additionalType, agent, alternateName, audience, description, disambiguatingDescription, endTime, error, event, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
 dv_has_parent_class: "[[../Action]]"
-dv_has_child_classes: "[ ExerciseAction, PerformAction ]"
+dv_has_child_class: "[ ExerciseAction, PerformAction ]"
 dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, audience, description, disambiguatingDescription, endTime, error, event, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Action/Play_Action|Play_Action]]"

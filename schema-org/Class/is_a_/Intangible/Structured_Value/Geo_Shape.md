@@ -39,7 +39,7 @@ dv_has_:
   child_class: "[ GeoCircle ]"
   properties: "[ additionalType, address, addressCountry, alternateName, box, circle, description, disambiguatingDescription, elevation, identifier, image, line, mainEntityOfPage, name, polygon, postalCode, potentialAction, sameAs, subjectOf, url ]"
 dv_has_parent_class: "[[../StructuredValue]]"
-dv_has_child_classes: "[ GeoCircle ]"
+dv_has_child_class: "[ GeoCircle ]"
 dv_has_properties: "[ additionalType, address, addressCountry, alternateName, box, circle, description, disambiguatingDescription, elevation, identifier, image, line, mainEntityOfPage, name, polygon, postalCode, potentialAction, sameAs, subjectOf, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape|Geo_Shape]]"

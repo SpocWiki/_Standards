@@ -50,15 +50,15 @@ Relation describes that:
 
 ### #is_/same_as :: [[has_return_policy_seasonal_override|has_return_policy_seasonal_override]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_return_policy_seasonal_override.public|has_return_policy_seasonal_override.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_return/has_return_policy_seasonal_override.public|has_return_policy_seasonal_override.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_return_policy_seasonal_override.internal|has_return_policy_seasonal_override.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_return/has_return_policy_seasonal_override.internal|has_return_policy_seasonal_override.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_return_policy_seasonal_override.protect|has_return_policy_seasonal_override.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_return/has_return_policy_seasonal_override.protect|has_return_policy_seasonal_override.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_return_policy_seasonal_override.private|has_return_policy_seasonal_override.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_return/has_return_policy_seasonal_override.private|has_return_policy_seasonal_override.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_return_policy_seasonal_override.personal|has_return_policy_seasonal_override.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_return/has_return_policy_seasonal_override.personal|has_return_policy_seasonal_override.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_return_policy_seasonal_override.secret|has_return_policy_seasonal_override.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_return/has_return_policy_seasonal_override.secret|has_return_policy_seasonal_override.secret]] 
 

@@ -39,7 +39,7 @@ dv_has_:
   child_class: "[ AskAction, CheckInAction, CheckOutAction, CommentAction, InformAction, InviteAction, ReplyAction, ShareAction ]"
   properties: "[ about, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, url ]"
 dv_has_parent_class: "[[../InteractAction]]"
-dv_has_child_classes: "[ AskAction, CheckInAction, CheckOutAction, CommentAction, InformAction, InviteAction, ReplyAction, ShareAction ]"
+dv_has_child_class: "[ AskAction, CheckInAction, CheckOutAction, CommentAction, InformAction, InviteAction, ReplyAction, ShareAction ]"
 dv_has_properties: "[ about, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action|Communicate_Action]]"

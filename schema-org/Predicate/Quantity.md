@@ -63,7 +63,7 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Predicate/Quantity.personal|Quantity.personal]]"
   - "[[/_secret/schema-org/Predicate/Quantity.secret|Quantity.secret]]"
 dv_has_parent_class: "[[../Class/is_a_/Intangible]]"
-dv_has_child_classes: "[ Distance, Duration, Energy, Mass ]"
+dv_has_child_class: "[ Distance, Duration, Energy, Mass ]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
 ---
 

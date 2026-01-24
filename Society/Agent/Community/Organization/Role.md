@@ -36,7 +36,7 @@ See also <a href="http://blog.schema.org/2014/06/introducing-role.html">blog pos
 
 #has_/parent_class :: [[../../../../schema-org/Class/is_a_/Intangible]]  
 
-#has_/child_classes :: [ LinkRole, OrganizationRole, PerformanceRole ]  
+#has_/child_/class :: [ LinkRole, OrganizationRole, PerformanceRole ]  
 
 #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, endDate, identifier, image, mainEntityOfPage, name, namedPosition, potentialAction, roleName, sameAs, startDate, subjectOf, url ]  
 

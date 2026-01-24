@@ -36,7 +36,7 @@ Any rule set or interactive tool for estimating the risk of developing a complic
 
 #has_/parent_class :: [[../MedicalEntity]]  
 
-#has_/child_classes :: [ MedicalRiskCalculator, MedicalRiskScore ]  
+#has_/child_/class :: [ MedicalRiskCalculator, MedicalRiskScore ]  
 
 #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, estimatesRiskOf, funding, guideline, identifier, image, includedRiskFactor, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ]  
 

@@ -37,7 +37,7 @@ A medical procedure intended primarily for therapeutic purposes, aimed at improv
 
 #has_/parent_class :: [[../MedicalProcedure]]  
 
-#has_/child_classes :: [ MedicalTherapy, PsychologicalTreatment ]  
+#has_/child_/class :: [ MedicalTherapy, PsychologicalTreatment ]  
 
 #has_/properties :: [ additionalType, adverseOutcome, alternateName, bodyLocation, code, description, disambiguatingDescription, doseSchedule, drug, followup, funding, guideline, howPerformed, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, preparation, procedureType, recognizingAuthority, relevantSpecialty, sameAs, status, study, subjectOf, url ]  
 

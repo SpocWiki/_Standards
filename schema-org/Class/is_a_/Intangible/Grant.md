@@ -39,7 +39,7 @@ dv_has_:
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, fundedItem, funder, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, sponsor, subjectOf, url ]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../Intangible]]"
-dv_has_child_classes: "[ MonetaryGrant ]"
+dv_has_child_class: "[ MonetaryGrant ]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, fundedItem, funder, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, sponsor, subjectOf, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Grant|Grant]]"

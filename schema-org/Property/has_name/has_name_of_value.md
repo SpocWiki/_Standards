@@ -3,6 +3,7 @@ aliases:
   - value-name
   - name_of_value
   - valueName
+  - schema:valueName
   - has_name_of_value
   - has name of value
 confidential: public

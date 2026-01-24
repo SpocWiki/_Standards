@@ -36,7 +36,7 @@ A process of care involving exercise, changes to diet, fitness routines, and oth
 
 #has_/parent_class :: [[../MedicalEntity]]  
 
-#has_/child_classes :: [ Diet, PhysicalActivity ]  
+#has_/child_/class :: [ Diet, PhysicalActivity ]  
 
 #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ]  
 

@@ -40,7 +40,7 @@ A unique instance of a [[../../../../../Agent/Community/Organization/Business/Se
 
 #has_/parent_class :: [[../BroadcastChannel]]  
 
-#has_/child_classes :: [ AMRadioChannel, FMRadioChannel ]  
+#has_/child_/class :: [ AMRadioChannel, FMRadioChannel ]  
 
 #has_/properties :: [ additionalType, alternateName, broadcastChannelId, broadcastFrequency, broadcastServiceTier, description, disambiguatingDescription, genre, identifier, image, inBroadcastLineup, mainEntityOfPage, name, potentialAction, providesBroadcastService, sameAs, subjectOf, url ]  
 

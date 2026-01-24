@@ -40,7 +40,7 @@ dv_has_:
   child_class: "[ WearableSizeSystemEnumeration ]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../Enumeration]]"
-dv_has_child_classes: "[ WearableSizeSystemEnumeration ]"
+dv_has_child_class: "[ WearableSizeSystemEnumeration ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Enumeration/Size_System_Enumeration|Size_System_Enumeration]]"
   - "[[/_public/schema-org/Enumeration/Size_System_Enumeration.public|Size_System_Enumeration.public]]"

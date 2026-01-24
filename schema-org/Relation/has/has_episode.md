@@ -26,7 +26,7 @@ type: Predi_Relation
 dv_has_:
   parent_property: "[[../../Composite/has_parts]]"
   episode: "[[../../../Society/Communication/Media/Creative_Work/Episode|Episode]]"
-  domain: "[ [[../../../Society/Communication/Media/Creative_Work/Creative_Work_Season|CreativeWorkSeason]], [[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Radio_Series|RadioSeries]], [[../../../Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series|TVSeries]], [[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Video_Game_Series|VideoGameSeries]] ]"
+  domain: ["[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Season|CreativeWorkSeason]]", "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Radio_Series|RadioSeries]]", "[[../../../Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series|TVSeries]]", "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Video_Game_Series|VideoGameSeries]]"]
   name: has_episode
   range: "[[../../../Society/Communication/Media/Creative_Work/Episode|Episode]]"
 dv_has_episode: "[[../../Class/is_a_/creative_work/episode|Episode]]"
@@ -39,7 +39,7 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_episode.private|has_episode.private]]"
     - "[[/_personal/schema-org/Relation/has/has_episode.personal|has_episode.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_episode.secret|has_episode.secret]]"
-dv_has_domain: "[ [[../../../Society/Communication/Media/Creative_Work/Creative_Work_Season|CreativeWorkSeason]], [[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Radio_Series|RadioSeries]], [[../../../Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series|TVSeries]], [[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Video_Game_Series|VideoGameSeries]] ]"
+dv_has_domain: ["[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Season|CreativeWorkSeason]]", "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Radio_Series|RadioSeries]]", "[[../../../Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series|TVSeries]]", "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Video_Game_Series|VideoGameSeries]]"]
 dv_has_name: has_episode
 dv_has_range: "[[../../../Society/Communication/Media/Creative_Work/Episode|Episode]]"
 dv_has_parent_property: "[[../../Composite/has_parts]]"

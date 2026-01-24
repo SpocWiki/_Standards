@@ -40,7 +40,7 @@ dv_has_:
   child_class: "[ BusinessAudience, EducationalAudience, MedicalAudience, PeopleAudience, Researcher ]"
   properties: "[ additionalType, alternateName, audienceType, description, disambiguatingDescription, geographicArea, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
 dv_has_parent_class: "[[../Intangible]]"
-dv_has_child_classes: "[ BusinessAudience, EducationalAudience, MedicalAudience, PeopleAudience, Researcher ]"
+dv_has_child_class: "[ BusinessAudience, EducationalAudience, MedicalAudience, PeopleAudience, Researcher ]"
 dv_has_properties: "[ additionalType, alternateName, audienceType, description, disambiguatingDescription, geographicArea, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Audience|Audience]]"

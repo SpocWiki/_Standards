@@ -20,7 +20,7 @@ cssclasses:
 draft: false
 expiryDate: ""
 has_child_classes:
-  - "[[./Class/is_a_/action|Action]]"
+  - "[[Class/is_a_/action|Action]]"
   - "[[Class/is_a_/bio_chem_entity|bio_chem_entity]]"
   - "[[../../Society/Communication/Media/Creative_Work|creative_work]]"
   - "[[Class/is_a_/event|event]]"
@@ -60,13 +60,11 @@ dv_is_:
   instance_of: "[[../Class|Class]]"
   parent_class: "[[Thing]]"
 dv_has_:
-  sub_classes:
-    - '[[Class/is_a_/creative_work.md| "[[Action]], [[Class/is_a_/place.md|[Event]], [[../../Society/Agent/Community/Organization/Business/Product]], [[stupid_Type]], [[../../bio/Taxon_Rank/Taxon]] ]'
-    - '[ "[[./Class/is_an_/action|Action]]", "[[Class/is_a_/bio_chem_entity|bio_chem_entity]]", "[[../../Society/Communication/Media/Creative_Work|creative_work]]", "[[Class/is_a_/event|event]]", "[[Class/is_a_/Intangible|Intangible]]", "[[../../bio/Medicine/Medical_Entity|medical-entity]]", "[[../../Earth/Geography/Place|place]]", "[[../../Society/Agent/Community/Organization|organization]]", "[[../../Society/Agent/Person|person]]", "[[../../Society/Agent/Community/Organization/Business/Product|product]]", "[[../../bio/Taxon_Rank/Taxon|taxon]]" ]'
+  child_class: ["[[is_a_/Action|Action]]", "[[Class/is_a_/bio_chem_entity|bio_chem_entity]]", "[[../../Society/Communication/Media/Creative_Work|creative_work]]", "[[Class/is_a_/event|event]]", "[[Class/is_a_/Intangible|Intangible]]", "[[../../bio/Medicine/Medical_Entity|medical-entity]]", "[[../../Earth/Geography/Place|place]]", "[[../../Society/Agent/Community/Organization|organization]]", "[[../../Society/Agent/Person|person]]", "[[../../Society/Agent/Community/Organization/Business/Product|product]]", "[[../../bio/Taxon_Rank/Taxon|taxon]]" ]
 dv_Predicate:
   Urls:
     "has_url_for_additional_type.md| #has_":
-      properties: "[ \"[has_url_for_additional_type]]\", '[[Predicate/Texts/has_alternate_name.md|has_alternate_name]]', \"[[Predicate/Texts/has_description.md|has_description]]\", disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url"
+      properties: "[ \"[has_url_for_additional_type]]\", '[[Predicate/Texts/has_name_alternate.md|has_name_alternate]]', \"[[Predicate/Texts/has_description.md|has_description]]\", disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url"
 dv_is_same_as:
   - "[[WD~Entity,35120]]"
   - "[[/_Standards/schema-org/Class/Thing|Thing]]"
@@ -78,7 +76,7 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Class/Thing.secret|Thing.secret]]"
 dv_is_instance_of: "[[../Class|Class]]"
 dv_has_parent_class: "[[Thing]]"
-dv_predicateurlshas_url_for_additional_typemd-has_properties: "[ \"[has_url_for_additional_type]]\", '[[Predicate/Texts/has_alternate_name.md|has_alternate_name]]', \"[[Predicate/Texts/has_description.md|has_description]]\", disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url"
+dv_predicateurlshas_url_for_additional_typemd-has_properties: "[ \"[has_url_for_additional_type]]\", '[[Predicate/Texts/has_name_alternate.md|has_name_alternate]]', \"[[Predicate/Texts/has_description.md|has_description]]\", disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url"
 ---
 
 # [[Thing]]s/Entities/Objects/Instances/Resources 
@@ -110,12 +108,12 @@ Don't used this Class in a Relation, because it is too vague. Rather use
 - [[../Relation/has/has_parent/has_parent_class|has_parent_class]]  for Classes
 
 But this is_instance_of = `=this.dv_is_instance_of` ] ] 
-There is no larger Class:  has_parent_class = `=this.dv_has_parent_class` ] ] 
-#has_/child_classes :: [[Class/is_a_/creative_work.md| "[[Action]],  [[Class/is_a_/place.md|[Event]],  [[../../Society/Agent/Community/Organization/Business/Product]],  [[stupid_Type]],  [[../../bio/Taxon_Rank/Taxon]] ] 
+There is no larger Class:  has_parent_class = `=this.dv_has_parent_class`  
+#has_/child_/class :: "[[is_a_/Action|Action]]", "[[Class/is_a_/bio_chem_entity|bio_chem_entity]]", "[[../../Society/Communication/Media/Creative_Work|creative_work]]", "[[Class/is_a_/event|event]]", "[[Class/is_a_/Intangible|Intangible]]", "[[../../bio/Medicine/Medical_Entity|medical-entity]]", "[[../../Earth/Geography/Place|place]]", "[[../../Society/Agent/Community/Organization|organization]]", "[[../../Society/Agent/Person|person]]", "[[../../Society/Agent/Community/Organization/Business/Product|product]]", "[[../../bio/Taxon_Rank/Taxon|taxon]]"   
 
-has_/child_classes:: [ "[[./Class/is_an_/action|Action]]", "[[Class/is_a_/bio_chem_entity|bio_chem_entity]]", "[[../../Society/Communication/Media/Creative_Work|creative_work]]", "[[Class/is_a_/event|event]]", "[[Class/is_a_/Intangible|Intangible]]", "[[../../bio/Medicine/Medical_Entity|medical-entity]]", "[[../../Earth/Geography/Place|place]]", "[[../../Society/Agent/Community/Organization|organization]]", "[[../../Society/Agent/Person|person]]", "[[../../Society/Agent/Community/Organization/Business/Product|product]]", "[[../../bio/Taxon_Rank/Taxon|taxon]]" ]
+has_/child_classes:: "[[is_a_/Action|Action]]", "[[Class/is_a_/bio_chem_entity|bio_chem_entity]]", "[[../../Society/Communication/Media/Creative_Work|creative_work]]", "[[Class/is_a_/event|event]]", "[[Class/is_a_/Intangible|Intangible]]", "[[../../bio/Medicine/Medical_Entity|medical-entity]]", "[[../../Earth/Geography/Place|place]]", "[[../../Society/Agent/Community/Organization|organization]]", "[[../../Society/Agent/Person|person]]", "[[../../Society/Agent/Community/Organization/Business/Product|product]]", "[[../../bio/Taxon_Rank/Taxon|taxon]]" 
 
-[[Predicate/Urls/has_url_for_additional_type.md| #has_/properties :: [ "[has_url_for_additional_type]]", '[[Predicate/Texts/has_alternate_name.md|has_alternate_name]]', "[[Predicate/Texts/has_description.md|has_description]]", disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
+[[Predicate/Urls/has_url_for_additional_type.md| #has_/properties :: [ "[has_url_for_additional_type]]", '[[Predicate/Texts/has_name_alternate.md|has_name_alternate]]', "[[Predicate/Texts/has_description.md|has_description]]", disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
 ## RDF-Objects 
 

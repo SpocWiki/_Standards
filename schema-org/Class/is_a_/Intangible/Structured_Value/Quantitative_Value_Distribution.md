@@ -39,7 +39,7 @@ dv_has_:
   child_class: "[ MonetaryAmountDistribution ]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, duration, identifier, image, mainEntityOfPage, median, name, percentile10, percentile25, percentile75, percentile90, potentialAction, sameAs, subjectOf, url ]"
 dv_has_parent_class: "[[../StructuredValue]]"
-dv_has_child_classes: "[ MonetaryAmountDistribution ]"
+dv_has_child_class: "[ MonetaryAmountDistribution ]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, duration, identifier, image, mainEntityOfPage, median, name, percentile10, percentile25, percentile75, percentile90, potentialAction, sameAs, subjectOf, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution|Quantitative_Value_Distribution]]"

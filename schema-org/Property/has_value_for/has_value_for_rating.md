@@ -27,11 +27,11 @@ title: has_rating-value
 type: Predi_Quantity
 dv_has_:
   value_for_:
-    rating: "[ [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]] ]"
+    rating: ["[[../../Class/is_a_/data_type/number|Number]]", "[[../../Class/is_a_/data_type/text|Text]]"]
   domain: "[[../../Class/is_a_/Intangible/Rating|Rating]]"
   name: has_value_for_rating
-  range: "[ [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]]  ]"
-dv_has_value_for_rating: "[ [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]] ]"
+  range: ["[[../../Class/is_a_/data_type/number|Number]]", "[[../../Class/is_a_/data_type/text|Text]]  ]"
+dv_has_value_for_rating: ["[[../../Class/is_a_/data_type/number|Number]]", "[[../../Class/is_a_/data_type/text|Text]]"]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_rating|has_value_for_rating]]"
@@ -43,7 +43,7 @@ dv_is_:
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_rating.secret|has_value_for_rating.secret]]"
 dv_has_domain: "[[../../Class/is_a_/Intangible/Rating|Rating]]"
 dv_has_name: has_value_for_rating
-dv_has_range: "[ [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]]  ]"
+dv_has_range: ["[[../../Class/is_a_/data_type/number|Number]]", "[[../../Class/is_a_/data_type/text|Text]]  ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_rating|has_value_for_rating]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_rating.public|has_value_for_rating.public]]"

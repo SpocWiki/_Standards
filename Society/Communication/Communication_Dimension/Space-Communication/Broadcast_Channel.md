@@ -68,7 +68,7 @@ A unique instance of a BroadcastService on a CableOrSatelliteService lineup.
 
 #has_/parent_class :: [[../../../../../schema-org/Class/is_a_/Intangible]]  
 
-#has_/child_classes :: [ RadioChannel, TelevisionChannel ]  
+#has_/child_/class :: [ RadioChannel, TelevisionChannel ]  
 
 #has_/properties :: [ additionalType, alternateName, broadcastChannelId, broadcastFrequency, broadcastServiceTier, description, disambiguatingDescription, genre, identifier, image, inBroadcastLineup, mainEntityOfPage, name, potentialAction, providesBroadcastService, sameAs, subjectOf, url ]  
 

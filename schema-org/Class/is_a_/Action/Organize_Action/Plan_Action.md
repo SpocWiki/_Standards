@@ -39,7 +39,7 @@ dv_has_:
   child_class: "[ CancelAction, ReserveAction, ScheduleAction ]"
   properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, scheduledTime, startTime, subjectOf, target, url ]"
 dv_has_parent_class: "[[../OrganizeAction]]"
-dv_has_child_classes: "[ CancelAction, ReserveAction, ScheduleAction ]"
+dv_has_child_class: "[ CancelAction, ReserveAction, ScheduleAction ]"
 dv_has_properties: "[ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, scheduledTime, startTime, subjectOf, target, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Action/Organize_Action/Plan_Action|Plan_Action]]"

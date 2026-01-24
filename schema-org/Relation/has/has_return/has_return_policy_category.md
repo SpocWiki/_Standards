@@ -49,15 +49,15 @@ Relation describes that:
 
 ### #is_/same_as :: [[has_return_policy_category|has_return_policy_category]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_return_policy_category.public|has_return_policy_category.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_return/has_return_policy_category.public|has_return_policy_category.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_return_policy_category.internal|has_return_policy_category.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_return/has_return_policy_category.internal|has_return_policy_category.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_return_policy_category.protect|has_return_policy_category.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_return/has_return_policy_category.protect|has_return_policy_category.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_return_policy_category.private|has_return_policy_category.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_return/has_return_policy_category.private|has_return_policy_category.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_return_policy_category.personal|has_return_policy_category.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_return/has_return_policy_category.personal|has_return_policy_category.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_return_policy_category.secret|has_return_policy_category.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_return/has_return_policy_category.secret|has_return_policy_category.secret]] 
 

@@ -3,6 +3,7 @@ aliases:
   - value-required
   - value_required
   - valueRequired
+  - schema:valueRequired
   - is_value_required
   - is value required
 confidential: public

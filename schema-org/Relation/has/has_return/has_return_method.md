@@ -48,15 +48,15 @@ Relation describes that:
 
 ### #is_/same_as :: [[has_return_method|has_return_method]] 
 
-### #is_/same_as :: [[/_public/schema-org/Relation/has/has_return_method.public|has_return_method.public]] 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_return/has_return_method.public|has_return_method.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_return_method.internal|has_return_method.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_return/has_return_method.internal|has_return_method.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_return_method.protect|has_return_method.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_return/has_return_method.protect|has_return_method.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Relation/has/has_return_method.private|has_return_method.private]] 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_return/has_return_method.private|has_return_method.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_return_method.personal|has_return_method.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_return/has_return_method.personal|has_return_method.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_return_method.secret|has_return_method.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_return/has_return_method.secret|has_return_method.secret]] 
 

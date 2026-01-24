@@ -37,7 +37,7 @@ dv_has_:
   child_class: "[ CreativeWorkSeries, EventSeries ]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
 dv_has_parent_class: "[[../Intangible]]"
-dv_has_child_classes: "[ CreativeWorkSeries, EventSeries ]"
+dv_has_child_class: "[ CreativeWorkSeries, EventSeries ]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Series|Series]]"

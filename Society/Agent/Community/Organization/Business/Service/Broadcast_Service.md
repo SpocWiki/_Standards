@@ -36,7 +36,7 @@ A delivery service through which content is provided via broadcast over the air 
 
 #has_/parent_class :: [[../Service]]  
 
-#has_/child_classes :: [ RadioBroadcastService ]  
+#has_/child_/class :: [ RadioBroadcastService ]  
 
 #has_/properties :: [ additionalType, aggregateRating, alternateName, area, areaServed, audience, availableChannel, award, brand, broadcastAffiliateOf, broadcastDisplayName, broadcastFrequency, broadcastTimezone, broadcaster, broker, callSign, category, description, disambiguatingDescription, hasBroadcastChannel, hasOfferCatalog, hoursAvailable, identifier, image, inLanguage, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, parentService, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url, videoFormat ]  
 

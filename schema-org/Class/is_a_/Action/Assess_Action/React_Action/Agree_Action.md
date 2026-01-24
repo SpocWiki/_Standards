@@ -3,6 +3,7 @@ aliases:
   - agree-action
   - agree_action
   - AgreeAction
+  - schema:AgreeAction
   - is_an_agree_action
   - Agree_Action
   - Agree Action
