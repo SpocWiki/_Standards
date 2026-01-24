@@ -28,6 +28,13 @@ title: has_area_served
 type: Predi_Relation
 ---
 
+# [[has_area_served]] 
+
+#is_a :: [[../../../Relation|Relation]]
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/area_served :: AdministrativeArea, GeoShape, Place, Text  
 - [ has_area_served :: AdministrativeArea, GeoShape, Place, Text ] 

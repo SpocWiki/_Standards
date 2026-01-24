@@ -28,16 +28,16 @@ title: is_element_of
 type: Predi_Relation
 ---
 
-# [Collection](../Collection.md) - [[Item]] Relationship, 
+# [Collection](../Collection) - [[Item]] Relationship, 
 in which the aggregated object represents a container. 
 
 For example, a postal package can include different contents 
 such as a book, a bottle of wine, and a birthday card. 
 
-These [Collection](../Collection.md) - [Item](Item.md)s are 
+These [Collection](../Collection) - [Item](Item)s are 
 - usually generic, but sometimes they are untyped (i.e. `Object`), 
-- less uniform than [Instances](../Class/Thing.md), which are [instances_of](../Class/is_instance_of.md) of a [Classes](../../Classes.md) 
-- and not as tightly coupled as the [Parts](../Composite/Part.md) that are [parts_of](../Composite/is_part_of.md) a [Composite](../Composite.md)  relationship. 
+- less uniform than [Instances](../Class/Thing), which are [instances_of](../Class/is_instance_of) of a [Classes](../../Classes) 
+- and not as tightly coupled as the [Parts](../Composite/Part) that are [parts_of](../Composite/is_part_of) a [Composite](../Composite)  relationship. 
 
 #has_/inverse :: [[has_items]] 
 

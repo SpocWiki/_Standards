@@ -52,6 +52,13 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_artist.secret|has_artist.secret]]"
 ---
 
+# [[has_artist]] 
+
+#is_a :: [[../../../Relation|Relation]]
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 

@@ -50,7 +50,7 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Class/is_a_/Intangible.secret|Intangible.secret]]"
 ---
 
-A utility class that serves as the umbrella for a number of 'intangible'  AKA 'abstract' things such as [Quantities](../../Predicate/Quantity.md), [Structured Values](Intangible/structured_value.md), etc.
+A utility class that serves as the umbrella for a number of 'intangible'  AKA 'abstract' things such as [Quantities](../../Predicate/Quantity), [Structured Values](Intangible/structured_value), etc.
 
 This is also a common category in most other Upper-Level Ontologies like [[cyc~Intangible]] and [[sumo~Abstract]] from [[../../../../Knowledge/Ontology/SUMO(Suggested_Upper_Merged_Ontology)]] 
 

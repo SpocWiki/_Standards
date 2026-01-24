@@ -15,10 +15,10 @@ Rather avoid Combination of Forces: split up the Class so that only one Force/Di
 Combine multiple Class-Hierarchies using Delegation/[[OO~Composition]]. 
 
 ### Design-Time Decisions 
-Unlike [OO~Composition](OO~Composition.md) the Behavior can not be varied at Runtime. 
+Unlike [OO~Composition](OO~Composition) the Behavior can not be varied at Runtime. 
 
-### Breaking [Encapsulation](../../../../../Knowledge/Engineer/Engineer~Encapsulation.md) 
-Sub-Classes have Access to `protected` Fields and Methods which carries the Risk of breaking [Encapsulation](../../../../../Knowledge/Engineer/Engineer~Encapsulation.md)
+### Breaking [Encapsulation](../../../../../Knowledge/Engineer/Engineer~Encapsulation) 
+Sub-Classes have Access to `protected` Fields and Methods which carries the Risk of breaking [Encapsulation](../../../../../Knowledge/Engineer/Engineer~Encapsulation)
 
 ### Breaking Semantics 
 Sub-Classes can break the Semantics when overriding Methods, violating the Liskov Substitution Principle. 

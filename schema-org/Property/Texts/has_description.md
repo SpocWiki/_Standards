@@ -40,7 +40,7 @@ A description of the item.
 
 Predicated describes that: 
 
-#has_/domain  :: [Thing](../../Class/Thing.md)  
+#has_/domain  :: [Thing](../../Class/Thing)  
 
 (has_/name :: has_text_of_description )
 (has_/range :: Text )

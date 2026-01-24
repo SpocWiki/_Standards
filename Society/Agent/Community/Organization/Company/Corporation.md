@@ -24,13 +24,13 @@ title: is_a_corporation Class
 type: Type
 
 dv_is_same_as:
-  - "[Corporation](Corporation.md)"
-  - "[Corporation.public](/_public/Society/Organization/Corporation.public.md)"
-  - "[Corporation.internal](/_internal/Society/Organization/Corporation.internal.md)"
-  - "[Corporation.protect](/_protect/Society/Organization/Corporation.protect.md)"
-  - "[Corporation.private](/_private/Society/Organization/Corporation.private.md)"
-  - "[Corporation.personal](/_personal/Society/Organization/Corporation.personal.md)"
-  - "[Corporation.secret](/_secret/Society/Organization/Corporation.secret.md)"
+  - "[Corporation](Corporation)"
+  - "[Corporation.public](/_public/Society/Organization/Corporation.public)"
+  - "[Corporation.internal](/_internal/Society/Organization/Corporation.internal)"
+  - "[Corporation.protect](/_protect/Society/Organization/Corporation.protect)"
+  - "[Corporation.private](/_private/Society/Organization/Corporation.private)"
+  - "[Corporation.personal](/_personal/Society/Organization/Corporation.personal)"
+  - "[Corporation.secret](/_secret/Society/Organization/Corporation.secret)"
 ---
 
 # [[Corporation]] 

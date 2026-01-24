@@ -56,7 +56,7 @@ dv_is_same_as:
 #is_a :: [[../../../Relation|Relation]]
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[is_accountable_for]] 
 
 Use it like this: 
 - #has_/accountable_person = `=this.dv_has_accountable_person`  

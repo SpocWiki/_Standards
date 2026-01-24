@@ -65,10 +65,10 @@ dv_is_same_as:
 #has_/inverse :: [[is_access_mode_sufficient_for]]
 
 Use it like this: 
-- #has_/access_mode_sufficient = `=this.dv_has_access_mode_sufficient`  
+- #has_/access_mode_/sufficient = `=this.dv_has_access_mode_sufficient`  
 - has_access_mode_sufficient = `=this.dv_has_access_mode_sufficient`  
 
-A list of single or combined [access_modes](../../Texts/has_access_mode.md) 
+A list of single or combined [access_modes](../../Texts/has_access_mode) 
 that are sufficient to understand all the intellectual content of a resource.
 
 Values should be drawn from the [approved vocabulary](https://www.w3.org/2021/a11y-discov-vocab/latest/#accessModeSufficient-vocabulary).
@@ -76,7 +76,6 @@ Values should be drawn from the [approved vocabulary](https://www.w3.org/2021/a1
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

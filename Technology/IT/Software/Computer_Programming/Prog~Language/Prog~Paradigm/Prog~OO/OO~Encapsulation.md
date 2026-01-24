@@ -6,7 +6,7 @@ Encapsulation works double:
 - Abstraction 
 - Protection (against inconsistencies) 
 
-![Engineer~Encapsulation](../../../../../Knowledge/Engineer/Engineer~Encapsulation.md)
+![Engineer~Encapsulation](../../../../../Knowledge/Engineer/Engineer~Encapsulation)
 
 
 ## Confidential Links & Embeds: 

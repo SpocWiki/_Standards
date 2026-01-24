@@ -53,6 +53,13 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_available_delivery_method.secret|has_available_delivery_method.secret]]"
 ---
 
+# [[has_available_delivery_method]] 
+
+#is_a :: [[../../../Relation|Relation]]
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/available_delivery_method = `=this.dv_has_available_delivery_method`  
 - has_available_delivery_method = `=this.dv_has_available_delivery_method`  

@@ -24,18 +24,22 @@ title: has_instrument
 type: Predi_Relation
 ---
 
-Use it like this: 
-- #has_/instrument :: [Thing](../../../Class/Thing.md)  
-- [ has_instrument :: [Thing](../../../Class/Thing.md) ] 
+# [[has_instrument]] 
 
-The object that helped the agent perform the action. E.g. John wrote a book with <em>a pen</em>.
+#has_/inverse :: [[is_instrumental_for]] 
+
+Use it like this: 
+- #has_/instrument :: [[../../../Class/Thing|Thing]]  
+- has_instrument :: [[../../../Class/Thing|Thing]] 
+
+The object that helped/is needed for the agent to perform the action. 
+E.g. John wrote a book with <em>a pen</em>.
 
 Relation describes that: 
 
-#has_/domain  :: Action  
-
+#has_/domain  :: [[../../Class/is_a_/Action|Action]]   
 (has_/name :: has_instrument )
-(has_/range :: Thing )
+(has_/range :: Thing ) 
 
 #has_/child_/property :: [ deliveryMethod, diet, exercisePlan, exerciseRelatedDiet, language, query, recipe, supply, tool ]  
 

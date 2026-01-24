@@ -7,14 +7,14 @@ aliases:
   - inhibits
 dv_has_:
   inverse: "[[has_result_positive]]"
-  Cons: "[[../../../Collection]]"
+  Cons: "[[../../../Collection|Collection]]"
   domain: "[[../../../Class|Class]]"
-  name: "[[has_result_negative 1]]"
-  range: "[[../../../Collection]]"
-dv_has_result_negative: "[[../../../Collection]]"
+  name: "[[has_result_negative]]"
+  range: "[[../../../Collection|Collection]]"
+dv_has_result_negative: "[[../../../Collection|Collection]]"
 dv_is_:
   same_as:
-    - "[[has_result_negative 1|has_result_negative]]"
+    - "[[./has_result_negative|has_result_negative]]"
     - "[[/_public/schema-org/Relation/has/has_result_negative.public|has_result_negative.public]]"
     - "[[/_internal/schema-org/Relation/has/has_result_negative.internal|has_result_negative.internal]]"
     - "[[/_protect/schema-org/Relation/has/has_result_negative.protect|has_result_negative.protect]]"
@@ -22,11 +22,11 @@ dv_is_:
     - "[[/_personal/schema-org/Relation/has/has_result_negative.personal|has_result_negative.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_result_negative.secret|has_result_negative.secret]]"
 dv_has_domain: "[[../../../Class|Class]]"
-dv_has_name: "[[has_result_negative 1]]"
-dv_has_range: "[[../../../Collection]]"
-dv_has_inverse: "[[has_result_positive]]"
+dv_has_name: "[[has_result_negative]]"
+dv_has_range: "[[../../../Collection|Collection]]"
+dv_has_complement: "[[has_result_positive]]"
 dv_is_same_as:
-  - "[[has_result_negative 1|has_result_negative]]"
+  - "[[./has_result_negative|has_result_negative]]"
   - "[[/_public/schema-org/Relation/has/has_result_negative.public|has_result_negative.public]]"
   - "[[/_internal/schema-org/Relation/has/has_result_negative.internal|has_result_negative.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_result_negative.protect|has_result_negative.protect]]"
@@ -66,14 +66,16 @@ type: private_note
 
 # [[has_result_negative]] 
 
-has_inverse = `=this.dv_has_inverse` 
+has_complement = `=this.dv_has_complement` 
+#has_/inverse  ::  
 
 Enumerates negative, inhibiting Reasons for this Statement. 
-Plural Form chosen to indicate the [[../../../Collection]]-Nature. 
+Plural Form chosen to indicate the [[../../../Collection|Collection]]-Nature. 
 
 The Name is derived from the [[../../../../../Knowledge/Languages/Natural~Languages/Latin|Latin]] word 'contra'. 
 
-Therefore this partially(incomplete) inverse Relation is included in the non-standard more generic [[has_result_negative 1]] Relation. 
+Therefore this partially(incomplete) complementary Relation 
+is included in the non-standard more generic [[has_result_negative]] Relation. 
 
 Usually this is complemented by [[has_result_positive]], 
 to be able to weigh a Decision in a [[../../../../../_protect/Society/Communication/Media/Literature/Team-Tactics/Team-Direction/Force-Field_Analysis|Force-Field_Analysis]].
@@ -86,7 +88,7 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_result_negative 1|has_result_negative]] 
+### #is_/same_as :: [[has_result_negative|has_result_negative]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_result_negative.public|has_result_negative.public]] 
 
@@ -103,7 +105,7 @@ has_range = `=this.dv_has_range`
 
 # [[has_result_negative]] 
 
-#is_/part_of :: [[has_result_negative 1]] 
+#is_/part_of :: [[has_result_negative]] 
 
 ![[has_result_negative.svg]]
 

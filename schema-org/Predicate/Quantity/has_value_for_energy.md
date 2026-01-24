@@ -190,7 +190,7 @@ has_properties = `=this.dv_has_properties`
 >
 > Forms of energy include the kinetic energy of a moving object, the potential energy stored by an object (for instance due to its position in a field), the elastic energy stored in a solid object, chemical energy associated with chemical reactions, the radiant energy carried by electromagnetic radiation, the internal energy contained within a thermodynamic system, and rest energy associated with an object's rest mass. These are not mutually exclusive.
 >
-> All living organisms constantly take in and release energy. The Earth's climate and ecosystems processes are driven primari[has_value_for_energy](has_value_for_energy.md)he sun. The energy industry provides the energy required for human civilization to function, which it obtains from energy resources such as fossil fuels, nuclear fuel, and renewable energy.
+> All living organisms constantly take in and release energy. The Earth's climate and ecosystems processes are driven primari[has_value_for_energy](has_value_for_energy)he sun. The energy industry provides the energy required for human civilization to function, which it obtains from energy resources such as fossil fuels, nuclear fuel, and renewable energy.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Energy) 
 

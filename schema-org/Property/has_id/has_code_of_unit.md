@@ -38,7 +38,7 @@ The unit of measurement given using the UN/CEFACT Common Code (3 characters) or 
 
 Predicated describes that: 
 
-#has_/domain  :: [[../../Class/is_a_/Intangible/structured_value/property_value|property_value]], [[../../Class/is_a_/Intangible/structured_value/quantitative_value|quantitative_value]], [[../../Class/is_a_/Intangible/structured_value/type_and_quantity_node|type_and_quantity_node]], [[../../Class/is_a_/Intangible/structured_value/price_specification/unit_price_specification|unit_price_specification]]  
+#has_/domain  :: [[../../Class/is_a_/Intangible/Structured_Value/Property_Value_Pair|Property_Value_Pair]], [[../../Class/is_a_/Intangible/structured_value/quantitative_value|quantitative_value]], [[../../Class/is_a_/Intangible/structured_value/type_and_quantity_node|type_and_quantity_node]], [[../../Class/is_a_/Intangible/structured_value/price_specification/unit_price_specification|unit_price_specification]]  
 (has_/name :: has_code_of_unit )
 (has_/range :: Text, URL )
 

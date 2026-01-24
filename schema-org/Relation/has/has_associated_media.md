@@ -54,6 +54,13 @@ dv_has_name: has_associated_media
 dv_has_range: MediaObject
 ---
 
+# [[has_associated_media]] 
+
+#is_a :: [[../../../Relation|Relation]]
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/associated_media = `=this.dv_has_associated_media`  
 - has_associated_media = `=this.dv_has_associated_media`  

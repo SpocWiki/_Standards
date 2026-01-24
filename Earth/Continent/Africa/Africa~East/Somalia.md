@@ -27,7 +27,7 @@ dv_UNTERM_Chinese_Formal: 索马里联邦共和国
 dv_UNTERM_French_Formal: la République fédérale de Somalie
 dv_UNTERM_Russian: Сомали
 dv_UNTERM_Russian_Formal: Федеративная Республика Сомали
-dv_Region_Name: "[Africa](../../Africa.md)"
+dv_Region_Name: "[Africa](../../Africa)"
 dv_Intermediate_Region_Name: "[Eastern Africa](Eastern%20Africa)"
 dv_Sub-region_Name: "[Sub-Saharan Africa](Sub-Saharan%20Africa)"
 dv_Region: 2
@@ -69,9 +69,9 @@ dv_has_:
 dv_has_name_de: Somalia
 dv_Area-Total: 637657
 dv_Area-Land: 627340
-dv_has_place_continent: "[Africa](../../Africa.md)"
+dv_has_place_continent: "[Africa](../../Africa)"
 dv_VehicleCode: SO
-dv_Capital: "[Mogadishu](Somalia/Regions~Somalia/Banaadir/counties~Banaadir/Mogadishu.md)"
+dv_Capital: "[Mogadishu](Somalia/Regions~Somalia/Banaadir/counties~Banaadir/Mogadishu)"
 dv_Alcohol-l: 0.5
 dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 45.33
@@ -410,7 +410,7 @@ Languages:
   - en-SO
 ---
 
-# [Somalia](.md) 
+# [Somalia]() 
 
 ## [[Somalia]] has Properties...
 
@@ -485,7 +485,7 @@ is_a_ = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[ReadMe](Mascarene-Islands/Reunion/ReadMe.md) 
+[ReadMe](Mascarene-Islands/Reunion/ReadMe) 
 
 ## #has_/map 
 

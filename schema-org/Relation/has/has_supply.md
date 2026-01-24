@@ -2,21 +2,23 @@
 aliases:
   - has supply
   - has_supply
+  - supply
+  - needs supply
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - supply
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_supply
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
@@ -24,22 +26,25 @@ title: has_supply
 type: Predi_Relation
 ---
 
-Use it like this: 
-- #has_/supply :: HowToSupply, Text  
-- [ has_supply :: HowToSupply, Text ] 
+# [[has_supply]] 
 
-A sub-property of instrument. A supply consumed when performing instructions or a direction.
+#has_/parent_/property  :: [[./has_instrument|has_instrument]]  
+#has_/child_/property ::  [[ingredient]], [[has_ingredient/has_ingredient_for_recipe|has_ingredient_for_recipe]] 
+#has_/inverse :: [[has_supply/is_supplier_for|supplyTo]] 
+
+Use it like this: 
+- #has_/supply :: "[[../../Collection/list_item/how_to_item/how_to_supply|how_to_supply]]", "[[../../Property/Texts/has_text|has_text]]"  
+- has_supply :: "[[../../Collection/list_item/how_to_item/how_to_supply|how_to_supply]]", "[[../../Property/Texts/has_text|has_text]]"  
+
+Is a sub-property of instrument. 
+Relates the Subject to the supply Material 
+consumed when performing instructions or a direction.
 
 Relation describes that: 
 
-#has_/domain  :: HowTo, HowToDirection  
-
-(has_/name :: is_supply )
-(has_/range :: HowToSupply, Text )
-
-#has_/parent_/property  :: instrument  
-
-#has_/child_/property :: [ ingredients, recipeIngredient ]  
+#has_/domain  :: "[[../../../Society/Communication/Media/Creative_Work/How_to|How_to]]", [[../../../Society/Communication/Media/Creative_Work/How_to/How_to_Direction|How_to_Direction]]  
+(has_/name :: has_supply ) 
+(has_/range :: "[[../../Collection/list_item/how_to_item/how_to_supply|how_to_supply]]", "[[../../Property/Texts/has_text|has_text]]" ) 
 
 ## Confidential Links & Embeds: 
 

@@ -53,9 +53,9 @@ Use it like this:
 
 [[../../../Relation|Relation]] describes that: 
 
-#has_/domain  :: [Class](../../Classes.md) 
-(has_/name :: [has_parent_class](has_parent_class.md)) 
-(has_/range :: [Class](../../Classes.md)) 
+#has_/domain  :: [Class](../../Classes) 
+(has_/name :: [has_parent_class](has_parent_class)) 
+(has_/range :: [Class](../../Classes)) 
 
 ### Definitions
 

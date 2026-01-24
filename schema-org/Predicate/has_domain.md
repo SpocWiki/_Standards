@@ -44,7 +44,7 @@ Relation describes that:
 #has_/domain  :: [[../../../Class/is_a_thing/intangible/property]]  
 
 (has_/name :: has_domain )
-(has_/range :: [Class](../Classes.md) )
+(has_/range :: [Class](../Classes) )
 
 
 ## Confidential Links & Embeds: 

@@ -49,7 +49,7 @@ Predicate describes that:
 
 #has_/parent_/property  :: [ [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) ]
 
-[is_instance_of](../../Class/is_instance_of.md) 
+[is_instance_of](../../Class/is_instance_of) 
 
 
 ## Confidential Links & Embeds: 

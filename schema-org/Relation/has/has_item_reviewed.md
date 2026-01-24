@@ -27,11 +27,11 @@ tags:
 title: has_item_reviewed
 type: Predi_Relation
 dv_has_:
-  item_reviewed: "[Thing](../../../Class/Thing.md)"
+  item_reviewed: "[Thing](../../../Class/Thing)"
   domain: AggregateRating, Review
   name: has_item_reviewed
   range: Thing
-dv_has_item_reviewed: "[Thing](../../../Class/Thing.md)"
+dv_has_item_reviewed: "[Thing](../../../Class/Thing)"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_item_reviewed|has_item_reviewed]]"
@@ -55,8 +55,8 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- #has_/item_reviewed = `=this.dv_has_item_reviewed` (../../../Class/Thing.md) ] 
-- has_item_reviewed = `=this.dv_has_item_reviewed` (../../../Class/Thing.md) ] 
+- #has_/item_reviewed = `=this.dv_has_item_reviewed` (../../../Class/Thing) ] 
+- has_item_reviewed = `=this.dv_has_item_reviewed` (../../../Class/Thing) ] 
 
 The item that is being reviewed/rated.
 

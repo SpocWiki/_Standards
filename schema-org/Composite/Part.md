@@ -40,7 +40,7 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Composite/Part.secret|Part.secret]]"
 ---
 
-Subject of the [is_part_of](is_part_of.md) Relation/Function to the [Composite](../Composite.md). 
+Subject of the [is_part_of](is_part_of) Relation/Function to the [Composite](../Composite). 
 This is the base-Relation/Function of more concrete Roles for Parts/Components/Modules in a [[../Composite|Composite]]. 
 Applies both the [[../Class/Thing|Instances]] and to [[../Class|Classes]], 
 although it requires typed Sub-Relations to be able to distinguish multiple Instances of the same Class when they are used like 

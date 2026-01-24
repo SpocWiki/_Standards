@@ -27,11 +27,11 @@ tags:
 title: has_character_attribute
 type: Predi_Relation
 dv_has_:
-  character_attribute: "[Thing](../../../Class/Thing.md)"
+  character_attribute: "[Thing](../../../Class/Thing)"
   domain: Game, VideoGameSeries
   name: has_character_attribute
   range: Thing
-dv_has_character_attribute: "[Thing](../../../Class/Thing.md)"
+dv_has_character_attribute: "[Thing](../../../Class/Thing)"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_character_attribute|has_character_attribute]]"
@@ -55,8 +55,8 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- #has_/character_attribute = `=this.dv_has_character_attribute` (../../../Class/Thing.md) ] 
-- has_character_attribute = `=this.dv_has_character_attribute` (../../../Class/Thing.md) ] 
+- #has_/character_attribute = `=this.dv_has_character_attribute` (../../../Class/Thing) ] 
+- has_character_attribute = `=this.dv_has_character_attribute` (../../../Class/Thing) ] 
 
 A piece of data that represents a particular aspect of a fictional character (skill, power, character points, advantage, disadvantage).
 

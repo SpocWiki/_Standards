@@ -6,11 +6,11 @@ aliases:
 
 # [[Agent]] 
 
-An Agent is an active Party performing [Activities](Activity.md). 
+An Agent is an active Party performing [Activities](Activity). 
 
 Notable subclasses are 
-- [Person](Agent/Person.md) 
-- [Organization](Agent/Community/Organization.md)
+- [Person](Agent/Person) 
+- [Organization](Agent/Community/Organization)
 
 
 ## Confidential Links & Embeds: 

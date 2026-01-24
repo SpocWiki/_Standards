@@ -53,6 +53,13 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_amenity_feature.secret|has_amenity_feature.secret]]"
 ---
 
+# [[has_amenity_feature]] 
+
+#is_a :: [[../../../Relation|Relation]]
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/amenity_feature = `=this.dv_has_amenity_feature`  
 - has_amenity_feature = `=this.dv_has_amenity_feature`  

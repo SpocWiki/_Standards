@@ -23,11 +23,11 @@ tags:
 title: has_error
 type: Predi_Relation
 dv_has_:
-  error: "[Thing](../../../Class/Thing.md)"
+  error: "[Thing](../../../Class/Thing)"
   domain: Action
   name: has_error
   range: Thing
-dv_has_error: "[Thing](../../../Class/Thing.md)"
+dv_has_error: "[Thing](../../../Class/Thing)"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_error|has_error]]"
@@ -51,8 +51,8 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- #has_/error = `=this.dv_has_error` (../../../Class/Thing.md) ] 
-- has_error = `=this.dv_has_error` (../../../Class/Thing.md) ] 
+- #has_/error = `=this.dv_has_error` (../../../Class/Thing) ] 
+- has_error = `=this.dv_has_error` (../../../Class/Thing) ] 
 
 For failed actions, more information on the cause of the failure.
 

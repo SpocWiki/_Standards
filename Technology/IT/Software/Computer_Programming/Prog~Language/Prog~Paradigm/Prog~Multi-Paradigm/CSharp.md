@@ -138,7 +138,7 @@ Other features included:
 - [Performance and interop](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#performance-and-interop)
     - [Native sized integers](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-9.0/native-integers)
     - [Function pointers](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-9.0/function-pointers)
-    - [Suppress emitting localsinit flag](https://github.com/dotnet/csharplang/blob/main/proposals/csharp-9.0/skip-localsinit.md)
+    - [Suppress emitting localsinit flag](https://github.com/dotnet/csharplang/blob/main/proposals/csharp-9.0/skip-localsinit)
     - [Module initializers](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-9.0/module-initializers)
     - [New features for partial methods](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-9.0/extending-partial-methods)
 - [Fit and finish features](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#fit-and-finish-features)

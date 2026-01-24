@@ -24,6 +24,13 @@ title: has_alumni
 type: Predi_Relation
 ---
 
+# [[has_alumni]] 
+
+#is_a :: [[../../../Relation|Relation]]
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/alumni :: Person  
 - [ has_alumni :: Person ] 

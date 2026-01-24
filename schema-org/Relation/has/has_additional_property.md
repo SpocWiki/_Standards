@@ -26,11 +26,16 @@ tags:
 title: has_additional_property
 type: Predi_Relation
 dv_has_:
-  additional_property: PropertyValue
-  domain: MerchantReturnPolicy, Place, Product, QualitativeValue, QuantitativeValue
+  additional_property: "[[../../Class/is_a_/Intangible/Structured_Value/Property_Value_Pair|Property_Value_Pair]]"
+  domain:
+    - "[[../../Class/is_a_/Intangible/Merchant_Return_Policy|MerchantReturnPolicy]]"
+    - "[[../../../Earth/Geography/Place|Place]]"
+    - "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]"
+    - "[[../../Enumeration/Qualitative_Value|Qualitative_Value]]"
+    - "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
   name: has_additional_property
-  range: PropertyValue
-dv_has_additional_property: PropertyValue
+  range: "[[../../Class/is_a_/Intangible/Structured_Value/Property_Value_Pair|Property_Value_Pair]]"
+dv_has_additional_property: "[[../../Class/is_a_/Intangible/Structured_Value/Property_Value_Pair|Property_Value_Pair]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_additional_property|has_additional_property]]"
@@ -40,9 +45,14 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_additional_property.private|has_additional_property.private]]"
     - "[[/_personal/schema-org/Relation/has/has_additional_property.personal|has_additional_property.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_additional_property.secret|has_additional_property.secret]]"
-dv_has_domain: MerchantReturnPolicy, Place, Product, QualitativeValue, QuantitativeValue
+dv_has_domain:
+  - "[[../../Class/is_a_/Intangible/Merchant_Return_Policy|Merchant_Return_Policy]]"
+  - "[[../../../Earth/Geography/Place|Place]]"
+  - "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]"
+  - "[[../../Enumeration/Qualitative_Value|Qualitative_Value]]"
+  - "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
 dv_has_name: has_additional_property
-dv_has_range: PropertyValue
+dv_has_range: "[[../../Class/is_a_/Intangible/Structured_Value/Property_Value_Pair|Property_Value_Pair]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_additional_property|has_additional_property]]"
   - "[[/_public/schema-org/Relation/has/has_additional_property.public|has_additional_property.public]]"
@@ -58,20 +68,24 @@ dv_is_same_as:
 #is_a :: [[../../../Relation|Relation]]
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[is_additional_property_of]]  
 
 Use it like this: 
 - #has_/additional_property = `=this.dv_has_additional_property`  
 - has_additional_property = `=this.dv_has_additional_property`  
 
-A property-value pair representing an additional characteristic of the entity, e.g. a product feature or another characteristic for which there is no matching property in schema.org.
+**Adds one or more property-value pairs** to the Subject-entity, 
+e.g. a product feature or another characteristic 
+for which there is no matching property in schema.org.
 
-Note: Publishers should be aware that applications designed to use specific schema.org properties (e.g. width, color, gtin13, ...) will typically expect such data to be provided using those properties, rather than using the generic property/value mechanism.
+Note: Publishers should be aware that 
+applications designed to use specific schema.org properties (e.g. width, color, ...) 
+will typically expect such data to be provided using those properties, 
+rather than using the generic property/value mechanism.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

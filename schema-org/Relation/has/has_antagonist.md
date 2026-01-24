@@ -50,6 +50,13 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_antagonist.secret|has_antagonist.secret]]"
 ---
 
+# [[has_antagonist]] 
+
+#is_a :: [[../../../Relation|Relation]]
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/antagonist = `=this.dv_has_antagonist`  
 - has_antagonist = `=this.dv_has_antagonist`  

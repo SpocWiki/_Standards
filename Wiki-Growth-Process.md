@@ -39,7 +39,7 @@ this have to me moved to a ReadMe.md File 'inside' the Repository Root to docume
 
 Moving this with Obsidian ensures that all Links are updated appropriately. 
 Subsequenty we recommend to transclude the ReadMe.md in an outside Vault.md Markdown File
-using a `![Vault] (Vault/ReadMe.md)` Transclusion Link starting with an Exclamation(!) Mark.
+using a `![Vault] (Vault/ReadMe)` Transclusion Link starting with an Exclamation(!) Mark.
 
 ### xLarge Repository
 An important Repository is the 'xLarge' (eXtra large) Repository, dedicated to store 'Attachments', i.e. large, binary Files. 

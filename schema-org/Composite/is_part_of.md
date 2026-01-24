@@ -29,7 +29,7 @@ title: is_part_of
 type: Predi_Relation
 ---
 
-# [Composite](../Composite.md)-[Part](Part.md) Relationship, 
+# [Composite](../Composite)-[Part](Part) Relationship, 
 
 which differentiates between a Product and its Parts, or Sub-Assemblies
 ---such as the relationship of a molecule to its atoms. 
@@ -38,8 +38,8 @@ Typically [[Part]]s have a specific Role in the [[../Composite|Composite]].
 #has_/inverse  :: [[has_parts]] 
 
 This is different from 
-- the [is_item_in](../Collection/is_item_in.md) Function that characterizes a loose Association of [[../Collection/Item|Items]] in a [[../Collection|Collection]] that may also change over time and from 
-- the [is_instance_of](../Class/is_instance_of.md) Function between a Class/Type and its Instances/ [[../Class/Thing|Things]] . 
+- the [is_item_in](../Collection/is_item_in) Function that characterizes a loose Association of [[../Collection/Item|Items]] in a [[../Collection|Collection]] that may also change over time and from 
+- the [is_instance_of](../Class/is_instance_of) Function between a Class/Type and its Instances/ [[../Class/Thing|Things]] . 
 
 All parts are **tightly integrated** according to the internal structure of the [[../Composite|Assembly]]. 
 Access to individual Parts is not (regularly) possible, unless by destroying the Assembly. 

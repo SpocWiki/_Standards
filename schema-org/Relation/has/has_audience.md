@@ -54,6 +54,13 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_audience.secret|has_audience.secret]]"
 ---
 
+# [[has_audience]] 
+
+#is_a :: [[../../../Relation|Relation]]
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/audience = `=this.dv_has_audience`  
 - has_audience = `=this.dv_has_audience`  

@@ -52,6 +52,13 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_available_test.secret|has_available_test.secret]]"
 ---
 
+# [[has_available_test]] 
+
+#is_a :: [[../../../Relation|Relation]]
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/available_test = `=this.dv_has_available_test`  
 - has_available_test = `=this.dv_has_available_test`  

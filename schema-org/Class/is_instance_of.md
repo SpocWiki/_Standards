@@ -37,7 +37,7 @@ title: is_instance_of
 type: Predi_Relation
 ---
 
-# [Class](../../Classes.md)-[Thing](Thing.md) Relationship 
+# [Class](../../Classes)-[Thing](Thing) Relationship 
 
 Relates an Object/Thing/Entity to its Class. 
 Can be implemented with a dedicated #Tag for each Class 
@@ -77,7 +77,7 @@ You can also use a pre-defined #Tag,
 like #is_a_/pet, but that makes Navigation 
 to the actual Class Definition harder.
 
-- For Classes use [has_parent_class](../Relation/has/has_parent/has_parent_class.md)  
+- For Classes use [has_parent_class](../Relation/has/has_parent/has_parent_class)  
 
 ## Relation describes that: 
 

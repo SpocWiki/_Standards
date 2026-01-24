@@ -26,6 +26,13 @@ title: has_away_team
 type: Predi_Relation
 ---
 
+# [[has_away_team]] 
+
+#is_a :: [[../../../Relation|Relation]]
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/away_team :: Person, SportsTeam  
 - [ has_away_team :: Person, SportsTeam ] 

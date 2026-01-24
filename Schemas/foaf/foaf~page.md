@@ -1,17 +1,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [foaf~page](../../_public/foaf/foaf~page.md) 
+### [foaf~page](../../_public/foaf/foaf~page) 
 
-### [foaf~page.internal](../../_internal/foaf/foaf~page.internal.md) 
+### [foaf~page.internal](../../_internal/foaf/foaf~page.internal) 
 
-### [foaf~page.protect](../../_protect/foaf/foaf~page.protect.md) 
+### [foaf~page.protect](../../_protect/foaf/foaf~page.protect) 
 
-### [foaf~page.private](../../_private/foaf/foaf~page.private.md) 
+### [foaf~page.private](../../_private/foaf/foaf~page.private) 
 
-### [foaf~page.personal](../../_personal/foaf/foaf~page.personal.md) 
+### [foaf~page.personal](../../_personal/foaf/foaf~page.personal) 
 
-### [foaf~page.secret](../../_secret/foaf/foaf~page.secret.md) 
+### [foaf~page.secret](../../_secret/foaf/foaf~page.secret) 
 
 
 ## Confidential Links & Embeds: 

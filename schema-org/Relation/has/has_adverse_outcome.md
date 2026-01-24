@@ -25,11 +25,11 @@ tags:
 title: has_adverse_outcome
 type: Predi_Relation
 dv_has_:
-  adverse_outcome: MedicalEntity
-  domain: MedicalDevice, TherapeuticProcedure
+  adverse_outcome: "[[../../../bio/Medicine/Medical_Entity|Medical_Entity]]"
+  domain: ["[[../../../bio/Medicine/Medical_Entity/Medical_Device|Medical_Device]]", "[[../../../bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure|Therapeutic_Procedure]]"]
   name: has_adverse_outcome
-  range: "[[../../../bio/Medicine/Medical_Entity]]"
-dv_has_adverse_outcome: MedicalEntity
+  range: "[[../../../bio/Medicine/Medical_Entity|Medical_Entity]]"
+dv_has_adverse_outcome: "[[../../../bio/Medicine/Medical_Entity|Medical_Entity]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_adverse_outcome|has_adverse_outcome]]"
@@ -39,7 +39,7 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_adverse_outcome.private|has_adverse_outcome.private]]"
     - "[[/_personal/schema-org/Relation/has/has_adverse_outcome.personal|has_adverse_outcome.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_adverse_outcome.secret|has_adverse_outcome.secret]]"
-dv_has_domain: MedicalDevice, TherapeuticProcedure
+dv_has_domain: ["[[../../../bio/Medicine/Medical_Entity/Medical_Device|Medical_Device]]", "[[../../../bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure|Therapeutic_Procedure]]"]
 dv_has_name: has_adverse_outcome
 dv_has_range: "[[../../../bio/Medicine/Medical_Entity]]"
 dv_is_same_as:
@@ -57,22 +57,22 @@ dv_is_same_as:
 #is_a :: [[../../Relation|Relation]] 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
+#has_/inverse :: [[is_adverse_outcome_of]] 
+#is_/similar_to :: [[has_result/has_result_negative|has_result_negative]] 
 
 Use it like this: 
 - #has_/adverse_outcome = `=this.dv_has_adverse_outcome`  
 - has_adverse_outcome = `=this.dv_has_adverse_outcome`  
 
 A possible complication and/or side effect of this therapy.
-If it is known that an adverse outcome is serious (resulting in death, disability, or permanent damage;
-requiring hospitalization; or otherwise life-threatening or requiring immediate medical attention),
-tag it as a [[has_result/has_result_negative_serious]] instead.
+If it is known that an adverse outcome is serious 
+(resulting in death, disability, or permanent damage; requiring hospitalization; 
+or otherwise life-threatening or requiring immediate medical attention),
+tag it as a [[has_result/has_result_negative_serious|has_result_negative_serious]] instead.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

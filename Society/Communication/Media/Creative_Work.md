@@ -18,7 +18,7 @@ expiryDate: ''
 fileClass: ''
 isDeleted: false
 isReadOnly: false
-has_parent_class: '[Thing](../Thing.md)'
+has_parent_class: '[Thing](../Thing)'
 keywords:
   - creative_work
 layout: ''
@@ -42,7 +42,7 @@ Tag Instances like this:
 The most generic kind of creative work, 
 including books, movies, photographs, software programs, etc.
 
-\_has_parent_class:: [Thing](../../../schema-org/Class/Thing.md) 
+\_has_parent_class:: [Thing](../../../schema-org/Class/Thing) 
 
 before [ has_/child_classes:: [[AmpStory]], [[ArchiveComponent]], Article, Atlas, Blog, Book, Chapter, Claim, Clip, Code, Collection, ComicStory, Comment, Conversation, Course, CreativeWorkSeason, CreativeWorkSeries, DataCatalog, Dataset, DefinedTermSet, Diet, DigitalDocument, Drawing, EducationalOccupationalCredential, Episode, ExercisePlan, Game, Guide, HowTo, HowToDirection, HowToSection, HowToStep, HowToTip, HyperToc, HyperTocEntry, LearningResource, Legislation, Manuscript, Map, MathSolver, MediaObject, MediaReviewItem, Menu, MenuSection, Message, Movie, MusicComposition, MusicPlaylist, MusicRecording, Painting, Photograph, Play, Poster, PublicationIssue, PublicationVolume, Quotation, Review, Sculpture, Season, SheetMusic, ShortStory, SoftwareApplication, SoftwareSourceCode, SpecialAnnouncement, Statement, TVSeason, TVSeries, Thesis, VisualArtwork, WebContent, WebPage, WebPageElement, WebSite ] after 
 

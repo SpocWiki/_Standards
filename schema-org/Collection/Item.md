@@ -17,7 +17,7 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Collection/Item.personal|Item.personal]]"
   - "[[/_secret/schema-org/Collection/Item.secret|Item.secret]]"
 ---
-Untyped Member of a (mutable) [Collection](../Collection.md). 
+Untyped Member of a (mutable) [Collection](../Collection). 
 This is the Domain of the [[../Relation/has/is_member_of|is_member_of]] Relation with the Range being [[../Collection|Collections]] 
 
 

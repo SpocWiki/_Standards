@@ -33,7 +33,7 @@ type: Predi_Relation
 #is_a :: [[../../../Relation|Relation]] 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[is_followed_by_media]] 
 
 #has_/previous_/item :: [[./has_media_during|has_media_during]] 
 #is_/similar_to :: [[./has_media_before|has_media_before]]  

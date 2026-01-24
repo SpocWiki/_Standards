@@ -39,10 +39,10 @@ Can be implemented with dedicated #Tags
 
 Relation describes that: 
 
-#has_/domain  :: [Composite](../Composite.md) 
+#has_/domain  :: [Composite](../Composite) 
 
-(has_/name :: [is_module_of](is_module_of.md))
-(has_/range :: [Composite](../Composite.md))
+(has_/name :: [is_module_of](is_module_of))
+(has_/range :: [Composite](../Composite))
 
 
 ## Confidential Links & Embeds: 

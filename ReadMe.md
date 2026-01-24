@@ -38,7 +38,7 @@ This Repository stops at the Country -Level and has Stub-Articles,
 that contain broad  information 
 but also describe how to add Detail Repositories. 
 
-## Example: [Germany](geo/Continent/Europe/Europe~Central/Germany.md) 
+## Example: [Germany](geo/Continent/Europe/Europe~Central/Germany) 
 
 This Document contains only basic, aggregate Data, 
 to obtain more Details, you need to check out one of the Sub-Repositories, 
@@ -57,7 +57,7 @@ into a Subfolder of the same Name as the Stub-Article, in this case `Bayern`.
 This Wiki  can be cloned or referenced as a Sub-Wiki  in your Wikis/Vaults.  
 Pull-Requests are very welcome, but read the Section about [#How to contribute](#How%20to%20contribute) first!
 
-The [License](License.md) is chosen to be compatible with Wikipedia and Wikidata,
+The [License](License) is chosen to be compatible with Wikipedia and Wikidata,
 so that Information can freely be exchanged with this Repository.
 
 ## How to contribute
@@ -76,11 +76,11 @@ A good Example is splitting out Detail Information into Sub-Repositories.
 We strive to make these changes in a way to minimize Disruption, 
 but they are inevitable to keep this Wiki from growing and maturing. 
 
-There is a separate [Article about the Wiki-Growth-Process ](Wiki-Growth-Process.md).
+There is a separate [Article about the Wiki-Growth-Process ](Wiki-Growth-Process).
 
 
 ## Licensing
-All downloads and uploads must comply to the [License](License.md) attached to this Repository.
+All downloads and uploads must comply to the [License](License) attached to this Repository.
 Any content with unclear or wrong Licensing must be raised as an issue
 and will not be accepted into this Repository. 
 Every uploaded File or Folder should be attributed with a '.md' File of the same Name,

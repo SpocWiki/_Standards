@@ -33,21 +33,20 @@ type: Predi_Relation
 #is_a :: [[../../../Relation|Relation]]
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[is_accommodation_floor_plan_of]] 
 #is_/part_of :: pending:  
 
 Use it like this: 
-- #has_/accommodation_floor_plan :: FloorPlan  
-- [ has_accommodation_floor_plan :: FloorPlan ] 
+- #has_/accommodation_/floor_plan :: [[../../../Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor_Plan|Floor_Plan]]  
+- has_accommodation_floor_plan :: [[../../../Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor_Plan|Floor_Plan]]  
 
-A floorplan of some [[../../../Earth/Geography/Place/Accommodation]].
+A floorplan of some [[../../../Earth/Geography/Place/Accommodation|Accommodation]].
 
 Relation describes that: 
 
-#has_/domain  :: Accommodation, Residence  
-
+#has_/domain  :: [[../../../Earth/Geography/Place/Accommodation|Accommodation]], [[../../../Earth/Geography/Place/Residence|Residence]] 
 (has_/name :: has_accommodation_floor_plan )
-(has_/range :: FloorPlan )
+(has_/range :: [[../../../Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor_Plan|Floor_Plan]]  )
 
 
 ## Confidential Links & Embeds: 

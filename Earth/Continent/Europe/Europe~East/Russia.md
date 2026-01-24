@@ -39,8 +39,8 @@ dv_UNTERM_Chinese_Formal: 俄罗斯联邦
 dv_UNTERM_French_Formal: la Fédération de Russie
 dv_UNTERM_Russian: Российская Федерация
 dv_UNTERM_Russian_Formal: Российская Федерация
-dv_Region_Name: "[Europe](Europe.md)"
-dv_Intermediate_Region_Name: "[Russia](.md)"
+dv_Region_Name: "[Europe](Europe)"
+dv_Intermediate_Region_Name: "[Russia]()"
 dv_Sub-region_Name: "[Eastern Europe](Eastern%20Europe)"
 dv_Region: 150
 dv_Sub-region: 151
@@ -75,11 +75,11 @@ dv_is_:
 dv_has_name_de: Russland
 dv_Area-Total: "1.71E+07"
 dv_Area-Land: "1.69958E+07"
-dv_has_place_continent: "[Europe](Europe.md)"
-dv_Capital: "[Moscow,City](Russia/Russia~Central/Moscow_Oblast/City/Moscow,City.md)"
+dv_has_place_continent: "[Europe](Europe)"
+dv_Capital: "[Moscow,City](Russia/Russia~Central/Moscow_Oblast/City/Moscow,City)"
 dv_Alcohol-l: 15.8
 dv_Language-Id: 469
-dv_is_a_: "[place](../../../Geography/Place.md)"
+dv_is_a_: "[place](../../../Geography/Place)"
 dv_has_place_longitude: 47.4574
 dv_has_place_latitude: 52.6418
 dv_has_previous_item: "[[../../Asia/USSR]]"
@@ -970,7 +970,7 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/LocationRu
 official_website: http://gov.ru/
 ---
 
-# [Russia](Russia.md) 
+# [Russia](Russia) 
 
 ## [[Russia]] has Properties... 
 

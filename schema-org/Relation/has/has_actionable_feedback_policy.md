@@ -32,7 +32,7 @@ type: Predi_Relation
 #is_a :: [[../../../Relation|Relation]]
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[is_feedback_policy_for]] 
 
 #is_/part_of :: pending:  
 
@@ -40,8 +40,8 @@ Use it like this:
 - #has_/actionable_feedback_policy :: CreativeWork, URL  
 - [ has_actionable_feedback_policy :: CreativeWork, URL ] 
 
-For a [[NewsMediaOrganization]] or other news-related [[../../../Society/Agent/Community/Organization]];
-A statement about public engagement activities (for news media, the newsroom�s),
+For a [[../../../Society/Agent/Community/Organization/News_Media_Organization|News_Media_Organization]] or other news-related [[../../../Society/Agent/Community/Organization|Organization]];
+A statement about public engagement activities (for news media, the newsrooms),
 including involving the public - digitally or otherwise -- 
 in coverage decisions, reporting and activities after publication.
 

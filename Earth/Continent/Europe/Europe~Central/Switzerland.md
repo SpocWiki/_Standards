@@ -50,8 +50,8 @@ dv_UNTERM_Chinese_Formal: 瑞士联邦
 dv_UNTERM_French_Formal: la Confédération suisse
 dv_UNTERM_Russian: Швейцария
 dv_UNTERM_Russian_Formal: Швейцарская Конфедерация
-dv_Region_Name: "[Europe](_Standards/Earth/Continent/Europe.md)"
-dv_Intermediate_Region_Name: "[Switzerland](_Standards/Earth/Continent/Europe/Europe~Central/Switzerland.md)"
+dv_Region_Name: "[Europe](_Standards/Earth/Continent/Europe)"
+dv_Intermediate_Region_Name: "[Switzerland](_Standards/Earth/Continent/Europe/Europe~Central/Switzerland)"
 dv_Sub-region_Name: "[Western Europe](Western%20Europe)"
 dv_Region: 150
 dv_Sub-region: 155
@@ -73,12 +73,12 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 756
 dv_Area-Total: 39988
 dv_Area-Land: 39550
-dv_has_place_continent: "[Europe](_Standards/Earth/Continent/Europe.md)"
+dv_has_place_continent: "[Europe](_Standards/Earth/Continent/Europe)"
 dv_VehicleCode: CH
-dv_Capital: "[Bern](_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Counties/Bern.md)"
+dv_Capital: "[Bern](_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/Switzerland~Counties/Bern)"
 dv_Alcohol-l: 11.1
 dv_Language-Id: 497
-dv_is_a_: "[Place](../../../Geography/Place.md)"
+dv_is_a_: "[Place](../../../Geography/Place)"
 dv_has_place_longitude: 8.46058
 dv_has_place_latitude: 46.8963
 dv_has_time_started: 1291-08-01

@@ -44,13 +44,13 @@ Moving / zipping Folder loses Details but that may be an advantage.
 * Move file and Folder of same Name together!
 
 ## Folder Notes 
-3 Methods are discussed: [obsidian-folder-note-plugin/folder-note-methods.md at main · xpgo/obsidian-folder-note-plugin (github.com)](https://github.com/xpgo/obsidian-folder-note-plugin/blob/main/doc/folder-note-methods.md)
+3 Methods are discussed: [obsidian-folder-note-plugin/folder-note-methods.md at main · xpgo/obsidian-folder-note-plugin (github.com)](https://github.com/xpgo/obsidian-folder-note-plugin/blob/main/doc/folder-note-methods)
 * Index File similar to index.htm or default.htm or .md (not allowed)
 * Outside File Name (not moved together)
 * Inside File Name (lost within other Files)
 
 # Hints; to be deleted
-* Avoid Spaces in the Name; use ~, - or _ although ~ and _ already have MarkDown Meaning. This also allows to use simple #Tags instead of[Open_Links](../../../../../../../../Data/Open_Links.md)): 
+* Avoid Spaces in the Name; use ~, - or _ although ~ and _ already have MarkDown Meaning. This also allows to use simple #Tags instead of[Open_Links](../../../../../../../../Data/Open_Links)): 
 * ~ or _ is used for _SubScript 
 * ^ is for ^SuperScript
 * Alternatively use <sub>sub</sub> and <sup>sup</sup> (brief enough, but cluttered in Math Formulas)

@@ -78,7 +78,7 @@ See [background notes](/docs/datamodel.html#mainEntityBackground) for details.
 
 Relation describes that: 
 
-#has_/domain  :: [Thing](../../../Class/Thing.md)  
+#has_/domain  :: [Thing](../../../Class/Thing)  
 
 (has_/name :: is_main_entity_of_page )
 (has_/range :: CreativeWork, URL )

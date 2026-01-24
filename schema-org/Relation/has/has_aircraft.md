@@ -51,6 +51,13 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_aircraft.secret|has_aircraft.secret]]"
 ---
 
+# [[has_aircraft]] 
+
+#is_a :: [[../../../Relation|Relation]]
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/aircraft = `=this.dv_has_aircraft`  
 - has_aircraft = `=this.dv_has_aircraft`  

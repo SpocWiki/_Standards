@@ -46,7 +46,7 @@ may be necessary for the description to be useful for disambiguation.
 
 Predicated describes that: 
 
-#has_/domain  :: [Thing](../../../Class/Thing.md)  
+#has_/domain  :: [Thing](../../../Class/Thing)  
 (has_/name :: has_text_of_disambiguating_description )
 (has_/range :: Text )
 

@@ -26,7 +26,7 @@ title: is_using_device
 type: Predi_Relation
 ---
 
-[MedicalDevice](../../../Class/is_a_/medical_entity/medical_device.md) used to perform the test.
+[MedicalDevice](../../../Class/is_a_/medical_entity/medical_device) used to perform the test.
 
 Use it like this: 
 - #is_/using_device :: MedicalDevice 
@@ -39,7 +39,7 @@ Relation describes that:
 (has_/range :: "[[../../../bio/Medicine/Medical_Entity/Medical_Device|Medical_Device]]")
 
 #is_a_/use_action 
-( [[has_parent_relation]] :: [use_action](../../../Class/is_a_/action/consume_action/use_action.md) )
+( [[has_parent_relation]] :: [use_action](../../../Class/is_a_/action/consume_action/use_action) )
 
 
 ## Confidential Links & Embeds: 

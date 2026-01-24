@@ -224,17 +224,17 @@ Nitrogen is hard to involve chemical reactions and used to be rare.
 - Chile Salpeter 
 - [[Haber–Bosch [[Haber–Bosch_Process]]]idential Links & Embeds: 
 
-### [Nitrogen](/_public/chemic/chemic~Elements/Group-15-Nitrogen/Nitrogen.md) 
+### [Nitrogen](/_public/chemic/chemic~Elements/Group-15-Nitrogen/Nitrogen) 
 
-### [Nitrogen.internal](/_internal/chemic/chemic~Elements/Group-15-Nitrogen/Nitrogen.internal.md) 
+### [Nitrogen.internal](/_internal/chemic/chemic~Elements/Group-15-Nitrogen/Nitrogen.internal) 
 
-### [Nitrogen.protect](/_protect/chemic/chemic~Elements/Group-15-Nitrogen/Nitrogen.protect.md) 
+### [Nitrogen.protect](/_protect/chemic/chemic~Elements/Group-15-Nitrogen/Nitrogen.protect) 
 
-### [Nitrogen.private](/_private/chemic/chemic~Elements/Group-15-Nitrogen/Nitrogen.private.md) 
+### [Nitrogen.private](/_private/chemic/chemic~Elements/Group-15-Nitrogen/Nitrogen.private) 
 
-### [Nitrogen.personal](/_personal/chemic/chemic~Elements/Group-15-Nitrogen/Nitrogen.personal.md) 
+### [Nitrogen.personal](/_personal/chemic/chemic~Elements/Group-15-Nitrogen/Nitrogen.personal) 
 
-### [Nitrogen.secret](/_secret/chemic/chemic~Elements/Group-15-Nitrogen/Nitrogen.secret.md) 
+### [Nitrogen.secret](/_secret/chemic/chemic~Elements/Group-15-Nitrogen/Nitrogen.secret) 
 
 
 ## Confidential Links & Embeds: 

@@ -164,7 +164,7 @@ Modern OS run in 2 Hardware-supported Modes:
 > 
 > As of September 2024, Android is the most popular operating system with a 46% market share, followed by Microsoft Windows at 26%, iOS and iPadOS at 18%, macOS at 5%, and Linux at 1%. Android, iOS, and iPadOS are mobile operating systems, while Windows, macOS, and Linux are desktop operating systems. Linux distributions are dominant in the server and supercomputing sectors. Other specialized classes of operating systems (special-purpose operating systems), such as embedded and real-time systems, exist for many applications. Security-focused operating systems also exist. Some operating systems have low system requirements (e.g. light-weight Linux distribution). Others may have higher system requirements.
 > 
-> Linux distributions are dominant in the __server and supercomputing__ sectors. Other specialized classes of operating systems (special-purpose operating systems), such as embedded and real-time systems, exist for many applications. Security-focused operating systems also exist. Some operating[OS(Operating-System)](OS(Operating-System).md)n). Others may have higher system requirements.
+> Linux distributions are dominant in the __server and supercomputing__ sectors. Other specialized classes of operating systems (special-purpose operating systems), such as embedded and real-time systems, exist for many applications. Security-focused operating systems also exist. Some operating[OS(Operating-System)](OS(Operating-System))n). Others may have higher system requirements.
 >
 > Some operating systems require installation or may come pre-installed with purchased computers (OEM-installation), whereas others may run directly from media (i.e. live CD) or flash memory (i.e. USB stick).
 >

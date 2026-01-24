@@ -89,50 +89,50 @@ dv_is_same_as:
 ## Primary Groups 
 8 Groups corresponding to 2 \* 4  Electrons in [[sp-Orbitals]]
 
-### [Group-01-Alkali](Chemical_Element/Group-01-Alkali.md)
+### [Group-01-Alkali](Chemical_Element/Group-01-Alkali)
 
-### [Group-02-Earth-Alkaline](Chemical_Element/Group-02-Earth-Alkaline.md)
+### [Group-02-Earth-Alkaline](Chemical_Element/Group-02-Earth-Alkaline)
 
-### In Period 6, the [Lanthanide](Chemical_Element/Lanthanide.md) appears here
+### In Period 6, the [Lanthanide](Chemical_Element/Lanthanide) appears here
 
-### In Period 7, the [Actinide](Chemical_Element/Actinide.md) appears here
+### In Period 7, the [Actinide](Chemical_Element/Actinide) appears here
 
 ### as of Period 4, the [metallic Groups](#Metallic%20Groups) appear here
 
-### [Group-13-Boron](Chemical_Element/Group-13-Boron.md)
+### [Group-13-Boron](Chemical_Element/Group-13-Boron)
 
-### [Group-14-Carbon](Chemical_Element/Group-14-Carbon.md)
+### [Group-14-Carbon](Chemical_Element/Group-14-Carbon)
 
-### [Group-15-Nitrogen](Chemical_Element/Group-15-Nitrogen.md)
+### [Group-15-Nitrogen](Chemical_Element/Group-15-Nitrogen)
 
-### [Group-16-Chalcogene](Chemical_Element/Group-16-Chalcogene.md)
+### [Group-16-Chalcogene](Chemical_Element/Group-16-Chalcogene)
 
-### [Group-17-Halogen](Chemical_Element/Group-17-Halogen.md)
+### [Group-17-Halogen](Chemical_Element/Group-17-Halogen)
 
-### [Group-18-Nobel-Gases](Chemical_Element/Group-18-Nobel-Gases.md)
+### [Group-18-Nobel-Gases](Chemical_Element/Group-18-Nobel-Gases)
 
 ## Metallic Groups
 10 Groups corresponding to 2 \* 5  Electrons in [[d-Orbitals]]
 
-### [Group-03-Scandium](Chemical_Element/Group-03-Scandium.md)
+### [Group-03-Scandium](Chemical_Element/Group-03-Scandium)
 
-### [Group-04-Titanium](Chemical_Element/Group-04-Titanium.md)
+### [Group-04-Titanium](Chemical_Element/Group-04-Titanium)
 
-### [Group-05-Vanadium](Chemical_Element/Group-05-Vanadium.md)
+### [Group-05-Vanadium](Chemical_Element/Group-05-Vanadium)
 
-### [Group-06-Chromium](Chemical_Element/Group-06-Chromium.md)
+### [Group-06-Chromium](Chemical_Element/Group-06-Chromium)
 
-### [Group-07-Manganese](Chemical_Element/Group-07-Manganese.md)
+### [Group-07-Manganese](Chemical_Element/Group-07-Manganese)
 
-### [Group-08-Iron](Chemical_Element/Group-08-Iron.md)
+### [Group-08-Iron](Chemical_Element/Group-08-Iron)
 
-### [Group-09-Cobalt](Chemical_Element/Group-09-Cobalt.md)
+### [Group-09-Cobalt](Chemical_Element/Group-09-Cobalt)
 
-### [Group-10-Nickel](Chemical_Element/Group-10-Nickel.md)
+### [Group-10-Nickel](Chemical_Element/Group-10-Nickel)
 
-### [Group-11-Copper](Chemical_Element/Group-11-Copper.md)
+### [Group-11-Copper](Chemical_Element/Group-11-Copper)
 
-### [Group-12-Zinc](Chemical_Element/Group-12-Zinc.md)
+### [Group-12-Zinc](Chemical_Element/Group-12-Zinc)
 
 #is_/same_as :: [[../WikiData/WD~Chemical_element,11344|WD~Chemical_element,11344]] 
 

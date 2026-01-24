@@ -52,6 +52,13 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_available_strength.secret|has_available_strength.secret]]"
 ---
 
+# [[has_available_strength]] 
+
+#is_a :: [[../../../Relation|Relation]]
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/available_strength = `=this.dv_has_available_strength`  
 - has_available_strength = `=this.dv_has_available_strength`  

@@ -27,6 +27,13 @@ title: has_associated_media_review
 type: Predi_Relation
 ---
 
+# [[has_associated_media_review]] 
+
+#is_a :: [[../../../Relation|Relation]]
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 #is_/part_of :: pending:  
 
 Use it like this: 

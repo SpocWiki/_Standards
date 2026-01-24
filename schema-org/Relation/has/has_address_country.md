@@ -25,11 +25,11 @@ tags:
 title: has_address_country
 type: Predi_Relation
 dv_has_:
-  address_country: Country, Text
-  domain: DefinedRegion, GeoCoordinates, GeoShape, PostalAddress
+  address_country: ["[[../../../Earth/Geography/Place/Administrative_Area/Country|Country]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
+  domain: ["[[../../Class/is_a_/Intangible/Structured_Value/Defined_Region|DefinedRegion]]", "[[../../Class/is_a_/Intangible/Structured_Value/Geo_Coordinates|Geo_Coordinates]]", "[[../../Class/is_a_/Intangible/Structured_Value/Geo_Shape|Geo_Shape]]", "[[../../Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address|Postal_Address]]"]
   name: has_address_country
-  range: Country, Text
-dv_has_address_country: Country, Text
+  range: ["[[../../../Earth/Geography/Place/Administrative_Area/Country|Country]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
+dv_has_address_country: ["[[../../../Earth/Geography/Place/Administrative_Area/Country|Country]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_address_country|has_address_country]]"
@@ -39,9 +39,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_address_country.private|has_address_country.private]]"
     - "[[/_personal/schema-org/Relation/has/has_address_country.personal|has_address_country.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_address_country.secret|has_address_country.secret]]"
-dv_has_domain: DefinedRegion, GeoCoordinates, GeoShape, PostalAddress
+dv_has_domain: ["[[../../Class/is_a_/Intangible/Structured_Value/Defined_Region|DefinedRegion]]", "[[../../Class/is_a_/Intangible/Structured_Value/Geo_Coordinates|Geo_Coordinates]]", "[[../../Class/is_a_/Intangible/Structured_Value/Geo_Shape|Geo_Shape]]", "[[../../Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address|Postal_Address]]"]
 dv_has_name: has_address_country
-dv_has_range: Country, Text
+dv_has_range: ["[[../../../Earth/Geography/Place/Administrative_Area/Country|Country]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_address_country|has_address_country]]"
   - "[[/_public/schema-org/Relation/has/has_address_country.public|has_address_country.public]]"
@@ -57,7 +57,7 @@ dv_is_same_as:
 #is_a :: [[../../../Relation|Relation]] 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[is_address_country_of]]
 
 Use it like this: 
 - #has_/address_/country = `=this.dv_has_address_country`  

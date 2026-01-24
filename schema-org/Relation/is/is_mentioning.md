@@ -26,7 +26,7 @@ tags:
 title: is_mentioning
 type: Predi_Relation
 dv_is_:
-  mentioning: "[Thing](../../../Class/Thing.md)"
+  mentioning: "[Thing](../../../Class/Thing)"
   same_as:
     - "[[/_Standards/schema-org/Relation/is/is_mentioning|is_mentioning]]"
     - "[[/_public/schema-org/Relation/is/is_mentioning.public|is_mentioning.public]]"
@@ -54,7 +54,7 @@ dv_is_same_as:
 ---
 
 Use it like this: 
-- is_mentioning = `=this.dv_is_mentioning` (../../../Class/Thing.md) ] 
+- is_mentioning = `=this.dv_is_mentioning` (../../../Class/Thing) ] 
 - is_mentioning = `=this.dv_is_mentioning` ] ] 
 
 Indicates that the [[../../../Class/is_a_/creative_work|Creative Work]] contains a reference to, but is not necessarily about a concept.

@@ -35,15 +35,15 @@ type: Predi_Relation
 Is similar to has_object that is applied to an instance of a Predicate and yields an Element of the Range. 
 
 Use it like this: 
-- #has_/range :: [Class](../Classes.md)  
-- [ has_range :: [Class](../Classes.md) ] 
+- #has_/range :: [Class](../Classes)  
+- [ has_range :: [Class](../Classes) ] 
 
 Relates a property to a class that constitutes (one of) the expected type(s) for values of the property.
 
 Relation describes that: 
-(has_/domain  :: [Property](../Property.md) )
+(has_/domain  :: [Property](../Property) )
 (has_/name :: is_range_includes )
-(has_/range :: [Class](../Classes.md) )
+(has_/range :: [Class](../Classes) )
 
 
 ## Confidential Links & Embeds: 

@@ -34,24 +34,22 @@ type: Predi_Relation
 #is_a :: [[../../Relation|Relation]] 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
+#has_/inverse :: [[is_affiliated_with]] 
+#has_/parent_/property  :: memberOf  
 
 Use it like this: 
-- #has_/affiliation_with :: Organization  
-- [ has_affiliation_with :: Organization ] 
+- #has_/affiliation_with :: [[../../../Society/Agent/Community/Organization|Organization]]  
+- has_affiliation_with :: [[../../../Society/Agent/Community/Organization|Organization]] 
 
 An organization that this person is affiliated with. 
 For example, a school/university, a club, or a team.
 
 Relation describes that: 
 
-#has_/domain  :: Person  
-
+#has_/domain  :: [[../../../Society/Agent/Person|Person]]   
 (has_/name :: is_affiliated_with )
-(has_/range :: Organization )
+(has_/range :: [[../../../Society/Agent/Community/Organization|Organization]] )
 
-#has_/parent_/property  :: memberOf  
 
 ## Confidential Links & Embeds: 
 

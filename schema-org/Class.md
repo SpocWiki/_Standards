@@ -53,13 +53,13 @@ dv_is_same_as:
 
 # Class / Type 
 
-The single Meta-Class of all [Classes](../../../Classes.md).
+The single Meta-Class of all [Classes](../../../Classes).
 The Type 'class', AKA 'Type'; equivalent to [[Property/has_url_for/has_url_for_additional_type|rdf~type]]  
 
 Types are classes of  Entities(Objects with Identity) and defined Properties. 
 Types can be used to represent Sets of similar/substitutable Entities. 
 
-They are the Object of the [is_instance_of](Class/is_instance_of.md) Relation to their [Instances](Class/Thing.md). 
+They are the Object of the [is_instance_of](Class/is_instance_of) Relation to their [Instances](Class/Thing). 
 
 Different from Sets in naive Set-Theory, the Instances are usually neither finite nor enumerable 
 and thus must be treated specially in inference. 

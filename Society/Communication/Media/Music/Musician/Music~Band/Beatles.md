@@ -253,7 +253,7 @@ type: private_note
 > - an Academy Award (for Best Original Song Score for the 1970 documentary film Let It Be) and 
 > - fifteen Ivor Novello Awards. 
 > 
-> They[Beatles](Beatles.md)and Roll Hall of Fame in their first year of eligibility, 1988, 
+> They[Beatles](Beatles)and Roll Hall of Fame in their first year of eligibility, 1988, 
 > and each principal member was individually inducted between 1994 and 2015. 
 > 
 > In 2004 and 2011, the group topped Rolling Stone's lists of the greatest artists in history. 

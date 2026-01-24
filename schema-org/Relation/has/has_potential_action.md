@@ -28,7 +28,7 @@ title: has_potential_action
 type: Predi_Relation
 dv_has_:
   potential_action: Action
-  domain: "[Thing](../../../Class/Thing.md)"
+  domain: "[Thing](../../../Class/Thing)"
   name: is_potential_action
   range: Action
 dv_has_potential_action: Action
@@ -41,7 +41,7 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_potential_action.private|has_potential_action.private]]"
     - "[[/_personal/schema-org/Relation/has/has_potential_action.personal|has_potential_action.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_potential_action.secret|has_potential_action.secret]]"
-dv_has_domain: "[Thing](../../../Class/Thing.md)"
+dv_has_domain: "[Thing](../../../Class/Thing)"
 dv_has_name: is_potential_action
 dv_has_range: Action
 dv_is_same_as:

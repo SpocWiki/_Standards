@@ -5,7 +5,7 @@ aliases:
   - is_a_property
   - rdf:Property
   - schema:Property
-  - Quantity[Properties](property.md)~Property
+  - Quantity[Properties](property)~Property
   - owl~ObjectProperty
   - itemprop
   - ""
@@ -76,16 +76,16 @@ This is the Type of all Properties that map a [[rdfs:Domain]] to an [[rdfs:Range
 owl:ObjectProperty 
 ```
 
-A [Quantity](Property.md) connects a Scalar Value to an Entity. 
-A [Relation](Relation.md) connects to another Entity. 
-[Property](Property.md) unifies both and can be considered a String/Text-Quantity. 
+A [Quantity](Property) connects a Scalar Value to an Entity. 
+A [Relation](Relation) connects to another Entity. 
+[Property](Property) unifies both and can be considered a String/Text-Quantity. 
 
-The Class/Type of all [Properties](../[Properties](Property.md) like this: 
+The Class/Type of all [Properties](../[Properties](Property) like this: 
 #is_a_/property 
 
 is_part_of = `=this.dv_is_part_of` 
 
-[Properties](../Property.md) are used to indicate attributes and relationships of some Thing; equivalent to rdf:Property.
+[Properties](../Property) are used to indicate attributes and relationships of some Thing; equivalent to rdf:Property.
 
 has_parent_class = `=this.dv_has_parent_class` 
 

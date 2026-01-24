@@ -32,23 +32,21 @@ type: Predi_Relation
 #is_a :: [[../../Relation|Relation]] 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
+#has_/inverse :: [[is_adult_consideration_in]]  
 
 #is_/part_of :: pending:  
 
 Use it like this: 
-- #has_/adult_consideration :: AdultOrientedEnumeration  
-- [ has_adult_consideration :: AdultOrientedEnumeration ] 
+- #has_/adult_consideration :: [[../../Enumeration/Adult_Oriented_Enumeration|Adult_Oriented_Enumeration]]  
+- has_adult_consideration :: [[../../Enumeration/Adult_Oriented_Enumeration|Adult_Oriented_Enumeration]] 
 
 Used to tag an item to be intended or suitable for consumption or use by adults only.
 
 Relation describes that: 
 
-#has_/domain  :: Offer, Product  
-
+#has_/domain  :: "[[../../../Society/Agent/Community/Organization/Business/Offer|Offer]]", "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]"  
 (has_/name :: has_adult_consideration )
-(has_/range :: AdultOrientedEnumeration )
+(has_/range :: [[../../Enumeration/Adult_Oriented_Enumeration|Adult_Oriented_Enumeration]] )
 
 
 ## Confidential Links & Embeds: 

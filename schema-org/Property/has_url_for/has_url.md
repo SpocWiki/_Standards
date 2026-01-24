@@ -26,7 +26,7 @@ title: has_url_for_url
 type: Predi_Url
 dv_has_:
   url: URL
-  domain: "[Thing](../../Class/Thing.md)"
+  domain: "[Thing](../../Class/Thing)"
   name: has_url_for_url
   range: URL
 dv_has_url: URL
@@ -39,7 +39,7 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_url_for/has_url.private|has_url.private]]"
     - "[[/_personal/schema-org/Property/has_url_for/has_url.personal|has_url.personal]]"
     - "[[/_secret/schema-org/Property/has_url_for/has_url.secret|has_url.secret]]"
-dv_has_domain: "[Thing](../../Class/Thing.md)"
+dv_has_domain: "[Thing](../../Class/Thing)"
 dv_has_name: has_url_for_url
 dv_has_range: URL
 dv_is_same_as:

@@ -27,6 +27,13 @@ title: has_appearance_in
 type: Predi_Relation
 ---
 
+# [[has_appearance_in]] 
+
+#is_a :: [[../../../Relation|Relation]]
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 #is_/part_of :: pending:  
 
 Use it like this: 

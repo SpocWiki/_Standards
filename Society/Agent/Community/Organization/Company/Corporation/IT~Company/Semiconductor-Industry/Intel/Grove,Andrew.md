@@ -7,23 +7,23 @@ aliases:
 dv_has_/time_/started: 1936-09-02T00:00:00.000+01:00
 dv_has_/time_/stopped: 2016-03-21T00:00:00.000+01:00
 dv_is_/same_as:
-  - '[Grove,Andrew](Grove,Andrew.md)'
-  - '[Grove,Andrew.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Grove,Andrew.public.md)'
-  - '[Grove,Andrew.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Grove,Andrew.internal.md)'
-  - '[Grove,Andrew.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Grove,Andrew.protect.md)'
-  - '[Grove,Andrew.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Grove,Andrew.private.md)'
-  - '[Grove,Andrew.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Grove,Andrew.personal.md)'
-  - '[Grove,Andrew.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Grove,Andrew.secret.md)'
+  - '[Grove,Andrew](Grove,Andrew)'
+  - '[Grove,Andrew.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Grove,Andrew.public)'
+  - '[Grove,Andrew.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Grove,Andrew.internal)'
+  - '[Grove,Andrew.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Grove,Andrew.protect)'
+  - '[Grove,Andrew.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Grove,Andrew.private)'
+  - '[Grove,Andrew.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Grove,Andrew.personal)'
+  - '[Grove,Andrew.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Grove,Andrew.secret)'
 dv_has_time_started: 1936-09-02T00:00:00.000+01:00
 dv_has_time_stopped: 2016-03-21T00:00:00.000+01:00
 dv_is_same_as:
-  - '[Grove,Andrew](Grove,Andrew.md)'
-  - '[Grove,Andrew.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Grove,Andrew.public.md)'
-  - '[Grove,Andrew.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Grove,Andrew.internal.md)'
-  - '[Grove,Andrew.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Grove,Andrew.protect.md)'
-  - '[Grove,Andrew.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Grove,Andrew.private.md)'
-  - '[Grove,Andrew.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Grove,Andrew.personal.md)'
-  - '[Grove,Andrew.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Grove,Andrew.secret.md)'
+  - '[Grove,Andrew](Grove,Andrew)'
+  - '[Grove,Andrew.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Grove,Andrew.public)'
+  - '[Grove,Andrew.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Grove,Andrew.internal)'
+  - '[Grove,Andrew.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Grove,Andrew.protect)'
+  - '[Grove,Andrew.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Grove,Andrew.private)'
+  - '[Grove,Andrew.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Grove,Andrew.personal)'
+  - '[Grove,Andrew.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Grove,Andrew.secret)'
 ---
 
 #has_/time_/started :: 1936-09-02 

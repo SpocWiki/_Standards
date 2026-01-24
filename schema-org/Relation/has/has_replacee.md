@@ -25,8 +25,8 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- #has_/replacee :: [Thing](../../../Class/Thing.md)  
-- [ has_replacee :: [Thing](../../../Class/Thing.md) ] 
+- #has_/replacee :: [Thing](../../../Class/Thing)  
+- [ has_replacee :: [Thing](../../../Class/Thing) ] 
 
 A sub property of object. The object that is being replaced.
 

@@ -57,18 +57,19 @@ dv_is_same_as:
 #is_a :: [[../../../Relation|Relation]]
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[is_add_on_to]] 
 
 Use it like this: 
 - #has_/add_on = `=this.dv_has_add_on`  
 - has_add_on = `=this.dv_has_add_on`  
 
-An additional offer that can only be obtained in combination with the first base offer (e.g. supplements and extensions that are available for a surcharge).
+An additional offer that can only be obtained 
+in combination with the first base offer 
+(e.g. supplements and extensions that are available for a surcharge).
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

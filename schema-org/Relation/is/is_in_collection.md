@@ -29,8 +29,8 @@ type: Predi_Relation
 ---
 
 Use it like this: 
-- #is_/in_collection :: [Thing](../../../Class/Thing.md)  
-- is_/in_collection :: [Thing](../../../Class/Thing.md)  
+- #is_/in_collection :: [Thing](../../../Class/Thing)  
+- is_/in_collection :: [Thing](../../../Class/Thing)  
 
 A sub property of object. The collection target of the action.
 

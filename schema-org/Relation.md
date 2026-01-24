@@ -53,13 +53,16 @@ dv_is_same_as:
 #is_/same_as :: [[_Standards/WikiData/WD~relation,203066]]
 
 A Relation is a Set of Tuples with the same [[Arity]] (Pairs in the simplest case). 
-A binary Relation {sRo} has the Subject/Key and the Object/Value 
+
+A binary Relation R {sRo} has the Subjects/Keys `s` and the Objects/Values `o` 
 which can come from different Sets. 
-A binary Relation RI #has_/inverse  R, 
+
+A binary Relation R #has_/inverse  RI, 
 with all the Pairs of R but with Subject and Object Position switched: {oRIs}
-A binary Relation #has_/complement  R, 
-with all the Pairs from the Cross Product of S and O minus the of A 
-but with Subject and Object Position switched. 
+
+A binary Relation R #has_/complement Rc, 
+with all the Pairs from the Cross Product of S and O minus those of R. 
+This can also be used for disjoint Relations. 
 
 In RDF the Relation-Instance/Type is Part of the Notation, 
 because you handle many binary Relation Types. 
@@ -73,10 +76,10 @@ Subject--Predicate-->Object
 has_range = `=this.dv_has_range` 
 has_domain = `=this.dv_has_domain` 
 
-A [Relation](Relation.md) connects one [[Class/Thing|Thing]] to another. 
-A [Quantity](Quantity.md) connects a Scalar [[Value]] to an Entity.  
+A [Relation](Relation) connects one [[Class/Thing|Thing]] to another. 
+A [Quantity](Quantity) connects a Scalar [[Value]] to an Entity.  
 [[Predicate]] unifies both. 
-[Property](Property.md) 
+[Property](Property) 
 
 Flags (Binary Properties) could start with #is_/ or #is_/not_/ followed by an [[Property/Flags|adjectives]] 
 but should better be written as Classifications starting with #is_a_ or #is_an_ followed by an equivalent Noun.
@@ -84,12 +87,13 @@ This is in contrast to Relations which should preferably start with #has_/, but 
 
 In RDF there is no distinction between these, except for the specified Range. 
 But since ValueTypes are fundamentally different from ReferenceTypes in Software, 
-it makes sense to also differentiate between [Property](Property.md) and [Relation](Relation.md). 
+it makes sense to also differentiate between [Property](Property) and [Relation](Relation). 
 
 (Binary) Relations should be maintained from both Sides, 
 which requires a name for the [[Relation/has_inverse|inverse]] Relation. 
 
-With symmetric Relations like [[Relation/has_inverse|has_inverse]] or [[Relation/has/has_sibling|has_sibling]] you can just re-use the same.  
+With symmetric Relations like [[Relation/has_inverse|has_inverse]] or [[Relation/has/has_sibling|has_sibling]] 
+you can just re-use the same.  
 
 Most Relations are not symmetric though, 
 and sometimes they have explicit names e.g. 

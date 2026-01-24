@@ -7,26 +7,26 @@ dv_is_/similar_to:
   embed: false
   type: file
 dv_is_/same_as:
-  - '[GlobalFoundries](GlobalFoundries.md)'
-  - '[GlobalFoundries.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.public.md)'
-  - '[GlobalFoundries.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.internal.md)'
-  - '[GlobalFoundries.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.protect.md)'
-  - '[GlobalFoundries.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.private.md)'
-  - '[GlobalFoundries.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.personal.md)'
-  - '[GlobalFoundries.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.secret.md)'
+  - '[GlobalFoundries](GlobalFoundries)'
+  - '[GlobalFoundries.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.public)'
+  - '[GlobalFoundries.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.internal)'
+  - '[GlobalFoundries.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.protect)'
+  - '[GlobalFoundries.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.private)'
+  - '[GlobalFoundries.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.personal)'
+  - '[GlobalFoundries.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.secret)'
 dv_is_similar_to:
   path: Knowledge/TSMC(Taiwan_Semiconductor).md
   display: TSMC(Taiwan_Semiconductor)
   embed: false
   type: file
 dv_is_same_as:
-  - '[GlobalFoundries](GlobalFoundries.md)'
-  - '[GlobalFoundries.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.public.md)'
-  - '[GlobalFoundries.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.internal.md)'
-  - '[GlobalFoundries.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.protect.md)'
-  - '[GlobalFoundries.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.private.md)'
-  - '[GlobalFoundries.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.personal.md)'
-  - '[GlobalFoundries.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.secret.md)'
+  - '[GlobalFoundries](GlobalFoundries)'
+  - '[GlobalFoundries.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.public)'
+  - '[GlobalFoundries.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.internal)'
+  - '[GlobalFoundries.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.protect)'
+  - '[GlobalFoundries.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.private)'
+  - '[GlobalFoundries.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.personal)'
+  - '[GlobalFoundries.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.secret)'
 ---
 
 # [[GlobalFoundries]] 

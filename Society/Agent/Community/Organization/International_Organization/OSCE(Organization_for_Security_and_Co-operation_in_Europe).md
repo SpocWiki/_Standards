@@ -116,7 +116,7 @@ Facebook_username: theOECD
 
 > The Organization for Security and Co-operation in Europe (OSCE) 
 > is a regional security-oriented intergovernmental organization 
-> comprising member states in [Europe](../../../../../Earth/Continent/Europe.md), North America, and [Asia](../../../../../Earth/Continent/Asia.md). 
+> comprising member states in [Europe](../../../../../Earth/Continent/Europe), North America, and [Asia](../../../../../Earth/Continent/Asia). 
 > 
 > Its mandate includes issues such as arms control, the promotion of human rights, 
 > freedom of the press, and free and fair elections. 
@@ -126,7 +126,7 @@ Facebook_username: theOECD
 > It has observer status at the United Nations.
 >
 > The OSCE had its origins in 1975: 
-> its predecessors came together during the era of the [Cold War](../../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War.md) 
+> its predecessors came together during the era of the [Cold War](../../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War) 
 > to form a forum for discussion between the Western Bloc and the Eastern Bloc. 
 > 
 > Most of its 57 participating countries are in [[../../../../../Earth/Continent/Europe|Europe]], 

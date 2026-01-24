@@ -16,13 +16,13 @@ dv_is_:
     - path: _Standards/WikiData/WD~wholesale,220695
       embed: false
       type: file
-    - '[Wholesale](Wholesale.md)'
-    - '[Wholesale.public](/_public/Society/Economics/Business/Business-Entity/Wholesale.public.md)'
-    - '[Wholesale.internal](/_internal/Society/Economics/Business/Business-Entity/Wholesale.internal.md)'
-    - '[Wholesale.protect](/_protect/Society/Economics/Business/Business-Entity/Wholesale.protect.md)'
-    - '[Wholesale.private](/_private/Society/Economics/Business/Business-Entity/Wholesale.private.md)'
-    - '[Wholesale.personal](/_personal/Society/Economics/Business/Business-Entity/Wholesale.personal.md)'
-    - '[Wholesale.secret](/_secret/Society/Economics/Business/Business-Entity/Wholesale.secret.md)'
+    - '[Wholesale](Wholesale)'
+    - '[Wholesale.public](/_public/Society/Economics/Business/Business-Entity/Wholesale.public)'
+    - '[Wholesale.internal](/_internal/Society/Economics/Business/Business-Entity/Wholesale.internal)'
+    - '[Wholesale.protect](/_protect/Society/Economics/Business/Business-Entity/Wholesale.protect)'
+    - '[Wholesale.private](/_private/Society/Economics/Business/Business-Entity/Wholesale.private)'
+    - '[Wholesale.personal](/_personal/Society/Economics/Business/Business-Entity/Wholesale.personal)'
+    - '[Wholesale.secret](/_secret/Society/Economics/Business/Business-Entity/Wholesale.secret)'
   - opposite_of:
     path: _Standards/Society/Agent/Organization/Corporation/Retail.md
     embed: false
@@ -31,13 +31,13 @@ dv_is_same_as:
   - path: _Standards/WikiData/WD~wholesale,220695
     embed: false
     type: file
-  - '[Wholesale](Wholesale.md)'
-  - '[Wholesale.public](/_public/Society/Economics/Business/Business-Entity/Wholesale.public.md)'
-  - '[Wholesale.internal](/_internal/Society/Economics/Business/Business-Entity/Wholesale.internal.md)'
-  - '[Wholesale.protect](/_protect/Society/Economics/Business/Business-Entity/Wholesale.protect.md)'
-  - '[Wholesale.private](/_private/Society/Economics/Business/Business-Entity/Wholesale.private.md)'
-  - '[Wholesale.personal](/_personal/Society/Economics/Business/Business-Entity/Wholesale.personal.md)'
-  - '[Wholesale.secret](/_secret/Society/Economics/Business/Business-Entity/Wholesale.secret.md)'
+  - '[Wholesale](Wholesale)'
+  - '[Wholesale.public](/_public/Society/Economics/Business/Business-Entity/Wholesale.public)'
+  - '[Wholesale.internal](/_internal/Society/Economics/Business/Business-Entity/Wholesale.internal)'
+  - '[Wholesale.protect](/_protect/Society/Economics/Business/Business-Entity/Wholesale.protect)'
+  - '[Wholesale.private](/_private/Society/Economics/Business/Business-Entity/Wholesale.private)'
+  - '[Wholesale.personal](/_personal/Society/Economics/Business/Business-Entity/Wholesale.personal)'
+  - '[Wholesale.secret](/_secret/Society/Economics/Business/Business-Entity/Wholesale.secret)'
 dv_is_opposite_of:
   path: _Standards/Society/Agent/Organization/Corporation/Retail.md
   embed: false

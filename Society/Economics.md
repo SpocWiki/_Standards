@@ -147,24 +147,24 @@ dv_is_/same_as:
   - path: /_public/WikiData/WD~Economics,8134
     embed: false
     type: file
-  - "[Economics](/_Standards/Society/Economics.md)"
-  - "[Economics.public](/_public/Society/Economics.public.md)"
-  - "[Economics.internal](/_internal/Society/Economics.internal.md)"
-  - "[Economics.protect](/_protect/Society/Economics.protect.md)"
-  - "[Economics.private](/_private/Society/Economics.private.md)"
-  - "[Economics.personal](/_personal/Society/Economics.personal.md)"
-  - "[Economics.secret](/_secret/Society/Economics.secret.md)"
+  - "[Economics](/_Standards/Society/Economics)"
+  - "[Economics.public](/_public/Society/Economics.public)"
+  - "[Economics.internal](/_internal/Society/Economics.internal)"
+  - "[Economics.protect](/_protect/Society/Economics.protect)"
+  - "[Economics.private](/_private/Society/Economics.private)"
+  - "[Economics.personal](/_personal/Society/Economics.personal)"
+  - "[Economics.secret](/_secret/Society/Economics.secret)"
 dv_is_same_as:
   - path: /_public/WikiData/WD~Economics,8134
     embed: false
     type: file
-  - "[Economics](/_Standards/Society/Economics.md)"
-  - "[Economics.public](/_public/Society/Economics.public.md)"
-  - "[Economics.internal](/_internal/Society/Economics.internal.md)"
-  - "[Economics.protect](/_protect/Society/Economics.protect.md)"
-  - "[Economics.private](/_private/Society/Economics.private.md)"
-  - "[Economics.personal](/_personal/Society/Economics.personal.md)"
-  - "[Economics.secret](/_secret/Society/Economics.secret.md)"
+  - "[Economics](/_Standards/Society/Economics)"
+  - "[Economics.public](/_public/Society/Economics.public)"
+  - "[Economics.internal](/_internal/Society/Economics.internal)"
+  - "[Economics.protect](/_protect/Society/Economics.protect)"
+  - "[Economics.private](/_private/Society/Economics.private)"
+  - "[Economics.personal](/_personal/Society/Economics.personal)"
+  - "[Economics.secret](/_secret/Society/Economics.secret)"
 ---
 
 # [[Economics]] 

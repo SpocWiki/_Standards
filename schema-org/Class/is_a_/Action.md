@@ -73,7 +73,7 @@ Actions are used
 - how that capability can be exercised.
 
 Synonyms/Aliases: 
-[Activity](Activity.md): `schema:Action` is used for specific, well-defined actions, 
+[Activity](Activity): `schema:Action` is used for specific, well-defined actions, 
 while `schema:Activity` is used for broader, ongoing processes or events that may involve multiple actions or steps.
 
 _has_parent_class = `=this.dv__has_parent_class` 

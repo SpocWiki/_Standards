@@ -61,13 +61,13 @@ dv_is_/same_as:
   - path: _Standards/WikiData/WD~Aldi,125054.md
     embed: false
     type: file
-  - '[Aldi](Aldi.md)'
-  - '[Aldi.public](/_public/Society/Economics/Business/Business-Entity/Retail/Aldi.public.md)'
-  - '[Aldi.internal](/_internal/Society/Economics/Business/Business-Entity/Retail/Aldi.internal.md)'
-  - '[Aldi.protect](/_protect/Society/Economics/Business/Business-Entity/Retail/Aldi.protect.md)'
-  - '[Aldi.private](/_private/Society/Economics/Business/Business-Entity/Retail/Aldi.private.md)'
-  - '[Aldi.personal](/_personal/Society/Economics/Business/Business-Entity/Retail/Aldi.personal.md)'
-  - '[Aldi.secret](/_secret/Society/Economics/Business/Business-Entity/Retail/Aldi.secret.md)'
+  - '[Aldi](Aldi)'
+  - '[Aldi.public](/_public/Society/Economics/Business/Business-Entity/Retail/Aldi.public)'
+  - '[Aldi.internal](/_internal/Society/Economics/Business/Business-Entity/Retail/Aldi.internal)'
+  - '[Aldi.protect](/_protect/Society/Economics/Business/Business-Entity/Retail/Aldi.protect)'
+  - '[Aldi.private](/_private/Society/Economics/Business/Business-Entity/Retail/Aldi.private)'
+  - '[Aldi.personal](/_personal/Society/Economics/Business/Business-Entity/Retail/Aldi.personal)'
+  - '[Aldi.secret](/_secret/Society/Economics/Business/Business-Entity/Retail/Aldi.secret)'
 dv_has_competitor:
   path: _Standards/Society/Agent/Organization/Corporation/Retail/Lidl.md
   embed: false
@@ -76,13 +76,13 @@ dv_is_same_as:
   - path: _Standards/WikiData/WD~Aldi,125054.md
     embed: false
     type: file
-  - '[Aldi](Aldi.md)'
-  - '[Aldi.public](/_public/Society/Economics/Business/Business-Entity/Retail/Aldi.public.md)'
-  - '[Aldi.internal](/_internal/Society/Economics/Business/Business-Entity/Retail/Aldi.internal.md)'
-  - '[Aldi.protect](/_protect/Society/Economics/Business/Business-Entity/Retail/Aldi.protect.md)'
-  - '[Aldi.private](/_private/Society/Economics/Business/Business-Entity/Retail/Aldi.private.md)'
-  - '[Aldi.personal](/_personal/Society/Economics/Business/Business-Entity/Retail/Aldi.personal.md)'
-  - '[Aldi.secret](/_secret/Society/Economics/Business/Business-Entity/Retail/Aldi.secret.md)'
+  - '[Aldi](Aldi)'
+  - '[Aldi.public](/_public/Society/Economics/Business/Business-Entity/Retail/Aldi.public)'
+  - '[Aldi.internal](/_internal/Society/Economics/Business/Business-Entity/Retail/Aldi.internal)'
+  - '[Aldi.protect](/_protect/Society/Economics/Business/Business-Entity/Retail/Aldi.protect)'
+  - '[Aldi.private](/_private/Society/Economics/Business/Business-Entity/Retail/Aldi.private)'
+  - '[Aldi.personal](/_personal/Society/Economics/Business/Business-Entity/Retail/Aldi.personal)'
+  - '[Aldi.secret](/_secret/Society/Economics/Business/Business-Entity/Retail/Aldi.secret)'
 ---
 
 # [[Aldi]] 
