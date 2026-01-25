@@ -46,14 +46,12 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_acquire_license_page.private|has_acquire_license_page.private]]"
     - "[[/_personal/schema-org/Relation/has/has_acquire_license_page.personal|has_acquire_license_page.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_acquire_license_page.secret|has_acquire_license_page.secret]]"
-dv_has_parent_property: usageInfo
+dv_has_parent_property: "[[has_usage_info|has_usage_info]]"
 dv_has_inverse: "[[is_acquire_license_page_for]]"
 dv_is_part_of: "pending:"
 dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
 dv_has_name: has_acquire_license_page
-dv_has_range:
-  - "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
-  - "[[../../Class/is_a_/Data_Type/Text/Url|Url]]"
+dv_has_range: "[[_Standards/Society/Communication/Media/Creative_Work.md|Creative_Work]],[[_Standards/schema-org/Class/is_a_/Data_Type/Text/Url.md|Url]]"
 dv_is_same_as:
   - "[[has_acquire_license_page]]"
   - "[[/_public/schema-org/Relation/has/has_acquire_license_page.public|has_acquire_license_page.public]]"
@@ -88,7 +86,7 @@ Relation describes that:
 
 has_domain = `=this.dv_has_domain` 
 has_name = `=this.dv_has_name` 
-(has_range ::  `=this.dv_has_range` )
+has_range =  `=this.dv_has_range` 
 
 ## Confidential Links & Embeds: 
 

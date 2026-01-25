@@ -28,7 +28,6 @@ dv_has_:
   name: has_agent
   range: ["[[../../../Society/Agent/Community/Organization]]", "[[../../../Society/Agent/Person]]"]
   inverse: "[[is_agent_for]]"
-dv_has_agent: Organization, Person
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_agent|has_agent]]"
@@ -62,8 +61,10 @@ dv_has_inverse: "[[is_agent_for]]"
 #has_/inverse :: [[is_agent_for]]
 
 Use it like this in an [[../../Class/is_a_/action|action]]: 
-- #has_/agent = `=this.dv_has_agent`  
-- has_agent = `=this.dv_has_agent`  
+- #has_/agent : : `=this.dv_has_range`  
+- has_agent : : `=this.dv_has_range` 
+- is_agent_for : : `=this.dv_has_domain` 
+- #is_/agent_/for : : `=this.dv_has_domain` 
 
 The direct performer or driver of an action (animate or inanimate). 
 E.g. <em>John</em> wrote a book.

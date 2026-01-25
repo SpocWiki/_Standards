@@ -32,17 +32,17 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- #has_/offset_/of_end :: HyperTocEntry, Number  
-- [ has_offset_of_end :: HyperTocEntry, Number ] 
+- #has_/offset_/of_end :: `=this.dv_has_range`
+- has_offset_of_end :: `=this.dv_has_range` 
 
 The end time of the clip 
 expressed as the number of seconds from the beginning of the work.
 
 Relation describes that: 
 
-#has_/domain  :: Clip  
-(has_/name :: has_offset_of_end )
-(has_/range :: HyperTocEntry, Number )
+#has_/domain  :: [[../../../../Society/Communication/Media/Creative_Work/Clip|Clip]]  
+(has_/name :: has_offset_of_end ) 
+(has_/range :: [[../../../../Society/Communication/Media/Creative_Work/Hyper_Toc_Entry|Hyper_Toc_Entry]], [[../../../Class/is_a_/Data_Type/Number|Number]] ) 
 
 
 ## Confidential Links & Embeds: 
