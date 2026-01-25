@@ -1,0 +1,129 @@
+---
+aliases:
+has_id_wikidata: Q67
+dv_is_:
+  same_as: "[[../../../WikiData/WD~Airbus,67|WD~Airbus,67]]"
+dv_is_same_as: "[[../../../WikiData/WD~Airbus,67|WD~Airbus,67]]"
+founded_by:
+  - "[[_Standards/WikiData/WD~Felix Kracht,70745]]"
+  - "[[_Standards/WikiData/WD~Henri Ziegler,3132187]]"
+  - "[[_Standards/WikiData/WD~Roger Béteille,3438767]]"
+  - "[[_Standards/WikiData/WD~Franz Josef Strauß,44620]]"
+child_organization_or_unit:
+  - "[[_Standards/WikiData/WD~Dornier,165765]]"
+  - "[[_Standards/WikiData/WD~Airbus Transport International,408396]]"
+  - "[[_Standards/WikiData/WD~Messerschmitt-Bölkow-Blohm,836325]]"
+  - "[[_Standards/WikiData/WD~Airbus Military,888608]]"
+  - "[[_Standards/WikiData/WD~Airbus Corporate Jets,1163412]]"
+  - "[[_Standards/WikiData/WD~Tarmac Aerosave,3515746]]"
+  - "[[_Standards/WikiData/WD~Airbus ProSky,4698479]]"
+  - "[[_Standards/WikiData/WD~Airbus Operations S.A.S.,4698480]]"
+  - "[[_Standards/WikiData/WD~Metron Aviation,17081006]]"
+  - "[[_Standards/WikiData/WD~Airbus (India),28971301]]"
+owner_of:
+  - "[[_Standards/WikiData/WD~Atlas Elektronik,176856]]"
+  - "[[_Standards/WikiData/WD~Airbus Military,888608]]"
+  - "[[_Standards/WikiData/WD~Airbus Corporate Jets,1163412]]"
+  - "[[_Standards/WikiData/WD~Airbus Training Centre Europe,36363805]]"
+headquarters_location: "[[_Standards/WikiData/WD~Blagnac,271068]]"
+product_or_material_produced:
+  - "[[_Standards/WikiData/WD~Airbus A220,426074]]"
+  - "[[_Standards/WikiData/WD~Airbus A380,5830]]"
+  - "[[_Standards/WikiData/WD~Airbus A300,6437]]"
+  - "[[_Standards/WikiData/WD~Airbus A310,6471]]"
+  - "[[_Standards/WikiData/WD~Airbus A320 family,6475]]"
+  - "[[_Standards/WikiData/WD~Airbus A330,6478]]"
+  - "[[_Standards/WikiData/WD~Airbus A340,6481]]"
+  - "[[_Standards/WikiData/WD~Airbus A350,6484]]"
+  - "[[_Standards/WikiData/WD~aircraft,11436]]"
+  - "[[_Standards/WikiData/WD~airplane,197]]"
+instance_of: "[[_Standards/WikiData/WD~company,783794]]"
+member_of:
+  - "[[_Standards/WikiData/WD~Linux Foundation,858851]]"
+  - "[[_Standards/WikiData/WD~Association of German Airports,1433362]]"
+  - "[[_Standards/WikiData/WD~Aerospace Valley,2500572]]"
+  - "[[_Standards/WikiData/WD~GIFAS,3118052]]"
+  - "[[_Standards/WikiData/WD~CVE Numbering Authority,67904121]]"
+owned_by:
+  - "[[_Standards/WikiData/WD~CASA,1128353]]"
+  - "[[_Standards/WikiData/WD~Airbus SE,2311]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Airbus aircraft,6549965]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Airbus,7215230]]"
+chief_executive_officer: "[[_Standards/WikiData/WD~Guillaume Faury,33158035]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of Airbus,54621905]]"
+industry: "[[_Standards/WikiData/WD~aircraft and space construction,112165459]]"
+legal_form: "[[_Standards/WikiData/WD~société par actions simplifiée,112176862]]"
+different_from: "[[_Standards/WikiData/WD~Airbus SE,2311]]"
+parent_organization_or_unit: "[[_Standards/WikiData/WD~Airbus SE,2311]]"
+inception:
+  - 1970-01-01T00:00:00Z
+  - 1969-12-18T00:00:00Z
+location_of_formation: "[[_Standards/WikiData/WD~France,142]]"
+country: "[[_Standards/WikiData/WD~France,142]]"
+Egapro_gender_equality_index:
+  - 88
+  - 89
+total_equity: 3650000000
+social_media_followers:
+  - 523000
+  - 819449
+total_revenue: 11050000000
+net_profit: 2873000000
+operating_income: 4253000000
+total_assets: 111130000000
+Private_Enterprise_Number: "11348"
+employees: 80895
+ICAO_airline_designator: AIB
+logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Airbus%20Logo%202017.svg
+OmegaWiki_Defined_Meaning: "1650552"
+X_Twitter_username: Airbus
+Commons_gallery: Airbus
+Commons_category: Airbus
+motto_text:
+  - We make it fly
+  - New standards. Together.
+  - De nouvelles normes. Ensemble.
+Facebook_username: airbus
+Instagram_username: airbus
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Airbus%20Lagard%C3%A8re%20-%20A%C3%A9roconstellation.jpg
+pronunciation_audio:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Airbus2.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Airbus.ogg
+official_website: https://www.airbus.com/en/products-services/commercial-aircraft
+ISNI:
+  - "0000000122994016"
+  - "0000000405003075"
+  - "0000000405977881"
+IPv6_routing_prefix:
+  - 2a00:6fc0:10::/44
+  - 2a00:6fc0:690::/44
+  - 2a00:6fc0:c010::/44
+SIREN_number: "383474814"
+Legal_Entity_Identifier: 529900FCMZ4LKXFD0R69
+ISO_9362_SWIFT_BIC_code: AIRBFR22XXX
+Bluesky_handle: airbus.com
+official_name: Airbus Commercial Aircraft
+---
+
+# [[Airbus]] 
+
+is_same_as = `=this.dv_is_same_as` 
+
+## #has_/text_of_/abstract 
+
+> **Airbus** SE ( AIR-buss; French: [ɛʁbys] ; German: [ˈɛːɐ̯bʊs] ; Spanish: [ˈejɾβus]) 
+> is a European aerospace corporation. 
+> 
+> While the company's primary business 
+> is the design and manufacture of commercial aircraft, 
+> it also operates separate divisions for Defence and Space and Helicopters. 
+> 
+> Airbus has long been the world's leading helicopter manufacturer 
+> and, in 2019, emerged as the world's largest manufacturer of airliners.
+> 
+> Airbus originated from Airbus Industrie GIE, a consortium of European aerospace companies established in 1970 to produce a wide-body aircraft to compete with American-built airliners. In 2000, the consortium's parent firms—Aérospatiale-Matra of France, DASA of Germany, and CASA of Spain—merged to form the European Aeronautic Defence and Space Company (EADS), which later acquired full ownership of Airbus Industrie. EADS rebranded as Airbus SE in 2015. Reflecting its multinational origins, the company operates offices and assembly plants in France, Germany, Spain, and the United Kingdom, along with more recent additions in Canada, Malaysia, the United States, Morocco, and India.
+> 
+> Airbus's headquarters are legally registered in Leiden, Netherlands, while day-to-day management is conducted from the company's main office in Blagnac, France. The SE in its name denotes Societas Europaea, a public company under European Union corporate law. Airbus is led by CEO Guillaume Faury and is included in the EURO STOXX 50 stock market index. Since its inception in 2000, the company's shares have been listed on the Paris, Frankfurt, and four Spanish stock exchanges, including the Bolsa de Madrid.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Airbus)  
+

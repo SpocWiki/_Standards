@@ -52,6 +52,7 @@ Wolfram_Language_entity_type: Aircraft
 ## #has_/text_of_/abstract 
 
 > An **Aircraft** (pl.: aircraft) is a vehicle that is able to fly by gaining support from the air. 
+> 
 > It counters the force of gravity by using either static lift or the dynamic lift of an airfoil, 
 > or, in a few cases, direct downward thrust from its engines. 
 > 

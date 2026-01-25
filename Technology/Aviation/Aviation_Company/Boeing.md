@@ -180,7 +180,7 @@ P8189: 987007450642305171
 
 # [[Boeing]] 
 
-#is_/same_as :: [[../../../_Standards/WikiData/WD~Boeing,66|WD~Boeing,66]] 
+#is_/same_as :: [[../../../WikiData/WD~Boeing,66|WD~Boeing,66]] 
 
 ## #has_/text_of_/abstract 
 
@@ -214,7 +214,7 @@ Boeing produces the [[Boeing/Boeing_Starliner]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Technology/Aviation/Boeing|Boeing]] 
+### #is_/same_as :: [[Boeing|Boeing]] 
 
 ### #is_/same_as :: [[/_public/Technology/Aviation/Boeing.public|Boeing.public]] 
 

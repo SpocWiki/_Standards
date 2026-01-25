@@ -30,9 +30,9 @@ Google_Doodle: first-hot-air-balloon-flight
 
 # [[Balloon]] 
 
-#is_/similar_to :: [[../../Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Ball|Ball]] 
-#is_/similar_to :: [[../../../Knowledge/Math/Geometry/3D-Geometry/Spheric_Geometry/Sphere|Sphere]] 
-#is_/same_as :: [[../../WikiData/WD~Balloon,183951|WD~Balloon,183951]] 
+#is_/similar_to :: [[../../../Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Ball|Ball]] 
+#is_/similar_to :: [[../../../../Knowledge/Math/Geometry/3D-Geometry/Spheric_Geometry/Sphere|Sphere]] 
+#is_/same_as :: [[../../../WikiData/WD~Balloon,183951|WD~Balloon,183951]] 
 
 ## #has_/text_of_/abstract 
 
@@ -55,7 +55,7 @@ Google_Doodle: first-hot-air-balloon-flight
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Technology/Aviation/Balloon|Balloon]] 
+### #is_/same_as :: [[Balloon|Balloon]] 
 
 ### #is_/same_as :: [[/_public/Technology/Aviation/Balloon.public|Balloon.public]] 
 

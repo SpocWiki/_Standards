@@ -11,7 +11,7 @@ uses:
   - "[[_Standards/WikiData/WD~drag,206621]]"
   - "[[_Standards/WikiData/WD~inflation,109517859]]"
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
@@ -89,7 +89,7 @@ Unicode_character: 🪂
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Technology/Aviation/Parachute|Parachute]] 
+### #is_/same_as :: [[Parachute|Parachute]] 
 
 ### #is_/same_as :: [[/_public/Technology/Aviation/Parachute.public|Parachute.public]] 
 

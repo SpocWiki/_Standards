@@ -64,7 +64,9 @@ native_label: Embraer
 
 ## #has_/text_of_/abstract 
 
-> **Embraer** S.A. (Brazilian Portuguese pronunciation: [ẽbɾaˈɛʁ]) is a Brazilian multinational aerospace corporation. 
+> **Embraer** S.A. (Brazilian Portuguese pronunciation: [ẽbɾaˈɛʁ]) 
+> is a Brazilian multinational aerospace corporation. 
+> 
 > It develops and manufactures aircraft and aviation systems, 
 > and provides leasing, equipment, and technical support services. 
 > 
@@ -80,7 +82,7 @@ native_label: Embraer
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Technology/Aviation/Aircraft/Embraer|Embraer]] 
+### #is_/same_as :: [[Embraer|Embraer]] 
 
 ### #is_/same_as :: [[/_public/Technology/Aviation/Aircraft/Embraer.public|Embraer.public]] 
 

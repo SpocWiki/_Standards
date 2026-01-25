@@ -43,7 +43,7 @@ Krugosvet_article: nauka_i_tehnika/voennaya_tehnika/VERTOLET.html
 
 # [[Helicopter]] 🚁 
 
-#is_/same_as :: [[../../WikiData/WD~Helicopter,34486|WD~Helicopter,34486]] 
+#is_/same_as :: [[../../../WikiData/WD~Helicopter,34486|WD~Helicopter,34486]] 
 
 ## #has_/text_of_/abstract 
 
@@ -58,7 +58,7 @@ Krugosvet_article: nauka_i_tehnika/voennaya_tehnika/VERTOLET.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Technology/Aviation/Helicopter|Helicopter]] 
+### #is_/same_as :: [[Helicopter|Helicopter]] 
 
 ### #is_/same_as :: [[/_public/Technology/Aviation/Helicopter.public|Helicopter.public]] 
 

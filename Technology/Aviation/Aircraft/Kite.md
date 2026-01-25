@@ -72,7 +72,7 @@ Unicode_character: 🪁
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Technology/Aviation/Kite|Kite]] 
+### #is_/same_as :: [[Kite|Kite]] 
 
 ### #is_/same_as :: [[/_public/Technology/Aviation/Kite.public|Kite.public]] 
 
