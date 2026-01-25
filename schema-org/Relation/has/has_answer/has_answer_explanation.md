@@ -56,13 +56,17 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_answer_explanation.secret|has_answer_explanation.secret]]"
 ---
 
+# [[has_answer_explanation]]  
+
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
 - #has_/answer_/explanation : : `=this.dv_has_range`  
-- has_answer_explanation : : `=this.dv_has_range`
+- has_answer_explanation : : `=this.dv_has_range` 
+- is_answer_explanation_for : : `=this.dv_has_domain` 
+- #is_/answer_/explanation_for : : `=this.dv_has_domain` 
 
-A step-by-step or full explanation about Answer. 
+A step-by-step or full explanation about the Answer-Subject. 
 Can outline how this Answer was achieved 
 or contain more broad clarification or statement about it.
 
@@ -70,7 +74,7 @@ Relation describes that:
 
 has_domain = `=this.dv_has_domain` 
 has_name = `=this.dv_has_name` 
-(has_/range :: [[../../../../Society/Communication/Media/Creative_Work/Comment|Comment]],  [[../../../../Society/Communication/Media/Creative_Work/Web_Content|WebContent]] )
+(has_/range :: `=this.dv_has_range` ) 
 
 
 ## Confidential Links & Embeds: 

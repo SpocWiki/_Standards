@@ -24,11 +24,9 @@ tags:
 title: has_accountable_person
 type: Predi_Relation
 dv_has_:
-  accountable_person: Person
   domain: CreativeWork
   name: has_accountable_person
   range: Person
-dv_has_accountable_person: Person
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_accountable_person|has_accountable_person]]"
@@ -53,14 +51,16 @@ dv_is_same_as:
 
 # [[has_accountable_person]] 
 
-#is_a :: [[../../../Relation|Relation]]
+#is_a :: [[../../Relation|Relation]] 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: [[is_accountable_for]] 
 
 Use it like this: 
-- #has_/accountable_person = `=this.dv_has_accountable_person`  
-- has_accountable_person = `=this.dv_has_accountable_person`  
+- #has_/accountable_person : : `=this.dv_has_range` 
+- has_accountable_person : : `=this.dv_has_range` 
+- is_accountable_person_for : : `=this.dv_has_domain`
+- #is_/accountable_person_for : : `=this.dv_has_domain`
 
 Specifies the Person that is legally accountable for the CreativeWork.
 

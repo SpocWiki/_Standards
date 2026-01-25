@@ -9,44 +9,79 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - accommodation
   - floor
   - plan
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_accommodation_floor_plan
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_accommodation_floor_plan
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_:
+  inverse: "[[is_accommodation_floor_plan_of]]"
+  domain:
+    - "[[../../../Earth/Geography/Place/Accommodation|Accommodation]]"
+    - "[[../../../Earth/Geography/Place/Residence|Residence]]"
+  name: has_accommodation_floor_plan
+  range: "[[../../../Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor_Plan|Floor_Plan]]"
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[has_accommodation_floor_plan]]"
+    - "[[/_public/schema-org/Relation/has/has_accommodation_floor_plan.public|has_accommodation_floor_plan.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_accommodation_floor_plan.internal|has_accommodation_floor_plan.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_accommodation_floor_plan.protect|has_accommodation_floor_plan.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_accommodation_floor_plan.private|has_accommodation_floor_plan.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_accommodation_floor_plan.personal|has_accommodation_floor_plan.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_accommodation_floor_plan.secret|has_accommodation_floor_plan.secret]]"
+dv_has_inverse: "[[is_accommodation_floor_plan_of]]"
+dv_is_part_of: "pending:"
+dv_has_domain:
+  - "[[../../../Earth/Geography/Place/Accommodation|Accommodation]]"
+  - "[[../../../Earth/Geography/Place/Residence|Residence]]"
+dv_has_name: has_accommodation_floor_plan
+dv_has_range: "[[../../../Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor_Plan|Floor_Plan]]"
+dv_is_same_as:
+  - "[[has_accommodation_floor_plan]]"
+  - "[[/_public/schema-org/Relation/has/has_accommodation_floor_plan.public|has_accommodation_floor_plan.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_accommodation_floor_plan.internal|has_accommodation_floor_plan.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_accommodation_floor_plan.protect|has_accommodation_floor_plan.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_accommodation_floor_plan.private|has_accommodation_floor_plan.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_accommodation_floor_plan.personal|has_accommodation_floor_plan.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_accommodation_floor_plan.secret|has_accommodation_floor_plan.secret]]"
 ---
 
 # [[has_accommodation_floor_plan]] 
 
-#is_a :: [[../../../Relation|Relation]]
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_accommodation_floor_plan_of]] 
-#is_/part_of :: pending:  
+has_inverse = `=this.dv_has_inverse` 
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/accommodation_/floor_plan :: [[../../../Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor_Plan|Floor_Plan]]  
-- has_accommodation_floor_plan :: [[../../../Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor_Plan|Floor_Plan]]  
+- #has_/accommodation_/floor_plan : : `=this.dv_has_range`
+- has_accommodation_floor_plan : : `=this.dv_has_range`
+- is_accommodation_floor_plan_of : : `=this.dv_has_domain` 
+- #is_accommodation_floor_plan_of : :  `=this.dv_has_domain` 
 
 A floorplan of some [[../../../Earth/Geography/Place/Accommodation|Accommodation]].
 
 Relation describes that: 
 
-#has_/domain  :: [[../../../Earth/Geography/Place/Accommodation|Accommodation]],  [[../../../Earth/Geography/Place/Residence|Residence]] 
-(has_/name :: has_accommodation_floor_plan )
-(has_/range :: [[../../../Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor_Plan|Floor_Plan]]  )
+#has_/domain  ::  `=this.dv_has_domain` 
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

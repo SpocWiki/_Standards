@@ -29,11 +29,9 @@ tags:
 title: has_access_mode_sufficient
 type: Predi_Relation
 dv_has_:
-  access_mode_sufficient: ItemList
   domain: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
   name: has_access_mode_sufficient
   range: "[[../../Collection/item_list|Item_List]]"
-dv_has_access_mode_sufficient: ItemList
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_access_mode_sufficient|has_access_mode_sufficient]]"
@@ -59,17 +57,19 @@ dv_is_same_as:
 # [[has_access_mode_sufficient]] 
 
 
-#is_a :: [[../../../Relation|Relation]]
+#is_a :: [[../../Relation|Relation]]
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: [[is_access_mode_sufficient_for]]
 
 Use it like this: 
-- #has_/access_mode_/sufficient = `=this.dv_has_access_mode_sufficient`  
-- has_access_mode_sufficient = `=this.dv_has_access_mode_sufficient`  
+- #has_/access_mode_/sufficient : : `=this.dv_has_access_mode_sufficient`  
+- has_access_mode_sufficient : : `=this.dv_has_access_mode_sufficient`  
+- is_access_mode_sufficient_for : : `=this.dv_has_domain` 
+- #is_/access_mode_/sufficient_for : : `=this.dv_has_domain` 
 
 A list of single or combined [access_modes](../../Texts/has_access_mode) 
-that are sufficient to understand all the intellectual content of a resource.
+that are sufficient to understand all the intellectual content of a resource. 
 
 Values should be drawn from the [approved vocabulary](https://www.w3.org/2021/a11y-discov-vocab/latest/#accessModeSufficient-vocabulary).
 

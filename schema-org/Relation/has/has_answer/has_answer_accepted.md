@@ -47,7 +47,7 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_answer_accepted.private|has_answer_accepted.private]]"
     - "[[/_personal/schema-org/Relation/has/has_answer_accepted.personal|has_answer_accepted.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_answer_accepted.secret|has_answer_accepted.secret]]"
-dv_has_inverse: "#is_/answer_/accepted_for"
+dv_has_inverse: "[[is_answer_accepted_for]]"
 dv_has_domain: "[[../../../../Society/Communication/Media/Creative_Work/Comment/Question|Question]]"
 dv_has_name: has_answer_accepted
 dv_has_range: "[[_Standards/Society/Communication/Media/Creative_Work/Comment/Answer.md|Answer]],[[_Standards/schema-org/Collection/item_list.md|item_list]]"
@@ -67,7 +67,7 @@ dv_is_same_as:
 is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-has_inverse :: [[is_answer_accepted_for]] 
+has_inverse = `=this.dv_has_inverse` 
 
 has_parent_property = `=this.dv_has_parent_property` 
 
