@@ -39,6 +39,8 @@ type: Predi_Relation
 Use it like this: 
 - #has_/adult_consideration :: [[../../Enumeration/Adult_Oriented_Enumeration|Adult_Oriented_Enumeration]]  
 - has_adult_consideration :: [[../../Enumeration/Adult_Oriented_Enumeration|Adult_Oriented_Enumeration]] 
+- is_adult_consideration_in :: 
+- #is_/adult_consideration_/in :: 
 
 Used to tag an item to be intended or suitable for consumption or use by adults only.
 

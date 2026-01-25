@@ -9,7 +9,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,32 +17,70 @@ keywords:
   - offset
   - offset_of_end
   - endOffset
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_offset_of_end
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_offset_of_end
 type: Predi_Relation
+dv_has_:
+  offset_:
+    of_end: ""
+  domain: "[[../../../../Society/Communication/Media/Creative_Work/Clip|Clip]]"
+  name: has_offset_of_end
+  range:
+    - "[[../../../../Society/Communication/Media/Creative_Work/Hyper_Toc_Entry|Hyper_Toc_Entry]]"
+    - "[[../../../Class/is_a_/Data_Type/Number|Number]]"
+dv_has_offset_of_end: ""
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[has_offset_of_end]]"
+    - "[[/_public/schema-org/Relation/has/has_offset_of_end.public|has_offset_of_end.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_offset_of_end.internal|has_offset_of_end.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_offset_of_end.protect|has_offset_of_end.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_offset_of_end.private|has_offset_of_end.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_offset_of_end.personal|has_offset_of_end.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_offset_of_end.secret|has_offset_of_end.secret]]"
+dv_is_part_of: "pending:"
+dv_has_domain: "[[../../../../Society/Communication/Media/Creative_Work/Clip|Clip]]"
+dv_has_name: has_offset_of_end
+dv_has_range:
+  - "[[../../../../Society/Communication/Media/Creative_Work/Hyper_Toc_Entry|Hyper_Toc_Entry]]"
+  - "[[../../../Class/is_a_/Data_Type/Number|Number]]"
+dv_is_same_as:
+  - "[[has_offset_of_end]]"
+  - "[[/_public/schema-org/Relation/has/has_offset_of_end.public|has_offset_of_end.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_offset_of_end.internal|has_offset_of_end.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_offset_of_end.protect|has_offset_of_end.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_offset_of_end.private|has_offset_of_end.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_offset_of_end.personal|has_offset_of_end.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_offset_of_end.secret|has_offset_of_end.secret]]"
 ---
 
-#is_/part_of :: pending:  
+# [[has_offset_of_end]] 
+
+is_part_of = `=this.dv_is_part_of` 
+#has_/inverse :: [[is_offset_of_end_for]]
 
 Use it like this: 
-- #has_/offset_/of_end :: `=this.dv_has_range`
-- has_offset_of_end :: `=this.dv_has_range` 
+- #has_/offset_/of_end : : `=this.dv_has_range`
+- has_offset_of_end : : `=this.dv_has_range` 
+- is_offset_of_end_for : : `=this.dv_has_domain`
+- #is_offset_of_end_for : : `=this.dv_has_domain`
 
 The end time of the clip 
 expressed as the number of seconds from the beginning of the work.
 
 Relation describes that: 
 
-#has_/domain  :: [[../../../../Society/Communication/Media/Creative_Work/Clip|Clip]]  
-(has_/name :: has_offset_of_end ) 
-(has_/range :: [[../../../../Society/Communication/Media/Creative_Work/Hyper_Toc_Entry|Hyper_Toc_Entry]], [[../../../Class/is_a_/Data_Type/Number|Number]] ) 
+has_domain = `=this.dv_has_domain` 
+has_name = `=this.dv_has_name`  
+(has_/range :: `=this.dv_has_range`  ) 
 
 
 ## Confidential Links & Embeds: 

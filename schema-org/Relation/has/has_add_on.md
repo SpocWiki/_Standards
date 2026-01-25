@@ -25,11 +25,9 @@ tags:
 title: has_add_on
 type: Predi_Relation
 dv_has_:
-  add_on: Offer
-  domain: Offer
+  domain: "[[../../../Society/Agent/Community/Organization/Business/Offer|Offer]]" 
   name: has_add_on
-  range: Offer
-dv_has_add_on: Offer
+  range: "[[../../../Society/Agent/Community/Organization/Business/Offer|Offer]]" 
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_add_on|has_add_on]]"
@@ -39,9 +37,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_add_on.private|has_add_on.private]]"
     - "[[/_personal/schema-org/Relation/has/has_add_on.personal|has_add_on.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_add_on.secret|has_add_on.secret]]"
-dv_has_domain: Offer
+dv_has_domain: "[[../../../Society/Agent/Community/Organization/Business/Offer|Offer]]" 
 dv_has_name: has_add_on
-dv_has_range: Offer
+dv_has_range: "[[../../../Society/Agent/Community/Organization/Business/Offer|Offer]]" 
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_add_on|has_add_on]]"
   - "[[/_public/schema-org/Relation/has/has_add_on.public|has_add_on.public]]"
@@ -54,14 +52,16 @@ dv_is_same_as:
 
 # [[has_add_on]] 
 
-#is_a :: [[../../../Relation|Relation]]
+#is_a :: [[../../Relation|Relation]] 
 #is_a_/relation 
-#class/Relation
-#has_/inverse :: [[is_add_on_to]] 
+#class/Relation 
+#has_/inverse :: [[is_add_on_to]]  
 
 Use it like this: 
-- #has_/add_on = `=this.dv_has_add_on`  
-- has_add_on = `=this.dv_has_add_on`  
+- #has_/add_on : : `=this.dv_has_domain`  
+- has_add_on : :  `=this.dv_has_domain` 
+- is_add_on_to : :  `=this.dv_has_range` 
+- #is_a/dd_on_/to : : `=this.dv_has_range` 
 
 An additional offer that can only be obtained 
 in combination with the first base offer 

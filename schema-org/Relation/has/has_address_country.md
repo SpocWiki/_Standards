@@ -25,11 +25,9 @@ tags:
 title: has_address_country
 type: Predi_Relation
 dv_has_:
-  address_country: ["[[../../../Earth/Geography/Place/Administrative_Area/Country|Country]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
   domain: ["[[../../Class/is_a_/Intangible/Structured_Value/Defined_Region|DefinedRegion]]", "[[../../Class/is_a_/Intangible/Structured_Value/Geo_Coordinates|Geo_Coordinates]]", "[[../../Class/is_a_/Intangible/Structured_Value/Geo_Shape|Geo_Shape]]", "[[../../Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address|Postal_Address]]"]
   name: has_address_country
   range: ["[[../../../Earth/Geography/Place/Administrative_Area/Country|Country]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
-dv_has_address_country: ["[[../../../Earth/Geography/Place/Administrative_Area/Country|Country]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_address_country|has_address_country]]"
@@ -57,11 +55,13 @@ dv_is_same_as:
 #is_a :: [[../../../Relation|Relation]] 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_address_country_of]]
+#has_/inverse :: [[is_address_country_of]] 
 
 Use it like this: 
-- #has_/address_/country = `=this.dv_has_address_country`  
-- has_address_country = `=this.dv_has_address_country`  
+- #has_/address_/country : : `=this.dv_has_range`   
+- has_address_country : : `=this.dv_has_range`   
+- is_address_country_of : : `=this.dv_has_domain` 
+- #is_/address_/country_of : : `=this.dv_has_domain` 
 
 The country. For example, USA. 
 You can also provide the two-letter [ISO 3166-1 alpha-2 country code](http://en.wikipedia.org/wiki/ISO_3166-1).
@@ -69,7 +69,6 @@ You can also provide the two-letter [ISO 3166-1 alpha-2 country code](http://en.
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

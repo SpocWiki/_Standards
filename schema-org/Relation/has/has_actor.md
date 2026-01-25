@@ -82,18 +82,21 @@ dv_is_same_as:
 
 # [[has_actor]] 
 
-has_child_property = `=this.dv_has_child_property` 
+has_child_property = `=this.dv_has_child_property`  
+#has_/inverse :: [[has_actor]] 
 
 Use it like this: 
-- #has_/actor :: "[[../../../Society/Agent/Person|Person]]" 
-- has_actor :: "[[../../../Society/Agent/Person|Person]]"  
+- #has_/actor : : `=this.dv_has_range` 
+- has_actor : : `=this.dv_has_range` 
+- is_actor_in : :  `=this.dv_has_domain` 
+- #is_/actor_in : :  `=this.dv_has_domain` 
 
 An actor, e.g. in TV, radio, movie, video games etc., or in an event. 
 Actors can be associated with individual items or with a series, episode, clip.
 
 Relation describes that: 
 
-#has_/domain  :: `=this.dv_has_domain`
+#has_/domain  :: `=this.dv_has_domain` 
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range`  
 

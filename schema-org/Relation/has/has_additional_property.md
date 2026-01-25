@@ -26,7 +26,6 @@ tags:
 title: has_additional_property
 type: Predi_Relation
 dv_has_:
-  additional_property: "[[../../Class/is_a_/Intangible/Structured_Value/Property_Value_Pair|Property_Value_Pair]]"
   domain:
     - "[[../../Class/is_a_/Intangible/Merchant_Return_Policy|MerchantReturnPolicy]]"
     - "[[../../../Earth/Geography/Place|Place]]"
@@ -35,7 +34,6 @@ dv_has_:
     - "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
   name: has_additional_property
   range: "[[../../Class/is_a_/Intangible/Structured_Value/Property_Value_Pair|Property_Value_Pair]]"
-dv_has_additional_property: "[[../../Class/is_a_/Intangible/Structured_Value/Property_Value_Pair|Property_Value_Pair]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_additional_property|has_additional_property]]"
@@ -71,8 +69,10 @@ dv_is_same_as:
 #has_/inverse :: [[is_additional_property_of]]  
 
 Use it like this: 
-- #has_/additional_property = `=this.dv_has_additional_property`  
-- has_additional_property = `=this.dv_has_additional_property`  
+- #has_/additional_property : : `=this.dv_has_range` 
+- has_additional_property : : `=this.dv_has_range` 
+- is_additional_property_of : : `=this.dv_has_domain` 
+- #is_/additional_property_/of : : `=this.dv_has_domain`  
 
 **Adds one or more property-value pairs** to the Subject-entity, 
 e.g. a product feature or another characteristic 
