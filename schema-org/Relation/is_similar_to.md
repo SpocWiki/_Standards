@@ -25,6 +25,7 @@ tags:
 title: is_similar_to
 type: Predi_Relation
 ---
+# [[is_similar_to]]
 
 #is_/similar_to :: [[is_same_as]] 
 #is_/different_from :: [[is_same_as]] 
@@ -35,7 +36,8 @@ If possible, use the more specific
 or specify [[because :: reason for the difference]]. 
 
 Additionally use the Standard [[../../W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/owl(Ontology_Web_Language)|owl(Ontology_Web_Language)]] Relation 
- [[is_different_from]], to express the same as [[is_similar_to]]. 
+ [[is_different_from]], to express if something is completely unrelated and just accidentally similar. 
+ Use [[is_similar_to]], if it concerns the same domain and concepts but needs disambiguation. 
 
 Use it like this: 
 - #is_/similar_to :: Product, Service 
