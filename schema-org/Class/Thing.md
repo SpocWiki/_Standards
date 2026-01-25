@@ -131,7 +131,7 @@ dv_has_properties:
 
 # [[Thing]]s/Entities/Objects/Instances/Resources 
 
-#is_/same_as :: [[WD~Entity,35120]]
+#is_/same_as :: [[WD~Entity,35120]] 
 
 Every Class is a subclass of [[Thing]]. 
 
@@ -164,7 +164,7 @@ There is no larger Class:  has_parent_class = `=this.dv_has_parent_class`
 
 has_child_class :: "[[is_a_/Action|Action]]", "[[Class/is_a_/bio_chem_entity|bio_chem_entity]]", "[[../../Society/Communication/Media/Creative_Work|creative_work]]", "[[Class/is_a_/event|event]]", "[[Class/is_a_/Intangible|Intangible]]", "[[../../bio/Medicine/Medical_Entity|medical-entity]]", "[[../../Earth/Geography/Place|place]]", "[[../../Society/Agent/Community/Organization|organization]]", "[[../../Society/Agent/Person|person]]", "[[../../Society/Agent/Community/Organization/Business/Product|product]]", "[[../../bio/Taxon_Rank/Taxon|taxon]]" 
 
-#has_/properties :: `=this.dv_has_properties`
+#has_/properties = `=this.dv_has_properties`
 
 ## RDF-Objects 
 
