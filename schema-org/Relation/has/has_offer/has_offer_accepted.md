@@ -68,8 +68,9 @@ dv_has_inverse: "#is_/offer_/accepted_for"
 
 
 Use it like this: 
-- #has_/offer_/accepted = `=this.dv_has_offer_accepted` 
-- has_offer_accepted = `=this.dv_has_offer_accepted` 
+- #is_/offer_/accepted_for = `=this.dv_has_domain`  
+- #has_/offer_/accepted = `=this.dv_has_range` 
+- has_offer_accepted = `=this.dv_has_range` 
 
 The offer-Object(s) -- e.g., product, quantity and price combinations -- 
 included in the order-Subject.

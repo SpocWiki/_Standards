@@ -26,12 +26,9 @@ tags:
 title: has_number_of_answer_count
 type: Predi_Count
 dv_has_:
-  number_of_:
-    answers: "[[../../../Class/is_a_/Data_Type/Number/Integer|Integer]]"
   domain: "[[../../../../Society/Communication/Media/Creative_Work/Comment/Question|Question]]"
   name: has_answer_count
   range: "[[../../../Class/is_a_/Data_Type/Number/Integer|Integer]]"
-dv_has_answer_count: "[[../../../Class/is_a_/Data_Type/Number/Integer|Integer]]"
 dv_is_:
   same_as:
     - "[[has_answer_count|has_answer_count]]"
@@ -54,11 +51,13 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Property/has_number_of/has_answer_count.secret|has_answer_count.secret]]"
 ---
 
+# [[has_answer_count]] 
+
 Quantity to describe the Number of [[../../../../Society/Communication/Media/Creative_Work/Comment/Answer|Answers]] to a [[../../../../Society/Communication/Media/Creative_Work/Comment/Question|Question]].
 
 Use it like this: 
-- #has_/answer_/count = `=this.dv_has_answer_count`  
-- has_answer_count = `=this.dv_has_answer_count`  
+- #has_/answer_/count = `=this.dv_has_range`
+- has_answer_count = `=this.dv_has_range`
 
 The number of (alternative) answers this question has received or proposed.
 

@@ -11,7 +11,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 fileClass:
   - FileClass-Relation
 isDeleted: false
@@ -20,16 +20,50 @@ keywords:
   - accepted
   - answer
   - acceptedAnswer
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_accepted_answer
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_accepted_answer
 type: Predi_Relation
+dv_is_a: "[[../../../Relation|Relation]]"
+dv_has_:
+  inverse: "#is_/answer_/accepted_for"
+  domain: "[[../../../../Society/Communication/Media/Creative_Work/Comment/Question|Question]]"
+  name: has_answer_accepted
+  range:
+    - "[[../../../../Society/Communication/Media/Creative_Work/Comment/Answer|Answer]]"
+    - "[[../../../Collection/item_list|item_list]]"
+  parent_:
+    property: "[[has_answer_suggested]]"
+dv_is_:
+  same_as:
+    - "[[has_answer_accepted]]"
+    - "[[/_public/schema-org/Relation/has/has_answer_accepted.public|has_answer_accepted.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_answer_accepted.internal|has_answer_accepted.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_answer_accepted.protect|has_answer_accepted.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_answer_accepted.private|has_answer_accepted.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_answer_accepted.personal|has_answer_accepted.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_answer_accepted.secret|has_answer_accepted.secret]]"
+dv_has_inverse: "#is_/answer_/accepted_for"
+dv_has_domain: "[[../../../../Society/Communication/Media/Creative_Work/Comment/Question|Question]]"
+dv_has_name: has_answer_accepted
+dv_has_range:
+  - "[[../../../../Society/Communication/Media/Creative_Work/Comment/Answer|Answer]]"
+  - "[[../../../Collection/item_list|item_list]]"
+dv_has_parent_property: "[[has_answer_suggested]]"
+dv_is_same_as:
+  - "[[has_answer_accepted]]"
+  - "[[/_public/schema-org/Relation/has/has_answer_accepted.public|has_answer_accepted.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_answer_accepted.internal|has_answer_accepted.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_answer_accepted.protect|has_answer_accepted.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_answer_accepted.private|has_answer_accepted.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_answer_accepted.personal|has_answer_accepted.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_answer_accepted.secret|has_answer_accepted.secret]]"
 ---
 
 # [[has_answer_accepted]] 
@@ -39,9 +73,11 @@ type: Predi_Relation
 #class/Relation
 #has_/inverse :: #is_/answer_/accepted_for 
 
+#has_/parent_/property  :: [[has_answer_suggested]]  
+
 Use it like this: 
-- #has_/answer_/accepted :: [[../../../../Society/Communication/Media/Creative_Work/Comment/Answer|Answer]],  [[../../../Collection/item_list|item_list]]  
-- has_answer_accepted :: [[../../../../Society/Communication/Media/Creative_Work/Comment/Answer|Answer]],  [[../../../Collection/item_list|item_list]]   
+- #has_/answer_/accepted : : `=this.dv_has_range` 
+- has_answer_accepted : : `=this.dv_has_range`   
 
 The answer(s) that has been accepted as best, typically on a Question/Answer site.
 Sites vary in their selection mechanisms, e.g. drawing on community opinion
@@ -51,9 +87,7 @@ Relation describes that:
 
 #has_/domain  :: [[../../../../Society/Communication/Media/Creative_Work/Comment/Question|Question]]   
 (has_/name :: has_answer_accepted )
-(has_/range :: Answer, ItemList )
-
-#has_/parent_/property  :: [[has_answer_suggested]]  
+(has_/range :: `=this.dv_has_range` )
 
 ## Confidential Links & Embeds: 
 
