@@ -11,7 +11,7 @@ draft: false
 expiryDate: ""
 fileClass:
   - Relation-File
-has_domain: "[[../../../Class/is_a_/Intangible/Order|Order]]"
+dv_has_domain: "[[../../../Class/is_a_/Intangible/Order|Order]]"
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -70,6 +70,7 @@ has_inverse = `=this.dv_has_inverse`
 Use it like this: 
 - #is_/offer_/accepted_for = `=this.dv_has_domain`  
 - #has_/offer_/accepted = `=this.dv_has_range` 
+- is_offer_accepted_for = `=this.dv_has_domain`  
 - has_offer_accepted = `=this.dv_has_range` 
 
 The offer-Object(s) -- e.g., product, quantity and price combinations -- 
@@ -77,7 +78,7 @@ included in the order-Subject.
 
 Relation describes that: 
 
-has_domain :: [[../../../Class/is_a_/Intangible/Order|Order]] 
+has_domain = `=this.dv_has_domain`  
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 
