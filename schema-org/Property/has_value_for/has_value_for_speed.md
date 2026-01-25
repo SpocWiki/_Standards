@@ -40,12 +40,15 @@ Use it like this:
 - has_value_for_speed :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]
 - has_value_for_speed_kilo_meter_hour :: [[../../Class/is_a_/Data_Type/Number|Number]]       
 
-The speed range of the vehicle. If the vehicle is powered by an engine, the upper limit of the speed range (indicated by [[maxValue]]) should be the maximum speed achievable under regular conditions.
+The speed range of the vehicle. If the vehicle is powered by an engine, 
+the upper limit of the speed range (indicated by [[maxValue]]) 
+should be the maximum speed achievable under regular conditions.
 
 Typical unit code(s): KMH for km/h, HM for mile per hour (0.447 04 m/s), KNT for knot
 
-*Note 1: Use [[minValue]] and [[maxValue]] to indicate the range. Typically, the minimal value is zero.
-* Note 2: There are many different ways of measuring the speed range. You can link to information about how the given value has been determined using the [[valueReference]] property.
+* Note 1: Use [[minValue]] and [[maxValue]] to indicate the range. Typically, the minimal value is zero.
+* Note 2: There are many different ways of measuring the speed range. 
+  You can link to information about how the given value has been determined using the [[valueReference]] property.
 
 Predicate describes that: 
 
