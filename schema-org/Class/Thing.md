@@ -19,7 +19,7 @@ cssclasses:
   - Type
 draft: false
 expiryDate: ""
-has_child_class:
+dv_has_child_class:
   - "[[Class/is_a_/action|Action]]"
   - "[[Class/is_a_/bio_chem_entity|bio_chem_entity]]"
   - "[[../../Society/Communication/Media/Creative_Work|creative_work]]"
@@ -50,29 +50,16 @@ type: Type
 dv_is_:
   same_as:
     - "[[WD~Entity,35120]]"
-    - "[[/_Standards/schema-org/Class/Thing|Thing]]"
+    - "[[Thing]]"
     - "[[/_public/schema-org/Class/Thing.public|Thing.public]]"
     - "[[/_internal/schema-org/Class/Thing.internal|Thing.internal]]"
     - "[[/_protect/schema-org/Class/Thing.protect|Thing.protect]]"
     - "[[/_private/schema-org/Class/Thing.private|Thing.private]]"
     - "[[/_personal/schema-org/Class/Thing.personal|Thing.personal]]"
     - "[[/_secret/schema-org/Class/Thing.secret|Thing.secret]]"
-    - "[[Thing]]"
   instance_of: "[[../Class|Class]]"
   parent_class: "[[Thing]]"
 dv_has_:
-  child_class:
-    - "[[is_a_/Action|Action]]"
-    - "[[Class/is_a_/bio_chem_entity|bio_chem_entity]]"
-    - "[[../../Society/Communication/Media/Creative_Work|creative_work]]"
-    - "[[Class/is_a_/event|event]]"
-    - "[[Class/is_a_/Intangible|Intangible]]"
-    - "[[../../bio/Medicine/Medical_Entity|medical-entity]]"
-    - "[[../../Earth/Geography/Place|place]]"
-    - "[[../../Society/Agent/Community/Organization|organization]]"
-    - "[[../../Society/Agent/Person|person]]"
-    - "[[../../Society/Agent/Community/Organization/Business/Product|product]]"
-    - "[[../../bio/Taxon_Rank/Taxon|taxon]]"
   child_:
     class:
       - "[[is_a_/Action|Action]]"
@@ -160,11 +147,10 @@ Don't used this Class in a Relation, because it is too vague. Rather use
 But this is_instance_of = `=this.dv_is_instance_of` 
 There is no larger Class:  has_parent_class = `=this.dv_has_parent_class` 
 
-#has_/child_/class :: "[[is_a_/Action|Action]]", "[[Class/is_a_/bio_chem_entity|bio_chem_entity]]", "[[../../Society/Communication/Media/Creative_Work|creative_work]]", "[[Class/is_a_/event|event]]", "[[Class/is_a_/Intangible|Intangible]]", "[[../../bio/Medicine/Medical_Entity|medical-entity]]", "[[../../Earth/Geography/Place|place]]", "[[../../Society/Agent/Community/Organization|organization]]", "[[../../Society/Agent/Person|person]]", "[[../../Society/Agent/Community/Organization/Business/Product|product]]", "[[../../bio/Taxon_Rank/Taxon|taxon]]"   
-
-has_child_class :: "[[is_a_/Action|Action]]", "[[Class/is_a_/bio_chem_entity|bio_chem_entity]]", "[[../../Society/Communication/Media/Creative_Work|creative_work]]", "[[Class/is_a_/event|event]]", "[[Class/is_a_/Intangible|Intangible]]", "[[../../bio/Medicine/Medical_Entity|medical-entity]]", "[[../../Earth/Geography/Place|place]]", "[[../../Society/Agent/Community/Organization|organization]]", "[[../../Society/Agent/Person|person]]", "[[../../Society/Agent/Community/Organization/Business/Product|product]]", "[[../../bio/Taxon_Rank/Taxon|taxon]]" 
-
-#has_/properties = `=this.dv_has_properties`
+- #has_/child_/class = `=this.dv_has_child_class` 
+- has_child_class = `=this.dv_has_child_class` 
+- 
+- #has_/properties = `=this.dv_has_properties`
 
 ## RDF-Objects 
 
