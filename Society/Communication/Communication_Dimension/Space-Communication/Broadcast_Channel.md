@@ -59,6 +59,8 @@ Colon_Classification: D65,43
 
 # [[Broadcast_Channel]]
 
+#is_/same_as :: [[_Standards/WikiData/WD~broadcasting,15078788]] 
+
 Class of all broadcast_channels.
 
 Tag Instances like this: 
@@ -66,13 +68,12 @@ Tag Instances like this:
 
 A unique instance of a BroadcastService on a CableOrSatelliteService lineup.
 
-#has_/parent_class :: [[../../../../../schema-org/Class/is_a_/Intangible]]  
+#has_/parent_class :: [[../../../../../schema-org/Class/is_a_/Intangible|Intangible]]  
 
-#has_/child_/class :: [ RadioChannel, TelevisionChannel ]  
+#has_/child_/class :: [[Broadcast_Channel/Radio_Channel|Radio_Channel]], [[Broadcast_Channel/Television/Television_Channel|Television_Channel]] 
 
-#has_/properties :: [ additionalType, alternateName, broadcastChannelId, broadcastFrequency, broadcastServiceTier, description, disambiguatingDescription, genre, identifier, image, inBroadcastLineup, mainEntityOfPage, name, potentialAction, providesBroadcastService, sameAs, subjectOf, url ]  
+#has_/properties ::  additionalType, alternateName, broadcastChannelId, broadcastFrequency, broadcastServiceTier, description, disambiguatingDescription, genre, identifier, image, inBroadcastLineup, mainEntityOfPage, name, potentialAction, providesBroadcastService, sameAs, subjectOf, url 
 
-#is_/same_as :: [[WD~broadcasting,15078788]] 
 
 
 ## Confidential Links & Embeds: 

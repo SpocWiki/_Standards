@@ -75,8 +75,7 @@ Use it like this:
 - has_child_class = `=this.dv_has_child_class` 
 
 Relation describes that: 
-#has_/child_/class 
-#has_/child_/class 
+
 has_domain = `=this.dv_has_domain` 
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 

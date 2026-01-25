@@ -113,7 +113,7 @@ There is no larger Class:  has_parent_class = `=this.dv_has_parent_class`
 
 has_/child_classes:: "[[is_a_/Action|Action]]", "[[Class/is_a_/bio_chem_entity|bio_chem_entity]]", "[[../../Society/Communication/Media/Creative_Work|creative_work]]", "[[Class/is_a_/event|event]]", "[[Class/is_a_/Intangible|Intangible]]", "[[../../bio/Medicine/Medical_Entity|medical-entity]]", "[[../../Earth/Geography/Place|place]]", "[[../../Society/Agent/Community/Organization|organization]]", "[[../../Society/Agent/Person|person]]", "[[../../Society/Agent/Community/Organization/Business/Product|product]]", "[[../../bio/Taxon_Rank/Taxon|taxon]]" 
 
-[[Predicate/Urls/has_url_for_additional_type.md| #has_/properties :: [ "[has_url_for_additional_type]]", '[[Predicate/Texts/has_name_alternate.md|has_name_alternate]]', "[[Predicate/Texts/has_description.md|has_description]]", disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
+#has_/properties :: [[../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]], [[../Property/has_name/has_name_alternate|has_name_alternate]], [[../Property/Texts/has_description|has_description]], [[../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]], [[../Relation/has/has_identifier|has_identifier]], [[../Relation/has/has_image|has_image]], [[../Relation/is/is_main_entity_of_page|is_main_entity_of_page]], [[../Property/has_name|has_name]], [[../Relation/has/has_potential_action|has_potential_action]], [[../Relation/is_same_as|is_same_as]], [[../Relation/is/is_subject_of|is_subject_of]], [[../Property/has_url_for/has_url|has_url]] 
 
 ## RDF-Objects 
 
