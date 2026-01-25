@@ -180,12 +180,12 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  #has_/value_for_/radius_/nano_/m:
+  #has_/value_for_/radius_/nano_/meter:
     input: number
-    accessorKey: #has_/value_for_/radius_/nano_/m
-    label: #has_/value_for_/radius_/nano_/m
-    key: #has_/value_for_/radius_/nano_/m
-    id: #has_/value_for_/radius_/nano_/m
+    accessorKey: #has_/value_for_/radius_/nano_/meter
+    label: #has_/value_for_/radius_/nano_/meter
+    key: #has_/value_for_/radius_/nano_/meter
+    id: #has_/value_for_/radius_/nano_/meter
     position: 13
     skipPersist: false
     isHidden: false

@@ -52,7 +52,7 @@ Unlike [[has_place_longitude|longitude]] and [[has_place_latitude|latitude]] whi
 #has_/place_/lat_longitude 
 
 Use it like this: 
-- #has_/place_/elevation_/m :: Number   
+- #has_/place_/elevation_/meter :: Number   
 - has_place_elevation_m :: Number   
 - #has_/place_/elevation :: Number   
 - has_place_elevation :: Number   

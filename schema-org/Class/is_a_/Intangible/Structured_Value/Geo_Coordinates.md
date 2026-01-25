@@ -54,9 +54,9 @@ Class of all geo_coordinatess.
 Tag Instances like this: 
 #is_a_/geo_coordinates
 
+#has_/place_/altitude_/meter
 #has_/place_/longitude 
-has_/value_for_/
-has_/geo_/longitude
+#has_/place_/latitude 
 
 The geographic coordinates of a place or event.
 

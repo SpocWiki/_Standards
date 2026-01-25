@@ -19,7 +19,7 @@ dv_has_:
     unknown2: "{{Unknown2}}"
     radius_:
       nano_:
-        m: "{{#has_/value_for_/radius_/nano_/m}}"
+        m: "{{#has_/value_for_/radius_/nano_/meter}}"
     electronegativity: "{{Electronegativ}}"
     density: "{{Density0°}}"
     temperature_:
@@ -55,7 +55,7 @@ dv_has_value_for_weight_u: "{{#has_/value_for_/weight_/u}}"
 dv_has_value_for_radius: "{{AtomRadius}}"
 dv_has_value_for_volume_ccm_mol: "{{Atomvol-ccm-mol}}"
 dv_has_value_for_unknown2: "{{Unknown2}}"
-dv_has_value_for_radius_nano_m: "{{#has_/value_for_/radius_/nano_/m}}"
+dv_has_value_for_radius_nano_m: "{{#has_/value_for_/radius_/nano_/meter}}"
 dv_has_value_for_electronegativity: "{{Electronegativ}}"
 dv_has_value_for_density: "{{Density0°}}"
 dv_has_value_for_temperature_melt_c: "{{MeltingPoint}}"

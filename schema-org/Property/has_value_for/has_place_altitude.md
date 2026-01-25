@@ -3,7 +3,7 @@ aliases:
   - altitude_meters
   - altitude
   - has_value_for_altitude_meters
-  - has_place_altitude_meters
+  - has_place_altitude
   - has place altitude meters
 confidential: public
 cssclasses:
@@ -52,29 +52,29 @@ this can be given in other Units, which need to be specified.
 [[has_place_elevation|Elevation]] is measured __above Sea-Level__. 
 
 Use it like this: 
-- #has_/place_/altitude_/meters :: Number, Text   
-- has_place_altitude_meters :: [ [[../../Class/is_a_/data_type/number|Number]],  [[../../Class/is_a_/data_type/text|Text]] ]   
+- #has_/place_/altitude :: Number, Text   
+- #has_/place_/altitude_/meter :: Number 
+- has_place_altitude_m :: [[../../Class/is_a_/data_type/number|Number]],  [[../../Class/is_a_/data_type/text|Text]] 
 
 Predicate describes that: 
 
 #has_/domain  :: [[../../Class/is_a_/Intangible/structured_value/geo_coordinates|GeoCoordinates]],  [[../../../Earth/Geography/Place|Place]]  
-(has_/name :: has_place_altitude_meters )
+(has_/name :: has_place_altitude )
 (has_/range :: [[../../Class/is_a_/data_type/number|Number]],  [[../../Class/is_a_/data_type/text|Text]] )
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[has_place_altitude|has_place_altitude_meters]] 
+### #is_/same_as :: [[has_place_altitude|has_place_altitude]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_place_altitude_meters.public|has_place_altitude_meters.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_place_altitude.public|has_place_altitude.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_place_altitude_meters.internal|has_place_altitude_meters.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_place_altitude.internal|has_place_altitude.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_place_altitude_meters.protect|has_place_altitude_meters.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_place_altitude.protect|has_place_altitude.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_place_altitude_meters.private|has_place_altitude_meters.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_place_altitude.private|has_place_altitude.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_place_altitude_meters.personal|has_place_altitude_meters.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_place_altitude.personal|has_place_altitude.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_place_altitude_meters.secret|has_place_altitude_meters.secret]] 
-
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_place_altitude.secret|has_place_altitude.secret]] 

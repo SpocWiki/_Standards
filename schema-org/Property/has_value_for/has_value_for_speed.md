@@ -3,8 +3,8 @@ aliases:
   - speed
   - speed
   - speed
-  - has_value_for_speed_km_h
-  - has value for speed km h
+  - has_value_for_speed
+  - has value for speed 
 confidential: public
 cssclasses:
   - Predicate
@@ -27,15 +27,18 @@ title: has_speed
 type: Predi_Quantity
 ---
 
-Predicate to describe the Quantity of Vehicle.
+# [[has_value_for_speed]]
+
+Predicate to describe the Speed of the Subject-Vehicle.
 
 #is_/part_of :: https://auto.schema.org  
 
 Use it like this: 
-- #has_/value_for_/speed :: QuantitativeValue, [[../../Class/is_a_/Data_Type/Number|Number]]    
-- #has_/value_for_/speed_/km_/h :: [[../../Class/is_a_/Data_Type/Number|Number]] 
-- #has_/value_for_/speed_/m_/s :: [[../../Class/is_a_/Data_Type/Number|Number]]  
-- has_value_for_speed_km_h :: QuantitativeValue   
+- #has_/value_for_/speed :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]], [[../../Class/is_a_/Data_Type/Number|Number]]    
+- #has_/value_for_/speed_/kilo_/meter_/hour :: [[../../Class/is_a_/Data_Type/Number|Number]] 
+- #has_/value_for_/speed_/meter_/second :: [[../../Class/is_a_/Data_Type/Number|Number]]  
+- has_value_for_speed :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]
+- has_value_for_speed_kilo_meter_hour :: [[../../Class/is_a_/Data_Type/Number|Number]]       
 
 The speed range of the vehicle. If the vehicle is powered by an engine, the upper limit of the speed range (indicated by [[maxValue]]) should be the maximum speed achievable under regular conditions.
 
@@ -47,24 +50,23 @@ Typical unit code(s): KMH for km/h, HM for mile per hour (0.447 04 m/s), KNT for
 Predicate describes that: 
 
 #has_/domain  :: Vehicle  
-
-(has_/name :: has_value_for_speed_km_h )
+(has_/name :: has_value_for_speed )
 (has_/range :: QuantitativeValue )
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_speed_km_h|has_value_for_speed_km_h]] 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_speed|has_value_for_speed]] 
 
-### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_speed_km_h.public|has_value_for_speed_km_h.public]] 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_speed.public|has_value_for_speed.public]] 
 
-### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_speed_km_h.internal|has_value_for_speed_km_h.internal]] 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_speed.internal|has_value_for_speed.internal]] 
 
-### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_speed_km_h.protect|has_value_for_speed_km_h.protect]] 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_speed.protect|has_value_for_speed.protect]] 
 
-### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_speed_km_h.private|has_value_for_speed_km_h.private]] 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_speed.private|has_value_for_speed.private]] 
 
-### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_speed_km_h.personal|has_value_for_speed_km_h.personal]] 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_speed.personal|has_value_for_speed.personal]] 
 
-### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_speed_km_h.secret|has_value_for_speed_km_h.secret]] 
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_speed.secret|has_value_for_speed.secret]] 
 
