@@ -11,7 +11,7 @@ draft: false
 expiryDate: ""
 fileClass:
   - Relation-File
-has_domain: "[[Order]]"
+has_domain: "[[../../../Class/is_a_/Intangible/Order|Order]]"
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -29,12 +29,12 @@ tags:
 title: has_offer_accepted
 type: Predi_Relation
 dv_has_:
-  offer_accepted: "[[../../../../Society/Agent/Community/Organization/Business/Offer]]"
-  domain: "[[../../../Class/is_a_/Intangible/Order]]"
+  offer_accepted: "[[../../../../Society/Agent/Community/Organization/Business/Offer|Offer]]"
+  domain: "[[../../../Class/is_a_/Intangible/Order|Order]]"
   name: has_offer_accepted
-  range: "[[../../../../Society/Agent/Community/Organization/Business/Offer]]"
-  inverse: "#is_/offer_/accepted_for"
-dv_has_offer_accepted: "[[../../../../Society/Agent/Community/Organization/Business/Offer]]"
+  range: "[[../../../../Society/Agent/Community/Organization/Business/Offer|Offer]]"
+  inverse: "[[is_offer_accepted_for]]"
+dv_has_offer_accepted: "[[../../../../Society/Agent/Community/Organization/Business/Offer|Offer]]"
 dv_is_:
   same_as:
     - "[[has_offer_accepted|has_offer_accepted]]"
@@ -46,7 +46,7 @@ dv_is_:
     - "[[/_secret/schema-org/Relation/has/has_offer_accepted.secret|has_offer_accepted.secret]]"
     - "[[has_offer_accepted]]"
 dv_has_name: has_offer_accepted
-dv_has_range: "[[../../../../Society/Agent/Community/Organization/Business/Offer]]"
+dv_has_range: "[[../../../../Society/Agent/Community/Organization/Business/Offer|Offer]]"
 dv_is_same_as:
   - "[[has_offer_accepted]]"
   - "[[/_public/schema-org/Relation/has/has_offer_accepted.public|has_offer_accepted.public]]"
@@ -56,15 +56,15 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/has/has_offer_accepted.personal|has_offer_accepted.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_offer_accepted.secret|has_offer_accepted.secret]]"
 dv_is_a: "[[../../../Relation|Relation]]"
-dv_has_inverse: "#is_/offer_/accepted_for"
+dv_has_inverse: "[[is_offer_accepted_for]]"
 ---
 
 # [[has_offer_accepted]]
 
-#is_a :: [[../../../Relation|Relation]]
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_offer_accepted_for]]
+has_inverse = `=this.dv_has_inverse` 
 
 
 Use it like this: 
@@ -77,7 +77,7 @@ included in the order-Subject.
 
 Relation describes that: 
 
-#has_/domain  :: [[Order]]  
+has_domain :: [[../../../Class/is_a_/Intangible/Order|Order]] 
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 
