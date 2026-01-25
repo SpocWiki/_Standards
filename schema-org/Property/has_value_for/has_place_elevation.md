@@ -43,9 +43,7 @@ dv_has_:
 dv_has_place_elevation_meter: Number
 dv_has_place_elevation: Number
 dv_is_:
-  different_from:
-    - "[[has_place_altitude]]"
-    - "[[has_place_altitude]]"
+  different_from: "[[has_place_altitude]]"
   similar_to: "[[has_place_altitude]]"
   same_as:
     - "[[has_place_elevation|has_place_elevation_meters]]"
@@ -56,9 +54,7 @@ dv_is_:
     - "[[/_personal/schema-org/Property/has_value_for/has_place_elevation_meters.personal|has_place_elevation_meters.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_place_elevation_meters.secret|has_place_elevation_meters.secret]]"
 dv_has_unit_for_default: "[[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Meter|Unit~Meter]]"
-dv_is_different_from:
-  - "[[has_place_altitude]]"
-  - "[[has_place_altitude]]"
+dv_is_different_from: "[[has_place_altitude]]"
 dv_is_similar_to: "[[has_place_altitude]]"
 dv_has_domain:
   - "[[../../Class/is_a_/Intangible/Structured_Value/Geo_Coordinates|GeoCoordinates]]"
@@ -80,7 +76,8 @@ dv_is_same_as:
 # [[has_place_elevation]] 
 
 has_unit_for_default = `=this.dv_has_unit_for_default` 
-#is_/different_from :: [[has_place_altitude]] 
+is_similar_to = `=this.dv_is_similar_to` 
+is_different_from = `=this.dv_is_different_from` 
 
 Elevation in [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Meter|Unit~Meter]]s __above [[../../../Earth/Geography/Cartography/Sea_Level|Sea_Level]]__ of GeoCoordinate or GeoShape, 
 typically [[WGS84]]. 
@@ -88,9 +85,6 @@ typically [[WGS84]].
 The default [[../../../Dimension/Unit_of_Measure|Unit_of_Measure]]  are [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Meter|Unit~Meter]]s, unless specified different, either 
 - in the XPath/JsonPath 
 - as a [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]] with `value` and `unitCode` 
-
-is_similar_to = `=this.dv_is_similar_to` 
-#is_/different_from :: [[has_place_altitude]] 
 
 [[has_place_altitude|Altitude]] is measured __above Ground__, 
 so the elevation has to be added to get the height above [[../../../Earth/Geography/Cartography/Sea_Level|Sea_Level]].
