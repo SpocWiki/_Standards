@@ -65,8 +65,9 @@ dv_has_range: "[[../../../Society/Agent/Person|Person]]"
 
 # [[has_parent]]
 
-has_parent_relation = `=this.dv_has_parent_relation` 
 has_inverse = `=this.dv_has_inverse` 
+has_parent_relation = `=this.dv_has_parent_relation` 
+
 #is_/same_as :: [[WD~P40]] 
 
 Use it like this: 

@@ -28,11 +28,11 @@ title: has_parent_service
 type: Predi_Relation
 dv_has_:
   parent_:
-    service: BroadcastService
-  domain: BroadcastService
+    service: "[[../../../../Society/Agent/Community/Organization/Business/Service/Broadcast_Service|Broadcast_Service]]"
+  domain: "[[../../../../Society/Agent/Community/Organization/Business/Service/Broadcast_Service|Broadcast_Service]]"
   name: has_parent_service
-  range: BroadcastService
-dv_has_parent_service: BroadcastService
+  range: "[[../../../../Society/Agent/Community/Organization/Business/Service/Broadcast_Service|Broadcast_Service]]"
+dv_has_parent_service: "[[../../../../Society/Agent/Community/Organization/Business/Service/Broadcast_Service|Broadcast_Service]]"
 dv_is_:
   same_as:
     - "[[has_parent_service|has_parent_service]]"
@@ -42,9 +42,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_parent_service.private|has_parent_service.private]]"
     - "[[/_personal/schema-org/Relation/has/has_parent_service.personal|has_parent_service.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_parent_service.secret|has_parent_service.secret]]"
-dv_has_domain: BroadcastService
+dv_has_domain: "[[../../../../Society/Agent/Community/Organization/Business/Service/Broadcast_Service|Broadcast_Service]]"
 dv_has_name: has_parent_service
-dv_has_range: BroadcastService
+dv_has_range: "[[../../../../Society/Agent/Community/Organization/Business/Service/Broadcast_Service|Broadcast_Service]]"
 dv_is_same_as:
   - "[[has_parent_service|has_parent_service]]"
   - "[[/_public/schema-org/Relation/has/has_parent_service.public|has_parent_service.public]]"
@@ -54,6 +54,8 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/has/has_parent_service.personal|has_parent_service.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_parent_service.secret|has_parent_service.secret]]"
 ---
+
+# [[has_parent_service]] 
 
 Use it like this: 
 - #has_/parent_/service = `=this.dv_has_parent_service`  
@@ -65,7 +67,6 @@ such as regional variations of a national channel.
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

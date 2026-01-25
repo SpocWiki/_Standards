@@ -78,16 +78,16 @@ is_part_of = `=this.dv_is_part_of`
 has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
-- #has_/child_/taxon :: [[../../../../bio/Taxon_Rank/Taxon|Taxon]], [[../../../Class/is_a_/Data_Type/Text|Text]], [[../../../Class/is_a_/Data_Type/Text/Url|Url]] 
-- has_child_taxon :: [[../../../../bio/Taxon_Rank/Taxon|Taxon]], [[../../../Class/is_a_/Data_Type/Text|Text]], [[../../../Class/is_a_/Data_Type/Text/Url|Url]]
+- #has_/child_/taxon :: `=this.dv_has_range` 
+- has_child_taxon :: `=this.dv_has_range`
 
-Closest child taxa of the taxon in question.
+Closest child taxon-Objects of the Subject-Taxon in question.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
 has_name = `=this.dv_has_name` 
-has_range :: [[../../../../bio/Taxon_Rank/Taxon|Taxon]], [[../../../Class/is_a_/Data_Type/Text|Text]], [[../../../Class/is_a_/Data_Type/Text/Url|Url]] 
+has_range = `=this.dv_has_range` 
 
 ## Confidential Links & Embeds: 
 

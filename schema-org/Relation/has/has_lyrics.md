@@ -61,9 +61,11 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_lyrics.secret|has_lyrics.secret]]"
 ---
 
+# [[has_lyrics]] 
+
 Use it like this: 
-- #has_/lyrics  :: "[[../../../Society/Communication/Media/Creative_Work|CreativeWork]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"  
-- has_lyrics :: "[[../../../Society/Communication/Media/Creative_Work|CreativeWork]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"   
+- #has_/lyrics  :: `=this.dv_has_range` 
+- has_lyrics :: `=this.dv_has_range` 
 
 or, when giving the text directly: 
 - #has_/text_of_/lyrics  :: Text  
@@ -73,7 +75,7 @@ Relation describes that:
 
 has_domain = `=this.dv_has_domain` 
 has_name = `=this.dv_has_name` 
-(has_/range :: [[../../../Society/Communication/Media/Creative_Work|CreativeWork]],  [[../../Class/is_a_/Data_Type/Text|Text]] )
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 
