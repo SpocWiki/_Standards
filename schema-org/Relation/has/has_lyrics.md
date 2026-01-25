@@ -23,9 +23,6 @@ tags:
 title: has_lyrics
 type: Predi_Relation
 dv_has_:
-  lyrics:
-    - "[[../../../Society/Communication/Media/Creative_Work|CreativeWork]]"
-    - "[[../../Class/is_a_/Data_Type/Text|Text]]"
   text_of_:
     lyrics: Text The words in the song.
   domain: "[[../../../Society/Communication/Media/Creative_Work/Music_Composition|Music_Composition]]"
@@ -33,9 +30,6 @@ dv_has_:
   range:
     - "[[../../../Society/Communication/Media/Creative_Work|CreativeWork]]"
     - "[[../../Class/is_a_/Data_Type/Text|Text]]"
-dv_has_lyrics:
-  - "[[../../../Society/Communication/Media/Creative_Work|CreativeWork]]"
-  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_:
   same_as:
     - "[[has_lyrics]]"
@@ -64,8 +58,8 @@ dv_is_same_as:
 # [[has_lyrics]] 
 
 Use it like this: 
-- #has_/lyrics  :: `=this.dv_has_range` 
-- has_lyrics :: `=this.dv_has_range` 
+- #has_/lyrics = `=this.dv_has_range` 
+- has_lyrics = `=this.dv_has_range` 
 
 or, when giving the text directly: 
 - #has_/text_of_/lyrics  :: Text  

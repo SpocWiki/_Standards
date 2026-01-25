@@ -33,6 +33,7 @@ dv_has_:
   domain: "[[../../../Class/is_a_/Intangible/Order]]"
   name: has_offer_accepted
   range: "[[../../../../Society/Agent/Community/Organization/Business/Offer]]"
+  inverse: "#is_/offer_/accepted_for"
 dv_has_offer_accepted: "[[../../../../Society/Agent/Community/Organization/Business/Offer]]"
 dv_is_:
   same_as:
@@ -43,16 +44,19 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_offer_accepted.private|has_offer_accepted.private]]"
     - "[[/_personal/schema-org/Relation/has/has_offer_accepted.personal|has_offer_accepted.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_offer_accepted.secret|has_offer_accepted.secret]]"
+    - "[[has_offer_accepted]]"
 dv_has_name: has_offer_accepted
 dv_has_range: "[[../../../../Society/Agent/Community/Organization/Business/Offer]]"
 dv_is_same_as:
-  - "[[has_offer_accepted|has_offer_accepted]]"
+  - "[[has_offer_accepted]]"
   - "[[/_public/schema-org/Relation/has/has_offer_accepted.public|has_offer_accepted.public]]"
   - "[[/_internal/schema-org/Relation/has/has_offer_accepted.internal|has_offer_accepted.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_offer_accepted.protect|has_offer_accepted.protect]]"
   - "[[/_private/schema-org/Relation/has/has_offer_accepted.private|has_offer_accepted.private]]"
   - "[[/_personal/schema-org/Relation/has/has_offer_accepted.personal|has_offer_accepted.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_offer_accepted.secret|has_offer_accepted.secret]]"
+dv_is_a: "[[../../../Relation|Relation]]"
+dv_has_inverse: "#is_/offer_/accepted_for"
 ---
 
 # [[has_offer_accepted]]
@@ -60,14 +64,15 @@ dv_is_same_as:
 #is_a :: [[../../../Relation|Relation]]
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: #is_/offer_/accepted_for
+#has_/inverse :: [[is_offer_accepted_for]]
 
 
 Use it like this: 
 - #has_/offer_/accepted = `=this.dv_has_offer_accepted` 
 - has_offer_accepted = `=this.dv_has_offer_accepted` 
 
-The offer(s) -- e.g., product, quantity and price combinations -- included in the order.
+The offer-Object(s) -- e.g., product, quantity and price combinations -- 
+included in the order-Subject.
 
 Relation describes that: 
 

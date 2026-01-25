@@ -63,8 +63,8 @@ dv_has_inverse: "[[has_child_items]]"
 has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
-- #has_/parent_/item :: `=this.dv_has_parent_item`  
-- has_parent_item :: `=this.dv_has_parent_item`  
+- #has_/parent_/item = `=this.dv_has_parent_item`  
+- has_parent_item = `=this.dv_has_parent_item`  
 
 The parent of a question, answer or item in general.
 
