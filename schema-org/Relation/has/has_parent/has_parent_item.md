@@ -28,11 +28,12 @@ title: has_parent_item
 type: Predi_Relation
 dv_has_:
   parent_:
-    item: Comment
-  domain: Comment
+    item: "[[../../../../Society/Communication/Media/Creative_Work/Comment|Comment]]"
+  domain: "[[../../../../Society/Communication/Media/Creative_Work/Comment|Comment]]"
   name: has_parent_item
-  range: Comment
-dv_has_parent_item: Comment
+  range: "[[../../../../Society/Communication/Media/Creative_Work/Comment|Comment]]"
+  inverse: "[[has_child_items]]"
+dv_has_parent_item: "[[../../../../Society/Communication/Media/Creative_Work/Comment|Comment]]"
 dv_is_:
   same_as:
     - "[[has_parent_item|has_parent_item]]"
@@ -42,22 +43,24 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_parent_item.private|has_parent_item.private]]"
     - "[[/_personal/schema-org/Relation/has/has_parent_item.personal|has_parent_item.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_parent_item.secret|has_parent_item.secret]]"
-dv_has_domain: Comment
+    - "[[has_parent_item]]"
+dv_has_domain: "[[../../../../Society/Communication/Media/Creative_Work/Comment|Comment]]"
 dv_has_name: has_parent_item
-dv_has_range: Comment
+dv_has_range: "[[../../../../Society/Communication/Media/Creative_Work/Comment|Comment]]"
 dv_is_same_as:
-  - "[[has_parent_item|has_parent_item]]"
+  - "[[has_parent_item]]"
   - "[[/_public/schema-org/Relation/has/has_parent_item.public|has_parent_item.public]]"
   - "[[/_internal/schema-org/Relation/has/has_parent_item.internal|has_parent_item.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_parent_item.protect|has_parent_item.protect]]"
   - "[[/_private/schema-org/Relation/has/has_parent_item.private|has_parent_item.private]]"
   - "[[/_personal/schema-org/Relation/has/has_parent_item.personal|has_parent_item.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_parent_item.secret|has_parent_item.secret]]"
+dv_has_inverse: "[[has_child_items]]"
 ---
 
 # [[has_parent_item]] 
 
-#has_/inverse :: [[has_child_items]]  
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/parent_/item = `=this.dv_has_parent_item`  

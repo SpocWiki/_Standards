@@ -26,13 +26,13 @@ tags:
   - schema-org/Relation
 title: has_child_set
 type: Predi_Relation
-dv_has_child_set: "[[../../../Collection]]"
+dv_has_child_set: "[[../../../Collection|Collection]]"
 dv_has_:
-  sub_sets: "[[../../../Collection]]"
-  domain: "[[../../../Collection]]"
+  sub_sets: "[[../../../Collection|Collection]]"
+  domain: "[[../../../Collection|Collection]]"
   inverse: "[[../has_parent/has_parent_set]]"
   name: has_child_set
-  range: "[[../../../Collection]]"
+  range: "[[../../../Collection|Collection]]"
 dv_is_:
   same_as:
     - "[[has_child_set|has_child_set]]"
@@ -42,9 +42,9 @@ dv_is_:
     - "[[/_private/schema-org/Collection/has_child_set.private|has_child_set.private]]"
     - "[[/_personal/schema-org/Collection/has_child_set.personal|has_child_set.personal]]"
     - "[[/_secret/schema-org/Collection/has_child_set.secret|has_child_set.secret]]"
-dv_has_domain: "[[../../../Collection]]"
+dv_has_domain: "[[../../../Collection|Collection]]"
 dv_has_name: has_child_set
-dv_has_range: "[[../../../Collection]]"
+dv_has_range: "[[../../../Collection|Collection]]"
 dv_has_inverse: "[[../has_parent/has_parent_set]]"
 dv_is_same_as:
   - "[[has_child_set|has_child_set]]"

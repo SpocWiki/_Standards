@@ -28,11 +28,11 @@ tags:
 title: has_child_test
 type: Predi_Relation
 dv_has_:
-  sub_test: MedicalTest
-  domain: MedicalTestPanel
+  sub_test: "[[../../../../bio/Medicine/Medical_Entity/Medical_Test|Medical_Test]]"
+  domain: "[[../../../../bio/Medicine/Medical_Entity/Medical_Test/Medical_Test_Panel|Medical_Test_Panel]]"
   name: has_child_test
-  range: MedicalTest
-dv_has_child_test: MedicalTest
+  range: "[[../../../../bio/Medicine/Medical_Entity/Medical_Test|Medical_Test]]"
+dv_has_child_test: "[[../../../../bio/Medicine/Medical_Entity/Medical_Test|Medical_Test]]"
 dv_is_:
   same_as:
     - "[[has_child_test|has_child_test]]"
@@ -42,9 +42,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_child_test.private|has_child_test.private]]"
     - "[[/_personal/schema-org/Relation/has/has_child_test.personal|has_child_test.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_child_test.secret|has_child_test.secret]]"
-dv_has_domain: MedicalTestPanel
+dv_has_domain: "[[../../../../bio/Medicine/Medical_Entity/Medical_Test/Medical_Test_Panel|Medical_Test_Panel]]"
 dv_has_name: has_child_test
-dv_has_range: MedicalTest
+dv_has_range: "[[../../../../bio/Medicine/Medical_Entity/Medical_Test|Medical_Test]]"
 dv_is_same_as:
   - "[[has_child_test|has_child_test]]"
   - "[[/_public/schema-org/Relation/has/has_child_test.public|has_child_test.public]]"
@@ -55,6 +55,8 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_child_test.secret|has_child_test.secret]]"
 ---
 
+# [[has_child_test]] 
+
 Use it like this: 
 - #has_/child_/test = `=this.dv_has_child_test`  
 - has_child_test = `=this.dv_has_child_test`  
@@ -64,7 +66,6 @@ A component test of the panel.
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

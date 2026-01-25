@@ -28,11 +28,11 @@ tags:
 title: has_child_reservation
 type: Predi_Relation
 dv_has_:
-  sub_reservation: Reservation
-  domain: ReservationPackage
+  sub_reservation: "[[../../../Class/is_a_/Intangible/Reservation|Reservation]]"
+  domain: "[[../../../Class/is_a_/Intangible/Reservation/Reservation_Package|Reservation_Package]]"
   name: has_child_reservation
-  range: Reservation
-dv_has_child_reservation: Reservation
+  range: "[[../../../Class/is_a_/Intangible/Reservation|Reservation]]"
+dv_has_child_reservation: "[[../../../Class/is_a_/Intangible/Reservation|Reservation]]"
 dv_is_:
   same_as:
     - "[[has_child_reservation|has_child_reservation]]"
@@ -42,9 +42,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_child_reservation.private|has_child_reservation.private]]"
     - "[[/_personal/schema-org/Relation/has/has_child_reservation.personal|has_child_reservation.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_child_reservation.secret|has_child_reservation.secret]]"
-dv_has_domain: ReservationPackage
+dv_has_domain: "[[../../../Class/is_a_/Intangible/Reservation/Reservation_Package|Reservation_Package]]"
 dv_has_name: has_child_reservation
-dv_has_range: Reservation
+dv_has_range: "[[../../../Class/is_a_/Intangible/Reservation|Reservation]]"
 dv_is_same_as:
   - "[[has_child_reservation|has_child_reservation]]"
   - "[[/_public/schema-org/Relation/has/has_child_reservation.public|has_child_reservation.public]]"
@@ -64,7 +64,6 @@ The individual reservations included in the package. Typically a repeated proper
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

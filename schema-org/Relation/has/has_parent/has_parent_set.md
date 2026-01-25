@@ -42,14 +42,14 @@ dv_is_:
     - "[[/_private/schema-org/Collection/has_parent_set.private|has_parent_set.private]]"
     - "[[/_personal/schema-org/Collection/has_parent_set.personal|has_parent_set.personal]]"
     - "[[/_secret/schema-org/Collection/has_parent_set.secret|has_parent_set.secret]]"
-dv_has_parent_set: Collection
+dv_has_parent_set: "[[../../../Collection|Collection]]"
 dv_has_:
-  domain: "[Collection](../../../Collection)"
-  name: "[has_parent_set](has_parent_set)"
-  range: "[Collection](../../../Collection)"
-dv_has_domain: "[Collection](../../../Collection)"
-dv_has_name: "[has_parent_set](has_parent_set)"
-dv_has_range: "[Collection](../../../Collection)"
+  domain: "[[../../../Collection|Collection]]"
+  name: "[[has_parent_set]]"
+  range: "[[../../../Collection|Collection]]"
+dv_has_domain: "[[../../../Collection|Collection]]"
+dv_has_name: "[[has_parent_set]]"
+dv_has_range: "[[../../../Collection|Collection]]"
 dv_is_same_as:
   - "[[has_parent_set|has_child_set_of]]"
   - "[[/_public/schema-org/Collection/has_parent_set.public|has_parent_set.public]]"

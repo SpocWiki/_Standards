@@ -28,11 +28,11 @@ tags:
 title: has_child_structure
 type: Predi_Relation
 dv_has_:
-  sub_structure: AnatomicalStructure
-  domain: AnatomicalStructure
+  sub_structure: "[[../../../../bio/Medicine/Anatomy/Anatomical_Structure|Anatomical_Structure]]"
+  domain: "[[../../../../bio/Medicine/Anatomy/Anatomical_Structure|Anatomical_Structure]]"
   name: has_child_structure
-  range: AnatomicalStructure
-dv_has_child_structure: AnatomicalStructure
+  range: "[[../../../../bio/Medicine/Anatomy/Anatomical_Structure|Anatomical_Structure]]"
+dv_has_child_structure: "[[../../../../bio/Medicine/Anatomy/Anatomical_Structure|Anatomical_Structure]]"
 dv_is_:
   same_as:
     - "[[has_child_structure|has_child_structure]]"
@@ -42,9 +42,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_child_structure.private|has_child_structure.private]]"
     - "[[/_personal/schema-org/Relation/has/has_child_structure.personal|has_child_structure.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_child_structure.secret|has_child_structure.secret]]"
-dv_has_domain: AnatomicalStructure
+dv_has_domain: "[[../../../../bio/Medicine/Anatomy/Anatomical_Structure|Anatomical_Structure]]"
 dv_has_name: has_child_structure
-dv_has_range: AnatomicalStructure
+dv_has_range: "[[../../../../bio/Medicine/Anatomy/Anatomical_Structure|Anatomical_Structure]]"
 dv_is_same_as:
   - "[[has_child_structure|has_child_structure]]"
   - "[[/_public/schema-org/Relation/has/has_child_structure.public|has_child_structure.public]]"
@@ -64,7 +64,6 @@ Component (sub-)structure(s) that comprise this anatomical structure.
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

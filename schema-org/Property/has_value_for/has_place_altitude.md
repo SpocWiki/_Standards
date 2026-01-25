@@ -109,7 +109,7 @@ Use it like this:
 
 Predicate describes that: 
 
-#has_/domain  :: [[../../Class/is_a_/Intangible/structured_value/geo_coordinates|GeoCoordinates]],  [[../../../Earth/Geography/Place|Place]]  
+#has_/domain  = `=this.dv_has_domain` 
 has_name = `=this.dv_has_name` 
 (has_/range :: [[../../Class/is_a_/data_type/number|Number]],  [[../../Class/is_a_/data_type/text|Text]] )
 

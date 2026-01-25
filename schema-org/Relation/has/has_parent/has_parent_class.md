@@ -21,41 +21,75 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
-layout: ''
+keywords: ""
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_parent_class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - schema-org/Relation
 title: has_parent_class
 type: Predi_Relation
+dv_has_:
+  parent_:
+    class: "[[../../../Class|Class]]"
+  inverse: "[[../has_child/has_child_class]]"
+  domain: "[[../../../Class|Class]]"
+  name: "[has_parent_class](has_parent_class)"
+  range: "[[../../../Class|Class]]"
+dv_has_parent_class: "[[../../../Class|Class]]"
+dv_is_:
+  same_as:
+    - "[[../../../../W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RDF~Relations/rdfs~subClassOf|rdfs~subClassOf]]"
+    - "[[/_Standards/schema-org/Class/has_parent_class|has_parent_class]]"
+    - "[[/_public/schema-org/Class/has_parent_class.public|has_parent_class.public]]"
+    - "[[/_internal/schema-org/Class/has_parent_class.internal|has_parent_class.internal]]"
+    - "[[/_protect/schema-org/Class/has_parent_class.protect|has_parent_class.protect]]"
+    - "[[/_private/schema-org/Class/has_parent_class.private|has_parent_class.private]]"
+    - "[[/_personal/schema-org/Class/has_parent_class.personal|has_parent_class.personal]]"
+    - "[[/_secret/schema-org/Class/has_parent_class.secret|has_parent_class.secret]]"
+  better_than: "[[../../is_similar_to|is_similar_to]]"
+dv_is_same_as:
+  - "[[../../../../W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RDF~Relations/rdfs~subClassOf|rdfs~subClassOf]]"
+  - "[[/_Standards/schema-org/Class/has_parent_class|has_parent_class]]"
+  - "[[/_public/schema-org/Class/has_parent_class.public|has_parent_class.public]]"
+  - "[[/_internal/schema-org/Class/has_parent_class.internal|has_parent_class.internal]]"
+  - "[[/_protect/schema-org/Class/has_parent_class.protect|has_parent_class.protect]]"
+  - "[[/_private/schema-org/Class/has_parent_class.private|has_parent_class.private]]"
+  - "[[/_personal/schema-org/Class/has_parent_class.personal|has_parent_class.personal]]"
+  - "[[/_secret/schema-org/Class/has_parent_class.secret|has_parent_class.secret]]"
+dv_has_inverse: "[[../has_child/has_child_class]]"
+dv_is_better_than: "[[../../is_similar_to|is_similar_to]]"
+dv_has_domain: "[[../../../Class|Class]]"
+dv_has_name: "[has_parent_class](has_parent_class)"
+dv_has_range: "[[../../../Class|Class]]"
 ---
 
 ## [[has_parent_class]] 
 
 #is_/same_as  :: [[../../../../W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RDF~Relations/rdfs~subClassOf|rdfs~subClassOf]] 
-#has_/inverse  :: [[has_child_class]] 
-#is_/better_than :: [[../../is_similar_to|is_similar_to]] 
+has_inverse = `=this.dv_has_inverse` 
+is_better_than = `=this.dv_is_better_than` 
 
-Relates a subclass to its super-class. 
+Relates this subclass (Subject) to its super-class (Object). 
+
 Alternative, better readable Name: is_a_kind_of analogous to `#is_a_` for [[is_instance_of]]
 Could be implemented with dedicated #Tags, 
 but that would create a Tag-Proliferation. 
 
 Use it like this: 
-- #has_/parent_/class :: Class 
-- has_parent_class :: Class 
+- #has_/parent_/class :: [[../../../Class|Class]] 
+- has_parent_class :: [[../../../Class|Class]] 
 
 [[../../../Relation|Relation]] describes that: 
 
-#has_/domain  :: [Class](../../Classes) 
-(has_/name :: [has_parent_class](has_parent_class)) 
-(has_/range :: [Class](../../Classes)) 
+has_domain = `=this.dv_has_domain` 
+has_name = `=this.dv_has_name`  
+has_range = `=this.dv_has_range`  
 
 ### Definitions
 
