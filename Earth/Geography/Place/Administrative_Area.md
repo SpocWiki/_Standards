@@ -40,7 +40,7 @@ dv_is_:
     - "[[/_personal/Earth/Geography/Place/Administrative_Area.personal|Administrative_Area.personal]]"
     - "[[/_secret/Earth/Geography/Place/Administrative_Area.secret|Administrative_Area.secret]]"
 dv_has_parent_class: "[[../Place]]"
-dv_has_child_classes: "[ City, Country, SchoolDistrict, State ]"
+dv_has_child_class: "[ City, Country, SchoolDistrict, State ]"
 dv_has_properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
 dv_is_same_as:
   - "[[/_Standards/Earth/Geography/Place/Administrative_Area|Administrative_Area]]"
@@ -61,7 +61,7 @@ A geographical region, typically under the jurisdiction of a particular governme
 
 has_parent_class = `=this.dv_has_parent_class`] ]
 
-has_child_classes = `=this.dv_has_child_classes` ]
+has_child_class = `=this.dv_has_child_class` ]
 
 has_properties = `=this.dv_has_properties` ]
 

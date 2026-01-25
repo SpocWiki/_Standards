@@ -19,7 +19,7 @@ cssclasses:
   - Type
 draft: false
 expiryDate: ""
-has_child_classes:
+has_child_class:
   - "[[Class/is_a_/action|Action]]"
   - "[[Class/is_a_/bio_chem_entity|bio_chem_entity]]"
   - "[[../../Society/Communication/Media/Creative_Work|creative_work]]"
@@ -107,11 +107,12 @@ Don't used this Class in a Relation, because it is too vague. Rather use
 - [[is_instance_of]] for Objects or 
 - [[../Relation/has/has_parent/has_parent_class|has_parent_class]]  for Classes
 
-But this is_instance_of = `=this.dv_is_instance_of` ] ] 
-There is no larger Class:  has_parent_class = `=this.dv_has_parent_class`  
+But this is_instance_of = `=this.dv_is_instance_of` 
+There is no larger Class:  has_parent_class = `=this.dv_has_parent_class` 
+
 #has_/child_/class :: "[[is_a_/Action|Action]]", "[[Class/is_a_/bio_chem_entity|bio_chem_entity]]", "[[../../Society/Communication/Media/Creative_Work|creative_work]]", "[[Class/is_a_/event|event]]", "[[Class/is_a_/Intangible|Intangible]]", "[[../../bio/Medicine/Medical_Entity|medical-entity]]", "[[../../Earth/Geography/Place|place]]", "[[../../Society/Agent/Community/Organization|organization]]", "[[../../Society/Agent/Person|person]]", "[[../../Society/Agent/Community/Organization/Business/Product|product]]", "[[../../bio/Taxon_Rank/Taxon|taxon]]"   
 
-has_/child_classes:: "[[is_a_/Action|Action]]", "[[Class/is_a_/bio_chem_entity|bio_chem_entity]]", "[[../../Society/Communication/Media/Creative_Work|creative_work]]", "[[Class/is_a_/event|event]]", "[[Class/is_a_/Intangible|Intangible]]", "[[../../bio/Medicine/Medical_Entity|medical-entity]]", "[[../../Earth/Geography/Place|place]]", "[[../../Society/Agent/Community/Organization|organization]]", "[[../../Society/Agent/Person|person]]", "[[../../Society/Agent/Community/Organization/Business/Product|product]]", "[[../../bio/Taxon_Rank/Taxon|taxon]]" 
+has_/child_class :: "[[is_a_/Action|Action]]", "[[Class/is_a_/bio_chem_entity|bio_chem_entity]]", "[[../../Society/Communication/Media/Creative_Work|creative_work]]", "[[Class/is_a_/event|event]]", "[[Class/is_a_/Intangible|Intangible]]", "[[../../bio/Medicine/Medical_Entity|medical-entity]]", "[[../../Earth/Geography/Place|place]]", "[[../../Society/Agent/Community/Organization|organization]]", "[[../../Society/Agent/Person|person]]", "[[../../Society/Agent/Community/Organization/Business/Product|product]]", "[[../../bio/Taxon_Rank/Taxon|taxon]]" 
 
 #has_/properties :: [[../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]], [[../Property/has_name/has_name_alternate|has_name_alternate]], [[../Property/Texts/has_description|has_description]], [[../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]], [[../Relation/has/has_identifier|has_identifier]], [[../Relation/has/has_image|has_image]], [[../Relation/is/is_main_entity_of_page|is_main_entity_of_page]], [[../Property/has_name|has_name]], [[../Relation/has/has_potential_action|has_potential_action]], [[../Relation/is_same_as|is_same_as]], [[../Relation/is/is_subject_of|is_subject_of]], [[../Property/has_url_for/has_url|has_url]] 
 

@@ -52,7 +52,7 @@ Tag Instances like this:
 
 Boolean: True or False.
 
-has_child_classes = `=this.dv_has_child_classes` 
+has_child_class = `=this.dv_has_child_class` 
 
 ## Confidential Links & Embeds: 
 

@@ -47,7 +47,7 @@ dv_is_:
     - "[[/_personal/Earth/Geography/Place.personal|Place.personal]]"
     - "[[/_secret/Earth/Geography/Place.secret|Place.secret]]"
 dv_has_parent_class: "[[../../schema-org/Class/Thing|Thing]]"
-dv_has_child_classes:
+dv_has_child_class:
   - "[[Place/Accommodation]]"
   - "[[Place/Administrative_Area|Administrative_Area]]"
   - "[[Place/Civic_Structure|Civic_Structure]]"
@@ -134,7 +134,7 @@ Entities that have a somewhat fixed, physical extension.
 
 has_parent_class = `=this.dv_has_parent_class` 
 
-has_child_classes = `=this.dv_has_child_classes` ]
+has_child_class = `=this.dv_has_child_class` ]
 
 has_properties = `=this.dv_has_properties` ]
 

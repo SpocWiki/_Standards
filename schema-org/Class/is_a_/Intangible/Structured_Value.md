@@ -63,7 +63,7 @@ the value of a property has a **more complex** structure
 than simply being a textual value or a reference to another thing.
 
 has_parent_class = `=this.dv_has_parent_class` 
-has_child_classes = `=this.dv_has_child_classes` 
+has_child_class = `=this.dv_has_child_class` 
 has_properties = `=this.dv_has_properties` 
 
 ## Confidential Links & Embeds: 

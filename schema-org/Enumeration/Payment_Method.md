@@ -72,7 +72,7 @@ Commonly used values:
 
 has_parent_class = `=this.dv_has_parent_class` 
 
-has_child_classes = `=this.dv_has_child_classes` 
+has_child_class = `=this.dv_has_child_class` 
 
 ## Confidential Links & Embeds: 
 

@@ -60,7 +60,7 @@ A set of characteristics belonging to people, e.g. who compose an item's target 
 
 has_parent_class = `=this.dv_has_parent_class` 
 
-has_child_classes = `=this.dv_has_child_classes` 
+has_child_class = `=this.dv_has_child_class` 
 
 has_properties = `=this.dv_has_properties` 
 

@@ -78,7 +78,7 @@ while `schema:Activity` is used for broader, ongoing processes or events that ma
 
 _has_parent_class = `=this.dv__has_parent_class` 
 
-has_child_classes = `=this.dv_has_child_classes` 
+has_child_class = `=this.dv_has_child_class` 
 
 has_properties = `=this.dv_has_properties` 
 

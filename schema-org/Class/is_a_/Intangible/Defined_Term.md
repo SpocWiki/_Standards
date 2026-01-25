@@ -94,7 +94,7 @@ is_part_of = `=this.dv_is_part_of`
 
 has_parent_class = `=this.dv_has_parent_class` 
 
-has_child_classes = `=this.dv_has_child_classes` 
+has_child_class = `=this.dv_has_child_class` 
 
 has_properties = `=this.dv_has_properties` 
 

@@ -60,7 +60,7 @@ The act of expressing a preference from a set of options or a large or unbounded
 
 has_parent_class = `=this.dv_has_parent_class` 
 
-has_child_classes = `=this.dv_has_child_classes` 
+has_child_class = `=this.dv_has_child_class` 
 
 has_properties = `=this.dv_has_properties` 
 

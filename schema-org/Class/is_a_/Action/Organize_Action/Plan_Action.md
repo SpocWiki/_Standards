@@ -60,7 +60,7 @@ The act of planning the execution of an event/task/action/reservation/plan to a 
 
 has_parent_class = `=this.dv_has_parent_class` 
 
-has_child_classes = `=this.dv_has_child_classes` 
+has_child_class = `=this.dv_has_child_class` 
 
 has_properties = `=this.dv_has_properties` 
 

@@ -99,7 +99,7 @@ Usage guidelines:
 <li>Use '.' (Unicode 'FULL STOP' (U+002E)) rather than ',' to indicate a decimal point. Avoid using these symbols as a readability separator.</li>
 </ul>
 
-has_child_classes = `=this.dv_has_child_classes` 
+has_child_class = `=this.dv_has_child_class` 
 
 #is_/same_as :: [[../../../../WikiData/WD~Number,11563|WD~Number,11563]] 
 

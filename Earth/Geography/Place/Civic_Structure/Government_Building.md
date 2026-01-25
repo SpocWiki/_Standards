@@ -39,7 +39,7 @@ dv_is_:
     - "[[/_personal/Earth/Geography/Place/Civic_Structure/Government_Building.personal|Government_Building.personal]]"
     - "[[/_secret/Earth/Geography/Place/Civic_Structure/Government_Building.secret|Government_Building.secret]]"
 dv_has_parent_class: "[[../CivicStructure]]"
-dv_has_child_classes: "[ CityHall, Courthouse, DefenceEstablishment, Embassy, LegislativeBuilding ]"
+dv_has_child_class: "[ CityHall, Courthouse, DefenceEstablishment, Embassy, LegislativeBuilding ]"
 dv_has_properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
 dv_is_same_as:
   - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Government_Building|Government_Building]]"
@@ -60,7 +60,7 @@ A government building.
 
 has_parent_class = `=this.dv_has_parent_class`] ]
 
-has_child_classes = `=this.dv_has_child_classes` ]
+has_child_class = `=this.dv_has_child_class` ]
 
 has_properties = `=this.dv_has_properties` ]
 

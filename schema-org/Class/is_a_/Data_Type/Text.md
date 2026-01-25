@@ -62,7 +62,7 @@ but typically this is not necessary, because Text is treated as a Scalar/Struct 
 
 Data type: Text.
 
-has_child_classes = `=this.dv_has_child_classes` 
+has_child_class = `=this.dv_has_child_class` 
 
 ## Confidential Links & Embeds: 
 

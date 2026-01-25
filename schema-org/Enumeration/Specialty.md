@@ -56,7 +56,7 @@ Any branch of a field in which people typically develop specific expertise, usua
 
 has_parent_class = `=this.dv_has_parent_class` 
 
-has_child_classes = `=this.dv_has_child_classes` 
+has_child_class = `=this.dv_has_child_class` 
 
 ## Confidential Links & Embeds: 
 

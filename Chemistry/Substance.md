@@ -40,7 +40,7 @@ dv_has_:
   child_class: "[ DietarySupplement, Drug ]"
   properties: "[ activeIngredient, additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, maximumIntake, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ]"
 dv_has_parent_class: "[[../MedicalEntity]]"
-dv_has_child_classes: "[ DietarySupplement, Drug ]"
+dv_has_child_class: "[ DietarySupplement, Drug ]"
 dv_has_properties: "[ activeIngredient, additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, maximumIntake, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ]"
 dv_is_same_as:
   - "[[../WikiData/WD~Matter,35758|WD~Matter,35758]]"
@@ -65,7 +65,7 @@ whose origin may be biological, mineral or chemical.
 
 has_parent_class = `=this.dv_has_parent_class` 
 
-has_child_classes = `=this.dv_has_child_classes` 
+has_child_class = `=this.dv_has_child_class` 
 
 has_properties = `=this.dv_has_properties` 
 
