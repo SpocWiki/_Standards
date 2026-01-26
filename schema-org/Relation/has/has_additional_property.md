@@ -63,7 +63,7 @@ dv_is_same_as:
 
 # [[has_additional_property]] 
 
-#is_a :: [[../../../Relation|Relation]]
+#is_a :: [[../../Relation|Relation]]
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: [[is_additional_property_of]]  

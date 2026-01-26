@@ -8,7 +8,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,32 +16,69 @@ keywords:
   - bank
   - beneficiary_bank
   - beneficiaryBank
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_beneficiary_bank
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_beneficiary_bank
 type: Predi_Relation
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[has_beneficiary_bank]]"
+    - "[[/_public/schema-org/Relation/has/has_beneficiary_bank.public|has_beneficiary_bank.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_beneficiary_bank.internal|has_beneficiary_bank.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_beneficiary_bank.protect|has_beneficiary_bank.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_beneficiary_bank.private|has_beneficiary_bank.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_beneficiary_bank.personal|has_beneficiary_bank.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_beneficiary_bank.secret|has_beneficiary_bank.secret]]"
+dv_has_:
+  inverse: "[[is_beneficiary_bank_of]]"
+  domain: "[[../../Class/is_a_/Action/Transfer_Action/Money_Transfer|Money_Transfer]]"
+  name: has_beneficiary_bank
+  range:
+    - "[[../../../Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Bank_or_Credit_Union|Bank_or_Credit_Union]]"
+    - "[[../../Class/is_a_/Data_Type/Text|Text]]"
+dv_is_part_of: "pending:"
+dv_has_inverse: "[[is_beneficiary_bank_of]]"
+dv_has_domain: "[[../../Class/is_a_/Action/Transfer_Action/Money_Transfer|Money_Transfer]]"
+dv_has_name: has_beneficiary_bank
+dv_has_range:
+  - "[[../../../Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Bank_or_Credit_Union|Bank_or_Credit_Union]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
+dv_is_same_as:
+  - "[[has_beneficiary_bank]]"
+  - "[[/_public/schema-org/Relation/has/has_beneficiary_bank.public|has_beneficiary_bank.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_beneficiary_bank.internal|has_beneficiary_bank.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_beneficiary_bank.protect|has_beneficiary_bank.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_beneficiary_bank.private|has_beneficiary_bank.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_beneficiary_bank.personal|has_beneficiary_bank.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_beneficiary_bank.secret|has_beneficiary_bank.secret]]"
 ---
 
-#is_/part_of :: pending:  
+# [[has_beneficiary_bank]] 
+
+is_part_of = `=this.dv_is_part_of` 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
-- #has_/beneficiary_bank :: BankOrCreditUnion, Text  
-- [ has_beneficiary_bank :: BankOrCreditUnion, Text ] 
+- #has_/beneficiary_bank : : `=this.dv_has_range` 
+- has_beneficiary_bank : : `=this.dv_has_range` 
+- is_beneficiary_bank_of : : `=this.dv_has_domain` 
+- is_beneficiary_bank_of : : `=this.dv_has_domain` 
 
-A bank or bank�s branch, financial institution or international financial institution operating the beneficiary�s bank account or releasing funds for the beneficiary.
+A bank or bank branch, financial institution or international financial institution 
+operating the beneficiary's bank account or releasing funds for the beneficiary.
 
 Relation describes that: 
 
-#has_/domain  :: MoneyTransfer  
-
-(has_/name :: has_beneficiary_bank )
-(has_/range :: BankOrCreditUnion, Text )
+has_domain = `=this.dv_has_domain` 
+has_name = `=this.dv_has_name` 
+(has_/range :: [[../../../Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Bank_or_Credit_Union|Bank_or_Credit_Union]], [[../../Class/is_a_/Data_Type/Text|Text]] ) 
 
 
 ## Confidential Links & Embeds: 

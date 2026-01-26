@@ -23,11 +23,9 @@ tags:
 title: has_availability
 type: Predi_Relation
 dv_has_:
-  availability: ItemAvailability
-  domain: Demand, Offer
+  domain: ["[[../../../Society/Agent/Community/Organization/Business/Demand|Demand]]", "[[../../../Society/Agent/Community/Organization/Business/Offer|Offer]]"]
   name: has_availability
-  range: ItemAvailability
-dv_has_availability: ItemAvailability
+  range: "[[../../Enumeration/Item_Availability|Item_Availability]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_availability|has_availability]]"
@@ -37,9 +35,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_availability.private|has_availability.private]]"
     - "[[/_personal/schema-org/Relation/has/has_availability.personal|has_availability.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_availability.secret|has_availability.secret]]"
-dv_has_domain: Demand, Offer
+dv_has_domain: ["[[../../../Society/Agent/Community/Organization/Business/Demand|Demand]]", "[[../../../Society/Agent/Community/Organization/Business/Offer|Offer]]"]
 dv_has_name: has_availability
-dv_has_range: ItemAvailability
+dv_has_range:  "[[../../Enumeration/Item_Availability|Item_Availability]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_availability|has_availability]]"
   - "[[/_public/schema-org/Relation/has/has_availability.public|has_availability.public]]"
@@ -52,21 +50,22 @@ dv_is_same_as:
 
 # [[has_availability]] 
 
-#is_a :: [[../../../Relation|Relation]]
+#is_a :: [[../../Relation|Relation]]
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[is_availability_of]]
 
 Use it like this: 
-- #has_/availability = `=this.dv_has_availability`  
-- has_availability = `=this.dv_has_availability`  
+- #has_/availability : : `=this.dv_has_range` 
+- has_availability : : `=this.dv_has_range`  
+- is_availability_of : : `=this.dv_has_domain` 
+- #is_/availability_of : : `=this.dv_has_domain` 
 
-The availability of this item&amp;#x2014;for example In stock, Out of stock, Pre-order, etc.
+The availability of this item; for example In stock, Out of stock, Pre-order, etc.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

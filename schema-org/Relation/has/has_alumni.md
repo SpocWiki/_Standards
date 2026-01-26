@@ -26,7 +26,7 @@ type: Predi_Relation
 
 # [[has_alumni]] 
 
-#is_a :: [[../../../Relation|Relation]]
+#is_a :: [[../../Relation|Relation]]
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 

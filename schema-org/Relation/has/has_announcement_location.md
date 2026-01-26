@@ -28,7 +28,7 @@ type: Predi_Relation
 
 # [[has_announcement_location]] 
 
-#is_a :: [[../../../Relation|Relation]]
+#is_a :: [[../../Relation|Relation]]
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 

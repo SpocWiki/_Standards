@@ -23,11 +23,10 @@ tags:
 title: has_broadcaster
 type: Predi_Relation
 dv_has_:
-  broadcaster: Organization
-  domain: BroadcastService
+  domain: "[[../../../Society/Agent/Community/Organization/Business/Service/Broadcast_Service|Broadcast_Service]]"
   name: has_broadcaster
-  range: Organization
-dv_has_broadcaster: Organization
+  range: "[[../../../Society/Agent/Community/Organization|Organization]]"
+  inverse: "[[is_broadcaster_of]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_broadcaster|has_broadcaster]]"
@@ -37,22 +36,30 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_broadcaster.private|has_broadcaster.private]]"
     - "[[/_personal/schema-org/Relation/has/has_broadcaster.personal|has_broadcaster.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_broadcaster.secret|has_broadcaster.secret]]"
-dv_has_domain: BroadcastService
+    - "[[has_broadcaster]]"
+dv_has_domain: "[[../../../Society/Agent/Community/Organization/Business/Service/Broadcast_Service|Broadcast_Service]]"
 dv_has_name: has_broadcaster
-dv_has_range: Organization
+dv_has_range: "[[../../../Society/Agent/Community/Organization|Organization]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_broadcaster|has_broadcaster]]"
+  - "[[has_broadcaster]]"
   - "[[/_public/schema-org/Relation/has/has_broadcaster.public|has_broadcaster.public]]"
   - "[[/_internal/schema-org/Relation/has/has_broadcaster.internal|has_broadcaster.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_broadcaster.protect|has_broadcaster.protect]]"
   - "[[/_private/schema-org/Relation/has/has_broadcaster.private|has_broadcaster.private]]"
   - "[[/_personal/schema-org/Relation/has/has_broadcaster.personal|has_broadcaster.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_broadcaster.secret|has_broadcaster.secret]]"
+dv_has_inverse: "[[is_broadcaster_of]]"
 ---
 
+# [[has_broadcaster]] 
+
+has_inverse = `=this.dv_has_inverse` 
+
 Use it like this: 
-- #has_/broadcaster = `=this.dv_has_broadcaster`  
-- has_broadcaster = `=this.dv_has_broadcaster`  
+- #has_/broadcaster : : `=this.dv_has_range` 
+- has_broadcaster : : `=this.dv_has_range` 
+- is_broadcaster_of : : `=this.dv_has_domain` 
+- #is_/broadcaster_of : : `=this.dv_has_domain` 
 
 The organization owning or operating the broadcast service.
 

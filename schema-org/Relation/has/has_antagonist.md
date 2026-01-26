@@ -23,11 +23,9 @@ tags:
 title: has_antagonist
 type: Predi_Relation
 dv_has_:
-  antagonist: Muscle
-  domain: Muscle
+  domain: "[[../../../bio/Medicine/Anatomy/Skeleton/Muscle|Muscle]]"
   name: has_antagonist
-  range: Muscle
-dv_has_antagonist: Muscle
+  range: "[[../../../bio/Medicine/Anatomy/Skeleton/Muscle|Muscle]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_antagonist|has_antagonist]]"
@@ -37,9 +35,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_antagonist.private|has_antagonist.private]]"
     - "[[/_personal/schema-org/Relation/has/has_antagonist.personal|has_antagonist.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_antagonist.secret|has_antagonist.secret]]"
-dv_has_domain: Muscle
+dv_has_domain: "[[../../../bio/Medicine/Anatomy/Skeleton/Muscle|Muscle]]"
 dv_has_name: has_antagonist
-dv_has_range: Muscle
+dv_has_range: "[[../../../bio/Medicine/Anatomy/Skeleton/Muscle|Muscle]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_antagonist|has_antagonist]]"
   - "[[/_public/schema-org/Relation/has/has_antagonist.public|has_antagonist.public]]"
@@ -52,21 +50,20 @@ dv_is_same_as:
 
 # [[has_antagonist]] 
 
-#is_a :: [[../../../Relation|Relation]]
+#is_a :: [[../../Relation|Relation]]
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[has_antagonist]]
 
 Use it like this: 
-- #has_/antagonist = `=this.dv_has_antagonist`  
-- has_antagonist = `=this.dv_has_antagonist`  
+- #has_/antagonist = `=this.dv_has_domain`
+- has_antagonist = `=this.dv_has_range` 
 
-The muscle whose action counteracts the specified muscle.
+The (Object-) muscle whose action counteracts the specified (Subject-) muscle.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

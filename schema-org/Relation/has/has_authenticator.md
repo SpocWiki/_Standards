@@ -23,11 +23,9 @@ tags:
 title: has_authenticator
 type: Predi_Relation
 dv_has_:
-  authenticator: Organization
-  domain: MediaSubscription
+  domain: "[[../../Class/is_a_/Intangible/Media_Subscription|Media_Subscription]]"
   name: has_authenticator
-  range: Organization
-dv_has_authenticator: Organization
+  range: "[[../../../Society/Agent/Community/Organization|Organization]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_authenticator|has_authenticator]]"
@@ -37,9 +35,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_authenticator.private|has_authenticator.private]]"
     - "[[/_personal/schema-org/Relation/has/has_authenticator.personal|has_authenticator.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_authenticator.secret|has_authenticator.secret]]"
-dv_has_domain: MediaSubscription
+dv_has_domain: "[[../../Class/is_a_/Intangible/Media_Subscription|Media_Subscription]]"
 dv_has_name: has_authenticator
-dv_has_range: Organization
+dv_has_range: "[[../../../Society/Agent/Community/Organization|Organization]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_authenticator|has_authenticator]]"
   - "[[/_public/schema-org/Relation/has/has_authenticator.public|has_authenticator.public]]"
@@ -52,23 +50,24 @@ dv_is_same_as:
 
 # [[has_authenticator]] 
 
-#is_a :: [[../../../Relation|Relation]]
+#is_a :: [[../../Relation|Relation]]
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[is_authenticator_for]]
 
 Use it like this: 
-- #has_/authenticator = `=this.dv_has_authenticator`  
-- has_authenticator = `=this.dv_has_authenticator`  
+- #has_/authenticator : : `=this.dv_has_range` 
+- has_authenticator : : `=this.dv_has_range` 
+- is_authenticator_for : : `=this.dv_has_domain` 
+- #is_/authenticator_for : : `=this.dv_has_domain` 
 
 The Organization responsible for authenticating the user's subscription.
-For example, many media apps require a cable/satellite provider to authenticate your subscription
-before playing media.
+For example, many media apps require 
+a cable/satellite provider to authenticate your subscription before playing media.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

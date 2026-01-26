@@ -25,25 +25,23 @@ tags:
 title: has_associated_article
 type: Predi_Relation
 dv_has_:
-  associated_article: NewsArticle
-  domain: MediaObject
+  domain: "[[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|MediaObject]]"
   name: has_associated_article
-  range: NewsArticle
-dv_has_associated_article: NewsArticle
+  range: "[[../../../../Society/Communication/Media/Creative_Work/Article/News_Article|News_Article]]"
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_associated_article|has_associated_article]]"
+    - "[[has_associated_article|has_associated_article]]"
     - "[[/_public/schema-org/Relation/has/has_associated_article.public|has_associated_article.public]]"
     - "[[/_internal/schema-org/Relation/has/has_associated_article.internal|has_associated_article.internal]]"
     - "[[/_protect/schema-org/Relation/has/has_associated_article.protect|has_associated_article.protect]]"
     - "[[/_private/schema-org/Relation/has/has_associated_article.private|has_associated_article.private]]"
     - "[[/_personal/schema-org/Relation/has/has_associated_article.personal|has_associated_article.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_associated_article.secret|has_associated_article.secret]]"
-dv_has_domain: MediaObject
+dv_has_domain: "[[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|MediaObject]]"
 dv_has_name: has_associated_article
-dv_has_range: NewsArticle
+dv_has_range: "[[../../../../Society/Communication/Media/Creative_Work/Article/News_Article|News_Article]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_associated_article|has_associated_article]]"
+  - "[[has_associated_article|has_associated_article]]"
   - "[[/_public/schema-org/Relation/has/has_associated_article.public|has_associated_article.public]]"
   - "[[/_internal/schema-org/Relation/has/has_associated_article.internal|has_associated_article.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_associated_article.protect|has_associated_article.protect]]"
@@ -57,25 +55,26 @@ dv_is_same_as:
 #is_a :: [[../../../Relation|Relation]]
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[is_associated_article_of]]
 
 Use it like this: 
-- #has_/associated_article = `=this.dv_has_associated_article`  
-- has_associated_article = `=this.dv_has_associated_article`  
+- #has_/associated_/article : : `=this.dv_has_range`  
+- has_associated_article : : `=this.dv_has_range`  
+- is_associated_article_of : : `=this.dv_has_domain`  
+- #is_/associated_/article_of : : `=this.dv_has_domain`  
 
 A NewsArticle associated with the Media Object.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_associated_article|has_associated_article]] 
+### #is_/same_as :: [[has_associated_article|has_associated_article]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_associated_article.public|has_associated_article.public]] 
 

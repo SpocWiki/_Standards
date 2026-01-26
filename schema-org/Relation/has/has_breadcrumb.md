@@ -23,11 +23,9 @@ tags:
 title: has_breadcrumb
 type: Predi_Relation
 dv_has_:
-  breadcrumb: BreadcrumbList, Text
-  domain: WebPage
+  domain: "[[../../../Society/Communication/Media/Creative_Work/Web_Content/Web_Page|Web_Page]]"
   name: has_breadcrumb
-  range: BreadcrumbList, Text
-dv_has_breadcrumb: BreadcrumbList, Text
+  range: ["[[../../Collection/item_list/breadcrumb_list|breadcrumb_list]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_breadcrumb|has_breadcrumb]]"
@@ -37,9 +35,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_breadcrumb.private|has_breadcrumb.private]]"
     - "[[/_personal/schema-org/Relation/has/has_breadcrumb.personal|has_breadcrumb.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_breadcrumb.secret|has_breadcrumb.secret]]"
-dv_has_domain: WebPage
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Web_Content/Web_Page|Web_Page]]"
 dv_has_name: has_breadcrumb
-dv_has_range: BreadcrumbList, Text
+dv_has_range: ["[[../../Collection/item_list/breadcrumb_list|breadcrumb_list]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_breadcrumb|has_breadcrumb]]"
   - "[[/_public/schema-org/Relation/has/has_breadcrumb.public|has_breadcrumb.public]]"
@@ -50,19 +48,23 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_breadcrumb.secret|has_breadcrumb.secret]]"
 ---
 
+# [[has_breadcrumb]] 
+
+#has_/inverse :: [[is_breadcrumb_of]]
+
 Use it like this: 
-- #has_/breadcrumb = `=this.dv_has_breadcrumb`  
-- has_breadcrumb = `=this.dv_has_breadcrumb`  
+- #has_/breadcrumb : : `=this.dv_has_range` 
+- has_breadcrumb : : `=this.dv_has_range` 
+- is_breadcrumb_of : : `=this.dv_has_domain` 
+- #is_/breadcrumb_of : : `=this.dv_has_domain` 
 
 A set of links that can help a user understand and navigate a website hierarchy.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
-
 
 ## Confidential Links & Embeds: 
 

@@ -7,11 +7,9 @@ aliases:
   - inhibits
 dv_has_:
   inverse: "[[has_result_positive]]"
-  Cons: "[[../../../Collection|Collection]]"
-  domain: "[[../../../Class|Class]]"
+  domain: "[[../../../Class/Thing|Thing]]"
   name: "[[has_result_negative]]"
-  range: "[[../../../Collection|Collection]]"
-dv_has_result_negative: "[[../../../Collection|Collection]]"
+  range: "[[../../../Class/Thing|Thing]]"
 dv_is_:
   same_as:
     - "[[./has_result_negative|has_result_negative]]"
@@ -21,9 +19,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_result_negative.private|has_result_negative.private]]"
     - "[[/_personal/schema-org/Relation/has/has_result_negative.personal|has_result_negative.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_result_negative.secret|has_result_negative.secret]]"
-dv_has_domain: "[[../../../Class|Class]]"
+dv_has_domain: "[[../../../Class/is_a_/Action|Action]]"
 dv_has_name: "[[has_result_negative]]"
-dv_has_range: "[[../../../Collection|Collection]]"
+dv_has_range: "[[../../../Class/Thing|Thing]]"
 dv_has_complement: "[[has_result_positive]]"
 dv_is_same_as:
   - "[[./has_result_negative|has_result_negative]]"
@@ -66,11 +64,17 @@ type: private_note
 
 # [[has_result_negative]] 
 
-has_complement = `=this.dv_has_complement` 
-#has_/inverse  ::  
+has_complement : : `=this.dv_has_complement` 
+#has_/inverse  :: [[is_result_negative_due_to]] 
 
 Enumerates negative, inhibiting Reasons for this Statement. 
 Plural Form chosen to indicate the [[../../../Collection|Collection]]-Nature. 
+
+Use it like this: 
+- #has_/result_negative : : `=this.dv_has_range` 
+- has_result_negative : : `=this.dv_has_range` 
+- is_result_negative_due_to : : `=this.dv_has_domain`  
+- #is_/result_/negative_due_to : : `=this.dv_has_domain`  
 
 The Name is derived from the [[../../../../../Knowledge/Languages/Natural~Languages/Latin|Latin]] word 'contra'. 
 

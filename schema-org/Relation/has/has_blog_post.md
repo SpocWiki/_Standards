@@ -28,11 +28,9 @@ tags:
 title: has_blog_post
 type: Predi_Relation
 dv_has_:
-  blog_post: BlogPosting
-  domain: Blog
+  domain: "[[../../../Society/Communication/Media/Creative_Work/Blog|Blog]]"
   name: has_blog_post
-  range: BlogPosting
-dv_has_blog_post: BlogPosting
+  range: "[[../../../Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting|Blog_Posting]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_blog_post|has_blog_post]]"
@@ -42,9 +40,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_blog_post.private|has_blog_post.private]]"
     - "[[/_personal/schema-org/Relation/has/has_blog_post.personal|has_blog_post.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_blog_post.secret|has_blog_post.secret]]"
-dv_has_domain: Blog
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Blog|Blog]]"
 dv_has_name: has_blog_post
-dv_has_range: BlogPosting
+dv_has_range: "[[../../../Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting|Blog_Posting]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_blog_post|has_blog_post]]"
   - "[[/_public/schema-org/Relation/has/has_blog_post.public|has_blog_post.public]]"
@@ -55,16 +53,21 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_blog_post.secret|has_blog_post.secret]]"
 ---
 
+# [[has_blog_post]] 
+
+#has_/inverse :: [[is_blog_post_of]] 
+
 Use it like this: 
-- #has_/blog_post = `=this.dv_has_blog_post`  
-- has_blog_post = `=this.dv_has_blog_post`  
+- #has_/blog_post : : `=this.dv_has_range` 
+- has_blog_post : : `=this.dv_has_range` 
+- is_blog_post_of : : `=this.dv_has_domain` 
+- #is_/blog_post_of : : `=this.dv_has_domain` 
 
 A posting that is part of this blog.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

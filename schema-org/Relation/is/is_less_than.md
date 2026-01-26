@@ -29,22 +29,20 @@ type: Predi_Relation
 
 # [[is_less_than]] 
 
+#has_/complement :: [[is_greater_or_equal_to]] 
+#has_/inverse :: [[is_greater_than]] 
+
 Use it like this: 
-- #is_/less_than :: QualitativeValue  
-- is_/less_than :: QualitativeValue  
+- #is_/less_than : : QualitativeValue  
+- is_/less_than : : QualitativeValue  
 
 This ordering relation for qualitative values indicates that the subject is less than the object.
 
 Relation describes that: 
 
-#has_/domain  :: QualitativeValue  
-
+#has_/domain  :: [[../../Enumeration/Qualitative_Value|Qualitative_Value]]  
 (has_/name :: is_less_than )
-(has_/range :: QualitativeValue )
-
-#has_/complement :: [[is_greater_or_equal_to]] 
-
-#has_/inverse :: [[is_greater_than]] 
+(has_/range :: [[../../Enumeration/Qualitative_Value|Qualitative_Value]]  )
 
 ## Confidential Links & Embeds: 
 

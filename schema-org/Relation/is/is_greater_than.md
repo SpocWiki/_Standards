@@ -5,6 +5,8 @@ aliases:
   - greater
   - is_greater_than
   - is greater than
+  - is more than
+  - more 
 confidential: public
 cssclasses:
   - Predicate

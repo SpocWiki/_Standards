@@ -52,7 +52,7 @@ dv_is_same_as:
 
 # [[has_address_country]] 
 
-#is_a :: [[../../../Relation|Relation]] 
+#is_a :: [[../../Relation|Relation]] 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: [[is_address_country_of]] 

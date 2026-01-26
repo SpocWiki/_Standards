@@ -6,6 +6,10 @@ aliases:
   - has related
   - is_related_to
   - is related to
+  - skos:related 
+  - dcterms:relation 
+  - schema:relatedTo
+  - sioc:related_to 
 confidential: public
 cssclasses:
   - Predicate
@@ -29,11 +33,9 @@ tags:
 title: has_related
 type: Predi_Relation
 dv_has_:
-  related_to: Person
   domain: Person
   name: has_related
   range: Person
-dv_has_related: Person
 dv_is_:
   same_as:
     - "[[has_related|has_related]]"
@@ -43,9 +45,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_related.private|has_related.private]]"
     - "[[/_personal/schema-org/Relation/has/has_related.personal|has_related.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_related.secret|has_related.secret]]"
-dv_has_domain: Person
+dv_has_domain: "[[../../../Society/Agent/Person|Person]]"
 dv_has_name: has_related
-dv_has_range: Person
+dv_has_range: "[[../../../Society/Agent/Person|Person]]"
 dv_is_same_as:
   - "[[has_related|has_related]]"
   - "[[/_public/schema-org/Relation/has/has_related.public|has_related.public]]"
@@ -56,18 +58,27 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_related.secret|has_related.secret]]"
 ---
 
-Use it like this: 
-- #has_/related_to = `=this.dv_has_related`  
-- has_related = `=this.dv_has_related`  
+# [[has_related]] 
+
+#is_/less_than : : [[has_associated]] 
+#has_/inverse : : [[has_related]] 
 
 The most generic familial relation.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
+
+The Subject-Entity has a **contextual, indirect, or secondary** relation to the Object. 
+Search engines, knowledge graphs, and inference engines treat 
+- `associated` as **indexing-grade**, while 
+- `related` is **context-grade**.
+
+Use it like this: 
+- #has_/related = `=this.dv_has_range`  
+- has_related = `=this.dv_has_range`  
 
 
 ## Confidential Links & Embeds: 

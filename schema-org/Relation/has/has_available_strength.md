@@ -25,11 +25,9 @@ tags:
 title: has_available_strength
 type: Predi_Relation
 dv_has_:
-  available_strength: DrugStrength
-  domain: Drug
+  domain: "[[../../../bio/Medicine/Drug|Drug]]"
   name: has_available_strength
-  range: DrugStrength
-dv_has_available_strength: DrugStrength
+  range: "[[../../../bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Strength|Drug_Strength]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_available_strength|has_available_strength]]"
@@ -39,9 +37,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_available_strength.private|has_available_strength.private]]"
     - "[[/_personal/schema-org/Relation/has/has_available_strength.personal|has_available_strength.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_available_strength.secret|has_available_strength.secret]]"
-dv_has_domain: Drug
+dv_has_domain: "[[../../../bio/Medicine/Drug|Drug]]"
 dv_has_name: has_available_strength
-dv_has_range: DrugStrength
+dv_has_range: "[[../../../bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Strength|Drug_Strength]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_available_strength|has_available_strength]]"
   - "[[/_public/schema-org/Relation/has/has_available_strength.public|has_available_strength.public]]"
@@ -54,21 +52,22 @@ dv_is_same_as:
 
 # [[has_available_strength]] 
 
-#is_a :: [[../../../Relation|Relation]]
+#is_a :: [[../../Relation|Relation]]
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[is_strength_of]]
 
 Use it like this: 
-- #has_/available_strength = `=this.dv_has_available_strength`  
-- has_available_strength = `=this.dv_has_available_strength`  
+- #has_/available_strength : : `=this.dv_has_range` 
+- has_available_strength : : `=this.dv_has_range` 
+- is_strength_of : : `=this.dv_has_domain` 
+- #is_/strength_of : : `=this.dv_has_domain` 
 
 An available dosage strength for the drug.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

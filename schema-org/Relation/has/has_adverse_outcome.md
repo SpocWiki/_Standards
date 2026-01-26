@@ -25,11 +25,9 @@ tags:
 title: has_adverse_outcome
 type: Predi_Relation
 dv_has_:
-  adverse_outcome: "[[../../../bio/Medicine/Medical_Entity|Medical_Entity]]"
   domain: ["[[../../../bio/Medicine/Medical_Entity/Medical_Device|Medical_Device]]", "[[../../../bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure|Therapeutic_Procedure]]"]
   name: has_adverse_outcome
   range: "[[../../../bio/Medicine/Medical_Entity|Medical_Entity]]"
-dv_has_adverse_outcome: "[[../../../bio/Medicine/Medical_Entity|Medical_Entity]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_adverse_outcome|has_adverse_outcome]]"
@@ -61,8 +59,10 @@ dv_is_same_as:
 #is_/similar_to :: [[has_result/has_result_negative|has_result_negative]] 
 
 Use it like this: 
-- #has_/adverse_outcome = `=this.dv_has_adverse_outcome`  
-- has_adverse_outcome = `=this.dv_has_adverse_outcome`  
+- #has_/adverse_outcome : : `=this.dv_has_range` 
+- has_adverse_outcome : : `=this.dv_has_range` 
+- is_adverse_outcome_of : : `=this.dv_has_domain`  
+- #is_/adverse_outcome_of : : `=this.dv_has_domain`  
 
 A possible complication and/or side effect of this therapy.
 If it is known that an adverse outcome is serious 

@@ -23,11 +23,13 @@ tags:
 title: has_artist
 type: Predi_Relation
 dv_has_:
-  artist: "[[../../../Society/Agent/Person]]"
-  domain: ComicIssue, ComicStory, VisualArtwork
+  domain:
+    - "[[../../../Society/Communication/Media/Creative_Work/Publication_Issue/Comic_Issue|Comic_Issue]]"
+    - "[[../../../Society/Communication/Media/Creative_Work/Comic_Story|Comic_Story]]"
+    - "[[../../../Society/Communication/Media/Creative_Work/Visual_Artwork|Visual_Artwork]]"
   name: has_artist
   range: "[[../../../Society/Agent/Person]]"
-dv_has_artist: "[[../../../Society/Agent/Person]]"
+  inverse: "[[is_artist_of]]"
 dv_is_:
   part_of: https://bib.schema.org
   same_as:
@@ -38,41 +40,48 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_artist.private|has_artist.private]]"
     - "[[/_personal/schema-org/Relation/has/has_artist.personal|has_artist.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_artist.secret|has_artist.secret]]"
+    - "[[has_artist]]"
 dv_is_part_of: https://bib.schema.org
-dv_has_domain: ComicIssue, ComicStory, VisualArtwork
+dv_has_domain:
+  - "[[../../../Society/Communication/Media/Creative_Work/Publication_Issue/Comic_Issue|Comic_Issue]]"
+  - "[[../../../Society/Communication/Media/Creative_Work/Comic_Story|Comic_Story]]"
+  - "[[../../../Society/Communication/Media/Creative_Work/Visual_Artwork|Visual_Artwork]]"
 dv_has_name: has_artist
 dv_has_range: "[[../../../Society/Agent/Person]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_artist|has_artist]]"
+  - "[[has_artist]]"
   - "[[/_public/schema-org/Relation/has/has_artist.public|has_artist.public]]"
   - "[[/_internal/schema-org/Relation/has/has_artist.internal|has_artist.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_artist.protect|has_artist.protect]]"
   - "[[/_private/schema-org/Relation/has/has_artist.private|has_artist.private]]"
   - "[[/_personal/schema-org/Relation/has/has_artist.personal|has_artist.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_artist.secret|has_artist.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_artist_of]]"
 ---
 
 # [[has_artist]] 
 
-#is_a :: [[../../../Relation|Relation]]
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+has_inverse = `=this.dv_has_inverse` 
 
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/artist = `=this.dv_has_artist` ] ] 
-- has_artist = `=this.dv_has_artist` ] ] 
+- #has_/artist : : `=this.dv_has_range` 
+- has_artist : : `=this.dv_has_range` 
+- is_artist_of : : `=this.dv_has_domain`  
+- #is_/artist_of : : `=this.dv_has_domain`  
 
-The primary artist for a work
-		in a medium other than pencils or digital line art--for example, if the
-		primary artwork is done in watercolors or digital paints.
+The primary artist/creator for a work
+in a medium other than pencils or digital line art--for example, 
+if the primary artwork is done in watercolors or digital paints.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

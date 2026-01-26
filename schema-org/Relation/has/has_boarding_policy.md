@@ -27,11 +27,9 @@ tags:
 title: has_boarding_policy
 type: Predi_Relation
 dv_has_:
-  boarding_policy: BoardingPolicyType
-  domain: Airline, Flight
+  domain: ["[[../../../Society/Agent/Community/Organization/Airline|Airline]]", "[[../../Class/is_a_/Intangible/Trip/Flight|Flight]]"]
   name: has_boarding_policy
-  range: BoardingPolicyType
-dv_has_boarding_policy: BoardingPolicyType
+  range: "[[../../Enumeration/Boarding_Policy_Type|Boarding_Policy_Type]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_boarding_policy|has_boarding_policy]]"
@@ -41,9 +39,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_boarding_policy.private|has_boarding_policy.private]]"
     - "[[/_personal/schema-org/Relation/has/has_boarding_policy.personal|has_boarding_policy.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_boarding_policy.secret|has_boarding_policy.secret]]"
-dv_has_domain: Airline, Flight
+dv_has_domain: ["[[../../../Society/Agent/Community/Organization/Airline|Airline]]", "[[../../Class/is_a_/Intangible/Trip/Flight|Flight]]"]
 dv_has_name: has_boarding_policy
-dv_has_range: BoardingPolicyType
+dv_has_range: "[[../../Enumeration/Boarding_Policy_Type|Boarding_Policy_Type]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_boarding_policy|has_boarding_policy]]"
   - "[[/_public/schema-org/Relation/has/has_boarding_policy.public|has_boarding_policy.public]]"
@@ -54,16 +52,21 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_boarding_policy.secret|has_boarding_policy.secret]]"
 ---
 
+# [[has_boarding_policy]] 
+
+#has_/inverse :: [[is_boarding_policy_of]] 
+
 Use it like this: 
-- #has_/boarding_policy = `=this.dv_has_boarding_policy`  
-- has_boarding_policy = `=this.dv_has_boarding_policy`  
+- #has_/boarding_policy : : `=this.dv_has_range`   
+- has_boarding_policy : : `=this.dv_has_range`
+- is_boarding_policy_of : : `=this.dv_has_domain` 
+- #is_/boarding_policy_of : : `=this.dv_has_domain` 
 
 The type of boarding policy used by the airline (e.g. zone-based or group-based).
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

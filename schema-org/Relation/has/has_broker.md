@@ -24,11 +24,9 @@ tags:
 title: has_broker
 type: Predi_Relation
 dv_has_:
-  broker: Organization, Person
-  domain: Invoice, Order, Reservation, Service
+  domain: [Invoice, Order, "[[../../Class/is_a_/Intangible/Reservation|Reservation]]", "[[../../../Society/Agent/Community/Organization/Business/Service|Service]]"]
   name: has_broker
-  range: Organization, Person
-dv_has_broker: Organization, Person
+  range: ["[[../../../Society/Agent/Community/Organization|Organization]]", "[[../../../Society/Agent/Person|Person]]"]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_broker|has_broker]]"
@@ -51,9 +49,14 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_broker.secret|has_broker.secret]]"
 ---
 
+# [[has_broker]] 
+
+#has_/inverse :: [[is_broker_of]] 
+
 Use it like this: 
-- #has_/broker = `=this.dv_has_broker`  
-- has_broker = `=this.dv_has_broker`  
+- #has_/broker : : `=this.dv_has_broker`  
+- has_broker : : `=this.dv_has_broker`  
+- is_broker_of : :
 
 An entity that arranges for an exchange between a buyer and a seller.  
 
@@ -66,7 +69,6 @@ This `supersedes` the Term `bookingAgent`.
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

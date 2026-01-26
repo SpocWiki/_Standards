@@ -53,7 +53,7 @@ dv_is_same_as:
 
 # [[has_aircraft]] 
 
-#is_a :: [[../../../Relation|Relation]]
+#is_a :: [[../../Relation|Relation]]
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 

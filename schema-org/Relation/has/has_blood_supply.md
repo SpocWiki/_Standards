@@ -27,11 +27,9 @@ tags:
 title: has_blood_supply
 type: Predi_Relation
 dv_has_:
-  blood_supply: Vessel
-  domain: Muscle
+  domain: "[[../../../bio/Medicine/Anatomy/Skeleton/Muscle|Muscle]]"
   name: has_blood_supply
-  range: Vessel
-dv_has_blood_supply: Vessel
+  range: "[[../../../bio/Medicine/Anatomy/Circulatory_System/Vessel|Vessel]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_blood_supply|has_blood_supply]]"
@@ -41,9 +39,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_blood_supply.private|has_blood_supply.private]]"
     - "[[/_personal/schema-org/Relation/has/has_blood_supply.personal|has_blood_supply.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_blood_supply.secret|has_blood_supply.secret]]"
-dv_has_domain: Muscle
+dv_has_domain: "[[../../../bio/Medicine/Anatomy/Skeleton/Muscle|Muscle]]"
 dv_has_name: has_blood_supply
-dv_has_range: Vessel
+dv_has_range: "[[../../../bio/Medicine/Anatomy/Circulatory_System/Vessel|Vessel]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_blood_supply|has_blood_supply]]"
   - "[[/_public/schema-org/Relation/has/has_blood_supply.public|has_blood_supply.public]]"
@@ -54,16 +52,21 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_blood_supply.secret|has_blood_supply.secret]]"
 ---
 
+# [[has_blood_supply]] 
+
+#has_/inverse :: [[is_blood_supply_of]] 
+
 Use it like this: 
-- #has_/blood_supply = `=this.dv_has_blood_supply`  
-- has_blood_supply = `=this.dv_has_blood_supply`  
+- #has_/blood_supply : : `=this.dv_has_range` 
+- has_blood_supply : : `=this.dv_has_range` 
+- is_blood_supply_of : : `=this.dv_has_domain` 
+- #is_/blood_supply_of : : `=this.dv_has_domain` 
 
 The blood vessel that carries blood from the heart to the muscle.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 
