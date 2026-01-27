@@ -34,7 +34,7 @@ Use it like this:
 - #has_/sports_team :: SportsTeam  
 - [ has_sports_team :: SportsTeam ] 
 
-A sub property of[[has_participants]]]. The sports team that participated on this action.
+A sub property of[[../has_participant]]]. The sports team that participated on this action.
 
 Relation describes that: 
 
@@ -47,7 +47,7 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_participants/has_sports_team|has_sports_team]] 
+### #is_/same_as :: [[has_sports_team|has_sports_team]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_participants/has_sports_team.public|has_sports_team.public]] 
 

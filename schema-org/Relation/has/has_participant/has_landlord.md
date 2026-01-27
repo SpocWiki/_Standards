@@ -41,7 +41,7 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_participants/has_landlord|has_landlord]] 
+### #is_/same_as :: [[has_landlord|has_landlord]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_participants/has_landlord.public|has_landlord.public]] 
 

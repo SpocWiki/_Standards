@@ -45,7 +45,7 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_participants/has_loser|has_loser]] 
+### #is_/same_as :: [[has_loser|has_loser]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_participants/has_loser.public|has_loser.public]] 
 

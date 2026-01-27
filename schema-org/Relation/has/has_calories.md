@@ -23,11 +23,9 @@ tags:
 title: has_calories
 type: Predi_Relation
 dv_has_:
-  calories: Energy
-  domain: NutritionInformation
+  domain: "[[../../Class/is_a_/Intangible/Structured_Value/Nutrition_Information|Nutrition_Information]]"
   name: has_calories
-  range: Energy
-dv_has_calories: Energy
+  range: "[[../../../Dimension/Energy|Energy]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_calories|has_calories]]"
@@ -37,9 +35,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_calories.private|has_calories.private]]"
     - "[[/_personal/schema-org/Relation/has/has_calories.personal|has_calories.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_calories.secret|has_calories.secret]]"
-dv_has_domain: NutritionInformation
+dv_has_domain: "[[../../Class/is_a_/Intangible/Structured_Value/Nutrition_Information|Nutrition_Information]]"
 dv_has_name: has_calories
-dv_has_range: Energy
+dv_has_range: "[[../../../Dimension/Energy|Energy]]" 
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_calories|has_calories]]"
   - "[[/_public/schema-org/Relation/has/has_calories.public|has_calories.public]]"
@@ -50,16 +48,19 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_calories.secret|has_calories.secret]]"
 ---
 
+# [[has_calories]] 
+
 Use it like this: 
-- #has_/calories = `=this.dv_has_calories`  
-- has_calories = `=this.dv_has_calories`  
+- #has_/calories : : `=this.dv_has_range`  
+- has_calories : :  `=this.dv_has_range`  
+- is_calories_of : : `=this.dv_has_domain`  
+- #is_/calories_of : : `=this.dv_has_domain`  
 
 The number of calories.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

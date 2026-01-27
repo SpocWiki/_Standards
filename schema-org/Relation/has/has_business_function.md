@@ -15,6 +15,7 @@ keywords:
   - business
   - function
   - business_function
+  - business function
   - businessFunction
 layout: ""
 license: CC BY-SA 4.0
@@ -27,11 +28,13 @@ tags:
 title: has_business_function
 type: Predi_Relation
 dv_has_:
-  business_function: BusinessFunction
-  domain: Demand, Offer, TypeAndQuantityNode
+  domain:
+    - "[[../../../Society/Agent/Community/Organization/Business/Demand|Demand]]"
+    - "[[../../../Society/Agent/Community/Organization/Business/Offer|Offer]]"
+    - "[[../../Class/is_a_/Intangible/Structured_Value/Type_and_Quantity_Node|Type_and_Quantity_Node]]"
   name: has_business_function
-  range: BusinessFunction
-dv_has_business_function: BusinessFunction
+  range: "[[../../Enumeration/Business_Function|Business_Function]]"
+  inverse: "[[is_business_function_of]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_business_function|has_business_function]]"
@@ -41,31 +44,43 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_business_function.private|has_business_function.private]]"
     - "[[/_personal/schema-org/Relation/has/has_business_function.personal|has_business_function.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_business_function.secret|has_business_function.secret]]"
-dv_has_domain: Demand, Offer, TypeAndQuantityNode
+    - "[[has_business_function]]"
+dv_has_domain:
+  - "[[../../../Society/Agent/Community/Organization/Business/Demand|Demand]]"
+  - "[[../../../Society/Agent/Community/Organization/Business/Offer|Offer]]"
+  - "[[../../Class/is_a_/Intangible/Structured_Value/Type_and_Quantity_Node|Type_and_Quantity_Node]]"
 dv_has_name: has_business_function
-dv_has_range: BusinessFunction
+dv_has_range: "[[../../Enumeration/Business_Function|Business_Function]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_business_function|has_business_function]]"
+  - "[[has_business_function]]"
   - "[[/_public/schema-org/Relation/has/has_business_function.public|has_business_function.public]]"
   - "[[/_internal/schema-org/Relation/has/has_business_function.internal|has_business_function.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_business_function.protect|has_business_function.protect]]"
   - "[[/_private/schema-org/Relation/has/has_business_function.private|has_business_function.private]]"
   - "[[/_personal/schema-org/Relation/has/has_business_function.personal|has_business_function.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_business_function.secret|has_business_function.secret]]"
+dv_has_inverse: "[[is_business_function_of]]"
 ---
 
-Use it like this: 
-- #has_/business_function = `=this.dv_has_business_function`  
-- has_business_function = `=this.dv_has_business_function`  
+# [[has_business_function]] 
 
-The business function (e.g. sell, lease, repair, dispose) of the offer or component of a bundle (TypeAndQuantityNode). The default is http://purl.org/goodrelations/v1#Sell.
+has_inverse = `=this.dv_has_inverse` 
+
+Use it like this: 
+- #has_/business_function : :  `=this.dv_has_range`  
+- has_business_function : : `=this.dv_has_range`  
+- is_business_function_of : : `=this.dv_has_domain`  
+- #is_/business_function_of : : `=this.dv_has_domain`  
+
+The business function (e.g. sell, lease, repair, dispose) 
+of the offer or component of a bundle (TypeAndQuantityNode). 
+The default is http://purl.org/goodrelations/v1#Sell.
 
 Relation describes that: 
 
-has_domain = `=this.dv_has_domain` 
-
+has_domain = `=this.dv_has_domain`  
 has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+has_range = `=this.dv_has_range`  
 
 
 ## Confidential Links & Embeds: 

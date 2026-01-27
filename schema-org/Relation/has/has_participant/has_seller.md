@@ -48,7 +48,7 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_participants/has_seller|has_seller]] 
+### #is_/same_as :: [[has_seller|has_seller]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_participants/has_seller.public|has_seller.public]] 
 

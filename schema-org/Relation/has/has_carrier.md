@@ -24,11 +24,12 @@ tags:
 title: has_carrier
 type: Predi_Relation
 dv_has_:
-  carrier: Organization
-  domain: Flight, ParcelDelivery
+  domain:
+    - "[[../../Class/is_a_/Intangible/Trip/Flight|Flight]]"
+    - "[[../../Class/is_a_/Intangible/Parcel_Delivery|Parcel_Delivery]]"
   name: has_carrier
-  range: Organization
-dv_has_carrier: Organization
+  range: "[[../../../Society/Agent/Community/Organization|Organization]]"
+  inverse: "[[is_carrier_of]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_carrier|has_carrier]]"
@@ -38,29 +39,39 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_carrier.private|has_carrier.private]]"
     - "[[/_personal/schema-org/Relation/has/has_carrier.personal|has_carrier.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_carrier.secret|has_carrier.secret]]"
-dv_has_domain: Flight, ParcelDelivery
+    - "[[has_carrier]]"
+dv_has_domain:
+  - "[[../../Class/is_a_/Intangible/Trip/Flight|Flight]]"
+  - "[[../../Class/is_a_/Intangible/Parcel_Delivery|Parcel_Delivery]]"
 dv_has_name: has_carrier
-dv_has_range: Organization
+dv_has_range: "[[../../../Society/Agent/Community/Organization|Organization]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_carrier|has_carrier]]"
+  - "[[has_carrier]]"
   - "[[/_public/schema-org/Relation/has/has_carrier.public|has_carrier.public]]"
   - "[[/_internal/schema-org/Relation/has/has_carrier.internal|has_carrier.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_carrier.protect|has_carrier.protect]]"
   - "[[/_private/schema-org/Relation/has/has_carrier.private|has_carrier.private]]"
   - "[[/_personal/schema-org/Relation/has/has_carrier.personal|has_carrier.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_carrier.secret|has_carrier.secret]]"
+dv_has_inverse: "[[is_carrier_of]]"
 ---
 
-Use it like this: 
-- #has_/carrier = `=this.dv_has_carrier`  
-- has_carrier = `=this.dv_has_carrier`  
+# [[has_carrier]] 
 
-'carrier' is an out-dated term indicating the 'provider' for parcel delivery and flights.
+has_inverse = `=this.dv_has_inverse` 
+
+Use it like this: 
+- #has_/carrier : : `=this.dv_has_range` 
+- has_carrier : : `=this.dv_has_range` 
+- is_carrier_of : :  `=this.dv_has_domain` 
+- #is_/carrier_of : :  `=this.dv_has_domain` 
+
+'carrier' is an out-dated term indicating 
+the 'provider' for parcel delivery and flights.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

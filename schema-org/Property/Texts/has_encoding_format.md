@@ -55,7 +55,6 @@ e.g. defining Web page or a Wikipedia/Wikidata entry.
 Predicated describes that: 
 
 #has_/domain  :: CreativeWork, MediaObject  
-
 (has_/name :: has_text_of_encoding_format )
 (has_/range :: Text, URL )
 

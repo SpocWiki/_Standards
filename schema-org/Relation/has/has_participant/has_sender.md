@@ -43,7 +43,7 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_participants/has_sender|has_sender]] 
+### #is_/same_as :: [[has_sender|has_sender]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_participants/has_sender.public|has_sender.public]] 
 

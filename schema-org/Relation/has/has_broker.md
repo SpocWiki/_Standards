@@ -24,7 +24,7 @@ tags:
 title: has_broker
 type: Predi_Relation
 dv_has_:
-  domain: [Invoice, Order, "[[../../Class/is_a_/Intangible/Reservation|Reservation]]", "[[../../../Society/Agent/Community/Organization/Business/Service|Service]]"]
+  domain: ["[[../../Class/is_a_/Intangible/Invoice|Invoice]]", "[[../../Class/is_a_/Intangible/Order|Order]]", "[[../../Class/is_a_/Intangible/Reservation|Reservation]]", "[[../../../Society/Agent/Community/Organization/Business/Service|Service]]"]
   name: has_broker
   range: ["[[../../../Society/Agent/Community/Organization|Organization]]", "[[../../../Society/Agent/Person|Person]]"]
 dv_is_:
@@ -36,9 +36,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_broker.private|has_broker.private]]"
     - "[[/_personal/schema-org/Relation/has/has_broker.personal|has_broker.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_broker.secret|has_broker.secret]]"
-dv_has_domain: Invoice, Order, Reservation, Service
+dv_has_domain: ["[[../../Class/is_a_/Intangible/Invoice|Invoice]]", "[[../../Class/is_a_/Intangible/Order|Order]]", "[[../../Class/is_a_/Intangible/Reservation|Reservation]]", "[[../../../Society/Agent/Community/Organization/Business/Service|Service]]"]
 dv_has_name: has_broker
-dv_has_range: Organization, Person
+dv_has_range: ["[[../../../Society/Agent/Community/Organization|Organization]]", "[[../../../Society/Agent/Person|Person]]"]
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_broker|has_broker]]"
   - "[[/_public/schema-org/Relation/has/has_broker.public|has_broker.public]]"
@@ -54,9 +54,10 @@ dv_is_same_as:
 #has_/inverse :: [[is_broker_of]] 
 
 Use it like this: 
-- #has_/broker : : `=this.dv_has_broker`  
-- has_broker : : `=this.dv_has_broker`  
-- is_broker_of : :
+- #has_/broker : :  `=this.dv_has_range` 
+- has_broker : :  `=this.dv_has_range` 
+- is_broker_of : :  `=this.dv_has_domain` 
+- #is_/broker_of : :  `=this.dv_has_domain` 
 
 An entity that arranges for an exchange between a buyer and a seller.  
 
