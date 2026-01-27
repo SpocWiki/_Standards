@@ -54,6 +54,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_reservation_for.secret|has_reservation_for.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/reservation_for = `=this.dv_has_reservation_for` (../../../Class/Thing) ] 
 - has_reservation_for = `=this.dv_has_reservation_for` (../../../Class/Thing) ] 

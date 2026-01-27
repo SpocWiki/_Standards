@@ -66,6 +66,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_course_prerequisites.secret|has_course_prerequisites.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/course_/prerequisites = `=this.dv_has_course_prerequisites`  
 - has_course_prerequisites = `=this.dv_has_course_prerequisites`  

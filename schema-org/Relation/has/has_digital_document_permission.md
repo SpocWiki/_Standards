@@ -56,6 +56,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_digital_document_permission.secret|has_digital_document_permission.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/digital_document_permission = `=this.dv_has_digital_document_permission`  
 - has_digital_document_permission = `=this.dv_has_digital_document_permission`  

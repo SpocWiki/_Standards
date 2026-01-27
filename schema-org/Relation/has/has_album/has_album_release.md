@@ -26,6 +26,12 @@ title: has_album_release
 type: Predi_Relation
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/album_release :: MusicRelease  
 - [ has_album_release :: MusicRelease ] 

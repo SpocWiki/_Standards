@@ -28,6 +28,12 @@ title: is_issued_by
 type: Predi_Relation
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #is_/issued_by :: Organization  
 - is_/issued_by :: Organization  

@@ -54,6 +54,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_event_status.secret|has_event_status.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/event_status = `=this.dv_has_event_status`  
 - has_event_status = `=this.dv_has_event_status`  

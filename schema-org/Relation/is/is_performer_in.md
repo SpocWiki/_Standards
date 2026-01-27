@@ -28,6 +28,12 @@ title: is_performer_in
 type: Predi_Relation
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #is_/performer_in :: Event  
 - is_/performer_in :: Event  

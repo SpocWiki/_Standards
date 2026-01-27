@@ -54,12 +54,16 @@ dv_is_same_as:
 
 # [[has_book_format]] 
 
+is_a :: [[../../Relation|Relation]]
+#is_a_/relation 
+#class/Relation
+
 #has_/inverse :: [[is_book_format_of]]
 
 Use it like this: 
-- #has_/book_format : : `=this.dv_has_name` 
-- has_book_format : : `=this.dv_has_name` 
-- is_book_format_of : : `=this.dv_has_domain` 
+- #has_/book_/format : : `=this.dv_has_range` 
+- has_book_format : : `=this.dv_has_range` 
+- #is_/book_/format_of : : `=this.dv_has_domain` 
 The format of the book.
 
 Relation describes that: 

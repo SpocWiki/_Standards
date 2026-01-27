@@ -26,6 +26,12 @@ title: is_variant_of
 type: Predi_Relation
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #is_/variant_of :: ProductGroup, ProductModel 
 - is_/variant_of :: ProductGroup, ProductModel 

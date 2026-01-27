@@ -53,6 +53,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_editor.secret|has_editor.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/editor = `=this.dv_has_editor`  
 - has_editor = `=this.dv_has_editor`  

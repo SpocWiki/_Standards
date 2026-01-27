@@ -93,6 +93,10 @@ dv_has_inverse: "[[is_category_of]]"
 
 # [[has_category]] 
 
+is_a :: [[../../Relation|Relation]]
+#is_a_/relation 
+#class/Relation
+
 is_similar_to = `=this.dv_is_similar_to`  
 is_different_from = `=this.dv_is_different_from` 
 has_child_property = `=this.dv_has_child_property` 

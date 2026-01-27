@@ -54,6 +54,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_order_delivery.secret|has_order_delivery.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/order_/delivery = `=this.dv_has_order_delivery`  
 - has_order_delivery = `=this.dv_has_order_delivery`  

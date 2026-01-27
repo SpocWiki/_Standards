@@ -54,6 +54,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_suggested_gender.secret|has_suggested_gender.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/suggested_gender = `=this.dv_has_suggested_gender`  
 - has_suggested_gender = `=this.dv_has_suggested_gender`  

@@ -29,6 +29,12 @@ title: is_in_language
 type: Predi_Relation
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #is_/in_/language :: "[[../../../Language]]", "[[../../Class/is_a_/Data_Type/Text]]" 
 - is_in_language :: "[[../../../Language]]", "[[../../Class/is_a_/Data_Type/Text]]" 

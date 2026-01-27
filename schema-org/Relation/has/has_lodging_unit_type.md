@@ -55,6 +55,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_lodging_unit_type.secret|has_lodging_unit_type.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/lodging_unit_type = `=this.dv_has_lodging_unit_type`  
 - has_lodging_unit_type = `=this.dv_has_lodging_unit_type`  

@@ -54,6 +54,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_map_type.secret|has_map_type.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/map_type = `=this.dv_has_map_type`  
 - has_map_type = `=this.dv_has_map_type`  

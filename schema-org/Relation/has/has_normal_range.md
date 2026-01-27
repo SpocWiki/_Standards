@@ -54,6 +54,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_normal_range.secret|has_normal_range.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/normal_range = `=this.dv_has_normal_range`  
 - has_normal_range = `=this.dv_has_normal_range`  

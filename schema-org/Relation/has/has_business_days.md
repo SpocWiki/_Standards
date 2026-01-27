@@ -58,6 +58,10 @@ dv_has_inverse: "[[is_business_days_of]]"
 
 # [[has_business_days]] 
 
+is_a :: [[../../Relation|Relation]]
+#is_a_/relation 
+#class/Relation
+
 is_part_of = `=this.dv_is_part_of` 
 has_inverse = `=this.dv_has_inverse` 
 
@@ -65,7 +69,7 @@ Use it like this:
 - #has_/business_days : : `=this.dv_has_range`    
 - has_business_days : : `=this.dv_has_range`   
 - is_business_days_of : :   `=this.dv_has_domain` 
-- is_business_days_of : :   `=this.dv_has_domain`  
+- #is_/business_days_of : :   `=this.dv_has_domain`  
 
 Days of the week when the merchant typically operates, indicated via opening hours markup.
 

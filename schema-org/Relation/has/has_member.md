@@ -29,6 +29,12 @@ title: has_member
 type: Predi_Relation
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/member :: Organization, Person  
 - [ has_member :: Organization, Person ] 

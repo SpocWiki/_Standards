@@ -50,6 +50,10 @@ dv_is_same_as:
 
 # [[has_calories]] 
 
+is_a :: [[../../Relation|Relation]]
+#is_a_/relation 
+#class/Relation
+
 Use it like this: 
 - #has_/calories : : `=this.dv_has_range`  
 - has_calories : :  `=this.dv_has_range`  

@@ -55,6 +55,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_child_structure.secret|has_child_structure.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/child_/structure = `=this.dv_has_child_structure`  
 - has_child_structure = `=this.dv_has_child_structure`  

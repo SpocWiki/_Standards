@@ -55,6 +55,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_passenger_priority_status.secret|has_passenger_priority_status.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/passenger_priority_status = `=this.dv_has_passenger_priority_status`  
 - has_passenger_priority_status = `=this.dv_has_passenger_priority_status`  

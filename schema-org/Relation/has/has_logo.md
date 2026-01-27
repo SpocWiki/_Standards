@@ -27,6 +27,12 @@ title: has_logo
 type: Predi_Relation
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/logo :: ImageObject, URL  
 - [ has_logo :: ImageObject, URL ] 

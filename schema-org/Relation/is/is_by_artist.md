@@ -54,6 +54,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/is/is_by_artist.secret|is_by_artist.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - is_by_artist = `=this.dv_is_by_artist`  
 - is_by_artist = `=this.dv_is_by_artist`  

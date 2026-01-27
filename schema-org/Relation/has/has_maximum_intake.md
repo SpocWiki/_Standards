@@ -54,6 +54,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_maximum_intake.secret|has_maximum_intake.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/maximum_intake = `=this.dv_has_maximum_intake`  
 - has_maximum_intake = `=this.dv_has_maximum_intake`  

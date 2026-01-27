@@ -53,6 +53,11 @@ dv_is_same_as:
 
 # [[has_demand_for]]
 
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 A pointer to products or services sought by the organization or person (demand).
 
 Use it like this: 

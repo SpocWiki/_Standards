@@ -26,6 +26,12 @@ title: is_providing_service
 type: Predi_Relation
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #is_/providing_service :: Service 
 - is_/providing_service :: Service 

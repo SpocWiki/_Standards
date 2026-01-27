@@ -54,6 +54,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_menu_item.secret|has_menu_item.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/menu_item = `=this.dv_has_menu_item`  
 - has_menu_item = `=this.dv_has_menu_item`  

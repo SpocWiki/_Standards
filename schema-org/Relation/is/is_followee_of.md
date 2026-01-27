@@ -25,6 +25,12 @@ title: is_followee_of
 type: Predi_Relation
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - [is_/followee_of :: Organization, Person ] 
 - [ is_followee_of :: Organization, Person ] 

@@ -50,6 +50,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_speakable.secret|has_speakable.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/speakable = `=this.dv_has_speakable`  
 - has_speakable = `=this.dv_has_speakable`  

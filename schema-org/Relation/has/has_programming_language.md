@@ -54,6 +54,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_programming_language.secret|has_programming_language.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/programming_language = `=this.dv_has_programming_language`  
 - has_programming_language = `=this.dv_has_programming_language`  

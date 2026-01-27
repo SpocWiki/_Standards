@@ -50,6 +50,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_trailer.secret|has_trailer.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/trailer = `=this.dv_has_trailer`  
 - has_trailer = `=this.dv_has_trailer`  

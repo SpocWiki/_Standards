@@ -28,6 +28,12 @@ title: has_home_team
 type: Predi_Relation
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/home_team :: Person, SportsTeam  
 - [ has_home_team :: Person, SportsTeam ] 

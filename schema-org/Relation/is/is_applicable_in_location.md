@@ -28,6 +28,12 @@ title: is_applicable_in_location
 type: Predi_Relation
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/applicable_location :: AdministrativeArea  
 - is_/applicable_in_location :: AdministrativeArea  

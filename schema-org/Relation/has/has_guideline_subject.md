@@ -54,6 +54,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_guideline_subject.secret|has_guideline_subject.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/guideline_subject = `=this.dv_has_guideline_subject`  
 - has_guideline_subject = `=this.dv_has_guideline_subject`  

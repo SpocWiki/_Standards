@@ -58,6 +58,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_education_use.secret|has_education_use.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/education_/use = `=this.dv_has_education_use`  
 - has_education_use = `=this.dv_has_education_use`  

@@ -54,6 +54,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_distinguishing_sign.secret|has_distinguishing_sign.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/distinguishing_sign = `=this.dv_has_distinguishing_sign`  
 - has_distinguishing_sign = `=this.dv_has_distinguishing_sign`  

@@ -54,6 +54,13 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_css_selector.secret|has_css_selector.secret]]"
 ---
 
+# [[has_css_selector]] 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/css_selector = `=this.dv_has_css_selector`  
 - has_css_selector = `=this.dv_has_css_selector`  

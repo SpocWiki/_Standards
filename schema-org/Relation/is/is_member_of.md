@@ -31,6 +31,12 @@ title: is_member_of
 type: Predi_Relation
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #is_/member_/of :: [[../../../Class/is_a_/organization]],  [[../../../Class/is_a_/intangible/program_membership]]  
 - is_/member_of :: [[../../../Class/is_a_/organization]],  [[../../../Class/is_a_/intangible/program_membership]]  

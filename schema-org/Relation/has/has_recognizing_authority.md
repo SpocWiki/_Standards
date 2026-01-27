@@ -54,6 +54,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_recognizing_authority.secret|has_recognizing_authority.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/recognizing_authority = `=this.dv_has_recognizing_authority`  
 - has_recognizing_authority = `=this.dv_has_recognizing_authority`  

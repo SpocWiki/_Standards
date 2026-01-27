@@ -66,6 +66,11 @@ dv_is_same_as:
 
 # [[has_defined_term]] 
 
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 has_child_property = `=this.dv_has_child_property` 
 
 A [[../../Class/is_a_/Intangible/Defined_Term|defined_term]] contained in this term set.

@@ -24,6 +24,12 @@ title: has_replacee
 type: Predi_Relation
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/replacee :: [Thing](../../../Class/Thing)  
 - [ has_replacee :: [Thing](../../../Class/Thing) ] 

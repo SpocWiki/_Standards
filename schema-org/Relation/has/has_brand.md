@@ -53,6 +53,10 @@ dv_is_same_as:
 
 # [[has_brand]] 
 
+is_a :: [[../../Relation|Relation]]
+#is_a_/relation 
+#class/Relation
+
 #has_/inverse :: [[is_brand_of]] 
 
 Use it like this: 

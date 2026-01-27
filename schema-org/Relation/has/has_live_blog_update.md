@@ -55,6 +55,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_live_blog_update.secret|has_live_blog_update.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/live_blog_update = `=this.dv_has_live_blog_update`  
 - has_live_blog_update = `=this.dv_has_live_blog_update`  

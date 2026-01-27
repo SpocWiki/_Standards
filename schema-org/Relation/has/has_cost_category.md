@@ -54,6 +54,13 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_cost_category.secret|has_cost_category.secret]]"
 ---
 
+# [[has_cost_category]] 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/cost_category = `=this.dv_has_cost_category`  
 - has_cost_category = `=this.dv_has_cost_category`  
@@ -63,7 +70,6 @@ The category of cost, such as wholesale, retail, reimbursement cap, etc.
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

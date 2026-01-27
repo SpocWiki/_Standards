@@ -55,6 +55,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_eligible_transaction_volume.secret|has_eligible_transaction_volume.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/eligible_transaction_volume = `=this.dv_has_eligible_transaction_volume`  
 - has_eligible_transaction_volume = `=this.dv_has_eligible_transaction_volume`  

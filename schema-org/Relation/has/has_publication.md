@@ -50,6 +50,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_publication.secret|has_publication.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/publication = `=this.dv_has_publication`  
 - has_publication = `=this.dv_has_publication`  

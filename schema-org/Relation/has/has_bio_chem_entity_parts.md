@@ -60,6 +60,10 @@ dv_is_same_as:
 
 # [[has_bio_chem_entity_parts]] 
 
+is_a :: [[../../Relation|Relation]]
+#is_a_/relation 
+#class/Relation
+
 is_part_of = `=this.dv_is_part_of` 
 has_inverse = `=this.dv_has_inverse` 
  

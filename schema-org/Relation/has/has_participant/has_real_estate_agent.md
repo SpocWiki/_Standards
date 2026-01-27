@@ -30,6 +30,12 @@ title: has_real_estate_agent
 type: Predi_Relation
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/real_estate_agent :: RealEstateAgent  
 - [ has_real_estate_agent :: RealEstateAgent ] 

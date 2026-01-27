@@ -55,6 +55,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_drive_wheel_configuration.secret|has_drive_wheel_configuration.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/drive_wheel_configuration = `=this.dv_has_drive_wheel_configuration`  
 - has_drive_wheel_configuration = `=this.dv_has_drive_wheel_configuration`  

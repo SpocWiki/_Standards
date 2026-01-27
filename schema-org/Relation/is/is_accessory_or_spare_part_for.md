@@ -52,6 +52,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/is/is_accessory_or_spare_part_for.secret|is_accessory_or_spare_part_for.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - is_accessory_or_spare_part_for = `=this.dv_is_accessory_or_spare_part_for`  
 - is_accessory_or_spare_part_for = `=this.dv_is_accessory_or_spare_part_for`  

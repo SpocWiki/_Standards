@@ -54,13 +54,17 @@ dv_is_same_as:
 
 # [[has_boarding_policy]] 
 
+is_a :: [[../../Relation|Relation]]
+#is_a_/relation 
+#class/Relation
+
 #has_/inverse :: [[is_boarding_policy_of]] 
 
 Use it like this: 
-- #has_/boarding_policy : : `=this.dv_has_range`   
+- #has_/boarding_/policy : : `=this.dv_has_range`   
 - has_boarding_policy : : `=this.dv_has_range`
 - is_boarding_policy_of : : `=this.dv_has_domain` 
-- #is_/boarding_policy_of : : `=this.dv_has_domain` 
+- #is_/boarding_/policy_of : : `=this.dv_has_domain` 
 
 The type of boarding policy used by the airline (e.g. zone-based or group-based).
 

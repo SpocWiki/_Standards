@@ -54,6 +54,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_item_reviewed.secret|has_item_reviewed.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/item_reviewed = `=this.dv_has_item_reviewed` (../../../Class/Thing) ] 
 - has_item_reviewed = `=this.dv_has_item_reviewed` (../../../Class/Thing) ] 

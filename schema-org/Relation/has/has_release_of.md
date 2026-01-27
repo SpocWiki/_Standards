@@ -28,6 +28,12 @@ title: has_release_of
 type: Predi_Relation
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/release_of :: MusicAlbum  
 - [ has_release_of :: MusicAlbum ] 

@@ -54,6 +54,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_trial_design.secret|has_trial_design.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/trial_design = `=this.dv_has_trial_design`  
 - has_trial_design = `=this.dv_has_trial_design`  

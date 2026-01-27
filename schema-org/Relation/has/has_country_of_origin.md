@@ -58,6 +58,13 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_country_of_origin.secret|has_country_of_origin.secret]]"
 ---
 
+# [[has_country_of_origin]] 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/country_of_origin = `=this.dv_has_country_of_origin`  
 - has_country_of_origin = `=this.dv_has_country_of_origin`  

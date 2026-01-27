@@ -28,6 +28,12 @@ title: has_work_location
 type: Predi_Relation
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/work_location :: ContactPoint, Place  
 - [ has_work_location :: ContactPoint, Place ] 

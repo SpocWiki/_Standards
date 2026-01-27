@@ -54,13 +54,17 @@ dv_is_same_as:
 
 # [[has_blood_supply]] 
 
+is_a :: [[../../Relation|Relation]]
+#is_a_/relation 
+#class/Relation
+
 #has_/inverse :: [[is_blood_supply_of]] 
 
 Use it like this: 
-- #has_/blood_supply : : `=this.dv_has_range` 
+- #has_/blood_/supply : : `=this.dv_has_range` 
 - has_blood_supply : : `=this.dv_has_range` 
 - is_blood_supply_of : : `=this.dv_has_domain` 
-- #is_/blood_supply_of : : `=this.dv_has_domain` 
+- #is_/blood_/supply_of : : `=this.dv_has_domain` 
 
 The blood vessel that carries blood from the heart to the muscle.
 

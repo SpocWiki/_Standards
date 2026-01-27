@@ -31,6 +31,13 @@ title: has_customer_remorse_return_label_source
 type: Predi_Relation
 ---
 
+# [[has_customer_remorse_return_label_source]] 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 #is_/part_of :: pending:  
 
 Use it like this: 

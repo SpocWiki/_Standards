@@ -53,6 +53,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/is/is_affected_by.secret|is_affected_by.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - is_affected_by = `=this.dv_is_affected_by`  
 - is_affected_by = `=this.dv_is_affected_by`  

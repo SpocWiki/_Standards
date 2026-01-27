@@ -28,6 +28,12 @@ title: has_exercise_plan
 type: Predi_Relation
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/exercise_plan :: ExercisePlan  
 - [ has_exercise_plan :: ExercisePlan ] 

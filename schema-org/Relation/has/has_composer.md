@@ -26,11 +26,14 @@ tags:
 title: has_composer
 type: Predi_Relation
 dv_has_:
-  composer: Organization, Person
-  domain: Event, MusicComposition
+  domain:
+    - "[[../../Class/is_a_/Event|Event]]"
+    - "[[../../../Society/Communication/Media/Creative_Work/Music_Composition|Music_Composition]]"
   name: has_composer
-  range: Organization, Person
-dv_has_composer: Organization, Person
+  range:
+    - "[[../../../Society/Agent/Community/Organization|Organization]]"
+    - "[[../../../Society/Agent/Person|Person]]"
+  inverse: "[[is_composer_of]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_composer|has_composer]]"
@@ -40,29 +43,44 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_composer.private|has_composer.private]]"
     - "[[/_personal/schema-org/Relation/has/has_composer.personal|has_composer.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_composer.secret|has_composer.secret]]"
-dv_has_domain: Event, MusicComposition
+    - "[[has_composer]]"
+dv_has_domain:
+  - "[[../../Class/is_a_/Event|Event]]"
+  - "[[../../../Society/Communication/Media/Creative_Work/Music_Composition|Music_Composition]]"
 dv_has_name: has_composer
-dv_has_range: Organization, Person
+dv_has_range:
+  - "[[../../../Society/Agent/Community/Organization|Organization]]"
+  - "[[../../../Society/Agent/Person|Person]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_composer|has_composer]]"
+  - "[[has_composer]]"
   - "[[/_public/schema-org/Relation/has/has_composer.public|has_composer.public]]"
   - "[[/_internal/schema-org/Relation/has/has_composer.internal|has_composer.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_composer.protect|has_composer.protect]]"
   - "[[/_private/schema-org/Relation/has/has_composer.private|has_composer.private]]"
   - "[[/_personal/schema-org/Relation/has/has_composer.personal|has_composer.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_composer.secret|has_composer.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_composer_of]]"
 ---
 
+# [[has_composer]] 
+
+is_a = `=this.dv_is_a` 
+#is_a_/relation 
+#class/Relation
+has_inverse = `=this.dv_has_inverse` 
+
 Use it like this: 
-- #has_/composer = `=this.dv_has_composer`  
-- has_composer = `=this.dv_has_composer`  
+- #has_/composer : : `=this.dv_has_range` 
+- has_composer : : `=this.dv_has_range` 
+- is_composer_of : :  `=this.dv_has_domain` 
+- #is_/composer_of : :  `=this.dv_has_domain` 
 
 The person or organization who wrote a composition, or who is the composer of a work performed at some event.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

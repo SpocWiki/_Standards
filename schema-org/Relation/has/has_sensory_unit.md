@@ -54,6 +54,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_sensory_unit.secret|has_sensory_unit.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/sensory_unit = `=this.dv_has_sensory_unit`  
 - has_sensory_unit = `=this.dv_has_sensory_unit`  

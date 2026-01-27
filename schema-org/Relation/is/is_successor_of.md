@@ -29,6 +29,12 @@ title: has_successor_of
 type: Predi_Relation
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #is_/successor_of :: [[../../../Society/Agent/Community/Organization/Business/Product/Product_Model|ProductModel]]  
 - is_/successor_of :: [[../../Class/is_a_/product/product_model|ProductModel]]  

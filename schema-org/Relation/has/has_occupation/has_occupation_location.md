@@ -54,6 +54,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_occupation_location.secret|has_occupation_location.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/occupation_/location = `=this.dv_has_occupation_location`  
 - has_occupation_location = `=this.dv_has_occupation_location`  

@@ -27,6 +27,12 @@ title: is_knowing
 type: Predi_Relation
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #is_/knowing :: Person  
 - is_/knowing :: Person  

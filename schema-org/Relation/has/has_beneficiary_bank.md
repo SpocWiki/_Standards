@@ -62,14 +62,18 @@ dv_is_same_as:
 
 # [[has_beneficiary_bank]] 
 
+is_a :: [[../../Relation|Relation]]
+#is_a_/relation 
+#class/Relation
+
 is_part_of = `=this.dv_is_part_of` 
 has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
-- #has_/beneficiary_bank : : `=this.dv_has_range` 
+- #has_/beneficiary_/bank : : `=this.dv_has_range` 
 - has_beneficiary_bank : : `=this.dv_has_range` 
 - is_beneficiary_bank_of : : `=this.dv_has_domain` 
-- is_beneficiary_bank_of : : `=this.dv_has_domain` 
+- #is_/beneficiary_/bank_of : : `=this.dv_has_domain` 
 
 A bank or bank branch, financial institution or international financial institution 
 operating the beneficiary's bank account or releasing funds for the beneficiary.

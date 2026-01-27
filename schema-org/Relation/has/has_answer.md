@@ -70,6 +70,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_answer.secret|has_answer.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/answer: : `=this.dv_has_range` 
 - has_answer : : `=this.dv_has_range` 

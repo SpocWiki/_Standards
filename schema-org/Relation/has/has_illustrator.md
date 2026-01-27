@@ -53,6 +53,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_illustrator.secret|has_illustrator.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/illustrator = `=this.dv_has_illustrator`  
 - has_illustrator = `=this.dv_has_illustrator`  

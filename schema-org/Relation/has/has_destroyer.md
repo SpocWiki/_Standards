@@ -24,9 +24,14 @@ title: has_destroyer
 type: Predi_Relation
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 [[has_parent/has_creator]] 
 
-#has_/complement 
 #has_/complement 
 
 Use it like this: 

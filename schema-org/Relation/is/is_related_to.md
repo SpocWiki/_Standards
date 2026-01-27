@@ -26,6 +26,12 @@ title: has_related
 type: Predi_Relation
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #is_/related_to :: Product, Service 
 - is_/related_to :: Product, Service 

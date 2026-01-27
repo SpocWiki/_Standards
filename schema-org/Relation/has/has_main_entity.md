@@ -28,6 +28,12 @@ title: has_main_entity
 type: Predi_Relation
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/main_entity :: [Thing](../../../Class/Thing)  
 - [ has_main_entity :: [Thing](../../../Class/Thing) ] 

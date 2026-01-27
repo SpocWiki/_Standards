@@ -30,6 +30,12 @@ title: has_sports_team
 type: Predi_Relation
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/sports_team :: SportsTeam  
 - [ has_sports_team :: SportsTeam ] 

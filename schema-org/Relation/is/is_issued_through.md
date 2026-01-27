@@ -28,6 +28,12 @@ title: is_issued_through
 type: Predi_Relation
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #is_/issued_through :: Service  
 - is_/issued_through :: Service  

@@ -28,6 +28,13 @@ title: has_cutoff_time
 type: Predi_Relation
 ---
 
+# [[has_cutoff_time]] 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 #is_/part_of :: pending:  
 
 Use it like this: 

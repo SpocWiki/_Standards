@@ -64,6 +64,10 @@ dv_is_same_as:
 
 # [[has_body_type]] 
 
+is_a :: [[../../Relation|Relation]]
+#is_a_/relation 
+#class/Relation
+
 has_inverse = `=this.dv_has_inverse` 
 is_part_of = `=this.dv_is_part_of` 
 

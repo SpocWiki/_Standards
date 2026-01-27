@@ -29,6 +29,12 @@ title: is_greater_or_equal_to
 type: Predi_Relation
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #is_/greater_or_equal_to :: QualitativeValue  
 - is_/greater_or_equal_to :: QualitativeValue  

@@ -58,20 +58,27 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_contained_season.secret|has_contained_season.secret]]"
 ---
 
+# [[has_contained_season]] 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: [[is_season_contained_in]]
+
+has_parent_property = `=this.dv_has_parent_property` 
+
 A season that is part of the media series.
 
 Use it like this: 
-- #has_/contained_season = `=this.dv_has_contained_season` ] ] 
-- has_contained_season = `=this.dv_has_contained_season` ] ] 
+- #has_/contained_season : : `=this.dv_has_range` 
+- has_contained_season : : `=this.dv_has_range` 
+- is_season_contained_in : :  `=this.dv_has_domain` 
 
 [[../../Relation|Relation]] describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
-
-has_parent_property = `=this.dv_has_parent_property` 
 
 ## Confidential Links & Embeds: 
 

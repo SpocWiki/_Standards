@@ -50,6 +50,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_error.secret|has_error.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/error = `=this.dv_has_error` (../../../Class/Thing) ] 
 - has_error = `=this.dv_has_error` (../../../Class/Thing) ] 

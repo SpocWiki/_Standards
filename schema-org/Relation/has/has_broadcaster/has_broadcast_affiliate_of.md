@@ -55,6 +55,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_broadcast_affiliate_of.secret|has_broadcast_affiliate_of.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/broadcast_affiliate_of = `=this.dv_has_broadcast_affiliate_of`  
 - has_broadcast_affiliate_of = `=this.dv_has_broadcast_affiliate_of`  

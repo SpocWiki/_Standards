@@ -4,6 +4,8 @@ aliases:
   - has_accommodation_floor_plan
   - has floor plan
   - has accommodation floor plan
+  - schema:accommodationFloorPlan
+  - accommodationFloorPlan
 confidential: public
 cssclasses:
   - Predicate

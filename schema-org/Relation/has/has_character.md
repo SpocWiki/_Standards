@@ -1,5 +1,6 @@
 ---
 aliases:
+  - schema:character
   - has character
   - has_character
 confidential: public
@@ -23,11 +24,10 @@ tags:
 title: has_character
 type: Predi_Relation
 dv_has_:
-  character: Person
-  domain: CreativeWork
+  domain: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
   name: has_character
-  range: Person
-dv_has_character: Person
+  range: "[[../../../Society/Agent/Person|Person]]"
+  inverse: "[[is_character_in]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_character|has_character]]"
@@ -37,29 +37,40 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_character.private|has_character.private]]"
     - "[[/_personal/schema-org/Relation/has/has_character.personal|has_character.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_character.secret|has_character.secret]]"
-dv_has_domain: CreativeWork
+    - "[[has_character]]"
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
 dv_has_name: has_character
-dv_has_range: Person
+dv_has_range: "[[../../../Society/Agent/Person|Person]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_character|has_character]]"
+  - "[[has_character]]"
   - "[[/_public/schema-org/Relation/has/has_character.public|has_character.public]]"
   - "[[/_internal/schema-org/Relation/has/has_character.internal|has_character.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_character.protect|has_character.protect]]"
   - "[[/_private/schema-org/Relation/has/has_character.private|has_character.private]]"
   - "[[/_personal/schema-org/Relation/has/has_character.personal|has_character.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_character.secret|has_character.secret]]"
+dv_has_inverse: "[[is_character_in]]"
+dv_is_a: "[[../../Relation|Relation]]"
 ---
 
+# [[has_character]] 
+
+is_a = `=this.dv_is_a` 
+#is_a_/relation 
+#class/Relation
+has_inverse = `=this.dv_has_inverse` 
+
 Use it like this: 
-- #has_/character = `=this.dv_has_character`  
-- has_character = `=this.dv_has_character`  
+- #has_/character : : `=this.dv_has_range` 
+- has_character : : `=this.dv_has_range` 
+- is_character_in : :  `=this.dv_has_domain` 
+- #is_/character_in : :  `=this.dv_has_domain` 
 
 Fictional person connected with a creative work.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

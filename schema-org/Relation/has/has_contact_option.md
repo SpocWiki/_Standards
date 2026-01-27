@@ -27,11 +27,10 @@ tags:
 title: has_contact_option
 type: Predi_Relation
 dv_has_:
-  contact_option: ContactPointOption
-  domain: ContactPoint
+  domain: "[[../../Class/is_a_/Intangible/Structured_Value/Contact_Point|Contact_Point]]"
   name: has_contact_option
-  range: ContactPointOption
-dv_has_contact_option: ContactPointOption
+  range: "[[../../Enumeration/Contact_Point_Option|Contact_Point_Option]]"
+  inverse: "[[is_contact_option_for]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_contact_option|has_contact_option]]"
@@ -41,29 +40,41 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_contact_option.private|has_contact_option.private]]"
     - "[[/_personal/schema-org/Relation/has/has_contact_option.personal|has_contact_option.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_contact_option.secret|has_contact_option.secret]]"
-dv_has_domain: ContactPoint
+    - "[[has_contact_option]]"
+dv_has_domain: "[[../../Class/is_a_/Intangible/Structured_Value/Contact_Point|Contact_Point]]"
 dv_has_name: has_contact_option
-dv_has_range: ContactPointOption
+dv_has_range: "[[../../Enumeration/Contact_Point_Option|Contact_Point_Option]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_contact_option|has_contact_option]]"
+  - "[[has_contact_option]]"
   - "[[/_public/schema-org/Relation/has/has_contact_option.public|has_contact_option.public]]"
   - "[[/_internal/schema-org/Relation/has/has_contact_option.internal|has_contact_option.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_contact_option.protect|has_contact_option.protect]]"
   - "[[/_private/schema-org/Relation/has/has_contact_option.private|has_contact_option.private]]"
   - "[[/_personal/schema-org/Relation/has/has_contact_option.personal|has_contact_option.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_contact_option.secret|has_contact_option.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_contact_option_for]]"
 ---
 
-Use it like this: 
-- #has_/contact_option = `=this.dv_has_contact_option`  
-- has_contact_option = `=this.dv_has_contact_option`  
+# [[has_contact_option]] 
 
-An option available on this contact point (e.g. a toll-free number or support for hearing-impaired callers).
+is_a = `=this.dv_is_a` 
+#is_a_/relation 
+#class/Relation
+has_inverse = `=this.dv_has_inverse` 
+
+Use it like this: 
+- #has_/contact_option : :  `=this.dv_has_range` 
+- has_contact_option : :  `=this.dv_has_range` 
+- is_contact_option_for : :  `=this.dv_has_domain` 
+- #is_/contact_option_for : :  `=this.dv_has_domain` 
+
+An option available on this contact point 
+(e.g. a toll-free number or support for hearing-impaired callers).
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

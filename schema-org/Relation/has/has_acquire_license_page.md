@@ -2,6 +2,8 @@
 aliases:
   - has_acquire_license_page
   - has acquire license page
+  - schema:acquireLicensePage
+  - acquireLicensePage
 confidential: public
 cssclasses:
   - Predicate
@@ -64,12 +66,11 @@ dv_is_same_as:
 
 # [[has_acquire_license_page]]
 
-has_parent_property = `=this.dv_has_parent_property` 
-
 is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 has_inverse = `=this.dv_has_inverse` 
+has_parent_property = `=this.dv_has_parent_property` 
 
 is_part_of = `=this.dv_is_part_of` 
 

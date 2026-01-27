@@ -23,11 +23,9 @@ tags:
 title: has_contraindication
 type: Predi_Relation
 dv_has_:
-  contraindication: MedicalContraindication, Text
-  domain: MedicalDevice, MedicalTherapy
+  domain: ["[[../../../bio/Medicine/Medical_Entity/Medical_Device|Medical_Device]]", "[[../../../bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Therapy|Medical_Therapy]]"]
   name: has_contraindication
-  range: MedicalContraindication, Text
-dv_has_contraindication: MedicalContraindication, Text
+  range: ["[[../../../bio/Medicine/Medical_Entity/Medical_Contraindication|Medical_Contraindication]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_contraindication|has_contraindication]]"
@@ -37,9 +35,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_contraindication.private|has_contraindication.private]]"
     - "[[/_personal/schema-org/Relation/has/has_contraindication.personal|has_contraindication.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_contraindication.secret|has_contraindication.secret]]"
-dv_has_domain: MedicalDevice, MedicalTherapy
+dv_has_domain: ["[[../../../bio/Medicine/Medical_Entity/Medical_Device|Medical_Device]]", "[[../../../bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Therapy|Medical_Therapy]]"]
 dv_has_name: has_contraindication
-dv_has_range: MedicalContraindication, Text
+dv_has_range: ["[[../../../bio/Medicine/Medical_Entity/Medical_Contraindication|Medical_Contraindication]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_contraindication|has_contraindication]]"
   - "[[/_public/schema-org/Relation/has/has_contraindication.public|has_contraindication.public]]"
@@ -50,16 +48,24 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_contraindication.secret|has_contraindication.secret]]"
 ---
 
-Use it like this: 
-- #has_/contraindication = `=this.dv_has_contraindication`  
-- has_contraindication = `=this.dv_has_contraindication`  
+# [[has_contraindication]] 
 
-A contraindication for this therapy.
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: [[is_contraindication_for]] 
+
+Use it like this: 
+- #has_/contraindication : : `=this.dv_has_range` 
+- has_contraindication : : `=this.dv_has_range` 
+- is_contraindication_for : : `=this.dv_has_domain` 
+- #is_/contraindication_for : : `=this.dv_has_domain` 
+
+A contraindication for this therapy. 
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

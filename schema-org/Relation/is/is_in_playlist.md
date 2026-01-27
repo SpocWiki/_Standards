@@ -28,6 +28,12 @@ title: is_in_playlist
 type: Predi_Relation
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #is_/in_playlist :: MusicPlaylist  
 - is_/in_playlist :: MusicPlaylist  

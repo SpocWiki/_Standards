@@ -23,11 +23,9 @@ tags:
 title: has_coach
 type: Predi_Relation
 dv_has_:
-  coach: Person
-  domain: SportsTeam
+  domain: "[[../../../Society/Agent/Community/Organization/Sports_Organization/Sports_Team|Sports_Team]]"
   name: has_coach
-  range: Person
-dv_has_coach: Person
+  range: "[[../../../Society/Agent/Person|Person]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_coach|has_coach]]"
@@ -37,9 +35,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_coach.private|has_coach.private]]"
     - "[[/_personal/schema-org/Relation/has/has_coach.personal|has_coach.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_coach.secret|has_coach.secret]]"
-dv_has_domain: SportsTeam
+dv_has_domain: "[[../../../Society/Agent/Community/Organization/Sports_Organization/Sports_Team|Sports_Team]]"
 dv_has_name: has_coach
-dv_has_range: Person
+dv_has_range: "[[../../../Society/Agent/Person|Person]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_coach|has_coach]]"
   - "[[/_public/schema-org/Relation/has/has_coach.public|has_coach.public]]"
@@ -50,16 +48,24 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_coach.secret|has_coach.secret]]"
 ---
 
+# [[has_coach]] 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: [[is_coach_of]] 
+
 Use it like this: 
-- #has_/coach = `=this.dv_has_coach`  
-- has_coach = `=this.dv_has_coach`  
+- #has_/coach : : `=this.dv_has_range` 
+- has_coach : : `=this.dv_has_range` 
+- is_coach_of : : `=this.dv_has_domain` 
+- #is_/coach_of : : `=this.dv_has_domain` 
 
 A person that acts in a coaching role for a sports team.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

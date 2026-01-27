@@ -50,6 +50,10 @@ dv_is_same_as:
 
 # [[has_breadcrumb]] 
 
+is_a :: [[../../Relation|Relation]]
+#is_a_/relation 
+#class/Relation
+
 #has_/inverse :: [[is_breadcrumb_of]]
 
 Use it like this: 

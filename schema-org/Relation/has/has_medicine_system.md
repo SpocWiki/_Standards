@@ -54,6 +54,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_medicine_system.secret|has_medicine_system.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/medicine_system = `=this.dv_has_medicine_system`  
 - has_medicine_system = `=this.dv_has_medicine_system`  

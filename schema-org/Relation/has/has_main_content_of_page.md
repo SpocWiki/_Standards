@@ -57,6 +57,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_main_content_of_page.secret|has_main_content_of_page.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/main_content_of_page = `=this.dv_has_main_content_of_page`  
 - has_main_content_of_page = `=this.dv_has_main_content_of_page`  

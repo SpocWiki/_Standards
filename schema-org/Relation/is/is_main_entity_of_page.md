@@ -30,6 +30,12 @@ title: is_main_entity_of_page
 type: Predi_Relation
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: ---
 license: CC BY-SA 4.0
 confidential: public

@@ -55,6 +55,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_infectious_agent_class.secret|has_infectious_agent_class.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/infectious_agent_class = `=this.dv_has_infectious_agent_class`  
 - has_infectious_agent_class = `=this.dv_has_infectious_agent_class`  

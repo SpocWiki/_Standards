@@ -27,11 +27,12 @@ tags:
 title: has_copyright_holder
 type: Predi_Relation
 dv_has_:
-  copyright_holder: Organization, Person
-  domain: CreativeWork
+  domain: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
   name: has_copyright_holder
-  range: Organization, Person
-dv_has_copyright_holder: Organization, Person
+  range:
+    - "[[../../../Society/Agent/Community/Organization|Organization]]"
+    - "[[../../../Society/Agent/Person|Person]]"
+  inverse: "[[is_copyright_holder_of]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_copyright_holder|has_copyright_holder]]"
@@ -41,29 +42,42 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_copyright_holder.private|has_copyright_holder.private]]"
     - "[[/_personal/schema-org/Relation/has/has_copyright_holder.personal|has_copyright_holder.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_copyright_holder.secret|has_copyright_holder.secret]]"
-dv_has_domain: CreativeWork
+    - "[[has_copyright_holder]]"
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
 dv_has_name: has_copyright_holder
-dv_has_range: Organization, Person
+dv_has_range:
+  - "[[../../../Society/Agent/Community/Organization|Organization]]"
+  - "[[../../../Society/Agent/Person|Person]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_copyright_holder|has_copyright_holder]]"
+  - "[[has_copyright_holder]]"
   - "[[/_public/schema-org/Relation/has/has_copyright_holder.public|has_copyright_holder.public]]"
   - "[[/_internal/schema-org/Relation/has/has_copyright_holder.internal|has_copyright_holder.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_copyright_holder.protect|has_copyright_holder.protect]]"
   - "[[/_private/schema-org/Relation/has/has_copyright_holder.private|has_copyright_holder.private]]"
   - "[[/_personal/schema-org/Relation/has/has_copyright_holder.personal|has_copyright_holder.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_copyright_holder.secret|has_copyright_holder.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_copyright_holder_of]]"
 ---
 
+# [[has_copyright_holder]] 
+
+is_a = `=this.dv_is_a` 
+#is_a_/relation 
+#class/Relation
+has_inverse = `=this.dv_has_inverse` 
+
 Use it like this: 
-- #has_/copyright_holder = `=this.dv_has_copyright_holder`  
-- has_copyright_holder = `=this.dv_has_copyright_holder`  
+- #has_/copyright_holder : :  `=this.dv_has_range` 
+- has_copyright_holder : : `=this.dv_has_range` 
+- is_copyright_holder_of : : `=this.dv_has_domain` 
+- #is_/copyright_holder_of : : `=this.dv_has_domain` 
 
 The party holding the legal copyright to the CreativeWork.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

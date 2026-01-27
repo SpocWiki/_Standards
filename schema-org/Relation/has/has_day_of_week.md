@@ -55,6 +55,13 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_day_of_week.secret|has_day_of_week.secret]]"
 ---
 
+# [[has_day_of_week]] 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/day_of_week = `=this.dv_has_day_of_week`  
 - has_day_of_week = `=this.dv_has_day_of_week`  

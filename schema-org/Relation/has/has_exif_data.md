@@ -54,6 +54,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_exif_data.secret|has_exif_data.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/exif_data = `=this.dv_has_exif_data`  
 - has_exif_data = `=this.dv_has_exif_data`  

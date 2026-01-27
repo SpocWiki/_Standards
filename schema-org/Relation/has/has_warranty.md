@@ -51,6 +51,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_warranty.secret|has_warranty.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/warranty = `=this.dv_has_warranty`  
 - has_warranty = `=this.dv_has_warranty`  

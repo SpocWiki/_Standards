@@ -27,6 +27,12 @@ title: is_closing_at
 type: Predi_Relation
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/closes :: Time  
 - is_/closing_at :: Time  

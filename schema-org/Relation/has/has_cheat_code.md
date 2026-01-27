@@ -3,6 +3,8 @@ aliases:
   - has cheat-code
   - has_cheat_code
   - has cheat code
+  - schema:cheatCode
+  - cheatCode
 confidential: public
 cssclasses:
   - Predicate
@@ -27,11 +29,12 @@ tags:
 title: has_cheat_code
 type: Predi_Relation
 dv_has_:
-  cheat_code: CreativeWork
-  domain: VideoGame, VideoGameSeries
+  domain:
+    - "[[../../../Society/Communication/Media/Creative_Work/Game/Video_Game|Video_Game]]"
+    - "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Video_Game_Series|Video_Game_Series]]"
   name: has_cheat_code
-  range: CreativeWork
-dv_has_cheat_code: CreativeWork
+  range: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
+  inverse: "[[is_cheat_code_of]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_cheat_code|has_cheat_code]]"
@@ -41,29 +44,41 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_cheat_code.private|has_cheat_code.private]]"
     - "[[/_personal/schema-org/Relation/has/has_cheat_code.personal|has_cheat_code.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_cheat_code.secret|has_cheat_code.secret]]"
-dv_has_domain: VideoGame, VideoGameSeries
+    - "[[has_cheat_code]]"
+dv_has_domain:
+  - "[[../../../Society/Communication/Media/Creative_Work/Game/Video_Game|Video_Game]]"
+  - "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Video_Game_Series|Video_Game_Series]]"
 dv_has_name: has_cheat_code
-dv_has_range: CreativeWork
+dv_has_range: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_cheat_code|has_cheat_code]]"
+  - "[[has_cheat_code]]"
   - "[[/_public/schema-org/Relation/has/has_cheat_code.public|has_cheat_code.public]]"
   - "[[/_internal/schema-org/Relation/has/has_cheat_code.internal|has_cheat_code.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_cheat_code.protect|has_cheat_code.protect]]"
   - "[[/_private/schema-org/Relation/has/has_cheat_code.private|has_cheat_code.private]]"
   - "[[/_personal/schema-org/Relation/has/has_cheat_code.personal|has_cheat_code.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_cheat_code.secret|has_cheat_code.secret]]"
+dv_has_inverse: "[[is_cheat_code_of]]"
 ---
 
+# [[has_cheat_code]] 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+has_inverse = `=this.dv_has_inverse` 
+
 Use it like this: 
-- #has_/cheat_code = `=this.dv_has_cheat_code`  
-- has_cheat_code = `=this.dv_has_cheat_code`  
+- #has_/cheat_code : : `=this.dv_has_range`   
+- has_cheat_code : : `=this.dv_has_range` 
+- is_cheat_code_of : : `=this.dv_has_domain` 
+- #is_/cheat_code_of : : `=this.dv_has_domain` 
 
 Cheat codes to the game.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

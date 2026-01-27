@@ -28,6 +28,12 @@ title: has_game_item
 type: Predi_Relation
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - [[Thing| #has_/game_item :: [Thing]] ] 
 - [[../../../Class/Thing.md| has_game_item :: [Thing]] ] 

@@ -24,6 +24,12 @@ title: has_identifier
 type: Predi_Relation
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/identifier :: PropertyValue, Text, URL  
 - [ has_identifier :: PropertyValue, Text, URL ] 

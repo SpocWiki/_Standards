@@ -53,6 +53,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/is/is_acquired_from.secret|is_acquired_from.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - is_acquired_from = `=this.dv_is_acquired_from`  
 - is_acquired_from = `=this.dv_is_acquired_from`  

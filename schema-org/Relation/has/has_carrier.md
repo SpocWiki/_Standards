@@ -58,6 +58,10 @@ dv_has_inverse: "[[is_carrier_of]]"
 
 # [[has_carrier]] 
 
+is_a :: [[../../Relation|Relation]]
+#is_a_/relation 
+#class/Relation
+
 has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 

@@ -62,6 +62,9 @@ dv_is_same_as:
 
 # [[has_category_code]] 
 
+is_a :: [[../../Relation|Relation]]
+#is_a_/relation 
+#class/Relation
 has_parent_property = `=this.dv_has_parent_property` 
 has_inverse = `=this.dv_has_inverse` 
 is_part_of = `=this.dv_is_part_of` 

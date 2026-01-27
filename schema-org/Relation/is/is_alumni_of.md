@@ -30,6 +30,12 @@ title: is_alumni_of
 type: Predi_Relation
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #is_/alumni_of :: EducationalOrganization, Organization  
 - is_/alumni_of :: EducationalOrganization, Organization  

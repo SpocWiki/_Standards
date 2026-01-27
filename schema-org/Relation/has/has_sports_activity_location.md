@@ -29,6 +29,12 @@ title: has_sports_activity_location
 type: Predi_Relation
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/sports_activity_location :: SportsActivityLocation  
 - [ has_sports_activity_location :: SportsActivityLocation ] 

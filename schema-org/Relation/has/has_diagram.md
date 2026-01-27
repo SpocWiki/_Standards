@@ -50,6 +50,13 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_diagram.secret|has_diagram.secret]]"
 ---
 
+# [[has_diagram]] 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/diagram = `=this.dv_has_diagram`  
 - has_diagram = `=this.dv_has_diagram`  

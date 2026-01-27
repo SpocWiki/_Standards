@@ -24,6 +24,13 @@ title: has_dataset
 type: Predi_Relation
 ---
 
+# [[has_dataset]] 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/dataset :: Dataset  
 - [ has_dataset :: Dataset ] 

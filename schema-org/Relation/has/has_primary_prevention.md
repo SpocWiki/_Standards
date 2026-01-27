@@ -54,6 +54,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_primary_prevention.secret|has_primary_prevention.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/primary_prevention = `=this.dv_has_primary_prevention`  
 - has_primary_prevention = `=this.dv_has_primary_prevention`  

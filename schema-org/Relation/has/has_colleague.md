@@ -24,11 +24,12 @@ tags:
 title: has_colleague
 type: Predi_Relation
 dv_has_:
-  colleague: Person, URL
-  domain: Person
+  domain: "[[../../../Society/Agent/Person|Person]]"
   name: has_colleague
-  range: Person, URL
-dv_has_colleague: Person, URL
+  range:
+    - "[[../../../Society/Agent/Person|Person]]"
+    - "[[../../Class/is_a_/Data_Type/Text/Url|Url]]"
+  inverse: "[[is_colleague_of]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_colleague|has_colleague]]"
@@ -38,29 +39,42 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_colleague.private|has_colleague.private]]"
     - "[[/_personal/schema-org/Relation/has/has_colleague.personal|has_colleague.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_colleague.secret|has_colleague.secret]]"
-dv_has_domain: Person
+    - "[[has_colleague]]"
+dv_has_domain: "[[../../../Society/Agent/Person|Person]]"
 dv_has_name: has_colleague
-dv_has_range: Person, URL
+dv_has_range:
+  - "[[../../../Society/Agent/Person|Person]]"
+  - "[[../../Class/is_a_/Data_Type/Text/Url|Url]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_colleague|has_colleague]]"
+  - "[[has_colleague]]"
   - "[[/_public/schema-org/Relation/has/has_colleague.public|has_colleague.public]]"
   - "[[/_internal/schema-org/Relation/has/has_colleague.internal|has_colleague.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_colleague.protect|has_colleague.protect]]"
   - "[[/_private/schema-org/Relation/has/has_colleague.private|has_colleague.private]]"
   - "[[/_personal/schema-org/Relation/has/has_colleague.personal|has_colleague.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_colleague.secret|has_colleague.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_colleague_of]]"
 ---
 
+# [[has_colleague]] 
+
+is_a = `=this.dv_is_a` 
+#is_a_/relation 
+#class/Relation
+has_inverse = `=this.dv_has_inverse` 
+
 Use it like this: 
-- #has_/colleague = `=this.dv_has_colleague`  
-- has_colleague = `=this.dv_has_colleague`  
+- #has_/colleague : : `=this.dv_has_range` 
+- has_colleague : : `=this.dv_has_range` 
+- is_colleague_of : : `=this.dv_has_domain` 
+- #is_/colleague_of : : `=this.dv_has_domain` 
 
 A colleague of the person.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

@@ -64,6 +64,10 @@ dv_has_inverse: "[[is_business_function_of]]"
 
 # [[has_business_function]] 
 
+is_a :: [[../../Relation|Relation]]
+#is_a_/relation 
+#class/Relation
+
 has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 

@@ -28,6 +28,12 @@ title: has_citation_in
 type: Predi_Relation
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #is_/cited_in :: CreativeWork, Text  
 - is_/cited_in :: CreativeWork, Text  

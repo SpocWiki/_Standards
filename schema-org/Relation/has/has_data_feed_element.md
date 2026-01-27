@@ -55,6 +55,13 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_data_feed_element.secret|has_data_feed_element.secret]]"
 ---
 
+# [[has_data_feed_element]] 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/data_feed_element = `=this.dv_has_data_feed_element`  
 - has_data_feed_element = `=this.dv_has_data_feed_element`  

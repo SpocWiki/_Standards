@@ -53,6 +53,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_publisher.secret|has_publisher.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/publisher = `=this.dv_has_publisher`  
 - has_publisher = `=this.dv_has_publisher`  

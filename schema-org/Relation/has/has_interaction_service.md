@@ -54,6 +54,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_interaction_service.secret|has_interaction_service.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/interaction_/service = `=this.dv_has_interaction_service`  
 - has_interaction_service = `=this.dv_has_interaction_service`  

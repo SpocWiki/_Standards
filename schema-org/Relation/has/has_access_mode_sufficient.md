@@ -3,7 +3,10 @@ aliases:
   - has_sufficient_access-mode
   - has_access_mode_sufficient
   - has_sufficient_access_mode
+  - schema:accessModeSufficient
+  - accessModeSufficient
   - has access mode sufficient
+  - has sufficient access mode 
 confidential: public
 cssclasses:
   - Predicate
@@ -55,7 +58,6 @@ dv_is_same_as:
 ---
 
 # [[has_access_mode_sufficient]] 
-
 
 #is_a :: [[../../Relation|Relation]]
 #is_a_/relation 

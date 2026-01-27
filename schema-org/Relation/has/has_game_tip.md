@@ -54,6 +54,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_game_tip.secret|has_game_tip.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/game_tip = `=this.dv_has_game_tip`  
 - has_game_tip = `=this.dv_has_game_tip`  

@@ -59,6 +59,10 @@ dv_has_inverse: "[[is_capital_of]]"
 
 # [[has_capital]] 
 
+is_a :: [[../../Relation|Relation]]
+#is_a_/relation 
+#class/Relation
+
 has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 

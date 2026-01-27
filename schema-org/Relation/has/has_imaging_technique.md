@@ -54,6 +54,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_imaging_technique.secret|has_imaging_technique.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/imaging_technique = `=this.dv_has_imaging_technique`  
 - has_imaging_technique = `=this.dv_has_imaging_technique`  

@@ -28,6 +28,12 @@ title: has_game_server
 type: Predi_Relation
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/game_server :: GameServer  
 - [ has_game_server :: GameServer ] 

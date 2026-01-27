@@ -26,6 +26,12 @@ title: is_referencing_order
 type: Predi_Relation
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #is_/referencing_order :: Order 
 - is_/referencing_order :: Order 

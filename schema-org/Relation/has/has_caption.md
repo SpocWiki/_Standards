@@ -66,13 +66,18 @@ dv_is_same_as:
 
 # [[has_caption]] 
 
+is_a :: [[../../Relation|Relation]]
+#is_a_/relation 
+#class/Relation
+
 has_child_property = `=this.dv_has_child_property` 
 has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/caption : : `=this.dv_has_range`  
 - has_caption : : `=this.dv_has_range` 
-- is_caption_of : : `=this.dv_has_domain`
+- is_caption_of : : `=this.dv_has_domain` 
+- #is_/caption_of : : `=this.dv_has_domain` 
 
 The caption for this object. For downloadable machine formats (closed caption, subtitles etc.) use [[../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]] and specify [[../../Property/Texts/has_encoding_format|has_encoding_format]].
 

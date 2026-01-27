@@ -54,6 +54,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_message_attachment.secret|has_message_attachment.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/message_attachment = `=this.dv_has_message_attachment`  
 - has_message_attachment = `=this.dv_has_message_attachment`  

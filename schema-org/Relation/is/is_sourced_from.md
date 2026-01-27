@@ -28,6 +28,12 @@ title: is_sourced_from
 type: Predi_Relation
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #is_/sourced_from :: BrainStructure  
 - is_/sourced_from :: BrainStructure  

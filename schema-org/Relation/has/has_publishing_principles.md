@@ -28,6 +28,12 @@ title: has_publishing_principles
 type: Predi_Relation
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/publishing_principles :: CreativeWork, URL  
 - [ has_publishing_principles :: CreativeWork, URL ] 

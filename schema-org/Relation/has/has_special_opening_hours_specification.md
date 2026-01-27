@@ -56,6 +56,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_special_opening_hours_specification.secret|has_special_opening_hours_specification.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/special_opening_hours_specification = `=this.dv_has_special_opening_hours_specification`  
 - has_special_opening_hours_specification = `=this.dv_has_special_opening_hours_specification`  

@@ -52,9 +52,15 @@ dv_is_same_as:
 
 # [[has_comment]] 
 
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: [[is_comment_on]] 
+
 Use it like this: 
-- #has_/comment = `=this.dv_has_comment`  
-- has_comment = `=this.dv_has_comment`  
+- #has_/comment : : `=this.dv_has_comment`  
+- has_comment : : `=this.dv_has_comment`  
+- is_comment_on : : `=this.dv_has_domain` 
 
 Comments, typically from users.
 

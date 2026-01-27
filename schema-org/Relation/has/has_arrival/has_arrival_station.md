@@ -52,6 +52,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_arrival_station.secret|has_arrival_station.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/arrival_station = `=this.dv_has_arrival_station`  
 - has_arrival_station = `=this.dv_has_arrival_station`  

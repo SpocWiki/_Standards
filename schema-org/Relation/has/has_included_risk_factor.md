@@ -55,6 +55,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_included_risk_factor.secret|has_included_risk_factor.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/included_risk_factor = `=this.dv_has_included_risk_factor`  
 - has_included_risk_factor = `=this.dv_has_included_risk_factor`  

@@ -2,6 +2,7 @@
 aliases:
   - has_away_team
   - has away team
+  - awayTeam 
 confidential: public
 cssclasses:
   - Predicate

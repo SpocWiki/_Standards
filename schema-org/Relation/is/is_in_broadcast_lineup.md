@@ -29,6 +29,12 @@ title: is_in_broadcast_lineup
 type: Predi_Relation
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #is_/in_broadcast_lineup :: CableOrSatelliteService  
 - is_/in_broadcast_lineup :: CableOrSatelliteService  

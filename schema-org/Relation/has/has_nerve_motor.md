@@ -54,6 +54,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_nerve_motor.secret|has_nerve_motor.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - #has_/nerve_motor = `=this.dv_has_nerve_motor`  
 - has_nerve_motor = `=this.dv_has_nerve_motor`  

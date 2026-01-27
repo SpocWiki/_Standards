@@ -51,6 +51,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/is/is_applying_to_payment_method.secret|is_applying_to_payment_method.secret]]"
 ---
 
+
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 Use it like this: 
 - is_applying_to_payment_method = `=this.dv_is_applying_to_payment_method`  
 - is_applying_to_payment_method = `=this.dv_is_applying_to_payment_method`  
