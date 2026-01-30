@@ -23,11 +23,9 @@ tags:
 title: has_error
 type: Predi_Relation
 dv_has_:
-  error: "[Thing](../../../Class/Thing)"
-  domain: Action
+  domain: "[[../../Class/is_a_/Action|Action]]"
   name: has_error
-  range: Thing
-dv_has_error: "[Thing](../../../Class/Thing)"
+  range: "[[../../Class/Thing|Thing]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_error|has_error]]"
@@ -37,9 +35,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_error.private|has_error.private]]"
     - "[[/_personal/schema-org/Relation/has/has_error.personal|has_error.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_error.secret|has_error.secret]]"
-dv_has_domain: Action
+dv_has_domain: "[[../../Class/is_a_/Action|Action]]"
 dv_has_name: has_error
-dv_has_range: Thing
+dv_has_range: "[[../../Class/Thing|Thing]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_error|has_error]]"
   - "[[/_public/schema-org/Relation/has/has_error.public|has_error.public]]"
@@ -50,23 +48,25 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_error.secret|has_error.secret]]"
 ---
 
+# [[has_error]] 
 
 is_a :: [[../../Relation|Relation]] 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[is_error_of]] 
 
 Use it like this: 
-- #has_/error = `=this.dv_has_error` (../../../Class/Thing) ] 
-- has_error = `=this.dv_has_error` (../../../Class/Thing) ] 
+- #has_/error : : `=this.dv_has_range` 
+- has_error : : `=this.dv_has_range` 
+- is_error_of : : `=this.dv_has_domain`  
+- #is_/error_of : : `=this.dv_has_domain`  
 
 For failed actions, more information on the cause of the failure.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
-has_name = `=this.dv_has_name` 
+has_name = `=this.dv_has_name`  
 has_range = `=this.dv_has_range` 
 
 

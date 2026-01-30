@@ -25,11 +25,14 @@ title: has_episode
 type: Predi_Relation
 dv_has_:
   parent_property: "[[../../Composite/has_parts]]"
-  episode: "[[../../../Society/Communication/Media/Creative_Work/Episode|Episode]]"
-  domain: ["[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Season|CreativeWorkSeason]]", "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Radio_Series|RadioSeries]]", "[[../../../Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series|TVSeries]]", "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Video_Game_Series|VideoGameSeries]]"]
+  domain:
+    - "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Season|CreativeWorkSeason]]"
+    - "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Radio_Series|RadioSeries]]"
+    - "[[../../../Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series|TVSeries]]"
+    - "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Video_Game_Series|VideoGameSeries]]"
   name: has_episode
   range: "[[../../../Society/Communication/Media/Creative_Work/Episode|Episode]]"
-dv_has_episode: "[[../../Class/is_a_/creative_work/episode|Episode]]"
+  inverse: "[[is_episode_of]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_episode|has_episode]]"
@@ -39,34 +42,43 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_episode.private|has_episode.private]]"
     - "[[/_personal/schema-org/Relation/has/has_episode.personal|has_episode.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_episode.secret|has_episode.secret]]"
-dv_has_domain: ["[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Season|CreativeWorkSeason]]", "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Radio_Series|RadioSeries]]", "[[../../../Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series|TVSeries]]", "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Video_Game_Series|VideoGameSeries]]"]
+    - "[[has_episode]]"
+dv_has_domain:
+  - "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Season|CreativeWorkSeason]]"
+  - "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Radio_Series|RadioSeries]]"
+  - "[[../../../Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series|TVSeries]]"
+  - "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Video_Game_Series|VideoGameSeries]]"
 dv_has_name: has_episode
 dv_has_range: "[[../../../Society/Communication/Media/Creative_Work/Episode|Episode]]"
 dv_has_parent_property: "[[../../Composite/has_parts]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_episode|has_episode]]"
+  - "[[has_episode]]"
   - "[[/_public/schema-org/Relation/has/has_episode.public|has_episode.public]]"
   - "[[/_internal/schema-org/Relation/has/has_episode.internal|has_episode.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_episode.protect|has_episode.protect]]"
   - "[[/_private/schema-org/Relation/has/has_episode.private|has_episode.private]]"
   - "[[/_personal/schema-org/Relation/has/has_episode.personal|has_episode.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_episode.secret|has_episode.secret]]"
+dv_has_inverse: "[[is_episode_of]]"
 ---
+
+# [[has_episode]] 
+
+has_parent_property = `=this.dv_has_parent_property` 
+has_inverse = `=this.dv_has_inverse` 
 
 An episode of a TV, radio or game media within a series or season.
 
 Use it like this: 
-- #has_/episode = `=this.dv_has_episode` ] ] 
-- has_episode = `=this.dv_has_episode` ] ] 
+- #has_/episode : : `=this.dv_has_range` 
+- has_episode : : `=this.dv_has_range` 
+- is_episode_of : : `=this.dv_has_domain` 
 
 [[../../Relation|Relation]] describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
-
-has_parent_property = `=this.dv_has_parent_property` 
 
 ## Confidential Links & Embeds: 
 

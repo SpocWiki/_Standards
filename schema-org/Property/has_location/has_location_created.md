@@ -57,6 +57,11 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Property/has_location/has_location_created.secret|has_location_created.secret]]"
 ---
 
+# [[has_location_created]] 
+
+#has_/inverse :: 
+#is_/similar_to :: [[../../Property/has_location/has_location_content|has_location_content]], [[../../Relation/has/has_country_of_origin|has_country_of_origin]] 
+
 Predicate to describe the geo of CreativeWork.
 
 Use it like this: 

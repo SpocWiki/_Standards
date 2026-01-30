@@ -8,7 +8,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -16,38 +16,70 @@ keywords:
   - business
   - entertainment_business
   - entertainmentBusiness
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_entertainment_business
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_entertainment_business
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_:
+  inverse: "[[is_entertainment_business_of]]"
+  parent_:
+    property: location
+  domain: "[[../../Class/is_a_/Action/Play_Action/Perform_Action|Perform_Action]]"
+  name: has_entertainment_business
+  range: "[[../../../Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business|Entertainment_Business]]"
+dv_is_:
+  same_as:
+    - "[[has_entertainment_business]]"
+    - "[[/_public/schema-org/Relation/has/has_entertainment_business.public|has_entertainment_business.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_entertainment_business.internal|has_entertainment_business.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_entertainment_business.protect|has_entertainment_business.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_entertainment_business.private|has_entertainment_business.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_entertainment_business.personal|has_entertainment_business.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_entertainment_business.secret|has_entertainment_business.secret]]"
+dv_has_inverse: "[[is_entertainment_business_of]]"
+dv_has_parent_property: location
+dv_has_domain: "[[../../Class/is_a_/Action/Play_Action/Perform_Action|Perform_Action]]"
+dv_has_name: has_entertainment_business
+dv_has_range: "[[../../../Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business|Entertainment_Business]]"
+dv_is_same_as:
+  - "[[has_entertainment_business]]"
+  - "[[/_public/schema-org/Relation/has/has_entertainment_business.public|has_entertainment_business.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_entertainment_business.internal|has_entertainment_business.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_entertainment_business.protect|has_entertainment_business.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_entertainment_business.private|has_entertainment_business.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_entertainment_business.personal|has_entertainment_business.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_entertainment_business.secret|has_entertainment_business.secret]]"
 ---
 
+# [[has_entertainment_business]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+has_inverse = `=this.dv_has_inverse` 
+has_parent_property = `=this.dv_has_parent_property` 
 
 Use it like this: 
-- #has_/entertainment_business :: EntertainmentBusiness  
-- [ has_entertainment_business :: EntertainmentBusiness ] 
+- #has_/entertainment_business : :  `=this.dv_has_range`   
+- has_entertainment_business : :  `=this.dv_has_range`  
+- is_entertainment_business_of : :  `=this.dv_has_domain` 
+- #is_/entertainment_business_of : :  `=this.dv_has_domain` 
 
-A sub property of location. The entertainment business where the action occurred.
+A sub property of location. 
+The entertainment business where the action occurred.
 
 Relation describes that: 
 
-#has_/domain  :: PerformAction  
-
-(has_/name :: has_entertainment_business )
-(has_/range :: EntertainmentBusiness )
-
-#has_/parent_/property  :: location  
+has_domain = `=this.dv_has_domain` 
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 ## Confidential Links & Embeds: 
 

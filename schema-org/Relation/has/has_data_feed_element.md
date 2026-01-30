@@ -28,11 +28,9 @@ tags:
 title: has_data_feed_element
 type: Predi_Relation
 dv_has_:
-  data_feed_element: DataFeedItem, Text, Thing
-  domain: DataFeed
+  domain: "[[../../../Society/Communication/Media/Creative_Work/Dataset/Data_Feed|DataFeed]]"
   name: has_data_feed_element
-  range: DataFeedItem, Text, Thing
-dv_has_data_feed_element: DataFeedItem, Text, Thing
+  range: ["[[../../Class/is_a_/Intangible/Data_Feed_Item|DataFeedItem]]", "[[../../Class/is_a_/Data_Type/Text|Text]]", "[[../../Class/Thing|Thing]]"]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_data_feed_element|has_data_feed_element]]"
@@ -42,9 +40,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_data_feed_element.private|has_data_feed_element.private]]"
     - "[[/_personal/schema-org/Relation/has/has_data_feed_element.personal|has_data_feed_element.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_data_feed_element.secret|has_data_feed_element.secret]]"
-dv_has_domain: DataFeed
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Dataset/Data_Feed|DataFeed]]" 
 dv_has_name: has_data_feed_element
-dv_has_range: DataFeedItem, Text, Thing
+dv_has_range: ["[[../../Class/is_a_/Intangible/Data_Feed_Item|DataFeedItem]]", "[[../../Class/is_a_/Data_Type/Text|Text]]", "[[../../Class/Thing|Thing]]"]
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_data_feed_element|has_data_feed_element]]"
   - "[[/_public/schema-org/Relation/has/has_data_feed_element.public|has_data_feed_element.public]]"
@@ -60,18 +58,19 @@ dv_is_same_as:
 is_a :: [[../../Relation|Relation]] 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[is_data_feed_element_of]]
 
 Use it like this: 
-- #has_/data_feed_element = `=this.dv_has_data_feed_element`  
-- has_data_feed_element = `=this.dv_has_data_feed_element`  
+- #has_/data_feed_element : : `=this.dv_has_range` 
+- has_data_feed_element : : `=this.dv_has_range` 
+- is_data_feed_element_of : : `=this.dv_has_domain` 
+- #is_/data_feed_/element_of : : `=this.dv_has_domain` 
 
 An item within a data feed. Data feeds may have many elements.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

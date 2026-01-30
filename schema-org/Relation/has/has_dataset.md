@@ -29,22 +29,20 @@ type: Predi_Relation
 is_a :: [[../../Relation|Relation]] 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse  :: [[../is/is_included_in_data_catalog|is_included_in_data_catalog]]  
 
 Use it like this: 
-- #has_/dataset :: Dataset  
-- [ has_dataset :: Dataset ] 
+- #has_/dataset : : Dataset  
+- has_dataset : : Dataset  
+- is_dataset_of : : 
 
 A dataset contained in this catalog.
 
 Relation describes that: 
 
-#has_/domain  :: DataCatalog  
-
+#has_/domain  :: [[../../../Society/Communication/Media/Creative_Work/Data_Catalog|DataCatalog]]  
 (has_/name :: has_dataset )
-(has_/range :: Dataset )
-
-#has_/inverse  :: [[../is/is_included_in_data_catalog]]  
+(has_/range :: [[../../../Society/Communication/Media/Creative_Work/Dataset|Dataset]] )
 
 ## Confidential Links & Embeds: 
 

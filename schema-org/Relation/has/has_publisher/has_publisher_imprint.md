@@ -28,6 +28,11 @@ title: has_publisher_imprint
 type: Predi_Relation
 ---
 
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 #is_/part_of :: https://bib.schema.org  
 
 Use it like this: 

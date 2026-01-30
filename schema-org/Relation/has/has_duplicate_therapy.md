@@ -27,11 +27,9 @@ tags:
 title: has_duplicate_therapy
 type: Predi_Relation
 dv_has_:
-  duplicate_therapy: MedicalTherapy
-  domain: MedicalTherapy
+  domain: "[[../../../bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Therapy|Medical_Therapy]]"
   name: has_duplicate_therapy
-  range: MedicalTherapy
-dv_has_duplicate_therapy: MedicalTherapy
+  range: "[[../../../bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Therapy|Medical_Therapy]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_duplicate_therapy|has_duplicate_therapy]]"
@@ -41,9 +39,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_duplicate_therapy.private|has_duplicate_therapy.private]]"
     - "[[/_personal/schema-org/Relation/has/has_duplicate_therapy.personal|has_duplicate_therapy.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_duplicate_therapy.secret|has_duplicate_therapy.secret]]"
-dv_has_domain: MedicalTherapy
+dv_has_domain: "[[../../../bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Therapy|Medical_Therapy]]"
 dv_has_name: has_duplicate_therapy
-dv_has_range: MedicalTherapy
+dv_has_range: "[[../../../bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Therapy|Medical_Therapy]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_duplicate_therapy|has_duplicate_therapy]]"
   - "[[/_public/schema-org/Relation/has/has_duplicate_therapy.public|has_duplicate_therapy.public]]"
@@ -54,22 +52,23 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_duplicate_therapy.secret|has_duplicate_therapy.secret]]"
 ---
 
+# [[has_duplicate_therapy]] 
 
 is_a :: [[../../Relation|Relation]] 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[is_duplicate_therapy_of]]  
 
 Use it like this: 
-- #has_/duplicate_therapy = `=this.dv_has_duplicate_therapy`  
-- has_duplicate_therapy = `=this.dv_has_duplicate_therapy`  
+- #has_/duplicate_therapy : : `=this.dv_has_range`   
+- has_duplicate_therapy : :  `=this.dv_has_range`   
+- is_duplicate_therapy_of : : `=this.dv_has_domain` 
 
 A therapy that duplicates or overlaps this one.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

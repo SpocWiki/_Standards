@@ -26,6 +26,11 @@ title: has_provider
 type: Predi_Relation
 ---
 
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 #is_/part_of :: pending:  
 
 #has_/inverse :: [[has_consumers]] 

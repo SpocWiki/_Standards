@@ -27,6 +27,11 @@ title: has_location_content
 type: Pred_geo
 ---
 
+# [[has_location_content]] 
+
+#has_/inverse :: 
+#is_/similar_to :: [[../../Property/has_location/has_location_created|has_location_created]], [[../../Relation/has/has_country_of_origin|has_country_of_origin]] 
+
 Predicate to describe the geo of CreativeWork.
 
 Use it like this: 

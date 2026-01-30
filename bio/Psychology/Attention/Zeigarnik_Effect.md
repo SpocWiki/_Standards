@@ -10,8 +10,9 @@ aliases:
 
 ## #has_/text_of_/abstract 
 
-> In psychology, the **Zeigarnik effect** (named after Lithuanian-Soviet psychologist Bluma Zeigarnik) 
-> postulates that people remember unfinished or interrupted tasks better than completed tasks. 
+> In psychology, the **Zeigarnik effect** 
+> (named after Lithuanian-Soviet psychologist Bluma Zeigarnik) 
+> postulates that people **remember unfinished or interrupted tasks better** than completed tasks. 
 > 
 > In Gestalt psychology, the Zeigarnik effect has been used to 
 > demonstrate the general presence of Gestalt phenomena: 
@@ -24,6 +25,7 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Zeigarnik%20effect) 
 
+Bluma Zeigarnik observed that waiters keep unpaid orders in mind better than paid. 
 
 ## Confidential Links & Embeds: 
 

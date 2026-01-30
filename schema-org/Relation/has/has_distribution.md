@@ -23,11 +23,10 @@ tags:
 title: has_distribution
 type: Predi_Relation
 dv_has_:
-  distribution: DataDownload
-  domain: Dataset
+  domain: "[[../../../Society/Communication/Media/Creative_Work/Dataset|Dataset]]"
   name: has_distribution
-  range: DataDownload
-dv_has_distribution: DataDownload
+  range: "[[../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Data_Download|Data_Download]]"
+  inverse: "[[is_distribution_of]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_distribution|has_distribution]]"
@@ -37,35 +36,44 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_distribution.private|has_distribution.private]]"
     - "[[/_personal/schema-org/Relation/has/has_distribution.personal|has_distribution.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_distribution.secret|has_distribution.secret]]"
-dv_has_domain: Dataset
+    - "[[has_distribution]]"
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Dataset|Dataset]]"
 dv_has_name: has_distribution
-dv_has_range: DataDownload
+dv_has_range: "[[../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Data_Download|Data_Download]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_distribution|has_distribution]]"
+  - "[[has_distribution]]"
   - "[[/_public/schema-org/Relation/has/has_distribution.public|has_distribution.public]]"
   - "[[/_internal/schema-org/Relation/has/has_distribution.internal|has_distribution.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_distribution.protect|has_distribution.protect]]"
   - "[[/_private/schema-org/Relation/has/has_distribution.private|has_distribution.private]]"
   - "[[/_personal/schema-org/Relation/has/has_distribution.personal|has_distribution.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_distribution.secret|has_distribution.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_distribution_of]]"
 ---
 
+# [[has_distribution]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
-- #has_/distribution = `=this.dv_has_distribution`  
-- has_distribution = `=this.dv_has_distribution`  
+- #has_/distribution : : `=this.dv_has_range`   
+- has_distribution : :  `=this.dv_has_range` 
+- is_distribution_of : : `=this.dv_has_domain`  
+- #is_/distribution_of : : `=this.dv_has_domain`  
 
-A downloadable form of this dataset, at a specific location, in a specific format. This property can be repeated if different variations are available. There is no expectation that different downloadable distributions must contain exactly equivalent information (see also [DCAT](https://www.w3.org/TR/vocab-dcat-3/#Class:Distribution) on this point). Different distributions might include or exclude different subsets of the entire dataset, for example.
+A downloadable form of this dataset, at a specific location, in a specific format. 
+This property can be repeated if different variations are available. 
+There is no expectation that different downloadable distributions 
+must contain exactly equivalent information (see also [DCAT](https://www.w3.org/TR/vocab-dcat-3/#Class:Distribution) on this point). 
+Different distributions might include or exclude different subsets of the entire dataset, for example.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

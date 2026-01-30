@@ -28,11 +28,12 @@ tags:
 title: has_drive_wheel_configuration
 type: Predi_Relation
 dv_has_:
-  drive_wheel_configuration: DriveWheelConfigurationValue, Text
-  domain: Vehicle
+  domain: "[[../../../Technology/Transport/Vehicle|Vehicle]]"
   name: has_drive_wheel_configuration
-  range: DriveWheelConfigurationValue, Text
-dv_has_drive_wheel_configuration: DriveWheelConfigurationValue, Text
+  range:
+    - "[[../../Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value|Drive_Wheel_Configuration_Value]]"
+    - "[[../../Class/is_a_/Data_Type/Text|Text]]"
+  inverse: "[[is_drive_wheel_configuration_of]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_drive_wheel_configuration|has_drive_wheel_configuration]]"
@@ -42,35 +43,42 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_drive_wheel_configuration.private|has_drive_wheel_configuration.private]]"
     - "[[/_personal/schema-org/Relation/has/has_drive_wheel_configuration.personal|has_drive_wheel_configuration.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_drive_wheel_configuration.secret|has_drive_wheel_configuration.secret]]"
-dv_has_domain: Vehicle
+    - "[[has_drive_wheel_configuration]]"
+dv_has_domain: "[[../../../Technology/Transport/Vehicle|Vehicle]]"
 dv_has_name: has_drive_wheel_configuration
-dv_has_range: DriveWheelConfigurationValue, Text
+dv_has_range:
+  - "[[../../Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value|Drive_Wheel_Configuration_Value]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_drive_wheel_configuration|has_drive_wheel_configuration]]"
+  - "[[has_drive_wheel_configuration]]"
   - "[[/_public/schema-org/Relation/has/has_drive_wheel_configuration.public|has_drive_wheel_configuration.public]]"
   - "[[/_internal/schema-org/Relation/has/has_drive_wheel_configuration.internal|has_drive_wheel_configuration.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_drive_wheel_configuration.protect|has_drive_wheel_configuration.protect]]"
   - "[[/_private/schema-org/Relation/has/has_drive_wheel_configuration.private|has_drive_wheel_configuration.private]]"
   - "[[/_personal/schema-org/Relation/has/has_drive_wheel_configuration.personal|has_drive_wheel_configuration.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_drive_wheel_configuration.secret|has_drive_wheel_configuration.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_drive_wheel_configuration_of]]"
 ---
 
+# [[has_drive_wheel_configuration]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
-- #has_/drive_wheel_configuration = `=this.dv_has_drive_wheel_configuration`  
-- has_drive_wheel_configuration = `=this.dv_has_drive_wheel_configuration`  
+- #has_/drive_wheel_configuration : : `=this.dv_has_range` 
+- has_drive_wheel_configuration : : `=this.dv_has_range`
+- is_drive_wheel_configuration_of : : `=this.dv_has_domain` 
+- #is_/drive_wheel_configuration_of : : `=this.dv_has_domain` 
 
 The drive wheel configuration, i.e. which roadwheels will receive torque from the vehicle's engine via the drivetrain.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

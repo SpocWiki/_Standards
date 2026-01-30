@@ -9,7 +9,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -18,39 +18,80 @@ keywords:
   - status
   - creative_work_status
   - creativeWorkStatus
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_creative_work_status
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_creative_work_status
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_:
+  inverse: "[[is_status_of_creative_work]]"
+  domain: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
+  name: has_creative_work_status
+  range:
+    - "[[../../Class/is_a_/Intangible/Defined_Term|Defined_Term]]"
+    - "[[../../Class/is_a_/Data_Type/Text|Text]]"
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[has_creative_work_status]]"
+    - "[[/_public/schema-org/Relation/has/has_creative_work_status.public|has_creative_work_status.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_creative_work_status.internal|has_creative_work_status.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_creative_work_status.protect|has_creative_work_status.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_creative_work_status.private|has_creative_work_status.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_creative_work_status.personal|has_creative_work_status.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_creative_work_status.secret|has_creative_work_status.secret]]"
+dv_has_inverse: "[[is_status_of_creative_work]]"
+dv_is_part_of: "pending:"
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
+dv_has_name: has_creative_work_status
+dv_has_range:
+  - "[[../../Class/is_a_/Intangible/Defined_Term|Defined_Term]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
+dv_is_same_as:
+  - "[[has_creative_work_status]]"
+  - "[[/_public/schema-org/Relation/has/has_creative_work_status.public|has_creative_work_status.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_creative_work_status.internal|has_creative_work_status.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_creative_work_status.protect|has_creative_work_status.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_creative_work_status.private|has_creative_work_status.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_creative_work_status.personal|has_creative_work_status.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_creative_work_status.secret|has_creative_work_status.secret]]"
 ---
 
 # [[has_creative_work_status]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+has_inverse = `=this.dv_has_inverse` 
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/creative_work_status :: DefinedTerm, Text  
-- [ has_creative_work_status :: DefinedTerm, Text ] 
+- #has_/creative_work_status : : `=this.dv_has_range` 
+- has_creative_work_status : : `=this.dv_has_range` 
+- is_status_of_creative_work : : `=this.dv_has_domain` 
+- #is_/status_of_/creative_work : : `=this.dv_has_domain` 
 
-The status of a creative work in terms of its stage in a lifecycle. Example terms include Incomplete, Draft, Published, Obsolete. Some organizations define a set of terms for the stages of their publication lifecycle.
+The status of a creative work in terms of its stage in a lifecycle. 
+Example terms include 
+- Incomplete, 
+- Draft, 
+- Published, 
+- Obsolete. 
+
+Some organizations define a set of terms for the stages of their publication lifecycle.
 
 Relation describes that: 
 
-#has_/domain  :: CreativeWork  
-
-(has_/name :: has_creative_work_status )
-(has_/range :: DefinedTerm, Text )
+has_domain = `=this.dv_has_domain` 
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

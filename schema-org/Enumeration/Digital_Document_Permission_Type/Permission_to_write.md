@@ -6,6 +6,7 @@ aliases:
   - is_a_write_permission
   - Write_Permission
   - Write Permission
+  - Permission to Write
 confidential: public
 cssclasses:
   - Type
@@ -31,7 +32,7 @@ dv_has_:
 dv_is_:
   enum_of: "[[../DigitalDocumentPermissionType]]"
   same_as:
-    - "[[/_Standards/schema-org/Enumeration/Digital_Document_Permission_Type/Write_Permission|Write_Permission]]"
+    - "[[Permission_to_write|Permission to Write]]"
     - "[[/_public/schema-org/Enumeration/Digital_Document_Permission_Type/Write_Permission.public|Write_Permission.public]]"
     - "[[/_internal/schema-org/Enumeration/Digital_Document_Permission_Type/Write_Permission.internal|Write_Permission.internal]]"
     - "[[/_protect/schema-org/Enumeration/Digital_Document_Permission_Type/Write_Permission.protect|Write_Permission.protect]]"
@@ -41,7 +42,7 @@ dv_is_:
 dv_has_parent_class: "[[../DigitalDocumentPermissionType]]"
 dv_is_enum_of: "[[../DigitalDocumentPermissionType]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Digital_Document_Permission_Type/Write_Permission|Write_Permission]]"
+  - "[[Permission_to_write|Permission to Write]]"
   - "[[/_public/schema-org/Enumeration/Digital_Document_Permission_Type/Write_Permission.public|Write_Permission.public]]"
   - "[[/_internal/schema-org/Enumeration/Digital_Document_Permission_Type/Write_Permission.internal|Write_Permission.internal]]"
   - "[[/_protect/schema-org/Enumeration/Digital_Document_Permission_Type/Write_Permission.protect|Write_Permission.protect]]"
@@ -63,7 +64,7 @@ is_enum_of = `=this.dv_is_enum_of`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Digital_Document_Permission_Type/Write_Permission|Write_Permission]] 
+### #is_/same_as :: [[Permission_to_write|Permission to Write]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Enumeration/Digital_Document_Permission_Type/Write_Permission.public|Write_Permission.public]] 
 

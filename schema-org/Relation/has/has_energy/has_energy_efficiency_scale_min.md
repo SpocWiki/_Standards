@@ -30,11 +30,16 @@ title: has_energy_efficiency_scale_min
 type: Predi_Relation
 ---
 
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 #is_/part_of :: pending:  
 
 Use it like this: 
-- #has_/energy_efficiency_scale_min :: EUEnergyEfficiencyEnumeration  
-- [ has_energy_efficiency_scale_min :: EUEnergyEfficiencyEnumeration ] 
+- #has_/energy_/efficiency_/scale_/min : : EUEnergyEfficiencyEnumeration  
+- has_energy_efficiency_scale_min : : EUEnergyEfficiencyEnumeration ] 
 
 Specifies the least energy efficient class on the regulated EU energy consumption scale for the product category a product belongs to. For example, energy consumption for televisions placed on the market after 2020-01-01 is scaled from D to A+++.
 

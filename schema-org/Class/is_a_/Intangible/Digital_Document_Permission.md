@@ -49,6 +49,8 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.secret|Digital_Document_Permission.secret]]"
 ---
 
+# [[Digital_Document_Permission]] 
+
 Class of all digital_document_permissions.
 
 Tag Instances like this: 

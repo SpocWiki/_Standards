@@ -4,14 +4,14 @@ aliases:
   - included_in_data_catalog
   - includedInDataCatalog
   - is_included_in_data_catalog
-  - is_included_in_data_catalog
   - is included in data catalog
+  - is_dataset_of
 confidential: public
 cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -19,11 +19,11 @@ keywords:
   - in
   - data
   - catalog
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_included_in_data_catalog
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
@@ -34,7 +34,6 @@ type: Predi_Relation
 # [[is_included_in_data_catalog]] 
 
 #has_/inverse  :: [[../has/has_dataset|has_dataset]]   
-
 #supersedes :: "[[has_catalog]]", "[[is_included_in_data_catalog]]"
 
 Use it like this: 

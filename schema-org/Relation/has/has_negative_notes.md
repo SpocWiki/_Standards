@@ -30,6 +30,11 @@ title: has_negative_notes
 type: Predi_Relation
 ---
 
+is_a :: [[../../Relation|Relation]] 
+#is_a_/relation 
+#class/Relation
+#has_/inverse :: 
+
 #is_/part_of :: pending:  
 
 #is_/similar_to :: #has_/result_/negative 

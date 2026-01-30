@@ -27,11 +27,9 @@ tags:
 title: has_css_selector
 type: Predi_Relation
 dv_has_:
-  css_selector: CssSelectorType
-  domain: SpeakableSpecification, WebPageElement
+  domain: ["[[../../Class/is_a_/Intangible/Speakable_Specification|Speakable_Specification]]", "[[../../../Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element|Web_Page_Element]]"]
   name: has_css_selector
-  range: CssSelectorType
-dv_has_css_selector: CssSelectorType
+  range: "[[../../Class/is_a_/Data_Type/Text/Css_Selector_Type|Css_Selector_Type]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_css_selector|has_css_selector]]"
@@ -41,9 +39,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_css_selector.private|has_css_selector.private]]"
     - "[[/_personal/schema-org/Relation/has/has_css_selector.personal|has_css_selector.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_css_selector.secret|has_css_selector.secret]]"
-dv_has_domain: SpeakableSpecification, WebPageElement
+dv_has_domain: ["[[../../Class/is_a_/Intangible/Speakable_Specification|Speakable_Specification]]", "[[../../../Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element|Web_Page_Element]]"]
 dv_has_name: has_css_selector
-dv_has_range: CssSelectorType
+dv_has_range: "[[../../Class/is_a_/Data_Type/Text/Css_Selector_Type|Css_Selector_Type]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_css_selector|has_css_selector]]"
   - "[[/_public/schema-org/Relation/has/has_css_selector.public|has_css_selector.public]]"
@@ -59,18 +57,21 @@ dv_is_same_as:
 is_a :: [[../../Relation|Relation]] 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[is_css_selector_for]] 
 
 Use it like this: 
-- #has_/css_selector = `=this.dv_has_css_selector`  
-- has_css_selector = `=this.dv_has_css_selector`  
+- #has_/css_selector = `=this.dv_has_range` 
+- has_css_selector = `=this.dv_has_range` 
+- is_css_selector_for = `=this.dv_has_domain` 
+- #is_/css_selector_for = `=this.dv_has_domain` 
 
-A CSS selector, e.g. of a [[SpeakableSpecification]] or [[WebPageElement]]. In the latter case, multiple matches within a page can constitute a single conceptual "Web page element".
+A CSS selector, e.g. of a [[../../Class/is_a_/Intangible/Speakable_Specification|Speakable_Specification]] or [[../../../Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element|Web_Page_Element]]. 
+In the latter case, multiple matches within a page 
+can constitute a single conceptual "Web page element".
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

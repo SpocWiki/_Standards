@@ -6,6 +6,7 @@ aliases:
   - is_a_read_permission
   - Read_Permission
   - Read Permission
+  - Permission to read
 confidential: public
 cssclasses:
   - Type
@@ -31,7 +32,7 @@ dv_has_:
 dv_is_:
   enum_of: "[[../DigitalDocumentPermissionType]]"
   same_as:
-    - "[[/_Standards/schema-org/Enumeration/Digital_Document_Permission_Type/Read_Permission|Read_Permission]]"
+    - "[[Permission_to_read|Permission_to_Read]]"
     - "[[/_public/schema-org/Enumeration/Digital_Document_Permission_Type/Read_Permission.public|Read_Permission.public]]"
     - "[[/_internal/schema-org/Enumeration/Digital_Document_Permission_Type/Read_Permission.internal|Read_Permission.internal]]"
     - "[[/_protect/schema-org/Enumeration/Digital_Document_Permission_Type/Read_Permission.protect|Read_Permission.protect]]"
@@ -41,7 +42,7 @@ dv_is_:
 dv_has_parent_class: "[[../DigitalDocumentPermissionType]]"
 dv_is_enum_of: "[[../DigitalDocumentPermissionType]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Digital_Document_Permission_Type/Read_Permission|Read_Permission]]"
+  - "[[Permission_to_read|Permission_to_Read]]"
   - "[[/_public/schema-org/Enumeration/Digital_Document_Permission_Type/Read_Permission.public|Read_Permission.public]]"
   - "[[/_internal/schema-org/Enumeration/Digital_Document_Permission_Type/Read_Permission.internal|Read_Permission.internal]]"
   - "[[/_protect/schema-org/Enumeration/Digital_Document_Permission_Type/Read_Permission.protect|Read_Permission.protect]]"
@@ -63,7 +64,7 @@ is_enum_of = `=this.dv_is_enum_of`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Digital_Document_Permission_Type/Read_Permission|Read_Permission]] 
+### #is_/same_as :: [[Permission_to_read|Permission_to_Read]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Enumeration/Digital_Document_Permission_Type/Read_Permission.public|Read_Permission.public]] 
 

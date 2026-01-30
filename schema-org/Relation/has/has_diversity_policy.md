@@ -8,38 +8,83 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - diversity
   - policy
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_diversity_policy
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_diversity_policy
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_:
+  inverse: is_diversity_policy_of
+  domain:
+    - "[[../../../Society/Agent/Community/Organization/News_Media_Organization|News_Media_Organization]]"
+    - "[[../../../Society/Agent/Community/Organization|Organization]]"
+  name: has_diversity_policy
+  range:
+    - "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
+    - "[[../../Class/is_a_/Data_Type/Text/Url|Url]]"
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[has_diversity_policy]]"
+    - "[[/_public/schema-org/Relation/has/has_diversity_policy.public|has_diversity_policy.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_diversity_policy.internal|has_diversity_policy.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_diversity_policy.protect|has_diversity_policy.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_diversity_policy.private|has_diversity_policy.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_diversity_policy.personal|has_diversity_policy.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_diversity_policy.secret|has_diversity_policy.secret]]"
+dv_has_inverse: is_diversity_policy_of
+dv_is_part_of: "pending:"
+dv_has_domain:
+  - "[[../../../Society/Agent/Community/Organization/News_Media_Organization|News_Media_Organization]]"
+  - "[[../../../Society/Agent/Community/Organization|Organization]]"
+dv_has_name: has_diversity_policy
+dv_has_range:
+  - "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
+  - "[[../../Class/is_a_/Data_Type/Text/Url|Url]]"
+dv_is_same_as:
+  - "[[has_diversity_policy]]"
+  - "[[/_public/schema-org/Relation/has/has_diversity_policy.public|has_diversity_policy.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_diversity_policy.internal|has_diversity_policy.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_diversity_policy.protect|has_diversity_policy.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_diversity_policy.private|has_diversity_policy.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_diversity_policy.personal|has_diversity_policy.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_diversity_policy.secret|has_diversity_policy.secret]]"
 ---
 
-#is_/part_of :: pending:  
+is_a = `=this.dv_is_a` 
+#is_a_/relation 
+#class/Relation
+has_inverse = `=this.dv_has_inverse` 
+
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/diversity_policy :: CreativeWork, URL  
-- [ has_diversity_policy :: CreativeWork, URL ] 
+- #has_/diversity_policy : : `=this.dv_has_range`    
+- has_diversity_policy : : `=this.dv_has_range`   
+- is_diversity_policy_of : : `=this.dv_has_domain`  
+- #is_/diversity_policy_of : : `=this.dv_has_domain`  
 
-Statement on diversity policy by an [[../../../Society/Agent/Community/Organization]] e.g. a [[NewsMediaOrganization]]. For a [[NewsMediaOrganization]], a statement describing the newsroom�s diversity policy on both staffing and sources, typically providing staffing data.
+Statement on diversity policy by an [[../../../Society/Agent/Community/Organization|Organization]] e.g. a [[../../../Society/Agent/Community/Organization/News_Media_Organization|News_Media_Organization]]. 
+For a [[../../../Society/Agent/Community/Organization/News_Media_Organization|News_Media_Organization]], a statement describing the newsroom's diversity policy 
+on both staffing and sources, typically providing staffing data.
 
 Relation describes that: 
 
-#has_/domain  :: NewsMediaOrganization, Organization  
-
-(has_/name :: has_diversity_policy )
-(has_/range :: CreativeWork, URL )
+has_domain  :: [[../../../Society/Agent/Community/Organization/News_Media_Organization|News_Media_Organization]], [[../../../Society/Agent/Community/Organization|Organization]]  
+has_name = `=this.dv_has_name` 
+has_range :: [[../../../Society/Communication/Media/Creative_Work|Creative_Work]], [[../../Class/is_a_/Data_Type/Text/Url|Url]] 
 
 
 ## Confidential Links & Embeds: 

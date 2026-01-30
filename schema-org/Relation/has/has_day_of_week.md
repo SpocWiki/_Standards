@@ -28,11 +28,12 @@ tags:
 title: has_day_of_week
 type: Predi_Relation
 dv_has_:
-  day_of_week: DayOfWeek
-  domain: EducationalOccupationalProgram, OpeningHoursSpecification
+  domain:
+    - "[[../../Class/is_a_/Intangible/Educational_Occupational_Program|Educational_Occupational_Program]]"
+    - "[[has_opening_hours_specification|has_opening_hours_specification]]"
   name: has_day_of_week
-  range: DayOfWeek
-dv_has_day_of_week: DayOfWeek
+  range: "[[../../../Dimension/Unit_of_Measure/SI-Unit/derived_Unit/Unit~Time/Day_of_Week|Day_of_Week]]"
+  inverse: "[[is_day_of_week_for]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_day_of_week|has_day_of_week]]"
@@ -42,29 +43,36 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_day_of_week.private|has_day_of_week.private]]"
     - "[[/_personal/schema-org/Relation/has/has_day_of_week.personal|has_day_of_week.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_day_of_week.secret|has_day_of_week.secret]]"
-dv_has_domain: EducationalOccupationalProgram, OpeningHoursSpecification
+    - "[[has_day_of_week]]"
+dv_has_domain:
+  - "[[../../Class/is_a_/Intangible/Educational_Occupational_Program|Educational_Occupational_Program]]"
+  - "[[has_opening_hours_specification|has_opening_hours_specification]]"
 dv_has_name: has_day_of_week
-dv_has_range: DayOfWeek
+dv_has_range: "[[../../../Dimension/Unit_of_Measure/SI-Unit/derived_Unit/Unit~Time/Day_of_Week|Day_of_Week]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_day_of_week|has_day_of_week]]"
+  - "[[has_day_of_week]]"
   - "[[/_public/schema-org/Relation/has/has_day_of_week.public|has_day_of_week.public]]"
   - "[[/_internal/schema-org/Relation/has/has_day_of_week.internal|has_day_of_week.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_day_of_week.protect|has_day_of_week.protect]]"
   - "[[/_private/schema-org/Relation/has/has_day_of_week.private|has_day_of_week.private]]"
   - "[[/_personal/schema-org/Relation/has/has_day_of_week.personal|has_day_of_week.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_day_of_week.secret|has_day_of_week.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_day_of_week_for]]"
 ---
 
 # [[has_day_of_week]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
-- #has_/day_of_week = `=this.dv_has_day_of_week`  
-- has_day_of_week = `=this.dv_has_day_of_week`  
+- #has_/day_of_week : : `=this.dv_has_range` 
+- has_day_of_week : : `=this.dv_has_range` 
+- is_day_of_week_for : : `=this.dv_has_domain` 
+- #is_/day_of_week_for : : `=this.dv_has_domain` 
 
 The day of the week for which these opening hours are valid.
 

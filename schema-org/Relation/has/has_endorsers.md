@@ -23,11 +23,9 @@ tags:
 title: has_endorsers
 type: Predi_Relation
 dv_has_:
-  endorsers: Organization, Person
-  domain: Diet
+  domain: "[[../../../Society/Economics/Home_Economics/Cooking/Food/Diet|Diet]]"
   name: has_endorsers
-  range: Organization, Person
-dv_has_endorsers: Organization, Person
+  range: ["[[../../../Society/Agent/Community/Organization|Organization]]", "[[../../../Society/Agent/Person|Person]]"]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_endorsers|has_endorsers]]"
@@ -37,9 +35,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_endorsers.private|has_endorsers.private]]"
     - "[[/_personal/schema-org/Relation/has/has_endorsers.personal|has_endorsers.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_endorsers.secret|has_endorsers.secret]]"
-dv_has_domain: Diet
+dv_has_domain: "[[../../../Society/Economics/Home_Economics/Cooking/Food/Diet|Diet]]"
 dv_has_name: has_endorsers
-dv_has_range: Organization, Person
+dv_has_range: ["[[../../../Society/Agent/Community/Organization|Organization]]", "[[../../../Society/Agent/Person|Person]]"]
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_endorsers|has_endorsers]]"
   - "[[/_public/schema-org/Relation/has/has_endorsers.public|has_endorsers.public]]"
@@ -54,11 +52,12 @@ dv_is_same_as:
 is_a :: [[../../Relation|Relation]] 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[is_endorser_of]]
 
 Use it like this: 
-- #has_/endorsers = `=this.dv_has_endorsers`  
-- has_endorsers = `=this.dv_has_endorsers`  
+- #has_/endorsers : : `=this.dv_has_range`
+- has_endorsers : : `=this.dv_has_range`
+- is_endorser_of : : 
 
 People or organizations that endorse the plan.
 

@@ -8,7 +8,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,34 +17,77 @@ keywords:
   - statistics
   - disease_spread_statistics
   - diseaseSpreadStatistics
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_disease_spread_statistics
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_disease_spread_statistics
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_:
+  inverse: "[[is_disease_spread_statistics_of]]"
+  domain: "[[../../../Society/Communication/Media/Creative_Work/Special_Announcement|Special_Announcement]]"
+  name: has_disease_spread_statistics
+  range:
+    - "[[../../../Society/Communication/Media/Creative_Work/Dataset|Dataset]]"
+    - "[[../../Class/is_a_/Intangible/Observation|Observation]]"
+    - "[[../../Class/is_a_/Data_Type/Text/Url|Url]]"
+    - "[[../../../Society/Communication/Media/Creative_Work/Web_Content|Web_Content]]"
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[has_disease_spread_statistics]]"
+    - "[[/_public/schema-org/Relation/has/has_disease_spread_statistics.public|has_disease_spread_statistics.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_disease_spread_statistics.internal|has_disease_spread_statistics.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_disease_spread_statistics.protect|has_disease_spread_statistics.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_disease_spread_statistics.private|has_disease_spread_statistics.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_disease_spread_statistics.personal|has_disease_spread_statistics.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_disease_spread_statistics.secret|has_disease_spread_statistics.secret]]"
+dv_has_inverse: "[[is_disease_spread_statistics_of]]"
+dv_is_part_of: "pending:"
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Special_Announcement|Special_Announcement]]"
+dv_has_name: has_disease_spread_statistics
+dv_has_range:
+  - "[[../../../Society/Communication/Media/Creative_Work/Dataset|Dataset]]"
+  - "[[../../Class/is_a_/Intangible/Observation|Observation]]"
+  - "[[../../Class/is_a_/Data_Type/Text/Url|Url]]"
+  - "[[../../../Society/Communication/Media/Creative_Work/Web_Content|Web_Content]]"
+dv_is_same_as:
+  - "[[has_disease_spread_statistics]]"
+  - "[[/_public/schema-org/Relation/has/has_disease_spread_statistics.public|has_disease_spread_statistics.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_disease_spread_statistics.internal|has_disease_spread_statistics.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_disease_spread_statistics.protect|has_disease_spread_statistics.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_disease_spread_statistics.private|has_disease_spread_statistics.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_disease_spread_statistics.personal|has_disease_spread_statistics.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_disease_spread_statistics.secret|has_disease_spread_statistics.secret]]"
 ---
 
-#is_/part_of :: pending:  
+is_a = `=this.dv_is_a` 
+#is_a_/relation 
+#class/Relation
+has_inverse = `=this.dv_has_inverse` 
+
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/disease_spread_statistics :: Dataset, Observation, URL, WebContent  
-- [ has_disease_spread_statistics :: Dataset, Observation, URL, WebContent ] 
+- #has_/disease_spread_statistics : : `=this.dv_has_range` 
+- has_disease_spread_statistics : : `=this.dv_has_range`    
+- is_disease_spread_statistics_of : : `=this.dv_has_domain`   
+- #is_/disease_spread_/statistics_of : : `=this.dv_has_domain`   
 
-Statistical information about the spread of a disease, either as [[WebContent]], or
-  described directly as a [[../../../Society/Communication/Media/Creative_Work/Dataset]], or the specific [[Observation]]s in the dataset. When a [[WebContent]] URL is
-  provided, the page indicated might also contain more such markup.
+Statistical information about the spread of a disease, either as [[WebContent]], 
+or described directly as a [[../../../Society/Communication/Media/Creative_Work/Dataset|Dataset]], or the specific [[Observation]]s in the dataset. 
+When a [[WebContent]] URL is  provided, the page indicated might also contain more such markup.
 
 Relation describes that: 
 
-#has_/domain  :: SpecialAnnouncement  
-
-(has_/name :: has_disease_spread_statistics )
-(has_/range :: Dataset, Observation, URL, WebContent )
+has_domain = `=this.dv_has_domain` 
+has_name = `=this.dv_has_name` 
+has_/range :: [[../../../Society/Communication/Media/Creative_Work/Dataset|Dataset]], [[../../Class/is_a_/Intangible/Observation|Observation]], [[../../Class/is_a_/Data_Type/Text/Url|Url]], [[../../../Society/Communication/Media/Creative_Work/Web_Content|Web_Content]] 
 
 
 ## Confidential Links & Embeds: 

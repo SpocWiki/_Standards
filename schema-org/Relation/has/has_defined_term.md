@@ -36,6 +36,7 @@ dv_has_:
     - "[[../../../bio/Taxon_Rank/Taxon|Taxon]]"
   name: has_defined_term
   range: "[[../../Class/is_a_/Intangible/Defined_Term|Defined_Term]]"
+  inverse: "[[is_defined_term_for]]"
 dv_has_defined_term: DefinedTerm
 dv_is_:
   part_of: "pending:"
@@ -62,14 +63,16 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_defined_term.private|has_defined_term.private]]"
   - "[[/_personal/schema-org/Relation/has/has_defined_term.personal|has_defined_term.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_defined_term.secret|has_defined_term.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_defined_term_for]]"
 ---
 
 # [[has_defined_term]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+has_inverse = `=this.dv_has_inverse` 
 
 has_child_property = `=this.dv_has_child_property` 
 
@@ -78,8 +81,10 @@ A [[../../Class/is_a_/Intangible/Defined_Term|defined_term]] contained in this t
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/defined_term :: DefinedTerm  
-- has_defined_term = `=this.dv_has_defined_term`  
+- #has_/defined_term : : `=this.dv_has_range`   
+- has_defined_term : : `=this.dv_has_range`  
+- is_defined_term_for : : `=this.dv_has_domain` 
+- #is_/defined_term_for : : `=this.dv_has_domain` 
 
 Relation describes that: 
 

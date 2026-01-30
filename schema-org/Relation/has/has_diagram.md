@@ -23,11 +23,9 @@ tags:
 title: has_diagram
 type: Predi_Relation
 dv_has_:
-  diagram: ImageObject
-  domain: AnatomicalStructure
+  domain: "[[../../../bio/Medicine/Anatomy/Anatomical_Structure|Anatomical_Structure]]"
   name: has_diagram
-  range: ImageObject
-dv_has_diagram: ImageObject
+  range: "[[../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object|Image_Object]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_diagram|has_diagram]]"
@@ -37,9 +35,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_diagram.private|has_diagram.private]]"
     - "[[/_personal/schema-org/Relation/has/has_diagram.personal|has_diagram.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_diagram.secret|has_diagram.secret]]"
-dv_has_domain: AnatomicalStructure
+dv_has_domain:  "[[../../../bio/Medicine/Anatomy/Anatomical_Structure|Anatomical_Structure]]"
 dv_has_name: has_diagram
-dv_has_range: ImageObject
+dv_has_range: "[[../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object|Image_Object]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_diagram|has_diagram]]"
   - "[[/_public/schema-org/Relation/has/has_diagram.public|has_diagram.public]]"
@@ -55,18 +53,20 @@ dv_is_same_as:
 is_a :: [[../../Relation|Relation]] 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[is_diagram_of]] 
 
 Use it like this: 
-- #has_/diagram = `=this.dv_has_diagram`  
-- has_diagram = `=this.dv_has_diagram`  
+- #has_/diagram : :  `=this.dv_has_range`  
+- has_diagram : :  `=this.dv_has_range`   
+- is_diagram_of : : `=this.dv_has_domain`  
 
-An image containing a diagram that illustrates the structure and/or its component substructures and/or connections with other structures.
+An image containing a diagram 
+that illustrates the structure and/or its component substructures 
+and/or connections with other structures.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

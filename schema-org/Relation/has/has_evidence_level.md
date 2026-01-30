@@ -27,11 +27,9 @@ tags:
 title: has_evidence_level
 type: Predi_Relation
 dv_has_:
-  evidence_level: MedicalEvidenceLevel
-  domain: MedicalGuideline
+  domain: "[[../../../bio/Medicine/Medical_Guideline|Medical_Guideline]]"
   name: has_evidence_level
-  range: MedicalEvidenceLevel
-dv_has_evidence_level: MedicalEvidenceLevel
+  range: "[[../../../bio/Medicine/Medical_Enumeration/Medical_Evidence_Level|Medical_Evidence_Level]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_evidence_level|has_evidence_level]]"
@@ -41,9 +39,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_evidence_level.private|has_evidence_level.private]]"
     - "[[/_personal/schema-org/Relation/has/has_evidence_level.personal|has_evidence_level.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_evidence_level.secret|has_evidence_level.secret]]"
-dv_has_domain: MedicalGuideline
+dv_has_domain: "[[../../../bio/Medicine/Medical_Guideline|Medical_Guideline]]"
 dv_has_name: has_evidence_level
-dv_has_range: MedicalEvidenceLevel
+dv_has_range: "[[../../../bio/Medicine/Medical_Enumeration/Medical_Evidence_Level|Medical_Evidence_Level]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_evidence_level|has_evidence_level]]"
   - "[[/_public/schema-org/Relation/has/has_evidence_level.public|has_evidence_level.public]]"
@@ -54,22 +52,24 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_evidence_level.secret|has_evidence_level.secret]]"
 ---
 
+# [[has_evidence_level]] 
 
 is_a :: [[../../Relation|Relation]] 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[is_evidence_level_for]] 
 
 Use it like this: 
-- #has_/evidence_level = `=this.dv_has_evidence_level`  
-- has_evidence_level = `=this.dv_has_evidence_level`  
+- #has_/evidence_level : : `=this.dv_has_range`  
+- has_evidence_level : : `=this.dv_has_range`  
+- is_evidence_level_for : : `=this.dv_has_domain`  
+- #is_/evidence_level_for : : `=this.dv_has_domain`  
 
 Strength of evidence of the data used to formulate the guideline (enumerated).
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

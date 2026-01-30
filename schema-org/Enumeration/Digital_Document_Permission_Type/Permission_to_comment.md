@@ -7,6 +7,8 @@ aliases:
   - Contributor_role
   - Comment_Permission
   - Comment Permission
+  - Permission_to_Comment
+  - Permission to Comment
 confidential: public
 cssclasses:
   - Type
@@ -32,7 +34,7 @@ dv_has_:
 dv_is_:
   enum_of: "[[../DigitalDocumentPermissionType]]"
   same_as:
-    - "[[/_Standards/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission|Comment_Permission]]"
+    - "[[Permission_to_comment|Permission_to_Comment]]"
     - "[[/_public/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission.public|Comment_Permission.public]]"
     - "[[/_internal/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission.internal|Comment_Permission.internal]]"
     - "[[/_protect/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission.protect|Comment_Permission.protect]]"
@@ -42,7 +44,7 @@ dv_is_:
 dv_has_parent_class: "[[../DigitalDocumentPermissionType]]"
 dv_is_enum_of: "[[../DigitalDocumentPermissionType]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission|Comment_Permission]]"
+  - "[[Permission_to_comment|Permission_to_Comment]]"
   - "[[/_public/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission.public|Comment_Permission.public]]"
   - "[[/_internal/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission.internal|Comment_Permission.internal]]"
   - "[[/_protect/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission.protect|Comment_Permission.protect]]"
@@ -67,7 +69,7 @@ is_enum_of = `=this.dv_is_enum_of`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission|Comment_Permission]] 
+### #is_/same_as :: [[Permission_to_comment|Permission_to_Comment]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission.public|Comment_Permission.public]] 
 

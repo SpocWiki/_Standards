@@ -1,0 +1,661 @@
+Folder PATH listing for volume D_1TB
+Volume serial number is CA40-CB09
+D:.
+¦   has_access_mode_sufficient
+¦   has_accommodation_floor_plan
+¦   has_accountable_person
+¦   has_acquire_license_page
+¦   has_actionable_feedback_policy
+¦   has_actor
+¦   has_additional_property
+¦   has_address_country
+¦   has_add_on
+¦   has_adult_consideration
+¦   has_adverse_outcome
+¦   has_affiliation_with
+¦   has_agent
+¦   has_aggregate_rating
+¦   has_aircraft
+¦   has_album
+¦   has_alumni
+¦   has_amenity_feature
+¦   has_announcement_location
+¦   has_answer
+¦   has_antagonist
+¦   has_appearance_in
+¦   has_applicant_location_requirement
+¦   has_application_contact
+¦   has_archive_of
+¦   has_area_served
+¦   has_arrival
+¦   has_arterial_branch
+¦   has_artist
+¦   has_associated
+¦   has_athlete
+¦   has_attendee
+¦   has_audience
+¦   has_audio
+¦   has_authenticator
+¦   has_author
+¦   has_availability
+¦   has_available_channel
+¦   has_available_delivery_method
+¦   has_available_service
+¦   has_available_strength
+¦   has_available_test
+¦   has_away_team
+¦   has_backstory
+¦   has_bed
+¦   has_beneficiary_bank
+¦   has_bio_chem_entity_parts
+¦   has_blog_post
+¦   has_blood_supply
+¦   has_boarding_policy
+¦   has_body_type
+¦   has_book_format
+¦   has_brand
+¦   has_breadcrumb
+¦   has_broadcaster
+¦   has_broker
+¦   has_business_days
+¦   has_business_function
+¦   has_calories
+¦   has_candidate
+¦   has_capital
+¦   has_caption
+¦   has_carrier
+¦   has_category
+¦   has_category_code
+¦   has_character
+¦   has_cheat_code
+¦   has_child
+¦   has_claim_interpreter
+¦   has_coach
+¦   has_code
+¦   has_colleague
+¦   has_colorist
+¦   has_comment
+¦   has_competency_required
+¦   has_competitor
+¦   has_composer
+¦   has_contact_option
+¦   has_contact_point
+¦   has_contained_season
+¦   has_contraindication
+¦   has_contributor
+¦   has_copyright_holder
+¦   has_correction
+¦   has_cost_category
+¦   has_country_of_origin
+¦   has_course
+¦   has_creative_work_status
+¦   has_credential
+¦   has_credential_category
+¦   has_css_selector
+¦   has_current_exchange_rate
+¦   has_customer
+¦   has_customer_remorse_return_fees
+¦   has_customer_remorse_return_label_source
+¦   has_cutoff_time
+¦   has_dataset
+¦   has_data_feed_element
+¦   has_day_of_week
+¦   has_defined_term
+¦   has_demand_for
+¦   has_department
+¦   has_departure
+¦   has_destroyer
+¦   has_diagnosis
+¦   has_diagram
+¦   has_diet
+¦   has_digital_document_permission
+¦   has_director
+¦   has_disease_spread_statistics
+¦   has_distinguishing_sign
+¦   has_distribution
+¦   has_diversity_policy
+¦   has_diversity_staffing_report
+¦   has_documentation
+¦   has_drive_wheel_configuration
+¦   has_drug
+¦   has_duplicate_therapy
+¦   has_editor
+¦   has_education
+¦   has_eligible_customer_type
+¦   has_eligible_transaction_volume
+¦   has_employee
+¦   has_employment_unit
+¦   has_encoding
+¦   has_endorsers
+¦   has_energy
+¦   has_engine_type
+¦   has_entertainment_business
+¦   has_episode
+¦   has_error
+¦   has_ethics_policy
+¦   has_event
+¦   has_evidence_level
+¦   has_examples
+¦   has_exercise_plan
+¦   has_exercise_related_diet
+¦   has_exif_data
+¦   has_experience_requirements
+¦   has_financial_aid_eligible
+¦   has_first_appearance_in
+¦   has_first_performance
+¦   has_food_establishment
+¦   has_food_event
+¦   has_founder
+¦   has_free_shipping_threshold
+¦   has_fuel_type
+¦   has_functional_class
+¦   has_funder
+¦   has_funding
+¦   has_game
+¦   has_game_availability_type
+¦   has_game_item
+¦   has_game_server
+¦   has_game_tip
+¦   has_gender
+¦   has_geographic_area
+¦   has_government_benefits_info
+¦   has_grantee
+¦   has_guideline
+¦   has_guideline_subject
+¦   has_healthcare_reporting_data
+¦   has_health_aspect
+¦   has_health_condition
+¦   has_health_plan_copay
+¦   has_hiring_organization
+¦   has_home_location
+¦   has_home_team
+¦   has_hospital_affiliation
+¦   has_hosting_organization
+¦   has_hours_available
+¦   has_identifier
+¦   has_identifying_exam
+¦   has_identifying_test
+¦   has_illustrator
+¦   has_image
+¦   has_imaging_technique
+¦   has_included_composition
+¦   has_included_risk_factor
+¦   has_industry
+¦   has_infectious_agent_class
+¦   has_inker
+¦   has_insertion
+¦   has_instructor
+¦   has_instrument
+¦   has_interacting_drug
+¦   has_interaction_service
+¦   has_interaction_statistic
+¦   has_interaction_type
+¦   has_item_condition
+¦   has_item_defect_return_fees
+¦   has_item_defect_return_label_source
+¦   has_item_list_element
+¦   has_item_list_order
+¦   has_item_reviewed
+¦   has_item_shipped
+¦   has_itinerary
+¦   has_job_title
+¦   has_keywords
+¦   has_layout_image
+¦   has_learning_resource_type
+¦   has_legal_status,medical
+¦   has_legislation
+¦   has_legislation_type
+¦   has_letterer
+¦   has_license
+¦   has_live_blog_update
+¦   has_loan_repayment_form
+¦   has_lodging_unit_type
+¦   has_logo
+¦   has_lyricist
+¦   has_lyrics
+¦   has_maintainer
+¦   has_main_content_of_page
+¦   has_main_entity
+¦   has_manufacturer
+¦   has_map_type
+¦   has_masthead
+¦   has_material
+¦   has_math_expression
+¦   has_maximum_intake
+¦   has_measured_property
+¦   has_measured_value
+¦   has_media
+¦   has_medical_audience
+¦   has_medical_specialty
+¦   has_medicine_system
+¦   has_member
+¦   has_menu
+¦   has_merchant
+¦   has_message_attachment
+¦   has_mission_coverage_priorities_policy
+¦   has_model
+¦   has_molecular_function
+¦   has_music_arrangement
+¦   has_music_by
+¦   has_music_release_format
+¦   has_nationality
+¦   has_negative_notes
+¦   has_nerve
+¦   has_nerve_motor
+¦   has_next_item
+¦   has_nonprofit_status
+¦   has_normal_range
+¦   has_no_bylines_policy
+¦   has_nutrition
+¦   has_object
+¦   has_observed_node
+¦   has_occupation
+¦   has_offset
+¦   has_opening_hours_specification
+¦   has_order
+¦   has_organizer
+¦   has_original_media_link
+¦   has_own
+¦   has_owner
+¦   has_ownership_funding_info
+¦   has_parent
+¦   has_participant
+¦   has_passenger_priority_status
+¦   has_pattern
+¦   has_payment_method
+¦   has_payment_method_accepted
+¦   has_payment_status
+¦   has_penciler
+¦   has_performer
+¦   has_permission_type
+¦   has_permit_audience
+¦   has_photo
+¦   has_physical_requirement
+¦   has_place_map
+¦   has_play_mode
+¦   has_population_type
+¦   has_positive_notes
+¦   has_possible_treatment
+¦   has_potential_action
+¦   has_potential_use
+¦   has_pregnancy_category
+¦   has_preparation
+¦   has_prescription_status
+¦   has_previous_item
+¦   has_price_component
+¦   has_price_component_type
+¦   has_price_specification
+¦   has_price_type
+¦   has_primary_image_of_page
+¦   has_primary_prevention
+¦   has_procedure_type
+¦   has_producer
+¦   has_production_company
+¦   has_product_supported
+¦   has_programming_language
+¦   has_program_membership_used
+¦   has_program_prerequisites
+¦   has_program_type
+¦   has_provider
+¦   has_publication
+¦   has_publisher
+¦   has_publishing_principles
+¦   has_qualifications
+¦   has_quest
+¦   has_question
+¦   has_recipe
+¦   has_recognizing_authority
+¦   has_recommended_intake
+¦   has_recorded_as
+¦   has_recorded_in
+¦   has_recording_of
+¦   has_record_label
+¦   has_refund_type
+¦   has_region_drained
+¦   has_related
+¦   has_released_event
+¦   has_release_of
+¦   has_relevant_occupation
+¦   has_replacee
+¦   has_replacer
+¦   has_representation
+¦   has_reservation_for
+¦   has_reservation_status
+¦   has_reserved_ticket
+¦   has_result
+¦   has_review
+¦   has_risk_factor
+¦   has_role_biological
+¦   has_role_chemical
+¦   has_rsvp_response
+¦   has_screenshot
+¦   has_sd_license
+¦   has_sd_publisher
+¦   has_seating_type
+¦   has_secondary_prevention
+¦   has_sensory_requirement
+¦   has_sensory_unit
+¦   has_server_status
+¦   has_service
+¦   has_service_type
+¦   has_shared_content
+¦   has_shipping
+¦   has_sibling
+¦   has_sign_detected
+¦   has_sign_or_symptom
+¦   has_size
+¦   has_skills
+¦   has_software_add_on
+¦   has_software_help
+¦   has_source_organization
+¦   has_speakable
+¦   has_specialty
+¦   has_special_opening_hours_specification
+¦   has_sponsor
+¦   has_sports_activity_location
+¦   has_sports_event
+¦   has_spouse
+¦   has_stage
+¦   has_status
+¦   has_steering_position
+¦   has_step
+¦   has_study
+¦   has_subtitle_language
+¦   has_suggested_gender
+¦   has_supply_consumed
+¦   has_supporting_data
+¦   has_target
+¦   has_taxonomic_range
+¦   has_taxon_rank
+¦   has_text_encoding
+¦   has_thumbnail
+¦   has_ticketed_seat
+¦   has_toc_continuation
+¦   has_toc_entry
+¦   has_tool
+¦   has_tourist_type
+¦   has_track
+¦   has_trailer
+¦   has_translation_of_work
+¦   has_translator
+¦   has_trial_design
+¦   has_tributary
+¦   has_type_of_bed
+¦   has_type_of_good
+¦   has_typical_test
+¦   has_under_name
+¦   has_unnamed_sources_policy
+¦   has_usage_info
+¦   has_usage_of_vehicle
+¦   has_value_reference
+¦   has_variable_measured
+¦   has_variant
+¦   has_vehicle_engine
+¦   has_vehicle_transmission
+¦   has_verification_fact_checking_policy
+¦   has_video
+¦   has_warranty
+¦   has_web_feed
+¦   has_work
+¦   has_workload
+¦   has_works_for
+¦   has_xpath
+¦   is_cause_for
+¦   is_spoken_by_character
+¦   is_suitable_for_diet
+¦   is_teaching
+¦   RTF(Rich_Text_Format)
+¦   tree.txt
+¦   
++---has_action
+¦       has_action_accessibility_requirement
+¦       has_action_application
+¦       has_action_platform
+¦       has_action_status
+¦       
++---has_actor
+¦       has_reader
+¦       
++---has_album
+¦       has_album_production_type
+¦       has_album_release
+¦       has_album_release_type
+¦       
++---has_answer
+¦       has_answer_accepted
+¦       has_answer_count
+¦       has_answer_explanation
+¦       has_answer_suggested
+¦       
++---has_arrival
+¦       has_arrival_airport
+¦       has_arrival_boat_terminal
+¦       has_arrival_bus_stop
+¦       has_arrival_station
+¦       
++---has_associated
+¦       has_associated_anatomy
+¦       has_associated_article
+¦       has_associated_claim_review
+¦       has_associated_disease
+¦       has_associated_media
+¦       has_associated_media_review
+¦       has_associated_pathophysiology
+¦       has_associated_review
+¦       
++---has_broadcaster
+¦       has_broadcast_affiliate_of
+¦       has_broadcast_channel
+¦       has_broadcast_frequency
+¦       has_broadcast_of_event
+¦       has_broadcast_signal_modulation
+¦       
++---has_character
+¦       has_character_attribute
+¦       
++---has_child
+¦       has_child_class
+¦       has_child_event
+¦       has_child_organization
+¦       has_child_property
+¦       has_child_reservation
+¦       has_child_set
+¦       has_child_structure
+¦       has_child_taxon
+¦       has_child_test
+¦       has_child_trip
+¦       
++---has_correction
+¦       has_correction_policy
+¦       
++---has_course
+¦       has_course_instance
+¦       has_course_prerequisites
+¦       
++---has_delivery
+¦       has_delivery_method
+¦       has_delivery_status
+¦       has_delivery_time
+¦       
++---has_departure
+¦       has_departure_airport
+¦       has_departure_boat_terminal
+¦       has_departure_bus_stop
+¦       has_departure_station
+¦       
++---has_diagnosis
+¦       has_diagnosis_differential
+¦       
++---has_drug
+¦       has_drug_class
+¦       
++---has_education
+¦       has_education_alignment
+¦       has_education_credential_awarded
+¦       has_education_level
+¦       has_education_requirements
+¦       has_education_use
+¦       
++---has_employee
+¦       has_employer
+¦       
++---has_energy
+¦       has_energy_consumption_details
+¦       has_energy_efficiency_category
+¦       has_energy_efficiency_scale_max
+¦       has_energy_efficiency_scale_min
+¦       
++---has_event
+¦       has_event_attendance_mode
+¦       has_event_schedule
+¦       has_event_status
+¦       
++---has_ingredient
+¦       has_ingredient_active
+¦       has_ingredient_for_recipe
+¦       
++---has_legislation
+¦       has_legislation_changes_to
+¦       has_legislation_legal_force
+¦       has_legislation_legal_value
+¦       has_legislation_responsible
+¦       
++---has_media
+¦       has_media_after
+¦       has_media_authenticity_category
+¦       has_media_before
+¦       has_media_during
+¦       has_media_item_appearance
+¦       
++---has_menu
+¦       has_menu_add_on
+¦       has_menu_item
+¦       has_menu_section
+¦       
++---has_merchant
+¦       has_merchant_return_policy
+¦       
++---has_occupation
+¦       has_occupation_category
+¦       has_occupation_credential_awarded
+¦       has_occupation_location
+¦       
++---has_offer
+¦       has_item_offered
+¦       has_offer_accepted
+¦       has_offer_catalog
+¦       
++---has_offset
+¦       has_offset_of_end
+¦       has_offset_of_start
+¦       
++---has_order
+¦       has_order_delivery
+¦       has_order_item
+¦       has_order_item_status
+¦       has_order_status
+¦       
++---has_parent
+¦       has_creator
+¦       has_parent_class
+¦       has_parent_event
+¦       has_parent_item
+¦       has_parent_organization
+¦       has_parent_property
+¦       has_parent_service
+¦       has_parent_set
+¦       has_parent_taxon
+¦       has_parent_taxon.bak
+¦       
++---has_participant
+¦   ¦   has_borrower
+¦   ¦   has_buyer
+¦   ¦   has_endorsee
+¦   ¦   has_landlord
+¦   ¦   has_lender
+¦   ¦   has_loser
+¦   ¦   has_opponent
+¦   ¦   has_real_estate_agent
+¦   ¦   has_recipient
+¦   ¦   has_seller
+¦   ¦   has_sender
+¦   ¦   has_sports_team
+¦   ¦   has_winner
+¦   ¦   
+¦   +---has_recipient
+¦           has_recipient_bcc
+¦           has_recipient_cc
+¦           has_recipient_to
+¦           
++---has_publisher
+¦       has_publisher_imprint
+¦       
++---has_recipe
+¦       has_recipe_instructions
+¦       
++---has_related
+¦       has_related_anatomy
+¦       has_related_condition
+¦       has_related_drug
+¦       has_related_structure
+¦       has_related_therapy
+¦       
++---has_result
+¦       has_result_comment
+¦       has_result_negative
+¦       has_result_negative_serious
+¦       has_result_positive
+¦       has_result_review
+¦       
++---has_return
+¦       has_return_fees
+¦       has_return_label_source
+¦       has_return_method
+¦       has_return_policy_category
+¦       has_return_policy_country
+¦       has_return_policy_seasonal_override
+¦       
++---has_service
+¦       has_service_operator
+¦       has_service_output
+¦       has_service_phone
+¦       has_service_sms_number
+¦       
++---has_shipping
+¦       has_shipping_destination
+¦       has_shipping_details
+¦       has_shipping_origin
+¦       
++---has_size
+¦       has_size_group
+¦       has_size_system
+¦       
++---has_specialty
+¦       has_relevant_specialty
+¦       
++---has_study
+¦       has_study_design
+¦       has_study_location
+¦       has_study_subject
+¦       
++---has_supply_consumed
+¦       is_supplier_for
+¦       
++---has_target
+¦       has_target_collection
+¦       has_target_product
+¦       
++---has_text_encoding
+¦       Unicode
+¦       
++---has_warranty
+¦       has_warranty_scope
+¦       
++---has_work
+        has_work_example
+        has_work_featured
+        has_work_location
+        has_work_performed
+        has_work_presented
+        has_work_translation
+        

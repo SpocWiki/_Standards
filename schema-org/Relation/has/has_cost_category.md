@@ -27,11 +27,9 @@ tags:
 title: has_cost_category
 type: Predi_Relation
 dv_has_:
-  cost_category: DrugCostCategory
-  domain: DrugCost
+  domain: "[[../../../bio/Medicine/Drug/Drug_Cost|Drug_Cost]]"
   name: has_cost_category
-  range: DrugCostCategory
-dv_has_cost_category: DrugCostCategory
+  range: "[[../../../bio/Medicine/Medical_Enumeration/Drug_Cost_Category|Drug_Cost_Category]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_cost_category|has_cost_category]]"
@@ -41,9 +39,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_cost_category.private|has_cost_category.private]]"
     - "[[/_personal/schema-org/Relation/has/has_cost_category.personal|has_cost_category.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_cost_category.secret|has_cost_category.secret]]"
-dv_has_domain: DrugCost
+dv_has_domain: "[[../../../bio/Medicine/Drug/Drug_Cost|Drug_Cost]]"
 dv_has_name: has_cost_category
-dv_has_range: DrugCostCategory
+dv_has_range: "[[../../../bio/Medicine/Medical_Enumeration/Drug_Cost_Category|Drug_Cost_Category]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_cost_category|has_cost_category]]"
   - "[[/_public/schema-org/Relation/has/has_cost_category.public|has_cost_category.public]]"
@@ -59,11 +57,13 @@ dv_is_same_as:
 is_a :: [[../../Relation|Relation]] 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[is_cost_category_for]] 
 
 Use it like this: 
-- #has_/cost_category = `=this.dv_has_cost_category`  
-- has_cost_category = `=this.dv_has_cost_category`  
+- #has_/cost_/category : : `=this.dv_has_name`   
+- has_cost_category : : `=this.dv_has_name` 
+- is_cost_category_for : : `=this.dv_has_domain` 
+- #is_/cost_/category_for : : `=this.dv_has_domain` 
 
 The category of cost, such as wholesale, retail, reimbursement cap, etc.
 

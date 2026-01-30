@@ -28,11 +28,12 @@ tags:
 title: has_eligible_customer_type
 type: Predi_Relation
 dv_has_:
-  eligible_customer_type: BusinessEntityType
-  domain: Demand, Offer
+  domain:
+    - "[[../../../Society/Agent/Community/Organization/Business/Demand|Demand]]"
+    - "[[../../../Society/Agent/Community/Organization/Business/Offer|Offer]]"
   name: has_eligible_customer_type
-  range: BusinessEntityType
-dv_has_eligible_customer_type: BusinessEntityType
+  range: "[[../../Enumeration/Business_Entity_Type|Business_Entity_Type]]"
+  inverse: "[[is_eligible_customer_type_for]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_eligible_customer_type|has_eligible_customer_type]]"
@@ -42,35 +43,42 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_eligible_customer_type.private|has_eligible_customer_type.private]]"
     - "[[/_personal/schema-org/Relation/has/has_eligible_customer_type.personal|has_eligible_customer_type.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_eligible_customer_type.secret|has_eligible_customer_type.secret]]"
-dv_has_domain: Demand, Offer
+    - "[[has_eligible_customer_type]]"
+dv_has_domain:
+  - "[[../../../Society/Agent/Community/Organization/Business/Demand|Demand]]"
+  - "[[../../../Society/Agent/Community/Organization/Business/Offer|Offer]]"
 dv_has_name: has_eligible_customer_type
-dv_has_range: BusinessEntityType
+dv_has_range: "[[../../Enumeration/Business_Entity_Type|Business_Entity_Type]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_eligible_customer_type|has_eligible_customer_type]]"
+  - "[[has_eligible_customer_type]]"
   - "[[/_public/schema-org/Relation/has/has_eligible_customer_type.public|has_eligible_customer_type.public]]"
   - "[[/_internal/schema-org/Relation/has/has_eligible_customer_type.internal|has_eligible_customer_type.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_eligible_customer_type.protect|has_eligible_customer_type.protect]]"
   - "[[/_private/schema-org/Relation/has/has_eligible_customer_type.private|has_eligible_customer_type.private]]"
   - "[[/_personal/schema-org/Relation/has/has_eligible_customer_type.personal|has_eligible_customer_type.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_eligible_customer_type.secret|has_eligible_customer_type.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_eligible_customer_type_for]]"
 ---
 
+# [[has_eligible_customer_type]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
-- #has_/eligible_customer_type = `=this.dv_has_eligible_customer_type`  
-- has_eligible_customer_type = `=this.dv_has_eligible_customer_type`  
+- #has_/eligible_customer_type : :   `=this.dv_has_range` 
+- has_eligible_customer_type : :  `=this.dv_has_range`  
+- is_eligible_customer_type_for : : `=this.dv_has_domain`  
+- #is_/eligible_customer_type_for : : `=this.dv_has_domain`  
 
 The type(s) of customers for which the given offer is valid.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 
