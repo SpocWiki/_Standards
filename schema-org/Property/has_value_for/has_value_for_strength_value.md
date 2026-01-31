@@ -27,12 +27,9 @@ tags:
 title: has_strength-value
 type: Predi_Quantity
 dv_has_:
-  value_for_:
-    strength: Number
-  domain: DrugStrength
+  domain: "[[../../../bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Strength|Drug_Strength]]"
   name: has_value_for_strength
-  range: Number
-dv_has_value_for_strength: Number
+  range: "[[../../Class/is_a_/Data_Type/Number|Number]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_strength_value|has_value_for_strength_value]]"
@@ -42,9 +39,9 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_strength_value.private|has_value_for_strength_value.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_strength_value.personal|has_value_for_strength_value.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_strength_value.secret|has_value_for_strength_value.secret]]"
-dv_has_domain: DrugStrength
+dv_has_domain: "[[../../../bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Strength|Drug_Strength]]"
 dv_has_name: has_value_for_strength
-dv_has_range: Number
+dv_has_range: "[[../../Class/is_a_/Data_Type/Number|Number]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_strength_value|has_value_for_strength_value]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_strength_value.public|has_value_for_strength_value.public]]"
@@ -55,18 +52,19 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Property/has_value_for/has_value_for_strength_value.secret|has_value_for_strength_value.secret]]"
 ---
 
+# [[has_value_for_strength_value]] 
+
 Predicate to describe the Quantity of DrugStrength.
 
 Use it like this: 
-- #has_/value_for_strength = `=this.dv_has_value_for_strength`  
-- has_value_for_strength = `=this.dv_has_value_for_strength`  
+- #has_/value_for_/strength = `=this.dv_has_range`  
+- has_value_for_strength = `=this.dv_has_range`  
 
 The value of an active ingredient's strength, e.g. 325.
 
 Predicate describes that: 
 
 #has_/domain = `=this.dv_has_domain` 
-
 #has_/name = `=this.dv_has_name` 
 #has_/range = `=this.dv_has_range` 
 

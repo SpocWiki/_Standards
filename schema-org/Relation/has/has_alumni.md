@@ -7,46 +7,73 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - alumni
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_alumni
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_alumni
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_:
+  inverse: "[[../is/is_alumni_of]]"
+  domain:
+    - "[[../../../Earth/Geography/Place/Civic_Structure/Educational_Organization|Educational_Organization]]"
+    - "[[../../../Society/Agent/Community/Organization|Organization]]"
+  name: has_alumni
+  range: "[[../../../Society/Agent/Person|Person]]"
+dv_is_:
+  same_as:
+    - "[[has_alumni]]"
+    - "[[/_public/schema-org/Relation/has/has_alumni.public|has_alumni.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_alumni.internal|has_alumni.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_alumni.protect|has_alumni.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_alumni.private|has_alumni.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_alumni.personal|has_alumni.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_alumni.secret|has_alumni.secret]]"
+dv_has_inverse: "[[../is/is_alumni_of]]"
+dv_has_domain:
+  - "[[../../../Earth/Geography/Place/Civic_Structure/Educational_Organization|Educational_Organization]]"
+  - "[[../../../Society/Agent/Community/Organization|Organization]]"
+dv_has_name: has_alumni
+dv_has_range: "[[../../../Society/Agent/Person|Person]]"
+dv_is_same_as:
+  - "[[has_alumni]]"
+  - "[[/_public/schema-org/Relation/has/has_alumni.public|has_alumni.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_alumni.internal|has_alumni.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_alumni.protect|has_alumni.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_alumni.private|has_alumni.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_alumni.personal|has_alumni.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_alumni.secret|has_alumni.secret]]"
 ---
 
 # [[has_alumni]] 
 
-#is_a :: [[../../Relation|Relation]]
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
-- #has_/alumni :: Person  
-- [ has_alumni :: Person ] 
+- #has_/alumni : :  `=this.dv_has_range`   
+- has_alumni : :  `=this.dv_has_range`  
+- is_alumni_of : : [[../../../Earth/Geography/Place/Civic_Structure/Educational_Organization|Educational_Organization]], [[../../../Society/Agent/Community/Organization|Organization]]  
 
 Alumni of an organization.
 
 Relation describes that: 
 
-#has_/domain  :: EducationalOrganization, Organization  
-
-(has_/name :: has_alumni )
-(has_/range :: Person )
-
-#has_/inverse  :: [[is_alumni_of]]  
-
-**
+#has_/domain  :: [[../../../Earth/Geography/Place/Civic_Structure/Educational_Organization|Educational_Organization]], [[../../../Society/Agent/Community/Organization|Organization]]  
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

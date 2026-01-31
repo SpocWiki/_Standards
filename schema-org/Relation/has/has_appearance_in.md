@@ -75,7 +75,7 @@ Use it like this:
 - has_appearance_of : : `=this.dv_has_domain` 
 - #has_/appearance_of : : `=this.dv_has_domain` 
 
-Indicates an occurrence of a [[../../../Society/Communication/Media/Creative_Work/Statement/Claim|Claim]] in some [[CreativeWork]].
+Indicates an occurrence of a [[../../../Society/Communication/Media/Creative_Work/Statement/Claim|Claim]] in some [[../../../Society/Communication/Media/Creative_Work|Creative_Work]].
 
 Relation describes that: 
 

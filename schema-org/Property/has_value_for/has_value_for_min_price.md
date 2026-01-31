@@ -26,12 +26,9 @@ tags:
 title: has_min-price
 type: Predi_Quantity
 dv_has_:
-  value_for_:
-    min_price: Number
-  domain: PriceSpecification
+  domain: "[[../../Class/is_a_/Intangible/Structured_Value/Price_Specification|Price_Specification]]"
   name: has_value_for_min_price
-  range: Number
-dv_has_value_for_min_price: Number
+  range: "[[../../Class/is_a_/Data_Type/Number|Number]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_min_price|has_value_for_min_price]]"
@@ -41,9 +38,9 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_min_price.private|has_value_for_min_price.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_min_price.personal|has_value_for_min_price.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_min_price.secret|has_value_for_min_price.secret]]"
-dv_has_domain: PriceSpecification
+dv_has_domain: "[[../../Class/is_a_/Intangible/Structured_Value/Price_Specification|Price_Specification]]"
 dv_has_name: has_value_for_min_price
-dv_has_range: Number
+dv_has_range: "[[../../Class/is_a_/Data_Type/Number|Number]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_min_price|has_value_for_min_price]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_min_price.public|has_value_for_min_price.public]]"
@@ -54,18 +51,19 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Property/has_value_for/has_value_for_min_price.secret|has_value_for_min_price.secret]]"
 ---
 
+# [[has_value_for_min_price]] 
+
 Predicate to describe the Quantity of PriceSpecification.
 
 Use it like this: 
-- #has_/value_for_min_price = `=this.dv_has_value_for_min_price`  
-- has_value_for_min_price = `=this.dv_has_value_for_min_price`  
+- #has_/value_for_/min_price = `=this.dv_has_range`  
+- has_value_for_min_price = `=this.dv_has_range`  
 
 The lowest price if the price is a range.
 
 Predicate describes that: 
 
 #has_/domain = `=this.dv_has_domain` 
-
 #has_/name = `=this.dv_has_name` 
 #has_/range = `=this.dv_has_range` 
 

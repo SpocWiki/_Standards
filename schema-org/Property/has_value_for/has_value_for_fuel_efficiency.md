@@ -26,12 +26,9 @@ tags:
 title: has_fuel-efficiency
 type: Predi_Quantity
 dv_has_:
-  value_for_:
-    fuel_efficiency: QuantitativeValue
-  domain: Vehicle
+  domain: "[[../../../Technology/Transport/Vehicle|Vehicle]]"
   name: has_value_for_fuel_efficiency
-  range: QuantitativeValue
-dv_has_value_for_fuel_efficiency: QuantitativeValue
+  range: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_fuel_efficiency|has_value_for_fuel_efficiency]]"
@@ -41,9 +38,9 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.private|has_value_for_fuel_efficiency.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.personal|has_value_for_fuel_efficiency.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.secret|has_value_for_fuel_efficiency.secret]]"
-dv_has_domain: Vehicle
+dv_has_domain: "[[../../../Technology/Transport/Vehicle|Vehicle]]"
 dv_has_name: has_value_for_fuel_efficiency
-dv_has_range: QuantitativeValue
+dv_has_range: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_fuel_efficiency|has_value_for_fuel_efficiency]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.public|has_value_for_fuel_efficiency.public]]"
@@ -54,11 +51,13 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.secret|has_value_for_fuel_efficiency.secret]]"
 ---
 
+# [[has_value_for_fuel_efficiency]] 
+
 Predicate to describe the Quantity of Vehicle.
 
 Use it like this: 
-- #has_/value_for_fuel_efficiency = `=this.dv_has_value_for_fuel_efficiency`  
-- has_value_for_fuel_efficiency = `=this.dv_has_value_for_fuel_efficiency`  
+- #has_/value_for_/fuel_efficiency = `=this.dv_has_range`  
+- has_value_for_fuel_efficiency = `=this.dv_has_range`  
 
 The distance traveled per unit of fuel used; most commonly miles per gallon (mpg) or kilometers per liter (km/L).
 

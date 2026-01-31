@@ -26,12 +26,9 @@ tags:
 title: has_value-max-text-length
 type: Predi_Quantity
 dv_has_:
-  value_for_:
-    max_text_length: Number
-  domain: PropertyValueSpecification
+  domain: "[[../../Class/is_a_/Intangible/Property_Value_Specification|Property_Value_Specification]]"
   name: has_value_for_max_text_length
-  range: Number
-dv_has_value_for_max_text_length: Number
+  range: "[[../../Class/is_a_/Data_Type/Number|Number]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_max_text_length|has_value_for_max_text_length]]"
@@ -41,9 +38,9 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_max_text_length.private|has_value_for_max_text_length.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_max_text_length.personal|has_value_for_max_text_length.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_max_text_length.secret|has_value_for_max_text_length.secret]]"
-dv_has_domain: PropertyValueSpecification
+dv_has_domain: "[[../../Class/is_a_/Intangible/Property_Value_Specification|Property_Value_Specification]]"
 dv_has_name: has_value_for_max_text_length
-dv_has_range: Number
+dv_has_range: "[[../../Class/is_a_/Data_Type/Number|Number]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_max_text_length|has_value_for_max_text_length]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_max_text_length.public|has_value_for_max_text_length.public]]"
@@ -54,18 +51,19 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Property/has_value_for/has_value_for_max_text_length.secret|has_value_for_max_text_length.secret]]"
 ---
 
+# [[has_value_for_max_text_length]] 
+
 Predicate to describe the Quantity of [[../../Class/is_a_/Intangible/property_value_specification|PropertyValueSpecification]].
 
 Use it like this: 
-- #has_/value_for_max_text_length = `=this.dv_has_value_for_max_text_length`  
-- has_value_for_max_text_length = `=this.dv_has_value_for_max_text_length`  
+- #has_/value_for_/max_text_length = `=this.dv_has_range`  
+- has_value_for_max_text_length = `=this.dv_has_range`  
 
 Specifies the allowed range for number of characters in a literal value.
 
 Predicate describes that: 
 
 #has_/domain = `=this.dv_has_domain` 
-
 #has_/name = `=this.dv_has_name` 
 #has_/range = `=this.dv_has_range` 
 

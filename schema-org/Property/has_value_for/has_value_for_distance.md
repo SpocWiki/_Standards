@@ -26,12 +26,9 @@ tags:
 title: has_distance
 type: Predi_Quantity
 dv_has_:
-  value_for_:
-    distance: Number
-  domain: ExerciseAction, TravelAction
+  domain: ["[[../../Class/is_a_/Action/Play_Action/Exercise_Action|Exercise_Action]]", "[[../../Class/is_a_/Action/Move_Action/Travel_Action|Travel_Action]]"]
   name: has_value_for_distance
-  range: Distance
-dv_has_value_for_distance: Distance
+  range: "[[../../../Dimension/Linear_Dimension/Distance|Distance]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_distance|has_value_for_distance]]"
@@ -41,9 +38,9 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_distance.private|has_value_for_distance.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_distance.personal|has_value_for_distance.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_distance.secret|has_value_for_distance.secret]]"
-dv_has_domain: ExerciseAction, TravelAction
+dv_has_domain: ["[[../../Class/is_a_/Action/Play_Action/Exercise_Action|Exercise_Action]]", "[[../../Class/is_a_/Action/Move_Action/Travel_Action|Travel_Action]]"]
 dv_has_name: has_value_for_distance
-dv_has_range: Distance
+dv_has_range: "[[../../../Dimension/Linear_Dimension/Distance|Distance]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_distance|has_value_for_distance]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_distance.public|has_value_for_distance.public]]"
@@ -54,6 +51,8 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Property/has_value_for/has_value_for_distance.secret|has_value_for_distance.secret]]"
 ---
 
+# [[has_value_for_distance]] 
+
 Predicate to describe the Quantity of ExerciseAction, TravelAction.
 
 The default [[../../../Dimension/Unit_of_Measure|Unit_of_Measure]]  are [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Meter|Meter]]s, unless specified different, either 
@@ -61,15 +60,14 @@ The default [[../../../Dimension/Unit_of_Measure|Unit_of_Measure]]  are [[../../
 - as a [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]] with `value` and `unitCode`
 
 Use it like this: 
-- #has_/value_for_distance = `=this.dv_has_value_for_distance`  
-- has_value_for_distance = `=this.dv_has_value_for_distance`  
+- #has_/value_for_/distance = `=this.dv_has_range`  
+- has_value_for_distance = `=this.dv_has_range`  
 
 The distance travelled, e.g. exercising or travelling.
 
 Predicate describes that: 
 
 #has_/domain = `=this.dv_has_domain` 
-
 #has_/name = `=this.dv_has_name` 
 #has_/range = `=this.dv_has_range` 
 

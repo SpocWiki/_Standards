@@ -26,12 +26,9 @@ tags:
 title: has_version
 type: Predi_Quantity
 dv_has_:
-  value_for_:
-    version: Number, Text
-  domain: CreativeWork
+  domain: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
   name: has_value_for_version
-  range: Number, Text
-dv_has_value_for_version: Number, Text
+  range: [["[[../../Class/is_a_/Data_Type/Number|Number]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_version|has_value_for_version]]"
@@ -41,9 +38,9 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_version.private|has_value_for_version.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_version.personal|has_value_for_version.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_version.secret|has_value_for_version.secret]]"
-dv_has_domain: CreativeWork
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
 dv_has_name: has_value_for_version
-dv_has_range: Number, Text
+dv_has_range: [["[[../../Class/is_a_/Data_Type/Number|Number]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]]
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_version|has_value_for_version]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_version.public|has_value_for_version.public]]"
@@ -54,11 +51,13 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Property/has_value_for/has_value_for_version.secret|has_value_for_version.secret]]"
 ---
 
+# [[has_value_for_version]] 
+
 Predicate to describe the Quantity of CreativeWork.
 
 Use it like this: 
-- #has_/value_for_version = `=this.dv_has_value_for_version`  
-- has_value_for_version = `=this.dv_has_value_for_version`  
+- #has_/value_for_/version = `=this.dv_has_range`   
+- has_value_for_version = `=this.dv_has_range`   
 
 The version of the CreativeWork embodied by a specified resource.
 

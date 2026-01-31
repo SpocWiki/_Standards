@@ -26,21 +26,9 @@ tags:
 title: has_speed
 type: Predi_Quantity
 dv_has_:
-  value_for_:
-    speed:
-      - "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
-      - "[[../../Class/is_a_/Data_Type/Number|Number]]"
-    speed_:
-      kilo_:
-        meter_:
-          hour: "[[../../Class/is_a_/Data_Type/Number|Number]]"
-      meter_:
-        second: "[[../../Class/is_a_/Data_Type/Number|Number]]"
-  domain: Vehicle
+  domain: "[[../../../Technology/Transport/Vehicle|Vehicle]]"
   name: has_value_for_speed
-  range: QuantitativeValue
-dv_has_value_for_speed: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
-dv_has_value_for_speed_kilo_meter_hour: "[[../../Class/is_a_/Data_Type/Number|Number]]"
+  range: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
 dv_is_:
   part_of: https://auto.schema.org
   same_as:
@@ -51,11 +39,10 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_speed.private|has_value_for_speed.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_speed.personal|has_value_for_speed.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_speed.secret|has_value_for_speed.secret]]"
-dv_has_value_for_speed_meter_second: "[[../../Class/is_a_/Data_Type/Number|Number]]"
 dv_is_part_of: https://auto.schema.org
-dv_has_domain: Vehicle
+dv_has_domain: "[[../../../Technology/Transport/Vehicle|Vehicle]]"
 dv_has_name: has_value_for_speed
-dv_has_range: QuantitativeValue
+dv_has_range: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
 dv_is_same_as:
   - "[[has_value_for_speed]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_speed.public|has_value_for_speed.public]]"

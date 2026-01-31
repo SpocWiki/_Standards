@@ -2,7 +2,7 @@
 dv_has_:
   inverse: "[[is_better_than]]"
 dv_is_:
-  worse_than: "[[../../Property/has_value_for/has_value_for_rating|has_value_for_rating]]"
+  worse_than: "[[../../Property/has_value_for/has_rating/has_rating_value|has_rating_value]]"
   same_as:
     - "[[/_Standards/schema-org/Relation/is/is_worse_than|is_worse_than]]"
     - "[[/_public/schema-org/Relation/is/is_worse_than.public|is_worse_than.public]]"
@@ -12,7 +12,7 @@ dv_is_:
     - "[[/_personal/schema-org/Relation/is/is_worse_than.personal|is_worse_than.personal]]"
     - "[[/_secret/schema-org/Relation/is/is_worse_than.secret|is_worse_than.secret]]"
 dv_has_inverse: "[[is_better_than]]"
-dv_is_worse_than: "[[../../Property/has_value_for/has_value_for_rating|has_value_for_rating]]"
+dv_is_worse_than: "[[../../Property/has_value_for/has_rating/has_rating_value|has_rating_value]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/is/is_worse_than|is_worse_than]]"
   - "[[/_public/schema-org/Relation/is/is_worse_than.public|is_worse_than.public]]"

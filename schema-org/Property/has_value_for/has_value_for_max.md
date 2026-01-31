@@ -27,12 +27,9 @@ tags:
 title: has_max-value
 type: Predi_Quantity
 dv_has_:
-  value_for_:
-    max: Number
-  domain: MonetaryAmount, PropertyValue, PropertyValueSpecification, QuantitativeValue
+  domain: ["[[../../Class/is_a_/Intangible/Structured_Value/Monetary_Amount|Monetary_Amount]]", "[[../../Class/is_a_/Intangible/Structured_Value/Property_Value_Pair|Property_Value_Pair]]", "[[../../Class/is_a_/Intangible/Property_Value_Specification|Property_Value_Specification]]", "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"]
   name: has_value_for_max
-  range: Number
-dv_has_value_for_max: Number
+  range: "[[../../Class/is_a_/Data_Type/Number|Number]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_max_value|has_value_for_max_value]]"
@@ -42,9 +39,9 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_max_value.private|has_value_for_max_value.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_max_value.personal|has_value_for_max_value.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_max_value.secret|has_value_for_max_value.secret]]"
-dv_has_domain: MonetaryAmount, PropertyValue, PropertyValueSpecification, QuantitativeValue
+dv_has_domain: ["[[../../Class/is_a_/Intangible/Structured_Value/Monetary_Amount|Monetary_Amount]]", "[[../../Class/is_a_/Intangible/Structured_Value/Property_Value_Pair|Property_Value_Pair]]", "[[../../Class/is_a_/Intangible/Property_Value_Specification|Property_Value_Specification]]", "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"]
 dv_has_name: has_value_for_max
-dv_has_range: Number
+dv_has_range: "[[../../Class/is_a_/Data_Type/Number|Number]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_max_value|has_value_for_max_value]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_max_value.public|has_value_for_max_value.public]]"
@@ -55,18 +52,19 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Property/has_value_for/has_value_for_max_value.secret|has_value_for_max_value.secret]]"
 ---
 
+# [[has_value_for_max]] 
+
 Predicate to describe the Quantity of MonetaryAmount, PropertyValue, PropertyValueSpecification, QuantitativeValue.
 
 Use it like this: 
-- #has_/value_for_max = `=this.dv_has_value_for_max`  
-- has_value_for_max = `=this.dv_has_value_for_max`  
+- #has_/value_for_/max = `=this.dv_has_range`  
+- has_value_for_max = `=this.dv_has_range`  
 
 The upper value of some characteristic or property.
 
 Predicate describes that: 
 
 #has_/domain = `=this.dv_has_domain` 
-
 #has_/name = `=this.dv_has_name` 
 #has_/range = `=this.dv_has_range` 
 

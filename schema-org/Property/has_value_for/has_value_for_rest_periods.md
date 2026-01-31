@@ -26,12 +26,9 @@ tags:
 title: has_rest-periods
 type: Predi_Quantity
 dv_has_:
-  value_for_:
-    rest_periods: QuantitativeValue, Text
-  domain: ExercisePlan
+  domain: "[[../../../Society/Communication/Media/Creative_Work/Exercise_Plan|ExercisePlan]]"
   name: has_value_for_rest_periods
-  range: QuantitativeValue, Text
-dv_has_value_for_rest_periods: QuantitativeValue, Text
+  range: ["[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_rest_periods|has_value_for_rest_periods]]"
@@ -41,9 +38,9 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_rest_periods.private|has_value_for_rest_periods.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_rest_periods.personal|has_value_for_rest_periods.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_rest_periods.secret|has_value_for_rest_periods.secret]]"
-dv_has_domain: ExercisePlan
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Exercise_Plan|ExercisePlan]]"
 dv_has_name: has_value_for_rest_periods
-dv_has_range: QuantitativeValue, Text
+dv_has_range: ["[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_rest_periods|has_value_for_rest_periods]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_rest_periods.public|has_value_for_rest_periods.public]]"
@@ -54,18 +51,19 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Property/has_value_for/has_value_for_rest_periods.secret|has_value_for_rest_periods.secret]]"
 ---
 
+# [[has_value_for_rest_periods]] 
+
 Predicate to describe the Quantity of ExercisePlan.
 
 Use it like this: 
-- #has_/value_for_rest_periods = `=this.dv_has_value_for_rest_periods`  
-- has_value_for_rest_periods = `=this.dv_has_value_for_rest_periods`  
+- #has_/value_for_/rest_periods = `=this.dv_has_range`  
+- has_value_for_rest_periods = `=this.dv_has_range`  
 
 How often one should break from the activity.
 
 Predicate describes that: 
 
 #has_/domain = `=this.dv_has_domain` 
-
 #has_/name = `=this.dv_has_name` 
 #has_/range = `=this.dv_has_range` 
 

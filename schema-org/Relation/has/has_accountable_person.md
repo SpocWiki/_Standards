@@ -29,6 +29,7 @@ dv_has_:
   domain: CreativeWork
   name: has_accountable_person
   range: Person
+  inverse: "[[is_accountable_for]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_accountable_person|has_accountable_person]]"
@@ -38,25 +39,28 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_accountable_person.private|has_accountable_person.private]]"
     - "[[/_personal/schema-org/Relation/has/has_accountable_person.personal|has_accountable_person.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_accountable_person.secret|has_accountable_person.secret]]"
+    - "[[has_accountable_person]]"
 dv_has_domain: CreativeWork
 dv_has_name: has_accountable_person
 dv_has_range: Person
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_accountable_person|has_accountable_person]]"
+  - "[[has_accountable_person]]"
   - "[[/_public/schema-org/Relation/has/has_accountable_person.public|has_accountable_person.public]]"
   - "[[/_internal/schema-org/Relation/has/has_accountable_person.internal|has_accountable_person.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_accountable_person.protect|has_accountable_person.protect]]"
   - "[[/_private/schema-org/Relation/has/has_accountable_person.private|has_accountable_person.private]]"
   - "[[/_personal/schema-org/Relation/has/has_accountable_person.personal|has_accountable_person.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_accountable_person.secret|has_accountable_person.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_accountable_for]]"
 ---
 
 # [[has_accountable_person]] 
 
-#is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_accountable_for]] 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/accountable_person : : `=this.dv_has_range` 

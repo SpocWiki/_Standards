@@ -26,12 +26,9 @@ tags:
 title: has_required_min_age
 type: Predi_Quantity
 dv_has_:
-  value_for_:
-    required_min_age: Integer
-  domain: PeopleAudience
+  domain: "[[../../Class/is_a_/Intangible/Audience/People_Audience|People_Audience]]"
   name: has_value_for_required_min_age
-  range: Integer
-dv_has_value_for_required_min_age: Integer
+  range: "[[../../Class/is_a_/Data_Type/Number/Integer|Integer]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_required_min_age|has_value_for_required_min_age]]"
@@ -41,9 +38,9 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_required_min_age.private|has_value_for_required_min_age.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_required_min_age.personal|has_value_for_required_min_age.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_required_min_age.secret|has_value_for_required_min_age.secret]]"
-dv_has_domain: PeopleAudience
+dv_has_domain: "[[../../Class/is_a_/Intangible/Audience/People_Audience|People_Audience]]"
 dv_has_name: has_value_for_required_min_age
-dv_has_range: Integer
+dv_has_range: "[[../../Class/is_a_/Data_Type/Number/Integer|Integer]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_required_min_age|has_value_for_required_min_age]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_required_min_age.public|has_value_for_required_min_age.public]]"
@@ -54,18 +51,19 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Property/has_value_for/has_value_for_required_min_age.secret|has_value_for_required_min_age.secret]]"
 ---
 
+# [[has_value_for_required_min_age]] 
+
 Predicate to describe the Quantity of PeopleAudience.
 
 Use it like this: 
-- #has_/value_for_required_min_age = `=this.dv_has_value_for_required_min_age`  
-- has_value_for_required_min_age = `=this.dv_has_value_for_required_min_age`  
+- #has_/value_for_/required_min_age = `=this.dv_has_range`  
+- has_value_for_required_min_age = `=this.dv_has_range`  
 
 Audiences defined by a person's minimum age.
 
 Predicate describes that: 
 
 #has_/domain = `=this.dv_has_domain` 
-
 #has_/name = `=this.dv_has_name` 
 #has_/range = `=this.dv_has_range` 
 

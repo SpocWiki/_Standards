@@ -26,12 +26,9 @@ tags:
 title: has_activity-frequency
 type: Predi_Quantity
 dv_has_:
-  value_for_:
-    activity_frequency: QuantitativeValue, Text
   domain: ExercisePlan
   name: has_value_for_activity_frequency
-  range: QuantitativeValue, Text
-dv_has_value_for_activity_frequency: QuantitativeValue, Text
+  range: ["[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_activity_frequency|has_value_for_activity_frequency]]"
@@ -43,7 +40,7 @@ dv_is_:
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_activity_frequency.secret|has_value_for_activity_frequency.secret]]"
 dv_has_domain: ExercisePlan
 dv_has_name: has_value_for_activity_frequency
-dv_has_range: QuantitativeValue, Text
+dv_has_range: ["[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_activity_frequency|has_value_for_activity_frequency]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_activity_frequency.public|has_value_for_activity_frequency.public]]"
@@ -54,18 +51,19 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Property/has_value_for/has_value_for_activity_frequency.secret|has_value_for_activity_frequency.secret]]"
 ---
 
+# [[has_value_for_activity_frequency]] 
+
 Predicate to describe the Quantity of ExercisePlan.
 
 Use it like this: 
-- #has_/value_for_activity_frequency = `=this.dv_has_value_for_activity_frequency`  
-- has_value_for_activity_frequency = `=this.dv_has_value_for_activity_frequency`  
+- #has_/value_for_/activity_frequency = `=this.dv_has_range`  
+- has_value_for_activity_frequency = `=this.dv_has_range`  
 
 How often one should engage in the activity.
 
 Predicate describes that: 
 
 #has_/domain = `=this.dv_has_domain` 
-
 #has_/name = `=this.dv_has_name` 
 #has_/range = `=this.dv_has_range` 
 

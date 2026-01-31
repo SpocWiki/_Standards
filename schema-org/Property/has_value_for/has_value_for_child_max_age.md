@@ -26,12 +26,9 @@ tags:
 title: has_child-max-age
 type: Predi_Quantity
 dv_has_:
-  value_for_:
-    child_max_age: Number
-  domain: ParentAudience
+  domain: "[[../../Class/is_a_/Intangible/Audience/People_Audience/Parent_Audience|Parent_Audience]]"
   name: has_value_for_child_max_age
-  range: Number
-dv_has_value_for_child_max_age: Number
+  range: "[[../../Class/is_a_/Data_Type/Number|Number]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_child_max_age|has_value_for_child_max_age]]"
@@ -41,9 +38,9 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_child_max_age.private|has_value_for_child_max_age.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_child_max_age.personal|has_value_for_child_max_age.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_child_max_age.secret|has_value_for_child_max_age.secret]]"
-dv_has_domain: ParentAudience
+dv_has_domain: "[[../../Class/is_a_/Intangible/Audience/People_Audience/Parent_Audience|Parent_Audience]]"
 dv_has_name: has_value_for_child_max_age
-dv_has_range: Number
+dv_has_range: "[[../../Class/is_a_/Data_Type/Number|Number]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_child_max_age|has_value_for_child_max_age]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_child_max_age.public|has_value_for_child_max_age.public]]"
@@ -57,7 +54,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of ParentAudience.
 
 Use it like this: 
-- #has_/value_for_child_max_age = `=this.dv_has_value_for_child_max_age`  
+- #has_/value_for_/child_max_age = `=this.dv_has_value_for_child_max_age`  
 - has_value_for_child_max_age = `=this.dv_has_value_for_child_max_age`  
 
 Maximal age of the child.

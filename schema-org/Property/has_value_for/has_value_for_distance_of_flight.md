@@ -26,12 +26,9 @@ tags:
 title: has_flight-distance
 type: Predi_Quantity
 dv_has_:
-  value_for_:
-    flight_distance: Distance, Text
-  domain: Flight
+  domain: "[[../../Class/is_a_/Intangible/Trip/Flight|Flight]]"
   name: has_value_for_flight_distance
-  range: Distance, Text
-dv_has_value_for_flight_distance: Distance, Text
+  range: ["[[../../../Dimension/Linear_Dimension/Distance|Distance]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_flight_distance|has_value_for_flight_distance]]"
@@ -41,9 +38,9 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_flight_distance.private|has_value_for_flight_distance.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_flight_distance.personal|has_value_for_flight_distance.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_flight_distance.secret|has_value_for_flight_distance.secret]]"
-dv_has_domain: Flight
+dv_has_domain: "[[../../Class/is_a_/Intangible/Trip/Flight|Flight]]"
 dv_has_name: has_value_for_flight_distance
-dv_has_range: Distance, Text
+dv_has_range: ["[[../../../Dimension/Linear_Dimension/Distance|Distance]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_flight_distance|has_value_for_flight_distance]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_flight_distance.public|has_value_for_flight_distance.public]]"
@@ -65,15 +62,14 @@ The default [[../../../Dimension/Unit_of_Measure|Unit_of_Measure]]  are [[../../
 - as a [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]] with `value` and `unitCode`
 
 Use it like this: 
-- #has_/value_for_/distance_/of_flight = `=this.dv_has_value_for_flight_distance`  
-- has_value_for_distance_of_flight = `=this.dv_has_value_for_flight_distance`  
+- #has_/value_for_/distance_/of_flight = `=this.dv_has_range`  
+- has_value_for_distance_of_flight = `=this.dv_has_range`  
 
 The distance of the flight.
 
 Predicate describes that: 
 
 #has_/domain = `=this.dv_has_domain` 
-
 #has_/name = `=this.dv_has_name` 
 #has_/range = `=this.dv_has_range` 
 

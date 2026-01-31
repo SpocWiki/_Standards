@@ -27,12 +27,9 @@ tags:
 title: has_min-value
 type: Predi_Quantity
 dv_has_:
-  value_for_:
-    min: Number
-  domain: MonetaryAmount, PropertyValue, PropertyValueSpecification, QuantitativeValue
+  domain: ["[[../../Class/is_a_/Intangible/Structured_Value/Monetary_Amount|Monetary_Amount]]", "[[../../Class/is_a_/Intangible/Structured_Value/Property_Value_Pair|Property_Value_Pair]]", "[[../../Class/is_a_/Intangible/Property_Value_Specification|Property_Value_Specification]]", "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"]
   name: has_value_for_min
-  range: Number
-dv_has_value_for_min: Number
+  range: "[[../../Class/is_a_/Data_Type/Number|Number]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_min_value|has_value_for_min_value]]"
@@ -42,9 +39,9 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_min_value.private|has_value_for_min_value.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_min_value.personal|has_value_for_min_value.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_min_value.secret|has_value_for_min_value.secret]]"
-dv_has_domain: MonetaryAmount, PropertyValue, PropertyValueSpecification, QuantitativeValue
+dv_has_domain: ["[[../../Class/is_a_/Intangible/Structured_Value/Monetary_Amount|Monetary_Amount]]", "[[../../Class/is_a_/Intangible/Structured_Value/Property_Value_Pair|Property_Value_Pair]]", "[[../../Class/is_a_/Intangible/Property_Value_Specification|Property_Value_Specification]]", "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"]
 dv_has_name: has_value_for_min
-dv_has_range: Number
+dv_has_range: "[[../../Class/is_a_/Data_Type/Number|Number]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_min_value|has_value_for_min_value]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_min_value.public|has_value_for_min_value.public]]"
@@ -55,18 +52,19 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Property/has_value_for/has_value_for_min_value.secret|has_value_for_min_value.secret]]"
 ---
 
+# [[has_value_for_min]] 
+
 Predicate to describe the Quantity of MonetaryAmount, PropertyValue, PropertyValueSpecification, QuantitativeValue.
 
 Use it like this: 
-- #has_/value_for_min = `=this.dv_has_value_for_min`  
-- has_value_for_min = `=this.dv_has_value_for_min`  
+- #has_/value_for_/min = `=this.dv_has_range`  
+- has_value_for_min = `=this.dv_has_range`  
 
 The lower value of some characteristic or property.
 
 Predicate describes that: 
 
 #has_/domain = `=this.dv_has_domain` 
-
 #has_/name = `=this.dv_has_name` 
 #has_/range = `=this.dv_has_range` 
 

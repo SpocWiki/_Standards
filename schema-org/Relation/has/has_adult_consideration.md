@@ -71,16 +71,16 @@ has_inverse = `=this.dv_has_inverse`
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/adult_consideration :: `=this.dv_has_range` 
-- has_adult_consideration :: `=this.dv_has_range` 
-- is_adult_consideration_in :: `=this.dv_has_domain` 
-- #is_/adult_consideration_/in :: `=this.dv_has_domain` 
+- #has_/adult_consideration : : `=this.dv_has_range` 
+- has_adult_consideration : : `=this.dv_has_range` 
+- is_adult_consideration_in : : `=this.dv_has_domain` 
+- #is_/adult_consideration_/in : : `=this.dv_has_domain` 
 
 Used to tag an item to be intended or suitable for consumption or use by adults only.
 
 Relation describes that: 
 
-#has_/domain  :: "[[../../../Society/Agent/Community/Organization/Business/Offer|Offer]]", "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]"  
+has_domain = `=this.dv_has_domain` 
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

@@ -29,21 +29,10 @@ type: Predi_Relation
 dv_has_:
   actor: "[[../../../Society/Agent/Person|Person]]"
   child_property: "[[has_actor/has_reader|has_reader]]"
-  domain:
-    - "[[../../../Society/Communication/Media/Creative_Work/Clip|Clip]]"
-    - "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Season|Creative_Work_Season]]"
-    - "[[../../../Society/Communication/Media/Creative_Work/Episode|Episode]]"
-    - "[[../../Class/is_a_/Event|Event]]"
-    - "[[../../../Society/Communication/Media/Movie|Movie]]"
-    - "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Movie_Series|Movie_Series]]"
-    - "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Podcast_Series|Podcast_Series]]"
-    - "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Radio_Series|Radio_Series]]"
-    - "[[../../../Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series|TV_Series]]"
-    - "[[../../../Society/Communication/Media/Creative_Work/Game/Video_Game|Video_Game]]"
-    - "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Video_Game_Series|Video_Game_Series]]"
-    - "[[../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Video_Object|Video_Object]]"
+  domain: "[[_Standards/Society/Communication/Media/Creative_Work/Clip.md|Clip]],[[_Standards/Society/Communication/Media/Creative_Work/Creative_Work_Season.md|Creative_Work_Season]],[[_Standards/Society/Communication/Media/Creative_Work/Episode.md|Episode]],[[_Standards/schema-org/Class/is_a_/Event.md|Event]],[[_Standards/Society/Communication/Media/Movie.md|Movie]],[[_Standards/Society/Communication/Media/Creative_Work/Creative_Work_Series/Movie_Series.md|Movie_Series]],[[_Standards/Society/Communication/Media/Creative_Work/Creative_Work_Series/Podcast_Series.md|Podcast_Series]],[[_Standards/Society/Communication/Media/Creative_Work/Creative_Work_Series/Radio_Series.md|Radio_Series]],[[_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series.md|TV_Series]],[[_Standards/Society/Communication/Media/Creative_Work/Game/Video_Game.md|Video_Game]],[[_Standards/Society/Communication/Media/Creative_Work/Creative_Work_Series/Video_Game_Series.md|Video_Game_Series]],[[_Standards/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Video_Object.md|Video_Object]]"
   name: "[[has_actor]]"
   range: "[[../../../Society/Agent/Person|Person]]"
+  inverse: "[[has_actor]]"
 dv_has_actor: "[[../../../Society/Agent/Person|Person]]"
 dv_is_:
   same_as:
@@ -55,19 +44,7 @@ dv_is_:
     - "[[/_personal/schema-org/Relation/has/has_actor.personal|has_actor.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_actor.secret|has_actor.secret]]"
 dv_has_child_property: "[[has_actor/has_reader|has_reader]]"
-dv_has_domain:
-  - "[[../../../Society/Communication/Media/Creative_Work/Clip|Clip]]"
-  - "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Season|Creative_Work_Season]]"
-  - "[[../../../Society/Communication/Media/Creative_Work/Episode|Episode]]"
-  - "[[../../Class/is_a_/Event|Event]]"
-  - "[[../../../Society/Communication/Media/Movie|Movie]]"
-  - "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Movie_Series|Movie_Series]]"
-  - "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Podcast_Series|Podcast_Series]]"
-  - "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Radio_Series|Radio_Series]]"
-  - "[[../../../Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series|TV_Series]]"
-  - "[[../../../Society/Communication/Media/Creative_Work/Game/Video_Game|Video_Game]]"
-  - "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Video_Game_Series|Video_Game_Series]]"
-  - "[[../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Video_Object|Video_Object]]"
+dv_has_domain: "[[_Standards/Society/Communication/Media/Creative_Work/Clip.md|Clip]],[[_Standards/Society/Communication/Media/Creative_Work/Creative_Work_Season.md|Creative_Work_Season]],[[_Standards/Society/Communication/Media/Creative_Work/Episode.md|Episode]],[[_Standards/schema-org/Class/is_a_/Event.md|Event]],[[_Standards/Society/Communication/Media/Movie.md|Movie]],[[_Standards/Society/Communication/Media/Creative_Work/Creative_Work_Series/Movie_Series.md|Movie_Series]],[[_Standards/Society/Communication/Media/Creative_Work/Creative_Work_Series/Podcast_Series.md|Podcast_Series]],[[_Standards/Society/Communication/Media/Creative_Work/Creative_Work_Series/Radio_Series.md|Radio_Series]],[[_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series.md|TV_Series]],[[_Standards/Society/Communication/Media/Creative_Work/Game/Video_Game.md|Video_Game]],[[_Standards/Society/Communication/Media/Creative_Work/Creative_Work_Series/Video_Game_Series.md|Video_Game_Series]],[[_Standards/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Video_Object.md|Video_Object]]"
 dv_has_name: "[[has_actor]]"
 dv_has_range: "[[../../../Society/Agent/Person|Person]]"
 dv_is_same_as:
@@ -78,12 +55,13 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_actor.private|has_actor.private]]"
   - "[[/_personal/schema-org/Relation/has/has_actor.personal|has_actor.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_actor.secret|has_actor.secret]]"
+dv_has_inverse: "[[has_actor]]"
 ---
 
 # [[has_actor]] 
 
 has_child_property = `=this.dv_has_child_property`  
-#has_/inverse :: [[has_actor]] 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/actor : : `=this.dv_has_range` 

@@ -26,12 +26,9 @@ tags:
 title: has_net-worth
 type: Predi_Quantity
 dv_has_:
-  value_for_:
-    net_worth: MonetaryAmount, PriceSpecification
-  domain: Person
+  domain: "[[../../../Society/Agent/Person|Person]]"
   name: has_value_for_net_worth
-  range: MonetaryAmount, PriceSpecification
-dv_has_value_for_net_worth: MonetaryAmount, PriceSpecification
+  range: ["[[../../Class/is_a_/Intangible/Structured_Value/Monetary_Amount|Monetary_Amount]]", "[[../../Class/is_a_/Intangible/Structured_Value/Price_Specification|PriceSpecification]]"]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_net_worth|has_value_for_net_worth]]"
@@ -41,9 +38,9 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_net_worth.private|has_value_for_net_worth.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_net_worth.personal|has_value_for_net_worth.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_net_worth.secret|has_value_for_net_worth.secret]]"
-dv_has_domain: Person
+dv_has_domain: "[[../../../Society/Agent/Person|Person]]"
 dv_has_name: has_value_for_net_worth
-dv_has_range: MonetaryAmount, PriceSpecification
+dv_has_range: ["[[../../Class/is_a_/Intangible/Structured_Value/Monetary_Amount|MonetaryAmount]]", "[[../../Class/is_a_/Intangible/Structured_Value/Price_Specification|PriceSpecification]]"]
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_net_worth|has_value_for_net_worth]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_net_worth.public|has_value_for_net_worth.public]]"
@@ -54,18 +51,19 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Property/has_value_for/has_value_for_net_worth.secret|has_value_for_net_worth.secret]]"
 ---
 
+# [[has_value_for_net_worth]] 
+
 Predicate to describe the Quantity of Person.
 
 Use it like this: 
-- #has_/value_for_net_worth = `=this.dv_has_value_for_net_worth`  
-- has_value_for_net_worth = `=this.dv_has_value_for_net_worth`  
+- #has_/value_for_/net_worth = `=this.dv_has_range`  
+- has_value_for_net_worth = `=this.dv_has_range`  
 
 The total financial value of the person as calculated by subtracting assets from liabilities.
 
 Predicate describes that: 
 
 #has_/domain = `=this.dv_has_domain` 
-
 #has_/name = `=this.dv_has_name` 
 #has_/range = `=this.dv_has_range` 
 

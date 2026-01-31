@@ -26,12 +26,9 @@ tags:
 title: has_discount
 type: Predi_Quantity
 dv_has_:
-  value_for_:
-    discount: Number, Text
-  domain: Order
+  domain: "[[../../Class/is_a_/Intangible/Order|Order]]"
   name: has_value_for_discount
-  range: Number, Text
-dv_has_value_for_discount: Number, Text
+  range: [["[[../../Class/is_a_/Data_Type/Number|Number]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_discount|has_value_for_discount]]"
@@ -41,9 +38,9 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_discount.private|has_value_for_discount.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_discount.personal|has_value_for_discount.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_discount.secret|has_value_for_discount.secret]]"
-dv_has_domain: Order
+dv_has_domain: "[[../../Class/is_a_/Intangible/Order|Order]]"
 dv_has_name: has_value_for_discount
-dv_has_range: Number, Text
+dv_has_range: [["[[../../Class/is_a_/Data_Type/Number|Number]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]]
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_discount|has_value_for_discount]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_discount.public|has_value_for_discount.public]]"
@@ -54,18 +51,19 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Property/has_value_for/has_value_for_discount.secret|has_value_for_discount.secret]]"
 ---
 
+# [[has_value_for_discount]] 
+
 Predicate to describe the Quantity of Order.
 
 Use it like this: 
-- #has_/value_for_discount = `=this.dv_has_value_for_discount`  
-- has_value_for_discount = `=this.dv_has_value_for_discount`  
+- #has_/value_for_/discount = `=this.dv_has_range`  
+- has_value_for_discount = `=this.dv_has_range`  
 
 Any discount applied (to an Order).
 
 Predicate describes that: 
 
 #has_/domain = `=this.dv_has_domain` 
-
 #has_/name = `=this.dv_has_name` 
 #has_/range = `=this.dv_has_range` 
 

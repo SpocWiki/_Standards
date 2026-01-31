@@ -26,12 +26,9 @@ tags:
 title: has_order-quantity
 type: Predi_Quantity
 dv_has_:
-  value_for_:
-    order_quantity: Number
-  domain: OrderItem
+  domain: "[[../../Class/is_a_/Intangible/Order_Item|Order_Item]]"
   name: has_value_for_order_quantity
-  range: Number
-dv_has_value_for_order_quantity: Number
+  range: "[[../../Class/is_a_/Data_Type/Number|Number]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_order_quantity|has_value_for_order_quantity]]"
@@ -41,9 +38,9 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_order_quantity.private|has_value_for_order_quantity.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_order_quantity.personal|has_value_for_order_quantity.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_order_quantity.secret|has_value_for_order_quantity.secret]]"
-dv_has_domain: OrderItem
+dv_has_domain: "[[../../Class/is_a_/Intangible/Order_Item|Order_Item]]"
 dv_has_name: has_value_for_order_quantity
-dv_has_range: Number
+dv_has_range: "[[../../Class/is_a_/Data_Type/Number|Number]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_order_quantity|has_value_for_order_quantity]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_order_quantity.public|has_value_for_order_quantity.public]]"
@@ -54,18 +51,19 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Property/has_value_for/has_value_for_order_quantity.secret|has_value_for_order_quantity.secret]]"
 ---
 
+# [[has_value_for_order_quantity]] 
+
 Predicate to describe the Quantity of OrderItem.
 
 Use it like this: 
-- #has_/value_for_order_quantity = `=this.dv_has_value_for_order_quantity`  
-- has_value_for_order_quantity = `=this.dv_has_value_for_order_quantity`  
+- #has_/value_for_/order_quantity = `=this.dv_has_range`  
+- has_value_for_order_quantity = `=this.dv_has_range`  
 
 The number of the item ordered. If the property is not set, assume the quantity is one.
 
 Predicate describes that: 
 
 #has_/domain = `=this.dv_has_domain` 
-
 #has_/name = `=this.dv_has_name` 
 #has_/range = `=this.dv_has_range` 
 

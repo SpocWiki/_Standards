@@ -26,12 +26,9 @@ tags:
 title: has_geo-radius
 type: Predi_Quantity
 dv_has_:
-  value_for_:
-    geo_radius: Distance, Number, Text
-  domain: GeoCircle
+  domain: "[[../../Class/is_a_/Intangible/Structured_Value/Geo_Shape/Geo_Circle|Geo_Circle]]"
   name: has_value_for_geo_radius
-  range: Distance, Number, Text
-dv_has_value_for_geo_radius: Distance, Number, Text
+  range: ["[[../../../Dimension/Linear_Dimension/Distance|Distance]]", "[[../../Class/is_a_/Data_Type/Number|Number]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_geo_radius|has_value_for_geo_radius]]"
@@ -41,9 +38,9 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_geo_radius.private|has_value_for_geo_radius.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_geo_radius.personal|has_value_for_geo_radius.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_geo_radius.secret|has_value_for_geo_radius.secret]]"
-dv_has_domain: GeoCircle
+dv_has_domain: "[[../../Class/is_a_/Intangible/Structured_Value/Geo_Shape/Geo_Circle|Geo_Circle]]"
 dv_has_name: has_value_for_geo_radius
-dv_has_range: Distance, Number, Text
+dv_has_range: ["[[../../../Dimension/Linear_Dimension/Distance|Distance]]", "[[../../Class/is_a_/Data_Type/Number|Number]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_geo_radius|has_value_for_geo_radius]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_geo_radius.public|has_value_for_geo_radius.public]]"
@@ -65,8 +62,8 @@ The default [[../../../Dimension/Unit_of_Measure|Unit_of_Measure]]  are [[../../
 - as a [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]] with `value` and `unitCode` 
 
 Use it like this: 
-- #has_/value_for_/geo_radius = `=this.dv_has_value_for_geo_radius`  
-- has_value_for_geo_radius = `=this.dv_has_value_for_geo_radius`  
+- #has_/value_for_/geo_radius = `=this.dv_has_range`  
+- has_value_for_geo_radius = `=this.dv_has_range`  
 
 Indicates the approximate radius of a GeoCircle 
 (metres unless indicated otherwise via Distance notation). 

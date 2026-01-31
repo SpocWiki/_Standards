@@ -26,12 +26,9 @@ tags:
 title: has_years-in-operation
 type: Predi_Quantity
 dv_has_:
-  value_for_:
-    years_in_operation: QuantitativeValue
-  domain: BusinessAudience
+  domain: "[[../../Class/is_a_/Intangible/Audience/Business_Audience|Business_Audience]]"
   name: has_value_for_years_in_operation
-  range: QuantitativeValue
-dv_has_value_for_years_in_operation: QuantitativeValue
+  range: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_years_in_operation|has_value_for_years_in_operation]]"
@@ -41,9 +38,9 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_years_in_operation.private|has_value_for_years_in_operation.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_years_in_operation.personal|has_value_for_years_in_operation.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_years_in_operation.secret|has_value_for_years_in_operation.secret]]"
-dv_has_domain: BusinessAudience
+dv_has_domain: "[[../../Class/is_a_/Intangible/Audience/Business_Audience|Business_Audience]]"
 dv_has_name: has_value_for_years_in_operation
-dv_has_range: QuantitativeValue
+dv_has_range: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_years_in_operation|has_value_for_years_in_operation]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_years_in_operation.public|has_value_for_years_in_operation.public]]"
@@ -54,18 +51,19 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Property/has_value_for/has_value_for_years_in_operation.secret|has_value_for_years_in_operation.secret]]"
 ---
 
+# [[has_value_for_years_in_operation]] 
+
 Predicate to describe the Quantity of BusinessAudience.
 
 Use it like this: 
-- #has_/value_for_years_in_operation = `=this.dv_has_value_for_years_in_operation`  
-- has_value_for_years_in_operation = `=this.dv_has_value_for_years_in_operation`  
+- #has_/value_for_/years_in_operation = `=this.dv_has_range`  
+- has_value_for_years_in_operation = `=this.dv_has_range`  
 
 The age of the business.
 
 Predicate describes that: 
 
 #has_/domain = `=this.dv_has_domain` 
-
 #has_/name = `=this.dv_has_name` 
 #has_/range = `=this.dv_has_range` 
 

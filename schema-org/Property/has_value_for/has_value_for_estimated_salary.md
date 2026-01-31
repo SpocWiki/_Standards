@@ -26,12 +26,9 @@ tags:
 title: has_estimated-salary
 type: Predi_Quantity
 dv_has_:
-  value_for_:
-    estimated_salary: MonetaryAmount, MonetaryAmountDistribution, Number
-  domain: JobPosting, Occupation
+  domain: ["[[../../Class/is_a_/Intangible/Job_Posting|Job_Posting]]", "[[../../Class/is_a_/Intangible/Occupation|Occupation]]"]
   name: has_value_for_estimated_salary
-  range: MonetaryAmount, MonetaryAmountDistribution, Number
-dv_has_value_for_estimated_salary: MonetaryAmount, MonetaryAmountDistribution, Number
+  range: ["[[../../Class/is_a_/Intangible/Structured_Value/Monetary_Amount|Monetary_Amount]]", "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution|Monetary_Amount_Distribution]]", "[[../../Class/is_a_/Data_Type/Number|Number]]"]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_estimated_salary|has_value_for_estimated_salary]]"
@@ -41,9 +38,9 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_estimated_salary.private|has_value_for_estimated_salary.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_estimated_salary.personal|has_value_for_estimated_salary.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_estimated_salary.secret|has_value_for_estimated_salary.secret]]"
-dv_has_domain: JobPosting, Occupation
+dv_has_domain: ["[[../../Class/is_a_/Intangible/Job_Posting|Job_Posting]]", "[[../../Class/is_a_/Intangible/Occupation|Occupation]]"]
 dv_has_name: has_value_for_estimated_salary
-dv_has_range: MonetaryAmount, MonetaryAmountDistribution, Number
+dv_has_range: ["[[../../Class/is_a_/Intangible/Structured_Value/Monetary_Amount|Monetary_Amount]]", "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution|Monetary_Amount_Distribution]]", "[[../../Class/is_a_/Data_Type/Number|Number]]"]
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_estimated_salary|has_value_for_estimated_salary]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_estimated_salary.public|has_value_for_estimated_salary.public]]"
@@ -54,18 +51,19 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Property/has_value_for/has_value_for_estimated_salary.secret|has_value_for_estimated_salary.secret]]"
 ---
 
+# [[has_value_for_estimated_salary]] 
+
 Predicate to describe the Quantity of JobPosting, Occupation.
 
 Use it like this: 
-- #has_/value_for_estimated_salary = `=this.dv_has_value_for_estimated_salary`  
-- has_value_for_estimated_salary = `=this.dv_has_value_for_estimated_salary`  
+- #has_/value_for_/estimated_salary = `=this.dv_has_range`  
+- has_value_for_estimated_salary = `=this.dv_has_range`  
 
 An estimated salary for a job posting or occupation, based on a variety of variables including, but not limited to industry, job title, and location. Estimated salaries  are often computed by outside organizations rather than the hiring organization, who may not have committed to the estimated value.
 
 Predicate describes that: 
 
 #has_/domain = `=this.dv_has_domain` 
-
 #has_/name = `=this.dv_has_name` 
 #has_/range = `=this.dv_has_range` 
 

@@ -24,11 +24,9 @@ tags:
 title: has_aircraft
 type: Predi_Relation
 dv_has_:
-  aircraft: Text, Vehicle
-  domain: Flight
+  domain: "[[../../Class/is_a_/Intangible/Trip/Flight|Flight]]"
   name: has_aircraft
-  range: Text, Vehicle
-dv_has_aircraft: Text, Vehicle
+  range: ["[[../../Class/is_a_/Data_Type/Text|Text]]", "[[../../../Technology/Transport/Vehicle|Vehicle]]"]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_aircraft|has_aircraft]]"
@@ -38,9 +36,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_aircraft.private|has_aircraft.private]]"
     - "[[/_personal/schema-org/Relation/has/has_aircraft.personal|has_aircraft.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_aircraft.secret|has_aircraft.secret]]"
-dv_has_domain: Flight
+dv_has_domain: "[[../../Class/is_a_/Intangible/Trip/Flight|Flight]]"
 dv_has_name: has_aircraft
-dv_has_range: Text, Vehicle
+dv_has_range: ["[[../../Class/is_a_/Data_Type/Text|Text]]", "[[../../../Technology/Transport/Vehicle|Vehicle]]"]
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_aircraft|has_aircraft]]"
   - "[[/_public/schema-org/Relation/has/has_aircraft.public|has_aircraft.public]]"
@@ -56,7 +54,7 @@ dv_is_same_as:
 #is_a :: [[../../Relation|Relation]]
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[is_aircraft_for]]
 
 Use it like this: 
 - #has_/aircraft = `=this.dv_has_aircraft`  
@@ -67,7 +65,6 @@ The kind of aircraft (e.g., "Boeing 747").
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

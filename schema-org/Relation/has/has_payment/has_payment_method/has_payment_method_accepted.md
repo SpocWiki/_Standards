@@ -30,23 +30,31 @@ tags:
 title: has_payment_method_accepted
 type: Predi_Relation
 dv_has_:
-  domain: ["[[../../../Society/Agent/Community/Organization/Business/Demand|Demand]]", "[[../../../Society/Agent/Community/Organization/Business/Offer|Offer]]"]
+  domain:
+    - "[[../../../../../Society/Agent/Community/Organization/Business/Demand|Demand]]"
+    - "[[../../../../../Society/Agent/Community/Organization/Business/Offer|Offer]]"
   name: has_payment_method_accepted
-  range: ["[[../../../Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit|Loan_or_Credit]]", "[[../../Enumeration/Payment_Method|Payment_Method]]"]
+  range:
+    - "[[../../../../../Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit|Loan_or_Credit]]"
+    - "[[../../../../Enumeration/Payment_Method|Payment_Method]]"
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_payment_method_accepted|has_payment_method_accepted]]"
+    - "[[has_payment_method_accepted|has_payment_method_accepted]]"
     - "[[/_public/schema-org/Relation/has/has_payment_method_accepted.public|has_payment_method_accepted.public]]"
     - "[[/_internal/schema-org/Relation/has/has_payment_method_accepted.internal|has_payment_method_accepted.internal]]"
     - "[[/_protect/schema-org/Relation/has/has_payment_method_accepted.protect|has_payment_method_accepted.protect]]"
     - "[[/_private/schema-org/Relation/has/has_payment_method_accepted.private|has_payment_method_accepted.private]]"
     - "[[/_personal/schema-org/Relation/has/has_payment_method_accepted.personal|has_payment_method_accepted.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_payment_method_accepted.secret|has_payment_method_accepted.secret]]"
-dv_has_domain: ["[[../../../Society/Agent/Community/Organization/Business/Demand|Demand]]", "[[../../../Society/Agent/Community/Organization/Business/Offer|Offer]]"]
+dv_has_domain:
+  - "[[../../../../../Society/Agent/Community/Organization/Business/Demand|Demand]]"
+  - "[[../../../../../Society/Agent/Community/Organization/Business/Offer|Offer]]"
 dv_has_name: has_payment_method_accepted
-dv_has_range: ["[[../../../Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit|Loan_or_Credit]]", "[[../../Enumeration/Payment_Method|Payment_Method]]"]
+dv_has_range:
+  - "[[../../../../../Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit|Loan_or_Credit]]"
+  - "[[../../../../Enumeration/Payment_Method|Payment_Method]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_payment_method_accepted|has_payment_method_accepted]]"
+  - "[[has_payment_method_accepted|has_payment_method_accepted]]"
   - "[[/_public/schema-org/Relation/has/has_payment_method_accepted.public|has_payment_method_accepted.public]]"
   - "[[/_internal/schema-org/Relation/has/has_payment_method_accepted.internal|has_payment_method_accepted.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_payment_method_accepted.protect|has_payment_method_accepted.protect]]"
@@ -57,16 +65,16 @@ dv_is_same_as:
 
 # [[has_payment_method_accepted]] 
 
-#is_a :: [[../../Relation|Relation]] 
+#is_a :: [[../../../../Relation|Relation]] 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_payment_method_of]]  
+#has_/inverse :: [[is_payment_method_accepted_for]]  
 
 Use it like this: 
 - #has_/payment_/method_/accepted : : `=this.dv_has_range`
 - has_payment_method_accepted : : `=this.dv_has_range`
-- is_payment_method_of : : `=this.dv_has_domain` 
-- #is_/payment_/method_/of : : `=this.dv_has_domain` 
+- is_payment_method_accepted_for : : `=this.dv_has_domain` 
+- #is_/payment_/method_/accepted_for : : `=this.dv_has_domain` 
 
 The payment method(s) accepted by seller for this offer. 
 
@@ -79,7 +87,7 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_payment_method_accepted|has_payment_method_accepted]] 
+### #is_/same_as :: [[has_payment_method_accepted|has_payment_method_accepted]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_payment_method_accepted.public|has_payment_method_accepted.public]] 
 

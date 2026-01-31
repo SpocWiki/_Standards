@@ -26,12 +26,9 @@ tags:
 title: has_minimum-payment-due
 type: Predi_Quantity
 dv_has_:
-  value_for_:
-    minimum_payment_due: MonetaryAmount, PriceSpecification
-  domain: Invoice
+  domain: "[[../../Class/is_a_/Intangible/Invoice|Invoice]]"
   name: has_value_for_minimum_payment_due
-  range: MonetaryAmount, PriceSpecification
-dv_has_value_for_minimum_payment_due: MonetaryAmount, PriceSpecification
+  range: ["[[../../Class/is_a_/Intangible/Structured_Value/Monetary_Amount|Monetary_Amount]]", "[[../../Class/is_a_/Intangible/Structured_Value/Price_Specification|Price_Specification]]"]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_minimum_payment_due|has_value_for_minimum_payment_due]]"
@@ -41,9 +38,9 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_minimum_payment_due.private|has_value_for_minimum_payment_due.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_minimum_payment_due.personal|has_value_for_minimum_payment_due.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_minimum_payment_due.secret|has_value_for_minimum_payment_due.secret]]"
-dv_has_domain: Invoice
+dv_has_domain: "[[../../Class/is_a_/Intangible/Invoice|Invoice]]"
 dv_has_name: has_value_for_minimum_payment_due
-dv_has_range: MonetaryAmount, PriceSpecification
+dv_has_range: ["[[../../Class/is_a_/Intangible/Structured_Value/Monetary_Amount|Monetary_Amount]]", "[[../../Class/is_a_/Intangible/Structured_Value/Price_Specification|Price_Specification]]"]
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_minimum_payment_due|has_value_for_minimum_payment_due]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_minimum_payment_due.public|has_value_for_minimum_payment_due.public]]"
@@ -54,18 +51,19 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Property/has_value_for/has_value_for_minimum_payment_due.secret|has_value_for_minimum_payment_due.secret]]"
 ---
 
+# [[has_value_for_minimum_payment_due]] 
+
 Predicate to describe the Quantity of Invoice.
 
 Use it like this: 
-- #has_/value_for_minimum_payment_due = `=this.dv_has_value_for_minimum_payment_due`  
-- has_value_for_minimum_payment_due = `=this.dv_has_value_for_minimum_payment_due`  
+- #has_/value_for_/minimum_payment_due = `=this.dv_has_range`  
+- has_value_for_minimum_payment_due = `=this.dv_has_range`  
 
 The minimum payment required at this time.
 
 Predicate describes that: 
 
 #has_/domain = `=this.dv_has_domain` 
-
 #has_/name = `=this.dv_has_name` 
 #has_/range = `=this.dv_has_range` 
 

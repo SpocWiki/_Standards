@@ -26,12 +26,9 @@ tags:
 title: has_inventory-level
 type: Predi_Quantity
 dv_has_:
-  value_for_:
-    inventory_level: QuantitativeValue
-  domain: Demand, Offer, SomeProducts
+  domain: ["[[../../../Society/Agent/Community/Organization/Business/Demand|Demand]]", "[[../../../Society/Agent/Community/Organization/Business/Offer|Offer]]", "[[../../../Society/Agent/Community/Organization/Business/Product/Some_Products|Some_Products]]"]
   name: has_value_for_inventory_level
-  range: QuantitativeValue
-dv_has_value_for_inventory_level: QuantitativeValue
+  range: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_inventory_level|has_value_for_inventory_level]]"
@@ -41,9 +38,9 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_inventory_level.private|has_value_for_inventory_level.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_inventory_level.personal|has_value_for_inventory_level.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_inventory_level.secret|has_value_for_inventory_level.secret]]"
-dv_has_domain: Demand, Offer, SomeProducts
+dv_has_domain: ["[[../../../Society/Agent/Community/Organization/Business/Demand|Demand]]", "[[../../../Society/Agent/Community/Organization/Business/Offer|Offer]]", "[[../../../Society/Agent/Community/Organization/Business/Product/Some_Products|Some_Products]]"]
 dv_has_name: has_value_for_inventory_level
-dv_has_range: QuantitativeValue
+dv_has_range: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_inventory_level|has_value_for_inventory_level]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_inventory_level.public|has_value_for_inventory_level.public]]"
@@ -54,11 +51,13 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Property/has_value_for/has_value_for_inventory_level.secret|has_value_for_inventory_level.secret]]"
 ---
 
+# [[has_value_for_inventory_level]] 
+
 Predicate to describe the Quantity of Demand, Offer, SomeProducts.
 
 Use it like this: 
-- #has_/value_for_inventory_level = `=this.dv_has_value_for_inventory_level`  
-- has_value_for_inventory_level = `=this.dv_has_value_for_inventory_level`  
+- #has_/value_for_/inventory_level = `=this.dv_has_range`  
+- has_value_for_inventory_level = `=this.dv_has_range`  
 
 The current approximate inventory level for the item or items.
 

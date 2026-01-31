@@ -26,12 +26,9 @@ tags:
 title: has_duration-of-warranty
 type: Predi_Quantity
 dv_has_:
-  value_for_:
-    duration_of_warranty: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]]"
   domain: "[[../../Class/is_a_/Intangible/Structured_Value/Warranty_Promise|Warranty_Promise]]"
   name: has_duration_of_warranty
   range: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]]"
-dv_has_duration_of_warranty: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]]"
 dv_is_:
   same_as:
     - "[[has_duration_of_warranty|has_duration_of_warranty]]"
@@ -54,11 +51,13 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Property/has_value_for/has_duration_of_warranty.secret|has_duration_of_warranty.secret]]"
 ---
 
+# [[has_duration_of_warranty]] 
+
 Predicate to describe the Quantity of [[../../Class/is_a_/Intangible/Structured_Value/Warranty_Promise|Warranty_Promise]].
 
 Use it like this: 
-- #has_/duration_of_/warranty = `=this.dv_has_duration_of_warranty`  
-- has_duration_of_warranty = `=this.dv_has_duration_of_warranty`  
+- #has_/duration_of_/warranty = `=this.dv_has_range`  
+- has_duration_of_warranty = `=this.dv_has_range`  
 
 The duration of the warranty promise. 
 Common unitCode values are ANN for year, MON for months, or DAY for days.

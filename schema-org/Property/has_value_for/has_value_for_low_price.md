@@ -26,12 +26,9 @@ tags:
 title: has_low-price
 type: Predi_Quantity
 dv_has_:
-  value_for_:
-    low_price: Number, Text
-  domain: AggregateOffer
+  domain: "[[../../../Society/Agent/Community/Organization/Business/Offer/Aggregate_Offer|Aggregate_Offer]]"
   name: has_value_for_low_price
-  range: Number, Text
-dv_has_value_for_low_price: Number, Text
+  range: [["[[../../Class/is_a_/Data_Type/Number|Number]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_low_price|has_value_for_low_price]]"
@@ -41,9 +38,9 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_low_price.private|has_value_for_low_price.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_low_price.personal|has_value_for_low_price.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_low_price.secret|has_value_for_low_price.secret]]"
-dv_has_domain: AggregateOffer
+dv_has_domain: "[[../../../Society/Agent/Community/Organization/Business/Offer/Aggregate_Offer|Aggregate_Offer]]"
 dv_has_name: has_value_for_low_price
-dv_has_range: Number, Text
+dv_has_range: [["[[../../Class/is_a_/Data_Type/Number|Number]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]]
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_low_price|has_value_for_low_price]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_low_price.public|has_value_for_low_price.public]]"
@@ -54,20 +51,17 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Property/has_value_for/has_value_for_low_price.secret|has_value_for_low_price.secret]]"
 ---
 
+# [[has_value_for_low_price]] 
+
 Predicate to describe the Quantity of AggregateOffer.
 
 Use it like this: 
-- #has_/value_for_low_price = `=this.dv_has_value_for_low_price`  
-- has_value_for_low_price = `=this.dv_has_value_for_low_price`  
+- #has_/value_for_/low_price = `=this.dv_has_range`  
+- has_value_for_low_price = `=this.dv_has_range`  
 
 The lowest price of all offers available.
 
-
-
 Usage guidelines:
-
-
-
 <ul>
 <li>Use values from 0123456789 (Unicode 'DIGIT ZERO' (U+0030) to 'DIGIT NINE' (U+0039)) rather than superficially similar Unicode symbols.</li>
 <li>Use '.' (Unicode 'FULL STOP' (U+002E)) rather than ',' to indicate a decimal point. Avoid using these symbols as a readability separator.</li>
@@ -76,7 +70,6 @@ Usage guidelines:
 Predicate describes that: 
 
 #has_/domain = `=this.dv_has_domain` 
-
 #has_/name = `=this.dv_has_name` 
 #has_/range = `=this.dv_has_range` 
 

@@ -26,12 +26,9 @@ tags:
 title: has_amount-of-this-good
 type: Predi_Quantity
 dv_has_:
-  value_for_:
-    amount_of_this_good: Number
-  domain: TypeAndQuantityNode
+  domain: "[[../../Class/is_a_/Intangible/Structured_Value/Type_and_Quantity_Node|Type_and_Quantity_Node]]"
   name: has_value_for_amount_of_this_good
-  range: Number
-dv_has_value_for_amount_of_this_good: Number
+  range: "[[../../Class/is_a_/Data_Type/Number|Number]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_amount_of_this_good|has_value_for_amount_of_this_good]]"
@@ -41,9 +38,9 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.private|has_value_for_amount_of_this_good.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.personal|has_value_for_amount_of_this_good.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.secret|has_value_for_amount_of_this_good.secret]]"
-dv_has_domain: TypeAndQuantityNode
+dv_has_domain: "[[../../Class/is_a_/Intangible/Structured_Value/Type_and_Quantity_Node|Type_and_Quantity_Node]]"
 dv_has_name: has_value_for_amount_of_this_good
-dv_has_range: Number
+dv_has_range: "[[../../Class/is_a_/Data_Type/Number|Number]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_amount_of_this_good|has_value_for_amount_of_this_good]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.public|has_value_for_amount_of_this_good.public]]"
@@ -54,18 +51,19 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.secret|has_value_for_amount_of_this_good.secret]]"
 ---
 
+# [[has_value_for_amount_of_this_good]] 
+
 Predicate to describe the Quantity of TypeAndQuantityNode.
 
 Use it like this: 
-- #has_/value_for_amount_of_this_good = `=this.dv_has_value_for_amount_of_this_good`  
-- has_value_for_amount_of_this_good = `=this.dv_has_value_for_amount_of_this_good`  
+- #has_/value_for_/amount_of_this_good = `=this.dv_has_range`  
+- has_value_for_amount_of_this_good = `=this.dv_has_range`  
 
 The quantity of the goods included in the offer.
 
 Predicate describes that: 
 
 #has_/domain = `=this.dv_has_domain` 
-
 #has_/name = `=this.dv_has_name` 
 #has_/range = `=this.dv_has_range` 
 

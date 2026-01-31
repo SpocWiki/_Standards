@@ -26,12 +26,9 @@ tags:
 title: has_best-rating
 type: Predi_Quantity
 dv_has_:
-  value_for_:
-    best_rating: Number, Text
-  domain: Rating
+  domain: "[[../../Class/is_a_/Intangible/Rating|Rating]]"
   name: has_value_for_best_rating
-  range: Number, Text
-dv_has_value_for_best_rating: Number, Text
+  range: [["[[../../Class/is_a_/Data_Type/Number|Number]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_best_rating|has_value_for_best_rating]]"
@@ -41,9 +38,9 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_best_rating.private|has_value_for_best_rating.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_best_rating.personal|has_value_for_best_rating.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_best_rating.secret|has_value_for_best_rating.secret]]"
-dv_has_domain: Rating
+dv_has_domain: "[[../../Class/is_a_/Intangible/Rating|Rating]]"
 dv_has_name: has_value_for_best_rating
-dv_has_range: Number, Text
+dv_has_range: [["[[../../Class/is_a_/Data_Type/Number|Number]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]]
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_best_rating|has_value_for_best_rating]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_best_rating.public|has_value_for_best_rating.public]]"
@@ -57,15 +54,14 @@ dv_is_same_as:
 Predicate to describe the Quantity of Rating.
 
 Use it like this: 
-- #has_/value_for_best_rating = `=this.dv_has_value_for_best_rating`  
-- has_value_for_best_rating = `=this.dv_has_value_for_best_rating`  
+- #has_/value_for_/best_rating = `=this.dv_has_range`  
+- has_value_for_best_rating = `=this.dv_has_range`  
 
 The highest value allowed in this rating system. If bestRating is omitted, 5 is assumed.
 
 Predicate describes that: 
 
 #has_/domain = `=this.dv_has_domain` 
-
 #has_/name = `=this.dv_has_name` 
 #has_/range = `=this.dv_has_range` 
 

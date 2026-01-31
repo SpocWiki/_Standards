@@ -6,7 +6,7 @@ aliases:
   - schema:accessModeSufficient
   - accessModeSufficient
   - has access mode sufficient
-  - has sufficient access mode 
+  - has sufficient access mode
 confidential: public
 cssclasses:
   - Predicate
@@ -35,6 +35,7 @@ dv_has_:
   domain: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
   name: has_access_mode_sufficient
   range: "[[../../Collection/item_list|Item_List]]"
+  inverse: "[[is_access_mode_sufficient_for]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_access_mode_sufficient|has_access_mode_sufficient]]"
@@ -44,29 +45,32 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_access_mode_sufficient.private|has_access_mode_sufficient.private]]"
     - "[[/_personal/schema-org/Relation/has/has_access_mode_sufficient.personal|has_access_mode_sufficient.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_access_mode_sufficient.secret|has_access_mode_sufficient.secret]]"
+    - "[[has_access_mode_sufficient]]"
 dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
 dv_has_name: has_access_mode_sufficient
 dv_has_range: "[[../../Collection/item_list|Item_List]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_access_mode_sufficient|has_access_mode_sufficient]]"
+  - "[[has_access_mode_sufficient]]"
   - "[[/_public/schema-org/Relation/has/has_access_mode_sufficient.public|has_access_mode_sufficient.public]]"
   - "[[/_internal/schema-org/Relation/has/has_access_mode_sufficient.internal|has_access_mode_sufficient.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_access_mode_sufficient.protect|has_access_mode_sufficient.protect]]"
   - "[[/_private/schema-org/Relation/has/has_access_mode_sufficient.private|has_access_mode_sufficient.private]]"
   - "[[/_personal/schema-org/Relation/has/has_access_mode_sufficient.personal|has_access_mode_sufficient.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_access_mode_sufficient.secret|has_access_mode_sufficient.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_access_mode_sufficient_for]]"
 ---
 
 # [[has_access_mode_sufficient]] 
 
-#is_a :: [[../../Relation|Relation]]
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_access_mode_sufficient_for]]
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
-- #has_/access_mode_/sufficient : : `=this.dv_has_access_mode_sufficient`  
-- has_access_mode_sufficient : : `=this.dv_has_access_mode_sufficient`  
+- #has_/access_mode_/sufficient : : `=this.dv_has_range`  
+- has_access_mode_sufficient : : `=this.dv_has_range` 
 - is_access_mode_sufficient_for : : `=this.dv_has_domain` 
 - #is_/access_mode_/sufficient_for : : `=this.dv_has_domain` 
 

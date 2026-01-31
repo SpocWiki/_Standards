@@ -28,53 +28,61 @@ tags:
 title: has_text_of_storage_requirements
 type: Pred_Text
 dv_has_:
-  text_of_:
-    storage_requirements: Text, URL
-  domain: SoftwareApplication
+  domain: "[[../../../../Society/Communication/Media/Creative_Work/Software_Application|Software_Application]]"
   name: has_text_of_storage_requirements
-  range: Text, URL
-dv_has_text_of_storage_requirements: Text, URL
+  range:
+    - "[[../../../Class/is_a_/Data_Type/Text|Text]]"
+    - "[[../../../Class/is_a_/Data_Type/Text/Url|Url]]"
+  inverse: "[[is_required_storage_for]]"
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Property/Texts/has_storage_requirements|has_storage_requirements]]"
+    - "[[has_required_storage|has_storage_requirements]]"
     - "[[/_public/schema-org/Property/Texts/has_storage_requirements.public|has_storage_requirements.public]]"
     - "[[/_internal/schema-org/Property/Texts/has_storage_requirements.internal|has_storage_requirements.internal]]"
     - "[[/_protect/schema-org/Property/Texts/has_storage_requirements.protect|has_storage_requirements.protect]]"
     - "[[/_private/schema-org/Property/Texts/has_storage_requirements.private|has_storage_requirements.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_storage_requirements.personal|has_storage_requirements.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_storage_requirements.secret|has_storage_requirements.secret]]"
-dv_has_domain: SoftwareApplication
+dv_has_domain: "[[../../../../Society/Communication/Media/Creative_Work/Software_Application|Software_Application]]"
 dv_has_name: has_text_of_storage_requirements
-dv_has_range: Text, URL
+dv_has_range:
+  - "[[../../../Class/is_a_/Data_Type/Text|Text]]"
+  - "[[../../../Class/is_a_/Data_Type/Text/Url|Url]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_storage_requirements|has_storage_requirements]]"
+  - "[[has_required_storage|has_storage_requirements]]"
   - "[[/_public/schema-org/Property/Texts/has_storage_requirements.public|has_storage_requirements.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_storage_requirements.internal|has_storage_requirements.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_storage_requirements.protect|has_storage_requirements.protect]]"
   - "[[/_private/schema-org/Property/Texts/has_storage_requirements.private|has_storage_requirements.private]]"
   - "[[/_personal/schema-org/Property/Texts/has_storage_requirements.personal|has_storage_requirements.personal]]"
   - "[[/_secret/schema-org/Property/Texts/has_storage_requirements.secret|has_storage_requirements.secret]]"
+dv_has_inverse: "[[is_required_storage_for]]"
 ---
 
-Predicate to describe the Text of SoftwareApplication.
+# [[has_required_storage]] 
+
+has_inverse = `=this.dv_has_inverse` 
+
+Predicate to describe the Text of a [[../../../../Society/Communication/Media/Creative_Work/Software_Application|Software_Application]]. 
 
 Use it like this: 
-- #has_/text_of_storage_requirements = `=this.dv_has_text_of_storage_requirements`  
-- has_text_of_storage_requirements = `=this.dv_has_text_of_storage_requirements`  
+- #has_/text_of_storage_requirements : : `=this.dv_has_range` 
+- has_text_of_storage_requirements : : `=this.dv_has_range` 
+- is_required_storage_for : : `=this.dv_has_domain` 
+- #is_/required_/storage_for : : `=this.dv_has_domain` 
 
 Storage requirements (free space required).
 
 Predicated describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_storage_requirements|has_storage_requirements]] 
+### #is_/same_as :: [[has_required_storage|has_storage_requirements]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_storage_requirements.public|has_storage_requirements.public]] 
 

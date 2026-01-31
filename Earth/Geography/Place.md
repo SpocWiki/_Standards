@@ -61,7 +61,7 @@ dv_has_properties:
   - "[[additionalProperty]]"
   - "[[../../schema-org/Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
   - "[[../../schema-org/Property/has_location/has_location_address|has_location_address]]"
-  - "[[../../schema-org/Relation/has/has_aggregate_rating|has_aggregate_rating]]"
+  - "[[../../schema-org/Relation/has/has_rating_aggregate|has_rating_aggregate]]"
   - "[[../../schema-org/Property/has_name/has_name_alternate|has_name_alternate]]"
   - "[[../../schema-org/Relation/has/has_amenity_feature|has_amenity_feature]]"
   - "[[../../schema-org/Property/has_id/has_code_of_branch|branchCode]]"

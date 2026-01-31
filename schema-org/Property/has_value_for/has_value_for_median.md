@@ -25,12 +25,9 @@ tags:
 title: has_median
 type: Predi_Quantity
 dv_has_:
-  value_for_:
-    median: Number
-  domain: QuantitativeValueDistribution
+  domain: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution|Quantitative_Value_Distribution]]"
   name: has_value_for_median
-  range: Number
-dv_has_value_for_median: Number
+  range: "[[../../Class/is_a_/Data_Type/Number|Number]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_median|has_value_for_median]]"
@@ -40,9 +37,9 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_median.private|has_value_for_median.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_median.personal|has_value_for_median.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_median.secret|has_value_for_median.secret]]"
-dv_has_domain: QuantitativeValueDistribution
+dv_has_domain: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution|Quantitative_Value_Distribution]]"
 dv_has_name: has_value_for_median
-dv_has_range: Number
+dv_has_range: "[[../../Class/is_a_/Data_Type/Number|Number]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_median|has_value_for_median]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_median.public|has_value_for_median.public]]"
@@ -53,18 +50,19 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Property/has_value_for/has_value_for_median.secret|has_value_for_median.secret]]"
 ---
 
+# [[has_value_for_median]] 
+
 Predicate to describe the Quantity of QuantitativeValueDistribution.
 
 Use it like this: 
-- #has_/value_for_median = `=this.dv_has_value_for_median`  
-- has_value_for_median = `=this.dv_has_value_for_median`  
+- #has_/value_for_/median = `=this.dv_has_range`  
+- has_value_for_median =  `=this.dv_has_range` 
 
 The median value.
 
 Predicate describes that: 
 
 #has_/domain = `=this.dv_has_domain` 
-
 #has_/name = `=this.dv_has_name` 
 #has_/range = `=this.dv_has_range` 
 

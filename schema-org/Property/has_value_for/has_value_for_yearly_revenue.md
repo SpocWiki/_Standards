@@ -26,12 +26,9 @@ tags:
 title: has_yearly-revenue
 type: Predi_Quantity
 dv_has_:
-  value_for_:
-    yearly_revenue: QuantitativeValue
-  domain: BusinessAudience
+  domain: "[[../../Class/is_a_/Intangible/Audience/Business_Audience|Business_Audience]]"
   name: has_value_for_yearly_revenue
-  range: QuantitativeValue
-dv_has_value_for_yearly_revenue: QuantitativeValue
+  range: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_yearly_revenue|has_value_for_yearly_revenue]]"
@@ -41,9 +38,9 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_yearly_revenue.private|has_value_for_yearly_revenue.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_yearly_revenue.personal|has_value_for_yearly_revenue.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_yearly_revenue.secret|has_value_for_yearly_revenue.secret]]"
-dv_has_domain: BusinessAudience
+dv_has_domain: "[[../../Class/is_a_/Intangible/Audience/Business_Audience|Business_Audience]]"
 dv_has_name: has_value_for_yearly_revenue
-dv_has_range: QuantitativeValue
+dv_has_range: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_yearly_revenue|has_value_for_yearly_revenue]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_yearly_revenue.public|has_value_for_yearly_revenue.public]]"
@@ -54,18 +51,19 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Property/has_value_for/has_value_for_yearly_revenue.secret|has_value_for_yearly_revenue.secret]]"
 ---
 
+# [[has_value_for_yearly_revenue]] 
+
 Predicate to describe the Quantity of BusinessAudience.
 
 Use it like this: 
-- #has_/value_for_yearly_revenue = `=this.dv_has_value_for_yearly_revenue`  
-- has_value_for_yearly_revenue = `=this.dv_has_value_for_yearly_revenue`  
+- #has_/value_for_/yearly_revenue = `=this.dv_has_range`  
+- has_value_for_yearly_revenue = `=this.dv_has_range`  
 
 The size of the business in annual revenue.
 
 Predicate describes that: 
 
 #has_/domain = `=this.dv_has_domain` 
-
 #has_/name = `=this.dv_has_name` 
 #has_/range = `=this.dv_has_range` 
 

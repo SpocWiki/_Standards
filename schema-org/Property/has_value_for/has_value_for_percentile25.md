@@ -26,12 +26,9 @@ tags:
 title: has_percentile25
 type: Predi_Quantity
 dv_has_:
-  value_for_:
-    percentile25: Number
-  domain: QuantitativeValueDistribution
+  domain: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution|Quantitative_Value_Distribution]]"
   name: has_value_for_percentile25
-  range: Number
-dv_has_value_for_percentile25: Number
+  range: "[[../../Class/is_a_/Data_Type/Number|Number]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_percentile25|has_value_for_percentile25]]"
@@ -41,9 +38,9 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_percentile25.private|has_value_for_percentile25.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_percentile25.personal|has_value_for_percentile25.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_percentile25.secret|has_value_for_percentile25.secret]]"
-dv_has_domain: QuantitativeValueDistribution
+dv_has_domain: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution|Quantitative_Value_Distribution]]"
 dv_has_name: has_value_for_percentile25
-dv_has_range: Number
+dv_has_range: "[[../../Class/is_a_/Data_Type/Number|Number]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_percentile25|has_value_for_percentile25]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_percentile25.public|has_value_for_percentile25.public]]"
@@ -54,18 +51,19 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Property/has_value_for/has_value_for_percentile25.secret|has_value_for_percentile25.secret]]"
 ---
 
+# [[has_value_for_percentile25]] 
+
 Predicate to describe the Quantity of QuantitativeValueDistribution.
 
 Use it like this: 
-- #has_/value_for_percentile25 = `=this.dv_has_value_for_percentile25`  
-- has_value_for_percentile25 = `=this.dv_has_value_for_percentile25`  
+- #has_/value_for_/percentile25 = `=this.dv_has_range`  
+- has_value_for_percentile25 = `=this.dv_has_range`  
 
 The 25th percentile value.
 
 Predicate describes that: 
 
 #has_/domain = `=this.dv_has_domain` 
-
 #has_/name = `=this.dv_has_name` 
 #has_/range = `=this.dv_has_range` 
 

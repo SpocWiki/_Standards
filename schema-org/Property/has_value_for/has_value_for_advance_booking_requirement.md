@@ -26,12 +26,9 @@ tags:
 title: has_advance-booking-requirement
 type: Predi_Quantity
 dv_has_:
-  value_for_:
-    advance_booking_requirement: QuantitativeValue
-  domain: Demand, Offer
+  domain: ["[[../../../Society/Agent/Community/Organization/Business/Demand|Demand]]", "[[../../../Society/Agent/Community/Organization/Business/Offer|Offer]]"]
   name: has_value_for_advance_booking_requirement
-  range: QuantitativeValue
-dv_has_value_for_advance_booking_requirement: QuantitativeValue
+  range: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_advance_booking_requirement|has_value_for_advance_booking_requirement]]"
@@ -41,9 +38,9 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_advance_booking_requirement.private|has_value_for_advance_booking_requirement.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_advance_booking_requirement.personal|has_value_for_advance_booking_requirement.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_advance_booking_requirement.secret|has_value_for_advance_booking_requirement.secret]]"
-dv_has_domain: Demand, Offer
+dv_has_domain: ["[[../../../Society/Agent/Community/Organization/Business/Demand|Demand]]", "[[../../../Society/Agent/Community/Organization/Business/Offer|Offer]]"]
 dv_has_name: has_value_for_advance_booking_requirement
-dv_has_range: QuantitativeValue
+dv_has_range: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_advance_booking_requirement|has_value_for_advance_booking_requirement]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_advance_booking_requirement.public|has_value_for_advance_booking_requirement.public]]"
@@ -54,18 +51,19 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Property/has_value_for/has_value_for_advance_booking_requirement.secret|has_value_for_advance_booking_requirement.secret]]"
 ---
 
+# [[has_value_for_advance_booking_requirement]] 
+
 Predicate to describe the Quantity of Demand, Offer.
 
 Use it like this: 
-- #has_/value_for_advance_booking_requirement = `=this.dv_has_value_for_advance_booking_requirement`  
-- has_value_for_advance_booking_requirement = `=this.dv_has_value_for_advance_booking_requirement`  
+- #has_/value_for_/advance_booking_requirement = `=this.dv_has_range`  
+- has_value_for_advance_booking_requirement = `=this.dv_has_range`  
 
 The amount of time that is required between accepting the offer and the actual usage of the resource or service.
 
 Predicate describes that: 
 
 #has_/domain = `=this.dv_has_domain` 
-
 #has_/name = `=this.dv_has_name` 
 #has_/range = `=this.dv_has_range` 
 

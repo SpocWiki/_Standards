@@ -26,12 +26,9 @@ tags:
 title: has_interest-rate
 type: Predi_Quantity
 dv_has_:
-  value_for_:
-    interest_rate: Number, QuantitativeValue
-  domain: FinancialProduct
+  domain: "[[../../../Society/Agent/Community/Organization/Business/Service/Financial_Product|Financial_Product]]"
   name: has_value_for_interest_rate
-  range: Number, QuantitativeValue
-dv_has_value_for_interest_rate: Number, QuantitativeValue
+  range: ["[[../../Class/is_a_/Data_Type/Number|Number]]", "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_interest_rate|has_value_for_interest_rate]]"
@@ -41,9 +38,9 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_interest_rate.private|has_value_for_interest_rate.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_interest_rate.personal|has_value_for_interest_rate.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_interest_rate.secret|has_value_for_interest_rate.secret]]"
-dv_has_domain: FinancialProduct
+dv_has_domain: "[[../../../Society/Agent/Community/Organization/Business/Service/Financial_Product|Financial_Product]]"
 dv_has_name: has_value_for_interest_rate
-dv_has_range: Number, QuantitativeValue
+dv_has_range: ["[[../../Class/is_a_/Data_Type/Number|Number]]", "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"]
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_interest_rate|has_value_for_interest_rate]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_interest_rate.public|has_value_for_interest_rate.public]]"
@@ -54,18 +51,19 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Property/has_value_for/has_value_for_interest_rate.secret|has_value_for_interest_rate.secret]]"
 ---
 
+# [[has_value_for_interest_rate]] 
+
 Predicate to describe the Quantity of FinancialProduct.
 
 Use it like this: 
-- #has_/value_for_interest_rate = `=this.dv_has_value_for_interest_rate`  
-- has_value_for_interest_rate = `=this.dv_has_value_for_interest_rate`  
+- #has_/value_for_/interest_rate = `=this.dv_has_range`  
+- has_value_for_interest_rate = `=this.dv_has_range`  
 
 The interest rate, charged or paid, applicable to the financial product. Note: This is different from the calculated annualPercentageRate.
 
 Predicate describes that: 
 
 #has_/domain = `=this.dv_has_domain` 
-
 #has_/name = `=this.dv_has_name` 
 #has_/range = `=this.dv_has_range` 
 

@@ -27,12 +27,9 @@ tags:
 title: has_broadcast-frequency-value
 type: Predi_Quantity
 dv_has_:
-  value_for_:
-    broadcast_frequency: Number, QuantitativeValue
-  domain: BroadcastFrequencySpecification
+  domain: "[[../../Class/is_a_/Intangible/Broadcast_Frequency_Specification|Broadcast_Frequency_Specification]]"
   name: has_value_for_broadcast_frequency
-  range: Number, QuantitativeValue
-dv_has_value_for_broadcast_frequency: Number, QuantitativeValue
+  range: ["[[../../Class/is_a_/Data_Type/Number|Number]]", "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_broadcast_frequency_value|has_value_for_broadcast_frequency_value]]"
@@ -42,9 +39,9 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_broadcast_frequency_value.private|has_value_for_broadcast_frequency_value.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_broadcast_frequency_value.personal|has_value_for_broadcast_frequency_value.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_broadcast_frequency_value.secret|has_value_for_broadcast_frequency_value.secret]]"
-dv_has_domain: BroadcastFrequencySpecification
+dv_has_domain: "[[../../Class/is_a_/Intangible/Broadcast_Frequency_Specification|Broadcast_Frequency_Specification]]"
 dv_has_name: has_value_for_broadcast_frequency
-dv_has_range: Number, QuantitativeValue
+dv_has_range: ["[[../../Class/is_a_/Data_Type/Number|Number]]", "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"]
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_broadcast_frequency_value|has_value_for_broadcast_frequency_value]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_broadcast_frequency_value.public|has_value_for_broadcast_frequency_value.public]]"
@@ -58,7 +55,7 @@ dv_is_same_as:
 Predicate to describe the Quantity of BroadcastFrequencySpecification.
 
 Use it like this: 
-- #has_/value_for_broadcast_frequency = `=this.dv_has_value_for_broadcast_frequency`  
+- #has_/value_for_/broadcast_frequency = `=this.dv_has_value_for_broadcast_frequency`  
 - has_value_for_broadcast_frequency = `=this.dv_has_value_for_broadcast_frequency`  
 
 The frequency in MHz for a particular broadcast.

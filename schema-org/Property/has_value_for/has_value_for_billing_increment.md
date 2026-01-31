@@ -26,12 +26,9 @@ tags:
 title: has_billing-increment
 type: Predi_Quantity
 dv_has_:
-  value_for_:
-    billing_increment: Number
-  domain: UnitPriceSpecification
+  domain: "[[../../Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification|Unit_Price_Specification]]"
   name: has_value_for_billing_increment
-  range: Number
-dv_has_value_for_billing_increment: Number
+  range: "[[../../Class/is_a_/Data_Type/Number|Number]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_billing_increment|has_value_for_billing_increment]]"
@@ -41,9 +38,9 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_billing_increment.private|has_value_for_billing_increment.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_billing_increment.personal|has_value_for_billing_increment.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_billing_increment.secret|has_value_for_billing_increment.secret]]"
-dv_has_domain: UnitPriceSpecification
+dv_has_domain: "[[../../Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification|Unit_Price_Specification]]"
 dv_has_name: has_value_for_billing_increment
-dv_has_range: Number
+dv_has_range: "[[../../Class/is_a_/Data_Type/Number|Number]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_billing_increment|has_value_for_billing_increment]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_billing_increment.public|has_value_for_billing_increment.public]]"
@@ -54,18 +51,19 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Property/has_value_for/has_value_for_billing_increment.secret|has_value_for_billing_increment.secret]]"
 ---
 
+# [[has_value_for_billing_increment]] 
+
 Predicate to describe the Quantity of UnitPriceSpecification.
 
 Use it like this: 
-- #has_/value_for_billing_increment = `=this.dv_has_value_for_billing_increment`  
-- has_value_for_billing_increment = `=this.dv_has_value_for_billing_increment`  
+- #has_/value_for_/billing_increment = `=this.dv_has_range`  
+- has_value_for_billing_increment = `=this.dv_has_range`  
 
 This property specifies the minimal quantity and rounding increment that will be the basis for the billing. The unit of measurement is specified by the unitCode property.
 
 Predicate describes that: 
 
 #has_/domain = `=this.dv_has_domain` 
-
 #has_/name = `=this.dv_has_name` 
 #has_/range = `=this.dv_has_range` 
 

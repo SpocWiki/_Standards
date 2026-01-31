@@ -26,12 +26,9 @@ tags:
 title: has_price
 type: Predi_Quantity
 dv_has_:
-  value_for_:
-    price: Number, Text
-  domain: Offer, PriceSpecification, TradeAction
+  domain: ["[[../../../Society/Agent/Community/Organization/Business/Offer|Offer]]", "[[../../Class/is_a_/Intangible/Structured_Value/Price_Specification|Price_Specification]]", "[[../../Class/is_a_/Action/Trade_Action|Trade_Action]]"]
   name: has_value_for_price
-  range: Number, Text
-dv_has_value_for_price: Number, Text
+  range: [["[[../../Class/is_a_/Data_Type/Number|Number]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_price|has_value_for_price]]"
@@ -41,9 +38,9 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_price.private|has_value_for_price.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_price.personal|has_value_for_price.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_price.secret|has_value_for_price.secret]]"
-dv_has_domain: Offer, PriceSpecification, TradeAction
+dv_has_domain: ["[[../../../Society/Agent/Community/Organization/Business/Offer|Offer]]", "[[../../Class/is_a_/Intangible/Structured_Value/Price_Specification|Price_Specification]]", "[[../../Class/is_a_/Action/Trade_Action|Trade_Action]]"]
 dv_has_name: has_value_for_price
-dv_has_range: Number, Text
+dv_has_range: [["[[../../Class/is_a_/Data_Type/Number|Number]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]]
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_price|has_value_for_price]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_price.public|has_value_for_price.public]]"
@@ -54,11 +51,13 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Property/has_value_for/has_value_for_price.secret|has_value_for_price.secret]]"
 ---
 
+# [[has_value_for_price]] 
+
 Predicate to describe the Quantity of Offer, PriceSpecification, TradeAction.
 
 Use it like this: 
-- #has_/value_for_price = `=this.dv_has_value_for_price`  
-- has_value_for_price = `=this.dv_has_value_for_price`  
+- #has_/value_for_/price = `=this.dv_has_range`  
+- has_value_for_price = `=this.dv_has_range`  
 
 The offer price of a product, or of a price component when attached to PriceSpecification and its subtypes.
 
@@ -78,7 +77,6 @@ allow the use of a "content=" attribute for publishing simple machine-readable v
 Predicate describes that: 
 
 #has_/domain = `=this.dv_has_domain` 
-
 #has_/name = `=this.dv_has_name` 
 #has_/range = `=this.dv_has_range` 
 

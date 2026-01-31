@@ -26,12 +26,9 @@ tags:
 title: has_occupancy
 type: Predi_Quantity
 dv_has_:
-  value_for_:
-    occupancy: QuantitativeValue
-  domain: Apartment, HotelRoom, SingleFamilyResidence, Suite
+  domain: ["[[../../../Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment|Apartment]]", "[[../../../Earth/Geography/Place/Accommodation/Room/Hotel_Room|Hotel_Room]]", "[[../../../Earth/Geography/Place/Accommodation/Single_Family_Residence|Single_Family_Residence]]", "[[../../../Earth/Geography/Place/Accommodation/Suite|Suite]]"]
   name: has_value_for_occupancy
-  range: QuantitativeValue
-dv_has_value_for_occupancy: QuantitativeValue
+  range: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_occupancy|has_value_for_occupancy]]"
@@ -41,9 +38,9 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_occupancy.private|has_value_for_occupancy.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_occupancy.personal|has_value_for_occupancy.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_occupancy.secret|has_value_for_occupancy.secret]]"
-dv_has_domain: Apartment, HotelRoom, SingleFamilyResidence, Suite
+dv_has_domain: ["[[../../../Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment|Apartment]]", "[[../../../Earth/Geography/Place/Accommodation/Room/Hotel_Room|Hotel_Room]]", "[[../../../Earth/Geography/Place/Accommodation/Single_Family_Residence|Single_Family_Residence]]", "[[../../../Earth/Geography/Place/Accommodation/Suite|Suite]]"]
 dv_has_name: has_value_for_occupancy
-dv_has_range: QuantitativeValue
+dv_has_range: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_occupancy|has_value_for_occupancy]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_occupancy.public|has_value_for_occupancy.public]]"
@@ -54,11 +51,13 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Property/has_value_for/has_value_for_occupancy.secret|has_value_for_occupancy.secret]]"
 ---
 
+# [[has_value_for_occupancy]] 
+
 Predicate to describe the Quantity of Apartment, HotelRoom, SingleFamilyResidence, Suite.
 
 Use it like this: 
-- #has_/value_for_occupancy = `=this.dv_has_value_for_occupancy`  
-- has_value_for_occupancy = `=this.dv_has_value_for_occupancy`  
+- #has_/value_for_/occupancy = `=this.dv_has_range` 
+- has_value_for_occupancy = `=this.dv_has_range` 
 
 The allowed total occupancy for the accommodation in persons (including infants etc). For individual accommodations, this is not necessarily the legal maximum but defines the permitted usage as per the contractual agreement (e.g. a double room used by a single person).
 Typical unit code(s): C62 for person
@@ -66,7 +65,6 @@ Typical unit code(s): C62 for person
 Predicate describes that: 
 
 #has_/domain = `=this.dv_has_domain` 
-
 #has_/name = `=this.dv_has_name` 
 #has_/range = `=this.dv_has_range` 
 

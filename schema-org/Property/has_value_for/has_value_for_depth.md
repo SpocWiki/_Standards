@@ -26,12 +26,9 @@ tags:
 title: has_depth
 type: Predi_Quantity
 dv_has_:
-  value_for_:
-    depth: QuantitativeValue
-  domain: OfferShippingDetails, Product, VisualArtwork
+  domain: ["[[../../Class/is_a_/Intangible/Structured_Value/Offer_Shipping_Details|Offer_Shipping_Details]]", "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]", "[[../../../Society/Communication/Media/Creative_Work/Visual_Artwork|Visual_Artwork]]"]
   name: has_value_for_depth
-  range: QuantitativeValue
-dv_has_value_for_depth: QuantitativeValue
+  range: ["[[../../../Dimension/Linear_Dimension/Distance|Distance]]", "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_depth|has_value_for_depth]]"
@@ -41,9 +38,9 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_depth.private|has_value_for_depth.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_depth.personal|has_value_for_depth.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_depth.secret|has_value_for_depth.secret]]"
-dv_has_domain: OfferShippingDetails, Product, VisualArtwork
+dv_has_domain: ["[[../../Class/is_a_/Intangible/Structured_Value/Offer_Shipping_Details|Offer_Shipping_Details]]", "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]", "[[../../../Society/Communication/Media/Creative_Work/Visual_Artwork|Visual_Artwork]]"]
 dv_has_name: has_value_for_depth
-dv_has_range: Distance, QuantitativeValue
+dv_has_range: ["[[../../../Dimension/Linear_Dimension/Distance|Distance]]", "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"]
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_depth|has_value_for_depth]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_depth.public|has_value_for_depth.public]]"
@@ -65,15 +62,14 @@ The default [[../../../Dimension/Unit_of_Measure|Unit_of_Measure]]  are [[../../
 - as a [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]] with `value` and `unitCode`
 
 Use it like this: 
-- #has_/value_for_/depth = `=this.dv_has_value_for_depth`  
-- has_value_for_depth = `=this.dv_has_value_for_depth`  
+- #has_/value_for_/depth = `=this.dv_has_range`  
+- has_value_for_depth = `=this.dv_has_range`  
 
 The depth of the item.
 
 Predicate describes that: 
 
 #has_/domain = `=this.dv_has_domain` 
-
 #has_/name = `=this.dv_has_name` 
 #has_/range = `=this.dv_has_range` 
 

@@ -26,12 +26,9 @@ tags:
 title: has_mileage-from-odometer
 type: Predi_Quantity
 dv_has_:
-  value_for_:
-    mileage_from_odometer: QuantitativeValue
-  domain: Vehicle
+  domain: "[[../../../Technology/Transport/Vehicle|Vehicle]]"
   name: has_value_for_mileage_from_odometer
-  range: QuantitativeValue
-dv_has_value_for_mileage_from_odometer: QuantitativeValue
+  range: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_mileage_from_odometer|has_value_for_mileage_from_odometer]]"
@@ -41,9 +38,9 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_mileage_from_odometer.private|has_value_for_mileage_from_odometer.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_mileage_from_odometer.personal|has_value_for_mileage_from_odometer.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_mileage_from_odometer.secret|has_value_for_mileage_from_odometer.secret]]"
-dv_has_domain: Vehicle
+dv_has_domain: "[[../../../Technology/Transport/Vehicle|Vehicle]]"
 dv_has_name: has_value_for_mileage_from_odometer
-dv_has_range: QuantitativeValue
+dv_has_range: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_mileage_from_odometer|has_value_for_mileage_from_odometer]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_mileage_from_odometer.public|has_value_for_mileage_from_odometer.public]]"
@@ -54,22 +51,21 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Property/has_value_for/has_value_for_mileage_from_odometer.secret|has_value_for_mileage_from_odometer.secret]]"
 ---
 
+# [[has_value_for_mileage_from_odometer]] 
+
 Predicate to describe the Quantity of Vehicle.
 
 Use it like this: 
-- #has_/value_for_mileage_from_odometer = `=this.dv_has_value_for_mileage_from_odometer`  
-- has_value_for_mileage_from_odometer = `=this.dv_has_value_for_mileage_from_odometer`  
+- #has_/value_for_/mileage_from_odometer = `=this.dv_has_range`  
+- has_value_for_mileage_from_odometer = `=this.dv_has_range`  
 
 The total distance travelled by the particular vehicle since its initial production, as read from its odometer.
-
-
 
 Typical unit code(s): KMT for kilometers, SMI for statute miles
 
 Predicate describes that: 
 
 #has_/domain = `=this.dv_has_domain` 
-
 #has_/name = `=this.dv_has_name` 
 #has_/range = `=this.dv_has_range` 
 

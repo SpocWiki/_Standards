@@ -44,7 +44,7 @@ Predicate to describe the Quantity of [[../../../Technology/Transport/Road_Trans
 
 Use it like this: 
 - #has_/value_for_/load_/on_roof :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]] 
-- #has_/value_for_load_on_roof :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]] 
+- #has_/value_for_/load_on_roof :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]] 
 
 The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
 
