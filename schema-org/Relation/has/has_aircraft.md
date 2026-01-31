@@ -57,8 +57,9 @@ dv_is_same_as:
 #has_/inverse :: [[is_aircraft_for]]
 
 Use it like this: 
-- #has_/aircraft = `=this.dv_has_aircraft`  
-- has_aircraft = `=this.dv_has_aircraft`  
+- #has_/aircraft : : `=this.dv_has_range`  
+- has_aircraft : : `=this.dv_has_range`  
+- is_aircraft_for : : `=this.dv_has_domain` 
 
 The kind of aircraft (e.g., "Boeing 747").
 

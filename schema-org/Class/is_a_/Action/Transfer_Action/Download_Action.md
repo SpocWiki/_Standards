@@ -52,7 +52,7 @@ dv_is_same_as:
 Class of all download_actions, 
 i.e. acts of downloading a Resource from the Web or FTP-Site.
 
-Usually the Object of the [[../../../../Relation/has/has_interaction_type|interactionType]] -Relation in an Instance of the [[../../Intangible/structured_value/interaction_counter|InteractionCounter]] Class.
+Usually the Object of the [[../../../../Relation/has/has_interaction/has_interaction_type|interactionType]] -Relation in an Instance of the [[../../Intangible/structured_value/interaction_counter|InteractionCounter]] Class.
 
 Tag Instances like this: 
 #is_a_/download_action

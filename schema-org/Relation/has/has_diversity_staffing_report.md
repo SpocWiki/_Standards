@@ -80,7 +80,7 @@ Use it like this:
 - is_diversity_staffing_report_of : : [[../../../Society/Agent/Community/Organization/News_Media_Organization|News_Media_Organization]], [[../../../Society/Agent/Community/Organization|Organization]]   
 - #is_/diversity_staffing_report_of : : [[../../../Society/Agent/Community/Organization/News_Media_Organization|News_Media_Organization]], [[../../../Society/Agent/Community/Organization|Organization]]   
 
-For an [[../../../Society/Agent/Community/Organization|Organization]] (often but not necessarily a [[NewsMediaOrganization]]), a report on staffing diversity issues. 
+For an [[../../../Society/Agent/Community/Organization|Organization]] (often but not necessarily a [[../../../Society/Agent/Community/Organization/News_Media_Organization|NewsMediaOrganization]]), a report on staffing diversity issues. 
 In a news context this might be for example ASNE or RTDNA (US) reports, or self-reported.
 
 Relation describes that: 

@@ -71,7 +71,7 @@ has_inverse = `=this.dv_has_inverse`
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/diversity_policy : : `=this.dv_has_range`    
+- #has_/diversity_policy : : `=this.dv_has_range` 
 - has_diversity_policy : : `=this.dv_has_range`   
 - is_diversity_policy_of : : `=this.dv_has_domain`  
 - #is_/diversity_policy_of : : `=this.dv_has_domain`  
@@ -82,9 +82,9 @@ on both staffing and sources, typically providing staffing data.
 
 Relation describes that: 
 
-has_domain  :: [[../../../Society/Agent/Community/Organization/News_Media_Organization|News_Media_Organization]], [[../../../Society/Agent/Community/Organization|Organization]]  
+has_domain = `=this.dv_has_domain`  
 has_name = `=this.dv_has_name` 
-has_range :: [[../../../Society/Communication/Media/Creative_Work|Creative_Work]], [[../../Class/is_a_/Data_Type/Text/Url|Url]] 
+has_range = `=this.dv_has_range`  
 
 
 ## Confidential Links & Embeds: 

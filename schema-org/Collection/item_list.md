@@ -34,12 +34,12 @@ dv_is_:
     - "[[/_personal/schema-org/Collection/item_list.personal|item_list.personal]]"
     - "[[/_secret/schema-org/Collection/item_list.secret|item_list.secret]]"
 dv_has_:
-  parent_class: "[[../Class/is_a_/Intangible]]]"
-  child_class: "[ BreadcrumbList, HowToSection, HowToStep, OfferCatalog ]"
-  properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, itemListElement, itemListOrder, mainEntityOfPage, name, numberOfItems, potentialAction, sameAs, subjectOf, url ]"
-dv_has_parent_class: "[[../Class/is_a_/Intangible]]]"
-dv_has_child_class: "[ BreadcrumbList, HowToSection, HowToStep, OfferCatalog ]"
-dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, itemListElement, itemListOrder, mainEntityOfPage, name, numberOfItems, potentialAction, sameAs, subjectOf, url ]"
+  parent_class: "[[../Class/is_a_/Intangible]]"
+  child_class: [ "[[item_list/breadcrumb_list|breadcrumb_list]]", "[[../../Society/Communication/Media/Creative_Work/How_to/How_to_Section|How_to_Section]]", "[[../../Society/Communication/Media/Creative_Work/How_to/How_to_Step|How_to_Step]]", "[[item_list/offer_catalog|offer_catalog]]" ]
+  properties: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, itemListElement, itemListOrder, mainEntityOfPage, name, numberOfItems, potentialAction, sameAs, subjectOf, url ]
+dv_has_parent_class: "[[../Class/is_a_/Intangible|Intangible]]"
+dv_has_child_class: [ "[[item_list/breadcrumb_list|breadcrumb_list]]", "[[../../Society/Communication/Media/Creative_Work/How_to/How_to_Section|How_to_Section]]", "[[../../Society/Communication/Media/Creative_Work/How_to/How_to_Step|How_to_Step]]", "[[item_list/offer_catalog|offer_catalog]]" ]
+dv_has_properties: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, itemListElement, itemListOrder, mainEntityOfPage, name, numberOfItems, potentialAction, sameAs, subjectOf, url ]
 dv_is_same_as:
   - "[[/_Standards/schema-org/Collection/item_list|item_list]]"
   - "[[/_public/schema-org/Collection/item_list.public|item_list.public]]"
@@ -50,8 +50,10 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Collection/item_list.secret|item_list.secret]]"
 ---
 
+# [[item_list]]
+
 Class of all item-lists. 
-Lists can contain Elements of different Type, because they are used in 1:N Relations like [[../Composite/has_parts|has_parts]],  [[../Class/has_instances|has_instances]] or  [[has_items]]. 
+Lists can contain Elements of different Type, because they are used in 1:N Relations like [[../Composite/has_parts|has_parts]],  [[../Class/has_instance|has_instance]] or  [[has_item]]. 
 
 Tag Instances like this: 
 #is_an_/item_list
@@ -62,7 +64,6 @@ A list of items of any sort — for example, Top 10 Movies About Weathermen, or 
 [[has_sub classe]]
 
 has_parent_class = `=this.dv_has_parent_class` 
-
 has_child_class = `=this.dv_has_child_class` 
 
 has_properties = `=this.dv_has_properties` 

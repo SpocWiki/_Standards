@@ -27,25 +27,23 @@ tags:
 title: has_game_tip
 type: Predi_Relation
 dv_has_:
-  game_tip: CreativeWork
-  domain: VideoGame
+  domain: "[[../../../../Society/Communication/Media/Creative_Work/Game/Video_Game|Video_Game]]"
   name: has_game_tip
-  range: CreativeWork
-dv_has_game_tip: CreativeWork
+  range: "[[../../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_game_tip|has_game_tip]]"
+    - "[[has_game_tip|has_game_tip]]"
     - "[[/_public/schema-org/Relation/has/has_game_tip.public|has_game_tip.public]]"
     - "[[/_internal/schema-org/Relation/has/has_game_tip.internal|has_game_tip.internal]]"
     - "[[/_protect/schema-org/Relation/has/has_game_tip.protect|has_game_tip.protect]]"
     - "[[/_private/schema-org/Relation/has/has_game_tip.private|has_game_tip.private]]"
     - "[[/_personal/schema-org/Relation/has/has_game_tip.personal|has_game_tip.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_game_tip.secret|has_game_tip.secret]]"
-dv_has_domain: VideoGame
+dv_has_domain: "[[../../../../Society/Communication/Media/Creative_Work/Game/Video_Game|Video_Game]]"
 dv_has_name: has_game_tip
-dv_has_range: CreativeWork
+dv_has_range: "[[../../../../Society/Communication/Media/Creative_Work|Creative_Work]]" 
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_game_tip|has_game_tip]]"
+  - "[[has_game_tip|has_game_tip]]"
   - "[[/_public/schema-org/Relation/has/has_game_tip.public|has_game_tip.public]]"
   - "[[/_internal/schema-org/Relation/has/has_game_tip.internal|has_game_tip.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_game_tip.protect|has_game_tip.protect]]"
@@ -54,29 +52,31 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_game_tip.secret|has_game_tip.secret]]"
 ---
 
+# [[has_game_tip]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a :: [[../../../Relation|Relation]] 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[is_game_tip_for]] 
 
 Use it like this: 
-- #has_/game_tip = `=this.dv_has_game_tip`  
-- has_game_tip = `=this.dv_has_game_tip`  
+- #has_/game_/tip : : `=this.dv_has_range`  
+- has_game_tip : : `=this.dv_has_range`  
+- is_game_tip_for : : `=this.dv_has_domain` 
+- #is_/game_/tip_for : : `=this.dv_has_domain` 
 
 Links to tips, tactics, etc.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
-has_range = `=this.dv_has_range` 
+has_range = `=this.dv_has_range`  
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_game_tip|has_game_tip]] 
+### #is_/same_as :: [[has_game_tip|has_game_tip]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_game_tip.public|has_game_tip.public]] 
 

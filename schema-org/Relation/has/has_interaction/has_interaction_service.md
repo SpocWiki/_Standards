@@ -34,7 +34,7 @@ dv_has_:
 dv_has_interaction_service: SoftwareApplication, WebSite
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_interaction_service|has_interaction_service]]"
+    - "[[has_interaction_service|has_interaction_service]]"
     - "[[/_public/schema-org/Relation/has/has_interaction_service.public|has_interaction_service.public]]"
     - "[[/_internal/schema-org/Relation/has/has_interaction_service.internal|has_interaction_service.internal]]"
     - "[[/_protect/schema-org/Relation/has/has_interaction_service.protect|has_interaction_service.protect]]"
@@ -45,7 +45,7 @@ dv_has_domain: InteractionCounter
 dv_has_name: has_interaction_service
 dv_has_range: SoftwareApplication, WebSite
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_interaction_service|has_interaction_service]]"
+  - "[[has_interaction_service|has_interaction_service]]"
   - "[[/_public/schema-org/Relation/has/has_interaction_service.public|has_interaction_service.public]]"
   - "[[/_internal/schema-org/Relation/has/has_interaction_service.internal|has_interaction_service.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_interaction_service.protect|has_interaction_service.protect]]"
@@ -55,7 +55,7 @@ dv_is_same_as:
 ---
 
 
-is_a :: [[../../Relation|Relation]] 
+is_a :: [[../../../Relation|Relation]] 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 
@@ -75,7 +75,7 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_interaction_service|has_interaction_service]] 
+### #is_/same_as :: [[has_interaction_service|has_interaction_service]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_interaction_service.public|has_interaction_service.public]] 
 

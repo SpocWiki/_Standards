@@ -27,11 +27,9 @@ tags:
 title: has_identifying_exam
 type: Predi_Relation
 dv_has_:
-  identifying_exam: PhysicalExam
-  domain: MedicalSign
+  domain: "[[../../../bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Sign|Medical_Sign]]"
   name: has_identifying_exam
-  range: PhysicalExam
-dv_has_identifying_exam: PhysicalExam
+  range: "[[../../../bio/Medicine/Medical_Enumeration/Physical_Exam|Physical_Exam]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_identifying_exam|has_identifying_exam]]"
@@ -41,9 +39,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_identifying_exam.private|has_identifying_exam.private]]"
     - "[[/_personal/schema-org/Relation/has/has_identifying_exam.personal|has_identifying_exam.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_identifying_exam.secret|has_identifying_exam.secret]]"
-dv_has_domain: MedicalSign
+dv_has_domain: "[[../../../bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Sign|Medical_Sign]]"
 dv_has_name: has_identifying_exam
-dv_has_range: PhysicalExam
+dv_has_range: "[[../../../bio/Medicine/Medical_Enumeration/Physical_Exam|Physical_Exam]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_identifying_exam|has_identifying_exam]]"
   - "[[/_public/schema-org/Relation/has/has_identifying_exam.public|has_identifying_exam.public]]"
@@ -54,22 +52,24 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_identifying_exam.secret|has_identifying_exam.secret]]"
 ---
 
+# [[has_identifying_exam]] 
 
 is_a :: [[../../Relation|Relation]] 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[is_identifying_exam_of]]
 
 Use it like this: 
-- #has_/identifying_exam = `=this.dv_has_identifying_exam`  
-- has_identifying_exam = `=this.dv_has_identifying_exam`  
+- #has_/identifying_exam : : `=this.dv_has_range`  
+- has_identifying_exam : : `=this.dv_has_range`  
+- is_identifying_exam_of : : `=this.dv_has_domain` 
+- #is_/identifying_exam_of : : `=this.dv_has_domain` 
 
 A physical examination that can identify this sign.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

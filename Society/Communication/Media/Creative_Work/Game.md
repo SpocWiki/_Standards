@@ -1,7 +1,7 @@
 ---
 aliases:
   - game
-  - game
+  - schema:Game
   - Game
   - is_a_game
   - games

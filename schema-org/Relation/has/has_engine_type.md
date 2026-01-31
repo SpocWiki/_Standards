@@ -78,6 +78,7 @@ Use it like this:
 - #has_/engine_type : : `=this.dv_has_range` 
 - has_engine_type : : `=this.dv_has_range` 
 - is_engine_type_of : : `=this.dv_has_domain` 
+- #is_/engine_type_of : : `=this.dv_has_domain` 
 
 The type of engine or engines powering the vehicle.
 

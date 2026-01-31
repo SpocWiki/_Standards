@@ -29,24 +29,30 @@ title: has_interaction_statistic
 type: Predi_Relation
 dv_has_:
   interaction_statistic: InteractionCounter
-  domain: ["[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]", "[[../../../Society/Agent/Community/Organization|Organization]]", "[[../../../Society/Agent/Person|Person]]"] 
+  domain:
+    - "[[../../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
+    - "[[../../../../Society/Agent/Community/Organization|Organization]]"
+    - "[[../../../../Society/Agent/Person|Person]]"
   name: has_interaction_statistic
   range: InteractionCounter
 dv_has_interaction_statistic: InteractionCounter
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_interaction_statistic|has_interaction_statistic]]"
+    - "[[has_interaction_statistic|has_interaction_statistic]]"
     - "[[/_public/schema-org/Relation/has/has_interaction_statistic.public|has_interaction_statistic.public]]"
     - "[[/_internal/schema-org/Relation/has/has_interaction_statistic.internal|has_interaction_statistic.internal]]"
     - "[[/_protect/schema-org/Relation/has/has_interaction_statistic.protect|has_interaction_statistic.protect]]"
     - "[[/_private/schema-org/Relation/has/has_interaction_statistic.private|has_interaction_statistic.private]]"
     - "[[/_personal/schema-org/Relation/has/has_interaction_statistic.personal|has_interaction_statistic.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_interaction_statistic.secret|has_interaction_statistic.secret]]"
-dv_has_domain: ["[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]", "[[../../../Society/Agent/Community/Organization|Organization]]", "[[../../../Society/Agent/Person|Person]]"] 
+dv_has_domain:
+  - "[[../../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
+  - "[[../../../../Society/Agent/Community/Organization|Organization]]"
+  - "[[../../../../Society/Agent/Person|Person]]"
 dv_has_name: has_interaction_statistic
-dv_has_range: "[[../../Class/is_a_/Intangible/Structured_Value/Interaction_Counter|Interaction_Counter]]"
+dv_has_range: "[[../../../Class/is_a_/Intangible/Structured_Value/Interaction_Counter|Interaction_Counter]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_interaction_statistic|has_interaction_statistic]]"
+  - "[[has_interaction_statistic|has_interaction_statistic]]"
   - "[[/_public/schema-org/Relation/has/has_interaction_statistic.public|has_interaction_statistic.public]]"
   - "[[/_internal/schema-org/Relation/has/has_interaction_statistic.internal|has_interaction_statistic.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_interaction_statistic.protect|has_interaction_statistic.protect]]"
@@ -57,7 +63,7 @@ dv_is_same_as:
 
 # [[has_interaction_statistic]] 
 
-This is a List of [[../../Class/is_a_/Intangible/structured_value/interaction_counter|InteractionCounter]]s counting the number of interactions for this CreativeWork using a WebSite or SoftwareApplication. 
+This is a List of [[../../../Class/is_a_/Intangible/Structured_Value/Interaction_Counter|InteractionCounter]]s counting the number of interactions for this CreativeWork using a WebSite or SoftwareApplication. 
 
 Use a specific [[has_interaction_type|interactionType]] for each InteractionCounter.
 
@@ -76,7 +82,7 @@ has_range = `=this.dv_has_range`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_interaction_statistic|has_interaction_statistic]] 
+### #is_/same_as :: [[has_interaction_statistic|has_interaction_statistic]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_interaction_statistic.public|has_interaction_statistic.public]] 
 

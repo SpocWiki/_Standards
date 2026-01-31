@@ -27,11 +27,9 @@ tags:
 title: has_fuel_type
 type: Predi_Relation
 dv_has_:
-  fuel_type: QualitativeValue, Text, URL
-  domain: EngineSpecification, Vehicle
+  domain: ["[[../../Class/is_a_/Intangible/Structured_Value/Engine_Specification|Engine_Specification]]", "[[../../../Technology/Transport/Vehicle|Vehicle]]"]
   name: has_fuel_type
-  range: QualitativeValue, Text, URL
-dv_has_fuel_type: QualitativeValue, Text, URL
+  range: ["[[../../Enumeration/Qualitative_Value|Qualitative_Value]]", "[[../../Class/is_a_/Data_Type/Text|Text]]", "[[../../Class/is_a_/Data_Type/Text/Url|Url]]"]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_fuel_type|has_fuel_type]]"
@@ -41,9 +39,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_fuel_type.private|has_fuel_type.private]]"
     - "[[/_personal/schema-org/Relation/has/has_fuel_type.personal|has_fuel_type.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_fuel_type.secret|has_fuel_type.secret]]"
-dv_has_domain: EngineSpecification, Vehicle
+dv_has_domain: ["[[../../Class/is_a_/Intangible/Structured_Value/Engine_Specification|Engine_Specification]]", "[[../../../Technology/Transport/Vehicle|Vehicle]]"]
 dv_has_name: has_fuel_type
-dv_has_range: QualitativeValue, Text, URL
+dv_has_range: ["[[../../Enumeration/Qualitative_Value|Qualitative_Value]]", "[[../../Class/is_a_/Data_Type/Text|Text]]", "[[../../Class/is_a_/Data_Type/Text/Url|Url]]"]
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_fuel_type|has_fuel_type]]"
   - "[[/_public/schema-org/Relation/has/has_fuel_type.public|has_fuel_type.public]]"
@@ -54,22 +52,24 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_fuel_type.secret|has_fuel_type.secret]]"
 ---
 
+# [[has_fuel_type]] 
 
 is_a :: [[../../Relation|Relation]] 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[is_fuel_type_for]] 
 
 Use it like this: 
-- #has_/fuel_type = `=this.dv_has_fuel_type`  
-- has_fuel_type = `=this.dv_has_fuel_type`  
+- #has_/fuel_type : : `=this.dv_has_range`
+- has_fuel_type : : `=this.dv_has_range`  
+- is_fuel_type_for : : `=this.dv_has_domain`
+- #is_/fuel_type_for : : `=this.dv_has_domain`
 
 The type of fuel suitable for the engine or engines of the vehicle. If the vehicle has only one engine, this property can be attached directly to the vehicle.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

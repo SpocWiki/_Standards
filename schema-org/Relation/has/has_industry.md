@@ -23,11 +23,9 @@ tags:
 title: has_industry
 type: Predi_Relation
 dv_has_:
-  industry: DefinedTerm, Text
-  domain: JobPosting
+  domain: "[[../../Class/is_a_/Intangible/Job_Posting|Job_Posting]]"
   name: has_industry
-  range: DefinedTerm, Text
-dv_has_industry: DefinedTerm, Text
+  range: ["[[../../Class/is_a_/Intangible/Defined_Term|Defined_Term]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_industry|has_industry]]"
@@ -37,9 +35,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_industry.private|has_industry.private]]"
     - "[[/_personal/schema-org/Relation/has/has_industry.personal|has_industry.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_industry.secret|has_industry.secret]]"
-dv_has_domain: JobPosting
+dv_has_domain: "[[../../Class/is_a_/Intangible/Job_Posting|Job_Posting]]"
 dv_has_name: has_industry
-dv_has_range: DefinedTerm, Text
+dv_has_range: ["[[../../Class/is_a_/Intangible/Defined_Term|Defined_Term]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_industry|has_industry]]"
   - "[[/_public/schema-org/Relation/has/has_industry.public|has_industry.public]]"
@@ -50,22 +48,24 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_industry.secret|has_industry.secret]]"
 ---
 
+# [[has_industry]]
 
 is_a :: [[../../Relation|Relation]] 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[is_industry_of]]
 
 Use it like this: 
-- #has_/industry = `=this.dv_has_industry`  
-- has_industry = `=this.dv_has_industry`  
+- #has_/industry : : `=this.dv_has_range`  
+- has_industry : : `=this.dv_has_range` 
+- is_industry_of : : `=this.dv_has_domain`  
+- #is_/industry_of : : `=this.dv_has_domain`  
 
 The industry associated with the job position.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

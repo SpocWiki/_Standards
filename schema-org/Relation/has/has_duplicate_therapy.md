@@ -57,12 +57,12 @@ dv_is_same_as:
 is_a :: [[../../Relation|Relation]] 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_duplicate_therapy_of]]  
+#has_/inverse :: [[has_duplicate_therapy]]  
+#is_/similar_to :: [[../is_similar_to|is_similar_to]] 
 
 Use it like this: 
-- #has_/duplicate_therapy : : `=this.dv_has_range`   
-- has_duplicate_therapy : :  `=this.dv_has_range`   
-- is_duplicate_therapy_of : : `=this.dv_has_domain` 
+- #has_/duplicate_therapy : : `=this.dv_has_range` 
+- has_duplicate_therapy : :  `=this.dv_has_range` 
 
 A therapy that duplicates or overlaps this one.
 

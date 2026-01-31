@@ -49,7 +49,7 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Like_Action.secret|Like_Action.secret]]"
 ---
 
-Class of all [[like_action]]s. This is used also to type the [[../../../../../Relation/has/has_interaction_type|interaction-type]] of the [[../../../Intangible/structured_value/interaction_counter|interaction-counter]]. 
+Class of all [[like_action]]s. This is used also to type the [[../../../../../Relation/has/has_interaction/has_interaction_type|interaction-type]] of the [[../../../Intangible/structured_value/interaction_counter|interaction-counter]]. 
 
 Tag Instances like this: 
 #is_a_/like_action

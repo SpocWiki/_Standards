@@ -10,22 +10,48 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - special_announcement
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_special_announcement Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Class
   - schema-org/Class
 title: is_a_special_announcement Class
 type: Type
+dv_is_:
+  part_of: https://pending.schema.org
+  same_as:
+    - "[[Special_Announcement]]"
+    - "[[/_public/Society/Communication/Media/Creative_Work/Special_Announcement.public|Special_Announcement.public]]"
+    - "[[/_internal/Society/Communication/Media/Creative_Work/Special_Announcement.internal|Special_Announcement.internal]]"
+    - "[[/_protect/Society/Communication/Media/Creative_Work/Special_Announcement.protect|Special_Announcement.protect]]"
+    - "[[/_private/Society/Communication/Media/Creative_Work/Special_Announcement.private|Special_Announcement.private]]"
+    - "[[/_personal/Society/Communication/Media/Creative_Work/Special_Announcement.personal|Special_Announcement.personal]]"
+    - "[[/_secret/Society/Communication/Media/Creative_Work/Special_Announcement.secret|Special_Announcement.secret]]"
+dv_has_:
+  parent_class: "[[../CreativeWork]]"
+  properties: about, [[../../../../schema-org/Property/Texts/has_abstract|has_abstract]], accessMode, [[../../../../schema-org/Relation/has/has_access_mode_sufficient|has_access_mode_sufficient]], accessibilityAPI, [[../../../../schema-org/Property/Texts/has_accessibility_control|has_accessibility_control]], [[../../../../schema-org/Property/Texts/has_accessibility_feature|has_accessibility_feature]], accessibilityHazard, [[../../../../schema-org/Property/Texts/has_accessibility_summary|has_accessibility_summary]], accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, announcementLocation, archivedAt, assesses, associatedMedia, audience, audio, author, award, awards, category, character, citation, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePosted, datePublished, description, disambiguatingDescription, discussionUrl, diseasePreventionInfo, diseaseSpreadStatistics, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, gettingTestedInfo, governmentBenefitsInfo, hasPart, headline, identifier, image, inLanguage, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, name, newsUpdatesAndGuidelines, offers, pattern, position, potentialAction, producer, provider, publicTransportClosuresInfo, publication, publisher, publisherImprint, publishingPrinciples, quarantineGuidelines, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, schoolClosuresInfo, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, travelBans, typicalAgeRange, url, usageInfo, version, video, webFeed, workExample, workTranslation
+dv_is_part_of: https://pending.schema.org
+dv_has_parent_class: "[[../CreativeWork]]"
+dv_has_properties: about, [[../../../../schema-org/Property/Texts/has_abstract|has_abstract]], accessMode, [[../../../../schema-org/Relation/has/has_access_mode_sufficient|has_access_mode_sufficient]], accessibilityAPI, [[../../../../schema-org/Property/Texts/has_accessibility_control|has_accessibility_control]], [[../../../../schema-org/Property/Texts/has_accessibility_feature|has_accessibility_feature]], accessibilityHazard, [[../../../../schema-org/Property/Texts/has_accessibility_summary|has_accessibility_summary]], accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, announcementLocation, archivedAt, assesses, associatedMedia, audience, audio, author, award, awards, category, character, citation, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePosted, datePublished, description, disambiguatingDescription, discussionUrl, diseasePreventionInfo, diseaseSpreadStatistics, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, gettingTestedInfo, governmentBenefitsInfo, hasPart, headline, identifier, image, inLanguage, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, name, newsUpdatesAndGuidelines, offers, pattern, position, potentialAction, producer, provider, publicTransportClosuresInfo, publication, publisher, publisherImprint, publishingPrinciples, quarantineGuidelines, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, schoolClosuresInfo, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, travelBans, typicalAgeRange, url, usageInfo, version, video, webFeed, workExample, workTranslation
+dv_is_same_as:
+  - "[[Special_Announcement]]"
+  - "[[/_public/Society/Communication/Media/Creative_Work/Special_Announcement.public|Special_Announcement.public]]"
+  - "[[/_internal/Society/Communication/Media/Creative_Work/Special_Announcement.internal|Special_Announcement.internal]]"
+  - "[[/_protect/Society/Communication/Media/Creative_Work/Special_Announcement.protect|Special_Announcement.protect]]"
+  - "[[/_private/Society/Communication/Media/Creative_Work/Special_Announcement.private|Special_Announcement.private]]"
+  - "[[/_personal/Society/Communication/Media/Creative_Work/Special_Announcement.personal|Special_Announcement.personal]]"
+  - "[[/_secret/Society/Communication/Media/Creative_Work/Special_Announcement.secret|Special_Announcement.secret]]"
 ---
+
+# [[Special_Announcement]] 
 
 Class of all special_announcements.
 
@@ -35,13 +61,14 @@ Tag Instances like this:
 #is_/part_of :: https://pending.schema.org  
 
 A SpecialAnnouncement combines a simple date-stamped textual information update
-	  with contextualized Web links and other structured data.  It represents an information update made by a
-	  locally-oriented organization, for example schools, pharmacies, healthcare providers,  community groups, police,
-	  local government.
+with contextualized Web links and other structured data.  
+
+It represents an information update made by a locally-oriented organization, for example 
+- schools, pharmacies, healthcare providers,  community groups, police, local government.
 
 For work in progress guidelines on Coronavirus-related markup see <a href="https://docs.google.com/document/d/14ikaGCKxo50rRM7nvKSlbUpjyIk2WMQd3IkB1lItlrM/edit#">this doc</a>.
 
-The motivating scenario for SpecialAnnouncement is the <a href="https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic">Coronavirus pandemic</a>, 
+The motivating scenario for [[Special_Announcement|Special_Announcement]] is the <a href="https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic">Coronavirus pandemic</a>, 
 and the initial vocabulary is oriented to this urgent situation. 
 
 Schema.org expect to improve the markup iteratively as it is deployed and as feedback emerges from use. 
@@ -116,7 +143,7 @@ e.g. "application/rss+xml" or "application/atom+xml".
 
 #has_/parent_class :: [[../CreativeWork]]  
 
-#has_/properties :: [ about, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, announcementLocation, archivedAt, assesses, associatedMedia, audience, audio, author, award, awards, category, character, citation, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePosted, datePublished, description, disambiguatingDescription, discussionUrl, diseasePreventionInfo, diseaseSpreadStatistics, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, gettingTestedInfo, governmentBenefitsInfo, hasPart, headline, identifier, image, inLanguage, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, name, newsUpdatesAndGuidelines, offers, pattern, position, potentialAction, producer, provider, publicTransportClosuresInfo, publication, publisher, publisherImprint, publishingPrinciples, quarantineGuidelines, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, schoolClosuresInfo, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, travelBans, typicalAgeRange, url, usageInfo, version, video, webFeed, workExample, workTranslation ]  
+#has_/properties ::  about, [[../../../../schema-org/Property/Texts/has_abstract|has_abstract]], accessMode, [[../../../../schema-org/Relation/has/has_access_mode_sufficient|has_access_mode_sufficient]], accessibilityAPI, [[../../../../schema-org/Property/Texts/has_accessibility_control|has_accessibility_control]], [[../../../../schema-org/Property/Texts/has_accessibility_feature|has_accessibility_feature]], accessibilityHazard, [[../../../../schema-org/Property/Texts/has_accessibility_summary|has_accessibility_summary]], accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, announcementLocation, archivedAt, assesses, associatedMedia, audience, audio, author, award, awards, category, character, citation, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePosted, datePublished, description, disambiguatingDescription, discussionUrl, diseasePreventionInfo, diseaseSpreadStatistics, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, gettingTestedInfo, governmentBenefitsInfo, hasPart, headline, identifier, image, inLanguage, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, name, newsUpdatesAndGuidelines, offers, pattern, position, potentialAction, producer, provider, publicTransportClosuresInfo, publication, publisher, publisherImprint, publishingPrinciples, quarantineGuidelines, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, schoolClosuresInfo, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, [[../../../../schema-org/Property/has_url_for/has_url_for_travel_bans|has_url_for_travel_bans]], [[../../../../schema-org/Property/Texts/has_typical_age_range|has_typical_age_range]], [[../../../../schema-org/Property/has_url_for/has_url|has_url]], [[../../../../schema-org/Relation/has/has_usage_info|has_usage_info]], [[../../../../schema-org/Property/has_value_for/has_value_for_version|has_value_for_version]], [[../../../../schema-org/Relation/has/has_video|has_video]], [[../../../../schema-org/Relation/has/has_web_feed|has_web_feed]], [[../../../../schema-org/Relation/has/has_work/has_work_example|has_work_example]], [[../../../../schema-org/Relation/has/has_work/has_work_translation|has_work_translation]]  
 
 ## Confidential Links & Embeds: 
 

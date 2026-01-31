@@ -57,6 +57,9 @@ dv_is_same_as:
 
 # [[has_rating_value]] 
 
+#has_/inverse :: [[is_rating_value_of]] 
+#is_/different_from :: [[../../../Relation/has/has_review/has_review_rating|has_review_rating]] 
+
 [[../../../Predicate|Predicate]] to describe the Quantity of Rating.
 Prefer float-point Ratings for open-world Properties, 
 because you can always fit a new Rating between 2 neighboring Ratings 
@@ -67,12 +70,12 @@ The 52-bit Limit of double precision float-point Numbers require that you re-ind
 Additionally a base-Range from 0-99 Percent/Cent is recommended 
 to allow familiar casts to int. 
 
-Similarly the common [[../../has_number_of/has_number_of_stars_rating]]  #has_/value_for_/star_rating_stars can be mapped to this Scale. 
+Similarly the common [[has_rating_stars]]  #has_/value_for_/star_rating_stars can be mapped to this Scale. 
 
 
 Use it like this: 
-- #has_/value_for_/rating = `=this.dv_has_range`
-- has_value_for_rating = `=this.dv_has_range`  
+- #has_/rating_/value = `=this.dv_has_range`
+- has_rating_value = `=this.dv_has_range`  
 
 The rating for the content.
 

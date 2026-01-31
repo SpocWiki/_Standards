@@ -27,9 +27,10 @@ tags:
 title: has_distinguishing_sign
 type: Predi_Relation
 dv_has_:
-  domain: "[[../../../bio/Medicine/Medical_Entity/Medical_Intangible/D_Dx_Element|D_Dx_Element]]" 
+  domain: "[[../../../bio/Medicine/Medical_Entity/Medical_Intangible/D_Dx_Element|D_Dx_Element]]"
   name: has_distinguishing_sign
   range: "[[../../../bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom|Medical_Sign_or_Symptom]]"
+  inverse: "[[is_distinguishing_sign_of]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_distinguishing_sign|has_distinguishing_sign]]"
@@ -39,25 +40,28 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_distinguishing_sign.private|has_distinguishing_sign.private]]"
     - "[[/_personal/schema-org/Relation/has/has_distinguishing_sign.personal|has_distinguishing_sign.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_distinguishing_sign.secret|has_distinguishing_sign.secret]]"
-dv_has_domain: "[[../../../bio/Medicine/Medical_Entity/Medical_Intangible/D_Dx_Element|D_Dx_Element]]" 
+    - "[[has_distinguishing_sign]]"
+dv_has_domain: "[[../../../bio/Medicine/Medical_Entity/Medical_Intangible/D_Dx_Element|D_Dx_Element]]"
 dv_has_name: has_distinguishing_sign
 dv_has_range: "[[../../../bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom|Medical_Sign_or_Symptom]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_distinguishing_sign|has_distinguishing_sign]]"
+  - "[[has_distinguishing_sign]]"
   - "[[/_public/schema-org/Relation/has/has_distinguishing_sign.public|has_distinguishing_sign.public]]"
   - "[[/_internal/schema-org/Relation/has/has_distinguishing_sign.internal|has_distinguishing_sign.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_distinguishing_sign.protect|has_distinguishing_sign.protect]]"
   - "[[/_private/schema-org/Relation/has/has_distinguishing_sign.private|has_distinguishing_sign.private]]"
   - "[[/_personal/schema-org/Relation/has/has_distinguishing_sign.personal|has_distinguishing_sign.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_distinguishing_sign.secret|has_distinguishing_sign.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_distinguishing_sign_of]]"
 ---
 
 # [[has_distinguishing_sign]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_distinguishing_sign_of]] 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/distinguishing_sign : :  `=this.dv_has_range` 

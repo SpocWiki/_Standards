@@ -53,7 +53,7 @@ dv_is_same_as:
 #is_a :: [[../../Relation|Relation]]
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_audio_of]]
+#has_/inverse :: [[is_audio_of]] 
 
 Use it like this: 
 - #has_/audio : : `=this.dv_has_range` 

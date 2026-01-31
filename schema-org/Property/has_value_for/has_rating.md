@@ -57,13 +57,14 @@ dv_is_same_as:
 
 # [[has_rating]] 
 
-#has_/inverse 
+#has_/inverse :: [[is_rating_of]] 
 
 Predicate to describe the Quantity of CreativeWork.
 
 Use it like this: 
-- #has_/content_rating = `=this.dv_has_range`  
-- has_content_rating = `=this.dv_has_range`  
+- #has_/content_rating : : `=this.dv_has_range`  
+- has_content_rating : : `=this.dv_has_range`  
+- is_rating_of : : `=this.dv_has_domain` 
 
 Official rating of a piece of content for example, 'MPAA PG-13'.
 

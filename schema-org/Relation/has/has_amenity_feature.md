@@ -26,11 +26,9 @@ tags:
 title: has_amenity_feature
 type: Predi_Relation
 dv_has_:
-  amenity_feature: LocationFeatureSpecification
-  domain: Accommodation, FloorPlan, LodgingBusiness, Place
+  domain: ["[[../../../Earth/Geography/Place/Accommodation|Accommodation]]", "[[../../../Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor_Plan|Floor_Plan]]", "[[../../../Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business|Lodging_Business]]", "[[../../../Earth/Geography/Place|Place]]"]
   name: has_amenity_feature
-  range: LocationFeatureSpecification
-dv_has_amenity_feature: LocationFeatureSpecification
+  range: "[[../../Class/is_a_/Intangible/Structured_Value/Property_Value_Pair/Location_Feature_Specification|Location_Feature_Specification]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_amenity_feature|has_amenity_feature]]"
@@ -40,9 +38,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_amenity_feature.private|has_amenity_feature.private]]"
     - "[[/_personal/schema-org/Relation/has/has_amenity_feature.personal|has_amenity_feature.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_amenity_feature.secret|has_amenity_feature.secret]]"
-dv_has_domain: Accommodation, FloorPlan, LodgingBusiness, Place
+dv_has_domain: ["[[../../../Earth/Geography/Place/Accommodation|Accommodation]]", "[[../../../Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor_Plan|Floor_Plan]]", "[[../../../Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business|Lodging_Business]]", "[[../../../Earth/Geography/Place|Place]]"]
 dv_has_name: has_amenity_feature
-dv_has_range: LocationFeatureSpecification
+dv_has_range: "[[../../Class/is_a_/Intangible/Structured_Value/Property_Value_Pair/Location_Feature_Specification|Location_Feature_Specification]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_amenity_feature|has_amenity_feature]]"
   - "[[/_public/schema-org/Relation/has/has_amenity_feature.public|has_amenity_feature.public]]"
@@ -58,18 +56,21 @@ dv_is_same_as:
 #is_a :: [[../../Relation|Relation]]
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[is_amenity_feature_of]]
 
 Use it like this: 
-- #has_/amenity_feature = `=this.dv_has_amenity_feature`  
-- has_amenity_feature = `=this.dv_has_amenity_feature`  
+- #has_/amenity_feature : : `=this.dv_has_range`  
+- has_amenity_feature : : `=this.dv_has_range`  
+- is_amenity_feature_of : : `=this.dv_has_domain` 
+- #is_/amenity_feature_of : : `=this.dv_has_domain` 
 
-An amenity feature (e.g. a characteristic or service) of the Accommodation. This generic property does not make a statement about whether the feature is included in an offer for the main accommodation or available at extra costs.
+An amenity feature (e.g. a characteristic or service) of the Accommodation. 
+This generic property does not make a statement 
+about whether the feature is included in an offer for the main accommodation or available at extra costs.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

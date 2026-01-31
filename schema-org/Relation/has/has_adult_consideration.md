@@ -26,14 +26,13 @@ tags:
 title: has_adult_consideration
 type: Predi_Relation
 dv_has_:
-  inverse: "[[is_adult_consideration_in]]"
+  inverse: "[[is_adult_consideration_of]]"
   domain:
     - "[[../../../Society/Agent/Community/Organization/Business/Offer|Offer]]"
     - "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]"
   name: has_adult_consideration
   range: "[[../../Enumeration/Adult_Oriented_Enumeration|Adult_Oriented_Enumeration]]"
 dv_is_:
-  adult_consideration_: {}
   part_of: "pending:"
   same_as:
     - "[[has_adult_consideration]]"
@@ -44,7 +43,7 @@ dv_is_:
     - "[[/_personal/schema-org/Relation/has/has_adult_consideration.personal|has_adult_consideration.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_adult_consideration.secret|has_adult_consideration.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: "[[is_adult_consideration_in]]"
+dv_has_inverse: "[[is_adult_consideration_of]]"
 dv_is_part_of: "pending:"
 dv_has_domain:
   - "[[../../../Society/Agent/Community/Organization/Business/Offer|Offer]]"
@@ -73,8 +72,8 @@ is_part_of = `=this.dv_is_part_of`
 Use it like this: 
 - #has_/adult_consideration : : `=this.dv_has_range` 
 - has_adult_consideration : : `=this.dv_has_range` 
-- is_adult_consideration_in : : `=this.dv_has_domain` 
-- #is_/adult_consideration_/in : : `=this.dv_has_domain` 
+- is_adult_consideration_of : : `=this.dv_has_domain` 
+- #is_/adult_consideration_/of : : `=this.dv_has_domain` 
 
 Used to tag an item to be intended or suitable for consumption or use by adults only.
 

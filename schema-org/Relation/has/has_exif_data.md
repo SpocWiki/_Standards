@@ -29,7 +29,10 @@ type: Predi_Relation
 dv_has_:
   domain: "[[../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object|Image_Object]]"
   name: has_exif_data
-  range: ["[[../../Class/is_a_/Intangible/Structured_Value/Property_Value_Pair|Property_Value_Pair]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
+  range:
+    - "[[../../Class/is_a_/Intangible/Structured_Value/Property_Value_Pair|Property_Value_Pair]]"
+    - "[[../../Class/is_a_/Data_Type/Text|Text]]"
+  inverse: "[[is_exif_data_of]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_exif_data|has_exif_data]]"
@@ -39,25 +42,30 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_exif_data.private|has_exif_data.private]]"
     - "[[/_personal/schema-org/Relation/has/has_exif_data.personal|has_exif_data.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_exif_data.secret|has_exif_data.secret]]"
+    - "[[has_exif_data]]"
 dv_has_domain: "[[../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object|Image_Object]]"
 dv_has_name: has_exif_data
-dv_has_range: ["[[../../Class/is_a_/Intangible/Structured_Value/Property_Value_Pair|Property_Value_Pair]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
+dv_has_range:
+  - "[[../../Class/is_a_/Intangible/Structured_Value/Property_Value_Pair|Property_Value_Pair]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_exif_data|has_exif_data]]"
+  - "[[has_exif_data]]"
   - "[[/_public/schema-org/Relation/has/has_exif_data.public|has_exif_data.public]]"
   - "[[/_internal/schema-org/Relation/has/has_exif_data.internal|has_exif_data.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_exif_data.protect|has_exif_data.protect]]"
   - "[[/_private/schema-org/Relation/has/has_exif_data.private|has_exif_data.private]]"
   - "[[/_personal/schema-org/Relation/has/has_exif_data.personal|has_exif_data.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_exif_data.secret|has_exif_data.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_exif_data_of]]"
 ---
 
 # [[has_exif_data]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_exif_data_of]]
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/exif_data : : `=this.dv_has_range`  

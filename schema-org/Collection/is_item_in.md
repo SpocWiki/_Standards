@@ -39,14 +39,14 @@ dv_is_:
     - "[[/_personal/schema-org/Collection/is_item_in.personal|is_item_in.personal]]"
     - "[[/_secret/schema-org/Collection/is_item_in.secret|is_item_in.secret]]"
 dv_has_:
-  inverse: "[[has_items]]"
+  inverse: "[[has_item]]"
   domain: "[[../Class/Thing|Thing]]"
   name: is_element_of
   range: "[[../Collection|Collection]]"
 dv_is_element_of:
   - "[[../Collection|Collection]]"
   - "[[../Collection|Collection]]"
-dv_has_inverse: "[[has_items]]"
+dv_has_inverse: "[[has_item]]"
 dv_has_domain: "[[../Class/Thing|Thing]]"
 dv_has_name: is_element_of
 dv_has_range: "[[../Collection|Collection]]"

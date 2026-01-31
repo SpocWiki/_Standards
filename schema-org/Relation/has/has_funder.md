@@ -24,6 +24,7 @@ title: has_funder
 type: Predi_Relation
 ---
 
+# [[has_funder]] 
 
 is_a :: [[../../Relation|Relation]] 
 #is_a_/relation 

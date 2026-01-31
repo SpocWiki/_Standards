@@ -27,7 +27,7 @@ title: has_applicant_location_requirement
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_:
-  inverse: "[[is_applicant_location_a_requirement_of]]"
+  inverse: "[[is_an_applicant_location_requirement_of]]"
   domain: "[[../../Class/is_a_/Intangible/Job_Posting|Job_Posting]]"
   name: has_applicant_location_requirement
   range: "[[../../../Earth/Geography/Place/Administrative_Area|Administrative_Area]]"
@@ -41,7 +41,7 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_applicant_location_requirement.private|has_applicant_location_requirement.private]]"
     - "[[/_personal/schema-org/Relation/has/has_applicant_location_requirement.personal|has_applicant_location_requirement.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_applicant_location_requirement.secret|has_applicant_location_requirement.secret]]"
-dv_has_inverse: "[[is_applicant_location_a_requirement_of]]"
+dv_has_inverse: "[[is_an_applicant_location_requirement_of]]"
 dv_is_part_of: "pending:"
 dv_has_domain: "[[../../Class/is_a_/Intangible/Job_Posting|Job_Posting]]"
 dv_has_name: has_applicant_location_requirement
@@ -68,8 +68,8 @@ is_part_of = `=this.dv_is_part_of`
 Use it like this: 
 - #has_/applicant_location_requirement : : `=this.dv_has_range`  
 - has_applicant_location_requirement : : `=this.dv_has_range` 
-- is_applicant_location_a_requirement_of : : `=this.dv_has_domain`  
-- #is_/applicant_location_/a_requirement_of : : `=this.dv_has_domain`  
+- is_an_applicant_location_requirement_of : : `=this.dv_has_domain`  
+- #is_/an_applicant_location_requirement_of : : `=this.dv_has_domain`  
 
 The location(s) applicants can apply from. 
 This is usually used for telecommuting jobs where the applicant does not need to be in a physical office. 

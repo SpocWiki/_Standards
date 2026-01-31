@@ -7,41 +7,90 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - instrument
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_instrument
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_instrument
 type: Predi_Relation
+dv_has_:
+  inverse: "[[is_instrument_for]]"
+  child_:
+    property:
+      - "[[has_delivery/has_delivery_method|has_delivery_method]]"
+      - "[[has_diet]]"
+      - "[[has_exercise_plan]]"
+      - "[[has_exercise_related_diet]]"
+      - "[[../is/is_in_language|is_in_language]]"
+      - "[[../../Property/Texts/has_query|has_query]]"
+      - "[[has_recipe]]"
+      - "[[has_supply_consumed]]"
+      - "[[has_tool]]"
+  domain: "[[../../Class/is_a_/Action|Action]]"
+  name: has_instrument
+  range: "[[../../Class/Thing|Thing]]"
+dv_is_:
+  same_as:
+    - "[[has_instrument]]"
+    - "[[/_public/schema-org/Relation/has/has_instrument.public|has_instrument.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_instrument.internal|has_instrument.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_instrument.protect|has_instrument.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_instrument.private|has_instrument.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_instrument.personal|has_instrument.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_instrument.secret|has_instrument.secret]]"
+dv_has_inverse: "[[is_instrument_for]]"
+dv_has_child_property:
+  - "[[has_delivery/has_delivery_method|has_delivery_method]]"
+  - "[[has_diet]]"
+  - "[[has_exercise_plan]]"
+  - "[[has_exercise_related_diet]]"
+  - "[[../is/is_in_language|is_in_language]]"
+  - "[[../../Property/Texts/has_query|has_query]]"
+  - "[[has_recipe]]"
+  - "[[has_supply_consumed]]"
+  - "[[has_tool]]"
+dv_has_domain: "[[../../Class/is_a_/Action|Action]]"
+dv_has_name: has_instrument
+dv_has_range: "[[../../Class/Thing|Thing]]"
+dv_is_same_as:
+  - "[[has_instrument]]"
+  - "[[/_public/schema-org/Relation/has/has_instrument.public|has_instrument.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_instrument.internal|has_instrument.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_instrument.protect|has_instrument.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_instrument.private|has_instrument.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_instrument.personal|has_instrument.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_instrument.secret|has_instrument.secret]]"
 ---
 
 # [[has_instrument]] 
 
-#has_/inverse :: [[is_instrumental_for]] 
+has_inverse = `=this.dv_has_inverse` 
+
+#has_/child_/property :: `=this.dv_has_child_property`  
 
 Use it like this: 
-- #has_/instrument :: [[../../../../Class/Thing|Thing]]  
-- has_instrument :: [[../../../../Class/Thing|Thing]] 
+- #has_/instrument : : `=this.dv_has_range`  
+- has_instrument : : `=this.dv_has_range`  
+- is_instrument_for : : `=this.dv_has_domain` 
+- #is_/instrument_for : : `=this.dv_has_domain` 
 
 The object that helped/is needed for the agent to perform the action. 
 E.g. John wrote a book with <em>a pen</em>.
 
 Relation describes that: 
 
-#has_/domain  :: [[../../Class/is_a_/Action|Action]]   
-(has_/name :: has_instrument )
-(has_/range :: [[../../../../Class/Thing|Thing]] ) 
-
-#has_/child_/property :: deliveryMethod, diet, exercisePlan, exerciseRelatedDiet, language, query, recipe, [[has_supply_consumed]],  [[has_tool]]   
+has_domain = `=this.dv_has_domain` 
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range`  
 
 ## Confidential Links & Embeds: 
 

@@ -24,11 +24,14 @@ title: has_identifier
 type: Predi_Relation
 ---
 
+# [[has_identifier]] 
 
 is_a :: [[../../Relation|Relation]] 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[is_identifier_of]] 
+
+#has_/child_/property :: accountId, asin, callSign, confirmationNumber, duns, editEIDR, flightNumber, globalLocationNumber, gtin, gtin12, gtin13, gtin14, gtin8, isbn, issn, legislationIdentifier, leiCode, nsn, "[[../../Property/has_id/has_order_number|has_order_number]]", "[[../../Property/has_id/has_id_product|has_id_product]]", "[[../../Property/has_id/has_id_serial|has_id_serial]]", "[[../../Property/has_id/has_sku|has_sku]]", "[[../../Property/has_id/has_id_tax|has_id_tax]]", "[[../../Property/has_id/has_id_entertain_title|has_id_entertain_title]]" 
 
 Use it like this: 
 - #has_/identifier :: PropertyValue, Text, URL  
@@ -39,11 +42,8 @@ The identifier property represents any kind of identifier for any kind of [Thing
 Relation describes that: 
 
 #has_/domain  :: [Thing](../../../Class/Thing)  
-
 (has_/name :: has_identifier )
-(has_/range :: PropertyValue, Text, URL )
-
-#has_/child_/property :: [ accountId, asin, callSign, confirmationNumber, duns, editEIDR, flightNumber, globalLocationNumber, gtin, gtin12, gtin13, gtin14, gtin8, isbn, issn, legislationIdentifier, leiCode, nsn, orderNumber, productID, serialNumber, sku, taxID, titleEIDR ]  
+(has_/range :: "[[../../Class/is_a_/Intangible/Structured_Value/Property_Value_Pair|Property_Value_Pair]]", "[[../../Class/is_a_/Data_Type/Text|Text]]", "[[../../Class/is_a_/Data_Type/Text/Url|Url]]" )
 
 ## Confidential Links & Embeds: 
 

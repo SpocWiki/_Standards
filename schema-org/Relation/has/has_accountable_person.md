@@ -26,9 +26,9 @@ tags:
 title: has_accountable_person
 type: Predi_Relation
 dv_has_:
-  domain: CreativeWork
+  domain: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
   name: has_accountable_person
-  range: Person
+  range: "[[../../../Society/Agent/Person|Person]]"
   inverse: "[[is_accountable_for]]"
 dv_is_:
   same_as:
@@ -40,9 +40,9 @@ dv_is_:
     - "[[/_personal/schema-org/Relation/has/has_accountable_person.personal|has_accountable_person.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_accountable_person.secret|has_accountable_person.secret]]"
     - "[[has_accountable_person]]"
-dv_has_domain: CreativeWork
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
 dv_has_name: has_accountable_person
-dv_has_range: Person
+dv_has_range: "[[../../../Society/Agent/Person|Person]]"
 dv_is_same_as:
   - "[[has_accountable_person]]"
   - "[[/_public/schema-org/Relation/has/has_accountable_person.public|has_accountable_person.public]]"

@@ -28,25 +28,23 @@ tags:
 title: has_item_list_element
 type: Predi_Relation
 dv_has_:
-  item_list_element: ListItem, Text, Thing
-  domain: ItemList
+  domain: "[[../item_list|item_list]]"
   name: has_item_list_element
   range: ListItem, Text, Thing
-dv_has_item_list_element: ListItem, Text, Thing
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Relation/has/has_item_list_element|has_item_list_element]]"
+    - "[[has_item_list_element|has_item_list_element]]"
     - "[[/_public/schema-org/Relation/has/has_item_list_element.public|has_item_list_element.public]]"
     - "[[/_internal/schema-org/Relation/has/has_item_list_element.internal|has_item_list_element.internal]]"
     - "[[/_protect/schema-org/Relation/has/has_item_list_element.protect|has_item_list_element.protect]]"
     - "[[/_private/schema-org/Relation/has/has_item_list_element.private|has_item_list_element.private]]"
     - "[[/_personal/schema-org/Relation/has/has_item_list_element.personal|has_item_list_element.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_item_list_element.secret|has_item_list_element.secret]]"
-dv_has_domain: ItemList
+dv_has_domain: "[[../item_list|item_list]]"
 dv_has_name: has_item_list_element
-dv_has_range: ListItem, Text, Thing
+dv_has_range: ["[[../list_item|list_item]]", "[[../../Class/is_a_/Data_Type/Text|Text]]", "[[../../Class/Thing|Thing]]"]
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_item_list_element|has_item_list_element]]"
+  - "[[has_item_list_element|has_item_list_element]]"
   - "[[/_public/schema-org/Relation/has/has_item_list_element.public|has_item_list_element.public]]"
   - "[[/_internal/schema-org/Relation/has/has_item_list_element.internal|has_item_list_element.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_item_list_element.protect|has_item_list_element.protect]]"
@@ -55,37 +53,41 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_item_list_element.secret|has_item_list_element.secret]]"
 ---
 
+# [[has_item_list_element]] 
 
 is_a :: [[../../Relation|Relation]] 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[is_list_element_in]] 
 
 Use it like this: 
-- #has_/item_list_element = `=this.dv_has_item_list_element`  
-- has_item_list_element = `=this.dv_has_item_list_element`  
+- #has_/item_list_element : : `=this.dv_has_range`   
+- has_item_list_element : : `=this.dv_has_range`   
+- is_list_element_in : : `=this.dv_has_domain` 
+- #is_/list_element_in : : `=this.dv_has_domain` 
 
-For itemListElement values, you can use simple strings (e.g. "Peter", "Paul", "Mary"), existing entities, or use ListItem.
+For itemListElement values, you can use simple strings 
+(e.g. "Peter", "Paul", "Mary"), existing entities, or use ListItem.
 
+Text values are best if the elements in the list are plain strings. 
+Existing entities are best for a simple, unordered list of existing things in your data. 
+ListItem is used with ordered lists 
+when you want to provide additional context about the element in that list 
+or when the same item might be in different places in different lists.
 
-
-Text values are best if the elements in the list are plain strings. Existing entities are best for a simple, unordered list of existing things in your data. ListItem is used with ordered lists when you want to provide additional context about the element in that list or when the same item might be in different places in different lists.
-
-
-
-Note: The order of elements in your mark-up is not sufficient for indicating the order or elements.  Use ListItem with a 'position' property in such cases.
+Note: The order of elements in your mark-up is not sufficient for indicating the order or elements.  
+Use ListItem with a 'position' property in such cases.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_item_list_element|has_item_list_element]] 
+### #is_/same_as :: [[has_item_list_element|has_item_list_element]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_item_list_element.public|has_item_list_element.public]] 
 

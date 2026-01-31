@@ -57,12 +57,13 @@ dv_is_same_as:
 is_a :: [[../../../Relation|Relation]] 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[is_payment_status_of]]
 
 Use it like this: 
 - #has_/payment_/status =  `=this.dv_has_range` 
 - has_payment_status = `=this.dv_has_range` 
-- : :  `=this.dv_has_domain`  
+- is_payment_status_of : :  `=this.dv_has_domain`  
+- #is_/payment_/status_of : :  `=this.dv_has_domain`  
 
 The status of payment; whether the invoice has been paid or not.
 

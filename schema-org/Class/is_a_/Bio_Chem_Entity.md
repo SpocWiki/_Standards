@@ -46,7 +46,7 @@ For example: a protein; a gene; a chemical; a synthetic chemical.
 #has_/child_/class :: [ ChemicalSubstance, Gene, MolecularEntity, Protein ] 
 #has_/child_/class :: [ ChemicalSubstance, Gene, MolecularEntity, Protein ] 
 
-#has_/properties :: [ additionalType, alternateName, associatedDisease, bioChemInteraction, bioChemSimilarity, biologicalRole, description, disambiguatingDescription, funding, hasBioChemEntityPart, hasMolecularFunction, hasRepresentation, identifier, image, isEncodedByBioChemEntity, isInvolvedInBiologicalProcess, isLocatedInSubcellularLocation, isPartOfBioChemEntity, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, taxonomicRange, url ]  
+#has_/properties :: additionalType, alternateName, associatedDisease, bioChemInteraction, bioChemSimilarity, biologicalRole, description, disambiguatingDescription, funding, hasBioChemEntityPart, hasMolecularFunction, hasRepresentation, identifier, image, isEncodedByBioChemEntity, isInvolvedInBiologicalProcess, isLocatedInSubcellularLocation, isPartOfBioChemEntity, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, taxonomicRange, url 
 
 #is_/same_as :: 
 

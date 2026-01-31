@@ -52,8 +52,8 @@ dv_is_same_as:
 
 Class of all interaction_counters.
 An Interaction-Counter counts how often users have interacted with this CreativeWork. 
-In most cases, authors will use the [[../../../../Relation/has/has_interaction_type|interactionType]]-Relation to specify the specific type of interaction.
-These Counters are typically collected in a [[../../../../Relation/has/has_interaction_statistic|interactionStatistic]] List. 
+In most cases, authors will use the [[../../../../Relation/has/has_interaction/has_interaction_type|interactionType]]-Relation to specify the specific type of interaction.
+These Counters are typically collected in a [[../../../../Relation/has/has_interaction/has_interaction_statistic|interactionStatistic]] List. 
 
 Tag Instances like this: 
 #is_an_/interaction_counter

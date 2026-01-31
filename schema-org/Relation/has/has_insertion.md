@@ -2,6 +2,7 @@
 aliases:
   - has insertion
   - has_insertion
+  - hat Muskelansatz
 confidential: public
 cssclasses:
   - Predicate
@@ -23,11 +24,10 @@ tags:
 title: has_insertion
 type: Predi_Relation
 dv_has_:
-  insertion: AnatomicalStructure
-  domain: Muscle
+  domain: "[[../../../bio/Medicine/Anatomy/Skeleton/Muscle|Muscle]]"
   name: has_insertion
-  range: AnatomicalStructure
-dv_has_insertion: AnatomicalStructure
+  range: "[[../../../bio/Medicine/Anatomy/Anatomical_Structure|Anatomical_Structure]]"
+  inverse: "[[is_insertion_of]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_insertion|has_insertion]]"
@@ -37,38 +37,42 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_insertion.private|has_insertion.private]]"
     - "[[/_personal/schema-org/Relation/has/has_insertion.personal|has_insertion.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_insertion.secret|has_insertion.secret]]"
-dv_has_domain: Muscle
+    - "[[has_insertion]]"
+dv_has_domain: "[[../../../bio/Medicine/Anatomy/Skeleton/Muscle|Muscle]]"
 dv_has_name: has_insertion
-dv_has_range: AnatomicalStructure
+dv_has_range: "[[../../../bio/Medicine/Anatomy/Anatomical_Structure|Anatomical_Structure]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_insertion|has_insertion]]"
+  - "[[has_insertion]]"
   - "[[/_public/schema-org/Relation/has/has_insertion.public|has_insertion.public]]"
   - "[[/_internal/schema-org/Relation/has/has_insertion.internal|has_insertion.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_insertion.protect|has_insertion.protect]]"
   - "[[/_private/schema-org/Relation/has/has_insertion.private|has_insertion.private]]"
   - "[[/_personal/schema-org/Relation/has/has_insertion.personal|has_insertion.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_insertion.secret|has_insertion.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_insertion_of]]"
 ---
 
+# [[has_insertion]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
-- #has_/insertion = `=this.dv_has_insertion`  
-- has_insertion = `=this.dv_has_insertion`  
+- #has_/insertion : : `=this.dv_has_range`  
+- has_insertion : : `=this.dv_has_range`  
+- is_insertion_of : : `=this.dv_has_domain` 
+- #is_/insertion_of : : `=this.dv_has_domain` 
 
 The place of attachment of a muscle, or what the muscle moves.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
-
 
 ## Confidential Links & Embeds: 
 

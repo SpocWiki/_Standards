@@ -48,7 +48,9 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Enumeration/Adult_Oriented_Enumeration.secret|Adult_Oriented_Enumeration.secret]]"
 ---
 
-Class of all adult_oriented_enumerations. 
+# [[Adult_Oriented_Enumeration]] 
+
+Class of all adult_oriented_enumeration-values. 
 
 Tag Instances like this: 
 #is_an_/adult_oriented_enumeration

@@ -73,6 +73,7 @@ Use it like this:
 - #has_/episode : : `=this.dv_has_range` 
 - has_episode : : `=this.dv_has_range` 
 - is_episode_of : : `=this.dv_has_domain` 
+- #is_/episode_of : : `=this.dv_has_domain` 
 
 [[../../Relation|Relation]] describes that: 
 

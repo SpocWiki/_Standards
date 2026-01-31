@@ -30,6 +30,7 @@ dv_has_:
   domain: "[[../../../bio/Medicine/Medical_Guideline|Medical_Guideline]]"
   name: has_evidence_level
   range: "[[../../../bio/Medicine/Medical_Enumeration/Medical_Evidence_Level|Medical_Evidence_Level]]"
+  inverse: "[[is_evidence_level_for]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_evidence_level|has_evidence_level]]"
@@ -39,25 +40,28 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_evidence_level.private|has_evidence_level.private]]"
     - "[[/_personal/schema-org/Relation/has/has_evidence_level.personal|has_evidence_level.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_evidence_level.secret|has_evidence_level.secret]]"
+    - "[[has_evidence_level]]"
 dv_has_domain: "[[../../../bio/Medicine/Medical_Guideline|Medical_Guideline]]"
 dv_has_name: has_evidence_level
 dv_has_range: "[[../../../bio/Medicine/Medical_Enumeration/Medical_Evidence_Level|Medical_Evidence_Level]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_evidence_level|has_evidence_level]]"
+  - "[[has_evidence_level]]"
   - "[[/_public/schema-org/Relation/has/has_evidence_level.public|has_evidence_level.public]]"
   - "[[/_internal/schema-org/Relation/has/has_evidence_level.internal|has_evidence_level.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_evidence_level.protect|has_evidence_level.protect]]"
   - "[[/_private/schema-org/Relation/has/has_evidence_level.private|has_evidence_level.private]]"
   - "[[/_personal/schema-org/Relation/has/has_evidence_level.personal|has_evidence_level.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_evidence_level.secret|has_evidence_level.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_evidence_level_for]]"
 ---
 
 # [[has_evidence_level]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_evidence_level_for]] 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/evidence_level : : `=this.dv_has_range`  

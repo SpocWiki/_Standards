@@ -27,11 +27,9 @@ tags:
 title: has_imaging_technique
 type: Predi_Relation
 dv_has_:
-  imaging_technique: MedicalImagingTechnique
-  domain: ImagingTest
+  domain: "[[../../../bio/Medicine/Medical_Entity/Medical_Test/Imaging_Test|Imaging_Test]]"
   name: has_imaging_technique
-  range: MedicalImagingTechnique
-dv_has_imaging_technique: MedicalImagingTechnique
+  range: "[[../../../bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique|Medical_Imaging_Technique]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_imaging_technique|has_imaging_technique]]"
@@ -41,9 +39,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_imaging_technique.private|has_imaging_technique.private]]"
     - "[[/_personal/schema-org/Relation/has/has_imaging_technique.personal|has_imaging_technique.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_imaging_technique.secret|has_imaging_technique.secret]]"
-dv_has_domain: ImagingTest
+dv_has_domain: "[[../../../bio/Medicine/Medical_Entity/Medical_Test/Imaging_Test|Imaging_Test]]"
 dv_has_name: has_imaging_technique
-dv_has_range: MedicalImagingTechnique
+dv_has_range: "[[../../../bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique|Medical_Imaging_Technique]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_imaging_technique|has_imaging_technique]]"
   - "[[/_public/schema-org/Relation/has/has_imaging_technique.public|has_imaging_technique.public]]"
@@ -54,22 +52,24 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_imaging_technique.secret|has_imaging_technique.secret]]"
 ---
 
+# [[has_imaging_technique]] 
 
 is_a :: [[../../Relation|Relation]] 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[is_imaging_technique_for]]
 
 Use it like this: 
-- #has_/imaging_technique = `=this.dv_has_imaging_technique`  
-- has_imaging_technique = `=this.dv_has_imaging_technique`  
+- #has_/imaging_technique : : `=this.dv_has_range`  
+- has_imaging_technique : : `=this.dv_has_range`  
+- is_imaging_technique_for : : `=this.dv_has_domain` 
+- #is_/imaging_technique_for : : `=this.dv_has_domain` 
 
 Imaging technique used.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

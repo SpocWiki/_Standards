@@ -25,9 +25,16 @@ tags:
 title: has_available_service
 type: Predi_Relation
 dv_has_:
-  domain: ["[[../../../Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Hospital|Hospital]]", "[[../../../bio/Medicine/Medical_Business/Medical_Clinic|Medical_Clinic]]", "[[../../../bio/Medicine/Medical_Business/Physician|Physician]]"]
+  domain:
+    - "[[../../../Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Hospital|Hospital]]"
+    - "[[../../../bio/Medicine/Medical_Business/Medical_Clinic|Medical_Clinic]]"
+    - "[[../../../bio/Medicine/Medical_Business/Physician|Physician]]"
   name: has_available_service
-  range: ["[[../../../bio/Medicine/Medical_Guideline/Medical_Procedure|Medical_Procedure]]", "[[../../../bio/Medicine/Medical_Entity/Medical_Test|Medical_Test]]", "[[../../../bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Therapy|Medical_Therapy]]"]
+  range:
+    - "[[../../../bio/Medicine/Medical_Guideline/Medical_Procedure|Medical_Procedure]]"
+    - "[[../../../bio/Medicine/Medical_Entity/Medical_Test|Medical_Test]]"
+    - "[[../../../bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Therapy|Medical_Therapy]]"
+  inverse: "[[is_available_service_at]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_available_service|has_available_service]]"
@@ -37,25 +44,34 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_available_service.private|has_available_service.private]]"
     - "[[/_personal/schema-org/Relation/has/has_available_service.personal|has_available_service.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_available_service.secret|has_available_service.secret]]"
-dv_has_domain: ["[[../../../Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Hospital|Hospital]]", "[[../../../bio/Medicine/Medical_Business/Medical_Clinic|Medical_Clinic]]", "[[../../../bio/Medicine/Medical_Business/Physician|Physician]]"] 
+    - "[[has_available_service]]"
+dv_has_domain:
+  - "[[../../../Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Hospital|Hospital]]"
+  - "[[../../../bio/Medicine/Medical_Business/Medical_Clinic|Medical_Clinic]]"
+  - "[[../../../bio/Medicine/Medical_Business/Physician|Physician]]"
 dv_has_name: has_available_service
-dv_has_range: ["[[../../../bio/Medicine/Medical_Guideline/Medical_Procedure|Medical_Procedure]]", "[[../../../bio/Medicine/Medical_Entity/Medical_Test|Medical_Test]]", "[[../../../bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Therapy|Medical_Therapy]]"]
+dv_has_range:
+  - "[[../../../bio/Medicine/Medical_Guideline/Medical_Procedure|Medical_Procedure]]"
+  - "[[../../../bio/Medicine/Medical_Entity/Medical_Test|Medical_Test]]"
+  - "[[../../../bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Therapy|Medical_Therapy]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_available_service|has_available_service]]"
+  - "[[has_available_service]]"
   - "[[/_public/schema-org/Relation/has/has_available_service.public|has_available_service.public]]"
   - "[[/_internal/schema-org/Relation/has/has_available_service.internal|has_available_service.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_available_service.protect|has_available_service.protect]]"
   - "[[/_private/schema-org/Relation/has/has_available_service.private|has_available_service.private]]"
   - "[[/_personal/schema-org/Relation/has/has_available_service.personal|has_available_service.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_available_service.secret|has_available_service.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_available_service_at]]"
 ---
 
 # [[has_available_service]] 
 
-#is_a :: [[../../Relation|Relation]]
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/available_/service : : `=this.dv_has_range` 

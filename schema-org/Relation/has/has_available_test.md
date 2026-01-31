@@ -55,13 +55,13 @@ dv_is_same_as:
 #is_a :: [[../../Relation|Relation]]
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_test_available_at]]
+#has_/inverse :: [[is_available_test_at]]
 
 Use it like this: 
 - #has_/available_test : : `=this.dv_has_range` 
 - has_available_test : : `=this.dv_has_range` 
-- is_test_available_at : : `=this.dv_has_domain` 
-- #is_/test_/available_at : : `=this.dv_has_domain` 
+- is_available_test_at : : `=this.dv_has_domain` 
+- #is_/available_test_at : : `=this.dv_has_domain` 
 
 A diagnostic test or procedure offered by this lab.
 

@@ -31,11 +31,11 @@ dv_has_:
   parent_:
     property: publishingPrinciples
   domain:
-    - "[[../../../Society/Agent/Community/Organization/News_Media_Organization|NewsMediaOrganization]]"
+    - "[[../../../Society/Agent/Community/Organization/News_Media_Organization|News_Media_Organization]]"
     - "[[../../../Society/Agent/Community/Organization|Organization]]"
   name: has_actionable_feedback_policy
   range:
-    - "[[../../../Society/Communication/Media/Creative_Work|CreativeWork]]"
+    - "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
     - "[[../../Class/is_a_/Data_Type/Text/Url|Url]]"
 dv_is_:
   part_of: "pending:"
@@ -48,10 +48,10 @@ dv_is_:
     - "[[/_personal/schema-org/Relation/has/has_actionable_feedback_policy.personal|has_actionable_feedback_policy.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_actionable_feedback_policy.secret|has_actionable_feedback_policy.secret]]"
 dv_has_inverse: "[[is_feedback_policy_for]]"
-dv_has_parent_property: publishingPrinciples
+dv_has_parent_property: "[[has_publishing_principles|has_publishing_principles]]"
 dv_is_part_of: "pending:"
 dv_has_domain:
-  - "[[../../../Society/Agent/Community/Organization/News_Media_Organization|NewsMediaOrganization]]"
+  - "[[../../../Society/Agent/Community/Organization/News_Media_Organization|News_Media_Organization]]"
   - "[[../../../Society/Agent/Community/Organization|Organization]]"
 dv_has_name: has_actionable_feedback_policy
 dv_has_range:
@@ -78,8 +78,8 @@ has_parent_property = `=this.dv_has_parent_property`
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/actionable_feedback_policy : : CreativeWork, URL  
-- has_actionable_feedback_policy : : CreativeWork, URL 
+- #has_/actionable_feedback_policy : : `=this.dv_has_range` 
+- has_actionable_feedback_policy : : `=this.dv_has_range` 
 - is_feedback_policy_for : :  `=this.dv_has_domain`  
 - #is_/feedback_/policy_for : :  `=this.dv_has_domain`  
 
@@ -90,7 +90,7 @@ in coverage decisions, reporting and activities after publication.
 
 Relation describes that: 
 
-#has_/domain  :: [[../../../Society/Agent/Community/Organization/News_Media_Organization|NewsMediaOrganization]], [[../../../Society/Agent/Community/Organization|Organization]]  
+#has_/domain = `=this.dv_has_domain`
 has_name = `=this.dv_has_name` 
 (has_/range :: [[../../../Society/Communication/Media/Creative_Work|CreativeWork]], [[../../Class/is_a_/Data_Type/Text/Url|Url]] )
 

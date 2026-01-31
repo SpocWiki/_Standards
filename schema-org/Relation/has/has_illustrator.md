@@ -26,11 +26,9 @@ tags:
 title: has_illustrator
 type: Predi_Relation
 dv_has_:
-  illustrator: Person
-  domain: Book
+  domain: "[[../../../Society/Communication/Media/Writing/Book|Book]]"
   name: has_illustrator
-  range: Person
-dv_has_illustrator: Person
+  range: "[[../../../Society/Agent/Person|Person]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_illustrator|has_illustrator]]"
@@ -40,9 +38,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_illustrator.private|has_illustrator.private]]"
     - "[[/_personal/schema-org/Relation/has/has_illustrator.personal|has_illustrator.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_illustrator.secret|has_illustrator.secret]]"
-dv_has_domain: Book
+dv_has_domain: "[[../../../Society/Communication/Media/Writing/Book|Book]]"
 dv_has_name: has_illustrator
-dv_has_range: Person
+dv_has_range: "[[../../../Society/Agent/Person|Person]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_illustrator|has_illustrator]]"
   - "[[/_public/schema-org/Relation/has/has_illustrator.public|has_illustrator.public]]"
@@ -53,22 +51,24 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_illustrator.secret|has_illustrator.secret]]"
 ---
 
+# [[has_illustrator]] 
 
 is_a :: [[../../Relation|Relation]] 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[is_illustrator_of]]
 
 Use it like this: 
-- #has_/illustrator = `=this.dv_has_illustrator`  
-- has_illustrator = `=this.dv_has_illustrator`  
+- #has_/illustrator : : `=this.dv_has_range`  
+- has_illustrator : : `=this.dv_has_range`   
+- is_illustrator_of : : `=this.dv_has_domain`  
+- #is_/illustrator_of : : `=this.dv_has_domain`  
 
 The illustrator of the book.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

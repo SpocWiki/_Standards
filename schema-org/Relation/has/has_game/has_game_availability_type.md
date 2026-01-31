@@ -29,7 +29,7 @@ title: has_game_availability_type
 type: Predi_Relation
 ---
 
-is_a :: [[../../Relation|Relation]] 
+is_a :: [[../../../Relation|Relation]] 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 
@@ -52,7 +52,7 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_game_availability_type|has_game_availability_type]] 
+### #is_/same_as :: [[has_game_availability_type|has_game_availability_type]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/has/has_game_availability_type.public|has_game_availability_type.public]] 
 

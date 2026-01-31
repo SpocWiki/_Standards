@@ -26,6 +26,7 @@ dv_has_:
   domain: "[[../../../bio/Medicine/Anatomy/Anatomical_Structure|Anatomical_Structure]]"
   name: has_diagram
   range: "[[../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object|Image_Object]]"
+  inverse: "[[is_diagram_of]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_diagram|has_diagram]]"
@@ -35,30 +36,34 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_diagram.private|has_diagram.private]]"
     - "[[/_personal/schema-org/Relation/has/has_diagram.personal|has_diagram.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_diagram.secret|has_diagram.secret]]"
-dv_has_domain:  "[[../../../bio/Medicine/Anatomy/Anatomical_Structure|Anatomical_Structure]]"
+    - "[[has_diagram]]"
+dv_has_domain: "[[../../../bio/Medicine/Anatomy/Anatomical_Structure|Anatomical_Structure]]"
 dv_has_name: has_diagram
 dv_has_range: "[[../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object|Image_Object]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_diagram|has_diagram]]"
+  - "[[has_diagram]]"
   - "[[/_public/schema-org/Relation/has/has_diagram.public|has_diagram.public]]"
   - "[[/_internal/schema-org/Relation/has/has_diagram.internal|has_diagram.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_diagram.protect|has_diagram.protect]]"
   - "[[/_private/schema-org/Relation/has/has_diagram.private|has_diagram.private]]"
   - "[[/_personal/schema-org/Relation/has/has_diagram.personal|has_diagram.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_diagram.secret|has_diagram.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_diagram_of]]"
 ---
 
 # [[has_diagram]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_diagram_of]] 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/diagram : :  `=this.dv_has_range`  
 - has_diagram : :  `=this.dv_has_range`   
 - is_diagram_of : : `=this.dv_has_domain`  
+- #is_/diagram_of : : `=this.dv_has_domain`  
 
 An image containing a diagram 
 that illustrates the structure and/or its component substructures 

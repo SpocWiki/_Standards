@@ -55,7 +55,7 @@ dv_is_same_as:
 Class of all [[user_interaction]]-Counts.
 
 [[User_Interaction]] and its subtypes are an old way of counting users interacting with pages. 
-It is generally better to use [[../Intangible/structured_value/interaction_counter|InteractionCounter]]s with an [[../../../Relation/has/has_interaction_type|interaction-type]]- Relation to the extensible [[Action]] vocabulary, in this case [[user_interaction|user_interaction]], alongside types such as [[../../../../Society/Communication/Media/Creative_Work/Comment]].
+It is generally better to use [[../Intangible/structured_value/interaction_counter|InteractionCounter]]s with an [[../../../Relation/has/has_interaction/has_interaction_type|interaction-type]]- Relation to the extensible [[Action]] vocabulary, in this case [[user_interaction|user_interaction]], alongside types such as [[../../../../Society/Communication/Media/Creative_Work/Comment]].
 
 has_parent_class = `=this.dv_has_parent_class` 
 

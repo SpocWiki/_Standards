@@ -27,11 +27,12 @@ tags:
 title: has_functional_class
 type: Predi_Relation
 dv_has_:
-  functional_class: MedicalEntity, Text
-  domain: Joint
+  domain: "[[../../../bio/Medicine/Anatomy/Skeleton/Joint|Joint]]"
   name: has_functional_class
-  range: MedicalEntity, Text
-dv_has_functional_class: MedicalEntity, Text
+  range:
+    - "[[../../../bio/Medicine/Medical_Entity|Medical_Entity]]"
+    - "[[../../Class/is_a_/Data_Type/Text|Text]]"
+  inverse: "[[is_functional_class_of]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_functional_class|has_functional_class]]"
@@ -41,35 +42,42 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_functional_class.private|has_functional_class.private]]"
     - "[[/_personal/schema-org/Relation/has/has_functional_class.personal|has_functional_class.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_functional_class.secret|has_functional_class.secret]]"
-dv_has_domain: Joint
+    - "[[has_functional_class]]"
+dv_has_domain: "[[../../../bio/Medicine/Anatomy/Skeleton/Joint|Joint]]"
 dv_has_name: has_functional_class
-dv_has_range: MedicalEntity, Text
+dv_has_range:
+  - "[[../../../bio/Medicine/Medical_Entity|Medical_Entity]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_functional_class|has_functional_class]]"
+  - "[[has_functional_class]]"
   - "[[/_public/schema-org/Relation/has/has_functional_class.public|has_functional_class.public]]"
   - "[[/_internal/schema-org/Relation/has/has_functional_class.internal|has_functional_class.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_functional_class.protect|has_functional_class.protect]]"
   - "[[/_private/schema-org/Relation/has/has_functional_class.private|has_functional_class.private]]"
   - "[[/_personal/schema-org/Relation/has/has_functional_class.personal|has_functional_class.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_functional_class.secret|has_functional_class.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_functional_class_of]]"
 ---
 
+# [[has_functional_class]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
-- #has_/functional_class = `=this.dv_has_functional_class`  
-- has_functional_class = `=this.dv_has_functional_class`  
+- #has_/functional_class : : `=this.dv_has_range`  
+- has_functional_class : : `=this.dv_has_range`  
+- is_functional_class_of : : `=this.dv_has_domain` 
+- #is_/functional_class_of : : `=this.dv_has_domain` 
 
-The degree of mobility the joint allows.
+The degree of mobility the Subject-[[../../../bio/Medicine/Anatomy/Skeleton/Joint|Joint]] allows.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 
