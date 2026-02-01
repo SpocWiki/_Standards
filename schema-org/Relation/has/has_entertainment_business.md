@@ -3,6 +3,8 @@ aliases:
   - has entertainment-business
   - has_entertainment_business
   - has entertainment business
+  - schema:entertainmentBusiness
+  - entertainmentBusiness
 confidential: public
 cssclasses:
   - Predicate

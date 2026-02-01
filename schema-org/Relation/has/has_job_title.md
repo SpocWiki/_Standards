@@ -9,44 +9,79 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - job_title
   - job
   - title
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_job_title
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_job_title
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_:
+  inverse: "[[is_job_title_of]]"
+  domain: "[[../../../Society/Agent/Person|Person]]"
+  name: has_job_title
+  range:
+    - "[[../../Class/is_a_/Intangible/Defined_Term|Defined_Term]]"
+    - "[[../../Class/is_a_/Data_Type/Text|Text]]"
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[has_job_title]]"
+    - "[[/_public/schema-org/Relation/has/has_job_title.public|has_job_title.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_job_title.internal|has_job_title.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_job_title.protect|has_job_title.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_job_title.private|has_job_title.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_job_title.personal|has_job_title.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_job_title.secret|has_job_title.secret]]"
+dv_has_inverse: "[[is_job_title_of]]"
+dv_is_part_of: "pending:"
+dv_has_domain: "[[../../../Society/Agent/Person|Person]]"
+dv_has_name: has_job_title
+dv_has_range:
+  - "[[../../Class/is_a_/Intangible/Defined_Term|Defined_Term]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
+dv_is_same_as:
+  - "[[has_job_title]]"
+  - "[[/_public/schema-org/Relation/has/has_job_title.public|has_job_title.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_job_title.internal|has_job_title.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_job_title.protect|has_job_title.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_job_title.private|has_job_title.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_job_title.personal|has_job_title.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_job_title.secret|has_job_title.secret]]"
 ---
 
-is_a :: [[../../Relation|Relation]] 
+# [[has_job_title]] 
+
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+has_inverse = `=this.dv_has_inverse` 
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/job_title :: DefinedTerm, Text  
-- [ has_job_title :: DefinedTerm, Text ] 
+- #has_/job_title : : `=this.dv_has_range` 
+- has_job_title : : `=this.dv_has_range`  
+- is_job_title_of : : `=this.dv_has_domain` 
 
 The job title of the person (for example, Financial Manager).
 
 Relation describes that: 
 
-#has_/domain  :: Person  
-
-(has_/name :: has_job_title )
-(has_/range :: DefinedTerm, Text )
+has_domain = `=this.dv_has_domain` 
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

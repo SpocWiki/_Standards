@@ -29,6 +29,7 @@ dv_has_:
   domain: "[[../../../Society/Communication/Media/Writing/Book|Book]]"
   name: has_illustrator
   range: "[[../../../Society/Agent/Person|Person]]"
+  inverse: "[[is_illustrator_of]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_illustrator|has_illustrator]]"
@@ -38,25 +39,28 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_illustrator.private|has_illustrator.private]]"
     - "[[/_personal/schema-org/Relation/has/has_illustrator.personal|has_illustrator.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_illustrator.secret|has_illustrator.secret]]"
+    - "[[has_illustrator]]"
 dv_has_domain: "[[../../../Society/Communication/Media/Writing/Book|Book]]"
 dv_has_name: has_illustrator
 dv_has_range: "[[../../../Society/Agent/Person|Person]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_illustrator|has_illustrator]]"
+  - "[[has_illustrator]]"
   - "[[/_public/schema-org/Relation/has/has_illustrator.public|has_illustrator.public]]"
   - "[[/_internal/schema-org/Relation/has/has_illustrator.internal|has_illustrator.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_illustrator.protect|has_illustrator.protect]]"
   - "[[/_private/schema-org/Relation/has/has_illustrator.private|has_illustrator.private]]"
   - "[[/_personal/schema-org/Relation/has/has_illustrator.personal|has_illustrator.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_illustrator.secret|has_illustrator.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_illustrator_of]]"
 ---
 
 # [[has_illustrator]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_illustrator_of]]
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/illustrator : : `=this.dv_has_range`  

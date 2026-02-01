@@ -27,9 +27,13 @@ tags:
 title: has_hours_available
 type: Predi_Relation
 dv_has_:
-  domain: ["[[../../Class/is_a_/Intangible/Structured_Value/Contact_Point|Contact_Point]]", "[[../../Class/is_a_/Intangible/Structured_Value/Property_Value_Pair/Location_Feature_Specification|Location_Feature_Specification]]", "[[../../../Society/Agent/Community/Organization/Business/Service|Service]]"]
+  domain:
+    - "[[../../Class/is_a_/Intangible/Structured_Value/Contact_Point|Contact_Point]]"
+    - "[[../../Class/is_a_/Intangible/Structured_Value/Property_Value_Pair/Location_Feature_Specification|Location_Feature_Specification]]"
+    - "[[../../../Society/Agent/Community/Organization/Business/Service|Service]]"
   name: has_hours_available
   range: "[[../../Class/is_a_/Intangible/Structured_Value/Opening_Hours_Specification|Opening_Hours_Specification]]"
+  inverse: "[[is_hours_available_of]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_hours_available|has_hours_available]]"
@@ -39,25 +43,31 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_hours_available.private|has_hours_available.private]]"
     - "[[/_personal/schema-org/Relation/has/has_hours_available.personal|has_hours_available.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_hours_available.secret|has_hours_available.secret]]"
-dv_has_domain: ["[[../../Class/is_a_/Intangible/Structured_Value/Contact_Point|Contact_Point]]", "[[../../Class/is_a_/Intangible/Structured_Value/Property_Value_Pair/Location_Feature_Specification|Location_Feature_Specification]]", "[[../../../Society/Agent/Community/Organization/Business/Service|Service]]"]
+    - "[[has_hours_available]]"
+dv_has_domain:
+  - "[[../../Class/is_a_/Intangible/Structured_Value/Contact_Point|Contact_Point]]"
+  - "[[../../Class/is_a_/Intangible/Structured_Value/Property_Value_Pair/Location_Feature_Specification|Location_Feature_Specification]]"
+  - "[[../../../Society/Agent/Community/Organization/Business/Service|Service]]"
 dv_has_name: has_hours_available
 dv_has_range: "[[../../Class/is_a_/Intangible/Structured_Value/Opening_Hours_Specification|Opening_Hours_Specification]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_hours_available|has_hours_available]]"
+  - "[[has_hours_available]]"
   - "[[/_public/schema-org/Relation/has/has_hours_available.public|has_hours_available.public]]"
   - "[[/_internal/schema-org/Relation/has/has_hours_available.internal|has_hours_available.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_hours_available.protect|has_hours_available.protect]]"
   - "[[/_private/schema-org/Relation/has/has_hours_available.private|has_hours_available.private]]"
   - "[[/_personal/schema-org/Relation/has/has_hours_available.personal|has_hours_available.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_hours_available.secret|has_hours_available.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_hours_available_of]]"
 ---
 
 # [[has_hours_available]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_hours_available_of]] 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/hours_available : : `=this.dv_has_range`  

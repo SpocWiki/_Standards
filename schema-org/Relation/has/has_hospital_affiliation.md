@@ -27,11 +27,10 @@ tags:
 title: has_hospital_affiliation
 type: Predi_Relation
 dv_has_:
-  hospital_affiliation: Hospital
-  domain: Physician
+  domain: "[[../../../bio/Medicine/Medical_Business/Physician|Physician]]"
   name: has_hospital_affiliation
-  range: Hospital
-dv_has_hospital_affiliation: Hospital
+  range: "[[../../../Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Hospital|Hospital]]"
+  inverse: "[[is_hospital_affiliation_of]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_hospital_affiliation|has_hospital_affiliation]]"
@@ -41,35 +40,40 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_hospital_affiliation.private|has_hospital_affiliation.private]]"
     - "[[/_personal/schema-org/Relation/has/has_hospital_affiliation.personal|has_hospital_affiliation.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_hospital_affiliation.secret|has_hospital_affiliation.secret]]"
-dv_has_domain: Physician
+    - "[[has_hospital_affiliation]]"
+dv_has_domain: "[[../../../bio/Medicine/Medical_Business/Physician|Physician]]"
 dv_has_name: has_hospital_affiliation
-dv_has_range: Hospital
+dv_has_range: "[[../../../Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Hospital|Hospital]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_hospital_affiliation|has_hospital_affiliation]]"
+  - "[[has_hospital_affiliation]]"
   - "[[/_public/schema-org/Relation/has/has_hospital_affiliation.public|has_hospital_affiliation.public]]"
   - "[[/_internal/schema-org/Relation/has/has_hospital_affiliation.internal|has_hospital_affiliation.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_hospital_affiliation.protect|has_hospital_affiliation.protect]]"
   - "[[/_private/schema-org/Relation/has/has_hospital_affiliation.private|has_hospital_affiliation.private]]"
   - "[[/_personal/schema-org/Relation/has/has_hospital_affiliation.personal|has_hospital_affiliation.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_hospital_affiliation.secret|has_hospital_affiliation.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_hospital_affiliation_of]]"
 ---
 
+# [[has_hospital_affiliation]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
-- #has_/hospital_affiliation = `=this.dv_has_hospital_affiliation`  
-- has_hospital_affiliation = `=this.dv_has_hospital_affiliation`  
+- #has_/hospital_affiliation : : `=this.dv_has_range`  
+- has_hospital_affiliation : : `=this.dv_has_range`  
+- is_hospital_affiliation_of : : `=this.dv_has_domain` 
+- #is_/hospital_affiliation_of : : `=this.dv_has_domain` 
 
 A hospital with which the physician or office is affiliated.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

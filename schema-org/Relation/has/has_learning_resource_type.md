@@ -28,11 +28,9 @@ tags:
 title: has_learning_resource_type
 type: Predi_Relation
 dv_has_:
-  learning_resource_type: DefinedTerm, Text
-  domain: CreativeWork, LearningResource
+  domain: ["[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]", "[[../../../Society/Communication/Media/Creative_Work/Learning_Resource|Learning_Resource]]"]
   name: has_learning_resource_type
-  range: DefinedTerm, Text
-dv_has_learning_resource_type: DefinedTerm, Text
+  range: ["[[../../Class/is_a_/Intangible/Defined_Term|Defined_Term]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_learning_resource_type|has_learning_resource_type]]"
@@ -42,9 +40,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_learning_resource_type.private|has_learning_resource_type.private]]"
     - "[[/_personal/schema-org/Relation/has/has_learning_resource_type.personal|has_learning_resource_type.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_learning_resource_type.secret|has_learning_resource_type.secret]]"
-dv_has_domain: CreativeWork, LearningResource
+dv_has_domain: ["[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]", "[[../../../Society/Communication/Media/Creative_Work/Learning_Resource|Learning_Resource]]"]
 dv_has_name: has_learning_resource_type
-dv_has_range: DefinedTerm, Text
+dv_has_range: ["[[../../Class/is_a_/Intangible/Defined_Term|Defined_Term]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_learning_resource_type|has_learning_resource_type]]"
   - "[[/_public/schema-org/Relation/has/has_learning_resource_type.public|has_learning_resource_type.public]]"
@@ -55,22 +53,25 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_learning_resource_type.secret|has_learning_resource_type.secret]]"
 ---
 
+# [[has_learning_resource_type]] 
 
 is_a :: [[../../Relation|Relation]] 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[is_learning_resource_type_of]]
 
 Use it like this: 
-- #has_/learning_resource_type = `=this.dv_has_learning_resource_type`  
-- has_learning_resource_type = `=this.dv_has_learning_resource_type`  
+- #has_/learning_resource_type : : `=this.dv_has_range`  
+- has_learning_resource_type : : `=this.dv_has_range` 
+- is_learning_resource_type_of : :  `=this.dv_has_domain`
+- #is_/learning_resource_type_of : :  `=this.dv_has_domain`
 
-The predominant type or kind characterizing the learning resource. For example, 'presentation', 'handout'.
+The predominant type or kind characterizing the learning resource. 
+For example, 'presentation', 'handout'.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

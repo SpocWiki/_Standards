@@ -27,9 +27,13 @@ tags:
 title: has_health_condition
 type: Predi_Relation
 dv_has_:
-  domain: ["[[../../../bio/Medicine/Medical_Entity/Medical_Study|Medical_Study]]", "[[../../Class/is_a_/Intangible/Audience/Medical_Audience/Patient|Patient]]", "[[../../Class/is_a_/Intangible/Audience/People_Audience|People_Audience]]"]
+  domain:
+    - "[[../../../bio/Medicine/Medical_Entity/Medical_Study|Medical_Study]]"
+    - "[[../../Class/is_a_/Intangible/Audience/Medical_Audience/Patient|Patient]]"
+    - "[[../../Class/is_a_/Intangible/Audience/People_Audience|People_Audience]]"
   name: has_health_condition
   range: "[[../../../bio/Medicine/Medical_Condition|Medical_Condition]]"
+  inverse: "[[is_health_condition_of]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_health_condition|has_health_condition]]"
@@ -39,30 +43,37 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_health_condition.private|has_health_condition.private]]"
     - "[[/_personal/schema-org/Relation/has/has_health_condition.personal|has_health_condition.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_health_condition.secret|has_health_condition.secret]]"
-dv_has_domain: ["[[../../../bio/Medicine/Medical_Entity/Medical_Study|Medical_Study]]", "[[../../Class/is_a_/Intangible/Audience/Medical_Audience/Patient|Patient]]", "[[../../Class/is_a_/Intangible/Audience/People_Audience|People_Audience]]"]
+    - "[[has_health_condition]]"
+dv_has_domain:
+  - "[[../../../bio/Medicine/Medical_Entity/Medical_Study|Medical_Study]]"
+  - "[[../../Class/is_a_/Intangible/Audience/Medical_Audience/Patient|Patient]]"
+  - "[[../../Class/is_a_/Intangible/Audience/People_Audience|People_Audience]]"
 dv_has_name: has_health_condition
 dv_has_range: "[[../../../bio/Medicine/Medical_Condition|Medical_Condition]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_health_condition|has_health_condition]]"
+  - "[[has_health_condition]]"
   - "[[/_public/schema-org/Relation/has/has_health_condition.public|has_health_condition.public]]"
   - "[[/_internal/schema-org/Relation/has/has_health_condition.internal|has_health_condition.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_health_condition.protect|has_health_condition.protect]]"
   - "[[/_private/schema-org/Relation/has/has_health_condition.private|has_health_condition.private]]"
   - "[[/_personal/schema-org/Relation/has/has_health_condition.personal|has_health_condition.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_health_condition.secret|has_health_condition.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_health_condition_of]]"
 ---
 
 # [[has_health_condition]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_health_condition_of]]
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/health_condition : : `=this.dv_has_range`  
 - has_health_condition : : `=this.dv_has_range`  
 - is_health_condition_of : : `=this.dv_has_domain` 
+- #is_/health_condition_of : : `=this.dv_has_domain` 
 
 Specifying the health condition(s) of a patient, medical study, or other target audience.
 

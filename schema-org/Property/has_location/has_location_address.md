@@ -26,12 +26,9 @@ tags:
 title: has_location_address
 type: Pred_geo
 dv_has_:
-  location_:
-    address: PostalAddress, Text
-  domain: GeoCoordinates, GeoShape, Organization, Person, Place
+  domain: ["[[../../Class/is_a_/Intangible/Structured_Value/Geo_Coordinates|Geo_Coordinates]]", "[[../../Class/is_a_/Intangible/Structured_Value/Geo_Shape|GeoShape]]", "[[../../../Society/Agent/Community/Organization|Organization]]", "[[../../../Society/Agent/Person|Person]]", "[[../../../Earth/Geography/Place|Place]]"]
   name: has_location_address
-  range: PostalAddress, Text
-dv_has_location_address: PostalAddress, Text
+  range: ["[[../../Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address|Postal_Address]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_location/has_location_address|has_location_address]]"
@@ -41,9 +38,9 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_location/has_location_address.private|has_location_address.private]]"
     - "[[/_personal/schema-org/Property/has_location/has_location_address.personal|has_location_address.personal]]"
     - "[[/_secret/schema-org/Property/has_location/has_location_address.secret|has_location_address.secret]]"
-dv_has_domain: GeoCoordinates, GeoShape, Organization, Person, Place
+dv_has_domain: ["[[../../Class/is_a_/Intangible/Structured_Value/Geo_Coordinates|Geo_Coordinates]]", "[[../../Class/is_a_/Intangible/Structured_Value/Geo_Shape|GeoShape]]", "[[../../../Society/Agent/Community/Organization|Organization]]", "[[../../../Society/Agent/Person|Person]]", "[[../../../Earth/Geography/Place|Place]]"]
 dv_has_name: has_location_address
-dv_has_range: PostalAddress, Text
+dv_has_range: ["[[../../Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address|Postal_Address]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_location/has_location_address|has_location_address]]"
   - "[[/_public/schema-org/Property/has_location/has_location_address.public|has_location_address.public]]"
@@ -54,18 +51,19 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Property/has_location/has_location_address.secret|has_location_address.secret]]"
 ---
 
-Predicate to describe the geo of [[geo_coordinates]],  [[Geo_Shape]],  [[../../../Society/Agent/Community/Organization]],  [[../../../Society/Agent/Person]],  [[../../../Earth/Geography/Place]].
+# [[has_location_address]] 
+
+Predicate to describe the geo of [[../../Class/is_a_/Intangible/Structured_Value/Geo_Coordinates|Geo_Coordinates]],  [[../../Class/is_a_/Intangible/Structured_Value/Geo_Shape|Geo_Shape]],  [[../../../Society/Agent/Community/Organization|Organization]],  [[../../../Society/Agent/Person|Person]],  [[../../../Earth/Geography/Place|Place]].
 
 Use it like this: 
-- #has_/location_address = `=this.dv_has_location_address`  
-- has_location_address = `=this.dv_has_location_address`  
+- #has_/location_address = `=this.dv_has_range`  
+- has_location_address = `=this.dv_has_range`  
 
 Physical address of the item.
 
 Predicate describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range`  
 

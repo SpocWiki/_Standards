@@ -68,7 +68,7 @@ is_a = `=this.dv_is_a`
 #class/Relation
 has_inverse = `=this.dv_has_inverse` 
 
-#has_/child_/property :: [[has_layout_image|has_layout_image]], [[has_logo]], [[has_photo]] 
+#has_/child_/property :: `=this.dv_has_child_property`  
 
 Use it like this: 
 - #has_/image : : `=this.dv_has_range`    

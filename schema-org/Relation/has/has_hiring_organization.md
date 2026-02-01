@@ -27,11 +27,12 @@ tags:
 title: has_hiring_organization
 type: Predi_Relation
 dv_has_:
-  hiring_organization: Organization, Person
-  domain: JobPosting
+  domain: "[[../../Class/is_a_/Intangible/Job_Posting|Job_Posting]]"
   name: has_hiring_organization
-  range: Organization, Person
-dv_has_hiring_organization: Organization, Person
+  range:
+    - "[[../../../Society/Agent/Community/Organization|Organization]]"
+    - "[[../../../Society/Agent/Person|Person]]"
+  inverse: "[[is_hiring_organization_for]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_hiring_organization|has_hiring_organization]]"
@@ -41,35 +42,42 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_hiring_organization.private|has_hiring_organization.private]]"
     - "[[/_personal/schema-org/Relation/has/has_hiring_organization.personal|has_hiring_organization.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_hiring_organization.secret|has_hiring_organization.secret]]"
-dv_has_domain: JobPosting
+    - "[[has_hiring_organization]]"
+dv_has_domain: "[[../../Class/is_a_/Intangible/Job_Posting|Job_Posting]]"
 dv_has_name: has_hiring_organization
-dv_has_range: Organization, Person
+dv_has_range:
+  - "[[../../../Society/Agent/Community/Organization|Organization]]"
+  - "[[../../../Society/Agent/Person|Person]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_hiring_organization|has_hiring_organization]]"
+  - "[[has_hiring_organization]]"
   - "[[/_public/schema-org/Relation/has/has_hiring_organization.public|has_hiring_organization.public]]"
   - "[[/_internal/schema-org/Relation/has/has_hiring_organization.internal|has_hiring_organization.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_hiring_organization.protect|has_hiring_organization.protect]]"
   - "[[/_private/schema-org/Relation/has/has_hiring_organization.private|has_hiring_organization.private]]"
   - "[[/_personal/schema-org/Relation/has/has_hiring_organization.personal|has_hiring_organization.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_hiring_organization.secret|has_hiring_organization.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_hiring_organization_for]]"
 ---
 
+# [[has_hiring_organization]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
-- #has_/hiring_organization = `=this.dv_has_hiring_organization`  
-- has_hiring_organization = `=this.dv_has_hiring_organization`  
+- #has_/hiring_organization : : `=this.dv_has_range` 
+- has_hiring_organization : : `=this.dv_has_range`  
+- is_hiring_organization_for : : `=this.dv_has_domain`
+- #is_/hiring_organization_for : : `=this.dv_has_domain`
 
 Organization or Person offering the job position.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

@@ -23,11 +23,9 @@ tags:
 title: has_guideline
 type: Predi_Relation
 dv_has_:
-  guideline: MedicalGuideline
   domain: MedicalEntity
   name: has_guideline
   range: MedicalGuideline
-dv_has_guideline: MedicalGuideline
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_guideline|has_guideline]]"
@@ -50,22 +48,24 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_guideline.secret|has_guideline.secret]]"
 ---
 
+# [[has_guideline]] 
 
 is_a :: [[../../Relation|Relation]] 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[is_guideline_for]]
 
 Use it like this: 
-- #has_/guideline = `=this.dv_has_guideline`  
-- has_guideline = `=this.dv_has_guideline`  
+- #has_/guideline : : `=this.dv_has_range`  
+- has_guideline : : `=this.dv_has_range`  
+- is_guideline_for : : `=this.dv_has_domain` 
+- #is_/guideline_for : : `=this.dv_has_domain` 
 
 A medical guideline related to this entity.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

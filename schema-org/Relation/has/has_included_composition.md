@@ -27,11 +27,9 @@ tags:
 title: has_included_composition
 type: Predi_Relation
 dv_has_:
-  included_composition: MusicComposition
-  domain: MusicComposition
+  domain: "[[../../../Society/Communication/Media/Creative_Work/Music_Composition|Music_Composition]]"
   name: has_included_composition
-  range: MusicComposition
-dv_has_included_composition: MusicComposition
+  range: "[[../../../Society/Communication/Media/Creative_Work/Music_Composition|Music_Composition]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_included_composition|has_included_composition]]"
@@ -41,9 +39,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_included_composition.private|has_included_composition.private]]"
     - "[[/_personal/schema-org/Relation/has/has_included_composition.personal|has_included_composition.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_included_composition.secret|has_included_composition.secret]]"
-dv_has_domain: MusicComposition
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Music_Composition|Music_Composition]]" 
 dv_has_name: has_included_composition
-dv_has_range: MusicComposition
+dv_has_range: "[[../../../Society/Communication/Media/Creative_Work/Music_Composition|Music_Composition]]" 
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_included_composition|has_included_composition]]"
   - "[[/_public/schema-org/Relation/has/has_included_composition.public|has_included_composition.public]]"
@@ -54,22 +52,24 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_included_composition.secret|has_included_composition.secret]]"
 ---
 
+# [[has_included_composition]] 
 
 is_a :: [[../../Relation|Relation]] 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[is_included_composition_in]] 
 
 Use it like this: 
-- #has_/included_composition = `=this.dv_has_included_composition`  
-- has_included_composition = `=this.dv_has_included_composition`  
+- #has_/included_composition : : `=this.dv_has_range`   
+- has_included_composition : : `=this.dv_has_range`   
+- is_included_composition_in : : `=this.dv_has_domain` 
+- #is_/included_composition_in : : `=this.dv_has_domain` 
 
 Smaller compositions included in this work (e.g. a movement in a symphony).
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

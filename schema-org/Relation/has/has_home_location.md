@@ -28,26 +28,28 @@ title: has_home_location
 type: Predi_Relation
 ---
 
+# [[has_home_location]] 
 
 is_a :: [[../../Relation|Relation]] 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[is_home_location_of]]
+
+#has_/parent_/property  :: [[../../Property/has_location/has_location|has_location]]  
 
 Use it like this: 
-- #has_/home_location :: ContactPoint, Place  
-- [ has_home_location :: ContactPoint, Place ] 
+- #has_/home_location : : ContactPoint, Place  
+- has_home_location : : ContactPoint, Place 
+- is_home_location_of : :
 
 A contact location for a person's residence.
 
 Relation describes that: 
 
-#has_/domain  :: Person  
-
+#has_/domain  :: [[../../../Society/Agent/Person|Person]]  
 (has_/name :: has_home_location )
-(has_/range :: ContactPoint, Place )
+(has_/range :: [[../../Class/is_a_/Intangible/Structured_Value/Contact_Point|Contact_Point]], [[../../../Earth/Geography/Place|Place]] )
 
-#has_/parent_/property  :: location  
 
 ## Confidential Links & Embeds: 
 

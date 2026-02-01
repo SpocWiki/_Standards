@@ -9,7 +9,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,37 +17,69 @@ keywords:
   - benefits
   - info
   - government_benefits_info
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_government_benefits_info
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_government_benefits_info
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_:
+  inverse: "[[is_government_benefits_info_for]]"
+  domain: "[[../../../Society/Communication/Media/Creative_Work/Special_Announcement|Special_Announcement]]"
+  name: has_government_benefits_info
+  range: "[[../../../Society/Agent/Community/Organization/Business/Service/Government_Service|Government_Service]]"
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[has_government_benefits_info]]"
+    - "[[/_public/schema-org/Relation/has/has_government_benefits_info.public|has_government_benefits_info.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_government_benefits_info.internal|has_government_benefits_info.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_government_benefits_info.protect|has_government_benefits_info.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_government_benefits_info.private|has_government_benefits_info.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_government_benefits_info.personal|has_government_benefits_info.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_government_benefits_info.secret|has_government_benefits_info.secret]]"
+dv_has_inverse: "[[is_government_benefits_info_for]]"
+dv_is_part_of: "pending:"
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Special_Announcement|Special_Announcement]]"
+dv_has_name: has_government_benefits_info
+dv_has_range: "[[../../../Society/Agent/Community/Organization/Business/Service/Government_Service|Government_Service]]"
+dv_is_same_as:
+  - "[[has_government_benefits_info]]"
+  - "[[/_public/schema-org/Relation/has/has_government_benefits_info.public|has_government_benefits_info.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_government_benefits_info.internal|has_government_benefits_info.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_government_benefits_info.protect|has_government_benefits_info.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_government_benefits_info.private|has_government_benefits_info.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_government_benefits_info.personal|has_government_benefits_info.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_government_benefits_info.secret|has_government_benefits_info.secret]]"
 ---
 
-is_a :: [[../../Relation|Relation]] 
+# [[has_government_benefits_info]] 
+
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+has_inverse = `=this.dv_has_inverse` 
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/government_benefits_info :: GovernmentService  
-- [ has_government_benefits_info :: GovernmentService ] 
+- #has_/government_/benefits_/info : : `=this.dv_has_range`   
+- has_government_benefits_info : : `=this.dv_has_range`   
+- is_government_benefits_info_for : : `=this.dv_has_domain` 
+- #is_/government_/benefits_/info_for : : `=this.dv_has_domain` 
 
-governmentBenefitsInfo provides information about government benefits associated with a SpecialAnnouncement.
+This provides information about government benefits associated with the Subject [[../../../Society/Communication/Media/Creative_Work/Special_Announcement|Special_Announcement]].
 
 Relation describes that: 
 
-#has_/domain  :: SpecialAnnouncement  
-
-(has_/name :: has_government_benefits_info )
-(has_/range :: GovernmentService )
+has_domain = `=this.dv_has_domain` 
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

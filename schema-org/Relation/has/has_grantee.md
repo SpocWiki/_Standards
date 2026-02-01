@@ -25,7 +25,12 @@ type: Predi_Relation
 dv_has_:
   domain: "[[../../Class/is_a_/Intangible/Digital_Document_Permission|Digital_Document_Permission]]"
   name: has_grantee
-  range: ["[[../../Class/is_a_/Intangible/Audience|Audience]]", "[[../../Class/is_a_/Intangible/Structured_Value/Contact_Point|Contact_Point]]", "[[../../../Society/Agent/Community/Organization|Organization]]", "[[../../../Society/Agent/Person|Person]]"]
+  range:
+    - "[[../../Class/is_a_/Intangible/Audience|Audience]]"
+    - "[[../../Class/is_a_/Intangible/Structured_Value/Contact_Point|Contact_Point]]"
+    - "[[../../../Society/Agent/Community/Organization|Organization]]"
+    - "[[../../../Society/Agent/Person|Person]]"
+  inverse: "[[is_grantee_of]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_grantee|has_grantee]]"
@@ -35,25 +40,32 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_grantee.private|has_grantee.private]]"
     - "[[/_personal/schema-org/Relation/has/has_grantee.personal|has_grantee.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_grantee.secret|has_grantee.secret]]"
+    - "[[has_grantee]]"
 dv_has_domain: "[[../../Class/is_a_/Intangible/Digital_Document_Permission|Digital_Document_Permission]]"
 dv_has_name: has_grantee
-dv_has_range: ["[[../../Class/is_a_/Intangible/Audience|Audience]]", "[[../../Class/is_a_/Intangible/Structured_Value/Contact_Point|Contact_Point]]", "[[../../../Society/Agent/Community/Organization|Organization]]", "[[../../../Society/Agent/Person|Person]]"]
+dv_has_range:
+  - "[[../../Class/is_a_/Intangible/Audience|Audience]]"
+  - "[[../../Class/is_a_/Intangible/Structured_Value/Contact_Point|Contact_Point]]"
+  - "[[../../../Society/Agent/Community/Organization|Organization]]"
+  - "[[../../../Society/Agent/Person|Person]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_grantee|has_grantee]]"
+  - "[[has_grantee]]"
   - "[[/_public/schema-org/Relation/has/has_grantee.public|has_grantee.public]]"
   - "[[/_internal/schema-org/Relation/has/has_grantee.internal|has_grantee.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_grantee.protect|has_grantee.protect]]"
   - "[[/_private/schema-org/Relation/has/has_grantee.private|has_grantee.private]]"
   - "[[/_personal/schema-org/Relation/has/has_grantee.personal|has_grantee.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_grantee.secret|has_grantee.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_grantee_of]]"
 ---
 
 # [[has_grantee]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_grantee_of]]
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/grantee : : `=this.dv_has_range`  

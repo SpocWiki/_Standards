@@ -24,27 +24,26 @@ title: has_funding
 type: Predi_Relation
 ---
 
+# [[has_funding]]  
+
 is_a :: [[../../Relation|Relation]] 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse  :: [[is_funding_item]]  
 
 #is_/part_of :: pending:  
 
 Use it like this: 
-- #has_/funding :: Grant  
-- [ has_funding :: Grant ] 
+- #has_/funding : : Grant  
+- has_funding : : Grant  
 
 A [[Grant]] that directly or indirectly provide funding or sponsorship for this item. See also [[ownershipFundingInfo]].
 
 Relation describes that: 
 
-#has_/domain  :: BioChemEntity, CreativeWork, Event, MedicalEntity, Organization, Person, Product  
-
+#has_/domain  :: [[../../Class/is_a_/Bio_Chem_Entity|Bio_Chem_Entity]], [[../../../Society/Communication/Media/Creative_Work|Creative_Work]], [[../../Class/is_a_/Event|Event]], [[../../../bio/Medicine/Medical_Entity|Medical_Entity]], [[../../../Society/Agent/Community/Organization|Organization]], [[../../../Society/Agent/Person|Person]], [[../../../Society/Agent/Community/Organization/Business/Product|Product]]  
 (has_/name :: has_funding )
-(has_/range :: Grant )
-
-#has_/inverse  :: [[is_funding_item]]  
+(has_/range :: [[../../Class/is_a_/Intangible/Grant|Grant]] )
 
 ## Confidential Links & Embeds: 
 

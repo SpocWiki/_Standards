@@ -30,6 +30,7 @@ dv_has_:
   domain: "[[../../../bio/Medicine/Medical_Entity/Medical_Test/Imaging_Test|Imaging_Test]]"
   name: has_imaging_technique
   range: "[[../../../bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique|Medical_Imaging_Technique]]"
+  inverse: "[[is_imaging_technique_for]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_imaging_technique|has_imaging_technique]]"
@@ -39,25 +40,28 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_imaging_technique.private|has_imaging_technique.private]]"
     - "[[/_personal/schema-org/Relation/has/has_imaging_technique.personal|has_imaging_technique.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_imaging_technique.secret|has_imaging_technique.secret]]"
+    - "[[has_imaging_technique]]"
 dv_has_domain: "[[../../../bio/Medicine/Medical_Entity/Medical_Test/Imaging_Test|Imaging_Test]]"
 dv_has_name: has_imaging_technique
 dv_has_range: "[[../../../bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique|Medical_Imaging_Technique]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_imaging_technique|has_imaging_technique]]"
+  - "[[has_imaging_technique]]"
   - "[[/_public/schema-org/Relation/has/has_imaging_technique.public|has_imaging_technique.public]]"
   - "[[/_internal/schema-org/Relation/has/has_imaging_technique.internal|has_imaging_technique.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_imaging_technique.protect|has_imaging_technique.protect]]"
   - "[[/_private/schema-org/Relation/has/has_imaging_technique.private|has_imaging_technique.private]]"
   - "[[/_personal/schema-org/Relation/has/has_imaging_technique.personal|has_imaging_technique.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_imaging_technique.secret|has_imaging_technique.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_imaging_technique_for]]"
 ---
 
 # [[has_imaging_technique]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_imaging_technique_for]]
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/imaging_technique : : `=this.dv_has_range`  

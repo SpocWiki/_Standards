@@ -9,7 +9,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,37 +17,73 @@ keywords:
   - reporting
   - data
   - healthcare_reporting_data
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_healthcare_reporting_data
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_healthcare_reporting_data
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_:
+  inverse: "[[is_healthcare_reporting_data_for]]"
+  domain: "[[../../../Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Hospital|Hospital]]"
+  name: has_healthcare_reporting_data
+  range:
+    - "[[../../Class/is_a_/Intangible/Structured_Value/Cdcpmd_Record|Cdcpmd_Record]]"
+    - "[[../../../Society/Communication/Media/Creative_Work/Dataset|Dataset]]"
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[has_healthcare_reporting_data]]"
+    - "[[/_public/schema-org/Relation/has/has_healthcare_reporting_data.public|has_healthcare_reporting_data.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_healthcare_reporting_data.internal|has_healthcare_reporting_data.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_healthcare_reporting_data.protect|has_healthcare_reporting_data.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_healthcare_reporting_data.private|has_healthcare_reporting_data.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_healthcare_reporting_data.personal|has_healthcare_reporting_data.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_healthcare_reporting_data.secret|has_healthcare_reporting_data.secret]]"
+dv_has_inverse: "[[is_healthcare_reporting_data_for]]"
+dv_is_part_of: "pending:"
+dv_has_domain: "[[../../../Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Hospital|Hospital]]"
+dv_has_name: has_healthcare_reporting_data
+dv_has_range:
+  - "[[../../Class/is_a_/Intangible/Structured_Value/Cdcpmd_Record|Cdcpmd_Record]]"
+  - "[[../../../Society/Communication/Media/Creative_Work/Dataset|Dataset]]"
+dv_is_same_as:
+  - "[[has_healthcare_reporting_data]]"
+  - "[[/_public/schema-org/Relation/has/has_healthcare_reporting_data.public|has_healthcare_reporting_data.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_healthcare_reporting_data.internal|has_healthcare_reporting_data.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_healthcare_reporting_data.protect|has_healthcare_reporting_data.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_healthcare_reporting_data.private|has_healthcare_reporting_data.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_healthcare_reporting_data.personal|has_healthcare_reporting_data.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_healthcare_reporting_data.secret|has_healthcare_reporting_data.secret]]"
 ---
 
-is_a :: [[../../Relation|Relation]] 
+# [[has_healthcare_reporting_data]] 
+
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+has_inverse = `=this.dv_has_inverse` 
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/healthcare_reporting_data :: CDCPMDRecord, Dataset  
-- [ has_healthcare_reporting_data :: CDCPMDRecord, Dataset ] 
+- #has_/healthcare_reporting_data : : `=this.dv_has_range`  
+- has_healthcare_reporting_data : : `=this.dv_has_range`  
+- is_healthcare_reporting_data_for : : `=this.dv_has_domain` 
+- #is_/healthcare_reporting_data_for : : `=this.dv_has_domain` 
 
-Indicates data describing a hospital, e.g. a CDC [[CDCPMDRecord]] or as some kind of [[../../../Society/Communication/Media/Creative_Work/Dataset]].
+Indicates data describing a hospital, e.g. a CDC [[CDCPMDRecord]] or as some kind of [[../../../Society/Communication/Media/Creative_Work/Dataset|Dataset]].
 
 Relation describes that: 
 
-#has_/domain  :: Hospital  
-
-(has_/name :: has_healthcare_reporting_data )
-(has_/range :: CDCPMDRecord, Dataset )
+has_domain = `=this.dv_has_domain` 
+has_name = `=this.dv_has_name` 
+(has_/range :: [[../../Class/is_a_/Intangible/Structured_Value/Cdcpmd_Record|Cdcpmd_Record]], [[../../../Society/Communication/Media/Creative_Work/Dataset|Dataset]] )
 
 
 ## Confidential Links & Embeds: 

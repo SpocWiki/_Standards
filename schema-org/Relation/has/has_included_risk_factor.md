@@ -28,11 +28,10 @@ tags:
 title: has_included_risk_factor
 type: Predi_Relation
 dv_has_:
-  included_risk_factor: MedicalRiskFactor
-  domain: MedicalRiskEstimator
+  domain: "[[../../../bio/Medicine/Medical_Entity/Medical_Risk_Estimator|Medical_Risk_Estimator]]"
   name: has_included_risk_factor
-  range: MedicalRiskFactor
-dv_has_included_risk_factor: MedicalRiskFactor
+  range: "[[../../../bio/Medicine/Medical_Entity/Medical_Risk_Factor|Medical_Risk_Factor]]"
+  inverse: "[[is_included_risk_factor_in]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_included_risk_factor|has_included_risk_factor]]"
@@ -42,35 +41,40 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_included_risk_factor.private|has_included_risk_factor.private]]"
     - "[[/_personal/schema-org/Relation/has/has_included_risk_factor.personal|has_included_risk_factor.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_included_risk_factor.secret|has_included_risk_factor.secret]]"
-dv_has_domain: MedicalRiskEstimator
+    - "[[has_included_risk_factor]]"
+dv_has_domain: "[[../../../bio/Medicine/Medical_Entity/Medical_Risk_Estimator|Medical_Risk_Estimator]]"
 dv_has_name: has_included_risk_factor
-dv_has_range: MedicalRiskFactor
+dv_has_range: "[[../../../bio/Medicine/Medical_Entity/Medical_Risk_Factor|Medical_Risk_Factor]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_included_risk_factor|has_included_risk_factor]]"
+  - "[[has_included_risk_factor]]"
   - "[[/_public/schema-org/Relation/has/has_included_risk_factor.public|has_included_risk_factor.public]]"
   - "[[/_internal/schema-org/Relation/has/has_included_risk_factor.internal|has_included_risk_factor.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_included_risk_factor.protect|has_included_risk_factor.protect]]"
   - "[[/_private/schema-org/Relation/has/has_included_risk_factor.private|has_included_risk_factor.private]]"
   - "[[/_personal/schema-org/Relation/has/has_included_risk_factor.personal|has_included_risk_factor.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_included_risk_factor.secret|has_included_risk_factor.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_included_risk_factor_in]]"
 ---
 
+# [[has_included_risk_factor]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
-- #has_/included_risk_factor = `=this.dv_has_included_risk_factor`  
-- has_included_risk_factor = `=this.dv_has_included_risk_factor`  
+- #has_/included_risk_factor : : `=this.dv_has_range`  
+- has_included_risk_factor : : `=this.dv_has_range`
+- is_included_risk_factor_in : : `=this.dv_has_domain`  
+- #is_/included_risk_factor_in : : `=this.dv_has_domain`  
 
 A modifiable or non-modifiable risk factor included in the calculation, e.g. age, coexisting condition.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 
