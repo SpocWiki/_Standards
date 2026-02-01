@@ -1,4 +1,4 @@
----
+﻿---
 dv_has_:
   question: Question
   domain: AskAction
@@ -16,9 +16,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_question.private|has_question.private]]"
     - "[[/_personal/schema-org/Relation/has/has_question.personal|has_question.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_question.secret|has_question.secret]]"
-dv_has_domain: AskAction
+dv_has_domain: "[[../../Class/is_a_/Action/Interact_Action/Communicate_Action/Ask_Action|AskAction]]"
 dv_has_name: is_question
-dv_has_range: Question
+dv_has_range: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Communication/Media/Creative_Work/Comment/Question|Question]]"
 dv_has_parent_property: object
 dv_is_same_as:
   - "[[has_question]]"

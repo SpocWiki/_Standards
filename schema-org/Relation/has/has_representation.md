@@ -1,4 +1,4 @@
----
+﻿---
 dv_has_:
   representation: PropertyValue, Text, URL
   domain: BioChemEntity
@@ -16,7 +16,7 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_representation.private|has_representation.private]]"
     - "[[/_personal/schema-org/Relation/has/has_representation.personal|has_representation.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_representation.secret|has_representation.secret]]"
-dv_has_domain: BioChemEntity
+dv_has_domain: "[[../../Class/is_a_/Bio_Chem_Entity|BioChemEntity]]"
 dv_has_name: is_representation
 dv_has_range: PropertyValue, Text, URL
 dv_has_child_property: "[ hasBioPolymerSequence, inChI, inChIKey, smiles ]"

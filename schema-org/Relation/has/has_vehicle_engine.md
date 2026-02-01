@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_vehicle_engine]]"
@@ -61,9 +61,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_vehicle_engine.private|has_vehicle_engine.private]]"
     - "[[/_personal/schema-org/Relation/has/has_vehicle_engine.personal|has_vehicle_engine.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_vehicle_engine.secret|has_vehicle_engine.secret]]"
-dv_has_domain: Vehicle
+dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Technology/Transport/Vehicle|Vehicle]]"
 dv_has_name: is_vehicle_engine
-dv_has_range: EngineSpecification
+dv_has_range: "[[../../Class/is_a_/Intangible/Structured_Value/Engine_Specification|EngineSpecification]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_vehicle_engine|has_vehicle_engine]]"
   - "[[/_public/schema-org/Relation/has/has_vehicle_engine.public|has_vehicle_engine.public]]"

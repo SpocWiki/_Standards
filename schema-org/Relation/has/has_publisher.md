@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_publisher]]"
@@ -60,7 +60,7 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_publisher.private|has_publisher.private]]"
     - "[[/_personal/schema-org/Relation/has/has_publisher.personal|has_publisher.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_publisher.secret|has_publisher.secret]]"
-dv_has_domain: CreativeWork
+dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Communication/Media/Creative_Work|CreativeWork]]"
 dv_has_name: is_publisher
 dv_has_range: Organization, Person
 dv_is_same_as:

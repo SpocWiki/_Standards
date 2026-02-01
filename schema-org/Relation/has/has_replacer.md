@@ -1,4 +1,4 @@
----
+﻿---
 dv_has_:
   replacer: "[Thing](../../../Class/Thing)"
   domain: ReplaceAction
@@ -16,9 +16,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_replacer.private|has_replacer.private]]"
     - "[[/_personal/schema-org/Relation/has/has_replacer.personal|has_replacer.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_replacer.secret|has_replacer.secret]]"
-dv_has_domain: ReplaceAction
+dv_has_domain: "[[../../Class/is_a_/Action/Update_Action/Replace_Action|ReplaceAction]]"
 dv_has_name: is_replacer
-dv_has_range: Thing
+dv_has_range: "[[../../Class/Thing|Thing]]"
 dv_has_parent_property: object
 dv_is_same_as:
   - "[[has_replacer]]"

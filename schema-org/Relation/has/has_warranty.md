@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_warranty]]"
@@ -60,7 +60,7 @@ dv_is_:
     - "[[/_secret/schema-org/Relation/has/has_warranty.secret|has_warranty.secret]]"
 dv_has_domain: Demand, Offer
 dv_has_name: is_warranty
-dv_has_range: WarrantyPromise
+dv_has_range: "[[../../Class/is_a_/Intangible/Structured_Value/Warranty_Promise|WarrantyPromise]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_warranty|has_warranty]]"
   - "[[/_public/schema-org/Relation/has/has_warranty.public|has_warranty.public]]"

@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_pregnancy_category]]"
@@ -61,9 +61,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_pregnancy_category.private|has_pregnancy_category.private]]"
     - "[[/_personal/schema-org/Relation/has/has_pregnancy_category.personal|has_pregnancy_category.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_pregnancy_category.secret|has_pregnancy_category.secret]]"
-dv_has_domain: Drug
+dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/bio/Medicine/Drug|Drug]]"
 dv_has_name: is_pregnancy_category
-dv_has_range: DrugPregnancyCategory
+dv_has_range: "[[../../../D:/_Obsidian/SpocWeb/_Standards/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category|DrugPregnancyCategory]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_pregnancy_category|has_pregnancy_category]]"
   - "[[/_public/schema-org/Relation/has/has_pregnancy_category.public|has_pregnancy_category.public]]"

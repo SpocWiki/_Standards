@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_supporting_data]]"
@@ -61,9 +61,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_supporting_data.private|has_supporting_data.private]]"
     - "[[/_personal/schema-org/Relation/has/has_supporting_data.personal|has_supporting_data.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_supporting_data.secret|has_supporting_data.secret]]"
-dv_has_domain: SoftwareApplication
+dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Communication/Media/Creative_Work/Software_Application|SoftwareApplication]]"
 dv_has_name: is_supporting_data
-dv_has_range: DataFeed
+dv_has_range: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Communication/Media/Creative_Work/Dataset/Data_Feed|DataFeed]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_supporting_data|has_supporting_data]]"
   - "[[/_public/schema-org/Relation/has/has_supporting_data.public|has_supporting_data.public]]"

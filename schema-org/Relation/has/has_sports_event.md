@@ -1,4 +1,4 @@
----
+﻿---
 dv_has_:
   sports_event: SportsEvent
   domain: ExerciseAction
@@ -16,9 +16,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_sports_event.private|has_sports_event.private]]"
     - "[[/_personal/schema-org/Relation/has/has_sports_event.personal|has_sports_event.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_sports_event.secret|has_sports_event.secret]]"
-dv_has_domain: ExerciseAction
+dv_has_domain: "[[../../Class/is_a_/Action/Play_Action/Exercise_Action|ExerciseAction]]"
 dv_has_name: is_sports_event
-dv_has_range: SportsEvent
+dv_has_range: "[[../../Class/is_a_/Event/Sports_Event|SportsEvent]]"
 dv_has_parent_property: location
 dv_is_same_as:
   - "[[has_sports_event]]"

@@ -1,4 +1,4 @@
----
+﻿---
 dv_has_:
   performer: Organization, Person
   domain: Event
@@ -14,7 +14,7 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_performer.private|has_performer.private]]"
     - "[[/_personal/schema-org/Relation/has/has_performer.personal|has_performer.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_performer.secret|has_performer.secret]]"
-dv_has_domain: Event
+dv_has_domain: "[[../../Class/is_a_/Event|Event]]"
 dv_has_name: has_performer
 dv_has_range: Organization, Person
 dv_is_same_as:

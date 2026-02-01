@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_risk_factor]]"
@@ -61,9 +61,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_risk_factor.private|has_risk_factor.private]]"
     - "[[/_personal/schema-org/Relation/has/has_risk_factor.personal|has_risk_factor.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_risk_factor.secret|has_risk_factor.secret]]"
-dv_has_domain: MedicalCondition
+dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/bio/Medicine/Medical_Condition|MedicalCondition]]"
 dv_has_name: is_risk_factor
-dv_has_range: MedicalRiskFactor
+dv_has_range: "[[../../../D:/_Obsidian/SpocWeb/_Standards/bio/Medicine/Medical_Entity/Medical_Risk_Factor|MedicalRiskFactor]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_risk_factor|has_risk_factor]]"
   - "[[/_public/schema-org/Relation/has/has_risk_factor.public|has_risk_factor.public]]"

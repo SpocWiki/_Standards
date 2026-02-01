@@ -1,4 +1,4 @@
----
+﻿---
 dv_has_:
   release_of: MusicAlbum
   domain: MusicRelease
@@ -14,9 +14,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_release_of.private|has_release_of.private]]"
     - "[[/_personal/schema-org/Relation/has/has_release_of.personal|has_release_of.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_release_of.secret|has_release_of.secret]]"
-dv_has_domain: MusicRelease
+dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Communication/Media/Creative_Work/Music_Playlist/Music_Release|MusicRelease]]"
 dv_has_name: is_release_of
-dv_has_range: MusicAlbum
+dv_has_range: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Communication/Media/Creative_Work/Music_Playlist/Music_Album|MusicAlbum]]"
 dv_is_same_as:
   - "[[has_release_of]]"
   - "[[/_public/schema-org/Relation/has/has_release_of.public|has_release_of.public]]"

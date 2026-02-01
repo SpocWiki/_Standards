@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_potential_action]]"
@@ -63,7 +63,7 @@ dv_is_:
     - "[[/_secret/schema-org/Relation/has/has_potential_action.secret|has_potential_action.secret]]"
 dv_has_domain: "[Thing](../../../Class/Thing)"
 dv_has_name: is_potential_action
-dv_has_range: Action
+dv_has_range: "[[../../Class/is_a_/Action|Action]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_potential_action|has_potential_action]]"
   - "[[/_public/schema-org/Relation/has/has_potential_action.public|has_potential_action.public]]"

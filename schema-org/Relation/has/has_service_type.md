@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_service_type]]"
@@ -61,7 +61,7 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_service_type.private|has_service_type.private]]"
     - "[[/_personal/schema-org/Relation/has/has_service_type.personal|has_service_type.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_service_type.secret|has_service_type.secret]]"
-dv_has_domain: Service
+dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Agent/Community/Organization/Business/Service|Service]]"
 dv_has_name: is_service_type
 dv_has_range: GovernmentBenefitsType, Text
 dv_is_same_as:

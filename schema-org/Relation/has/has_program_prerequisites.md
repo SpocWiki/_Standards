@@ -1,4 +1,4 @@
----
+﻿---
 dv_has_:
   program_prerequisites: AlignmentObject, Course, EducationalOccupationalCredential, Text
   domain: EducationalOccupationalProgram
@@ -14,7 +14,7 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_program_prerequisites.private|has_program_prerequisites.private]]"
     - "[[/_personal/schema-org/Relation/has/has_program_prerequisites.personal|has_program_prerequisites.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_program_prerequisites.secret|has_program_prerequisites.secret]]"
-dv_has_domain: EducationalOccupationalProgram
+dv_has_domain: "[[../../Class/is_a_/Intangible/Educational_Occupational_Program|EducationalOccupationalProgram]]"
 dv_has_name: is_program_prerequisites
 dv_has_range: AlignmentObject, Course, EducationalOccupationalCredential, Text
 dv_is_same_as:

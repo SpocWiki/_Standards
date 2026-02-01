@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_reservation_for]]"
@@ -61,9 +61,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_reservation_for.private|has_reservation_for.private]]"
     - "[[/_personal/schema-org/Relation/has/has_reservation_for.personal|has_reservation_for.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_reservation_for.secret|has_reservation_for.secret]]"
-dv_has_domain: Reservation
+dv_has_domain: "[[../../Class/is_a_/Intangible/Reservation|Reservation]]"
 dv_has_name: is_reservation_for
-dv_has_range: Thing
+dv_has_range: "[[../../Class/Thing|Thing]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_reservation_for|has_reservation_for]]"
   - "[[/_public/schema-org/Relation/has/has_reservation_for.public|has_reservation_for.public]]"

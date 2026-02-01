@@ -1,4 +1,4 @@
----
+﻿---
 dv_has_:
   variant: Product
   domain: ProductGroup
@@ -14,9 +14,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_variant.private|has_variant.private]]"
     - "[[/_personal/schema-org/Relation/has/has_variant.personal|has_variant.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_variant.secret|has_variant.secret]]"
-dv_has_domain: ProductGroup
+dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Agent/Community/Organization/Business/Product/Product_Group|ProductGroup]]"
 dv_has_name: is_variant
-dv_has_range: Product
+dv_has_range: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Agent/Community/Organization/Business/Product|Product]]"
 dv_is_same_as:
   - "[[has_variant]]"
   - "[[/_public/schema-org/Relation/has/has_variant.public|has_variant.public]]"

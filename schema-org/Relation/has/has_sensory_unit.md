@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_sensory_unit]]"
@@ -61,7 +61,7 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_sensory_unit.private|has_sensory_unit.private]]"
     - "[[/_personal/schema-org/Relation/has/has_sensory_unit.personal|has_sensory_unit.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_sensory_unit.secret|has_sensory_unit.secret]]"
-dv_has_domain: Nerve
+dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/bio/Medicine/Anatomy/Nervous_System/Nerve|Nerve]]"
 dv_has_name: is_sensory_unit
 dv_has_range: AnatomicalStructure, SuperficialAnatomy
 dv_is_same_as:

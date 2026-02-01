@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_production_company]]"
@@ -63,7 +63,7 @@ dv_is_:
     - "[[/_secret/schema-org/Relation/has/has_production_company.secret|has_production_company.secret]]"
 dv_has_domain: CreativeWorkSeason, Episode, MediaObject, Movie, MovieSeries, RadioSeries, TVSeries, VideoGameSeries
 dv_has_name: is_production_company
-dv_has_range: Organization
+dv_has_range: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Agent/Community/Organization|Organization]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_production_company|has_production_company]]"
   - "[[/_public/schema-org/Relation/has/has_production_company.public|has_production_company.public]]"

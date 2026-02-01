@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_seating_type]]"
@@ -61,7 +61,7 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_seating_type.private|has_seating_type.private]]"
     - "[[/_personal/schema-org/Relation/has/has_seating_type.personal|has_seating_type.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_seating_type.secret|has_seating_type.secret]]"
-dv_has_domain: Seat
+dv_has_domain: "[[../../Class/is_a_/Intangible/Seat|Seat]]"
 dv_has_name: is_seating_type
 dv_has_range: QualitativeValue, Text
 dv_is_same_as:

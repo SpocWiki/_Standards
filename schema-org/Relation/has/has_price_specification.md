@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_price_specification]]"
@@ -63,7 +63,7 @@ dv_is_:
     - "[[/_secret/schema-org/Relation/has/has_price_specification.secret|has_price_specification.secret]]"
 dv_has_domain: Demand, Offer, TradeAction
 dv_has_name: is_price_specification
-dv_has_range: PriceSpecification
+dv_has_range: "[[../../Class/is_a_/Intangible/Structured_Value/Price_Specification|PriceSpecification]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_price_specification|has_price_specification]]"
   - "[[/_public/schema-org/Relation/has/has_price_specification.public|has_price_specification.public]]"

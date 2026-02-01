@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_thumbnail]]"
@@ -59,7 +59,7 @@ dv_is_:
     - "[[/_secret/schema-org/Relation/has/has_thumbnail.secret|has_thumbnail.secret]]"
 dv_has_domain: ImageObject, VideoObject
 dv_has_name: is_thumbnail
-dv_has_range: ImageObject
+dv_has_range: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object|ImageObject]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_thumbnail|has_thumbnail]]"
   - "[[/_public/schema-org/Relation/has/has_thumbnail.public|has_thumbnail.public]]"

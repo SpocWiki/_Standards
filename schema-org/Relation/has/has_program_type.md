@@ -1,4 +1,4 @@
----
+﻿---
 dv_has_:
   program_type: DefinedTerm, Text
   domain: EducationalOccupationalProgram
@@ -14,7 +14,7 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_program_type.private|has_program_type.private]]"
     - "[[/_personal/schema-org/Relation/has/has_program_type.personal|has_program_type.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_program_type.secret|has_program_type.secret]]"
-dv_has_domain: EducationalOccupationalProgram
+dv_has_domain: "[[../../Class/is_a_/Intangible/Educational_Occupational_Program|EducationalOccupationalProgram]]"
 dv_has_name: is_program_type
 dv_has_range: DefinedTerm, Text
 dv_is_same_as:

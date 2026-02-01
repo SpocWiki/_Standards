@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has observed-node
   - observedNode
@@ -43,9 +43,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_observed_node.private|has_observed_node.private]]"
     - "[[/_personal/schema-org/Relation/has/has_observed_node.personal|has_observed_node.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_observed_node.secret|has_observed_node.secret]]"
-dv_has_domain: Observation
+dv_has_domain: "[[../../Class/is_a_/Intangible/Observation|Observation]]"
 dv_has_name: has_observed_node
-dv_has_range: StatisticalPopulation
+dv_has_range: "[[../../Class/is_a_/Intangible/Statistical_Population|StatisticalPopulation]]"
 dv_is_same_as:
   - "[[has_observed_node]]"
   - "[[/_public/schema-org/Relation/has/has_observed_node.public|has_observed_node.public]]"

@@ -1,4 +1,4 @@
----
+﻿---
 dv_has_:
   penciler: Person
   domain: ComicIssue, ComicStory, VisualArtwork
@@ -16,7 +16,7 @@ dv_is_:
     - "[[/_secret/schema-org/Relation/has/has_penciler.secret|has_penciler.secret]]"
 dv_has_domain: ComicIssue, ComicStory, VisualArtwork
 dv_has_name: has_penciler
-dv_has_range: Person
+dv_has_range: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Agent/Person|Person]]"
 dv_is_same_as:
   - "[[has_penciler]]"
   - "[[/_public/schema-org/Relation/has/has_penciler.public|has_penciler.public]]"

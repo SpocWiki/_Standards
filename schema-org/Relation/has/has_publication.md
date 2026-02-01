@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_publication]]"
@@ -57,9 +57,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_publication.private|has_publication.private]]"
     - "[[/_personal/schema-org/Relation/has/has_publication.personal|has_publication.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_publication.secret|has_publication.secret]]"
-dv_has_domain: CreativeWork
+dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Communication/Media/Creative_Work|CreativeWork]]"
 dv_has_name: is_publication
-dv_has_range: PublicationEvent
+dv_has_range: "[[../../Class/is_a_/Event/Publication_Event|PublicationEvent]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_publication|has_publication]]"
   - "[[/_public/schema-org/Relation/has/has_publication.public|has_publication.public]]"

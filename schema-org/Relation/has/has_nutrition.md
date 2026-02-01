@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has nutrition
   - schema:nutrition
@@ -45,7 +45,7 @@ dv_is_:
     - "[[has_nutrition]]"
 dv_has_domain: MenuItem, Recipe
 dv_has_name: has_nutrition
-dv_has_range: NutritionInformation
+dv_has_range: "[[../../Class/is_a_/Intangible/Structured_Value/Nutrition_Information|NutritionInformation]]"
 dv_is_same_as:
   - "[[has_nutrition]]"
   - "[[/_public/schema-org/Relation/has/has_nutrition.public|has_nutrition.public]]"

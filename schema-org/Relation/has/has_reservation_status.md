@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_reservation_status]]"
@@ -61,9 +61,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_reservation_status.private|has_reservation_status.private]]"
     - "[[/_personal/schema-org/Relation/has/has_reservation_status.personal|has_reservation_status.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_reservation_status.secret|has_reservation_status.secret]]"
-dv_has_domain: Reservation
+dv_has_domain: "[[../../Class/is_a_/Intangible/Reservation|Reservation]]"
 dv_has_name: is_reservation_status
-dv_has_range: ReservationStatusType
+dv_has_range: "[[../../../D:/_Obsidian/SpocWeb/_Standards/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type|ReservationStatusType]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_reservation_status|has_reservation_status]]"
   - "[[/_public/schema-org/Relation/has/has_reservation_status.public|has_reservation_status.public]]"

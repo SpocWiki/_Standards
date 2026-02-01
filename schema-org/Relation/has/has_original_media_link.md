@@ -1,4 +1,4 @@
----
+﻿---
 dv_has_:
   original_media_link: MediaObject, URL, WebPage
   domain: MediaReview
@@ -14,7 +14,7 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_original_media_link.private|has_original_media_link.private]]"
     - "[[/_personal/schema-org/Relation/has/has_original_media_link.personal|has_original_media_link.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_original_media_link.secret|has_original_media_link.secret]]"
-dv_has_domain: MediaReview
+dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Communication/Media/Creative_Work/Review/Media_Review|MediaReview]]"
 dv_has_name: has_original_media_link
 dv_has_range: MediaObject, URL, WebPage
 dv_is_same_as:

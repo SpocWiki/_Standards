@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_trial_design]]"
@@ -61,9 +61,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_trial_design.private|has_trial_design.private]]"
     - "[[/_personal/schema-org/Relation/has/has_trial_design.personal|has_trial_design.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_trial_design.secret|has_trial_design.secret]]"
-dv_has_domain: MedicalTrial
+dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/bio/Medicine/Medical_Entity/Medical_Study/Medical_Trial|MedicalTrial]]"
 dv_has_name: is_trial_design
-dv_has_range: MedicalTrialDesign
+dv_has_range: "[[../../../D:/_Obsidian/SpocWeb/_Standards/bio/Medicine/Medical_Enumeration/Medical_Trial_Design|MedicalTrialDesign]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_trial_design|has_trial_design]]"
   - "[[/_public/schema-org/Relation/has/has_trial_design.public|has_trial_design.public]]"

@@ -1,4 +1,4 @@
----
+﻿---
 dv_has_:
   sports_activity_location: SportsActivityLocation
   domain: ExerciseAction
@@ -16,9 +16,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_sports_activity_location.private|has_sports_activity_location.private]]"
     - "[[/_personal/schema-org/Relation/has/has_sports_activity_location.personal|has_sports_activity_location.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_sports_activity_location.secret|has_sports_activity_location.secret]]"
-dv_has_domain: ExerciseAction
+dv_has_domain: "[[../../Class/is_a_/Action/Play_Action/Exercise_Action|ExerciseAction]]"
 dv_has_name: is_sports_activity_location
-dv_has_range: SportsActivityLocation
+dv_has_range: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location|SportsActivityLocation]]"
 dv_has_parent_property: location
 dv_is_same_as:
   - "[[has_sports_activity_location]]"

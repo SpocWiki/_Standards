@@ -1,4 +1,4 @@
----
+﻿---
 dv_has_:
   recorded_as: MusicRecording
   domain: MusicComposition
@@ -14,9 +14,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_recorded_as.private|has_recorded_as.private]]"
     - "[[/_personal/schema-org/Relation/has/has_recorded_as.personal|has_recorded_as.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_recorded_as.secret|has_recorded_as.secret]]"
-dv_has_domain: MusicComposition
+dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Communication/Media/Creative_Work/Music_Composition|MusicComposition]]"
 dv_has_name: is_recorded_as
-dv_has_range: MusicRecording
+dv_has_range: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Communication/Media/Creative_Work/Music_Recording|MusicRecording]]"
 dv_is_same_as:
   - "[[has_recorded_as]]"
   - "[[/_public/schema-org/Relation/has/has_recorded_as.public|has_recorded_as.public]]"

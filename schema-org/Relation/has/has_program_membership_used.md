@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_program_membership_used]]"
@@ -62,9 +62,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_program_membership_used.private|has_program_membership_used.private]]"
     - "[[/_personal/schema-org/Relation/has/has_program_membership_used.personal|has_program_membership_used.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_program_membership_used.secret|has_program_membership_used.secret]]"
-dv_has_domain: Reservation
+dv_has_domain: "[[../../Class/is_a_/Intangible/Reservation|Reservation]]"
 dv_has_name: is_program_membership_used
-dv_has_range: ProgramMembership
+dv_has_range: "[[../../Class/is_a_/Intangible/Program_Membership|ProgramMembership]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_program_membership_used|has_program_membership_used]]"
   - "[[/_public/schema-org/Relation/has/has_program_membership_used.public|has_program_membership_used.public]]"

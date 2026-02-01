@@ -1,4 +1,4 @@
----
+﻿---
 dv_has_:
   result: "[Thing](../../../Class/Thing)"
   domain: Action
@@ -16,9 +16,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_result.private|has_result.private]]"
     - "[[/_personal/schema-org/Relation/has/has_result.personal|has_result.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_result.secret|has_result.secret]]"
-dv_has_domain: Action
+dv_has_domain: "[[../../Class/is_a_/Action|Action]]"
 dv_has_name: is_result
-dv_has_range: Thing
+dv_has_range: "[[../../Class/Thing|Thing]]"
 dv_has_child_property: "[ resultComment, resultReview ]"
 dv_is_same_as:
   - "[[has_result]]"

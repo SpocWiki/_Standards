@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_xpath]]"
@@ -59,7 +59,7 @@ dv_is_:
     - "[[/_secret/schema-org/Relation/has/has_xpath.secret|has_xpath.secret]]"
 dv_has_domain: SpeakableSpecification, WebPageElement
 dv_has_name: is_xpath
-dv_has_range: XPathType
+dv_has_range: "[[../../Class/is_a_/Data_Type/Text/X_Path_Type|XPathType]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_xpath|has_xpath]]"
   - "[[/_public/schema-org/Relation/has/has_xpath.public|has_xpath.public]]"

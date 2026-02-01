@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_place_map]]"
@@ -62,7 +62,7 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_place_map.private|has_place_map.private]]"
     - "[[/_personal/schema-org/Relation/has/has_place_map.personal|has_place_map.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_place_map.secret|has_place_map.secret]]"
-dv_has_domain: Place
+dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Earth/Geography/Place|Place]]"
 dv_has_name: has_place_map
 dv_has_range: Map, URL
 dv_is_same_as:

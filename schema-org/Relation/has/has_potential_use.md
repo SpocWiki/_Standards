@@ -1,4 +1,4 @@
----
+﻿---
 dv_has_:
   potential_use: DefinedTerm
   domain: ChemicalSubstance, MolecularEntity
@@ -16,7 +16,7 @@ dv_is_:
     - "[[/_secret/schema-org/Relation/has/has_potential_use.secret|has_potential_use.secret]]"
 dv_has_domain: ChemicalSubstance, MolecularEntity
 dv_has_name: is_potential_use
-dv_has_range: DefinedTerm
+dv_has_range: "[[../../Class/is_a_/Intangible/Defined_Term|DefinedTerm]]"
 dv_is_same_as:
   - "[[has_potential_use]]"
   - "[[/_public/schema-org/Relation/has/has_potential_use.public|has_potential_use.public]]"

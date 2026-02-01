@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_product_supported]]"
@@ -61,7 +61,7 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_product_supported.private|has_product_supported.private]]"
     - "[[/_personal/schema-org/Relation/has/has_product_supported.personal|has_product_supported.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_product_supported.secret|has_product_supported.secret]]"
-dv_has_domain: ContactPoint
+dv_has_domain: "[[../../Class/is_a_/Intangible/Structured_Value/Contact_Point|ContactPoint]]"
 dv_has_name: is_product_supported
 dv_has_range: Product, Text
 dv_is_same_as:

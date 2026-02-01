@@ -1,4 +1,4 @@
----
+﻿---
 dv_has_:
   taxonomic_range: DefinedTerm, Taxon, Text, URL
   domain: BioChemEntity
@@ -14,7 +14,7 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_taxonomic_range.private|has_taxonomic_range.private]]"
     - "[[/_personal/schema-org/Relation/has/has_taxonomic_range.personal|has_taxonomic_range.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_taxonomic_range.secret|has_taxonomic_range.secret]]"
-dv_has_domain: BioChemEntity
+dv_has_domain: "[[../../Class/is_a_/Bio_Chem_Entity|BioChemEntity]]"
 dv_has_name: is_taxonomic_range
 dv_has_range: DefinedTerm, Taxon, Text, URL
 dv_is_same_as:

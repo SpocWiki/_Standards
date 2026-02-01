@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_source_organization]]"
@@ -61,9 +61,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_source_organization.private|has_source_organization.private]]"
     - "[[/_personal/schema-org/Relation/has/has_source_organization.personal|has_source_organization.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_source_organization.secret|has_source_organization.secret]]"
-dv_has_domain: CreativeWork
+dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Communication/Media/Creative_Work|CreativeWork]]"
 dv_has_name: is_source_organization
-dv_has_range: Organization
+dv_has_range: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Agent/Community/Organization|Organization]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_source_organization|has_source_organization]]"
   - "[[/_public/schema-org/Relation/has/has_source_organization.public|has_source_organization.public]]"

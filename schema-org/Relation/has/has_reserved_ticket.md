@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_reserved_ticket]]"
@@ -61,9 +61,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_reserved_ticket.private|has_reserved_ticket.private]]"
     - "[[/_personal/schema-org/Relation/has/has_reserved_ticket.personal|has_reserved_ticket.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_reserved_ticket.secret|has_reserved_ticket.secret]]"
-dv_has_domain: Reservation
+dv_has_domain: "[[../../Class/is_a_/Intangible/Reservation|Reservation]]"
 dv_has_name: is_reserved_ticket
-dv_has_range: Ticket
+dv_has_range: "[[../../Class/is_a_/Intangible/Ticket|Ticket]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_reserved_ticket|has_reserved_ticket]]"
   - "[[/_public/schema-org/Relation/has/has_reserved_ticket.public|has_reserved_ticket.public]]"

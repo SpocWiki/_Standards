@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_organizer]]"
@@ -57,7 +57,7 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_organizer.private|has_organizer.private]]"
     - "[[/_personal/schema-org/Relation/has/has_organizer.personal|has_organizer.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_organizer.secret|has_organizer.secret]]"
-dv_has_domain: Event
+dv_has_domain: "[[../../Class/is_a_/Event|Event]]"
 dv_has_name: has_organizer
 dv_has_range: Organization, Person
 dv_is_same_as:

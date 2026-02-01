@@ -1,4 +1,4 @@
----
+﻿---
 dv_has_:
   previous_:
     item: ListItem
@@ -17,9 +17,9 @@ dv_is_:
     - "[[/_personal/schema-org/Relation/has/has_previous_item.personal|has_previous_item.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_previous_item.secret|has_previous_item.secret]]"
 dv_is_similar_to: "[[../is/is_successor_of]]"
-dv_has_domain: ListItem
+dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/schema-org/Collection/list_item|ListItem]]"
 dv_has_name: is_previous_item
-dv_has_range: ListItem
+dv_has_range: "[[../../../D:/_Obsidian/SpocWeb/_Standards/schema-org/Collection/list_item|ListItem]]"
 dv_is_same_as:
   - "[[has_previous_item]]"
   - "[[/_public/schema-org/Relation/has/has_previous_item.public|has_previous_item.public]]"

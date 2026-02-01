@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_trailer]]"
@@ -59,7 +59,7 @@ dv_is_:
     - "[[/_secret/schema-org/Relation/has/has_trailer.secret|has_trailer.secret]]"
 dv_has_domain: CreativeWorkSeason, Episode, Movie, MovieSeries, RadioSeries, TVSeries, VideoGame, VideoGameSeries
 dv_has_name: is_trailer
-dv_has_range: VideoObject
+dv_has_range: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Video_Object|VideoObject]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_trailer|has_trailer]]"
   - "[[/_public/schema-org/Relation/has/has_trailer.public|has_trailer.public]]"

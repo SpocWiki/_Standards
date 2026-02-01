@@ -1,4 +1,4 @@
----
+﻿---
 dv_has_:
   recorded_in: CreativeWork
   domain: Event
@@ -14,9 +14,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_recorded_in.private|has_recorded_in.private]]"
     - "[[/_personal/schema-org/Relation/has/has_recorded_in.personal|has_recorded_in.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_recorded_in.secret|has_recorded_in.secret]]"
-dv_has_domain: Event
+dv_has_domain: "[[../../Class/is_a_/Event|Event]]"
 dv_has_name: is_recorded_in
-dv_has_range: CreativeWork
+dv_has_range: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Communication/Media/Creative_Work|CreativeWork]]"
 dv_is_same_as:
   - "[[has_recorded_in]]"
   - "[[/_public/schema-org/Relation/has/has_recorded_in.public|has_recorded_in.public]]"

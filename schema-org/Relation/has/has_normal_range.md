@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has normal-range
   - normalRange
@@ -43,7 +43,7 @@ dv_is_:
     - "[[/_personal/schema-org/Relation/has/has_normal_range.personal|has_normal_range.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_normal_range.secret|has_normal_range.secret]]"
     - "[[has_normal_range]]"
-dv_has_domain: MedicalTest
+dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/bio/Medicine/Medical_Entity/Medical_Test|MedicalTest]]"
 dv_has_name: has_normal_range
 dv_has_range: MedicalEnumeration, Text
 dv_is_same_as:

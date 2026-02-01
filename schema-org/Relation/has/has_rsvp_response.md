@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_rsvp_response]]"
@@ -61,9 +61,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_rsvp_response.private|has_rsvp_response.private]]"
     - "[[/_personal/schema-org/Relation/has/has_rsvp_response.personal|has_rsvp_response.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_rsvp_response.secret|has_rsvp_response.secret]]"
-dv_has_domain: RsvpAction
+dv_has_domain: "[[../../Class/is_a_/Action/Interact_Action/Communicate_Action/Inform_Action/Rsvp_Action|RsvpAction]]"
 dv_has_name: is_rsvp_response
-dv_has_range: RsvpResponseType
+dv_has_range: "[[../../../D:/_Obsidian/SpocWeb/_Standards/schema-org/Enumeration/Rsvp_Response_Type|RsvpResponseType]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_rsvp_response|has_rsvp_response]]"
   - "[[/_public/schema-org/Relation/has/has_rsvp_response.public|has_rsvp_response.public]]"

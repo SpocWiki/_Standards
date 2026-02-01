@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has_menu
   - has menu
@@ -38,7 +38,7 @@ dv_is_:
     - "[[/_personal/schema-org/Relation/has/has_menu.personal|has_menu.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_menu.secret|has_menu.secret]]"
     - "[[has_menu]]"
-dv_has_domain: FoodEstablishment
+dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment|FoodEstablishment]]"
 dv_has_name: has_menu
 dv_has_range: Menu, Text, URL
 dv_is_same_as:

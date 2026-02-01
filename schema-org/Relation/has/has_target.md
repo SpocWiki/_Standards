@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_target]]"
@@ -57,7 +57,7 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_target.private|has_target.private]]"
     - "[[/_personal/schema-org/Relation/has/has_target.personal|has_target.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_target.secret|has_target.secret]]"
-dv_has_domain: Action
+dv_has_domain: "[[../../Class/is_a_/Action|Action]]"
 dv_has_name: is_target
 dv_has_range: EntryPoint, URL
 dv_is_same_as:

@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_screenshot]]"
@@ -57,7 +57,7 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_screenshot.private|has_screenshot.private]]"
     - "[[/_personal/schema-org/Relation/has/has_screenshot.personal|has_screenshot.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_screenshot.secret|has_screenshot.secret]]"
-dv_has_domain: SoftwareApplication
+dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Communication/Media/Creative_Work/Software_Application|SoftwareApplication]]"
 dv_has_name: is_screenshot
 dv_has_range: ImageObject, URL
 dv_is_same_as:

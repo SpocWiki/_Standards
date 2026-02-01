@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_procedure_type]]"
@@ -61,9 +61,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_procedure_type.private|has_procedure_type.private]]"
     - "[[/_personal/schema-org/Relation/has/has_procedure_type.personal|has_procedure_type.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_procedure_type.secret|has_procedure_type.secret]]"
-dv_has_domain: MedicalProcedure
+dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure|MedicalProcedure]]"
 dv_has_name: is_procedure_type
-dv_has_range: MedicalProcedureType
+dv_has_range: "[[../../../D:/_Obsidian/SpocWeb/_Standards/bio/Medicine/Medical_Enumeration/Medical_Procedure_Type|MedicalProcedureType]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_procedure_type|has_procedure_type]]"
   - "[[/_public/schema-org/Relation/has/has_procedure_type.public|has_procedure_type.public]]"

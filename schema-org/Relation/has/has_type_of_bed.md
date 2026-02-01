@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_type_of_bed]]"
@@ -62,7 +62,7 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_type_of_bed.private|has_type_of_bed.private]]"
     - "[[/_personal/schema-org/Relation/has/has_type_of_bed.personal|has_type_of_bed.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_type_of_bed.secret|has_type_of_bed.secret]]"
-dv_has_domain: BedDetails
+dv_has_domain: "[[../../Class/is_a_/Intangible/Bed_Details|BedDetails]]"
 dv_has_name: is_type_of_bed
 dv_has_range: BedType, Text
 dv_is_same_as:

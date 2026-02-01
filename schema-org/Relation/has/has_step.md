@@ -1,4 +1,4 @@
----
+﻿---
 dv_has_:
   step: CreativeWork, HowToSection, HowToStep, Text
   domain: HowTo
@@ -16,7 +16,7 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_step.private|has_step.private]]"
     - "[[/_personal/schema-org/Relation/has/has_step.personal|has_step.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_step.secret|has_step.secret]]"
-dv_has_domain: HowTo
+dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Communication/Media/Creative_Work/How_to|HowTo]]"
 dv_has_name: is_step
 dv_has_range: CreativeWork, HowToSection, HowToStep, Text
 dv_has_child_property: "[ recipeInstructions ]"

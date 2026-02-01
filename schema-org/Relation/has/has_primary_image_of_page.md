@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_primary_image_of_page]]"
@@ -63,9 +63,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_primary_image_of_page.private|has_primary_image_of_page.private]]"
     - "[[/_personal/schema-org/Relation/has/has_primary_image_of_page.personal|has_primary_image_of_page.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_primary_image_of_page.secret|has_primary_image_of_page.secret]]"
-dv_has_domain: WebPage
+dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page|WebPage]]"
 dv_has_name: is_primary_image_of_page
-dv_has_range: ImageObject
+dv_has_range: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object|ImageObject]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_primary_image_of_page|has_primary_image_of_page]]"
   - "[[/_public/schema-org/Relation/has/has_primary_image_of_page.public|has_primary_image_of_page.public]]"

@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_recognizing_authority]]"
@@ -61,9 +61,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_recognizing_authority.private|has_recognizing_authority.private]]"
     - "[[/_personal/schema-org/Relation/has/has_recognizing_authority.personal|has_recognizing_authority.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_recognizing_authority.secret|has_recognizing_authority.secret]]"
-dv_has_domain: MedicalEntity
+dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/bio/Medicine/Medical_Entity|MedicalEntity]]"
 dv_has_name: is_recognizing_authority
-dv_has_range: Organization
+dv_has_range: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Agent/Community/Organization|Organization]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_recognizing_authority|has_recognizing_authority]]"
   - "[[/_public/schema-org/Relation/has/has_recognizing_authority.public|has_recognizing_authority.public]]"

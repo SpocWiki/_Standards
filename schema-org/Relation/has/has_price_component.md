@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_price_component]]"
@@ -61,9 +61,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_price_component.private|has_price_component.private]]"
     - "[[/_personal/schema-org/Relation/has/has_price_component.personal|has_price_component.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_price_component.secret|has_price_component.secret]]"
-dv_has_domain: CompoundPriceSpecification
+dv_has_domain: "[[../../Class/is_a_/Intangible/Structured_Value/Price_Specification/Compound_Price_Specification|CompoundPriceSpecification]]"
 dv_has_name: is_price_component
-dv_has_range: UnitPriceSpecification
+dv_has_range: "[[../../Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification|UnitPriceSpecification]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_price_component|has_price_component]]"
   - "[[/_public/schema-org/Relation/has/has_price_component.public|has_price_component.public]]"

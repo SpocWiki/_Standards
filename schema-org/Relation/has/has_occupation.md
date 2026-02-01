@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_occupation]]"
@@ -62,9 +62,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_occupation.private|has_occupation.private]]"
     - "[[/_personal/schema-org/Relation/has/has_occupation.personal|has_occupation.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_occupation.secret|has_occupation.secret]]"
-dv_has_domain: Person
+dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Agent/Person|Person]]"
 dv_has_name: has_occupation
-dv_has_range: Occupation
+dv_has_range: "[[../../Class/is_a_/Intangible/Occupation|Occupation]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_occupation|has_occupation]]"
   - "[[/_public/schema-org/Relation/has/has_occupation.public|has_occupation.public]]"

@@ -1,4 +1,4 @@
----
+﻿---
 dv_has_:
   price_component_type: PriceComponentTypeEnumeration
   domain: UnitPriceSpecification
@@ -14,9 +14,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_price_component_type.private|has_price_component_type.private]]"
     - "[[/_personal/schema-org/Relation/has/has_price_component_type.personal|has_price_component_type.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_price_component_type.secret|has_price_component_type.secret]]"
-dv_has_domain: UnitPriceSpecification
+dv_has_domain: "[[../../Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification|UnitPriceSpecification]]"
 dv_has_name: is_price_component_type
-dv_has_range: PriceComponentTypeEnumeration
+dv_has_range: "[[../../../D:/_Obsidian/SpocWeb/_Standards/schema-org/Enumeration/Price_Component_Type_Enumeration|PriceComponentTypeEnumeration]]"
 dv_is_same_as:
   - "[[has_price_component_type]]"
   - "[[/_public/schema-org/Relation/has/has_price_component_type.public|has_price_component_type.public]]"

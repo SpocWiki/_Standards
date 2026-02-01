@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_software_add_on]]"
@@ -62,9 +62,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_software_add_on.private|has_software_add_on.private]]"
     - "[[/_personal/schema-org/Relation/has/has_software_add_on.personal|has_software_add_on.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_software_add_on.secret|has_software_add_on.secret]]"
-dv_has_domain: SoftwareApplication
+dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Communication/Media/Creative_Work/Software_Application|SoftwareApplication]]"
 dv_has_name: is_software_add_on
-dv_has_range: SoftwareApplication
+dv_has_range: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Communication/Media/Creative_Work/Software_Application|SoftwareApplication]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_software_add_on|has_software_add_on]]"
   - "[[/_public/schema-org/Relation/has/has_software_add_on.public|has_software_add_on.public]]"
