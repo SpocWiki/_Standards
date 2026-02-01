@@ -36,9 +36,9 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Data_Type.secret|Data_Type.secret]]"
 dv_has_:
   parent_class: "[[../../Class|Class]]"
-  child_class: "[ Boolean, Time, DateTime, Date, Text, Number ]"
+  child_class: [ "[[Data_Type/Boolean|Boolean]]", "[[Data_Type/Time_Span|Time_Span]]", "[[Data_Type/Date_Time|DateTime]]", "[[Data_Type/Text|Text]]", "[[Data_Type/Number|Number]]" ]
 dv_has_parent_class: "[[../../Class|Class]]"
-dv_has_child_class: "[ Boolean, Time, DateTime, Date, Text, Number ]"
+dv_has_child_class: [ "[[Data_Type/Boolean|Boolean]]", "[[Data_Type/Time_Span|Time_Span]]", "[[Data_Type/Date_Time|DateTime]]", "[[Data_Type/Text|Text]]", "[[Data_Type/Number|Number]]" ]
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Data_Type|Data_Type]]"
   - "[[/_public/schema-org/Class/is_a_/Data_Type.public|Data_Type.public]]"
@@ -49,16 +49,21 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Class/is_a_/Data_Type.secret|Data_Type.secret]]"
 ---
 
-Class of all (basic) data types used in [[../../../../_Standards/schema-org/Predicate/Quantities]] such as Integers, Strings, etc.
+# [[Data_Type]] 
+
 #class/data_type
-
-Tag Instances like this: 
-
 #is_a_/data_type
-
 has_parent_class = `=this.dv_has_parent_class` 
-
 has_child_class = `=this.dv_has_child_class` 
+
+Class of all (basic/primitive) data types used in [[../../Predicate/Quantity|Quantities]] such as 
+- Integers, Strings, etc.
+
+These are merely Values/Data 
+that are copied [[by_Value]] instead of [[by_Reference]], because 
+- they are numerous and volatile 
+- they don't have an Identity 
+- they don't need much space 
 
 ## Confidential Links & Embeds: 
 

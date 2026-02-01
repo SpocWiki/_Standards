@@ -3,6 +3,7 @@ aliases:
   - observation
   - observation
   - Observation
+  - Measurement
   - is_an_observation
 has_id_wikidata: Q193181
 confidential: public
@@ -49,14 +50,49 @@ dv_is_:
     - "[[/_private/schema-org/Class/is_a_/Intangible/Observation.private|Observation.private]]"
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Observation.personal|Observation.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Observation.secret|Observation.secret]]"
+    - "[[Observation]]"
 dv_has_:
-  properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, marginOfError, measuredProperty, measuredValue, name, observationDate, observedNode, potentialAction, sameAs, subjectOf, url ]"
+  properties:
+    - "[[../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
+    - "[[../../../Property/has_name/has_name_alternate|has_name_alternate]]"
+    - "[[../../../Property/Texts/has_description|has_description]]"
+    - "[[../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
+    - "[[../../../Relation/has/has_identifier|has_identifier]]"
+    - "[[../../../Relation/has/has_image|has_image]]"
+    - "[[../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+    - "[[../../../Property/has_value_for/has_value_for_margin_of_error|has_value_for_margin_of_error]]"
+    - "[[../../../Relation/has/has_measured_property|has_measured_property]]"
+    - "[[../../../Relation/has/has_measured_value|has_measured_value]]"
+    - "[[../../../Property/has_name|has_name]]"
+    - "[[../../../Property/has_Date_Time/has_time_of_observation|has_time_of_observation]]"
+    - "[[../../../Relation/has/has_observed_node|observedNode]]"
+    - "[[../../../Relation/has/has_potential_action|has_potential_action]]"
+    - "[[../../../Relation/is_same_as|sameAs]]"
+    - "[[../../../Relation/is/is_subject_of|subjectOf]]"
+    - "[[../Data_Type/Text/Url|Url]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../Intangible]]"
-dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, marginOfError, measuredProperty, measuredValue, name, observationDate, observedNode, potentialAction, sameAs, subjectOf, url ]"
+dv_has_properties:
+  - "[[../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
+  - "[[../../../Property/has_name/has_name_alternate|has_name_alternate]]"
+  - "[[../../../Property/Texts/has_description|has_description]]"
+  - "[[../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
+  - "[[../../../Relation/has/has_identifier|has_identifier]]"
+  - "[[../../../Relation/has/has_image|has_image]]"
+  - "[[../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+  - "[[../../../Property/has_value_for/has_value_for_margin_of_error|has_value_for_margin_of_error]]"
+  - "[[../../../Relation/has/has_measured_property|has_measured_property]]"
+  - "[[../../../Relation/has/has_measured_value|has_measured_value]]"
+  - "[[../../../Property/has_name|has_name]]"
+  - "[[../../../Property/has_Date_Time/has_time_of_observation|has_time_of_observation]]"
+  - "[[../../../Relation/has/has_observed_node|observedNode]]"
+  - "[[../../../Relation/has/has_potential_action|has_potential_action]]"
+  - "[[../../../Relation/is_same_as|sameAs]]"
+  - "[[../../../Relation/is/is_subject_of|subjectOf]]"
+  - "[[../Data_Type/Text/Url|Url]]"
 dv_is_same_as:
   - "[[../../../../WikiData/WD~Observation,193181|WD~Observation,193181]]"
-  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Observation|Observation]]"
+  - "[[Observation]]"
   - "[[/_public/schema-org/Class/is_a_/Intangible/Observation.public|Observation.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Intangible/Observation.internal|Observation.internal]]"
   - "[[/_protect/schema-org/Class/is_a_/Intangible/Observation.protect|Observation.protect]]"
@@ -67,6 +103,8 @@ dv_is_same_as:
 
 # [[Observation]] 
 
+#is_/same_as :: [[../../../../WikiData/WD~Observation,193181|WD~Observation,193181]] 
+
 Class of all observations.
 
 Tag Instances like this: 
@@ -74,14 +112,19 @@ Tag Instances like this:
 
 is_part_of = `=this.dv_is_part_of` 
 
-Instances of the class [[Observation]] are used to specify observations about an entity (which may or may not be an instance of a [[StatisticalPopulation]]), at a particular time. The principal properties of an [[Observation]] are [[observedNode]],  [[measuredProperty]],  [[measuredValue]] (or [[../../../../Mathematics/Statistics/Probability/Median]], etc.) and [[observationDate]] ([[measuredProperty]] properties can, but need not always, be W3C RDF Data Cube "measure properties", as in the <a href="https://www.w3.org/TR/vocab-data-cube/#dsd-example">lifeExpectancy example</a>).
-See also [[StatisticalPopulation]], and the <a href="/docs/data-and-datasets.html">data and datasets</a> overview for more details.
+Instances of the class [[Observation]] are used to specify observations 
+about an entity (which may or may not be an instance of a [[Statistical_Population|Statistical_Population]]), at a particular time. 
+
+The principal properties of an [[Observation]] are [[../../../Relation/has/has_observed_node|has_observed_node]],  [[../../../Relation/has/has_measured_property|has_measured_property]],  [[../../../Relation/has/has_measured_value|has_measured_value]] (or [[../../../../Mathematics/Statistics/Probability/Median|Median]], etc.) 
+and [[../../../Property/has_Date_Time/has_time_of_observation|has_time_of_observation]] ([[../../../Relation/has/has_measured_property|has_measured_property]] properties 
+can, but need not always, be W3C RDF Data Cube "measure properties", 
+as in the <a href="https://www.w3.org/TR/vocab-data-cube/#dsd-example">lifeExpectancy example</a>).
+
+See also [[Statistical_Population|Statistical_Population]], and the <a href="/docs/data-and-datasets.html">data and datasets</a> overview for more details.
 
 has_parent_class = `=this.dv_has_parent_class` 
 
 has_properties = `=this.dv_has_properties` 
-
-#is_/same_as :: [[../../../../WikiData/WD~Observation,193181|WD~Observation,193181]] 
 
 ## #has_/text_of_/abstract 
 

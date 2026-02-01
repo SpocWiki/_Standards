@@ -22,7 +22,7 @@ short_name: UTC
 dv_is_:
   same_as:
     - "[[../../../../../WikiData/WD~Coordinated_Universal_Time,1536|WD~Coordinated_Universal_Time,1536]]"
-    - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Time_of_Day/UTC(Coordinated_Universal_Time)|UTC(Coordinated_Universal_Time)]]"
+    - "[[UTC(Coordinated_Universal_Time)|UTC(Coordinated_Universal_Time)]]"
     - "[[/_public/schema-org/Class/is_a_/Data_Type/Time_of_Day/UTC(Coordinated_Universal_Time).public|UTC(Coordinated_Universal_Time).public]]"
     - "[[/_internal/schema-org/Class/is_a_/Data_Type/Time_of_Day/UTC(Coordinated_Universal_Time).internal|UTC(Coordinated_Universal_Time).internal]]"
     - "[[/_protect/schema-org/Class/is_a_/Data_Type/Time_of_Day/UTC(Coordinated_Universal_Time).protect|UTC(Coordinated_Universal_Time).protect]]"
@@ -31,7 +31,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Data_Type/Time_of_Day/UTC(Coordinated_Universal_Time).secret|UTC(Coordinated_Universal_Time).secret]]"
 dv_is_same_as:
   - "[[../../../../../WikiData/WD~Coordinated_Universal_Time,1536|WD~Coordinated_Universal_Time,1536]]"
-  - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Time_of_Day/UTC(Coordinated_Universal_Time)|UTC(Coordinated_Universal_Time)]]"
+  - "[[UTC(Coordinated_Universal_Time)|UTC(Coordinated_Universal_Time)]]"
   - "[[/_public/schema-org/Class/is_a_/Data_Type/Time_of_Day/UTC(Coordinated_Universal_Time).public|UTC(Coordinated_Universal_Time).public]]"
   - "[[/_internal/schema-org/Class/is_a_/Data_Type/Time_of_Day/UTC(Coordinated_Universal_Time).internal|UTC(Coordinated_Universal_Time).internal]]"
   - "[[/_protect/schema-org/Class/is_a_/Data_Type/Time_of_Day/UTC(Coordinated_Universal_Time).protect|UTC(Coordinated_Universal_Time).protect]]"
@@ -77,7 +77,7 @@ dv_is_same_as:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Data_Type/Time_of_Day/UTC(Coordinated_Universal_Time)|UTC(Coordinated_Universal_Time)]] 
+### #is_/same_as :: [[UTC(Coordinated_Universal_Time)|UTC(Coordinated_Universal_Time)]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Data_Type/Time_of_Day/UTC(Coordinated_Universal_Time).public|UTC(Coordinated_Universal_Time).public]] 
 

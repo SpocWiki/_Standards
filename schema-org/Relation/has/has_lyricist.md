@@ -23,11 +23,9 @@ tags:
 title: has_lyricist
 type: Predi_Relation
 dv_has_:
-  lyricist: Person
-  domain: MusicComposition
+  domain: "[[../../../Society/Communication/Media/Creative_Work/Music_Composition|Music_Composition]]"
   name: has_lyricist
-  range: Person
-dv_has_lyricist: Person
+  range: "[[../../../Society/Agent/Person|Person]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_lyricist|has_lyricist]]"
@@ -37,9 +35,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_lyricist.private|has_lyricist.private]]"
     - "[[/_personal/schema-org/Relation/has/has_lyricist.personal|has_lyricist.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_lyricist.secret|has_lyricist.secret]]"
-dv_has_domain: MusicComposition
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Music_Composition|Music_Composition]]"
 dv_has_name: has_lyricist
-dv_has_range: Person
+dv_has_range: "[[../../../Society/Agent/Person|Person]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_lyricist|has_lyricist]]"
   - "[[/_public/schema-org/Relation/has/has_lyricist.public|has_lyricist.public]]"
@@ -50,22 +48,23 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_lyricist.secret|has_lyricist.secret]]"
 ---
 
+# [[has_lyricist]] 
 
 is_a :: [[../../Relation|Relation]] 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[is_lyricist_of]] 
 
 Use it like this: 
-- #has_/lyricist = `=this.dv_has_lyricist`  
-- has_lyricist = `=this.dv_has_lyricist`  
+- #has_/lyricist : : `=this.dv_has_range`  
+- has_lyricist : : `=this.dv_has_range`  
+- is_lyricist_of : : `=this.dv_has_domain` 
 
 The person who wrote the words.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

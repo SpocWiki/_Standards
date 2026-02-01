@@ -4,6 +4,9 @@ aliases:
   - has payment method
   - has_payment_method_accepted
   - has_accepted_payment_method
+  - gs1:acceptedPaymentMethod
+  - schema:acceptedPaymentMethod
+  - acceptedPaymentMethod
 confidential: public
 cssclasses:
   - Predicate

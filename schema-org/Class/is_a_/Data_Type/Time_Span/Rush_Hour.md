@@ -11,7 +11,7 @@ Commons_category: Rush hour
 dv_is_:
   same_as:
     - "[[../../../../../WikiData/WD~Rush_hour,868252]]"
-    - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Time_of_Day/Rush_Hour|Rush_Hour]]"
+    - "[[Rush_Hour|Rush_Hour]]"
     - "[[/_public/schema-org/Class/is_a_/Data_Type/Time_of_Day/Rush_Hour.public|Rush_Hour.public]]"
     - "[[/_internal/schema-org/Class/is_a_/Data_Type/Time_of_Day/Rush_Hour.internal|Rush_Hour.internal]]"
     - "[[/_protect/schema-org/Class/is_a_/Data_Type/Time_of_Day/Rush_Hour.protect|Rush_Hour.protect]]"
@@ -20,7 +20,7 @@ dv_is_:
     - "[[/_secret/schema-org/Class/is_a_/Data_Type/Time_of_Day/Rush_Hour.secret|Rush_Hour.secret]]"
 dv_is_same_as:
   - "[[../../../../../WikiData/WD~Rush_hour,868252]]"
-  - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Time_of_Day/Rush_Hour|Rush_Hour]]"
+  - "[[Rush_Hour|Rush_Hour]]"
   - "[[/_public/schema-org/Class/is_a_/Data_Type/Time_of_Day/Rush_Hour.public|Rush_Hour.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Data_Type/Time_of_Day/Rush_Hour.internal|Rush_Hour.internal]]"
   - "[[/_protect/schema-org/Class/is_a_/Data_Type/Time_of_Day/Rush_Hour.protect|Rush_Hour.protect]]"
@@ -57,7 +57,7 @@ dv_is_same_as:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Data_Type/Time_of_Day/Rush_Hour|Rush_Hour]] 
+### #is_/same_as :: [[Rush_Hour|Rush_Hour]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Data_Type/Time_of_Day/Rush_Hour.public|Rush_Hour.public]] 
 

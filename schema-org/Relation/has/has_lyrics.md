@@ -30,6 +30,7 @@ dv_has_:
   range:
     - "[[../../../Society/Communication/Media/Creative_Work|CreativeWork]]"
     - "[[../../Class/is_a_/Data_Type/Text|Text]]"
+  inverse: "[[are_lyrics_of]]"
 dv_is_:
   same_as:
     - "[[has_lyrics]]"
@@ -53,16 +54,21 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_lyrics.private|has_lyrics.private]]"
   - "[[/_personal/schema-org/Relation/has/has_lyrics.personal|has_lyrics.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_lyrics.secret|has_lyrics.secret]]"
+dv_has_inverse: "[[are_lyrics_of]]"
 ---
 
 # [[has_lyrics]] 
 
+has_inverse = `=this.dv_has_inverse` 
+
 Use it like this: 
-- #has_/lyrics = `=this.dv_has_range` 
-- has_lyrics = `=this.dv_has_range` 
+- #has_/lyrics : : `=this.dv_has_range` 
+- has_lyrics : : `=this.dv_has_range` 
+- is_lyrics_of : : `=this.dv_has_domain`  
+- #is_/lyrics_of : : `=this.dv_has_domain`  
 
 or, when giving the text directly: 
-- #has_/text_of_/lyrics  :: Text  
+- #has_/text_of_/lyrics : : Text  
 The words in the song.
 
 Relation describes that: 

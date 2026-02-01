@@ -46,10 +46,9 @@ Typically a digitally signed PDF have a "stronger" legal value than the HTML fil
 
 Relation describes that: 
 
-#has_/domain  :: LegislationObject  
-
+#has_/domain  :: [[../../../../Society/Communication/Media/Creative_Work/Legislation/Legislation_Object|Legislation_Object]]  
 (has_/name :: has_legislation_legal_value )
-(has_/range :: LegalValueLevel )
+(has_/range :: [[../../../Enumeration/Legal_Value_Level|Legal_Value_Level]] )
 
 
 ## Confidential Links & Embeds: 

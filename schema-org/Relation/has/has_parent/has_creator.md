@@ -26,7 +26,7 @@ type: Predi_Relation
 
 # [[has_creator]] 
 
-#has_/child_/property :: [[../../is/is_legislation_passed_by|is_legislation_passed_by]] , [[has_founder]]    
+#has_/child_/property :: [[../../is/is_legislation/is_legislation_passed_by|is_legislation_passed_by]] , [[has_founder]]    
 
 #has_/inverse  :: [[has_created]] 
 

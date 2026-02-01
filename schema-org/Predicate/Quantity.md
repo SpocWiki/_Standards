@@ -3,6 +3,7 @@ aliases:
   - quantity
   - Quantity
   - is_a_quantity
+  - Quantities
 has_id_wikidata: Q309314
 confidential: public
 cssclasses:

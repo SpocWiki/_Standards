@@ -43,7 +43,8 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Class/is_a_/Data_Type/Date.secret|Date.secret]]"
 ---
 
-# [[date]] 
+# [[Date]] 
+
 Class of all dates.
 
 Tag Instances like this: 

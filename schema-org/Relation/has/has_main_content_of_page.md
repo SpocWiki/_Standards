@@ -30,11 +30,9 @@ tags:
 title: has_main_content_of_page
 type: Predi_Relation
 dv_has_:
-  main_content_of_page: WebPageElement
-  domain: WebPage
+  domain: "[[../../../Society/Communication/Media/Creative_Work/Web_Content/Web_Page|Web_Page]]"
   name: has_main_content_of_page
-  range: WebPageElement
-dv_has_main_content_of_page: WebPageElement
+  range: "[[../../../Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element|Web_Page_Element]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_main_content_of_page|has_main_content_of_page]]"
@@ -44,9 +42,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_main_content_of_page.private|has_main_content_of_page.private]]"
     - "[[/_personal/schema-org/Relation/has/has_main_content_of_page.personal|has_main_content_of_page.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_main_content_of_page.secret|has_main_content_of_page.secret]]"
-dv_has_domain: WebPage
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Web_Content/Web_Page|Web_Page]]"
 dv_has_name: has_main_content_of_page
-dv_has_range: WebPageElement
+dv_has_range: "[[../../../Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element|Web_Page_Element]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_main_content_of_page|has_main_content_of_page]]"
   - "[[/_public/schema-org/Relation/has/has_main_content_of_page.public|has_main_content_of_page.public]]"
@@ -57,22 +55,24 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_main_content_of_page.secret|has_main_content_of_page.secret]]"
 ---
 
+# [[has_main_content_of_page]] 
 
 is_a :: [[../../Relation|Relation]] 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[is_main_content_of_page]]
 
 Use it like this: 
-- #has_/main_content_of_page = `=this.dv_has_main_content_of_page`  
-- has_main_content_of_page = `=this.dv_has_main_content_of_page`  
+- #has_/main_content_of_page : : `=this.dv_has_range`  
+- has_main_content_of_page : : `=this.dv_has_range`  
+- is_main_content_of_page : : `=this.dv_has_domain` 
+- #is_/main_content_of_page : : `=this.dv_has_domain` 
 
 Indicates if this web page element is the main subject of the page.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

@@ -28,11 +28,9 @@ tags:
 title: has_live_blog_update
 type: Predi_Relation
 dv_has_:
-  live_blog_update: BlogPosting
-  domain: LiveBlogPosting
+  range: "[[../../../Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting/Live_Blog_Posting|Live_Blog_Posting]]"
   name: has_live_blog_update
-  range: BlogPosting
-dv_has_live_blog_update: BlogPosting
+  domain: "[[../../../Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting|Blog_Posting]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_live_blog_update|has_live_blog_update]]"
@@ -42,9 +40,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_live_blog_update.private|has_live_blog_update.private]]"
     - "[[/_personal/schema-org/Relation/has/has_live_blog_update.personal|has_live_blog_update.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_live_blog_update.secret|has_live_blog_update.secret]]"
-dv_has_domain: LiveBlogPosting
+dv_has_range: "[[../../../Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting/Live_Blog_Posting|Live_Blog_Posting]]"
 dv_has_name: has_live_blog_update
-dv_has_range: BlogPosting
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting|Blog_Posting]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_live_blog_update|has_live_blog_update]]"
   - "[[/_public/schema-org/Relation/has/has_live_blog_update.public|has_live_blog_update.public]]"
@@ -55,22 +53,24 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_live_blog_update.secret|has_live_blog_update.secret]]"
 ---
 
+# [[has_live_blog_update]] 
 
 is_a :: [[../../Relation|Relation]] 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[is_live_blog_update_of]]
 
 Use it like this: 
-- #has_/live_blog_update = `=this.dv_has_live_blog_update`  
-- has_live_blog_update = `=this.dv_has_live_blog_update`  
+- #has_/live_blog_update = `=this.dv_has_range` 
+- has_live_blog_update = `=this.dv_has_range`  
+- is_live_blog_update_of : : `=this.dv_has_domain` 
+- #is_/live_blog_update_of : : `=this.dv_has_domain` 
 
 An update to the LiveBlog.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

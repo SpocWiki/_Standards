@@ -26,11 +26,10 @@ tags:
 title: has_license
 type: Predi_Relation
 dv_has_:
-  license_: CreativeWork, URL
   domain: CreativeWork
   name: has_license
   range: CreativeWork, URL
-dv_has_license_: CreativeWork, URL
+  inverse: "[[is_license_for]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_license|has_license]]"
@@ -40,35 +39,40 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_license.private|has_license.private]]"
     - "[[/_personal/schema-org/Relation/has/has_license.personal|has_license.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_license.secret|has_license.secret]]"
+    - "[[has_license]]"
 dv_has_domain: CreativeWork
 dv_has_name: has_license
 dv_has_range: CreativeWork, URL
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_license|has_license]]"
+  - "[[has_license]]"
   - "[[/_public/schema-org/Relation/has/has_license.public|has_license.public]]"
   - "[[/_internal/schema-org/Relation/has/has_license.internal|has_license.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_license.protect|has_license.protect]]"
   - "[[/_private/schema-org/Relation/has/has_license.private|has_license.private]]"
   - "[[/_personal/schema-org/Relation/has/has_license.personal|has_license.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_license.secret|has_license.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_license_for]]"
 ---
 
+# [[has_license]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
-- #has_/license_ = `=this.dv_has_license_`  
-- has_license_ = `=this.dv_has_license_`  
+- #has_/license : : `=this.dv_has_range`  
+- has_license : : `=this.dv_has_range`  
+- is_license_for : : `=this.dv_has_domain`
+- #is_/license_for : : `=this.dv_has_domain`
 
 A license document that applies to this content, typically indicated by URL.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

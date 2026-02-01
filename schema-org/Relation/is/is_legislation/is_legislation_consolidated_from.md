@@ -33,8 +33,8 @@ type: Predi_Relation
 #is_/part_of :: pending:  
 
 Use it like this: 
-- #is_/legislation_/consolidated_from :: "[[../../../Society/Communication/Media/Creative_Work/Legislation|Legislation]]"  
-- is_legislation_consolidated_from :: "[[../../../Society/Communication/Media/Creative_Work/Legislation|Legislation]]" 
+- #is_/legislation_/consolidated_from :: "[[../../../../Society/Communication/Media/Creative_Work/Legislation|Legislation]]"  
+- is_legislation_consolidated_from :: "[[../../../../Society/Communication/Media/Creative_Work/Legislation|Legislation]]" 
 
 Indicates another legislation taken into account in this consolidated legislation
 (which is usually the product of an editorial process that revises the legislation).
@@ -45,14 +45,14 @@ and to the legislations making the change.
 
 Relation describes that: 
 
-#has_/domain  :: "[[../../../Society/Communication/Media/Creative_Work/Legislation|Legislation]]"  
+#has_/domain  :: "[[../../../../Society/Communication/Media/Creative_Work/Legislation|Legislation]]"  
 (has_/name :: is_legislation_consolidated_from )
-(has_/range :: "[[../../../Society/Communication/Media/Creative_Work/Legislation|Legislation]]" )
+(has_/range :: "[[../../../../Society/Communication/Media/Creative_Work/Legislation|Legislation]]" )
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_legislation_consolidated_from|is_legislation_consolidated_from]] 
+### #is_/same_as :: [[is_legislation_consolidated_from|is_legislation_consolidated_from]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/is/is_legislation_consolidated_from.public|is_legislation_consolidated_from.public]] 
 

@@ -52,7 +52,9 @@ Class of all date (plus time) Values.
 Tag Instances like this: 
 #is_a_/date_time
 
-A combination of Gregorian date and time of day in this Format: (-)?CCYY-MM-DDThh:mm:ss(Z|(+|-)hh:mm) (see Chapter 5.4 of ISO 8601).
+A combination of Gregorian date and time of day in this 
+Format: (-)?CCYY-MM-DDThh:mm:ss(Z|(+|-)hh:mm) (ISO 8601).
+
 Any Value **after the Month can be omitted** which can also be an indicator of the Precision or Duration of the Period starting this Value. 
 E.g. specifying only the Date Part indicates a Duration from 00:00 of that Date to 23:59:59.999 of that Date. 
 

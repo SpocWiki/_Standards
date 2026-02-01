@@ -27,11 +27,9 @@ tags:
 title: has_medicine_system
 type: Predi_Relation
 dv_has_:
-  medicine_system: MedicineSystem
-  domain: MedicalEntity
+  domain: "[[../../../bio/Medicine/Medical_Entity|Medical_Entity]]"
   name: has_medicine_system
-  range: MedicineSystem
-dv_has_medicine_system: MedicineSystem
+  range: "[[../../../bio/Medicine/Medical_Enumeration/Medicine_System|Medicine_System]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_medicine_system|has_medicine_system]]"
@@ -41,9 +39,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_medicine_system.private|has_medicine_system.private]]"
     - "[[/_personal/schema-org/Relation/has/has_medicine_system.personal|has_medicine_system.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_medicine_system.secret|has_medicine_system.secret]]"
-dv_has_domain: MedicalEntity
+dv_has_domain: "[[../../../bio/Medicine/Medical_Entity|Medical_Entity]]"
 dv_has_name: has_medicine_system
-dv_has_range: MedicineSystem
+dv_has_range: "[[../../../bio/Medicine/Medical_Enumeration/Medicine_System|Medicine_System]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_medicine_system|has_medicine_system]]"
   - "[[/_public/schema-org/Relation/has/has_medicine_system.public|has_medicine_system.public]]"
@@ -54,22 +52,24 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_medicine_system.secret|has_medicine_system.secret]]"
 ---
 
+# [[has_medicine_system]] 
 
 is_a :: [[../../Relation|Relation]] 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[is_medicine_system_of]] 
 
 Use it like this: 
-- #has_/medicine_system = `=this.dv_has_medicine_system`  
-- has_medicine_system = `=this.dv_has_medicine_system`  
+- #has_/medicine_system : : `=this.dv_has_range`  
+- has_medicine_system : : `=this.dv_has_range`  
+- is_medicine_system_of : : `=this.dv_has_domain`  
+- #is_/medicine_system_of : : `=this.dv_has_domain`  
 
 The system of medicine that includes this MedicalEntity, for example 'evidence-based', 'homeopathic', 'chiropractic', etc.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

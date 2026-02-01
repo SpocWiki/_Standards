@@ -28,11 +28,12 @@ tags:
 title: has_lodging_unit_type
 type: Predi_Relation
 dv_has_:
-  lodging_unit_type: QualitativeValue, Text
-  domain: LodgingReservation
+  domain: "[[../../Class/is_a_/Intangible/Reservation/Lodging_Reservation|Lodging_Reservation]]"
   name: has_lodging_unit_type
-  range: QualitativeValue, Text
-dv_has_lodging_unit_type: QualitativeValue, Text
+  range:
+    - "[[../../Enumeration/Qualitative_Value|QualitativeValue]]"
+    - "[[../../Class/is_a_/Data_Type/Text|Text]]"
+  inverse: "[[is_lodging_unit_type_of]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_lodging_unit_type|has_lodging_unit_type]]"
@@ -42,35 +43,42 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_lodging_unit_type.private|has_lodging_unit_type.private]]"
     - "[[/_personal/schema-org/Relation/has/has_lodging_unit_type.personal|has_lodging_unit_type.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_lodging_unit_type.secret|has_lodging_unit_type.secret]]"
-dv_has_domain: LodgingReservation
+    - "[[has_lodging_unit_type]]"
+dv_has_domain: "[[../../Class/is_a_/Intangible/Reservation/Lodging_Reservation|Lodging_Reservation]]"
 dv_has_name: has_lodging_unit_type
-dv_has_range: QualitativeValue, Text
+dv_has_range:
+  - "[[../../Enumeration/Qualitative_Value|QualitativeValue]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_lodging_unit_type|has_lodging_unit_type]]"
+  - "[[has_lodging_unit_type]]"
   - "[[/_public/schema-org/Relation/has/has_lodging_unit_type.public|has_lodging_unit_type.public]]"
   - "[[/_internal/schema-org/Relation/has/has_lodging_unit_type.internal|has_lodging_unit_type.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_lodging_unit_type.protect|has_lodging_unit_type.protect]]"
   - "[[/_private/schema-org/Relation/has/has_lodging_unit_type.private|has_lodging_unit_type.private]]"
   - "[[/_personal/schema-org/Relation/has/has_lodging_unit_type.personal|has_lodging_unit_type.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_lodging_unit_type.secret|has_lodging_unit_type.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_lodging_unit_type_of]]"
 ---
 
+# [[has_lodging_unit_type]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
-- #has_/lodging_unit_type = `=this.dv_has_lodging_unit_type`  
-- has_lodging_unit_type = `=this.dv_has_lodging_unit_type`  
+- #has_/lodging_unit_type : : `=this.dv_has_range`  
+- has_lodging_unit_type : : `=this.dv_has_range`  
+- is_lodging_unit_type_of : : `=this.dv_has_domain` 
+- #is_/lodging_unit_type_of : : `=this.dv_has_domain` 
 
 Textual description of the unit type (including suite vs. room, size of bed, etc.).
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

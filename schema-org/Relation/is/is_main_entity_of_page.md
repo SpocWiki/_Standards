@@ -10,7 +10,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -18,65 +18,60 @@ keywords:
   - entity
   - of
   - page
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_main_entity_of_page
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: is_main_entity_of_page
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_:
+  inverse: "[[../has/has_main_entity|has_main_entity]]"
+  domain: "[Thing](../../../Class/Thing)"
+  name: is_main_entity_of_page
+  range: CreativeWork, URL
+dv_is_:
+  same_as:
+    - "[[is_main_entity_of_page]]"
+    - "[[/_public/schema-org/Relation/is/is_main_entity_of_page.public|is_main_entity_of_page.public]]"
+    - "[[/_internal/schema-org/Relation/is/is_main_entity_of_page.internal|is_main_entity_of_page.internal]]"
+    - "[[/_protect/schema-org/Relation/is/is_main_entity_of_page.protect|is_main_entity_of_page.protect]]"
+    - "[[/_private/schema-org/Relation/is/is_main_entity_of_page.private|is_main_entity_of_page.private]]"
+    - "[[/_personal/schema-org/Relation/is/is_main_entity_of_page.personal|is_main_entity_of_page.personal]]"
+    - "[[/_secret/schema-org/Relation/is/is_main_entity_of_page.secret|is_main_entity_of_page.secret]]"
+dv_has_inverse: "[[../has/has_main_entity|has_main_entity]]"
+dv_has_domain: "[Thing](../../../Class/Thing)"
+dv_has_name: is_main_entity_of_page
+dv_has_range:
+  - "[[../../../Society/Communication/Media/Creative_Work|CreativeWork]]"
+  - "[[../../Class/is_a_/Data_Type/Text/Url|Url]]"
+dv_is_same_as:
+  - "[[is_main_entity_of_page]]"
+  - "[[/_public/schema-org/Relation/is/is_main_entity_of_page.public|is_main_entity_of_page.public]]"
+  - "[[/_internal/schema-org/Relation/is/is_main_entity_of_page.internal|is_main_entity_of_page.internal]]"
+  - "[[/_protect/schema-org/Relation/is/is_main_entity_of_page.protect|is_main_entity_of_page.protect]]"
+  - "[[/_private/schema-org/Relation/is/is_main_entity_of_page.private|is_main_entity_of_page.private]]"
+  - "[[/_personal/schema-org/Relation/is/is_main_entity_of_page.personal|is_main_entity_of_page.personal]]"
+  - "[[/_secret/schema-org/Relation/is/is_main_entity_of_page.secret|is_main_entity_of_page.secret]]"
 ---
 
+# [[is_main_entity_of_page]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
 
-Use it like this: ---
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
-publish: true
-
-# Hugo Tags
-type: Pred_Text
-
-title: is_main_entity_of_page
-linkTitle: is_main_entity_of_page
-
-keywords: [isic, v4]
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- class/Property
-- schema-org/Property/Text
-
-aliases:
-- isic-v4
-- isic_v4
-- isicV4
-- is_main_entity_of_page
----
-
-Indicates a page (or other CreativeWork) for which this thing is the main entity being described. See [background notes](https://schema.org/docs/datamodel.html#mainEntityBackground) for details.
-
-#has_/inverse :: [[../has/has_main_entity]] 
-
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
-- #is_/main_entity_of_page :: CreativeWork, URL  
-- is_/main_entity_of_page :: CreativeWork, URL  
+- #is_/main_entity_of_page : : `=this.dv_has_range` 
+- is_main_entity_of_page : : `=this.dv_has_range` 
+- has_main_entity : : `=this.dv_has_domain` 
+- #has_/main_entity : : `=this.dv_has_domain` 
 
 Indicates a page, URL (or other CreativeWork) for which this thing is the main entity being described. 
 
@@ -84,12 +79,9 @@ See [background notes](/docs/datamodel.html#mainEntityBackground) for details.
 
 Relation describes that: 
 
-#has_/domain  :: [Thing](../../../Class/Thing)  
-
-(has_/name :: is_main_entity_of_page )
-(has_/range :: CreativeWork, URL )
-
-#has_/inverse  :: [[has_main_entity]]  
+has_domain = `=this.dv_has_domain` 
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 ## Confidential Links & Embeds: 
 

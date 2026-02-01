@@ -44,11 +44,11 @@ Relation describes that:
 (has_/name :: is_legislation_passed_by )
 (has_/range :: Organization, Person )
 
-#has_/parent_/property  :: [[../has/has_parent/has_creator]]  
+#has_/parent_/property  :: [[../../has/has_parent/has_creator]]  
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_legislation_passed_by|is_legislation_passed_by]] 
+### #is_/same_as :: [[is_legislation_passed_by|is_legislation_passed_by]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/is/is_legislation_passed_by.public|is_legislation_passed_by.public]] 
 

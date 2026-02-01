@@ -37,8 +37,8 @@ is_a :: [[../../Relation|Relation]]
 #is_/part_of :: pending:  
 
 Use it like this: 
-- #has_/legislation_changes :: Legislation  
-- [ has_legislation_changes :: Legislation ] 
+- #has_/legislation_/changes : : Legislation  
+- has_legislation_changes : : Legislation 
 
 Another legislation that this legislation changes. 
 

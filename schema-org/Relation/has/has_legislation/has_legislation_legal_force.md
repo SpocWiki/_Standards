@@ -37,17 +37,16 @@ is_a :: [[../../Relation|Relation]]
 #is_/part_of :: pending:  
 
 Use it like this: 
-- #has_/legislation_legal_force :: LegalForceStatus  
-- [ has_legislation_legal_force :: LegalForceStatus ] 
+- #has_/legislation_/legal_force : : LegalForceStatus  
+- has_legislation_legal_force : : LegalForceStatus  
 
 Whether the legislation is currently in force, not in force, or partially in force.
 
 Relation describes that: 
 
-#has_/domain  :: Legislation  
-
+#has_/domain  :: [[../../../../Society/Communication/Media/Creative_Work/Legislation|Legislation]]   
 (has_/name :: has_legislation_legal_force )
-(has_/range :: LegalForceStatus )
+(has_/range :: [[../../../Enumeration/Status_Enumeration/Legal_Force_Status|Legal_Force_Status]] )
 
 
 ## Confidential Links & Embeds: 

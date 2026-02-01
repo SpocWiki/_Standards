@@ -41,7 +41,7 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_cutoff_time.private|has_cutoff_time.private]]"
     - "[[/_personal/schema-org/Relation/has/has_cutoff_time.personal|has_cutoff_time.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_cutoff_time.secret|has_cutoff_time.secret]]"
-dv_has_range: "[[../../Class/is_a_/Data_Type/Time_of_Day|Time]]"
+dv_has_range: "[[../../Class/is_a_/Data_Type/Time_Span|Time]]"
 dv_has_inverse: "[[is_cutoff_time_for]]"
 dv_is_part_of: "pending:"
 dv_has_domain: "[[../../Class/is_a_/Intangible/Structured_Value/Shipping_Delivery_Time|Shipping_Delivery_Time]]"
