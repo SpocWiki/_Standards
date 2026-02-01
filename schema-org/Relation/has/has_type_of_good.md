@@ -33,6 +33,7 @@ dv_has_:
   name: is_type_of_good
   range: Product, Service
 dv_has_type_of_good: Product, Service
+  inverse: [[is_type_of_good_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_type_of_good|has_type_of_good]]"
@@ -53,15 +54,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_type_of_good.private|has_type_of_good.private]]"
   - "[[/_personal/schema-org/Relation/has/has_type_of_good.personal|has_type_of_good.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_type_of_good.secret|has_type_of_good.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_type_of_good_of]]
 ---
 
+# [[has_type_of_good]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/type_of_good = `=this.dv_has_type_of_good`  
 - has_type_of_good = `=this.dv_has_type_of_good`  
 

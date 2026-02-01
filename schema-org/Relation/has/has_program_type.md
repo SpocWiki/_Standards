@@ -26,18 +26,23 @@ tags:
   - schema-org/Relation
 title: has_program_type
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_program_type_of]]
 ---
 
-is_a :: [[../../Relation|Relation]] 
+# [[has_program_type]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-#is_/part_of :: pending:  
+has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
 - #has_/program_type :: DefinedTerm, Text  
 - [ has_program_type :: DefinedTerm, Text ] 
+- is_program_type_of : : `=this.dv_has_domain` 
+- #is_/program_type_of : : `=this.dv_has_domain`
 
 The type of educational or occupational program. For example, classroom, internship, alternance, etc.
 

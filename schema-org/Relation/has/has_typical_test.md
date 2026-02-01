@@ -32,6 +32,7 @@ dv_has_:
   name: is_typical_test
   range: MedicalTest
 dv_has_typical_test: MedicalTest
+  inverse: [[is_typical_test_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_typical_test|has_typical_test]]"
@@ -52,15 +53,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_typical_test.private|has_typical_test.private]]"
   - "[[/_personal/schema-org/Relation/has/has_typical_test.personal|has_typical_test.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_typical_test.secret|has_typical_test.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_typical_test_of]]
 ---
 
+# [[has_typical_test]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/typical_test = `=this.dv_has_typical_test`  
 - has_typical_test = `=this.dv_has_typical_test`  
 

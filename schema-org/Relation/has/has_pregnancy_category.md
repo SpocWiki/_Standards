@@ -32,6 +32,7 @@ dv_has_:
   name: is_pregnancy_category
   range: DrugPregnancyCategory
 dv_has_pregnancy_category: DrugPregnancyCategory
+  inverse: [[is_pregnancy_category_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_pregnancy_category|has_pregnancy_category]]"
@@ -52,15 +53,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_pregnancy_category.private|has_pregnancy_category.private]]"
   - "[[/_personal/schema-org/Relation/has/has_pregnancy_category.personal|has_pregnancy_category.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_pregnancy_category.secret|has_pregnancy_category.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_pregnancy_category_of]]
 ---
 
+# [[has_pregnancy_category]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/pregnancy_category = `=this.dv_has_pregnancy_category`  
 - has_pregnancy_category = `=this.dv_has_pregnancy_category`  
 

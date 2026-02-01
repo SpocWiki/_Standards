@@ -28,6 +28,7 @@ dv_has_:
   name: has_organizer
   range: Organization, Person
 dv_has_organizer: Organization, Person
+  inverse: [[is_organizer_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_organizer|has_organizer]]"
@@ -48,15 +49,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_organizer.private|has_organizer.private]]"
   - "[[/_personal/schema-org/Relation/has/has_organizer.personal|has_organizer.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_organizer.secret|has_organizer.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_organizer_of]]
 ---
 
+# [[has_organizer]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/organizer = `=this.dv_has_organizer`  
 - has_organizer = `=this.dv_has_organizer`  
 

@@ -33,6 +33,7 @@ dv_has_:
   name: is_software_add_on
   range: SoftwareApplication
 dv_has_software_add_on: SoftwareApplication
+  inverse: [[is_software_add_on_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_software_add_on|has_software_add_on]]"
@@ -53,15 +54,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_software_add_on.private|has_software_add_on.private]]"
   - "[[/_personal/schema-org/Relation/has/has_software_add_on.personal|has_software_add_on.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_software_add_on.secret|has_software_add_on.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_software_add_on_of]]
 ---
 
+# [[has_software_add_on]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/software_add_on = `=this.dv_has_software_add_on`  
 - has_software_add_on = `=this.dv_has_software_add_on`  
 

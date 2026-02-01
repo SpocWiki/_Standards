@@ -32,6 +32,7 @@ dv_has_:
   name: is_shared_content
   range: CreativeWork
 dv_has_shared_content: CreativeWork
+  inverse: [[is_shared_content_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_shared_content|has_shared_content]]"
@@ -52,15 +53,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_shared_content.private|has_shared_content.private]]"
   - "[[/_personal/schema-org/Relation/has/has_shared_content.personal|has_shared_content.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_shared_content.secret|has_shared_content.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_shared_content_of]]
 ---
 
+# [[has_shared_content]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/shared_content = `=this.dv_has_shared_content`  
 - has_shared_content = `=this.dv_has_shared_content`  
 

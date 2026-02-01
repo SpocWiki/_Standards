@@ -32,6 +32,7 @@ dv_has_:
   name: has_taxon_rank
   range: "[[../../../bio/Taxon_Rank|Taxon_Rank]]"
 dv_has_taxon_rank: PropertyValue, Text, URL
+  inverse: [[is_taxon_rank_of]]
 dv_is_:
   part_of: "pending:"
   same_as:
@@ -54,13 +55,20 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_taxon_rank.private|has_taxon_rank.private]]"
   - "[[/_personal/schema-org/Relation/has/has_taxon_rank.personal|has_taxon_rank.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_taxon_rank.secret|has_taxon_rank.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_taxon_rank_of]]
 ---
+
+# [[has_taxon_rank]] 
+
 
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
 - #has_/taxon_rank = `=this.dv_has_taxon_rank`  
 - has_taxon_rank = `=this.dv_has_taxon_rank`  
+- is_taxon_rank_of : : `=this.dv_has_domain` 
+- #is_/taxon_rank_of : : `=this.dv_has_domain`
 
 The taxonomic rank of this taxon; 
 given preferably as a URI from a controlled vocabulary, 

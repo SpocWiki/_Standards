@@ -26,15 +26,18 @@ tags:
   - schema-org/Relation
 title: has_sports_event
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_sports_event_of]]
 ---
 
+# [[has_sports_event]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/sports_event :: SportsEvent  
 - [ has_sports_event :: SportsEvent ] 
 

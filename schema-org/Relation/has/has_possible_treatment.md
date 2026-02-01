@@ -32,6 +32,7 @@ dv_has_:
   name: is_possible_treatment
   range: MedicalTherapy
 dv_has_possible_treatment: MedicalTherapy
+  inverse: [[is_possible_treatment_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_possible_treatment|has_possible_treatment]]"
@@ -52,15 +53,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_possible_treatment.private|has_possible_treatment.private]]"
   - "[[/_personal/schema-org/Relation/has/has_possible_treatment.personal|has_possible_treatment.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_possible_treatment.secret|has_possible_treatment.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_possible_treatment_of]]
 ---
 
+# [[has_possible_treatment]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/possible_treatment = `=this.dv_has_possible_treatment`  
 - has_possible_treatment = `=this.dv_has_possible_treatment`  
 

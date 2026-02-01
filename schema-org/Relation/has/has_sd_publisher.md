@@ -26,18 +26,23 @@ tags:
   - schema-org/Relation
 title: has_sd_publisher
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_sd_publisher_of]]
 ---
 
-is_a :: [[../../Relation|Relation]] 
+# [[has_sd_publisher]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-#is_/part_of :: pending:  
+has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
 - #has_/sd_publisher :: Organization, Person  
 - [ has_sd_publisher :: Organization, Person ] 
+- is_sd_publisher_of : : `=this.dv_has_domain` 
+- #is_/sd_publisher_of : : `=this.dv_has_domain`
 
 Indicates the party responsible for generating and publishing the current structured data markup, typically in cases where the structured data is derived automatically from existing published content but published on a different site. For example, student projects and open data initiatives often re-publish existing content with more explicitly structured metadata. The
 [[sdPublisher]] property helps make such practices more explicit.

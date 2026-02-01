@@ -27,18 +27,23 @@ tags:
   - schema-org/Relation
 title: has_original_media_link
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_original_media_link_of]]
 ---
 
-is_a :: [[../../Relation|Relation]] 
+# [[has_original_media_link]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-#is_/part_of :: pending:  
+has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
 - #has_/original_media_link :: MediaObject, URL, WebPage  
 - [ has_original_media_link :: MediaObject, URL, WebPage ] 
+- is_original_media_link_of : : `=this.dv_has_domain` 
+- #is_/original_media_link_of : : `=this.dv_has_domain`
 
 Link to the page containing an original version of the content, or directly to an online copy of the original [[MediaObject]] content, e.g. video file.
 

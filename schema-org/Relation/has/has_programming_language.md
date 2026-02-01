@@ -32,6 +32,7 @@ dv_has_:
   name: is_programming_language
   range: ComputerLanguage, Text
 dv_has_programming_language: ComputerLanguage, Text
+  inverse: [[is_programming_language_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_programming_language|has_programming_language]]"
@@ -52,15 +53,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_programming_language.private|has_programming_language.private]]"
   - "[[/_personal/schema-org/Relation/has/has_programming_language.personal|has_programming_language.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_programming_language.secret|has_programming_language.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_programming_language_of]]
 ---
 
+# [[has_programming_language]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/programming_language = `=this.dv_has_programming_language`  
 - has_programming_language = `=this.dv_has_programming_language`  
 

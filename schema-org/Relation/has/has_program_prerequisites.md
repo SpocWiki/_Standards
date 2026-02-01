@@ -26,18 +26,23 @@ tags:
   - schema-org/Relation
 title: has_program_prerequisites
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_program_prerequisites_of]]
 ---
 
-is_a :: [[../../Relation|Relation]] 
+# [[has_program_prerequisites]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-#is_/part_of :: pending:  
+has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
 - #has_/program_prerequisites :: AlignmentObject, Course, EducationalOccupationalCredential, Text  
 - [ has_program_prerequisites :: AlignmentObject, Course, EducationalOccupationalCredential, Text ] 
+- is_program_prerequisites_of : : `=this.dv_has_domain` 
+- #is_/program_prerequisites_of : : `=this.dv_has_domain`
 
 Prerequisites for enrolling in the program.
 

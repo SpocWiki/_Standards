@@ -28,6 +28,7 @@ dv_has_:
   name: is_quest
   range: Thing
 dv_has_quest: "[Thing](../../../Class/Thing)"
+  inverse: [[is_quest_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_quest|has_quest]]"
@@ -48,15 +49,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_quest.private|has_quest.private]]"
   - "[[/_personal/schema-org/Relation/has/has_quest.personal|has_quest.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_quest.secret|has_quest.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_quest_of]]
 ---
 
+# [[has_quest]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/quest = `=this.dv_has_quest` (../../../Class/Thing) ] 
 - has_quest = `=this.dv_has_quest` (../../../Class/Thing) ] 
 

@@ -32,6 +32,7 @@ dv_has_:
   name: is_production_company
   range: Organization
 dv_has_production_company: Organization
+  inverse: [[is_production_company_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_production_company|has_production_company]]"
@@ -52,15 +53,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_production_company.private|has_production_company.private]]"
   - "[[/_personal/schema-org/Relation/has/has_production_company.personal|has_production_company.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_production_company.secret|has_production_company.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_production_company_of]]
 ---
 
+# [[has_production_company]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/production_company = `=this.dv_has_production_company`  
 - has_production_company = `=this.dv_has_production_company`  
 

@@ -36,6 +36,7 @@ dv_has_:
   domain: Person
   name: has_related
   range: Person
+  inverse: [[is_related_of]]
 dv_is_:
   same_as:
     - "[[has_related|has_related]]"
@@ -56,7 +57,12 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_related.private|has_related.private]]"
   - "[[/_personal/schema-org/Relation/has/has_related.personal|has_related.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_related.secret|has_related.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_related_of]]
 ---
+
+# [[has_related]] 
+
 
 # [[has_related]] 
 
@@ -79,6 +85,8 @@ Search engines, knowledge graphs, and inference engines treat
 Use it like this: 
 - #has_/related = `=this.dv_has_range`  
 - has_related = `=this.dv_has_range`  
+- is_related_of : : `=this.dv_has_domain` 
+- #is_/related_of : : `=this.dv_has_domain`
 
 
 ## Confidential Links & Embeds: 

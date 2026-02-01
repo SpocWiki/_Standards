@@ -32,6 +32,7 @@ dv_has_:
   name: is_recognizing_authority
   range: Organization
 dv_has_recognizing_authority: Organization
+  inverse: [[is_recognizing_authority_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_recognizing_authority|has_recognizing_authority]]"
@@ -52,15 +53,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_recognizing_authority.private|has_recognizing_authority.private]]"
   - "[[/_personal/schema-org/Relation/has/has_recognizing_authority.personal|has_recognizing_authority.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_recognizing_authority.secret|has_recognizing_authority.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_recognizing_authority_of]]
 ---
 
+# [[has_recognizing_authority]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/recognizing_authority = `=this.dv_has_recognizing_authority`  
 - has_recognizing_authority = `=this.dv_has_recognizing_authority`  
 

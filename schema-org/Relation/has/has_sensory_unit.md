@@ -32,6 +32,7 @@ dv_has_:
   name: is_sensory_unit
   range: AnatomicalStructure, SuperficialAnatomy
 dv_has_sensory_unit: AnatomicalStructure, SuperficialAnatomy
+  inverse: [[is_sensory_unit_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_sensory_unit|has_sensory_unit]]"
@@ -52,15 +53,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_sensory_unit.private|has_sensory_unit.private]]"
   - "[[/_personal/schema-org/Relation/has/has_sensory_unit.personal|has_sensory_unit.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_sensory_unit.secret|has_sensory_unit.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_sensory_unit_of]]
 ---
 
+# [[has_sensory_unit]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/sensory_unit = `=this.dv_has_sensory_unit`  
 - has_sensory_unit = `=this.dv_has_sensory_unit`  
 

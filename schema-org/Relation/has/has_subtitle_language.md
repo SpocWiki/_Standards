@@ -26,18 +26,23 @@ tags:
   - schema-org/Relation
 title: has_subtitle_language
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_subtitle_language_of]]
 ---
 
-is_a :: [[../../Relation|Relation]] 
+# [[has_subtitle_language]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-#is_/part_of :: pending:  
+has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
 - #has_/subtitle_language :: Language, Text  
 - [ has_subtitle_language :: Language, Text ] 
+- is_subtitle_language_of : : `=this.dv_has_domain` 
+- #is_/subtitle_language_of : : `=this.dv_has_domain`
 
 Languages in which subtitles/captions are available, in [IETF BCP 47 standard format](http://tools.ietf.org/html/bcp47).
 

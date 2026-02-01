@@ -33,6 +33,7 @@ dv_has_:
   name: is_sign_or_symptom
   range: MedicalSignOrSymptom
 dv_has_sign_or_symptom: MedicalSignOrSymptom
+  inverse: [[is_sign_or_symptom_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_sign_or_symptom|has_sign_or_symptom]]"
@@ -53,15 +54,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_sign_or_symptom.private|has_sign_or_symptom.private]]"
   - "[[/_personal/schema-org/Relation/has/has_sign_or_symptom.personal|has_sign_or_symptom.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_sign_or_symptom.secret|has_sign_or_symptom.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_sign_or_symptom_of]]
 ---
 
+# [[has_sign_or_symptom]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/sign_or_symptom = `=this.dv_has_sign_or_symptom`  
 - has_sign_or_symptom = `=this.dv_has_sign_or_symptom`  
 

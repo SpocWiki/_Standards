@@ -26,15 +26,18 @@ tags:
   - schema-org/Relation
 title: has_recorded_as
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_recorded_as_of]]
 ---
 
+# [[has_recorded_as]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/recorded_as :: MusicRecording  
 - [ has_recorded_as :: MusicRecording ] 
 
@@ -47,7 +50,7 @@ Relation describes that:
 (has_/name :: is_recorded_as )
 (has_/range :: MusicRecording )
 
-#has_/inverse  :: recordingOf  
+has_inverse = `=this.dv_has_inverse`
 
 ## Confidential Links & Embeds: 
 

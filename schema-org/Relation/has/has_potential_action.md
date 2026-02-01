@@ -32,6 +32,7 @@ dv_has_:
   name: is_potential_action
   range: Action
 dv_has_potential_action: Action
+  inverse: [[is_potential_action_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_potential_action|has_potential_action]]"
@@ -52,15 +53,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_potential_action.private|has_potential_action.private]]"
   - "[[/_personal/schema-org/Relation/has/has_potential_action.personal|has_potential_action.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_potential_action.secret|has_potential_action.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_potential_action_of]]
 ---
 
+# [[has_potential_action]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/potential_action = `=this.dv_has_potential_action`  
 - has_potential_action = `=this.dv_has_potential_action`  
 

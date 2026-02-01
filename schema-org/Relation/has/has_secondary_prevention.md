@@ -32,6 +32,7 @@ dv_has_:
   name: is_secondary_prevention
   range: MedicalTherapy
 dv_has_secondary_prevention: MedicalTherapy
+  inverse: [[is_secondary_prevention_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_secondary_prevention|has_secondary_prevention]]"
@@ -52,15 +53,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_secondary_prevention.private|has_secondary_prevention.private]]"
   - "[[/_personal/schema-org/Relation/has/has_secondary_prevention.personal|has_secondary_prevention.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_secondary_prevention.secret|has_secondary_prevention.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_secondary_prevention_of]]
 ---
 
+# [[has_secondary_prevention]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/secondary_prevention = `=this.dv_has_secondary_prevention`  
 - has_secondary_prevention = `=this.dv_has_secondary_prevention`  
 

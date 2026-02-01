@@ -28,6 +28,7 @@ dv_has_:
   name: is_video
   range: Clip, VideoObject
 dv_has_video: Clip, VideoObject
+  inverse: [[is_video_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_video|has_video]]"
@@ -48,15 +49,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_video.private|has_video.private]]"
   - "[[/_personal/schema-org/Relation/has/has_video.personal|has_video.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_video.secret|has_video.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_video_of]]
 ---
 
+# [[has_video]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/video = `=this.dv_has_video`  
 - has_video = `=this.dv_has_video`  
 

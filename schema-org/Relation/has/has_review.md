@@ -32,6 +32,7 @@ dv_has_:
   name: has_review
   range: "[[../../../Society/Communication/Media/Creative_Work/Review|Review]]"
 dv_has_review: "[[../../Class/is_a_/creative_work/review|Review]]"
+  inverse: [[has_review/has_review_item|has_review_item]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_review|has_review]]"
@@ -52,18 +53,25 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_review.private|has_review.private]]"
   - "[[/_personal/schema-org/Relation/has/has_review.personal|has_review.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_review.secret|has_review.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[has_review/has_review_item|has_review_item]]
 ---
 
 # [[has_review]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+# [[has_review]] 
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[has_review/has_review_item|has_review_item]]
+has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
 - #has_/review = `=this.dv_has_review` 
 - has_review = `=this.dv_has_review` 
+- has_review/has_review_item|has_review_item : : `=this.dv_has_domain` 
+- #has_review/has_review_item|has_review_item : : `=this.dv_has_domain`
 
 A [[../../../Society/Communication/Media/Creative_Work/Review|review]] of the item.
 

@@ -24,18 +24,23 @@ tags:
   - schema-org/Relation
 title: has_variant
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_variant_of]]
 ---
 
-is_a :: [[../../Relation|Relation]] 
+# [[has_variant]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-#is_/part_of :: pending:  
+has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
 - #has_/variant :: Product  
 - [ has_variant :: Product ] 
+- is_variant_of : : `=this.dv_has_domain` 
+- #is_/variant_of : : `=this.dv_has_domain`
 
 Indicates a [[../../../Society/Agent/Community/Organization/Business/Product]] that is a member of this [[ProductGroup]] (or [[ProductModel]]).
 
@@ -46,7 +51,7 @@ Relation describes that:
 (has_/name :: is_variant )
 (has_/range :: Product )
 
-#has_/inverse  :: isVariantOf  
+has_inverse = `=this.dv_has_inverse`
 
 ## Confidential Links & Embeds: 
 

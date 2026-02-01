@@ -32,6 +32,7 @@ dv_has_:
   name: is_rsvp_response
   range: RsvpResponseType
 dv_has_rsvp_response: RsvpResponseType
+  inverse: [[is_rsvp_response_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_rsvp_response|has_rsvp_response]]"
@@ -52,15 +53,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_rsvp_response.private|has_rsvp_response.private]]"
   - "[[/_personal/schema-org/Relation/has/has_rsvp_response.personal|has_rsvp_response.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_rsvp_response.secret|has_rsvp_response.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_rsvp_response_of]]
 ---
 
+# [[has_rsvp_response]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/rsvp_response = `=this.dv_has_rsvp_response`  
 - has_rsvp_response = `=this.dv_has_rsvp_response`  
 

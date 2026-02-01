@@ -29,6 +29,7 @@ dv_has_:
   name: is_warranty
   range: WarrantyPromise
 dv_has_warranty: WarrantyPromise
+  inverse: [[is_warranty_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_warranty|has_warranty]]"
@@ -49,15 +50,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_warranty.private|has_warranty.private]]"
   - "[[/_personal/schema-org/Relation/has/has_warranty.personal|has_warranty.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_warranty.secret|has_warranty.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_warranty_of]]
 ---
 
+# [[has_warranty]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/warranty = `=this.dv_has_warranty`  
 - has_warranty = `=this.dv_has_warranty`  
 

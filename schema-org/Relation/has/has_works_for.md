@@ -32,6 +32,7 @@ dv_has_:
   name: is_works_for
   range: Organization
 dv_has_works_for: Organization
+  inverse: [[is_works_for_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_works_for|has_works_for]]"
@@ -52,15 +53,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_works_for.private|has_works_for.private]]"
   - "[[/_personal/schema-org/Relation/has/has_works_for.personal|has_works_for.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_works_for.secret|has_works_for.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_works_for_of]]
 ---
 
+# [[has_works_for]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/works_for = `=this.dv_has_works_for`  
 - has_works_for = `=this.dv_has_works_for`  
 

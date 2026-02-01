@@ -5,12 +5,6 @@ aliases:
   - has_previous_item
   - prev-item
   - has previous item
-  - successor-of
-  - successor_of
-  - successorOf
-  - has_predecessor
-  - is_successor_of
-  - is successor of
 confidential: public
 cssclasses:
   - Predicate
@@ -33,12 +27,17 @@ tags:
   - schema-org/Relation
 title: has_previous_item
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[../has/has_next_item|has_next_item]]
 ---
 
 # [[has_previous_item]] 
 
-#has_/inverse :: [[../has/has_next_item|has_next_item]]    
-#has_/inverse :: [[is_predecessor_of]]   
+
+# [[has_previous_item]] 
+
+has_inverse = `=this.dv_has_inverse`
+has_inverse = `=this.dv_has_inverse`
 #is_/similar_to :: [[../is/is_successor_of]] 
 
 A link to the [[../../Collection/list_item|ListItem]] that precedes the current one.
@@ -49,6 +48,8 @@ A link to the [[../../Collection/list_item|ListItem]] that precedes the current 
 Use it like this: 
 - #has_/previous_/item :: ListItem  
 - [ has_previous_item :: ListItem ] 
+- ../has/has_next_item|has_next_item : : `=this.dv_has_domain` 
+- #../has/has_next_item|has_next_item : : `=this.dv_has_domain`
 
 This Relation describes that: 
 

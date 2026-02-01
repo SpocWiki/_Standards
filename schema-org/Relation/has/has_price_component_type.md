@@ -27,18 +27,23 @@ tags:
   - schema-org/Relation
 title: has_price_component_type
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_price_component_type_of]]
 ---
 
-is_a :: [[../../Relation|Relation]] 
+# [[has_price_component_type]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-#is_/part_of :: pending:  
+has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
 - #has_/price_component_type :: PriceComponentTypeEnumeration  
 - [ has_price_component_type :: PriceComponentTypeEnumeration ] 
+- is_price_component_type_of : : `=this.dv_has_domain` 
+- #is_/price_component_type_of : : `=this.dv_has_domain`
 
 Identifies a price component (for example, a line item on an invoice), part of the total price for an offer.
 

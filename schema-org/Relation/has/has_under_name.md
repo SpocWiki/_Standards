@@ -32,6 +32,7 @@ dv_has_:
   name: is_under_name
   range: Organization, Person
 dv_has_under_name: Organization, Person
+  inverse: [[is_under_name_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_under_name|has_under_name]]"
@@ -52,15 +53,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_under_name.private|has_under_name.private]]"
   - "[[/_personal/schema-org/Relation/has/has_under_name.personal|has_under_name.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_under_name.secret|has_under_name.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_under_name_of]]
 ---
 
+# [[has_under_name]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/under_name = `=this.dv_has_under_name`  
 - has_under_name = `=this.dv_has_under_name`  
 

@@ -26,18 +26,23 @@ tags:
   - schema-org/Relation
 title: has_role_chemical
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_role_chemical_of]]
 ---
 
-is_a :: [[../../Relation|Relation]] 
+# [[has_role_chemical]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-#is_/part_of :: pending:  
+has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
 - #has_/role_/chemical :: DefinedTerm  
 - [ has_role_chemical :: DefinedTerm ] 
+- is_role_chemical_of : : `=this.dv_has_domain` 
+- #is_/role_chemical_of : : `=this.dv_has_domain`
 
 A role played by the BioChemEntity within a chemical context.
 

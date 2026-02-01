@@ -28,6 +28,7 @@ dv_has_:
   name: is_specialty
   range: Specialty
 dv_has_specialty: Specialty
+  inverse: [[is_specialty_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_specialty|has_specialty]]"
@@ -48,15 +49,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_specialty.private|has_specialty.private]]"
   - "[[/_personal/schema-org/Relation/has/has_specialty.personal|has_specialty.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_specialty.secret|has_specialty.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_specialty_of]]
 ---
 
+# [[has_specialty]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/specialty = `=this.dv_has_specialty`  
 - has_specialty = `=this.dv_has_specialty`  
 

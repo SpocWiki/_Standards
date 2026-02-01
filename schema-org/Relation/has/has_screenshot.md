@@ -28,6 +28,7 @@ dv_has_:
   name: is_screenshot
   range: ImageObject, URL
 dv_has_screenshot: ImageObject, URL
+  inverse: [[is_screenshot_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_screenshot|has_screenshot]]"
@@ -48,15 +49,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_screenshot.private|has_screenshot.private]]"
   - "[[/_personal/schema-org/Relation/has/has_screenshot.personal|has_screenshot.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_screenshot.secret|has_screenshot.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_screenshot_of]]
 ---
 
+# [[has_screenshot]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/screenshot = `=this.dv_has_screenshot`  
 - has_screenshot = `=this.dv_has_screenshot`  
 

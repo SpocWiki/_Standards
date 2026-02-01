@@ -30,7 +30,12 @@ tags:
   - schema-org/Relation
 title: has_vehicle_special_usage
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_usage_of_vehicle_of]]
 ---
+
+# [[has_usage_of_vehicle]] 
+
 
 # [[has_usage_of_vehicle]] 
 
@@ -39,6 +44,8 @@ type: Predi_Relation
 Use it like this: 
 - #has_/usage_/of_vehicle :: [[../../Enumeration/Car_Usage_Type|CarUsageType]], Text 
 - has_usage_of_vehicle :: [[../../Enumeration/Car_Usage_Type|CarUsageType]], Text 
+- is_usage_of_vehicle_of : : `=this.dv_has_domain` 
+- #is_/usage_of_vehicle_of : : `=this.dv_has_domain`
 
 Indicates whether the vehicle has been used for special purposes, like 
 commercial rental, driving school, or as a taxi. 

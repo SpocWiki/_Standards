@@ -32,6 +32,7 @@ dv_has_:
   name: is_released_event
   range: PublicationEvent
 dv_has_released_event: PublicationEvent
+  inverse: [[is_released_event_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_released_event|has_released_event]]"
@@ -52,15 +53,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_released_event.private|has_released_event.private]]"
   - "[[/_personal/schema-org/Relation/has/has_released_event.personal|has_released_event.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_released_event.secret|has_released_event.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_released_event_of]]
 ---
 
+# [[has_released_event]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/released_event = `=this.dv_has_released_event`  
 - has_released_event = `=this.dv_has_released_event`  
 

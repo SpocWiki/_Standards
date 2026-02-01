@@ -32,6 +32,7 @@ dv_has_:
   name: is_product_supported
   range: Product, Text
 dv_has_product_supported: Product, Text
+  inverse: [[is_product_supported_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_product_supported|has_product_supported]]"
@@ -52,15 +53,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_product_supported.private|has_product_supported.private]]"
   - "[[/_personal/schema-org/Relation/has/has_product_supported.personal|has_product_supported.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_product_supported.secret|has_product_supported.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_product_supported_of]]
 ---
 
+# [[has_product_supported]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/product_supported = `=this.dv_has_product_supported`  
 - has_product_supported = `=this.dv_has_product_supported`  
 

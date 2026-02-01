@@ -28,6 +28,7 @@ dv_has_:
   name: is_tributary
   range: AnatomicalStructure
 dv_has_tributary: AnatomicalStructure
+  inverse: [[is_tributary_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_tributary|has_tributary]]"
@@ -48,15 +49,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_tributary.private|has_tributary.private]]"
   - "[[/_personal/schema-org/Relation/has/has_tributary.personal|has_tributary.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_tributary.secret|has_tributary.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_tributary_of]]
 ---
 
+# [[has_tributary]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/tributary = `=this.dv_has_tributary`  
 - has_tributary = `=this.dv_has_tributary`  
 

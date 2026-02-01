@@ -32,6 +32,7 @@ dv_has_:
   name: is_steering_position
   range: SteeringPositionValue
 dv_has_steering_position: SteeringPositionValue
+  inverse: [[is_steering_position_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_steering_position|has_steering_position]]"
@@ -52,15 +53,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_steering_position.private|has_steering_position.private]]"
   - "[[/_personal/schema-org/Relation/has/has_steering_position.personal|has_steering_position.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_steering_position.secret|has_steering_position.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_steering_position_of]]
 ---
 
+# [[has_steering_position]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/steering_position = `=this.dv_has_steering_position`  
 - has_steering_position = `=this.dv_has_steering_position`  
 

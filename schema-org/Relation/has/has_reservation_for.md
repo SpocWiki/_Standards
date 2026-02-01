@@ -32,6 +32,7 @@ dv_has_:
   name: is_reservation_for
   range: Thing
 dv_has_reservation_for: "[Thing](../../../Class/Thing)"
+  inverse: [[is_reservation_for_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_reservation_for|has_reservation_for]]"
@@ -52,15 +53,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_reservation_for.private|has_reservation_for.private]]"
   - "[[/_personal/schema-org/Relation/has/has_reservation_for.personal|has_reservation_for.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_reservation_for.secret|has_reservation_for.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_reservation_for_of]]
 ---
 
+# [[has_reservation_for]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/reservation_for = `=this.dv_has_reservation_for` (../../../Class/Thing) ] 
 - has_reservation_for = `=this.dv_has_reservation_for` (../../../Class/Thing) ] 
 

@@ -26,15 +26,18 @@ tags:
   - schema-org/Relation
 title: has_release_of
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_release_of_of]]
 ---
 
+# [[has_release_of]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/release_of :: MusicAlbum  
 - [ has_release_of :: MusicAlbum ] 
 
@@ -47,7 +50,7 @@ Relation describes that:
 (has_/name :: is_release_of )
 (has_/range :: MusicAlbum )
 
-#has_/inverse  :: albumRelease  
+has_inverse = `=this.dv_has_inverse`
 
 ## Confidential Links & Embeds: 
 

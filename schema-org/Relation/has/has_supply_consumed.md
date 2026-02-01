@@ -25,17 +25,24 @@ tags:
   - schema-org/Relation
 title: has_supply
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[has_supply_consumed/is_supplier_for|supplyTo]]
 ---
+
+# [[has_supply_consumed]] 
+
 
 # [[has_supply_consumed]] 
 
 #has_/parent_/property  :: [[./has_instrument|has_instrument]]  
 #has_/child_/property ::  [[ingredient]],  [[has_ingredient/has_ingredient_for_recipe|has_ingredient_for_recipe]] 
-#has_/inverse :: [[has_supply_consumed/is_supplier_for|supplyTo]] 
+has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
 - #has_/supply :: "[[../../Collection/list_item/how_to_item/how_to_supply|how_to_supply]]", "[[../../Property/Texts/has_text|has_text]]"  
 - has_supply :: "[[../../Collection/list_item/how_to_item/how_to_supply|how_to_supply]]", "[[../../Property/Texts/has_text|has_text]]"  
+- has_supply_consumed/is_supplier_for|supplyTo : : `=this.dv_has_domain` 
+- #has_supply_consumed/is_/supplier_for|supplyTo : : `=this.dv_has_domain`
 
 Is a sub-property of instrument. 
 Relates the Subject to the supply Material 

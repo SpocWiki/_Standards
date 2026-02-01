@@ -24,18 +24,23 @@ tags:
   - schema-org/Relation
 title: has_representation
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_representation_of]]
 ---
 
-is_a :: [[../../Relation|Relation]] 
+# [[has_representation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-#is_/part_of :: pending:  
+has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
 - #has_/representation :: PropertyValue, Text, URL  
 - [ has_representation :: PropertyValue, Text, URL ] 
+- is_representation_of : : `=this.dv_has_domain` 
+- #is_/representation_of : : `=this.dv_has_domain`
 
 A common representation such as a protein sequence or chemical structure for this entity. For images use schema.org/image.
 

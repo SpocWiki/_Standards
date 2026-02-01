@@ -23,15 +23,18 @@ tags:
   - schema-org/Relation
 title: has_step
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_step_of]]
 ---
 
+# [[has_step]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/step :: CreativeWork, HowToSection, HowToStep, Text  
 - [ has_step :: CreativeWork, HowToSection, HowToStep, Text ] 
 

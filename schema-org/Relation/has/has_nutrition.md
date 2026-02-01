@@ -31,6 +31,7 @@ dv_has_:
   domain: MenuItem, Recipe
   name: has_nutrition
   range: NutritionInformation
+  inverse: "[[is_nutrition_of]]"
 dv_has_nutrition: NutritionInformation
 dv_is_:
   same_as:
@@ -52,17 +53,23 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_nutrition.private|has_nutrition.private]]"
   - "[[/_personal/schema-org/Relation/has/has_nutrition.personal|has_nutrition.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_nutrition.secret|has_nutrition.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_nutrition_of]]"
 ---
 
 
-is_a :: [[../../Relation|Relation]] 
+# [[has_nutrition]] 
+
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
-- #has_/nutrition = `=this.dv_has_nutrition`  
-- has_nutrition = `=this.dv_has_nutrition`  
+- #has_/nutrition : : `=this.dv_has_range` 
+- has_nutrition : : `=this.dv_has_range` 
+- is_nutrition_of : : `=this.dv_has_domain` 
+- #is_/nutrition_of : : `=this.dv_has_domain`
 
 Nutrition information about the recipe or menu item.
 

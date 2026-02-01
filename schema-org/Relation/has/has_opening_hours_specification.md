@@ -27,7 +27,12 @@ tags:
   - schema-org/Relation
 title: has_opening_hours_specification
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_opening_hours_specification_of]]
 ---
+
+# [[has_opening_hours_specification]] 
+
 
 ---
 limit: 9
@@ -52,6 +57,8 @@ ValidThrough:: {"type":"Number","options":{}}
 Use it like this: 
 - #has_/opening_hours_specification :: OpeningHoursSpecification  
 - [ has_opening_hours_specification :: OpeningHoursSpecification ] 
+- is_opening_hours_specification_of : : `=this.dv_has_domain` 
+- #is_/opening_hours_specification_of : : `=this.dv_has_domain`
 
 The opening hours of a certain place.
 

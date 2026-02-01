@@ -26,18 +26,23 @@ tags:
   - schema-org/Relation
 title: has_population_type
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_population_type_of]]
 ---
 
-is_a :: [[../../Relation|Relation]] 
+# [[has_population_type]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-#is_/part_of :: pending:  
+has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
 - #has_/population_type :: Class  
 - [ has_population_type :: Class ] 
+- is_population_type_of : : `=this.dv_has_domain` 
+- #is_/population_type_of : : `=this.dv_has_domain`
 
 Indicates the populationType common to all members of a [[StatisticalPopulation]].
 

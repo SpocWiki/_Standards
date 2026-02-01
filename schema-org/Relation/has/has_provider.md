@@ -24,16 +24,19 @@ tags:
   - schema-org/Relation
 title: has_provider
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[has_consumers]]
 ---
 
-is_a :: [[../../Relation|Relation]] 
+# [[has_provider]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+has_inverse = `=this.dv_has_inverse`
 
-#is_/part_of :: pending:  
-
-#has_/inverse :: [[has_consumers]] 
+has_inverse = `=this.dv_has_inverse`
 
 #is_/similar_to :: [[has_dependencies]] 
 #is_/similar_to :: [[has_server]] 
@@ -42,6 +45,8 @@ is_a :: [[../../Relation|Relation]]
 Use it like this: 
 - #has_/provider :: [[../../../Society/Agent/Community/Organization|Organization]],  [[../../../Society/Agent/Person|Person]]   
 - has_provider :: [[../../../Society/Agent/Community/Organization|Organization]],  [[../../../Society/Agent/Person|Person]]  
+- has_consumers : : `=this.dv_has_domain` 
+- #has_consumers : : `=this.dv_has_domain`
 
 The service provider, service operator, or service performer; the goods producer. 
 

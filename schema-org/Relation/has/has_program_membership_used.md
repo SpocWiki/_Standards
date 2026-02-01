@@ -33,6 +33,7 @@ dv_has_:
   name: is_program_membership_used
   range: ProgramMembership
 dv_has_program_membership_used: ProgramMembership
+  inverse: [[is_program_membership_used_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_program_membership_used|has_program_membership_used]]"
@@ -53,15 +54,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_program_membership_used.private|has_program_membership_used.private]]"
   - "[[/_personal/schema-org/Relation/has/has_program_membership_used.personal|has_program_membership_used.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_program_membership_used.secret|has_program_membership_used.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_program_membership_used_of]]
 ---
 
+# [[has_program_membership_used]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/program_membership_used = `=this.dv_has_program_membership_used`  
 - has_program_membership_used = `=this.dv_has_program_membership_used`  
 

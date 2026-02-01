@@ -28,6 +28,7 @@ dv_has_:
   name: is_trailer
   range: VideoObject
 dv_has_trailer: VideoObject
+  inverse: [[is_trailer_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_trailer|has_trailer]]"
@@ -48,15 +49,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_trailer.private|has_trailer.private]]"
   - "[[/_personal/schema-org/Relation/has/has_trailer.personal|has_trailer.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_trailer.secret|has_trailer.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_trailer_of]]
 ---
 
+# [[has_trailer]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/trailer = `=this.dv_has_trailer`  
 - has_trailer = `=this.dv_has_trailer`  
 

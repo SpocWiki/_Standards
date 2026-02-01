@@ -32,6 +32,7 @@ dv_has_:
   name: is_software_help
   range: CreativeWork
 dv_has_software_help: CreativeWork
+  inverse: [[is_software_help_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_software_help|has_software_help]]"
@@ -52,15 +53,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_software_help.private|has_software_help.private]]"
   - "[[/_personal/schema-org/Relation/has/has_software_help.personal|has_software_help.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_software_help.secret|has_software_help.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_software_help_of]]
 ---
 
+# [[has_software_help]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/software_help = `=this.dv_has_software_help`  
 - has_software_help = `=this.dv_has_software_help`  
 

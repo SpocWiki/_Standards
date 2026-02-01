@@ -22,15 +22,18 @@ tags:
   - schema-org/Relation
 title: has_question
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_question_of]]
 ---
 
+# [[has_question]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/question :: Question  
 - [ has_question :: Question ] 
 

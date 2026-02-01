@@ -32,6 +32,7 @@ dv_has_:
   name: is_vehicle_transmission
   range: QualitativeValue, Text, URL
 dv_has_vehicle_transmission: QualitativeValue, Text, URL
+  inverse: [[is_vehicle_transmission_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_vehicle_transmission|has_vehicle_transmission]]"
@@ -52,15 +53,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_vehicle_transmission.private|has_vehicle_transmission.private]]"
   - "[[/_personal/schema-org/Relation/has/has_vehicle_transmission.personal|has_vehicle_transmission.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_vehicle_transmission.secret|has_vehicle_transmission.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_vehicle_transmission_of]]
 ---
 
+# [[has_vehicle_transmission]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/vehicle_transmission = `=this.dv_has_vehicle_transmission`  
 - has_vehicle_transmission = `=this.dv_has_vehicle_transmission`  
 

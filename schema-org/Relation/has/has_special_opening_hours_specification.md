@@ -34,6 +34,7 @@ dv_has_:
   name: is_special_opening_hours_specification
   range: OpeningHoursSpecification
 dv_has_special_opening_hours_specification: OpeningHoursSpecification
+  inverse: [[is_special_opening_hours_specification_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_special_opening_hours_specification|has_special_opening_hours_specification]]"
@@ -54,15 +55,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_special_opening_hours_specification.private|has_special_opening_hours_specification.private]]"
   - "[[/_personal/schema-org/Relation/has/has_special_opening_hours_specification.personal|has_special_opening_hours_specification.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_special_opening_hours_specification.secret|has_special_opening_hours_specification.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_special_opening_hours_specification_of]]
 ---
 
+# [[has_special_opening_hours_specification]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/special_opening_hours_specification = `=this.dv_has_special_opening_hours_specification`  
 - has_special_opening_hours_specification = `=this.dv_has_special_opening_hours_specification`  
 

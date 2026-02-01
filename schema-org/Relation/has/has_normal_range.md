@@ -31,6 +31,7 @@ dv_has_:
   domain: MedicalTest
   name: has_normal_range
   range: MedicalEnumeration, Text
+  inverse: "[[is_normal_range_of]]"
 dv_has_normal_range: MedicalEnumeration, Text
 dv_is_:
   same_as:
@@ -52,17 +53,23 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_normal_range.private|has_normal_range.private]]"
   - "[[/_personal/schema-org/Relation/has/has_normal_range.personal|has_normal_range.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_normal_range.secret|has_normal_range.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_normal_range_of]]"
 ---
 
 
-is_a :: [[../../Relation|Relation]] 
+# [[has_normal_range]] 
+
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
-- #has_/normal_range = `=this.dv_has_normal_range`  
-- has_normal_range = `=this.dv_has_normal_range`  
+- #has_/normal_/range : : `=this.dv_has_range` 
+- has_normal_range : : `=this.dv_has_range` 
+- is_normal_range_of : : `=this.dv_has_domain` 
+- #is_/normal_/range_of : : `=this.dv_has_domain`
 
 Range of acceptable values for a typical patient, when applicable.
 

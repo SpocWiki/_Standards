@@ -28,6 +28,7 @@ dv_has_:
   name: is_stage
   range: MedicalConditionStage
 dv_has_stage: MedicalConditionStage
+  inverse: [[is_stage_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_stage|has_stage]]"
@@ -48,15 +49,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_stage.private|has_stage.private]]"
   - "[[/_personal/schema-org/Relation/has/has_stage.personal|has_stage.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_stage.secret|has_stage.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_stage_of]]
 ---
 
+# [[has_stage]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/stage = `=this.dv_has_stage`  
 - has_stage = `=this.dv_has_stage`  
 

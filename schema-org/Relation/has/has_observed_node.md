@@ -26,18 +26,23 @@ tags:
   - schema-org/Relation
 title: has_observed_node
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_observed_node_of]]
 ---
 
-is_a :: [[../../Relation|Relation]] 
+# [[has_observed_node]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-#is_/part_of :: pending:  
+has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
 - #has_/observed_node :: StatisticalPopulation  
 - [ has_observed_node :: StatisticalPopulation ] 
+- is_observed_node_of : : `=this.dv_has_domain` 
+- #is_/observed_node_of : : `=this.dv_has_domain`
 
 The observedNode of an [[Observation]], often a [[StatisticalPopulation]].
 

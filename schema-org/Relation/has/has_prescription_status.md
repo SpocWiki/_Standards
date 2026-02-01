@@ -32,6 +32,7 @@ dv_has_:
   name: is_prescription_status
   range: DrugPrescriptionStatus, Text
 dv_has_prescription_status: DrugPrescriptionStatus, Text
+  inverse: [[is_prescription_status_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_prescription_status|has_prescription_status]]"
@@ -52,15 +53,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_prescription_status.private|has_prescription_status.private]]"
   - "[[/_personal/schema-org/Relation/has/has_prescription_status.personal|has_prescription_status.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_prescription_status.secret|has_prescription_status.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_prescription_status_of]]
 ---
 
+# [[has_prescription_status]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/prescription_status = `=this.dv_has_prescription_status`  
 - has_prescription_status = `=this.dv_has_prescription_status`  
 

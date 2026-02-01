@@ -22,18 +22,23 @@ tags:
   - schema-org/Relation
 title: has_pattern
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_pattern_of]]
 ---
 
-is_a :: [[../../Relation|Relation]] 
+# [[has_pattern]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-#is_/part_of :: pending:  
+has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
 - #has_/pattern :: DefinedTerm, Text  
 - [ has_pattern :: DefinedTerm, Text ] 
+- is_pattern_of : : `=this.dv_has_domain` 
+- #is_/pattern_of : : `=this.dv_has_domain`
 
 A pattern that something has, for example 'polka dot', 'striped', 'Canadian flag'. 
 

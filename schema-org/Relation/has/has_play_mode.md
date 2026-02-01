@@ -32,6 +32,7 @@ dv_has_:
   name: is_play_mode
   range: GamePlayMode
 dv_has_play_mode: GamePlayMode
+  inverse: [[is_play_mode_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_play_mode|has_play_mode]]"
@@ -52,15 +53,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_play_mode.private|has_play_mode.private]]"
   - "[[/_personal/schema-org/Relation/has/has_play_mode.personal|has_play_mode.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_play_mode.secret|has_play_mode.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_play_mode_of]]
 ---
 
+# [[has_play_mode]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/play_mode = `=this.dv_has_play_mode`  
 - has_play_mode = `=this.dv_has_play_mode`  
 

@@ -31,6 +31,7 @@ dv_has_:
   name: is_translator
   range: Organization, Person
 dv_has_translator: Organization, Person
+  inverse: [[is_translator_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_translator|has_translator]]"
@@ -51,15 +52,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_translator.private|has_translator.private]]"
   - "[[/_personal/schema-org/Relation/has/has_translator.personal|has_translator.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_translator.secret|has_translator.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_translator_of]]
 ---
 
+# [[has_translator]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/translator = `=this.dv_has_translator`  
 - has_translator = `=this.dv_has_translator`  
 

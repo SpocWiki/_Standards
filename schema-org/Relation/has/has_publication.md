@@ -28,6 +28,7 @@ dv_has_:
   name: is_publication
   range: PublicationEvent
 dv_has_publication: PublicationEvent
+  inverse: [[is_publication_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_publication|has_publication]]"
@@ -48,15 +49,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_publication.private|has_publication.private]]"
   - "[[/_personal/schema-org/Relation/has/has_publication.personal|has_publication.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_publication.secret|has_publication.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_publication_of]]
 ---
 
+# [[has_publication]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/publication = `=this.dv_has_publication`  
 - has_publication = `=this.dv_has_publication`  
 

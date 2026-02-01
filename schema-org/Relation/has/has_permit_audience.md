@@ -32,6 +32,7 @@ dv_has_:
   name: is_permit_audience
   range: Audience
 dv_has_permit_audience: Audience
+  inverse: [[is_permit_audience_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_permit_audience|has_permit_audience]]"
@@ -52,15 +53,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_permit_audience.private|has_permit_audience.private]]"
   - "[[/_personal/schema-org/Relation/has/has_permit_audience.personal|has_permit_audience.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_permit_audience.secret|has_permit_audience.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_permit_audience_of]]
 ---
 
+# [[has_permit_audience]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/permit_audience = `=this.dv_has_permit_audience`  
 - has_permit_audience = `=this.dv_has_permit_audience`  
 

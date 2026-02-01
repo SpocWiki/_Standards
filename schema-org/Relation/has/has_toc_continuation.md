@@ -26,18 +26,23 @@ tags:
   - schema-org/Relation
 title: has_toc_continuation
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_toc_continuation_of]]
 ---
 
-is_a :: [[../../Relation|Relation]] 
+# [[has_toc_continuation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-#is_/part_of :: pending:  
+has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
 - #has_/toc_continuation :: HyperTocEntry  
 - [ has_toc_continuation :: HyperTocEntry ] 
+- is_toc_continuation_of : : `=this.dv_has_domain` 
+- #is_/toc_continuation_of : : `=this.dv_has_domain`
 
 A [[HyperTocEntry]] can have a [[tocContinuation]] indicated, which is another [[HyperTocEntry]] that would be the default next item to play or render.
 

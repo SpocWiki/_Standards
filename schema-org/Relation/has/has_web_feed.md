@@ -26,18 +26,23 @@ tags:
   - schema-org/Relation
 title: has_web_feed
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_web_feed_of]]
 ---
 
-is_a :: [[../../Relation|Relation]] 
+# [[has_web_feed]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-#is_/part_of :: pending:  
+has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
 - #has_/web_feed :: DataFeed, URL  
 - [ has_web_feed :: DataFeed, URL ] 
+- is_web_feed_of : : `=this.dv_has_domain` 
+- #is_/web_feed_of : : `=this.dv_has_domain`
 
 The URL for a feed, e.g. associated with a podcast series, blog, or series of date-stamped updates. This is usually RSS or Atom.
 

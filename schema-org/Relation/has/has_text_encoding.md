@@ -22,7 +22,12 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_text_encoding.private|has_text_encoding.private]]"
   - "[[/_personal/schema-org/Relation/has/has_text_encoding.personal|has_text_encoding.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_text_encoding.secret|has_text_encoding.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_text_encoding_of]]
 ---
+
+# [[has_text_encoding]] 
+
 
 Used to describe the Byte-Encoding of a Text. 
 

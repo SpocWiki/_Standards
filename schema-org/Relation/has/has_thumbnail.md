@@ -28,6 +28,7 @@ dv_has_:
   name: is_thumbnail
   range: ImageObject
 dv_has_thumbnail: ImageObject
+  inverse: [[is_thumbnail_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_thumbnail|has_thumbnail]]"
@@ -48,15 +49,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_thumbnail.private|has_thumbnail.private]]"
   - "[[/_personal/schema-org/Relation/has/has_thumbnail.personal|has_thumbnail.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_thumbnail.secret|has_thumbnail.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_thumbnail_of]]
 ---
 
+# [[has_thumbnail]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/thumbnail = `=this.dv_has_thumbnail`  
 - has_thumbnail = `=this.dv_has_thumbnail`  
 

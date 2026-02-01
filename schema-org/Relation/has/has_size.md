@@ -22,18 +22,23 @@ tags:
   - schema-org/Relation
 title: has_size
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_size_of]]
 ---
 
-is_a :: [[../../Relation|Relation]] 
+# [[has_size]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-#is_/part_of :: pending:  
+has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
 - #has_/size :: DefinedTerm, QuantitativeValue, SizeSpecification, Text  
 - [ has_size :: DefinedTerm, QuantitativeValue, SizeSpecification, Text ] 
+- is_size_of : : `=this.dv_has_domain` 
+- #is_/size_of : : `=this.dv_has_domain`
 
 A standardized size of a product or creative work, specified either through 
 - a simple textual string (for example 'XL', '32Wx34L'), 

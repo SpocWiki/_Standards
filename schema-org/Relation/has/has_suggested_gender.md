@@ -32,6 +32,7 @@ dv_has_:
   name: is_suggested_gender
   range: GenderType, Text
 dv_has_suggested_gender: GenderType, Text
+  inverse: [[is_suggested_gender_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_suggested_gender|has_suggested_gender]]"
@@ -52,15 +53,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_suggested_gender.private|has_suggested_gender.private]]"
   - "[[/_personal/schema-org/Relation/has/has_suggested_gender.personal|has_suggested_gender.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_suggested_gender.secret|has_suggested_gender.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_suggested_gender_of]]
 ---
 
+# [[has_suggested_gender]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/suggested_gender = `=this.dv_has_suggested_gender`  
 - has_suggested_gender = `=this.dv_has_suggested_gender`  
 

@@ -32,6 +32,7 @@ dv_has_:
   name: is_tourist_type
   range: Audience, Text
 dv_has_tourist_type: Audience, Text
+  inverse: [[is_tourist_type_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_tourist_type|has_tourist_type]]"
@@ -52,15 +53,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_tourist_type.private|has_tourist_type.private]]"
   - "[[/_personal/schema-org/Relation/has/has_tourist_type.personal|has_tourist_type.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_tourist_type.secret|has_tourist_type.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_tourist_type_of]]
 ---
 
+# [[has_tourist_type]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/tourist_type = `=this.dv_has_tourist_type`  
 - has_tourist_type = `=this.dv_has_tourist_type`  
 

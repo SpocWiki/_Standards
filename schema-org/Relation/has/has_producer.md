@@ -28,6 +28,7 @@ dv_has_:
   name: is_producer
   range: Organization, Person
 dv_has_producer: Organization, Person
+  inverse: [[is_producer_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_producer|has_producer]]"
@@ -48,15 +49,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_producer.private|has_producer.private]]"
   - "[[/_personal/schema-org/Relation/has/has_producer.personal|has_producer.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_producer.secret|has_producer.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_producer_of]]
 ---
 
+# [[has_producer]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/producer = `=this.dv_has_producer`  
 - has_producer = `=this.dv_has_producer`  
 

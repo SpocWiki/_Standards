@@ -22,18 +22,23 @@ tags:
   - schema-org/Relation
 title: has_qualifications
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_qualifications_of]]
 ---
 
-is_a :: [[../../Relation|Relation]] 
+# [[has_qualifications]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-#is_/part_of :: pending:  
+has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
 - #has_/qualifications :: EducationalOccupationalCredential, Text  
 - [ has_qualifications :: EducationalOccupationalCredential, Text ] 
+- is_qualifications_of : : `=this.dv_has_domain` 
+- #is_/qualifications_of : : `=this.dv_has_domain`
 
 Specific qualifications required for this role or Occupation.
 

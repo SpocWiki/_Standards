@@ -33,6 +33,7 @@ dv_has_:
   name: is_type_of_bed
   range: BedType, Text
 dv_has_type_of_bed: BedType, Text
+  inverse: [[is_type_of_bed_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_type_of_bed|has_type_of_bed]]"
@@ -53,15 +54,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_type_of_bed.private|has_type_of_bed.private]]"
   - "[[/_personal/schema-org/Relation/has/has_type_of_bed.personal|has_type_of_bed.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_type_of_bed.secret|has_type_of_bed.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_type_of_bed_of]]
 ---
 
+# [[has_type_of_bed]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/type_of_bed = `=this.dv_has_type_of_bed`  
 - has_type_of_bed = `=this.dv_has_type_of_bed`  
 

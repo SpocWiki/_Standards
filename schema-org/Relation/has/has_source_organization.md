@@ -32,6 +32,7 @@ dv_has_:
   name: is_source_organization
   range: Organization
 dv_has_source_organization: Organization
+  inverse: [[is_source_organization_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_source_organization|has_source_organization]]"
@@ -52,15 +53,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_source_organization.private|has_source_organization.private]]"
   - "[[/_personal/schema-org/Relation/has/has_source_organization.personal|has_source_organization.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_source_organization.secret|has_source_organization.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_source_organization_of]]
 ---
 
+# [[has_source_organization]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/source_organization = `=this.dv_has_source_organization`  
 - has_source_organization = `=this.dv_has_source_organization`  
 

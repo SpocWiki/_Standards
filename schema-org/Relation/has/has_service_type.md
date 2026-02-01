@@ -32,6 +32,7 @@ dv_has_:
   name: is_service_type
   range: GovernmentBenefitsType, Text
 dv_has_service_type: GovernmentBenefitsType, Text
+  inverse: [[is_service_type_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_service_type|has_service_type]]"
@@ -52,15 +53,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_service_type.private|has_service_type.private]]"
   - "[[/_personal/schema-org/Relation/has/has_service_type.personal|has_service_type.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_service_type.secret|has_service_type.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_service_type_of]]
 ---
 
+# [[has_service_type]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/service_type = `=this.dv_has_service_type`  
 - has_service_type = `=this.dv_has_service_type`  
 

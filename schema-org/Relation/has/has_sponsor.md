@@ -22,15 +22,18 @@ tags:
   - schema-org/Relation
 title: has_sponsor
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_sponsor_of]]
 ---
 
+# [[has_sponsor]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/sponsor :: Organization, Person  
 - [ has_sponsor :: Organization, Person ] 
 

@@ -26,18 +26,23 @@ tags:
   - schema-org/Relation
 title: has_taxonomic_range
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_taxonomic_range_of]]
 ---
 
-is_a :: [[../../Relation|Relation]] 
+# [[has_taxonomic_range]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-#is_/part_of :: pending:  
+has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
 - #has_/taxonomic_range :: DefinedTerm, Taxon, Text, URL  
 - [ has_taxonomic_range :: DefinedTerm, Taxon, Text, URL ] 
+- is_taxonomic_range_of : : `=this.dv_has_domain` 
+- #is_/taxonomic_range_of : : `=this.dv_has_domain`
 
 The taxonomic grouping of the organism that expresses, encodes, or in some way related to the BioChemEntity.
 

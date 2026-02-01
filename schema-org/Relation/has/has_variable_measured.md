@@ -26,18 +26,23 @@ tags:
   - schema-org/Relation
 title: has_variable_measured
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_variable_measured_of]]
 ---
 
-is_a :: [[../../Relation|Relation]] 
+# [[has_variable_measured]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-#is_/part_of :: pending:  
+has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
 - #has_/variable_measured :: PropertyValue, Text  
 - [ has_variable_measured :: PropertyValue, Text ] 
+- is_variable_measured_of : : `=this.dv_has_domain` 
+- #is_/variable_measured_of : : `=this.dv_has_domain`
 
 The variableMeasured property can indicate (repeated as necessary) the  variables that are measured in some dataset, either described as text or as pairs of identifier and description using PropertyValue.
 

@@ -26,18 +26,23 @@ tags:
   - schema-org/Relation
 title: has_potential_use
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_potential_use_of]]
 ---
 
-is_a :: [[../../Relation|Relation]] 
+# [[has_potential_use]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-#is_/part_of :: pending:  
+has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
 - #has_/potential_use :: DefinedTerm  
 - [ has_potential_use :: DefinedTerm ] 
+- is_potential_use_of : : `=this.dv_has_domain` 
+- #is_/potential_use_of : : `=this.dv_has_domain`
 
 Intended use of the BioChemEntity by humans.
 

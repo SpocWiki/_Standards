@@ -27,18 +27,23 @@ tags:
   - schema-org/Relation
 title: has_usage_info
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_usage_info_of]]
 ---
 
-is_a :: [[../../Relation|Relation]] 
+# [[has_usage_info]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-#is_/part_of :: pending:  
+has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
 - #has_/usage_/info :: CreativeWork, URL  
 - [ has_usage_info :: CreativeWork, URL ] 
+- is_usage_info_of : : `=this.dv_has_domain` 
+- #is_/usage_info_of : : `=this.dv_has_domain`
 
 The schema.org [[usageInfo]] property indicates further information about a [[CreativeWork]]. 
 This property is applicable both to works that are freely available 

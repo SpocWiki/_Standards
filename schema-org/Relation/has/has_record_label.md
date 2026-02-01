@@ -32,6 +32,7 @@ dv_has_:
   name: is_record_label
   range: Organization
 dv_has_record_label: Organization
+  inverse: [[is_record_label_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_record_label|has_record_label]]"
@@ -52,15 +53,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_record_label.private|has_record_label.private]]"
   - "[[/_personal/schema-org/Relation/has/has_record_label.personal|has_record_label.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_record_label.secret|has_record_label.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_record_label_of]]
 ---
 
+# [[has_record_label]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/record_label = `=this.dv_has_record_label`  
 - has_record_label = `=this.dv_has_record_label`  
 

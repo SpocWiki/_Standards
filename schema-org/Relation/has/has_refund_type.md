@@ -26,18 +26,23 @@ tags:
   - schema-org/Relation
 title: has_refund_type
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_refund_type_of]]
 ---
 
-is_a :: [[../../Relation|Relation]] 
+# [[has_refund_type]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-#is_/part_of :: pending:  
+has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
 - #has_/refund_type :: RefundTypeEnumeration  
 - [ has_refund_type :: RefundTypeEnumeration ] 
+- is_refund_type_of : : `=this.dv_has_domain` 
+- #is_/refund_type_of : : `=this.dv_has_domain`
 
 A refund type, from an enumerated list.
 

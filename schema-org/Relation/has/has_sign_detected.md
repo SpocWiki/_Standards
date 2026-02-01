@@ -32,6 +32,7 @@ dv_has_:
   name: is_sign_detected
   range: MedicalSign
 dv_has_sign_detected: MedicalSign
+  inverse: [[is_sign_detected_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_sign_detected|has_sign_detected]]"
@@ -52,15 +53,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_sign_detected.private|has_sign_detected.private]]"
   - "[[/_personal/schema-org/Relation/has/has_sign_detected.personal|has_sign_detected.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_sign_detected.secret|has_sign_detected.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_sign_detected_of]]
 ---
 
+# [[has_sign_detected]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/sign_detected = `=this.dv_has_sign_detected`  
 - has_sign_detected = `=this.dv_has_sign_detected`  
 

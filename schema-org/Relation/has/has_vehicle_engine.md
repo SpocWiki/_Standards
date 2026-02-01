@@ -32,6 +32,7 @@ dv_has_:
   name: is_vehicle_engine
   range: EngineSpecification
 dv_has_vehicle_engine: EngineSpecification
+  inverse: [[is_vehicle_engine_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_vehicle_engine|has_vehicle_engine]]"
@@ -52,15 +53,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_vehicle_engine.private|has_vehicle_engine.private]]"
   - "[[/_personal/schema-org/Relation/has/has_vehicle_engine.personal|has_vehicle_engine.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_vehicle_engine.secret|has_vehicle_engine.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_vehicle_engine_of]]
 ---
 
+# [[has_vehicle_engine]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/vehicle_engine = `=this.dv_has_vehicle_engine`  
 - has_vehicle_engine = `=this.dv_has_vehicle_engine`  
 

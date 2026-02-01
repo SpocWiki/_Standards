@@ -28,6 +28,7 @@ dv_has_:
   name: is_skills
   range: DefinedTerm, Text
 dv_has_skills: DefinedTerm, Text
+  inverse: [[is_skills_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_skills|has_skills]]"
@@ -48,15 +49,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_skills.private|has_skills.private]]"
   - "[[/_personal/schema-org/Relation/has/has_skills.personal|has_skills.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_skills.secret|has_skills.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_skills_of]]
 ---
 
+# [[has_skills]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/skills = `=this.dv_has_skills`  
 - has_skills = `=this.dv_has_skills`  
 

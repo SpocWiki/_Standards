@@ -29,6 +29,7 @@ dv_has_:
   name: is_sibling
   range: Person
 dv_has_sibling: Person
+  inverse: [[is_sibling_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_sibling|has_sibling]]"
@@ -49,15 +50,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_sibling.private|has_sibling.private]]"
   - "[[/_personal/schema-org/Relation/has/has_sibling.personal|has_sibling.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_sibling.secret|has_sibling.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_sibling_of]]
 ---
 
+# [[has_sibling]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/sibling = `=this.dv_has_sibling`  
 - has_sibling = `=this.dv_has_sibling`  
 

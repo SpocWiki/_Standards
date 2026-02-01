@@ -26,15 +26,18 @@ tags:
   - schema-org/Relation
 title: has_performer
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[../is/is_performer_in]]
 ---
 
+# [[has_performer]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/performer :: Organization, Person  
 - [ has_performer :: Organization, Person ] 
 
@@ -47,7 +50,7 @@ Relation describes that:
 (has_/name :: has_performer )
 (has_/range :: Organization, Person )
 
-#has_/inverse  :: [[../is/is_performer_in]]  
+has_inverse = `=this.dv_has_inverse`
 
 [[../has_inverse]]
 

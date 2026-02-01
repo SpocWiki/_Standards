@@ -29,6 +29,7 @@ dv_has_:
   domain: "[[../../../Society/Agent/Person|Person]]"
   name: has_nationality
   range: "[[../../../Earth/Geography/Place/Administrative_Area/Country|Country]]"
+  inverse: "[[is_nationality_of]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_nationality|has_nationality]]"
@@ -49,14 +50,16 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_nationality.private|has_nationality.private]]"
   - "[[/_personal/schema-org/Relation/has/has_nationality.personal|has_nationality.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_nationality.secret|has_nationality.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_nationality_of]]"
 ---
 
 # [[has_nationality]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_nationality_of]]
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/nationality : : `=this.dv_has_range`  

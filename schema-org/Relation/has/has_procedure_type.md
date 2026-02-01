@@ -32,6 +32,7 @@ dv_has_:
   name: is_procedure_type
   range: MedicalProcedureType
 dv_has_procedure_type: MedicalProcedureType
+  inverse: [[is_procedure_type_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_procedure_type|has_procedure_type]]"
@@ -52,15 +53,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_procedure_type.private|has_procedure_type.private]]"
   - "[[/_personal/schema-org/Relation/has/has_procedure_type.personal|has_procedure_type.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_procedure_type.secret|has_procedure_type.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_procedure_type_of]]
 ---
 
+# [[has_procedure_type]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/procedure_type = `=this.dv_has_procedure_type`  
 - has_procedure_type = `=this.dv_has_procedure_type`  
 

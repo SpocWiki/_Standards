@@ -27,18 +27,23 @@ tags:
   - schema-org/Relation
 title: has_translation_of_work
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_translation_of_work_of]]
 ---
 
-is_a :: [[../../Relation|Relation]] 
+# [[has_translation_of_work]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-#is_/part_of :: https://bib.schema.org  
+has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
 - #has_/translation_of_work :: CreativeWork  
 - [ has_translation_of_work :: CreativeWork ] 
+- is_translation_of_work_of : : `=this.dv_has_domain` 
+- #is_/translation_of_work_of : : `=this.dv_has_domain`
 
 The work that this work has been translated from. E.g. ???? is a translationOf �On the Origin of Species�.
 
@@ -49,7 +54,7 @@ Relation describes that:
 (has_/name :: is_translation_of_work )
 (has_/range :: CreativeWork )
 
-#has_/inverse  :: workTranslation  
+has_inverse = `=this.dv_has_inverse`
 
 ## Confidential Links & Embeds: 
 

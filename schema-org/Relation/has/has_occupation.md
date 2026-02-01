@@ -33,6 +33,7 @@ dv_has_:
   name: has_occupation
   range: Occupation
 dv_has_occupation: Occupation
+  inverse: [[is_occupation_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_occupation|has_occupation]]"
@@ -53,15 +54,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_occupation.private|has_occupation.private]]"
   - "[[/_personal/schema-org/Relation/has/has_occupation.personal|has_occupation.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_occupation.secret|has_occupation.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_occupation_of]]
 ---
 
+# [[has_occupation]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/occupation = `=this.dv_has_occupation`  
 - has_occupation = `=this.dv_has_occupation`  
 

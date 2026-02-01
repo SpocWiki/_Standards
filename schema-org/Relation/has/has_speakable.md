@@ -28,6 +28,7 @@ dv_has_:
   name: is_speakable
   range: SpeakableSpecification, URL
 dv_has_speakable: SpeakableSpecification, URL
+  inverse: [[is_speakable_of]]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_speakable|has_speakable]]"
@@ -48,15 +49,18 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_speakable.private|has_speakable.private]]"
   - "[[/_personal/schema-org/Relation/has/has_speakable.personal|has_speakable.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_speakable.secret|has_speakable.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_speakable_of]]
 ---
 
+# [[has_speakable]] 
 
-is_a :: [[../../Relation|Relation]] 
+
+
+is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
-
-Use it like this: 
+has_inverse = `=this.dv_has_inverse`
 - #has_/speakable = `=this.dv_has_speakable`  
 - has_speakable = `=this.dv_has_speakable`  
 

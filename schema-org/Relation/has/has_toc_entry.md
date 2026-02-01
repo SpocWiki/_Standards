@@ -33,6 +33,7 @@ dv_has_:
   name: is_toc_entry
   range: "[[../../../Society/Communication/Media/Creative_Work/Hyper_Toc_Entry|HyperTocEntry]]"
 dv_has_toc_entry: "[[../../Class/is_a_/creative_work/hyper_toc_entry|HyperTocEntry]]"
+  inverse: [[is_toc_entry_of]]
 dv_is_:
   part_of: "pending:"
   same_as:
@@ -56,7 +57,12 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_toc_entry.private|has_toc_entry.private]]"
   - "[[/_personal/schema-org/Relation/has/has_toc_entry.personal|has_toc_entry.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_toc_entry.secret|has_toc_entry.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: [[is_toc_entry_of]]
 ---
+
+# [[has_toc_entry]] 
+
 
 Indicates a [[../../../Society/Communication/Media/Creative_Work/Hyper_Toc_Entry|HyperTocEntry]] in a [[../../../Society/Communication/Media/Creative_Work/Hyper_Toc|HyperToc]]. 
 
@@ -65,6 +71,8 @@ is_part_of = `=this.dv_is_part_of`
 Use it like this: 
 - #has_/toc_entry = `=this.dv_has_toc_entry` ] ] 
 - has_toc_entry = `=this.dv_has_toc_entry` ] ] 
+- is_toc_entry_of : : `=this.dv_has_domain` 
+- #is_/toc_entry_of : : `=this.dv_has_domain`
 
 Relation describes that: 
 
