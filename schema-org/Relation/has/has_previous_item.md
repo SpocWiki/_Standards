@@ -5,6 +5,12 @@ aliases:
   - has_previous_item
   - prev-item
   - has previous item
+  - successor-of
+  - successor_of
+  - successorOf
+  - has_predecessor
+  - is_successor_of
+  - is successor of
 confidential: public
 cssclasses:
   - Predicate
@@ -31,11 +37,11 @@ type: Predi_Relation
 
 # [[has_previous_item]] 
 
-A link to the [[../../Collection/list_item|ListItem]] that precedes the current one.
-
-#is_/similar_to :: [[../is/is_successor_of]] 
-#has_/inverse :: [[../has/has_next_item]]    
+#has_/inverse :: [[../has/has_next_item|has_next_item]]    
 #has_/inverse :: [[is_predecessor_of]]   
+#is_/similar_to :: [[../is/is_successor_of]] 
+
+A link to the [[../../Collection/list_item|ListItem]] that precedes the current one.
 
 - [ ] TODO: unify with [[../is/is_successor_of]].  
 

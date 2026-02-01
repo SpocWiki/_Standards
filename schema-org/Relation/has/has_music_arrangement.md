@@ -27,11 +27,9 @@ tags:
 title: has_music_arrangement
 type: Predi_Relation
 dv_has_:
-  music_arrangement: MusicComposition
-  domain: MusicComposition
+  domain: "[[../../../Society/Communication/Media/Creative_Work/Music_Composition|Music_Composition]]"
   name: has_music_arrangement
-  range: MusicComposition
-dv_has_music_arrangement: MusicComposition
+  range: "[[../../../Society/Communication/Media/Creative_Work/Music_Composition|Music_Composition]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_music_arrangement|has_music_arrangement]]"
@@ -41,9 +39,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_music_arrangement.private|has_music_arrangement.private]]"
     - "[[/_personal/schema-org/Relation/has/has_music_arrangement.personal|has_music_arrangement.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_music_arrangement.secret|has_music_arrangement.secret]]"
-dv_has_domain: MusicComposition
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Music_Composition|Music_Composition]]"
 dv_has_name: has_music_arrangement
-dv_has_range: MusicComposition
+dv_has_range: "[[../../../Society/Communication/Media/Creative_Work/Music_Composition|Music_Composition]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_music_arrangement|has_music_arrangement]]"
   - "[[/_public/schema-org/Relation/has/has_music_arrangement.public|has_music_arrangement.public]]"
@@ -54,22 +52,24 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_music_arrangement.secret|has_music_arrangement.secret]]"
 ---
 
+# [[has_music_arrangement]] 
 
 is_a :: [[../../Relation|Relation]] 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[is_music_arrangement_of]]
 
 Use it like this: 
-- #has_/music_arrangement = `=this.dv_has_music_arrangement`  
-- has_music_arrangement = `=this.dv_has_music_arrangement`  
+- #has_/music_arrangement : : `=this.dv_has_range`  
+- has_music_arrangement : : `=this.dv_has_range` 
+- is_music_arrangement_of : : `=this.dv_has_domain` 
+- #is_/music_arrangement_of : : `=this.dv_has_domain` 
 
 An arrangement derived from the composition.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

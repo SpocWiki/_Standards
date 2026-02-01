@@ -27,11 +27,9 @@ tags:
 title: has_message_attachment
 type: Predi_Relation
 dv_has_:
-  message_attachment: CreativeWork
-  domain: Message
+  domain: "[[../../../Society/Communication/Media/Creative_Work/Message|Message]]"
   name: has_message_attachment
-  range: CreativeWork
-dv_has_message_attachment: CreativeWork
+  range: "[[../../../Society/Communication/Media/Creative_Work|CreativeWork]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_message_attachment|has_message_attachment]]"
@@ -41,9 +39,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_message_attachment.private|has_message_attachment.private]]"
     - "[[/_personal/schema-org/Relation/has/has_message_attachment.personal|has_message_attachment.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_message_attachment.secret|has_message_attachment.secret]]"
-dv_has_domain: Message
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Message|Message]]"
 dv_has_name: has_message_attachment
-dv_has_range: CreativeWork
+dv_has_range: "[[../../../Society/Communication/Media/Creative_Work|CreativeWork]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_message_attachment|has_message_attachment]]"
   - "[[/_public/schema-org/Relation/has/has_message_attachment.public|has_message_attachment.public]]"
@@ -59,18 +57,19 @@ dv_is_same_as:
 is_a :: [[../../Relation|Relation]] 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[is_message_attachment_of]]
 
 Use it like this: 
-- #has_/message_attachment = `=this.dv_has_message_attachment`  
-- has_message_attachment = `=this.dv_has_message_attachment`  
+- #has_/message_/attachment : : `=this.dv_has_range`   
+- has_message_attachment : : `=this.dv_has_range`  
+- is_message_attachment_of : : `=this.dv_has_domain` 
+- #is_/message_/attachment_of : : `=this.dv_has_domain` 
 
 A CreativeWork attached to the message.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

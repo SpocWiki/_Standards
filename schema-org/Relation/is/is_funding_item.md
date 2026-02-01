@@ -83,7 +83,7 @@ Use it like this:
 - #has_/funding : : `=this.dv_has_domain`  
 
 Indicates something directly or indirectly funded or sponsored through a [[Grant]]. 
-See also [[../has/has_ownership_funding_info|has_ownership_funding_info]].
+See also [[../has/has_publishing_principle/has_ownership_funding_info|has_ownership_funding_info]].
 
 Relation describes that: 
 

@@ -27,11 +27,9 @@ tags:
 title: has_music_by
 type: Predi_Relation
 dv_has_:
-  music_by: MusicGroup, Person
-  domain: Clip, Episode, Movie, MovieSeries, RadioSeries, TVSeries, VideoGame, VideoGameSeries, VideoObject
+  domain: ["[[../../../Society/Communication/Media/Creative_Work/Clip|Clip]]", "[[../../../Society/Communication/Media/Creative_Work/Episode|Episode]]", "[[../../../Society/Communication/Media/Movie|Movie]]", "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Movie_Series|Movie_Series]]", "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Radio_Series|Radio_Series]]", "[[../../../Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series|TV_Series]]", "[[../../../Society/Communication/Media/Creative_Work/Game/Video_Game|Video_Game]]", "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Video_Game_Series|Video_Game_Series]]", "[[../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Video_Object|Video_Object]]"]
   name: has_music_by
-  range: MusicGroup, Person
-dv_has_music_by: MusicGroup, Person
+  range: ["[[../../../Society/Agent/Community/Organization/Performing_Group/Music_Group|MusicGroup]]", "[[../../../Society/Agent/Person|Person]]"]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_music_by|has_music_by]]"
@@ -41,9 +39,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_music_by.private|has_music_by.private]]"
     - "[[/_personal/schema-org/Relation/has/has_music_by.personal|has_music_by.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_music_by.secret|has_music_by.secret]]"
-dv_has_domain: Clip, Episode, Movie, MovieSeries, RadioSeries, TVSeries, VideoGame, VideoGameSeries, VideoObject
+dv_has_domain: ["[[../../../Society/Communication/Media/Creative_Work/Clip|Clip]]", "[[../../../Society/Communication/Media/Creative_Work/Episode|Episode]]", "[[../../../Society/Communication/Media/Movie|Movie]]", "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Movie_Series|Movie_Series]]", "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Radio_Series|Radio_Series]]", "[[../../../Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series|TV_Series]]", "[[../../../Society/Communication/Media/Creative_Work/Game/Video_Game|Video_Game]]", "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Video_Game_Series|Video_Game_Series]]", "[[../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Video_Object|Video_Object]]"]
 dv_has_name: has_music_by
-dv_has_range: MusicGroup, Person
+dv_has_range: ["[[../../../Society/Agent/Community/Organization/Performing_Group/Music_Group|MusicGroup]]", "[[../../../Society/Agent/Person|Person]]"]
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_music_by|has_music_by]]"
   - "[[/_public/schema-org/Relation/has/has_music_by.public|has_music_by.public]]"
@@ -54,22 +52,24 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_music_by.secret|has_music_by.secret]]"
 ---
 
+# [[has_music_by]] 
 
 is_a :: [[../../Relation|Relation]] 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[has_created_music_for]]
 
 Use it like this: 
-- #has_/music_by = `=this.dv_has_music_by`  
-- has_music_by = `=this.dv_has_music_by`  
+- #has_/music_by = `=this.dv_has_range`  
+- has_music_by = `=this.dv_has_range`  
+- has_created_music_for : : `=this.dv_has_domain` 
+- #has_/created_/music_for : : `=this.dv_has_domain` 
 
 The composer of the soundtrack.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

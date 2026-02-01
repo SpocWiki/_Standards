@@ -29,18 +29,18 @@ tags:
   - schema-org/Relation
 title: has_correction_policy
 type: Predi_Relation
-dv_is_a: "[[../../../Relation|Relation]]"
+dv_is_a: "[[../../../../Relation|Relation]]"
 dv_has_:
   inverse: "[[is_correction_policy_of]]"
   parent_:
-    property: publishingPrinciples
+    property: "[[../../has_publishing_principle|has_publishing_principle]]"
   domain:
-    - "[[../../../../Society/Agent/Community/Organization/News_Media_Organization|News_Media_Organization]]"
-    - "[[../../../../Society/Agent/Community/Organization|Organization]]"
+    - "[[../../../../../Society/Agent/Community/Organization/News_Media_Organization|News_Media_Organization]]"
+    - "[[../../../../../Society/Agent/Community/Organization|Organization]]"
   name: has_correction_policy
   range:
-    - "[[../../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
-    - "[[../../../Class/is_a_/Data_Type/Text/Url|Url]]"
+    - "[[../../../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
+    - "[[../../../../Class/is_a_/Data_Type/Text/Url|Url]]"
 dv_is_:
   part_of: "pending:"
   same_as:
@@ -52,15 +52,15 @@ dv_is_:
     - "[[/_personal/schema-org/Relation/has/has_correction_policy.personal|has_correction_policy.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_correction_policy.secret|has_correction_policy.secret]]"
 dv_has_inverse: "[[is_correction_policy_of]]"
-dv_has_parent_property: publishingPrinciples
+dv_has_parent_property: "[[../../has_publishing_principle|has_publishing_principle]]"
 dv_is_part_of: "pending:"
 dv_has_domain:
-  - "[[../../../../Society/Agent/Community/Organization/News_Media_Organization|News_Media_Organization]]"
-  - "[[../../../../Society/Agent/Community/Organization|Organization]]"
+  - "[[../../../../../Society/Agent/Community/Organization/News_Media_Organization|News_Media_Organization]]"
+  - "[[../../../../../Society/Agent/Community/Organization|Organization]]"
 dv_has_name: has_correction_policy
 dv_has_range:
-  - "[[../../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
-  - "[[../../../Class/is_a_/Data_Type/Text/Url|Url]]"
+  - "[[../../../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
+  - "[[../../../../Class/is_a_/Data_Type/Text/Url|Url]]"
 dv_is_same_as:
   - "[[has_correction_policy]]"
   - "[[/_public/schema-org/Relation/has/has_correction_policy.public|has_correction_policy.public]]"
@@ -88,15 +88,15 @@ Use it like this:
 - is_correction_policy_of : : `=this.dv_has_domain`
 - #is_/correction_/policy_of : : `=this.dv_has_domain`
 
-For an [[../../../../Society/Agent/Community/Organization|Organization]] (e.g. [[../../../../Society/Agent/Community/Organization/News_Media_Organization|News_Media_Organization]],
+For an [[../../../../../Society/Agent/Community/Organization|Organization]] (e.g. [[../../../../../Society/Agent/Community/Organization/News_Media_Organization|News_Media_Organization]],
 a statement describing (in news media, the newsrooms) 
 disclosure and correction policy for errors.
 
 Relation describes that: 
 
-#has_/domain  :: [[../../../../Society/Agent/Community/Organization/News_Media_Organization|News_Media_Organization]], [[../../../../Society/Agent/Community/Organization|Organization]]  
+#has_/domain  :: [[../../../../../Society/Agent/Community/Organization/News_Media_Organization|News_Media_Organization]], [[../../../../../Society/Agent/Community/Organization|Organization]]  
 has_name = `=this.dv_has_name` 
-(has_/range :: [[../../../../Society/Communication/Media/Creative_Work|Creative_Work]], [[../../../Class/is_a_/Data_Type/Text/Url|Url]] )
+(has_/range :: [[../../../../../Society/Communication/Media/Creative_Work|Creative_Work]], [[../../../../Class/is_a_/Data_Type/Text/Url|Url]] )
 
 ## Confidential Links & Embeds: 
 

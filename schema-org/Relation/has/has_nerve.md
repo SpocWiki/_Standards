@@ -23,11 +23,10 @@ tags:
 title: has_nerve
 type: Predi_Relation
 dv_has_:
-  nerve: Nerve
-  domain: Muscle
+  domain: "[[../../../bio/Medicine/Anatomy/Skeleton/Muscle|Muscle]]"
   name: has_nerve
-  range: Nerve
-dv_has_nerve: Nerve
+  range: "[[../../../bio/Medicine/Anatomy/Nervous_System/Nerve|Nerve]]"
+  inverse: "[[is_nerve_to]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_nerve|has_nerve]]"
@@ -37,35 +36,40 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_nerve.private|has_nerve.private]]"
     - "[[/_personal/schema-org/Relation/has/has_nerve.personal|has_nerve.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_nerve.secret|has_nerve.secret]]"
-dv_has_domain: Muscle
+    - "[[has_nerve]]"
+dv_has_domain: "[[../../../bio/Medicine/Anatomy/Skeleton/Muscle|Muscle]]"
 dv_has_name: has_nerve
-dv_has_range: Nerve
+dv_has_range: "[[../../../bio/Medicine/Anatomy/Nervous_System/Nerve|Nerve]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_nerve|has_nerve]]"
+  - "[[has_nerve]]"
   - "[[/_public/schema-org/Relation/has/has_nerve.public|has_nerve.public]]"
   - "[[/_internal/schema-org/Relation/has/has_nerve.internal|has_nerve.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_nerve.protect|has_nerve.protect]]"
   - "[[/_private/schema-org/Relation/has/has_nerve.private|has_nerve.private]]"
   - "[[/_personal/schema-org/Relation/has/has_nerve.personal|has_nerve.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_nerve.secret|has_nerve.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_nerve_to]]"
 ---
 
+# [[has_nerve]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
-- #has_/nerve = `=this.dv_has_nerve`  
-- has_nerve = `=this.dv_has_nerve`  
+- #has_/nerve : : `=this.dv_has_range`  
+- has_nerve : : `=this.dv_has_range`  
+- is_nerve_to : : `=this.dv_has_domain` 
+- #is_/nerve_to : : `=this.dv_has_domain` 
 
 The underlying innervation associated with the muscle.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

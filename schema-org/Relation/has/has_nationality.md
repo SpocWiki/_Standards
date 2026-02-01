@@ -26,11 +26,9 @@ tags:
 title: has_nationality
 type: Predi_Relation
 dv_has_:
-  nationality: Country
-  domain: Person
+  domain: "[[../../../Society/Agent/Person|Person]]"
   name: has_nationality
-  range: Country
-dv_has_nationality: Country
+  range: "[[../../../Earth/Geography/Place/Administrative_Area/Country|Country]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_nationality|has_nationality]]"
@@ -40,9 +38,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_nationality.private|has_nationality.private]]"
     - "[[/_personal/schema-org/Relation/has/has_nationality.personal|has_nationality.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_nationality.secret|has_nationality.secret]]"
-dv_has_domain: Person
+dv_has_domain: "[[../../../Society/Agent/Person|Person]]"
 dv_has_name: has_nationality
-dv_has_range: Country
+dv_has_range: "[[../../../Earth/Geography/Place/Administrative_Area/Country|Country]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_nationality|has_nationality]]"
   - "[[/_public/schema-org/Relation/has/has_nationality.public|has_nationality.public]]"
@@ -53,22 +51,24 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_nationality.secret|has_nationality.secret]]"
 ---
 
+# [[has_nationality]] 
 
 is_a :: [[../../Relation|Relation]] 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[is_nationality_of]]
 
 Use it like this: 
-- #has_/nationality = `=this.dv_has_nationality`  
-- has_nationality = `=this.dv_has_nationality`  
+- #has_/nationality : : `=this.dv_has_range`  
+- has_nationality : : `=this.dv_has_range`  
+- is_nationality_of : : `=this.dv_has_domain` 
+- #is_/nationality_of : : `=this.dv_has_domain` 
 
 Nationality of the person.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 
