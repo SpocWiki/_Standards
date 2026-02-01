@@ -25,9 +25,10 @@ tags:
 title: has_available_channel
 type: Predi_Relation
 dv_has_:
-  domain: "[[../../../Society/Agent/Community/Organization/Business/Service|Service]]" 
+  domain: "[[../../../Society/Agent/Community/Organization/Business/Service|Service]]"
   name: has_available_channel
   range: "[[../../Class/is_a_/Intangible/Service_Channel|Service_Channel]]"
+  inverse: "[[is_available_through_channel]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_available_channel|has_available_channel]]"
@@ -37,25 +38,28 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_available_channel.private|has_available_channel.private]]"
     - "[[/_personal/schema-org/Relation/has/has_available_channel.personal|has_available_channel.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_available_channel.secret|has_available_channel.secret]]"
-dv_has_domain: "[[../../../Society/Agent/Community/Organization/Business/Service|Service]]" 
+    - "[[has_available_channel]]"
+dv_has_domain: "[[../../../Society/Agent/Community/Organization/Business/Service|Service]]"
 dv_has_name: has_available_channel
 dv_has_range: "[[../../Class/is_a_/Intangible/Service_Channel|Service_Channel]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_available_channel|has_available_channel]]"
+  - "[[has_available_channel]]"
   - "[[/_public/schema-org/Relation/has/has_available_channel.public|has_available_channel.public]]"
   - "[[/_internal/schema-org/Relation/has/has_available_channel.internal|has_available_channel.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_available_channel.protect|has_available_channel.protect]]"
   - "[[/_private/schema-org/Relation/has/has_available_channel.private|has_available_channel.private]]"
   - "[[/_personal/schema-org/Relation/has/has_available_channel.personal|has_available_channel.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_available_channel.secret|has_available_channel.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_available_through_channel]]"
 ---
 
 # [[has_available_channel]] 
 
-#is_a :: [[../../Relation|Relation]]
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_available_through_channel]]
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/available_channel : : `=this.dv_has_range` 

@@ -40,11 +40,12 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_action_application.private|has_action_application.private]]"
     - "[[/_personal/schema-org/Relation/has/has_action_application.personal|has_action_application.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_action_application.secret|has_action_application.secret]]"
+    - "[[has_action_application]]"
 dv_has_domain: "[[../../../Class/is_a_thing/intangible/entry_point]]"
 dv_has_name: has_action_application
 dv_has_range: "[[../../../../Society/Communication/Media/Creative_Work/Software_Application]]"
 dv_is_same_as:
-  - "[[has_action_application|has_action_application]]"
+  - "[[has_action_application]]"
   - "[[/_public/schema-org/Relation/has/has_action_application.public|has_action_application.public]]"
   - "[[/_internal/schema-org/Relation/has/has_action_application.internal|has_action_application.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_action_application.protect|has_action_application.protect]]"

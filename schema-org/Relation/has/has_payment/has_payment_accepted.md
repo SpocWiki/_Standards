@@ -40,11 +40,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_payment_accepted.private|has_payment_accepted.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_payment_accepted.personal|has_payment_accepted.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_payment_accepted.secret|has_payment_accepted.secret]]"
+    - "[[has_payment_accepted]]"
 dv_has_domain: "[[../../../../Society/Agent/Community/Organization/Business/Local_Business|Local_Business]]"
 dv_has_name: has_payment_accepted
 dv_has_range: "[[../../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_same_as:
-  - "[[has_payment_accepted|has_payment_accepted]]"
+  - "[[has_payment_accepted]]"
   - "[[/_public/schema-org/Property/Texts/has_payment_accepted.public|has_payment_accepted.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_payment_accepted.internal|has_payment_accepted.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_payment_accepted.protect|has_payment_accepted.protect]]"

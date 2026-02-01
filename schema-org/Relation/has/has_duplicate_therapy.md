@@ -30,6 +30,7 @@ dv_has_:
   domain: "[[../../../bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Therapy|Medical_Therapy]]"
   name: has_duplicate_therapy
   range: "[[../../../bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Therapy|Medical_Therapy]]"
+  inverse: "[[has_duplicate_therapy]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_duplicate_therapy|has_duplicate_therapy]]"
@@ -39,26 +40,31 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_duplicate_therapy.private|has_duplicate_therapy.private]]"
     - "[[/_personal/schema-org/Relation/has/has_duplicate_therapy.personal|has_duplicate_therapy.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_duplicate_therapy.secret|has_duplicate_therapy.secret]]"
+    - "[[has_duplicate_therapy]]"
+  similar_to: "[[../is_similar_to|is_similar_to]]"
 dv_has_domain: "[[../../../bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Therapy|Medical_Therapy]]"
 dv_has_name: has_duplicate_therapy
 dv_has_range: "[[../../../bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Therapy|Medical_Therapy]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_duplicate_therapy|has_duplicate_therapy]]"
+  - "[[has_duplicate_therapy]]"
   - "[[/_public/schema-org/Relation/has/has_duplicate_therapy.public|has_duplicate_therapy.public]]"
   - "[[/_internal/schema-org/Relation/has/has_duplicate_therapy.internal|has_duplicate_therapy.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_duplicate_therapy.protect|has_duplicate_therapy.protect]]"
   - "[[/_private/schema-org/Relation/has/has_duplicate_therapy.private|has_duplicate_therapy.private]]"
   - "[[/_personal/schema-org/Relation/has/has_duplicate_therapy.personal|has_duplicate_therapy.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_duplicate_therapy.secret|has_duplicate_therapy.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[has_duplicate_therapy]]"
+dv_is_similar_to: "[[../is_similar_to|is_similar_to]]"
 ---
 
 # [[has_duplicate_therapy]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[has_duplicate_therapy]]  
-#is_/similar_to :: [[../is_similar_to|is_similar_to]] 
+has_inverse = `=this.dv_has_inverse` 
+is_similar_to = `=this.dv_is_similar_to` 
 
 Use it like this: 
 - #has_/duplicate_therapy : : `=this.dv_has_range` 

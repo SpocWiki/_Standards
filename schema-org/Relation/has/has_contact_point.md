@@ -28,9 +28,13 @@ tags:
 title: has_contact_point
 type: Predi_Relation
 dv_has_:
-  domain: ["[[../../Class/is_a_/Intangible/Health_Insurance_Plan|Health_Insurance_Plan]]", "[[../../../Society/Agent/Community/Organization|Organization]]", "[[../../../Society/Agent/Person|Person]]"]
+  domain:
+    - "[[../../Class/is_a_/Intangible/Health_Insurance_Plan|Health_Insurance_Plan]]"
+    - "[[../../../Society/Agent/Community/Organization|Organization]]"
+    - "[[../../../Society/Agent/Person|Person]]"
   name: has_contact_point
   range: "[[../../Class/is_a_/Intangible/Structured_Value/Contact_Point|Contact_Point]]"
+  inverse: "[[is_contact_point_for]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_contact_point|has_contact_point]]"
@@ -40,25 +44,31 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_contact_point.private|has_contact_point.private]]"
     - "[[/_personal/schema-org/Relation/has/has_contact_point.personal|has_contact_point.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_contact_point.secret|has_contact_point.secret]]"
-dv_has_domain: ["[[../../Class/is_a_/Intangible/Health_Insurance_Plan|Health_Insurance_Plan]]", "[[../../../Society/Agent/Community/Organization|Organization]]", "[[../../../Society/Agent/Person|Person]]"]
+    - "[[has_contact_point]]"
+dv_has_domain:
+  - "[[../../Class/is_a_/Intangible/Health_Insurance_Plan|Health_Insurance_Plan]]"
+  - "[[../../../Society/Agent/Community/Organization|Organization]]"
+  - "[[../../../Society/Agent/Person|Person]]"
 dv_has_name: has_contact_point
 dv_has_range: "[[../../Class/is_a_/Intangible/Structured_Value/Contact_Point|Contact_Point]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_contact_point|has_contact_point]]"
+  - "[[has_contact_point]]"
   - "[[/_public/schema-org/Relation/has/has_contact_point.public|has_contact_point.public]]"
   - "[[/_internal/schema-org/Relation/has/has_contact_point.internal|has_contact_point.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_contact_point.protect|has_contact_point.protect]]"
   - "[[/_private/schema-org/Relation/has/has_contact_point.private|has_contact_point.private]]"
   - "[[/_personal/schema-org/Relation/has/has_contact_point.personal|has_contact_point.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_contact_point.secret|has_contact_point.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_contact_point_for]]"
 ---
 
 # [[has_contact_point]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_contact_point_for]]
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/contact_point : : `=this.dv_has_contact_point`  

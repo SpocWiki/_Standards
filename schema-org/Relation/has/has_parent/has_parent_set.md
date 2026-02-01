@@ -12,8 +12,8 @@ aliases:
   - is a fraction of
   - is a partition of
   - is sub set of
-  - skos:narrower 
-  - rdfs:subClassOf 
+  - skos:narrower
+  - rdfs:subClassOf
 confidential: public
 cssclasses:
   - Predicate
@@ -47,6 +47,7 @@ dv_has_:
   domain: "[[../../../Collection|Collection]]"
   name: "[[has_parent_set]]"
   range: "[[../../../Collection|Collection]]"
+  inverse: "[[../has_child/has_child_set|has_child_set]]"
 dv_has_domain: "[[../../../Collection|Collection]]"
 dv_has_name: "[[has_parent_set]]"
 dv_has_range: "[[../../../Collection|Collection]]"
@@ -58,11 +59,12 @@ dv_is_same_as:
   - "[[/_private/schema-org/Collection/has_parent_set.private|has_parent_set.private]]"
   - "[[/_personal/schema-org/Collection/has_parent_set.personal|has_parent_set.personal]]"
   - "[[/_secret/schema-org/Collection/has_parent_set.secret|has_parent_set.secret]]"
+dv_has_inverse: "[[../has_child/has_child_set|has_child_set]]"
 ---
 
 # [[has_parent_set]] 
 
-#has_/inverse :: [[../has_child/has_child_set|has_child_set]] 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/parent_/set = `=this.dv_has_parent_set`  

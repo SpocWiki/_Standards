@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_publication]]"
+    - "[[/_public/schema-org/Relation/has/has_publication.public|has_publication.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_publication.internal|has_publication.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_publication.protect|has_publication.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_publication.private|has_publication.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_publication.personal|has_publication.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_publication.secret|has_publication.secret]]"
+dv_is_same_as:
+  - "[[has_publication]]"
+  - "[[/_public/schema-org/Relation/has/has_publication.public|has_publication.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_publication.internal|has_publication.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_publication.protect|has_publication.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_publication.private|has_publication.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_publication.personal|has_publication.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_publication.secret|has_publication.secret]]"
+---
 ﻿---
 aliases:
   - has publication

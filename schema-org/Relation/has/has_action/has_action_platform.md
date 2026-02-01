@@ -39,11 +39,12 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_action_platform.private|has_action_platform.private]]"
     - "[[/_personal/schema-org/Relation/has/has_action_platform.personal|has_action_platform.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_action_platform.secret|has_action_platform.secret]]"
+    - "[[has_action_platform]]"
 dv_has_domain: EntryPoint
 dv_has_name: has_action_platform
 dv_has_range: DigitalPlatformEnumeration, Text, URL
 dv_is_same_as:
-  - "[[has_action_platform|has_action_platform]]"
+  - "[[has_action_platform]]"
   - "[[/_public/schema-org/Relation/has/has_action_platform.public|has_action_platform.public]]"
   - "[[/_internal/schema-org/Relation/has/has_action_platform.internal|has_action_platform.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_action_platform.protect|has_action_platform.protect]]"

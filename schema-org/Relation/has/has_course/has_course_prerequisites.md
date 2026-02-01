@@ -50,6 +50,7 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_course_prerequisites.private|has_course_prerequisites.private]]"
     - "[[/_personal/schema-org/Relation/has/has_course_prerequisites.personal|has_course_prerequisites.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_course_prerequisites.secret|has_course_prerequisites.secret]]"
+    - "[[has_course_prerequisites]]"
 dv_has_domain: "[[../../../../Society/Communication/Media/Creative_Work/Course|Course]]"
 dv_has_name: "[[has_course_prerequisites]]"
 dv_has_range:
@@ -57,17 +58,18 @@ dv_has_range:
   - "[[../../../../Society/Communication/Media/Creative_Work/Course|Course]]"
   - "[[../../../Class/is_a_/Data_Type/Text]]"
 dv_is_same_as:
-  - "[[has_course_prerequisites|has_course_prerequisites]]"
+  - "[[has_course_prerequisites]]"
   - "[[/_public/schema-org/Relation/has/has_course_prerequisites.public|has_course_prerequisites.public]]"
   - "[[/_internal/schema-org/Relation/has/has_course_prerequisites.internal|has_course_prerequisites.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_course_prerequisites.protect|has_course_prerequisites.protect]]"
   - "[[/_private/schema-org/Relation/has/has_course_prerequisites.private|has_course_prerequisites.private]]"
   - "[[/_personal/schema-org/Relation/has/has_course_prerequisites.personal|has_course_prerequisites.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_course_prerequisites.secret|has_course_prerequisites.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
 ---
 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 

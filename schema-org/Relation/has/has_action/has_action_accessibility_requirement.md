@@ -39,21 +39,23 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_action_accessibility_requirement.private|has_action_accessibility_requirement.private]]"
     - "[[/_personal/schema-org/Relation/has/has_action_accessibility_requirement.personal|has_action_accessibility_requirement.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_action_accessibility_requirement.secret|has_action_accessibility_requirement.secret]]"
+    - "[[has_action_accessibility_requirement]]"
 dv_has_domain: ConsumeAction
 dv_has_name: has_action_accessibility_requirement
 dv_has_range: ActionAccessSpecification
 dv_is_same_as:
-  - "[[has_action_accessibility_requirement|has_action_accessibility_requirement]]"
+  - "[[has_action_accessibility_requirement]]"
   - "[[/_public/schema-org/Relation/has/has_action_accessibility_requirement.public|has_action_accessibility_requirement.public]]"
   - "[[/_internal/schema-org/Relation/has/has_action_accessibility_requirement.internal|has_action_accessibility_requirement.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_action_accessibility_requirement.protect|has_action_accessibility_requirement.protect]]"
   - "[[/_private/schema-org/Relation/has/has_action_accessibility_requirement.private|has_action_accessibility_requirement.private]]"
   - "[[/_personal/schema-org/Relation/has/has_action_accessibility_requirement.personal|has_action_accessibility_requirement.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_action_accessibility_requirement.secret|has_action_accessibility_requirement.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
 ---
 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 

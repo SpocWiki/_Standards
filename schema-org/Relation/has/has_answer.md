@@ -42,6 +42,7 @@ dv_#has_:
   range:
     - "[[../../../Society/Communication/Media/Creative_Work/Comment/Answer|Answer]]"
     - "[[../../../Collection/item_list|item_list]]"
+    - "[[../../Collection/item_list|item_list]]"
 dv_is_:
   same_as:
     - "[[has_answer]]"
@@ -58,7 +59,7 @@ dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Comment/Que
 dv_has_name: has_answer
 dv_has_range:
   - "[[../../../Society/Communication/Media/Creative_Work/Comment/Answer|Answer]]"
-  - "[[../../../Collection/item_list|item_list]]"
+  - "[[../../Collection/item_list|item_list]]"
 dv_has_child_property: "[[has_answer/has_answer_accepted|has_answer_accepted]]"
 dv_is_same_as:
   - "[[has_answer]]"
@@ -68,10 +69,11 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_answer.private|has_answer.private]]"
   - "[[/_personal/schema-org/Relation/has/has_answer.personal|has_answer.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_answer.secret|has_answer.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
 ---
 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 

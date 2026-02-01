@@ -30,7 +30,11 @@ type: Predi_Relation
 dv_has_:
   domain: "[[../../../Society/Communication/Media/Creative_Work/Dataset/Data_Feed|DataFeed]]"
   name: has_data_feed_element
-  range: ["[[../../Class/is_a_/Intangible/Data_Feed_Item|DataFeedItem]]", "[[../../Class/is_a_/Data_Type/Text|Text]]", "[[../../Class/Thing|Thing]]"]
+  range:
+    - "[[../../Class/is_a_/Intangible/Data_Feed_Item|DataFeedItem]]"
+    - "[[../../Class/is_a_/Data_Type/Text|Text]]"
+    - "[[../../Class/Thing|Thing]]"
+  inverse: "[[is_data_feed_element_of]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_data_feed_element|has_data_feed_element]]"
@@ -40,25 +44,31 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_data_feed_element.private|has_data_feed_element.private]]"
     - "[[/_personal/schema-org/Relation/has/has_data_feed_element.personal|has_data_feed_element.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_data_feed_element.secret|has_data_feed_element.secret]]"
-dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Dataset/Data_Feed|DataFeed]]" 
+    - "[[has_data_feed_element]]"
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Dataset/Data_Feed|DataFeed]]"
 dv_has_name: has_data_feed_element
-dv_has_range: ["[[../../Class/is_a_/Intangible/Data_Feed_Item|DataFeedItem]]", "[[../../Class/is_a_/Data_Type/Text|Text]]", "[[../../Class/Thing|Thing]]"]
+dv_has_range:
+  - "[[../../Class/is_a_/Intangible/Data_Feed_Item|DataFeedItem]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
+  - "[[../../Class/Thing|Thing]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_data_feed_element|has_data_feed_element]]"
+  - "[[has_data_feed_element]]"
   - "[[/_public/schema-org/Relation/has/has_data_feed_element.public|has_data_feed_element.public]]"
   - "[[/_internal/schema-org/Relation/has/has_data_feed_element.internal|has_data_feed_element.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_data_feed_element.protect|has_data_feed_element.protect]]"
   - "[[/_private/schema-org/Relation/has/has_data_feed_element.private|has_data_feed_element.private]]"
   - "[[/_personal/schema-org/Relation/has/has_data_feed_element.personal|has_data_feed_element.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_data_feed_element.secret|has_data_feed_element.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_data_feed_element_of]]"
 ---
 
 # [[has_data_feed_element]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_data_feed_element_of]]
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/data_feed_element : : `=this.dv_has_range` 

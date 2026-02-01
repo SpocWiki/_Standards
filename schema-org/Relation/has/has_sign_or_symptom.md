@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_sign_or_symptom]]"
+    - "[[/_public/schema-org/Relation/has/has_sign_or_symptom.public|has_sign_or_symptom.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_sign_or_symptom.internal|has_sign_or_symptom.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_sign_or_symptom.protect|has_sign_or_symptom.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_sign_or_symptom.private|has_sign_or_symptom.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_sign_or_symptom.personal|has_sign_or_symptom.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_sign_or_symptom.secret|has_sign_or_symptom.secret]]"
+dv_is_same_as:
+  - "[[has_sign_or_symptom]]"
+  - "[[/_public/schema-org/Relation/has/has_sign_or_symptom.public|has_sign_or_symptom.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_sign_or_symptom.internal|has_sign_or_symptom.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_sign_or_symptom.protect|has_sign_or_symptom.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_sign_or_symptom.private|has_sign_or_symptom.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_sign_or_symptom.personal|has_sign_or_symptom.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_sign_or_symptom.secret|has_sign_or_symptom.secret]]"
+---
 ﻿---
 aliases:
   - has sign-or-symptom

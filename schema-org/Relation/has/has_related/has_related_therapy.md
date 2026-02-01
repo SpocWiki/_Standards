@@ -28,7 +28,10 @@ title: has_related_therapy
 type: Predi_Relation
 dv_has_:
   related_therapy: "[[../../../../bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Therapy|Medical_Therapy]]"
-  domain: ["[[../../../../bio/Medicine/Anatomy/Anatomical_Structure|Anatomical_Structure]]", "[[../../../../bio/Medicine/Medical_Entity/Anatomical_System|Anatomical_System]]", "[[../../../../bio/Medicine/Medical_Entity/Superficial_Anatomy|Superficial_Anatomy]]"]
+  domain:
+    - "[[../../../../bio/Medicine/Anatomy/Anatomical_Structure|Anatomical_Structure]]"
+    - "[[../../../../bio/Medicine/Medical_Entity/Anatomical_System|Anatomical_System]]"
+    - "[[../../../../bio/Medicine/Medical_Entity/Superficial_Anatomy|Superficial_Anatomy]]"
   name: has_related_therapy
   range: "[[../../../../bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Therapy|Medical_Therapy]]"
 dv_has_related_therapy: "[[../../../../bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Therapy|Medical_Therapy]]"
@@ -41,11 +44,15 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_related_therapy.private|has_related_therapy.private]]"
     - "[[/_personal/schema-org/Relation/has/has_related_therapy.personal|has_related_therapy.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_related_therapy.secret|has_related_therapy.secret]]"
-dv_has_domain: ["[[../../../../bio/Medicine/Anatomy/Anatomical_Structure|Anatomical_Structure]]", "[[../../../../bio/Medicine/Medical_Entity/Anatomical_System|Anatomical_System]]", "[[../../../../bio/Medicine/Medical_Entity/Superficial_Anatomy|Superficial_Anatomy]]"]
+    - "[[has_related_therapy]]"
+dv_has_domain:
+  - "[[../../../../bio/Medicine/Anatomy/Anatomical_Structure|Anatomical_Structure]]"
+  - "[[../../../../bio/Medicine/Medical_Entity/Anatomical_System|Anatomical_System]]"
+  - "[[../../../../bio/Medicine/Medical_Entity/Superficial_Anatomy|Superficial_Anatomy]]"
 dv_has_name: has_related_therapy
 dv_has_range: "[[../../../../bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Therapy|Medical_Therapy]]"
 dv_is_same_as:
-  - "[[has_related_therapy|has_related_therapy]]"
+  - "[[has_related_therapy]]"
   - "[[/_public/schema-org/Relation/has/has_related_therapy.public|has_related_therapy.public]]"
   - "[[/_internal/schema-org/Relation/has/has_related_therapy.internal|has_related_therapy.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_related_therapy.protect|has_related_therapy.protect]]"

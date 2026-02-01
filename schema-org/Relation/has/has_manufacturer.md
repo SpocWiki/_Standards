@@ -29,6 +29,7 @@ dv_has_:
   domain: "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]"
   name: has_manufacturer
   range: "[[../../../Society/Agent/Community/Organization|Organization]]"
+  inverse: "[[is_manufacturer_of]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_manufacturer|has_manufacturer]]"
@@ -51,6 +52,7 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/has/has_manufacturer.personal|has_manufacturer.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_manufacturer.secret|has_manufacturer.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_manufacturer_of]]"
 ---
 
 # [[has_manufacturer]] 
@@ -58,7 +60,7 @@ dv_is_a: "[[../../Relation|Relation]]"
 is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_manufacturer_of]]  
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/manufacturer : : `=this.dv_has_range`  

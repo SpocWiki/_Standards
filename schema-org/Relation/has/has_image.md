@@ -26,10 +26,7 @@ dv_is_a: "[[../../Relation|Relation]]"
 dv_has_:
   inverse: "[[is_image_of]]"
   child_:
-    property:
-      - "[[has_layout_image]]"
-      - "[[has_logo]]"
-      - "[[has_photo]]"
+    property: "[[_Standards/schema-org/Relation/has/has_layout_image.md|has_layout_image]],[[_Standards/schema-org/Relation/has/has_logo.md|has_logo]],[[_Standards/schema-org/Relation/has/has_photo.md|has_photo]]"
   domain: "[[../../Class/Thing|Thing]]"
   name: has_image
 dv_has_range:
@@ -45,10 +42,7 @@ dv_is_:
     - "[[/_personal/schema-org/Relation/has/has_image.personal|has_image.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_image.secret|has_image.secret]]"
 dv_has_inverse: "[[is_image_of]]"
-dv_has_child_property:
-  - "[[has_layout_image]]"
-  - "[[has_logo]]"
-  - "[[has_photo]]"
+dv_has_child_property: "[[_Standards/schema-org/Relation/has/has_layout_image.md|has_layout_image]],[[_Standards/schema-org/Relation/has/has_logo.md|has_logo]],[[_Standards/schema-org/Relation/has/has_photo.md|has_photo]]"
 dv_has_domain: "[[../../Class/Thing|Thing]]"
 dv_has_name: has_image
 dv_is_same_as:

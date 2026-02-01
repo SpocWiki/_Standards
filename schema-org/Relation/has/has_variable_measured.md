@@ -1,3 +1,31 @@
+---
+dv_has_:
+  variable_measured: PropertyValue, Text
+  domain: Dataset
+  name: is_variable_measured
+  range: PropertyValue, Text
+dv_has_variable_measured: PropertyValue, Text
+dv_is_:
+  same_as:
+    - "[[has_variable_measured]]"
+    - "[[/_public/schema-org/Relation/has/has_variable_measured.public|has_variable_measured.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_variable_measured.internal|has_variable_measured.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_variable_measured.protect|has_variable_measured.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_variable_measured.private|has_variable_measured.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_variable_measured.personal|has_variable_measured.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_variable_measured.secret|has_variable_measured.secret]]"
+dv_has_domain: Dataset
+dv_has_name: is_variable_measured
+dv_has_range: PropertyValue, Text
+dv_is_same_as:
+  - "[[has_variable_measured]]"
+  - "[[/_public/schema-org/Relation/has/has_variable_measured.public|has_variable_measured.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_variable_measured.internal|has_variable_measured.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_variable_measured.protect|has_variable_measured.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_variable_measured.private|has_variable_measured.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_variable_measured.personal|has_variable_measured.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_variable_measured.secret|has_variable_measured.secret]]"
+---
 ﻿---
 aliases:
   - has variable-measured
@@ -40,7 +68,7 @@ has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
 - #has_/variable_measured :: PropertyValue, Text  
-- [ has_variable_measured :: PropertyValue, Text ] 
+- has_variable_measured = `=this.dv_has_variable_measured`  
 - is_variable_measured_of : : `=this.dv_has_domain` 
 - #is_/variable_measured_of : : `=this.dv_has_domain`
 
@@ -48,10 +76,10 @@ The variableMeasured property can indicate (repeated as necessary) the  variable
 
 Relation describes that: 
 
-#has_/domain  :: Dataset  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: is_variable_measured )
-(has_/range :: PropertyValue, Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

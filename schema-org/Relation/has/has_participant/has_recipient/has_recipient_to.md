@@ -50,11 +50,7 @@ dv_is_:
 dv_has_parent_property: recipient
 dv_has_domain: "[[../../../../../Society/Communication/Media/Creative_Work/Message|Message]]"
 dv_has_name: is_recipient_to
-dv_has_range:
-  - "[[../../../../Class/is_a_/Intangible/Audience|Audience]]"
-  - "[[../../../../Class/is_a_/Intangible/Structured_Value/Contact_Point|Contact_Point]]"
-  - "[[../../../../../Society/Agent/Community/Organization|Organization]]"
-  - "[[../../../../../Society/Agent/Person|Person]]"
+dv_has_range: "[[_Standards/schema-org/Class/is_a_/Intangible/Audience.md|Audience]],[[_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point.md|Contact_Point]],[[_Standards/Society/Agent/Community/Organization.md|Organization]],[[_Standards/Society/Agent/Person.md|Person]]"
 dv_is_same_as:
   - "[[has_recipient_to]]"
   - "[[/_public/schema-org/Relation/has/has_recipient_to.public|has_recipient_to.public]]"

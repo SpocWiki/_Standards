@@ -42,11 +42,12 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_nutrition.private|has_nutrition.private]]"
     - "[[/_personal/schema-org/Relation/has/has_nutrition.personal|has_nutrition.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_nutrition.secret|has_nutrition.secret]]"
+    - "[[has_nutrition]]"
 dv_has_domain: MenuItem, Recipe
 dv_has_name: has_nutrition
 dv_has_range: NutritionInformation
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_nutrition|has_nutrition]]"
+  - "[[has_nutrition]]"
   - "[[/_public/schema-org/Relation/has/has_nutrition.public|has_nutrition.public]]"
   - "[[/_internal/schema-org/Relation/has/has_nutrition.internal|has_nutrition.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_nutrition.protect|has_nutrition.protect]]"

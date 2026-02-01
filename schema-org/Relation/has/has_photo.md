@@ -1,3 +1,34 @@
+---
+dv_has_:
+  photo: ImageObject, Photograph
+  domain: Place
+  name: is_photo
+  range: ImageObject, Photograph
+  parent_:
+    property: image
+dv_has_photo: ImageObject, Photograph
+dv_is_:
+  same_as:
+    - "[[has_photo]]"
+    - "[[/_public/schema-org/Relation/has/has_photo.public|has_photo.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_photo.internal|has_photo.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_photo.protect|has_photo.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_photo.private|has_photo.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_photo.personal|has_photo.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_photo.secret|has_photo.secret]]"
+dv_has_domain: Place
+dv_has_name: is_photo
+dv_has_range: ImageObject, Photograph
+dv_has_parent_property: image
+dv_is_same_as:
+  - "[[has_photo]]"
+  - "[[/_public/schema-org/Relation/has/has_photo.public|has_photo.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_photo.internal|has_photo.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_photo.protect|has_photo.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_photo.private|has_photo.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_photo.personal|has_photo.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_photo.secret|has_photo.secret]]"
+---
 ﻿---
 aliases:
   - has photo
@@ -36,18 +67,18 @@ is_a = `=this.dv_is_a`
 #class/Relation
 has_inverse = `=this.dv_has_inverse`
 - #has_/photo :: ImageObject, Photograph  
-- [ has_photo :: ImageObject, Photograph ] 
+- has_photo = `=this.dv_has_photo`  
 
 A photograph of this place.
 
 Relation describes that: 
 
-#has_/domain  :: Place  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: is_photo )
-(has_/range :: ImageObject, Photograph )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#has_/parent_/property  :: image  
+has_parent_property = `=this.dv_has_parent_property` 
 
 ## Confidential Links & Embeds: 
 

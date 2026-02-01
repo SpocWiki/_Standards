@@ -55,11 +55,12 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/has/has_capital.personal|has_capital.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_capital.secret|has_capital.secret]]"
 dv_has_inverse: "[[is_capital_of]]"
+dv_is_a: "[[../../Relation|Relation]]"
 ---
 
 # [[has_capital]] 
 
-is_a :: [[../../Relation|Relation]]
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 

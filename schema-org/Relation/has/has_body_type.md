@@ -30,10 +30,7 @@ dv_has_:
   inverse: "[[is_body_type_of]]"
   domain: "[[../../../Technology/Transport/Vehicle|Vehicle]]"
   name: has_body_type
-  range:
-    - "[[../../Enumeration/Qualitative_Value|Qualitative_Value]]"
-    - "[[../../Class/is_a_/Data_Type/Text|Text]]"
-    - "[[../../Class/is_a_/Data_Type/Text/Url|Url]]"
+  range: "[[_Standards/schema-org/Enumeration/Qualitative_Value.md|Qualitative_Value]],[[_Standards/schema-org/Class/is_a_/Data_Type/Text.md|Text]],[[_Standards/schema-org/Class/is_a_/Data_Type/Text/Url.md|Url]]"
 dv_is_:
   part_of: https://auto.schema.org
   same_as:
@@ -48,10 +45,7 @@ dv_has_inverse: "[[is_body_type_of]]"
 dv_is_part_of: https://auto.schema.org
 dv_has_domain: "[[../../../Technology/Transport/Vehicle|Vehicle]]"
 dv_has_name: has_body_type
-dv_has_range:
-  - "[[../../Enumeration/Qualitative_Value|Qualitative_Value]]"
-  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
-  - "[[../../Class/is_a_/Data_Type/Text/Url|Url]]"
+dv_has_range: "[[_Standards/schema-org/Enumeration/Qualitative_Value.md|Qualitative_Value]],[[_Standards/schema-org/Class/is_a_/Data_Type/Text.md|Text]],[[_Standards/schema-org/Class/is_a_/Data_Type/Text/Url.md|Url]]"
 dv_is_same_as:
   - "[[has_body_type]]"
   - "[[/_public/schema-org/Relation/has/has_body_type.public|has_body_type.public]]"
@@ -60,11 +54,12 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_body_type.private|has_body_type.private]]"
   - "[[/_personal/schema-org/Relation/has/has_body_type.personal|has_body_type.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_body_type.secret|has_body_type.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
 ---
 
 # [[has_body_type]] 
 
-is_a :: [[../../Relation|Relation]]
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 

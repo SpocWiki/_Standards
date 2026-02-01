@@ -27,10 +27,7 @@ tags:
 title: has_main_entity
 type: Predi_Relation
 dv_has_:
-  inverse:
-    - "[[../is/is_main_entity_of_page]]"
-    - "[[is_main_entity_of]]"
-    - "[[../is/is_main_entity_of_page|is_main_entity_of_page]]"
+  inverse: "[[../is/is_main_entity_of_page|is_main_entity_of_page]]"
   parent_:
     property: about
   domain: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
@@ -46,9 +43,7 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_main_entity.private|has_main_entity.private]]"
     - "[[/_personal/schema-org/Relation/has/has_main_entity.personal|has_main_entity.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_main_entity.secret|has_main_entity.secret]]"
-dv_has_inverse:
-  - "[[../is/is_main_entity_of_page|is_main_entity_of_page]]"
-  - "[[is_main_entity_of]]"
+dv_has_inverse: "[[../is/is_main_entity_of_page|is_main_entity_of_page]]"
 dv_has_parent_property: about
 dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
 dv_has_name: has_main_entity
@@ -65,7 +60,7 @@ dv_is_same_as:
 
 # [[has_main_entity]] 
 
-#has_/inverse  :: [[../is/is_main_entity_of_page|is_main_entity_of_page]]  
+has_inverse = `=this.dv_has_inverse` 
 
 has_parent_property = `=this.dv_has_parent_property` 
 

@@ -28,7 +28,10 @@ title: has_related_condition
 type: Predi_Relation
 dv_has_:
   related_condition: "[[../../../../bio/Medicine/Medical_Condition|Medical_Condition]]"
-  domain: ["[[../../../../bio/Medicine/Anatomy/Anatomical_Structure|Anatomical_Structure]]", "[[../../../../bio/Medicine/Medical_Entity/Anatomical_System|Anatomical_System]]", "[[../../../../bio/Medicine/Medical_Entity/Superficial_Anatomy|Superficial_Anatomy]]"]
+  domain:
+    - "[[../../../../bio/Medicine/Anatomy/Anatomical_Structure|Anatomical_Structure]]"
+    - "[[../../../../bio/Medicine/Medical_Entity/Anatomical_System|Anatomical_System]]"
+    - "[[../../../../bio/Medicine/Medical_Entity/Superficial_Anatomy|Superficial_Anatomy]]"
   name: is_related_condition
   range: "[[../../../../bio/Medicine/Medical_Condition|Medical_Condition]]"
 dv_has_related_condition: "[[../../../../bio/Medicine/Medical_Condition|Medical_Condition]]"
@@ -41,11 +44,15 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_related_condition.private|has_related_condition.private]]"
     - "[[/_personal/schema-org/Relation/has/has_related_condition.personal|has_related_condition.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_related_condition.secret|has_related_condition.secret]]"
-dv_has_domain: ["[[../../../../bio/Medicine/Anatomy/Anatomical_Structure|Anatomical_Structure]]", "[[../../../../bio/Medicine/Medical_Entity/Anatomical_System|Anatomical_System]]", "[[../../../../bio/Medicine/Medical_Entity/Superficial_Anatomy|Superficial_Anatomy]]"]
+    - "[[has_related_condition]]"
+dv_has_domain:
+  - "[[../../../../bio/Medicine/Anatomy/Anatomical_Structure|Anatomical_Structure]]"
+  - "[[../../../../bio/Medicine/Medical_Entity/Anatomical_System|Anatomical_System]]"
+  - "[[../../../../bio/Medicine/Medical_Entity/Superficial_Anatomy|Superficial_Anatomy]]"
 dv_has_name: is_related_condition
 dv_has_range: "[[../../../../bio/Medicine/Medical_Condition|Medical_Condition]]"
 dv_is_same_as:
-  - "[[has_related_condition|has_related_condition]]"
+  - "[[has_related_condition]]"
   - "[[/_public/schema-org/Relation/has/has_related_condition.public|has_related_condition.public]]"
   - "[[/_internal/schema-org/Relation/has/has_related_condition.internal|has_related_condition.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_related_condition.protect|has_related_condition.protect]]"

@@ -45,6 +45,7 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_interaction_statistic.private|has_interaction_statistic.private]]"
     - "[[/_personal/schema-org/Relation/has/has_interaction_statistic.personal|has_interaction_statistic.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_interaction_statistic.secret|has_interaction_statistic.secret]]"
+    - "[[has_interaction_statistic]]"
 dv_has_domain:
   - "[[../../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
   - "[[../../../../Society/Agent/Community/Organization|Organization]]"
@@ -52,7 +53,7 @@ dv_has_domain:
 dv_has_name: has_interaction_statistic
 dv_has_range: "[[../../../Class/is_a_/Intangible/Structured_Value/Interaction_Counter|Interaction_Counter]]"
 dv_is_same_as:
-  - "[[has_interaction_statistic|has_interaction_statistic]]"
+  - "[[has_interaction_statistic]]"
   - "[[/_public/schema-org/Relation/has/has_interaction_statistic.public|has_interaction_statistic.public]]"
   - "[[/_internal/schema-org/Relation/has/has_interaction_statistic.internal|has_interaction_statistic.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_interaction_statistic.protect|has_interaction_statistic.protect]]"

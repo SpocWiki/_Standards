@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_type_of_bed]]"
+    - "[[/_public/schema-org/Relation/has/has_type_of_bed.public|has_type_of_bed.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_type_of_bed.internal|has_type_of_bed.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_type_of_bed.protect|has_type_of_bed.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_type_of_bed.private|has_type_of_bed.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_type_of_bed.personal|has_type_of_bed.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_type_of_bed.secret|has_type_of_bed.secret]]"
+dv_is_same_as:
+  - "[[has_type_of_bed]]"
+  - "[[/_public/schema-org/Relation/has/has_type_of_bed.public|has_type_of_bed.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_type_of_bed.internal|has_type_of_bed.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_type_of_bed.protect|has_type_of_bed.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_type_of_bed.private|has_type_of_bed.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_type_of_bed.personal|has_type_of_bed.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_type_of_bed.secret|has_type_of_bed.secret]]"
+---
 ﻿---
 aliases:
   - has type-of-bed

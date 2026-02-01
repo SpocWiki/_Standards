@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_preparation]]"
+    - "[[/_public/schema-org/Relation/has/has_preparation.public|has_preparation.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_preparation.internal|has_preparation.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_preparation.protect|has_preparation.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_preparation.private|has_preparation.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_preparation.personal|has_preparation.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_preparation.secret|has_preparation.secret]]"
+dv_is_same_as:
+  - "[[has_preparation]]"
+  - "[[/_public/schema-org/Relation/has/has_preparation.public|has_preparation.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_preparation.internal|has_preparation.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_preparation.protect|has_preparation.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_preparation.private|has_preparation.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_preparation.personal|has_preparation.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_preparation.secret|has_preparation.secret]]"
+---
 ﻿---
 aliases:
   - has preparation

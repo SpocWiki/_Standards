@@ -41,11 +41,12 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_course_instance.private|has_course_instance.private]]"
     - "[[/_personal/schema-org/Relation/has/has_course_instance.personal|has_course_instance.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_course_instance.secret|has_course_instance.secret]]"
+    - "[[has_course_instance]]"
 dv_has_domain: "[[../../../../Society/Communication/Media/Creative_Work/Course|Course]]"
 dv_has_name: "[[has_course_instance]]"
 dv_has_range: "[[../../../Class/is_a_/Event/Course_Instance|Course_Instance]]"
 dv_is_same_as:
-  - "[[has_course_instance|has_course_instance]]"
+  - "[[has_course_instance]]"
   - "[[/_public/schema-org/Relation/has/has_course_instance.public|has_course_instance.public]]"
   - "[[/_internal/schema-org/Relation/has/has_course_instance.internal|has_course_instance.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_course_instance.protect|has_course_instance.protect]]"

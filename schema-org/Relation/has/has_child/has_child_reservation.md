@@ -42,21 +42,23 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_child_reservation.private|has_child_reservation.private]]"
     - "[[/_personal/schema-org/Relation/has/has_child_reservation.personal|has_child_reservation.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_child_reservation.secret|has_child_reservation.secret]]"
+    - "[[has_child_reservation]]"
 dv_has_domain: "[[../../../Class/is_a_/Intangible/Reservation/Reservation_Package|Reservation_Package]]"
 dv_has_name: has_child_reservation
 dv_has_range: "[[../../../Class/is_a_/Intangible/Reservation|Reservation]]"
 dv_is_same_as:
-  - "[[has_child_reservation|has_child_reservation]]"
+  - "[[has_child_reservation]]"
   - "[[/_public/schema-org/Relation/has/has_child_reservation.public|has_child_reservation.public]]"
   - "[[/_internal/schema-org/Relation/has/has_child_reservation.internal|has_child_reservation.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_child_reservation.protect|has_child_reservation.protect]]"
   - "[[/_private/schema-org/Relation/has/has_child_reservation.private|has_child_reservation.private]]"
   - "[[/_personal/schema-org/Relation/has/has_child_reservation.personal|has_child_reservation.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_child_reservation.secret|has_child_reservation.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
 ---
 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 

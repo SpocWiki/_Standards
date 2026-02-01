@@ -23,9 +23,15 @@ tags:
 title: has_bed
 type: Predi_Relation
 dv_has_:
-  domain: ["[[../../../Earth/Geography/Place/Accommodation/Room/Hotel_Room|Hotel_Room]]", "[[../../../Earth/Geography/Place/Accommodation/Suite|Suite]]"]
+  domain:
+    - "[[../../../Earth/Geography/Place/Accommodation/Room/Hotel_Room|Hotel_Room]]"
+    - "[[../../../Earth/Geography/Place/Accommodation/Suite|Suite]]"
   name: has_bed
-  range: ["[[../../Class/is_a_/Intangible/Bed_Details|Bed_Details|]]", "[[../../Enumeration/Qualitative_Value/Bed_Type|Bed_Type]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
+  range:
+    - "[[../../Class/is_a_/Intangible/Bed_Details|Bed_Details|]]"
+    - "[[../../Enumeration/Qualitative_Value/Bed_Type|Bed_Type]]"
+    - "[[../../Class/is_a_/Data_Type/Text|Text]]"
+  inverse: "[[is_bed_of]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_bed|has_bed]]"
@@ -35,26 +41,34 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_bed.private|has_bed.private]]"
     - "[[/_personal/schema-org/Relation/has/has_bed.personal|has_bed.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_bed.secret|has_bed.secret]]"
-dv_has_domain: ["[[../../../Earth/Geography/Place/Accommodation/Room/Hotel_Room|Hotel_Room]]", "[[../../../Earth/Geography/Place/Accommodation/Suite|Suite]]"]
+    - "[[has_bed]]"
+dv_has_domain:
+  - "[[../../../Earth/Geography/Place/Accommodation/Room/Hotel_Room|Hotel_Room]]"
+  - "[[../../../Earth/Geography/Place/Accommodation/Suite|Suite]]"
 dv_has_name: has_bed
-dv_has_range: ["[[../../Class/is_a_/Intangible/Bed_Details|Bed_Details|]]", "[[../../Enumeration/Qualitative_Value/Bed_Type|Bed_Type]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
+dv_has_range:
+  - "[[../../Class/is_a_/Intangible/Bed_Details|Bed_Details|]]"
+  - "[[../../Enumeration/Qualitative_Value/Bed_Type|Bed_Type]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_bed|has_bed]]"
+  - "[[has_bed]]"
   - "[[/_public/schema-org/Relation/has/has_bed.public|has_bed.public]]"
   - "[[/_internal/schema-org/Relation/has/has_bed.internal|has_bed.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_bed.protect|has_bed.protect]]"
   - "[[/_private/schema-org/Relation/has/has_bed.private|has_bed.private]]"
   - "[[/_personal/schema-org/Relation/has/has_bed.personal|has_bed.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_bed.secret|has_bed.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_bed_of]]"
 ---
 
 # [[has_bed]] 
 
-is_a :: [[../../Relation|Relation]]
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 
-#has_/inverse :: [[is_bed_of]] 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/bed : : `=this.dv_has_range`

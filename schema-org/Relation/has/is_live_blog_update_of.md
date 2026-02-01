@@ -31,6 +31,7 @@ dv_has_:
   domain: "[[../../../Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting/Live_Blog_Posting|Live_Blog_Posting]]"
   name: is_live_blog_update_of
   range: "[[../../../Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting|Blog_Posting]]"
+  inverse: "[[has_live_blog_update]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/is_live_blog_update_of|is_live_blog_update_of]]"
@@ -40,25 +41,28 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/is_live_blog_update_of.private|is_live_blog_update_of.private]]"
     - "[[/_personal/schema-org/Relation/has/is_live_blog_update_of.personal|is_live_blog_update_of.personal]]"
     - "[[/_secret/schema-org/Relation/has/is_live_blog_update_of.secret|is_live_blog_update_of.secret]]"
+    - "[[is_live_blog_update_of]]"
 dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting/Live_Blog_Posting|Live_Blog_Posting]]"
 dv_has_name: is_live_blog_update_of
 dv_has_range: "[[../../../Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting|Blog_Posting]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/is_live_blog_update_of|is_live_blog_update_of]]"
+  - "[[is_live_blog_update_of]]"
   - "[[/_public/schema-org/Relation/has/is_live_blog_update_of.public|is_live_blog_update_of.public]]"
   - "[[/_internal/schema-org/Relation/has/is_live_blog_update_of.internal|is_live_blog_update_of.internal]]"
   - "[[/_protect/schema-org/Relation/has/is_live_blog_update_of.protect|is_live_blog_update_of.protect]]"
   - "[[/_private/schema-org/Relation/has/is_live_blog_update_of.private|is_live_blog_update_of.private]]"
   - "[[/_personal/schema-org/Relation/has/is_live_blog_update_of.personal|is_live_blog_update_of.personal]]"
   - "[[/_secret/schema-org/Relation/has/is_live_blog_update_of.secret|is_live_blog_update_of.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[has_live_blog_update]]"
 ---
 
 # [[is_live_blog_update_of]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[has_live_blog_update]]
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - is_live_blog_update_of : : `=this.dv_has_range`  

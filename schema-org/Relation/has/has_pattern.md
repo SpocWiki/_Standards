@@ -1,3 +1,31 @@
+---
+dv_has_:
+  pattern: DefinedTerm, Text
+  domain: CreativeWork, Product
+  name: has_pattern
+  range: DefinedTerm, Text
+dv_has_pattern: DefinedTerm, Text
+dv_is_:
+  same_as:
+    - "[[has_pattern]]"
+    - "[[/_public/schema-org/Relation/has/has_pattern.public|has_pattern.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_pattern.internal|has_pattern.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_pattern.protect|has_pattern.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_pattern.private|has_pattern.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_pattern.personal|has_pattern.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_pattern.secret|has_pattern.secret]]"
+dv_has_domain: CreativeWork, Product
+dv_has_name: has_pattern
+dv_has_range: DefinedTerm, Text
+dv_is_same_as:
+  - "[[has_pattern]]"
+  - "[[/_public/schema-org/Relation/has/has_pattern.public|has_pattern.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_pattern.internal|has_pattern.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_pattern.protect|has_pattern.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_pattern.private|has_pattern.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_pattern.personal|has_pattern.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_pattern.secret|has_pattern.secret]]"
+---
 ﻿---
 aliases:
   - has pattern
@@ -36,7 +64,7 @@ has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
 - #has_/pattern :: DefinedTerm, Text  
-- [ has_pattern :: DefinedTerm, Text ] 
+- has_pattern = `=this.dv_has_pattern`  
 - is_pattern_of : : `=this.dv_has_domain` 
 - #is_/pattern_of : : `=this.dv_has_domain`
 
@@ -46,10 +74,10 @@ Values are typically expressed as text, although links to controlled value schem
 
 Relation describes that: 
 
-#has_/domain  :: CreativeWork, Product  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: has_pattern )
-(has_/range :: DefinedTerm, Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

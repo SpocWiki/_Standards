@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_translator]]"
+    - "[[/_public/schema-org/Relation/has/has_translator.public|has_translator.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_translator.internal|has_translator.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_translator.protect|has_translator.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_translator.private|has_translator.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_translator.personal|has_translator.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_translator.secret|has_translator.secret]]"
+dv_is_same_as:
+  - "[[has_translator]]"
+  - "[[/_public/schema-org/Relation/has/has_translator.public|has_translator.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_translator.internal|has_translator.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_translator.protect|has_translator.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_translator.private|has_translator.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_translator.personal|has_translator.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_translator.secret|has_translator.secret]]"
+---
 ﻿---
 aliases:
   - has translator

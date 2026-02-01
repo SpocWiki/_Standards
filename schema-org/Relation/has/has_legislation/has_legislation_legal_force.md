@@ -9,7 +9,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,24 +17,51 @@ keywords:
   - legislation
   - legal
   - force
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_legislation_legal_force
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_legislation_legal_force
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_:
+  domain: "[[../../../../Society/Communication/Media/Creative_Work/Legislation|Legislation]]"
+  name: has_legislation_legal_force
+  range: "[[../../../Enumeration/Status_Enumeration/Legal_Force_Status|Legal_Force_Status]]"
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[has_legislation_legal_force]]"
+    - "[[/_public/schema-org/Relation/has/has_legislation_legal_force.public|has_legislation_legal_force.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_legislation_legal_force.internal|has_legislation_legal_force.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_legislation_legal_force.protect|has_legislation_legal_force.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_legislation_legal_force.private|has_legislation_legal_force.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_legislation_legal_force.personal|has_legislation_legal_force.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_legislation_legal_force.secret|has_legislation_legal_force.secret]]"
+dv_is_part_of: "pending:"
+dv_has_domain: "[[../../../../Society/Communication/Media/Creative_Work/Legislation|Legislation]]"
+dv_has_name: has_legislation_legal_force
+dv_has_range: "[[../../../Enumeration/Status_Enumeration/Legal_Force_Status|Legal_Force_Status]]"
+dv_is_same_as:
+  - "[[has_legislation_legal_force]]"
+  - "[[/_public/schema-org/Relation/has/has_legislation_legal_force.public|has_legislation_legal_force.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_legislation_legal_force.internal|has_legislation_legal_force.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_legislation_legal_force.protect|has_legislation_legal_force.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_legislation_legal_force.private|has_legislation_legal_force.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_legislation_legal_force.personal|has_legislation_legal_force.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_legislation_legal_force.secret|has_legislation_legal_force.secret]]"
 ---
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
 - #has_/legislation_/legal_force : : LegalForceStatus  
@@ -44,9 +71,9 @@ Whether the legislation is currently in force, not in force, or partially in for
 
 Relation describes that: 
 
-#has_/domain  :: [[../../../../Society/Communication/Media/Creative_Work/Legislation|Legislation]]   
-(has_/name :: has_legislation_legal_force )
-(has_/range :: [[../../../Enumeration/Status_Enumeration/Legal_Force_Status|Legal_Force_Status]] )
+has_domain = `=this.dv_has_domain` 
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

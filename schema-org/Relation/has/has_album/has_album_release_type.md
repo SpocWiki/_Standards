@@ -40,21 +40,23 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_album_release_type.private|has_album_release_type.private]]"
     - "[[/_personal/schema-org/Relation/has/has_album_release_type.personal|has_album_release_type.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_album_release_type.secret|has_album_release_type.secret]]"
+    - "[[has_album_release_type]]"
 dv_has_domain: MusicAlbum
 dv_has_name: has_album_release_type
 dv_has_range: MusicAlbumReleaseType
 dv_is_same_as:
-  - "[[has_album_release_type|has_album_release_type]]"
+  - "[[has_album_release_type]]"
   - "[[/_public/schema-org/Relation/has/has_album_release_type.public|has_album_release_type.public]]"
   - "[[/_internal/schema-org/Relation/has/has_album_release_type.internal|has_album_release_type.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_album_release_type.protect|has_album_release_type.protect]]"
   - "[[/_private/schema-org/Relation/has/has_album_release_type.private|has_album_release_type.private]]"
   - "[[/_personal/schema-org/Relation/has/has_album_release_type.personal|has_album_release_type.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_album_release_type.secret|has_album_release_type.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
 ---
 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 

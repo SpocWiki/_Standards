@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_vehicle_engine]]"
+    - "[[/_public/schema-org/Relation/has/has_vehicle_engine.public|has_vehicle_engine.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_vehicle_engine.internal|has_vehicle_engine.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_vehicle_engine.protect|has_vehicle_engine.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_vehicle_engine.private|has_vehicle_engine.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_vehicle_engine.personal|has_vehicle_engine.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_vehicle_engine.secret|has_vehicle_engine.secret]]"
+dv_is_same_as:
+  - "[[has_vehicle_engine]]"
+  - "[[/_public/schema-org/Relation/has/has_vehicle_engine.public|has_vehicle_engine.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_vehicle_engine.internal|has_vehicle_engine.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_vehicle_engine.protect|has_vehicle_engine.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_vehicle_engine.private|has_vehicle_engine.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_vehicle_engine.personal|has_vehicle_engine.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_vehicle_engine.secret|has_vehicle_engine.secret]]"
+---
 ﻿---
 aliases:
   - has vehicle-engine

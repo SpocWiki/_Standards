@@ -9,44 +9,73 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - shipping_destination
   - shipping
   - destination
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_shipping_destination
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_shipping_destination
 type: Predi_Relation
+dv_has_:
+  shipping_destination: DefinedRegion
+  domain: DeliveryTimeSettings, OfferShippingDetails, ShippingRateSettings
+  name: is_shipping_destination
+  range: DefinedRegion
+dv_has_shipping_destination: DefinedRegion
+dv_is_a: "[[../../Relation|Relation]]"
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[has_shipping_destination]]"
+    - "[[/_public/schema-org/Relation/has/has_shipping_destination.public|has_shipping_destination.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_shipping_destination.internal|has_shipping_destination.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_shipping_destination.protect|has_shipping_destination.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_shipping_destination.private|has_shipping_destination.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_shipping_destination.personal|has_shipping_destination.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_shipping_destination.secret|has_shipping_destination.secret]]"
+dv_is_part_of: "pending:"
+dv_has_domain: DeliveryTimeSettings, OfferShippingDetails, ShippingRateSettings
+dv_has_name: is_shipping_destination
+dv_has_range: DefinedRegion
+dv_is_same_as:
+  - "[[has_shipping_destination]]"
+  - "[[/_public/schema-org/Relation/has/has_shipping_destination.public|has_shipping_destination.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_shipping_destination.internal|has_shipping_destination.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_shipping_destination.protect|has_shipping_destination.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_shipping_destination.private|has_shipping_destination.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_shipping_destination.personal|has_shipping_destination.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_shipping_destination.secret|has_shipping_destination.secret]]"
 ---
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
 - #has_/shipping_destination :: DefinedRegion  
-- [ has_shipping_destination :: DefinedRegion ] 
+- has_shipping_destination = `=this.dv_has_shipping_destination`  
 
 indicates (possibly multiple) shipping destinations. These can be defined in several ways, e.g. postalCode ranges.
 
 Relation describes that: 
 
-#has_/domain  :: DeliveryTimeSettings, OfferShippingDetails, ShippingRateSettings  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: is_shipping_destination )
-(has_/range :: DefinedRegion )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_status]]"
+    - "[[/_public/schema-org/Relation/has/has_status.public|has_status.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_status.internal|has_status.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_status.protect|has_status.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_status.private|has_status.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_status.personal|has_status.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_status.secret|has_status.secret]]"
+dv_is_same_as:
+  - "[[has_status]]"
+  - "[[/_public/schema-org/Relation/has/has_status.public|has_status.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_status.internal|has_status.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_status.protect|has_status.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_status.private|has_status.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_status.personal|has_status.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_status.secret|has_status.secret]]"
+---
 ﻿---
 aliases:
   - has status

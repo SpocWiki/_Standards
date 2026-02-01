@@ -1,3 +1,31 @@
+---
+dv_has_:
+  qualifications: EducationalOccupationalCredential, Text
+  domain: JobPosting, Occupation
+  name: is_qualifications
+  range: EducationalOccupationalCredential, Text
+dv_has_qualifications: EducationalOccupationalCredential, Text
+dv_is_:
+  same_as:
+    - "[[has_qualifications]]"
+    - "[[/_public/schema-org/Relation/has/has_qualifications.public|has_qualifications.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_qualifications.internal|has_qualifications.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_qualifications.protect|has_qualifications.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_qualifications.private|has_qualifications.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_qualifications.personal|has_qualifications.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_qualifications.secret|has_qualifications.secret]]"
+dv_has_domain: JobPosting, Occupation
+dv_has_name: is_qualifications
+dv_has_range: EducationalOccupationalCredential, Text
+dv_is_same_as:
+  - "[[has_qualifications]]"
+  - "[[/_public/schema-org/Relation/has/has_qualifications.public|has_qualifications.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_qualifications.internal|has_qualifications.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_qualifications.protect|has_qualifications.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_qualifications.private|has_qualifications.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_qualifications.personal|has_qualifications.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_qualifications.secret|has_qualifications.secret]]"
+---
 ﻿---
 aliases:
   - has qualifications
@@ -36,7 +64,7 @@ has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
 - #has_/qualifications :: EducationalOccupationalCredential, Text  
-- [ has_qualifications :: EducationalOccupationalCredential, Text ] 
+- has_qualifications = `=this.dv_has_qualifications`  
 - is_qualifications_of : : `=this.dv_has_domain` 
 - #is_/qualifications_of : : `=this.dv_has_domain`
 
@@ -44,10 +72,10 @@ Specific qualifications required for this role or Occupation.
 
 Relation describes that: 
 
-#has_/domain  :: JobPosting, Occupation  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: is_qualifications )
-(has_/range :: EducationalOccupationalCredential, Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

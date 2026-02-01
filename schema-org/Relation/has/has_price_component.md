@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_price_component]]"
+    - "[[/_public/schema-org/Relation/has/has_price_component.public|has_price_component.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_price_component.internal|has_price_component.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_price_component.protect|has_price_component.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_price_component.private|has_price_component.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_price_component.personal|has_price_component.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_price_component.secret|has_price_component.secret]]"
+dv_is_same_as:
+  - "[[has_price_component]]"
+  - "[[/_public/schema-org/Relation/has/has_price_component.public|has_price_component.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_price_component.internal|has_price_component.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_price_component.protect|has_price_component.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_price_component.private|has_price_component.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_price_component.personal|has_price_component.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_price_component.secret|has_price_component.secret]]"
+---
 ﻿---
 aliases:
   - has price-component

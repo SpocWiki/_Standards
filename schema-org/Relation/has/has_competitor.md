@@ -26,9 +26,7 @@ dv_is_a: "[[../../Relation|Relation]]"
 dv_has_:
   inverse: "[[is_competitor_of]]"
   child_:
-    property:
-      - "[[has_away_team]]"
-      - "[[has_home_team]]"
+    property: "[[_Standards/schema-org/Relation/has/has_away_team.md|has_away_team]],[[_Standards/schema-org/Relation/has/has_home_team.md|has_home_team]]"
   domain: "[[../../Class/is_a_/Event/Sports_Event|Sports_Event]]"
   name: has_competitor
   range:
@@ -44,9 +42,7 @@ dv_is_:
     - "[[/_personal/schema-org/Relation/has/has_competitor.personal|has_competitor.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_competitor.secret|has_competitor.secret]]"
 dv_has_inverse: "[[is_competitor_of]]"
-dv_has_child_property:
-  - "[[has_away_team]]"
-  - "[[has_home_team]]"
+dv_has_child_property: "[[_Standards/schema-org/Relation/has/has_away_team.md|has_away_team]],[[_Standards/schema-org/Relation/has/has_home_team.md|has_home_team]]"
 dv_has_domain: "[[../../Class/is_a_/Event/Sports_Event|Sports_Event]]"
 dv_has_name: has_competitor
 dv_has_range:

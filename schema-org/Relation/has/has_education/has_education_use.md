@@ -31,11 +31,19 @@ tags:
 title: has_education_use
 type: Predi_Relation
 dv_has_:
-  educational_use: ["[[../../../Class/is_a_/Intangible/Defined_Term|Defined_Term]]", "[[../../../Class/is_a_/Data_Type/Text|Text]]"]
-  domain: ["[[../../../../Society/Communication/Media/Creative_Work|Creative_Work]]", "[[../../../../Society/Communication/Media/Creative_Work/Learning_Resource|Learning_Resource]]"] 
+  educational_use:
+    - "[[../../../Class/is_a_/Intangible/Defined_Term|Defined_Term]]"
+    - "[[../../../Class/is_a_/Data_Type/Text|Text]]"
+  domain:
+    - "[[../../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
+    - "[[../../../../Society/Communication/Media/Creative_Work/Learning_Resource|Learning_Resource]]"
   name: "[[has_education_use]]"
-  range: ["[[../../../Class/is_a_/Intangible/Defined_Term|Defined_Term]]", "[[../../../Class/is_a_/Data_Type/Text|Text]]"]
-dv_has_education_use: ["[[../../../Class/is_a_/Intangible/Defined_Term|Defined_Term]]", "[[../../../Class/is_a_/Data_Type/Text|Text]]"]
+  range:
+    - "[[../../../Class/is_a_/Intangible/Defined_Term|Defined_Term]]"
+    - "[[../../../Class/is_a_/Data_Type/Text|Text]]"
+dv_has_education_use:
+  - "[[../../../Class/is_a_/Intangible/Defined_Term|Defined_Term]]"
+  - "[[../../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_:
   same_as:
     - "[[has_education_use|has_education_use]]"
@@ -45,21 +53,27 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_education_use.private|has_education_use.private]]"
     - "[[/_personal/schema-org/Relation/has/has_education_use.personal|has_education_use.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_education_use.secret|has_education_use.secret]]"
-dv_has_domain: ["[[../../../../Society/Communication/Media/Creative_Work|Creative_Work]]", "[[../../../../Society/Communication/Media/Creative_Work/Learning_Resource|Learning_Resource]]"]
+    - "[[has_education_use]]"
+dv_has_domain:
+  - "[[../../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
+  - "[[../../../../Society/Communication/Media/Creative_Work/Learning_Resource|Learning_Resource]]"
 dv_has_name: "[[has_education_use]]"
-dv_has_range: ["[[../../../Class/is_a_/Intangible/Defined_Term|Defined_Term]]", "[[../../../Class/is_a_/Data_Type/Text|Text]]"]
+dv_has_range:
+  - "[[../../../Class/is_a_/Intangible/Defined_Term|Defined_Term]]"
+  - "[[../../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_same_as:
-  - "[[has_education_use|has_education_use]]"
+  - "[[has_education_use]]"
   - "[[/_public/schema-org/Relation/has/has_education_use.public|has_education_use.public]]"
   - "[[/_internal/schema-org/Relation/has/has_education_use.internal|has_education_use.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_education_use.protect|has_education_use.protect]]"
   - "[[/_private/schema-org/Relation/has/has_education_use.private|has_education_use.private]]"
   - "[[/_personal/schema-org/Relation/has/has_education_use.personal|has_education_use.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_education_use.secret|has_education_use.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
 ---
 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 

@@ -24,9 +24,12 @@ title: has_comment
 type: Predi_Relation
 dv_has_:
   comment: "[[../../../Society/Communication/Media/Creative_Work/Comment|Comment]]"
-  domain: ["[[../../../Society/Communication/Media/Creative_Work|CreativeWork]]", "[[../../Class/is_a_/Action/Interact_Action/Communicate_Action/Inform_Action/Rsvp_Action|Rsvp_Action]]"]
+  domain:
+    - "[[../../../Society/Communication/Media/Creative_Work|CreativeWork]]"
+    - "[[../../Class/is_a_/Action/Interact_Action/Communicate_Action/Inform_Action/Rsvp_Action|Rsvp_Action]]"
   name: has_comment
   range: "[[../../../Society/Communication/Media/Creative_Work/Comment|Comment]]"
+  inverse: "[[is_comment_on]]"
 dv_has_comment: "[[../../../Society/Communication/Media/Creative_Work/Comment|Comment]]"
 dv_is_:
   same_as:
@@ -37,25 +40,30 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_comment.private|has_comment.private]]"
     - "[[/_personal/schema-org/Relation/has/has_comment.personal|has_comment.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_comment.secret|has_comment.secret]]"
-dv_has_domain: ["[[../../../Society/Communication/Media/Creative_Work|CreativeWork]]", "[[../../Class/is_a_/Action/Interact_Action/Communicate_Action/Inform_Action/Rsvp_Action|Rsvp_Action]]"]
+    - "[[has_comment]]"
+dv_has_domain:
+  - "[[../../../Society/Communication/Media/Creative_Work|CreativeWork]]"
+  - "[[../../Class/is_a_/Action/Interact_Action/Communicate_Action/Inform_Action/Rsvp_Action|Rsvp_Action]]"
 dv_has_name: has_comment
 dv_has_range: "[[../../../Society/Communication/Media/Creative_Work/Comment|Comment]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_comment|has_comment]]"
+  - "[[has_comment]]"
   - "[[/_public/schema-org/Relation/has/has_comment.public|has_comment.public]]"
   - "[[/_internal/schema-org/Relation/has/has_comment.internal|has_comment.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_comment.protect|has_comment.protect]]"
   - "[[/_private/schema-org/Relation/has/has_comment.private|has_comment.private]]"
   - "[[/_personal/schema-org/Relation/has/has_comment.personal|has_comment.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_comment.secret|has_comment.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_comment_on]]"
 ---
 
 # [[has_comment]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_comment_on]] 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/comment : : `=this.dv_has_comment`  

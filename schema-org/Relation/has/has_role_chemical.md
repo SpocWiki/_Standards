@@ -1,3 +1,32 @@
+---
+dv_has_:
+  role_:
+    chemical: DefinedTerm
+  domain: ChemicalSubstance, MolecularEntity
+  name: has_role_chemical
+  range: DefinedTerm
+dv_has_role_chemical: DefinedTerm
+dv_is_:
+  same_as:
+    - "[[has_role_chemical]]"
+    - "[[/_public/schema-org/Relation/has/has_role_chemical.public|has_role_chemical.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_role_chemical.internal|has_role_chemical.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_role_chemical.protect|has_role_chemical.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_role_chemical.private|has_role_chemical.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_role_chemical.personal|has_role_chemical.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_role_chemical.secret|has_role_chemical.secret]]"
+dv_has_domain: ChemicalSubstance, MolecularEntity
+dv_has_name: has_role_chemical
+dv_has_range: DefinedTerm
+dv_is_same_as:
+  - "[[has_role_chemical]]"
+  - "[[/_public/schema-org/Relation/has/has_role_chemical.public|has_role_chemical.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_role_chemical.internal|has_role_chemical.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_role_chemical.protect|has_role_chemical.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_role_chemical.private|has_role_chemical.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_role_chemical.personal|has_role_chemical.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_role_chemical.secret|has_role_chemical.secret]]"
+---
 ﻿---
 aliases:
   - has chemical-role
@@ -40,7 +69,7 @@ has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
 - #has_/role_/chemical :: DefinedTerm  
-- [ has_role_chemical :: DefinedTerm ] 
+- has_role_chemical = `=this.dv_has_role_chemical`  
 - is_role_chemical_of : : `=this.dv_has_domain` 
 - #is_/role_chemical_of : : `=this.dv_has_domain`
 
@@ -48,10 +77,10 @@ A role played by the BioChemEntity within a chemical context.
 
 Relation describes that: 
 
-#has_/domain  :: ChemicalSubstance, MolecularEntity  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: has_role_chemical )
-(has_/range :: DefinedTerm )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

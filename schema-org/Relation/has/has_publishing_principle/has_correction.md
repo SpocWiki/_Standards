@@ -47,8 +47,8 @@ dv_has_domain: "[[../../../../Society/Communication/Media/Creative_Work|Creative
 dv_has_name: has_correction
 dv_has_range:
   - "[[../../../../Society/Communication/Media/Creative_Work/Comment/Correction_Comment|Correction_Comment]]"
-  - "[[../../../Class/is_a_/Data_Type/Text|Text]]"
-  - "[[../../../Class/is_a_/Data_Type/Text/Url|Url]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
+  - "[[../../Class/is_a_/Data_Type/Text/Url|Url]]"
 dv_is_same_as:
   - "[[has_correction]]"
   - "[[/_public/schema-org/Relation/has/has_correction.public|has_correction.public]]"

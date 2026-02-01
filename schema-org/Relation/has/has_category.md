@@ -89,11 +89,12 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/has/has_category.personal|has_category.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_category.secret|has_category.secret]]"
 dv_has_inverse: "[[is_category_of]]"
+dv_is_a: "[[../../Relation|Relation]]"
 ---
 
 # [[has_category]] 
 
-is_a :: [[../../Relation|Relation]]
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 

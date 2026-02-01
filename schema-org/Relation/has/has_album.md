@@ -27,6 +27,7 @@ dv_has_:
   domain: "[[../../../Society/Agent/Community/Organization/Performing_Group/Music_Group|Music_Group]]"
   name: has_album
   range: "[[../../../Society/Communication/Media/Creative_Work/Music_Playlist/Music_Album|Music_Album]]"
+  inverse: is_album_by
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_album|has_album]]"
@@ -36,22 +37,24 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_album.private|has_album.private]]"
     - "[[/_personal/schema-org/Relation/has/has_album.personal|has_album.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_album.secret|has_album.secret]]"
-dv_has_domain: "[[../../../Society/Agent/Community/Organization/Performing_Group/Music_Group|Music_Group]]" 
+    - "[[has_album]]"
+dv_has_domain: "[[../../../Society/Agent/Community/Organization/Performing_Group/Music_Group|Music_Group]]"
 dv_has_name: has_album
 dv_has_range: "[[../../../Society/Communication/Media/Creative_Work/Music_Playlist/Music_Album|Music_Album]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_album|has_album]]"
+  - "[[has_album]]"
   - "[[/_public/schema-org/Relation/has/has_album.public|has_album.public]]"
   - "[[/_internal/schema-org/Relation/has/has_album.internal|has_album.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_album.protect|has_album.protect]]"
   - "[[/_private/schema-org/Relation/has/has_album.private|has_album.private]]"
   - "[[/_personal/schema-org/Relation/has/has_album.personal|has_album.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_album.secret|has_album.secret]]"
+dv_has_inverse: is_album_by
 ---
 
 # [[has_album]]
 
-#has_/inverse :: is_album_by
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: [[../../../Society/Agent/Community/Organization/Performing_Group/Music_Group|Music_Group]]
 - #has_/album : : `=this.dv_has_range`  

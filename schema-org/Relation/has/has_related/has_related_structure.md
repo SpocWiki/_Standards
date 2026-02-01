@@ -41,11 +41,12 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_related_structure.private|has_related_structure.private]]"
     - "[[/_personal/schema-org/Relation/has/has_related_structure.personal|has_related_structure.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_related_structure.secret|has_related_structure.secret]]"
+    - "[[has_related_structure]]"
 dv_has_domain: "[[../../../../bio/Medicine/Medical_Entity/Anatomical_System|Anatomical_System]]"
 dv_has_name: has_related_structure
 dv_has_range: "[[../../../../bio/Medicine/Medical_Entity/Anatomical_System|Anatomical_System]]"
 dv_is_same_as:
-  - "[[has_related_structure|has_related_structure]]"
+  - "[[has_related_structure]]"
   - "[[/_public/schema-org/Relation/has/has_related_structure.public|has_related_structure.public]]"
   - "[[/_internal/schema-org/Relation/has/has_related_structure.internal|has_related_structure.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_related_structure.protect|has_related_structure.protect]]"

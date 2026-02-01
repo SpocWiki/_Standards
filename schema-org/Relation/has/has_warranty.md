@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_warranty]]"
+    - "[[/_public/schema-org/Relation/has/has_warranty.public|has_warranty.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_warranty.internal|has_warranty.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_warranty.protect|has_warranty.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_warranty.private|has_warranty.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_warranty.personal|has_warranty.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_warranty.secret|has_warranty.secret]]"
+dv_is_same_as:
+  - "[[has_warranty]]"
+  - "[[/_public/schema-org/Relation/has/has_warranty.public|has_warranty.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_warranty.internal|has_warranty.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_warranty.protect|has_warranty.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_warranty.private|has_warranty.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_warranty.personal|has_warranty.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_warranty.secret|has_warranty.secret]]"
+---
 ﻿---
 aliases:
   - has warranty

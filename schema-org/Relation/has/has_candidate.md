@@ -51,11 +51,12 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_candidate.private|has_candidate.private]]"
   - "[[/_personal/schema-org/Relation/has/has_candidate.personal|has_candidate.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_candidate.secret|has_candidate.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
 ---
 
 # [[has_candidate]]  
 
-is_a :: [[../../Relation|Relation]]
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 

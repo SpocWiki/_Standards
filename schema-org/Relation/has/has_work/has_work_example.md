@@ -9,23 +9,54 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - work_example
   - work
   - example
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_work_example
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_work_example
 type: Predi_Relation
+dv_has_:
+  work_example: CreativeWork
+  domain: CreativeWork
+  name: is_work_example
+  range: CreativeWork
+  inverse: exampleOfWork
+  child_:
+    property: "[ appearance, firstAppearance ]"
+dv_has_work_example: CreativeWork
+dv_is_:
+  same_as:
+    - "[[has_work_example]]"
+    - "[[/_public/schema-org/Relation/has/has_work_example.public|has_work_example.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_work_example.internal|has_work_example.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_work_example.protect|has_work_example.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_work_example.private|has_work_example.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_work_example.personal|has_work_example.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_work_example.secret|has_work_example.secret]]"
+dv_has_domain: CreativeWork
+dv_has_name: is_work_example
+dv_has_range: CreativeWork
+dv_has_inverse: exampleOfWork
+dv_has_child_property: "[ appearance, firstAppearance ]"
+dv_is_same_as:
+  - "[[has_work_example]]"
+  - "[[/_public/schema-org/Relation/has/has_work_example.public|has_work_example.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_work_example.internal|has_work_example.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_work_example.protect|has_work_example.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_work_example.private|has_work_example.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_work_example.personal|has_work_example.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_work_example.secret|has_work_example.secret]]"
 ---
 
 Example/instance/realization/derivation of the concept of this creative work. 
@@ -42,18 +73,18 @@ Therefore the partially inverse Relation is included in the non-standard more ge
 
 Use it like this: 
 - #has_/work_example :: CreativeWork  
-- [ has_work_example :: CreativeWork ] 
+- has_work_example = `=this.dv_has_work_example`  
 
 Relation describes that: 
 
-#has_/domain  :: CreativeWork  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: is_work_example )
-(has_/range :: CreativeWork )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#has_/inverse  :: exampleOfWork  
+has_inverse = `=this.dv_has_inverse` 
 
-#has_/child_/property :: [ appearance, firstAppearance ]  
+has_child_property = `=this.dv_has_child_property` 
 
 ## Confidential Links & Embeds: 
 

@@ -41,21 +41,23 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_delivery_status.private|has_delivery_status.private]]"
     - "[[/_personal/schema-org/Relation/has/has_delivery_status.personal|has_delivery_status.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_delivery_status.secret|has_delivery_status.secret]]"
+    - "[[has_delivery_status]]"
 dv_has_domain: ParcelDelivery
 dv_has_name: has_delivery_status
 dv_has_range: DeliveryEvent
 dv_is_same_as:
-  - "[[has_delivery_status|has_delivery_status]]"
+  - "[[has_delivery_status]]"
   - "[[/_public/schema-org/Relation/has/has_delivery_status.public|has_delivery_status.public]]"
   - "[[/_internal/schema-org/Relation/has/has_delivery_status.internal|has_delivery_status.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_delivery_status.protect|has_delivery_status.protect]]"
   - "[[/_private/schema-org/Relation/has/has_delivery_status.private|has_delivery_status.private]]"
   - "[[/_personal/schema-org/Relation/has/has_delivery_status.personal|has_delivery_status.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_delivery_status.secret|has_delivery_status.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
 ---
 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 

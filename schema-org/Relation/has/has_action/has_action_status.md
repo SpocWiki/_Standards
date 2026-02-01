@@ -39,11 +39,12 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_action_status.private|has_action_status.private]]"
     - "[[/_personal/schema-org/Relation/has/has_action_status.personal|has_action_status.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_action_status.secret|has_action_status.secret]]"
+    - "[[has_action_status]]"
 dv_has_domain: "[[../../../Class/is_a_/Action|Action]]"
 dv_has_name: has_action_status
 dv_has_range: "[[../../../Enumeration/Status_Enumeration/Action_Status_Type|Action_Status_Type]]"
 dv_is_same_as:
-  - "[[has_action_status|has_action_status]]"
+  - "[[has_action_status]]"
   - "[[/_public/schema-org/Relation/has/has_action_status.public|has_action_status.public]]"
   - "[[/_internal/schema-org/Relation/has/has_action_status.internal|has_action_status.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_action_status.protect|has_action_status.protect]]"

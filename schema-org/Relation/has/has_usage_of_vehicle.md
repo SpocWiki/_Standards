@@ -1,3 +1,34 @@
+---
+dv_has_:
+  usage_:
+    of_vehicle: "[[../../Enumeration/Car_Usage_Type|CarUsageType]], Text"
+  domain: "[[../../../Technology/Transport/Vehicle|Vehicle]]"
+  name: has_usage_of_vehicle
+  range: CarUsageType, Text
+dv_has_usage_of_vehicle: "[[../../Enumeration/Car_Usage_Type|CarUsageType]], Text"
+dv_is_:
+  part_of: https://auto.schema.org
+  same_as:
+    - "[[has_usage_of_vehicle|has_vehicle_special_usage]]"
+    - "[[/_public/schema-org/Relation/has/has_usage_of_vehicle.public|has_usage_of_vehicle.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_usage_of_vehicle.internal|has_usage_of_vehicle.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_usage_of_vehicle.protect|has_usage_of_vehicle.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_usage_of_vehicle.private|has_usage_of_vehicle.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_usage_of_vehicle.personal|has_usage_of_vehicle.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_usage_of_vehicle.secret|has_usage_of_vehicle.secret]]"
+dv_is_part_of: https://auto.schema.org
+dv_has_domain: "[[../../../Technology/Transport/Vehicle|Vehicle]]"
+dv_has_name: has_usage_of_vehicle
+dv_has_range: CarUsageType, Text
+dv_is_same_as:
+  - "[[has_usage_of_vehicle|has_vehicle_special_usage]]"
+  - "[[/_public/schema-org/Relation/has/has_usage_of_vehicle.public|has_usage_of_vehicle.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_usage_of_vehicle.internal|has_usage_of_vehicle.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_usage_of_vehicle.protect|has_usage_of_vehicle.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_usage_of_vehicle.private|has_usage_of_vehicle.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_usage_of_vehicle.personal|has_usage_of_vehicle.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_usage_of_vehicle.secret|has_usage_of_vehicle.secret]]"
+---
 ﻿---
 aliases:
   - has vehicle-special-usage
@@ -39,7 +70,7 @@ dv_has_inverse: "[[is_usage_of_vehicle_of]]"
 
 # [[has_usage_of_vehicle]] 
 
-#is_/part_of :: https://auto.schema.org  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
 - #has_/usage_/of_vehicle :: [[../../Enumeration/Car_Usage_Type|CarUsageType]], Text 
@@ -54,9 +85,9 @@ The legislation in many countries requires this information to be revealed when 
 
 Relation describes that: 
 
-#has_/domain  :: [[../../../Technology/Transport/Vehicle|Vehicle]]  
-(has_/name :: has_usage_of_vehicle )
-(has_/range :: CarUsageType, Text )
+has_domain = `=this.dv_has_domain` 
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

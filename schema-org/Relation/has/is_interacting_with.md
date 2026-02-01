@@ -4,7 +4,7 @@ aliases:
   - interactingDrug
   - has_interacting_drug
   - has interacting drug
-  - is_interacting_with 
+  - is_interacting_with
   - is interacting with
 confidential: public
 cssclasses:
@@ -32,6 +32,7 @@ dv_has_:
   domain: "[[../../../bio/Medicine/Drug|Drug]]"
   name: is_interacting_with
   range: "[[../../../bio/Medicine/Drug|Drug]]"
+  inverse: "[[is_interacting_with]]"
 dv_is_:
   same_as:
     - "[[is_interacting_with|is_interacting_with]]"
@@ -41,25 +42,28 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/is_interacting_with.private|is_interacting_with.private]]"
     - "[[/_personal/schema-org/Relation/has/is_interacting_with.personal|is_interacting_with.personal]]"
     - "[[/_secret/schema-org/Relation/has/is_interacting_with.secret|is_interacting_with.secret]]"
+    - "[[is_interacting_with]]"
 dv_has_domain: "[[../../../bio/Medicine/Drug|Drug]]"
 dv_has_name: is_interacting_with
 dv_has_range: "[[../../../bio/Medicine/Drug|Drug]]"
 dv_is_same_as:
-  - "[[is_interacting_with|is_interacting_with]]"
+  - "[[is_interacting_with]]"
   - "[[/_public/schema-org/Relation/has/is_interacting_with.public|is_interacting_with.public]]"
   - "[[/_internal/schema-org/Relation/has/is_interacting_with.internal|is_interacting_with.internal]]"
   - "[[/_protect/schema-org/Relation/has/is_interacting_with.protect|is_interacting_with.protect]]"
   - "[[/_private/schema-org/Relation/has/is_interacting_with.private|is_interacting_with.private]]"
   - "[[/_personal/schema-org/Relation/has/is_interacting_with.personal|is_interacting_with.personal]]"
   - "[[/_secret/schema-org/Relation/has/is_interacting_with.secret|is_interacting_with.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_interacting_with]]"
 ---
 
 # [[is_interacting_with]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_interacting_with]]  
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #is_/interacting_with : : `=this.dv_has_range`  

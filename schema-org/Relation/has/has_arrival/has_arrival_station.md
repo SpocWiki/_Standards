@@ -39,21 +39,23 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_arrival_station.private|has_arrival_station.private]]"
     - "[[/_personal/schema-org/Relation/has/has_arrival_station.personal|has_arrival_station.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_arrival_station.secret|has_arrival_station.secret]]"
+    - "[[has_arrival_station]]"
 dv_has_domain: TrainTrip
 dv_has_name: has_arrival_station
 dv_has_range: TrainStation
 dv_is_same_as:
-  - "[[has_arrival_station|has_arrival_station]]"
+  - "[[has_arrival_station]]"
   - "[[/_public/schema-org/Relation/has/has_arrival_station.public|has_arrival_station.public]]"
   - "[[/_internal/schema-org/Relation/has/has_arrival_station.internal|has_arrival_station.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_arrival_station.protect|has_arrival_station.protect]]"
   - "[[/_private/schema-org/Relation/has/has_arrival_station.private|has_arrival_station.private]]"
   - "[[/_personal/schema-org/Relation/has/has_arrival_station.personal|has_arrival_station.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_arrival_station.secret|has_arrival_station.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
 ---
 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 

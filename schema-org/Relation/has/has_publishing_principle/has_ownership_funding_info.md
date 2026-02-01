@@ -28,7 +28,7 @@ tags:
 title: has_ownership_funding_info
 type: Predi_Relation
 dv_has_:
-  ownership_funding_info: AboutPage, CreativeWork, Text, URL
+  ownership_funding_info: "[[_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/About_Page.md|About_Page]],[[_Standards/Society/Communication/Media/Creative_Work.md|Creative_Work]],[[_Standards/schema-org/Class/is_a_/Data_Type/Text.md|Text]],[[_Standards/schema-org/Class/is_a_/Data_Type/Text/Url.md|Url]]"
   inverse: "[[is_ownership_funding_info_of]]"
   parent_:
     property: "[[../has_publishing_principle|has_publishing_principle]]"
@@ -36,7 +36,7 @@ dv_has_:
     - "[[../../../../Society/Agent/Community/Organization/News_Media_Organization|News_Media_Organization]]"
     - "[[../../../../Society/Agent/Community/Organization|Organization]]"
   name: has_ownership_funding_info
-dv_has_ownership_funding_info: ""
+dv_has_ownership_funding_info: "[[_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/About_Page.md|About_Page]],[[_Standards/Society/Communication/Media/Creative_Work.md|Creative_Work]],[[_Standards/schema-org/Class/is_a_/Data_Type/Text.md|Text]],[[_Standards/schema-org/Class/is_a_/Data_Type/Text/Url.md|Url]]"
 dv_is_a: "[[../../../Relation|Relation]]"
 dv_is_:
   part_of: "pending:"

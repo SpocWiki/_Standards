@@ -42,21 +42,23 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_service_sms_number.private|has_service_sms_number.private]]"
     - "[[/_personal/schema-org/Relation/has/has_service_sms_number.personal|has_service_sms_number.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_service_sms_number.secret|has_service_sms_number.secret]]"
+    - "[[has_service_sms_number]]"
 dv_has_domain: ServiceChannel
 dv_has_name: is_service_sms_number
 dv_has_range: ContactPoint
 dv_is_same_as:
-  - "[[has_service_sms_number|has_service_sms_number]]"
+  - "[[has_service_sms_number]]"
   - "[[/_public/schema-org/Relation/has/has_service_sms_number.public|has_service_sms_number.public]]"
   - "[[/_internal/schema-org/Relation/has/has_service_sms_number.internal|has_service_sms_number.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_service_sms_number.protect|has_service_sms_number.protect]]"
   - "[[/_private/schema-org/Relation/has/has_service_sms_number.private|has_service_sms_number.private]]"
   - "[[/_personal/schema-org/Relation/has/has_service_sms_number.personal|has_service_sms_number.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_service_sms_number.secret|has_service_sms_number.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
 ---
 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 

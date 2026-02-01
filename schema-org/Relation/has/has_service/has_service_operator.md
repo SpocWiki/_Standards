@@ -41,21 +41,23 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_service_operator.private|has_service_operator.private]]"
     - "[[/_personal/schema-org/Relation/has/has_service_operator.personal|has_service_operator.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_service_operator.secret|has_service_operator.secret]]"
+    - "[[has_service_operator]]"
 dv_has_domain: GovernmentService
 dv_has_name: is_service_operator
 dv_has_range: Organization
 dv_is_same_as:
-  - "[[has_service_operator|has_service_operator]]"
+  - "[[has_service_operator]]"
   - "[[/_public/schema-org/Relation/has/has_service_operator.public|has_service_operator.public]]"
   - "[[/_internal/schema-org/Relation/has/has_service_operator.internal|has_service_operator.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_service_operator.protect|has_service_operator.protect]]"
   - "[[/_private/schema-org/Relation/has/has_service_operator.private|has_service_operator.private]]"
   - "[[/_personal/schema-org/Relation/has/has_service_operator.personal|has_service_operator.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_service_operator.secret|has_service_operator.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
 ---
 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 

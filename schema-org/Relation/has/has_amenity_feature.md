@@ -26,9 +26,14 @@ tags:
 title: has_amenity_feature
 type: Predi_Relation
 dv_has_:
-  domain: ["[[../../../Earth/Geography/Place/Accommodation|Accommodation]]", "[[../../../Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor_Plan|Floor_Plan]]", "[[../../../Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business|Lodging_Business]]", "[[../../../Earth/Geography/Place|Place]]"]
+  domain:
+    - "[[../../../Earth/Geography/Place/Accommodation|Accommodation]]"
+    - "[[../../../Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor_Plan|Floor_Plan]]"
+    - "[[../../../Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business|Lodging_Business]]"
+    - "[[../../../Earth/Geography/Place|Place]]"
   name: has_amenity_feature
   range: "[[../../Class/is_a_/Intangible/Structured_Value/Property_Value_Pair/Location_Feature_Specification|Location_Feature_Specification]]"
+  inverse: "[[is_amenity_feature_of]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_amenity_feature|has_amenity_feature]]"
@@ -38,25 +43,32 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_amenity_feature.private|has_amenity_feature.private]]"
     - "[[/_personal/schema-org/Relation/has/has_amenity_feature.personal|has_amenity_feature.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_amenity_feature.secret|has_amenity_feature.secret]]"
-dv_has_domain: ["[[../../../Earth/Geography/Place/Accommodation|Accommodation]]", "[[../../../Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor_Plan|Floor_Plan]]", "[[../../../Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business|Lodging_Business]]", "[[../../../Earth/Geography/Place|Place]]"]
+    - "[[has_amenity_feature]]"
+dv_has_domain:
+  - "[[../../../Earth/Geography/Place/Accommodation|Accommodation]]"
+  - "[[../../../Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor_Plan|Floor_Plan]]"
+  - "[[../../../Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business|Lodging_Business]]"
+  - "[[../../../Earth/Geography/Place|Place]]"
 dv_has_name: has_amenity_feature
 dv_has_range: "[[../../Class/is_a_/Intangible/Structured_Value/Property_Value_Pair/Location_Feature_Specification|Location_Feature_Specification]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_amenity_feature|has_amenity_feature]]"
+  - "[[has_amenity_feature]]"
   - "[[/_public/schema-org/Relation/has/has_amenity_feature.public|has_amenity_feature.public]]"
   - "[[/_internal/schema-org/Relation/has/has_amenity_feature.internal|has_amenity_feature.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_amenity_feature.protect|has_amenity_feature.protect]]"
   - "[[/_private/schema-org/Relation/has/has_amenity_feature.private|has_amenity_feature.private]]"
   - "[[/_personal/schema-org/Relation/has/has_amenity_feature.personal|has_amenity_feature.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_amenity_feature.secret|has_amenity_feature.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_amenity_feature_of]]"
 ---
 
 # [[has_amenity_feature]] 
 
-#is_a :: [[../../Relation|Relation]]
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_amenity_feature_of]]
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/amenity_feature : : `=this.dv_has_range`  

@@ -38,6 +38,7 @@ dv_has_:
   range:
     - "[[../../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
     - "[[../../../Class/is_a_/Data_Type/Text/Url|Url]]"
+    - "[[../../../../Society/Communication/Media/Creative_Work|CreativeWork]]"
 dv_is_:
   part_of: "pending:"
   same_as:

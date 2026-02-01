@@ -57,10 +57,11 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_serious_adverse_outcome.private|has_serious_adverse_outcome.private]]"
   - "[[/_personal/schema-org/Relation/has/has_serious_adverse_outcome.personal|has_serious_adverse_outcome.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_serious_adverse_outcome.secret|has_serious_adverse_outcome.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
 ---
 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 

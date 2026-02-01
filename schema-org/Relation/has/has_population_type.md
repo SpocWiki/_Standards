@@ -1,3 +1,31 @@
+---
+dv_has_:
+  population_type: Class
+  domain: StatisticalPopulation
+  name: is_population_type
+  range: Class
+dv_has_population_type: Class
+dv_is_:
+  same_as:
+    - "[[has_population_type]]"
+    - "[[/_public/schema-org/Relation/has/has_population_type.public|has_population_type.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_population_type.internal|has_population_type.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_population_type.protect|has_population_type.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_population_type.private|has_population_type.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_population_type.personal|has_population_type.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_population_type.secret|has_population_type.secret]]"
+dv_has_domain: StatisticalPopulation
+dv_has_name: is_population_type
+dv_has_range: Class
+dv_is_same_as:
+  - "[[has_population_type]]"
+  - "[[/_public/schema-org/Relation/has/has_population_type.public|has_population_type.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_population_type.internal|has_population_type.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_population_type.protect|has_population_type.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_population_type.private|has_population_type.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_population_type.personal|has_population_type.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_population_type.secret|has_population_type.secret]]"
+---
 ﻿---
 aliases:
   - has population-type
@@ -40,7 +68,7 @@ has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
 - #has_/population_type :: Class  
-- [ has_population_type :: Class ] 
+- has_population_type = `=this.dv_has_population_type`  
 - is_population_type_of : : `=this.dv_has_domain` 
 - #is_/population_type_of : : `=this.dv_has_domain`
 
@@ -48,10 +76,10 @@ Indicates the populationType common to all members of a [[StatisticalPopulation]
 
 Relation describes that: 
 
-#has_/domain  :: StatisticalPopulation  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: is_population_type )
-(has_/range :: Class )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

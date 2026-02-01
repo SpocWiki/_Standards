@@ -30,6 +30,7 @@ dv_has_:
   domain: "[[../../../bio/Medicine/Medical_Entity|Medical_Entity]]"
   name: has_medicine_system
   range: "[[../../../bio/Medicine/Medical_Enumeration/Medicine_System|Medicine_System]]"
+  inverse: "[[is_medicine_system_of]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_medicine_system|has_medicine_system]]"
@@ -39,25 +40,28 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_medicine_system.private|has_medicine_system.private]]"
     - "[[/_personal/schema-org/Relation/has/has_medicine_system.personal|has_medicine_system.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_medicine_system.secret|has_medicine_system.secret]]"
+    - "[[has_medicine_system]]"
 dv_has_domain: "[[../../../bio/Medicine/Medical_Entity|Medical_Entity]]"
 dv_has_name: has_medicine_system
 dv_has_range: "[[../../../bio/Medicine/Medical_Enumeration/Medicine_System|Medicine_System]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_medicine_system|has_medicine_system]]"
+  - "[[has_medicine_system]]"
   - "[[/_public/schema-org/Relation/has/has_medicine_system.public|has_medicine_system.public]]"
   - "[[/_internal/schema-org/Relation/has/has_medicine_system.internal|has_medicine_system.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_medicine_system.protect|has_medicine_system.protect]]"
   - "[[/_private/schema-org/Relation/has/has_medicine_system.private|has_medicine_system.private]]"
   - "[[/_personal/schema-org/Relation/has/has_medicine_system.personal|has_medicine_system.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_medicine_system.secret|has_medicine_system.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_medicine_system_of]]"
 ---
 
 # [[has_medicine_system]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_medicine_system_of]] 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/medicine_system : : `=this.dv_has_range`  

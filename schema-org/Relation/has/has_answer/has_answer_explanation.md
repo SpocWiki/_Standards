@@ -37,15 +37,11 @@ dv_is_:
 dv_has_:
   domain: "[[../../../../Society/Communication/Media/Creative_Work/Comment/Answer|Answer]]"
   name: has_answer_explanation
-  range:
-    - "[[../../../../Society/Communication/Media/Creative_Work/Comment|Comment]]"
-    - "[[../../../../Society/Communication/Media/Creative_Work/Web_Content|WebContent]]"
+  range: "[[_Standards/Society/Communication/Media/Creative_Work/Comment.md|Comment]],[[_Standards/Society/Communication/Media/Creative_Work/Web_Content.md|WebContent]]"
 dv_is_part_of: "pending:"
 dv_has_domain: "[[../../../../Society/Communication/Media/Creative_Work/Comment/Answer|Answer]]"
 dv_has_name: has_answer_explanation
-dv_has_range:
-  - "[[../../../../Society/Communication/Media/Creative_Work/Comment|Comment]]"
-  - "[[../../../../Society/Communication/Media/Creative_Work/Web_Content|WebContent]]"
+dv_has_range: "[[_Standards/Society/Communication/Media/Creative_Work/Comment.md|Comment]],[[_Standards/Society/Communication/Media/Creative_Work/Web_Content.md|WebContent]]"
 dv_is_same_as:
   - "[[has_answer_explanation]]"
   - "[[/_public/schema-org/Relation/has/has_answer_explanation.public|has_answer_explanation.public]]"

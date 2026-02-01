@@ -42,21 +42,23 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_child_structure.private|has_child_structure.private]]"
     - "[[/_personal/schema-org/Relation/has/has_child_structure.personal|has_child_structure.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_child_structure.secret|has_child_structure.secret]]"
+    - "[[has_child_structure]]"
 dv_has_domain: "[[../../../../bio/Medicine/Anatomy/Anatomical_Structure|Anatomical_Structure]]"
 dv_has_name: has_child_structure
 dv_has_range: "[[../../../../bio/Medicine/Anatomy/Anatomical_Structure|Anatomical_Structure]]"
 dv_is_same_as:
-  - "[[has_child_structure|has_child_structure]]"
+  - "[[has_child_structure]]"
   - "[[/_public/schema-org/Relation/has/has_child_structure.public|has_child_structure.public]]"
   - "[[/_internal/schema-org/Relation/has/has_child_structure.internal|has_child_structure.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_child_structure.protect|has_child_structure.protect]]"
   - "[[/_private/schema-org/Relation/has/has_child_structure.private|has_child_structure.private]]"
   - "[[/_personal/schema-org/Relation/has/has_child_structure.personal|has_child_structure.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_child_structure.secret|has_child_structure.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
 ---
 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 

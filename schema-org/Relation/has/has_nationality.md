@@ -39,11 +39,12 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_nationality.private|has_nationality.private]]"
     - "[[/_personal/schema-org/Relation/has/has_nationality.personal|has_nationality.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_nationality.secret|has_nationality.secret]]"
+    - "[[has_nationality]]"
 dv_has_domain: "[[../../../Society/Agent/Person|Person]]"
 dv_has_name: has_nationality
 dv_has_range: "[[../../../Earth/Geography/Place/Administrative_Area/Country|Country]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_nationality|has_nationality]]"
+  - "[[has_nationality]]"
   - "[[/_public/schema-org/Relation/has/has_nationality.public|has_nationality.public]]"
   - "[[/_internal/schema-org/Relation/has/has_nationality.internal|has_nationality.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_nationality.protect|has_nationality.protect]]"

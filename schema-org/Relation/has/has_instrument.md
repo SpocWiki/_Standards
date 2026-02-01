@@ -25,16 +25,7 @@ type: Predi_Relation
 dv_has_:
   inverse: "[[is_instrument_for]]"
   child_:
-    property:
-      - "[[has_delivery/has_delivery_method|has_delivery_method]]"
-      - "[[has_diet]]"
-      - "[[has_exercise_plan]]"
-      - "[[has_exercise_related_diet]]"
-      - "[[../is/is_in_language|is_in_language]]"
-      - "[[../../Property/Texts/has_query|has_query]]"
-      - "[[has_recipe]]"
-      - "[[has_supply_consumed]]"
-      - "[[has_tool]]"
+    property: "[[_Standards/schema-org/Relation/has/has_delivery/has_delivery_method.md|has_delivery_method]],[[_Standards/schema-org/Relation/has/has_diet.md|has_diet]],[[_Standards/schema-org/Relation/has/has_exercise_plan.md|has_exercise_plan]],[[_Standards/schema-org/Relation/has/has_exercise_related_diet.md|has_exercise_related_diet]],[[_Standards/schema-org/Relation/is/is_in_language.md|is_in_language]],[[_Standards/schema-org/Property/Texts/has_query.md|has_query]],[[_Standards/schema-org/Relation/has/has_recipe.md|has_recipe]],[[_Standards/schema-org/Relation/has/has_supply_consumed.md|has_supply_consumed]],[[_Standards/schema-org/Relation/has/has_tool.md|has_tool]]"
   domain: "[[../../Class/is_a_/Action|Action]]"
   name: has_instrument
   range: "[[../../Class/Thing|Thing]]"
@@ -48,16 +39,7 @@ dv_is_:
     - "[[/_personal/schema-org/Relation/has/has_instrument.personal|has_instrument.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_instrument.secret|has_instrument.secret]]"
 dv_has_inverse: "[[is_instrument_for]]"
-dv_has_child_property:
-  - "[[has_delivery/has_delivery_method|has_delivery_method]]"
-  - "[[has_diet]]"
-  - "[[has_exercise_plan]]"
-  - "[[has_exercise_related_diet]]"
-  - "[[../is/is_in_language|is_in_language]]"
-  - "[[../../Property/Texts/has_query|has_query]]"
-  - "[[has_recipe]]"
-  - "[[has_supply_consumed]]"
-  - "[[has_tool]]"
+dv_has_child_property: "[[_Standards/schema-org/Relation/has/has_delivery/has_delivery_method.md|has_delivery_method]],[[_Standards/schema-org/Relation/has/has_diet.md|has_diet]],[[_Standards/schema-org/Relation/has/has_exercise_plan.md|has_exercise_plan]],[[_Standards/schema-org/Relation/has/has_exercise_related_diet.md|has_exercise_related_diet]],[[_Standards/schema-org/Relation/is/is_in_language.md|is_in_language]],[[_Standards/schema-org/Property/Texts/has_query.md|has_query]],[[_Standards/schema-org/Relation/has/has_recipe.md|has_recipe]],[[_Standards/schema-org/Relation/has/has_supply_consumed.md|has_supply_consumed]],[[_Standards/schema-org/Relation/has/has_tool.md|has_tool]]"
 dv_has_domain: "[[../../Class/is_a_/Action|Action]]"
 dv_has_name: has_instrument
 dv_has_range: "[[../../Class/Thing|Thing]]"

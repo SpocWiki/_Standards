@@ -39,11 +39,8 @@ dv_has_:
     - "[[../../../Society/Agent/Community/Organization|Organization]]"
     - "[[../../../Society/Agent/Community/Organization/Business/Service|Service]]"
   name: has_area_served
-  range:
-    - "[[../../../Earth/Geography/Place/Administrative_Area|Administrative_Area]]"
-    - "[[../../Class/is_a_/Intangible/Structured_Value/Geo_Shape|Geo_Shape]]"
-    - "[[../../../Earth/Geography/Place|Place]]"
-    - "[[../../Class/is_a_/Data_Type/Text|Text]]"
+  range: "[[_Standards/Earth/Geography/Place/Administrative_Area.md|Administrative_Area]],[[_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape.md|Geo_Shape]],[[_Standards/Earth/Geography/Place.md|Place]],[[_Standards/schema-org/Class/is_a_/Data_Type/Text.md|Text]]"
+  inverse: "[[is_area_served_by]]"
 dv_is_a: "[[../../Relation|Relation]]"
 dv_is_:
   same_as:
@@ -65,11 +62,7 @@ dv_has_domain:
   - "[[../../../Society/Agent/Community/Organization|Organization]]"
   - "[[../../../Society/Agent/Community/Organization/Business/Service|Service]]"
 dv_has_name: has_area_served
-dv_has_range:
-  - "[[../../../Earth/Geography/Place/Administrative_Area|Administrative_Area]]"
-  - "[[../../Class/is_a_/Intangible/Structured_Value/Geo_Shape|Geo_Shape]]"
-  - "[[../../../Earth/Geography/Place|Place]]"
-  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
+dv_has_range: "[[_Standards/Earth/Geography/Place/Administrative_Area.md|Administrative_Area]],[[_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape.md|Geo_Shape]],[[_Standards/Earth/Geography/Place.md|Place]],[[_Standards/schema-org/Class/is_a_/Data_Type/Text.md|Text]]"
 dv_is_same_as:
   - "[[has_area_served]]"
   - "[[/_public/schema-org/Relation/has/has_area_served.public|has_area_served.public]]"
@@ -78,6 +71,7 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_area_served.private|has_area_served.private]]"
   - "[[/_personal/schema-org/Relation/has/has_area_served.personal|has_area_served.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_area_served.secret|has_area_served.secret]]"
+dv_has_inverse: "[[is_area_served_by]]"
 ---
 
 # [[has_area_served]] 
@@ -85,7 +79,7 @@ dv_is_same_as:
 is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_area_served_by]]
+has_inverse = `=this.dv_has_inverse` 
 
 #has_/child_/property :: [[../../Property/has_location/has_location_available_at_or_from|has_location_available_at_or_from]], [[../../Property/has_location/has_location_eligible_region|has_location_eligible_region]] 
 

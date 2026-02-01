@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_review]]"
+    - "[[/_public/schema-org/Relation/has/has_review.public|has_review.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_review.internal|has_review.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_review.protect|has_review.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_review.private|has_review.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_review.personal|has_review.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_review.secret|has_review.secret]]"
+dv_is_same_as:
+  - "[[has_review]]"
+  - "[[/_public/schema-org/Relation/has/has_review.public|has_review.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_review.internal|has_review.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_review.protect|has_review.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_review.private|has_review.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_review.personal|has_review.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_review.secret|has_review.secret]]"
+---
 ﻿---
 aliases:
   - has_review

@@ -44,21 +44,23 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_service_output.private|has_service_output.private]]"
     - "[[/_personal/schema-org/Relation/has/has_service_output.personal|has_service_output.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_service_output.secret|has_service_output.secret]]"
+    - "[[has_service_output]]"
 dv_has_domain: Service
 dv_has_name: is_service_output
 dv_has_range: Thing
 dv_is_same_as:
-  - "[[has_service_output|has_service_output]]"
+  - "[[has_service_output]]"
   - "[[/_public/schema-org/Relation/has/has_service_output.public|has_service_output.public]]"
   - "[[/_internal/schema-org/Relation/has/has_service_output.internal|has_service_output.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_service_output.protect|has_service_output.protect]]"
   - "[[/_private/schema-org/Relation/has/has_service_output.private|has_service_output.private]]"
   - "[[/_personal/schema-org/Relation/has/has_service_output.personal|has_service_output.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_service_output.secret|has_service_output.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
 ---
 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 

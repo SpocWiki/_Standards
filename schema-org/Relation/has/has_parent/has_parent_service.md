@@ -42,11 +42,12 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_parent_service.private|has_parent_service.private]]"
     - "[[/_personal/schema-org/Relation/has/has_parent_service.personal|has_parent_service.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_parent_service.secret|has_parent_service.secret]]"
+    - "[[has_parent_service]]"
 dv_has_domain: "[[../../../../Society/Agent/Community/Organization/Business/Service/Broadcast_Service|Broadcast_Service]]"
 dv_has_name: has_parent_service
 dv_has_range: "[[../../../../Society/Agent/Community/Organization/Business/Service/Broadcast_Service|Broadcast_Service]]"
 dv_is_same_as:
-  - "[[has_parent_service|has_parent_service]]"
+  - "[[has_parent_service]]"
   - "[[/_public/schema-org/Relation/has/has_parent_service.public|has_parent_service.public]]"
   - "[[/_internal/schema-org/Relation/has/has_parent_service.internal|has_parent_service.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_parent_service.protect|has_parent_service.protect]]"

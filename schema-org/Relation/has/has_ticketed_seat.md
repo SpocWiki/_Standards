@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_ticketed_seat]]"
+    - "[[/_public/schema-org/Relation/has/has_ticketed_seat.public|has_ticketed_seat.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_ticketed_seat.internal|has_ticketed_seat.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_ticketed_seat.protect|has_ticketed_seat.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_ticketed_seat.private|has_ticketed_seat.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_ticketed_seat.personal|has_ticketed_seat.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_ticketed_seat.secret|has_ticketed_seat.secret]]"
+dv_is_same_as:
+  - "[[has_ticketed_seat]]"
+  - "[[/_public/schema-org/Relation/has/has_ticketed_seat.public|has_ticketed_seat.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_ticketed_seat.internal|has_ticketed_seat.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_ticketed_seat.protect|has_ticketed_seat.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_ticketed_seat.private|has_ticketed_seat.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_ticketed_seat.personal|has_ticketed_seat.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_ticketed_seat.secret|has_ticketed_seat.secret]]"
+---
 ﻿---
 aliases:
   - has ticketed-seat

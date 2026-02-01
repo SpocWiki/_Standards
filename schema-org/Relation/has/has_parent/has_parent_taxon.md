@@ -34,6 +34,8 @@ dv_has_:
     - "[[../../../../bio/Taxon_Rank/Taxon|Taxon]]"
     - "[[../../../Class/is_a_/Data_Type/Text|Text]]"
     - "[[../../../Class/is_a_/Data_Type/Text/Url|Url]]"
+  parent_:
+    taxon: "[[_Standards/bio/Taxon_Rank/Taxon.md|Taxon]],[[_Standards/schema-org/Class/is_a_/Data_Type/Text.md|Text]],[[_Standards/schema-org/Class/is_a_/Data_Type/Text/Url.md|Url]]"
 dv_is_:
   part_of: "pending:"
   same_as:
@@ -60,6 +62,7 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_parent_taxon.private|has_parent_taxon.private]]"
   - "[[/_personal/schema-org/Relation/has/has_parent_taxon.personal|has_parent_taxon.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_parent_taxon.secret|has_parent_taxon.secret]]"
+dv_has_parent_taxon: "[[_Standards/bio/Taxon_Rank/Taxon.md|Taxon]],[[_Standards/schema-org/Class/is_a_/Data_Type/Text.md|Text]],[[_Standards/schema-org/Class/is_a_/Data_Type/Text/Url.md|Url]]"
 ---
 
 # [[has_parent_taxon]] 

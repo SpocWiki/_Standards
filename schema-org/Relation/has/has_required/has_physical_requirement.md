@@ -49,10 +49,7 @@ dv_has_inverse: "[[is_physical_requirement_of]]"
 dv_is_part_of: "pending:"
 dv_has_domain: "[[../../../Class/is_a_/Intangible/Job_Posting|Job_Posting]]"
 dv_has_name: is_physical_requirement
-dv_has_range:
-  - "[[../../../Class/is_a_/Intangible/Defined_Term|Defined_Term]]"
-  - "[[../../../Class/is_a_/Data_Type/Text|Text]]"
-  - "[[../../../Class/is_a_/Data_Type/Text/Url|Url]]"
+dv_has_range: "[[_Standards/schema-org/Class/is_a_/Intangible/Defined_Term.md|Defined_Term]],[[_Standards/schema-org/Class/is_a_/Data_Type/Text.md|Text]],[[_Standards/schema-org/Class/is_a_/Data_Type/Text/Url.md|Url]]"
 dv_is_same_as:
   - "[[has_physical_requirement]]"
   - "[[/_public/schema-org/Relation/has/has_physical_requirement.public|has_physical_requirement.public]]"

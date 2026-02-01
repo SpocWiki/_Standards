@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_xpath]]"
+    - "[[/_public/schema-org/Relation/has/has_xpath.public|has_xpath.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_xpath.internal|has_xpath.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_xpath.protect|has_xpath.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_xpath.private|has_xpath.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_xpath.personal|has_xpath.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_xpath.secret|has_xpath.secret]]"
+dv_is_same_as:
+  - "[[has_xpath]]"
+  - "[[/_public/schema-org/Relation/has/has_xpath.public|has_xpath.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_xpath.internal|has_xpath.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_xpath.protect|has_xpath.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_xpath.private|has_xpath.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_xpath.personal|has_xpath.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_xpath.secret|has_xpath.secret]]"
+---
 ﻿---
 aliases:
   - has xpath

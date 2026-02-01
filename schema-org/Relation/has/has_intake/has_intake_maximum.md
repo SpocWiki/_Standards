@@ -41,22 +41,24 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_intake_maximum.private|has_intake_maximum.private]]"
     - "[[/_personal/schema-org/Relation/has/has_intake_maximum.personal|has_intake_maximum.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_intake_maximum.secret|has_intake_maximum.secret]]"
+    - "[[has_intake_maximum]]"
 dv_has_domain: DietarySupplement, Drug, DrugStrength, Substance
 dv_has_name: has_intake_maximum
 dv_has_range: MaximumDoseSchedule
 dv_is_same_as:
-  - "[[has_intake_maximum|has_intake_maximum]]"
+  - "[[has_intake_maximum]]"
   - "[[/_public/schema-org/Relation/has/has_intake_maximum.public|has_intake_maximum.public]]"
   - "[[/_internal/schema-org/Relation/has/has_intake_maximum.internal|has_intake_maximum.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_intake_maximum.protect|has_intake_maximum.protect]]"
   - "[[/_private/schema-org/Relation/has/has_intake_maximum.private|has_intake_maximum.private]]"
   - "[[/_personal/schema-org/Relation/has/has_intake_maximum.personal|has_intake_maximum.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_intake_maximum.secret|has_intake_maximum.secret]]"
+dv_is_a: "[[../../../Relation|Relation]]"
 ---
 
 # [[has_intake_maximum]] 
 
-is_a :: [[../../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 

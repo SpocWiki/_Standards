@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_shared_content]]"
+    - "[[/_public/schema-org/Relation/has/has_shared_content.public|has_shared_content.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_shared_content.internal|has_shared_content.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_shared_content.protect|has_shared_content.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_shared_content.private|has_shared_content.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_shared_content.personal|has_shared_content.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_shared_content.secret|has_shared_content.secret]]"
+dv_is_same_as:
+  - "[[has_shared_content]]"
+  - "[[/_public/schema-org/Relation/has/has_shared_content.public|has_shared_content.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_shared_content.internal|has_shared_content.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_shared_content.protect|has_shared_content.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_shared_content.private|has_shared_content.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_shared_content.personal|has_shared_content.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_shared_content.secret|has_shared_content.secret]]"
+---
 ﻿---
 aliases:
   - has shared-content

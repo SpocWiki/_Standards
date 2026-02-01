@@ -35,6 +35,7 @@ dv_has_:
     - "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]"
     - "[[../../Class/is_a_/Data_Type/Text|Text]]"
     - "[[../../Class/is_a_/Data_Type/Text/Url|Url]]"
+  inverse: "[[is_material_of]]"
 dv_is_a: "[[../../Relation|Relation]]"
 dv_is_:
   same_as:
@@ -48,9 +49,7 @@ dv_is_:
 dv_has_child_property:
   - "[[../../Property/Texts/has_art_medium|has_art_medium]]"
   - "[[../../Property/Texts/has_artwork_surface|has_artwork_surface]]"
-dv_has_domain:
-  - "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
-  - "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]"
+dv_has_domain: "[[_Standards/Society/Communication/Media/Creative_Work.md|Creative_Work]],[[_Standards/Society/Agent/Community/Organization/Business/Product.md|Product]]"
 dv_has_name: has_material
 dv_has_range:
   - "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]"
@@ -64,6 +63,7 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_material.private|has_material.private]]"
   - "[[/_personal/schema-org/Relation/has/has_material.personal|has_material.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_material.secret|has_material.secret]]"
+dv_has_inverse: "[[is_material_of]]"
 ---
 
 # [[has_material]] 
@@ -73,7 +73,7 @@ dv_is_same_as:
 is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_material_of]] 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/material : : `=this.dv_has_range` 

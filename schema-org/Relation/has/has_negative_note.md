@@ -32,9 +32,7 @@ dv_is_a: "[[../../Relation|Relation]]"
 dv_has_:
   dual_:
     property: "[[has_positive_note]]"
-  domain:
-    - "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]"
-    - "[[../../../Society/Communication/Media/Creative_Work/Review|Review]]"
+  domain: "[[_Standards/Society/Agent/Community/Organization/Business/Product.md|Product]],[[_Standards/Society/Communication/Media/Creative_Work/Review.md|Review]]"
   name: has_negative_note
   range:
     - "[[../../Collection/item_list|item_list]]"
@@ -53,17 +51,11 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_negative_note.private|has_negative_note.private]]"
     - "[[/_personal/schema-org/Relation/has/has_negative_note.personal|has_negative_note.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_negative_note.secret|has_negative_note.secret]]"
-dv_has_range:
-  - "[[../../Collection/item_list|item_list]]"
-  - "[[../../Collection/list_item|ListItem]]"
-  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
-  - "[[../../../Society/Communication/Media/Creative_Work/Web_Content|Web_Content]]"
+dv_has_range: "[[_Standards/schema-org/Collection/item_list.md|item_list]],[[_Standards/schema-org/Collection/list_item.md|ListItem]],[[_Standards/schema-org/Class/is_a_/Data_Type/Text.md|Text]],[[_Standards/Society/Communication/Media/Creative_Work/Web_Content.md|Web_Content]]"
 dv_is_part_of: "pending:"
 dv_is_similar_to: "#has_/result_/negative"
 dv_has_dual_property: "[[has_positive_note]]"
-dv_has_domain:
-  - "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]"
-  - "[[../../../Society/Communication/Media/Creative_Work/Review|Review]]"
+dv_has_domain: "[[_Standards/Society/Agent/Community/Organization/Business/Product.md|Product]],[[_Standards/Society/Communication/Media/Creative_Work/Review.md|Review]]"
 dv_has_name: has_negative_note
 dv_is_same_as:
   - "[[has_negative_note]]"

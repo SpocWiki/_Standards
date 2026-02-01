@@ -29,6 +29,7 @@ dv_has_:
   domain: "[[../../Class/is_a_/Intangible/Job_Posting|Job_Posting]]"
   name: has_application_contact
   range: "[[../../Class/is_a_/Intangible/Structured_Value/Contact_Point|Contact_Point]]"
+  application_contact: "[[_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point.md|Contact_Point]]"
 dv_is_a: "[[../../Relation|Relation]]"
 dv_is_:
   part_of: "pending:"
@@ -53,6 +54,7 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_application_contact.private|has_application_contact.private]]"
   - "[[/_personal/schema-org/Relation/has/has_application_contact.personal|has_application_contact.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_application_contact.secret|has_application_contact.secret]]"
+dv_has_application_contact: "[[_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Contact_Point.md|Contact_Point]]"
 ---
 
 # [[has_application_contact]] 

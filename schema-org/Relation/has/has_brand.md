@@ -26,9 +26,16 @@ tags:
 title: has_brand
 type: Predi_Relation
 dv_has_:
-  domain: ["[[../../../Society/Agent/Community/Organization|Organization]]", "[[../../../Society/Agent/Person|Person]]", "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]", "[[../../../Society/Agent/Community/Organization/Business/Service|Service]]"]
+  domain:
+    - "[[../../../Society/Agent/Community/Organization|Organization]]"
+    - "[[../../../Society/Agent/Person|Person]]"
+    - "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]"
+    - "[[../../../Society/Agent/Community/Organization/Business/Service|Service]]"
   name: has_brand
-  range: ["[[../../Class/is_a_/Intangible/Brand|Brand]]", "[[../../../Society/Agent/Community/Organization|Organization]]"]
+  range:
+    - "[[../../Class/is_a_/Intangible/Brand|Brand]]"
+    - "[[../../../Society/Agent/Community/Organization|Organization]]"
+  inverse: "[[is_brand_of]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_brand|has_brand]]"
@@ -38,26 +45,35 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_brand.private|has_brand.private]]"
     - "[[/_personal/schema-org/Relation/has/has_brand.personal|has_brand.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_brand.secret|has_brand.secret]]"
-dv_has_domain: ["[[../../../Society/Agent/Community/Organization|Organization]]", "[[../../../Society/Agent/Person|Person]]", "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]", "[[../../../Society/Agent/Community/Organization/Business/Service|Service]]"]
+    - "[[has_brand]]"
+dv_has_domain:
+  - "[[../../../Society/Agent/Community/Organization|Organization]]"
+  - "[[../../../Society/Agent/Person|Person]]"
+  - "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]"
+  - "[[../../../Society/Agent/Community/Organization/Business/Service|Service]]"
 dv_has_name: has_brand
-dv_has_range: ["[[../../Class/is_a_/Intangible/Brand|Brand]]", "[[../../../Society/Agent/Community/Organization|Organization]]"]
+dv_has_range:
+  - "[[../../Class/is_a_/Intangible/Brand|Brand]]"
+  - "[[../../../Society/Agent/Community/Organization|Organization]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_brand|has_brand]]"
+  - "[[has_brand]]"
   - "[[/_public/schema-org/Relation/has/has_brand.public|has_brand.public]]"
   - "[[/_internal/schema-org/Relation/has/has_brand.internal|has_brand.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_brand.protect|has_brand.protect]]"
   - "[[/_private/schema-org/Relation/has/has_brand.private|has_brand.private]]"
   - "[[/_personal/schema-org/Relation/has/has_brand.personal|has_brand.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_brand.secret|has_brand.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_brand_of]]"
 ---
 
 # [[has_brand]] 
 
-is_a :: [[../../Relation|Relation]]
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 
-#has_/inverse :: [[is_brand_of]] 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/brand : : `=this.dv_has_range` 

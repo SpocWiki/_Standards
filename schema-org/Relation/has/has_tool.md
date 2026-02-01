@@ -1,3 +1,34 @@
+---
+dv_has_:
+  tool: HowToTool, Text
+  domain: HowTo, HowToDirection
+  name: is_tool
+  range: HowToTool, Text
+  parent_:
+    property: instrument
+dv_has_tool: HowToTool, Text
+dv_is_:
+  same_as:
+    - "[[has_tool]]"
+    - "[[/_public/schema-org/Relation/has/has_tool.public|has_tool.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_tool.internal|has_tool.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_tool.protect|has_tool.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_tool.private|has_tool.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_tool.personal|has_tool.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_tool.secret|has_tool.secret]]"
+dv_has_domain: HowTo, HowToDirection
+dv_has_name: is_tool
+dv_has_range: HowToTool, Text
+dv_has_parent_property: instrument
+dv_is_same_as:
+  - "[[has_tool]]"
+  - "[[/_public/schema-org/Relation/has/has_tool.public|has_tool.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_tool.internal|has_tool.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_tool.protect|has_tool.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_tool.private|has_tool.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_tool.personal|has_tool.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_tool.secret|has_tool.secret]]"
+---
 ﻿---
 aliases:
   - has tool
@@ -35,18 +66,18 @@ is_a = `=this.dv_is_a`
 #class/Relation
 has_inverse = `=this.dv_has_inverse`
 - #has_/tool :: HowToTool, Text  
-- [ has_tool :: HowToTool, Text ] 
+- has_tool = `=this.dv_has_tool`  
 
 A sub property of instrument. An object used (but not consumed) when performing instructions or a direction.
 
 Relation describes that: 
 
-#has_/domain  :: HowTo, HowToDirection  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: is_tool )
-(has_/range :: HowToTool, Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#has_/parent_/property  :: instrument  
+has_parent_property = `=this.dv_has_parent_property` 
 
 ## Confidential Links & Embeds: 
 

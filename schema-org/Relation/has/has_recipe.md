@@ -1,3 +1,34 @@
+---
+dv_has_:
+  recipe: Recipe
+  domain: CookAction
+  name: is_recipe
+  range: Recipe
+  parent_:
+    property: instrument
+dv_has_recipe: Recipe
+dv_is_:
+  same_as:
+    - "[[has_recipe]]"
+    - "[[/_public/schema-org/Relation/has/has_recipe.public|has_recipe.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_recipe.internal|has_recipe.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_recipe.protect|has_recipe.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_recipe.private|has_recipe.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_recipe.personal|has_recipe.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_recipe.secret|has_recipe.secret]]"
+dv_has_domain: CookAction
+dv_has_name: is_recipe
+dv_has_range: Recipe
+dv_has_parent_property: instrument
+dv_is_same_as:
+  - "[[has_recipe]]"
+  - "[[/_public/schema-org/Relation/has/has_recipe.public|has_recipe.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_recipe.internal|has_recipe.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_recipe.protect|has_recipe.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_recipe.private|has_recipe.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_recipe.personal|has_recipe.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_recipe.secret|has_recipe.secret]]"
+---
 ﻿---
 aliases:
   - has_recipe
@@ -38,18 +69,18 @@ is_a = `=this.dv_is_a`
 #class/Relation
 has_inverse = `=this.dv_has_inverse`
 - #has_/recipe :: Recipe  
-- [ has_recipe :: Recipe ] 
+- has_recipe = `=this.dv_has_recipe`  
 
 A sub property of instrument. The recipe/instructions used to perform the action.
 
 Relation describes that: 
 
-#has_/domain  :: CookAction  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: is_recipe )
-(has_/range :: Recipe )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#has_/parent_/property  :: instrument  
+has_parent_property = `=this.dv_has_parent_property` 
 
 ## Confidential Links & Embeds: 
 

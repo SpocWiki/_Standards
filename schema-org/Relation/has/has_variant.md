@@ -1,3 +1,31 @@
+---
+dv_has_:
+  variant: Product
+  domain: ProductGroup
+  name: is_variant
+  range: Product
+dv_has_variant: Product
+dv_is_:
+  same_as:
+    - "[[has_variant]]"
+    - "[[/_public/schema-org/Relation/has/has_variant.public|has_variant.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_variant.internal|has_variant.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_variant.protect|has_variant.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_variant.private|has_variant.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_variant.personal|has_variant.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_variant.secret|has_variant.secret]]"
+dv_has_domain: ProductGroup
+dv_has_name: is_variant
+dv_has_range: Product
+dv_is_same_as:
+  - "[[has_variant]]"
+  - "[[/_public/schema-org/Relation/has/has_variant.public|has_variant.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_variant.internal|has_variant.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_variant.protect|has_variant.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_variant.private|has_variant.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_variant.personal|has_variant.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_variant.secret|has_variant.secret]]"
+---
 ﻿---
 aliases:
   - has-variant
@@ -38,7 +66,7 @@ has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
 - #has_/variant :: Product  
-- [ has_variant :: Product ] 
+- has_variant = `=this.dv_has_variant`  
 - is_variant_of : : `=this.dv_has_domain` 
 - #is_/variant_of : : `=this.dv_has_domain`
 
@@ -46,10 +74,10 @@ Indicates a [[../../../Society/Agent/Community/Organization/Business/Product]] t
 
 Relation describes that: 
 
-#has_/domain  :: ProductGroup  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: is_variant )
-(has_/range :: Product )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 has_inverse = `=this.dv_has_inverse`
 

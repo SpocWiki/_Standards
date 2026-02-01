@@ -41,21 +41,23 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_broadcast_frequency.private|has_broadcast_frequency.private]]"
     - "[[/_personal/schema-org/Relation/has/has_broadcast_frequency.personal|has_broadcast_frequency.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_broadcast_frequency.secret|has_broadcast_frequency.secret]]"
+    - "[[has_broadcast_frequency]]"
 dv_has_domain: BroadcastChannel, BroadcastService
 dv_has_name: has_broadcast_frequency
 dv_has_range: BroadcastFrequencySpecification, Text
 dv_is_same_as:
-  - "[[has_broadcast_frequency|has_broadcast_frequency]]"
+  - "[[has_broadcast_frequency]]"
   - "[[/_public/schema-org/Relation/has/has_broadcast_frequency.public|has_broadcast_frequency.public]]"
   - "[[/_internal/schema-org/Relation/has/has_broadcast_frequency.internal|has_broadcast_frequency.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_broadcast_frequency.protect|has_broadcast_frequency.protect]]"
   - "[[/_private/schema-org/Relation/has/has_broadcast_frequency.private|has_broadcast_frequency.private]]"
   - "[[/_personal/schema-org/Relation/has/has_broadcast_frequency.personal|has_broadcast_frequency.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_broadcast_frequency.secret|has_broadcast_frequency.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
 ---
 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 

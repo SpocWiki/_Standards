@@ -32,6 +32,7 @@ dv_has_:
     - "[[../../../Class/is_a_/Intangible/Order|Order]]"
   name: has_payment_method
   range: "[[../../../Enumeration/Payment_Method|Payment_Method]]"
+  inverse: "[[is_payment_method_for]]"
 dv_is_:
   same_as:
     - "[[has_payment_method|has_payment_method]]"
@@ -41,27 +42,30 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_payment_method.private|has_payment_method.private]]"
     - "[[/_personal/schema-org/Relation/has/has_payment_method.personal|has_payment_method.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_payment_method.secret|has_payment_method.secret]]"
+    - "[[has_payment_method]]"
 dv_has_domain:
   - "[[../../../Class/is_a_/Intangible/Invoice|Invoice]]"
   - "[[../../../Class/is_a_/Intangible/Order|Order]]"
 dv_has_name: has_payment_method
 dv_has_range: "[[../../../Enumeration/Payment_Method|Payment_Method]]"
 dv_is_same_as:
-  - "[[has_payment_method|has_payment_method]]"
+  - "[[has_payment_method]]"
   - "[[/_public/schema-org/Relation/has/has_payment_method.public|has_payment_method.public]]"
   - "[[/_internal/schema-org/Relation/has/has_payment_method.internal|has_payment_method.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_payment_method.protect|has_payment_method.protect]]"
   - "[[/_private/schema-org/Relation/has/has_payment_method.private|has_payment_method.private]]"
   - "[[/_personal/schema-org/Relation/has/has_payment_method.personal|has_payment_method.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_payment_method.secret|has_payment_method.secret]]"
+dv_is_a: "[[../../../Relation|Relation]]"
+dv_has_inverse: "[[is_payment_method_for]]"
 ---
 
 # [[has_payment_method]] 
 
-is_a :: [[../../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_payment_method_for]] 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/payment_/method : : `=this.dv_has_range` 

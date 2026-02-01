@@ -32,7 +32,8 @@ dv_has_:
   name: has_review_body
   range: Text
 dv_is_:
-  sa   - "[[has_review_body|has_review_body]]"
+  same_as:
+    - "[[has_review_body]]"
     - "[[/_public/schema-org/Property/Texts/has_review_body.public|has_review_body.public]]"
     - "[[/_internal/schema-org/Property/Texts/has_review_body.internal|has_review_body.internal]]"
     - "[[/_protect/schema-org/Property/Texts/has_review_body.protect|has_review_body.protect]]"
@@ -43,7 +44,7 @@ dv_has_domain: Review
 dv_has_name: has_review_body
 dv_has_range: Text
 dv_is_same_as:
-  - "[[has_review_body|has_review_body]]"
+  - "[[has_review_body]]"
   - "[[/_public/schema-org/Property/Texts/has_review_body.public|has_review_body.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_review_body.internal|has_review_body.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_review_body.protect|has_review_body.protect]]"

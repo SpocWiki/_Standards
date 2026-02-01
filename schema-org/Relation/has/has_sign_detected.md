@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_sign_detected]]"
+    - "[[/_public/schema-org/Relation/has/has_sign_detected.public|has_sign_detected.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_sign_detected.internal|has_sign_detected.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_sign_detected.protect|has_sign_detected.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_sign_detected.private|has_sign_detected.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_sign_detected.personal|has_sign_detected.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_sign_detected.secret|has_sign_detected.secret]]"
+dv_is_same_as:
+  - "[[has_sign_detected]]"
+  - "[[/_public/schema-org/Relation/has/has_sign_detected.public|has_sign_detected.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_sign_detected.internal|has_sign_detected.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_sign_detected.protect|has_sign_detected.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_sign_detected.private|has_sign_detected.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_sign_detected.personal|has_sign_detected.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_sign_detected.secret|has_sign_detected.secret]]"
+---
 ﻿---
 aliases:
   - has sign-detected

@@ -41,21 +41,23 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_relevant_specialty.private|has_relevant_specialty.private]]"
     - "[[/_personal/schema-org/Relation/has/has_relevant_specialty.personal|has_relevant_specialty.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_relevant_specialty.secret|has_relevant_specialty.secret]]"
+    - "[[has_relevant_specialty]]"
 dv_has_domain: MedicalEntity
 dv_has_name: is_relevant_specialty
 dv_has_range: MedicalSpecialty
 dv_is_same_as:
-  - "[[has_relevant_specialty|has_relevant_specialty]]"
+  - "[[has_relevant_specialty]]"
   - "[[/_public/schema-org/Relation/has/has_relevant_specialty.public|has_relevant_specialty.public]]"
   - "[[/_internal/schema-org/Relation/has/has_relevant_specialty.internal|has_relevant_specialty.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_relevant_specialty.protect|has_relevant_specialty.protect]]"
   - "[[/_private/schema-org/Relation/has/has_relevant_specialty.private|has_relevant_specialty.private]]"
   - "[[/_personal/schema-org/Relation/has/has_relevant_specialty.personal|has_relevant_specialty.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_relevant_specialty.secret|has_relevant_specialty.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
 ---
 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 

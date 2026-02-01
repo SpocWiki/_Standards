@@ -1,3 +1,31 @@
+---
+dv_has_:
+  price_component_type: PriceComponentTypeEnumeration
+  domain: UnitPriceSpecification
+  name: is_price_component_type
+  range: PriceComponentTypeEnumeration
+dv_has_price_component_type: PriceComponentTypeEnumeration
+dv_is_:
+  same_as:
+    - "[[has_price_component_type]]"
+    - "[[/_public/schema-org/Relation/has/has_price_component_type.public|has_price_component_type.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_price_component_type.internal|has_price_component_type.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_price_component_type.protect|has_price_component_type.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_price_component_type.private|has_price_component_type.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_price_component_type.personal|has_price_component_type.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_price_component_type.secret|has_price_component_type.secret]]"
+dv_has_domain: UnitPriceSpecification
+dv_has_name: is_price_component_type
+dv_has_range: PriceComponentTypeEnumeration
+dv_is_same_as:
+  - "[[has_price_component_type]]"
+  - "[[/_public/schema-org/Relation/has/has_price_component_type.public|has_price_component_type.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_price_component_type.internal|has_price_component_type.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_price_component_type.protect|has_price_component_type.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_price_component_type.private|has_price_component_type.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_price_component_type.personal|has_price_component_type.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_price_component_type.secret|has_price_component_type.secret]]"
+---
 ﻿---
 aliases:
   - has price-component-type
@@ -41,7 +69,7 @@ has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
 - #has_/price_component_type :: PriceComponentTypeEnumeration  
-- [ has_price_component_type :: PriceComponentTypeEnumeration ] 
+- has_price_component_type = `=this.dv_has_price_component_type`  
 - is_price_component_type_of : : `=this.dv_has_domain` 
 - #is_/price_component_type_of : : `=this.dv_has_domain`
 
@@ -49,10 +77,10 @@ Identifies a price component (for example, a line item on an invoice), part of t
 
 Relation describes that: 
 
-#has_/domain  :: UnitPriceSpecification  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: is_price_component_type )
-(has_/range :: PriceComponentTypeEnumeration )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

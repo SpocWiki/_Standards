@@ -1,3 +1,61 @@
+---
+dv_has_:
+  provider:
+    - "[[../../../Society/Agent/Community/Organization|Organization]]"
+    - "[[../../../Society/Agent/Person|Person]]"
+  domain:
+    - "[[../../Class/is_a_/Action|Action]]"
+    - "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
+    - "[[../../Class/is_a_/Intangible/Educational_Occupational_Program|Educational_Occupational_Program]]"
+    - "[[../../Class/is_a_/Intangible/Invoice|Invoice]]"
+    - "[[../../Class/is_a_/Intangible/Parcel_Delivery|Parcel_Delivery]]"
+    - "[[../../Class/is_a_/Intangible/Reservation|Reservation]]"
+    - "[[../../../Society/Agent/Community/Organization/Business/Service|Service]]"
+    - "[[../../Class/is_a_/Intangible/Trip|Trip]]"
+  name: is_provider
+  range:
+    - "[[../../../Society/Agent/Community/Organization|Organization]]"
+    - "[[../../../Society/Agent/Person|Person]]"
+dv_has_provider:
+  - "[[../../../Society/Agent/Community/Organization|Organization]]"
+  - "[[../../../Society/Agent/Person|Person]]"
+dv_is_:
+  similar_to:
+    - "[[../../Property/Texts/has_dependencies]]"
+    - "[[../../Property/Texts/has_server]]"
+  same_as:
+    - "[[has_provider]]"
+    - "[[/_public/schema-org/Relation/has/has_provider.public|has_provider.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_provider.internal|has_provider.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_provider.protect|has_provider.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_provider.private|has_provider.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_provider.personal|has_provider.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_provider.secret|has_provider.secret]]"
+dv_is_similar_to:
+  - "[[../../Property/Texts/has_dependencies]]"
+  - "[[../../Property/Texts/has_server]]"
+dv_has_domain:
+  - "[[../../Class/is_a_/Action|Action]]"
+  - "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
+  - "[[../../Class/is_a_/Intangible/Educational_Occupational_Program|Educational_Occupational_Program]]"
+  - "[[../../Class/is_a_/Intangible/Invoice|Invoice]]"
+  - "[[../../Class/is_a_/Intangible/Parcel_Delivery|Parcel_Delivery]]"
+  - "[[../../Class/is_a_/Intangible/Reservation|Reservation]]"
+  - "[[../../../Society/Agent/Community/Organization/Business/Service|Service]]"
+  - "[[../../Class/is_a_/Intangible/Trip|Trip]]"
+dv_has_name: is_provider
+dv_has_range:
+  - "[[../../../Society/Agent/Community/Organization|Organization]]"
+  - "[[../../../Society/Agent/Person|Person]]"
+dv_is_same_as:
+  - "[[has_provider]]"
+  - "[[/_public/schema-org/Relation/has/has_provider.public|has_provider.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_provider.internal|has_provider.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_provider.protect|has_provider.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_provider.private|has_provider.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_provider.personal|has_provider.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_provider.secret|has_provider.secret]]"
+---
 ﻿---
 aliases:
   - has provider
@@ -59,7 +117,7 @@ A provider may also serve as the seller.
 Relation describes that: 
 
 #has_/domain  :: [[../../Class/is_a_/Action|Action]],  [[../../../Society/Communication/Media/Creative_Work|Creative_Work]],  [[../../Class/is_a_/Intangible/Educational_Occupational_Program|Educational_Occupational_Program]],  [[../../Class/is_a_/Intangible/Invoice|Invoice]],  [[../../Class/is_a_/Intangible/Parcel_Delivery|Parcel_Delivery]],  [[../../Class/is_a_/Intangible/Reservation|Reservation]],  [[../../../Society/Agent/Community/Organization/Business/Service|Service]],  [[../../Class/is_a_/Intangible/Trip|Trip]]  
-(has_/name :: is_provider ) 
+has_name = `=this.dv_has_name`  
 (has_/range ::  [[../../../Society/Agent/Community/Organization|Organization]],  [[../../../Society/Agent/Person|Person]]  )
 
 

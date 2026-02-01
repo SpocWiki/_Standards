@@ -37,6 +37,7 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/is_suitable_for_diet.private|is_suitable_for_diet.private]]"
     - "[[/_personal/schema-org/Relation/has/is_suitable_for_diet.personal|is_suitable_for_diet.personal]]"
     - "[[/_secret/schema-org/Relation/has/is_suitable_for_diet.secret|is_suitable_for_diet.secret]]"
+    - "[[is_suitable_for_diet]]"
 dv_is_suitable_for_diet: RestrictedDiet
 dv_has_:
   domain: MenuItem, Recipe
@@ -46,7 +47,7 @@ dv_has_domain: MenuItem, Recipe
 dv_has_name: is_suitable_for_diet
 dv_has_range: RestrictedDiet
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/is_suitable_for_diet|is_suitable_for_diet]]"
+  - "[[is_suitable_for_diet]]"
   - "[[/_public/schema-org/Relation/has/is_suitable_for_diet.public|is_suitable_for_diet.public]]"
   - "[[/_internal/schema-org/Relation/has/is_suitable_for_diet.internal|is_suitable_for_diet.internal]]"
   - "[[/_protect/schema-org/Relation/has/is_suitable_for_diet.protect|is_suitable_for_diet.protect]]"

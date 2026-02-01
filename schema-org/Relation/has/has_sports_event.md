@@ -1,3 +1,34 @@
+---
+dv_has_:
+  sports_event: SportsEvent
+  domain: ExerciseAction
+  name: is_sports_event
+  range: SportsEvent
+  parent_:
+    property: location
+dv_has_sports_event: SportsEvent
+dv_is_:
+  same_as:
+    - "[[has_sports_event]]"
+    - "[[/_public/schema-org/Relation/has/has_sports_event.public|has_sports_event.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_sports_event.internal|has_sports_event.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_sports_event.protect|has_sports_event.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_sports_event.private|has_sports_event.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_sports_event.personal|has_sports_event.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_sports_event.secret|has_sports_event.secret]]"
+dv_has_domain: ExerciseAction
+dv_has_name: is_sports_event
+dv_has_range: SportsEvent
+dv_has_parent_property: location
+dv_is_same_as:
+  - "[[has_sports_event]]"
+  - "[[/_public/schema-org/Relation/has/has_sports_event.public|has_sports_event.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_sports_event.internal|has_sports_event.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_sports_event.protect|has_sports_event.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_sports_event.private|has_sports_event.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_sports_event.personal|has_sports_event.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_sports_event.secret|has_sports_event.secret]]"
+---
 ﻿---
 aliases:
   - has sports-event
@@ -39,18 +70,18 @@ is_a = `=this.dv_is_a`
 #class/Relation
 has_inverse = `=this.dv_has_inverse`
 - #has_/sports_event :: SportsEvent  
-- [ has_sports_event :: SportsEvent ] 
+- has_sports_event = `=this.dv_has_sports_event`  
 
 A sub property of location. The sports event where this action occurred.
 
 Relation describes that: 
 
-#has_/domain  :: ExerciseAction  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: is_sports_event )
-(has_/range :: SportsEvent )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#has_/parent_/property  :: location  
+has_parent_property = `=this.dv_has_parent_property` 
 
 ## Confidential Links & Embeds: 
 

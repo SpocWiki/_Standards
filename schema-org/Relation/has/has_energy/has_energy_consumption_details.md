@@ -9,7 +9,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -18,21 +18,47 @@ keywords:
   - details
   - energy_consumption_details
   - energyConsumptionDetails
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_energy_consumption_details
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_energy_consumption_details
 type: Predi_Relation
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[has_energy_consumption_details]]"
+    - "[[/_public/schema-org/Relation/has/has_energy_consumption_details.public|has_energy_consumption_details.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_energy_consumption_details.internal|has_energy_consumption_details.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_energy_consumption_details.protect|has_energy_consumption_details.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_energy_consumption_details.private|has_energy_consumption_details.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_energy_consumption_details.personal|has_energy_consumption_details.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_energy_consumption_details.secret|has_energy_consumption_details.secret]]"
+dv_has_:
+  domain: "[[../../../../Society/Agent/Community/Organization/Business/Product|Product]]"
+  name: has_energy_consumption_details
+  range: "[[../../../Class/is_a_/Intangible/Energy_Consumption_Details|EnergyConsumptionDetails]]"
+dv_is_part_of: "pending:"
+dv_has_domain: "[[../../../../Society/Agent/Community/Organization/Business/Product|Product]]"
+dv_has_name: has_energy_consumption_details
+dv_has_range: "[[../../../Class/is_a_/Intangible/Energy_Consumption_Details|EnergyConsumptionDetails]]"
+dv_is_same_as:
+  - "[[has_energy_consumption_details]]"
+  - "[[/_public/schema-org/Relation/has/has_energy_consumption_details.public|has_energy_consumption_details.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_energy_consumption_details.internal|has_energy_consumption_details.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_energy_consumption_details.protect|has_energy_consumption_details.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_energy_consumption_details.private|has_energy_consumption_details.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_energy_consumption_details.personal|has_energy_consumption_details.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_energy_consumption_details.secret|has_energy_consumption_details.secret]]"
 ---
 
 # [[has_energy_consumption_details]] 
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
 - #has_/energy_/consumption_/details : : EnergyConsumptionDetails  
@@ -42,9 +68,9 @@ Defines the energy efficiency Category (also known as "class" or "rating") for a
 
 Relation describes that: 
 
-#has_/domain  :: [[../../../../Society/Agent/Community/Organization/Business/Product|Product]]  
-(has_/name :: has_energy_consumption_details )
-(has_/range :: [[../../../Class/is_a_/Intangible/Energy_Consumption_Details|EnergyConsumptionDetails]] )
+has_domain = `=this.dv_has_domain` 
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

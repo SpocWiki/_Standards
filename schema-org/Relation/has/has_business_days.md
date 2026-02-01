@@ -54,11 +54,12 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/has/has_business_days.personal|has_business_days.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_business_days.secret|has_business_days.secret]]"
 dv_has_inverse: "[[is_business_days_of]]"
+dv_is_a: "[[../../Relation|Relation]]"
 ---
 
 # [[has_business_days]] 
 
-is_a :: [[../../Relation|Relation]]
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 

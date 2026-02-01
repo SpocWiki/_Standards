@@ -11,29 +11,62 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - teaches
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_teaches
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_teaches
 type: Predi_Relation
+dv_is_:
+  teaching:
+    - DefinedTerm, Text
+    - DefinedTerm, Text
+  part_of: "pending:"
+  same_as:
+    - "[[is_teaching]]"
+    - "[[/_public/schema-org/Relation/has/is_teaching.public|is_teaching.public]]"
+    - "[[/_internal/schema-org/Relation/has/is_teaching.internal|is_teaching.internal]]"
+    - "[[/_protect/schema-org/Relation/has/is_teaching.protect|is_teaching.protect]]"
+    - "[[/_private/schema-org/Relation/has/is_teaching.private|is_teaching.private]]"
+    - "[[/_personal/schema-org/Relation/has/is_teaching.personal|is_teaching.personal]]"
+    - "[[/_secret/schema-org/Relation/has/is_teaching.secret|is_teaching.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_:
+  domain: CreativeWork, EducationEvent, LearningResource
+  name: is_teaches
+  range: DefinedTerm, Text
+dv_is_teaching:
+  - DefinedTerm, Text
+  - DefinedTerm, Text
+dv_is_part_of: "pending:"
+dv_has_domain: CreativeWork, EducationEvent, LearningResource
+dv_has_name: is_teaches
+dv_has_range: DefinedTerm, Text
+dv_is_same_as:
+  - "[[is_teaching]]"
+  - "[[/_public/schema-org/Relation/has/is_teaching.public|is_teaching.public]]"
+  - "[[/_internal/schema-org/Relation/has/is_teaching.internal|is_teaching.internal]]"
+  - "[[/_protect/schema-org/Relation/has/is_teaching.protect|is_teaching.protect]]"
+  - "[[/_private/schema-org/Relation/has/is_teaching.private|is_teaching.private]]"
+  - "[[/_personal/schema-org/Relation/has/is_teaching.personal|is_teaching.personal]]"
+  - "[[/_secret/schema-org/Relation/has/is_teaching.secret|is_teaching.secret]]"
 ---
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
 - #is_/teaching :: DefinedTerm, Text  
@@ -44,10 +77,10 @@ to help a person learn the competency or learning outcome defined by the referen
 
 Relation describes that: 
 
-#has_/domain  :: CreativeWork, EducationEvent, LearningResource  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: is_teaches )
-(has_/range :: DefinedTerm, Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

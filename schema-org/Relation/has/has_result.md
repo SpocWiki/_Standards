@@ -1,3 +1,34 @@
+---
+dv_has_:
+  result: "[Thing](../../../Class/Thing)"
+  domain: Action
+  name: is_result
+  range: Thing
+  child_:
+    property: "[ resultComment, resultReview ]"
+dv_has_result: "[Thing](../../../Class/Thing)"
+dv_is_:
+  same_as:
+    - "[[has_result]]"
+    - "[[/_public/schema-org/Relation/has/has_result.public|has_result.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_result.internal|has_result.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_result.protect|has_result.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_result.private|has_result.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_result.personal|has_result.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_result.secret|has_result.secret]]"
+dv_has_domain: Action
+dv_has_name: is_result
+dv_has_range: Thing
+dv_has_child_property: "[ resultComment, resultReview ]"
+dv_is_same_as:
+  - "[[has_result]]"
+  - "[[/_public/schema-org/Relation/has/has_result.public|has_result.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_result.internal|has_result.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_result.protect|has_result.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_result.private|has_result.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_result.personal|has_result.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_result.secret|has_result.secret]]"
+---
 ﻿---
 aliases:
   - has result
@@ -43,11 +74,11 @@ The result produced in the action. E.g. John wrote <em>a book</em>.
 
 Relation describes that: 
 
-#has_/domain  :: Action  
-(has_/name :: is_result )
-(has_/range :: Thing )
+has_domain = `=this.dv_has_domain` 
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#has_/child_/property :: [ resultComment, resultReview ]  
+has_child_property = `=this.dv_has_child_property` 
 
 ## Confidential Links & Embeds: 
 

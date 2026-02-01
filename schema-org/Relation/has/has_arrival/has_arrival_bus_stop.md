@@ -40,21 +40,23 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_arrival_bus_stop.private|has_arrival_bus_stop.private]]"
     - "[[/_personal/schema-org/Relation/has/has_arrival_bus_stop.personal|has_arrival_bus_stop.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_arrival_bus_stop.secret|has_arrival_bus_stop.secret]]"
+    - "[[has_arrival_bus_stop]]"
 dv_has_domain: BusTrip
 dv_has_name: has_arrival_bus_stop
 dv_has_range: BusStation, BusStop
 dv_is_same_as:
-  - "[[has_arrival_bus_stop|has_arrival_bus_stop]]"
+  - "[[has_arrival_bus_stop]]"
   - "[[/_public/schema-org/Relation/has/has_arrival_bus_stop.public|has_arrival_bus_stop.public]]"
   - "[[/_internal/schema-org/Relation/has/has_arrival_bus_stop.internal|has_arrival_bus_stop.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_arrival_bus_stop.protect|has_arrival_bus_stop.protect]]"
   - "[[/_private/schema-org/Relation/has/has_arrival_bus_stop.private|has_arrival_bus_stop.private]]"
   - "[[/_personal/schema-org/Relation/has/has_arrival_bus_stop.personal|has_arrival_bus_stop.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_arrival_bus_stop.secret|has_arrival_bus_stop.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
 ---
 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 

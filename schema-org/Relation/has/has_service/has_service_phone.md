@@ -41,21 +41,23 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_service_phone.private|has_service_phone.private]]"
     - "[[/_personal/schema-org/Relation/has/has_service_phone.personal|has_service_phone.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_service_phone.secret|has_service_phone.secret]]"
+    - "[[has_service_phone]]"
 dv_has_domain: ServiceChannel
 dv_has_name: is_service_phone
 dv_has_range: ContactPoint
 dv_is_same_as:
-  - "[[has_service_phone|has_service_phone]]"
+  - "[[has_service_phone]]"
   - "[[/_public/schema-org/Relation/has/has_service_phone.public|has_service_phone.public]]"
   - "[[/_internal/schema-org/Relation/has/has_service_phone.internal|has_service_phone.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_service_phone.protect|has_service_phone.protect]]"
   - "[[/_private/schema-org/Relation/has/has_service_phone.private|has_service_phone.private]]"
   - "[[/_personal/schema-org/Relation/has/has_service_phone.personal|has_service_phone.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_service_phone.secret|has_service_phone.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
 ---
 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 

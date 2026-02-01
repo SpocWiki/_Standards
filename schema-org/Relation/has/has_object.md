@@ -1,3 +1,52 @@
+---
+dv_has_:
+  object: "[[../../Class/Thing|Thing]]"
+  domain: "[[../../Class/is_a_/Action|Action]]"
+  name: "[[has_object]]"
+  range: "[[../../Class/Thing|Thing]]"
+  child_:
+    property:
+      - "[[../../Texts/has_action_option.md|has_actionOption]]"
+      - "[[has_candidate]]"
+      - "[[../is/is_in_collection]]"
+      - "[[../is/is_followee_of|is_followee_of]]"
+      - "[[../../Property/Texts/has_action_option|has_action_option]]"
+      - "[[has_question]]"
+      - "[[has_replacee]]"
+      - "[[has_replacer]]"
+      - "[[has_target/has_target_collection|has_targetCollection]]"
+dv_has_object: "[[../../Class/Thing|Thing]]"
+dv_is_:
+  same_as:
+    - "[[has_object]]"
+    - "[[/_public/schema-org/Relation/has/has_object.public|has_object.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_object.internal|has_object.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_object.protect|has_object.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_object.private|has_object.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_object.personal|has_object.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_object.secret|has_object.secret]]"
+dv_has_domain: "[[../../Class/is_a_/Action|Action]]"
+dv_has_name: "[[has_object]]"
+dv_has_range: "[[../../Class/Thing|Thing]]"
+dv_has_child_property:
+  - "[[../../Texts/has_action_option.md|has_actionOption]]"
+  - "[[has_candidate]]"
+  - "[[../is/is_in_collection]]"
+  - "[[../is/is_followee_of|is_followee_of]]"
+  - "[[../../Property/Texts/has_action_option|has_action_option]]"
+  - "[[has_question]]"
+  - "[[has_replacee]]"
+  - "[[has_replacer]]"
+  - "[[has_target/has_target_collection|has_targetCollection]]"
+dv_is_same_as:
+  - "[[has_object]]"
+  - "[[/_public/schema-org/Relation/has/has_object.public|has_object.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_object.internal|has_object.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_object.protect|has_object.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_object.private|has_object.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_object.personal|has_object.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_object.secret|has_object.secret]]"
+---
 ﻿---
 aliases:
   - has object
@@ -48,9 +97,9 @@ Rather choose one of the more specific Roles listed below:
 
 Relation describes that: 
 
-#has_/domain  :: [[../../Class/is_a_/Action|Action]]   
-(has_/name :: "[[has_object]]" )
-(has_/range :: "[[../../Class/Thing|Thing]]" ) 
+has_domain = `=this.dv_has_domain` 
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range`  
 
 (Links work only in read-mode)
 #has_/child_/property :: [[../../Texts/has_action_option.md|has_actionOption]] , [[has_candidate.md]] , [[../is/is_in_collection.md]],  [[../is/is_followee_of|is_followee_of]],  [[../../Property/Texts/has_action_option|has_action_option]] , [[has_question.md]],  [[has_replacee]],  [[has_replacer|has_replacer]] , [[has_target/has_target_collection|has_targetCollection]] 

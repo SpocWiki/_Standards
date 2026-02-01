@@ -1,3 +1,34 @@
+---
+dv_has_:
+  question: Question
+  domain: AskAction
+  name: is_question
+  range: Question
+  parent_:
+    property: object
+dv_has_question: Question
+dv_is_:
+  same_as:
+    - "[[has_question]]"
+    - "[[/_public/schema-org/Relation/has/has_question.public|has_question.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_question.internal|has_question.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_question.protect|has_question.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_question.private|has_question.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_question.personal|has_question.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_question.secret|has_question.secret]]"
+dv_has_domain: AskAction
+dv_has_name: is_question
+dv_has_range: Question
+dv_has_parent_property: object
+dv_is_same_as:
+  - "[[has_question]]"
+  - "[[/_public/schema-org/Relation/has/has_question.public|has_question.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_question.internal|has_question.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_question.protect|has_question.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_question.private|has_question.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_question.personal|has_question.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_question.secret|has_question.secret]]"
+---
 ﻿---
 aliases:
   - has question
@@ -35,18 +66,18 @@ is_a = `=this.dv_is_a`
 #class/Relation
 has_inverse = `=this.dv_has_inverse`
 - #has_/question :: Question  
-- [ has_question :: Question ] 
+- has_question = `=this.dv_has_question`  
 
 A sub property of object. A question.
 
 Relation describes that: 
 
-#has_/domain  :: AskAction  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: is_question )
-(has_/range :: Question )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#has_/parent_/property  :: object  
+has_parent_property = `=this.dv_has_parent_property` 
 
 ## Confidential Links & Embeds: 
 

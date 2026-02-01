@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_special_opening_hours_specification]]"
+    - "[[/_public/schema-org/Relation/has/has_special_opening_hours_specification.public|has_special_opening_hours_specification.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_special_opening_hours_specification.internal|has_special_opening_hours_specification.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_special_opening_hours_specification.protect|has_special_opening_hours_specification.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_special_opening_hours_specification.private|has_special_opening_hours_specification.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_special_opening_hours_specification.personal|has_special_opening_hours_specification.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_special_opening_hours_specification.secret|has_special_opening_hours_specification.secret]]"
+dv_is_same_as:
+  - "[[has_special_opening_hours_specification]]"
+  - "[[/_public/schema-org/Relation/has/has_special_opening_hours_specification.public|has_special_opening_hours_specification.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_special_opening_hours_specification.internal|has_special_opening_hours_specification.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_special_opening_hours_specification.protect|has_special_opening_hours_specification.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_special_opening_hours_specification.private|has_special_opening_hours_specification.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_special_opening_hours_specification.personal|has_special_opening_hours_specification.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_special_opening_hours_specification.secret|has_special_opening_hours_specification.secret]]"
+---
 ﻿---
 aliases:
   - has special-opening-hours-specification

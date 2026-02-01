@@ -9,33 +9,67 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - home_location
   - home
   - location
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_home_location
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_home_location
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_:
+  inverse: "[[is_home_location_of]]"
+  parent_:
+    property: "[[../../Property/has_location/has_location|has_location]]"
+  domain: "[[../../../Society/Agent/Person|Person]]"
+  name: has_home_location
+  range:
+    - "[[../../Class/is_a_/Intangible/Structured_Value/Contact_Point|Contact_Point]]"
+    - "[[../../../Earth/Geography/Place|Place]]"
+dv_is_:
+  same_as:
+    - "[[has_home_location]]"
+    - "[[/_public/schema-org/Relation/has/has_home_location.public|has_home_location.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_home_location.internal|has_home_location.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_home_location.protect|has_home_location.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_home_location.private|has_home_location.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_home_location.personal|has_home_location.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_home_location.secret|has_home_location.secret]]"
+dv_has_inverse: "[[is_home_location_of]]"
+dv_has_parent_property: "[[../../Property/has_location/has_location|has_location]]"
+dv_has_domain: "[[../../../Society/Agent/Person|Person]]"
+dv_has_name: has_home_location
+dv_has_range:
+  - "[[../../Class/is_a_/Intangible/Structured_Value/Contact_Point|Contact_Point]]"
+  - "[[../../../Earth/Geography/Place|Place]]"
+dv_is_same_as:
+  - "[[has_home_location]]"
+  - "[[/_public/schema-org/Relation/has/has_home_location.public|has_home_location.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_home_location.internal|has_home_location.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_home_location.protect|has_home_location.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_home_location.private|has_home_location.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_home_location.personal|has_home_location.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_home_location.secret|has_home_location.secret]]"
 ---
 
 # [[has_home_location]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_home_location_of]]
+has_inverse = `=this.dv_has_inverse` 
 
-#has_/parent_/property  :: [[../../Property/has_location/has_location|has_location]]  
+has_parent_property = `=this.dv_has_parent_property` 
 
 Use it like this: 
 - #has_/home_location : : ContactPoint, Place  
@@ -46,8 +80,8 @@ A contact location for a person's residence.
 
 Relation describes that: 
 
-#has_/domain  :: [[../../../Society/Agent/Person|Person]]  
-(has_/name :: has_home_location )
+has_domain = `=this.dv_has_domain` 
+has_name = `=this.dv_has_name` 
 (has_/range :: [[../../Class/is_a_/Intangible/Structured_Value/Contact_Point|Contact_Point]], [[../../../Earth/Geography/Place|Place]] )
 
 

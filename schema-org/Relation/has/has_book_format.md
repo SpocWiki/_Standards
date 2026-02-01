@@ -30,6 +30,7 @@ dv_has_:
   domain: "[[../../../Society/Communication/Media/Writing/Book|Book]]"
   name: has_book_format
   range: "[[../../Enumeration/Book_Format_Type|Book_Format_Type]]"
+  inverse: "[[is_book_format_of]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_book_format|has_book_format]]"
@@ -39,26 +40,29 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_book_format.private|has_book_format.private]]"
     - "[[/_personal/schema-org/Relation/has/has_book_format.personal|has_book_format.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_book_format.secret|has_book_format.secret]]"
+    - "[[has_book_format]]"
 dv_has_domain: "[[../../../Society/Communication/Media/Writing/Book|Book]]"
 dv_has_name: has_book_format
 dv_has_range: "[[../../Enumeration/Book_Format_Type|Book_Format_Type]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_book_format|has_book_format]]"
+  - "[[has_book_format]]"
   - "[[/_public/schema-org/Relation/has/has_book_format.public|has_book_format.public]]"
   - "[[/_internal/schema-org/Relation/has/has_book_format.internal|has_book_format.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_book_format.protect|has_book_format.protect]]"
   - "[[/_private/schema-org/Relation/has/has_book_format.private|has_book_format.private]]"
   - "[[/_personal/schema-org/Relation/has/has_book_format.personal|has_book_format.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_book_format.secret|has_book_format.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_book_format_of]]"
 ---
 
 # [[has_book_format]] 
 
-is_a :: [[../../Relation|Relation]]
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 
-#has_/inverse :: [[is_book_format_of]]
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/book_/format : : `=this.dv_has_range` 

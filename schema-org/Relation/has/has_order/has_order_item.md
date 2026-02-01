@@ -55,6 +55,7 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_order_item.private|has_order_item.private]]"
     - "[[/_personal/schema-org/Relation/has/has_order_item.personal|has_order_item.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_order_item.secret|has_order_item.secret]]"
+    - "[[has_order_item]]"
 dv_has_domain:
   - "[[../../../Class/is_a_/Intangible/Order|Order]]"
   - "[[../../../Class/is_a_/Intangible/Order_Item|Order_Item]]"
@@ -64,7 +65,7 @@ dv_has_range:
   - "[[../../../../Society/Agent/Community/Organization/Business/Product|Product]]"
   - "[[../../../../Society/Agent/Community/Organization/Business/Service|Service]]"
 dv_is_same_as:
-  - "[[has_order_item|has_order_item]]"
+  - "[[has_order_item]]"
   - "[[/_public/schema-org/Relation/has/has_order_item.public|has_order_item.public]]"
   - "[[/_internal/schema-org/Relation/has/has_order_item.internal|has_order_item.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_order_item.protect|has_order_item.protect]]"

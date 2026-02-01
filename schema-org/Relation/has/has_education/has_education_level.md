@@ -11,7 +11,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -19,21 +19,70 @@ keywords:
   - level
   - educational_level
   - educationalLevel
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_education_level
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_education_level
 type: Predi_Relation
+dv_has_:
+  education_:
+    level:
+      - "[[../../../Class/is_a_/Intangible/Defined_Term|Defined_Term]]"
+      - "[[../../../Class/is_a_/Data_Type/Text|Text]]"
+      - "[[../../../Class/is_a_/Data_Type/Text/Url|Url]]"
+  domain:
+    - "[[../../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
+    - "[[../../../Class/is_a_/Event/Education_Event|Education_Event]]"
+    - "[[../../../../Society/Communication/Media/Creative_Work/Educational_Occupational_Credential|Educational_Occupational_Credential]]"
+    - "[[../../../../Society/Communication/Media/Creative_Work/Learning_Resource|Learning_Resource]]"
+  name: "[[has_education_level]]"
+  range:
+    - "[[../../../Class/is_a_/Intangible/Defined_Term|Defined_Term]]"
+    - "[[../../../Class/is_a_/Data_Type/Text|Text]]"
+    - "[[../../../Class/is_a_/Data_Type/Text/Url|Url]]"
+dv_has_education_level:
+  - "[[../../Class/is_a_/Intangible/Defined_Term|Defined_Term]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
+  - "[[../../Class/is_a_/Data_Type/Text/Url|Url]]"
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[has_education_level]]"
+    - "[[/_public/schema-org/Relation/has/has_education_level.public|has_education_level.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_education_level.internal|has_education_level.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_education_level.protect|has_education_level.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_education_level.private|has_education_level.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_education_level.personal|has_education_level.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_education_level.secret|has_education_level.secret]]"
+dv_is_part_of: "pending:"
+dv_has_domain:
+  - "[[../../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
+  - "[[../../../Class/is_a_/Event/Education_Event|Education_Event]]"
+  - "[[../../../../Society/Communication/Media/Creative_Work/Educational_Occupational_Credential|Educational_Occupational_Credential]]"
+  - "[[../../../../Society/Communication/Media/Creative_Work/Learning_Resource|Learning_Resource]]"
+dv_has_name: "[[has_education_level]]"
+dv_has_range:
+  - "[[../../../Class/is_a_/Intangible/Defined_Term|Defined_Term]]"
+  - "[[../../../Class/is_a_/Data_Type/Text|Text]]"
+  - "[[../../../Class/is_a_/Data_Type/Text/Url|Url]]"
+dv_is_same_as:
+  - "[[has_education_level]]"
+  - "[[/_public/schema-org/Relation/has/has_education_level.public|has_education_level.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_education_level.internal|has_education_level.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_education_level.protect|has_education_level.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_education_level.private|has_education_level.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_education_level.personal|has_education_level.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_education_level.secret|has_education_level.secret]]"
 ---
 
 # [[has_education_level]] 
 
-#is_/part_of :: pending: 
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
 - #has_/education_/level :: "[[../../../Class/is_a_/Intangible/Defined_Term|Defined_Term]]", "[[../../../Class/is_a_/Data_Type/Text|Text]]", "[[../../../Class/is_a_/Data_Type/Text/Url|Url]]"  
@@ -46,7 +95,7 @@ and formal sets of level indicators.
 Relation describes that: 
 
 #has_/domain  :: "[[../../../../Society/Communication/Media/Creative_Work|Creative_Work]]", "[[../../../Class/is_a_/Event/Education_Event|Education_Event]]", "[[../../../../Society/Communication/Media/Creative_Work/Educational_Occupational_Credential|Educational_Occupational_Credential]]", "[[../../../../Society/Communication/Media/Creative_Work/Learning_Resource|Learning_Resource]]"  
-(has_/name :: "[[has_education_level]]" )
+has_name = `=this.dv_has_name` 
 (has_/range :: "[[../../../Class/is_a_/Intangible/Defined_Term|Defined_Term]]", "[[../../../Class/is_a_/Data_Type/Text|Text]]", "[[../../../Class/is_a_/Data_Type/Text/Url|Url]]" )
 
 

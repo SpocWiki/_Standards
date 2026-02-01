@@ -9,29 +9,58 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - course
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_course
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_course
 type: Predi_Relation
+dv_has_:
+  course: "[[../../../Society/Communication/Media/Creative_Work/Course]]"
+  domain: "[[../../Class/is_a_/Intangible/Educational_Occupational_Program|Educational_Occupational_Program]]"
+  name: "[[has_course]]"
+  range: "[[../../../Society/Communication/Media/Creative_Work/Course|Course]]"
+dv_has_course: "[[../../../Society/Communication/Media/Creative_Work/Course]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[has_course]]"
+    - "[[/_public/schema-org/Relation/has/has_course.public|has_course.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_course.internal|has_course.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_course.protect|has_course.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_course.private|has_course.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_course.personal|has_course.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_course.secret|has_course.secret]]"
+dv_is_part_of: "pending:"
+dv_has_domain: "[[../../Class/is_a_/Intangible/Educational_Occupational_Program|Educational_Occupational_Program]]"
+dv_has_name: "[[has_course]]"
+dv_has_range: "[[../../../Society/Communication/Media/Creative_Work/Course|Course]]"
+dv_is_same_as:
+  - "[[has_course]]"
+  - "[[/_public/schema-org/Relation/has/has_course.public|has_course.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_course.internal|has_course.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_course.protect|has_course.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_course.private|has_course.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_course.personal|has_course.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_course.secret|has_course.secret]]"
 ---
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
 - #has_/course :: "[[../../../Society/Communication/Media/Creative_Work/Course]]"  
@@ -46,9 +75,9 @@ whether the course will be available to everyone on the program.
 
 Relation describes that: 
 
-#has_/domain  :: "[[../../Class/is_a_/Intangible/Educational_Occupational_Program|Educational_Occupational_Program]]"  
-(has_/name :: [[has_course]] )
-(has_/range :: "[[../../../Society/Communication/Media/Creative_Work/Course|Course]]" )
+has_domain = `=this.dv_has_domain` 
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

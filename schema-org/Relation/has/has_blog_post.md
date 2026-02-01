@@ -31,6 +31,7 @@ dv_has_:
   domain: "[[../../../Society/Communication/Media/Creative_Work/Blog|Blog]]"
   name: has_blog_post
   range: "[[../../../Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting|Blog_Posting]]"
+  inverse: "[[is_blog_post_of]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_blog_post|has_blog_post]]"
@@ -40,26 +41,29 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_blog_post.private|has_blog_post.private]]"
     - "[[/_personal/schema-org/Relation/has/has_blog_post.personal|has_blog_post.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_blog_post.secret|has_blog_post.secret]]"
+    - "[[has_blog_post]]"
 dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Blog|Blog]]"
 dv_has_name: has_blog_post
 dv_has_range: "[[../../../Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting|Blog_Posting]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_blog_post|has_blog_post]]"
+  - "[[has_blog_post]]"
   - "[[/_public/schema-org/Relation/has/has_blog_post.public|has_blog_post.public]]"
   - "[[/_internal/schema-org/Relation/has/has_blog_post.internal|has_blog_post.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_blog_post.protect|has_blog_post.protect]]"
   - "[[/_private/schema-org/Relation/has/has_blog_post.private|has_blog_post.private]]"
   - "[[/_personal/schema-org/Relation/has/has_blog_post.personal|has_blog_post.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_blog_post.secret|has_blog_post.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_blog_post_of]]"
 ---
 
 # [[has_blog_post]] 
 
-is_a :: [[../../Relation|Relation]]
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 
-#has_/inverse :: [[is_blog_post_of]] 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/blog_post : : `=this.dv_has_range` 

@@ -58,11 +58,12 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_category_code.private|has_category_code.private]]"
   - "[[/_personal/schema-org/Relation/has/has_category_code.personal|has_category_code.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_category_code.secret|has_category_code.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
 ---
 
 # [[has_category_code]] 
 
-is_a :: [[../../Relation|Relation]]
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 has_parent_property = `=this.dv_has_parent_property` 

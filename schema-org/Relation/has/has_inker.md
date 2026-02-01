@@ -25,10 +25,7 @@ type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_:
   inverse: "[[is_inker_of]]"
-  domain:
-    - "[[../../../Society/Communication/Media/Creative_Work/Publication_Issue/Comic_Issue|Comic_Issue]]"
-    - "[[../../../Society/Communication/Media/Creative_Work/Comic_Story|Comic_Story]]"
-    - "[[../../../Society/Communication/Media/Creative_Work/Visual_Artwork|Visual_Artwork]]"
+  domain: "[[_Standards/Society/Communication/Media/Creative_Work/Publication_Issue/Comic_Issue.md|Comic_Issue]],[[_Standards/Society/Communication/Media/Creative_Work/Comic_Story.md|Comic_Story]],[[_Standards/Society/Communication/Media/Creative_Work/Visual_Artwork.md|Visual_Artwork]]"
   name: has_inker
   range: "[[../../../Society/Agent/Person|Person]]"
 dv_is_:
@@ -43,10 +40,7 @@ dv_is_:
     - "[[/_secret/schema-org/Relation/has/has_inker.secret|has_inker.secret]]"
 dv_has_inverse: "[[is_inker_of]]"
 dv_is_part_of: https://bib.schema.org
-dv_has_domain:
-  - "[[../../../Society/Communication/Media/Creative_Work/Publication_Issue/Comic_Issue|Comic_Issue]]"
-  - "[[../../../Society/Communication/Media/Creative_Work/Comic_Story|Comic_Story]]"
-  - "[[../../../Society/Communication/Media/Creative_Work/Visual_Artwork|Visual_Artwork]]"
+dv_has_domain: "[[_Standards/Society/Communication/Media/Creative_Work/Publication_Issue/Comic_Issue.md|Comic_Issue]],[[_Standards/Society/Communication/Media/Creative_Work/Comic_Story.md|Comic_Story]],[[_Standards/Society/Communication/Media/Creative_Work/Visual_Artwork.md|Visual_Artwork]]"
 dv_has_name: has_inker
 dv_has_range: "[[../../../Society/Agent/Person|Person]]"
 dv_is_same_as:

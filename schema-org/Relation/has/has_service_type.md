@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_service_type]]"
+    - "[[/_public/schema-org/Relation/has/has_service_type.public|has_service_type.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_service_type.internal|has_service_type.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_service_type.protect|has_service_type.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_service_type.private|has_service_type.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_service_type.personal|has_service_type.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_service_type.secret|has_service_type.secret]]"
+dv_is_same_as:
+  - "[[has_service_type]]"
+  - "[[/_public/schema-org/Relation/has/has_service_type.public|has_service_type.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_service_type.internal|has_service_type.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_service_type.protect|has_service_type.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_service_type.private|has_service_type.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_service_type.personal|has_service_type.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_service_type.secret|has_service_type.secret]]"
+---
 ﻿---
 aliases:
   - has service-type

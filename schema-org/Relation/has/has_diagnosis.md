@@ -37,21 +37,23 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_diagnosis.private|has_diagnosis.private]]"
     - "[[/_personal/schema-org/Relation/has/has_diagnosis.personal|has_diagnosis.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_diagnosis.secret|has_diagnosis.secret]]"
+    - "[[has_diagnosis]]"
 dv_has_domain: DDxElement, Patient
 dv_has_name: has_diagnosis
 dv_has_range: MedicalCondition
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_diagnosis|has_diagnosis]]"
+  - "[[has_diagnosis]]"
   - "[[/_public/schema-org/Relation/has/has_diagnosis.public|has_diagnosis.public]]"
   - "[[/_internal/schema-org/Relation/has/has_diagnosis.internal|has_diagnosis.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_diagnosis.protect|has_diagnosis.protect]]"
   - "[[/_private/schema-org/Relation/has/has_diagnosis.private|has_diagnosis.private]]"
   - "[[/_personal/schema-org/Relation/has/has_diagnosis.personal|has_diagnosis.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_diagnosis.secret|has_diagnosis.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
 ---
 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 

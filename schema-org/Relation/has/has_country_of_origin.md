@@ -31,9 +31,16 @@ tags:
 title: has_country_of_origin
 type: Predi_Relation
 dv_has_:
-  domain: ["[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]", "[[../../../Society/Communication/Media/Movie|Movie]]", "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]", "[[../../../Society/Communication/Media/Creative_Work/Episode/Tv_Episode|TVEpisode]]", "[[../../../Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/TV_Season|TVSeason]]", "[[../../../Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series|TVSeries]]"]
+  domain:
+    - "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
+    - "[[../../../Society/Communication/Media/Movie|Movie]]"
+    - "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]"
+    - "[[../../../Society/Communication/Media/Creative_Work/Episode/Tv_Episode|TVEpisode]]"
+    - "[[../../../Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/TV_Season|TVSeason]]"
+    - "[[../../../Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series|TVSeries]]"
   name: has_country_of_origin
   range: "[[../../../Earth/Geography/Place/Administrative_Area/Country|Country]]"
+  inverse: "[[is_origin_country_of]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_country_of_origin|has_country_of_origin]]"
@@ -43,25 +50,40 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_country_of_origin.private|has_country_of_origin.private]]"
     - "[[/_personal/schema-org/Relation/has/has_country_of_origin.personal|has_country_of_origin.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_country_of_origin.secret|has_country_of_origin.secret]]"
-dv_has_domain: ["[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]", "[[../../../Society/Communication/Media/Movie|Movie]]", "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]", "[[../../../Society/Communication/Media/Creative_Work/Episode/Tv_Episode|TVEpisode]]", "[[../../../Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/TV_Season|TVSeason]]", "[[../../../Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series|TVSeries]]"]
+    - "[[has_country_of_origin]]"
+  similar_to:
+    - "[[../../Property/has_location/has_location_content|has_location_content]]"
+    - "[[../../Property/has_location/has_location_created|has_location_created]]"
+dv_has_domain:
+  - "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
+  - "[[../../../Society/Communication/Media/Movie|Movie]]"
+  - "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]"
+  - "[[../../../Society/Communication/Media/Creative_Work/Episode/Tv_Episode|TVEpisode]]"
+  - "[[../../../Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/TV_Season|TVSeason]]"
+  - "[[../../../Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series|TVSeries]]"
 dv_has_name: has_country_of_origin
 dv_has_range: "[[../../../Earth/Geography/Place/Administrative_Area/Country|Country]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_country_of_origin|has_country_of_origin]]"
+  - "[[has_country_of_origin]]"
   - "[[/_public/schema-org/Relation/has/has_country_of_origin.public|has_country_of_origin.public]]"
   - "[[/_internal/schema-org/Relation/has/has_country_of_origin.internal|has_country_of_origin.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_country_of_origin.protect|has_country_of_origin.protect]]"
   - "[[/_private/schema-org/Relation/has/has_country_of_origin.private|has_country_of_origin.private]]"
   - "[[/_personal/schema-org/Relation/has/has_country_of_origin.personal|has_country_of_origin.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_country_of_origin.secret|has_country_of_origin.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_origin_country_of]]"
+dv_is_similar_to:
+  - "[[../../Property/has_location/has_location_content|has_location_content]]"
+  - "[[../../Property/has_location/has_location_created|has_location_created]]"
 ---
 
 # [[has_country_of_origin]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_origin_country_of]] 
+has_inverse = `=this.dv_has_inverse` 
 #is_/similar_to :: [[../../Property/has_location/has_location_content|has_location_content]], [[../../Property/has_location/has_location_created|has_location_created]] 
 
 Use it like this: 

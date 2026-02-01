@@ -37,21 +37,23 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_menu.private|has_menu.private]]"
     - "[[/_personal/schema-org/Relation/has/has_menu.personal|has_menu.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_menu.secret|has_menu.secret]]"
+    - "[[has_menu]]"
 dv_has_domain: FoodEstablishment
 dv_has_name: has_menu
 dv_has_range: Menu, Text, URL
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_menu|has_menu]]"
+  - "[[has_menu]]"
   - "[[/_public/schema-org/Relation/has/has_menu.public|has_menu.public]]"
   - "[[/_internal/schema-org/Relation/has/has_menu.internal|has_menu.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_menu.protect|has_menu.protect]]"
   - "[[/_private/schema-org/Relation/has/has_menu.private|has_menu.private]]"
   - "[[/_personal/schema-org/Relation/has/has_menu.personal|has_menu.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_menu.secret|has_menu.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
 ---
 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 

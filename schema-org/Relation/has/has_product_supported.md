@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_product_supported]]"
+    - "[[/_public/schema-org/Relation/has/has_product_supported.public|has_product_supported.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_product_supported.internal|has_product_supported.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_product_supported.protect|has_product_supported.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_product_supported.private|has_product_supported.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_product_supported.personal|has_product_supported.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_product_supported.secret|has_product_supported.secret]]"
+dv_is_same_as:
+  - "[[has_product_supported]]"
+  - "[[/_public/schema-org/Relation/has/has_product_supported.public|has_product_supported.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_product_supported.internal|has_product_supported.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_product_supported.protect|has_product_supported.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_product_supported.private|has_product_supported.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_product_supported.personal|has_product_supported.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_product_supported.secret|has_product_supported.secret]]"
+---
 ﻿---
 aliases:
   - has product-supported

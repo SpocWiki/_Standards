@@ -27,9 +27,14 @@ tags:
 title: has_medical_specialty
 type: Predi_Relation
 dv_has_:
-  domain: ["[[../../../Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Hospital|Hospital]]", "[[../../../bio/Medicine/Medical_Business/Medical_Clinic|Medical_Clinic]]", "[[../../../Society/Agent/Community/Organization/Medical_Organization|Medical_Organization]]", "[[../../../bio/Medicine/Medical_Business/Physician|Physician]]"]
+  domain:
+    - "[[../../../Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Hospital|Hospital]]"
+    - "[[../../../bio/Medicine/Medical_Business/Medical_Clinic|Medical_Clinic]]"
+    - "[[../../../Society/Agent/Community/Organization/Medical_Organization|Medical_Organization]]"
+    - "[[../../../bio/Medicine/Medical_Business/Physician|Physician]]"
   name: has_medical_specialty
   range: "[[../../../bio/Medicine/Medical_Enumeration/Medical_Specialty|Medical_Specialty]]"
+  inverse: "[[is_medical_specialty_of]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_medical_specialty|has_medical_specialty]]"
@@ -39,25 +44,32 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_medical_specialty.private|has_medical_specialty.private]]"
     - "[[/_personal/schema-org/Relation/has/has_medical_specialty.personal|has_medical_specialty.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_medical_specialty.secret|has_medical_specialty.secret]]"
-dv_has_domain: ["[[../../../Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Hospital|Hospital]]", "[[../../../bio/Medicine/Medical_Business/Medical_Clinic|Medical_Clinic]]", "[[../../../Society/Agent/Community/Organization/Medical_Organization|Medical_Organization]]", "[[../../../bio/Medicine/Medical_Business/Physician|Physician]]"]
+    - "[[has_medical_specialty]]"
+dv_has_domain:
+  - "[[../../../Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Hospital|Hospital]]"
+  - "[[../../../bio/Medicine/Medical_Business/Medical_Clinic|Medical_Clinic]]"
+  - "[[../../../Society/Agent/Community/Organization/Medical_Organization|Medical_Organization]]"
+  - "[[../../../bio/Medicine/Medical_Business/Physician|Physician]]"
 dv_has_name: has_medical_specialty
 dv_has_range: "[[../../../bio/Medicine/Medical_Enumeration/Medical_Specialty|Medical_Specialty]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_medical_specialty|has_medical_specialty]]"
+  - "[[has_medical_specialty]]"
   - "[[/_public/schema-org/Relation/has/has_medical_specialty.public|has_medical_specialty.public]]"
   - "[[/_internal/schema-org/Relation/has/has_medical_specialty.internal|has_medical_specialty.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_medical_specialty.protect|has_medical_specialty.protect]]"
   - "[[/_private/schema-org/Relation/has/has_medical_specialty.private|has_medical_specialty.private]]"
   - "[[/_personal/schema-org/Relation/has/has_medical_specialty.personal|has_medical_specialty.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_medical_specialty.secret|has_medical_specialty.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_medical_specialty_of]]"
 ---
 
 # [[has_medical_specialty]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_medical_specialty_of]] 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/medical_specialty = `=this.dv_has_range`  

@@ -34,9 +34,7 @@ dv_has_:
   part_of: "pending:"
   domain: "[[../../../../Society/Communication/Media/Creative_Work/Legislation|Legislation]]"
   name: has_legislation_type
-dv_has_range:
-  - "[[../../../Class/is_a_/Intangible/Defined_Term/Category_Code|Category_Code]]"
-  - "[[../../../Class/is_a_/Data_Type/Text|Text]]"
+dv_has_range: "[[_Standards/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code.md|Category_Code]],[[_Standards/schema-org/Class/is_a_/Data_Type/Text.md|Text]]"
 dv_is_:
   same_as:
     - "[[has_legislation_type]]"

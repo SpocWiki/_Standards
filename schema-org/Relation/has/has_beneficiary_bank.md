@@ -58,11 +58,12 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_beneficiary_bank.private|has_beneficiary_bank.private]]"
   - "[[/_personal/schema-org/Relation/has/has_beneficiary_bank.personal|has_beneficiary_bank.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_beneficiary_bank.secret|has_beneficiary_bank.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
 ---
 
 # [[has_beneficiary_bank]] 
 
-is_a :: [[../../Relation|Relation]]
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 

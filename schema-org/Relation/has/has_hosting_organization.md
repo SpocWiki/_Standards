@@ -30,6 +30,7 @@ dv_has_:
   domain: "[[../../Class/is_a_/Intangible/Program_Membership|Program_Membership]]"
   name: has_hosting_organization
   range: "[[../../../Society/Agent/Community/Organization|Organization]]"
+  inverse: "[[is_hosting_organization_for]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_hosting_organization|has_hosting_organization]]"
@@ -39,25 +40,28 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_hosting_organization.private|has_hosting_organization.private]]"
     - "[[/_personal/schema-org/Relation/has/has_hosting_organization.personal|has_hosting_organization.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_hosting_organization.secret|has_hosting_organization.secret]]"
+    - "[[has_hosting_organization]]"
 dv_has_domain: "[[../../Class/is_a_/Intangible/Program_Membership|Program_Membership]]"
 dv_has_name: has_hosting_organization
 dv_has_range: "[[../../../Society/Agent/Community/Organization|Organization]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_hosting_organization|has_hosting_organization]]"
+  - "[[has_hosting_organization]]"
   - "[[/_public/schema-org/Relation/has/has_hosting_organization.public|has_hosting_organization.public]]"
   - "[[/_internal/schema-org/Relation/has/has_hosting_organization.internal|has_hosting_organization.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_hosting_organization.protect|has_hosting_organization.protect]]"
   - "[[/_private/schema-org/Relation/has/has_hosting_organization.private|has_hosting_organization.private]]"
   - "[[/_personal/schema-org/Relation/has/has_hosting_organization.personal|has_hosting_organization.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_hosting_organization.secret|has_hosting_organization.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_hosting_organization_for]]"
 ---
 
 # [[has_hosting_organization]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_hosting_organization_for]] 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/hosting_organization : : `=this.dv_has_range`  

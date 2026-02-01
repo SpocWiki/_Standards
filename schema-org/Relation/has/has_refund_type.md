@@ -1,3 +1,31 @@
+---
+dv_has_:
+  refund_type: RefundTypeEnumeration
+  domain: MerchantReturnPolicy
+  name: is_refund_type
+  range: RefundTypeEnumeration
+dv_has_refund_type: RefundTypeEnumeration
+dv_is_:
+  same_as:
+    - "[[has_refund_type]]"
+    - "[[/_public/schema-org/Relation/has/has_refund_type.public|has_refund_type.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_refund_type.internal|has_refund_type.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_refund_type.protect|has_refund_type.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_refund_type.private|has_refund_type.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_refund_type.personal|has_refund_type.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_refund_type.secret|has_refund_type.secret]]"
+dv_has_domain: MerchantReturnPolicy
+dv_has_name: is_refund_type
+dv_has_range: RefundTypeEnumeration
+dv_is_same_as:
+  - "[[has_refund_type]]"
+  - "[[/_public/schema-org/Relation/has/has_refund_type.public|has_refund_type.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_refund_type.internal|has_refund_type.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_refund_type.protect|has_refund_type.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_refund_type.private|has_refund_type.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_refund_type.personal|has_refund_type.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_refund_type.secret|has_refund_type.secret]]"
+---
 ﻿---
 aliases:
   - has refund-type
@@ -40,7 +68,7 @@ has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
 - #has_/refund_type :: RefundTypeEnumeration  
-- [ has_refund_type :: RefundTypeEnumeration ] 
+- has_refund_type = `=this.dv_has_refund_type`  
 - is_refund_type_of : : `=this.dv_has_domain` 
 - #is_/refund_type_of : : `=this.dv_has_domain`
 
@@ -48,10 +76,10 @@ A refund type, from an enumerated list.
 
 Relation describes that: 
 
-#has_/domain  :: MerchantReturnPolicy  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: is_refund_type )
-(has_/range :: RefundTypeEnumeration )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

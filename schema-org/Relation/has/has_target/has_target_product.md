@@ -41,21 +41,23 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_target_product.private|has_target_product.private]]"
     - "[[/_personal/schema-org/Relation/has/has_target_product.personal|has_target_product.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_target_product.secret|has_target_product.secret]]"
+    - "[[has_target_product]]"
 dv_has_domain: SoftwareSourceCode
 dv_has_name: is_target_product
 dv_has_range: SoftwareApplication
 dv_is_same_as:
-  - "[[has_target_product|has_target_product]]"
+  - "[[has_target_product]]"
   - "[[/_public/schema-org/Relation/has/has_target_product.public|has_target_product.public]]"
   - "[[/_internal/schema-org/Relation/has/has_target_product.internal|has_target_product.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_target_product.protect|has_target_product.protect]]"
   - "[[/_private/schema-org/Relation/has/has_target_product.private|has_target_product.private]]"
   - "[[/_personal/schema-org/Relation/has/has_target_product.personal|has_target_product.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_target_product.secret|has_target_product.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
 ---
 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 

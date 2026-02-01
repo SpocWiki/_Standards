@@ -38,21 +38,23 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_merchant.private|has_merchant.private]]"
     - "[[/_personal/schema-org/Relation/has/has_merchant.personal|has_merchant.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_merchant.secret|has_merchant.secret]]"
+    - "[[has_merchant]]"
 dv_has_domain: Order
 dv_has_name: has_merchant
 dv_has_range: Organization, Person
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_merchant|has_merchant]]"
+  - "[[has_merchant]]"
   - "[[/_public/schema-org/Relation/has/has_merchant.public|has_merchant.public]]"
   - "[[/_internal/schema-org/Relation/has/has_merchant.internal|has_merchant.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_merchant.protect|has_merchant.protect]]"
   - "[[/_private/schema-org/Relation/has/has_merchant.private|has_merchant.private]]"
   - "[[/_personal/schema-org/Relation/has/has_merchant.personal|has_merchant.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_merchant.secret|has_merchant.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
 ---
 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 

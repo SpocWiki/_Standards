@@ -41,21 +41,23 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_warranty_scope.private|has_warranty_scope.private]]"
     - "[[/_personal/schema-org/Relation/has/has_warranty_scope.personal|has_warranty_scope.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_warranty_scope.secret|has_warranty_scope.secret]]"
+    - "[[has_warranty_scope]]"
 dv_has_domain: WarrantyPromise
 dv_has_name: is_warranty_scope
 dv_has_range: WarrantyScope
 dv_is_same_as:
-  - "[[has_warranty_scope|has_warranty_scope]]"
+  - "[[has_warranty_scope]]"
   - "[[/_public/schema-org/Relation/has/has_warranty_scope.public|has_warranty_scope.public]]"
   - "[[/_internal/schema-org/Relation/has/has_warranty_scope.internal|has_warranty_scope.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_warranty_scope.protect|has_warranty_scope.protect]]"
   - "[[/_private/schema-org/Relation/has/has_warranty_scope.private|has_warranty_scope.private]]"
   - "[[/_personal/schema-org/Relation/has/has_warranty_scope.personal|has_warranty_scope.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_warranty_scope.secret|has_warranty_scope.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
 ---
 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 

@@ -32,9 +32,8 @@ dv_has_:
     of_end: ""
   domain: "[[../../../../Society/Communication/Media/Creative_Work/Clip|Clip]]"
   name: has_offset_of_end
-  range:
-    - "[[../../../../Society/Communication/Media/Creative_Work/Hyper_Toc_Entry|Hyper_Toc_Entry]]"
-    - "[[../../../Class/is_a_/Data_Type/Number|Number]]"
+  range: "[[_Standards/Society/Communication/Media/Creative_Work/Hyper_Toc_Entry.md|Hyper_Toc_Entry]],[[_Standards/schema-org/Class/is_a_/Data_Type/Number.md|Number]]"
+  inverse: "[[is_offset_of_end_for]]"
 dv_has_offset_of_end: ""
 dv_is_:
   part_of: "pending:"
@@ -49,9 +48,7 @@ dv_is_:
 dv_is_part_of: "pending:"
 dv_has_domain: "[[../../../../Society/Communication/Media/Creative_Work/Clip|Clip]]"
 dv_has_name: has_offset_of_end
-dv_has_range:
-  - "[[../../../../Society/Communication/Media/Creative_Work/Hyper_Toc_Entry|Hyper_Toc_Entry]]"
-  - "[[../../../Class/is_a_/Data_Type/Number|Number]]"
+dv_has_range: "[[_Standards/Society/Communication/Media/Creative_Work/Hyper_Toc_Entry.md|Hyper_Toc_Entry]],[[_Standards/schema-org/Class/is_a_/Data_Type/Number.md|Number]]"
 dv_is_same_as:
   - "[[has_offset_of_end]]"
   - "[[/_public/schema-org/Relation/has/has_offset_of_end.public|has_offset_of_end.public]]"
@@ -60,12 +57,13 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_offset_of_end.private|has_offset_of_end.private]]"
   - "[[/_personal/schema-org/Relation/has/has_offset_of_end.personal|has_offset_of_end.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_offset_of_end.secret|has_offset_of_end.secret]]"
+dv_has_inverse: "[[is_offset_of_end_for]]"
 ---
 
 # [[has_offset_of_end]] 
 
 is_part_of = `=this.dv_is_part_of` 
-#has_/inverse :: [[is_offset_of_end_for]]
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/offset_/of_end : : `=this.dv_has_range`

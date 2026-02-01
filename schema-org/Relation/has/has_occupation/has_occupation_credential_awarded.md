@@ -11,7 +11,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -19,24 +19,70 @@ keywords:
   - occupational
   - credential
   - awarded
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_occupation_credential_awarded
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_occupation_credential_awarded
 type: Predi_Relation
+dv_has_:
+  occupation_:
+    credential_awarded:
+      - "[[../../../../Society/Communication/Media/Creative_Work/Educational_Occupational_Credential|Educational_Occupational_Credential]]"
+      - "[[../../../Class/is_a_/Data_Type/Text|Text]]"
+      - "[[../../../Class/is_a_/Data_Type/Text/Url|Url]]"
+  domain:
+    - "[[../../../../Society/Communication/Media/Creative_Work/Course|Course]]"
+    - "[[../../../Class/is_a_/Intangible/Educational_Occupational_Program|Educational_Occupational_Program]]"
+  name: "[[has_occupation_credential_awarded]]"
+  range:
+    - "[[../../../../Society/Communication/Media/Creative_Work/Educational_Occupational_Credential|Educational_Occupational_Credential]]"
+    - "[[../../../Class/is_a_/Data_Type/Text|Text]]"
+    - "[[../../../Class/is_a_/Data_Type/Text/Url|Url]]"
+dv_has_occupation_credential_awarded:
+  - "[[../../../../Society/Communication/Media/Creative_Work/Educational_Occupational_Credential|Educational_Occupational_Credential]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
+  - "[[../../Class/is_a_/Data_Type/Text/Url|Url]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[has_occupation_credential_awarded]]"
+    - "[[/_public/schema-org/Relation/has/has_occupation_credential_awarded.public|has_occupation_credential_awarded.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_occupation_credential_awarded.internal|has_occupation_credential_awarded.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_occupation_credential_awarded.protect|has_occupation_credential_awarded.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_occupation_credential_awarded.private|has_occupation_credential_awarded.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_occupation_credential_awarded.personal|has_occupation_credential_awarded.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_occupation_credential_awarded.secret|has_occupation_credential_awarded.secret]]"
+dv_is_part_of: "pending:"
+dv_has_domain:
+  - "[[../../../../Society/Communication/Media/Creative_Work/Course|Course]]"
+  - "[[../../../Class/is_a_/Intangible/Educational_Occupational_Program|Educational_Occupational_Program]]"
+dv_has_name: "[[has_occupation_credential_awarded]]"
+dv_has_range:
+  - "[[../../../../Society/Communication/Media/Creative_Work/Educational_Occupational_Credential|Educational_Occupational_Credential]]"
+  - "[[../../../Class/is_a_/Data_Type/Text|Text]]"
+  - "[[../../../Class/is_a_/Data_Type/Text/Url|Url]]"
+dv_is_same_as:
+  - "[[has_occupation_credential_awarded]]"
+  - "[[/_public/schema-org/Relation/has/has_occupation_credential_awarded.public|has_occupation_credential_awarded.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_occupation_credential_awarded.internal|has_occupation_credential_awarded.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_occupation_credential_awarded.protect|has_occupation_credential_awarded.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_occupation_credential_awarded.private|has_occupation_credential_awarded.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_occupation_credential_awarded.personal|has_occupation_credential_awarded.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_occupation_credential_awarded.secret|has_occupation_credential_awarded.secret]]"
 ---
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
 - #has_/occupation_/credential_awarded :: "[[../../../../Society/Communication/Media/Creative_Work/Educational_Occupational_Credential|Educational_Occupational_Credential]]", "[[../../../Class/is_a_/Data_Type/Text|Text]]", "[[../../../Class/is_a_/Data_Type/Text/Url|Url]]"  
@@ -49,7 +95,7 @@ or other occupational credential
 Relation describes that: 
 
 #has_/domain  :: "[[../../../../Society/Communication/Media/Creative_Work/Course|Course]]", "[[../../../Class/is_a_/Intangible/Educational_Occupational_Program|Educational_Occupational_Program]]"  
-(has_/name :: "[[has_occupation_credential_awarded]]" )
+has_name = `=this.dv_has_name` 
 (has_/range :: "[[../../../../Society/Communication/Media/Creative_Work/Educational_Occupational_Credential|Educational_Occupational_Credential]]", "[[../../../Class/is_a_/Data_Type/Text|Text]]", "[[../../../Class/is_a_/Data_Type/Text/Url|Url]]" )
 
 

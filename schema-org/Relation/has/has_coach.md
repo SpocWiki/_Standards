@@ -26,6 +26,7 @@ dv_has_:
   domain: "[[../../../Society/Agent/Community/Organization/Sports_Organization/Sports_Team|Sports_Team]]"
   name: has_coach
   range: "[[../../../Society/Agent/Person|Person]]"
+  inverse: "[[is_coach_of]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_coach|has_coach]]"
@@ -35,25 +36,28 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_coach.private|has_coach.private]]"
     - "[[/_personal/schema-org/Relation/has/has_coach.personal|has_coach.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_coach.secret|has_coach.secret]]"
+    - "[[has_coach]]"
 dv_has_domain: "[[../../../Society/Agent/Community/Organization/Sports_Organization/Sports_Team|Sports_Team]]"
 dv_has_name: has_coach
 dv_has_range: "[[../../../Society/Agent/Person|Person]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_coach|has_coach]]"
+  - "[[has_coach]]"
   - "[[/_public/schema-org/Relation/has/has_coach.public|has_coach.public]]"
   - "[[/_internal/schema-org/Relation/has/has_coach.internal|has_coach.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_coach.protect|has_coach.protect]]"
   - "[[/_private/schema-org/Relation/has/has_coach.private|has_coach.private]]"
   - "[[/_personal/schema-org/Relation/has/has_coach.personal|has_coach.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_coach.secret|has_coach.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_coach_of]]"
 ---
 
 # [[has_coach]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_coach_of]] 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/coach : : `=this.dv_has_range` 

@@ -1,3 +1,31 @@
+---
+dv_has_:
+  release_of: MusicAlbum
+  domain: MusicRelease
+  name: is_release_of
+  range: MusicAlbum
+dv_has_release_of: MusicAlbum
+dv_is_:
+  same_as:
+    - "[[has_release_of]]"
+    - "[[/_public/schema-org/Relation/has/has_release_of.public|has_release_of.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_release_of.internal|has_release_of.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_release_of.protect|has_release_of.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_release_of.private|has_release_of.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_release_of.personal|has_release_of.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_release_of.secret|has_release_of.secret]]"
+dv_has_domain: MusicRelease
+dv_has_name: is_release_of
+dv_has_range: MusicAlbum
+dv_is_same_as:
+  - "[[has_release_of]]"
+  - "[[/_public/schema-org/Relation/has/has_release_of.public|has_release_of.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_release_of.internal|has_release_of.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_release_of.protect|has_release_of.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_release_of.private|has_release_of.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_release_of.personal|has_release_of.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_release_of.secret|has_release_of.secret]]"
+---
 ﻿---
 aliases:
   - has release-of
@@ -39,16 +67,16 @@ is_a = `=this.dv_is_a`
 #class/Relation
 has_inverse = `=this.dv_has_inverse`
 - #has_/release_of :: MusicAlbum  
-- [ has_release_of :: MusicAlbum ] 
+- has_release_of = `=this.dv_has_release_of`  
 
 The album this is a release of.
 
 Relation describes that: 
 
-#has_/domain  :: MusicRelease  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: is_release_of )
-(has_/range :: MusicAlbum )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 has_inverse = `=this.dv_has_inverse`
 

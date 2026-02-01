@@ -35,22 +35,24 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_calories.private|has_calories.private]]"
     - "[[/_personal/schema-org/Relation/has/has_calories.personal|has_calories.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_calories.secret|has_calories.secret]]"
+    - "[[has_calories]]"
 dv_has_domain: "[[../../Class/is_a_/Intangible/Structured_Value/Nutrition_Information|Nutrition_Information]]"
 dv_has_name: has_calories
-dv_has_range: "[[../../../Dimension/Energy|Energy]]" 
+dv_has_range: "[[../../../Dimension/Energy|Energy]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_calories|has_calories]]"
+  - "[[has_calories]]"
   - "[[/_public/schema-org/Relation/has/has_calories.public|has_calories.public]]"
   - "[[/_internal/schema-org/Relation/has/has_calories.internal|has_calories.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_calories.protect|has_calories.protect]]"
   - "[[/_private/schema-org/Relation/has/has_calories.private|has_calories.private]]"
   - "[[/_personal/schema-org/Relation/has/has_calories.personal|has_calories.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_calories.secret|has_calories.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
 ---
 
 # [[has_calories]] 
 
-is_a :: [[../../Relation|Relation]]
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 

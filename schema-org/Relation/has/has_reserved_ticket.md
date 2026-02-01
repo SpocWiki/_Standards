@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_reserved_ticket]]"
+    - "[[/_public/schema-org/Relation/has/has_reserved_ticket.public|has_reserved_ticket.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_reserved_ticket.internal|has_reserved_ticket.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_reserved_ticket.protect|has_reserved_ticket.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_reserved_ticket.private|has_reserved_ticket.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_reserved_ticket.personal|has_reserved_ticket.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_reserved_ticket.secret|has_reserved_ticket.secret]]"
+dv_is_same_as:
+  - "[[has_reserved_ticket]]"
+  - "[[/_public/schema-org/Relation/has/has_reserved_ticket.public|has_reserved_ticket.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_reserved_ticket.internal|has_reserved_ticket.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_reserved_ticket.protect|has_reserved_ticket.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_reserved_ticket.private|has_reserved_ticket.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_reserved_ticket.personal|has_reserved_ticket.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_reserved_ticket.secret|has_reserved_ticket.secret]]"
+---
 ﻿---
 aliases:
   - has reserved-ticket

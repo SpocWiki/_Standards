@@ -41,21 +41,23 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_occupation_location.private|has_occupation_location.private]]"
     - "[[/_personal/schema-org/Relation/has/has_occupation_location.personal|has_occupation_location.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_occupation_location.secret|has_occupation_location.secret]]"
+    - "[[has_occupation_location]]"
 dv_has_domain: "[[../../../Class/is_a_/Intangible/Occupation]]"
 dv_has_name: has_occupation_location
 dv_has_range: "[[../../../../Earth/Geography/Place/Administrative_Area|Administrative_Area]]"
 dv_is_same_as:
-  - "[[has_occupation_location|has_occupation_location]]"
+  - "[[has_occupation_location]]"
   - "[[/_public/schema-org/Relation/has/has_occupation_location.public|has_occupation_location.public]]"
   - "[[/_internal/schema-org/Relation/has/has_occupation_location.internal|has_occupation_location.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_occupation_location.protect|has_occupation_location.protect]]"
   - "[[/_private/schema-org/Relation/has/has_occupation_location.private|has_occupation_location.private]]"
   - "[[/_personal/schema-org/Relation/has/has_occupation_location.personal|has_occupation_location.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_occupation_location.secret|has_occupation_location.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
 ---
 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 

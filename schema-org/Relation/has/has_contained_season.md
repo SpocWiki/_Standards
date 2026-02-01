@@ -31,9 +31,13 @@ type: Predi_Relation
 dv_has_:
   parent_property: "[[../../Composite/has_parts]]"
   contained_season: "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Season|CreativeWorkSeason]]"
-  domain: ["[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Radio_Series|RadioSeries]]", "[[../../../Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series|TVSeries]]", "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Video_Game_Series|VideoGameSeries]]"]
+  domain:
+    - "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Radio_Series|RadioSeries]]"
+    - "[[../../../Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series|TVSeries]]"
+    - "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Video_Game_Series|VideoGameSeries]]"
   name: has_contained_season
   range: "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Season|CreativeWorkSeason]]"
+  inverse: "[[is_season_contained_in]]"
 dv_has_contained_season: "[[../../Class/is_a_/creative_work/creative_work_season|CreativeWorkSeason]]"
 dv_is_:
   same_as:
@@ -44,26 +48,32 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_contained_season.private|has_contained_season.private]]"
     - "[[/_personal/schema-org/Relation/has/has_contained_season.personal|has_contained_season.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_contained_season.secret|has_contained_season.secret]]"
-dv_has_domain: ["[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Radio_Series|RadioSeries]]", "[[../../../Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series|TVSeries]]", "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Video_Game_Series|VideoGameSeries]]"]
+    - "[[has_contained_season]]"
+dv_has_domain:
+  - "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Radio_Series|RadioSeries]]"
+  - "[[../../../Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series|TVSeries]]"
+  - "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Video_Game_Series|VideoGameSeries]]"
 dv_has_name: has_contained_season
 dv_has_range: "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Season|CreativeWorkSeason]]"
 dv_has_parent_property: "[[../../Composite/has_parts]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_contained_season|has_contained_season]]"
+  - "[[has_contained_season]]"
   - "[[/_public/schema-org/Relation/has/has_contained_season.public|has_contained_season.public]]"
   - "[[/_internal/schema-org/Relation/has/has_contained_season.internal|has_contained_season.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_contained_season.protect|has_contained_season.protect]]"
   - "[[/_private/schema-org/Relation/has/has_contained_season.private|has_contained_season.private]]"
   - "[[/_personal/schema-org/Relation/has/has_contained_season.personal|has_contained_season.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_contained_season.secret|has_contained_season.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_season_contained_in]]"
 ---
 
 # [[has_contained_season]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_season_contained_in]]
+has_inverse = `=this.dv_has_inverse` 
 
 has_parent_property = `=this.dv_has_parent_property` 
 

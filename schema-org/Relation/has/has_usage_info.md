@@ -1,3 +1,35 @@
+---
+dv_has_:
+  usage_:
+    info: CreativeWork, URL
+  domain: CreativeWork
+  name: is_usage_info
+  range: CreativeWork, URL
+  child_:
+    property: "[ acquireLicensePage ]"
+dv_has_usage_info: CreativeWork, URL
+dv_is_:
+  same_as:
+    - "[[has_usage_info]]"
+    - "[[/_public/schema-org/Relation/has/has_usage_info.public|has_usage_info.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_usage_info.internal|has_usage_info.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_usage_info.protect|has_usage_info.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_usage_info.private|has_usage_info.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_usage_info.personal|has_usage_info.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_usage_info.secret|has_usage_info.secret]]"
+dv_has_domain: CreativeWork
+dv_has_name: is_usage_info
+dv_has_range: CreativeWork, URL
+dv_has_child_property: "[ acquireLicensePage ]"
+dv_is_same_as:
+  - "[[has_usage_info]]"
+  - "[[/_public/schema-org/Relation/has/has_usage_info.public|has_usage_info.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_usage_info.internal|has_usage_info.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_usage_info.protect|has_usage_info.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_usage_info.private|has_usage_info.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_usage_info.personal|has_usage_info.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_usage_info.secret|has_usage_info.secret]]"
+---
 ﻿---
 aliases:
   - has usage-info
@@ -41,7 +73,7 @@ has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
 - #has_/usage_/info :: CreativeWork, URL  
-- [ has_usage_info :: CreativeWork, URL ] 
+- has_usage_info = `=this.dv_has_usage_info`  
 - is_usage_info_of : : `=this.dv_has_domain` 
 - #is_/usage_info_of : : `=this.dv_has_domain`
 
@@ -61,12 +93,12 @@ The usageInfo property can provide information about other licensing options, e.
 
 Relation describes that: 
 
-#has_/domain  :: CreativeWork  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: is_usage_info )
-(has_/range :: CreativeWork, URL )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#has_/child_/property :: [ acquireLicensePage ]  
+has_child_property = `=this.dv_has_child_property` 
 
 ## Confidential Links & Embeds: 
 

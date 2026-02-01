@@ -56,6 +56,7 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_education_credential_awarded.private|has_education_credential_awarded.private]]"
     - "[[/_personal/schema-org/Relation/has/has_education_credential_awarded.personal|has_education_credential_awarded.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_education_credential_awarded.secret|has_education_credential_awarded.secret]]"
+    - "[[has_education_credential_awarded]]"
 dv_has_domain:
   - "[[../../../../Society/Communication/Media/Creative_Work/Course|Course]]"
   - "[[../../../Class/is_a_/Intangible/Educational_Occupational_Program|Educational_Occupational_Program]]"
@@ -65,7 +66,7 @@ dv_has_range:
   - "[[../../../Class/is_a_/Data_Type/Text|Text]]"
   - "[[../../../Class/is_a_/Data_Type/Text/Url|Url]]"
 dv_is_same_as:
-  - "[[has_education_credential_awarded|has_education_credential_awarded]]"
+  - "[[has_education_credential_awarded]]"
   - "[[/_public/schema-org/Relation/has/has_education_credential_awarded.public|has_education_credential_awarded.public]]"
   - "[[/_internal/schema-org/Relation/has/has_education_credential_awarded.internal|has_education_credential_awarded.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_education_credential_awarded.protect|has_education_credential_awarded.protect]]"

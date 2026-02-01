@@ -1,3 +1,36 @@
+---
+dv_has_:
+  opening_hours_specification: OpeningHoursSpecification
+  domain: Place
+  name: has_opening_hours_specification
+  range: OpeningHoursSpecification
+dv_has_opening_hours_specification: OpeningHoursSpecification
+dv_Closes: '{"type":"Input","options":{}}'
+dv_DayOfWeek: '{"type":"Select","options":{"valuesList":{"Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","PublicHolidays"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}'
+dv_Opens: '{"type":"Input","options":{}}'
+dv_ValidFrom: '{"type":"Number","options":{}}'
+dv_ValidThrough: '{"type":"Number","options":{}}'
+dv_is_:
+  same_as:
+    - "[[has_opening_hours_specification]]"
+    - "[[/_public/schema-org/Relation/has/has_opening_hours_specification.public|has_opening_hours_specification.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_opening_hours_specification.internal|has_opening_hours_specification.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_opening_hours_specification.protect|has_opening_hours_specification.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_opening_hours_specification.private|has_opening_hours_specification.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_opening_hours_specification.personal|has_opening_hours_specification.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_opening_hours_specification.secret|has_opening_hours_specification.secret]]"
+dv_has_domain: Place
+dv_has_name: has_opening_hours_specification
+dv_has_range: OpeningHoursSpecification
+dv_is_same_as:
+  - "[[has_opening_hours_specification]]"
+  - "[[/_public/schema-org/Relation/has/has_opening_hours_specification.public|has_opening_hours_specification.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_opening_hours_specification.internal|has_opening_hours_specification.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_opening_hours_specification.protect|has_opening_hours_specification.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_opening_hours_specification.private|has_opening_hours_specification.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_opening_hours_specification.personal|has_opening_hours_specification.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_opening_hours_specification.secret|has_opening_hours_specification.secret]]"
+---
 ﻿---
 aliases:
   - has opening-hours-specification
@@ -48,15 +81,15 @@ extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 #class/OpeningHoursSpecification
 #class/Thing/Intangible/StructuredValue/OpeningHoursSpecification
 
-Closes:: {"type":"Input","options":{}}
-DayOfWeek:: {"type":"Select","options":{"valuesList":{"Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","PublicHolidays"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
-Opens:: {"type":"Input","options":{}}
-ValidFrom:: {"type":"Number","options":{}}
-ValidThrough:: {"type":"Number","options":{}}
+Closes = `=this.dv_Closes` 
+DayOfWeek = `=this.dv_DayOfWeek` 
+Opens = `=this.dv_Opens` 
+ValidFrom = `=this.dv_ValidFrom` 
+ValidThrough = `=this.dv_ValidThrough` 
 
 Use it like this: 
 - #has_/opening_hours_specification :: OpeningHoursSpecification  
-- [ has_opening_hours_specification :: OpeningHoursSpecification ] 
+- has_opening_hours_specification = `=this.dv_has_opening_hours_specification`  
 - is_opening_hours_specification_of : : `=this.dv_has_domain` 
 - #is_/opening_hours_specification_of : : `=this.dv_has_domain`
 
@@ -64,10 +97,10 @@ The opening hours of a certain place.
 
 Relation describes that: 
 
-#has_/domain  :: Place  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: has_opening_hours_specification )
-(has_/range :: OpeningHoursSpecification )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

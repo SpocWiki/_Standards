@@ -1,3 +1,31 @@
+---
+dv_has_:
+  recorded_as: MusicRecording
+  domain: MusicComposition
+  name: is_recorded_as
+  range: MusicRecording
+dv_has_recorded_as: MusicRecording
+dv_is_:
+  same_as:
+    - "[[has_recorded_as]]"
+    - "[[/_public/schema-org/Relation/has/has_recorded_as.public|has_recorded_as.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_recorded_as.internal|has_recorded_as.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_recorded_as.protect|has_recorded_as.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_recorded_as.private|has_recorded_as.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_recorded_as.personal|has_recorded_as.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_recorded_as.secret|has_recorded_as.secret]]"
+dv_has_domain: MusicComposition
+dv_has_name: is_recorded_as
+dv_has_range: MusicRecording
+dv_is_same_as:
+  - "[[has_recorded_as]]"
+  - "[[/_public/schema-org/Relation/has/has_recorded_as.public|has_recorded_as.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_recorded_as.internal|has_recorded_as.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_recorded_as.protect|has_recorded_as.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_recorded_as.private|has_recorded_as.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_recorded_as.personal|has_recorded_as.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_recorded_as.secret|has_recorded_as.secret]]"
+---
 ﻿---
 aliases:
   - has recorded-as
@@ -39,16 +67,16 @@ is_a = `=this.dv_is_a`
 #class/Relation
 has_inverse = `=this.dv_has_inverse`
 - #has_/recorded_as :: MusicRecording  
-- [ has_recorded_as :: MusicRecording ] 
+- has_recorded_as = `=this.dv_has_recorded_as`  
 
 An audio recording of the work.
 
 Relation describes that: 
 
-#has_/domain  :: MusicComposition  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: is_recorded_as )
-(has_/range :: MusicRecording )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 has_inverse = `=this.dv_has_inverse`
 

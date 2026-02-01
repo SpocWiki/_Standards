@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_sibling]]"
+    - "[[/_public/schema-org/Relation/has/has_sibling.public|has_sibling.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_sibling.internal|has_sibling.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_sibling.protect|has_sibling.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_sibling.private|has_sibling.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_sibling.personal|has_sibling.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_sibling.secret|has_sibling.secret]]"
+dv_is_same_as:
+  - "[[has_sibling]]"
+  - "[[/_public/schema-org/Relation/has/has_sibling.public|has_sibling.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_sibling.internal|has_sibling.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_sibling.protect|has_sibling.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_sibling.private|has_sibling.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_sibling.personal|has_sibling.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_sibling.secret|has_sibling.secret]]"
+---
 ﻿---
 aliases:
   - has sibling

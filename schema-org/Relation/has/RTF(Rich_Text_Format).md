@@ -8,8 +8,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/RTF(Rich_Text_Format).private|RTF(Rich_Text_Format).private]]"
     - "[[/_personal/schema-org/Relation/has/RTF(Rich_Text_Format).personal|RTF(Rich_Text_Format).personal]]"
     - "[[/_secret/schema-org/Relation/has/RTF(Rich_Text_Format).secret|RTF(Rich_Text_Format).secret]]"
+    - "[[RTF(Rich_Text_Format)]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/RTF(Rich_Text_Format)|RTF(Rich_Text_Format)]]"
+  - "[[RTF(Rich_Text_Format)]]"
   - "[[/_public/schema-org/Relation/has/RTF(Rich_Text_Format).public|RTF(Rich_Text_Format).public]]"
   - "[[/_internal/schema-org/Relation/has/RTF(Rich_Text_Format).internal|RTF(Rich_Text_Format).internal]]"
   - "[[/_protect/schema-org/Relation/has/RTF(Rich_Text_Format).protect|RTF(Rich_Text_Format).protect]]"

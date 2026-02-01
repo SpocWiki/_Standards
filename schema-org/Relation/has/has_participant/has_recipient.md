@@ -31,16 +31,7 @@ dv_has_:
       - "[[has_recipient/has_recipient_bcc|has_recipient_bcc]]"
       - "[[has_recipient/has_recipient_cc|has_recipient_cc]]"
       - "[[has_recipient/has_recipient_to|has_recipient_to]]"
-  domain:
-    - "[[../../../Class/is_a_/Action/Organize_Action/Allocate_Action/Authorize_Action|Authorize_Action]]"
-    - "[[../../../Class/is_a_/Action/Interact_Action/Communicate_Action|Communicate_Action]]"
-    - "[[../../../Class/is_a_/Action/Trade_Action/Donate_Action|Donate_Action]]"
-    - "[[../../../Class/is_a_/Action/Transfer_Action/Give_Action|Give_Action]]"
-    - "[[../../../../Society/Communication/Media/Creative_Work/Message|Message]]"
-    - "[[../../../Class/is_a_/Action/Trade_Action/Pay_Action|Pay_Action]]"
-    - "[[../../../Class/is_a_/Action/Transfer_Action/Return_Action|Return_Action]]"
-    - "[[../../../Class/is_a_/Action/Transfer_Action/Send_Action|Send_Action]]"
-    - "[[../../../Class/is_a_/Action/Trade_Action/Tip_Action|Tip_Action]]"
+  domain: "[[_Standards/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Authorize_Action.md|Authorize_Action]],[[_Standards/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action.md|Communicate_Action]],[[_Standards/schema-org/Class/is_a_/Action/Trade_Action/Donate_Action.md|Donate_Action]],[[_Standards/schema-org/Class/is_a_/Action/Transfer_Action/Give_Action.md|Give_Action]],[[_Standards/Society/Communication/Media/Creative_Work/Message.md|Message]],[[_Standards/schema-org/Class/is_a_/Action/Trade_Action/Pay_Action.md|Pay_Action]],[[_Standards/schema-org/Class/is_a_/Action/Transfer_Action/Return_Action.md|Return_Action]],[[_Standards/schema-org/Class/is_a_/Action/Transfer_Action/Send_Action.md|Send_Action]],[[_Standards/schema-org/Class/is_a_/Action/Trade_Action/Tip_Action.md|Tip_Action]]"
   name: is_recipient
   range:
     - "[[../../../Class/is_a_/Intangible/Audience|Audience]]"
@@ -62,16 +53,7 @@ dv_has_child_property:
   - "[[has_recipient/has_recipient_bcc|has_recipient_bcc]]"
   - "[[has_recipient/has_recipient_cc|has_recipient_cc]]"
   - "[[has_recipient/has_recipient_to|has_recipient_to]]"
-dv_has_domain:
-  - "[[../../../Class/is_a_/Action/Organize_Action/Allocate_Action/Authorize_Action|Authorize_Action]]"
-  - "[[../../../Class/is_a_/Action/Interact_Action/Communicate_Action|Communicate_Action]]"
-  - "[[../../../Class/is_a_/Action/Trade_Action/Donate_Action|Donate_Action]]"
-  - "[[../../../Class/is_a_/Action/Transfer_Action/Give_Action|Give_Action]]"
-  - "[[../../../../Society/Communication/Media/Creative_Work/Message|Message]]"
-  - "[[../../../Class/is_a_/Action/Trade_Action/Pay_Action|Pay_Action]]"
-  - "[[../../../Class/is_a_/Action/Transfer_Action/Return_Action|Return_Action]]"
-  - "[[../../../Class/is_a_/Action/Transfer_Action/Send_Action|Send_Action]]"
-  - "[[../../../Class/is_a_/Action/Trade_Action/Tip_Action|Tip_Action]]"
+dv_has_domain: "[[_Standards/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Authorize_Action.md|Authorize_Action]],[[_Standards/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action.md|Communicate_Action]],[[_Standards/schema-org/Class/is_a_/Action/Trade_Action/Donate_Action.md|Donate_Action]],[[_Standards/schema-org/Class/is_a_/Action/Transfer_Action/Give_Action.md|Give_Action]],[[_Standards/Society/Communication/Media/Creative_Work/Message.md|Message]],[[_Standards/schema-org/Class/is_a_/Action/Trade_Action/Pay_Action.md|Pay_Action]],[[_Standards/schema-org/Class/is_a_/Action/Transfer_Action/Return_Action.md|Return_Action]],[[_Standards/schema-org/Class/is_a_/Action/Transfer_Action/Send_Action.md|Send_Action]],[[_Standards/schema-org/Class/is_a_/Action/Trade_Action/Tip_Action.md|Tip_Action]]"
 dv_has_name: is_recipient
 dv_has_range:
   - "[[../../../Class/is_a_/Intangible/Audience|Audience]]"

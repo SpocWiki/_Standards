@@ -42,21 +42,23 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_broadcast_affiliate_of.private|has_broadcast_affiliate_of.private]]"
     - "[[/_personal/schema-org/Relation/has/has_broadcast_affiliate_of.personal|has_broadcast_affiliate_of.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_broadcast_affiliate_of.secret|has_broadcast_affiliate_of.secret]]"
+    - "[[has_broadcast_affiliate_of]]"
 dv_has_domain: BroadcastService
 dv_has_name: has_broadcast_affiliate_of
 dv_has_range: Organization
 dv_is_same_as:
-  - "[[has_broadcast_affiliate_of|has_broadcast_affiliate_of]]"
+  - "[[has_broadcast_affiliate_of]]"
   - "[[/_public/schema-org/Relation/has/has_broadcast_affiliate_of.public|has_broadcast_affiliate_of.public]]"
   - "[[/_internal/schema-org/Relation/has/has_broadcast_affiliate_of.internal|has_broadcast_affiliate_of.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_broadcast_affiliate_of.protect|has_broadcast_affiliate_of.protect]]"
   - "[[/_private/schema-org/Relation/has/has_broadcast_affiliate_of.private|has_broadcast_affiliate_of.private]]"
   - "[[/_personal/schema-org/Relation/has/has_broadcast_affiliate_of.personal|has_broadcast_affiliate_of.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_broadcast_affiliate_of.secret|has_broadcast_affiliate_of.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
 ---
 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 

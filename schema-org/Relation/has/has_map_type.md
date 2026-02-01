@@ -30,6 +30,7 @@ dv_has_:
   domain: "[[../../../Society/Communication/Media/Creative_Work/Map|Map]]"
   name: has_map_type
   range: "[[../../Enumeration/Map_Category_Type|Map_Category_Type]]"
+  inverse: "[[is_map_type_of]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_map_type|has_map_type]]"
@@ -39,25 +40,28 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_map_type.private|has_map_type.private]]"
     - "[[/_personal/schema-org/Relation/has/has_map_type.personal|has_map_type.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_map_type.secret|has_map_type.secret]]"
+    - "[[has_map_type]]"
 dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Map|Map]]"
 dv_has_name: has_map_type
 dv_has_range: "[[../../Enumeration/Map_Category_Type|Map_Category_Type]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_map_type|has_map_type]]"
+  - "[[has_map_type]]"
   - "[[/_public/schema-org/Relation/has/has_map_type.public|has_map_type.public]]"
   - "[[/_internal/schema-org/Relation/has/has_map_type.internal|has_map_type.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_map_type.protect|has_map_type.protect]]"
   - "[[/_private/schema-org/Relation/has/has_map_type.private|has_map_type.private]]"
   - "[[/_personal/schema-org/Relation/has/has_map_type.personal|has_map_type.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_map_type.secret|has_map_type.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_map_type_of]]"
 ---
 
 # [[has_map_type]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_map_type_of]] 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/map_type : : `=this.dv_has_range`  

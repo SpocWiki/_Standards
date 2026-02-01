@@ -9,46 +9,76 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - work_featured
   - work
   - featured
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_work_featured
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_work_featured
 type: Predi_Relation
+dv_has_:
+  work_featured: CreativeWork
+  domain: Event
+  name: is_work_featured
+  range: CreativeWork
+  child_:
+    property: "[ workPerformed, workPresented ]"
+dv_has_work_featured: CreativeWork
+dv_is_a: "[[../../Relation|Relation]]"
+dv_is_:
+  same_as:
+    - "[[has_work_featured]]"
+    - "[[/_public/schema-org/Relation/has/has_work_featured.public|has_work_featured.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_work_featured.internal|has_work_featured.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_work_featured.protect|has_work_featured.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_work_featured.private|has_work_featured.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_work_featured.personal|has_work_featured.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_work_featured.secret|has_work_featured.secret]]"
+dv_has_domain: Event
+dv_has_name: is_work_featured
+dv_has_range: CreativeWork
+dv_has_child_property: "[ workPerformed, workPresented ]"
+dv_is_same_as:
+  - "[[has_work_featured]]"
+  - "[[/_public/schema-org/Relation/has/has_work_featured.public|has_work_featured.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_work_featured.internal|has_work_featured.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_work_featured.protect|has_work_featured.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_work_featured.private|has_work_featured.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_work_featured.personal|has_work_featured.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_work_featured.secret|has_work_featured.secret]]"
 ---
 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 
 
 Use it like this: 
 - #has_/work_featured :: CreativeWork  
-- [ has_work_featured :: CreativeWork ] 
+- has_work_featured = `=this.dv_has_work_featured`  
 
 A work featured in some event, e.g. exhibited in an ExhibitionEvent.
 	   Specific subproperties are available for workPerformed (e.g. a play), or a workPresented (a Movie at a ScreeningEvent).
 
 Relation describes that: 
 
-#has_/domain  :: Event  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: is_work_featured )
-(has_/range :: CreativeWork )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#has_/child_/property :: [ workPerformed, workPresented ]  
+has_child_property = `=this.dv_has_child_property` 
 
 ## Confidential Links & Embeds: 
 

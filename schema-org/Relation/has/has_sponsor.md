@@ -1,3 +1,34 @@
+---
+dv_has_:
+  sponsor: Organization, Person
+  domain: CreativeWork, Event, Grant, MedicalStudy, Organization, Person
+  name: is_sponsor
+  range: Organization, Person
+  child_:
+    property: "[ funder ]"
+dv_has_sponsor: Organization, Person
+dv_is_:
+  same_as:
+    - "[[has_sponsor]]"
+    - "[[/_public/schema-org/Relation/has/has_sponsor.public|has_sponsor.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_sponsor.internal|has_sponsor.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_sponsor.protect|has_sponsor.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_sponsor.private|has_sponsor.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_sponsor.personal|has_sponsor.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_sponsor.secret|has_sponsor.secret]]"
+dv_has_domain: CreativeWork, Event, Grant, MedicalStudy, Organization, Person
+dv_has_name: is_sponsor
+dv_has_range: Organization, Person
+dv_has_child_property: "[ funder ]"
+dv_is_same_as:
+  - "[[has_sponsor]]"
+  - "[[/_public/schema-org/Relation/has/has_sponsor.public|has_sponsor.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_sponsor.internal|has_sponsor.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_sponsor.protect|has_sponsor.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_sponsor.private|has_sponsor.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_sponsor.personal|has_sponsor.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_sponsor.secret|has_sponsor.secret]]"
+---
 ﻿---
 aliases:
   - has sponsor
@@ -35,18 +66,18 @@ is_a = `=this.dv_is_a`
 #class/Relation
 has_inverse = `=this.dv_has_inverse`
 - #has_/sponsor :: Organization, Person  
-- [ has_sponsor :: Organization, Person ] 
+- has_sponsor = `=this.dv_has_sponsor`  
 
 A person or organization that supports a thing through a pledge, promise, or financial contribution. E.g. a sponsor of a Medical Study or a corporate sponsor of an event.
 
 Relation describes that: 
 
-#has_/domain  :: CreativeWork, Event, Grant, MedicalStudy, Organization, Person  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: is_sponsor )
-(has_/range :: Organization, Person )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#has_/child_/property :: [ funder ]  
+has_child_property = `=this.dv_has_child_property` 
 
 ## Confidential Links & Embeds: 
 

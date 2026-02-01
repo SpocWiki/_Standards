@@ -44,21 +44,23 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_education_alignment.private|has_education_alignment.private]]"
     - "[[/_personal/schema-org/Relation/has/has_education_alignment.personal|has_education_alignment.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_education_alignment.secret|has_education_alignment.secret]]"
+    - "[[has_education_alignment]]"
 dv_has_domain: CreativeWork, LearningResource
 dv_has_name: has_education_alignment
 dv_has_range: AlignmentObject
 dv_is_same_as:
-  - "[[has_education_alignment|has_education_alignment]]"
+  - "[[has_education_alignment]]"
   - "[[/_public/schema-org/Relation/has/has_education_alignment.public|has_education_alignment.public]]"
   - "[[/_internal/schema-org/Relation/has/has_education_alignment.internal|has_education_alignment.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_education_alignment.protect|has_education_alignment.protect]]"
   - "[[/_private/schema-org/Relation/has/has_education_alignment.private|has_education_alignment.private]]"
   - "[[/_personal/schema-org/Relation/has/has_education_alignment.personal|has_education_alignment.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_education_alignment.secret|has_education_alignment.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
 ---
 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 

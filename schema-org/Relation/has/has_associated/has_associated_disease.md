@@ -28,10 +28,7 @@ dv_has_:
   inverse: "[[is_associated_disease_of]]"
   domain: "[[../../../Class/is_a_/Bio_Chem_Entity|Bio_Chem_Entity]]"
   name: has_associated_disease
-  range:
-    - "[[../../../../bio/Medicine/Medical_Condition|MedicalCondition]]"
-    - "[[../../../Class/is_a_/Intangible/Structured_Value/Property_Value_Pair|PropertyValue]]"
-    - "[[../../../Class/is_a_/Data_Type/Text/Url|Url]]"
+  range: "[[_Standards/bio/Medicine/Medical_Condition.md|MedicalCondition]],[[_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value_Pair.md|PropertyValue]],[[_Standards/schema-org/Class/is_a_/Data_Type/Text/Url.md|Url]]"
 dv_is_a: "[[../../../Relation|Relation]]"
 dv_is_:
   part_of: "pending:"
@@ -47,10 +44,7 @@ dv_has_inverse: "[[is_associated_disease_of]]"
 dv_is_part_of: "pending:"
 dv_has_domain: "[[../../../Class/is_a_/Bio_Chem_Entity|Bio_Chem_Entity]]"
 dv_has_name: has_associated_disease
-dv_has_range:
-  - "[[../../../../bio/Medicine/Medical_Condition|MedicalCondition]]"
-  - "[[../../../Class/is_a_/Intangible/Structured_Value/Property_Value_Pair|PropertyValue]]"
-  - "[[../../../Class/is_a_/Data_Type/Text/Url|Url]]"
+dv_has_range: "[[_Standards/bio/Medicine/Medical_Condition.md|MedicalCondition]],[[_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value_Pair.md|PropertyValue]],[[_Standards/schema-org/Class/is_a_/Data_Type/Text/Url.md|Url]]"
 dv_is_same_as:
   - "[[has_associated_disease]]"
   - "[[/_public/schema-org/Relation/has/has_associated_disease.public|has_associated_disease.public]]"

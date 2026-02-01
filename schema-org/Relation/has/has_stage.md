@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_stage]]"
+    - "[[/_public/schema-org/Relation/has/has_stage.public|has_stage.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_stage.internal|has_stage.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_stage.protect|has_stage.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_stage.private|has_stage.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_stage.personal|has_stage.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_stage.secret|has_stage.secret]]"
+dv_is_same_as:
+  - "[[has_stage]]"
+  - "[[/_public/schema-org/Relation/has/has_stage.public|has_stage.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_stage.internal|has_stage.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_stage.protect|has_stage.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_stage.private|has_stage.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_stage.personal|has_stage.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_stage.secret|has_stage.secret]]"
+---
 ﻿---
 aliases:
   - has stage

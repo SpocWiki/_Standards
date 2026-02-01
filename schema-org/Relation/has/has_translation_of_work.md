@@ -1,3 +1,31 @@
+---
+dv_has_:
+  translation_of_work: CreativeWork
+  domain: CreativeWork
+  name: is_translation_of_work
+  range: CreativeWork
+dv_has_translation_of_work: CreativeWork
+dv_is_:
+  same_as:
+    - "[[has_translation_of_work]]"
+    - "[[/_public/schema-org/Relation/has/has_translation_of_work.public|has_translation_of_work.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_translation_of_work.internal|has_translation_of_work.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_translation_of_work.protect|has_translation_of_work.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_translation_of_work.private|has_translation_of_work.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_translation_of_work.personal|has_translation_of_work.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_translation_of_work.secret|has_translation_of_work.secret]]"
+dv_has_domain: CreativeWork
+dv_has_name: is_translation_of_work
+dv_has_range: CreativeWork
+dv_is_same_as:
+  - "[[has_translation_of_work]]"
+  - "[[/_public/schema-org/Relation/has/has_translation_of_work.public|has_translation_of_work.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_translation_of_work.internal|has_translation_of_work.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_translation_of_work.protect|has_translation_of_work.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_translation_of_work.private|has_translation_of_work.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_translation_of_work.personal|has_translation_of_work.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_translation_of_work.secret|has_translation_of_work.secret]]"
+---
 ï»¿---
 aliases:
   - has translation-of-work
@@ -41,7 +69,7 @@ has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
 - #has_/translation_of_work :: CreativeWork  
-- [ has_translation_of_work :: CreativeWork ] 
+- has_translation_of_work = `=this.dv_has_translation_of_work`  
 - is_translation_of_work_of : : `=this.dv_has_domain` 
 - #is_/translation_of_work_of : : `=this.dv_has_domain`
 
@@ -49,10 +77,10 @@ The work that this work has been translated from. E.g. ???? is a translationOf ï
 
 Relation describes that: 
 
-#has_/domain  :: CreativeWork  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: is_translation_of_work )
-(has_/range :: CreativeWork )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 has_inverse = `=this.dv_has_inverse`
 

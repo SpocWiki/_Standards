@@ -7,9 +7,9 @@ aliases:
   - has positive result
   - facilitates
 dv_has_:
-  inverse: "[[has_result_negative]]"
+  inverse: "[[is_result_positive_due_to]]"
   domain: "[[../../../Class|Class]]"
-  complement: "[[has_result/has_result_negative]]"
+  complement: "[[_Standards/schema-org/Relation/has/has_result/has_result_negative.md|has_result_negative]]"
   name: "[[has_result_positive]]"
   range: "[[../../../Class/Thing|Thing]]"
 dv_is_:
@@ -21,13 +21,14 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_result_positive.private|has_result_positive.private]]"
     - "[[/_personal/schema-org/Relation/has/has_result_positive.personal|has_result_positive.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_result_positive.secret|has_result_positive.secret]]"
+    - "[[has_result_positive]]"
 dv_has_domain: "[[../../../Class/is_a_/Action|Action]]"
 dv_has_name: "[[has_result_positive]]"
 dv_has_range: "[[../../../Class/Thing|Thing]]"
-dv_has_inverse: "[[has_result_negative]]"
-dv_has_complement: "[[has_result/has_result_negative]]"
+dv_has_inverse: "[[is_result_positive_due_to]]"
+dv_has_complement: "[[_Standards/schema-org/Relation/has/has_result/has_result_negative.md|has_result_negative]]"
 dv_is_same_as:
-  - "[[has_result_positive|has_result_positive]]"
+  - "[[has_result_positive]]"
   - "[[/_public/schema-org/Relation/has/has_result_positive.public|has_result_positive.public]]"
   - "[[/_internal/schema-org/Relation/has/has_result_positive.internal|has_result_positive.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_result_positive.protect|has_result_positive.protect]]"
@@ -39,7 +40,7 @@ dv_is_same_as:
 # [[has_result_positive]] 
 
 [[is_inhibiting]]
-#has_/inverse  :: [[is_result_positive_due_to]] 
+has_inverse = `=this.dv_has_inverse` 
 #has_/complement :: `=this.dv_has_complement` 
 
 

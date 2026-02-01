@@ -47,7 +47,21 @@ dv_has_:
     - "[[../../../Society/Agent/Community/Organization|Organization]]"
     - "[[../../../Society/Agent/Person|Person]]"
   child_:
-    property: borrower, buyer, endorsee, landlord, lender, loser, opponent, realEstateAgent, recipient, seller, sender, sportsTeam, vendor, winner
+    property:
+      - "[[has_participant/has_borrower|has_borrower]]"
+      - "[[has_participant/has_buyer|has_buyer]]"
+      - "[[has_participant/has_endorsee|has_endorsee]]"
+      - "[[has_participant/has_landlord|has_landlord]]"
+      - "[[has_participant/has_lender|has_lender]]"
+      - "[[has_participant/has_loser|has_loser]]"
+      - "[[has_participant/has_opponent|has_opponent]]"
+      - "[[has_participant/has_real_estate_agent|has_real_estate_agent]]"
+      - "[[has_participant/has_recipient|has_recipient]]"
+      - "[[has_participant/has_seller]]"
+      - "[[has_participant/has_sender|has_sender]]"
+      - "[[has_participant/has_sports_team|has_sports_team]]"
+      - "[[has_participant/has_seller|has_vendor]]"
+      - "[[has_participant/has_winner|has_winner]]"
 dv_is_:
   same_as:
     - "[[has_participant]]"

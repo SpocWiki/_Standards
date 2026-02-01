@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_toc_entry]]"
+    - "[[/_public/schema-org/Relation/has/has_toc_entry.public|has_toc_entry.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_toc_entry.internal|has_toc_entry.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_toc_entry.protect|has_toc_entry.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_toc_entry.private|has_toc_entry.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_toc_entry.personal|has_toc_entry.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_toc_entry.secret|has_toc_entry.secret]]"
+dv_is_same_as:
+  - "[[has_toc_entry]]"
+  - "[[/_public/schema-org/Relation/has/has_toc_entry.public|has_toc_entry.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_toc_entry.internal|has_toc_entry.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_toc_entry.protect|has_toc_entry.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_toc_entry.private|has_toc_entry.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_toc_entry.personal|has_toc_entry.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_toc_entry.secret|has_toc_entry.secret]]"
+---
 ﻿---
 aliases:
   - has toc-entry

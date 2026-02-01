@@ -41,21 +41,23 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_order_delivery.private|has_order_delivery.private]]"
     - "[[/_personal/schema-org/Relation/has/has_order_delivery.personal|has_order_delivery.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_order_delivery.secret|has_order_delivery.secret]]"
+    - "[[has_order_delivery]]"
 dv_has_domain: Order, OrderItem
 dv_has_name: has_order_delivery
 dv_has_range: ParcelDelivery
 dv_is_same_as:
-  - "[[has_order_delivery|has_order_delivery]]"
+  - "[[has_order_delivery]]"
   - "[[/_public/schema-org/Relation/has/has_order_delivery.public|has_order_delivery.public]]"
   - "[[/_internal/schema-org/Relation/has/has_order_delivery.internal|has_order_delivery.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_order_delivery.protect|has_order_delivery.protect]]"
   - "[[/_private/schema-org/Relation/has/has_order_delivery.private|has_order_delivery.private]]"
   - "[[/_personal/schema-org/Relation/has/has_order_delivery.personal|has_order_delivery.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_order_delivery.secret|has_order_delivery.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
 ---
 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 

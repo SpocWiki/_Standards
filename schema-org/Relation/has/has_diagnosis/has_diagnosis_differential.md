@@ -41,11 +41,12 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_diagnosis_differential.private|has_diagnosis_differential.private]]"
     - "[[/_personal/schema-org/Relation/has/has_diagnosis_differential.personal|has_diagnosis_differential.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_diagnosis_differential.secret|has_diagnosis_differential.secret]]"
+    - "[[has_diagnosis_differential]]"
 dv_has_domain: MedicalCondition
 dv_has_name: has_diagnosis_differential
 dv_has_range: DDxElement
 dv_is_same_as:
-  - "[[has_diagnosis_differential|has_diagnosis_differential]]"
+  - "[[has_diagnosis_differential]]"
   - "[[/_public/schema-org/Relation/has/has_diagnosis_differential.public|has_diagnosis_differential.public]]"
   - "[[/_internal/schema-org/Relation/has/has_diagnosis_differential.internal|has_diagnosis_differential.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_diagnosis_differential.protect|has_diagnosis_differential.protect]]"

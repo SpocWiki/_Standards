@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_released_event]]"
+    - "[[/_public/schema-org/Relation/has/has_released_event.public|has_released_event.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_released_event.internal|has_released_event.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_released_event.protect|has_released_event.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_released_event.private|has_released_event.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_released_event.personal|has_released_event.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_released_event.secret|has_released_event.secret]]"
+dv_is_same_as:
+  - "[[has_released_event]]"
+  - "[[/_public/schema-org/Relation/has/has_released_event.public|has_released_event.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_released_event.internal|has_released_event.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_released_event.protect|has_released_event.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_released_event.private|has_released_event.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_released_event.personal|has_released_event.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_released_event.secret|has_released_event.secret]]"
+---
 ﻿---
 aliases:
   - has released-event

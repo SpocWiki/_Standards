@@ -30,6 +30,7 @@ dv_has_:
   domain: "[[../../../Society/Communication/Media/Creative_Work/Music_Composition|Music_Composition]]"
   name: has_music_arrangement
   range: "[[../../../Society/Communication/Media/Creative_Work/Music_Composition|Music_Composition]]"
+  inverse: "[[is_music_arrangement_of]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_music_arrangement|has_music_arrangement]]"
@@ -39,25 +40,28 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_music_arrangement.private|has_music_arrangement.private]]"
     - "[[/_personal/schema-org/Relation/has/has_music_arrangement.personal|has_music_arrangement.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_music_arrangement.secret|has_music_arrangement.secret]]"
+    - "[[has_music_arrangement]]"
 dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Music_Composition|Music_Composition]]"
 dv_has_name: has_music_arrangement
 dv_has_range: "[[../../../Society/Communication/Media/Creative_Work/Music_Composition|Music_Composition]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_music_arrangement|has_music_arrangement]]"
+  - "[[has_music_arrangement]]"
   - "[[/_public/schema-org/Relation/has/has_music_arrangement.public|has_music_arrangement.public]]"
   - "[[/_internal/schema-org/Relation/has/has_music_arrangement.internal|has_music_arrangement.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_music_arrangement.protect|has_music_arrangement.protect]]"
   - "[[/_private/schema-org/Relation/has/has_music_arrangement.private|has_music_arrangement.private]]"
   - "[[/_personal/schema-org/Relation/has/has_music_arrangement.personal|has_music_arrangement.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_music_arrangement.secret|has_music_arrangement.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_music_arrangement_of]]"
 ---
 
 # [[has_music_arrangement]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_music_arrangement_of]]
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/music_arrangement : : `=this.dv_has_range`  

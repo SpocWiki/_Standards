@@ -41,21 +41,23 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_interaction_service.private|has_interaction_service.private]]"
     - "[[/_personal/schema-org/Relation/has/has_interaction_service.personal|has_interaction_service.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_interaction_service.secret|has_interaction_service.secret]]"
+    - "[[has_interaction_service]]"
 dv_has_domain: InteractionCounter
 dv_has_name: has_interaction_service
 dv_has_range: SoftwareApplication, WebSite
 dv_is_same_as:
-  - "[[has_interaction_service|has_interaction_service]]"
+  - "[[has_interaction_service]]"
   - "[[/_public/schema-org/Relation/has/has_interaction_service.public|has_interaction_service.public]]"
   - "[[/_internal/schema-org/Relation/has/has_interaction_service.internal|has_interaction_service.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_interaction_service.protect|has_interaction_service.protect]]"
   - "[[/_private/schema-org/Relation/has/has_interaction_service.private|has_interaction_service.private]]"
   - "[[/_personal/schema-org/Relation/has/has_interaction_service.personal|has_interaction_service.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_interaction_service.secret|has_interaction_service.secret]]"
+dv_is_a: "[[../../../Relation|Relation]]"
 ---
 
 
-is_a :: [[../../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 

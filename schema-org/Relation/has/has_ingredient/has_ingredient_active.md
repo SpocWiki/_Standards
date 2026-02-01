@@ -31,7 +31,11 @@ title: has_ingredient_active
 type: Pred_Text
 dv_has_:
   ingredient_active: Text
-  domain: ["[[../../../../Society/Agent/Community/Organization/Business/Product/Dietary_Supplement|DietarySupplement]]", "[[../../../../bio/Medicine/Drug|Drug]]", "[[../../../../bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Strength|DrugStrength]]", "[[../../../../Chemistry/Substance|Substance]]"]
+  domain:
+    - "[[../../../../Society/Agent/Community/Organization/Business/Product/Dietary_Supplement|DietarySupplement]]"
+    - "[[../../../../bio/Medicine/Drug|Drug]]"
+    - "[[../../../../bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Strength|DrugStrength]]"
+    - "[[../../../../Chemistry/Substance|Substance]]"
   name: has_ingredient_active
   range: Text
 dv_has_ingredient_active: Text
@@ -44,11 +48,16 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_ingredient_active.private|has_ingredient_active.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_ingredient_active.personal|has_ingredient_active.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_ingredient_active.secret|has_ingredient_active.secret]]"
-dv_has_domain: ["[[../../../../Society/Agent/Community/Organization/Business/Product/Dietary_Supplement|DietarySupplement]]", "[[../../../../bio/Medicine/Drug|Drug]]", "[[../../../../bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Strength|DrugStrength]]", "[[../../../../Chemistry/Substance|Substance]]"]
+    - "[[has_ingredient_active]]"
+dv_has_domain:
+  - "[[../../../../Society/Agent/Community/Organization/Business/Product/Dietary_Supplement|DietarySupplement]]"
+  - "[[../../../../bio/Medicine/Drug|Drug]]"
+  - "[[../../../../bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Strength|DrugStrength]]"
+  - "[[../../../../Chemistry/Substance|Substance]]"
 dv_has_name: has_ingredient_active
 dv_has_range: Text
 dv_is_same_as:
-  - "[[has_ingredient_active|has_ingredient_active]]"
+  - "[[has_ingredient_active]]"
   - "[[/_public/schema-org/Property/Texts/has_ingredient_active.public|has_ingredient_active.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_ingredient_active.internal|has_ingredient_active.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_ingredient_active.protect|has_ingredient_active.protect]]"

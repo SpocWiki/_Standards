@@ -30,6 +30,7 @@ dv_has_:
   domain: "[[../../../../Society/Communication/Media/Creative_Work/Game/Video_Game|Video_Game]]"
   name: has_game_tip
   range: "[[../../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
+  inverse: "[[is_game_tip_for]]"
 dv_is_:
   same_as:
     - "[[has_game_tip|has_game_tip]]"
@@ -39,25 +40,28 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_game_tip.private|has_game_tip.private]]"
     - "[[/_personal/schema-org/Relation/has/has_game_tip.personal|has_game_tip.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_game_tip.secret|has_game_tip.secret]]"
+    - "[[has_game_tip]]"
 dv_has_domain: "[[../../../../Society/Communication/Media/Creative_Work/Game/Video_Game|Video_Game]]"
 dv_has_name: has_game_tip
-dv_has_range: "[[../../../../Society/Communication/Media/Creative_Work|Creative_Work]]" 
+dv_has_range: "[[../../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
 dv_is_same_as:
-  - "[[has_game_tip|has_game_tip]]"
+  - "[[has_game_tip]]"
   - "[[/_public/schema-org/Relation/has/has_game_tip.public|has_game_tip.public]]"
   - "[[/_internal/schema-org/Relation/has/has_game_tip.internal|has_game_tip.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_game_tip.protect|has_game_tip.protect]]"
   - "[[/_private/schema-org/Relation/has/has_game_tip.private|has_game_tip.private]]"
   - "[[/_personal/schema-org/Relation/has/has_game_tip.personal|has_game_tip.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_game_tip.secret|has_game_tip.secret]]"
+dv_is_a: "[[../../../Relation|Relation]]"
+dv_has_inverse: "[[is_game_tip_for]]"
 ---
 
 # [[has_game_tip]] 
 
-is_a :: [[../../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_game_tip_for]] 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/game_/tip : : `=this.dv_has_range`  

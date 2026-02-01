@@ -41,21 +41,23 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_menu_section.private|has_menu_section.private]]"
     - "[[/_personal/schema-org/Relation/has/has_menu_section.personal|has_menu_section.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_menu_section.secret|has_menu_section.secret]]"
+    - "[[has_menu_section]]"
 dv_has_domain: Menu, MenuSection
 dv_has_name: has_menu_section
 dv_has_range: MenuSection
 dv_is_same_as:
-  - "[[has_menu_section|has_menu_section]]"
+  - "[[has_menu_section]]"
   - "[[/_public/schema-org/Relation/has/has_menu_section.public|has_menu_section.public]]"
   - "[[/_internal/schema-org/Relation/has/has_menu_section.internal|has_menu_section.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_menu_section.protect|has_menu_section.protect]]"
   - "[[/_private/schema-org/Relation/has/has_menu_section.private|has_menu_section.private]]"
   - "[[/_personal/schema-org/Relation/has/has_menu_section.personal|has_menu_section.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_menu_section.secret|has_menu_section.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
 ---
 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 

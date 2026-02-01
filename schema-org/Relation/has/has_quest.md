@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_quest]]"
+    - "[[/_public/schema-org/Relation/has/has_quest.public|has_quest.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_quest.internal|has_quest.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_quest.protect|has_quest.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_quest.private|has_quest.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_quest.personal|has_quest.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_quest.secret|has_quest.secret]]"
+dv_is_same_as:
+  - "[[has_quest]]"
+  - "[[/_public/schema-org/Relation/has/has_quest.public|has_quest.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_quest.internal|has_quest.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_quest.protect|has_quest.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_quest.private|has_quest.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_quest.personal|has_quest.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_quest.secret|has_quest.secret]]"
+---
 ﻿---
 aliases:
   - has quest

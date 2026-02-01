@@ -31,9 +31,7 @@ dv_has_:
   inverse: "[[is_food_establishment_for]]"
   domain: "[[../../Class/is_a_/Action/Create_Action/Cook_Action|Cook_Action]]"
   name: has_food_establishment
-  range:
-    - "[[../../../Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment|Food_Establishment]]"
-    - "[[../../../Earth/Geography/Place|Place]]"
+  range: "[[_Standards/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment.md|Food_Establishment]],[[_Standards/Earth/Geography/Place.md|Place]]"
   parent_:
     property: "[[../../Property/has_location|has_location]]"
 dv_is_:
@@ -48,9 +46,7 @@ dv_is_:
 dv_has_inverse: "[[is_food_establishment_for]]"
 dv_has_domain: "[[../../Class/is_a_/Action/Create_Action/Cook_Action|Cook_Action]]"
 dv_has_name: has_food_establishment
-dv_has_range:
-  - "[[../../../Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment|Food_Establishment]]"
-  - "[[../../../Earth/Geography/Place|Place]]"
+dv_has_range: "[[_Standards/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment.md|Food_Establishment]],[[_Standards/Earth/Geography/Place.md|Place]]"
 dv_has_parent_property: "[[../../Property/has_location|has_location]]"
 dv_is_same_as:
   - "[[has_food_establishment]]"

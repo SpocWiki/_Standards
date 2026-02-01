@@ -11,34 +11,77 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - after
   - media
   - afterMedia
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_media_after
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_media_after
 type: Predi_Relation
+dv_has_:
+  media_:
+    after:
+      - "[[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]]"
+      - "[[../../../Class/is_a_/Data_Type/Text/Url|Url]]"
+  inverse: "[[is_followed_by_media]]"
+  previous_:
+    item: "[[has_media_during]]"
+  domain: "[[../../../../Society/Communication/Media/Creative_Work/How_to/How_to_Direction|How_to_Direction]]"
+  name: has_media_after
+  range:
+    - "[[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]]"
+    - "[[../../../Class/is_a_/Data_Type/Text/Url|Url]]"
+dv_has_media_after:
+  - "[[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]]"
+  - "[[../../../Class/is_a_/Data_Type/Text/Url|Url]]"
+dv_is_a: "[[../../../Relation|Relation]]"
+dv_is_:
+  similar_to: "[[has_media_before]]"
+  same_as:
+    - "[[has_media_after]]"
+    - "[[/_public/schema-org/Relation/has/has_media_after.public|has_media_after.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_media_after.internal|has_media_after.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_media_after.protect|has_media_after.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_media_after.private|has_media_after.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_media_after.personal|has_media_after.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_media_after.secret|has_media_after.secret]]"
+dv_has_inverse: "[[is_followed_by_media]]"
+dv_has_previous_item: "[[has_media_during]]"
+dv_is_similar_to: "[[has_media_before]]"
+dv_has_domain: "[[../../../../Society/Communication/Media/Creative_Work/How_to/How_to_Direction|How_to_Direction]]"
+dv_has_name: has_media_after
+dv_has_range:
+  - "[[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]]"
+  - "[[../../../Class/is_a_/Data_Type/Text/Url|Url]]"
+dv_is_same_as:
+  - "[[has_media_after]]"
+  - "[[/_public/schema-org/Relation/has/has_media_after.public|has_media_after.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_media_after.internal|has_media_after.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_media_after.protect|has_media_after.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_media_after.private|has_media_after.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_media_after.personal|has_media_after.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_media_after.secret|has_media_after.secret]]"
 ---
 
 # [[has_media_after]] 
 
-#is_a :: [[../../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_followed_by_media]] 
+has_inverse = `=this.dv_has_inverse` 
 
-#has_/previous_/item :: [[./has_media_during|has_media_during]] 
-#is_/similar_to :: [[./has_media_before|has_media_before]]  
+has_previous_item = `=this.dv_has_previous_item` 
+is_similar_to = `=this.dv_is_similar_to` 
 
 
 Use it like this: 
@@ -49,8 +92,8 @@ A media object representing the circumstances after performing this direction.
 
 Relation describes that: 
 
-#has_/domain  :: [[../../../../Society/Communication/Media/Creative_Work/How_to/How_to_Direction|How_to_Direction]]  
-(has_/name :: has_media_after )
+has_domain = `=this.dv_has_domain` 
+has_name = `=this.dv_has_name` 
 (has_/range :: [[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]],  [[../../../Class/is_a_/Data_Type/Text/Url|Url]]   )
 
 

@@ -9,42 +9,73 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - seller
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_seller
 publish: true
-publishDate: ''
+publishDate: ""
 supersedes: merchant, vendor
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_seller
 type: Predi_Relation
+dv_has_:
+  seller: Organization, Person
+  complement: "[[has_buyer]]"
+  domain: BuyAction, Demand, Flight, Offer, Order
+  name: is_seller
+  range: Organization, Person
+  parent_:
+    property: participant
+dv_has_seller: Organization, Person
+dv_is_:
+  same_as:
+    - "[[has_seller]]"
+    - "[[/_public/schema-org/Relation/has/has_participants/has_seller.public|has_seller.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_participants/has_seller.internal|has_seller.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_participants/has_seller.protect|has_seller.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_participants/has_seller.private|has_seller.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_participants/has_seller.personal|has_seller.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_participants/has_seller.secret|has_seller.secret]]"
+dv_has_complement: "[[has_buyer]]"
+dv_has_domain: BuyAction, Demand, Flight, Offer, Order
+dv_has_name: is_seller
+dv_has_range: Organization, Person
+dv_has_parent_property: participant
+dv_is_same_as:
+  - "[[has_seller]]"
+  - "[[/_public/schema-org/Relation/has/has_participants/has_seller.public|has_seller.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_participants/has_seller.internal|has_seller.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_participants/has_seller.protect|has_seller.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_participants/has_seller.private|has_seller.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_participants/has_seller.personal|has_seller.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_participants/has_seller.secret|has_seller.secret]]"
 ---
 
 # [[has_seller]] 
 
-#has_/complement :: [[has_buyer]]  
+has_complement = `=this.dv_has_complement` 
 
 Use it like this: 
 - #has_/seller :: Organization, Person  
-- [ has_seller :: Organization, Person ] 
+- has_seller = `=this.dv_has_seller`  
 
 An entity which offers (sells / leases / lends / loans) the services / goods.  A seller may also be a provider.
 
 Relation describes that: 
 
-#has_/domain  :: BuyAction, Demand, Flight, Offer, Order  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: is_seller )
-(has_/range :: Organization, Person )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#has_/parent_/property  :: participant  
+has_parent_property = `=this.dv_has_parent_property` 
 
 ## Confidential Links & Embeds: 
 

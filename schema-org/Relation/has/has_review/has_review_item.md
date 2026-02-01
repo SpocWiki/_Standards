@@ -33,6 +33,7 @@ dv_has_:
     - "[[../../../../Society/Communication/Media/Creative_Work/Review|Review]]"
   name: has_review_item
   range: "[[../../../Class/Thing|Thing]]"
+  inverse: "[[../has_review]]"
 dv_is_:
   same_as:
     - "[[has_review_item|has_review_item]]"
@@ -42,27 +43,30 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_review_item.private|has_review_item.private]]"
     - "[[/_personal/schema-org/Relation/has/has_review_item.personal|has_review_item.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_review_item.secret|has_review_item.secret]]"
+    - "[[has_review_item]]"
 dv_has_domain:
   - "[[../../../Class/is_a_/Intangible/Rating/Aggregate_Rating|Aggregate_Rating]]"
   - "[[../../../../Society/Communication/Media/Creative_Work/Review|Review]]"
 dv_has_name: has_review_item
 dv_has_range: "[[../../../Class/Thing|Thing]]"
 dv_is_same_as:
-  - "[[has_review_item|has_review_item]]"
+  - "[[has_review_item]]"
   - "[[/_public/schema-org/Relation/has/has_review_item.public|has_review_item.public]]"
   - "[[/_internal/schema-org/Relation/has/has_review_item.internal|has_review_item.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_review_item.protect|has_review_item.protect]]"
   - "[[/_private/schema-org/Relation/has/has_review_item.private|has_review_item.private]]"
   - "[[/_personal/schema-org/Relation/has/has_review_item.personal|has_review_item.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_review_item.secret|has_review_item.secret]]"
+dv_is_a: "[[../../../Relation|Relation]]"
+dv_has_inverse: "[[../has_review]]"
 ---
 
 # [[has_review_item]] 
 
-is_a :: [[../../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[has_review]] 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/review_item : : `=this.dv_has_range`  

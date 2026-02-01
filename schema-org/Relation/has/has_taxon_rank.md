@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_taxon_rank]]"
+    - "[[/_public/schema-org/Relation/has/has_taxon_rank.public|has_taxon_rank.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_taxon_rank.internal|has_taxon_rank.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_taxon_rank.protect|has_taxon_rank.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_taxon_rank.private|has_taxon_rank.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_taxon_rank.personal|has_taxon_rank.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_taxon_rank.secret|has_taxon_rank.secret]]"
+dv_is_same_as:
+  - "[[has_taxon_rank]]"
+  - "[[/_public/schema-org/Relation/has/has_taxon_rank.public|has_taxon_rank.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_taxon_rank.internal|has_taxon_rank.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_taxon_rank.protect|has_taxon_rank.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_taxon_rank.private|has_taxon_rank.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_taxon_rank.personal|has_taxon_rank.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_taxon_rank.secret|has_taxon_rank.secret]]"
+---
 ﻿---
 aliases:
   - has taxon-rank

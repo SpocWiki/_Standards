@@ -27,11 +27,11 @@ tags:
 title: has_measured_property
 type: Predi_Relation
 dv_has_:
-  measured_property: Property
+  measured_property: "[[_Standards/schema-org/Property.md|Property]]"
   domain: "[[../../Class/is_a_/Intangible/Observation|Observation]]"
   name: has_measured_property
   range: "[[../../Property|Property]]"
-dv_has_measured_property: Property
+dv_has_measured_property: "[[_Standards/schema-org/Property.md|Property]]"
 dv_is_a: "[[../../Relation|Relation]]"
 dv_is_:
   part_of: "pending:"

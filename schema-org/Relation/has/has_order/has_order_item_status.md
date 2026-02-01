@@ -42,21 +42,23 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_order_item_status.private|has_order_item_status.private]]"
     - "[[/_personal/schema-org/Relation/has/has_order_item_status.personal|has_order_item_status.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_order_item_status.secret|has_order_item_status.secret]]"
+    - "[[has_order_item_status]]"
 dv_has_domain: "[[../../../Class/is_a_/Intangible/Order_Item|Order_Item]]"
 dv_has_name: has_order_item_status
 dv_has_range: "[[../../../Enumeration/Status_Enumeration/Order_Status|Order_Status]]"
 dv_is_same_as:
-  - "[[has_order_item_status|has_order_item_status]]"
+  - "[[has_order_item_status]]"
   - "[[/_public/schema-org/Relation/has/has_order_item_status.public|has_order_item_status.public]]"
   - "[[/_internal/schema-org/Relation/has/has_order_item_status.internal|has_order_item_status.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_order_item_status.protect|has_order_item_status.protect]]"
   - "[[/_private/schema-org/Relation/has/has_order_item_status.private|has_order_item_status.private]]"
   - "[[/_personal/schema-org/Relation/has/has_order_item_status.personal|has_order_item_status.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_order_item_status.secret|has_order_item_status.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
 ---
 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 

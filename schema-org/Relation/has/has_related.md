@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_related]]"
+    - "[[/_public/schema-org/Relation/has/has_related.public|has_related.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_related.internal|has_related.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_related.protect|has_related.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_related.private|has_related.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_related.personal|has_related.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_related.secret|has_related.secret]]"
+dv_is_same_as:
+  - "[[has_related]]"
+  - "[[/_public/schema-org/Relation/has/has_related.public|has_related.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_related.internal|has_related.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_related.protect|has_related.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_related.private|has_related.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_related.personal|has_related.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_related.secret|has_related.secret]]"
+---
 ﻿---
 aliases:
   - has related

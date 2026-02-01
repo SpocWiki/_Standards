@@ -30,6 +30,7 @@ dv_has_:
   domain: "[[../../../bio/Medicine/Anatomy/Skeleton/Muscle|Muscle]]"
   name: has_blood_supply
   range: "[[../../../bio/Medicine/Anatomy/Circulatory_System/Vessel|Vessel]]"
+  inverse: "[[is_blood_supply_of]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_blood_supply|has_blood_supply]]"
@@ -39,26 +40,29 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_blood_supply.private|has_blood_supply.private]]"
     - "[[/_personal/schema-org/Relation/has/has_blood_supply.personal|has_blood_supply.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_blood_supply.secret|has_blood_supply.secret]]"
+    - "[[has_blood_supply]]"
 dv_has_domain: "[[../../../bio/Medicine/Anatomy/Skeleton/Muscle|Muscle]]"
 dv_has_name: has_blood_supply
 dv_has_range: "[[../../../bio/Medicine/Anatomy/Circulatory_System/Vessel|Vessel]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_blood_supply|has_blood_supply]]"
+  - "[[has_blood_supply]]"
   - "[[/_public/schema-org/Relation/has/has_blood_supply.public|has_blood_supply.public]]"
   - "[[/_internal/schema-org/Relation/has/has_blood_supply.internal|has_blood_supply.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_blood_supply.protect|has_blood_supply.protect]]"
   - "[[/_private/schema-org/Relation/has/has_blood_supply.private|has_blood_supply.private]]"
   - "[[/_personal/schema-org/Relation/has/has_blood_supply.personal|has_blood_supply.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_blood_supply.secret|has_blood_supply.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_blood_supply_of]]"
 ---
 
 # [[has_blood_supply]] 
 
-is_a :: [[../../Relation|Relation]]
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 
-#has_/inverse :: [[is_blood_supply_of]] 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/blood_/supply : : `=this.dv_has_range` 

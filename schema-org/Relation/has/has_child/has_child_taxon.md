@@ -29,10 +29,7 @@ title: has_child_taxon
 type: Predi_Relation
 dv_has_:
   child_:
-    taxon:
-      - "[[../../../../bio/Taxon_Rank/Taxon|Taxon]]"
-      - "[[../../../Class/is_a_/Data_Type/Text|Text]]"
-      - "[[../../../Class/is_a_/Data_Type/Text/Url|Url]]"
+    taxon: "[[_Standards/bio/Taxon_Rank/Taxon.md|Taxon]],[[_Standards/schema-org/Class/is_a_/Data_Type/Text.md|Text]],[[_Standards/schema-org/Class/is_a_/Data_Type/Text/Url.md|Url]]"
   inverse: "[[has_parent/has_parent_taxon|has_parent_taxon]]"
   domain: "[[../../../../bio/Taxon_Rank/Taxon|Taxon]]"
   name: has_child_taxon
@@ -40,10 +37,7 @@ dv_has_:
     - "[[../../../../bio/Taxon_Rank/Taxon|Taxon]]"
     - "[[../../../Class/is_a_/Data_Type/Text|Text]]"
     - "[[../../../Class/is_a_/Data_Type/Text/Url|Url]]"
-dv_has_child_taxon:
-  - "[[../../../../bio/Taxon_Rank/Taxon|Taxon]]"
-  - "[[../../../Class/is_a_/Data_Type/Text|Text]]"
-  - "[[../../../Class/is_a_/Data_Type/Text/Url|Url]]"
+dv_has_child_taxon: "[[_Standards/bio/Taxon_Rank/Taxon.md|Taxon]],[[_Standards/schema-org/Class/is_a_/Data_Type/Text.md|Text]],[[_Standards/schema-org/Class/is_a_/Data_Type/Text/Url.md|Url]]"
 dv_is_:
   part_of: "pending:"
   same_as:

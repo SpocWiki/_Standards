@@ -41,21 +41,23 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_study_location.private|has_study_location.private]]"
     - "[[/_personal/schema-org/Relation/has/has_study_location.personal|has_study_location.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_study_location.secret|has_study_location.secret]]"
+    - "[[has_study_location]]"
 dv_has_domain: MedicalStudy
 dv_has_name: is_study_location
 dv_has_range: AdministrativeArea
 dv_is_same_as:
-  - "[[has_study_location|has_study_location]]"
+  - "[[has_study_location]]"
   - "[[/_public/schema-org/Relation/has/has_study_location.public|has_study_location.public]]"
   - "[[/_internal/schema-org/Relation/has/has_study_location.internal|has_study_location.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_study_location.protect|has_study_location.protect]]"
   - "[[/_private/schema-org/Relation/has/has_study_location.private|has_study_location.private]]"
   - "[[/_personal/schema-org/Relation/has/has_study_location.personal|has_study_location.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_study_location.secret|has_study_location.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
 ---
 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 

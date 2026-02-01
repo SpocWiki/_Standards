@@ -30,6 +30,7 @@ dv_has_:
   domain: "[[../../../Society/Communication/Media/Creative_Work/Message|Message]]"
   name: has_message_attachment
   range: "[[../../../Society/Communication/Media/Creative_Work|CreativeWork]]"
+  inverse: "[[is_message_attachment_of]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_message_attachment|has_message_attachment]]"
@@ -39,25 +40,28 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_message_attachment.private|has_message_attachment.private]]"
     - "[[/_personal/schema-org/Relation/has/has_message_attachment.personal|has_message_attachment.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_message_attachment.secret|has_message_attachment.secret]]"
+    - "[[has_message_attachment]]"
 dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Message|Message]]"
 dv_has_name: has_message_attachment
 dv_has_range: "[[../../../Society/Communication/Media/Creative_Work|CreativeWork]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_message_attachment|has_message_attachment]]"
+  - "[[has_message_attachment]]"
   - "[[/_public/schema-org/Relation/has/has_message_attachment.public|has_message_attachment.public]]"
   - "[[/_internal/schema-org/Relation/has/has_message_attachment.internal|has_message_attachment.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_message_attachment.protect|has_message_attachment.protect]]"
   - "[[/_private/schema-org/Relation/has/has_message_attachment.private|has_message_attachment.private]]"
   - "[[/_personal/schema-org/Relation/has/has_message_attachment.personal|has_message_attachment.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_message_attachment.secret|has_message_attachment.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_message_attachment_of]]"
 ---
 
 # [[has_message_attachment]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_message_attachment_of]]
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/message_/attachment : : `=this.dv_has_range`   

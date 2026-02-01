@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_secondary_prevention]]"
+    - "[[/_public/schema-org/Relation/has/has_secondary_prevention.public|has_secondary_prevention.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_secondary_prevention.internal|has_secondary_prevention.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_secondary_prevention.protect|has_secondary_prevention.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_secondary_prevention.private|has_secondary_prevention.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_secondary_prevention.personal|has_secondary_prevention.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_secondary_prevention.secret|has_secondary_prevention.secret]]"
+dv_is_same_as:
+  - "[[has_secondary_prevention]]"
+  - "[[/_public/schema-org/Relation/has/has_secondary_prevention.public|has_secondary_prevention.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_secondary_prevention.internal|has_secondary_prevention.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_secondary_prevention.protect|has_secondary_prevention.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_secondary_prevention.private|has_secondary_prevention.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_secondary_prevention.personal|has_secondary_prevention.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_secondary_prevention.secret|has_secondary_prevention.secret]]"
+---
 ﻿---
 aliases:
   - has secondary-prevention

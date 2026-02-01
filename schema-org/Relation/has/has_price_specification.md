@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_price_specification]]"
+    - "[[/_public/schema-org/Relation/has/has_price_specification.public|has_price_specification.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_price_specification.internal|has_price_specification.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_price_specification.protect|has_price_specification.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_price_specification.private|has_price_specification.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_price_specification.personal|has_price_specification.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_price_specification.secret|has_price_specification.secret]]"
+dv_is_same_as:
+  - "[[has_price_specification]]"
+  - "[[/_public/schema-org/Relation/has/has_price_specification.public|has_price_specification.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_price_specification.internal|has_price_specification.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_price_specification.protect|has_price_specification.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_price_specification.private|has_price_specification.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_price_specification.personal|has_price_specification.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_price_specification.secret|has_price_specification.secret]]"
+---
 ﻿---
 aliases:
   - has price-specification

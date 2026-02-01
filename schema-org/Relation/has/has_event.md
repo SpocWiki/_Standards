@@ -45,6 +45,7 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_event.private|has_event.private]]"
     - "[[/_personal/schema-org/Relation/has/has_event.personal|has_event.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_event.secret|has_event.secret]]"
+    - "[[has_event]]"
 dv_has_domain:
   - "[[../../Class/is_a_/Action/Interact_Action/Communicate_Action/Inform_Action|InformAction]]"
   - "[[../../Class/is_a_/Action/Interact_Action/Communicate_Action/Invite_Action|InviteAction]]"
@@ -56,7 +57,7 @@ dv_has_domain:
 dv_has_name: has_event
 dv_has_range: "[[../../Class/is_a_/Event|Event]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_event|has_event]]"
+  - "[[has_event]]"
   - "[[/_public/schema-org/Relation/has/has_event.public|has_event.public]]"
   - "[[/_internal/schema-org/Relation/has/has_event.internal|has_event.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_event.protect|has_event.protect]]"

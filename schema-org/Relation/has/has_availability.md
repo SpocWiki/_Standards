@@ -23,9 +23,12 @@ tags:
 title: has_availability
 type: Predi_Relation
 dv_has_:
-  domain: ["[[../../../Society/Agent/Community/Organization/Business/Demand|Demand]]", "[[../../../Society/Agent/Community/Organization/Business/Offer|Offer]]"]
+  domain:
+    - "[[../../../Society/Agent/Community/Organization/Business/Demand|Demand]]"
+    - "[[../../../Society/Agent/Community/Organization/Business/Offer|Offer]]"
   name: has_availability
   range: "[[../../Enumeration/Item_Availability|Item_Availability]]"
+  inverse: "[[is_availability_of]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_availability|has_availability]]"
@@ -35,25 +38,30 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_availability.private|has_availability.private]]"
     - "[[/_personal/schema-org/Relation/has/has_availability.personal|has_availability.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_availability.secret|has_availability.secret]]"
-dv_has_domain: ["[[../../../Society/Agent/Community/Organization/Business/Demand|Demand]]", "[[../../../Society/Agent/Community/Organization/Business/Offer|Offer]]"]
+    - "[[has_availability]]"
+dv_has_domain:
+  - "[[../../../Society/Agent/Community/Organization/Business/Demand|Demand]]"
+  - "[[../../../Society/Agent/Community/Organization/Business/Offer|Offer]]"
 dv_has_name: has_availability
-dv_has_range:  "[[../../Enumeration/Item_Availability|Item_Availability]]"
+dv_has_range: "[[../../Enumeration/Item_Availability|Item_Availability]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_availability|has_availability]]"
+  - "[[has_availability]]"
   - "[[/_public/schema-org/Relation/has/has_availability.public|has_availability.public]]"
   - "[[/_internal/schema-org/Relation/has/has_availability.internal|has_availability.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_availability.protect|has_availability.protect]]"
   - "[[/_private/schema-org/Relation/has/has_availability.private|has_availability.private]]"
   - "[[/_personal/schema-org/Relation/has/has_availability.personal|has_availability.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_availability.secret|has_availability.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_availability_of]]"
 ---
 
 # [[has_availability]] 
 
-#is_a :: [[../../Relation|Relation]]
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_availability_of]]
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/availability : : `=this.dv_has_range` 

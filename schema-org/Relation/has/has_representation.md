@@ -1,3 +1,34 @@
+---
+dv_has_:
+  representation: PropertyValue, Text, URL
+  domain: BioChemEntity
+  name: is_representation
+  range: PropertyValue, Text, URL
+  child_:
+    property: "[ hasBioPolymerSequence, inChI, inChIKey, smiles ]"
+dv_has_representation: PropertyValue, Text, URL
+dv_is_:
+  same_as:
+    - "[[has_representation]]"
+    - "[[/_public/schema-org/Relation/has/has_representation.public|has_representation.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_representation.internal|has_representation.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_representation.protect|has_representation.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_representation.private|has_representation.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_representation.personal|has_representation.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_representation.secret|has_representation.secret]]"
+dv_has_domain: BioChemEntity
+dv_has_name: is_representation
+dv_has_range: PropertyValue, Text, URL
+dv_has_child_property: "[ hasBioPolymerSequence, inChI, inChIKey, smiles ]"
+dv_is_same_as:
+  - "[[has_representation]]"
+  - "[[/_public/schema-org/Relation/has/has_representation.public|has_representation.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_representation.internal|has_representation.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_representation.protect|has_representation.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_representation.private|has_representation.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_representation.personal|has_representation.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_representation.secret|has_representation.secret]]"
+---
 ﻿---
 aliases:
   - has-representation
@@ -38,7 +69,7 @@ has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
 - #has_/representation :: PropertyValue, Text, URL  
-- [ has_representation :: PropertyValue, Text, URL ] 
+- has_representation = `=this.dv_has_representation`  
 - is_representation_of : : `=this.dv_has_domain` 
 - #is_/representation_of : : `=this.dv_has_domain`
 
@@ -46,12 +77,12 @@ A common representation such as a protein sequence or chemical structure for thi
 
 Relation describes that: 
 
-#has_/domain  :: BioChemEntity  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: is_representation )
-(has_/range :: PropertyValue, Text, URL )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#has_/child_/property :: [ hasBioPolymerSequence, inChI, inChIKey, smiles ]  
+has_child_property = `=this.dv_has_child_property` 
 
 ## Confidential Links & Embeds: 
 

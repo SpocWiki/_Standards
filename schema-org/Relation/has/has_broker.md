@@ -24,9 +24,16 @@ tags:
 title: has_broker
 type: Predi_Relation
 dv_has_:
-  domain: ["[[../../Class/is_a_/Intangible/Invoice|Invoice]]", "[[../../Class/is_a_/Intangible/Order|Order]]", "[[../../Class/is_a_/Intangible/Reservation|Reservation]]", "[[../../../Society/Agent/Community/Organization/Business/Service|Service]]"]
+  domain:
+    - "[[../../Class/is_a_/Intangible/Invoice|Invoice]]"
+    - "[[../../Class/is_a_/Intangible/Order|Order]]"
+    - "[[../../Class/is_a_/Intangible/Reservation|Reservation]]"
+    - "[[../../../Society/Agent/Community/Organization/Business/Service|Service]]"
   name: has_broker
-  range: ["[[../../../Society/Agent/Community/Organization|Organization]]", "[[../../../Society/Agent/Person|Person]]"]
+  range:
+    - "[[../../../Society/Agent/Community/Organization|Organization]]"
+    - "[[../../../Society/Agent/Person|Person]]"
+  inverse: "[[is_broker_of]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_broker|has_broker]]"
@@ -36,26 +43,35 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_broker.private|has_broker.private]]"
     - "[[/_personal/schema-org/Relation/has/has_broker.personal|has_broker.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_broker.secret|has_broker.secret]]"
-dv_has_domain: ["[[../../Class/is_a_/Intangible/Invoice|Invoice]]", "[[../../Class/is_a_/Intangible/Order|Order]]", "[[../../Class/is_a_/Intangible/Reservation|Reservation]]", "[[../../../Society/Agent/Community/Organization/Business/Service|Service]]"]
+    - "[[has_broker]]"
+dv_has_domain:
+  - "[[../../Class/is_a_/Intangible/Invoice|Invoice]]"
+  - "[[../../Class/is_a_/Intangible/Order|Order]]"
+  - "[[../../Class/is_a_/Intangible/Reservation|Reservation]]"
+  - "[[../../../Society/Agent/Community/Organization/Business/Service|Service]]"
 dv_has_name: has_broker
-dv_has_range: ["[[../../../Society/Agent/Community/Organization|Organization]]", "[[../../../Society/Agent/Person|Person]]"]
+dv_has_range:
+  - "[[../../../Society/Agent/Community/Organization|Organization]]"
+  - "[[../../../Society/Agent/Person|Person]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_broker|has_broker]]"
+  - "[[has_broker]]"
   - "[[/_public/schema-org/Relation/has/has_broker.public|has_broker.public]]"
   - "[[/_internal/schema-org/Relation/has/has_broker.internal|has_broker.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_broker.protect|has_broker.protect]]"
   - "[[/_private/schema-org/Relation/has/has_broker.private|has_broker.private]]"
   - "[[/_personal/schema-org/Relation/has/has_broker.personal|has_broker.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_broker.secret|has_broker.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_broker_of]]"
 ---
 
 # [[has_broker]] 
 
-is_a :: [[../../Relation|Relation]]
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 
-#has_/inverse :: [[is_broker_of]] 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/broker : :  `=this.dv_has_range` 

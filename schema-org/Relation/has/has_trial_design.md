@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_trial_design]]"
+    - "[[/_public/schema-org/Relation/has/has_trial_design.public|has_trial_design.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_trial_design.internal|has_trial_design.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_trial_design.protect|has_trial_design.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_trial_design.private|has_trial_design.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_trial_design.personal|has_trial_design.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_trial_design.secret|has_trial_design.secret]]"
+dv_is_same_as:
+  - "[[has_trial_design]]"
+  - "[[/_public/schema-org/Relation/has/has_trial_design.public|has_trial_design.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_trial_design.internal|has_trial_design.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_trial_design.protect|has_trial_design.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_trial_design.private|has_trial_design.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_trial_design.personal|has_trial_design.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_trial_design.secret|has_trial_design.secret]]"
+---
 ﻿---
 aliases:
   - has trial-design

@@ -33,6 +33,7 @@ dv_has_:
   domain: "[[../../../../bio/Medicine/Anatomy/Circulatory_System/Artery|Artery]]"
   name: is_supplier_for
   range: "[[../../../../bio/Medicine/Anatomy/Anatomical_Structure|Anatomical_Structure]]"
+  inverse: "[[../has_supply_consumed|has_supply_consumed]]"
 dv_is_supplier_for: "[[../../../../bio/Medicine/Anatomy/Anatomical_Structure|Anatomical_Structure]]"
 dv_is_:
   same_as:
@@ -43,22 +44,24 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/is_supplier_for.private|is_supplier_for.private]]"
     - "[[/_personal/schema-org/Relation/has/is_supplier_for.personal|is_supplier_for.personal]]"
     - "[[/_secret/schema-org/Relation/has/is_supplier_for.secret|is_supplier_for.secret]]"
+    - "[[is_supplier_for]]"
 dv_has_domain: "[[../../../../bio/Medicine/Anatomy/Circulatory_System/Artery|Artery]]"
 dv_has_name: is_supplier_for
 dv_has_range: "[[../../../../bio/Medicine/Anatomy/Anatomical_Structure|Anatomical_Structure]]"
 dv_is_same_as:
-  - "[[is_supplier_for|is_supplier_for]]"
+  - "[[is_supplier_for]]"
   - "[[/_public/schema-org/Relation/has/is_supplier_for.public|is_supplier_for.public]]"
   - "[[/_internal/schema-org/Relation/has/is_supplier_for.internal|is_supplier_for.internal]]"
   - "[[/_protect/schema-org/Relation/has/is_supplier_for.protect|is_supplier_for.protect]]"
   - "[[/_private/schema-org/Relation/has/is_supplier_for.private|is_supplier_for.private]]"
   - "[[/_personal/schema-org/Relation/has/is_supplier_for.personal|is_supplier_for.personal]]"
   - "[[/_secret/schema-org/Relation/has/is_supplier_for.secret|is_supplier_for.secret]]"
+dv_has_inverse: "[[../has_supply_consumed|has_supply_consumed]]"
 ---
 
 # [[is_supplier_for]] 
 
-#has_/inverse :: [[../has_supply_consumed|has_supply_consumed]] 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #is_/supplier_for = `=this.dv_is_supplier_for`  

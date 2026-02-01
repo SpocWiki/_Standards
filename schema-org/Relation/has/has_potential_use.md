@@ -1,3 +1,31 @@
+---
+dv_has_:
+  potential_use: DefinedTerm
+  domain: ChemicalSubstance, MolecularEntity
+  name: is_potential_use
+  range: DefinedTerm
+dv_has_potential_use: DefinedTerm
+dv_is_:
+  same_as:
+    - "[[has_potential_use]]"
+    - "[[/_public/schema-org/Relation/has/has_potential_use.public|has_potential_use.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_potential_use.internal|has_potential_use.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_potential_use.protect|has_potential_use.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_potential_use.private|has_potential_use.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_potential_use.personal|has_potential_use.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_potential_use.secret|has_potential_use.secret]]"
+dv_has_domain: ChemicalSubstance, MolecularEntity
+dv_has_name: is_potential_use
+dv_has_range: DefinedTerm
+dv_is_same_as:
+  - "[[has_potential_use]]"
+  - "[[/_public/schema-org/Relation/has/has_potential_use.public|has_potential_use.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_potential_use.internal|has_potential_use.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_potential_use.protect|has_potential_use.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_potential_use.private|has_potential_use.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_potential_use.personal|has_potential_use.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_potential_use.secret|has_potential_use.secret]]"
+---
 ﻿---
 aliases:
   - has potential-use
@@ -40,7 +68,7 @@ has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
 - #has_/potential_use :: DefinedTerm  
-- [ has_potential_use :: DefinedTerm ] 
+- has_potential_use = `=this.dv_has_potential_use`  
 - is_potential_use_of : : `=this.dv_has_domain` 
 - #is_/potential_use_of : : `=this.dv_has_domain`
 
@@ -48,10 +76,10 @@ Intended use of the BioChemEntity by humans.
 
 Relation describes that: 
 
-#has_/domain  :: ChemicalSubstance, MolecularEntity  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: is_potential_use )
-(has_/range :: DefinedTerm )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

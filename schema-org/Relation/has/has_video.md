@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_video]]"
+    - "[[/_public/schema-org/Relation/has/has_video.public|has_video.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_video.internal|has_video.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_video.protect|has_video.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_video.private|has_video.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_video.personal|has_video.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_video.secret|has_video.secret]]"
+dv_is_same_as:
+  - "[[has_video]]"
+  - "[[/_public/schema-org/Relation/has/has_video.public|has_video.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_video.internal|has_video.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_video.protect|has_video.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_video.private|has_video.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_video.personal|has_video.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_video.secret|has_video.secret]]"
+---
 ﻿---
 aliases:
   - has video

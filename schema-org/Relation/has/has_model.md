@@ -25,7 +25,10 @@ type: Predi_Relation
 dv_has_:
   domain: "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]"
   name: has_model
-  range: ["[[../../../Society/Agent/Community/Organization/Business/Product/Product_Model|Product_Model]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
+  range:
+    - "[[../../../Society/Agent/Community/Organization/Business/Product/Product_Model|Product_Model]]"
+    - "[[../../Class/is_a_/Data_Type/Text|Text]]"
+  inverse: "[[is_model_of]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_model|has_model]]"
@@ -35,24 +38,29 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_model.private|has_model.private]]"
     - "[[/_personal/schema-org/Relation/has/has_model.personal|has_model.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_model.secret|has_model.secret]]"
+    - "[[has_model]]"
 dv_has_domain: "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]"
 dv_has_name: has_model
-dv_has_range: ["[[../../../Society/Agent/Community/Organization/Business/Product/Product_Model|Product_Model]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
+dv_has_range:
+  - "[[../../../Society/Agent/Community/Organization/Business/Product/Product_Model|Product_Model]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_model|has_model]]"
+  - "[[has_model]]"
   - "[[/_public/schema-org/Relation/has/has_model.public|has_model.public]]"
   - "[[/_internal/schema-org/Relation/has/has_model.internal|has_model.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_model.protect|has_model.protect]]"
   - "[[/_private/schema-org/Relation/has/has_model.private|has_model.private]]"
   - "[[/_personal/schema-org/Relation/has/has_model.personal|has_model.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_model.secret|has_model.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_model_of]]"
 ---
 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_model_of]]
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/model : : `=this.dv_has_range`  

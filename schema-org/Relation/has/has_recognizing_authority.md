@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_recognizing_authority]]"
+    - "[[/_public/schema-org/Relation/has/has_recognizing_authority.public|has_recognizing_authority.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_recognizing_authority.internal|has_recognizing_authority.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_recognizing_authority.protect|has_recognizing_authority.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_recognizing_authority.private|has_recognizing_authority.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_recognizing_authority.personal|has_recognizing_authority.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_recognizing_authority.secret|has_recognizing_authority.secret]]"
+dv_is_same_as:
+  - "[[has_recognizing_authority]]"
+  - "[[/_public/schema-org/Relation/has/has_recognizing_authority.public|has_recognizing_authority.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_recognizing_authority.internal|has_recognizing_authority.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_recognizing_authority.protect|has_recognizing_authority.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_recognizing_authority.private|has_recognizing_authority.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_recognizing_authority.personal|has_recognizing_authority.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_recognizing_authority.secret|has_recognizing_authority.secret]]"
+---
 ﻿---
 aliases:
   - has recognizing-authority

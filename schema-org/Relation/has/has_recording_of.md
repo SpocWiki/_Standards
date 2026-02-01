@@ -1,3 +1,31 @@
+---
+dv_has_:
+  recording_of: MusicComposition
+  domain: MusicRecording
+  name: is_recording_of
+  range: MusicComposition
+dv_has_recording_of: MusicComposition
+dv_is_:
+  same_as:
+    - "[[has_recording_of]]"
+    - "[[/_public/schema-org/Relation/has/has_recording_of.public|has_recording_of.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_recording_of.internal|has_recording_of.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_recording_of.protect|has_recording_of.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_recording_of.private|has_recording_of.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_recording_of.personal|has_recording_of.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_recording_of.secret|has_recording_of.secret]]"
+dv_has_domain: MusicRecording
+dv_has_name: is_recording_of
+dv_has_range: MusicComposition
+dv_is_same_as:
+  - "[[has_recording_of]]"
+  - "[[/_public/schema-org/Relation/has/has_recording_of.public|has_recording_of.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_recording_of.internal|has_recording_of.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_recording_of.protect|has_recording_of.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_recording_of.private|has_recording_of.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_recording_of.personal|has_recording_of.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_recording_of.secret|has_recording_of.secret]]"
+---
 ﻿---
 aliases:
   - has recording-of
@@ -39,16 +67,16 @@ is_a = `=this.dv_is_a`
 #class/Relation
 has_inverse = `=this.dv_has_inverse`
 - #has_/recording_of :: MusicComposition  
-- [ has_recording_of :: MusicComposition ] 
+- has_recording_of = `=this.dv_has_recording_of`  
 
 The composition this track is a recording of.
 
 Relation describes that: 
 
-#has_/domain  :: MusicRecording  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: is_recording_of )
-(has_/range :: MusicComposition )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 has_inverse = `=this.dv_has_inverse`
 

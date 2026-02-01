@@ -15,12 +15,13 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_employer.private|has_employer.private]]"
     - "[[/_personal/schema-org/Relation/has/has_employer.personal|has_employer.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_employer.secret|has_employer.secret]]"
+    - "[[has_employer]]"
 dv_has_domain: "[[../../../../Society/Agent/Person]]"
 dv_has_name: has_employer
 dv_has_range: "[[../../../../Society/Agent/Community/Organization]]"
 dv_has_inverse: "[[has_employee]]"
 dv_is_same_as:
-  - "[[has_employer|has_employer]]"
+  - "[[has_employer]]"
   - "[[/_public/schema-org/Relation/has/has_employer.public|has_employer.public]]"
   - "[[/_internal/schema-org/Relation/has/has_employer.internal|has_employer.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_employer.protect|has_employer.protect]]"

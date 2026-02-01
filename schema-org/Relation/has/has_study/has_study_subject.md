@@ -9,23 +9,52 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - study_subject
   - study
   - subject
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_study_subject
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_study_subject
 type: Predi_Relation
+dv_has_:
+  study_:
+    subject: MedicalEntity
+  domain: MedicalStudy
+  name: is_study_subject
+  range: MedicalEntity
+dv_has_study_subject: MedicalEntity
+dv_is_:
+  same_as:
+    - wd:is_the_study_of
+    - "[[has_study_subject]]"
+    - "[[/_public/schema-org/Relation/has/has_study_subject.public|has_study_subject.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_study_subject.internal|has_study_subject.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_study_subject.protect|has_study_subject.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_study_subject.private|has_study_subject.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_study_subject.personal|has_study_subject.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_study_subject.secret|has_study_subject.secret]]"
+dv_is_same_as:
+  - wd:is_the_study_of
+  - "[[has_study_subject]]"
+  - "[[/_public/schema-org/Relation/has/has_study_subject.public|has_study_subject.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_study_subject.internal|has_study_subject.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_study_subject.protect|has_study_subject.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_study_subject.private|has_study_subject.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_study_subject.personal|has_study_subject.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_study_subject.secret|has_study_subject.secret]]"
+dv_has_domain: MedicalStudy
+dv_has_name: is_study_subject
+dv_has_range: MedicalEntity
 ---
 
 # [[has_study_subject]] 
@@ -40,10 +69,10 @@ A subject of the study, i.e. one of the medical conditions, therapies, devices, 
 
 Relation describes that: 
 
-#has_/domain  :: MedicalStudy  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: is_study_subject )
-(has_/range :: MedicalEntity )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

@@ -54,11 +54,12 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/has/has_carrier.personal|has_carrier.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_carrier.secret|has_carrier.secret]]"
 dv_has_inverse: "[[is_carrier_of]]"
+dv_is_a: "[[../../Relation|Relation]]"
 ---
 
 # [[has_carrier]] 
 
-is_a :: [[../../Relation|Relation]]
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 

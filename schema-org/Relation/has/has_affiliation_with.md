@@ -45,13 +45,14 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/is_affiliated_with.private|is_affiliated_with.private]]"
     - "[[/_personal/schema-org/Relation/has/is_affiliated_with.personal|is_affiliated_with.personal]]"
     - "[[/_secret/schema-org/Relation/has/is_affiliated_with.secret|is_affiliated_with.secret]]"
+    - "[[/_Standards/schema-org/Relation/has/is_affiliated_with|is_affiliated_with]]"
 dv_has_inverse: "[[is_affiliated_with]]"
 dv_has_parent_property: memberOf
 dv_has_domain: "[[../../../Society/Agent/Person|Person]]"
 dv_has_name: is_affiliated_with
 dv_has_range: "[[../../../Society/Agent/Community/Organization|Organization]]"
 dv_is_same_as:
-  - "[[is_affiliated_with]]"
+  - "[[/_Standards/schema-org/Relation/has/is_affiliated_with|is_affiliated_with]]"
   - "[[/_public/schema-org/Relation/has/is_affiliated_with.public|is_affiliated_with.public]]"
   - "[[/_internal/schema-org/Relation/has/is_affiliated_with.internal|is_affiliated_with.internal]]"
   - "[[/_protect/schema-org/Relation/has/is_affiliated_with.protect|is_affiliated_with.protect]]"

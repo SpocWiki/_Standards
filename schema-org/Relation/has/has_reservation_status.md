@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_reservation_status]]"
+    - "[[/_public/schema-org/Relation/has/has_reservation_status.public|has_reservation_status.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_reservation_status.internal|has_reservation_status.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_reservation_status.protect|has_reservation_status.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_reservation_status.private|has_reservation_status.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_reservation_status.personal|has_reservation_status.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_reservation_status.secret|has_reservation_status.secret]]"
+dv_is_same_as:
+  - "[[has_reservation_status]]"
+  - "[[/_public/schema-org/Relation/has/has_reservation_status.public|has_reservation_status.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_reservation_status.internal|has_reservation_status.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_reservation_status.protect|has_reservation_status.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_reservation_status.private|has_reservation_status.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_reservation_status.personal|has_reservation_status.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_reservation_status.secret|has_reservation_status.secret]]"
+---
 ﻿---
 aliases:
   - has reservation-status

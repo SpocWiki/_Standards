@@ -1,3 +1,31 @@
+---
+dv_has_:
+  recorded_in: CreativeWork
+  domain: Event
+  name: is_recorded_in
+  range: CreativeWork
+dv_has_recorded_in: CreativeWork
+dv_is_:
+  same_as:
+    - "[[has_recorded_in]]"
+    - "[[/_public/schema-org/Relation/has/has_recorded_in.public|has_recorded_in.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_recorded_in.internal|has_recorded_in.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_recorded_in.protect|has_recorded_in.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_recorded_in.private|has_recorded_in.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_recorded_in.personal|has_recorded_in.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_recorded_in.secret|has_recorded_in.secret]]"
+dv_has_domain: Event
+dv_has_name: is_recorded_in
+dv_has_range: CreativeWork
+dv_is_same_as:
+  - "[[has_recorded_in]]"
+  - "[[/_public/schema-org/Relation/has/has_recorded_in.public|has_recorded_in.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_recorded_in.internal|has_recorded_in.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_recorded_in.protect|has_recorded_in.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_recorded_in.private|has_recorded_in.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_recorded_in.personal|has_recorded_in.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_recorded_in.secret|has_recorded_in.secret]]"
+---
 ﻿---
 aliases:
   - has recorded-in
@@ -39,16 +67,16 @@ is_a = `=this.dv_is_a`
 #class/Relation
 has_inverse = `=this.dv_has_inverse`
 - #has_/recorded_in :: CreativeWork  
-- [ has_recorded_in :: CreativeWork ] 
+- has_recorded_in = `=this.dv_has_recorded_in`  
 
 The CreativeWork that captured all or part of this Event.
 
 Relation describes that: 
 
-#has_/domain  :: Event  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: is_recorded_in )
-(has_/range :: CreativeWork )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 has_inverse = `=this.dv_has_inverse`
 

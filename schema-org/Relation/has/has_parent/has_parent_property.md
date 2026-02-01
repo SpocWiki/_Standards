@@ -50,6 +50,8 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_parent_property.private|has_parent_property.private]]"
     - "[[/_personal/schema-org/Property/has_parent_property.personal|has_parent_property.personal]]"
     - "[[/_secret/schema-org/Property/has_parent_property.secret|has_parent_property.secret]]"
+    - "[[has_parent_property]]"
+  part_of: "[[has_parent_property]]"
 dv_has_parent_property: "[[../../../Property]]"
 dv_has_:
   inverse: "[[has_child_properties]]"
@@ -62,13 +64,13 @@ dv_has_range: "[[../../../Property]]"
 dv_is_similar_to: "[[../../W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdfs~subPropertyOf|rdfs~subPropertyOf]]"
 dv_has_inverse: "[[has_child_properties]]"
 dv_is_same_as:
-  - "[[has_parent_property|has_parent_property]]"
+  - "[[has_parent_property]]"
   - "[[/_public/schema-org/Property/has_parent_property.public|has_parent_property.public]]"
   - "[[/_internal/schema-org/Property/has_parent_property.internal|has_parent_property.internal]]"
   - "[[/_protect/schema-org/Property/has_parent_property.protect|has_parent_property.protect]]"
   - "[[/_private/schema-org/Property/has_parent_property.private|has_parent_property.private]]"
   - "[[/_personal/schema-org/Property/has_parent_property.personal|has_parent_property.personal]]"
-  - "[[/_secret/schema-org/Property/has_[[has_parent_property]]roperty.secret]]"
+  - "[[/_secret/schema-org/Property/has_parent_property.secret|has_parent_property.secret]]"
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
@@ -76,6 +78,7 @@ has_Template: "[[Extract~Note~Template]]"
 has_time_started:
   '{ "date:YYYY-MM-DD": }':
 lang: en
+dv_is_part_of: "[[has_parent_property]]"
 ---
 
 # [[../Relation/has_parent_property]]
@@ -119,7 +122,7 @@ has_range = `=this.dv_has_range`
 
 # [[has_parent_property]] 
 
-#is_/part_of :: [[has_parent_property]] 
+is_part_of = `=this.dv_is_part_of` 
 
 ![[has_parent_property.svg]]
 

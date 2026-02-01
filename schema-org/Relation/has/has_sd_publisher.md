@@ -1,3 +1,31 @@
+---
+dv_has_:
+  sd_publisher: Organization, Person
+  domain: CreativeWork
+  name: is_sd_publisher
+  range: Organization, Person
+dv_has_sd_publisher: Organization, Person
+dv_is_:
+  same_as:
+    - "[[has_sd_publisher]]"
+    - "[[/_public/schema-org/Relation/has/has_sd_publisher.public|has_sd_publisher.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_sd_publisher.internal|has_sd_publisher.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_sd_publisher.protect|has_sd_publisher.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_sd_publisher.private|has_sd_publisher.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_sd_publisher.personal|has_sd_publisher.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_sd_publisher.secret|has_sd_publisher.secret]]"
+dv_has_domain: CreativeWork
+dv_has_name: is_sd_publisher
+dv_has_range: Organization, Person
+dv_is_same_as:
+  - "[[has_sd_publisher]]"
+  - "[[/_public/schema-org/Relation/has/has_sd_publisher.public|has_sd_publisher.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_sd_publisher.internal|has_sd_publisher.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_sd_publisher.protect|has_sd_publisher.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_sd_publisher.private|has_sd_publisher.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_sd_publisher.personal|has_sd_publisher.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_sd_publisher.secret|has_sd_publisher.secret]]"
+---
 ﻿---
 aliases:
   - has sd-publisher
@@ -40,7 +68,7 @@ has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
 - #has_/sd_publisher :: Organization, Person  
-- [ has_sd_publisher :: Organization, Person ] 
+- has_sd_publisher = `=this.dv_has_sd_publisher`  
 - is_sd_publisher_of : : `=this.dv_has_domain` 
 - #is_/sd_publisher_of : : `=this.dv_has_domain`
 
@@ -49,10 +77,10 @@ Indicates the party responsible for generating and publishing the current struct
 
 Relation describes that: 
 
-#has_/domain  :: CreativeWork  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: is_sd_publisher )
-(has_/range :: Organization, Person )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

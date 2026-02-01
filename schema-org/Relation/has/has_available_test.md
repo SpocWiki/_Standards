@@ -28,6 +28,7 @@ dv_has_:
   domain: "[[../../../Society/Agent/Community/Organization/Medical_Organization/Diagnostic_Lab|Diagnostic_Lab]]"
   name: has_available_test
   range: "[[../../../bio/Medicine/Medical_Entity/Medical_Test|Medical_Test]]"
+  inverse: "[[is_available_test_at]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_available_test|has_available_test]]"
@@ -37,25 +38,28 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_available_test.private|has_available_test.private]]"
     - "[[/_personal/schema-org/Relation/has/has_available_test.personal|has_available_test.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_available_test.secret|has_available_test.secret]]"
+    - "[[has_available_test]]"
 dv_has_domain: "[[../../../Society/Agent/Community/Organization/Medical_Organization/Diagnostic_Lab|Diagnostic_Lab]]"
 dv_has_name: has_available_test
 dv_has_range: "[[../../../bio/Medicine/Medical_Entity/Medical_Test|Medical_Test]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_available_test|has_available_test]]"
+  - "[[has_available_test]]"
   - "[[/_public/schema-org/Relation/has/has_available_test.public|has_available_test.public]]"
   - "[[/_internal/schema-org/Relation/has/has_available_test.internal|has_available_test.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_available_test.protect|has_available_test.protect]]"
   - "[[/_private/schema-org/Relation/has/has_available_test.private|has_available_test.private]]"
   - "[[/_personal/schema-org/Relation/has/has_available_test.personal|has_available_test.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_available_test.secret|has_available_test.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_available_test_at]]"
 ---
 
 # [[has_available_test]] 
 
-#is_a :: [[../../Relation|Relation]]
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_available_test_at]]
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/available_test : : `=this.dv_has_range` 

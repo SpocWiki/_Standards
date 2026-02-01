@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_trailer]]"
+    - "[[/_public/schema-org/Relation/has/has_trailer.public|has_trailer.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_trailer.internal|has_trailer.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_trailer.protect|has_trailer.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_trailer.private|has_trailer.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_trailer.personal|has_trailer.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_trailer.secret|has_trailer.secret]]"
+dv_is_same_as:
+  - "[[has_trailer]]"
+  - "[[/_public/schema-org/Relation/has/has_trailer.public|has_trailer.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_trailer.internal|has_trailer.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_trailer.protect|has_trailer.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_trailer.private|has_trailer.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_trailer.personal|has_trailer.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_trailer.secret|has_trailer.secret]]"
+---
 ﻿---
 aliases:
   - has trailer

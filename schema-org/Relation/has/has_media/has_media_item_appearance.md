@@ -9,7 +9,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -17,24 +17,55 @@ keywords:
   - media
   - item
   - appearance
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_media_item_appearance
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_media_item_appearance
 type: Predi_Relation
+dv_has_:
+  media_:
+    item_:
+      appearance: "[[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]]"
+  domain: "[[../../../../Society/Communication/Media/Creative_Work/Media_Review_Item|Media_Review_Item]]"
+  name: has_media_item_appearance
+  range: "[[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]]"
+dv_has_media_item_appearance: "[[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[has_media_item_appearance]]"
+    - "[[/_public/schema-org/Relation/has/has_media_item_appearance.public|has_media_item_appearance.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_media_item_appearance.internal|has_media_item_appearance.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_media_item_appearance.protect|has_media_item_appearance.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_media_item_appearance.private|has_media_item_appearance.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_media_item_appearance.personal|has_media_item_appearance.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_media_item_appearance.secret|has_media_item_appearance.secret]]"
+dv_is_part_of: "pending:"
+dv_has_domain: "[[../../../../Society/Communication/Media/Creative_Work/Media_Review_Item|Media_Review_Item]]"
+dv_has_name: has_media_item_appearance
+dv_has_range: "[[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]]"
+dv_is_same_as:
+  - "[[has_media_item_appearance]]"
+  - "[[/_public/schema-org/Relation/has/has_media_item_appearance.public|has_media_item_appearance.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_media_item_appearance.internal|has_media_item_appearance.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_media_item_appearance.protect|has_media_item_appearance.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_media_item_appearance.private|has_media_item_appearance.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_media_item_appearance.personal|has_media_item_appearance.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_media_item_appearance.secret|has_media_item_appearance.secret]]"
 ---
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
 - #has_/media_/item_/appearance :: [[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]]  
@@ -45,9 +76,9 @@ that are grouped using a [[../../../../Society/Communication/Media/Creative_Work
 
 Relation describes that: 
 
-#has_/domain  :: [[../../../../Society/Communication/Media/Creative_Work/Media_Review_Item|Media_Review_Item]] 
-(has_/name :: has_media_item_appearance )
-(has_/range :: [[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]] )
+has_domain = `=this.dv_has_domain` 
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

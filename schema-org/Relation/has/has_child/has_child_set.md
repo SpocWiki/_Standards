@@ -42,12 +42,13 @@ dv_is_:
     - "[[/_private/schema-org/Collection/has_child_set.private|has_child_set.private]]"
     - "[[/_personal/schema-org/Collection/has_child_set.personal|has_child_set.personal]]"
     - "[[/_secret/schema-org/Collection/has_child_set.secret|has_child_set.secret]]"
+    - "[[has_child_set]]"
 dv_has_domain: "[[../../../Collection|Collection]]"
 dv_has_name: has_child_set
 dv_has_range: "[[../../../Collection|Collection]]"
 dv_has_inverse: "[[../has_parent/has_parent_set]]"
 dv_is_same_as:
-  - "[[has_child_set|has_child_set]]"
+  - "[[has_child_set]]"
   - "[[/_public/schema-org/Collection/has_child_set.public|has_child_set.public]]"
   - "[[/_internal/schema-org/Collection/has_child_set.internal|has_child_set.internal]]"
   - "[[/_protect/schema-org/Collection/has_child_set.protect|has_child_set.protect]]"

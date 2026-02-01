@@ -38,22 +38,25 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_review_rating.private|has_review_rating.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_review_rating.personal|has_review_rating.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_review_rating.secret|has_review_rating.secret]]"
+    - "[[has_review_rating]]"
+  different_from: "[[../../../Property/has_value_for/has_rating/has_rating_value]]"
 dv_has_domain: "[[../../../../Society/Communication/Media/Creative_Work/Review|Review]]"
 dv_has_name: has_review_rating
 dv_has_range: "[[../../../Class/is_a_/Intangible/Rating|Rating]]"
 dv_is_same_as:
-  - "[[has_review_rating|has_review_rating]]"
+  - "[[has_review_rating]]"
   - "[[/_public/schema-org/Property/has_value_for/has_review_rating.public|has_review_rating.public]]"
   - "[[/_internal/schema-org/Property/has_value_for/has_review_rating.internal|has_review_rating.internal]]"
   - "[[/_protect/schema-org/Property/has_value_for/has_review_rating.protect|has_review_rating.protect]]"
   - "[[/_private/schema-org/Property/has_value_for/has_review_rating.private|has_review_rating.private]]"
   - "[[/_personal/schema-org/Property/has_value_for/has_review_rating.personal|has_review_rating.personal]]"
   - "[[/_secret/schema-org/Property/has_value_for/has_review_rating.secret|has_review_rating.secret]]"
+dv_is_different_from: "[[../../../Property/has_value_for/has_rating/has_rating_value]]"
 ---
 
 # [[has_review_rating]] 
 
-#is_/different_from :: [[has_rating_value]] 
+is_different_from = `=this.dv_is_different_from` 
 
 The [[../../../Class/is_a_/Intangible/Rating|Rating]] has the actual Property [[has_rating_value]]. 
 

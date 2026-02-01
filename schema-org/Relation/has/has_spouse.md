@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_spouse]]"
+    - "[[/_public/schema-org/Relation/has/has_spouse.public|has_spouse.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_spouse.internal|has_spouse.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_spouse.protect|has_spouse.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_spouse.private|has_spouse.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_spouse.personal|has_spouse.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_spouse.secret|has_spouse.secret]]"
+dv_is_same_as:
+  - "[[has_spouse]]"
+  - "[[/_public/schema-org/Relation/has/has_spouse.public|has_spouse.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_spouse.internal|has_spouse.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_spouse.protect|has_spouse.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_spouse.private|has_spouse.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_spouse.personal|has_spouse.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_spouse.secret|has_spouse.secret]]"
+---
 ﻿---
 aliases:
   - has_spouse

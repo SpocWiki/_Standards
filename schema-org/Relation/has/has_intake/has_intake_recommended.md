@@ -39,22 +39,24 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_intake_recommended.private|has_intake_recommended.private]]"
     - "[[/_personal/schema-org/Relation/has/has_intake_recommended.personal|has_intake_recommended.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_intake_recommended.secret|has_intake_recommended.secret]]"
+    - "[[has_intake_recommended]]"
 dv_has_domain: "[[../../../../Society/Agent/Community/Organization/Business/Product/Dietary_Supplement|Dietary_Supplement]]"
 dv_has_name: is_intake_recommended
 dv_has_range: "[[../../../../bio/Medicine/Medical_Entity/Medical_Intangible/Dose_Schedule/Recommended_Dose_Schedule|Recommended_Dose_Schedule]]"
 dv_is_same_as:
-  - "[[has_intake_recommended|has_intake_recommended]]"
+  - "[[has_intake_recommended]]"
   - "[[/_public/schema-org/Relation/has/has_intake_recommended.public|has_intake_recommended.public]]"
   - "[[/_internal/schema-org/Relation/has/has_intake_recommended.internal|has_intake_recommended.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_intake_recommended.protect|has_intake_recommended.protect]]"
   - "[[/_private/schema-org/Relation/has/has_intake_recommended.private|has_intake_recommended.private]]"
   - "[[/_personal/schema-org/Relation/has/has_intake_recommended.personal|has_intake_recommended.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_intake_recommended.secret|has_intake_recommended.secret]]"
+dv_is_a: "[[../../../Relation|Relation]]"
 ---
 
 # [[has_intake_recommended]] 
 
-is_a :: [[../../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 

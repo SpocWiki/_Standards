@@ -41,21 +41,23 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_departure_airport.private|has_departure_airport.private]]"
     - "[[/_personal/schema-org/Relation/has/has_departure_airport.personal|has_departure_airport.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_departure_airport.secret|has_departure_airport.secret]]"
+    - "[[has_departure_airport]]"
 dv_has_domain: Flight
 dv_has_name: has_departure_airport
 dv_has_range: Airport
 dv_is_same_as:
-  - "[[has_departure_airport|has_departure_airport]]"
+  - "[[has_departure_airport]]"
   - "[[/_public/schema-org/Relation/has/has_departure_airport.public|has_departure_airport.public]]"
   - "[[/_internal/schema-org/Relation/has/has_departure_airport.internal|has_departure_airport.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_departure_airport.protect|has_departure_airport.protect]]"
   - "[[/_private/schema-org/Relation/has/has_departure_airport.private|has_departure_airport.private]]"
   - "[[/_personal/schema-org/Relation/has/has_departure_airport.personal|has_departure_airport.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_departure_airport.secret|has_departure_airport.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
 ---
 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 

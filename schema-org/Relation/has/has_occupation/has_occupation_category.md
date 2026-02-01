@@ -11,31 +11,77 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - occupational_category
   - occupational
   - category
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_occupation_category
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_occupation_category
 type: Predi_Relation
+dv_has_:
+  occupation_:
+    category:
+      - "[[../../../Class/is_a_/Intangible/Defined_Term/Category_Code|Category_Code]]"
+      - "[[../../../Class/is_a_/Data_Type/Text|Text]]"
+  domain:
+    - "[[../../../Class/is_a_/Intangible/Educational_Occupational_Program|Educational_Occupational_Program]]"
+    - "[[../../../Class/is_a_/Intangible/Job_Posting|Job_Posting]]"
+    - "[[../../../Class/is_a_/Intangible/Occupation|Occupation]]"
+    - "[[../../../Class/is_a_/Intangible/Educational_Occupational_Program/Work_Based_Program|Work_Based_Program]]"
+  name: "[[has_occupation_category]]"
+  range:
+    - "[[../../../Class/is_a_/Intangible/Defined_Term/Category_Code|Category_Code]]"
+    - "[[../../../Class/is_a_/Data_Type/Text|Text]]"
+dv_has_occupation_category:
+  - "[[../../Class/is_a_/Intangible/Defined_Term/Category_Code|Category_Code]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[has_occupation_category]]"
+    - "[[/_public/schema-org/Relation/has/has_occupation_category.public|has_occupation_category.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_occupation_category.internal|has_occupation_category.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_occupation_category.protect|has_occupation_category.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_occupation_category.private|has_occupation_category.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_occupation_category.personal|has_occupation_category.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_occupation_category.secret|has_occupation_category.secret]]"
+dv_is_part_of: "pending:"
+dv_has_domain:
+  - "[[../../../Class/is_a_/Intangible/Educational_Occupational_Program|Educational_Occupational_Program]]"
+  - "[[../../../Class/is_a_/Intangible/Job_Posting|Job_Posting]]"
+  - "[[../../../Class/is_a_/Intangible/Occupation|Occupation]]"
+  - "[[../../../Class/is_a_/Intangible/Educational_Occupational_Program/Work_Based_Program|Work_Based_Program]]"
+dv_has_name: "[[has_occupation_category]]"
+dv_has_range:
+  - "[[../../../Class/is_a_/Intangible/Defined_Term/Category_Code|Category_Code]]"
+  - "[[../../../Class/is_a_/Data_Type/Text|Text]]"
+dv_is_same_as:
+  - "[[has_occupation_category]]"
+  - "[[/_public/schema-org/Relation/has/has_occupation_category.public|has_occupation_category.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_occupation_category.internal|has_occupation_category.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_occupation_category.protect|has_occupation_category.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_occupation_category.private|has_occupation_category.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_occupation_category.personal|has_occupation_category.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_occupation_category.secret|has_occupation_category.secret]]"
 ---
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
 - #has_/occupation_/category :: "[[../../../Class/is_a_/Intangible/Defined_Term/Category_Code|Category_Code]]", "[[../../../Class/is_a_/Data_Type/Text|Text]]"  
@@ -55,7 +101,7 @@ may be assumed to be from O*NET-SOC.
 Relation describes that: 
 
 #has_/domain  :: "[[../../../Class/is_a_/Intangible/Educational_Occupational_Program|Educational_Occupational_Program]]", "[[../../../Class/is_a_/Intangible/Job_Posting|Job_Posting]]", "[[../../../Class/is_a_/Intangible/Occupation|Occupation]]", "[[../../../Class/is_a_/Intangible/Educational_Occupational_Program/Work_Based_Program|Work_Based_Program]]"  
-(has_/name :: "[[has_occupation_category]]" )
+has_name = `=this.dv_has_name` 
 (has_/range :: "[[../../../Class/is_a_/Intangible/Defined_Term/Category_Code|Category_Code]]", "[[../../../Class/is_a_/Data_Type/Text|Text]]" )
 
 

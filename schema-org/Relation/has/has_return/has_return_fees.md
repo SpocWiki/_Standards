@@ -9,44 +9,73 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - return_fees
   - return
   - fees
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_return_fees
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_return_fees
 type: Predi_Relation
+dv_has_:
+  return_fees: ReturnFeesEnumeration
+  domain: MerchantReturnPolicy
+  name: is_return_fees
+  range: ReturnFeesEnumeration
+dv_has_return_fees: ReturnFeesEnumeration
+dv_is_a: "[[../../Relation|Relation]]"
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[has_return_fees]]"
+    - "[[/_public/schema-org/Relation/has/has_return/has_return_fees.public|has_return_fees.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_return/has_return_fees.internal|has_return_fees.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_return/has_return_fees.protect|has_return_fees.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_return/has_return_fees.private|has_return_fees.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_return/has_return_fees.personal|has_return_fees.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_return/has_return_fees.secret|has_return_fees.secret]]"
+dv_is_part_of: "pending:"
+dv_has_domain: MerchantReturnPolicy
+dv_has_name: is_return_fees
+dv_has_range: ReturnFeesEnumeration
+dv_is_same_as:
+  - "[[has_return_fees]]"
+  - "[[/_public/schema-org/Relation/has/has_return/has_return_fees.public|has_return_fees.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_return/has_return_fees.internal|has_return_fees.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_return/has_return_fees.protect|has_return_fees.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_return/has_return_fees.private|has_return_fees.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_return/has_return_fees.personal|has_return_fees.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_return/has_return_fees.secret|has_return_fees.secret]]"
 ---
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
 - #has_/return_fees :: ReturnFeesEnumeration  
-- [ has_return_fees :: ReturnFeesEnumeration ] 
+- has_return_fees = `=this.dv_has_return_fees`  
 
 The type of return fees for purchased products (for any return reason).
 
 Relation describes that: 
 
-#has_/domain  :: MerchantReturnPolicy  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: is_return_fees )
-(has_/range :: ReturnFeesEnumeration )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

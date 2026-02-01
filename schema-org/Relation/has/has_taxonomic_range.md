@@ -1,3 +1,31 @@
+---
+dv_has_:
+  taxonomic_range: DefinedTerm, Taxon, Text, URL
+  domain: BioChemEntity
+  name: is_taxonomic_range
+  range: DefinedTerm, Taxon, Text, URL
+dv_has_taxonomic_range: DefinedTerm, Taxon, Text, URL
+dv_is_:
+  same_as:
+    - "[[has_taxonomic_range]]"
+    - "[[/_public/schema-org/Relation/has/has_taxonomic_range.public|has_taxonomic_range.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_taxonomic_range.internal|has_taxonomic_range.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_taxonomic_range.protect|has_taxonomic_range.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_taxonomic_range.private|has_taxonomic_range.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_taxonomic_range.personal|has_taxonomic_range.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_taxonomic_range.secret|has_taxonomic_range.secret]]"
+dv_has_domain: BioChemEntity
+dv_has_name: is_taxonomic_range
+dv_has_range: DefinedTerm, Taxon, Text, URL
+dv_is_same_as:
+  - "[[has_taxonomic_range]]"
+  - "[[/_public/schema-org/Relation/has/has_taxonomic_range.public|has_taxonomic_range.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_taxonomic_range.internal|has_taxonomic_range.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_taxonomic_range.protect|has_taxonomic_range.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_taxonomic_range.private|has_taxonomic_range.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_taxonomic_range.personal|has_taxonomic_range.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_taxonomic_range.secret|has_taxonomic_range.secret]]"
+---
 ﻿---
 aliases:
   - has taxonomic-range
@@ -40,7 +68,7 @@ has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
 - #has_/taxonomic_range :: DefinedTerm, Taxon, Text, URL  
-- [ has_taxonomic_range :: DefinedTerm, Taxon, Text, URL ] 
+- has_taxonomic_range = `=this.dv_has_taxonomic_range`  
 - is_taxonomic_range_of : : `=this.dv_has_domain` 
 - #is_/taxonomic_range_of : : `=this.dv_has_domain`
 
@@ -48,10 +76,10 @@ The taxonomic grouping of the organism that expresses, encodes, or in some way r
 
 Relation describes that: 
 
-#has_/domain  :: BioChemEntity  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: is_taxonomic_range )
-(has_/range :: DefinedTerm, Taxon, Text, URL )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_number_of/has_answer_count.private|has_answer_count.private]]"
     - "[[/_personal/schema-org/Property/has_number_of/has_answer_count.personal|has_answer_count.personal]]"
     - "[[/_secret/schema-org/Property/has_number_of/has_answer_count.secret|has_answer_count.secret]]"
+    - "[[has_answer_count]]"
 dv_has_domain: "[[../../../../Society/Communication/Media/Creative_Work/Comment/Question|Question]]"
 dv_has_name: has_answer_count
 dv_has_range: "[[../../../Class/is_a_/Data_Type/Number/Integer|Integer]]"
 dv_is_same_as:
-  - "[[has_answer_count|has_answer_count]]"
+  - "[[has_answer_count]]"
   - "[[/_public/schema-org/Property/has_number_of/has_answer_count.public|has_answer_count.public]]"
   - "[[/_internal/schema-org/Property/has_number_of/has_answer_count.internal|has_answer_count.internal]]"
   - "[[/_protect/schema-org/Property/has_number_of/has_answer_count.protect|has_answer_count.protect]]"

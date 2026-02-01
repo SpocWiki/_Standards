@@ -23,9 +23,14 @@ tags:
 title: has_customer
 type: Predi_Relation
 dv_has_:
-  domain: ["[[../../Class/is_a_/Intangible/Invoice|Invoice]]", "[[../../Class/is_a_/Intangible/Order|Order]]"]
+  domain:
+    - "[[../../Class/is_a_/Intangible/Invoice|Invoice]]"
+    - "[[../../Class/is_a_/Intangible/Order|Order]]"
   name: has_customer
-  range: ["[[../../../Society/Agent/Community/Organization|Organization]]", "[[../../../Society/Agent/Person|Person]]"]
+  range:
+    - "[[../../../Society/Agent/Community/Organization|Organization]]"
+    - "[[../../../Society/Agent/Person|Person]]"
+  inverse: "[[is_customer_of]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_customer|has_customer]]"
@@ -35,25 +40,32 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_customer.private|has_customer.private]]"
     - "[[/_personal/schema-org/Relation/has/has_customer.personal|has_customer.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_customer.secret|has_customer.secret]]"
-dv_has_domain: ["[[../../Class/is_a_/Intangible/Invoice|Invoice]]", "[[../../Class/is_a_/Intangible/Order|Order]]"]
+    - "[[has_customer]]"
+dv_has_domain:
+  - "[[../../Class/is_a_/Intangible/Invoice|Invoice]]"
+  - "[[../../Class/is_a_/Intangible/Order|Order]]"
 dv_has_name: has_customer
-dv_has_range: ["[[../../../Society/Agent/Community/Organization|Organization]]", "[[../../../Society/Agent/Person|Person]]"]
+dv_has_range:
+  - "[[../../../Society/Agent/Community/Organization|Organization]]"
+  - "[[../../../Society/Agent/Person|Person]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_customer|has_customer]]"
+  - "[[has_customer]]"
   - "[[/_public/schema-org/Relation/has/has_customer.public|has_customer.public]]"
   - "[[/_internal/schema-org/Relation/has/has_customer.internal|has_customer.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_customer.protect|has_customer.protect]]"
   - "[[/_private/schema-org/Relation/has/has_customer.private|has_customer.private]]"
   - "[[/_personal/schema-org/Relation/has/has_customer.personal|has_customer.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_customer.secret|has_customer.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_customer_of]]"
 ---
 
 # [[has_customer]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_customer_of]] 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/customer : : `=this.dv_has_range` 

@@ -41,22 +41,24 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_offer_catalog.private|has_offer_catalog.private]]"
     - "[[/_personal/schema-org/Relation/has/has_offer_catalog.personal|has_offer_catalog.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_offer_catalog.secret|has_offer_catalog.secret]]"
+    - "[[has_offer_catalog]]"
 dv_has_domain: Organization, Person, Service
 dv_has_name: has_offer_catalog
 dv_has_range: "[[../../../Collection/item_list/offer_catalog|offer_catalog]]"
 dv_is_same_as:
-  - "[[has_offer_catalog|has_offer_catalog]]"
+  - "[[has_offer_catalog]]"
   - "[[/_public/schema-org/Relation/has/has_offer_catalog.public|has_offer_catalog.public]]"
   - "[[/_internal/schema-org/Relation/has/has_offer_catalog.internal|has_offer_catalog.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_offer_catalog.protect|has_offer_catalog.protect]]"
   - "[[/_private/schema-org/Relation/has/has_offer_catalog.private|has_offer_catalog.private]]"
   - "[[/_personal/schema-org/Relation/has/has_offer_catalog.personal|has_offer_catalog.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_offer_catalog.secret|has_offer_catalog.secret]]"
+dv_is_a: "[[../../../Relation|Relation]]"
 ---
 
 # [[has_offer_catalog]] 
 
-#is_a :: [[../../../Relation|Relation]]
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 

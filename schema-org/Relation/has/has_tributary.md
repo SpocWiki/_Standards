@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_tributary]]"
+    - "[[/_public/schema-org/Relation/has/has_tributary.public|has_tributary.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_tributary.internal|has_tributary.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_tributary.protect|has_tributary.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_tributary.private|has_tributary.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_tributary.personal|has_tributary.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_tributary.secret|has_tributary.secret]]"
+dv_is_same_as:
+  - "[[has_tributary]]"
+  - "[[/_public/schema-org/Relation/has/has_tributary.public|has_tributary.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_tributary.internal|has_tributary.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_tributary.protect|has_tributary.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_tributary.private|has_tributary.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_tributary.personal|has_tributary.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_tributary.secret|has_tributary.secret]]"
+---
 ﻿---
 aliases:
   - has tributary

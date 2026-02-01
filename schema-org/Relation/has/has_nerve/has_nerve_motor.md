@@ -30,6 +30,7 @@ dv_has_:
   domain: "[[../../../../bio/Medicine/Anatomy/Nervous_System/Nerve|Nerve]]"
   name: has_nerve_motor
   range: "[[../../../../bio/Medicine/Anatomy/Skeleton/Muscle|Muscle]]"
+  inverse: "[[is_nerve_motor_of]]"
 dv_is_:
   same_as:
     - "[[has_nerve_motor|has_nerve_motor]]"
@@ -39,25 +40,28 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_nerve_motor.private|has_nerve_motor.private]]"
     - "[[/_personal/schema-org/Relation/has/has_nerve_motor.personal|has_nerve_motor.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_nerve_motor.secret|has_nerve_motor.secret]]"
+    - "[[has_nerve_motor]]"
 dv_has_domain: "[[../../../../bio/Medicine/Anatomy/Nervous_System/Nerve|Nerve]]"
 dv_has_name: has_nerve_motor
 dv_has_range: "[[../../../../bio/Medicine/Anatomy/Skeleton/Muscle|Muscle]]"
 dv_is_same_as:
-  - "[[has_nerve_motor|has_nerve_motor]]"
+  - "[[has_nerve_motor]]"
   - "[[/_public/schema-org/Relation/has/has_nerve_motor.public|has_nerve_motor.public]]"
   - "[[/_internal/schema-org/Relation/has/has_nerve_motor.internal|has_nerve_motor.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_nerve_motor.protect|has_nerve_motor.protect]]"
   - "[[/_private/schema-org/Relation/has/has_nerve_motor.private|has_nerve_motor.private]]"
   - "[[/_personal/schema-org/Relation/has/has_nerve_motor.personal|has_nerve_motor.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_nerve_motor.secret|has_nerve_motor.secret]]"
+dv_is_a: "[[../../../Relation|Relation]]"
+dv_has_inverse: "[[is_nerve_motor_of]]"
 ---
 
 # [[has_nerve_motor]] 
 
-is_a :: [[../../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_nerve_motor_of]]
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/nerve_/motor : : `=this.dv_has_range`  

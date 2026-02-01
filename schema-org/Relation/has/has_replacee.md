@@ -1,3 +1,34 @@
+---
+dv_has_:
+  replacee: "[Thing](../../../Class/Thing)"
+  domain: ReplaceAction
+  name: has_replacee
+  range: Thing
+  parent_:
+    property: object
+dv_has_replacee: "[Thing](../../../Class/Thing)"
+dv_is_:
+  same_as:
+    - "[[has_replacee]]"
+    - "[[/_public/schema-org/Relation/has/has_replacee.public|has_replacee.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_replacee.internal|has_replacee.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_replacee.protect|has_replacee.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_replacee.private|has_replacee.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_replacee.personal|has_replacee.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_replacee.secret|has_replacee.secret]]"
+dv_has_domain: ReplaceAction
+dv_has_name: has_replacee
+dv_has_range: Thing
+dv_has_parent_property: object
+dv_is_same_as:
+  - "[[has_replacee]]"
+  - "[[/_public/schema-org/Relation/has/has_replacee.public|has_replacee.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_replacee.internal|has_replacee.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_replacee.protect|has_replacee.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_replacee.private|has_replacee.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_replacee.personal|has_replacee.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_replacee.secret|has_replacee.secret]]"
+---
 ﻿---
 aliases:
   - has replacee
@@ -35,16 +66,16 @@ is_a = `=this.dv_is_a`
 #class/Relation
 has_inverse = `=this.dv_has_inverse`
 - #has_/replacee :: [Thing](../../../Class/Thing)  
-- [ has_replacee :: [Thing](../../../Class/Thing) ] 
+- has_replacee = `=this.dv_has_replacee` (../../../Class/Thing) ] 
 
 A sub property of object. The object that is being replaced.
 
 Relation describes that: 
-(has_/domain  :: ReplaceAction )
-(has_/name :: has_replacee )
-(has_/range :: Thing )
+has_domain = `=this.dv_has_domain` 
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#has_/parent_/property  :: object  
+has_parent_property = `=this.dv_has_parent_property` 
 
 ## Confidential Links & Embeds: 
 

@@ -6,7 +6,7 @@ aliases:
   - has_result_negative
   - inhibits
 dv_has_:
-  inverse: "[[has_result_positive]]"
+  inverse: "[[is_result_negative_due_to]]"
   domain: "[[../../../Class/Thing|Thing]]"
   name: "[[has_result_negative]]"
   range: "[[../../../Class/Thing|Thing]]"
@@ -19,12 +19,14 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_result_negative.private|has_result_negative.private]]"
     - "[[/_personal/schema-org/Relation/has/has_result_negative.personal|has_result_negative.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_result_negative.secret|has_result_negative.secret]]"
+    - "[[has_result_negative]]"
+  part_of: "[[has_result_negative]]"
 dv_has_domain: "[[../../../Class/is_a_/Action|Action]]"
 dv_has_name: "[[has_result_negative]]"
 dv_has_range: "[[../../../Class/Thing|Thing]]"
 dv_has_complement: "[[has_result_positive]]"
 dv_is_same_as:
-  - "[[./has_result_negative|has_result_negative]]"
+  - "[[has_result_negative]]"
   - "[[/_public/schema-org/Relation/has/has_result_negative.public|has_result_negative.public]]"
   - "[[/_internal/schema-org/Relation/has/has_result_negative.internal|has_result_negative.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_result_negative.protect|has_result_negative.protect]]"
@@ -60,12 +62,14 @@ tags:
 title:
   "{ newTitle: }":
 type: private_note
+dv_has_inverse: "[[is_result_negative_due_to]]"
+dv_is_part_of: "[[has_result_negative]]"
 ---
 
 # [[has_result_negative]] 
 
 has_complement : : `=this.dv_has_complement` 
-#has_/inverse  :: [[is_result_negative_due_to]] 
+has_inverse = `=this.dv_has_inverse` 
 
 Enumerates negative, inhibiting Reasons for this Statement. 
 Plural Form chosen to indicate the [[../../../Collection|Collection]]-Nature. 
@@ -109,7 +113,7 @@ has_range = `=this.dv_has_range`
 
 # [[has_result_negative]] 
 
-#is_/part_of :: [[has_result_negative]] 
+is_part_of = `=this.dv_is_part_of` 
 
 ![[has_result_negative.svg]]
 

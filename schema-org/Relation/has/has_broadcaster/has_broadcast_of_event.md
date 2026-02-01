@@ -42,21 +42,23 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_broadcast_of_event.private|has_broadcast_of_event.private]]"
     - "[[/_personal/schema-org/Relation/has/has_broadcast_of_event.personal|has_broadcast_of_event.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_broadcast_of_event.secret|has_broadcast_of_event.secret]]"
+    - "[[has_broadcast_of_event]]"
 dv_has_domain: BroadcastEvent
 dv_has_name: has_broadcast_of_event
 dv_has_range: Event
 dv_is_same_as:
-  - "[[has_broadcast_of_event|has_broadcast_of_event]]"
+  - "[[has_broadcast_of_event]]"
   - "[[/_public/schema-org/Relation/has/has_broadcast_of_event.public|has_broadcast_of_event.public]]"
   - "[[/_internal/schema-org/Relation/has/has_broadcast_of_event.internal|has_broadcast_of_event.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_broadcast_of_event.protect|has_broadcast_of_event.protect]]"
   - "[[/_private/schema-org/Relation/has/has_broadcast_of_event.private|has_broadcast_of_event.private]]"
   - "[[/_personal/schema-org/Relation/has/has_broadcast_of_event.personal|has_broadcast_of_event.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_broadcast_of_event.secret|has_broadcast_of_event.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
 ---
 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 
