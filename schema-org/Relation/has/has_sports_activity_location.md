@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has sports-activity-location
   - sportsActivityLocation
@@ -28,7 +28,7 @@ tags:
 title: has_sports_activity_location
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_sports_activity_location_of]]
+dv_has_inverse: "[[is_sports_activity_location_of]]"
 ---
 
 # [[has_sports_activity_location]] 

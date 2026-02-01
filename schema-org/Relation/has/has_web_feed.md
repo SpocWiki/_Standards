@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has web-feed
   - webFeed
@@ -27,7 +27,7 @@ tags:
 title: has_web_feed
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_web_feed_of]]
+dv_has_inverse: "[[is_web_feed_of]]"
 ---
 
 # [[has_web_feed]] 

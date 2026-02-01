@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has opening-hours-specification
   - openingHoursSpecification
@@ -28,7 +28,7 @@ tags:
 title: has_opening_hours_specification
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_opening_hours_specification_of]]
+dv_has_inverse: "[[is_opening_hours_specification_of]]"
 ---
 
 # [[has_opening_hours_specification]] 

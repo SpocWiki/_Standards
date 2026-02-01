@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has vehicle-special-usage
   - vehicleSpecialUsage
@@ -31,7 +31,7 @@ tags:
 title: has_vehicle_special_usage
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_usage_of_vehicle_of]]
+dv_has_inverse: "[[is_usage_of_vehicle_of]]"
 ---
 
 # [[has_usage_of_vehicle]] 

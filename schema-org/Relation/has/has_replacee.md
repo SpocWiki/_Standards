@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has replacee
   - has_replacee
@@ -23,7 +23,7 @@ tags:
 title: has_replacee
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_replacee_of]]
+dv_has_inverse: "[[is_replacee_of]]"
 ---
 
 # [[has_replacee]] 

@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has under-name
   - underName
@@ -54,7 +54,7 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/has/has_under_name.personal|has_under_name.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_under_name.secret|has_under_name.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_under_name_of]]
+dv_has_inverse: "[[is_under_name_of]]"
 ---
 
 # [[has_under_name]] 

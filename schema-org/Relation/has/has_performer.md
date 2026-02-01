@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has_performer
   - schema:performer
@@ -27,7 +27,7 @@ tags:
 title: has_performer
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[../is/is_performer_in]]
+dv_has_inverse: "[[../is/is_performer_in]]"
 ---
 
 # [[has_performer]] 

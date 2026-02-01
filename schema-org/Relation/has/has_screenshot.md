@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has screenshot
   - has_screenshot
@@ -50,7 +50,7 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/has/has_screenshot.personal|has_screenshot.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_screenshot.secret|has_screenshot.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_screenshot_of]]
+dv_has_inverse: "[[is_screenshot_of]]"
 ---
 
 # [[has_screenshot]] 

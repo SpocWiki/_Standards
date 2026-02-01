@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has step
   - has_step
@@ -24,7 +24,7 @@ tags:
 title: has_step
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_step_of]]
+dv_has_inverse: "[[is_step_of]]"
 ---
 
 # [[has_step]] 

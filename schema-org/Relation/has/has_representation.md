@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has-representation
   - hasRepresentation
@@ -25,7 +25,7 @@ tags:
 title: has_representation
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_representation_of]]
+dv_has_inverse: "[[is_representation_of]]"
 ---
 
 # [[has_representation]] 

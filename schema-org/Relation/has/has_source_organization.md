@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has source-organization
   - sourceOrganization
@@ -54,7 +54,7 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/has/has_source_organization.personal|has_source_organization.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_source_organization.secret|has_source_organization.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_source_organization_of]]
+dv_has_inverse: "[[is_source_organization_of]]"
 ---
 
 # [[has_source_organization]] 

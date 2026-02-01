@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has pattern
   - has_pattern
@@ -23,7 +23,7 @@ tags:
 title: has_pattern
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_pattern_of]]
+dv_has_inverse: "[[is_pattern_of]]"
 ---
 
 # [[has_pattern]] 

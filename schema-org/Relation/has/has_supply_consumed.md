@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has supply
   - has_supply
@@ -26,7 +26,7 @@ tags:
 title: has_supply
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[has_supply_consumed/is_supplier_for|supplyTo]]
+dv_has_inverse: "[[has_supply_consumed/is_supplier_for|supplyTo]]"
 ---
 
 # [[has_supply_consumed]] 

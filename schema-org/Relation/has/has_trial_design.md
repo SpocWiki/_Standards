@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has trial-design
   - trialDesign
@@ -54,7 +54,7 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/has/has_trial_design.personal|has_trial_design.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_trial_design.secret|has_trial_design.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_trial_design_of]]
+dv_has_inverse: "[[is_trial_design_of]]"
 ---
 
 # [[has_trial_design]] 

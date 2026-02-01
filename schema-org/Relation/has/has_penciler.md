@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has penciler
   - has_penciler
@@ -23,7 +23,7 @@ tags:
 title: has_penciler
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_penciler_of]]
+dv_has_inverse: "[[is_penciler_of]]"
 ---
 
 # [[has_penciler]] 

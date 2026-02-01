@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - previous-item
   - previousItem
@@ -28,7 +28,7 @@ tags:
 title: has_previous_item
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[../has/has_next_item|has_next_item]]
+dv_has_inverse: "[[../has/has_next_item|has_next_item]]"
 ---
 
 # [[has_previous_item]] 

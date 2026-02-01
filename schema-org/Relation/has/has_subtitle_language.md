@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has subtitle-language
   - subtitleLanguage
@@ -27,7 +27,7 @@ tags:
 title: has_subtitle_language
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_subtitle_language_of]]
+dv_has_inverse: "[[is_subtitle_language_of]]"
 ---
 
 # [[has_subtitle_language]] 

@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has chemical-role
   - chemicalRole
@@ -27,7 +27,7 @@ tags:
 title: has_role_chemical
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_role_chemical_of]]
+dv_has_inverse: "[[is_role_chemical_of]]"
 ---
 
 # [[has_role_chemical]] 

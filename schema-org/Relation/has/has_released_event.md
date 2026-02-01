@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has released-event
   - releasedEvent
@@ -54,7 +54,7 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/has/has_released_event.personal|has_released_event.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_released_event.secret|has_released_event.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_released_event_of]]
+dv_has_inverse: "[[is_released_event_of]]"
 ---
 
 # [[has_released_event]] 

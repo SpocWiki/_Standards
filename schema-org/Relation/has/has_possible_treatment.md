@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has possible-treatment
   - possibleTreatment
@@ -54,7 +54,7 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/has/has_possible_treatment.personal|has_possible_treatment.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_possible_treatment.secret|has_possible_treatment.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_possible_treatment_of]]
+dv_has_inverse: "[[is_possible_treatment_of]]"
 ---
 
 # [[has_possible_treatment]] 

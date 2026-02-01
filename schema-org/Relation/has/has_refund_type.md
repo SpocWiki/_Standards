@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has refund-type
   - refundType
@@ -27,7 +27,7 @@ tags:
 title: has_refund_type
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_refund_type_of]]
+dv_has_inverse: "[[is_refund_type_of]]"
 ---
 
 # [[has_refund_type]] 

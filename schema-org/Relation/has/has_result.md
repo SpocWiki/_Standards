@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has result
   - has_result
@@ -25,7 +25,7 @@ tags:
 title: has_result
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_result_of]]
+dv_has_inverse: "[[is_result_of]]"
 ---
 
 # [[has_result]] 

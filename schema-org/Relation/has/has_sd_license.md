@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has sd-license
   - sdLicense
@@ -27,7 +27,7 @@ tags:
 title: has_sd_license
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_sd_license_of]]
+dv_has_inverse: "[[is_sd_license_of]]"
 ---
 
 # [[has_sd_license]] 

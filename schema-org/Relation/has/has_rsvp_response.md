@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has rsvp-response
   - rsvpResponse
@@ -54,7 +54,7 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/has/has_rsvp_response.personal|has_rsvp_response.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_rsvp_response.secret|has_rsvp_response.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_rsvp_response_of]]
+dv_has_inverse: "[[is_rsvp_response_of]]"
 ---
 
 # [[has_rsvp_response]] 

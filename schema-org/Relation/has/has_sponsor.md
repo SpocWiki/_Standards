@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has sponsor
   - has_sponsor
@@ -23,7 +23,7 @@ tags:
 title: has_sponsor
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_sponsor_of]]
+dv_has_inverse: "[[is_sponsor_of]]"
 ---
 
 # [[has_sponsor]] 

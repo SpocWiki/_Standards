@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has region-drained
   - regionDrained
@@ -54,7 +54,7 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/has/has_region_drained.personal|has_region_drained.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_region_drained.secret|has_region_drained.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_region_drained_of]]
+dv_has_inverse: "[[is_region_drained_of]]"
 ---
 
 # [[has_region_drained]] 

@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has question
   - has_question
@@ -23,7 +23,7 @@ tags:
 title: has_question
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_question_of]]
+dv_has_inverse: "[[is_question_of]]"
 ---
 
 # [[has_question]] 

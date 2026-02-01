@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has sd-publisher
   - sdPublisher
@@ -27,7 +27,7 @@ tags:
 title: has_sd_publisher
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_sd_publisher_of]]
+dv_has_inverse: "[[is_sd_publisher_of]]"
 ---
 
 # [[has_sd_publisher]] 

@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has special-opening-hours-specification
   - specialOpeningHoursSpecification
@@ -56,7 +56,7 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/has/has_special_opening_hours_specification.personal|has_special_opening_hours_specification.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_special_opening_hours_specification.secret|has_special_opening_hours_specification.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_special_opening_hours_specification_of]]
+dv_has_inverse: "[[is_special_opening_hours_specification_of]]"
 ---
 
 # [[has_special_opening_hours_specification]] 

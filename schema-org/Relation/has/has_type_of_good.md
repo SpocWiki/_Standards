@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has type-of-good
   - typeOfGood
@@ -55,7 +55,7 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/has/has_type_of_good.personal|has_type_of_good.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_type_of_good.secret|has_type_of_good.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_type_of_good_of]]
+dv_has_inverse: "[[is_type_of_good_of]]"
 ---
 
 # [[has_type_of_good]] 

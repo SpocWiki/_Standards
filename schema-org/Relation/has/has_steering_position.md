@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has steering-position
   - steeringPosition
@@ -54,7 +54,7 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/has/has_steering_position.personal|has_steering_position.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_steering_position.secret|has_steering_position.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_steering_position_of]]
+dv_has_inverse: "[[is_steering_position_of]]"
 ---
 
 # [[has_steering_position]] 

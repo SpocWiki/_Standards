@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has_recipe
   - schema:recipe
@@ -26,7 +26,7 @@ tags:
 title: has_recipe
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_recipe_of]]
+dv_has_inverse: "[[is_recipe_of]]"
 ---
 
 # [[has_recipe]] 

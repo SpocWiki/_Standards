@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has producer
   - has_producer
@@ -50,7 +50,7 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/has/has_producer.personal|has_producer.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_producer.secret|has_producer.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_producer_of]]
+dv_has_inverse: "[[is_producer_of]]"
 ---
 
 # [[has_producer]] 

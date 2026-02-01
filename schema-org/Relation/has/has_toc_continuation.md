@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has toc-continuation
   - tocContinuation
@@ -27,7 +27,7 @@ tags:
 title: has_toc_continuation
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_toc_continuation_of]]
+dv_has_inverse: "[[is_toc_continuation_of]]"
 ---
 
 # [[has_toc_continuation]] 

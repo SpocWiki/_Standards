@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has tool
   - has_tool
@@ -23,7 +23,7 @@ tags:
 title: has_tool
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_tool_of]]
+dv_has_inverse: "[[is_tool_of]]"
 ---
 
 # [[has_tool]] 

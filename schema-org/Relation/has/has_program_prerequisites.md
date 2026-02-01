@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has program-prerequisites
   - programPrerequisites
@@ -27,7 +27,7 @@ tags:
 title: has_program_prerequisites
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_program_prerequisites_of]]
+dv_has_inverse: "[[is_program_prerequisites_of]]"
 ---
 
 # [[has_program_prerequisites]] 

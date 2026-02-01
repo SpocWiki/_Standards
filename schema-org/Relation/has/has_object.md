@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has object
   - has_object
@@ -23,7 +23,7 @@ tags:
 title: has_object
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_object_of]]
+dv_has_inverse: "[[is_object_of]]"
 ---
 
 # [[has_object]] 

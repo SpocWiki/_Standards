@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has release-of
   - releaseOf
@@ -27,7 +27,7 @@ tags:
 title: has_release_of
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_release_of_of]]
+dv_has_inverse: "[[is_release_of_of]]"
 ---
 
 # [[has_release_of]] 

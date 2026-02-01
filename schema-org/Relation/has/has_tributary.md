@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has tributary
   - has_tributary
@@ -50,7 +50,7 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/has/has_tributary.personal|has_tributary.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_tributary.secret|has_tributary.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_tributary_of]]
+dv_has_inverse: "[[is_tributary_of]]"
 ---
 
 # [[has_tributary]] 

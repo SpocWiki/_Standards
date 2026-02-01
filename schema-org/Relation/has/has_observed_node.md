@@ -27,7 +27,7 @@ tags:
 title: has_observed_node
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_observed_node_of]]
+dv_has_inverse: "[[is_observed_node_of]]"
 ---
 
 # [[has_observed_node]] 

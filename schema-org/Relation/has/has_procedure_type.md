@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has procedure-type
   - procedureType
@@ -54,7 +54,7 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/has/has_procedure_type.personal|has_procedure_type.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_procedure_type.secret|has_procedure_type.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_procedure_type_of]]
+dv_has_inverse: "[[is_procedure_type_of]]"
 ---
 
 # [[has_procedure_type]] 

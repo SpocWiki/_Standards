@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has price-type
   - priceType
@@ -54,7 +54,7 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/has/has_price_type.personal|has_price_type.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_price_type.secret|has_price_type.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_price_type_of]]
+dv_has_inverse: "[[is_price_type_of]]"
 ---
 
 # [[has_price_type]] 

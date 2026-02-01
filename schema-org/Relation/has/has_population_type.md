@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has population-type
   - populationType
@@ -27,7 +27,7 @@ tags:
 title: has_population_type
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_population_type_of]]
+dv_has_inverse: "[[is_population_type_of]]"
 ---
 
 # [[has_population_type]] 

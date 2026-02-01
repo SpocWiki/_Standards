@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has recorded-in
   - recordedIn
@@ -27,7 +27,7 @@ tags:
 title: has_recorded_in
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_recorded_in_of]]
+dv_has_inverse: "[[is_recorded_in_of]]"
 ---
 
 # [[has_recorded_in]] 

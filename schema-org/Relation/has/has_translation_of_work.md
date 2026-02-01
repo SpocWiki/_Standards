@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has translation-of-work
   - translationOfWork
@@ -28,7 +28,7 @@ tags:
 title: has_translation_of_work
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_translation_of_work_of]]
+dv_has_inverse: "[[is_translation_of_work_of]]"
 ---
 
 # [[has_translation_of_work]] 

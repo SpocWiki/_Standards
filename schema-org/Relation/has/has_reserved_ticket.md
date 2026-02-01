@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has reserved-ticket
   - reservedTicket
@@ -54,7 +54,7 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/has/has_reserved_ticket.personal|has_reserved_ticket.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_reserved_ticket.secret|has_reserved_ticket.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_reserved_ticket_of]]
+dv_has_inverse: "[[is_reserved_ticket_of]]"
 ---
 
 # [[has_reserved_ticket]] 

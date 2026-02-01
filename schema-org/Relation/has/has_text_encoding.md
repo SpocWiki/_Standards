@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has Text Encoding
   - has Character Encoding
@@ -23,7 +23,7 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/has/has_text_encoding.personal|has_text_encoding.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_text_encoding.secret|has_text_encoding.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_text_encoding_of]]
+dv_has_inverse: "[[is_text_encoding_of]]"
 ---
 
 # [[has_text_encoding]] 

@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has program-membership-used
   - programMembershipUsed
@@ -55,7 +55,7 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/has/has_program_membership_used.personal|has_program_membership_used.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_program_membership_used.secret|has_program_membership_used.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_program_membership_used_of]]
+dv_has_inverse: "[[is_program_membership_used_of]]"
 ---
 
 # [[has_program_membership_used]] 

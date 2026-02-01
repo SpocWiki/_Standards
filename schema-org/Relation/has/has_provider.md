@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has provider
   - has_provider
@@ -25,7 +25,7 @@ tags:
 title: has_provider
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[has_consumers]]
+dv_has_inverse: "[[has_consumers]]"
 ---
 
 # [[has_provider]] 

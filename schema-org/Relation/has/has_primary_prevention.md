@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has primary-prevention
   - primaryPrevention
@@ -54,7 +54,7 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/has/has_primary_prevention.personal|has_primary_prevention.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_primary_prevention.secret|has_primary_prevention.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_primary_prevention_of]]
+dv_has_inverse: "[[is_primary_prevention_of]]"
 ---
 
 # [[has_primary_prevention]] 

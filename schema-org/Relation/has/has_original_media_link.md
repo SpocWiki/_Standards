@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has original-media-link
   - originalMediaLink
@@ -28,7 +28,7 @@ tags:
 title: has_original_media_link
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_original_media_link_of]]
+dv_has_inverse: "[[is_original_media_link_of]]"
 ---
 
 # [[has_original_media_link]] 

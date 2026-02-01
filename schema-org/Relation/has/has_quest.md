@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has quest
   - has_quest
@@ -50,7 +50,7 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/has/has_quest.personal|has_quest.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_quest.secret|has_quest.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_quest_of]]
+dv_has_inverse: "[[is_quest_of]]"
 ---
 
 # [[has_quest]] 

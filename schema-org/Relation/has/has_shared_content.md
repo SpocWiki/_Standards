@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has shared-content
   - sharedContent
@@ -54,7 +54,7 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/has/has_shared_content.personal|has_shared_content.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_shared_content.secret|has_shared_content.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_shared_content_of]]
+dv_has_inverse: "[[is_shared_content_of]]"
 ---
 
 # [[has_shared_content]] 

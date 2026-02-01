@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has sports-event
   - sportsEvent
@@ -27,7 +27,7 @@ tags:
 title: has_sports_event
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_sports_event_of]]
+dv_has_inverse: "[[is_sports_event_of]]"
 ---
 
 # [[has_sports_event]] 

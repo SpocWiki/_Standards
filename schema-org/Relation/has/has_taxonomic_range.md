@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has taxonomic-range
   - taxonomicRange
@@ -27,7 +27,7 @@ tags:
 title: has_taxonomic_range
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_taxonomic_range_of]]
+dv_has_inverse: "[[is_taxonomic_range_of]]"
 ---
 
 # [[has_taxonomic_range]] 

@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has sign-or-symptom
   - signOrSymptom
@@ -55,7 +55,7 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/has/has_sign_or_symptom.personal|has_sign_or_symptom.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_sign_or_symptom.secret|has_sign_or_symptom.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_sign_or_symptom_of]]
+dv_has_inverse: "[[is_sign_or_symptom_of]]"
 ---
 
 # [[has_sign_or_symptom]] 

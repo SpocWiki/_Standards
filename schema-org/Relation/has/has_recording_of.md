@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has recording-of
   - recordingOf
@@ -27,7 +27,7 @@ tags:
 title: has_recording_of
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_recording_of_of]]
+dv_has_inverse: "[[is_recording_of_of]]"
 ---
 
 # [[has_recording_of]] 

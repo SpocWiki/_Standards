@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has photo
   - has_photo
@@ -24,7 +24,7 @@ tags:
 title: has_photo
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_photo_of]]
+dv_has_inverse: "[[is_photo_of]]"
 ---
 
 # [[has_photo]] 

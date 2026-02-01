@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has variable-measured
   - variableMeasured
@@ -27,7 +27,7 @@ tags:
 title: has_variable_measured
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_variable_measured_of]]
+dv_has_inverse: "[[is_variable_measured_of]]"
 ---
 
 # [[has_variable_measured]] 

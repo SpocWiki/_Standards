@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has-variant
   - hasVariant
@@ -25,7 +25,7 @@ tags:
 title: has_variant
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_variant_of]]
+dv_has_inverse: "[[is_variant_of]]"
 ---
 
 # [[has_variant]] 

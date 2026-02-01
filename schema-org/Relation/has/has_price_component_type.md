@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has price-component-type
   - priceComponentType
@@ -28,7 +28,7 @@ tags:
 title: has_price_component_type
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_price_component_type_of]]
+dv_has_inverse: "[[is_price_component_type_of]]"
 ---
 
 # [[has_price_component_type]] 

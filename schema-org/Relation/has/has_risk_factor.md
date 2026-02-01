@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has risk-factor
   - riskFactor
@@ -54,7 +54,7 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/has/has_risk_factor.personal|has_risk_factor.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_risk_factor.secret|has_risk_factor.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_risk_factor_of]]
+dv_has_inverse: "[[is_risk_factor_of]]"
 ---
 
 # [[has_risk_factor]] 

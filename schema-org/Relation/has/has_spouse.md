@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has_spouse
   - schema:spouse
@@ -53,7 +53,7 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/has/has_spouse.personal|has_spouse.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_spouse.secret|has_spouse.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_spouse_of]]
+dv_has_inverse: "[[is_spouse_of]]"
 ---
 
 # [[has_spouse]] 

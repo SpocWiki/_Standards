@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has sign-detected
   - signDetected
@@ -54,7 +54,7 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/has/has_sign_detected.personal|has_sign_detected.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_sign_detected.secret|has_sign_detected.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_sign_detected_of]]
+dv_has_inverse: "[[is_sign_detected_of]]"
 ---
 
 # [[has_sign_detected]] 

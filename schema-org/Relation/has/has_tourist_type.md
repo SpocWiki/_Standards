@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has tourist-type
   - touristType
@@ -54,7 +54,7 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/has/has_tourist_type.personal|has_tourist_type.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_tourist_type.secret|has_tourist_type.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_tourist_type_of]]
+dv_has_inverse: "[[is_tourist_type_of]]"
 ---
 
 # [[has_tourist_type]] 

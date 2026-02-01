@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has translator
   - has_translator
@@ -53,7 +53,7 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/has/has_translator.personal|has_translator.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_translator.secret|has_translator.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_translator_of]]
+dv_has_inverse: "[[is_translator_of]]"
 ---
 
 # [[has_translator]] 

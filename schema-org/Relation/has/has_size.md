@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has size
   - has_size
@@ -23,7 +23,7 @@ tags:
 title: has_size
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_size_of]]
+dv_has_inverse: "[[is_size_of]]"
 ---
 
 # [[has_size]] 

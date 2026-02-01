@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has biological-role
   - biologicalRole
@@ -27,7 +27,7 @@ tags:
 title: has_role_biological
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_role_biological_of]]
+dv_has_inverse: "[[is_role_biological_of]]"
 ---
 
 # [[has_role_biological]] 

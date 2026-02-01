@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has publication
   - has_publication
@@ -50,7 +50,7 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/has/has_publication.personal|has_publication.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_publication.secret|has_publication.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_publication_of]]
+dv_has_inverse: "[[is_publication_of]]"
 ---
 
 # [[has_publication]] 

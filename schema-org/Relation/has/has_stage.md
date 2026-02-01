@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has stage
   - has_stage
@@ -50,7 +50,7 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/has/has_stage.personal|has_stage.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_stage.secret|has_stage.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_stage_of]]
+dv_has_inverse: "[[is_stage_of]]"
 ---
 
 # [[has_stage]] 

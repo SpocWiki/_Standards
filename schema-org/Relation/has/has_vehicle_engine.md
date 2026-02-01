@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has vehicle-engine
   - vehicleEngine
@@ -54,7 +54,7 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/has/has_vehicle_engine.personal|has_vehicle_engine.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_vehicle_engine.secret|has_vehicle_engine.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_vehicle_engine_of]]
+dv_has_inverse: "[[is_vehicle_engine_of]]"
 ---
 
 # [[has_vehicle_engine]] 

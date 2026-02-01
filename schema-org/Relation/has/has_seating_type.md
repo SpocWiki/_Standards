@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has seating-type
   - seatingType
@@ -54,7 +54,7 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/has/has_seating_type.personal|has_seating_type.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_seating_type.secret|has_seating_type.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_seating_type_of]]
+dv_has_inverse: "[[is_seating_type_of]]"
 ---
 
 # [[has_seating_type]] 

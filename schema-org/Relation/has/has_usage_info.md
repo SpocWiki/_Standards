@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has usage-info
   - usageInfo
@@ -28,7 +28,7 @@ tags:
 title: has_usage_info
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_usage_info_of]]
+dv_has_inverse: "[[is_usage_info_of]]"
 ---
 
 # [[has_usage_info]] 

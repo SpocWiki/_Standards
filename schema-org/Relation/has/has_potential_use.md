@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has potential-use
   - potentialUse
@@ -27,7 +27,7 @@ tags:
 title: has_potential_use
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_potential_use_of]]
+dv_has_inverse: "[[is_potential_use_of]]"
 ---
 
 # [[has_potential_use]] 

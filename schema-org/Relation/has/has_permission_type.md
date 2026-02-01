@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has permission-type
   - permissionType
@@ -54,7 +54,7 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/has/has_permission_type.personal|has_permission_type.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_permission_type.secret|has_permission_type.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_permission_type_of]]
+dv_has_inverse: "[[is_permission_type_of]]"
 ---
 
 # [[has_permission_type]] 

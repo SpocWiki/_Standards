@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has skills
   - has_skills
@@ -50,7 +50,7 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/has/has_skills.personal|has_skills.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_skills.secret|has_skills.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_skills_of]]
+dv_has_inverse: "[[is_skills_of]]"
 ---
 
 # [[has_skills]] 

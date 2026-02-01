@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has qualifications
   - has_qualifications
@@ -23,7 +23,7 @@ tags:
 title: has_qualifications
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_qualifications_of]]
+dv_has_inverse: "[[is_qualifications_of]]"
 ---
 
 # [[has_qualifications]] 

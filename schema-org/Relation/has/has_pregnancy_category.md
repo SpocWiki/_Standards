@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has pregnancy-category
   - pregnancyCategory
@@ -54,7 +54,7 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/has/has_pregnancy_category.personal|has_pregnancy_category.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_pregnancy_category.secret|has_pregnancy_category.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: [[is_pregnancy_category_of]]
+dv_has_inverse: "[[is_pregnancy_category_of]]"
 ---
 
 # [[has_pregnancy_category]] 
