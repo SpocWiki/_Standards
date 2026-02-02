@@ -63,7 +63,7 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_special_opening_hours_specification.private|has_special_opening_hours_specification.private]]"
     - "[[/_personal/schema-org/Relation/has/has_special_opening_hours_specification.personal|has_special_opening_hours_specification.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_special_opening_hours_specification.secret|has_special_opening_hours_specification.secret]]"
-dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Earth/Geography/Place|Place]]"
+dv_has_domain: "[[../../../Earth/Geography/Place|Place]]"
 dv_has_name: is_special_opening_hours_specification
 dv_has_range: "[[../../Class/is_a_/Intangible/Structured_Value/Opening_Hours_Specification|OpeningHoursSpecification]]"
 dv_is_same_as:

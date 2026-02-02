@@ -1,4 +1,4 @@
----
+﻿---
 dv_has_:
   subtitle_language: Language, Text
   domain: BroadcastEvent, Movie, ScreeningEvent, TVEpisode
@@ -14,9 +14,31 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_subtitle_language.private|has_subtitle_language.private]]"
     - "[[/_personal/schema-org/Relation/has/has_subtitle_language.personal|has_subtitle_language.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_subtitle_language.secret|has_subtitle_language.secret]]"
-dv_has_domain: BroadcastEvent, Movie, ScreeningEvent, TVEpisode
+dv_has_domain:
+  - "[[../../Class/is_a_/Event/Publication_Event/Broadcast_Event|Broadcast_Event]]"
+  - "[[../../../Society/Commu---
+dv_has_:
+  domain: BroadcastEvent, Movie, ScreeningEvent, TVEpisode
+  name: is_subtitle_language
+  range: Language, Text
+dv_is_:
+  same_as:
+    - "[[has_subtitle_language]]"
+    - "[[/_public/schema-org/Relation/has/has_subtitle_language.public|has_subtitle_language.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_subtitle_language.internal|has_subtitle_language.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_subtitle_language.protect|has_subtitle_language.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_subtitle_language.private|has_subtitle_language.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_subtitle_language.personal|has_subtitle_language.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_subtitle_language.secret|has_subtitle_language.secret]]"
+dv_has_domain:
+  - "[[../../Class/is_a_/Event/Publication_Event/Broadcast_Event|Broadcast_Event]]"
+  - "[[../../../Society/Communication/Media/Movie|Movie]]"
+  - "[[../../Class/is_a_/Event/Screening_Event|Screening_Event]]"
+  - "TVEpisode"
 dv_has_name: is_subtitle_language
-dv_has_range: Language, Text
+dv_has_range:
+  - "[[../../../Language|Language]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_same_as:
   - "[[has_subtitle_language]]"
   - "[[/_public/schema-org/Relation/has/has_subtitle_language.public|has_subtitle_language.public]]"

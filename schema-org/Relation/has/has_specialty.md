@@ -57,9 +57,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_specialty.private|has_specialty.private]]"
     - "[[/_personal/schema-org/Relation/has/has_specialty.personal|has_specialty.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_specialty.secret|has_specialty.secret]]"
-dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page|WebPage]]"
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Web_Content/Web_Page|Web_Page]]"
 dv_has_name: is_specialty
-dv_has_range: "[[../../../D:/_Obsidian/SpocWeb/_Standards/schema-org/Enumeration/Specialty|Specialty]]"
+dv_has_range: "[[../../Enumeration/Specialty|Specialty]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_specialty|has_specialty]]"
   - "[[/_public/schema-org/Relation/has/has_specialty.public|has_specialty.public]]"

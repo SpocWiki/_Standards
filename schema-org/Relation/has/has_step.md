@@ -1,4 +1,4 @@
-﻿---
+---
 dv_has_:
   step: CreativeWork, HowToSection, HowToStep, Text
   domain: HowTo
@@ -7,18 +7,13 @@ dv_has_:
   child_:
     property: "[ recipeInstructions ]"
 dv_has_step: CreativeWork, HowToSection, HowToStep, Text
-dv_is_:
-  same_as:
-    - "[[has_step]]"
-    - "[[/_public/schema-org/Relation/has/has_step.public|has_step.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_step.internal|has_step.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_step.protect|has_step.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_step.private|has_step.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_step.personal|has_step.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_step.secret|has_step.secret]]"
-dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Communication/Media/Creative_Work/How_to|HowTo]]"
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/How_to|How_to]]"
 dv_has_name: is_step
-dv_has_range: CreativeWork, HowToSection, HowToStep, Text
+dv_has_range:
+  - "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
+  - "[[../../../Society/Communication/Media/Creative_Work/How_to/How_to_Section|How_to_Section]]"
+  - "[[../../../Society/Communication/Media/Creative_Work/How_to/How_to_Step|How_to_Step]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_has_child_property: "[ recipeInstructions ]"
 dv_is_same_as:
   - "[[has_step]]"
@@ -28,8 +23,6 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_step.private|has_step.private]]"
   - "[[/_personal/schema-org/Relation/has/has_step.personal|has_step.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_step.secret|has_step.secret]]"
----
-﻿---
 aliases:
   - has step
   - has_step

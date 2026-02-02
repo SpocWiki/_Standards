@@ -1,4 +1,4 @@
----
+﻿---
 dv_has_:
   sponsor: Organization, Person
   domain: CreativeWork, Event, Grant, MedicalStudy, Organization, Person
@@ -16,9 +16,17 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_sponsor.private|has_sponsor.private]]"
     - "[[/_personal/schema-org/Relation/has/has_sponsor.personal|has_sponsor.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_sponsor.secret|has_sponsor.secret]]"
-dv_has_domain: CreativeWork, Event, Grant, MedicalStudy, Organization, Person
+dv_has_domain:
+  - "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
+  - "[[../../Class/is_a_/Event|Event]]"
+  - "[[../../Class/is_a_/Intangible/Grant|Grant]]"
+  - "[[../../../bio/Medicine/Medical_Entity/Medical_Study|Medical_Study]]"
+  - "[[../../../Society/Agent/Community/Organization|Organization]]"
+  - "[[../../../Society/Agent/Person|Person]]"
 dv_has_name: is_sponsor
-dv_has_range: Organization, Person
+dv_has_range:
+  - "[[../../../Society/Agent/Community/Organization|Organization]]"
+  - "[[../../../Society/Agent/Person|Person]]"
 dv_has_child_property: "[ funder ]"
 dv_is_same_as:
   - "[[has_sponsor]]"

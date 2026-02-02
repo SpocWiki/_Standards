@@ -1,4 +1,4 @@
-﻿---
+---
 dv_is_:
   same_as:
     - "[[has_software_help]]"
@@ -17,7 +17,7 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/has/has_software_help.personal|has_software_help.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_software_help.secret|has_software_help.secret]]"
 ---
-﻿---
+?---
 aliases:
   - has software-help
   - softwareHelp

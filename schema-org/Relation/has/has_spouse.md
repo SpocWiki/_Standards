@@ -1,23 +1,4 @@
-﻿---
-dv_is_:
-  same_as:
-    - "[[has_spouse]]"
-    - "[[/_public/schema-org/Relation/has/has_spouse.public|has_spouse.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_spouse.internal|has_spouse.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_spouse.protect|has_spouse.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_spouse.private|has_spouse.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_spouse.personal|has_spouse.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_spouse.secret|has_spouse.secret]]"
-dv_is_same_as:
-  - "[[has_spouse]]"
-  - "[[/_public/schema-org/Relation/has/has_spouse.public|has_spouse.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_spouse.internal|has_spouse.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_spouse.protect|has_spouse.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_spouse.private|has_spouse.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_spouse.personal|has_spouse.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_spouse.secret|has_spouse.secret]]"
 ---
-﻿---
 aliases:
   - has_spouse
   - schema:spouse
@@ -49,8 +30,8 @@ dv_has_:
   domain: Person
   name: has_spouse
   range: Person
-dv_has_spouse: Person
   inverse: [[is_spouse_of]]
+dv_has_spouse: Person
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_spouse|has_spouse]]"
@@ -60,9 +41,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_spouse.private|has_spouse.private]]"
     - "[[/_personal/schema-org/Relation/has/has_spouse.personal|has_spouse.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_spouse.secret|has_spouse.secret]]"
-dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Agent/Person|Person]]"
+dv_has_domain: "[[../../../Society/Agent/Person|Person]]"
 dv_has_name: has_spouse
-dv_has_range: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Agent/Person|Person]]"
+dv_has_range: "[[../../../Society/Agent/Person|Person]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_spouse|has_spouse]]"
   - "[[/_public/schema-org/Relation/has/has_spouse.public|has_spouse.public]]"

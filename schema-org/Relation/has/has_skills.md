@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_skills]]"
@@ -57,9 +57,13 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_skills.private|has_skills.private]]"
     - "[[/_personal/schema-org/Relation/has/has_skills.personal|has_skills.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_skills.secret|has_skills.secret]]"
-dv_has_domain: JobPosting, Occupation
+dv_has_domain:
+  - "[[../../Class/is_a_/Intangible/Job_Posting|Job_Posting]]"
+  - "[[../../Class/is_a_/Intangible/Occupation|Occupation]]"
 dv_has_name: is_skills
-dv_has_range: DefinedTerm, Text
+dv_has_range:
+  - "[[../../Class/is_a_/Intangible/Defined_Term|Defined_Term]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_skills|has_skills]]"
   - "[[/_public/schema-org/Relation/has/has_skills.public|has_skills.public]]"

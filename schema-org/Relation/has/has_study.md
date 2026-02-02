@@ -1,23 +1,4 @@
-﻿---
-dv_is_:
-  same_as:
-    - "[[has_study]]"
-    - "[[/_public/schema-org/Relation/has/has_study.public|has_study.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_study.internal|has_study.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_study.protect|has_study.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_study.private|has_study.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_study.personal|has_study.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_study.secret|has_study.secret]]"
-dv_is_same_as:
-  - "[[has_study]]"
-  - "[[/_public/schema-org/Relation/has/has_study.public|has_study.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_study.internal|has_study.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_study.protect|has_study.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_study.private|has_study.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_study.personal|has_study.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_study.secret|has_study.secret]]"
 ---
-﻿---
 aliases:
   - has study
   - has_study
@@ -46,8 +27,8 @@ dv_has_:
   domain: MedicalEntity
   name: is_study
   range: MedicalStudy
-dv_has_study: MedicalStudy
   inverse: [[is_study_of]]
+dv_has_study: MedicalStudy
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_study|has_study]]"
@@ -57,9 +38,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_study.private|has_study.private]]"
     - "[[/_personal/schema-org/Relation/has/has_study.personal|has_study.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_study.secret|has_study.secret]]"
-dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/bio/Medicine/Medical_Entity|MedicalEntity]]"
+dv_has_domain: "[[../../../bio/Medicine/Medical_Entity|Medical_Entity]]"
 dv_has_name: is_study
-dv_has_range: "[[../../../D:/_Obsidian/SpocWeb/_Standards/bio/Medicine/Medical_Entity/Medical_Study|MedicalStudy]]"
+dv_has_range: "[[../../../bio/Medicine/Medical_Entity/Medical_Study|Medical_Study]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_study|has_study]]"
   - "[[/_public/schema-org/Relation/has/has_study.public|has_study.public]]"

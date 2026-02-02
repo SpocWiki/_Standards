@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_speakable]]"
@@ -57,9 +57,13 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_speakable.private|has_speakable.private]]"
     - "[[/_personal/schema-org/Relation/has/has_speakable.personal|has_speakable.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_speakable.secret|has_speakable.secret]]"
-dv_has_domain: Article, WebPage
+dv_has_domain:
+  - "[[../../../Society/Communication/Media/Creative_Work/Article|Article]]"
+  - "[[../../../Society/Communication/Media/Creative_Work/Web_Content/Web_Page|Web_Page]]"
 dv_has_name: is_speakable
-dv_has_range: SpeakableSpecification, URL
+dv_has_range:
+  - "[[../../Class/is_a_/Intangible/Speakable_Specification|Speakable_Specification]]"
+  - "[[../../Class/is_a_/Data_Type/Text/Url|Url]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_speakable|has_speakable]]"
   - "[[/_public/schema-org/Relation/has/has_speakable.public|has_speakable.public]]"

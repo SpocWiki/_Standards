@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_suggested_gender]]"
@@ -61,9 +61,13 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_suggested_gender.private|has_suggested_gender.private]]"
     - "[[/_personal/schema-org/Relation/has/has_suggested_gender.personal|has_suggested_gender.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_suggested_gender.secret|has_suggested_gender.secret]]"
-dv_has_domain: PeopleAudience, SizeSpecification
+dv_has_domain:
+  - "[[../../Class/is_a_/Intangible/Audience/People_Audience|People_Audience]]"
+  - "[[../../Enumeration/Qualitative_Value/Size_Specification|Size_Specification]]"
 dv_has_name: is_suggested_gender
-dv_has_range: GenderType, Text
+dv_has_range:
+  - "[[../../Enumeration/Gender_Type|Gender_Type]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_suggested_gender|has_suggested_gender]]"
   - "[[/_public/schema-org/Relation/has/has_suggested_gender.public|has_suggested_gender.public]]"
