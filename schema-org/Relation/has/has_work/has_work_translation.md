@@ -28,9 +28,7 @@ title: has_work_translation
 type: Predi_Relation
 dv_has_:
   work_translation: CreativeWork
-  inverse:
-    - 
-    - translationOfWork
+  inverse: "[[../has_translation_of_work|has_translation_of_work]]"
   domain: CreativeWork
   name: is_work_translation
   range: CreativeWork
@@ -46,9 +44,7 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_work_translation.private|has_work_translation.private]]"
     - "[[/_personal/schema-org/Relation/has/has_work_translation.personal|has_work_translation.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_work_translation.secret|has_work_translation.secret]]"
-dv_has_inverse:
-  - 
-  - translationOfWork
+dv_has_inverse: "[[../has_translation_of_work|has_translation_of_work]]"
 dv_is_part_of: https://bib.schema.org
 dv_has_domain: CreativeWork
 dv_has_name: is_work_translation
@@ -63,10 +59,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_work_translation.secret|has_work_translation.secret]]"
 ---
 
+# [[has_work_translation]] 
+
 is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+has_inverse = `=this.dv_has_inverse` 
 
 is_part_of = `=this.dv_is_part_of` 
 
@@ -74,16 +72,17 @@ Use it like this:
 - #has_/work_translation :: CreativeWork  
 - has_work_translation = `=this.dv_has_work_translation`  
 
-A work that is a translation of the content of this work. E.g. ??? has an English workTranslation �Journey to the West�, a German workTranslation �Monkeys Pilgerfahrt� and a Vietnamese  translation T�y du k� b�nh kh?o.
+A work that is a translation of the content of this work.
+E.g. 西遊記 has 
+- an English workTranslation “Journey to the West”, 
+- a German workTranslation “Monkeys Pilgerfahrt” and 
+- a Vietnamese translation Tây du ký bình khảo.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
-
-#has_/inverse  :: translationOfWork  
 
 ## Confidential Links & Embeds: 
 
