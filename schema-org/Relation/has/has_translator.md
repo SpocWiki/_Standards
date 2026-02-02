@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_translator]]"
@@ -60,9 +60,13 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_translator.private|has_translator.private]]"
     - "[[/_personal/schema-org/Relation/has/has_translator.personal|has_translator.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_translator.secret|has_translator.secret]]"
-dv_has_domain: CreativeWork, Event
+dv_has_domain:
+  - "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
+  - "[[../../Class/is_a_/Event|Event]]"
 dv_has_name: is_translator
-dv_has_range: Organization, Person
+dv_has_range:
+  - "[[../../../Society/Agent/Community/Organization|Organization]]"
+  - "[[../../../Society/Agent/Person|Person]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_translator|has_translator]]"
   - "[[/_public/schema-org/Relation/has/has_translator.public|has_translator.public]]"

@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_software_help]]"
@@ -61,9 +61,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_software_help.private|has_software_help.private]]"
     - "[[/_personal/schema-org/Relation/has/has_software_help.personal|has_software_help.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_software_help.secret|has_software_help.secret]]"
-dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Communication/Media/Creative_Work/Software_Application|SoftwareApplication]]"
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Software_Application|Software_Application]]"
 dv_has_name: is_software_help
-dv_has_range: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Communication/Media/Creative_Work|CreativeWork]]"
+dv_has_range: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_software_help|has_software_help]]"
   - "[[/_public/schema-org/Relation/has/has_software_help.public|has_software_help.public]]"
