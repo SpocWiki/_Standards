@@ -24,7 +24,9 @@ tags:
 title: is_a_boolean Class
 type: Type
 dv_has_:
-  child_class: '[ False, True ]'
+  child_class:
+  - "[[Boolean/False|False]]"
+  - "[[Boolean/True|True]]"
 dv_is_:
   same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Boolean|Boolean]]"
@@ -38,13 +40,13 @@ dv_has_child_class:
   - "[[Boolean/False|False]]"
   - "[[Boolean/True|True]]"
 dv_is_same_as:
-- "[[/_Standards/schema-org/Class/is_a_/Data_Type/Boolean|Boolean]]"
-- "[[/_public/schema-org/Class/is_a_/Data_Type/Boolean.public|Boolean.public]]"
-- "[[/_internal/schema-org/Class/is_a_/Data_Type/Boolean.internal|Boolean.internal]]"
-- "[[/_protect/schema-org/Class/is_a_/Data_Type/Boolean.protect|Boolean.protect]]"
-- "[[/_private/schema-org/Class/is_a_/Data_Type/Boolean.private|Boolean.private]]"
-- "[[/_personal/schema-org/Class/is_a_/Data_Type/Boolean.personal|Boolean.personal]]"
-- "[[/_secret/schema-org/Class/is_a_/Data_Type/Boolean.secret|Boolean.secret]]"
+  - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Boolean|Boolean]]"
+  - "[[/_public/schema-org/Class/is_a_/Data_Type/Boolean.public|Boolean.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Data_Type/Boolean.internal|Boolean.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Data_Type/Boolean.protect|Boolean.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Data_Type/Boolean.private|Boolean.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Data_Type/Boolean.personal|Boolean.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Data_Type/Boolean.secret|Boolean.secret]]"
 ---
 
 Class of all booleans.

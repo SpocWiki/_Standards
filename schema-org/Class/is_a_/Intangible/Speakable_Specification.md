@@ -35,10 +35,23 @@ dv_is_:
   - "[[/_personal/schema-org/Class/is_a_/Intangible/Speakable_Specification.personal|Speakable_Specification.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Speakable_Specification.secret|Speakable_Specification.secret]]"
 dv_has_:
-  parent_class: "[[../Intangible]]"
-  properties: '[ additionalType, alternateName, cssSelector, description, disambiguatingDescription,
-    identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf,
-    url, xpath ]'
+  parent_class:
+  - "[[../Intangible]]"
+  properties:
+  - "[[additional_type|additional_type]]"
+  - "[[alternate_name|alternate_name]]"
+  - "[[../../../Relation/has/has_css_selector|has_css_selector]]"
+  - "[[../../../Property/Texts/has_description|has_description]]"
+  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[../../../Relation/has/has_identifier|has_identifier]]"
+  - "[[../../../Relation/has/has_image|has_image]]"
+  - "[[../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+  - "[[../../../Property/has_name|has_name]]"
+  - "[[../../../Relation/has/has_potential_action|has_potential_action]]"
+  - "[[../../../Relation/is_same_as|is_same_as]]"
+  - "[[../../../Relation/is/is_subject_of|is_subject_of]]"
+  - "[[../Data_Type/Text/Url|Url]]"
+  - "[[../../../Relation/has/has_xpath|has_xpath]]"
 dv_has_parent_class:
   - "[[../Intangible]]"
 dv_has_properties:
@@ -57,13 +70,13 @@ dv_has_properties:
   - "[[../Data_Type/Text/Url|Url]]"
   - "[[../../../Relation/has/has_xpath|has_xpath]]"
 dv_is_same_as:
-- "[[/_Standards/schema-org/Class/is_a_/Intangible/Speakable_Specification|Speakable_Specification]]"
-- "[[/_public/schema-org/Class/is_a_/Intangible/Speakable_Specification.public|Speakable_Specification.public]]"
-- "[[/_internal/schema-org/Class/is_a_/Intangible/Speakable_Specification.internal|Speakable_Specification.internal]]"
-- "[[/_protect/schema-org/Class/is_a_/Intangible/Speakable_Specification.protect|Speakable_Specification.protect]]"
-- "[[/_private/schema-org/Class/is_a_/Intangible/Speakable_Specification.private|Speakable_Specification.private]]"
-- "[[/_personal/schema-org/Class/is_a_/Intangible/Speakable_Specification.personal|Speakable_Specification.personal]]"
-- "[[/_secret/schema-org/Class/is_a_/Intangible/Speakable_Specification.secret|Speakable_Specification.secret]]"
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Speakable_Specification|Speakable_Specification]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Speakable_Specification.public|Speakable_Specification.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Speakable_Specification.internal|Speakable_Specification.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Speakable_Specification.protect|Speakable_Specification.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Speakable_Specification.private|Speakable_Specification.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Speakable_Specification.personal|Speakable_Specification.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Speakable_Specification.secret|Speakable_Specification.secret]]"
 ---
 
 Class of all speakable_specifications.

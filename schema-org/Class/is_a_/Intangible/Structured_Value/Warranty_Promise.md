@@ -35,12 +35,25 @@ dv_is_:
   - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.personal|Warranty_Promise.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.secret|Warranty_Promise.secret]]"
 dv_has_:
-  parent_class: "[[../StructuredValue]]"
-  properties: '[ additionalType, alternateName, description, disambiguatingDescription,
-    durationOfWarranty, identifier, image, mainEntityOfPage, name, potentialAction,
-    sameAs, subjectOf, url, warrantyScope ]'
-dv_has_parent_class:
+  parent_class:
   - "[[../StructuredValue]]"
+  properties:
+  - "[[additional_type|additional_type]]"
+  - "[[alternate_name|alternate_name]]"
+  - "[[../../../../Property/Texts/has_description|has_description]]"
+  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[../../../../Property/has_duration/has_duration_of_warranty|has_duration_of_warranty]]"
+  - "[[../../../../Relation/has/has_identifier|has_identifier]]"
+  - "[[../../../../Relation/has/has_image|has_image]]"
+  - "[[../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+  - "[[../../../../Property/has_name|has_name]]"
+  - "[[../../../../Relation/has/has_potential_action|has_potential_action]]"
+  - "[[../../../../Relation/is_same_as|is_same_as]]"
+  - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
+  - "[[../../Data_Type/Text/Url|Url]]"
+  - "[[../../../../Enumeration/Warranty_Scope|Warranty_Scope]]"
+dv_has_parent_class:
+  - "[[../structured_value|../structured_value]]"
 dv_has_properties:
   - "[[additional_type|additional_type]]"
   - "[[alternate_name|alternate_name]]"
@@ -57,13 +70,13 @@ dv_has_properties:
   - "[[../../Data_Type/Text/Url|Url]]"
   - "[[../../../../Enumeration/Warranty_Scope|Warranty_Scope]]"
 dv_is_same_as:
-- "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise|Warranty_Promise]]"
-- "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.public|Warranty_Promise.public]]"
-- "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.internal|Warranty_Promise.internal]]"
-- "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.protect|Warranty_Promise.protect]]"
-- "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.private|Warranty_Promise.private]]"
-- "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.personal|Warranty_Promise.personal]]"
-- "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.secret|Warranty_Promise.secret]]"
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise|Warranty_Promise]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.public|Warranty_Promise.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.internal|Warranty_Promise.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.protect|Warranty_Promise.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.private|Warranty_Promise.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.personal|Warranty_Promise.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.secret|Warranty_Promise.secret]]"
 ---
 
 Class of all warranty_promises.

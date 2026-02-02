@@ -37,12 +37,27 @@ dv_is_:
   - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region.personal|Defined_Region.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region.secret|Defined_Region.secret]]"
 dv_has_:
-  properties: '[ additionalType, addressCountry, addressRegion, alternateName, description,
-    disambiguatingDescription, identifier, image, mainEntityOfPage, name, postalCode,
-    postalCodePrefix, postalCodeRange, potentialAction, sameAs, subjectOf, url ]'
+  properties:
+  - "[[additional_type|additional_type]]"
+  - "[[../../../../Relation/has/has_address_country|has_address_country]]"
+  - "[[address_region|address_region]]"
+  - "[[alternate_name|alternate_name]]"
+  - "[[../../../../Property/Texts/has_description|has_description]]"
+  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[../../../../Relation/has/has_identifier|has_identifier]]"
+  - "[[../../../../Relation/has/has_image|has_image]]"
+  - "[[../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+  - "[[../../../../Property/has_name|has_name]]"
+  - "[[postal_code|postal_code]]"
+  - "[[../../../../Property/has_location/has_postal_code_prefix|has_postal_code_prefix]]"
+  - "[[postal_code_range|postal_code_range]]"
+  - "[[../../../../Relation/has/has_potential_action|has_potential_action]]"
+  - "[[../../../../Relation/is_same_as|is_same_as]]"
+  - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
+  - "[[../../Data_Type/Text/Url|Url]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class:
-  - "[[../StructuredValue]]"
+  - "[[../structured_value|../structured_value]]"
 dv_has_properties:
   - "[[additional_type|additional_type]]"
   - "[[../../../../Relation/has/has_address_country|has_address_country]]"
@@ -62,13 +77,13 @@ dv_has_properties:
   - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
   - "[[../../Data_Type/Text/Url|Url]]"
 dv_is_same_as:
-- "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region|Defined_Region]]"
-- "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region.public|Defined_Region.public]]"
-- "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region.internal|Defined_Region.internal]]"
-- "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region.protect|Defined_Region.protect]]"
-- "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region.private|Defined_Region.private]]"
-- "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region.personal|Defined_Region.personal]]"
-- "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region.secret|Defined_Region.secret]]"
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region|Defined_Region]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region.public|Defined_Region.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region.internal|Defined_Region.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region.protect|Defined_Region.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region.private|Defined_Region.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region.personal|Defined_Region.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region.secret|Defined_Region.secret]]"
 ---
 
 Class of all defined_regions.

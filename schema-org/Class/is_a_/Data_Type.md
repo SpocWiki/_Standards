@@ -41,23 +41,24 @@ dv_has_:
   - "[[Data_Type/Date_Time|DateTime]]"
   - "[[Data_Type/Text|Text]]"
   - "[[Data_Type/Number|Number]]"
-  parent_class: "[[../../Class|Class]]"
+  parent_class:
+  - "[[../../Class|Class]]"
 dv_has_parent_class:
   - "[[../../Class|Class]]"
 dv_has_child_class:
-- "[[Data_Type/Boolean|Boolean]]"
-- "[[Data_Type/Time_Span|Time_Span]]"
-- "[[Data_Type/Date_Time|DateTime]]"
-- "[[Data_Type/Text|Text]]"
-- "[[Data_Type/Number|Number]]"
+  - "[[Data_Type/Boolean|Boolean]]"
+  - "[[Data_Type/Time_Span|Time_Span]]"
+  - "[[Data_Type/Date_Time|DateTime]]"
+  - "[[Data_Type/Text|Text]]"
+  - "[[Data_Type/Number|Number]]"
 dv_is_same_as:
-- "[[/_Standards/schema-org/Class/is_a_/Data_Type|Data_Type]]"
-- "[[/_public/schema-org/Class/is_a_/Data_Type.public|Data_Type.public]]"
-- "[[/_internal/schema-org/Class/is_a_/Data_Type.internal|Data_Type.internal]]"
-- "[[/_protect/schema-org/Class/is_a_/Data_Type.protect|Data_Type.protect]]"
-- "[[/_private/schema-org/Class/is_a_/Data_Type.private|Data_Type.private]]"
-- "[[/_personal/schema-org/Class/is_a_/Data_Type.personal|Data_Type.personal]]"
-- "[[/_secret/schema-org/Class/is_a_/Data_Type.secret|Data_Type.secret]]"
+  - "[[/_Standards/schema-org/Class/is_a_/Data_Type|Data_Type]]"
+  - "[[/_public/schema-org/Class/is_a_/Data_Type.public|Data_Type.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Data_Type.internal|Data_Type.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Data_Type.protect|Data_Type.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Data_Type.private|Data_Type.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Data_Type.personal|Data_Type.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Data_Type.secret|Data_Type.secret]]"
 ---
 
 # [[Data_Type]] 

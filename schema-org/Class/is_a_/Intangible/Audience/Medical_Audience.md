@@ -35,14 +35,36 @@ dv_is_:
   - "[[/_personal/schema-org/Class/is_a_/Intangible/Audience/Medical_Audience.personal|Medical_Audience.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Audience/Medical_Audience.secret|Medical_Audience.secret]]"
 dv_has_:
-  child_class: '[ Patient ]'
-  parent_class: "[[../Audience, PeopleAudience]]"
-  properties: '[ additionalType, alternateName, audienceType, description, disambiguatingDescription,
-    geographicArea, healthCondition, identifier, image, mainEntityOfPage, name, potentialAction,
-    requiredGender, requiredMaxAge, requiredMinAge, sameAs, subjectOf, suggestedAge,
-    suggestedGender, suggestedMaxAge, suggestedMeasurement, suggestedMinAge, url ]'
-dv_has_parent_class:
+  child_class:
+  - "[[Medical_Audience/Patient|Patient]]"
+  parent_class:
   - "[[../Audience, PeopleAudience]]"
+  properties:
+  - "[[additional_type|additional_type]]"
+  - "[[alternate_name|alternate_name]]"
+  - "[[../../../../Property/Texts/has_audience_type|has_audience_type]]"
+  - "[[../../../../Property/Texts/has_description|has_description]]"
+  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[../../../../Relation/has/has_geographic_area|has_geographic_area]]"
+  - "[[../../../../Relation/has/has_health_condition|has_health_condition]]"
+  - "[[../../../../Relation/has/has_identifier|has_identifier]]"
+  - "[[../../../../Relation/has/has_image|has_image]]"
+  - "[[../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+  - "[[../../../../Property/has_name|has_name]]"
+  - "[[../../../../Relation/has/has_potential_action|has_potential_action]]"
+  - "[[../../../../Property/Texts/has_required_gender|has_required_gender]]"
+  - "[[required_max_age|required_max_age]]"
+  - "[[required_min_age|required_min_age]]"
+  - "[[../../../../Relation/is_same_as|is_same_as]]"
+  - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
+  - "[[suggested_age|suggested_age]]"
+  - "[[../../../../Relation/has/has_suggested_gender|has_suggested_gender]]"
+  - "[[suggested_max_age|suggested_max_age]]"
+  - "[[suggested_measurement|suggested_measurement]]"
+  - "[[suggested_min_age|suggested_min_age]]"
+  - "[[../../Data_Type/Text/Url|Url]]"
+dv_has_parent_class:
+  - "[[../audience, people_audience|../audience, people_audience]]"
 dv_has_child_class:
   - "[[Medical_Audience/Patient|Patient]]"
 dv_has_properties:
@@ -70,13 +92,13 @@ dv_has_properties:
   - "[[suggested_min_age|suggested_min_age]]"
   - "[[../../Data_Type/Text/Url|Url]]"
 dv_is_same_as:
-- "[[/_Standards/schema-org/Class/is_a_/Intangible/Audience/Medical_Audience|Medical_Audience]]"
-- "[[/_public/schema-org/Class/is_a_/Intangible/Audience/Medical_Audience.public|Medical_Audience.public]]"
-- "[[/_internal/schema-org/Class/is_a_/Intangible/Audience/Medical_Audience.internal|Medical_Audience.internal]]"
-- "[[/_protect/schema-org/Class/is_a_/Intangible/Audience/Medical_Audience.protect|Medical_Audience.protect]]"
-- "[[/_private/schema-org/Class/is_a_/Intangible/Audience/Medical_Audience.private|Medical_Audience.private]]"
-- "[[/_personal/schema-org/Class/is_a_/Intangible/Audience/Medical_Audience.personal|Medical_Audience.personal]]"
-- "[[/_secret/schema-org/Class/is_a_/Intangible/Audience/Medical_Audience.secret|Medical_Audience.secret]]"
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Audience/Medical_Audience|Medical_Audience]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Audience/Medical_Audience.public|Medical_Audience.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Audience/Medical_Audience.internal|Medical_Audience.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Audience/Medical_Audience.protect|Medical_Audience.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Audience/Medical_Audience.private|Medical_Audience.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Audience/Medical_Audience.personal|Medical_Audience.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Audience/Medical_Audience.secret|Medical_Audience.secret]]"
 ---
 
 Class of all medical_audiences.

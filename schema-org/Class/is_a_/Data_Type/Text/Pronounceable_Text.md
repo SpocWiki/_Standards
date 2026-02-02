@@ -38,7 +38,11 @@ dv_is_:
   - "[[/_personal/schema-org/Class/is_a_/Data_Type/Text/Pronounceable_Text.personal|Pronounceable_Text.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Data_Type/Text/Pronounceable_Text.secret|Pronounceable_Text.secret]]"
 dv_has_:
-  properties: '[ inLanguage, phoneticText, speechToTextMarkup, textValue ]'
+  properties:
+  - "[[../../../../Relation/is/is_in_language|is_in_language]]"
+  - "[[../../../../Property/Texts/has_phonetic_text|has_phonetic_text]]"
+  - "[[../../../../Property/Texts/has_speech_to_text_markup|has_speech_to_text_markup]]"
+  - "[[../../../../Property/Texts/has_text_value|has_text_value]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class:
   - "[[../Text]]"
@@ -48,13 +52,13 @@ dv_has_properties:
   - "[[../../../../Property/Texts/has_speech_to_text_markup|has_speech_to_text_markup]]"
   - "[[../../../../Property/Texts/has_text_value|has_text_value]]"
 dv_is_same_as:
-- "[[/_Standards/schema-org/Class/is_a_/Data_Type/Text/Pronounceable_Text|Pronounceable_Text]]"
-- "[[/_public/schema-org/Class/is_a_/Data_Type/Text/Pronounceable_Text.public|Pronounceable_Text.public]]"
-- "[[/_internal/schema-org/Class/is_a_/Data_Type/Text/Pronounceable_Text.internal|Pronounceable_Text.internal]]"
-- "[[/_protect/schema-org/Class/is_a_/Data_Type/Text/Pronounceable_Text.protect|Pronounceable_Text.protect]]"
-- "[[/_private/schema-org/Class/is_a_/Data_Type/Text/Pronounceable_Text.private|Pronounceable_Text.private]]"
-- "[[/_personal/schema-org/Class/is_a_/Data_Type/Text/Pronounceable_Text.personal|Pronounceable_Text.personal]]"
-- "[[/_secret/schema-org/Class/is_a_/Data_Type/Text/Pronounceable_Text.secret|Pronounceable_Text.secret]]"
+  - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Text/Pronounceable_Text|Pronounceable_Text]]"
+  - "[[/_public/schema-org/Class/is_a_/Data_Type/Text/Pronounceable_Text.public|Pronounceable_Text.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Data_Type/Text/Pronounceable_Text.internal|Pronounceable_Text.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Data_Type/Text/Pronounceable_Text.protect|Pronounceable_Text.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Data_Type/Text/Pronounceable_Text.private|Pronounceable_Text.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Data_Type/Text/Pronounceable_Text.personal|Pronounceable_Text.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Data_Type/Text/Pronounceable_Text.secret|Pronounceable_Text.secret]]"
 ---
 
 # [[pronounceable_text]] 

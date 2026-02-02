@@ -35,7 +35,8 @@ dv_is_:
   - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Coordinates.personal|Geo_Coordinates.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Coordinates.secret|Geo_Coordinates.secret]]"
 dv_has_:
-  parent_class: "[[../StructuredValue]]"
+  parent_class:
+  - "[[../StructuredValue]]"
   properties:
   - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
   - "[[../../../../Property/has_location/has_location_address|has_location_address]]"
@@ -43,7 +44,7 @@ dv_has_:
   - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
   - "[[../../../../Property/Texts/has_description|has_description]]"
   - "[[../../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
-  - "[[../../../../Property/has_value_for/has_place_elevation_meters|has_place_elevation_meters]]"
+  - "[[has_place_elevation_meters|has_place_elevation_meters]]"
   - "[[../../../../Relation/has/has_identifier|has_identifier]]"
   - "[[../../../../Relation/has/has_image|has_image]]"
   - "[[../../../../Property/has_value_for/has_place_latitude|has_place_latitude]]"
@@ -56,7 +57,7 @@ dv_has_:
   - "[[../../../../Relation/is/is_subject_of|subjectOf]]"
   - "[[../../../../Property/has_url_for|url]]"
 dv_has_parent_class:
-  - "[[../StructuredValue]]"
+  - "[[../structured_value|../structured_value]]"
 dv_has_properties:
   - "[[../../../../Property/has_url_for/has_url_for_additional_type|additionalType]]"
   - "[[../../../../Property/has_location/has_location_address|address]]"
@@ -77,13 +78,13 @@ dv_has_properties:
   - "[[../../../../Relation/is/is_subject_of|subjectOf]]"
   - "[[../../../../Property/has_url_for|url]]"
 dv_is_same_as:
-- "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Coordinates|Geo_Coordinates]]"
-- "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Coordinates.public|Geo_Coordinates.public]]"
-- "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Coordinates.internal|Geo_Coordinates.internal]]"
-- "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Coordinates.protect|Geo_Coordinates.protect]]"
-- "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Coordinates.private|Geo_Coordinates.private]]"
-- "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Coordinates.personal|Geo_Coordinates.personal]]"
-- "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Coordinates.secret|Geo_Coordinates.secret]]"
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Coordinates|Geo_Coordinates]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Coordinates.public|Geo_Coordinates.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Coordinates.internal|Geo_Coordinates.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Coordinates.protect|Geo_Coordinates.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Coordinates.private|Geo_Coordinates.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Coordinates.personal|Geo_Coordinates.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Coordinates.secret|Geo_Coordinates.secret]]"
 ---
 
 # [[Geo_Coordinates]] 

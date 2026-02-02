@@ -37,15 +37,39 @@ dv_is_:
   - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Cdcpmd_Record.personal|Cdcpmd_Record.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Cdcpmd_Record.secret|Cdcpmd_Record.secret]]"
 dv_has_:
-  properties: '[ additionalType, alternateName, cvdCollectionDate, cvdFacilityCounty,
-    cvdFacilityId, cvdNumBeds, cvdNumBedsOcc, cvdNumC19Died, cvdNumC19HOPats, cvdNumC19HospPats,
-    cvdNumC19MechVentPats, cvdNumC19OFMechVentPats, cvdNumC19OverflowPats, cvdNumICUBeds,
-    cvdNumICUBedsOcc, cvdNumTotBeds, cvdNumVent, cvdNumVentUse, datePosted, description,
-    disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction,
-    sameAs, subjectOf, url ]'
+  properties:
+  - "[[additional_type|additional_type]]"
+  - "[[alternate_name|alternate_name]]"
+  - "[[cvd_collection_date|cvd_collection_date]]"
+  - "[[../../../../Property/Texts/has_cvd_facility_county|has_cvd_facility_county]]"
+  - "[[cvd_facility_id|cvd_facility_id]]"
+  - "[[cvd_num_beds|cvd_num_beds]]"
+  - "[[cvd_num_beds_occ|cvd_num_beds_occ]]"
+  - "[[cvd_num_c19_died|cvd_num_c19_died]]"
+  - "[[cvd_num_c19_ho_pats|cvd_num_c19_ho_pats]]"
+  - "[[cvd_num_c19_hosp_pats|cvd_num_c19_hosp_pats]]"
+  - "[[cvd_num_c19_mech_vent_pats|cvd_num_c19_mech_vent_pats]]"
+  - "[[cvd_num_c19_of_mech_vent_pats|cvd_num_c19_of_mech_vent_pats]]"
+  - "[[cvd_num_c19_overflow_pats|cvd_num_c19_overflow_pats]]"
+  - "[[cvd_num_icu_beds|cvd_num_icu_beds]]"
+  - "[[cvd_num_icu_beds_occ|cvd_num_icu_beds_occ]]"
+  - "[[cvd_num_tot_beds|cvd_num_tot_beds]]"
+  - "[[cvd_num_vent|cvd_num_vent]]"
+  - "[[cvd_num_vent_use|cvd_num_vent_use]]"
+  - "[[date_posted|date_posted]]"
+  - "[[../../../../Property/Texts/has_description|has_description]]"
+  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[../../../../Relation/has/has_identifier|has_identifier]]"
+  - "[[../../../../Relation/has/has_image|has_image]]"
+  - "[[../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+  - "[[../../../../Property/has_name|has_name]]"
+  - "[[../../../../Relation/has/has_potential_action|has_potential_action]]"
+  - "[[../../../../Relation/is_same_as|is_same_as]]"
+  - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
+  - "[[../../Data_Type/Text/Url|Url]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class:
-  - "[[../StructuredValue]]"
+  - "[[../structured_value|../structured_value]]"
 dv_has_properties:
   - "[[additional_type|additional_type]]"
   - "[[alternate_name|alternate_name]]"
@@ -77,13 +101,13 @@ dv_has_properties:
   - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
   - "[[../../Data_Type/Text/Url|Url]]"
 dv_is_same_as:
-- "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Cdcpmd_Record|Cdcpmd_Record]]"
-- "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Cdcpmd_Record.public|Cdcpmd_Record.public]]"
-- "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Cdcpmd_Record.internal|Cdcpmd_Record.internal]]"
-- "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Cdcpmd_Record.protect|Cdcpmd_Record.protect]]"
-- "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Cdcpmd_Record.private|Cdcpmd_Record.private]]"
-- "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Cdcpmd_Record.personal|Cdcpmd_Record.personal]]"
-- "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Cdcpmd_Record.secret|Cdcpmd_Record.secret]]"
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Cdcpmd_Record|Cdcpmd_Record]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Cdcpmd_Record.public|Cdcpmd_Record.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Cdcpmd_Record.internal|Cdcpmd_Record.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Cdcpmd_Record.protect|Cdcpmd_Record.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Cdcpmd_Record.private|Cdcpmd_Record.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Cdcpmd_Record.personal|Cdcpmd_Record.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Cdcpmd_Record.secret|Cdcpmd_Record.secret]]"
 ---
 
 Class of all cdcpmd_records.

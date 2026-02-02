@@ -37,11 +37,28 @@ dv_is_:
   - "[[/_personal/schema-org/Class/is_a_/Intangible/Health_Insurance_Plan.personal|Health_Insurance_Plan.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Health_Insurance_Plan.secret|Health_Insurance_Plan.secret]]"
 dv_has_:
-  properties: '[ additionalType, alternateName, benefitsSummaryUrl, contactPoint,
-    description, disambiguatingDescription, healthPlanDrugOption, healthPlanDrugTier,
-    healthPlanId, healthPlanMarketingUrl, identifier, image, includesHealthPlanFormulary,
-    includesHealthPlanNetwork, mainEntityOfPage, name, potentialAction, sameAs, subjectOf,
-    url, usesHealthPlanIdStandard ]'
+  properties:
+  - "[[additional_type|additional_type]]"
+  - "[[alternate_name|alternate_name]]"
+  - "[[benefits_summary_url|benefits_summary_url]]"
+  - "[[Structured_Value/Contact_Point|Contact_Point]]"
+  - "[[../../../Property/Texts/has_description|has_description]]"
+  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[../../../Property/Texts/has_health_plan_drug_option|has_health_plan_drug_option]]"
+  - "[[../../../Property/Texts/has_health_plan_drug_tier|has_health_plan_drug_tier]]"
+  - "[[health_plan_id|health_plan_id]]"
+  - "[[health_plan_marketing_url|health_plan_marketing_url]]"
+  - "[[../../../Relation/has/has_identifier|has_identifier]]"
+  - "[[../../../Relation/has/has_image|has_image]]"
+  - "[[includes_health_plan_formulary|includes_health_plan_formulary]]"
+  - "[[includes_health_plan_network|includes_health_plan_network]]"
+  - "[[../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+  - "[[../../../Property/has_name|has_name]]"
+  - "[[../../../Relation/has/has_potential_action|has_potential_action]]"
+  - "[[../../../Relation/is_same_as|is_same_as]]"
+  - "[[../../../Relation/is/is_subject_of|is_subject_of]]"
+  - "[[../Data_Type/Text/Url|Url]]"
+  - "[[uses_health_plan_id_standard|uses_health_plan_id_standard]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class:
   - "[[../Intangible]]"
@@ -68,13 +85,13 @@ dv_has_properties:
   - "[[../Data_Type/Text/Url|Url]]"
   - "[[uses_health_plan_id_standard|uses_health_plan_id_standard]]"
 dv_is_same_as:
-- "[[/_Standards/schema-org/Class/is_a_/Intangible/Health_Insurance_Plan|Health_Insurance_Plan]]"
-- "[[/_public/schema-org/Class/is_a_/Intangible/Health_Insurance_Plan.public|Health_Insurance_Plan.public]]"
-- "[[/_internal/schema-org/Class/is_a_/Intangible/Health_Insurance_Plan.internal|Health_Insurance_Plan.internal]]"
-- "[[/_protect/schema-org/Class/is_a_/Intangible/Health_Insurance_Plan.protect|Health_Insurance_Plan.protect]]"
-- "[[/_private/schema-org/Class/is_a_/Intangible/Health_Insurance_Plan.private|Health_Insurance_Plan.private]]"
-- "[[/_personal/schema-org/Class/is_a_/Intangible/Health_Insurance_Plan.personal|Health_Insurance_Plan.personal]]"
-- "[[/_secret/schema-org/Class/is_a_/Intangible/Health_Insurance_Plan.secret|Health_Insurance_Plan.secret]]"
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Health_Insurance_Plan|Health_Insurance_Plan]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Health_Insurance_Plan.public|Health_Insurance_Plan.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Health_Insurance_Plan.internal|Health_Insurance_Plan.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Health_Insurance_Plan.protect|Health_Insurance_Plan.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Health_Insurance_Plan.private|Health_Insurance_Plan.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Health_Insurance_Plan.personal|Health_Insurance_Plan.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Health_Insurance_Plan.secret|Health_Insurance_Plan.secret]]"
 ---
 
 Class of all health_insurance_plans.

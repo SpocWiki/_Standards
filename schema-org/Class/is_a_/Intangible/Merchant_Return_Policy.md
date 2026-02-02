@@ -44,7 +44,7 @@ dv_has_:
   properties:
   - "[[../../../Relation/has/has_additional_property|additionalProperty]]"
   - "[[../../../Property/has_url_for/has_url_for_additional_type|additionalType]]"
-  - "[[../../../Property/Texts/has_name_alternate|alternateName]]"
+  - "[[alternate_name|alternate_name]]"
   - "[[../../../Relation/is/is_applicable_in_country|applicableCountry]]"
   - "[[../../../Relation/has/has_customer_remorse_return_fees|customerRemorseReturnFees]]"
   - "[[../../../Relation/has/has_customer_remorse_return_label_source|customerRemorseReturnLabelSource]]"
@@ -61,7 +61,7 @@ dv_has_:
   - "[[../../../Relation/is/is_main_entity_of_page|mainEntityOfPage]]"
   - "[[../../../Property/has_Date_Time/has_time_of_merchant_return_days|merchantReturnDays]]"
   - "[[../../../Property/has_url_for/has_url_for_merchant_return_link|merchantReturnLink]]"
-  - "[[../../../Property/Texts/has_name|name]]"
+  - "[[../../../Property/has_name|has_name]]"
   - "[[../../../Relation/has/has_potential_action|potentialAction]]"
   - "[[../../../Relation/has/has_refund_type|refundType]]"
   - "[[../../../Property/has_value_for/has_value_for_restocking_fee|restockingFee]]"
@@ -113,13 +113,13 @@ dv_has_properties:
   - "[[../../../Relation/is/is_subject_of|subjectOf]]"
   - "[[../../../Property/has_url_for|url]]"
 dv_is_same_as:
-- "[[/_Standards/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy|Merchant_Return_Policy]]"
-- "[[/_public/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy.public|Merchant_Return_Policy.public]]"
-- "[[/_internal/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy.internal|Merchant_Return_Policy.internal]]"
-- "[[/_protect/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy.protect|Merchant_Return_Policy.protect]]"
-- "[[/_private/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy.private|Merchant_Return_Policy.private]]"
-- "[[/_personal/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy.personal|Merchant_Return_Policy.personal]]"
-- "[[/_secret/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy.secret|Merchant_Return_Policy.secret]]"
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy|Merchant_Return_Policy]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy.public|Merchant_Return_Policy.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy.internal|Merchant_Return_Policy.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy.protect|Merchant_Return_Policy.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy.private|Merchant_Return_Policy.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy.personal|Merchant_Return_Policy.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy.secret|Merchant_Return_Policy.secret]]"
 ---
 
 [[../../../Class|Class]] of all merchant_return_policys.

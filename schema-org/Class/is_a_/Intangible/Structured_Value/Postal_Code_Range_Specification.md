@@ -37,12 +37,24 @@ dv_is_:
   - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Postal_Code_Range_Specification.personal|Postal_Code_Range_Specification.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Postal_Code_Range_Specification.secret|Postal_Code_Range_Specification.secret]]"
 dv_has_:
-  properties: '[ additionalType, alternateName, description, disambiguatingDescription,
-    identifier, image, mainEntityOfPage, name, postalCodeBegin, postalCodeEnd, potentialAction,
-    sameAs, subjectOf, url ]'
+  properties:
+  - "[[additional_type|additional_type]]"
+  - "[[alternate_name|alternate_name]]"
+  - "[[../../../../Property/Texts/has_description|has_description]]"
+  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[../../../../Relation/has/has_identifier|has_identifier]]"
+  - "[[../../../../Relation/has/has_image|has_image]]"
+  - "[[../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+  - "[[../../../../Property/has_name|has_name]]"
+  - "[[../../../../Property/has_location/has_postal_code_begin|has_postal_code_begin]]"
+  - "[[../../../../Property/has_location/has_postal_code_end|has_postal_code_end]]"
+  - "[[../../../../Relation/has/has_potential_action|has_potential_action]]"
+  - "[[../../../../Relation/is_same_as|is_same_as]]"
+  - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
+  - "[[../../Data_Type/Text/Url|Url]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class:
-  - "[[../StructuredValue]]"
+  - "[[../structured_value|../structured_value]]"
 dv_has_properties:
   - "[[additional_type|additional_type]]"
   - "[[alternate_name|alternate_name]]"
@@ -59,13 +71,13 @@ dv_has_properties:
   - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
   - "[[../../Data_Type/Text/Url|Url]]"
 dv_is_same_as:
-- "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Postal_Code_Range_Specification|Postal_Code_Range_Specification]]"
-- "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Postal_Code_Range_Specification.public|Postal_Code_Range_Specification.public]]"
-- "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Postal_Code_Range_Specification.internal|Postal_Code_Range_Specification.internal]]"
-- "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Postal_Code_Range_Specification.protect|Postal_Code_Range_Specification.protect]]"
-- "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Postal_Code_Range_Specification.private|Postal_Code_Range_Specification.private]]"
-- "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Postal_Code_Range_Specification.personal|Postal_Code_Range_Specification.personal]]"
-- "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Postal_Code_Range_Specification.secret|Postal_Code_Range_Specification.secret]]"
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Postal_Code_Range_Specification|Postal_Code_Range_Specification]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Postal_Code_Range_Specification.public|Postal_Code_Range_Specification.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Postal_Code_Range_Specification.internal|Postal_Code_Range_Specification.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Postal_Code_Range_Specification.protect|Postal_Code_Range_Specification.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Postal_Code_Range_Specification.private|Postal_Code_Range_Specification.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Postal_Code_Range_Specification.personal|Postal_Code_Range_Specification.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Postal_Code_Range_Specification.secret|Postal_Code_Range_Specification.secret]]"
 ---
 
 Class of all postal_code_range_specifications.

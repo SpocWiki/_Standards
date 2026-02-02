@@ -35,13 +35,36 @@ dv_is_:
   - "[[/_personal/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code/Medical_Code.personal|Medical_Code.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code/Medical_Code.secret|Medical_Code.secret]]"
 dv_has_:
-  parent_class: "[[../CategoryCode, MedicalIntangible]]"
-  properties: '[ additionalType, alternateName, code, codeValue, codingSystem, description,
-    disambiguatingDescription, funding, guideline, identifier, image, inCodeSet, inDefinedTermSet,
-    legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority,
-    relevantSpecialty, sameAs, study, subjectOf, termCode, url ]'
-dv_has_parent_class:
+  parent_class:
   - "[[../CategoryCode, MedicalIntangible]]"
+  properties:
+  - "[[additional_type|additional_type]]"
+  - "[[alternate_name|alternate_name]]"
+  - "[[../../../../../Relation/has/has_code|has_code]]"
+  - "[[../../../../../Property/has_id/has_code_value|has_code_value]]"
+  - "[[../../../../../Property/Texts/has_coding_system|has_coding_system]]"
+  - "[[../../../../../Property/Texts/has_description|has_description]]"
+  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[../../../../../Relation/has/has_funding|has_funding]]"
+  - "[[../../../../../Relation/has/has_guideline|has_guideline]]"
+  - "[[../../../../../Relation/has/has_identifier|has_identifier]]"
+  - "[[../../../../../Relation/has/has_image|has_image]]"
+  - "[[../../../../../Relation/is/is_in_code_set|is_in_code_set]]"
+  - "[[../../../../../Relation/is/is_in_defined_term_set|is_in_defined_term_set]]"
+  - "[[../../../../../Relation/has/has_legal_status|has_legal_status]]"
+  - "[[../../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+  - "[[../../../../../Relation/has/has_medicine_system|has_medicine_system]]"
+  - "[[../../../../../Property/has_name|has_name]]"
+  - "[[../../../../../Relation/has/has_potential_action|has_potential_action]]"
+  - "[[../../../../../Relation/has/has_recognizing_authority|has_recognizing_authority]]"
+  - "[[../../../../../Relation/has/has_specialty/has_relevant_specialty|has_relevant_specialty]]"
+  - "[[../../../../../Relation/is_same_as|is_same_as]]"
+  - "[[../../../../../Relation/has/has_study|has_study]]"
+  - "[[../../../../../Relation/is/is_subject_of|is_subject_of]]"
+  - "[[term_code|term_code]]"
+  - "[[../../../Data_Type/Text/Url|Url]]"
+dv_has_parent_class:
+  - "[[../category_code, medical_intangible|../category_code, medical_intangible]]"
 dv_has_properties:
   - "[[additional_type|additional_type]]"
   - "[[alternate_name|alternate_name]]"
@@ -69,13 +92,13 @@ dv_has_properties:
   - "[[term_code|term_code]]"
   - "[[../../../Data_Type/Text/Url|Url]]"
 dv_is_same_as:
-- "[[/_Standards/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code/Medical_Code|Medical_Code]]"
-- "[[/_public/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code/Medical_Code.public|Medical_Code.public]]"
-- "[[/_internal/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code/Medical_Code.internal|Medical_Code.internal]]"
-- "[[/_protect/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code/Medical_Code.protect|Medical_Code.protect]]"
-- "[[/_private/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code/Medical_Code.private|Medical_Code.private]]"
-- "[[/_personal/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code/Medical_Code.personal|Medical_Code.personal]]"
-- "[[/_secret/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code/Medical_Code.secret|Medical_Code.secret]]"
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code/Medical_Code|Medical_Code]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code/Medical_Code.public|Medical_Code.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code/Medical_Code.internal|Medical_Code.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code/Medical_Code.protect|Medical_Code.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code/Medical_Code.private|Medical_Code.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code/Medical_Code.personal|Medical_Code.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code/Medical_Code.secret|Medical_Code.secret]]"
 ---
 
 Class of all medical_codes.

@@ -35,12 +35,28 @@ dv_is_:
   - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Opening_Hours_Specification.personal|Opening_Hours_Specification.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Opening_Hours_Specification.secret|Opening_Hours_Specification.secret]]"
 dv_has_:
-  parent_class: "[[../StructuredValue]]"
-  properties: '[ additionalType, alternateName, closes, dayOfWeek, description, disambiguatingDescription,
-    identifier, image, mainEntityOfPage, name, opens, potentialAction, sameAs, subjectOf,
-    url, validFrom, validThrough ]'
-dv_has_parent_class:
+  parent_class:
   - "[[../StructuredValue]]"
+  properties:
+  - "[[additional_type|additional_type]]"
+  - "[[alternate_name|alternate_name]]"
+  - "[[closes|closes]]"
+  - "[[../../../../Relation/has/has_day_of_week|has_day_of_week]]"
+  - "[[../../../../Property/Texts/has_description|has_description]]"
+  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[../../../../Relation/has/has_identifier|has_identifier]]"
+  - "[[../../../../Relation/has/has_image|has_image]]"
+  - "[[../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+  - "[[../../../../Property/has_name|has_name]]"
+  - "[[opens|opens]]"
+  - "[[../../../../Relation/has/has_potential_action|has_potential_action]]"
+  - "[[../../../../Relation/is_same_as|is_same_as]]"
+  - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
+  - "[[../../Data_Type/Text/Url|Url]]"
+  - "[[valid_from|valid_from]]"
+  - "[[valid_through|valid_through]]"
+dv_has_parent_class:
+  - "[[../structured_value|../structured_value]]"
 dv_has_properties:
   - "[[additional_type|additional_type]]"
   - "[[alternate_name|alternate_name]]"
@@ -60,13 +76,13 @@ dv_has_properties:
   - "[[valid_from|valid_from]]"
   - "[[valid_through|valid_through]]"
 dv_is_same_as:
-- "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Opening_Hours_Specification|Opening_Hours_Specification]]"
-- "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Opening_Hours_Specification.public|Opening_Hours_Specification.public]]"
-- "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Opening_Hours_Specification.internal|Opening_Hours_Specification.internal]]"
-- "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Opening_Hours_Specification.protect|Opening_Hours_Specification.protect]]"
-- "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Opening_Hours_Specification.private|Opening_Hours_Specification.private]]"
-- "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Opening_Hours_Specification.personal|Opening_Hours_Specification.personal]]"
-- "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Opening_Hours_Specification.secret|Opening_Hours_Specification.secret]]"
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Opening_Hours_Specification|Opening_Hours_Specification]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Opening_Hours_Specification.public|Opening_Hours_Specification.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Opening_Hours_Specification.internal|Opening_Hours_Specification.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Opening_Hours_Specification.protect|Opening_Hours_Specification.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Opening_Hours_Specification.private|Opening_Hours_Specification.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Opening_Hours_Specification.personal|Opening_Hours_Specification.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Opening_Hours_Specification.secret|Opening_Hours_Specification.secret]]"
 ---
 
 Class of all opening_hours_specifications.

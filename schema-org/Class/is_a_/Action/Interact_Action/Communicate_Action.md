@@ -35,15 +35,48 @@ dv_is_:
   - "[[/_personal/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action.personal|Communicate_Action.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action.secret|Communicate_Action.secret]]"
 dv_has_:
-  child_class: '[ AskAction, CheckInAction, CheckOutAction, CommentAction, InformAction,
-    InviteAction, ReplyAction, ShareAction ]'
-  parent_class: "[[../InteractAction]]"
-  properties: '[ about, actionStatus, additionalType, agent, alternateName, description,
-    disambiguatingDescription, endTime, error, identifier, image, inLanguage, instrument,
-    language, location, mainEntityOfPage, name, object, participant, potentialAction,
-    provider, recipient, result, sameAs, startTime, subjectOf, target, url ]'
-dv_has_parent_class:
+  child_class:
+  - "[[Communicate_Action/Ask_Action|Ask_Action]]"
+  - "[[Communicate_Action/Check_in_Action|Check_in_Action]]"
+  - "[[Communicate_Action/Check_Out_Action|Check_Out_Action]]"
+  - "[[Communicate_Action/Comment_Action|Comment_Action]]"
+  - "[[Communicate_Action/Inform_Action|Inform_Action]]"
+  - "[[Communicate_Action/Invite_Action|Invite_Action]]"
+  - "[[Communicate_Action/Reply_Action|Reply_Action]]"
+  - "[[Communicate_Action/Share_Action|Share_Action]]"
+  parent_class:
   - "[[../InteractAction]]"
+  properties:
+  - "[[about|about]]"
+  - "[[../../../../Relation/has/has_action/has_action_status|has_action_status]]"
+  - "[[additional_type|additional_type]]"
+  - "[[../../../../Relation/has/has_agent|has_agent]]"
+  - "[[alternate_name|alternate_name]]"
+  - "[[../../../../Property/Texts/has_description|has_description]]"
+  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[end_time|end_time]]"
+  - "[[../../../../Relation/has/has_error|has_error]]"
+  - "[[../../../../Relation/has/has_identifier|has_identifier]]"
+  - "[[../../../../Relation/has/has_image|has_image]]"
+  - "[[../../../../Relation/is/is_in_language|is_in_language]]"
+  - "[[../../../../Relation/has/has_instrument|has_instrument]]"
+  - "[[language|language]]"
+  - "[[../../../../Property/has_location/has_location|has_location]]"
+  - "[[../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+  - "[[../../../../Property/has_name|has_name]]"
+  - "[[../../../../Relation/has/has_object|has_object]]"
+  - "[[../../../../Relation/has/has_participant|has_participant]]"
+  - "[[../../../../Relation/has/has_potential_action|has_potential_action]]"
+  - "[[../../../../Relation/has/has_provider|has_provider]]"
+  - "[[../../../../Relation/has/has_participant/has_recipient|has_recipient]]"
+  - "[[../../../../Relation/has/has_result|has_result]]"
+  - "[[../../../../Relation/is_same_as|is_same_as]]"
+  - "[[start_time|start_time]]"
+  - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
+  - "[[../../../../Relation/has/has_target|has_target]]"
+  - "[[../../Data_Type/Text/Url|Url]]"
+dv_has_parent_class:
+  - "[[../interact_action|../interact_action]]"
 dv_has_child_class:
   - "[[Communicate_Action/Ask_Action|Ask_Action]]"
   - "[[Communicate_Action/Check_in_Action|Check_in_Action]]"
@@ -83,13 +116,13 @@ dv_has_properties:
   - "[[../../../../Relation/has/has_target|has_target]]"
   - "[[../../Data_Type/Text/Url|Url]]"
 dv_is_same_as:
-- "[[/_Standards/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action|Communicate_Action]]"
-- "[[/_public/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action.public|Communicate_Action.public]]"
-- "[[/_internal/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action.internal|Communicate_Action.internal]]"
-- "[[/_protect/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action.protect|Communicate_Action.protect]]"
-- "[[/_private/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action.private|Communicate_Action.private]]"
-- "[[/_personal/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action.personal|Communicate_Action.personal]]"
-- "[[/_secret/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action.secret|Communicate_Action.secret]]"
+  - "[[/_Standards/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action|Communicate_Action]]"
+  - "[[/_public/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action.public|Communicate_Action.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action.internal|Communicate_Action.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action.protect|Communicate_Action.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action.private|Communicate_Action.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action.personal|Communicate_Action.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action.secret|Communicate_Action.secret]]"
 ---
 
 Class of all communicate_actions.

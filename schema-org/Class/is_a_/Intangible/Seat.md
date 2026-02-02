@@ -33,10 +33,25 @@ dv_is_:
   - "[[/_personal/schema-org/Class/is_a_/Intangible/Seat.personal|Seat.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Seat.secret|Seat.secret]]"
 dv_has_:
-  parent_class: "[[../Intangible]]"
-  properties: '[ additionalType, alternateName, description, disambiguatingDescription,
-    identifier, image, mainEntityOfPage, name, potentialAction, sameAs, seatNumber,
-    seatRow, seatSection, seatingType, subjectOf, url ]'
+  parent_class:
+  - "[[../Intangible]]"
+  properties:
+  - "[[additional_type|additional_type]]"
+  - "[[alternate_name|alternate_name]]"
+  - "[[../../../Property/Texts/has_description|has_description]]"
+  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[../../../Relation/has/has_identifier|has_identifier]]"
+  - "[[../../../Relation/has/has_image|has_image]]"
+  - "[[../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+  - "[[../../../Property/has_name|has_name]]"
+  - "[[../../../Relation/has/has_potential_action|has_potential_action]]"
+  - "[[../../../Relation/is_same_as|is_same_as]]"
+  - "[[../../../Property/Texts/has_seat_number|has_seat_number]]"
+  - "[[../../../Property/Texts/has_seat_row|has_seat_row]]"
+  - "[[../../../Property/Texts/has_seat_section|has_seat_section]]"
+  - "[[../../../Relation/has/has_seating_type|has_seating_type]]"
+  - "[[../../../Relation/is/is_subject_of|is_subject_of]]"
+  - "[[../Data_Type/Text/Url|Url]]"
 dv_has_parent_class:
   - "[[../Intangible]]"
 dv_has_properties:
@@ -57,13 +72,13 @@ dv_has_properties:
   - "[[../../../Relation/is/is_subject_of|is_subject_of]]"
   - "[[../Data_Type/Text/Url|Url]]"
 dv_is_same_as:
-- "[[/_Standards/schema-org/Class/is_a_/Intangible/Seat|Seat]]"
-- "[[/_public/schema-org/Class/is_a_/Intangible/Seat.public|Seat.public]]"
-- "[[/_internal/schema-org/Class/is_a_/Intangible/Seat.internal|Seat.internal]]"
-- "[[/_protect/schema-org/Class/is_a_/Intangible/Seat.protect|Seat.protect]]"
-- "[[/_private/schema-org/Class/is_a_/Intangible/Seat.private|Seat.private]]"
-- "[[/_personal/schema-org/Class/is_a_/Intangible/Seat.personal|Seat.personal]]"
-- "[[/_secret/schema-org/Class/is_a_/Intangible/Seat.secret|Seat.secret]]"
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Seat|Seat]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Seat.public|Seat.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Seat.internal|Seat.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Seat.protect|Seat.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Seat.private|Seat.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Seat.personal|Seat.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Seat.secret|Seat.secret]]"
 ---
 
 Class of all seats.

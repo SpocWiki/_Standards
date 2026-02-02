@@ -37,13 +37,28 @@ dv_is_:
   - "[[/_personal/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code.personal|Category_Code.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code.secret|Category_Code.secret]]"
 dv_has_:
-  child_class: '[ MedicalCode ]'
-  properties: '[ additionalType, alternateName, codeValue, description, disambiguatingDescription,
-    identifier, image, inCodeSet, inDefinedTermSet, mainEntityOfPage, name, potentialAction,
-    sameAs, subjectOf, termCode, url ]'
+  child_class:
+  - "[[Category_Code/Medical_Code|Medical_Code]]"
+  properties:
+  - "[[additional_type|additional_type]]"
+  - "[[alternate_name|alternate_name]]"
+  - "[[../../../../Property/has_id/has_code_value|has_code_value]]"
+  - "[[../../../../Property/Texts/has_description|has_description]]"
+  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[../../../../Relation/has/has_identifier|has_identifier]]"
+  - "[[../../../../Relation/has/has_image|has_image]]"
+  - "[[../../../../Relation/is/is_in_code_set|is_in_code_set]]"
+  - "[[../../../../Relation/is/is_in_defined_term_set|is_in_defined_term_set]]"
+  - "[[../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+  - "[[../../../../Property/has_name|has_name]]"
+  - "[[../../../../Relation/has/has_potential_action|has_potential_action]]"
+  - "[[../../../../Relation/is_same_as|is_same_as]]"
+  - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
+  - "[[term_code|term_code]]"
+  - "[[../../Data_Type/Text/Url|Url]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class:
-  - "[[../DefinedTerm]]"
+  - "[[../defined_term|../defined_term]]"
 dv_has_child_class:
   - "[[Category_Code/Medical_Code|Medical_Code]]"
 dv_has_properties:
@@ -64,13 +79,13 @@ dv_has_properties:
   - "[[term_code|term_code]]"
   - "[[../../Data_Type/Text/Url|Url]]"
 dv_is_same_as:
-- "[[/_Standards/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code|Category_Code]]"
-- "[[/_public/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code.public|Category_Code.public]]"
-- "[[/_internal/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code.internal|Category_Code.internal]]"
-- "[[/_protect/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code.protect|Category_Code.protect]]"
-- "[[/_private/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code.private|Category_Code.private]]"
-- "[[/_personal/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code.personal|Category_Code.personal]]"
-- "[[/_secret/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code.secret|Category_Code.secret]]"
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code|Category_Code]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code.public|Category_Code.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code.internal|Category_Code.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code.protect|Category_Code.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code.private|Category_Code.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code.personal|Category_Code.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code.secret|Category_Code.secret]]"
 ---
 
 Class of all defined category_codes.

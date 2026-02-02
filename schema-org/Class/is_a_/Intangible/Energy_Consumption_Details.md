@@ -37,10 +37,22 @@ dv_is_:
   - "[[/_personal/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details.personal|Energy_Consumption_Details.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details.secret|Energy_Consumption_Details.secret]]"
 dv_has_:
-  properties: '[ additionalType, alternateName, description, disambiguatingDescription,
-    energyEfficiencyScaleMax, energyEfficiencyScaleMin, hasEnergyEfficiencyCategory,
-    identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf,
-    url ]'
+  properties:
+  - "[[additional_type|additional_type]]"
+  - "[[alternate_name|alternate_name]]"
+  - "[[../../../Property/Texts/has_description|has_description]]"
+  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[../../../Relation/has/has_energy/has_energy_efficiency_scale_max|has_energy_efficiency_scale_max]]"
+  - "[[../../../Relation/has/has_energy/has_energy_efficiency_scale_min|has_energy_efficiency_scale_min]]"
+  - "[[../../../Relation/has/has_energy/has_energy_efficiency_category|has_energy_efficiency_category]]"
+  - "[[../../../Relation/has/has_identifier|has_identifier]]"
+  - "[[../../../Relation/has/has_image|has_image]]"
+  - "[[../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+  - "[[../../../Property/has_name|has_name]]"
+  - "[[../../../Relation/has/has_potential_action|has_potential_action]]"
+  - "[[../../../Relation/is_same_as|is_same_as]]"
+  - "[[../../../Relation/is/is_subject_of|is_subject_of]]"
+  - "[[../Data_Type/Text/Url|Url]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class:
   - "[[../Intangible]]"
@@ -61,13 +73,13 @@ dv_has_properties:
   - "[[../../../Relation/is/is_subject_of|is_subject_of]]"
   - "[[../Data_Type/Text/Url|Url]]"
 dv_is_same_as:
-- "[[/_Standards/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details|Energy_Consumption_Details]]"
-- "[[/_public/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details.public|Energy_Consumption_Details.public]]"
-- "[[/_internal/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details.internal|Energy_Consumption_Details.internal]]"
-- "[[/_protect/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details.protect|Energy_Consumption_Details.protect]]"
-- "[[/_private/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details.private|Energy_Consumption_Details.private]]"
-- "[[/_personal/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details.personal|Energy_Consumption_Details.personal]]"
-- "[[/_secret/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details.secret|Energy_Consumption_Details.secret]]"
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details|Energy_Consumption_Details]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details.public|Energy_Consumption_Details.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details.internal|Energy_Consumption_Details.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details.protect|Energy_Consumption_Details.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details.private|Energy_Consumption_Details.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details.personal|Energy_Consumption_Details.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Energy_Consumption_Details.secret|Energy_Consumption_Details.secret]]"
 ---
 
 Class of all energy_consumption_detailss.

@@ -37,13 +37,28 @@ dv_is_:
   - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Rate_Settings.personal|Shipping_Rate_Settings.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Rate_Settings.secret|Shipping_Rate_Settings.secret]]"
 dv_has_:
-  properties: '[ additionalType, alternateName, description, disambiguatingDescription,
-    doesNotShip, freeShippingThreshold, identifier, image, isUnlabelledFallback, mainEntityOfPage,
-    name, potentialAction, sameAs, shippingDestination, shippingLabel, shippingRate,
-    subjectOf, url ]'
+  properties:
+  - "[[additional_type|additional_type]]"
+  - "[[alternate_name|alternate_name]]"
+  - "[[../../../../Property/Texts/has_description|has_description]]"
+  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[does_not_ship|does_not_ship]]"
+  - "[[../../../../Relation/has/has_free_shipping_threshold|has_free_shipping_threshold]]"
+  - "[[../../../../Relation/has/has_identifier|has_identifier]]"
+  - "[[../../../../Relation/has/has_image|has_image]]"
+  - "[[../../../../Property/Flags/is_unlabelled_fallback|is_unlabelled_fallback]]"
+  - "[[../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+  - "[[../../../../Property/has_name|has_name]]"
+  - "[[../../../../Relation/has/has_potential_action|has_potential_action]]"
+  - "[[../../../../Relation/is_same_as|is_same_as]]"
+  - "[[../../../../Relation/has/has_shipping/has_shipping_destination|has_shipping_destination]]"
+  - "[[../../../../Property/Texts/has_shipping_label|has_shipping_label]]"
+  - "[[shipping_rate|shipping_rate]]"
+  - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
+  - "[[../../Data_Type/Text/Url|Url]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class:
-  - "[[../StructuredValue]]"
+  - "[[../structured_value|../structured_value]]"
 dv_has_properties:
   - "[[additional_type|additional_type]]"
   - "[[alternate_name|alternate_name]]"
@@ -64,13 +79,13 @@ dv_has_properties:
   - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
   - "[[../../Data_Type/Text/Url|Url]]"
 dv_is_same_as:
-- "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Rate_Settings|Shipping_Rate_Settings]]"
-- "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Rate_Settings.public|Shipping_Rate_Settings.public]]"
-- "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Rate_Settings.internal|Shipping_Rate_Settings.internal]]"
-- "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Rate_Settings.protect|Shipping_Rate_Settings.protect]]"
-- "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Rate_Settings.private|Shipping_Rate_Settings.private]]"
-- "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Rate_Settings.personal|Shipping_Rate_Settings.personal]]"
-- "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Rate_Settings.secret|Shipping_Rate_Settings.secret]]"
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Rate_Settings|Shipping_Rate_Settings]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Rate_Settings.public|Shipping_Rate_Settings.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Rate_Settings.internal|Shipping_Rate_Settings.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Rate_Settings.protect|Shipping_Rate_Settings.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Rate_Settings.private|Shipping_Rate_Settings.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Rate_Settings.personal|Shipping_Rate_Settings.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Rate_Settings.secret|Shipping_Rate_Settings.secret]]"
 ---
 
 Class of all shipping_rate_settingss.

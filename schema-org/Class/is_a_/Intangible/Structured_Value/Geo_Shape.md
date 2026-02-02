@@ -35,13 +35,33 @@ dv_is_:
   - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape.personal|Geo_Shape.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape.secret|Geo_Shape.secret]]"
 dv_has_:
-  child_class: '[ GeoCircle ]'
-  parent_class: "[[../StructuredValue]]"
-  properties: '[ additionalType, address, addressCountry, alternateName, box, circle,
-    description, disambiguatingDescription, elevation, identifier, image, line, mainEntityOfPage,
-    name, polygon, postalCode, potentialAction, sameAs, subjectOf, url ]'
-dv_has_parent_class:
+  child_class:
+  - "[[Geo_Shape/Geo_Circle|Geo_Circle]]"
+  parent_class:
   - "[[../StructuredValue]]"
+  properties:
+  - "[[additional_type|additional_type]]"
+  - "[[address|address]]"
+  - "[[../../../../Relation/has/has_address_country|has_address_country]]"
+  - "[[alternate_name|alternate_name]]"
+  - "[[../../../../Property/Texts/has_box|has_box]]"
+  - "[[../../../../Property/Texts/has_circle|has_circle]]"
+  - "[[../../../../Property/Texts/has_description|has_description]]"
+  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[elevation|elevation]]"
+  - "[[../../../../Relation/has/has_identifier|has_identifier]]"
+  - "[[../../../../Relation/has/has_image|has_image]]"
+  - "[[../../../../Property/Texts/has_line|has_line]]"
+  - "[[../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+  - "[[../../../../Property/has_name|has_name]]"
+  - "[[../../../../Property/Texts/has_polygon|has_polygon]]"
+  - "[[postal_code|postal_code]]"
+  - "[[../../../../Relation/has/has_potential_action|has_potential_action]]"
+  - "[[../../../../Relation/is_same_as|is_same_as]]"
+  - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
+  - "[[../../Data_Type/Text/Url|Url]]"
+dv_has_parent_class:
+  - "[[../structured_value|../structured_value]]"
 dv_has_child_class:
   - "[[Geo_Shape/Geo_Circle|Geo_Circle]]"
 dv_has_properties:
@@ -66,13 +86,13 @@ dv_has_properties:
   - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
   - "[[../../Data_Type/Text/Url|Url]]"
 dv_is_same_as:
-- "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape|Geo_Shape]]"
-- "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape.public|Geo_Shape.public]]"
-- "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape.internal|Geo_Shape.internal]]"
-- "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape.protect|Geo_Shape.protect]]"
-- "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape.private|Geo_Shape.private]]"
-- "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape.personal|Geo_Shape.personal]]"
-- "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape.secret|Geo_Shape.secret]]"
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape|Geo_Shape]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape.public|Geo_Shape.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape.internal|Geo_Shape.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape.protect|Geo_Shape.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape.private|Geo_Shape.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape.personal|Geo_Shape.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Geo_Shape.secret|Geo_Shape.secret]]"
 ---
 
 Class of all geo_shapes.

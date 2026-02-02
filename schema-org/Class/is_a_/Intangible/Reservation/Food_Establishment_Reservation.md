@@ -35,12 +35,37 @@ dv_is_:
   - "[[/_personal/schema-org/Class/is_a_/Intangible/Reservation/Food_Establishment_Reservation.personal|Food_Establishment_Reservation.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Reservation/Food_Establishment_Reservation.secret|Food_Establishment_Reservation.secret]]"
 dv_has_:
-  parent_class: "[[../Reservation]]"
-  properties: '[ additionalType, alternateName, bookingAgent, bookingTime, broker,
-    description, disambiguatingDescription, endTime, identifier, image, mainEntityOfPage,
-    modifiedTime, name, partySize, potentialAction, priceCurrency, programMembershipUsed,
-    provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs,
-    startTime, subjectOf, totalPrice, underName, url ]'
+  parent_class:
+  - "[[../Reservation]]"
+  properties:
+  - "[[additional_type|additional_type]]"
+  - "[[alternate_name|alternate_name]]"
+  - "[[booking_agent|booking_agent]]"
+  - "[[booking_time|booking_time]]"
+  - "[[../../../../Relation/has/has_broker|has_broker]]"
+  - "[[../../../../Property/Texts/has_description|has_description]]"
+  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[end_time|end_time]]"
+  - "[[../../../../Relation/has/has_identifier|has_identifier]]"
+  - "[[../../../../Relation/has/has_image|has_image]]"
+  - "[[../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+  - "[[modified_time|modified_time]]"
+  - "[[../../../../Property/has_name|has_name]]"
+  - "[[party_size|party_size]]"
+  - "[[../../../../Relation/has/has_potential_action|has_potential_action]]"
+  - "[[../../../../Property/Texts/has_price_currency|has_price_currency]]"
+  - "[[../../../../Relation/has/has_program_membership_used|has_program_membership_used]]"
+  - "[[../../../../Relation/has/has_provider|has_provider]]"
+  - "[[../../../../Relation/has/has_reservation_for|has_reservation_for]]"
+  - "[[reservation_id|reservation_id]]"
+  - "[[../../../../Relation/has/has_reservation_status|has_reservation_status]]"
+  - "[[../../../../Relation/has/has_reserved_ticket|has_reserved_ticket]]"
+  - "[[../../../../Relation/is_same_as|is_same_as]]"
+  - "[[start_time|start_time]]"
+  - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
+  - "[[total_price|total_price]]"
+  - "[[../../../../Relation/has/has_under_name|has_under_name]]"
+  - "[[../../Data_Type/Text/Url|Url]]"
 dv_has_parent_class:
   - "[[../Reservation]]"
 dv_has_properties:
@@ -73,13 +98,13 @@ dv_has_properties:
   - "[[../../../../Relation/has/has_under_name|has_under_name]]"
   - "[[../../Data_Type/Text/Url|Url]]"
 dv_is_same_as:
-- "[[/_Standards/schema-org/Class/is_a_/Intangible/Reservation/Food_Establishment_Reservation|Food_Establishment_Reservation]]"
-- "[[/_public/schema-org/Class/is_a_/Intangible/Reservation/Food_Establishment_Reservation.public|Food_Establishment_Reservation.public]]"
-- "[[/_internal/schema-org/Class/is_a_/Intangible/Reservation/Food_Establishment_Reservation.internal|Food_Establishment_Reservation.internal]]"
-- "[[/_protect/schema-org/Class/is_a_/Intangible/Reservation/Food_Establishment_Reservation.protect|Food_Establishment_Reservation.protect]]"
-- "[[/_private/schema-org/Class/is_a_/Intangible/Reservation/Food_Establishment_Reservation.private|Food_Establishment_Reservation.private]]"
-- "[[/_personal/schema-org/Class/is_a_/Intangible/Reservation/Food_Establishment_Reservation.personal|Food_Establishment_Reservation.personal]]"
-- "[[/_secret/schema-org/Class/is_a_/Intangible/Reservation/Food_Establishment_Reservation.secret|Food_Establishment_Reservation.secret]]"
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Reservation/Food_Establishment_Reservation|Food_Establishment_Reservation]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Reservation/Food_Establishment_Reservation.public|Food_Establishment_Reservation.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Reservation/Food_Establishment_Reservation.internal|Food_Establishment_Reservation.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Reservation/Food_Establishment_Reservation.protect|Food_Establishment_Reservation.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Reservation/Food_Establishment_Reservation.private|Food_Establishment_Reservation.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Reservation/Food_Establishment_Reservation.personal|Food_Establishment_Reservation.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Reservation/Food_Establishment_Reservation.secret|Food_Establishment_Reservation.secret]]"
 ---
 
 Class of all food_establishment_reservations.

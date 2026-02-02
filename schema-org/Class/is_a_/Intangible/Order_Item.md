@@ -35,10 +35,26 @@ dv_is_:
   - "[[/_personal/schema-org/Class/is_a_/Intangible/Order_Item.personal|Order_Item.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Order_Item.secret|Order_Item.secret]]"
 dv_has_:
-  parent_class: "[[../Intangible]]"
-  properties: '[ additionalType, alternateName, description, disambiguatingDescription,
-    identifier, image, mainEntityOfPage, name, orderDelivery, orderItemNumber, orderItemStatus,
-    orderQuantity, orderedItem, potentialAction, sameAs, subjectOf, url ]'
+  parent_class:
+  - "[[../Intangible]]"
+  properties:
+  - "[[additional_type|additional_type]]"
+  - "[[alternate_name|alternate_name]]"
+  - "[[../../../Property/Texts/has_description|has_description]]"
+  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[../../../Relation/has/has_identifier|has_identifier]]"
+  - "[[../../../Relation/has/has_image|has_image]]"
+  - "[[../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+  - "[[../../../Property/has_name|has_name]]"
+  - "[[../../../Relation/has/has_order/has_order_delivery|has_order_delivery]]"
+  - "[[order_item_number|order_item_number]]"
+  - "[[../../../Relation/has/has_order/has_order_item_status|has_order_item_status]]"
+  - "[[order_quantity|order_quantity]]"
+  - "[[ordered_item|ordered_item]]"
+  - "[[../../../Relation/has/has_potential_action|has_potential_action]]"
+  - "[[../../../Relation/is_same_as|is_same_as]]"
+  - "[[../../../Relation/is/is_subject_of|is_subject_of]]"
+  - "[[../Data_Type/Text/Url|Url]]"
 dv_has_parent_class:
   - "[[../Intangible]]"
 dv_has_properties:
@@ -60,13 +76,13 @@ dv_has_properties:
   - "[[../../../Relation/is/is_subject_of|is_subject_of]]"
   - "[[../Data_Type/Text/Url|Url]]"
 dv_is_same_as:
-- "[[/_Standards/schema-org/Class/is_a_/Intangible/Order_Item|Order_Item]]"
-- "[[/_public/schema-org/Class/is_a_/Intangible/Order_Item.public|Order_Item.public]]"
-- "[[/_internal/schema-org/Class/is_a_/Intangible/Order_Item.internal|Order_Item.internal]]"
-- "[[/_protect/schema-org/Class/is_a_/Intangible/Order_Item.protect|Order_Item.protect]]"
-- "[[/_private/schema-org/Class/is_a_/Intangible/Order_Item.private|Order_Item.private]]"
-- "[[/_personal/schema-org/Class/is_a_/Intangible/Order_Item.personal|Order_Item.personal]]"
-- "[[/_secret/schema-org/Class/is_a_/Intangible/Order_Item.secret|Order_Item.secret]]"
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Order_Item|Order_Item]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Order_Item.public|Order_Item.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Order_Item.internal|Order_Item.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Order_Item.protect|Order_Item.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Order_Item.private|Order_Item.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Order_Item.personal|Order_Item.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Order_Item.secret|Order_Item.secret]]"
 ---
 
 Class of all order_items.

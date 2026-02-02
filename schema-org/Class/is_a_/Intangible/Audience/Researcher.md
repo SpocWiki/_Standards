@@ -33,10 +33,23 @@ dv_is_:
   - "[[/_personal/schema-org/Class/is_a_/Intangible/Audience/Researcher.personal|Researcher.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Audience/Researcher.secret|Researcher.secret]]"
 dv_has_:
-  parent_class: "[[../Audience]]"
-  properties: '[ additionalType, alternateName, audienceType, description, disambiguatingDescription,
-    geographicArea, identifier, image, mainEntityOfPage, name, potentialAction, sameAs,
-    subjectOf, url ]'
+  parent_class:
+  - "[[../Audience]]"
+  properties:
+  - "[[additional_type|additional_type]]"
+  - "[[alternate_name|alternate_name]]"
+  - "[[../../../../Property/Texts/has_audience_type|has_audience_type]]"
+  - "[[../../../../Property/Texts/has_description|has_description]]"
+  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[../../../../Relation/has/has_geographic_area|has_geographic_area]]"
+  - "[[../../../../Relation/has/has_identifier|has_identifier]]"
+  - "[[../../../../Relation/has/has_image|has_image]]"
+  - "[[../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+  - "[[../../../../Property/has_name|has_name]]"
+  - "[[../../../../Relation/has/has_potential_action|has_potential_action]]"
+  - "[[../../../../Relation/is_same_as|is_same_as]]"
+  - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
+  - "[[../../Data_Type/Text/Url|Url]]"
 dv_has_parent_class:
   - "[[../Audience]]"
 dv_has_properties:
@@ -55,13 +68,13 @@ dv_has_properties:
   - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
   - "[[../../Data_Type/Text/Url|Url]]"
 dv_is_same_as:
-- "[[/_Standards/schema-org/Class/is_a_/Intangible/Audience/Researcher|Researcher]]"
-- "[[/_public/schema-org/Class/is_a_/Intangible/Audience/Researcher.public|Researcher.public]]"
-- "[[/_internal/schema-org/Class/is_a_/Intangible/Audience/Researcher.internal|Researcher.internal]]"
-- "[[/_protect/schema-org/Class/is_a_/Intangible/Audience/Researcher.protect|Researcher.protect]]"
-- "[[/_private/schema-org/Class/is_a_/Intangible/Audience/Researcher.private|Researcher.private]]"
-- "[[/_personal/schema-org/Class/is_a_/Intangible/Audience/Researcher.personal|Researcher.personal]]"
-- "[[/_secret/schema-org/Class/is_a_/Intangible/Audience/Researcher.secret|Researcher.secret]]"
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Audience/Researcher|Researcher]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Audience/Researcher.public|Researcher.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Audience/Researcher.internal|Researcher.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Audience/Researcher.protect|Researcher.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Audience/Researcher.private|Researcher.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Audience/Researcher.personal|Researcher.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Audience/Researcher.secret|Researcher.secret]]"
 ---
 
 Class of all researchers.

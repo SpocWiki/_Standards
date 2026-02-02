@@ -37,9 +37,23 @@ dv_is_:
   - "[[/_personal/schema-org/Class/is_a_/Intangible/Grant/Monetary_Grant.personal|Monetary_Grant.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Grant/Monetary_Grant.secret|Monetary_Grant.secret]]"
 dv_has_:
-  properties: '[ additionalType, alternateName, amount, description, disambiguatingDescription,
-    fundedItem, funder, identifier, image, mainEntityOfPage, name, potentialAction,
-    sameAs, sponsor, subjectOf, url ]'
+  properties:
+  - "[[additional_type|additional_type]]"
+  - "[[alternate_name|alternate_name]]"
+  - "[[amount|amount]]"
+  - "[[../../../../Property/Texts/has_description|has_description]]"
+  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[funded_item|funded_item]]"
+  - "[[../../../../Relation/has/has_funder|has_funder]]"
+  - "[[../../../../Relation/has/has_identifier|has_identifier]]"
+  - "[[../../../../Relation/has/has_image|has_image]]"
+  - "[[../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+  - "[[../../../../Property/has_name|has_name]]"
+  - "[[../../../../Relation/has/has_potential_action|has_potential_action]]"
+  - "[[../../../../Relation/is_same_as|is_same_as]]"
+  - "[[../../../../Relation/has/has_sponsor|has_sponsor]]"
+  - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
+  - "[[../../Data_Type/Text/Url|Url]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class:
   - "[[../Grant]]"
@@ -61,13 +75,13 @@ dv_has_properties:
   - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
   - "[[../../Data_Type/Text/Url|Url]]"
 dv_is_same_as:
-- "[[/_Standards/schema-org/Class/is_a_/Intangible/Grant/Monetary_Grant|Monetary_Grant]]"
-- "[[/_public/schema-org/Class/is_a_/Intangible/Grant/Monetary_Grant.public|Monetary_Grant.public]]"
-- "[[/_internal/schema-org/Class/is_a_/Intangible/Grant/Monetary_Grant.internal|Monetary_Grant.internal]]"
-- "[[/_protect/schema-org/Class/is_a_/Intangible/Grant/Monetary_Grant.protect|Monetary_Grant.protect]]"
-- "[[/_private/schema-org/Class/is_a_/Intangible/Grant/Monetary_Grant.private|Monetary_Grant.private]]"
-- "[[/_personal/schema-org/Class/is_a_/Intangible/Grant/Monetary_Grant.personal|Monetary_Grant.personal]]"
-- "[[/_secret/schema-org/Class/is_a_/Intangible/Grant/Monetary_Grant.secret|Monetary_Grant.secret]]"
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Grant/Monetary_Grant|Monetary_Grant]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Grant/Monetary_Grant.public|Monetary_Grant.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Grant/Monetary_Grant.internal|Monetary_Grant.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Grant/Monetary_Grant.protect|Monetary_Grant.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Grant/Monetary_Grant.private|Monetary_Grant.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Grant/Monetary_Grant.personal|Monetary_Grant.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Grant/Monetary_Grant.secret|Monetary_Grant.secret]]"
 ---
 
 Class of all monetary_grants.

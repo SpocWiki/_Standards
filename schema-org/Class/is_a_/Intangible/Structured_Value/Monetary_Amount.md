@@ -36,12 +36,29 @@ dv_is_:
   - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Monetary_Amount.personal|Monetary_Amount.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Monetary_Amount.secret|Monetary_Amount.secret]]"
 dv_has_:
-  parent_class: "[[../StructuredValue]]"
-  properties: '[ additionalType, alternateName, currency, description, disambiguatingDescription,
-    identifier, image, mainEntityOfPage, maxValue, minValue, name, potentialAction,
-    sameAs, subjectOf, url, validFrom, validThrough, value ]'
-dv_has_parent_class:
+  parent_class:
   - "[[../StructuredValue]]"
+  properties:
+  - "[[additional_type|additional_type]]"
+  - "[[alternate_name|alternate_name]]"
+  - "[[../../../../Property/Texts/has_currency|has_currency]]"
+  - "[[../../../../Property/Texts/has_description|has_description]]"
+  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[../../../../Relation/has/has_identifier|has_identifier]]"
+  - "[[../../../../Relation/has/has_image|has_image]]"
+  - "[[../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+  - "[[max_value|max_value]]"
+  - "[[min_value|min_value]]"
+  - "[[../../../../Property/has_name|has_name]]"
+  - "[[../../../../Relation/has/has_potential_action|has_potential_action]]"
+  - "[[../../../../Relation/is_same_as|is_same_as]]"
+  - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
+  - "[[../../Data_Type/Text/Url|Url]]"
+  - "[[valid_from|valid_from]]"
+  - "[[valid_through|valid_through]]"
+  - "[[value|value]]"
+dv_has_parent_class:
+  - "[[../structured_value|../structured_value]]"
 dv_has_properties:
   - "[[additional_type|additional_type]]"
   - "[[alternate_name|alternate_name]]"
@@ -62,13 +79,13 @@ dv_has_properties:
   - "[[valid_through|valid_through]]"
   - "[[value|value]]"
 dv_is_same_as:
-- "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Monetary_Amount|Monetary_Amount]]"
-- "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Monetary_Amount.public|Monetary_Amount.public]]"
-- "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Monetary_Amount.internal|Monetary_Amount.internal]]"
-- "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Monetary_Amount.protect|Monetary_Amount.protect]]"
-- "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Monetary_Amount.private|Monetary_Amount.private]]"
-- "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Monetary_Amount.personal|Monetary_Amount.personal]]"
-- "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Monetary_Amount.secret|Monetary_Amount.secret]]"
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Monetary_Amount|Monetary_Amount]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Monetary_Amount.public|Monetary_Amount.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Monetary_Amount.internal|Monetary_Amount.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Monetary_Amount.protect|Monetary_Amount.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Monetary_Amount.private|Monetary_Amount.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Monetary_Amount.personal|Monetary_Amount.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Monetary_Amount.secret|Monetary_Amount.secret]]"
 ---
 
 Class of all [[monetary_amount]]-Values.

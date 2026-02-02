@@ -37,13 +37,29 @@ dv_is_:
   - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Interaction_Counter.personal|Interaction_Counter.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Interaction_Counter.secret|Interaction_Counter.secret]]"
 dv_has_:
-  parent_class: "[[../StructuredValue]]"
-  properties: '[ additionalType, alternateName, description, disambiguatingDescription,
-    endTime, identifier, image, interactionService, interactionType, location, mainEntityOfPage,
-    name, potentialAction, sameAs, startTime, subjectOf, url, userInteractionCount
-    ]'
-dv_has_parent_class:
+  parent_class:
   - "[[../StructuredValue]]"
+  properties:
+  - "[[additional_type|additional_type]]"
+  - "[[alternate_name|alternate_name]]"
+  - "[[../../../../Property/Texts/has_description|has_description]]"
+  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[end_time|end_time]]"
+  - "[[../../../../Relation/has/has_identifier|has_identifier]]"
+  - "[[../../../../Relation/has/has_image|has_image]]"
+  - "[[../../../../Relation/has/has_interaction/has_interaction_service|has_interaction_service]]"
+  - "[[../../../../Relation/has/has_interaction/has_interaction_type|has_interaction_type]]"
+  - "[[../../../../Property/has_location/has_location|has_location]]"
+  - "[[../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+  - "[[../../../../Property/has_name|has_name]]"
+  - "[[../../../../Relation/has/has_potential_action|has_potential_action]]"
+  - "[[../../../../Relation/is_same_as|is_same_as]]"
+  - "[[start_time|start_time]]"
+  - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
+  - "[[../../Data_Type/Text/Url|Url]]"
+  - "[[user_interaction_count|user_interaction_count]]"
+dv_has_parent_class:
+  - "[[../structured_value|../structured_value]]"
 dv_has_properties:
   - "[[additional_type|additional_type]]"
   - "[[alternate_name|alternate_name]]"
@@ -64,13 +80,13 @@ dv_has_properties:
   - "[[../../Data_Type/Text/Url|Url]]"
   - "[[user_interaction_count|user_interaction_count]]"
 dv_is_same_as:
-- "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Interaction_Counter|Interaction_Counter]]"
-- "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Interaction_Counter.public|Interaction_Counter.public]]"
-- "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Interaction_Counter.internal|Interaction_Counter.internal]]"
-- "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Interaction_Counter.protect|Interaction_Counter.protect]]"
-- "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Interaction_Counter.private|Interaction_Counter.private]]"
-- "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Interaction_Counter.personal|Interaction_Counter.personal]]"
-- "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Interaction_Counter.secret|Interaction_Counter.secret]]"
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Interaction_Counter|Interaction_Counter]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Interaction_Counter.public|Interaction_Counter.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Interaction_Counter.internal|Interaction_Counter.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Interaction_Counter.protect|Interaction_Counter.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Interaction_Counter.private|Interaction_Counter.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Interaction_Counter.personal|Interaction_Counter.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Interaction_Counter.secret|Interaction_Counter.secret]]"
 ---
 
 Class of all interaction_counters.

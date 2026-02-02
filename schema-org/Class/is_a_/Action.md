@@ -36,13 +36,48 @@ dv_is_:
   similar_to: "[[Activity]]"
 dv__has_parent_class: "[[../Thing|Thing]]"
 dv_has_:
-  child_class: '[ AchieveAction, AssessAction, ConsumeAction, ControlAction, CreateAction,
-    FindAction, InteractAction, MoveAction, OrganizeAction, PlayAction, SearchAction,
-    SeekToAction, SolveMathAction, TradeAction, TransferAction, UpdateAction ]'
-  properties: '[ actionStatus, additionalType, agent, alternateName, description,
-    disambiguatingDescription, endTime, error, identifier, image, instrument, location,
-    mainEntityOfPage, name, object, participant, potentialAction, provider, result,
-    sameAs, startTime, subjectOf, target, url ]'
+  child_class:
+  - "[[Action/Achieve_Action|Achieve_Action]]"
+  - "[[Action/Assess_Action|Assess_Action]]"
+  - "[[Action/Consume_Action|Consume_Action]]"
+  - "[[Action/Control_Action|Control_Action]]"
+  - "[[Action/Create_Action|Create_Action]]"
+  - "[[Action/Find_Action|Find_Action]]"
+  - "[[Action/Interact_Action|Interact_Action]]"
+  - "[[Action/Move_Action|Move_Action]]"
+  - "[[Action/Organize_Action|Organize_Action]]"
+  - "[[Action/Play_Action|Play_Action]]"
+  - "[[Action/Search_Action|Search_Action]]"
+  - "[[Action/Seek_to_Action|Seek_to_Action]]"
+  - "[[Action/Solve_Math_Action|Solve_Math_Action]]"
+  - "[[Action/Trade_Action|Trade_Action]]"
+  - "[[Action/Transfer_Action|Transfer_Action]]"
+  - "[[Action/Update_Action|Update_Action]]"
+  properties:
+  - "[[../../Relation/has/has_action/has_action_status|has_action_status]]"
+  - "[[additional_type|additional_type]]"
+  - "[[../../Relation/has/has_agent|has_agent]]"
+  - "[[alternate_name|alternate_name]]"
+  - "[[../../Property/Texts/has_description|has_description]]"
+  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[end_time|end_time]]"
+  - "[[../../Relation/has/has_error|has_error]]"
+  - "[[../../Relation/has/has_identifier|has_identifier]]"
+  - "[[../../Relation/has/has_image|has_image]]"
+  - "[[../../Relation/has/has_instrument|has_instrument]]"
+  - "[[../../Property/has_location/has_location|has_location]]"
+  - "[[../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+  - "[[../../Property/has_name|has_name]]"
+  - "[[../../Relation/has/has_object|has_object]]"
+  - "[[../../Relation/has/has_participant|has_participant]]"
+  - "[[../../Relation/has/has_potential_action|has_potential_action]]"
+  - "[[../../Relation/has/has_provider|has_provider]]"
+  - "[[../../Relation/has/has_result|has_result]]"
+  - "[[../../Relation/is_same_as|is_same_as]]"
+  - "[[start_time|start_time]]"
+  - "[[../../Relation/is/is_subject_of|is_subject_of]]"
+  - "[[../../Relation/has/has_target|has_target]]"
+  - "[[Data_Type/Text/Url|Url]]"
 dv_is_similar_to: "[[Activity]]"
 dv_has_child_class:
   - "[[Action/Achieve_Action|Achieve_Action]]"
@@ -87,13 +122,13 @@ dv_has_properties:
   - "[[../../Relation/has/has_target|has_target]]"
   - "[[Data_Type/Text/Url|Url]]"
 dv_is_same_as:
-- "[[/_Standards/schema-org/Class/is_a_/Action|Action]]"
-- "[[/_public/schema-org/Class/is_a_/Action.public|Action.public]]"
-- "[[/_internal/schema-org/Class/is_a_/Action.internal|Action.internal]]"
-- "[[/_protect/schema-org/Class/is_a_/Action.protect|Action.protect]]"
-- "[[/_private/schema-org/Class/is_a_/Action.private|Action.private]]"
-- "[[/_personal/schema-org/Class/is_a_/Action.personal|Action.personal]]"
-- "[[/_secret/schema-org/Class/is_a_/Action.secret|Action.secret]]"
+  - "[[/_Standards/schema-org/Class/is_a_/Action|Action]]"
+  - "[[/_public/schema-org/Class/is_a_/Action.public|Action.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Action.internal|Action.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Action.protect|Action.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Action.private|Action.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Action.personal|Action.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Action.secret|Action.secret]]"
 ---
 
 # [[Action]] 

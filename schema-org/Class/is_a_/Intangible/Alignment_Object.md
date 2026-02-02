@@ -35,10 +35,26 @@ dv_is_:
   - "[[/_personal/schema-org/Class/is_a_/Intangible/Alignment_Object.personal|Alignment_Object.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Alignment_Object.secret|Alignment_Object.secret]]"
 dv_has_:
-  parent_class: "[[../Intangible]]"
-  properties: '[ additionalType, alignmentType, alternateName, description, disambiguatingDescription,
-    educationalFramework, identifier, image, mainEntityOfPage, name, potentialAction,
-    sameAs, subjectOf, targetDescription, targetName, targetUrl, url ]'
+  parent_class:
+  - "[[../Intangible]]"
+  properties:
+  - "[[additional_type|additional_type]]"
+  - "[[../../../Property/Texts/has_alignment_type|has_alignment_type]]"
+  - "[[alternate_name|alternate_name]]"
+  - "[[../../../Property/Texts/has_description|has_description]]"
+  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[../../../Property/Texts/has_educational_framework|has_educational_framework]]"
+  - "[[../../../Relation/has/has_identifier|has_identifier]]"
+  - "[[../../../Relation/has/has_image|has_image]]"
+  - "[[../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+  - "[[../../../Property/has_name|has_name]]"
+  - "[[../../../Relation/has/has_potential_action|has_potential_action]]"
+  - "[[../../../Relation/is_same_as|is_same_as]]"
+  - "[[../../../Relation/is/is_subject_of|is_subject_of]]"
+  - "[[../../../Property/Texts/has_target_description|has_target_description]]"
+  - "[[target_name|target_name]]"
+  - "[[target_url|target_url]]"
+  - "[[../Data_Type/Text/Url|Url]]"
 dv_has_parent_class:
   - "[[../Intangible]]"
 dv_has_properties:
@@ -60,13 +76,13 @@ dv_has_properties:
   - "[[target_url|target_url]]"
   - "[[../Data_Type/Text/Url|Url]]"
 dv_is_same_as:
-- "[[/_Standards/schema-org/Class/is_a_/Intangible/Alignment_Object|Alignment_Object]]"
-- "[[/_public/schema-org/Class/is_a_/Intangible/Alignment_Object.public|Alignment_Object.public]]"
-- "[[/_internal/schema-org/Class/is_a_/Intangible/Alignment_Object.internal|Alignment_Object.internal]]"
-- "[[/_protect/schema-org/Class/is_a_/Intangible/Alignment_Object.protect|Alignment_Object.protect]]"
-- "[[/_private/schema-org/Class/is_a_/Intangible/Alignment_Object.private|Alignment_Object.private]]"
-- "[[/_personal/schema-org/Class/is_a_/Intangible/Alignment_Object.personal|Alignment_Object.personal]]"
-- "[[/_secret/schema-org/Class/is_a_/Intangible/Alignment_Object.secret|Alignment_Object.secret]]"
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Alignment_Object|Alignment_Object]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Alignment_Object.public|Alignment_Object.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Alignment_Object.internal|Alignment_Object.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Alignment_Object.protect|Alignment_Object.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Alignment_Object.private|Alignment_Object.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Alignment_Object.personal|Alignment_Object.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Alignment_Object.secret|Alignment_Object.secret]]"
 ---
 
 Class of all alignment_objects.

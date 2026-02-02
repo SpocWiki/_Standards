@@ -27,19 +27,19 @@ tags:
 title: is_a_number Class
 type: Type
 different_from:
-- "[[_Standards/WikiData/WD~Zahl,140598]]"
-- "[[_Standards/WikiData/WD~Number,4516286]]"
-- "[[_Standards/WikiData/WD~Tal,5576117]]"
-- "[[_Standards/WikiData/WD~Liczba,11755814]]"
+  - "[[_Standards/WikiData/WD~Zahl,140598]]"
+  - "[[_Standards/WikiData/WD~Number,4516286]]"
+  - "[[_Standards/WikiData/WD~Tal,5576117]]"
+  - "[[_Standards/WikiData/WD~Liczba,11755814]]"
 subclass_of: "[[_Standards/WikiData/WD~mathematical_object,246672]]"
 manifestation_of: "[[_Standards/WikiData/WD~quantity,309314]]"
 described_by_source:
-- "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-- "[[_Standards/WikiData/WD~The_Art_of_Computer_Programming,_Volume_1_Fundamental_Algorithms,_3rd_edition,47755251]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~The_Art_of_Computer_Programming,_Volume_1_Fundamental_Algorithms,_3rd_edition,47755251]]"
 said_to_be_the_same_as: "[[_Standards/WikiData/WD~scalar,1289248]]"
 part_of: "[[_Standards/WikiData/WD~set_of_numbers,3054943]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_Number_systems,6443303]]"
@@ -60,7 +60,9 @@ Stack_Exchange_tag: https://stackoverflow.com/tags/numbers
 Krugosvet_article_archived_: nauka_i_tehnika/matematika/CHISLO.html
 IMDb_keyword: number-in-title
 dv_has_:
-  child_class: '[ Float, Integer ]'
+  child_class:
+  - "[[Number/Float|Float]]"
+  - "[[Number/Integer|Integer]]"
 dv_is_:
   same_as:
   - "[[../../../../WikiData/WD~Number,11563|WD~Number,11563]]"
@@ -75,14 +77,14 @@ dv_has_child_class:
   - "[[Number/Float|Float]]"
   - "[[Number/Integer|Integer]]"
 dv_is_same_as:
-- "[[../../../../WikiData/WD~Number,11563|WD~Number,11563]]"
-- "[[/_Standards/schema-org/Class/is_a_/Data_Type/Number|Number]]"
-- "[[/_public/schema-org/Class/is_a_/Data_Type/Number.public|Number.public]]"
-- "[[/_internal/schema-org/Class/is_a_/Data_Type/Number.internal|Number.internal]]"
-- "[[/_protect/schema-org/Class/is_a_/Data_Type/Number.protect|Number.protect]]"
-- "[[/_private/schema-org/Class/is_a_/Data_Type/Number.private|Number.private]]"
-- "[[/_personal/schema-org/Class/is_a_/Data_Type/Number.personal|Number.personal]]"
-- "[[/_secret/schema-org/Class/is_a_/Data_Type/Number.secret|Number.secret]]"
+  - "[[../../../../WikiData/WD~Number,11563|WD~Number,11563]]"
+  - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Number|Number]]"
+  - "[[/_public/schema-org/Class/is_a_/Data_Type/Number.public|Number.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Data_Type/Number.internal|Number.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Data_Type/Number.protect|Number.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Data_Type/Number.private|Number.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Data_Type/Number.personal|Number.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Data_Type/Number.secret|Number.secret]]"
 ---
 
 # [[Number]] 

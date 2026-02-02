@@ -33,11 +33,24 @@ dv_is_:
   - "[[/_personal/schema-org/Class/is_a_/Intangible/Series.personal|Series.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Series.secret|Series.secret]]"
 dv_has_:
-  child_class: '[ CreativeWorkSeries, EventSeries ]'
-  parent_class: "[[../Intangible]]"
-  properties: '[ additionalType, alternateName, description, disambiguatingDescription,
-    identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf,
-    url ]'
+  child_class:
+  - "[[creative_work_series|creative_work_series]]"
+  - "[[../Event/Event_Series|Event_Series]]"
+  parent_class:
+  - "[[../Intangible]]"
+  properties:
+  - "[[additional_type|additional_type]]"
+  - "[[alternate_name|alternate_name]]"
+  - "[[../../../Property/Texts/has_description|has_description]]"
+  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[../../../Relation/has/has_identifier|has_identifier]]"
+  - "[[../../../Relation/has/has_image|has_image]]"
+  - "[[../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+  - "[[../../../Property/has_name|has_name]]"
+  - "[[../../../Relation/has/has_potential_action|has_potential_action]]"
+  - "[[../../../Relation/is_same_as|is_same_as]]"
+  - "[[../../../Relation/is/is_subject_of|is_subject_of]]"
+  - "[[../Data_Type/Text/Url|Url]]"
 dv_has_parent_class:
   - "[[../Intangible]]"
 dv_has_child_class:
@@ -57,13 +70,13 @@ dv_has_properties:
   - "[[../../../Relation/is/is_subject_of|is_subject_of]]"
   - "[[../Data_Type/Text/Url|Url]]"
 dv_is_same_as:
-- "[[/_Standards/schema-org/Class/is_a_/Intangible/Series|Series]]"
-- "[[/_public/schema-org/Class/is_a_/Intangible/Series.public|Series.public]]"
-- "[[/_internal/schema-org/Class/is_a_/Intangible/Series.internal|Series.internal]]"
-- "[[/_protect/schema-org/Class/is_a_/Intangible/Series.protect|Series.protect]]"
-- "[[/_private/schema-org/Class/is_a_/Intangible/Series.private|Series.private]]"
-- "[[/_personal/schema-org/Class/is_a_/Intangible/Series.personal|Series.personal]]"
-- "[[/_secret/schema-org/Class/is_a_/Intangible/Series.secret|Series.secret]]"
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Series|Series]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Series.public|Series.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Series.internal|Series.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Series.protect|Series.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Series.private|Series.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Series.personal|Series.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Series.secret|Series.secret]]"
 ---
 
 # [[Series]] 

@@ -35,12 +35,30 @@ dv_is_:
   - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution.personal|Monetary_Amount_Distribution.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution.secret|Monetary_Amount_Distribution.secret]]"
 dv_has_:
-  parent_class: "[[../QuantitativeValueDistribution]]"
-  properties: '[ additionalType, alternateName, currency, description, disambiguatingDescription,
-    duration, identifier, image, mainEntityOfPage, median, name, percentile10, percentile25,
-    percentile75, percentile90, potentialAction, sameAs, subjectOf, url ]'
-dv_has_parent_class:
+  parent_class:
   - "[[../QuantitativeValueDistribution]]"
+  properties:
+  - "[[additional_type|additional_type]]"
+  - "[[alternate_name|alternate_name]]"
+  - "[[../../../../../Property/Texts/has_currency|has_currency]]"
+  - "[[../../../../../Property/Texts/has_description|has_description]]"
+  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[../../../../../Predicate/Quantity/Duration|Duration]]"
+  - "[[../../../../../Relation/has/has_identifier|has_identifier]]"
+  - "[[../../../../../Relation/has/has_image|has_image]]"
+  - "[[../../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+  - "[[median|median]]"
+  - "[[../../../../../Property/has_name|has_name]]"
+  - "[[percentile10|percentile10]]"
+  - "[[percentile25|percentile25]]"
+  - "[[percentile75|percentile75]]"
+  - "[[percentile90|percentile90]]"
+  - "[[../../../../../Relation/has/has_potential_action|has_potential_action]]"
+  - "[[../../../../../Relation/is_same_as|is_same_as]]"
+  - "[[../../../../../Relation/is/is_subject_of|is_subject_of]]"
+  - "[[../../../Data_Type/Text/Url|Url]]"
+dv_has_parent_class:
+  - "[[../quantitative_value_distribution|../quantitative_value_distribution]]"
 dv_has_properties:
   - "[[additional_type|additional_type]]"
   - "[[alternate_name|alternate_name]]"
@@ -62,13 +80,13 @@ dv_has_properties:
   - "[[../../../../../Relation/is/is_subject_of|is_subject_of]]"
   - "[[../../../Data_Type/Text/Url|Url]]"
 dv_is_same_as:
-- "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution|Monetary_Amount_Distribution]]"
-- "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution.public|Monetary_Amount_Distribution.public]]"
-- "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution.internal|Monetary_Amount_Distribution.internal]]"
-- "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution.protect|Monetary_Amount_Distribution.protect]]"
-- "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution.private|Monetary_Amount_Distribution.private]]"
-- "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution.personal|Monetary_Amount_Distribution.personal]]"
-- "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution.secret|Monetary_Amount_Distribution.secret]]"
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution|Monetary_Amount_Distribution]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution.public|Monetary_Amount_Distribution.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution.internal|Monetary_Amount_Distribution.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution.protect|Monetary_Amount_Distribution.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution.private|Monetary_Amount_Distribution.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution.personal|Monetary_Amount_Distribution.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution.secret|Monetary_Amount_Distribution.secret]]"
 ---
 
 Class of all monetary_amount_distributions.

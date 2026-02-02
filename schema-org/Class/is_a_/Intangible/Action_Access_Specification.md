@@ -35,11 +35,28 @@ dv_is_:
   - "[[/_personal/schema-org/Class/is_a_/Intangible/Action_Access_Specification.personal|Action_Access_Specification.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Action_Access_Specification.secret|Action_Access_Specification.secret]]"
 dv_has_:
-  parent_class: "[[../Intangible]]"
-  properties: '[ additionalType, alternateName, availabilityEnds, availabilityStarts,
-    category, description, disambiguatingDescription, eligibleRegion, expectsAcceptanceOf,
-    identifier, image, ineligibleRegion, mainEntityOfPage, name, potentialAction,
-    requiresSubscription, sameAs, subjectOf, url ]'
+  parent_class:
+  - "[[../Intangible]]"
+  properties:
+  - "[[additional_type|additional_type]]"
+  - "[[alternate_name|alternate_name]]"
+  - "[[availability_ends|availability_ends]]"
+  - "[[availability_starts|availability_starts]]"
+  - "[[../../../Relation/has/has_category|has_category]]"
+  - "[[../../../Property/Texts/has_description|has_description]]"
+  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[eligible_region|eligible_region]]"
+  - "[[expects_acceptance_of|expects_acceptance_of]]"
+  - "[[../../../Relation/has/has_identifier|has_identifier]]"
+  - "[[../../../Relation/has/has_image|has_image]]"
+  - "[[ineligible_region|ineligible_region]]"
+  - "[[../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+  - "[[../../../Property/has_name|has_name]]"
+  - "[[../../../Relation/has/has_potential_action|has_potential_action]]"
+  - "[[requires_subscription|requires_subscription]]"
+  - "[[../../../Relation/is_same_as|is_same_as]]"
+  - "[[../../../Relation/is/is_subject_of|is_subject_of]]"
+  - "[[../Data_Type/Text/Url|Url]]"
 dv_has_parent_class:
   - "[[../Intangible]]"
 dv_has_properties:
@@ -63,13 +80,13 @@ dv_has_properties:
   - "[[../../../Relation/is/is_subject_of|is_subject_of]]"
   - "[[../Data_Type/Text/Url|Url]]"
 dv_is_same_as:
-- "[[/_Standards/schema-org/Class/is_a_/Intangible/Action_Access_Specification|Action_Access_Specification]]"
-- "[[/_public/schema-org/Class/is_a_/Intangible/Action_Access_Specification.public|Action_Access_Specification.public]]"
-- "[[/_internal/schema-org/Class/is_a_/Intangible/Action_Access_Specification.internal|Action_Access_Specification.internal]]"
-- "[[/_protect/schema-org/Class/is_a_/Intangible/Action_Access_Specification.protect|Action_Access_Specification.protect]]"
-- "[[/_private/schema-org/Class/is_a_/Intangible/Action_Access_Specification.private|Action_Access_Specification.private]]"
-- "[[/_personal/schema-org/Class/is_a_/Intangible/Action_Access_Specification.personal|Action_Access_Specification.personal]]"
-- "[[/_secret/schema-org/Class/is_a_/Intangible/Action_Access_Specification.secret|Action_Access_Specification.secret]]"
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Action_Access_Specification|Action_Access_Specification]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Action_Access_Specification.public|Action_Access_Specification.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Action_Access_Specification.internal|Action_Access_Specification.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Action_Access_Specification.protect|Action_Access_Specification.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Action_Access_Specification.private|Action_Access_Specification.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Action_Access_Specification.personal|Action_Access_Specification.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Action_Access_Specification.secret|Action_Access_Specification.secret]]"
 ---
 
 Class of all action_access_specifications.
