@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_value_reference]]"
@@ -61,9 +61,20 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_value_reference.private|has_value_reference.private]]"
     - "[[/_personal/schema-org/Relation/has/has_value_reference.personal|has_value_reference.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_value_reference.secret|has_value_reference.secret]]"
-dv_has_domain: PropertyValue, QualitativeValue, QuantitativeValue
+dv_has_domain:
+  - "PropertyValue"
+  - "[[../../Enumeration/Qualitative_Value|Qualitative_Value]]"
+  - "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
 dv_has_name: is_value_reference
-dv_has_range: DefinedTerm, Enumeration, MeasurementTypeEnumeration, PropertyValue, QualitativeValue, QuantitativeValue, StructuredValue, Text
+dv_has_range:
+  - "[[../../Class/is_a_/Intangible/Defined_Term|Defined_Term]]"
+  - "[[../../Enumeration|Enumeration]]"
+  - "[[../../Enumeration/Measurement_Type_Enumeration|Measurement_Type_Enumeration]]"
+  - "PropertyValue"
+  - "[[../../Enumeration/Qualitative_Value|Qualitative_Value]]"
+  - "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
+  - "[[../../Class/is_a_/Intangible/Structured_Value|Structured_Value]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_value_reference|has_value_reference]]"
   - "[[/_public/schema-org/Relation/has/has_value_reference.public|has_value_reference.public]]"

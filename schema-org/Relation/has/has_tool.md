@@ -1,4 +1,4 @@
----
+﻿---
 dv_has_:
   tool: HowToTool, Text
   domain: HowTo, HowToDirection
@@ -16,9 +16,13 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_tool.private|has_tool.private]]"
     - "[[/_personal/schema-org/Relation/has/has_tool.personal|has_tool.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_tool.secret|has_tool.secret]]"
-dv_has_domain: HowTo, HowToDirection
+dv_has_domain:
+  - "[[../../../Society/Communication/Media/Creative_Work/How_to|How_to]]"
+  - "[[../../../Society/Communication/Media/Creative_Work/How_to/How_to_Direction|How_to_Direction]]"
 dv_has_name: is_tool
-dv_has_range: HowToTool, Text
+dv_has_range:
+  - "[[../../Collection/list_item/how_to_item/how_to_tool|how_to_tool]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_has_parent_property: instrument
 dv_is_same_as:
   - "[[has_tool]]"

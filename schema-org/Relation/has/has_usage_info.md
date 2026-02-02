@@ -17,9 +17,11 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_usage_info.private|has_usage_info.private]]"
     - "[[/_personal/schema-org/Relation/has/has_usage_info.personal|has_usage_info.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_usage_info.secret|has_usage_info.secret]]"
-dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Communication/Media/Creative_Work|CreativeWork]]"
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
 dv_has_name: is_usage_info
-dv_has_range: CreativeWork, URL
+dv_has_range:
+  - "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
+  - "[[../../Class/is_a_/Data_Type/Text/Url|Url]]"
 dv_has_child_property: "[ acquireLicensePage ]"
 dv_is_same_as:
   - "[[has_usage_info]]"

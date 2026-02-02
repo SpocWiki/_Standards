@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_video]]"
@@ -57,9 +57,11 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_video.private|has_video.private]]"
     - "[[/_personal/schema-org/Relation/has/has_video.personal|has_video.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_video.secret|has_video.secret]]"
-dv_has_domain: CreativeWork
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
 dv_has_name: is_video
-dv_has_range: Clip, VideoObject
+dv_has_range:
+  - "[[../../../Society/Communication/Media/Creative_Work/Clip|Clip]]"
+  - "[[../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Video_Object|Video_Object]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_video|has_video]]"
   - "[[/_public/schema-org/Relation/has/has_video.public|has_video.public]]"

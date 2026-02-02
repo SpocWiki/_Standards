@@ -57,7 +57,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_xpath.private|has_xpath.private]]"
     - "[[/_personal/schema-org/Relation/has/has_xpath.personal|has_xpath.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_xpath.secret|has_xpath.secret]]"
-dv_has_domain: SpeakableSpecification, WebPageElement
+dv_has_domain:
+  - "[[../../Class/is_a_/Intangible/Speakable_Specification|Speakable_Specification]]"
+  - "[[../../../Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element|Web_Page_Element]]"
 dv_has_name: is_xpath
 dv_has_range: "[[../../Class/is_a_/Data_Type/Text/X_Path_Type|XPathType]]"
 dv_is_same_as:

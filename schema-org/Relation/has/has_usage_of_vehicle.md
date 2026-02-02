@@ -1,4 +1,4 @@
----
+﻿---
 dv_has_:
   usage_:
     of_vehicle: "[[../../Enumeration/Car_Usage_Type|CarUsageType]], Text"
@@ -19,7 +19,9 @@ dv_is_:
 dv_is_part_of: https://auto.schema.org
 dv_has_domain: "[[../../../Technology/Transport/Vehicle|Vehicle]]"
 dv_has_name: has_usage_of_vehicle
-dv_has_range: CarUsageType, Text
+dv_has_range:
+  - "[[../../Enumeration/Car_Usage_Type|Car_Usage_Type]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_same_as:
   - "[[has_usage_of_vehicle|has_vehicle_special_usage]]"
   - "[[/_public/schema-org/Relation/has/has_usage_of_vehicle.public|has_usage_of_vehicle.public]]"

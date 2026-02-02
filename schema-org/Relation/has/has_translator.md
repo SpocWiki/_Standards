@@ -17,7 +17,7 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/has/has_translator.personal|has_translator.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_translator.secret|has_translator.secret]]"
 ---
-﻿---
+?---
 aliases:
   - has translator
   - has_translator

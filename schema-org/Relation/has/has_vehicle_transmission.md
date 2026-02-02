@@ -1,23 +1,4 @@
-﻿---
-dv_is_:
-  same_as:
-    - "[[has_vehicle_transmission]]"
-    - "[[/_public/schema-org/Relation/has/has_vehicle_transmission.public|has_vehicle_transmission.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_vehicle_transmission.internal|has_vehicle_transmission.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_vehicle_transmission.protect|has_vehicle_transmission.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_vehicle_transmission.private|has_vehicle_transmission.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_vehicle_transmission.personal|has_vehicle_transmission.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_vehicle_transmission.secret|has_vehicle_transmission.secret]]"
-dv_is_same_as:
-  - "[[has_vehicle_transmission]]"
-  - "[[/_public/schema-org/Relation/has/has_vehicle_transmission.public|has_vehicle_transmission.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_vehicle_transmission.internal|has_vehicle_transmission.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_vehicle_transmission.protect|has_vehicle_transmission.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_vehicle_transmission.private|has_vehicle_transmission.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_vehicle_transmission.personal|has_vehicle_transmission.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_vehicle_transmission.secret|has_vehicle_transmission.secret]]"
 ---
-﻿---
 aliases:
   - has vehicle-transmission
   - vehicleTransmission
@@ -50,8 +31,8 @@ dv_has_:
   domain: Vehicle
   name: is_vehicle_transmission
   range: QualitativeValue, Text, URL
-dv_has_vehicle_transmission: QualitativeValue, Text, URL
   inverse: [[is_vehicle_transmission_of]]
+dv_has_vehicle_transmission: QualitativeValue, Text, URL
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_vehicle_transmission|has_vehicle_transmission]]"
@@ -61,9 +42,12 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_vehicle_transmission.private|has_vehicle_transmission.private]]"
     - "[[/_personal/schema-org/Relation/has/has_vehicle_transmission.personal|has_vehicle_transmission.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_vehicle_transmission.secret|has_vehicle_transmission.secret]]"
-dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Technology/Transport/Vehicle|Vehicle]]"
+dv_has_domain: "[[../../../Technology/Transport/Vehicle|Vehicle]]"
 dv_has_name: is_vehicle_transmission
-dv_has_range: QualitativeValue, Text, URL
+dv_has_range:
+  - "[[../../Enumeration/Qualitative_Value|Qualitative_Value]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
+  - "[[../../Class/is_a_/Data_Type/Text/Url|Url]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_vehicle_transmission|has_vehicle_transmission]]"
   - "[[/_public/schema-org/Relation/has/has_vehicle_transmission.public|has_vehicle_transmission.public]]"

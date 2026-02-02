@@ -14,9 +14,11 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_variable_measured.private|has_variable_measured.private]]"
     - "[[/_personal/schema-org/Relation/has/has_variable_measured.personal|has_variable_measured.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_variable_measured.secret|has_variable_measured.secret]]"
-dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Communication/Media/Creative_Work/Dataset|Dataset]]"
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Dataset|Dataset]]"
 dv_has_name: is_variable_measured
-dv_has_range: PropertyValue, Text
+dv_has_range:
+  - "PropertyValue"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_same_as:
   - "[[has_variable_measured]]"
   - "[[/_public/schema-org/Relation/has/has_variable_measured.public|has_variable_measured.public]]"

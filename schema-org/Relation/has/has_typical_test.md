@@ -61,9 +61,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_typical_test.private|has_typical_test.private]]"
     - "[[/_personal/schema-org/Relation/has/has_typical_test.personal|has_typical_test.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_typical_test.secret|has_typical_test.secret]]"
-dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/bio/Medicine/Medical_Condition|MedicalCondition]]"
+dv_has_domain: "[[../../../bio/Medicine/Medical_Condition|Medical_Condition]]"
 dv_has_name: is_typical_test
-dv_has_range: "[[../../../D:/_Obsidian/SpocWeb/_Standards/bio/Medicine/Medical_Entity/Medical_Test|MedicalTest]]"
+dv_has_range: "[[../../../bio/Medicine/Medical_Entity/Medical_Test|Medical_Test]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_typical_test|has_typical_test]]"
   - "[[/_public/schema-org/Relation/has/has_typical_test.public|has_typical_test.public]]"

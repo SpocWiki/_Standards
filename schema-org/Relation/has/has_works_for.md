@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_works_for]]"
@@ -61,9 +61,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_works_for.private|has_works_for.private]]"
     - "[[/_personal/schema-org/Relation/has/has_works_for.personal|has_works_for.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_works_for.secret|has_works_for.secret]]"
-dv_has_domain: Person
+dv_has_domain: "[[../../../Society/Agent/Person|Person]]"
 dv_has_name: is_works_for
-dv_has_range: Organization
+dv_has_range: "[[../../../Society/Agent/Community/Organization|Organization]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_works_for|has_works_for]]"
   - "[[/_public/schema-org/Relation/has/has_works_for.public|has_works_for.public]]"

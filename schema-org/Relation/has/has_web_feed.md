@@ -1,4 +1,4 @@
----
+﻿---
 dv_has_:
   web_feed: DataFeed, URL
   domain: PodcastSeries, SpecialAnnouncement
@@ -14,9 +14,13 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_web_feed.private|has_web_feed.private]]"
     - "[[/_personal/schema-org/Relation/has/has_web_feed.personal|has_web_feed.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_web_feed.secret|has_web_feed.secret]]"
-dv_has_domain: PodcastSeries, SpecialAnnouncement
+dv_has_domain:
+  - "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Podcast_Series|Podcast_Series]]"
+  - "[[../../../Society/Communication/Media/Creative_Work/Special_Announcement|Special_Announcement]]"
 dv_has_name: is_web_feed
-dv_has_range: DataFeed, URL
+dv_has_range:
+  - "[[../../../Society/Communication/Media/Creative_Work/Dataset/Data_Feed|Data_Feed]]"
+  - "[[../../Class/is_a_/Data_Type/Text/Url|Url]]"
 dv_is_same_as:
   - "[[has_web_feed]]"
   - "[[/_public/schema-org/Relation/has/has_web_feed.public|has_web_feed.public]]"

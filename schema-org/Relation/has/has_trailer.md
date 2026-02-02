@@ -57,9 +57,17 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_trailer.private|has_trailer.private]]"
     - "[[/_personal/schema-org/Relation/has/has_trailer.personal|has_trailer.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_trailer.secret|has_trailer.secret]]"
-dv_has_domain: CreativeWorkSeason, Episode, Movie, MovieSeries, RadioSeries, TVSeries, VideoGame, VideoGameSeries
+dv_has_domain:
+  - "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Season|Creative_Work_Season]]"
+  - "[[../../../Society/Communication/Media/Creative_Work/Episode|Episode]]"
+  - "[[../../../Society/Communication/Media/Movie|Movie]]"
+  - "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Movie_Series|Movie_Series]]"
+  - "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Radio_Series|Radio_Series]]"
+  - "TVSeries"
+  - "[[../../../Society/Communication/Media/Creative_Work/Game/Video_Game|Video_Game]]"
+  - "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Video_Game_Series|Video_Game_Series]]"
 dv_has_name: is_trailer
-dv_has_range: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Video_Object|VideoObject]]"
+dv_has_range: "[[../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Video_Object|Video_Object]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_trailer|has_trailer]]"
   - "[[/_public/schema-org/Relation/has/has_trailer.public|has_trailer.public]]"

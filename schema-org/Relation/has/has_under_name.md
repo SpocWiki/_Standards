@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_under_name]]"
@@ -61,9 +61,13 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_under_name.private|has_under_name.private]]"
     - "[[/_personal/schema-org/Relation/has/has_under_name.personal|has_under_name.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_under_name.secret|has_under_name.secret]]"
-dv_has_domain: Reservation, Ticket
+dv_has_domain:
+  - "[[../../Class/is_a_/Intangible/Reservation|Reservation]]"
+  - "[[../../Class/is_a_/Intangible/Ticket|Ticket]]"
 dv_has_name: is_under_name
-dv_has_range: Organization, Person
+dv_has_range:
+  - "[[../../../Society/Agent/Community/Organization|Organization]]"
+  - "[[../../../Society/Agent/Person|Person]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_under_name|has_under_name]]"
   - "[[/_public/schema-org/Relation/has/has_under_name.public|has_under_name.public]]"

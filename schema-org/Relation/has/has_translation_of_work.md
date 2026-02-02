@@ -1,4 +1,4 @@
-﻿---
+---
 dv_has_:
   translation_of_work: CreativeWork
   domain: CreativeWork
@@ -14,9 +14,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_translation_of_work.private|has_translation_of_work.private]]"
     - "[[/_personal/schema-org/Relation/has/has_translation_of_work.personal|has_translation_of_work.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_translation_of_work.secret|has_translation_of_work.secret]]"
-dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Communication/Media/Creative_Work|CreativeWork]]"
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
 dv_has_name: is_translation_of_work
-dv_has_range: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Communication/Media/Creative_Work|CreativeWork]]"
+dv_has_range: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
 dv_is_same_as:
   - "[[has_translation_of_work]]"
   - "[[/_public/schema-org/Relation/has/has_translation_of_work.public|has_translation_of_work.public]]"
@@ -25,8 +25,6 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_translation_of_work.private|has_translation_of_work.private]]"
   - "[[/_personal/schema-org/Relation/has/has_translation_of_work.personal|has_translation_of_work.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_translation_of_work.secret|has_translation_of_work.secret]]"
----
-﻿---
 aliases:
   - has translation-of-work
   - translationOfWork
@@ -56,7 +54,7 @@ tags:
 title: has_translation_of_work
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: "[[is_translation_of_work_of]]"
+dv_has_inverse: "[[has_work/has_work_translation|has_work_translation]]"
 ---
 
 # [[has_translation_of_work]] 
@@ -68,17 +66,17 @@ is_a = `=this.dv_is_a`
 has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
-- #has_/translation_of_work :: CreativeWork  
-- has_translation_of_work = `=this.dv_has_translation_of_work`  
+- #has_/translation_of_work :: `=this.dv_has_range`  
+- has_translation_of_work = `=this.dv_has_range`  
 - is_translation_of_work_of : : `=this.dv_has_domain` 
 - #is_/translation_of_work_of : : `=this.dv_has_domain`
 
-The work that this work has been translated from. E.g. ???? is a translationOf �On the Origin of Species�.
+The work that this work has been translated from. 
+E.g. 物种起源 is a translationOf “On the Origin of Species”.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

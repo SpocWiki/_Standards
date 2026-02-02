@@ -58,7 +58,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_warranty.private|has_warranty.private]]"
     - "[[/_personal/schema-org/Relation/has/has_warranty.personal|has_warranty.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_warranty.secret|has_warranty.secret]]"
-dv_has_domain: Demand, Offer
+dv_has_domain:
+  - "[[../../../Society/Agent/Community/Organization/Business/Demand|Demand]]"
+  - "[[../../../Society/Agent/Community/Organization/Business/Offer|Offer]]"
 dv_has_name: is_warranty
 dv_has_range: "[[../../Class/is_a_/Intangible/Structured_Value/Warranty_Promise|WarrantyPromise]]"
 dv_is_same_as:

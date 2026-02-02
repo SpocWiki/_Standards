@@ -14,9 +14,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_toc_continuation.private|has_toc_continuation.private]]"
     - "[[/_personal/schema-org/Relation/has/has_toc_continuation.personal|has_toc_continuation.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_toc_continuation.secret|has_toc_continuation.secret]]"
-dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Communication/Media/Creative_Work/Hyper_Toc_Entry|HyperTocEntry]]"
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Hyper_Toc_Entry|Hyper_Toc_Entry]]"
 dv_has_name: is_toc_continuation
-dv_has_range: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Communication/Media/Creative_Work/Hyper_Toc_Entry|HyperTocEntry]]"
+dv_has_range: "[[../../../Society/Communication/Media/Creative_Work/Hyper_Toc_Entry|Hyper_Toc_Entry]]"
 dv_is_same_as:
   - "[[has_toc_continuation]]"
   - "[[/_public/schema-org/Relation/has/has_toc_continuation.public|has_toc_continuation.public]]"

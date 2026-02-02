@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_tourist_type]]"
@@ -61,9 +61,14 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_tourist_type.private|has_tourist_type.private]]"
     - "[[/_personal/schema-org/Relation/has/has_tourist_type.personal|has_tourist_type.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_tourist_type.secret|has_tourist_type.secret]]"
-dv_has_domain: TouristAttraction, TouristDestination, TouristTrip
+dv_has_domain:
+  - "[[../../../Earth/Geography/Place/Tourist_Attraction|Tourist_Attraction]]"
+  - "[[../../../Earth/Geography/Place/Tourist_Destination|Tourist_Destination]]"
+  - "[[../../Class/is_a_/Intangible/Trip/Tourist_Trip|Tourist_Trip]]"
 dv_has_name: is_tourist_type
-dv_has_range: Audience, Text
+dv_has_range:
+  - "[[../../Class/is_a_/Intangible/Audience|Audience]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_tourist_type|has_tourist_type]]"
   - "[[/_public/schema-org/Relation/has/has_tourist_type.public|has_tourist_type.public]]"

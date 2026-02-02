@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_workload]]"
@@ -57,9 +57,11 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_workload.private|has_workload.private]]"
     - "[[/_personal/schema-org/Relation/has/has_workload.personal|has_workload.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_workload.secret|has_workload.secret]]"
-dv_has_domain: ExercisePlan
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Exercise_Plan|Exercise_Plan]]"
 dv_has_name: is_workload
-dv_has_range: Energy, QuantitativeValue
+dv_has_range:
+  - "[[../../../Dimension/Energy|Energy]]"
+  - "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_workload|has_workload]]"
   - "[[/_public/schema-org/Relation/has/has_workload.public|has_workload.public]]"

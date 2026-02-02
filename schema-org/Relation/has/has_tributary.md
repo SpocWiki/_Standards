@@ -57,9 +57,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_tributary.private|has_tributary.private]]"
     - "[[/_personal/schema-org/Relation/has/has_tributary.personal|has_tributary.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_tributary.secret|has_tributary.secret]]"
-dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/bio/Medicine/Anatomy/Circulatory_System/Vein|Vein]]"
+dv_has_domain: "[[../../../bio/Medicine/Anatomy/Circulatory_System/Vein|Vein]]"
 dv_has_name: is_tributary
-dv_has_range: "[[../../../D:/_Obsidian/SpocWeb/_Standards/bio/Medicine/Anatomy/Anatomical_Structure|AnatomicalStructure]]"
+dv_has_range: "[[../../../bio/Medicine/Anatomy/Anatomical_Structure|Anatomical_Structure]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_tributary|has_tributary]]"
   - "[[/_public/schema-org/Relation/has/has_tributary.public|has_tributary.public]]"

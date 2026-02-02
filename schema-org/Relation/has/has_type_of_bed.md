@@ -64,7 +64,9 @@ dv_is_:
     - "[[/_secret/schema-org/Relation/has/has_type_of_bed.secret|has_type_of_bed.secret]]"
 dv_has_domain: "[[../../Class/is_a_/Intangible/Bed_Details|BedDetails]]"
 dv_has_name: is_type_of_bed
-dv_has_range: BedType, Text
+dv_has_range:
+  - "[[../../Enumeration/Qualitative_Value/Bed_Type|Bed_Type]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_type_of_bed|has_type_of_bed]]"
   - "[[/_public/schema-org/Relation/has/has_type_of_bed.public|has_type_of_bed.public]]"

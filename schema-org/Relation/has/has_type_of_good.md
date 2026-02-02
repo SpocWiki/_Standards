@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_type_of_good]]"
@@ -62,9 +62,13 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_type_of_good.private|has_type_of_good.private]]"
     - "[[/_personal/schema-org/Relation/has/has_type_of_good.personal|has_type_of_good.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_type_of_good.secret|has_type_of_good.secret]]"
-dv_has_domain: OwnershipInfo, TypeAndQuantityNode
+dv_has_domain:
+  - "[[../../Class/is_a_/Intangible/Structured_Value/Ownership_Info|Ownership_Info]]"
+  - "[[../../Class/is_a_/Intangible/Structured_Value/Type_and_Quantity_Node|Type_and_Quantity_Node]]"
 dv_has_name: is_type_of_good
-dv_has_range: Product, Service
+dv_has_range:
+  - "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]"
+  - "[[../../../Society/Agent/Community/Organization/Business/Service|Service]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_type_of_good|has_type_of_good]]"
   - "[[/_public/schema-org/Relation/has/has_type_of_good.public|has_type_of_good.public]]"

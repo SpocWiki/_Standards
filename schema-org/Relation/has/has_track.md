@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_track]]"
@@ -58,9 +58,13 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_track.private|has_track.private]]"
     - "[[/_personal/schema-org/Relation/has/has_track.personal|has_track.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_track.secret|has_track.secret]]"
-dv_has_domain: MusicGroup, MusicPlaylist
+dv_has_domain:
+  - "[[../../../Society/Agent/Community/Organization/Performing_Group/Music_Group|Music_Group]]"
+  - "[[../../../Society/Communication/Media/Creative_Work/Music_Playlist|Music_Playlist]]"
 dv_has_name: is_track
-dv_has_range: ItemList, MusicRecording
+dv_has_range:
+  - "[[../../Collection/item_list|item_list]]"
+  - "[[../../../Society/Communication/Media/Creative_Work/Music_Recording|Music_Recording]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_track|has_track]]"
   - "[[/_public/schema-org/Relation/has/has_track.public|has_track.public]]"
