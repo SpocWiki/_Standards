@@ -32,7 +32,7 @@ type: Predi_Relation
 
 Use it like this: 
 - #is_/published_by :: Organization, Person  
-- is_/published_by :: Organization, Person  
+- is_published_by :: Organization, Person  
 
 An agent associated with the publication event.
 

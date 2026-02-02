@@ -33,7 +33,7 @@ type: Predi_Relation
 
 Use it like this: 
 - #is_/in_code_set :: CategoryCodeSet, URL  
-- is_/in_code_set :: CategoryCodeSet, URL  
+- is_in_code_set :: CategoryCodeSet, URL  
 
 A [[CategoryCodeSet]] that contains this category code.
 

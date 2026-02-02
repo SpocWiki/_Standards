@@ -32,7 +32,7 @@ type: Predi_Relation
 
 Use it like this: 
 - #is_/recognized_by :: Organization  
-- is_/recognized_by :: Organization  
+- is_recognized_by :: Organization  
 
 An organization that acknowledges the validity, value or utility of a credential. Note: recognition may include a process of quality assurance or accreditation.
 

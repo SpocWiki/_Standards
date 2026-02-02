@@ -34,7 +34,7 @@ is_a :: [[../../Relation|Relation]]
 
 Use it like this: 
 - #is_/published_on :: BroadcastService 
-- is_/published_on :: BroadcastService 
+- is_published_on :: BroadcastService 
 
 A broadcast service associated with the publication event.
 

@@ -62,7 +62,7 @@ is_part_of = `=this.dv_is_part_of`
 
 Use it like this: 
 - #is_/holding_archive : : `=this.dv_has_range`  
-- is_/holding_archive : : `=this.dv_has_range`  
+- is_holding_archive : : `=this.dv_has_range`  
 - has_archive_of : : `=this.dv_has_domain` 
 - #has_/archive_of : : `=this.dv_has_domain` 
 

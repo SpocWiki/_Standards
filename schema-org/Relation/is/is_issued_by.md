@@ -36,7 +36,7 @@ is_a :: [[../../Relation|Relation]]
 
 Use it like this: 
 - #is_/issued_by :: Organization  
-- is_/issued_by :: Organization  
+- is_issued_by :: Organization  
 
 The organization issuing the ticket or permit.
 

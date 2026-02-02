@@ -36,7 +36,7 @@ is_a :: [[../../Relation|Relation]]
 
 Use it like this: 
 - #is_/recorded_at :: Event  
-- is_/recorded_at :: Event  
+- is_recorded_at :: Event  
 
 The Event where the CreativeWork was recorded. The CreativeWork may capture all or part of the event.
 

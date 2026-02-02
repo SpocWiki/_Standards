@@ -37,7 +37,7 @@ Inverse Relation of [[../has/has_work/has_work_example]] and .
 
 Use it like this: 
 - #is_/example_of_work :: CreativeWork  
-- is_/example_of_work :: CreativeWork  
+- is_example_of_work :: CreativeWork  
 
 Relation describes that: 
 

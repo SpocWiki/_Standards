@@ -35,7 +35,7 @@ is_a :: [[../../Relation|Relation]]
 
 Use it like this: 
 - #is_/knowing :: Person  
-- is_/knowing :: Person  
+- is_knowing :: Person  
 
 The most generic bi-directional social/work relation.
 

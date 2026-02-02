@@ -34,7 +34,7 @@ is_a :: [[../../Relation|Relation]]
 
 Use it like this: 
 - #is_/valid_in :: AdministrativeArea 
-- is_/valid_in :: AdministrativeArea 
+- is_valid_in :: AdministrativeArea 
 
 The geographic area where a permit or similar thing is valid.
 

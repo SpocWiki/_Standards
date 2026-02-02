@@ -30,14 +30,13 @@ type: Predi_Relation
 
 Use it like this: 
 - #is_/including_health_plan_network :: HealthPlanNetwork 
-- is_/including_health_plan_network :: HealthPlanNetwork 
+- is_including_health_plan_network :: HealthPlanNetwork 
 
 Networks covered by this plan.
 
 Relation describes that: 
 
-#has_/domain  :: HealthInsurancePlan 
-
+#has_/domain  :: [[../../Class/is_a_/Intangible/Health_Insurance_Plan|Health_Insurance_Plan]] 
 (has_/name :: is_including_health_plan_network)
 (has_/range :: HealthPlanNetwork)
 

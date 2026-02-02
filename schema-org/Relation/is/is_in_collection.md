@@ -36,7 +36,7 @@ is_a :: [[../../Relation|Relation]]
 
 Use it like this: 
 - #is_/in_collection :: [Thing](../../../Class/Thing)  
-- is_/in_collection :: [Thing](../../../Class/Thing)  
+- is_in_collection :: [Thing](../../../Class/Thing)  
 
 A sub property of object. The collection target of the action.
 

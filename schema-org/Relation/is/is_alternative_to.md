@@ -32,7 +32,7 @@ Another gene which is a variation of this one.
 
 Use it like this: 
 - #is_/alternative_to :: Gene  
-- is_/alternative_to :: Gene  
+- is_alternative_to :: Gene  
 
 Relation describes that: 
 

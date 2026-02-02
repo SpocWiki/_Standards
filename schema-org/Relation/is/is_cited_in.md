@@ -36,7 +36,7 @@ is_a :: [[../../Relation|Relation]]
 
 Use it like this: 
 - #is_/cited_in :: CreativeWork, Text  
-- is_/cited_in :: CreativeWork, Text  
+- is_cited_in :: CreativeWork, Text  
 
 A citation or reference to another creative work, such as another publication, web page, scholarly article, etc.
 

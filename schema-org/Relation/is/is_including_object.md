@@ -34,7 +34,7 @@ is_a :: [[../../Relation|Relation]]
 
 Use it like this: 
 - #is_/including_object :: TypeAndQuantityNode 
-- is_/including_object :: TypeAndQuantityNode 
+- is_including_object :: TypeAndQuantityNode 
 
 This links to a node or nodes indicating the exact quantity of the products included in  an [[../../../Society/Agent/Community/Organization/Business/Offer]] or [[ProductCollection]].
 

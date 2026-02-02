@@ -34,7 +34,7 @@ is_a :: [[../../Relation|Relation]]
 
 Use it like this: 
 - #is_/making_offer :: Offer 
-- is_/making_offer :: Offer 
+- is_making_offer :: Offer 
 
 A pointer to products or services offered by the organization or person.
 

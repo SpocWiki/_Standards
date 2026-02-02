@@ -30,7 +30,7 @@ type: Predi_Relation
 
 Use it like this: 
 - #is_/including_attraction :: TouristAttraction 
-- is_/including_attraction :: TouristAttraction 
+- is_including_attraction :: TouristAttraction 
 
 Attraction located at destination.
 

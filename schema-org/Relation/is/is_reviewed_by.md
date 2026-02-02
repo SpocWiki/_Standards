@@ -36,7 +36,7 @@ is_a :: [[../../Relation|Relation]]
 
 Use it like this: 
 - #is_/reviewed_by :: Organization, Person  
-- is_/reviewed_by :: Organization, Person  
+- is_reviewed_by :: Organization, Person  
 
 People or organizations that have reviewed the content on this web page for accuracy and/or completeness.
 

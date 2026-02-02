@@ -4,6 +4,7 @@ aliases:
   - subTrip
   - has_child_trip
   - has sub trip
+  - sub_trip
 confidential: public
 cssclasses:
   - Predicate

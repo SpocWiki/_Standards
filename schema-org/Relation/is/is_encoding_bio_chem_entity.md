@@ -30,7 +30,7 @@ type: Predi_Relation
 
 Use it like this: 
 - #is_/encoding_bio_chem_entity :: BioChemEntity 
-- is_/encoding_bio_chem_entity :: BioChemEntity 
+- is_encoding_bio_chem_entity :: BioChemEntity 
 
 Another BioChemEntity encoded by this one.
 

@@ -1,68 +1,68 @@
 ---
 aliases:
-- train-trip
-- train_trip
-- TrainTrip
-- is_a_train_trip
-- Train_Trip
-- Train Trip
+  - train-trip
+  - train_trip
+  - TrainTrip
+  - is_a_train_trip
+  - Train_Trip
+  - Train Trip
 confidential: public
 cssclasses:
-- Type
+  - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
-- train_trip
-layout: ''
+  - train_trip
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_train_trip Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
-- class/Class
-- schema-org/Class
+  - class/Class
+  - schema-org/Class
 title: is_a_train_trip Class
 type: Type
 dv_is_:
   same_as:
-  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Trip/Train_Trip|Train_Trip]]"
-  - "[[/_public/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.public|Train_Trip.public]]"
-  - "[[/_internal/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.internal|Train_Trip.internal]]"
-  - "[[/_protect/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.protect|Train_Trip.protect]]"
-  - "[[/_private/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.private|Train_Trip.private]]"
-  - "[[/_personal/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.personal|Train_Trip.personal]]"
-  - "[[/_secret/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.secret|Train_Trip.secret]]"
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Trip/Train_Trip|Train_Trip]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.public|Train_Trip.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.internal|Train_Trip.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.protect|Train_Trip.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.private|Train_Trip.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.personal|Train_Trip.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.secret|Train_Trip.secret]]"
 dv_has_:
   parent_class:
-  - "[[../Trip]]"
+    - "[[../Trip]]"
   properties:
-  - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
-  - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
-  - "[[../../../../Property/Texts/has_arrival_platform|has_arrival_platform]]"
-  - "[[../../../../Relation/has/has_arrival/has_arrival_station|has_arrival_station]]"
-  - "[[../../../../Property/has_Date_Time/has_time_of_arrival|has_time_of_arrival]]"
-  - "[[../../../../Property/Texts/has_departure_platform|has_departure_platform]]"
-  - "[[../../../../Relation/has/has_departure/has_departure_station|has_departure_station]]"
-  - "[[../../../../Property/has_Date_Time/has_time_to_depart|has_time_to_depart]]"
-  - "[[../../../../Property/Texts/has_description|has_description]]"
-  - "[[../../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
-  - "[[../../../../Relation/has/has_identifier|has_identifier]]"
-  - "[[../../../../Relation/has/has_image|has_image]]"
-  - "[[../../../../Relation/has/has_itinerary|has_itinerary]]"
-  - "[[../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
-  - "[[../../../../Property/has_name|has_name]]"
-  - "[[../../../../Relation/is/is_offering|is_offering]]"
-  - "[[../../../../Composite/is_part_of/is_part_of_trip|is_part_of_trip]]"
-  - "[[../../../../Relation/has/has_potential_action|has_potential_action]]"
-  - "[[../../../../Relation/has/has_provider|has_provider]]"
-  - "[[../../../../Relation/is_same_as|is_same_as]]"
-  - "[[../../../../Relation/has/has_child/has_child_trip|has_child_trip]]"
-  - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
-  - "[[../../../../Property/has_name/has_name_of_train|has_name_of_train]]"
-  - "[[../../../../Property/has_id/has_id_of_train|has_id_of_train]]"
-  - "[[../../../../Property/has_url_for/has_url|has_url]]"
+    - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
+    - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
+    - "[[../../../../Property/Texts/has_arrival_platform|has_arrival_platform]]"
+    - "[[../../../../Relation/has/has_arrival/has_arrival_station|has_arrival_station]]"
+    - "[[../../../../Property/has_Date_Time/has_time_of_arrival|has_time_of_arrival]]"
+    - "[[../../../../Property/Texts/has_departure_platform|has_departure_platform]]"
+    - "[[../../../../Relation/has/has_departure/has_departure_station|has_departure_station]]"
+    - "[[../../../../Property/has_Date_Time/has_time_to_depart|has_time_to_depart]]"
+    - "[[../../../../Property/Texts/has_description|has_description]]"
+    - "[[../../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
+    - "[[../../../../Relation/has/has_identifier|has_identifier]]"
+    - "[[../../../../Relation/has/has_image|has_image]]"
+    - "[[../../../../Relation/has/has_itinerary|has_itinerary]]"
+    - "[[../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+    - "[[../../../../Property/has_name|has_name]]"
+    - "[[../../../../Relation/is/is_item_offered_as|is_item_offered_as]]"
+    - "[[../../../../Composite/is_part_of/is_part_of_trip|is_part_of_trip]]"
+    - "[[../../../../Relation/has/has_potential_action|has_potential_action]]"
+    - "[[../../../../Relation/has/has_provider|has_provider]]"
+    - "[[../../../../Relation/is_same_as|is_same_as]]"
+    - "[[../../../../Relation/has/has_child/has_child_trip|has_child_trip]]"
+    - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
+    - "[[../../../../Property/has_name/has_name_of_train|has_name_of_train]]"
+    - "[[../../../../Property/has_id/has_id_of_train|has_id_of_train]]"
+    - "[[../../../../Property/has_url_for/has_url|has_url]]"
 dv_has_parent_class:
   - "[[../Trip]]"
 dv_has_properties:
@@ -81,7 +81,7 @@ dv_has_properties:
   - "[[../../../../Relation/has/has_itinerary|has_itinerary]]"
   - "[[../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
   - "[[../../../../Property/has_name|has_name]]"
-  - "[[../../../../Relation/is/is_offering|is_offering]]"
+  - "[[../../../../Relation/is/is_item_offered_as|is_item_offered_as]]"
   - "[[../../../../Composite/is_part_of/is_part_of_trip|is_part_of_trip]]"
   - "[[../../../../Relation/has/has_potential_action|has_potential_action]]"
   - "[[../../../../Relation/has/has_provider|has_provider]]"

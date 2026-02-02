@@ -78,7 +78,7 @@ has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
 - #is_/funding_item : : `=this.dv_has_range` 
-- is_/funding_item : : `=this.dv_has_range` 
+- is_funding_item : : `=this.dv_has_range` 
 - has_funding : : `=this.dv_has_domain`  
 - #has_/funding : : `=this.dv_has_domain`  
 

@@ -30,7 +30,7 @@ type: Predi_Relation
 
 Use it like this: 
 - #is_/involved_in_biological_process :: DefinedTerm, PropertyValue, URL 
-- is_/involved_in_biological_process :: DefinedTerm, PropertyValue, URL 
+- is_involved_in_biological_process :: DefinedTerm, PropertyValue, URL 
 
 Biological process this BioChemEntity is involved in; please use PropertyValue if you want to include any evidence.
 

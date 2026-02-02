@@ -35,9 +35,7 @@ dv_has_:
     - "[[../../../../Society/Agent/Community/Organization/Business/Product|Product]]"
     - "[[../../../../Society/Agent/Community/Organization/Business/Service|Service]]"
     - "[[../../../Class/is_a_/Intangible/Trip|Trip]]"
-  inverse:
-    - 
-    - offers
+  inverse: "[[../../is/is_item_offered_as|is_item_offered_as]]"
   domain:
     - "[[../../../../Society/Agent/Community/Organization/Business/Demand|Demand]]"
     - "[[../../../../Society/Agent/Community/Organization/Business/Offer|Offer]]"
@@ -68,9 +66,7 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_item_offered.private|has_item_offered.private]]"
     - "[[/_personal/schema-org/Relation/has/has_item_offered.personal|has_item_offered.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_item_offered.secret|has_item_offered.secret]]"
-dv_has_inverse:
-  - 
-  - offers
+dv_has_inverse: "[[../../is/is_item_offered_as|is_item_offered_as]]"
 dv_has_domain:
   - "[[../../../../Society/Agent/Community/Organization/Business/Demand|Demand]]"
   - "[[../../../../Society/Agent/Community/Organization/Business/Offer|Offer]]"
@@ -98,13 +94,15 @@ dv_is_same_as:
 is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
-- #has_/item_offered :: "[[../../../../Society/Agent/Community/Organization/Business/Offer/Aggregate_Offer|Aggregate_Offer]]", "[[../../../../Society/Communication/Media/Creative_Work|Creative_Work]]", "[[../../../Class/is_a_/Event|Event]]", "[[../../../Class/is_a_/Intangible/Menu_Item|Menu_Item]]", "[[../../../../Society/Agent/Community/Organization/Business/Product|Product]]", "[[../../../../Society/Agent/Community/Organization/Business/Service|Service]]", "[[../../../Class/is_a_/Intangible/Trip|Trip]]"  
-- has_item_offered :: "[[../../../../Society/Agent/Community/Organization/Business/Offer/Aggregate_Offer|Aggregate_Offer]]", "[[../../../../Society/Communication/Media/Creative_Work|Creative_Work]]", "[[../../../Class/is_a_/Event|Event]]", "[[../../../Class/is_a_/Intangible/Menu_Item|Menu_Item]]", "[[../../../../Society/Agent/Community/Organization/Business/Product|Product]]", "[[../../../../Society/Agent/Community/Organization/Business/Service|Service]]", "[[../../../Class/is_a_/Intangible/Trip|Trip]]"  
+- #has_/item_offered : : `=this.dv_has_range`  
+- has_item_offered : : `=this.dv_has_range` 
+- is_item_offered_as : : `=this.dv_has_domain`  
+- #is_/item_offered_as : : `=this.dv_has_domain`  
 
-An item being offered (or demanded). 
+The Object-item being offered for (or demanded by) this Subject-Offer (or Demand). 
 The transactional nature of the offer or demand is documented 
 using [[../../../Enumeration/Business_Function|Business_Function]], e.g. sell, lease etc. 
 
@@ -115,11 +113,9 @@ can clarify the nature of the offer.
 
 Relation describes that: 
 
-#has_/domain  :: [[../../../../Society/Agent/Community/Organization/Business/Demand|Demand]],  [[../../../../Society/Agent/Community/Organization/Business/Offer|Offer]]  
+has_domain  = `=this.dv_has_domain`  
 has_name = `=this.dv_has_name` 
-(has_/range :: "[[../../../../Society/Agent/Community/Organization/Business/Offer/Aggregate_Offer|Aggregate_Offer]]", "[[../../../../Society/Communication/Media/Creative_Work|Creative_Work]]", "[[../../../Class/is_a_/Event|Event]]", "[[../../../Class/is_a_/Intangible/Menu_Item|Menu_Item]]", "[[../../../../Society/Agent/Community/Organization/Business/Product|Product]]", "[[../../../../Society/Agent/Community/Organization/Business/Service|Service]]", "[[../../../Class/is_a_/Intangible/Trip|Trip]]" )
-
-#has_/inverse  :: offers  
+has_range = `=this.dv_has_range`  
 
 ## Confidential Links & Embeds: 
 

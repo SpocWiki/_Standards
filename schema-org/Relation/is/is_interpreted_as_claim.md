@@ -33,7 +33,7 @@ type: Predi_Relation
 
 Use it like this: 
 - #is_/interpreted_as_claim :: Claim  
-- is_/interpreted_as_claim :: Claim  
+- is_interpreted_as_claim :: Claim  
 
 Used to indicate a specific claim contained, implied, translated or refined from the content of a [[MediaObject]] or other [[CreativeWork]]. The interpreting party can be indicated using [[claimInterpreter]].
 

@@ -31,7 +31,7 @@ type: Predi_Relation
 
 Use it like this: 
 - #has_/applicable_country :: Country, Text  
-- is_/applicable_in_country :: Country, Text  
+- is_applicable_in_country :: Country, Text  
 
 A country where a particular merchant return policy applies to, for example the two-letter ISO 3166-1 alpha-2 country code.
 
