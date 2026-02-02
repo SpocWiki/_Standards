@@ -1,106 +1,32 @@
 ---
 aliases:
-  - react-action
-  - react_action
-  - ReactAction
-  - is_a_react_action
-  - React_Action
-  - React Action
+- react-action
+- react_action
+- ReactAction
+- is_a_react_action
+- React_Action
+- React Action
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - react_action
-layout: ""
+- react_action
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_react_action Class
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_react_action Class
 type: Type
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Class/is_a_/Action/Assess_Action/React_Action|React_Action]]"
-    - "[[/_public/schema-org/Class/is_a_/Action/Assess_Action/React_Action.public|React_Action.public]]"
-    - "[[/_internal/schema-org/Class/is_a_/Action/Assess_Action/React_Action.internal|React_Action.internal]]"
-    - "[[/_protect/schema-org/Class/is_a_/Action/Assess_Action/React_Action.protect|React_Action.protect]]"
-    - "[[/_private/schema-org/Class/is_a_/Action/Assess_Action/React_Action.private|React_Action.private]]"
-    - "[[/_personal/schema-org/Class/is_a_/Action/Assess_Action/React_Action.personal|React_Action.personal]]"
-    - "[[/_secret/schema-org/Class/is_a_/Action/Assess_Action/React_Action.secret|React_Action.secret]]"
-dv_has_:
-  parent_class: "[[../AssessAction]]"
-  child_class:
-    - "[[react_action/agree_action|AgreeAction]]"
-    - "[[react_action/disagree_action|DisagreeAction]]"
-    - "[[react_action/dislike_action|DislikeAction]]"
-    - "[[react_action/endorse_action|EndorseAction]]"
-    - "[[react_action/like_action|LikeAction]]"
-    - "[[react_action/want_action|WantAction]]"
-  properties:
-    - "[[../../../../Relation/has/has_action_status|actionStatus]]"
-    - "[[../../../../Property/has_url_for/has_url_for_additional_type|additionalType]]"
-    - "[[../../../../Relation/has/has_agent|agent]]"
-    - "[[../../../../Property/has_name/has_name_alternate|alternateName]]"
-    - "[[../../../../Property/Texts/has_description|description]]"
-    - "[[../../../../Property/Texts/has_description/has_description_disambiguating|disambiguatingDescription]]"
-    - "[[../../../../Property/has_Date_Time/has_time_to_end|endTime]]"
-    - "[[../../../../Relation/has/has_error|error]]"
-    - "[[../../../../Relation/has/has_identifier|identifier]]"
-    - "[[../../../../Relation/has/has_image|image]]"
-    - "[[../../../../Relation/has/has_instrument|instrument]]"
-    - "[[../../../../Property/has_location/has_location|location]]"
-    - "[[../../../../Relation/is/is_main_entity_of_page|mainEntityOfPage]]"
-    - "[[../../../../Property/has_name|name]]"
-    - "[[../../../../Relation/has/has_object|object]],[[../../../../Relation/has/has_participants|participant]]]"
-    - "[[../../../../Relation/has/has_potential_action|potentialAction]]"
-    - "[[../../../../Relation/has/has_provider|provider]]"
-    - "[[../../../../Relation/has/has_result|result]]"
-    - "[[../../../../Relation/is_same_as|sameAs]]"
-    - "[[../../../../Property/has_Date_Time/has_time_to_start|startTime]]"
-    - "[[../../../../Relation/is/is_subject_of|subjectOf]]"
-    - "[[../../../../Relation/has/has_target|target]]"
-    - "[[../../../../Property/has_url_for|url]]"
-dv_has_parent_class: "[[../AssessAction]]"
-dv_has_child_class:
-  - "[[react_action/agree_action|AgreeAction]]"
-  - "[[react_action/disagree_action|DisagreeAction]]"
-  - "[[react_action/dislike_action|DislikeAction]]"
-  - "[[react_action/endorse_action|EndorseAction]]"
-  - "[[react_action/like_action|LikeAction]]"
-  - "[[react_action/want_action|WantAction]]"
-dv_has_properties:
-  - "[[../../../../Relation/has/has_action/has_action_status|has_action_status]]"
-  - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
-  - "[[../../../../Relation/has/has_agent|has_agent]]"
-  - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
-  - "[[../../../../Property/Texts/has_description|has_description]]"
-  - "[[../../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
-  - "[[../../../../Property/has_Date_Time/has_time_to_end|has_time_to_end]]"
-  - "[[../../../../Relation/has/has_error|has_error]]"
-  - "[[../../../../Relation/has/has_identifier|has_identifier]]"
-  - "[[../../../../Relation/has/has_image|has_image]]"
-  - "[[../../../../Relation/has/has_instrument|has_instrument]]"
-  - "[[../../../../Property/has_location/has_location|has_location]]"
-  - "[[../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
-  - "[[../../../../Property/has_name|has_name]]"
-  - "[[../../../../Relation/has/has_object|has_object]]"
-  - "[[../../../../Relation/has/has_participant|has_participant]]"
-  - "[[../../../../Relation/has/has_potential_action|has_potential_action]]"
-  - "[[../../../../Relation/has/has_provider|has_provider]]"
-  - "[[../../../../Relation/has/has_result|has_result]]"
-  - "[[../../../../Relation/is_same_as|is_same_as]]"
-  - "[[../../../../Property/has_Date_Time/has_time_to_start|has_time_to_start]]"
-  - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
-  - "[[../../../../Relation/has/has_target|has_target]]"
-  - "[[../../../../Property/has_url_for|has_url_for]]"
-dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Action/Assess_Action/React_Action|React_Action]]"
   - "[[/_public/schema-org/Class/is_a_/Action/Assess_Action/React_Action.public|React_Action.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Action/Assess_Action/React_Action.internal|React_Action.internal]]"
@@ -108,6 +34,81 @@ dv_is_same_as:
   - "[[/_private/schema-org/Class/is_a_/Action/Assess_Action/React_Action.private|React_Action.private]]"
   - "[[/_personal/schema-org/Class/is_a_/Action/Assess_Action/React_Action.personal|React_Action.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Action/Assess_Action/React_Action.secret|React_Action.secret]]"
+dv_has_:
+  child_class:
+  - "[[react_action/agree_action|AgreeAction]]"
+  - "[[react_action/disagree_action|DisagreeAction]]"
+  - "[[react_action/dislike_action|DislikeAction]]"
+  - "[[react_action/endorse_action|EndorseAction]]"
+  - "[[react_action/like_action|LikeAction]]"
+  - "[[react_action/want_action|WantAction]]"
+  parent_class: "[[../AssessAction]]"
+  properties:
+  - "[[../../../../Relation/has/has_action_status|actionStatus]]"
+  - "[[../../../../Property/has_url_for/has_url_for_additional_type|additionalType]]"
+  - "[[../../../../Relation/has/has_agent|agent]]"
+  - "[[../../../../Property/has_name/has_name_alternate|alternateName]]"
+  - "[[../../../../Property/Texts/has_description|description]]"
+  - "[[../../../../Property/Texts/has_description/has_description_disambiguating|disambiguatingDescription]]"
+  - "[[../../../../Property/has_Date_Time/has_time_to_end|endTime]]"
+  - "[[../../../../Relation/has/has_error|error]]"
+  - "[[../../../../Relation/has/has_identifier|identifier]]"
+  - "[[../../../../Relation/has/has_image|image]]"
+  - "[[../../../../Relation/has/has_instrument|instrument]]"
+  - "[[../../../../Property/has_location/has_location|location]]"
+  - "[[../../../../Relation/is/is_main_entity_of_page|mainEntityOfPage]]"
+  - "[[../../../../Property/has_name|name]]"
+  - "[[../../../../Relation/has/has_object|object]],[[../../../../Relation/has/has_participants|participant]]]"
+  - "[[../../../../Relation/has/has_potential_action|potentialAction]]"
+  - "[[../../../../Relation/has/has_provider|provider]]"
+  - "[[../../../../Relation/has/has_result|result]]"
+  - "[[../../../../Relation/is_same_as|sameAs]]"
+  - "[[../../../../Property/has_Date_Time/has_time_to_start|startTime]]"
+  - "[[../../../../Relation/is/is_subject_of|subjectOf]]"
+  - "[[../../../../Relation/has/has_target|target]]"
+  - "[[../../../../Property/has_url_for|url]]"
+dv_has_parent_class:
+  - "[[../AssessAction]]"
+dv_has_child_class:
+- "[[react_action/agree_action|AgreeAction]]"
+- "[[react_action/disagree_action|DisagreeAction]]"
+- "[[react_action/dislike_action|DislikeAction]]"
+- "[[react_action/endorse_action|EndorseAction]]"
+- "[[react_action/like_action|LikeAction]]"
+- "[[react_action/want_action|WantAction]]"
+dv_has_properties:
+- "[[../../../../Relation/has/has_action/has_action_status|has_action_status]]"
+- "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
+- "[[../../../../Relation/has/has_agent|has_agent]]"
+- "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
+- "[[../../../../Property/Texts/has_description|has_description]]"
+- "[[../../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
+- "[[../../../../Property/has_Date_Time/has_time_to_end|has_time_to_end]]"
+- "[[../../../../Relation/has/has_error|has_error]]"
+- "[[../../../../Relation/has/has_identifier|has_identifier]]"
+- "[[../../../../Relation/has/has_image|has_image]]"
+- "[[../../../../Relation/has/has_instrument|has_instrument]]"
+- "[[../../../../Property/has_location/has_location|has_location]]"
+- "[[../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+- "[[../../../../Property/has_name|has_name]]"
+- "[[../../../../Relation/has/has_object|has_object]]"
+- "[[../../../../Relation/has/has_participant|has_participant]]"
+- "[[../../../../Relation/has/has_potential_action|has_potential_action]]"
+- "[[../../../../Relation/has/has_provider|has_provider]]"
+- "[[../../../../Relation/has/has_result|has_result]]"
+- "[[../../../../Relation/is_same_as|is_same_as]]"
+- "[[../../../../Property/has_Date_Time/has_time_to_start|has_time_to_start]]"
+- "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
+- "[[../../../../Relation/has/has_target|has_target]]"
+- "[[../../../../Property/has_url_for|has_url_for]]"
+dv_is_same_as:
+- "[[/_Standards/schema-org/Class/is_a_/Action/Assess_Action/React_Action|React_Action]]"
+- "[[/_public/schema-org/Class/is_a_/Action/Assess_Action/React_Action.public|React_Action.public]]"
+- "[[/_internal/schema-org/Class/is_a_/Action/Assess_Action/React_Action.internal|React_Action.internal]]"
+- "[[/_protect/schema-org/Class/is_a_/Action/Assess_Action/React_Action.protect|React_Action.protect]]"
+- "[[/_private/schema-org/Class/is_a_/Action/Assess_Action/React_Action.private|React_Action.private]]"
+- "[[/_personal/schema-org/Class/is_a_/Action/Assess_Action/React_Action.personal|React_Action.personal]]"
+- "[[/_secret/schema-org/Class/is_a_/Action/Assess_Action/React_Action.secret|React_Action.secret]]"
 ---
 
 Class of all react_actions to an [[../../../../Relation/has/has_object|object]]. 

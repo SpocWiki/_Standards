@@ -1,36 +1,36 @@
 ---
 aliases:
-  - observation
-  - observation
-  - Observation
-  - Measurement
-  - is_an_observation
+- observation
+- observation
+- Observation
+- Measurement
+- is_an_observation
 has_id_wikidata: Q193181
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - observation
-layout: ""
+- observation
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_observation Class
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_an_observation Class
 type: Type
 has_part_s_: "[[_Standards/WikiData/WD~perception,160402]]"
 different_from: "[[_Standards/WikiData/WD~observational_study,818574]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
-  - "[[_Standards/WikiData/WD~activity,1914636]]"
-  - "[[_Standards/WikiData/WD~field_of_study,2267705]]"
+- "[[_Standards/WikiData/WD~field_of_study,1047113]]"
+- "[[_Standards/WikiData/WD~activity,1914636]]"
+- "[[_Standards/WikiData/WD~field_of_study,2267705]]"
 has_use: "[[_Standards/WikiData/WD~data_acquisition,1172399]]"
 practiced_by: "[[_Standards/WikiData/WD~observer,28973077]]"
 part_of: "[[_Standards/WikiData/WD~psychology_terminology,77468620]]"
@@ -39,40 +39,20 @@ Commons_category: Observation
 UMLS_CUI: C0302523
 MeSH_tree_code: E05.581.249
 dv_is_:
-  part_of: https://pending.schema.org
   parent_class: "[[../Intangible]]"
+  part_of: https://pending.schema.org
   same_as:
-    - "[[../../../../WikiData/WD~Observation,193181|WD~Observation,193181]]"
-    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Observation|Observation]]"
-    - "[[/_public/schema-org/Class/is_a_/Intangible/Observation.public|Observation.public]]"
-    - "[[/_internal/schema-org/Class/is_a_/Intangible/Observation.internal|Observation.internal]]"
-    - "[[/_protect/schema-org/Class/is_a_/Intangible/Observation.protect|Observation.protect]]"
-    - "[[/_private/schema-org/Class/is_a_/Intangible/Observation.private|Observation.private]]"
-    - "[[/_personal/schema-org/Class/is_a_/Intangible/Observation.personal|Observation.personal]]"
-    - "[[/_secret/schema-org/Class/is_a_/Intangible/Observation.secret|Observation.secret]]"
-    - "[[Observation]]"
+  - "[[../../../../WikiData/WD~Observation,193181|WD~Observation,193181]]"
+  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Observation|Observation]]"
+  - "[[/_public/schema-org/Class/is_a_/Intangible/Observation.public|Observation.public]]"
+  - "[[/_internal/schema-org/Class/is_a_/Intangible/Observation.internal|Observation.internal]]"
+  - "[[/_protect/schema-org/Class/is_a_/Intangible/Observation.protect|Observation.protect]]"
+  - "[[/_private/schema-org/Class/is_a_/Intangible/Observation.private|Observation.private]]"
+  - "[[/_personal/schema-org/Class/is_a_/Intangible/Observation.personal|Observation.personal]]"
+  - "[[/_secret/schema-org/Class/is_a_/Intangible/Observation.secret|Observation.secret]]"
+  - "[[Observation]]"
 dv_has_:
   properties:
-    - "[[../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
-    - "[[../../../Property/has_name/has_name_alternate|has_name_alternate]]"
-    - "[[../../../Property/Texts/has_description|has_description]]"
-    - "[[../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
-    - "[[../../../Relation/has/has_identifier|has_identifier]]"
-    - "[[../../../Relation/has/has_image|has_image]]"
-    - "[[../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
-    - "[[../../../Property/has_value_for/has_value_for_margin_of_error|has_value_for_margin_of_error]]"
-    - "[[../../../Relation/has/has_measured_property|has_measured_property]]"
-    - "[[../../../Relation/has/has_measured_value|has_measured_value]]"
-    - "[[../../../Property/has_name|has_name]]"
-    - "[[../../../Property/has_Date_Time/has_time_of_observation|has_time_of_observation]]"
-    - "[[../../../Relation/has/has_observed_node|observedNode]]"
-    - "[[../../../Relation/has/has_potential_action|has_potential_action]]"
-    - "[[../../../Relation/is_same_as|sameAs]]"
-    - "[[../../../Relation/is/is_subject_of|subjectOf]]"
-    - "[[../Data_Type/Text/Url|Url]]"
-dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../Intangible]]"
-dv_has_properties:
   - "[[../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
   - "[[../../../Property/has_name/has_name_alternate|has_name_alternate]]"
   - "[[../../../Property/Texts/has_description|has_description]]"
@@ -90,15 +70,36 @@ dv_has_properties:
   - "[[../../../Relation/is_same_as|sameAs]]"
   - "[[../../../Relation/is/is_subject_of|subjectOf]]"
   - "[[../Data_Type/Text/Url|Url]]"
+dv_is_part_of: https://pending.schema.org
+dv_has_parent_class:
+  - "[[../Intangible]]"
+dv_has_properties:
+- "[[../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
+- "[[../../../Property/has_name/has_name_alternate|has_name_alternate]]"
+- "[[../../../Property/Texts/has_description|has_description]]"
+- "[[../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
+- "[[../../../Relation/has/has_identifier|has_identifier]]"
+- "[[../../../Relation/has/has_image|has_image]]"
+- "[[../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+- "[[../../../Property/has_value_for/has_value_for_margin_of_error|has_value_for_margin_of_error]]"
+- "[[../../../Relation/has/has_measured_property|has_measured_property]]"
+- "[[../../../Relation/has/has_measured_value|has_measured_value]]"
+- "[[../../../Property/has_name|has_name]]"
+- "[[../../../Property/has_Date_Time/has_time_of_observation|has_time_of_observation]]"
+- "[[../../../Relation/has/has_observed_node|observedNode]]"
+- "[[../../../Relation/has/has_potential_action|has_potential_action]]"
+- "[[../../../Relation/is_same_as|sameAs]]"
+- "[[../../../Relation/is/is_subject_of|subjectOf]]"
+- "[[../Data_Type/Text/Url|Url]]"
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Observation,193181|WD~Observation,193181]]"
-  - "[[Observation]]"
-  - "[[/_public/schema-org/Class/is_a_/Intangible/Observation.public|Observation.public]]"
-  - "[[/_internal/schema-org/Class/is_a_/Intangible/Observation.internal|Observation.internal]]"
-  - "[[/_protect/schema-org/Class/is_a_/Intangible/Observation.protect|Observation.protect]]"
-  - "[[/_private/schema-org/Class/is_a_/Intangible/Observation.private|Observation.private]]"
-  - "[[/_personal/schema-org/Class/is_a_/Intangible/Observation.personal|Observation.personal]]"
-  - "[[/_secret/schema-org/Class/is_a_/Intangible/Observation.secret|Observation.secret]]"
+- "[[../../../../WikiData/WD~Observation,193181|WD~Observation,193181]]"
+- "[[Observation]]"
+- "[[/_public/schema-org/Class/is_a_/Intangible/Observation.public|Observation.public]]"
+- "[[/_internal/schema-org/Class/is_a_/Intangible/Observation.internal|Observation.internal]]"
+- "[[/_protect/schema-org/Class/is_a_/Intangible/Observation.protect|Observation.protect]]"
+- "[[/_private/schema-org/Class/is_a_/Intangible/Observation.private|Observation.private]]"
+- "[[/_personal/schema-org/Class/is_a_/Intangible/Observation.personal|Observation.personal]]"
+- "[[/_secret/schema-org/Class/is_a_/Intangible/Observation.secret|Observation.secret]]"
 ---
 
 # [[Observation]] 

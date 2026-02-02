@@ -1,45 +1,32 @@
 ---
 aliases:
-  - endorsement-rating
-  - endorsement_rating
-  - EndorsementRating
-  - is_an_endorsement_rating
-  - Endorsement_Rating
-  - Endorsement Rating
+- endorsement-rating
+- endorsement_rating
+- EndorsementRating
+- is_an_endorsement_rating
+- Endorsement_Rating
+- Endorsement Rating
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - endorsement_rating
-layout: ""
+- endorsement_rating
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_endorsement_rating Class
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_an_endorsement_rating Class
 type: Type
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Rating/Endorsement_Rating|Endorsement_Rating]]"
-    - "[[/_public/schema-org/Class/is_a_/Intangible/Rating/Endorsement_Rating.public|Endorsement_Rating.public]]"
-    - "[[/_internal/schema-org/Class/is_a_/Intangible/Rating/Endorsement_Rating.internal|Endorsement_Rating.internal]]"
-    - "[[/_protect/schema-org/Class/is_a_/Intangible/Rating/Endorsement_Rating.protect|Endorsement_Rating.protect]]"
-    - "[[/_private/schema-org/Class/is_a_/Intangible/Rating/Endorsement_Rating.private|Endorsement_Rating.private]]"
-    - "[[/_personal/schema-org/Class/is_a_/Intangible/Rating/Endorsement_Rating.personal|Endorsement_Rating.personal]]"
-    - "[[/_secret/schema-org/Class/is_a_/Intangible/Rating/Endorsement_Rating.secret|Endorsement_Rating.secret]]"
-dv_has_:
-  parent_class: "[[../Rating]]"
-  properties: "[ additionalType, alternateName, author, bestRating, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, ratingExplanation, ratingValue, reviewAspect, sameAs, subjectOf, url, worstRating ]"
-dv_has_parent_class: "[[../Rating]]"
-dv_has_properties: "[ additionalType, alternateName, author, bestRating, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, ratingExplanation, ratingValue, reviewAspect, sameAs, subjectOf, url, worstRating ]"
-dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Rating/Endorsement_Rating|Endorsement_Rating]]"
   - "[[/_public/schema-org/Class/is_a_/Intangible/Rating/Endorsement_Rating.public|Endorsement_Rating.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Intangible/Rating/Endorsement_Rating.internal|Endorsement_Rating.internal]]"
@@ -47,6 +34,40 @@ dv_is_same_as:
   - "[[/_private/schema-org/Class/is_a_/Intangible/Rating/Endorsement_Rating.private|Endorsement_Rating.private]]"
   - "[[/_personal/schema-org/Class/is_a_/Intangible/Rating/Endorsement_Rating.personal|Endorsement_Rating.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Rating/Endorsement_Rating.secret|Endorsement_Rating.secret]]"
+dv_has_:
+  parent_class: "[[../Rating]]"
+  properties: '[ additionalType, alternateName, author, bestRating, description, disambiguatingDescription,
+    identifier, image, mainEntityOfPage, name, potentialAction, ratingExplanation,
+    ratingValue, reviewAspect, sameAs, subjectOf, url, worstRating ]'
+dv_has_parent_class:
+  - "[[../Rating]]"
+dv_has_properties:
+  - "[[additional_type|additional_type]]"
+  - "[[alternate_name|alternate_name]]"
+  - "[[../../../../Relation/has/has_author|has_author]]"
+  - "[[best_rating|best_rating]]"
+  - "[[../../../../Property/Texts/has_description|has_description]]"
+  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[../../../../Relation/has/has_identifier|has_identifier]]"
+  - "[[../../../../Relation/has/has_image|has_image]]"
+  - "[[../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+  - "[[../../../../Property/has_name|has_name]]"
+  - "[[../../../../Relation/has/has_potential_action|has_potential_action]]"
+  - "[[../../../../Property/has_value_for/has_rating/has_rating_explanation|has_rating_explanation]]"
+  - "[[../../../../Property/has_value_for/has_rating/has_rating_value|has_rating_value]]"
+  - "[[../../../../Relation/has/has_review/has_review_aspect|has_review_aspect]]"
+  - "[[../../../../Relation/is_same_as|is_same_as]]"
+  - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
+  - "[[../../Data_Type/Text/Url|Url]]"
+  - "[[worst_rating|worst_rating]]"
+dv_is_same_as:
+- "[[/_Standards/schema-org/Class/is_a_/Intangible/Rating/Endorsement_Rating|Endorsement_Rating]]"
+- "[[/_public/schema-org/Class/is_a_/Intangible/Rating/Endorsement_Rating.public|Endorsement_Rating.public]]"
+- "[[/_internal/schema-org/Class/is_a_/Intangible/Rating/Endorsement_Rating.internal|Endorsement_Rating.internal]]"
+- "[[/_protect/schema-org/Class/is_a_/Intangible/Rating/Endorsement_Rating.protect|Endorsement_Rating.protect]]"
+- "[[/_private/schema-org/Class/is_a_/Intangible/Rating/Endorsement_Rating.private|Endorsement_Rating.private]]"
+- "[[/_personal/schema-org/Class/is_a_/Intangible/Rating/Endorsement_Rating.personal|Endorsement_Rating.personal]]"
+- "[[/_secret/schema-org/Class/is_a_/Intangible/Rating/Endorsement_Rating.secret|Endorsement_Rating.secret]]"
 ---
 
 Class of all endorsement_ratings.

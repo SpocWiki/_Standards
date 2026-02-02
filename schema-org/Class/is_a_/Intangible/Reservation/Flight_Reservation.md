@@ -1,45 +1,32 @@
 ---
 aliases:
-  - flight-reservation
-  - flight_reservation
-  - FlightReservation
-  - is_a_flight_reservation
-  - Flight_Reservation
-  - Flight Reservation
+- flight-reservation
+- flight_reservation
+- FlightReservation
+- is_a_flight_reservation
+- Flight_Reservation
+- Flight Reservation
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - flight_reservation
-layout: ""
+- flight_reservation
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_flight_reservation Class
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_flight_reservation Class
 type: Type
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Reservation/Flight_Reservation|Flight_Reservation]]"
-    - "[[/_public/schema-org/Class/is_a_/Intangible/Reservation/Flight_Reservation.public|Flight_Reservation.public]]"
-    - "[[/_internal/schema-org/Class/is_a_/Intangible/Reservation/Flight_Reservation.internal|Flight_Reservation.internal]]"
-    - "[[/_protect/schema-org/Class/is_a_/Intangible/Reservation/Flight_Reservation.protect|Flight_Reservation.protect]]"
-    - "[[/_private/schema-org/Class/is_a_/Intangible/Reservation/Flight_Reservation.private|Flight_Reservation.private]]"
-    - "[[/_personal/schema-org/Class/is_a_/Intangible/Reservation/Flight_Reservation.personal|Flight_Reservation.personal]]"
-    - "[[/_secret/schema-org/Class/is_a_/Intangible/Reservation/Flight_Reservation.secret|Flight_Reservation.secret]]"
-dv_has_:
-  parent_class: "[[../Reservation]]"
-  properties: "[ additionalType, alternateName, boardingGroup, bookingAgent, bookingTime, broker, description, disambiguatingDescription, identifier, image, mainEntityOfPage, modifiedTime, name, passengerPriorityStatus, passengerSequenceNumber, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, securityScreening, subjectOf, totalPrice, underName, url ]"
-dv_has_parent_class: "[[../Reservation]]"
-dv_has_properties: "[ additionalType, alternateName, boardingGroup, bookingAgent, bookingTime, broker, description, disambiguatingDescription, identifier, image, mainEntityOfPage, modifiedTime, name, passengerPriorityStatus, passengerSequenceNumber, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, securityScreening, subjectOf, totalPrice, underName, url ]"
-dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Reservation/Flight_Reservation|Flight_Reservation]]"
   - "[[/_public/schema-org/Class/is_a_/Intangible/Reservation/Flight_Reservation.public|Flight_Reservation.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Intangible/Reservation/Flight_Reservation.internal|Flight_Reservation.internal]]"
@@ -47,6 +34,54 @@ dv_is_same_as:
   - "[[/_private/schema-org/Class/is_a_/Intangible/Reservation/Flight_Reservation.private|Flight_Reservation.private]]"
   - "[[/_personal/schema-org/Class/is_a_/Intangible/Reservation/Flight_Reservation.personal|Flight_Reservation.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Reservation/Flight_Reservation.secret|Flight_Reservation.secret]]"
+dv_has_:
+  parent_class: "[[../Reservation]]"
+  properties: '[ additionalType, alternateName, boardingGroup, bookingAgent, bookingTime,
+    broker, description, disambiguatingDescription, identifier, image, mainEntityOfPage,
+    modifiedTime, name, passengerPriorityStatus, passengerSequenceNumber, potentialAction,
+    priceCurrency, programMembershipUsed, provider, reservationFor, reservationId,
+    reservationStatus, reservedTicket, sameAs, securityScreening, subjectOf, totalPrice,
+    underName, url ]'
+dv_has_parent_class:
+  - "[[../Reservation]]"
+dv_has_properties:
+  - "[[additional_type|additional_type]]"
+  - "[[alternate_name|alternate_name]]"
+  - "[[../../../../Property/Texts/has_boarding_group|has_boarding_group]]"
+  - "[[booking_agent|booking_agent]]"
+  - "[[booking_time|booking_time]]"
+  - "[[../../../../Relation/has/has_broker|has_broker]]"
+  - "[[../../../../Property/Texts/has_description|has_description]]"
+  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[../../../../Relation/has/has_identifier|has_identifier]]"
+  - "[[../../../../Relation/has/has_image|has_image]]"
+  - "[[../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+  - "[[modified_time|modified_time]]"
+  - "[[../../../../Property/has_name|has_name]]"
+  - "[[../../../../Relation/has/has_passenger_priority_status|has_passenger_priority_status]]"
+  - "[[../../../../Property/Texts/has_passenger_sequence_number|has_passenger_sequence_number]]"
+  - "[[../../../../Relation/has/has_potential_action|has_potential_action]]"
+  - "[[../../../../Property/Texts/has_price_currency|has_price_currency]]"
+  - "[[../../../../Relation/has/has_program_membership_used|has_program_membership_used]]"
+  - "[[../../../../Relation/has/has_provider|has_provider]]"
+  - "[[../../../../Relation/has/has_reservation_for|has_reservation_for]]"
+  - "[[reservation_id|reservation_id]]"
+  - "[[../../../../Relation/has/has_reservation_status|has_reservation_status]]"
+  - "[[../../../../Relation/has/has_reserved_ticket|has_reserved_ticket]]"
+  - "[[../../../../Relation/is_same_as|is_same_as]]"
+  - "[[../../../../Property/Texts/has_security_screening|has_security_screening]]"
+  - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
+  - "[[total_price|total_price]]"
+  - "[[../../../../Relation/has/has_under_name|has_under_name]]"
+  - "[[../../Data_Type/Text/Url|Url]]"
+dv_is_same_as:
+- "[[/_Standards/schema-org/Class/is_a_/Intangible/Reservation/Flight_Reservation|Flight_Reservation]]"
+- "[[/_public/schema-org/Class/is_a_/Intangible/Reservation/Flight_Reservation.public|Flight_Reservation.public]]"
+- "[[/_internal/schema-org/Class/is_a_/Intangible/Reservation/Flight_Reservation.internal|Flight_Reservation.internal]]"
+- "[[/_protect/schema-org/Class/is_a_/Intangible/Reservation/Flight_Reservation.protect|Flight_Reservation.protect]]"
+- "[[/_private/schema-org/Class/is_a_/Intangible/Reservation/Flight_Reservation.private|Flight_Reservation.private]]"
+- "[[/_personal/schema-org/Class/is_a_/Intangible/Reservation/Flight_Reservation.personal|Flight_Reservation.personal]]"
+- "[[/_secret/schema-org/Class/is_a_/Intangible/Reservation/Flight_Reservation.secret|Flight_Reservation.secret]]"
 ---
 
 Class of all flight_reservations.

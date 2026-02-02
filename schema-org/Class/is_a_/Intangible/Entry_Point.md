@@ -1,45 +1,32 @@
 ---
 aliases:
-  - entry-point
-  - entry_point
-  - EntryPoint
-  - is_an_entry_point
-  - Endpoint
-  - Entry_Point
-  - Entry Point
+- entry-point
+- entry_point
+- EntryPoint
+- is_an_entry_point
+- Endpoint
+- Entry_Point
+- Entry Point
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords: entry_point
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_entry_point Class
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_an_entry_point Class
 type: Type
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Entry_Point|Entry_Point]]"
-    - "[[/_public/schema-org/Class/is_a_/Intangible/Entry_Point.public|Entry_Point.public]]"
-    - "[[/_internal/schema-org/Class/is_a_/Intangible/Entry_Point.internal|Entry_Point.internal]]"
-    - "[[/_protect/schema-org/Class/is_a_/Intangible/Entry_Point.protect|Entry_Point.protect]]"
-    - "[[/_private/schema-org/Class/is_a_/Intangible/Entry_Point.private|Entry_Point.private]]"
-    - "[[/_personal/schema-org/Class/is_a_/Intangible/Entry_Point.personal|Entry_Point.personal]]"
-    - "[[/_secret/schema-org/Class/is_a_/Intangible/Entry_Point.secret|Entry_Point.secret]]"
-dv_has_:
-  parent_class: "[[../Intangible]]"
-  properties: "[ actionApplication, actionPlatform, additionalType, alternateName, application, contentType, description, disambiguatingDescription, encodingType, httpMethod, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url, urlTemplate ]"
-dv_has_parent_class: "[[../Intangible]]"
-dv_has_properties: "[ actionApplication, actionPlatform, additionalType, alternateName, application, contentType, description, disambiguatingDescription, encodingType, httpMethod, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url, urlTemplate ]"
-dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Entry_Point|Entry_Point]]"
   - "[[/_public/schema-org/Class/is_a_/Intangible/Entry_Point.public|Entry_Point.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Intangible/Entry_Point.internal|Entry_Point.internal]]"
@@ -47,6 +34,42 @@ dv_is_same_as:
   - "[[/_private/schema-org/Class/is_a_/Intangible/Entry_Point.private|Entry_Point.private]]"
   - "[[/_personal/schema-org/Class/is_a_/Intangible/Entry_Point.personal|Entry_Point.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Entry_Point.secret|Entry_Point.secret]]"
+dv_has_:
+  parent_class: "[[../Intangible]]"
+  properties: '[ actionApplication, actionPlatform, additionalType, alternateName,
+    application, contentType, description, disambiguatingDescription, encodingType,
+    httpMethod, identifier, image, mainEntityOfPage, name, potentialAction, sameAs,
+    subjectOf, url, urlTemplate ]'
+dv_has_parent_class:
+  - "[[../Intangible]]"
+dv_has_properties:
+  - "[[../../../Relation/has/has_action/has_action_application|has_action_application]]"
+  - "[[../../../Relation/has/has_action/has_action_platform|has_action_platform]]"
+  - "[[additional_type|additional_type]]"
+  - "[[alternate_name|alternate_name]]"
+  - "[[application|application]]"
+  - "[[../../../Property/Texts/has_content_type|has_content_type]]"
+  - "[[../../../Property/Texts/has_description|has_description]]"
+  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[../../../Property/Texts/has_encoding_type|has_encoding_type]]"
+  - "[[../../../Property/Texts/has_http_method|has_http_method]]"
+  - "[[../../../Relation/has/has_identifier|has_identifier]]"
+  - "[[../../../Relation/has/has_image|has_image]]"
+  - "[[../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+  - "[[../../../Property/has_name|has_name]]"
+  - "[[../../../Relation/has/has_potential_action|has_potential_action]]"
+  - "[[../../../Relation/is_same_as|is_same_as]]"
+  - "[[../../../Relation/is/is_subject_of|is_subject_of]]"
+  - "[[../Data_Type/Text/Url|Url]]"
+  - "[[../../../Property/Texts/has_url_template|has_url_template]]"
+dv_is_same_as:
+- "[[/_Standards/schema-org/Class/is_a_/Intangible/Entry_Point|Entry_Point]]"
+- "[[/_public/schema-org/Class/is_a_/Intangible/Entry_Point.public|Entry_Point.public]]"
+- "[[/_internal/schema-org/Class/is_a_/Intangible/Entry_Point.internal|Entry_Point.internal]]"
+- "[[/_protect/schema-org/Class/is_a_/Intangible/Entry_Point.protect|Entry_Point.protect]]"
+- "[[/_private/schema-org/Class/is_a_/Intangible/Entry_Point.private|Entry_Point.private]]"
+- "[[/_personal/schema-org/Class/is_a_/Intangible/Entry_Point.personal|Entry_Point.personal]]"
+- "[[/_secret/schema-org/Class/is_a_/Intangible/Entry_Point.secret|Entry_Point.secret]]"
 ---
 
 

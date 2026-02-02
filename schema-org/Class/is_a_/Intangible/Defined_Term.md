@@ -1,50 +1,35 @@
 ---
 aliases:
-  - defined-term
-  - defined_term
-  - DefinedTerm
-  - is_a_defined_term
-  - defined term
-  - Defined_Term
-  - Defined Term
+- defined-term
+- defined_term
+- DefinedTerm
+- is_a_defined_term
+- defined term
+- Defined_Term
+- Defined Term
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - defined_term
-layout: ""
+- defined_term
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_defined_term Class
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_defined_term Class
 type: Type
 dv_is_:
-  part_of: https://pending.schema.org
   parent_class: "[[../Intangible]]"
+  part_of: https://pending.schema.org
   same_as:
-    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Defined_Term|Defined_Term]]"
-    - "[[/_public/schema-org/Class/is_a_/Intangible/Defined_Term.public|Defined_Term.public]]"
-    - "[[/_internal/schema-org/Class/is_a_/Intangible/Defined_Term.internal|Defined_Term.internal]]"
-    - "[[/_protect/schema-org/Class/is_a_/Intangible/Defined_Term.protect|Defined_Term.protect]]"
-    - "[[/_private/schema-org/Class/is_a_/Intangible/Defined_Term.private|Defined_Term.private]]"
-    - "[[/_personal/schema-org/Class/is_a_/Intangible/Defined_Term.personal|Defined_Term.personal]]"
-    - "[[/_secret/schema-org/Class/is_a_/Intangible/Defined_Term.secret|Defined_Term.secret]]"
-dv_has_:
-  child_class: ["[[defined_term/category_code|CategoryCode]]"]
-  properties: ["[[../../../Property/has_url_for/has_url_for_additional_type|additionalType]]", "[[../../../Property/Texts/has_name_alternate|alternateName]]", "[[../../../Property/Texts/has_description|description]]", "[[../../../Property/Texts/has_description/has_description_disambiguating|disambiguatingDescription]]", "[[../../../Relation/has/has_identifier|identifier]]", "[[../../../Relation/has/has_image|image]]", "[[../../../Relation/is/is_in_defined_term_set|inDefinedTermSet]]", "[[../../../Relation/is/is_main_entity_of_page|mainEntityOfPage]]", "[[../../../Property/Texts/has_name|name]]", "[[../../../Relation/has/has_potential_action|potentialAction]]", "[[../../../Relation/is_same_as|sameAs]]", "[[../../../Relation/is/is_subject_of|subjectOf]]", "[[../../../Property/Texts/has_term-code|termCode]]", "[[url]]" ]
-dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../Intangible]]"
-dv_has_child_class: ["[[defined_term/category_code|CategoryCode]]"]
-dv_has_properties: ["[[../../../Property/has_url_for/has_url_for_additional_type|additionalType]]", "[[../../../Property/Texts/has_name_alternate|alternateName]]", "[[../../../Property/Texts/has_description|description]]", "[[../../../Property/Texts/has_description/has_description_disambiguating|disambiguatingDescription]]", "[[../../../Relation/has/has_identifier|identifier]]", "[[../../../Relation/has/has_image|image]]", "[[../../../Relation/is/is_in_defined_term_set|inDefinedTermSet]]", "[[../../../Relation/is/is_main_entity_of_page|mainEntityOfPage]]", "[[../../../Property/Texts/has_name|name]]", "[[../../../Relation/has/has_potential_action|potentialAction]]", "[[../../../Relation/is_same_as|sameAs]]", "[[../../../Relation/is/is_subject_of|subjectOf]]", "[[../../../Property/Texts/has_term-code|termCode]]", "[[url]]"]
-dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Defined_Term|Defined_Term]]"
   - "[[/_public/schema-org/Class/is_a_/Intangible/Defined_Term.public|Defined_Term.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Intangible/Defined_Term.internal|Defined_Term.internal]]"
@@ -52,6 +37,52 @@ dv_is_same_as:
   - "[[/_private/schema-org/Class/is_a_/Intangible/Defined_Term.private|Defined_Term.private]]"
   - "[[/_personal/schema-org/Class/is_a_/Intangible/Defined_Term.personal|Defined_Term.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Defined_Term.secret|Defined_Term.secret]]"
+dv_has_:
+  child_class:
+  - "[[defined_term/category_code|CategoryCode]]"
+  properties:
+  - "[[../../../Property/has_url_for/has_url_for_additional_type|additionalType]]"
+  - "[[../../../Property/Texts/has_name_alternate|alternateName]]"
+  - "[[../../../Property/Texts/has_description|description]]"
+  - "[[../../../Property/Texts/has_description/has_description_disambiguating|disambiguatingDescription]]"
+  - "[[../../../Relation/has/has_identifier|identifier]]"
+  - "[[../../../Relation/has/has_image|image]]"
+  - "[[../../../Relation/is/is_in_defined_term_set|inDefinedTermSet]]"
+  - "[[../../../Relation/is/is_main_entity_of_page|mainEntityOfPage]]"
+  - "[[../../../Property/Texts/has_name|name]]"
+  - "[[../../../Relation/has/has_potential_action|potentialAction]]"
+  - "[[../../../Relation/is_same_as|sameAs]]"
+  - "[[../../../Relation/is/is_subject_of|subjectOf]]"
+  - "[[../../../Property/Texts/has_term-code|termCode]]"
+  - "[[url]]"
+dv_is_part_of: https://pending.schema.org
+dv_has_parent_class:
+  - "[[../Intangible]]"
+dv_has_child_class:
+- "[[defined_term/category_code|CategoryCode]]"
+dv_has_properties:
+  - "[[../../../Property/has_url_for/has_url_for_additional_type|additionalType]]"
+  - "[[alternate_name|alternate_name]]"
+  - "[[../../../Property/Texts/has_description|description]]"
+  - "[[../../../Property/Texts/has_description/has_description_disambiguating|disambiguatingDescription]]"
+  - "[[../../../Relation/has/has_identifier|identifier]]"
+  - "[[../../../Relation/has/has_image|image]]"
+  - "[[../../../Relation/is/is_in_defined_term_set|inDefinedTermSet]]"
+  - "[[../../../Relation/is/is_main_entity_of_page|mainEntityOfPage]]"
+  - "[[../../../Property/has_name|has_name]]"
+  - "[[../../../Relation/has/has_potential_action|potentialAction]]"
+  - "[[../../../Relation/is_same_as|sameAs]]"
+  - "[[../../../Relation/is/is_subject_of|subjectOf]]"
+  - "[[term_code|term_code]]"
+  - "[[../Data_Type/Text/Url|Url]]"
+dv_is_same_as:
+- "[[/_Standards/schema-org/Class/is_a_/Intangible/Defined_Term|Defined_Term]]"
+- "[[/_public/schema-org/Class/is_a_/Intangible/Defined_Term.public|Defined_Term.public]]"
+- "[[/_internal/schema-org/Class/is_a_/Intangible/Defined_Term.internal|Defined_Term.internal]]"
+- "[[/_protect/schema-org/Class/is_a_/Intangible/Defined_Term.protect|Defined_Term.protect]]"
+- "[[/_private/schema-org/Class/is_a_/Intangible/Defined_Term.private|Defined_Term.private]]"
+- "[[/_personal/schema-org/Class/is_a_/Intangible/Defined_Term.personal|Defined_Term.personal]]"
+- "[[/_secret/schema-org/Class/is_a_/Intangible/Defined_Term.secret|Defined_Term.secret]]"
 ---
 
 # defined term

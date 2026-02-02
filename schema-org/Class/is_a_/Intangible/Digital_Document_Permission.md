@@ -1,45 +1,32 @@
 ---
 aliases:
-  - digital-document-permission
-  - digital_document_permission
-  - DigitalDocumentPermission
-  - is_a_digital_document_permission
-  - Digital_Document_Permission
-  - Digital Document Permission
+- digital-document-permission
+- digital_document_permission
+- DigitalDocumentPermission
+- is_a_digital_document_permission
+- Digital_Document_Permission
+- Digital Document Permission
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - digital_document_permission
-layout: ""
+- digital_document_permission
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_digital_document_permission Class
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_digital_document_permission Class
 type: Type
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Digital_Document_Permission|Digital_Document_Permission]]"
-    - "[[/_public/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.public|Digital_Document_Permission.public]]"
-    - "[[/_internal/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.internal|Digital_Document_Permission.internal]]"
-    - "[[/_protect/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.protect|Digital_Document_Permission.protect]]"
-    - "[[/_private/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.private|Digital_Document_Permission.private]]"
-    - "[[/_personal/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.personal|Digital_Document_Permission.personal]]"
-    - "[[/_secret/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.secret|Digital_Document_Permission.secret]]"
-dv_has_:
-  parent_class: "[[../Intangible]]"
-  properties: "[ additionalType, alternateName, description, disambiguatingDescription, grantee, identifier, image, mainEntityOfPage, name, permissionType, potentialAction, sameAs, subjectOf, url ]"
-dv_has_parent_class: "[[../Intangible]]"
-dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, grantee, identifier, image, mainEntityOfPage, name, permissionType, potentialAction, sameAs, subjectOf, url ]"
-dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Digital_Document_Permission|Digital_Document_Permission]]"
   - "[[/_public/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.public|Digital_Document_Permission.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.internal|Digital_Document_Permission.internal]]"
@@ -47,6 +34,36 @@ dv_is_same_as:
   - "[[/_private/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.private|Digital_Document_Permission.private]]"
   - "[[/_personal/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.personal|Digital_Document_Permission.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.secret|Digital_Document_Permission.secret]]"
+dv_has_:
+  parent_class: "[[../Intangible]]"
+  properties: '[ additionalType, alternateName, description, disambiguatingDescription,
+    grantee, identifier, image, mainEntityOfPage, name, permissionType, potentialAction,
+    sameAs, subjectOf, url ]'
+dv_has_parent_class:
+  - "[[../Intangible]]"
+dv_has_properties:
+  - "[[additional_type|additional_type]]"
+  - "[[alternate_name|alternate_name]]"
+  - "[[../../../Property/Texts/has_description|has_description]]"
+  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[../../../Relation/has/has_grantee|has_grantee]]"
+  - "[[../../../Relation/has/has_identifier|has_identifier]]"
+  - "[[../../../Relation/has/has_image|has_image]]"
+  - "[[../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+  - "[[../../../Property/has_name|has_name]]"
+  - "[[../../../Relation/has/has_permission_type|has_permission_type]]"
+  - "[[../../../Relation/has/has_potential_action|has_potential_action]]"
+  - "[[../../../Relation/is_same_as|is_same_as]]"
+  - "[[../../../Relation/is/is_subject_of|is_subject_of]]"
+  - "[[../Data_Type/Text/Url|Url]]"
+dv_is_same_as:
+- "[[/_Standards/schema-org/Class/is_a_/Intangible/Digital_Document_Permission|Digital_Document_Permission]]"
+- "[[/_public/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.public|Digital_Document_Permission.public]]"
+- "[[/_internal/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.internal|Digital_Document_Permission.internal]]"
+- "[[/_protect/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.protect|Digital_Document_Permission.protect]]"
+- "[[/_private/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.private|Digital_Document_Permission.private]]"
+- "[[/_personal/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.personal|Digital_Document_Permission.personal]]"
+- "[[/_secret/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.secret|Digital_Document_Permission.secret]]"
 ---
 
 # [[Digital_Document_Permission]] 

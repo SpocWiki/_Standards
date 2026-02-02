@@ -1,48 +1,33 @@
 ---
 aliases:
-  - audience
-  - audience
-  - Audience
-  - is_an_audience
-  - schema:audience
-  - dbo:audience
-  - wdt:P2360
+- audience
+- audience
+- Audience
+- is_an_audience
+- schema:audience
+- dbo:audience
+- wdt:P2360
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - audience
-layout: ""
+- audience
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_audience Class
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_an_audience Class
 type: Type
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Audience|Audience]]"
-    - "[[/_public/schema-org/Class/is_a_/Intangible/Audience.public|Audience.public]]"
-    - "[[/_internal/schema-org/Class/is_a_/Intangible/Audience.internal|Audience.internal]]"
-    - "[[/_protect/schema-org/Class/is_a_/Intangible/Audience.protect|Audience.protect]]"
-    - "[[/_private/schema-org/Class/is_a_/Intangible/Audience.private|Audience.private]]"
-    - "[[/_personal/schema-org/Class/is_a_/Intangible/Audience.personal|Audience.personal]]"
-    - "[[/_secret/schema-org/Class/is_a_/Intangible/Audience.secret|Audience.secret]]"
-dv_has_:
-  parent_class: "[[../Intangible]]"
-  child_class: "[ BusinessAudience, EducationalAudience, MedicalAudience, PeopleAudience, Researcher ]"
-  properties: "[ additionalType, alternateName, audienceType, description, disambiguatingDescription, geographicArea, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
-dv_has_parent_class: "[[../Intangible]]"
-dv_has_child_class: "[ BusinessAudience, EducationalAudience, MedicalAudience, PeopleAudience, Researcher ]"
-dv_has_properties: "[ additionalType, alternateName, audienceType, description, disambiguatingDescription, geographicArea, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
-dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Audience|Audience]]"
   - "[[/_public/schema-org/Class/is_a_/Intangible/Audience.public|Audience.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Intangible/Audience.internal|Audience.internal]]"
@@ -50,6 +35,44 @@ dv_is_same_as:
   - "[[/_private/schema-org/Class/is_a_/Intangible/Audience.private|Audience.private]]"
   - "[[/_personal/schema-org/Class/is_a_/Intangible/Audience.personal|Audience.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Audience.secret|Audience.secret]]"
+dv_has_:
+  child_class: '[ BusinessAudience, EducationalAudience, MedicalAudience, PeopleAudience,
+    Researcher ]'
+  parent_class: "[[../Intangible]]"
+  properties: '[ additionalType, alternateName, audienceType, description, disambiguatingDescription,
+    geographicArea, identifier, image, mainEntityOfPage, name, potentialAction, sameAs,
+    subjectOf, url ]'
+dv_has_parent_class:
+  - "[[../Intangible]]"
+dv_has_child_class:
+  - "[[Audience/Business_Audience|Business_Audience]]"
+  - "[[Audience/Educational_Audience|Educational_Audience]]"
+  - "[[Audience/Medical_Audience|Medical_Audience]]"
+  - "[[Audience/People_Audience|People_Audience]]"
+  - "[[Audience/Researcher|Researcher]]"
+dv_has_properties:
+  - "[[additional_type|additional_type]]"
+  - "[[alternate_name|alternate_name]]"
+  - "[[../../../Property/Texts/has_audience_type|has_audience_type]]"
+  - "[[../../../Property/Texts/has_description|has_description]]"
+  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[../../../Relation/has/has_geographic_area|has_geographic_area]]"
+  - "[[../../../Relation/has/has_identifier|has_identifier]]"
+  - "[[../../../Relation/has/has_image|has_image]]"
+  - "[[../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+  - "[[../../../Property/has_name|has_name]]"
+  - "[[../../../Relation/has/has_potential_action|has_potential_action]]"
+  - "[[../../../Relation/is_same_as|is_same_as]]"
+  - "[[../../../Relation/is/is_subject_of|is_subject_of]]"
+  - "[[../Data_Type/Text/Url|Url]]"
+dv_is_same_as:
+- "[[/_Standards/schema-org/Class/is_a_/Intangible/Audience|Audience]]"
+- "[[/_public/schema-org/Class/is_a_/Intangible/Audience.public|Audience.public]]"
+- "[[/_internal/schema-org/Class/is_a_/Intangible/Audience.internal|Audience.internal]]"
+- "[[/_protect/schema-org/Class/is_a_/Intangible/Audience.protect|Audience.protect]]"
+- "[[/_private/schema-org/Class/is_a_/Intangible/Audience.private|Audience.private]]"
+- "[[/_personal/schema-org/Class/is_a_/Intangible/Audience.personal|Audience.personal]]"
+- "[[/_secret/schema-org/Class/is_a_/Intangible/Audience.secret|Audience.secret]]"
 ---
 
 Class of all intended audiences for an item, 

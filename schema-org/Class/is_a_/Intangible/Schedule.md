@@ -1,45 +1,32 @@
 ---
 aliases:
-  - schedule
-  - schedule
-  - Schedule
-  - is_a_schedule
+- schedule
+- schedule
+- Schedule
+- is_a_schedule
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - schedule
-layout: ""
+- schedule
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_schedule Class
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_schedule Class
 type: Type
 dv_is_:
-  part_of: https://pending.schema.org
   parent_class: "[[../Intangible]]"
+  part_of: https://pending.schema.org
   same_as:
-    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Schedule|Schedule]]"
-    - "[[/_public/schema-org/Class/is_a_/Intangible/Schedule.public|Schedule.public]]"
-    - "[[/_internal/schema-org/Class/is_a_/Intangible/Schedule.internal|Schedule.internal]]"
-    - "[[/_protect/schema-org/Class/is_a_/Intangible/Schedule.protect|Schedule.protect]]"
-    - "[[/_private/schema-org/Class/is_a_/Intangible/Schedule.private|Schedule.private]]"
-    - "[[/_personal/schema-org/Class/is_a_/Intangible/Schedule.personal|Schedule.personal]]"
-    - "[[/_secret/schema-org/Class/is_a_/Intangible/Schedule.secret|Schedule.secret]]"
-dv_has_:
-  properties: "[ additionalType, alternateName, byDay, byMonth, byMonthDay, byMonthWeek, description, disambiguatingDescription, duration, endDate, endTime, exceptDate, identifier, image, mainEntityOfPage, name, potentialAction, repeatCount, repeatFrequency, sameAs, scheduleTimezone, startDate, startTime, subjectOf, url ]"
-dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../Intangible]]"
-dv_has_properties: "[ additionalType, alternateName, byDay, byMonth, byMonthDay, byMonthWeek, description, disambiguatingDescription, duration, endDate, endTime, exceptDate, identifier, image, mainEntityOfPage, name, potentialAction, repeatCount, repeatFrequency, sameAs, scheduleTimezone, startDate, startTime, subjectOf, url ]"
-dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Schedule|Schedule]]"
   - "[[/_public/schema-org/Class/is_a_/Intangible/Schedule.public|Schedule.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Intangible/Schedule.internal|Schedule.internal]]"
@@ -47,6 +34,48 @@ dv_is_same_as:
   - "[[/_private/schema-org/Class/is_a_/Intangible/Schedule.private|Schedule.private]]"
   - "[[/_personal/schema-org/Class/is_a_/Intangible/Schedule.personal|Schedule.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Schedule.secret|Schedule.secret]]"
+dv_has_:
+  properties: '[ additionalType, alternateName, byDay, byMonth, byMonthDay, byMonthWeek,
+    description, disambiguatingDescription, duration, endDate, endTime, exceptDate,
+    identifier, image, mainEntityOfPage, name, potentialAction, repeatCount, repeatFrequency,
+    sameAs, scheduleTimezone, startDate, startTime, subjectOf, url ]'
+dv_is_part_of: https://pending.schema.org
+dv_has_parent_class:
+  - "[[../Intangible]]"
+dv_has_properties:
+  - "[[additional_type|additional_type]]"
+  - "[[alternate_name|alternate_name]]"
+  - "[[../../../Relation/is/is_by_day|is_by_day]]"
+  - "[[by_month|by_month]]"
+  - "[[by_month_day|by_month_day]]"
+  - "[[by_month_week|by_month_week]]"
+  - "[[../../../Property/Texts/has_description|has_description]]"
+  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[../../../Predicate/Quantity/Duration|Duration]]"
+  - "[[end_date|end_date]]"
+  - "[[end_time|end_time]]"
+  - "[[except_date|except_date]]"
+  - "[[../../../Relation/has/has_identifier|has_identifier]]"
+  - "[[../../../Relation/has/has_image|has_image]]"
+  - "[[../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+  - "[[../../../Property/has_name|has_name]]"
+  - "[[../../../Relation/has/has_potential_action|has_potential_action]]"
+  - "[[repeat_count|repeat_count]]"
+  - "[[repeat_frequency|repeat_frequency]]"
+  - "[[../../../Relation/is_same_as|is_same_as]]"
+  - "[[../../../Property/Texts/has_schedule_timezone|has_schedule_timezone]]"
+  - "[[start_date|start_date]]"
+  - "[[start_time|start_time]]"
+  - "[[../../../Relation/is/is_subject_of|is_subject_of]]"
+  - "[[../Data_Type/Text/Url|Url]]"
+dv_is_same_as:
+- "[[/_Standards/schema-org/Class/is_a_/Intangible/Schedule|Schedule]]"
+- "[[/_public/schema-org/Class/is_a_/Intangible/Schedule.public|Schedule.public]]"
+- "[[/_internal/schema-org/Class/is_a_/Intangible/Schedule.internal|Schedule.internal]]"
+- "[[/_protect/schema-org/Class/is_a_/Intangible/Schedule.protect|Schedule.protect]]"
+- "[[/_private/schema-org/Class/is_a_/Intangible/Schedule.private|Schedule.private]]"
+- "[[/_personal/schema-org/Class/is_a_/Intangible/Schedule.personal|Schedule.personal]]"
+- "[[/_secret/schema-org/Class/is_a_/Intangible/Schedule.secret|Schedule.secret]]"
 ---
 
 # [[schedule]] 

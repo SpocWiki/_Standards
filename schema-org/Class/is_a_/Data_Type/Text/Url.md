@@ -1,42 +1,33 @@
 ---
 aliases:
-  - url
-  - URL
-  - is_a_url
-  - Url
+- url
+- URL
+- is_a_url
+- Url
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - url
-layout: ""
+- url
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_url Class
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
-  - class/data_type
+- class/Class
+- schema-org/Class
+- class/data_type
 title: is_a_url Class
 type: Type
 dv_has_:
   parent_class: "[[../Text]]"
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Text/Url|Url]]"
-    - "[[/_public/schema-org/Class/is_a_/Data_Type/Text/Url.public|Url.public]]"
-    - "[[/_internal/schema-org/Class/is_a_/Data_Type/Text/Url.internal|Url.internal]]"
-    - "[[/_protect/schema-org/Class/is_a_/Data_Type/Text/Url.protect|Url.protect]]"
-    - "[[/_private/schema-org/Class/is_a_/Data_Type/Text/Url.private|Url.private]]"
-    - "[[/_personal/schema-org/Class/is_a_/Data_Type/Text/Url.personal|Url.personal]]"
-    - "[[/_secret/schema-org/Class/is_a_/Data_Type/Text/Url.secret|Url.secret]]"
-dv_has_parent_class: "[[../Text]]"
-dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Text/Url|Url]]"
   - "[[/_public/schema-org/Class/is_a_/Data_Type/Text/Url.public|Url.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Data_Type/Text/Url.internal|Url.internal]]"
@@ -44,6 +35,16 @@ dv_is_same_as:
   - "[[/_private/schema-org/Class/is_a_/Data_Type/Text/Url.private|Url.private]]"
   - "[[/_personal/schema-org/Class/is_a_/Data_Type/Text/Url.personal|Url.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Data_Type/Text/Url.secret|Url.secret]]"
+dv_has_parent_class:
+  - "[[../Text]]"
+dv_is_same_as:
+- "[[/_Standards/schema-org/Class/is_a_/Data_Type/Text/Url|Url]]"
+- "[[/_public/schema-org/Class/is_a_/Data_Type/Text/Url.public|Url.public]]"
+- "[[/_internal/schema-org/Class/is_a_/Data_Type/Text/Url.internal|Url.internal]]"
+- "[[/_protect/schema-org/Class/is_a_/Data_Type/Text/Url.protect|Url.protect]]"
+- "[[/_private/schema-org/Class/is_a_/Data_Type/Text/Url.private|Url.private]]"
+- "[[/_personal/schema-org/Class/is_a_/Data_Type/Text/Url.personal|Url.personal]]"
+- "[[/_secret/schema-org/Class/is_a_/Data_Type/Text/Url.secret|Url.secret]]"
 ---
 
 # [[URL]] 

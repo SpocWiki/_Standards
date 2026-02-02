@@ -1,54 +1,43 @@
 ---
 aliases:
-  - statistical-population
-  - statistical_population
-  - StatisticalPopulation
-  - is_a_statistical_population
-  - Statistical_Population
-  - Statistical Population
+- statistical-population
+- statistical_population
+- StatisticalPopulation
+- is_a_statistical_population
+- Statistical_Population
+- Statistical Population
 has_id_wikidata: Q49918
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - statistical_population
-layout: ""
+- statistical_population
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_statistical_population Class
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_statistical_population Class
 type: Type
 subclass_of: "[[_Standards/WikiData/WD~data_set,1172284]]"
 maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Belarusian_encyclopedia_(vol._15),24038862]]"
-  - "[[_Standards/WikiData/WD~ISO_3534_1_2006(en)_Statistics_Vocabulary_and_symbols_Part_1_General_statistical_terms_and_terms_used_in_probability,111973641]]"
-  - "[[_Standards/WikiData/WD~ISO_3534_2_2006(en)_Statistics_Vocabulary_and_symbols_Part_2_Applied_statistics,113715213]]"
-  - "[[_Standards/WikiData/WD~Repetitorium_Statistik,115452005]]"
+- "[[_Standards/WikiData/WD~Belarusian_encyclopedia_(vol._15),24038862]]"
+- "[[_Standards/WikiData/WD~ISO_3534_1_2006(en)_Statistics_Vocabulary_and_symbols_Part_1_General_statistical_terms_and_terms_used_in_probability,111973641]]"
+- "[[_Standards/WikiData/WD~ISO_3534_2_2006(en)_Statistics_Vocabulary_and_symbols_Part_2_Applied_statistics,113715213]]"
+- "[[_Standards/WikiData/WD~Repetitorium_Statistik,115452005]]"
 equivalent_class: https://schema.org/StatisticalPopulation
 dv_is_:
-  same_as:
-    - "[[../../../../WikiData/WD~Statistical_population,49918|WD~Statistical_population,49918]]"
-    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Statistical_Population|Statistical_Population]]"
-    - "[[/_public/schema-org/Class/is_a_/Intangible/Statistical_Population.public|Statistical_Population.public]]"
-    - "[[/_internal/schema-org/Class/is_a_/Intangible/Statistical_Population.internal|Statistical_Population.internal]]"
-    - "[[/_protect/schema-org/Class/is_a_/Intangible/Statistical_Population.protect|Statistical_Population.protect]]"
-    - "[[/_private/schema-org/Class/is_a_/Intangible/Statistical_Population.private|Statistical_Population.private]]"
-    - "[[/_personal/schema-org/Class/is_a_/Intangible/Statistical_Population.personal|Statistical_Population.personal]]"
-    - "[[/_secret/schema-org/Class/is_a_/Intangible/Statistical_Population.secret|Statistical_Population.secret]]"
-  part_of: https://pending.schema.org
   parent_class: "[[../Intangible]]"
-dv_has_:
-  properties: "[ additionalType, alternateName, constrainingProperty, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, numConstraints, populationType, potentialAction, sameAs, subjectOf, url ]"
-dv_is_same_as:
+  part_of: https://pending.schema.org
+  same_as:
   - "[[../../../../WikiData/WD~Statistical_population,49918|WD~Statistical_population,49918]]"
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Statistical_Population|Statistical_Population]]"
   - "[[/_public/schema-org/Class/is_a_/Intangible/Statistical_Population.public|Statistical_Population.public]]"
@@ -57,9 +46,38 @@ dv_is_same_as:
   - "[[/_private/schema-org/Class/is_a_/Intangible/Statistical_Population.private|Statistical_Population.private]]"
   - "[[/_personal/schema-org/Class/is_a_/Intangible/Statistical_Population.personal|Statistical_Population.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Statistical_Population.secret|Statistical_Population.secret]]"
+dv_has_:
+  properties: '[ additionalType, alternateName, constrainingProperty, description,
+    disambiguatingDescription, identifier, image, mainEntityOfPage, name, numConstraints,
+    populationType, potentialAction, sameAs, subjectOf, url ]'
+dv_is_same_as:
+- "[[../../../../WikiData/WD~Statistical_population,49918|WD~Statistical_population,49918]]"
+- "[[/_Standards/schema-org/Class/is_a_/Intangible/Statistical_Population|Statistical_Population]]"
+- "[[/_public/schema-org/Class/is_a_/Intangible/Statistical_Population.public|Statistical_Population.public]]"
+- "[[/_internal/schema-org/Class/is_a_/Intangible/Statistical_Population.internal|Statistical_Population.internal]]"
+- "[[/_protect/schema-org/Class/is_a_/Intangible/Statistical_Population.protect|Statistical_Population.protect]]"
+- "[[/_private/schema-org/Class/is_a_/Intangible/Statistical_Population.private|Statistical_Population.private]]"
+- "[[/_personal/schema-org/Class/is_a_/Intangible/Statistical_Population.personal|Statistical_Population.personal]]"
+- "[[/_secret/schema-org/Class/is_a_/Intangible/Statistical_Population.secret|Statistical_Population.secret]]"
 dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../Intangible]]"
-dv_has_properties: "[ additionalType, alternateName, constrainingProperty, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, numConstraints, populationType, potentialAction, sameAs, subjectOf, url ]"
+dv_has_parent_class:
+  - "[[../Intangible]]"
+dv_has_properties:
+  - "[[additional_type|additional_type]]"
+  - "[[alternate_name|alternate_name]]"
+  - "[[constraining_property|constraining_property]]"
+  - "[[../../../Property/Texts/has_description|has_description]]"
+  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[../../../Relation/has/has_identifier|has_identifier]]"
+  - "[[../../../Relation/has/has_image|has_image]]"
+  - "[[../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+  - "[[../../../Property/has_name|has_name]]"
+  - "[[num_constraints|num_constraints]]"
+  - "[[../../../Relation/has/has_population_type|has_population_type]]"
+  - "[[../../../Relation/has/has_potential_action|has_potential_action]]"
+  - "[[../../../Relation/is_same_as|is_same_as]]"
+  - "[[../../../Relation/is/is_subject_of|is_subject_of]]"
+  - "[[../Data_Type/Text/Url|Url]]"
 ---
 
 # [[Statistical_Population]] 

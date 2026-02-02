@@ -1,43 +1,30 @@
 ---
 aliases:
-  - brand
-  - brand
-  - Brand
-  - is_a_brand
+- brand
+- brand
+- Brand
+- is_a_brand
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - brand
-layout: ""
+- brand
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_brand Class
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_brand Class
 type: Type
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Brand|Brand]]"
-    - "[[/_public/schema-org/Class/is_a_/Intangible/Brand.public|Brand.public]]"
-    - "[[/_internal/schema-org/Class/is_a_/Intangible/Brand.internal|Brand.internal]]"
-    - "[[/_protect/schema-org/Class/is_a_/Intangible/Brand.protect|Brand.protect]]"
-    - "[[/_private/schema-org/Class/is_a_/Intangible/Brand.private|Brand.private]]"
-    - "[[/_personal/schema-org/Class/is_a_/Intangible/Brand.personal|Brand.personal]]"
-    - "[[/_secret/schema-org/Class/is_a_/Intangible/Brand.secret|Brand.secret]]"
-dv_has_:
-  parent_class: "[[../Intangible]]"
-  properties: "[ additionalType, aggregateRating, alternateName, description, disambiguatingDescription, identifier, image, logo, mainEntityOfPage, name, potentialAction, review, sameAs, slogan, subjectOf, url ]"
-dv_has_parent_class: "[[../Intangible]]"
-dv_has_properties: "[ additionalType, aggregateRating, alternateName, description, disambiguatingDescription, identifier, image, logo, mainEntityOfPage, name, potentialAction, review, sameAs, slogan, subjectOf, url ]"
-dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Brand|Brand]]"
   - "[[/_public/schema-org/Class/is_a_/Intangible/Brand.public|Brand.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Intangible/Brand.internal|Brand.internal]]"
@@ -45,6 +32,38 @@ dv_is_same_as:
   - "[[/_private/schema-org/Class/is_a_/Intangible/Brand.private|Brand.private]]"
   - "[[/_personal/schema-org/Class/is_a_/Intangible/Brand.personal|Brand.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Brand.secret|Brand.secret]]"
+dv_has_:
+  parent_class: "[[../Intangible]]"
+  properties: '[ additionalType, aggregateRating, alternateName, description, disambiguatingDescription,
+    identifier, image, logo, mainEntityOfPage, name, potentialAction, review, sameAs,
+    slogan, subjectOf, url ]'
+dv_has_parent_class:
+  - "[[../Intangible]]"
+dv_has_properties:
+  - "[[additional_type|additional_type]]"
+  - "[[Rating/Aggregate_Rating|Aggregate_Rating]]"
+  - "[[alternate_name|alternate_name]]"
+  - "[[../../../Property/Texts/has_description|has_description]]"
+  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[../../../Relation/has/has_identifier|has_identifier]]"
+  - "[[../../../Relation/has/has_image|has_image]]"
+  - "[[../../../Relation/has/has_logo|has_logo]]"
+  - "[[../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+  - "[[../../../Property/has_name|has_name]]"
+  - "[[../../../Relation/has/has_potential_action|has_potential_action]]"
+  - "[[../../../Relation/has/has_review|has_review]]"
+  - "[[../../../Relation/is_same_as|is_same_as]]"
+  - "[[../../../Property/Texts/has_slogan|has_slogan]]"
+  - "[[../../../Relation/is/is_subject_of|is_subject_of]]"
+  - "[[../Data_Type/Text/Url|Url]]"
+dv_is_same_as:
+- "[[/_Standards/schema-org/Class/is_a_/Intangible/Brand|Brand]]"
+- "[[/_public/schema-org/Class/is_a_/Intangible/Brand.public|Brand.public]]"
+- "[[/_internal/schema-org/Class/is_a_/Intangible/Brand.internal|Brand.internal]]"
+- "[[/_protect/schema-org/Class/is_a_/Intangible/Brand.protect|Brand.protect]]"
+- "[[/_private/schema-org/Class/is_a_/Intangible/Brand.private|Brand.private]]"
+- "[[/_personal/schema-org/Class/is_a_/Intangible/Brand.personal|Brand.personal]]"
+- "[[/_secret/schema-org/Class/is_a_/Intangible/Brand.secret|Brand.secret]]"
 ---
 
 Class of all brands.

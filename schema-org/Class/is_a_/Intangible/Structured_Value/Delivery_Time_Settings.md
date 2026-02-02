@@ -1,47 +1,34 @@
 ---
 aliases:
-  - delivery-time-settings
-  - delivery_time_settings
-  - DeliveryTimeSettings
-  - is_a_delivery_time_settings
-  - Delivery_Time_Settings
-  - Delivery Time Settings
+- delivery-time-settings
+- delivery_time_settings
+- DeliveryTimeSettings
+- is_a_delivery_time_settings
+- Delivery_Time_Settings
+- Delivery Time Settings
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - delivery_time_settings
-layout: ""
+- delivery_time_settings
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_delivery_time_settings Class
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_delivery_time_settings Class
 type: Type
 dv_is_:
-  part_of: https://pending.schema.org
   parent_class: "[[../StructuredValue]]"
+  part_of: https://pending.schema.org
   same_as:
-    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings|Delivery_Time_Settings]]"
-    - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings.public|Delivery_Time_Settings.public]]"
-    - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings.internal|Delivery_Time_Settings.internal]]"
-    - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings.protect|Delivery_Time_Settings.protect]]"
-    - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings.private|Delivery_Time_Settings.private]]"
-    - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings.personal|Delivery_Time_Settings.personal]]"
-    - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings.secret|Delivery_Time_Settings.secret]]"
-dv_has_:
-  properties: "[ additionalType, alternateName, deliveryTime, description, disambiguatingDescription, identifier, image, isUnlabelledFallback, mainEntityOfPage, name, potentialAction, sameAs, shippingDestination, subjectOf, transitTimeLabel, url ]"
-dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../StructuredValue]]"
-dv_has_properties: "[ additionalType, alternateName, deliveryTime, description, disambiguatingDescription, identifier, image, isUnlabelledFallback, mainEntityOfPage, name, potentialAction, sameAs, shippingDestination, subjectOf, transitTimeLabel, url ]"
-dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings|Delivery_Time_Settings]]"
   - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings.public|Delivery_Time_Settings.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings.internal|Delivery_Time_Settings.internal]]"
@@ -49,6 +36,38 @@ dv_is_same_as:
   - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings.private|Delivery_Time_Settings.private]]"
   - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings.personal|Delivery_Time_Settings.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings.secret|Delivery_Time_Settings.secret]]"
+dv_has_:
+  properties: '[ additionalType, alternateName, deliveryTime, description, disambiguatingDescription,
+    identifier, image, isUnlabelledFallback, mainEntityOfPage, name, potentialAction,
+    sameAs, shippingDestination, subjectOf, transitTimeLabel, url ]'
+dv_is_part_of: https://pending.schema.org
+dv_has_parent_class:
+  - "[[../StructuredValue]]"
+dv_has_properties:
+  - "[[additional_type|additional_type]]"
+  - "[[alternate_name|alternate_name]]"
+  - "[[../../../../Relation/has/has_delivery/has_delivery_time|has_delivery_time]]"
+  - "[[../../../../Property/Texts/has_description|has_description]]"
+  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[../../../../Relation/has/has_identifier|has_identifier]]"
+  - "[[../../../../Relation/has/has_image|has_image]]"
+  - "[[../../../../Property/Flags/is_unlabelled_fallback|is_unlabelled_fallback]]"
+  - "[[../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+  - "[[../../../../Property/has_name|has_name]]"
+  - "[[../../../../Relation/has/has_potential_action|has_potential_action]]"
+  - "[[../../../../Relation/is_same_as|is_same_as]]"
+  - "[[../../../../Relation/has/has_shipping/has_shipping_destination|has_shipping_destination]]"
+  - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
+  - "[[../../../../Property/Texts/has_transit_time_label|has_transit_time_label]]"
+  - "[[../../Data_Type/Text/Url|Url]]"
+dv_is_same_as:
+- "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings|Delivery_Time_Settings]]"
+- "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings.public|Delivery_Time_Settings.public]]"
+- "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings.internal|Delivery_Time_Settings.internal]]"
+- "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings.protect|Delivery_Time_Settings.protect]]"
+- "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings.private|Delivery_Time_Settings.private]]"
+- "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings.personal|Delivery_Time_Settings.personal]]"
+- "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Delivery_Time_Settings.secret|Delivery_Time_Settings.secret]]"
 ---
 
 Class of all delivery_time_settingss.

@@ -1,28 +1,28 @@
 ---
 aliases:
-  - bio-chem-entity
-  - bio_chem_entity
-  - BioChemEntity
-  - is_a_bio_chem_entity
-  - Bio_Chem_Entity
-  - Bio Chem Entity
+- bio-chem-entity
+- bio_chem_entity
+- BioChemEntity
+- is_a_bio_chem_entity
+- Bio_Chem_Entity
+- Bio Chem Entity
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
 expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - bio_chem_entity
+- bio_chem_entity
 layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_bio_chem_entity Class
 publish: true
 publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_bio_chem_entity Class
 type: Type
 ---

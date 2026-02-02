@@ -1,47 +1,34 @@
 ---
 aliases:
-  - exchange-rate-specification
-  - exchange_rate_specification
-  - ExchangeRateSpecification
-  - is_an_exchange_rate_specification
-  - Exchange_Rate_Specification
-  - Exchange Rate Specification
+- exchange-rate-specification
+- exchange_rate_specification
+- ExchangeRateSpecification
+- is_an_exchange_rate_specification
+- Exchange_Rate_Specification
+- Exchange Rate Specification
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - exchange_rate_specification
-layout: ""
+- exchange_rate_specification
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_exchange_rate_specification Class
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_an_exchange_rate_specification Class
 type: Type
 dv_is_:
-  part_of: https://pending.schema.org
   parent_class: "[[../StructuredValue]]"
+  part_of: https://pending.schema.org
   same_as:
-    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Exchange_Rate_Specification|Exchange_Rate_Specification]]"
-    - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Exchange_Rate_Specification.public|Exchange_Rate_Specification.public]]"
-    - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Exchange_Rate_Specification.internal|Exchange_Rate_Specification.internal]]"
-    - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Exchange_Rate_Specification.protect|Exchange_Rate_Specification.protect]]"
-    - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Exchange_Rate_Specification.private|Exchange_Rate_Specification.private]]"
-    - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Exchange_Rate_Specification.personal|Exchange_Rate_Specification.personal]]"
-    - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Exchange_Rate_Specification.secret|Exchange_Rate_Specification.secret]]"
-dv_has_:
-  properties: "[ additionalType, alternateName, currency, currentExchangeRate, description, disambiguatingDescription, exchangeRateSpread, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
-dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../StructuredValue]]"
-dv_has_properties: "[ additionalType, alternateName, currency, currentExchangeRate, description, disambiguatingDescription, exchangeRateSpread, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
-dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Exchange_Rate_Specification|Exchange_Rate_Specification]]"
   - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Exchange_Rate_Specification.public|Exchange_Rate_Specification.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Exchange_Rate_Specification.internal|Exchange_Rate_Specification.internal]]"
@@ -49,6 +36,37 @@ dv_is_same_as:
   - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Exchange_Rate_Specification.private|Exchange_Rate_Specification.private]]"
   - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Exchange_Rate_Specification.personal|Exchange_Rate_Specification.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Exchange_Rate_Specification.secret|Exchange_Rate_Specification.secret]]"
+dv_has_:
+  properties: '[ additionalType, alternateName, currency, currentExchangeRate, description,
+    disambiguatingDescription, exchangeRateSpread, identifier, image, mainEntityOfPage,
+    name, potentialAction, sameAs, subjectOf, url ]'
+dv_is_part_of: https://pending.schema.org
+dv_has_parent_class:
+  - "[[../StructuredValue]]"
+dv_has_properties:
+  - "[[additional_type|additional_type]]"
+  - "[[alternate_name|alternate_name]]"
+  - "[[../../../../Property/Texts/has_currency|has_currency]]"
+  - "[[../../../../Relation/has/has_current_exchange_rate|has_current_exchange_rate]]"
+  - "[[../../../../Property/Texts/has_description|has_description]]"
+  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[exchange_rate_spread|exchange_rate_spread]]"
+  - "[[../../../../Relation/has/has_identifier|has_identifier]]"
+  - "[[../../../../Relation/has/has_image|has_image]]"
+  - "[[../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+  - "[[../../../../Property/has_name|has_name]]"
+  - "[[../../../../Relation/has/has_potential_action|has_potential_action]]"
+  - "[[../../../../Relation/is_same_as|is_same_as]]"
+  - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
+  - "[[../../Data_Type/Text/Url|Url]]"
+dv_is_same_as:
+- "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Exchange_Rate_Specification|Exchange_Rate_Specification]]"
+- "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Exchange_Rate_Specification.public|Exchange_Rate_Specification.public]]"
+- "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Exchange_Rate_Specification.internal|Exchange_Rate_Specification.internal]]"
+- "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Exchange_Rate_Specification.protect|Exchange_Rate_Specification.protect]]"
+- "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Exchange_Rate_Specification.private|Exchange_Rate_Specification.private]]"
+- "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Exchange_Rate_Specification.personal|Exchange_Rate_Specification.personal]]"
+- "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Exchange_Rate_Specification.secret|Exchange_Rate_Specification.secret]]"
 ---
 
 Class of all exchange_rate_specifications.

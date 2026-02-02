@@ -1,45 +1,32 @@
 ---
 aliases:
-  - menu-item
-  - menu_item
-  - MenuItem
-  - is_a_menu_item
-  - Menu_Item
-  - Menu Item
+- menu-item
+- menu_item
+- MenuItem
+- is_a_menu_item
+- Menu_Item
+- Menu Item
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - menu_item
-layout: ""
+- menu_item
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_menu_item Class
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_menu_item Class
 type: Type
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Menu_Item|Menu_Item]]"
-    - "[[/_public/schema-org/Class/is_a_/Intangible/Menu_Item.public|Menu_Item.public]]"
-    - "[[/_internal/schema-org/Class/is_a_/Intangible/Menu_Item.internal|Menu_Item.internal]]"
-    - "[[/_protect/schema-org/Class/is_a_/Intangible/Menu_Item.protect|Menu_Item.protect]]"
-    - "[[/_private/schema-org/Class/is_a_/Intangible/Menu_Item.private|Menu_Item.private]]"
-    - "[[/_personal/schema-org/Class/is_a_/Intangible/Menu_Item.personal|Menu_Item.personal]]"
-    - "[[/_secret/schema-org/Class/is_a_/Intangible/Menu_Item.secret|Menu_Item.secret]]"
-dv_has_:
-  parent_class: "[[../Intangible]]"
-  properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, menuAddOn, name, nutrition, offers, potentialAction, sameAs, subjectOf, suitableForDiet, url ]"
-dv_has_parent_class: "[[../Intangible]]"
-dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, menuAddOn, name, nutrition, offers, potentialAction, sameAs, subjectOf, suitableForDiet, url ]"
-dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Menu_Item|Menu_Item]]"
   - "[[/_public/schema-org/Class/is_a_/Intangible/Menu_Item.public|Menu_Item.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Intangible/Menu_Item.internal|Menu_Item.internal]]"
@@ -47,6 +34,38 @@ dv_is_same_as:
   - "[[/_private/schema-org/Class/is_a_/Intangible/Menu_Item.private|Menu_Item.private]]"
   - "[[/_personal/schema-org/Class/is_a_/Intangible/Menu_Item.personal|Menu_Item.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Menu_Item.secret|Menu_Item.secret]]"
+dv_has_:
+  parent_class: "[[../Intangible]]"
+  properties: '[ additionalType, alternateName, description, disambiguatingDescription,
+    identifier, image, mainEntityOfPage, menuAddOn, name, nutrition, offers, potentialAction,
+    sameAs, subjectOf, suitableForDiet, url ]'
+dv_has_parent_class:
+  - "[[../Intangible]]"
+dv_has_properties:
+  - "[[additional_type|additional_type]]"
+  - "[[alternate_name|alternate_name]]"
+  - "[[../../../Property/Texts/has_description|has_description]]"
+  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[../../../Relation/has/has_identifier|has_identifier]]"
+  - "[[../../../Relation/has/has_image|has_image]]"
+  - "[[../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+  - "[[../../../Relation/has/has_menu/has_menu_add_on|has_menu_add_on]]"
+  - "[[../../../Property/has_name|has_name]]"
+  - "[[../../../Relation/has/has_nutrition|has_nutrition]]"
+  - "[[offers|offers]]"
+  - "[[../../../Relation/has/has_potential_action|has_potential_action]]"
+  - "[[../../../Relation/is_same_as|is_same_as]]"
+  - "[[../../../Relation/is/is_subject_of|is_subject_of]]"
+  - "[[../../../Relation/has/is_suitable_for_diet|is_suitable_for_diet]]"
+  - "[[../Data_Type/Text/Url|Url]]"
+dv_is_same_as:
+- "[[/_Standards/schema-org/Class/is_a_/Intangible/Menu_Item|Menu_Item]]"
+- "[[/_public/schema-org/Class/is_a_/Intangible/Menu_Item.public|Menu_Item.public]]"
+- "[[/_internal/schema-org/Class/is_a_/Intangible/Menu_Item.internal|Menu_Item.internal]]"
+- "[[/_protect/schema-org/Class/is_a_/Intangible/Menu_Item.protect|Menu_Item.protect]]"
+- "[[/_private/schema-org/Class/is_a_/Intangible/Menu_Item.private|Menu_Item.private]]"
+- "[[/_personal/schema-org/Class/is_a_/Intangible/Menu_Item.personal|Menu_Item.personal]]"
+- "[[/_secret/schema-org/Class/is_a_/Intangible/Menu_Item.secret|Menu_Item.secret]]"
 ---
 
 Class of all menu_items.

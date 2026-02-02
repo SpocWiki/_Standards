@@ -1,47 +1,34 @@
 ---
 aliases:
-  - occupational-experience-requirements
-  - occupational_experience_requirements
-  - OccupationalExperienceRequirements
-  - is_an_occupational_experience_requirements
-  - Occupational_Experience_Requirements
-  - Occupational Experience Requirements
+- occupational-experience-requirements
+- occupational_experience_requirements
+- OccupationalExperienceRequirements
+- is_an_occupational_experience_requirements
+- Occupational_Experience_Requirements
+- Occupational Experience Requirements
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - occupational_experience_requirements
-layout: ""
+- occupational_experience_requirements
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_occupational_experience_requirements Class
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_an_occupational_experience_requirements Class
 type: Type
 dv_is_:
-  part_of: https://pending.schema.org
   parent_class: "[[../Intangible]]"
+  part_of: https://pending.schema.org
   same_as:
-    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Occupational_Experience_Requirements|Occupational_Experience_Requirements]]"
-    - "[[/_public/schema-org/Class/is_a_/Intangible/Occupational_Experience_Requirements.public|Occupational_Experience_Requirements.public]]"
-    - "[[/_internal/schema-org/Class/is_a_/Intangible/Occupational_Experience_Requirements.internal|Occupational_Experience_Requirements.internal]]"
-    - "[[/_protect/schema-org/Class/is_a_/Intangible/Occupational_Experience_Requirements.protect|Occupational_Experience_Requirements.protect]]"
-    - "[[/_private/schema-org/Class/is_a_/Intangible/Occupational_Experience_Requirements.private|Occupational_Experience_Requirements.private]]"
-    - "[[/_personal/schema-org/Class/is_a_/Intangible/Occupational_Experience_Requirements.personal|Occupational_Experience_Requirements.personal]]"
-    - "[[/_secret/schema-org/Class/is_a_/Intangible/Occupational_Experience_Requirements.secret|Occupational_Experience_Requirements.secret]]"
-dv_has_:
-  properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, monthsOfExperience, name, potentialAction, sameAs, subjectOf, url ]"
-dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../Intangible]]"
-dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, monthsOfExperience, name, potentialAction, sameAs, subjectOf, url ]"
-dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Occupational_Experience_Requirements|Occupational_Experience_Requirements]]"
   - "[[/_public/schema-org/Class/is_a_/Intangible/Occupational_Experience_Requirements.public|Occupational_Experience_Requirements.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Intangible/Occupational_Experience_Requirements.internal|Occupational_Experience_Requirements.internal]]"
@@ -49,6 +36,35 @@ dv_is_same_as:
   - "[[/_private/schema-org/Class/is_a_/Intangible/Occupational_Experience_Requirements.private|Occupational_Experience_Requirements.private]]"
   - "[[/_personal/schema-org/Class/is_a_/Intangible/Occupational_Experience_Requirements.personal|Occupational_Experience_Requirements.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Occupational_Experience_Requirements.secret|Occupational_Experience_Requirements.secret]]"
+dv_has_:
+  properties: '[ additionalType, alternateName, description, disambiguatingDescription,
+    identifier, image, mainEntityOfPage, monthsOfExperience, name, potentialAction,
+    sameAs, subjectOf, url ]'
+dv_is_part_of: https://pending.schema.org
+dv_has_parent_class:
+  - "[[../Intangible]]"
+dv_has_properties:
+  - "[[additional_type|additional_type]]"
+  - "[[alternate_name|alternate_name]]"
+  - "[[../../../Property/Texts/has_description|has_description]]"
+  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[../../../Relation/has/has_identifier|has_identifier]]"
+  - "[[../../../Relation/has/has_image|has_image]]"
+  - "[[../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+  - "[[months_of_experience|months_of_experience]]"
+  - "[[../../../Property/has_name|has_name]]"
+  - "[[../../../Relation/has/has_potential_action|has_potential_action]]"
+  - "[[../../../Relation/is_same_as|is_same_as]]"
+  - "[[../../../Relation/is/is_subject_of|is_subject_of]]"
+  - "[[../Data_Type/Text/Url|Url]]"
+dv_is_same_as:
+- "[[/_Standards/schema-org/Class/is_a_/Intangible/Occupational_Experience_Requirements|Occupational_Experience_Requirements]]"
+- "[[/_public/schema-org/Class/is_a_/Intangible/Occupational_Experience_Requirements.public|Occupational_Experience_Requirements.public]]"
+- "[[/_internal/schema-org/Class/is_a_/Intangible/Occupational_Experience_Requirements.internal|Occupational_Experience_Requirements.internal]]"
+- "[[/_protect/schema-org/Class/is_a_/Intangible/Occupational_Experience_Requirements.protect|Occupational_Experience_Requirements.protect]]"
+- "[[/_private/schema-org/Class/is_a_/Intangible/Occupational_Experience_Requirements.private|Occupational_Experience_Requirements.private]]"
+- "[[/_personal/schema-org/Class/is_a_/Intangible/Occupational_Experience_Requirements.personal|Occupational_Experience_Requirements.personal]]"
+- "[[/_secret/schema-org/Class/is_a_/Intangible/Occupational_Experience_Requirements.secret|Occupational_Experience_Requirements.secret]]"
 ---
 
 Class of all occupational_experience_requirementss.

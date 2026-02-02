@@ -1,45 +1,35 @@
 ---
 aliases:
-  - css-selector-type
-  - css_selector_type
-  - CssSelectorType
-  - is_a_css_selector_type
-  - Css_Selector_Type
-  - Css Selector Type
+- css-selector-type
+- css_selector_type
+- CssSelectorType
+- is_a_css_selector_type
+- Css_Selector_Type
+- Css Selector Type
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - css_selector_type
-layout: ""
+- css_selector_type
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_css_selector_type Class
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
-  - class/data_type
+- class/Class
+- schema-org/Class
+- class/data_type
 title: is_a_css_selector_type Class
 type: Type
 dv_is_:
-  part_of: https://pending.schema.org
   parent_class: "[[../Text]]"
+  part_of: https://pending.schema.org
   same_as:
-    - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Text/Css_Selector_Type|Css_Selector_Type]]"
-    - "[[/_public/schema-org/Class/is_a_/Data_Type/Text/Css_Selector_Type.public|Css_Selector_Type.public]]"
-    - "[[/_internal/schema-org/Class/is_a_/Data_Type/Text/Css_Selector_Type.internal|Css_Selector_Type.internal]]"
-    - "[[/_protect/schema-org/Class/is_a_/Data_Type/Text/Css_Selector_Type.protect|Css_Selector_Type.protect]]"
-    - "[[/_private/schema-org/Class/is_a_/Data_Type/Text/Css_Selector_Type.private|Css_Selector_Type.private]]"
-    - "[[/_personal/schema-org/Class/is_a_/Data_Type/Text/Css_Selector_Type.personal|Css_Selector_Type.personal]]"
-    - "[[/_secret/schema-org/Class/is_a_/Data_Type/Text/Css_Selector_Type.secret|Css_Selector_Type.secret]]"
-dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../Text]]"
-dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Text/Css_Selector_Type|Css_Selector_Type]]"
   - "[[/_public/schema-org/Class/is_a_/Data_Type/Text/Css_Selector_Type.public|Css_Selector_Type.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Data_Type/Text/Css_Selector_Type.internal|Css_Selector_Type.internal]]"
@@ -47,6 +37,17 @@ dv_is_same_as:
   - "[[/_private/schema-org/Class/is_a_/Data_Type/Text/Css_Selector_Type.private|Css_Selector_Type.private]]"
   - "[[/_personal/schema-org/Class/is_a_/Data_Type/Text/Css_Selector_Type.personal|Css_Selector_Type.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Data_Type/Text/Css_Selector_Type.secret|Css_Selector_Type.secret]]"
+dv_is_part_of: https://pending.schema.org
+dv_has_parent_class:
+  - "[[../Text]]"
+dv_is_same_as:
+- "[[/_Standards/schema-org/Class/is_a_/Data_Type/Text/Css_Selector_Type|Css_Selector_Type]]"
+- "[[/_public/schema-org/Class/is_a_/Data_Type/Text/Css_Selector_Type.public|Css_Selector_Type.public]]"
+- "[[/_internal/schema-org/Class/is_a_/Data_Type/Text/Css_Selector_Type.internal|Css_Selector_Type.internal]]"
+- "[[/_protect/schema-org/Class/is_a_/Data_Type/Text/Css_Selector_Type.protect|Css_Selector_Type.protect]]"
+- "[[/_private/schema-org/Class/is_a_/Data_Type/Text/Css_Selector_Type.private|Css_Selector_Type.private]]"
+- "[[/_personal/schema-org/Class/is_a_/Data_Type/Text/Css_Selector_Type.personal|Css_Selector_Type.personal]]"
+- "[[/_secret/schema-org/Class/is_a_/Data_Type/Text/Css_Selector_Type.secret|Css_Selector_Type.secret]]"
 ---
 
 # [[css_selector_type]] 

@@ -1,47 +1,32 @@
 ---
 aliases:
-  - quantitative-value-distribution
-  - quantitative_value_distribution
-  - QuantitativeValueDistribution
-  - is_a_quantitative_value_distribution
-  - Quantitative_Value_Distribution
-  - Quantitative Value Distribution
+- quantitative-value-distribution
+- quantitative_value_distribution
+- QuantitativeValueDistribution
+- is_a_quantitative_value_distribution
+- Quantitative_Value_Distribution
+- Quantitative Value Distribution
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - quantitative_value_distribution
-layout: ""
+- quantitative_value_distribution
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_quantitative_value_distribution Class
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_quantitative_value_distribution Class
 type: Type
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution|Quantitative_Value_Distribution]]"
-    - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution.public|Quantitative_Value_Distribution.public]]"
-    - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution.internal|Quantitative_Value_Distribution.internal]]"
-    - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution.protect|Quantitative_Value_Distribution.protect]]"
-    - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution.private|Quantitative_Value_Distribution.private]]"
-    - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution.personal|Quantitative_Value_Distribution.personal]]"
-    - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution.secret|Quantitative_Value_Distribution.secret]]"
-dv_has_:
-  parent_class: "[[../StructuredValue]]"
-  child_class: "[ MonetaryAmountDistribution ]"
-  properties: "[ additionalType, alternateName, description, disambiguatingDescription, duration, identifier, image, mainEntityOfPage, median, name, percentile10, percentile25, percentile75, percentile90, potentialAction, sameAs, subjectOf, url ]"
-dv_has_parent_class: "[[../StructuredValue]]"
-dv_has_child_class: "[ MonetaryAmountDistribution ]"
-dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, duration, identifier, image, mainEntityOfPage, median, name, percentile10, percentile25, percentile75, percentile90, potentialAction, sameAs, subjectOf, url ]"
-dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution|Quantitative_Value_Distribution]]"
   - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution.public|Quantitative_Value_Distribution.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution.internal|Quantitative_Value_Distribution.internal]]"
@@ -49,6 +34,43 @@ dv_is_same_as:
   - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution.private|Quantitative_Value_Distribution.private]]"
   - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution.personal|Quantitative_Value_Distribution.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution.secret|Quantitative_Value_Distribution.secret]]"
+dv_has_:
+  child_class: '[ MonetaryAmountDistribution ]'
+  parent_class: "[[../StructuredValue]]"
+  properties: '[ additionalType, alternateName, description, disambiguatingDescription,
+    duration, identifier, image, mainEntityOfPage, median, name, percentile10, percentile25,
+    percentile75, percentile90, potentialAction, sameAs, subjectOf, url ]'
+dv_has_parent_class:
+  - "[[../StructuredValue]]"
+dv_has_child_class:
+  - "[[Quantitative_Value_Distribution/Monetary_Amount_Distribution|Monetary_Amount_Distribution]]"
+dv_has_properties:
+  - "[[additional_type|additional_type]]"
+  - "[[alternate_name|alternate_name]]"
+  - "[[../../../../Property/Texts/has_description|has_description]]"
+  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[../../../../Predicate/Quantity/Duration|Duration]]"
+  - "[[../../../../Relation/has/has_identifier|has_identifier]]"
+  - "[[../../../../Relation/has/has_image|has_image]]"
+  - "[[../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+  - "[[median|median]]"
+  - "[[../../../../Property/has_name|has_name]]"
+  - "[[percentile10|percentile10]]"
+  - "[[percentile25|percentile25]]"
+  - "[[percentile75|percentile75]]"
+  - "[[percentile90|percentile90]]"
+  - "[[../../../../Relation/has/has_potential_action|has_potential_action]]"
+  - "[[../../../../Relation/is_same_as|is_same_as]]"
+  - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
+  - "[[../../Data_Type/Text/Url|Url]]"
+dv_is_same_as:
+- "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution|Quantitative_Value_Distribution]]"
+- "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution.public|Quantitative_Value_Distribution.public]]"
+- "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution.internal|Quantitative_Value_Distribution.internal]]"
+- "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution.protect|Quantitative_Value_Distribution.protect]]"
+- "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution.private|Quantitative_Value_Distribution.private]]"
+- "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution.personal|Quantitative_Value_Distribution.personal]]"
+- "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution.secret|Quantitative_Value_Distribution.secret]]"
 ---
 
 Class of all quantitative_value_distributions.
