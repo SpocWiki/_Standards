@@ -55,7 +55,7 @@ dv_has_:
   - "[[../../../Relation/has/has_review/has_review_aspect|has_review_aspect]]"
   - "[[../../../Relation/is_same_as|is_same_as]]"
   - "[[../../../Relation/is/is_subject_of|is_subject_of]]"
-  - "[[../Data_Type/Text/Url|Url]]"
+  - "[[../Property/has_url_for/has_url|has_url]]"
   - "[[../../../Property/has_value_for/has_value_for_worst_rating|has_value_for_worst_rating]]"
 dv_has_parent_class:
   - "[[../Intangible]]"
@@ -79,7 +79,7 @@ dv_has_properties:
   - "[[../../../Relation/has/has_review/has_review_aspect|has_review_aspect]]"
   - "[[../../../Relation/is_same_as|is_same_as]]"
   - "[[../../../Relation/is/is_subject_of|is_subject_of]]"
-  - "[[../Data_Type/Text/Url|Url]]"
+  - "[[../Property/has_url_for/has_url|has_url]]"
   - "[[../../../Property/has_value_for/has_value_for_worst_rating|has_value_for_worst_rating]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Rating|Rating]]"

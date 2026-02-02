@@ -38,13 +38,13 @@ dv_is_:
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Reservation/Boat_Reservation.secret|Boat_Reservation.secret]]"
 dv_has_:
   properties:
-  - "[[additional_type|additional_type]]"
-  - "[[alternate_name|alternate_name]]"
+  - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
+  - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
   - "[[booking_agent|booking_agent]]"
   - "[[booking_time|booking_time]]"
   - "[[../../../../Relation/has/has_broker|has_broker]]"
   - "[[../../../../Property/Texts/has_description|has_description]]"
-  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[../../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
   - "[[../../../../Relation/has/has_identifier|has_identifier]]"
   - "[[../../../../Relation/has/has_image|has_image]]"
   - "[[../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
@@ -62,18 +62,18 @@ dv_has_:
   - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
   - "[[total_price|total_price]]"
   - "[[../../../../Relation/has/has_under_name|has_under_name]]"
-  - "[[../../Data_Type/Text/Url|Url]]"
+  - "[[../../Property/has_url_for/has_url|has_url]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class:
   - "[[../Reservation]]"
 dv_has_properties:
-  - "[[additional_type|additional_type]]"
-  - "[[alternate_name|alternate_name]]"
+  - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
+  - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
   - "[[booking_agent|booking_agent]]"
   - "[[booking_time|booking_time]]"
   - "[[../../../../Relation/has/has_broker|has_broker]]"
   - "[[../../../../Property/Texts/has_description|has_description]]"
-  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[../../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
   - "[[../../../../Relation/has/has_identifier|has_identifier]]"
   - "[[../../../../Relation/has/has_image|has_image]]"
   - "[[../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
@@ -91,7 +91,7 @@ dv_has_properties:
   - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
   - "[[total_price|total_price]]"
   - "[[../../../../Relation/has/has_under_name|has_under_name]]"
-  - "[[../../Data_Type/Text/Url|Url]]"
+  - "[[../../Property/has_url_for/has_url|has_url]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Reservation/Boat_Reservation|Boat_Reservation]]"
   - "[[/_public/schema-org/Class/is_a_/Intangible/Reservation/Boat_Reservation.public|Boat_Reservation.public]]"

@@ -44,7 +44,7 @@ dv_has_:
   properties:
   - "[[../../../Relation/has/has_additional_property|additionalProperty]]"
   - "[[../../../Property/has_url_for/has_url_for_additional_type|additionalType]]"
-  - "[[alternate_name|alternate_name]]"
+  - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
   - "[[../../../Relation/is/is_applicable_in_country|applicableCountry]]"
   - "[[../../../Relation/has/has_customer_remorse_return_fees|customerRemorseReturnFees]]"
   - "[[../../../Relation/has/has_customer_remorse_return_label_source|customerRemorseReturnLabelSource]]"

@@ -1,7 +1,7 @@
 
 # [[TRTL]] 
 
-Turtle writes  [[is_a_/Data_Type/Text/Url|Url]]-Triples with arbitrary @prefix to shorten them.
+Turtle writes  [[is_a_/Property/has_url_for/has_url|has_url]]-Triples with arbitrary @prefix to shorten them.
 Additionally, the following syntactical Operators like Semicolon and Comma
 reduce the repetitions and make it very readable.
 

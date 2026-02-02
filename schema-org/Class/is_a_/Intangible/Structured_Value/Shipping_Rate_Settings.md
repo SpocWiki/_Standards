@@ -38,10 +38,10 @@ dv_is_:
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Rate_Settings.secret|Shipping_Rate_Settings.secret]]"
 dv_has_:
   properties:
-  - "[[additional_type|additional_type]]"
-  - "[[alternate_name|alternate_name]]"
+  - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
+  - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
   - "[[../../../../Property/Texts/has_description|has_description]]"
-  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[../../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
   - "[[does_not_ship|does_not_ship]]"
   - "[[../../../../Relation/has/has_free_shipping_threshold|has_free_shipping_threshold]]"
   - "[[../../../../Relation/has/has_identifier|has_identifier]]"
@@ -55,15 +55,15 @@ dv_has_:
   - "[[../../../../Property/Texts/has_shipping_label|has_shipping_label]]"
   - "[[shipping_rate|shipping_rate]]"
   - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
-  - "[[../../Data_Type/Text/Url|Url]]"
+  - "[[../../Property/has_url_for/has_url|has_url]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class:
   - "[[../structured_value|../structured_value]]"
 dv_has_properties:
-  - "[[additional_type|additional_type]]"
-  - "[[alternate_name|alternate_name]]"
+  - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
+  - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
   - "[[../../../../Property/Texts/has_description|has_description]]"
-  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[../../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
   - "[[does_not_ship|does_not_ship]]"
   - "[[../../../../Relation/has/has_free_shipping_threshold|has_free_shipping_threshold]]"
   - "[[../../../../Relation/has/has_identifier|has_identifier]]"
@@ -77,7 +77,7 @@ dv_has_properties:
   - "[[../../../../Property/Texts/has_shipping_label|has_shipping_label]]"
   - "[[shipping_rate|shipping_rate]]"
   - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
-  - "[[../../Data_Type/Text/Url|Url]]"
+  - "[[../../Property/has_url_for/has_url|has_url]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Rate_Settings|Shipping_Rate_Settings]]"
   - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Shipping_Rate_Settings.public|Shipping_Rate_Settings.public]]"

@@ -69,7 +69,7 @@ dv_has_:
   - "[[../../../Relation/has/has_potential_action|has_potential_action]]"
   - "[[../../../Relation/is_same_as|sameAs]]"
   - "[[../../../Relation/is/is_subject_of|subjectOf]]"
-  - "[[../Data_Type/Text/Url|Url]]"
+  - "[[../Property/has_url_for/has_url|has_url]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class:
   - "[[../Intangible]]"
@@ -90,7 +90,7 @@ dv_has_properties:
   - "[[../../../Relation/has/has_potential_action|has_potential_action]]"
   - "[[../../../Relation/is_same_as|sameAs]]"
   - "[[../../../Relation/is/is_subject_of|subjectOf]]"
-  - "[[../Data_Type/Text/Url|Url]]"
+  - "[[../Property/has_url_for/has_url|has_url]]"
 dv_is_same_as:
   - "[[../../../../WikiData/WD~Observation,193181|WD~Observation,193181]]"
   - "[[Observation]]"

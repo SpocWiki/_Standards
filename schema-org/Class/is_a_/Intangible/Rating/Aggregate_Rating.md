@@ -40,12 +40,12 @@ dv_has_:
   parent_class:
   - "[[../Rating]]"
   properties:
-  - "[[additional_type|additional_type]]"
-  - "[[alternate_name|alternate_name]]"
+  - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
+  - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
   - "[[../../../../Relation/has/has_author|has_author]]"
   - "[[best_rating|best_rating]]"
   - "[[../../../../Property/Texts/has_description|has_description]]"
-  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[../../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
   - "[[../../../../Relation/has/has_identifier|has_identifier]]"
   - "[[../../../../Relation/has/has_image|has_image]]"
   - "[[item_reviewed|item_reviewed]]"
@@ -59,19 +59,19 @@ dv_has_:
   - "[[review_count|review_count]]"
   - "[[../../../../Relation/is_same_as|is_same_as]]"
   - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
-  - "[[../../Data_Type/Text/Url|Url]]"
+  - "[[../../Property/has_url_for/has_url|has_url]]"
   - "[[worst_rating|worst_rating]]"
 dv_has_parent_class:
   - "[[../Rating]]"
 dv_has_child_class:
   - "[[Aggregate_Rating/Employer_Aggregate_Rating|Employer_Aggregate_Rating]]"
 dv_has_properties:
-  - "[[additional_type|additional_type]]"
-  - "[[alternate_name|alternate_name]]"
+  - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
+  - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
   - "[[../../../../Relation/has/has_author|has_author]]"
   - "[[best_rating|best_rating]]"
   - "[[../../../../Property/Texts/has_description|has_description]]"
-  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[../../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
   - "[[../../../../Relation/has/has_identifier|has_identifier]]"
   - "[[../../../../Relation/has/has_image|has_image]]"
   - "[[item_reviewed|item_reviewed]]"
@@ -85,7 +85,7 @@ dv_has_properties:
   - "[[review_count|review_count]]"
   - "[[../../../../Relation/is_same_as|is_same_as]]"
   - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
-  - "[[../../Data_Type/Text/Url|Url]]"
+  - "[[../../Property/has_url_for/has_url|has_url]]"
   - "[[worst_rating|worst_rating]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Rating/Aggregate_Rating|Aggregate_Rating]]"

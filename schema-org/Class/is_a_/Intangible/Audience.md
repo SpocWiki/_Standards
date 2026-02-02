@@ -45,11 +45,11 @@ dv_has_:
   parent_class:
   - "[[../Intangible]]"
   properties:
-  - "[[additional_type|additional_type]]"
-  - "[[alternate_name|alternate_name]]"
+  - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
+  - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
   - "[[../../../Property/Texts/has_audience_type|has_audience_type]]"
   - "[[../../../Property/Texts/has_description|has_description]]"
-  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[../../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
   - "[[../../../Relation/has/has_geographic_area|has_geographic_area]]"
   - "[[../../../Relation/has/has_identifier|has_identifier]]"
   - "[[../../../Relation/has/has_image|has_image]]"
@@ -58,7 +58,7 @@ dv_has_:
   - "[[../../../Relation/has/has_potential_action|has_potential_action]]"
   - "[[../../../Relation/is_same_as|is_same_as]]"
   - "[[../../../Relation/is/is_subject_of|is_subject_of]]"
-  - "[[../Data_Type/Text/Url|Url]]"
+  - "[[../Property/has_url_for/has_url|has_url]]"
 dv_has_parent_class:
   - "[[../Intangible]]"
 dv_has_child_class:
@@ -68,11 +68,11 @@ dv_has_child_class:
   - "[[Audience/People_Audience|People_Audience]]"
   - "[[Audience/Researcher|Researcher]]"
 dv_has_properties:
-  - "[[additional_type|additional_type]]"
-  - "[[alternate_name|alternate_name]]"
+  - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
+  - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
   - "[[../../../Property/Texts/has_audience_type|has_audience_type]]"
   - "[[../../../Property/Texts/has_description|has_description]]"
-  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[../../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
   - "[[../../../Relation/has/has_geographic_area|has_geographic_area]]"
   - "[[../../../Relation/has/has_identifier|has_identifier]]"
   - "[[../../../Relation/has/has_image|has_image]]"
@@ -81,7 +81,7 @@ dv_has_properties:
   - "[[../../../Relation/has/has_potential_action|has_potential_action]]"
   - "[[../../../Relation/is_same_as|is_same_as]]"
   - "[[../../../Relation/is/is_subject_of|is_subject_of]]"
-  - "[[../Data_Type/Text/Url|Url]]"
+  - "[[../Property/has_url_for/has_url|has_url]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Audience|Audience]]"
   - "[[/_public/schema-org/Class/is_a_/Intangible/Audience.public|Audience.public]]"

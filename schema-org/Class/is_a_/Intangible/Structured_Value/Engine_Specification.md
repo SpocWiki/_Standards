@@ -38,10 +38,10 @@ dv_has_:
   parent_class:
   - "[[../StructuredValue]]"
   properties:
-  - "[[additional_type|additional_type]]"
-  - "[[alternate_name|alternate_name]]"
+  - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
+  - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
   - "[[../../../../Property/Texts/has_description|has_description]]"
-  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[../../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
   - "[[engine_displacement|engine_displacement]]"
   - "[[engine_power|engine_power]]"
   - "[[../../../../Relation/has/has_engine_type|has_engine_type]]"
@@ -54,14 +54,14 @@ dv_has_:
   - "[[../../../../Relation/is_same_as|is_same_as]]"
   - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
   - "[[torque|torque]]"
-  - "[[../../Data_Type/Text/Url|Url]]"
+  - "[[../../Property/has_url_for/has_url|has_url]]"
 dv_has_parent_class:
   - "[[../structured_value|../structured_value]]"
 dv_has_properties:
-  - "[[additional_type|additional_type]]"
-  - "[[alternate_name|alternate_name]]"
+  - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
+  - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
   - "[[../../../../Property/Texts/has_description|has_description]]"
-  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[../../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
   - "[[engine_displacement|engine_displacement]]"
   - "[[engine_power|engine_power]]"
   - "[[../../../../Relation/has/has_engine_type|has_engine_type]]"
@@ -74,7 +74,7 @@ dv_has_properties:
   - "[[../../../../Relation/is_same_as|is_same_as]]"
   - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
   - "[[torque|torque]]"
-  - "[[../../Data_Type/Text/Url|Url]]"
+  - "[[../../Property/has_url_for/has_url|has_url]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Engine_Specification|Engine_Specification]]"
   - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Engine_Specification.public|Engine_Specification.public]]"

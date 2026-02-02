@@ -99,10 +99,10 @@ dv_has_:
   parent_class:
   - "[[../Thing|Thing]]"
   properties:
-  - "[[additional_type|additional_type]]"
-  - "[[alternate_name|alternate_name]]"
+  - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
+  - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
   - "[[../../Property/Texts/has_description|has_description]]"
-  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[../../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
   - "[[../../Relation/has/has_identifier|has_identifier]]"
   - "[[../../Relation/has/has_image|has_image]]"
   - "[[../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
@@ -176,10 +176,10 @@ dv_has_child_class:
   - "[[Intangible/Trip|Trip]]"
   - "[[Intangible/Virtual_Location|Virtual_Location]]"
 dv_has_properties:
-  - "[[additional_type|additional_type]]"
-  - "[[alternate_name|alternate_name]]"
+  - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
+  - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
   - "[[../../Property/Texts/has_description|has_description]]"
-  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[../../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
   - "[[../../Relation/has/has_identifier|has_identifier]]"
   - "[[../../Relation/has/has_image|has_image]]"
   - "[[../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"

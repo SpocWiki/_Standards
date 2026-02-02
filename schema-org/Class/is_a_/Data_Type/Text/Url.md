@@ -29,7 +29,7 @@ dv_has_:
   - "[[../Text]]"
 dv_is_:
   same_as:
-  - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Text/Url|Url]]"
+  - "[[/_Standards/schema-org/Class/is_a_/Property/has_url_for/has_url|has_url]]"
   - "[[/_public/schema-org/Class/is_a_/Data_Type/Text/Url.public|Url.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Data_Type/Text/Url.internal|Url.internal]]"
   - "[[/_protect/schema-org/Class/is_a_/Data_Type/Text/Url.protect|Url.protect]]"
@@ -39,7 +39,7 @@ dv_is_:
 dv_has_parent_class:
   - "[[../Text]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Text/Url|Url]]"
+  - "[[/_Standards/schema-org/Class/is_a_/Property/has_url_for/has_url|has_url]]"
   - "[[/_public/schema-org/Class/is_a_/Data_Type/Text/Url.public|Url.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Data_Type/Text/Url.internal|Url.internal]]"
   - "[[/_protect/schema-org/Class/is_a_/Data_Type/Text/Url.protect|Url.protect]]"
@@ -151,7 +151,7 @@ has_parent_class = `=this.dv_has_parent_class`
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Data_Type/Text/Url|Url]] 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Property/has_url_for/has_url|has_url]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Data_Type/Text/Url.public|Url.public]] 
 

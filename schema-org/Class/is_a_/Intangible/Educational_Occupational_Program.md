@@ -40,13 +40,13 @@ dv_has_:
   child_class:
   - "[[Educational_Occupational_Program/Work_Based_Program|Work_Based_Program]]"
   properties:
-  - "[[additional_type|additional_type]]"
-  - "[[alternate_name|alternate_name]]"
+  - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
+  - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
   - "[[application_deadline|application_deadline]]"
   - "[[application_start_date|application_start_date]]"
   - "[[../../../Relation/has/has_day_of_week|has_day_of_week]]"
   - "[[../../../Property/Texts/has_description|has_description]]"
-  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[../../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
   - "[[educational_credential_awarded|educational_credential_awarded]]"
   - "[[../../../Property/Texts/has_educational_program_mode|has_educational_program_mode]]"
   - "[[end_date|end_date]]"
@@ -75,20 +75,20 @@ dv_has_:
   - "[[time_to_complete|time_to_complete]]"
   - "[[training_salary|training_salary]]"
   - "[[typical_credits_per_term|typical_credits_per_term]]"
-  - "[[../Data_Type/Text/Url|Url]]"
+  - "[[../Property/has_url_for/has_url|has_url]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class:
   - "[[../Intangible]]"
 dv_has_child_class:
   - "[[Educational_Occupational_Program/Work_Based_Program|Work_Based_Program]]"
 dv_has_properties:
-  - "[[additional_type|additional_type]]"
-  - "[[alternate_name|alternate_name]]"
+  - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
+  - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
   - "[[application_deadline|application_deadline]]"
   - "[[application_start_date|application_start_date]]"
   - "[[../../../Relation/has/has_day_of_week|has_day_of_week]]"
   - "[[../../../Property/Texts/has_description|has_description]]"
-  - "[[disambiguating_description|disambiguating_description]]"
+  - "[[../../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
   - "[[educational_credential_awarded|educational_credential_awarded]]"
   - "[[../../../Property/Texts/has_educational_program_mode|has_educational_program_mode]]"
   - "[[end_date|end_date]]"
@@ -117,7 +117,7 @@ dv_has_properties:
   - "[[time_to_complete|time_to_complete]]"
   - "[[training_salary|training_salary]]"
   - "[[typical_credits_per_term|typical_credits_per_term]]"
-  - "[[../Data_Type/Text/Url|Url]]"
+  - "[[../Property/has_url_for/has_url|has_url]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Class/is_a_/Intangible/Educational_Occupational_Program|Educational_Occupational_Program]]"
   - "[[/_public/schema-org/Class/is_a_/Intangible/Educational_Occupational_Program.public|Educational_Occupational_Program.public]]"
