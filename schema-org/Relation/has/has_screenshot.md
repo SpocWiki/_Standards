@@ -57,9 +57,11 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_screenshot.private|has_screenshot.private]]"
     - "[[/_personal/schema-org/Relation/has/has_screenshot.personal|has_screenshot.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_screenshot.secret|has_screenshot.secret]]"
-dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Communication/Media/Creative_Work/Software_Application|SoftwareApplication]]"
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Software_Application|Software_Application]]"
 dv_has_name: is_screenshot
-dv_has_range: ImageObject, URL
+dv_has_range:
+  - "[[../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object|Image_Object]]"
+  - "[[../../Class/is_a_/Data_Type/Text/Url|Url]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_screenshot|has_screenshot]]"
   - "[[/_public/schema-org/Relation/has/has_screenshot.public|has_screenshot.public]]"

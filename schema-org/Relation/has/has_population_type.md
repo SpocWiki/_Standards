@@ -16,7 +16,7 @@ dv_is_:
     - "[[/_secret/schema-org/Relation/has/has_population_type.secret|has_population_type.secret]]"
 dv_has_domain: "[[../../Class/is_a_/Intangible/Statistical_Population|StatisticalPopulation]]"
 dv_has_name: is_population_type
-dv_has_range: "[[../../../D:/_Obsidian/SpocWeb/_Standards/schema-org/Class|Class]]"
+dv_has_range: "[[../../Class|Class]]"
 dv_is_same_as:
   - "[[has_population_type]]"
   - "[[/_public/schema-org/Relation/has/has_population_type.public|has_population_type.public]]"

@@ -57,9 +57,11 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_preparation.private|has_preparation.private]]"
     - "[[/_personal/schema-org/Relation/has/has_preparation.personal|has_preparation.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_preparation.secret|has_preparation.secret]]"
-dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure|MedicalProcedure]]"
+dv_has_domain: "[[../../../bio/Medicine/Medical_Guideline/Medical_Procedure|Medical_Procedure]]"
 dv_has_name: is_preparation
-dv_has_range: MedicalEntity, Text
+dv_has_range:
+  - "[[../../../bio/Medicine/Medical_Entity|Medical_Entity]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_preparation|has_preparation]]"
   - "[[/_public/schema-org/Relation/has/has_preparation.public|has_preparation.public]]"

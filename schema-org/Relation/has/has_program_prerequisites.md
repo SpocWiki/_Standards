@@ -16,7 +16,11 @@ dv_is_:
     - "[[/_secret/schema-org/Relation/has/has_program_prerequisites.secret|has_program_prerequisites.secret]]"
 dv_has_domain: "[[../../Class/is_a_/Intangible/Educational_Occupational_Program|EducationalOccupationalProgram]]"
 dv_has_name: is_program_prerequisites
-dv_has_range: AlignmentObject, Course, EducationalOccupationalCredential, Text
+dv_has_range:
+  - "[[../../Class/is_a_/Intangible/Alignment_Object|Alignment_Object]]"
+  - "[[../../../Society/Communication/Media/Creative_Work/Course|Course]]"
+  - "[[../../../Society/Communication/Media/Creative_Work/Educational_Occupational_Credential|Educational_Occupational_Credential]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_same_as:
   - "[[has_program_prerequisites]]"
   - "[[/_public/schema-org/Relation/has/has_program_prerequisites.public|has_program_prerequisites.public]]"

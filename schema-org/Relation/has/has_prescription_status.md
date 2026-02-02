@@ -61,9 +61,11 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_prescription_status.private|has_prescription_status.private]]"
     - "[[/_personal/schema-org/Relation/has/has_prescription_status.personal|has_prescription_status.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_prescription_status.secret|has_prescription_status.secret]]"
-dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/bio/Medicine/Drug|Drug]]"
+dv_has_domain: "[[../../../bio/Medicine/Drug|Drug]]"
 dv_has_name: is_prescription_status
-dv_has_range: DrugPrescriptionStatus, Text
+dv_has_range:
+  - "[[../../../bio/Medicine/Medical_Enumeration/Drug_Prescription_Status|Drug_Prescription_Status]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_prescription_status|has_prescription_status]]"
   - "[[/_public/schema-org/Relation/has/has_prescription_status.public|has_prescription_status.public]]"

@@ -14,6 +14,22 @@ dv_is_same_as:
   - "[[/_internal/schema-org/Relation/has/has_producer.internal|has_producer.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_producer.protect|has_producer.protect]]"
   - "[[/_private/schema-org/Relation/has/has_producer.private|has_producer.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_producer.personal---
+dv_is_:
+  same_as:
+    - "[[has_producer]]"
+    - "[[/_public/schema-org/Relation/has/has_producer.public|has_producer.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_producer.internal|has_producer.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_producer.protect|has_producer.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_producer.private|has_producer.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_producer.personal|has_producer.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_producer.secret|has_producer.secret]]"
+dv_is_same_as:
+  - "[[has_producer]]"
+  - "[[/_public/schema-org/Relation/has/has_producer.public|has_producer.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_producer.internal|has_producer.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_producer.protect|has_producer.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_producer.private|has_producer.private]]"
   - "[[/_personal/schema-org/Relation/has/has_producer.personal|has_producer.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_producer.secret|has_producer.secret]]"
 ---
@@ -57,9 +73,11 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_producer.private|has_producer.private]]"
     - "[[/_personal/schema-org/Relation/has/has_producer.personal|has_producer.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_producer.secret|has_producer.secret]]"
-dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Communication/Media/Creative_Work|CreativeWork]]"
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
 dv_has_name: is_producer
-dv_has_range: Organization, Person
+dv_has_range:
+  - "[[../../../Society/Agent/Community/Organization|Organization]]"
+  - "[[../../../Society/Agent/Person|Person]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_producer|has_producer]]"
   - "[[/_public/schema-org/Relation/has/has_producer.public|has_producer.public]]"

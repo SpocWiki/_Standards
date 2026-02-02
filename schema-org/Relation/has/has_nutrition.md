@@ -43,7 +43,9 @@ dv_is_:
     - "[[/_personal/schema-org/Relation/has/has_nutrition.personal|has_nutrition.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_nutrition.secret|has_nutrition.secret]]"
     - "[[has_nutrition]]"
-dv_has_domain: MenuItem, Recipe
+dv_has_domain:
+  - "[[../../Class/is_a_/Intangible/Menu_Item|Menu_Item]]"
+  - "[[../../../Society/Communication/Media/Creative_Work/How_to/Recipe|Recipe]]"
 dv_has_name: has_nutrition
 dv_has_range: "[[../../Class/is_a_/Intangible/Structured_Value/Nutrition_Information|NutritionInformation]]"
 dv_is_same_as:

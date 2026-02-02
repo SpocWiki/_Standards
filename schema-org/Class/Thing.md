@@ -149,7 +149,6 @@ There is no larger Class:  has_parent_class = `=this.dv_has_parent_class`
 
 - #has_/child_/class = `=this.dv_has_child_class` 
 - has_child_class = `=this.dv_has_child_class` 
-- 
 - #has_/properties = `=this.dv_has_properties`
 
 ## RDF-Objects 

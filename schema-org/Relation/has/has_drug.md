@@ -23,11 +23,9 @@ tags:
 title: has_drug
 type: Predi_Relation
 dv_has_:
-  drug: Drug
   domain: DrugClass, MedicalCondition, Patient, TherapeuticProcedure
   name: has_drug
   range: Drug
-dv_has_drug: Drug
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_drug|has_drug]]"
@@ -38,9 +36,13 @@ dv_is_:
     - "[[/_personal/schema-org/Relation/has/has_drug.personal|has_drug.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_drug.secret|has_drug.secret]]"
     - "[[has_drug]]"
-dv_has_domain: DrugClass, MedicalCondition, Patient, TherapeuticProcedure
+dv_has_domain:
+  - "[[../../../bio/Medicine/Drug/Drug_Class|Drug_Class]]"
+  - "[[../../../bio/Medicine/Medical_Condition|Medical_Condition]]"
+  - "[[../../Class/is_a_/Intangible/Audience/Medical_Audience/Patient|Patient]]"
+  - "[[../../../bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure|Therapeutic_Procedure]]"
 dv_has_name: has_drug
-dv_has_range: Drug
+dv_has_range: "[[../../../bio/Medicine/Drug|Drug]]"
 dv_is_same_as:
   - "[[has_drug]]"
   - "[[/_public/schema-org/Relation/has/has_drug.public|has_drug.public]]"
@@ -52,22 +54,24 @@ dv_is_same_as:
 dv_is_a: "[[../../Relation|Relation]]"
 ---
 
+## [[has_drug]] 
 
 is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[is_drug_for]] 
 
 Use it like this: 
-- #has_/drug = `=this.dv_has_drug`  
-- has_drug = `=this.dv_has_drug`  
+- #has_/drug : : `=this.dv_has_range`  
+- has_drug : : `=this.dv_has_range`  
+- is_drug_for : : `=this.dv_has_domain`  
+- #is_/drug_for : : `=this.dv_has_domain`  
 
 Specifying a drug or medicine used in a medication procedure.
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

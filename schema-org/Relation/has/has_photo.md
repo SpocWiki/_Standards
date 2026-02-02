@@ -16,9 +16,11 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_photo.private|has_photo.private]]"
     - "[[/_personal/schema-org/Relation/has/has_photo.personal|has_photo.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_photo.secret|has_photo.secret]]"
-dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Earth/Geography/Place|Place]]"
+dv_has_domain: "[[../../../Earth/Geography/Place|Place]]"
 dv_has_name: is_photo
-dv_has_range: ImageObject, Photograph
+dv_has_range:
+  - "[[../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object|Image_Object]]"
+  - "[[../../../Society/Communication/Media/Creative_Work/Photograph|Photograph]]"
 dv_has_parent_property: image
 dv_is_same_as:
   - "[[has_photo]]"

@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has own
   - is_owning
@@ -40,9 +40,13 @@ dv_is_:
     - "[[/_personal/schema-org/Relation/has/has_own.personal|has_own.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_own.secret|has_own.secret]]"
     - "[[has_own]]"
-dv_has_domain: Organization, Person
+dv_has_domain:
+  - "[[../../../Society/Agent/Community/Organization|Organization]]"
+  - "[[../../../Society/Agent/Person|Person]]"
 dv_has_name: "[[has_own]]"
-dv_has_range: OwnershipInfo, Product
+dv_has_range:
+  - "[[../../Class/is_a_/Intangible/Structured_Value/Ownership_Info|Ownership_Info]]"
+  - "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]"
 dv_has_inverse: "[[has_owner]]"
 dv_is_same_as:
   - "[[has_own]]"

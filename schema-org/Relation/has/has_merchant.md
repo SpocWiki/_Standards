@@ -41,7 +41,9 @@ dv_is_:
     - "[[has_merchant]]"
 dv_has_domain: "[[../../Class/is_a_/Intangible/Order|Order]]"
 dv_has_name: has_merchant
-dv_has_range: Organization, Person
+dv_has_range:
+  - "[[../../../Society/Agent/Community/Organization|Organization]]"
+  - "[[../../../Society/Agent/Person|Person]]"
 dv_is_same_as:
   - "[[has_merchant]]"
   - "[[/_public/schema-org/Relation/has/has_merchant.public|has_merchant.public]]"

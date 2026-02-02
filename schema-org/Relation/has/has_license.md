@@ -40,9 +40,11 @@ dv_is_:
     - "[[/_personal/schema-org/Relation/has/has_license.personal|has_license.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_license.secret|has_license.secret]]"
     - "[[has_license]]"
-dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Communication/Media/Creative_Work|CreativeWork]]"
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
 dv_has_name: has_license
-dv_has_range: CreativeWork, URL
+dv_has_range:
+  - "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
+  - "[[../../Class/is_a_/Data_Type/Text/Url|Url]]"
 dv_is_same_as:
   - "[[has_license]]"
   - "[[/_public/schema-org/Relation/has/has_license.public|has_license.public]]"

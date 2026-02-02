@@ -63,7 +63,7 @@ dv_is_:
     - "[[/_secret/schema-org/Relation/has/has_server_status.secret|has_server_status.secret]]"
 dv_has_domain: "[[../../Class/is_a_/Intangible/Game_Server|GameServer]]"
 dv_has_name: is_server_status
-dv_has_range: "[[../../../D:/_Obsidian/SpocWeb/_Standards/schema-org/Enumeration/Status_Enumeration/Game_Server_Status|GameServerStatus]]"
+dv_has_range: "[[../../Enumeration/Status_Enumeration/Game_Server_Status|Game_Server_Status]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_server_status|has_server_status]]"
   - "[[/_public/schema-org/Relation/has/has_server_status.public|has_server_status.public]]"

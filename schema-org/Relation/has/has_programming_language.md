@@ -12,6 +12,20 @@ dv_is_same_as:
   - "[[has_programming_language]]"
   - "[[/_public/schema-org/Relation/has/has_programming_language.public|has_programming_language.public]]"
   - "[[/_internal/schema-org/Relation/has/has_programming_language.internal|has_programming_language.internal]]"
+  - "[[/_protect/sc---
+dv_is_:
+  same_as:
+    - "[[has_programming_language]]"
+    - "[[/_public/schema-org/Relation/has/has_programming_language.public|has_programming_language.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_programming_language.internal|has_programming_language.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_programming_language.protect|has_programming_language.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_programming_language.private|has_programming_language.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_programming_language.personal|has_programming_language.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_programming_language.secret|has_programming_language.secret]]"
+dv_is_same_as:
+  - "[[has_programming_language]]"
+  - "[[/_public/schema-org/Relation/has/has_programming_language.public|has_programming_language.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_programming_language.internal|has_programming_language.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_programming_language.protect|has_programming_language.protect]]"
   - "[[/_private/schema-org/Relation/has/has_programming_language.private|has_programming_language.private]]"
   - "[[/_personal/schema-org/Relation/has/has_programming_language.personal|has_programming_language.personal]]"
@@ -61,9 +75,11 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_programming_language.private|has_programming_language.private]]"
     - "[[/_personal/schema-org/Relation/has/has_programming_language.personal|has_programming_language.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_programming_language.secret|has_programming_language.secret]]"
-dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Communication/Media/Creative_Work/Software_Source_Code|SoftwareSourceCode]]"
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Software_Source_Code|Software_Source_Code]]"
 dv_has_name: is_programming_language
-dv_has_range: ComputerLanguage, Text
+dv_has_range:
+  - "[[../../Class/is_a_/Intangible/Computer_Language|Computer_Language]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_programming_language|has_programming_language]]"
   - "[[/_public/schema-org/Relation/has/has_programming_language.public|has_programming_language.public]]"

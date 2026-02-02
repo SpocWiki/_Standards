@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has guideline
   - has_guideline
@@ -37,9 +37,9 @@ dv_is_:
     - "[[/_personal/schema-org/Relation/has/has_guideline.personal|has_guideline.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_guideline.secret|has_guideline.secret]]"
     - "[[has_guideline]]"
-dv_has_domain: MedicalEntity
+dv_has_domain: "[[../../../bio/Medicine/Medical_Entity|Medical_Entity]]"
 dv_has_name: has_guideline
-dv_has_range: MedicalGuideline
+dv_has_range: "[[../../../bio/Medicine/Medical_Guideline|Medical_Guideline]]"
 dv_is_same_as:
   - "[[has_guideline]]"
   - "[[/_public/schema-org/Relation/has/has_guideline.public|has_guideline.public]]"

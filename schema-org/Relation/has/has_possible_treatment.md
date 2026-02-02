@@ -61,9 +61,11 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_possible_treatment.private|has_possible_treatment.private]]"
     - "[[/_personal/schema-org/Relation/has/has_possible_treatment.personal|has_possible_treatment.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_possible_treatment.secret|has_possible_treatment.secret]]"
-dv_has_domain: MedicalCondition, MedicalSignOrSymptom
+dv_has_domain:
+  - "[[../../../bio/Medicine/Medical_Condition|Medical_Condition]]"
+  - "[[../../../bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom|Medical_Sign_or_Symptom]]"
 dv_has_name: is_possible_treatment
-dv_has_range: "[[../../../D:/_Obsidian/SpocWeb/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Therapy|MedicalTherapy]]"
+dv_has_range: "[[../../../bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Therapy|Medical_Therapy]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_possible_treatment|has_possible_treatment]]"
   - "[[/_public/schema-org/Relation/has/has_possible_treatment.public|has_possible_treatment.public]]"

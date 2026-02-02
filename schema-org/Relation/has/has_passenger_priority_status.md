@@ -64,7 +64,9 @@ dv_is_:
     - "[[/_secret/schema-org/Relation/has/has_passenger_priority_status.secret|has_passenger_priority_status.secret]]"
 dv_has_domain: "[[../../Class/is_a_/Intangible/Reservation/Flight_Reservation|FlightReservation]]"
 dv_has_name: has_passenger_priority_status
-dv_has_range: QualitativeValue, Text
+dv_has_range:
+  - "[[../../Enumeration/Qualitative_Value|Qualitative_Value]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_passenger_priority_status|has_passenger_priority_status]]"
   - "[[/_public/schema-org/Relation/has/has_passenger_priority_status.public|has_passenger_priority_status.public]]"

@@ -13,6 +13,21 @@ dv_is_same_as:
   - "[[/_public/schema-org/Relation/has/has_seating_type.public|has_seating_type.public]]"
   - "[[/_internal/schema-org/Relation/has/has_seating_type.internal|has_seating_type.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_seating_type.protect|has_seating_type.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_seating_type.private|has---
+dv_is_:
+  same_as:
+    - "[[has_seating_type]]"
+    - "[[/_public/schema-org/Relation/has/has_seating_type.public|has_seating_type.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_seating_type.internal|has_seating_type.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_seating_type.protect|has_seating_type.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_seating_type.private|has_seating_type.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_seating_type.personal|has_seating_type.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_seating_type.secret|has_seating_type.secret]]"
+dv_is_same_as:
+  - "[[has_seating_type]]"
+  - "[[/_public/schema-org/Relation/has/has_seating_type.public|has_seating_type.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_seating_type.internal|has_seating_type.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_seating_type.protect|has_seating_type.protect]]"
   - "[[/_private/schema-org/Relation/has/has_seating_type.private|has_seating_type.private]]"
   - "[[/_personal/schema-org/Relation/has/has_seating_type.personal|has_seating_type.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_seating_type.secret|has_seating_type.secret]]"
@@ -63,7 +78,9 @@ dv_is_:
     - "[[/_secret/schema-org/Relation/has/has_seating_type.secret|has_seating_type.secret]]"
 dv_has_domain: "[[../../Class/is_a_/Intangible/Seat|Seat]]"
 dv_has_name: is_seating_type
-dv_has_range: QualitativeValue, Text
+dv_has_range:
+  - "[[../../Enumeration/Qualitative_Value|Qualitative_Value]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_seating_type|has_seating_type]]"
   - "[[/_public/schema-org/Relation/has/has_seating_type.public|has_seating_type.public]]"

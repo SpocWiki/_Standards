@@ -1,4 +1,4 @@
----
+﻿---
 dv_is_:
   same_as:
     - "[[has_price_type]]"
@@ -61,9 +61,13 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_price_type.private|has_price_type.private]]"
     - "[[/_personal/schema-org/Relation/has/has_price_type.personal|has_price_type.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_price_type.secret|has_price_type.secret]]"
-dv_has_domain: CompoundPriceSpecification, UnitPriceSpecification
+dv_has_domain:
+  - "[[../../Class/is_a_/Intangible/Structured_Value/Price_Specification/Compound_Price_Specification|Compound_Price_Specification]]"
+  - "[[../../Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification|Unit_Price_Specification]]"
 dv_has_name: is_price_type
-dv_has_range: PriceTypeEnumeration, Text
+dv_has_range:
+  - "[[../../Enumeration/Price_Type_Enumeration|Price_Type_Enumeration]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_price_type|has_price_type]]"
   - "[[/_public/schema-org/Relation/has/has_price_type.public|has_price_type.public]]"

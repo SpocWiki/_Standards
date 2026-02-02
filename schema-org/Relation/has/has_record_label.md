@@ -61,9 +61,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_record_label.private|has_record_label.private]]"
     - "[[/_personal/schema-org/Relation/has/has_record_label.personal|has_record_label.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_record_label.secret|has_record_label.secret]]"
-dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Communication/Media/Creative_Work/Music_Playlist/Music_Release|MusicRelease]]"
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Music_Playlist/Music_Release|Music_Release]]"
 dv_has_name: is_record_label
-dv_has_range: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Agent/Community/Organization|Organization]]"
+dv_has_range: "[[../../../Society/Agent/Community/Organization|Organization]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_record_label|has_record_label]]"
   - "[[/_public/schema-org/Relation/has/has_record_label.public|has_record_label.public]]"

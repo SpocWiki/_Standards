@@ -16,7 +16,9 @@ dv_is_:
     - "[[/_secret/schema-org/Relation/has/has_performer.secret|has_performer.secret]]"
 dv_has_domain: "[[../../Class/is_a_/Event|Event]]"
 dv_has_name: has_performer
-dv_has_range: Organization, Person
+dv_has_range:
+  - "[[../../../Society/Agent/Community/Organization|Organization]]"
+  - "[[../../../Society/Agent/Person|Person]]"
 dv_is_same_as:
   - "[[has_performer]]"
   - "[[/_public/schema-org/Relation/has/has_performer.public|has_performer.public]]"

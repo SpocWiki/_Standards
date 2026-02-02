@@ -1,4 +1,4 @@
----
+﻿---
 dv_has_:
   pattern: DefinedTerm, Text
   domain: CreativeWork, Product
@@ -14,9 +14,13 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_pattern.private|has_pattern.private]]"
     - "[[/_personal/schema-org/Relation/has/has_pattern.personal|has_pattern.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_pattern.secret|has_pattern.secret]]"
-dv_has_domain: CreativeWork, Product
+dv_has_domain:
+  - "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
+  - "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]"
 dv_has_name: has_pattern
-dv_has_range: DefinedTerm, Text
+dv_has_range:
+  - "[[../../Class/is_a_/Intangible/Defined_Term|Defined_Term]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_same_as:
   - "[[has_pattern]]"
   - "[[/_public/schema-org/Relation/has/has_pattern.public|has_pattern.public]]"

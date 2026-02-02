@@ -14,7 +14,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_potential_use.private|has_potential_use.private]]"
     - "[[/_personal/schema-org/Relation/has/has_potential_use.personal|has_potential_use.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_potential_use.secret|has_potential_use.secret]]"
-dv_has_domain: ChemicalSubstance, MolecularEntity
+dv_has_domain:
+  - "[[../../../Chemistry/Substance/Chemical_Substance|Chemical_Substance]]"
+  - "[[../../Class/is_a_/Bio_Chem_Entity/Molecular_Entity|Molecular_Entity]]"
 dv_has_name: is_potential_use
 dv_has_range: "[[../../Class/is_a_/Intangible/Defined_Term|DefinedTerm]]"
 dv_is_same_as:

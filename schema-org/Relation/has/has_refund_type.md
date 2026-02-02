@@ -16,7 +16,7 @@ dv_is_:
     - "[[/_secret/schema-org/Relation/has/has_refund_type.secret|has_refund_type.secret]]"
 dv_has_domain: "[[../../Class/is_a_/Intangible/Merchant_Return_Policy|MerchantReturnPolicy]]"
 dv_has_name: is_refund_type
-dv_has_range: "[[../../../D:/_Obsidian/SpocWeb/_Standards/schema-org/Enumeration/Refund_Type_Enumeration|RefundTypeEnumeration]]"
+dv_has_range: "[[../../Enumeration/Refund_Type_Enumeration|Refund_Type_Enumeration]]"
 dv_is_same_as:
   - "[[has_refund_type]]"
   - "[[/_public/schema-org/Relation/has/has_refund_type.public|has_refund_type.public]]"

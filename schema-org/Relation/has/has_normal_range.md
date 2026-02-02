@@ -43,9 +43,11 @@ dv_is_:
     - "[[/_personal/schema-org/Relation/has/has_normal_range.personal|has_normal_range.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_normal_range.secret|has_normal_range.secret]]"
     - "[[has_normal_range]]"
-dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/bio/Medicine/Medical_Entity/Medical_Test|MedicalTest]]"
+dv_has_domain: "[[../../../bio/Medicine/Medical_Entity/Medical_Test|Medical_Test]]"
 dv_has_name: has_normal_range
-dv_has_range: MedicalEnumeration, Text
+dv_has_range:
+  - "[[../../../bio/Medicine/Medical_Enumeration|Medical_Enumeration]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_same_as:
   - "[[has_normal_range]]"
   - "[[/_public/schema-org/Relation/has/has_normal_range.public|has_normal_range.public]]"

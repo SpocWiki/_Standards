@@ -61,9 +61,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_shared_content.private|has_shared_content.private]]"
     - "[[/_personal/schema-org/Relation/has/has_shared_content.personal|has_shared_content.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_shared_content.secret|has_shared_content.secret]]"
-dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting|SocialMediaPosting]]"
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Article/Social_Media_Posting|Social_Media_Posting]]"
 dv_has_name: is_shared_content
-dv_has_range: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Communication/Media/Creative_Work|CreativeWork]]"
+dv_has_range: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_shared_content|has_shared_content]]"
   - "[[/_public/schema-org/Relation/has/has_shared_content.public|has_shared_content.public]]"

@@ -18,7 +18,31 @@ dv_is_:
     - "[[/_secret/schema-org/Relation/has/has_recipe.secret|has_recipe.secret]]"
 dv_has_domain: "[[../../Class/is_a_/Action/Create_Action/Cook_Action|CookAction]]"
 dv_has_name: is_recipe
-dv_has_range: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Communication/Media/Creative_Work/How_to/Recipe|Recipe]]"
+dv_has_range: "[[../../../Society/Communication/Media/Creative_Work/How_to/Recipe|Recipe]]"
+dv_has_parent_property: instrument
+dv_is_same_as:
+  - "[[has_recipe]]"
+  - "[[/_public/schema-org/Relation/has/has_recipe.public|has_r---
+dv_has_:
+  recipe: Recipe
+  domain: CookAction
+  name: is_recipe
+  range: Recipe
+  parent_:
+    property: instrument
+dv_has_recipe: Recipe
+dv_is_:
+  same_as:
+    - "[[has_recipe]]"
+    - "[[/_public/schema-org/Relation/has/has_recipe.public|has_recipe.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_recipe.internal|has_recipe.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_recipe.protect|has_recipe.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_recipe.private|has_recipe.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_recipe.personal|has_recipe.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_recipe.secret|has_recipe.secret]]"
+dv_has_domain: "[[../../Class/is_a_/Action/Create_Action/Cook_Action|CookAction]]"
+dv_has_name: is_recipe
+dv_has_range: "[[../../../Society/Communication/Media/Creative_Work/How_to/Recipe|Recipe]]"
 dv_has_parent_property: instrument
 dv_is_same_as:
   - "[[has_recipe]]"

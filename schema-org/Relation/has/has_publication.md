@@ -57,7 +57,7 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_publication.private|has_publication.private]]"
     - "[[/_personal/schema-org/Relation/has/has_publication.personal|has_publication.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_publication.secret|has_publication.secret]]"
-dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Communication/Media/Creative_Work|CreativeWork]]"
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
 dv_has_name: is_publication
 dv_has_range: "[[../../Class/is_a_/Event/Publication_Event|PublicationEvent]]"
 dv_is_same_as:

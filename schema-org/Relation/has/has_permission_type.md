@@ -63,7 +63,7 @@ dv_is_:
     - "[[/_secret/schema-org/Relation/has/has_permission_type.secret|has_permission_type.secret]]"
 dv_has_domain: "[[../../Class/is_a_/Intangible/Digital_Document_Permission|DigitalDocumentPermission]]"
 dv_has_name: is_permission_type
-dv_has_range: "[[../../../D:/_Obsidian/SpocWeb/_Standards/schema-org/Enumeration/Digital_Document_Permission_Type|DigitalDocumentPermissionType]]"
+dv_has_range: "[[../../Enumeration/Digital_Document_Permission_Type|Digital_Document_Permission_Type]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_permission_type|has_permission_type]]"
   - "[[/_public/schema-org/Relation/has/has_permission_type.public|has_permission_type.public]]"

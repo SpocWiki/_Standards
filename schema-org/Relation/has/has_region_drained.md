@@ -1,4 +1,19 @@
----
+﻿---
+dv_is_:
+  same_as:
+    - "[[has_region_drained]]"
+    - "[[/_public/schema-org/Relation/has/has_region_drained.public|has_region_drained.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_region_drained.internal|has_region_drained.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_region_drained.protect|has_region_drained.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_region_drained.private|has_region_drained.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_region_drained.personal|has_region_drained.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_region_drained.secret|has_region_drained.secret]]"
+dv_is_same_as:
+  - "[[has_region_drained]]"
+  - "[[/_public/schema-org/Relation/has/has_region_drained.public|has_region_drained.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_region_drained.internal|has_region_drained.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_region_drained.protect|has_region_drained.protect]]"
+  - "[[/_private/schema-org/R---
 dv_is_:
   same_as:
     - "[[has_region_drained]]"
@@ -61,9 +76,13 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_region_drained.private|has_region_drained.private]]"
     - "[[/_personal/schema-org/Relation/has/has_region_drained.personal|has_region_drained.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_region_drained.secret|has_region_drained.secret]]"
-dv_has_domain: LymphaticVessel, Vein
+dv_has_domain:
+  - "[[../../../bio/Medicine/Anatomy/Circulatory_System/Lymphatic_vessel|Lymphatic_vessel]]"
+  - "[[../../../bio/Medicine/Anatomy/Circulatory_System/Vein|Vein]]"
 dv_has_name: is_region_drained
-dv_has_range: AnatomicalStructure, AnatomicalSystem
+dv_has_range:
+  - "[[../../../bio/Medicine/Anatomy/Anatomical_Structure|Anatomical_Structure]]"
+  - "[[../../../bio/Medicine/Medical_Entity/Anatomical_System|Anatomical_System]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_region_drained|has_region_drained]]"
   - "[[/_public/schema-org/Relation/has/has_region_drained.public|has_region_drained.public]]"

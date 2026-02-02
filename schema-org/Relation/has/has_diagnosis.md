@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has_diagnosis
   - has diagnosis
@@ -38,9 +38,11 @@ dv_is_:
     - "[[/_personal/schema-org/Relation/has/has_diagnosis.personal|has_diagnosis.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_diagnosis.secret|has_diagnosis.secret]]"
     - "[[has_diagnosis]]"
-dv_has_domain: DDxElement, Patient
+dv_has_domain:
+  - "[[../../../bio/Medicine/Medical_Entity/Medical_Intangible/D_Dx_Element|D_Dx_Element]]"
+  - "[[../../Class/is_a_/Intangible/Audience/Medical_Audience/Patient|Patient]]"
 dv_has_name: has_diagnosis
-dv_has_range: MedicalCondition
+dv_has_range: "[[../../../bio/Medicine/Medical_Condition|Medical_Condition]]"
 dv_is_same_as:
   - "[[has_diagnosis]]"
   - "[[/_public/schema-org/Relation/has/has_diagnosis.public|has_diagnosis.public]]"

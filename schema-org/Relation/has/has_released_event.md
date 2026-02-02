@@ -61,7 +61,7 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_released_event.private|has_released_event.private]]"
     - "[[/_personal/schema-org/Relation/has/has_released_event.personal|has_released_event.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_released_event.secret|has_released_event.secret]]"
-dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Communication/Media/Creative_Work|CreativeWork]]"
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
 dv_has_name: is_released_event
 dv_has_range: "[[../../Class/is_a_/Event/Publication_Event|PublicationEvent]]"
 dv_is_same_as:

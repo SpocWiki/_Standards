@@ -1,4 +1,4 @@
----
+﻿---
 dv_has_:
   qualifications: EducationalOccupationalCredential, Text
   domain: JobPosting, Occupation
@@ -14,9 +14,31 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_qualifications.private|has_qualifications.private]]"
     - "[[/_personal/schema-org/Relation/has/has_qualifications.personal|has_qualifications.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_qualifications.secret|has_qualifications.secret]]"
-dv_has_domain: JobPosting, Occupation
+dv_has_domain:
+  - "[[../../Class/is_a_/Intangible/Job_Posting|Job_Posting]]"
+  - "[[../../Class/is_a_/Intangible/Occupation|Oc---
+dv_has_:
+  qualifications: EducationalOccupationalCredential, Text
+  domain: JobPosting, Occupation
+  name: is_qualifications
+  range: EducationalOccupationalCredential, Text
+dv_has_qualifications: EducationalOccupationalCredential, Text
+dv_is_:
+  same_as:
+    - "[[has_qualifications]]"
+    - "[[/_public/schema-org/Relation/has/has_qualifications.public|has_qualifications.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_qualifications.internal|has_qualifications.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_qualifications.protect|has_qualifications.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_qualifications.private|has_qualifications.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_qualifications.personal|has_qualifications.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_qualifications.secret|has_qualifications.secret]]"
+dv_has_domain:
+  - "[[../../Class/is_a_/Intangible/Job_Posting|Job_Posting]]"
+  - "[[../../Class/is_a_/Intangible/Occupation|Occupation]]"
 dv_has_name: is_qualifications
-dv_has_range: EducationalOccupationalCredential, Text
+dv_has_range:
+  - "[[../../../Society/Communication/Media/Creative_Work/Educational_Occupational_Credential|Educational_Occupational_Credential]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_same_as:
   - "[[has_qualifications]]"
   - "[[/_public/schema-org/Relation/has/has_qualifications.public|has_qualifications.public]]"

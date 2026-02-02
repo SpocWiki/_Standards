@@ -14,9 +14,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_recording_of.private|has_recording_of.private]]"
     - "[[/_personal/schema-org/Relation/has/has_recording_of.personal|has_recording_of.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_recording_of.secret|has_recording_of.secret]]"
-dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Communication/Media/Creative_Work/Music_Recording|MusicRecording]]"
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Music_Recording|Music_Recording]]"
 dv_has_name: is_recording_of
-dv_has_range: "[[../../../D:/_Obsidian/SpocWeb/_Standards/Society/Communication/Media/Creative_Work/Music_Composition|MusicComposition]]"
+dv_has_range: "[[../../../Society/Communication/Media/Creative_Work/Music_Composition|Music_Composition]]"
 dv_is_same_as:
   - "[[has_recording_of]]"
   - "[[/_public/schema-org/Relation/has/has_recording_of.public|has_recording_of.public]]"

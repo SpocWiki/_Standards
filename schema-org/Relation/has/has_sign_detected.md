@@ -61,9 +61,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_sign_detected.private|has_sign_detected.private]]"
     - "[[/_personal/schema-org/Relation/has/has_sign_detected.personal|has_sign_detected.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_sign_detected.secret|has_sign_detected.secret]]"
-dv_has_domain: "[[../../../D:/_Obsidian/SpocWeb/_Standards/bio/Medicine/Medical_Entity/Medical_Test|MedicalTest]]"
+dv_has_domain: "[[../../../bio/Medicine/Medical_Entity/Medical_Test|Medical_Test]]"
 dv_has_name: is_sign_detected
-dv_has_range: "[[../../../D:/_Obsidian/SpocWeb/_Standards/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Sign|MedicalSign]]"
+dv_has_range: "[[../../../bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Sign|Medical_Sign]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/has/has_sign_detected|has_sign_detected]]"
   - "[[/_public/schema-org/Relation/has/has_sign_detected.public|has_sign_detected.public]]"
