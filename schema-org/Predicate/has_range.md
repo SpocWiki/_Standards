@@ -12,38 +12,66 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - range
   - includes
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_range_includes
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - schema-org/Relation
 title: has_range_includes
 type: Predi_Relation
+dv_is_:
+  part_of: https://meta.schema.org
+  similar_to: "[[has_domain]]"
+  same_as:
+    - "[[has_range]]"
+    - "[[/_public/schema-org/Predicate/has_range.public|has_range.public]]"
+    - "[[/_internal/schema-org/Predicate/has_range.internal|has_range.internal]]"
+    - "[[/_protect/schema-org/Predicate/has_range.protect|has_range.protect]]"
+    - "[[/_private/schema-org/Predicate/has_range.private|has_range.private]]"
+    - "[[/_personal/schema-org/Predicate/has_range.personal|has_range.personal]]"
+    - "[[/_secret/schema-org/Predicate/has_range.secret|has_range.secret]]"
+dv_has_:
+  domain: "[Property](../Property)"
+  name: is_range_includes
+  range: "[Class](../Classes)"
+dv_is_part_of: https://meta.schema.org
+dv_is_similar_to: "[[has_domain]]"
+dv_has_domain: "[Property](../Property)"
+dv_has_name: is_range_includes
+dv_has_range: "[Class](../Classes)"
+dv_is_same_as:
+  - "[[has_range]]"
+  - "[[/_public/schema-org/Predicate/has_range.public|has_range.public]]"
+  - "[[/_internal/schema-org/Predicate/has_range.internal|has_range.internal]]"
+  - "[[/_protect/schema-org/Predicate/has_range.protect|has_range.protect]]"
+  - "[[/_private/schema-org/Predicate/has_range.private|has_range.private]]"
+  - "[[/_personal/schema-org/Predicate/has_range.personal|has_range.personal]]"
+  - "[[/_secret/schema-org/Predicate/has_range.secret|has_range.secret]]"
 ---
 
-#is_/part_of :: https://meta.schema.org  
+is_part_of = `=this.dv_is_part_of` 
 
-#is_/similar_to :: [[has_domain]] 
+is_similar_to = `=this.dv_is_similar_to` 
 Is similar to has_object that is applied to an instance of a Predicate and yields an Element of the Range. 
 
 Use it like this: 
-- #has_/range :: [Class](../Classes)  
-- [ has_range :: [Class](../Classes) ] 
+- #has_/range : : [Class](../Classes)  
+- [ has_range : : [Class](../Classes) ] 
 
 Relates a property to a class that constitutes (one of) the expected type(s) for values of the property.
 
 Relation describes that: 
-(has_/domain  :: [Property](../Property) )
-(has_/name :: is_range_includes )
-(has_/range :: [Class](../Classes) )
+has_domain = `=this.dv_has_domain`  )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range`  )
 
 
 ## Confidential Links & Embeds: 

@@ -41,9 +41,10 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_Date_Time/has_time_to_start_job.private|has_time_to_start_job.private]]"
     - "[[/_personal/schema-org/Property/has_Date_Time/has_time_to_start_job.personal|has_time_to_start_job.personal]]"
     - "[[/_secret/schema-org/Property/has_Date_Time/has_time_to_start_job.secret|has_time_to_start_job.secret]]"
+    - "[[has_time_to_start_job]]"
 dv_has_name: has_time_to_start_job
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_to_start_job|has_time_to_start_job]]"
+  - "[[has_time_to_start_job]]"
   - "[[/_public/schema-org/Property/has_Date_Time/has_time_to_start_job.public|has_time_to_start_job.public]]"
   - "[[/_internal/schema-org/Property/has_Date_Time/has_time_to_start_job.internal|has_time_to_start_job.internal]]"
   - "[[/_protect/schema-org/Property/has_Date_Time/has_time_to_start_job.protect|has_time_to_start_job.protect]]"

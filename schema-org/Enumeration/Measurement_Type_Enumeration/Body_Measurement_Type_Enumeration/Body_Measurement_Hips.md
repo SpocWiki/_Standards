@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Hips.private|Body_Measurement_Hips.private]]"
     - "[[/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Hips.personal|Body_Measurement_Hips.personal]]"
     - "[[/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Hips.secret|Body_Measurement_Hips.secret]]"
+    - "[[Body_Measurement_Hips]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../BodyMeasurementTypeEnumeration]]"
 dv_is_enum_of: "[[../BodyMeasurementTypeEnumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Hips|Body_Measurement_Hips]]"
+  - "[[Body_Measurement_Hips]]"
   - "[[/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Hips.public|Body_Measurement_Hips.public]]"
   - "[[/_internal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Hips.internal|Body_Measurement_Hips.internal]]"
   - "[[/_protect/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Hips.protect|Body_Measurement_Hips.protect]]"

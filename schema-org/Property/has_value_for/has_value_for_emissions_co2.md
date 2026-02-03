@@ -12,32 +12,58 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - emissions-co2
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_emissions-co2
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_emissions-co2
 type: Predi_Quantity
+dv_is_:
+  part_of: https://auto.schema.org
+  same_as:
+    - "[[has_value_for_emissions_co2]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_emissions_co2.public|has_value_for_emissions_co2.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_emissions_co2.internal|has_value_for_emissions_co2.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_emissions_co2.protect|has_value_for_emissions_co2.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_emissions_co2.private|has_value_for_emissions_co2.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_emissions_co2.personal|has_value_for_emissions_co2.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_emissions_co2.secret|has_value_for_emissions_co2.secret]]"
+dv_has_:
+  domain: Vehicle
+  name: has_value_for_emissions_co2
+  range: Number
+dv_is_part_of: https://auto.schema.org
+dv_has_domain: Vehicle
+dv_has_name: has_value_for_emissions_co2
+dv_has_range: Number
+dv_is_same_as:
+  - "[[has_value_for_emissions_co2]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_emissions_co2.public|has_value_for_emissions_co2.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_emissions_co2.internal|has_value_for_emissions_co2.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_emissions_co2.protect|has_value_for_emissions_co2.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_emissions_co2.private|has_value_for_emissions_co2.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_emissions_co2.personal|has_value_for_emissions_co2.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_emissions_co2.secret|has_value_for_emissions_co2.secret]]"
 ---
 
 Predicate to describe the Quantity of Vehicle.
 
-#is_/part_of :: https://auto.schema.org  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/value_for_/emissions_/co2 :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]],  [[../../Class/is_a_/Data_Type/Number|Number]]   
-- #has_/value_for_/emissions_/co2_/gram_/kilo_/meter :: [[../../Class/is_a_/Data_Type/Number|Number]] 
-- has_value_for_emissions_co2_gram_kilo_meter :: [[../../Class/is_a_/Data_Type/Number|Number]] 
-- has_value_for_emissions_co2 :: [[../../Class/is_a_/Data_Type/Number|Number]],  [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]] 
+- #has_/value_for_/emissions_/co2 : : [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]],  [[../../Class/is_a_/Data_Type/Number|Number]]   
+- #has_/value_for_/emissions_/co2_/gram_/kilo_/meter : : [[../../Class/is_a_/Data_Type/Number|Number]] 
+- has_value_for_emissions_co2_gram_kilo_meter : : [[../../Class/is_a_/Data_Type/Number|Number]] 
+- has_value_for_emissions_co2 : : [[../../Class/is_a_/Data_Type/Number|Number]],  [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]] 
 
 The CO2 emissions in g/km. 
 When used in combination with a QuantitativeValue, put "g/km" into the unitText property of that value, 
@@ -45,9 +71,9 @@ since there is no UN/CEFACT Common Code for "g/km".
 
 Predicate describes that: 
 
-#has_/domain  :: Vehicle  
-(has_/name :: has_value_for_emissions_co2 )
-(has_/range :: Number )
+has_domain = `=this.dv_has_domain` 
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

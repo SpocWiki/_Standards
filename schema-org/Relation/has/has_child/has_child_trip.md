@@ -33,6 +33,7 @@ dv_has_:
   inverse:
     - 
     - partOfTrip
+    - 
   domain: Trip
   name: has_child_trip
   range: Trip
@@ -73,7 +74,7 @@ is_a = `=this.dv_is_a`
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/child_/trip :: Trip  
+- #has_/child_/trip : : Trip  
 - has_child_trip = `=this.dv_has_child_trip`  
 
 Identifies a [[Trip]] that is a subTrip of this Trip.  For example Day 1, Day 2, etc. of a multi-day trip.

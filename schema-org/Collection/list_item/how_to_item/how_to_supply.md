@@ -33,13 +33,14 @@ dv_is_:
     - "[[/_private/schema-org/Collection/list_item/how_to_item/how_to_supply.private|how_to_supply.private]]"
     - "[[/_personal/schema-org/Collection/list_item/how_to_item/how_to_supply.personal|how_to_supply.personal]]"
     - "[[/_secret/schema-org/Collection/list_item/how_to_item/how_to_supply.secret|how_to_supply.secret]]"
+    - "[[how_to_supply]]"
 dv_has_:
   parent_class: "[[../HowToItem]]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, estimatedCost, identifier, image, item, mainEntityOfPage, name, nextItem, position, potentialAction, previousItem, requiredQuantity, sameAs, subjectOf, url ]"
 dv_has_parent_class: "[[../HowToItem]]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, estimatedCost, identifier, image, item, mainEntityOfPage, name, nextItem, position, potentialAction, previousItem, requiredQuantity, sameAs, subjectOf, url ]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Collection/list_item/how_to_item/how_to_supply|how_to_supply]]"
+  - "[[how_to_supply]]"
   - "[[/_public/schema-org/Collection/list_item/how_to_item/how_to_supply.public|how_to_supply.public]]"
   - "[[/_internal/schema-org/Collection/list_item/how_to_item/how_to_supply.internal|how_to_supply.internal]]"
   - "[[/_protect/schema-org/Collection/list_item/how_to_item/how_to_supply.protect|how_to_supply.protect]]"

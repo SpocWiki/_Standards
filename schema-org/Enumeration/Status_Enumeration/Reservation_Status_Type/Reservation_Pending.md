@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Pending.private|Reservation_Pending.private]]"
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Pending.personal|Reservation_Pending.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Pending.secret|Reservation_Pending.secret]]"
+    - "[[Reservation_Pending]]"
 dv_has_parent_class: "[[../ReservationStatusType]]"
 dv_is_enum_of: "[[../ReservationStatusType]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Pending|Reservation_Pending]]"
+  - "[[Reservation_Pending]]"
   - "[[/_public/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Pending.public|Reservation_Pending.public]]"
   - "[[/_internal/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Pending.internal|Reservation_Pending.internal]]"
   - "[[/_protect/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Pending.protect|Reservation_Pending.protect]]"

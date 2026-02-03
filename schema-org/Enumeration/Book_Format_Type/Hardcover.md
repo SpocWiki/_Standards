@@ -36,10 +36,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Book_Format_Type/Hardcover.private|Hardcover.private]]"
     - "[[/_personal/schema-org/Enumeration/Book_Format_Type/Hardcover.personal|Hardcover.personal]]"
     - "[[/_secret/schema-org/Enumeration/Book_Format_Type/Hardcover.secret|Hardcover.secret]]"
+    - "[[Hardcover]]"
 dv_has_parent_class: "[[../BookFormatType]]"
 dv_is_enum_of: "[[../BookFormatType]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Book_Format_Type/Hardcover|Hardcover]]"
+  - "[[Hardcover]]"
   - "[[/_public/schema-org/Enumeration/Book_Format_Type/Hardcover.public|Hardcover.public]]"
   - "[[/_internal/schema-org/Enumeration/Book_Format_Type/Hardcover.internal|Hardcover.internal]]"
   - "[[/_protect/schema-org/Enumeration/Book_Format_Type/Hardcover.protect|Hardcover.protect]]"

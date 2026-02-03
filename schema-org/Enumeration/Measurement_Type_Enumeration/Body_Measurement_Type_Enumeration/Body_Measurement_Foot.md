@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Foot.private|Body_Measurement_Foot.private]]"
     - "[[/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Foot.personal|Body_Measurement_Foot.personal]]"
     - "[[/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Foot.secret|Body_Measurement_Foot.secret]]"
+    - "[[Body_Measurement_Foot]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../BodyMeasurementTypeEnumeration]]"
 dv_is_enum_of: "[[../BodyMeasurementTypeEnumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Foot|Body_Measurement_Foot]]"
+  - "[[Body_Measurement_Foot]]"
   - "[[/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Foot.public|Body_Measurement_Foot.public]]"
   - "[[/_internal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Foot.internal|Body_Measurement_Foot.internal]]"
   - "[[/_protect/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Foot.protect|Body_Measurement_Foot.protect]]"

@@ -38,11 +38,14 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_eligible_duration.private|has_value_for_eligible_duration.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_eligible_duration.personal|has_value_for_eligible_duration.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_eligible_duration.secret|has_value_for_eligible_duration.secret]]"
-dv_has_domain: ["[[../../../Society/Agent/Community/Organization/Business/Demand|Demand]]", "[[../../../Society/Agent/Community/Organization/Business/Offer|Offer]]"]
+    - "[[has_value_for_eligible_duration]]"
+dv_has_domain:
+  - "[[../../../Society/Agent/Community/Organization/Business/Demand|Demand]]"
+  - "[[../../../Society/Agent/Community/Organization/Business/Offer|Offer]]"
 dv_has_name: has_value_for_eligible_duration
 dv_has_range: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_eligible_duration|has_value_for_eligible_duration]]"
+  - "[[has_value_for_eligible_duration]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_eligible_duration.public|has_value_for_eligible_duration.public]]"
   - "[[/_internal/schema-org/Property/has_value_for/has_value_for_eligible_duration.internal|has_value_for_eligible_duration.internal]]"
   - "[[/_protect/schema-org/Property/has_value_for/has_value_for_eligible_duration.protect|has_value_for_eligible_duration.protect]]"

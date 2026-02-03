@@ -13,9 +13,10 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has.private|has.private]]"
     - "[[/_personal/schema-org/Relation/has.personal|has.personal]]"
     - "[[/_secret/schema-org/Relation/has.secret|has.secret]]"
+    - "[[has]]"
 dv_has_text_of_lyrics: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has|has]]"
+  - "[[has]]"
   - "[[/_public/schema-org/Relation/has.public|has.public]]"
   - "[[/_internal/schema-org/Relation/has.internal|has.internal]]"
   - "[[/_protect/schema-org/Relation/has.protect|has.protect]]"

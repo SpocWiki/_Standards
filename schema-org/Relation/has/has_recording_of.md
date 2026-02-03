@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_recording_of]]"
+    - "[[/_public/schema-org/Relation/has/has_recording_of.public|has_recording_of.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_recording_of.internal|has_recording_of.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_recording_of.protect|has_recording_of.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_recording_of.private|has_recording_of.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_recording_of.personal|has_recording_of.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_recording_of.secret|has_recording_of.secret]]"
+dv_is_same_as:
+  - "[[has_recording_of]]"
+  - "[[/_public/schema-org/Relation/has/has_recording_of.public|has_recording_of.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_recording_of.internal|has_recording_of.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_recording_of.protect|has_recording_of.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_recording_of.private|has_recording_of.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_recording_of.personal|has_recording_of.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_recording_of.secret|has_recording_of.secret]]"
+---
 ﻿---
 dv_has_:
   recording_of: MusicComposition
@@ -68,7 +87,7 @@ is_a = `=this.dv_is_a`
 has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
-- #has_/recording_of :: MusicComposition  
+- #has_/recording_of : : MusicComposition  
 - has_recording_of = `=this.dv_has_recording_of`  
 
 The composition this track is a recording of.

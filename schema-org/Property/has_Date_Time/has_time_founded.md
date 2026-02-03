@@ -44,9 +44,10 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_Date_Time/has_time_founded.private|has_time_founded.private]]"
     - "[[/_personal/schema-org/Property/has_Date_Time/has_time_founded.personal|has_time_founded.personal]]"
     - "[[/_secret/schema-org/Property/has_Date_Time/has_time_founded.secret|has_time_founded.secret]]"
+    - "[[has_time_founded]]"
 dv_has_name: has_time_of_founding
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_founded|has_time_founded]]"
+  - "[[has_time_founded]]"
   - "[[/_public/schema-org/Property/has_Date_Time/has_time_founded.public|has_time_founded.public]]"
   - "[[/_internal/schema-org/Property/has_Date_Time/has_time_founded.internal|has_time_founded.internal]]"
   - "[[/_protect/schema-org/Property/has_Date_Time/has_time_founded.protect|has_time_founded.protect]]"

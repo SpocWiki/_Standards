@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_application_suite.private|has_application_suite.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_application_suite.personal|has_application_suite.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_application_suite.secret|has_application_suite.secret]]"
+    - "[[has_application_suite]]"
 dv_has_domain: SoftwareApplication
 dv_has_name: has_text_of_application_suite
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_application_suite|has_application_suite]]"
+  - "[[has_application_suite]]"
   - "[[/_public/schema-org/Property/Texts/has_application_suite.public|has_application_suite.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_application_suite.internal|has_application_suite.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_application_suite.protect|has_application_suite.protect]]"

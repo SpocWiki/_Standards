@@ -67,7 +67,7 @@ is_a = `=this.dv_is_a`
 #has_/inverse :: 
 
 Use it like this: 
-- #has_/sports_team :: SportsTeam  
+- #has_/sports_team : : SportsTeam  
 - has_sports_team = `=this.dv_has_sports_team`  
 
 A sub property of[[../has_participant]]]. The sports team that participated on this action.

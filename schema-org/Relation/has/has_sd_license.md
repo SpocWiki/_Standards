@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_sd_license]]"
+    - "[[/_public/schema-org/Relation/has/has_sd_license.public|has_sd_license.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_sd_license.internal|has_sd_license.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_sd_license.protect|has_sd_license.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_sd_license.private|has_sd_license.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_sd_license.personal|has_sd_license.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_sd_license.secret|has_sd_license.secret]]"
+dv_is_same_as:
+  - "[[has_sd_license]]"
+  - "[[/_public/schema-org/Relation/has/has_sd_license.public|has_sd_license.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_sd_license.internal|has_sd_license.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_sd_license.protect|has_sd_license.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_sd_license.private|has_sd_license.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_sd_license.personal|has_sd_license.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_sd_license.secret|has_sd_license.secret]]"
+---
 ﻿---
 dv_has_:
   sd_license: CreativeWork, URL
@@ -90,7 +109,7 @@ is_a = `=this.dv_is_a`
 has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
-- #has_/sd_license :: CreativeWork, URL  
+- #has_/sd_license : : CreativeWork, URL  
 - has_sd_license = `=this.dv_has_sd_license`  
 - is_sd_license_of : : `=this.dv_has_domain` 
 - #is_/sd_license_of : : `=this.dv_has_domain`

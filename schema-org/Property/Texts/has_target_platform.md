@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_target_platform.private|has_target_platform.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_target_platform.personal|has_target_platform.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_target_platform.secret|has_target_platform.secret]]"
+    - "[[has_target_platform]]"
 dv_has_domain: APIReference
 dv_has_name: has_text_of_target_platform
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_target_platform|has_target_platform]]"
+  - "[[has_target_platform]]"
   - "[[/_public/schema-org/Property/Texts/has_target_platform.public|has_target_platform.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_target_platform.internal|has_target_platform.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_target_platform.protect|has_target_platform.protect]]"

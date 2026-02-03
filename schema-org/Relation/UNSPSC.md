@@ -20,8 +20,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/UNSPSC.private|UNSPSC.private]]"
     - "[[/_personal/schema-org/Relation/UNSPSC.personal|UNSPSC.personal]]"
     - "[[/_secret/schema-org/Relation/UNSPSC.secret|UNSPSC.secret]]"
+    - "[[UNSPSC]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/UNSPSC|UNSPSC]]"
+  - "[[UNSPSC]]"
   - "[[/_public/schema-org/Relation/UNSPSC.public|UNSPSC.public]]"
   - "[[/_internal/schema-org/Relation/UNSPSC.internal|UNSPSC.internal]]"
   - "[[/_protect/schema-org/Relation/UNSPSC.protect|UNSPSC.protect]]"

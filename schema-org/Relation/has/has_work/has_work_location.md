@@ -65,7 +65,7 @@ is_a = `=this.dv_is_a`
 #has_/inverse :: 
 
 Use it like this: 
-- #has_/work_location :: ContactPoint, Place  
+- #has_/work_location : : ContactPoint, Place  
 - has_work_location = `=this.dv_has_work_location`  
 
 A contact location for a person's place of work.

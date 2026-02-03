@@ -41,11 +41,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_number_of/has_number_of_episodes.private|has_number_of_episodes.private]]"
     - "[[/_personal/schema-org/Property/has_number_of/has_number_of_episodes.personal|has_number_of_episodes.personal]]"
     - "[[/_secret/schema-org/Property/has_number_of/has_number_of_episodes.secret|has_number_of_episodes.secret]]"
+    - "[[has_number_of_episodes]]"
 dv_has_domain: CreativeWorkSeason, RadioSeries, TVSeries, VideoGameSeries
 dv_has_name: has_number_of_episodes
 dv_has_range: Integer
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_episodes|has_number_of_episodes]]"
+  - "[[has_number_of_episodes]]"
   - "[[/_public/schema-org/Property/has_number_of/has_number_of_episodes.public|has_number_of_episodes.public]]"
   - "[[/_internal/schema-org/Property/has_number_of/has_number_of_episodes.internal|has_number_of_episodes.internal]]"
   - "[[/_protect/schema-org/Property/has_number_of/has_number_of_episodes.protect|has_number_of_episodes.protect]]"

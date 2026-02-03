@@ -31,9 +31,10 @@ dv_is_:
     - "[[/_private/schema-org/Class/is_a_/Activity/Play(Activity).private|Play(Activity).private]]"
     - "[[/_personal/schema-org/Class/is_a_/Activity/Play(Activity).personal|Play(Activity).personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Activity/Play(Activity).secret|Play(Activity).secret]]"
+    - "[[Play(Activity)]]"
 dv_is_same_as:
   - "[[../../../../WikiData/WD~Play,1150958]]"
-  - "[[/_Standards/schema-org/Class/is_a_/Activity/Play(Activity)|Play(Activity)]]"
+  - "[[Play(Activity)]]"
   - "[[/_public/schema-org/Class/is_a_/Activity/Play(Activity).public|Play(Activity).public]]"
   - "[[/_internal/schema-org/Class/is_a_/Activity/Play(Activity).internal|Play(Activity).internal]]"
   - "[[/_protect/schema-org/Class/is_a_/Activity/Play(Activity).protect|Play(Activity).protect]]"

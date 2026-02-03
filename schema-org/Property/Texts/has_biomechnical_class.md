@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_biomechnical_class.private|has_biomechnical_class.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_biomechnical_class.personal|has_biomechnical_class.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_biomechnical_class.secret|has_biomechnical_class.secret]]"
+    - "[[has_biomechnical_class]]"
 dv_has_domain: Joint
 dv_has_name: has_text_of_biomechnical_class
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_biomechnical_class|has_biomechnical_class]]"
+  - "[[has_biomechnical_class]]"
   - "[[/_public/schema-org/Property/Texts/has_biomechnical_class.public|has_biomechnical_class.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_biomechnical_class.internal|has_biomechnical_class.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_biomechnical_class.protect|has_biomechnical_class.protect]]"

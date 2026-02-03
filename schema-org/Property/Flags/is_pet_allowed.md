@@ -39,11 +39,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Flags/is_pet_allowed.private|is_pet_allowed.private]]"
     - "[[/_personal/schema-org/Property/Flags/is_pet_allowed.personal|is_pet_allowed.personal]]"
     - "[[/_secret/schema-org/Property/Flags/is_pet_allowed.secret|is_pet_allowed.secret]]"
+    - "[[is_pet_allowed]]"
 dv_has_domain: Accommodation, ApartmentComplex, FloorPlan, LodgingBusiness
 dv_has_name: is_pet_allowed
 dv_has_range: Boolean, Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Flags/is_pet_allowed|is_pet_allowed]]"
+  - "[[is_pet_allowed]]"
   - "[[/_public/schema-org/Property/Flags/is_pet_allowed.public|is_pet_allowed.public]]"
   - "[[/_internal/schema-org/Property/Flags/is_pet_allowed.internal|is_pet_allowed.internal]]"
   - "[[/_protect/schema-org/Property/Flags/is_pet_allowed.protect|is_pet_allowed.protect]]"

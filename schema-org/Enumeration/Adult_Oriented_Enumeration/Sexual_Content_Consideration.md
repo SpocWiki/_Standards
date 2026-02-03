@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Adult_Oriented_Enumeration/Sexual_Content_Consideration.private|Sexual_Content_Consideration.private]]"
     - "[[/_personal/schema-org/Enumeration/Adult_Oriented_Enumeration/Sexual_Content_Consideration.personal|Sexual_Content_Consideration.personal]]"
     - "[[/_secret/schema-org/Enumeration/Adult_Oriented_Enumeration/Sexual_Content_Consideration.secret|Sexual_Content_Consideration.secret]]"
+    - "[[Sexual_Content_Consideration]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../AdultOrientedEnumeration]]"
 dv_is_enum_of: "[[../AdultOrientedEnumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Adult_Oriented_Enumeration/Sexual_Content_Consideration|Sexual_Content_Consideration]]"
+  - "[[Sexual_Content_Consideration]]"
   - "[[/_public/schema-org/Enumeration/Adult_Oriented_Enumeration/Sexual_Content_Consideration.public|Sexual_Content_Consideration.public]]"
   - "[[/_internal/schema-org/Enumeration/Adult_Oriented_Enumeration/Sexual_Content_Consideration.internal|Sexual_Content_Consideration.internal]]"
   - "[[/_protect/schema-org/Enumeration/Adult_Oriented_Enumeration/Sexual_Content_Consideration.protect|Sexual_Content_Consideration.protect]]"

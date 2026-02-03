@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Br.private|Wearable_Size_System_Br.private]]"
     - "[[/_personal/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Br.personal|Wearable_Size_System_Br.personal]]"
     - "[[/_secret/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Br.secret|Wearable_Size_System_Br.secret]]"
+    - "[[Wearable_Size_System_Br]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../WearableSizeSystemEnumeration]]"
 dv_is_enum_of: "[[../WearableSizeSystemEnumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Br|Wearable_Size_System_Br]]"
+  - "[[Wearable_Size_System_Br]]"
   - "[[/_public/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Br.public|Wearable_Size_System_Br.public]]"
   - "[[/_internal/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Br.internal|Wearable_Size_System_Br.internal]]"
   - "[[/_protect/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Br.protect|Wearable_Size_System_Br.protect]]"

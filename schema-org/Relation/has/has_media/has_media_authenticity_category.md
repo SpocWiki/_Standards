@@ -66,7 +66,7 @@ is_a = `=this.dv_is_a`
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/media_authenticity_category :: MediaManipulationRatingEnumeration  
+- #has_/media_authenticity_category : : MediaManipulationRatingEnumeration  
 - has_media_authenticity_category = `=this.dv_has_media_authenticity_category`  
 
 Indicates a MediaManipulationRatingEnumeration classification of a media object

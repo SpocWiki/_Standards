@@ -1,46 +1,47 @@
 ---
 aliases:
-- boolean
-- boolean
-- Boolean
-- is_a_boolean
+  - boolean
+  - boolean
+  - Boolean
+  - is_a_boolean
 confidential: public
 cssclasses:
-- Type
+  - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
-- boolean
-layout: ''
+  - boolean
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_boolean Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
-- class/Class
-- schema-org/Class
+  - class/Class
+  - schema-org/Class
 title: is_a_boolean Class
 type: Type
 dv_has_:
   child_class:
-  - "[[Boolean/False|False]]"
-  - "[[Boolean/True|True]]"
+    - "[[Boolean/False|False]]"
+    - "[[Boolean/True|True]]"
 dv_is_:
   same_as:
-  - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Boolean|Boolean]]"
-  - "[[/_public/schema-org/Class/is_a_/Data_Type/Boolean.public|Boolean.public]]"
-  - "[[/_internal/schema-org/Class/is_a_/Data_Type/Boolean.internal|Boolean.internal]]"
-  - "[[/_protect/schema-org/Class/is_a_/Data_Type/Boolean.protect|Boolean.protect]]"
-  - "[[/_private/schema-org/Class/is_a_/Data_Type/Boolean.private|Boolean.private]]"
-  - "[[/_personal/schema-org/Class/is_a_/Data_Type/Boolean.personal|Boolean.personal]]"
-  - "[[/_secret/schema-org/Class/is_a_/Data_Type/Boolean.secret|Boolean.secret]]"
+    - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Boolean|Boolean]]"
+    - "[[/_public/schema-org/Class/is_a_/Data_Type/Boolean.public|Boolean.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Data_Type/Boolean.internal|Boolean.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Data_Type/Boolean.protect|Boolean.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Data_Type/Boolean.private|Boolean.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Data_Type/Boolean.personal|Boolean.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Data_Type/Boolean.secret|Boolean.secret]]"
+    - "[[Boolean]]"
 dv_has_child_class:
   - "[[Boolean/False|False]]"
   - "[[Boolean/True|True]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Boolean|Boolean]]"
+  - "[[Boolean]]"
   - "[[/_public/schema-org/Class/is_a_/Data_Type/Boolean.public|Boolean.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Data_Type/Boolean.internal|Boolean.internal]]"
   - "[[/_protect/schema-org/Class/is_a_/Data_Type/Boolean.protect|Boolean.protect]]"

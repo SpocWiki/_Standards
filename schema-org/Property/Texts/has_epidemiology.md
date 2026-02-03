@@ -42,11 +42,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_epidemiology.private|has_epidemiology.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_epidemiology.personal|has_epidemiology.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_epidemiology.secret|has_epidemiology.secret]]"
+    - "[[has_epidemiology]]"
 dv_has_domain: MedicalCondition, PhysicalActivity
 dv_has_name: has_text_of_epidemiology
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_epidemiology|has_epidemiology]]"
+  - "[[has_epidemiology]]"
   - "[[/_public/schema-org/Property/Texts/has_epidemiology.public|has_epidemiology.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_epidemiology.internal|has_epidemiology.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_epidemiology.protect|has_epidemiology.protect]]"

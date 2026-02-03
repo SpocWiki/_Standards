@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Gs1.private|Wearable_Size_System_Gs1.private]]"
     - "[[/_personal/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Gs1.personal|Wearable_Size_System_Gs1.personal]]"
     - "[[/_secret/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Gs1.secret|Wearable_Size_System_Gs1.secret]]"
+    - "[[Wearable_Size_System_Gs1]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../WearableSizeSystemEnumeration]]"
 dv_is_enum_of: "[[../WearableSizeSystemEnumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Gs1|Wearable_Size_System_Gs1]]"
+  - "[[Wearable_Size_System_Gs1]]"
   - "[[/_public/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Gs1.public|Wearable_Size_System_Gs1.public]]"
   - "[[/_internal/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Gs1.internal|Wearable_Size_System_Gs1.internal]]"
   - "[[/_protect/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Gs1.protect|Wearable_Size_System_Gs1.protect]]"

@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_dose_unit.private|has_dose_unit.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_dose_unit.personal|has_dose_unit.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_dose_unit.secret|has_dose_unit.secret]]"
+    - "[[has_dose_unit]]"
 dv_has_domain: DoseSchedule
 dv_has_name: has_text_of_dose_unit
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_dose_unit|has_dose_unit]]"
+  - "[[has_dose_unit]]"
   - "[[/_public/schema-org/Property/Texts/has_dose_unit.public|has_dose_unit.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_dose_unit.internal|has_dose_unit.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_dose_unit.protect|has_dose_unit.protect]]"

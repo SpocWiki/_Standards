@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_transmission_method.private|has_transmission_method.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_transmission_method.personal|has_transmission_method.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_transmission_method.secret|has_transmission_method.secret]]"
+    - "[[has_transmission_method]]"
 dv_has_domain: InfectiousDisease
 dv_has_name: has_text_of_transmission_method
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_transmission_method|has_transmission_method]]"
+  - "[[has_transmission_method]]"
   - "[[/_public/schema-org/Property/Texts/has_transmission_method.public|has_transmission_method.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_transmission_method.internal|has_transmission_method.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_transmission_method.protect|has_transmission_method.protect]]"

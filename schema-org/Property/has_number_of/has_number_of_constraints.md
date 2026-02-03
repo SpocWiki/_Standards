@@ -10,39 +10,65 @@ cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - num_constraints
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_number_of_num_constraints
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Count
 title: has_number_of_num_constraints
 type: Predi_Count
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[has_number_of_constraints]]"
+    - "[[/_public/schema-org/Property/has_number_of/has_number_of_constraints.public|has_number_of_constraints.public]]"
+    - "[[/_internal/schema-org/Property/has_number_of/has_number_of_constraints.internal|has_number_of_constraints.internal]]"
+    - "[[/_protect/schema-org/Property/has_number_of/has_number_of_constraints.protect|has_number_of_constraints.protect]]"
+    - "[[/_private/schema-org/Property/has_number_of/has_number_of_constraints.private|has_number_of_constraints.private]]"
+    - "[[/_personal/schema-org/Property/has_number_of/has_number_of_constraints.personal|has_number_of_constraints.personal]]"
+    - "[[/_secret/schema-org/Property/has_number_of/has_number_of_constraints.secret|has_number_of_constraints.secret]]"
+dv_has_:
+  domain: StatisticalPopulation
+  name: has_number_of_constraints
+  range: Integer
+dv_is_part_of: "pending:"
+dv_has_domain: StatisticalPopulation
+dv_has_name: has_number_of_constraints
+dv_has_range: Integer
+dv_is_same_as:
+  - "[[has_number_of_constraints]]"
+  - "[[/_public/schema-org/Property/has_number_of/has_number_of_constraints.public|has_number_of_constraints.public]]"
+  - "[[/_internal/schema-org/Property/has_number_of/has_number_of_constraints.internal|has_number_of_constraints.internal]]"
+  - "[[/_protect/schema-org/Property/has_number_of/has_number_of_constraints.protect|has_number_of_constraints.protect]]"
+  - "[[/_private/schema-org/Property/has_number_of/has_number_of_constraints.private|has_number_of_constraints.private]]"
+  - "[[/_personal/schema-org/Property/has_number_of/has_number_of_constraints.personal|has_number_of_constraints.personal]]"
+  - "[[/_secret/schema-org/Property/has_number_of/has_number_of_constraints.secret|has_number_of_constraints.secret]]"
 ---
 
 Predicate to describe the Number of StatisticalPopulation.
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/number_of_/constraints :: Integer   
-- has_number_of_constraints :: Integer   
+- #has_/number_of_/constraints : : Integer   
+- has_number_of_constraints : : Integer   
 
 Indicates the number of constraints (not counting [[populationType]]) defined for a particular [[StatisticalPopulation]]. This helps applications understand if they have access to a sufficiently complete description of a [[StatisticalPopulation]].
 
 Predicate describes that: 
 
-#has_/domain  :: StatisticalPopulation  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: has_number_of_constraints )
-(has_/range :: Integer )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

@@ -39,6 +39,7 @@ dv_has_:
     - "[[../../../../Society/Agent/Community/Organization/Business/Service|Service]]"
   name: has_rating_aggregate
   range: "[[../../../Class/is_a_/Intangible/Rating/Aggregate_Rating|Aggregate_Rating]]"
+  inverse: "[[is_rating_aggregate_of]]"
 dv_is_:
   same_as:
     - "[[has_rating_aggregate|has_rating_aggregate]]"
@@ -48,6 +49,7 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_rating_aggregate.private|has_rating_aggregate.private]]"
     - "[[/_personal/schema-org/Relation/has/has_rating_aggregate.personal|has_rating_aggregate.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_rating_aggregate.secret|has_rating_aggregate.secret]]"
+    - "[[has_rating_aggregate]]"
 dv_has_domain:
   - "[[../../../Class/is_a_/Intangible/Brand|Brand]]"
   - "[[../../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
@@ -60,21 +62,23 @@ dv_has_domain:
 dv_has_name: has_rating_aggregate
 dv_has_range: "[[../../../Class/is_a_/Intangible/Rating/Aggregate_Rating|Aggregate_Rating]]"
 dv_is_same_as:
-  - "[[has_rating_aggregate|has_rating_aggregate]]"
+  - "[[has_rating_aggregate]]"
   - "[[/_public/schema-org/Relation/has/has_rating_aggregate.public|has_rating_aggregate.public]]"
   - "[[/_internal/schema-org/Relation/has/has_rating_aggregate.internal|has_rating_aggregate.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_rating_aggregate.protect|has_rating_aggregate.protect]]"
   - "[[/_private/schema-org/Relation/has/has_rating_aggregate.private|has_rating_aggregate.private]]"
   - "[[/_personal/schema-org/Relation/has/has_rating_aggregate.personal|has_rating_aggregate.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_rating_aggregate.secret|has_rating_aggregate.secret]]"
+dv_is_a: "[[../../../Relation|Relation]]"
+dv_has_inverse: "[[is_rating_aggregate_of]]"
 ---
 
 # [[has_rating_aggregate]] 
 
-#is_a :: [[../../../Relation|Relation]]
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_rating_aggregate_of]] 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/rating_/aggregate : :  `=this.dv_has_range` 

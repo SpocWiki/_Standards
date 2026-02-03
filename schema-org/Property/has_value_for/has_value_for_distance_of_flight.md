@@ -28,7 +28,11 @@ type: Predi_Quantity
 dv_has_:
   domain: "[[../../Class/is_a_/Intangible/Trip/Flight|Flight]]"
   name: has_value_for_flight_distance
-  range: ["[[../../../Dimension/Linear_Dimension/Distance|Distance]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
+  range:
+    - "[[../../../Dimension/Linear_Dimension/Distance|Distance]]"
+    - "[[../../Class/is_a_/Data_Type/Text|Text]]"
+  unit_for_:
+    default: "[[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Meter|Unit~Meter]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_flight_distance|has_value_for_flight_distance]]"
@@ -40,7 +44,9 @@ dv_is_:
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_flight_distance.secret|has_value_for_flight_distance.secret]]"
 dv_has_domain: "[[../../Class/is_a_/Intangible/Trip/Flight|Flight]]"
 dv_has_name: has_value_for_flight_distance
-dv_has_range: ["[[../../../Dimension/Linear_Dimension/Distance|Distance]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
+dv_has_range:
+  - "[[../../../Dimension/Linear_Dimension/Distance|Distance]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_flight_distance|has_value_for_flight_distance]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_flight_distance.public|has_value_for_flight_distance.public]]"
@@ -49,11 +55,12 @@ dv_is_same_as:
   - "[[/_private/schema-org/Property/has_value_for/has_value_for_flight_distance.private|has_value_for_flight_distance.private]]"
   - "[[/_personal/schema-org/Property/has_value_for/has_value_for_flight_distance.personal|has_value_for_flight_distance.personal]]"
   - "[[/_secret/schema-org/Property/has_value_for/has_value_for_flight_distance.secret|has_value_for_flight_distance.secret]]"
+dv_has_unit_for_default: "[[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Meter|Unit~Meter]]"
 ---
 
 # [[has_value_for_distance_of_flight]]
 
-#has_/unit_for_/default :: [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Meter|Unit~Meter]]  
+has_unit_for_default = `=this.dv_has_unit_for_default` 
 
 Predicate to describe the Quantity of Flight.
 

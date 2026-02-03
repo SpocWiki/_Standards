@@ -44,11 +44,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_known_vehicle_damages.private|has_known_vehicle_damages.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_known_vehicle_damages.personal|has_known_vehicle_damages.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_known_vehicle_damages.secret|has_known_vehicle_damages.secret]]"
+    - "[[has_known_vehicle_damages]]"
 dv_has_domain: Vehicle
 dv_has_name: has_text_of_known_vehicle_damages
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_known_vehicle_damages|has_known_vehicle_damages]]"
+  - "[[has_known_vehicle_damages]]"
   - "[[/_public/schema-org/Property/Texts/has_known_vehicle_damages.public|has_known_vehicle_damages.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_known_vehicle_damages.internal|has_known_vehicle_damages.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_known_vehicle_damages.protect|has_known_vehicle_damages.protect]]"

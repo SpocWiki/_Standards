@@ -40,9 +40,10 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_Date_Time/has_time_of_coverage_start.private|has_time_of_coverage_start.private]]"
     - "[[/_personal/schema-org/Property/has_Date_Time/has_time_of_coverage_start.personal|has_time_of_coverage_start.personal]]"
     - "[[/_secret/schema-org/Property/has_Date_Time/has_time_of_coverage_start.secret|has_time_of_coverage_start.secret]]"
+    - "[[has_time_of_coverage_start]]"
 dv_has_name: has_time_of_coverage_start
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_of_coverage_start|has_time_of_coverage_start]]"
+  - "[[has_time_of_coverage_start]]"
   - "[[/_public/schema-org/Property/has_Date_Time/has_time_of_coverage_start.public|has_time_of_coverage_start.public]]"
   - "[[/_internal/schema-org/Property/has_Date_Time/has_time_of_coverage_start.internal|has_time_of_coverage_start.internal]]"
   - "[[/_protect/schema-org/Property/has_Date_Time/has_time_of_coverage_start.protect|has_time_of_coverage_start.protect]]"

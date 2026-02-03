@@ -42,11 +42,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_name/has_name_family.private|has_name_family.private]]"
     - "[[/_personal/schema-org/Property/has_name/has_name_family.personal|has_name_family.personal]]"
     - "[[/_secret/schema-org/Property/has_name/has_name_family.secret|has_name_family.secret]]"
+    - "[[has_name_family]]"
 dv_has_domain: Person
 dv_has_name: has_name_family
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_name/has_name_family|has_name_family]]"
+  - "[[has_name_family]]"
   - "[[/_public/schema-org/Property/has_name/has_name_family.public|has_name_family.public]]"
   - "[[/_internal/schema-org/Property/has_name/has_name_family.internal|has_name_family.internal]]"
   - "[[/_protect/schema-org/Property/has_name/has_name_family.protect|has_name_family.protect]]"

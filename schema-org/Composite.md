@@ -31,8 +31,9 @@ dv_is_:
     - "[[/_private/schema-org/Composite.private|Composite.private]]"
     - "[[/_personal/schema-org/Composite.personal|Composite.personal]]"
     - "[[/_secret/schema-org/Composite.secret|Composite.secret]]"
+    - "[[Composite]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Composite|Composite]]"
+  - "[[Composite]]"
   - "[[/_public/schema-org/Composite.public|Composite.public]]"
   - "[[/_internal/schema-org/Composite.internal|Composite.internal]]"
   - "[[/_protect/schema-org/Composite.protect|Composite.protect]]"

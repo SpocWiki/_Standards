@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_price_type]]"
+    - "[[/_public/schema-org/Relation/has/has_price_type.public|has_price_type.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_price_type.internal|has_price_type.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_price_type.protect|has_price_type.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_price_type.private|has_price_type.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_price_type.personal|has_price_type.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_price_type.secret|has_price_type.secret]]"
+dv_is_same_as:
+  - "[[has_price_type]]"
+  - "[[/_public/schema-org/Relation/has/has_price_type.public|has_price_type.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_price_type.internal|has_price_type.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_price_type.protect|has_price_type.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_price_type.private|has_price_type.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_price_type.personal|has_price_type.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_price_type.secret|has_price_type.secret]]"
+---
 ﻿---
 dv_is_:
   same_as:

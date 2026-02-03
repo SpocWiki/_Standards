@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_refund_type]]"
+    - "[[/_public/schema-org/Relation/has/has_refund_type.public|has_refund_type.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_refund_type.internal|has_refund_type.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_refund_type.protect|has_refund_type.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_refund_type.private|has_refund_type.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_refund_type.personal|has_refund_type.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_refund_type.secret|has_refund_type.secret]]"
+dv_is_same_as:
+  - "[[has_refund_type]]"
+  - "[[/_public/schema-org/Relation/has/has_refund_type.public|has_refund_type.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_refund_type.internal|has_refund_type.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_refund_type.protect|has_refund_type.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_refund_type.private|has_refund_type.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_refund_type.personal|has_refund_type.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_refund_type.secret|has_refund_type.secret]]"
+---
 ﻿---
 dv_has_:
   refund_type: RefundTypeEnumeration
@@ -67,7 +86,7 @@ is_a = `=this.dv_is_a`
 has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
-- #has_/refund_type :: RefundTypeEnumeration  
+- #has_/refund_type : : RefundTypeEnumeration  
 - has_refund_type = `=this.dv_has_refund_type`  
 - is_refund_type_of : : `=this.dv_has_domain` 
 - #is_/refund_type_of : : `=this.dv_has_domain`

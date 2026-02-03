@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Legal_Value_Level/Unofficial_Legal_Value.private|Unofficial_Legal_Value.private]]"
     - "[[/_personal/schema-org/Enumeration/Legal_Value_Level/Unofficial_Legal_Value.personal|Unofficial_Legal_Value.personal]]"
     - "[[/_secret/schema-org/Enumeration/Legal_Value_Level/Unofficial_Legal_Value.secret|Unofficial_Legal_Value.secret]]"
+    - "[[Unofficial_Legal_Value]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../LegalValueLevel]]"
 dv_is_enum_of: "[[../LegalValueLevel]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Legal_Value_Level/Unofficial_Legal_Value|Unofficial_Legal_Value]]"
+  - "[[Unofficial_Legal_Value]]"
   - "[[/_public/schema-org/Enumeration/Legal_Value_Level/Unofficial_Legal_Value.public|Unofficial_Legal_Value.public]]"
   - "[[/_internal/schema-org/Enumeration/Legal_Value_Level/Unofficial_Legal_Value.internal|Unofficial_Legal_Value.internal]]"
   - "[[/_protect/schema-org/Enumeration/Legal_Value_Level/Unofficial_Legal_Value.protect|Unofficial_Legal_Value.protect]]"

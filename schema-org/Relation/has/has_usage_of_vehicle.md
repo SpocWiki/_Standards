@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_usage_of_vehicle|has_vehicle_special_usage]]"
+    - "[[/_public/schema-org/Relation/has/has_usage_of_vehicle.public|has_usage_of_vehicle.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_usage_of_vehicle.internal|has_usage_of_vehicle.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_usage_of_vehicle.protect|has_usage_of_vehicle.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_usage_of_vehicle.private|has_usage_of_vehicle.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_usage_of_vehicle.personal|has_usage_of_vehicle.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_usage_of_vehicle.secret|has_usage_of_vehicle.secret]]"
+dv_is_same_as:
+  - "[[has_usage_of_vehicle|has_vehicle_special_usage]]"
+  - "[[/_public/schema-org/Relation/has/has_usage_of_vehicle.public|has_usage_of_vehicle.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_usage_of_vehicle.internal|has_usage_of_vehicle.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_usage_of_vehicle.protect|has_usage_of_vehicle.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_usage_of_vehicle.private|has_usage_of_vehicle.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_usage_of_vehicle.personal|has_usage_of_vehicle.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_usage_of_vehicle.secret|has_usage_of_vehicle.secret]]"
+---
 ﻿---
 dv_has_:
   usage_:
@@ -75,8 +94,8 @@ dv_has_inverse: "[[is_usage_of_vehicle_of]]"
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/usage_/of_vehicle :: [[../../Enumeration/Car_Usage_Type|CarUsageType]], Text 
-- has_usage_of_vehicle :: [[../../Enumeration/Car_Usage_Type|CarUsageType]], Text 
+- #has_/usage_/of_vehicle : : [[../../Enumeration/Car_Usage_Type|CarUsageType]], Text 
+- has_usage_of_vehicle : : [[../../Enumeration/Car_Usage_Type|CarUsageType]], Text 
 - is_usage_of_vehicle_of : : `=this.dv_has_domain` 
 - #is_/usage_of_vehicle_of : : `=this.dv_has_domain`
 

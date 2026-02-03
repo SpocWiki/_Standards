@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_expert_considerations.private|has_expert_considerations.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_expert_considerations.personal|has_expert_considerations.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_expert_considerations.secret|has_expert_considerations.secret]]"
+    - "[[has_expert_considerations]]"
 dv_has_domain: Diet
 dv_has_name: has_text_of_expert_considerations
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_expert_considerations|has_expert_considerations]]"
+  - "[[has_expert_considerations]]"
   - "[[/_public/schema-org/Property/Texts/has_expert_considerations.public|has_expert_considerations.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_expert_considerations.internal|has_expert_considerations.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_expert_considerations.protect|has_expert_considerations.protect]]"

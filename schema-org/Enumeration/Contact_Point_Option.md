@@ -36,9 +36,10 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Contact_Point_Option.private|Contact_Point_Option.private]]"
     - "[[/_personal/schema-org/Enumeration/Contact_Point_Option.personal|Contact_Point_Option.personal]]"
     - "[[/_secret/schema-org/Enumeration/Contact_Point_Option.secret|Contact_Point_Option.secret]]"
+    - "[[Contact_Point_Option]]"
 dv_has_parent_class: "[[../Enumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Contact_Point_Option|Contact_Point_Option]]"
+  - "[[Contact_Point_Option]]"
   - "[[/_public/schema-org/Enumeration/Contact_Point_Option.public|Contact_Point_Option.public]]"
   - "[[/_internal/schema-org/Enumeration/Contact_Point_Option.internal|Contact_Point_Option.internal]]"
   - "[[/_protect/schema-org/Enumeration/Contact_Point_Option.protect|Contact_Point_Option.protect]]"

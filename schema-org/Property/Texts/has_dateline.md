@@ -42,11 +42,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_dateline.private|has_dateline.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_dateline.personal|has_dateline.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_dateline.secret|has_dateline.secret]]"
+    - "[[has_dateline]]"
 dv_has_domain: NewsArticle
 dv_has_name: has_text_of_dateline
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_dateline|has_dateline]]"
+  - "[[has_dateline]]"
   - "[[/_public/schema-org/Property/Texts/has_dateline.public|has_dateline.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_dateline.internal|has_dateline.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_dateline.protect|has_dateline.protect]]"

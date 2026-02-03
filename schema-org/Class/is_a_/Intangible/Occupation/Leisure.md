@@ -41,9 +41,10 @@ dv_is_:
     - "[[/_private/schema-org/Class/is_a_/Intangible/Occupation/Leisure.private|Leisure.private]]"
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Occupation/Leisure.personal|Leisure.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Occupation/Leisure.secret|Leisure.secret]]"
+    - "[[Leisure]]"
 dv_is_same_as:
   - "[[../../../../../WikiData/WD~Leisure,180910]]"
-  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Occupation/Leisure|Leisure]]"
+  - "[[Leisure]]"
   - "[[/_public/schema-org/Class/is_a_/Intangible/Occupation/Leisure.public|Leisure.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Intangible/Occupation/Leisure.internal|Leisure.internal]]"
   - "[[/_protect/schema-org/Class/is_a_/Intangible/Occupation/Leisure.protect|Leisure.protect]]"

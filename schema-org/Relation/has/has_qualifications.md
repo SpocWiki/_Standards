@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_qualifications]]"
+    - "[[/_public/schema-org/Relation/has/has_qualifications.public|has_qualifications.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_qualifications.internal|has_qualifications.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_qualifications.protect|has_qualifications.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_qualifications.private|has_qualifications.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_qualifications.personal|has_qualifications.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_qualifications.secret|has_qualifications.secret]]"
+dv_is_same_as:
+  - "[[has_qualifications]]"
+  - "[[/_public/schema-org/Relation/has/has_qualifications.public|has_qualifications.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_qualifications.internal|has_qualifications.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_qualifications.protect|has_qualifications.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_qualifications.private|has_qualifications.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_qualifications.personal|has_qualifications.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_qualifications.secret|has_qualifications.secret]]"
+---
 ﻿---
 dv_has_:
   qualifications: EducationalOccupationalCredential, Text
@@ -85,7 +104,7 @@ is_a = `=this.dv_is_a`
 has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
-- #has_/qualifications :: EducationalOccupationalCredential, Text  
+- #has_/qualifications : : EducationalOccupationalCredential, Text  
 - has_qualifications = `=this.dv_has_qualifications`  
 - is_qualifications_of : : `=this.dv_has_domain` 
 - #is_/qualifications_of : : `=this.dv_has_domain`

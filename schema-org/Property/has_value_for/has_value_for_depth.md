@@ -2,7 +2,7 @@
 aliases:
   - depth
   - has_value_for_depth
-  - has value for depth 
+  - has value for depth
   - has_value_for_depth_m
   - has value for depth m
 confidential: public
@@ -26,9 +26,16 @@ tags:
 title: has_depth
 type: Predi_Quantity
 dv_has_:
-  domain: ["[[../../Class/is_a_/Intangible/Structured_Value/Offer_Shipping_Details|Offer_Shipping_Details]]", "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]", "[[../../../Society/Communication/Media/Creative_Work/Visual_Artwork|Visual_Artwork]]"]
+  domain:
+    - "[[../../Class/is_a_/Intangible/Structured_Value/Offer_Shipping_Details|Offer_Shipping_Details]]"
+    - "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]"
+    - "[[../../../Society/Communication/Media/Creative_Work/Visual_Artwork|Visual_Artwork]]"
   name: has_value_for_depth
-  range: ["[[../../../Dimension/Linear_Dimension/Distance|Distance]]", "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"]
+  range:
+    - "[[../../../Dimension/Linear_Dimension/Distance|Distance]]"
+    - "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
+  unit_for_:
+    default: "[[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Meter|Unit~Meter]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_depth|has_value_for_depth]]"
@@ -38,22 +45,29 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_depth.private|has_value_for_depth.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_depth.personal|has_value_for_depth.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_depth.secret|has_value_for_depth.secret]]"
-dv_has_domain: ["[[../../Class/is_a_/Intangible/Structured_Value/Offer_Shipping_Details|Offer_Shipping_Details]]", "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]", "[[../../../Society/Communication/Media/Creative_Work/Visual_Artwork|Visual_Artwork]]"]
+    - "[[has_value_for_depth]]"
+dv_has_domain:
+  - "[[../../Class/is_a_/Intangible/Structured_Value/Offer_Shipping_Details|Offer_Shipping_Details]]"
+  - "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]"
+  - "[[../../../Society/Communication/Media/Creative_Work/Visual_Artwork|Visual_Artwork]]"
 dv_has_name: has_value_for_depth
-dv_has_range: ["[[../../../Dimension/Linear_Dimension/Distance|Distance]]", "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"]
+dv_has_range:
+  - "[[../../../Dimension/Linear_Dimension/Distance|Distance]]"
+  - "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_depth|has_value_for_depth]]"
+  - "[[has_value_for_depth]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_depth.public|has_value_for_depth.public]]"
   - "[[/_internal/schema-org/Property/has_value_for/has_value_for_depth.internal|has_value_for_depth.internal]]"
   - "[[/_protect/schema-org/Property/has_value_for/has_value_for_depth.protect|has_value_for_depth.protect]]"
   - "[[/_private/schema-org/Property/has_value_for/has_value_for_depth.private|has_value_for_depth.private]]"
   - "[[/_personal/schema-org/Property/has_value_for/has_value_for_depth.personal|has_value_for_depth.personal]]"
   - "[[/_secret/schema-org/Property/has_value_for/has_value_for_depth.secret|has_value_for_depth.secret]]"
+dv_has_unit_for_default: "[[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Meter|Unit~Meter]]"
 ---
 
 # [[has_value_for_depth]] 
 
-#has_/unit_for_/default :: [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Meter|Unit~Meter]]  
+has_unit_for_default = `=this.dv_has_unit_for_default` 
 
 Predicate to describe the Quantity of OfferShippingDetails, Product, VisualArtwork.
 

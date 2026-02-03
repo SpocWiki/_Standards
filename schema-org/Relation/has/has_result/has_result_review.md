@@ -66,8 +66,8 @@ is_a = `=this.dv_is_a`
 #has_/inverse :: 
 
 Use it like this: 
-- #has_/result_/review :: [[../../../../Society/Communication/Media/Creative_Work/Review|Review]]  
-- has_result_review :: [[../../../../Society/Communication/Media/Creative_Work/Review|Review]]  
+- #has_/result_/review : : [[../../../../Society/Communication/Media/Creative_Work/Review|Review]]  
+- has_result_review : : [[../../../../Society/Communication/Media/Creative_Work/Review|Review]]  
 
 A sub property of result. The review that resulted in the performing of the action.
 

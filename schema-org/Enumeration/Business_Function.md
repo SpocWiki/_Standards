@@ -36,9 +36,10 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Business_Function.private|Business_Function.private]]"
     - "[[/_personal/schema-org/Enumeration/Business_Function.personal|Business_Function.personal]]"
     - "[[/_secret/schema-org/Enumeration/Business_Function.secret|Business_Function.secret]]"
+    - "[[Business_Function]]"
 dv_has_parent_class: "[[../Enumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Business_Function|Business_Function]]"
+  - "[[Business_Function]]"
   - "[[/_public/schema-org/Enumeration/Business_Function.public|Business_Function.public]]"
   - "[[/_internal/schema-org/Enumeration/Business_Function.internal|Business_Function.internal]]"
   - "[[/_protect/schema-org/Enumeration/Business_Function.protect|Business_Function.protect]]"

@@ -36,9 +36,10 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Status_Enumeration/Game_Server_Status.private|Game_Server_Status.private]]"
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Game_Server_Status.personal|Game_Server_Status.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Game_Server_Status.secret|Game_Server_Status.secret]]"
+    - "[[Game_Server_Status]]"
 dv_has_parent_class: "[[../StatusEnumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Game_Server_Status|Game_Server_Status]]"
+  - "[[Game_Server_Status]]"
   - "[[/_public/schema-org/Enumeration/Status_Enumeration/Game_Server_Status.public|Game_Server_Status.public]]"
   - "[[/_internal/schema-org/Enumeration/Status_Enumeration/Game_Server_Status.internal|Game_Server_Status.internal]]"
   - "[[/_protect/schema-org/Enumeration/Status_Enumeration/Game_Server_Status.protect|Game_Server_Status.protect]]"

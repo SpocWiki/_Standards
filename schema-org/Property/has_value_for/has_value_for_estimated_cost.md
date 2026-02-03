@@ -26,9 +26,13 @@ tags:
 title: has_estimated-cost
 type: Predi_Quantity
 dv_has_:
-  domain: ["[[../../../Society/Communication/Media/Creative_Work/How_to|How_to]]", "[[../../Collection/list_item/how_to_item/how_to_supply|how_to_supply]]"]
+  domain:
+    - "[[../../../Society/Communication/Media/Creative_Work/How_to|How_to]]"
+    - "[[../../Collection/list_item/how_to_item/how_to_supply|how_to_supply]]"
   name: has_value_for_estimated_cost
-  range: ["[[../../Class/is_a_/Intangible/Structured_Value/Monetary_Amount|Monetary_Amount]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
+  range:
+    - "[[../../Class/is_a_/Intangible/Structured_Value/Monetary_Amount|Monetary_Amount]]"
+    - "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_estimated_cost|has_value_for_estimated_cost]]"
@@ -38,11 +42,16 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_estimated_cost.private|has_value_for_estimated_cost.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_estimated_cost.personal|has_value_for_estimated_cost.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_estimated_cost.secret|has_value_for_estimated_cost.secret]]"
-dv_has_domain: ["[[../../../Society/Communication/Media/Creative_Work/How_to|How_to]]", "[[../../Collection/list_item/how_to_item/how_to_supply|how_to_supply]]"]
+    - "[[has_value_for_estimated_cost]]"
+dv_has_domain:
+  - "[[../../../Society/Communication/Media/Creative_Work/How_to|How_to]]"
+  - "[[../../Collection/list_item/how_to_item/how_to_supply|how_to_supply]]"
 dv_has_name: has_value_for_estimated_cost
-dv_has_range: ["[[../../Class/is_a_/Intangible/Structured_Value/Monetary_Amount|Monetary_Amount]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
+dv_has_range:
+  - "[[../../Class/is_a_/Intangible/Structured_Value/Monetary_Amount|Monetary_Amount]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_estimated_cost|has_value_for_estimated_cost]]"
+  - "[[has_value_for_estimated_cost]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_estimated_cost.public|has_value_for_estimated_cost.public]]"
   - "[[/_internal/schema-org/Property/has_value_for/has_value_for_estimated_cost.internal|has_value_for_estimated_cost.internal]]"
   - "[[/_protect/schema-org/Property/has_value_for/has_value_for_estimated_cost.protect|has_value_for_estimated_cost.protect]]"

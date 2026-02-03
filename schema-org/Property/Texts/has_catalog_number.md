@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_catalog_number.private|has_catalog_number.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_catalog_number.personal|has_catalog_number.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_catalog_number.secret|has_catalog_number.secret]]"
+    - "[[has_catalog_number]]"
 dv_has_domain: MusicRelease
 dv_has_name: has_text_of_catalog_number
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_catalog_number|has_catalog_number]]"
+  - "[[has_catalog_number]]"
   - "[[/_public/schema-org/Property/Texts/has_catalog_number.public|has_catalog_number.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_catalog_number.internal|has_catalog_number.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_catalog_number.protect|has_catalog_number.protect]]"

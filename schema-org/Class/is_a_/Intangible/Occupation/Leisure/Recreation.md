@@ -27,9 +27,10 @@ dv_is_:
     - "[[/_private/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Recreation.private|Recreation.private]]"
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Recreation.personal|Recreation.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Recreation.secret|Recreation.secret]]"
+    - "[[Recreation]]"
 dv_is_same_as:
   - "[[../../../../../../WikiData/WD~Recreation,184872]]"
-  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Recreation|Recreation]]"
+  - "[[Recreation]]"
   - "[[/_public/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Recreation.public|Recreation.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Recreation.internal|Recreation.internal]]"
   - "[[/_protect/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Recreation.protect|Recreation.protect]]"

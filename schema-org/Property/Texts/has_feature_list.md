@@ -47,11 +47,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_feature_list.private|has_feature_list.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_feature_list.personal|has_feature_list.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_feature_list.secret|has_feature_list.secret]]"
+    - "[[has_feature_list]]"
 dv_has_domain: SoftwareApplication
 dv_has_name: has_text_of_feature_list
 dv_has_range: Text, URL
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_feature_list|has_feature_list]]"
+  - "[[has_feature_list]]"
   - "[[/_public/schema-org/Property/Texts/has_feature_list.public|has_feature_list.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_feature_list.internal|has_feature_list.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_feature_list.protect|has_feature_list.protect]]"
@@ -63,8 +64,8 @@ dv_is_same_as:
 Predicate to describe the Text of SoftwareApplication.
 
 Use it like this: 
-- #has_/text_of_/feature_list :: Text, URL   
-- has_text_of_feature_list :: Text, URL   
+- #has_/text_of_/feature_list : : Text, URL   
+- has_text_of_feature_list : : Text, URL   
 
 Features or modules provided by this application (and possibly required by other applications).
 

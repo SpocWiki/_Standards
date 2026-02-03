@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_sponsor]]"
+    - "[[/_public/schema-org/Relation/has/has_sponsor.public|has_sponsor.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_sponsor.internal|has_sponsor.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_sponsor.protect|has_sponsor.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_sponsor.private|has_sponsor.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_sponsor.personal|has_sponsor.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_sponsor.secret|has_sponsor.secret]]"
+dv_is_same_as:
+  - "[[has_sponsor]]"
+  - "[[/_public/schema-org/Relation/has/has_sponsor.public|has_sponsor.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_sponsor.internal|has_sponsor.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_sponsor.protect|has_sponsor.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_sponsor.private|has_sponsor.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_sponsor.personal|has_sponsor.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_sponsor.secret|has_sponsor.secret]]"
+---
 ﻿---
 dv_has_:
   sponsor: Organization, Person
@@ -75,7 +94,7 @@ is_a = `=this.dv_is_a`
 has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
-- #has_/sponsor :: Organization, Person  
+- #has_/sponsor : : Organization, Person  
 - has_sponsor = `=this.dv_has_sponsor`  
 
 A person or organization that supports a thing through a pledge, promise, or financial contribution. E.g. a sponsor of a Medical Study or a corporate sponsor of an event.

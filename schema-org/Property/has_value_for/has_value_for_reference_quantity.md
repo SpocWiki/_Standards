@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_reference_quantity.private|has_value_for_reference_quantity.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_reference_quantity.personal|has_value_for_reference_quantity.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_reference_quantity.secret|has_value_for_reference_quantity.secret]]"
+    - "[[has_value_for_reference_quantity]]"
 dv_has_domain: "[[../../Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification|Unit_Price_Specification]]"
 dv_has_name: has_value_for_reference_quantity
 dv_has_range: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_reference_quantity|has_value_for_reference_quantity]]"
+  - "[[has_value_for_reference_quantity]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_reference_quantity.public|has_value_for_reference_quantity.public]]"
   - "[[/_internal/schema-org/Property/has_value_for/has_value_for_reference_quantity.internal|has_value_for_reference_quantity.internal]]"
   - "[[/_protect/schema-org/Property/has_value_for/has_value_for_reference_quantity.protect|has_value_for_reference_quantity.protect]]"

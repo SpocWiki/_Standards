@@ -13,8 +13,9 @@ dv_is_:
     - "[[/_private/schema-org/Class/is_a_.private|is_a_.private]]"
     - "[[/_personal/schema-org/Class/is_a_.personal|is_a_.personal]]"
     - "[[/_secret/schema-org/Class/is_a_.secret|is_a_.secret]]"
+    - "[[is_a_]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Class/is_a_|is_a_]]"
+  - "[[is_a_]]"
   - "[[/_public/schema-org/Class/is_a_.public|is_a_.public]]"
   - "[[/_internal/schema-org/Class/is_a_.internal|is_a_.internal]]"
   - "[[/_protect/schema-org/Class/is_a_.protect|is_a_.protect]]"

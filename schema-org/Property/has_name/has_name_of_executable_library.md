@@ -44,11 +44,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_name/has_name_of_executable_library.private|has_name_of_executable_library.private]]"
     - "[[/_personal/schema-org/Property/has_name/has_name_of_executable_library.personal|has_name_of_executable_library.personal]]"
     - "[[/_secret/schema-org/Property/has_name/has_name_of_executable_library.secret|has_name_of_executable_library.secret]]"
+    - "[[has_name_of_executable_library]]"
 dv_has_domain: APIReference
 dv_has_name: has_name_executable_library
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_name/has_name_of_executable_library|has_name_of_executable_library]]"
+  - "[[has_name_of_executable_library]]"
   - "[[/_public/schema-org/Property/has_name/has_name_of_executable_library.public|has_name_of_executable_library.public]]"
   - "[[/_internal/schema-org/Property/has_name/has_name_of_executable_library.internal|has_name_of_executable_library.internal]]"
   - "[[/_protect/schema-org/Property/has_name/has_name_of_executable_library.protect|has_name_of_executable_library.protect]]"

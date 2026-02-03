@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_tracking_number.private|has_tracking_number.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_tracking_number.personal|has_tracking_number.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_tracking_number.secret|has_tracking_number.secret]]"
+    - "[[has_tracking_number]]"
 dv_has_domain: ParcelDelivery
 dv_has_name: has_text_of_tracking_number
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_tracking_number|has_tracking_number]]"
+  - "[[has_tracking_number]]"
   - "[[/_public/schema-org/Property/Texts/has_tracking_number.public|has_tracking_number.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_tracking_number.internal|has_tracking_number.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_tracking_number.protect|has_tracking_number.protect]]"

@@ -41,12 +41,13 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.private|Satire_or_Parody_Content.private]]"
     - "[[/_personal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.personal|Satire_or_Parody_Content.personal]]"
     - "[[/_secret/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.secret|Satire_or_Parody_Content.secret]]"
+    - "[[Satire_or_Parody_Content]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../Media_Manipulation_Rating_Enumeration]]"
 dv_is_enum_of: "[[../Media_Manipulation_Rating_Enumeration]]"
 dv_is_same_as:
   - "[[../../../WikiData/WD~Satire,128758|WD~Satire,128758]]"
-  - "[[/_Standards/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content|Satire_or_Parody_Content]]"
+  - "[[Satire_or_Parody_Content]]"
   - "[[/_public/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.public|Satire_or_Parody_Content.public]]"
   - "[[/_internal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.internal|Satire_or_Parody_Content.internal]]"
   - "[[/_protect/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.protect|Satire_or_Parody_Content.protect]]"

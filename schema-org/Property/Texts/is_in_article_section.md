@@ -38,6 +38,7 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/is_in_article_section.private|is_in_article_section.private]]"
     - "[[/_personal/schema-org/Property/Texts/is_in_article_section.personal|is_in_article_section.personal]]"
     - "[[/_secret/schema-org/Property/Texts/is_in_article_section.secret|is_in_article_section.secret]]"
+    - "[[is_in_article_section]]"
 dv_is_in_article_section: "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_has_:
   domain: "[[../../../Society/Communication/Media/Creative_Work/Article|Article]]"
@@ -47,7 +48,7 @@ dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Article|Art
 dv_has_name: is_in_article_section
 dv_has_range: "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/is_in_article_section|is_in_article_section]]"
+  - "[[is_in_article_section]]"
   - "[[/_public/schema-org/Property/Texts/is_in_article_section.public|is_in_article_section.public]]"
   - "[[/_internal/schema-org/Property/Texts/is_in_article_section.internal|is_in_article_section.internal]]"
   - "[[/_protect/schema-org/Property/Texts/is_in_article_section.protect|is_in_article_section.protect]]"

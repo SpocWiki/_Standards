@@ -89,8 +89,8 @@ has_parent_property = `=this.dv_has_parent_property`
 has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
-- #has_/supply :: "[[../../Collection/list_item/how_to_item/how_to_supply|how_to_supply]]", "[[../../Property/Texts/has_text|has_text]]"  
-- has_supply :: "[[../../Collection/list_item/how_to_item/how_to_supply|how_to_supply]]", "[[../../Property/Texts/has_text|has_text]]"  
+- #has_/supply : : "[[../../Collection/list_item/how_to_item/how_to_supply|how_to_supply]]", "[[../../Property/Texts/has_text|has_text]]"  
+- has_supply : : "[[../../Collection/list_item/how_to_item/how_to_supply|how_to_supply]]", "[[../../Property/Texts/has_text|has_text]]"  
 - has_supply_consumed/is_supplier_for|supplyTo : : `=this.dv_has_domain` 
 - #has_supply_consumed/is_/supplier_for|supplyTo : : `=this.dv_has_domain`
 

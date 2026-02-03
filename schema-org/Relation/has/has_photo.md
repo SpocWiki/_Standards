@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_photo]]"
+    - "[[/_public/schema-org/Relation/has/has_photo.public|has_photo.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_photo.internal|has_photo.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_photo.protect|has_photo.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_photo.private|has_photo.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_photo.personal|has_photo.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_photo.secret|has_photo.secret]]"
+dv_is_same_as:
+  - "[[has_photo]]"
+  - "[[/_public/schema-org/Relation/has/has_photo.public|has_photo.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_photo.internal|has_photo.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_photo.protect|has_photo.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_photo.private|has_photo.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_photo.personal|has_photo.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_photo.secret|has_photo.secret]]"
+---
 ﻿---
 dv_has_:
   photo: ImageObject, Photograph
@@ -68,7 +87,7 @@ is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
 has_inverse = `=this.dv_has_inverse`
-- #has_/photo :: ImageObject, Photograph  
+- #has_/photo : : ImageObject, Photograph  
 - has_photo = `=this.dv_has_photo`  
 
 A photograph of this place.

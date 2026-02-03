@@ -83,12 +83,13 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Government_Benefits_Type/Health_Care.private|Health_Care.private]]"
     - "[[/_personal/schema-org/Enumeration/Government_Benefits_Type/Health_Care.personal|Health_Care.personal]]"
     - "[[/_secret/schema-org/Enumeration/Government_Benefits_Type/Health_Care.secret|Health_Care.secret]]"
+    - "[[Health_Care]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../GovernmentBenefitsType]]"
 dv_is_enum_of: "[[../GovernmentBenefitsType]]"
 dv_is_same_as:
   - "[[../../../WikiData/WD~Health_care,31207|WD~Health_care,31207]]"
-  - "[[/_Standards/schema-org/Enumeration/Government_Benefits_Type/Health_Care|Health_Care]]"
+  - "[[Health_Care]]"
   - "[[/_public/schema-org/Enumeration/Government_Benefits_Type/Health_Care.public|Health_Care.public]]"
   - "[[/_internal/schema-org/Enumeration/Government_Benefits_Type/Health_Care.internal|Health_Care.internal]]"
   - "[[/_protect/schema-org/Enumeration/Government_Benefits_Type/Health_Care.protect|Health_Care.protect]]"

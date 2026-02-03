@@ -10,39 +10,66 @@ cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - clip_number
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_number_of_clip_number
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Count
 title: has_number_of_clip_number
 type: Predi_Count
+dv_has_:
+  domain: Clip
+  name: has_number_of_clip
+  range: Integer, Text
+  parent_:
+    property: position
+dv_is_:
+  same_as:
+    - "[[has_number_of_clip]]"
+    - "[[/_public/schema-org/Property/has_number_of/has_number_of_clip.public|has_number_of_clip.public]]"
+    - "[[/_internal/schema-org/Property/has_number_of/has_number_of_clip.internal|has_number_of_clip.internal]]"
+    - "[[/_protect/schema-org/Property/has_number_of/has_number_of_clip.protect|has_number_of_clip.protect]]"
+    - "[[/_private/schema-org/Property/has_number_of/has_number_of_clip.private|has_number_of_clip.private]]"
+    - "[[/_personal/schema-org/Property/has_number_of/has_number_of_clip.personal|has_number_of_clip.personal]]"
+    - "[[/_secret/schema-org/Property/has_number_of/has_number_of_clip.secret|has_number_of_clip.secret]]"
+dv_has_domain: Clip
+dv_has_name: has_number_of_clip
+dv_has_range: Integer, Text
+dv_has_parent_property: position
+dv_is_same_as:
+  - "[[has_number_of_clip]]"
+  - "[[/_public/schema-org/Property/has_number_of/has_number_of_clip.public|has_number_of_clip.public]]"
+  - "[[/_internal/schema-org/Property/has_number_of/has_number_of_clip.internal|has_number_of_clip.internal]]"
+  - "[[/_protect/schema-org/Property/has_number_of/has_number_of_clip.protect|has_number_of_clip.protect]]"
+  - "[[/_private/schema-org/Property/has_number_of/has_number_of_clip.private|has_number_of_clip.private]]"
+  - "[[/_personal/schema-org/Property/has_number_of/has_number_of_clip.personal|has_number_of_clip.personal]]"
+  - "[[/_secret/schema-org/Property/has_number_of/has_number_of_clip.secret|has_number_of_clip.secret]]"
 ---
 
 Predicate to describe the Number of Clip.
 
 Use it like this: 
-- #has_/number_of_/clip :: Integer, Text   
-- has_number_of_clip :: Integer, Text   
+- #has_/number_of_/clip : : Integer, Text   
+- has_number_of_clip : : Integer, Text   
 
 Position of the clip within an ordered group of clips.
 
 Predicate describes that: 
 
-#has_/domain  :: Clip  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: has_number_of_clip )
-(has_/range :: Integer, Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#has_/parent_/property  :: position  
+has_parent_property = `=this.dv_has_parent_property` 
 
 ## Confidential Links & Embeds: 
 

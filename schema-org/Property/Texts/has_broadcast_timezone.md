@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_broadcast_timezone.private|has_broadcast_timezone.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_broadcast_timezone.personal|has_broadcast_timezone.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_broadcast_timezone.secret|has_broadcast_timezone.secret]]"
+    - "[[has_broadcast_timezone]]"
 dv_has_domain: BroadcastService
 dv_has_name: has_text_of_broadcast_timezone
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_broadcast_timezone|has_broadcast_timezone]]"
+  - "[[has_broadcast_timezone]]"
   - "[[/_public/schema-org/Property/Texts/has_broadcast_timezone.public|has_broadcast_timezone.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_broadcast_timezone.internal|has_broadcast_timezone.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_broadcast_timezone.protect|has_broadcast_timezone.protect]]"

@@ -42,11 +42,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_followup.private|has_followup.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_followup.personal|has_followup.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_followup.secret|has_followup.secret]]"
+    - "[[has_followup]]"
 dv_has_domain: MedicalProcedure
 dv_has_name: has_text_of_followup
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_followup|has_followup]]"
+  - "[[has_followup]]"
   - "[[/_public/schema-org/Property/Texts/has_followup.public|has_followup.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_followup.internal|has_followup.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_followup.protect|has_followup.protect]]"

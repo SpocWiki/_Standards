@@ -36,10 +36,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Gender_Type/Female.private|Female.private]]"
     - "[[/_personal/schema-org/Enumeration/Gender_Type/Female.personal|Female.personal]]"
     - "[[/_secret/schema-org/Enumeration/Gender_Type/Female.secret|Female.secret]]"
+    - "[[Female]]"
 dv_has_parent_class: "[[../GenderType]]"
 dv_is_enum_of: "[[../GenderType]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Gender_Type/Female|Female]]"
+  - "[[Female]]"
   - "[[/_public/schema-org/Enumeration/Gender_Type/Female.public|Female.public]]"
   - "[[/_internal/schema-org/Enumeration/Gender_Type/Female.internal|Female.internal]]"
   - "[[/_protect/schema-org/Enumeration/Gender_Type/Female.protect|Female.protect]]"

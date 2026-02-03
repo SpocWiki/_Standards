@@ -36,9 +36,10 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Game_Play_Mode.private|Game_Play_Mode.private]]"
     - "[[/_personal/schema-org/Enumeration/Game_Play_Mode.personal|Game_Play_Mode.personal]]"
     - "[[/_secret/schema-org/Enumeration/Game_Play_Mode.secret|Game_Play_Mode.secret]]"
+    - "[[Game_Play_Mode]]"
 dv_has_parent_class: "[[../Enumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Game_Play_Mode|Game_Play_Mode]]"
+  - "[[Game_Play_Mode]]"
   - "[[/_public/schema-org/Enumeration/Game_Play_Mode.public|Game_Play_Mode.public]]"
   - "[[/_internal/schema-org/Enumeration/Game_Play_Mode.internal|Game_Play_Mode.internal]]"
   - "[[/_protect/schema-org/Enumeration/Game_Play_Mode.protect|Game_Play_Mode.protect]]"

@@ -44,11 +44,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_video_frame_size.private|has_video_frame_size.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_video_frame_size.personal|has_video_frame_size.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_video_frame_size.secret|has_video_frame_size.secret]]"
+    - "[[has_video_frame_size]]"
 dv_has_domain: VideoObject
 dv_has_name: has_text_of_video_frame_size
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_video_frame_size|has_video_frame_size]]"
+  - "[[has_video_frame_size]]"
   - "[[/_public/schema-org/Property/Texts/has_video_frame_size.public|has_video_frame_size.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_video_frame_size.internal|has_video_frame_size.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_video_frame_size.protect|has_video_frame_size.protect]]"

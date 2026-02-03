@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_sensory_unit]]"
+    - "[[/_public/schema-org/Relation/has/has_sensory_unit.public|has_sensory_unit.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_sensory_unit.internal|has_sensory_unit.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_sensory_unit.protect|has_sensory_unit.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_sensory_unit.private|has_sensory_unit.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_sensory_unit.personal|has_sensory_unit.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_sensory_unit.secret|has_sensory_unit.secret]]"
+dv_is_same_as:
+  - "[[has_sensory_unit]]"
+  - "[[/_public/schema-org/Relation/has/has_sensory_unit.public|has_sensory_unit.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_sensory_unit.internal|has_sensory_unit.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_sensory_unit.protect|has_sensory_unit.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_sensory_unit.private|has_sensory_unit.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_sensory_unit.personal|has_sensory_unit.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_sensory_unit.secret|has_sensory_unit.secret]]"
+---
 ﻿---
 dv_is_:
   same_as:

@@ -10,41 +10,66 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - opens
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_opening_at
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: is_opening_at
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_:
+  domain: OpeningHoursSpecification
+  name: is_opening_at
+  range: Time
+dv_is_:
+  same_as:
+    - "[[is_opening_at]]"
+    - "[[/_public/schema-org/Relation/is/is_opening_at.public|is_opening_at.public]]"
+    - "[[/_internal/schema-org/Relation/is/is_opening_at.internal|is_opening_at.internal]]"
+    - "[[/_protect/schema-org/Relation/is/is_opening_at.protect|is_opening_at.protect]]"
+    - "[[/_private/schema-org/Relation/is/is_opening_at.private|is_opening_at.private]]"
+    - "[[/_personal/schema-org/Relation/is/is_opening_at.personal|is_opening_at.personal]]"
+    - "[[/_secret/schema-org/Relation/is/is_opening_at.secret|is_opening_at.secret]]"
+dv_has_domain: OpeningHoursSpecification
+dv_has_name: is_opening_at
+dv_has_range: Time
+dv_is_same_as:
+  - "[[is_opening_at]]"
+  - "[[/_public/schema-org/Relation/is/is_opening_at.public|is_opening_at.public]]"
+  - "[[/_internal/schema-org/Relation/is/is_opening_at.internal|is_opening_at.internal]]"
+  - "[[/_protect/schema-org/Relation/is/is_opening_at.protect|is_opening_at.protect]]"
+  - "[[/_private/schema-org/Relation/is/is_opening_at.private|is_opening_at.private]]"
+  - "[[/_personal/schema-org/Relation/is/is_opening_at.personal|is_opening_at.personal]]"
+  - "[[/_secret/schema-org/Relation/is/is_opening_at.secret|is_opening_at.secret]]"
 ---
 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 
 
 Use it like this: 
-- #is_/opening_at :: Time  
-- is_opening_at :: Time  
+- #is_/opening_at : : Time  
+- is_opening_at : : Time  
 
 The opening hour of the place or service on the given day(s) of the week.
 
 Relation describes that: 
 
-#has_/domain  :: OpeningHoursSpecification  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: is_opening_at )
-(has_/range :: Time )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

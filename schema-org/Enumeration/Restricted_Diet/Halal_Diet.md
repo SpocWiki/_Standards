@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Restricted_Diet/Halal_Diet.private|Halal_Diet.private]]"
     - "[[/_personal/schema-org/Enumeration/Restricted_Diet/Halal_Diet.personal|Halal_Diet.personal]]"
     - "[[/_secret/schema-org/Enumeration/Restricted_Diet/Halal_Diet.secret|Halal_Diet.secret]]"
+    - "[[Halal_Diet]]"
 dv_has_parent_class: "[[../RestrictedDiet]]"
 dv_is_enum_of: "[[../RestrictedDiet]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Restricted_Diet/Halal_Diet|Halal_Diet]]"
+  - "[[Halal_Diet]]"
   - "[[/_public/schema-org/Enumeration/Restricted_Diet/Halal_Diet.public|Halal_Diet.public]]"
   - "[[/_internal/schema-org/Enumeration/Restricted_Diet/Halal_Diet.internal|Halal_Diet.internal]]"
   - "[[/_protect/schema-org/Enumeration/Restricted_Diet/Halal_Diet.protect|Halal_Diet.protect]]"

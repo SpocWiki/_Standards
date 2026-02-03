@@ -42,11 +42,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_location/has_location_disjoint_with.private|has_location_disjoint_with.private]]"
     - "[[/_personal/schema-org/Property/has_location/has_location_disjoint_with.personal|has_location_disjoint_with.personal]]"
     - "[[/_secret/schema-org/Property/has_location/has_location_disjoint_with.secret|has_location_disjoint_with.secret]]"
+    - "[[has_location_disjoint_with]]"
 dv_has_domain: GeospatialGeometry, Place
 dv_has_name: has_location_disjoint
 dv_has_range: GeospatialGeometry, Place
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_location/has_location_disjoint_with|has_location_disjoint_with]]"
+  - "[[has_location_disjoint_with]]"
   - "[[/_public/schema-org/Property/has_location/has_location_disjoint_with.public|has_location_disjoint_with.public]]"
   - "[[/_internal/schema-org/Property/has_location/has_location_disjoint_with.internal|has_location_disjoint_with.internal]]"
   - "[[/_protect/schema-org/Property/has_location/has_location_disjoint_with.protect|has_location_disjoint_with.protect]]"

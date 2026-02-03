@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Return_Fees_Enumeration/Return_Shipping_Fees.private|Return_Shipping_Fees.private]]"
     - "[[/_personal/schema-org/Enumeration/Return_Fees_Enumeration/Return_Shipping_Fees.personal|Return_Shipping_Fees.personal]]"
     - "[[/_secret/schema-org/Enumeration/Return_Fees_Enumeration/Return_Shipping_Fees.secret|Return_Shipping_Fees.secret]]"
+    - "[[Return_Shipping_Fees]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../ReturnFeesEnumeration]]"
 dv_is_enum_of: "[[../ReturnFeesEnumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Return_Fees_Enumeration/Return_Shipping_Fees|Return_Shipping_Fees]]"
+  - "[[Return_Shipping_Fees]]"
   - "[[/_public/schema-org/Enumeration/Return_Fees_Enumeration/Return_Shipping_Fees.public|Return_Shipping_Fees.public]]"
   - "[[/_internal/schema-org/Enumeration/Return_Fees_Enumeration/Return_Shipping_Fees.internal|Return_Shipping_Fees.internal]]"
   - "[[/_protect/schema-org/Enumeration/Return_Fees_Enumeration/Return_Shipping_Fees.protect|Return_Shipping_Fees.protect]]"

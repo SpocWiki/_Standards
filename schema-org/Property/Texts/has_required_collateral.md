@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_required_collateral.private|has_required_collateral.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_required_collateral.personal|has_required_collateral.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_required_collateral.secret|has_required_collateral.secret]]"
+    - "[[has_required_collateral]]"
 dv_has_domain: LoanOrCredit
 dv_has_name: has_text_of_required_collateral
 dv_has_range: Text, Thing
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_required_collateral|has_required_collateral]]"
+  - "[[has_required_collateral]]"
   - "[[/_public/schema-org/Property/Texts/has_required_collateral.public|has_required_collateral.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_required_collateral.internal|has_required_collateral.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_required_collateral.protect|has_required_collateral.protect]]"

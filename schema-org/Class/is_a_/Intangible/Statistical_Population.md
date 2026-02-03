@@ -1,29 +1,29 @@
 ---
 aliases:
-- statistical-population
-- statistical_population
-- StatisticalPopulation
-- is_a_statistical_population
-- Statistical_Population
-- Statistical Population
+  - statistical-population
+  - statistical_population
+  - StatisticalPopulation
+  - is_a_statistical_population
+  - Statistical_Population
+  - Statistical Population
 has_id_wikidata: Q49918
 confidential: public
 cssclasses:
-- Type
+  - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
-- statistical_population
-layout: ''
+  - statistical_population
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_statistical_population Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
-- class/Class
-- schema-org/Class
+  - class/Class
+  - schema-org/Class
 title: is_a_statistical_population Class
 type: Type
 subclass_of: "[[_Standards/WikiData/WD~data_set,1172284]]"
@@ -38,34 +38,35 @@ dv_is_:
   parent_class: "[[../Intangible]]"
   part_of: https://pending.schema.org
   same_as:
-  - "[[../../../../WikiData/WD~Statistical_population,49918|WD~Statistical_population,49918]]"
-  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Statistical_Population|Statistical_Population]]"
-  - "[[/_public/schema-org/Class/is_a_/Intangible/Statistical_Population.public|Statistical_Population.public]]"
-  - "[[/_internal/schema-org/Class/is_a_/Intangible/Statistical_Population.internal|Statistical_Population.internal]]"
-  - "[[/_protect/schema-org/Class/is_a_/Intangible/Statistical_Population.protect|Statistical_Population.protect]]"
-  - "[[/_private/schema-org/Class/is_a_/Intangible/Statistical_Population.private|Statistical_Population.private]]"
-  - "[[/_personal/schema-org/Class/is_a_/Intangible/Statistical_Population.personal|Statistical_Population.personal]]"
-  - "[[/_secret/schema-org/Class/is_a_/Intangible/Statistical_Population.secret|Statistical_Population.secret]]"
+    - "[[../../../../WikiData/WD~Statistical_population,49918|WD~Statistical_population,49918]]"
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Statistical_Population|Statistical_Population]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Statistical_Population.public|Statistical_Population.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Statistical_Population.internal|Statistical_Population.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Statistical_Population.protect|Statistical_Population.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Statistical_Population.private|Statistical_Population.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Statistical_Population.personal|Statistical_Population.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Statistical_Population.secret|Statistical_Population.secret]]"
+    - "[[Statistical_Population]]"
 dv_has_:
   properties:
-  - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
-  - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
-  - "[[constraining_property|constraining_property]]"
-  - "[[../../../Property/Texts/has_description|has_description]]"
-  - "[[../../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
-  - "[[../../../Relation/has/has_identifier|has_identifier]]"
-  - "[[../../../Relation/has/has_image|has_image]]"
-  - "[[../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
-  - "[[../../../Property/has_name|has_name]]"
-  - "[[num_constraints|num_constraints]]"
-  - "[[../../../Relation/has/has_population_type|has_population_type]]"
-  - "[[../../../Relation/has/has_potential_action|has_potential_action]]"
-  - "[[../../../Relation/is_same_as|is_same_as]]"
-  - "[[../../../Relation/is/is_subject_of|is_subject_of]]"
-  - "[[../Property/has_url_for/has_url|has_url]]"
+    - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
+    - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
+    - "[[constraining_property|constraining_property]]"
+    - "[[../../../Property/Texts/has_description|has_description]]"
+    - "[[../../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
+    - "[[../../../Relation/has/has_identifier|has_identifier]]"
+    - "[[../../../Relation/has/has_image|has_image]]"
+    - "[[../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+    - "[[../../../Property/has_name|has_name]]"
+    - "[[num_constraints|num_constraints]]"
+    - "[[../../../Relation/has/has_population_type|has_population_type]]"
+    - "[[../../../Relation/has/has_potential_action|has_potential_action]]"
+    - "[[../../../Relation/is_same_as|is_same_as]]"
+    - "[[../../../Relation/is/is_subject_of|is_subject_of]]"
+    - "[[../Property/has_url_for/has_url|has_url]]"
 dv_is_same_as:
   - "[[../../../../WikiData/WD~Statistical_population,49918|WD~Statistical_population,49918]]"
-  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Statistical_Population|Statistical_Population]]"
+  - "[[Statistical_Population]]"
   - "[[/_public/schema-org/Class/is_a_/Intangible/Statistical_Population.public|Statistical_Population.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Intangible/Statistical_Population.internal|Statistical_Population.internal]]"
   - "[[/_protect/schema-org/Class/is_a_/Intangible/Statistical_Population.protect|Statistical_Population.protect]]"

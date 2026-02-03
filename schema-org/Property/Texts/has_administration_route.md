@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_administration_route.private|has_administration_route.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_administration_route.personal|has_administration_route.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_administration_route.secret|has_administration_route.secret]]"
+    - "[[has_administration_route]]"
 dv_has_domain: Drug
 dv_has_name: has_text_of_administration_route
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_administration_route|has_administration_route]]"
+  - "[[has_administration_route]]"
   - "[[/_public/schema-org/Property/Texts/has_administration_route.public|has_administration_route.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_administration_route.internal|has_administration_route.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_administration_route.protect|has_administration_route.protect]]"

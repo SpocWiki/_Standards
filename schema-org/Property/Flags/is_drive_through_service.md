@@ -35,6 +35,7 @@ dv_is_:
     - "[[/_private/schema-org/Property/Flags/is_drive_through_service.private|is_drive_through_service.private]]"
     - "[[/_personal/schema-org/Property/Flags/is_drive_through_service.personal|is_drive_through_service.personal]]"
     - "[[/_secret/schema-org/Property/Flags/is_drive_through_service.secret|is_drive_through_service.secret]]"
+    - "[[is_drive_through_service]]"
 dv_is_drive_through_service: Boolean
 dv_has_:
   domain: "[[../../../Earth/Geography/Place]]"
@@ -45,7 +46,7 @@ dv_has_domain: "[[../../../Earth/Geography/Place]]"
 dv_has_name: is_drive_through_service
 dv_has_range: Boolean
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Flags/is_drive_through_service|is_drive_through_service]]"
+  - "[[is_drive_through_service]]"
   - "[[/_public/schema-org/Property/Flags/is_drive_through_service.public|is_drive_through_service.public]]"
   - "[[/_internal/schema-org/Property/Flags/is_drive_through_service.internal|is_drive_through_service.internal]]"
   - "[[/_protect/schema-org/Property/Flags/is_drive_through_service.protect|is_drive_through_service.protect]]"

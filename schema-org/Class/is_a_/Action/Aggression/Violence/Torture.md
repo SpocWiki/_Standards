@@ -58,9 +58,10 @@ dv_is_:
     - "[[/_private/schema-org/Class/is_a_/Action/Aggression/Violence/Torture.private|Torture.private]]"
     - "[[/_personal/schema-org/Class/is_a_/Action/Aggression/Violence/Torture.personal|Torture.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Action/Aggression/Violence/Torture.secret|Torture.secret]]"
+    - "[[Torture]]"
 dv_is_same_as:
   - "[[../../../../../../WikiData/WD~Torture,132781|WD~Torture,132781]]"
-  - "[[/_Standards/schema-org/Class/is_a_/Action/Aggression/Violence/Torture|Torture]]"
+  - "[[Torture]]"
   - "[[/_public/schema-org/Class/is_a_/Action/Aggression/Violence/Torture.public|Torture.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Action/Aggression/Violence/Torture.internal|Torture.internal]]"
   - "[[/_protect/schema-org/Class/is_a_/Action/Aggression/Violence/Torture.protect|Torture.protect]]"

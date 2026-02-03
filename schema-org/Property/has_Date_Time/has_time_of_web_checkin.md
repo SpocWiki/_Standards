@@ -40,9 +40,10 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_Date_Time/has_time_of_web_checkin.private|has_time_of_web_checkin.private]]"
     - "[[/_personal/schema-org/Property/has_Date_Time/has_time_of_web_checkin.personal|has_time_of_web_checkin.personal]]"
     - "[[/_secret/schema-org/Property/has_Date_Time/has_time_of_web_checkin.secret|has_time_of_web_checkin.secret]]"
+    - "[[has_time_of_web_checkin]]"
 dv_has_name: has_time_of_web_checkin
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_of_web_checkin|has_time_of_web_checkin]]"
+  - "[[has_time_of_web_checkin]]"
   - "[[/_public/schema-org/Property/has_Date_Time/has_time_of_web_checkin.public|has_time_of_web_checkin.public]]"
   - "[[/_internal/schema-org/Property/has_Date_Time/has_time_of_web_checkin.internal|has_time_of_web_checkin.internal]]"
   - "[[/_protect/schema-org/Property/has_Date_Time/has_time_of_web_checkin.protect|has_time_of_web_checkin.protect]]"

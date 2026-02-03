@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_unit_text.private|has_unit_text.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_unit_text.personal|has_unit_text.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_unit_text.secret|has_unit_text.secret]]"
+    - "[[has_unit_text]]"
 dv_has_domain: PropertyValue, QuantitativeValue, TypeAndQuantityNode, UnitPriceSpecification
 dv_has_name: has_text_of_unit_text
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_unit_text|has_unit_text]]"
+  - "[[has_unit_text]]"
   - "[[/_public/schema-org/Property/Texts/has_unit_text.public|has_unit_text.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_unit_text.internal|has_unit_text.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_unit_text.protect|has_unit_text.protect]]"

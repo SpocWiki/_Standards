@@ -27,7 +27,8 @@ dv_has_:
   domain: MedicalCondition
   name: is_stage
   range: MedicalConditionStage
-  inverse: [[is_stage_of]]
+  inverse:
+    - - is_stage_of
 dv_has_stage: MedicalConditionStage
 dv_is_:
   same_as:
@@ -38,11 +39,12 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_stage.private|has_stage.private]]"
     - "[[/_personal/schema-org/Relation/has/has_stage.personal|has_stage.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_stage.secret|has_stage.secret]]"
+    - "[[has_stage]]"
 dv_has_domain: "[[../../../bio/Medicine/Medical_Condition|Medical_Condition]]"
 dv_has_name: is_stage
 dv_has_range: "[[../../../bio/Medicine/Medical_Entity/Medical_Intangible/Medical_Condition_Stage|Medical_Condition_Stage]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/has/has_stage|has_stage]]"
+  - "[[has_stage]]"
   - "[[/_public/schema-org/Relation/has/has_stage.public|has_stage.public]]"
   - "[[/_internal/schema-org/Relation/has/has_stage.internal|has_stage.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_stage.protect|has_stage.protect]]"

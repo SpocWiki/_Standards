@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_operating_system.private|has_operating_system.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_operating_system.personal|has_operating_system.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_operating_system.secret|has_operating_system.secret]]"
+    - "[[has_operating_system]]"
 dv_has_domain: SoftwareApplication
 dv_has_name: has_text_of_operating_system
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_operating_system|has_operating_system]]"
+  - "[[has_operating_system]]"
   - "[[/_public/schema-org/Property/Texts/has_operating_system.public|has_operating_system.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_operating_system.internal|has_operating_system.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_operating_system.protect|has_operating_system.protect]]"

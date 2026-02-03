@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Return_Method_Enumeration/Return_at_Kiosk.private|Return_at_Kiosk.private]]"
     - "[[/_personal/schema-org/Enumeration/Return_Method_Enumeration/Return_at_Kiosk.personal|Return_at_Kiosk.personal]]"
     - "[[/_secret/schema-org/Enumeration/Return_Method_Enumeration/Return_at_Kiosk.secret|Return_at_Kiosk.secret]]"
+    - "[[Return_at_Kiosk]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../ReturnMethodEnumeration]]"
 dv_is_enum_of: "[[../ReturnMethodEnumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Return_Method_Enumeration/Return_at_Kiosk|Return_at_Kiosk]]"
+  - "[[Return_at_Kiosk]]"
   - "[[/_public/schema-org/Enumeration/Return_Method_Enumeration/Return_at_Kiosk.public|Return_at_Kiosk.public]]"
   - "[[/_internal/schema-org/Enumeration/Return_Method_Enumeration/Return_at_Kiosk.internal|Return_at_Kiosk.internal]]"
   - "[[/_protect/schema-org/Enumeration/Return_Method_Enumeration/Return_at_Kiosk.protect|Return_at_Kiosk.protect]]"

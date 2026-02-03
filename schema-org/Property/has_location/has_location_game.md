@@ -41,11 +41,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_location/has_location_game.private|has_location_game.private]]"
     - "[[/_personal/schema-org/Property/has_location/has_location_game.personal|has_location_game.personal]]"
     - "[[/_secret/schema-org/Property/has_location/has_location_game.secret|has_location_game.secret]]"
+    - "[[has_location_game]]"
 dv_has_domain: Game, VideoGameSeries
 dv_has_name: has_location_game
 dv_has_range: Place, PostalAddress, URL
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_location/has_location_game|has_location_game]]"
+  - "[[has_location_game]]"
   - "[[/_public/schema-org/Property/has_location/has_location_game.public|has_location_game.public]]"
   - "[[/_internal/schema-org/Property/has_location/has_location_game.internal|has_location_game.internal]]"
   - "[[/_protect/schema-org/Property/has_location/has_location_game.protect|has_location_game.protect]]"

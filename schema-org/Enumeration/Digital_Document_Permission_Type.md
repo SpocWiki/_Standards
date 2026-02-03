@@ -36,9 +36,10 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Digital_Document_Permission_Type.private|Digital_Document_Permission_Type.private]]"
     - "[[/_personal/schema-org/Enumeration/Digital_Document_Permission_Type.personal|Digital_Document_Permission_Type.personal]]"
     - "[[/_secret/schema-org/Enumeration/Digital_Document_Permission_Type.secret|Digital_Document_Permission_Type.secret]]"
+    - "[[Digital_Document_Permission_Type]]"
 dv_has_parent_class: "[[../Enumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Digital_Document_Permission_Type|Digital_Document_Permission_Type]]"
+  - "[[Digital_Document_Permission_Type]]"
   - "[[/_public/schema-org/Enumeration/Digital_Document_Permission_Type.public|Digital_Document_Permission_Type.public]]"
   - "[[/_internal/schema-org/Enumeration/Digital_Document_Permission_Type.internal|Digital_Document_Permission_Type.internal]]"
   - "[[/_protect/schema-org/Enumeration/Digital_Document_Permission_Type.protect|Digital_Document_Permission_Type.protect]]"

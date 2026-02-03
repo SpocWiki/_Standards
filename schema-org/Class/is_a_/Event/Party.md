@@ -22,9 +22,10 @@ dv_is_:
     - "[[/_private/schema-org/Class/is_a_/Event/Party.private|Party.private]]"
     - "[[/_personal/schema-org/Class/is_a_/Event/Party.personal|Party.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Event/Party.secret|Party.secret]]"
+    - "[[Party]]"
 dv_is_same_as:
   - "[[../../../../WikiData/WD~Party,200538]]"
-  - "[[/_Standards/schema-org/Class/is_a_/Event/Party|Party]]"
+  - "[[Party]]"
   - "[[/_public/schema-org/Class/is_a_/Event/Party.public|Party.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Event/Party.internal|Party.internal]]"
   - "[[/_protect/schema-org/Class/is_a_/Event/Party.protect|Party.protect]]"

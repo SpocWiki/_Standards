@@ -42,11 +42,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_transcript.private|has_transcript.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_transcript.personal|has_transcript.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_transcript.secret|has_transcript.secret]]"
+    - "[[has_transcript]]"
 dv_has_domain: AudioObject, VideoObject
 dv_has_name: has_text_of_transcript
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_transcript|has_transcript]]"
+  - "[[has_transcript]]"
   - "[[/_public/schema-org/Property/Texts/has_transcript.public|has_transcript.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_transcript.internal|has_transcript.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_transcript.protect|has_transcript.protect]]"

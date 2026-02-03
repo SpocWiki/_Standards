@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_print_section.private|has_print_section.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_print_section.personal|has_print_section.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_print_section.secret|has_print_section.secret]]"
+    - "[[has_print_section]]"
 dv_has_domain: NewsArticle
 dv_has_name: has_text_of_print_section
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_print_section|has_print_section]]"
+  - "[[has_print_section]]"
   - "[[/_public/schema-org/Property/Texts/has_print_section.public|has_print_section.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_print_section.internal|has_print_section.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_print_section.protect|has_print_section.protect]]"

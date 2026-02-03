@@ -61,7 +61,7 @@ is_a = `=this.dv_is_a`
 #has_/inverse :: 
 
 Use it like this: 
-- #has_/landlord :: Organization, Person  
+- #has_/landlord : : Organization, Person  
 - has_landlord = `=this.dv_has_landlord`  
 
 A sub property of participant. The owner of the real estate property.

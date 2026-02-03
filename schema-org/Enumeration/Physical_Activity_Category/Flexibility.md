@@ -36,10 +36,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Physical_Activity_Category/Flexibility.private|Flexibility.private]]"
     - "[[/_personal/schema-org/Enumeration/Physical_Activity_Category/Flexibility.personal|Flexibility.personal]]"
     - "[[/_secret/schema-org/Enumeration/Physical_Activity_Category/Flexibility.secret|Flexibility.secret]]"
+    - "[[Flexibility]]"
 dv_has_parent_class: "[[../PhysicalActivityCategory]]"
 dv_is_enum_of: "[[../PhysicalActivityCategory]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Physical_Activity_Category/Flexibility|Flexibility]]"
+  - "[[Flexibility]]"
   - "[[/_public/schema-org/Enumeration/Physical_Activity_Category/Flexibility.public|Flexibility.public]]"
   - "[[/_internal/schema-org/Enumeration/Physical_Activity_Category/Flexibility.internal|Flexibility.internal]]"
   - "[[/_protect/schema-org/Enumeration/Physical_Activity_Category/Flexibility.protect|Flexibility.protect]]"

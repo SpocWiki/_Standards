@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Item_Availability/Out_of_Stock.private|Out_of_Stock.private]]"
     - "[[/_personal/schema-org/Enumeration/Item_Availability/Out_of_Stock.personal|Out_of_Stock.personal]]"
     - "[[/_secret/schema-org/Enumeration/Item_Availability/Out_of_Stock.secret|Out_of_Stock.secret]]"
+    - "[[Out_of_Stock]]"
 dv_has_parent_class: "[[../ItemAvailability]]"
 dv_is_enum_of: "[[../ItemAvailability]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Item_Availability/Out_of_Stock|Out_of_Stock]]"
+  - "[[Out_of_Stock]]"
   - "[[/_public/schema-org/Enumeration/Item_Availability/Out_of_Stock.public|Out_of_Stock.public]]"
   - "[[/_internal/schema-org/Enumeration/Item_Availability/Out_of_Stock.internal|Out_of_Stock.internal]]"
   - "[[/_protect/schema-org/Enumeration/Item_Availability/Out_of_Stock.protect|Out_of_Stock.protect]]"

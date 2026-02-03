@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Moved_Online.private|Event_Moved_Online.private]]"
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Moved_Online.personal|Event_Moved_Online.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Moved_Online.secret|Event_Moved_Online.secret]]"
+    - "[[Event_Moved_Online]]"
 dv_has_parent_class: "[[../EventStatusType]]"
 dv_is_enum_of: "[[../EventStatusType]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Moved_Online|Event_Moved_Online]]"
+  - "[[Event_Moved_Online]]"
   - "[[/_public/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Moved_Online.public|Event_Moved_Online.public]]"
   - "[[/_internal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Moved_Online.internal|Event_Moved_Online.internal]]"
   - "[[/_protect/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Moved_Online.protect|Event_Moved_Online.protect]]"

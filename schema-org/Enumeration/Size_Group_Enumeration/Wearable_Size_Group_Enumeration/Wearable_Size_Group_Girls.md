@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Girls.private|Wearable_Size_Group_Girls.private]]"
     - "[[/_personal/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Girls.personal|Wearable_Size_Group_Girls.personal]]"
     - "[[/_secret/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Girls.secret|Wearable_Size_Group_Girls.secret]]"
+    - "[[Wearable_Size_Group_Girls]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../WearableSizeGroupEnumeration]]"
 dv_is_enum_of: "[[../WearableSizeGroupEnumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Girls|Wearable_Size_Group_Girls]]"
+  - "[[Wearable_Size_Group_Girls]]"
   - "[[/_public/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Girls.public|Wearable_Size_Group_Girls.public]]"
   - "[[/_internal/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Girls.internal|Wearable_Size_Group_Girls.internal]]"
   - "[[/_protect/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Girls.protect|Wearable_Size_Group_Girls.protect]]"

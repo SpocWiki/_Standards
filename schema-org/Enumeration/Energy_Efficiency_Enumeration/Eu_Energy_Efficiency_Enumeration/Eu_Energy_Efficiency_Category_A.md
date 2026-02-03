@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_A.private|Eu_Energy_Efficiency_Category_A.private]]"
     - "[[/_personal/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_A.personal|Eu_Energy_Efficiency_Category_A.personal]]"
     - "[[/_secret/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_A.secret|Eu_Energy_Efficiency_Category_A.secret]]"
+    - "[[Eu_Energy_Efficiency_Category_A]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../EUEnergyEfficiencyEnumeration]]"
 dv_is_enum_of: "[[../EUEnergyEfficiencyEnumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_A|Eu_Energy_Efficiency_Category_A]]"
+  - "[[Eu_Energy_Efficiency_Category_A]]"
   - "[[/_public/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_A.public|Eu_Energy_Efficiency_Category_A.public]]"
   - "[[/_internal/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_A.internal|Eu_Energy_Efficiency_Category_A.internal]]"
   - "[[/_protect/schema-org/Enumeration/Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Enumeration/Eu_Energy_Efficiency_Category_A.protect|Eu_Energy_Efficiency_Category_A.protect]]"

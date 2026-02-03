@@ -34,13 +34,14 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value.private|Steering_Position_Value.private]]"
     - "[[/_personal/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value.personal|Steering_Position_Value.personal]]"
     - "[[/_secret/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value.secret|Steering_Position_Value.secret]]"
+    - "[[Steering_Position_Value]]"
 dv_has_:
   parent_class: "[[../QualitativeValue]]"
   properties: "[ additionalProperty, equal, greater, greaterOrEqual, lesser, lesserOrEqual, nonEqual, valueReference ]"
 dv_has_parent_class: "[[../QualitativeValue]]"
 dv_has_properties: "[ additionalProperty, equal, greater, greaterOrEqual, lesser, lesserOrEqual, nonEqual, valueReference ]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value|Steering_Position_Value]]"
+  - "[[Steering_Position_Value]]"
   - "[[/_public/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value.public|Steering_Position_Value.public]]"
   - "[[/_internal/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value.internal|Steering_Position_Value.internal]]"
   - "[[/_protect/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value.protect|Steering_Position_Value.protect]]"

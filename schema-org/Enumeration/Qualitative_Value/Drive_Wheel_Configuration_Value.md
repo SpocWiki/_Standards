@@ -34,13 +34,14 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value.private|Drive_Wheel_Configuration_Value.private]]"
     - "[[/_personal/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value.personal|Drive_Wheel_Configuration_Value.personal]]"
     - "[[/_secret/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value.secret|Drive_Wheel_Configuration_Value.secret]]"
+    - "[[Drive_Wheel_Configuration_Value]]"
 dv_has_:
   parent_class: "[[../QualitativeValue]]"
   properties: "[ additionalProperty, equal, greater, greaterOrEqual, lesser, lesserOrEqual, nonEqual, valueReference ]"
 dv_has_parent_class: "[[../QualitativeValue]]"
 dv_has_properties: "[ additionalProperty, equal, greater, greaterOrEqual, lesser, lesserOrEqual, nonEqual, valueReference ]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value|Drive_Wheel_Configuration_Value]]"
+  - "[[Drive_Wheel_Configuration_Value]]"
   - "[[/_public/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value.public|Drive_Wheel_Configuration_Value.public]]"
   - "[[/_internal/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value.internal|Drive_Wheel_Configuration_Value.internal]]"
   - "[[/_protect/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value.protect|Drive_Wheel_Configuration_Value.protect]]"

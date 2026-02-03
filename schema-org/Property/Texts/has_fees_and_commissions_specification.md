@@ -45,11 +45,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_fees_and_commissions_specification.private|has_fees_and_commissions_specification.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_fees_and_commissions_specification.personal|has_fees_and_commissions_specification.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_fees_and_commissions_specification.secret|has_fees_and_commissions_specification.secret]]"
+    - "[[has_fees_and_commissions_specification]]"
 dv_has_domain: FinancialProduct, FinancialService
 dv_has_name: has_text_of_fees_and_commissions_specification
 dv_has_range: Text, URL
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_fees_and_commissions_specification|has_fees_and_commissions_specification]]"
+  - "[[has_fees_and_commissions_specification]]"
   - "[[/_public/schema-org/Property/Texts/has_fees_and_commissions_specification.public|has_fees_and_commissions_specification.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_fees_and_commissions_specification.internal|has_fees_and_commissions_specification.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_fees_and_commissions_specification.protect|has_fees_and_commissions_specification.protect]]"

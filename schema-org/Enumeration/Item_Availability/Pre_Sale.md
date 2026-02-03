@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Item_Availability/Pre_Sale.private|Pre_Sale.private]]"
     - "[[/_personal/schema-org/Enumeration/Item_Availability/Pre_Sale.personal|Pre_Sale.personal]]"
     - "[[/_secret/schema-org/Enumeration/Item_Availability/Pre_Sale.secret|Pre_Sale.secret]]"
+    - "[[Pre_Sale]]"
 dv_has_parent_class: "[[../ItemAvailability]]"
 dv_is_enum_of: "[[../ItemAvailability]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Item_Availability/Pre_Sale|Pre_Sale]]"
+  - "[[Pre_Sale]]"
   - "[[/_public/schema-org/Enumeration/Item_Availability/Pre_Sale.public|Pre_Sale.public]]"
   - "[[/_internal/schema-org/Enumeration/Item_Availability/Pre_Sale.internal|Pre_Sale.internal]]"
   - "[[/_protect/schema-org/Enumeration/Item_Availability/Pre_Sale.protect|Pre_Sale.protect]]"

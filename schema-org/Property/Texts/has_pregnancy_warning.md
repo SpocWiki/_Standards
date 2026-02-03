@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_pregnancy_warning.private|has_pregnancy_warning.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_pregnancy_warning.personal|has_pregnancy_warning.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_pregnancy_warning.secret|has_pregnancy_warning.secret]]"
+    - "[[has_pregnancy_warning]]"
 dv_has_domain: Drug
 dv_has_name: has_text_of_pregnancy_warning
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_pregnancy_warning|has_pregnancy_warning]]"
+  - "[[has_pregnancy_warning]]"
   - "[[/_public/schema-org/Property/Texts/has_pregnancy_warning.public|has_pregnancy_warning.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_pregnancy_warning.internal|has_pregnancy_warning.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_pregnancy_warning.protect|has_pregnancy_warning.protect]]"

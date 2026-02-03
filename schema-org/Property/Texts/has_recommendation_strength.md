@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_recommendation_strength.private|has_recommendation_strength.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_recommendation_strength.personal|has_recommendation_strength.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_recommendation_strength.secret|has_recommendation_strength.secret]]"
+    - "[[has_recommendation_strength]]"
 dv_has_domain: MedicalGuidelineRecommendation
 dv_has_name: has_text_of_recommendation_strength
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_recommendation_strength|has_recommendation_strength]]"
+  - "[[has_recommendation_strength]]"
   - "[[/_public/schema-org/Property/Texts/has_recommendation_strength.public|has_recommendation_strength.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_recommendation_strength.internal|has_recommendation_strength.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_recommendation_strength.protect|has_recommendation_strength.protect]]"

@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_pregnancy_category]]"
+    - "[[/_public/schema-org/Relation/has/has_pregnancy_category.public|has_pregnancy_category.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_pregnancy_category.internal|has_pregnancy_category.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_pregnancy_category.protect|has_pregnancy_category.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_pregnancy_category.private|has_pregnancy_category.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_pregnancy_category.personal|has_pregnancy_category.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_pregnancy_category.secret|has_pregnancy_category.secret]]"
+dv_is_same_as:
+  - "[[has_pregnancy_category]]"
+  - "[[/_public/schema-org/Relation/has/has_pregnancy_category.public|has_pregnancy_category.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_pregnancy_category.internal|has_pregnancy_category.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_pregnancy_category.protect|has_pregnancy_category.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_pregnancy_category.private|has_pregnancy_category.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_pregnancy_category.personal|has_pregnancy_category.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_pregnancy_category.secret|has_pregnancy_category.secret]]"
+---
 ﻿---
 dv_is_:
   same_as:

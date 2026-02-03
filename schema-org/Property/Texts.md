@@ -11,8 +11,9 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts.private|Texts.private]]"
     - "[[/_personal/schema-org/Property/Texts.personal|Texts.personal]]"
     - "[[/_secret/schema-org/Property/Texts.secret|Texts.secret]]"
+    - "[[Texts]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts|Texts]]"
+  - "[[Texts]]"
   - "[[/_public/schema-org/Property/Texts.public|Texts.public]]"
   - "[[/_internal/schema-org/Property/Texts.internal|Texts.internal]]"
   - "[[/_protect/schema-org/Property/Texts.protect|Texts.protect]]"

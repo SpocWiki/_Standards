@@ -41,11 +41,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_number_of/has_number_of_stage_as_number.private|has_number_of_stage_as_number.private]]"
     - "[[/_personal/schema-org/Property/has_number_of/has_number_of_stage_as_number.personal|has_number_of_stage_as_number.personal]]"
     - "[[/_secret/schema-org/Property/has_number_of/has_number_of_stage_as_number.secret|has_number_of_stage_as_number.secret]]"
+    - "[[has_number_of_stage_as_number]]"
 dv_has_domain: MedicalConditionStage
 dv_has_name: has_number_of_stage_as_number
 dv_has_range: Number
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_stage_as_number|has_number_of_stage_as_number]]"
+  - "[[has_number_of_stage_as_number]]"
   - "[[/_public/schema-org/Property/has_number_of/has_number_of_stage_as_number.public|has_number_of_stage_as_number.public]]"
   - "[[/_internal/schema-org/Property/has_number_of/has_number_of_stage_as_number.internal|has_number_of_stage_as_number.internal]]"
   - "[[/_protect/schema-org/Property/has_number_of/has_number_of_stage_as_number.protect|has_number_of_stage_as_number.protect]]"

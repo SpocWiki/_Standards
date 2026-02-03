@@ -37,6 +37,7 @@ dv_is_:
     - "[[/_private/schema-org/Predicate/Quantity/Duration.private|Duration.private]]"
     - "[[/_personal/schema-org/Predicate/Quantity/Duration.personal|Duration.personal]]"
     - "[[/_secret/schema-org/Predicate/Quantity/Duration.secret|Duration.secret]]"
+    - "[[Duration]]"
 dv_has_:
   parent_class: "[[../Quantity]]"
   properties:
@@ -55,7 +56,7 @@ dv_has_properties:
   - "[[../../Relation/is/is_subject_of|is_subject_of]]"
   - "[[../../Property/has_url_for/has_url|has_url]]"
 dv_is_same_as:
-  - "[[Duration|Duration]]"
+  - "[[Duration]]"
   - "[[/_public/schema-org/Predicate/Quantity/Duration.public|Duration.public]]"
   - "[[/_internal/schema-org/Predicate/Quantity/Duration.internal|Duration.internal]]"
   - "[[/_protect/schema-org/Predicate/Quantity/Duration.protect|Duration.protect]]"

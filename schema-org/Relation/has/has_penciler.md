@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_penciler]]"
+    - "[[/_public/schema-org/Relation/has/has_penciler.public|has_penciler.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_penciler.internal|has_penciler.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_penciler.protect|has_penciler.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_penciler.private|has_penciler.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_penciler.personal|has_penciler.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_penciler.secret|has_penciler.secret]]"
+dv_is_same_as:
+  - "[[has_penciler]]"
+  - "[[/_public/schema-org/Relation/has/has_penciler.public|has_penciler.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_penciler.internal|has_penciler.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_penciler.protect|has_penciler.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_penciler.private|has_penciler.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_penciler.personal|has_penciler.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_penciler.secret|has_penciler.secret]]"
+---
 ﻿---
 dv_has_:
   penciler: Person
@@ -86,7 +105,7 @@ is_a = `=this.dv_is_a`
 has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
-- #has_/penciler :: Person  
+- #has_/penciler : : Person  
 - has_penciler = `=this.dv_has_penciler`  
 - is_penciler_of : : `=this.dv_has_domain` 
 - #is_/penciler_of : : `=this.dv_has_domain`

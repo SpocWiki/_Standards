@@ -46,11 +46,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_award.private|has_award.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_award.personal|has_award.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_award.secret|has_award.secret]]"
+    - "[[has_award]]"
 dv_has_domain: CreativeWork, Organization, Person, Product, Service
 dv_has_name: has_award
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_award|has_award]]"
+  - "[[has_award]]"
   - "[[/_public/schema-org/Property/Texts/has_award.public|has_award.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_award.internal|has_award.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_award.protect|has_award.protect]]"

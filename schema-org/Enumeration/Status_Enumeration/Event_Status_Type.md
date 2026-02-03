@@ -36,9 +36,10 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Status_Enumeration/Event_Status_Type.private|Event_Status_Type.private]]"
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type.personal|Event_Status_Type.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Event_Status_Type.secret|Event_Status_Type.secret]]"
+    - "[[Event_Status_Type]]"
 dv_has_parent_class: "[[../StatusEnumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Event_Status_Type|Event_Status_Type]]"
+  - "[[Event_Status_Type]]"
   - "[[/_public/schema-org/Enumeration/Status_Enumeration/Event_Status_Type.public|Event_Status_Type.public]]"
   - "[[/_internal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type.internal|Event_Status_Type.internal]]"
   - "[[/_protect/schema-org/Enumeration/Status_Enumeration/Event_Status_Type.protect|Event_Status_Type.protect]]"

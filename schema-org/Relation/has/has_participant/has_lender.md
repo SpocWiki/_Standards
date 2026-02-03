@@ -60,7 +60,7 @@ dv_is_same_as:
 has_complement = `=this.dv_has_complement` 
 
 Use it like this: 
-- #has_/lender :: Organization, Person  
+- #has_/lender : : Organization, Person  
 - has_lender = `=this.dv_has_lender`  
 
 A sub property of participant. The person that lends the object being borrowed.

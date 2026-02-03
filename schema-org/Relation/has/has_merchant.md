@@ -1,3 +1,23 @@
+---
+dv_has_: {}
+dv_is_:
+  same_as:
+    - "[[has_merchant]]"
+    - "[[/_public/schema-org/Relation/has/has_merchant.public|has_merchant.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_merchant.internal|has_merchant.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_merchant.protect|has_merchant.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_merchant.private|has_merchant.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_merchant.personal|has_merchant.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_merchant.secret|has_merchant.secret]]"
+dv_is_same_as:
+  - "[[has_merchant]]"
+  - "[[/_public/schema-org/Relation/has/has_merchant.public|has_merchant.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_merchant.internal|has_merchant.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_merchant.protect|has_merchant.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_merchant.private|has_merchant.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_merchant.personal|has_merchant.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_merchant.secret|has_merchant.secret]]"
+---
 ﻿---
 aliases:
   - has merchant

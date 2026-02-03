@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_price_range.private|has_price_range.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_price_range.personal|has_price_range.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_price_range.secret|has_price_range.secret]]"
+    - "[[has_price_range]]"
 dv_has_domain: LocalBusiness
 dv_has_name: has_text_of_price_range
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_price_range|has_price_range]]"
+  - "[[has_price_range]]"
   - "[[/_public/schema-org/Property/Texts/has_price_range.public|has_price_range.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_price_range.internal|has_price_range.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_price_range.protect|has_price_range.protect]]"

@@ -10,42 +10,73 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - offered
   - by
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_offered_by
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: is_offered_by
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_:
+  inverse:
+    - 
+    - "[[is_making_offer|makesOffer]]"
+  domain: Offer
+  name: is_offered_by
+  range: Organization, Person
+dv_is_:
+  same_as:
+    - "[[is_offered_by]]"
+    - "[[/_public/schema-org/Relation/is/is_offered_by.public|is_offered_by.public]]"
+    - "[[/_internal/schema-org/Relation/is/is_offered_by.internal|is_offered_by.internal]]"
+    - "[[/_protect/schema-org/Relation/is/is_offered_by.protect|is_offered_by.protect]]"
+    - "[[/_private/schema-org/Relation/is/is_offered_by.private|is_offered_by.private]]"
+    - "[[/_personal/schema-org/Relation/is/is_offered_by.personal|is_offered_by.personal]]"
+    - "[[/_secret/schema-org/Relation/is/is_offered_by.secret|is_offered_by.secret]]"
+dv_has_inverse:
+  - 
+  - "[[is_making_offer|makesOffer]]"
+dv_has_domain: Offer
+dv_has_name: is_offered_by
+dv_has_range: Organization, Person
+dv_is_same_as:
+  - "[[is_offered_by]]"
+  - "[[/_public/schema-org/Relation/is/is_offered_by.public|is_offered_by.public]]"
+  - "[[/_internal/schema-org/Relation/is/is_offered_by.internal|is_offered_by.internal]]"
+  - "[[/_protect/schema-org/Relation/is/is_offered_by.protect|is_offered_by.protect]]"
+  - "[[/_private/schema-org/Relation/is/is_offered_by.private|is_offered_by.private]]"
+  - "[[/_personal/schema-org/Relation/is/is_offered_by.personal|is_offered_by.personal]]"
+  - "[[/_secret/schema-org/Relation/is/is_offered_by.secret|is_offered_by.secret]]"
 ---
 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 
 
 Use it like this: 
-- #is_/offered_by :: Organization, Person  
-- is_offered_by :: Organization, Person  
+- #is_/offered_by : : Organization, Person  
+- is_offered_by : : Organization, Person  
 
 A pointer to the organization or person making the offer.
 
 Relation describes that: 
 
-#has_/domain  :: Offer  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: is_offered_by )
-(has_/range :: Organization, Person )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 #has_/inverse  :: [[../is/is_making_offer|makesOffer]]  
 

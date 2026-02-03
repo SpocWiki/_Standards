@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_comment_text.private|has_comment_text.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_comment_text.personal|has_comment_text.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_comment_text.secret|has_comment_text.secret]]"
+    - "[[has_comment_text]]"
 dv_has_domain: UserComments
 dv_has_name: has_text_of_comment_text
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_comment_text|has_comment_text]]"
+  - "[[has_comment_text]]"
   - "[[/_public/schema-org/Property/Texts/has_comment_text.public|has_comment_text.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_comment_text.internal|has_comment_text.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_comment_text.protect|has_comment_text.protect]]"

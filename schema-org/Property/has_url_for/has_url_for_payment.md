@@ -42,11 +42,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_url_for/has_url_for_payment.private|has_url_for_payment.private]]"
     - "[[/_personal/schema-org/Property/has_url_for/has_url_for_payment.personal|has_url_for_payment.personal]]"
     - "[[/_secret/schema-org/Property/has_url_for/has_url_for_payment.secret|has_url_for_payment.secret]]"
+    - "[[has_url_for_payment]]"
 dv_has_domain: Order
 dv_has_name: has_url_for_payment_url
 dv_has_range: URL
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_url_for/has_url_for_payment|has_url_for_payment]]"
+  - "[[has_url_for_payment]]"
   - "[[/_public/schema-org/Property/has_url_for/has_url_for_payment.public|has_url_for_payment.public]]"
   - "[[/_internal/schema-org/Property/has_url_for/has_url_for_payment.internal|has_url_for_payment.internal]]"
   - "[[/_protect/schema-org/Property/has_url_for/has_url_for_payment.protect|has_url_for_payment.protect]]"

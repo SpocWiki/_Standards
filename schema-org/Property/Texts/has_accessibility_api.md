@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_accessibility_api.private|has_accessibility_api.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_accessibility_api.personal|has_accessibility_api.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_accessibility_api.secret|has_accessibility_api.secret]]"
+    - "[[has_accessibility_api]]"
 dv_has_domain: CreativeWork
 dv_has_name: has_text_of_accessibility_api
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_accessibility_api|has_accessibility_api]]"
+  - "[[has_accessibility_api]]"
   - "[[/_public/schema-org/Property/Texts/has_accessibility_api.public|has_accessibility_api.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_accessibility_api.internal|has_accessibility_api.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_accessibility_api.protect|has_accessibility_api.protect]]"

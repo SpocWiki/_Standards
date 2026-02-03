@@ -61,7 +61,7 @@ has_complement = `=this.dv_has_complement`
 
 
 Use it like this: 
-- #has_/borrower :: Person  
+- #has_/borrower : : Person  
 - has_borrower = `=this.dv_has_borrower`  
 
 A sub property of participant. The person that borrows the object being lent.

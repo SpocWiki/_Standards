@@ -40,9 +40,10 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_Date_Time/has_time_to_pick_up.private|has_time_to_pick_up.private]]"
     - "[[/_personal/schema-org/Property/has_Date_Time/has_time_to_pick_up.personal|has_time_to_pick_up.personal]]"
     - "[[/_secret/schema-org/Property/has_Date_Time/has_time_to_pick_up.secret|has_time_to_pick_up.secret]]"
+    - "[[has_time_to_pick_up]]"
 dv_has_name: has_time_to_pick_up
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_to_pick_up|has_time_to_pick_up]]"
+  - "[[has_time_to_pick_up]]"
   - "[[/_public/schema-org/Property/has_Date_Time/has_time_to_pick_up.public|has_time_to_pick_up.public]]"
   - "[[/_internal/schema-org/Property/has_Date_Time/has_time_to_pick_up.internal|has_time_to_pick_up.internal]]"
   - "[[/_protect/schema-org/Property/has_Date_Time/has_time_to_pick_up.protect|has_time_to_pick_up.protect]]"

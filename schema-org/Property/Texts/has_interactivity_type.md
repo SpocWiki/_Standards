@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_interactivity_type.private|has_interactivity_type.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_interactivity_type.personal|has_interactivity_type.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_interactivity_type.secret|has_interactivity_type.secret]]"
+    - "[[has_interactivity_type]]"
 dv_has_domain: CreativeWork
 dv_has_name: has_text_of_interactivity_type
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_interactivity_type|has_interactivity_type]]"
+  - "[[has_interactivity_type]]"
   - "[[/_public/schema-org/Property/Texts/has_interactivity_type.public|has_interactivity_type.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_interactivity_type.internal|has_interactivity_type.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_interactivity_type.protect|has_interactivity_type.protect]]"

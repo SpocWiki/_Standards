@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Status_Enumeration/Action_Status_Type/Potential_Action_Status.private|Potential_Action_Status.private]]"
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Action_Status_Type/Potential_Action_Status.personal|Potential_Action_Status.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Action_Status_Type/Potential_Action_Status.secret|Potential_Action_Status.secret]]"
+    - "[[Potential_Action_Status]]"
 dv_has_parent_class: "[[../ActionStatusType]]"
 dv_is_enum_of: "[[../ActionStatusType]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Action_Status_Type/Potential_Action_Status|Potential_Action_Status]]"
+  - "[[Potential_Action_Status]]"
   - "[[/_public/schema-org/Enumeration/Status_Enumeration/Action_Status_Type/Potential_Action_Status.public|Potential_Action_Status.public]]"
   - "[[/_internal/schema-org/Enumeration/Status_Enumeration/Action_Status_Type/Potential_Action_Status.internal|Potential_Action_Status.internal]]"
   - "[[/_protect/schema-org/Enumeration/Status_Enumeration/Action_Status_Type/Potential_Action_Status.protect|Potential_Action_Status.protect]]"

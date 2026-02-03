@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Petite.private|Wearable_Size_Group_Petite.private]]"
     - "[[/_personal/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Petite.personal|Wearable_Size_Group_Petite.personal]]"
     - "[[/_secret/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Petite.secret|Wearable_Size_Group_Petite.secret]]"
+    - "[[Wearable_Size_Group_Petite]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../WearableSizeGroupEnumeration]]"
 dv_is_enum_of: "[[../WearableSizeGroupEnumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Petite|Wearable_Size_Group_Petite]]"
+  - "[[Wearable_Size_Group_Petite]]"
   - "[[/_public/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Petite.public|Wearable_Size_Group_Petite.public]]"
   - "[[/_internal/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Petite.internal|Wearable_Size_Group_Petite.internal]]"
   - "[[/_protect/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Petite.protect|Wearable_Size_Group_Petite.protect]]"

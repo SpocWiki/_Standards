@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Price_Component_Type_Enumeration/Distance_Fee.private|Distance_Fee.private]]"
     - "[[/_personal/schema-org/Enumeration/Price_Component_Type_Enumeration/Distance_Fee.personal|Distance_Fee.personal]]"
     - "[[/_secret/schema-org/Enumeration/Price_Component_Type_Enumeration/Distance_Fee.secret|Distance_Fee.secret]]"
+    - "[[Distance_Fee]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../PriceComponentTypeEnumeration]]"
 dv_is_enum_of: "[[../PriceComponentTypeEnumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Price_Component_Type_Enumeration/Distance_Fee|Distance_Fee]]"
+  - "[[Distance_Fee]]"
   - "[[/_public/schema-org/Enumeration/Price_Component_Type_Enumeration/Distance_Fee.public|Distance_Fee.public]]"
   - "[[/_internal/schema-org/Enumeration/Price_Component_Type_Enumeration/Distance_Fee.internal|Distance_Fee.internal]]"
   - "[[/_protect/schema-org/Enumeration/Price_Component_Type_Enumeration/Distance_Fee.protect|Distance_Fee.protect]]"

@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_cost_origin.private|has_cost_origin.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_cost_origin.personal|has_cost_origin.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_cost_origin.secret|has_cost_origin.secret]]"
+    - "[[has_cost_origin]]"
 dv_has_domain: DrugCost
 dv_has_name: has_text_of_cost_origin
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_cost_origin|has_cost_origin]]"
+  - "[[has_cost_origin]]"
   - "[[/_public/schema-org/Property/Texts/has_cost_origin.public|has_cost_origin.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_cost_origin.internal|has_cost_origin.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_cost_origin.protect|has_cost_origin.protect]]"

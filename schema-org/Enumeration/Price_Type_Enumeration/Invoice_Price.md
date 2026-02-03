@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Price_Type_Enumeration/Invoice_Price.private|Invoice_Price.private]]"
     - "[[/_personal/schema-org/Enumeration/Price_Type_Enumeration/Invoice_Price.personal|Invoice_Price.personal]]"
     - "[[/_secret/schema-org/Enumeration/Price_Type_Enumeration/Invoice_Price.secret|Invoice_Price.secret]]"
+    - "[[Invoice_Price]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../PriceTypeEnumeration]]"
 dv_is_enum_of: "[[../PriceTypeEnumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Price_Type_Enumeration/Invoice_Price|Invoice_Price]]"
+  - "[[Invoice_Price]]"
   - "[[/_public/schema-org/Enumeration/Price_Type_Enumeration/Invoice_Price.public|Invoice_Price.public]]"
   - "[[/_internal/schema-org/Enumeration/Price_Type_Enumeration/Invoice_Price.internal|Invoice_Price.internal]]"
   - "[[/_protect/schema-org/Enumeration/Price_Type_Enumeration/Invoice_Price.protect|Invoice_Price.protect]]"

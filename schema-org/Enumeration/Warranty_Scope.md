@@ -36,9 +36,10 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Warranty_Scope.private|Warranty_Scope.private]]"
     - "[[/_personal/schema-org/Enumeration/Warranty_Scope.personal|Warranty_Scope.personal]]"
     - "[[/_secret/schema-org/Enumeration/Warranty_Scope.secret|Warranty_Scope.secret]]"
+    - "[[Warranty_Scope]]"
 dv_has_parent_class: "[[../Enumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Warranty_Scope|Warranty_Scope]]"
+  - "[[Warranty_Scope]]"
   - "[[/_public/schema-org/Enumeration/Warranty_Scope.public|Warranty_Scope.public]]"
   - "[[/_internal/schema-org/Enumeration/Warranty_Scope.internal|Warranty_Scope.internal]]"
   - "[[/_protect/schema-org/Enumeration/Warranty_Scope.protect|Warranty_Scope.protect]]"

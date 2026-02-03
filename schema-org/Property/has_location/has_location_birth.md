@@ -44,11 +44,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_location/has_location_birth.private|has_location_birth.private]]"
     - "[[/_personal/schema-org/Property/has_location/has_location_birth.personal|has_location_birth.personal]]"
     - "[[/_secret/schema-org/Property/has_location/has_location_birth.secret|has_location_birth.secret]]"
+    - "[[has_location_birth]]"
 dv_has_domain: Person
 dv_has_name: has_location_birth
 dv_has_range: Place
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_location/has_location_birth|has_location_birth]]"
+  - "[[has_location_birth]]"
   - "[[/_public/schema-org/Property/has_location/has_location_birth.public|has_location_birth.public]]"
   - "[[/_internal/schema-org/Property/has_location/has_location_birth.internal|has_location_birth.internal]]"
   - "[[/_protect/schema-org/Property/has_location/has_location_birth.protect|has_location_birth.protect]]"

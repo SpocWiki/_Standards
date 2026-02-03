@@ -41,11 +41,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_number_of/has_number_of_beds.private|has_number_of_beds.private]]"
     - "[[/_personal/schema-org/Property/has_number_of/has_number_of_beds.personal|has_number_of_beds.personal]]"
     - "[[/_secret/schema-org/Property/has_number_of/has_number_of_beds.secret|has_number_of_beds.secret]]"
+    - "[[has_number_of_beds]]"
 dv_has_domain: BedDetails
 dv_has_name: has_number_of_beds
 dv_has_range: Number
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_beds|has_number_of_beds]]"
+  - "[[has_number_of_beds]]"
   - "[[/_public/schema-org/Property/has_number_of/has_number_of_beds.public|has_number_of_beds.public]]"
   - "[[/_internal/schema-org/Property/has_number_of/has_number_of_beds.internal|has_number_of_beds.internal]]"
   - "[[/_protect/schema-org/Property/has_number_of/has_number_of_beds.protect|has_number_of_beds.protect]]"

@@ -36,10 +36,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Legal_Value_Level.private|Legal_Value_Level.private]]"
     - "[[/_personal/schema-org/Enumeration/Legal_Value_Level.personal|Legal_Value_Level.personal]]"
     - "[[/_secret/schema-org/Enumeration/Legal_Value_Level.secret|Legal_Value_Level.secret]]"
+    - "[[Legal_Value_Level]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../Enumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Legal_Value_Level|Legal_Value_Level]]"
+  - "[[Legal_Value_Level]]"
   - "[[/_public/schema-org/Enumeration/Legal_Value_Level.public|Legal_Value_Level.public]]"
   - "[[/_internal/schema-org/Enumeration/Legal_Value_Level.internal|Legal_Value_Level.internal]]"
   - "[[/_protect/schema-org/Enumeration/Legal_Value_Level.protect|Legal_Value_Level.protect]]"

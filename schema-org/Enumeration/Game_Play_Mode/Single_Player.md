@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Game_Play_Mode/Single_Player.private|Single_Player.private]]"
     - "[[/_personal/schema-org/Enumeration/Game_Play_Mode/Single_Player.personal|Single_Player.personal]]"
     - "[[/_secret/schema-org/Enumeration/Game_Play_Mode/Single_Player.secret|Single_Player.secret]]"
+    - "[[Single_Player]]"
 dv_has_parent_class: "[[../GamePlayMode]]"
 dv_is_enum_of: "[[../GamePlayMode]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Game_Play_Mode/Single_Player|Single_Player]]"
+  - "[[Single_Player]]"
   - "[[/_public/schema-org/Enumeration/Game_Play_Mode/Single_Player.public|Single_Player.public]]"
   - "[[/_internal/schema-org/Enumeration/Game_Play_Mode/Single_Player.internal|Single_Player.internal]]"
   - "[[/_protect/schema-org/Enumeration/Game_Play_Mode/Single_Player.protect|Single_Player.protect]]"

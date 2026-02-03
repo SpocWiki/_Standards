@@ -1,45 +1,46 @@
 ---
 aliases:
-- text
-- text
-- Text
-- is_a_text
+  - text
+  - text
+  - Text
+  - is_a_text
 confidential: public
 cssclasses:
-- Type
+  - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
-- text
-layout: ''
+  - text
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_text Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
-- class/Class
-- schema-org/Class
-- class/data_type
+  - class/Class
+  - schema-org/Class
+  - class/data_type
 title: is_a_text Class
 type: Type
 dv_is_:
   same_as:
-  - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Text|Text]]"
-  - "[[/_public/schema-org/Class/is_a_/Data_Type/Text.public|Text.public]]"
-  - "[[/_internal/schema-org/Class/is_a_/Data_Type/Text.internal|Text.internal]]"
-  - "[[/_protect/schema-org/Class/is_a_/Data_Type/Text.protect|Text.protect]]"
-  - "[[/_private/schema-org/Class/is_a_/Data_Type/Text.private|Text.private]]"
-  - "[[/_personal/schema-org/Class/is_a_/Data_Type/Text.personal|Text.personal]]"
-  - "[[/_secret/schema-org/Class/is_a_/Data_Type/Text.secret|Text.secret]]"
+    - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Text|Text]]"
+    - "[[/_public/schema-org/Class/is_a_/Data_Type/Text.public|Text.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Data_Type/Text.internal|Text.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Data_Type/Text.protect|Text.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Data_Type/Text.private|Text.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Data_Type/Text.personal|Text.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Data_Type/Text.secret|Text.secret]]"
+    - "[[Text]]"
   similar_to: "[[../../../../../IT/Data/Data~Text/JSON(JavaScript_Object_Notation)/Type~primitive/Type~String]]"
 dv_has_:
   child_class:
-  - "[[Text/Css_Selector_Type|Css_Selector_Type]]"
-  - "[[Text/Pronounceable_Text|Pronounceable_Text]]"
-  - "[[Text/Url|Url]]"
-  - "[[Text/X_Path_Type|X_Path_Type]]"
+    - "[[Text/Css_Selector_Type|Css_Selector_Type]]"
+    - "[[Text/Pronounceable_Text|Pronounceable_Text]]"
+    - "[[Text/Url|Url]]"
+    - "[[Text/X_Path_Type|X_Path_Type]]"
 dv_is_similar_to: "[[../../../../../IT/Data/Data~Text/JSON(JavaScript_Object_Notation)/Type~primitive/Type~String]]"
 dv_has_child_class:
   - "[[Text/Css_Selector_Type|Css_Selector_Type]]"
@@ -47,7 +48,7 @@ dv_has_child_class:
   - "[[Text/Url|Url]]"
   - "[[Text/X_Path_Type|X_Path_Type]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Text|Text]]"
+  - "[[Text]]"
   - "[[/_public/schema-org/Class/is_a_/Data_Type/Text.public|Text.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Data_Type/Text.internal|Text.internal]]"
   - "[[/_protect/schema-org/Class/is_a_/Data_Type/Text.protect|Text.protect]]"

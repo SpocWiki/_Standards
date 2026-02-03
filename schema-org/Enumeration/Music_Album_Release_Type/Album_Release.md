@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Music_Album_Release_Type/Album_Release.private|Album_Release.private]]"
     - "[[/_personal/schema-org/Enumeration/Music_Album_Release_Type/Album_Release.personal|Album_Release.personal]]"
     - "[[/_secret/schema-org/Enumeration/Music_Album_Release_Type/Album_Release.secret|Album_Release.secret]]"
+    - "[[Album_Release]]"
 dv_has_parent_class: "[[../MusicAlbumReleaseType]]"
 dv_is_enum_of: "[[../MusicAlbumReleaseType]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Music_Album_Release_Type/Album_Release|Album_Release]]"
+  - "[[Album_Release]]"
   - "[[/_public/schema-org/Enumeration/Music_Album_Release_Type/Album_Release.public|Album_Release.public]]"
   - "[[/_internal/schema-org/Enumeration/Music_Album_Release_Type/Album_Release.internal|Album_Release.internal]]"
   - "[[/_protect/schema-org/Enumeration/Music_Album_Release_Type/Album_Release.protect|Album_Release.protect]]"

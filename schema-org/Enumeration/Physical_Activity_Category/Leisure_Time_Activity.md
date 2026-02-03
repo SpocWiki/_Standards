@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Physical_Activity_Category/Leisure_Time_Activity.private|Leisure_Time_Activity.private]]"
     - "[[/_personal/schema-org/Enumeration/Physical_Activity_Category/Leisure_Time_Activity.personal|Leisure_Time_Activity.personal]]"
     - "[[/_secret/schema-org/Enumeration/Physical_Activity_Category/Leisure_Time_Activity.secret|Leisure_Time_Activity.secret]]"
+    - "[[Leisure_Time_Activity]]"
 dv_has_parent_class: "[[../PhysicalActivityCategory]]"
 dv_is_enum_of: "[[../PhysicalActivityCategory]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Physical_Activity_Category/Leisure_Time_Activity|Leisure_Time_Activity]]"
+  - "[[Leisure_Time_Activity]]"
   - "[[/_public/schema-org/Enumeration/Physical_Activity_Category/Leisure_Time_Activity.public|Leisure_Time_Activity.public]]"
   - "[[/_internal/schema-org/Enumeration/Physical_Activity_Category/Leisure_Time_Activity.internal|Leisure_Time_Activity.internal]]"
   - "[[/_protect/schema-org/Enumeration/Physical_Activity_Category/Leisure_Time_Activity.protect|Leisure_Time_Activity.protect]]"

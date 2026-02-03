@@ -85,8 +85,8 @@ dv_is_same_as:
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/education_/level :: "[[../../../Class/is_a_/Intangible/Defined_Term|Defined_Term]]", "[[../../../Class/is_a_/Data_Type/Text|Text]]", "[[../../../Class/is_a_/Data_Type/Text/Url|Url]]"  
-- has_education_level :: "[[../../Class/is_a_/Intangible/Defined_Term|Defined_Term]]", "[[../../Class/is_a_/Data_Type/Text|Text]]", "[[../../Class/is_a_/Data_Type/Text/Url|Url]]"   
+- #has_/education_/level : : "[[../../../Class/is_a_/Intangible/Defined_Term|Defined_Term]]", "[[../../../Class/is_a_/Data_Type/Text|Text]]", "[[../../../Class/is_a_/Data_Type/Text/Url|Url]]"  
+- has_education_level : : "[[../../Class/is_a_/Intangible/Defined_Term|Defined_Term]]", "[[../../Class/is_a_/Data_Type/Text|Text]]", "[[../../Class/is_a_/Data_Type/Text/Url|Url]]"   
 
 The level in terms of progression through an educational or training context. 
 Examples of educational levels include 'beginner', 'intermediate' or 'advanced', 

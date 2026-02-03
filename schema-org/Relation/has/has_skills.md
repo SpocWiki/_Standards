@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_skills]]"
+    - "[[/_public/schema-org/Relation/has/has_skills.public|has_skills.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_skills.internal|has_skills.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_skills.protect|has_skills.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_skills.private|has_skills.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_skills.personal|has_skills.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_skills.secret|has_skills.secret]]"
+dv_is_same_as:
+  - "[[has_skills]]"
+  - "[[/_public/schema-org/Relation/has/has_skills.public|has_skills.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_skills.internal|has_skills.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_skills.protect|has_skills.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_skills.private|has_skills.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_skills.personal|has_skills.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_skills.secret|has_skills.secret]]"
+---
 ﻿---
 dv_is_:
   same_as:

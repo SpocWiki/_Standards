@@ -30,6 +30,8 @@ dv_..:
   "ItemAvailability| #is_":
     parent_class: "[../ItemAvailability]"
     enum_of: "[../ItemAvailability]"
+  "ItemAvailability| #has_":
+    parent_class: "[../ItemAvailability]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Item_Availability/Back_Order|Back_Order]]"
@@ -39,16 +41,21 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Item_Availability/Back_Order.private|Back_Order.private]]"
     - "[[/_personal/schema-org/Enumeration/Item_Availability/Back_Order.personal|Back_Order.personal]]"
     - "[[/_secret/schema-org/Enumeration/Item_Availability/Back_Order.secret|Back_Order.secret]]"
+    - "[[Back_Order]]"
 dv_itemavailability-has_parent_class: "[../ItemAvailability]"
 dv_itemavailability-is_enum_of: "[../ItemAvailability]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Item_Availability/Back_Order|Back_Order]]"
+  - "[[Back_Order]]"
   - "[[/_public/schema-org/Enumeration/Item_Availability/Back_Order.public|Back_Order.public]]"
   - "[[/_internal/schema-org/Enumeration/Item_Availability/Back_Order.internal|Back_Order.internal]]"
   - "[[/_protect/schema-org/Enumeration/Item_Availability/Back_Order.protect|Back_Order.protect]]"
   - "[[/_private/schema-org/Enumeration/Item_Availability/Back_Order.private|Back_Order.private]]"
   - "[[/_personal/schema-org/Enumeration/Item_Availability/Back_Order.personal|Back_Order.personal]]"
   - "[[/_secret/schema-org/Enumeration/Item_Availability/Back_Order.secret|Back_Order.secret]]"
+dv_dv_:
+  "ItemAvailability| #is_":
+    parent_class: "[../ItemAvailability]"
+    enum_of: "[../ItemAvailability]"
 ---
 
 Class of all back_orders.

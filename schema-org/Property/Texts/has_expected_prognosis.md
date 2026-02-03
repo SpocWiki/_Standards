@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_expected_prognosis.private|has_expected_prognosis.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_expected_prognosis.personal|has_expected_prognosis.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_expected_prognosis.secret|has_expected_prognosis.secret]]"
+    - "[[has_expected_prognosis]]"
 dv_has_domain: MedicalCondition
 dv_has_name: has_text_of_expected_prognosis
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_expected_prognosis|has_expected_prognosis]]"
+  - "[[has_expected_prognosis]]"
   - "[[/_public/schema-org/Property/Texts/has_expected_prognosis.public|has_expected_prognosis.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_expected_prognosis.internal|has_expected_prognosis.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_expected_prognosis.protect|has_expected_prognosis.protect]]"

@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_fuel_consumption.private|has_value_for_fuel_consumption.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_fuel_consumption.personal|has_value_for_fuel_consumption.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_fuel_consumption.secret|has_value_for_fuel_consumption.secret]]"
+    - "[[has_value_for_fuel_consumption]]"
 dv_has_domain: "[[../../../Technology/Transport/Vehicle|Vehicle]]"
 dv_has_name: has_value_for_fuel_consumption
 dv_has_range: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
 dv_is_same_as:
-  - "[[has_value_for_fuel_consumption|has_value_for_fuel_consumption]]"
+  - "[[has_value_for_fuel_consumption]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_fuel_consumption.public|has_value_for_fuel_consumption.public]]"
   - "[[/_internal/schema-org/Property/has_value_for/has_value_for_fuel_consumption.internal|has_value_for_fuel_consumption.internal]]"
   - "[[/_protect/schema-org/Property/has_value_for/has_value_for_fuel_consumption.protect|has_value_for_fuel_consumption.protect]]"

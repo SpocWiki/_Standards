@@ -39,11 +39,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Flags/is_multi_valued.private|is_multi_valued.private]]"
     - "[[/_personal/schema-org/Property/Flags/is_multi_valued.personal|is_multi_valued.personal]]"
     - "[[/_secret/schema-org/Property/Flags/is_multi_valued.secret|is_multi_valued.secret]]"
+    - "[[is_multi_valued]]"
 dv_has_domain: PropertyValueSpecification
 dv_has_name: is_multi_valued
 dv_has_range: Boolean
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Flags/is_multi_valued|is_multi_valued]]"
+  - "[[is_multi_valued]]"
   - "[[/_public/schema-org/Property/Flags/is_multi_valued.public|is_multi_valued.public]]"
   - "[[/_internal/schema-org/Property/Flags/is_multi_valued.internal|is_multi_valued.internal]]"
   - "[[/_protect/schema-org/Property/Flags/is_multi_valued.protect|is_multi_valued.protect]]"

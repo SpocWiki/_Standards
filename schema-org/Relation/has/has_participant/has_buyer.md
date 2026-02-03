@@ -61,7 +61,7 @@ has_complement = `=this.dv_has_complement`
 
 
 Use it like this: 
-- #has_/buyer :: Organization, Person  
+- #has_/buyer : : Organization, Person  
 - has_buyer = `=this.dv_has_buyer`  
 
 A sub property of participant. The participant/person/organization that bought the object.

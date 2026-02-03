@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Restricted_Diet/Gluten_Free_Diet.private|Gluten_Free_Diet.private]]"
     - "[[/_personal/schema-org/Enumeration/Restricted_Diet/Gluten_Free_Diet.personal|Gluten_Free_Diet.personal]]"
     - "[[/_secret/schema-org/Enumeration/Restricted_Diet/Gluten_Free_Diet.secret|Gluten_Free_Diet.secret]]"
+    - "[[Gluten_Free_Diet]]"
 dv_has_parent_class: "[[../RestrictedDiet]]"
 dv_is_enum_of: "[[../RestrictedDiet]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Restricted_Diet/Gluten_Free_Diet|Gluten_Free_Diet]]"
+  - "[[Gluten_Free_Diet]]"
   - "[[/_public/schema-org/Enumeration/Restricted_Diet/Gluten_Free_Diet.public|Gluten_Free_Diet.public]]"
   - "[[/_internal/schema-org/Enumeration/Restricted_Diet/Gluten_Free_Diet.internal|Gluten_Free_Diet.internal]]"
   - "[[/_protect/schema-org/Enumeration/Restricted_Diet/Gluten_Free_Diet.protect|Gluten_Free_Diet.protect]]"

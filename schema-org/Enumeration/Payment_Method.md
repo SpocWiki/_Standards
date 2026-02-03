@@ -34,13 +34,14 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Payment_Method.private|Payment_Method.private]]"
     - "[[/_personal/schema-org/Enumeration/Payment_Method.personal|Payment_Method.personal]]"
     - "[[/_secret/schema-org/Enumeration/Payment_Method.secret|Payment_Method.secret]]"
+    - "[[Payment_Method]]"
 dv_has_:
   parent_class: "[[../Enumeration]]"
   child_class: "[ PaymentCard ]"
 dv_has_parent_class: "[[../Enumeration]]"
 dv_has_child_class: "[ PaymentCard ]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Payment_Method|Payment_Method]]"
+  - "[[Payment_Method]]"
   - "[[/_public/schema-org/Enumeration/Payment_Method.public|Payment_Method.public]]"
   - "[[/_internal/schema-org/Enumeration/Payment_Method.internal|Payment_Method.internal]]"
   - "[[/_protect/schema-org/Enumeration/Payment_Method.protect|Payment_Method.protect]]"

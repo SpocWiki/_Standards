@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_fax_number.private|has_fax_number.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_fax_number.personal|has_fax_number.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_fax_number.secret|has_fax_number.secret]]"
+    - "[[has_fax_number]]"
 dv_has_domain: ContactPoint, Organization, Person, Place
 dv_has_name: has_text_of_fax_number
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_fax_number|has_fax_number]]"
+  - "[[has_fax_number]]"
   - "[[/_public/schema-org/Property/Texts/has_fax_number.public|has_fax_number.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_fax_number.internal|has_fax_number.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_fax_number.protect|has_fax_number.protect]]"

@@ -44,11 +44,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_url_for.private|has_url_for.private]]"
     - "[[/_personal/schema-org/Property/has_url_for.personal|has_url_for.personal]]"
     - "[[/_secret/schema-org/Property/has_url_for.secret|has_url_for.secret]]"
+    - "[[has_url_for]]"
 dv_has_domain: "[Thing](../../Class/Thing)"
 dv_has_name: has_url_for
 dv_has_range: URL
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_url_for|has_url_for]]"
+  - "[[has_url_for]]"
   - "[[/_public/schema-org/Property/has_url_for.public|has_url_for.public]]"
   - "[[/_internal/schema-org/Property/has_url_for.internal|has_url_for.internal]]"
   - "[[/_protect/schema-org/Property/has_url_for.protect|has_url_for.protect]]"

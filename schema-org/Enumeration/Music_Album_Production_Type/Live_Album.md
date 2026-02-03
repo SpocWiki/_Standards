@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Music_Album_Production_Type/Live_Album.private|Live_Album.private]]"
     - "[[/_personal/schema-org/Enumeration/Music_Album_Production_Type/Live_Album.personal|Live_Album.personal]]"
     - "[[/_secret/schema-org/Enumeration/Music_Album_Production_Type/Live_Album.secret|Live_Album.secret]]"
+    - "[[Live_Album]]"
 dv_has_parent_class: "[[../MusicAlbumProductionType]]"
 dv_is_enum_of: "[[../MusicAlbumProductionType]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Music_Album_Production_Type/Live_Album|Live_Album]]"
+  - "[[Live_Album]]"
   - "[[/_public/schema-org/Enumeration/Music_Album_Production_Type/Live_Album.public|Live_Album.public]]"
   - "[[/_internal/schema-org/Enumeration/Music_Album_Production_Type/Live_Album.internal|Live_Album.internal]]"
   - "[[/_protect/schema-org/Enumeration/Music_Album_Production_Type/Live_Album.protect|Live_Album.protect]]"

@@ -66,7 +66,7 @@ is_a = `=this.dv_is_a`
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/return_policy_country :: Country, Text  
+- #has_/return_policy_country : : Country, Text  
 - has_return_policy_country = `=this.dv_has_return_policy_country`  
 
 The country where the product has to be sent to for returns, for example "Ireland" using the [[../../../Property/has_name|Name]] property of[[../../../../Earth/Geography/Place/Administrative_Area/Country]]]. You can also provide the two-letter [ISO 3166-1 alpha-2 country code](http://en.wikipedia.org/wiki/ISO_3166-1). Note that this can be different from the country where the product was originally shipped from or sent to.

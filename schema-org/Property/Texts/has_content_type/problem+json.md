@@ -8,8 +8,9 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_content_type/problem+json.private|problem+json.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_content_type/problem+json.personal|problem+json.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_content_type/problem+json.secret|problem+json.secret]]"
+    - "[[problem+json]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_content_type/problem+json|problem+json]]"
+  - "[[problem+json]]"
   - "[[/_public/schema-org/Property/Texts/has_content_type/problem+json.public|problem+json.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_content_type/problem+json.internal|problem+json.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_content_type/problem+json.protect|problem+json.protect]]"

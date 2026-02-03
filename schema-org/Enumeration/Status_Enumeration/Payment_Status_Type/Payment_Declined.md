@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Declined.private|Payment_Declined.private]]"
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Declined.personal|Payment_Declined.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Declined.secret|Payment_Declined.secret]]"
+    - "[[Payment_Declined]]"
 dv_has_parent_class: "[[../PaymentStatusType]]"
 dv_is_enum_of: "[[../PaymentStatusType]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Declined|Payment_Declined]]"
+  - "[[Payment_Declined]]"
   - "[[/_public/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Declined.public|Payment_Declined.public]]"
   - "[[/_internal/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Declined.internal|Payment_Declined.internal]]"
   - "[[/_protect/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Declined.protect|Payment_Declined.protect]]"

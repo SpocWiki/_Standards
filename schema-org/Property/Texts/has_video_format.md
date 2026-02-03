@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_video_format.private|has_video_format.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_video_format.personal|has_video_format.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_video_format.secret|has_video_format.secret]]"
+    - "[[has_video_format]]"
 dv_has_domain: BroadcastEvent, BroadcastService, ScreeningEvent
 dv_has_name: has_text_of_video_format
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_video_format|has_video_format]]"
+  - "[[has_video_format]]"
   - "[[/_public/schema-org/Property/Texts/has_video_format.public|has_video_format.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_video_format.internal|has_video_format.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_video_format.protect|has_video_format.protect]]"

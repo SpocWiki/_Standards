@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_location/has_location_address_street.private|has_location_address_street.private]]"
     - "[[/_personal/schema-org/Property/has_location/has_location_address_street.personal|has_location_address_street.personal]]"
     - "[[/_secret/schema-org/Property/has_location/has_location_address_street.secret|has_location_address_street.secret]]"
+    - "[[has_location_address_street]]"
 dv_has_domain: PostalAddress
 dv_has_name: has_location_address_street
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_location/has_location_address_street|has_location_address_street]]"
+  - "[[has_location_address_street]]"
   - "[[/_public/schema-org/Property/has_location/has_location_address_street.public|has_location_address_street.public]]"
   - "[[/_internal/schema-org/Property/has_location/has_location_address_street.internal|has_location_address_street.internal]]"
   - "[[/_protect/schema-org/Property/has_location/has_location_address_street.protect|has_location_address_street.protect]]"

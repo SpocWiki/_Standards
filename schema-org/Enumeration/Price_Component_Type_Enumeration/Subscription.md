@@ -36,11 +36,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Price_Component_Type_Enumeration/Subscription.private|Subscription.private]]"
     - "[[/_personal/schema-org/Enumeration/Price_Component_Type_Enumeration/Subscription.personal|Subscription.personal]]"
     - "[[/_secret/schema-org/Enumeration/Price_Component_Type_Enumeration/Subscription.secret|Subscription.secret]]"
+    - "[[Subscription]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../PriceComponentTypeEnumeration]]"
 dv_is_enum_of: "[[../PriceComponentTypeEnumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Price_Component_Type_Enumeration/Subscription|Subscription]]"
+  - "[[Subscription]]"
   - "[[/_public/schema-org/Enumeration/Price_Component_Type_Enumeration/Subscription.public|Subscription.public]]"
   - "[[/_internal/schema-org/Enumeration/Price_Component_Type_Enumeration/Subscription.internal|Subscription.internal]]"
   - "[[/_protect/schema-org/Enumeration/Price_Component_Type_Enumeration/Subscription.protect|Subscription.protect]]"

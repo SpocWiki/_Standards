@@ -46,11 +46,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_usage_permitted.private|has_usage_permitted.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_usage_permitted.personal|has_usage_permitted.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_usage_permitted.secret|has_usage_permitted.secret]]"
+    - "[[has_usage_permitted]]"
 dv_has_domain: "[[../../../Earth/Geography/Place/Accommodation|Accommodation]]"
 dv_has_name: has_usage_permitted
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_usage_permitted|has_usage_permitted]]"
+  - "[[has_usage_permitted]]"
   - "[[/_public/schema-org/Property/Texts/has_usage_permitted.public|has_usage_permitted.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_usage_permitted.internal|has_usage_permitted.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_usage_permitted.protect|has_usage_permitted.protect]]"

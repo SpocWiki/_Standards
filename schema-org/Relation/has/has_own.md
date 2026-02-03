@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_own]]"
+    - "[[/_public/schema-org/Relation/has/has_own.public|has_own.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_own.internal|has_own.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_own.protect|has_own.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_own.private|has_own.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_own.personal|has_own.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_own.secret|has_own.secret]]"
+dv_is_same_as:
+  - "[[has_own]]"
+  - "[[/_public/schema-org/Relation/has/has_own.public|has_own.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_own.internal|has_own.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_own.protect|has_own.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_own.private|has_own.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_own.personal|has_own.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_own.secret|has_own.secret]]"
+---
 ﻿---
 aliases:
   - has own

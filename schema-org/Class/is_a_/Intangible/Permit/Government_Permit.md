@@ -1,62 +1,63 @@
 ---
 aliases:
-- government-permit
-- government_permit
-- GovernmentPermit
-- is_a_government_permit
-- Government_Permit
-- Government Permit
+  - government-permit
+  - government_permit
+  - GovernmentPermit
+  - is_a_government_permit
+  - Government_Permit
+  - Government Permit
 confidential: public
 cssclasses:
-- Type
+  - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
-- government_permit
-layout: ''
+  - government_permit
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_government_permit Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
-- class/Class
-- schema-org/Class
+  - class/Class
+  - schema-org/Class
 title: is_a_government_permit Class
 type: Type
 dv_is_:
   same_as:
-  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Permit/Government_Permit|Government_Permit]]"
-  - "[[/_public/schema-org/Class/is_a_/Intangible/Permit/Government_Permit.public|Government_Permit.public]]"
-  - "[[/_internal/schema-org/Class/is_a_/Intangible/Permit/Government_Permit.internal|Government_Permit.internal]]"
-  - "[[/_protect/schema-org/Class/is_a_/Intangible/Permit/Government_Permit.protect|Government_Permit.protect]]"
-  - "[[/_private/schema-org/Class/is_a_/Intangible/Permit/Government_Permit.private|Government_Permit.private]]"
-  - "[[/_personal/schema-org/Class/is_a_/Intangible/Permit/Government_Permit.personal|Government_Permit.personal]]"
-  - "[[/_secret/schema-org/Class/is_a_/Intangible/Permit/Government_Permit.secret|Government_Permit.secret]]"
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Permit/Government_Permit|Government_Permit]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Permit/Government_Permit.public|Government_Permit.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Permit/Government_Permit.internal|Government_Permit.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Permit/Government_Permit.protect|Government_Permit.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Permit/Government_Permit.private|Government_Permit.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Permit/Government_Permit.personal|Government_Permit.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Permit/Government_Permit.secret|Government_Permit.secret]]"
+    - "[[Government_Permit]]"
 dv_has_:
   parent_class:
-  - "[[../Permit]]"
+    - "[[../Permit]]"
   properties:
-  - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
-  - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
-  - "[[../../../../Property/Texts/has_description|has_description]]"
-  - "[[../../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
-  - "[[../../../../Relation/has/has_identifier|has_identifier]]"
-  - "[[../../../../Relation/has/has_image|has_image]]"
-  - "[[../../../../Relation/is/is_issued_by|is_issued_by]]"
-  - "[[../../../../Relation/is/is_issued_through|is_issued_through]]"
-  - "[[../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
-  - "[[../../../../Property/has_name|has_name]]"
-  - "[[../../../../Relation/has/has_permit_audience|has_permit_audience]]"
-  - "[[../../../../Relation/has/has_potential_action|has_potential_action]]"
-  - "[[../../../../Relation/is_same_as|is_same_as]]"
-  - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
-  - "[[../../Property/has_url_for/has_url|has_url]]"
-  - "[[valid_for|valid_for]]"
-  - "[[valid_from|valid_from]]"
-  - "[[../../../../Relation/is/is_valid_in|is_valid_in]]"
-  - "[[valid_until|valid_until]]"
+    - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
+    - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
+    - "[[../../../../Property/Texts/has_description|has_description]]"
+    - "[[../../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
+    - "[[../../../../Relation/has/has_identifier|has_identifier]]"
+    - "[[../../../../Relation/has/has_image|has_image]]"
+    - "[[../../../../Relation/is/is_issued_by|is_issued_by]]"
+    - "[[../../../../Relation/is/is_issued_through|is_issued_through]]"
+    - "[[../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+    - "[[../../../../Property/has_name|has_name]]"
+    - "[[../../../../Relation/has/has_permit_audience|has_permit_audience]]"
+    - "[[../../../../Relation/has/has_potential_action|has_potential_action]]"
+    - "[[../../../../Relation/is_same_as|is_same_as]]"
+    - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
+    - "[[../../Property/has_url_for/has_url|has_url]]"
+    - "[[valid_for|valid_for]]"
+    - "[[valid_from|valid_from]]"
+    - "[[../../../../Relation/is/is_valid_in|is_valid_in]]"
+    - "[[valid_until|valid_until]]"
 dv_has_parent_class:
   - "[[../Permit]]"
 dv_has_properties:
@@ -80,7 +81,7 @@ dv_has_properties:
   - "[[../../../../Relation/is/is_valid_in|is_valid_in]]"
   - "[[valid_until|valid_until]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Permit/Government_Permit|Government_Permit]]"
+  - "[[Government_Permit]]"
   - "[[/_public/schema-org/Class/is_a_/Intangible/Permit/Government_Permit.public|Government_Permit.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Intangible/Permit/Government_Permit.internal|Government_Permit.internal]]"
   - "[[/_protect/schema-org/Class/is_a_/Intangible/Permit/Government_Permit.protect|Government_Permit.protect]]"

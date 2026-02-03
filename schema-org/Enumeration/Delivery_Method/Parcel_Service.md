@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Delivery_Method/Parcel_Service.private|Parcel_Service.private]]"
     - "[[/_personal/schema-org/Enumeration/Delivery_Method/Parcel_Service.personal|Parcel_Service.personal]]"
     - "[[/_secret/schema-org/Enumeration/Delivery_Method/Parcel_Service.secret|Parcel_Service.secret]]"
+    - "[[Parcel_Service]]"
 dv_has_parent_class: "[[../DeliveryMethod]]"
 dv_is_enum_of: "[[../DeliveryMethod]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Delivery_Method/Parcel_Service|Parcel_Service]]"
+  - "[[Parcel_Service]]"
   - "[[/_public/schema-org/Enumeration/Delivery_Method/Parcel_Service.public|Parcel_Service.public]]"
   - "[[/_internal/schema-org/Enumeration/Delivery_Method/Parcel_Service.internal|Parcel_Service.internal]]"
   - "[[/_protect/schema-org/Enumeration/Delivery_Method/Parcel_Service.protect|Parcel_Service.protect]]"

@@ -42,11 +42,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_location/has_location_address_region.private|has_location_address_region.private]]"
     - "[[/_personal/schema-org/Property/has_location/has_location_address_region.personal|has_location_address_region.personal]]"
     - "[[/_secret/schema-org/Property/has_location/has_location_address_region.secret|has_location_address_region.secret]]"
+    - "[[has_location_address_region]]"
 dv_has_domain: DefinedRegion, PostalAddress
 dv_has_name: has_location_address_region
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_location/has_location_address_region|has_location_address_region]]"
+  - "[[has_location_address_region]]"
   - "[[/_public/schema-org/Property/has_location/has_location_address_region.public|has_location_address_region.public]]"
   - "[[/_internal/schema-org/Property/has_location/has_location_address_region.internal|has_location_address_region.internal]]"
   - "[[/_protect/schema-org/Property/has_location/has_location_address_region.protect|has_location_address_region.protect]]"

@@ -31,20 +31,50 @@ title: has_complement
 type: Predi_Relation
 Wikidata_property:
 has_id_wikidata: P461
+dv_is_:
+  part_of: https://meta.schema.org
+  different_from: "[[has_inverse]]"
+  similar_to: "[[WD~opposite of,P461]]"
+  same_as:
+    - "[[has_complement]]"
+    - "[[/_public/schema-org/Relation/has_complement.public|has_complement.public]]"
+    - "[[/_internal/schema-org/Relation/has_complement.internal|has_complement.internal]]"
+    - "[[/_protect/schema-org/Relation/has_complement.protect|has_complement.protect]]"
+    - "[[/_private/schema-org/Relation/has_complement.private|has_complement.private]]"
+    - "[[/_personal/schema-org/Relation/has_complement.personal|has_complement.personal]]"
+    - "[[/_secret/schema-org/Relation/has_complement.secret|has_complement.secret]]"
+dv_has_:
+  domain: Property
+  name: has_complement
+  range: Property
+dv_is_part_of: https://meta.schema.org
+dv_is_different_from: "[[has_inverse]]"
+dv_is_similar_to: "[[WD~opposite of,P461]]"
+dv_has_domain: Property
+dv_has_name: has_complement
+dv_has_range: Property
+dv_is_same_as:
+  - "[[has_complement]]"
+  - "[[/_public/schema-org/Relation/has_complement.public|has_complement.public]]"
+  - "[[/_internal/schema-org/Relation/has_complement.internal|has_complement.internal]]"
+  - "[[/_protect/schema-org/Relation/has_complement.protect|has_complement.protect]]"
+  - "[[/_private/schema-org/Relation/has_complement.private|has_complement.private]]"
+  - "[[/_personal/schema-org/Relation/has_complement.personal|has_complement.personal]]"
+  - "[[/_secret/schema-org/Relation/has_complement.secret|has_complement.secret]]"
 ---
 
 # [[has_complement]] 
 
-#is_/part_of :: https://meta.schema.org 
+is_part_of = `=this.dv_is_part_of` 
 
-#is_/different_from :: [[has_inverse]] 
-#is_/similar_to :: [[WD~opposite of,P461]]
+is_different_from = `=this.dv_is_different_from` 
+is_similar_to = `=this.dv_is_similar_to` 
 
 alias: is opposite of 
 
 Use it like this: 
-- [has_/complement :: Property] 
-- [ has_complement :: Property] 
+- [has_/complement : : Property] 
+- [ has_complement : : Property] 
 
 In lack of a better term this is often used to relate 
 disjoint/mutually exclusive, but not necessarily exhaustive Categories as Complements do. 
@@ -73,10 +103,10 @@ Relation `>` has the same Domain for both Arguments which makes it more confusin
 
 Relation describes that: 
 
-#has_/domain  :: Property 
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: has_complement)
-(has_/range :: Property)
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 # #has_/examples 
 

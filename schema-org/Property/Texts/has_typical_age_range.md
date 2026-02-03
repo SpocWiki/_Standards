@@ -44,11 +44,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_typical_age_range.private|has_typical_age_range.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_typical_age_range.personal|has_typical_age_range.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_typical_age_range.secret|has_typical_age_range.secret]]"
+    - "[[has_typical_age_range]]"
 dv_has_domain: CreativeWork, Event
 dv_has_name: has_text_of_typical_age_range
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_typical_age_range|has_typical_age_range]]"
+  - "[[has_typical_age_range]]"
   - "[[/_public/schema-org/Property/Texts/has_typical_age_range.public|has_typical_age_range.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_typical_age_range.internal|has_typical_age_range.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_typical_age_range.protect|has_typical_age_range.protect]]"

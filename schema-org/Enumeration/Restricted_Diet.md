@@ -36,9 +36,10 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Restricted_Diet.private|Restricted_Diet.private]]"
     - "[[/_personal/schema-org/Enumeration/Restricted_Diet.personal|Restricted_Diet.personal]]"
     - "[[/_secret/schema-org/Enumeration/Restricted_Diet.secret|Restricted_Diet.secret]]"
+    - "[[Restricted_Diet]]"
 dv_has_parent_class: "[[../Enumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Restricted_Diet|Restricted_Diet]]"
+  - "[[Restricted_Diet]]"
   - "[[/_public/schema-org/Enumeration/Restricted_Diet.public|Restricted_Diet.public]]"
   - "[[/_internal/schema-org/Enumeration/Restricted_Diet.internal|Restricted_Diet.internal]]"
   - "[[/_protect/schema-org/Enumeration/Restricted_Diet.protect|Restricted_Diet.protect]]"

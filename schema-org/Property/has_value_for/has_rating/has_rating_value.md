@@ -31,6 +31,7 @@ dv_has_:
   range:
     - "[[../../../Class/is_a_/Data_Type/Number|Number]]"
     - "[[../../../Class/is_a_/Data_Type/Text|Text]]"
+  inverse: "[[is_rating_value_of]]"
 dv_is_:
   same_as:
     - "[[has_rating_value|has_rating_value]]"
@@ -40,25 +41,29 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_rating.private|has_value_for_rating.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_rating.personal|has_value_for_rating.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_rating.secret|has_value_for_rating.secret]]"
+    - "[[has_rating_value]]"
+  different_from: "[[../../../Relation/has/has_review/has_review_rating|has_review_rating]]"
 dv_has_domain: "[[../../../Class/is_a_/Intangible/Rating|Rating]]"
 dv_has_name: has_value_for_rating
 dv_has_range:
   - "[[../../../Class/is_a_/Data_Type/Number|Number]]"
   - "[[../../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_same_as:
-  - "[[has_rating_value|has_rating_value]]"
+  - "[[has_rating_value]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_rating.public|has_value_for_rating.public]]"
   - "[[/_internal/schema-org/Property/has_value_for/has_value_for_rating.internal|has_value_for_rating.internal]]"
   - "[[/_protect/schema-org/Property/has_value_for/has_value_for_rating.protect|has_value_for_rating.protect]]"
   - "[[/_private/schema-org/Property/has_value_for/has_value_for_rating.private|has_value_for_rating.private]]"
   - "[[/_personal/schema-org/Property/has_value_for/has_value_for_rating.personal|has_value_for_rating.personal]]"
   - "[[/_secret/schema-org/Property/has_value_for/has_value_for_rating.secret|has_value_for_rating.secret]]"
+dv_has_inverse: "[[is_rating_value_of]]"
+dv_is_different_from: "[[../../../Relation/has/has_review/has_review_rating|has_review_rating]]"
 ---
 
 # [[has_rating_value]] 
 
-#has_/inverse :: [[is_rating_value_of]] 
-#is_/different_from :: [[../../../Relation/has/has_review/has_review_rating|has_review_rating]] 
+has_inverse = `=this.dv_has_inverse` 
+is_different_from = `=this.dv_is_different_from` 
 
 [[../../../Predicate|Predicate]] to describe the Quantity of Rating.
 Prefer float-point Ratings for open-world Properties, 

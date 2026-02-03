@@ -41,11 +41,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_url_for/has_url_for_prescribing_info.private|has_url_for_prescribing_info.private]]"
     - "[[/_personal/schema-org/Property/has_url_for/has_url_for_prescribing_info.personal|has_url_for_prescribing_info.personal]]"
     - "[[/_secret/schema-org/Property/has_url_for/has_url_for_prescribing_info.secret|has_url_for_prescribing_info.secret]]"
+    - "[[has_url_for_prescribing_info]]"
 dv_has_domain: Drug
 dv_has_name: has_url_for_prescribing_info
 dv_has_range: URL
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_url_for/has_url_for_prescribing_info|has_url_for_prescribing_info]]"
+  - "[[has_url_for_prescribing_info]]"
   - "[[/_public/schema-org/Property/has_url_for/has_url_for_prescribing_info.public|has_url_for_prescribing_info.public]]"
   - "[[/_internal/schema-org/Property/has_url_for/has_url_for_prescribing_info.internal|has_url_for_prescribing_info.internal]]"
   - "[[/_protect/schema-org/Property/has_url_for/has_url_for_prescribing_info.protect|has_url_for_prescribing_info.protect]]"

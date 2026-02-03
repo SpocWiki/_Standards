@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_name/has_name_given.private|has_name_given.private]]"
     - "[[/_personal/schema-org/Property/has_name/has_name_given.personal|has_name_given.personal]]"
     - "[[/_secret/schema-org/Property/has_name/has_name_given.secret|has_name_given.secret]]"
+    - "[[has_name_given]]"
 dv_has_domain: Person
 dv_has_name: has_name_given
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_name/has_name_given|has_name_given]]"
+  - "[[has_name_given]]"
   - "[[/_public/schema-org/Property/has_name/has_name_given.public|has_name_given.public]]"
   - "[[/_internal/schema-org/Property/has_name/has_name_given.internal|has_name_given.internal]]"
   - "[[/_protect/schema-org/Property/has_name/has_name_given.protect|has_name_given.protect]]"

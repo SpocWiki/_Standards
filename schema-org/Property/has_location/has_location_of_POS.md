@@ -41,11 +41,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_location/has_location_of_POS.private|has_location_of_POS.private]]"
     - "[[/_personal/schema-org/Property/has_location/has_location_of_POS.personal|has_location_of_POS.personal]]"
     - "[[/_secret/schema-org/Property/has_location/has_location_of_POS.secret|has_location_of_POS.secret]]"
+    - "[[has_location_of_POS]]"
 dv_has_domain: Organization, Person
 dv_has_name: has_location_of_POS
 dv_has_range: Place
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_location/has_location_of_POS|has_location_of_POS]]"
+  - "[[has_location_of_POS]]"
   - "[[/_public/schema-org/Property/has_location/has_location_of_POS.public|has_location_of_POS.public]]"
   - "[[/_internal/schema-org/Property/has_location/has_location_of_POS.internal|has_location_of_POS.internal]]"
   - "[[/_protect/schema-org/Property/has_location/has_location_of_POS.protect|has_location_of_POS.protect]]"

@@ -46,11 +46,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_opening_hours.private|has_opening_hours.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_opening_hours.personal|has_opening_hours.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_opening_hours.secret|has_opening_hours.secret]]"
+    - "[[has_opening_hours]]"
 dv_has_domain: CivicStructure, LocalBusiness
 dv_has_name: has_text_of_opening_hours
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_opening_hours|has_opening_hours]]"
+  - "[[has_opening_hours]]"
   - "[[/_public/schema-org/Property/Texts/has_opening_hours.public|has_opening_hours.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_opening_hours.internal|has_opening_hours.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_opening_hours.protect|has_opening_hours.protect]]"

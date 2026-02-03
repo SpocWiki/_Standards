@@ -65,7 +65,7 @@ is_a = `=this.dv_is_a`
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/shipping_details :: OfferShippingDetails  
+- #has_/shipping_details : : OfferShippingDetails  
 - has_shipping_details = `=this.dv_has_shipping_details`  
 
 Indicates information about the shipping policies and options associated with an [[../../../../Society/Agent/Community/Organization/Business/Offer]].

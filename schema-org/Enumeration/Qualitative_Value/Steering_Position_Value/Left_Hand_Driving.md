@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value/Left_Hand_Driving.private|Left_Hand_Driving.private]]"
     - "[[/_personal/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value/Left_Hand_Driving.personal|Left_Hand_Driving.personal]]"
     - "[[/_secret/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value/Left_Hand_Driving.secret|Left_Hand_Driving.secret]]"
+    - "[[Left_Hand_Driving]]"
 dv_has_parent_class: "[[../SteeringPositionValue]]"
 dv_is_enum_of: "[[../SteeringPositionValue]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value/Left_Hand_Driving|Left_Hand_Driving]]"
+  - "[[Left_Hand_Driving]]"
   - "[[/_public/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value/Left_Hand_Driving.public|Left_Hand_Driving.public]]"
   - "[[/_internal/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value/Left_Hand_Driving.internal|Left_Hand_Driving.internal]]"
   - "[[/_protect/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value/Left_Hand_Driving.protect|Left_Hand_Driving.protect]]"

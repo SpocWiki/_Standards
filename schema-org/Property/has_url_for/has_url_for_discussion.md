@@ -42,11 +42,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_url_for/has_url_for_discussion.private|has_url_for_discussion.private]]"
     - "[[/_personal/schema-org/Property/has_url_for/has_url_for_discussion.personal|has_url_for_discussion.personal]]"
     - "[[/_secret/schema-org/Property/has_url_for/has_url_for_discussion.secret|has_url_for_discussion.secret]]"
+    - "[[has_url_for_discussion]]"
 dv_has_domain: CreativeWork
 dv_has_name: has_url_for_discussion_url
 dv_has_range: URL
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_url_for/has_url_for_discussion|has_url_for_discussion]]"
+  - "[[has_url_for_discussion]]"
   - "[[/_public/schema-org/Property/has_url_for/has_url_for_discussion.public|has_url_for_discussion.public]]"
   - "[[/_internal/schema-org/Property/has_url_for/has_url_for_discussion.internal|has_url_for_discussion.internal]]"
   - "[[/_protect/schema-org/Property/has_url_for/has_url_for_discussion.protect|has_url_for_discussion.protect]]"

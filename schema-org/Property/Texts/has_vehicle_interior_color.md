@@ -44,11 +44,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_vehicle_interior_color.private|has_vehicle_interior_color.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_vehicle_interior_color.personal|has_vehicle_interior_color.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_vehicle_interior_color.secret|has_vehicle_interior_color.secret]]"
+    - "[[has_vehicle_interior_color]]"
 dv_has_domain: Vehicle
 dv_has_name: has_text_of_vehicle_interior_color
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_vehicle_interior_color|has_vehicle_interior_color]]"
+  - "[[has_vehicle_interior_color]]"
   - "[[/_public/schema-org/Property/Texts/has_vehicle_interior_color.public|has_vehicle_interior_color.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_vehicle_interior_color.internal|has_vehicle_interior_color.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_vehicle_interior_color.protect|has_vehicle_interior_color.protect]]"

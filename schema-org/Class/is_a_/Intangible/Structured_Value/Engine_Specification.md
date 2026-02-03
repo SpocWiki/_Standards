@@ -34,6 +34,7 @@ dv_is_:
     - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Engine_Specification.private|Engine_Specification.private]]"
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Engine_Specification.personal|Engine_Specification.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Engine_Specification.secret|Engine_Specification.secret]]"
+    - "[[Engine_Specification]]"
 dv_has_:
   parent_class:
     - "[[../StructuredValue]]"
@@ -76,7 +77,7 @@ dv_has_properties:
   - "[[../../../../../Dimension/Angular_Dimension/Torque|torque]]"
   - "[[../../Property/has_url_for/has_url|has_url]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Engine_Specification|Engine_Specification]]"
+  - "[[Engine_Specification]]"
   - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Engine_Specification.public|Engine_Specification.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Engine_Specification.internal|Engine_Specification.internal]]"
   - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Engine_Specification.protect|Engine_Specification.protect]]"

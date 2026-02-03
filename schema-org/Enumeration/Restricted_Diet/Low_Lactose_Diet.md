@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Restricted_Diet/Low_Lactose_Diet.private|Low_Lactose_Diet.private]]"
     - "[[/_personal/schema-org/Enumeration/Restricted_Diet/Low_Lactose_Diet.personal|Low_Lactose_Diet.personal]]"
     - "[[/_secret/schema-org/Enumeration/Restricted_Diet/Low_Lactose_Diet.secret|Low_Lactose_Diet.secret]]"
+    - "[[Low_Lactose_Diet]]"
 dv_has_parent_class: "[[../RestrictedDiet]]"
 dv_is_enum_of: "[[../RestrictedDiet]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Restricted_Diet/Low_Lactose_Diet|Low_Lactose_Diet]]"
+  - "[[Low_Lactose_Diet]]"
   - "[[/_public/schema-org/Enumeration/Restricted_Diet/Low_Lactose_Diet.public|Low_Lactose_Diet.public]]"
   - "[[/_internal/schema-org/Enumeration/Restricted_Diet/Low_Lactose_Diet.internal|Low_Lactose_Diet.internal]]"
   - "[[/_protect/schema-org/Enumeration/Restricted_Diet/Low_Lactose_Diet.protect|Low_Lactose_Diet.protect]]"

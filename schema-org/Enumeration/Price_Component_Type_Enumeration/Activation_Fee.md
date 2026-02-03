@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Price_Component_Type_Enumeration/Activation_Fee.private|Activation_Fee.private]]"
     - "[[/_personal/schema-org/Enumeration/Price_Component_Type_Enumeration/Activation_Fee.personal|Activation_Fee.personal]]"
     - "[[/_secret/schema-org/Enumeration/Price_Component_Type_Enumeration/Activation_Fee.secret|Activation_Fee.secret]]"
+    - "[[Activation_Fee]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../PriceComponentTypeEnumeration]]"
 dv_is_enum_of: "[[../PriceComponentTypeEnumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Price_Component_Type_Enumeration/Activation_Fee|Activation_Fee]]"
+  - "[[Activation_Fee]]"
   - "[[/_public/schema-org/Enumeration/Price_Component_Type_Enumeration/Activation_Fee.public|Activation_Fee.public]]"
   - "[[/_internal/schema-org/Enumeration/Price_Component_Type_Enumeration/Activation_Fee.internal|Activation_Fee.internal]]"
   - "[[/_protect/schema-org/Enumeration/Price_Component_Type_Enumeration/Activation_Fee.protect|Activation_Fee.protect]]"

@@ -39,11 +39,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_url_for/has_url.private|has_url.private]]"
     - "[[/_personal/schema-org/Property/has_url_for/has_url.personal|has_url.personal]]"
     - "[[/_secret/schema-org/Property/has_url_for/has_url.secret|has_url.secret]]"
+    - "[[has_url]]"
 dv_has_domain: "[Thing](../../Class/Thing)"
 dv_has_name: has_url_for_url
 dv_has_range: URL
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_url_for/has_url|has_url]]"
+  - "[[has_url]]"
   - "[[/_public/schema-org/Property/has_url_for/has_url.public|has_url.public]]"
   - "[[/_internal/schema-org/Property/has_url_for/has_url.internal|has_url.internal]]"
   - "[[/_protect/schema-org/Property/has_url_for/has_url.protect|has_url.protect]]"

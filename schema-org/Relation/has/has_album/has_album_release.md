@@ -29,6 +29,7 @@ dv_has_:
   inverse:
     - 
     - releaseOf
+    - 
   domain: MusicAlbum
   name: has_album_release
   range: MusicRelease
@@ -66,7 +67,7 @@ is_a = `=this.dv_is_a`
 #has_/inverse :: 
 
 Use it like this: 
-- #has_/album_release :: MusicRelease  
+- #has_/album_release : : MusicRelease  
 - has_album_release = `=this.dv_has_album_release`  
 
 A release of this album.

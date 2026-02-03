@@ -36,9 +36,10 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Physical_Activity_Category.private|Physical_Activity_Category.private]]"
     - "[[/_personal/schema-org/Enumeration/Physical_Activity_Category.personal|Physical_Activity_Category.personal]]"
     - "[[/_secret/schema-org/Enumeration/Physical_Activity_Category.secret|Physical_Activity_Category.secret]]"
+    - "[[Physical_Activity_Category]]"
 dv_has_parent_class: "[[../Enumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Physical_Activity_Category|Physical_Activity_Category]]"
+  - "[[Physical_Activity_Category]]"
   - "[[/_public/schema-org/Enumeration/Physical_Activity_Category.public|Physical_Activity_Category.public]]"
   - "[[/_internal/schema-org/Enumeration/Physical_Activity_Category.internal|Physical_Activity_Category.internal]]"
   - "[[/_protect/schema-org/Enumeration/Physical_Activity_Category.protect|Physical_Activity_Category.protect]]"

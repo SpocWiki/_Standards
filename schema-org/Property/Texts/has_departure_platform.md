@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_departure_platform.private|has_departure_platform.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_departure_platform.personal|has_departure_platform.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_departure_platform.secret|has_departure_platform.secret]]"
+    - "[[has_departure_platform]]"
 dv_has_domain: TrainTrip
 dv_has_name: has_text_of_departure_platform
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_departure_platform|has_departure_platform]]"
+  - "[[has_departure_platform]]"
   - "[[/_public/schema-org/Property/Texts/has_departure_platform.public|has_departure_platform.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_departure_platform.internal|has_departure_platform.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_departure_platform.protect|has_departure_platform.protect]]"

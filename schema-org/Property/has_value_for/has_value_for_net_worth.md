@@ -28,7 +28,9 @@ type: Predi_Quantity
 dv_has_:
   domain: "[[../../../Society/Agent/Person|Person]]"
   name: has_value_for_net_worth
-  range: ["[[../../Class/is_a_/Intangible/Structured_Value/Monetary_Amount|Monetary_Amount]]", "[[../../Class/is_a_/Intangible/Structured_Value/Price_Specification|PriceSpecification]]"]
+  range:
+    - "[[../../Class/is_a_/Intangible/Structured_Value/Monetary_Amount|Monetary_Amount]]"
+    - "[[../../Class/is_a_/Intangible/Structured_Value/Price_Specification|PriceSpecification]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_net_worth|has_value_for_net_worth]]"
@@ -38,11 +40,14 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_net_worth.private|has_value_for_net_worth.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_net_worth.personal|has_value_for_net_worth.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_net_worth.secret|has_value_for_net_worth.secret]]"
+    - "[[has_value_for_net_worth]]"
 dv_has_domain: "[[../../../Society/Agent/Person|Person]]"
 dv_has_name: has_value_for_net_worth
-dv_has_range: ["[[../../Class/is_a_/Intangible/Structured_Value/Monetary_Amount|MonetaryAmount]]", "[[../../Class/is_a_/Intangible/Structured_Value/Price_Specification|PriceSpecification]]"]
+dv_has_range:
+  - "[[../../Class/is_a_/Intangible/Structured_Value/Monetary_Amount|MonetaryAmount]]"
+  - "[[../../Class/is_a_/Intangible/Structured_Value/Price_Specification|PriceSpecification]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_net_worth|has_value_for_net_worth]]"
+  - "[[has_value_for_net_worth]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_net_worth.public|has_value_for_net_worth.public]]"
   - "[[/_internal/schema-org/Property/has_value_for/has_value_for_net_worth.internal|has_value_for_net_worth.internal]]"
   - "[[/_protect/schema-org/Property/has_value_for/has_value_for_net_worth.protect|has_value_for_net_worth.protect]]"

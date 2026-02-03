@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_typical_test]]"
+    - "[[/_public/schema-org/Relation/has/has_typical_test.public|has_typical_test.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_typical_test.internal|has_typical_test.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_typical_test.protect|has_typical_test.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_typical_test.private|has_typical_test.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_typical_test.personal|has_typical_test.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_typical_test.secret|has_typical_test.secret]]"
+dv_is_same_as:
+  - "[[has_typical_test]]"
+  - "[[/_public/schema-org/Relation/has/has_typical_test.public|has_typical_test.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_typical_test.internal|has_typical_test.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_typical_test.protect|has_typical_test.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_typical_test.private|has_typical_test.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_typical_test.personal|has_typical_test.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_typical_test.secret|has_typical_test.secret]]"
+---
 ﻿---
 dv_is_:
   same_as:

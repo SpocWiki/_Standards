@@ -35,7 +35,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -43,11 +43,11 @@ keywords:
   - translation
   - of
   - work
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_translation_of_work
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
@@ -66,7 +66,7 @@ is_a = `=this.dv_is_a`
 has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
-- #has_/translation_of_work :: `=this.dv_has_range`  
+- #has_/translation_of_work : : `=this.dv_has_range`  
 - has_translation_of_work = `=this.dv_has_range`  
 - is_translation_of_work_of : : `=this.dv_has_domain` 
 - #is_/translation_of_work_of : : `=this.dv_has_domain`

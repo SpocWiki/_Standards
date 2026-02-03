@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_required_gender.private|has_required_gender.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_required_gender.personal|has_required_gender.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_required_gender.secret|has_required_gender.secret]]"
+    - "[[has_required_gender]]"
 dv_has_domain: PeopleAudience
 dv_has_name: has_text_of_required_gender
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_required_gender|has_required_gender]]"
+  - "[[has_required_gender]]"
   - "[[/_public/schema-org/Property/Texts/has_required_gender.public|has_required_gender.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_required_gender.internal|has_required_gender.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_required_gender.protect|has_required_gender.protect]]"

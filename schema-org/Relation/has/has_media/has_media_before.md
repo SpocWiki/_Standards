@@ -79,8 +79,8 @@ has_next_ = `=this.dv_has_next_`
 is_similar_to = `=this.dv_is_similar_to` 
 
 Use it like this: 
-- #has_/media_/before :: [[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]],  [[../../../Class/is_a_/Data_Type/Text/Url|Url]]  
-- has_media_before :: [[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]],  [[../../../Class/is_a_/Data_Type/Text/Url|Url]]   
+- #has_/media_/before : : [[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]],  [[../../../Class/is_a_/Data_Type/Text/Url|Url]]  
+- has_media_before : : [[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]],  [[../../../Class/is_a_/Data_Type/Text/Url|Url]]   
 
 A media object representing the circumstances before performing this direction.
 

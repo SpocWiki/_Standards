@@ -11,39 +11,66 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - frequency
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_frequency
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_frequency
 type: Pred_Text
+dv_has_:
+  domain: DoseSchedule
+  name: has_text_of_frequency
+  range: Text
+  child_:
+    property: "[ repeatFrequency ]"
+dv_is_:
+  same_as:
+    - "[[has_frequency]]"
+    - "[[/_public/schema-org/Property/Texts/has_frequency.public|has_frequency.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_frequency.internal|has_frequency.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_frequency.protect|has_frequency.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_frequency.private|has_frequency.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_frequency.personal|has_frequency.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_frequency.secret|has_frequency.secret]]"
+dv_has_domain: DoseSchedule
+dv_has_name: has_text_of_frequency
+dv_has_range: Text
+dv_has_child_property: "[ repeatFrequency ]"
+dv_is_same_as:
+  - "[[has_frequency]]"
+  - "[[/_public/schema-org/Property/Texts/has_frequency.public|has_frequency.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_frequency.internal|has_frequency.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_frequency.protect|has_frequency.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_frequency.private|has_frequency.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_frequency.personal|has_frequency.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_frequency.secret|has_frequency.secret]]"
 ---
 
 Predicate to describe the Text of DoseSchedule.
 
 Use it like this: 
-- #has_/text_of_/frequency :: Text   
-- has_text_of_frequency :: Text   
+- #has_/text_of_/frequency : : Text   
+- has_text_of_frequency : : Text   
 
 How often the dose is taken, e.g. "daily".
 
 Predicated describes that: 
 
-#has_/domain  :: DoseSchedule  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: has_text_of_frequency )
-(has_/range :: Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#has_/child_/property :: [ repeatFrequency ]  
+has_child_property = `=this.dv_has_child_property` 
 
 ## Confidential Links & Embeds: 
 

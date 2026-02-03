@@ -63,7 +63,7 @@ dv_is_same_as:
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/offset_/of_start :: HyperTocEntry, Number  
+- #has_/offset_/of_start : : HyperTocEntry, Number  
 - has_offset_of_start = `=this.dv_has_offset_of_start`  
 
 The start time of the clip expressed as the number of seconds from the beginning of the work.

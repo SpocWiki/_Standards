@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Offer_Item_Condition/Damaged_Condition.private|Damaged_Condition.private]]"
     - "[[/_personal/schema-org/Enumeration/Offer_Item_Condition/Damaged_Condition.personal|Damaged_Condition.personal]]"
     - "[[/_secret/schema-org/Enumeration/Offer_Item_Condition/Damaged_Condition.secret|Damaged_Condition.secret]]"
+    - "[[Damaged_Condition]]"
 dv_has_parent_class: "[[../OfferItemCondition]]"
 dv_is_enum_of: "[[../OfferItemCondition]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Offer_Item_Condition/Damaged_Condition|Damaged_Condition]]"
+  - "[[Damaged_Condition]]"
   - "[[/_public/schema-org/Enumeration/Offer_Item_Condition/Damaged_Condition.public|Damaged_Condition.public]]"
   - "[[/_internal/schema-org/Enumeration/Offer_Item_Condition/Damaged_Condition.internal|Damaged_Condition.internal]]"
   - "[[/_protect/schema-org/Enumeration/Offer_Item_Condition/Damaged_Condition.protect|Damaged_Condition.protect]]"

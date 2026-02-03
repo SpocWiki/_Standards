@@ -13,38 +13,65 @@ cssclasses:
   - Predicate
   - Date_Time
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
-layout: ''
+keywords: ""
+layout: ""
 license: CC BY-SA 4.0
-linkTitle: ''
+linkTitle: ""
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Date
 title: has_time_of_death
 type: Predi_Date_Time
+dv_#has_:
+  time_:
+    of_birth: 2022-2-3
+dv_birth-date: 2022-2-3
+dv_domain: Person
+dv_has_:
+  name: has_time_of_death
+dv_range: Date
+dv_is_:
+  same_as:
+    - "[[has_time_of_death]]"
+    - "[[/_public/schema-org/Property/has_Date_Time/has_time_of_death.public|has_time_of_death.public]]"
+    - "[[/_internal/schema-org/Property/has_Date_Time/has_time_of_death.internal|has_time_of_death.internal]]"
+    - "[[/_protect/schema-org/Property/has_Date_Time/has_time_of_death.protect|has_time_of_death.protect]]"
+    - "[[/_private/schema-org/Property/has_Date_Time/has_time_of_death.private|has_time_of_death.private]]"
+    - "[[/_personal/schema-org/Property/has_Date_Time/has_time_of_death.personal|has_time_of_death.personal]]"
+    - "[[/_secret/schema-org/Property/has_Date_Time/has_time_of_death.secret|has_time_of_death.secret]]"
+dv_has_time_of_birth: 2022-2-3
+dv_has_name: has_time_of_death
+dv_is_same_as:
+  - "[[has_time_of_death]]"
+  - "[[/_public/schema-org/Property/has_Date_Time/has_time_of_death.public|has_time_of_death.public]]"
+  - "[[/_internal/schema-org/Property/has_Date_Time/has_time_of_death.internal|has_time_of_death.internal]]"
+  - "[[/_protect/schema-org/Property/has_Date_Time/has_time_of_death.protect|has_time_of_death.protect]]"
+  - "[[/_private/schema-org/Property/has_Date_Time/has_time_of_death.private|has_time_of_death.private]]"
+  - "[[/_personal/schema-org/Property/has_Date_Time/has_time_of_death.personal|has_time_of_death.personal]]"
+  - "[[/_secret/schema-org/Property/has_Date_Time/has_time_of_death.secret|has_time_of_death.secret]]"
 ---
 
 Predicate to describe the date of Person.
 
 Use it like this: 
-- #has_/time_of_death :: P#Y#M#W#DT#H#M#s.fff  
-- #has_/time_/of_death :: P#Y#M#W#DT#H#M#s.fff  
+- #has_/time_of_death : : P#Y#M#W#DT#H#M#s.fff  
+- #has_/time_/of_death : : P#Y#M#W#DT#H#M#s.fff  
 with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
-Peter [#has_/time_/of_birth :: 2022-2-3]. 
-Peter [birth-date :: 2022-2-3] 
+Peter has_time_of_birth = `=this.dv_has_time_of_birth` . 
+Peter birth-date = `=this.dv_birth-date`  
 
 Date of death.
 
 Formal Predicate: 
-[domain::Person]
-(has_/name::has_time_of_death)
-(range::Date)
+domain = `=this.dv_domain` 
+has_name = `=this.dv_has_name` 
+range = `=this.dv_range` 
 
 
 ## Confidential Links & Embeds: 

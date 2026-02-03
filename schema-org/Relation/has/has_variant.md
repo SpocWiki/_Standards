@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_variant]]"
+    - "[[/_public/schema-org/Relation/has/has_variant.public|has_variant.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_variant.internal|has_variant.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_variant.protect|has_variant.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_variant.private|has_variant.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_variant.personal|has_variant.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_variant.secret|has_variant.secret]]"
+dv_is_same_as:
+  - "[[has_variant]]"
+  - "[[/_public/schema-org/Relation/has/has_variant.public|has_variant.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_variant.internal|has_variant.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_variant.protect|has_variant.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_variant.private|has_variant.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_variant.personal|has_variant.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_variant.secret|has_variant.secret]]"
+---
 ﻿---
 dv_has_:
   variant: Product
@@ -65,7 +84,7 @@ is_a = `=this.dv_is_a`
 has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
-- #has_/variant :: Product  
+- #has_/variant : : Product  
 - has_variant = `=this.dv_has_variant`  
 - is_variant_of : : `=this.dv_has_domain` 
 - #is_/variant_of : : `=this.dv_has_domain`

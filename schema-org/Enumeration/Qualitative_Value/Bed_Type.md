@@ -37,10 +37,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Qualitative_Value/Bed_Type.private|Bed_Type.private]]"
     - "[[/_personal/schema-org/Enumeration/Qualitative_Value/Bed_Type.personal|Bed_Type.personal]]"
     - "[[/_secret/schema-org/Enumeration/Qualitative_Value/Bed_Type.secret|Bed_Type.secret]]"
+    - "[[Bed_Type]]"
 dv_has_parent_class: "[[../DayOfWeek]]"
 dv_is_enum_of: "[[../DayOfWeek]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Qualitative_Value/Bed_Type|Bed_Type]]"
+  - "[[Bed_Type]]"
   - "[[/_public/schema-org/Enumeration/Qualitative_Value/Bed_Type.public|Bed_Type.public]]"
   - "[[/_internal/schema-org/Enumeration/Qualitative_Value/Bed_Type.internal|Bed_Type.internal]]"
   - "[[/_protect/schema-org/Enumeration/Qualitative_Value/Bed_Type.protect|Bed_Type.protect]]"

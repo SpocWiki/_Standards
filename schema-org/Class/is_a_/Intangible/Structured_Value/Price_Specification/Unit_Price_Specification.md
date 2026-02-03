@@ -1,72 +1,73 @@
 ---
 aliases:
-- unit-price-specification
-- unit_price_specification
-- UnitPriceSpecification
-- is_a_unit_price_specification
-- Unit_Price_Specification
-- Unit Price Specification
+  - unit-price-specification
+  - unit_price_specification
+  - UnitPriceSpecification
+  - is_a_unit_price_specification
+  - Unit_Price_Specification
+  - Unit Price Specification
 confidential: public
 cssclasses:
-- Type
+  - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
-- unit_price_specification
-layout: ''
+  - unit_price_specification
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_unit_price_specification Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
-- class/Class
-- schema-org/Class
+  - class/Class
+  - schema-org/Class
 title: is_a_unit_price_specification Class
 type: Type
 dv_is_:
   same_as:
-  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification|Unit_Price_Specification]]"
-  - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification.public|Unit_Price_Specification.public]]"
-  - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification.internal|Unit_Price_Specification.internal]]"
-  - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification.protect|Unit_Price_Specification.protect]]"
-  - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification.private|Unit_Price_Specification.private]]"
-  - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification.personal|Unit_Price_Specification.personal]]"
-  - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification.secret|Unit_Price_Specification.secret]]"
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification|Unit_Price_Specification]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification.public|Unit_Price_Specification.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification.internal|Unit_Price_Specification.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification.protect|Unit_Price_Specification.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification.private|Unit_Price_Specification.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification.personal|Unit_Price_Specification.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification.secret|Unit_Price_Specification.secret]]"
+    - "[[Unit_Price_Specification]]"
 dv_has_:
   parent_class:
-  - "[[../PriceSpecification]]"
+    - "[[../PriceSpecification]]"
   properties:
-  - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
-  - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
-  - "[[billing_duration|billing_duration]]"
-  - "[[billing_increment|billing_increment]]"
-  - "[[billing_start|billing_start]]"
-  - "[[../../../../../Property/Texts/has_description|has_description]]"
-  - "[[../../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
-  - "[[eligible_quantity|eligible_quantity]]"
-  - "[[../../../../../Relation/has/has_eligible_transaction_volume|has_eligible_transaction_volume]]"
-  - "[[../../../../../Relation/has/has_identifier|has_identifier]]"
-  - "[[../../../../../Relation/has/has_image|has_image]]"
-  - "[[../../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
-  - "[[max_price|max_price]]"
-  - "[[min_price|min_price]]"
-  - "[[../../../../../Property/has_name|has_name]]"
-  - "[[../../../../../Relation/has/has_potential_action|has_potential_action]]"
-  - "[[price|price]]"
-  - "[[../../../../../Relation/has/has_price_component_type|has_price_component_type]]"
-  - "[[../../../../../Property/Texts/has_price_currency|has_price_currency]]"
-  - "[[../../../../../Relation/has/has_price_type|has_price_type]]"
-  - "[[reference_quantity|reference_quantity]]"
-  - "[[../../../../../Relation/is_same_as|is_same_as]]"
-  - "[[../../../../../Relation/is/is_subject_of|is_subject_of]]"
-  - "[[unit_code|unit_code]]"
-  - "[[../../../../../Property/Texts/has_unit_text|has_unit_text]]"
-  - "[[../../../Property/has_url_for/has_url|has_url]]"
-  - "[[valid_from|valid_from]]"
-  - "[[valid_through|valid_through]]"
-  - "[[../../../../../Property/Flags/is_value_added_tax_included|is_value_added_tax_included]]"
+    - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
+    - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
+    - "[[billing_duration|billing_duration]]"
+    - "[[billing_increment|billing_increment]]"
+    - "[[billing_start|billing_start]]"
+    - "[[../../../../../Property/Texts/has_description|has_description]]"
+    - "[[../../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
+    - "[[eligible_quantity|eligible_quantity]]"
+    - "[[../../../../../Relation/has/has_eligible_transaction_volume|has_eligible_transaction_volume]]"
+    - "[[../../../../../Relation/has/has_identifier|has_identifier]]"
+    - "[[../../../../../Relation/has/has_image|has_image]]"
+    - "[[../../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+    - "[[max_price|max_price]]"
+    - "[[min_price|min_price]]"
+    - "[[../../../../../Property/has_name|has_name]]"
+    - "[[../../../../../Relation/has/has_potential_action|has_potential_action]]"
+    - "[[price|price]]"
+    - "[[../../../../../Relation/has/has_price_component_type|has_price_component_type]]"
+    - "[[../../../../../Property/Texts/has_price_currency|has_price_currency]]"
+    - "[[../../../../../Relation/has/has_price_type|has_price_type]]"
+    - "[[reference_quantity|reference_quantity]]"
+    - "[[../../../../../Relation/is_same_as|is_same_as]]"
+    - "[[../../../../../Relation/is/is_subject_of|is_subject_of]]"
+    - "[[unit_code|unit_code]]"
+    - "[[../../../../../Property/Texts/has_unit_text|has_unit_text]]"
+    - "[[../../../Property/has_url_for/has_url|has_url]]"
+    - "[[valid_from|valid_from]]"
+    - "[[valid_through|valid_through]]"
+    - "[[../../../../../Property/Flags/is_value_added_tax_included|is_value_added_tax_included]]"
 dv_has_parent_class:
   - "[[../price_specification|../price_specification]]"
 dv_has_properties:
@@ -100,7 +101,7 @@ dv_has_properties:
   - "[[valid_through|valid_through]]"
   - "[[../../../../../Property/Flags/is_value_added_tax_included|is_value_added_tax_included]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification|Unit_Price_Specification]]"
+  - "[[Unit_Price_Specification]]"
   - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification.public|Unit_Price_Specification.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification.internal|Unit_Price_Specification.internal]]"
   - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification.protect|Unit_Price_Specification.protect]]"

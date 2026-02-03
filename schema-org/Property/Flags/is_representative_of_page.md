@@ -39,11 +39,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Flags/is_representative_of_page.private|is_representative_of_page.private]]"
     - "[[/_personal/schema-org/Property/Flags/is_representative_of_page.personal|is_representative_of_page.personal]]"
     - "[[/_secret/schema-org/Property/Flags/is_representative_of_page.secret|is_representative_of_page.secret]]"
+    - "[[is_representative_of_page]]"
 dv_has_domain: ImageObject
 dv_has_name: is_representative_of_page
 dv_has_range: Boolean
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Flags/is_representative_of_page|is_representative_of_page]]"
+  - "[[is_representative_of_page]]"
   - "[[/_public/schema-org/Property/Flags/is_representative_of_page.public|is_representative_of_page.public]]"
   - "[[/_internal/schema-org/Property/Flags/is_representative_of_page.internal|is_representative_of_page.internal]]"
   - "[[/_protect/schema-org/Property/Flags/is_representative_of_page.protect|is_representative_of_page.protect]]"

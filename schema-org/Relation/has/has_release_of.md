@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_release_of]]"
+    - "[[/_public/schema-org/Relation/has/has_release_of.public|has_release_of.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_release_of.internal|has_release_of.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_release_of.protect|has_release_of.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_release_of.private|has_release_of.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_release_of.personal|has_release_of.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_release_of.secret|has_release_of.secret]]"
+dv_is_same_as:
+  - "[[has_release_of]]"
+  - "[[/_public/schema-org/Relation/has/has_release_of.public|has_release_of.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_release_of.internal|has_release_of.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_release_of.protect|has_release_of.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_release_of.private|has_release_of.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_release_of.personal|has_release_of.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_release_of.secret|has_release_of.secret]]"
+---
 ﻿---
 dv_has_:
   release_of: MusicAlbum
@@ -68,7 +87,7 @@ is_a = `=this.dv_is_a`
 has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
-- #has_/release_of :: MusicAlbum  
+- #has_/release_of : : MusicAlbum  
 - has_release_of = `=this.dv_has_release_of`  
 
 The album this is a release of.

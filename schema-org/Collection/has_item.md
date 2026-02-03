@@ -60,8 +60,8 @@ dv_is_same_as:
 # [[has_item]] 
 
 Use it like this: 
-- #has_/items :: [[../../../Class/Thing|Thing]] 
-- has_item :: [[../../../Class/Thing|Thing]] 
+- #has_/items : : [[../../../Class/Thing|Thing]] 
+- has_item : : [[../../../Class/Thing|Thing]] 
 
 An entity represented by an entry in a list or data feed (e.g. an 'artist' in a list of 'artists').
 

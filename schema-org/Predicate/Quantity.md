@@ -50,13 +50,15 @@ dv_is_:
     - "[[/_private/schema-org/Predicate/Quantity.private|Quantity.private]]"
     - "[[/_personal/schema-org/Predicate/Quantity.personal|Quantity.personal]]"
     - "[[/_secret/schema-org/Predicate/Quantity.secret|Quantity.secret]]"
+    - "[[Quantity]]"
   parent_class: "[[../Class/is_a_/Intangible]]"
+  worse_than: "[[../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
 dv_has_:
   child_class: "[ Distance, Duration, Energy, Mass ]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
 dv_is_same_as:
   - "[[WD~Quantity,309314]]"
-  - "[[/_Standards/schema-org/Predicate/Quantity|Quantity]]"
+  - "[[Quantity]]"
   - "[[/_public/schema-org/Predicate/Quantity.public|Quantity.public]]"
   - "[[/_internal/schema-org/Predicate/Quantity.internal|Quantity.internal]]"
   - "[[/_protect/schema-org/Predicate/Quantity.protect|Quantity.protect]]"
@@ -66,12 +68,13 @@ dv_is_same_as:
 dv_has_parent_class: "[[../Class/is_a_/Intangible]]"
 dv_has_child_class: "[ Distance, Duration, Energy, Mass ]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
+dv_is_worse_than: "[[../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
 ---
 
 # [[Quantity]] 
 
 #is_/same_as :: [[WD~Quantity,309314]] 
-#is_/worse_than :: [[../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]] 
+is_worse_than = `=this.dv_is_worse_than` 
 
 Class of all Quantities, i.e. **Types with a** [[../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]].
 This is used to model Metadata Relations between [[../../Dimension/Unit_of_Measure|Unit_of_Measure]]. 

@@ -36,9 +36,10 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Status_Enumeration/Action_Status_Type.private|Action_Status_Type.private]]"
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Action_Status_Type.personal|Action_Status_Type.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Action_Status_Type.secret|Action_Status_Type.secret]]"
+    - "[[Action_Status_Type]]"
 dv_has_parent_class: "[[../StatusEnumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Action_Status_Type|Action_Status_Type]]"
+  - "[[Action_Status_Type]]"
   - "[[/_public/schema-org/Enumeration/Status_Enumeration/Action_Status_Type.public|Action_Status_Type.public]]"
   - "[[/_internal/schema-org/Enumeration/Status_Enumeration/Action_Status_Type.internal|Action_Status_Type.internal]]"
   - "[[/_protect/schema-org/Enumeration/Status_Enumeration/Action_Status_Type.protect|Action_Status_Type.protect]]"

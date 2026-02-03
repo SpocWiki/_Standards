@@ -39,11 +39,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Flags/is_readonly.private|is_readonly.private]]"
     - "[[/_personal/schema-org/Property/Flags/is_readonly.personal|is_readonly.personal]]"
     - "[[/_secret/schema-org/Property/Flags/is_readonly.secret|is_readonly.secret]]"
+    - "[[is_readonly]]"
 dv_has_domain: PropertyValueSpecification
 dv_has_name: is_readonly
 dv_has_range: Boolean
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Flags/is_readonly|is_readonly]]"
+  - "[[is_readonly]]"
   - "[[/_public/schema-org/Property/Flags/is_readonly.public|is_readonly.public]]"
   - "[[/_internal/schema-org/Property/Flags/is_readonly.internal|is_readonly.internal]]"
   - "[[/_protect/schema-org/Property/Flags/is_readonly.protect|is_readonly.protect]]"

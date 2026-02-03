@@ -40,9 +40,10 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_duration_of/has_duration_of_validity.private|has_duration_of_validity.private]]"
     - "[[/_personal/schema-org/Property/has_duration_of/has_duration_of_validity.personal|has_duration_of_validity.personal]]"
     - "[[/_secret/schema-org/Property/has_duration_of/has_duration_of_validity.secret|has_duration_of_validity.secret]]"
+    - "[[has_duration_of_validity]]"
 dv_has_name: has_duration_of_validity
 dv_is_same_as:
-  - "[[has_duration_of_validity|has_duration_of_validity]]"
+  - "[[has_duration_of_validity]]"
   - "[[/_public/schema-org/Property/has_duration_of/has_duration_of_validity.public|has_duration_of_validity.public]]"
   - "[[/_internal/schema-org/Property/has_duration_of/has_duration_of_validity.internal|has_duration_of_validity.internal]]"
   - "[[/_protect/schema-org/Property/has_duration_of/has_duration_of_validity.protect|has_duration_of_validity.protect]]"

@@ -67,8 +67,8 @@ dv_is_same_as:
 has_parent_property = `=this.dv_has_parent_property` 
 
 Use it like this: 
-- #has_/result_/comment :: "[[../../../../Society/Communication/Media/Creative_Work/Comment|Comment]]"  
-- has_result_comment :: "[[../../../../Society/Communication/Media/Creative_Work/Comment|Comment]]" 
+- #has_/result_/comment : : "[[../../../../Society/Communication/Media/Creative_Work/Comment|Comment]]"  
+- has_result_comment : : "[[../../../../Society/Communication/Media/Creative_Work/Comment|Comment]]" 
 
 A sub property of result. 
 The Comment created or sent as a result of this action.

@@ -34,13 +34,14 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Status_Enumeration.private|Status_Enumeration.private]]"
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration.personal|Status_Enumeration.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration.secret|Status_Enumeration.secret]]"
+    - "[[Status_Enumeration]]"
 dv_has_:
   parent_class: "[[../Enumeration]]"
   child_class: "[ ActionStatusType, EventStatusType, GameServerStatus, LegalForceStatus, OrderStatus, PaymentStatusType, ReservationStatusType ]"
 dv_has_parent_class: "[[../Enumeration]]"
 dv_has_child_class: "[ ActionStatusType, EventStatusType, GameServerStatus, LegalForceStatus, OrderStatus, PaymentStatusType, ReservationStatusType ]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Status_Enumeration|Status_Enumeration]]"
+  - "[[Status_Enumeration]]"
   - "[[/_public/schema-org/Enumeration/Status_Enumeration.public|Status_Enumeration.public]]"
   - "[[/_internal/schema-org/Enumeration/Status_Enumeration.internal|Status_Enumeration.internal]]"
   - "[[/_protect/schema-org/Enumeration/Status_Enumeration.protect|Status_Enumeration.protect]]"

@@ -10,36 +10,62 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
-layout: ''
+keywords: ""
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_involved_in_biological_process
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: is_involved_in_biological_process
 type: Predi_Relation
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[is_involved_in_biological_process]]"
+    - "[[/_public/schema-org/Relation/is/is_involved_in_biological_process.public|is_involved_in_biological_process.public]]"
+    - "[[/_internal/schema-org/Relation/is/is_involved_in_biological_process.internal|is_involved_in_biological_process.internal]]"
+    - "[[/_protect/schema-org/Relation/is/is_involved_in_biological_process.protect|is_involved_in_biological_process.protect]]"
+    - "[[/_private/schema-org/Relation/is/is_involved_in_biological_process.private|is_involved_in_biological_process.private]]"
+    - "[[/_personal/schema-org/Relation/is/is_involved_in_biological_process.personal|is_involved_in_biological_process.personal]]"
+    - "[[/_secret/schema-org/Relation/is/is_involved_in_biological_process.secret|is_involved_in_biological_process.secret]]"
+dv_has_:
+  domain: BioChemEntity
+  name: is_involved_in_biological_process
+  range: DefinedTerm, PropertyValue, URL
+dv_is_part_of: "pending:"
+dv_has_domain: BioChemEntity
+dv_has_name: is_involved_in_biological_process
+dv_has_range: DefinedTerm, PropertyValue, URL
+dv_is_same_as:
+  - "[[is_involved_in_biological_process]]"
+  - "[[/_public/schema-org/Relation/is/is_involved_in_biological_process.public|is_involved_in_biological_process.public]]"
+  - "[[/_internal/schema-org/Relation/is/is_involved_in_biological_process.internal|is_involved_in_biological_process.internal]]"
+  - "[[/_protect/schema-org/Relation/is/is_involved_in_biological_process.protect|is_involved_in_biological_process.protect]]"
+  - "[[/_private/schema-org/Relation/is/is_involved_in_biological_process.private|is_involved_in_biological_process.private]]"
+  - "[[/_personal/schema-org/Relation/is/is_involved_in_biological_process.personal|is_involved_in_biological_process.personal]]"
+  - "[[/_secret/schema-org/Relation/is/is_involved_in_biological_process.secret|is_involved_in_biological_process.secret]]"
 ---
 
-#is_/part_of :: pending: 
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #is_/involved_in_biological_process :: DefinedTerm, PropertyValue, URL 
-- is_involved_in_biological_process :: DefinedTerm, PropertyValue, URL 
+- #is_/involved_in_biological_process : : DefinedTerm, PropertyValue, URL 
+- is_involved_in_biological_process : : DefinedTerm, PropertyValue, URL 
 
 Biological process this BioChemEntity is involved in; please use PropertyValue if you want to include any evidence.
 
 Relation describes that: 
 
-#has_/domain  :: BioChemEntity 
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: is_involved_in_biological_process)
-(has_/range :: DefinedTerm, PropertyValue, URL)
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

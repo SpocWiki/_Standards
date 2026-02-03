@@ -13,26 +13,59 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - roof-load
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_roof-load
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_roof-load
 type: Predi_Quantity
+dv_has_:
+  unit_for_:
+    default: "[[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Gram|Unit~Gram]]"
+  domain:
+    - "[[../../../Technology/Transport/Road_Transport/Bus_or_Coach|Bus_or_Coach]]"
+    - "[[../../../Technology/Transport/Road_Transport/Car|Car]]"
+  name: has_value_for_load_on_roof
+  range: QuantitativeValue
+dv_is_:
+  part_of: https://auto.schema.org
+  same_as:
+    - "[[has_value_for_load_on_roof]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_load_on_roof.public|has_value_for_load_on_roof.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_load_on_roof.internal|has_value_for_load_on_roof.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_load_on_roof.protect|has_value_for_load_on_roof.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_load_on_roof.private|has_value_for_load_on_roof.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_load_on_roof.personal|has_value_for_load_on_roof.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_load_on_roof.secret|has_value_for_load_on_roof.secret]]"
+dv_has_unit_for_default: "[[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Gram|Unit~Gram]]"
+dv_is_part_of: https://auto.schema.org
+dv_has_domain:
+  - "[[../../../Technology/Transport/Road_Transport/Bus_or_Coach|Bus_or_Coach]]"
+  - "[[../../../Technology/Transport/Road_Transport/Car|Car]]"
+dv_has_name: has_value_for_load_on_roof
+dv_has_range: QuantitativeValue
+dv_is_same_as:
+  - "[[has_value_for_load_on_roof]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_load_on_roof.public|has_value_for_load_on_roof.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_load_on_roof.internal|has_value_for_load_on_roof.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_load_on_roof.protect|has_value_for_load_on_roof.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_load_on_roof.private|has_value_for_load_on_roof.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_load_on_roof.personal|has_value_for_load_on_roof.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_load_on_roof.secret|has_value_for_load_on_roof.secret]]"
 ---
 
 # [[has_value_for_load_on_roof]] 
 
-#has_/unit_for_/default :: [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Gram|Unit~Gram]] 
+has_unit_for_default = `=this.dv_has_unit_for_default` 
 
 The default [[../../../Dimension/Unit_of_Measure|Unit_of_Measure]]  are [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Gram|Unit~Gram]]s, unless specified different, either 
 - in the XPath/JsonPath 
@@ -40,11 +73,11 @@ The default [[../../../Dimension/Unit_of_Measure|Unit_of_Measure]]  are [[../../
 
 Predicate to describe the Quantity of [[../../../Technology/Transport/Road_Transport/Bus_or_Coach|Bus_or_Coach]],  [[../../../Technology/Transport/Road_Transport/Car|Car]]. 
 
-#is_/part_of :: https://auto.schema.org  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/value_for_/load_/on_roof :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]] 
-- #has_/value_for_/load_on_roof :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]] 
+- #has_/value_for_/load_/on_roof : : [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]] 
+- #has_/value_for_/load_on_roof : : [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]] 
 
 The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle.
 
@@ -59,8 +92,8 @@ Typical unit code(s): KGM for kilogram, LBR for pound
 Predicate describes that: 
 
 #has_/domain  :: [[../../../Technology/Transport/Road_Transport/Bus_or_Coach|Bus_or_Coach]],  [[../../../Technology/Transport/Road_Transport/Car|Car]] 
-(has_/name :: has_value_for_load_on_roof ) 
-(has_/range :: QuantitativeValue) 
+has_name = `=this.dv_has_name`  
+has_range = `=this.dv_has_range`  
 
 
 ## Confidential Links & Embeds: 

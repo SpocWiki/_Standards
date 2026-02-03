@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_muscle_action.private|has_muscle_action.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_muscle_action.personal|has_muscle_action.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_muscle_action.secret|has_muscle_action.secret]]"
+    - "[[has_muscle_action]]"
 dv_has_domain: Muscle
 dv_has_name: has_text_of_muscle_action
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_muscle_action|has_muscle_action]]"
+  - "[[has_muscle_action]]"
   - "[[/_public/schema-org/Property/Texts/has_muscle_action.public|has_muscle_action.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_muscle_action.internal|has_muscle_action.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_muscle_action.protect|has_muscle_action.protect]]"

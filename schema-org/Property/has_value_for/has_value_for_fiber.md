@@ -10,26 +10,51 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - fiber-content
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_fiber-content
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_fiber-content
 type: Predi_Quantity
+dv_has_:
+  unit_for_:
+    default: "[[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Gram|Unit~Gram]]"
+  name: has_value_for_fiber
+  range: Mass
+dv_is_:
+  same_as:
+    - "[[has_value_for_fiber]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_fiber.public|has_value_for_fiber.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_fiber.internal|has_value_for_fiber.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_fiber.protect|has_value_for_fiber.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_fiber.private|has_value_for_fiber.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_fiber.personal|has_value_for_fiber.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_fiber.secret|has_value_for_fiber.secret]]"
+dv_has_unit_for_default: "[[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Gram|Unit~Gram]]"
+dv_has_name: has_value_for_fiber
+dv_has_range: Mass
+dv_is_same_as:
+  - "[[has_value_for_fiber]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_fiber.public|has_value_for_fiber.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_fiber.internal|has_value_for_fiber.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_fiber.protect|has_value_for_fiber.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_fiber.private|has_value_for_fiber.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_fiber.personal|has_value_for_fiber.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_fiber.secret|has_value_for_fiber.secret]]"
 ---
 
 # [[has_value_for_fiber]] 
 
-#has_/unit_for_/default :: [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Gram|Unit~Gram]] 
+has_unit_for_default = `=this.dv_has_unit_for_default` 
 
 The default [[../../../Dimension/Unit_of_Measure|Unit_of_Measure]]  are [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Gram|Unit~Gram]]s, unless specified different, either 
 - in the XPath/JsonPath 
@@ -38,15 +63,15 @@ The default [[../../../Dimension/Unit_of_Measure|Unit_of_Measure]]  are [[../../
 Predicate to describe the Quantity of NutritionInformation.
 
 Use it like this: 
-- #has_/value_for_/fiber :: Mass  
-- has_value_for_fiber :: Mass  
+- #has_/value_for_/fiber : : Mass  
+- has_value_for_fiber : : Mass  
 
 The number of grams of fiber.
 
 Predicate describes that: 
 
-#has_/domain :: [[../../Class/is_a_/Intangible/Structured_Value/Nutrition_Information|Nutrition_Information]] (has_/name :: has_value_for_fiber )
-(has_/range :: Mass )
+#has_/domain :: [[../../Class/is_a_/Intangible/Structured_Value/Nutrition_Information|Nutrition_Information]] has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 ## Confidential Links & Embeds: 
 

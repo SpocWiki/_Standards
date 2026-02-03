@@ -69,8 +69,8 @@ has_parent_property = `=this.dv_has_parent_property`
 A person who reads (performs) the audiobook.
 
 Use it like this: 
-- #is_/read_by :: "[[../../../../Society/Agent/Person|Person]]" 
-- has_reader :: "[[../../../../Society/Agent/Person|Person]]" 
+- #is_/read_by : : "[[../../../../Society/Agent/Person|Person]]" 
+- has_reader : : "[[../../../../Society/Agent/Person|Person]]" 
 
 Relation describes that: 
 

@@ -42,11 +42,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_number_of/has_number_of_file_bytes.private|has_number_of_file_bytes.private]]"
     - "[[/_personal/schema-org/Property/has_number_of/has_number_of_file_bytes.personal|has_number_of_file_bytes.personal]]"
     - "[[/_secret/schema-org/Property/has_number_of/has_number_of_file_bytes.secret|has_number_of_file_bytes.secret]]"
+    - "[[has_number_of_file_bytes]]"
 dv_has_domain: SoftwareApplication
 dv_has_name: has_number_of_file_bytes
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_file_bytes|has_number_of_file_bytes]]"
+  - "[[has_number_of_file_bytes]]"
   - "[[/_public/schema-org/Property/has_number_of/has_number_of_file_bytes.public|has_number_of_file_bytes.public]]"
   - "[[/_internal/schema-org/Property/has_number_of/has_number_of_file_bytes.internal|has_number_of_file_bytes.internal]]"
   - "[[/_protect/schema-org/Property/has_number_of/has_number_of_file_bytes.protect|has_number_of_file_bytes.protect]]"

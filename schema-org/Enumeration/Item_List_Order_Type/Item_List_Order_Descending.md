@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending.private|Item_List_Order_Descending.private]]"
     - "[[/_personal/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending.personal|Item_List_Order_Descending.personal]]"
     - "[[/_secret/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending.secret|Item_List_Order_Descending.secret]]"
+    - "[[Item_List_Order_Descending]]"
 dv_has_parent_class: "[[../ItemListOrderType]]"
 dv_is_enum_of: "[[../ItemListOrderType]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending|Item_List_Order_Descending]]"
+  - "[[Item_List_Order_Descending]]"
   - "[[/_public/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending.public|Item_List_Order_Descending.public]]"
   - "[[/_internal/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending.internal|Item_List_Order_Descending.internal]]"
   - "[[/_protect/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending.protect|Item_List_Order_Descending.protect]]"

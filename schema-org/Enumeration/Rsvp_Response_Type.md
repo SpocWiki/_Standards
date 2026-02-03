@@ -36,9 +36,10 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Rsvp_Response_Type.private|Rsvp_Response_Type.private]]"
     - "[[/_personal/schema-org/Enumeration/Rsvp_Response_Type.personal|Rsvp_Response_Type.personal]]"
     - "[[/_secret/schema-org/Enumeration/Rsvp_Response_Type.secret|Rsvp_Response_Type.secret]]"
+    - "[[Rsvp_Response_Type]]"
 dv_has_parent_class: "[[../Enumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Rsvp_Response_Type|Rsvp_Response_Type]]"
+  - "[[Rsvp_Response_Type]]"
   - "[[/_public/schema-org/Enumeration/Rsvp_Response_Type.public|Rsvp_Response_Type.public]]"
   - "[[/_internal/schema-org/Enumeration/Rsvp_Response_Type.internal|Rsvp_Response_Type.internal]]"
   - "[[/_protect/schema-org/Enumeration/Rsvp_Response_Type.protect|Rsvp_Response_Type.protect]]"

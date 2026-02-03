@@ -26,7 +26,9 @@ tags:
 title: has_distance
 type: Predi_Quantity
 dv_has_:
-  domain: ["[[../../Class/is_a_/Action/Play_Action/Exercise_Action|Exercise_Action]]", "[[../../Class/is_a_/Action/Move_Action/Travel_Action|Travel_Action]]"]
+  domain:
+    - "[[../../Class/is_a_/Action/Play_Action/Exercise_Action|Exercise_Action]]"
+    - "[[../../Class/is_a_/Action/Move_Action/Travel_Action|Travel_Action]]"
   name: has_value_for_distance
   range: "[[../../../Dimension/Linear_Dimension/Distance|Distance]]"
 dv_is_:
@@ -38,11 +40,14 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_distance.private|has_value_for_distance.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_distance.personal|has_value_for_distance.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_distance.secret|has_value_for_distance.secret]]"
-dv_has_domain: ["[[../../Class/is_a_/Action/Play_Action/Exercise_Action|Exercise_Action]]", "[[../../Class/is_a_/Action/Move_Action/Travel_Action|Travel_Action]]"]
+    - "[[has_value_for_distance]]"
+dv_has_domain:
+  - "[[../../Class/is_a_/Action/Play_Action/Exercise_Action|Exercise_Action]]"
+  - "[[../../Class/is_a_/Action/Move_Action/Travel_Action|Travel_Action]]"
 dv_has_name: has_value_for_distance
 dv_has_range: "[[../../../Dimension/Linear_Dimension/Distance|Distance]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_distance|has_value_for_distance]]"
+  - "[[has_value_for_distance]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_distance.public|has_value_for_distance.public]]"
   - "[[/_internal/schema-org/Property/has_value_for/has_value_for_distance.internal|has_value_for_distance.internal]]"
   - "[[/_protect/schema-org/Property/has_value_for/has_value_for_distance.protect|has_value_for_distance.protect]]"

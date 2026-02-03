@@ -42,11 +42,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_url_for/has_url_for_install.private|has_url_for_install.private]]"
     - "[[/_personal/schema-org/Property/has_url_for/has_url_for_install.personal|has_url_for_install.personal]]"
     - "[[/_secret/schema-org/Property/has_url_for/has_url_for_install.secret|has_url_for_install.secret]]"
+    - "[[has_url_for_install]]"
 dv_has_domain: SoftwareApplication
 dv_has_name: has_url_for_install_url
 dv_has_range: URL
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_url_for/has_url_for_install|has_url_for_install]]"
+  - "[[has_url_for_install]]"
   - "[[/_public/schema-org/Property/has_url_for/has_url_for_install.public|has_url_for_install.public]]"
   - "[[/_internal/schema-org/Property/has_url_for/has_url_for_install.internal|has_url_for_install.internal]]"
   - "[[/_protect/schema-org/Property/has_url_for/has_url_for_install.protect|has_url_for_install.protect]]"

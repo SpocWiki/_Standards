@@ -42,11 +42,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_line.private|has_line.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_line.personal|has_line.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_line.secret|has_line.secret]]"
+    - "[[has_line]]"
 dv_has_domain: GeoShape
 dv_has_name: has_text_of_line
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_line|has_line]]"
+  - "[[has_line]]"
   - "[[/_public/schema-org/Property/Texts/has_line.public|has_line.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_line.internal|has_line.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_line.protect|has_line.protect]]"

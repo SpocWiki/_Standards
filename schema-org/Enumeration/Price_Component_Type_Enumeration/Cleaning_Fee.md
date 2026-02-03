@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Price_Component_Type_Enumeration/Cleaning_Fee.private|Cleaning_Fee.private]]"
     - "[[/_personal/schema-org/Enumeration/Price_Component_Type_Enumeration/Cleaning_Fee.personal|Cleaning_Fee.personal]]"
     - "[[/_secret/schema-org/Enumeration/Price_Component_Type_Enumeration/Cleaning_Fee.secret|Cleaning_Fee.secret]]"
+    - "[[Cleaning_Fee]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../PriceComponentTypeEnumeration]]"
 dv_is_enum_of: "[[../PriceComponentTypeEnumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Price_Component_Type_Enumeration/Cleaning_Fee|Cleaning_Fee]]"
+  - "[[Cleaning_Fee]]"
   - "[[/_public/schema-org/Enumeration/Price_Component_Type_Enumeration/Cleaning_Fee.public|Cleaning_Fee.public]]"
   - "[[/_internal/schema-org/Enumeration/Price_Component_Type_Enumeration/Cleaning_Fee.internal|Cleaning_Fee.internal]]"
   - "[[/_protect/schema-org/Enumeration/Price_Component_Type_Enumeration/Cleaning_Fee.protect|Cleaning_Fee.protect]]"

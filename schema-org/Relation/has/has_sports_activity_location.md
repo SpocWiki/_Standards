@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_sports_activity_location]]"
+    - "[[/_public/schema-org/Relation/has/has_sports_activity_location.public|has_sports_activity_location.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_sports_activity_location.internal|has_sports_activity_location.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_sports_activity_location.protect|has_sports_activity_location.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_sports_activity_location.private|has_sports_activity_location.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_sports_activity_location.personal|has_sports_activity_location.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_sports_activity_location.secret|has_sports_activity_location.secret]]"
+dv_is_same_as:
+  - "[[has_sports_activity_location]]"
+  - "[[/_public/schema-org/Relation/has/has_sports_activity_location.public|has_sports_activity_location.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_sports_activity_location.internal|has_sports_activity_location.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_sports_activity_location.protect|has_sports_activity_location.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_sports_activity_location.private|has_sports_activity_location.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_sports_activity_location.personal|has_sports_activity_location.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_sports_activity_location.secret|has_sports_activity_location.secret]]"
+---
 ﻿---
 dv_has_:
   sports_activity_location: SportsActivityLocation
@@ -72,7 +91,7 @@ is_a = `=this.dv_is_a`
 has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
-- #has_/sports_activity_location :: SportsActivityLocation  
+- #has_/sports_activity_location : : SportsActivityLocation  
 - has_sports_activity_location = `=this.dv_has_sports_activity_location`  
 
 A sub property of location. The sports activity location where this action occurred.

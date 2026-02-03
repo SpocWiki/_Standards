@@ -36,10 +36,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Event_Attendance_Mode_Enumeration.private|Event_Attendance_Mode_Enumeration.private]]"
     - "[[/_personal/schema-org/Enumeration/Event_Attendance_Mode_Enumeration.personal|Event_Attendance_Mode_Enumeration.personal]]"
     - "[[/_secret/schema-org/Enumeration/Event_Attendance_Mode_Enumeration.secret|Event_Attendance_Mode_Enumeration.secret]]"
+    - "[[Event_Attendance_Mode_Enumeration]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../Enumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Event_Attendance_Mode_Enumeration|Event_Attendance_Mode_Enumeration]]"
+  - "[[Event_Attendance_Mode_Enumeration]]"
   - "[[/_public/schema-org/Enumeration/Event_Attendance_Mode_Enumeration.public|Event_Attendance_Mode_Enumeration.public]]"
   - "[[/_internal/schema-org/Enumeration/Event_Attendance_Mode_Enumeration.internal|Event_Attendance_Mode_Enumeration.internal]]"
   - "[[/_protect/schema-org/Enumeration/Event_Attendance_Mode_Enumeration.protect|Event_Attendance_Mode_Enumeration.protect]]"

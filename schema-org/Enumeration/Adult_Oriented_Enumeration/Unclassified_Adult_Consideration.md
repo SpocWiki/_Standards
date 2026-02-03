@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Adult_Oriented_Enumeration/Unclassified_Adult_Consideration.private|Unclassified_Adult_Consideration.private]]"
     - "[[/_personal/schema-org/Enumeration/Adult_Oriented_Enumeration/Unclassified_Adult_Consideration.personal|Unclassified_Adult_Consideration.personal]]"
     - "[[/_secret/schema-org/Enumeration/Adult_Oriented_Enumeration/Unclassified_Adult_Consideration.secret|Unclassified_Adult_Consideration.secret]]"
+    - "[[Unclassified_Adult_Consideration]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../AdultOrientedEnumeration]]"
 dv_is_enum_of: "[[../AdultOrientedEnumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Adult_Oriented_Enumeration/Unclassified_Adult_Consideration|Unclassified_Adult_Consideration]]"
+  - "[[Unclassified_Adult_Consideration]]"
   - "[[/_public/schema-org/Enumeration/Adult_Oriented_Enumeration/Unclassified_Adult_Consideration.public|Unclassified_Adult_Consideration.public]]"
   - "[[/_internal/schema-org/Enumeration/Adult_Oriented_Enumeration/Unclassified_Adult_Consideration.internal|Unclassified_Adult_Consideration.internal]]"
   - "[[/_protect/schema-org/Enumeration/Adult_Oriented_Enumeration/Unclassified_Adult_Consideration.protect|Unclassified_Adult_Consideration.protect]]"

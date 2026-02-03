@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_educational_role.private|has_educational_role.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_educational_role.personal|has_educational_role.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_educational_role.secret|has_educational_role.secret]]"
+    - "[[has_educational_role]]"
 dv_has_domain: EducationalAudience
 dv_has_name: has_text_of_educational_role
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_educational_role|has_educational_role]]"
+  - "[[has_educational_role]]"
   - "[[/_public/schema-org/Property/Texts/has_educational_role.public|has_educational_role.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_educational_role.internal|has_educational_role.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_educational_role.protect|has_educational_role.protect]]"

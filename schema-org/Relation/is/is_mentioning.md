@@ -35,6 +35,7 @@ dv_is_:
     - "[[/_private/schema-org/Relation/is/is_mentioning.private|is_mentioning.private]]"
     - "[[/_personal/schema-org/Relation/is/is_mentioning.personal|is_mentioning.personal]]"
     - "[[/_secret/schema-org/Relation/is/is_mentioning.secret|is_mentioning.secret]]"
+    - "[[is_mentioning]]"
 dv_is_mentioning: "[[../../Class/is_a_|Thing]]"
 dv_has_:
   domain: "[[../../../Class/is_a_/creative_work]]"
@@ -44,17 +45,18 @@ dv_has_domain: "[[../../../Class/is_a_/creative_work]]"
 dv_has_name: is_mentioning
 dv_has_range: "[[../../Class/Thing|thing]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/is/is_mentioning|is_mentioning]]"
+  - "[[is_mentioning]]"
   - "[[/_public/schema-org/Relation/is/is_mentioning.public|is_mentioning.public]]"
   - "[[/_internal/schema-org/Relation/is/is_mentioning.internal|is_mentioning.internal]]"
   - "[[/_protect/schema-org/Relation/is/is_mentioning.protect|is_mentioning.protect]]"
   - "[[/_private/schema-org/Relation/is/is_mentioning.private|is_mentioning.private]]"
   - "[[/_personal/schema-org/Relation/is/is_mentioning.personal|is_mentioning.personal]]"
   - "[[/_secret/schema-org/Relation/is/is_mentioning.secret|is_mentioning.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
 ---
 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 

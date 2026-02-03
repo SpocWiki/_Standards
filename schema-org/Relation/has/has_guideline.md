@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_guideline]]"
+    - "[[/_public/schema-org/Relation/has/has_guideline.public|has_guideline.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_guideline.internal|has_guideline.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_guideline.protect|has_guideline.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_guideline.private|has_guideline.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_guideline.personal|has_guideline.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_guideline.secret|has_guideline.secret]]"
+dv_is_same_as:
+  - "[[has_guideline]]"
+  - "[[/_public/schema-org/Relation/has/has_guideline.public|has_guideline.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_guideline.internal|has_guideline.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_guideline.protect|has_guideline.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_guideline.private|has_guideline.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_guideline.personal|has_guideline.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_guideline.secret|has_guideline.secret]]"
+---
 ﻿---
 aliases:
   - has guideline

@@ -10,36 +10,62 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
-layout: ''
+keywords: ""
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_included_in_health_insurance_plan
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: is_included_in_health_insurance_plan
 type: Predi_Relation
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[is_included_in_health_insurance_plan]]"
+    - "[[/_public/schema-org/Relation/is/is_included_in_health_insurance_plan.public|is_included_in_health_insurance_plan.public]]"
+    - "[[/_internal/schema-org/Relation/is/is_included_in_health_insurance_plan.internal|is_included_in_health_insurance_plan.internal]]"
+    - "[[/_protect/schema-org/Relation/is/is_included_in_health_insurance_plan.protect|is_included_in_health_insurance_plan.protect]]"
+    - "[[/_private/schema-org/Relation/is/is_included_in_health_insurance_plan.private|is_included_in_health_insurance_plan.private]]"
+    - "[[/_personal/schema-org/Relation/is/is_included_in_health_insurance_plan.personal|is_included_in_health_insurance_plan.personal]]"
+    - "[[/_secret/schema-org/Relation/is/is_included_in_health_insurance_plan.secret|is_included_in_health_insurance_plan.secret]]"
+dv_has_:
+  domain: Drug
+  name: is_included_in_health_insurance_plan
+  range: HealthInsurancePlan
+dv_is_part_of: "pending:"
+dv_has_domain: Drug
+dv_has_name: is_included_in_health_insurance_plan
+dv_has_range: HealthInsurancePlan
+dv_is_same_as:
+  - "[[is_included_in_health_insurance_plan]]"
+  - "[[/_public/schema-org/Relation/is/is_included_in_health_insurance_plan.public|is_included_in_health_insurance_plan.public]]"
+  - "[[/_internal/schema-org/Relation/is/is_included_in_health_insurance_plan.internal|is_included_in_health_insurance_plan.internal]]"
+  - "[[/_protect/schema-org/Relation/is/is_included_in_health_insurance_plan.protect|is_included_in_health_insurance_plan.protect]]"
+  - "[[/_private/schema-org/Relation/is/is_included_in_health_insurance_plan.private|is_included_in_health_insurance_plan.private]]"
+  - "[[/_personal/schema-org/Relation/is/is_included_in_health_insurance_plan.personal|is_included_in_health_insurance_plan.personal]]"
+  - "[[/_secret/schema-org/Relation/is/is_included_in_health_insurance_plan.secret|is_included_in_health_insurance_plan.secret]]"
 ---
 
-#is_/part_of :: pending: 
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #is_/included_in_health_insurance_plan :: HealthInsurancePlan 
-- is_included_in_health_insurance_plan :: HealthInsurancePlan 
+- #is_/included_in_health_insurance_plan : : HealthInsurancePlan 
+- is_included_in_health_insurance_plan : : HealthInsurancePlan 
 
 The insurance plans that cover this drug.
 
 Relation describes that: 
 
-#has_/domain  :: Drug 
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: is_included_in_health_insurance_plan)
-(has_/range :: HealthInsurancePlan)
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

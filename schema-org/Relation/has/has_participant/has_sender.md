@@ -61,7 +61,7 @@ is_a = `=this.dv_is_a`
 #has_/inverse :: 
 
 Use it like this: 
-- #has_/sender :: Audience, Organization, Person  
+- #has_/sender : : Audience, Organization, Person  
 - has_sender = `=this.dv_has_sender`  
 
 A sub property of Participant. 

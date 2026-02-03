@@ -10,30 +10,56 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - engine-power
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_engine-power
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_engine-power
 type: Predi_Quantity
+dv_is_:
+  part_of: https://auto.schema.org
+  same_as:
+    - "[[has_value_for_engine_power_watt]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_engine_power_watt.public|has_value_for_engine_power_watt.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_engine_power_watt.internal|has_value_for_engine_power_watt.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_engine_power_watt.protect|has_value_for_engine_power_watt.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_engine_power_watt.private|has_value_for_engine_power_watt.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_engine_power_watt.personal|has_value_for_engine_power_watt.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_engine_power_watt.secret|has_value_for_engine_power_watt.secret]]"
+dv_has_:
+  domain: EngineSpecification
+  name: has_value_for_engine_power_watt
+  range: QuantitativeValue
+dv_is_part_of: https://auto.schema.org
+dv_has_domain: EngineSpecification
+dv_has_name: has_value_for_engine_power_watt
+dv_has_range: QuantitativeValue
+dv_is_same_as:
+  - "[[has_value_for_engine_power_watt]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_engine_power_watt.public|has_value_for_engine_power_watt.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_engine_power_watt.internal|has_value_for_engine_power_watt.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_engine_power_watt.protect|has_value_for_engine_power_watt.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_engine_power_watt.private|has_value_for_engine_power_watt.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_engine_power_watt.personal|has_value_for_engine_power_watt.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_engine_power_watt.secret|has_value_for_engine_power_watt.secret]]"
 ---
 
 Predicate to describe the Quantity of EngineSpecification.
 
-#is_/part_of :: https://auto.schema.org  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/value_for_/engine_power_watt :: QuantitativeValue   
-- has_value_for_engine_power_watt :: QuantitativeValue   
+- #has_/value_for_/engine_power_watt : : QuantitativeValue   
+- has_value_for_engine_power_watt : : QuantitativeValue   
 
 The power of the vehicle's engine.
 	Typical unit code(s): KWT for kilowatt, BHP for brake horsepower, N12 for metric horsepower (PS, with 1 PS = 735,49875 W)
@@ -49,10 +75,10 @@ For an overview, see  <a href="http://en.wikipedia.org/wiki/Horsepower#Engine_po
 
 Predicate describes that: 
 
-#has_/domain  :: EngineSpecification  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: has_value_for_engine_power_watt )
-(has_/range :: QuantitativeValue )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

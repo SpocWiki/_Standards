@@ -34,6 +34,7 @@ dv_is_:
     - "[[/_private/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.private|Train_Trip.private]]"
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.personal|Train_Trip.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.secret|Train_Trip.secret]]"
+    - "[[Train_Trip]]"
 dv_has_:
   parent_class:
     - "[[../Trip]]"
@@ -92,7 +93,7 @@ dv_has_properties:
   - "[[../../../../Property/has_id/has_id_of_train|has_id_of_train]]"
   - "[[../../../../Property/has_url_for/has_url|has_url]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Trip/Train_Trip|Train_Trip]]"
+  - "[[Train_Trip]]"
   - "[[/_public/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.public|Train_Trip.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.internal|Train_Trip.internal]]"
   - "[[/_protect/schema-org/Class/is_a_/Intangible/Trip/Train_Trip.protect|Train_Trip.protect]]"

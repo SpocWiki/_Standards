@@ -65,7 +65,7 @@ is_a = `=this.dv_is_a`
 #has_/inverse :: 
 
 Use it like this: 
-- #has_/work_featured :: CreativeWork  
+- #has_/work_featured : : CreativeWork  
 - has_work_featured = `=this.dv_has_work_featured`  
 
 A work featured in some event, e.g. exhibited in an ExhibitionEvent.

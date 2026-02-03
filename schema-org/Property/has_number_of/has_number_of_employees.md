@@ -41,11 +41,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_number_of/has_number_of_employees.private|has_number_of_employees.private]]"
     - "[[/_personal/schema-org/Property/has_number_of/has_number_of_employees.personal|has_number_of_employees.personal]]"
     - "[[/_secret/schema-org/Property/has_number_of/has_number_of_employees.secret|has_number_of_employees.secret]]"
+    - "[[has_number_of_employees]]"
 dv_has_domain: BusinessAudience, Organization
 dv_has_name: has_number_of_employees
 dv_has_range: QuantitativeValue
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_employees|has_number_of_employees]]"
+  - "[[has_number_of_employees]]"
   - "[[/_public/schema-org/Property/has_number_of/has_number_of_employees.public|has_number_of_employees.public]]"
   - "[[/_internal/schema-org/Property/has_number_of/has_number_of_employees.internal|has_number_of_employees.internal]]"
   - "[[/_protect/schema-org/Property/has_number_of/has_number_of_employees.protect|has_number_of_employees.protect]]"

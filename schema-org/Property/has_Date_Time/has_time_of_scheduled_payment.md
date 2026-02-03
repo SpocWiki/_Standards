@@ -40,9 +40,10 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_Date_Time/has_time_of_scheduled_payment.private|has_time_of_scheduled_payment.private]]"
     - "[[/_personal/schema-org/Property/has_Date_Time/has_time_of_scheduled_payment.personal|has_time_of_scheduled_payment.personal]]"
     - "[[/_secret/schema-org/Property/has_Date_Time/has_time_of_scheduled_payment.secret|has_time_of_scheduled_payment.secret]]"
+    - "[[has_time_of_scheduled_payment]]"
 dv_has_name: has_time_of_scheduled_payment
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_of_scheduled_payment|has_time_of_scheduled_payment]]"
+  - "[[has_time_of_scheduled_payment]]"
   - "[[/_public/schema-org/Property/has_Date_Time/has_time_of_scheduled_payment.public|has_time_of_scheduled_payment.public]]"
   - "[[/_internal/schema-org/Property/has_Date_Time/has_time_of_scheduled_payment.internal|has_time_of_scheduled_payment.internal]]"
   - "[[/_protect/schema-org/Property/has_Date_Time/has_time_of_scheduled_payment.protect|has_time_of_scheduled_payment.protect]]"

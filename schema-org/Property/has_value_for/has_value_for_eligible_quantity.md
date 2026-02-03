@@ -26,7 +26,10 @@ tags:
 title: has_eligible-quantity
 type: Predi_Quantity
 dv_has_:
-  domain: ["[[../../../Society/Agent/Community/Organization/Business/Demand|Demand]]", "[[../../../Society/Agent/Community/Organization/Business/Offer|Offer]]", "[[../../Class/is_a_/Intangible/Structured_Value/Price_Specification|PriceSpecification]]"]
+  domain:
+    - "[[../../../Society/Agent/Community/Organization/Business/Demand|Demand]]"
+    - "[[../../../Society/Agent/Community/Organization/Business/Offer|Offer]]"
+    - "[[../../Class/is_a_/Intangible/Structured_Value/Price_Specification|PriceSpecification]]"
   name: has_value_for_eligible_quantity
   range: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
 dv_is_:
@@ -38,11 +41,15 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_eligible_quantity.private|has_value_for_eligible_quantity.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_eligible_quantity.personal|has_value_for_eligible_quantity.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_eligible_quantity.secret|has_value_for_eligible_quantity.secret]]"
-dv_has_domain: ["[[../../../Society/Agent/Community/Organization/Business/Demand|Demand]]", "[[../../../Society/Agent/Community/Organization/Business/Offer|Offer]]", "[[../../Class/is_a_/Intangible/Structured_Value/Price_Specification|PriceSpecification]]"]
+    - "[[has_value_for_eligible_quantity]]"
+dv_has_domain:
+  - "[[../../../Society/Agent/Community/Organization/Business/Demand|Demand]]"
+  - "[[../../../Society/Agent/Community/Organization/Business/Offer|Offer]]"
+  - "[[../../Class/is_a_/Intangible/Structured_Value/Price_Specification|PriceSpecification]]"
 dv_has_name: has_value_for_eligible_quantity
 dv_has_range: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_eligible_quantity|has_value_for_eligible_quantity]]"
+  - "[[has_value_for_eligible_quantity]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_eligible_quantity.public|has_value_for_eligible_quantity.public]]"
   - "[[/_internal/schema-org/Property/has_value_for/has_value_for_eligible_quantity.internal|has_value_for_eligible_quantity.internal]]"
   - "[[/_protect/schema-org/Property/has_value_for/has_value_for_eligible_quantity.protect|has_value_for_eligible_quantity.protect]]"

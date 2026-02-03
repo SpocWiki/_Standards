@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_provider_mobility.private|has_provider_mobility.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_provider_mobility.personal|has_provider_mobility.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_provider_mobility.secret|has_provider_mobility.secret]]"
+    - "[[has_provider_mobility]]"
 dv_has_domain: Service
 dv_has_name: has_text_of_provider_mobility
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_provider_mobility|has_provider_mobility]]"
+  - "[[has_provider_mobility]]"
   - "[[/_public/schema-org/Property/Texts/has_provider_mobility.public|has_provider_mobility.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_provider_mobility.internal|has_provider_mobility.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_provider_mobility.protect|has_provider_mobility.protect]]"

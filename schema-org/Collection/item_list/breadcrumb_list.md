@@ -33,13 +33,14 @@ dv_is_:
     - "[[/_private/schema-org/Collection/item_list/breadcrumb_list.private|breadcrumb_list.private]]"
     - "[[/_personal/schema-org/Collection/item_list/breadcrumb_list.personal|breadcrumb_list.personal]]"
     - "[[/_secret/schema-org/Collection/item_list/breadcrumb_list.secret|breadcrumb_list.secret]]"
+    - "[[breadcrumb_list]]"
 dv_has_:
   parent_class: "[[../ItemList]]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, itemListElement, itemListOrder, mainEntityOfPage, name, numberOfItems, potentialAction, sameAs, subjectOf, url ]"
 dv_has_parent_class: "[[../ItemList]]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, itemListElement, itemListOrder, mainEntityOfPage, name, numberOfItems, potentialAction, sameAs, subjectOf, url ]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Collection/item_list/breadcrumb_list|breadcrumb_list]]"
+  - "[[breadcrumb_list]]"
   - "[[/_public/schema-org/Collection/item_list/breadcrumb_list.public|breadcrumb_list.public]]"
   - "[[/_internal/schema-org/Collection/item_list/breadcrumb_list.internal|breadcrumb_list.internal]]"
   - "[[/_protect/schema-org/Collection/item_list/breadcrumb_list.protect|breadcrumb_list.protect]]"

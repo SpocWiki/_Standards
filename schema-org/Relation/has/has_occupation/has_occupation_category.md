@@ -84,8 +84,8 @@ is_a = `=this.dv_is_a`
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/occupation_/category :: "[[../../../Class/is_a_/Intangible/Defined_Term/Category_Code|Category_Code]]", "[[../../../Class/is_a_/Data_Type/Text|Text]]"  
-- has_occupation_category :: "[[../../Class/is_a_/Intangible/Defined_Term/Category_Code|Category_Code]]", "[[../../Class/is_a_/Data_Type/Text|Text]]" 
+- #has_/occupation_/category : : "[[../../../Class/is_a_/Intangible/Defined_Term/Category_Code|Category_Code]]", "[[../../../Class/is_a_/Data_Type/Text|Text]]"  
+- has_occupation_category : : "[[../../Class/is_a_/Intangible/Defined_Term/Category_Code|Category_Code]]", "[[../../Class/is_a_/Data_Type/Text|Text]]" 
 
 A category describing the job, 
 preferably using a term from a taxonomy such as 

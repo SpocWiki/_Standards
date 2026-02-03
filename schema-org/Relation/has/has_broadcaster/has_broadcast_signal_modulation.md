@@ -66,7 +66,7 @@ is_a = `=this.dv_is_a`
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/broadcast_signal_modulation :: QualitativeValue, Text  
+- #has_/broadcast_signal_modulation : : QualitativeValue, Text  
 - has_broadcast_signal_modulation = `=this.dv_has_broadcast_signal_modulation`  
 
 The modulation (e.g. FM, AM, etc) used by a particular broadcast service.

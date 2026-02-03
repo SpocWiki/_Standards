@@ -42,11 +42,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_name/has_name_of_value.private|has_name_of_value.private]]"
     - "[[/_personal/schema-org/Property/has_name/has_name_of_value.personal|has_name_of_value.personal]]"
     - "[[/_secret/schema-org/Property/has_name/has_name_of_value.secret|has_name_of_value.secret]]"
+    - "[[has_name_of_value]]"
 dv_has_domain: PropertyValueSpecification
 dv_has_name: has_name_of_value
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_name/has_name_of_value|has_name_of_value]]"
+  - "[[has_name_of_value]]"
   - "[[/_public/schema-org/Property/has_name/has_name_of_value.public|has_name_of_value.public]]"
   - "[[/_internal/schema-org/Property/has_name/has_name_of_value.internal|has_name_of_value.internal]]"
   - "[[/_protect/schema-org/Property/has_name/has_name_of_value.protect|has_name_of_value.protect]]"

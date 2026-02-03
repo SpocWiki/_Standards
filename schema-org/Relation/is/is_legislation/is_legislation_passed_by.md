@@ -10,41 +10,70 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - legislation
   - passed
   - by
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_legislation_passed_by
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: is_legislation_passed_by
 type: Predi_Relation
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[is_legislation_passed_by]]"
+    - "[[/_public/schema-org/Relation/is/is_legislation_passed_by.public|is_legislation_passed_by.public]]"
+    - "[[/_internal/schema-org/Relation/is/is_legislation_passed_by.internal|is_legislation_passed_by.internal]]"
+    - "[[/_protect/schema-org/Relation/is/is_legislation_passed_by.protect|is_legislation_passed_by.protect]]"
+    - "[[/_private/schema-org/Relation/is/is_legislation_passed_by.private|is_legislation_passed_by.private]]"
+    - "[[/_personal/schema-org/Relation/is/is_legislation_passed_by.personal|is_legislation_passed_by.personal]]"
+    - "[[/_secret/schema-org/Relation/is/is_legislation_passed_by.secret|is_legislation_passed_by.secret]]"
+dv_has_:
+  domain: Legislation
+  name: is_legislation_passed_by
+  range: Organization, Person
+  parent_:
+    property: "[[../../has/has_parent/has_creator]]"
+dv_is_part_of: "pending:"
+dv_has_domain: Legislation
+dv_has_name: is_legislation_passed_by
+dv_has_range: Organization, Person
+dv_has_parent_property: "[[../../has/has_parent/has_creator]]"
+dv_is_same_as:
+  - "[[is_legislation_passed_by]]"
+  - "[[/_public/schema-org/Relation/is/is_legislation_passed_by.public|is_legislation_passed_by.public]]"
+  - "[[/_internal/schema-org/Relation/is/is_legislation_passed_by.internal|is_legislation_passed_by.internal]]"
+  - "[[/_protect/schema-org/Relation/is/is_legislation_passed_by.protect|is_legislation_passed_by.protect]]"
+  - "[[/_private/schema-org/Relation/is/is_legislation_passed_by.private|is_legislation_passed_by.private]]"
+  - "[[/_personal/schema-org/Relation/is/is_legislation_passed_by.personal|is_legislation_passed_by.personal]]"
+  - "[[/_secret/schema-org/Relation/is/is_legislation_passed_by.secret|is_legislation_passed_by.secret]]"
 ---
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #is_/legislation_passed_by :: Organization, Person  
-- is_legislation_passed_by :: Organization, Person  
+- #is_/legislation_passed_by : : Organization, Person  
+- is_legislation_passed_by : : Organization, Person  
 
 The person or organization that originally passed or made the law: typically parliament (for primary legislation) or government (for secondary legislation). This indicates the "legal author" of the law, as opposed to its physical author.
 
 Relation describes that: 
 
-#has_/domain  :: Legislation  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: is_legislation_passed_by )
-(has_/range :: Organization, Person )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#has_/parent_/property  :: [[../../has/has_parent/has_creator]]  
+has_parent_property = `=this.dv_has_parent_property` 
 
 ## Confidential Links & Embeds: 
 

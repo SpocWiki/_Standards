@@ -10,41 +10,67 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - product
   - group
   - id
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_id_product_group
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_id_product_group
 type: Pred_Text
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_name/has_id_product_group|has_id_product_group]]"
+    - "[[/_public/schema-org/Property/has_name/has_id_product_group.public|has_id_product_group.public]]"
+    - "[[/_internal/schema-org/Property/has_name/has_id_product_group.internal|has_id_product_group.internal]]"
+    - "[[/_protect/schema-org/Property/has_name/has_id_product_group.protect|has_id_product_group.protect]]"
+    - "[[/_private/schema-org/Property/has_name/has_id_product_group.private|has_id_product_group.private]]"
+    - "[[/_personal/schema-org/Property/has_name/has_id_product_group.personal|has_id_product_group.personal]]"
+    - "[[/_secret/schema-org/Property/has_name/has_id_product_group.secret|has_id_product_group.secret]]"
+dv_has_:
+  domain: ProductGroup
+  name: has_id_product_group
+  range: Text
+dv_is_part_of: "pending:"
+dv_has_domain: ProductGroup
+dv_has_name: has_id_product_group
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_name/has_id_product_group|has_id_product_group]]"
+  - "[[/_public/schema-org/Property/has_name/has_id_product_group.public|has_id_product_group.public]]"
+  - "[[/_internal/schema-org/Property/has_name/has_id_product_group.internal|has_id_product_group.internal]]"
+  - "[[/_protect/schema-org/Property/has_name/has_id_product_group.protect|has_id_product_group.protect]]"
+  - "[[/_private/schema-org/Property/has_name/has_id_product_group.private|has_id_product_group.private]]"
+  - "[[/_personal/schema-org/Property/has_name/has_id_product_group.personal|has_id_product_group.personal]]"
+  - "[[/_secret/schema-org/Property/has_name/has_id_product_group.secret|has_id_product_group.secret]]"
 ---
 
 Predicate to describe the Text of ProductGroup.
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/id_/product_group :: Text   
-- has_id_product_group :: Text   
+- #has_/id_/product_group : : Text   
+- has_id_product_group : : Text   
 
 Indicates a textual identifier for a ProductGroup.
 
 Predicated describes that: 
 
-#has_/domain  :: ProductGroup  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: has_id_product_group )
-(has_/range :: Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

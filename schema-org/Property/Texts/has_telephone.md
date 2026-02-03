@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_telephone.private|has_telephone.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_telephone.personal|has_telephone.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_telephone.secret|has_telephone.secret]]"
+    - "[[has_telephone]]"
 dv_has_domain: ContactPoint, Organization, Person, Place
 dv_has_name: has_telephone
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_telephone|has_telephone]]"
+  - "[[has_telephone]]"
   - "[[/_public/schema-org/Property/Texts/has_telephone.public|has_telephone.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_telephone.internal|has_telephone.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_telephone.protect|has_telephone.protect]]"

@@ -37,10 +37,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Book_Format_Type/Graphic_Novel.private|Graphic_Novel.private]]"
     - "[[/_personal/schema-org/Enumeration/Book_Format_Type/Graphic_Novel.personal|Graphic_Novel.personal]]"
     - "[[/_secret/schema-org/Enumeration/Book_Format_Type/Graphic_Novel.secret|Graphic_Novel.secret]]"
+    - "[[Graphic_Novel]]"
 dv_is_part_of: https://bib.schema.org
 dv_is_enum_of: "[[../Book_Format_Type]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Book_Format_Type/Graphic_Novel|Graphic_Novel]]"
+  - "[[Graphic_Novel]]"
   - "[[/_public/schema-org/Enumeration/Book_Format_Type/Graphic_Novel.public|Graphic_Novel.public]]"
   - "[[/_internal/schema-org/Enumeration/Book_Format_Type/Graphic_Novel.internal|Graphic_Novel.internal]]"
   - "[[/_protect/schema-org/Enumeration/Book_Format_Type/Graphic_Novel.protect|Graphic_Novel.protect]]"

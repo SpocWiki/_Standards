@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Head.private|Body_Measurement_Head.private]]"
     - "[[/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Head.personal|Body_Measurement_Head.personal]]"
     - "[[/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Head.secret|Body_Measurement_Head.secret]]"
+    - "[[Body_Measurement_Head]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../BodyMeasurementTypeEnumeration]]"
 dv_is_enum_of: "[[../BodyMeasurementTypeEnumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Head|Body_Measurement_Head]]"
+  - "[[Body_Measurement_Head]]"
   - "[[/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Head.public|Body_Measurement_Head.public]]"
   - "[[/_internal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Head.internal|Body_Measurement_Head.internal]]"
   - "[[/_protect/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Head.protect|Body_Measurement_Head.protect]]"

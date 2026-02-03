@@ -10,41 +10,70 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - legislation
   - identifier
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_id_legislation
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_id_legislation
 type: Pred_Text
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_name/has_id_legislation|has_id_legislation]]"
+    - "[[/_public/schema-org/Property/has_name/has_id_legislation.public|has_id_legislation.public]]"
+    - "[[/_internal/schema-org/Property/has_name/has_id_legislation.internal|has_id_legislation.internal]]"
+    - "[[/_protect/schema-org/Property/has_name/has_id_legislation.protect|has_id_legislation.protect]]"
+    - "[[/_private/schema-org/Property/has_name/has_id_legislation.private|has_id_legislation.private]]"
+    - "[[/_personal/schema-org/Property/has_name/has_id_legislation.personal|has_id_legislation.personal]]"
+    - "[[/_secret/schema-org/Property/has_name/has_id_legislation.secret|has_id_legislation.secret]]"
+dv_has_:
+  domain: "[[../../../Society/Communication/Media/Creative_Work/Legislation]]"
+  name: has_id_legislation
+  range: Text, URL
+  parent_:
+    property: "[[../../Relation/has/has_identifier]]"
+dv_is_part_of: "pending:"
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Legislation]]"
+dv_has_name: has_id_legislation
+dv_has_range: Text, URL
+dv_has_parent_property: "[[../../Relation/has/has_identifier]]"
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_name/has_id_legislation|has_id_legislation]]"
+  - "[[/_public/schema-org/Property/has_name/has_id_legislation.public|has_id_legislation.public]]"
+  - "[[/_internal/schema-org/Property/has_name/has_id_legislation.internal|has_id_legislation.internal]]"
+  - "[[/_protect/schema-org/Property/has_name/has_id_legislation.protect|has_id_legislation.protect]]"
+  - "[[/_private/schema-org/Property/has_name/has_id_legislation.private|has_id_legislation.private]]"
+  - "[[/_personal/schema-org/Property/has_name/has_id_legislation.personal|has_id_legislation.personal]]"
+  - "[[/_secret/schema-org/Property/has_name/has_id_legislation.secret|has_id_legislation.secret]]"
 ---
 
 Predicate to describe the Text of Legislation.
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/id_/legislation :: Text, URL   
-- has_id_legislation :: Text, URL   
+- #has_/id_/legislation : : Text, URL   
+- has_id_legislation : : Text, URL   
 
 An identifier for the legislation. This can be either a string-based identifier, like the CELEX at EU level or the NOR in France, or a web-based, URL/URI identifier, like an ELI (European Legislation Identifier) or an URN-Lex.
 
 Predicated describes that: 
 
-#has_/domain  :: [[../../../Society/Communication/Media/Creative_Work/Legislation]]   
-(has_/name :: has_id_legislation )
-(has_/range :: Text, URL )
+has_domain = `=this.dv_has_domain` 
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#has_/parent_/property  :: [[../../Relation/has/has_identifier]]   
+has_parent_property = `=this.dv_has_parent_property` 
 
 ## Confidential Links & Embeds: 
 

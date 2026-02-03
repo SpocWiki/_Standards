@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_representation]]"
+    - "[[/_public/schema-org/Relation/has/has_representation.public|has_representation.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_representation.internal|has_representation.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_representation.protect|has_representation.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_representation.private|has_representation.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_representation.personal|has_representation.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_representation.secret|has_representation.secret]]"
+dv_is_same_as:
+  - "[[has_representation]]"
+  - "[[/_public/schema-org/Relation/has/has_representation.public|has_representation.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_representation.internal|has_representation.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_representation.protect|has_representation.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_representation.private|has_representation.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_representation.personal|has_representation.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_representation.secret|has_representation.secret]]"
+---
 ﻿---
 dv_has_:
   representation: PropertyValue, Text, URL
@@ -91,7 +110,7 @@ is_a = `=this.dv_is_a`
 has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
-- #has_/representation :: PropertyValue, Text, URL  
+- #has_/representation : : PropertyValue, Text, URL  
 - has_representation = `=this.dv_has_representation`  
 - is_representation_of : : `=this.dv_has_domain` 
 - #is_/representation_of : : `=this.dv_has_domain`

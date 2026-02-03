@@ -40,11 +40,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_location/has_location_geo.private|has_location_geo.private]]"
     - "[[/_personal/schema-org/Property/has_location/has_location_geo.personal|has_location_geo.personal]]"
     - "[[/_secret/schema-org/Property/has_location/has_location_geo.secret|has_location_geo.secret]]"
+    - "[[has_location_geo]]"
 dv_has_domain: Place
 dv_has_name: has_location_
 dv_has_range: GeoCoordinates, GeoShape
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_location/has_location_geo|has_location_geo]]"
+  - "[[has_location_geo]]"
   - "[[/_public/schema-org/Property/has_location/has_location_geo.public|has_location_geo.public]]"
   - "[[/_internal/schema-org/Property/has_location/has_location_geo.internal|has_location_geo.internal]]"
   - "[[/_protect/schema-org/Property/has_location/has_location_geo.protect|has_location_geo.protect]]"

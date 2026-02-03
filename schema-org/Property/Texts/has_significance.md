@@ -42,11 +42,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_significance.private|has_significance.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_significance.personal|has_significance.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_significance.secret|has_significance.secret]]"
+    - "[[has_significance]]"
 dv_has_domain: SuperficialAnatomy
 dv_has_name: has_text_of_significance
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_significance|has_significance]]"
+  - "[[has_significance]]"
   - "[[/_public/schema-org/Property/Texts/has_significance.public|has_significance.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_significance.internal|has_significance.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_significance.protect|has_significance.protect]]"

@@ -44,11 +44,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_broadcast_service_tier.private|has_broadcast_service_tier.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_broadcast_service_tier.personal|has_broadcast_service_tier.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_broadcast_service_tier.secret|has_broadcast_service_tier.secret]]"
+    - "[[has_broadcast_service_tier]]"
 dv_has_domain: BroadcastChannel
 dv_has_name: has_text_of_broadcast_service_tier
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_broadcast_service_tier|has_broadcast_service_tier]]"
+  - "[[has_broadcast_service_tier]]"
   - "[[/_public/schema-org/Property/Texts/has_broadcast_service_tier.public|has_broadcast_service_tier.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_broadcast_service_tier.internal|has_broadcast_service_tier.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_broadcast_service_tier.protect|has_broadcast_service_tier.protect]]"

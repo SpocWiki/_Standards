@@ -42,11 +42,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_location/has_location_area.private|has_location_area.private]]"
     - "[[/_personal/schema-org/Property/has_location/has_location_area.personal|has_location_area.personal]]"
     - "[[/_secret/schema-org/Property/has_location/has_location_area.secret|has_location_area.secret]]"
+    - "[[has_location_area]]"
 dv_has_domain: BroadcastService
 dv_has_name: has_location_area
 dv_has_range: Place
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_location/has_location_area|has_location_area]]"
+  - "[[has_location_area]]"
   - "[[/_public/schema-org/Property/has_location/has_location_area.public|has_location_area.public]]"
   - "[[/_internal/schema-org/Property/has_location/has_location_area.internal|has_location_area.internal]]"
   - "[[/_protect/schema-org/Property/has_location/has_location_area.protect|has_location_area.protect]]"

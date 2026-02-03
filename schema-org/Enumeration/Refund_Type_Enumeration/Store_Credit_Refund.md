@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Refund_Type_Enumeration/Store_Credit_Refund.private|Store_Credit_Refund.private]]"
     - "[[/_personal/schema-org/Enumeration/Refund_Type_Enumeration/Store_Credit_Refund.personal|Store_Credit_Refund.personal]]"
     - "[[/_secret/schema-org/Enumeration/Refund_Type_Enumeration/Store_Credit_Refund.secret|Store_Credit_Refund.secret]]"
+    - "[[Store_Credit_Refund]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../RefundTypeEnumeration]]"
 dv_is_enum_of: "[[../RefundTypeEnumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Refund_Type_Enumeration/Store_Credit_Refund|Store_Credit_Refund]]"
+  - "[[Store_Credit_Refund]]"
   - "[[/_public/schema-org/Enumeration/Refund_Type_Enumeration/Store_Credit_Refund.public|Store_Credit_Refund.public]]"
   - "[[/_internal/schema-org/Enumeration/Refund_Type_Enumeration/Store_Credit_Refund.internal|Store_Credit_Refund.internal]]"
   - "[[/_protect/schema-org/Enumeration/Refund_Type_Enumeration/Store_Credit_Refund.protect|Store_Credit_Refund.protect]]"

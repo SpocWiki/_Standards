@@ -41,11 +41,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_number_of/has_number_of_ratings.private|has_number_of_ratings.private]]"
     - "[[/_personal/schema-org/Property/has_number_of/has_number_of_ratings.personal|has_number_of_ratings.personal]]"
     - "[[/_secret/schema-org/Property/has_number_of/has_number_of_ratings.secret|has_number_of_ratings.secret]]"
+    - "[[has_number_of_ratings]]"
 dv_has_domain: AggregateRating
 dv_has_name: has_number_of_ratings
 dv_has_range: Integer
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_ratings|has_number_of_ratings]]"
+  - "[[has_number_of_ratings]]"
   - "[[/_public/schema-org/Property/has_number_of/has_number_of_ratings.public|has_number_of_ratings.public]]"
   - "[[/_internal/schema-org/Property/has_number_of/has_number_of_ratings.internal|has_number_of_ratings.internal]]"
   - "[[/_protect/schema-org/Property/has_number_of/has_number_of_ratings.protect|has_number_of_ratings.protect]]"

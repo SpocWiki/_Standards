@@ -41,9 +41,10 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_Date_Time/has_time_received.private|has_time_received.private]]"
     - "[[/_personal/schema-org/Property/has_Date_Time/has_time_received.personal|has_time_received.personal]]"
     - "[[/_secret/schema-org/Property/has_Date_Time/has_time_received.secret|has_time_received.secret]]"
+    - "[[has_time_received]]"
 dv_has_name: has_time_received
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_received|has_time_received]]"
+  - "[[has_time_received]]"
   - "[[/_public/schema-org/Property/has_Date_Time/has_time_received.public|has_time_received.public]]"
   - "[[/_internal/schema-org/Property/has_Date_Time/has_time_received.internal|has_time_received.internal]]"
   - "[[/_protect/schema-org/Property/has_Date_Time/has_time_received.protect|has_time_received.protect]]"

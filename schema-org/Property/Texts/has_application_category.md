@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_application_category.private|has_application_category.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_application_category.personal|has_application_category.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_application_category.secret|has_application_category.secret]]"
+    - "[[has_application_category]]"
 dv_has_domain: SoftwareApplication
 dv_has_name: has_text_of_application_category
 dv_has_range: Text, URL
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_application_category|has_application_category]]"
+  - "[[has_application_category]]"
   - "[[/_public/schema-org/Property/Texts/has_application_category.public|has_application_category.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_application_category.internal|has_application_category.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_application_category.protect|has_application_category.protect]]"

@@ -40,9 +40,10 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_Date_Time/has_time_issued.private|has_time_issued.private]]"
     - "[[/_personal/schema-org/Property/has_Date_Time/has_time_issued.personal|has_time_issued.personal]]"
     - "[[/_secret/schema-org/Property/has_Date_Time/has_time_issued.secret|has_time_issued.secret]]"
+    - "[[has_time_issued]]"
 dv_has_name: has_time_issued
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_issued|has_time_issued]]"
+  - "[[has_time_issued]]"
   - "[[/_public/schema-org/Property/has_Date_Time/has_time_issued.public|has_time_issued.public]]"
   - "[[/_internal/schema-org/Property/has_Date_Time/has_time_issued.internal|has_time_issued.internal]]"
   - "[[/_protect/schema-org/Property/has_Date_Time/has_time_issued.protect|has_time_issued.protect]]"

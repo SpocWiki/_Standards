@@ -33,6 +33,7 @@ dv_is_:
     - "[[/_private/schema-org/Collection/list_item.private|list_item.private]]"
     - "[[/_personal/schema-org/Collection/list_item.personal|list_item.personal]]"
     - "[[/_secret/schema-org/Collection/list_item.secret|list_item.secret]]"
+    - "[[list_item]]"
 dv_has_:
   parent_class: "[[../Class/is_a_/Intangible]]]"
   child_class: "[ HowToDirection, HowToItem, HowToSection, HowToStep, HowToTip ]"
@@ -41,7 +42,7 @@ dv_has_parent_class: "[[../Class/is_a_/Intangible]]]"
 dv_has_child_class: "[ HowToDirection, HowToItem, HowToSection, HowToStep, HowToTip ]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, item, mainEntityOfPage, name, nextItem, position, potentialAction, previousItem, sameAs, subjectOf, url ]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Collection/list_item|list_item]]"
+  - "[[list_item]]"
   - "[[/_public/schema-org/Collection/list_item.public|list_item.public]]"
   - "[[/_internal/schema-org/Collection/list_item.internal|list_item.internal]]"
   - "[[/_protect/schema-org/Collection/list_item.protect|list_item.protect]]"

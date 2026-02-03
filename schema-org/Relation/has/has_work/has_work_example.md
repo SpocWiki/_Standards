@@ -72,7 +72,7 @@ Enumerating Examples is rarely exact or exhaustive, but very helpful for Humans 
 Therefore the partially inverse Relation is included in the non-standard more generic [[../has_example]] Relation. 
 
 Use it like this: 
-- #has_/work_example :: CreativeWork  
+- #has_/work_example : : CreativeWork  
 - has_work_example = `=this.dv_has_work_example`  
 
 Relation describes that: 

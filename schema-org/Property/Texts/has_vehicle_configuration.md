@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_vehicle_configuration.private|has_vehicle_configuration.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_vehicle_configuration.personal|has_vehicle_configuration.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_vehicle_configuration.secret|has_vehicle_configuration.secret]]"
+    - "[[has_vehicle_configuration]]"
 dv_has_domain: Vehicle
 dv_has_name: has_text_of_vehicle_configuration
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_vehicle_configuration|has_vehicle_configuration]]"
+  - "[[has_vehicle_configuration]]"
   - "[[/_public/schema-org/Property/Texts/has_vehicle_configuration.public|has_vehicle_configuration.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_vehicle_configuration.internal|has_vehicle_configuration.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_vehicle_configuration.protect|has_vehicle_configuration.protect]]"

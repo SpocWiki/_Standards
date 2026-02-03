@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_article_body.private|has_article_body.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_article_body.personal|has_article_body.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_article_body.secret|has_article_body.secret]]"
+    - "[[has_article_body]]"
 dv_has_domain: Article
 dv_has_name: has_text_of_article_body
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_article_body|has_article_body]]"
+  - "[[has_article_body]]"
   - "[[/_public/schema-org/Property/Texts/has_article_body.public|has_article_body.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_article_body.internal|has_article_body.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_article_body.protect|has_article_body.protect]]"

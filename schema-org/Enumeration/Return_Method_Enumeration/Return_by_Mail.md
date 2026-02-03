@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Return_Method_Enumeration/Return_by_Mail.private|Return_by_Mail.private]]"
     - "[[/_personal/schema-org/Enumeration/Return_Method_Enumeration/Return_by_Mail.personal|Return_by_Mail.personal]]"
     - "[[/_secret/schema-org/Enumeration/Return_Method_Enumeration/Return_by_Mail.secret|Return_by_Mail.secret]]"
+    - "[[Return_by_Mail]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../ReturnMethodEnumeration]]"
 dv_is_enum_of: "[[../ReturnMethodEnumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Return_Method_Enumeration/Return_by_Mail|Return_by_Mail]]"
+  - "[[Return_by_Mail]]"
   - "[[/_public/schema-org/Enumeration/Return_Method_Enumeration/Return_by_Mail.public|Return_by_Mail.public]]"
   - "[[/_internal/schema-org/Enumeration/Return_Method_Enumeration/Return_by_Mail.internal|Return_by_Mail.internal]]"
   - "[[/_protect/schema-org/Enumeration/Return_Method_Enumeration/Return_by_Mail.protect|Return_by_Mail.protect]]"

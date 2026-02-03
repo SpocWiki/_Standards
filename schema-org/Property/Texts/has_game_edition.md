@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_game_edition.private|has_game_edition.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_game_edition.personal|has_game_edition.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_game_edition.secret|has_game_edition.secret]]"
+    - "[[has_game_edition]]"
 dv_has_domain: VideoGame
 dv_has_name: has_text_of_game_edition
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_game_edition|has_game_edition]]"
+  - "[[has_game_edition]]"
   - "[[/_public/schema-org/Property/Texts/has_game_edition.public|has_game_edition.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_game_edition.internal|has_game_edition.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_game_edition.protect|has_game_edition.protect]]"

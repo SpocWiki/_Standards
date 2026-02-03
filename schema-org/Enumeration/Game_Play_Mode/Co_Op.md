@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Game_Play_Mode/Co_Op.private|Co_Op.private]]"
     - "[[/_personal/schema-org/Enumeration/Game_Play_Mode/Co_Op.personal|Co_Op.personal]]"
     - "[[/_secret/schema-org/Enumeration/Game_Play_Mode/Co_Op.secret|Co_Op.secret]]"
+    - "[[Co_Op]]"
 dv_has_parent_class: "[[../GamePlayMode]]"
 dv_is_enum_of: "[[../GamePlayMode]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Game_Play_Mode/Co_Op|Co_Op]]"
+  - "[[Co_Op]]"
   - "[[/_public/schema-org/Enumeration/Game_Play_Mode/Co_Op.public|Co_Op.public]]"
   - "[[/_internal/schema-org/Enumeration/Game_Play_Mode/Co_Op.internal|Co_Op.internal]]"
   - "[[/_protect/schema-org/Enumeration/Game_Play_Mode/Co_Op.protect|Co_Op.protect]]"

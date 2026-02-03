@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Transformed_Content.private|Transformed_Content.private]]"
     - "[[/_personal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Transformed_Content.personal|Transformed_Content.personal]]"
     - "[[/_secret/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Transformed_Content.secret|Transformed_Content.secret]]"
+    - "[[Transformed_Content]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../Media_Manipulation_Rating_Enumeration]]"
 dv_is_enum_of: "[[../Media_Manipulation_Rating_Enumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Transformed_Content|Transformed_Content]]"
+  - "[[Transformed_Content]]"
   - "[[/_public/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Transformed_Content.public|Transformed_Content.public]]"
   - "[[/_internal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Transformed_Content.internal|Transformed_Content.internal]]"
   - "[[/_protect/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Transformed_Content.protect|Transformed_Content.protect]]"

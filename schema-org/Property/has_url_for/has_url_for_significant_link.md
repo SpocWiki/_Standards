@@ -42,11 +42,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_url_for/has_url_for_significant_link.private|has_url_for_significant_link.private]]"
     - "[[/_personal/schema-org/Property/has_url_for/has_url_for_significant_link.personal|has_url_for_significant_link.personal]]"
     - "[[/_secret/schema-org/Property/has_url_for/has_url_for_significant_link.secret|has_url_for_significant_link.secret]]"
+    - "[[has_url_for_significant_link]]"
 dv_has_domain: WebPage
 dv_has_name: has_url_for_significant_link
 dv_has_range: URL
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_url_for/has_url_for_significant_link|has_url_for_significant_link]]"
+  - "[[has_url_for_significant_link]]"
   - "[[/_public/schema-org/Property/has_url_for/has_url_for_significant_link.public|has_url_for_significant_link.public]]"
   - "[[/_internal/schema-org/Property/has_url_for/has_url_for_significant_link.internal|has_url_for_significant_link.internal]]"
   - "[[/_protect/schema-org/Property/has_url_for/has_url_for_significant_link.protect|has_url_for_significant_link.protect]]"

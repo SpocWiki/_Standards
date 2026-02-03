@@ -40,13 +40,14 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_artwork_surface.private|has_artwork_surface.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_artwork_surface.personal|has_artwork_surface.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_artwork_surface.secret|has_artwork_surface.secret]]"
+    - "[[has_artwork_surface]]"
 dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Visual_Artwork|Visual_Artwork]]"
 dv_has_name: has_artwork_surface
 dv_has_range:
   - "[[../../Class/is_a_/Data_Type/Text|Text]]"
   - "[[../../Class/is_a_/Data_Type/Text/Url|Url]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_artwork_surface|has_artwork_surface]]"
+  - "[[has_artwork_surface]]"
   - "[[/_public/schema-org/Property/Texts/has_artwork_surface.public|has_artwork_surface.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_artwork_surface.internal|has_artwork_surface.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_artwork_surface.protect|has_artwork_surface.protect]]"

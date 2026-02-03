@@ -37,11 +37,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Price_Type_Enumeration/Srp.private|Srp.private]]"
     - "[[/_personal/schema-org/Enumeration/Price_Type_Enumeration/Srp.personal|Srp.personal]]"
     - "[[/_secret/schema-org/Enumeration/Price_Type_Enumeration/Srp.secret|Srp.secret]]"
+    - "[[Srp]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../PriceTypeEnumeration]]"
 dv_is_enum_of: "[[../PriceTypeEnumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Price_Type_Enumeration/Srp|Srp]]"
+  - "[[Srp]]"
   - "[[/_public/schema-org/Enumeration/Price_Type_Enumeration/Srp.public|Srp.public]]"
   - "[[/_internal/schema-org/Enumeration/Price_Type_Enumeration/Srp.internal|Srp.internal]]"
   - "[[/_protect/schema-org/Enumeration/Price_Type_Enumeration/Srp.protect|Srp.protect]]"

@@ -40,9 +40,10 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_Date_Time/has_time_when_availability_ends.private|has_time_when_availability_ends.private]]"
     - "[[/_personal/schema-org/Property/has_Date_Time/has_time_when_availability_ends.personal|has_time_when_availability_ends.personal]]"
     - "[[/_secret/schema-org/Property/has_Date_Time/has_time_when_availability_ends.secret|has_time_when_availability_ends.secret]]"
+    - "[[has_time_when_availability_ends]]"
 dv_has_name: has_time_when_availability_ends
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_when_availability_ends|has_time_when_availability_ends]]"
+  - "[[has_time_when_availability_ends]]"
   - "[[/_public/schema-org/Property/has_Date_Time/has_time_when_availability_ends.public|has_time_when_availability_ends.public]]"
   - "[[/_internal/schema-org/Property/has_Date_Time/has_time_when_availability_ends.internal|has_time_when_availability_ends.internal]]"
   - "[[/_protect/schema-org/Property/has_Date_Time/has_time_when_availability_ends.protect|has_time_when_availability_ends.protect]]"

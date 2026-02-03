@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_potential_action]]"
+    - "[[/_public/schema-org/Relation/has/has_potential_action.public|has_potential_action.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_potential_action.internal|has_potential_action.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_potential_action.protect|has_potential_action.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_potential_action.private|has_potential_action.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_potential_action.personal|has_potential_action.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_potential_action.secret|has_potential_action.secret]]"
+dv_is_same_as:
+  - "[[has_potential_action]]"
+  - "[[/_public/schema-org/Relation/has/has_potential_action.public|has_potential_action.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_potential_action.internal|has_potential_action.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_potential_action.protect|has_potential_action.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_potential_action.private|has_potential_action.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_potential_action.personal|has_potential_action.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_potential_action.secret|has_potential_action.secret]]"
+---
 ﻿---
 dv_is_:
   same_as:

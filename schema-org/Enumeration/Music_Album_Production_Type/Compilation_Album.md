@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Music_Album_Production_Type/Compilation_Album.private|Compilation_Album.private]]"
     - "[[/_personal/schema-org/Enumeration/Music_Album_Production_Type/Compilation_Album.personal|Compilation_Album.personal]]"
     - "[[/_secret/schema-org/Enumeration/Music_Album_Production_Type/Compilation_Album.secret|Compilation_Album.secret]]"
+    - "[[Compilation_Album]]"
 dv_has_parent_class: "[[../MusicAlbumProductionType]]"
 dv_is_enum_of: "[[../MusicAlbumProductionType]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Music_Album_Production_Type/Compilation_Album|Compilation_Album]]"
+  - "[[Compilation_Album]]"
   - "[[/_public/schema-org/Enumeration/Music_Album_Production_Type/Compilation_Album.public|Compilation_Album.public]]"
   - "[[/_internal/schema-org/Enumeration/Music_Album_Production_Type/Compilation_Album.internal|Compilation_Album.internal]]"
   - "[[/_protect/schema-org/Enumeration/Music_Album_Production_Type/Compilation_Album.protect|Compilation_Album.protect]]"

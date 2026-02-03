@@ -82,8 +82,8 @@ has_parent_property = `=this.dv_has_parent_property`
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/ownership_funding_info :: `=this.dv_has_range` 
-- has_ownership_funding_info :: `=this.dv_has_range` 
+- #has_/ownership_funding_info : : `=this.dv_has_range` 
+- has_ownership_funding_info : : `=this.dv_has_range` 
 - is_ownership_funding_info_of : : `=this.dv_has_domain` 
 - #is_/ownership_funding_info_of : : `=this.dv_has_domain` 
 

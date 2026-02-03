@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_evidence_origin.private|has_evidence_origin.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_evidence_origin.personal|has_evidence_origin.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_evidence_origin.secret|has_evidence_origin.secret]]"
+    - "[[has_evidence_origin]]"
 dv_has_domain: MedicalGuideline
 dv_has_name: has_text_of_evidence_origin
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_evidence_origin|has_evidence_origin]]"
+  - "[[has_evidence_origin]]"
   - "[[/_public/schema-org/Property/Texts/has_evidence_origin.public|has_evidence_origin.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_evidence_origin.internal|has_evidence_origin.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_evidence_origin.protect|has_evidence_origin.protect]]"

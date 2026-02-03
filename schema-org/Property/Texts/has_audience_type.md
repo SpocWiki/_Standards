@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_audience_type.private|has_audience_type.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_audience_type.personal|has_audience_type.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_audience_type.secret|has_audience_type.secret]]"
+    - "[[has_audience_type]]"
 dv_has_domain: Audience
 dv_has_name: has_text_of_audience_type
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_audience_type|has_audience_type]]"
+  - "[[has_audience_type]]"
   - "[[/_public/schema-org/Property/Texts/has_audience_type.public|has_audience_type.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_audience_type.internal|has_audience_type.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_audience_type.protect|has_audience_type.protect]]"

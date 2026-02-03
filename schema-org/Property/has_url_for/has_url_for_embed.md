@@ -42,11 +42,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_url_for/has_url_for_embed.private|has_url_for_embed.private]]"
     - "[[/_personal/schema-org/Property/has_url_for/has_url_for_embed.personal|has_url_for_embed.personal]]"
     - "[[/_secret/schema-org/Property/has_url_for/has_url_for_embed.secret|has_url_for_embed.secret]]"
+    - "[[has_url_for_embed]]"
 dv_has_domain: MediaObject
 dv_has_name: has_url_for_embed_url
 dv_has_range: URL
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_url_for/has_url_for_embed|has_url_for_embed]]"
+  - "[[has_url_for_embed]]"
   - "[[/_public/schema-org/Property/has_url_for/has_url_for_embed.public|has_url_for_embed.public]]"
   - "[[/_internal/schema-org/Property/has_url_for/has_url_for_embed.internal|has_url_for_embed.internal]]"
   - "[[/_protect/schema-org/Property/has_url_for/has_url_for_embed.protect|has_url_for_embed.protect]]"

@@ -1,66 +1,67 @@
 ---
 aliases:
-- location-feature-specification
-- location_feature_specification
-- LocationFeatureSpecification
-- is_a_location_feature_specification
-- Location_Feature_Specification
-- Location Feature Specification
+  - location-feature-specification
+  - location_feature_specification
+  - LocationFeatureSpecification
+  - is_a_location_feature_specification
+  - Location_Feature_Specification
+  - Location Feature Specification
 confidential: public
 cssclasses:
-- Type
+  - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
-- location_feature_specification
-layout: ''
+  - location_feature_specification
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_location_feature_specification Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
-- class/Class
-- schema-org/Class
+  - class/Class
+  - schema-org/Class
 title: is_a_location_feature_specification Class
 type: Type
 dv_is_:
   same_as:
-  - "[[Location_Feature_Specification|Location_Feature_Specification]]"
-  - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value/Location_Feature_Specification.public|Location_Feature_Specification.public]]"
-  - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value/Location_Feature_Specification.internal|Location_Feature_Specification.internal]]"
-  - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value/Location_Feature_Specification.protect|Location_Feature_Specification.protect]]"
-  - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value/Location_Feature_Specification.private|Location_Feature_Specification.private]]"
-  - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value/Location_Feature_Specification.personal|Location_Feature_Specification.personal]]"
-  - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value/Location_Feature_Specification.secret|Location_Feature_Specification.secret]]"
+    - "[[Location_Feature_Specification|Location_Feature_Specification]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value/Location_Feature_Specification.public|Location_Feature_Specification.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value/Location_Feature_Specification.internal|Location_Feature_Specification.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value/Location_Feature_Specification.protect|Location_Feature_Specification.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value/Location_Feature_Specification.private|Location_Feature_Specification.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value/Location_Feature_Specification.personal|Location_Feature_Specification.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value/Location_Feature_Specification.secret|Location_Feature_Specification.secret]]"
+    - "[[Location_Feature_Specification]]"
 dv_has_:
   parent_class:
-  - "[[../PropertyValue]]"
+    - "[[../PropertyValue]]"
   properties:
-  - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
-  - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
-  - "[[../../../../../Property/Texts/has_description|has_description]]"
-  - "[[../../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
-  - "[[../../../../../Relation/has/has_hours_available|has_hours_available]]"
-  - "[[../../../../../Relation/has/has_identifier|has_identifier]]"
-  - "[[../../../../../Relation/has/has_image|has_image]]"
-  - "[[../../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
-  - "[[max_value|max_value]]"
-  - "[[../../../../../Property/Texts/has_measurement_technique|has_measurement_technique]]"
-  - "[[min_value|min_value]]"
-  - "[[../../../../../Property/has_name|has_name]]"
-  - "[[../../../../../Relation/has/has_potential_action|has_potential_action]]"
-  - "[[property_id|property_id]]"
-  - "[[../../../../../Relation/is_same_as|is_same_as]]"
-  - "[[../../../../../Relation/is/is_subject_of|is_subject_of]]"
-  - "[[unit_code|unit_code]]"
-  - "[[../../../../../Property/Texts/has_unit_text|has_unit_text]]"
-  - "[[../../../Property/has_url_for/has_url|has_url]]"
-  - "[[valid_from|valid_from]]"
-  - "[[valid_through|valid_through]]"
-  - "[[value|value]]"
-  - "[[../../../../../Relation/has/has_value_reference|has_value_reference]]"
+    - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
+    - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
+    - "[[../../../../../Property/Texts/has_description|has_description]]"
+    - "[[../../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
+    - "[[../../../../../Relation/has/has_hours_available|has_hours_available]]"
+    - "[[../../../../../Relation/has/has_identifier|has_identifier]]"
+    - "[[../../../../../Relation/has/has_image|has_image]]"
+    - "[[../../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+    - "[[max_value|max_value]]"
+    - "[[../../../../../Property/Texts/has_measurement_technique|has_measurement_technique]]"
+    - "[[min_value|min_value]]"
+    - "[[../../../../../Property/has_name|has_name]]"
+    - "[[../../../../../Relation/has/has_potential_action|has_potential_action]]"
+    - "[[property_id|property_id]]"
+    - "[[../../../../../Relation/is_same_as|is_same_as]]"
+    - "[[../../../../../Relation/is/is_subject_of|is_subject_of]]"
+    - "[[unit_code|unit_code]]"
+    - "[[../../../../../Property/Texts/has_unit_text|has_unit_text]]"
+    - "[[../../../Property/has_url_for/has_url|has_url]]"
+    - "[[valid_from|valid_from]]"
+    - "[[valid_through|valid_through]]"
+    - "[[value|value]]"
+    - "[[../../../../../Relation/has/has_value_reference|has_value_reference]]"
 dv_has_parent_class:
   - "[[../property_value|../property_value]]"
 dv_has_properties:
@@ -88,7 +89,7 @@ dv_has_properties:
   - "[[value|value]]"
   - "[[../../../../../Relation/has/has_value_reference|has_value_reference]]"
 dv_is_same_as:
-  - "[[Location_Feature_Specification|Location_Feature_Specification]]"
+  - "[[Location_Feature_Specification]]"
   - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value/Location_Feature_Specification.public|Location_Feature_Specification.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value/Location_Feature_Specification.internal|Location_Feature_Specification.internal]]"
   - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Property_Value/Location_Feature_Specification.protect|Location_Feature_Specification.protect]]"

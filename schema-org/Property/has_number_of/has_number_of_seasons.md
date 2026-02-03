@@ -41,11 +41,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_number_of/has_number_of_seasons.private|has_number_of_seasons.private]]"
     - "[[/_personal/schema-org/Property/has_number_of/has_number_of_seasons.personal|has_number_of_seasons.personal]]"
     - "[[/_secret/schema-org/Property/has_number_of/has_number_of_seasons.secret|has_number_of_seasons.secret]]"
+    - "[[has_number_of_seasons]]"
 dv_has_domain: RadioSeries, TVSeries, VideoGameSeries
 dv_has_name: has_number_of_seasons
 dv_has_range: Integer
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_seasons|has_number_of_seasons]]"
+  - "[[has_number_of_seasons]]"
   - "[[/_public/schema-org/Property/has_number_of/has_number_of_seasons.public|has_number_of_seasons.public]]"
   - "[[/_internal/schema-org/Property/has_number_of/has_number_of_seasons.internal|has_number_of_seasons.internal]]"
   - "[[/_protect/schema-org/Property/has_number_of/has_number_of_seasons.protect|has_number_of_seasons.protect]]"

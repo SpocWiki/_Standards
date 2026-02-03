@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_departure_gate.private|has_departure_gate.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_departure_gate.personal|has_departure_gate.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_departure_gate.secret|has_departure_gate.secret]]"
+    - "[[has_departure_gate]]"
 dv_has_domain: Flight
 dv_has_name: has_text_of_departure_gate
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_departure_gate|has_departure_gate]]"
+  - "[[has_departure_gate]]"
   - "[[/_public/schema-org/Property/Texts/has_departure_gate.public|has_departure_gate.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_departure_gate.internal|has_departure_gate.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_departure_gate.protect|has_departure_gate.protect]]"

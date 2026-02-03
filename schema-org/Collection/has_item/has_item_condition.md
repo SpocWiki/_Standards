@@ -34,6 +34,7 @@ dv_has_:
     - "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]"
   name: has_item_condition
   range: "[[../../Enumeration/Offer_Item_Condition|Offer_Item_Condition]]"
+  inverse: "[[is_item_condition_of]]"
 dv_is_:
   same_as:
     - "[[has_item_condition|has_item_condition]]"
@@ -43,6 +44,7 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_item_condition.private|has_item_condition.private]]"
     - "[[/_personal/schema-org/Relation/has/has_item_condition.personal|has_item_condition.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_item_condition.secret|has_item_condition.secret]]"
+    - "[[has_item_condition]]"
 dv_has_domain:
   - "[[../../../Society/Agent/Community/Organization/Business/Demand|Demand]]"
   - "[[../../Class/is_a_/Intangible/Merchant_Return_Policy|Merchant_Return_Policy]]"
@@ -51,21 +53,23 @@ dv_has_domain:
 dv_has_name: has_item_condition
 dv_has_range: "[[../../Enumeration/Offer_Item_Condition|Offer_Item_Condition]]"
 dv_is_same_as:
-  - "[[has_item_condition|has_item_condition]]"
+  - "[[has_item_condition]]"
   - "[[/_public/schema-org/Relation/has/has_item_condition.public|has_item_condition.public]]"
   - "[[/_internal/schema-org/Relation/has/has_item_condition.internal|has_item_condition.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_item_condition.protect|has_item_condition.protect]]"
   - "[[/_private/schema-org/Relation/has/has_item_condition.private|has_item_condition.private]]"
   - "[[/_personal/schema-org/Relation/has/has_item_condition.personal|has_item_condition.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_item_condition.secret|has_item_condition.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_item_condition_of]]"
 ---
 
 # [[has_item_condition]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_item_condition_of]]
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/item_condition : : `=this.dv_has_range`  

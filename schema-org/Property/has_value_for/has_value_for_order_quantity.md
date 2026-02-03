@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_order_quantity.private|has_value_for_order_quantity.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_order_quantity.personal|has_value_for_order_quantity.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_order_quantity.secret|has_value_for_order_quantity.secret]]"
+    - "[[has_value_for_order_quantity]]"
 dv_has_domain: "[[../../Class/is_a_/Intangible/Order_Item|Order_Item]]"
 dv_has_name: has_value_for_order_quantity
 dv_has_range: "[[../../Class/is_a_/Data_Type/Number|Number]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_order_quantity|has_value_for_order_quantity]]"
+  - "[[has_value_for_order_quantity]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_order_quantity.public|has_value_for_order_quantity.public]]"
   - "[[/_internal/schema-org/Property/has_value_for/has_value_for_order_quantity.internal|has_value_for_order_quantity.internal]]"
   - "[[/_protect/schema-org/Property/has_value_for/has_value_for_order_quantity.protect|has_value_for_order_quantity.protect]]"

@@ -4,45 +4,74 @@ aliases:
   - tongue-weight
   - tongue weight
   - tongueWeight
-  - has_value_for_tongue_weight 
-  - has value for tongue weight 
+  - has_value_for_tongue_weight
+  - has value for tongue weight
   - vertical_weight
   - vertical-weight
   - vertical weight
   - verticalWeight
-  - has_value_for_vertical_weight 
-  - has value for vertical weight 
+  - has_value_for_vertical_weight
+  - has value for vertical weight
   - vertical_load
   - vertical-load
   - vertical load
   - verticalLoad
-  - has_value_for_vertical_load 
-  - has value for vertical load 
+  - has_value_for_vertical_load
+  - has value for vertical load
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - vertical-weight
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_vertical-weight
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_vertical-weight
 type: Predi_Quantity
+dv_has_:
+  unit_for_:
+    default: "[[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Gram|Unit~Gram]]"
+  domain: "[[../../../Technology/Transport/Vehicle|Vehicle]]"
+  name: has_value_for_vertical_weight
+  range: QuantitativeValue
+dv_is_:
+  part_of: https://auto.schema.org
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_vertical_weight_kg|has_value_for_vertical_weight_kg]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_vertical_weight_kg.public|has_value_for_vertical_weight_kg.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_vertical_weight_kg.internal|has_value_for_vertical_weight_kg.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_vertical_weight_kg.protect|has_value_for_vertical_weight_kg.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_vertical_weight_kg.private|has_value_for_vertical_weight_kg.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_vertical_weight_kg.personal|has_value_for_vertical_weight_kg.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_vertical_weight_kg.secret|has_value_for_vertical_weight_kg.secret]]"
+dv_has_unit_for_default: "[[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Gram|Unit~Gram]]"
+dv_is_part_of: https://auto.schema.org
+dv_has_domain: "[[../../../Technology/Transport/Vehicle|Vehicle]]"
+dv_has_name: has_value_for_vertical_weight
+dv_has_range: QuantitativeValue
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_vertical_weight_kg|has_value_for_vertical_weight_kg]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_vertical_weight_kg.public|has_value_for_vertical_weight_kg.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_vertical_weight_kg.internal|has_value_for_vertical_weight_kg.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_vertical_weight_kg.protect|has_value_for_vertical_weight_kg.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_vertical_weight_kg.private|has_value_for_vertical_weight_kg.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_vertical_weight_kg.personal|has_value_for_vertical_weight_kg.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_vertical_weight_kg.secret|has_value_for_vertical_weight_kg.secret]]"
 ---
 
 # [[has_value_for_load_vertical]] 
 
-#has_/unit_for_/default :: [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Gram|Unit~Gram]] 
+has_unit_for_default = `=this.dv_has_unit_for_default` 
 
 The default [[../../../Dimension/Unit_of_Measure|Unit_of_Measure]]  are [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Gram|Unit~Gram]]s, unless specified different, either 
 - in the XPath/JsonPath 
@@ -50,12 +79,12 @@ The default [[../../../Dimension/Unit_of_Measure|Unit_of_Measure]]  are [[../../
 
 Predicate to describe a Quantity of Vehicle.
 
-#is_/part_of :: https://auto.schema.org  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/value_for_/load_/vertical :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]],  [[../../Class/is_a_/Data_Type/Number|Number]]  
-- #has_/value_for_/load_/vertical_/kilo_/gram :: [[../../Class/is_a_/Data_Type/Number|Number]]  
-- has_value_for_load_vertical :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]],  [[../../Class/is_a_/Data_Type/Number|Number]]     
+- #has_/value_for_/load_/vertical : : [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]],  [[../../Class/is_a_/Data_Type/Number|Number]]  
+- #has_/value_for_/load_/vertical_/kilo_/gram : : [[../../Class/is_a_/Data_Type/Number|Number]]  
+- has_value_for_load_vertical : : [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]],  [[../../Class/is_a_/Data_Type/Number|Number]]     
 
 The permitted **vertical** load (TWR) of a trailer attached to the vehicle. 
 Also referred to as Tongue Load Rating (TLR) or Vertical Load Rating (VLR).
@@ -70,9 +99,9 @@ Typical unit code(s): KGM for kilogram, LBR for pound
 
 Predicate describes that: 
 
-#has_/domain  :: [[../../../Technology/Transport/Vehicle|Vehicle]]   
-(has_/name :: has_value_for_vertical_weight )
-(has_/range :: QuantitativeValue )
+has_domain = `=this.dv_has_domain` 
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

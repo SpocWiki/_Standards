@@ -10,26 +10,53 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - trans-fat-content
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_trans-fat-content
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_trans-fat-content
 type: Predi_Quantity
+dv_has_:
+  unit_for_:
+    default: "[[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Gram|Unit~Gram]]"
+  domain: "[[../../Class/is_a_/Intangible/Structured_Value/Nutrition_Information|Nutrition_Information]]"
+  name: has_value_for_fat_trans
+  range: Mass
+dv_is_:
+  same_as:
+    - "[[has_value_for_fat_trans]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_fat_trans.public|has_value_for_fat_trans.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_fat_trans.internal|has_value_for_fat_trans.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_fat_trans.protect|has_value_for_fat_trans.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_fat_trans.private|has_value_for_fat_trans.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_fat_trans.personal|has_value_for_fat_trans.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_fat_trans.secret|has_value_for_fat_trans.secret]]"
+dv_has_unit_for_default: "[[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Gram|Unit~Gram]]"
+dv_has_domain: "[[../../Class/is_a_/Intangible/Structured_Value/Nutrition_Information|Nutrition_Information]]"
+dv_has_name: has_value_for_fat_trans
+dv_has_range: Mass
+dv_is_same_as:
+  - "[[has_value_for_fat_trans]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_fat_trans.public|has_value_for_fat_trans.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_fat_trans.internal|has_value_for_fat_trans.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_fat_trans.protect|has_value_for_fat_trans.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_fat_trans.private|has_value_for_fat_trans.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_fat_trans.personal|has_value_for_fat_trans.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_fat_trans.secret|has_value_for_fat_trans.secret]]"
 ---
 
 # [[has_value_for_fat_trans]] 
 
-#has_/unit_for_/default :: [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Gram|Unit~Gram]] 
+has_unit_for_default = `=this.dv_has_unit_for_default` 
 
 The default [[../../../Dimension/Unit_of_Measure|Unit_of_Measure]]  are [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Gram|Unit~Gram]]s, unless specified different, either 
 - in the XPath/JsonPath 
@@ -38,16 +65,16 @@ The default [[../../../Dimension/Unit_of_Measure|Unit_of_Measure]]  are [[../../
 Predicate to describe the Quantity of NutritionInformation.
 
 Use it like this: 
-- #has_/value_for_/fat_/trans :: Mass   
-- has_value_for_fat_trans :: Mass   
+- #has_/value_for_/fat_/trans : : Mass   
+- has_value_for_fat_trans : : Mass   
 
 The number of grams of [[../../../bio/Metabolism/Nutrition/Fat/Trans_Fat|Trans_Fat]].
 
 Predicate describes that: 
 
-#has_/domain :: [[../../Class/is_a_/Intangible/Structured_Value/Nutrition_Information|Nutrition_Information]] 
-(has_/name :: has_value_for_fat_trans )
-(has_/range :: Mass )
+has_domain = `=this.dv_has_domain` 
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

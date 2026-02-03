@@ -36,10 +36,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Car_Usage_Type.private|Car_Usage_Type.private]]"
     - "[[/_personal/schema-org/Enumeration/Car_Usage_Type.personal|Car_Usage_Type.personal]]"
     - "[[/_secret/schema-org/Enumeration/Car_Usage_Type.secret|Car_Usage_Type.secret]]"
+    - "[[Car_Usage_Type]]"
 dv_is_part_of: https://auto.schema.org
 dv_has_parent_class: "[[../Enumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Car_Usage_Type|Car_Usage_Type]]"
+  - "[[Car_Usage_Type]]"
   - "[[/_public/schema-org/Enumeration/Car_Usage_Type.public|Car_Usage_Type.public]]"
   - "[[/_internal/schema-org/Enumeration/Car_Usage_Type.internal|Car_Usage_Type.internal]]"
   - "[[/_protect/schema-org/Enumeration/Car_Usage_Type.protect|Car_Usage_Type.protect]]"

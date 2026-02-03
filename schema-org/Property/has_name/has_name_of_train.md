@@ -41,11 +41,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_name/has_name_of_train.private|has_name_of_train.private]]"
     - "[[/_personal/schema-org/Property/has_name/has_name_of_train.personal|has_name_of_train.personal]]"
     - "[[/_secret/schema-org/Property/has_name/has_name_of_train.secret|has_name_of_train.secret]]"
+    - "[[has_name_of_train]]"
 dv_has_domain: TrainTrip
 dv_has_name: has_name_of_train
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_name/has_name_of_train|has_name_of_train]]"
+  - "[[has_name_of_train]]"
   - "[[/_public/schema-org/Property/has_name/has_name_of_train.public|has_name_of_train.public]]"
   - "[[/_internal/schema-org/Property/has_name/has_name_of_train.internal|has_name_of_train.internal]]"
   - "[[/_protect/schema-org/Property/has_name/has_name_of_train.protect|has_name_of_train.protect]]"

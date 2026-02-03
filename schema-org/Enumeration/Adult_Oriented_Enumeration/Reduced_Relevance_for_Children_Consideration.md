@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Adult_Oriented_Enumeration/Reduced_Relevance_for_Children_Consideration.private|Reduced_Relevance_for_Children_Consideration.private]]"
     - "[[/_personal/schema-org/Enumeration/Adult_Oriented_Enumeration/Reduced_Relevance_for_Children_Consideration.personal|Reduced_Relevance_for_Children_Consideration.personal]]"
     - "[[/_secret/schema-org/Enumeration/Adult_Oriented_Enumeration/Reduced_Relevance_for_Children_Consideration.secret|Reduced_Relevance_for_Children_Consideration.secret]]"
+    - "[[Reduced_Relevance_for_Children_Consideration]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../AdultOrientedEnumeration]]"
 dv_is_enum_of: "[[../AdultOrientedEnumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Adult_Oriented_Enumeration/Reduced_Relevance_for_Children_Consideration|Reduced_Relevance_for_Children_Consideration]]"
+  - "[[Reduced_Relevance_for_Children_Consideration]]"
   - "[[/_public/schema-org/Enumeration/Adult_Oriented_Enumeration/Reduced_Relevance_for_Children_Consideration.public|Reduced_Relevance_for_Children_Consideration.public]]"
   - "[[/_internal/schema-org/Enumeration/Adult_Oriented_Enumeration/Reduced_Relevance_for_Children_Consideration.internal|Reduced_Relevance_for_Children_Consideration.internal]]"
   - "[[/_protect/schema-org/Enumeration/Adult_Oriented_Enumeration/Reduced_Relevance_for_Children_Consideration.protect|Reduced_Relevance_for_Children_Consideration.protect]]"

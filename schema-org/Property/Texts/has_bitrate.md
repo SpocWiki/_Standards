@@ -42,11 +42,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_bitrate.private|has_bitrate.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_bitrate.personal|has_bitrate.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_bitrate.secret|has_bitrate.secret]]"
+    - "[[has_bitrate]]"
 dv_has_domain: MediaObject
 dv_has_name: has_text_of_bitrate
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_bitrate|has_bitrate]]"
+  - "[[has_bitrate]]"
   - "[[/_public/schema-org/Property/Texts/has_bitrate.public|has_bitrate.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_bitrate.internal|has_bitrate.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_bitrate.protect|has_bitrate.protect]]"

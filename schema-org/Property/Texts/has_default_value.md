@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_default_value.private|has_default_value.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_default_value.personal|has_default_value.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_default_value.secret|has_default_value.secret]]"
+    - "[[has_default_value]]"
 dv_has_domain: PropertyValueSpecification
 dv_has_name: has_text_of_default_value
 dv_has_range: Text, Thing
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_default_value|has_default_value]]"
+  - "[[has_default_value]]"
   - "[[/_public/schema-org/Property/Texts/has_default_value.public|has_default_value.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_default_value.internal|has_default_value.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_default_value.protect|has_default_value.protect]]"

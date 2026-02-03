@@ -67,8 +67,8 @@ has_inverse = `=this.dv_has_inverse`
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/archive_of :: `=this.dv_has_range`  
-- has_archive_of :: `=this.dv_has_range` 
+- #has_/archive_of : : `=this.dv_has_range`  
+- has_archive_of : : `=this.dv_has_range` 
 - is_archived_by : : `=this.dv_has_domain`  
 - #is_/archived_by : : `=this.dv_has_domain` 
 

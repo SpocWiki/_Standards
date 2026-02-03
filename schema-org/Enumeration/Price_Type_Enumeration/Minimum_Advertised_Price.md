@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Price_Type_Enumeration/Minimum_Advertised_Price.private|Minimum_Advertised_Price.private]]"
     - "[[/_personal/schema-org/Enumeration/Price_Type_Enumeration/Minimum_Advertised_Price.personal|Minimum_Advertised_Price.personal]]"
     - "[[/_secret/schema-org/Enumeration/Price_Type_Enumeration/Minimum_Advertised_Price.secret|Minimum_Advertised_Price.secret]]"
+    - "[[Minimum_Advertised_Price]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../PriceTypeEnumeration]]"
 dv_is_enum_of: "[[../PriceTypeEnumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Price_Type_Enumeration/Minimum_Advertised_Price|Minimum_Advertised_Price]]"
+  - "[[Minimum_Advertised_Price]]"
   - "[[/_public/schema-org/Enumeration/Price_Type_Enumeration/Minimum_Advertised_Price.public|Minimum_Advertised_Price.public]]"
   - "[[/_internal/schema-org/Enumeration/Price_Type_Enumeration/Minimum_Advertised_Price.internal|Minimum_Advertised_Price.internal]]"
   - "[[/_protect/schema-org/Enumeration/Price_Type_Enumeration/Minimum_Advertised_Price.protect|Minimum_Advertised_Price.protect]]"

@@ -66,7 +66,7 @@ is_a = `=this.dv_is_a`
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/return_policy_category :: MerchantReturnEnumeration  
+- #has_/return_policy_category : : MerchantReturnEnumeration  
 - has_return_policy_category = `=this.dv_has_return_policy_category`  
 
 Specifies an applicable return policy (from an enumeration).

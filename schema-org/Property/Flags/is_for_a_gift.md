@@ -39,11 +39,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Flags/is_for_a_gift.private|is_for_a_gift.private]]"
     - "[[/_personal/schema-org/Property/Flags/is_for_a_gift.personal|is_for_a_gift.personal]]"
     - "[[/_secret/schema-org/Property/Flags/is_for_a_gift.secret|is_for_a_gift.secret]]"
+    - "[[is_for_a_gift]]"
 dv_has_domain: Order
 dv_has_name: is_for_a_gift
 dv_has_range: Boolean
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Flags/is_for_a_gift|is_for_a_gift]]"
+  - "[[is_for_a_gift]]"
   - "[[/_public/schema-org/Property/Flags/is_for_a_gift.public|is_for_a_gift.public]]"
   - "[[/_internal/schema-org/Property/Flags/is_for_a_gift.internal|is_for_a_gift.internal]]"
   - "[[/_protect/schema-org/Property/Flags/is_for_a_gift.protect|is_for_a_gift.protect]]"

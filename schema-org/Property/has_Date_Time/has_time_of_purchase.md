@@ -40,9 +40,10 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_Date_Time/has_time_of_purchase.private|has_time_of_purchase.private]]"
     - "[[/_personal/schema-org/Property/has_Date_Time/has_time_of_purchase.personal|has_time_of_purchase.personal]]"
     - "[[/_secret/schema-org/Property/has_Date_Time/has_time_of_purchase.secret|has_time_of_purchase.secret]]"
+    - "[[has_time_of_purchase]]"
 dv_has_name: has_time_of_purchase
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_of_purchase|has_time_of_purchase]]"
+  - "[[has_time_of_purchase]]"
   - "[[/_public/schema-org/Property/has_Date_Time/has_time_of_purchase.public|has_time_of_purchase.public]]"
   - "[[/_internal/schema-org/Property/has_Date_Time/has_time_of_purchase.internal|has_time_of_purchase.internal]]"
   - "[[/_protect/schema-org/Property/has_Date_Time/has_time_of_purchase.protect|has_time_of_purchase.protect]]"

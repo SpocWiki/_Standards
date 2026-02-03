@@ -42,11 +42,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_url_for/has_url_for_tracking.private|has_url_for_tracking.private]]"
     - "[[/_personal/schema-org/Property/has_url_for/has_url_for_tracking.personal|has_url_for_tracking.personal]]"
     - "[[/_secret/schema-org/Property/has_url_for/has_url_for_tracking.secret|has_url_for_tracking.secret]]"
+    - "[[has_url_for_tracking]]"
 dv_has_domain: ParcelDelivery
 dv_has_name: has_url_for_tracking_url
 dv_has_range: URL
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_url_for/has_url_for_tracking|has_url_for_tracking]]"
+  - "[[has_url_for_tracking]]"
   - "[[/_public/schema-org/Property/has_url_for/has_url_for_tracking.public|has_url_for_tracking.public]]"
   - "[[/_internal/schema-org/Property/has_url_for/has_url_for_tracking.internal|has_url_for_tracking.internal]]"
   - "[[/_protect/schema-org/Property/has_url_for/has_url_for_tracking.protect|has_url_for_tracking.protect]]"

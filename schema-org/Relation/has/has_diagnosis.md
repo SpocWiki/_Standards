@@ -1,3 +1,23 @@
+---
+dv_has_: {}
+dv_is_:
+  same_as:
+    - "[[has_diagnosis]]"
+    - "[[/_public/schema-org/Relation/has/has_diagnosis.public|has_diagnosis.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_diagnosis.internal|has_diagnosis.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_diagnosis.protect|has_diagnosis.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_diagnosis.private|has_diagnosis.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_diagnosis.personal|has_diagnosis.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_diagnosis.secret|has_diagnosis.secret]]"
+dv_is_same_as:
+  - "[[has_diagnosis]]"
+  - "[[/_public/schema-org/Relation/has/has_diagnosis.public|has_diagnosis.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_diagnosis.internal|has_diagnosis.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_diagnosis.protect|has_diagnosis.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_diagnosis.private|has_diagnosis.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_diagnosis.personal|has_diagnosis.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_diagnosis.secret|has_diagnosis.secret]]"
+---
 ﻿---
 aliases:
   - has_diagnosis

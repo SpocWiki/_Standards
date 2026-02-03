@@ -41,9 +41,10 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_duration_of/has_duration_of_lease.private|has_duration_of_lease.private]]"
     - "[[/_personal/schema-org/Property/has_duration_of/has_duration_of_lease.personal|has_duration_of_lease.personal]]"
     - "[[/_secret/schema-org/Property/has_duration_of/has_duration_of_lease.secret|has_duration_of_lease.secret]]"
+    - "[[has_duration_of_lease]]"
 dv_has_name: has_duration_of_lease
 dv_is_same_as:
-  - "[[has_duration_of_lease|has_duration_of_lease]]"
+  - "[[has_duration_of_lease]]"
   - "[[/_public/schema-org/Property/has_duration_of/has_duration_of_lease.public|has_duration_of_lease.public]]"
   - "[[/_internal/schema-org/Property/has_duration_of/has_duration_of_lease.internal|has_duration_of_lease.internal]]"
   - "[[/_protect/schema-org/Property/has_duration_of/has_duration_of_lease.protect|has_duration_of_lease.protect]]"

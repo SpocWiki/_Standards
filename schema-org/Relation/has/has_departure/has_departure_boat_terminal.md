@@ -66,7 +66,7 @@ is_a = `=this.dv_is_a`
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/departure_boat_terminal :: BoatTerminal  
+- #has_/departure_boat_terminal : : BoatTerminal  
 - has_departure_boat_terminal = `=this.dv_has_departure_boat_terminal`  
 
 The terminal or port from which the boat departs.

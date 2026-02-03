@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Government_Benefits_Type/Unemployment_Support.private|Unemployment_Support.private]]"
     - "[[/_personal/schema-org/Enumeration/Government_Benefits_Type/Unemployment_Support.personal|Unemployment_Support.personal]]"
     - "[[/_secret/schema-org/Enumeration/Government_Benefits_Type/Unemployment_Support.secret|Unemployment_Support.secret]]"
+    - "[[Unemployment_Support]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../GovernmentBenefitsType]]"
 dv_is_enum_of: "[[../GovernmentBenefitsType]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Government_Benefits_Type/Unemployment_Support|Unemployment_Support]]"
+  - "[[Unemployment_Support]]"
   - "[[/_public/schema-org/Enumeration/Government_Benefits_Type/Unemployment_Support.public|Unemployment_Support.public]]"
   - "[[/_internal/schema-org/Enumeration/Government_Benefits_Type/Unemployment_Support.internal|Unemployment_Support.internal]]"
   - "[[/_protect/schema-org/Enumeration/Government_Benefits_Type/Unemployment_Support.protect|Unemployment_Support.protect]]"

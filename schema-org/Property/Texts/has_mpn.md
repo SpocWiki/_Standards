@@ -42,11 +42,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_mpn.private|has_mpn.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_mpn.personal|has_mpn.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_mpn.secret|has_mpn.secret]]"
+    - "[[has_mpn]]"
 dv_has_domain: Demand, Offer, Product
 dv_has_name: has_text_of_mpn
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_mpn|has_mpn]]"
+  - "[[has_mpn]]"
   - "[[/_public/schema-org/Property/Texts/has_mpn.public|has_mpn.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_mpn.internal|has_mpn.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_mpn.protect|has_mpn.protect]]"

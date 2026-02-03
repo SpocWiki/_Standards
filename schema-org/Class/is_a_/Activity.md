@@ -14,9 +14,10 @@ dv_is_:
     - "[[/_private/schema-org/Class/is_a_/Activity.private|Activity.private]]"
     - "[[/_personal/schema-org/Class/is_a_/Activity.personal|Activity.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Activity.secret|Activity.secret]]"
+    - "[[Activity]]"
 dv_is_similar_to: "[[Action]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Class/is_a_/Activity|Activity]]"
+  - "[[Activity]]"
   - "[[/_public/schema-org/Class/is_a_/Activity.public|Activity.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Activity.internal|Activity.internal]]"
   - "[[/_protect/schema-org/Class/is_a_/Activity.protect|Activity.protect]]"

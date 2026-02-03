@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Music_Release_Format_Type/Cd_Format.private|Cd_Format.private]]"
     - "[[/_personal/schema-org/Enumeration/Music_Release_Format_Type/Cd_Format.personal|Cd_Format.personal]]"
     - "[[/_secret/schema-org/Enumeration/Music_Release_Format_Type/Cd_Format.secret|Cd_Format.secret]]"
+    - "[[Cd_Format]]"
 dv_has_parent_class: "[[../MusicReleaseFormatType]]"
 dv_is_enum_of: "[[../MusicReleaseFormatType]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Music_Release_Format_Type/Cd_Format|Cd_Format]]"
+  - "[[Cd_Format]]"
   - "[[/_public/schema-org/Enumeration/Music_Release_Format_Type/Cd_Format.public|Cd_Format.public]]"
   - "[[/_internal/schema-org/Enumeration/Music_Release_Format_Type/Cd_Format.internal|Cd_Format.internal]]"
   - "[[/_protect/schema-org/Enumeration/Music_Release_Format_Type/Cd_Format.protect|Cd_Format.protect]]"

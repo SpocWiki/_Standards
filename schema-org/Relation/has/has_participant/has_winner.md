@@ -60,7 +60,7 @@ dv_is_same_as:
 has_complement = `=this.dv_has_complement` 
 
 Use it like this: 
-- #has_/winner :: Person  
+- #has_/winner : : Person  
 - has_winner = `=this.dv_has_winner`  
 
 A sub property of participant. The winner of the action.

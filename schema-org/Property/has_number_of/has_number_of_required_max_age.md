@@ -41,11 +41,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_number_of/has_number_of_required_max_age.private|has_number_of_required_max_age.private]]"
     - "[[/_personal/schema-org/Property/has_number_of/has_number_of_required_max_age.personal|has_number_of_required_max_age.personal]]"
     - "[[/_secret/schema-org/Property/has_number_of/has_number_of_required_max_age.secret|has_number_of_required_max_age.secret]]"
+    - "[[has_number_of_required_max_age]]"
 dv_has_domain: PeopleAudience
 dv_has_name: has_number_of_required_max_age
 dv_has_range: Integer
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_required_max_age|has_number_of_required_max_age]]"
+  - "[[has_number_of_required_max_age]]"
   - "[[/_public/schema-org/Property/has_number_of/has_number_of_required_max_age.public|has_number_of_required_max_age.public]]"
   - "[[/_internal/schema-org/Property/has_number_of/has_number_of_required_max_age.internal|has_number_of_required_max_age.internal]]"
   - "[[/_protect/schema-org/Property/has_number_of/has_number_of_required_max_age.protect|has_number_of_required_max_age.protect]]"

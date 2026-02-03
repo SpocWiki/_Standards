@@ -36,13 +36,14 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Nonprofit_Type.private|Nonprofit_Type.private]]"
     - "[[/_personal/schema-org/Enumeration/Nonprofit_Type.personal|Nonprofit_Type.personal]]"
     - "[[/_secret/schema-org/Enumeration/Nonprofit_Type.secret|Nonprofit_Type.secret]]"
+    - "[[Nonprofit_Type]]"
 dv_has_:
   child_class: "[ NLNonprofitType, UKNonprofitType, USNonprofitType ]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../Enumeration]]"
 dv_has_child_class: "[ NLNonprofitType, UKNonprofitType, USNonprofitType ]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Nonprofit_Type|Nonprofit_Type]]"
+  - "[[Nonprofit_Type]]"
   - "[[/_public/schema-org/Enumeration/Nonprofit_Type.public|Nonprofit_Type.public]]"
   - "[[/_internal/schema-org/Enumeration/Nonprofit_Type.internal|Nonprofit_Type.internal]]"
   - "[[/_protect/schema-org/Enumeration/Nonprofit_Type.protect|Nonprofit_Type.protect]]"

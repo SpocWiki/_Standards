@@ -65,7 +65,7 @@ is_a = `=this.dv_is_a`
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/delivery_time :: ShippingDeliveryTime  
+- #has_/delivery_time : : ShippingDeliveryTime  
 - has_delivery_time = `=this.dv_has_delivery_time`  
 
 The total delay between the receipt of the order and the goods reaching the final customer.

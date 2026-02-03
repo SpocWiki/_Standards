@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_software_help]]"
+    - "[[/_public/schema-org/Relation/has/has_software_help.public|has_software_help.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_software_help.internal|has_software_help.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_software_help.protect|has_software_help.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_software_help.private|has_software_help.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_software_help.personal|has_software_help.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_software_help.secret|has_software_help.secret]]"
+dv_is_same_as:
+  - "[[has_software_help]]"
+  - "[[/_public/schema-org/Relation/has/has_software_help.public|has_software_help.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_software_help.internal|has_software_help.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_software_help.protect|has_software_help.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_software_help.private|has_software_help.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_software_help.personal|has_software_help.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_software_help.secret|has_software_help.secret]]"
+---
 ﻿---
 dv_is_:
   same_as:

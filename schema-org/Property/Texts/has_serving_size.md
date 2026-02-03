@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_serving_size.private|has_serving_size.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_serving_size.personal|has_serving_size.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_serving_size.secret|has_serving_size.secret]]"
+    - "[[has_serving_size]]"
 dv_has_domain: NutritionInformation
 dv_has_name: has_text_of_serving_size
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_serving_size|has_serving_size]]"
+  - "[[has_serving_size]]"
   - "[[/_public/schema-org/Property/Texts/has_serving_size.public|has_serving_size.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_serving_size.internal|has_serving_size.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_serving_size.protect|has_serving_size.protect]]"

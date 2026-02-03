@@ -36,9 +36,10 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Offer_Item_Condition.private|Offer_Item_Condition.private]]"
     - "[[/_personal/schema-org/Enumeration/Offer_Item_Condition.personal|Offer_Item_Condition.personal]]"
     - "[[/_secret/schema-org/Enumeration/Offer_Item_Condition.secret|Offer_Item_Condition.secret]]"
+    - "[[Offer_Item_Condition]]"
 dv_has_parent_class: "[[../Enumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Offer_Item_Condition|Offer_Item_Condition]]"
+  - "[[Offer_Item_Condition]]"
   - "[[/_public/schema-org/Enumeration/Offer_Item_Condition.public|Offer_Item_Condition.public]]"
   - "[[/_internal/schema-org/Enumeration/Offer_Item_Condition.internal|Offer_Item_Condition.internal]]"
   - "[[/_protect/schema-org/Enumeration/Offer_Item_Condition.protect|Offer_Item_Condition.protect]]"

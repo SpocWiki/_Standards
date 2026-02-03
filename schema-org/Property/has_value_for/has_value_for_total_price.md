@@ -26,9 +26,14 @@ tags:
 title: has_total-price
 type: Predi_Quantity
 dv_has_:
-  domain: ["[[../../Class/is_a_/Intangible/Reservation|Reservation]]", "[[../../Class/is_a_/Intangible/Ticket|Ticket]]"]
+  domain:
+    - "[[../../Class/is_a_/Intangible/Reservation|Reservation]]"
+    - "[[../../Class/is_a_/Intangible/Ticket|Ticket]]"
   name: has_value_for_total_price
-  range: ["[[../../Class/is_a_/Data_Type/Number|Number]]", "[[../../Class/is_a_/Intangible/Structured_Value/Price_Specification|Price_Specification]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
+  range:
+    - "[[../../Class/is_a_/Data_Type/Number|Number]]"
+    - "[[../../Class/is_a_/Intangible/Structured_Value/Price_Specification|Price_Specification]]"
+    - "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_total_price|has_value_for_total_price]]"
@@ -38,11 +43,17 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_total_price.private|has_value_for_total_price.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_total_price.personal|has_value_for_total_price.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_total_price.secret|has_value_for_total_price.secret]]"
-dv_has_domain: ["[[../../Class/is_a_/Intangible/Reservation|Reservation]]", "[[../../Class/is_a_/Intangible/Ticket|Ticket]]"]
+    - "[[has_value_for_total_price]]"
+dv_has_domain:
+  - "[[../../Class/is_a_/Intangible/Reservation|Reservation]]"
+  - "[[../../Class/is_a_/Intangible/Ticket|Ticket]]"
 dv_has_name: has_value_for_total_price
-dv_has_range: ["[[../../Class/is_a_/Data_Type/Number|Number]]", "[[../../Class/is_a_/Intangible/Structured_Value/Price_Specification|Price_Specification]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
+dv_has_range:
+  - "[[../../Class/is_a_/Data_Type/Number|Number]]"
+  - "[[../../Class/is_a_/Intangible/Structured_Value/Price_Specification|Price_Specification]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_total_price|has_value_for_total_price]]"
+  - "[[has_value_for_total_price]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_total_price.public|has_value_for_total_price.public]]"
   - "[[/_internal/schema-org/Property/has_value_for/has_value_for_total_price.internal|has_value_for_total_price.internal]]"
   - "[[/_protect/schema-org/Property/has_value_for/has_value_for_total_price.protect|has_value_for_total_price.protect]]"

@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_http_method.private|has_http_method.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_http_method.personal|has_http_method.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_http_method.secret|has_http_method.secret]]"
+    - "[[has_http_method]]"
 dv_has_domain: EntryPoint
 dv_has_name: has_text_of_http_method
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_http_method|has_http_method]]"
+  - "[[has_http_method]]"
   - "[[/_public/schema-org/Property/Texts/has_http_method.public|has_http_method.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_http_method.internal|has_http_method.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_http_method.protect|has_http_method.protect]]"

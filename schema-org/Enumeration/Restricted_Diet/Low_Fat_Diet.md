@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Restricted_Diet/Low_Fat_Diet.private|Low_Fat_Diet.private]]"
     - "[[/_personal/schema-org/Enumeration/Restricted_Diet/Low_Fat_Diet.personal|Low_Fat_Diet.personal]]"
     - "[[/_secret/schema-org/Enumeration/Restricted_Diet/Low_Fat_Diet.secret|Low_Fat_Diet.secret]]"
+    - "[[Low_Fat_Diet]]"
 dv_has_parent_class: "[[../RestrictedDiet]]"
 dv_is_enum_of: "[[../RestrictedDiet]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Restricted_Diet/Low_Fat_Diet|Low_Fat_Diet]]"
+  - "[[Low_Fat_Diet]]"
   - "[[/_public/schema-org/Enumeration/Restricted_Diet/Low_Fat_Diet.public|Low_Fat_Diet.public]]"
   - "[[/_internal/schema-org/Enumeration/Restricted_Diet/Low_Fat_Diet.internal|Low_Fat_Diet.internal]]"
   - "[[/_protect/schema-org/Enumeration/Restricted_Diet/Low_Fat_Diet.protect|Low_Fat_Diet.protect]]"

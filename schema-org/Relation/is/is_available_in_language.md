@@ -10,33 +10,70 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - available
   - language
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_available_in_language
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: is_available_in_language
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_:
+  domain:
+    - "[[../../Class/is_a_/Intangible/Structured_Value/Contact_Point|Contact_Point]]"
+    - "[[../../../Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business|Lodging_Business]]"
+    - "[[../../Class/is_a_/Intangible/Service_Channel|Service_Channel]]"
+    - "[[../../../Earth/Geography/Place/Tourist_Attraction|Tourist_Attraction]]"
+  name: "[[is_available_in_language]]"
+  range:
+    - "[[../../../Language|Language]]"
+    - "[[../../Class/is_a_/Data_Type/Text|Text]]"
+dv_is_:
+  same_as:
+    - "[[is_available_in_language]]"
+    - "[[/_public/schema-org/Relation/is/is_available_in_language.public|is_available_in_language.public]]"
+    - "[[/_internal/schema-org/Relation/is/is_available_in_language.internal|is_available_in_language.internal]]"
+    - "[[/_protect/schema-org/Relation/is/is_available_in_language.protect|is_available_in_language.protect]]"
+    - "[[/_private/schema-org/Relation/is/is_available_in_language.private|is_available_in_language.private]]"
+    - "[[/_personal/schema-org/Relation/is/is_available_in_language.personal|is_available_in_language.personal]]"
+    - "[[/_secret/schema-org/Relation/is/is_available_in_language.secret|is_available_in_language.secret]]"
+dv_has_domain:
+  - "[[../../Class/is_a_/Intangible/Structured_Value/Contact_Point|Contact_Point]]"
+  - "[[../../../Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business|Lodging_Business]]"
+  - "[[../../Class/is_a_/Intangible/Service_Channel|Service_Channel]]"
+  - "[[../../../Earth/Geography/Place/Tourist_Attraction|Tourist_Attraction]]"
+dv_has_name: "[[is_available_in_language]]"
+dv_has_range:
+  - "[[../../../Language|Language]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
+dv_is_same_as:
+  - "[[is_available_in_language]]"
+  - "[[/_public/schema-org/Relation/is/is_available_in_language.public|is_available_in_language.public]]"
+  - "[[/_internal/schema-org/Relation/is/is_available_in_language.internal|is_available_in_language.internal]]"
+  - "[[/_protect/schema-org/Relation/is/is_available_in_language.protect|is_available_in_language.protect]]"
+  - "[[/_private/schema-org/Relation/is/is_available_in_language.private|is_available_in_language.private]]"
+  - "[[/_personal/schema-org/Relation/is/is_available_in_language.personal|is_available_in_language.personal]]"
+  - "[[/_secret/schema-org/Relation/is/is_available_in_language.secret|is_available_in_language.secret]]"
 ---
 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 
 
 Use it like this: 
-- #is_/available_in_/language :: "[[../../../Language|Language]]", "[[../../Class/is_a_/Data_Type/Text|Text]]" 
-- is_available_in_language :: "[[../../../Language|Language]]", "[[../../Class/is_a_/Data_Type/Text|Text]]" 
+- #is_/available_in_/language : : "[[../../../Language|Language]]", "[[../../Class/is_a_/Data_Type/Text|Text]]" 
+- is_available_in_language : : "[[../../../Language|Language]]", "[[../../Class/is_a_/Data_Type/Text|Text]]" 
 
 A language someone may use with or at the item, service or place. 
 Please use one of the language codes from the [IETF BCP 47 standard](http://tools.ietf.org/html/bcp47). 
@@ -45,7 +82,7 @@ See also [[./is_in_language|is_in_language]].
 Relation describes that: 
 
 #has_/domain  :: "[[../../Class/is_a_/Intangible/Structured_Value/Contact_Point|Contact_Point]]", "[[../../../Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business|Lodging_Business]]", "[[../../Class/is_a_/Intangible/Service_Channel|Service_Channel]]", "[[../../../Earth/Geography/Place/Tourist_Attraction|Tourist_Attraction]]" 
-(has_/name :: [[is_available_in_language]] )
+has_name = `=this.dv_has_name` 
 (has_/range :: "[[../../../Language|Language]]", "[[../../Class/is_a_/Data_Type/Text|Text]]" )
 
 

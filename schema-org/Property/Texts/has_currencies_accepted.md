@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_currencies_accepted.private|has_currencies_accepted.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_currencies_accepted.personal|has_currencies_accepted.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_currencies_accepted.secret|has_currencies_accepted.secret]]"
+    - "[[has_currencies_accepted]]"
 dv_has_domain: LocalBusiness
 dv_has_name: has_text_of_currencies_accepted
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_currencies_accepted|has_currencies_accepted]]"
+  - "[[has_currencies_accepted]]"
   - "[[/_public/schema-org/Property/Texts/has_currencies_accepted.public|has_currencies_accepted.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_currencies_accepted.internal|has_currencies_accepted.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_currencies_accepted.protect|has_currencies_accepted.protect]]"

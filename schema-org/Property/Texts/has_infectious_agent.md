@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_infectious_agent.private|has_infectious_agent.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_infectious_agent.personal|has_infectious_agent.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_infectious_agent.secret|has_infectious_agent.secret]]"
+    - "[[has_infectious_agent]]"
 dv_has_domain: InfectiousDisease
 dv_has_name: has_text_of_infectious_agent
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_infectious_agent|has_infectious_agent]]"
+  - "[[has_infectious_agent]]"
   - "[[/_public/schema-org/Property/Texts/has_infectious_agent.public|has_infectious_agent.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_infectious_agent.internal|has_infectious_agent.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_infectious_agent.protect|has_infectious_agent.protect]]"

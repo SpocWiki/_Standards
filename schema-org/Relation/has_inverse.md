@@ -13,30 +13,58 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - inverse
   - of
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_inverse
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - has_/inverse
   - class/Relation
   - schema-org/Relation
 title: has_inverse
 type: Predi_Relation
+dv_is_:
+  different_from: "[[has_complement]]"
+  part_of: https://meta.schema.org
+  same_as:
+    - "[[has_inverse]]"
+    - "[[/_public/schema-org/Relation/has_inverse.public|has_inverse.public]]"
+    - "[[/_internal/schema-org/Relation/has_inverse.internal|has_inverse.internal]]"
+    - "[[/_protect/schema-org/Relation/has_inverse.protect|has_inverse.protect]]"
+    - "[[/_private/schema-org/Relation/has_inverse.private|has_inverse.private]]"
+    - "[[/_personal/schema-org/Relation/has_inverse.personal|has_inverse.personal]]"
+    - "[[/_secret/schema-org/Relation/has_inverse.secret|has_inverse.secret]]"
+dv_has_:
+  domain: "[[../Property]]"
+  name: has_inverse
+  range: "[[../Property]]"
+dv_is_different_from: "[[has_complement]]"
+dv_is_part_of: https://meta.schema.org
+dv_has_domain: "[[../Property]]"
+dv_has_name: has_inverse
+dv_has_range: "[[../Property]]"
+dv_is_same_as:
+  - "[[has_inverse]]"
+  - "[[/_public/schema-org/Relation/has_inverse.public|has_inverse.public]]"
+  - "[[/_internal/schema-org/Relation/has_inverse.internal|has_inverse.internal]]"
+  - "[[/_protect/schema-org/Relation/has_inverse.protect|has_inverse.protect]]"
+  - "[[/_private/schema-org/Relation/has_inverse.private|has_inverse.private]]"
+  - "[[/_personal/schema-org/Relation/has_inverse.personal|has_inverse.personal]]"
+  - "[[/_secret/schema-org/Relation/has_inverse.secret|has_inverse.secret]]"
 ---
 
 # has_inverse 
 
 Relates a property to a property that is its inverse / converse.
 
-#is_/different_from :: [[has_complement]]  
+is_different_from = `=this.dv_is_different_from` 
 
 owl:inverseOf is defined only for binary object properties with arity 2 count. 
 
@@ -56,18 +84,18 @@ This approach is dominant in academic ontology design,
 Inverse Relations relate the __same pairs__ of items to each other, but __in reversed direction__.
 For example, the [[../../../Relation/has/has_alumni]] and [[is/is_alumni_of]] properties are [[inverseOf]] each other. 
 
-#is_/part_of :: https://meta.schema.org 
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- [has_/inverse :: [[Property]]] 
-- [ has_inverse :: [[Property]]] 
+- [has_/inverse : : [[Property]]] 
+- [ has_inverse : : [[Property]]] 
 
 Relation describes that: 
 
-#has_/domain  :: [[Property]] 
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: has_inverse)
-(has_/range :: [[Property]])
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 Alternatively often a `has_inverse` Syntax comes to mind, 
 but that would be redundant (since the Relation is symmetric), 

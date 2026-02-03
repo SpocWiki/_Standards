@@ -65,7 +65,7 @@ is_a = `=this.dv_is_a`
 #has_/inverse :: 
 
 Use it like this: 
-- #has_/recipe_instructions :: CreativeWork, ItemList, Text  
+- #has_/recipe_instructions : : CreativeWork, ItemList, Text  
 - has_recipe_instructions = `=this.dv_has_recipe_instructions`  
 
 A step in making the recipe, in the form of a single item (document, video, etc.) or an ordered list with HowToStep and/or HowToSection items.

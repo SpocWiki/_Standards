@@ -66,7 +66,7 @@ is_a = `=this.dv_is_a`
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/legislation_legal_value :: LegalValueLevel  
+- #has_/legislation_legal_value : : LegalValueLevel  
 - has_legislation_legal_value = `=this.dv_has_legislation_legal_value`  
 
 The legal value of this legislation file.

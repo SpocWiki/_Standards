@@ -44,11 +44,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_job_benefits.private|has_job_benefits.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_job_benefits.personal|has_job_benefits.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_job_benefits.secret|has_job_benefits.secret]]"
+    - "[[has_job_benefits]]"
 dv_has_domain: JobPosting
 dv_has_name: has_text_of_job_benefits
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_job_benefits|has_job_benefits]]"
+  - "[[has_job_benefits]]"
   - "[[/_public/schema-org/Property/Texts/has_job_benefits.public|has_job_benefits.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_job_benefits.internal|has_job_benefits.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_job_benefits.protect|has_job_benefits.protect]]"

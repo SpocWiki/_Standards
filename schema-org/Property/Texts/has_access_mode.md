@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_access_mode.private|has_access_mode.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_access_mode.personal|has_access_mode.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_access_mode.secret|has_access_mode.secret]]"
+    - "[[has_access_mode]]"
 dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work]]"
 dv_has_name: has_text_of_access_mode
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_access_mode|has_access_mode]]"
+  - "[[has_access_mode]]"
   - "[[/_public/schema-org/Property/Texts/has_access_mode.public|has_access_mode.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_access_mode.internal|has_access_mode.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_access_mode.protect|has_access_mode.protect]]"

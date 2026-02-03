@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_program_prerequisites]]"
+    - "[[/_public/schema-org/Relation/has/has_program_prerequisites.public|has_program_prerequisites.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_program_prerequisites.internal|has_program_prerequisites.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_program_prerequisites.protect|has_program_prerequisites.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_program_prerequisites.private|has_program_prerequisites.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_program_prerequisites.personal|has_program_prerequisites.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_program_prerequisites.secret|has_program_prerequisites.secret]]"
+dv_is_same_as:
+  - "[[has_program_prerequisites]]"
+  - "[[/_public/schema-org/Relation/has/has_program_prerequisites.public|has_program_prerequisites.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_program_prerequisites.internal|has_program_prerequisites.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_program_prerequisites.protect|has_program_prerequisites.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_program_prerequisites.private|has_program_prerequisites.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_program_prerequisites.personal|has_program_prerequisites.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_program_prerequisites.secret|has_program_prerequisites.secret]]"
+---
 ﻿---
 dv_has_:
   program_prerequisites: AlignmentObject, Course, EducationalOccupationalCredential, Text
@@ -71,7 +90,7 @@ is_a = `=this.dv_is_a`
 has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
-- #has_/program_prerequisites :: AlignmentObject, Course, EducationalOccupationalCredential, Text  
+- #has_/program_prerequisites : : AlignmentObject, Course, EducationalOccupationalCredential, Text  
 - has_program_prerequisites = `=this.dv_has_program_prerequisites`  
 - is_program_prerequisites_of : : `=this.dv_has_domain` 
 - #is_/program_prerequisites_of : : `=this.dv_has_domain`

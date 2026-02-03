@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_min_text_length.private|has_value_for_min_text_length.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_min_text_length.personal|has_value_for_min_text_length.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_min_text_length.secret|has_value_for_min_text_length.secret]]"
+    - "[[has_value_for_min_text_length]]"
 dv_has_domain: "[[../../Class/is_a_/Intangible/Property_Value_Specification|Property_Value_Specification]]"
 dv_has_name: has_value_for_min_text_length
 dv_has_range: "[[../../Class/is_a_/Data_Type/Number|Number]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_min_text_length|has_value_for_min_text_length]]"
+  - "[[has_value_for_min_text_length]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_min_text_length.public|has_value_for_min_text_length.public]]"
   - "[[/_internal/schema-org/Property/has_value_for/has_value_for_min_text_length.internal|has_value_for_min_text_length.internal]]"
   - "[[/_protect/schema-org/Property/has_value_for/has_value_for_min_text_length.protect|has_value_for_min_text_length.protect]]"

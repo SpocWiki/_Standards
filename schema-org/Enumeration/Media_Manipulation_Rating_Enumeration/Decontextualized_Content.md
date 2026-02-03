@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Decontextualized_Content.private|Decontextualized_Content.private]]"
     - "[[/_personal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Decontextualized_Content.personal|Decontextualized_Content.personal]]"
     - "[[/_secret/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Decontextualized_Content.secret|Decontextualized_Content.secret]]"
+    - "[[Decontextualized_Content]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../Media_Manipulation_Rating_Enumeration]]"
 dv_is_enum_of: "[[../Media_Manipulation_Rating_Enumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Decontextualized_Content|Decontextualized_Content]]"
+  - "[[Decontextualized_Content]]"
   - "[[/_public/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Decontextualized_Content.public|Decontextualized_Content.public]]"
   - "[[/_internal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Decontextualized_Content.internal|Decontextualized_Content.internal]]"
   - "[[/_protect/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Decontextualized_Content.protect|Decontextualized_Content.protect]]"

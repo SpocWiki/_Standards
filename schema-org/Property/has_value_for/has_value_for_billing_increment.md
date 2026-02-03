@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_billing_increment.private|has_value_for_billing_increment.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_billing_increment.personal|has_value_for_billing_increment.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_billing_increment.secret|has_value_for_billing_increment.secret]]"
+    - "[[has_value_for_billing_increment]]"
 dv_has_domain: "[[../../Class/is_a_/Intangible/Structured_Value/Price_Specification/Unit_Price_Specification|Unit_Price_Specification]]"
 dv_has_name: has_value_for_billing_increment
 dv_has_range: "[[../../Class/is_a_/Data_Type/Number|Number]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_billing_increment|has_value_for_billing_increment]]"
+  - "[[has_value_for_billing_increment]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_billing_increment.public|has_value_for_billing_increment.public]]"
   - "[[/_internal/schema-org/Property/has_value_for/has_value_for_billing_increment.internal|has_value_for_billing_increment.internal]]"
   - "[[/_protect/schema-org/Property/has_value_for/has_value_for_billing_increment.protect|has_value_for_billing_increment.protect]]"

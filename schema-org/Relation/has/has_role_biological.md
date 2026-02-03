@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_role_biological]]"
+    - "[[/_public/schema-org/Relation/has/has_role_biological.public|has_role_biological.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_role_biological.internal|has_role_biological.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_role_biological.protect|has_role_biological.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_role_biological.private|has_role_biological.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_role_biological.personal|has_role_biological.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_role_biological.secret|has_role_biological.secret]]"
+dv_is_same_as:
+  - "[[has_role_biological]]"
+  - "[[/_public/schema-org/Relation/has/has_role_biological.public|has_role_biological.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_role_biological.internal|has_role_biological.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_role_biological.protect|has_role_biological.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_role_biological.private|has_role_biological.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_role_biological.personal|has_role_biological.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_role_biological.secret|has_role_biological.secret]]"
+---
 ﻿---
 dv_has_:
   role_:
@@ -68,7 +87,7 @@ is_a = `=this.dv_is_a`
 has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
-- #has_/role_/biological :: DefinedTerm  
+- #has_/role_/biological : : DefinedTerm  
 - has_role_biological = `=this.dv_has_role_biological`  
 - is_role_biological_of : : `=this.dv_has_domain` 
 - #is_/role_biological_of : : `=this.dv_has_domain`

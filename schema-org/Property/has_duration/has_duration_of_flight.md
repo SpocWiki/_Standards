@@ -40,9 +40,10 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_duration_of/has_duration_of_flight.private|has_duration_of_flight.private]]"
     - "[[/_personal/schema-org/Property/has_duration_of/has_duration_of_flight.personal|has_duration_of_flight.personal]]"
     - "[[/_secret/schema-org/Property/has_duration_of/has_duration_of_flight.secret|has_duration_of_flight.secret]]"
+    - "[[has_duration_of_flight]]"
 dv_has_name: has_duration_of_flight
 dv_is_same_as:
-  - "[[has_duration_of_flight|has_duration_of_flight]]"
+  - "[[has_duration_of_flight]]"
   - "[[/_public/schema-org/Property/has_duration_of/has_duration_of_flight.public|has_duration_of_flight.public]]"
   - "[[/_internal/schema-org/Property/has_duration_of/has_duration_of_flight.internal|has_duration_of_flight.internal]]"
   - "[[/_protect/schema-org/Property/has_duration_of/has_duration_of_flight.protect|has_duration_of_flight.protect]]"

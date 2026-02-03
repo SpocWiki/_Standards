@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Government_Benefits_Type/One_Time_Payments.private|One_Time_Payments.private]]"
     - "[[/_personal/schema-org/Enumeration/Government_Benefits_Type/One_Time_Payments.personal|One_Time_Payments.personal]]"
     - "[[/_secret/schema-org/Enumeration/Government_Benefits_Type/One_Time_Payments.secret|One_Time_Payments.secret]]"
+    - "[[One_Time_Payments]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../GovernmentBenefitsType]]"
 dv_is_enum_of: "[[../GovernmentBenefitsType]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Government_Benefits_Type/One_Time_Payments|One_Time_Payments]]"
+  - "[[One_Time_Payments]]"
   - "[[/_public/schema-org/Enumeration/Government_Benefits_Type/One_Time_Payments.public|One_Time_Payments.public]]"
   - "[[/_internal/schema-org/Enumeration/Government_Benefits_Type/One_Time_Payments.internal|One_Time_Payments.internal]]"
   - "[[/_protect/schema-org/Enumeration/Government_Benefits_Type/One_Time_Payments.protect|One_Time_Payments.protect]]"

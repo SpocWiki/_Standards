@@ -39,11 +39,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Flags/is_available_generically.private|is_available_generically.private]]"
     - "[[/_personal/schema-org/Property/Flags/is_available_generically.personal|is_available_generically.personal]]"
     - "[[/_secret/schema-org/Property/Flags/is_available_generically.secret|is_available_generically.secret]]"
+    - "[[is_available_generically]]"
 dv_has_domain: Drug
 dv_has_name: is_available_generically
 dv_has_range: Boolean
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Flags/is_available_generically|is_available_generically]]"
+  - "[[is_available_generically]]"
   - "[[/_public/schema-org/Property/Flags/is_available_generically.public|is_available_generically.public]]"
   - "[[/_internal/schema-org/Property/Flags/is_available_generically.internal|is_available_generically.internal]]"
   - "[[/_protect/schema-org/Property/Flags/is_available_generically.protect|is_available_generically.protect]]"

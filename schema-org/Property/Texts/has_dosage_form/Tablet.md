@@ -32,9 +32,10 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_dosage_form/Tablet.private|Tablet.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_dosage_form/Tablet.personal|Tablet.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_dosage_form/Tablet.secret|Tablet.secret]]"
+    - "[[Tablet]]"
 dv_is_same_as:
   - "[[../../../../WikiData/WD~Tablet,206077|WD~Tablet,206077]]"
-  - "[[/_Standards/schema-org/Property/Texts/has_dosage_form/Tablet|Tablet]]"
+  - "[[Tablet]]"
   - "[[/_public/schema-org/Property/Texts/has_dosage_form/Tablet.public|Tablet.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_dosage_form/Tablet.internal|Tablet.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_dosage_form/Tablet.protect|Tablet.protect]]"

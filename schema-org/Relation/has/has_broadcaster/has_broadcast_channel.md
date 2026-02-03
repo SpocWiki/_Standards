@@ -31,6 +31,7 @@ dv_has_:
   inverse:
     - 
     - providesBroadcastService
+    - 
   domain: BroadcastService
   name: has_broadcast_channel
   range: BroadcastChannel
@@ -68,7 +69,7 @@ is_a = `=this.dv_is_a`
 #has_/inverse :: 
 
 Use it like this: 
-- #has_/broadcast_channel :: BroadcastChannel  
+- #has_/broadcast_channel : : BroadcastChannel  
 - has_broadcast_channel = `=this.dv_has_broadcast_channel`  
 
 A broadcast channel of a broadcast service.

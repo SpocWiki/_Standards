@@ -36,11 +36,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501f.private|Nonprofit501f.private]]"
     - "[[/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501f.personal|Nonprofit501f.personal]]"
     - "[[/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501f.secret|Nonprofit501f.secret]]"
+    - "[[Nonprofit501f]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../USNonprofitType]]"
 dv_is_enum_of: "[[../USNonprofitType]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501f|Nonprofit501f]]"
+  - "[[Nonprofit501f]]"
   - "[[/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501f.public|Nonprofit501f.public]]"
   - "[[/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501f.internal|Nonprofit501f.internal]]"
   - "[[/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501f.protect|Nonprofit501f.protect]]"

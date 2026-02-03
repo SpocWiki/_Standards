@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Uk_Trust.private|Uk_Trust.private]]"
     - "[[/_personal/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Uk_Trust.personal|Uk_Trust.personal]]"
     - "[[/_secret/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Uk_Trust.secret|Uk_Trust.secret]]"
+    - "[[Uk_Trust]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../UKNonprofitType]]"
 dv_is_enum_of: "[[../UKNonprofitType]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Uk_Trust|Uk_Trust]]"
+  - "[[Uk_Trust]]"
   - "[[/_public/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Uk_Trust.public|Uk_Trust.public]]"
   - "[[/_internal/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Uk_Trust.internal|Uk_Trust.internal]]"
   - "[[/_protect/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Uk_Trust.protect|Uk_Trust.protect]]"

@@ -32,7 +32,9 @@ dv_has_:
     longitude: Number, Text
   domain: GeoCoordinates, Place
   name: has_place_longitude
-  range: [["[[../../Class/is_a_/Data_Type/Number|Number]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]]
+  range:
+    - - "[[../../Class/is_a_/Data_Type/Number|Number]]"
+      - "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_has_place_longitude: Number, Text
 dv_is_:
   same_as:
@@ -43,11 +45,14 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_place_longitude.private|has_place_longitude.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_place_longitude.personal|has_place_longitude.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_place_longitude.secret|has_place_longitude.secret]]"
+    - "[[has_place_longitude]]"
 dv_has_domain: GeoCoordinates, Place
 dv_has_name: has_place_longitude
-dv_has_range: [["[[../../Class/is_a_/Data_Type/Number|Number]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]]
+dv_has_range:
+  - - "[[../../Class/is_a_/Data_Type/Number|Number]]"
+    - "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_value_for/has_place_longitude|has_place_longitude]]"
+  - "[[has_place_longitude]]"
   - "[[/_public/schema-org/Property/has_value_for/has_place_longitude.public|has_place_longitude.public]]"
   - "[[/_internal/schema-org/Property/has_value_for/has_place_longitude.internal|has_place_longitude.internal]]"
   - "[[/_protect/schema-org/Property/has_value_for/has_place_longitude.protect|has_place_longitude.protect]]"

@@ -42,11 +42,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_risks.private|has_risks.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_risks.personal|has_risks.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_risks.secret|has_risks.secret]]"
+    - "[[has_risks]]"
 dv_has_domain: Diet
 dv_has_name: has_text_of_risks
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_risks|has_risks]]"
+  - "[[has_risks]]"
   - "[[/_public/schema-org/Property/Texts/has_risks.public|has_risks.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_risks.internal|has_risks.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_risks.protect|has_risks.protect]]"

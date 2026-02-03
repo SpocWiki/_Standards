@@ -63,7 +63,7 @@ dv_is_same_as:
 has_complement = `=this.dv_has_complement` 
 
 Use it like this: 
-- #has_/seller :: Organization, Person  
+- #has_/seller : : Organization, Person  
 - has_seller = `=this.dv_has_seller`  
 
 An entity which offers (sells / leases / lends / loans) the services / goods.  A seller may also be a provider.

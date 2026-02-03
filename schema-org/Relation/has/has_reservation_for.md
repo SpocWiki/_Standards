@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_reservation_for]]"
+    - "[[/_public/schema-org/Relation/has/has_reservation_for.public|has_reservation_for.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_reservation_for.internal|has_reservation_for.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_reservation_for.protect|has_reservation_for.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_reservation_for.private|has_reservation_for.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_reservation_for.personal|has_reservation_for.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_reservation_for.secret|has_reservation_for.secret]]"
+dv_is_same_as:
+  - "[[has_reservation_for]]"
+  - "[[/_public/schema-org/Relation/has/has_reservation_for.public|has_reservation_for.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_reservation_for.internal|has_reservation_for.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_reservation_for.protect|has_reservation_for.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_reservation_for.private|has_reservation_for.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_reservation_for.personal|has_reservation_for.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_reservation_for.secret|has_reservation_for.secret]]"
+---
 ﻿---
 dv_is_:
   same_as:

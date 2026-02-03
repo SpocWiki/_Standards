@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_alternative_headline.private|has_alternative_headline.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_alternative_headline.personal|has_alternative_headline.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_alternative_headline.secret|has_alternative_headline.secret]]"
+    - "[[has_alternative_headline]]"
 dv_has_domain: CreativeWork
 dv_has_name: has_text_of_alternative_headline
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_alternative_headline|has_alternative_headline]]"
+  - "[[has_alternative_headline]]"
   - "[[/_public/schema-org/Property/Texts/has_alternative_headline.public|has_alternative_headline.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_alternative_headline.internal|has_alternative_headline.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_alternative_headline.protect|has_alternative_headline.protect]]"

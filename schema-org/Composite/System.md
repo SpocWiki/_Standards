@@ -54,9 +54,10 @@ dv_is_:
     - "[[/_private/schema-org/Composite/System.private|System.private]]"
     - "[[/_personal/schema-org/Composite/System.personal|System.personal]]"
     - "[[/_secret/schema-org/Composite/System.secret|System.secret]]"
+    - "[[System]]"
 dv_is_same_as:
   - "[[../../WikiData/WD~System,58778]]"
-  - "[[/_Standards/schema-org/Composite/System|System]]"
+  - "[[System]]"
   - "[[/_public/schema-org/Composite/System.public|System.public]]"
   - "[[/_internal/schema-org/Composite/System.internal|System.internal]]"
   - "[[/_protect/schema-org/Composite/System.protect|System.protect]]"

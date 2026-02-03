@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_name/has_ticker_symbol.private|has_ticker_symbol.private]]"
     - "[[/_personal/schema-org/Property/has_name/has_ticker_symbol.personal|has_ticker_symbol.personal]]"
     - "[[/_secret/schema-org/Property/has_name/has_ticker_symbol.secret|has_ticker_symbol.secret]]"
+    - "[[has_ticker_symbol]]"
 dv_has_domain: Corporation
 dv_has_name: has_text_of_ticker_symbol
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_name/has_ticker_symbol|has_ticker_symbol]]"
+  - "[[has_ticker_symbol]]"
   - "[[/_public/schema-org/Property/has_name/has_ticker_symbol.public|has_ticker_symbol.public]]"
   - "[[/_internal/schema-org/Property/has_name/has_ticker_symbol.internal|has_ticker_symbol.internal]]"
   - "[[/_protect/schema-org/Property/has_name/has_ticker_symbol.protect|has_ticker_symbol.protect]]"

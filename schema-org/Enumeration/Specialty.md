@@ -32,13 +32,14 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Specialty.private|Specialty.private]]"
     - "[[/_personal/schema-org/Enumeration/Specialty.personal|Specialty.personal]]"
     - "[[/_secret/schema-org/Enumeration/Specialty.secret|Specialty.secret]]"
+    - "[[Specialty]]"
 dv_has_:
   parent_class: "[[../Enumeration]]"
   child_class: "[ MedicalSpecialty ]"
 dv_has_parent_class: "[[../Enumeration]]"
 dv_has_child_class: "[ MedicalSpecialty ]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Specialty|Specialty]]"
+  - "[[Specialty]]"
   - "[[/_public/schema-org/Enumeration/Specialty.public|Specialty.public]]"
   - "[[/_internal/schema-org/Enumeration/Specialty.internal|Specialty.internal]]"
   - "[[/_protect/schema-org/Enumeration/Specialty.protect|Specialty.protect]]"

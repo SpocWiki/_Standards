@@ -10,28 +10,55 @@ cssclasses:
   - Predicate
   - geo
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - eligible_region
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_location_eligible_region
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/geo
 title: has_location_eligible_region
 type: Pred_geo
+dv_has_:
+  domain: ActionAccessSpecification, DeliveryChargeSpecification, Demand, Offer
+  name: has_location_eligible_region
+  range: GeoShape, Place, Text
+  parent_:
+    property: areaServed
+dv_is_:
+  same_as:
+    - "[[has_location_eligible_region]]"
+    - "[[/_public/schema-org/Property/has_location/has_location_eligible_region.public|has_location_eligible_region.public]]"
+    - "[[/_internal/schema-org/Property/has_location/has_location_eligible_region.internal|has_location_eligible_region.internal]]"
+    - "[[/_protect/schema-org/Property/has_location/has_location_eligible_region.protect|has_location_eligible_region.protect]]"
+    - "[[/_private/schema-org/Property/has_location/has_location_eligible_region.private|has_location_eligible_region.private]]"
+    - "[[/_personal/schema-org/Property/has_location/has_location_eligible_region.personal|has_location_eligible_region.personal]]"
+    - "[[/_secret/schema-org/Property/has_location/has_location_eligible_region.secret|has_location_eligible_region.secret]]"
+dv_has_domain: ActionAccessSpecification, DeliveryChargeSpecification, Demand, Offer
+dv_has_name: has_location_eligible_region
+dv_has_range: GeoShape, Place, Text
+dv_has_parent_property: areaServed
+dv_is_same_as:
+  - "[[has_location_eligible_region]]"
+  - "[[/_public/schema-org/Property/has_location/has_location_eligible_region.public|has_location_eligible_region.public]]"
+  - "[[/_internal/schema-org/Property/has_location/has_location_eligible_region.internal|has_location_eligible_region.internal]]"
+  - "[[/_protect/schema-org/Property/has_location/has_location_eligible_region.protect|has_location_eligible_region.protect]]"
+  - "[[/_private/schema-org/Property/has_location/has_location_eligible_region.private|has_location_eligible_region.private]]"
+  - "[[/_personal/schema-org/Property/has_location/has_location_eligible_region.personal|has_location_eligible_region.personal]]"
+  - "[[/_secret/schema-org/Property/has_location/has_location_eligible_region.secret|has_location_eligible_region.secret]]"
 ---
 
 Predicate to describe the geo of ActionAccessSpecification, DeliveryChargeSpecification, Demand, Offer.
 
 Use it like this: 
-- #has_/location_/eligible_region :: GeoShape, Place, Text   
-- has_location_eligible_region :: GeoShape, Place, Text   
+- #has_/location_/eligible_region : : GeoShape, Place, Text   
+- has_location_eligible_region : : GeoShape, Place, Text   
 
 The ISO 3166-1 (ISO 3166-1 alpha-2) or ISO 3166-2 code, the place, or the GeoShape for the geo-political region(s) for which the offer or delivery charge specification is valid.
 
@@ -41,12 +68,12 @@ See also [[ineligibleRegion]].
 
 Predicate describes that: 
 
-#has_/domain  :: ActionAccessSpecification, DeliveryChargeSpecification, Demand, Offer  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: has_location_eligible_region )
-(has_/range :: GeoShape, Place, Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#has_/parent_/property  :: areaServed  
+has_parent_property = `=this.dv_has_parent_property` 
 
 ## Confidential Links & Embeds: 
 

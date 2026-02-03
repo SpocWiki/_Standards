@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Offline_Permanently.private|Offline_Permanently.private]]"
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Offline_Permanently.personal|Offline_Permanently.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Offline_Permanently.secret|Offline_Permanently.secret]]"
+    - "[[Offline_Permanently]]"
 dv_has_parent_class: "[[../GameServerStatus]]"
 dv_is_enum_of: "[[../GameServerStatus]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Offline_Permanently|Offline_Permanently]]"
+  - "[[Offline_Permanently]]"
   - "[[/_public/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Offline_Permanently.public|Offline_Permanently.public]]"
   - "[[/_internal/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Offline_Permanently.internal|Offline_Permanently.internal]]"
   - "[[/_protect/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Offline_Permanently.protect|Offline_Permanently.protect]]"

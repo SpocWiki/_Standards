@@ -40,9 +40,10 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_Date_Time/has_time_of_door.private|has_time_of_door.private]]"
     - "[[/_personal/schema-org/Property/has_Date_Time/has_time_of_door.personal|has_time_of_door.personal]]"
     - "[[/_secret/schema-org/Property/has_Date_Time/has_time_of_door.secret|has_time_of_door.secret]]"
+    - "[[has_time_of_door]]"
 dv_has_name: has_time_of_door
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_of_door|has_time_of_door]]"
+  - "[[has_time_of_door]]"
   - "[[/_public/schema-org/Property/has_Date_Time/has_time_of_door.public|has_time_of_door.public]]"
   - "[[/_internal/schema-org/Property/has_Date_Time/has_time_of_door.internal|has_time_of_door.internal]]"
   - "[[/_protect/schema-org/Property/has_Date_Time/has_time_of_door.protect|has_time_of_door.protect]]"

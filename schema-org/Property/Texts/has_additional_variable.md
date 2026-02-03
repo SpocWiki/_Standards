@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_additional_variable.private|has_additional_variable.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_additional_variable.personal|has_additional_variable.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_additional_variable.secret|has_additional_variable.secret]]"
+    - "[[has_additional_variable]]"
 dv_has_domain: ExercisePlan
 dv_has_name: has_text_of_additional_variable
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_additional_variable|has_additional_variable]]"
+  - "[[has_additional_variable]]"
   - "[[/_public/schema-org/Property/Texts/has_additional_variable.public|has_additional_variable.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_additional_variable.internal|has_additional_variable.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_additional_variable.protect|has_additional_variable.protect]]"

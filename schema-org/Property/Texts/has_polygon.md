@@ -42,11 +42,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_polygon.private|has_polygon.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_polygon.personal|has_polygon.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_polygon.secret|has_polygon.secret]]"
+    - "[[has_polygon]]"
 dv_has_domain: GeoShape
 dv_has_name: has_text_of_polygon
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_polygon|has_polygon]]"
+  - "[[has_polygon]]"
   - "[[/_public/schema-org/Property/Texts/has_polygon.public|has_polygon.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_polygon.internal|has_polygon.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_polygon.protect|has_polygon.protect]]"

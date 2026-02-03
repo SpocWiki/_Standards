@@ -10,13 +10,14 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Measurement_Type_Enumeration.private|Measurement_Type_Enumeration.private]]"
     - "[[/_personal/schema-org/Enumeration/Measurement_Type_Enumeration.personal|Measurement_Type_Enumeration.personal]]"
     - "[[/_secret/schema-org/Enumeration/Measurement_Type_Enumeration.secret|Measurement_Type_Enumeration.secret]]"
+    - "[[Measurement_Type_Enumeration]]"
 dv_has_:
   child_class: "[ BodyMeasurementTypeEnumeration, WearableMeasurementTypeEnumeration ]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../Enumeration]]"
 dv_has_child_class: "[ BodyMeasurementTypeEnumeration, WearableMeasurementTypeEnumeration ]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration|Measurement_Type_Enumeration]]"
+  - "[[Measurement_Type_Enumeration]]"
   - "[[/_public/schema-org/Enumeration/Measurement_Type_Enumeration.public|Measurement_Type_Enumeration.public]]"
   - "[[/_internal/schema-org/Enumeration/Measurement_Type_Enumeration.internal|Measurement_Type_Enumeration.internal]]"
   - "[[/_protect/schema-org/Enumeration/Measurement_Type_Enumeration.protect|Measurement_Type_Enumeration.protect]]"

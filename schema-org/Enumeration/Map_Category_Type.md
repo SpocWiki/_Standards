@@ -36,9 +36,10 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Map_Category_Type.private|Map_Category_Type.private]]"
     - "[[/_personal/schema-org/Enumeration/Map_Category_Type.personal|Map_Category_Type.personal]]"
     - "[[/_secret/schema-org/Enumeration/Map_Category_Type.secret|Map_Category_Type.secret]]"
+    - "[[Map_Category_Type]]"
 dv_has_parent_class: "[[../Enumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Map_Category_Type|Map_Category_Type]]"
+  - "[[Map_Category_Type]]"
   - "[[/_public/schema-org/Enumeration/Map_Category_Type.public|Map_Category_Type.public]]"
   - "[[/_internal/schema-org/Enumeration/Map_Category_Type.internal|Map_Category_Type.internal]]"
   - "[[/_protect/schema-org/Enumeration/Map_Category_Type.protect|Map_Category_Type.protect]]"

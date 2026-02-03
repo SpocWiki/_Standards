@@ -11,39 +11,65 @@ cssclasses:
   - Predicate
   - Url
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - health_plan_marketing_url
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_url_for_health_plan_marketing_url
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Url
 title: has_url_for_health_plan_marketing_url
 type: Predi_Url
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[has_url_for_health_plan_marketing]]"
+    - "[[/_public/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.public|has_url_for_health_plan_marketing.public]]"
+    - "[[/_internal/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.internal|has_url_for_health_plan_marketing.internal]]"
+    - "[[/_protect/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.protect|has_url_for_health_plan_marketing.protect]]"
+    - "[[/_private/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.private|has_url_for_health_plan_marketing.private]]"
+    - "[[/_personal/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.personal|has_url_for_health_plan_marketing.personal]]"
+    - "[[/_secret/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.secret|has_url_for_health_plan_marketing.secret]]"
+dv_has_:
+  domain: HealthInsurancePlan
+  name: has_url_for_health_plan_marketing_url
+  range: URL
+dv_is_part_of: "pending:"
+dv_has_domain: HealthInsurancePlan
+dv_has_name: has_url_for_health_plan_marketing_url
+dv_has_range: URL
+dv_is_same_as:
+  - "[[has_url_for_health_plan_marketing]]"
+  - "[[/_public/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.public|has_url_for_health_plan_marketing.public]]"
+  - "[[/_internal/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.internal|has_url_for_health_plan_marketing.internal]]"
+  - "[[/_protect/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.protect|has_url_for_health_plan_marketing.protect]]"
+  - "[[/_private/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.private|has_url_for_health_plan_marketing.private]]"
+  - "[[/_personal/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.personal|has_url_for_health_plan_marketing.personal]]"
+  - "[[/_secret/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.secret|has_url_for_health_plan_marketing.secret]]"
 ---
 
 Predicate to specify the Url of HealthInsurancePlan.
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/url_for_/health_plan_marketing :: URL   
-- has_url_for_health_plan_marketing :: URL   
+- #has_/url_for_/health_plan_marketing : : URL   
+- has_url_for_health_plan_marketing : : URL   
 
 The URL that goes directly to the plan brochure for the specific standard plan or plan variation.
 
 Predicate describes that: 
 
-#has_/domain  :: HealthInsurancePlan  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: has_url_for_health_plan_marketing_url )
-(has_/range :: URL )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

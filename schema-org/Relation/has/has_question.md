@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_question]]"
+    - "[[/_public/schema-org/Relation/has/has_question.public|has_question.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_question.internal|has_question.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_question.protect|has_question.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_question.private|has_question.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_question.personal|has_question.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_question.secret|has_question.secret]]"
+dv_is_same_as:
+  - "[[has_question]]"
+  - "[[/_public/schema-org/Relation/has/has_question.public|has_question.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_question.internal|has_question.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_question.protect|has_question.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_question.private|has_question.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_question.personal|has_question.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_question.secret|has_question.secret]]"
+---
 ﻿---
 dv_has_:
   question: Question
@@ -91,7 +110,7 @@ is_a = `=this.dv_is_a`
 has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
-- #has_/question :: Question  
+- #has_/question : : Question  
 - has_question = `=this.dv_has_question`  
 
 A sub property of object. A question.

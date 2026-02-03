@@ -61,7 +61,7 @@ is_a = `=this.dv_is_a`
 #has_/inverse :: 
 
 Use it like this: 
-- #has_/opponent :: Person  
+- #has_/opponent : : Person  
 - has_opponent = `=this.dv_has_opponent`  
 
 A sub property of participant. The opponent on this action.

@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_duration_of_warranty.private|has_duration_of_warranty.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_duration_of_warranty.personal|has_duration_of_warranty.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_duration_of_warranty.secret|has_duration_of_warranty.secret]]"
+    - "[[has_duration_of_warranty]]"
 dv_has_domain: "[[../../Class/is_a_/Intangible/Structured_Value/Warranty_Promise|Warranty_Promise]]"
 dv_has_name: has_duration_of_warranty
 dv_has_range: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|QuantitativeValue]]"
 dv_is_same_as:
-  - "[[has_duration_of_warranty|has_duration_of_warranty]]"
+  - "[[has_duration_of_warranty]]"
   - "[[/_public/schema-org/Property/has_value_for/has_duration_of_warranty.public|has_duration_of_warranty.public]]"
   - "[[/_internal/schema-org/Property/has_value_for/has_duration_of_warranty.internal|has_duration_of_warranty.internal]]"
   - "[[/_protect/schema-org/Property/has_value_for/has_duration_of_warranty.protect|has_duration_of_warranty.protect]]"

@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_play_mode]]"
+    - "[[/_public/schema-org/Relation/has/has_play_mode.public|has_play_mode.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_play_mode.internal|has_play_mode.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_play_mode.protect|has_play_mode.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_play_mode.private|has_play_mode.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_play_mode.personal|has_play_mode.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_play_mode.secret|has_play_mode.secret]]"
+dv_is_same_as:
+  - "[[has_play_mode]]"
+  - "[[/_public/schema-org/Relation/has/has_play_mode.public|has_play_mode.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_play_mode.internal|has_play_mode.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_play_mode.protect|has_play_mode.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_play_mode.private|has_play_mode.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_play_mode.personal|has_play_mode.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_play_mode.secret|has_play_mode.secret]]"
+---
 ﻿---
 dv_is_:
   same_as:

@@ -40,9 +40,10 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_Date_Time/has_time_scheduled.private|has_time_scheduled.private]]"
     - "[[/_personal/schema-org/Property/has_Date_Time/has_time_scheduled.personal|has_time_scheduled.personal]]"
     - "[[/_secret/schema-org/Property/has_Date_Time/has_time_scheduled.secret|has_time_scheduled.secret]]"
+    - "[[has_time_scheduled]]"
 dv_has_name: has_time_scheduled
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_scheduled|has_time_scheduled]]"
+  - "[[has_time_scheduled]]"
   - "[[/_public/schema-org/Property/has_Date_Time/has_time_scheduled.public|has_time_scheduled.public]]"
   - "[[/_internal/schema-org/Property/has_Date_Time/has_time_scheduled.internal|has_time_scheduled.internal]]"
   - "[[/_protect/schema-org/Property/has_Date_Time/has_time_scheduled.protect|has_time_scheduled.protect]]"

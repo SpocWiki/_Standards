@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Return_Fees_Enumeration/Restocking_Fees.private|Restocking_Fees.private]]"
     - "[[/_personal/schema-org/Enumeration/Return_Fees_Enumeration/Restocking_Fees.personal|Restocking_Fees.personal]]"
     - "[[/_secret/schema-org/Enumeration/Return_Fees_Enumeration/Restocking_Fees.secret|Restocking_Fees.secret]]"
+    - "[[Restocking_Fees]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../ReturnFeesEnumeration]]"
 dv_is_enum_of: "[[../ReturnFeesEnumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Return_Fees_Enumeration/Restocking_Fees|Restocking_Fees]]"
+  - "[[Restocking_Fees]]"
   - "[[/_public/schema-org/Enumeration/Return_Fees_Enumeration/Restocking_Fees.public|Restocking_Fees.public]]"
   - "[[/_internal/schema-org/Enumeration/Return_Fees_Enumeration/Restocking_Fees.internal|Restocking_Fees.internal]]"
   - "[[/_protect/schema-org/Enumeration/Return_Fees_Enumeration/Restocking_Fees.protect|Restocking_Fees.protect]]"

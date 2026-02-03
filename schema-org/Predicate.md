@@ -27,8 +27,9 @@ dv_is_:
     - "[[/_private/schema-org/Predicate.private|Predicate.private]]"
     - "[[/_personal/schema-org/Predicate.personal|Predicate.personal]]"
     - "[[/_secret/schema-org/Predicate.secret|Predicate.secret]]"
+    - "[[Predicate]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Predicate|Predicate]]"
+  - "[[Predicate]]"
   - "[[/_public/schema-org/Predicate.public|Predicate.public]]"
   - "[[/_internal/schema-org/Predicate.internal|Predicate.internal]]"
   - "[[/_protect/schema-org/Predicate.protect|Predicate.protect]]"

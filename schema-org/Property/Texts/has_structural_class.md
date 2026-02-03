@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_structural_class.private|has_structural_class.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_structural_class.personal|has_structural_class.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_structural_class.secret|has_structural_class.secret]]"
+    - "[[has_structural_class]]"
 dv_has_domain: Joint
 dv_has_name: has_text_of_structural_class
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_structural_class|has_structural_class]]"
+  - "[[has_structural_class]]"
   - "[[/_public/schema-org/Property/Texts/has_structural_class.public|has_structural_class.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_structural_class.internal|has_structural_class.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_structural_class.protect|has_structural_class.protect]]"

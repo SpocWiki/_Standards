@@ -95,10 +95,10 @@ while numbers alone should be assumed to be a value in meters.
 Unlike [[has_place_longitude|longitude]] and [[has_place_latitude|latitude]] which are always given in Degrees. 
 
 Use it like this: 
-- #has_/place_/elevation_/meter :: Number   
-- has_place_elevation_meter :: Number   
-- #has_/place_/elevation :: Number   
-- has_place_elevation :: Number   
+- #has_/place_/elevation_/meter : : Number   
+- has_place_elevation_meter : : Number   
+- #has_/place_/elevation : : Number   
+- has_place_elevation : : Number   
 
 The elevation of a location (<a href="https://en.wikipedia.org/wiki/World_Geodetic_System">WGS 84</a>). 
 

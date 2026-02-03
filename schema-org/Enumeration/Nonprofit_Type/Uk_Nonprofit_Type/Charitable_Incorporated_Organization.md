@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Charitable_Incorporated_Organization.private|Charitable_Incorporated_Organization.private]]"
     - "[[/_personal/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Charitable_Incorporated_Organization.personal|Charitable_Incorporated_Organization.personal]]"
     - "[[/_secret/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Charitable_Incorporated_Organization.secret|Charitable_Incorporated_Organization.secret]]"
+    - "[[Charitable_Incorporated_Organization]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../UKNonprofitType]]"
 dv_is_enum_of: "[[../UKNonprofitType]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Charitable_Incorporated_Organization|Charitable_Incorporated_Organization]]"
+  - "[[Charitable_Incorporated_Organization]]"
   - "[[/_public/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Charitable_Incorporated_Organization.public|Charitable_Incorporated_Organization.public]]"
   - "[[/_internal/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Charitable_Incorporated_Organization.internal|Charitable_Incorporated_Organization.internal]]"
   - "[[/_protect/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Charitable_Incorporated_Organization.protect|Charitable_Incorporated_Organization.protect]]"

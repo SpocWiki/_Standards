@@ -10,39 +10,65 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - terms-per-year
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_terms-per-year
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_terms-per-year
 type: Predi_Quantity
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[has_value_for_terms_per_year]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_terms_per_year.public|has_value_for_terms_per_year.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_terms_per_year.internal|has_value_for_terms_per_year.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_terms_per_year.protect|has_value_for_terms_per_year.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_terms_per_year.private|has_value_for_terms_per_year.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_terms_per_year.personal|has_value_for_terms_per_year.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_terms_per_year.secret|has_value_for_terms_per_year.secret]]"
+dv_has_:
+  domain: EducationalOccupationalProgram
+  name: has_value_for_terms_per_year
+  range: Number
+dv_is_part_of: "pending:"
+dv_has_domain: EducationalOccupationalProgram
+dv_has_name: has_value_for_terms_per_year
+dv_has_range: Number
+dv_is_same_as:
+  - "[[has_value_for_terms_per_year]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_terms_per_year.public|has_value_for_terms_per_year.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_terms_per_year.internal|has_value_for_terms_per_year.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_terms_per_year.protect|has_value_for_terms_per_year.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_terms_per_year.private|has_value_for_terms_per_year.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_terms_per_year.personal|has_value_for_terms_per_year.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_terms_per_year.secret|has_value_for_terms_per_year.secret]]"
 ---
 
 Predicate to describe the Quantity of EducationalOccupationalProgram.
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/value_for_/terms_per_year :: Number   
-- has_value_for_terms_per_year :: Number   
+- #has_/value_for_/terms_per_year : : Number   
+- has_value_for_terms_per_year : : Number   
 
 The number of times terms of study are offered per year. Semesters and quarters are common units for term. For example, if the student can only take 2 semesters for the program in one year, then termsPerYear should be 2.
 
 Predicate describes that: 
 
-#has_/domain  :: EducationalOccupationalProgram  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: has_value_for_terms_per_year )
-(has_/range :: Number )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

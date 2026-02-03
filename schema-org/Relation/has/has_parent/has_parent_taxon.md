@@ -71,8 +71,8 @@ has_inverse = `=this.dv_has_inverse`
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/parent_/taxon :: `=this.dv_has_range` 
-- has_parent_taxon :: `=this.dv_has_range`  
+- #has_/parent_/taxon : : `=this.dv_has_range` 
+- has_parent_taxon : : `=this.dv_has_range`  
 
 Closest parent taxon of the Subject [[../../../../bio/Taxon_Rank/Taxon|Taxon]].
 

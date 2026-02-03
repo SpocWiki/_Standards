@@ -10,39 +10,65 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - training-salary
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_training-salary
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_training-salary
 type: Predi_Quantity
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[has_value_for_training_salary]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_training_salary.public|has_value_for_training_salary.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_training_salary.internal|has_value_for_training_salary.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_training_salary.protect|has_value_for_training_salary.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_training_salary.private|has_value_for_training_salary.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_training_salary.personal|has_value_for_training_salary.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_training_salary.secret|has_value_for_training_salary.secret]]"
+dv_has_:
+  domain: EducationalOccupationalProgram, WorkBasedProgram
+  name: has_value_for_training_salary
+  range: MonetaryAmountDistribution
+dv_is_part_of: "pending:"
+dv_has_domain: EducationalOccupationalProgram, WorkBasedProgram
+dv_has_name: has_value_for_training_salary
+dv_has_range: MonetaryAmountDistribution
+dv_is_same_as:
+  - "[[has_value_for_training_salary]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_training_salary.public|has_value_for_training_salary.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_training_salary.internal|has_value_for_training_salary.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_training_salary.protect|has_value_for_training_salary.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_training_salary.private|has_value_for_training_salary.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_training_salary.personal|has_value_for_training_salary.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_training_salary.secret|has_value_for_training_salary.secret]]"
 ---
 
 Predicate to describe the Quantity of EducationalOccupationalProgram, WorkBasedProgram.
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/value_for_/training_salary :: MonetaryAmountDistribution   
-- has_value_for_training_salary :: MonetaryAmountDistribution   
+- #has_/value_for_/training_salary : : MonetaryAmountDistribution   
+- has_value_for_training_salary : : MonetaryAmountDistribution   
 
 The estimated salary earned while in the program.
 
 Predicate describes that: 
 
-#has_/domain  :: EducationalOccupationalProgram, WorkBasedProgram  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: has_value_for_training_salary )
-(has_/range :: MonetaryAmountDistribution )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

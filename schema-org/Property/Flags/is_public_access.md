@@ -39,11 +39,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Flags/is_public_access.private|is_public_access.private]]"
     - "[[/_personal/schema-org/Property/Flags/is_public_access.personal|is_public_access.personal]]"
     - "[[/_secret/schema-org/Property/Flags/is_public_access.secret|is_public_access.secret]]"
+    - "[[is_public_access]]"
 dv_has_domain: Place
 dv_has_name: is_public_access
 dv_has_range: Boolean
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Flags/is_public_access|is_public_access]]"
+  - "[[is_public_access]]"
   - "[[/_public/schema-org/Property/Flags/is_public_access.public|is_public_access.public]]"
   - "[[/_internal/schema-org/Property/Flags/is_public_access.internal|is_public_access.internal]]"
   - "[[/_protect/schema-org/Property/Flags/is_public_access.protect|is_public_access.protect]]"

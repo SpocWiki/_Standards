@@ -10,39 +10,65 @@ cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - number_of_bathrooms_total
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_number_of_bathrooms_total
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Count
 title: has_number_of_bathrooms_total
 type: Predi_Count
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[has_number_of_bathrooms_total]]"
+    - "[[/_public/schema-org/Property/has_number_of/has_number_of_bathrooms_total.public|has_number_of_bathrooms_total.public]]"
+    - "[[/_internal/schema-org/Property/has_number_of/has_number_of_bathrooms_total.internal|has_number_of_bathrooms_total.internal]]"
+    - "[[/_protect/schema-org/Property/has_number_of/has_number_of_bathrooms_total.protect|has_number_of_bathrooms_total.protect]]"
+    - "[[/_private/schema-org/Property/has_number_of/has_number_of_bathrooms_total.private|has_number_of_bathrooms_total.private]]"
+    - "[[/_personal/schema-org/Property/has_number_of/has_number_of_bathrooms_total.personal|has_number_of_bathrooms_total.personal]]"
+    - "[[/_secret/schema-org/Property/has_number_of/has_number_of_bathrooms_total.secret|has_number_of_bathrooms_total.secret]]"
+dv_has_:
+  domain: Accommodation, FloorPlan
+  name: has_number_of_bathrooms_total
+  range: Integer
+dv_is_part_of: "pending:"
+dv_has_domain: Accommodation, FloorPlan
+dv_has_name: has_number_of_bathrooms_total
+dv_has_range: Integer
+dv_is_same_as:
+  - "[[has_number_of_bathrooms_total]]"
+  - "[[/_public/schema-org/Property/has_number_of/has_number_of_bathrooms_total.public|has_number_of_bathrooms_total.public]]"
+  - "[[/_internal/schema-org/Property/has_number_of/has_number_of_bathrooms_total.internal|has_number_of_bathrooms_total.internal]]"
+  - "[[/_protect/schema-org/Property/has_number_of/has_number_of_bathrooms_total.protect|has_number_of_bathrooms_total.protect]]"
+  - "[[/_private/schema-org/Property/has_number_of/has_number_of_bathrooms_total.private|has_number_of_bathrooms_total.private]]"
+  - "[[/_personal/schema-org/Property/has_number_of/has_number_of_bathrooms_total.personal|has_number_of_bathrooms_total.personal]]"
+  - "[[/_secret/schema-org/Property/has_number_of/has_number_of_bathrooms_total.secret|has_number_of_bathrooms_total.secret]]"
 ---
 
 Predicate to describe the Number of Accommodation, FloorPlan.
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/number_of_/bathrooms_total :: Integer   
-- has_number_of_bathrooms_total :: Integer   
+- #has_/number_of_/bathrooms_total : : Integer   
+- has_number_of_bathrooms_total : : Integer   
 
 The total integer number of bathrooms in some [[../../../Earth/Geography/Place/Accommodation]], following real estate conventions as <a href="https://ddwiki.reso.org/display/DDW17/BathroomsTotalInteger+Field">documented in RESO</a>: "The simple sum of the number of bathrooms. For example for a property with two Full Bathrooms and one Half Bathroom, the Bathrooms Total Integer will be 3.". See also [[numberOfRooms]].
 
 Predicate describes that: 
 
-#has_/domain  :: Accommodation, FloorPlan  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: has_number_of_bathrooms_total )
-(has_/range :: Integer )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

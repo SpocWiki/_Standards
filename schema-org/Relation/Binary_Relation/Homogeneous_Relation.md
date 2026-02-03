@@ -17,8 +17,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/Binary_Relation/Homogeneous_Relation.private|Homogeneous_Relation.private]]"
     - "[[/_personal/schema-org/Relation/Binary_Relation/Homogeneous_Relation.personal|Homogeneous_Relation.personal]]"
     - "[[/_secret/schema-org/Relation/Binary_Relation/Homogeneous_Relation.secret|Homogeneous_Relation.secret]]"
+    - "[[Homogeneous_Relation]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/Binary_Relation/Homogeneous_Relation|Homogeneous_Relation]]"
+  - "[[Homogeneous_Relation]]"
   - "[[/_public/schema-org/Relation/Binary_Relation/Homogeneous_Relation.public|Homogeneous_Relation.public]]"
   - "[[/_internal/schema-org/Relation/Binary_Relation/Homogeneous_Relation.internal|Homogeneous_Relation.internal]]"
   - "[[/_protect/schema-org/Relation/Binary_Relation/Homogeneous_Relation.protect|Homogeneous_Relation.protect]]"

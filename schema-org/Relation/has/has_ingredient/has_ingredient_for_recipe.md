@@ -72,8 +72,8 @@ is_similar_to = `=this.dv_is_similar_to`
 Predicate to describe the Text of Recipe.
 
 Use it like this: 
-- #has_/has_ingredient_/for_recipe :: [[../../../Class/is_a_/Data_Type/Text|Text]]    
-- has_ingredient_for_recipe :: [[../../../Class/is_a_/Data_Type/Text|Text]]  
+- #has_/has_ingredient_/for_recipe : : [[../../../Class/is_a_/Data_Type/Text|Text]]    
+- has_ingredient_for_recipe : : [[../../../Class/is_a_/Data_Type/Text|Text]]  
 
 One of the ingredients used in the Subject-recipe, e.g. sugar, flour or garlic.
 

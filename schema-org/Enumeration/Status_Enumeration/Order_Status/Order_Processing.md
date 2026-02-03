@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Processing.private|Order_Processing.private]]"
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Processing.personal|Order_Processing.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Processing.secret|Order_Processing.secret]]"
+    - "[[Order_Processing]]"
 dv_has_parent_class: "[[../OrderStatus]]"
 dv_is_enum_of: "[[../OrderStatus]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Processing|Order_Processing]]"
+  - "[[Order_Processing]]"
   - "[[/_public/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Processing.public|Order_Processing.public]]"
   - "[[/_internal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Processing.internal|Order_Processing.internal]]"
   - "[[/_protect/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Processing.protect|Order_Processing.protect]]"

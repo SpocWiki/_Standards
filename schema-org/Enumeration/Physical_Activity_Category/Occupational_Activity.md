@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Physical_Activity_Category/Occupational_Activity.private|Occupational_Activity.private]]"
     - "[[/_personal/schema-org/Enumeration/Physical_Activity_Category/Occupational_Activity.personal|Occupational_Activity.personal]]"
     - "[[/_secret/schema-org/Enumeration/Physical_Activity_Category/Occupational_Activity.secret|Occupational_Activity.secret]]"
+    - "[[Occupational_Activity]]"
 dv_has_parent_class: "[[../PhysicalActivityCategory]]"
 dv_is_enum_of: "[[../PhysicalActivityCategory]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Physical_Activity_Category/Occupational_Activity|Occupational_Activity]]"
+  - "[[Occupational_Activity]]"
   - "[[/_public/schema-org/Enumeration/Physical_Activity_Category/Occupational_Activity.public|Occupational_Activity.public]]"
   - "[[/_internal/schema-org/Enumeration/Physical_Activity_Category/Occupational_Activity.internal|Occupational_Activity.internal]]"
   - "[[/_protect/schema-org/Enumeration/Physical_Activity_Category/Occupational_Activity.protect|Occupational_Activity.protect]]"

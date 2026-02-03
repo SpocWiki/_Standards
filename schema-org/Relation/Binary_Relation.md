@@ -39,10 +39,11 @@ dv_is_:
     - "[[/_private/schema-org/Relation/Binary_Relation.private|Binary_Relation.private]]"
     - "[[/_personal/schema-org/Relation/Binary_Relation.personal|Binary_Relation.personal]]"
     - "[[/_secret/schema-org/Relation/Binary_Relation.secret|Binary_Relation.secret]]"
+    - "[[Binary_Relation]]"
 dv_is_same_as:
   - "[[_Standards/WikiData/WD~binary_relation,130901]]"
   - "[[_Standards/WikiData/WD~,]]"
-  - "[[/_Standards/schema-org/Relation/Binary_Relation|Binary_Relation]]"
+  - "[[Binary_Relation]]"
   - "[[/_public/schema-org/Relation/Binary_Relation.public|Binary_Relation.public]]"
   - "[[/_internal/schema-org/Relation/Binary_Relation.internal|Binary_Relation.internal]]"
   - "[[/_protect/schema-org/Relation/Binary_Relation.protect|Binary_Relation.protect]]"

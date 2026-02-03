@@ -41,11 +41,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_location/has_location_spatial.private|has_location_spatial.private]]"
     - "[[/_personal/schema-org/Property/has_location/has_location_spatial.personal|has_location_spatial.personal]]"
     - "[[/_secret/schema-org/Property/has_location/has_location_spatial.secret|has_location_spatial.secret]]"
+    - "[[has_location_spatial]]"
 dv_has_domain: CreativeWork
 dv_has_name: has_location_spatial
 dv_has_range: Place
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_location/has_location_spatial|has_location_spatial]]"
+  - "[[has_location_spatial]]"
   - "[[/_public/schema-org/Property/has_location/has_location_spatial.public|has_location_spatial.public]]"
   - "[[/_internal/schema-org/Property/has_location/has_location_spatial.internal|has_location_spatial.internal]]"
   - "[[/_protect/schema-org/Property/has_location/has_location_spatial.protect|has_location_spatial.protect]]"

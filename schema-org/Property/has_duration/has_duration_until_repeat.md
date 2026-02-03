@@ -44,20 +44,23 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_duration_of/has_duration_until_repeat.private|has_duration_until_repeat.private]]"
     - "[[/_personal/schema-org/Property/has_duration_of/has_duration_until_repeat.personal|has_duration_until_repeat.personal]]"
     - "[[/_secret/schema-org/Property/has_duration_of/has_duration_until_repeat.secret|has_duration_until_repeat.secret]]"
+    - "[[has_duration_until_repeat]]"
+  similar_to: "[[../has_duration]]"
 dv_has_name: has_duration_until_repeat
 dv_is_same_as:
-  - "[[has_duration_until_repeat|has_duration_until_repeat]]"
+  - "[[has_duration_until_repeat]]"
   - "[[/_public/schema-org/Property/has_duration_of/has_duration_until_repeat.public|has_duration_until_repeat.public]]"
   - "[[/_internal/schema-org/Property/has_duration_of/has_duration_until_repeat.internal|has_duration_until_repeat.internal]]"
   - "[[/_protect/schema-org/Property/has_duration_of/has_duration_until_repeat.protect|has_duration_until_repeat.protect]]"
   - "[[/_private/schema-org/Property/has_duration_of/has_duration_until_repeat.private|has_duration_until_repeat.private]]"
   - "[[/_personal/schema-org/Property/has_duration_of/has_duration_until_repeat.personal|has_duration_until_repeat.personal]]"
   - "[[/_secret/schema-org/Property/has_duration_of/has_duration_until_repeat.secret|has_duration_until_repeat.secret]]"
+dv_is_similar_to: "[[../has_duration]]"
 ---
 
 # [[has_duration_until_repeat]] 
 
-#is_/similar_to :: [[../has_duration]]
+is_similar_to = `=this.dv_is_similar_to` 
 
 Predicate to describe the Duration of a [[../../Class/is_a_/Intangible/Schedule|Schedule]].
 

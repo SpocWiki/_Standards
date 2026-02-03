@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_dosage_form.private|has_dosage_form.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_dosage_form.personal|has_dosage_form.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_dosage_form.secret|has_dosage_form.secret]]"
+    - "[[has_dosage_form]]"
 dv_has_domain: Drug
 dv_has_name: has_text_of_dosage_form
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_dosage_form|has_dosage_form]]"
+  - "[[has_dosage_form]]"
   - "[[/_public/schema-org/Property/Texts/has_dosage_form.public|has_dosage_form.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_dosage_form.internal|has_dosage_form.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_dosage_form.protect|has_dosage_form.protect]]"

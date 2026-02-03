@@ -40,9 +40,10 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_Date_Time/has_time_of_dissolution.private|has_time_of_dissolution.private]]"
     - "[[/_personal/schema-org/Property/has_Date_Time/has_time_of_dissolution.personal|has_time_of_dissolution.personal]]"
     - "[[/_secret/schema-org/Property/has_Date_Time/has_time_of_dissolution.secret|has_time_of_dissolution.secret]]"
+    - "[[has_time_of_dissolution]]"
 dv_has_name: has_time_of_dissolution
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_of_dissolution|has_time_of_dissolution]]"
+  - "[[has_time_of_dissolution]]"
   - "[[/_public/schema-org/Property/has_Date_Time/has_time_of_dissolution.public|has_time_of_dissolution.public]]"
   - "[[/_internal/schema-org/Property/has_Date_Time/has_time_of_dissolution.internal|has_time_of_dissolution.internal]]"
   - "[[/_protect/schema-org/Property/has_Date_Time/has_time_of_dissolution.protect|has_time_of_dissolution.protect]]"

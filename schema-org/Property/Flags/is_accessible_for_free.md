@@ -40,11 +40,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Flags/is_accessible_for_free.private|is_accessible_for_free.private]]"
     - "[[/_personal/schema-org/Property/Flags/is_accessible_for_free.personal|is_accessible_for_free.personal]]"
     - "[[/_secret/schema-org/Property/Flags/is_accessible_for_free.secret|is_accessible_for_free.secret]]"
+    - "[[is_accessible_for_free]]"
 dv_has_domain: CreativeWork, Event, Place
 dv_has_name: is_accessible_for_free
 dv_has_range: Boolean
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Flags/is_accessible_for_free|is_accessible_for_free]]"
+  - "[[is_accessible_for_free]]"
   - "[[/_public/schema-org/Property/Flags/is_accessible_for_free.public|is_accessible_for_free.public]]"
   - "[[/_internal/schema-org/Property/Flags/is_accessible_for_free.internal|is_accessible_for_free.internal]]"
   - "[[/_protect/schema-org/Property/Flags/is_accessible_for_free.protect|is_accessible_for_free.protect]]"

@@ -66,7 +66,7 @@ is_a = `=this.dv_is_a`
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/game_availability_type :: GameAvailabilityEnumeration, Text  
+- #has_/game_availability_type : : GameAvailabilityEnumeration, Text  
 - has_game_availability_type = `=this.dv_has_game_availability_type`  
 
 Indicates the availability type of the game content associated with this action, such as whether it is a full version or a demo.

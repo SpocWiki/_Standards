@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_course_mode.private|has_course_mode.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_course_mode.personal|has_course_mode.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_course_mode.secret|has_course_mode.secret]]"
+    - "[[has_course_mode]]"
 dv_has_domain: CourseInstance
 dv_has_name: has_text_of_course_mode
 dv_has_range: Text, URL
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_course_mode|has_course_mode]]"
+  - "[[has_course_mode]]"
   - "[[/_public/schema-org/Property/Texts/has_course_mode.public|has_course_mode.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_course_mode.internal|has_course_mode.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_course_mode.protect|has_course_mode.protect]]"

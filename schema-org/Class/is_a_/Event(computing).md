@@ -9,9 +9,11 @@ dv_is_:
     - "[[/_private/schema-org/Class/is_a_/Event(computing).private|Event(computing).private]]"
     - "[[/_personal/schema-org/Class/is_a_/Event(computing).personal|Event(computing).personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Event(computing).secret|Event(computing).secret]]"
+    - 
+    - "[[Event(computing)]]"
 dv_is_same_as:
   - 
-  - "[[/_Standards/schema-org/Class/is_a_/Event(computing)|Event(computing)]]"
+  - "[[Event(computing)]]"
   - "[[/_public/schema-org/Class/is_a_/Event(computing).public|Event(computing).public]]"
   - "[[/_internal/schema-org/Class/is_a_/Event(computing).internal|Event(computing).internal]]"
   - "[[/_protect/schema-org/Class/is_a_/Event(computing).protect|Event(computing).protect]]"

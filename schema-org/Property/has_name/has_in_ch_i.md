@@ -11,32 +11,61 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - in
   - ch
   - i
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_in_ch_i
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_in_ch_i
 type: Pred_Text
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[has_in_ch_i]]"
+    - "[[/_public/schema-org/Property/has_name/has_in_ch_i.public|has_in_ch_i.public]]"
+    - "[[/_internal/schema-org/Property/has_name/has_in_ch_i.internal|has_in_ch_i.internal]]"
+    - "[[/_protect/schema-org/Property/has_name/has_in_ch_i.protect|has_in_ch_i.protect]]"
+    - "[[/_private/schema-org/Property/has_name/has_in_ch_i.private|has_in_ch_i.private]]"
+    - "[[/_personal/schema-org/Property/has_name/has_in_ch_i.personal|has_in_ch_i.personal]]"
+    - "[[/_secret/schema-org/Property/has_name/has_in_ch_i.secret|has_in_ch_i.secret]]"
+dv_has_:
+  domain: "[[../../Class/is_a_/Bio_Chem_Entity/Molecular_Entity|Molecular_Entity]]"
+  name: has_text_of_in_ch_i
+  range: Text
+  parent_:
+    property: "[[../../Relation/has/has_representation|has_representation]]"
+dv_is_part_of: "pending:"
+dv_has_domain: "[[../../Class/is_a_/Bio_Chem_Entity/Molecular_Entity|Molecular_Entity]]"
+dv_has_name: has_text_of_in_ch_i
+dv_has_range: Text
+dv_has_parent_property: "[[../../Relation/has/has_representation|has_representation]]"
+dv_is_same_as:
+  - "[[has_in_ch_i]]"
+  - "[[/_public/schema-org/Property/has_name/has_in_ch_i.public|has_in_ch_i.public]]"
+  - "[[/_internal/schema-org/Property/has_name/has_in_ch_i.internal|has_in_ch_i.internal]]"
+  - "[[/_protect/schema-org/Property/has_name/has_in_ch_i.protect|has_in_ch_i.protect]]"
+  - "[[/_private/schema-org/Property/has_name/has_in_ch_i.private|has_in_ch_i.private]]"
+  - "[[/_personal/schema-org/Property/has_name/has_in_ch_i.personal|has_in_ch_i.personal]]"
+  - "[[/_secret/schema-org/Property/has_name/has_in_ch_i.secret|has_in_ch_i.secret]]"
 ---
 
 Predicate to describe the Text of a [[../../Class/is_a_/Bio_Chem_Entity/Molecular_Entity|Molecular_Entity]]  .
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/text_of_/in_ch_i :: Text   
-- has_text_of_in_ch_i :: Text   
+- #has_/text_of_/in_ch_i : : Text   
+- has_text_of_in_ch_i : : Text   
 
 Non-proprietary identifier for molecular entity 
 that can be used in printed and electronic data sources 
@@ -44,11 +73,11 @@ thus enabling easier linking of diverse data compilations.
 
 Predicated describes that: 
 
-#has_/domain  :: [[../../Class/is_a_/Bio_Chem_Entity/Molecular_Entity|Molecular_Entity]]  
-(has_/name :: has_text_of_in_ch_i )
-(has_/range :: Text )
+has_domain = `=this.dv_has_domain` 
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#has_/parent_/property  :: [[../../Relation/has/has_representation|has_representation]]  
+has_parent_property = `=this.dv_has_parent_property` 
 
 ## Confidential Links & Embeds: 
 

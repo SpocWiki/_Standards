@@ -18,9 +18,10 @@ dv_is_:
     - "[[/_private/schema-org/Relation/Ternary_Relation.private|Ternary_Relation.private]]"
     - "[[/_personal/schema-org/Relation/Ternary_Relation.personal|Ternary_Relation.personal]]"
     - "[[/_secret/schema-org/Relation/Ternary_Relation.secret|Ternary_Relation.secret]]"
+    - "[[Ternary_Relation]]"
 dv_is_same_as:
   - "[[_Standards/WikiData/WD~ternary_relation,3756532]]"
-  - "[[/_Standards/schema-org/Relation/Ternary_Relation|Ternary_Relation]]"
+  - "[[Ternary_Relation]]"
   - "[[/_public/schema-org/Relation/Ternary_Relation.public|Ternary_Relation.public]]"
   - "[[/_internal/schema-org/Relation/Ternary_Relation.internal|Ternary_Relation.internal]]"
   - "[[/_protect/schema-org/Relation/Ternary_Relation.protect|Ternary_Relation.protect]]"

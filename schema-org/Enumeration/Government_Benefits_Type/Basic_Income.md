@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Government_Benefits_Type/Basic_Income.private|Basic_Income.private]]"
     - "[[/_personal/schema-org/Enumeration/Government_Benefits_Type/Basic_Income.personal|Basic_Income.personal]]"
     - "[[/_secret/schema-org/Enumeration/Government_Benefits_Type/Basic_Income.secret|Basic_Income.secret]]"
+    - "[[Basic_Income]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../GovernmentBenefitsType]]"
 dv_is_enum_of: "[[../GovernmentBenefitsType]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Government_Benefits_Type/Basic_Income|Basic_Income]]"
+  - "[[Basic_Income]]"
   - "[[/_public/schema-org/Enumeration/Government_Benefits_Type/Basic_Income.public|Basic_Income.public]]"
   - "[[/_internal/schema-org/Enumeration/Government_Benefits_Type/Basic_Income.internal|Basic_Income.internal]]"
   - "[[/_protect/schema-org/Enumeration/Government_Benefits_Type/Basic_Income.protect|Basic_Income.protect]]"

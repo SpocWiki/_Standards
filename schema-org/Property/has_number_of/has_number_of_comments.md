@@ -41,11 +41,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_number_of/has_number_of_comments.private|has_number_of_comments.private]]"
     - "[[/_personal/schema-org/Property/has_number_of/has_number_of_comments.personal|has_number_of_comments.personal]]"
     - "[[/_secret/schema-org/Property/has_number_of/has_number_of_comments.secret|has_number_of_comments.secret]]"
+    - "[[has_number_of_comments]]"
 dv_has_domain: CreativeWork
 dv_has_name: has_number_of_comments
 dv_has_range: Integer
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_comments|has_number_of_comments]]"
+  - "[[has_number_of_comments]]"
   - "[[/_public/schema-org/Property/has_number_of/has_number_of_comments.public|has_number_of_comments.public]]"
   - "[[/_internal/schema-org/Property/has_number_of/has_number_of_comments.internal|has_number_of_comments.internal]]"
   - "[[/_protect/schema-org/Property/has_number_of/has_number_of_comments.protect|has_number_of_comments.protect]]"

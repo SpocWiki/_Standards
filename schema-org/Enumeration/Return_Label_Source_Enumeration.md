@@ -36,10 +36,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Return_Label_Source_Enumeration.private|Return_Label_Source_Enumeration.private]]"
     - "[[/_personal/schema-org/Enumeration/Return_Label_Source_Enumeration.personal|Return_Label_Source_Enumeration.personal]]"
     - "[[/_secret/schema-org/Enumeration/Return_Label_Source_Enumeration.secret|Return_Label_Source_Enumeration.secret]]"
+    - "[[Return_Label_Source_Enumeration]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../Enumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Return_Label_Source_Enumeration|Return_Label_Source_Enumeration]]"
+  - "[[Return_Label_Source_Enumeration]]"
   - "[[/_public/schema-org/Enumeration/Return_Label_Source_Enumeration.public|Return_Label_Source_Enumeration.public]]"
   - "[[/_internal/schema-org/Enumeration/Return_Label_Source_Enumeration.internal|Return_Label_Source_Enumeration.internal]]"
   - "[[/_protect/schema-org/Enumeration/Return_Label_Source_Enumeration.protect|Return_Label_Source_Enumeration.protect]]"

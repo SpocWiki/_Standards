@@ -106,8 +106,8 @@ Verbs:
 
 ## Use it like this: 
 
-- #is_/instance_of :: Class 
-- #is_a :: Class 
+- #is_/instance_of : : Class 
+- #is_a : : Class 
 - 
 
 for Objects

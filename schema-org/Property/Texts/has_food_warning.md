@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_food_warning.private|has_food_warning.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_food_warning.personal|has_food_warning.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_food_warning.secret|has_food_warning.secret]]"
+    - "[[has_food_warning]]"
 dv_has_domain: Drug
 dv_has_name: has_text_of_food_warning
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_food_warning|has_food_warning]]"
+  - "[[has_food_warning]]"
   - "[[/_public/schema-org/Property/Texts/has_food_warning.public|has_food_warning.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_food_warning.internal|has_food_warning.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_food_warning.protect|has_food_warning.protect]]"

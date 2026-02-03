@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_copyright_year.private|has_value_for_copyright_year.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_copyright_year.personal|has_value_for_copyright_year.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_copyright_year.secret|has_value_for_copyright_year.secret]]"
+    - "[[has_value_for_copyright_year]]"
 dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
 dv_has_name: has_value_for_copyright_year
 dv_has_range: "[[../../Class/is_a_/Data_Type/Number|Number]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_copyright_year|has_value_for_copyright_year]]"
+  - "[[has_value_for_copyright_year]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_copyright_year.public|has_value_for_copyright_year.public]]"
   - "[[/_internal/schema-org/Property/has_value_for/has_value_for_copyright_year.internal|has_value_for_copyright_year.internal]]"
   - "[[/_protect/schema-org/Property/has_value_for/has_value_for_copyright_year.protect|has_value_for_copyright_year.protect]]"

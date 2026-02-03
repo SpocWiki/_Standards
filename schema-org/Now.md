@@ -12,8 +12,9 @@ dv_is_:
     - "[[/_private/schema-org/Now.private|Now.private]]"
     - "[[/_personal/schema-org/Now.personal|Now.personal]]"
     - "[[/_secret/schema-org/Now.secret|Now.secret]]"
+    - "[[Now]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Now|Now]]"
+  - "[[Now]]"
   - "[[/_public/schema-org/Now.public|Now.public]]"
   - "[[/_internal/schema-org/Now.internal|Now.internal]]"
   - "[[/_protect/schema-org/Now.protect|Now.protect]]"

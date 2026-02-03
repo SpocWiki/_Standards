@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_software_version.private|has_software_version.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_software_version.personal|has_software_version.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_software_version.secret|has_software_version.secret]]"
+    - "[[has_software_version]]"
 dv_has_domain: SoftwareApplication
 dv_has_name: has_text_of_software_version
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_software_version|has_software_version]]"
+  - "[[has_software_version]]"
   - "[[/_public/schema-org/Property/Texts/has_software_version.public|has_software_version.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_software_version.internal|has_software_version.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_software_version.protect|has_software_version.protect]]"

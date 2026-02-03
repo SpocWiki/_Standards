@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_content_size.private|has_content_size.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_content_size.personal|has_content_size.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_content_size.secret|has_content_size.secret]]"
+    - "[[has_content_size]]"
 dv_has_domain: MediaObject
 dv_has_name: has_text_of_content_size
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_content_size|has_content_size]]"
+  - "[[has_content_size]]"
   - "[[/_public/schema-org/Property/Texts/has_content_size.public|has_content_size.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_content_size.internal|has_content_size.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_content_size.protect|has_content_size.protect]]"

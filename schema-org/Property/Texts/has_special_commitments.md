@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_special_commitments.private|has_special_commitments.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_special_commitments.personal|has_special_commitments.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_special_commitments.secret|has_special_commitments.secret]]"
+    - "[[has_special_commitments]]"
 dv_has_domain: JobPosting
 dv_has_name: has_text_of_special_commitments
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_special_commitments|has_special_commitments]]"
+  - "[[has_special_commitments]]"
   - "[[/_public/schema-org/Property/Texts/has_special_commitments.public|has_special_commitments.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_special_commitments.internal|has_special_commitments.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_special_commitments.protect|has_special_commitments.protect]]"

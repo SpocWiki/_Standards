@@ -36,9 +36,10 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Music_Release_Format_Type.private|Music_Release_Format_Type.private]]"
     - "[[/_personal/schema-org/Enumeration/Music_Release_Format_Type.personal|Music_Release_Format_Type.personal]]"
     - "[[/_secret/schema-org/Enumeration/Music_Release_Format_Type.secret|Music_Release_Format_Type.secret]]"
+    - "[[Music_Release_Format_Type]]"
 dv_has_parent_class: "[[../Enumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Music_Release_Format_Type|Music_Release_Format_Type]]"
+  - "[[Music_Release_Format_Type]]"
   - "[[/_public/schema-org/Enumeration/Music_Release_Format_Type.public|Music_Release_Format_Type.public]]"
   - "[[/_internal/schema-org/Enumeration/Music_Release_Format_Type.internal|Music_Release_Format_Type.internal]]"
   - "[[/_protect/schema-org/Enumeration/Music_Release_Format_Type.protect|Music_Release_Format_Type.protect]]"

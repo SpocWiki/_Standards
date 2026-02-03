@@ -26,7 +26,9 @@ tags:
 title: has_advance-booking-requirement
 type: Predi_Quantity
 dv_has_:
-  domain: ["[[../../../Society/Agent/Community/Organization/Business/Demand|Demand]]", "[[../../../Society/Agent/Community/Organization/Business/Offer|Offer]]"]
+  domain:
+    - "[[../../../Society/Agent/Community/Organization/Business/Demand|Demand]]"
+    - "[[../../../Society/Agent/Community/Organization/Business/Offer|Offer]]"
   name: has_value_for_advance_booking_requirement
   range: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
 dv_is_:
@@ -38,11 +40,14 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_advance_booking_requirement.private|has_value_for_advance_booking_requirement.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_advance_booking_requirement.personal|has_value_for_advance_booking_requirement.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_advance_booking_requirement.secret|has_value_for_advance_booking_requirement.secret]]"
-dv_has_domain: ["[[../../../Society/Agent/Community/Organization/Business/Demand|Demand]]", "[[../../../Society/Agent/Community/Organization/Business/Offer|Offer]]"]
+    - "[[has_value_for_advance_booking_requirement]]"
+dv_has_domain:
+  - "[[../../../Society/Agent/Community/Organization/Business/Demand|Demand]]"
+  - "[[../../../Society/Agent/Community/Organization/Business/Offer|Offer]]"
 dv_has_name: has_value_for_advance_booking_requirement
 dv_has_range: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_advance_booking_requirement|has_value_for_advance_booking_requirement]]"
+  - "[[has_value_for_advance_booking_requirement]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_advance_booking_requirement.public|has_value_for_advance_booking_requirement.public]]"
   - "[[/_internal/schema-org/Property/has_value_for/has_value_for_advance_booking_requirement.internal|has_value_for_advance_booking_requirement.internal]]"
   - "[[/_protect/schema-org/Property/has_value_for/has_value_for_advance_booking_requirement.protect|has_value_for_advance_booking_requirement.protect]]"

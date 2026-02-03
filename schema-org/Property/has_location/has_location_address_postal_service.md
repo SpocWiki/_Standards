@@ -10,37 +10,61 @@ cssclasses:
   - Predicate
   - geo
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - service_postal_address
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_location_address_postal_service
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/geo
 title: has_location_address_postal_service
 type: Pred_geo
+dv_has_:
+  domain: ServiceChannel
+  name: has_location_address_postal_service
+  range: PostalAddress
+dv_is_:
+  same_as:
+    - "[[has_location_address_postal_service]]"
+    - "[[/_public/schema-org/Property/has_location/has_location_address_postal_service.public|has_location_address_postal_service.public]]"
+    - "[[/_internal/schema-org/Property/has_location/has_location_address_postal_service.internal|has_location_address_postal_service.internal]]"
+    - "[[/_protect/schema-org/Property/has_location/has_location_address_postal_service.protect|has_location_address_postal_service.protect]]"
+    - "[[/_private/schema-org/Property/has_location/has_location_address_postal_service.private|has_location_address_postal_service.private]]"
+    - "[[/_personal/schema-org/Property/has_location/has_location_address_postal_service.personal|has_location_address_postal_service.personal]]"
+    - "[[/_secret/schema-org/Property/has_location/has_location_address_postal_service.secret|has_location_address_postal_service.secret]]"
+dv_has_domain: ServiceChannel
+dv_has_name: has_location_address_postal_service
+dv_has_range: PostalAddress
+dv_is_same_as:
+  - "[[has_location_address_postal_service]]"
+  - "[[/_public/schema-org/Property/has_location/has_location_address_postal_service.public|has_location_address_postal_service.public]]"
+  - "[[/_internal/schema-org/Property/has_location/has_location_address_postal_service.internal|has_location_address_postal_service.internal]]"
+  - "[[/_protect/schema-org/Property/has_location/has_location_address_postal_service.protect|has_location_address_postal_service.protect]]"
+  - "[[/_private/schema-org/Property/has_location/has_location_address_postal_service.private|has_location_address_postal_service.private]]"
+  - "[[/_personal/schema-org/Property/has_location/has_location_address_postal_service.personal|has_location_address_postal_service.personal]]"
+  - "[[/_secret/schema-org/Property/has_location/has_location_address_postal_service.secret|has_location_address_postal_service.secret]]"
 ---
 
 Predicate to describe the Address of the ServiceChannel.
 
 Use it like this: 
-- #has_/location_/service_postal_address :: PostalAddress   
-- has_location_address_postal_service :: PostalAddress   
+- #has_/location_/service_postal_address : : PostalAddress   
+- has_location_address_postal_service : : PostalAddress   
 
 The address for accessing the service by mail.
 
 Predicate describes that: 
 
-#has_/domain  :: ServiceChannel  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: has_location_address_postal_service )
-(has_/range :: PostalAddress )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

@@ -42,11 +42,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_title.private|has_title.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_title.personal|has_title.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_title.secret|has_title.secret]]"
+    - "[[has_title]]"
 dv_has_domain: JobPosting
 dv_has_name: has_text_of_title
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_title|has_title]]"
+  - "[[has_title]]"
   - "[[/_public/schema-org/Property/Texts/has_title.public|has_title.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_title.internal|has_title.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_title.protect|has_title.protect]]"

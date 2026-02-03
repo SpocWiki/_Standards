@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Government_Benefits_Type/Parental_Support.private|Parental_Support.private]]"
     - "[[/_personal/schema-org/Enumeration/Government_Benefits_Type/Parental_Support.personal|Parental_Support.personal]]"
     - "[[/_secret/schema-org/Enumeration/Government_Benefits_Type/Parental_Support.secret|Parental_Support.secret]]"
+    - "[[Parental_Support]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../GovernmentBenefitsType]]"
 dv_is_enum_of: "[[../GovernmentBenefitsType]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Government_Benefits_Type/Parental_Support|Parental_Support]]"
+  - "[[Parental_Support]]"
   - "[[/_public/schema-org/Enumeration/Government_Benefits_Type/Parental_Support.public|Parental_Support.public]]"
   - "[[/_internal/schema-org/Enumeration/Government_Benefits_Type/Parental_Support.internal|Parental_Support.internal]]"
   - "[[/_protect/schema-org/Enumeration/Government_Benefits_Type/Parental_Support.protect|Parental_Support.protect]]"

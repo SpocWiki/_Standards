@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_web_feed]]"
+    - "[[/_public/schema-org/Relation/has/has_web_feed.public|has_web_feed.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_web_feed.internal|has_web_feed.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_web_feed.protect|has_web_feed.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_web_feed.private|has_web_feed.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_web_feed.personal|has_web_feed.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_web_feed.secret|has_web_feed.secret]]"
+dv_is_same_as:
+  - "[[has_web_feed]]"
+  - "[[/_public/schema-org/Relation/has/has_web_feed.public|has_web_feed.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_web_feed.internal|has_web_feed.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_web_feed.protect|has_web_feed.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_web_feed.private|has_web_feed.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_web_feed.personal|has_web_feed.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_web_feed.secret|has_web_feed.secret]]"
+---
 ﻿---
 dv_has_:
   web_feed: DataFeed, URL
@@ -71,7 +90,7 @@ is_a = `=this.dv_is_a`
 has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
-- #has_/web_feed :: DataFeed, URL  
+- #has_/web_feed : : DataFeed, URL  
 - has_web_feed = `=this.dv_has_web_feed`  
 - is_web_feed_of : : `=this.dv_has_domain` 
 - #is_/web_feed_of : : `=this.dv_has_domain`

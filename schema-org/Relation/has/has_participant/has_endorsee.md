@@ -61,7 +61,7 @@ is_a = `=this.dv_is_a`
 #has_/inverse :: 
 
 Use it like this: 
-- #has_/endorsee :: Organization, Person  
+- #has_/endorsee : : Organization, Person  
 - has_endorsee = `=this.dv_has_endorsee`  
 
 A sub property of participant. The person/organization being supported.

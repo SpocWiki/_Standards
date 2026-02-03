@@ -40,9 +40,10 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_Date_Time/has_time_owned_through.private|has_time_owned_through.private]]"
     - "[[/_personal/schema-org/Property/has_Date_Time/has_time_owned_through.personal|has_time_owned_through.personal]]"
     - "[[/_secret/schema-org/Property/has_Date_Time/has_time_owned_through.secret|has_time_owned_through.secret]]"
+    - "[[has_time_owned_through]]"
 dv_has_name: has_time_owned_through
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_owned_through|has_time_owned_through]]"
+  - "[[has_time_owned_through]]"
   - "[[/_public/schema-org/Property/has_Date_Time/has_time_owned_through.public|has_time_owned_through.public]]"
   - "[[/_internal/schema-org/Property/has_Date_Time/has_time_owned_through.internal|has_time_owned_through.internal]]"
   - "[[/_protect/schema-org/Property/has_Date_Time/has_time_owned_through.protect|has_time_owned_through.protect]]"

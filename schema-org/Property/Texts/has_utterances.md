@@ -11,39 +11,65 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - utterances
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_utterances
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_utterances
 type: Pred_Text
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[has_utterances]]"
+    - "[[/_public/schema-org/Property/Texts/has_utterances.public|has_utterances.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_utterances.internal|has_utterances.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_utterances.protect|has_utterances.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_utterances.private|has_utterances.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_utterances.personal|has_utterances.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_utterances.secret|has_utterances.secret]]"
+dv_has_:
+  domain: HyperTocEntry
+  name: has_text_of_utterances
+  range: Text
+dv_is_part_of: "pending:"
+dv_has_domain: HyperTocEntry
+dv_has_name: has_text_of_utterances
+dv_has_range: Text
+dv_is_same_as:
+  - "[[has_utterances]]"
+  - "[[/_public/schema-org/Property/Texts/has_utterances.public|has_utterances.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_utterances.internal|has_utterances.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_utterances.protect|has_utterances.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_utterances.private|has_utterances.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_utterances.personal|has_utterances.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_utterances.secret|has_utterances.secret]]"
 ---
 
 Predicate to describe the Text of HyperTocEntry.
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/text_of_/utterances :: Text   
-- has_text_of_utterances :: Text   
+- #has_/text_of_/utterances : : Text   
+- has_text_of_utterances : : Text   
 
 Text of an utterances (spoken words, lyrics etc.) that occurs at a certain section of a media object, represented as a [[HyperTocEntry]].
 
 Predicated describes that: 
 
-#has_/domain  :: HyperTocEntry  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: has_text_of_utterances )
-(has_/range :: Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

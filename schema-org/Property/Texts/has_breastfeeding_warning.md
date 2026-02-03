@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_breastfeeding_warning.private|has_breastfeeding_warning.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_breastfeeding_warning.personal|has_breastfeeding_warning.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_breastfeeding_warning.secret|has_breastfeeding_warning.secret]]"
+    - "[[has_breastfeeding_warning]]"
 dv_has_domain: Drug
 dv_has_name: has_text_of_breastfeeding_warning
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_breastfeeding_warning|has_breastfeeding_warning]]"
+  - "[[has_breastfeeding_warning]]"
   - "[[/_public/schema-org/Property/Texts/has_breastfeeding_warning.public|has_breastfeeding_warning.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_breastfeeding_warning.internal|has_breastfeeding_warning.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_breastfeeding_warning.protect|has_breastfeeding_warning.protect]]"

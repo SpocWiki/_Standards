@@ -11,9 +11,10 @@ dv_is_:
     - "[[/_private/schema-org/Class/is_a_/Data_Type/Text/Cuid2.private|Cuid2.private]]"
     - "[[/_personal/schema-org/Class/is_a_/Data_Type/Text/Cuid2.personal|Cuid2.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Data_Type/Text/Cuid2.secret|Cuid2.secret]]"
+    - "[[Cuid2]]"
 dv_has_url_for_code_repository: https://github.com/paralleldrive/cuid2
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Text/Cuid2|Cuid2]]"
+  - "[[Cuid2]]"
   - "[[/_public/schema-org/Class/is_a_/Data_Type/Text/Cuid2.public|Cuid2.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Data_Type/Text/Cuid2.internal|Cuid2.internal]]"
   - "[[/_protect/schema-org/Class/is_a_/Data_Type/Text/Cuid2.protect|Cuid2.protect]]"

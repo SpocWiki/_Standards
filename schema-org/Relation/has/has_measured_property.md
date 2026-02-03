@@ -67,8 +67,8 @@ is_a = `=this.dv_is_a`
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/measured_property :: `=this.dv_has_range`   
-- has_measured_property :: `=this.dv_has_range`   
+- #has_/measured_property : : `=this.dv_has_range`   
+- has_measured_property : : `=this.dv_has_range`   
 
 The measuredProperty of an [[Observation]], either a schema.org property, 
 a property from other RDF-compatible systems, e.g. W3C RDF Data Cube, 

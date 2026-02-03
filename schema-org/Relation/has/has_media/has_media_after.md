@@ -85,8 +85,8 @@ is_similar_to = `=this.dv_is_similar_to`
 
 
 Use it like this: 
-- #has_/media_/after :: [[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]],  [[../../../Class/is_a_/Data_Type/Text/Url|Url]]   
-- has_media_after :: [[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]],  [[../../../Class/is_a_/Data_Type/Text/Url|Url]] 
+- #has_/media_/after : : [[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]],  [[../../../Class/is_a_/Data_Type/Text/Url|Url]]   
+- has_media_after : : [[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]],  [[../../../Class/is_a_/Data_Type/Text/Url|Url]] 
 
 A media object representing the circumstances after performing this direction.
 

@@ -37,18 +37,18 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - taxonomic_range
   - taxonomic
   - range
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_taxonomic_range
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
@@ -67,7 +67,7 @@ is_a = `=this.dv_is_a`
 has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
-- #has_/taxonomic_range :: `=this.dv_has_range` 
+- #has_/taxonomic_range : : `=this.dv_has_range` 
 - has_taxonomic_range = `=this.dv_has_range`  
 - is_taxonomic_range_of : : `=this.dv_has_domain` 
 - #is_/taxonomic_range_of : : `=this.dv_has_domain`

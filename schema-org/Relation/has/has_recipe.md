@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_recipe]]"
+    - "[[/_public/schema-org/Relation/has/has_recipe.public|has_recipe.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_recipe.internal|has_recipe.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_recipe.protect|has_recipe.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_recipe.private|has_recipe.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_recipe.personal|has_recipe.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_recipe.secret|has_recipe.secret]]"
+dv_is_same_as:
+  - "[[has_recipe]]"
+  - "[[/_public/schema-org/Relation/has/has_recipe.public|has_recipe.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_recipe.internal|has_recipe.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_recipe.protect|has_recipe.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_recipe.private|has_recipe.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_recipe.personal|has_recipe.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_recipe.secret|has_recipe.secret]]"
+---
 ﻿---
 dv_has_:
   recipe: Recipe
@@ -94,7 +113,7 @@ is_a = `=this.dv_is_a`
 has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
-- #has_/recipe :: Recipe  
+- #has_/recipe : : Recipe  
 - has_recipe = `=this.dv_has_recipe`  
 
 A sub property of instrument. The recipe/instructions used to perform the action.

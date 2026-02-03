@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Return_Fees_Enumeration/Free_Return.private|Free_Return.private]]"
     - "[[/_personal/schema-org/Enumeration/Return_Fees_Enumeration/Free_Return.personal|Free_Return.personal]]"
     - "[[/_secret/schema-org/Enumeration/Return_Fees_Enumeration/Free_Return.secret|Free_Return.secret]]"
+    - "[[Free_Return]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../ReturnFeesEnumeration]]"
 dv_is_enum_of: "[[../ReturnFeesEnumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Return_Fees_Enumeration/Free_Return|Free_Return]]"
+  - "[[Free_Return]]"
   - "[[/_public/schema-org/Enumeration/Return_Fees_Enumeration/Free_Return.public|Free_Return.public]]"
   - "[[/_internal/schema-org/Enumeration/Return_Fees_Enumeration/Free_Return.internal|Free_Return.internal]]"
   - "[[/_protect/schema-org/Enumeration/Return_Fees_Enumeration/Free_Return.protect|Free_Return.protect]]"

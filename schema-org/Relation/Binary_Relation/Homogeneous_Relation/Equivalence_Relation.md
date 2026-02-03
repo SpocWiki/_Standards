@@ -26,9 +26,10 @@ dv_is_:
     - "[[/_private/schema-org/Relation/Binary_Relation/Homogeneous_Relation/Equivalence_Relation.private|Equivalence_Relation.private]]"
     - "[[/_personal/schema-org/Relation/Binary_Relation/Homogeneous_Relation/Equivalence_Relation.personal|Equivalence_Relation.personal]]"
     - "[[/_secret/schema-org/Relation/Binary_Relation/Homogeneous_Relation/Equivalence_Relation.secret|Equivalence_Relation.secret]]"
+    - "[[Equivalence_Relation]]"
 dv_is_same_as:
   - "[[../../../../WikiData/WD~Equivalence_relation,130998|WD~Equivalence_relation,130998]]"
-  - "[[/_Standards/schema-org/Relation/Binary_Relation/Homogeneous_Relation/Equivalence_Relation|Equivalence_Relation]]"
+  - "[[Equivalence_Relation]]"
   - "[[/_public/schema-org/Relation/Binary_Relation/Homogeneous_Relation/Equivalence_Relation.public|Equivalence_Relation.public]]"
   - "[[/_internal/schema-org/Relation/Binary_Relation/Homogeneous_Relation/Equivalence_Relation.internal|Equivalence_Relation.internal]]"
   - "[[/_protect/schema-org/Relation/Binary_Relation/Homogeneous_Relation/Equivalence_Relation.protect|Equivalence_Relation.protect]]"

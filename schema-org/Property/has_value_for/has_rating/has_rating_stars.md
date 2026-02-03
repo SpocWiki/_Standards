@@ -44,6 +44,7 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_number_of/has_rating_stars.private|has_rating_stars.private]]"
     - "[[/_personal/schema-org/Property/has_number_of/has_rating_stars.personal|has_rating_stars.personal]]"
     - "[[/_secret/schema-org/Property/has_number_of/has_rating_stars.secret|has_rating_stars.secret]]"
+    - "[[has_rating_stars]]"
 dv_is_similar_to: "[[has_rating_value|has_rating_value]]"
 dv_has_domain:
   - "[[../../../../Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment|Food_Establishment]]"
@@ -51,7 +52,7 @@ dv_has_domain:
 dv_has_name: has_rating_stars
 dv_has_range: "[[../../../Class/is_a_/Intangible/Rating|Rating]]"
 dv_is_same_as:
-  - "[[has_rating_stars|has_rating_stars]]"
+  - "[[has_rating_stars]]"
   - "[[/_public/schema-org/Property/has_number_of/has_rating_stars.public|has_rating_stars.public]]"
   - "[[/_internal/schema-org/Property/has_number_of/has_rating_stars.internal|has_rating_stars.internal]]"
   - "[[/_protect/schema-org/Property/has_number_of/has_rating_stars.protect|has_rating_stars.protect]]"

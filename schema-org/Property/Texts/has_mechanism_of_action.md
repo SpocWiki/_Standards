@@ -44,11 +44,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_mechanism_of_action.private|has_mechanism_of_action.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_mechanism_of_action.personal|has_mechanism_of_action.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_mechanism_of_action.secret|has_mechanism_of_action.secret]]"
+    - "[[has_mechanism_of_action]]"
 dv_has_domain: DietarySupplement, Drug
 dv_has_name: has_text_of_mechanism_of_action
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_mechanism_of_action|has_mechanism_of_action]]"
+  - "[[has_mechanism_of_action]]"
   - "[[/_public/schema-org/Property/Texts/has_mechanism_of_action.public|has_mechanism_of_action.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_mechanism_of_action.internal|has_mechanism_of_action.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_mechanism_of_action.protect|has_mechanism_of_action.protect]]"

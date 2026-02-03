@@ -65,7 +65,7 @@ is_a = `=this.dv_is_a`
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/size_group :: SizeGroupEnumeration, Text  
+- #has_/size_group : : SizeGroupEnumeration, Text  
 - has_size_group = `=this.dv_has_size_group`  
 
 The size group (also known as "size type") for a product's size. Size groups are common in the fashion industry to define size segments and suggested audiences for wearable products. Multiple values can be combined, for example "men's big and tall", "petite maternity" or "regular"

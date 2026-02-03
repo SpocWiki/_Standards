@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Price_Type_Enumeration/List_Price.private|List_Price.private]]"
     - "[[/_personal/schema-org/Enumeration/Price_Type_Enumeration/List_Price.personal|List_Price.personal]]"
     - "[[/_secret/schema-org/Enumeration/Price_Type_Enumeration/List_Price.secret|List_Price.secret]]"
+    - "[[List_Price]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../PriceTypeEnumeration]]"
 dv_is_enum_of: "[[../PriceTypeEnumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Price_Type_Enumeration/List_Price|List_Price]]"
+  - "[[List_Price]]"
   - "[[/_public/schema-org/Enumeration/Price_Type_Enumeration/List_Price.public|List_Price.public]]"
   - "[[/_internal/schema-org/Enumeration/Price_Type_Enumeration/List_Price.internal|List_Price.internal]]"
   - "[[/_protect/schema-org/Enumeration/Price_Type_Enumeration/List_Price.protect|List_Price.protect]]"

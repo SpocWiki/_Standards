@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_natural_progression.private|has_natural_progression.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_natural_progression.personal|has_natural_progression.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_natural_progression.secret|has_natural_progression.secret]]"
+    - "[[has_natural_progression]]"
 dv_has_domain: MedicalCondition
 dv_has_name: has_text_of_natural_progression
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_natural_progression|has_natural_progression]]"
+  - "[[has_natural_progression]]"
   - "[[/_public/schema-org/Property/Texts/has_natural_progression.public|has_natural_progression.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_natural_progression.internal|has_natural_progression.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_natural_progression.protect|has_natural_progression.protect]]"

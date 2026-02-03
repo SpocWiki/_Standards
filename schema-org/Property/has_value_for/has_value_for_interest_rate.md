@@ -28,7 +28,9 @@ type: Predi_Quantity
 dv_has_:
   domain: "[[../../../Society/Agent/Community/Organization/Business/Service/Financial_Product|Financial_Product]]"
   name: has_value_for_interest_rate
-  range: ["[[../../Class/is_a_/Data_Type/Number|Number]]", "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"]
+  range:
+    - "[[../../Class/is_a_/Data_Type/Number|Number]]"
+    - "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_interest_rate|has_value_for_interest_rate]]"
@@ -38,11 +40,14 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_interest_rate.private|has_value_for_interest_rate.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_interest_rate.personal|has_value_for_interest_rate.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_interest_rate.secret|has_value_for_interest_rate.secret]]"
+    - "[[has_value_for_interest_rate]]"
 dv_has_domain: "[[../../../Society/Agent/Community/Organization/Business/Service/Financial_Product|Financial_Product]]"
 dv_has_name: has_value_for_interest_rate
-dv_has_range: ["[[../../Class/is_a_/Data_Type/Number|Number]]", "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"]
+dv_has_range:
+  - "[[../../Class/is_a_/Data_Type/Number|Number]]"
+  - "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_interest_rate|has_value_for_interest_rate]]"
+  - "[[has_value_for_interest_rate]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_interest_rate.public|has_value_for_interest_rate.public]]"
   - "[[/_internal/schema-org/Property/has_value_for/has_value_for_interest_rate.internal|has_value_for_interest_rate.internal]]"
   - "[[/_protect/schema-org/Property/has_value_for/has_value_for_interest_rate.protect|has_value_for_interest_rate.protect]]"

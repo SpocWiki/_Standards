@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_possible_complication.private|has_possible_complication.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_possible_complication.personal|has_possible_complication.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_possible_complication.secret|has_possible_complication.secret]]"
+    - "[[has_possible_complication]]"
 dv_has_domain: MedicalCondition
 dv_has_name: has_text_of_possible_complication
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_possible_complication|has_possible_complication]]"
+  - "[[has_possible_complication]]"
   - "[[/_public/schema-org/Property/Texts/has_possible_complication.public|has_possible_complication.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_possible_complication.internal|has_possible_complication.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_possible_complication.protect|has_possible_complication.protect]]"

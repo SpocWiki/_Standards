@@ -10,30 +10,56 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - account-overdraft-limit
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_account-overdraft-limit
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_account-overdraft-limit
 type: Predi_Quantity
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[has_value_for_account_overdraft_limit]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_account_overdraft_limit.public|has_value_for_account_overdraft_limit.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_account_overdraft_limit.internal|has_value_for_account_overdraft_limit.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_account_overdraft_limit.protect|has_value_for_account_overdraft_limit.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_account_overdraft_limit.private|has_value_for_account_overdraft_limit.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_account_overdraft_limit.personal|has_value_for_account_overdraft_limit.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_account_overdraft_limit.secret|has_value_for_account_overdraft_limit.secret]]"
+dv_has_:
+  domain: BankAccount
+  name: has_value_for_account_overdraft_limit
+  range: MonetaryAmount
+dv_is_part_of: "pending:"
+dv_has_domain: BankAccount
+dv_has_name: has_value_for_account_overdraft_limit
+dv_has_range: MonetaryAmount
+dv_is_same_as:
+  - "[[has_value_for_account_overdraft_limit]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_account_overdraft_limit.public|has_value_for_account_overdraft_limit.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_account_overdraft_limit.internal|has_value_for_account_overdraft_limit.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_account_overdraft_limit.protect|has_value_for_account_overdraft_limit.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_account_overdraft_limit.private|has_value_for_account_overdraft_limit.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_account_overdraft_limit.personal|has_value_for_account_overdraft_limit.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_account_overdraft_limit.secret|has_value_for_account_overdraft_limit.secret]]"
 ---
 
 Predicate to describe the Quantity of BankAccount.
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/value_for_/account_overdraft_limit :: MonetaryAmount   
-- has_value_for_account_overdraft_limit :: MonetaryAmount   
+- #has_/value_for_/account_overdraft_limit : : MonetaryAmount   
+- has_value_for_account_overdraft_limit : : MonetaryAmount   
 
 An overdraft is an extension of credit from a lending institution when an account reaches zero.
 An overdraft allows the individual to continue withdrawing money even if the account has no funds in it.
@@ -41,10 +67,10 @@ Basically the bank allows people to borrow a set amount of money.
 
 Predicate describes that: 
 
-#has_/domain  :: BankAccount  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: has_value_for_account_overdraft_limit )
-(has_/range :: MonetaryAmount )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

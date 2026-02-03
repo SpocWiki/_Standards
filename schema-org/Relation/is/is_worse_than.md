@@ -11,10 +11,11 @@ dv_is_:
     - "[[/_private/schema-org/Relation/is/is_worse_than.private|is_worse_than.private]]"
     - "[[/_personal/schema-org/Relation/is/is_worse_than.personal|is_worse_than.personal]]"
     - "[[/_secret/schema-org/Relation/is/is_worse_than.secret|is_worse_than.secret]]"
+    - "[[is_worse_than]]"
 dv_has_inverse: "[[is_better_than]]"
 dv_is_worse_than: "[[../../Property/has_value_for/has_rating/has_rating_value|has_rating_value]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/is/is_worse_than|is_worse_than]]"
+  - "[[is_worse_than]]"
   - "[[/_public/schema-org/Relation/is/is_worse_than.public|is_worse_than.public]]"
   - "[[/_internal/schema-org/Relation/is/is_worse_than.internal|is_worse_than.internal]]"
   - "[[/_protect/schema-org/Relation/is/is_worse_than.protect|is_worse_than.protect]]"

@@ -1,71 +1,72 @@
 ---
 aliases:
-- taxi-reservation
-- taxi_reservation
-- TaxiReservation
-- is_a_taxi_reservation
-- Taxi_Reservation
-- Taxi Reservation
+  - taxi-reservation
+  - taxi_reservation
+  - TaxiReservation
+  - is_a_taxi_reservation
+  - Taxi_Reservation
+  - Taxi Reservation
 confidential: public
 cssclasses:
-- Type
+  - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
-- taxi_reservation
-layout: ''
+  - taxi_reservation
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_taxi_reservation Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
-- class/Class
-- schema-org/Class
+  - class/Class
+  - schema-org/Class
 title: is_a_taxi_reservation Class
 type: Type
 dv_is_:
   same_as:
-  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Reservation/Taxi_Reservation|Taxi_Reservation]]"
-  - "[[/_public/schema-org/Class/is_a_/Intangible/Reservation/Taxi_Reservation.public|Taxi_Reservation.public]]"
-  - "[[/_internal/schema-org/Class/is_a_/Intangible/Reservation/Taxi_Reservation.internal|Taxi_Reservation.internal]]"
-  - "[[/_protect/schema-org/Class/is_a_/Intangible/Reservation/Taxi_Reservation.protect|Taxi_Reservation.protect]]"
-  - "[[/_private/schema-org/Class/is_a_/Intangible/Reservation/Taxi_Reservation.private|Taxi_Reservation.private]]"
-  - "[[/_personal/schema-org/Class/is_a_/Intangible/Reservation/Taxi_Reservation.personal|Taxi_Reservation.personal]]"
-  - "[[/_secret/schema-org/Class/is_a_/Intangible/Reservation/Taxi_Reservation.secret|Taxi_Reservation.secret]]"
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Reservation/Taxi_Reservation|Taxi_Reservation]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Reservation/Taxi_Reservation.public|Taxi_Reservation.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Reservation/Taxi_Reservation.internal|Taxi_Reservation.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Reservation/Taxi_Reservation.protect|Taxi_Reservation.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Reservation/Taxi_Reservation.private|Taxi_Reservation.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Reservation/Taxi_Reservation.personal|Taxi_Reservation.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Reservation/Taxi_Reservation.secret|Taxi_Reservation.secret]]"
+    - "[[Taxi_Reservation]]"
 dv_has_:
   parent_class:
-  - "[[../Reservation]]"
+    - "[[../Reservation]]"
   properties:
-  - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
-  - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
-  - "[[booking_agent|booking_agent]]"
-  - "[[booking_time|booking_time]]"
-  - "[[../../../../Relation/has/has_broker|has_broker]]"
-  - "[[../../../../Property/Texts/has_description|has_description]]"
-  - "[[../../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
-  - "[[../../../../Relation/has/has_identifier|has_identifier]]"
-  - "[[../../../../Relation/has/has_image|has_image]]"
-  - "[[../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
-  - "[[modified_time|modified_time]]"
-  - "[[../../../../Property/has_name|has_name]]"
-  - "[[party_size|party_size]]"
-  - "[[pickup_location|pickup_location]]"
-  - "[[pickup_time|pickup_time]]"
-  - "[[../../../../Relation/has/has_potential_action|has_potential_action]]"
-  - "[[../../../../Property/Texts/has_price_currency|has_price_currency]]"
-  - "[[../../../../Relation/has/has_program_membership_used|has_program_membership_used]]"
-  - "[[../../../../Relation/has/has_provider|has_provider]]"
-  - "[[../../../../Relation/has/has_reservation_for|has_reservation_for]]"
-  - "[[reservation_id|reservation_id]]"
-  - "[[../../../../Relation/has/has_reservation_status|has_reservation_status]]"
-  - "[[../../../../Relation/has/has_reserved_ticket|has_reserved_ticket]]"
-  - "[[../../../../Relation/is_same_as|is_same_as]]"
-  - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
-  - "[[total_price|total_price]]"
-  - "[[../../../../Relation/has/has_under_name|has_under_name]]"
-  - "[[../../Property/has_url_for/has_url|has_url]]"
+    - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
+    - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
+    - "[[booking_agent|booking_agent]]"
+    - "[[booking_time|booking_time]]"
+    - "[[../../../../Relation/has/has_broker|has_broker]]"
+    - "[[../../../../Property/Texts/has_description|has_description]]"
+    - "[[../../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
+    - "[[../../../../Relation/has/has_identifier|has_identifier]]"
+    - "[[../../../../Relation/has/has_image|has_image]]"
+    - "[[../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+    - "[[modified_time|modified_time]]"
+    - "[[../../../../Property/has_name|has_name]]"
+    - "[[party_size|party_size]]"
+    - "[[pickup_location|pickup_location]]"
+    - "[[pickup_time|pickup_time]]"
+    - "[[../../../../Relation/has/has_potential_action|has_potential_action]]"
+    - "[[../../../../Property/Texts/has_price_currency|has_price_currency]]"
+    - "[[../../../../Relation/has/has_program_membership_used|has_program_membership_used]]"
+    - "[[../../../../Relation/has/has_provider|has_provider]]"
+    - "[[../../../../Relation/has/has_reservation_for|has_reservation_for]]"
+    - "[[reservation_id|reservation_id]]"
+    - "[[../../../../Relation/has/has_reservation_status|has_reservation_status]]"
+    - "[[../../../../Relation/has/has_reserved_ticket|has_reserved_ticket]]"
+    - "[[../../../../Relation/is_same_as|is_same_as]]"
+    - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
+    - "[[total_price|total_price]]"
+    - "[[../../../../Relation/has/has_under_name|has_under_name]]"
+    - "[[../../Property/has_url_for/has_url|has_url]]"
 dv_has_parent_class:
   - "[[../Reservation]]"
 dv_has_properties:
@@ -98,7 +99,7 @@ dv_has_properties:
   - "[[../../../../Relation/has/has_under_name|has_under_name]]"
   - "[[../../Property/has_url_for/has_url|has_url]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Reservation/Taxi_Reservation|Taxi_Reservation]]"
+  - "[[Taxi_Reservation]]"
   - "[[/_public/schema-org/Class/is_a_/Intangible/Reservation/Taxi_Reservation.public|Taxi_Reservation.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Intangible/Reservation/Taxi_Reservation.internal|Taxi_Reservation.internal]]"
   - "[[/_protect/schema-org/Class/is_a_/Intangible/Reservation/Taxi_Reservation.protect|Taxi_Reservation.protect]]"

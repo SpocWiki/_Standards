@@ -39,11 +39,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Flags/is_live.private|is_live.private]]"
     - "[[/_personal/schema-org/Property/Flags/is_live.personal|is_live.personal]]"
     - "[[/_secret/schema-org/Property/Flags/is_live.secret|is_live.secret]]"
+    - "[[is_live]]"
 dv_has_domain: BroadcastEvent
 dv_has_name: is_live
 dv_has_range: Boolean
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Flags/is_live|is_live]]"
+  - "[[is_live]]"
   - "[[/_public/schema-org/Property/Flags/is_live.public|is_live.public]]"
   - "[[/_internal/schema-org/Property/Flags/is_live.internal|is_live.internal]]"
   - "[[/_protect/schema-org/Property/Flags/is_live.protect|is_live.protect]]"

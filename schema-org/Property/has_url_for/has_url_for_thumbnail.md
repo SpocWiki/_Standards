@@ -45,11 +45,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_url_for/has_url_for_thumbnail.private|has_url_for_thumbnail.private]]"
     - "[[/_personal/schema-org/Property/has_url_for/has_url_for_thumbnail.personal|has_url_for_thumbnail.personal]]"
     - "[[/_secret/schema-org/Property/has_url_for/has_url_for_thumbnail.secret|has_url_for_thumbnail.secret]]"
+    - "[[has_url_for_thumbnail]]"
 dv_has_domain: CreativeWork
 dv_has_name: has_url_for_thumbnail_url
 dv_has_range: URL
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_url_for/has_url_for_thumbnail|has_url_for_thumbnail]]"
+  - "[[has_url_for_thumbnail]]"
   - "[[/_public/schema-org/Property/has_url_for/has_url_for_thumbnail.public|has_url_for_thumbnail.public]]"
   - "[[/_internal/schema-org/Property/has_url_for/has_url_for_thumbnail.internal|has_url_for_thumbnail.internal]]"
   - "[[/_protect/schema-org/Property/has_url_for/has_url_for_thumbnail.protect|has_url_for_thumbnail.protect]]"

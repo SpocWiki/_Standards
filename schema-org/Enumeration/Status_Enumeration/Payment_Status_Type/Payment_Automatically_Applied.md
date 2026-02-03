@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Automatically_Applied.private|Payment_Automatically_Applied.private]]"
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Automatically_Applied.personal|Payment_Automatically_Applied.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Automatically_Applied.secret|Payment_Automatically_Applied.secret]]"
+    - "[[Payment_Automatically_Applied]]"
 dv_has_parent_class: "[[../PaymentStatusType]]"
 dv_is_enum_of: "[[../PaymentStatusType]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Automatically_Applied|Payment_Automatically_Applied]]"
+  - "[[Payment_Automatically_Applied]]"
   - "[[/_public/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Automatically_Applied.public|Payment_Automatically_Applied.public]]"
   - "[[/_internal/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Automatically_Applied.internal|Payment_Automatically_Applied.internal]]"
   - "[[/_protect/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Automatically_Applied.protect|Payment_Automatically_Applied.protect]]"

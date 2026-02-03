@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Health_Aspect_Enumeration/How_It_Works_Health_Aspect.private|How_It_Works_Health_Aspect.private]]"
     - "[[/_personal/schema-org/Enumeration/Health_Aspect_Enumeration/How_It_Works_Health_Aspect.personal|How_It_Works_Health_Aspect.personal]]"
     - "[[/_secret/schema-org/Enumeration/Health_Aspect_Enumeration/How_It_Works_Health_Aspect.secret|How_It_Works_Health_Aspect.secret]]"
+    - "[[How_It_Works_Health_Aspect]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../HealthAspectEnumeration]]"
 dv_is_enum_of: "[[../HealthAspectEnumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Health_Aspect_Enumeration/How_It_Works_Health_Aspect|How_It_Works_Health_Aspect]]"
+  - "[[How_It_Works_Health_Aspect]]"
   - "[[/_public/schema-org/Enumeration/Health_Aspect_Enumeration/How_It_Works_Health_Aspect.public|How_It_Works_Health_Aspect.public]]"
   - "[[/_internal/schema-org/Enumeration/Health_Aspect_Enumeration/How_It_Works_Health_Aspect.internal|How_It_Works_Health_Aspect.internal]]"
   - "[[/_protect/schema-org/Enumeration/Health_Aspect_Enumeration/How_It_Works_Health_Aspect.protect|How_It_Works_Health_Aspect.protect]]"

@@ -34,6 +34,7 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Qualitative_Value.private|Qualitative_Value.private]]"
     - "[[/_personal/schema-org/Enumeration/Qualitative_Value.personal|Qualitative_Value.personal]]"
     - "[[/_secret/schema-org/Enumeration/Qualitative_Value.secret|Qualitative_Value.secret]]"
+    - "[[Qualitative_Value]]"
 dv_has_:
   parent_class: "[[../Enumeration]]"
   child_class: "[ BedType, DriveWheelConfigurationValue, SizeSpecification, SteeringPositionValue ]"
@@ -42,7 +43,7 @@ dv_has_parent_class: "[[../Enumeration]]"
 dv_has_child_class: "[ BedType, DriveWheelConfigurationValue, SizeSpecification, SteeringPositionValue ]"
 dv_has_properties: "[ additionalProperty, equal, greater, greaterOrEqual, lesser, lesserOrEqual, nonEqual, valueReference ]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Qualitative_Value|Qualitative_Value]]"
+  - "[[Qualitative_Value]]"
   - "[[/_public/schema-org/Enumeration/Qualitative_Value.public|Qualitative_Value.public]]"
   - "[[/_internal/schema-org/Enumeration/Qualitative_Value.internal|Qualitative_Value.internal]]"
   - "[[/_protect/schema-org/Enumeration/Qualitative_Value.protect|Qualitative_Value.protect]]"

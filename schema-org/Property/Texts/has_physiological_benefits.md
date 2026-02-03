@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_physiological_benefits.private|has_physiological_benefits.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_physiological_benefits.personal|has_physiological_benefits.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_physiological_benefits.secret|has_physiological_benefits.secret]]"
+    - "[[has_physiological_benefits]]"
 dv_has_domain: Diet
 dv_has_name: has_text_of_physiological_benefits
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_physiological_benefits|has_physiological_benefits]]"
+  - "[[has_physiological_benefits]]"
   - "[[/_public/schema-org/Property/Texts/has_physiological_benefits.public|has_physiological_benefits.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_physiological_benefits.internal|has_physiological_benefits.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_physiological_benefits.protect|has_physiological_benefits.protect]]"

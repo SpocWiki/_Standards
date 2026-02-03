@@ -1,29 +1,29 @@
 ---
 aliases:
-- number
-- number
-- Number
-- is_a_number
-- Zahl
+  - number
+  - number
+  - Number
+  - is_a_number
+  - Zahl
 has_id_wikidata: Q11563
 confidential: public
 cssclasses:
-- Type
+  - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
-- number
-layout: ''
+  - number
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_number Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
-- class/Class
-- schema-org/Class
-- class/data_type
+  - class/Class
+  - schema-org/Class
+  - class/data_type
 title: is_a_number Class
 type: Type
 different_from:
@@ -61,24 +61,25 @@ Krugosvet_article_archived_: nauka_i_tehnika/matematika/CHISLO.html
 IMDb_keyword: number-in-title
 dv_has_:
   child_class:
-  - "[[Number/Float|Float]]"
-  - "[[Number/Integer|Integer]]"
+    - "[[Number/Float|Float]]"
+    - "[[Number/Integer|Integer]]"
 dv_is_:
   same_as:
-  - "[[../../../../WikiData/WD~Number,11563|WD~Number,11563]]"
-  - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Number|Number]]"
-  - "[[/_public/schema-org/Class/is_a_/Data_Type/Number.public|Number.public]]"
-  - "[[/_internal/schema-org/Class/is_a_/Data_Type/Number.internal|Number.internal]]"
-  - "[[/_protect/schema-org/Class/is_a_/Data_Type/Number.protect|Number.protect]]"
-  - "[[/_private/schema-org/Class/is_a_/Data_Type/Number.private|Number.private]]"
-  - "[[/_personal/schema-org/Class/is_a_/Data_Type/Number.personal|Number.personal]]"
-  - "[[/_secret/schema-org/Class/is_a_/Data_Type/Number.secret|Number.secret]]"
+    - "[[../../../../WikiData/WD~Number,11563|WD~Number,11563]]"
+    - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Number|Number]]"
+    - "[[/_public/schema-org/Class/is_a_/Data_Type/Number.public|Number.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Data_Type/Number.internal|Number.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Data_Type/Number.protect|Number.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Data_Type/Number.private|Number.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Data_Type/Number.personal|Number.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Data_Type/Number.secret|Number.secret]]"
+    - "[[Number]]"
 dv_has_child_class:
   - "[[Number/Float|Float]]"
   - "[[Number/Integer|Integer]]"
 dv_is_same_as:
   - "[[../../../../WikiData/WD~Number,11563|WD~Number,11563]]"
-  - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Number|Number]]"
+  - "[[Number]]"
   - "[[/_public/schema-org/Class/is_a_/Data_Type/Number.public|Number.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Data_Type/Number.internal|Number.internal]]"
   - "[[/_protect/schema-org/Class/is_a_/Data_Type/Number.protect|Number.protect]]"

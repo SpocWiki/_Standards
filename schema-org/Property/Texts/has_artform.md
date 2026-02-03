@@ -42,11 +42,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_artform.private|has_artform.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_artform.personal|has_artform.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_artform.secret|has_artform.secret]]"
+    - "[[has_artform]]"
 dv_has_domain: VisualArtwork
 dv_has_name: has_text_of_artform
 dv_has_range: Text, URL
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_artform|has_artform]]"
+  - "[[has_artform]]"
   - "[[/_public/schema-org/Property/Texts/has_artform.public|has_artform.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_artform.internal|has_artform.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_artform.protect|has_artform.protect]]"

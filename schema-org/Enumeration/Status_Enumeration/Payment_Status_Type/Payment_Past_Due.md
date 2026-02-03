@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Past_Due.private|Payment_Past_Due.private]]"
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Past_Due.personal|Payment_Past_Due.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Past_Due.secret|Payment_Past_Due.secret]]"
+    - "[[Payment_Past_Due]]"
 dv_has_parent_class: "[[../PaymentStatusType]]"
 dv_is_enum_of: "[[../PaymentStatusType]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Past_Due|Payment_Past_Due]]"
+  - "[[Payment_Past_Due]]"
   - "[[/_public/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Past_Due.public|Payment_Past_Due.public]]"
   - "[[/_internal/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Past_Due.internal|Payment_Past_Due.internal]]"
   - "[[/_protect/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Past_Due.protect|Payment_Past_Due.protect]]"

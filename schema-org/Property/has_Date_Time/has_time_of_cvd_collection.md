@@ -41,9 +41,10 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_Date_Time/has_time_of_cvd_collection.private|has_time_of_cvd_collection.private]]"
     - "[[/_personal/schema-org/Property/has_Date_Time/has_time_of_cvd_collection.personal|has_time_of_cvd_collection.personal]]"
     - "[[/_secret/schema-org/Property/has_Date_Time/has_time_of_cvd_collection.secret|has_time_of_cvd_collection.secret]]"
+    - "[[has_time_of_cvd_collection]]"
 dv_has_name: has_time_of_cvd_collection
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_of_cvd_collection|has_time_of_cvd_collection]]"
+  - "[[has_time_of_cvd_collection]]"
   - "[[/_public/schema-org/Property/has_Date_Time/has_time_of_cvd_collection.public|has_time_of_cvd_collection.public]]"
   - "[[/_internal/schema-org/Property/has_Date_Time/has_time_of_cvd_collection.internal|has_time_of_cvd_collection.internal]]"
   - "[[/_protect/schema-org/Property/has_Date_Time/has_time_of_cvd_collection.protect|has_time_of_cvd_collection.protect]]"

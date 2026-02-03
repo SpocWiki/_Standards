@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Government_Benefits_Type/Business_Support.private|Business_Support.private]]"
     - "[[/_personal/schema-org/Enumeration/Government_Benefits_Type/Business_Support.personal|Business_Support.personal]]"
     - "[[/_secret/schema-org/Enumeration/Government_Benefits_Type/Business_Support.secret|Business_Support.secret]]"
+    - "[[Business_Support]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../GovernmentBenefitsType]]"
 dv_is_enum_of: "[[../GovernmentBenefitsType]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Government_Benefits_Type/Business_Support|Business_Support]]"
+  - "[[Business_Support]]"
   - "[[/_public/schema-org/Enumeration/Government_Benefits_Type/Business_Support.public|Business_Support.public]]"
   - "[[/_internal/schema-org/Enumeration/Government_Benefits_Type/Business_Support.internal|Business_Support.internal]]"
   - "[[/_protect/schema-org/Enumeration/Government_Benefits_Type/Business_Support.protect|Business_Support.protect]]"

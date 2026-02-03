@@ -40,9 +40,10 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_duration_of/has_duration_to_prepare.private|has_duration_to_prepare.private]]"
     - "[[/_personal/schema-org/Property/has_duration_of/has_duration_to_prepare.personal|has_duration_to_prepare.personal]]"
     - "[[/_secret/schema-org/Property/has_duration_of/has_duration_to_prepare.secret|has_duration_to_prepare.secret]]"
+    - "[[has_duration_to_prepare]]"
 dv_has_name: has_duration_to_prepare
 dv_is_same_as:
-  - "[[has_duration_to_prepare|has_duration_to_prepare]]"
+  - "[[has_duration_to_prepare]]"
   - "[[/_public/schema-org/Property/has_duration_of/has_duration_to_prepare.public|has_duration_to_prepare.public]]"
   - "[[/_internal/schema-org/Property/has_duration_of/has_duration_to_prepare.internal|has_duration_to_prepare.internal]]"
   - "[[/_protect/schema-org/Property/has_duration_of/has_duration_to_prepare.protect|has_duration_to_prepare.protect]]"

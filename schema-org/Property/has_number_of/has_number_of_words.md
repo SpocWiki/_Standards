@@ -41,11 +41,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_number_of/has_number_of_words.private|has_number_of_words.private]]"
     - "[[/_personal/schema-org/Property/has_number_of/has_number_of_words.personal|has_number_of_words.personal]]"
     - "[[/_secret/schema-org/Property/has_number_of/has_number_of_words.secret|has_number_of_words.secret]]"
+    - "[[has_number_of_words]]"
 dv_has_domain: Article
 dv_has_name: has_number_of_words
 dv_has_range: Integer
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_words|has_number_of_words]]"
+  - "[[has_number_of_words]]"
   - "[[/_public/schema-org/Property/has_number_of/has_number_of_words.public|has_number_of_words.public]]"
   - "[[/_internal/schema-org/Property/has_number_of/has_number_of_words.internal|has_number_of_words.internal]]"
   - "[[/_protect/schema-org/Property/has_number_of/has_number_of_words.protect|has_number_of_words.protect]]"

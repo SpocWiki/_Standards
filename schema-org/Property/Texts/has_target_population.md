@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_target_population.private|has_target_population.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_target_population.personal|has_target_population.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_target_population.secret|has_target_population.secret]]"
+    - "[[has_target_population]]"
 dv_has_domain: DietarySupplement, DoseSchedule
 dv_has_name: has_text_of_target_population
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_target_population|has_target_population]]"
+  - "[[has_target_population]]"
   - "[[/_public/schema-org/Property/Texts/has_target_population.public|has_target_population.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_target_population.internal|has_target_population.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_target_population.protect|has_target_population.protect]]"

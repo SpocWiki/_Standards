@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_schema_version.private|has_schema_version.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_schema_version.personal|has_schema_version.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_schema_version.secret|has_schema_version.secret]]"
+    - "[[has_schema_version]]"
 dv_has_domain: CreativeWork
 dv_has_name: has_text_of_schema_version
 dv_has_range: Text, URL
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_schema_version|has_schema_version]]"
+  - "[[has_schema_version]]"
   - "[[/_public/schema-org/Property/Texts/has_schema_version.public|has_schema_version.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_schema_version.internal|has_schema_version.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_schema_version.protect|has_schema_version.protect]]"

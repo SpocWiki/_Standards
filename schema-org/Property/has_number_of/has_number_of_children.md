@@ -41,11 +41,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_number_of/has_number_of_children.private|has_number_of_children.private]]"
     - "[[/_personal/schema-org/Property/has_number_of/has_number_of_children.personal|has_number_of_children.personal]]"
     - "[[/_secret/schema-org/Property/has_number_of/has_number_of_children.secret|has_number_of_children.secret]]"
+    - "[[has_number_of_children]]"
 dv_has_domain: LodgingReservation
 dv_has_name: has_number_of_children
 dv_has_range: Integer, QuantitativeValue
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_children|has_number_of_children]]"
+  - "[[has_number_of_children]]"
   - "[[/_public/schema-org/Property/has_number_of/has_number_of_children.public|has_number_of_children.public]]"
   - "[[/_internal/schema-org/Property/has_number_of/has_number_of_children.internal|has_number_of_children.internal]]"
   - "[[/_protect/schema-org/Property/has_number_of/has_number_of_children.protect|has_number_of_children.protect]]"

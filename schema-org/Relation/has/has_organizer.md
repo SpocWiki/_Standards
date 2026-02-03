@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_organizer]]"
+    - "[[/_public/schema-org/Relation/has/has_organizer.public|has_organizer.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_organizer.internal|has_organizer.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_organizer.protect|has_organizer.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_organizer.private|has_organizer.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_organizer.personal|has_organizer.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_organizer.secret|has_organizer.secret]]"
+dv_is_same_as:
+  - "[[has_organizer]]"
+  - "[[/_public/schema-org/Relation/has/has_organizer.public|has_organizer.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_organizer.internal|has_organizer.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_organizer.protect|has_organizer.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_organizer.private|has_organizer.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_organizer.personal|has_organizer.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_organizer.secret|has_organizer.secret]]"
+---
 ﻿---
 dv_is_:
   same_as:

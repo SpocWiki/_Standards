@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_tool]]"
+    - "[[/_public/schema-org/Relation/has/has_tool.public|has_tool.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_tool.internal|has_tool.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_tool.protect|has_tool.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_tool.private|has_tool.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_tool.personal|has_tool.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_tool.secret|has_tool.secret]]"
+dv_is_same_as:
+  - "[[has_tool]]"
+  - "[[/_public/schema-org/Relation/has/has_tool.public|has_tool.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_tool.internal|has_tool.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_tool.protect|has_tool.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_tool.private|has_tool.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_tool.personal|has_tool.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_tool.secret|has_tool.secret]]"
+---
 ﻿---
 dv_has_:
   tool: HowToTool, Text
@@ -69,7 +88,7 @@ is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
 has_inverse = `=this.dv_has_inverse`
-- #has_/tool :: HowToTool, Text  
+- #has_/tool : : HowToTool, Text  
 - has_tool = `=this.dv_has_tool`  
 
 A sub property of instrument. An object used (but not consumed) when performing instructions or a direction.

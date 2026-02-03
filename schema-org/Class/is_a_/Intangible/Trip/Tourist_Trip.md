@@ -1,63 +1,64 @@
 ---
 aliases:
-- tourist-trip
-- tourist_trip
-- TouristTrip
-- is_a_tourist_trip
-- Tourist_Trip
-- Tourist Trip
+  - tourist-trip
+  - tourist_trip
+  - TouristTrip
+  - is_a_tourist_trip
+  - Tourist_Trip
+  - Tourist Trip
 confidential: public
 cssclasses:
-- Type
+  - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
-- tourist_trip
-layout: ''
+  - tourist_trip
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_tourist_trip Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
-- class/Class
-- schema-org/Class
+  - class/Class
+  - schema-org/Class
 title: is_a_tourist_trip Class
 type: Type
 dv_is_:
   parent_class: "[[../Trip]]"
   part_of: https://pending.schema.org
   same_as:
-  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Trip/Tourist_Trip|Tourist_Trip]]"
-  - "[[/_public/schema-org/Class/is_a_/Intangible/Trip/Tourist_Trip.public|Tourist_Trip.public]]"
-  - "[[/_internal/schema-org/Class/is_a_/Intangible/Trip/Tourist_Trip.internal|Tourist_Trip.internal]]"
-  - "[[/_protect/schema-org/Class/is_a_/Intangible/Trip/Tourist_Trip.protect|Tourist_Trip.protect]]"
-  - "[[/_private/schema-org/Class/is_a_/Intangible/Trip/Tourist_Trip.private|Tourist_Trip.private]]"
-  - "[[/_personal/schema-org/Class/is_a_/Intangible/Trip/Tourist_Trip.personal|Tourist_Trip.personal]]"
-  - "[[/_secret/schema-org/Class/is_a_/Intangible/Trip/Tourist_Trip.secret|Tourist_Trip.secret]]"
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Trip/Tourist_Trip|Tourist_Trip]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Trip/Tourist_Trip.public|Tourist_Trip.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Trip/Tourist_Trip.internal|Tourist_Trip.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Trip/Tourist_Trip.protect|Tourist_Trip.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Trip/Tourist_Trip.private|Tourist_Trip.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Trip/Tourist_Trip.personal|Tourist_Trip.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Trip/Tourist_Trip.secret|Tourist_Trip.secret]]"
+    - "[[Tourist_Trip]]"
 dv_has_:
   properties:
-  - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
-  - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
-  - "[[../../../../Property/has_Date_Time/has_time_of_arrival|has_time_of_arrival]]"
-  - "[[../../../../Property/has_Date_Time/has_time_to_depart|has_time_to_depart]]"
-  - "[[../../../../Property/Texts/has_description|has_description]]"
-  - "[[../../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
-  - "[[../../../../Relation/has/has_identifier|has_identifier]]"
-  - "[[../../../../Relation/has/has_image|has_image]]"
-  - "[[../../../../Relation/has/has_itinerary|has_itinerary]]"
-  - "[[../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
-  - "[[../../../../Property/has_name|has_name]]"
-  - "[[offers|offers]]"
-  - "[[../../../../Composite/is_part_of/is_part_of_trip|is_part_of_trip]]"
-  - "[[../../../../Relation/has/has_potential_action|has_potential_action]]"
-  - "[[../../../../Relation/has/has_provider|has_provider]]"
-  - "[[../../../../Relation/is_same_as|is_same_as]]"
-  - "[[sub_trip|sub_trip]]"
-  - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
-  - "[[../../../../Relation/has/has_tourist_type|has_tourist_type]]"
-  - "[[../../Property/has_url_for/has_url|has_url]]"
+    - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
+    - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
+    - "[[../../../../Property/has_Date_Time/has_time_of_arrival|has_time_of_arrival]]"
+    - "[[../../../../Property/has_Date_Time/has_time_to_depart|has_time_to_depart]]"
+    - "[[../../../../Property/Texts/has_description|has_description]]"
+    - "[[../../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
+    - "[[../../../../Relation/has/has_identifier|has_identifier]]"
+    - "[[../../../../Relation/has/has_image|has_image]]"
+    - "[[../../../../Relation/has/has_itinerary|has_itinerary]]"
+    - "[[../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+    - "[[../../../../Property/has_name|has_name]]"
+    - "[[offers|offers]]"
+    - "[[../../../../Composite/is_part_of/is_part_of_trip|is_part_of_trip]]"
+    - "[[../../../../Relation/has/has_potential_action|has_potential_action]]"
+    - "[[../../../../Relation/has/has_provider|has_provider]]"
+    - "[[../../../../Relation/is_same_as|is_same_as]]"
+    - "[[sub_trip|sub_trip]]"
+    - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
+    - "[[../../../../Relation/has/has_tourist_type|has_tourist_type]]"
+    - "[[../../Property/has_url_for/has_url|has_url]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class:
   - "[[../Trip]]"
@@ -83,7 +84,7 @@ dv_has_properties:
   - "[[../../../../Relation/has/has_tourist_type|has_tourist_type]]"
   - "[[../../Property/has_url_for/has_url|has_url]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Trip/Tourist_Trip|Tourist_Trip]]"
+  - "[[Tourist_Trip]]"
   - "[[/_public/schema-org/Class/is_a_/Intangible/Trip/Tourist_Trip.public|Tourist_Trip.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Intangible/Trip/Tourist_Trip.internal|Tourist_Trip.internal]]"
   - "[[/_protect/schema-org/Class/is_a_/Intangible/Trip/Tourist_Trip.protect|Tourist_Trip.protect]]"

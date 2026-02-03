@@ -36,10 +36,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration.private|Media_Manipulation_Rating_Enumeration.private]]"
     - "[[/_personal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration.personal|Media_Manipulation_Rating_Enumeration.personal]]"
     - "[[/_secret/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration.secret|Media_Manipulation_Rating_Enumeration.secret]]"
+    - "[[Media_Manipulation_Rating_Enumeration]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../Enumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration|Media_Manipulation_Rating_Enumeration]]"
+  - "[[Media_Manipulation_Rating_Enumeration]]"
   - "[[/_public/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration.public|Media_Manipulation_Rating_Enumeration.public]]"
   - "[[/_internal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration.internal|Media_Manipulation_Rating_Enumeration.internal]]"
   - "[[/_protect/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration.protect|Media_Manipulation_Rating_Enumeration.protect]]"

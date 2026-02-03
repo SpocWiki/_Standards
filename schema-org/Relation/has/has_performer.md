@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_performer]]"
+    - "[[/_public/schema-org/Relation/has/has_performer.public|has_performer.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_performer.internal|has_performer.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_performer.protect|has_performer.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_performer.private|has_performer.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_performer.personal|has_performer.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_performer.secret|has_performer.secret]]"
+dv_is_same_as:
+  - "[[has_performer]]"
+  - "[[/_public/schema-org/Relation/has/has_performer.public|has_performer.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_performer.internal|has_performer.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_performer.protect|has_performer.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_performer.private|has_performer.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_performer.personal|has_performer.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_performer.secret|has_performer.secret]]"
+---
 ﻿---
 dv_has_:
   performer: Organization, Person
@@ -68,7 +87,7 @@ is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
 has_inverse = `=this.dv_has_inverse`
-- #has_/performer :: Organization, Person  
+- #has_/performer : : Organization, Person  
 - has_performer = `=this.dv_has_performer`  
 
 A performer at the event&amp;#x2014;for example, a presenter, musician, musical group or actor.

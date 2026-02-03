@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_region_drained]]"
+    - "[[/_public/schema-org/Relation/has/has_region_drained.public|has_region_drained.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_region_drained.internal|has_region_drained.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_region_drained.protect|has_region_drained.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_region_drained.private|has_region_drained.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_region_drained.personal|has_region_drained.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_region_drained.secret|has_region_drained.secret]]"
+dv_is_same_as:
+  - "[[has_region_drained]]"
+  - "[[/_public/schema-org/Relation/has/has_region_drained.public|has_region_drained.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_region_drained.internal|has_region_drained.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_region_drained.protect|has_region_drained.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_region_drained.private|has_region_drained.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_region_drained.personal|has_region_drained.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_region_drained.secret|has_region_drained.secret]]"
+---
 ﻿---
 dv_is_:
   same_as:

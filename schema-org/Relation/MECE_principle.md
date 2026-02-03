@@ -6,11 +6,14 @@ aliases:
   - MECE principle
 has_id_wikidata: Q1074664
 instance_of: "[[_Standards/WikiData/WD~principle,1550643]]"
+dv_is_:
+  same_as: "[[WD~MECE_principle,1074664]]"
+dv_is_same_as: "[[WD~MECE_principle,1074664]]"
 ---
 
 # [[MECE_principle]] 
 
-#is_/same_as :: [[WD~MECE_principle,1074664]] 
+is_same_as = `=this.dv_is_same_as` 
 
 ## #has_/text_of_/abstract 
 

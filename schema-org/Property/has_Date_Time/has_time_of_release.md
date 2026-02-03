@@ -43,9 +43,10 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_Date_Time/has_time_of_release.private|has_time_of_release.private]]"
     - "[[/_personal/schema-org/Property/has_Date_Time/has_time_of_release.personal|has_time_of_release.personal]]"
     - "[[/_secret/schema-org/Property/has_Date_Time/has_time_of_release.secret|has_time_of_release.secret]]"
+    - "[[has_time_of_release]]"
 dv_has_name: has_time_of_release
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_of_release|has_time_of_release]]"
+  - "[[has_time_of_release]]"
   - "[[/_public/schema-org/Property/has_Date_Time/has_time_of_release.public|has_time_of_release.public]]"
   - "[[/_internal/schema-org/Property/has_Date_Time/has_time_of_release.internal|has_time_of_release.internal]]"
   - "[[/_protect/schema-org/Property/has_Date_Time/has_time_of_release.protect|has_time_of_release.protect]]"

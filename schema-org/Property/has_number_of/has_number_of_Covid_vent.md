@@ -10,39 +10,65 @@ cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - cvd-num-vent
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_number_of_cvd-num-vent
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Count
 title: has_number_of_cvd-num-vent
 type: Predi_Count
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[has_number_of_Covid_vent]]"
+    - "[[/_public/schema-org/Property/has_number_of/has_number_of_Covid_vent.public|has_number_of_Covid_vent.public]]"
+    - "[[/_internal/schema-org/Property/has_number_of/has_number_of_Covid_vent.internal|has_number_of_Covid_vent.internal]]"
+    - "[[/_protect/schema-org/Property/has_number_of/has_number_of_Covid_vent.protect|has_number_of_Covid_vent.protect]]"
+    - "[[/_private/schema-org/Property/has_number_of/has_number_of_Covid_vent.private|has_number_of_Covid_vent.private]]"
+    - "[[/_personal/schema-org/Property/has_number_of/has_number_of_Covid_vent.personal|has_number_of_Covid_vent.personal]]"
+    - "[[/_secret/schema-org/Property/has_number_of/has_number_of_Covid_vent.secret|has_number_of_Covid_vent.secret]]"
+dv_has_:
+  domain: CDCPMDRecord
+  name: has_number_of_Covid_vent
+  range: Number
+dv_is_part_of: "pending:"
+dv_has_domain: CDCPMDRecord
+dv_has_name: has_number_of_Covid_vent
+dv_has_range: Number
+dv_is_same_as:
+  - "[[has_number_of_Covid_vent]]"
+  - "[[/_public/schema-org/Property/has_number_of/has_number_of_Covid_vent.public|has_number_of_Covid_vent.public]]"
+  - "[[/_internal/schema-org/Property/has_number_of/has_number_of_Covid_vent.internal|has_number_of_Covid_vent.internal]]"
+  - "[[/_protect/schema-org/Property/has_number_of/has_number_of_Covid_vent.protect|has_number_of_Covid_vent.protect]]"
+  - "[[/_private/schema-org/Property/has_number_of/has_number_of_Covid_vent.private|has_number_of_Covid_vent.private]]"
+  - "[[/_personal/schema-org/Property/has_number_of/has_number_of_Covid_vent.personal|has_number_of_Covid_vent.personal]]"
+  - "[[/_secret/schema-org/Property/has_number_of/has_number_of_Covid_vent.secret|has_number_of_Covid_vent.secret]]"
 ---
 
 Predicate to describe the Number of CDCPMDRecord.
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/number_of_/Covid_vent :: Number   
-- has_number_of_Covid_vent :: Number   
+- #has_/number_of_/Covid_vent : : Number   
+- has_number_of_Covid_vent : : Number   
 
 numvent - MECHANICAL VENTILATORS: Total number of ventilators available.
 
 Predicate describes that: 
 
-#has_/domain  :: CDCPMDRecord  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: has_number_of_Covid_vent )
-(has_/range :: Number )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

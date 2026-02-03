@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_boarding_group.private|has_boarding_group.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_boarding_group.personal|has_boarding_group.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_boarding_group.secret|has_boarding_group.secret]]"
+    - "[[has_boarding_group]]"
 dv_has_domain: FlightReservation
 dv_has_name: has_text_of_boarding_group
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_boarding_group|has_boarding_group]]"
+  - "[[has_boarding_group]]"
   - "[[/_public/schema-org/Property/Texts/has_boarding_group.public|has_boarding_group.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_boarding_group.internal|has_boarding_group.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_boarding_group.protect|has_boarding_group.protect]]"

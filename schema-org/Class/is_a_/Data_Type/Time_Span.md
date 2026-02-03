@@ -38,8 +38,9 @@ dv_is_:
     - "[[/_private/schema-org/Class/is_a_/Data_Type/Time_Span.private|Time_Span.private]]"
     - "[[/_personal/schema-org/Class/is_a_/Data_Type/Time_Span.personal|Time_Span.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Data_Type/Time_Span.secret|Time_Span.secret]]"
+    - "[[Time_Span]]"
 dv_is_same_as:
-  - "[[Time_Span|Time_Span]]"
+  - "[[Time_Span]]"
   - "[[/_public/schema-org/Class/is_a_/Data_Type/Time_Span.public|Time_Span.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Data_Type/Time_Span.internal|Time_Span.internal]]"
   - "[[/_protect/schema-org/Class/is_a_/Data_Type/Time_Span.protect|Time_Span.protect]]"

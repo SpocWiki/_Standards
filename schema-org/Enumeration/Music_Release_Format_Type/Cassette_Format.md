@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Music_Release_Format_Type/Cassette_Format.private|Cassette_Format.private]]"
     - "[[/_personal/schema-org/Enumeration/Music_Release_Format_Type/Cassette_Format.personal|Cassette_Format.personal]]"
     - "[[/_secret/schema-org/Enumeration/Music_Release_Format_Type/Cassette_Format.secret|Cassette_Format.secret]]"
+    - "[[Cassette_Format]]"
 dv_has_parent_class: "[[../MusicReleaseFormatType]]"
 dv_is_enum_of: "[[../MusicReleaseFormatType]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Music_Release_Format_Type/Cassette_Format|Cassette_Format]]"
+  - "[[Cassette_Format]]"
   - "[[/_public/schema-org/Enumeration/Music_Release_Format_Type/Cassette_Format.public|Cassette_Format.public]]"
   - "[[/_internal/schema-org/Enumeration/Music_Release_Format_Type/Cassette_Format.internal|Cassette_Format.internal]]"
   - "[[/_protect/schema-org/Enumeration/Music_Release_Format_Type/Cassette_Format.protect|Cassette_Format.protect]]"

@@ -26,9 +26,14 @@ tags:
 title: has_base-salary
 type: Predi_Quantity
 dv_has_:
-  domain: ["[[../../../Society/Agent/Community/Organization/Role/Organization_Role/Employee_Role|Employee_Role]]", "[[../../Class/is_a_/Intangible/Job_Posting|Job_Posting]]"]
+  domain:
+    - "[[../../../Society/Agent/Community/Organization/Role/Organization_Role/Employee_Role|Employee_Role]]"
+    - "[[../../Class/is_a_/Intangible/Job_Posting|Job_Posting]]"
   name: has_value_for_base_salary
-  range: ["[[../../Class/is_a_/Intangible/Structured_Value/Monetary_Amount|MonetaryAmount]]", "[[../../Class/is_a_/Data_Type/Number|Number]]", "[[../../Class/is_a_/Intangible/Structured_Value/Price_Specification|PriceSpecification]]"]
+  range:
+    - "[[../../Class/is_a_/Intangible/Structured_Value/Monetary_Amount|MonetaryAmount]]"
+    - "[[../../Class/is_a_/Data_Type/Number|Number]]"
+    - "[[../../Class/is_a_/Intangible/Structured_Value/Price_Specification|PriceSpecification]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_base_salary|has_value_for_base_salary]]"
@@ -38,11 +43,17 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_base_salary.private|has_value_for_base_salary.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_base_salary.personal|has_value_for_base_salary.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_base_salary.secret|has_value_for_base_salary.secret]]"
-dv_has_domain: ["[[../../../Society/Agent/Community/Organization/Role/Organization_Role/Employee_Role|Employee_Role]]", "[[../../Class/is_a_/Intangible/Job_Posting|Job_Posting]]"]
+    - "[[has_value_for_base_salary]]"
+dv_has_domain:
+  - "[[../../../Society/Agent/Community/Organization/Role/Organization_Role/Employee_Role|Employee_Role]]"
+  - "[[../../Class/is_a_/Intangible/Job_Posting|Job_Posting]]"
 dv_has_name: has_value_for_base_salary
-dv_has_range: ["[[../../Class/is_a_/Intangible/Structured_Value/Monetary_Amount|MonetaryAmount]]", "[[../../Class/is_a_/Data_Type/Number|Number]]", "[[../../Class/is_a_/Intangible/Structured_Value/Price_Specification|PriceSpecification]]"]
+dv_has_range:
+  - "[[../../Class/is_a_/Intangible/Structured_Value/Monetary_Amount|MonetaryAmount]]"
+  - "[[../../Class/is_a_/Data_Type/Number|Number]]"
+  - "[[../../Class/is_a_/Intangible/Structured_Value/Price_Specification|PriceSpecification]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_base_salary|has_value_for_base_salary]]"
+  - "[[has_value_for_base_salary]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_base_salary.public|has_value_for_base_salary.public]]"
   - "[[/_internal/schema-org/Property/has_value_for/has_value_for_base_salary.internal|has_value_for_base_salary.internal]]"
   - "[[/_protect/schema-org/Property/has_value_for/has_value_for_base_salary.protect|has_value_for_base_salary.protect]]"

@@ -22,9 +22,10 @@ dv_is_:
     - "[[/_private/schema-org/Relation/is_same_as/Inequality.private|Inequality.private]]"
     - "[[/_personal/schema-org/Relation/is_same_as/Inequality.personal|Inequality.personal]]"
     - "[[/_secret/schema-org/Relation/is_same_as/Inequality.secret|Inequality.secret]]"
+    - "[[Inequality]]"
 dv_is_same_as:
   - "[[../../../WikiData/WD~Inequality,28113351]]"
-  - "[[/_Standards/schema-org/Relation/is_same_as/Inequality|Inequality]]"
+  - "[[Inequality]]"
   - "[[/_public/schema-org/Relation/is_same_as/Inequality.public|Inequality.public]]"
   - "[[/_internal/schema-org/Relation/is_same_as/Inequality.internal|Inequality.internal]]"
   - "[[/_protect/schema-org/Relation/is_same_as/Inequality.protect|Inequality.protect]]"

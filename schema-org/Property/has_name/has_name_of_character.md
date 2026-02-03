@@ -42,11 +42,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_name/has_name_of_character.private|has_name_of_character.private]]"
     - "[[/_personal/schema-org/Property/has_name/has_name_of_character.personal|has_name_of_character.personal]]"
     - "[[/_secret/schema-org/Property/has_name/has_name_of_character.secret|has_name_of_character.secret]]"
+    - "[[has_name_of_character]]"
 dv_has_domain: "[[../../../Society/Agent/Community/Organization/Role/Performance_Role|PerformanceRole]]"
 dv_has_name: has_name_of_character
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_name/has_name_of_character|has_name_of_character]]"
+  - "[[has_name_of_character]]"
   - "[[/_public/schema-org/Property/has_name/has_name_of_character.public|has_name_of_character.public]]"
   - "[[/_internal/schema-org/Property/has_name/has_name_of_character.internal|has_name_of_character.internal]]"
   - "[[/_protect/schema-org/Property/has_name/has_name_of_character.protect|has_name_of_character.protect]]"

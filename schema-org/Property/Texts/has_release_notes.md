@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_release_notes.private|has_release_notes.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_release_notes.personal|has_release_notes.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_release_notes.secret|has_release_notes.secret]]"
+    - "[[has_release_notes]]"
 dv_has_domain: SoftwareApplication
 dv_has_name: has_text_of_release_notes
 dv_has_range: Text, URL
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_release_notes|has_release_notes]]"
+  - "[[has_release_notes]]"
   - "[[/_public/schema-org/Property/Texts/has_release_notes.public|has_release_notes.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_release_notes.internal|has_release_notes.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_release_notes.protect|has_release_notes.protect]]"

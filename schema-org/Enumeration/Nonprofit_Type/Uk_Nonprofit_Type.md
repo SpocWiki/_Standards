@@ -36,10 +36,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type.private|Uk_Nonprofit_Type.private]]"
     - "[[/_personal/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type.personal|Uk_Nonprofit_Type.personal]]"
     - "[[/_secret/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type.secret|Uk_Nonprofit_Type.secret]]"
+    - "[[Uk_Nonprofit_Type]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../NonprofitType]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type|Uk_Nonprofit_Type]]"
+  - "[[Uk_Nonprofit_Type]]"
   - "[[/_public/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type.public|Uk_Nonprofit_Type.public]]"
   - "[[/_internal/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type.internal|Uk_Nonprofit_Type.internal]]"
   - "[[/_protect/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type.protect|Uk_Nonprofit_Type.protect]]"

@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_drug_unit.private|has_drug_unit.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_drug_unit.personal|has_drug_unit.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_drug_unit.secret|has_drug_unit.secret]]"
+    - "[[has_drug_unit]]"
 dv_has_domain: Drug, DrugCost
 dv_has_name: has_text_of_drug_unit
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_drug_unit|has_drug_unit]]"
+  - "[[has_drug_unit]]"
   - "[[/_public/schema-org/Property/Texts/has_drug_unit.public|has_drug_unit.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_drug_unit.internal|has_drug_unit.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_drug_unit.protect|has_drug_unit.protect]]"

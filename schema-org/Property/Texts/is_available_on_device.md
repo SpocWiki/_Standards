@@ -45,11 +45,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/is_available_on_device.private|is_available_on_device.private]]"
     - "[[/_personal/schema-org/Property/Texts/is_available_on_device.personal|is_available_on_device.personal]]"
     - "[[/_secret/schema-org/Property/Texts/is_available_on_device.secret|is_available_on_device.secret]]"
+    - "[[is_available_on_device]]"
 dv_has_domain: SoftwareApplication
 dv_has_name: "[[is_available_on_device]]"
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/is_available_on_device|is_available_on_device]]"
+  - "[[is_available_on_device]]"
   - "[[/_public/schema-org/Property/Texts/is_available_on_device.public|is_available_on_device.public]]"
   - "[[/_internal/schema-org/Property/Texts/is_available_on_device.internal|is_available_on_device.internal]]"
   - "[[/_protect/schema-org/Property/Texts/is_available_on_device.protect|is_available_on_device.protect]]"

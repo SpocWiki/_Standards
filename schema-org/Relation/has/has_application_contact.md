@@ -67,7 +67,7 @@ has_inverse = `=this.dv_has_inverse`
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/application_contact :: `=this.dv_has_range`  
+- #has_/application_contact : : `=this.dv_has_range`  
 - has_application_contact : : `=this.dv_has_range` 
 - is_application_contact_for : :  `=this.dv_has_domain` 
 - #is_/application_contact_for : :  `=this.dv_has_domain` 

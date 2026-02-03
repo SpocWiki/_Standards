@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Return_Method_Enumeration/Return_in_Store.private|Return_in_Store.private]]"
     - "[[/_personal/schema-org/Enumeration/Return_Method_Enumeration/Return_in_Store.personal|Return_in_Store.personal]]"
     - "[[/_secret/schema-org/Enumeration/Return_Method_Enumeration/Return_in_Store.secret|Return_in_Store.secret]]"
+    - "[[Return_in_Store]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../ReturnMethodEnumeration]]"
 dv_is_enum_of: "[[../ReturnMethodEnumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Return_Method_Enumeration/Return_in_Store|Return_in_Store]]"
+  - "[[Return_in_Store]]"
   - "[[/_public/schema-org/Enumeration/Return_Method_Enumeration/Return_in_Store.public|Return_in_Store.public]]"
   - "[[/_internal/schema-org/Enumeration/Return_Method_Enumeration/Return_in_Store.internal|Return_in_Store.internal]]"
   - "[[/_protect/schema-org/Enumeration/Return_Method_Enumeration/Return_in_Store.protect|Return_in_Store.protect]]"

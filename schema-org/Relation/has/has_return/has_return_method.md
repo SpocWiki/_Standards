@@ -65,7 +65,7 @@ is_a = `=this.dv_is_a`
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/return_method :: ReturnMethodEnumeration  
+- #has_/return_method : : ReturnMethodEnumeration  
 - has_return_method = `=this.dv_has_return_method`  
 
 The type of return method offered, specified from an enumeration.

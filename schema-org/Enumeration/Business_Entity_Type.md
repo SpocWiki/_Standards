@@ -36,9 +36,10 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Business_Entity_Type.private|Business_Entity_Type.private]]"
     - "[[/_personal/schema-org/Enumeration/Business_Entity_Type.personal|Business_Entity_Type.personal]]"
     - "[[/_secret/schema-org/Enumeration/Business_Entity_Type.secret|Business_Entity_Type.secret]]"
+    - "[[Business_Entity_Type]]"
 dv_has_parent_class: "[[../Enumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Business_Entity_Type|Business_Entity_Type]]"
+  - "[[Business_Entity_Type]]"
   - "[[/_public/schema-org/Enumeration/Business_Entity_Type.public|Business_Entity_Type.public]]"
   - "[[/_internal/schema-org/Enumeration/Business_Entity_Type.internal|Business_Entity_Type.internal]]"
   - "[[/_protect/schema-org/Enumeration/Business_Entity_Type.protect|Business_Entity_Type.protect]]"

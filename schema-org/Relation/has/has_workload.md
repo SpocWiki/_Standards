@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_workload]]"
+    - "[[/_public/schema-org/Relation/has/has_workload.public|has_workload.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_workload.internal|has_workload.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_workload.protect|has_workload.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_workload.private|has_workload.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_workload.personal|has_workload.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_workload.secret|has_workload.secret]]"
+dv_is_same_as:
+  - "[[has_workload]]"
+  - "[[/_public/schema-org/Relation/has/has_workload.public|has_workload.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_workload.internal|has_workload.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_workload.protect|has_workload.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_workload.private|has_workload.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_workload.personal|has_workload.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_workload.secret|has_workload.secret]]"
+---
 ﻿---
 dv_is_:
   same_as:

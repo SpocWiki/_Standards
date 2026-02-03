@@ -41,11 +41,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_number_of/has_number_of_offers.private|has_number_of_offers.private]]"
     - "[[/_personal/schema-org/Property/has_number_of/has_number_of_offers.personal|has_number_of_offers.personal]]"
     - "[[/_secret/schema-org/Property/has_number_of/has_number_of_offers.secret|has_number_of_offers.secret]]"
+    - "[[has_number_of_offers]]"
 dv_has_domain: AggregateOffer
 dv_has_name: has_number_of_offers
 dv_has_range: Integer
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_offers|has_number_of_offers]]"
+  - "[[has_number_of_offers]]"
   - "[[/_public/schema-org/Property/has_number_of/has_number_of_offers.public|has_number_of_offers.public]]"
   - "[[/_internal/schema-org/Property/has_number_of/has_number_of_offers.internal|has_number_of_offers.internal]]"
   - "[[/_protect/schema-org/Property/has_number_of/has_number_of_offers.protect|has_number_of_offers.protect]]"

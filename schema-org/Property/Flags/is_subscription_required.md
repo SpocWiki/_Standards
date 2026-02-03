@@ -39,11 +39,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Flags/is_subscription_required.private|is_subscription_required.private]]"
     - "[[/_personal/schema-org/Property/Flags/is_subscription_required.personal|is_subscription_required.personal]]"
     - "[[/_secret/schema-org/Property/Flags/is_subscription_required.secret|is_subscription_required.secret]]"
+    - "[[is_subscription_required]]"
 dv_has_domain: ActionAccessSpecification, MediaObject
 dv_has_name: is_subscription_required
 dv_has_range: Boolean, MediaSubscription
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Flags/is_subscription_required|is_subscription_required]]"
+  - "[[is_subscription_required]]"
   - "[[/_public/schema-org/Property/Flags/is_subscription_required.public|is_subscription_required.public]]"
   - "[[/_internal/schema-org/Property/Flags/is_subscription_required.internal|is_subscription_required.internal]]"
   - "[[/_protect/schema-org/Property/Flags/is_subscription_required.protect|is_subscription_required.protect]]"

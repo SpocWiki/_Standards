@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Restricted_Diet/Vegan_Diet.private|Vegan_Diet.private]]"
     - "[[/_personal/schema-org/Enumeration/Restricted_Diet/Vegan_Diet.personal|Vegan_Diet.personal]]"
     - "[[/_secret/schema-org/Enumeration/Restricted_Diet/Vegan_Diet.secret|Vegan_Diet.secret]]"
+    - "[[Vegan_Diet]]"
 dv_has_parent_class: "[[../RestrictedDiet]]"
 dv_is_enum_of: "[[../RestrictedDiet]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Restricted_Diet/Vegan_Diet|Vegan_Diet]]"
+  - "[[Vegan_Diet]]"
   - "[[/_public/schema-org/Enumeration/Restricted_Diet/Vegan_Diet.public|Vegan_Diet.public]]"
   - "[[/_internal/schema-org/Enumeration/Restricted_Diet/Vegan_Diet.internal|Vegan_Diet.internal]]"
   - "[[/_protect/schema-org/Enumeration/Restricted_Diet/Vegan_Diet.protect|Vegan_Diet.protect]]"

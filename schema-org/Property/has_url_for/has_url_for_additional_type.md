@@ -12,20 +12,47 @@ cssclasses:
   - Predicate
   - Url
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - additional_type
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_url_for_additional_type
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - schema-org/Property/Url
 title: has_url_for_additional_type
 type: Predi_Url
+dv_has_:
+  domain: "[[../../Class/Thing]]"
+  name: has_url_for_additional_type
+  range: URL
+  parent_:
+    property: "[ [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) ]"
+dv_is_:
+  same_as:
+    - "[[has_url_for_additional_type]]"
+    - "[[/_public/schema-org/Property/has_url_for/has_url_for_additional_type.public|has_url_for_additional_type.public]]"
+    - "[[/_internal/schema-org/Property/has_url_for/has_url_for_additional_type.internal|has_url_for_additional_type.internal]]"
+    - "[[/_protect/schema-org/Property/has_url_for/has_url_for_additional_type.protect|has_url_for_additional_type.protect]]"
+    - "[[/_private/schema-org/Property/has_url_for/has_url_for_additional_type.private|has_url_for_additional_type.private]]"
+    - "[[/_personal/schema-org/Property/has_url_for/has_url_for_additional_type.personal|has_url_for_additional_type.personal]]"
+    - "[[/_secret/schema-org/Property/has_url_for/has_url_for_additional_type.secret|has_url_for_additional_type.secret]]"
+dv_has_domain: "[[../../Class/Thing]]"
+dv_has_name: has_url_for_additional_type
+dv_has_range: URL
+dv_has_parent_property: "[ [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) ]"
+dv_is_same_as:
+  - "[[has_url_for_additional_type]]"
+  - "[[/_public/schema-org/Property/has_url_for/has_url_for_additional_type.public|has_url_for_additional_type.public]]"
+  - "[[/_internal/schema-org/Property/has_url_for/has_url_for_additional_type.internal|has_url_for_additional_type.internal]]"
+  - "[[/_protect/schema-org/Property/has_url_for/has_url_for_additional_type.protect|has_url_for_additional_type.protect]]"
+  - "[[/_private/schema-org/Property/has_url_for/has_url_for_additional_type.private|has_url_for_additional_type.private]]"
+  - "[[/_personal/schema-org/Property/has_url_for/has_url_for_additional_type.personal|has_url_for_additional_type.personal]]"
+  - "[[/_secret/schema-org/Property/has_url_for/has_url_for_additional_type.secret|has_url_for_additional_type.secret]]"
 ---
 
 Predicate to specify the Type/Class-Url of a Thing, equivalent to rdf:type.
@@ -37,17 +64,17 @@ In RDFa syntax, it is better to use the native RDFa syntax - the 'typeof' attrib
 Schema.org tools may have only weaker understanding of extra types, in particular those defined externally.
 
 Use it like this: 
-- #has_/url_for_/additional_type :: URL   
-- has_url_for_additional_type :: URL   
+- #has_/url_for_/additional_type : : URL   
+- has_url_for_additional_type : : URL   
 
 Predicate describes that: 
 
-#has_/domain  :: [[../../Class/Thing]]  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: has_url_for_additional_type )
-(has_/range :: URL )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#has_/parent_/property  :: [ [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) ]
+has_parent_property = `=this.dv_has_parent_property` 
 
 [is_instance_of](../../Class/is_instance_of) 
 

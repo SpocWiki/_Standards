@@ -42,11 +42,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_url_for/has_url_for_reply_to.private|has_url_for_reply_to.private]]"
     - "[[/_personal/schema-org/Property/has_url_for/has_url_for_reply_to.personal|has_url_for_reply_to.personal]]"
     - "[[/_secret/schema-org/Property/has_url_for/has_url_for_reply_to.secret|has_url_for_reply_to.secret]]"
+    - "[[has_url_for_reply_to]]"
 dv_has_domain: UserComments
 dv_has_name: has_url_for_reply_to_url
 dv_has_range: URL
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_url_for/has_url_for_reply_to|has_url_for_reply_to]]"
+  - "[[has_url_for_reply_to]]"
   - "[[/_public/schema-org/Property/has_url_for/has_url_for_reply_to.public|has_url_for_reply_to.public]]"
   - "[[/_internal/schema-org/Property/has_url_for/has_url_for_reply_to.internal|has_url_for_reply_to.internal]]"
   - "[[/_protect/schema-org/Property/has_url_for/has_url_for_reply_to.protect|has_url_for_reply_to.protect]]"

@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_name/has_ticket_token.private|has_ticket_token.private]]"
     - "[[/_personal/schema-org/Property/has_name/has_ticket_token.personal|has_ticket_token.personal]]"
     - "[[/_secret/schema-org/Property/has_name/has_ticket_token.secret|has_ticket_token.secret]]"
+    - "[[has_ticket_token]]"
 dv_has_domain: Ticket
 dv_has_name: has_text_of_ticket_token
 dv_has_range: Text, URL
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_name/has_ticket_token|has_ticket_token]]"
+  - "[[has_ticket_token]]"
   - "[[/_public/schema-org/Property/has_name/has_ticket_token.public|has_ticket_token.public]]"
   - "[[/_internal/schema-org/Property/has_name/has_ticket_token.internal|has_ticket_token.internal]]"
   - "[[/_protect/schema-org/Property/has_name/has_ticket_token.protect|has_ticket_token.protect]]"

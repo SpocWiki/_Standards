@@ -69,7 +69,7 @@ has_inverse = `=this.dv_has_inverse`
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/work_translation :: CreativeWork  
+- #has_/work_translation : : CreativeWork  
 - has_work_translation = `=this.dv_has_work_translation`  
 
 A work that is a translation of the content of this work.

@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Music_Release_Format_Type/Digital_Audio_Tape_Format.private|Digital_Audio_Tape_Format.private]]"
     - "[[/_personal/schema-org/Enumeration/Music_Release_Format_Type/Digital_Audio_Tape_Format.personal|Digital_Audio_Tape_Format.personal]]"
     - "[[/_secret/schema-org/Enumeration/Music_Release_Format_Type/Digital_Audio_Tape_Format.secret|Digital_Audio_Tape_Format.secret]]"
+    - "[[Digital_Audio_Tape_Format]]"
 dv_has_parent_class: "[[../MusicReleaseFormatType]]"
 dv_is_enum_of: "[[../MusicReleaseFormatType]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Music_Release_Format_Type/Digital_Audio_Tape_Format|Digital_Audio_Tape_Format]]"
+  - "[[Digital_Audio_Tape_Format]]"
   - "[[/_public/schema-org/Enumeration/Music_Release_Format_Type/Digital_Audio_Tape_Format.public|Digital_Audio_Tape_Format.public]]"
   - "[[/_internal/schema-org/Enumeration/Music_Release_Format_Type/Digital_Audio_Tape_Format.internal|Digital_Audio_Tape_Format.internal]]"
   - "[[/_protect/schema-org/Enumeration/Music_Release_Format_Type/Digital_Audio_Tape_Format.protect|Digital_Audio_Tape_Format.protect]]"

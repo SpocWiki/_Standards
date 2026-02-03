@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_recorded_as]]"
+    - "[[/_public/schema-org/Relation/has/has_recorded_as.public|has_recorded_as.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_recorded_as.internal|has_recorded_as.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_recorded_as.protect|has_recorded_as.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_recorded_as.private|has_recorded_as.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_recorded_as.personal|has_recorded_as.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_recorded_as.secret|has_recorded_as.secret]]"
+dv_is_same_as:
+  - "[[has_recorded_as]]"
+  - "[[/_public/schema-org/Relation/has/has_recorded_as.public|has_recorded_as.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_recorded_as.internal|has_recorded_as.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_recorded_as.protect|has_recorded_as.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_recorded_as.private|has_recorded_as.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_recorded_as.personal|has_recorded_as.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_recorded_as.secret|has_recorded_as.secret]]"
+---
 ﻿---
 dv_has_:
   recorded_as: MusicRecording
@@ -68,7 +87,7 @@ is_a = `=this.dv_is_a`
 has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
-- #has_/recorded_as :: MusicRecording  
+- #has_/recorded_as : : MusicRecording  
 - has_recorded_as = `=this.dv_has_recorded_as`  
 
 An audio recording of the work.

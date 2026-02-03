@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_isic_v4.private|has_isic_v4.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_isic_v4.personal|has_isic_v4.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_isic_v4.secret|has_isic_v4.secret]]"
+    - "[[has_isic_v4]]"
 dv_has_domain: Organization, Person, Place
 dv_has_name: has_text_of_isic_v4
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_isic_v4|has_isic_v4]]"
+  - "[[has_isic_v4]]"
   - "[[/_public/schema-org/Property/Texts/has_isic_v4.public|has_isic_v4.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_isic_v4.internal|has_isic_v4.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_isic_v4.protect|has_isic_v4.protect]]"

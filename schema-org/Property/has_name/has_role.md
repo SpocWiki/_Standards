@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_name/has_role.private|has_role.private]]"
     - "[[/_personal/schema-org/Property/has_name/has_role.personal|has_role.personal]]"
     - "[[/_secret/schema-org/Property/has_name/has_role.secret|has_role.secret]]"
+    - "[[has_role]]"
 dv_has_domain: Role
 dv_has_name: has_role
 dv_has_range: Text, URL
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_name/has_role|has_role]]"
+  - "[[has_role]]"
   - "[[/_public/schema-org/Property/has_name/has_role.public|has_role.public]]"
   - "[[/_internal/schema-org/Property/has_name/has_role.internal|has_role.internal]]"
   - "[[/_protect/schema-org/Property/has_name/has_role.protect|has_role.protect]]"

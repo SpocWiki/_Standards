@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_countries_supported.private|has_countries_supported.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_countries_supported.personal|has_countries_supported.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_countries_supported.secret|has_countries_supported.secret]]"
+    - "[[has_countries_supported]]"
 dv_has_domain: SoftwareApplication
 dv_has_name: has_text_of_countries_supported
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_countries_supported|has_countries_supported]]"
+  - "[[has_countries_supported]]"
   - "[[/_public/schema-org/Property/Texts/has_countries_supported.public|has_countries_supported.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_countries_supported.internal|has_countries_supported.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_countries_supported.protect|has_countries_supported.protect]]"

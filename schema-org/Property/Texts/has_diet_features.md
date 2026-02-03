@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_diet_features.private|has_diet_features.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_diet_features.personal|has_diet_features.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_diet_features.secret|has_diet_features.secret]]"
+    - "[[has_diet_features]]"
 dv_has_domain: Diet
 dv_has_name: has_text_of_diet_features
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_diet_features|has_diet_features]]"
+  - "[[has_diet_features]]"
   - "[[/_public/schema-org/Property/Texts/has_diet_features.public|has_diet_features.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_diet_features.internal|has_diet_features.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_diet_features.protect|has_diet_features.protect]]"

@@ -41,9 +41,10 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_duration_of/has_duration_to_complete.private|has_duration_to_complete.private]]"
     - "[[/_personal/schema-org/Property/has_duration_of/has_duration_to_complete.personal|has_duration_to_complete.personal]]"
     - "[[/_secret/schema-org/Property/has_duration_of/has_duration_to_complete.secret|has_duration_to_complete.secret]]"
+    - "[[has_duration_to_complete]]"
 dv_has_name: has_duration_to_complete
 dv_is_same_as:
-  - "[[has_duration_to_complete|has_duration_to_complete]]"
+  - "[[has_duration_to_complete]]"
   - "[[/_public/schema-org/Property/has_duration_of/has_duration_to_complete.public|has_duration_to_complete.public]]"
   - "[[/_internal/schema-org/Property/has_duration_of/has_duration_to_complete.internal|has_duration_to_complete.internal]]"
   - "[[/_protect/schema-org/Property/has_duration_of/has_duration_to_complete.protect|has_duration_to_complete.protect]]"

@@ -78,8 +78,8 @@ has_previous_item = `=this.dv_has_previous_item`
 
 
 Use it like this: 
-- #has_/media_/during :: [[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]],  [[../../../Class/is_a_/Data_Type/Text/Url|Url]]   
-- [ has_media_during :: [[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]],  [[../../Class/is_a_/Data_Type/Text/Url|Url]]  ] 
+- #has_/media_/during : : [[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]],  [[../../../Class/is_a_/Data_Type/Text/Url|Url]]   
+- [ has_media_during : : [[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]],  [[../../Class/is_a_/Data_Type/Text/Url|Url]]  ] 
 
 A media object representing the circumstances while performing this direction.
 

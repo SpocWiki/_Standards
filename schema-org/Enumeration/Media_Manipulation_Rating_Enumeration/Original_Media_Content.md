@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Original_Media_Content.private|Original_Media_Content.private]]"
     - "[[/_personal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Original_Media_Content.personal|Original_Media_Content.personal]]"
     - "[[/_secret/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Original_Media_Content.secret|Original_Media_Content.secret]]"
+    - "[[Original_Media_Content]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../Media_Manipulation_Rating_Enumeration]]"
 dv_is_enum_of: "[[../Media_Manipulation_Rating_Enumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Original_Media_Content|Original_Media_Content]]"
+  - "[[Original_Media_Content]]"
   - "[[/_public/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Original_Media_Content.public|Original_Media_Content.public]]"
   - "[[/_internal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Original_Media_Content.internal|Original_Media_Content.internal]]"
   - "[[/_protect/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Original_Media_Content.protect|Original_Media_Content.protect]]"

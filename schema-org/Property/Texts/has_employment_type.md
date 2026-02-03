@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_employment_type.private|has_employment_type.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_employment_type.personal|has_employment_type.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_employment_type.secret|has_employment_type.secret]]"
+    - "[[has_employment_type]]"
 dv_has_domain: JobPosting
 dv_has_name: has_text_of_employment_type
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_employment_type|has_employment_type]]"
+  - "[[has_employment_type]]"
   - "[[/_public/schema-org/Property/Texts/has_employment_type.public|has_employment_type.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_employment_type.internal|has_employment_type.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_employment_type.protect|has_employment_type.protect]]"

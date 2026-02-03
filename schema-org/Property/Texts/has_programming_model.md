@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_programming_model.private|has_programming_model.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_programming_model.personal|has_programming_model.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_programming_model.secret|has_programming_model.secret]]"
+    - "[[has_programming_model]]"
 dv_has_domain: APIReference
 dv_has_name: has_text_of_programming_model
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_programming_model|has_programming_model]]"
+  - "[[has_programming_model]]"
   - "[[/_public/schema-org/Property/Texts/has_programming_model.public|has_programming_model.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_programming_model.internal|has_programming_model.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_programming_model.protect|has_programming_model.protect]]"

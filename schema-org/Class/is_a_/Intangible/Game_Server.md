@@ -1,58 +1,59 @@
 ---
 aliases:
-- game-server
-- game_server
-- GameServer
-- is_a_game_server
-- Game_Server
-- Game Server
+  - game-server
+  - game_server
+  - GameServer
+  - is_a_game_server
+  - Game_Server
+  - Game Server
 confidential: public
 cssclasses:
-- Type
+  - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
-- game_server
-layout: ''
+  - game_server
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_game_server Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
-- class/Class
-- schema-org/Class
+  - class/Class
+  - schema-org/Class
 title: is_a_game_server Class
 type: Type
 dv_is_:
   same_as:
-  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Game_Server|Game_Server]]"
-  - "[[/_public/schema-org/Class/is_a_/Intangible/Game_Server.public|Game_Server.public]]"
-  - "[[/_internal/schema-org/Class/is_a_/Intangible/Game_Server.internal|Game_Server.internal]]"
-  - "[[/_protect/schema-org/Class/is_a_/Intangible/Game_Server.protect|Game_Server.protect]]"
-  - "[[/_private/schema-org/Class/is_a_/Intangible/Game_Server.private|Game_Server.private]]"
-  - "[[/_personal/schema-org/Class/is_a_/Intangible/Game_Server.personal|Game_Server.personal]]"
-  - "[[/_secret/schema-org/Class/is_a_/Intangible/Game_Server.secret|Game_Server.secret]]"
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Game_Server|Game_Server]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Game_Server.public|Game_Server.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Game_Server.internal|Game_Server.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Game_Server.protect|Game_Server.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Game_Server.private|Game_Server.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Game_Server.personal|Game_Server.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Game_Server.secret|Game_Server.secret]]"
+    - "[[Game_Server]]"
 dv_has_:
   parent_class:
-  - "[[../Intangible]]"
+    - "[[../Intangible]]"
   properties:
-  - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
-  - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
-  - "[[../../../Property/Texts/has_description|has_description]]"
-  - "[[../../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
-  - "[[../../../Relation/has/has_game|has_game]]"
-  - "[[../../../Relation/has/has_identifier|has_identifier]]"
-  - "[[../../../Relation/has/has_image|has_image]]"
-  - "[[../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
-  - "[[../../../Property/has_name|has_name]]"
-  - "[[players_online|players_online]]"
-  - "[[../../../Relation/has/has_potential_action|has_potential_action]]"
-  - "[[../../../Relation/is_same_as|is_same_as]]"
-  - "[[../../../Relation/has/has_server_status|has_server_status]]"
-  - "[[../../../Relation/is/is_subject_of|is_subject_of]]"
-  - "[[../Property/has_url_for/has_url|has_url]]"
+    - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
+    - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
+    - "[[../../../Property/Texts/has_description|has_description]]"
+    - "[[../../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
+    - "[[../../../Relation/has/has_game|has_game]]"
+    - "[[../../../Relation/has/has_identifier|has_identifier]]"
+    - "[[../../../Relation/has/has_image|has_image]]"
+    - "[[../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+    - "[[../../../Property/has_name|has_name]]"
+    - "[[players_online|players_online]]"
+    - "[[../../../Relation/has/has_potential_action|has_potential_action]]"
+    - "[[../../../Relation/is_same_as|is_same_as]]"
+    - "[[../../../Relation/has/has_server_status|has_server_status]]"
+    - "[[../../../Relation/is/is_subject_of|is_subject_of]]"
+    - "[[../Property/has_url_for/has_url|has_url]]"
 dv_has_parent_class:
   - "[[../Intangible]]"
 dv_has_properties:
@@ -72,7 +73,7 @@ dv_has_properties:
   - "[[../../../Relation/is/is_subject_of|is_subject_of]]"
   - "[[../Property/has_url_for/has_url|has_url]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Game_Server|Game_Server]]"
+  - "[[Game_Server]]"
   - "[[/_public/schema-org/Class/is_a_/Intangible/Game_Server.public|Game_Server.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Intangible/Game_Server.internal|Game_Server.internal]]"
   - "[[/_protect/schema-org/Class/is_a_/Intangible/Game_Server.protect|Game_Server.protect]]"

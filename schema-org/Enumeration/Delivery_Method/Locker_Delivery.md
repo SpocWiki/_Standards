@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Delivery_Method/Locker_Delivery.private|Locker_Delivery.private]]"
     - "[[/_personal/schema-org/Enumeration/Delivery_Method/Locker_Delivery.personal|Locker_Delivery.personal]]"
     - "[[/_secret/schema-org/Enumeration/Delivery_Method/Locker_Delivery.secret|Locker_Delivery.secret]]"
+    - "[[Locker_Delivery]]"
 dv_has_parent_class: "[[../DeliveryMethod]]"
 dv_is_enum_of: "[[../DeliveryMethod]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Delivery_Method/Locker_Delivery|Locker_Delivery]]"
+  - "[[Locker_Delivery]]"
   - "[[/_public/schema-org/Enumeration/Delivery_Method/Locker_Delivery.public|Locker_Delivery.public]]"
   - "[[/_internal/schema-org/Enumeration/Delivery_Method/Locker_Delivery.internal|Locker_Delivery.internal]]"
   - "[[/_protect/schema-org/Enumeration/Delivery_Method/Locker_Delivery.protect|Locker_Delivery.protect]]"

@@ -41,11 +41,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_number_of/has_number_of_remaining_attendees.private|has_number_of_remaining_attendees.private]]"
     - "[[/_personal/schema-org/Property/has_number_of/has_number_of_remaining_attendees.personal|has_number_of_remaining_attendees.personal]]"
     - "[[/_secret/schema-org/Property/has_number_of/has_number_of_remaining_attendees.secret|has_number_of_remaining_attendees.secret]]"
+    - "[[has_number_of_remaining_attendees]]"
 dv_has_domain: Event
 dv_has_name: has_number_of_remaining_attendees
 dv_has_range: Integer
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_remaining_attendees|has_number_of_remaining_attendees]]"
+  - "[[has_number_of_remaining_attendees]]"
   - "[[/_public/schema-org/Property/has_number_of/has_number_of_remaining_attendees.public|has_number_of_remaining_attendees.public]]"
   - "[[/_internal/schema-org/Property/has_number_of/has_number_of_remaining_attendees.internal|has_number_of_remaining_attendees.internal]]"
   - "[[/_protect/schema-org/Property/has_number_of/has_number_of_remaining_attendees.protect|has_number_of_remaining_attendees.protect]]"

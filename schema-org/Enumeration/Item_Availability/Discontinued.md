@@ -36,10 +36,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Item_Availability/Discontinued.private|Discontinued.private]]"
     - "[[/_personal/schema-org/Enumeration/Item_Availability/Discontinued.personal|Discontinued.personal]]"
     - "[[/_secret/schema-org/Enumeration/Item_Availability/Discontinued.secret|Discontinued.secret]]"
+    - "[[Discontinued]]"
 dv_has_parent_class: "[[../ItemAvailability]]"
 dv_is_enum_of: "[[../ItemAvailability]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Item_Availability/Discontinued|Discontinued]]"
+  - "[[Discontinued]]"
   - "[[/_public/schema-org/Enumeration/Item_Availability/Discontinued.public|Discontinued.public]]"
   - "[[/_internal/schema-org/Enumeration/Item_Availability/Discontinued.internal|Discontinued.internal]]"
   - "[[/_protect/schema-org/Enumeration/Item_Availability/Discontinued.protect|Discontinued.protect]]"

@@ -36,10 +36,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Return_Fees_Enumeration.private|Return_Fees_Enumeration.private]]"
     - "[[/_personal/schema-org/Enumeration/Return_Fees_Enumeration.personal|Return_Fees_Enumeration.personal]]"
     - "[[/_secret/schema-org/Enumeration/Return_Fees_Enumeration.secret|Return_Fees_Enumeration.secret]]"
+    - "[[Return_Fees_Enumeration]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../Enumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Return_Fees_Enumeration|Return_Fees_Enumeration]]"
+  - "[[Return_Fees_Enumeration]]"
   - "[[/_public/schema-org/Enumeration/Return_Fees_Enumeration.public|Return_Fees_Enumeration.public]]"
   - "[[/_internal/schema-org/Enumeration/Return_Fees_Enumeration.internal|Return_Fees_Enumeration.internal]]"
   - "[[/_protect/schema-org/Enumeration/Return_Fees_Enumeration.protect|Return_Fees_Enumeration.protect]]"

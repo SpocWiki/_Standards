@@ -42,11 +42,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_slogan.private|has_slogan.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_slogan.personal|has_slogan.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_slogan.secret|has_slogan.secret]]"
+    - "[[has_slogan]]"
 dv_has_domain: Brand, Organization, Place, Product, Service
 dv_has_name: has_text_of_slogan
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_slogan|has_slogan]]"
+  - "[[has_slogan]]"
   - "[[/_public/schema-org/Property/Texts/has_slogan.public|has_slogan.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_slogan.internal|has_slogan.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_slogan.protect|has_slogan.protect]]"

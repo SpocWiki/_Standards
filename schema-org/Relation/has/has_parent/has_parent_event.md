@@ -64,8 +64,8 @@ dv_is_same_as:
 has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
-- #has_/parent_/event :: [[../../../Class/is_a_/Event|Event]]  
-- has_parent_event :: [[../../../Class/is_a_/Event|Event]] 
+- #has_/parent_/event : : [[../../../Class/is_a_/Event|Event]]  
+- has_parent_event : : [[../../../Class/is_a_/Event|Event]] 
 
 Refers to an event that this event is a part of. 
 For example, a collection of individual music performances might each have a music festival as their parent Event.

@@ -10,39 +10,65 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - expressed
   - in
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_expressed_in
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: is_expressed_in
 type: Predi_Relation
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[is_expressed_in]]"
+    - "[[/_public/schema-org/Relation/is/is_expressed_in.public|is_expressed_in.public]]"
+    - "[[/_internal/schema-org/Relation/is/is_expressed_in.internal|is_expressed_in.internal]]"
+    - "[[/_protect/schema-org/Relation/is/is_expressed_in.protect|is_expressed_in.protect]]"
+    - "[[/_private/schema-org/Relation/is/is_expressed_in.private|is_expressed_in.private]]"
+    - "[[/_personal/schema-org/Relation/is/is_expressed_in.personal|is_expressed_in.personal]]"
+    - "[[/_secret/schema-org/Relation/is/is_expressed_in.secret|is_expressed_in.secret]]"
+dv_has_:
+  domain: Gene
+  name: is_expressed_in
+  range: AnatomicalStructure, AnatomicalSystem, BioChemEntity, DefinedTerm
+dv_is_part_of: "pending:"
+dv_has_domain: Gene
+dv_has_name: is_expressed_in
+dv_has_range: AnatomicalStructure, AnatomicalSystem, BioChemEntity, DefinedTerm
+dv_is_same_as:
+  - "[[is_expressed_in]]"
+  - "[[/_public/schema-org/Relation/is/is_expressed_in.public|is_expressed_in.public]]"
+  - "[[/_internal/schema-org/Relation/is/is_expressed_in.internal|is_expressed_in.internal]]"
+  - "[[/_protect/schema-org/Relation/is/is_expressed_in.protect|is_expressed_in.protect]]"
+  - "[[/_private/schema-org/Relation/is/is_expressed_in.private|is_expressed_in.private]]"
+  - "[[/_personal/schema-org/Relation/is/is_expressed_in.personal|is_expressed_in.personal]]"
+  - "[[/_secret/schema-org/Relation/is/is_expressed_in.secret|is_expressed_in.secret]]"
 ---
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #is_/expressed_in :: AnatomicalStructure, AnatomicalSystem, BioChemEntity, DefinedTerm  
-- is_expressed_in :: AnatomicalStructure, AnatomicalSystem, BioChemEntity, DefinedTerm  
+- #is_/expressed_in : : AnatomicalStructure, AnatomicalSystem, BioChemEntity, DefinedTerm  
+- is_expressed_in : : AnatomicalStructure, AnatomicalSystem, BioChemEntity, DefinedTerm  
 
 Tissue, organ, biological sample, etc in which activity of this gene has been observed experimentally.
 For example brain, digestive system.
 
 Relation describes that: 
 
-#has_/domain  :: Gene  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: is_expressed_in )
-(has_/range :: AnatomicalStructure, AnatomicalSystem, BioChemEntity, DefinedTerm )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

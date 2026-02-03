@@ -36,13 +36,14 @@ dv_is_:
     - "[[/_private/schema-org/Class.private|Class.private]]"
     - "[[/_personal/schema-org/Class.personal|Class.personal]]"
     - "[[/_secret/schema-org/Class.secret|Class.secret]]"
+    - "[[Class]]"
 dv_has_:
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, supersededBy, url ]"
 dv_is_part_of: https://meta.schema.org
 dv_has_parent_class: "[[Class/is_a_/Intangible|Intangible]]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, supersededBy, url ]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Class|Class]]"
+  - "[[Class]]"
   - "[[/_public/schema-org/Class.public|Class.public]]"
   - "[[/_internal/schema-org/Class.internal|Class.internal]]"
   - "[[/_protect/schema-org/Class.protect|Class.protect]]"

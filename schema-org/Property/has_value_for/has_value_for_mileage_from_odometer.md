@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_mileage_from_odometer.private|has_value_for_mileage_from_odometer.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_mileage_from_odometer.personal|has_value_for_mileage_from_odometer.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_mileage_from_odometer.secret|has_value_for_mileage_from_odometer.secret]]"
+    - "[[has_value_for_mileage_from_odometer]]"
 dv_has_domain: "[[../../../Technology/Transport/Vehicle|Vehicle]]"
 dv_has_name: has_value_for_mileage_from_odometer
 dv_has_range: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_mileage_from_odometer|has_value_for_mileage_from_odometer]]"
+  - "[[has_value_for_mileage_from_odometer]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_mileage_from_odometer.public|has_value_for_mileage_from_odometer.public]]"
   - "[[/_internal/schema-org/Property/has_value_for/has_value_for_mileage_from_odometer.internal|has_value_for_mileage_from_odometer.internal]]"
   - "[[/_protect/schema-org/Property/has_value_for/has_value_for_mileage_from_odometer.protect|has_value_for_mileage_from_odometer.protect]]"

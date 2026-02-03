@@ -36,10 +36,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Gender_Type/Male.private|Male.private]]"
     - "[[/_personal/schema-org/Enumeration/Gender_Type/Male.personal|Male.personal]]"
     - "[[/_secret/schema-org/Enumeration/Gender_Type/Male.secret|Male.secret]]"
+    - "[[Male]]"
 dv_has_parent_class: "[[../GenderType]]"
 dv_is_enum_of: "[[../GenderType]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Gender_Type/Male|Male]]"
+  - "[[Male]]"
   - "[[/_public/schema-org/Enumeration/Gender_Type/Male.public|Male.public]]"
   - "[[/_internal/schema-org/Enumeration/Gender_Type/Male.internal|Male.internal]]"
   - "[[/_protect/schema-org/Enumeration/Gender_Type/Male.protect|Male.protect]]"

@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_video_quality.private|has_video_quality.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_video_quality.personal|has_video_quality.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_video_quality.secret|has_video_quality.secret]]"
+    - "[[has_video_quality]]"
 dv_has_domain: VideoObject
 dv_has_name: has_text_of_video_quality
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_video_quality|has_video_quality]]"
+  - "[[has_video_quality]]"
   - "[[/_public/schema-org/Property/Texts/has_video_quality.public|has_video_quality.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_video_quality.internal|has_video_quality.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_video_quality.protect|has_video_quality.protect]]"

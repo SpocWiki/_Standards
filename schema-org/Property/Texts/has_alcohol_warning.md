@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_alcohol_warning.private|has_alcohol_warning.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_alcohol_warning.personal|has_alcohol_warning.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_alcohol_warning.secret|has_alcohol_warning.secret]]"
+    - "[[has_alcohol_warning]]"
 dv_has_domain: Drug
 dv_has_name: has_text_of_alcohol_warning
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_alcohol_warning|has_alcohol_warning]]"
+  - "[[has_alcohol_warning]]"
   - "[[/_public/schema-org/Property/Texts/has_alcohol_warning.public|has_alcohol_warning.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_alcohol_warning.internal|has_alcohol_warning.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_alcohol_warning.protect|has_alcohol_warning.protect]]"

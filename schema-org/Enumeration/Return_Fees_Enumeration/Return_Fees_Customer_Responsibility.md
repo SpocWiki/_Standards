@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Return_Fees_Enumeration/Return_Fees_Customer_Responsibility.private|Return_Fees_Customer_Responsibility.private]]"
     - "[[/_personal/schema-org/Enumeration/Return_Fees_Enumeration/Return_Fees_Customer_Responsibility.personal|Return_Fees_Customer_Responsibility.personal]]"
     - "[[/_secret/schema-org/Enumeration/Return_Fees_Enumeration/Return_Fees_Customer_Responsibility.secret|Return_Fees_Customer_Responsibility.secret]]"
+    - "[[Return_Fees_Customer_Responsibility]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../ReturnFeesEnumeration]]"
 dv_is_enum_of: "[[../ReturnFeesEnumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Return_Fees_Enumeration/Return_Fees_Customer_Responsibility|Return_Fees_Customer_Responsibility]]"
+  - "[[Return_Fees_Customer_Responsibility]]"
   - "[[/_public/schema-org/Enumeration/Return_Fees_Enumeration/Return_Fees_Customer_Responsibility.public|Return_Fees_Customer_Responsibility.public]]"
   - "[[/_internal/schema-org/Enumeration/Return_Fees_Enumeration/Return_Fees_Customer_Responsibility.internal|Return_Fees_Customer_Responsibility.internal]]"
   - "[[/_protect/schema-org/Enumeration/Return_Fees_Enumeration/Return_Fees_Customer_Responsibility.protect|Return_Fees_Customer_Responsibility.protect]]"

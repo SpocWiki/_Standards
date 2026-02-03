@@ -39,11 +39,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Flags/is_family_friendly.private|is_family_friendly.private]]"
     - "[[/_personal/schema-org/Property/Flags/is_family_friendly.personal|is_family_friendly.personal]]"
     - "[[/_secret/schema-org/Property/Flags/is_family_friendly.secret|is_family_friendly.secret]]"
+    - "[[is_family_friendly]]"
 dv_has_domain: CreativeWork, Offer, Product
 dv_has_name: is_family_friendly
 dv_has_range: Boolean
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Flags/is_family_friendly|is_family_friendly]]"
+  - "[[is_family_friendly]]"
   - "[[/_public/schema-org/Property/Flags/is_family_friendly.public|is_family_friendly.public]]"
   - "[[/_internal/schema-org/Property/Flags/is_family_friendly.internal|is_family_friendly.internal]]"
   - "[[/_protect/schema-org/Property/Flags/is_family_friendly.protect|is_family_friendly.protect]]"

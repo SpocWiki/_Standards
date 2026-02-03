@@ -41,10 +41,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission.private|Comment_Permission.private]]"
     - "[[/_personal/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission.personal|Comment_Permission.personal]]"
     - "[[/_secret/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission.secret|Comment_Permission.secret]]"
+    - "[[Permission_to_Comment]]"
 dv_has_parent_class: "[[../DigitalDocumentPermissionType]]"
 dv_is_enum_of: "[[../DigitalDocumentPermissionType]]"
 dv_is_same_as:
-  - "[[Permission_to_comment|Permission_to_Comment]]"
+  - "[[Permission_to_Comment]]"
   - "[[/_public/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission.public|Comment_Permission.public]]"
   - "[[/_internal/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission.internal|Comment_Permission.internal]]"
   - "[[/_protect/schema-org/Enumeration/Digital_Document_Permission_Type/Comment_Permission.protect|Comment_Permission.protect]]"

@@ -11,41 +11,67 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - postal
   - code
   - prefix
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_postal_code_prefix
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_postal_code_prefix
 type: Pred_Text
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[/_Standards/schema-org/Property/has_name/has_postal_code_prefix|has_postal_code_prefix]]"
+    - "[[/_public/schema-org/Property/has_name/has_postal_code_prefix.public|has_postal_code_prefix.public]]"
+    - "[[/_internal/schema-org/Property/has_name/has_postal_code_prefix.internal|has_postal_code_prefix.internal]]"
+    - "[[/_protect/schema-org/Property/has_name/has_postal_code_prefix.protect|has_postal_code_prefix.protect]]"
+    - "[[/_private/schema-org/Property/has_name/has_postal_code_prefix.private|has_postal_code_prefix.private]]"
+    - "[[/_personal/schema-org/Property/has_name/has_postal_code_prefix.personal|has_postal_code_prefix.personal]]"
+    - "[[/_secret/schema-org/Property/has_name/has_postal_code_prefix.secret|has_postal_code_prefix.secret]]"
+dv_has_:
+  domain: DefinedRegion
+  name: has_text_of_postal_code_prefix
+  range: Text
+dv_is_part_of: "pending:"
+dv_has_domain: DefinedRegion
+dv_has_name: has_text_of_postal_code_prefix
+dv_has_range: Text
+dv_is_same_as:
+  - "[[/_Standards/schema-org/Property/has_name/has_postal_code_prefix|has_postal_code_prefix]]"
+  - "[[/_public/schema-org/Property/has_name/has_postal_code_prefix.public|has_postal_code_prefix.public]]"
+  - "[[/_internal/schema-org/Property/has_name/has_postal_code_prefix.internal|has_postal_code_prefix.internal]]"
+  - "[[/_protect/schema-org/Property/has_name/has_postal_code_prefix.protect|has_postal_code_prefix.protect]]"
+  - "[[/_private/schema-org/Property/has_name/has_postal_code_prefix.private|has_postal_code_prefix.private]]"
+  - "[[/_personal/schema-org/Property/has_name/has_postal_code_prefix.personal|has_postal_code_prefix.personal]]"
+  - "[[/_secret/schema-org/Property/has_name/has_postal_code_prefix.secret|has_postal_code_prefix.secret]]"
 ---
 
 Predicate to describe the Text of DefinedRegion.
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/text_of_/postal_code_prefix :: Text   
-- has_text_of_postal_code_prefix :: Text   
+- #has_/text_of_/postal_code_prefix : : Text   
+- has_text_of_postal_code_prefix : : Text   
 
 A defined range of postal codes indicated by a common textual prefix. Used for non-numeric systems such as UK.
 
 Predicated describes that: 
 
-#has_/domain  :: DefinedRegion  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: has_text_of_postal_code_prefix )
-(has_/range :: Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

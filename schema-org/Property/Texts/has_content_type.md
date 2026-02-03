@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_content_type.private|has_content_type.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_content_type.personal|has_content_type.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_content_type.secret|has_content_type.secret]]"
+    - "[[has_content_type]]"
 dv_has_domain: EntryPoint
 dv_has_name: has_text_of_content_type
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_content_type|has_content_type]]"
+  - "[[has_content_type]]"
   - "[[/_public/schema-org/Property/Texts/has_content_type.public|has_content_type.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_content_type.internal|has_content_type.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_content_type.protect|has_content_type.protect]]"

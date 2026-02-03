@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_cargo_volume.private|has_value_for_cargo_volume.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_cargo_volume.personal|has_value_for_cargo_volume.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_cargo_volume.secret|has_value_for_cargo_volume.secret]]"
+    - "[[has_value_for_cargo_volume]]"
 dv_has_domain: "[[../../../Technology/Transport/Vehicle|Vehicle]]"
 dv_has_name: has_value_for_cargo_volume
 dv_has_range: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_cargo_volume|has_value_for_cargo_volume]]"
+  - "[[has_value_for_cargo_volume]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_cargo_volume.public|has_value_for_cargo_volume.public]]"
   - "[[/_internal/schema-org/Property/has_value_for/has_value_for_cargo_volume.internal|has_value_for_cargo_volume.internal]]"
   - "[[/_protect/schema-org/Property/has_value_for/has_value_for_cargo_volume.protect|has_value_for_cargo_volume.protect]]"

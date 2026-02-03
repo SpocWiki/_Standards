@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value/Front_Wheel_Drive_Configuration.private|Front_Wheel_Drive_Configuration.private]]"
     - "[[/_personal/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value/Front_Wheel_Drive_Configuration.personal|Front_Wheel_Drive_Configuration.personal]]"
     - "[[/_secret/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value/Front_Wheel_Drive_Configuration.secret|Front_Wheel_Drive_Configuration.secret]]"
+    - "[[Front_Wheel_Drive_Configuration]]"
 dv_has_parent_class: "[[../DriveWheelConfigurationValue]]"
 dv_is_enum_of: "[[../DriveWheelConfigurationValue]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value/Front_Wheel_Drive_Configuration|Front_Wheel_Drive_Configuration]]"
+  - "[[Front_Wheel_Drive_Configuration]]"
   - "[[/_public/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value/Front_Wheel_Drive_Configuration.public|Front_Wheel_Drive_Configuration.public]]"
   - "[[/_internal/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value/Front_Wheel_Drive_Configuration.internal|Front_Wheel_Drive_Configuration.internal]]"
   - "[[/_protect/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value/Front_Wheel_Drive_Configuration.protect|Front_Wheel_Drive_Configuration.protect]]"

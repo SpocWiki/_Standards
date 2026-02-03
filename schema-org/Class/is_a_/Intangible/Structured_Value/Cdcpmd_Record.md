@@ -1,72 +1,73 @@
 ---
 aliases:
-- cdcpmd-record
-- cdcpmd_record
-- CDCPMDRecord
-- is_a_cdcpmd_record
-- Cdcpmd_Record
-- Cdcpmd Record
+  - cdcpmd-record
+  - cdcpmd_record
+  - CDCPMDRecord
+  - is_a_cdcpmd_record
+  - Cdcpmd_Record
+  - Cdcpmd Record
 confidential: public
 cssclasses:
-- Type
+  - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
-- cdcpmd_record
-layout: ''
+  - cdcpmd_record
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_cdcpmd_record Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
-- class/Class
-- schema-org/Class
+  - class/Class
+  - schema-org/Class
 title: is_a_cdcpmd_record Class
 type: Type
 dv_is_:
   parent_class: "[[../StructuredValue]]"
   part_of: https://pending.schema.org
   same_as:
-  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Cdcpmd_Record|Cdcpmd_Record]]"
-  - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Cdcpmd_Record.public|Cdcpmd_Record.public]]"
-  - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Cdcpmd_Record.internal|Cdcpmd_Record.internal]]"
-  - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Cdcpmd_Record.protect|Cdcpmd_Record.protect]]"
-  - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Cdcpmd_Record.private|Cdcpmd_Record.private]]"
-  - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Cdcpmd_Record.personal|Cdcpmd_Record.personal]]"
-  - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Cdcpmd_Record.secret|Cdcpmd_Record.secret]]"
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Cdcpmd_Record|Cdcpmd_Record]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Cdcpmd_Record.public|Cdcpmd_Record.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Cdcpmd_Record.internal|Cdcpmd_Record.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Cdcpmd_Record.protect|Cdcpmd_Record.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Cdcpmd_Record.private|Cdcpmd_Record.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Cdcpmd_Record.personal|Cdcpmd_Record.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Cdcpmd_Record.secret|Cdcpmd_Record.secret]]"
+    - "[[Cdcpmd_Record]]"
 dv_has_:
   properties:
-  - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
-  - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
-  - "[[cvd_collection_date|cvd_collection_date]]"
-  - "[[../../../../Property/Texts/has_cvd_facility_county|has_cvd_facility_county]]"
-  - "[[cvd_facility_id|cvd_facility_id]]"
-  - "[[cvd_num_beds|cvd_num_beds]]"
-  - "[[cvd_num_beds_occ|cvd_num_beds_occ]]"
-  - "[[cvd_num_c19_died|cvd_num_c19_died]]"
-  - "[[cvd_num_c19_ho_pats|cvd_num_c19_ho_pats]]"
-  - "[[cvd_num_c19_hosp_pats|cvd_num_c19_hosp_pats]]"
-  - "[[cvd_num_c19_mech_vent_pats|cvd_num_c19_mech_vent_pats]]"
-  - "[[cvd_num_c19_of_mech_vent_pats|cvd_num_c19_of_mech_vent_pats]]"
-  - "[[cvd_num_c19_overflow_pats|cvd_num_c19_overflow_pats]]"
-  - "[[cvd_num_icu_beds|cvd_num_icu_beds]]"
-  - "[[cvd_num_icu_beds_occ|cvd_num_icu_beds_occ]]"
-  - "[[cvd_num_tot_beds|cvd_num_tot_beds]]"
-  - "[[cvd_num_vent|cvd_num_vent]]"
-  - "[[cvd_num_vent_use|cvd_num_vent_use]]"
-  - "[[date_posted|date_posted]]"
-  - "[[../../../../Property/Texts/has_description|has_description]]"
-  - "[[../../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
-  - "[[../../../../Relation/has/has_identifier|has_identifier]]"
-  - "[[../../../../Relation/has/has_image|has_image]]"
-  - "[[../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
-  - "[[../../../../Property/has_name|has_name]]"
-  - "[[../../../../Relation/has/has_potential_action|has_potential_action]]"
-  - "[[../../../../Relation/is_same_as|is_same_as]]"
-  - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
-  - "[[../../Property/has_url_for/has_url|has_url]]"
+    - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
+    - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
+    - "[[cvd_collection_date|cvd_collection_date]]"
+    - "[[../../../../Property/Texts/has_cvd_facility_county|has_cvd_facility_county]]"
+    - "[[cvd_facility_id|cvd_facility_id]]"
+    - "[[cvd_num_beds|cvd_num_beds]]"
+    - "[[cvd_num_beds_occ|cvd_num_beds_occ]]"
+    - "[[cvd_num_c19_died|cvd_num_c19_died]]"
+    - "[[cvd_num_c19_ho_pats|cvd_num_c19_ho_pats]]"
+    - "[[cvd_num_c19_hosp_pats|cvd_num_c19_hosp_pats]]"
+    - "[[cvd_num_c19_mech_vent_pats|cvd_num_c19_mech_vent_pats]]"
+    - "[[cvd_num_c19_of_mech_vent_pats|cvd_num_c19_of_mech_vent_pats]]"
+    - "[[cvd_num_c19_overflow_pats|cvd_num_c19_overflow_pats]]"
+    - "[[cvd_num_icu_beds|cvd_num_icu_beds]]"
+    - "[[cvd_num_icu_beds_occ|cvd_num_icu_beds_occ]]"
+    - "[[cvd_num_tot_beds|cvd_num_tot_beds]]"
+    - "[[cvd_num_vent|cvd_num_vent]]"
+    - "[[cvd_num_vent_use|cvd_num_vent_use]]"
+    - "[[date_posted|date_posted]]"
+    - "[[../../../../Property/Texts/has_description|has_description]]"
+    - "[[../../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
+    - "[[../../../../Relation/has/has_identifier|has_identifier]]"
+    - "[[../../../../Relation/has/has_image|has_image]]"
+    - "[[../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+    - "[[../../../../Property/has_name|has_name]]"
+    - "[[../../../../Relation/has/has_potential_action|has_potential_action]]"
+    - "[[../../../../Relation/is_same_as|is_same_as]]"
+    - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
+    - "[[../../Property/has_url_for/has_url|has_url]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class:
   - "[[../structured_value|../structured_value]]"
@@ -101,7 +102,7 @@ dv_has_properties:
   - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
   - "[[../../Property/has_url_for/has_url|has_url]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Cdcpmd_Record|Cdcpmd_Record]]"
+  - "[[Cdcpmd_Record]]"
   - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Cdcpmd_Record.public|Cdcpmd_Record.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Cdcpmd_Record.internal|Cdcpmd_Record.internal]]"
   - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Cdcpmd_Record.protect|Cdcpmd_Record.protect]]"

@@ -30,6 +30,7 @@ dv_has_:
   domain: "[[../../Class/is_a_/Intangible/Parcel_Delivery|ParcelDelivery]]"
   name: has_item_shipped
   range: "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]"
+  inverse: "[[is_item_shipped_by]]"
 dv_is_:
   same_as:
     - "[[has_item_shipped|has_item_shipped]]"
@@ -39,25 +40,28 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_item_shipped.private|has_item_shipped.private]]"
     - "[[/_personal/schema-org/Relation/has/has_item_shipped.personal|has_item_shipped.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_item_shipped.secret|has_item_shipped.secret]]"
+    - "[[has_item_shipped]]"
 dv_has_domain: "[[../../Class/is_a_/Intangible/Parcel_Delivery|ParcelDelivery]]"
 dv_has_name: has_item_shipped
 dv_has_range: "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]"
 dv_is_same_as:
-  - "[[has_item_shipped|has_item_shipped]]"
+  - "[[has_item_shipped]]"
   - "[[/_public/schema-org/Relation/has/has_item_shipped.public|has_item_shipped.public]]"
   - "[[/_internal/schema-org/Relation/has/has_item_shipped.internal|has_item_shipped.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_item_shipped.protect|has_item_shipped.protect]]"
   - "[[/_private/schema-org/Relation/has/has_item_shipped.private|has_item_shipped.private]]"
   - "[[/_personal/schema-org/Relation/has/has_item_shipped.personal|has_item_shipped.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_item_shipped.secret|has_item_shipped.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_item_shipped_by]]"
 ---
 
 # [[has_item_shipped]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_item_shipped_by]] 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/item_/shipped : : `=this.dv_has_range` 

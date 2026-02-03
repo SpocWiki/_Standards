@@ -10,39 +10,65 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - months-of-experience
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_months-of-experience
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_months-of-experience
 type: Predi_Quantity
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[has_value_for_months_of_experience]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_months_of_experience.public|has_value_for_months_of_experience.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_months_of_experience.internal|has_value_for_months_of_experience.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_months_of_experience.protect|has_value_for_months_of_experience.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_months_of_experience.private|has_value_for_months_of_experience.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_months_of_experience.personal|has_value_for_months_of_experience.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_months_of_experience.secret|has_value_for_months_of_experience.secret]]"
+dv_has_:
+  domain: OccupationalExperienceRequirements
+  name: has_value_for_months_of_experience
+  range: Number
+dv_is_part_of: "pending:"
+dv_has_domain: OccupationalExperienceRequirements
+dv_has_name: has_value_for_months_of_experience
+dv_has_range: Number
+dv_is_same_as:
+  - "[[has_value_for_months_of_experience]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_months_of_experience.public|has_value_for_months_of_experience.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_months_of_experience.internal|has_value_for_months_of_experience.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_months_of_experience.protect|has_value_for_months_of_experience.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_months_of_experience.private|has_value_for_months_of_experience.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_months_of_experience.personal|has_value_for_months_of_experience.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_months_of_experience.secret|has_value_for_months_of_experience.secret]]"
 ---
 
 Predicate to describe the Quantity of OccupationalExperienceRequirements.
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/value_for_/months_of_experience :: Number   
-- has_value_for_months_of_experience :: Number   
+- #has_/value_for_/months_of_experience : : Number   
+- has_value_for_months_of_experience : : Number   
 
 Indicates the minimal number of months of experience required for a position.
 
 Predicate describes that: 
 
-#has_/domain  :: OccupationalExperienceRequirements  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: has_value_for_months_of_experience )
-(has_/range :: Number )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

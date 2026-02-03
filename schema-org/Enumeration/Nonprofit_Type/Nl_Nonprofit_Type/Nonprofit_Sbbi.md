@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Sbbi.private|Nonprofit_Sbbi.private]]"
     - "[[/_personal/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Sbbi.personal|Nonprofit_Sbbi.personal]]"
     - "[[/_secret/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Sbbi.secret|Nonprofit_Sbbi.secret]]"
+    - "[[Nonprofit_Sbbi]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../NLNonprofitType]]"
 dv_is_enum_of: "[[../NLNonprofitType]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Sbbi|Nonprofit_Sbbi]]"
+  - "[[Nonprofit_Sbbi]]"
   - "[[/_public/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Sbbi.public|Nonprofit_Sbbi.public]]"
   - "[[/_internal/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Sbbi.internal|Nonprofit_Sbbi.internal]]"
   - "[[/_protect/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Sbbi.protect|Nonprofit_Sbbi.protect]]"

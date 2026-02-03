@@ -10,37 +10,61 @@ cssclasses:
   - Predicate
   - geo
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - founding_location
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_location_founding
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/geo
 title: has_location_founding
 type: Pred_geo
+dv_has_:
+  domain: Organization
+  name: has_location_founding
+  range: Place
+dv_is_:
+  same_as:
+    - "[[has_location_founding]]"
+    - "[[/_public/schema-org/Property/has_location/has_location_founding.public|has_location_founding.public]]"
+    - "[[/_internal/schema-org/Property/has_location/has_location_founding.internal|has_location_founding.internal]]"
+    - "[[/_protect/schema-org/Property/has_location/has_location_founding.protect|has_location_founding.protect]]"
+    - "[[/_private/schema-org/Property/has_location/has_location_founding.private|has_location_founding.private]]"
+    - "[[/_personal/schema-org/Property/has_location/has_location_founding.personal|has_location_founding.personal]]"
+    - "[[/_secret/schema-org/Property/has_location/has_location_founding.secret|has_location_founding.secret]]"
+dv_has_domain: Organization
+dv_has_name: has_location_founding
+dv_has_range: Place
+dv_is_same_as:
+  - "[[has_location_founding]]"
+  - "[[/_public/schema-org/Property/has_location/has_location_founding.public|has_location_founding.public]]"
+  - "[[/_internal/schema-org/Property/has_location/has_location_founding.internal|has_location_founding.internal]]"
+  - "[[/_protect/schema-org/Property/has_location/has_location_founding.protect|has_location_founding.protect]]"
+  - "[[/_private/schema-org/Property/has_location/has_location_founding.private|has_location_founding.private]]"
+  - "[[/_personal/schema-org/Property/has_location/has_location_founding.personal|has_location_founding.personal]]"
+  - "[[/_secret/schema-org/Property/has_location/has_location_founding.secret|has_location_founding.secret]]"
 ---
 
 Predicate to describe the geo of Organization.
 
 Use it like this: 
-- #has_/location_/founding_location :: Place   
-- has_location_founding :: Place   
+- #has_/location_/founding_location : : Place   
+- has_location_founding : : Place   
 
 The place where the Organization was founded.
 
 Predicate describes that: 
 
-#has_/domain  :: Organization  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: has_location_founding )
-(has_/range :: Place )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

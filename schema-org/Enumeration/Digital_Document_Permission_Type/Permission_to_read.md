@@ -39,10 +39,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Digital_Document_Permission_Type/Read_Permission.private|Read_Permission.private]]"
     - "[[/_personal/schema-org/Enumeration/Digital_Document_Permission_Type/Read_Permission.personal|Read_Permission.personal]]"
     - "[[/_secret/schema-org/Enumeration/Digital_Document_Permission_Type/Read_Permission.secret|Read_Permission.secret]]"
+    - "[[Permission_to_Read]]"
 dv_has_parent_class: "[[../DigitalDocumentPermissionType]]"
 dv_is_enum_of: "[[../DigitalDocumentPermissionType]]"
 dv_is_same_as:
-  - "[[Permission_to_read|Permission_to_Read]]"
+  - "[[Permission_to_Read]]"
   - "[[/_public/schema-org/Enumeration/Digital_Document_Permission_Type/Read_Permission.public|Read_Permission.public]]"
   - "[[/_internal/schema-org/Enumeration/Digital_Document_Permission_Type/Read_Permission.internal|Read_Permission.internal]]"
   - "[[/_protect/schema-org/Enumeration/Digital_Document_Permission_Type/Read_Permission.protect|Read_Permission.protect]]"

@@ -45,11 +45,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_post_office_box_number.private|has_post_office_box_number.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_post_office_box_number.personal|has_post_office_box_number.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_post_office_box_number.secret|has_post_office_box_number.secret]]"
+    - "[[has_post_office_box_number]]"
 dv_has_domain: PostalAddress
 dv_has_name: has_text_of_post_office_box_number
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_post_office_box_number|has_post_office_box_number]]"
+  - "[[has_post_office_box_number]]"
   - "[[/_public/schema-org/Property/Texts/has_post_office_box_number.public|has_post_office_box_number.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_post_office_box_number.internal|has_post_office_box_number.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_post_office_box_number.protect|has_post_office_box_number.protect]]"

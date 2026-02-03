@@ -9,9 +9,10 @@ dv_is_:
     - "[[/_private/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.private|Collecting.private]]"
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.personal|Collecting.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.secret|Collecting.secret]]"
+    - "[[Collecting]]"
 dv_is_same_as:
   - "[[_Standards/WikiData/WD~collecting_hobby,12051052]]"
-  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting|Collecting]]"
+  - "[[Collecting]]"
   - "[[/_public/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.public|Collecting.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.internal|Collecting.internal]]"
   - "[[/_protect/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.protect|Collecting.protect]]"

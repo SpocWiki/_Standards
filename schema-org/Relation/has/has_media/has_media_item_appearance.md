@@ -68,8 +68,8 @@ is_a = `=this.dv_is_a`
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/media_/item_/appearance :: [[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]]  
-- has_media_item_appearance :: [[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]]  
+- #has_/media_/item_/appearance : : [[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]]  
+- has_media_item_appearance : : [[../../../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object|Media_Object]]  
 
 In the context of a [[../../../../Society/Communication/Media/Creative_Work/Review/Media_Review|Media_Review]], indicates specific media item(s) 
 that are grouped using a [[../../../../Society/Communication/Media/Creative_Work/Media_Review_Item|Media_Review_Item]].

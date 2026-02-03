@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Contact_Point_Option/Hearing_Impaired_Supported.private|Hearing_Impaired_Supported.private]]"
     - "[[/_personal/schema-org/Enumeration/Contact_Point_Option/Hearing_Impaired_Supported.personal|Hearing_Impaired_Supported.personal]]"
     - "[[/_secret/schema-org/Enumeration/Contact_Point_Option/Hearing_Impaired_Supported.secret|Hearing_Impaired_Supported.secret]]"
+    - "[[Hearing_Impaired_Supported]]"
 dv_has_parent_class: "[[../ContactPointOption]]"
 dv_is_enum_of: "[[../ContactPointOption]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Contact_Point_Option/Hearing_Impaired_Supported|Hearing_Impaired_Supported]]"
+  - "[[Hearing_Impaired_Supported]]"
   - "[[/_public/schema-org/Enumeration/Contact_Point_Option/Hearing_Impaired_Supported.public|Hearing_Impaired_Supported.public]]"
   - "[[/_internal/schema-org/Enumeration/Contact_Point_Option/Hearing_Impaired_Supported.internal|Hearing_Impaired_Supported.internal]]"
   - "[[/_protect/schema-org/Enumeration/Contact_Point_Option/Hearing_Impaired_Supported.protect|Hearing_Impaired_Supported.protect]]"

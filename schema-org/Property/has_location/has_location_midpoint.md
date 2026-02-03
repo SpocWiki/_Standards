@@ -41,11 +41,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_location/has_location_midpoint.private|has_location_midpoint.private]]"
     - "[[/_personal/schema-org/Property/has_location/has_location_midpoint.personal|has_location_midpoint.personal]]"
     - "[[/_secret/schema-org/Property/has_location/has_location_midpoint.secret|has_location_midpoint.secret]]"
+    - "[[has_location_midpoint]]"
 dv_has_domain: GeoCircle
 dv_has_name: has_location_midpoint
 dv_has_range: GeoCoordinates
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_location/has_location_midpoint|has_location_midpoint]]"
+  - "[[has_location_midpoint]]"
   - "[[/_public/schema-org/Property/has_location/has_location_midpoint.public|has_location_midpoint.public]]"
   - "[[/_internal/schema-org/Property/has_location/has_location_midpoint.internal|has_location_midpoint.internal]]"
   - "[[/_protect/schema-org/Property/has_location/has_location_midpoint.protect|has_location_midpoint.protect]]"

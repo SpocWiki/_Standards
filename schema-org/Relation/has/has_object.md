@@ -83,8 +83,8 @@ is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
 has_inverse = `=this.dv_has_inverse`
-- #has_/object :: "[[../../Class/Thing|Thing]]" 
-- has_object :: "[[../../Class/Thing|Thing]]"  
+- #has_/object : : "[[../../Class/Thing|Thing]]" 
+- has_object : : "[[../../Class/Thing|Thing]]"  
 
 The object upon which the action is carried out, 
 whose state is kept intact or changed. 

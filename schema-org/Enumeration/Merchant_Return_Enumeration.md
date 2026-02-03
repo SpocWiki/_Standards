@@ -37,10 +37,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Merchant_Return_Enumeration.private|Merchant_Return_Enumeration.private]]"
     - "[[/_personal/schema-org/Enumeration/Merchant_Return_Enumeration.personal|Merchant_Return_Enumeration.personal]]"
     - "[[/_secret/schema-org/Enumeration/Merchant_Return_Enumeration.secret|Merchant_Return_Enumeration.secret]]"
+    - "[[Merchant_Return_Enumeration]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../Enumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Merchant_Return_Enumeration|Merchant_Return_Enumeration]]"
+  - "[[Merchant_Return_Enumeration]]"
   - "[[/_public/schema-org/Enumeration/Merchant_Return_Enumeration.public|Merchant_Return_Enumeration.public]]"
   - "[[/_internal/schema-org/Enumeration/Merchant_Return_Enumeration.internal|Merchant_Return_Enumeration.internal]]"
   - "[[/_protect/schema-org/Enumeration/Merchant_Return_Enumeration.protect|Merchant_Return_Enumeration.protect]]"

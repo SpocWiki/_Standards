@@ -10,33 +10,57 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
-layout: ''
+keywords: ""
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_using_device
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: is_using_device
 type: Predi_Relation
+dv_has_:
+  domain: "[[../../../bio/Medicine/Medical_Entity/Medical_Test|Medical_Test]]"
+  name: is_using_device
+  range: "[[../../../bio/Medicine/Medical_Entity/Medical_Device|Medical_Device]]"
+dv_is_:
+  same_as:
+    - "[[is_using_device]]"
+    - "[[/_public/schema-org/Relation/is/is_using_device.public|is_using_device.public]]"
+    - "[[/_internal/schema-org/Relation/is/is_using_device.internal|is_using_device.internal]]"
+    - "[[/_protect/schema-org/Relation/is/is_using_device.protect|is_using_device.protect]]"
+    - "[[/_private/schema-org/Relation/is/is_using_device.private|is_using_device.private]]"
+    - "[[/_personal/schema-org/Relation/is/is_using_device.personal|is_using_device.personal]]"
+    - "[[/_secret/schema-org/Relation/is/is_using_device.secret|is_using_device.secret]]"
+dv_has_domain: "[[../../../bio/Medicine/Medical_Entity/Medical_Test|Medical_Test]]"
+dv_has_name: is_using_device
+dv_has_range: "[[../../../bio/Medicine/Medical_Entity/Medical_Device|Medical_Device]]"
+dv_is_same_as:
+  - "[[is_using_device]]"
+  - "[[/_public/schema-org/Relation/is/is_using_device.public|is_using_device.public]]"
+  - "[[/_internal/schema-org/Relation/is/is_using_device.internal|is_using_device.internal]]"
+  - "[[/_protect/schema-org/Relation/is/is_using_device.protect|is_using_device.protect]]"
+  - "[[/_private/schema-org/Relation/is/is_using_device.private|is_using_device.private]]"
+  - "[[/_personal/schema-org/Relation/is/is_using_device.personal|is_using_device.personal]]"
+  - "[[/_secret/schema-org/Relation/is/is_using_device.secret|is_using_device.secret]]"
 ---
 
 [MedicalDevice](../../../Class/is_a_/medical_entity/medical_device) used to perform the test.
 
 Use it like this: 
-- #is_/using_device :: MedicalDevice 
-- is_using_device :: MedicalDevice 
+- #is_/using_device : : MedicalDevice 
+- is_using_device : : MedicalDevice 
 
 Relation describes that: 
 
-#has_/domain  :: "[[../../../bio/Medicine/Medical_Entity/Medical_Test|Medical_Test]]" 
-(has_/name :: is_using_device)
-(has_/range :: "[[../../../bio/Medicine/Medical_Entity/Medical_Device|Medical_Device]]")
+has_domain = `=this.dv_has_domain` 
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 #is_a_/use_action 
 ( [[has_parent_relation]] :: [use_action](../../../Class/is_a_/action/consume_action/use_action) )

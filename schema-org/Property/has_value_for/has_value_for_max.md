@@ -27,7 +27,11 @@ tags:
 title: has_max-value
 type: Predi_Quantity
 dv_has_:
-  domain: ["[[../../Class/is_a_/Intangible/Structured_Value/Monetary_Amount|Monetary_Amount]]", "[[../../Class/is_a_/Intangible/Structured_Value/Property_Value_Pair|Property_Value_Pair]]", "[[../../Class/is_a_/Intangible/Property_Value_Specification|Property_Value_Specification]]", "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"]
+  domain:
+    - "[[../../Class/is_a_/Intangible/Structured_Value/Monetary_Amount|Monetary_Amount]]"
+    - "[[../../Class/is_a_/Intangible/Structured_Value/Property_Value_Pair|Property_Value_Pair]]"
+    - "[[../../Class/is_a_/Intangible/Property_Value_Specification|Property_Value_Specification]]"
+    - "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
   name: has_value_for_max
   range: "[[../../Class/is_a_/Data_Type/Number|Number]]"
 dv_is_:
@@ -39,7 +43,11 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_max_value.private|has_value_for_max_value.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_max_value.personal|has_value_for_max_value.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_max_value.secret|has_value_for_max_value.secret]]"
-dv_has_domain: ["[[../../Class/is_a_/Intangible/Structured_Value/Monetary_Amount|Monetary_Amount]]", "[[../../Class/is_a_/Intangible/Structured_Value/Property_Value_Pair|Property_Value_Pair]]", "[[../../Class/is_a_/Intangible/Property_Value_Specification|Property_Value_Specification]]", "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"]
+dv_has_domain:
+  - "[[../../Class/is_a_/Intangible/Structured_Value/Monetary_Amount|Monetary_Amount]]"
+  - "[[../../Class/is_a_/Intangible/Structured_Value/Property_Value_Pair|Property_Value_Pair]]"
+  - "[[../../Class/is_a_/Intangible/Property_Value_Specification|Property_Value_Specification]]"
+  - "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
 dv_has_name: has_value_for_max
 dv_has_range: "[[../../Class/is_a_/Data_Type/Number|Number]]"
 dv_is_same_as:

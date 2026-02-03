@@ -26,7 +26,9 @@ tags:
 title: has_floor-size
 type: Predi_Quantity
 dv_has_:
-  domain: ["[[../../../Earth/Geography/Place/Accommodation|Accommodation]]", "[[../../../Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor_Plan|FloorPlan]]"]
+  domain:
+    - "[[../../../Earth/Geography/Place/Accommodation|Accommodation]]"
+    - "[[../../../Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor_Plan|FloorPlan]]"
   name: has_value_for_floor_size
   range: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
 dv_is_:
@@ -38,11 +40,14 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_floor_size.private|has_value_for_floor_size.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_floor_size.personal|has_value_for_floor_size.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_floor_size.secret|has_value_for_floor_size.secret]]"
-dv_has_domain: ["[[../../../Earth/Geography/Place/Accommodation|Accommodation]]", "[[../../../Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor_Plan|FloorPlan]]"]
+    - "[[has_value_for_floor_size]]"
+dv_has_domain:
+  - "[[../../../Earth/Geography/Place/Accommodation|Accommodation]]"
+  - "[[../../../Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Floor_Plan|FloorPlan]]"
 dv_has_name: has_value_for_floor_size
 dv_has_range: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
 dv_is_same_as:
-  - "[[has_value_for_floor_size|has_value_for_floor_size]]"
+  - "[[has_value_for_floor_size]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_floor_size.public|has_value_for_floor_size.public]]"
   - "[[/_internal/schema-org/Property/has_value_for/has_value_for_floor_size.internal|has_value_for_floor_size.internal]]"
   - "[[/_protect/schema-org/Property/has_value_for/has_value_for_floor_size.protect|has_value_for_floor_size.protect]]"

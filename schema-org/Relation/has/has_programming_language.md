@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_programming_language]]"
+    - "[[/_public/schema-org/Relation/has/has_programming_language.public|has_programming_language.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_programming_language.internal|has_programming_language.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_programming_language.protect|has_programming_language.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_programming_language.private|has_programming_language.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_programming_language.personal|has_programming_language.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_programming_language.secret|has_programming_language.secret]]"
+dv_is_same_as:
+  - "[[has_programming_language]]"
+  - "[[/_public/schema-org/Relation/has/has_programming_language.public|has_programming_language.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_programming_language.internal|has_programming_language.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_programming_language.protect|has_programming_language.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_programming_language.private|has_programming_language.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_programming_language.personal|has_programming_language.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_programming_language.secret|has_programming_language.secret]]"
+---
 ﻿---
 dv_is_:
   same_as:

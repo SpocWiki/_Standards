@@ -41,11 +41,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_number_of/has_number_of_additional_number_of_guests.private|has_number_of_additional_number_of_guests.private]]"
     - "[[/_personal/schema-org/Property/has_number_of/has_number_of_additional_number_of_guests.personal|has_number_of_additional_number_of_guests.personal]]"
     - "[[/_secret/schema-org/Property/has_number_of/has_number_of_additional_number_of_guests.secret|has_number_of_additional_number_of_guests.secret]]"
+    - "[[has_number_of_additional_number_of_guests]]"
 dv_has_domain: RsvpAction
 dv_has_name: has_number_of_additional_number_of_guests
 dv_has_range: Number
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_additional_number_of_guests|has_number_of_additional_number_of_guests]]"
+  - "[[has_number_of_additional_number_of_guests]]"
   - "[[/_public/schema-org/Property/has_number_of/has_number_of_additional_number_of_guests.public|has_number_of_additional_number_of_guests.public]]"
   - "[[/_internal/schema-org/Property/has_number_of/has_number_of_additional_number_of_guests.internal|has_number_of_additional_number_of_guests.internal]]"
   - "[[/_protect/schema-org/Property/has_number_of/has_number_of_additional_number_of_guests.protect|has_number_of_additional_number_of_guests.protect]]"

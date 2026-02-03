@@ -33,8 +33,9 @@ dv_is_:
     - "[[/_private/schema-org/Class/is_a_/Data_Type/Boolean/False.private|False.private]]"
     - "[[/_personal/schema-org/Class/is_a_/Data_Type/Boolean/False.personal|False.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Data_Type/Boolean/False.secret|False.secret]]"
+    - "[[False]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Boolean/False|False]]"
+  - "[[False]]"
   - "[[/_public/schema-org/Class/is_a_/Data_Type/Boolean/False.public|False.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Data_Type/Boolean/False.internal|False.internal]]"
   - "[[/_protect/schema-org/Class/is_a_/Data_Type/Boolean/False.protect|False.protect]]"

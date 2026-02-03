@@ -11,31 +11,57 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - mobile
   - url
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_mobile_url
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_mobile_url
 type: Pred_Text
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[has_mobile_url]]"
+    - "[[/_public/schema-org/Property/Texts/has_mobile_url.public|has_mobile_url.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_mobile_url.internal|has_mobile_url.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_mobile_url.protect|has_mobile_url.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_mobile_url.private|has_mobile_url.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_mobile_url.personal|has_mobile_url.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_mobile_url.secret|has_mobile_url.secret]]"
+dv_has_:
+  domain: "[[Offer](../../../Society/Agent/Community/Organization/Business/Offer), [Product](../../../Society/Agent/Community/Organization/Business/Product)]"
+  name: has_text_of_mobile_url
+  range: Text
+dv_is_part_of: "pending:"
+dv_has_domain: "[[Offer](../../../Society/Agent/Community/Organization/Business/Offer), [Product](../../../Society/Agent/Community/Organization/Business/Product)]"
+dv_has_name: has_text_of_mobile_url
+dv_has_range: Text
+dv_is_same_as:
+  - "[[has_mobile_url]]"
+  - "[[/_public/schema-org/Property/Texts/has_mobile_url.public|has_mobile_url.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_mobile_url.internal|has_mobile_url.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_mobile_url.protect|has_mobile_url.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_mobile_url.private|has_mobile_url.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_mobile_url.personal|has_mobile_url.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_mobile_url.secret|has_mobile_url.secret]]"
 ---
 
 Predicate to describe the Text of Offer, Product.
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/text_of_/mobile_url :: Text   
-- has_text_of_mobile_url :: Text   
+- #has_/text_of_/mobile_url : : Text   
+- has_text_of_mobile_url : : Text   
 
 The [[mobileUrl]] property is provided for specific situations in which data consumers need to determine whether one of several provided URLs is a dedicated "mobile site".
 
@@ -43,10 +69,10 @@ To discourage over-use, and reflecting intial usecases, the property is expected
 
 Predicated describes that: 
 
-#has_/domain  :: [[Offer](../../../Society/Agent/Community/Organization/Business/Offer), [Product](../../../Society/Agent/Community/Organization/Business/Product)]  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: has_text_of_mobile_url )
-(has_/range :: Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

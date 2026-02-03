@@ -40,11 +40,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Flags/is_value_required.private|is_value_required.private]]"
     - "[[/_personal/schema-org/Property/Flags/is_value_required.personal|is_value_required.personal]]"
     - "[[/_secret/schema-org/Property/Flags/is_value_required.secret|is_value_required.secret]]"
+    - "[[is_value_required]]"
 dv_has_domain: PropertyValueSpecification
 dv_has_name: is_value_required
 dv_has_range: Boolean
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Flags/is_value_required|is_value_required]]"
+  - "[[is_value_required]]"
   - "[[/_public/schema-org/Property/Flags/is_value_required.public|is_value_required.public]]"
   - "[[/_internal/schema-org/Property/Flags/is_value_required.internal|is_value_required.internal]]"
   - "[[/_protect/schema-org/Property/Flags/is_value_required.protect|is_value_required.protect]]"

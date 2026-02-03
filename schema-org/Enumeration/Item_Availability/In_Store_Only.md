@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Item_Availability/In_Store_Only.private|In_Store_Only.private]]"
     - "[[/_personal/schema-org/Enumeration/Item_Availability/In_Store_Only.personal|In_Store_Only.personal]]"
     - "[[/_secret/schema-org/Enumeration/Item_Availability/In_Store_Only.secret|In_Store_Only.secret]]"
+    - "[[In_Store_Only]]"
 dv_has_parent_class: "[[../ItemAvailability]]"
 dv_is_enum_of: "[[../ItemAvailability]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Item_Availability/In_Store_Only|In_Store_Only]]"
+  - "[[In_Store_Only]]"
   - "[[/_public/schema-org/Enumeration/Item_Availability/In_Store_Only.public|In_Store_Only.public]]"
   - "[[/_internal/schema-org/Enumeration/Item_Availability/In_Store_Only.internal|In_Store_Only.internal]]"
   - "[[/_protect/schema-org/Enumeration/Item_Availability/In_Store_Only.protect|In_Store_Only.protect]]"

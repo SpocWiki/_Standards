@@ -1,71 +1,72 @@
 ---
 aliases:
-- order-action
-- order_action
-- OrderAction
-- is_an_order_action
-- Order_Action
-- Order Action
+  - order-action
+  - order_action
+  - OrderAction
+  - is_an_order_action
+  - Order_Action
+  - Order Action
 confidential: public
 cssclasses:
-- Type
+  - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
-- order_action
-layout: ''
+  - order_action
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_an_order_action Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
-- class/Class
-- schema-org/Class
+  - class/Class
+  - schema-org/Class
 title: is_an_order_action Class
 type: Type
 dv_is_:
   same_as:
-  - "[[/_Standards/schema-org/Class/is_a_/Action/Trade_Action/Order_Action|Order_Action]]"
-  - "[[/_public/schema-org/Class/is_a_/Action/Trade_Action/Order_Action.public|Order_Action.public]]"
-  - "[[/_internal/schema-org/Class/is_a_/Action/Trade_Action/Order_Action.internal|Order_Action.internal]]"
-  - "[[/_protect/schema-org/Class/is_a_/Action/Trade_Action/Order_Action.protect|Order_Action.protect]]"
-  - "[[/_private/schema-org/Class/is_a_/Action/Trade_Action/Order_Action.private|Order_Action.private]]"
-  - "[[/_personal/schema-org/Class/is_a_/Action/Trade_Action/Order_Action.personal|Order_Action.personal]]"
-  - "[[/_secret/schema-org/Class/is_a_/Action/Trade_Action/Order_Action.secret|Order_Action.secret]]"
+    - "[[/_Standards/schema-org/Class/is_a_/Action/Trade_Action/Order_Action|Order_Action]]"
+    - "[[/_public/schema-org/Class/is_a_/Action/Trade_Action/Order_Action.public|Order_Action.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Action/Trade_Action/Order_Action.internal|Order_Action.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Action/Trade_Action/Order_Action.protect|Order_Action.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Action/Trade_Action/Order_Action.private|Order_Action.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Action/Trade_Action/Order_Action.personal|Order_Action.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Action/Trade_Action/Order_Action.secret|Order_Action.secret]]"
+    - "[[Order_Action]]"
 dv_has_:
   parent_class:
-  - "[[../TradeAction]]"
+    - "[[../TradeAction]]"
   properties:
-  - "[[../../../../Relation/has/has_action/has_action_status|has_action_status]]"
-  - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
-  - "[[../../../../Relation/has/has_agent|has_agent]]"
-  - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
-  - "[[../../../../Enumeration/Delivery_Method|Delivery_Method]]"
-  - "[[../../../../Property/Texts/has_description|has_description]]"
-  - "[[../../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
-  - "[[../../../../Property/has_Date_Time/has_time_to_end|has_time_to_end]]"
-  - "[[../../../../Relation/has/has_error|has_error]]"
-  - "[[../../../../Relation/has/has_identifier|has_identifier]]"
-  - "[[../../../../Relation/has/has_image|has_image]]"
-  - "[[../../../../Relation/has/has_instrument|has_instrument]]"
-  - "[[../../../../Property/has_location/has_location|has_location]]"
-  - "[[../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
-  - "[[../../../../Property/has_name|has_name]]"
-  - "[[../../../../Relation/has/has_object|has_object]]"
-  - "[[../../../../Relation/has/has_participant|has_participant]]"
-  - "[[../../../../Relation/has/has_potential_action|has_potential_action]]"
-  - "[[price|price]]"
-  - "[[../../../../Property/Texts/has_price_currency|has_price_currency]]"
-  - "[[../../Intangible/Structured_Value/Price_Specification|Price_Specification]]"
-  - "[[../../../../Relation/has/has_provider|has_provider]]"
-  - "[[../../../../Relation/has/has_result|has_result]]"
-  - "[[../../../../Relation/is_same_as|is_same_as]]"
-  - "[[../../../../Property/has_Date_Time/has_time_to_start|has_time_to_start]]"
-  - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
-  - "[[../../../../Relation/has/has_target|has_target]]"
-  - "[[../../Property/has_url_for/has_url|has_url]]"
+    - "[[../../../../Relation/has/has_action/has_action_status|has_action_status]]"
+    - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
+    - "[[../../../../Relation/has/has_agent|has_agent]]"
+    - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
+    - "[[../../../../Enumeration/Delivery_Method|Delivery_Method]]"
+    - "[[../../../../Property/Texts/has_description|has_description]]"
+    - "[[../../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
+    - "[[../../../../Property/has_Date_Time/has_time_to_end|has_time_to_end]]"
+    - "[[../../../../Relation/has/has_error|has_error]]"
+    - "[[../../../../Relation/has/has_identifier|has_identifier]]"
+    - "[[../../../../Relation/has/has_image|has_image]]"
+    - "[[../../../../Relation/has/has_instrument|has_instrument]]"
+    - "[[../../../../Property/has_location/has_location|has_location]]"
+    - "[[../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+    - "[[../../../../Property/has_name|has_name]]"
+    - "[[../../../../Relation/has/has_object|has_object]]"
+    - "[[../../../../Relation/has/has_participant|has_participant]]"
+    - "[[../../../../Relation/has/has_potential_action|has_potential_action]]"
+    - "[[price|price]]"
+    - "[[../../../../Property/Texts/has_price_currency|has_price_currency]]"
+    - "[[../../Intangible/Structured_Value/Price_Specification|Price_Specification]]"
+    - "[[../../../../Relation/has/has_provider|has_provider]]"
+    - "[[../../../../Relation/has/has_result|has_result]]"
+    - "[[../../../../Relation/is_same_as|is_same_as]]"
+    - "[[../../../../Property/has_Date_Time/has_time_to_start|has_time_to_start]]"
+    - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
+    - "[[../../../../Relation/has/has_target|has_target]]"
+    - "[[../../Property/has_url_for/has_url|has_url]]"
 dv_has_parent_class:
   - "[[../trade_action|../trade_action]]"
 dv_has_properties:
@@ -98,7 +99,7 @@ dv_has_properties:
   - "[[../../../../Relation/has/has_target|has_target]]"
   - "[[../../Property/has_url_for/has_url|has_url]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Class/is_a_/Action/Trade_Action/Order_Action|Order_Action]]"
+  - "[[Order_Action]]"
   - "[[/_public/schema-org/Class/is_a_/Action/Trade_Action/Order_Action.public|Order_Action.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Action/Trade_Action/Order_Action.internal|Order_Action.internal]]"
   - "[[/_protect/schema-org/Class/is_a_/Action/Trade_Action/Order_Action.protect|Order_Action.protect]]"

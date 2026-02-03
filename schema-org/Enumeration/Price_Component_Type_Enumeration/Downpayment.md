@@ -36,11 +36,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Price_Component_Type_Enumeration/Downpayment.private|Downpayment.private]]"
     - "[[/_personal/schema-org/Enumeration/Price_Component_Type_Enumeration/Downpayment.personal|Downpayment.personal]]"
     - "[[/_secret/schema-org/Enumeration/Price_Component_Type_Enumeration/Downpayment.secret|Downpayment.secret]]"
+    - "[[Downpayment]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../PriceComponentTypeEnumeration]]"
 dv_is_enum_of: "[[../PriceComponentTypeEnumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Price_Component_Type_Enumeration/Downpayment|Downpayment]]"
+  - "[[Downpayment]]"
   - "[[/_public/schema-org/Enumeration/Price_Component_Type_Enumeration/Downpayment.public|Downpayment.public]]"
   - "[[/_internal/schema-org/Enumeration/Price_Component_Type_Enumeration/Downpayment.internal|Downpayment.internal]]"
   - "[[/_protect/schema-org/Enumeration/Price_Component_Type_Enumeration/Downpayment.protect|Downpayment.protect]]"

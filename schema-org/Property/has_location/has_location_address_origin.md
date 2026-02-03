@@ -41,11 +41,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_location/has_location_address_origin.private|has_location_address_origin.private]]"
     - "[[/_personal/schema-org/Property/has_location/has_location_address_origin.personal|has_location_address_origin.personal]]"
     - "[[/_secret/schema-org/Property/has_location/has_location_address_origin.secret|has_location_address_origin.secret]]"
+    - "[[has_location_address_origin]]"
 dv_has_domain: ParcelDelivery
 dv_has_name: has_location_address_origin
 dv_has_range: PostalAddress
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_location/has_location_address_origin|has_location_address_origin]]"
+  - "[[has_location_address_origin]]"
   - "[[/_public/schema-org/Property/has_location/has_location_address_origin.public|has_location_address_origin.public]]"
   - "[[/_internal/schema-org/Property/has_location/has_location_address_origin.internal|has_location_address_origin.internal]]"
   - "[[/_protect/schema-org/Property/has_location/has_location_address_origin.protect|has_location_address_origin.protect]]"

@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Map_Category_Type/Transit_Map.private|Transit_Map.private]]"
     - "[[/_personal/schema-org/Enumeration/Map_Category_Type/Transit_Map.personal|Transit_Map.personal]]"
     - "[[/_secret/schema-org/Enumeration/Map_Category_Type/Transit_Map.secret|Transit_Map.secret]]"
+    - "[[Transit_Map]]"
 dv_has_parent_class: "[[../MapCategoryType]]"
 dv_is_enum_of: "[[../MapCategoryType]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Map_Category_Type/Transit_Map|Transit_Map]]"
+  - "[[Transit_Map]]"
   - "[[/_public/schema-org/Enumeration/Map_Category_Type/Transit_Map.public|Transit_Map.public]]"
   - "[[/_internal/schema-org/Enumeration/Map_Category_Type/Transit_Map.internal|Transit_Map.internal]]"
   - "[[/_protect/schema-org/Enumeration/Map_Category_Type/Transit_Map.protect|Transit_Map.protect]]"

@@ -85,8 +85,8 @@ is_a = `=this.dv_is_a`
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/occupation_/credential_awarded :: "[[../../../../Society/Communication/Media/Creative_Work/Educational_Occupational_Credential|Educational_Occupational_Credential]]", "[[../../../Class/is_a_/Data_Type/Text|Text]]", "[[../../../Class/is_a_/Data_Type/Text/Url|Url]]"  
-- has_occupation_credential_awarded :: "[[../../../../Society/Communication/Media/Creative_Work/Educational_Occupational_Credential|Educational_Occupational_Credential]]", "[[../../Class/is_a_/Data_Type/Text|Text]]", "[[../../Class/is_a_/Data_Type/Text/Url|Url]]"  
+- #has_/occupation_/credential_awarded : : "[[../../../../Society/Communication/Media/Creative_Work/Educational_Occupational_Credential|Educational_Occupational_Credential]]", "[[../../../Class/is_a_/Data_Type/Text|Text]]", "[[../../../Class/is_a_/Data_Type/Text/Url|Url]]"  
+- has_occupation_credential_awarded : : "[[../../../../Society/Communication/Media/Creative_Work/Educational_Occupational_Credential|Educational_Occupational_Credential]]", "[[../../Class/is_a_/Data_Type/Text|Text]]", "[[../../Class/is_a_/Data_Type/Text/Url|Url]]"  
 
 A description of the qualification, award, certificate, diploma 
 or other occupational credential 

@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_serves_cuisine.private|has_serves_cuisine.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_serves_cuisine.personal|has_serves_cuisine.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_serves_cuisine.secret|has_serves_cuisine.secret]]"
+    - "[[has_serves_cuisine]]"
 dv_has_domain: FoodEstablishment
 dv_has_name: has_text_of_serves_cuisine
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_serves_cuisine|has_serves_cuisine]]"
+  - "[[has_serves_cuisine]]"
   - "[[/_public/schema-org/Property/Texts/has_serves_cuisine.public|has_serves_cuisine.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_serves_cuisine.internal|has_serves_cuisine.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_serves_cuisine.protect|has_serves_cuisine.protect]]"

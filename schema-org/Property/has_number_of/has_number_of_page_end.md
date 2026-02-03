@@ -41,11 +41,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_number_of/has_number_of_page_end.private|has_number_of_page_end.private]]"
     - "[[/_personal/schema-org/Property/has_number_of/has_number_of_page_end.personal|has_number_of_page_end.personal]]"
     - "[[/_secret/schema-org/Property/has_number_of/has_number_of_page_end.secret|has_number_of_page_end.secret]]"
+    - "[[has_number_of_page_end]]"
 dv_has_domain: Article, Chapter, PublicationIssue, PublicationVolume
 dv_has_name: has_number_of_page_end
 dv_has_range: Integer, Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_page_end|has_number_of_page_end]]"
+  - "[[has_number_of_page_end]]"
   - "[[/_public/schema-org/Property/has_number_of/has_number_of_page_end.public|has_number_of_page_end.public]]"
   - "[[/_internal/schema-org/Property/has_number_of/has_number_of_page_end.internal|has_number_of_page_end.internal]]"
   - "[[/_protect/schema-org/Property/has_number_of/has_number_of_page_end.protect|has_number_of_page_end.protect]]"

@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Game_Play_Mode/Multi_Player.private|Multi_Player.private]]"
     - "[[/_personal/schema-org/Enumeration/Game_Play_Mode/Multi_Player.personal|Multi_Player.personal]]"
     - "[[/_secret/schema-org/Enumeration/Game_Play_Mode/Multi_Player.secret|Multi_Player.secret]]"
+    - "[[Multi_Player]]"
 dv_has_parent_class: "[[../GamePlayMode]]"
 dv_is_enum_of: "[[../GamePlayMode]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Game_Play_Mode/Multi_Player|Multi_Player]]"
+  - "[[Multi_Player]]"
   - "[[/_public/schema-org/Enumeration/Game_Play_Mode/Multi_Player.public|Multi_Player.public]]"
   - "[[/_internal/schema-org/Enumeration/Game_Play_Mode/Multi_Player.internal|Multi_Player.internal]]"
   - "[[/_protect/schema-org/Enumeration/Game_Play_Mode/Multi_Player.protect|Multi_Player.protect]]"

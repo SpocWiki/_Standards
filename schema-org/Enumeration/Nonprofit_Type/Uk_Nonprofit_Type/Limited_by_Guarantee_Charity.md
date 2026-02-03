@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Limited_by_Guarantee_Charity.private|Limited_by_Guarantee_Charity.private]]"
     - "[[/_personal/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Limited_by_Guarantee_Charity.personal|Limited_by_Guarantee_Charity.personal]]"
     - "[[/_secret/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Limited_by_Guarantee_Charity.secret|Limited_by_Guarantee_Charity.secret]]"
+    - "[[Limited_by_Guarantee_Charity]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../UKNonprofitType]]"
 dv_is_enum_of: "[[../UKNonprofitType]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Limited_by_Guarantee_Charity|Limited_by_Guarantee_Charity]]"
+  - "[[Limited_by_Guarantee_Charity]]"
   - "[[/_public/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Limited_by_Guarantee_Charity.public|Limited_by_Guarantee_Charity.public]]"
   - "[[/_internal/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Limited_by_Guarantee_Charity.internal|Limited_by_Guarantee_Charity.internal]]"
   - "[[/_protect/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Limited_by_Guarantee_Charity.protect|Limited_by_Guarantee_Charity.protect]]"

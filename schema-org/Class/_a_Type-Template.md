@@ -45,6 +45,7 @@ dv_is_:
     - "[[/_private/schema-org/Class/_a_Type-Template.private|_a_Type-Template.private]]"
     - "[[/_personal/schema-org/Class/_a_Type-Template.personal|_a_Type-Template.personal]]"
     - "[[/_secret/schema-org/Class/_a_Type-Template.secret|_a_Type-Template.secret]]"
+    - "[[_a_Type-Template]]"
 dv_has_:
   child_class: "[ {{subTypes}} ]"
   properties: "[ {{properties}} ]"
@@ -54,7 +55,7 @@ dv_is_enum_of: "[[../{{enumerationtype}}]]"
 dv_has_child_class: "[ {{subTypes}} ]"
 dv_has_properties: "[ {{properties}} ]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Class/_a_Type-Template|_a_Type-Template]]"
+  - "[[_a_Type-Template]]"
   - "[[/_public/schema-org/Class/_a_Type-Template.public|_a_Type-Template.public]]"
   - "[[/_internal/schema-org/Class/_a_Type-Template.internal|_a_Type-Template.internal]]"
   - "[[/_protect/schema-org/Class/_a_Type-Template.protect|_a_Type-Template.protect]]"

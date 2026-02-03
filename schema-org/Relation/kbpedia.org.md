@@ -20,8 +20,9 @@ dv_is_:
     - "[[/_private/schema-org/Relation/kbpedia.org.private|kbpedia.org.private]]"
     - "[[/_personal/schema-org/Relation/kbpedia.org.personal|kbpedia.org.personal]]"
     - "[[/_secret/schema-org/Relation/kbpedia.org.secret|kbpedia.org.secret]]"
+    - "[[kbpedia.org]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/kbpedia.org|kbpedia.org]]"
+  - "[[kbpedia.org]]"
   - "[[/_public/schema-org/Relation/kbpedia.org.public|kbpedia.org.public]]"
   - "[[/_internal/schema-org/Relation/kbpedia.org.internal|kbpedia.org.internal]]"
   - "[[/_protect/schema-org/Relation/kbpedia.org.protect|kbpedia.org.protect]]"

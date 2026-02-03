@@ -41,11 +41,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_color.private|has_color.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_color.personal|has_color.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_color.secret|has_color.secret]]"
+    - "[[has_color]]"
 dv_has_domain: Product
 dv_has_name: has_text_of_color
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_color|has_color]]"
+  - "[[has_color]]"
   - "[[/_public/schema-org/Property/Texts/has_color.public|has_color.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_color.internal|has_color.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_color.protect|has_color.protect]]"

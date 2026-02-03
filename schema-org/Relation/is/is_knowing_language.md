@@ -10,31 +10,61 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - knows
   - language
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_knowing_language
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: is_knowing_language
 type: Predi_Relation
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[is_knowing_language]]"
+    - "[[/_public/schema-org/Relation/is/is_knowing_language.public|is_knowing_language.public]]"
+    - "[[/_internal/schema-org/Relation/is/is_knowing_language.internal|is_knowing_language.internal]]"
+    - "[[/_protect/schema-org/Relation/is/is_knowing_language.protect|is_knowing_language.protect]]"
+    - "[[/_private/schema-org/Relation/is/is_knowing_language.private|is_knowing_language.private]]"
+    - "[[/_personal/schema-org/Relation/is/is_knowing_language.personal|is_knowing_language.personal]]"
+    - "[[/_secret/schema-org/Relation/is/is_knowing_language.secret|is_knowing_language.secret]]"
+dv_has_:
+  domain: Organization, Person
+  name: "[[is_knowing_language]]"
+  range:
+    - "[[../../../Language|Language]]"
+    - "[[../../Class/is_a_/Data_Type/Text|Text]]"
+dv_is_part_of: "pending:"
+dv_has_domain: Organization, Person
+dv_has_name: "[[is_knowing_language]]"
+dv_has_range:
+  - "[[../../../Language|Language]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
+dv_is_same_as:
+  - "[[is_knowing_language]]"
+  - "[[/_public/schema-org/Relation/is/is_knowing_language.public|is_knowing_language.public]]"
+  - "[[/_internal/schema-org/Relation/is/is_knowing_language.internal|is_knowing_language.internal]]"
+  - "[[/_protect/schema-org/Relation/is/is_knowing_language.protect|is_knowing_language.protect]]"
+  - "[[/_private/schema-org/Relation/is/is_knowing_language.private|is_knowing_language.private]]"
+  - "[[/_personal/schema-org/Relation/is/is_knowing_language.personal|is_knowing_language.personal]]"
+  - "[[/_secret/schema-org/Relation/is/is_knowing_language.secret|is_knowing_language.secret]]"
 ---
 
 # [[is_knowing_language]] 
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #is_/knowing_/language :: "[[../../../Language|Language]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"  
-- is_knowing_language :: "[[../../../Language|Language]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"  
+- #is_/knowing_/language : : "[[../../../Language|Language]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"  
+- is_knowing_language : : "[[../../../Language|Language]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"  
 
 Of a [[../../../Society/Agent/Person|Person]], and less typically of an [[../../../Society/Agent/Community/Organization|Organization]], to indicate a known language. 
 We do not distinguish skill levels or reading/writing/speaking/signing here. 
@@ -42,8 +72,8 @@ Use language codes from the [IETF BCP 47 standard](http://tools.ietf.org/html/bc
 
 Relation describes that: 
 
-#has_/domain  :: Organization, Person 
-(has_/name :: [[is_knowing_language]] ) 
+has_domain = `=this.dv_has_domain` 
+has_name = `=this.dv_has_name`  
 (has_/range :: "[[../../../Language|Language]]", "[[../../Class/is_a_/Data_Type/Text|Text]]" ) 
 
 

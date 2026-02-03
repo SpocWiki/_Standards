@@ -66,7 +66,7 @@ dv_is_same_as:
 has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
-- #has_/creator :: Organization, Person  
+- #has_/creator : : Organization, Person  
 - has_creator = `=this.dv_has_creator`  
 
 Specifies the creator/author of this [[../../../../Society/Communication/Media/Creative_Work|CreativeWork]]. 

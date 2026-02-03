@@ -41,11 +41,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_number_of/has_number_of_axles.private|has_number_of_axles.private]]"
     - "[[/_personal/schema-org/Property/has_number_of/has_number_of_axles.personal|has_number_of_axles.personal]]"
     - "[[/_secret/schema-org/Property/has_number_of/has_number_of_axles.secret|has_number_of_axles.secret]]"
+    - "[[has_number_of_axles]]"
 dv_has_domain: Vehicle
 dv_has_name: has_number_of_axles
 dv_has_range: Number, QuantitativeValue
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_axles|has_number_of_axles]]"
+  - "[[has_number_of_axles]]"
   - "[[/_public/schema-org/Property/has_number_of/has_number_of_axles.public|has_number_of_axles.public]]"
   - "[[/_internal/schema-org/Property/has_number_of/has_number_of_axles.internal|has_number_of_axles.internal]]"
   - "[[/_protect/schema-org/Property/has_number_of/has_number_of_axles.protect|has_number_of_axles.protect]]"

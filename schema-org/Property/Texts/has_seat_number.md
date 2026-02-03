@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_seat_number.private|has_seat_number.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_seat_number.personal|has_seat_number.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_seat_number.secret|has_seat_number.secret]]"
+    - "[[has_seat_number]]"
 dv_has_domain: Seat
 dv_has_name: has_text_of_seat_number
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_seat_number|has_seat_number]]"
+  - "[[has_seat_number]]"
   - "[[/_public/schema-org/Property/Texts/has_seat_number.public|has_seat_number.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_seat_number.internal|has_seat_number.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_seat_number.protect|has_seat_number.protect]]"

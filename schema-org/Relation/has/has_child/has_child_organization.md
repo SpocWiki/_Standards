@@ -63,7 +63,7 @@ dv_is_same_as:
 has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
-- #has_/child_/organization :: [[../../../../Society/Agent/Community/Organization|Organization]]  
+- #has_/child_/organization : : [[../../../../Society/Agent/Community/Organization|Organization]]  
 - has_child_organization = `=this.dv_has_child_organization` 
 
 A relationship between two organizations where 

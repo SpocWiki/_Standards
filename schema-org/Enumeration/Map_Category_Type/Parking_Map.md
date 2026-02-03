@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Map_Category_Type/Parking_Map.private|Parking_Map.private]]"
     - "[[/_personal/schema-org/Enumeration/Map_Category_Type/Parking_Map.personal|Parking_Map.personal]]"
     - "[[/_secret/schema-org/Enumeration/Map_Category_Type/Parking_Map.secret|Parking_Map.secret]]"
+    - "[[Parking_Map]]"
 dv_has_parent_class: "[[../MapCategoryType]]"
 dv_is_enum_of: "[[../MapCategoryType]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Map_Category_Type/Parking_Map|Parking_Map]]"
+  - "[[Parking_Map]]"
   - "[[/_public/schema-org/Enumeration/Map_Category_Type/Parking_Map.public|Parking_Map.public]]"
   - "[[/_internal/schema-org/Enumeration/Map_Category_Type/Parking_Map.internal|Parking_Map.internal]]"
   - "[[/_protect/schema-org/Enumeration/Map_Category_Type/Parking_Map.protect|Parking_Map.protect]]"

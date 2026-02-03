@@ -40,9 +40,10 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_Date_Time/has_time_read.private|has_time_read.private]]"
     - "[[/_personal/schema-org/Property/has_Date_Time/has_time_read.personal|has_time_read.personal]]"
     - "[[/_secret/schema-org/Property/has_Date_Time/has_time_read.secret|has_time_read.secret]]"
+    - "[[has_time_read]]"
 dv_has_name: has_time_read
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_read|has_time_read]]"
+  - "[[has_time_read]]"
   - "[[/_public/schema-org/Property/has_Date_Time/has_time_read.public|has_time_read.public]]"
   - "[[/_internal/schema-org/Property/has_Date_Time/has_time_read.internal|has_time_read.internal]]"
   - "[[/_protect/schema-org/Property/has_Date_Time/has_time_read.protect|has_time_read.protect]]"

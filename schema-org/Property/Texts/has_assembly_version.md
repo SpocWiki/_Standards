@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_assembly_version.private|has_assembly_version.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_assembly_version.personal|has_assembly_version.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_assembly_version.secret|has_assembly_version.secret]]"
+    - "[[has_assembly_version]]"
 dv_has_domain: APIReference
 dv_has_name: has_text_of_assembly_version
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_assembly_version|has_assembly_version]]"
+  - "[[has_assembly_version]]"
   - "[[/_public/schema-org/Property/Texts/has_assembly_version.public|has_assembly_version.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_assembly_version.internal|has_assembly_version.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_assembly_version.protect|has_assembly_version.protect]]"

@@ -52,9 +52,10 @@ dv_is_:
     - "[[/_private/schema-org/Class/is_a_/Action/Aggression/Violence.private|Violence.private]]"
     - "[[/_personal/schema-org/Class/is_a_/Action/Aggression/Violence.personal|Violence.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Action/Aggression/Violence.secret|Violence.secret]]"
+    - "[[Violence]]"
 dv_is_same_as:
   - "[[../../../../../WikiData/WD~Violence,124490|WD~Violence,124490]]"
-  - "[[/_Standards/schema-org/Class/is_a_/Action/Aggression/Violence|Violence]]"
+  - "[[Violence]]"
   - "[[/_public/schema-org/Class/is_a_/Action/Aggression/Violence.public|Violence.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Action/Aggression/Violence.internal|Violence.internal]]"
   - "[[/_protect/schema-org/Class/is_a_/Action/Aggression/Violence.protect|Violence.protect]]"

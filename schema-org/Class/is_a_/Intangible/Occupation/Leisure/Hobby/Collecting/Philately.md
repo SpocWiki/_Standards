@@ -38,9 +38,10 @@ dv_is_:
     - "[[/_private/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting/Philately.private|Philately.private]]"
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting/Philately.personal|Philately.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting/Philately.secret|Philately.secret]]"
+    - "[[Philately]]"
 dv_is_same_as:
   - "[[../../../../../../../../WikiData/WD~Philately,131026]]"
-  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting/Philately|Philately]]"
+  - "[[Philately]]"
   - "[[/_public/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting/Philately.public|Philately.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting/Philately.internal|Philately.internal]]"
   - "[[/_protect/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting/Philately.protect|Philately.protect]]"

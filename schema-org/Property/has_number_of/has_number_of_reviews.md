@@ -41,11 +41,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_number_of/has_number_of_reviews.private|has_number_of_reviews.private]]"
     - "[[/_personal/schema-org/Property/has_number_of/has_number_of_reviews.personal|has_number_of_reviews.personal]]"
     - "[[/_secret/schema-org/Property/has_number_of/has_number_of_reviews.secret|has_number_of_reviews.secret]]"
+    - "[[has_number_of_reviews]]"
 dv_has_domain: AggregateRating
 dv_has_name: has_number_of_reviews
 dv_has_range: Integer
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_reviews|has_number_of_reviews]]"
+  - "[[has_number_of_reviews]]"
   - "[[/_public/schema-org/Property/has_number_of/has_number_of_reviews.public|has_number_of_reviews.public]]"
   - "[[/_internal/schema-org/Property/has_number_of/has_number_of_reviews.internal|has_number_of_reviews.internal]]"
   - "[[/_protect/schema-org/Property/has_number_of/has_number_of_reviews.protect|has_number_of_reviews.protect]]"

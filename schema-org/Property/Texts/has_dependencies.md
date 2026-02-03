@@ -34,6 +34,7 @@ dv_has_:
   domain: "[[../../../Society/Communication/Media/Creative_Work/Article/Tech_Article|Tech_Article]]"
   name: has_dependencies
   range: Text
+  inverse: "[[has_dependents]]"
 dv_has_dependencies: Text
 dv_is_:
   same_as:
@@ -44,22 +45,30 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_dependencies.private|has_dependencies.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_dependencies.personal|has_dependencies.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_dependencies.secret|has_dependencies.secret]]"
+    - "[[has_dependencies]]"
+  similar_to:
+    - "[[has_server]]"
+    - "[[../../Relation/has/has_provider|has_provider]]"
 dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Article/Tech_Article|Tech_Article]]"
 dv_has_name: has_dependencies
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_dependencies|has_dependencies]]"
+  - "[[has_dependencies]]"
   - "[[/_public/schema-org/Property/Texts/has_dependencies.public|has_dependencies.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_dependencies.internal|has_dependencies.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_dependencies.protect|has_dependencies.protect]]"
   - "[[/_private/schema-org/Property/Texts/has_dependencies.private|has_dependencies.private]]"
   - "[[/_personal/schema-org/Property/Texts/has_dependencies.personal|has_dependencies.personal]]"
   - "[[/_secret/schema-org/Property/Texts/has_dependencies.secret|has_dependencies.secret]]"
+dv_has_inverse: "[[has_dependents]]"
+dv_is_similar_to:
+  - "[[has_server]]"
+  - "[[../../Relation/has/has_provider|has_provider]]"
 ---
 
 # [[has_dependencies]] 
 
-#has_/inverse :: [[has_dependents]]
+has_inverse = `=this.dv_has_inverse` 
 
 #is_/similar_to :: [[has_server]] 
 #is_/similar_to :: [[../../Relation/has/has_provider|has_provider]] 

@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_publisher]]"
+    - "[[/_public/schema-org/Relation/has/has_publisher.public|has_publisher.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_publisher.internal|has_publisher.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_publisher.protect|has_publisher.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_publisher.private|has_publisher.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_publisher.personal|has_publisher.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_publisher.secret|has_publisher.secret]]"
+dv_is_same_as:
+  - "[[has_publisher]]"
+  - "[[/_public/schema-org/Relation/has/has_publisher.public|has_publisher.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_publisher.internal|has_publisher.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_publisher.protect|has_publisher.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_publisher.private|has_publisher.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_publisher.personal|has_publisher.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_publisher.secret|has_publisher.secret]]"
+---
 ﻿---
 dv_is_:
   same_as:

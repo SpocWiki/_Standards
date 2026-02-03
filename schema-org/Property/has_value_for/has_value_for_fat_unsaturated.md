@@ -6,32 +6,59 @@ aliases:
   - unsaturated-fat-content
   - unsaturatedFatContent
   - has_value_for_fat_unsaturated
-  - has value for unsaturated fat 
+  - has value for unsaturated fat
 confidential: public
 cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - unsaturated-fat-content
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_unsaturated-fat-content
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_unsaturated-fat-content
 type: Predi_Quantity
+dv_has_:
+  unit_for_:
+    default: "[[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Gram|Unit~Gram]]"
+  domain: "[[../../Class/is_a_/Intangible/Structured_Value/Nutrition_Information|Nutrition_Information]]"
+  name: has_value_for_fat_unsaturated
+  range: Mass
+dv_is_:
+  same_as:
+    - "[[has_value_for_fat_unsaturated]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_fat_unsaturated.public|has_value_for_fat_unsaturated.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_fat_unsaturated.internal|has_value_for_fat_unsaturated.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_fat_unsaturated.protect|has_value_for_fat_unsaturated.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_fat_unsaturated.private|has_value_for_fat_unsaturated.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_fat_unsaturated.personal|has_value_for_fat_unsaturated.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_fat_unsaturated.secret|has_value_for_fat_unsaturated.secret]]"
+dv_has_unit_for_default: "[[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Gram|Unit~Gram]]"
+dv_has_domain: "[[../../Class/is_a_/Intangible/Structured_Value/Nutrition_Information|Nutrition_Information]]"
+dv_has_name: has_value_for_fat_unsaturated
+dv_has_range: Mass
+dv_is_same_as:
+  - "[[has_value_for_fat_unsaturated]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_fat_unsaturated.public|has_value_for_fat_unsaturated.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_fat_unsaturated.internal|has_value_for_fat_unsaturated.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_fat_unsaturated.protect|has_value_for_fat_unsaturated.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_fat_unsaturated.private|has_value_for_fat_unsaturated.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_fat_unsaturated.personal|has_value_for_fat_unsaturated.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_fat_unsaturated.secret|has_value_for_fat_unsaturated.secret]]"
 ---
 
 # [[has_value_for_fat_unsaturated]] 
 
-#has_/unit_for_/default :: [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Gram|Unit~Gram]] 
+has_unit_for_default = `=this.dv_has_unit_for_default` 
 
 The default [[../../../Dimension/Unit_of_Measure|Unit_of_Measure]]  are [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Gram|Unit~Gram]]s, unless specified different, either 
 - in the XPath/JsonPath 
@@ -40,16 +67,16 @@ The default [[../../../Dimension/Unit_of_Measure|Unit_of_Measure]]  are [[../../
 Predicate to describe the Quantity of NutritionInformation.
 
 Use it like this: 
-- #has_/value_for_/fat_/unsaturated :: Mass   
-- has_value_for_fat_unsaturated :: Mass   
+- #has_/value_for_/fat_/unsaturated : : Mass   
+- has_value_for_fat_unsaturated : : Mass   
 
 The number of grams of [[../../../bio/Metabolism/Nutrition/Fat/Unsaturated_Fat|Unsaturated_Fat]].
 
 Predicate describes that: 
 
-#has_/domain :: [[../../Class/is_a_/Intangible/Structured_Value/Nutrition_Information|Nutrition_Information]] 
-(has_/name :: has_value_for_fat_unsaturated )
-(has_/range :: Mass )
+has_domain = `=this.dv_has_domain` 
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

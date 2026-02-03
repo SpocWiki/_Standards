@@ -10,40 +10,67 @@ cssclasses:
   - Predicate
   - geo
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - to_location
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_location_to
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/geo
 title: has_location_to
 type: Pred_geo
+dv_has_:
+  domain: ExerciseAction, InsertAction, MoveAction, TransferAction
+  name: has_location_to
+  range: Place
+  parent_:
+    property: location
+dv_is_:
+  same_as:
+    - "[[has_location_to]]"
+    - "[[/_public/schema-org/Property/has_location/has_location_to.public|has_location_to.public]]"
+    - "[[/_internal/schema-org/Property/has_location/has_location_to.internal|has_location_to.internal]]"
+    - "[[/_protect/schema-org/Property/has_location/has_location_to.protect|has_location_to.protect]]"
+    - "[[/_private/schema-org/Property/has_location/has_location_to.private|has_location_to.private]]"
+    - "[[/_personal/schema-org/Property/has_location/has_location_to.personal|has_location_to.personal]]"
+    - "[[/_secret/schema-org/Property/has_location/has_location_to.secret|has_location_to.secret]]"
+dv_has_domain: ExerciseAction, InsertAction, MoveAction, TransferAction
+dv_has_name: has_location_to
+dv_has_range: Place
+dv_has_parent_property: location
+dv_is_same_as:
+  - "[[has_location_to]]"
+  - "[[/_public/schema-org/Property/has_location/has_location_to.public|has_location_to.public]]"
+  - "[[/_internal/schema-org/Property/has_location/has_location_to.internal|has_location_to.internal]]"
+  - "[[/_protect/schema-org/Property/has_location/has_location_to.protect|has_location_to.protect]]"
+  - "[[/_private/schema-org/Property/has_location/has_location_to.private|has_location_to.private]]"
+  - "[[/_personal/schema-org/Property/has_location/has_location_to.personal|has_location_to.personal]]"
+  - "[[/_secret/schema-org/Property/has_location/has_location_to.secret|has_location_to.secret]]"
 ---
 
 Predicate to describe the geo of ExerciseAction, InsertAction, MoveAction, TransferAction.
 
 Use it like this: 
-- #has_/location_/to :: Place   
-- has_location_to :: Place   
+- #has_/location_/to : : Place   
+- has_location_to : : Place   
 
 A sub property of location. 
 The final location of the object or the agent after the action.
 
 Predicate describes that: 
 
-#has_/domain  :: ExerciseAction, InsertAction, MoveAction, TransferAction  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: has_location_to )
-(has_/range :: Place )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#has_/parent_/property  :: location  
+has_parent_property = `=this.dv_has_parent_property` 
 
 ## Confidential Links & Embeds: 
 

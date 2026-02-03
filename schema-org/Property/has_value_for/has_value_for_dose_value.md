@@ -29,7 +29,9 @@ type: Predi_Quantity
 dv_has_:
   domain: "[[../../../bio/Medicine/Medical_Entity/Medical_Intangible/Dose_Schedule|Dose_Schedule]]"
   name: has_value_for_dose
-  range: ["[[../../Class/is_a_/Data_Type/Number|Number]]", "[[../../Enumeration/Qualitative_Value|Qualitative_Value]]"]
+  range:
+    - "[[../../Class/is_a_/Data_Type/Number|Number]]"
+    - "[[../../Enumeration/Qualitative_Value|Qualitative_Value]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_dose_value|has_value_for_dose_value]]"
@@ -39,11 +41,14 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_dose_value.private|has_value_for_dose_value.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_dose_value.personal|has_value_for_dose_value.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_dose_value.secret|has_value_for_dose_value.secret]]"
+    - "[[has_value_for_dose_value]]"
 dv_has_domain: "[[../../../bio/Medicine/Medical_Entity/Medical_Intangible/Dose_Schedule|Dose_Schedule]]"
 dv_has_name: has_value_for_dose
-dv_has_range: ["[[../../Class/is_a_/Data_Type/Number|Number]]", "[[../../Enumeration/Qualitative_Value|Qualitative_Value]]"]
+dv_has_range:
+  - "[[../../Class/is_a_/Data_Type/Number|Number]]"
+  - "[[../../Enumeration/Qualitative_Value|Qualitative_Value]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_dose_value|has_value_for_dose_value]]"
+  - "[[has_value_for_dose_value]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_dose_value.public|has_value_for_dose_value.public]]"
   - "[[/_internal/schema-org/Property/has_value_for/has_value_for_dose_value.internal|has_value_for_dose_value.internal]]"
   - "[[/_protect/schema-org/Property/has_value_for/has_value_for_dose_value.protect|has_value_for_dose_value.protect]]"

@@ -67,7 +67,7 @@ is_a = `=this.dv_is_a`
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/return_policy_seasonal_override :: MerchantReturnPolicySeasonalOverride  
+- #has_/return_policy_seasonal_override : : MerchantReturnPolicySeasonalOverride  
 - has_return_policy_seasonal_override = `=this.dv_has_return_policy_seasonal_override`  
 
 Seasonal override of a return policy.

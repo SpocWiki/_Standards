@@ -10,36 +10,62 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
-layout: ''
+keywords: ""
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_plan_for_apartment
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: is_plan_for_apartment
 type: Predi_Relation
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[is_plan_for_apartment]]"
+    - "[[/_public/schema-org/Relation/is/is_plan_for_apartment.public|is_plan_for_apartment.public]]"
+    - "[[/_internal/schema-org/Relation/is/is_plan_for_apartment.internal|is_plan_for_apartment.internal]]"
+    - "[[/_protect/schema-org/Relation/is/is_plan_for_apartment.protect|is_plan_for_apartment.protect]]"
+    - "[[/_private/schema-org/Relation/is/is_plan_for_apartment.private|is_plan_for_apartment.private]]"
+    - "[[/_personal/schema-org/Relation/is/is_plan_for_apartment.personal|is_plan_for_apartment.personal]]"
+    - "[[/_secret/schema-org/Relation/is/is_plan_for_apartment.secret|is_plan_for_apartment.secret]]"
+dv_has_:
+  domain: FloorPlan
+  name: is_plan_for_apartment
+  range: Accommodation
+dv_is_part_of: "pending:"
+dv_has_domain: FloorPlan
+dv_has_name: is_plan_for_apartment
+dv_has_range: Accommodation
+dv_is_same_as:
+  - "[[is_plan_for_apartment]]"
+  - "[[/_public/schema-org/Relation/is/is_plan_for_apartment.public|is_plan_for_apartment.public]]"
+  - "[[/_internal/schema-org/Relation/is/is_plan_for_apartment.internal|is_plan_for_apartment.internal]]"
+  - "[[/_protect/schema-org/Relation/is/is_plan_for_apartment.protect|is_plan_for_apartment.protect]]"
+  - "[[/_private/schema-org/Relation/is/is_plan_for_apartment.private|is_plan_for_apartment.private]]"
+  - "[[/_personal/schema-org/Relation/is/is_plan_for_apartment.personal|is_plan_for_apartment.personal]]"
+  - "[[/_secret/schema-org/Relation/is/is_plan_for_apartment.secret|is_plan_for_apartment.secret]]"
 ---
 
-#is_/part_of :: pending: 
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #is_/plan_for_apartment :: Accommodation 
-- is_plan_for_apartment :: Accommodation 
+- #is_/plan_for_apartment : : Accommodation 
+- is_plan_for_apartment : : Accommodation 
 
 Indicates some accommodation that this floor plan describes.
 
 Relation describes that: 
 
-#has_/domain  :: FloorPlan 
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: is_plan_for_apartment)
-(has_/range :: Accommodation)
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

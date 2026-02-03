@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_alignment_type.private|has_alignment_type.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_alignment_type.personal|has_alignment_type.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_alignment_type.secret|has_alignment_type.secret]]"
+    - "[[has_alignment_type]]"
 dv_has_domain: AlignmentObject
 dv_has_name: has_text_of_alignment_type
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_alignment_type|has_alignment_type]]"
+  - "[[has_alignment_type]]"
   - "[[/_public/schema-org/Property/Texts/has_alignment_type.public|has_alignment_type.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_alignment_type.internal|has_alignment_type.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_alignment_type.protect|has_alignment_type.protect]]"

@@ -41,9 +41,10 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_Date_Time/has_time_of_observation.private|has_time_of_observation.private]]"
     - "[[/_personal/schema-org/Property/has_Date_Time/has_time_of_observation.personal|has_time_of_observation.personal]]"
     - "[[/_secret/schema-org/Property/has_Date_Time/has_time_of_observation.secret|has_time_of_observation.secret]]"
+    - "[[has_time_of_observation]]"
 dv_has_name: has_time_of_observation
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_of_observation|has_time_of_observation]]"
+  - "[[has_time_of_observation]]"
   - "[[/_public/schema-org/Property/has_Date_Time/has_time_of_observation.public|has_time_of_observation.public]]"
   - "[[/_internal/schema-org/Property/has_Date_Time/has_time_of_observation.internal|has_time_of_observation.internal]]"
   - "[[/_protect/schema-org/Property/has_Date_Time/has_time_of_observation.protect|has_time_of_observation.protect]]"

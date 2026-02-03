@@ -30,14 +30,7 @@ type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_:
   inverse: "[[is_language_for]]"
-  domain:
-    - "[[../../../Society/Agent/Community/Organization/Business/Service/Broadcast_Service|Broadcast_Service]]"
-    - "[[../../Class/is_a_/Action/Interact_Action/Communicate_Action|Communicate_Action]]"
-    - "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
-    - "[[../../Class/is_a_/Event|Event]]"
-    - "[[../../../Society/Agent/Community/Organization/Role/Link_Role|Link_Role]]"
-    - "[[../../Class/is_a_/Data_Type/Text/Pronounceable_Text|Pronounceable_Text]]"
-    - "[[../../Class/is_a_/Action/Create_Action/Write_Action|Write_Action]]"
+  domain: "[[_Standards/Society/Agent/Community/Organization/Business/Service/Broadcast_Service.md|Broadcast_Service]],[[_Standards/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action.md|Communicate_Action]],[[_Standards/Society/Communication/Media/Creative_Work.md|Creative_Work]],[[_Standards/schema-org/Class/is_a_/Event.md|Event]],[[_Standards/Society/Agent/Community/Organization/Role/Link_Role.md|Link_Role]],[[_Standards/schema-org/Class/is_a_/Data_Type/Text/Pronounceable_Text.md|Pronounceable_Text]],[[_Standards/schema-org/Class/is_a_/Action/Create_Action/Write_Action.md|Write_Action]]"
   name: is_in_language
   range:
     - "[[../../../Language|Language]]"
@@ -52,18 +45,9 @@ dv_is_:
     - "[[/_personal/schema-org/Relation/is/is_in_language.personal|is_in_language.personal]]"
     - "[[/_secret/schema-org/Relation/is/is_in_language.secret|is_in_language.secret]]"
 dv_has_inverse: "[[is_language_for]]"
-dv_has_domain:
-  - "[[../../../Society/Agent/Community/Organization/Business/Service/Broadcast_Service|Broadcast_Service]]"
-  - "[[../../Class/is_a_/Action/Interact_Action/Communicate_Action|Communicate_Action]]"
-  - "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
-  - "[[../../Class/is_a_/Event|Event]]"
-  - "[[../../../Society/Agent/Community/Organization/Role/Link_Role|Link_Role]]"
-  - "[[../../Class/is_a_/Data_Type/Text/Pronounceable_Text|Pronounceable_Text]]"
-  - "[[../../Class/is_a_/Action/Create_Action/Write_Action|Write_Action]]"
+dv_has_domain: "[[_Standards/Society/Agent/Community/Organization/Business/Service/Broadcast_Service.md|Broadcast_Service]],[[_Standards/schema-org/Class/is_a_/Action/Interact_Action/Communicate_Action.md|Communicate_Action]],[[_Standards/Society/Communication/Media/Creative_Work.md|Creative_Work]],[[_Standards/schema-org/Class/is_a_/Event.md|Event]],[[_Standards/Society/Agent/Community/Organization/Role/Link_Role.md|Link_Role]],[[_Standards/schema-org/Class/is_a_/Data_Type/Text/Pronounceable_Text.md|Pronounceable_Text]],[[_Standards/schema-org/Class/is_a_/Action/Create_Action/Write_Action.md|Write_Action]]"
 dv_has_name: is_in_language
-dv_has_range:
-  - "[[../../../Language|Language]]"
-  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
+dv_has_range: "[[_Standards/Language.md|Language]],[[_Standards/schema-org/Class/is_a_/Data_Type/Text.md|Text]]"
 dv_is_same_as:
   - "[[is_in_language]]"
   - "[[/_public/schema-org/Relation/is/is_in_language.public|is_in_language.public]]"

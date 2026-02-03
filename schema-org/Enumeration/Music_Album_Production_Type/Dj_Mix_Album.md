@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Music_Album_Production_Type/Dj_Mix_Album.private|Dj_Mix_Album.private]]"
     - "[[/_personal/schema-org/Enumeration/Music_Album_Production_Type/Dj_Mix_Album.personal|Dj_Mix_Album.personal]]"
     - "[[/_secret/schema-org/Enumeration/Music_Album_Production_Type/Dj_Mix_Album.secret|Dj_Mix_Album.secret]]"
+    - "[[Dj_Mix_Album]]"
 dv_has_parent_class: "[[../MusicAlbumProductionType]]"
 dv_is_enum_of: "[[../MusicAlbumProductionType]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Music_Album_Production_Type/Dj_Mix_Album|Dj_Mix_Album]]"
+  - "[[Dj_Mix_Album]]"
   - "[[/_public/schema-org/Enumeration/Music_Album_Production_Type/Dj_Mix_Album.public|Dj_Mix_Album.public]]"
   - "[[/_internal/schema-org/Enumeration/Music_Album_Production_Type/Dj_Mix_Album.internal|Dj_Mix_Album.internal]]"
   - "[[/_protect/schema-org/Enumeration/Music_Album_Production_Type/Dj_Mix_Album.protect|Dj_Mix_Album.protect]]"

@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Event_Attendance_Mode_Enumeration/Offline_Event_Attendance_Mode.private|Offline_Event_Attendance_Mode.private]]"
     - "[[/_personal/schema-org/Enumeration/Event_Attendance_Mode_Enumeration/Offline_Event_Attendance_Mode.personal|Offline_Event_Attendance_Mode.personal]]"
     - "[[/_secret/schema-org/Enumeration/Event_Attendance_Mode_Enumeration/Offline_Event_Attendance_Mode.secret|Offline_Event_Attendance_Mode.secret]]"
+    - "[[Offline_Event_Attendance_Mode]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../EventAttendanceModeEnumeration]]"
 dv_is_enum_of: "[[../EventAttendanceModeEnumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Event_Attendance_Mode_Enumeration/Offline_Event_Attendance_Mode|Offline_Event_Attendance_Mode]]"
+  - "[[Offline_Event_Attendance_Mode]]"
   - "[[/_public/schema-org/Enumeration/Event_Attendance_Mode_Enumeration/Offline_Event_Attendance_Mode.public|Offline_Event_Attendance_Mode.public]]"
   - "[[/_internal/schema-org/Enumeration/Event_Attendance_Mode_Enumeration/Offline_Event_Attendance_Mode.internal|Offline_Event_Attendance_Mode.internal]]"
   - "[[/_protect/schema-org/Enumeration/Event_Attendance_Mode_Enumeration/Offline_Event_Attendance_Mode.protect|Offline_Event_Attendance_Mode.protect]]"

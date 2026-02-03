@@ -65,7 +65,7 @@ is_a = `=this.dv_is_a`
 #has_/inverse :: 
 
 Use it like this: 
-- #has_/work_presented :: Movie  
+- #has_/work_presented : : Movie  
 - has_work_presented = `=this.dv_has_work_presented`  
 
 The movie presented during this event.

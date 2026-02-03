@@ -60,11 +60,11 @@ Predicate to describe the Speed of the Subject-Vehicle.
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/value_for_/speed :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]], [[../../Class/is_a_/Data_Type/Number|Number]]    
-- #has_/value_for_/speed_/kilo_/meter_/hour :: [[../../Class/is_a_/Data_Type/Number|Number]] 
-- #has_/value_for_/speed_/meter_/second :: [[../../Class/is_a_/Data_Type/Number|Number]]  
-- has_value_for_speed :: [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]
-- has_value_for_speed_kilo_meter_hour :: [[../../Class/is_a_/Data_Type/Number|Number]]       
+- #has_/value_for_/speed : : [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]], [[../../Class/is_a_/Data_Type/Number|Number]]    
+- #has_/value_for_/speed_/kilo_/meter_/hour : : [[../../Class/is_a_/Data_Type/Number|Number]] 
+- #has_/value_for_/speed_/meter_/second : : [[../../Class/is_a_/Data_Type/Number|Number]]  
+- has_value_for_speed : : [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]
+- has_value_for_speed_kilo_meter_hour : : [[../../Class/is_a_/Data_Type/Number|Number]]       
 
 The speed range of the vehicle. If the vehicle is powered by an engine, 
 the upper limit of the speed range (indicated by [[maxValue]]) 

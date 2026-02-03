@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_replacee]]"
+    - "[[/_public/schema-org/Relation/has/has_replacee.public|has_replacee.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_replacee.internal|has_replacee.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_replacee.protect|has_replacee.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_replacee.private|has_replacee.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_replacee.personal|has_replacee.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_replacee.secret|has_replacee.secret]]"
+dv_is_same_as:
+  - "[[has_replacee]]"
+  - "[[/_public/schema-org/Relation/has/has_replacee.public|has_replacee.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_replacee.internal|has_replacee.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_replacee.protect|has_replacee.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_replacee.private|has_replacee.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_replacee.personal|has_replacee.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_replacee.secret|has_replacee.secret]]"
+---
 ﻿---
 dv_has_:
   replacee: "[Thing](../../../Class/Thing)"
@@ -67,7 +86,7 @@ is_a = `=this.dv_is_a`
 has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
-- #has_/replacee :: [Thing](../../../Class/Thing)  
+- #has_/replacee : : [Thing](../../../Class/Thing)  
 - has_replacee = `=this.dv_has_replacee` (../../../Class/Thing) ] 
 
 A sub property of object. The object that is being replaced.

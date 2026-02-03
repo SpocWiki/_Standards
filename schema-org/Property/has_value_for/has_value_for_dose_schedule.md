@@ -26,7 +26,9 @@ tags:
 title: has_dose-schedule
 type: Predi_Quantity
 dv_has_:
-  domain: ["[[../../../bio/Medicine/Drug|Drug]]", "[[../../../bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure|Therapeutic_Procedure]]"]
+  domain:
+    - "[[../../../bio/Medicine/Drug|Drug]]"
+    - "[[../../../bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure|Therapeutic_Procedure]]"
   name: has_value_for_dose_schedule
   range: "[[../../../bio/Medicine/Medical_Entity/Medical_Intangible/Dose_Schedule|Dose_Schedule]]"
 dv_is_:
@@ -38,11 +40,14 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_dose_schedule.private|has_value_for_dose_schedule.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_dose_schedule.personal|has_value_for_dose_schedule.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_dose_schedule.secret|has_value_for_dose_schedule.secret]]"
-dv_has_domain: ["[[../../../bio/Medicine/Drug|Drug]]", "[[../../../bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure|Therapeutic_Procedure]]"]
+    - "[[has_value_for_dose_schedule]]"
+dv_has_domain:
+  - "[[../../../bio/Medicine/Drug|Drug]]"
+  - "[[../../../bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure|Therapeutic_Procedure]]"
 dv_has_name: has_value_for_dose_schedule
 dv_has_range: "[[../../../bio/Medicine/Medical_Entity/Medical_Intangible/Dose_Schedule|Dose_Schedule]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_dose_schedule|has_value_for_dose_schedule]]"
+  - "[[has_value_for_dose_schedule]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_dose_schedule.public|has_value_for_dose_schedule.public]]"
   - "[[/_internal/schema-org/Property/has_value_for/has_value_for_dose_schedule.internal|has_value_for_dose_schedule.internal]]"
   - "[[/_protect/schema-org/Property/has_value_for/has_value_for_dose_schedule.protect|has_value_for_dose_schedule.protect]]"

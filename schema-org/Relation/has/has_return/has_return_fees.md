@@ -65,7 +65,7 @@ is_a = `=this.dv_is_a`
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/return_fees :: ReturnFeesEnumeration  
+- #has_/return_fees : : ReturnFeesEnumeration  
 - has_return_fees = `=this.dv_has_return_fees`  
 
 The type of return fees for purchased products (for any return reason).

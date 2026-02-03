@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_publication_type.private|has_publication_type.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_publication_type.personal|has_publication_type.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_publication_type.secret|has_publication_type.secret]]"
+    - "[[has_publication_type]]"
 dv_has_domain: MedicalScholarlyArticle
 dv_has_name: has_text_of_publication_type
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_publication_type|has_publication_type]]"
+  - "[[has_publication_type]]"
   - "[[/_public/schema-org/Property/Texts/has_publication_type.public|has_publication_type.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_publication_type.internal|has_publication_type.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_publication_type.protect|has_publication_type.protect]]"

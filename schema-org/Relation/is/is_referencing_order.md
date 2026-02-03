@@ -10,40 +10,65 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
-layout: ''
+keywords: ""
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_referencing_order
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: is_referencing_order
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_:
+  domain: Invoice
+  name: is_referencing_order
+  range: Order
+dv_is_:
+  same_as:
+    - "[[is_referencing_order]]"
+    - "[[/_public/schema-org/Relation/is/is_referencing_order.public|is_referencing_order.public]]"
+    - "[[/_internal/schema-org/Relation/is/is_referencing_order.internal|is_referencing_order.internal]]"
+    - "[[/_protect/schema-org/Relation/is/is_referencing_order.protect|is_referencing_order.protect]]"
+    - "[[/_private/schema-org/Relation/is/is_referencing_order.private|is_referencing_order.private]]"
+    - "[[/_personal/schema-org/Relation/is/is_referencing_order.personal|is_referencing_order.personal]]"
+    - "[[/_secret/schema-org/Relation/is/is_referencing_order.secret|is_referencing_order.secret]]"
+dv_has_domain: Invoice
+dv_has_name: is_referencing_order
+dv_has_range: Order
+dv_is_same_as:
+  - "[[is_referencing_order]]"
+  - "[[/_public/schema-org/Relation/is/is_referencing_order.public|is_referencing_order.public]]"
+  - "[[/_internal/schema-org/Relation/is/is_referencing_order.internal|is_referencing_order.internal]]"
+  - "[[/_protect/schema-org/Relation/is/is_referencing_order.protect|is_referencing_order.protect]]"
+  - "[[/_private/schema-org/Relation/is/is_referencing_order.private|is_referencing_order.private]]"
+  - "[[/_personal/schema-org/Relation/is/is_referencing_order.personal|is_referencing_order.personal]]"
+  - "[[/_secret/schema-org/Relation/is/is_referencing_order.secret|is_referencing_order.secret]]"
 ---
 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 
 
 Use it like this: 
-- #is_/referencing_order :: Order 
-- is_referencing_order :: Order 
+- #is_/referencing_order : : Order 
+- is_referencing_order : : Order 
 
 The Order(s) related to this Invoice. One or more Orders may be combined into a single Invoice.
 
 Relation describes that: 
 
-#has_/domain  :: Invoice 
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: is_referencing_order)
-(has_/range :: Order)
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

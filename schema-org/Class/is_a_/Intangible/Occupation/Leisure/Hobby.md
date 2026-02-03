@@ -27,9 +27,10 @@ dv_is_:
     - "[[/_private/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.private|Hobby.private]]"
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.personal|Hobby.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.secret|Hobby.secret]]"
+    - "[[Hobby]]"
 dv_is_same_as:
   - "[[_Standards/WikiData/WD~hobby,47728]]"
-  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby|Hobby]]"
+  - "[[Hobby]]"
   - "[[/_public/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.public|Hobby.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.internal|Hobby.internal]]"
   - "[[/_protect/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby.protect|Hobby.protect]]"

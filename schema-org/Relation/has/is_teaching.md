@@ -69,8 +69,8 @@ is_a = `=this.dv_is_a`
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #is_/teaching :: DefinedTerm, Text  
-- is_/teaching :: DefinedTerm, Text  
+- #is_/teaching : : DefinedTerm, Text  
+- is_/teaching : : DefinedTerm, Text  
 
 The Subject/item being described is intended 
 to help a person learn the competency or learning outcome defined by the referenced term.

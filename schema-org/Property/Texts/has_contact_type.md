@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_contact_type.private|has_contact_type.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_contact_type.personal|has_contact_type.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_contact_type.secret|has_contact_type.secret]]"
+    - "[[has_contact_type]]"
 dv_has_domain: ContactPoint
 dv_has_name: has_text_of_contact_type
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_contact_type|has_contact_type]]"
+  - "[[has_contact_type]]"
   - "[[/_public/schema-org/Property/Texts/has_contact_type.public|has_contact_type.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_contact_type.internal|has_contact_type.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_contact_type.protect|has_contact_type.protect]]"

@@ -41,11 +41,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_number_of/has_number_of_pages.private|has_number_of_pages.private]]"
     - "[[/_personal/schema-org/Property/has_number_of/has_number_of_pages.personal|has_number_of_pages.personal]]"
     - "[[/_secret/schema-org/Property/has_number_of/has_number_of_pages.secret|has_number_of_pages.secret]]"
+    - "[[has_number_of_pages]]"
 dv_has_domain: Book
 dv_has_name: has_number_of_pages
 dv_has_range: Integer
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_pages|has_number_of_pages]]"
+  - "[[has_number_of_pages]]"
   - "[[/_public/schema-org/Property/has_number_of/has_number_of_pages.public|has_number_of_pages.public]]"
   - "[[/_internal/schema-org/Property/has_number_of/has_number_of_pages.internal|has_number_of_pages.internal]]"
   - "[[/_protect/schema-org/Property/has_number_of/has_number_of_pages.protect|has_number_of_pages.protect]]"

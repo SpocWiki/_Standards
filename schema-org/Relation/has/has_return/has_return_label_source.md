@@ -66,7 +66,7 @@ is_a = `=this.dv_is_a`
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/return_label_source :: ReturnLabelSourceEnumeration  
+- #has_/return_label_source : : ReturnLabelSourceEnumeration  
 - has_return_label_source = `=this.dv_has_return_label_source`  
 
 The method (from an enumeration) by which the customer obtains a return shipping label for a product returned for any reason.

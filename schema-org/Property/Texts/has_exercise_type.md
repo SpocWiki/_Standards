@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_exercise_type.private|has_exercise_type.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_exercise_type.personal|has_exercise_type.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_exercise_type.secret|has_exercise_type.secret]]"
+    - "[[has_exercise_type]]"
 dv_has_domain: ExerciseAction, ExercisePlan
 dv_has_name: has_text_of_exercise_type
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_exercise_type|has_exercise_type]]"
+  - "[[has_exercise_type]]"
   - "[[/_public/schema-org/Property/Texts/has_exercise_type.public|has_exercise_type.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_exercise_type.internal|has_exercise_type.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_exercise_type.protect|has_exercise_type.protect]]"

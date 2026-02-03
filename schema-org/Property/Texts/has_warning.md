@@ -42,11 +42,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_warning.private|has_warning.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_warning.personal|has_warning.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_warning.secret|has_warning.secret]]"
+    - "[[has_warning]]"
 dv_has_domain: Drug
 dv_has_name: has_text_of_warning
 dv_has_range: Text, URL
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_warning|has_warning]]"
+  - "[[has_warning]]"
   - "[[/_public/schema-org/Property/Texts/has_warning.public|has_warning.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_warning.internal|has_warning.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_warning.protect|has_warning.protect]]"

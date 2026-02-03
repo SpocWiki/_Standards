@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Online_Full.private|Online_Full.private]]"
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Online_Full.personal|Online_Full.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Online_Full.secret|Online_Full.secret]]"
+    - "[[Online_Full]]"
 dv_has_parent_class: "[[../GameServerStatus]]"
 dv_is_enum_of: "[[../GameServerStatus]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Online_Full|Online_Full]]"
+  - "[[Online_Full]]"
   - "[[/_public/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Online_Full.public|Online_Full.public]]"
   - "[[/_internal/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Online_Full.internal|Online_Full.internal]]"
   - "[[/_protect/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Online_Full.protect|Online_Full.protect]]"

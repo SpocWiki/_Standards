@@ -40,9 +40,10 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_Date_Time/has_time_available_from.private|has_time_available_from.private]]"
     - "[[/_personal/schema-org/Property/has_Date_Time/has_time_available_from.personal|has_time_available_from.personal]]"
     - "[[/_secret/schema-org/Property/has_Date_Time/has_time_available_from.secret|has_time_available_from.secret]]"
+    - "[[has_time_available_from]]"
 dv_has_name: has_time_available_from
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_available_from|has_time_available_from]]"
+  - "[[has_time_available_from]]"
   - "[[/_public/schema-org/Property/has_Date_Time/has_time_available_from.public|has_time_available_from.public]]"
   - "[[/_internal/schema-org/Property/has_Date_Time/has_time_available_from.internal|has_time_available_from.internal]]"
   - "[[/_protect/schema-org/Property/has_Date_Time/has_time_available_from.protect|has_time_available_from.protect]]"

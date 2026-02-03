@@ -36,13 +36,14 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Size_Group_Enumeration.private|Size_Group_Enumeration.private]]"
     - "[[/_personal/schema-org/Enumeration/Size_Group_Enumeration.personal|Size_Group_Enumeration.personal]]"
     - "[[/_secret/schema-org/Enumeration/Size_Group_Enumeration.secret|Size_Group_Enumeration.secret]]"
+    - "[[Size_Group_Enumeration]]"
 dv_has_:
   child_class: "[ WearableSizeGroupEnumeration ]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../Enumeration]]"
 dv_has_child_class: "[ WearableSizeGroupEnumeration ]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Size_Group_Enumeration|Size_Group_Enumeration]]"
+  - "[[Size_Group_Enumeration]]"
   - "[[/_public/schema-org/Enumeration/Size_Group_Enumeration.public|Size_Group_Enumeration.public]]"
   - "[[/_internal/schema-org/Enumeration/Size_Group_Enumeration.internal|Size_Group_Enumeration.internal]]"
   - "[[/_protect/schema-org/Enumeration/Size_Group_Enumeration.protect|Size_Group_Enumeration.protect]]"

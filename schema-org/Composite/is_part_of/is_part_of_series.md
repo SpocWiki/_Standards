@@ -40,18 +40,25 @@ dv_is_:
     - "[[/_private/schema-org/Relation/is/part_of/is_part_of_series.private|is_part_of_series.private]]"
     - "[[/_personal/schema-org/Relation/is/part_of/is_part_of_series.personal|is_part_of_series.personal]]"
     - "[[/_secret/schema-org/Relation/is/part_of/is_part_of_series.secret|is_part_of_series.secret]]"
+    - "[[is_part_of_series]]"
 dv_is_part_of_series: "[[../../../Class/is_a_/creative_work/creative_work_series|CreativeWorkSeries]]"
 dv_has_:
   parent_property: "[[../is_part_of]]"
-  domain: ["[[../../../../Society/Communication/Media/Creative_Work/Clip|Clip]]", "[[../../../../Society/Communication/Media/Creative_Work/Creative_Work_Season|CreativeWorkSeason]]", "[[../../../../Society/Communication/Media/Creative_Work/Episode|Episode]]"]
+  domain:
+    - "[[../../../../Society/Communication/Media/Creative_Work/Clip|Clip]]"
+    - "[[../../../../Society/Communication/Media/Creative_Work/Creative_Work_Season|CreativeWorkSeason]]"
+    - "[[../../../../Society/Communication/Media/Creative_Work/Episode|Episode]]"
   name: is_part_of_series
   range: "[[../../../../Society/Communication/Media/Creative_Work/Creative_Work_Series|CreativeWorkSeries]]"
-dv_has_domain: ["[[../../../../Society/Communication/Media/Creative_Work/Clip|Clip]]", "[[../../../../Society/Communication/Media/Creative_Work/Creative_Work_Season|CreativeWorkSeason]]", "[[../../../../Society/Communication/Media/Creative_Work/Episode|Episode]]"]
+dv_has_domain:
+  - "[[../../../../Society/Communication/Media/Creative_Work/Clip|Clip]]"
+  - "[[../../../../Society/Communication/Media/Creative_Work/Creative_Work_Season|CreativeWorkSeason]]"
+  - "[[../../../../Society/Communication/Media/Creative_Work/Episode|Episode]]"
 dv_has_name: is_part_of_series
 dv_has_range: "[[../../../../Society/Communication/Media/Creative_Work/Creative_Work_Series|CreativeWorkSeries]]"
 dv_has_parent_property: "[[../is_part_of]]"
 dv_is_same_as:
-  - "[[is_part_of_series|is_part_of_series]]"
+  - "[[is_part_of_series]]"
   - "[[/_public/schema-org/Relation/is/part_of/is_part_of_series.public|is_part_of_series.public]]"
   - "[[/_internal/schema-org/Relation/is/part_of/is_part_of_series.internal|is_part_of_series.internal]]"
   - "[[/_protect/schema-org/Relation/is/part_of/is_part_of_series.protect|is_part_of_series.protect]]"

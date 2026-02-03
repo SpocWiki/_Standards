@@ -65,7 +65,7 @@ is_a = `=this.dv_is_a`
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/shipping_origin :: DefinedRegion  
+- #has_/shipping_origin : : DefinedRegion  
 - has_shipping_origin = `=this.dv_has_shipping_origin`  
 
 Indicates the origin of a shipment, i.e. where it should be coming from.

@@ -43,7 +43,19 @@ dv_has_:
     - "[[../../Class/is_a_/Data_Type/Text|Text]]"
     - "[[../../Class/is_a_/Intangible/Virtual_Location|Virtual_Location]]"
   child_:
-    property: ["[[has_location_course|has_location_course]]", "[[../../Relation/has/has_entertainment_business|entertainmentBusiness]]", "[[has_location_exercise_course|has_location_exercise_course]]", "[[../../Relation/has/has_food_establishment|has_food_establishment]]", "[[../../Relation/has/has_food_event|has_food_event]]", "[[has_location_from|has_location_from]]", "[[../../Relation/has/has_home_location|has_home_location]]", "[[has_location_of_item|has_location_of_item]]", "[[../../../Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location|Sports_Activity_Location]]", "[[../../Relation/has/has_sports_event|has_sports_event]]", "[[has_location_to|has_location_to]]", "[[../../Relation/has/has_work/has_work_location|has_work_location]]"]
+    property:
+      - "[[has_location_course|has_location_course]]"
+      - "[[../../Relation/has/has_entertainment_business|entertainmentBusiness]]"
+      - "[[has_location_exercise_course|has_location_exercise_course]]"
+      - "[[../../Relation/has/has_food_establishment|has_food_establishment]]"
+      - "[[../../Relation/has/has_food_event|has_food_event]]"
+      - "[[has_location_from|has_location_from]]"
+      - "[[../../Relation/has/has_home_location|has_home_location]]"
+      - "[[has_location_of_item|has_location_of_item]]"
+      - "[[../../../Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location|Sports_Activity_Location]]"
+      - "[[../../Relation/has/has_sports_event|has_sports_event]]"
+      - "[[has_location_to|has_location_to]]"
+      - "[[../../Relation/has/has_work/has_work_location|has_work_location]]"
 dv_is_:
   same_as:
     - "[[../has_location|has_location]]"
@@ -64,7 +76,19 @@ dv_has_range:
   - "[[../../Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address|Postal_Address]]"
   - "[[../../Class/is_a_/Data_Type/Text|Text]]"
   - "[[../../Class/is_a_/Intangible/Virtual_Location|Virtual_Location]]"
-dv_has_child_property: ["[[has_location_course|has_location_course]]", "[[../../Relation/has/has_entertainment_business|entertainmentBusiness]]", "[[has_location_exercise_course|has_location_exercise_course]]", "[[../../Relation/has/has_food_establishment|has_food_establishment]]", "[[../../Relation/has/has_food_event|has_food_event]]", "[[has_location_from|has_location_from]]", "[[../../Relation/has/has_home_location|has_home_location]]", "[[has_location_of_item|has_location_of_item]]", "[[../../../Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location|Sports_Activity_Location]]", "[[../../Relation/has/has_sports_event|has_sports_event]]", "[[has_location_to|has_location_to]]", "[[../../Relation/has/has_work/has_work_location|has_work_location]]"]
+dv_has_child_property:
+  - "[[has_location_course|has_location_course]]"
+  - "[[../../Relation/has/has_entertainment_business|entertainmentBusiness]]"
+  - "[[has_location_exercise_course|has_location_exercise_course]]"
+  - "[[../../Relation/has/has_food_establishment|has_food_establishment]]"
+  - "[[../../Relation/has/has_food_event|has_food_event]]"
+  - "[[has_location_from|has_location_from]]"
+  - "[[../../Relation/has/has_home_location|has_home_location]]"
+  - "[[has_location_of_item|has_location_of_item]]"
+  - "[[../../../Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location|Sports_Activity_Location]]"
+  - "[[../../Relation/has/has_sports_event|has_sports_event]]"
+  - "[[has_location_to|has_location_to]]"
+  - "[[../../Relation/has/has_work/has_work_location|has_work_location]]"
 dv_is_same_as:
   - "[[../has_location|has_location]]"
   - "[[/_public/schema-org/Property/has_location/has_location.public|has_location.public]]"
@@ -94,10 +118,10 @@ the Event can be appended like so:
 Preferably use [[../../../Earth/Geography/Place|place]], because it is not limited to the earth and is better recognizable for known Locations. 
 
 Use it like this: 
-- #has_/location :: `=this.dv_has_range`  
-- has_location :: `=this.dv_has_range`     
-- is_location_of :: `=this.dv_has_domain`  
-- #is_/location_of :: `=this.dv_has_domain`  
+- #has_/location : : `=this.dv_has_range`  
+- has_location : : `=this.dv_has_range`     
+- is_location_of : : `=this.dv_has_domain`  
+- #is_/location_of : : `=this.dv_has_domain`  
 
 The location of, for example, where an event is happening, where an organization is located, 
 or where an action takes place.

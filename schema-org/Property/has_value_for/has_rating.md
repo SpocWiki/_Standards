@@ -31,6 +31,7 @@ dv_has_:
   range:
     - "[[../../Class/is_a_/Intangible/Rating|Rating]]"
     - "[[../../Class/is_a_/Data_Type/Text|Text]]"
+  inverse: "[[is_rating_of]]"
 dv_is_:
   same_as:
     - "[[has_rating|has_content_rating]]"
@@ -53,11 +54,12 @@ dv_is_same_as:
   - "[[/_private/schema-org/Property/has_value_for/has_content_rating.private|has_content_rating.private]]"
   - "[[/_personal/schema-org/Property/has_value_for/has_content_rating.personal|has_content_rating.personal]]"
   - "[[/_secret/schema-org/Property/has_value_for/has_content_rating.secret|has_content_rating.secret]]"
+dv_has_inverse: "[[is_rating_of]]"
 ---
 
 # [[has_rating]] 
 
-#has_/inverse :: [[is_rating_of]] 
+has_inverse = `=this.dv_has_inverse` 
 
 Predicate to describe the Quantity of CreativeWork.
 

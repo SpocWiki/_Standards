@@ -44,11 +44,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_value_pattern.private|has_value_pattern.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_value_pattern.personal|has_value_pattern.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_value_pattern.secret|has_value_pattern.secret]]"
+    - "[[has_value_pattern]]"
 dv_has_domain: PropertyValueSpecification
 dv_has_name: has_text_of_value_pattern
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_value_pattern|has_value_pattern]]"
+  - "[[has_value_pattern]]"
   - "[[/_public/schema-org/Property/Texts/has_value_pattern.public|has_value_pattern.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_value_pattern.internal|has_value_pattern.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_value_pattern.protect|has_value_pattern.protect]]"

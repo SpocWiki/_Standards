@@ -154,13 +154,14 @@ dv_is_:
     - "[[/_private/schema-org/Predicate/Quantity/has_value_for_energy.private|has_value_for_energy.private]]"
     - "[[/_personal/schema-org/Predicate/Quantity/has_value_for_energy.personal|has_value_for_energy.personal]]"
     - "[[/_secret/schema-org/Predicate/Quantity/has_value_for_energy.secret|has_value_for_energy.secret]]"
+    - "[[has_value_for_energy]]"
 dv_has_:
   parent_class: "[[../Quantity]]"
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
 dv_has_parent_class: "[[../Quantity]]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Predicate/Quantity/has_value_for_energy|has_value_for_energy]]"
+  - "[[has_value_for_energy]]"
   - "[[/_public/schema-org/Predicate/Quantity/has_value_for_energy.public|has_value_for_energy.public]]"
   - "[[/_internal/schema-org/Predicate/Quantity/has_value_for_energy.internal|has_value_for_energy.internal]]"
   - "[[/_protect/schema-org/Predicate/Quantity/has_value_for_energy.protect|has_value_for_energy.protect]]"

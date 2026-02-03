@@ -36,6 +36,7 @@ dv_is_:
     - "[[/_private/schema-org/Class/is_a_/Intangible/Trip/Boat_Trip.private|Boat_Trip.private]]"
     - "[[/_personal/schema-org/Class/is_a_/Intangible/Trip/Boat_Trip.personal|Boat_Trip.personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Intangible/Trip/Boat_Trip.secret|Boat_Trip.secret]]"
+    - "[[Boat_Trip]]"
 dv_has_:
   properties:
     - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
@@ -85,7 +86,7 @@ dv_has_properties:
   - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
   - "[[../../../../Property/has_url_for/has_url|has_url]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Trip/Boat_Trip|Boat_Trip]]"
+  - "[[Boat_Trip]]"
   - "[[/_public/schema-org/Class/is_a_/Intangible/Trip/Boat_Trip.public|Boat_Trip.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Intangible/Trip/Boat_Trip.internal|Boat_Trip.internal]]"
   - "[[/_protect/schema-org/Class/is_a_/Intangible/Trip/Boat_Trip.protect|Boat_Trip.protect]]"

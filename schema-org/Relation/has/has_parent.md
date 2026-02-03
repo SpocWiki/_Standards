@@ -71,7 +71,7 @@ has_parent_relation = `=this.dv_has_parent_relation`
 #is_/same_as :: [[WD~P40]] 
 
 Use it like this: 
-- #has_/parent :: [[../../../Society/Agent/Person|Person]]  
+- #has_/parent : : [[../../../Society/Agent/Person|Person]]  
 - has_parent = `=this.dv_has_parent` 
 
 A parent (Object) of this person (Subject). 

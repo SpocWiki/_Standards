@@ -14,9 +14,10 @@ dv_is_:
     - "[[/_private/schema-org/Relation/is_used_by.private|is_used_by.private]]"
     - "[[/_personal/schema-org/Relation/is_used_by.personal|is_used_by.personal]]"
     - "[[/_secret/schema-org/Relation/is_used_by.secret|is_used_by.secret]]"
+    - "[[is_used_by]]"
 dv_has_inverse: "#is_/using"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Relation/is_used_by|is_used_by]]"
+  - "[[is_used_by]]"
   - "[[/_public/schema-org/Relation/is_used_by.public|is_used_by.public]]"
   - "[[/_internal/schema-org/Relation/is_used_by.internal|is_used_by.internal]]"
   - "[[/_protect/schema-org/Relation/is_used_by.protect|is_used_by.protect]]"

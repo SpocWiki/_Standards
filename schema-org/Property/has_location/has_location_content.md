@@ -10,21 +10,54 @@ cssclasses:
   - Predicate
   - geo
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - content_location
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_location_content
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/geo
 title: has_location_content
 type: Pred_geo
+dv_has_:
+  domain: CreativeWork
+  name: has_location_content
+  range: Place
+  child_:
+    property: "[ spatialCoverage ]"
+dv_is_:
+  similar_to:
+    - "[[has_location_created]]"
+    - "[[../../Relation/has/has_country_of_origin|has_country_of_origin]]"
+  same_as:
+    - "[[has_location_content]]"
+    - "[[/_public/schema-org/Property/has_location/has_location_content.public|has_location_content.public]]"
+    - "[[/_internal/schema-org/Property/has_location/has_location_content.internal|has_location_content.internal]]"
+    - "[[/_protect/schema-org/Property/has_location/has_location_content.protect|has_location_content.protect]]"
+    - "[[/_private/schema-org/Property/has_location/has_location_content.private|has_location_content.private]]"
+    - "[[/_personal/schema-org/Property/has_location/has_location_content.personal|has_location_content.personal]]"
+    - "[[/_secret/schema-org/Property/has_location/has_location_content.secret|has_location_content.secret]]"
+dv_is_similar_to:
+  - "[[has_location_created]]"
+  - "[[../../Relation/has/has_country_of_origin|has_country_of_origin]]"
+dv_has_domain: CreativeWork
+dv_has_name: has_location_content
+dv_has_range: Place
+dv_has_child_property: "[ spatialCoverage ]"
+dv_is_same_as:
+  - "[[has_location_content]]"
+  - "[[/_public/schema-org/Property/has_location/has_location_content.public|has_location_content.public]]"
+  - "[[/_internal/schema-org/Property/has_location/has_location_content.internal|has_location_content.internal]]"
+  - "[[/_protect/schema-org/Property/has_location/has_location_content.protect|has_location_content.protect]]"
+  - "[[/_private/schema-org/Property/has_location/has_location_content.private|has_location_content.private]]"
+  - "[[/_personal/schema-org/Property/has_location/has_location_content.personal|has_location_content.personal]]"
+  - "[[/_secret/schema-org/Property/has_location/has_location_content.secret|has_location_content.secret]]"
 ---
 
 # [[has_location_content]] 
@@ -35,19 +68,19 @@ type: Pred_geo
 Predicate to describe the geo of CreativeWork.
 
 Use it like this: 
-- #has_/location_/content :: Place   
-- has_location_content :: Place   
+- #has_/location_/content : : Place   
+- has_location_content : : Place   
 
 The location depicted or described in the content. For example, the location in a photograph or painting.
 
 Predicate describes that: 
 
-#has_/domain  :: CreativeWork  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: has_location_content )
-(has_/range :: Place )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#has_/child_/property :: [ spatialCoverage ]  
+has_child_property = `=this.dv_has_child_property` 
 
 ## Confidential Links & Embeds: 
 

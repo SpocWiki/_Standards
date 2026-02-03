@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_body_location.private|has_body_location.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_body_location.personal|has_body_location.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_body_location.secret|has_body_location.secret]]"
+    - "[[has_body_location]]"
 dv_has_domain: AnatomicalStructure, MedicalProcedure
 dv_has_name: has_text_of_body_location
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_body_location|has_body_location]]"
+  - "[[has_body_location]]"
   - "[[/_public/schema-org/Property/Texts/has_body_location.public|has_body_location.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_body_location.internal|has_body_location.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_body_location.protect|has_body_location.protect]]"

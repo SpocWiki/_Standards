@@ -65,7 +65,7 @@ is_a = `=this.dv_is_a`
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/size_system :: SizeSystemEnumeration, Text  
+- #has_/size_system : : SizeSystemEnumeration, Text  
 - has_size_system = `=this.dv_has_size_system`  
 
 The size system used to identify a product's size. Typically either a standard (for example, "GS1" or "ISO-EN13402"), country code (for example "US" or "JP"), or a measuring system (for example "Metric" or "Imperial").

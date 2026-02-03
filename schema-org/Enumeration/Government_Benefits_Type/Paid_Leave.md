@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Government_Benefits_Type/Paid_Leave.private|Paid_Leave.private]]"
     - "[[/_personal/schema-org/Enumeration/Government_Benefits_Type/Paid_Leave.personal|Paid_Leave.personal]]"
     - "[[/_secret/schema-org/Enumeration/Government_Benefits_Type/Paid_Leave.secret|Paid_Leave.secret]]"
+    - "[[Paid_Leave]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../GovernmentBenefitsType]]"
 dv_is_enum_of: "[[../GovernmentBenefitsType]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Government_Benefits_Type/Paid_Leave|Paid_Leave]]"
+  - "[[Paid_Leave]]"
   - "[[/_public/schema-org/Enumeration/Government_Benefits_Type/Paid_Leave.public|Paid_Leave.public]]"
   - "[[/_internal/schema-org/Enumeration/Government_Benefits_Type/Paid_Leave.internal|Paid_Leave.internal]]"
   - "[[/_protect/schema-org/Enumeration/Government_Benefits_Type/Paid_Leave.protect|Paid_Leave.protect]]"

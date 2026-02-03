@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_result]]"
+    - "[[/_public/schema-org/Relation/has/has_result.public|has_result.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_result.internal|has_result.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_result.protect|has_result.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_result.private|has_result.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_result.personal|has_result.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_result.secret|has_result.secret]]"
+dv_is_same_as:
+  - "[[has_result]]"
+  - "[[/_public/schema-org/Relation/has/has_result.public|has_result.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_result.internal|has_result.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_result.protect|has_result.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_result.private|has_result.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_result.personal|has_result.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_result.secret|has_result.secret]]"
+---
 ﻿---
 dv_has_:
   result: "[Thing](../../../Class/Thing)"
@@ -67,8 +86,8 @@ is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
 has_inverse = `=this.dv_has_inverse`
-- #has_/result :: [Thing](../../../Class/Thing)  
-- has_result :: [Thing](../../../Class/Thing) 
+- #has_/result : : [Thing](../../../Class/Thing)  
+- has_result : : [Thing](../../../Class/Thing) 
 
 The result produced in the action. E.g. John wrote <em>a book</em>.
 

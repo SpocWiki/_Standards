@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Physical_Activity_Category/Aerobic_Activity.private|Aerobic_Activity.private]]"
     - "[[/_personal/schema-org/Enumeration/Physical_Activity_Category/Aerobic_Activity.personal|Aerobic_Activity.personal]]"
     - "[[/_secret/schema-org/Enumeration/Physical_Activity_Category/Aerobic_Activity.secret|Aerobic_Activity.secret]]"
+    - "[[Aerobic_Activity]]"
 dv_has_parent_class: "[[../PhysicalActivityCategory]]"
 dv_is_enum_of: "[[../PhysicalActivityCategory]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Physical_Activity_Category/Aerobic_Activity|Aerobic_Activity]]"
+  - "[[Aerobic_Activity]]"
   - "[[/_public/schema-org/Enumeration/Physical_Activity_Category/Aerobic_Activity.public|Aerobic_Activity.public]]"
   - "[[/_internal/schema-org/Enumeration/Physical_Activity_Category/Aerobic_Activity.internal|Aerobic_Activity.internal]]"
   - "[[/_protect/schema-org/Enumeration/Physical_Activity_Category/Aerobic_Activity.protect|Aerobic_Activity.protect]]"

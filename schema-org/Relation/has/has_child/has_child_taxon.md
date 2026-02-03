@@ -72,8 +72,8 @@ is_part_of = `=this.dv_is_part_of`
 has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
-- #has_/child_/taxon :: `=this.dv_has_range` 
-- has_child_taxon :: `=this.dv_has_range`
+- #has_/child_/taxon : : `=this.dv_has_range` 
+- has_child_taxon : : `=this.dv_has_range`
 
 Closest child taxon-Objects of the Subject-Taxon in question.
 

@@ -28,7 +28,9 @@ type: Predi_Quantity
 dv_has_:
   domain: "[[../../../Society/Communication/Media/Creative_Work/Exercise_Plan|Exercise_Plan]]"
   name: has_value_for_intensity
-  range: ["[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
+  range:
+    - "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
+    - "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_intensity|has_value_for_intensity]]"
@@ -38,11 +40,14 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_intensity.private|has_value_for_intensity.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_intensity.personal|has_value_for_intensity.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_intensity.secret|has_value_for_intensity.secret]]"
+    - "[[has_value_for_intensity]]"
 dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Exercise_Plan|Exercise_Plan]]"
 dv_has_name: has_value_for_intensity
-dv_has_range: ["[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
+dv_has_range:
+  - "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_intensity|has_value_for_intensity]]"
+  - "[[has_value_for_intensity]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_intensity.public|has_value_for_intensity.public]]"
   - "[[/_internal/schema-org/Property/has_value_for/has_value_for_intensity.internal|has_value_for_intensity.internal]]"
   - "[[/_protect/schema-org/Property/has_value_for/has_value_for_intensity.protect|has_value_for_intensity.protect]]"

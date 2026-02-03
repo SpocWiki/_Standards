@@ -41,9 +41,10 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_Date_Time/has_time_of_content_reference.private|has_time_of_content_reference.private]]"
     - "[[/_personal/schema-org/Property/has_Date_Time/has_time_of_content_reference.personal|has_time_of_content_reference.personal]]"
     - "[[/_secret/schema-org/Property/has_Date_Time/has_time_of_content_reference.secret|has_time_of_content_reference.secret]]"
+    - "[[has_time_of_content_reference]]"
 dv_has_name: has_time_of_content_reference
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_of_content_reference|has_time_of_content_reference]]"
+  - "[[has_time_of_content_reference]]"
   - "[[/_public/schema-org/Property/has_Date_Time/has_time_of_content_reference.public|has_time_of_content_reference.public]]"
   - "[[/_internal/schema-org/Property/has_Date_Time/has_time_of_content_reference.internal|has_time_of_content_reference.internal]]"
   - "[[/_protect/schema-org/Property/has_Date_Time/has_time_of_content_reference.protect|has_time_of_content_reference.protect]]"

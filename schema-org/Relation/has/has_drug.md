@@ -1,3 +1,25 @@
+---
+dv_has_:
+  inverse: "[[is_drug_for]]"
+dv_is_:
+  same_as:
+    - "[[has_drug]]"
+    - "[[/_public/schema-org/Relation/has/has_drug.public|has_drug.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_drug.internal|has_drug.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_drug.protect|has_drug.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_drug.private|has_drug.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_drug.personal|has_drug.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_drug.secret|has_drug.secret]]"
+dv_has_inverse: "[[is_drug_for]]"
+dv_is_same_as:
+  - "[[has_drug]]"
+  - "[[/_public/schema-org/Relation/has/has_drug.public|has_drug.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_drug.internal|has_drug.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_drug.protect|has_drug.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_drug.private|has_drug.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_drug.personal|has_drug.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_drug.secret|has_drug.secret]]"
+---
 ﻿---
 aliases:
   - has drug
@@ -63,7 +85,7 @@ dv_is_a: "[[../../Relation|Relation]]"
 is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_drug_for]] 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/drug : : `=this.dv_has_range`  

@@ -40,9 +40,10 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.private|has_time_vehicle_first_registered.private]]"
     - "[[/_personal/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.personal|has_time_vehicle_first_registered.personal]]"
     - "[[/_secret/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.secret|has_time_vehicle_first_registered.secret]]"
+    - "[[has_time_vehicle_first_registered]]"
 dv_has_name: has_time_vehicle_first_registered
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered|has_time_vehicle_first_registered]]"
+  - "[[has_time_vehicle_first_registered]]"
   - "[[/_public/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.public|has_time_vehicle_first_registered.public]]"
   - "[[/_internal/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.internal|has_time_vehicle_first_registered.internal]]"
   - "[[/_protect/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.protect|has_time_vehicle_first_registered.protect]]"

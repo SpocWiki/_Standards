@@ -1,3 +1,24 @@
+---
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_: {}
+dv_is_:
+  same_as:
+    - "[[is_acquired_from]]"
+    - "[[/_public/schema-org/Relation/is/is_acquired_from.public|is_acquired_from.public]]"
+    - "[[/_internal/schema-org/Relation/is/is_acquired_from.internal|is_acquired_from.internal]]"
+    - "[[/_protect/schema-org/Relation/is/is_acquired_from.protect|is_acquired_from.protect]]"
+    - "[[/_private/schema-org/Relation/is/is_acquired_from.private|is_acquired_from.private]]"
+    - "[[/_personal/schema-org/Relation/is/is_acquired_from.personal|is_acquired_from.personal]]"
+    - "[[/_secret/schema-org/Relation/is/is_acquired_from.secret|is_acquired_from.secret]]"
+dv_is_same_as:
+  - "[[is_acquired_from]]"
+  - "[[/_public/schema-org/Relation/is/is_acquired_from.public|is_acquired_from.public]]"
+  - "[[/_internal/schema-org/Relation/is/is_acquired_from.internal|is_acquired_from.internal]]"
+  - "[[/_protect/schema-org/Relation/is/is_acquired_from.protect|is_acquired_from.protect]]"
+  - "[[/_private/schema-org/Relation/is/is_acquired_from.private|is_acquired_from.private]]"
+  - "[[/_personal/schema-org/Relation/is/is_acquired_from.personal|is_acquired_from.personal]]"
+  - "[[/_secret/schema-org/Relation/is/is_acquired_from.secret|is_acquired_from.secret]]"
+---
 ﻿---
 aliases:
   - acquired-from
@@ -58,7 +79,7 @@ dv_is_same_as:
 ---
 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 

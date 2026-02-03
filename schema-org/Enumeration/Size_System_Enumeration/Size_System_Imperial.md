@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Size_System_Enumeration/Size_System_Imperial.private|Size_System_Imperial.private]]"
     - "[[/_personal/schema-org/Enumeration/Size_System_Enumeration/Size_System_Imperial.personal|Size_System_Imperial.personal]]"
     - "[[/_secret/schema-org/Enumeration/Size_System_Enumeration/Size_System_Imperial.secret|Size_System_Imperial.secret]]"
+    - "[[Size_System_Imperial]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../SizeSystemEnumeration]]"
 dv_is_enum_of: "[[../SizeSystemEnumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Size_System_Enumeration/Size_System_Imperial|Size_System_Imperial]]"
+  - "[[Size_System_Imperial]]"
   - "[[/_public/schema-org/Enumeration/Size_System_Enumeration/Size_System_Imperial.public|Size_System_Imperial.public]]"
   - "[[/_internal/schema-org/Enumeration/Size_System_Enumeration/Size_System_Imperial.internal|Size_System_Imperial.internal]]"
   - "[[/_protect/schema-org/Enumeration/Size_System_Enumeration/Size_System_Imperial.protect|Size_System_Imperial.protect]]"

@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_screenshot]]"
+    - "[[/_public/schema-org/Relation/has/has_screenshot.public|has_screenshot.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_screenshot.internal|has_screenshot.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_screenshot.protect|has_screenshot.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_screenshot.private|has_screenshot.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_screenshot.personal|has_screenshot.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_screenshot.secret|has_screenshot.secret]]"
+dv_is_same_as:
+  - "[[has_screenshot]]"
+  - "[[/_public/schema-org/Relation/has/has_screenshot.public|has_screenshot.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_screenshot.internal|has_screenshot.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_screenshot.protect|has_screenshot.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_screenshot.private|has_screenshot.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_screenshot.personal|has_screenshot.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_screenshot.secret|has_screenshot.secret]]"
+---
 ﻿---
 dv_is_:
   same_as:

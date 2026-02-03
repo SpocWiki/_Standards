@@ -41,9 +41,10 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_duration_of/has_duration_of_billing.private|has_duration_of_billing.private]]"
     - "[[/_personal/schema-org/Property/has_duration_of/has_duration_of_billing.personal|has_duration_of_billing.personal]]"
     - "[[/_secret/schema-org/Property/has_duration_of/has_duration_of_billing.secret|has_duration_of_billing.secret]]"
+    - "[[has_duration_of_billing]]"
 dv_has_name: has_duration_of_billing
 dv_is_same_as:
-  - "[[has_duration_of_billing|has_duration_of_billing]]"
+  - "[[has_duration_of_billing]]"
   - "[[/_public/schema-org/Property/has_duration_of/has_duration_of_billing.public|has_duration_of_billing.public]]"
   - "[[/_internal/schema-org/Property/has_duration_of/has_duration_of_billing.internal|has_duration_of_billing.internal]]"
   - "[[/_protect/schema-org/Property/has_duration_of/has_duration_of_billing.protect|has_duration_of_billing.protect]]"

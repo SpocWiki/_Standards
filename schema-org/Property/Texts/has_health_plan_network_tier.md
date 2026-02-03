@@ -11,7 +11,7 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -19,34 +19,60 @@ keywords:
   - plan
   - network
   - tier
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_health_plan_network_tier
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_health_plan_network_tier
 type: Pred_Text
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[has_health_plan_network_tier]]"
+    - "[[/_public/schema-org/Property/Texts/has_health_plan_network_tier.public|has_health_plan_network_tier.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_health_plan_network_tier.internal|has_health_plan_network_tier.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_health_plan_network_tier.protect|has_health_plan_network_tier.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_health_plan_network_tier.private|has_health_plan_network_tier.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_health_plan_network_tier.personal|has_health_plan_network_tier.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_health_plan_network_tier.secret|has_health_plan_network_tier.secret]]"
+dv_has_:
+  domain: HealthPlanNetwork
+  name: has_text_of_health_plan_network_tier
+  range: Text
+dv_is_part_of: "pending:"
+dv_has_domain: HealthPlanNetwork
+dv_has_name: has_text_of_health_plan_network_tier
+dv_has_range: Text
+dv_is_same_as:
+  - "[[has_health_plan_network_tier]]"
+  - "[[/_public/schema-org/Property/Texts/has_health_plan_network_tier.public|has_health_plan_network_tier.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_health_plan_network_tier.internal|has_health_plan_network_tier.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_health_plan_network_tier.protect|has_health_plan_network_tier.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_health_plan_network_tier.private|has_health_plan_network_tier.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_health_plan_network_tier.personal|has_health_plan_network_tier.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_health_plan_network_tier.secret|has_health_plan_network_tier.secret]]"
 ---
 
 Predicate to describe the Text of HealthPlanNetwork.
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/text_of_/health_plan_network_tier :: Text   
-- has_text_of_health_plan_network_tier :: Text   
+- #has_/text_of_/health_plan_network_tier : : Text   
+- has_text_of_health_plan_network_tier : : Text   
 
 The tier(s) for this network.
 
 Predicated describes that: 
 
-#has_/domain  :: HealthPlanNetwork  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: has_text_of_health_plan_network_tier )
-(has_/range :: Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

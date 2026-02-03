@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_target_description.private|has_target_description.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_target_description.personal|has_target_description.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_target_description.secret|has_target_description.secret]]"
+    - "[[has_target_description]]"
 dv_has_domain: AlignmentObject
 dv_has_name: has_text_of_target_description
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_target_description|has_target_description]]"
+  - "[[has_target_description]]"
   - "[[/_public/schema-org/Property/Texts/has_target_description.public|has_target_description.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_target_description.internal|has_target_description.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_target_description.protect|has_target_description.protect]]"

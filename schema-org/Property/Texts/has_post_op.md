@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_post_op.private|has_post_op.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_post_op.personal|has_post_op.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_post_op.secret|has_post_op.secret]]"
+    - "[[has_post_op]]"
 dv_has_domain: MedicalDevice
 dv_has_name: has_text_of_post_op
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_post_op|has_post_op]]"
+  - "[[has_post_op]]"
   - "[[/_public/schema-org/Property/Texts/has_post_op.public|has_post_op.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_post_op.internal|has_post_op.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_post_op.protect|has_post_op.protect]]"

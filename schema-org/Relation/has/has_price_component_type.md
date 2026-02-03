@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_price_component_type]]"
+    - "[[/_public/schema-org/Relation/has/has_price_component_type.public|has_price_component_type.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_price_component_type.internal|has_price_component_type.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_price_component_type.protect|has_price_component_type.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_price_component_type.private|has_price_component_type.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_price_component_type.personal|has_price_component_type.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_price_component_type.secret|has_price_component_type.secret]]"
+dv_is_same_as:
+  - "[[has_price_component_type]]"
+  - "[[/_public/schema-org/Relation/has/has_price_component_type.public|has_price_component_type.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_price_component_type.internal|has_price_component_type.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_price_component_type.protect|has_price_component_type.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_price_component_type.private|has_price_component_type.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_price_component_type.personal|has_price_component_type.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_price_component_type.secret|has_price_component_type.secret]]"
+---
 ﻿---
 dv_has_:
   price_component_type: PriceComponentTypeEnumeration
@@ -68,7 +87,7 @@ is_a = `=this.dv_is_a`
 has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
-- #has_/price_component_type :: PriceComponentTypeEnumeration  
+- #has_/price_component_type : : PriceComponentTypeEnumeration  
 - has_price_component_type = `=this.dv_has_price_component_type`  
 - is_price_component_type_of : : `=this.dv_has_domain` 
 - #is_/price_component_type_of : : `=this.dv_has_domain`

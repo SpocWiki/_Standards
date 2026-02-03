@@ -101,8 +101,8 @@ has_inverse = `=this.dv_has_inverse`
 
 
 Use it like this: 
-- #has_/provider :: [[../../../Society/Agent/Community/Organization|Organization]],  [[../../../Society/Agent/Person|Person]]   
-- has_provider :: [[../../../Society/Agent/Community/Organization|Organization]],  [[../../../Society/Agent/Person|Person]]  
+- #has_/provider : : [[../../../Society/Agent/Community/Organization|Organization]],  [[../../../Society/Agent/Person|Person]]   
+- has_provider : : [[../../../Society/Agent/Community/Organization|Organization]],  [[../../../Society/Agent/Person|Person]]  
 - has_consumers : : `=this.dv_has_domain` 
 - #has_consumers : : `=this.dv_has_domain`
 

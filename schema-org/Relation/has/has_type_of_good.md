@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_type_of_good]]"
+    - "[[/_public/schema-org/Relation/has/has_type_of_good.public|has_type_of_good.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_type_of_good.internal|has_type_of_good.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_type_of_good.protect|has_type_of_good.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_type_of_good.private|has_type_of_good.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_type_of_good.personal|has_type_of_good.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_type_of_good.secret|has_type_of_good.secret]]"
+dv_is_same_as:
+  - "[[has_type_of_good]]"
+  - "[[/_public/schema-org/Relation/has/has_type_of_good.public|has_type_of_good.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_type_of_good.internal|has_type_of_good.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_type_of_good.protect|has_type_of_good.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_type_of_good.private|has_type_of_good.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_type_of_good.personal|has_type_of_good.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_type_of_good.secret|has_type_of_good.secret]]"
+---
 ﻿---
 dv_is_:
   same_as:

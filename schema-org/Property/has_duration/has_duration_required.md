@@ -40,9 +40,10 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_duration_of/has_duration_required.private|has_duration_required.private]]"
     - "[[/_personal/schema-org/Property/has_duration_of/has_duration_required.personal|has_duration_required.personal]]"
     - "[[/_secret/schema-org/Property/has_duration_of/has_duration_required.secret|has_duration_required.secret]]"
+    - "[[has_duration_required]]"
 dv_has_name: has_duration_required
 dv_is_same_as:
-  - "[[has_duration_required|has_duration_required]]"
+  - "[[has_duration_required]]"
   - "[[/_public/schema-org/Property/has_duration_of/has_duration_required.public|has_duration_required.public]]"
   - "[[/_internal/schema-org/Property/has_duration_of/has_duration_required.internal|has_duration_required.internal]]"
   - "[[/_protect/schema-org/Property/has_duration_of/has_duration_required.protect|has_duration_required.protect]]"

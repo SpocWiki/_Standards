@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_percentile10.private|has_value_for_percentile10.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_percentile10.personal|has_value_for_percentile10.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_percentile10.secret|has_value_for_percentile10.secret]]"
+    - "[[has_value_for_percentile10]]"
 dv_has_domain: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution|Quantitative_Value_Distribution]]"
 dv_has_name: has_value_for_percentile10
 dv_has_range: "[[../../Class/is_a_/Data_Type/Number|Number]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_percentile10|has_value_for_percentile10]]"
+  - "[[has_value_for_percentile10]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_percentile10.public|has_value_for_percentile10.public]]"
   - "[[/_internal/schema-org/Property/has_value_for/has_value_for_percentile10.internal|has_value_for_percentile10.internal]]"
   - "[[/_protect/schema-org/Property/has_value_for/has_value_for_percentile10.protect|has_value_for_percentile10.protect]]"

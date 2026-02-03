@@ -37,11 +37,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Price_Type_Enumeration/Msrp.private|Msrp.private]]"
     - "[[/_personal/schema-org/Enumeration/Price_Type_Enumeration/Msrp.personal|Msrp.personal]]"
     - "[[/_secret/schema-org/Enumeration/Price_Type_Enumeration/Msrp.secret|Msrp.secret]]"
+    - "[[Msrp]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../PriceTypeEnumeration]]"
 dv_is_enum_of: "[[../PriceTypeEnumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Price_Type_Enumeration/Msrp|Msrp]]"
+  - "[[Msrp]]"
   - "[[/_public/schema-org/Enumeration/Price_Type_Enumeration/Msrp.public|Msrp.public]]"
   - "[[/_internal/schema-org/Enumeration/Price_Type_Enumeration/Msrp.internal|Msrp.internal]]"
   - "[[/_protect/schema-org/Enumeration/Price_Type_Enumeration/Msrp.protect|Msrp.protect]]"

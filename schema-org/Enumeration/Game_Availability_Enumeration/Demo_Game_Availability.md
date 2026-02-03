@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Game_Availability_Enumeration/Demo_Game_Availability.private|Demo_Game_Availability.private]]"
     - "[[/_personal/schema-org/Enumeration/Game_Availability_Enumeration/Demo_Game_Availability.personal|Demo_Game_Availability.personal]]"
     - "[[/_secret/schema-org/Enumeration/Game_Availability_Enumeration/Demo_Game_Availability.secret|Demo_Game_Availability.secret]]"
+    - "[[Demo_Game_Availability]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../GameAvailabilityEnumeration]]"
 dv_is_enum_of: "[[../GameAvailabilityEnumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Game_Availability_Enumeration/Demo_Game_Availability|Demo_Game_Availability]]"
+  - "[[Demo_Game_Availability]]"
   - "[[/_public/schema-org/Enumeration/Game_Availability_Enumeration/Demo_Game_Availability.public|Demo_Game_Availability.public]]"
   - "[[/_internal/schema-org/Enumeration/Game_Availability_Enumeration/Demo_Game_Availability.internal|Demo_Game_Availability.internal]]"
   - "[[/_protect/schema-org/Enumeration/Game_Availability_Enumeration/Demo_Game_Availability.protect|Demo_Game_Availability.protect]]"

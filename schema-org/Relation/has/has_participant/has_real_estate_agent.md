@@ -67,7 +67,7 @@ is_a = `=this.dv_is_a`
 #has_/inverse :: 
 
 Use it like this: 
-- #has_/real_estate_agent :: RealEstateAgent  
+- #has_/real_estate_agent : : RealEstateAgent  
 - has_real_estate_agent = `=this.dv_has_real_estate_agent`  
 
 A sub property of participant. The real estate agent involved in the action.

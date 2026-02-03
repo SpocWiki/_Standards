@@ -40,9 +40,10 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_Date_Time/has_time_to_check_out.private|has_time_to_check_out.private]]"
     - "[[/_personal/schema-org/Property/has_Date_Time/has_time_to_check_out.personal|has_time_to_check_out.personal]]"
     - "[[/_secret/schema-org/Property/has_Date_Time/has_time_to_check_out.secret|has_time_to_check_out.secret]]"
+    - "[[has_time_to_check_out]]"
 dv_has_name: has_time_to_check_out
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_to_check_out|has_time_to_check_out]]"
+  - "[[has_time_to_check_out]]"
   - "[[/_public/schema-org/Property/has_Date_Time/has_time_to_check_out.public|has_time_to_check_out.public]]"
   - "[[/_internal/schema-org/Property/has_Date_Time/has_time_to_check_out.internal|has_time_to_check_out.internal]]"
   - "[[/_protect/schema-org/Property/has_Date_Time/has_time_to_check_out.protect|has_time_to_check_out.protect]]"

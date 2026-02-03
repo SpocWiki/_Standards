@@ -42,11 +42,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_text.private|has_text.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_text.personal|has_text.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_text.secret|has_text.secret]]"
+    - "[[has_text]]"
 dv_has_domain: CreativeWork
 dv_has_name: has_text_of_text
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_text|has_text]]"
+  - "[[has_text]]"
   - "[[/_public/schema-org/Property/Texts/has_text.public|has_text.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_text.internal|has_text.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_text.protect|has_text.protect]]"

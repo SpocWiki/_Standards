@@ -42,11 +42,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_box.private|has_box.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_box.personal|has_box.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_box.secret|has_box.secret]]"
+    - "[[has_box]]"
 dv_has_domain: GeoShape
 dv_has_name: has_text_of_box
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_box|has_box]]"
+  - "[[has_box]]"
   - "[[/_public/schema-org/Property/Texts/has_box.public|has_box.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_box.internal|has_box.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_box.protect|has_box.protect]]"

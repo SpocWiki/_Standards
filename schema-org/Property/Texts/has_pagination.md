@@ -42,11 +42,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_pagination.private|has_pagination.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_pagination.personal|has_pagination.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_pagination.secret|has_pagination.secret]]"
+    - "[[has_pagination]]"
 dv_has_domain: Article, Chapter, PublicationIssue, PublicationVolume
 dv_has_name: has_text_of_pagination
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_pagination|has_pagination]]"
+  - "[[has_pagination]]"
   - "[[/_public/schema-org/Property/Texts/has_pagination.public|has_pagination.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_pagination.internal|has_pagination.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_pagination.protect|has_pagination.protect]]"

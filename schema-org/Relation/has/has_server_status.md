@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_server_status]]"
+    - "[[/_public/schema-org/Relation/has/has_server_status.public|has_server_status.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_server_status.internal|has_server_status.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_server_status.protect|has_server_status.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_server_status.private|has_server_status.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_server_status.personal|has_server_status.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_server_status.secret|has_server_status.secret]]"
+dv_is_same_as:
+  - "[[has_server_status]]"
+  - "[[/_public/schema-org/Relation/has/has_server_status.public|has_server_status.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_server_status.internal|has_server_status.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_server_status.protect|has_server_status.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_server_status.private|has_server_status.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_server_status.personal|has_server_status.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_server_status.secret|has_server_status.secret]]"
+---
 ﻿---
 dv_is_:
   same_as:

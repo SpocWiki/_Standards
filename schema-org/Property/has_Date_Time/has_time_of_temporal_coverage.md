@@ -41,9 +41,10 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.private|has_time_of_temporal_coverage.private]]"
     - "[[/_personal/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.personal|has_time_of_temporal_coverage.personal]]"
     - "[[/_secret/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.secret|has_time_of_temporal_coverage.secret]]"
+    - "[[has_time_of_temporal_coverage]]"
 dv_has_name: has_time_of_temporal_coverage
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage|has_time_of_temporal_coverage]]"
+  - "[[has_time_of_temporal_coverage]]"
   - "[[/_public/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.public|has_time_of_temporal_coverage.public]]"
   - "[[/_internal/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.internal|has_time_of_temporal_coverage.internal]]"
   - "[[/_protect/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.protect|has_time_of_temporal_coverage.protect]]"

@@ -64,7 +64,7 @@ A sub property of object.
 The collection target of the action.
 
 Use it like this: 
-- #has_/target_/collection :: [Thing](../../../Class/Thing)  
+- #has_/target_/collection : : [Thing](../../../Class/Thing)  
 - has_target_collection = `=this.dv_has_target_collection` (../../../Class/Thing) ] 
 
 Relation describes that: 

@@ -40,9 +40,10 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_Date_Time/has_time_of_production.private|has_time_of_production.private]]"
     - "[[/_personal/schema-org/Property/has_Date_Time/has_time_of_production.personal|has_time_of_production.personal]]"
     - "[[/_secret/schema-org/Property/has_Date_Time/has_time_of_production.secret|has_time_of_production.secret]]"
+    - "[[has_time_of_production]]"
 dv_has_name: has_time_of_production
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_of_production|has_time_of_production]]"
+  - "[[has_time_of_production]]"
   - "[[/_public/schema-org/Property/has_Date_Time/has_time_of_production.public|has_time_of_production.public]]"
   - "[[/_internal/schema-org/Property/has_Date_Time/has_time_of_production.internal|has_time_of_production.internal]]"
   - "[[/_protect/schema-org/Property/has_Date_Time/has_time_of_production.protect|has_time_of_production.protect]]"

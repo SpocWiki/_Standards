@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_variable_measured]]"
+    - "[[/_public/schema-org/Relation/has/has_variable_measured.public|has_variable_measured.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_variable_measured.internal|has_variable_measured.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_variable_measured.protect|has_variable_measured.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_variable_measured.private|has_variable_measured.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_variable_measured.personal|has_variable_measured.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_variable_measured.secret|has_variable_measured.secret]]"
+dv_is_same_as:
+  - "[[has_variable_measured]]"
+  - "[[/_public/schema-org/Relation/has/has_variable_measured.public|has_variable_measured.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_variable_measured.internal|has_variable_measured.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_variable_measured.protect|has_variable_measured.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_variable_measured.private|has_variable_measured.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_variable_measured.personal|has_variable_measured.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_variable_measured.secret|has_variable_measured.secret]]"
+---
 ﻿---
 dv_has_:
   variable_measured: PropertyValue, Text
@@ -69,7 +88,7 @@ is_a = `=this.dv_is_a`
 has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
-- #has_/variable_measured :: PropertyValue, Text  
+- #has_/variable_measured : : PropertyValue, Text  
 - has_variable_measured = `=this.dv_has_variable_measured`  
 - is_variable_measured_of : : `=this.dv_has_domain` 
 - #is_/variable_measured_of : : `=this.dv_has_domain`

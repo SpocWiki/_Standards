@@ -40,10 +40,11 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_Date_Time/has_time_of_comment.private|has_time_of_comment.private]]"
     - "[[/_personal/schema-org/Property/has_Date_Time/has_time_of_comment.personal|has_time_of_comment.personal]]"
     - "[[/_secret/schema-org/Property/has_Date_Time/has_time_of_comment.secret|has_time_of_comment.secret]]"
+    - "[[has_time_of_comment]]"
 dv_has_time_of_comment_time: P#Y#M#W#DT#H#M#s.fff
 dv_has_name: has_time_of_comment
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_of_comment|has_time_of_comment]]"
+  - "[[has_time_of_comment]]"
   - "[[/_public/schema-org/Property/has_Date_Time/has_time_of_comment.public|has_time_of_comment.public]]"
   - "[[/_internal/schema-org/Property/has_Date_Time/has_time_of_comment.internal|has_time_of_comment.internal]]"
   - "[[/_protect/schema-org/Property/has_Date_Time/has_time_of_comment.protect|has_time_of_comment.protect]]"

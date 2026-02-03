@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Adult_Oriented_Enumeration/Violence_Consideration.private|Violence_Consideration.private]]"
     - "[[/_personal/schema-org/Enumeration/Adult_Oriented_Enumeration/Violence_Consideration.personal|Violence_Consideration.personal]]"
     - "[[/_secret/schema-org/Enumeration/Adult_Oriented_Enumeration/Violence_Consideration.secret|Violence_Consideration.secret]]"
+    - "[[Violence_Consideration]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../AdultOrientedEnumeration]]"
 dv_is_enum_of: "[[../AdultOrientedEnumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Adult_Oriented_Enumeration/Violence_Consideration|Violence_Consideration]]"
+  - "[[Violence_Consideration]]"
   - "[[/_public/schema-org/Enumeration/Adult_Oriented_Enumeration/Violence_Consideration.public|Violence_Consideration.public]]"
   - "[[/_internal/schema-org/Enumeration/Adult_Oriented_Enumeration/Violence_Consideration.internal|Violence_Consideration.internal]]"
   - "[[/_protect/schema-org/Enumeration/Adult_Oriented_Enumeration/Violence_Consideration.protect|Violence_Consideration.protect]]"

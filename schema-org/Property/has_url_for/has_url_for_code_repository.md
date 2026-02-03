@@ -41,11 +41,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_url_for/has_url_for_code_repository.private|has_url_for_code_repository.private]]"
     - "[[/_personal/schema-org/Property/has_url_for/has_url_for_code_repository.personal|has_url_for_code_repository.personal]]"
     - "[[/_secret/schema-org/Property/has_url_for/has_url_for_code_repository.secret|has_url_for_code_repository.secret]]"
+    - "[[has_url_for_code_repository]]"
 dv_has_domain: SoftwareSourceCode
 dv_has_name: has_url_for_code_repository
 dv_has_range: URL
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_url_for/has_url_for_code_repository|has_url_for_code_repository]]"
+  - "[[has_url_for_code_repository]]"
   - "[[/_public/schema-org/Property/has_url_for/has_url_for_code_repository.public|has_url_for_code_repository.public]]"
   - "[[/_internal/schema-org/Property/has_url_for/has_url_for_code_repository.internal|has_url_for_code_repository.internal]]"
   - "[[/_protect/schema-org/Property/has_url_for/has_url_for_code_repository.protect|has_url_for_code_repository.protect]]"

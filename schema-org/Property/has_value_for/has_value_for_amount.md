@@ -26,9 +26,16 @@ tags:
 title: has_amount
 type: Predi_Quantity
 dv_has_:
-  domain: ["[[DatedMoneySpecification]]", "[[../../../Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit|Investment_or_Deposit]]", "[[../../../Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit|Loan_or_Credit]]", "[[../../Class/is_a_/Intangible/Grant/Monetary_Grant|Monetary_Grant]]", "[[../../Class/is_a_/Action/Transfer_Action/Money_Transfer|Money_Transfer]]"]
+  domain:
+    - "[[DatedMoneySpecification]]"
+    - "[[../../../Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit|Investment_or_Deposit]]"
+    - "[[../../../Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit|Loan_or_Credit]]"
+    - "[[../../Class/is_a_/Intangible/Grant/Monetary_Grant|Monetary_Grant]]"
+    - "[[../../Class/is_a_/Action/Transfer_Action/Money_Transfer|Money_Transfer]]"
   name: has_value_for_amount
-  range: ["[[../../Class/is_a_/Intangible/Structured_Value/Monetary_Amount|Monetary_Amount]]", "[[../../Class/is_a_/Data_Type/Number|Number]]"]
+  range:
+    - "[[../../Class/is_a_/Intangible/Structured_Value/Monetary_Amount|Monetary_Amount]]"
+    - "[[../../Class/is_a_/Data_Type/Number|Number]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_amount|has_value_for_amount]]"
@@ -38,11 +45,19 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_amount.private|has_value_for_amount.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_amount.personal|has_value_for_amount.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_amount.secret|has_value_for_amount.secret]]"
-dv_has_domain: ["[[DatedMoneySpecification]]", "[[../../../Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit|Investment_or_Deposit]]", "[[../../../Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit|Loan_or_Credit]]", "[[../../Class/is_a_/Intangible/Grant/Monetary_Grant|Monetary_Grant]]", "[[../../Class/is_a_/Action/Transfer_Action/Money_Transfer|Money_Transfer]]"]
+    - "[[has_value_for_amount]]"
+dv_has_domain:
+  - "[[DatedMoneySpecification]]"
+  - "[[../../../Society/Agent/Community/Organization/Business/Service/Financial_Product/Investment_or_Deposit|Investment_or_Deposit]]"
+  - "[[../../../Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit|Loan_or_Credit]]"
+  - "[[../../Class/is_a_/Intangible/Grant/Monetary_Grant|Monetary_Grant]]"
+  - "[[../../Class/is_a_/Action/Transfer_Action/Money_Transfer|Money_Transfer]]"
 dv_has_name: has_value_for_amount
-dv_has_range: ["[[../../Class/is_a_/Intangible/Structured_Value/Monetary_Amount|Monetary_Amount]]", "[[../../Class/is_a_/Data_Type/Number|Number]]"]
+dv_has_range:
+  - "[[../../Class/is_a_/Intangible/Structured_Value/Monetary_Amount|Monetary_Amount]]"
+  - "[[../../Class/is_a_/Data_Type/Number|Number]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_amount|has_value_for_amount]]"
+  - "[[has_value_for_amount]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_amount.public|has_value_for_amount.public]]"
   - "[[/_internal/schema-org/Property/has_value_for/has_value_for_amount.internal|has_value_for_amount.internal]]"
   - "[[/_protect/schema-org/Property/has_value_for/has_value_for_amount.protect|has_value_for_amount.protect]]"

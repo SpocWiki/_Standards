@@ -70,7 +70,7 @@ is_a = `=this.dv_is_a`
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/merchant_return_policy :: MerchantReturnPolicy  
+- #has_/merchant_return_policy : : MerchantReturnPolicy  
 - has_merchant_return_policy = `=this.dv_has_merchant_return_policy`  
 
 Specifies a [[../../../Class/is_a_/Intangible/Merchant_Return_Policy|MerchantReturnPolicy]] that may be applicable to a [[../../../../Society/Agent/Community/Organization/Business/Product|Product]].

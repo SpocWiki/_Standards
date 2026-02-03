@@ -39,11 +39,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Flags/is_true.private|is_true.private]]"
     - "[[/_personal/schema-org/Property/Flags/is_true.personal|is_true.personal]]"
     - "[[/_secret/schema-org/Property/Flags/is_true.secret|is_true.secret]]"
+    - "[[is_true]]"
 dv_has_domain: MonetaryAmount, PropertyValue, QuantitativeValue
 dv_has_name: is_true
 dv_has_range: Boolean, Number, StructuredValue, Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Flags/is_true|is_true]]"
+  - "[[is_true]]"
   - "[[/_public/schema-org/Property/Flags/is_true.public|is_true.public]]"
   - "[[/_internal/schema-org/Property/Flags/is_true.internal|is_true.internal]]"
   - "[[/_protect/schema-org/Property/Flags/is_true.protect|is_true.protect]]"

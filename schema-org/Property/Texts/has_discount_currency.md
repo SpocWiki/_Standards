@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_discount_currency.private|has_discount_currency.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_discount_currency.personal|has_discount_currency.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_discount_currency.secret|has_discount_currency.secret]]"
+    - "[[has_discount_currency]]"
 dv_has_domain: Order
 dv_has_name: has_text_of_discount_currency
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_discount_currency|has_discount_currency]]"
+  - "[[has_discount_currency]]"
   - "[[/_public/schema-org/Property/Texts/has_discount_currency.public|has_discount_currency.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_discount_currency.internal|has_discount_currency.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_discount_currency.protect|has_discount_currency.protect]]"

@@ -1,59 +1,60 @@
 ---
 aliases:
-- merchant-return-policy-seasonal-override
-- merchant_return_policy_seasonal_override
-- MerchantReturnPolicySeasonalOverride
-- is_a_merchant_return_policy_seasonal_override
-- Merchant_Return_Policy_Seasonal_Override
-- Merchant Return Policy Seasonal Override
+  - merchant-return-policy-seasonal-override
+  - merchant_return_policy_seasonal_override
+  - MerchantReturnPolicySeasonalOverride
+  - is_a_merchant_return_policy_seasonal_override
+  - Merchant_Return_Policy_Seasonal_Override
+  - Merchant Return Policy Seasonal Override
 confidential: public
 cssclasses:
-- Type
+  - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
-- merchant_return_policy_seasonal_override
-layout: ''
+  - merchant_return_policy_seasonal_override
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_merchant_return_policy_seasonal_override Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
-- class/Class
-- schema-org/Class
+  - class/Class
+  - schema-org/Class
 title: is_a_merchant_return_policy_seasonal_override Class
 type: Type
 dv_is_:
   parent_class: "[[../Intangible]]"
   part_of: https://pending.schema.org
   same_as:
-  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy_Seasonal_Override|Merchant_Return_Policy_Seasonal_Override]]"
-  - "[[/_public/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy_Seasonal_Override.public|Merchant_Return_Policy_Seasonal_Override.public]]"
-  - "[[/_internal/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy_Seasonal_Override.internal|Merchant_Return_Policy_Seasonal_Override.internal]]"
-  - "[[/_protect/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy_Seasonal_Override.protect|Merchant_Return_Policy_Seasonal_Override.protect]]"
-  - "[[/_private/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy_Seasonal_Override.private|Merchant_Return_Policy_Seasonal_Override.private]]"
-  - "[[/_personal/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy_Seasonal_Override.personal|Merchant_Return_Policy_Seasonal_Override.personal]]"
-  - "[[/_secret/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy_Seasonal_Override.secret|Merchant_Return_Policy_Seasonal_Override.secret]]"
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy_Seasonal_Override|Merchant_Return_Policy_Seasonal_Override]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy_Seasonal_Override.public|Merchant_Return_Policy_Seasonal_Override.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy_Seasonal_Override.internal|Merchant_Return_Policy_Seasonal_Override.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy_Seasonal_Override.protect|Merchant_Return_Policy_Seasonal_Override.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy_Seasonal_Override.private|Merchant_Return_Policy_Seasonal_Override.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy_Seasonal_Override.personal|Merchant_Return_Policy_Seasonal_Override.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy_Seasonal_Override.secret|Merchant_Return_Policy_Seasonal_Override.secret]]"
+    - "[[Merchant_Return_Policy_Seasonal_Override]]"
 dv_has_:
   properties:
-  - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
-  - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
-  - "[[../../../Property/Texts/has_description|has_description]]"
-  - "[[../../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
-  - "[[end_date|end_date]]"
-  - "[[../../../Relation/has/has_identifier|has_identifier]]"
-  - "[[../../../Relation/has/has_image|has_image]]"
-  - "[[../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
-  - "[[merchant_return_days|merchant_return_days]]"
-  - "[[../../../Property/has_name|has_name]]"
-  - "[[../../../Relation/has/has_potential_action|has_potential_action]]"
-  - "[[../../../Relation/has/has_return/has_return_policy_category|has_return_policy_category]]"
-  - "[[../../../Relation/is_same_as|is_same_as]]"
-  - "[[start_date|start_date]]"
-  - "[[../../../Relation/is/is_subject_of|is_subject_of]]"
-  - "[[../Property/has_url_for/has_url|has_url]]"
+    - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
+    - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
+    - "[[../../../Property/Texts/has_description|has_description]]"
+    - "[[../../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
+    - "[[end_date|end_date]]"
+    - "[[../../../Relation/has/has_identifier|has_identifier]]"
+    - "[[../../../Relation/has/has_image|has_image]]"
+    - "[[../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+    - "[[merchant_return_days|merchant_return_days]]"
+    - "[[../../../Property/has_name|has_name]]"
+    - "[[../../../Relation/has/has_potential_action|has_potential_action]]"
+    - "[[../../../Relation/has/has_return/has_return_policy_category|has_return_policy_category]]"
+    - "[[../../../Relation/is_same_as|is_same_as]]"
+    - "[[start_date|start_date]]"
+    - "[[../../../Relation/is/is_subject_of|is_subject_of]]"
+    - "[[../Property/has_url_for/has_url|has_url]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class:
   - "[[../Intangible]]"
@@ -75,7 +76,7 @@ dv_has_properties:
   - "[[../../../Relation/is/is_subject_of|is_subject_of]]"
   - "[[../Property/has_url_for/has_url|has_url]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy_Seasonal_Override|Merchant_Return_Policy_Seasonal_Override]]"
+  - "[[Merchant_Return_Policy_Seasonal_Override]]"
   - "[[/_public/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy_Seasonal_Override.public|Merchant_Return_Policy_Seasonal_Override.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy_Seasonal_Override.internal|Merchant_Return_Policy_Seasonal_Override.internal]]"
   - "[[/_protect/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy_Seasonal_Override.protect|Merchant_Return_Policy_Seasonal_Override.protect]]"

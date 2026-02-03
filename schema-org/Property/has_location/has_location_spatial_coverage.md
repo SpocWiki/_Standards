@@ -10,28 +10,58 @@ cssclasses:
   - Predicate
   - geo
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - spatial_coverage
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_location_spatial_coverage
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/geo
 title: has_location_spatial_coverage
 type: Pred_geo
+dv_has_:
+  domain: CreativeWork
+  name: has_location_spatial_coverage
+  range: Place
+  parent_:
+    property: contentLocation
+  child_:
+    property: "[ announcementLocation, legislationJurisdiction ]"
+dv_is_:
+  same_as:
+    - "[[has_location_spatial_coverage]]"
+    - "[[/_public/schema-org/Property/has_location/has_location_spatial_coverage.public|has_location_spatial_coverage.public]]"
+    - "[[/_internal/schema-org/Property/has_location/has_location_spatial_coverage.internal|has_location_spatial_coverage.internal]]"
+    - "[[/_protect/schema-org/Property/has_location/has_location_spatial_coverage.protect|has_location_spatial_coverage.protect]]"
+    - "[[/_private/schema-org/Property/has_location/has_location_spatial_coverage.private|has_location_spatial_coverage.private]]"
+    - "[[/_personal/schema-org/Property/has_location/has_location_spatial_coverage.personal|has_location_spatial_coverage.personal]]"
+    - "[[/_secret/schema-org/Property/has_location/has_location_spatial_coverage.secret|has_location_spatial_coverage.secret]]"
+dv_has_domain: CreativeWork
+dv_has_name: has_location_spatial_coverage
+dv_has_range: Place
+dv_has_parent_property: contentLocation
+dv_has_child_property: "[ announcementLocation, legislationJurisdiction ]"
+dv_is_same_as:
+  - "[[has_location_spatial_coverage]]"
+  - "[[/_public/schema-org/Property/has_location/has_location_spatial_coverage.public|has_location_spatial_coverage.public]]"
+  - "[[/_internal/schema-org/Property/has_location/has_location_spatial_coverage.internal|has_location_spatial_coverage.internal]]"
+  - "[[/_protect/schema-org/Property/has_location/has_location_spatial_coverage.protect|has_location_spatial_coverage.protect]]"
+  - "[[/_private/schema-org/Property/has_location/has_location_spatial_coverage.private|has_location_spatial_coverage.private]]"
+  - "[[/_personal/schema-org/Property/has_location/has_location_spatial_coverage.personal|has_location_spatial_coverage.personal]]"
+  - "[[/_secret/schema-org/Property/has_location/has_location_spatial_coverage.secret|has_location_spatial_coverage.secret]]"
 ---
 
 Predicate to describe the geo of CreativeWork.
 
 Use it like this: 
-- #has_/location_/spatial_coverage :: Place   
-- has_location_spatial_coverage :: Place   
+- #has_/location_/spatial_coverage : : Place   
+- has_location_spatial_coverage : : Place   
 
 The spatialCoverage of a CreativeWork indicates the place(s) which are the focus of the content. It is a subproperty of
 	  contentLocation intended primarily for more technical and detailed materials. For example with a Dataset, it indicates
@@ -39,14 +69,14 @@ The spatialCoverage of a CreativeWork indicates the place(s) which are the focus
 
 Predicate describes that: 
 
-#has_/domain  :: CreativeWork  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: has_location_spatial_coverage )
-(has_/range :: Place )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#has_/parent_/property  :: contentLocation  
+has_parent_property = `=this.dv_has_parent_property` 
 
-#has_/child_/property :: [ announcementLocation, legislationJurisdiction ]  
+has_child_property = `=this.dv_has_child_property` 
 
 ## Confidential Links & Embeds: 
 

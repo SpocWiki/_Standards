@@ -30,8 +30,9 @@ dv_is_:
     - "[[/_private/schema-org/Composite/Part.private|Part.private]]"
     - "[[/_personal/schema-org/Composite/Part.personal|Part.personal]]"
     - "[[/_secret/schema-org/Composite/Part.secret|Part.secret]]"
+    - "[[Part]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Composite/Part|Part]]"
+  - "[[Part]]"
   - "[[/_public/schema-org/Composite/Part.public|Part.public]]"
   - "[[/_internal/schema-org/Composite/Part.internal|Part.internal]]"
   - "[[/_protect/schema-org/Composite/Part.protect|Part.protect]]"

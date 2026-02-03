@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Refund_Type_Enumeration/Exchange_Refund.private|Exchange_Refund.private]]"
     - "[[/_personal/schema-org/Enumeration/Refund_Type_Enumeration/Exchange_Refund.personal|Exchange_Refund.personal]]"
     - "[[/_secret/schema-org/Enumeration/Refund_Type_Enumeration/Exchange_Refund.secret|Exchange_Refund.secret]]"
+    - "[[Exchange_Refund]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../RefundTypeEnumeration]]"
 dv_is_enum_of: "[[../RefundTypeEnumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Refund_Type_Enumeration/Exchange_Refund|Exchange_Refund]]"
+  - "[[Exchange_Refund]]"
   - "[[/_public/schema-org/Enumeration/Refund_Type_Enumeration/Exchange_Refund.public|Exchange_Refund.public]]"
   - "[[/_internal/schema-org/Enumeration/Refund_Type_Enumeration/Exchange_Refund.internal|Exchange_Refund.internal]]"
   - "[[/_protect/schema-org/Enumeration/Refund_Type_Enumeration/Exchange_Refund.protect|Exchange_Refund.protect]]"

@@ -44,11 +44,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_clinical_pharmacology.private|has_clinical_pharmacology.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_clinical_pharmacology.personal|has_clinical_pharmacology.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_clinical_pharmacology.secret|has_clinical_pharmacology.secret]]"
+    - "[[has_clinical_pharmacology]]"
 dv_has_domain: Drug
 dv_has_name: has_text_of_clinical_pharmacology
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_clinical_pharmacology|has_clinical_pharmacology]]"
+  - "[[has_clinical_pharmacology]]"
   - "[[/_public/schema-org/Property/Texts/has_clinical_pharmacology.public|has_clinical_pharmacology.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_clinical_pharmacology.internal|has_clinical_pharmacology.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_clinical_pharmacology.protect|has_clinical_pharmacology.protect]]"

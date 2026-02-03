@@ -42,11 +42,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_url_for/has_url_for_service.private|has_url_for_service.private]]"
     - "[[/_personal/schema-org/Property/has_url_for/has_url_for_service.personal|has_url_for_service.personal]]"
     - "[[/_secret/schema-org/Property/has_url_for/has_url_for_service.secret|has_url_for_service.secret]]"
+    - "[[has_url_for_service]]"
 dv_has_domain: ServiceChannel
 dv_has_name: has_url_for_service_url
 dv_has_range: URL
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_url_for/has_url_for_service|has_url_for_service]]"
+  - "[[has_url_for_service]]"
   - "[[/_public/schema-org/Property/has_url_for/has_url_for_service.public|has_url_for_service.public]]"
   - "[[/_internal/schema-org/Property/has_url_for/has_url_for_service.internal|has_url_for_service.internal]]"
   - "[[/_protect/schema-org/Property/has_url_for/has_url_for_service.protect|has_url_for_service.protect]]"

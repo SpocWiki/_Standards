@@ -39,11 +39,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Flags/is_proprietary.private|is_proprietary.private]]"
     - "[[/_personal/schema-org/Property/Flags/is_proprietary.personal|is_proprietary.personal]]"
     - "[[/_secret/schema-org/Property/Flags/is_proprietary.secret|is_proprietary.secret]]"
+    - "[[is_proprietary]]"
 dv_has_domain: DietarySupplement, Drug
 dv_has_name: is_proprietary
 dv_has_range: Boolean
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Flags/is_proprietary|is_proprietary]]"
+  - "[[is_proprietary]]"
   - "[[/_public/schema-org/Property/Flags/is_proprietary.public|is_proprietary.public]]"
   - "[[/_internal/schema-org/Property/Flags/is_proprietary.internal|is_proprietary.internal]]"
   - "[[/_protect/schema-org/Property/Flags/is_proprietary.protect|is_proprietary.protect]]"

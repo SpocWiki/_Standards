@@ -33,15 +33,54 @@ dv_is_:
     - "[[/_private/schema-org/Collection/item_list.private|item_list.private]]"
     - "[[/_personal/schema-org/Collection/item_list.personal|item_list.personal]]"
     - "[[/_secret/schema-org/Collection/item_list.secret|item_list.secret]]"
+    - "[[item_list]]"
 dv_has_:
   parent_class: "[[../Class/is_a_/Intangible]]"
-  child_class: [ "[[item_list/breadcrumb_list|breadcrumb_list]]", "[[../../Society/Communication/Media/Creative_Work/How_to/How_to_Section|How_to_Section]]", "[[../../Society/Communication/Media/Creative_Work/How_to/How_to_Step|How_to_Step]]", "[[item_list/offer_catalog|offer_catalog]]" ]
-  properties: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, itemListElement, itemListOrder, mainEntityOfPage, name, numberOfItems, potentialAction, sameAs, subjectOf, url ]
+  child_class:
+    - "[[item_list/breadcrumb_list|breadcrumb_list]]"
+    - "[[../../Society/Communication/Media/Creative_Work/How_to/How_to_Section|How_to_Section]]"
+    - "[[../../Society/Communication/Media/Creative_Work/How_to/How_to_Step|How_to_Step]]"
+    - "[[item_list/offer_catalog|offer_catalog]]"
+  properties:
+    - additionalType
+    - alternateName
+    - description
+    - disambiguatingDescription
+    - identifier
+    - image
+    - itemListElement
+    - itemListOrder
+    - mainEntityOfPage
+    - name
+    - numberOfItems
+    - potentialAction
+    - sameAs
+    - subjectOf
+    - url
 dv_has_parent_class: "[[../Class/is_a_/Intangible|Intangible]]"
-dv_has_child_class: [ "[[item_list/breadcrumb_list|breadcrumb_list]]", "[[../../Society/Communication/Media/Creative_Work/How_to/How_to_Section|How_to_Section]]", "[[../../Society/Communication/Media/Creative_Work/How_to/How_to_Step|How_to_Step]]", "[[item_list/offer_catalog|offer_catalog]]" ]
-dv_has_properties: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, itemListElement, itemListOrder, mainEntityOfPage, name, numberOfItems, potentialAction, sameAs, subjectOf, url ]
+dv_has_child_class:
+  - "[[item_list/breadcrumb_list|breadcrumb_list]]"
+  - "[[../../Society/Communication/Media/Creative_Work/How_to/How_to_Section|How_to_Section]]"
+  - "[[../../Society/Communication/Media/Creative_Work/How_to/How_to_Step|How_to_Step]]"
+  - "[[item_list/offer_catalog|offer_catalog]]"
+dv_has_properties:
+  - additionalType
+  - alternateName
+  - description
+  - disambiguatingDescription
+  - identifier
+  - image
+  - itemListElement
+  - itemListOrder
+  - mainEntityOfPage
+  - name
+  - numberOfItems
+  - potentialAction
+  - sameAs
+  - subjectOf
+  - url
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Collection/item_list|item_list]]"
+  - "[[item_list]]"
   - "[[/_public/schema-org/Collection/item_list.public|item_list.public]]"
   - "[[/_internal/schema-org/Collection/item_list.internal|item_list.internal]]"
   - "[[/_protect/schema-org/Collection/item_list.protect|item_list.protect]]"

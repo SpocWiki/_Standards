@@ -42,11 +42,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_currency.private|has_currency.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_currency.personal|has_currency.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_currency.secret|has_currency.secret]]"
+    - "[[has_currency]]"
 dv_has_domain: DatedMoneySpecification, ExchangeRateSpecification, LoanOrCredit, MonetaryAmount, MonetaryAmountDistribution
 dv_has_name: has_text_of_currency
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_currency|has_currency]]"
+  - "[[has_currency]]"
   - "[[/_public/schema-org/Property/Texts/has_currency.public|has_currency.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_currency.internal|has_currency.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_currency.protect|has_currency.protect]]"

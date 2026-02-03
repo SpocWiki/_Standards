@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned.private|Order_Returned.private]]"
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned.personal|Order_Returned.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned.secret|Order_Returned.secret]]"
+    - "[[Order_Returned]]"
 dv_has_parent_class: "[[../OrderStatus]]"
 dv_is_enum_of: "[[../OrderStatus]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned|Order_Returned]]"
+  - "[[Order_Returned]]"
   - "[[/_public/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned.public|Order_Returned.public]]"
   - "[[/_internal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned.internal|Order_Returned.internal]]"
   - "[[/_protect/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned.protect|Order_Returned.protect]]"

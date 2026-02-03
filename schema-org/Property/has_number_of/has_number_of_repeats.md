@@ -10,39 +10,65 @@ cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - repeat_count
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_number_of_repeat_count
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Count
 title: has_number_of_repeat_count
 type: Predi_Count
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[has_number_of_repeats]]"
+    - "[[/_public/schema-org/Property/has_number_of/has_number_of_repeats.public|has_number_of_repeats.public]]"
+    - "[[/_internal/schema-org/Property/has_number_of/has_number_of_repeats.internal|has_number_of_repeats.internal]]"
+    - "[[/_protect/schema-org/Property/has_number_of/has_number_of_repeats.protect|has_number_of_repeats.protect]]"
+    - "[[/_private/schema-org/Property/has_number_of/has_number_of_repeats.private|has_number_of_repeats.private]]"
+    - "[[/_personal/schema-org/Property/has_number_of/has_number_of_repeats.personal|has_number_of_repeats.personal]]"
+    - "[[/_secret/schema-org/Property/has_number_of/has_number_of_repeats.secret|has_number_of_repeats.secret]]"
+dv_has_:
+  domain: Schedule
+  name: has_number_of_repeats
+  range: Integer
+dv_is_part_of: "pending:"
+dv_has_domain: Schedule
+dv_has_name: has_number_of_repeats
+dv_has_range: Integer
+dv_is_same_as:
+  - "[[has_number_of_repeats]]"
+  - "[[/_public/schema-org/Property/has_number_of/has_number_of_repeats.public|has_number_of_repeats.public]]"
+  - "[[/_internal/schema-org/Property/has_number_of/has_number_of_repeats.internal|has_number_of_repeats.internal]]"
+  - "[[/_protect/schema-org/Property/has_number_of/has_number_of_repeats.protect|has_number_of_repeats.protect]]"
+  - "[[/_private/schema-org/Property/has_number_of/has_number_of_repeats.private|has_number_of_repeats.private]]"
+  - "[[/_personal/schema-org/Property/has_number_of/has_number_of_repeats.personal|has_number_of_repeats.personal]]"
+  - "[[/_secret/schema-org/Property/has_number_of/has_number_of_repeats.secret|has_number_of_repeats.secret]]"
 ---
 
 Predicate to describe the Number of Schedule.
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/number_of_/repeats :: Integer   
-- has_number_of_repeats :: Integer   
+- #has_/number_of_/repeats : : Integer   
+- has_number_of_repeats : : Integer   
 
 Defines the number of times a recurring [[Event]] will take place.
 
 Predicate describes that: 
 
-#has_/domain  :: Schedule  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: has_number_of_repeats )
-(has_/range :: Integer )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

@@ -36,9 +36,10 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Delivery_Method.private|Delivery_Method.private]]"
     - "[[/_personal/schema-org/Enumeration/Delivery_Method.personal|Delivery_Method.personal]]"
     - "[[/_secret/schema-org/Enumeration/Delivery_Method.secret|Delivery_Method.secret]]"
+    - "[[Delivery_Method]]"
 dv_has_parent_class: "[[../Enumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Delivery_Method|Delivery_Method]]"
+  - "[[Delivery_Method]]"
   - "[[/_public/schema-org/Enumeration/Delivery_Method.public|Delivery_Method.public]]"
   - "[[/_internal/schema-org/Enumeration/Delivery_Method.internal|Delivery_Method.internal]]"
   - "[[/_protect/schema-org/Enumeration/Delivery_Method.protect|Delivery_Method.protect]]"

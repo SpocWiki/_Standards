@@ -10,39 +10,66 @@ cssclasses:
   - Predicate
   - Count
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - volume_number
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_number_of_volume_number
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Count
 title: has_number_of_volume_number
 type: Predi_Count
+dv_has_:
+  domain: PublicationVolume
+  name: has_number_of_volume
+  range: Integer, Text
+  parent_:
+    property: position
+dv_is_:
+  same_as:
+    - "[[has_number_of_volume]]"
+    - "[[/_public/schema-org/Property/has_number_of/has_number_of_volume.public|has_number_of_volume.public]]"
+    - "[[/_internal/schema-org/Property/has_number_of/has_number_of_volume.internal|has_number_of_volume.internal]]"
+    - "[[/_protect/schema-org/Property/has_number_of/has_number_of_volume.protect|has_number_of_volume.protect]]"
+    - "[[/_private/schema-org/Property/has_number_of/has_number_of_volume.private|has_number_of_volume.private]]"
+    - "[[/_personal/schema-org/Property/has_number_of/has_number_of_volume.personal|has_number_of_volume.personal]]"
+    - "[[/_secret/schema-org/Property/has_number_of/has_number_of_volume.secret|has_number_of_volume.secret]]"
+dv_has_domain: PublicationVolume
+dv_has_name: has_number_of_volume
+dv_has_range: Integer, Text
+dv_has_parent_property: position
+dv_is_same_as:
+  - "[[has_number_of_volume]]"
+  - "[[/_public/schema-org/Property/has_number_of/has_number_of_volume.public|has_number_of_volume.public]]"
+  - "[[/_internal/schema-org/Property/has_number_of/has_number_of_volume.internal|has_number_of_volume.internal]]"
+  - "[[/_protect/schema-org/Property/has_number_of/has_number_of_volume.protect|has_number_of_volume.protect]]"
+  - "[[/_private/schema-org/Property/has_number_of/has_number_of_volume.private|has_number_of_volume.private]]"
+  - "[[/_personal/schema-org/Property/has_number_of/has_number_of_volume.personal|has_number_of_volume.personal]]"
+  - "[[/_secret/schema-org/Property/has_number_of/has_number_of_volume.secret|has_number_of_volume.secret]]"
 ---
 
 Predicate to describe the Number of PublicationVolume.
 
 Use it like this: 
-- #has_/number_of_/volume :: Integer, Text   
-- has_number_of_volume :: Integer, Text   
+- #has_/number_of_/volume : : Integer, Text   
+- has_number_of_volume : : Integer, Text   
 
 Identifies the volume of publication or multi-part work; for example, "iii" or "2".
 
 Predicate describes that: 
 
-#has_/domain  :: PublicationVolume  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: has_number_of_volume )
-(has_/range :: Integer, Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#has_/parent_/property  :: position  
+has_parent_property = `=this.dv_has_parent_property` 
 
 ## Confidential Links & Embeds: 
 

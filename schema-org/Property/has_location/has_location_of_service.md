@@ -41,11 +41,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_location/has_location_of_service.private|has_location_of_service.private]]"
     - "[[/_personal/schema-org/Property/has_location/has_location_of_service.personal|has_location_of_service.personal]]"
     - "[[/_secret/schema-org/Property/has_location/has_location_of_service.secret|has_location_of_service.secret]]"
+    - "[[has_location_of_service]]"
 dv_has_domain: ServiceChannel
 dv_has_name: has_location_of_service
 dv_has_range: Place
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_location/has_location_of_service|has_location_of_service]]"
+  - "[[has_location_of_service]]"
   - "[[/_public/schema-org/Property/has_location/has_location_of_service.public|has_location_of_service.public]]"
   - "[[/_internal/schema-org/Property/has_location/has_location_of_service.internal|has_location_of_service.internal]]"
   - "[[/_protect/schema-org/Property/has_location/has_location_of_service.protect|has_location_of_service.protect]]"

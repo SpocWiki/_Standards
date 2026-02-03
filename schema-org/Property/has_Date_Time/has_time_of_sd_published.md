@@ -41,9 +41,10 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_Date_Time/has_time_of_sd_published.private|has_time_of_sd_published.private]]"
     - "[[/_personal/schema-org/Property/has_Date_Time/has_time_of_sd_published.personal|has_time_of_sd_published.personal]]"
     - "[[/_secret/schema-org/Property/has_Date_Time/has_time_of_sd_published.secret|has_time_of_sd_published.secret]]"
+    - "[[has_time_of_sd_published]]"
 dv_has_name: has_time_of_sd_published
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_of_sd_published|has_time_of_sd_published]]"
+  - "[[has_time_of_sd_published]]"
   - "[[/_public/schema-org/Property/has_Date_Time/has_time_of_sd_published.public|has_time_of_sd_published.public]]"
   - "[[/_internal/schema-org/Property/has_Date_Time/has_time_of_sd_published.internal|has_time_of_sd_published.internal]]"
   - "[[/_protect/schema-org/Property/has_Date_Time/has_time_of_sd_published.protect|has_time_of_sd_published.protect]]"

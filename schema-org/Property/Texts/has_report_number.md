@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_report_number.private|has_report_number.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_report_number.personal|has_report_number.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_report_number.secret|has_report_number.secret]]"
+    - "[[has_report_number]]"
 dv_has_domain: Report
 dv_has_name: has_text_of_report_number
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_report_number|has_report_number]]"
+  - "[[has_report_number]]"
   - "[[/_public/schema-org/Property/Texts/has_report_number.public|has_report_number.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_report_number.internal|has_report_number.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_report_number.protect|has_report_number.protect]]"

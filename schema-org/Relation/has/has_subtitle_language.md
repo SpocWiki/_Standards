@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_subtitle_language]]"
+    - "[[/_public/schema-org/Relation/has/has_subtitle_language.public|has_subtitle_language.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_subtitle_language.internal|has_subtitle_language.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_subtitle_language.protect|has_subtitle_language.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_subtitle_language.private|has_subtitle_language.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_subtitle_language.personal|has_subtitle_language.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_subtitle_language.secret|has_subtitle_language.secret]]"
+dv_is_same_as:
+  - "[[has_subtitle_language]]"
+  - "[[/_public/schema-org/Relation/has/has_subtitle_language.public|has_subtitle_language.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_subtitle_language.internal|has_subtitle_language.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_subtitle_language.protect|has_subtitle_language.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_subtitle_language.private|has_subtitle_language.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_subtitle_language.personal|has_subtitle_language.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_subtitle_language.secret|has_subtitle_language.secret]]"
+---
 ﻿---
 dv_has_:
   subtitle_language: Language, Text
@@ -89,7 +108,7 @@ is_a = `=this.dv_is_a`
 has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
-- #has_/subtitle_language :: Language, Text  
+- #has_/subtitle_language : : Language, Text  
 - has_subtitle_language = `=this.dv_has_subtitle_language`  
 - is_subtitle_language_of : : `=this.dv_has_domain` 
 - #is_/subtitle_language_of : : `=this.dv_has_domain`

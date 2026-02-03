@@ -39,11 +39,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_strength_value.private|has_value_for_strength_value.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_strength_value.personal|has_value_for_strength_value.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_strength_value.secret|has_value_for_strength_value.secret]]"
+    - "[[has_value_for_strength_value]]"
 dv_has_domain: "[[../../../bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Strength|Drug_Strength]]"
 dv_has_name: has_value_for_strength
 dv_has_range: "[[../../Class/is_a_/Data_Type/Number|Number]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_strength_value|has_value_for_strength_value]]"
+  - "[[has_value_for_strength_value]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_strength_value.public|has_value_for_strength_value.public]]"
   - "[[/_internal/schema-org/Property/has_value_for/has_value_for_strength_value.internal|has_value_for_strength_value.internal]]"
   - "[[/_protect/schema-org/Property/has_value_for/has_value_for_strength_value.protect|has_value_for_strength_value.protect]]"

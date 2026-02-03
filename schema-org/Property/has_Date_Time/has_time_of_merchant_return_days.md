@@ -42,9 +42,10 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_Date_Time/has_time_of_merchant_return_days.private|has_time_of_merchant_return_days.private]]"
     - "[[/_personal/schema-org/Property/has_Date_Time/has_time_of_merchant_return_days.personal|has_time_of_merchant_return_days.personal]]"
     - "[[/_secret/schema-org/Property/has_Date_Time/has_time_of_merchant_return_days.secret|has_time_of_merchant_return_days.secret]]"
+    - "[[has_time_of_merchant_return_days]]"
 dv_has_name: has_time_of_merchant_return_days
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_of_merchant_return_days|has_time_of_merchant_return_days]]"
+  - "[[has_time_of_merchant_return_days]]"
   - "[[/_public/schema-org/Property/has_Date_Time/has_time_of_merchant_return_days.public|has_time_of_merchant_return_days.public]]"
   - "[[/_internal/schema-org/Property/has_Date_Time/has_time_of_merchant_return_days.internal|has_time_of_merchant_return_days.internal]]"
   - "[[/_protect/schema-org/Property/has_Date_Time/has_time_of_merchant_return_days.protect|has_time_of_merchant_return_days.protect]]"

@@ -10,39 +10,65 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - loan-payment-amount
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_loan-payment-amount
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_loan-payment-amount
 type: Predi_Quantity
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[has_value_for_loan_payment_amount]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_loan_payment_amount.public|has_value_for_loan_payment_amount.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_loan_payment_amount.internal|has_value_for_loan_payment_amount.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_loan_payment_amount.protect|has_value_for_loan_payment_amount.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_loan_payment_amount.private|has_value_for_loan_payment_amount.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_loan_payment_amount.personal|has_value_for_loan_payment_amount.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_loan_payment_amount.secret|has_value_for_loan_payment_amount.secret]]"
+dv_has_:
+  domain: RepaymentSpecification
+  name: has_value_for_loan_payment_amount
+  range: MonetaryAmount
+dv_is_part_of: "pending:"
+dv_has_domain: RepaymentSpecification
+dv_has_name: has_value_for_loan_payment_amount
+dv_has_range: MonetaryAmount
+dv_is_same_as:
+  - "[[has_value_for_loan_payment_amount]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_loan_payment_amount.public|has_value_for_loan_payment_amount.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_loan_payment_amount.internal|has_value_for_loan_payment_amount.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_loan_payment_amount.protect|has_value_for_loan_payment_amount.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_loan_payment_amount.private|has_value_for_loan_payment_amount.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_loan_payment_amount.personal|has_value_for_loan_payment_amount.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_loan_payment_amount.secret|has_value_for_loan_payment_amount.secret]]"
 ---
 
 Predicate to describe the Quantity of RepaymentSpecification.
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/value_for_/loan_payment_amount :: MonetaryAmount   
-- has_value_for_loan_payment_amount :: MonetaryAmount   
+- #has_/value_for_/loan_payment_amount : : MonetaryAmount   
+- has_value_for_loan_payment_amount : : MonetaryAmount   
 
 The amount of money to pay in a single payment.
 
 Predicate describes that: 
 
-#has_/domain  :: RepaymentSpecification  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: has_value_for_loan_payment_amount )
-(has_/range :: MonetaryAmount )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Delivery_Method/On_Site_Pickup.private|On_Site_Pickup.private]]"
     - "[[/_personal/schema-org/Enumeration/Delivery_Method/On_Site_Pickup.personal|On_Site_Pickup.personal]]"
     - "[[/_secret/schema-org/Enumeration/Delivery_Method/On_Site_Pickup.secret|On_Site_Pickup.secret]]"
+    - "[[On_Site_Pickup]]"
 dv_has_parent_class: "[[../DeliveryMethod]]"
 dv_is_enum_of: "[[../DeliveryMethod]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Delivery_Method/On_Site_Pickup|On_Site_Pickup]]"
+  - "[[On_Site_Pickup]]"
   - "[[/_public/schema-org/Enumeration/Delivery_Method/On_Site_Pickup.public|On_Site_Pickup.public]]"
   - "[[/_internal/schema-org/Enumeration/Delivery_Method/On_Site_Pickup.internal|On_Site_Pickup.internal]]"
   - "[[/_protect/schema-org/Enumeration/Delivery_Method/On_Site_Pickup.protect|On_Site_Pickup.protect]]"

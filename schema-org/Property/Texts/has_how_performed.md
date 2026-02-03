@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_how_performed.private|has_how_performed.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_how_performed.personal|has_how_performed.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_how_performed.secret|has_how_performed.secret]]"
+    - "[[has_how_performed]]"
 dv_has_domain: MedicalProcedure
 dv_has_name: has_text_of_how_performed
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_how_performed|has_how_performed]]"
+  - "[[has_how_performed]]"
   - "[[/_public/schema-org/Property/Texts/has_how_performed.public|has_how_performed.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_how_performed.internal|has_how_performed.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_how_performed.protect|has_how_performed.protect]]"

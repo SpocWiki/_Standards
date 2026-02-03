@@ -40,9 +40,10 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_Date_Time/has_time_of_expected_arrival_until.private|has_time_of_expected_arrival_until.private]]"
     - "[[/_personal/schema-org/Property/has_Date_Time/has_time_of_expected_arrival_until.personal|has_time_of_expected_arrival_until.personal]]"
     - "[[/_secret/schema-org/Property/has_Date_Time/has_time_of_expected_arrival_until.secret|has_time_of_expected_arrival_until.secret]]"
+    - "[[has_time_of_expected_arrival_until]]"
 dv_has_name: has_time_of_expected_arrival_until
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_of_expected_arrival_until|has_time_of_expected_arrival_until]]"
+  - "[[has_time_of_expected_arrival_until]]"
   - "[[/_public/schema-org/Property/has_Date_Time/has_time_of_expected_arrival_until.public|has_time_of_expected_arrival_until.public]]"
   - "[[/_internal/schema-org/Property/has_Date_Time/has_time_of_expected_arrival_until.internal|has_time_of_expected_arrival_until.internal]]"
   - "[[/_protect/schema-org/Property/has_Date_Time/has_time_of_expected_arrival_until.protect|has_time_of_expected_arrival_until.protect]]"

@@ -66,7 +66,7 @@ is_a = `=this.dv_is_a`
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/event_attendance_mode :: EventAttendanceModeEnumeration  
+- #has_/event_attendance_mode : : EventAttendanceModeEnumeration  
 - has_event_attendance_mode = `=this.dv_has_event_attendance_mode`  
 
 The eventAttendanceMode of an event indicates whether it occurs online, offline, or a mix.

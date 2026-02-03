@@ -41,11 +41,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_number_of/has_number_of_airbags.private|has_number_of_airbags.private]]"
     - "[[/_personal/schema-org/Property/has_number_of/has_number_of_airbags.personal|has_number_of_airbags.personal]]"
     - "[[/_secret/schema-org/Property/has_number_of/has_number_of_airbags.secret|has_number_of_airbags.secret]]"
+    - "[[has_number_of_airbags]]"
 dv_has_domain: Vehicle
 dv_has_name: has_number_of_airbags
 dv_has_range: Number, Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_airbags|has_number_of_airbags]]"
+  - "[[has_number_of_airbags]]"
   - "[[/_public/schema-org/Property/has_number_of/has_number_of_airbags.public|has_number_of_airbags.public]]"
   - "[[/_internal/schema-org/Property/has_number_of/has_number_of_airbags.internal|has_number_of_airbags.internal]]"
   - "[[/_protect/schema-org/Property/has_number_of/has_number_of_airbags.protect|has_number_of_airbags.protect]]"

@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_honorific_suffix.private|has_honorific_suffix.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_honorific_suffix.personal|has_honorific_suffix.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_honorific_suffix.secret|has_honorific_suffix.secret]]"
+    - "[[has_honorific_suffix]]"
 dv_has_domain: Person
 dv_has_name: has_text_of_honorific_suffix
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_honorific_suffix|has_honorific_suffix]]"
+  - "[[has_honorific_suffix]]"
   - "[[/_public/schema-org/Property/Texts/has_honorific_suffix.public|has_honorific_suffix.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_honorific_suffix.internal|has_honorific_suffix.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_honorific_suffix.protect|has_honorific_suffix.protect]]"

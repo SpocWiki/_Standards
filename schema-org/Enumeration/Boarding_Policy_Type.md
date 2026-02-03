@@ -36,9 +36,10 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Boarding_Policy_Type.private|Boarding_Policy_Type.private]]"
     - "[[/_personal/schema-org/Enumeration/Boarding_Policy_Type.personal|Boarding_Policy_Type.personal]]"
     - "[[/_secret/schema-org/Enumeration/Boarding_Policy_Type.secret|Boarding_Policy_Type.secret]]"
+    - "[[Boarding_Policy_Type]]"
 dv_has_parent_class: "[[../Enumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Boarding_Policy_Type|Boarding_Policy_Type]]"
+  - "[[Boarding_Policy_Type]]"
   - "[[/_public/schema-org/Enumeration/Boarding_Policy_Type.public|Boarding_Policy_Type.public]]"
   - "[[/_internal/schema-org/Enumeration/Boarding_Policy_Type.internal|Boarding_Policy_Type.internal]]"
   - "[[/_protect/schema-org/Enumeration/Boarding_Policy_Type.protect|Boarding_Policy_Type.protect]]"

@@ -26,9 +26,14 @@ tags:
 title: has_estimated-salary
 type: Predi_Quantity
 dv_has_:
-  domain: ["[[../../Class/is_a_/Intangible/Job_Posting|Job_Posting]]", "[[../../Class/is_a_/Intangible/Occupation|Occupation]]"]
+  domain:
+    - "[[../../Class/is_a_/Intangible/Job_Posting|Job_Posting]]"
+    - "[[../../Class/is_a_/Intangible/Occupation|Occupation]]"
   name: has_value_for_estimated_salary
-  range: ["[[../../Class/is_a_/Intangible/Structured_Value/Monetary_Amount|Monetary_Amount]]", "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution|Monetary_Amount_Distribution]]", "[[../../Class/is_a_/Data_Type/Number|Number]]"]
+  range:
+    - "[[../../Class/is_a_/Intangible/Structured_Value/Monetary_Amount|Monetary_Amount]]"
+    - "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution|Monetary_Amount_Distribution]]"
+    - "[[../../Class/is_a_/Data_Type/Number|Number]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_estimated_salary|has_value_for_estimated_salary]]"
@@ -38,11 +43,17 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_estimated_salary.private|has_value_for_estimated_salary.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_estimated_salary.personal|has_value_for_estimated_salary.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_estimated_salary.secret|has_value_for_estimated_salary.secret]]"
-dv_has_domain: ["[[../../Class/is_a_/Intangible/Job_Posting|Job_Posting]]", "[[../../Class/is_a_/Intangible/Occupation|Occupation]]"]
+    - "[[has_value_for_estimated_salary]]"
+dv_has_domain:
+  - "[[../../Class/is_a_/Intangible/Job_Posting|Job_Posting]]"
+  - "[[../../Class/is_a_/Intangible/Occupation|Occupation]]"
 dv_has_name: has_value_for_estimated_salary
-dv_has_range: ["[[../../Class/is_a_/Intangible/Structured_Value/Monetary_Amount|Monetary_Amount]]", "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution|Monetary_Amount_Distribution]]", "[[../../Class/is_a_/Data_Type/Number|Number]]"]
+dv_has_range:
+  - "[[../../Class/is_a_/Intangible/Structured_Value/Monetary_Amount|Monetary_Amount]]"
+  - "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value_Distribution/Monetary_Amount_Distribution|Monetary_Amount_Distribution]]"
+  - "[[../../Class/is_a_/Data_Type/Number|Number]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_estimated_salary|has_value_for_estimated_salary]]"
+  - "[[has_value_for_estimated_salary]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_estimated_salary.public|has_value_for_estimated_salary.public]]"
   - "[[/_internal/schema-org/Property/has_value_for/has_value_for_estimated_salary.internal|has_value_for_estimated_salary.internal]]"
   - "[[/_protect/schema-org/Property/has_value_for/has_value_for_estimated_salary.protect|has_value_for_estimated_salary.protect]]"

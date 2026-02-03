@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Car_Usage_Type/Driving_School_Vehicle_Usage.private|Driving_School_Vehicle_Usage.private]]"
     - "[[/_personal/schema-org/Enumeration/Car_Usage_Type/Driving_School_Vehicle_Usage.personal|Driving_School_Vehicle_Usage.personal]]"
     - "[[/_secret/schema-org/Enumeration/Car_Usage_Type/Driving_School_Vehicle_Usage.secret|Driving_School_Vehicle_Usage.secret]]"
+    - "[[Driving_School_Vehicle_Usage]]"
 dv_is_part_of: https://auto.schema.org
 dv_has_parent_class: "[[../CarUsageType]]"
 dv_is_enum_of: "[[../CarUsageType]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Car_Usage_Type/Driving_School_Vehicle_Usage|Driving_School_Vehicle_Usage]]"
+  - "[[Driving_School_Vehicle_Usage]]"
   - "[[/_public/schema-org/Enumeration/Car_Usage_Type/Driving_School_Vehicle_Usage.public|Driving_School_Vehicle_Usage.public]]"
   - "[[/_internal/schema-org/Enumeration/Car_Usage_Type/Driving_School_Vehicle_Usage.internal|Driving_School_Vehicle_Usage.internal]]"
   - "[[/_protect/schema-org/Enumeration/Car_Usage_Type/Driving_School_Vehicle_Usage.protect|Driving_School_Vehicle_Usage.protect]]"

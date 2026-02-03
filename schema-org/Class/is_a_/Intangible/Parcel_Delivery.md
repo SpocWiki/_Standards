@@ -1,67 +1,68 @@
 ---
 aliases:
-- parcel-delivery
-- parcel_delivery
-- ParcelDelivery
-- is_a_parcel_delivery
-- Parcel_Delivery
-- Parcel Delivery
+  - parcel-delivery
+  - parcel_delivery
+  - ParcelDelivery
+  - is_a_parcel_delivery
+  - Parcel_Delivery
+  - Parcel Delivery
 confidential: public
 cssclasses:
-- Type
+  - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
-- parcel_delivery
-layout: ''
+  - parcel_delivery
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_parcel_delivery Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
-- class/Class
-- schema-org/Class
+  - class/Class
+  - schema-org/Class
 title: is_a_parcel_delivery Class
 type: Type
 dv_is_:
   same_as:
-  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Parcel_Delivery|Parcel_Delivery]]"
-  - "[[/_public/schema-org/Class/is_a_/Intangible/Parcel_Delivery.public|Parcel_Delivery.public]]"
-  - "[[/_internal/schema-org/Class/is_a_/Intangible/Parcel_Delivery.internal|Parcel_Delivery.internal]]"
-  - "[[/_protect/schema-org/Class/is_a_/Intangible/Parcel_Delivery.protect|Parcel_Delivery.protect]]"
-  - "[[/_private/schema-org/Class/is_a_/Intangible/Parcel_Delivery.private|Parcel_Delivery.private]]"
-  - "[[/_personal/schema-org/Class/is_a_/Intangible/Parcel_Delivery.personal|Parcel_Delivery.personal]]"
-  - "[[/_secret/schema-org/Class/is_a_/Intangible/Parcel_Delivery.secret|Parcel_Delivery.secret]]"
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Parcel_Delivery|Parcel_Delivery]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Parcel_Delivery.public|Parcel_Delivery.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Parcel_Delivery.internal|Parcel_Delivery.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Parcel_Delivery.protect|Parcel_Delivery.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Parcel_Delivery.private|Parcel_Delivery.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Parcel_Delivery.personal|Parcel_Delivery.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Parcel_Delivery.secret|Parcel_Delivery.secret]]"
+    - "[[Parcel_Delivery]]"
 dv_has_:
   parent_class:
-  - "[[../Intangible]]"
+    - "[[../Intangible]]"
   properties:
-  - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
-  - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
-  - "[[../../../Relation/has/has_carrier|has_carrier]]"
-  - "[[delivery_address|delivery_address]]"
-  - "[[../../../Relation/has/has_delivery/has_delivery_status|has_delivery_status]]"
-  - "[[../../../Property/Texts/has_description|has_description]]"
-  - "[[../../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
-  - "[[expected_arrival_from|expected_arrival_from]]"
-  - "[[expected_arrival_until|expected_arrival_until]]"
-  - "[[../../../Relation/has/has_delivery/has_delivery_method|has_delivery_method]]"
-  - "[[../../../Relation/has/has_identifier|has_identifier]]"
-  - "[[../../../Relation/has/has_image|has_image]]"
-  - "[[../../../Collection/has_item/has_item_shipped|has_item_shipped]]"
-  - "[[../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
-  - "[[../../../Property/has_name|has_name]]"
-  - "[[origin_address|origin_address]]"
-  - "[[../../../Composite/is_part_of/is_part_of_order|is_part_of_order]]"
-  - "[[../../../Relation/has/has_potential_action|has_potential_action]]"
-  - "[[../../../Relation/has/has_provider|has_provider]]"
-  - "[[../../../Relation/is_same_as|is_same_as]]"
-  - "[[../../../Relation/is/is_subject_of|is_subject_of]]"
-  - "[[../../../Property/Texts/has_tracking_number|has_tracking_number]]"
-  - "[[tracking_url|tracking_url]]"
-  - "[[../Property/has_url_for/has_url|has_url]]"
+    - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
+    - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
+    - "[[../../../Relation/has/has_carrier|has_carrier]]"
+    - "[[delivery_address|delivery_address]]"
+    - "[[../../../Relation/has/has_delivery/has_delivery_status|has_delivery_status]]"
+    - "[[../../../Property/Texts/has_description|has_description]]"
+    - "[[../../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
+    - "[[expected_arrival_from|expected_arrival_from]]"
+    - "[[expected_arrival_until|expected_arrival_until]]"
+    - "[[../../../Relation/has/has_delivery/has_delivery_method|has_delivery_method]]"
+    - "[[../../../Relation/has/has_identifier|has_identifier]]"
+    - "[[../../../Relation/has/has_image|has_image]]"
+    - "[[../../../Collection/has_item/has_item_shipped|has_item_shipped]]"
+    - "[[../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+    - "[[../../../Property/has_name|has_name]]"
+    - "[[origin_address|origin_address]]"
+    - "[[../../../Composite/is_part_of/is_part_of_order|is_part_of_order]]"
+    - "[[../../../Relation/has/has_potential_action|has_potential_action]]"
+    - "[[../../../Relation/has/has_provider|has_provider]]"
+    - "[[../../../Relation/is_same_as|is_same_as]]"
+    - "[[../../../Relation/is/is_subject_of|is_subject_of]]"
+    - "[[../../../Property/Texts/has_tracking_number|has_tracking_number]]"
+    - "[[tracking_url|tracking_url]]"
+    - "[[../Property/has_url_for/has_url|has_url]]"
 dv_has_parent_class:
   - "[[../Intangible]]"
 dv_has_properties:
@@ -90,7 +91,7 @@ dv_has_properties:
   - "[[tracking_url|tracking_url]]"
   - "[[../Property/has_url_for/has_url|has_url]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Parcel_Delivery|Parcel_Delivery]]"
+  - "[[Parcel_Delivery]]"
   - "[[/_public/schema-org/Class/is_a_/Intangible/Parcel_Delivery.public|Parcel_Delivery.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Intangible/Parcel_Delivery.internal|Parcel_Delivery.internal]]"
   - "[[/_protect/schema-org/Class/is_a_/Intangible/Parcel_Delivery.protect|Parcel_Delivery.protect]]"

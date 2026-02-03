@@ -40,9 +40,10 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_Date_Time/has_time_of_checkin.private|has_time_of_checkin.private]]"
     - "[[/_personal/schema-org/Property/has_Date_Time/has_time_of_checkin.personal|has_time_of_checkin.personal]]"
     - "[[/_secret/schema-org/Property/has_Date_Time/has_time_of_checkin.secret|has_time_of_checkin.secret]]"
+    - "[[has_time_of_checkin]]"
 dv_has_name: has_time_of_checkin_time
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_of_checkin|has_time_of_checkin]]"
+  - "[[has_time_of_checkin]]"
   - "[[/_public/schema-org/Property/has_Date_Time/has_time_of_checkin.public|has_time_of_checkin.public]]"
   - "[[/_internal/schema-org/Property/has_Date_Time/has_time_of_checkin.internal|has_time_of_checkin.internal]]"
   - "[[/_protect/schema-org/Property/has_Date_Time/has_time_of_checkin.protect|has_time_of_checkin.protect]]"

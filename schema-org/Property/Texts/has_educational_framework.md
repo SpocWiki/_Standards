@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_educational_framework.private|has_educational_framework.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_educational_framework.personal|has_educational_framework.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_educational_framework.secret|has_educational_framework.secret]]"
+    - "[[has_educational_framework]]"
 dv_has_domain: AlignmentObject
 dv_has_name: has_text_of_educational_framework
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_educational_framework|has_educational_framework]]"
+  - "[[has_educational_framework]]"
   - "[[/_public/schema-org/Property/Texts/has_educational_framework.public|has_educational_framework.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_educational_framework.internal|has_educational_framework.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_educational_framework.protect|has_educational_framework.protect]]"

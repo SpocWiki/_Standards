@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_years_in_operation.private|has_value_for_years_in_operation.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_years_in_operation.personal|has_value_for_years_in_operation.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_years_in_operation.secret|has_value_for_years_in_operation.secret]]"
+    - "[[has_value_for_years_in_operation]]"
 dv_has_domain: "[[../../Class/is_a_/Intangible/Audience/Business_Audience|Business_Audience]]"
 dv_has_name: has_value_for_years_in_operation
 dv_has_range: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_years_in_operation|has_value_for_years_in_operation]]"
+  - "[[has_value_for_years_in_operation]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_years_in_operation.public|has_value_for_years_in_operation.public]]"
   - "[[/_internal/schema-org/Property/has_value_for/has_value_for_years_in_operation.internal|has_value_for_years_in_operation.internal]]"
   - "[[/_protect/schema-org/Property/has_value_for/has_value_for_years_in_operation.protect|has_value_for_years_in_operation.protect]]"

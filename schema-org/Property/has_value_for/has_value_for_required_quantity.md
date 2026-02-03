@@ -28,7 +28,10 @@ type: Predi_Quantity
 dv_has_:
   domain: "[[../../Collection/list_item/how_to_item|HowToItem]]"
   name: has_value_for_required_quantity
-  range: ["[[../../Class/is_a_/Data_Type/Number|Number]]", "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
+  range:
+    - "[[../../Class/is_a_/Data_Type/Number|Number]]"
+    - "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
+    - "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_required_quantity|has_value_for_required_quantity]]"
@@ -38,11 +41,15 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_required_quantity.private|has_value_for_required_quantity.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_required_quantity.personal|has_value_for_required_quantity.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_required_quantity.secret|has_value_for_required_quantity.secret]]"
+    - "[[has_value_for_required_quantity]]"
 dv_has_domain: "[[../../Collection/list_item/how_to_item|HowToItem]]"
 dv_has_name: has_value_for_required_quantity
-dv_has_range: ["[[../../Class/is_a_/Data_Type/Number|Number]]", "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
+dv_has_range:
+  - "[[../../Class/is_a_/Data_Type/Number|Number]]"
+  - "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_required_quantity|has_value_for_required_quantity]]"
+  - "[[has_value_for_required_quantity]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_required_quantity.public|has_value_for_required_quantity.public]]"
   - "[[/_internal/schema-org/Property/has_value_for/has_value_for_required_quantity.internal|has_value_for_required_quantity.internal]]"
   - "[[/_protect/schema-org/Property/has_value_for/has_value_for_required_quantity.protect|has_value_for_required_quantity.protect]]"

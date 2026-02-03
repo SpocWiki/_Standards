@@ -66,7 +66,7 @@ is_a = `=this.dv_is_a`
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/education_/requirements :: "[[../../../../Society/Communication/Media/Creative_Work/Educational_Occupational_Credential|EducationalOccupationalCredential]]", Text  
+- #has_/education_/requirements : : "[[../../../../Society/Communication/Media/Creative_Work/Educational_Occupational_Credential|EducationalOccupationalCredential]]", Text  
 - has_education_requirements = `=this.dv_has_education_requirements`  
 
 Educational background needed for the position or Occupation.

@@ -41,9 +41,10 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_Date_Time/has_time_of_legislation_version.private|has_time_of_legislation_version.private]]"
     - "[[/_personal/schema-org/Property/has_Date_Time/has_time_of_legislation_version.personal|has_time_of_legislation_version.personal]]"
     - "[[/_secret/schema-org/Property/has_Date_Time/has_time_of_legislation_version.secret|has_time_of_legislation_version.secret]]"
+    - "[[has_time_of_legislation_version]]"
 dv_has_name: has_time_of_legislation_version
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_of_legislation_version|has_time_of_legislation_version]]"
+  - "[[has_time_of_legislation_version]]"
   - "[[/_public/schema-org/Property/has_Date_Time/has_time_of_legislation_version.public|has_time_of_legislation_version.public]]"
   - "[[/_internal/schema-org/Property/has_Date_Time/has_time_of_legislation_version.internal|has_time_of_legislation_version.internal]]"
   - "[[/_protect/schema-org/Property/has_Date_Time/has_time_of_legislation_version.protect|has_time_of_legislation_version.protect]]"

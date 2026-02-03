@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Music_Album_Production_Type/Studio_Album.private|Studio_Album.private]]"
     - "[[/_personal/schema-org/Enumeration/Music_Album_Production_Type/Studio_Album.personal|Studio_Album.personal]]"
     - "[[/_secret/schema-org/Enumeration/Music_Album_Production_Type/Studio_Album.secret|Studio_Album.secret]]"
+    - "[[Studio_Album]]"
 dv_has_parent_class: "[[../MusicAlbumProductionType]]"
 dv_is_enum_of: "[[../MusicAlbumProductionType]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Music_Album_Production_Type/Studio_Album|Studio_Album]]"
+  - "[[Studio_Album]]"
   - "[[/_public/schema-org/Enumeration/Music_Album_Production_Type/Studio_Album.public|Studio_Album.public]]"
   - "[[/_internal/schema-org/Enumeration/Music_Album_Production_Type/Studio_Album.internal|Studio_Album.internal]]"
   - "[[/_protect/schema-org/Enumeration/Music_Album_Production_Type/Studio_Album.protect|Studio_Album.protect]]"

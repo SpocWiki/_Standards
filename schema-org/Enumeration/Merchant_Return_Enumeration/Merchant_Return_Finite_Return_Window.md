@@ -39,11 +39,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Finite_Return_Window.private|Merchant_Return_Finite_Return_Window.private]]"
     - "[[/_personal/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Finite_Return_Window.personal|Merchant_Return_Finite_Return_Window.personal]]"
     - "[[/_secret/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Finite_Return_Window.secret|Merchant_Return_Finite_Return_Window.secret]]"
+    - "[[Merchant_Return_Finite_Return_Window]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../MerchantReturnEnumeration]]"
 dv_is_enum_of: "[[../MerchantReturnEnumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Finite_Return_Window|Merchant_Return_Finite_Return_Window]]"
+  - "[[Merchant_Return_Finite_Return_Window]]"
   - "[[/_public/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Finite_Return_Window.public|Merchant_Return_Finite_Return_Window.public]]"
   - "[[/_internal/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Finite_Return_Window.internal|Merchant_Return_Finite_Return_Window.internal]]"
   - "[[/_protect/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Finite_Return_Window.protect|Merchant_Return_Finite_Return_Window.protect]]"

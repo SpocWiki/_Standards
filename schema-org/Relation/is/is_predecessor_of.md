@@ -11,45 +11,80 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - predecessor
   - of
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_predecessor_of
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: has_predecessor_of
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_:
+  inverse:
+    - 
+    - "[[../has/has_previous_item]]"
+    - "[[is_successor_of]]"
+  domain: "[[../../../Society/Agent/Community/Organization/Business/Product/Product_Model|ProductModel]]"
+  name: is_predecessor_of
+  range: "[[../../../Society/Agent/Community/Organization/Business/Product/Product_Model|ProductModel]]"
+dv_is_:
+  similar_to: "[[../has/has_next_item]]"
+  same_as:
+    - "[[is_predecessor_of]]"
+    - "[[/_public/schema-org/Relation/is/is_predecessor_of.public|is_predecessor_of.public]]"
+    - "[[/_internal/schema-org/Relation/is/is_predecessor_of.internal|is_predecessor_of.internal]]"
+    - "[[/_protect/schema-org/Relation/is/is_predecessor_of.protect|is_predecessor_of.protect]]"
+    - "[[/_private/schema-org/Relation/is/is_predecessor_of.private|is_predecessor_of.private]]"
+    - "[[/_personal/schema-org/Relation/is/is_predecessor_of.personal|is_predecessor_of.personal]]"
+    - "[[/_secret/schema-org/Relation/is/is_predecessor_of.secret|is_predecessor_of.secret]]"
+dv_has_inverse:
+  - 
+  - "[[../has/has_previous_item]]"
+  - "[[is_successor_of]]"
+dv_has_domain: "[[../../../Society/Agent/Community/Organization/Business/Product/Product_Model|ProductModel]]"
+dv_has_name: is_predecessor_of
+dv_has_range: "[[../../../Society/Agent/Community/Organization/Business/Product/Product_Model|ProductModel]]"
+dv_is_similar_to: "[[../has/has_next_item]]"
+dv_is_same_as:
+  - "[[is_predecessor_of]]"
+  - "[[/_public/schema-org/Relation/is/is_predecessor_of.public|is_predecessor_of.public]]"
+  - "[[/_internal/schema-org/Relation/is/is_predecessor_of.internal|is_predecessor_of.internal]]"
+  - "[[/_protect/schema-org/Relation/is/is_predecessor_of.protect|is_predecessor_of.protect]]"
+  - "[[/_private/schema-org/Relation/is/is_predecessor_of.private|is_predecessor_of.private]]"
+  - "[[/_personal/schema-org/Relation/is/is_predecessor_of.personal|is_predecessor_of.personal]]"
+  - "[[/_secret/schema-org/Relation/is/is_predecessor_of.secret|is_predecessor_of.secret]]"
 ---
 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 
 
 Use it like this: 
-- #is_/predecessor_of :: [[../../../Society/Agent/Community/Organization/Business/Product/Product_Model|ProductModel]]  
-- is_predecessor_of :: [[../../Class/is_a_/product/product_model|ProductModel]]  
+- #is_/predecessor_of : : [[../../../Society/Agent/Community/Organization/Business/Product/Product_Model|ProductModel]]  
+- is_predecessor_of : : [[../../Class/is_a_/product/product_model|ProductModel]]  
 
 A pointer from a previous, often [[../../Enumeration/Item_Availability/Discontinued|discontinued]] variant of the product 
 to its newer variant.
 
 Relation describes that: 
 
-#has_/domain  :: [[../../../Society/Agent/Community/Organization/Business/Product/Product_Model|ProductModel]]  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: is_predecessor_of )
-(has_/range :: [[../../../Society/Agent/Community/Organization/Business/Product/Product_Model|ProductModel]] )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
-#is_/similar_to :: [[../has/has_next_item]]  
+is_similar_to = `=this.dv_is_similar_to` 
 #has_/inverse :: [[../has/has_previous_item]]  
 #has_/inverse :: [[is_successor_of]]   
 

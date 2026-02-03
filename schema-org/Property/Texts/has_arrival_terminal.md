@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_arrival_terminal.private|has_arrival_terminal.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_arrival_terminal.personal|has_arrival_terminal.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_arrival_terminal.secret|has_arrival_terminal.secret]]"
+    - "[[has_arrival_terminal]]"
 dv_has_domain: Flight
 dv_has_name: has_text_of_arrival_terminal
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_arrival_terminal|has_arrival_terminal]]"
+  - "[[has_arrival_terminal]]"
   - "[[/_public/schema-org/Property/Texts/has_arrival_terminal.public|has_arrival_terminal.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_arrival_terminal.internal|has_arrival_terminal.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_arrival_terminal.protect|has_arrival_terminal.protect]]"

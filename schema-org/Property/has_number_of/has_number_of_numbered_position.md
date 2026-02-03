@@ -41,11 +41,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_number_of/has_number_of_numbered_position.private|has_number_of_numbered_position.private]]"
     - "[[/_personal/schema-org/Property/has_number_of/has_number_of_numbered_position.personal|has_number_of_numbered_position.personal]]"
     - "[[/_secret/schema-org/Property/has_number_of/has_number_of_numbered_position.secret|has_number_of_numbered_position.secret]]"
+    - "[[has_number_of_numbered_position]]"
 dv_has_domain: OrganizationRole
 dv_has_name: has_number_of_numbered_position
 dv_has_range: Number
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_numbered_position|has_number_of_numbered_position]]"
+  - "[[has_number_of_numbered_position]]"
   - "[[/_public/schema-org/Property/has_number_of/has_number_of_numbered_position.public|has_number_of_numbered_position.public]]"
   - "[[/_internal/schema-org/Property/has_number_of/has_number_of_numbered_position.internal|has_number_of_numbered_position.internal]]"
   - "[[/_protect/schema-org/Property/has_number_of/has_number_of_numbered_position.protect|has_number_of_numbered_position.protect]]"

@@ -36,13 +36,14 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Energy_Efficiency_Enumeration.private|Energy_Efficiency_Enumeration.private]]"
     - "[[/_personal/schema-org/Enumeration/Energy_Efficiency_Enumeration.personal|Energy_Efficiency_Enumeration.personal]]"
     - "[[/_secret/schema-org/Enumeration/Energy_Efficiency_Enumeration.secret|Energy_Efficiency_Enumeration.secret]]"
+    - "[[Energy_Efficiency_Enumeration]]"
 dv_has_:
   child_class: "[ EUEnergyEfficiencyEnumeration, EnergyStarEnergyEfficiencyEnumeration ]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../Enumeration]]"
 dv_has_child_class: "[ EUEnergyEfficiencyEnumeration, EnergyStarEnergyEfficiencyEnumeration ]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Energy_Efficiency_Enumeration|Energy_Efficiency_Enumeration]]"
+  - "[[Energy_Efficiency_Enumeration]]"
   - "[[/_public/schema-org/Enumeration/Energy_Efficiency_Enumeration.public|Energy_Efficiency_Enumeration.public]]"
   - "[[/_internal/schema-org/Enumeration/Energy_Efficiency_Enumeration.internal|Energy_Efficiency_Enumeration.internal]]"
   - "[[/_protect/schema-org/Enumeration/Energy_Efficiency_Enumeration.protect|Energy_Efficiency_Enumeration.protect]]"

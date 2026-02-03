@@ -1,27 +1,27 @@
 ---
 aliases:
-- integer
-- Integer
-- is_an_integer
-- Ganzzahl
+  - integer
+  - Integer
+  - is_an_integer
+  - Ganzzahl
 has_id_wikidata: Q12503
 confidential: public
 cssclasses:
-- Type
+  - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
-- integer
-layout: ''
+  - integer
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_an_integer Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
-- class/Class
-- schema-org/Class
+  - class/Class
+  - schema-org/Class
 title: is_an_integer Class
 type: Type
 different_from: "[[_Standards/WikiData/WD~integral,80091]]"
@@ -45,22 +45,23 @@ IEV_number: 102-02-02
 Commons_category: Integers
 dv_is_:
   same_as:
-  - "[[../../../../../WikiData/WD~Integer,12503|WD~Integer,12503]]"
-  - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Number/Integer|Integer]]"
-  - "[[/_public/schema-org/Class/is_a_/Data_Type/Number/Integer.public|Integer.public]]"
-  - "[[/_internal/schema-org/Class/is_a_/Data_Type/Number/Integer.internal|Integer.internal]]"
-  - "[[/_protect/schema-org/Class/is_a_/Data_Type/Number/Integer.protect|Integer.protect]]"
-  - "[[/_private/schema-org/Class/is_a_/Data_Type/Number/Integer.private|Integer.private]]"
-  - "[[/_personal/schema-org/Class/is_a_/Data_Type/Number/Integer.personal|Integer.personal]]"
-  - "[[/_secret/schema-org/Class/is_a_/Data_Type/Number/Integer.secret|Integer.secret]]"
+    - "[[../../../../../WikiData/WD~Integer,12503|WD~Integer,12503]]"
+    - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Number/Integer|Integer]]"
+    - "[[/_public/schema-org/Class/is_a_/Data_Type/Number/Integer.public|Integer.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Data_Type/Number/Integer.internal|Integer.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Data_Type/Number/Integer.protect|Integer.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Data_Type/Number/Integer.private|Integer.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Data_Type/Number/Integer.personal|Integer.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Data_Type/Number/Integer.secret|Integer.secret]]"
+    - "[[Integer]]"
 dv_has_:
   parent_class:
-  - "[[../Number]]"
+    - "[[../Number]]"
 dv_has_parent_class:
   - "[[../Number]]"
 dv_is_same_as:
   - "[[../../../../../WikiData/WD~Integer,12503|WD~Integer,12503]]"
-  - "[[/_Standards/schema-org/Class/is_a_/Data_Type/Number/Integer|Integer]]"
+  - "[[Integer]]"
   - "[[/_public/schema-org/Class/is_a_/Data_Type/Number/Integer.public|Integer.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Data_Type/Number/Integer.internal|Integer.internal]]"
   - "[[/_protect/schema-org/Class/is_a_/Data_Type/Number/Integer.protect|Integer.protect]]"

@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_role_chemical]]"
+    - "[[/_public/schema-org/Relation/has/has_role_chemical.public|has_role_chemical.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_role_chemical.internal|has_role_chemical.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_role_chemical.protect|has_role_chemical.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_role_chemical.private|has_role_chemical.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_role_chemical.personal|has_role_chemical.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_role_chemical.secret|has_role_chemical.secret]]"
+dv_is_same_as:
+  - "[[has_role_chemical]]"
+  - "[[/_public/schema-org/Relation/has/has_role_chemical.public|has_role_chemical.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_role_chemical.internal|has_role_chemical.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_role_chemical.protect|has_role_chemical.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_role_chemical.private|has_role_chemical.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_role_chemical.personal|has_role_chemical.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_role_chemical.secret|has_role_chemical.secret]]"
+---
 ﻿---
 dv_has_:
   role_:
@@ -91,7 +110,7 @@ is_a = `=this.dv_is_a`
 has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
-- #has_/role_/chemical :: DefinedTerm  
+- #has_/role_/chemical : : DefinedTerm  
 - has_role_chemical = `=this.dv_has_role_chemical`  
 - is_role_chemical_of : : `=this.dv_has_domain` 
 - #is_/role_chemical_of : : `=this.dv_has_domain`

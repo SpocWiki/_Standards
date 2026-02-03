@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe.private|Rsvp_Response_Maybe.private]]"
     - "[[/_personal/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe.personal|Rsvp_Response_Maybe.personal]]"
     - "[[/_secret/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe.secret|Rsvp_Response_Maybe.secret]]"
+    - "[[Rsvp_Response_Maybe]]"
 dv_has_parent_class: "[[../RsvpResponseType]]"
 dv_is_enum_of: "[[../RsvpResponseType]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe|Rsvp_Response_Maybe]]"
+  - "[[Rsvp_Response_Maybe]]"
   - "[[/_public/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe.public|Rsvp_Response_Maybe.public]]"
   - "[[/_internal/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe.internal|Rsvp_Response_Maybe.internal]]"
   - "[[/_protect/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe.protect|Rsvp_Response_Maybe.protect]]"

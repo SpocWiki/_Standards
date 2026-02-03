@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Health_Aspect_Enumeration/Effectiveness_Health_Aspect.private|Effectiveness_Health_Aspect.private]]"
     - "[[/_personal/schema-org/Enumeration/Health_Aspect_Enumeration/Effectiveness_Health_Aspect.personal|Effectiveness_Health_Aspect.personal]]"
     - "[[/_secret/schema-org/Enumeration/Health_Aspect_Enumeration/Effectiveness_Health_Aspect.secret|Effectiveness_Health_Aspect.secret]]"
+    - "[[Effectiveness_Health_Aspect]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../HealthAspectEnumeration]]"
 dv_is_enum_of: "[[../HealthAspectEnumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Health_Aspect_Enumeration/Effectiveness_Health_Aspect|Effectiveness_Health_Aspect]]"
+  - "[[Effectiveness_Health_Aspect]]"
   - "[[/_public/schema-org/Enumeration/Health_Aspect_Enumeration/Effectiveness_Health_Aspect.public|Effectiveness_Health_Aspect.public]]"
   - "[[/_internal/schema-org/Enumeration/Health_Aspect_Enumeration/Effectiveness_Health_Aspect.internal|Effectiveness_Health_Aspect.internal]]"
   - "[[/_protect/schema-org/Enumeration/Health_Aspect_Enumeration/Effectiveness_Health_Aspect.protect|Effectiveness_Health_Aspect.protect]]"

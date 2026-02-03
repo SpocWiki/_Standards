@@ -43,10 +43,7 @@ dv_has_place_altitude_m:
   - "[[../../Class/is_a_/Data_Type/Number|Number]]"
   - "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_:
-  different_from:
-    - "[[has_place_elevation]]"
-    - "[[has_place_elevation]]"
-    - geo:alt
+  different_from: "[[has_place_elevation]], geo:alt"
   similar_to: "[[has_place_elevation]]"
   same_as:
     - "[[has_place_altitude]]"
@@ -60,10 +57,7 @@ dv_is_a: "[[../../../Mathematics/Geometry/Position-Vector|Position-Vector]]"
 dv_has_place_altitude: Number, Text
 dv_has_place_altitude_meter: Number
 dv_has_unit_for_default: "[[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Meter|Unit~Meter]]"
-dv_is_different_from:
-  - "[[has_place_elevation]]"
-  - "[[has_place_elevation]]"
-  - geo:alt
+dv_is_different_from: "[[has_place_elevation]], geo:alt"
 dv_is_similar_to: "[[has_place_elevation]]"
 dv_has_domain:
   - "[[../../Class/is_a_/Intangible/Structured_Value/Geo_Coordinates|GeoCoordinates]]"
@@ -85,7 +79,7 @@ dv_is_same_as:
 # [[has_place_altitude]] 
 
 has_unit_for_default = `=this.dv_has_unit_for_default` 
-#is_/different_from :: [[has_place_elevation]], geo:alt   
+is_different_from = `=this.dv_is_different_from` 
 is_similar_to = `=this.dv_is_similar_to` 
 is_a = `=this.dv_is_a` 
 
@@ -103,9 +97,9 @@ The default [[../../../Dimension/Unit_of_Measure|Unit_of_Measure]]  are [[../../
 - or as a [[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]] with `value` and `unitCode` 
 
 Use it like this: 
-- #has_/place_/altitude :: Number, Text   
-- #has_/place_/altitude_/meter :: Number 
-- has_place_altitude_m :: [[../../Class/is_a_/data_type/number|Number]],  [[../../Class/is_a_/data_type/text|Text]] 
+- #has_/place_/altitude : : Number, Text   
+- #has_/place_/altitude_/meter : : Number 
+- has_place_altitude_m : : [[../../Class/is_a_/data_type/number|Number]],  [[../../Class/is_a_/data_type/text|Text]] 
 
 Predicate describes that: 
 

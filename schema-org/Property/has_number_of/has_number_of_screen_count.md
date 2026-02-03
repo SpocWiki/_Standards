@@ -41,11 +41,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_number_of/has_number_of_screen_count.private|has_number_of_screen_count.private]]"
     - "[[/_personal/schema-org/Property/has_number_of/has_number_of_screen_count.personal|has_number_of_screen_count.personal]]"
     - "[[/_secret/schema-org/Property/has_number_of/has_number_of_screen_count.secret|has_number_of_screen_count.secret]]"
+    - "[[has_number_of_screen_count]]"
 dv_has_domain: MovieTheater
 dv_has_name: has_number_of_screen_count
 dv_has_range: Number
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_number_of/has_number_of_screen_count|has_number_of_screen_count]]"
+  - "[[has_number_of_screen_count]]"
   - "[[/_public/schema-org/Property/has_number_of/has_number_of_screen_count.public|has_number_of_screen_count.public]]"
   - "[[/_internal/schema-org/Property/has_number_of/has_number_of_screen_count.internal|has_number_of_screen_count.internal]]"
   - "[[/_protect/schema-org/Property/has_number_of/has_number_of_screen_count.protect|has_number_of_screen_count.protect]]"

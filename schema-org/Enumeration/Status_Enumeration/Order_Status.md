@@ -36,9 +36,10 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Status_Enumeration/Order_Status.private|Order_Status.private]]"
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Order_Status.personal|Order_Status.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Order_Status.secret|Order_Status.secret]]"
+    - "[[Order_Status]]"
 dv_has_parent_class: "[[../StatusEnumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Order_Status|Order_Status]]"
+  - "[[Order_Status]]"
   - "[[/_public/schema-org/Enumeration/Status_Enumeration/Order_Status.public|Order_Status.public]]"
   - "[[/_internal/schema-org/Enumeration/Status_Enumeration/Order_Status.internal|Order_Status.internal]]"
   - "[[/_protect/schema-org/Enumeration/Status_Enumeration/Order_Status.protect|Order_Status.protect]]"

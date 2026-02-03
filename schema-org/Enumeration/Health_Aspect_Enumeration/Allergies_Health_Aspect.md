@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Health_Aspect_Enumeration/Allergies_Health_Aspect.private|Allergies_Health_Aspect.private]]"
     - "[[/_personal/schema-org/Enumeration/Health_Aspect_Enumeration/Allergies_Health_Aspect.personal|Allergies_Health_Aspect.personal]]"
     - "[[/_secret/schema-org/Enumeration/Health_Aspect_Enumeration/Allergies_Health_Aspect.secret|Allergies_Health_Aspect.secret]]"
+    - "[[Allergies_Health_Aspect]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../HealthAspectEnumeration]]"
 dv_is_enum_of: "[[../HealthAspectEnumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Health_Aspect_Enumeration/Allergies_Health_Aspect|Allergies_Health_Aspect]]"
+  - "[[Allergies_Health_Aspect]]"
   - "[[/_public/schema-org/Enumeration/Health_Aspect_Enumeration/Allergies_Health_Aspect.public|Allergies_Health_Aspect.public]]"
   - "[[/_internal/schema-org/Enumeration/Health_Aspect_Enumeration/Allergies_Health_Aspect.internal|Allergies_Health_Aspect.internal]]"
   - "[[/_protect/schema-org/Enumeration/Health_Aspect_Enumeration/Allergies_Health_Aspect.protect|Allergies_Health_Aspect.protect]]"

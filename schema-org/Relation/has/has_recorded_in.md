@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_recorded_in]]"
+    - "[[/_public/schema-org/Relation/has/has_recorded_in.public|has_recorded_in.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_recorded_in.internal|has_recorded_in.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_recorded_in.protect|has_recorded_in.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_recorded_in.private|has_recorded_in.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_recorded_in.personal|has_recorded_in.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_recorded_in.secret|has_recorded_in.secret]]"
+dv_is_same_as:
+  - "[[has_recorded_in]]"
+  - "[[/_public/schema-org/Relation/has/has_recorded_in.public|has_recorded_in.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_recorded_in.internal|has_recorded_in.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_recorded_in.protect|has_recorded_in.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_recorded_in.private|has_recorded_in.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_recorded_in.personal|has_recorded_in.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_recorded_in.secret|has_recorded_in.secret]]"
+---
 ﻿---
 dv_has_:
   recorded_in: CreativeWork
@@ -68,7 +87,7 @@ is_a = `=this.dv_is_a`
 has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
-- #has_/recorded_in :: CreativeWork  
+- #has_/recorded_in : : CreativeWork  
 - has_recorded_in = `=this.dv_has_recorded_in`  
 
 The CreativeWork that captured all or part of this Event.

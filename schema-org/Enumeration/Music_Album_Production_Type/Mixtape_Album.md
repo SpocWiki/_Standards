@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Music_Album_Production_Type/Mixtape_Album.private|Mixtape_Album.private]]"
     - "[[/_personal/schema-org/Enumeration/Music_Album_Production_Type/Mixtape_Album.personal|Mixtape_Album.personal]]"
     - "[[/_secret/schema-org/Enumeration/Music_Album_Production_Type/Mixtape_Album.secret|Mixtape_Album.secret]]"
+    - "[[Mixtape_Album]]"
 dv_has_parent_class: "[[../MusicAlbumProductionType]]"
 dv_is_enum_of: "[[../MusicAlbumProductionType]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Music_Album_Production_Type/Mixtape_Album|Mixtape_Album]]"
+  - "[[Mixtape_Album]]"
   - "[[/_public/schema-org/Enumeration/Music_Album_Production_Type/Mixtape_Album.public|Mixtape_Album.public]]"
   - "[[/_internal/schema-org/Enumeration/Music_Album_Production_Type/Mixtape_Album.internal|Mixtape_Album.internal]]"
   - "[[/_protect/schema-org/Enumeration/Music_Album_Production_Type/Mixtape_Album.protect|Mixtape_Album.protect]]"

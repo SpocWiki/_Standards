@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Music_Album_Production_Type/Remix_Album.private|Remix_Album.private]]"
     - "[[/_personal/schema-org/Enumeration/Music_Album_Production_Type/Remix_Album.personal|Remix_Album.personal]]"
     - "[[/_secret/schema-org/Enumeration/Music_Album_Production_Type/Remix_Album.secret|Remix_Album.secret]]"
+    - "[[Remix_Album]]"
 dv_has_parent_class: "[[../MusicAlbumProductionType]]"
 dv_is_enum_of: "[[../MusicAlbumProductionType]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Music_Album_Production_Type/Remix_Album|Remix_Album]]"
+  - "[[Remix_Album]]"
   - "[[/_public/schema-org/Enumeration/Music_Album_Production_Type/Remix_Album.public|Remix_Album.public]]"
   - "[[/_internal/schema-org/Enumeration/Music_Album_Production_Type/Remix_Album.internal|Remix_Album.internal]]"
   - "[[/_protect/schema-org/Enumeration/Music_Album_Production_Type/Remix_Album.protect|Remix_Album.protect]]"

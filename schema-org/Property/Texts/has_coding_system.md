@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_coding_system.private|has_coding_system.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_coding_system.personal|has_coding_system.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_coding_system.secret|has_coding_system.secret]]"
+    - "[[has_coding_system]]"
 dv_has_domain: MedicalCode
 dv_has_name: has_text_of_coding_system
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_coding_system|has_coding_system]]"
+  - "[[has_coding_system]]"
   - "[[/_public/schema-org/Property/Texts/has_coding_system.public|has_coding_system.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_coding_system.internal|has_coding_system.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_coding_system.protect|has_coding_system.protect]]"

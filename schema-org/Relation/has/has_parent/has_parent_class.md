@@ -82,8 +82,8 @@ Could be implemented with dedicated #Tags,
 but that would create a Tag-Proliferation. 
 
 Use it like this: 
-- #has_/parent_/class :: [[../../../Class|Class]] 
-- has_parent_class :: [[../../../Class|Class]] 
+- #has_/parent_/class : : [[../../../Class|Class]] 
+- has_parent_class : : [[../../../Class|Class]] 
 
 [[../../../Relation|Relation]] describes that: 
 

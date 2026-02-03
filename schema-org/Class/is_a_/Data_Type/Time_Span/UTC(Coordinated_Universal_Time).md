@@ -29,9 +29,10 @@ dv_is_:
     - "[[/_private/schema-org/Class/is_a_/Data_Type/Time_of_Day/UTC(Coordinated_Universal_Time).private|UTC(Coordinated_Universal_Time).private]]"
     - "[[/_personal/schema-org/Class/is_a_/Data_Type/Time_of_Day/UTC(Coordinated_Universal_Time).personal|UTC(Coordinated_Universal_Time).personal]]"
     - "[[/_secret/schema-org/Class/is_a_/Data_Type/Time_of_Day/UTC(Coordinated_Universal_Time).secret|UTC(Coordinated_Universal_Time).secret]]"
+    - "[[UTC(Coordinated_Universal_Time)]]"
 dv_is_same_as:
   - "[[../../../../../WikiData/WD~Coordinated_Universal_Time,1536|WD~Coordinated_Universal_Time,1536]]"
-  - "[[UTC(Coordinated_Universal_Time)|UTC(Coordinated_Universal_Time)]]"
+  - "[[UTC(Coordinated_Universal_Time)]]"
   - "[[/_public/schema-org/Class/is_a_/Data_Type/Time_of_Day/UTC(Coordinated_Universal_Time).public|UTC(Coordinated_Universal_Time).public]]"
   - "[[/_internal/schema-org/Class/is_a_/Data_Type/Time_of_Day/UTC(Coordinated_Universal_Time).internal|UTC(Coordinated_Universal_Time).internal]]"
   - "[[/_protect/schema-org/Class/is_a_/Data_Type/Time_of_Day/UTC(Coordinated_Universal_Time).protect|UTC(Coordinated_Universal_Time).protect]]"

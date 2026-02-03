@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Scheduled.private|Event_Scheduled.private]]"
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Scheduled.personal|Event_Scheduled.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Scheduled.secret|Event_Scheduled.secret]]"
+    - "[[Event_Scheduled]]"
 dv_has_parent_class: "[[../EventStatusType]]"
 dv_is_enum_of: "[[../EventStatusType]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Scheduled|Event_Scheduled]]"
+  - "[[Event_Scheduled]]"
   - "[[/_public/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Scheduled.public|Event_Scheduled.public]]"
   - "[[/_internal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Scheduled.internal|Event_Scheduled.internal]]"
   - "[[/_protect/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Scheduled.protect|Event_Scheduled.protect]]"

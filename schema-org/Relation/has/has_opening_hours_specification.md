@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_opening_hours_specification]]"
+    - "[[/_public/schema-org/Relation/has/has_opening_hours_specification.public|has_opening_hours_specification.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_opening_hours_specification.internal|has_opening_hours_specification.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_opening_hours_specification.protect|has_opening_hours_specification.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_opening_hours_specification.private|has_opening_hours_specification.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_opening_hours_specification.personal|has_opening_hours_specification.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_opening_hours_specification.secret|has_opening_hours_specification.secret]]"
+dv_is_same_as:
+  - "[[has_opening_hours_specification]]"
+  - "[[/_public/schema-org/Relation/has/has_opening_hours_specification.public|has_opening_hours_specification.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_opening_hours_specification.internal|has_opening_hours_specification.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_opening_hours_specification.protect|has_opening_hours_specification.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_opening_hours_specification.private|has_opening_hours_specification.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_opening_hours_specification.personal|has_opening_hours_specification.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_opening_hours_specification.secret|has_opening_hours_specification.secret]]"
+---
 ﻿---
 dv_has_:
   opening_hours_specification: OpeningHoursSpecification
@@ -88,7 +107,7 @@ ValidFrom = `=this.dv_ValidFrom`
 ValidThrough = `=this.dv_ValidThrough` 
 
 Use it like this: 
-- #has_/opening_hours_specification :: OpeningHoursSpecification  
+- #has_/opening_hours_specification : : OpeningHoursSpecification  
 - has_opening_hours_specification = `=this.dv_has_opening_hours_specification`  
 - is_opening_hours_specification_of : : `=this.dv_has_domain` 
 - #is_/opening_hours_specification_of : : `=this.dv_has_domain`

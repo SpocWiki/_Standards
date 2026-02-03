@@ -71,8 +71,8 @@ is_a = `=this.dv_is_a`
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #is_/spoken_by_character :: Organization, Person  
-- is_/spoken_by_character :: Organization, Person  
+- #is_/spoken_by_character : : Organization, Person  
+- is_/spoken_by_character : : Organization, Person  
 
 The (e.g. fictional) character, Person or Organization to whom the quotation is attributed within the containing CreativeWork.
 

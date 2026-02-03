@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_recipe_cuisine.private|has_recipe_cuisine.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_recipe_cuisine.personal|has_recipe_cuisine.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_recipe_cuisine.secret|has_recipe_cuisine.secret]]"
+    - "[[has_recipe_cuisine]]"
 dv_has_domain: Recipe
 dv_has_name: has_text_of_recipe_cuisine
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_recipe_cuisine|has_recipe_cuisine]]"
+  - "[[has_recipe_cuisine]]"
   - "[[/_public/schema-org/Property/Texts/has_recipe_cuisine.public|has_recipe_cuisine.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_recipe_cuisine.internal|has_recipe_cuisine.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_recipe_cuisine.protect|has_recipe_cuisine.protect]]"

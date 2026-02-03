@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Music_Album_Production_Type/Spoken_Word_Album.private|Spoken_Word_Album.private]]"
     - "[[/_personal/schema-org/Enumeration/Music_Album_Production_Type/Spoken_Word_Album.personal|Spoken_Word_Album.personal]]"
     - "[[/_secret/schema-org/Enumeration/Music_Album_Production_Type/Spoken_Word_Album.secret|Spoken_Word_Album.secret]]"
+    - "[[Spoken_Word_Album]]"
 dv_has_parent_class: "[[../MusicAlbumProductionType]]"
 dv_is_enum_of: "[[../MusicAlbumProductionType]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Music_Album_Production_Type/Spoken_Word_Album|Spoken_Word_Album]]"
+  - "[[Spoken_Word_Album]]"
   - "[[/_public/schema-org/Enumeration/Music_Album_Production_Type/Spoken_Word_Album.public|Spoken_Word_Album.public]]"
   - "[[/_internal/schema-org/Enumeration/Music_Album_Production_Type/Spoken_Word_Album.internal|Spoken_Word_Album.internal]]"
   - "[[/_protect/schema-org/Enumeration/Music_Album_Production_Type/Spoken_Word_Album.protect|Spoken_Word_Album.protect]]"

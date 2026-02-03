@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_sd_publisher]]"
+    - "[[/_public/schema-org/Relation/has/has_sd_publisher.public|has_sd_publisher.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_sd_publisher.internal|has_sd_publisher.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_sd_publisher.protect|has_sd_publisher.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_sd_publisher.private|has_sd_publisher.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_sd_publisher.personal|has_sd_publisher.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_sd_publisher.secret|has_sd_publisher.secret]]"
+dv_is_same_as:
+  - "[[has_sd_publisher]]"
+  - "[[/_public/schema-org/Relation/has/has_sd_publisher.public|has_sd_publisher.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_sd_publisher.internal|has_sd_publisher.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_sd_publisher.protect|has_sd_publisher.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_sd_publisher.private|has_sd_publisher.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_sd_publisher.personal|has_sd_publisher.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_sd_publisher.secret|has_sd_publisher.secret]]"
+---
 ﻿---
 dv_has_:
   sd_publisher: Organization, Person
@@ -69,7 +88,7 @@ is_a = `=this.dv_is_a`
 has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
-- #has_/sd_publisher :: Organization, Person  
+- #has_/sd_publisher : : Organization, Person  
 - has_sd_publisher = `=this.dv_has_sd_publisher`  
 - is_sd_publisher_of : : `=this.dv_has_domain` 
 - #is_/sd_publisher_of : : `=this.dv_has_domain`

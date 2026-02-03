@@ -10,26 +10,53 @@ cssclasses:
   - Predicate
   - Quantity
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - carbohydrate-content
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_carbohydrate-content
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Quantity
 title: has_carbohydrate-content
 type: Predi_Quantity
+dv_has_:
+  unit_for_:
+    default: "[[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Gram|Unit~Gram]]"
+  domain: "[[../../Class/is_a_/Intangible/Structured_Value/Nutrition_Information|Nutrition_Information]]"
+  name: has_value_for_carbohydrate
+  range: "[[../../../Dimension/Mass|Mass]]"
+dv_is_:
+  same_as:
+    - "[[has_value_for_carbohydrate]]"
+    - "[[/_public/schema-org/Property/has_value_for/has_value_for_carbohydrate.public|has_value_for_carbohydrate.public]]"
+    - "[[/_internal/schema-org/Property/has_value_for/has_value_for_carbohydrate.internal|has_value_for_carbohydrate.internal]]"
+    - "[[/_protect/schema-org/Property/has_value_for/has_value_for_carbohydrate.protect|has_value_for_carbohydrate.protect]]"
+    - "[[/_private/schema-org/Property/has_value_for/has_value_for_carbohydrate.private|has_value_for_carbohydrate.private]]"
+    - "[[/_personal/schema-org/Property/has_value_for/has_value_for_carbohydrate.personal|has_value_for_carbohydrate.personal]]"
+    - "[[/_secret/schema-org/Property/has_value_for/has_value_for_carbohydrate.secret|has_value_for_carbohydrate.secret]]"
+dv_has_unit_for_default: "[[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Gram|Unit~Gram]]"
+dv_has_domain: "[[../../Class/is_a_/Intangible/Structured_Value/Nutrition_Information|Nutrition_Information]]"
+dv_has_name: has_value_for_carbohydrate
+dv_has_range: "[[../../../Dimension/Mass|Mass]]"
+dv_is_same_as:
+  - "[[has_value_for_carbohydrate]]"
+  - "[[/_public/schema-org/Property/has_value_for/has_value_for_carbohydrate.public|has_value_for_carbohydrate.public]]"
+  - "[[/_internal/schema-org/Property/has_value_for/has_value_for_carbohydrate.internal|has_value_for_carbohydrate.internal]]"
+  - "[[/_protect/schema-org/Property/has_value_for/has_value_for_carbohydrate.protect|has_value_for_carbohydrate.protect]]"
+  - "[[/_private/schema-org/Property/has_value_for/has_value_for_carbohydrate.private|has_value_for_carbohydrate.private]]"
+  - "[[/_personal/schema-org/Property/has_value_for/has_value_for_carbohydrate.personal|has_value_for_carbohydrate.personal]]"
+  - "[[/_secret/schema-org/Property/has_value_for/has_value_for_carbohydrate.secret|has_value_for_carbohydrate.secret]]"
 ---
 
 # [[has_value_for_carbohydrate]] 
 
-#has_/unit_for_/default :: [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Gram|Unit~Gram]] 
+has_unit_for_default = `=this.dv_has_unit_for_default` 
 
 The default [[../../../Dimension/Unit_of_Measure|Unit_of_Measure]]  are [[../../../Dimension/Unit_of_Measure/SI-Unit/Unit~Gram|Unit~Gram]]s, unless specified different, either 
 - in the XPath/JsonPath 
@@ -38,17 +65,17 @@ The default [[../../../Dimension/Unit_of_Measure|Unit_of_Measure]]  are [[../../
 Predicate to describe the Quantity of NutritionInformation.
 
 Use it like this: 
-- #has_/value_for_/carbohydrate :: Mass   
-- #has_/value_for_/carbohydrate_/g :: Mass   
-- has_value_for_carbohydrate :: Mass   
+- #has_/value_for_/carbohydrate : : Mass   
+- #has_/value_for_/carbohydrate_/g : : Mass   
+- has_value_for_carbohydrate : : Mass   
 
 The carbohydrates amount in grams.
 
 Predicate describes that: 
 
-#has_/domain :: [[../../Class/is_a_/Intangible/Structured_Value/Nutrition_Information|Nutrition_Information]] 
-(has_/name :: has_value_for_carbohydrate )
-(has_/range :: [[../../../Dimension/Mass|Mass]] )
+has_domain = `=this.dv_has_domain` 
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

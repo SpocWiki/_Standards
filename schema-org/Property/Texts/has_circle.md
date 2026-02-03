@@ -42,11 +42,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_circle.private|has_circle.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_circle.personal|has_circle.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_circle.secret|has_circle.secret]]"
+    - "[[has_circle]]"
 dv_has_domain: GeoShape
 dv_has_name: has_text_of_circle
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_circle|has_circle]]"
+  - "[[has_circle]]"
   - "[[/_public/schema-org/Property/Texts/has_circle.public|has_circle.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_circle.internal|has_circle.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_circle.protect|has_circle.protect]]"

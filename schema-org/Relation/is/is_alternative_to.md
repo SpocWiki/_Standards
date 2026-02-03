@@ -9,37 +9,63 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - alternative
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_alternative_to
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: is_alternative_to
 type: Predi_Relation
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[is_alternative_to]]"
+    - "[[/_public/schema-org/Relation/is/is_alternative_to.public|is_alternative_to.public]]"
+    - "[[/_internal/schema-org/Relation/is/is_alternative_to.internal|is_alternative_to.internal]]"
+    - "[[/_protect/schema-org/Relation/is/is_alternative_to.protect|is_alternative_to.protect]]"
+    - "[[/_private/schema-org/Relation/is/is_alternative_to.private|is_alternative_to.private]]"
+    - "[[/_personal/schema-org/Relation/is/is_alternative_to.personal|is_alternative_to.personal]]"
+    - "[[/_secret/schema-org/Relation/is/is_alternative_to.secret|is_alternative_to.secret]]"
+dv_has_:
+  domain: Gene
+  name: is_alternative_to
+  range: Gene
+dv_is_part_of: "pending:"
+dv_has_domain: Gene
+dv_has_name: is_alternative_to
+dv_has_range: Gene
+dv_is_same_as:
+  - "[[is_alternative_to]]"
+  - "[[/_public/schema-org/Relation/is/is_alternative_to.public|is_alternative_to.public]]"
+  - "[[/_internal/schema-org/Relation/is/is_alternative_to.internal|is_alternative_to.internal]]"
+  - "[[/_protect/schema-org/Relation/is/is_alternative_to.protect|is_alternative_to.protect]]"
+  - "[[/_private/schema-org/Relation/is/is_alternative_to.private|is_alternative_to.private]]"
+  - "[[/_personal/schema-org/Relation/is/is_alternative_to.personal|is_alternative_to.personal]]"
+  - "[[/_secret/schema-org/Relation/is/is_alternative_to.secret|is_alternative_to.secret]]"
 ---
 
 Another gene which is a variation of this one.
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #is_/alternative_to :: Gene  
-- is_alternative_to :: Gene  
+- #is_/alternative_to : : Gene  
+- is_alternative_to : : Gene  
 
 Relation describes that: 
 
-#has_/domain  :: Gene  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: is_alternative_to )
-(has_/range :: Gene )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

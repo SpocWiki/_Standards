@@ -41,11 +41,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_location/has_location_job.private|has_location_job.private]]"
     - "[[/_personal/schema-org/Property/has_location/has_location_job.personal|has_location_job.personal]]"
     - "[[/_secret/schema-org/Property/has_location/has_location_job.secret|has_location_job.secret]]"
+    - "[[has_location_job]]"
 dv_has_domain: JobPosting
 dv_has_name: has_location_job
 dv_has_range: Place
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_location/has_location_job|has_location_job]]"
+  - "[[has_location_job]]"
   - "[[/_public/schema-org/Property/has_location/has_location_job.public|has_location_job.public]]"
   - "[[/_internal/schema-org/Property/has_location/has_location_job.internal|has_location_job.internal]]"
   - "[[/_protect/schema-org/Property/has_location/has_location_job.protect|has_location_job.protect]]"

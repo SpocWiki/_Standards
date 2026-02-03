@@ -42,11 +42,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_name/has_name_display_broadcast.private|has_name_display_broadcast.private]]"
     - "[[/_personal/schema-org/Property/has_name/has_name_display_broadcast.personal|has_name_display_broadcast.personal]]"
     - "[[/_secret/schema-org/Property/has_name/has_name_display_broadcast.secret|has_name_display_broadcast.secret]]"
+    - "[[has_name_display_broadcast]]"
 dv_has_domain: BroadcastService
 dv_has_name: has_name_display_broadcast
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_name/has_name_display_broadcast|has_name_display_broadcast]]"
+  - "[[has_name_display_broadcast]]"
   - "[[/_public/schema-org/Property/has_name/has_name_display_broadcast.public|has_name_display_broadcast.public]]"
   - "[[/_internal/schema-org/Property/has_name/has_name_display_broadcast.internal|has_name_display_broadcast.internal]]"
   - "[[/_protect/schema-org/Property/has_name/has_name_display_broadcast.protect|has_name_display_broadcast.protect]]"

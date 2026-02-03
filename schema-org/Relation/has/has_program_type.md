@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_program_type]]"
+    - "[[/_public/schema-org/Relation/has/has_program_type.public|has_program_type.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_program_type.internal|has_program_type.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_program_type.protect|has_program_type.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_program_type.private|has_program_type.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_program_type.personal|has_program_type.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_program_type.secret|has_program_type.secret]]"
+dv_is_same_as:
+  - "[[has_program_type]]"
+  - "[[/_public/schema-org/Relation/has/has_program_type.public|has_program_type.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_program_type.internal|has_program_type.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_program_type.protect|has_program_type.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_program_type.private|has_program_type.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_program_type.personal|has_program_type.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_program_type.secret|has_program_type.secret]]"
+---
 ﻿---
 dv_has_:
   program_type: DefinedTerm, Text
@@ -88,7 +107,7 @@ is_a = `=this.dv_is_a`
 has_inverse = `=this.dv_has_inverse`
 
 Use it like this: 
-- #has_/program_type :: DefinedTerm, Text  
+- #has_/program_type : : DefinedTerm, Text  
 - has_program_type = `=this.dv_has_program_type`  
 - is_program_type_of : : `=this.dv_has_domain` 
 - #is_/program_type_of : : `=this.dv_has_domain`

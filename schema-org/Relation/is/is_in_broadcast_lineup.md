@@ -10,43 +10,68 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - in
   - broadcast
   - lineup
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_in_broadcast_lineup
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: is_in_broadcast_lineup
 type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_:
+  domain: BroadcastChannel
+  name: is_in_broadcast_lineup
+  range: CableOrSatelliteService
+dv_is_:
+  same_as:
+    - "[[is_in_broadcast_lineup]]"
+    - "[[/_public/schema-org/Relation/is/is_in_broadcast_lineup.public|is_in_broadcast_lineup.public]]"
+    - "[[/_internal/schema-org/Relation/is/is_in_broadcast_lineup.internal|is_in_broadcast_lineup.internal]]"
+    - "[[/_protect/schema-org/Relation/is/is_in_broadcast_lineup.protect|is_in_broadcast_lineup.protect]]"
+    - "[[/_private/schema-org/Relation/is/is_in_broadcast_lineup.private|is_in_broadcast_lineup.private]]"
+    - "[[/_personal/schema-org/Relation/is/is_in_broadcast_lineup.personal|is_in_broadcast_lineup.personal]]"
+    - "[[/_secret/schema-org/Relation/is/is_in_broadcast_lineup.secret|is_in_broadcast_lineup.secret]]"
+dv_has_domain: BroadcastChannel
+dv_has_name: is_in_broadcast_lineup
+dv_has_range: CableOrSatelliteService
+dv_is_same_as:
+  - "[[is_in_broadcast_lineup]]"
+  - "[[/_public/schema-org/Relation/is/is_in_broadcast_lineup.public|is_in_broadcast_lineup.public]]"
+  - "[[/_internal/schema-org/Relation/is/is_in_broadcast_lineup.internal|is_in_broadcast_lineup.internal]]"
+  - "[[/_protect/schema-org/Relation/is/is_in_broadcast_lineup.protect|is_in_broadcast_lineup.protect]]"
+  - "[[/_private/schema-org/Relation/is/is_in_broadcast_lineup.private|is_in_broadcast_lineup.private]]"
+  - "[[/_personal/schema-org/Relation/is/is_in_broadcast_lineup.personal|is_in_broadcast_lineup.personal]]"
+  - "[[/_secret/schema-org/Relation/is/is_in_broadcast_lineup.secret|is_in_broadcast_lineup.secret]]"
 ---
 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
 #has_/inverse :: 
 
 Use it like this: 
-- #is_/in_broadcast_lineup :: CableOrSatelliteService  
-- is_in_broadcast_lineup :: CableOrSatelliteService  
+- #is_/in_broadcast_lineup : : CableOrSatelliteService  
+- is_in_broadcast_lineup : : CableOrSatelliteService  
 
 The CableOrSatelliteService offering the channel.
 
 Relation describes that: 
 
-#has_/domain  :: BroadcastChannel  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: is_in_broadcast_lineup )
-(has_/range :: CableOrSatelliteService )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

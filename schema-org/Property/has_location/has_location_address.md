@@ -26,9 +26,16 @@ tags:
 title: has_location_address
 type: Pred_geo
 dv_has_:
-  domain: ["[[../../Class/is_a_/Intangible/Structured_Value/Geo_Coordinates|Geo_Coordinates]]", "[[../../Class/is_a_/Intangible/Structured_Value/Geo_Shape|GeoShape]]", "[[../../../Society/Agent/Community/Organization|Organization]]", "[[../../../Society/Agent/Person|Person]]", "[[../../../Earth/Geography/Place|Place]]"]
+  domain:
+    - "[[../../Class/is_a_/Intangible/Structured_Value/Geo_Coordinates|Geo_Coordinates]]"
+    - "[[../../Class/is_a_/Intangible/Structured_Value/Geo_Shape|GeoShape]]"
+    - "[[../../../Society/Agent/Community/Organization|Organization]]"
+    - "[[../../../Society/Agent/Person|Person]]"
+    - "[[../../../Earth/Geography/Place|Place]]"
   name: has_location_address
-  range: ["[[../../Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address|Postal_Address]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
+  range:
+    - "[[../../Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address|Postal_Address]]"
+    - "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Property/has_location/has_location_address|has_location_address]]"
@@ -38,11 +45,19 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_location/has_location_address.private|has_location_address.private]]"
     - "[[/_personal/schema-org/Property/has_location/has_location_address.personal|has_location_address.personal]]"
     - "[[/_secret/schema-org/Property/has_location/has_location_address.secret|has_location_address.secret]]"
-dv_has_domain: ["[[../../Class/is_a_/Intangible/Structured_Value/Geo_Coordinates|Geo_Coordinates]]", "[[../../Class/is_a_/Intangible/Structured_Value/Geo_Shape|GeoShape]]", "[[../../../Society/Agent/Community/Organization|Organization]]", "[[../../../Society/Agent/Person|Person]]", "[[../../../Earth/Geography/Place|Place]]"]
+    - "[[has_location_address]]"
+dv_has_domain:
+  - "[[../../Class/is_a_/Intangible/Structured_Value/Geo_Coordinates|Geo_Coordinates]]"
+  - "[[../../Class/is_a_/Intangible/Structured_Value/Geo_Shape|GeoShape]]"
+  - "[[../../../Society/Agent/Community/Organization|Organization]]"
+  - "[[../../../Society/Agent/Person|Person]]"
+  - "[[../../../Earth/Geography/Place|Place]]"
 dv_has_name: has_location_address
-dv_has_range: ["[[../../Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address|Postal_Address]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
+dv_has_range:
+  - "[[../../Class/is_a_/Intangible/Structured_Value/Contact_Point/Postal_Address|Postal_Address]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_location/has_location_address|has_location_address]]"
+  - "[[has_location_address]]"
   - "[[/_public/schema-org/Property/has_location/has_location_address.public|has_location_address.public]]"
   - "[[/_internal/schema-org/Property/has_location/has_location_address.internal|has_location_address.internal]]"
   - "[[/_protect/schema-org/Property/has_location/has_location_address.protect|has_location_address.protect]]"

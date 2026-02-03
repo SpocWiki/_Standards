@@ -1,60 +1,61 @@
 ---
 aliases:
-- defined-term
-- defined_term
-- DefinedTerm
-- is_a_defined_term
-- defined term
-- Defined_Term
-- Defined Term
+  - defined-term
+  - defined_term
+  - DefinedTerm
+  - is_a_defined_term
+  - defined term
+  - Defined_Term
+  - Defined Term
 confidential: public
 cssclasses:
-- Type
+  - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
-- defined_term
-layout: ''
+  - defined_term
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_a_defined_term Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
-- class/Class
-- schema-org/Class
+  - class/Class
+  - schema-org/Class
 title: is_a_defined_term Class
 type: Type
 dv_is_:
   parent_class: "[[../Intangible]]"
   part_of: https://pending.schema.org
   same_as:
-  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Defined_Term|Defined_Term]]"
-  - "[[/_public/schema-org/Class/is_a_/Intangible/Defined_Term.public|Defined_Term.public]]"
-  - "[[/_internal/schema-org/Class/is_a_/Intangible/Defined_Term.internal|Defined_Term.internal]]"
-  - "[[/_protect/schema-org/Class/is_a_/Intangible/Defined_Term.protect|Defined_Term.protect]]"
-  - "[[/_private/schema-org/Class/is_a_/Intangible/Defined_Term.private|Defined_Term.private]]"
-  - "[[/_personal/schema-org/Class/is_a_/Intangible/Defined_Term.personal|Defined_Term.personal]]"
-  - "[[/_secret/schema-org/Class/is_a_/Intangible/Defined_Term.secret|Defined_Term.secret]]"
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Defined_Term|Defined_Term]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Defined_Term.public|Defined_Term.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Defined_Term.internal|Defined_Term.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Defined_Term.protect|Defined_Term.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Defined_Term.private|Defined_Term.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Defined_Term.personal|Defined_Term.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Defined_Term.secret|Defined_Term.secret]]"
+    - "[[Defined_Term]]"
 dv_has_:
   child_class:
-  - "[[defined_term/category_code|CategoryCode]]"
+    - "[[defined_term/category_code|CategoryCode]]"
   properties:
-  - "[[../../../Property/has_url_for/has_url_for_additional_type|additionalType]]"
-  - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
-  - "[[../../../Property/Texts/has_description|description]]"
-  - "[[../../../Property/Texts/has_description/has_description_disambiguating|disambiguatingDescription]]"
-  - "[[../../../Relation/has/has_identifier|identifier]]"
-  - "[[../../../Relation/has/has_image|image]]"
-  - "[[../../../Relation/is/is_in_defined_term_set|inDefinedTermSet]]"
-  - "[[../../../Relation/is/is_main_entity_of_page|mainEntityOfPage]]"
-  - "[[../../../Property/has_name|has_name]]"
-  - "[[../../../Relation/has/has_potential_action|potentialAction]]"
-  - "[[../../../Relation/is_same_as|sameAs]]"
-  - "[[../../../Relation/is/is_subject_of|subjectOf]]"
-  - "[[term_code|term_code]]"
-  - "[[../Property/has_url_for/has_url|has_url]]"
+    - "[[../../../Property/has_url_for/has_url_for_additional_type|additionalType]]"
+    - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
+    - "[[../../../Property/Texts/has_description|description]]"
+    - "[[../../../Property/Texts/has_description/has_description_disambiguating|disambiguatingDescription]]"
+    - "[[../../../Relation/has/has_identifier|identifier]]"
+    - "[[../../../Relation/has/has_image|image]]"
+    - "[[../../../Relation/is/is_in_defined_term_set|inDefinedTermSet]]"
+    - "[[../../../Relation/is/is_main_entity_of_page|mainEntityOfPage]]"
+    - "[[../../../Property/has_name|has_name]]"
+    - "[[../../../Relation/has/has_potential_action|potentialAction]]"
+    - "[[../../../Relation/is_same_as|sameAs]]"
+    - "[[../../../Relation/is/is_subject_of|subjectOf]]"
+    - "[[term_code|term_code]]"
+    - "[[../Property/has_url_for/has_url|has_url]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class:
   - "[[../Intangible]]"
@@ -76,7 +77,7 @@ dv_has_properties:
   - "[[term_code|term_code]]"
   - "[[../Property/has_url_for/has_url|has_url]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Defined_Term|Defined_Term]]"
+  - "[[Defined_Term]]"
   - "[[/_public/schema-org/Class/is_a_/Intangible/Defined_Term.public|Defined_Term.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Intangible/Defined_Term.internal|Defined_Term.internal]]"
   - "[[/_protect/schema-org/Class/is_a_/Intangible/Defined_Term.protect|Defined_Term.protect]]"

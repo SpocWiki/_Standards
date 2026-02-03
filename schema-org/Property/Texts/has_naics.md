@@ -42,11 +42,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_naics.private|has_naics.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_naics.personal|has_naics.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_naics.secret|has_naics.secret]]"
+    - "[[has_naics]]"
 dv_has_domain: Organization, Person
 dv_has_name: has_text_of_naics
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_naics|has_naics]]"
+  - "[[has_naics]]"
   - "[[/_public/schema-org/Property/Texts/has_naics.public|has_naics.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_naics.internal|has_naics.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_naics.protect|has_naics.protect]]"

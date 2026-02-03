@@ -42,11 +42,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_procedure.private|has_procedure.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_procedure.personal|has_procedure.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_procedure.secret|has_procedure.secret]]"
+    - "[[has_procedure]]"
 dv_has_domain: MedicalDevice
 dv_has_name: has_text_of_procedure
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_procedure|has_procedure]]"
+  - "[[has_procedure]]"
   - "[[/_public/schema-org/Property/Texts/has_procedure.public|has_procedure.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_procedure.internal|has_procedure.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_procedure.protect|has_procedure.protect]]"

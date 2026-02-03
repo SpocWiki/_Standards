@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled.private|Reservation_Cancelled.private]]"
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled.personal|Reservation_Cancelled.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled.secret|Reservation_Cancelled.secret]]"
+    - "[[Reservation_Cancelled]]"
 dv_has_parent_class: "[[../ReservationStatusType]]"
 dv_is_enum_of: "[[../ReservationStatusType]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled|Reservation_Cancelled]]"
+  - "[[Reservation_Cancelled]]"
   - "[[/_public/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled.public|Reservation_Cancelled.public]]"
   - "[[/_internal/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled.internal|Reservation_Cancelled.internal]]"
   - "[[/_protect/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled.protect|Reservation_Cancelled.protect]]"

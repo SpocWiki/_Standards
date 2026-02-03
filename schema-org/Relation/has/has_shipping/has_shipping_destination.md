@@ -65,7 +65,7 @@ is_a = `=this.dv_is_a`
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/shipping_destination :: DefinedRegion  
+- #has_/shipping_destination : : DefinedRegion  
 - has_shipping_destination = `=this.dv_has_shipping_destination`  
 
 indicates (possibly multiple) shipping destinations. These can be defined in several ways, e.g. postalCode ranges.

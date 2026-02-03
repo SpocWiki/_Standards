@@ -41,11 +41,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_url_for/has_url_for_label_details.private|has_url_for_label_details.private]]"
     - "[[/_personal/schema-org/Property/has_url_for/has_url_for_label_details.personal|has_url_for_label_details.personal]]"
     - "[[/_secret/schema-org/Property/has_url_for/has_url_for_label_details.secret|has_url_for_label_details.secret]]"
+    - "[[has_url_for_label_details]]"
 dv_has_domain: Drug
 dv_has_name: has_url_for_label_details
 dv_has_range: URL
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_url_for/has_url_for_label_details|has_url_for_label_details]]"
+  - "[[has_url_for_label_details]]"
   - "[[/_public/schema-org/Property/has_url_for/has_url_for_label_details.public|has_url_for_label_details.public]]"
   - "[[/_internal/schema-org/Property/has_url_for/has_url_for_label_details.internal|has_url_for_label_details.internal]]"
   - "[[/_protect/schema-org/Property/has_url_for/has_url_for_label_details.protect|has_url_for_label_details.protect]]"

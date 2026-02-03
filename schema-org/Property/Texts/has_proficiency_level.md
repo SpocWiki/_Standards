@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_proficiency_level.private|has_proficiency_level.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_proficiency_level.personal|has_proficiency_level.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_proficiency_level.secret|has_proficiency_level.secret]]"
+    - "[[has_proficiency_level]]"
 dv_has_domain: TechArticle
 dv_has_name: has_text_of_proficiency_level
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_proficiency_level|has_proficiency_level]]"
+  - "[[has_proficiency_level]]"
   - "[[/_public/schema-org/Property/Texts/has_proficiency_level.public|has_proficiency_level.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_proficiency_level.internal|has_proficiency_level.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_proficiency_level.protect|has_proficiency_level.protect]]"

@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Book_Format_Type/E_Book.private|E_Book.private]]"
     - "[[/_personal/schema-org/Enumeration/Book_Format_Type/E_Book.personal|E_Book.personal]]"
     - "[[/_secret/schema-org/Enumeration/Book_Format_Type/E_Book.secret|E_Book.secret]]"
+    - "[[E_Book]]"
 dv_has_parent_class: "[[../BookFormatType]]"
 dv_is_enum_of: "[[../BookFormatType]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Book_Format_Type/E_Book|E_Book]]"
+  - "[[E_Book]]"
   - "[[/_public/schema-org/Enumeration/Book_Format_Type/E_Book.public|E_Book.public]]"
   - "[[/_internal/schema-org/Enumeration/Book_Format_Type/E_Book.internal|E_Book.internal]]"
   - "[[/_protect/schema-org/Enumeration/Book_Format_Type/E_Book.protect|E_Book.protect]]"

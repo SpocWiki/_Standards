@@ -42,11 +42,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_location/has_location_contained_in.private|has_location_contained_in.private]]"
     - "[[/_personal/schema-org/Property/has_location/has_location_contained_in.personal|has_location_contained_in.personal]]"
     - "[[/_secret/schema-org/Property/has_location/has_location_contained_in.secret|has_location_contained_in.secret]]"
+    - "[[has_location_contained_in]]"
 dv_has_domain: Place
 dv_has_name: has_location_contained_in
 dv_has_range: Place
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_location/has_location_contained_in|has_location_contained_in]]"
+  - "[[has_location_contained_in]]"
   - "[[/_public/schema-org/Property/has_location/has_location_contained_in.public|has_location_contained_in.public]]"
   - "[[/_internal/schema-org/Property/has_location/has_location_contained_in.internal|has_location_contained_in.internal]]"
   - "[[/_protect/schema-org/Property/has_location/has_location_contained_in.protect|has_location_contained_in.protect]]"

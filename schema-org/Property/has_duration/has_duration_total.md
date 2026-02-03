@@ -25,11 +25,14 @@ tags:
 title: has_duration_total
 type: Predi_Duration
 dv_has_duration_total: P#Y#M#W#DT#H#M#s.fff
-dv_domain: ["[[../../../Society/Communication/Media/Creative_Work/How_to|How_To]]", "[[../../../Society/Communication/Media/Creative_Work/How_to/How_to_Direction|How_to_Direction]]"]
+dv_domain:
+  - "[[../../../Society/Communication/Media/Creative_Work/How_to|How_To]]"
+  - "[[../../../Society/Communication/Media/Creative_Work/How_to/How_to_Direction|How_to_Direction]]"
 dv_has_:
   name: has_duration_total
   duration_:
     total: P#Y#M#W#DT#H#M#s.fff
+  parts: "[[../has_duration]]"
 dv_range: "[[../../Predicate/Quantity/Duration]]"
 dv_is_:
   same_as:
@@ -40,21 +43,25 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_duration_of/has_duration_total.private|has_duration_total.private]]"
     - "[[/_personal/schema-org/Property/has_duration_of/has_duration_total.personal|has_duration_total.personal]]"
     - "[[/_secret/schema-org/Property/has_duration_of/has_duration_total.secret|has_duration_total.secret]]"
+    - "[[has_duration_total]]"
+  similar_to: "[[../has_duration]]"
 dv_has_name: has_duration_total
 dv_is_same_as:
-  - "[[has_duration_total|has_duration_total]]"
+  - "[[has_duration_total]]"
   - "[[/_public/schema-org/Property/has_duration_of/has_duration_total.public|has_duration_total.public]]"
   - "[[/_internal/schema-org/Property/has_duration_of/has_duration_total.internal|has_duration_total.internal]]"
   - "[[/_protect/schema-org/Property/has_duration_of/has_duration_total.protect|has_duration_total.protect]]"
   - "[[/_private/schema-org/Property/has_duration_of/has_duration_total.private|has_duration_total.private]]"
   - "[[/_personal/schema-org/Property/has_duration_of/has_duration_total.personal|has_duration_total.personal]]"
   - "[[/_secret/schema-org/Property/has_duration_of/has_duration_total.secret|has_duration_total.secret]]"
+dv_has_parts: "[[../has_duration]]"
+dv_is_similar_to: "[[../has_duration]]"
 ---
 
 # [[has_duration_total]] 
 
-#has_/parts :: [[../has_duration]] 
-#is_/similar_to :: [[../has_duration]]
+has_parts = `=this.dv_has_parts` 
+is_similar_to = `=this.dv_is_similar_to` 
 
 Predicate to describe the [[../../Predicate/Quantity/Duration]] of [[../../../Society/Communication/Media/Creative_Work/How_to|How_To]],  [[../../../Society/Communication/Media/Creative_Work/How_to/How_to_Direction|How_to_Direction]].
 

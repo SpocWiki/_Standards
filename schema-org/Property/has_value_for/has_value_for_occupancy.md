@@ -26,7 +26,11 @@ tags:
 title: has_occupancy
 type: Predi_Quantity
 dv_has_:
-  domain: ["[[../../../Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment|Apartment]]", "[[../../../Earth/Geography/Place/Accommodation/Room/Hotel_Room|Hotel_Room]]", "[[../../../Earth/Geography/Place/Accommodation/Single_Family_Residence|Single_Family_Residence]]", "[[../../../Earth/Geography/Place/Accommodation/Suite|Suite]]"]
+  domain:
+    - "[[../../../Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment|Apartment]]"
+    - "[[../../../Earth/Geography/Place/Accommodation/Room/Hotel_Room|Hotel_Room]]"
+    - "[[../../../Earth/Geography/Place/Accommodation/Single_Family_Residence|Single_Family_Residence]]"
+    - "[[../../../Earth/Geography/Place/Accommodation/Suite|Suite]]"
   name: has_value_for_occupancy
   range: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
 dv_is_:
@@ -38,11 +42,16 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_occupancy.private|has_value_for_occupancy.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_occupancy.personal|has_value_for_occupancy.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_occupancy.secret|has_value_for_occupancy.secret]]"
-dv_has_domain: ["[[../../../Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment|Apartment]]", "[[../../../Earth/Geography/Place/Accommodation/Room/Hotel_Room|Hotel_Room]]", "[[../../../Earth/Geography/Place/Accommodation/Single_Family_Residence|Single_Family_Residence]]", "[[../../../Earth/Geography/Place/Accommodation/Suite|Suite]]"]
+    - "[[has_value_for_occupancy]]"
+dv_has_domain:
+  - "[[../../../Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment|Apartment]]"
+  - "[[../../../Earth/Geography/Place/Accommodation/Room/Hotel_Room|Hotel_Room]]"
+  - "[[../../../Earth/Geography/Place/Accommodation/Single_Family_Residence|Single_Family_Residence]]"
+  - "[[../../../Earth/Geography/Place/Accommodation/Suite|Suite]]"
 dv_has_name: has_value_for_occupancy
 dv_has_range: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_occupancy|has_value_for_occupancy]]"
+  - "[[has_value_for_occupancy]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_occupancy.public|has_value_for_occupancy.public]]"
   - "[[/_internal/schema-org/Property/has_value_for/has_value_for_occupancy.internal|has_value_for_occupancy.internal]]"
   - "[[/_protect/schema-org/Property/has_value_for/has_value_for_occupancy.protect|has_value_for_occupancy.protect]]"

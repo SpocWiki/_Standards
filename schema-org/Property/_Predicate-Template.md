@@ -51,8 +51,9 @@ dv_is_:
     - "[[/_private/schema-org/Property/_Predicate-Template.private|_Predicate-Template.private]]"
     - "[[/_personal/schema-org/Property/_Predicate-Template.personal|_Predicate-Template.personal]]"
     - "[[/_secret/schema-org/Property/_Predicate-Template.secret|_Predicate-Template.secret]]"
+    - "[[_Predicate-Template]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/_Predicate-Template|_Predicate-Template]]"
+  - "[[_Predicate-Template]]"
   - "[[/_public/schema-org/Property/_Predicate-Template.public|_Predicate-Template.public]]"
   - "[[/_internal/schema-org/Property/_Predicate-Template.internal|_Predicate-Template.internal]]"
   - "[[/_protect/schema-org/Property/_Predicate-Template.protect|_Predicate-Template.protect]]"

@@ -42,11 +42,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_overdosage.private|has_overdosage.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_overdosage.personal|has_overdosage.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_overdosage.secret|has_overdosage.secret]]"
+    - "[[has_overdosage]]"
 dv_has_domain: Drug
 dv_has_name: has_text_of_overdosage
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_overdosage|has_overdosage]]"
+  - "[[has_overdosage]]"
   - "[[/_public/schema-org/Property/Texts/has_overdosage.public|has_overdosage.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_overdosage.internal|has_overdosage.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_overdosage.protect|has_overdosage.protect]]"

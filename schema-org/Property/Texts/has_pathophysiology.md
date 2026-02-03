@@ -42,11 +42,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_pathophysiology.private|has_pathophysiology.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_pathophysiology.personal|has_pathophysiology.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_pathophysiology.secret|has_pathophysiology.secret]]"
+    - "[[has_pathophysiology]]"
 dv_has_domain: MedicalCondition, PhysicalActivity
 dv_has_name: has_text_of_pathophysiology
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_pathophysiology|has_pathophysiology]]"
+  - "[[has_pathophysiology]]"
   - "[[/_public/schema-org/Property/Texts/has_pathophysiology.public|has_pathophysiology.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_pathophysiology.internal|has_pathophysiology.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_pathophysiology.protect|has_pathophysiology.protect]]"

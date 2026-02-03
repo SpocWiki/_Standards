@@ -65,7 +65,7 @@ is_a = `=this.dv_is_a`
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/event_schedule :: Schedule  
+- #has_/event_schedule : : Schedule  
 - has_event_schedule = `=this.dv_has_event_schedule`  
 
 Associates an [[Event]] with a [[Schedule]]. 

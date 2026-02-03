@@ -42,11 +42,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_location/has_location_that_touches.private|has_location_that_touches.private]]"
     - "[[/_personal/schema-org/Property/has_location/has_location_that_touches.personal|has_location_that_touches.personal]]"
     - "[[/_secret/schema-org/Property/has_location/has_location_that_touches.secret|has_location_that_touches.secret]]"
+    - "[[has_location_that_touches]]"
 dv_has_domain: GeospatialGeometry, Place
 dv_has_name: has_location_touches
 dv_has_range: GeospatialGeometry, Place
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_location/has_location_that_touches|has_location_that_touches]]"
+  - "[[has_location_that_touches]]"
   - "[[/_public/schema-org/Property/has_location/has_location_that_touches.public|has_location_that_touches.public]]"
   - "[[/_internal/schema-org/Property/has_location/has_location_that_touches.internal|has_location_that_touches.internal]]"
   - "[[/_protect/schema-org/Property/has_location/has_location_that_touches.protect|has_location_that_touches.protect]]"

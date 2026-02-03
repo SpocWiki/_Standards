@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_tissue_sample.private|has_tissue_sample.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_tissue_sample.personal|has_tissue_sample.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_tissue_sample.secret|has_tissue_sample.secret]]"
+    - "[[has_tissue_sample]]"
 dv_has_domain: PathologyTest
 dv_has_name: has_text_of_tissue_sample
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_tissue_sample|has_tissue_sample]]"
+  - "[[has_tissue_sample]]"
   - "[[/_public/schema-org/Property/Texts/has_tissue_sample.public|has_tissue_sample.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_tissue_sample.internal|has_tissue_sample.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_tissue_sample.protect|has_tissue_sample.protect]]"

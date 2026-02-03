@@ -8,8 +8,9 @@ dv_is_:
     - "[[/_private/schema-org/Collection/Item.private|Item.private]]"
     - "[[/_personal/schema-org/Collection/Item.personal|Item.personal]]"
     - "[[/_secret/schema-org/Collection/Item.secret|Item.secret]]"
+    - "[[Item]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Collection/Item|Item]]"
+  - "[[Item]]"
   - "[[/_public/schema-org/Collection/Item.public|Item.public]]"
   - "[[/_internal/schema-org/Collection/Item.internal|Item.internal]]"
   - "[[/_protect/schema-org/Collection/Item.protect|Item.protect]]"

@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_meal_service.private|has_meal_service.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_meal_service.personal|has_meal_service.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_meal_service.secret|has_meal_service.secret]]"
+    - "[[has_meal_service]]"
 dv_has_domain: Flight
 dv_has_name: has_text_of_meal_service
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_meal_service|has_meal_service]]"
+  - "[[has_meal_service]]"
   - "[[/_public/schema-org/Property/Texts/has_meal_service.public|has_meal_service.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_meal_service.internal|has_meal_service.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_meal_service.protect|has_meal_service.protect]]"

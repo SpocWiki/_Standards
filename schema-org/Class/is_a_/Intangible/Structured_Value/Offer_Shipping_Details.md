@@ -1,67 +1,68 @@
 ---
 aliases:
-- offer-shipping-details
-- offer_shipping_details
-- OfferShippingDetails
-- is_an_offer_shipping_details
-- Offer_Shipping_Details
-- Offer Shipping Details
+  - offer-shipping-details
+  - offer_shipping_details
+  - OfferShippingDetails
+  - is_an_offer_shipping_details
+  - Offer_Shipping_Details
+  - Offer Shipping Details
 confidential: public
 cssclasses:
-- Type
+  - Type
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
-- offer_shipping_details
-layout: ''
+  - offer_shipping_details
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_an_offer_shipping_details Class
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
-- class/Class
-- schema-org/Class
+  - class/Class
+  - schema-org/Class
 title: is_an_offer_shipping_details Class
 type: Type
 dv_is_:
   parent_class: "[[../StructuredValue]]"
   part_of: https://pending.schema.org
   same_as:
-  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Offer_Shipping_Details|Offer_Shipping_Details]]"
-  - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Offer_Shipping_Details.public|Offer_Shipping_Details.public]]"
-  - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Offer_Shipping_Details.internal|Offer_Shipping_Details.internal]]"
-  - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Offer_Shipping_Details.protect|Offer_Shipping_Details.protect]]"
-  - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Offer_Shipping_Details.private|Offer_Shipping_Details.private]]"
-  - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Offer_Shipping_Details.personal|Offer_Shipping_Details.personal]]"
-  - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Offer_Shipping_Details.secret|Offer_Shipping_Details.secret]]"
+    - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Offer_Shipping_Details|Offer_Shipping_Details]]"
+    - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Offer_Shipping_Details.public|Offer_Shipping_Details.public]]"
+    - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Offer_Shipping_Details.internal|Offer_Shipping_Details.internal]]"
+    - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Offer_Shipping_Details.protect|Offer_Shipping_Details.protect]]"
+    - "[[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Offer_Shipping_Details.private|Offer_Shipping_Details.private]]"
+    - "[[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Offer_Shipping_Details.personal|Offer_Shipping_Details.personal]]"
+    - "[[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Offer_Shipping_Details.secret|Offer_Shipping_Details.secret]]"
+    - "[[Offer_Shipping_Details]]"
 dv_has_:
   properties:
-  - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
-  - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
-  - "[[../../../../Relation/has/has_delivery/has_delivery_time|has_delivery_time]]"
-  - "[[depth|depth]]"
-  - "[[../../../../Property/Texts/has_description|has_description]]"
-  - "[[../../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
-  - "[[does_not_ship|does_not_ship]]"
-  - "[[height|height]]"
-  - "[[../../../../Relation/has/has_identifier|has_identifier]]"
-  - "[[../../../../Relation/has/has_image|has_image]]"
-  - "[[../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
-  - "[[../../../../Property/has_name|has_name]]"
-  - "[[../../../../Relation/has/has_potential_action|has_potential_action]]"
-  - "[[../../../../Relation/is_same_as|is_same_as]]"
-  - "[[../../../../Relation/has/has_shipping/has_shipping_destination|has_shipping_destination]]"
-  - "[[../../../../Property/Texts/has_shipping_label|has_shipping_label]]"
-  - "[[../../../../Relation/has/has_shipping/has_shipping_origin|has_shipping_origin]]"
-  - "[[shipping_rate|shipping_rate]]"
-  - "[[shipping_settings_link|shipping_settings_link]]"
-  - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
-  - "[[../../../../Property/Texts/has_transit_time_label|has_transit_time_label]]"
-  - "[[../../Property/has_url_for/has_url|has_url]]"
-  - "[[weight|weight]]"
-  - "[[width|width]]"
+    - "[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
+    - "[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]"
+    - "[[../../../../Relation/has/has_delivery/has_delivery_time|has_delivery_time]]"
+    - "[[depth|depth]]"
+    - "[[../../../../Property/Texts/has_description|has_description]]"
+    - "[[../../../../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
+    - "[[does_not_ship|does_not_ship]]"
+    - "[[height|height]]"
+    - "[[../../../../Relation/has/has_identifier|has_identifier]]"
+    - "[[../../../../Relation/has/has_image|has_image]]"
+    - "[[../../../../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
+    - "[[../../../../Property/has_name|has_name]]"
+    - "[[../../../../Relation/has/has_potential_action|has_potential_action]]"
+    - "[[../../../../Relation/is_same_as|is_same_as]]"
+    - "[[../../../../Relation/has/has_shipping/has_shipping_destination|has_shipping_destination]]"
+    - "[[../../../../Property/Texts/has_shipping_label|has_shipping_label]]"
+    - "[[../../../../Relation/has/has_shipping/has_shipping_origin|has_shipping_origin]]"
+    - "[[shipping_rate|shipping_rate]]"
+    - "[[shipping_settings_link|shipping_settings_link]]"
+    - "[[../../../../Relation/is/is_subject_of|is_subject_of]]"
+    - "[[../../../../Property/Texts/has_transit_time_label|has_transit_time_label]]"
+    - "[[../../Property/has_url_for/has_url|has_url]]"
+    - "[[weight|weight]]"
+    - "[[width|width]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class:
   - "[[../structured_value|../structured_value]]"
@@ -91,7 +92,7 @@ dv_has_properties:
   - "[[weight|weight]]"
   - "[[width|width]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Offer_Shipping_Details|Offer_Shipping_Details]]"
+  - "[[Offer_Shipping_Details]]"
   - "[[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Offer_Shipping_Details.public|Offer_Shipping_Details.public]]"
   - "[[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Offer_Shipping_Details.internal|Offer_Shipping_Details.internal]]"
   - "[[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Offer_Shipping_Details.protect|Offer_Shipping_Details.protect]]"

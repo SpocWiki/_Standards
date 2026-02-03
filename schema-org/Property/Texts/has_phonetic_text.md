@@ -11,40 +11,66 @@ cssclasses:
   - Predicate
   - Text
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
   - phonetic
   - text
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_text_of_phonetic_text
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Text
 title: has_text_of_phonetic_text
 type: Pred_Text
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[has_phonetic_text]]"
+    - "[[/_public/schema-org/Property/Texts/has_phonetic_text.public|has_phonetic_text.public]]"
+    - "[[/_internal/schema-org/Property/Texts/has_phonetic_text.internal|has_phonetic_text.internal]]"
+    - "[[/_protect/schema-org/Property/Texts/has_phonetic_text.protect|has_phonetic_text.protect]]"
+    - "[[/_private/schema-org/Property/Texts/has_phonetic_text.private|has_phonetic_text.private]]"
+    - "[[/_personal/schema-org/Property/Texts/has_phonetic_text.personal|has_phonetic_text.personal]]"
+    - "[[/_secret/schema-org/Property/Texts/has_phonetic_text.secret|has_phonetic_text.secret]]"
+dv_has_:
+  domain: PronounceableText
+  name: has_text_of_phonetic_text
+  range: Text
+dv_is_part_of: "pending:"
+dv_has_domain: PronounceableText
+dv_has_name: has_text_of_phonetic_text
+dv_has_range: Text
+dv_is_same_as:
+  - "[[has_phonetic_text]]"
+  - "[[/_public/schema-org/Property/Texts/has_phonetic_text.public|has_phonetic_text.public]]"
+  - "[[/_internal/schema-org/Property/Texts/has_phonetic_text.internal|has_phonetic_text.internal]]"
+  - "[[/_protect/schema-org/Property/Texts/has_phonetic_text.protect|has_phonetic_text.protect]]"
+  - "[[/_private/schema-org/Property/Texts/has_phonetic_text.private|has_phonetic_text.private]]"
+  - "[[/_personal/schema-org/Property/Texts/has_phonetic_text.personal|has_phonetic_text.personal]]"
+  - "[[/_secret/schema-org/Property/Texts/has_phonetic_text.secret|has_phonetic_text.secret]]"
 ---
 
 Predicate to describe the Text of PronounceableText.
 
-#is_/part_of :: pending:  
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/text_of_/phonetic_text :: Text   
-- has_text_of_phonetic_text :: Text   
+- #has_/text_of_/phonetic_text : : Text   
+- has_text_of_phonetic_text : : Text   
 
 Representation of a text [[textValue]] using the specified [[speechToTextMarkup]]. For example the city name of Houston in IPA: /?hju?st?n/.
 
 Predicated describes that: 
 
-#has_/domain  :: PronounceableText  
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: has_text_of_phonetic_text )
-(has_/range :: Text )
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

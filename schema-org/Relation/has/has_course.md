@@ -63,8 +63,8 @@ is_a = `=this.dv_is_a`
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #has_/course :: "[[../../../Society/Communication/Media/Creative_Work/Course]]"  
-- has_course :: "[[../../../Society/Communication/Media/Creative_Work/Course]]"   
+- #has_/course : : "[[../../../Society/Communication/Media/Creative_Work/Course]]"  
+- has_course : : "[[../../../Society/Communication/Media/Creative_Work/Course]]"   
 
 A course or class that is one of the learning opportunities 
 that constitute an educational / occupational program. 

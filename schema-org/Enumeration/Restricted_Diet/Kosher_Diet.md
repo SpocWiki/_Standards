@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Restricted_Diet/Kosher_Diet.private|Kosher_Diet.private]]"
     - "[[/_personal/schema-org/Enumeration/Restricted_Diet/Kosher_Diet.personal|Kosher_Diet.personal]]"
     - "[[/_secret/schema-org/Enumeration/Restricted_Diet/Kosher_Diet.secret|Kosher_Diet.secret]]"
+    - "[[Kosher_Diet]]"
 dv_has_parent_class: "[[../RestrictedDiet]]"
 dv_is_enum_of: "[[../RestrictedDiet]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Restricted_Diet/Kosher_Diet|Kosher_Diet]]"
+  - "[[Kosher_Diet]]"
   - "[[/_public/schema-org/Enumeration/Restricted_Diet/Kosher_Diet.public|Kosher_Diet.public]]"
   - "[[/_internal/schema-org/Enumeration/Restricted_Diet/Kosher_Diet.internal|Kosher_Diet.internal]]"
   - "[[/_protect/schema-org/Enumeration/Restricted_Diet/Kosher_Diet.protect|Kosher_Diet.protect]]"

@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[[has_procedure_type]]"
+    - "[[/_public/schema-org/Relation/has/has_procedure_type.public|has_procedure_type.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_procedure_type.internal|has_procedure_type.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_procedure_type.protect|has_procedure_type.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_procedure_type.private|has_procedure_type.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_procedure_type.personal|has_procedure_type.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_procedure_type.secret|has_procedure_type.secret]]"
+dv_is_same_as:
+  - "[[has_procedure_type]]"
+  - "[[/_public/schema-org/Relation/has/has_procedure_type.public|has_procedure_type.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_procedure_type.internal|has_procedure_type.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_procedure_type.protect|has_procedure_type.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_procedure_type.private|has_procedure_type.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_procedure_type.personal|has_procedure_type.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_procedure_type.secret|has_procedure_type.secret]]"
+---
 ﻿---
 dv_is_:
   same_as:

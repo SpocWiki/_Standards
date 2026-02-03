@@ -45,13 +45,14 @@ dv_is_:
     - "[[/_private/schema-org/Property.private|Property.private]]"
     - "[[/_personal/schema-org/Property.personal|Property.personal]]"
     - "[[/_secret/schema-org/Property.secret|Property.secret]]"
+    - "[[Property]]"
 dv_has_:
   properties: "[ additionalType, alternateName, description, disambiguatingDescription, domainIncludes, identifier, image, inverseOf, mainEntityOfPage, name, potentialAction, rangeIncludes, [[Relation/is_same_as|sameAs]], subjectOf, supersededBy, url ] ]"
 dv_is_part_of: https://meta.schema.org
 dv_has_parent_class: "[[Class/is_a_/Intangible]]"
 dv_has_properties: "[ additionalType, alternateName, description, disambiguatingDescription, domainIncludes, identifier, image, inverseOf, mainEntityOfPage, name, potentialAction, rangeIncludes, [[Relation/is_same_as|sameAs]], subjectOf, supersededBy, url ] ]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property|Property]]"
+  - "[[Property]]"
   - "[[/_public/schema-org/Property.public|Property.public]]"
   - "[[/_internal/schema-org/Property.internal|Property.internal]]"
   - "[[/_protect/schema-org/Property.protect|Property.protect]]"

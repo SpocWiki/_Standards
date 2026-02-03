@@ -39,11 +39,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Not_Permitted.private|Merchant_Return_Not_Permitted.private]]"
     - "[[/_personal/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Not_Permitted.personal|Merchant_Return_Not_Permitted.personal]]"
     - "[[/_secret/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Not_Permitted.secret|Merchant_Return_Not_Permitted.secret]]"
+    - "[[Merchant_Return_Not_Permitted]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../MerchantReturnEnumeration]]"
 dv_is_enum_of: "[[../MerchantReturnEnumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Not_Permitted|Merchant_Return_Not_Permitted]]"
+  - "[[Merchant_Return_Not_Permitted]]"
   - "[[/_public/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Not_Permitted.public|Merchant_Return_Not_Permitted.public]]"
   - "[[/_internal/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Not_Permitted.internal|Merchant_Return_Not_Permitted.internal]]"
   - "[[/_protect/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Not_Permitted.protect|Merchant_Return_Not_Permitted.protect]]"

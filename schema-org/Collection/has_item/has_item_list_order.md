@@ -30,7 +30,10 @@ type: Predi_Relation
 dv_has_:
   domain: "[[../item_list|item_list]]"
   name: has_item_list_order
-  range: ["[[../../Enumeration/Item_List_Order_Type|Item_List_Order_Type]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
+  range:
+    - "[[../../Enumeration/Item_List_Order_Type|Item_List_Order_Type]]"
+    - "[[../../Class/is_a_/Data_Type/Text|Text]]"
+  inverse: "[[is_item_list_order_of]]"
 dv_is_:
   same_as:
     - "[[has_item_list_order|has_item_list_order]]"
@@ -40,25 +43,30 @@ dv_is_:
     - "[[/_private/schema-org/Relation/has/has_item_list_order.private|has_item_list_order.private]]"
     - "[[/_personal/schema-org/Relation/has/has_item_list_order.personal|has_item_list_order.personal]]"
     - "[[/_secret/schema-org/Relation/has/has_item_list_order.secret|has_item_list_order.secret]]"
+    - "[[has_item_list_order]]"
 dv_has_domain: "[[../item_list|item_list]]"
 dv_has_name: has_item_list_order
-dv_has_range: ["[[../../Enumeration/Item_List_Order_Type|Item_List_Order_Type]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
+dv_has_range:
+  - "[[../../Enumeration/Item_List_Order_Type|Item_List_Order_Type]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
 dv_is_same_as:
-  - "[[has_item_list_order|has_item_list_order]]"
+  - "[[has_item_list_order]]"
   - "[[/_public/schema-org/Relation/has/has_item_list_order.public|has_item_list_order.public]]"
   - "[[/_internal/schema-org/Relation/has/has_item_list_order.internal|has_item_list_order.internal]]"
   - "[[/_protect/schema-org/Relation/has/has_item_list_order.protect|has_item_list_order.protect]]"
   - "[[/_private/schema-org/Relation/has/has_item_list_order.private|has_item_list_order.private]]"
   - "[[/_personal/schema-org/Relation/has/has_item_list_order.personal|has_item_list_order.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_item_list_order.secret|has_item_list_order.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_item_list_order_of]]"
 ---
 
 # [[has_item_list_order]] 
 
-is_a :: [[../../Relation|Relation]] 
+is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: [[is_item_list_order_of]] 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #has_/item_/list_order : : `=this.dv_has_range`  

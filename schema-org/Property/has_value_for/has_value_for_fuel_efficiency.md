@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.private|has_value_for_fuel_efficiency.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.personal|has_value_for_fuel_efficiency.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.secret|has_value_for_fuel_efficiency.secret]]"
+    - "[[has_value_for_fuel_efficiency]]"
 dv_has_domain: "[[../../../Technology/Transport/Vehicle|Vehicle]]"
 dv_has_name: has_value_for_fuel_efficiency
 dv_has_range: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_value_for/has_value_for_fuel_efficiency|has_value_for_fuel_efficiency]]"
+  - "[[has_value_for_fuel_efficiency]]"
   - "[[/_public/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.public|has_value_for_fuel_efficiency.public]]"
   - "[[/_internal/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.internal|has_value_for_fuel_efficiency.internal]]"
   - "[[/_protect/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.protect|has_value_for_fuel_efficiency.protect]]"

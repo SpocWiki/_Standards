@@ -36,10 +36,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Government_Benefits_Type.private|Government_Benefits_Type.private]]"
     - "[[/_personal/schema-org/Enumeration/Government_Benefits_Type.personal|Government_Benefits_Type.personal]]"
     - "[[/_secret/schema-org/Enumeration/Government_Benefits_Type.secret|Government_Benefits_Type.secret]]"
+    - "[[Government_Benefits_Type]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../Enumeration]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Government_Benefits_Type|Government_Benefits_Type]]"
+  - "[[Government_Benefits_Type]]"
   - "[[/_public/schema-org/Enumeration/Government_Benefits_Type.public|Government_Benefits_Type.public]]"
   - "[[/_internal/schema-org/Enumeration/Government_Benefits_Type.internal|Government_Benefits_Type.internal]]"
   - "[[/_protect/schema-org/Enumeration/Government_Benefits_Type.protect|Government_Benefits_Type.protect]]"

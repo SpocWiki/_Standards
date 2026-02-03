@@ -44,11 +44,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_incentive_compensation.private|has_incentive_compensation.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_incentive_compensation.personal|has_incentive_compensation.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_incentive_compensation.secret|has_incentive_compensation.secret]]"
+    - "[[has_incentive_compensation]]"
 dv_has_domain: JobPosting
 dv_has_name: has_text_of_incentive_compensation
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_incentive_compensation|has_incentive_compensation]]"
+  - "[[has_incentive_compensation]]"
   - "[[/_public/schema-org/Property/Texts/has_incentive_compensation.public|has_incentive_compensation.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_incentive_compensation.internal|has_incentive_compensation.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_incentive_compensation.protect|has_incentive_compensation.protect]]"

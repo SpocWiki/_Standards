@@ -10,36 +10,62 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
-layout: ''
+keywords: ""
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: is_located_in_subcellular_location
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Relation
   - schema-org/Relation
 title: is_located_in_subcellular_location
 type: Predi_Relation
+dv_is_:
+  part_of: "pending:"
+  same_as:
+    - "[[is_located_in_subcellular_location]]"
+    - "[[/_public/schema-org/Relation/is/is_located_in_subcellular_location.public|is_located_in_subcellular_location.public]]"
+    - "[[/_internal/schema-org/Relation/is/is_located_in_subcellular_location.internal|is_located_in_subcellular_location.internal]]"
+    - "[[/_protect/schema-org/Relation/is/is_located_in_subcellular_location.protect|is_located_in_subcellular_location.protect]]"
+    - "[[/_private/schema-org/Relation/is/is_located_in_subcellular_location.private|is_located_in_subcellular_location.private]]"
+    - "[[/_personal/schema-org/Relation/is/is_located_in_subcellular_location.personal|is_located_in_subcellular_location.personal]]"
+    - "[[/_secret/schema-org/Relation/is/is_located_in_subcellular_location.secret|is_located_in_subcellular_location.secret]]"
+dv_has_:
+  domain: BioChemEntity
+  name: is_located_in_subcellular_location
+  range: DefinedTerm, PropertyValue, URL
+dv_is_part_of: "pending:"
+dv_has_domain: BioChemEntity
+dv_has_name: is_located_in_subcellular_location
+dv_has_range: DefinedTerm, PropertyValue, URL
+dv_is_same_as:
+  - "[[is_located_in_subcellular_location]]"
+  - "[[/_public/schema-org/Relation/is/is_located_in_subcellular_location.public|is_located_in_subcellular_location.public]]"
+  - "[[/_internal/schema-org/Relation/is/is_located_in_subcellular_location.internal|is_located_in_subcellular_location.internal]]"
+  - "[[/_protect/schema-org/Relation/is/is_located_in_subcellular_location.protect|is_located_in_subcellular_location.protect]]"
+  - "[[/_private/schema-org/Relation/is/is_located_in_subcellular_location.private|is_located_in_subcellular_location.private]]"
+  - "[[/_personal/schema-org/Relation/is/is_located_in_subcellular_location.personal|is_located_in_subcellular_location.personal]]"
+  - "[[/_secret/schema-org/Relation/is/is_located_in_subcellular_location.secret|is_located_in_subcellular_location.secret]]"
 ---
 
-#is_/part_of :: pending: 
+is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
-- #is_/located_in_subcellular_location :: DefinedTerm, PropertyValue, URL 
-- is_located_in_subcellular_location :: DefinedTerm, PropertyValue, URL 
+- #is_/located_in_subcellular_location : : DefinedTerm, PropertyValue, URL 
+- is_located_in_subcellular_location : : DefinedTerm, PropertyValue, URL 
 
 Subcellular location where this BioChemEntity is located; please use PropertyValue if you want to include any evidence.
 
 Relation describes that: 
 
-#has_/domain  :: BioChemEntity 
+has_domain = `=this.dv_has_domain` 
 
-(has_/name :: is_located_in_subcellular_location)
-(has_/range :: DefinedTerm, PropertyValue, URL)
+has_name = `=this.dv_has_name` 
+has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 

@@ -38,10 +38,11 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Confirmed.private|Reservation_Confirmed.private]]"
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Confirmed.personal|Reservation_Confirmed.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Confirmed.secret|Reservation_Confirmed.secret]]"
+    - "[[Reservation_Confirmed]]"
 dv_has_parent_class: "[[../ReservationStatusType]]"
 dv_is_enum_of: "[[../ReservationStatusType]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Confirmed|Reservation_Confirmed]]"
+  - "[[Reservation_Confirmed]]"
   - "[[/_public/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Confirmed.public|Reservation_Confirmed.public]]"
   - "[[/_internal/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Confirmed.internal|Reservation_Confirmed.internal]]"
   - "[[/_protect/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Confirmed.protect|Reservation_Confirmed.protect]]"

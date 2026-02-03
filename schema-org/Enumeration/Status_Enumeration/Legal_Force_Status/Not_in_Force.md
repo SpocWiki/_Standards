@@ -38,11 +38,12 @@ dv_is_:
     - "[[/_private/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Not_in_Force.private|Not_in_Force.private]]"
     - "[[/_personal/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Not_in_Force.personal|Not_in_Force.personal]]"
     - "[[/_secret/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Not_in_Force.secret|Not_in_Force.secret]]"
+    - "[[Not_in_Force]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../LegalForceStatus]]"
 dv_is_enum_of: "[[../LegalForceStatus]]"
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Not_in_Force|Not_in_Force]]"
+  - "[[Not_in_Force]]"
   - "[[/_public/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Not_in_Force.public|Not_in_Force.public]]"
   - "[[/_internal/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Not_in_Force.internal|Not_in_Force.internal]]"
   - "[[/_protect/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Not_in_Force.protect|Not_in_Force.protect]]"

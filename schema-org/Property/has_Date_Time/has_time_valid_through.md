@@ -40,9 +40,10 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_Date_Time/has_time_valid_through.private|has_time_valid_through.private]]"
     - "[[/_personal/schema-org/Property/has_Date_Time/has_time_valid_through.personal|has_time_valid_through.personal]]"
     - "[[/_secret/schema-org/Property/has_Date_Time/has_time_valid_through.secret|has_time_valid_through.secret]]"
+    - "[[has_time_valid_through]]"
 dv_has_name: has_time_valid_through
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_Date_Time/has_time_valid_through|has_time_valid_through]]"
+  - "[[has_time_valid_through]]"
   - "[[/_public/schema-org/Property/has_Date_Time/has_time_valid_through.public|has_time_valid_through.public]]"
   - "[[/_internal/schema-org/Property/has_Date_Time/has_time_valid_through.internal|has_time_valid_through.internal]]"
   - "[[/_protect/schema-org/Property/has_Date_Time/has_time_valid_through.protect|has_time_valid_through.protect]]"

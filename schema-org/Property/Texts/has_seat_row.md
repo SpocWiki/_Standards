@@ -43,11 +43,12 @@ dv_is_:
     - "[[/_private/schema-org/Property/Texts/has_seat_row.private|has_seat_row.private]]"
     - "[[/_personal/schema-org/Property/Texts/has_seat_row.personal|has_seat_row.personal]]"
     - "[[/_secret/schema-org/Property/Texts/has_seat_row.secret|has_seat_row.secret]]"
+    - "[[has_seat_row]]"
 dv_has_domain: Seat
 dv_has_name: has_text_of_seat_row
 dv_has_range: Text
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/Texts/has_seat_row|has_seat_row]]"
+  - "[[has_seat_row]]"
   - "[[/_public/schema-org/Property/Texts/has_seat_row.public|has_seat_row.public]]"
   - "[[/_internal/schema-org/Property/Texts/has_seat_row.internal|has_seat_row.internal]]"
   - "[[/_protect/schema-org/Property/Texts/has_seat_row.protect|has_seat_row.protect]]"
