@@ -26,9 +26,10 @@ dv_is_same_as:
 
 # geos
 
-Class of [[../Predicate|Predicates]] /Relations with a geographical Location of Type [[../../Earth/Geography/Place|Place]]. 
+#is_/different_from :: #has_/place 
+which is a Family of numeric Coordinate Properties to locate a [[../../Earth/Geography/Place|place]]
 
-- #is_/different_from :: #has_/place_ which is a Family of numeric Coordinate Properties to locate a [[../../Earth/Geography/Place|place]]
+Class of [[../Predicate|Predicates]] /Relations with a geographical Location of Type [[../../Earth/Geography/Place|Place]]. 
 
 
 ## Confidential Links & Embeds: 

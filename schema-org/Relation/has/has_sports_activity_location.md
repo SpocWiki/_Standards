@@ -70,6 +70,8 @@ is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
 has_inverse = `=this.dv_has_inverse`
+
+Use it like this: 
 - #has_/sports_activity_location :: SportsActivityLocation  
 - has_sports_activity_location = `=this.dv_has_sports_activity_location`  
 

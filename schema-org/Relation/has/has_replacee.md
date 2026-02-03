@@ -65,6 +65,8 @@ is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
 has_inverse = `=this.dv_has_inverse`
+
+Use it like this: 
 - #has_/replacee :: [Thing](../../../Class/Thing)  
 - has_replacee = `=this.dv_has_replacee` (../../../Class/Thing) ] 
 

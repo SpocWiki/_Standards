@@ -66,6 +66,8 @@ is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
 has_inverse = `=this.dv_has_inverse`
+
+Use it like this: 
 - #has_/recording_of :: MusicComposition  
 - has_recording_of = `=this.dv_has_recording_of`  
 

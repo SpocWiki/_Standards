@@ -60,10 +60,10 @@ lang: en
 
 # [[has_duration]] ⏱️ 
 
-- #has_/icon :: ⏱️ 
-- #is_/different_from :: [[../Predicate/Quantity/Duration|Duration]] 
-- #is_/similar_to :: [[has_duration/has_duration_until_repeat|has_duration_until_repeat]]  
-- #is_/similar_to :: [[has_duration/has_duration_total|has_duration_total]]  
+#has_/icon :: ⏱️ 
+#is_/different_from :: [[../Predicate/Quantity/Duration|Duration]] 
+#is_/similar_to :: [[has_duration/has_duration_until_repeat|has_duration_until_repeat]]  
+#is_/similar_to :: [[has_duration/has_duration_total|has_duration_total]]  
   which measures the [[../Predicate/Quantity/Duration|Duration]] of a specific State/Activity of the Subject, 
   whereas this Property is applied to the [[../Predicate/Quantity/Duration|Duration]] of the time-extended Subject itself, e.g. 
 	- [[../../Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object/Audiobook|Audiobook]], 

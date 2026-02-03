@@ -66,6 +66,8 @@ is_a = `=this.dv_is_a`
 #is_a_/relation 
 #class/Relation
 has_inverse = `=this.dv_has_inverse`
+
+Use it like this: 
 - #has_/recorded_as :: MusicRecording  
 - has_recorded_as = `=this.dv_has_recorded_as`  
 
@@ -74,7 +76,6 @@ An audio recording of the work.
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 
