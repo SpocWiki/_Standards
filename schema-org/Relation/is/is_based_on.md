@@ -1,23 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[is_based_on]]"
-    - "[[/_public/schema-org/Relation/is/is_based_on.public|is_based_on.public]]"
-    - "[[/_internal/schema-org/Relation/is/is_based_on.internal|is_based_on.internal]]"
-    - "[[/_protect/schema-org/Relation/is/is_based_on.protect|is_based_on.protect]]"
-    - "[[/_private/schema-org/Relation/is/is_based_on.private|is_based_on.private]]"
-    - "[[/_personal/schema-org/Relation/is/is_based_on.personal|is_based_on.personal]]"
-    - "[[/_secret/schema-org/Relation/is/is_based_on.secret|is_based_on.secret]]"
-dv_is_same_as:
-  - "[[is_based_on]]"
-  - "[[/_public/schema-org/Relation/is/is_based_on.public|is_based_on.public]]"
-  - "[[/_internal/schema-org/Relation/is/is_based_on.internal|is_based_on.internal]]"
-  - "[[/_protect/schema-org/Relation/is/is_based_on.protect|is_based_on.protect]]"
-  - "[[/_private/schema-org/Relation/is/is_based_on.private|is_based_on.private]]"
-  - "[[/_personal/schema-org/Relation/is/is_based_on.personal|is_based_on.personal]]"
-  - "[[/_secret/schema-org/Relation/is/is_based_on.secret|is_based_on.secret]]"
----
-﻿---
 aliases:
   - is-based-on
   - based_on
@@ -78,6 +59,7 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/is/is_based_on.private|is_based_on.private]]"
   - "[[/_personal/schema-org/Relation/is/is_based_on.personal|is_based_on.personal]]"
   - "[[/_secret/schema-org/Relation/is/is_based_on.secret|is_based_on.secret]]"
+
 ---
 
 Url of a resource from which this work is derived or from which it is a modification or adaption.

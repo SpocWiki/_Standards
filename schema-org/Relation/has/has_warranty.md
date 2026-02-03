@@ -16,8 +16,8 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_warranty.private|has_warranty.private]]"
   - "[[/_personal/schema-org/Relation/has/has_warranty.personal|has_warranty.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_warranty.secret|has_warranty.secret]]"
----
-﻿---
+
+
 dv_is_:
   same_as:
     - "[[has_warranty]]"
@@ -35,8 +35,8 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_warranty.private|has_warranty.private]]"
   - "[[/_personal/schema-org/Relation/has/has_warranty.personal|has_warranty.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_warranty.secret|has_warranty.secret]]"
----
-﻿---
+
+
 aliases:
   - has warranty
   - has_warranty

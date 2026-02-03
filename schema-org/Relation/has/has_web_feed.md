@@ -1,55 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_web_feed]]"
-    - "[[/_public/schema-org/Relation/has/has_web_feed.public|has_web_feed.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_web_feed.internal|has_web_feed.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_web_feed.protect|has_web_feed.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_web_feed.private|has_web_feed.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_web_feed.personal|has_web_feed.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_web_feed.secret|has_web_feed.secret]]"
-dv_is_same_as:
-  - "[[has_web_feed]]"
-  - "[[/_public/schema-org/Relation/has/has_web_feed.public|has_web_feed.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_web_feed.internal|has_web_feed.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_web_feed.protect|has_web_feed.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_web_feed.private|has_web_feed.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_web_feed.personal|has_web_feed.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_web_feed.secret|has_web_feed.secret]]"
----
-﻿---
-dv_has_:
-  web_feed: DataFeed, URL
-  domain: PodcastSeries, SpecialAnnouncement
-  name: is_web_feed
-  range: DataFeed, URL
-dv_has_web_feed: DataFeed, URL
-dv_is_:
-  same_as:
-    - "[[has_web_feed]]"
-    - "[[/_public/schema-org/Relation/has/has_web_feed.public|has_web_feed.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_web_feed.internal|has_web_feed.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_web_feed.protect|has_web_feed.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_web_feed.private|has_web_feed.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_web_feed.personal|has_web_feed.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_web_feed.secret|has_web_feed.secret]]"
-dv_has_domain:
-  - "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Podcast_Series|Podcast_Series]]"
-  - "[[../../../Society/Communication/Media/Creative_Work/Special_Announcement|Special_Announcement]]"
-dv_has_name: is_web_feed
-dv_has_range:
-  - "[[../../../Society/Communication/Media/Creative_Work/Dataset/Data_Feed|Data_Feed]]"
-  - "[[../../Class/is_a_/Data_Type/Text/Url|Url]]"
-dv_is_same_as:
-  - "[[has_web_feed]]"
-  - "[[/_public/schema-org/Relation/has/has_web_feed.public|has_web_feed.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_web_feed.internal|has_web_feed.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_web_feed.protect|has_web_feed.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_web_feed.private|has_web_feed.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_web_feed.personal|has_web_feed.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_web_feed.secret|has_web_feed.secret]]"
----
-﻿---
 aliases:
   - has web-feed
   - webFeed
@@ -79,6 +28,40 @@ title: has_web_feed
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_web_feed_of]]"
+
+dv_is_:
+  same_as:
+    - "[[has_web_feed]]"
+    - "[[/_public/schema-org/Relation/has/has_web_feed.public|has_web_feed.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_web_feed.internal|has_web_feed.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_web_feed.protect|has_web_feed.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_web_feed.private|has_web_feed.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_web_feed.personal|has_web_feed.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_web_feed.secret|has_web_feed.secret]]"
+dv_is_same_as:
+  - "[[has_web_feed]]"
+  - "[[/_public/schema-org/Relation/has/has_web_feed.public|has_web_feed.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_web_feed.internal|has_web_feed.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_web_feed.protect|has_web_feed.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_web_feed.private|has_web_feed.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_web_feed.personal|has_web_feed.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_web_feed.secret|has_web_feed.secret]]"
+
+
+dv_has_:
+  web_feed: DataFeed, URL
+  domain: PodcastSeries, SpecialAnnouncement
+  name: is_web_feed
+  range: DataFeed, URL
+dv_has_web_feed: DataFeed, URL
+dv_has_domain:
+  - "[[../../../Society/Communication/Media/Creative_Work/Creative_Work_Series/Podcast_Series|Podcast_Series]]"
+  - "[[../../../Society/Communication/Media/Creative_Work/Special_Announcement|Special_Announcement]]"
+dv_has_name: is_web_feed
+dv_has_range:
+  - "[[../../../Society/Communication/Media/Creative_Work/Dataset/Data_Feed|Data_Feed]]"
+  - "[[../../Class/is_a_/Data_Type/Text/Url|Url]]"
+
 ---
 
 # [[has_web_feed]] 

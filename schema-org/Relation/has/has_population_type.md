@@ -1,51 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_population_type]]"
-    - "[[/_public/schema-org/Relation/has/has_population_type.public|has_population_type.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_population_type.internal|has_population_type.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_population_type.protect|has_population_type.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_population_type.private|has_population_type.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_population_type.personal|has_population_type.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_population_type.secret|has_population_type.secret]]"
-dv_is_same_as:
-  - "[[has_population_type]]"
-  - "[[/_public/schema-org/Relation/has/has_population_type.public|has_population_type.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_population_type.internal|has_population_type.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_population_type.protect|has_population_type.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_population_type.private|has_population_type.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_population_type.personal|has_population_type.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_population_type.secret|has_population_type.secret]]"
----
-﻿---
-dv_has_:
-  population_type: Class
-  domain: StatisticalPopulation
-  name: is_population_type
-  range: Class
-dv_has_population_type: Class
-dv_is_:
-  same_as:
-    - "[[has_population_type]]"
-    - "[[/_public/schema-org/Relation/has/has_population_type.public|has_population_type.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_population_type.internal|has_population_type.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_population_type.protect|has_population_type.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_population_type.private|has_population_type.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_population_type.personal|has_population_type.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_population_type.secret|has_population_type.secret]]"
-dv_has_domain: "[[../../Class/is_a_/Intangible/Statistical_Population|StatisticalPopulation]]"
-dv_has_name: is_population_type
-dv_has_range: "[[../../Class|Class]]"
-dv_is_same_as:
-  - "[[has_population_type]]"
-  - "[[/_public/schema-org/Relation/has/has_population_type.public|has_population_type.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_population_type.internal|has_population_type.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_population_type.protect|has_population_type.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_population_type.private|has_population_type.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_population_type.personal|has_population_type.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_population_type.secret|has_population_type.secret]]"
----
-﻿---
 aliases:
   - has population-type
   - populationType
@@ -75,6 +28,33 @@ title: has_population_type
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_population_type_of]]"
+dv_is_:
+  same_as:
+    - "[[has_population_type]]"
+    - "[[/_public/schema-org/Relation/has/has_population_type.public|has_population_type.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_population_type.internal|has_population_type.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_population_type.protect|has_population_type.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_population_type.private|has_population_type.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_population_type.personal|has_population_type.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_population_type.secret|has_population_type.secret]]"
+dv_is_same_as:
+  - "[[has_population_type]]"
+  - "[[/_public/schema-org/Relation/has/has_population_type.public|has_population_type.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_population_type.internal|has_population_type.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_population_type.protect|has_population_type.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_population_type.private|has_population_type.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_population_type.personal|has_population_type.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_population_type.secret|has_population_type.secret]]"
+
+dv_has_:
+  population_type: Class
+  domain: StatisticalPopulation
+  name: is_population_type
+  range: Class
+dv_has_population_type: Class
+dv_has_domain: "[[../../Class/is_a_/Intangible/Statistical_Population|StatisticalPopulation]]"
+dv_has_name: is_population_type
+dv_has_range: "[[../../Class|Class]]"
 ---
 
 # [[has_population_type]] 

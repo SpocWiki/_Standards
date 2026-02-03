@@ -1,75 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_role_chemical]]"
-    - "[[/_public/schema-org/Relation/has/has_role_chemical.public|has_role_chemical.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_role_chemical.internal|has_role_chemical.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_role_chemical.protect|has_role_chemical.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_role_chemical.private|has_role_chemical.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_role_chemical.personal|has_role_chemical.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_role_chemical.secret|has_role_chemical.secret]]"
-dv_is_same_as:
-  - "[[has_role_chemical]]"
-  - "[[/_public/schema-org/Relation/has/has_role_chemical.public|has_role_chemical.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_role_chemical.internal|has_role_chemical.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_role_chemical.protect|has_role_chemical.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_role_chemical.private|has_role_chemical.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_role_chemical.personal|has_role_chemical.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_role_chemical.secret|has_role_chemical.secret]]"
----
-﻿---
-dv_has_:
-  role_:
-    chemical: DefinedTerm
-  domain: ChemicalSubstance, MolecularEntity
-  name: has_role_chemical
-  range: DefinedTerm
-dv_has_role_chemical: DefinedTerm
-dv_is_:
-  same_as:
-    - "[[has_role_chemical]]"
-    - "[[/_public/schema-org/Relation/has/has_role_chemical.public|has_role_chemical.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_role_chemical.internal|has_role_chemical.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_role_chemical.protect|has_role_chemical.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_role_chemical.private|has_role_chemical.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_role_chemical.personal|has_role_chemical.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_role_chemical.secret|has_role_chemical.secret]]"
-dv_has_domain:
-  - "[[../../../Chemistry/Substance/Chemical_Substance|Chemical_Substance]]"
-  - "[[../../Class/is_a_/Bio_Chem_Entity/Molecular_Entity|Molecular_Entity]]"
-dv_has_name: has_role_chemical
-dv_has_---
-dv_has_:
-  role_:
-    chemical: DefinedTerm
-  domain: ChemicalSubstance, MolecularEntity
-  name: has_role_chemical
-  range: DefinedTerm
-dv_has_role_chemical: DefinedTerm
-dv_is_:
-  same_as:
-    - "[[has_role_chemical]]"
-    - "[[/_public/schema-org/Relation/has/has_role_chemical.public|has_role_chemical.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_role_chemical.internal|has_role_chemical.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_role_chemical.protect|has_role_chemical.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_role_chemical.private|has_role_chemical.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_role_chemical.personal|has_role_chemical.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_role_chemical.secret|has_role_chemical.secret]]"
-dv_has_domain:
-  - "[[../../../Chemistry/Substance/Chemical_Substance|Chemical_Substance]]"
-  - "[[../../Class/is_a_/Bio_Chem_Entity/Molecular_Entity|Molecular_Entity]]"
-dv_has_name: has_role_chemical
-dv_has_range: "[[../../Class/is_a_/Intangible/Defined_Term|DefinedTerm]]"
-dv_is_same_as:
-  - "[[has_role_chemical]]"
-  - "[[/_public/schema-org/Relation/has/has_role_chemical.public|has_role_chemical.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_role_chemical.internal|has_role_chemical.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_role_chemical.protect|has_role_chemical.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_role_chemical.private|has_role_chemical.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_role_chemical.personal|has_role_chemical.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_role_chemical.secret|has_role_chemical.secret]]"
----
-﻿---
 aliases:
   - has chemical-role
   - chemicalRole
@@ -99,6 +28,39 @@ title: has_role_chemical
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_role_chemical_of]]"
+
+dv_is_:
+  same_as:
+    - "[[has_role_chemical]]"
+    - "[[/_public/schema-org/Relation/has/has_role_chemical.public|has_role_chemical.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_role_chemical.internal|has_role_chemical.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_role_chemical.protect|has_role_chemical.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_role_chemical.private|has_role_chemical.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_role_chemical.personal|has_role_chemical.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_role_chemical.secret|has_role_chemical.secret]]"
+dv_is_same_as:
+  - "[[has_role_chemical]]"
+  - "[[/_public/schema-org/Relation/has/has_role_chemical.public|has_role_chemical.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_role_chemical.internal|has_role_chemical.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_role_chemical.protect|has_role_chemical.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_role_chemical.private|has_role_chemical.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_role_chemical.personal|has_role_chemical.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_role_chemical.secret|has_role_chemical.secret]]"
+
+
+dv_has_:
+  role_:
+    chemical: DefinedTerm
+  domain: ChemicalSubstance, MolecularEntity
+  name: has_role_chemical
+  range: DefinedTerm
+dv_has_role_chemical: DefinedTerm
+dv_has_domain:
+  - "[[../../../Chemistry/Substance/Chemical_Substance|Chemical_Substance]]"
+  - "[[../../Class/is_a_/Bio_Chem_Entity/Molecular_Entity|Molecular_Entity]]"
+dv_has_name: has_role_chemical
+dv_has_range: "[[../../Class/is_a_/Intangible/Defined_Term|DefinedTerm]]"
+
 ---
 
 # [[has_role_chemical]] 

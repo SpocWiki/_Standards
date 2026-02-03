@@ -1,25 +1,5 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_opening_hours_specification]]"
-    - "[[/_public/schema-org/Relation/has/has_opening_hours_specification.public|has_opening_hours_specification.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_opening_hours_specification.internal|has_opening_hours_specification.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_opening_hours_specification.protect|has_opening_hours_specification.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_opening_hours_specification.private|has_opening_hours_specification.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_opening_hours_specification.personal|has_opening_hours_specification.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_opening_hours_specification.secret|has_opening_hours_specification.secret]]"
-dv_is_same_as:
-  - "[[has_opening_hours_specification]]"
-  - "[[/_public/schema-org/Relation/has/has_opening_hours_specification.public|has_opening_hours_specification.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_opening_hours_specification.internal|has_opening_hours_specification.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_opening_hours_specification.protect|has_opening_hours_specification.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_opening_hours_specification.private|has_opening_hours_specification.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_opening_hours_specification.personal|has_opening_hours_specification.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_opening_hours_specification.secret|has_opening_hours_specification.secret]]"
----
-﻿---
 dv_has_:
-  opening_hours_specification: OpeningHoursSpecification
   domain: Place
   name: has_opening_hours_specification
   range: OpeningHoursSpecification
@@ -49,8 +29,6 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_opening_hours_specification.private|has_opening_hours_specification.private]]"
   - "[[/_personal/schema-org/Relation/has/has_opening_hours_specification.personal|has_opening_hours_specification.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_opening_hours_specification.secret|has_opening_hours_specification.secret]]"
----
-﻿---
 aliases:
   - has opening-hours-specification
   - openingHoursSpecification
@@ -61,7 +39,7 @@ cssclasses:
   - Predicate
   - Relation
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -69,33 +47,35 @@ keywords:
   - opening
   - hours
   - specification
-layout: ''
+layout: ""
 license: CC BY-SA 4.0
 linkTitle: has_opening_hours_specification
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
+  - class/FileClass
+  - class/OpeningHoursSpecification
+  - class/Thing/Intangible/StructuredValue/OpeningHoursSpecification
   - class/Relation
   - schema-org/Relation
 title: has_opening_hours_specification
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_opening_hours_specification_of]]"
----
-
-# [[has_opening_hours_specification]] 
-
-
----
 limit: 9
 mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/OpeningHoursSpecification, class/Thing/Intangible/StructuredValue/OpeningHoursSpecification, schema-org/OpeningHoursSpecification]
-tags: ["class/FileClass", "class/OpeningHoursSpecification", "class/Thing/Intangible/StructuredValue/OpeningHoursSpecification"]
+tagNames:
+  - class/OpeningHoursSpecification
+  - class/Thing/Intangible/StructuredValue/OpeningHoursSpecification
+  - schema-org/OpeningHoursSpecification
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 ---
+
+# [[has_opening_hours_specification]] 
+
 
 #class/OpeningHoursSpecification
 #class/Thing/Intangible/StructuredValue/OpeningHoursSpecification

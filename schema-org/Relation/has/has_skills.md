@@ -1,42 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_skills]]"
-    - "[[/_public/schema-org/Relation/has/has_skills.public|has_skills.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_skills.internal|has_skills.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_skills.protect|has_skills.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_skills.private|has_skills.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_skills.personal|has_skills.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_skills.secret|has_skills.secret]]"
-dv_is_same_as:
-  - "[[has_skills]]"
-  - "[[/_public/schema-org/Relation/has/has_skills.public|has_skills.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_skills.internal|has_skills.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_skills.protect|has_skills.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_skills.private|has_skills.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_skills.personal|has_skills.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_skills.secret|has_skills.secret]]"
----
-﻿---
-dv_is_:
-  same_as:
-    - "[[has_skills]]"
-    - "[[/_public/schema-org/Relation/has/has_skills.public|has_skills.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_skills.internal|has_skills.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_skills.protect|has_skills.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_skills.private|has_skills.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_skills.personal|has_skills.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_skills.secret|has_skills.secret]]"
-dv_is_same_as:
-  - "[[has_skills]]"
-  - "[[/_public/schema-org/Relation/has/has_skills.public|has_skills.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_skills.internal|has_skills.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_skills.protect|has_skills.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_skills.private|has_skills.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_skills.personal|has_skills.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_skills.secret|has_skills.secret]]"
----
-﻿---
 aliases:
   - has skills
   - has_skills
@@ -61,11 +23,9 @@ tags:
 title: has_skills
 type: Predi_Relation
 dv_has_:
-  skills: DefinedTerm, Text
   domain: JobPosting, Occupation
   name: is_skills
   range: DefinedTerm, Text
-dv_has_skills: DefinedTerm, Text
   inverse: [[is_skills_of]]
 dv_is_:
   same_as:
@@ -93,6 +53,7 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_skills.secret|has_skills.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_skills_of]]"
+
 ---
 
 # [[has_skills]] 

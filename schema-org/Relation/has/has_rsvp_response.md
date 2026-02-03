@@ -1,42 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_rsvp_response]]"
-    - "[[/_public/schema-org/Relation/has/has_rsvp_response.public|has_rsvp_response.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_rsvp_response.internal|has_rsvp_response.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_rsvp_response.protect|has_rsvp_response.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_rsvp_response.private|has_rsvp_response.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_rsvp_response.personal|has_rsvp_response.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_rsvp_response.secret|has_rsvp_response.secret]]"
-dv_is_same_as:
-  - "[[has_rsvp_response]]"
-  - "[[/_public/schema-org/Relation/has/has_rsvp_response.public|has_rsvp_response.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_rsvp_response.internal|has_rsvp_response.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_rsvp_response.protect|has_rsvp_response.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_rsvp_response.private|has_rsvp_response.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_rsvp_response.personal|has_rsvp_response.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_rsvp_response.secret|has_rsvp_response.secret]]"
----
-﻿---
-dv_is_:
-  same_as:
-    - "[[has_rsvp_response]]"
-    - "[[/_public/schema-org/Relation/has/has_rsvp_response.public|has_rsvp_response.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_rsvp_response.internal|has_rsvp_response.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_rsvp_response.protect|has_rsvp_response.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_rsvp_response.private|has_rsvp_response.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_rsvp_response.personal|has_rsvp_response.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_rsvp_response.secret|has_rsvp_response.secret]]"
-dv_is_same_as:
-  - "[[has_rsvp_response]]"
-  - "[[/_public/schema-org/Relation/has/has_rsvp_response.public|has_rsvp_response.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_rsvp_response.internal|has_rsvp_response.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_rsvp_response.protect|has_rsvp_response.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_rsvp_response.private|has_rsvp_response.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_rsvp_response.personal|has_rsvp_response.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_rsvp_response.secret|has_rsvp_response.secret]]"
----
-﻿---
 aliases:
   - has rsvp-response
   - rsvpResponse
@@ -65,11 +27,9 @@ tags:
 title: has_rsvp_response
 type: Predi_Relation
 dv_has_:
-  rsvp_response: RsvpResponseType
   domain: RsvpAction
   name: is_rsvp_response
   range: RsvpResponseType
-dv_has_rsvp_response: RsvpResponseType
   inverse: [[is_rsvp_response_of]]
 dv_is_:
   same_as:
@@ -93,6 +53,7 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_rsvp_response.secret|has_rsvp_response.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_rsvp_response_of]]"
+
 ---
 
 # [[has_rsvp_response]] 

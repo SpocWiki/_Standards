@@ -1,42 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_price_component]]"
-    - "[[/_public/schema-org/Relation/has/has_price_component.public|has_price_component.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_price_component.internal|has_price_component.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_price_component.protect|has_price_component.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_price_component.private|has_price_component.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_price_component.personal|has_price_component.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_price_component.secret|has_price_component.secret]]"
-dv_is_same_as:
-  - "[[has_price_component]]"
-  - "[[/_public/schema-org/Relation/has/has_price_component.public|has_price_component.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_price_component.internal|has_price_component.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_price_component.protect|has_price_component.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_price_component.private|has_price_component.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_price_component.personal|has_price_component.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_price_component.secret|has_price_component.secret]]"
----
-﻿---
-dv_is_:
-  same_as:
-    - "[[has_price_component]]"
-    - "[[/_public/schema-org/Relation/has/has_price_component.public|has_price_component.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_price_component.internal|has_price_component.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_price_component.protect|has_price_component.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_price_component.private|has_price_component.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_price_component.personal|has_price_component.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_price_component.secret|has_price_component.secret]]"
-dv_is_same_as:
-  - "[[has_price_component]]"
-  - "[[/_public/schema-org/Relation/has/has_price_component.public|has_price_component.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_price_component.internal|has_price_component.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_price_component.protect|has_price_component.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_price_component.private|has_price_component.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_price_component.personal|has_price_component.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_price_component.secret|has_price_component.secret]]"
----
-﻿---
 aliases:
   - has price-component
   - priceComponent
@@ -65,11 +27,9 @@ tags:
 title: has_price_component
 type: Predi_Relation
 dv_has_:
-  price_component: UnitPriceSpecification
   domain: CompoundPriceSpecification
   name: is_price_component
   range: UnitPriceSpecification
-dv_has_price_component: UnitPriceSpecification
   inverse: [[is_price_component_of]]
 dv_is_:
   same_as:
@@ -93,6 +53,7 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_price_component.secret|has_price_component.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_price_component_of]]"
+
 ---
 
 # [[has_price_component]] 

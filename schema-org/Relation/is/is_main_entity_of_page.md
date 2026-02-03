@@ -1,23 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[is_main_entity_of_page]]"
-    - "[[/_public/schema-org/Relation/is/is_main_entity_of_page.public|is_main_entity_of_page.public]]"
-    - "[[/_internal/schema-org/Relation/is/is_main_entity_of_page.internal|is_main_entity_of_page.internal]]"
-    - "[[/_protect/schema-org/Relation/is/is_main_entity_of_page.protect|is_main_entity_of_page.protect]]"
-    - "[[/_private/schema-org/Relation/is/is_main_entity_of_page.private|is_main_entity_of_page.private]]"
-    - "[[/_personal/schema-org/Relation/is/is_main_entity_of_page.personal|is_main_entity_of_page.personal]]"
-    - "[[/_secret/schema-org/Relation/is/is_main_entity_of_page.secret|is_main_entity_of_page.secret]]"
-dv_is_same_as:
-  - "[[is_main_entity_of_page]]"
-  - "[[/_public/schema-org/Relation/is/is_main_entity_of_page.public|is_main_entity_of_page.public]]"
-  - "[[/_internal/schema-org/Relation/is/is_main_entity_of_page.internal|is_main_entity_of_page.internal]]"
-  - "[[/_protect/schema-org/Relation/is/is_main_entity_of_page.protect|is_main_entity_of_page.protect]]"
-  - "[[/_private/schema-org/Relation/is/is_main_entity_of_page.private|is_main_entity_of_page.private]]"
-  - "[[/_personal/schema-org/Relation/is/is_main_entity_of_page.personal|is_main_entity_of_page.personal]]"
-  - "[[/_secret/schema-org/Relation/is/is_main_entity_of_page.secret|is_main_entity_of_page.secret]]"
----
-﻿---
 aliases:
   - main-entity-of-page
   - main_entity_of_page
@@ -78,6 +59,7 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/is/is_main_entity_of_page.private|is_main_entity_of_page.private]]"
   - "[[/_personal/schema-org/Relation/is/is_main_entity_of_page.personal|is_main_entity_of_page.personal]]"
   - "[[/_secret/schema-org/Relation/is/is_main_entity_of_page.secret|is_main_entity_of_page.secret]]"
+
 ---
 
 # [[is_main_entity_of_page]] 

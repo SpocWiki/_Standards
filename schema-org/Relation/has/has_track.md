@@ -1,42 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_track]]"
-    - "[[/_public/schema-org/Relation/has/has_track.public|has_track.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_track.internal|has_track.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_track.protect|has_track.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_track.private|has_track.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_track.personal|has_track.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_track.secret|has_track.secret]]"
-dv_is_same_as:
-  - "[[has_track]]"
-  - "[[/_public/schema-org/Relation/has/has_track.public|has_track.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_track.internal|has_track.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_track.protect|has_track.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_track.private|has_track.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_track.personal|has_track.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_track.secret|has_track.secret]]"
----
-﻿---
-dv_is_:
-  same_as:
-    - "[[has_track]]"
-    - "[[/_public/schema-org/Relation/has/has_track.public|has_track.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_track.internal|has_track.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_track.protect|has_track.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_track.private|has_track.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_track.personal|has_track.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_track.secret|has_track.secret]]"
-dv_is_same_as:
-  - "[[has_track]]"
-  - "[[/_public/schema-org/Relation/has/has_track.public|has_track.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_track.internal|has_track.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_track.protect|has_track.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_track.private|has_track.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_track.personal|has_track.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_track.secret|has_track.secret]]"
----
-﻿---
 aliases:
   - has track
   - has_track
@@ -62,11 +24,9 @@ tags:
 title: has_track
 type: Predi_Relation
 dv_has_:
-  track: ItemList, MusicRecording
   domain: MusicGroup, MusicPlaylist
   name: is_track
   range: ItemList, MusicRecording
-dv_has_track: ItemList, MusicRecording
   inverse: [[is_track_of]]
 dv_is_:
   same_as:
@@ -94,6 +54,7 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_track.secret|has_track.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_track_of]]"
+
 ---
 
 # [[has_track]] 

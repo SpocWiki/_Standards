@@ -1,42 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_preparation]]"
-    - "[[/_public/schema-org/Relation/has/has_preparation.public|has_preparation.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_preparation.internal|has_preparation.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_preparation.protect|has_preparation.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_preparation.private|has_preparation.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_preparation.personal|has_preparation.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_preparation.secret|has_preparation.secret]]"
-dv_is_same_as:
-  - "[[has_preparation]]"
-  - "[[/_public/schema-org/Relation/has/has_preparation.public|has_preparation.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_preparation.internal|has_preparation.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_preparation.protect|has_preparation.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_preparation.private|has_preparation.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_preparation.personal|has_preparation.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_preparation.secret|has_preparation.secret]]"
----
-﻿---
-dv_is_:
-  same_as:
-    - "[[has_preparation]]"
-    - "[[/_public/schema-org/Relation/has/has_preparation.public|has_preparation.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_preparation.internal|has_preparation.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_preparation.protect|has_preparation.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_preparation.private|has_preparation.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_preparation.personal|has_preparation.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_preparation.secret|has_preparation.secret]]"
-dv_is_same_as:
-  - "[[has_preparation]]"
-  - "[[/_public/schema-org/Relation/has/has_preparation.public|has_preparation.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_preparation.internal|has_preparation.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_preparation.protect|has_preparation.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_preparation.private|has_preparation.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_preparation.personal|has_preparation.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_preparation.secret|has_preparation.secret]]"
----
-﻿---
 aliases:
   - has preparation
   - has_preparation
@@ -61,11 +23,9 @@ tags:
 title: has_preparation
 type: Predi_Relation
 dv_has_:
-  preparation: MedicalEntity, Text
   domain: MedicalProcedure
   name: is_preparation
   range: MedicalEntity, Text
-dv_has_preparation: MedicalEntity, Text
   inverse: [[is_preparation_of]]
 dv_is_:
   same_as:
@@ -91,6 +51,7 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_preparation.secret|has_preparation.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_preparation_of]]"
+
 ---
 
 # [[has_preparation]] 

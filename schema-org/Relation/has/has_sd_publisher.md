@@ -1,53 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_sd_publisher]]"
-    - "[[/_public/schema-org/Relation/has/has_sd_publisher.public|has_sd_publisher.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_sd_publisher.internal|has_sd_publisher.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_sd_publisher.protect|has_sd_publisher.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_sd_publisher.private|has_sd_publisher.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_sd_publisher.personal|has_sd_publisher.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_sd_publisher.secret|has_sd_publisher.secret]]"
-dv_is_same_as:
-  - "[[has_sd_publisher]]"
-  - "[[/_public/schema-org/Relation/has/has_sd_publisher.public|has_sd_publisher.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_sd_publisher.internal|has_sd_publisher.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_sd_publisher.protect|has_sd_publisher.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_sd_publisher.private|has_sd_publisher.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_sd_publisher.personal|has_sd_publisher.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_sd_publisher.secret|has_sd_publisher.secret]]"
----
-﻿---
-dv_has_:
-  sd_publisher: Organization, Person
-  domain: CreativeWork
-  name: is_sd_publisher
-  range: Organization, Person
-dv_has_sd_publisher: Organization, Person
-dv_is_:
-  same_as:
-    - "[[has_sd_publisher]]"
-    - "[[/_public/schema-org/Relation/has/has_sd_publisher.public|has_sd_publisher.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_sd_publisher.internal|has_sd_publisher.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_sd_publisher.protect|has_sd_publisher.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_sd_publisher.private|has_sd_publisher.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_sd_publisher.personal|has_sd_publisher.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_sd_publisher.secret|has_sd_publisher.secret]]"
-dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
-dv_has_name: is_sd_publisher
-dv_has_range:
-  - "[[../../../Society/Agent/Community/Organization|Organization]]"
-  - "[[../../../Society/Agent/Person|Person]]"
-dv_is_same_as:
-  - "[[has_sd_publisher]]"
-  - "[[/_public/schema-org/Relation/has/has_sd_publisher.public|has_sd_publisher.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_sd_publisher.internal|has_sd_publisher.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_sd_publisher.protect|has_sd_publisher.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_sd_publisher.private|has_sd_publisher.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_sd_publisher.personal|has_sd_publisher.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_sd_publisher.secret|has_sd_publisher.secret]]"
----
-﻿---
 aliases:
   - has sd-publisher
   - sdPublisher
@@ -77,6 +28,37 @@ title: has_sd_publisher
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_sd_publisher_of]]"
+
+dv_is_:
+  same_as:
+    - "[[has_sd_publisher]]"
+    - "[[/_public/schema-org/Relation/has/has_sd_publisher.public|has_sd_publisher.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_sd_publisher.internal|has_sd_publisher.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_sd_publisher.protect|has_sd_publisher.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_sd_publisher.private|has_sd_publisher.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_sd_publisher.personal|has_sd_publisher.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_sd_publisher.secret|has_sd_publisher.secret]]"
+dv_is_same_as:
+  - "[[has_sd_publisher]]"
+  - "[[/_public/schema-org/Relation/has/has_sd_publisher.public|has_sd_publisher.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_sd_publisher.internal|has_sd_publisher.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_sd_publisher.protect|has_sd_publisher.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_sd_publisher.private|has_sd_publisher.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_sd_publisher.personal|has_sd_publisher.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_sd_publisher.secret|has_sd_publisher.secret]]"
+
+dv_has_:
+  sd_publisher: Organization, Person
+  domain: CreativeWork
+  name: is_sd_publisher
+  range: Organization, Person
+dv_has_sd_publisher: Organization, Person
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
+dv_has_name: is_sd_publisher
+dv_has_range:
+  - "[[../../../Society/Agent/Community/Organization|Organization]]"
+  - "[[../../../Society/Agent/Person|Person]]"
+
 ---
 
 # [[has_sd_publisher]] 

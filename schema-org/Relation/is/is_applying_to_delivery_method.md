@@ -1,25 +1,4 @@
 ---
-dv_is_a: "[[../../Relation|Relation]]"
-dv_has_: {}
-dv_is_:
-  same_as:
-    - "[[is_applying_to_delivery_method]]"
-    - "[[/_public/schema-org/Relation/is/is_applying_to_delivery_method.public|is_applying_to_delivery_method.public]]"
-    - "[[/_internal/schema-org/Relation/is/is_applying_to_delivery_method.internal|is_applying_to_delivery_method.internal]]"
-    - "[[/_protect/schema-org/Relation/is/is_applying_to_delivery_method.protect|is_applying_to_delivery_method.protect]]"
-    - "[[/_private/schema-org/Relation/is/is_applying_to_delivery_method.private|is_applying_to_delivery_method.private]]"
-    - "[[/_personal/schema-org/Relation/is/is_applying_to_delivery_method.personal|is_applying_to_delivery_method.personal]]"
-    - "[[/_secret/schema-org/Relation/is/is_applying_to_delivery_method.secret|is_applying_to_delivery_method.secret]]"
-dv_is_same_as:
-  - "[[is_applying_to_delivery_method]]"
-  - "[[/_public/schema-org/Relation/is/is_applying_to_delivery_method.public|is_applying_to_delivery_method.public]]"
-  - "[[/_internal/schema-org/Relation/is/is_applying_to_delivery_method.internal|is_applying_to_delivery_method.internal]]"
-  - "[[/_protect/schema-org/Relation/is/is_applying_to_delivery_method.protect|is_applying_to_delivery_method.protect]]"
-  - "[[/_private/schema-org/Relation/is/is_applying_to_delivery_method.private|is_applying_to_delivery_method.private]]"
-  - "[[/_personal/schema-org/Relation/is/is_applying_to_delivery_method.personal|is_applying_to_delivery_method.personal]]"
-  - "[[/_secret/schema-org/Relation/is/is_applying_to_delivery_method.secret|is_applying_to_delivery_method.secret]]"
----
-﻿---
 aliases:
   - applies-to-delivery-method
   - appliesToDeliveryMethod
@@ -74,6 +53,9 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/is/is_applying_to_delivery_method.private|is_applying_to_delivery_method.private]]"
   - "[[/_personal/schema-org/Relation/is/is_applying_to_delivery_method.personal|is_applying_to_delivery_method.personal]]"
   - "[[/_secret/schema-org/Relation/is/is_applying_to_delivery_method.secret|is_applying_to_delivery_method.secret]]"
+
+dv_is_a: "[[../../Relation|Relation]]"
+
 ---
 
 

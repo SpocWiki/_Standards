@@ -1,42 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_possible_treatment]]"
-    - "[[/_public/schema-org/Relation/has/has_possible_treatment.public|has_possible_treatment.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_possible_treatment.internal|has_possible_treatment.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_possible_treatment.protect|has_possible_treatment.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_possible_treatment.private|has_possible_treatment.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_possible_treatment.personal|has_possible_treatment.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_possible_treatment.secret|has_possible_treatment.secret]]"
-dv_is_same_as:
-  - "[[has_possible_treatment]]"
-  - "[[/_public/schema-org/Relation/has/has_possible_treatment.public|has_possible_treatment.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_possible_treatment.internal|has_possible_treatment.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_possible_treatment.protect|has_possible_treatment.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_possible_treatment.private|has_possible_treatment.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_possible_treatment.personal|has_possible_treatment.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_possible_treatment.secret|has_possible_treatment.secret]]"
----
-﻿---
-dv_is_:
-  same_as:
-    - "[[has_possible_treatment]]"
-    - "[[/_public/schema-org/Relation/has/has_possible_treatment.public|has_possible_treatment.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_possible_treatment.internal|has_possible_treatment.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_possible_treatment.protect|has_possible_treatment.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_possible_treatment.private|has_possible_treatment.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_possible_treatment.personal|has_possible_treatment.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_possible_treatment.secret|has_possible_treatment.secret]]"
-dv_is_same_as:
-  - "[[has_possible_treatment]]"
-  - "[[/_public/schema-org/Relation/has/has_possible_treatment.public|has_possible_treatment.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_possible_treatment.internal|has_possible_treatment.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_possible_treatment.protect|has_possible_treatment.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_possible_treatment.private|has_possible_treatment.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_possible_treatment.personal|has_possible_treatment.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_possible_treatment.secret|has_possible_treatment.secret]]"
----
-﻿---
 aliases:
   - has possible-treatment
   - possibleTreatment
@@ -65,11 +27,9 @@ tags:
 title: has_possible_treatment
 type: Predi_Relation
 dv_has_:
-  possible_treatment: MedicalTherapy
   domain: MedicalCondition, MedicalSignOrSymptom
   name: is_possible_treatment
   range: MedicalTherapy
-dv_has_possible_treatment: MedicalTherapy
   inverse: [[is_possible_treatment_of]]
 dv_is_:
   same_as:

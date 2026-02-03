@@ -1,42 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_place_map]]"
-    - "[[/_public/schema-org/Relation/has/has_place_map.public|has_place_map.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_place_map.internal|has_place_map.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_place_map.protect|has_place_map.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_place_map.private|has_place_map.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_place_map.personal|has_place_map.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_place_map.secret|has_place_map.secret]]"
-dv_is_same_as:
-  - "[[has_place_map]]"
-  - "[[/_public/schema-org/Relation/has/has_place_map.public|has_place_map.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_place_map.internal|has_place_map.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_place_map.protect|has_place_map.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_place_map.private|has_place_map.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_place_map.personal|has_place_map.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_place_map.secret|has_place_map.secret]]"
----
-﻿---
-dv_is_:
-  same_as:
-    - "[[has_place_map]]"
-    - "[[/_public/schema-org/Relation/has/has_place_map.public|has_place_map.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_place_map.internal|has_place_map.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_place_map.protect|has_place_map.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_place_map.private|has_place_map.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_place_map.personal|has_place_map.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_place_map.secret|has_place_map.secret]]"
-dv_is_same_as:
-  - "[[has_place_map]]"
-  - "[[/_public/schema-org/Relation/has/has_place_map.public|has_place_map.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_place_map.internal|has_place_map.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_place_map.protect|has_place_map.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_place_map.private|has_place_map.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_place_map.personal|has_place_map.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_place_map.secret|has_place_map.secret]]"
----
-﻿---
 aliases:
   - has-map
   - hasMap
@@ -65,12 +27,9 @@ tags:
 title: has_place_map
 type: Predi_Relation
 dv_has_:
-  place_:
-    map: Map, URL
   domain: Place
   name: has_place_map
   range: Map, URL
-dv_has_place_map: Map, URL
   inverse: [[is_place_map_of]]
 dv_is_:
   same_as:

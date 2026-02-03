@@ -1,42 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_product_supported]]"
-    - "[[/_public/schema-org/Relation/has/has_product_supported.public|has_product_supported.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_product_supported.internal|has_product_supported.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_product_supported.protect|has_product_supported.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_product_supported.private|has_product_supported.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_product_supported.personal|has_product_supported.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_product_supported.secret|has_product_supported.secret]]"
-dv_is_same_as:
-  - "[[has_product_supported]]"
-  - "[[/_public/schema-org/Relation/has/has_product_supported.public|has_product_supported.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_product_supported.internal|has_product_supported.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_product_supported.protect|has_product_supported.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_product_supported.private|has_product_supported.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_product_supported.personal|has_product_supported.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_product_supported.secret|has_product_supported.secret]]"
----
-﻿---
-dv_is_:
-  same_as:
-    - "[[has_product_supported]]"
-    - "[[/_public/schema-org/Relation/has/has_product_supported.public|has_product_supported.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_product_supported.internal|has_product_supported.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_product_supported.protect|has_product_supported.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_product_supported.private|has_product_supported.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_product_supported.personal|has_product_supported.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_product_supported.secret|has_product_supported.secret]]"
-dv_is_same_as:
-  - "[[has_product_supported]]"
-  - "[[/_public/schema-org/Relation/has/has_product_supported.public|has_product_supported.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_product_supported.internal|has_product_supported.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_product_supported.protect|has_product_supported.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_product_supported.private|has_product_supported.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_product_supported.personal|has_product_supported.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_product_supported.secret|has_product_supported.secret]]"
----
-﻿---
 aliases:
   - has product-supported
   - productSupported
@@ -65,11 +27,9 @@ tags:
 title: has_product_supported
 type: Predi_Relation
 dv_has_:
-  product_supported: Product, Text
   domain: ContactPoint
   name: is_product_supported
   range: Product, Text
-dv_has_product_supported: Product, Text
   inverse: [[is_product_supported_of]]
 dv_is_:
   same_as:
@@ -95,6 +55,7 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_product_supported.secret|has_product_supported.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_product_supported_of]]"
+
 ---
 
 # [[has_product_supported]] 

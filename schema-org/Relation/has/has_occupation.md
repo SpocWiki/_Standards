@@ -1,42 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_occupation]]"
-    - "[[/_public/schema-org/Relation/has/has_occupation.public|has_occupation.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_occupation.internal|has_occupation.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_occupation.protect|has_occupation.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_occupation.private|has_occupation.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_occupation.personal|has_occupation.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_occupation.secret|has_occupation.secret]]"
-dv_is_same_as:
-  - "[[has_occupation]]"
-  - "[[/_public/schema-org/Relation/has/has_occupation.public|has_occupation.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_occupation.internal|has_occupation.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_occupation.protect|has_occupation.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_occupation.private|has_occupation.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_occupation.personal|has_occupation.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_occupation.secret|has_occupation.secret]]"
----
-﻿---
-dv_is_:
-  same_as:
-    - "[[has_occupation]]"
-    - "[[/_public/schema-org/Relation/has/has_occupation.public|has_occupation.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_occupation.internal|has_occupation.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_occupation.protect|has_occupation.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_occupation.private|has_occupation.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_occupation.personal|has_occupation.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_occupation.secret|has_occupation.secret]]"
-dv_is_same_as:
-  - "[[has_occupation]]"
-  - "[[/_public/schema-org/Relation/has/has_occupation.public|has_occupation.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_occupation.internal|has_occupation.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_occupation.protect|has_occupation.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_occupation.private|has_occupation.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_occupation.personal|has_occupation.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_occupation.secret|has_occupation.secret]]"
----
-﻿---
 aliases:
   - has-occupation
   - hasOccupation
@@ -70,8 +32,8 @@ dv_has_:
   domain: Person
   name: has_occupation
   range: Occupation
-dv_has_occupation: Occupation
   inverse: [[is_occupation_of]]
+dv_has_occupation: Occupation
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_occupation|has_occupation]]"

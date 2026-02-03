@@ -1,42 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_program_membership_used]]"
-    - "[[/_public/schema-org/Relation/has/has_program_membership_used.public|has_program_membership_used.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_program_membership_used.internal|has_program_membership_used.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_program_membership_used.protect|has_program_membership_used.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_program_membership_used.private|has_program_membership_used.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_program_membership_used.personal|has_program_membership_used.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_program_membership_used.secret|has_program_membership_used.secret]]"
-dv_is_same_as:
-  - "[[has_program_membership_used]]"
-  - "[[/_public/schema-org/Relation/has/has_program_membership_used.public|has_program_membership_used.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_program_membership_used.internal|has_program_membership_used.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_program_membership_used.protect|has_program_membership_used.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_program_membership_used.private|has_program_membership_used.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_program_membership_used.personal|has_program_membership_used.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_program_membership_used.secret|has_program_membership_used.secret]]"
----
-﻿---
-dv_is_:
-  same_as:
-    - "[[has_program_membership_used]]"
-    - "[[/_public/schema-org/Relation/has/has_program_membership_used.public|has_program_membership_used.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_program_membership_used.internal|has_program_membership_used.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_program_membership_used.protect|has_program_membership_used.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_program_membership_used.private|has_program_membership_used.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_program_membership_used.personal|has_program_membership_used.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_program_membership_used.secret|has_program_membership_used.secret]]"
-dv_is_same_as:
-  - "[[has_program_membership_used]]"
-  - "[[/_public/schema-org/Relation/has/has_program_membership_used.public|has_program_membership_used.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_program_membership_used.internal|has_program_membership_used.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_program_membership_used.protect|has_program_membership_used.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_program_membership_used.private|has_program_membership_used.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_program_membership_used.personal|has_program_membership_used.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_program_membership_used.secret|has_program_membership_used.secret]]"
----
-﻿---
 aliases:
   - has program-membership-used
   - programMembershipUsed
@@ -66,11 +28,9 @@ tags:
 title: has_program_membership_used
 type: Predi_Relation
 dv_has_:
-  program_membership_used: ProgramMembership
   domain: Reservation
   name: is_program_membership_used
   range: ProgramMembership
-dv_has_program_membership_used: ProgramMembership
   inverse: [[is_program_membership_used_of]]
 dv_is_:
   same_as:
@@ -94,6 +54,7 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_program_membership_used.secret|has_program_membership_used.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_program_membership_used_of]]"
+
 ---
 
 # [[has_program_membership_used]] 

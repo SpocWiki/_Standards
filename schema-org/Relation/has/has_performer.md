@@ -1,53 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_performer]]"
-    - "[[/_public/schema-org/Relation/has/has_performer.public|has_performer.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_performer.internal|has_performer.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_performer.protect|has_performer.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_performer.private|has_performer.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_performer.personal|has_performer.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_performer.secret|has_performer.secret]]"
-dv_is_same_as:
-  - "[[has_performer]]"
-  - "[[/_public/schema-org/Relation/has/has_performer.public|has_performer.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_performer.internal|has_performer.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_performer.protect|has_performer.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_performer.private|has_performer.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_performer.personal|has_performer.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_performer.secret|has_performer.secret]]"
----
-﻿---
-dv_has_:
-  performer: Organization, Person
-  domain: Event
-  name: has_performer
-  range: Organization, Person
-dv_has_performer: Organization, Person
-dv_is_:
-  same_as:
-    - "[[has_performer]]"
-    - "[[/_public/schema-org/Relation/has/has_performer.public|has_performer.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_performer.internal|has_performer.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_performer.protect|has_performer.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_performer.private|has_performer.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_performer.personal|has_performer.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_performer.secret|has_performer.secret]]"
-dv_has_domain: "[[../../Class/is_a_/Event|Event]]"
-dv_has_name: has_performer
-dv_has_range:
-  - "[[../../../Society/Agent/Community/Organization|Organization]]"
-  - "[[../../../Society/Agent/Person|Person]]"
-dv_is_same_as:
-  - "[[has_performer]]"
-  - "[[/_public/schema-org/Relation/has/has_performer.public|has_performer.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_performer.internal|has_performer.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_performer.protect|has_performer.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_performer.private|has_performer.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_performer.personal|has_performer.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_performer.secret|has_performer.secret]]"
----
-﻿---
 aliases:
   - has_performer
   - schema:performer
@@ -77,6 +28,32 @@ title: has_performer
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[../is/is_performer_in]]"
+dv_has_:
+  domain: Event
+  name: has_performer
+  range: Organization, Person
+dv_is_:
+  same_as:
+    - "[[has_performer]]"
+    - "[[/_public/schema-org/Relation/has/has_performer.public|has_performer.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_performer.internal|has_performer.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_performer.protect|has_performer.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_performer.private|has_performer.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_performer.personal|has_performer.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_performer.secret|has_performer.secret]]"
+dv_has_domain: "[[../../Class/is_a_/Event|Event]]"
+dv_has_range:
+  - "[[../../../Society/Agent/Community/Organization|Organization]]"
+  - "[[../../../Society/Agent/Person|Person]]"
+dv_is_same_as:
+  - "[[has_performer]]"
+  - "[[/_public/schema-org/Relation/has/has_performer.public|has_performer.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_performer.internal|has_performer.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_performer.protect|has_performer.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_performer.private|has_performer.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_performer.personal|has_performer.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_performer.secret|has_performer.secret]]"
+
 ---
 
 # [[has_performer]] 

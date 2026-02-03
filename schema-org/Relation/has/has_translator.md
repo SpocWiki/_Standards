@@ -1,42 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_translator]]"
-    - "[[/_public/schema-org/Relation/has/has_translator.public|has_translator.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_translator.internal|has_translator.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_translator.protect|has_translator.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_translator.private|has_translator.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_translator.personal|has_translator.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_translator.secret|has_translator.secret]]"
-dv_is_same_as:
-  - "[[has_translator]]"
-  - "[[/_public/schema-org/Relation/has/has_translator.public|has_translator.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_translator.internal|has_translator.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_translator.protect|has_translator.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_translator.private|has_translator.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_translator.personal|has_translator.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_translator.secret|has_translator.secret]]"
----
-﻿---
-dv_is_:
-  same_as:
-    - "[[has_translator]]"
-    - "[[/_public/schema-org/Relation/has/has_translator.public|has_translator.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_translator.internal|has_translator.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_translator.protect|has_translator.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_translator.private|has_translator.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_translator.personal|has_translator.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_translator.secret|has_translator.secret]]"
-dv_is_same_as:
-  - "[[has_translator]]"
-  - "[[/_public/schema-org/Relation/has/has_translator.public|has_translator.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_translator.internal|has_translator.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_translator.protect|has_translator.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_translator.private|has_translator.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_translator.personal|has_translator.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_translator.secret|has_translator.secret]]"
----
-?---
 aliases:
   - has translator
   - has_translator
@@ -64,11 +26,9 @@ tags:
 title: has_translator
 type: Predi_Relation
 dv_has_:
-  translator: Organization, Person
   domain: CreativeWork, Event
   name: is_translator
   range: Organization, Person
-dv_has_translator: Organization, Person
   inverse: [[is_translator_of]]
 dv_is_:
   same_as:

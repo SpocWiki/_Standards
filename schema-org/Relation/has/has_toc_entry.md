@@ -1,23 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_toc_entry]]"
-    - "[[/_public/schema-org/Relation/has/has_toc_entry.public|has_toc_entry.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_toc_entry.internal|has_toc_entry.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_toc_entry.protect|has_toc_entry.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_toc_entry.private|has_toc_entry.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_toc_entry.personal|has_toc_entry.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_toc_entry.secret|has_toc_entry.secret]]"
-dv_is_same_as:
-  - "[[has_toc_entry]]"
-  - "[[/_public/schema-org/Relation/has/has_toc_entry.public|has_toc_entry.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_toc_entry.internal|has_toc_entry.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_toc_entry.protect|has_toc_entry.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_toc_entry.private|has_toc_entry.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_toc_entry.personal|has_toc_entry.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_toc_entry.secret|has_toc_entry.secret]]"
----
-﻿---
 aliases:
   - has toc-entry
   - tocEntry
@@ -47,11 +28,9 @@ title: has_toc_entry
 type: Predi_Relation
 dv_has_:
   parent_property: "[[../../Composite/has_parts]]"
-  toc_entry: "[[../../../Society/Communication/Media/Creative_Work/Hyper_Toc_Entry|HyperTocEntry]]"
   domain: "[[../../../Society/Communication/Media/Creative_Work/Hyper_Toc|HyperToc]]"
   name: is_toc_entry
   range: "[[../../../Society/Communication/Media/Creative_Work/Hyper_Toc_Entry|HyperTocEntry]]"
-dv_has_toc_entry: "[[../../Class/is_a_/creative_work/hyper_toc_entry|HyperTocEntry]]"
   inverse: [[is_toc_entry_of]]
 dv_is_:
   part_of: "pending:"
@@ -78,6 +57,7 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_toc_entry.secret|has_toc_entry.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_toc_entry_of]]"
+
 ---
 
 # [[has_toc_entry]] 

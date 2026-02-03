@@ -1,42 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_typical_test]]"
-    - "[[/_public/schema-org/Relation/has/has_typical_test.public|has_typical_test.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_typical_test.internal|has_typical_test.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_typical_test.protect|has_typical_test.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_typical_test.private|has_typical_test.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_typical_test.personal|has_typical_test.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_typical_test.secret|has_typical_test.secret]]"
-dv_is_same_as:
-  - "[[has_typical_test]]"
-  - "[[/_public/schema-org/Relation/has/has_typical_test.public|has_typical_test.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_typical_test.internal|has_typical_test.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_typical_test.protect|has_typical_test.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_typical_test.private|has_typical_test.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_typical_test.personal|has_typical_test.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_typical_test.secret|has_typical_test.secret]]"
----
-﻿---
-dv_is_:
-  same_as:
-    - "[[has_typical_test]]"
-    - "[[/_public/schema-org/Relation/has/has_typical_test.public|has_typical_test.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_typical_test.internal|has_typical_test.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_typical_test.protect|has_typical_test.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_typical_test.private|has_typical_test.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_typical_test.personal|has_typical_test.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_typical_test.secret|has_typical_test.secret]]"
-dv_is_same_as:
-  - "[[has_typical_test]]"
-  - "[[/_public/schema-org/Relation/has/has_typical_test.public|has_typical_test.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_typical_test.internal|has_typical_test.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_typical_test.protect|has_typical_test.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_typical_test.private|has_typical_test.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_typical_test.personal|has_typical_test.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_typical_test.secret|has_typical_test.secret]]"
----
-﻿---
 aliases:
   - has typical-test
   - typicalTest
@@ -65,11 +27,9 @@ tags:
 title: has_typical_test
 type: Predi_Relation
 dv_has_:
-  typical_test: MedicalTest
   domain: MedicalCondition
   name: is_typical_test
   range: MedicalTest
-dv_has_typical_test: MedicalTest
   inverse: [[is_typical_test_of]]
 dv_is_:
   same_as:
@@ -93,6 +53,7 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_typical_test.secret|has_typical_test.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_typical_test_of]]"
+
 ---
 
 # [[has_typical_test]] 

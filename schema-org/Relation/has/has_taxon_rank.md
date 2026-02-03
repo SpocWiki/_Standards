@@ -1,23 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_taxon_rank]]"
-    - "[[/_public/schema-org/Relation/has/has_taxon_rank.public|has_taxon_rank.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_taxon_rank.internal|has_taxon_rank.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_taxon_rank.protect|has_taxon_rank.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_taxon_rank.private|has_taxon_rank.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_taxon_rank.personal|has_taxon_rank.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_taxon_rank.secret|has_taxon_rank.secret]]"
-dv_is_same_as:
-  - "[[has_taxon_rank]]"
-  - "[[/_public/schema-org/Relation/has/has_taxon_rank.public|has_taxon_rank.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_taxon_rank.internal|has_taxon_rank.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_taxon_rank.protect|has_taxon_rank.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_taxon_rank.private|has_taxon_rank.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_taxon_rank.personal|has_taxon_rank.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_taxon_rank.secret|has_taxon_rank.secret]]"
----
-﻿---
 aliases:
   - has taxon-rank
   - taxonRank
@@ -46,11 +27,9 @@ tags:
 title: has_taxon_rank
 type: Predi_Relation
 dv_has_:
-  taxon_rank: PropertyValue, Text, URL
   domain: "[[../../../bio/Taxon_Rank/Taxon|Taxon]]"
   name: has_taxon_rank
   range: "[[../../../bio/Taxon_Rank|Taxon_Rank]]"
-dv_has_taxon_rank: PropertyValue, Text, URL
   inverse: [[is_taxon_rank_of]]
 dv_is_:
   part_of: "pending:"
@@ -76,6 +55,7 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_taxon_rank.secret|has_taxon_rank.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_taxon_rank_of]]"
+
 ---
 
 # [[has_taxon_rank]] 

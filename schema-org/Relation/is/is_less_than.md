@@ -1,8 +1,7 @@
 ---
 aliases:
   - less
-  - less
-  - less
+  - schema:lesser
   - is_less_than
   - is less than
 confidential: public
@@ -57,8 +56,8 @@ dv_is_same_as:
 
 # [[is_less_than]] 
 
-has_complement = `=this.dv_has_complement` 
-has_inverse = `=this.dv_has_inverse` 
+- has_complement = `=this.dv_has_complement` 
+- has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #is_/less_than : : QualitativeValue  

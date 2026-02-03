@@ -1,42 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_screenshot]]"
-    - "[[/_public/schema-org/Relation/has/has_screenshot.public|has_screenshot.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_screenshot.internal|has_screenshot.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_screenshot.protect|has_screenshot.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_screenshot.private|has_screenshot.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_screenshot.personal|has_screenshot.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_screenshot.secret|has_screenshot.secret]]"
-dv_is_same_as:
-  - "[[has_screenshot]]"
-  - "[[/_public/schema-org/Relation/has/has_screenshot.public|has_screenshot.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_screenshot.internal|has_screenshot.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_screenshot.protect|has_screenshot.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_screenshot.private|has_screenshot.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_screenshot.personal|has_screenshot.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_screenshot.secret|has_screenshot.secret]]"
----
-﻿---
-dv_is_:
-  same_as:
-    - "[[has_screenshot]]"
-    - "[[/_public/schema-org/Relation/has/has_screenshot.public|has_screenshot.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_screenshot.internal|has_screenshot.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_screenshot.protect|has_screenshot.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_screenshot.private|has_screenshot.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_screenshot.personal|has_screenshot.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_screenshot.secret|has_screenshot.secret]]"
-dv_is_same_as:
-  - "[[has_screenshot]]"
-  - "[[/_public/schema-org/Relation/has/has_screenshot.public|has_screenshot.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_screenshot.internal|has_screenshot.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_screenshot.protect|has_screenshot.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_screenshot.private|has_screenshot.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_screenshot.personal|has_screenshot.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_screenshot.secret|has_screenshot.secret]]"
----
-﻿---
 aliases:
   - has screenshot
   - has_screenshot
@@ -61,11 +23,9 @@ tags:
 title: has_screenshot
 type: Predi_Relation
 dv_has_:
-  screenshot: ImageObject, URL
   domain: SoftwareApplication
   name: is_screenshot
   range: ImageObject, URL
-dv_has_screenshot: ImageObject, URL
   inverse: [[is_screenshot_of]]
 dv_is_:
   same_as:
@@ -91,6 +51,7 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_screenshot.secret|has_screenshot.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_screenshot_of]]"
+
 ---
 
 # [[has_screenshot]] 

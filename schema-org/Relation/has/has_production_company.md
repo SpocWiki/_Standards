@@ -1,42 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_production_company]]"
-    - "[[/_public/schema-org/Relation/has/has_production_company.public|has_production_company.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_production_company.internal|has_production_company.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_production_company.protect|has_production_company.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_production_company.private|has_production_company.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_production_company.personal|has_production_company.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_production_company.secret|has_production_company.secret]]"
-dv_is_same_as:
-  - "[[has_production_company]]"
-  - "[[/_public/schema-org/Relation/has/has_production_company.public|has_production_company.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_production_company.internal|has_production_company.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_production_company.protect|has_production_company.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_production_company.private|has_production_company.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_production_company.personal|has_production_company.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_production_company.secret|has_production_company.secret]]"
----
-﻿---
-dv_is_:
-  same_as:
-    - "[[has_production_company]]"
-    - "[[/_public/schema-org/Relation/has/has_production_company.public|has_production_company.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_production_company.internal|has_production_company.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_production_company.protect|has_production_company.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_production_company.private|has_production_company.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_production_company.personal|has_production_company.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_production_company.secret|has_production_company.secret]]"
-dv_is_same_as:
-  - "[[has_production_company]]"
-  - "[[/_public/schema-org/Relation/has/has_production_company.public|has_production_company.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_production_company.internal|has_production_company.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_production_company.protect|has_production_company.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_production_company.private|has_production_company.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_production_company.personal|has_production_company.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_production_company.secret|has_production_company.secret]]"
----
-﻿---
 aliases:
   - has production-company
   - productionCompany
@@ -65,11 +27,9 @@ tags:
 title: has_production_company
 type: Predi_Relation
 dv_has_:
-  production_company: Organization
   domain: CreativeWorkSeason, Episode, MediaObject, Movie, MovieSeries, RadioSeries, TVSeries, VideoGameSeries
   name: is_production_company
   range: Organization
-dv_has_production_company: Organization
   inverse: [[is_production_company_of]]
 dv_is_:
   same_as:
@@ -101,6 +61,7 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_production_company.secret|has_production_company.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_production_company_of]]"
+
 ---
 
 # [[has_production_company]] 

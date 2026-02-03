@@ -1,42 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_publication]]"
-    - "[[/_public/schema-org/Relation/has/has_publication.public|has_publication.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_publication.internal|has_publication.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_publication.protect|has_publication.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_publication.private|has_publication.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_publication.personal|has_publication.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_publication.secret|has_publication.secret]]"
-dv_is_same_as:
-  - "[[has_publication]]"
-  - "[[/_public/schema-org/Relation/has/has_publication.public|has_publication.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_publication.internal|has_publication.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_publication.protect|has_publication.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_publication.private|has_publication.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_publication.personal|has_publication.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_publication.secret|has_publication.secret]]"
----
-﻿---
-dv_is_:
-  same_as:
-    - "[[has_publication]]"
-    - "[[/_public/schema-org/Relation/has/has_publication.public|has_publication.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_publication.internal|has_publication.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_publication.protect|has_publication.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_publication.private|has_publication.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_publication.personal|has_publication.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_publication.secret|has_publication.secret]]"
-dv_is_same_as:
-  - "[[has_publication]]"
-  - "[[/_public/schema-org/Relation/has/has_publication.public|has_publication.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_publication.internal|has_publication.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_publication.protect|has_publication.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_publication.private|has_publication.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_publication.personal|has_publication.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_publication.secret|has_publication.secret]]"
----
-﻿---
 aliases:
   - has publication
   - has_publication
@@ -61,11 +23,9 @@ tags:
 title: has_publication
 type: Predi_Relation
 dv_has_:
-  publication: PublicationEvent
   domain: CreativeWork
   name: is_publication
   range: PublicationEvent
-dv_has_publication: PublicationEvent
   inverse: [[is_publication_of]]
 dv_is_:
   same_as:
@@ -89,6 +49,7 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_publication.secret|has_publication.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_publication_of]]"
+
 ---
 
 # [[has_publication]] 

@@ -1,74 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_penciler]]"
-    - "[[/_public/schema-org/Relation/has/has_penciler.public|has_penciler.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_penciler.internal|has_penciler.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_penciler.protect|has_penciler.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_penciler.private|has_penciler.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_penciler.personal|has_penciler.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_penciler.secret|has_penciler.secret]]"
-dv_is_same_as:
-  - "[[has_penciler]]"
-  - "[[/_public/schema-org/Relation/has/has_penciler.public|has_penciler.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_penciler.internal|has_penciler.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_penciler.protect|has_penciler.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_penciler.private|has_penciler.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_penciler.personal|has_penciler.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_penciler.secret|has_penciler.secret]]"
----
-﻿---
-dv_has_:
-  penciler: Person
-  domain: ComicIssue, ComicStory, VisualArtwork
-  name: has_penciler
-  range: Person
-dv_has_penciler: Person
-dv_is_:
-  same_as:
-    - "[[has_penciler]]"
-    - "[[/_public/schema-org/Relation/has/has_penciler.public|has_penciler.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_penciler.internal|has_penciler.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_penciler.protect|has_penciler.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_penciler.private|has_penciler.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_penciler.personal|has_penciler.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_penciler.secret|has_penciler.secret]]"
-dv_has_domain:
-  - "[[../../../Society/Communication/Media/Creative_Work/Publication_Issue/Comic_Issue|Comic_Issue]]"
-  - "[[../../../Society/Communication/Media/Creative_Work/Comic_Story|Comic_Story]]"
-  - "[[../../../Society/Communication/Media/Creative_Work/Visual_Artwork|Visual_Artwork]]"
-dv_has_name---
-dv_has_:
-  penciler: Person
-  domain: ComicIssue, ComicStory, VisualArtwork
-  name: has_penciler
-  range: Person
-dv_has_penciler: Person
-dv_is_:
-  same_as:
-    - "[[has_penciler]]"
-    - "[[/_public/schema-org/Relation/has/has_penciler.public|has_penciler.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_penciler.internal|has_penciler.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_penciler.protect|has_penciler.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_penciler.private|has_penciler.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_penciler.personal|has_penciler.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_penciler.secret|has_penciler.secret]]"
-dv_has_domain:
-  - "[[../../../Society/Communication/Media/Creative_Work/Publication_Issue/Comic_Issue|Comic_Issue]]"
-  - "[[../../../Society/Communication/Media/Creative_Work/Comic_Story|Comic_Story]]"
-  - "[[../../../Society/Communication/Media/Creative_Work/Visual_Artwork|Visual_Artwork]]"
-dv_has_name: has_penciler
-dv_has_range: "[[../../../Society/Agent/Person|Person]]"
-dv_is_same_as:
-  - "[[has_penciler]]"
-  - "[[/_public/schema-org/Relation/has/has_penciler.public|has_penciler.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_penciler.internal|has_penciler.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_penciler.protect|has_penciler.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_penciler.private|has_penciler.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_penciler.personal|has_penciler.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_penciler.secret|has_penciler.secret]]"
----
-﻿---
 aliases:
   - has penciler
   - has_penciler
@@ -94,6 +24,34 @@ title: has_penciler
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_penciler_of]]"
+dv_has_:
+  domain: ComicIssue, ComicStory, VisualArtwork
+  name: has_penciler
+  range: Person
+dv_is_:
+  same_as:
+    - "[[has_penciler]]"
+    - "[[/_public/schema-org/Relation/has/has_penciler.public|has_penciler.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_penciler.internal|has_penciler.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_penciler.protect|has_penciler.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_penciler.private|has_penciler.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_penciler.personal|has_penciler.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_penciler.secret|has_penciler.secret]]"
+dv_has_domain:
+  - "[[../../../Society/Communication/Media/Creative_Work/Publication_Issue/Comic_Issue|Comic_Issue]]"
+  - "[[../../../Society/Communication/Media/Creative_Work/Comic_Story|Comic_Story]]"
+  - "[[../../../Society/Communication/Media/Creative_Work/Visual_Artwork|Visual_Artwork]]"
+dv_has_name: has_penciler
+dv_has_range: "[[../../../Society/Agent/Person|Person]]"
+dv_is_same_as:
+  - "[[has_penciler]]"
+  - "[[/_public/schema-org/Relation/has/has_penciler.public|has_penciler.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_penciler.internal|has_penciler.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_penciler.protect|has_penciler.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_penciler.private|has_penciler.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_penciler.personal|has_penciler.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_penciler.secret|has_penciler.secret]]"
+
 ---
 
 # [[has_penciler]] 

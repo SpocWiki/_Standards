@@ -1,42 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_software_help]]"
-    - "[[/_public/schema-org/Relation/has/has_software_help.public|has_software_help.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_software_help.internal|has_software_help.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_software_help.protect|has_software_help.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_software_help.private|has_software_help.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_software_help.personal|has_software_help.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_software_help.secret|has_software_help.secret]]"
-dv_is_same_as:
-  - "[[has_software_help]]"
-  - "[[/_public/schema-org/Relation/has/has_software_help.public|has_software_help.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_software_help.internal|has_software_help.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_software_help.protect|has_software_help.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_software_help.private|has_software_help.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_software_help.personal|has_software_help.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_software_help.secret|has_software_help.secret]]"
----
-﻿---
-dv_is_:
-  same_as:
-    - "[[has_software_help]]"
-    - "[[/_public/schema-org/Relation/has/has_software_help.public|has_software_help.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_software_help.internal|has_software_help.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_software_help.protect|has_software_help.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_software_help.private|has_software_help.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_software_help.personal|has_software_help.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_software_help.secret|has_software_help.secret]]"
-dv_is_same_as:
-  - "[[has_software_help]]"
-  - "[[/_public/schema-org/Relation/has/has_software_help.public|has_software_help.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_software_help.internal|has_software_help.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_software_help.protect|has_software_help.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_software_help.private|has_software_help.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_software_help.personal|has_software_help.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_software_help.secret|has_software_help.secret]]"
----
-?---
 aliases:
   - has software-help
   - softwareHelp
@@ -65,11 +27,9 @@ tags:
 title: has_software_help
 type: Predi_Relation
 dv_has_:
-  software_help: CreativeWork
   domain: SoftwareApplication
   name: is_software_help
   range: CreativeWork
-dv_has_software_help: CreativeWork
   inverse: [[is_software_help_of]]
 dv_is_:
   same_as:
@@ -93,6 +53,7 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_software_help.secret|has_software_help.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_software_help_of]]"
+
 ---
 
 # [[has_software_help]] 

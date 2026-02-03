@@ -1,51 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_recorded_as]]"
-    - "[[/_public/schema-org/Relation/has/has_recorded_as.public|has_recorded_as.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_recorded_as.internal|has_recorded_as.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_recorded_as.protect|has_recorded_as.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_recorded_as.private|has_recorded_as.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_recorded_as.personal|has_recorded_as.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_recorded_as.secret|has_recorded_as.secret]]"
-dv_is_same_as:
-  - "[[has_recorded_as]]"
-  - "[[/_public/schema-org/Relation/has/has_recorded_as.public|has_recorded_as.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_recorded_as.internal|has_recorded_as.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_recorded_as.protect|has_recorded_as.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_recorded_as.private|has_recorded_as.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_recorded_as.personal|has_recorded_as.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_recorded_as.secret|has_recorded_as.secret]]"
----
-﻿---
-dv_has_:
-  recorded_as: MusicRecording
-  domain: MusicComposition
-  name: is_recorded_as
-  range: MusicRecording
-dv_has_recorded_as: MusicRecording
-dv_is_:
-  same_as:
-    - "[[has_recorded_as]]"
-    - "[[/_public/schema-org/Relation/has/has_recorded_as.public|has_recorded_as.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_recorded_as.internal|has_recorded_as.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_recorded_as.protect|has_recorded_as.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_recorded_as.private|has_recorded_as.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_recorded_as.personal|has_recorded_as.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_recorded_as.secret|has_recorded_as.secret]]"
-dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Music_Composition|Music_Composition]]"
-dv_has_name: is_recorded_as
-dv_has_range: "[[../../../Society/Communication/Media/Creative_Work/Music_Recording|Music_Recording]]"
-dv_is_same_as:
-  - "[[has_recorded_as]]"
-  - "[[/_public/schema-org/Relation/has/has_recorded_as.public|has_recorded_as.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_recorded_as.internal|has_recorded_as.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_recorded_as.protect|has_recorded_as.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_recorded_as.private|has_recorded_as.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_recorded_as.personal|has_recorded_as.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_recorded_as.secret|has_recorded_as.secret]]"
----
-﻿---
 aliases:
   - has recorded-as
   - recordedAs
@@ -75,6 +28,36 @@ title: has_recorded_as
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_recorded_as_of]]"
+dv_is_:
+  same_as:
+    - "[[has_recorded_as]]"
+    - "[[/_public/schema-org/Relation/has/has_recorded_as.public|has_recorded_as.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_recorded_as.internal|has_recorded_as.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_recorded_as.protect|has_recorded_as.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_recorded_as.private|has_recorded_as.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_recorded_as.personal|has_recorded_as.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_recorded_as.secret|has_recorded_as.secret]]"
+dv_is_same_as:
+  - "[[has_recorded_as]]"
+  - "[[/_public/schema-org/Relation/has/has_recorded_as.public|has_recorded_as.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_recorded_as.internal|has_recorded_as.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_recorded_as.protect|has_recorded_as.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_recorded_as.private|has_recorded_as.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_recorded_as.personal|has_recorded_as.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_recorded_as.secret|has_recorded_as.secret]]"
+
+
+dv_has_:
+  recorded_as: MusicRecording
+  domain: MusicComposition
+  name: is_recorded_as
+  range: MusicRecording
+dv_has_recorded_as: MusicRecording
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Music_Composition|Music_Composition]]"
+dv_has_name: is_recorded_as
+dv_has_range: "[[../../../Society/Communication/Media/Creative_Work/Music_Recording|Music_Recording]]"
+
+
 ---
 
 # [[has_recorded_as]] 

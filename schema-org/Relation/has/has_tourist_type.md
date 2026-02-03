@@ -1,42 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_tourist_type]]"
-    - "[[/_public/schema-org/Relation/has/has_tourist_type.public|has_tourist_type.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_tourist_type.internal|has_tourist_type.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_tourist_type.protect|has_tourist_type.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_tourist_type.private|has_tourist_type.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_tourist_type.personal|has_tourist_type.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_tourist_type.secret|has_tourist_type.secret]]"
-dv_is_same_as:
-  - "[[has_tourist_type]]"
-  - "[[/_public/schema-org/Relation/has/has_tourist_type.public|has_tourist_type.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_tourist_type.internal|has_tourist_type.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_tourist_type.protect|has_tourist_type.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_tourist_type.private|has_tourist_type.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_tourist_type.personal|has_tourist_type.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_tourist_type.secret|has_tourist_type.secret]]"
----
-﻿---
-dv_is_:
-  same_as:
-    - "[[has_tourist_type]]"
-    - "[[/_public/schema-org/Relation/has/has_tourist_type.public|has_tourist_type.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_tourist_type.internal|has_tourist_type.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_tourist_type.protect|has_tourist_type.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_tourist_type.private|has_tourist_type.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_tourist_type.personal|has_tourist_type.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_tourist_type.secret|has_tourist_type.secret]]"
-dv_is_same_as:
-  - "[[has_tourist_type]]"
-  - "[[/_public/schema-org/Relation/has/has_tourist_type.public|has_tourist_type.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_tourist_type.internal|has_tourist_type.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_tourist_type.protect|has_tourist_type.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_tourist_type.private|has_tourist_type.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_tourist_type.personal|has_tourist_type.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_tourist_type.secret|has_tourist_type.secret]]"
----
-﻿---
 aliases:
   - has tourist-type
   - touristType
@@ -65,11 +27,9 @@ tags:
 title: has_tourist_type
 type: Predi_Relation
 dv_has_:
-  tourist_type: Audience, Text
   domain: TouristAttraction, TouristDestination, TouristTrip
   name: is_tourist_type
   range: Audience, Text
-dv_has_tourist_type: Audience, Text
   inverse: [[is_tourist_type_of]]
 dv_is_:
   same_as:
@@ -98,6 +58,7 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_tourist_type.secret|has_tourist_type.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_tourist_type_of]]"
+
 ---
 
 # [[has_tourist_type]] 

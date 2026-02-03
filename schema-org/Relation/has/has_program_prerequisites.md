@@ -1,55 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_program_prerequisites]]"
-    - "[[/_public/schema-org/Relation/has/has_program_prerequisites.public|has_program_prerequisites.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_program_prerequisites.internal|has_program_prerequisites.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_program_prerequisites.protect|has_program_prerequisites.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_program_prerequisites.private|has_program_prerequisites.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_program_prerequisites.personal|has_program_prerequisites.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_program_prerequisites.secret|has_program_prerequisites.secret]]"
-dv_is_same_as:
-  - "[[has_program_prerequisites]]"
-  - "[[/_public/schema-org/Relation/has/has_program_prerequisites.public|has_program_prerequisites.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_program_prerequisites.internal|has_program_prerequisites.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_program_prerequisites.protect|has_program_prerequisites.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_program_prerequisites.private|has_program_prerequisites.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_program_prerequisites.personal|has_program_prerequisites.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_program_prerequisites.secret|has_program_prerequisites.secret]]"
----
-﻿---
-dv_has_:
-  program_prerequisites: AlignmentObject, Course, EducationalOccupationalCredential, Text
-  domain: EducationalOccupationalProgram
-  name: is_program_prerequisites
-  range: AlignmentObject, Course, EducationalOccupationalCredential, Text
-dv_has_program_prerequisites: AlignmentObject, Course, EducationalOccupationalCredential, Text
-dv_is_:
-  same_as:
-    - "[[has_program_prerequisites]]"
-    - "[[/_public/schema-org/Relation/has/has_program_prerequisites.public|has_program_prerequisites.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_program_prerequisites.internal|has_program_prerequisites.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_program_prerequisites.protect|has_program_prerequisites.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_program_prerequisites.private|has_program_prerequisites.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_program_prerequisites.personal|has_program_prerequisites.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_program_prerequisites.secret|has_program_prerequisites.secret]]"
-dv_has_domain: "[[../../Class/is_a_/Intangible/Educational_Occupational_Program|EducationalOccupationalProgram]]"
-dv_has_name: is_program_prerequisites
-dv_has_range:
-  - "[[../../Class/is_a_/Intangible/Alignment_Object|Alignment_Object]]"
-  - "[[../../../Society/Communication/Media/Creative_Work/Course|Course]]"
-  - "[[../../../Society/Communication/Media/Creative_Work/Educational_Occupational_Credential|Educational_Occupational_Credential]]"
-  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
-dv_is_same_as:
-  - "[[has_program_prerequisites]]"
-  - "[[/_public/schema-org/Relation/has/has_program_prerequisites.public|has_program_prerequisites.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_program_prerequisites.internal|has_program_prerequisites.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_program_prerequisites.protect|has_program_prerequisites.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_program_prerequisites.private|has_program_prerequisites.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_program_prerequisites.personal|has_program_prerequisites.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_program_prerequisites.secret|has_program_prerequisites.secret]]"
----
-﻿---
 aliases:
   - has program-prerequisites
   - programPrerequisites
@@ -79,6 +28,38 @@ title: has_program_prerequisites
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_program_prerequisites_of]]"
+dv_is_:
+  same_as:
+    - "[[has_program_prerequisites]]"
+    - "[[/_public/schema-org/Relation/has/has_program_prerequisites.public|has_program_prerequisites.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_program_prerequisites.internal|has_program_prerequisites.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_program_prerequisites.protect|has_program_prerequisites.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_program_prerequisites.private|has_program_prerequisites.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_program_prerequisites.personal|has_program_prerequisites.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_program_prerequisites.secret|has_program_prerequisites.secret]]"
+dv_is_same_as:
+  - "[[has_program_prerequisites]]"
+  - "[[/_public/schema-org/Relation/has/has_program_prerequisites.public|has_program_prerequisites.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_program_prerequisites.internal|has_program_prerequisites.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_program_prerequisites.protect|has_program_prerequisites.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_program_prerequisites.private|has_program_prerequisites.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_program_prerequisites.personal|has_program_prerequisites.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_program_prerequisites.secret|has_program_prerequisites.secret]]"
+
+dv_has_:
+  program_prerequisites: AlignmentObject, Course, EducationalOccupationalCredential, Text
+  domain: EducationalOccupationalProgram
+  name: is_program_prerequisites
+  range: AlignmentObject, Course, EducationalOccupationalCredential, Text
+dv_has_program_prerequisites: AlignmentObject, Course, EducationalOccupationalCredential, Text
+dv_has_domain: "[[../../Class/is_a_/Intangible/Educational_Occupational_Program|EducationalOccupationalProgram]]"
+dv_has_name: is_program_prerequisites
+dv_has_range:
+  - "[[../../Class/is_a_/Intangible/Alignment_Object|Alignment_Object]]"
+  - "[[../../../Society/Communication/Media/Creative_Work/Course|Course]]"
+  - "[[../../../Society/Communication/Media/Creative_Work/Educational_Occupational_Credential|Educational_Occupational_Credential]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
+
 ---
 
 # [[has_program_prerequisites]] 

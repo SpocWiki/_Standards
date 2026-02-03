@@ -1,25 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[../../../WikiData/WD~Distillation,101017|WD~Distillation,101017]]"
-    - "[[/_Standards/Chemistry/Substance/Mixture/Distillation|Distillation]]"
-    - "[[/_public/Chemistry/Substance/Mixture/Distillation.public|Distillation.public]]"
-    - "[[/_internal/Chemistry/Substance/Mixture/Distillation.internal|Distillation.internal]]"
-    - "[[/_protect/Chemistry/Substance/Mixture/Distillation.protect|Distillation.protect]]"
-    - "[[/_private/Chemistry/Substance/Mixture/Distillation.private|Distillation.private]]"
-    - "[[/_personal/Chemistry/Substance/Mixture/Distillation.personal|Distillation.personal]]"
-    - "[[/_secret/Chemistry/Substance/Mixture/Distillation.secret|Distillation.secret]]"
-dv_is_same_as:
-  - "[[../../../WikiData/WD~Distillation,101017|WD~Distillation,101017]]"
-  - "[[/_Standards/Chemistry/Substance/Mixture/Distillation|Distillation]]"
-  - "[[/_public/Chemistry/Substance/Mixture/Distillation.public|Distillation.public]]"
-  - "[[/_internal/Chemistry/Substance/Mixture/Distillation.internal|Distillation.internal]]"
-  - "[[/_protect/Chemistry/Substance/Mixture/Distillation.protect|Distillation.protect]]"
-  - "[[/_private/Chemistry/Substance/Mixture/Distillation.private|Distillation.private]]"
-  - "[[/_personal/Chemistry/Substance/Mixture/Distillation.personal|Distillation.personal]]"
-  - "[[/_secret/Chemistry/Substance/Mixture/Distillation.secret|Distillation.secret]]"
----
-﻿---
 has_time_started: 0300-01-01 
 aliases:
   - Destillation
@@ -48,6 +27,26 @@ UMLS_CUI: C2718007
 Commons_category: Distillation
 MeSH_tree_code: E05.196.155.249
 start_time: 0300-01-01T00:00:00Z
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Distillation,101017|WD~Distillation,101017]]"
+    - "[[/_Standards/Chemistry/Substance/Mixture/Distillation|Distillation]]"
+    - "[[/_public/Chemistry/Substance/Mixture/Distillation.public|Distillation.public]]"
+    - "[[/_internal/Chemistry/Substance/Mixture/Distillation.internal|Distillation.internal]]"
+    - "[[/_protect/Chemistry/Substance/Mixture/Distillation.protect|Distillation.protect]]"
+    - "[[/_private/Chemistry/Substance/Mixture/Distillation.private|Distillation.private]]"
+    - "[[/_personal/Chemistry/Substance/Mixture/Distillation.personal|Distillation.personal]]"
+    - "[[/_secret/Chemistry/Substance/Mixture/Distillation.secret|Distillation.secret]]"
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Distillation,101017|WD~Distillation,101017]]"
+  - "[[/_Standards/Chemistry/Substance/Mixture/Distillation|Distillation]]"
+  - "[[/_public/Chemistry/Substance/Mixture/Distillation.public|Distillation.public]]"
+  - "[[/_internal/Chemistry/Substance/Mixture/Distillation.internal|Distillation.internal]]"
+  - "[[/_protect/Chemistry/Substance/Mixture/Distillation.protect|Distillation.protect]]"
+  - "[[/_private/Chemistry/Substance/Mixture/Distillation.private|Distillation.private]]"
+  - "[[/_personal/Chemistry/Substance/Mixture/Distillation.personal|Distillation.personal]]"
+  - "[[/_secret/Chemistry/Substance/Mixture/Distillation.secret|Distillation.secret]]"
+
 ---
 
 # [[Distillation]] 

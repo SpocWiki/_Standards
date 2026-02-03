@@ -16,8 +16,8 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_value_reference.private|has_value_reference.private]]"
   - "[[/_personal/schema-org/Relation/has/has_value_reference.personal|has_value_reference.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_value_reference.secret|has_value_reference.secret]]"
----
-﻿---
+
+
 dv_is_:
   same_as:
     - "[[has_value_reference]]"
@@ -35,8 +35,8 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_value_reference.private|has_value_reference.private]]"
   - "[[/_personal/schema-org/Relation/has/has_value_reference.personal|has_value_reference.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_value_reference.secret|has_value_reference.secret]]"
----
-﻿---
+
+
 aliases:
   - has value-reference
   - valueReference

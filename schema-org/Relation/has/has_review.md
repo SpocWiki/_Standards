@@ -16,8 +16,8 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_review.private|has_review.private]]"
   - "[[/_personal/schema-org/Relation/has/has_review.personal|has_review.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_review.secret|has_review.secret]]"
----
-﻿---
+
+
 aliases:
   - has_review
   - schema:review

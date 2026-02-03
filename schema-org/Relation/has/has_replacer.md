@@ -1,54 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_replacer]]"
-    - "[[/_public/schema-org/Relation/has/has_replacer.public|has_replacer.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_replacer.internal|has_replacer.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_replacer.protect|has_replacer.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_replacer.private|has_replacer.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_replacer.personal|has_replacer.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_replacer.secret|has_replacer.secret]]"
-dv_is_same_as:
-  - "[[has_replacer]]"
-  - "[[/_public/schema-org/Relation/has/has_replacer.public|has_replacer.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_replacer.internal|has_replacer.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_replacer.protect|has_replacer.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_replacer.private|has_replacer.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_replacer.personal|has_replacer.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_replacer.secret|has_replacer.secret]]"
----
-﻿---
-dv_has_:
-  replacer: "[Thing](../../../Class/Thing)"
-  domain: ReplaceAction
-  name: is_replacer
-  range: Thing
-  parent_:
-    property: object
-dv_has_replacer: "[Thing](../../../Class/Thing)"
-dv_is_:
-  same_as:
-    - "[[has_replacer]]"
-    - "[[/_public/schema-org/Relation/has/has_replacer.public|has_replacer.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_replacer.internal|has_replacer.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_replacer.protect|has_replacer.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_replacer.private|has_replacer.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_replacer.personal|has_replacer.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_replacer.secret|has_replacer.secret]]"
-dv_has_domain: "[[../../Class/is_a_/Action/Update_Action/Replace_Action|ReplaceAction]]"
-dv_has_name: is_replacer
-dv_has_range: "[[../../Class/Thing|Thing]]"
-dv_has_parent_property: object
-dv_is_same_as:
-  - "[[has_replacer]]"
-  - "[[/_public/schema-org/Relation/has/has_replacer.public|has_replacer.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_replacer.internal|has_replacer.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_replacer.protect|has_replacer.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_replacer.private|has_replacer.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_replacer.personal|has_replacer.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_replacer.secret|has_replacer.secret]]"
----
-﻿---
 aliases:
   - has replacer
   - has_replacer
@@ -74,6 +24,39 @@ title: has_replacer
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_replacer_of]]"
+
+dv_is_:
+  same_as:
+    - "[[has_replacer]]"
+    - "[[/_public/schema-org/Relation/has/has_replacer.public|has_replacer.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_replacer.internal|has_replacer.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_replacer.protect|has_replacer.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_replacer.private|has_replacer.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_replacer.personal|has_replacer.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_replacer.secret|has_replacer.secret]]"
+dv_is_same_as:
+  - "[[has_replacer]]"
+  - "[[/_public/schema-org/Relation/has/has_replacer.public|has_replacer.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_replacer.internal|has_replacer.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_replacer.protect|has_replacer.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_replacer.private|has_replacer.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_replacer.personal|has_replacer.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_replacer.secret|has_replacer.secret]]"
+
+
+dv_has_:
+  replacer: "[Thing](../../../Class/Thing)"
+  domain: ReplaceAction
+  name: is_replacer
+  range: Thing
+  parent_:
+    property: object
+dv_has_replacer: "[Thing](../../../Class/Thing)"
+dv_has_domain: "[[../../Class/is_a_/Action/Update_Action/Replace_Action|ReplaceAction]]"
+dv_has_name: is_replacer
+dv_has_range: "[[../../Class/Thing|Thing]]"
+dv_has_parent_property: object
+
 ---
 
 # [[has_replacer]] 

@@ -1,42 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_permit_audience]]"
-    - "[[/_public/schema-org/Relation/has/has_permit_audience.public|has_permit_audience.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_permit_audience.internal|has_permit_audience.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_permit_audience.protect|has_permit_audience.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_permit_audience.private|has_permit_audience.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_permit_audience.personal|has_permit_audience.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_permit_audience.secret|has_permit_audience.secret]]"
-dv_is_same_as:
-  - "[[has_permit_audience]]"
-  - "[[/_public/schema-org/Relation/has/has_permit_audience.public|has_permit_audience.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_permit_audience.internal|has_permit_audience.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_permit_audience.protect|has_permit_audience.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_permit_audience.private|has_permit_audience.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_permit_audience.personal|has_permit_audience.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_permit_audience.secret|has_permit_audience.secret]]"
----
-﻿---
-dv_is_:
-  same_as:
-    - "[[has_permit_audience]]"
-    - "[[/_public/schema-org/Relation/has/has_permit_audience.public|has_permit_audience.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_permit_audience.internal|has_permit_audience.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_permit_audience.protect|has_permit_audience.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_permit_audience.private|has_permit_audience.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_permit_audience.personal|has_permit_audience.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_permit_audience.secret|has_permit_audience.secret]]"
-dv_is_same_as:
-  - "[[has_permit_audience]]"
-  - "[[/_public/schema-org/Relation/has/has_permit_audience.public|has_permit_audience.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_permit_audience.internal|has_permit_audience.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_permit_audience.protect|has_permit_audience.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_permit_audience.private|has_permit_audience.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_permit_audience.personal|has_permit_audience.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_permit_audience.secret|has_permit_audience.secret]]"
----
-﻿---
 aliases:
   - has permit-audience
   - permitAudience
@@ -65,11 +27,9 @@ tags:
 title: has_permit_audience
 type: Predi_Relation
 dv_has_:
-  permit_audience: Audience
   domain: Permit
   name: is_permit_audience
   range: Audience
-dv_has_permit_audience: Audience
   inverse: [[is_permit_audience_of]]
 dv_is_:
   same_as:

@@ -1,23 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_status]]"
-    - "[[/_public/schema-org/Relation/has/has_status.public|has_status.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_status.internal|has_status.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_status.protect|has_status.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_status.private|has_status.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_status.personal|has_status.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_status.secret|has_status.secret]]"
-dv_is_same_as:
-  - "[[has_status]]"
-  - "[[/_public/schema-org/Relation/has/has_status.public|has_status.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_status.internal|has_status.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_status.protect|has_status.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_status.private|has_status.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_status.personal|has_status.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_status.secret|has_status.secret]]"
----
-﻿---
 aliases:
   - has status
   - has_status
@@ -46,8 +27,8 @@ dv_has_:
   domain: ["[[../../../bio/Medicine/Medical_Condition|Medical_Condition]]", "[[../../../bio/Medicine/Medical_Guideline/Medical_Procedure|Medical_Procedure]]", "[[../../../bio/Medicine/Medical_Entity/Medical_Study|Medical_Study]]"]
   name: is_status
   range: ["[[../../Enumeration/Status_Enumeration/Event_Status_Type|Event_Status_Type]]", "[[../../../bio/Medicine/Medical_Enumeration/Medical_Study_Status|Medical_Study_Status]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
-dv_has_status: ["[[../../Enumeration/Status_Enumeration/Event_Status_Type|Event_Status_Type]]", "[[../../../bio/Medicine/Medical_Enumeration/Medical_Study_Status|Medical_Study_Status]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
   inverse: [[is_status_of]]
+dv_has_status: ["[[../../Enumeration/Status_Enumeration/Event_Status_Type|Event_Status_Type]]", "[[../../../bio/Medicine/Medical_Enumeration/Medical_Study_Status|Medical_Study_Status]]", "[[../../Class/is_a_/Data_Type/Text|Text]]"]
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_status|has_status]]"
@@ -70,6 +51,7 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_status.secret|has_status.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_status_of]]"
+
 ---
 
 # [[has_status]] 

@@ -1,42 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_price_type]]"
-    - "[[/_public/schema-org/Relation/has/has_price_type.public|has_price_type.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_price_type.internal|has_price_type.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_price_type.protect|has_price_type.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_price_type.private|has_price_type.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_price_type.personal|has_price_type.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_price_type.secret|has_price_type.secret]]"
-dv_is_same_as:
-  - "[[has_price_type]]"
-  - "[[/_public/schema-org/Relation/has/has_price_type.public|has_price_type.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_price_type.internal|has_price_type.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_price_type.protect|has_price_type.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_price_type.private|has_price_type.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_price_type.personal|has_price_type.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_price_type.secret|has_price_type.secret]]"
----
-﻿---
-dv_is_:
-  same_as:
-    - "[[has_price_type]]"
-    - "[[/_public/schema-org/Relation/has/has_price_type.public|has_price_type.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_price_type.internal|has_price_type.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_price_type.protect|has_price_type.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_price_type.private|has_price_type.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_price_type.personal|has_price_type.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_price_type.secret|has_price_type.secret]]"
-dv_is_same_as:
-  - "[[has_price_type]]"
-  - "[[/_public/schema-org/Relation/has/has_price_type.public|has_price_type.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_price_type.internal|has_price_type.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_price_type.protect|has_price_type.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_price_type.private|has_price_type.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_price_type.personal|has_price_type.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_price_type.secret|has_price_type.secret]]"
----
-﻿---
 aliases:
   - has price-type
   - priceType
@@ -65,11 +27,9 @@ tags:
 title: has_price_type
 type: Predi_Relation
 dv_has_:
-  price_type: PriceTypeEnumeration, Text
   domain: CompoundPriceSpecification, UnitPriceSpecification
   name: is_price_type
   range: PriceTypeEnumeration, Text
-dv_has_price_type: PriceTypeEnumeration, Text
   inverse: [[is_price_type_of]]
 dv_is_:
   same_as:
@@ -97,6 +57,7 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_price_type.secret|has_price_type.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_price_type_of]]"
+
 ---
 
 # [[has_price_type]] 

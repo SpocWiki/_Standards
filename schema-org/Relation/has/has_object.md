@@ -46,8 +46,7 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_object.private|has_object.private]]"
   - "[[/_personal/schema-org/Relation/has/has_object.personal|has_object.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_object.secret|has_object.secret]]"
----
-﻿---
+
 aliases:
   - has object
   - has_object

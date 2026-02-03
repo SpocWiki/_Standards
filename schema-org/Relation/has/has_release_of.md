@@ -1,51 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_release_of]]"
-    - "[[/_public/schema-org/Relation/has/has_release_of.public|has_release_of.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_release_of.internal|has_release_of.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_release_of.protect|has_release_of.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_release_of.private|has_release_of.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_release_of.personal|has_release_of.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_release_of.secret|has_release_of.secret]]"
-dv_is_same_as:
-  - "[[has_release_of]]"
-  - "[[/_public/schema-org/Relation/has/has_release_of.public|has_release_of.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_release_of.internal|has_release_of.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_release_of.protect|has_release_of.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_release_of.private|has_release_of.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_release_of.personal|has_release_of.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_release_of.secret|has_release_of.secret]]"
----
-﻿---
-dv_has_:
-  release_of: MusicAlbum
-  domain: MusicRelease
-  name: is_release_of
-  range: MusicAlbum
-dv_has_release_of: MusicAlbum
-dv_is_:
-  same_as:
-    - "[[has_release_of]]"
-    - "[[/_public/schema-org/Relation/has/has_release_of.public|has_release_of.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_release_of.internal|has_release_of.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_release_of.protect|has_release_of.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_release_of.private|has_release_of.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_release_of.personal|has_release_of.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_release_of.secret|has_release_of.secret]]"
-dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Music_Playlist/Music_Release|Music_Release]]"
-dv_has_name: is_release_of
-dv_has_range: "[[../../../Society/Communication/Media/Creative_Work/Music_Playlist/Music_Album|Music_Album]]"
-dv_is_same_as:
-  - "[[has_release_of]]"
-  - "[[/_public/schema-org/Relation/has/has_release_of.public|has_release_of.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_release_of.internal|has_release_of.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_release_of.protect|has_release_of.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_release_of.private|has_release_of.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_release_of.personal|has_release_of.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_release_of.secret|has_release_of.secret]]"
----
-﻿---
 aliases:
   - has release-of
   - releaseOf
@@ -75,6 +28,36 @@ title: has_release_of
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_release_of_of]]"
+
+dv_is_:
+  same_as:
+    - "[[has_release_of]]"
+    - "[[/_public/schema-org/Relation/has/has_release_of.public|has_release_of.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_release_of.internal|has_release_of.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_release_of.protect|has_release_of.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_release_of.private|has_release_of.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_release_of.personal|has_release_of.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_release_of.secret|has_release_of.secret]]"
+dv_is_same_as:
+  - "[[has_release_of]]"
+  - "[[/_public/schema-org/Relation/has/has_release_of.public|has_release_of.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_release_of.internal|has_release_of.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_release_of.protect|has_release_of.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_release_of.private|has_release_of.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_release_of.personal|has_release_of.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_release_of.secret|has_release_of.secret]]"
+
+
+dv_has_:
+  release_of: MusicAlbum
+  domain: MusicRelease
+  name: is_release_of
+  range: MusicAlbum
+dv_has_release_of: MusicAlbum
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Music_Playlist/Music_Release|Music_Release]]"
+dv_has_name: is_release_of
+dv_has_range: "[[../../../Society/Communication/Media/Creative_Work/Music_Playlist/Music_Album|Music_Album]]"
+
 ---
 
 # [[has_release_of]] 

@@ -3,6 +3,7 @@ aliases:
   - successor-of
   - successor_of
   - successorOf
+  - schema:successorOf
   - has_predecessor
   - is_successor_of
   - is successor of
@@ -29,10 +30,7 @@ title: has_successor_of
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_:
-  inverse:
-    - 
-    - "[[../has/has_next_item]]"
-    - "[[is_predecessor_of]]"
+  inverse: "[[is_predecessor_of]]"
   domain: "[[../../Class/is_a_/product/product_model|ProductModel]]"
   name: is_successor_of
   range: "[[../../../Society/Agent/Community/Organization/Business/Product/Product_Model|ProductModel]]"
@@ -46,10 +44,7 @@ dv_is_:
     - "[[/_private/schema-org/Relation/is/is_successor_of.private|is_successor_of.private]]"
     - "[[/_personal/schema-org/Relation/is/is_successor_of.personal|is_successor_of.personal]]"
     - "[[/_secret/schema-org/Relation/is/is_successor_of.secret|is_successor_of.secret]]"
-dv_has_inverse:
-  - 
-  - "[[../has/has_next_item]]"
-  - "[[is_predecessor_of]]"
+dv_has_inverse: "[[is_predecessor_of]]"
 dv_has_domain: "[[../../Class/is_a_/product/product_model|ProductModel]]"
 dv_has_name: is_successor_of
 dv_has_range: "[[../../../Society/Agent/Community/Organization/Business/Product/Product_Model|ProductModel]]"
@@ -68,12 +63,15 @@ dv_is_same_as:
 is_a = `=this.dv_is_a` 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+
+is_similar_to = `=this.dv_is_similar_to` 
+has_inverse = `=this.dv_has_inverse` 
 
 Use it like this: 
 - #is_/successor_of : : [[../../../Society/Agent/Community/Organization/Business/Product/Product_Model|ProductModel]]  
 - is_successor_of : : [[../../Class/is_a_/product/product_model|ProductModel]]  
 
+This is typically temporal or causal, while [[../has/has_next_item|has_next_item]] refers to items in a (1D linked) List. 
 
 - [ ] TODO: unify with [[../has/has_previous_item]].  
 
@@ -83,13 +81,8 @@ often [[../../Enumeration/Item_Availability/Discontinued|discontinued]] predeces
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
-
-is_similar_to = `=this.dv_is_similar_to` 
-#has_/inverse :: [[../has/has_next_item]]    
-#has_/inverse :: [[is_predecessor_of]]   
 
 
 ## Confidential Links & Embeds: 

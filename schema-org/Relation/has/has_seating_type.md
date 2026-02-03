@@ -1,57 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_seating_type]]"
-    - "[[/_public/schema-org/Relation/has/has_seating_type.public|has_seating_type.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_seating_type.internal|has_seating_type.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_seating_type.protect|has_seating_type.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_seating_type.private|has_seating_type.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_seating_type.personal|has_seating_type.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_seating_type.secret|has_seating_type.secret]]"
-dv_is_same_as:
-  - "[[has_seating_type]]"
-  - "[[/_public/schema-org/Relation/has/has_seating_type.public|has_seating_type.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_seating_type.internal|has_seating_type.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_seating_type.protect|has_seating_type.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_seating_type.private|has_seating_type.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_seating_type.personal|has_seating_type.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_seating_type.secret|has_seating_type.secret]]"
----
-﻿---
-dv_is_:
-  same_as:
-    - "[[has_seating_type]]"
-    - "[[/_public/schema-org/Relation/has/has_seating_type.public|has_seating_type.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_seating_type.internal|has_seating_type.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_seating_type.protect|has_seating_type.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_seating_type.private|has_seating_type.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_seating_type.personal|has_seating_type.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_seating_type.secret|has_seating_type.secret]]"
-dv_is_same_as:
-  - "[[has_seating_type]]"
-  - "[[/_public/schema-org/Relation/has/has_seating_type.public|has_seating_type.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_seating_type.internal|has_seating_type.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_seating_type.protect|has_seating_type.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_seating_type.private|has---
-dv_is_:
-  same_as:
-    - "[[has_seating_type]]"
-    - "[[/_public/schema-org/Relation/has/has_seating_type.public|has_seating_type.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_seating_type.internal|has_seating_type.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_seating_type.protect|has_seating_type.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_seating_type.private|has_seating_type.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_seating_type.personal|has_seating_type.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_seating_type.secret|has_seating_type.secret]]"
-dv_is_same_as:
-  - "[[has_seating_type]]"
-  - "[[/_public/schema-org/Relation/has/has_seating_type.public|has_seating_type.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_seating_type.internal|has_seating_type.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_seating_type.protect|has_seating_type.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_seating_type.private|has_seating_type.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_seating_type.personal|has_seating_type.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_seating_type.secret|has_seating_type.secret]]"
----
-﻿---
 aliases:
   - has seating-type
   - seatingType
@@ -80,11 +27,9 @@ tags:
 title: has_seating_type
 type: Predi_Relation
 dv_has_:
-  seating_type: QualitativeValue, Text
   domain: Seat
   name: is_seating_type
   range: QualitativeValue, Text
-dv_has_seating_type: QualitativeValue, Text
   inverse: [[is_seating_type_of]]
 dv_is_:
   same_as:
@@ -110,6 +55,7 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_seating_type.secret|has_seating_type.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_seating_type_of]]"
+
 ---
 
 # [[has_seating_type]] 

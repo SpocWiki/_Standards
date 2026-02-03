@@ -1,42 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_source_organization]]"
-    - "[[/_public/schema-org/Relation/has/has_source_organization.public|has_source_organization.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_source_organization.internal|has_source_organization.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_source_organization.protect|has_source_organization.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_source_organization.private|has_source_organization.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_source_organization.personal|has_source_organization.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_source_organization.secret|has_source_organization.secret]]"
-dv_is_same_as:
-  - "[[has_source_organization]]"
-  - "[[/_public/schema-org/Relation/has/has_source_organization.public|has_source_organization.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_source_organization.internal|has_source_organization.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_source_organization.protect|has_source_organization.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_source_organization.private|has_source_organization.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_source_organization.personal|has_source_organization.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_source_organization.secret|has_source_organization.secret]]"
----
-﻿---
-dv_is_:
-  same_as:
-    - "[[has_source_organization]]"
-    - "[[/_public/schema-org/Relation/has/has_source_organization.public|has_source_organization.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_source_organization.internal|has_source_organization.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_source_organization.protect|has_source_organization.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_source_organization.private|has_source_organization.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_source_organization.personal|has_source_organization.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_source_organization.secret|has_source_organization.secret]]"
-dv_is_same_as:
-  - "[[has_source_organization]]"
-  - "[[/_public/schema-org/Relation/has/has_source_organization.public|has_source_organization.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_source_organization.internal|has_source_organization.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_source_organization.protect|has_source_organization.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_source_organization.private|has_source_organization.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_source_organization.personal|has_source_organization.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_source_organization.secret|has_source_organization.secret]]"
----
-﻿---
 aliases:
   - has source-organization
   - sourceOrganization
@@ -65,11 +27,9 @@ tags:
 title: has_source_organization
 type: Predi_Relation
 dv_has_:
-  source_organization: Organization
   domain: CreativeWork
   name: is_source_organization
   range: Organization
-dv_has_source_organization: Organization
   inverse: [[is_source_organization_of]]
 dv_is_:
   same_as:
@@ -93,6 +53,7 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_source_organization.secret|has_source_organization.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_source_organization_of]]"
+
 ---
 
 # [[has_source_organization]] 

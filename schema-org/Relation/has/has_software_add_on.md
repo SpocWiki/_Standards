@@ -1,42 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_software_add_on]]"
-    - "[[/_public/schema-org/Relation/has/has_software_add_on.public|has_software_add_on.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_software_add_on.internal|has_software_add_on.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_software_add_on.protect|has_software_add_on.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_software_add_on.private|has_software_add_on.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_software_add_on.personal|has_software_add_on.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_software_add_on.secret|has_software_add_on.secret]]"
-dv_is_same_as:
-  - "[[has_software_add_on]]"
-  - "[[/_public/schema-org/Relation/has/has_software_add_on.public|has_software_add_on.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_software_add_on.internal|has_software_add_on.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_software_add_on.protect|has_software_add_on.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_software_add_on.private|has_software_add_on.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_software_add_on.personal|has_software_add_on.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_software_add_on.secret|has_software_add_on.secret]]"
----
-﻿---
-dv_is_:
-  same_as:
-    - "[[has_software_add_on]]"
-    - "[[/_public/schema-org/Relation/has/has_software_add_on.public|has_software_add_on.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_software_add_on.internal|has_software_add_on.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_software_add_on.protect|has_software_add_on.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_software_add_on.private|has_software_add_on.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_software_add_on.personal|has_software_add_on.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_software_add_on.secret|has_software_add_on.secret]]"
-dv_is_same_as:
-  - "[[has_software_add_on]]"
-  - "[[/_public/schema-org/Relation/has/has_software_add_on.public|has_software_add_on.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_software_add_on.internal|has_software_add_on.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_software_add_on.protect|has_software_add_on.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_software_add_on.private|has_software_add_on.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_software_add_on.personal|has_software_add_on.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_software_add_on.secret|has_software_add_on.secret]]"
----
-﻿---
 aliases:
   - has software-add-on
   - softwareAddOn
@@ -66,11 +28,9 @@ tags:
 title: has_software_add_on
 type: Predi_Relation
 dv_has_:
-  software_add_on: SoftwareApplication
   domain: SoftwareApplication
   name: is_software_add_on
   range: SoftwareApplication
-dv_has_software_add_on: SoftwareApplication
   inverse: [[is_software_add_on_of]]
 dv_is_:
   same_as:
@@ -94,6 +54,7 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_software_add_on.secret|has_software_add_on.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_software_add_on_of]]"
+
 ---
 
 # [[has_software_add_on]] 

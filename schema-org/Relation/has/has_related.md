@@ -16,8 +16,8 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_related.private|has_related.private]]"
   - "[[/_personal/schema-org/Relation/has/has_related.personal|has_related.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_related.secret|has_related.secret]]"
----
-﻿---
+
+
 aliases:
   - has related
   - relatedTo

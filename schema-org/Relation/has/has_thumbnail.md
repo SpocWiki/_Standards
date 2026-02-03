@@ -1,42 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_thumbnail]]"
-    - "[[/_public/schema-org/Relation/has/has_thumbnail.public|has_thumbnail.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_thumbnail.internal|has_thumbnail.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_thumbnail.protect|has_thumbnail.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_thumbnail.private|has_thumbnail.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_thumbnail.personal|has_thumbnail.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_thumbnail.secret|has_thumbnail.secret]]"
-dv_is_same_as:
-  - "[[has_thumbnail]]"
-  - "[[/_public/schema-org/Relation/has/has_thumbnail.public|has_thumbnail.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_thumbnail.internal|has_thumbnail.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_thumbnail.protect|has_thumbnail.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_thumbnail.private|has_thumbnail.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_thumbnail.personal|has_thumbnail.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_thumbnail.secret|has_thumbnail.secret]]"
----
-﻿---
-dv_is_:
-  same_as:
-    - "[[has_thumbnail]]"
-    - "[[/_public/schema-org/Relation/has/has_thumbnail.public|has_thumbnail.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_thumbnail.internal|has_thumbnail.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_thumbnail.protect|has_thumbnail.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_thumbnail.private|has_thumbnail.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_thumbnail.personal|has_thumbnail.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_thumbnail.secret|has_thumbnail.secret]]"
-dv_is_same_as:
-  - "[[has_thumbnail]]"
-  - "[[/_public/schema-org/Relation/has/has_thumbnail.public|has_thumbnail.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_thumbnail.internal|has_thumbnail.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_thumbnail.protect|has_thumbnail.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_thumbnail.private|has_thumbnail.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_thumbnail.personal|has_thumbnail.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_thumbnail.secret|has_thumbnail.secret]]"
----
-﻿---
 aliases:
   - has thumbnail
   - has_thumbnail
@@ -61,11 +23,9 @@ tags:
 title: has_thumbnail
 type: Predi_Relation
 dv_has_:
-  thumbnail: ImageObject
   domain: ImageObject, VideoObject
   name: is_thumbnail
   range: ImageObject
-dv_has_thumbnail: ImageObject
   inverse: [[is_thumbnail_of]]
 dv_is_:
   same_as:
@@ -91,6 +51,7 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_thumbnail.secret|has_thumbnail.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_thumbnail_of]]"
+
 ---
 
 # [[has_thumbnail]] 

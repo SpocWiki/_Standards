@@ -1,8 +1,8 @@
 ---
 aliases:
   - greater
-  - greater
-  - greater
+  - more
+  - schema:greater
   - is_greater_than
   - is greater than
   - is more than
@@ -59,6 +59,9 @@ dv_is_same_as:
 
 # [[is_greater_than]] 
 
+- has_complement = `=this.dv_has_complement` 
+- has_inverse = `=this.dv_has_inverse` 
+
 Use it like this: 
 - #is_/greater_than : : QualitativeValue  
 - is_greater_than : : QualitativeValue  
@@ -71,11 +74,6 @@ has_domain = `=this.dv_has_domain`
 
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
-
-has_complement = `=this.dv_has_complement` 
-
-has_inverse = `=this.dv_has_inverse` 
-
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_greater_than|is_greater_than]] 

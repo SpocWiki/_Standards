@@ -1,42 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_risk_factor]]"
-    - "[[/_public/schema-org/Relation/has/has_risk_factor.public|has_risk_factor.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_risk_factor.internal|has_risk_factor.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_risk_factor.protect|has_risk_factor.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_risk_factor.private|has_risk_factor.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_risk_factor.personal|has_risk_factor.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_risk_factor.secret|has_risk_factor.secret]]"
-dv_is_same_as:
-  - "[[has_risk_factor]]"
-  - "[[/_public/schema-org/Relation/has/has_risk_factor.public|has_risk_factor.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_risk_factor.internal|has_risk_factor.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_risk_factor.protect|has_risk_factor.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_risk_factor.private|has_risk_factor.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_risk_factor.personal|has_risk_factor.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_risk_factor.secret|has_risk_factor.secret]]"
----
-﻿---
-dv_is_:
-  same_as:
-    - "[[has_risk_factor]]"
-    - "[[/_public/schema-org/Relation/has/has_risk_factor.public|has_risk_factor.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_risk_factor.internal|has_risk_factor.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_risk_factor.protect|has_risk_factor.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_risk_factor.private|has_risk_factor.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_risk_factor.personal|has_risk_factor.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_risk_factor.secret|has_risk_factor.secret]]"
-dv_is_same_as:
-  - "[[has_risk_factor]]"
-  - "[[/_public/schema-org/Relation/has/has_risk_factor.public|has_risk_factor.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_risk_factor.internal|has_risk_factor.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_risk_factor.protect|has_risk_factor.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_risk_factor.private|has_risk_factor.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_risk_factor.personal|has_risk_factor.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_risk_factor.secret|has_risk_factor.secret]]"
----
-﻿---
 aliases:
   - has risk-factor
   - riskFactor
@@ -65,11 +27,9 @@ tags:
 title: has_risk_factor
 type: Predi_Relation
 dv_has_:
-  risk_factor: MedicalRiskFactor
   domain: MedicalCondition
   name: is_risk_factor
   range: MedicalRiskFactor
-dv_has_risk_factor: MedicalRiskFactor
   inverse: [[is_risk_factor_of]]
 dv_is_:
   same_as:
@@ -93,6 +53,7 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_risk_factor.secret|has_risk_factor.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_risk_factor_of]]"
+
 ---
 
 # [[has_risk_factor]] 

@@ -1,51 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_recorded_in]]"
-    - "[[/_public/schema-org/Relation/has/has_recorded_in.public|has_recorded_in.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_recorded_in.internal|has_recorded_in.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_recorded_in.protect|has_recorded_in.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_recorded_in.private|has_recorded_in.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_recorded_in.personal|has_recorded_in.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_recorded_in.secret|has_recorded_in.secret]]"
-dv_is_same_as:
-  - "[[has_recorded_in]]"
-  - "[[/_public/schema-org/Relation/has/has_recorded_in.public|has_recorded_in.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_recorded_in.internal|has_recorded_in.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_recorded_in.protect|has_recorded_in.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_recorded_in.private|has_recorded_in.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_recorded_in.personal|has_recorded_in.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_recorded_in.secret|has_recorded_in.secret]]"
----
-﻿---
-dv_has_:
-  recorded_in: CreativeWork
-  domain: Event
-  name: is_recorded_in
-  range: CreativeWork
-dv_has_recorded_in: CreativeWork
-dv_is_:
-  same_as:
-    - "[[has_recorded_in]]"
-    - "[[/_public/schema-org/Relation/has/has_recorded_in.public|has_recorded_in.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_recorded_in.internal|has_recorded_in.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_recorded_in.protect|has_recorded_in.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_recorded_in.private|has_recorded_in.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_recorded_in.personal|has_recorded_in.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_recorded_in.secret|has_recorded_in.secret]]"
-dv_has_domain: "[[../../Class/is_a_/Event|Event]]"
-dv_has_name: is_recorded_in
-dv_has_range: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
-dv_is_same_as:
-  - "[[has_recorded_in]]"
-  - "[[/_public/schema-org/Relation/has/has_recorded_in.public|has_recorded_in.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_recorded_in.internal|has_recorded_in.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_recorded_in.protect|has_recorded_in.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_recorded_in.private|has_recorded_in.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_recorded_in.personal|has_recorded_in.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_recorded_in.secret|has_recorded_in.secret]]"
----
-﻿---
 aliases:
   - has recorded-in
   - recordedIn
@@ -75,6 +28,36 @@ title: has_recorded_in
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_recorded_in_of]]"
+
+dv_is_:
+  same_as:
+    - "[[has_recorded_in]]"
+    - "[[/_public/schema-org/Relation/has/has_recorded_in.public|has_recorded_in.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_recorded_in.internal|has_recorded_in.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_recorded_in.protect|has_recorded_in.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_recorded_in.private|has_recorded_in.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_recorded_in.personal|has_recorded_in.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_recorded_in.secret|has_recorded_in.secret]]"
+dv_is_same_as:
+  - "[[has_recorded_in]]"
+  - "[[/_public/schema-org/Relation/has/has_recorded_in.public|has_recorded_in.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_recorded_in.internal|has_recorded_in.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_recorded_in.protect|has_recorded_in.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_recorded_in.private|has_recorded_in.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_recorded_in.personal|has_recorded_in.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_recorded_in.secret|has_recorded_in.secret]]"
+
+
+dv_has_:
+  recorded_in: CreativeWork
+  domain: Event
+  name: is_recorded_in
+  range: CreativeWork
+dv_has_recorded_in: CreativeWork
+dv_has_domain: "[[../../Class/is_a_/Event|Event]]"
+dv_has_name: is_recorded_in
+dv_has_range: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
+
 ---
 
 # [[has_recorded_in]] 

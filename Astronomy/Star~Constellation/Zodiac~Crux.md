@@ -1,37 +1,15 @@
 ---
+aliases:
+  - Crux
+  - Kreuz des Südens
+  - Kreuz des Suedens
 dv_SpocWebEntityId: 28112
 dv_has_:
   name_:
     la: Crux
     la_:
       genitive: Crucis
-    de: Kreuz des Suedens
-dv_is_:
-  same_as:
-    - "[[../../WikiData/WD~Crux,10542|WD~Crux,10542]]"
-    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Crux|Zodiac~Crux]]"
-    - "[[/_public/Astronomy/Star~Constellation/Zodiac~Crux.public|Zodiac~Crux.public]]"
-    - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Crux.internal|Zodiac~Crux.internal]]"
-    - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Crux.protect|Zodiac~Crux.protect]]"
-    - "[[/_private/Astronomy/Star~Constellation/Zodiac~Crux.private|Zodiac~Crux.private]]"
-    - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Crux.personal|Zodiac~Crux.personal]]"
-    - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Crux.secret|Zodiac~Crux.secret]]"
-dv_has_name_la: Crux
-dv_has_name_la_genitive: Crucis
-dv_has_name_de: Kreuz des Suedens
-dv_is_same_as:
-  - "[[../../WikiData/WD~Crux,10542|WD~Crux,10542]]"
-  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Crux|Zodiac~Crux]]"
-  - "[[/_public/Astronomy/Star~Constellation/Zodiac~Crux.public|Zodiac~Crux.public]]"
-  - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Crux.internal|Zodiac~Crux.internal]]"
-  - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Crux.protect|Zodiac~Crux.protect]]"
-  - "[[/_private/Astronomy/Star~Constellation/Zodiac~Crux.private|Zodiac~Crux.private]]"
-  - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Crux.personal|Zodiac~Crux.personal]]"
-  - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Crux.secret|Zodiac~Crux.secret]]"
----
-﻿---
-has_time_started: 1590-01-01 
-aliases:
+    de: Kreuz des Südens
 confidential: public
 isDeleted: false
 isReadOnly: false
@@ -74,6 +52,29 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Crux%20con
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Crux%20symbol%20%28Moskowitz%2C%20variable%20width%29.svg
 Commons_category: Crux (constellation)
 short_name: Cru
+dv_is_:
+  same_as:
+    - "[[../../WikiData/WD~Crux,10542|WD~Crux,10542]]"
+    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Crux|Zodiac~Crux]]"
+    - "[[/_public/Astronomy/Star~Constellation/Zodiac~Crux.public|Zodiac~Crux.public]]"
+    - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Crux.internal|Zodiac~Crux.internal]]"
+    - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Crux.protect|Zodiac~Crux.protect]]"
+    - "[[/_private/Astronomy/Star~Constellation/Zodiac~Crux.private|Zodiac~Crux.private]]"
+    - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Crux.personal|Zodiac~Crux.personal]]"
+    - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Crux.secret|Zodiac~Crux.secret]]"
+dv_has_name_la: Crux
+dv_has_name_la_genitive: Crucis
+dv_has_name_de: Kreuz des Suedens
+dv_is_same_as:
+  - "[[../../WikiData/WD~Crux,10542|WD~Crux,10542]]"
+  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Crux|Zodiac~Crux]]"
+  - "[[/_public/Astronomy/Star~Constellation/Zodiac~Crux.public|Zodiac~Crux.public]]"
+  - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Crux.internal|Zodiac~Crux.internal]]"
+  - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Crux.protect|Zodiac~Crux.protect]]"
+  - "[[/_private/Astronomy/Star~Constellation/Zodiac~Crux.private|Zodiac~Crux.private]]"
+  - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Crux.personal|Zodiac~Crux.personal]]"
+  - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Crux.secret|Zodiac~Crux.secret]]"
+has_time_started: 1590-01-01
 ---
 
 # [[Zodiac~Crux]] 

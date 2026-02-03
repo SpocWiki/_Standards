@@ -1,25 +1,4 @@
 ---
-dv_is_a: "[[../../Relation|Relation]]"
-dv_has_: {}
-dv_is_:
-  same_as:
-    - "[[is_by_artist]]"
-    - "[[/_public/schema-org/Relation/is/is_by_artist.public|is_by_artist.public]]"
-    - "[[/_internal/schema-org/Relation/is/is_by_artist.internal|is_by_artist.internal]]"
-    - "[[/_protect/schema-org/Relation/is/is_by_artist.protect|is_by_artist.protect]]"
-    - "[[/_private/schema-org/Relation/is/is_by_artist.private|is_by_artist.private]]"
-    - "[[/_personal/schema-org/Relation/is/is_by_artist.personal|is_by_artist.personal]]"
-    - "[[/_secret/schema-org/Relation/is/is_by_artist.secret|is_by_artist.secret]]"
-dv_is_same_as:
-  - "[[is_by_artist]]"
-  - "[[/_public/schema-org/Relation/is/is_by_artist.public|is_by_artist.public]]"
-  - "[[/_internal/schema-org/Relation/is/is_by_artist.internal|is_by_artist.internal]]"
-  - "[[/_protect/schema-org/Relation/is/is_by_artist.protect|is_by_artist.protect]]"
-  - "[[/_private/schema-org/Relation/is/is_by_artist.private|is_by_artist.private]]"
-  - "[[/_personal/schema-org/Relation/is/is_by_artist.personal|is_by_artist.personal]]"
-  - "[[/_secret/schema-org/Relation/is/is_by_artist.secret|is_by_artist.secret]]"
----
-﻿---
 aliases:
   - by-artist
   - by_artist
@@ -81,6 +60,9 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/is/is_by_artist.private|is_by_artist.private]]"
   - "[[/_personal/schema-org/Relation/is/is_by_artist.personal|is_by_artist.personal]]"
   - "[[/_secret/schema-org/Relation/is/is_by_artist.secret|is_by_artist.secret]]"
+dv_is_a: "[[../../Relation|Relation]]"
+
+
 ---
 
 

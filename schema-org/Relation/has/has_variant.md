@@ -1,51 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_variant]]"
-    - "[[/_public/schema-org/Relation/has/has_variant.public|has_variant.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_variant.internal|has_variant.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_variant.protect|has_variant.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_variant.private|has_variant.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_variant.personal|has_variant.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_variant.secret|has_variant.secret]]"
-dv_is_same_as:
-  - "[[has_variant]]"
-  - "[[/_public/schema-org/Relation/has/has_variant.public|has_variant.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_variant.internal|has_variant.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_variant.protect|has_variant.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_variant.private|has_variant.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_variant.personal|has_variant.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_variant.secret|has_variant.secret]]"
----
-﻿---
-dv_has_:
-  variant: Product
-  domain: ProductGroup
-  name: is_variant
-  range: Product
-dv_has_variant: Product
-dv_is_:
-  same_as:
-    - "[[has_variant]]"
-    - "[[/_public/schema-org/Relation/has/has_variant.public|has_variant.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_variant.internal|has_variant.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_variant.protect|has_variant.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_variant.private|has_variant.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_variant.personal|has_variant.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_variant.secret|has_variant.secret]]"
-dv_has_domain: "[[../../../Society/Agent/Community/Organization/Business/Product/Product_Group|Product_Group]]"
-dv_has_name: is_variant
-dv_has_range: "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]"
-dv_is_same_as:
-  - "[[has_variant]]"
-  - "[[/_public/schema-org/Relation/has/has_variant.public|has_variant.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_variant.internal|has_variant.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_variant.protect|has_variant.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_variant.private|has_variant.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_variant.personal|has_variant.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_variant.secret|has_variant.secret]]"
----
-﻿---
 aliases:
   - has-variant
   - hasVariant
@@ -73,6 +26,34 @@ title: has_variant
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_variant_of]]"
+
+dv_is_:
+  same_as:
+    - "[[has_variant]]"
+    - "[[/_public/schema-org/Relation/has/has_variant.public|has_variant.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_variant.internal|has_variant.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_variant.protect|has_variant.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_variant.private|has_variant.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_variant.personal|has_variant.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_variant.secret|has_variant.secret]]"
+dv_is_same_as:
+  - "[[has_variant]]"
+  - "[[/_public/schema-org/Relation/has/has_variant.public|has_variant.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_variant.internal|has_variant.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_variant.protect|has_variant.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_variant.private|has_variant.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_variant.personal|has_variant.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_variant.secret|has_variant.secret]]"
+
+dv_has_:
+  variant: Product
+  domain: ProductGroup
+  name: is_variant
+  range: Product
+dv_has_variant: Product
+dv_has_domain: "[[../../../Society/Agent/Community/Organization/Business/Product/Product_Group|Product_Group]]"
+dv_has_name: is_variant
+dv_has_range: "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]"
 ---
 
 # [[has_variant]] 

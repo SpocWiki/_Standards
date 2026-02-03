@@ -47,8 +47,8 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_supply.private|has_supply.private]]"
   - "[[/_personal/schema-org/Relation/has/has_supply.personal|has_supply.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_supply.secret|has_supply.secret]]"
----
-﻿---
+
+
 aliases:
   - has supply
   - has_supply

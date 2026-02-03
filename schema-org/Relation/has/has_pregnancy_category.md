@@ -1,56 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_pregnancy_category]]"
-    - "[[/_public/schema-org/Relation/has/has_pregnancy_category.public|has_pregnancy_category.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_pregnancy_category.internal|has_pregnancy_category.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_pregnancy_category.protect|has_pregnancy_category.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_pregnancy_category.private|has_pregnancy_category.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_pregnancy_category.personal|has_pregnancy_category.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_pregnancy_category.secret|has_pregnancy_category.secret]]"
-dv_is_same_as:
-  - "[[has_pregnancy_category]]"
-  - "[[/_public/schema-org/Relation/has/has_pregnancy_category.public|has_pregnancy_category.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_pregnancy_category.internal|has_pregnancy_category.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_pregnancy_category.protect|has_pregnancy_category.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_pregnancy_category.private|has_pregnancy_category.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_pregnancy_category.personal|has_pregnancy_category.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_pregnancy_category.secret|has_pregnancy_category.secret]]"
----
-﻿---
-dv_is_:
-  same_as:
-    - "[[has_pregnancy_category]]"
-    - "[[/_public/schema-org/Relation/has/has_pregnancy_category.public|has_pregnancy_category.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_pregnancy_category.internal|has_pregnancy_category.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_pregnancy_category.protect|has_pregnancy_category.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_pregnancy_category.private|has_pregnancy_category.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_pregnancy_category.personal|has_pregnancy_category.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_pregnancy_category.secret|has_pregnancy_category.secret]]"
-dv_is_same_as:
-  - "[[has_pregnancy_category]]"
-  - "[[/_public/schema-org/Relation/has/has_pregnancy_category.public|has_pregnancy_category.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_pregnancy_category.internal|has_pregnancy_category.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_pregnancy_---
-dv_is_:
-  same_as:
-    - "[[has_pregnancy_category]]"
-    - "[[/_public/schema-org/Relation/has/has_pregnancy_category.public|has_pregnancy_category.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_pregnancy_category.internal|has_pregnancy_category.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_pregnancy_category.protect|has_pregnancy_category.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_pregnancy_category.private|has_pregnancy_category.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_pregnancy_category.personal|has_pregnancy_category.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_pregnancy_category.secret|has_pregnancy_category.secret]]"
-dv_is_same_as:
-  - "[[has_pregnancy_category]]"
-  - "[[/_public/schema-org/Relation/has/has_pregnancy_category.public|has_pregnancy_category.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_pregnancy_category.internal|has_pregnancy_category.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_pregnancy_category.protect|has_pregnancy_category.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_pregnancy_category.private|has_pregnancy_category.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_pregnancy_category.personal|has_pregnancy_category.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_pregnancy_category.secret|has_pregnancy_category.secret]]"
----
-﻿---
 aliases:
   - has pregnancy-category
   - pregnancyCategory
@@ -79,11 +27,9 @@ tags:
 title: has_pregnancy_category
 type: Predi_Relation
 dv_has_:
-  pregnancy_category: DrugPregnancyCategory
   domain: Drug
   name: is_pregnancy_category
   range: DrugPregnancyCategory
-dv_has_pregnancy_category: DrugPregnancyCategory
   inverse: [[is_pregnancy_category_of]]
 dv_is_:
   same_as:
@@ -107,6 +53,7 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_pregnancy_category.secret|has_pregnancy_category.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_pregnancy_category_of]]"
+
 ---
 
 # [[has_pregnancy_category]] 

@@ -16,8 +16,8 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_result.private|has_result.private]]"
   - "[[/_personal/schema-org/Relation/has/has_result.personal|has_result.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_result.secret|has_result.secret]]"
----
-﻿---
+
+
 dv_has_:
   result: "[Thing](../../../Class/Thing)"
   domain: Action
@@ -47,8 +47,8 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_result.private|has_result.private]]"
   - "[[/_personal/schema-org/Relation/has/has_result.personal|has_result.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_result.secret|has_result.secret]]"
----
-﻿---
+
+
 aliases:
   - has result
   - has_result

@@ -1,54 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_sports_activity_location]]"
-    - "[[/_public/schema-org/Relation/has/has_sports_activity_location.public|has_sports_activity_location.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_sports_activity_location.internal|has_sports_activity_location.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_sports_activity_location.protect|has_sports_activity_location.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_sports_activity_location.private|has_sports_activity_location.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_sports_activity_location.personal|has_sports_activity_location.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_sports_activity_location.secret|has_sports_activity_location.secret]]"
-dv_is_same_as:
-  - "[[has_sports_activity_location]]"
-  - "[[/_public/schema-org/Relation/has/has_sports_activity_location.public|has_sports_activity_location.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_sports_activity_location.internal|has_sports_activity_location.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_sports_activity_location.protect|has_sports_activity_location.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_sports_activity_location.private|has_sports_activity_location.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_sports_activity_location.personal|has_sports_activity_location.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_sports_activity_location.secret|has_sports_activity_location.secret]]"
----
-﻿---
-dv_has_:
-  sports_activity_location: SportsActivityLocation
-  domain: ExerciseAction
-  name: is_sports_activity_location
-  range: SportsActivityLocation
-  parent_:
-    property: location
-dv_has_sports_activity_location: SportsActivityLocation
-dv_is_:
-  same_as:
-    - "[[has_sports_activity_location]]"
-    - "[[/_public/schema-org/Relation/has/has_sports_activity_location.public|has_sports_activity_location.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_sports_activity_location.internal|has_sports_activity_location.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_sports_activity_location.protect|has_sports_activity_location.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_sports_activity_location.private|has_sports_activity_location.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_sports_activity_location.personal|has_sports_activity_location.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_sports_activity_location.secret|has_sports_activity_location.secret]]"
-dv_has_domain: "[[../../Class/is_a_/Action/Play_Action/Exercise_Action|ExerciseAction]]"
-dv_has_name: is_sports_activity_location
-dv_has_range: "[[../../../Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location|Sports_Activity_Location]]"
-dv_has_parent_property: location
-dv_is_same_as:
-  - "[[has_sports_activity_location]]"
-  - "[[/_public/schema-org/Relation/has/has_sports_activity_location.public|has_sports_activity_location.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_sports_activity_location.internal|has_sports_activity_location.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_sports_activity_location.protect|has_sports_activity_location.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_sports_activity_location.private|has_sports_activity_location.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_sports_activity_location.personal|has_sports_activity_location.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_sports_activity_location.secret|has_sports_activity_location.secret]]"
----
-﻿---
 aliases:
   - has sports-activity-location
   - sportsActivityLocation
@@ -79,6 +29,39 @@ title: has_sports_activity_location
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_sports_activity_location_of]]"
+
+dv_is_:
+  same_as:
+    - "[[has_sports_activity_location]]"
+    - "[[/_public/schema-org/Relation/has/has_sports_activity_location.public|has_sports_activity_location.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_sports_activity_location.internal|has_sports_activity_location.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_sports_activity_location.protect|has_sports_activity_location.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_sports_activity_location.private|has_sports_activity_location.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_sports_activity_location.personal|has_sports_activity_location.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_sports_activity_location.secret|has_sports_activity_location.secret]]"
+dv_is_same_as:
+  - "[[has_sports_activity_location]]"
+  - "[[/_public/schema-org/Relation/has/has_sports_activity_location.public|has_sports_activity_location.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_sports_activity_location.internal|has_sports_activity_location.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_sports_activity_location.protect|has_sports_activity_location.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_sports_activity_location.private|has_sports_activity_location.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_sports_activity_location.personal|has_sports_activity_location.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_sports_activity_location.secret|has_sports_activity_location.secret]]"
+
+
+dv_has_:
+  sports_activity_location: SportsActivityLocation
+  domain: ExerciseAction
+  name: is_sports_activity_location
+  range: SportsActivityLocation
+  parent_:
+    property: location
+dv_has_sports_activity_location: SportsActivityLocation
+dv_has_domain: "[[../../Class/is_a_/Action/Play_Action/Exercise_Action|ExerciseAction]]"
+dv_has_name: is_sports_activity_location
+dv_has_range: "[[../../../Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location|Sports_Activity_Location]]"
+dv_has_parent_property: location
+
 ---
 
 # [[has_sports_activity_location]] 

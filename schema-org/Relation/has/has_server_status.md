@@ -1,42 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_server_status]]"
-    - "[[/_public/schema-org/Relation/has/has_server_status.public|has_server_status.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_server_status.internal|has_server_status.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_server_status.protect|has_server_status.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_server_status.private|has_server_status.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_server_status.personal|has_server_status.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_server_status.secret|has_server_status.secret]]"
-dv_is_same_as:
-  - "[[has_server_status]]"
-  - "[[/_public/schema-org/Relation/has/has_server_status.public|has_server_status.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_server_status.internal|has_server_status.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_server_status.protect|has_server_status.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_server_status.private|has_server_status.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_server_status.personal|has_server_status.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_server_status.secret|has_server_status.secret]]"
----
-﻿---
-dv_is_:
-  same_as:
-    - "[[has_server_status]]"
-    - "[[/_public/schema-org/Relation/has/has_server_status.public|has_server_status.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_server_status.internal|has_server_status.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_server_status.protect|has_server_status.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_server_status.private|has_server_status.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_server_status.personal|has_server_status.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_server_status.secret|has_server_status.secret]]"
-dv_is_same_as:
-  - "[[has_server_status]]"
-  - "[[/_public/schema-org/Relation/has/has_server_status.public|has_server_status.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_server_status.internal|has_server_status.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_server_status.protect|has_server_status.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_server_status.private|has_server_status.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_server_status.personal|has_server_status.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_server_status.secret|has_server_status.secret]]"
----
-﻿---
 aliases:
   - has server-status
   - serverStatus
@@ -65,11 +27,9 @@ tags:
 title: has_server_status
 type: Predi_Relation
 dv_has_:
-  server_status: GameServerStatus
   domain: GameServer
   name: is_server_status
   range: GameServerStatus
-dv_has_server_status: GameServerStatus
   inverse: [[is_server_status_of]]
 dv_is_:
   same_as:
@@ -93,6 +53,7 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_server_status.secret|has_server_status.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_server_status_of]]"
+
 ---
 
 # [[has_server_status]] 

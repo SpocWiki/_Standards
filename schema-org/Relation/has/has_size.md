@@ -16,8 +16,8 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_size.private|has_size.private]]"
   - "[[/_personal/schema-org/Relation/has/has_size.personal|has_size.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_size.secret|has_size.secret]]"
----
-﻿---
+
+
 dv_has_:
   size: DefinedTerm, QuantitativeValue, SizeSpecification, Text
   domain: CreativeWork, Product
@@ -50,8 +50,8 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_size.private|has_size.private]]"
   - "[[/_personal/schema-org/Relation/has/has_size.personal|has_size.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_size.secret|has_size.secret]]"
----
-﻿---
+
+
 aliases:
   - has size
   - has_size

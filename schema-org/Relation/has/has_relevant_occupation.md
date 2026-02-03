@@ -1,42 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_relevant_occupation]]"
-    - "[[/_public/schema-org/Relation/has/has_relevant_occupation.public|has_relevant_occupation.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_relevant_occupation.internal|has_relevant_occupation.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_relevant_occupation.protect|has_relevant_occupation.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_relevant_occupation.private|has_relevant_occupation.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_relevant_occupation.personal|has_relevant_occupation.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_relevant_occupation.secret|has_relevant_occupation.secret]]"
-dv_is_same_as:
-  - "[[has_relevant_occupation]]"
-  - "[[/_public/schema-org/Relation/has/has_relevant_occupation.public|has_relevant_occupation.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_relevant_occupation.internal|has_relevant_occupation.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_relevant_occupation.protect|has_relevant_occupation.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_relevant_occupation.private|has_relevant_occupation.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_relevant_occupation.personal|has_relevant_occupation.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_relevant_occupation.secret|has_relevant_occupation.secret]]"
----
-﻿---
-dv_is_:
-  same_as:
-    - "[[has_relevant_occupation]]"
-    - "[[/_public/schema-org/Relation/has/has_relevant_occupation.public|has_relevant_occupation.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_relevant_occupation.internal|has_relevant_occupation.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_relevant_occupation.protect|has_relevant_occupation.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_relevant_occupation.private|has_relevant_occupation.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_relevant_occupation.personal|has_relevant_occupation.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_relevant_occupation.secret|has_relevant_occupation.secret]]"
-dv_is_same_as:
-  - "[[has_relevant_occupation]]"
-  - "[[/_public/schema-org/Relation/has/has_relevant_occupation.public|has_relevant_occupation.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_relevant_occupation.internal|has_relevant_occupation.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_relevant_occupation.protect|has_relevant_occupation.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_relevant_occupation.private|has_relevant_occupation.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_relevant_occupation.personal|has_relevant_occupation.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_relevant_occupation.secret|has_relevant_occupation.secret]]"
----
-﻿---
 aliases:
   - has relevant-occupation
   - relevantOccupation
@@ -65,11 +27,9 @@ tags:
 title: has_relevant_occupation
 type: Predi_Relation
 dv_has_:
-  relevant_occupation: Occupation
   domain: JobPosting
   name: is_relevant_occupation
   range: Occupation
-dv_has_relevant_occupation: Occupation
   inverse: [[is_relevant_occupation_of]]
 dv_is_:
   same_as:
@@ -93,6 +53,7 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_relevant_occupation.secret|has_relevant_occupation.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_relevant_occupation_of]]"
+
 ---
 
 # [[has_relevant_occupation]] 

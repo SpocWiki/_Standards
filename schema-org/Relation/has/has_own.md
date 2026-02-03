@@ -1,23 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_own]]"
-    - "[[/_public/schema-org/Relation/has/has_own.public|has_own.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_own.internal|has_own.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_own.protect|has_own.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_own.private|has_own.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_own.personal|has_own.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_own.secret|has_own.secret]]"
-dv_is_same_as:
-  - "[[has_own]]"
-  - "[[/_public/schema-org/Relation/has/has_own.public|has_own.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_own.internal|has_own.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_own.protect|has_own.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_own.private|has_own.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_own.personal|has_own.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_own.secret|has_own.secret]]"
----
-﻿---
 aliases:
   - has own
   - is_owning
@@ -44,11 +25,9 @@ title: is_owning
 type: Predi_Relation
 dv_has_:
   inverse: "[[has_owner]]"
-  own: OwnershipInfo, Product
   domain: Organization, Person
   name: "[[has_own]]"
   range: OwnershipInfo, Product
-dv_has_own: OwnershipInfo, Product
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_own|has_own]]"

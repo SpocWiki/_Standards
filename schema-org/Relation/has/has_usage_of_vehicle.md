@@ -1,56 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_usage_of_vehicle|has_vehicle_special_usage]]"
-    - "[[/_public/schema-org/Relation/has/has_usage_of_vehicle.public|has_usage_of_vehicle.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_usage_of_vehicle.internal|has_usage_of_vehicle.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_usage_of_vehicle.protect|has_usage_of_vehicle.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_usage_of_vehicle.private|has_usage_of_vehicle.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_usage_of_vehicle.personal|has_usage_of_vehicle.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_usage_of_vehicle.secret|has_usage_of_vehicle.secret]]"
-dv_is_same_as:
-  - "[[has_usage_of_vehicle|has_vehicle_special_usage]]"
-  - "[[/_public/schema-org/Relation/has/has_usage_of_vehicle.public|has_usage_of_vehicle.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_usage_of_vehicle.internal|has_usage_of_vehicle.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_usage_of_vehicle.protect|has_usage_of_vehicle.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_usage_of_vehicle.private|has_usage_of_vehicle.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_usage_of_vehicle.personal|has_usage_of_vehicle.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_usage_of_vehicle.secret|has_usage_of_vehicle.secret]]"
----
-﻿---
-dv_has_:
-  usage_:
-    of_vehicle: "[[../../Enumeration/Car_Usage_Type|CarUsageType]], Text"
-  domain: "[[../../../Technology/Transport/Vehicle|Vehicle]]"
-  name: has_usage_of_vehicle
-  range: CarUsageType, Text
-dv_has_usage_of_vehicle: "[[../../Enumeration/Car_Usage_Type|CarUsageType]], Text"
-dv_is_:
-  part_of: https://auto.schema.org
-  same_as:
-    - "[[has_usage_of_vehicle|has_vehicle_special_usage]]"
-    - "[[/_public/schema-org/Relation/has/has_usage_of_vehicle.public|has_usage_of_vehicle.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_usage_of_vehicle.internal|has_usage_of_vehicle.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_usage_of_vehicle.protect|has_usage_of_vehicle.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_usage_of_vehicle.private|has_usage_of_vehicle.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_usage_of_vehicle.personal|has_usage_of_vehicle.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_usage_of_vehicle.secret|has_usage_of_vehicle.secret]]"
-dv_is_part_of: https://auto.schema.org
-dv_has_domain: "[[../../../Technology/Transport/Vehicle|Vehicle]]"
-dv_has_name: has_usage_of_vehicle
-dv_has_range:
-  - "[[../../Enumeration/Car_Usage_Type|Car_Usage_Type]]"
-  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
-dv_is_same_as:
-  - "[[has_usage_of_vehicle|has_vehicle_special_usage]]"
-  - "[[/_public/schema-org/Relation/has/has_usage_of_vehicle.public|has_usage_of_vehicle.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_usage_of_vehicle.internal|has_usage_of_vehicle.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_usage_of_vehicle.protect|has_usage_of_vehicle.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_usage_of_vehicle.private|has_usage_of_vehicle.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_usage_of_vehicle.personal|has_usage_of_vehicle.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_usage_of_vehicle.secret|has_usage_of_vehicle.secret]]"
----
-﻿---
 aliases:
   - has vehicle-special-usage
   - vehicleSpecialUsage
@@ -84,6 +32,40 @@ title: has_vehicle_special_usage
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_usage_of_vehicle_of]]"
+
+dv_is_:
+  same_as:
+    - "[[has_usage_of_vehicle|has_vehicle_special_usage]]"
+    - "[[/_public/schema-org/Relation/has/has_usage_of_vehicle.public|has_usage_of_vehicle.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_usage_of_vehicle.internal|has_usage_of_vehicle.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_usage_of_vehicle.protect|has_usage_of_vehicle.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_usage_of_vehicle.private|has_usage_of_vehicle.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_usage_of_vehicle.personal|has_usage_of_vehicle.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_usage_of_vehicle.secret|has_usage_of_vehicle.secret]]"
+dv_is_same_as:
+  - "[[has_usage_of_vehicle|has_vehicle_special_usage]]"
+  - "[[/_public/schema-org/Relation/has/has_usage_of_vehicle.public|has_usage_of_vehicle.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_usage_of_vehicle.internal|has_usage_of_vehicle.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_usage_of_vehicle.protect|has_usage_of_vehicle.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_usage_of_vehicle.private|has_usage_of_vehicle.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_usage_of_vehicle.personal|has_usage_of_vehicle.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_usage_of_vehicle.secret|has_usage_of_vehicle.secret]]"
+
+
+dv_has_:
+  usage_:
+    of_vehicle: "[[../../Enumeration/Car_Usage_Type|CarUsageType]], Text"
+  domain: "[[../../../Technology/Transport/Vehicle|Vehicle]]"
+  name: has_usage_of_vehicle
+  range: CarUsageType, Text
+dv_has_usage_of_vehicle: "[[../../Enumeration/Car_Usage_Type|CarUsageType]], Text"
+dv_is_part_of: https://auto.schema.org
+dv_has_domain: "[[../../../Technology/Transport/Vehicle|Vehicle]]"
+dv_has_name: has_usage_of_vehicle
+dv_has_range:
+  - "[[../../Enumeration/Car_Usage_Type|Car_Usage_Type]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
+
 ---
 
 # [[has_usage_of_vehicle]] 

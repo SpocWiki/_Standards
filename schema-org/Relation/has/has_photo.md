@@ -1,23 +1,30 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_photo]]"
-    - "[[/_public/schema-org/Relation/has/has_photo.public|has_photo.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_photo.internal|has_photo.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_photo.protect|has_photo.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_photo.private|has_photo.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_photo.personal|has_photo.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_photo.secret|has_photo.secret]]"
-dv_is_same_as:
-  - "[[has_photo]]"
-  - "[[/_public/schema-org/Relation/has/has_photo.public|has_photo.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_photo.internal|has_photo.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_photo.protect|has_photo.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_photo.private|has_photo.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_photo.personal|has_photo.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_photo.secret|has_photo.secret]]"
----
-﻿---
+aliases:
+  - has photo
+  - has_photo
+confidential: public
+cssclasses:
+  - Predicate
+  - Relation
+draft: false
+expiryDate: ''
+isDeleted: false
+isReadOnly: false
+keywords:
+  - photo
+layout: ''
+license: CC BY-SA 4.0
+linkTitle: has_photo
+publish: true
+publishDate: ''
+supersedes: photos
+tags:
+  - class/Relation
+  - schema-org/Relation
+title: has_photo
+type: Predi_Relation
+dv_is_a: "[[../../Relation|Relation]]"
+dv_has_inverse: "[[is_photo_of]]"
 dv_has_:
   photo: ImageObject, Photograph
   domain: Place
@@ -49,34 +56,7 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_photo.private|has_photo.private]]"
   - "[[/_personal/schema-org/Relation/has/has_photo.personal|has_photo.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_photo.secret|has_photo.secret]]"
----
-﻿---
-aliases:
-  - has photo
-  - has_photo
-confidential: public
-cssclasses:
-  - Predicate
-  - Relation
-draft: false
-expiryDate: ''
-isDeleted: false
-isReadOnly: false
-keywords:
-  - photo
-layout: ''
-license: CC BY-SA 4.0
-linkTitle: has_photo
-publish: true
-publishDate: ''
-supersedes: photos
-tags:
-  - class/Relation
-  - schema-org/Relation
-title: has_photo
-type: Predi_Relation
-dv_is_a: "[[../../Relation|Relation]]"
-dv_has_inverse: "[[is_photo_of]]"
+
 ---
 
 # [[has_photo]] 

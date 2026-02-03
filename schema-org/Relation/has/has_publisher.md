@@ -16,8 +16,8 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_publisher.private|has_publisher.private]]"
   - "[[/_personal/schema-org/Relation/has/has_publisher.personal|has_publisher.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_publisher.secret|has_publisher.secret]]"
----
-﻿---
+
+
 dv_is_:
   same_as:
     - "[[has_publisher]]"
@@ -35,8 +35,8 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_publisher.private|has_publisher.private]]"
   - "[[/_personal/schema-org/Relation/has/has_publisher.personal|has_publisher.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_publisher.secret|has_publisher.secret]]"
----
-﻿---
+
+
 aliases:
   - has_publisher
   - dbo:publisher

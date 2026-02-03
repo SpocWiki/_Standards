@@ -1,36 +1,4 @@
 ---
-dv_SpocWebEntityId: 28115
-dv_has_:
-  name_:
-    la: Dorado
-    la_:
-      genitive: Doradus
-    de: Schwertfisch
-dv_is_:
-  same_as:
-    - "[[_Standards/WikiData/WD~Dorado,8837]]"
-    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Dorado|Zodiac~Dorado]]"
-    - "[[/_public/Astronomy/Star~Constellation/Zodiac~Dorado.public|Zodiac~Dorado.public]]"
-    - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Dorado.internal|Zodiac~Dorado.internal]]"
-    - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Dorado.protect|Zodiac~Dorado.protect]]"
-    - "[[/_private/Astronomy/Star~Constellation/Zodiac~Dorado.private|Zodiac~Dorado.private]]"
-    - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Dorado.personal|Zodiac~Dorado.personal]]"
-    - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Dorado.secret|Zodiac~Dorado.secret]]"
-dv_has_name_la: Dorado
-dv_has_name_la_genitive: Doradus
-dv_has_name_de: Schwertfisch
-dv_is_same_as:
-  - "[[_Standards/WikiData/WD~Dorado,8837]]"
-  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Dorado|Zodiac~Dorado]]"
-  - "[[/_public/Astronomy/Star~Constellation/Zodiac~Dorado.public|Zodiac~Dorado.public]]"
-  - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Dorado.internal|Zodiac~Dorado.internal]]"
-  - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Dorado.protect|Zodiac~Dorado.protect]]"
-  - "[[/_private/Astronomy/Star~Constellation/Zodiac~Dorado.private|Zodiac~Dorado.private]]"
-  - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Dorado.personal|Zodiac~Dorado.personal]]"
-  - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Dorado.secret|Zodiac~Dorado.secret]]"
----
-﻿---
-has_time_started: 1598-01-01 
 aliases:
   - Schwertfisch
   - Zodiac~Dorado
@@ -67,6 +35,37 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Constellation%20Dorado
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Dorado%20constellation%20map.svg
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Dorado%20symbol%20%28Moskowitz%2C%20variable%20width%29.svg
 short_name: Dor
+dv_SpocWebEntityId: 28115
+dv_has_:
+  name_:
+    la: Dorado
+    la_:
+      genitive: Doradus
+    de: Schwertfisch
+dv_is_:
+  same_as:
+    - "[[_Standards/WikiData/WD~Dorado,8837]]"
+    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Dorado|Zodiac~Dorado]]"
+    - "[[/_public/Astronomy/Star~Constellation/Zodiac~Dorado.public|Zodiac~Dorado.public]]"
+    - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Dorado.internal|Zodiac~Dorado.internal]]"
+    - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Dorado.protect|Zodiac~Dorado.protect]]"
+    - "[[/_private/Astronomy/Star~Constellation/Zodiac~Dorado.private|Zodiac~Dorado.private]]"
+    - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Dorado.personal|Zodiac~Dorado.personal]]"
+    - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Dorado.secret|Zodiac~Dorado.secret]]"
+dv_has_name_la: Dorado
+dv_has_name_la_genitive: Doradus
+dv_has_name_de: Schwertfisch
+dv_is_same_as:
+  - "[[_Standards/WikiData/WD~Dorado,8837]]"
+  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Dorado|Zodiac~Dorado]]"
+  - "[[/_public/Astronomy/Star~Constellation/Zodiac~Dorado.public|Zodiac~Dorado.public]]"
+  - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Dorado.internal|Zodiac~Dorado.internal]]"
+  - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Dorado.protect|Zodiac~Dorado.protect]]"
+  - "[[/_private/Astronomy/Star~Constellation/Zodiac~Dorado.private|Zodiac~Dorado.private]]"
+  - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Dorado.personal|Zodiac~Dorado.personal]]"
+  - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Dorado.secret|Zodiac~Dorado.secret]]"
+
+has_time_started: 1598-01-01 
 ---
 
 # [[Zodiac~Dorado]] 

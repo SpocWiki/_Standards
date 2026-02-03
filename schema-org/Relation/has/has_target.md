@@ -16,8 +16,8 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_target.private|has_target.private]]"
   - "[[/_personal/schema-org/Relation/has/has_target.personal|has_target.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_target.secret|has_target.secret]]"
----
-﻿---
+
+
 aliases:
   - has target
   - has_target

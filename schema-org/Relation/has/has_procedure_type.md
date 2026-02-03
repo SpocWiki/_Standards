@@ -1,57 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_procedure_type]]"
-    - "[[/_public/schema-org/Relation/has/has_procedure_type.public|has_procedure_type.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_procedure_type.internal|has_procedure_type.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_procedure_type.protect|has_procedure_type.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_procedure_type.private|has_procedure_type.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_procedure_type.personal|has_procedure_type.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_procedure_type.secret|has_procedure_type.secret]]"
-dv_is_same_as:
-  - "[[has_procedure_type]]"
-  - "[[/_public/schema-org/Relation/has/has_procedure_type.public|has_procedure_type.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_procedure_type.internal|has_procedure_type.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_procedure_type.protect|has_procedure_type.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_procedure_type.private|has_procedure_type.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_procedure_type.personal|has_procedure_type.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_procedure_type.secret|has_procedure_type.secret]]"
----
-﻿---
-dv_is_:
-  same_as:
-    - "[[has_procedure_type]]"
-    - "[[/_public/schema-org/Relation/has/has_procedure_type.public|has_procedure_type.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_procedure_type.internal|has_procedure_type.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_procedure_type.protect|has_procedure_type.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_procedure_type.private|has_procedure_type.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_procedure_type.personal|has_procedure_type.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_procedure_type.secret|has_procedure_type.secret]]"
-dv_is_same_as:
-  - "[[has_procedure_type]]"
-  - "[[/_public/schema-org/Relation/has/has_procedure_type.public|has_procedure_type.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_procedure_type.internal|has_procedure_type.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_procedure_type.protect|has_procedure_type.protect]]"
-  - "[[/_private/schema-org/R---
-dv_is_:
-  same_as:
-    - "[[has_procedure_type]]"
-    - "[[/_public/schema-org/Relation/has/has_procedure_type.public|has_procedure_type.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_procedure_type.internal|has_procedure_type.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_procedure_type.protect|has_procedure_type.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_procedure_type.private|has_procedure_type.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_procedure_type.personal|has_procedure_type.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_procedure_type.secret|has_procedure_type.secret]]"
-dv_is_same_as:
-  - "[[has_procedure_type]]"
-  - "[[/_public/schema-org/Relation/has/has_procedure_type.public|has_procedure_type.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_procedure_type.internal|has_procedure_type.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_procedure_type.protect|has_procedure_type.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_procedure_type.private|has_procedure_type.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_procedure_type.personal|has_procedure_type.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_procedure_type.secret|has_procedure_type.secret]]"
----
-﻿---
 aliases:
   - has procedure-type
   - procedureType
@@ -80,11 +27,9 @@ tags:
 title: has_procedure_type
 type: Predi_Relation
 dv_has_:
-  procedure_type: MedicalProcedureType
   domain: MedicalProcedure
   name: is_procedure_type
   range: MedicalProcedureType
-dv_has_procedure_type: MedicalProcedureType
   inverse: [[is_procedure_type_of]]
 dv_is_:
   same_as:
@@ -108,6 +53,7 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_procedure_type.secret|has_procedure_type.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_procedure_type_of]]"
+
 ---
 
 # [[has_procedure_type]] 

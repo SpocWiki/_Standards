@@ -1,42 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_reserved_ticket]]"
-    - "[[/_public/schema-org/Relation/has/has_reserved_ticket.public|has_reserved_ticket.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_reserved_ticket.internal|has_reserved_ticket.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_reserved_ticket.protect|has_reserved_ticket.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_reserved_ticket.private|has_reserved_ticket.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_reserved_ticket.personal|has_reserved_ticket.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_reserved_ticket.secret|has_reserved_ticket.secret]]"
-dv_is_same_as:
-  - "[[has_reserved_ticket]]"
-  - "[[/_public/schema-org/Relation/has/has_reserved_ticket.public|has_reserved_ticket.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_reserved_ticket.internal|has_reserved_ticket.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_reserved_ticket.protect|has_reserved_ticket.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_reserved_ticket.private|has_reserved_ticket.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_reserved_ticket.personal|has_reserved_ticket.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_reserved_ticket.secret|has_reserved_ticket.secret]]"
----
-﻿---
-dv_is_:
-  same_as:
-    - "[[has_reserved_ticket]]"
-    - "[[/_public/schema-org/Relation/has/has_reserved_ticket.public|has_reserved_ticket.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_reserved_ticket.internal|has_reserved_ticket.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_reserved_ticket.protect|has_reserved_ticket.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_reserved_ticket.private|has_reserved_ticket.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_reserved_ticket.personal|has_reserved_ticket.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_reserved_ticket.secret|has_reserved_ticket.secret]]"
-dv_is_same_as:
-  - "[[has_reserved_ticket]]"
-  - "[[/_public/schema-org/Relation/has/has_reserved_ticket.public|has_reserved_ticket.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_reserved_ticket.internal|has_reserved_ticket.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_reserved_ticket.protect|has_reserved_ticket.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_reserved_ticket.private|has_reserved_ticket.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_reserved_ticket.personal|has_reserved_ticket.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_reserved_ticket.secret|has_reserved_ticket.secret]]"
----
-﻿---
 aliases:
   - has reserved-ticket
   - reservedTicket
@@ -65,11 +27,9 @@ tags:
 title: has_reserved_ticket
 type: Predi_Relation
 dv_has_:
-  reserved_ticket: Ticket
   domain: Reservation
   name: is_reserved_ticket
   range: Ticket
-dv_has_reserved_ticket: Ticket
   inverse: [[is_reserved_ticket_of]]
 dv_is_:
   same_as:
@@ -93,6 +53,7 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_reserved_ticket.secret|has_reserved_ticket.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_reserved_ticket_of]]"
+
 ---
 
 # [[has_reserved_ticket]] 

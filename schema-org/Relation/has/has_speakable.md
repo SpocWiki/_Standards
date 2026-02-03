@@ -1,42 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_speakable]]"
-    - "[[/_public/schema-org/Relation/has/has_speakable.public|has_speakable.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_speakable.internal|has_speakable.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_speakable.protect|has_speakable.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_speakable.private|has_speakable.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_speakable.personal|has_speakable.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_speakable.secret|has_speakable.secret]]"
-dv_is_same_as:
-  - "[[has_speakable]]"
-  - "[[/_public/schema-org/Relation/has/has_speakable.public|has_speakable.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_speakable.internal|has_speakable.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_speakable.protect|has_speakable.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_speakable.private|has_speakable.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_speakable.personal|has_speakable.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_speakable.secret|has_speakable.secret]]"
----
-﻿---
-dv_is_:
-  same_as:
-    - "[[has_speakable]]"
-    - "[[/_public/schema-org/Relation/has/has_speakable.public|has_speakable.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_speakable.internal|has_speakable.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_speakable.protect|has_speakable.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_speakable.private|has_speakable.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_speakable.personal|has_speakable.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_speakable.secret|has_speakable.secret]]"
-dv_is_same_as:
-  - "[[has_speakable]]"
-  - "[[/_public/schema-org/Relation/has/has_speakable.public|has_speakable.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_speakable.internal|has_speakable.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_speakable.protect|has_speakable.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_speakable.private|has_speakable.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_speakable.personal|has_speakable.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_speakable.secret|has_speakable.secret]]"
----
-﻿---
 aliases:
   - has speakable
   - has_speakable
@@ -61,11 +23,9 @@ tags:
 title: has_speakable
 type: Predi_Relation
 dv_has_:
-  speakable: SpeakableSpecification, URL
   domain: Article, WebPage
   name: is_speakable
   range: SpeakableSpecification, URL
-dv_has_speakable: SpeakableSpecification, URL
   inverse: [[is_speakable_of]]
 dv_is_:
   same_as:
@@ -93,6 +53,7 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_speakable.secret|has_speakable.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_speakable_of]]"
+
 ---
 
 # [[has_speakable]] 

@@ -1,42 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_works_for]]"
-    - "[[/_public/schema-org/Relation/has/has_works_for.public|has_works_for.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_works_for.internal|has_works_for.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_works_for.protect|has_works_for.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_works_for.private|has_works_for.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_works_for.personal|has_works_for.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_works_for.secret|has_works_for.secret]]"
-dv_is_same_as:
-  - "[[has_works_for]]"
-  - "[[/_public/schema-org/Relation/has/has_works_for.public|has_works_for.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_works_for.internal|has_works_for.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_works_for.protect|has_works_for.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_works_for.private|has_works_for.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_works_for.personal|has_works_for.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_works_for.secret|has_works_for.secret]]"
----
-﻿---
-dv_is_:
-  same_as:
-    - "[[has_works_for]]"
-    - "[[/_public/schema-org/Relation/has/has_works_for.public|has_works_for.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_works_for.internal|has_works_for.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_works_for.protect|has_works_for.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_works_for.private|has_works_for.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_works_for.personal|has_works_for.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_works_for.secret|has_works_for.secret]]"
-dv_is_same_as:
-  - "[[has_works_for]]"
-  - "[[/_public/schema-org/Relation/has/has_works_for.public|has_works_for.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_works_for.internal|has_works_for.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_works_for.protect|has_works_for.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_works_for.private|has_works_for.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_works_for.personal|has_works_for.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_works_for.secret|has_works_for.secret]]"
----
-﻿---
 aliases:
   - has works-for
   - worksFor
@@ -65,11 +27,9 @@ tags:
 title: has_works_for
 type: Predi_Relation
 dv_has_:
-  works_for: Organization
   domain: Person
   name: is_works_for
   range: Organization
-dv_has_works_for: Organization
   inverse: [[is_works_for_of]]
 dv_is_:
   same_as:
@@ -93,6 +53,7 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_works_for.secret|has_works_for.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_works_for_of]]"
+
 ---
 
 # [[has_works_for]] 

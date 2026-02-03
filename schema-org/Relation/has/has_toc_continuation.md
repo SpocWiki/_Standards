@@ -1,51 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_toc_continuation]]"
-    - "[[/_public/schema-org/Relation/has/has_toc_continuation.public|has_toc_continuation.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_toc_continuation.internal|has_toc_continuation.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_toc_continuation.protect|has_toc_continuation.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_toc_continuation.private|has_toc_continuation.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_toc_continuation.personal|has_toc_continuation.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_toc_continuation.secret|has_toc_continuation.secret]]"
-dv_is_same_as:
-  - "[[has_toc_continuation]]"
-  - "[[/_public/schema-org/Relation/has/has_toc_continuation.public|has_toc_continuation.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_toc_continuation.internal|has_toc_continuation.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_toc_continuation.protect|has_toc_continuation.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_toc_continuation.private|has_toc_continuation.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_toc_continuation.personal|has_toc_continuation.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_toc_continuation.secret|has_toc_continuation.secret]]"
----
-﻿---
-dv_has_:
-  toc_continuation: HyperTocEntry
-  domain: HyperTocEntry
-  name: is_toc_continuation
-  range: HyperTocEntry
-dv_has_toc_continuation: HyperTocEntry
-dv_is_:
-  same_as:
-    - "[[has_toc_continuation]]"
-    - "[[/_public/schema-org/Relation/has/has_toc_continuation.public|has_toc_continuation.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_toc_continuation.internal|has_toc_continuation.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_toc_continuation.protect|has_toc_continuation.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_toc_continuation.private|has_toc_continuation.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_toc_continuation.personal|has_toc_continuation.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_toc_continuation.secret|has_toc_continuation.secret]]"
-dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Hyper_Toc_Entry|Hyper_Toc_Entry]]"
-dv_has_name: is_toc_continuation
-dv_has_range: "[[../../../Society/Communication/Media/Creative_Work/Hyper_Toc_Entry|Hyper_Toc_Entry]]"
-dv_is_same_as:
-  - "[[has_toc_continuation]]"
-  - "[[/_public/schema-org/Relation/has/has_toc_continuation.public|has_toc_continuation.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_toc_continuation.internal|has_toc_continuation.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_toc_continuation.protect|has_toc_continuation.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_toc_continuation.private|has_toc_continuation.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_toc_continuation.personal|has_toc_continuation.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_toc_continuation.secret|has_toc_continuation.secret]]"
----
-﻿---
 aliases:
   - has toc-continuation
   - tocContinuation
@@ -75,6 +28,36 @@ title: has_toc_continuation
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_toc_continuation_of]]"
+
+dv_is_:
+  same_as:
+    - "[[has_toc_continuation]]"
+    - "[[/_public/schema-org/Relation/has/has_toc_continuation.public|has_toc_continuation.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_toc_continuation.internal|has_toc_continuation.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_toc_continuation.protect|has_toc_continuation.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_toc_continuation.private|has_toc_continuation.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_toc_continuation.personal|has_toc_continuation.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_toc_continuation.secret|has_toc_continuation.secret]]"
+dv_is_same_as:
+  - "[[has_toc_continuation]]"
+  - "[[/_public/schema-org/Relation/has/has_toc_continuation.public|has_toc_continuation.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_toc_continuation.internal|has_toc_continuation.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_toc_continuation.protect|has_toc_continuation.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_toc_continuation.private|has_toc_continuation.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_toc_continuation.personal|has_toc_continuation.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_toc_continuation.secret|has_toc_continuation.secret]]"
+
+
+dv_has_:
+  toc_continuation: HyperTocEntry
+  domain: HyperTocEntry
+  name: is_toc_continuation
+  range: HyperTocEntry
+dv_has_toc_continuation: HyperTocEntry
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work/Hyper_Toc_Entry|Hyper_Toc_Entry]]"
+dv_has_name: is_toc_continuation
+dv_has_range: "[[../../../Society/Communication/Media/Creative_Work/Hyper_Toc_Entry|Hyper_Toc_Entry]]"
+
 ---
 
 # [[has_toc_continuation]] 

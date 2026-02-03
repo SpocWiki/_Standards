@@ -16,8 +16,8 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_recipe.private|has_recipe.private]]"
   - "[[/_personal/schema-org/Relation/has/has_recipe.personal|has_recipe.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_recipe.secret|has_recipe.secret]]"
----
-﻿---
+
+
 dv_has_:
   recipe: Recipe
   domain: CookAction
@@ -71,8 +71,8 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_recipe.private|has_recipe.private]]"
   - "[[/_personal/schema-org/Relation/has/has_recipe.personal|has_recipe.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_recipe.secret|has_recipe.secret]]"
----
-﻿---
+
+
 aliases:
   - has_recipe
   - schema:recipe

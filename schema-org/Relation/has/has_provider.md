@@ -55,8 +55,7 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_provider.private|has_provider.private]]"
   - "[[/_personal/schema-org/Relation/has/has_provider.personal|has_provider.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_provider.secret|has_provider.secret]]"
----
-﻿---
+
 aliases:
   - has provider
   - has_provider

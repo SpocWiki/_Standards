@@ -1,51 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_refund_type]]"
-    - "[[/_public/schema-org/Relation/has/has_refund_type.public|has_refund_type.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_refund_type.internal|has_refund_type.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_refund_type.protect|has_refund_type.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_refund_type.private|has_refund_type.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_refund_type.personal|has_refund_type.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_refund_type.secret|has_refund_type.secret]]"
-dv_is_same_as:
-  - "[[has_refund_type]]"
-  - "[[/_public/schema-org/Relation/has/has_refund_type.public|has_refund_type.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_refund_type.internal|has_refund_type.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_refund_type.protect|has_refund_type.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_refund_type.private|has_refund_type.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_refund_type.personal|has_refund_type.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_refund_type.secret|has_refund_type.secret]]"
----
-﻿---
-dv_has_:
-  refund_type: RefundTypeEnumeration
-  domain: MerchantReturnPolicy
-  name: is_refund_type
-  range: RefundTypeEnumeration
-dv_has_refund_type: RefundTypeEnumeration
-dv_is_:
-  same_as:
-    - "[[has_refund_type]]"
-    - "[[/_public/schema-org/Relation/has/has_refund_type.public|has_refund_type.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_refund_type.internal|has_refund_type.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_refund_type.protect|has_refund_type.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_refund_type.private|has_refund_type.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_refund_type.personal|has_refund_type.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_refund_type.secret|has_refund_type.secret]]"
-dv_has_domain: "[[../../Class/is_a_/Intangible/Merchant_Return_Policy|MerchantReturnPolicy]]"
-dv_has_name: is_refund_type
-dv_has_range: "[[../../Enumeration/Refund_Type_Enumeration|Refund_Type_Enumeration]]"
-dv_is_same_as:
-  - "[[has_refund_type]]"
-  - "[[/_public/schema-org/Relation/has/has_refund_type.public|has_refund_type.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_refund_type.internal|has_refund_type.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_refund_type.protect|has_refund_type.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_refund_type.private|has_refund_type.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_refund_type.personal|has_refund_type.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_refund_type.secret|has_refund_type.secret]]"
----
-﻿---
 aliases:
   - has refund-type
   - refundType
@@ -75,6 +28,37 @@ title: has_refund_type
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_refund_type_of]]"
+
+dv_is_:
+  same_as:
+    - "[[has_refund_type]]"
+    - "[[/_public/schema-org/Relation/has/has_refund_type.public|has_refund_type.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_refund_type.internal|has_refund_type.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_refund_type.protect|has_refund_type.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_refund_type.private|has_refund_type.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_refund_type.personal|has_refund_type.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_refund_type.secret|has_refund_type.secret]]"
+dv_is_same_as:
+  - "[[has_refund_type]]"
+  - "[[/_public/schema-org/Relation/has/has_refund_type.public|has_refund_type.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_refund_type.internal|has_refund_type.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_refund_type.protect|has_refund_type.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_refund_type.private|has_refund_type.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_refund_type.personal|has_refund_type.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_refund_type.secret|has_refund_type.secret]]"
+
+
+dv_has_:
+  refund_type: RefundTypeEnumeration
+  domain: MerchantReturnPolicy
+  name: is_refund_type
+  range: RefundTypeEnumeration
+dv_has_refund_type: RefundTypeEnumeration
+dv_has_domain: "[[../../Class/is_a_/Intangible/Merchant_Return_Policy|MerchantReturnPolicy]]"
+dv_has_name: is_refund_type
+dv_has_range: "[[../../Enumeration/Refund_Type_Enumeration|Refund_Type_Enumeration]]"
+
+
 ---
 
 # [[has_refund_type]] 

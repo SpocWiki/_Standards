@@ -16,8 +16,8 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_text_encoding.private|has_text_encoding.private]]"
   - "[[/_personal/schema-org/Relation/has/has_text_encoding.personal|has_text_encoding.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_text_encoding.secret|has_text_encoding.secret]]"
----
-﻿---
+
+
 aliases:
   - has Text Encoding
   - has Character Encoding

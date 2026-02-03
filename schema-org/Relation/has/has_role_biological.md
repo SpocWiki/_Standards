@@ -1,52 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_role_biological]]"
-    - "[[/_public/schema-org/Relation/has/has_role_biological.public|has_role_biological.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_role_biological.internal|has_role_biological.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_role_biological.protect|has_role_biological.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_role_biological.private|has_role_biological.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_role_biological.personal|has_role_biological.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_role_biological.secret|has_role_biological.secret]]"
-dv_is_same_as:
-  - "[[has_role_biological]]"
-  - "[[/_public/schema-org/Relation/has/has_role_biological.public|has_role_biological.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_role_biological.internal|has_role_biological.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_role_biological.protect|has_role_biological.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_role_biological.private|has_role_biological.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_role_biological.personal|has_role_biological.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_role_biological.secret|has_role_biological.secret]]"
----
-﻿---
-dv_has_:
-  role_:
-    biological: DefinedTerm
-  domain: BioChemEntity
-  name: has_role_biological
-  range: DefinedTerm
-dv_has_role_biological: DefinedTerm
-dv_is_:
-  same_as:
-    - "[[has_role_biological]]"
-    - "[[/_public/schema-org/Relation/has/has_role_biological.public|has_role_biological.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_role_biological.internal|has_role_biological.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_role_biological.protect|has_role_biological.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_role_biological.private|has_role_biological.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_role_biological.personal|has_role_biological.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_role_biological.secret|has_role_biological.secret]]"
-dv_has_domain: "[[../../Class/is_a_/Bio_Chem_Entity|BioChemEntity]]"
-dv_has_name: has_role_biological
-dv_has_range: "[[../../Class/is_a_/Intangible/Defined_Term|DefinedTerm]]"
-dv_is_same_as:
-  - "[[has_role_biological]]"
-  - "[[/_public/schema-org/Relation/has/has_role_biological.public|has_role_biological.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_role_biological.internal|has_role_biological.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_role_biological.protect|has_role_biological.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_role_biological.private|has_role_biological.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_role_biological.personal|has_role_biological.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_role_biological.secret|has_role_biological.secret]]"
----
-﻿---
 aliases:
   - has biological-role
   - biologicalRole
@@ -76,6 +28,36 @@ title: has_role_biological
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_role_biological_of]]"
+
+dv_is_:
+  same_as:
+    - "[[has_role_biological]]"
+    - "[[/_public/schema-org/Relation/has/has_role_biological.public|has_role_biological.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_role_biological.internal|has_role_biological.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_role_biological.protect|has_role_biological.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_role_biological.private|has_role_biological.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_role_biological.personal|has_role_biological.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_role_biological.secret|has_role_biological.secret]]"
+dv_is_same_as:
+  - "[[has_role_biological]]"
+  - "[[/_public/schema-org/Relation/has/has_role_biological.public|has_role_biological.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_role_biological.internal|has_role_biological.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_role_biological.protect|has_role_biological.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_role_biological.private|has_role_biological.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_role_biological.personal|has_role_biological.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_role_biological.secret|has_role_biological.secret]]"
+
+dv_has_:
+  role_:
+    biological: DefinedTerm
+  domain: BioChemEntity
+  name: has_role_biological
+  range: DefinedTerm
+dv_has_role_biological: DefinedTerm
+dv_has_domain: "[[../../Class/is_a_/Bio_Chem_Entity|BioChemEntity]]"
+dv_has_name: has_role_biological
+dv_has_range: "[[../../Class/is_a_/Intangible/Defined_Term|DefinedTerm]]"
+
 ---
 
 # [[has_role_biological]] 

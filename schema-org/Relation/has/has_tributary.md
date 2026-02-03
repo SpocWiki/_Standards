@@ -1,42 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_tributary]]"
-    - "[[/_public/schema-org/Relation/has/has_tributary.public|has_tributary.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_tributary.internal|has_tributary.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_tributary.protect|has_tributary.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_tributary.private|has_tributary.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_tributary.personal|has_tributary.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_tributary.secret|has_tributary.secret]]"
-dv_is_same_as:
-  - "[[has_tributary]]"
-  - "[[/_public/schema-org/Relation/has/has_tributary.public|has_tributary.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_tributary.internal|has_tributary.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_tributary.protect|has_tributary.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_tributary.private|has_tributary.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_tributary.personal|has_tributary.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_tributary.secret|has_tributary.secret]]"
----
-﻿---
-dv_is_:
-  same_as:
-    - "[[has_tributary]]"
-    - "[[/_public/schema-org/Relation/has/has_tributary.public|has_tributary.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_tributary.internal|has_tributary.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_tributary.protect|has_tributary.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_tributary.private|has_tributary.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_tributary.personal|has_tributary.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_tributary.secret|has_tributary.secret]]"
-dv_is_same_as:
-  - "[[has_tributary]]"
-  - "[[/_public/schema-org/Relation/has/has_tributary.public|has_tributary.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_tributary.internal|has_tributary.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_tributary.protect|has_tributary.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_tributary.private|has_tributary.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_tributary.personal|has_tributary.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_tributary.secret|has_tributary.secret]]"
----
-﻿---
 aliases:
   - has tributary
   - has_tributary
@@ -61,11 +23,9 @@ tags:
 title: has_tributary
 type: Predi_Relation
 dv_has_:
-  tributary: AnatomicalStructure
   domain: Vein
   name: is_tributary
   range: AnatomicalStructure
-dv_has_tributary: AnatomicalStructure
   inverse: [[is_tributary_of]]
 dv_is_:
   same_as:
@@ -89,6 +49,7 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_tributary.secret|has_tributary.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_tributary_of]]"
+
 ---
 
 # [[has_tributary]] 

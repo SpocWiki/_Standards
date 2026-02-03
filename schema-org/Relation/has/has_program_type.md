@@ -1,72 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_program_type]]"
-    - "[[/_public/schema-org/Relation/has/has_program_type.public|has_program_type.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_program_type.internal|has_program_type.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_program_type.protect|has_program_type.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_program_type.private|has_program_type.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_program_type.personal|has_program_type.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_program_type.secret|has_program_type.secret]]"
-dv_is_same_as:
-  - "[[has_program_type]]"
-  - "[[/_public/schema-org/Relation/has/has_program_type.public|has_program_type.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_program_type.internal|has_program_type.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_program_type.protect|has_program_type.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_program_type.private|has_program_type.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_program_type.personal|has_program_type.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_program_type.secret|has_program_type.secret]]"
----
-﻿---
-dv_has_:
-  program_type: DefinedTerm, Text
-  domain: EducationalOccupationalProgram
-  name: is_program_type
-  range: DefinedTerm, Text
-dv_has_program_type: DefinedTerm, Text
-dv_is_:
-  same_as:
-    - "[[has_program_type]]"
-    - "[[/_public/schema-org/Relation/has/has_program_type.public|has_program_type.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_program_type.internal|has_program_type.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_program_type.protect|has_program_type.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_program_type.private|has_program_type.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_program_type.personal|has_program_type.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_program_type.secret|has_program_type.secret]]"
-dv_has_domain: "[[../../Class/is_a_/Intangible/Educational_Occupational_Program|EducationalOccupationalProgram]]"
-dv_has_name: is_program_type
-dv_has_range:
-  - "[[../../Class/is_a_/Intangible/Defined_Term|Defined_Term---
-dv_has_:
-  program_type: DefinedTerm, Text
-  domain: EducationalOccupationalProgram
-  name: is_program_type
-  range: DefinedTerm, Text
-dv_has_program_type: DefinedTerm, Text
-dv_is_:
-  same_as:
-    - "[[has_program_type]]"
-    - "[[/_public/schema-org/Relation/has/has_program_type.public|has_program_type.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_program_type.internal|has_program_type.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_program_type.protect|has_program_type.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_program_type.private|has_program_type.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_program_type.personal|has_program_type.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_program_type.secret|has_program_type.secret]]"
-dv_has_domain: "[[../../Class/is_a_/Intangible/Educational_Occupational_Program|EducationalOccupationalProgram]]"
-dv_has_name: is_program_type
-dv_has_range:
-  - "[[../../Class/is_a_/Intangible/Defined_Term|Defined_Term]]"
-  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
-dv_is_same_as:
-  - "[[has_program_type]]"
-  - "[[/_public/schema-org/Relation/has/has_program_type.public|has_program_type.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_program_type.internal|has_program_type.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_program_type.protect|has_program_type.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_program_type.private|has_program_type.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_program_type.personal|has_program_type.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_program_type.secret|has_program_type.secret]]"
----
-﻿---
 aliases:
   - has program-type
   - programType
@@ -96,6 +28,36 @@ title: has_program_type
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_program_type_of]]"
+dv_is_:
+  same_as:
+    - "[[has_program_type]]"
+    - "[[/_public/schema-org/Relation/has/has_program_type.public|has_program_type.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_program_type.internal|has_program_type.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_program_type.protect|has_program_type.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_program_type.private|has_program_type.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_program_type.personal|has_program_type.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_program_type.secret|has_program_type.secret]]"
+dv_is_same_as:
+  - "[[has_program_type]]"
+  - "[[/_public/schema-org/Relation/has/has_program_type.public|has_program_type.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_program_type.internal|has_program_type.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_program_type.protect|has_program_type.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_program_type.private|has_program_type.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_program_type.personal|has_program_type.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_program_type.secret|has_program_type.secret]]"
+
+dv_has_:
+  domain: EducationalOccupationalProgram
+  name: is_program_type
+  range: DefinedTerm, Text
+  program_type: DefinedTerm, Text
+dv_has_domain: "[[../../Class/is_a_/Intangible/Educational_Occupational_Program|EducationalOccupationalProgram]]"
+dv_has_name: is_program_type
+dv_has_program_type: DefinedTerm, Text
+dv_has_range:
+  - "[[../../Class/is_a_/Intangible/Defined_Term|Defined_Term]]"
+  - "[[../../Class/is_a_/Data_Type/Text|Text]]"
+
 ---
 
 # [[has_program_type]] 

@@ -1,57 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_usage_info]]"
-    - "[[/_public/schema-org/Relation/has/has_usage_info.public|has_usage_info.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_usage_info.internal|has_usage_info.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_usage_info.protect|has_usage_info.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_usage_info.private|has_usage_info.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_usage_info.personal|has_usage_info.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_usage_info.secret|has_usage_info.secret]]"
-dv_is_same_as:
-  - "[[has_usage_info]]"
-  - "[[/_public/schema-org/Relation/has/has_usage_info.public|has_usage_info.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_usage_info.internal|has_usage_info.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_usage_info.protect|has_usage_info.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_usage_info.private|has_usage_info.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_usage_info.personal|has_usage_info.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_usage_info.secret|has_usage_info.secret]]"
----
-﻿---
-dv_has_:
-  usage_:
-    info: CreativeWork, URL
-  domain: CreativeWork
-  name: is_usage_info
-  range: CreativeWork, URL
-  child_:
-    property: "[ acquireLicensePage ]"
-dv_has_usage_info: CreativeWork, URL
-dv_is_:
-  same_as:
-    - "[[has_usage_info]]"
-    - "[[/_public/schema-org/Relation/has/has_usage_info.public|has_usage_info.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_usage_info.internal|has_usage_info.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_usage_info.protect|has_usage_info.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_usage_info.private|has_usage_info.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_usage_info.personal|has_usage_info.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_usage_info.secret|has_usage_info.secret]]"
-dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
-dv_has_name: is_usage_info
-dv_has_range:
-  - "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
-  - "[[../../Class/is_a_/Data_Type/Text/Url|Url]]"
-dv_has_child_property: "[ acquireLicensePage ]"
-dv_is_same_as:
-  - "[[has_usage_info]]"
-  - "[[/_public/schema-org/Relation/has/has_usage_info.public|has_usage_info.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_usage_info.internal|has_usage_info.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_usage_info.protect|has_usage_info.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_usage_info.private|has_usage_info.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_usage_info.personal|has_usage_info.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_usage_info.secret|has_usage_info.secret]]"
----
-﻿---
 aliases:
   - has usage-info
   - usageInfo
@@ -82,6 +29,42 @@ title: has_usage_info
 type: Predi_Relation
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_usage_info_of]]"
+
+dv_is_:
+  same_as:
+    - "[[has_usage_info]]"
+    - "[[/_public/schema-org/Relation/has/has_usage_info.public|has_usage_info.public]]"
+    - "[[/_internal/schema-org/Relation/has/has_usage_info.internal|has_usage_info.internal]]"
+    - "[[/_protect/schema-org/Relation/has/has_usage_info.protect|has_usage_info.protect]]"
+    - "[[/_private/schema-org/Relation/has/has_usage_info.private|has_usage_info.private]]"
+    - "[[/_personal/schema-org/Relation/has/has_usage_info.personal|has_usage_info.personal]]"
+    - "[[/_secret/schema-org/Relation/has/has_usage_info.secret|has_usage_info.secret]]"
+dv_is_same_as:
+  - "[[has_usage_info]]"
+  - "[[/_public/schema-org/Relation/has/has_usage_info.public|has_usage_info.public]]"
+  - "[[/_internal/schema-org/Relation/has/has_usage_info.internal|has_usage_info.internal]]"
+  - "[[/_protect/schema-org/Relation/has/has_usage_info.protect|has_usage_info.protect]]"
+  - "[[/_private/schema-org/Relation/has/has_usage_info.private|has_usage_info.private]]"
+  - "[[/_personal/schema-org/Relation/has/has_usage_info.personal|has_usage_info.personal]]"
+  - "[[/_secret/schema-org/Relation/has/has_usage_info.secret|has_usage_info.secret]]"
+
+
+dv_has_:
+  usage_:
+    info: CreativeWork, URL
+  domain: CreativeWork
+  name: is_usage_info
+  range: CreativeWork, URL
+  child_:
+    property: "[ acquireLicensePage ]"
+dv_has_usage_info: CreativeWork, URL
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
+dv_has_name: is_usage_info
+dv_has_range:
+  - "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
+  - "[[../../Class/is_a_/Data_Type/Text/Url|Url]]"
+dv_has_child_property: "[ acquireLicensePage ]"
+
 ---
 
 # [[has_usage_info]] 

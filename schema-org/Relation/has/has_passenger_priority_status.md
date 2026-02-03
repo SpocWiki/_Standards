@@ -1,42 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_passenger_priority_status]]"
-    - "[[/_public/schema-org/Relation/has/has_passenger_priority_status.public|has_passenger_priority_status.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_passenger_priority_status.internal|has_passenger_priority_status.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_passenger_priority_status.protect|has_passenger_priority_status.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_passenger_priority_status.private|has_passenger_priority_status.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_passenger_priority_status.personal|has_passenger_priority_status.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_passenger_priority_status.secret|has_passenger_priority_status.secret]]"
-dv_is_same_as:
-  - "[[has_passenger_priority_status]]"
-  - "[[/_public/schema-org/Relation/has/has_passenger_priority_status.public|has_passenger_priority_status.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_passenger_priority_status.internal|has_passenger_priority_status.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_passenger_priority_status.protect|has_passenger_priority_status.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_passenger_priority_status.private|has_passenger_priority_status.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_passenger_priority_status.personal|has_passenger_priority_status.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_passenger_priority_status.secret|has_passenger_priority_status.secret]]"
----
-﻿---
-dv_is_:
-  same_as:
-    - "[[has_passenger_priority_status]]"
-    - "[[/_public/schema-org/Relation/has/has_passenger_priority_status.public|has_passenger_priority_status.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_passenger_priority_status.internal|has_passenger_priority_status.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_passenger_priority_status.protect|has_passenger_priority_status.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_passenger_priority_status.private|has_passenger_priority_status.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_passenger_priority_status.personal|has_passenger_priority_status.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_passenger_priority_status.secret|has_passenger_priority_status.secret]]"
-dv_is_same_as:
-  - "[[has_passenger_priority_status]]"
-  - "[[/_public/schema-org/Relation/has/has_passenger_priority_status.public|has_passenger_priority_status.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_passenger_priority_status.internal|has_passenger_priority_status.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_passenger_priority_status.protect|has_passenger_priority_status.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_passenger_priority_status.private|has_passenger_priority_status.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_passenger_priority_status.personal|has_passenger_priority_status.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_passenger_priority_status.secret|has_passenger_priority_status.secret]]"
----
-﻿---
 aliases:
   - has passenger-priority-status
   - passengerPriorityStatus
@@ -66,11 +28,9 @@ tags:
 title: has_passenger_priority_status
 type: Predi_Relation
 dv_has_:
-  passenger_priority_status: QualitativeValue, Text
   domain: FlightReservation
   name: has_passenger_priority_status
   range: QualitativeValue, Text
-dv_has_passenger_priority_status: QualitativeValue, Text
   inverse: [[is_passenger_priority_status_of]]
 dv_is_:
   same_as:

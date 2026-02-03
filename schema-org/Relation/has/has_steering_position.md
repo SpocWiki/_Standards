@@ -1,42 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_steering_position]]"
-    - "[[/_public/schema-org/Relation/has/has_steering_position.public|has_steering_position.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_steering_position.internal|has_steering_position.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_steering_position.protect|has_steering_position.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_steering_position.private|has_steering_position.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_steering_position.personal|has_steering_position.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_steering_position.secret|has_steering_position.secret]]"
-dv_is_same_as:
-  - "[[has_steering_position]]"
-  - "[[/_public/schema-org/Relation/has/has_steering_position.public|has_steering_position.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_steering_position.internal|has_steering_position.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_steering_position.protect|has_steering_position.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_steering_position.private|has_steering_position.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_steering_position.personal|has_steering_position.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_steering_position.secret|has_steering_position.secret]]"
----
-﻿---
-dv_is_:
-  same_as:
-    - "[[has_steering_position]]"
-    - "[[/_public/schema-org/Relation/has/has_steering_position.public|has_steering_position.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_steering_position.internal|has_steering_position.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_steering_position.protect|has_steering_position.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_steering_position.private|has_steering_position.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_steering_position.personal|has_steering_position.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_steering_position.secret|has_steering_position.secret]]"
-dv_is_same_as:
-  - "[[has_steering_position]]"
-  - "[[/_public/schema-org/Relation/has/has_steering_position.public|has_steering_position.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_steering_position.internal|has_steering_position.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_steering_position.protect|has_steering_position.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_steering_position.private|has_steering_position.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_steering_position.personal|has_steering_position.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_steering_position.secret|has_steering_position.secret]]"
----
-﻿---
 aliases:
   - has steering-position
   - steeringPosition
@@ -65,11 +27,9 @@ tags:
 title: has_steering_position
 type: Predi_Relation
 dv_has_:
-  steering_position: SteeringPositionValue
   domain: Vehicle
   name: is_steering_position
   range: SteeringPositionValue
-dv_has_steering_position: SteeringPositionValue
   inverse: [[is_steering_position_of]]
 dv_is_:
   same_as:
@@ -93,6 +53,7 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_steering_position.secret|has_steering_position.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_steering_position_of]]"
+
 ---
 
 # [[has_steering_position]] 

@@ -1,58 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_producer]]"
-    - "[[/_public/schema-org/Relation/has/has_producer.public|has_producer.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_producer.internal|has_producer.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_producer.protect|has_producer.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_producer.private|has_producer.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_producer.personal|has_producer.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_producer.secret|has_producer.secret]]"
-dv_is_same_as:
-  - "[[has_producer]]"
-  - "[[/_public/schema-org/Relation/has/has_producer.public|has_producer.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_producer.internal|has_producer.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_producer.protect|has_producer.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_producer.private|has_producer.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_producer.personal|has_producer.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_producer.secret|has_producer.secret]]"
----
-﻿---
-dv_is_:
-  same_as:
-    - "[[has_producer]]"
-    - "[[/_public/schema-org/Relation/has/has_producer.public|has_producer.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_producer.internal|has_producer.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_producer.protect|has_producer.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_producer.private|has_producer.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_producer.personal|has_producer.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_producer.secret|has_producer.secret]]"
-dv_is_same_as:
-  - "[[has_producer]]"
-  - "[[/_public/schema-org/Relation/has/has_producer.public|has_producer.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_producer.internal|has_producer.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_producer.protect|has_producer.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_producer.private|has_producer.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_producer.personal---
-dv_is_:
-  same_as:
-    - "[[has_producer]]"
-    - "[[/_public/schema-org/Relation/has/has_producer.public|has_producer.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_producer.internal|has_producer.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_producer.protect|has_producer.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_producer.private|has_producer.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_producer.personal|has_producer.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_producer.secret|has_producer.secret]]"
-dv_is_same_as:
-  - "[[has_producer]]"
-  - "[[/_public/schema-org/Relation/has/has_producer.public|has_producer.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_producer.internal|has_producer.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_producer.protect|has_producer.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_producer.private|has_producer.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_producer.personal|has_producer.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_producer.secret|has_producer.secret]]"
----
-﻿---
 aliases:
   - has producer
   - has_producer
@@ -77,11 +23,9 @@ tags:
 title: has_producer
 type: Predi_Relation
 dv_has_:
-  producer: Organization, Person
   domain: CreativeWork
   name: is_producer
   range: Organization, Person
-dv_has_producer: Organization, Person
   inverse: [[is_producer_of]]
 dv_is_:
   same_as:
@@ -107,6 +51,7 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_producer.secret|has_producer.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_producer_of]]"
+
 ---
 
 # [[has_producer]] 

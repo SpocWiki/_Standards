@@ -1,57 +1,4 @@
 ---
-dv_is_:
-  same_as:
-    - "[[has_region_drained]]"
-    - "[[/_public/schema-org/Relation/has/has_region_drained.public|has_region_drained.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_region_drained.internal|has_region_drained.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_region_drained.protect|has_region_drained.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_region_drained.private|has_region_drained.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_region_drained.personal|has_region_drained.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_region_drained.secret|has_region_drained.secret]]"
-dv_is_same_as:
-  - "[[has_region_drained]]"
-  - "[[/_public/schema-org/Relation/has/has_region_drained.public|has_region_drained.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_region_drained.internal|has_region_drained.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_region_drained.protect|has_region_drained.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_region_drained.private|has_region_drained.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_region_drained.personal|has_region_drained.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_region_drained.secret|has_region_drained.secret]]"
----
-﻿---
-dv_is_:
-  same_as:
-    - "[[has_region_drained]]"
-    - "[[/_public/schema-org/Relation/has/has_region_drained.public|has_region_drained.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_region_drained.internal|has_region_drained.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_region_drained.protect|has_region_drained.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_region_drained.private|has_region_drained.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_region_drained.personal|has_region_drained.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_region_drained.secret|has_region_drained.secret]]"
-dv_is_same_as:
-  - "[[has_region_drained]]"
-  - "[[/_public/schema-org/Relation/has/has_region_drained.public|has_region_drained.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_region_drained.internal|has_region_drained.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_region_drained.protect|has_region_drained.protect]]"
-  - "[[/_private/schema-org/R---
-dv_is_:
-  same_as:
-    - "[[has_region_drained]]"
-    - "[[/_public/schema-org/Relation/has/has_region_drained.public|has_region_drained.public]]"
-    - "[[/_internal/schema-org/Relation/has/has_region_drained.internal|has_region_drained.internal]]"
-    - "[[/_protect/schema-org/Relation/has/has_region_drained.protect|has_region_drained.protect]]"
-    - "[[/_private/schema-org/Relation/has/has_region_drained.private|has_region_drained.private]]"
-    - "[[/_personal/schema-org/Relation/has/has_region_drained.personal|has_region_drained.personal]]"
-    - "[[/_secret/schema-org/Relation/has/has_region_drained.secret|has_region_drained.secret]]"
-dv_is_same_as:
-  - "[[has_region_drained]]"
-  - "[[/_public/schema-org/Relation/has/has_region_drained.public|has_region_drained.public]]"
-  - "[[/_internal/schema-org/Relation/has/has_region_drained.internal|has_region_drained.internal]]"
-  - "[[/_protect/schema-org/Relation/has/has_region_drained.protect|has_region_drained.protect]]"
-  - "[[/_private/schema-org/Relation/has/has_region_drained.private|has_region_drained.private]]"
-  - "[[/_personal/schema-org/Relation/has/has_region_drained.personal|has_region_drained.personal]]"
-  - "[[/_secret/schema-org/Relation/has/has_region_drained.secret|has_region_drained.secret]]"
----
-﻿---
 aliases:
   - has region-drained
   - regionDrained
@@ -80,11 +27,9 @@ tags:
 title: has_region_drained
 type: Predi_Relation
 dv_has_:
-  region_drained: AnatomicalStructure, AnatomicalSystem
   domain: LymphaticVessel, Vein
   name: is_region_drained
   range: AnatomicalStructure, AnatomicalSystem
-dv_has_region_drained: AnatomicalStructure, AnatomicalSystem
   inverse: [[is_region_drained_of]]
 dv_is_:
   same_as:
@@ -112,6 +57,7 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/has/has_region_drained.secret|has_region_drained.secret]]"
 dv_is_a: "[[../../Relation|Relation]]"
 dv_has_inverse: "[[is_region_drained_of]]"
+
 ---
 
 # [[has_region_drained]] 
