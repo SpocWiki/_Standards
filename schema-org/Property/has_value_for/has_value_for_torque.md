@@ -25,7 +25,7 @@ title: has_torque
 type: Predi_Quantity
 dv_has_:
   unit_for_:
-    default: "[[../../../Dimension/Linear_Dimension/Torque/Unit~NewtonMeter|Unit~NewtonMeter]]"
+    default: "[[../../../Dimension/Angular_Dimension/Torque/Unit~NewtonMeter|Unit~NewtonMeter]]"
   domain: "[[../../Class/is_a_/Intangible/Structured_Value/Engine_Specification|Engine_Specification]]"
   name: has_value_for_torque
   range: "[[../../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]"
@@ -39,7 +39,7 @@ dv_is_:
     - "[[/_private/schema-org/Property/has_value_for/has_value_for_torque.private|has_value_for_torque.private]]"
     - "[[/_personal/schema-org/Property/has_value_for/has_value_for_torque.personal|has_value_for_torque.personal]]"
     - "[[/_secret/schema-org/Property/has_value_for/has_value_for_torque.secret|has_value_for_torque.secret]]"
-dv_has_unit_for_default: "[[../../../Dimension/Linear_Dimension/Torque/Unit~NewtonMeter|Unit~NewtonMeter]]"
+dv_has_unit_for_default: "[[../../../Dimension/Angular_Dimension/Torque/Unit~NewtonMeter|Unit~NewtonMeter]]"
 dv_is_part_of: https://auto.schema.org
 dv_has_domain: "[[../../Class/is_a_/Intangible/Structured_Value/Engine_Specification|Engine_Specification]]"
 dv_has_name: has_value_for_torque

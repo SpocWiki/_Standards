@@ -37,7 +37,7 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Dimension/Linear_Dimension/Torque/Unit~NewtonMeter|Unit~NewtonMeter]] 
+### #is_/same_as :: [[Unit~NewtonMeter|Unit~NewtonMeter]] 
 
 ### #is_/same_as :: [[/_public/Dimension/Linear_Dimension/Torque/Unit~NewtonMeter.public|Unit~NewtonMeter.public]] 
 

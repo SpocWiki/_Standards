@@ -39,12 +39,12 @@ dv_is_:
     - "[[/_secret/schema-org/Relation/is/is_non_equal.secret|is_non_equal.secret]]"
 dv_is_non_equal: "[[../../../Class/is_a_/intangible/enumeration/qualitative_value|Qualitative Value]]"
 dv_has_:
-  domain: QualitativeValue
+  domain: "[[../../Enumeration/Qualitative_Value|Qualitative_Value]]"
   name: is_non_equal
-  range: QualitativeValue
-dv_has_domain: QualitativeValue
+  range: "[[../../Enumeration/Qualitative_Value|Qualitative_Value]]"
+dv_has_domain: "[[../../Enumeration/Qualitative_Value|Qualitative_Value]]"
 dv_has_name: is_non_equal
-dv_has_range: QualitativeValue
+dv_has_range: "[[../../Enumeration/Qualitative_Value|Qualitative_Value]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/is/is_non_equal|is_non_equal]]"
   - "[[/_public/schema-org/Relation/is/is_non_equal.public|is_non_equal.public]]"
@@ -55,29 +55,31 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/is/is_non_equal.secret|is_non_equal.secret]]"
 ---
 
+# [[is_not_equal]] 
 
 is_a :: [[../../Relation|Relation]] 
 #is_a_/relation 
 #class/Relation
-#has_/inverse :: 
+#has_/inverse :: [[is_not_equal]] 
+#has_/complement :: [[is_equal_to]] 
+#is_/same_as :: 
 
 Use it like this: 
-- is_non_equal = `=this.dv_is_non_equal` ] ] 
-- is_non_equal = `=this.dv_is_non_equal` ] ] 
+- is_not_equal : : `=this.dv_is_non_equal` 
+- #is_/not_/equal : : `=this.dv_is_non_equal`  
 
-This ordering relation for qualitative values indicates that the subject is not equal to the object.
+This ordering relation for qualitative values indicates that the subject value is not equal to the object value .
 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_non_equal|is_non_equal]] 
+### #is_/same_as ::[[is_not_equal|is_not_equal]]] 
 
 ### #is_/same_as :: [[/_public/schema-org/Relation/is/is_non_equal.public|is_non_equal.public]] 
 

@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - is-accessory-or-spare-part-for
   - isAccessoryOrSparePartFor
@@ -36,12 +36,12 @@ dv_is_:
     - "[[/_secret/schema-org/Relation/is/is_accessory_or_spare_part_for.secret|is_accessory_or_spare_part_for.secret]]"
 dv_is_accessory_or_spare_part_for: Product
 dv_has_:
-  domain: Product
+  domain: "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]"
   name: is_accessory_or_spare_part_for
-  range: Product
-dv_has_domain: Product
+  range: "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]"
+dv_has_domain: "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]"
 dv_has_name: is_accessory_or_spare_part_for
-dv_has_range: Product
+dv_has_range: "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/is/is_accessory_or_spare_part_for|is_accessory_or_spare_part_for]]"
   - "[[/_public/schema-org/Relation/is/is_accessory_or_spare_part_for.public|is_accessory_or_spare_part_for.public]]"

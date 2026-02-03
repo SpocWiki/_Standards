@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - affected-by
   - affectedBy
@@ -37,12 +37,12 @@ dv_is_:
     - "[[/_secret/schema-org/Relation/is/is_affected_by.secret|is_affected_by.secret]]"
 dv_is_affected_by: Drug
 dv_has_:
-  domain: MedicalTest
+  domain: "[[../../../bio/Medicine/Medical_Entity/Medical_Test|Medical_Test]]"
   name: is_affected_by
-  range: Drug
-dv_has_domain: MedicalTest
+  range: "[[../../../bio/Medicine/Drug|Drug]]"
+dv_has_domain: "[[../../../bio/Medicine/Medical_Entity/Medical_Test|Medical_Test]]"
 dv_has_name: is_affected_by
-dv_has_range: Drug
+dv_has_range: "[[../../../bio/Medicine/Drug|Drug]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/is/is_affected_by|is_affected_by]]"
   - "[[/_public/schema-org/Relation/is/is_affected_by.public|is_affected_by.public]]"

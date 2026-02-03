@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - acquired-from
   - is acquired from
@@ -37,12 +37,16 @@ dv_is_:
     - "[[/_secret/schema-org/Relation/is/is_acquired_from.secret|is_acquired_from.secret]]"
 dv_is_acquired_from: Organization, Person
 dv_has_:
-  domain: OwnershipInfo
+  domain: "[[../../Class/is_a_/Intangible/Structured_Value/Ownership_Info|Ownership_Info]]"
   name: is_acquired_from
-  range: Organization, Person
-dv_has_domain: OwnershipInfo
+  range:
+    - "[[../../../Society/Agent/Community/Organization|Organization]]"
+    - "[[../../../Society/Agent/Person|Person]]"
+dv_has_domain: "[[../../Class/is_a_/Intangible/Structured_Value/Ownership_Info|Ownership_Info]]"
 dv_has_name: is_acquired_from
-dv_has_range: Organization, Person
+dv_has_range:
+  - "[[../../../Society/Agent/Community/Organization|Organization]]"
+  - "[[../../../Society/Agent/Person|Person]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/is/is_acquired_from|is_acquired_from]]"
   - "[[/_public/schema-org/Relation/is/is_acquired_from.public|is_acquired_from.public]]"

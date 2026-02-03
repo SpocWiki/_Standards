@@ -56,7 +56,7 @@ Wikidata_SPARQL_query_equivalent: wd:Q93318 p:P2370/psn:P2370 [wikibase:quantity
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Dimension/Dim~Length/Nautical_Mile|Nautical_Mile]] 
+### #is_/same_as :: [[Nautical_Mile|Nautical_Mile]] 
 
 ### #is_/same_as :: [[/_public/Dimension/Dim~Length/Nautical_Mile.public|Nautical_Mile.public]] 
 

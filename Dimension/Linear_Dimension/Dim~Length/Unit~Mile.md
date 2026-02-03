@@ -88,7 +88,7 @@ Wikidata_SPARQL_query_equivalent: wd:Q253276 p:P2370/psn:P2370 [wikibase:quantit
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Dimension/Dim~Length/Unit~Mile|Unit~Mile]] 
+### #is_/same_as :: [[Unit~Mile|Unit~Mile]] 
 
 ### #is_/same_as :: [[/_public/Dimension/Dim~Length/Unit~Mile.public|Unit~Mile.public]] 
 

@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - has drug
   - has_drug
@@ -23,9 +23,13 @@ tags:
 title: has_drug
 type: Predi_Relation
 dv_has_:
-  domain: DrugClass, MedicalCondition, Patient, TherapeuticProcedure
+  domain:
+    - "[[../../../bio/Medicine/Drug/Drug_Class|Drug_Class]]"
+    - "[[../../../bio/Medicine/Medical_Condition|Medical_Condition]]"
+    - "[[../../Class/is_a_/Intangible/Audience/Medical_Audience/Patient|Patient]]"
+    - "[[../../../bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure|Therapeutic_Procedure]]"
   name: has_drug
-  range: Drug
+  range: "[[../../../bio/Medicine/Drug|Drug]]"
 dv_is_:
   same_as:
     - "[[/_Standards/schema-org/Relation/has/has_drug|has_drug]]"

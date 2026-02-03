@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - main-entity-of-page
   - main_entity_of_page
@@ -33,7 +33,9 @@ dv_has_:
   inverse: "[[../has/has_main_entity|has_main_entity]]"
   domain: "[Thing](../../../Class/Thing)"
   name: is_main_entity_of_page
-  range: CreativeWork, URL
+  range:
+    - "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
+    - "[[../../Class/is_a_/Data_Type/Text/Url|Url]]"
 dv_is_:
   same_as:
     - "[[is_main_entity_of_page]]"

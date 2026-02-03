@@ -24,9 +24,11 @@ title: has_diagnosis
 type: Predi_Relation
 dv_has_:
   diagnosis: MedicalCondition
-  domain: DDxElement, Patient
+  domain:
+    - "[[../../../bio/Medicine/Medical_Entity/Medical_Intangible/D_Dx_Element|D_Dx_Element]]"
+    - "[[../../Class/is_a_/Intangible/Audience/Medical_Audience/Patient|Patient]]"
   name: has_diagnosis
-  range: MedicalCondition
+  range: "[[../../../bio/Medicine/Medical_Condition|Medical_Condition]]"
 dv_has_diagnosis: MedicalCondition
 dv_is_:
   same_as:

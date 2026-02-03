@@ -74,7 +74,7 @@ Wikidata_SPARQL_query_equivalent: wd:Q531 p:P2370/psn:P2370 [wikibase:quantityAm
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Dimension/Dim~Length/Light-Year|Light-Year]] 
+### #is_/same_as :: [[Light-Year|Light-Year]] 
 
 ### #is_/same_as :: [[/_public/Dimension/Dim~Length/Light-Year.public|Light-Year.public]] 
 

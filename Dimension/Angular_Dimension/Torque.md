@@ -42,7 +42,7 @@ Wikidata_property: torque
 
 #is_/similar_to :: [[../../Science/Physics/Force|Force]] 
 
-This is the angular Equivalent to [[Force]]. 
+This is the angular Equivalent to [[../Linear_Dimension/Force]]. 
 
 The SI-Unit is [[Torque/Unit~NewtonMeter]]. 
 #is_/same_as :: [[../../WikiData/WD~Torque,48103|WD~Torque,48103]]
@@ -64,7 +64,7 @@ The SI-Unit is [[Torque/Unit~NewtonMeter]].
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Dimension/Linear_Dimension/Torque|Torque]] 
+### #is_/same_as :: [[Torque|Torque]] 
 
 ### #is_/same_as :: [[/_public/Dimension/Linear_Dimension/Torque.public|Torque.public]] 
 

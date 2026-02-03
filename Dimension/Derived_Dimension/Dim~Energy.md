@@ -1,15 +1,15 @@
 
 # [[Dim~Energy]] 
 
-Energy and [[../Mass]] are convertible, 
+Energy and [[../Mass|Mass]] are convertible, 
 but at low-energy, the Change in Mass is negligible. 
 
-It's SI Unit is the [[../Unit_of_Measure/SI-Unit/derived_Unit/Unit~Joule]].  
+It's SI Unit is the [[../Unit_of_Measure/SI-Unit/derived_Unit/Unit~Joule|Unit~Joule]].  
 
 Due to the [[Isotropy]] of Time, it is a conserved Unit. 
 
-In[[../../../Knowledge/Physics.internal/Quantum-Physics|Quantum-Physics]]] the [[Dim~Frequency]] of a Particle is 
-given by its [[Dim~Energy]]:  ___E = h * f_ __
+In [[../../../Knowledge/Physics.internal/Quantum-Physics|Quantum-Physics]] the [[Dim~Frequency]] of a Particle is 
+given by its [[Dim~Energy]]:  E = h * f
 
 
 ## Confidential Links & Embeds: 

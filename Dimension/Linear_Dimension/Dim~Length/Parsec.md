@@ -87,7 +87,7 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Dimension/Dim~Length/Parsec|Parsec]] 
+### #is_/same_as :: [[Parsec|Parsec]] 
 
 ### #is_/same_as :: [[/_public/Dimension/Dim~Length/Parsec.public|Parsec.public]] 
 

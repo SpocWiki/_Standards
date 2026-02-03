@@ -26,9 +26,11 @@ tags:
 title: has_license
 type: Predi_Relation
 dv_has_:
-  domain: CreativeWork
+  domain: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
   name: has_license
-  range: CreativeWork, URL
+  range:
+    - "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
+    - "[[../../Class/is_a_/Data_Type/Text/Url|Url]]"
   inverse: "[[is_license_for]]"
 dv_is_:
   same_as:

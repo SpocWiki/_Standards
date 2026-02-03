@@ -27,9 +27,9 @@ tags:
 title: has_guideline_subject
 type: Predi_Relation
 dv_has_:
-  domain: MedicalGuideline
+  domain: "[[../../../bio/Medicine/Medical_Guideline|Medical_Guideline]]"
   name: has_guideline_subject
-  range: MedicalEntity
+  range: "[[../../../bio/Medicine/Medical_Entity|Medical_Entity]]"
   inverse: "[[is_guideline_subject_of]]"
 dv_is_:
   same_as:

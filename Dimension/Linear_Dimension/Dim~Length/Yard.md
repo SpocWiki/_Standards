@@ -3,22 +3,22 @@ aliases:
   - Yard
 has_id_wikidata: Q482798
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-  - '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
-part_of: '[[_Standards/WikiData/WD~imperial_system_of_units,641227]]'
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
+part_of: "[[_Standards/WikiData/WD~imperial_system_of_units,641227]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~unit_of_length,1978718]]'
-  - '[[_Standards/WikiData/WD~human_based_unit_of_measurement,28608087]]'
+  - "[[_Standards/WikiData/WD~unit_of_length,1978718]]"
+  - "[[_Standards/WikiData/WD~human_based_unit_of_measurement,28608087]]"
 different_from:
-  - '[[_Standards/WikiData/WD~international_yard,61756607]]'
-  - '[[_Standards/WikiData/WD~US_survey_yards,61769985]]'
-  - '[[_Standards/WikiData/WD~British_Imperial_yard,100158590]]'
+  - "[[_Standards/WikiData/WD~international_yard,61756607]]"
+  - "[[_Standards/WikiData/WD~US_survey_yards,61769985]]"
+  - "[[_Standards/WikiData/WD~British_Imperial_yard,100158590]]"
 conversion_to_standard_unit:
   - 3
   - 36000000
@@ -38,7 +38,7 @@ conversion_to_standard_unit:
   - 9.6652e-17
   - 0.0001644737
   - 0.0004937365
-measured_physical_quantity: '[[_Standards/WikiData/WD~length,36253]]'
+measured_physical_quantity: "[[_Standards/WikiData/WD~length,36253]]"
 conversion_to_SI_unit: 0.9144
 OmegaWiki_Defined_Meaning: 339629
 unit_symbol:
@@ -70,7 +70,7 @@ Commons_category: Yard (unit of length)
 
 # [[Yard]]
 
-#is_/same_as :: [[../../WikiData/WD~Yard,482798|WD~Yard,482798]]
+#is_/same_as :: [[../../../WikiData/WD~Yard,482798|WD~Yard,482798]]
 
 
 ## #has_/text_of_/abstract 
@@ -84,7 +84,7 @@ Commons_category: Yard (unit of length)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Dimension/Dim~Length/Yard|Yard]] 
+### #is_/same_as :: [[Yard|Yard]] 
 
 ### #is_/same_as :: [[/_public/Dimension/Dim~Length/Yard.public|Yard.public]] 
 

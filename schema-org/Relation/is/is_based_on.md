@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - is-based-on
   - based_on
@@ -39,12 +39,18 @@ dv_is_:
     - "[[/_secret/schema-org/Relation/is/is_based_on.secret|is_based_on.secret]]"
 dv_is_based_on: CreativeWork, Product, URL
 dv_has_:
-  domain: CreativeWork
+  domain: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
   name: is_based_on
-  range: CreativeWork, Product, URL
-dv_has_domain: CreativeWork
+  range:
+    - "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
+    - "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]"
+    - "[[../../Class/is_a_/Data_Type/Text/Url|Url]]"
+dv_has_domain: "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
 dv_has_name: is_based_on
-dv_has_range: CreativeWork, Product, URL
+dv_has_range:
+  - "[[../../../Society/Communication/Media/Creative_Work|Creative_Work]]"
+  - "[[../../../Society/Agent/Community/Organization/Business/Product|Product]]"
+  - "[[../../Class/is_a_/Data_Type/Text/Url|Url]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/is/is_based_on|is_based_on]]"
   - "[[/_public/schema-org/Relation/is/is_based_on.public|is_based_on.public]]"

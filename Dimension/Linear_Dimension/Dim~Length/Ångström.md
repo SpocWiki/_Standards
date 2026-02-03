@@ -31,7 +31,7 @@ UMLS_CUI: C0560170
 
 # [[Ångström]] 
 
-#is_/same_as :: [[../../WikiData/WD~Ångström,81454|WD~Ångström,81454]] 
+#is_/same_as :: [[../../../WikiData/WD~Ångström,81454|WD~Ångström,81454]] 
 
 ## #has_/text_of_/abstract 
 
@@ -67,7 +67,7 @@ UMLS_CUI: C0560170
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Dimension/Dim~Length/Ångström|Ångström]] 
+### #is_/same_as :: [[Ångström|Ångström]] 
 
 ### #is_/same_as :: [[/_public/Dimension/Dim~Length/Ångström.public|Ångström.public]] 
 

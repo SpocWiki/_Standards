@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - by-artist
   - by_artist
@@ -38,12 +38,20 @@ dv_is_:
     - "[[/_secret/schema-org/Relation/is/is_by_artist.secret|is_by_artist.secret]]"
 dv_is_by_artist: MusicGroup, Person
 dv_has_:
-  domain: MusicAlbum, MusicRecording
+  domain:
+    - "[[../../../Society/Communication/Media/Creative_Work/Music_Playlist/Music_Album|Music_Album]]"
+    - "[[../../../Society/Communication/Media/Creative_Work/Music_Recording|Music_Recording]]"
   name: is_by_artist
-  range: MusicGroup, Person
-dv_has_domain: MusicAlbum, MusicRecording
+  range:
+    - "[[../../../Society/Agent/Community/Organization/Performing_Group/Music_Group|Music_Group]]"
+    - "[[../../../Society/Agent/Person|Person]]"
+dv_has_domain:
+  - "[[../../../Society/Communication/Media/Creative_Work/Music_Playlist/Music_Album|Music_Album]]"
+  - "[[../../../Society/Communication/Media/Creative_Work/Music_Recording|Music_Recording]]"
 dv_has_name: is_by_artist
-dv_has_range: MusicGroup, Person
+dv_has_range:
+  - "[[../../../Society/Agent/Community/Organization/Performing_Group/Music_Group|Music_Group]]"
+  - "[[../../../Society/Agent/Person|Person]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/is/is_by_artist|is_by_artist]]"
   - "[[/_public/schema-org/Relation/is/is_by_artist.public|is_by_artist.public]]"

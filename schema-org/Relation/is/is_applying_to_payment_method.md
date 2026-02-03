@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - applies-to-payment-method
   - is applying to payment method
@@ -35,12 +35,12 @@ dv_is_:
     - "[[/_secret/schema-org/Relation/is/is_applying_to_payment_method.secret|is_applying_to_payment_method.secret]]"
 dv_is_applying_to_payment_method: PaymentMethod
 dv_has_:
-  domain: PaymentChargeSpecification
+  domain: "[[../../Class/is_a_/Intangible/Structured_Value/Price_Specification/Payment_Charge_Specification|Payment_Charge_Specification]]"
   name: is_applying_to_payment_method
-  range: PaymentMethod
-dv_has_domain: PaymentChargeSpecification
+  range: "[[../../Enumeration/Payment_Method|Payment_Method]]"
+dv_has_domain: "[[../../Class/is_a_/Intangible/Structured_Value/Price_Specification/Payment_Charge_Specification|Payment_Charge_Specification]]"
 dv_has_name: is_applying_to_payment_method
-dv_has_range: PaymentMethod
+dv_has_range: "[[../../Enumeration/Payment_Method|Payment_Method]]"
 dv_is_same_as:
   - "[[/_Standards/schema-org/Relation/is/is_applying_to_payment_method|is_applying_to_payment_method]]"
   - "[[/_public/schema-org/Relation/is/is_applying_to_payment_method.public|is_applying_to_payment_method.public]]"
