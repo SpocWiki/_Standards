@@ -53,6 +53,8 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Relation/is/is_applicable_in_country.secret|is_applicable_in_country.secret]]"
 ---
 
+# [[is_applicable_in_country]] 
+
 is_part_of = `=this.dv_is_part_of` 
 
 Use it like this: 
@@ -64,7 +66,6 @@ A country where a particular merchant return policy applies to, for example the 
 Relation describes that: 
 
 has_domain = `=this.dv_has_domain` 
-
 has_name = `=this.dv_has_name` 
 has_range = `=this.dv_has_range` 
 

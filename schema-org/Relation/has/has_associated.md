@@ -3,11 +3,11 @@ aliases:
   - foaf:knows
   - schema:associated
 dv_is_:
-  greater_than: "[[has_related]]"
-dv_is_greater_than: "[[has_related]]"
+  more_than: "[[has_related]]"
+dv_is_more_than: "[[has_related]]"
 ---
 
-is_greater_than = `=this.dv_is_greater_than` 
+is_more_than = `=this.dv_is_more_than` 
 #has_/inverse : : [[has_associated]] 
 
 The Subject-entity **directly involves, acts on, or occurs in** the Object: 

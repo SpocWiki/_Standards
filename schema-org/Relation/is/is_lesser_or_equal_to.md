@@ -35,7 +35,7 @@ dv_has_:
   domain: QualitativeValue
   name: is_lesser_or_equal_to
   range: QualitativeValue
-  complement: "[[is_greater_than]]"
+  complement: "[[is_more_than]]"
 dv_is_:
   same_as:
     - "[[is_lesser_or_equal_to]]"
@@ -51,7 +51,7 @@ dv_has_inverse:
 dv_has_domain: QualitativeValue
 dv_has_name: is_lesser_or_equal_to
 dv_has_range: QualitativeValue
-dv_has_complement: "[[is_greater_than]]"
+dv_has_complement: "[[is_more_than]]"
 dv_is_same_as:
   - "[[is_lesser_or_equal_to]]"
   - "[[/_public/schema-org/Relation/is/is_lesser_or_equal_to.public|is_lesser_or_equal_to.public]]"

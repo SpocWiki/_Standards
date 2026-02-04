@@ -104,7 +104,7 @@ and it does not emphasize the categorical nature of the Statement.
 The mathematical Term is [converse Relation](https://en.wikipedia.org/wiki/Converse_relation)
 The notation is analogous with that for an [inverse function](https://en.wikipedia.org/wiki/Inverse_function "Inverse function"). 
 
-E.g. [[is/is_less_than]] and [[is/is_greater_than]] are Converses; 
+E.g. [[is/is_less_than]] and [[is/is_more_than]] are Converses; 
 
 Although many functions do not have an inverse, 
 every relation does have a unique converse Relation, 

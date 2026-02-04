@@ -26,7 +26,7 @@ title: is_less_than
 type: Predi_Relation
 dv_has_:
   complement: "[[is_greater_or_equal_to]]"
-  inverse: "[[is_greater_than]]"
+  inverse: "[[is_more_than]]"
   domain: "[[../../Enumeration/Qualitative_Value|Qualitative_Value]]"
   name: is_less_than
   range: "[[../../Enumeration/Qualitative_Value|Qualitative_Value]]"
@@ -40,7 +40,7 @@ dv_is_:
     - "[[/_personal/schema-org/Relation/is/is_less_than.personal|is_less_than.personal]]"
     - "[[/_secret/schema-org/Relation/is/is_less_than.secret|is_less_than.secret]]"
 dv_has_complement: "[[is_greater_or_equal_to]]"
-dv_has_inverse: "[[is_greater_than]]"
+dv_has_inverse: "[[is_more_than]]"
 dv_has_domain: "[[../../Enumeration/Qualitative_Value|Qualitative_Value]]"
 dv_has_name: is_less_than
 dv_has_range: "[[../../Enumeration/Qualitative_Value|Qualitative_Value]]"

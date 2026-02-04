@@ -9,7 +9,7 @@ has_id_wikidata: Q735766
 # [[Hubris]] 
 
 #is_/same_as :: [[WD~Hubris,735766]] 
-#is_/greater_than :: [[Pride]] 
+#is_/more_than :: [[Pride]] 
 #is_/similar_to :: [[../../../../_protect/bio/Psychology/Anti-Social-Disorder/Narcissism|Narcissism]] 
 
 ## #has_/text_of_/abstract 

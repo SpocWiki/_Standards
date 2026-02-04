@@ -41,7 +41,7 @@ dv_is_:
     - "[[/_personal/schema-org/Relation/is/is_equal_to.personal|is_equal_to.personal]]"
     - "[[/_secret/schema-org/Relation/is/is_equal_to.secret|is_equal_to.secret]]"
   less_than: "[[../is_same_as|is_same_as|]]"
-  greater_than: "[[../is_similar_to|is_similar_to]]"
+  more_than: "[[../is_similar_to|is_similar_to]]"
 dv_has_inverse: "[[is_equal_to]]"
 dv_has_complement: "[[is_not_equal]]"
 dv_is_similar_to: "[[../is_same_as|is_same_as]]"
@@ -57,7 +57,7 @@ dv_is_same_as:
   - "[[/_personal/schema-org/Relation/is/is_equal_to.personal|is_equal_to.personal]]"
   - "[[/_secret/schema-org/Relation/is/is_equal_to.secret|is_equal_to.secret]]"
 dv_is_less_than: "[[../is_same_as|is_same_as|]]"
-dv_is_greater_than: "[[../is_similar_to|is_similar_to]]"
+dv_is_more_than: "[[../is_similar_to|is_similar_to]]"
 ---
 
 # [[is_equal_to]] 
@@ -69,7 +69,7 @@ has_inverse = `=this.dv_has_inverse`
 has_complement = `=this.dv_has_complement` 
 is_similar_to = `=this.dv_is_similar_to` 
 is_less_than = `=this.dv_is_less_than` 
-is_greater_than = `=this.dv_is_greater_than` 
+is_more_than = `=this.dv_is_more_than` 
 
 Use it like this: 
 - #is_/equal_to : : `=this.dv_has_range`   

@@ -1,7 +1,7 @@
 
 # [[Wealth_Inequality]] 
 
-#is_/greater_than :: [[Income_Inequality]] 
+#is_/more_than :: [[Income_Inequality]] 
 #is_/same_as :: 
 
 Since [[../../Ideology/Economic_Ideology/Neoliberalism|Neoliberalism]] took off in the 1980s, inequality is rising higher than ever. 
