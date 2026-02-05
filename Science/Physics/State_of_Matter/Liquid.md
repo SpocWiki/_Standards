@@ -47,11 +47,16 @@ subclass_of: '[[_Standards/WikiData/WD~fluid,102205]]'
 > and is the only state with a definite volume but no fixed shape.
 >
 > The density of a liquid is usually close to that of a solid, and much higher than that of a gas. 
-> Therefore, liquid and solid are both termed condensed matter. On the other hand, as liquids and gases share the ability to flow, they are both called fluids.
+> Therefore, liquid and solid are both termed condensed matter. 
+> On the other hand, as liquids and gases share the ability to flow, they are both called fluids.
 >
-> A liquid is made up of tiny vibrating particles of matter, such as atoms, held together by intermolecular bonds. Like a gas, a liquid is able to flow and take the shape of a container. Unlike a gas, a liquid maintains a fairly constant density and does not disperse to fill every space of a container.
+> A liquid is made up of tiny vibrating particles of matter, such as atoms, held together by intermolecular bonds. 
+> Like a gas, a liquid is able to flow and take the shape of a container. 
+> Unlike a gas, a liquid maintains a fairly constant density and does not disperse to fill every space of a container.
 >
-> Although liquid water is abundant on Earth, this state of matter is actually the least common in the known universe, because liquids require a relatively narrow temperature/pressure range to exist. Most known matter in the universe is either gas (as interstellar clouds) or plasma (as stars).
+> Although liquid water is abundant on Earth, this state of matter is actually the least common in the known universe, 
+> because liquids require a relatively narrow temperature/pressure range to exist. 
+> Most known matter in the universe is either gas (as interstellar clouds) or plasma (as stars).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Liquid) 
 
