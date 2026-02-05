@@ -14,6 +14,12 @@ different_from: '[[_Standards/WikiData/WD~fluid,102205]]'
 greater_than:
   - '[[_Standards/WikiData/WD~gas,11432]]'
   - '[[_Standards/WikiData/WD~solid,11438]]'
+is_more_than:
+  - object: '[[Gas]]'
+    Dimension: '[[../../../Dimension/Unit_of_Measure/SI-Unit/derived_Unit/Density|Density]]'
+  - object: '[[Solid|Solid]]'
+    Dimension: '[[Free_Path|Free_Path]]'
+
 has_characteristic:
   - '[[_Standards/WikiData/WD~viscosity,128709]]'
   - '[[_Standards/WikiData/WD~fluidity,3074482]]'
