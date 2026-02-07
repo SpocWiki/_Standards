@@ -718,10 +718,10 @@ dv_has_:
   url_for_:
     code_repository: https://github.com/SpocWiki/America-USA
   image_for_:
-    coat_of_arms: "![[./USA/Coat_of_Arms_of_the_United_States_(obverse).svg|250]]![](./USA/Coat_of_Arms_of_the_United_States_\\(obverse\\).svg)"
-    flag: "![[./USA/Flag_of_the_United_States.svg|200]] ![](./USA/Flag_of_the_United_States.svg)"
+    coat_of_arms: "[[./USA/Coat_of_Arms_of_the_United_States_(obverse).svg|Coat_of_Arms_of_the_United_States_(obverse).svg|250]]"
+    flag: "[[./USA/Flag_of_the_United_States.svg|Flag_of_the_United_States.svg|200]]"
   sound_of_:
-    anthem: "![[../../../../_public/xLarge.public/National-Anthem/Anthem-United-states.mp3]]"
+    anthem: "[[../../../../_public/xLarge.public/National-Anthem/Anthem-United-states.mp3]]"
   telephone_:
     Prefix_:
       International: 11
@@ -759,9 +759,9 @@ dv_is_same_as:
   - "[[/_private/Earth/Continent/America~North/USA.private|USA.private]]"
   - "[[/_personal/Earth/Continent/America~North/USA.personal|USA.personal]]"
   - "[[/_secret/Earth/Continent/America~North/USA.secret|USA.secret]]"
-dv_has_image_for_coat_of_arms: "![[./USA/Coat_of_Arms_of_the_United_States_(obverse).svg|250]]"
-dv_has_sound_of_anthem: "![[../../../../_public/xLarge.public/National-Anthem/Anthem-United-states.mp3]]"
-dv_has_image_for_flag: "![[./USA/Flag_of_the_United_States.svg|200]]"
+dv_has_image_for_coat_of_arms: "[[./USA/Coat_of_Arms_of_the_United_States_(obverse).svg|Coat_of_Arms_of_the_United_States_(obverse).svg|250]]"
+dv_has_sound_of_anthem: "[[../../../../_public/xLarge.public/National-Anthem/Anthem-United-states.mp3|Anthem-United-states.mp3]]"
+dv_has_image_for_flag: "[[./USA/Flag_of_the_United_States.svg|Flag_of_the_United_States.svg|200]]"
 dv_has_telephone_prefix_international: 11
 dv_has_telephone_prefix_country: 1
 ---
@@ -814,13 +814,13 @@ ISO3 = `=this.dv_ISO3`
 
 ### #has_/image_for_/coat_of_arms 
 
-has_image_for_coat_of_arms = `=this.dv_has_image_for_coat_of_arms`
+has_image_for_coat_of_arms = `=embed(this.dv_has_image_for_coat_of_arms)`
 
-has_sound_of_anthem = `=this.dv_has_sound_of_anthem`
+has_sound_of_anthem = `=embed(this.dv_has_sound_of_anthem)`
 
 ### #has_/image_for_/flag
 
-has_image_for_flag = `=this.dv_has_image_for_flag`
+has_image_for_flag = `=embed(this.dv_has_image_for_flag)`
 
 ### #has_/map 
 

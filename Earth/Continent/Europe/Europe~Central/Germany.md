@@ -1,4 +1,21 @@
 ---
+aliases:
+  - Deutschland
+  - DEU
+  - Germany
+  - German
+  - Deutsch
+  - Alemania
+  - Allemagne
+  - ألمانيا
+  - 德国
+  - Германия
+has_id_wikidata: Q183
+age_of_majority: 18
+anthem: "[[../../../../WikiData/WD~national anthem of Germany]]"
+archives_at: "[[../../../../WikiData/WD~German Federal Archives]]"
+area: 357587.77
+
 dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 10.1207
 dv_has_place_latitude: 50.8699
@@ -10,10 +27,10 @@ dv_has_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Germany
   image_for_:
-    flag: "![[./Germany/Flag_of_Germany.svg|200]] ![](./Germany/Flag_of_Germany.svg)"
-    coat_of_arms: "![[./Germany/Coat_of_arms_of_Germany.svg|150]] ![](./Germany/Coat_of_arms_of_Germany.svg)"
+    flag: "[[./Germany/Flag_of_Germany.svg|[./Germany/Flag_of_Germany.svg|200]]"
+    coat_of_arms: "[[./Germany/Coat_of_arms_of_Germany.svg|[./Germany/Coat_of_arms_of_Germany.svg|150]]"
   sound_of_:
-    anthem: "![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Germany.mp3]]"
+    anthem: "[[../../../../../_public/xLarge.public/National-Anthem/Anthem-Germany.mp3]]"
 dv_is_:
   same_as:
     - "[[../../../../WikiData/WD~Germany,183|WD~Germany,183]]"
@@ -95,25 +112,11 @@ dv_is_same_as:
   - "[[/_personal/Earth/Continent/Europe/Europe~Central/Germany.personal|Germany.personal]]"
   - "[[/_secret/Earth/Continent/Europe/Europe~Central/Germany.secret|Germany.secret]]"
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Germany
-dv_has_image_for_flag: "![[./Germany/Flag_of_Germany.svg|200]] ![](./Germany/Flag_of_Germany.svg)"
-dv_has_image_for_coat_of_arms: "![[./Germany/Coat_of_arms_of_Germany.svg|150]] ![](./Germany/Coat_of_arms_of_Germany.svg)"
-dv_has_sound_of_anthem: "![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Germany.mp3]]"
+dv_has_image_for_flag: "[[./Germany/Flag_of_Germany.svg|Flag_of_Germany.svg|200]]"
+dv_has_image_for_coat_of_arms: "[[./Germany/Coat_of_arms_of_Germany.svg|Coat_of_arms_of_Germany.svg|150]]"
+dv_has_sound_of_anthem: "[[../../../../../_public/xLarge.public/National-Anthem/Anthem-Germany.mp3]]"
 dv_developed_developing_countries: Developed
 
-aliases:
-  - Deutschland
-  - DEU
-  - Germany
-  - Alemania
-  - Allemagne
-  - ألمانيا
-  - 德国
-  - Германия
-has_id_wikidata: Q183
-age_of_majority: 18
-anthem: "[[../../../../WikiData/WD~national anthem of Germany]]"
-archives_at: "[[../../../../WikiData/WD~German Federal Archives]]"
-area: 357587.77
 Baidu_Tieba_name: 德国
 basic_form_of_government:
   - "[[../../../../WikiData/WD~parliamentary republic]]"
@@ -791,7 +794,7 @@ has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 ### #has_/image_for_/flag 
 
-has_image_for_flag = `=this.dv_has_image_for_flag`
+has_image_for_flag = `=embed(this.dv_has_image_for_flag)`
 
 
 
@@ -919,9 +922,9 @@ with numbers as of 2023-06
 
 ### #has_/image_for_/coat_of_arms 
 
-has_image_for_coat_of_arms = `=this.dv_has_image_for_coat_of_arms`
+has_image_for_coat_of_arms = `=embed(this.dv_has_image_for_coat_of_arms)`
 
-has_sound_of_anthem = `=this.dv_has_sound_of_anthem`
+has_sound_of_anthem = `=embed(this.dv_has_sound_of_anthem)`
 ```audio-player
 [[Anthem-Germany.mp3]]```
 00:00:00 --- Einigkeit und Recht und Freiheit 

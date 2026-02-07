@@ -9,6 +9,7 @@ aliases:
   - the Federative Republic of Brazil
   - la República Federativa del Brasil
   - Brasil (el)
+  - Brazilian
 has_id_wikidata: Q155
 age_of_majority: 18
 aircraft_registration_prefix:

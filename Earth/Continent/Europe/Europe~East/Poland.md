@@ -27,10 +27,10 @@ dv_has_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Poland
   image_for_:
-    flag: "![[./Poland/Flag_of_Poland.svg|200]] ![](./Poland/Flag_of_Poland.svg)"
-    coat_of_arms: "![[./Poland/Coat_of_arms_of_Poland.svg|150]] ![](./Poland/Coat_of_arms_of_Poland.svg)"
+    flag: "[[./Poland/Flag_of_Poland.svg|Flag_of_Poland.svg|200]]"
+    coat_of_arms: "[[./Poland/Coat_of_arms_of_Poland.svg|Coat_of_arms_of_Poland.svg|150]]"
   sound_of_:
-    anthem: "![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Poland.mp3]]"
+    anthem: "[[../../../../../_public/xLarge.public/National-Anthem/Anthem-Poland.mp3|Anthem-Poland.mp3]]"
 dv_ISO4217-currency_alphabetic: PLN
 dv_ISO4217-currency_name: Zloty
 dv_ISO4217-currency_numeric: 985
@@ -90,9 +90,9 @@ dv_is_same_as:
   - "[[/_personal/Earth/Continent/Europe/Europe~East/Poland.personal|Poland.personal]]"
   - "[[/_secret/Earth/Continent/Europe/Europe~East/Poland.secret|Poland.secret]]"
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Poland
-dv_has_image_for_flag: "![[./Poland/Flag_of_Poland.svg|200]] ![](./Poland/Flag_of_Poland.svg)"
-dv_has_image_for_coat_of_arms: "![[./Poland/Coat_of_arms_of_Poland.svg|150]] ![](./Poland/Coat_of_arms_of_Poland.svg)"
-dv_has_sound_of_anthem: "![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Poland.mp3]]"
+dv_has_image_for_flag: "[[./Poland/Flag_of_Poland.svg|Flag_of_Poland.svg|200]]"
+dv_has_image_for_coat_of_arms: "[[./Poland/Coat_of_arms_of_Poland.svg|Coat_of_arms_of_Poland.svg|150]]"
+dv_has_sound_of_anthem: "[[../../../../../_public/xLarge.public/National-Anthem/Anthem-Poland.mp3|Anthem-Poland.mp3]]"
 dv_developed_developing_countries: Developed
 
 aliases:
@@ -691,7 +691,7 @@ Numbers are of 2022-06
 
 ### #has_/image_for_/flag 
 
-has_image_for_flag = `=this.dv_has_image_for_flag`
+has_image_for_flag = `=embed(this.dv_has_image_for_flag)`
 
 
 
@@ -794,9 +794,9 @@ Population in 1000s as of @2024
 
 ### #has_/image_for_/coat_of_arms 
 
-has_image_for_coat_of_arms = `=this.dv_has_image_for_coat_of_arms`
+has_image_for_coat_of_arms = `=embed(this.dv_has_image_for_coat_of_arms)`
 
-has_sound_of_anthem = `=this.dv_has_sound_of_anthem`
+has_sound_of_anthem = `=embed(this.dv_has_sound_of_anthem)`
 
 ## Metadata 
 

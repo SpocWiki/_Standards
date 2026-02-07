@@ -80,7 +80,8 @@ Use it like this:
 - #has_/funding : : Grant  
 - has_funding : : Grant  
 
-A [[Grant]] that directly or indirectly provide funding or sponsorship for this item. See also [[ownershipFundingInfo]].
+A [[Grant]] that directly or indirectly provide funding or sponsorship for this item. 
+See also [[has_publishing_principle/has_ownership_funding_info|has_ownership_funding_info]].
 
 Relation describes that: 
 

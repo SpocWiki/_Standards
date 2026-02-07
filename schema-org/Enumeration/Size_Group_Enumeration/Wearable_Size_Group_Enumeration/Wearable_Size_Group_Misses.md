@@ -52,18 +52,18 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Misses.secret|Wearable_Size_Group_Misses.secret]]"
 ---
 
-Class of all wearable_size_group_missess.
-
-Tag Instances like this: 
-#is_a_/wearable_size_group_misses
+# [[Wearable_Size_Group_Misses]] 
 
 is_part_of = `=this.dv_is_part_of` 
-
-Size group "Misses" (also known as "Missy") for wearables.
 
 has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
+
+Size group "Misses" (also known as "Missy") for wearables.
+
+Tag Instances like this: 
+#is_a_/wearable_size_/group_/misses
 
 ## Confidential Links & Embeds: 
 

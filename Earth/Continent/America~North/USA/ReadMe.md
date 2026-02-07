@@ -32,10 +32,10 @@ dv_has_:
   time_:
     created: 1776-07-04T00:00:00.000+00:53
   image_for_:
-    coat_of_arms: "![[./Coat_of_Arms_of_the_United_States_(obverse).svg|250]]![](./Coat_of_Arms_of_the_United_States_\\(obverse\\).svg)"
-    flag: "![[./Flag_of_the_United_States.svg|200]] ![](./Flag_of_the_United_States.svg)"
+    coat_of_arms: "[[./Coat_of_Arms_of_the_United_States_(obverse).svg|Coat_of_Arms_of_the_United_States_(obverse).svg|250]]"
+    flag: "[[./Flag_of_the_United_States.svg|Flag_of_the_United_States.svg|200]]"
   sound_of_:
-    anthem: "![[Anthem-United-states.mp3]]"
+    anthem: "[[Anthem-United-states.mp3|Anthem-United-states.mp3]]"
   telephone_:
     Prefix_:
       International: 11
@@ -64,9 +64,9 @@ dv_is_:
     - "[[/_secret/Earth/Continent/America~North/USA/ReadMe.secret|ReadMe.secret]]"
 dv_has_url_for_code_repository: https://github.com/SpocWiki/America-USA
 dv_has_time_created: 1776-07-04
-dv_has_image_for_coat_of_arms: "![[./Coat_of_Arms_of_the_United_States_(obverse).svg|250]]![](./Coat_of_Arms_of_the_United_States_\\(obverse\\).svg)"
-dv_has_sound_of_anthem: "![[Anthem-United-states.mp3]]"
-dv_has_image_for_flag: "![[./Flag_of_the_United_States.svg|200]] ![](./Flag_of_the_United_States.svg)"
+dv_has_image_for_coat_of_arms: "[[./Coat_of_Arms_of_the_United_States_(obverse).svg|Coat_of_Arms_of_the_United_States_(obverse).svg|250]]"
+dv_has_sound_of_anthem: "[[Anthem-United-states.mp3|Anthem-United-states.mp3]]"
+dv_has_image_for_flag: "[[./Flag_of_the_United_States.svg|Flag_of_the_United_States.svg|200]]"
 dv_has_telephone_prefix_international: 11
 dv_has_telephone_prefix_country: 1
 dv_is_same_as:
@@ -130,13 +130,13 @@ and the subsequent drafting and ratification of the U.S. Constitution in 1787.
 
 ### #has_/image_for_/coat_of_arms 
 
-has_image_for_coat_of_arms = `=this.dv_has_image_for_coat_of_arms`
+has_image_for_coat_of_arms = `=embed(this.dv_has_image_for_coat_of_arms)`
 
-has_sound_of_anthem = `=this.dv_has_sound_of_anthem`
+has_sound_of_anthem = `=embed(this.dv_has_sound_of_anthem)`
 
 ### #has_/image_for_/flag
 
-has_image_for_flag = `=this.dv_has_image_for_flag`
+has_image_for_flag = `=embed(this.dv_has_image_for_flag)`
 
 ### #has_/map
 

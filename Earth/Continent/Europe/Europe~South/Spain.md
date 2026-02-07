@@ -572,10 +572,10 @@ dv_has_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-France
   image_for_:
-    flag: "![[./Spain/Flag_of_Spain.svg|200]] ![](./Spain/Flag_of_Spain.svg)"
-    coat_of_arms: "![[./Spain/Escudo_de_España~mazonado.svg|150]] ![](./Spain/Escudo_de_España~mazonado.svg)"
+    flag: "[[./Spain/Flag_of_Spain.svg|Flag_of_Spain.svg|200]]"
+    coat_of_arms: "[[./Spain/Escudo_de_España~mazonado.svg|Escudo_de_España~mazonado.svg|150]]"
   sound_of_:
-    anthem: "![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Spain-complete.mp3]]"
+    anthem: "[[../../../../../_public/xLarge.public/National-Anthem/Anthem-Spain-complete.mp3|Anthem-Spain-complete.mp3]]"
 dv_ISO4217-currency_alphabetic: EUR
 dv_ISO4217-currency_name: Euro
 dv_ISO4217-currency_numeric: 978
@@ -637,9 +637,9 @@ dv_is_same_as:
   - "[[/_personal/Earth/Continent/Europe/Europe~South/Spain.personal|Spain.personal]]"
   - "[[/_secret/Earth/Continent/Europe/Europe~South/Spain.secret|Spain.secret]]"
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-France
-dv_has_image_for_flag: "![[./Spain/Flag_of_Spain.svg|200]] ![](./Spain/Flag_of_Spain.svg)"
-dv_has_image_for_coat_of_arms: "![[./Spain/Escudo_de_España~mazonado.svg|150]] ![](./Spain/Escudo_de_España~mazonado.svg)"
-dv_has_sound_of_anthem: "![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Spain-complete.mp3]]"
+dv_has_image_for_flag: "[[./Spain/Flag_of_Spain.svg|Flag_of_Spain.svg|200]]"
+dv_has_image_for_coat_of_arms: "[[./Spain/Escudo_de_España~mazonado.svg|Escudo_de_España~mazonado.svg|150]]"
+dv_has_sound_of_anthem: "[[../../../../../_public/xLarge.public/National-Anthem/Anthem-Spain-complete.mp3|Anthem-Spain-complete.mp3]]"
 dv_developed_developing_countries: Developed
 ---
 
@@ -697,7 +697,7 @@ Numbers are of 2022-06
 
 ### #has_/image_for_/flag 
 
-has_image_for_flag = `=this.dv_has_image_for_flag`
+has_image_for_flag = `=embed(this.dv_has_image_for_flag)`
 
 
 ## Major Cities 
@@ -816,9 +816,9 @@ Population @2024 in 1000s.
 
 ### #has_/image_for_/coat_of_arms 
 
-has_image_for_coat_of_arms = `=this.dv_has_image_for_coat_of_arms`
+has_image_for_coat_of_arms = `=embed(this.dv_has_image_for_coat_of_arms)`
 
-has_sound_of_anthem = `=this.dv_has_sound_of_anthem`
+has_sound_of_anthem = `=embed(this.dv_has_sound_of_anthem)`
 
 ### #has_/map  
 

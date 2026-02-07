@@ -1,4 +1,16 @@
 ---
+aliases:
+  - Japan
+  - Japón
+  - Japon
+  - اليابان
+  - 日本
+  - Япония
+  - el Japón
+  - Japón (el)
+  - Japanese 
+has_id_wikidata: Q17
+
 dv_ISO4217-currency_alphabetic: JPY
 dv_ISO4217-currency_name: Yen
 dv_ISO4217-currency_numeric: 392
@@ -91,16 +103,6 @@ dv_is_same_as:
   - "[[/_secret/Earth/Continent/Asia/Asia~East/Japan.secret|Japan.secret]]"
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Japan
 
-aliases:
-  - Japan
-  - Japón
-  - Japon
-  - اليابان
-  - 日本
-  - Япония
-  - el Japón
-  - Japón (el)
-has_id_wikidata: Q17
 contains_the_administrative_territorial_entity:
   - "[[_Standards/WikiData/WD~Aomori_Prefecture,71699]]"
   - "[[_Standards/WikiData/WD~Fukushima_Prefecture,71707]]"

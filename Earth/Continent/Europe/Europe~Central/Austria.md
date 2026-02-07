@@ -16,10 +16,10 @@ dv_has_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Austria
   image_for_:
-    flag: "![[./Austria/Flag_of_Austria.svg|200]] ![](./Austria/Flag_of_Austria.svg)"
-    coat_of_arms: "![[./Austria/Coat_of_arms_of_Austria.svg|150]] ![](./Austria/Coat_of_arms_of_Austria.svg)"
+    flag: "[[./Austria/Flag_of_Austria.svg|Flag_of_Austria.svg|200]]"
+    coat_of_arms: "[[./Austria/Coat_of_arms_of_Austria.svg|Coat_of_arms_of_Austria.svg|150]]"
   sound_of_:
-    anthem: "![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Austria.mp3]]"
+    anthem: "[[../../../../../_public/xLarge.public/National-Anthem/Anthem-Austria.mp3|Anthem-Austria.mp3]]"
 dv_has_name: Austria
 dv_has_name_en: Austria
 dv_has_name_es: Austria
@@ -94,9 +94,9 @@ dv_is_same_as:
   - "[[/_personal/Earth/Continent/Europe/Europe~Central/Austria.personal|Austria.personal]]"
   - "[[/_secret/Earth/Continent/Europe/Europe~Central/Austria.secret|Austria.secret]]"
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Austria
-dv_has_image_for_flag: "![[./Austria/Flag_of_Austria.svg|200]] ![](./Austria/Flag_of_Austria.svg)"
-dv_has_image_for_coat_of_arms: "![[./Austria/Coat_of_arms_of_Austria.svg|150]] ![](./Austria/Coat_of_arms_of_Austria.svg)"
-dv_has_sound_of_anthem: "![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Austria.mp3]]"
+dv_has_image_for_flag: "[[./Austria/Flag_of_Austria.svg|Flag_of_Austria.svg|200]]"
+dv_has_image_for_coat_of_arms: "[[./Austria/Coat_of_arms_of_Austria.svg|Coat_of_arms_of_Austria.svg|150]]"
+dv_has_sound_of_anthem: "[[../../../../../_public/xLarge.public/National-Anthem/Anthem-Austria.mp3|Anthem-Austria.mp3]]"
 dv_developed_developing_countries: Developed
 
 aliases:
@@ -530,22 +530,22 @@ has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 List of Constituent States
 with numbers as of 2023-06 
 
-| State                                             |   Pop / k | Area / km² |          GDP/G€ | GDPpP/k€ | HDI   | Notable Properties                                           |
-| ------------------------------------------------- | --------: | ---------: | --------------: | -------: | ----- | ------------------------------------------------------------ |
-| [[Austria/Austrias_States/Wien,State\|Vienna]]              |     1.867 |      0.415 | 110.992 |   56.6 | 0.948 | Capital city; cultural and political center                  |
-| [[Austria/Austrias_States/Niederösterreich\|Lower Austria]] |  1665.753 |     19.178 |  71.757 |   41.9 | 0.893 | Largest state by area; diverse economy                       |
-| [[Austria/Austrias_States/Oberösterreich\|Upper Austria]]   |     1.465 |     11.982 |  76.780 |   50.7 | 0.917 | Industrial hub; strong manufacturing sector                  |
-| [[Austria/Austrias_States/Steiermark\|Styria]]              |     1.237 |     16.401 |  56.152 |   44.6 | 0.923 | Known for green technology and innovation                    |
-| [[Austria/Austrias_States/Tirol\|Tyrol]]                    |       746 |     12.648 |  39.328 |   51.2 | 0.938 | Alpine region; tourism and winter sports                     |
-| [[Austria/Austrias_States/Kärnten\|Carinthia]]              |   561.077 |      9.536 |  24.755 |   43.6 | 0.913 | Lakes and mountains; tourism industry                        |
-| [[Austria/Austrias_States/Salzburg,State\|Salzburg]]        |       549 |      7.154 |  33.330 |   58.9 | 0.945 | Birthplace of Mozart; UNESCO World Heritage Site             |
-| [[Austria/Austrias_States/Vorarlberg\|Vorarlberg]]          |       388 |      2.601 |  23.588 |   58.3 | 0.917 | Westernmost state; strong textile and electronics industries |
-| [[Austria/Austrias_States/Burgenland\|Burgenland]]          |       291 |      3.965 |  10.454 |   34.9 | 0.890 | Wine production; renewable energy initiatives                |
+| State                                                       |  Pop / k | Area / km² |  GDP/G€ | GDPpP/k€ | HDI   | Notable Properties                                           |
+| ----------------------------------------------------------- | -------: | ---------: | ------: | -------: | ----- | ------------------------------------------------------------ |
+| [[Austria/Austrias_States/Wien,State\|Vienna]]              |    1.867 |      0.415 | 110.992 |     56.6 | 0.948 | Capital city; cultural and political center                  |
+| [[Austria/Austrias_States/Niederösterreich\|Lower Austria]] | 1665.753 |     19.178 |  71.757 |     41.9 | 0.893 | Largest state by area; diverse economy                       |
+| [[Austria/Austrias_States/Oberösterreich\|Upper Austria]]   |    1.465 |     11.982 |  76.780 |     50.7 | 0.917 | Industrial hub; strong manufacturing sector                  |
+| [[Austria/Austrias_States/Steiermark\|Styria]]              |    1.237 |     16.401 |  56.152 |     44.6 | 0.923 | Known for green technology and innovation                    |
+| [[Austria/Austrias_States/Tirol\|Tyrol]]                    |      746 |     12.648 |  39.328 |     51.2 | 0.938 | Alpine region; tourism and winter sports                     |
+| [[Austria/Austrias_States/Kärnten\|Carinthia]]              |  561.077 |      9.536 |  24.755 |     43.6 | 0.913 | Lakes and mountains; tourism industry                        |
+| [[Austria/Austrias_States/Salzburg,State\|Salzburg]]        |      549 |      7.154 |  33.330 |     58.9 | 0.945 | Birthplace of Mozart; UNESCO World Heritage Site             |
+| [[Austria/Austrias_States/Vorarlberg\|Vorarlberg]]          |      388 |      2.601 |  23.588 |     58.3 | 0.917 | Westernmost state; strong textile and electronics industries |
+| [[Austria/Austrias_States/Burgenland\|Burgenland]]          |      291 |      3.965 |  10.454 |     34.9 | 0.890 | Wine production; renewable energy initiatives                |
 
 
 ### #has_/image_for_/flag 
 
-has_image_for_flag = `=this.dv_has_image_for_flag`
+has_image_for_flag = `=embed(this.dv_has_image_for_flag)`
 
 
 ## #has_/place_/city   
@@ -648,11 +648,11 @@ defaultZoom: 6
 
 ### #has_/image_for_/coat_of_arms 
 
-has_image_for_coat_of_arms = `=this.dv_has_image_for_coat_of_arms`
+has_image_for_coat_of_arms = `=embed(this.dv_has_image_for_coat_of_arms)`
 
 ## [[Austria]] has Properties... 
 
-has_sound_of_anthem = `=this.dv_has_sound_of_anthem`
+has_sound_of_anthem = `=embed(this.dv_has_sound_of_anthem)`
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
 ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`

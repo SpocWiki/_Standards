@@ -3,6 +3,7 @@ aliases:
   - Mexico
   - México
   - Mexique
+  - Mexican
   - المكسيك
   - 墨西哥
   - Мексика

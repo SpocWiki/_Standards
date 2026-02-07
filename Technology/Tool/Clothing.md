@@ -6,6 +6,8 @@ aliases:
   - attire
   - vestige
   - Clothing
+  - Wearable
+  - Wearables
 has_id_wikidata: Q11460
 Colon_Classification:
   - L:577

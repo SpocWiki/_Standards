@@ -517,10 +517,10 @@ dv_has_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-United_Kingdom
   image_for_:
-    flag: "![[./UK/Flag_of_the_United_Kingdom.svg|200]] ![](./UK/Flag_of_the_United_Kingdom.svg)"
-    coat_of_arms: "![[./UK/Coat_of_Arms_of_the_United_Kingdom.svg|250]] ![](./UK/Coat_of_Arms_of_the_United_Kingdom.svg)"
+    flag: "[[./UK/Flag_of_the_United_Kingdom.svg|Flag_of_the_United_Kingdom.svg|200]]"
+    coat_of_arms: "[[./UK/Coat_of_Arms_of_the_United_Kingdom.svg|Coat_of_Arms_of_the_United_Kingdom.svg|250]]"
   sound_of_:
-    anthem: "![[../../../../../_public/xLarge.public/National-Anthem/Anthem-United-kingdom.mp3]]"
+    anthem: "[[../../../../../_public/xLarge.public/National-Anthem/Anthem-United-kingdom.mp3|Anthem-United-kingdom.mp3]]"
 dv_Area-Total: 241752
 dv_Area-Land: 241600
 dv_has_place_continent: "[[../../Europe]]"
@@ -539,9 +539,9 @@ dv_is_same_as:
   - "[[/_personal/Earth/Continent/Europe/Europe~North/UK.personal|UK.personal]]"
   - "[[/_secret/Earth/Continent/Europe/Europe~North/UK.secret|UK.secret]]"
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-United_Kingdom
-dv_has_image_for_flag: "![[./UK/Flag_of_the_United_Kingdom.svg|200]] ![](./UK/Flag_of_the_United_Kingdom.svg)"
-dv_has_image_for_coat_of_arms: "![[./UK/Coat_of_Arms_of_the_United_Kingdom.svg|250]] ![](./UK/Coat_of_Arms_of_the_United_Kingdom.svg)"
-dv_has_sound_of_anthem: "![[../../../../../_public/xLarge.public/National-Anthem/Anthem-United-kingdom.mp3]]"
+dv_has_image_for_flag: "[[./UK/Flag_of_the_United_Kingdom.svg|Flag_of_the_United_Kingdom.svg|200]]"
+dv_has_image_for_coat_of_arms: "[[./UK/Coat_of_Arms_of_the_United_Kingdom.svg|Coat_of_Arms_of_the_United_Kingdom.svg|250]]"
+dv_has_sound_of_anthem: "[[../../../../../_public/xLarge.public/National-Anthem/Anthem-United-kingdom.mp3|Anthem-United-kingdom.mp3]]"
 ---
 
 # [[UK]] 
@@ -629,7 +629,7 @@ Major Cities with Population in 1000s as of @2020
 
 ### #has_/image_for_/flag 
 
-has_image_for_flag = `=this.dv_has_image_for_flag`
+has_image_for_flag = `=embed(this.dv_has_image_for_flag)`
 
 ## #has_/text_of_/abstract  
 
@@ -709,11 +709,11 @@ has_image_for_flag = `=this.dv_has_image_for_flag`
 
 ### #has_/image_for_/coat_of_arms 
 
-has_image_for_coat_of_arms = `=this.dv_has_image_for_coat_of_arms`
+has_image_for_coat_of_arms = `=embed(this.dv_has_image_for_coat_of_arms)`
 
 
-has_sound_of_anthem = `=this.dv_has_sound_of_anthem`
-🔐β 💡asd💡IBqnYJ2+defFQmt6rrJXhfKTu9UhnRlevc8eoYuwpvFdiGmDVfq1O1MKYejtMT6AT/zJ5xjdZw== 🔐
+has_sound_of_anthem = `=embed(this.dv_has_sound_of_anthem)`
+
 ```audio-player
 [[Anthem-United-kingdom.mp3]]```
 00:00:11 --- God save our gracious King

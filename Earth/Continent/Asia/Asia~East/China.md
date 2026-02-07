@@ -1033,8 +1033,7 @@ Wolfram_Language_entity_code: Entity["Country", "China"]
 
 ## #has_/parts
 
-List of Constituent States with numbers as of 2021-06 
-Below is a detailed table of the 34 provincial-level divisions in China, which include 
+Table of the 34 provincial-level divisions in China; numbers as of 2021-06  
 - 23 provinces, 
 - 5 autonomous regions, 
 - 4 direct-controlled municipalities, and 

@@ -545,10 +545,10 @@ dv_has_:
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Canada
   image_for_:
-    flag: "![[./Canada/Flag_of_Canada.svg|200]] ![](./Canada/Flag_of_Canada.svg)"
-    coat_of_arms: "![[./Canada/Coat_of_arms_of_Canada.svg|250]]![](./Canada/Coat_of_arms_of_Canada.svg)"
+    flag: "[[./Canada/Flag_of_Canada.svg|Flag_of_Canada.svg|200]]"
+    coat_of_arms: "[[./Canada/Coat_of_arms_of_Canada.svg|Coat_of_arms_of_Canada.svg|250]]"
   sound_of_:
-    anthem: "![[../../../../_public/xLarge.public/National-Anthem/Anthem-Canada.mp3]]"
+    anthem: "[[../../../../_public/xLarge.public/National-Anthem/Anthem-Canada.mp3|Anthem-Canada.mp3]]"
   telephone_:
     Prefix_:
       International: 11
@@ -611,9 +611,9 @@ dv_is_same_as:
   - "[[/_personal/Earth/Continent/America~North/Canada.personal|Canada.personal]]"
   - "[[/_secret/Earth/Continent/America~North/Canada.secret|Canada.secret]]"
 dv_has_url_for_code_repository: https://github.com/SpocWiki/America-Canada
-dv_has_image_for_flag: "![[./Canada/Flag_of_Canada.svg|200]] ![](./Canada/Flag_of_Canada.svg)"
-dv_has_image_for_coat_of_arms: "![[./Canada/Coat_of_arms_of_Canada.svg|250]]![](./Canada/Coat_of_arms_of_Canada.svg)"
-dv_has_sound_of_anthem: "![[../../../../_public/xLarge.public/National-Anthem/Anthem-Canada.mp3]]"
+dv_has_image_for_flag: "[[./Canada/Flag_of_Canada.svg|Flag_of_Canada.svg|200]]"
+dv_has_image_for_coat_of_arms: "[[./Canada/Coat_of_arms_of_Canada.svg|Coat_of_arms_of_Canada.svg|250]]"
+dv_has_sound_of_anthem: "[[../../../../_public/xLarge.public/National-Anthem/Anthem-Canada.mp3|Anthem-Canada.mp3]]"
 dv_has_telephone_prefix_international: 11
 dv_has_telephone_prefix_country: 1
 dv_developed_developing_countries: Developed
@@ -648,7 +648,7 @@ has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 ### #has_/image_for_/flag
 
-has_image_for_flag = `=this.dv_has_image_for_flag`
+has_image_for_flag = `=embed(this.dv_has_image_for_flag)`
 
 
 ## #has_/parts 
@@ -755,11 +755,11 @@ Major Cities with Population in 1000s as of @2021
 
 ### #has_/image_for_/coat_of_arms 
 
-has_image_for_coat_of_arms = `=this.dv_has_image_for_coat_of_arms`
+has_image_for_coat_of_arms = `=embed(this.dv_has_image_for_coat_of_arms)`
 
 
 
-has_sound_of_anthem = `=this.dv_has_sound_of_anthem`
+has_sound_of_anthem = `=embed(this.dv_has_sound_of_anthem)`
 
 ### #has_/map
 

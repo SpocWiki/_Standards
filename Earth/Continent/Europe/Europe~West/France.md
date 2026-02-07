@@ -24,10 +24,10 @@ dv_has_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-France
   image_for_:
-    flag: "![[./France/Flag_of_France.svg|200]] ![](./France/Flag_of_France.svg)"
-    coat_of_arms: "![[./France/Arms_of_the_French_Republic.svg|150]] ![](./France/Arms_of_the_French_Republic.svg)"
+    flag: "[[./France/Flag_of_France.svg|Flag_of_France.svg|200]]"
+    coat_of_arms: "[[./France/Arms_of_the_French_Republic.svg|Arms_of_the_French_Republic.svg|150]]"
   sound_of_:
-    anthem: "![[../../../../../_public/xLarge.public/National-Anthem/Anthem-France.mp3]]"
+    anthem: "[[../../../../../_public/xLarge.public/National-Anthem/Anthem-France.mp3|Anthem-France.mp3]]"
 dv_ISO4217-currency_alphabetic: EUR
 dv_ISO4217-currency_name: Euro
 dv_ISO4217-currency_numeric: 978
@@ -90,9 +90,9 @@ dv_is_same_as:
   - "[[/_personal/Earth/Continent/Europe/Europe~West/France.personal|France.personal]]"
   - "[[/_secret/Earth/Continent/Europe/Europe~West/France.secret|France.secret]]"
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-France
-dv_has_image_for_flag: "![[./France/Flag_of_France.svg|200]] ![](./France/Flag_of_France.svg)"
-dv_has_image_for_coat_of_arms: "![[./France/Arms_of_the_French_Republic.svg|150]] ![](./France/Arms_of_the_French_Republic.svg)"
-dv_has_sound_of_anthem: "![[../../../../../_public/xLarge.public/National-Anthem/Anthem-France.mp3]]"
+dv_has_image_for_flag: "[[./France/Flag_of_France.svg|Flag_of_France.svg|200]]"
+dv_has_image_for_coat_of_arms: "[[./France/Arms_of_the_French_Republic.svg|Arms_of_the_French_Republic.svg|150]]"
+dv_has_sound_of_anthem: "[[../../../../../_public/xLarge.public/National-Anthem/Anthem-France.mp3|Anthem-France.mp3]]"
 dv_developed_developing_countries: Developed
 
 aliases:
@@ -753,7 +753,7 @@ Numbers are of 2022-06
 
 ### #has_/image_for_/flag 
 
-has_image_for_flag = `=this.dv_has_image_for_flag`
+has_image_for_flag = `=embed(this.dv_has_image_for_flag)`
 
 
 ## #has_/place_/city   
@@ -880,10 +880,10 @@ Population in 1000s as of @2019
 
 ### #has_/image_for_/coat_of_arms 
 
-has_image_for_coat_of_arms = `=this.dv_has_image_for_coat_of_arms`
+has_image_for_coat_of_arms = `=embed(this.dv_has_image_for_coat_of_arms)`
 
 
-has_sound_of_anthem = `=this.dv_has_sound_of_anthem`
+has_sound_of_anthem = `=embed(this.dv_has_sound_of_anthem)`
 ## [[France]] has Properties... 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`

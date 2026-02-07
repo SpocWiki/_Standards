@@ -15,10 +15,10 @@ dv_has_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Switzerland
   image_for_:
-    flag: "![[./Switzerland/Flag_of_Switzerland.svg|200]] ![](./Switzerland/Flag_of_Switzerland.svg)"
-    coat_of_arms: "![[./Switzerland/Coat_of_arms_of_Switzerland.svg|150]] ![](./Switzerland/Coat_of_arms_of_Switzerland.svg)"
+    flag: "[[./Switzerland/Flag_of_Switzerland.svg|Flag_of_Switzerland.svg|200]]"
+    coat_of_arms: "[[./Switzerland/Coat_of_arms_of_Switzerland.svg|Coat_of_arms_of_Switzerland.svg|150]]"
   sound_of_:
-    anthem: "![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Switzerland.mp3]]"
+    anthem: "[[../../../../../_public/xLarge.public/National-Anthem/Anthem-Switzerland.mp3|Anthem-Switzerland.mp3]]"
 dv_is_:
   same_as:
     - "[[../../../../WikiData/WD~Switzerland,39|WD~Switzerland,39]]"
@@ -92,9 +92,9 @@ dv_is_same_as:
   - "[[/_personal/Earth/Continent/Europe/Europe~Central/Switzerland.personal|Switzerland.personal]]"
   - "[[/_secret/Earth/Continent/Europe/Europe~Central/Switzerland.secret|Switzerland.secret]]"
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Switzerland
-dv_has_image_for_flag: "![[./Switzerland/Flag_of_Switzerland.svg|200]] ![](./Switzerland/Flag_of_Switzerland.svg)"
-dv_has_image_for_coat_of_arms: "![[./Switzerland/Coat_of_arms_of_Switzerland.svg|150]] ![](./Switzerland/Coat_of_arms_of_Switzerland.svg)"
-dv_has_sound_of_anthem: "![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Switzerland.mp3]]"
+dv_has_image_for_flag: "[[./Switzerland/Flag_of_Switzerland.svg|200]]"
+dv_has_image_for_coat_of_arms: "[[./Switzerland/Coat_of_arms_of_Switzerland.svg|Coat_of_arms_of_Switzerland.svg|150]]"
+dv_has_sound_of_anthem: "[[../../../../../_public/xLarge.public/National-Anthem/Anthem-Switzerland.mp3|Anthem-Switzerland.mp3]]"
 dv_developed_developing_countries: Developed
 
 aliases:
@@ -633,7 +633,7 @@ Numbers are of 2022-06
 
 ### #has_/image_for_/flag 
 
-has_image_for_flag = `=this.dv_has_image_for_flag`
+has_image_for_flag = `=embed(this.dv_has_image_for_flag)`
 
 
 ## #has_/place_/city   
@@ -746,10 +746,10 @@ Only 143,372 are in the hands of soldiers. However, ammunition is no longer issu
 
 ### #has_/image_for_/coat_of_arms 
 
-has_image_for_coat_of_arms = `=this.dv_has_image_for_coat_of_arms`
+has_image_for_coat_of_arms = `=embed(this.dv_has_image_for_coat_of_arms)`
 
 
-has_sound_of_anthem = `=this.dv_has_sound_of_anthem`
+has_sound_of_anthem = `=embed(this.dv_has_sound_of_anthem)`
 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`

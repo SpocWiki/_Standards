@@ -10,7 +10,7 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-enumerationtype: WearableSizeSystemEnumeration
+enumerationtype: "[[../Wearable_Size_System_Enumeration|Wearable_Size_System_Enumeration]]"
 expiryDate: ""
 isDeleted: false
 isReadOnly: false
@@ -28,8 +28,8 @@ title: is_a_wearable_size_system_uk Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../WearableSizeSystemEnumeration]]"
-  enum_of: "[[../WearableSizeSystemEnumeration]]"
+  parent_class: "[[../Wearable_Size_System_Enumeration|Wearable_Size_System_Enumeration]]"
+  enum_of: "[[../Wearable_Size_System_Enumeration|Wearable_Size_System_Enumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Uk|Wearable_Size_System_Uk]]"
     - "[[/_public/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Uk.public|Wearable_Size_System_Uk.public]]"
@@ -40,8 +40,8 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Uk.secret|Wearable_Size_System_Uk.secret]]"
     - "[[Wearable_Size_System_Uk]]"
 dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../WearableSizeSystemEnumeration]]"
-dv_is_enum_of: "[[../WearableSizeSystemEnumeration]]"
+dv_has_parent_class: "[[../Wearable_Size_System_Enumeration|Wearable_Size_System_Enumeration]]"
+dv_is_enum_of: "[[../Wearable_Size_System_Enumeration|Wearable_Size_System_Enumeration]]"
 dv_is_same_as:
   - "[[Wearable_Size_System_Uk]]"
   - "[[/_public/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Uk.public|Wearable_Size_System_Uk.public]]"
@@ -52,18 +52,19 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Enumeration/Size_System_Enumeration/Wearable_Size_System_Enumeration/Wearable_Size_System_Uk.secret|Wearable_Size_System_Uk.secret]]"
 ---
 
-Class of all wearable_size_system_uks.
-
-Tag Instances like this: 
-#is_a_/wearable_size_system_uk
+# [[Wearable_Size_System_Uk]] 
 
 is_part_of = `=this.dv_is_part_of` 
-
-United Kingdom size system for wearables.
 
 has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
+
+[[../../../../Earth/Continent/Europe/Europe~North/UK|United Kingdom]] size system for [[../../../../Technology/Tool/Clothing|wearables]].
+
+Tag Instances like this: 
+#is_a_/wearable_size_system_uk
+
 
 ## Confidential Links & Embeds: 
 
