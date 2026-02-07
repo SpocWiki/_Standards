@@ -3,13 +3,13 @@ aliases:
   - Dyskalkulie
 has_id_wikidata: Q742672
 subclass_of:
-  - "[[_Standards/WikiData/WD~mathematical anxiety,845527]]"
-  - "[[_Standards/WikiData/WD~learning disability,860740]]"
+  - "[[_Standards/WikiData/WD~mathematical_anxiety,845527]]"
+  - "[[_Standards/WikiData/WD~learning_disability,860740]]"
   - "[[_Standards/WikiData/WD~disease,12136]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Medicine,4099686]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~Mathematical disorder,79052868]]"
-  - "[[_Standards/WikiData/WD~class of disease,112193867]]"
+  - "[[_Standards/WikiData/WD~Mathematical_disorder,79052868]]"
+  - "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
 health_specialty:
   - "[[_Standards/WikiData/WD~neuropsychology,3872]]"
   - "[[_Standards/WikiData/WD~psychiatry,7867]]"

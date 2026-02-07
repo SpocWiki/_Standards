@@ -7,7 +7,7 @@ has_id_wikidata: Q4906383
 
 # [[Big_Soda]] 
 
-#is_/same_as :: [[WD~Big Soda,4906383]]
+#is_/same_as :: [[WD~Big_Soda,4906383]]
 
 ## #has_/text_of_/abstract 
 

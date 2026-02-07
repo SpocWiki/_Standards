@@ -12,7 +12,7 @@ part_of: '[[_Standards/WikiData/WD~international_law,4394526]]'
 
 # [[Customary_international_Law]] 
 
-#is_/same_as :: [[WD~Customary international law,1194894]] 
+#is_/same_as :: [[WD~Customary_international_law,1194894]] 
 
 ## #has_/text_of_/abstract 
 

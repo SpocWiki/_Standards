@@ -3,12 +3,12 @@ aliases:
   - alkyl halide
 has_id_wikidata: Q387914
 subclass_of:
-  - "[[_Standards/WikiData/WD~organic compound,174211]]"
-  - "[[_Standards/WikiData/WD~organo-main group compound,4531153]]"
-  - "[[_Standards/WikiData/WD~halogen compound,26492894]]"
+  - "[[_Standards/WikiData/WD~organic_compound,174211]]"
+  - "[[_Standards/WikiData/WD~organo_main_group_compound,4531153]]"
+  - "[[_Standards/WikiData/WD~halogen_compound,26492894]]"
 topic_s_main_category: "[[_Standards/WikiData/WD~Category_Organohalides,9013830]]"
-instance_of: "[[_Standards/WikiData/WD~structural class of chemical entities,47154513]]"
-SMARTS_notation: "[6][F,Cl,Br,I]"
+instance_of: "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"
+SMARTS_notation: "[#6][F,Cl,Br,I]"
 Krugosvet_article_archived_: nauka_i_tehnika/himiya/ORGANICHESKIE_GALOGENIDI.html
 Commons_category: Organohalides
 dv_is_:

@@ -14,7 +14,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Zuckerfabrik01.jpg
 
 # [[Big Sugar]] 
 
-#is_/same_as :: [[WD~Sugar industry,227870]] 
+#is_/same_as :: [[WD~Sugar_industry,227870]] 
 
 ## #has_/text_of_/abstract 
 

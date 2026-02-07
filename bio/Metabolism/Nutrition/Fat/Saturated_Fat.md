@@ -13,7 +13,7 @@ has_part_s_:
 
 # [[Saturated_Fat]] 
 
-#is_/same_as :: [[WD~saturated fat,970537]]
+#is_/same_as :: [[WD~saturated_fat,970537]]
 
 ## #has_/text_of_/abstract 
 

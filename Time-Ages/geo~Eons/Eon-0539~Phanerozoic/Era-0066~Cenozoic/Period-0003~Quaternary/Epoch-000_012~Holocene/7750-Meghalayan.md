@@ -14,7 +14,7 @@ instance_of:
 named_after: "[[_Standards/WikiData/WD~Meghalaya,1195]]"
 sRGB_color_hex_triplet: FDEDEC
 start_time: -2250-06
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP for the base of the Meghalayan,133676723]]"
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Meghalayan,133676723]]"
 dv_has_:
   name_:
     abbreviated: q7

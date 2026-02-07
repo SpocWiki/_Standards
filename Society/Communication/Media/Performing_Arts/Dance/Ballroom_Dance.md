@@ -13,7 +13,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Ballroom.svg
 
 # [[Ballroom_Dance]] 
 
-#is_/same_as :: [[WD~Ballroom Dance,1085001]]
+#is_/same_as :: [[WD~Ballroom_Dance,1085001]]
 
 ## #has_/text_of_/abstract 
 

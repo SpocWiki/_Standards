@@ -3,47 +3,47 @@ aliases:
   - Harrison Ford
   - Harrison_Ford
 has_id_wikidata: Q81328
-nominated_for: "[[_Standards/WikiData/WD~Academy Award for Best Actor,103916]]"
+nominated_for: "[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]"
 occupation:
   - "[[_Standards/WikiData/WD~carpenter,154549]]"
-  - "[[_Standards/WikiData/WD~aircraft pilot,2095549]]"
-  - "[[_Standards/WikiData/WD~voice actor,2405480]]"
-  - "[[_Standards/WikiData/WD~film producer,3282637]]"
+  - "[[_Standards/WikiData/WD~aircraft_pilot,2095549]]"
+  - "[[_Standards/WikiData/WD~voice_actor,2405480]]"
+  - "[[_Standards/WikiData/WD~film_producer,3282637]]"
   - "[[_Standards/WikiData/WD~environmentalist,3578589]]"
   - "[[_Standards/WikiData/WD~actor,33999]]"
 award_received:
-  - "[[_Standards/WikiData/WD~AFI Life Achievement Award,292044]]"
-  - "[[_Standards/WikiData/WD~Honorary César,727282]]"
-  - "[[_Standards/WikiData/WD~Disney Legends,1150306]]"
-  - "[[_Standards/WikiData/WD~California Hall of Fame,5020532]]"
-  - "[[_Standards/WikiData/WD~Wright Brothers Memorial Trophy,8038186]]"
-  - "[[_Standards/WikiData/WD~star on Hollywood Walk of Fame,17985761]]"
-different_from: "[[_Standards/WikiData/WD~Harrison Ford,2305010]]"
-sibling: "[[_Standards/WikiData/WD~Terence Ford,2667427]]"
+  - "[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]"
+  - "[[_Standards/WikiData/WD~Honorary_César,727282]]"
+  - "[[_Standards/WikiData/WD~Disney_Legends,1150306]]"
+  - "[[_Standards/WikiData/WD~California_Hall_of_Fame,5020532]]"
+  - "[[_Standards/WikiData/WD~Wright_Brothers_Memorial_Trophy,8038186]]"
+  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
+different_from: "[[_Standards/WikiData/WD~Harrison_Ford,2305010]]"
+sibling: "[[_Standards/WikiData/WD~Terence_Ford,2667427]]"
 movement: "[[_Standards/WikiData/WD~environmentalism,2855609]]"
-filmography: "[[_Standards/WikiData/WD~Harrison Ford filmography,6351442]]"
+filmography: "[[_Standards/WikiData/WD~Harrison_Ford_filmography,6351442]]"
 sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
 educated_at:
-  - "[[_Standards/WikiData/WD~Maine East High School,6736358]]"
-  - "[[_Standards/WikiData/WD~Ripon College,7335662]]"
+  - "[[_Standards/WikiData/WD~Maine_East_High_School,6736358]]"
+  - "[[_Standards/WikiData/WD~Ripon_College,7335662]]"
 family_name: "[[_Standards/WikiData/WD~Ford,11247279]]"
 given_name: "[[_Standards/WikiData/WD~Harrison,19826485]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Harrison Ford,47469699]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Harrison_Ford,47469699]]"
+described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 child:
-  - "[[_Standards/WikiData/WD~Ben Ford,96755116]]"
-  - "[[_Standards/WikiData/WD~Willard Ford,123915258]]"
-father: "[[_Standards/WikiData/WD~Henry Ford,107297595]]"
-mother: "[[_Standards/WikiData/WD~Dorothy Ford,107297592]]"
+  - "[[_Standards/WikiData/WD~Ben_Ford,96755116]]"
+  - "[[_Standards/WikiData/WD~Willard_Ford,123915258]]"
+father: "[[_Standards/WikiData/WD~Henry_Ford,107297595]]"
+mother: "[[_Standards/WikiData/WD~Dorothy_Ford,107297592]]"
 place_of_birth: "[[_Standards/WikiData/WD~Chicago,1297]]"
 writing_language: "[[_Standards/WikiData/WD~English,1860]]"
 languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
 native_language: "[[_Standards/WikiData/WD~English,1860]]"
 religion_or_worldview: "[[_Standards/WikiData/WD~Judaism,9268]]"
-spouse: "[[_Standards/WikiData/WD~Calista Flockhart,26424]]"
-member_of_political_party: "[[_Standards/WikiData/WD~Democratic Party,29552]]"
+spouse: "[[_Standards/WikiData/WD~Calista_Flockhart,26424]]"
+member_of_political_party: "[[_Standards/WikiData/WD~Democratic_Party,29552]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United States,30]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
 number_of_children: 5
 height: 185
 Commons_category: Harrison Ford
@@ -59,7 +59,7 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/FORD_HARRISON.ht
 
 # [[Ford,Harrison]] 
 
-#is_/same_as :: [[WD~Harrison Ford,81328]] 
+#is_/same_as :: [[WD~Harrison_Ford,81328]] 
 
 ## #has_/text_of_/abstract 
 

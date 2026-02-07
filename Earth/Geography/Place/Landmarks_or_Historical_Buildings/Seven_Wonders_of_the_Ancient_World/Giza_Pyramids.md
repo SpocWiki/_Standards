@@ -26,31 +26,31 @@ aliases:
   - Giza Pyramids
 has_id_wikidata: Q12508
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Pyramid of Khafre,208358]]"
-  - "[[_Standards/WikiData/WD~Pyramid of Menkaure,238623]]"
-  - "[[_Standards/WikiData/WD~Great Pyramid of Giza,37200]]"
+  - "[[_Standards/WikiData/WD~Pyramid_of_Khafre,208358]]"
+  - "[[_Standards/WikiData/WD~Pyramid_of_Menkaure,238623]]"
+  - "[[_Standards/WikiData/WD~Great_Pyramid_of_Giza,37200]]"
 instance_of:
   - "[[_Standards/WikiData/WD~group,16887380]]"
-  - "[[_Standards/WikiData/WD~Three Greats,28415786]]"
-  - "[[_Standards/WikiData/WD~Ancient Egyptian necropolis,125866682]]"
+  - "[[_Standards/WikiData/WD~Three_Greats,28415786]]"
+  - "[[_Standards/WikiData/WD~Ancient_Egyptian_necropolis,125866682]]"
 part_of: "[[_Standards/WikiData/WD~Memphis,5715]]"
 culture: "[[_Standards/WikiData/WD~Ancient_Egypt,11768]]"
 country_of_origin:
-  - "[[_Standards/WikiData/WD~Ancient Egypt,11768]]"
+  - "[[_Standards/WikiData/WD~Ancient_Egypt,11768]]"
   - "[[_Standards/WikiData/WD~Egypt,79]]"
 said_to_be_the_same_as: "[[_Standards/WikiData/WD~Giza_pyramid_complex,12508]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Giza Governorate,30832]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Giza_Governorate,30832]]"
 country: "[[_Standards/WikiData/WD~Egypt,79]]"
 area: 16359
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pyramids%20of%20the%20Giza%20Necropolis.jpg
 Commons_category: Giza pyramid complex
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Giza%20banner.jpg
 coordinate_location: Point(31.132778 29.976111)
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~Egyptian pyramids,175582]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Giza Plateau,3613336]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Giza pyramid complex,10124420]]"
-heritage_designation: "[[_Standards/WikiData/WD~part of UNESCO World Heritage Site,43113623]]"
-described_by_source: "[[_Standards/WikiData/WD~Meyer’s Universum, Vierter Band,129249812]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~Egyptian_pyramids,175582]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Giza_Plateau,3613336]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Giza_pyramid_complex,10124420]]"
+heritage_designation: "[[_Standards/WikiData/WD~part_of_UNESCO_World_Heritage_Site,43113623]]"
+described_by_source: "[[_Standards/WikiData/WD~Meyer’s_Universum,_Vierter_Band,129249812]]"
 elevation_above_sea_level: 27
 view: http://commons.wikimedia.org/wiki/Special:FilePath/Giza-pyramids.JPG
 Commons_gallery: Giza pyramid complex

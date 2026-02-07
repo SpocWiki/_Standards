@@ -5,7 +5,7 @@ has_id_wikidata: Q7520530
 
 # [[Simon-Glatzel_Equation]] 
 
-#is_/same_as :: [[WD~Simon-Glatzel Equation,7520530]] 
+#is_/same_as :: [[WD~Simon-Glatzel_Equation,7520530]] 
 
 ## #has_/text_of_/abstract 
 

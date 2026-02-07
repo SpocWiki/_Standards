@@ -46,7 +46,7 @@ Dewey_Decimal_Classification: "571.973"
 
 # [[Autoimmune_Disease]] 
 
-#is_/same_as :: [[WD~Autoimmune disease,8084905]]
+#is_/same_as :: [[WD~Autoimmune_disease,8084905]]
 
 ## #has_/text_of_/abstract 
 

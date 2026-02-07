@@ -4,37 +4,37 @@ aliases:
   - Nancy_Wilson
 has_id_wikidata: Q263772
 genre:
-  - "[[_Standards/WikiData/WD~hard rock,83270]]"
-  - "[[_Standards/WikiData/WD~folk rock,186472]]"
-  - "[[_Standards/WikiData/WD~album-oriented rock,428656]]"
-  - "[[_Standards/WikiData/WD~rock music,11399]]"
+  - "[[_Standards/WikiData/WD~hard_rock,83270]]"
+  - "[[_Standards/WikiData/WD~folk_rock,186472]]"
+  - "[[_Standards/WikiData/WD~album-oriented_rock,428656]]"
+  - "[[_Standards/WikiData/WD~rock_music,11399]]"
 occupation:
   - "[[_Standards/WikiData/WD~singer,177220]]"
-  - "[[_Standards/WikiData/WD~record producer,183945]]"
+  - "[[_Standards/WikiData/WD~record_producer,183945]]"
   - "[[_Standards/WikiData/WD~singer-songwriter,488205]]"
   - "[[_Standards/WikiData/WD~guitarist,855091]]"
   - "[[_Standards/WikiData/WD~composer,36834]]"
 voice_type: "[[_Standards/WikiData/WD~mezzo-soprano,186506]]"
-sibling: "[[_Standards/WikiData/WD~Ann Wilson,258053]]"
-spouse: "[[_Standards/WikiData/WD~Cameron Crowe,318287]]"
+sibling: "[[_Standards/WikiData/WD~Ann_Wilson,258053]]"
+spouse: "[[_Standards/WikiData/WD~Cameron_Crowe,318287]]"
 member_of: "[[_Standards/WikiData/WD~Heart,941662]]"
 family_name: "[[_Standards/WikiData/WD~Wilson,1645480]]"
 educated_at:
-  - "[[_Standards/WikiData/WD~Portland State University,1771717]]"
-  - "[[_Standards/WikiData/WD~Pacific University,5929270]]"
-  - "[[_Standards/WikiData/WD~Interlake High School,14713703]]"
+  - "[[_Standards/WikiData/WD~Portland_State_University,1771717]]"
+  - "[[_Standards/WikiData/WD~Pacific_University,5929270]]"
+  - "[[_Standards/WikiData/WD~Interlake_High_School,14713703]]"
 given_name: "[[_Standards/WikiData/WD~Nancy,2102316]]"
 sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
 instrument:
   - "[[_Standards/WikiData/WD~voice,17172850]]"
   - "[[_Standards/WikiData/WD~guitar,6607]]"
-award_received: "[[_Standards/WikiData/WD~star on Hollywood Walk of Fame,17985761]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky knih,67311526]]"
-father: "[[_Standards/WikiData/WD~John Bushrod Wilson,123716378]]"
+award_received: "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
+described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+father: "[[_Standards/WikiData/WD~John_Bushrod_Wilson,123716378]]"
 languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
 instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United States,30]]"
-place_of_birth: "[[_Standards/WikiData/WD~San Francisco,62]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+place_of_birth: "[[_Standards/WikiData/WD~San_Francisco,62]]"
 social_media_followers: 74895
 work_period_start_: 1974-01-01T00:00:00Z
 name_in_native_language: Nancy Wilson

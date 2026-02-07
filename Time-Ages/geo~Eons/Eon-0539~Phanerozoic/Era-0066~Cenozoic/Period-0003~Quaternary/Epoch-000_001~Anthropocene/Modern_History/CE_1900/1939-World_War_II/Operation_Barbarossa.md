@@ -42,7 +42,7 @@ dv_has_:
     stopped: 1941-12-01T00:00:00.000+02:00
 dv_is_:
   same_as:
-    - "[[WD~Operation Barbarossa,83055]]"
+    - "[[WD~Operation_Barbarossa,83055]]"
     - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa|Operation_Barbarossa]]"
     - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa.public|Operation_Barbarossa.public]]"
     - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa.internal|Operation_Barbarossa.internal]]"
@@ -53,7 +53,7 @@ dv_is_:
 dv_has_time_started: 1941-06-22
 dv_has_time_stopped: 1941-12-01
 dv_is_same_as:
-  - "[[WD~Operation Barbarossa,83055]]"
+  - "[[WD~Operation_Barbarossa,83055]]"
   - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa|Operation_Barbarossa]]"
   - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa.public|Operation_Barbarossa.public]]"
   - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II/Operation_Barbarossa.internal|Operation_Barbarossa.internal]]"
@@ -67,7 +67,7 @@ dv_is_same_as:
 
 has_time_started = `=this.dv_has_time_started` 
 has_time_stopped = `=this.dv_has_time_stopped` 
-#is_/same_as :: [[WD~Operation Barbarossa,83055]] 
+#is_/same_as :: [[WD~Operation_Barbarossa,83055]] 
 
 ## #has_/text_of_/abstract  
 

@@ -4,20 +4,20 @@ aliases:
   - nitriles
 has_id_wikidata: Q55076544
 different_from:
-  - "[[_Standards/WikiData/WD~cyanide anion,185076]]"
+  - "[[_Standards/WikiData/WD~cyanide_anion,185076]]"
   - "[[_Standards/WikiData/WD~nitrile,333936]]"
   - "[[_Standards/WikiData/WD~cyanyl,3416481]]"
-  - "[[_Standards/WikiData/WD~cyano group,9281462]]"
-has_part_s_: "[[_Standards/WikiData/WD~cyanide anion,185076]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[_Standards/WikiData/WD~cyano_group,9281462]]"
+has_part_s_: "[[_Standards/WikiData/WD~cyanide_anion,185076]]"
+described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~carbon compound,2901852]]"
-  - "[[_Standards/WikiData/WD~nitrogen compound,3685323]]"
+  - "[[_Standards/WikiData/WD~carbon_compound,2901852]]"
+  - "[[_Standards/WikiData/WD~nitrogen_compound,3685323]]"
   - "[[_Standards/WikiData/WD~salt,12370]]"
 topic_s_main_category: "[[_Standards/WikiData/WD~Category_Cyanides,7215636]]"
 topic_has_template: "[[_Standards/WikiData/WD~Template_Cyanides,25399444]]"
-instance_of: "[[_Standards/WikiData/WD~structural class of chemical entities,47154513]]"
-smells_of: "[[_Standards/WikiData/WD~bitter almond aroma,67443111]]"
+instance_of: "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"
+smells_of: "[[_Standards/WikiData/WD~bitter_almond_fragrance,67443111]]"
 ZVG_number: "520052"
 Dewey_Decimal_Classification:
   - "661.894"

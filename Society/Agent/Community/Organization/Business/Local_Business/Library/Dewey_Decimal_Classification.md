@@ -55,7 +55,7 @@ official_website: https://www.oclc.org/en/dewey.html
 
 # [[Dewey_Decimal_Classification]]
 
-#is_/same_as :: [[WD~Dewey Decimal Classification,48460]]
+#is_/same_as :: [[WD~Dewey_Decimal_Classification,48460]]
 
 ## Top-Level Classes 
 

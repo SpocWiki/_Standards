@@ -13,7 +13,7 @@ OpenStreetMap_tag: generator:type=combined_cycle
 
 # [[Combined-Cycle_Power_Plant]] 
 
-#is_/same_as :: [[WD~Combined cycle power plant,900729]]
+#is_/same_as :: [[WD~Combined_cycle_power_plant,900729]]
 
 ## #has_/text_of_/abstract 
 

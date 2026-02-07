@@ -4,9 +4,9 @@ aliases:
   - OMDB
 has_id_wikidata: Q27653527
 copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863]]"
-copyright_license: "[[_Standards/WikiData/WD~Creative Commons Attribution 2.0 Germany,75466259]]"
+copyright_license: "[[_Standards/WikiData/WD~Creative_Commons_Attribution_2.0_Germany,75466259]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~online film database,130735522]]"
+  - "[[_Standards/WikiData/WD~online_film_database,130735522]]"
   - "[[_Standards/WikiData/WD~website,35127]]"
 language_of_work_or_name:
   - "[[_Standards/WikiData/WD~Spanish,1321]]"

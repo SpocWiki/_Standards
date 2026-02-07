@@ -5,30 +5,30 @@ aliases:
   - Schwefelwasserstoff
 has_id_wikidata: Q170591
 found_in_taxon:
-  - "[[_Standards/WikiData/WD~Arabidopsis thaliana,158695]]"
-  - "[[_Standards/WikiData/WD~Parkia speciosa,311088]]"
-  - "[[_Standards/WikiData/WD~Artemia salina,1135229]]"
-  - "[[_Standards/WikiData/WD~Coffea arabica,47685]]"
+  - "[[_Standards/WikiData/WD~Arabidopsis_thaliana,158695]]"
+  - "[[_Standards/WikiData/WD~Parkia_speciosa,311088]]"
+  - "[[_Standards/WikiData/WD~Artemia_salina,1135229]]"
+  - "[[_Standards/WikiData/WD~Coffea_arabica,47685]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
 subject_has_role:
-  - "[[_Standards/WikiData/WD~gaseous signaling molecule,657925]]"
-  - "[[_Standards/WikiData/WD~primary metabolite,3333419]]"
-  - "[[_Standards/WikiData/WD~air pollutant,50429805]]"
+  - "[[_Standards/WikiData/WD~gaseous_signaling_molecule,657925]]"
+  - "[[_Standards/WikiData/WD~primary_metabolite,3333419]]"
+  - "[[_Standards/WikiData/WD~air_pollutant,50429805]]"
 conjugate_base: "[[_Standards/WikiData/WD~hydrosulfide,3771739]]"
-has_characteristic: "[[_Standards/WikiData/WD~flammable gas,10913792]]"
-subclass_of: "[[_Standards/WikiData/WD~dihydrogen chalcogenide,11723014]]"
+has_characteristic: "[[_Standards/WikiData/WD~flammable_gas,10913792]]"
+subclass_of: "[[_Standards/WikiData/WD~dihydrogen_chalcogenide,11723014]]"
 part_of:
-  - "[[_Standards/WikiData/WD~hydrogen sulfide biosynthetic process,14913092]]"
-  - "[[_Standards/WikiData/WD~hydrogen sulfide metabolic process,21112368]]"
-  - "[[_Standards/WikiData/WD~response to hydrogen sulfide,22273591]]"
-  - "[[_Standards/WikiData/WD~cellular response to hydrogen sulfide,22273592]]"
-associated_hazard: "[[_Standards/WikiData/WD~hydrogen sulfide exposure,21174760]]"
-has_effect: "[[_Standards/WikiData/WD~hydrogen sulfide exposure,21174760]]"
-safety_classification_and_labelling: "[[_Standards/WikiData/WD~NFPA 704_ Standard System for the Identification of the Hazards of Materials for Emergency Response,51139288]]"
-instance_of: "[[_Standards/WikiData/WD~type of chemical entity,113145171]]"
+  - "[[_Standards/WikiData/WD~hydrogen_sulfide_biosynthetic_process,14913092]]"
+  - "[[_Standards/WikiData/WD~hydrogen_sulfide_metabolic_process,21112368]]"
+  - "[[_Standards/WikiData/WD~response_to_hydrogen_sulfide,22273591]]"
+  - "[[_Standards/WikiData/WD~cellular_response_to_hydrogen_sulfide,22273592]]"
+associated_hazard: "[[_Standards/WikiData/WD~hydrogen_sulfide_exposure,21174760]]"
+has_effect: "[[_Standards/WikiData/WD~hydrogen_sulfide_exposure,21174760]]"
+safety_classification_and_labelling: "[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]"
 boiling_point:
   - -59.55
   - -77
@@ -88,11 +88,11 @@ EC_number: 231-977-3
 Reaxys_registry_number: "3535004"
 CAS_Registry_Number: 7783-06-4
 dv_is_:
-  same_as: "[[WD~hydrogen sulphide,170591]]"
+  same_as: "[[WD~hydrogen_sulphide,170591]]"
 dv_has_:
   formula_:
     structural: H-S-H
-dv_is_same_as: "[[WD~hydrogen sulphide,170591]]"
+dv_is_same_as: "[[WD~hydrogen_sulphide,170591]]"
 dv_has_formula_structural: H-S-H
 ---
 

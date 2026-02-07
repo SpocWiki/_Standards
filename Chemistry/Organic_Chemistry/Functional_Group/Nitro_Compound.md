@@ -4,15 +4,15 @@ aliases:
   - Nitro
 has_id_wikidata: Q422772
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-has_part_s_: "[[_Standards/WikiData/WD~nitro group,1242465]]"
-different_from: "[[_Standards/WikiData/WD~nitrate ester,4321642]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+has_part_s_: "[[_Standards/WikiData/WD~nitro_group,1242465]]"
+different_from: "[[_Standards/WikiData/WD~nitrate_ester,4321642]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~oxygen compound,5156940]]"
-  - "[[_Standards/WikiData/WD~organic nitrogen compound,77899525]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Nitro compounds,8795906]]"
-instance_of: "[[_Standards/WikiData/WD~structural class of chemical entities,47154513]]"
+  - "[[_Standards/WikiData/WD~oxygen_compound,5156940]]"
+  - "[[_Standards/WikiData/WD~organic_nitrogen_compound,77899525]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Nitro_compounds,8795906]]"
+instance_of: "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"
 chemical_structure: http://commons.wikimedia.org/wiki/Special:FilePath/FunktionelleGruppen%20Nitroverbindungen.svg
 UMLS_CUI: C0028138
 MeSH_tree_code: D02.640

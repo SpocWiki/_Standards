@@ -8,7 +8,7 @@ has_id_wikidata: Q313013
 
 # [[Wilson,Brian(Musician)]] 
 
-#is_/same_as :: [[WD~Brian Wilson,313013]]
+#is_/same_as :: [[WD~Brian_Wilson,313013]]
 
 ## #has_/text_of_/abstract 
 
