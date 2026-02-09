@@ -1,4 +1,16 @@
 ---
+aliases:
+  - Slovakia
+  - Eslovaquia
+  - Slovaquie
+  - سلوفاكيا
+  - 斯洛伐克
+  - Словакия
+  - the Slovak Republic
+  - la República Eslovaca
+has_id_wikidata: Q214
+Unicode_character: 🇸🇰
+icon: 🇸🇰
 dv_ISO4217-currency_alphabetic: EUR
 dv_ISO4217-currency_name: Euro
 dv_ISO4217-currency_numeric: 978
@@ -60,8 +72,10 @@ dv_is_:
     - "[[/_private/Earth/Continent/Europe/Europe~Central/Slovakia.private|Slovakia.private]]"
     - "[[/_personal/Earth/Continent/Europe/Europe~Central/Slovakia.personal|Slovakia.personal]]"
     - "[[/_secret/Earth/Continent/Europe/Europe~Central/Slovakia.secret|Slovakia.secret]]"
+    - "[[Slovakia]]"
 dv_has_:
   name_:
+    en: Slovakia
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Slovakia
 dv_has_name_de: Slowakei
@@ -76,8 +90,7 @@ dv_has_place_longitude: 17.1
 dv_has_place_latitude: 48.13
 dv_developed_developing_countries: Developed
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Slovakia,214|WD~Slovakia,214]]"
-  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia|Slovakia]]"
+  - "[[Slovakia]]"
   - "[[/_public/Earth/Continent/Europe/Europe~Central/Slovakia.public|Slovakia.public]]"
   - "[[/_internal/Earth/Continent/Europe/Europe~Central/Slovakia.internal|Slovakia.internal]]"
   - "[[/_protect/Earth/Continent/Europe/Europe~Central/Slovakia.protect|Slovakia.protect]]"
@@ -85,17 +98,6 @@ dv_is_same_as:
   - "[[/_personal/Earth/Continent/Europe/Europe~Central/Slovakia.personal|Slovakia.personal]]"
   - "[[/_secret/Earth/Continent/Europe/Europe~Central/Slovakia.secret|Slovakia.secret]]"
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Slovakia
-
-aliases:
-  - Slovakia
-  - Eslovaquia
-  - Slovaquie
-  - سلوفاكيا
-  - 斯洛伐克
-  - Словакия
-  - the Slovak Republic
-  - la República Eslovaca
-has_id_wikidata: Q214
 highest_point: "[[_Standards/WikiData/WD~Gerlachovský_štít,81213]]"
 member_of:
   - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
@@ -448,7 +450,6 @@ official_website: https://www.slovakia.com/
 country_calling_code: 421
 Dewey_Decimal_Classification: 2--4373
 Colon_Classification: SG--59252
-Unicode_character: 🇸🇰
 GitHub_topic: slovakia
 location:
   - 48.13
@@ -475,7 +476,6 @@ expiryDate: ""
 Languages:
   - sk
   - hu
-icon: flag-sk
 ---
 
 # [[Slovakia]] 
@@ -494,7 +494,7 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_has_name`
-[	has_name_en	 :: Slovakia ]
+has_name_en = `=this.dv_has_name_en` 
 has_name_es = `=this.dv_has_name_es`
 has_name_fr = `=this.dv_has_name_fr`
 has_name_cn = `=this.dv_has_name_cn`
@@ -569,7 +569,7 @@ markerFile: [[Slovakia]]
 defaultZoom: 6 
 ```
 
-[has_name_en::Slovakia]
+has_name_en = `=this.dv_has_name_en` 
 has_name_de = `=this.dv_has_name_de`
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
@@ -593,13 +593,89 @@ has_place_latitude = `=this.dv_has_place_latitude`
 
 ## #has_/text_of_/abstract 
 
-> **Slovakia**, officially the Slovak Republic, is a landlocked country in Central Europe. It is bordered by Poland to the north, Ukraine to the east, Hungary to the south, Austria to the west, and the Czech Republic to the northwest. Slovakia's mostly mountainous territory spans about 49,000 km2 (19,000 sq mi), hosting a population exceeding 5.4 million. The capital and largest city is Bratislava, while the second largest city is Košice.
+> **Slovakia**, officially the Slovak Republic, is a landlocked country in Central Europe. 
+> It is bordered by Poland to the north, Ukraine to the east, Hungary to the south, 
+> Austria to the west, and the Czech Republic to the northwest. 
+> 
+> Slovakia's mostly mountainous territory spans about 49,000 km2 (19,000 sq mi), 
+> hosting a population exceeding 5.4 million. 
+> 
+> The capital and largest city is Bratislava, while the second largest city is Košice.
 >
-> The Slavs arrived in the territory of the present-day Slovakia in the 5th and 6th centuries. From the late 6th century, parts of modern Slovakia were incorporated into the Avar Khaghanate. In the 7th century, the Slavs played a significant role in the creation of Samo's Empire. When the Avar Khaghanate dissolved in the 9th century, the Slavs established the Principality of Nitra before it was annexed by the Principality of Moravia, which later became Great Moravia. When Great Moravia fell in the 10th century, the territory was integrated into the Principality of Hungary at the end of the 9th century, which later became the Kingdom of Hungary in 1000. In 1241 and 1242, after the Mongol invasion of Europe, much of the territory was destroyed, but was recovered largely thanks to Hungarian king Béla IV. During the 16th and 17th centuries, southern portions of present-day Slovakia were incorporated into provinces of the Ottoman Empire. The Ottoman-controlled areas were ceded to the Habsburgs by the turn of the 18th century. The Hungarian declaration of independence in 1848 was followed in the same year by the Slovak Uprising through the establishment of the Slovak National Council. While the uprising didn't achieve its aim, it played an important role in cementing a Slovak national identity. The Hungarian wars of independence eventually resulted in a compromise that established the Austro-Hungarian Empire.
+> The Slavs arrived in the territory of the present-day Slovakia 
+> in the 5th and 6th centuries. 
+> 
+> From the late 6th century, 
+> parts of modern Slovakia were incorporated into the Avar Khaghanate. 
+> 
+> In the 7th century, the Slavs played a significant role in the creation of Samo's Empire. 
+> When the Avar Khaghanate dissolved in the 9th century, 
+> the Slavs established the Principality of Nitra 
+> before it was annexed by the Principality of Moravia, 
+> which later became Great Moravia. 
+> 
+> When Great Moravia fell in the 10th century, 
+> the territory was integrated into the Principality of Hungary 
+> at the end of the 9th century, which later became the Kingdom of Hungary in 1000. 
+> 
+> In 1241 and 1242, after the Mongol invasion of Europe, 
+> much of the territory was destroyed, 
+> but was recovered largely thanks to Hungarian king Béla IV. 
+> 
+> During the 16th and 17th centuries, southern portions of present-day Slovakia 
+> were incorporated into provinces of the Ottoman Empire. 
+> The Ottoman-controlled areas were 
+> ceded to the Habsburgs by the turn of the 18th century. 
+> 
+> The Hungarian declaration of independence in 1848 was followed in the same year 
+> by the Slovak Uprising through the establishment of the Slovak National Council. 
+> While the uprising didn't achieve its aim, 
+> it played an important role in cementing a Slovak national identity. 
+> The Hungarian wars of independence eventually resulted in 
+> a compromise that established the Austro-Hungarian Empire.
 >
-> During World War I, the Czechoslovak National Council successfully fought for independence amidst the collapse of the Austro-Hungarian Empire, and the state of Czechoslovakia was proclaimed in 1918. The borders were set by the Treaty of Saint Germain in 1919 and by the Treaty of Trianon in 1920 Czechoslovakia incorporated the territory of present-day Slovakia which was entirely part of the Kingdom of Hungary. In the lead up to World War II, local fascist parties gradually came to power in the Slovak lands, and the first Slovak Republic was established in 1939 as a one-party clerical fascist client state under the control of Nazi Germany. In 1940, the country joined the Axis when its leaders signed the Tripartite Pact. Czechoslovakia was re-established after the country's liberation at the end of the war in 1945. Following the Soviet-backed coup of 1948, Czechoslovakia became a communist state within the Eastern Bloc, a satellite state of the Soviet Union behind the Iron Curtain and member of the Warsaw Pact. Attempts to liberalise communism culminated in the Prague Spring, which was suppressed by the Warsaw Pact invasion of Czechoslovakia in August 1968. In 1989, the Velvet Revolution peacefully ended Communist rule in Czechoslovakia. Slovakia became an independent democratic state on 1 January 1993 after the peaceful dissolution of Czechoslovakia, sometimes referred to as the Velvet Divorce.
+> During World War I, 
+> the Czechoslovak National Council successfully fought for independence 
+> amidst the collapse of the Austro-Hungarian Empire, 
+> and the state of Czechoslovakia was proclaimed in 1918. 
+> 
+> The borders were set by the Treaty of Saint Germain in 1919 
+> and by the Treaty of Trianon in 1920 
+> Czechoslovakia incorporated the territory of present-day Slovakia 
+> which was entirely part of the Kingdom of Hungary. 
+> 
+> In the lead up to World War II, local fascist parties 
+> gradually came to power in the Slovak lands, 
+> and the first Slovak Republic was established in 1939 
+> as a one-party clerical fascist client state under the control of Nazi Germany. 
+> 
+> In 1940, the country joined the Axis when its leaders signed the Tripartite Pact. 
+> Czechoslovakia was re-established 
+> after the country's liberation at the end of the war in 1945. 
+> Following the Soviet-backed coup of 1948, 
+> Czechoslovakia became a communist state within the Eastern Bloc, 
+> a satellite state of the Soviet Union behind the Iron Curtain 
+> and member of the Warsaw Pact. 
+> 
+> Attempts to liberalise communism culminated in the Prague Spring, 
+> which was suppressed by the Warsaw Pact invasion of Czechoslovakia in August 1968. 
+> In 1989, the Velvet Revolution peacefully ended Communist rule in Czechoslovakia. 
+> Slovakia became an independent democratic state on 1 January 1993 
+> after the peaceful dissolution of Czechoslovakia, sometimes referred to as the Velvet Divorce.
 >
-> Slovakia is a developed country with an advanced high-income economy. The country maintains a combination of a market economy with a comprehensive social security system, providing citizens with universal health care, free education, one of the lowest retirement age in Europe and one of the longest paid parental leaves in the OECD. Slovakia is a member of the European Union, the Eurozone, the Schengen Area, the United Nations, NATO, CERN, the OECD, the WTO, the Council of Europe, the Visegrád Group, and the OSCE. Slovakia is also home to eight UNESCO World Heritage Sites. The world's largest per-capita car producer, Slovakia manufactured a total of 1.1 million cars in 2019, representing 43% of its total industrial output.
+> Slovakia is a developed country with an advanced high-income economy. 
+> The country maintains a combination of a market economy 
+> with a comprehensive social security system, 
+> providing citizens with universal health care, free education, one of the lowest retirement age in Europe and one of the longest paid parental leaves in the OECD. 
+> 
+> Slovakia is a member of the European Union, the Eurozone, the Schengen Area, 
+> the United Nations, NATO, CERN, the OECD, the WTO, the Council of Europe, 
+> the Visegrád Group, and the OSCE. 
+> 
+> Slovakia is also home to eight UNESCO World Heritage Sites. 
+> The world's largest per-capita car producer, 
+> Slovakia manufactured a total of 1.1 million cars in 2019, 
+> representing 43% of its total industrial output.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Slovakia) 
 

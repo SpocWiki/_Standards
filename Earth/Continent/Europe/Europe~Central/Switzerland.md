@@ -1,4 +1,23 @@
 ---
+aliases:
+  - Switzerland
+  - Suiza
+  - Suisse
+  - سويسرا
+  - 瑞士
+  - Швейцария
+  - the Swiss Confederation
+  - la Confederación Suiza
+  - Svizzera
+  - Svizra
+  - Helvetica
+has_id_wikidata: Q39
+Unicode_character: 🇨🇭
+icon: 🇨🇭
+age_of_majority:
+  - 20
+  - 18
+
 dv_has_name: Switzerland
 dv_has_name_en: Switzerland
 dv_has_name_es: Suiza
@@ -97,22 +116,6 @@ dv_has_image_for_coat_of_arms: "[[./Switzerland/Coat_of_arms_of_Switzerland.svg|
 dv_has_sound_of_anthem: "[[../../../../../_public/xLarge.public/National-Anthem/Anthem-Switzerland.mp3|Anthem-Switzerland.mp3]]"
 dv_developed_developing_countries: Developed
 
-aliases:
-  - Switzerland
-  - Suiza
-  - Suisse
-  - سويسرا
-  - 瑞士
-  - Швейцария
-  - the Swiss Confederation
-  - la Confederación Suiza
-  - Svizzera
-  - Svizra
-  - Helvetica
-has_id_wikidata: Q39
-age_of_majority:
-  - 20
-  - 18
 anthem: "[[_Standards/WikiData/WD~Swiss_Psalm,182536]]"
 area: 41285
 Baidu_Tieba_name: 瑞士
@@ -332,7 +335,6 @@ highest_point: "[[_Standards/WikiData/WD~Dufourspitze,3403]]"
 history_of_topic: "[[_Standards/WikiData/WD~history_of_Switzerland,208761]]"
 Human_Development_Index: 0.962
 IAB_code: 1419
-icon: flag-ch
 inception: 1848-09-12
 Inequality_adjusted_Human_Development_Index: 0.894
 INSEE_countries_and_foreign_territories_code: 99140
@@ -534,7 +536,6 @@ type: Country
 UIC_alphabetical_country_code: CH
 UIC_numerical_country_code: 85
 unemployment_rate: 4
-Unicode_character: 🇨🇭
 urban_population:
   - 6332759
   - 6384901

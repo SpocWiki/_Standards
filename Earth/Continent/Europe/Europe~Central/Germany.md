@@ -11,6 +11,8 @@ aliases:
   - 德国
   - Германия
 has_id_wikidata: Q183
+icon: 🇩🇪
+Unicode_character: 🇩🇪
 age_of_majority: 18
 anthem: "[[_Standards/WikiData/WD~national_anthem_of_Germany,4122341]]"
 archives_at: "[[_Standards/WikiData/WD~German_Federal_Archives,685753]]"
@@ -515,7 +517,6 @@ highest_point: "[[_Standards/WikiData/WD~Zugspitze,3375]]"
 history_of_topic: "[[_Standards/WikiData/WD~history_of_Germany,122131]]"
 Human_Development_Index: 0.942
 IAB_code: "1300"
-icon: flag-de
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20view%20of%20Berlin%20%2832881394137%29.jpg
 Image_Archive_Herder_Institute: Q183
 inception: 1949-05-23T00:00:00Z
@@ -774,7 +775,6 @@ UIC_alphabetical_country_code: D
 UIC_numerical_country_code: "80"
 UMLS_CUI: C0017480
 unemployment_rate: 6.1
-Unicode_character: 🇩🇪
 U_S_National_Archives_Identifier: "10044480"
 VAT_rate:
   - 7
@@ -832,7 +832,7 @@ described_at_URL: https://wikispooks.com/wiki/Germany
 telephone_country_code: "+49"
 ---
 
-# [[Germany]] (Deutschland)
+# [[Germany]] (🇩🇪 Deutschland)
 
 #is_a_/Country 
 #is_a_/Place 
