@@ -53,6 +53,7 @@ dv_is_same_as:
 
 has_time_started = `=this.dv_has_time_started` 
 has_time_stopped = `=this.dv_has_time_stopped` 
+#has_/predecessor :: [[-3000-Corded_Ware_Culture-2350]]
 
 #is_/same_as :: [[wd~Beaker_Culture,470867]]
 
