@@ -1,0 +1,39 @@
+---
+aliases:
+has_id_wikidata: Q933996
+dv_is_:
+  same_as: "[[WD~Corded_Ware_Culture,933996]]"
+dv_is_same_as: "[[WD~Corded_Ware_Culture,933996]]"
+instance_of: "[[_Standards/WikiData/WD~archaeological_culture,465299]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Corded_Ware_culture,7814673]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Eesti_1000,57005414]]"
+start_time: -3000-01-01T00:00:00Z
+BHCL_UUID: b1f06c91-e2d1-4488-88e3-c5971e5cb49c
+end_time: -2000-01-01T00:00:00Z
+Commons_category: Corded Ware culture
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Corded%20Ware%20culture.jpg
+---
+
+# [[-3000-Corded_Ware_Culture-2350]] 
+
+is_same_as = `=this.dv_is_same_as` 
+#has_/time_started :: -3000-01
+#has_/time_/stopped :: -2000-01
+
+## #has_/text_of_/abstract 
+
+> The **Corded Ware culture** comprises a broad archaeological horizon of Europe 
+> between c. 3000 BC – 2350 BC, thus from the Late Neolithic, 
+> through the Copper Age, and ending in the early Bronze Age. 
+> 
+> Corded Ware culture encompassed a vast area, 
+> from the contact zone between the Yamnaya culture 
+> and the Corded Ware culture in South Eastern Europe, 
+> to the Rhine in the west and the Volga in the east, occupying parts of Northern Europe, Central Europe and Eastern Europe. 
+> 
+> Autosomal genetic studies suggest that the Corded Ware culture originated from the westward migration of Yamnaya-related people from the steppe-forest zone into the territory of late Neolithic European cultures, evolving in parallel with (although under significant influence from) the Yamnaya; while the idea of direct male-line descent between them has not received significant support yet, IBD-sharing between the populations of these two cultures indicates that, at the very least, they came from a recent common ancestor, with a Harvard Magazine article on the find referring to them as "cousins" who were "biologically separated ... by only a few hundred years".
+> 
+> The Corded Ware culture is considered to be a likely vector for the spread of many of the Indo-European languages in Europe and Asia.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Corded%20Ware%20culture)  
+

@@ -90,6 +90,10 @@ dv_has_:
     property: http://www.w3.org/2000/01/rdf-schema#label
   domain: "[Thing](../../Class/Thing)"
   name: has_name
+  name_: 
+    en: has name
+    de: hat den Namen 
+    
   range: Text
 dv_is_same_as:
   - "[[../../WikiData/WD~Name,82799|WD~Name,82799]]"
