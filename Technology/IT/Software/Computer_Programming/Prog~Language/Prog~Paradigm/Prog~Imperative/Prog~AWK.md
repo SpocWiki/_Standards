@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q213970
+---
+
 
 # [[Prog~AWK]]  
 

@@ -3,8 +3,8 @@ aliases:
   - Christopher Lee
   - Sir Christopher Frank Carandini Lee
   - Lee,Christopher
+has_id_wikidata: Q180338
 ---
-
 # [[Lee,Christopher]] 
 
 #has_/related_to :: [[../../Movie-Genre/Thriller-Movie/Fleming,Ian]] 

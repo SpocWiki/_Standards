@@ -2,8 +2,8 @@
 aliases:
   - Archosauria
 title: Archosauria
+has_id_wikidata: Q130910
 ---
-
 # [[Archosauria]] 
 
  ![ ](Archosauria/Crocodilia/Alligatoridae/Alligator_sinensis.jpg)  ![Pteranodon-Harder](Archosauria/Pteranodon-Harder.jpg) 

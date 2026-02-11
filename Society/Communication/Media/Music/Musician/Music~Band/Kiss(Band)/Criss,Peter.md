@@ -2,8 +2,8 @@
 aliases:
   - Peter Criss
   - Criss,Peter
+has_id_wikidata: Q137881
 ---
-
 > George Peter John Criscuola (born 1945-12-20), 
 > better known by his stage name **Peter Criss**, 
 > is a retired American musician, best known as a co-founder, original drummer, 

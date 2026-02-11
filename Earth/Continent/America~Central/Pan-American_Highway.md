@@ -16,8 +16,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Continent/America~Central/Pan-American_Highway.private|Pan-American_Highway.private]]"
   - "[[/_personal/Earth/Continent/America~Central/Pan-American_Highway.personal|Pan-American_Highway.personal]]"
   - "[[/_secret/Earth/Continent/America~Central/Pan-American_Highway.secret|Pan-American_Highway.secret]]"
+has_id_wikidata: Q271839
 ---
-
 # [[Pan-American_Highway]] 
 
 ## #has_/text_of_/abstract 

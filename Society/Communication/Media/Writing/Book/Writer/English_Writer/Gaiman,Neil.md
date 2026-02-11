@@ -4,8 +4,8 @@ aliases:
   - Neil Richard Gaiman
   - Neil Gaiman
   - Gaiman,Neil
+has_id_wikidata: Q210059
 ---
-
 # [[Gaiman,Neil]] 
 
 #has_/time_/started :: 1960-11-10 

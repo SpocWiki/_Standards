@@ -1,8 +1,8 @@
 ---
 aliases:
   - diatonic scale
+has_id_wikidata: Q23702413
 ---
-
 # [[Diatonic_Scale]] 
 
 ## #has_/text_of_/abstract 

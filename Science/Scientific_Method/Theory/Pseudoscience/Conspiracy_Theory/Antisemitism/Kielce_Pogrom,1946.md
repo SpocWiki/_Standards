@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q236163
+---
+
 
 # [[Kielce_Pogrom,1946]] 
 

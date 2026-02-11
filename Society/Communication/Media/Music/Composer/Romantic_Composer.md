@@ -4,8 +4,8 @@ aliases:
   - Romantic Composers
   - Romantic_Composer
 has_id_wikidata: ''
+has_id_wikidata: Q1073576
 ---
-
 ## #has_/text_of_/abstract 
 
 > The Romantic era of Western Classical music spanned the 19th century to the early 20th century, 

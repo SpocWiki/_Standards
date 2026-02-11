@@ -3,8 +3,8 @@ aliases:
   - Never Say Never Again
   - Never_Say_Never_Again,1983
   - Never Say Never Again,1983
+has_id_wikidata: Q180279
 ---
-
 ## #has_/text_of_/abstract 
 
 > Never Say Never Again is a 1983 spy film directed by Irvin Kershner. 

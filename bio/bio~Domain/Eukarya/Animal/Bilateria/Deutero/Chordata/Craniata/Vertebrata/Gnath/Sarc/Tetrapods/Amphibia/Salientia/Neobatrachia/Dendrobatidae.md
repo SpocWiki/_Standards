@@ -2,8 +2,8 @@
 aliases:
   - Dendrobatidae
 title: Dendrobatidae
+has_id_wikidata: Q53750
 ---
-
 # [[Dendrobatidae]]
 
 Poison-arrow frogs, Dart-poison frogs, Poison-dart frogs 

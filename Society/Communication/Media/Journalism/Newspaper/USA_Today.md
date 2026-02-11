@@ -2,8 +2,8 @@
 aliases:
   - USA Today
   - USA_Today
+has_id_wikidata: Q39681
 ---
-
 ## #has_/text_of_/abstract 
 
 > **USA Today** (often stylized in all caps) is an American daily middle-market newspaper and news broadcasting company. 

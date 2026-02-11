@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q777494
+---
+
 
 # [[Solow–Swan_model]] 
 

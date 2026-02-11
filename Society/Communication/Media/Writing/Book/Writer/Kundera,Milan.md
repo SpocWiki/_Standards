@@ -2,8 +2,8 @@
 aliases:
   - Milan Kundera
   - Kundera,Milan
+has_id_wikidata: Q93166
 ---
-
 # [[Kundera,Milan]]
 
 #has_/time_/started :: 1929-04-01 

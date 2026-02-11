@@ -18,8 +18,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Climate/Biosphere/Biome/Desert.private|Desert.private]]"
   - "[[/_personal/Earth/Climate/Biosphere/Biome/Desert.personal|Desert.personal]]"
   - "[[/_secret/Earth/Climate/Biosphere/Biome/Desert.secret|Desert.secret]]"
+has_id_wikidata: Q8514
 ---
-
 # [[Desert]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Desert,8514|WD~Desert,8514]] 

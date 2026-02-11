@@ -4,8 +4,8 @@ aliases:
   - Friedensnobelpreis
   - Peace_Nobel_Prize
   - Peace Nobel Prize
+has_id_wikidata: Q643610
 ---
-
 ## #has_/text_of_/abstract 
 
 > The Norwegian Nobel Committee awards the Nobel Peace Prize annually 

@@ -2,8 +2,8 @@
 aliases:
   - Spirulida
 title: Spirula spirula
+has_id_wikidata: Q1370442
 ---
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

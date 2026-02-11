@@ -3,8 +3,8 @@ aliases:
   - Suidae
   - Suid
 title: Suidae
+has_id_wikidata: Q166898
 ---
-
 # [[Suid]]
 
 #is_/same_as :: 

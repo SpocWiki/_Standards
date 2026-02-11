@@ -4,8 +4,8 @@ aliases:
   - dictynoids
   - dictynoid
 title: Dictynoidea
+has_id_wikidata: Q54485
 ---
-
 # [[Dictynoidea]] 
 
 ## #has_/text_of_/abstract 

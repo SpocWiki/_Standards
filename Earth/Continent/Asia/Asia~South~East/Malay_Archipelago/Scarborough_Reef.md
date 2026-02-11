@@ -42,8 +42,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.private|Scarborough_Reef.private]]"
   - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.personal|Scarborough_Reef.personal]]"
   - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.secret|Scarborough_Reef.secret]]"
+has_id_wikidata: Q628716
 ---
-
 # [[Scarborough_Reef]] 
 
 

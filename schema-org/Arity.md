@@ -31,8 +31,8 @@ dv_is_same_as:
   - "[[/_private/schema-org/Arity.private|Arity.private]]"
   - "[[/_personal/schema-org/Arity.personal|Arity.personal]]"
   - "[[/_secret/schema-org/Arity.secret|Arity.secret]]"
+has_id_wikidata: Q1315869
 ---
-
 # [[Arity]] 
 
 The Arity of a [[../Mathematics/Function(Math)|Function(Math)]] is one less than the Arity of the [[../../Knowledge/Math/Relation(Math)|Relation(Math)]] 

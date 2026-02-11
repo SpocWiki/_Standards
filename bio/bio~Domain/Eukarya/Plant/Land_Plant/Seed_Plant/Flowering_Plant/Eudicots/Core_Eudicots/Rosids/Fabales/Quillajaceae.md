@@ -2,8 +2,8 @@
 aliases:
   - Quillajaceae
 title: Quillaja
+has_id_wikidata: Q13634380
 ---
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

@@ -18,8 +18,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Geology/Landform/Seamount.private|Seamount.private]]"
   - "[[/_personal/Earth/Geology/Landform/Seamount.personal|Seamount.personal]]"
   - "[[/_secret/Earth/Geology/Landform/Seamount.secret|Seamount.secret]]"
+has_id_wikidata: Q503269
 ---
-
 # [[Seamount]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Seamount,503269|WD~Seamount,503269]]  

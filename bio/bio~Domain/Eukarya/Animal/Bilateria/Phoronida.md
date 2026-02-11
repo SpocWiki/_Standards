@@ -2,8 +2,8 @@
 aliases:
   - Phoronida
 title: Phoronida
+has_id_wikidata: Q162907
 ---
-
 # [[Phoronida]]
 
 ## Horseshoe worms 

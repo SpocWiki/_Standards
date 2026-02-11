@@ -4,8 +4,8 @@ aliases:
   - Deinococci
   - Deinococcus-Thermus
 title: Deinococcus-Thermus
+has_id_wikidata: Q88926185
 ---
-
 # [[Deinococcus-Thermus]] 
 
 

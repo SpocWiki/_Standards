@@ -2,8 +2,8 @@
 aliases:
   - Peter Gabriel
   - Gabriel,Peter
+has_id_wikidata: Q175195
 ---
-
 > Peter Brian Gabriel (born 13 February 1950) is an English singer, songwriter 
 > and human rights activist. 
 > He was the original lead singer of the progressive rock band Genesis. 

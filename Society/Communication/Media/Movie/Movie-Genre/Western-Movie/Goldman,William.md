@@ -2,8 +2,8 @@
 aliases:
   - William Goldman
   - Goldman,William
+has_id_wikidata: Q506885
 ---
-
 #has_/time_/started ::  1931-08-12 
 #has_/time_/started ::  16, 2018-11-16 
 

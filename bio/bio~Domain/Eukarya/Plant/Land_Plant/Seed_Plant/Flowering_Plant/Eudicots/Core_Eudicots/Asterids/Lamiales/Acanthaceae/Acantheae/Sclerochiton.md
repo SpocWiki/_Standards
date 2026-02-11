@@ -2,8 +2,8 @@
 aliases:
   - Sclerochiton
 title: Sclerochiton
+has_id_wikidata: Q1328868
 ---
-
 # [[Sclerochiton]] 
 
 ![ ](Sclerochiton/sclerochiton.jpg)

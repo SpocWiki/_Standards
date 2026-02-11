@@ -24,8 +24,8 @@ dv_is_same_as:
   - "[[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon.private|Activated_Carbon.private]]"
   - "[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon.personal|Activated_Carbon.personal]]"
   - "[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Activated_Carbon.secret|Activated_Carbon.secret]]"
+has_id_wikidata: Q190878
 ---
-
 # [[Activated_Carbon]] 
 
 

@@ -3,8 +3,8 @@ aliases:
   - A Man Called Otto
   - Man_Called_Otto
   - Man Called Otto
+has_id_wikidata: Q111608782
 ---
-
 ## #has_/text_of_/abstract 
 
 > **A Man Called Otto** is a 2022 American comedy-drama film 

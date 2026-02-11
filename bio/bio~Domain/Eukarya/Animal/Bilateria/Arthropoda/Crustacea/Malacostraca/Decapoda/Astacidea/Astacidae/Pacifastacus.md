@@ -2,8 +2,8 @@
 aliases:
   - Pacifastacus
 title: Pacifastacus
+has_id_wikidata: Q3023573
 ---
-
 # [[Pacifastacus]]  
 
 

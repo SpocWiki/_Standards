@@ -2,8 +2,8 @@
 aliases:
   - Megophryidae
 title: Megophryidae
+has_id_wikidata: Q56056
 ---
-
 # [[Megophryidae]]  
 
 ![ ](Megophryidae/megophrys.jpg)

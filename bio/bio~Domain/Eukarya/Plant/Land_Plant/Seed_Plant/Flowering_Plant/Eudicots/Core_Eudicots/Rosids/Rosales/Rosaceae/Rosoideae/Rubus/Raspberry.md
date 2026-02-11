@@ -6,8 +6,8 @@ aliases:
   - Himbeere
   - Himbeeren
   - Raspberry
+has_id_wikidata: Q13179
 ---
-
 # [[Raspberry]] 
 
 #is_/same_as :: 

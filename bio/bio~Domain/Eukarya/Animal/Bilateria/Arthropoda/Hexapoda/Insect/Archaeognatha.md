@@ -3,8 +3,8 @@ aliases:
   - Archaeognatha
   - Bristetail
 title: Archaeognatha
+has_id_wikidata: Q637179
 ---
-
 # [[Archaeognatha]] 
 
 Bristetails 

@@ -2,8 +2,8 @@
 aliases:
   - Black Mirror
   - Black_Mirror
+has_id_wikidata: Q558112
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Black Mirror** is a British anthology television series created by Charlie Brooker. 

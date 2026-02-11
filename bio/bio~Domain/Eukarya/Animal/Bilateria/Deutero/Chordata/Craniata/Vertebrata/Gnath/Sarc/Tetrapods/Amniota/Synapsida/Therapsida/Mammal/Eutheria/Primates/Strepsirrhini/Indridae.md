@@ -2,8 +2,8 @@
 aliases:
   - Indridae
 title: Indridae
+has_id_wikidata: Q175626
 ---
-
 # [[Indridae]] 
 ![Indri sitting in tree](Indridae/Indri_indri0037.jpg) 
 

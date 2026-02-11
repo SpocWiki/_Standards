@@ -2,8 +2,8 @@
 aliases:
   - granti
 title: Gazella granti
+has_id_wikidata: Q735222
 ---
-
 # Gazella granti 
 
 ![ ](215861752_a7cb39d98d_b.jpg)

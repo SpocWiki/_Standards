@@ -6,8 +6,8 @@ aliases:
   - licensing effect
   - Moral_Licensing
   - Moral Licensing
+has_id_wikidata: Q17157060
 ---
-
 # [[Moral_Licensing]]
 
 #is_/similar_to :: [[Emission_Trade]] 

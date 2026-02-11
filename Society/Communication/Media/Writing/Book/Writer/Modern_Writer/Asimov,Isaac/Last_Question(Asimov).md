@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q979311
+---
+
 
 
 # [[Last_Question(Asimov)]] 

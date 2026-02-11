@@ -2,8 +2,8 @@
 aliases:
   - Spelerpinae
 title: Spelerpinae
+has_id_wikidata: Q100340
 ---
-
 # [[Spelerpinae]] 
 
 ![Pseudotriton ruber nitidus](Spelerpinae/Pseudotriton_ruber_nitidus.jpg) 

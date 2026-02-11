@@ -3,9 +3,9 @@ aliases:
   - Zack Snyder
   - Zachary Edward Snyder
   - Snyder,Zack
+has_id_wikidata: Q139890
 ---
-
-	#has_/time_/started :: 1966-03-01
+#has_/time_/started :: 1966-03-01
 
 ## #has_/text_of_/abstract 
 

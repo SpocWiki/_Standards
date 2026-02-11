@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q589894
+---
+
 
 # [[Ninotchka(1939)]] 
 

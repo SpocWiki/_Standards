@@ -6,8 +6,8 @@ aliases:
   - Millers law
   - Magical_Number_Seven
   - Magical Number Seven
+has_id_wikidata: Q1542532
 ---
-
 # [[Magical_Number_Seven]] 
 
 #has_/creator :: [[../../../../_protect/bio/Psychology/Psychologist/Armitage-Miller,George]] 

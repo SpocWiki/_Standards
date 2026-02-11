@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q270102
+---
+
 
 # [[Rugby_Sevens]] 
 

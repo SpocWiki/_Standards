@@ -4,8 +4,8 @@ aliases:
   - Vereenigde Oostindische Compagnie
   - Dutch East India Company
   - Dutch_East_India_Company
+has_id_wikidata: Q159766
 ---
-
 # [[Dutch_East_India_Company]] 
 
 #is_/similar_to :: [[East_India_Company]]   

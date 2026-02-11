@@ -27,8 +27,8 @@ dv_is_same_as:
   - '[GlobalFoundries.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.private)'
   - '[GlobalFoundries.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.personal)'
   - '[GlobalFoundries.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.secret)'
+has_id_wikidata: Q691592
 ---
-
 # [[GlobalFoundries]] 
 
 #is_/similar_to :: [[TSMC(Taiwan_Semiconductor)|TSMC(Taiwan_Semiconductor)]] 

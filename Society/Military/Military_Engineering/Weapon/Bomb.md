@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q127197
+---
+
 # [[Bomb]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Bomb,127197|WD~Bomb,127197]] 

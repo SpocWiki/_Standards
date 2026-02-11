@@ -2,8 +2,8 @@
 aliases:
   - Kale
   - Salat
+has_id_wikidata: Q45989
 ---
-
 # [[Kale]] 
 
 

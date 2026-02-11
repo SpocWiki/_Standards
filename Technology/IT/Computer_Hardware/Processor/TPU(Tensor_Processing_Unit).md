@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q25106376
+---
+
 
 TPUs are designed by [[../../../../Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google|Google]] specifically to optimally handle [[TensorFlow]] Workloads. 
 

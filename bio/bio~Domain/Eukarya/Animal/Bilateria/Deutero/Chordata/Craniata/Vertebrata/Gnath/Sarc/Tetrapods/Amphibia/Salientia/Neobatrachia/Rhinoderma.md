@@ -2,8 +2,8 @@
 aliases:
   - Rhinoderma
 title: Rhinoderma
+has_id_wikidata: Q1074141
 ---
-
 # [[Rhinoderma]]
 
 Darwin\'s Frogs 

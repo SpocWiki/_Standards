@@ -19,8 +19,8 @@ dv_is_same_as:
   - "[[/_private/Chemistry/Chemical_Element/Group-02-Earth-Alkaline.private|Group-02-Earth-Alkaline.private]]"
   - "[[/_personal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline.personal|Group-02-Earth-Alkaline.personal]]"
   - "[[/_secret/Chemistry/Chemical_Element/Group-02-Earth-Alkaline.secret|Group-02-Earth-Alkaline.secret]]"
+has_id_wikidata: Q19563
 ---
-
 #chemic/Group 
 
 2)[[Group-02-Earth-Alkaline/Beryllium]]]

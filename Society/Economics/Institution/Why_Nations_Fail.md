@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q7997840
+---
+
 
 # [[Why_Nations_Fail]] 
 

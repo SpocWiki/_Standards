@@ -2,8 +2,8 @@
 aliases:
   - Synapsida
 title: Synapsida
+has_id_wikidata: Q189069
 ---
-
 # [[Synapsida]]
 
 Mammals and their extinct relatives 

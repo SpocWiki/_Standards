@@ -2,8 +2,8 @@
 aliases:
   - Glomerida
 title: Glomerida
+has_id_wikidata: Q1365864
 ---
-
 # [[Glomerida]] 
 
 

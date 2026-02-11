@@ -2,8 +2,8 @@
 aliases:
   - Harpacticoida
 title: Harpacticoida
+has_id_wikidata: Q146286
 ---
-
 # [[Harpacticoida]] 
 ![Clytemnestra_scutellata](Harpacticoida/Clytemnestra_scutellata.jpg) 
 ## #has_/text_of_/abstract 

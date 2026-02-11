@@ -2,8 +2,8 @@
 aliases:
   - Katzenjammer Kids
   - Katzenjammer_Kids
+has_id_wikidata: Q1315973
 ---
-
 #has_/previous_/item :: [[Max_and_Moritz]] 
 
 ## #has_/text_of_/abstract 

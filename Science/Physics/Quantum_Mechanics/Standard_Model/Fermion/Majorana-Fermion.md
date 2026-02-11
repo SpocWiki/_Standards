@@ -2,8 +2,8 @@
 aliases:
   - Majorana particle
   - Majorana-Fermion
+has_id_wikidata: Q1065883
 ---
-
 ## #has_/text_of_/abstract 
 
 > In particle physics a Majorana fermion or Majorana particle is a fermion that is its own antiparticle. 

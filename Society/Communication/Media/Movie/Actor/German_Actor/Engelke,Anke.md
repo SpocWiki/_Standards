@@ -3,8 +3,8 @@ aliases:
   - Anke Christina Fischer
   - Anke Engelke
   - Engelke,Anke
+has_id_wikidata: Q77027
 ---
-
 #has_/time_/started :: 1965-12-21 
 #has_/time_/stopped ::   
 #has_/place_/started :: [[../../../../../../Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Montréal,Communauté]] 

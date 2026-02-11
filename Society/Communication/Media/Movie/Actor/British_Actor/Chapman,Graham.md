@@ -2,8 +2,8 @@
 aliases:
   - Graham Chapman
   - Chapman,Graham
+has_id_wikidata: Q24962
 ---
-
 # [[Chapman,Graham]] 
 
 #is_/member_/of :: [[Monty_Python]] 

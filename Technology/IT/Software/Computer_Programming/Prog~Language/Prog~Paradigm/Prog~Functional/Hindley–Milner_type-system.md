@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q200996
+---
+
 # [[Hindley–Milner_type-system]] 
 
 > A Hindley–Milner (HM) type system is a classical type system 

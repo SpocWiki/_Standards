@@ -2,8 +2,8 @@
 aliases:
   - Pelodryadinae
 title: Pelodryadinae
+has_id_wikidata: Q771067
 ---
-
 # [[Pelodryadinae]] 
 
 ## #has_/text_of_/abstract 

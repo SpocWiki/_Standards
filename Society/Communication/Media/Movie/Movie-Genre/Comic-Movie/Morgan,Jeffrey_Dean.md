@@ -3,8 +3,8 @@ aliases:
   - Jeffrey Dean Morgan
   - Morgan,Jeffrey_Dean
   - Morgan,Jeffrey Dean
+has_id_wikidata: Q342665
 ---
-
 # [[Morgan,Jeffrey_Dean]] 
 
 #is_a :: [[../../Actor/US_Actor|US_Actor]] 

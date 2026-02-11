@@ -2,8 +2,8 @@
 aliases:
   - Hyacinthaceae
 title: Hyacinthaceae
+has_id_wikidata: Q133292
 ---
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

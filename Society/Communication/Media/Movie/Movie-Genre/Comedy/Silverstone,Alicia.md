@@ -2,8 +2,8 @@
 aliases:
   - Alicia Silverstone
   - Silverstone,Alicia
+has_id_wikidata: Q199945
 ---
-
 #has_/time_/started :: 1976-10-04 
 
 ## #has_/text_of_/abstract 

@@ -18,8 +18,8 @@ dv_is_same_as:
   - "[[/_private/Chemistry/Alchemy.private|Alchemy.private]]"
   - "[[/_personal/Chemistry/Alchemy.personal|Alchemy.personal]]"
   - "[[/_secret/Chemistry/Alchemy.secret|Alchemy.secret]]"
+has_id_wikidata: Q39689
 ---
-
 # [[Alchemy]] 
 
 #is_/same_as :: [[../WikiData/WD~Alchemy,39689|WD~Alchemy,39689]] 

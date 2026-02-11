@@ -4,8 +4,8 @@ aliases:
   - American Werewolf
   - American_Werewolf_in_London
   - American Werewolf in London
+has_id_wikidata: Q467290
 ---
-
 ## #has_/text_of_/abstract 
 
 > **An American Werewolf in London** is a 1981 comedy horror film written and directed by [[../../music/Landis,John]]. 

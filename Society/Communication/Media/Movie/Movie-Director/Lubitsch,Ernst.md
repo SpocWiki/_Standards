@@ -3,8 +3,8 @@ aliases:
   - Ernst Lubitsch
   - Ernst_Lubitsch
   - Lubitsch,Ernst
+has_id_wikidata: Q51562
 ---
-
 # [[Lubitsch,Ernst]] 
 
 #is_/same_as :: 

@@ -3,8 +3,8 @@ aliases:
   - Marie Hamsun
   - Marie Andersen
   - Hamsun,Marie
+has_id_wikidata: Q470191
 ---
-
 # [[Hamsun,Marie]] 
 
 #has_/created :: [[Hamsun,Marie/Langerudkinder]] 

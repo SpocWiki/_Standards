@@ -2,8 +2,8 @@
 aliases:
   - Nitrospira
 title: Nitrospira
+has_id_wikidata: Q3024630
 ---
-
 # [[Nitrospira]] 
 
 #is_a/bio-Phylum  

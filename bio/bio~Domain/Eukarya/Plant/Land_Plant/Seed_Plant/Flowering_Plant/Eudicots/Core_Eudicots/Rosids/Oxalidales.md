@@ -2,8 +2,8 @@
 aliases:
   - Oxalidales
 title: Oxalidales
+has_id_wikidata: Q21891
 ---
-
 # [[Oxalidales]] 
 ![Albany pitcher plant, Cephalotus follicularis](Oxalidales/Cephalotus_follicularis.jpg)) ![Flower of the lantern tree, Crinodendron hookeranum](Oxalidales/Crinodendron_hookeranum.jpg) 
 

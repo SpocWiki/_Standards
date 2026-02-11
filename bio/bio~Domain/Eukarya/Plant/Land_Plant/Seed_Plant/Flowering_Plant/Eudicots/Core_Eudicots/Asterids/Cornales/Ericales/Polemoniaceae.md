@@ -2,8 +2,8 @@
 aliases:
   - Polemoniaceae
 title: Polemoniaceae
+has_id_wikidata: Q157168
 ---
-
 # [[Polemoniaceae]] 
 
 Phlox Family 

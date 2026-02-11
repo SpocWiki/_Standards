@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q265538
+---
+
 
 # [[World_Series]] 
 

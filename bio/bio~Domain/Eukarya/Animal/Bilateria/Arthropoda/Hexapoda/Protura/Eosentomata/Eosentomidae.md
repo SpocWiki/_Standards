@@ -2,8 +2,8 @@
 aliases:
   - Eosentomidae
 title: Eosentomidae
+has_id_wikidata: Q2352529
 ---
-
 # [[Eosentomidae]] 
 
 

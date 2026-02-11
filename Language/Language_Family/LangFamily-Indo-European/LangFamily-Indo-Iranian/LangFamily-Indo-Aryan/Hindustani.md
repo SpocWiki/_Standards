@@ -2,8 +2,8 @@
 aliases:
   - Hindi–Urdu
   - Hindustani
+has_id_wikidata: Q11051
 ---
-
 # [[Hindustani]] 
 
 #is_/same_as :: [[WikiData/WD~Hindustani,11051|WD~Hindustani,11051]] 

@@ -4,8 +4,8 @@ aliases:
   - Scholz,Tom
   - Donald Thomas Scholz
   - Thomas Scholz
+has_id_wikidata: Q984353
 ---
-
 # [[Scholz,Tom]] 
 
 ## #has_/text_of_/abstract  

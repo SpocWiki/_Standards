@@ -3,8 +3,8 @@ aliases:
   - John D. Carmack II
   - Carmack,John_D
   - Carmack,John D
+has_id_wikidata: Q92605
 ---
-
 #has_/time_/started :: 1970-08-21 
 #has_/created ::[[../id_Software]]] 
 #has_/created :: [[Wolfenstein 3D]] 

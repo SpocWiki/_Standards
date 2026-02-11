@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q223694
+---
+
 
 # [[War_Elephant]] 
 

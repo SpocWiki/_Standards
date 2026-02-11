@@ -2,8 +2,8 @@
 aliases:
   - Brachypauropodidae
 title: Brachypauropodidae
+has_id_wikidata: Q6502177
 ---
-
 # [[Brachypauropodidae]] 
 
 ## #has_/text_of_/abstract 

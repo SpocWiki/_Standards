@@ -6,8 +6,8 @@ aliases:
   - Schrödinger–Gordon equation
   - Klein-Gordon_Equation
   - Klein-Gordon Equation
+has_id_wikidata: Q868967
 ---
-
 # [[Klein-Gordon_Equation]] 
 
 The [[Klein-Gordon_Equation]] is deduced from the relativistic Relation 

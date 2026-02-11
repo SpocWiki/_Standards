@@ -2,8 +2,8 @@
 aliases:
   - Neornithes
 title: Neornithes
+has_id_wikidata: Q5113
 ---
-
 # [[Neornithes]]
 
 ## Modern Birds 

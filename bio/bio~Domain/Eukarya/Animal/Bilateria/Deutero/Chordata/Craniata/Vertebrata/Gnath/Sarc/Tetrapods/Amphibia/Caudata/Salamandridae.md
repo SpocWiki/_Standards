@@ -2,8 +2,8 @@
 aliases:
   - Salamandridae
 title: Salamandridae
+has_id_wikidata: Q319469
 ---
-
 # [[Salamandridae]]
 
 ## Newts and \"True Salamanders\" 

@@ -3,8 +3,8 @@ aliases:
   - Notobatrachus_degiustoi
   - Notobatrachus degiustoi
 title: Notobatrachus degiustoi
+has_id_wikidata: Q7063124
 ---
-
 # Notobatrachus degiustoi 
 
 ## #has_/text_of_/abstract 

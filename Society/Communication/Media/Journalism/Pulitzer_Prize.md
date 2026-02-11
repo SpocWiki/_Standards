@@ -2,8 +2,8 @@
 aliases:
   - Pulitzer Prize
   - Pulitzer_Prize
+has_id_wikidata: Q46525
 ---
-
 ## #has_/text_of_/abstract 
 
 > The **Pulitzer Prize**s () are 23 annual awards given by Columbia University in New York 

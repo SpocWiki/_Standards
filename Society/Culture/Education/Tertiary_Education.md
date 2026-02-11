@@ -4,8 +4,8 @@ aliases:
   - higher education
   - post-secondary education
   - Higher_Education
+has_id_wikidata: Q9166713
 ---
-
 # [[Tertiary_Education]] 
 
 #is_/same_as :: [[WD~Higher_education,136822]] 

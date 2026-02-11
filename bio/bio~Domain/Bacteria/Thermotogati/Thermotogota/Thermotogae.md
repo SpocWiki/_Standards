@@ -2,8 +2,8 @@
 aliases:
   - Thermotogae
 title: Thermotogae
+has_id_wikidata: Q26869797
 ---
-
 # [[Thermotogae]] 
 
 

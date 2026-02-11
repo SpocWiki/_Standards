@@ -2,8 +2,8 @@
 aliases:
   - Balaenidae
 title: Balaenidae
+has_id_wikidata: Q782603
 ---
-
 # [[Balaenidae]]
 
 ## Right Whales 

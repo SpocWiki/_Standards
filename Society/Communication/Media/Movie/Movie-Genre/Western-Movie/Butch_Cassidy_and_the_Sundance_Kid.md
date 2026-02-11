@@ -2,8 +2,8 @@
 aliases:
   - Butch Cassidy and the Sundance Kid
   - Butch_Cassidy_and_the_Sundance_Kid
+has_id_wikidata: Q232000
 ---
-
 #has_/genre :: [ [[../../../../Genre/Fiction/Western(Genre)]], [[Buddy-Story]] ]
 
 

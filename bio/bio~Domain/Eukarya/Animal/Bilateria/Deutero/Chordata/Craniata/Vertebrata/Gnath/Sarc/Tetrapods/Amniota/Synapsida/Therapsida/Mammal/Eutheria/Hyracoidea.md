@@ -2,8 +2,8 @@
 aliases:
   - Hyracoidea
 title: Hyracoidea
+has_id_wikidata: Q53099
 ---
-
 # Hyracoidea
 
 ## Hyraxes or dassies 

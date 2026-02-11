@@ -2,8 +2,8 @@
 aliases:
   - Watt
   - Unit~Watt
+has_id_wikidata: Q25236
 ---
-
 # [[Unit~Watt]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Watt,25236|WD~Watt,25236]] 

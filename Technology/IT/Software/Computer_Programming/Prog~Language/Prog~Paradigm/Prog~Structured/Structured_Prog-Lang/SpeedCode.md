@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q7475416
+---
+
 # [[SpeedCode]] 
 
 #is_a_/ComputerLanguage 

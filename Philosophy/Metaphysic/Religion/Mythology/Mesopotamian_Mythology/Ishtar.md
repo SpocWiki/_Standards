@@ -2,8 +2,8 @@
 aliases:
   - Inanna
   - Ishtar
+has_id_wikidata: Q272523
 ---
-
 # [[Ishtar]]
 
 ## #has_/text_of_/abstract 

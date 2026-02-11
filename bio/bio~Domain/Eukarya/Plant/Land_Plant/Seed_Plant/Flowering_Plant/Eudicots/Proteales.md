@@ -2,8 +2,8 @@
 aliases:
   - Proteales
 title: Proteales
+has_id_wikidata: Q21838
 ---
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

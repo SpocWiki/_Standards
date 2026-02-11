@@ -2,8 +2,8 @@
 aliases:
   - Garryales
 title: Garryales
+has_id_wikidata: Q21761
 ---
-
 # [[Garryales]] 
 
 ![Garrya_fremontii](Garryales/Garrya_fremontii.jpg) 

@@ -6,8 +6,8 @@ aliases:
   - Darwin wasps
   - Schlupfwespe
   - Schlupfwespen 
+has_id_wikidata: Q1138186
 ---
-
 # [[Ichneumonidae]] 
 
 

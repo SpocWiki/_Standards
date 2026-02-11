@@ -2,8 +2,8 @@
 aliases:
   - Ambystomatidae
 title: Ambystomatidae
+has_id_wikidata: Q764529
 ---
-
 # [[Ambystomatidae]]
 
 Mole Salamanders 

@@ -3,8 +3,8 @@ aliases:
   - German writer
   - German_Writer
   - German Writer
+has_id_wikidata: Q947728
 ---
-
 # [[German_Writer]] 
 
 ## #has_/text_of_/abstract 

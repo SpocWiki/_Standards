@@ -18,8 +18,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Geology/Hydrology/Limnology.private|Limnology.private]]"
   - "[[/_personal/Earth/Geology/Hydrology/Limnology.personal|Limnology.personal]]"
   - "[[/_secret/Earth/Geology/Hydrology/Limnology.secret|Limnology.secret]]"
+has_id_wikidata: Q165838
 ---
-
 # [[Limnology]] 
 
 #is_/same_as :: [[WD~Limnology,165838]] 

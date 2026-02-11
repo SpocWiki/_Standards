@@ -2,8 +2,8 @@
 aliases:
   - Arandaspida
 title: Arandaspida
+has_id_wikidata: Q3621278
 ---
-
 # [[Arandaspida]]
 
 [Philippe Janvier](http://www.tolweb.org/) 

@@ -2,8 +2,8 @@
 aliases:
   - Manidae
 title: Manidae
+has_id_wikidata: Q9027425
 ---
-
 # [[Manidae]] 
 
 ## Pangolins and extinct relatives 

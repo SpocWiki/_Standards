@@ -2,8 +2,8 @@
 aliases:
   - Crossandra
 title: Crossandra
+has_id_wikidata: Q137288
 ---
-
 # [[Crossandra]] 
 
 ![Crossandra](Crossandra/crossandra.jpg) 

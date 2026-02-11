@@ -4,8 +4,8 @@ aliases:
   - Schmeling
   - Maximilian Adolph Otto Siegfried Schmeling
   - Schmeling,Max
+has_id_wikidata: Q77102
 ---
-
 # [[Schmeling,Max]] 
 
 #is_/same_as :: [[Max_Schmeling,]]

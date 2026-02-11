@@ -3,8 +3,8 @@ aliases:
   - Rhodophyta
   - Red Algae
 title: Rhodophyta
+has_id_wikidata: Q103169
 ---
-
 # [[Rhodophyta]]
 
 #is_a/bio-Kingdom 

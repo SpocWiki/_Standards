@@ -2,8 +2,8 @@
 aliases:
   - Keynesian economics
   - Keynesianism
+has_id_wikidata: Q83937
 ---
-
 #has_/previous_/item :: [[Capitalism]] 
 #has_/next_/item :: [[Neoliberalism]] 
 #has_/creator :: [[../../Economics/Economist/Keynes,John_Maynard|Keynes,John_Maynard]] 

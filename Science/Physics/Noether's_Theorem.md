@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q578555
+---
+
 
 # [[Noether's_Theorem]] 
 

@@ -2,8 +2,8 @@
 aliases:
   - Wiedomyini
 title: Wiedomyini
+has_id_wikidata: Q133373
 ---
-
 # Wiedomyini 
 
 ## #has_/text_of_/abstract 

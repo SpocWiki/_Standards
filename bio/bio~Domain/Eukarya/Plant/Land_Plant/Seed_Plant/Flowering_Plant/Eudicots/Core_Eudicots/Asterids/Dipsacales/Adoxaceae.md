@@ -2,8 +2,8 @@
 aliases:
   - Adoxaceae
 title: Adoxaceae
+has_id_wikidata: Q156677
 ---
-
 # [[Adoxaceae]] 
 
 

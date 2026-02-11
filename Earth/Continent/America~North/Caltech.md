@@ -16,8 +16,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Continent/America~North/Caltech.private|Caltech.private]]"
   - "[[/_personal/Earth/Continent/America~North/Caltech.personal|Caltech.personal]]"
   - "[[/_secret/Earth/Continent/America~North/Caltech.secret|Caltech.secret]]"
+has_id_wikidata: Q161562
 ---
-
 # [[Caltech]] 
 
 ## #has_/text_of_/abstract 

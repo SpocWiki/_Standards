@@ -3,8 +3,8 @@ aliases:
   - Kastanie
   - Chestnut
 has_id_wikidata: ''
+has_id_wikidata: Q129324
 ---
-
 # [[Chestnut]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~The_Chestnuts,26583003]] 

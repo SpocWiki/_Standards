@@ -2,8 +2,8 @@
 aliases:
   - Amphilinidea
 title: Amphilinidea
+has_id_wikidata: Q474864
 ---
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

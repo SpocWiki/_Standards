@@ -3,8 +3,8 @@ aliases:
   - Eucritta_melanolimnetes
   - Eucritta melanolimnetes
 title: Eucritta melanolimnetes
+has_id_wikidata: Q142587
 ---
-
 # [[Eucritta_melanolimnetes]]  
 
 ![Eucritta melanolimnetes](Eucritta_melanolimnetes/Eucritta.jpg) 

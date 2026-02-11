@@ -3,8 +3,8 @@ aliases:
   - Valentin Ludwig Fey
   - Karl Valentin
   - Valentin,Karl
+has_id_wikidata: Q45255
 ---
-
 #has_/created_/quote :: Jedes Problem hat drei Seiten: eine positive, eine negative und eine komische. 
 
 

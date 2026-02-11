@@ -5,8 +5,8 @@ aliases:
   - John Irving
   - John Wallace Blunt
   - Irving
+has_id_wikidata: Q310379
 ---
-
 # [[Irving,John]]
 
 #has_/time_/started :: 1942-03-02 

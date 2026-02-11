@@ -2,8 +2,8 @@
 aliases:
   - Cycadophyta
   - Cycad
+has_id_wikidata: Q157114
 ---
-
 # [[Cycad]] 
 
 

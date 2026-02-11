@@ -18,8 +18,8 @@ dv_is_same_as:
   - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.private|Ionization_Energy.private]]"
   - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.personal|Ionization_Energy.personal]]"
   - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.secret|Ionization_Energy.secret]]"
+has_id_wikidata: Q483769
 ---
-
 # [[Ionization_Energy]] 
 
 #is_/same_as :: [[WD~Ionization_energy,483769]] 

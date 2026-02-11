@@ -2,8 +2,8 @@
 aliases:
   - Brachiopoda
 title: Brachiopoda
+has_id_wikidata: Q178272
 ---
-
 # [[Brachiopoda]]
 
 ## Lamp shells 

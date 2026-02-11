@@ -18,8 +18,8 @@ dv_is_same_as:
   - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrolysis.private|Hydrolysis.private]]"
   - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrolysis.personal|Hydrolysis.personal]]"
   - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrolysis.secret|Hydrolysis.secret]]"
+has_id_wikidata: Q103135
 ---
-
 is_different_from = `=this.dv_is_different_from` 
 
 ## #has_/text_of_/abstract 

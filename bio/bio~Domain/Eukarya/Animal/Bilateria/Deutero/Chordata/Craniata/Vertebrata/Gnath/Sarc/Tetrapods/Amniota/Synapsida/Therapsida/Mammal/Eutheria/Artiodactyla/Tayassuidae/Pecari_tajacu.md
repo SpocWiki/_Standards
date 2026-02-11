@@ -3,8 +3,8 @@ aliases:
   - Pecari_tajacu
   - Pecari tajacu
 title: Pecari tajacu
+has_id_wikidata: Q125498219
 ---
-
 # Pecari tajacu
 
 ## collared peccary, javelina 

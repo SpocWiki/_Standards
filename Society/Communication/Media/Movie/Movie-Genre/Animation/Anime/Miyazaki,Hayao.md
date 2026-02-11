@@ -2,8 +2,8 @@
 aliases:
   - Hayao Miyazaki
   - Miyazaki,Hayao
+has_id_wikidata: Q55400
 ---
-
 #has_/time_/started :: 1941-01-05
 
 Miyazaki is a workoholic. 

@@ -2,8 +2,8 @@
 aliases:
   - Desmognathus
 title: Desmognathus
+has_id_wikidata: Q2698057
 ---
-
 # [[Desmognathus]] 
 
 ![Desmognathus fuscus](Desmognathus/Desmognathus_fuscus.jpg) 

@@ -2,8 +2,8 @@
 aliases:
   - John Travolta
   - Travolta,John
+has_id_wikidata: Q80938
 ---
-
 ## #has_/text_of_/abstract 
 
 > John Joseph Travolta (born February 18, 1954) is an American actor. 

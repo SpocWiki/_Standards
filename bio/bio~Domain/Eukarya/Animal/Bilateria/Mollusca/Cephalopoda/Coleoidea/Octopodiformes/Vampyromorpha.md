@@ -2,8 +2,8 @@
 aliases:
   - Vampyromorpha
 title: Vampyroteuthis infernalis
+has_id_wikidata: Q579822
 ---
-
 # [[Vampyromorpha]] 
 
 The Vampire Squid 

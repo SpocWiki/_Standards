@@ -2,8 +2,8 @@
 aliases:
   - Liliales
 title: Liliales
+has_id_wikidata: Q53478
 ---
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

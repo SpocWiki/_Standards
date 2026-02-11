@@ -2,8 +2,8 @@
 aliases:
   - Marc Forster
   - Forster,Marc
+has_id_wikidata: Q28497
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Marc Forster** (born 30 November 1969) is a German-Swiss filmmaker. 

@@ -2,8 +2,8 @@
 aliases:
   - Adenosine triphosphate
   - ATP
+has_id_wikidata: Q80863
 ---
-
 # [[ATP(adenosine_triphosphate)]] 
 
 

@@ -2,8 +2,8 @@
 aliases:
   - Anaspida
 title: Anaspida
+has_id_wikidata: Q132837
 ---
-
 # [[Anaspida]] 
 
 ![Pterygolepis nitidus fossil](Anaspida/pterygolepis.jpg)

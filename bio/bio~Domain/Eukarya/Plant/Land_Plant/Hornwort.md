@@ -3,8 +3,8 @@ aliases:
   - Anthocerotophyta
   - Hornwort
 title: Anthocerotophyta
+has_id_wikidata: Q191156
 ---
-
 # [[Hornwort]]
 
 Hornworts  

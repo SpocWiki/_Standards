@@ -4,8 +4,8 @@ aliases:
   - pine family
   - Pine
 title: Pinaceae
+has_id_wikidata: Q101680
 ---
-
 # [[Pine]] 
 
 Pine trees and relatives 

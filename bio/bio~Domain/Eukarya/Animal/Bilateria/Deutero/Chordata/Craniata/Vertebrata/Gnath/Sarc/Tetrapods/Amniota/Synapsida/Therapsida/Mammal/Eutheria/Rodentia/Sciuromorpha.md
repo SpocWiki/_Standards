@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q724477
+---
+
 
 #is_/same_as :: 
 ## #has_/text_of_/abstract 

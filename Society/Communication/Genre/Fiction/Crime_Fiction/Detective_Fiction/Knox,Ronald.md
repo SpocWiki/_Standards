@@ -2,8 +2,8 @@
 aliases:
   - Ronald Knox
   - Knox,Ronald
+has_id_wikidata: Q707945
 ---
-
 # [[Knox,Ronald]] 
 
 ## #has_/text_of_/abstract 

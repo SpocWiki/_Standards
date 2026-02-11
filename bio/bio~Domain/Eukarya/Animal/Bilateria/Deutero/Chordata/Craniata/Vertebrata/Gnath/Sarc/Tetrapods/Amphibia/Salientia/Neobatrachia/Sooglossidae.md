@@ -2,8 +2,8 @@
 aliases:
   - Sooglossidae
 title: Sooglossidae
+has_id_wikidata: Q56060
 ---
-
 # [[Sooglossidae]] 
 
 ## #has_/text_of_/abstract 

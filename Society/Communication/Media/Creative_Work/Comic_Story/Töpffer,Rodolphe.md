@@ -5,8 +5,8 @@ aliases:
   - Rodolphe_Töpffer
   - Töpffer
   - Töpffer,Rodolphe
+has_id_wikidata: Q4247
 ---
-
 #is_/same_as :: 
 
 ## #has_/text_of_/abstract 

@@ -4,8 +4,8 @@ aliases:
   - Emmanuel Macron
   - Emmanuel Jean-Michel Frédéric Macron
   - Macron,Emmanuel
+has_id_wikidata: Q3052772
 ---
-
 ## #has_/text_of_/abstract 
 
 > Emmanuel Jean-Michel Frédéric Macron ([emanɥɛl makʁɔ̃] ; born 21 December 1977) 

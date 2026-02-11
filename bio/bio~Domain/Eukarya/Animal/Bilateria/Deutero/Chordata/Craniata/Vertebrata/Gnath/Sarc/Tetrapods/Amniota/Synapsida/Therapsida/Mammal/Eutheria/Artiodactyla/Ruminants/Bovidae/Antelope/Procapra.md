@@ -2,8 +2,8 @@
 aliases:
   - Procapra
 title: Procapra
+has_id_wikidata: Q782492
 ---
-
 # [[Procapra]] 
 
 ## #has_/text_of_/abstract 

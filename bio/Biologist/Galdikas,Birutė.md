@@ -5,8 +5,8 @@ aliases:
   - Biruté Marija Filomena Galdikas
   - Biruté Mary Galdikas
   - Galdikas,Birutė
+has_id_wikidata: Q242680
 ---
-
 # [[Galdikas,Birutė]] 
 
 

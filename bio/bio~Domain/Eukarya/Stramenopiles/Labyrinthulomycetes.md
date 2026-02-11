@@ -2,8 +2,8 @@
 aliases:
   - Labyrinthulomycetes
 title: Labyrinthulomycetes
+has_id_wikidata: Q1148791
 ---
-
 # [[Labyrinthulomycetes]] 
 
 #is_a/bio-Phylum  

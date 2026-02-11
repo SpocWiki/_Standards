@@ -7,8 +7,8 @@ aliases:
   - wisdom hierarchy
   - data pyramid
   - information pyramid
+has_id_wikidata: Q2628489
 ---
-
 # [[Knowledge_Pyramid]] 
 
 #is_/same_as :: [[Knowledge Pyramid,]]

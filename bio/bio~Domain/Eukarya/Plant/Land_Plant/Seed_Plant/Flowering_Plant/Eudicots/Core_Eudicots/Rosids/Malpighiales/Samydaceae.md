@@ -2,8 +2,8 @@
 aliases:
   - Samydaceae
 title: Samydaceae
+has_id_wikidata: Q1845706
 ---
-
 # [[Samydaceae]] 
 
 ![Casearia arborea](Samydaceae/Casearia_arborea.jpg)  ![Casearia corymbosa](Samydaceae/Casearia_corymbosa-Leaf.jpg)  ![Casearia corymbosa](Samydaceae/Casearia_corymbosa-Fruit.jpg) 

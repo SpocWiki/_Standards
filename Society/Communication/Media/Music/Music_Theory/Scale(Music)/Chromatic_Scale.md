@@ -2,8 +2,8 @@
 aliases:
   - twelve-tone scale
   - 12-tone scale
+has_id_wikidata: Q202021
 ---
-
 # [[Chromatic_Scale]] 
 
 

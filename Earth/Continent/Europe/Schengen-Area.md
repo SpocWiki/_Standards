@@ -54,8 +54,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Continent/Europe/Schengen-Area.private|Schengen-Area.private]]"
   - "[[/_personal/Earth/Continent/Europe/Schengen-Area.personal|Schengen-Area.personal]]"
   - "[[/_secret/Earth/Continent/Europe/Schengen-Area.secret|Schengen-Area.secret]]"
+has_id_wikidata: Q1969730
 ---
-
 has_time_started = `=this.dv_has_time_started`
 
 > The **Schengen Area** (English:  SHENG-ən, Luxembourgish: [ˈʃæŋən] ) 

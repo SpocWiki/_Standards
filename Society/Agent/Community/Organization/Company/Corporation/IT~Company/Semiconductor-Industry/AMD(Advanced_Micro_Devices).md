@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q128896
+---
+
 
 # [[AMD(Advanced_Micro_Devices)]] 
 

@@ -3,8 +3,8 @@ aliases:
   - Zygnematales
   - Conjugatales
 title: Zygnematales
+has_id_wikidata: Q497859
 ---
-
 -   Spirogyra (Zygnemataceae)
 -   Penium (Peniaceae)
 -   Micrasterias (Desmidiaceae)

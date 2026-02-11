@@ -19,8 +19,8 @@ dv_is_same_as:
   - "[[/_private/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.private|Collecting.private]]"
   - "[[/_personal/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.personal|Collecting.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Intangible/Occupation/Leisure/Hobby/Collecting.secret|Collecting.secret]]"
+has_id_wikidata: Q208165
 ---
-
 # [[Collecting]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~collecting_hobby,12051052]] 

@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q1748985
+---
+
 
 # [[Pseudo-Scalar]] 
 

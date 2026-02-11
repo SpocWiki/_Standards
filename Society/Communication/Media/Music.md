@@ -30,8 +30,8 @@ tags:
   - excalidraw
 title: Music
 type: private_note
+has_id_wikidata: Q638
 ---
-
 # [[Music]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Music,638|WD~Music,638]] 

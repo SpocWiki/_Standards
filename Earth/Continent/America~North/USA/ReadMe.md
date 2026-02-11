@@ -77,8 +77,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Continent/America~North/USA/ReadMe.private|ReadMe.private]]"
   - "[[/_personal/Earth/Continent/America~North/USA/ReadMe.personal|ReadMe.personal]]"
   - "[[/_secret/Earth/Continent/America~North/USA/ReadMe.secret|ReadMe.secret]]"
+has_id_wikidata: Q30
 ---
-
 # United States of America 
 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`

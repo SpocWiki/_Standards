@@ -2,8 +2,8 @@
 aliases:
   - Sam Rockwell
   - Rockwell,Sam
+has_id_wikidata: Q316446
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Sam Rockwell** (born November 5, 1968) is an American actor. 

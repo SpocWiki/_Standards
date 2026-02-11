@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q730179
+---
+
 
 > **Toei Animation** Co., Ltd. 
 > (Japanese: 東映アニメーション株式会社, Hepburn: Tōei Animēshon Kabushiki-gaisha, ) 

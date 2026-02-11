@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q2096030
+---
+
 
 > Piccolino no Bōken (ピコリーノの冒険, Pikorīno no Bōken, lit. "Adventures of Pinocchio") 
 > is a 52-episode anime series by Nippon Animation first aired in 1976 

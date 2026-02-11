@@ -19,8 +19,8 @@ dv_is_same_as:
   - "[[/_private/Chemistry/Chemical_Element/Group-10-Nickel.private|Group-10-Nickel.private]]"
   - "[[/_personal/Chemistry/Chemical_Element/Group-10-Nickel.personal|Group-10-Nickel.personal]]"
   - "[[/_secret/Chemistry/Chemical_Element/Group-10-Nickel.secret|Group-10-Nickel.secret]]"
+has_id_wikidata: Q205253
 ---
-
 #chemic/Group 
 
 4)[[Group-10-Nickel/Nickel]]]

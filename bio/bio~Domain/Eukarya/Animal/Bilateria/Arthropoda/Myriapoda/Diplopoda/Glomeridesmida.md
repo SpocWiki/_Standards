@@ -3,8 +3,8 @@ aliases:
   - Glomeridesmus
   - Glomeridesmida
 title: Glomeridesmus
+has_id_wikidata: Q18228570
 ---
-
 # [[Glomeridesmus]]
 
 ## #has_/text_of_/abstract 

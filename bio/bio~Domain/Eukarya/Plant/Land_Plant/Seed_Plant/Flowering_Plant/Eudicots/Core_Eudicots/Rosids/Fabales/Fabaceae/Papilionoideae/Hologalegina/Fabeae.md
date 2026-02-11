@@ -2,8 +2,8 @@
 aliases:
   - Vicieae
   - Fabeae
+has_id_wikidata: Q137280
 ---
-
 ## #has_/text_of_/abstract 
 
 > The tribe Fabeae (sometimes referred to as "**Vicieae**") is one of the subdivisions of the plant family Fabaceae. 

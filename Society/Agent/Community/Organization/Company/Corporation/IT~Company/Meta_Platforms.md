@@ -4,8 +4,8 @@ aliases:
   - TheFacebook
   - Meta_Platforms
   - Meta Platforms
+has_id_wikidata: Q380
 ---
-
 #has_/created :: [[Meta_Platforms/Facebook]] 
 #has_/created ::[[../../../../../../../../IT/HardWare/Wearables/AR(Augmented_Reality_Glasses)/Meta~Orion]]] 
 

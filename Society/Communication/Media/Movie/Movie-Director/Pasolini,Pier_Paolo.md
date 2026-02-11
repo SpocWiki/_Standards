@@ -5,8 +5,8 @@ aliases:
   - Pasolini
   - Pasolini,Pier_Paolo
   - Pasolini,Pier Paolo
+has_id_wikidata: Q25120
 ---
-
 # [[Pasolini,Pier_Paolo]] 
 
 

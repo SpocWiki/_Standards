@@ -30,8 +30,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Continent/Asia/Asia~West/Abraham-Accords.private|Abraham-Accords.private]]"
   - "[[/_personal/Earth/Continent/Asia/Asia~West/Abraham-Accords.personal|Abraham-Accords.personal]]"
   - "[[/_secret/Earth/Continent/Asia/Asia~West/Abraham-Accords.secret|Abraham-Accords.secret]]"
+has_id_wikidata: Q99495661
 ---
-
 # [[Abraham-Accords]] 
 
 

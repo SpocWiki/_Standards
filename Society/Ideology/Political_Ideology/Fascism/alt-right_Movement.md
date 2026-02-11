@@ -4,8 +4,8 @@ aliases:
   - alt-right Movement
   - alt-right
   - alt-right_Movement
+has_id_wikidata: Q23018230
 ---
-
 ## #has_/text_of_/abstract 
 
 > The **alt-right** (abbreviated from alternative right) is a far-right, white nationalist movement. 

@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q17285
+---
+
 
 # [[Euclidean_Plane]] 
 

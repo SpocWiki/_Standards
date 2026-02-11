@@ -19,8 +19,8 @@ dv_is_same_as:
   - "[[/_private/Chemistry/Chemical_Element/Group-09-Cobalt.private|Group-09-Cobalt.private]]"
   - "[[/_personal/Chemistry/Chemical_Element/Group-09-Cobalt.personal|Group-09-Cobalt.personal]]"
   - "[[/_secret/Chemistry/Chemical_Element/Group-09-Cobalt.secret|Group-09-Cobalt.secret]]"
+has_id_wikidata: Q208107
 ---
-
 #chemic/Group 
 
 4) [[Group-09-Cobalt/Cobalt]]]

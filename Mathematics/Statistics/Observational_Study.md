@@ -4,8 +4,8 @@ aliases:
   - Observational study
   - Observational_Study
   - Observational Study
+has_id_wikidata: Q818574
 ---
-
 # [[Observational_Study]] 
 
 #is_/different_from :: [[Experiment]] 

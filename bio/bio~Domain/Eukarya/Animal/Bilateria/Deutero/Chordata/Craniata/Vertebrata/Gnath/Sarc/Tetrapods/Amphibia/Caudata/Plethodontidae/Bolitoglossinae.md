@@ -23,8 +23,8 @@ dv_is_same_as:
   - "[[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.personal|Bolitoglossinae.personal]]"
   - "[[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.secret|Bolitoglossinae.secret]]"
 dv_specimen_condition: Live Specimen
+has_id_wikidata: Q3077933
 ---
-
 # [[Bolitoglossinae]] 
 
 ![Bolitoglossa lincolni](Bolitoglossinae/Bolitoglossa_lincolni.jpg) 

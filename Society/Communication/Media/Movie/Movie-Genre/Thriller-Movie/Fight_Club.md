@@ -2,8 +2,8 @@
 aliases:
   - Fight Club
   - Fight_Club
+has_id_wikidata: Q190050
 ---
-
 ## #has_/text_of_/abstract 
 
 > **fight club** is a 1999 American film directed by David Fincher 

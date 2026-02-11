@@ -2,8 +2,8 @@
 aliases:
   - Lemuridae
 title: Lemuridae
+has_id_wikidata: Q186462
 ---
-
 # [[Lemuridae]] 
 
 ![ ](Lemuridae/Sportive_lemur_Lepilemur.jpg)![ ](Lemuridae/CROWNE~2.JPG) 

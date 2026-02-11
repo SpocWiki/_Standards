@@ -7,8 +7,8 @@ aliases:
   - Pinophyta
   - Conifers
 title: Conifers
+has_id_wikidata: Q132825
 ---
-
 # [[Conifers]] 
 
  ![Pinus resinosa](Conifers/Pinus_resinosa1301047.jpg)  ![Podocarpus](Conifers/Podocarpus4342.jpg)  ![California Incense Cedar](Conifers/Libocedrus_decurrens0069.jpg)

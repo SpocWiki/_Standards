@@ -5,8 +5,8 @@ aliases:
   - zubr
   - European buffalo
   - Wisent
+has_id_wikidata: Q81091
 ---
-
 # [[Wisent]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Bison_bonasus,81091|WD~Bison_bonasus,81091]]  

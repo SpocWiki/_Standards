@@ -2,8 +2,8 @@
 aliases:
   - Jain Dharma
   - Jainism
+has_id_wikidata: Q9232
 ---
-
 # [[Jainism]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Jainism,9232|WD~Jainism,9232]] 

@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q21564971
+---
+
 
 #is_/similar_to :: [[../../../Society/Communication/Genre/Fiction/Science_Fiction/Hyperion(Simmons_novel)]] 
 

@@ -2,8 +2,8 @@
 aliases:
   - Pauline Kael
   - Kael,Pauline
+has_id_wikidata: Q436910
 ---
-
 #has_/time_/started :: 1919-06-19 
 #has_/time_/stopped :: 2001-09-03 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

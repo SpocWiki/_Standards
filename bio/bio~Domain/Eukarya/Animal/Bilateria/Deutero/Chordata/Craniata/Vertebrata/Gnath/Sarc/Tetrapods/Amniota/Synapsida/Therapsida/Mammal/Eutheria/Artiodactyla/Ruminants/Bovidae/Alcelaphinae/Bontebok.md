@@ -3,8 +3,8 @@ aliases:
   - Damaliscus pygargus
   - Bontebok
 title: Damaliscus pygargus
+has_id_wikidata: Q1009881
 ---
-
 # [[Bontebok]] 
 
 ![ ](243614700_b757a29021_b.jpg)

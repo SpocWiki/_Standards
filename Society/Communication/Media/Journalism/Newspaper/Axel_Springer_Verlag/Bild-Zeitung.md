@@ -2,8 +2,8 @@
 aliases:
   - BILD
   - Bild-Zeitung
+has_id_wikidata: Q156203
 ---
-
 ## #has_/text_of_/abstract 
 
 > Bild (German: [bɪlt] , lit. 'Picture') or **Bild-Zeitung** (German: [ˈbɪltˌt͡saɪ̯tʊŋ] , lit. 'Picture Newspaper') 

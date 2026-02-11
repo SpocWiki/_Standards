@@ -2,8 +2,8 @@
 aliases:
   - Neotragus
 title: Neotragus
+has_id_wikidata: Q2365071
 ---
-
 # [[Neotragus]] 
 
 ![Suni (Neotragus moschatus), Kenya](Neotragus/suni.jpg) 

@@ -2,8 +2,8 @@
 aliases:
   - Heinrich Kleisli
   - Kleisli,Heinrich
+has_id_wikidata: Q14492165
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Heinrich Kleisli** (; October 19, 1930 – April 5, 2011) was a Swiss mathematician.  

@@ -2,8 +2,8 @@
 aliases:
   - Acanthaceae
 title: Acanthaceae
+has_id_wikidata: Q53475
 ---
-
 # [[Acanthaceae]] 
 
 ![Carlowrightiahintonii](Acanthaceae/Carlowrightia_hintonii.jpg) 

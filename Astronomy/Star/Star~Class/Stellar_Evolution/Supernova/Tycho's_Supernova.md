@@ -27,8 +27,8 @@ dv_is_same_as:
   - "[[/_private/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.private|Tycho's_Supernova.private]]"
   - "[[/_personal/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.personal|Tycho's_Supernova.personal]]"
   - "[[/_secret/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.secret|Tycho's_Supernova.secret]]"
+has_id_wikidata: Q554280
 ---
-
 has_time_started = `=this.dv_has_time_started` 
 # [[Tycho's_Supernova]] 
 

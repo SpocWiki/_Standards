@@ -3,8 +3,8 @@ aliases:
   - Double-stranded_DNA_Virus
   - Double-stranded DNA Virus
 title: Double-stranded DNA Viruses
+has_id_wikidata: Q858790
 ---
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

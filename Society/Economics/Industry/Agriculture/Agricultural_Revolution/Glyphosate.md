@@ -1,8 +1,8 @@
 ---
 aliases:
 - Roundup
+has_id_wikidata: Q407232
 ---
-
 ## Detergents as a Source of  Glyphosate 
 
 [[Phosphonate]]s can be a source of [[Glyphosate]]-compounds. 

@@ -3,8 +3,8 @@ aliases:
   - Quantum of Solace
   - Quantum_of_Solace,2008
   - Quantum of Solace,2008
+has_id_wikidata: Q181540
 ---
-
 #has_/time_/started :: 2008-10-29 
 
 ## #has_/text_of_/abstract 

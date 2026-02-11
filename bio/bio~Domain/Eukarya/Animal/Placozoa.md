@@ -2,8 +2,8 @@
 aliases:
   - Placozoa
 title: Placozoa
+has_id_wikidata: Q131040
 ---
-
 # [[Placozoa]] 
 
 #is_a/bio-Phylum  

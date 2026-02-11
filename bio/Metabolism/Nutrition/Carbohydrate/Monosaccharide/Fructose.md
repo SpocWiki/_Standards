@@ -3,8 +3,8 @@ aliases:
   - fruit sugar
   - Fruchtzucker
   - Fructose
+has_id_wikidata: Q122043
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Fructose**, or fruit sugar, is a ketonic simple sugar found in many plants, 

@@ -2,8 +2,8 @@
 aliases:
   - Alcelaphinae
 title: Alcelaphinae
+has_id_wikidata: Q615263
 ---
-
 # [[Alcelaphinae]]
 
 ## hartebeests, wildebeests, and sassabies 

@@ -2,8 +2,8 @@
 aliases:
   - Thelodonti
 title: Thelodonti
+has_id_wikidata: Q138088
 ---
-
 # [[Thelodonti]] 
 
 [Philippe Janvier](http://www.tolweb.org/)

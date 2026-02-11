@@ -2,8 +2,8 @@
 aliases:
   - Laurales
 title: Laurales
+has_id_wikidata: Q21801
 ---
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

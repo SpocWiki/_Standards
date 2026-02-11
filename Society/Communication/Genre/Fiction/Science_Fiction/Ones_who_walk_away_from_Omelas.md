@@ -3,8 +3,8 @@ aliases:
   - Ones Who walk away from Omelas
   - Ones_who_walk_away_from_Omelas
   - Ones who walk away from Omelas
+has_id_wikidata: Q7755107
 ---
-
 #has_/creator :: [[Le_Guin,Ursula_K.]] 
 
 ## #has_/text_of_/abstract 

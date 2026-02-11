@@ -2,8 +2,8 @@
 aliases:
   - The Sun
   - The_Sun
+has_id_wikidata: Q525
 ---
-
 ## #has_/text_of_/abstract 
 
 > **The Sun** is the star at the center of the Solar System. It is a massive, nearly perfect sphere of hot plasma, heated to incandescence by nuclear fusion reactions in its core, radiating the energy from its surface mainly as visible light and infrared radiation with 10% at ultraviolet energies. It is by far the most important source of energy for life on Earth. The Sun has been an object of veneration in many cultures. It has been a central subject for astronomical research since antiquity.

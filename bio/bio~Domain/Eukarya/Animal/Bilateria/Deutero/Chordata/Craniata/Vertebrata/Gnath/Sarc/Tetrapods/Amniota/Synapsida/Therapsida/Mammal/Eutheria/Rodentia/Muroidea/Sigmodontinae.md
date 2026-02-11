@@ -2,8 +2,8 @@
 aliases:
   - Sigmodontinae
 title: Sigmodontinae
+has_id_wikidata: Q133373
 ---
-
 # [[Sigmodontinae]] 
 
 ## Neotropical mice and rats 

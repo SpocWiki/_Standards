@@ -2,8 +2,8 @@
 aliases:
   - Proteidae
 title: Proteidae
+has_id_wikidata: Q743692
 ---
-
 # [[Proteidae]] 
 
 Mudpuppies, waterdogs 

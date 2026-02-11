@@ -20,8 +20,8 @@ dv_is_same_as:
   - "[[/_private/Chemistry/Inorganic_Chemistry/Silicon_Carbide.private|Silicon_Carbide.private]]"
   - "[[/_personal/Chemistry/Inorganic_Chemistry/Silicon_Carbide.personal|Silicon_Carbide.personal]]"
   - "[[/_secret/Chemistry/Inorganic_Chemistry/Silicon_Carbide.secret|Silicon_Carbide.secret]]"
+has_id_wikidata: Q412356
 ---
-
 # [[Silicon_Carbide]] 
 
 ## #has_/text_of_/abstract 

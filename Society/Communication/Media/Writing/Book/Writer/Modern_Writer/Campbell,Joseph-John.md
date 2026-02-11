@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q295516
+---
+
 
 # [[Campbell,Joseph-John]] 
 

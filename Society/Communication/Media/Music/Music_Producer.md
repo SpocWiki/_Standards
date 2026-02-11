@@ -3,10 +3,8 @@ aliases:
   - record producer
   - Music Producer
   - Music_Producer
+has_id_wikidata: Q183945
 ---
-
-
-
 ## #has_/text_of_/abstract 
 
 > A record producer or **Music Producer** is a music-creating project's overall supervisor 

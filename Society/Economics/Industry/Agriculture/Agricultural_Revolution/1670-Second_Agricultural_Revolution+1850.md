@@ -40,8 +40,8 @@ tags:
   - Revolution
 title: British Agricultural Revolution
 type: private_note
+has_id_wikidata: Q18293488
 ---
-
 # [[1670-Second_Agricultural_Revolution+1850]] 
 
 #is_/part_of :: [[../../../Knowledge/Economy/Agricultural_Revolution]] 

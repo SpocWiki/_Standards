@@ -2,8 +2,8 @@
 aliases:
   - United Nations Observer
   - United_Nations_Observer
+has_id_wikidata: Q219082
 ---
-
 ## #has_/text_of_/abstract  
 
 > The United Nations General Assembly has granted observer status 

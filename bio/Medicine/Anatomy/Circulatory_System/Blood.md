@@ -7,8 +7,8 @@ aliases:
   - Blut
   - ''
   - Blood
+has_id_wikidata: Q7873
 ---
-
 # [[Blood]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Blood,7873|WD~Blood,7873]]

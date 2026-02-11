@@ -4,8 +4,8 @@ aliases:
   - Limulus polyphemus
   - Limulus_polyphemus
 title: Limulus polyphemus
+has_id_wikidata: Q1133152
 ---
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

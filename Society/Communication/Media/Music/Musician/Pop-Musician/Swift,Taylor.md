@@ -2,8 +2,8 @@
 aliases:
   - Taylor Swift
   - Swift,Taylor
+has_id_wikidata: Q26876
 ---
-
 ## #has_/text_of_/abstract 
 
 > Taylor Alison Swift (born December 13, 1989) is an American singer-songwriter. 

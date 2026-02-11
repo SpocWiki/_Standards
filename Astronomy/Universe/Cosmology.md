@@ -18,8 +18,8 @@ dv_is_same_as:
   - "[[/_private/Astronomy/Universe/Cosmology.private|Cosmology.private]]"
   - "[[/_personal/Astronomy/Universe/Cosmology.personal|Cosmology.personal]]"
   - "[[/_secret/Astronomy/Universe/Cosmology.secret|Cosmology.secret]]"
+has_id_wikidata: Q338
 ---
-
 # [[Cosmology]] 
 
 #is_/same_as :: [[../../WikiData/WD~Cosmology,338|WD~Cosmology,338]] 

@@ -2,8 +2,8 @@
 aliases:
   - Clubionidae
 title: Clubionidae
+has_id_wikidata: Q8634
 ---
-
 # [[Clubionidae]] 
 
 ![Chiracanthium](Clubionidae/Chiracanthium_sp_face.jpg) 

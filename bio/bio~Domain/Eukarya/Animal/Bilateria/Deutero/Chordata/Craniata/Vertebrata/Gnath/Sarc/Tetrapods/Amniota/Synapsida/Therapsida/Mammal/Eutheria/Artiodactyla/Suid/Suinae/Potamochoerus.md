@@ -2,8 +2,8 @@
 aliases:
   - Potamochoerus
 title: Potamochoerus
+has_id_wikidata: Q632928
 ---
-
 # [[Potamochoerus]] 
 ![ ](Potamochoerus/126136127_3fa04e5125_o.jpg) 
 ![](Potamochoerus/bushpig.jpg)

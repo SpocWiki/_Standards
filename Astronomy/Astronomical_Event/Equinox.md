@@ -23,8 +23,8 @@ dv_is_same_as:
   - "[[/_private/Astronomy/Astronomical_Event/Equinox.private|Equinox.private]]"
   - "[[/_personal/Astronomy/Astronomical_Event/Equinox.personal|Equinox.personal]]"
   - "[[/_secret/Astronomy/Astronomical_Event/Equinox.secret|Equinox.secret]]"
+has_id_wikidata: Q1315
 ---
-
 # [[Equinox]] 
 
 #is_/same_as :: [[../../WikiData/WD~Equinox,1315|WD~Equinox,1315]] 

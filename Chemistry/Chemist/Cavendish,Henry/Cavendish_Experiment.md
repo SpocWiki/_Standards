@@ -20,8 +20,8 @@ dv_is_same_as:
   - "[[/_private/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.private|Cavendish_Experiment.private]]"
   - "[[/_personal/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.personal|Cavendish_Experiment.personal]]"
   - "[[/_secret/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.secret|Cavendish_Experiment.secret]]"
+has_id_wikidata: Q18370
 ---
-
 # [[Cavendish_Experiment]] 
 
 ## #has_/text_of_/abstract 

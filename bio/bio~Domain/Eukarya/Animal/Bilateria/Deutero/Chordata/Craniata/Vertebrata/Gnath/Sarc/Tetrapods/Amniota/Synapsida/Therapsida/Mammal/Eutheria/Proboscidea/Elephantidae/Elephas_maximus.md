@@ -3,8 +3,8 @@ aliases:
   - Elephas_maximus
   - Elephas maximus
 title: Elephas maximus
+has_id_wikidata: Q133006
 ---
-
 # Elephas maximus
 
 ## Asian Elephant, Indian Elephant 

@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q432492
+---
+
 
 # [[National_Semiconductor]] 
 

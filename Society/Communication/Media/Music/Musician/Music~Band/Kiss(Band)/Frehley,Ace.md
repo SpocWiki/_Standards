@@ -2,8 +2,8 @@
 aliases:
   - Ace Frehley
   - Frehley,Ace
+has_id_wikidata: Q319610
 ---
-
 #has_/time_/started :: 1951-04-27 
 
 > Paul Daniel "Ace" Frehley (; born 1951-04-27) is an American musician 

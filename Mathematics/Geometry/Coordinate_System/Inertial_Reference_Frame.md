@@ -6,8 +6,8 @@ aliases:
   - Galilean reference frame
   - Inertial_Reference_Frame
   - Inertial Reference Frame
+has_id_wikidata: Q192735
 ---
-
 # [[Inertial_Reference_Frame]] 
 
 #is_/same_as :: [[wd inertial reference frame]]

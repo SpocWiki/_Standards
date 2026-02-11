@@ -5,8 +5,8 @@ aliases:
   - Gianlorenzo Bernini
   - Bernini,Gian_Lorenzo
   - Bernini,Gian Lorenzo
+has_id_wikidata: Q160538
 ---
-
 #has_/time_/started ::  1598-12-07
 #has_/time_/stopped  ::  1680-11-28 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

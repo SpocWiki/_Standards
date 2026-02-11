@@ -3,8 +3,8 @@ aliases:
   - echinoderm
   - Echinodermata
 title: Echinodermata
+has_id_wikidata: Q44631
 ---
-
 # [[Echinodermata]]
 
 Spiny-skinned animals: sea urchins, starfish, and their allies 

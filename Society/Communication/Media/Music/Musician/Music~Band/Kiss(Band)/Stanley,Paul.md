@@ -2,8 +2,8 @@
 aliases:
   - Paul Stanley
   - Stanley,Paul
+has_id_wikidata: Q295542
 ---
-
 #has_/time_/started :: 1952-01-20 
 
 > **Paul Stanley** (born Stanley Bert Eisen; 1952-01-20) is an American musician 

@@ -1,8 +1,8 @@
 ---
 aliases:
   - Cranberries
+has_id_wikidata: Q483810
 ---
-
 # [[Cranberries(Band)]] 
 
 #is_/same_as :: 

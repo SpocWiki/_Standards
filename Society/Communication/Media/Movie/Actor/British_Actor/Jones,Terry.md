@@ -3,8 +3,8 @@ aliases:
   - Terry Jones
   - Terence Graham Parry Jones
   - Jones,Terry
+has_id_wikidata: Q166159
 ---
-
 # [[Jones,Terry]] 
 
 #is_/member_/of :: [[Monty_Python]] 

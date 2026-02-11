@@ -4,9 +4,8 @@ aliases:
   - Kharon
   - Χάρων
   - Charon(Mythology)
+has_id_wikidata: Q6612
 ---
-
-
 ## #has_/text_of_/abstract 
 
 > In Greek mythology, **Charon** or Kharon (  KAIR-on, -⁠ən; Ancient Greek: Χάρων 

@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q2115796
+---
+
 
 # [[Pseudo-Tensor]] 
 

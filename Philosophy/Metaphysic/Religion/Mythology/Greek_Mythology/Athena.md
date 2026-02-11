@@ -7,8 +7,8 @@ aliases:
   - Polias
   - Athena Promachos
   - Athena Parthenos
+has_id_wikidata: Q37122
 ---
-
 # [[Athena]] 
 
 #is_/same_as :: 

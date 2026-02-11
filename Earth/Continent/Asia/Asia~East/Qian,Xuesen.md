@@ -28,8 +28,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Continent/Asia/Asia~East/Qian,Xuesen.private|Qian,Xuesen.private]]"
   - "[[/_personal/Earth/Continent/Asia/Asia~East/Qian,Xuesen.personal|Qian,Xuesen.personal]]"
   - "[[/_secret/Earth/Continent/Asia/Asia~East/Qian,Xuesen.secret|Qian,Xuesen.secret]]"
+has_id_wikidata: Q333500
 ---
-
 # [[Qian,Xuesen]] 
 
 has_time_started = `=this.dv_has_time_started`

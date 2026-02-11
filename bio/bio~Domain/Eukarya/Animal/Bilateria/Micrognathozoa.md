@@ -3,8 +3,8 @@ aliases:
   - Micrognathozoa
   - Limnognathia
 title: Limnognathia maerski
+has_id_wikidata: Q18636218
 ---
-
 ## [[Micrognathozoa]] 
 
 

@@ -3,8 +3,8 @@ aliases:
   - Coronavirus
   - SARS-CoV-2
   - COVID-19
+has_id_wikidata: Q84263196
 ---
-
 #has_/time_/started :: 2019-12 
 #has_/time_/stopped :: 2022-12 
 

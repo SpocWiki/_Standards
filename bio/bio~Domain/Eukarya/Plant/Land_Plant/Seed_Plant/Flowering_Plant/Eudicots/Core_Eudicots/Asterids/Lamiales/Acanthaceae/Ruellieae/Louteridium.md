@@ -2,8 +2,8 @@
 aliases:
   - Louteridium
 title: Louteridium
+has_id_wikidata: Q10320040
 ---
-
 # [[Louteridium]] 
 
 ![Louteridium_costaricense](Louteridium/Louteridium_costaricense.jpg) 

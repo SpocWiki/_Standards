@@ -2,8 +2,8 @@
 aliases:
   - Diapsida
 title: Diapsida
+has_id_wikidata: Q134688
 ---
-
 # [[Diapsida]] 
 
 Lizards, Sphenodon, crocodylians, birds, and their extinct relatives 

@@ -2,8 +2,8 @@
 aliases:
   - Julius Michael Johannes Maggi
   - Maggi,Julius
+has_id_wikidata: Q120355
 ---
-
 # [[Maggi,Julius]] 
 
 #has_/time_/started ::  1846-10-09 

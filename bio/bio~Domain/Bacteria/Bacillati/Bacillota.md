@@ -22,6 +22,7 @@ publishDate:
 tags:
   - excalidraw
 title:
+has_id_wikidata: Q25519942
 ---
 # [[Bacillota]] 
 

@@ -2,8 +2,8 @@
 aliases:
   - Reithrodon
 title: Reithrodon
+has_id_wikidata: Q910219
 ---
-
 # [[Reithrodon]]
 
 ## Reithrodontini, Coney rat 

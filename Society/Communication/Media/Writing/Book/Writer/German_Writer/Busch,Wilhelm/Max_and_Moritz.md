@@ -3,8 +3,8 @@ aliases:
   - Max und Moritz
   - Max_and_Moritz
   - Max and Moritz
+has_id_wikidata: Q316894
 ---
-
 #has_/creator :: [[../Busch,Wilhelm]] 
 
 ## #has_/text_of_/abstract 

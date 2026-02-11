@@ -2,8 +2,8 @@
 aliases:
   - Chactoidea
 title: Chactoidea
+has_id_wikidata: Q19125
 ---
-
 # [[Chactoidea]] 
 
 ## #has_/text_of_/abstract 

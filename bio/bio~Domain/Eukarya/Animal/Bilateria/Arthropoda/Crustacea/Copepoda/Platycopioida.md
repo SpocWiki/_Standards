@@ -2,8 +2,8 @@
 aliases:
   - Platycopioida
 title: Platycopioida
+has_id_wikidata: Q13656302
 ---
-
 # [[Platycopioida]]
 
 Platycopiidae 

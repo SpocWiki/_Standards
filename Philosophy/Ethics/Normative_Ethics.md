@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q1321845
+---
+
 
 # [[Normative_Ethics]] 
 

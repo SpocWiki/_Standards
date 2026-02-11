@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q839475
+---
+
 
 # [[Socratic_Method]]
 

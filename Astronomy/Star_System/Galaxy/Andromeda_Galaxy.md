@@ -23,8 +23,8 @@ dv_is_same_as:
   - "[[/_private/Astronomy/Star_System/Galaxy/Andromeda_Galaxy.private|Andromeda_Galaxy.private]]"
   - "[[/_personal/Astronomy/Star_System/Galaxy/Andromeda_Galaxy.personal|Andromeda_Galaxy.personal]]"
   - "[[/_secret/Astronomy/Star_System/Galaxy/Andromeda_Galaxy.secret|Andromeda_Galaxy.secret]]"
+has_id_wikidata: Q2469
 ---
-
 # [[Andromeda_Galaxy]] 
 
 

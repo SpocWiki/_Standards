@@ -18,8 +18,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Continent/Europe/Germanic_Peoples.private|Germanic_Peoples.private]]"
   - "[[/_personal/Earth/Continent/Europe/Germanic_Peoples.personal|Germanic_Peoples.personal]]"
   - "[[/_secret/Earth/Continent/Europe/Germanic_Peoples.secret|Germanic_Peoples.secret]]"
+has_id_wikidata: Q22633
 ---
-
 # [[Germanic_Peoples]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Germanic_peoples,22633|WD~Germanic_peoples,22633]] 

@@ -3,8 +3,8 @@ aliases:
   - Vieraella_herbsti
   - Vieraella herbsti
 title: Vieraella herbsti
+has_id_wikidata: Q2021524
 ---
-
 # Vieraella herbsti
 
 The Oldest True Frog 

@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q587531
+---
+
 
 #is_/similar_to :: Hypocrisy
 

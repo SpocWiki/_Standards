@@ -5,8 +5,8 @@ aliases:
   - nomenclatural rank
   - Taxon_Rank
   - Taxon Rank
+has_id_wikidata: Q427626
 ---
-
 # [[Taxon_Rank]] 
 
 #is_a_/class 

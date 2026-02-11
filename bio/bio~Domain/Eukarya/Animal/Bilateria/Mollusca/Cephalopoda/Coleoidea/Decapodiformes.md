@@ -2,8 +2,8 @@
 aliases:
   - Decapodiformes
 title: Decapodiformes
+has_id_wikidata: Q843338
 ---
-
 # [[Decapodiformes]] 
 
 Squids, cuttlefishes and their relatives 

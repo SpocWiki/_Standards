@@ -3,8 +3,8 @@ aliases:
   - Richard Attenborough
   - Richard Samuel Attenborough
   - Attenborough,Richard
+has_id_wikidata: Q51506
 ---
-
 #has_/sibling :: [[Attenborough,David]]
 
 #has_/time_/started :: 1923-08-29 

@@ -3,8 +3,8 @@ aliases:
   - Bryce Dallas Howard
   - Howard,Bryce_Dallas
   - Howard,Bryce Dallas
+has_id_wikidata: Q229775
 ---
-
 #has_/parent :: [[../../Movie-Directors/Howard,Ron|Howard,Ron]] 
 #has_/time_/started :: 1981-03-02 
 

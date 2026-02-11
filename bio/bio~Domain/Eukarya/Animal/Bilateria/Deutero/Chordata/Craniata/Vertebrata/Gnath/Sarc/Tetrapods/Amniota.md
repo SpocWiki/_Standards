@@ -2,8 +2,8 @@
 aliases:
   - Amniota
 title: Amniota
+has_id_wikidata: Q181537
 ---
-
 # [[Amniota]] 
 
 Mammals, reptiles (turtles, lizards, Sphenodon, crocodiles, birds) and their extinct relatives 

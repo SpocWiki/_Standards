@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q310899
+---
+
 
 #is_/different_from :: [[mRNA(messenger_RNA)]]  
 

@@ -2,8 +2,8 @@
 aliases:
   - Hyperoliidae
 title: Hyperoliidae
+has_id_wikidata: Q55476
 ---
-
 # [[Hyperoliidae]]
 
 Sedge and Bush Frogs 

@@ -2,8 +2,8 @@
 aliases:
   - Microgale
 title: Microgale
+has_id_wikidata: Q1773950
 ---
-
 # [[Microgale]]
 
 ## shrew tenrecs 

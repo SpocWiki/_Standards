@@ -5,8 +5,8 @@ aliases:
   - bulb onion
   - common onion
 has_id_wikidata: ''
+has_id_wikidata: Q23485
 ---
-
 # [[Onion]] 
 
 #is_/same_as :: [[wd~Onion,]]

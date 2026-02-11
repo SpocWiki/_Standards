@@ -4,8 +4,8 @@ aliases:
   - Grassmann algebra
   - Geometric_Algebra
   - Geometric Algebra
+has_id_wikidata: Q1186649
 ---
-
 # [[Geometric_Algebra]] 
 
 #has_/url_for_/content :: https://bivector.net/

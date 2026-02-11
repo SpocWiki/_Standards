@@ -16,8 +16,8 @@ dv_is_same_as:
   - "[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Dopamine.private|Dopamine.private]]"
   - "[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Dopamine.personal|Dopamine.personal]]"
   - "[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Dopamine.secret|Dopamine.secret]]"
+has_id_wikidata: Q170304
 ---
-
 # [[Dopamine]]
 
 

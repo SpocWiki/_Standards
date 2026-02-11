@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q796316
+---
+
 
 
 #is_a :: [[../../../../../Agent/Community/Organization/Company/Corporation|Corporation]] 

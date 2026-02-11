@@ -2,8 +2,8 @@
 aliases:
   - Umar
   - Umar ibn al-Khattab
+has_id_wikidata: Q8467
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Umar** ibn al-Khattab (Arabic: عُمَر بْن ٱلْخَطَّاب, romanized: ʿUmar ibn al-Khaṭṭāb; c. 582/583 – 644), 

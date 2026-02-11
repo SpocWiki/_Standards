@@ -18,8 +18,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Continent/Asia/Asia~South~East/Salween_River.private|Salween_River.private]]"
   - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Salween_River.personal|Salween_River.personal]]"
   - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Salween_River.secret|Salween_River.secret]]"
+has_id_wikidata: Q26422
 ---
-
 # [[Salween_River]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Salween_River,26422|WD~Salween_River,26422]]  

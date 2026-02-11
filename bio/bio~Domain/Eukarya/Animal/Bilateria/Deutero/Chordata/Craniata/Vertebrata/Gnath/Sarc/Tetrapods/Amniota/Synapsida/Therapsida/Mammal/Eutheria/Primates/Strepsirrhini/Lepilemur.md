@@ -2,8 +2,8 @@
 aliases:
   - Lepilemur
 title: Lepilemur
+has_id_wikidata: Q834470
 ---
-
 # [[Lepilemur]]
 
 ## Lepilemuridae: Sportive Lemurs, Weasel Lemurs 

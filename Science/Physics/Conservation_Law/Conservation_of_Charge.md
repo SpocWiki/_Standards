@@ -3,8 +3,8 @@ aliases:
   - Charge conservation
   - Conservation of Charge
   - Conservation_of_Charge
+has_id_wikidata: Q304054
 ---
-
 # [[Conservation_of_Charge]] 
 
 ## #has_/text_of_/abstract 

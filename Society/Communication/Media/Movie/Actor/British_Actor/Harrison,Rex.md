@@ -3,8 +3,8 @@ aliases:
   - Rex Harrison
   - Reginald Carey Harrison
   - Harrison,Rex
+has_id_wikidata: Q181887
 ---
-
 ## #has_/text_of_/abstract 
 
 > Sir Reginald Carey "Rex" Harrison (5 March 1908 – 2 June 1990) was an English actor. 

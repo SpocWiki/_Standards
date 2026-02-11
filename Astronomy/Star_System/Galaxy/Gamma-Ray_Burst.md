@@ -18,8 +18,8 @@ dv_is_same_as:
   - "[[/_private/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.private|Gamma-Ray_Burst.private]]"
   - "[[/_personal/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.personal|Gamma-Ray_Burst.personal]]"
   - "[[/_secret/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.secret|Gamma-Ray_Burst.secret]]"
+has_id_wikidata: Q22247
 ---
-
 # [[Gamma-Ray_Burst]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Gamma-ray_burst,22247|WD~Gamma-ray_burst,22247]] 

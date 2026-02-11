@@ -2,8 +2,8 @@
 aliases:
   - Piroplasmorida
 title: Piroplasmorida
+has_id_wikidata: Q1656634
 ---
-
 # [[Piroplasmorida]] 
 
 ![ ](Piroplasmorida/Babesia_microti.jpg)

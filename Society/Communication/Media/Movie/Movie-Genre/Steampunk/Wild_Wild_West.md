@@ -1,8 +1,8 @@
 ---
 aliases:
   - Wild Wild West
+has_id_wikidata: Q740528
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Wild Wild West** is a 1999 American steampunk Western film directed by Barry Sonnenfeld 

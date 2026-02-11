@@ -2,8 +2,8 @@
 aliases:
   - autonomous sensory meridian response
   - ASMR
+has_id_wikidata: Q4826866
 ---
-
 ## #has_/text_of_/abstract 
 
 > An autonomous sensory meridian response (**ASMR**) is a tingling sensation 

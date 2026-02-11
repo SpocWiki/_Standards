@@ -2,8 +2,8 @@
 aliases:
   - Neobatrachia
 title: Neobatrachia
+has_id_wikidata: Q134759
 ---
-
 # [[Neobatrachia]]
 
 "Higher" Frogs 

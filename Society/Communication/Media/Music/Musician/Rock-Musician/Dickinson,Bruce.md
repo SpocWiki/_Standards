@@ -3,8 +3,8 @@ aliases:
   - Paul Bruce Dickinson
   - Bruce Dickinson
   - Dickinson,Bruce
+has_id_wikidata: Q190151
 ---
-
 # [[Dickinson,Bruce]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Bruce_Dickinson,190151|WD~Bruce_Dickinson,190151]] 

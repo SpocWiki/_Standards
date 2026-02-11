@@ -4,8 +4,8 @@ aliases:
   - Blaualge
   - Cyanobacteria
 title: Cyanobacteria
+has_id_wikidata: Q93315
 ---
-
 # [[Cyanobacteria]] 
 
 #is_a/bio-Phylum  

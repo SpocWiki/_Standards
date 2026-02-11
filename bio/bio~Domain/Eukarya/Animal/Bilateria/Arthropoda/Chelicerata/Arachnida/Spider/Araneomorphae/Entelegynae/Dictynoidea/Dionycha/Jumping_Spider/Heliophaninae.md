@@ -3,8 +3,8 @@ aliases:
   - Heliophaninae
   - Chrysillini
 title: Heliophaninae
+has_id_wikidata: Q64768941
 ---
-
 # [[Heliophaninae]]
 
 ![ ](Heliophaninae/marchena.gif)

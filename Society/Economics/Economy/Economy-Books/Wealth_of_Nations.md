@@ -28,8 +28,8 @@ tags:
 - excalidraw
 title: Wealth_of_Nations
 type: private_note
+has_id_wikidata: Q233562
 ---
-
 # [[Wealth_of_Nations]] 
 
 #is_a :: [[../../../Communication/Media/Writing/Book|Book]] 

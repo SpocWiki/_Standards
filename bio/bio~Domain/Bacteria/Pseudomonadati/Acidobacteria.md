@@ -2,8 +2,8 @@
 aliases:
   - Acidobacteria
 title: Acidobacteria
+has_id_wikidata: Q73346630
 ---
-
 # [[Acidobacteria]] 
 
 #is_a/bio-Phylum  

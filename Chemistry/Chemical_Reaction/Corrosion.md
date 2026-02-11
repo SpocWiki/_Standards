@@ -18,8 +18,8 @@ dv_is_same_as:
   - "[[/_private/Chemistry/Chemical_Reaction/Corrosion.private|Corrosion.private]]"
   - "[[/_personal/Chemistry/Chemical_Reaction/Corrosion.personal|Corrosion.personal]]"
   - "[[/_secret/Chemistry/Chemical_Reaction/Corrosion.secret|Corrosion.secret]]"
+has_id_wikidata: Q137056
 ---
-
 # [[Corrosion]] 
 
 #is_/same_as :: [[../../WikiData/WD~Corrosion,137056|WD~Corrosion,137056]] 

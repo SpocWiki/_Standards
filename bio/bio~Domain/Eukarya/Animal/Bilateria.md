@@ -2,8 +2,8 @@
 aliases:
   - Bilateria
 title: Bilateria
+has_id_wikidata: Q5173
 ---
-
 # [[Bilateria]] 
 
 #is_a/bio-Phylum  

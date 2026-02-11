@@ -5,8 +5,8 @@ aliases:
   - Virtual-Method-Table
   - VMT(Virtual_Method_Table)
   - VMT(Virtual Method Table)
+has_id_wikidata: Q1755692
 ---
-
 ## #has_/text_of_/abstract 
 
 > In computer programming, a virtual method table (VMT), 

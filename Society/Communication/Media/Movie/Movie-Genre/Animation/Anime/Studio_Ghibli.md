@@ -2,8 +2,8 @@
 aliases:
   - Studio Ghibli
   - Studio_Ghibli
+has_id_wikidata: Q182950
 ---
-
 > Studio Ghibli, Inc. 
 > (Japanese: 株式会社スタジオジブリ, Hepburn: Kabushiki-gaisha Sutajio Jiburi) 
 > is a Japanese animation studio based in [[Koganei,Tokyo]]. 

@@ -2,8 +2,8 @@
 aliases:
   - 500 Days of Summer
   - 500_Days_of_Summer
+has_id_wikidata: Q154935
 ---
-
 # [[500_Days_of_Summer]] 
 
 > 500 Days of Summer is a 2009 American comedy-drama film directed by Marc Webb, 

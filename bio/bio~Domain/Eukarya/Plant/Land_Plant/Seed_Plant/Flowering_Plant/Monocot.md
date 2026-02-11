@@ -4,8 +4,8 @@ aliases:
   - monocots
   - Monocot
 title: Monocotyledons
+has_id_wikidata: Q78961
 ---
-
 # [[Monocot]] 
 
 ![Amorphophallus](Monocot/AmorphophallusF.jpg)  ![Hosta plantaginea](Monocot/Hosta_plantaginea.jpg)  ![Pandanus](Monocot/Pandanus.jpg) 

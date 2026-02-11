@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q705344
+---
+
 
 > Arabian Nights: Sinbad's Adventures 
 > (アラビアンナイト シンドバットの冒険, Arabian Naito: Shindobatto no Bōken) 

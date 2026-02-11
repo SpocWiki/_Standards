@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q109910
+---
+
 
 # [[Electron_Capture]] 
 

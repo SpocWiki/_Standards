@@ -27,8 +27,8 @@ dv_is_same_as:
   - "[[/_private/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Ethylene_Glycol.private|Ethylene_Glycol.private]]"
   - "[[/_personal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Ethylene_Glycol.personal|Ethylene_Glycol.personal]]"
   - "[[/_secret/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Ethylene_Glycol.secret|Ethylene_Glycol.secret]]"
+has_id_wikidata: Q194207
 ---
-
 # [[Ethylene_Glycol]] 
 
 has_formula_sum = `=this.dv_has_formula_sum` 

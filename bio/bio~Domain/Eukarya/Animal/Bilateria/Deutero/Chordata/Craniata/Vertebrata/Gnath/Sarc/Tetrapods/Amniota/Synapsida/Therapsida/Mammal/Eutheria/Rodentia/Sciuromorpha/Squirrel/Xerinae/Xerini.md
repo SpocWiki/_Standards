@@ -2,8 +2,8 @@
 aliases:
   - Xerini
 title: Xerini
+has_id_wikidata: Q894233
 ---
-
 # [[Xerini]]
 
 ## African ground squirrels 

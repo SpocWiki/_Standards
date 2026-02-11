@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q2251017
+---
+
 # [[Prog~BASIC]] 
 
 #is_a_/ComputerLanguage 

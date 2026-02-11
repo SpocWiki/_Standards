@@ -4,8 +4,8 @@ aliases:
   - Heinrich Christian Wilhelm Busch
   - Wilhelm_Busch
   - Busch,Wilhelm
+has_id_wikidata: Q109540
 ---
-
 # [[Busch,Wilhelm]] 
 
 #has_/time_/started ::  1832-04-14 

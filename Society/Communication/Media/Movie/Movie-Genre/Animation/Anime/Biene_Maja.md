@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q109832680
+---
+
 
 > Maya the Bee (German: Die Biene Maja) is the main character 
 > in The [[Adventures of Maya the Bee]], a German book written by Waldemar Bonsels 

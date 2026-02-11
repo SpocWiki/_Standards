@@ -2,8 +2,8 @@
 aliases:
   - Walt Disney Company
   - Walt_Disney_Company
+has_id_wikidata: Q7414
 ---
-
 ## #has_/text_of_/abstract 
 
 > The **Walt Disney Company** is an American multinational 

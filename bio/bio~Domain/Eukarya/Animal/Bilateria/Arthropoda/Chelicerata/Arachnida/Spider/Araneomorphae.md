@@ -2,8 +2,8 @@
 aliases:
   - Araneomorphae
 title: Araneomorphae
+has_id_wikidata: Q12084
 ---
-
 # [[Araneomorphae]] 
 ![ ](Araneomorphae/Dysdera_crocata.jpg) 
 ![Nephila_clavipes](Araneomorphae/Nephila_clavipes.jpg) 

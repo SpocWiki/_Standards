@@ -27,8 +27,8 @@ tags:
   - excalidraw
 title: Extraversion
 type: private_note
+has_id_wikidata: Q127588
 ---
-
 # [[Big5~X-Extraversion]] 
 
 #is_/part_of :: [[../Personality~Big5]] 

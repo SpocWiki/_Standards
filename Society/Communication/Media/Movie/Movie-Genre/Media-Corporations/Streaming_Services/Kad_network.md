@@ -2,8 +2,8 @@
 aliases:
   - Kad network
   - Kad_network
+has_id_wikidata: Q2620547
 ---
-
 ## #has_/text_of_/abstract 
 
 > The **Kad network** is a peer-to-peer (P2P) network 

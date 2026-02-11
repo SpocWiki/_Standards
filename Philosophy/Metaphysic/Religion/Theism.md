@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q620805
+---
+
 
 # [[Theism]] 
 

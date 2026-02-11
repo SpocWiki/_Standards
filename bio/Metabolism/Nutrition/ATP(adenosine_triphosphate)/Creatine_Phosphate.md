@@ -2,8 +2,8 @@
 aliases:
   - Phosphocreatine
   - Creatine phosphate
+has_id_wikidata: Q1984607
 ---
-
 # [[Creatine_Phosphate]] 
 
 ## #has_/text_of_/abstract 

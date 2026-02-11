@@ -2,8 +2,8 @@
 aliases:
   - Axel Springer Verlag
   - Axel_Springer_Verlag
+has_id_wikidata: Q163560
 ---
-
 Axel_Springer_Verlag
 
 ## #has_/text_of_/abstract 

@@ -3,8 +3,8 @@ aliases:
   - Kathryn Bigelow
   - Kathryn Ann Bigelow
   - Bigelow,Kathryn
+has_id_wikidata: Q34816
 ---
-
 # [[Bigelow,Kathryn]] 
 
 

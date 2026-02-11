@@ -5,8 +5,8 @@ aliases:
   - Zecke
   - Ticks
 title: Ixodida
+has_id_wikidata: Q10304508
 ---
-
 # [[Tick]] 
 
 Ticks probably exist unchanged since 350e6y. 

@@ -3,9 +3,8 @@ aliases:
   - Nobel laureate
   - Nobel_Laureate
   - Nobel Laureate
+has_id_wikidata: Q339619
 ---
-
-
 ## #has_/text_of_/abstract 
 
 > The Nobel Prizes (Swedish: Nobelpriset, Norwegian: Nobelprisen) 

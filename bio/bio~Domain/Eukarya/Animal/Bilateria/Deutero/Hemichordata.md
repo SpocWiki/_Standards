@@ -2,8 +2,8 @@
 aliases:
   - Hemichordata
 title: Hemichordata
+has_id_wikidata: Q174301
 ---
-
 # [[Hemichordata]] 
 
 Acorn worms and pterobranchs 

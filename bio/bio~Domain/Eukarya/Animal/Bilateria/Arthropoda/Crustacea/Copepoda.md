@@ -2,8 +2,8 @@
 aliases:
   - Copepoda
 title: Copepoda
+has_id_wikidata: Q189973
 ---
-
 # [[Copepoda]] 
 
 ![Corycaeus_venustus](Copepoda/Corycaeus_venustus.jpg) ![Augaptilus_filigerus](Copepoda/Augaptilus_filigerus.jpg)) ![Acontiophorus_scutatus](Copepoda/Acontiophorus_scutatus.jpg)) 

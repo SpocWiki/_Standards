@@ -4,8 +4,8 @@ aliases:
   - Nobelpriset i fysik
   - Physics_Nobel_Prize
   - Physics Nobel Prize
+has_id_wikidata: Q852317
 ---
-
 ## #has_/text_of_/abstract 
 
 > The Nobel Prize in Physics (Swedish: Nobelpriset i fysik) is awarded annually 

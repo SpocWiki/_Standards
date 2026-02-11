@@ -4,8 +4,8 @@ aliases:
   - Kohlberg Kravis Roberts
   - KKR(Kohlberg_Kravis_Roberts)
   - KKR(Kohlberg Kravis Roberts)
+has_id_wikidata: Q1570773
 ---
-
 ## #has_/text_of_/abstract 
 
 > **KKR** & Co. Inc., also known as Kohlberg Kravis Roberts & Co., 

@@ -5,8 +5,8 @@ aliases:
   - Nobelpriset i kemi
   - Chemistry_Nobel_Prize
   - Chemistry Nobel Prize
+has_id_wikidata: Q7564201
 ---
-
 ## #has_/text_of_/abstract 
 
 > The Nobel Prize in Chemistry (Swedish: Nobelpriset i kemi) is awarded annually 

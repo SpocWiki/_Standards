@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q3235669
+---
+
 
 # [[Arctoidea]] 
 

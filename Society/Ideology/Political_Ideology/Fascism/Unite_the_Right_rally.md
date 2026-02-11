@@ -2,8 +2,8 @@
 aliases:
   - Unite the Right rally
   - Unite_the_Right_rally
+has_id_wikidata: Q36248530
 ---
-
 #has_/time_/started :: 2017-08-11 
 #has_/time_/stopped  :: 2017-08-12 
 

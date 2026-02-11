@@ -5,8 +5,8 @@ aliases:
   - Smetana,Bedrich
   - Smetana,Bedřich
 has_id_wikidata: ''
+has_id_wikidata: Q48173
 ---
-
 # [[Smetana,Bedřich]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Bedřich_Smetana,48173|WD~Bedřich_Smetana,48173]] 

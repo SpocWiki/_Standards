@@ -2,8 +2,8 @@
 aliases:
   - Dave Grohl
   - Grohl,Dave
+has_id_wikidata: Q12006
 ---
-
 ## #has_/text_of_/abstract 
 
 > David Eric Grohl (; born January 14, 1969) is an American musician. 

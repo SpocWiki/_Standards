@@ -2,8 +2,8 @@
 aliases:
   - Dipsacales
 title: Dipsacales
+has_id_wikidata: Q21774
 ---
-
 # [[Dipsacales]] 
 
 

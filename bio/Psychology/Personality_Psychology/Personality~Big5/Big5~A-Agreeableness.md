@@ -29,8 +29,8 @@ tags:
   - excalidraw
 title: Verträglichkeit
 type: private_note
+has_id_wikidata: Q380358
 ---
-
 # [[Big5~A-Agreeableness]] 
 
 #is_/part_of :: [[../Personality~Big5]] 

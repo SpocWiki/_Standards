@@ -2,8 +2,8 @@
 aliases:
   - Eosentomata
 title: Eosentomata
+has_id_wikidata: Q271631
 ---
-
 # [[Eosentomata]] 
 
 ## #has_/text_of_/abstract 

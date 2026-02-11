@@ -2,8 +2,8 @@
 aliases:
   - Cassieae
 title: Cassieae sensu lato (pro parte)
+has_id_wikidata: Q157156
 ---
-
 # [[Cassieae]] sensu lato (pro parte) 
 
 ![Labichea_lanceolata](Cassieae/Labichea_lanceolata.jpg) 

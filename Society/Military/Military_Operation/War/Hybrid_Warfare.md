@@ -2,8 +2,8 @@
 aliases:
   - Hybrid Warfare
   - Hybrid War
+has_id_wikidata: Q5953349
 ---
-
 # [[Hybrid_Warfare]] 
 
 #has_parent_class 

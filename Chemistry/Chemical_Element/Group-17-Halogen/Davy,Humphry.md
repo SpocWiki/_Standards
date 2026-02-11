@@ -28,8 +28,8 @@ dv_is_same_as:
   - "[[/_private/Chemistry/Chemical_Element/Group-17-Halogen/Davy,Humphry.private|Davy,Humphry.private]]"
   - "[[/_personal/Chemistry/Chemical_Element/Group-17-Halogen/Davy,Humphry.personal|Davy,Humphry.personal]]"
   - "[[/_secret/Chemistry/Chemical_Element/Group-17-Halogen/Davy,Humphry.secret|Davy,Humphry.secret]]"
+has_id_wikidata: Q131761
 ---
-
 has_time_started = `=this.dv_has_time_started` 
 has_time_stopped = `=this.dv_has_time_stopped` 
 #has_/age_/years :: `$=Math.round(((dv.current().dv_has_time_stopped ?? new Date()) - dv.current().dv_has_time_started)/1000/60/60/24/365.2425)` 

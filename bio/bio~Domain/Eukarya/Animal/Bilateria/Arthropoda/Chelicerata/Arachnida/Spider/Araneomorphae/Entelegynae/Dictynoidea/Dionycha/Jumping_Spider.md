@@ -4,8 +4,8 @@ aliases:
   - Jumping Spider
   - Jumping_Spider
 title: Salticidae
+has_id_wikidata: Q11687
 ---
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

@@ -2,8 +2,8 @@
 aliases:
   - Arnold Vosloo
   - Vosloo,Arnold
+has_id_wikidata: Q297739
 ---
-
 #has_/time_/started :: 1962-06-16 
 
 ## #has_/text_of_/abstract 

@@ -2,8 +2,8 @@
 aliases:
   - Michael Madsen
   - Madsen,Michael
+has_id_wikidata: Q220584
 ---
-
 #is_/different_from :: [[Marsden,James]] 
 
 #has_/time_/started :: 1958-09-25 

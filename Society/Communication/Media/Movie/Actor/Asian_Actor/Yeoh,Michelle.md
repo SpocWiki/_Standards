@@ -4,8 +4,8 @@ aliases:
   - Michelle Yeoh
   - Michelle Yeoh Choo Kheng
   - Yeoh,Michelle
+has_id_wikidata: Q214289
 ---
-
 # [[Yeoh,Michelle]] 
 
 

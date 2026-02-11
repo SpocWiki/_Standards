@@ -5,6 +5,7 @@ aliases:
   - Илья́  Суцке́вер
   - Sutskever
   - Sutskever,Ilya
+has_id_wikidata: Q21712134
 ---
 # [[Sutskever,Ilya]] 
 

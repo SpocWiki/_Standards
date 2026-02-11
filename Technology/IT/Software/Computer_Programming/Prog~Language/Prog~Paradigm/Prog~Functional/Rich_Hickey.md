@@ -3,8 +3,8 @@ aliases:
   - Rich Hickey
   - Richard Hickey
   - Rich_Hickey
+has_id_wikidata: Q2094209
 ---
-
 # [[Rich_Hickey]]
 
 #is_a_/Person 

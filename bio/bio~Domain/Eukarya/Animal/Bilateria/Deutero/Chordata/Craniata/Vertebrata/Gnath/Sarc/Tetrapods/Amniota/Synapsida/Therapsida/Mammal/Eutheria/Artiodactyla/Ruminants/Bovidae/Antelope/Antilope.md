@@ -2,8 +2,8 @@
 aliases:
   - Antilope
 title: Antilope cervicapra
+has_id_wikidata: Q1416078
 ---
-
 # [[Antilope]]
 ![[Antilope/antilope.jpg]]] 
 

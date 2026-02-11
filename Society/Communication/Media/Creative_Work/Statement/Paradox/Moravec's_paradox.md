@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q2626581
+---
+
 
 # [[Moravec's_paradox]] 
 

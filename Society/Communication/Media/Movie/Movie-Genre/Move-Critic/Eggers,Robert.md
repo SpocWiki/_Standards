@@ -3,8 +3,8 @@ aliases:
   - Robert Eggers
   - Robert Houston Eggers
   - Eggers,Robert
+has_id_wikidata: Q20826736
 ---
-
 ## #has_/text_of_/abstract 
 
 > Robert Houston Eggers (born July 7, 1983) is an American filmmaker and production designer. 

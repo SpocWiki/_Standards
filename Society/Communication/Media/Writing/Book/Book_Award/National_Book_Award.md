@@ -3,8 +3,8 @@ aliases:
   - American Book Award
   - National Book Award
   - National_Book_Award
+has_id_wikidata: Q572316
 ---
-
 #has_/time_/started :: 1936-11-15 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)`
 

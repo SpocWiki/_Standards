@@ -2,8 +2,8 @@
 aliases:
   - Euneomys
 title: Euneomys
+has_id_wikidata: Q910113
 ---
-
 # Euneomys
 
 ## Patagonian chinchilla mice 

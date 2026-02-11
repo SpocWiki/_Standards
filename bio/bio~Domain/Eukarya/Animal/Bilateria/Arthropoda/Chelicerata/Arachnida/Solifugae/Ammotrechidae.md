@@ -2,8 +2,8 @@
 aliases:
   - Ammotrechidae
 title: Ammotrechidae
+has_id_wikidata: Q1952661
 ---
-
 # [[Ammotrechidae]] 
 
 ![ ](Ammotrechidae/Ammotrechula.jpg)

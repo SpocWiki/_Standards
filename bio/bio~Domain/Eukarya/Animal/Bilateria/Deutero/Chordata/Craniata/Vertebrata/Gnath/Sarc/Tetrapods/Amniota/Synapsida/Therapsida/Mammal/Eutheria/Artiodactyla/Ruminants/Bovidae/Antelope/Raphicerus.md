@@ -2,8 +2,8 @@
 aliases:
   - Raphicerus
 title: Raphicerus
+has_id_wikidata: Q2345033
 ---
-
 # [[Raphicerus]] 
 
 ![ ](1703steenbok.jpg)

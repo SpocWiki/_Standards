@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q170963
+---
+
 
 # [[VPN(Virtual_Private_Network)]] 
 

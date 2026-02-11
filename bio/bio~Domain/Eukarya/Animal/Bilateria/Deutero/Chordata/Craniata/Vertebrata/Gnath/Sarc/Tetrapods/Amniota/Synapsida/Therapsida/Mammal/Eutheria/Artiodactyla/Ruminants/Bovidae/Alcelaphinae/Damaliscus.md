@@ -2,8 +2,8 @@
 aliases:
   - Damaliscus
 title: Damaliscus lunatus
+has_id_wikidata: Q545071
 ---
-
 # [[Damaliscus]] lunatus 
 
 ![ ](Damaliscus_lunatus0009163.jpg)

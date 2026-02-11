@@ -4,8 +4,8 @@ aliases:
   - Gordon Moore
   - Moore,Gordon
 title: Gordon Moore
+has_id_wikidata: Q243969
 ---
-
 #has_/time_/started :: 1929-01-03 
 #has_/time_/stopped  :: 2023-03-24 
 #has_/employer :: [[../Fairchild_Semiconductor]] 

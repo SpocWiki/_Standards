@@ -4,8 +4,8 @@ aliases:
   - Plums
   - Pflaume
   - Pflaumen
+has_id_wikidata: Q12372598
 ---
-
 # [[Plum]] 
 
 ## #has_/text_of_/abstract 

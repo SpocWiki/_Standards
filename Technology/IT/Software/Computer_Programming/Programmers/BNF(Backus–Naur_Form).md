@@ -3,8 +3,8 @@ aliases:
   - Backus–Naur form
   - BNF(Backus–Naur_Form)
   - BNF(Backus–Naur Form)
+has_id_wikidata: Q211577
 ---
-
 ## #has_/text_of_/abstract 
 
 > In computer science, Backus–Naur form (**BNF**; Backus normal form) 

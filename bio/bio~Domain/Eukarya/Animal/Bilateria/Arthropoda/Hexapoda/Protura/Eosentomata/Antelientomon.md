@@ -2,8 +2,8 @@
 aliases:
   - Antelientomon
 title: Antelientomon
+has_id_wikidata: Q950308
 ---
-
 # [[Antelientomon]]
 
 ## Antelientomidae 

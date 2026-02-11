@@ -2,8 +2,8 @@
 aliases:
   - Hydrofoils
   - Hydrofoil
+has_id_wikidata: Q657819
 ---
-
 # [[Hydrofoil]] 
 
 

@@ -3,8 +3,8 @@ aliases:
   - aquiculture
   - aquafarming
   - Aquaculture
+has_id_wikidata: Q188989
 ---
-
 # [[Aquaculture]] 
 
 #is_/same_as :: 

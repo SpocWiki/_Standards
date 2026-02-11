@@ -2,8 +2,8 @@
 aliases:
   - Centrolenidae
 title: Centrolenidae
+has_id_wikidata: Q53752
 ---
-
 # [[Centrolenidae]]
 
 Glass Frogs 

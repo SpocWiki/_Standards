@@ -2,8 +2,8 @@
 aliases:
   - axial vector
   - Pseudo-Vector
+has_id_wikidata: Q621476
 ---
-
 # [[Pseudo-Vector]] 
 
 In n-dimensional [[Geometric_Algebra]], 

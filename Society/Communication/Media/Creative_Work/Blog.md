@@ -23,8 +23,8 @@ tags:
   - schema-org/Class
 title: is_a_blog Class
 type: Type
+has_id_wikidata: Q30849
 ---
-
 # [[Blog]]
 
 #is_/same_as :: [[../../../../WikiData/WD~Blog,30849|WD~Blog,30849]] 

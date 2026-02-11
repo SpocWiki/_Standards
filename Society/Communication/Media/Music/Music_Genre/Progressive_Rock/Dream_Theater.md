@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q162586
+---
+
 
 > Dream Theater is an American progressive metal band formed in 1985 in Boston, Massachusetts.  
 > The band comprises John Petrucci (guitar), John Myung (bass), Mike Portnoy (drums), 

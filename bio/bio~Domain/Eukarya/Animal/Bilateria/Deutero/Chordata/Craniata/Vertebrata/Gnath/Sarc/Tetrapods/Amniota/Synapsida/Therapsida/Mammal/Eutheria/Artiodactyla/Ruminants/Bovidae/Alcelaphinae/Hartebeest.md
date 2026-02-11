@@ -5,8 +5,8 @@ aliases:
   - kaama
   - Hartebeest
 title: Alcelaphus buselaphus
+has_id_wikidata: Q622880
 ---
-
 # Alcelaphus buselaphus 
 ![Hartebeest](Hartebeest/Hartebeest.jpg) 
 

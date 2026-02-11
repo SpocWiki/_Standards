@@ -2,8 +2,8 @@
 aliases:
   - Cercideae
 title: Cercideae
+has_id_wikidata: Q42398994
 ---
-
 # [[Cercideae]] 
 
 ![Cercis chinensis](Cercideae/Cercis_chinensis.jpg)  ![Bauhinia variegata](Cercideae/Bauhinia_variegata.jpg)  ![Tylosema fassoglensis](Cercideae/Tylosema_fassoglensis.jpg) 

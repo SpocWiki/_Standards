@@ -2,8 +2,8 @@
 aliases:
   - Deo
   - Demeter
+has_id_wikidata: Q40730
 ---
-
 # [[Demeter]] 
 
 #is_/similar_to :: [[../Roman_Mythology/Ceres(Mythology)|Ceres(Mythology)]] 

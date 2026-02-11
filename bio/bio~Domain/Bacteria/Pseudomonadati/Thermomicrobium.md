@@ -2,8 +2,8 @@
 aliases:
   - Thermomicrobium
 title: Thermomicrobium
+has_id_wikidata: Q1349847
 ---
-
 # [[Thermomicrobia]] 
 
 #is_a/bio-Phylum  

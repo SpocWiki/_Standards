@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q186212
+---
+
 
 
 ![[../../../../../assets/Alpha_Stirling_highres.gif]] 

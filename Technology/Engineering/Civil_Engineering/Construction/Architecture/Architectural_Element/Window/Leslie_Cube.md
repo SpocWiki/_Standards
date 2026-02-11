@@ -1,8 +1,8 @@
 ---
 aliases:
   - Leslie cube
+has_id_wikidata: Q900392
 ---
-
 # [[Leslie_Cube]] 
 
 ## #has_/text_of_/abstract 

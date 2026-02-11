@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q2123192
+---
+
 
 # [[Peirce_quincuncial_Projection]] 
 

@@ -20,8 +20,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Continent/America~North/USA/History_of_the_USA/1780-Underground_Railroad+1863.private|1780-Underground_Railroad+1863.private]]"
   - "[[/_personal/Earth/Continent/America~North/USA/History_of_the_USA/1780-Underground_Railroad+1863.personal|1780-Underground_Railroad+1863.personal]]"
   - "[[/_secret/Earth/Continent/America~North/USA/History_of_the_USA/1780-Underground_Railroad+1863.secret|1780-Underground_Railroad+1863.secret]]"
+has_id_wikidata: Q868393
 ---
-
 # [[1780-Underground_Railroad+1863]] 
 
 Participants were Quakers and black People. 

@@ -2,8 +2,8 @@
 aliases:
   - Somasteroidea
 title: Somasteroidea
+has_id_wikidata: Q4521052
 ---
-
 # [[Somasteroidea]]
 
 ![](Somasteroidea/Villebrunaster_thoral.jpg)

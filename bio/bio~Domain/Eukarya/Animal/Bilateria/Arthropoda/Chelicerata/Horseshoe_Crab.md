@@ -7,8 +7,8 @@ aliases:
   - Horseshoe_Crab
   - Horseshoe Crab
 title: Xiphosura
+has_id_wikidata: Q19430
 ---
-
 # [[Horseshoe_Crab]]
 
 ![Pseudoniscus roosevelti](Horseshoe_Crab/Pseudoniscus_roosevelti.jpg) 

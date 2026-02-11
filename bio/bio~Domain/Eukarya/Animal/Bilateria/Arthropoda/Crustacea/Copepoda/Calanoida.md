@@ -2,8 +2,8 @@
 aliases:
   - Calanoida
 title: Calanoida
+has_id_wikidata: Q478553
 ---
-
 # [[Calanoida]]  
 
 ![Calanus_pavo](Calanoida/Calanus_pavo.jpg) 

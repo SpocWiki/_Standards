@@ -18,8 +18,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.private|Slate.private]]"
   - "[[/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.personal|Slate.personal]]"
   - "[[/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.secret|Slate.secret]]"
+has_id_wikidata: Q207079
 ---
-
 # [[Slate]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Slate,207079|WD~Slate,207079]]  

@@ -2,8 +2,8 @@
 aliases:
   - Scorpionoidea
 title: Scorpionoidea
+has_id_wikidata: Q19125
 ---
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

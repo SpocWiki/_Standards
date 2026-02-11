@@ -2,8 +2,8 @@
 aliases:
   - Tomoceridae
 title: Tomoceridae
+has_id_wikidata: Q1045208
 ---
-
 # [[Tomoceridae]] 
 
 ![Tomocerus_longicornis](Tomoceridae/Tomocerus_longicornis.jpg)  ![Tomocerus_minor](Tomoceridae/Tomocerus_minor.jpg) 

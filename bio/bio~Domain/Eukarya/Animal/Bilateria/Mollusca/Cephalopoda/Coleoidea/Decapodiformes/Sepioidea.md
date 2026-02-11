@@ -2,8 +2,8 @@
 aliases:
   - Sepioidea
 title: Sepioidea
+has_id_wikidata: Q135119
 ---
-
 # [[Sepioidea]] 
 ![ ](Sepioidea/SepioidFams2.jpg) 
 

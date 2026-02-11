@@ -2,8 +2,8 @@
 aliases:
   - ON Semiconductor Corporation
   - onsemi
+has_id_wikidata: Q1671509
 ---
-
 # [[onsemi]]
 
 > ON Semiconductor Corporation (stylized and doing business as **onsemi**) 

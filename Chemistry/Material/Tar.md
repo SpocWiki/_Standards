@@ -18,8 +18,8 @@ dv_is_same_as:
   - "[[/_private/Chemistry/Material/Tar.private|Tar.private]]"
   - "[[/_personal/Chemistry/Material/Tar.personal|Tar.personal]]"
   - "[[/_secret/Chemistry/Material/Tar.secret|Tar.secret]]"
+has_id_wikidata: Q186209
 ---
-
 # [[Tar]] 
 
 is_similar_to = `=this.dv_is_similar_to` 

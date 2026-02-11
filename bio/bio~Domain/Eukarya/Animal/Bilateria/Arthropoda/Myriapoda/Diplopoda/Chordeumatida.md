@@ -3,8 +3,8 @@ aliases:
   - sausage millipedes
   - Chordeumatida
 title: Chordeumatida
+has_id_wikidata: Q4300743
 ---
-
 # [[Chordeumatida]] 
 
 ![ ](Chordeumatida/Polymicrodon_polydesmoides.jpg)

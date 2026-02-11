@@ -2,8 +2,8 @@
 aliases:
   - aging
   - Ageing
+has_id_wikidata: Q332154
 ---
-
 # [[Ageing]] 
 
 #is_/same_as :: [[wd~Ageing]]

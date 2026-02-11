@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q46996011
+---
+
 
 #has_/text_of_/genre :: [[../../../../../../../schema-org/Class/is_a_/event_/sports_event|SportsEvent]]
 

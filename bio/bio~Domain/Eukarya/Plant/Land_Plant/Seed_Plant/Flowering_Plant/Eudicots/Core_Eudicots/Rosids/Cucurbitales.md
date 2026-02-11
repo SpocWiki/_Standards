@@ -2,8 +2,8 @@
 aliases:
   - Cucurbitales
 title: Cucurbitales
+has_id_wikidata: Q21875
 ---
-
 # [[Cucurbitales]] 
 
 ![Begonia froebelii](Cucurbitales/Begonia_froebelii.jpg)  ![Cucumis_sativus](Cucurbitales/Cucurbitaceae/Benincaseae/Cucumis/Cucumber/Cucumis_sativus.jpg)  ![Datisca_cannabina](Cucurbitales/Datisca_cannabina.jpg) 

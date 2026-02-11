@@ -5,8 +5,8 @@ aliases:
   - Nobel Prize in Medicine
   - Medicine_Nobel_Prize
   - Medicine Nobel Prize
+has_id_wikidata: Q5450499
 ---
-
 ## #has_/text_of_/abstract 
 
 > The Nobel Prize in Physiology or Medicine (Swedish: Nobelpriset i fysiologi eller medicin) is awarded 

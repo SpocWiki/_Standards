@@ -2,8 +2,8 @@
 aliases:
   - Zeigarnik Effect
   - Zeigarnik_Effect
+has_id_wikidata: Q184812
 ---
-
 # [[Zeigarnik_Effect]] 
 
 #is_/same_as :: 

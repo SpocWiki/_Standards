@@ -3,8 +3,8 @@ aliases:
   - Wien’s Displacement Law
   - Wien distribution law
   - Wien's law
+has_id_wikidata: Q1667940
 ---
-
 # [[Wien’s_Law]] 
 
 $λ_max​=b/T​$

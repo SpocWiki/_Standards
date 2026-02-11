@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q171043
+---
+
 
 # [[Steam_Locomotive]] 
 

@@ -2,8 +2,8 @@
 aliases:
   - Cladrastis
 title: Cladrastis clade
+has_id_wikidata: Q2700326
 ---
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

@@ -3,8 +3,8 @@ aliases:
   - Sean Bean
   - Shaun Mark Bean
   - Bean,Sean
+has_id_wikidata: Q191104
 ---
-
 # [[Bean,Sean]] 
 
 #has_/time_/started :: 1959-04-17 

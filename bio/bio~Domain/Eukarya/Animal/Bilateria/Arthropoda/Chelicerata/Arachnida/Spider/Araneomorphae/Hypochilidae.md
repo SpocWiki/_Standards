@@ -2,8 +2,8 @@
 aliases:
   - Hypochilidae
 title: Hypochilidae
+has_id_wikidata: Q10573
 ---
-
 # [[Hypochilidae]]  
 ![ ](Hypochilidae/hypochilus_pococki.jpg) 
 

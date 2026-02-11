@@ -23,9 +23,8 @@ dv_is_same_as:
   - "[[/_private/Chemistry/Chemist/Mai_Thi_Nguyen-Kim.private|Mai_Thi_Nguyen-Kim.private]]"
   - "[[/_personal/Chemistry/Chemist/Mai_Thi_Nguyen-Kim.personal|Mai_Thi_Nguyen-Kim.personal]]"
   - "[[/_secret/Chemistry/Chemist/Mai_Thi_Nguyen-Kim.secret|Mai_Thi_Nguyen-Kim.secret]]"
+has_id_wikidata: Q29169693
 ---
-
-
 has_time_started = `=this.dv_has_time_started` 
 #has_/age_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().dv_has_time_started)/1000/60/60/24/365.2425)`
 

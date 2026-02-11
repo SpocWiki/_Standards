@@ -2,8 +2,8 @@
 aliases:
   - Annelida
 title: Annelida
+has_id_wikidata: Q25522
 ---
-
 # Annelida
 
  Segmented worms: bristleworms, ragworms, earthworms, leeches and their allies 

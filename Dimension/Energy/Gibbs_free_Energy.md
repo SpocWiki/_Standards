@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q334631
+---
+
 
 # [[Gibbs_free_Energy]] 
 

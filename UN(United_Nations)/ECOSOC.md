@@ -2,8 +2,8 @@
 aliases:
   - CESNU
   - ECOSOC
+has_id_wikidata: Q170075
 ---
-
 # [[ECOSOC]] 
 
 

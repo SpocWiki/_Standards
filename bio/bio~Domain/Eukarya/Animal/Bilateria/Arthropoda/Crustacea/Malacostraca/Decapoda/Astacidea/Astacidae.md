@@ -2,8 +2,8 @@
 aliases:
   - Astacidae
 title: Astacidae
+has_id_wikidata: Q943248
 ---
-
 # [[Astacidae]] 
 
 ![Pacifastacu leniusculus](Astacidae/p.jpg) 

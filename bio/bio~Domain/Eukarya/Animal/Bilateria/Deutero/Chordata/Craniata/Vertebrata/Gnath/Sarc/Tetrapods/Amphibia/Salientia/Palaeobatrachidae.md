@@ -2,8 +2,8 @@
 aliases:
   - Palaeobatrachidae
 title: Palaeobatrachidae
+has_id_wikidata: Q16735696
 ---
-
 # [[Palaeobatrachidae]]  
 
 ![Palaeobatrachus cast](Palaeobatrachidae/paleobatrachus.jpg) 

@@ -2,8 +2,8 @@
 aliases:
   - Le Figaro
   - Le_Figaro
+has_id_wikidata: Q216047
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Le Figaro** (French: [lə fiɡaʁo] ) is a French daily morning newspaper founded in 1826. 

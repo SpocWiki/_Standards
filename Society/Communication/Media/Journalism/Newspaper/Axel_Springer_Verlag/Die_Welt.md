@@ -2,8 +2,8 @@
 aliases:
   - Die Welt
   - Die_Welt
+has_id_wikidata: Q29872
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Die Welt** (German pronunciation: [diː ˈvɛlt], lit. 'The World') 

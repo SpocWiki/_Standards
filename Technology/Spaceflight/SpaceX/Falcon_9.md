@@ -1,8 +1,8 @@
 ---
 aliases:
 - "Falcon 9"
+has_id_wikidata: Q249091
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Falcon 9** is a partially reusable, [[../Human-rating_Certification]], 

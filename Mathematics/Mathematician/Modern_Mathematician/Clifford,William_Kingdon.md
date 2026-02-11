@@ -3,8 +3,8 @@ aliases:
   - William Kingdon Clifford
   - Clifford,William_Kingdon
   - Clifford,William Kingdon
+has_id_wikidata: Q323228
 ---
-
 #has_/time_/started :: 1845-05-04 
 #has_/time_/stopped :: 1879-03-03 
 #has_/duration :: `$=((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)`

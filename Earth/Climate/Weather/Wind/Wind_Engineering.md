@@ -19,8 +19,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Climate/Weather/Wind/Wind_Engineering.private|Wind_Engineering.private]]"
   - "[[/_personal/Earth/Climate/Weather/Wind/Wind_Engineering.personal|Wind_Engineering.personal]]"
   - "[[/_secret/Earth/Climate/Weather/Wind/Wind_Engineering.secret|Wind_Engineering.secret]]"
+has_id_wikidata: Q2441902
 ---
-
 # [[Wind_Engineering]] 
 
 Wind pressure p on flat surfaces:

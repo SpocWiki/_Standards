@@ -5,8 +5,8 @@ aliases:
   - Echnaton
   - Amenophis IV
   - Amenhotep IV
+has_id_wikidata: Q81794
 ---
-
 # [[Akhenaten]] 
 
 

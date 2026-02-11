@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q372514
+---
+
 
 > **RoboCop** is a 1987 American science fiction action film directed by [[../Movie-Directors/Verhoeven,Paul]] and written by Edward Neumeier and Michael Miner. 
 > The film stars [[Weller,Peter]], [[Allen,Nancy]], Daniel O'Herlihy, Ronny Cox, [[Kurtwood_Smith]], and [[Ferrer,Miguel]]. 

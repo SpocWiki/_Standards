@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q85327
+---
+
 
 > **hCard** is a microformat for publishing the contact details 
 > (which might be no more than the name) of people, companies, organizations, 

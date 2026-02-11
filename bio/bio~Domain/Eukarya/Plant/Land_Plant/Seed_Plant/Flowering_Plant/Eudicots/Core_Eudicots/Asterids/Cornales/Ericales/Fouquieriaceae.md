@@ -2,8 +2,8 @@
 aliases:
   - Fouquieriaceae
 title: Fouquieria
+has_id_wikidata: Q133229
 ---
-
 # [[Fouquieriaceae]] 
 
 

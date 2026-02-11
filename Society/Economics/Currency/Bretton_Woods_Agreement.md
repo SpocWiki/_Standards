@@ -6,8 +6,8 @@ aliases:
   - Bretton Woods monetary system
   - Bretton Woods system of monetary management
   - Bretton_Woods_Agreement
+has_id_wikidata: Q188532
 ---
-
 #has_/time_/started ::  1944-07-01 
 #has_/time_/stopped ::  1976-01-07  
 

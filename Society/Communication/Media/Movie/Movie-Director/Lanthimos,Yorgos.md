@@ -4,8 +4,8 @@ aliases:
   - Yorgos_Lanthimos
   - Lanthimos
   - Lanthimos,Yorgos
+has_id_wikidata: Q975410
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Yorgos Lanthimos** (Greek: Γιώργος Λάνθιμος [ˈʝorɣos ˈlanθimos]; 

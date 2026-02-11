@@ -5,8 +5,8 @@ aliases:
   - warthog
   - Warthog
 title: Phacochoerus
+has_id_wikidata: Q3645260
 ---
-
 # Phacochoerus
 
 ## wart hogs 

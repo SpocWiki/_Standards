@@ -3,8 +3,8 @@ aliases:
   - ECLAC
   - CEPAL
   - UNECLAC
+has_id_wikidata: Q32874
 ---
-
 # [[UNECLAC]] 
 
 > The United Nations Economic Commission for Latin America and the Caribbean, known as **ECLAC**, UNECLAC or in Spanish and Portuguese CEPAL, is a United Nations regional commission to encourage economic cooperation. ECLAC includes 46 member States (20 in Latin America, 13 in the Caribbean and 13 from outside the region), and 14 associate members which are various non-independent territories, associated island countries and a commonwealth in the Caribbean. ECLAC publishes statistics covering the countries of the region and makes cooperative agreements with nonprofit institutions. The headquarters of ECLAC is in Santiago, Chile.

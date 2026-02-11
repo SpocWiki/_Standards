@@ -4,8 +4,8 @@ aliases:
   - Isabgol
   - ispaghula
   - Psyllium
+has_id_wikidata: Q430675
 ---
-
 # [[Psyllium]] 
 
 #is_/similar_to :: [[../../../../../bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Quinoa|Quinoa]] 

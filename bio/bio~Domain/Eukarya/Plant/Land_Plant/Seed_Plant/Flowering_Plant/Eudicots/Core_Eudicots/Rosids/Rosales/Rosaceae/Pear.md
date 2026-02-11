@@ -5,8 +5,8 @@ aliases:
   - Birne
   - Birnen
   - Pear
+has_id_wikidata: Q434
 ---
-
 # [[Pear]] 
 
 ## #has_/text_of_/abstract 

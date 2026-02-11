@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q1392923
+---
+
 
 #is_/different_from :: [[Fail-fast-Culture]]  
 #is_/conflicting_/with :: [[Robustness-Principle]] 

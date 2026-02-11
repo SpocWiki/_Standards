@@ -3,8 +3,8 @@ aliases:
   - Eodiscoglossus_santonjae
   - Eodiscoglossus santonjae
 title: Eodiscoglossus santonjae
+has_id_wikidata: Q5381657
 ---
-
 # Eodiscoglossus santonjae 
 
 ## #has_/text_of_/abstract 

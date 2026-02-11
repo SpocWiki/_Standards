@@ -2,8 +2,8 @@
 aliases:
   - Theropoda
 title: Theropoda
+has_id_wikidata: Q188438
 ---
-
 # [[Theropoda]] 
 
 Bipedal predatory dinosaurs 

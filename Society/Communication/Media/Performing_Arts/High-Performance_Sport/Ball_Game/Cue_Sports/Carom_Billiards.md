@@ -5,9 +5,8 @@ aliases:
   - carambole billiards
   - Carom_Billiards
   - Carom Billiards
+has_id_wikidata: Q917562
 ---
-
-
 ## #has_/text_of_/abstract 
 
 > **Carom billiards**, also called French billiards and sometimes carambole billiards, 

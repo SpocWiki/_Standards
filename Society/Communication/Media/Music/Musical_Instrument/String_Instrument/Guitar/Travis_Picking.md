@@ -2,8 +2,8 @@
 aliases:
   - thumb picking
   - Muhlenberg picking
+has_id_wikidata: Q7836351
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Travis Pickin'** is an instrumental acoustic solo album 

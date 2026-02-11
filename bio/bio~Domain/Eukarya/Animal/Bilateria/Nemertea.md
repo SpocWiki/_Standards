@@ -2,8 +2,8 @@
 aliases:
   - Nemertea
 title: Nemertea
+has_id_wikidata: Q185631
 ---
-
 # [[Nemertea]]
 
 ## Ribbon Worms 

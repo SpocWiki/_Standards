@@ -2,8 +2,8 @@
 aliases:
   - Jurassic Park
   - Jurassic_Park
+has_id_wikidata: Q167726
 ---
-
 # [[Jurassic_Park]] 
 
 

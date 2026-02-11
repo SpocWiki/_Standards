@@ -18,8 +18,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Geology/Landform/Glacier/Iceberg.private|Iceberg.private]]"
   - "[[/_personal/Earth/Geology/Landform/Glacier/Iceberg.personal|Iceberg.personal]]"
   - "[[/_secret/Earth/Geology/Landform/Glacier/Iceberg.secret|Iceberg.secret]]"
+has_id_wikidata: Q47568
 ---
-
 # [[Iceberg]] 
 
 #is_/same_as :: [[WD~Iceberg,47568]] 

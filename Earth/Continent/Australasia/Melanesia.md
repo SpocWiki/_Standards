@@ -16,8 +16,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Continent/Australasia/Melanesia.private|Melanesia.private]]"
   - "[[/_personal/Earth/Continent/Australasia/Melanesia.personal|Melanesia.personal]]"
   - "[[/_secret/Earth/Continent/Australasia/Melanesia.secret|Melanesia.secret]]"
+has_id_wikidata: Q37394
 ---
-
 # [[Melanesia]] 
 
 > **Melanesia** (UK: , US: ) is a sub-region of Oceania in the southwestern Pacific Ocean. It extends from New Guinea in the west to the Fiji Islands in the east, and includes the Arafura Sea.The region includes the four independent countries of Fiji, Vanuatu, Solomon Islands, and Papua New Guinea. It also includes the Indonesian part of New Guinea, the French oversea collectivity of New Caledonia, and the Torres Strait Islands. Additionally, Indonesia's Maluku Islands and the independent nation of Timor-Leste are culturally associated with Melanesia. Almost all of the region is in the Southern Hemisphere; only a few small islands that are not politically considered part of Oceania—specifically the northwestern islands of Western New Guinea—lie in the Northern Hemisphere.

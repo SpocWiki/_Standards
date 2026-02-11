@@ -2,8 +2,8 @@
 aliases:
   - Daily Telegraph
   - Daily_Telegraph
+has_id_wikidata: Q192621
 ---
-
 ## #has_/text_of_/abstract 
 
 > The **Daily Telegraph**, known online and elsewhere as The Telegraph, 

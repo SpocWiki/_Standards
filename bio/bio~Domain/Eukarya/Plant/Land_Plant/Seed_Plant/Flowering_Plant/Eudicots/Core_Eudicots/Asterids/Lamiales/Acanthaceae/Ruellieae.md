@@ -2,8 +2,8 @@
 aliases:
   - Ruellieae
 title: Ruellieae
+has_id_wikidata: Q822684
 ---
-
 # [[Ruellieae]] 
 
 ![ ](Ruellieae/Eremomastaxpolysperma.jpg)

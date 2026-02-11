@@ -2,8 +2,8 @@
 aliases:
   - Cyclopoida
 title: Cyclopoida
+has_id_wikidata: Q899782
 ---
-
 # [[Cyclopoida]] 
 ![Cyclops female with egg sacs](Cyclopoida/Cyclops.jpg) 
 

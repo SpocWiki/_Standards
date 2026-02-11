@@ -2,8 +2,8 @@
 aliases:
   - Aquificae
 title: Aquificae
+has_id_wikidata: Q21439067
 ---
-
 # [[Aquificae]] 
 
 #is_a/bio-Phylum  

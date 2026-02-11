@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q1051404
+---
+
 
 # [[Cauchy_Product]] 
 

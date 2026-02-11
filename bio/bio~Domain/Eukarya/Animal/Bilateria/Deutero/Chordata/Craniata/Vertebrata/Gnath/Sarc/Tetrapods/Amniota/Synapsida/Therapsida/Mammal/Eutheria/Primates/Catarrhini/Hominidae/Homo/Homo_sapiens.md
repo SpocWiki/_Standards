@@ -4,8 +4,8 @@ aliases:
   - modern humans
   - Homo_sapiens
 title: Homo sapiens
+has_id_wikidata: Q5
 ---
-
 #is_/instance_of :: [[../../../../../../../../../../../../../../../../../bio~Domain/Eukarya/Animal/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species|bio~Species]] 
 
 # [[Homo_sapiens]] 

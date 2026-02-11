@@ -4,8 +4,8 @@ aliases:
   - Yann André LeCun
   - LeCun
   - LeCun,Yann
+has_id_wikidata: Q3571662
 ---
-
 ## #has_/text_of_/abstract 
 
 > Yann André LeCun ( lə-KUN, French: [ləkœ̃]; originally spelled Le Cun; born 8 July 1960) 

@@ -2,8 +2,8 @@
 aliases:
   - Stomatopoda
 title: Stomatopoda
+has_id_wikidata: Q334855
 ---
-
 # [[Stomatopoda]] 
 
 Mantis shrimps 

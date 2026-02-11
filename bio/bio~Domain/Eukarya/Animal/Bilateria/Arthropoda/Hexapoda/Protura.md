@@ -2,8 +2,8 @@
 aliases:
   - Protura
 title: Protura
+has_id_wikidata: Q271631
 ---
-
 # [[Protura]] 
 ![ ](Protura/DSCN1510.jpg) 
 

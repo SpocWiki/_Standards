@@ -2,8 +2,8 @@
 aliases:
   - Jonathan Franzen
   - Franzen,Jonathan
+has_id_wikidata: Q316607
 ---
-
 # [[Franzen,Jonathan]] 
 
 #has_/time_/started :: 1959-08-17 

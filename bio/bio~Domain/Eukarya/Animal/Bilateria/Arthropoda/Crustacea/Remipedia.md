@@ -2,8 +2,8 @@
 aliases:
   - Remipedia
 title: Remipedia
+has_id_wikidata: Q490800
 ---
-
 # [[Remipedia]] 
 ![ ](Remipedia/Speleonectes_ondinae.gif) 
 ## #has_/text_of_/abstract 

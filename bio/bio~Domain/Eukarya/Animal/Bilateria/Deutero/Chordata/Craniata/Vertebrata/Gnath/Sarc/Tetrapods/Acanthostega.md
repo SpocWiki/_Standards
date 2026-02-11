@@ -2,8 +2,8 @@
 aliases:
   - Acanthostega
 title: Acanthostega gunnari
+has_id_wikidata: Q131763
 ---
-
 ## [[Acanthostega]]
 
 Acanthostega gunnari

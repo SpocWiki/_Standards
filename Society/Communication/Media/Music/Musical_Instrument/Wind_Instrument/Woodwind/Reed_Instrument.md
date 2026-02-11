@@ -5,10 +5,8 @@ aliases:
   - ''
   - Reed_Instrument
   - Reed Instrument
+has_id_wikidata: Q3152896
 ---
-
-
-
 ## #has_/text_of_/abstract 
 
 > Reed aerophones is one of the categories of musical instruments 

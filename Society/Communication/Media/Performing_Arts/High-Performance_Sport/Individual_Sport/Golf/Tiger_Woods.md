@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q10993
+---
+
 
 # [[Tiger_Woods]] 
 

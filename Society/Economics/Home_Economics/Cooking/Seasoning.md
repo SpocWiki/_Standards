@@ -1,8 +1,8 @@
 ---
 aliases: 
 has_id_wikidata: "773108"
+has_id_wikidata: Q773108
 ---
-
 # [[Seasoning]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~seasoning,773108]]

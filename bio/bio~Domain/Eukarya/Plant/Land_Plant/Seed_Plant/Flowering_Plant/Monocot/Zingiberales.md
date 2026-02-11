@@ -3,8 +3,8 @@ aliases:
   - Zingiberanae
   - Zingiberales
 title: Zingiberanae
+has_id_wikidata: Q203779
 ---
-
 # [[Zingiberales]]
 
 The bananas, gingers, and relatives. 

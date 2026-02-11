@@ -2,8 +2,8 @@
 aliases:
   - Dendrohyrax
 title: Dendrohyrax
+has_id_wikidata: Q1761200
 ---
-
 # [[Dendrohyrax]]
 
 ## Tree or bush hyraxes 

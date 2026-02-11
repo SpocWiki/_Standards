@@ -4,8 +4,8 @@ aliases:
   - Karloff the Uncanny
   - William Henry Pratt
   - Karloff,Boris
+has_id_wikidata: Q203219
 ---
-
 # [[Karloff,Boris]] 
 
 #has_/time_/started ::  1887-11-23 

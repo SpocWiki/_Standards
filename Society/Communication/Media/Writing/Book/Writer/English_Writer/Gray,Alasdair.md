@@ -3,8 +3,8 @@ aliases:
   - Alasdair Gray
   - Alasdair_Gray
   - Gray,Alasdair
+has_id_wikidata: Q729121
 ---
-
 ## #has_/text_of_/abstract 
 
 > Alasdair James Gray (28 December 1934 – 29 December 2019)

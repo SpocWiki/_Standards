@@ -2,8 +2,8 @@
 aliases:
   - Salamandra
 title: Salamandra
+has_id_wikidata: Q62181
 ---
-
 # [[Salamandra]] 
 
 ![ ](Salamandra/img_3736_2.jpg)

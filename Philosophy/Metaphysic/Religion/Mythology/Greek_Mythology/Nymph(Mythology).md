@@ -1,8 +1,8 @@
 ---
 aliases:
 has_id_wikidata: 
+has_id_wikidata: Q373916
 ---
-
 # [[Nymph(Mythology)]] 
 
 #is_/same_as :: 

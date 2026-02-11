@@ -2,8 +2,8 @@
 aliases:
   - Boule
   - Boules
+has_id_wikidata: Q895060
 ---
-
 # [[Boules]] 
 
 #is_/same_as :: 

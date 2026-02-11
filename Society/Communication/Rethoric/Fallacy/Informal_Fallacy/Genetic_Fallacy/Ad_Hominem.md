@@ -2,6 +2,7 @@
 aliases:
   - Ad hominem
   - argumentum ad hominem
+has_id_wikidata: Q189183
 ---
 # [[Ad_Hominem]] 
 

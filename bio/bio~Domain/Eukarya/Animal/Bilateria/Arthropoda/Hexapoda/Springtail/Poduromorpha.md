@@ -2,8 +2,8 @@
 aliases:
   - Poduromorpha
 title: Poduromorpha
+has_id_wikidata: Q1935420
 ---
-
 # [[Poduromorpha]] 
 
 ![Podura aquatica](Poduromorpha/Podura_aquatica.jpg)  ![Anurida granaria](Poduromorpha/Anurida_granaria.jpg) 

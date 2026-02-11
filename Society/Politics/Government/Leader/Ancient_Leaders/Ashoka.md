@@ -3,8 +3,8 @@ aliases:
   - Asoka
   - Aśoka
   - Ashoka
+has_id_wikidata: Q8589
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Ashoka**, also known as Asoka or Aśoka ( ə-SHOH-kə; Sanskrit: [ɐˈɕoːkɐ], IAST: Aśoka; c. 304 – 232 BCE), 

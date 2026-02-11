@@ -6,8 +6,8 @@ aliases:
   - ExxonMobil
   - Exxon_Mobil
   - Exxon Mobil
+has_id_wikidata: Q156238
 ---
-
 # [[Exxon_Mobil]] 
 
 #has_/previous_/item :: [[Standard_Oil]] 

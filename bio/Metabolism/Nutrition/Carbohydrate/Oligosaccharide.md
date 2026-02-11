@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q320607
+---
+
 
 #has_/child_/class :: [[Disaccharide]] 
 #has_/parent_class :: [[Polysaccharide]] 

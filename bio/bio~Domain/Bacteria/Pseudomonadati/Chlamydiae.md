@@ -2,8 +2,8 @@
 aliases:
   - Chlamydiae
 title: Chlamydiae
+has_id_wikidata: Q20388896
 ---
-
 # [[Chlamydiae]] 
 
 #is_a/bio-Phylum  

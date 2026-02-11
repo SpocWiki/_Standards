@@ -2,8 +2,8 @@
 aliases:
   - Ischnuridae
 title: Ischnuridae
+has_id_wikidata: Q134711
 ---
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

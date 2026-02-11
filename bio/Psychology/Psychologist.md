@@ -2,8 +2,8 @@
 aliases:
   - Psychologists
   - Psychologist
+has_id_wikidata: Q212980
 ---
-
 ## #has_/text_of_/abstract 
 
 > A **Psychologist** is a professional who practices psychology and studies mental states, perceptual, cognitive, emotional, and social processes and behavior. Their work often involves the experimentation, observation, and interpretation of how individuals relate to each other and to their environments.

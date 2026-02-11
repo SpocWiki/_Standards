@@ -5,8 +5,8 @@ aliases:
   - spirochaete
   - Spirochaetes
 title: Spirochaetes
+has_id_wikidata: Q12673555
 ---
-
 # [[Spirochaetes]] 
 
 #is_a/bio-Phylum  

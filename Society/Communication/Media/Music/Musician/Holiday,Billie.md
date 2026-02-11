@@ -3,8 +3,8 @@ aliases:
   - Eleanora Fagan
   - Lady Day
   - Holiday,Billie
+has_id_wikidata: Q104358
 ---
-
 #has_/time_/started :: 1915-04-07 
 #has_/time_/stopped :: 1959-07-17 
 

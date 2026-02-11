@@ -6,8 +6,8 @@ aliases:
   - Telefónica O2 Germany
   - Telefónica Germany
   - Telefónica_Germany
+has_id_wikidata: Q2401561
 ---
-
 # [[Telefónica_Germany]] 
 
 

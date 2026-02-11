@@ -3,8 +3,8 @@ aliases:
   - Licence to Kill
   - Licence_to_Kill,1989
   - Licence to Kill,1989
+has_id_wikidata: Q309086
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Licence to Kill** is a 1989 spy film, the sixteenth in the James Bond series produced by Eon Productions, 

@@ -2,8 +2,8 @@
 aliases:
   - Isotomidae
 title: Isotomidae
+has_id_wikidata: Q546017
 ---
-
 # [[Isotomidae]]  
 
 ![Folsomia candida](Isotomidae/Folsomia_candida.jpg)

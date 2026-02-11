@@ -2,8 +2,8 @@
 aliases:
   - Dissorophoidea
 title: Dissorophoidea
+has_id_wikidata: Q137426
 ---
-
 # [[Dissorophoidea]] 
 [Bolt 1969]
 

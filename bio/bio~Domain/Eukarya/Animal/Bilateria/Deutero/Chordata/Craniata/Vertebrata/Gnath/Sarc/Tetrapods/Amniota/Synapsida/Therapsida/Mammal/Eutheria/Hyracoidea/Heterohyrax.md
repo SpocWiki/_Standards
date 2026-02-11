@@ -2,8 +2,8 @@
 aliases:
   - Heterohyrax
 title: Heterohyrax
+has_id_wikidata: Q186942
 ---
-
 # [[Heterohyrax]]
 
 ## Yellow-spotted hyraxes 

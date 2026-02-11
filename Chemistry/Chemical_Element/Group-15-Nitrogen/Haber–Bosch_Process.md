@@ -20,8 +20,8 @@ dv_is_same_as:
   - "[[/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Haber–Bosch_Process.private|Haber–Bosch_Process.private]]"
   - "[[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Haber–Bosch_Process.personal|Haber–Bosch_Process.personal]]"
   - "[[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Haber–Bosch_Process.secret|Haber–Bosch_Process.secret]]"
+has_id_wikidata: Q213669
 ---
-
 This is the most important chemical Process. 2% of Energy is being invested to that. 
 Every 2nd Nitrogen in our body was created by this Process. 
 Human Waste is currently NOT re-used as Fertilizer, but degraded to N² by bacteria in [[Sewage]] Wastewater treatment

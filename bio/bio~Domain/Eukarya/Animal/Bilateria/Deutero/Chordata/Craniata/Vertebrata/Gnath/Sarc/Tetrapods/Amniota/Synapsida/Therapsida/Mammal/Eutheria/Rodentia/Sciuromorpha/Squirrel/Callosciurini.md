@@ -2,8 +2,8 @@
 aliases:
   - Callosciurini
 title: Callosciurini
+has_id_wikidata: Q16354398
 ---
-
 # [[Callosciurini]]  
 
 ![ ](Callosciurini/267759125_91ed2069f2_o.jpg)

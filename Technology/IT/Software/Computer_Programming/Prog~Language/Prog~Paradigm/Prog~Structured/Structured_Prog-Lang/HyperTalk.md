@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q58329
+---
+
 # [[HyperTalk]] 
 
 #is_a_/ComputerLanguage 

@@ -2,8 +2,8 @@
 aliases:
   - Tony Curtis
   - Curtis,Tony
+has_id_wikidata: Q162389
 ---
-
 #has_/time_/started :: 1925-06-03 
 #has_/time_/stopped :: 2010-09-29 
 #is_/parent_of :: [[Curtis,Jamie_Lee]]

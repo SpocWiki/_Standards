@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q133475
+---
+
 
 #has_/creator :: [[../../../Technology/IT/Software/Computer_Programming/Programmers/Stallman,Richard]] 
 

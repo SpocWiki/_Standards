@@ -2,8 +2,8 @@
 aliases:
   - Platyhelminthes
 title: Platyhelminthes
+has_id_wikidata: Q124900
 ---
-
 # [[Platyhelminthes]] 
 
 Flatworms, tapeworms, flukes 

@@ -2,8 +2,8 @@
 aliases:
   - Dionycha
 title: Dionycha
+has_id_wikidata: Q1226966
 ---
-
 # Dionycha 
 ![Trachelas_tranquillus.](Dionycha/Trachelas_tranquillus.jpg)) ![Misumenoides_formosipes](Dionycha/Misumenoides_formosipes.jpg))  ![Herpyllus_ecclesiasticus](Dionycha/Herpyllus_ecclesiasticus.jpg) 
 

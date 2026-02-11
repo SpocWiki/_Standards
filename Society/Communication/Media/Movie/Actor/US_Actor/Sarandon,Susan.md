@@ -5,8 +5,8 @@ aliases:
   - Susan Abigail Sarandon
   - Susan Abigail Tomalin
   - Sarandon,Susan
+has_id_wikidata: Q133050
 ---
-
 # [[Sarandon,Susan]] 
 
 #has_/time_/started :: 1946-10-04 

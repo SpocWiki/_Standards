@@ -5,8 +5,8 @@ aliases:
   - Structural abuse
   - Structural_Abuse
   - Structural Abuse
+has_id_wikidata: Q7624998
 ---
-
 # [[Structural_Abuse]] 
 
 

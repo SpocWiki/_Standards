@@ -2,8 +2,8 @@
 aliases:
   - Tullio Levi-Civita
   - Levi-Civita,Tullio
+has_id_wikidata: Q353438
 ---
-
 #has_/time_/started :: 1873-03-29 
 #has_/time_/stopped :: 1941-12-29 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)`

@@ -2,8 +2,8 @@
 aliases:
   - Bacteroidetes
 title: Bacteroidetes
+has_id_wikidata: Q9810870
 ---
-
 # [[Bacteroidetes]] 
 
 #is_a/bio-Phylum  

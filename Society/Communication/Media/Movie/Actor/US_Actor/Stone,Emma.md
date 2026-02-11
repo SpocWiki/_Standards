@@ -4,8 +4,8 @@ aliases:
   - Emma Stone
   - Emily Jean Stone
   - Stone,Emma
+has_id_wikidata: Q147077
 ---
-
 # [[Stone,Emma]]
 
 #has_/time_/started :: 1988-11-06 

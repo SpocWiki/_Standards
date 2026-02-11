@@ -2,8 +2,8 @@
 aliases:
   - Procaryote
   - prokaryotic
+has_id_wikidata: Q19081
 ---
-
 This is a Super-[[../Taxon~Domain]]. 
 
 #has_/complement :: [[Eukaryote]] 

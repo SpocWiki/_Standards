@@ -8,8 +8,8 @@ aliases:
   - shenanigan
   - Practical_Joke
   - Practical Joke
+has_id_wikidata: Q931092
 ---
-
 # [[Practical_Joke]] 
 
 

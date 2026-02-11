@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q544847
+---
+
 
 # [[Qualcomm]] 
 

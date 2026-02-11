@@ -2,8 +2,8 @@
 aliases:
   - Afrauropodidae
 title: Afrauropus occiduus
+has_id_wikidata: Q21215208
 ---
-
 ## [[Afrauropodidae]] 
 
 

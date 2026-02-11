@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q485207
+---
+
 
 # [[Shanghai_Cooperation_Organisation]] 
 

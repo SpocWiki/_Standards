@@ -2,8 +2,8 @@
 aliases:
   - Gemmatimonadetes
 title: Gemmatimonas aurantiaca
+has_id_wikidata: Q49408504
 ---
-
 ## [[Gemmatimonadetes]] 
 
 #is_a/bio-Phylum  

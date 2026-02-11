@@ -2,8 +2,8 @@
 aliases:
   - Lyssomaninae
 title: Lyssomaninae
+has_id_wikidata: Q101166
 ---
-
 # [[Lyssomaninae]] 
 
 ![ ](Lyssomaninae/lyssomanes.gif)

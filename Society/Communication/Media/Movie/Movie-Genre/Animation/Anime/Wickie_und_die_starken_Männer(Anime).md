@@ -4,8 +4,8 @@ aliases:
   - Wickie und die starken Männer
   - Wickie_und_die_starken_Männer(Anime)
   - Wickie und die starken Männer(Anime)
+has_id_wikidata: Q713578
 ---
-
 This was the first [[../../../../../../../Earth/Continent/Asia/Asia~East/Japan|Japan]]ese Production that [[ZDF]] commissioned
 and was followed by . 
 

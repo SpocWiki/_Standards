@@ -1,8 +1,8 @@
 ---
 aliases:
   - Nontheism
+has_id_wikidata: Q7066
 ---
-
 # [[Atheism]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Atheism,7066|WD~Atheism,7066]] 

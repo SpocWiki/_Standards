@@ -3,8 +3,8 @@ aliases:
   - Methanobacteriota
   - Euryarchaeota
 title: Euryarchaeota
+has_id_wikidata: Q12963847
 ---
-
 # [[Methanobacteriota]] 
 
 

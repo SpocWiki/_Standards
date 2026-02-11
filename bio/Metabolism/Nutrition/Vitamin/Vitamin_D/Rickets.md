@@ -2,8 +2,8 @@
 aliases:
   - rachitis
   - Rickets
+has_id_wikidata: Q183392
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Rickets**, scientific nomenclature: rachitis (from Greek ῥαχίτης rhakhítēs, meaning 'in or of the spine'), 

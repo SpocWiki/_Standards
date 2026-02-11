@@ -3,8 +3,8 @@ aliases:
   - Richard Christopher Wakeman
   - Rick Wakeman
   - Wakeman
+has_id_wikidata: Q312053
 ---
-
 # [[Rick Wakeman]] 
 
 #is_/same_as :: [[WD~Rick_Wakeman,]]

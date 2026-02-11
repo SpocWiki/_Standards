@@ -2,8 +2,8 @@
 aliases:
   - Hyperoartia
 title: Hyperoartia
+has_id_wikidata: Q261485
 ---
-
 # [[Hyperoartia]]
 
 Lampreys 

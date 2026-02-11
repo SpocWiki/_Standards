@@ -2,8 +2,8 @@
 aliases:
   - Hyotheriinae
 title: Hyotheriinae
+has_id_wikidata: Q18602781
 ---
-
 # [[Hyotheriinae]]
 
 ## #has_/text_of_/abstract 

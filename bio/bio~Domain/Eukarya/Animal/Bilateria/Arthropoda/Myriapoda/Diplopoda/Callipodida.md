@@ -2,8 +2,8 @@
 aliases:
   - Callipodida
 title: Callipodida
+has_id_wikidata: Q4300405
 ---
-
 # [[Callipodida]] 
 
 ## #has_/text_of_/abstract 

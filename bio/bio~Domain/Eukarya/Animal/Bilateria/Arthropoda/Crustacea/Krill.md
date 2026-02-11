@@ -3,8 +3,8 @@ aliases:
   - Euphausiacea
   - Euphausiids
   - Krill
+has_id_wikidata: Q29498
 ---
-
 # [[Krill]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Euphausiacea,29498|WD~Euphausiacea,29498]]

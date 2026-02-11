@@ -2,8 +2,8 @@
 aliases:
   - Barry Sonnenfeld
   - Sonnenfeld,Barry
+has_id_wikidata: Q317567
 ---
-
 #has_/time_/started :: 1953-04-01 
 Age: `$=Math.round((new Date() - dv.current().has_time_started)/365.2425/24/60/60/1000)`
 

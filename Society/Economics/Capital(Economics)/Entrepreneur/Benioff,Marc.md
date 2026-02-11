@@ -2,8 +2,8 @@
 aliases:
   - Marc Russell Benioff
   - Benioff,Marc
+has_id_wikidata: Q1521908
 ---
-
 # [[Benioff,Marc]] 
 
 #has_/created :: [[../../../../../../IT/Programming/Prog~Process/Agent-Programming/Salesforce,Inc|Salesforce,Inc]] 

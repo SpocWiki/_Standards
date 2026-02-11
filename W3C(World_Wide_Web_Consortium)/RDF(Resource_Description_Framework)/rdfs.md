@@ -2,8 +2,8 @@
 aliases:
   - RDF-Schema
   - rdfs
+has_id_wikidata: Q1751819
 ---
-
 # [[rdfs]] 
 
 

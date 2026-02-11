@@ -2,8 +2,8 @@
 aliases:
   - injection(Math)
   - injective
+has_id_wikidata: Q182003
 ---
-
 #is_/same_as :: [[Monomorphism]] 
 
 ## #has_/text_of_/abstract 

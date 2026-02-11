@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q272035
+---
+
 
 [[../../../Science/Physics/Measurement/Accuracy]] = [[Trueness]] AND [[../../../Science/Physics/Measurement/Precision]] 
 

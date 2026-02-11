@@ -3,8 +3,8 @@ aliases:
   - Pseudomonadota
   - Proteobacteria
 title: Proteobacteria
+has_id_wikidata: Q12962137
 ---
-
 # [[Proteobacteria]] 
 
 #is_a/bio-Phylum  

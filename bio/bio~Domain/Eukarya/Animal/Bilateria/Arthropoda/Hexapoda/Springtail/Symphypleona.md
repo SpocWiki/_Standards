@@ -2,8 +2,8 @@
 aliases:
   - Symphypleona
 title: Symphypleona
+has_id_wikidata: Q915691
 ---
-
 # [[Symphypleona]] 
 
 ![Dicyrtoma fusca](Symphypleona/Dicyrtoma_fusca.jpg) 

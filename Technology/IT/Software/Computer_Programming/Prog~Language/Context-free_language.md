@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q729271
+---
+
 
 
 > In formal language theory, a  context-free language (CFL) is a language 

@@ -2,8 +2,8 @@
 aliases:
   - Asteroidea
 title: Asteroidea
+has_id_wikidata: Q25349
 ---
-
 # [[Asteroidea]] 
 
 Sea stars and starfishes 

@@ -4,8 +4,8 @@ aliases:
   - Mammoth
   - Mammoths
 title: Mammuthus
+has_id_wikidata: Q36715
 ---
-
 # [[Mammoth]] 
 
 Mammoths 

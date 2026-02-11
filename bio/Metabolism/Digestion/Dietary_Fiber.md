@@ -5,8 +5,8 @@ aliases:
   - roughage
   - Dietary_Fiber
   - Dietary Fiber
+has_id_wikidata: Q215210
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Dietary fiber** (fibre in Commonwealth English) or roughage is the portion of plant-derived food 

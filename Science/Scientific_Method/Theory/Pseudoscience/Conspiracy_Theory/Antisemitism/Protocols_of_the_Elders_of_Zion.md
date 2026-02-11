@@ -1,8 +1,8 @@
 ---
 aliases:
   - Protokolle von Zion
+has_id_wikidata: Q26193
 ---
-
 # [[Protocols_of_the_Elders_of_Zion]] 
 
 

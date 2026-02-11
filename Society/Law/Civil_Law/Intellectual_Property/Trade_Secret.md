@@ -3,8 +3,8 @@ aliases:
   - Trade Secret
   - Trade Secrets
   - Trade_Secret
+has_id_wikidata: Q602938
 ---
-
 # [[Trade_Secret]] 
 
 #is_/same_as :: []

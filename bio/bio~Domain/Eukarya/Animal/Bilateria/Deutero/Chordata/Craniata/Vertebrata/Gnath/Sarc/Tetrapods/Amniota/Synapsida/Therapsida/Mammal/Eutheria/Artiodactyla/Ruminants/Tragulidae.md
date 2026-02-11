@@ -2,8 +2,8 @@
 aliases:
   - Tragulidae
 title: Tragulidae
+has_id_wikidata: Q8535351
 ---
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

@@ -31,8 +31,8 @@ tags:
   - excalidraw
 title: Emotionale Stabilität
 type: private_note
+has_id_wikidata: Q47924
 ---
-
 # [[Big5~E-Emotional_Stability]] 
 
 #is_/part_of :: [[../Personality~Big5]] 

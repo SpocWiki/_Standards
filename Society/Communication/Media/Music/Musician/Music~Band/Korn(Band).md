@@ -2,8 +2,8 @@
 aliases:
   - Band Korn
   - Korn(Band)
+has_id_wikidata: Q80304
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Korn** (stylized as KoЯn) is an American nu metal band from Bakersfield, California, formed in 1993. 

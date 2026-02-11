@@ -3,8 +3,8 @@ aliases:
   - Robert Douglas Thomas Pattinson
   - Robert Pattinson
   - Pattinson,Robert
+has_id_wikidata: Q36767
 ---
-
 # [[Pattinson,Robert]] 
 
 #has_/time_/started :: 1986-05-13 

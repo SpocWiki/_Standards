@@ -2,8 +2,8 @@
 aliases:
   - Painters
   - Painter
+has_id_wikidata: Q11629
 ---
-
 # [[Painter]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~painter,1028181]] 

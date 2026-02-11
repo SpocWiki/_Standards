@@ -2,8 +2,8 @@
 aliases:
   - Rosids
 title: Rosids
+has_id_wikidata: Q338878
 ---
-
 # [[Rosids]] 
 
 ![Euphorbia_coerulescens](Rosids/Euphorbia_coerulescens.jpg) 

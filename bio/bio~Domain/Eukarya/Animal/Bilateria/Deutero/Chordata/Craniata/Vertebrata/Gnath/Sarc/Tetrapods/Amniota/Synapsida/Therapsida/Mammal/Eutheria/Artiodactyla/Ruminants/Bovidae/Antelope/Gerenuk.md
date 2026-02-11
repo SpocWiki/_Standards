@@ -4,8 +4,8 @@ aliases:
   - gerenuk
   - Gerenuk
 title: Litocranius walleri
+has_id_wikidata: Q208112
 ---
-
 # [[Gerenuk]] 
 ![[Gerenuk/gerenuk.jpg]] 
 

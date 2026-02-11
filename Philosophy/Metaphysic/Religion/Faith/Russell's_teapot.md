@@ -2,8 +2,8 @@
 aliases:
   - Russell's teapot
   - Russell's_teapot
+has_id_wikidata: Q267277
 ---
-
 # [[Russell's_teapot]] 
 
 #is_/similar_to :: [[Monotheism/Pastafari]] 

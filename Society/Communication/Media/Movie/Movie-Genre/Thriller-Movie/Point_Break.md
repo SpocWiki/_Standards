@@ -2,8 +2,8 @@
 aliases:
   - Point Break
   - Point_Break
+has_id_wikidata: Q1146552
 ---
-
 # [[Point_Break]] 
 
 #has_/time_/started :: 1991-07-12 

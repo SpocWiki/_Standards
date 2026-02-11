@@ -18,8 +18,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Continent/Asia/Asia~West/Jewish_History.private|Jewish_History.private]]"
   - "[[/_personal/Earth/Continent/Asia/Asia~West/Jewish_History.personal|Jewish_History.personal]]"
   - "[[/_secret/Earth/Continent/Asia/Asia~West/Jewish_History.secret|Jewish_History.secret]]"
+has_id_wikidata: Q961603
 ---
-
 # [[Jewish_History]] 
 
 #is_/same_as :: [[WD~Jewish_history,961603]] 

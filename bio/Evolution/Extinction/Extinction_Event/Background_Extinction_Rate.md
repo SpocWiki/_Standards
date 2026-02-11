@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q4839645
+---
+
 
 # [[Background_Extinction_Rate]] 
 

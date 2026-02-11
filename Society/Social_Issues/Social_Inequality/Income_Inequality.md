@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q3915542
+---
+
 
 # [[Income_Inequality]] 
 

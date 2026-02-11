@@ -2,8 +2,8 @@
 aliases:
   - Streptosiphon
 title: Streptosiphon hirsutus
+has_id_wikidata: Q9080095
 ---
-
 ## [[Streptosiphon]] 
 
 

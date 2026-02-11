@@ -3,8 +3,8 @@ aliases:
   - Tomorrow Never Dies
   - Tomorrow_Never_Dies,1997
   - Tomorrow Never Dies,1997
+has_id_wikidata: Q207916
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Tomorrow Never Dies** is a 1997 spy film, the eighteenth in the James Bond series produced by Eon Productions 

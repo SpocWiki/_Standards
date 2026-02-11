@@ -3,8 +3,8 @@ aliases:
   - biose
   - double sugar
   - Disaccharide
+has_id_wikidata: Q173600
 ---
-
 #has_/parent_class :: [[Oligosaccharide]] 
 #has_/child_/class :: [[Monosaccharide]] 
 #has_/instances :: [[Disaccharide/Lactose]] 

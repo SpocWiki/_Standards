@@ -2,8 +2,8 @@
 aliases:
   - Gene Simmons
   - Simmons,Gene
+has_id_wikidata: Q207197
 ---
-
 #has_/time_/started :: 1949-08-25 
 
 > **Gene Simmons** (born Chaim Witz; Hebrew: חיים ויץ [χaˈim ˈvits]; born 1949-08-25) 

@@ -2,8 +2,8 @@
 aliases:
   - Deferribacteres
 title: Deferribacteres
+has_id_wikidata: Q1191552
 ---
-
 # [[Deferribacteres]] 
 
 #is_a/bio-Phylum  

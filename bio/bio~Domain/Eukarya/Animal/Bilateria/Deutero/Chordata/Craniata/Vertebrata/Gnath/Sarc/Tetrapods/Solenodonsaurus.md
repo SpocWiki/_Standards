@@ -2,8 +2,8 @@
 aliases:
   - Solenodonsaurus
 title: Solenodonsaurus janenschi
+has_id_wikidata: Q589089
 ---
-
 ## [[Solenodonsaurus]]
 
 Solenodonsaurus janenschi 

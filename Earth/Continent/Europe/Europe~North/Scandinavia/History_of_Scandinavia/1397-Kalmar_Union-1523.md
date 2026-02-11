@@ -18,8 +18,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Continent/Europe/Europe~North/Scandinavia/History_of_Scandinavia/1397-Kalmar_Union-1523.private|1397-Kalmar_Union-1523.private]]"
   - "[[/_personal/Earth/Continent/Europe/Europe~North/Scandinavia/History_of_Scandinavia/1397-Kalmar_Union-1523.personal|1397-Kalmar_Union-1523.personal]]"
   - "[[/_secret/Earth/Continent/Europe/Europe~North/Scandinavia/History_of_Scandinavia/1397-Kalmar_Union-1523.secret|1397-Kalmar_Union-1523.secret]]"
+has_id_wikidata: Q62623
 ---
-
 # [[1397-Kalmar_Union-1523]] 
 
 #is_/same_as :: [[WD~Kalmar_Union,62623]] 

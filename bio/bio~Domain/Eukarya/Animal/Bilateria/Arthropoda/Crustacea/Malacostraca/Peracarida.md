@@ -2,8 +2,8 @@
 aliases:
   - Peracarida
 title: Peracarida
+has_id_wikidata: Q25933
 ---
-
 # [[Peracarida]]  
 
 ![Cirolana_harfordi](Peracarida/Cirolana_harfordi.jpg)  ![Gnathophausia_ingens](Peracarida/Gnathophausia_ingens.jpg) ![Gammarus_pulex](Peracarida/Gammarus_pulex.jpg)) 

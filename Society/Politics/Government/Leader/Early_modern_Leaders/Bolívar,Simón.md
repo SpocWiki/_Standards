@@ -4,8 +4,8 @@ aliases:
   - Simón Bolívar
   - Simón José Antonio de la Santísima Trinidad Bolívar
   - Bolívar,Simón
+has_id_wikidata: Q8605
 ---
-
 ## #has_/text_of_/abstract 
 
 > Simón José Antonio de la Santísima Trinidad Bolívar Palacios Ponte y Blanco (24 July 1783 – 17 December 1830) was a Venezuelan statesman and military officer who led what are currently the countries of Colombia, Venezuela, Ecuador, Peru, Panama, and Bolivia to independence from the Spanish Empire. 

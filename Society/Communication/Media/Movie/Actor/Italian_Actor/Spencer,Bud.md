@@ -3,8 +3,8 @@ aliases:
   - Carlo Pedersoli
   - Bud Spencer
   - Spencer,Bud
+has_id_wikidata: Q221074
 ---
-
 #has_/time_/started :: 1929-10-31  
 #has_/time_/stopped :: 2016-06-27 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

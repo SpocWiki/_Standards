@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q905896
+---
+
 
 # [[Diophantine_Equation]] 
 

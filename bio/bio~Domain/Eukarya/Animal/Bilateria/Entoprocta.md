@@ -2,8 +2,8 @@
 aliases:
   - Entoprocta
 title: Entoprocta
+has_id_wikidata: Q208580
 ---
-
 # [[Entoprocta]]
 
 goblet worms, nodding heads, kamptozoans 

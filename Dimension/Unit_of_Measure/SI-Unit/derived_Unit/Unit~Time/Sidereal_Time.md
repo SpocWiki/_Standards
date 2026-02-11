@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q191747
+---
+
 
 # [[Sidereal_Time]] 
 

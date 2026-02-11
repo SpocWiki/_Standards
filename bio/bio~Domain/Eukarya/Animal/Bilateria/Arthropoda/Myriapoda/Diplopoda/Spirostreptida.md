@@ -2,8 +2,8 @@
 aliases:
   - Spirostreptida
 title: Spirostreptida
+has_id_wikidata: Q246457
 ---
-
 # [[Spirostreptida]]  
 
 ## #has_/text_of_/abstract 

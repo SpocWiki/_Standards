@@ -4,8 +4,8 @@ aliases:
   - Alveolate
   - Alveolata
 title: Alveolates
+has_id_wikidata: Q448746
 ---
-
 # [[Alveolate]] 
 
 

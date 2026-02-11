@@ -19,8 +19,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Climate/Atmosphere,Earth/Greenhouse-Effect.private|Greenhouse-Effect.private]]"
   - "[[/_personal/Earth/Climate/Atmosphere,Earth/Greenhouse-Effect.personal|Greenhouse-Effect.personal]]"
   - "[[/_secret/Earth/Climate/Atmosphere,Earth/Greenhouse-Effect.secret|Greenhouse-Effect.secret]]"
+has_id_wikidata: Q41560
 ---
-
 # [[Greenhouse-Effect]] 
 
 Greenhouses work, because Glass is transparent to visible Light and opaque to IR. 

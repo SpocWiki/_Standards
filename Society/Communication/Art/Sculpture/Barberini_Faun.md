@@ -4,8 +4,8 @@ aliases:
   - Barberini Faun
   - Fauno Barberini
   - Barberini_Faun
+has_id_wikidata: Q681431
 ---
-
 # [[Barberini_Faun]] 
 
 ## #has_/text_of_/abstract  

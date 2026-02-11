@@ -2,8 +2,8 @@
 aliases:
   - Peter Sloterdijk
   - Sloterdijk,Peter
+has_id_wikidata: Q44845
 ---
-
 # [[Sloterdijk,Peter]] 
 
 #has_/time_/started :: 1947-06-26 

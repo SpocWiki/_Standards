@@ -2,8 +2,8 @@
 aliases:
   - Akbar
   - Abu'l-Fath Jalal-ud-din Muhammad Akbar
+has_id_wikidata: Q8597
 ---
-
 ## #has_/text_of_/abstract 
 
 > Abu'l-Fath Jalal-ud-din Muhammad **Akbar** (1542-10-15 – 1605-10-27, 

@@ -19,8 +19,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Continent/Asia/Asia~East/Fertility-Rate.private|Fertility-Rate.private]]"
   - "[[/_personal/Earth/Continent/Asia/Asia~East/Fertility-Rate.personal|Fertility-Rate.personal]]"
   - "[[/_secret/Earth/Continent/Asia/Asia~East/Fertility-Rate.secret|Fertility-Rate.secret]]"
+has_id_wikidata: Q285897
 ---
-
 # [[Fertility-Rate]] 
 
 ## replacement rate 

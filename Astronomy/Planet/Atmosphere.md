@@ -16,8 +16,8 @@ dv_is_same_as:
   - "[[/_private/Astronomy/Planet/Atmosphere.private|Atmosphere.private]]"
   - "[[/_personal/Astronomy/Planet/Atmosphere.personal|Atmosphere.personal]]"
   - "[[/_secret/Astronomy/Planet/Atmosphere.secret|Atmosphere.secret]]"
+has_id_wikidata: Q8104
 ---
-
 # [[Atmosphere]] 
 
 #has_/instances :: [[../../Earth/Climate/Atmosphere,Earth|Atmosphere,Earth]] 

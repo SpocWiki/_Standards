@@ -4,8 +4,8 @@ aliases:
   - Helen of Sparta
   - Helen_of_Troy
   - Helen of Troy
+has_id_wikidata: Q164061
 ---
-
 # [[Helen_of_Troy]] 
 
 #is_/same_as :: [[WD~Helen_of_Troy,164061]] 

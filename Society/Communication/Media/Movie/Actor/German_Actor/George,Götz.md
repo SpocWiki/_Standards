@@ -3,8 +3,8 @@ aliases:
   - Götz George
   - Götz Karl August George
   - George,Götz
+has_id_wikidata: Q63062
 ---
-
 # [[George,Götz]] 
 
 #has_/time_/started :: 1938-07-23 

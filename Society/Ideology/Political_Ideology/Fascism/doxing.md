@@ -2,8 +2,8 @@
 aliases:
   - doxxing
   - doxing
+has_id_wikidata: Q15901411
 ---
-
 ## #has_/text_of_/abstract 
 
 > **doxing** or doxxing is the act of publicly providing personally identifiable information 

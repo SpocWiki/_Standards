@@ -3,8 +3,8 @@ aliases:
   - Santalum
   - Sandalwood
   - Sandelholz
+has_id_wikidata: Q11122366
 ---
-
 ## #has_/text_of_/abstract 
 
 > **sandalwood** is a class of woods from trees in the genus Santalum. 

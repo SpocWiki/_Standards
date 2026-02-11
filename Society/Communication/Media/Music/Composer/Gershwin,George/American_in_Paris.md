@@ -3,8 +3,8 @@ aliases:
   - An American in Paris
   - American_in_Paris
   - American in Paris
+has_id_wikidata: Q853997
 ---
-
 # [[American_in_Paris]] 
 
 

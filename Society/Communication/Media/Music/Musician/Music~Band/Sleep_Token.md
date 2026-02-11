@@ -2,8 +2,8 @@
 aliases:
   - Sleep Token
   - Sleep_Token
+has_id_wikidata: Q96405837
 ---
-
 #is_/similar_to :: [[Slipknot(Band)]] 
 #is_/similar_to :: [[Tool(Band)]] 
 #is_/similar_to :: [[Meshuggah(Band)]] 

@@ -18,8 +18,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Climate/Biosphere/Biome/Forest/Tropical_Forest.private|Tropical_Forest.private]]"
   - "[[/_personal/Earth/Climate/Biosphere/Biome/Forest/Tropical_Forest.personal|Tropical_Forest.personal]]"
   - "[[/_secret/Earth/Climate/Biosphere/Biome/Forest/Tropical_Forest.secret|Tropical_Forest.secret]]"
+has_id_wikidata: Q1048194
 ---
-
 # [[Tropical_Forest]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Tropical_forest,1048194|WD~Tropical_forest,1048194]]  

@@ -25,10 +25,8 @@ tags:
   - class/infectious_agent
 title: is_a_fungus Class
 type: Type
+has_id_wikidata: Q764
 ---
-
-
-
 # [[Fungus(pathogenic)]] 
 
 Class of all fungi.

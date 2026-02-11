@@ -2,8 +2,8 @@
 aliases:
   - Pterotracheidae
 title: Pterotracheidae
+has_id_wikidata: Q121811
 ---
-
 # [[Pterotracheidae]] 
 ![Pterotrachea coronata](Pterotracheidae/PterotracheaA.jpg)) 
 

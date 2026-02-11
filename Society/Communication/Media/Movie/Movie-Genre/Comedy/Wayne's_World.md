@@ -2,8 +2,8 @@
 aliases:
   - Wayne's World
   - Wayne's_World
+has_id_wikidata: Q17089334
 ---
-
 #has_/time_/started :: 1992-06 
 
 

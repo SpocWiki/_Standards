@@ -2,8 +2,8 @@
 aliases:
   - Pholidota
 title: Pholidota
+has_id_wikidata: Q2191516
 ---
-
 # [[Pholidota]]
 
 ## Pangolins and their extinct relatives 

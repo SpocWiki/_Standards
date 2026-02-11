@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q203262
+---
+
 
 #has_/time_/started :: 1974-06-01
 #has_/creator :: [[Faggin,Federico]] 

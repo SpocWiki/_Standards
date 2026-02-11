@@ -2,8 +2,8 @@
 aliases:
   - Field of Dreams
   - Field_of_Dreams
+has_id_wikidata: Q517958
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Field of Dreams** is a 1989 American sports fantasy drama film 

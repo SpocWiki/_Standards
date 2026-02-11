@@ -4,8 +4,8 @@ aliases:
   - Postel's_Law
   - Robustness Principle
   - Robustness-Principle
+has_id_wikidata: Q633480
 ---
-
 > In computing, the **Robustness Principle** is a design guideline for software that states: 
 > "be conservative in what you do, be liberal in what you accept from others". 
 > 

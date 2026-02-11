@@ -2,8 +2,8 @@
 aliases:
   - ESCAP
   - UNESCAP
+has_id_wikidata: Q1142901
 ---
-
 # [[UNESCAP]] 
 
 > The United Nations Economic and Social Commission for Asia and the Pacific (**ESCAP**) is one of the five regional commissions under the jurisdiction of the United Nations Economic and Social Council. It was established in order to increase economic activity in Asia and the Far East, as well as to foster economic relations between the region and other areas of the world.The commission is composed of 53 Member States and nine Associate members, mostly from the Asia and Pacific regions. In addition to countries in Asia and the Pacific, the commission's members includes France, the Netherlands, the United Kingdom and the United States.

@@ -25,8 +25,8 @@ tags:
   - schema-org/Class
 title: is_a_radiation_therapy Class
 type: Type
+has_id_wikidata: Q180507
 ---
-
 # [[Radiation_Therapy]] 
 
 Class of all radiation_therapies.

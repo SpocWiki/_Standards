@@ -3,8 +3,8 @@ aliases:
   - coxib
   - Cyclooxygenase-2_inhibitor
   - Cyclooxygenase-2 inhibitor
+has_id_wikidata: Q377458
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Cyclooxygenase-2 inhibitor**s (COX-2 inhibitors), also known as coxibs, 

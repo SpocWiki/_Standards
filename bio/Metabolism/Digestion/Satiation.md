@@ -2,8 +2,8 @@
 aliases:
   - Satiety
   - Satiation
+has_id_wikidata: Q1562684
 ---
-
 ## #has_/text_of_/abstract 
 
 > Satiety (/səˈtaɪ.ə.ti/ sə-TYE-ə-tee) is a state or condition of fullness 

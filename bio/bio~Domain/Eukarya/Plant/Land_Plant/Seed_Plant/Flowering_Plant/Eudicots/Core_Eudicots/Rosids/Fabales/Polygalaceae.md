@@ -3,8 +3,8 @@ aliases:
   - milkwort
   - Polygalaceae
 title: Polygalaceae
+has_id_wikidata: Q156360
 ---
-
 # [[Polygalaceae]] 
 
 ![Polygala dalmaisiana](Polygalaceae/Polygala_dalmaisiana.jpg) 

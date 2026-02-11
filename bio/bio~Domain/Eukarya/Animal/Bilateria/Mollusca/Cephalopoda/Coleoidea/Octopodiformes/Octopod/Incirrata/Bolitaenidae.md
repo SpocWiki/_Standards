@@ -2,8 +2,8 @@
 aliases:
   - Bolitaenidae
 title: Bolitaenidae
+has_id_wikidata: Q2346507
 ---
-
 # [[Bolitaenidae]] 
 
 ![Bolitaenidae](Bolitaenidae/Japetella.jpg) 

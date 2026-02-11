@@ -20,8 +20,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Continent/Europe/EU-Treaty_of_Maastricht.private|EU-Treaty_of_Maastricht.private]]"
   - "[[/_personal/Earth/Continent/Europe/EU-Treaty_of_Maastricht.personal|EU-Treaty_of_Maastricht.personal]]"
   - "[[/_secret/Earth/Continent/Europe/EU-Treaty_of_Maastricht.secret|EU-Treaty_of_Maastricht.secret]]"
+has_id_wikidata: Q11146
 ---
-
 has_time_started = `=this.dv_has_time_started`
 
 > The Treaty on European Union, commonly known as the Maastricht Treaty, is the foundation treaty of the European Union (EU). 

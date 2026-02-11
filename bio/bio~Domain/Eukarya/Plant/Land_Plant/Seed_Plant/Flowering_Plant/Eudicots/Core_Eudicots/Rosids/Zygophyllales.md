@@ -2,8 +2,8 @@
 aliases:
   - Zygophyllales
 title: Zygophyllales
+has_id_wikidata: Q21899
 ---
-
 # [[Zygophyllales]] 
 
 ![](Zygophyllales/Larrea_tridentata0100.jpg)

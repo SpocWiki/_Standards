@@ -3,8 +3,8 @@ aliases:
   - Girls' Last Tour
   - Girls_Last_Tour
   - Girls Last Tour
+has_id_wikidata: Q36489734
 ---
-
 ## #has_/text_of_/abstract 
 
 > Girls' Last Tour (Japanese: 少女終末旅行, Hepburn: Shōjo Shūmatsu Ryokō)

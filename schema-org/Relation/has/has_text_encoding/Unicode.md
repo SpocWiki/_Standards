@@ -17,8 +17,8 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/has_text_encoding/Unicode.private|Unicode.private]]"
   - "[[/_personal/schema-org/Relation/has/has_text_encoding/Unicode.personal|Unicode.personal]]"
   - "[[/_secret/schema-org/Relation/has/has_text_encoding/Unicode.secret|Unicode.secret]]"
+has_id_wikidata: Q8819
 ---
-
 # [[Unicode]]  
 
 

@@ -2,8 +2,8 @@
 aliases:
   - Heleophryne
 title: Heleophryne
+has_id_wikidata: Q3009460
 ---
-
 # [[Heleophryne]]
 
 Ghost Frogs 

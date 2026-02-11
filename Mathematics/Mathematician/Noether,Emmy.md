@@ -4,8 +4,8 @@ aliases:
   - Emmy Noether
   - Noether
   - Noether,Emmy
+has_id_wikidata: Q7099
 ---
-
 # [[Noether,Emmy]] 
 
 #is_/same_as :: [[../../WikiData/WD~Emmy_Noether,7099|WD~Emmy_Noether,7099]] 

@@ -4,8 +4,8 @@ aliases:
   - Quinces
   - Quitte
   - Quitten
+has_id_wikidata: Q43300
 ---
-
 # [[Quince]] 
 
 

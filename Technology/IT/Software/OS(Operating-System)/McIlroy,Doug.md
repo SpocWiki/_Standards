@@ -4,8 +4,8 @@ aliases:
   - Doug McIlroy
   - Doug_McIlroy
   - McIlroy,Doug
+has_id_wikidata: Q92881
 ---
-
 > Malcolm Douglas McIlroy (born 1932) 
 > is an American mathematician, engineer, and programmer. 
 > As of 2019 he is an Adjunct Professor of Computer Science at [[Dartmouth_College]].

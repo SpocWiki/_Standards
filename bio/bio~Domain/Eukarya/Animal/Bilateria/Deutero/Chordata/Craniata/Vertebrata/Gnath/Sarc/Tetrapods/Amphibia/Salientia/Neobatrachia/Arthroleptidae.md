@@ -2,8 +2,8 @@
 aliases:
   - Arthroleptidae
 title: Arthroleptidae
+has_id_wikidata: Q55455
 ---
-
 # [[Arthroleptidae]]
 
 Arthroleptid Frogs 

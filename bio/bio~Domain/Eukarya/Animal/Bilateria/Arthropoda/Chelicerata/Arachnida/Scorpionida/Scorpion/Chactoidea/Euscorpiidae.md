@@ -2,8 +2,8 @@
 aliases:
   - Euscorpiidae
 title: Euscorpiidae
+has_id_wikidata: Q135121
 ---
-
 # [[Euscorpiidae]] 
 
 ![](Euscorpiidae.png)

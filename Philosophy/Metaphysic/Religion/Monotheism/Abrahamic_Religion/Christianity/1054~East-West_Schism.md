@@ -5,8 +5,8 @@ aliases:
   - Schism of 1054
   - 1054~East-West_Schism
   - 1054~East-West Schism
+has_id_wikidata: Q51648
 ---
-
 # [[1054~East-West_Schism]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~East-West_Schism,51648|WD~East-West_Schism,51648]] 

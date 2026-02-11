@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q134465
+---
+
 
 # [[Newton's_Law_of_universal_Gravitation]] 
 

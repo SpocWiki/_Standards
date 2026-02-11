@@ -2,8 +2,8 @@
 aliases:
   - Ariana DeBose
   - DeBose,Ariana
+has_id_wikidata: Q27733932
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Ariana DeBose** (; born January 25, 1991) is an American actress, singer, and dancer. 

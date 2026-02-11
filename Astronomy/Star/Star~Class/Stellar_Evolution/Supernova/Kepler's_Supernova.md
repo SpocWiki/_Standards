@@ -22,8 +22,8 @@ dv_is_same_as:
   - "[[/_private/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Kepler's_Supernova.private|Kepler's_Supernova.private]]"
   - "[[/_personal/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Kepler's_Supernova.personal|Kepler's_Supernova.personal]]"
   - "[[/_secret/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Kepler's_Supernova.secret|Kepler's_Supernova.secret]]"
+has_id_wikidata: Q320670
 ---
-
 # [[Kepler's_Supernova]] 
 
 

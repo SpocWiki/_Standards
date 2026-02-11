@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q2736305
+---
+
 
 #is_/similar_to :: [[../Prog~OO/Delegate~CLI]] 
 

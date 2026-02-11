@@ -2,8 +2,8 @@
 aliases:
   - Entelegynae
 title: Entelegynae
+has_id_wikidata: Q138259
 ---
-
 # [[Entelegynae]] 
 
 ![Misumena vatia](Entelegynae/Misumena_vatia.jpg) 

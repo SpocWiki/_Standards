@@ -28,8 +28,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Continent/Europe/Europe~Central/EFTA(European_Free_Trade_Association).private|EFTA(European_Free_Trade_Association).private]]"
   - "[[/_personal/Earth/Continent/Europe/Europe~Central/EFTA(European_Free_Trade_Association).personal|EFTA(European_Free_Trade_Association).personal]]"
   - "[[/_secret/Earth/Continent/Europe/Europe~Central/EFTA(European_Free_Trade_Association).secret|EFTA(European_Free_Trade_Association).secret]]"
+has_id_wikidata: Q166546
 ---
-
 has_time_started = `=this.dv_has_time_started`
 
 The EFTA is a counterpart to the [[../EU(European_Union)]].

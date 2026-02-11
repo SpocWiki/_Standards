@@ -18,8 +18,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Continent/Asia/Asia~West/Arabian_Peninsula.private|Arabian_Peninsula.private]]"
   - "[[/_personal/Earth/Continent/Asia/Asia~West/Arabian_Peninsula.personal|Arabian_Peninsula.personal]]"
   - "[[/_secret/Earth/Continent/Asia/Asia~West/Arabian_Peninsula.secret|Arabian_Peninsula.secret]]"
+has_id_wikidata: Q31945
 ---
-
 # [[Arabian_Peninsula]] 
 
 ```leaflet

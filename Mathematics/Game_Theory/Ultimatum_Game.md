@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q2295916
+---
+
 
 # [[Ultimatum_Game]] 
 

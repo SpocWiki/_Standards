@@ -4,8 +4,8 @@ aliases:
   - Denzel Washington
   - Denzel Hayes Washington Jr.
   - Washington,Denzel
+has_id_wikidata: Q42101
 ---
-
 # [[Washington,Denzel]] 
 
 #has_/time_/started :: 1954-12-28 

@@ -19,8 +19,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Explorer.private|Explorer.private]]"
   - "[[/_personal/Earth/Explorer.personal|Explorer.personal]]"
   - "[[/_secret/Earth/Explorer.secret|Explorer.secret]]"
+has_id_wikidata: Q116967296
 ---
-
 # [[Explorer]] 
 
 has_created = `=this.dv_has_created`

@@ -4,8 +4,8 @@ aliases:
   - Terry Pratchett
   - Terry_Pratchett
   - Terence David John Pratchett
+has_id_wikidata: Q46248
 ---
-
 #has_/time_/started ::  1948-04-28 
 #has_/time_/stopped ::  2015-03-12 
 

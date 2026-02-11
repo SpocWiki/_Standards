@@ -2,8 +2,8 @@
 aliases:
   - Rundmäuler
   - Cyclostomi
+has_id_wikidata: Q500266
 ---
-
 # [[Cyclostomi]] 
 
 #is_/same_as :: [[WD~Cyclostomi,]]

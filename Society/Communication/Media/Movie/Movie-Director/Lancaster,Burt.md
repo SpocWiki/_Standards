@@ -3,8 +3,8 @@ aliases:
   - Burt Lancaster
   - Burton Stephen Lancaster
   - Lancaster,Burt
+has_id_wikidata: Q160528
 ---
-
 #has_/time_/started :: 1913-11-02 
 #has_/time_/stopped  :: 1994-10-20 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

@@ -2,8 +2,8 @@
 aliases:
   - Dolores O'Riordan
   - Dolores_O'Riordan
+has_id_wikidata: Q541599
 ---
-
 # [[O'Riordan,Dolores]] 
 
 

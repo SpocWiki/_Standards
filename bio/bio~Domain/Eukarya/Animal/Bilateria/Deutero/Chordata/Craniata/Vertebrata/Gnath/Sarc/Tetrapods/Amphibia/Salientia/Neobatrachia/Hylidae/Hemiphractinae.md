@@ -2,8 +2,8 @@
 aliases:
   - Hemiphractinae
 title: Hemiphractinae
+has_id_wikidata: Q2852661
 ---
-
 # [[Hemiphractinae]] 
 
 ## #has_/text_of_/abstract 

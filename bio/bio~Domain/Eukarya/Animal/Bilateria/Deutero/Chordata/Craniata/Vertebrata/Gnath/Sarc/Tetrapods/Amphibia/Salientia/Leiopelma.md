@@ -2,8 +2,8 @@
 aliases:
   - Leiopelma
 title: Leiopelma
+has_id_wikidata: Q1976453
 ---
-
 # [[Leiopelma]] 
 
  ![Leiopelma hochstetteri](Leiopelma/leiopelma.jpg)  ![Leiopelma](Leiopelma/leiopelma-Blood.jpg) 

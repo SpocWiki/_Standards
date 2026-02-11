@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q170002
+---
+
 #is_/instance_of :: [[../Disaccharide]]
 #has_/parts :: [[../Monosaccharide/Glucose]] 
 

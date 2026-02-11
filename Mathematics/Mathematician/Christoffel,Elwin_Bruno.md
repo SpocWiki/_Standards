@@ -3,8 +3,8 @@ aliases:
   - Elwin Bruno Christoffel
   - Christoffel,Elwin_Bruno
   - Christoffel,Elwin Bruno
+has_id_wikidata: Q58795
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Elwin Bruno Christoffel** (German: [kʁɪˈstɔfl̩]; 10 November 1829 – 15 March 1900) 

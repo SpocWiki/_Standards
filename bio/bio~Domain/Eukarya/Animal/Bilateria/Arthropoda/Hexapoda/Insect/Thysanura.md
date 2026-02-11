@@ -2,8 +2,8 @@
 aliases:
   - Thysanura
 title: Thysanura
+has_id_wikidata: Q226951
 ---
-
 # [[Thysanura]] 
 
 Silverfish and Firebrats 

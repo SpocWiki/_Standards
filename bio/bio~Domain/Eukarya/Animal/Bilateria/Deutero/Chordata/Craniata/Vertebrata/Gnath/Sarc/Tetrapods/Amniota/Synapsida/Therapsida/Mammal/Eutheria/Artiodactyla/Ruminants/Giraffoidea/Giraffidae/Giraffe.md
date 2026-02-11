@@ -3,8 +3,8 @@ aliases:
   - Giraffa
   - Giraffe
 title: Giraffa
+has_id_wikidata: Q862089
 ---
-
 # Giraffa
 
 Giraffes 

@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q338047
+---
+
 
 > In formal language theory, a **Context-free grammar** (CFG) is a formal grammar whose production rules 
 >

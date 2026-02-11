@@ -4,8 +4,8 @@ aliases:
   - Jürgen Norbert Klopp
   - Klopp
   - Klopp,Jürgen
+has_id_wikidata: Q83106
 ---
-
 # [[Klopp,Jürgen]] 
 
 ## #has_/text_of_/abstract  

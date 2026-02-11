@@ -2,8 +2,8 @@
 aliases:
   - Ebracteolate
 title: Ebracteolate clade
+has_id_wikidata: Q729496
 ---
-
 # [[Ebracteolate]]  
 
 ![ ](Ebracteolate/dscn0140.jpg)

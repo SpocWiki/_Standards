@@ -2,8 +2,8 @@
 aliases:
   - plaintiff
   - Kläger
+has_id_wikidata: Q468489
 ---
-
 # [[Claimant]] 
 
 #has_/complement :: [[Defendant]] 

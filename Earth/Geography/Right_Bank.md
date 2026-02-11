@@ -20,8 +20,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Geography/Right_Bank.private|Right_Bank.private]]"
   - "[[/_personal/Earth/Geography/Right_Bank.personal|Right_Bank.personal]]"
   - "[[/_secret/Earth/Geography/Right_Bank.secret|Right_Bank.secret]]"
+has_id_wikidata: Q3433474
 ---
-
 # [[Right_Bank]] 
 
 is_opposite_of = `=this.dv_is_opposite_of`

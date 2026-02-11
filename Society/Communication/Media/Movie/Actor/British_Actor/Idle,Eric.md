@@ -2,8 +2,8 @@
 aliases:
   - Eric Idle
   - Idle,Eric
+has_id_wikidata: Q210741
 ---
-
 # [[Idle,Eric]] 
 
 #is_/member_/of :: [[Monty_Python]] 

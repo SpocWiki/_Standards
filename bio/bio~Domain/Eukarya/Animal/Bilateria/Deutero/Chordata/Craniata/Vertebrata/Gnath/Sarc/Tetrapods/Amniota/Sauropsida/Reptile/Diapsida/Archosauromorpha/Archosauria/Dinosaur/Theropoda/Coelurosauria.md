@@ -2,8 +2,8 @@
 aliases:
   - Coelurosauria
 title: Coelurosauria
+has_id_wikidata: Q131092
 ---
-
 # [[Coelurosauria]]
 
 Birds, tyrannosaurs, velociraptors, etc. 

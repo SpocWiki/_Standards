@@ -4,8 +4,8 @@ aliases:
   - Antilocapra
 has_id_wikidata: 19817351
 title: Antilocapra americana
+has_id_wikidata: Q19817351
 ---
-
 # [[Antilocapra]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Antilocapra,19817351|WD~Antilocapra,19817351]] 

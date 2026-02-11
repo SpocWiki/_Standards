@@ -4,8 +4,8 @@ aliases:
   - body fat
   - Adipose_Tissue
   - Adipose Tissue
+has_id_wikidata: Q193583
 ---
-
 ## #has_/text_of_/abstract 
 
 > Adipose tissue (also known as body fat or simply fat) is a loose connective tissue 

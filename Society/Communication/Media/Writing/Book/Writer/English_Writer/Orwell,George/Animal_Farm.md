@@ -2,8 +2,8 @@
 aliases:
   - Animal Farm
   - Animal_Farm
+has_id_wikidata: Q1396889
 ---
-
 #has_/creator :: [[../Orwell,George|Orwell,George]] 
 #has_/time_/started :: 1945-08-17 
 

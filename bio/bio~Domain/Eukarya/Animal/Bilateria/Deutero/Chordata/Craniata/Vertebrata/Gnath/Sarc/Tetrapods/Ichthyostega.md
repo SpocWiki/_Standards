@@ -2,8 +2,8 @@
 aliases:
   - Ichthyostega
 title: Ichthyostega
+has_id_wikidata: Q131475
 ---
-
 # [[Ichthyostega]]
 
 ![ ](Ichthyostega/ichthyostega.jpg)

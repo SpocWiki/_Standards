@@ -1,8 +1,8 @@
 ---
 aliases:
   - repeatable
+has_id_wikidata: Q520171
 ---
-
 # [[Repeatability]] 
 
 ## #has_/text_of_/abstract 

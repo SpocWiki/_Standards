@@ -2,8 +2,8 @@
 aliases:
   - Bothriuridae
 title: Bothriuridae
+has_id_wikidata: Q134892
 ---
-
 # [[Bothriuridae]] 
 
 ![](Bothriuridae.png)

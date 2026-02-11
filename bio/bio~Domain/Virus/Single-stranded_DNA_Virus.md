@@ -3,8 +3,8 @@ aliases:
   - Single-stranded_DNA_Virus
   - Single-stranded DNA Virus
 title: Single-stranded DNA Viruses
+has_id_wikidata: Q858790
 ---
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

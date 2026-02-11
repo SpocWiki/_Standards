@@ -2,8 +2,8 @@
 aliases:
   - Bryopsida
 title: Bryopsida
+has_id_wikidata: Q831482
 ---
-
 # [[Bryopsida]]
 
 Mosses with arthrodontous peristome. 

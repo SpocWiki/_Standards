@@ -2,8 +2,8 @@
 aliases:
   - Erykah Badu
   - Badu,Erykah
+has_id_wikidata: Q223875
 ---
-
 Her Voice sounds similar to [[Holiday,Billie]]. 
 Her music is very funky and soulful. 
 

@@ -4,8 +4,8 @@ aliases:
   - Chloroflexota
   - Chloroflexia
 title: Chloroflexi
+has_id_wikidata: Q8592142
 ---
-
 # [[Chloroflexi]] 
 
 green nonsulfur bacteria 

@@ -4,8 +4,8 @@ aliases:
   - pandans
   - screw-pines
 title: Pandanales
+has_id_wikidata: Q269303
 ---
-
 # [[Pandanales]] 
 
 ![Talbotia_elegans](Pandanales/Talbotia_elegans.jpg) 

@@ -2,8 +2,8 @@
 aliases:
   - Magnoliales
 title: Magnoliales
+has_id_wikidata: Q27187
 ---
-
 # [[Magnoliales]] 
 
 ![Magnolia tripetala](Magnoliales/Magnolia_tripetala03805.jpg)  ![Asimina triloba,Pawpaw tree](Magnoliales/Pawpaw_tree.jpg) 

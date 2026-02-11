@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q173451
+---
+
 # [[TTL(Transistor-Transistor_Logic)]] 
 
 #has_/Voltage :: 5

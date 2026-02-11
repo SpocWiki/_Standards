@@ -24,8 +24,8 @@ dv_is_same_as:
   - "[[/_private/Chemistry/Organic_Chemistry/Thiol.private|Thiol.private]]"
   - "[[/_personal/Chemistry/Organic_Chemistry/Thiol.personal|Thiol.personal]]"
   - "[[/_secret/Chemistry/Organic_Chemistry/Thiol.secret|Thiol.secret]]"
+has_id_wikidata: Q220410
 ---
-
 # [[Thiol]] 
 
 is_similar_to = `=this.dv_is_similar_to` 

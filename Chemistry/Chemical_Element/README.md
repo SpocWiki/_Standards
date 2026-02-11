@@ -16,6 +16,7 @@ dv_is_same_as:
   - "[[/_private/Chemistry/Chemical_Element/README.private|README.private]]"
   - "[[/_personal/Chemistry/Chemical_Element/README.personal|README.personal]]"
   - "[[/_secret/Chemistry/Chemical_Element/README.secret|README.secret]]"
+has_id_wikidata: Q11344
 ---
 # Obsidian.Elements
 Shared Facts about chemical Elements

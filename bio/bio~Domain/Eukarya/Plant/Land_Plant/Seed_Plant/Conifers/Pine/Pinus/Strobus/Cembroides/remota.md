@@ -2,8 +2,8 @@
 aliases:
   - remota
 title: Pinus remota
+has_id_wikidata: Q2916933
 ---
-
 # [[Pinus remota]]
 
 paper-shell pinyon 

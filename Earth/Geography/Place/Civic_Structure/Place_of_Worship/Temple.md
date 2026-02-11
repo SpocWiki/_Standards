@@ -18,8 +18,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.private|Temple.private]]"
   - "[[/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.personal|Temple.personal]]"
   - "[[/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.secret|Temple.secret]]"
+has_id_wikidata: Q44539
 ---
-
 # [[Temple]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Temple,44539|WD~Temple,44539]]  

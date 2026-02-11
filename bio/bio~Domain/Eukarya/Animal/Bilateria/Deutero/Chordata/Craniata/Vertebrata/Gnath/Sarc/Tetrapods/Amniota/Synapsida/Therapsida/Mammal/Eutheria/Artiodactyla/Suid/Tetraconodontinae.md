@@ -2,8 +2,8 @@
 aliases:
   - Tetraconodontinae
 title: Tetraconodontinae
+has_id_wikidata: Q7706278
 ---
-
 # [[Tetraconodontinae]] 
 
 ## #has_/text_of_/abstract 

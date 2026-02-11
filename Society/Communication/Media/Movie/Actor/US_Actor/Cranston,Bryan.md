@@ -3,8 +3,8 @@ aliases:
   - Brian Cranston
   - Bryan Lee Cranston
   - Cranston,Bryan
+has_id_wikidata: Q23547
 ---
-
 ## #has_/text_of_/abstract 
 
 > Bryan Lee Cranston (born March 7, 1956) is an American actor. 

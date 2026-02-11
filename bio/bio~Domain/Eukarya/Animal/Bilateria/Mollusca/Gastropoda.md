@@ -2,8 +2,8 @@
 aliases:
   - Gastropoda
 title: Gastropoda
+has_id_wikidata: Q4867740
 ---
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

@@ -2,8 +2,8 @@
 aliases:
   - Brillantaisia
 title: Brillantaisia
+has_id_wikidata: Q2208353
 ---
-
 # [[Brillantaisia]] 
 
 

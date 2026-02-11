@@ -4,8 +4,8 @@ aliases:
   - Papilionaceae
   - Papilionoideae
 title: Papilionoideae
+has_id_wikidata: Q316856
 ---
-
 # [[Papilionoideae]]  
 
 ![Vigna speciosa](Papilionoideae/Vigna_speciosa.jpg) 

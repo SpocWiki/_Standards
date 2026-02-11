@@ -18,8 +18,8 @@ dv_is_same_as:
   - "[[/_private/Astronomy/Interstellar_Medium.private|Interstellar_Medium.private]]"
   - "[[/_personal/Astronomy/Interstellar_Medium.personal|Interstellar_Medium.personal]]"
   - "[[/_secret/Astronomy/Interstellar_Medium.secret|Interstellar_Medium.secret]]"
+has_id_wikidata: Q41872
 ---
-
 # [[Interstellar_Medium]] 
 
 #is_/same_as :: [[WD~Interstellar_medium,41872]]   

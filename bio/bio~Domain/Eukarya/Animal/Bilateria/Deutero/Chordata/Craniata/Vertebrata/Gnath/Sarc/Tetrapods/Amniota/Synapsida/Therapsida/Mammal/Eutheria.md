@@ -3,8 +3,8 @@ aliases:
   - Placental Mammals
   - Eutheria
 title: Eutheria
+has_id_wikidata: Q17092469
 ---
-
 # [[Eutheria]]
 
 ## Placental Mammals 

@@ -7,8 +7,8 @@ aliases:
   - hairy babirusa
   - Babyrousa_babyrussa
 title: Babyrousa babyrussa
+has_id_wikidata: Q629015
 ---
-
 # Babyrousa babyrussa 
 
 ![ ](168982839_3aeef92626_b.jpg)

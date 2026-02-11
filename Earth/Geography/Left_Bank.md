@@ -20,6 +20,7 @@ dv_is_same_as:
   - "[[/_private/Earth/Geography/Left_Bank.private|Left_Bank.private]]"
   - "[[/_personal/Earth/Geography/Left_Bank.personal|Left_Bank.personal]]"
   - "[[/_secret/Earth/Geography/Left_Bank.secret|Left_Bank.secret]]"
+has_id_wikidata: Q1680789
 ---
 # [[Left_Bank]] 
 

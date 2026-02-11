@@ -28,8 +28,8 @@ tags:
   - excalidraw
 title: Offenheit
 type: private_note
+has_id_wikidata: Q2015673
 ---
-
 # [[Big5~O-Openness]] 
 
 #is_/part_of :: [[../Personality~Big5]] 

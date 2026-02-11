@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q122653
+---
+
 
 # [[Numeral_System]] 
 

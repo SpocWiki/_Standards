@@ -5,8 +5,8 @@ aliases:
   - Literaturnobelpreis
   - Literature_Nobel_Prize
   - Literature Nobel Prize
+has_id_wikidata: Q6461210
 ---
-
 ## #has_/text_of_/abstract 
 
 > The Nobel Prize in Literature (Swedish: Nobelpriset i litteratur) is awarded annually 

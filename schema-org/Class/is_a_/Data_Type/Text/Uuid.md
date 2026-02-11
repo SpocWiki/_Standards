@@ -30,8 +30,8 @@ dv_is_same_as:
   - "[[/_private/schema-org/Class/is_a_/Data_Type/Text/Uuid.private|Uuid.private]]"
   - "[[/_personal/schema-org/Class/is_a_/Data_Type/Text/Uuid.personal|Uuid.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Data_Type/Text/Uuid.secret|Uuid.secret]]"
+has_id_wikidata: Q195284
 ---
-
 # [[UUID]] 
 
 Better Alternatives are: 

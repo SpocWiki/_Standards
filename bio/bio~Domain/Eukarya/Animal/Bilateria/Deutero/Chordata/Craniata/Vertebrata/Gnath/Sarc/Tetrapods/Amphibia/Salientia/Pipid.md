@@ -3,8 +3,8 @@ aliases:
   - Pipidae
   - Pipid
 title: Pipidae
+has_id_wikidata: Q56067
 ---
-
 # [[Pipid]]
 
 #is_/same_as :: 

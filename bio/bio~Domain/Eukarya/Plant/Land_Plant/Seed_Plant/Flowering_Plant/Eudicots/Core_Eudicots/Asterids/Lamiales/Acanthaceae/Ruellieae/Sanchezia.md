@@ -2,8 +2,8 @@
 aliases:
   - Sanchezia
 title: Sanchezia
+has_id_wikidata: Q2492116
 ---
-
 # [[Sanchezia]] 
 
 ![ ](Sanchezia/sancheziaweb.jpg)

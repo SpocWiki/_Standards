@@ -18,8 +18,8 @@ dv_is_same_as:
   - "[[/_private/Astronomy/Interstellar_Medium/Nebula.private|Nebula.private]]"
   - "[[/_personal/Astronomy/Interstellar_Medium/Nebula.personal|Nebula.personal]]"
   - "[[/_secret/Astronomy/Interstellar_Medium/Nebula.secret|Nebula.secret]]"
+has_id_wikidata: Q42372
 ---
-
 # [[Nebula]] 
 
 #is_/same_as :: [[WD~Nebula,42372]] 

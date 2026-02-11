@@ -16,8 +16,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Geography/Place/Alhambra.private|Alhambra.private]]"
   - "[[/_personal/Earth/Geography/Place/Alhambra.personal|Alhambra.personal]]"
   - "[[/_secret/Earth/Geography/Place/Alhambra.secret|Alhambra.secret]]"
+has_id_wikidata: Q47476
 ---
-
 # [[Alhambra]] 
 
 ![[../../../assets/Alhambra,Granada,Spain.png]] 

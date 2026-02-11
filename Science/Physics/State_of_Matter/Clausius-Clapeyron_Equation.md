@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q745416
+---
+
 
 # [[Clausius-Clapeyron_Equation]] 
 

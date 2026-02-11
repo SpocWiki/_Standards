@@ -2,8 +2,8 @@
 aliases:
   - Gesneriaceae
 title: Gesneriaceae
+has_id_wikidata: Q156686
 ---
-
 # [[Gesneriaceae]] 
 
 ![Neomortonia](Gesneriaceae/neomortonia.jpg)

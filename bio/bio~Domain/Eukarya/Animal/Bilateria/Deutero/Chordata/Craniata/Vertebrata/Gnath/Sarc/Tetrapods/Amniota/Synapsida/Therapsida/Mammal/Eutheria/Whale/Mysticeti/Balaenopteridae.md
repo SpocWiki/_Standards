@@ -2,8 +2,8 @@
 aliases:
   - Balaenopteridae
 title: Balaenopteridae
+has_id_wikidata: Q232829
 ---
-
 # [[Balaenopteridae]]
 
 ## Rorquals 

@@ -2,8 +2,8 @@
 aliases:
   - Angelina Jolie
   - Jolie,Angelina
+has_id_wikidata: Q13909
 ---
-
 #has_/time_/started :: 1975-06-04 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 

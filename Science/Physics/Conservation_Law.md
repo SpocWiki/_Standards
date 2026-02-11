@@ -3,9 +3,8 @@ aliases:
   - Conservation law
   - Conservation_Law
   - Conservation Law
+has_id_wikidata: Q205805
 ---
-
-
 ## #has_/text_of_/abstract 
 
 > In physics, a **Conservation law** states that 

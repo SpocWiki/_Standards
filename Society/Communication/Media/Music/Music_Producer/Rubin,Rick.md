@@ -3,8 +3,8 @@ aliases:
   - Rick Rubin
   - Frederick Jay Rubin
   - Rubin,Rick
+has_id_wikidata: Q587361
 ---
-
 # [[Rubin,Rick]] 
 
 #has_/time_/started :: 1963-03-10 

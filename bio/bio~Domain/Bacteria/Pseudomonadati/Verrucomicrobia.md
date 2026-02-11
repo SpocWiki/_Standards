@@ -2,8 +2,8 @@
 aliases:
   - Verrucomicrobia
 title: Verrucomicrobia
+has_id_wikidata: Q25228461
 ---
-
 # [[Verrucomicrobia]] 
 
 #is_a/bio-Phylum  

@@ -2,8 +2,8 @@
 aliases:
   - Protoxerini
 title: Protoxerini
+has_id_wikidata: Q150569
 ---
-
 # [[Protoxerini]]
 
 ![ ](Protoxerini/picture-52.jpg)

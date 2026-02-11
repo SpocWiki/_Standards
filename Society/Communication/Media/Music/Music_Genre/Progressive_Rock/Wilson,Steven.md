@@ -2,8 +2,8 @@
 aliases:
   - Steven Wilson
   - Wilson,Steven
+has_id_wikidata: Q352766
 ---
-
 # [[Wilson,Steven]] 
 
 

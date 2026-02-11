@@ -2,8 +2,8 @@
 aliases:
   - Fields Medal
   - Fields_Medal
+has_id_wikidata: Q28835
 ---
-
 #is_/similar_to :: [[Abel_Prize]] 
 
 ## #has_/text_of_/abstract 

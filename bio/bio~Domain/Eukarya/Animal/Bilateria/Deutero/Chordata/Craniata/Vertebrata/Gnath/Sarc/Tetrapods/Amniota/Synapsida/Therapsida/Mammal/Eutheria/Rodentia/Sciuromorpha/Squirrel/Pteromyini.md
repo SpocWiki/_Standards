@@ -2,8 +2,8 @@
 aliases:
   - Pteromyini
 title: Pteromyini
+has_id_wikidata: Q9490
 ---
-
 # [[Pteromyini]] 
 
 ## #has_/text_of_/abstract 

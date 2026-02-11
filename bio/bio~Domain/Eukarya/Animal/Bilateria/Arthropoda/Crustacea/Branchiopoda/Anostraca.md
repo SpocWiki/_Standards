@@ -2,8 +2,8 @@
 aliases:
   - Anostraca
 title: Anostraca
+has_id_wikidata: Q853383
 ---
-
 # [[Anostraca]] 
 
 ## #has_/text_of_/abstract 

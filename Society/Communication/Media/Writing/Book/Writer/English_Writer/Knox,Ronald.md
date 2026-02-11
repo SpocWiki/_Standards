@@ -2,8 +2,8 @@
 aliases:
   - Ronald Knox
   - Knox,Ronald
+has_id_wikidata: Q707945
 ---
-
 # [[Knox,Ronald]] 
 
 #has_/time_/started :: 1888-02-17 

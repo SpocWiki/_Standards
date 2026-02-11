@@ -2,8 +2,8 @@
 aliases:
   - Mysticeti
 title: Mysticeti
+has_id_wikidata: Q168366
 ---
-
 # [[Mysticeti]]
 
 ## Baleen whales 

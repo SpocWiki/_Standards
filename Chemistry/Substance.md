@@ -51,8 +51,8 @@ dv_is_same_as:
   - "[[/_private/Chemistry/Substance.private|Substance.private]]"
   - "[[/_personal/Chemistry/Substance.personal|Substance.personal]]"
   - "[[/_secret/Chemistry/Substance.secret|Substance.secret]]"
+has_id_wikidata: Q35758
 ---
-
 # [[Substance]] 
 
 Class of all substances.

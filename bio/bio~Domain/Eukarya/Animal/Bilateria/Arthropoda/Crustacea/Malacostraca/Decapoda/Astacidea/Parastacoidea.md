@@ -3,8 +3,8 @@ aliases:
   - Parastacoidea
   - Parastacidae
 title: Parastacidae
+has_id_wikidata: Q1190541
 ---
-
 ## [[Parastacoidea]] 
 
 Parastacidae 

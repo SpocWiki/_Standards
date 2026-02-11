@@ -55,8 +55,8 @@ dv_is_same_as:
   - "[[/_private/Chemistry/Organic_Chemistry/Carboxylic_Acid/Ethanoic_Acid.private|Ethanoic_Acid.private]]"
   - "[[/_personal/Chemistry/Organic_Chemistry/Carboxylic_Acid/Ethanoic_Acid.personal|Ethanoic_Acid.personal]]"
   - "[[/_secret/Chemistry/Organic_Chemistry/Carboxylic_Acid/Ethanoic_Acid.secret|Ethanoic_Acid.secret]]"
+has_id_wikidata: Q47512
 ---
-
 # [[Ethanoic_Acid]] 
 
 is_part_of = `=this.dv_is_part_of` 

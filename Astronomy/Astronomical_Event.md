@@ -16,9 +16,8 @@ dv_is_same_as:
   - "[[/_private/Astronomy/Astronomical_Event.private|Astronomical_Event.private]]"
   - "[[/_personal/Astronomy/Astronomical_Event.personal|Astronomical_Event.personal]]"
   - "[[/_secret/Astronomy/Astronomical_Event.secret|Astronomical_Event.secret]]"
+has_id_wikidata: Q7131177
 ---
-
-
 ## #has_/text_of_/abstract 
 
 > **astronomical event**s are celestial body events such as eclipses, novae or planetary collisions 

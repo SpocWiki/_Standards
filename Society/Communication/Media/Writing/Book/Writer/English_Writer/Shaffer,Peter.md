@@ -3,8 +3,8 @@ aliases:
   - Peter Shaffer
   - Sir Peter Levin Shaffer
   - Shaffer,Peter
+has_id_wikidata: Q318188
 ---
-
 # [[Shaffer,Peter]] 
 
 #has_/time_/started ::  1926-05-15 

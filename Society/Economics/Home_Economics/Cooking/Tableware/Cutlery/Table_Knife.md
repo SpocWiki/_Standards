@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q3130638
+---
+
 
 # [[Table_Knife]] 
 

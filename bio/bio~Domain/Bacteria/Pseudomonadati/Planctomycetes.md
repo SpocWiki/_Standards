@@ -3,8 +3,8 @@ aliases:
   - Planctomycetota
   - Planctomycetes
 title: Planctomycetes
+has_id_wikidata: Q18674593
 ---
-
 # [[Planctomycetes]] 
 
 #is_a/bio-Phylum  

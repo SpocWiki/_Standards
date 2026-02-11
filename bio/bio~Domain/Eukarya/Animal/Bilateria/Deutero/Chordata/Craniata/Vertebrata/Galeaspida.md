@@ -2,8 +2,8 @@
 aliases:
   - Galeaspida
 title: Galeaspida
+has_id_wikidata: Q134311
 ---
-
 # [[Galeaspida]]
 
 ![Galeaspida](Galeaspida/galeaspida.gif)  

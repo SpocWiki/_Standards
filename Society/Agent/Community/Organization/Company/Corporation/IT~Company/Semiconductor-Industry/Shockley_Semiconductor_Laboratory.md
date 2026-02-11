@@ -3,8 +3,8 @@ aliases:
   - Shockley Transistor Corporation
   - Shockley_Semiconductor_Laboratory
   - Shockley Semiconductor Laboratory
+has_id_wikidata: Q1138021
 ---
-
 > Shockley Semiconductor Laboratory, later known as Shockley Transistor Corporation, 
 > was a pioneering semiconductor developer founded by [[Shockley,William]], 
 > and funded by [[Beckman_Instruments,Inc]]., in 1955.  

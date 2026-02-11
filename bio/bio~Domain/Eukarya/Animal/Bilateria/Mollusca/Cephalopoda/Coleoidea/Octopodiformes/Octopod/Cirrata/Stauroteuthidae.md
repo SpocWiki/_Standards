@@ -2,8 +2,8 @@
 aliases:
   - Stauroteuthidae
 title: Stauroteuthis
+has_id_wikidata: Q2577734
 ---
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

@@ -4,8 +4,8 @@ aliases:
   - Stadt der verlorenen Kinder
   - City of Lost Children
   - La Cité des enfants perdus
+has_id_wikidata: Q749988
 ---
-
 # [[City_of_Lost_Children]]
 
 ## #has_/text_of_/abstract 

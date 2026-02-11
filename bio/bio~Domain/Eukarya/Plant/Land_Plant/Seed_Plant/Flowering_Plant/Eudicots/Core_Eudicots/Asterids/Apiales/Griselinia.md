@@ -2,8 +2,8 @@
 aliases:
   - Griselinia
 title: Griselinia
+has_id_wikidata: Q135212
 ---
-
 # [[Griselinia]] 
 
 

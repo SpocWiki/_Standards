@@ -26,8 +26,8 @@ tags:
   - rather use
 title: goodRelations
 type: private note
+has_id_wikidata: Q39053847
 ---
-
 # [[goodRelations]] 
 
 #is_/part_of :: [[goodRelations]] 

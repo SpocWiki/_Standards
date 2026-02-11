@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q51798
+---
+
 # [[Prog~Clojure]] 
 
 #is_a_/ComputerLanguage 

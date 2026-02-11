@@ -19,8 +19,8 @@ dv_is_same_as:
   - "[[/_private/Chemistry/Chemical_Element/Group-07-Manganese.private|Group-07-Manganese.private]]"
   - "[[/_personal/Chemistry/Chemical_Element/Group-07-Manganese.personal|Group-07-Manganese.personal]]"
   - "[[/_secret/Chemistry/Chemical_Element/Group-07-Manganese.secret|Group-07-Manganese.secret]]"
+has_id_wikidata: Q202602
 ---
-
 #chemic/Group 
 
 4)[[Group-07-Manganese/Manganese]]]

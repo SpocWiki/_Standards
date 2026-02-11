@@ -5,8 +5,8 @@ aliases:
 tags:
   - Lang/jv
 type: Lang
+has_id_wikidata: Q33549
 ---
-
 # [[Lang-jav]] 
 
 [SpocWebEntityId:: 464 ]

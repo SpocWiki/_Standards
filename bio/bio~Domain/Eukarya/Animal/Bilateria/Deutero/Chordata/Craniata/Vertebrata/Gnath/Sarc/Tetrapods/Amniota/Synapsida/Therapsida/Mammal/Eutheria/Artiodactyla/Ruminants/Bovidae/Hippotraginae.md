@@ -3,8 +3,8 @@ aliases:
   - Hippotraginae
   - Hippotragini
 title: Hippotraginae
+has_id_wikidata: Q725271
 ---
-
 # [[Hippotraginae]] 
 
 ![Beisa Oryx](Hippotraginae/beisa_oryx.jpg) 

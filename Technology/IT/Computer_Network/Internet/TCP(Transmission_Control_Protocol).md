@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q8803
+---
+
 
 # [[TCP(Transmission_Control_Protocol)]] 
 

@@ -2,8 +2,8 @@
 aliases:
   - Tarsem Singh
   - Tarsem_Singh
+has_id_wikidata: Q383768
 ---
-
 #has_/time_/started :: 1961-05-26  
 
 > **Tarsem Singh** Dhandwar (born 26 May 1961), known professionally as Tarsem, 

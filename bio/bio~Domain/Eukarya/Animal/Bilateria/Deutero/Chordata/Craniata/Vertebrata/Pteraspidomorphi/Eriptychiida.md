@@ -2,8 +2,8 @@
 aliases:
   - Eriptychiida
 title: Eriptychiida
+has_id_wikidata: Q17000282
 ---
-
 # [[Eriptychiida]]
 
 ![ ](Eriptychiida/eriptychiida.gif)

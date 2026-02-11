@@ -2,8 +2,8 @@
 aliases:
   - Reddit
   - subreddit
+has_id_wikidata: Q1136
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Reddit** (RED-it) is an American proprietary social news aggregation and forum social media platform. 

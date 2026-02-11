@@ -2,8 +2,8 @@
 aliases:
   - Population Exchange
   - Population_Exchange
+has_id_wikidata: Q15589476
 ---
-
 # [[Population_Exchange]] 
 
 #is_/same_as :: 

@@ -2,8 +2,8 @@
 aliases:
   - Sigmodon
 title: Sigmodon
+has_id_wikidata: Q609460
 ---
-
 # [[Sigmodon]]
 
 ## Sigmodontini: cotton rats 

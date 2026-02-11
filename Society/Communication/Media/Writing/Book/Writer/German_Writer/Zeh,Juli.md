@@ -4,8 +4,8 @@ aliases:
   - Julia Barbara Finck
   - Julia Barbara Zeh
   - Zeh,Juli
+has_id_wikidata: Q76324
 ---
-
 # [[Zeh,Juli]] 
 
 #has_/place_/started :: [[../../../../../../_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Nordrhein-Westfalen/counties~NW/Bonn|Bonn]]  

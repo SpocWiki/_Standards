@@ -2,8 +2,8 @@
 aliases:
   - Oryzorictes
 title: Oryzorictes
+has_id_wikidata: Q601858
 ---
-
 # [[Oryzorictes]]
 
 ## rice tenrecs 

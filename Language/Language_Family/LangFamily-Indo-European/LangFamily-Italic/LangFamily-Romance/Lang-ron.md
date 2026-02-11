@@ -5,8 +5,8 @@ aliases:
   - limba română
   - românește
   - Lang-ron
+has_id_wikidata: Q7913
 ---
-
 # [[Lang-ron]] 
 
 

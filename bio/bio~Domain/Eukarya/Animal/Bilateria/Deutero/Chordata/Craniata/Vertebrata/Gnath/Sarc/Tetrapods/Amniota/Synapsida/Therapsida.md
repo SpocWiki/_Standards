@@ -2,8 +2,8 @@
 aliases:
   - Therapsida
 title: Therapsida
+has_id_wikidata: Q322241
 ---
-
 # [[Therapsida]]
 
 Mammals and extinct relatives 

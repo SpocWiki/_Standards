@@ -2,8 +2,8 @@
 aliases:
   - Lacistemataceae
 title: Lacistemataceae
+has_id_wikidata: Q132951
 ---
-
 # [[Lacistemataceae]] 
 
 ![Lacistema](Lacistemataceae/Lacistema.jpg) 

@@ -2,8 +2,8 @@
 aliases:
   - Hynobiidae
 title: Hynobiidae
+has_id_wikidata: Q827251
 ---
-
 # [[Hynobiidae]] 
 
 ![ ](Hynobiidae/batrachuperus.jpg)

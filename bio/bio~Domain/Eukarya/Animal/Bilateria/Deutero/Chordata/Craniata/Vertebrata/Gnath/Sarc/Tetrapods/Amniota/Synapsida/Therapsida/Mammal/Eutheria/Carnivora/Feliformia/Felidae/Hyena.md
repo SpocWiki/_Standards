@@ -4,8 +4,8 @@ aliases:
   - Hyäne
   - Hyänen
   - Hyena
+has_id_wikidata: Q42046
 ---
-
 # [[Hyena]] 
 
 #is_/same_as :: 

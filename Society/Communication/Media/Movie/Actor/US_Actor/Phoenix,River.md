@@ -2,8 +2,8 @@
 aliases:
   - River Phoenix
   - Phoenix,River
+has_id_wikidata: Q106514
 ---
-
 #has_/sibling :: [[Phoenix,Joaquin]] 
 #has_/time_/started :: 1970-08-23  
 #has_/time_/stopped  :: 1993-10-31 

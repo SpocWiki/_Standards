@@ -2,8 +2,8 @@
 aliases:
   - dorcas
 title: Gazella dorcas
+has_id_wikidata: Q387240
 ---
-
 # Gazella dorcas 
 
 ![ ](Lydekkers_Dorcas_Gazelle.jpg)

@@ -2,8 +2,8 @@
 aliases:
   - Talk-Show
   - Talk Show
+has_id_wikidata: Q622812
 ---
-
 # [[Talk-Show]] 
 
 

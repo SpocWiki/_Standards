@@ -2,8 +2,8 @@
 aliases:
   - Superstitionidae
 title: Superstitionidae
+has_id_wikidata: Q16948489
 ---
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

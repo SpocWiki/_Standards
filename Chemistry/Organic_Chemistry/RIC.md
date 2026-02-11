@@ -16,8 +16,8 @@ dv_is_same_as:
   - "[[/_private/Chemistry/Organic_Chemistry/RIC.private|RIC.private]]"
   - "[[/_personal/Chemistry/Organic_Chemistry/RIC.personal|RIC.personal]]"
   - "[[/_secret/Chemistry/Organic_Chemistry/RIC.secret|RIC.secret]]"
+has_id_wikidata: Q5609621
 ---
-
 the RIC is aligned with the EU [[Recycling_codes]]. 
 
 ## #has_/text_of_/abstract 

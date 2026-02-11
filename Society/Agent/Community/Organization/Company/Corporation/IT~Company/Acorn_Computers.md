@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q342149
+---
+
 
 # [[Acorn_Computers]]
 

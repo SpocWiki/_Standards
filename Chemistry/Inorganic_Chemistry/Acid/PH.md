@@ -18,8 +18,8 @@ dv_is_same_as:
   - "[[/_private/Chemistry/Inorganic_Chemistry/Acid/PH.private|PH.private]]"
   - "[[/_personal/Chemistry/Inorganic_Chemistry/Acid/PH.personal|PH.personal]]"
   - "[[/_secret/Chemistry/Inorganic_Chemistry/Acid/PH.secret|PH.secret]]"
+has_id_wikidata: Q40936
 ---
-
 # [[PH]]
 
 #is_/same_as :: [[WD~PH,40936]] 

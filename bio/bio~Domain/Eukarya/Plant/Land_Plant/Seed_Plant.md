@@ -7,8 +7,8 @@ aliases:
   - phaenogam
   - Seed_Plant
 title: Spermatopsida
+has_id_wikidata: Q25814
 ---
-
 # [[Seed_Plant]]
 
 Seed Plants 

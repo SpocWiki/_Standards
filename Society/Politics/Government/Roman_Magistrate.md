@@ -3,8 +3,8 @@ aliases:
   - Roman magistrate
   - Roman_Magistrate
   - Roman Magistrate
+has_id_wikidata: Q20778343
 ---
-
 # [[Roman_Magistrate]] 
 
 Regular Magistrates were elected for a finite period. 

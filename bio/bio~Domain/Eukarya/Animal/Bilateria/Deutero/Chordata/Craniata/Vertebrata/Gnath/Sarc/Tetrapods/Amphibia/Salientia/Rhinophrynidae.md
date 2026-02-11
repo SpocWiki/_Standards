@@ -2,8 +2,8 @@
 aliases:
   - Rhinophrynidae
 title: Rhinophrynidae
+has_id_wikidata: Q3429460
 ---
-
 # [[Rhinophrynidae]] 
 
 ![Rhinophrynus dorsalis](Rhinophrynidae/rhinophrynus.jpg) 

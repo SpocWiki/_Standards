@@ -3,8 +3,8 @@ aliases:
   - Stramenopiles
   - heterokonts
 title: Stramenopiles
+has_id_wikidata: Q461622
 ---
-
 # [[Stramenopiles]] 
 
 #is_a/bio-Kingdom 

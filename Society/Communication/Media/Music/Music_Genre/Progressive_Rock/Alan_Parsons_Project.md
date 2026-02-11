@@ -2,8 +2,8 @@
 aliases:
   - Alan Parsons Project
   - Alan_Parsons_Project
+has_id_wikidata: Q533478
 ---
-
 # [[Alan_Parsons_Project]] 
 
 ## #has_/text_of_/abstract  

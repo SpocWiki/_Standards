@@ -4,8 +4,8 @@ aliases:
   - Dennis Ritchie
   - Ritchie~Dennis
   - Ritchie,Dennis
+has_id_wikidata: Q45575
 ---
-
 # [[Ritchie,Dennis]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Dennis_M._Ritchie,45575|WD~Dennis_M._Ritchie,45575]] 

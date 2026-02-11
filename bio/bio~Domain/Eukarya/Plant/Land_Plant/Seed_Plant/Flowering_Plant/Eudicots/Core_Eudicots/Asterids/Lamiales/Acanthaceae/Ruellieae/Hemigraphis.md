@@ -2,8 +2,8 @@
 aliases:
   - Hemigraphis
 title: Hemigraphis + Strobilanthes + relatives
+has_id_wikidata: Q2705948
 ---
-
 # *Hemigraphis + Strobilanthes + relatives* 
 
 ![ ](Hemigraphis/Hemigraphisalternata.jpg)  ![Hemigraphis_repanda](Hemigraphis/Hemigraphis_repanda.jpg) 

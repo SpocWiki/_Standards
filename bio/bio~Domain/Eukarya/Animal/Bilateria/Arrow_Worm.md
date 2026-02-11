@@ -5,8 +5,8 @@ aliases:
   - Arrow Worm
   - Arrow_Worm
 title: Chaetognatha
+has_id_wikidata: Q192416
 ---
-
 # [[Arrow_Worm]]
 
 Arrow Worms 

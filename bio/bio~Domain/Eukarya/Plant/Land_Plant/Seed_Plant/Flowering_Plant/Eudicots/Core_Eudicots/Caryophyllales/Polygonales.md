@@ -2,8 +2,8 @@
 aliases:
   - Polygonales
 title: non-core Caryophyllales
+has_id_wikidata: Q923240
 ---
-
 # non-core Caryophyllales
 
 ## Polygonales 

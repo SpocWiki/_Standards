@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q193412
+---
+
 
 # [[Texas_Instruments]] 
 

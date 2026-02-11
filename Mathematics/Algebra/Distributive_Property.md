@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q187959
+---
+
 
 # [[Distributive_Property]] 
 

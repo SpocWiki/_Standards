@@ -2,8 +2,8 @@
 aliases:
   - Linkin Park
   - Linkin_Park
+has_id_wikidata: Q261
 ---
-
 Most famous Tracks: 
 
 - Numb 

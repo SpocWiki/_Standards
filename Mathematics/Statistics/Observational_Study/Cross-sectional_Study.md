@@ -7,8 +7,8 @@ aliases:
   - prevalence study
   - Cross-sectional_Study
   - Cross-sectional Study
+has_id_wikidata: Q954027
 ---
-
 # [[Cross-sectional_Study]] 
 
 #is_a :: [[../Observational_Study|Observational_Study]] 

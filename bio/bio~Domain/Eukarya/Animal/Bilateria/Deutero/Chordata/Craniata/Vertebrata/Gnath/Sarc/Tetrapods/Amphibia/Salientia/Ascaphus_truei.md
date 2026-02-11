@@ -3,8 +3,8 @@ aliases:
   - Ascaphus_truei
   - Ascaphus truei
 title: Ascaphus truei
+has_id_wikidata: Q2925426
 ---
-
 # [[Ascaphus truei]]
 
 ## The Tailed Frog 

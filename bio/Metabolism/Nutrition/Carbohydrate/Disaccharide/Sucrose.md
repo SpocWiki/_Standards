@@ -4,8 +4,8 @@ aliases:
   - Sucrose
   - Zucker
   - Sugar
+has_id_wikidata: Q4027534
 ---
-
 #is_/instance_of :: [[../Disaccharide]]
 #has_/parts :: [[../Monosaccharide/Glucose]] 
 #has_/parts :: [[../Monosaccharide/Fructose]]  

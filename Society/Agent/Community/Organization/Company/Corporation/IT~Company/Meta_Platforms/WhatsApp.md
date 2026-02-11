@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q1049511
+---
+
 
 #is_/similar_to :: [[SnapChat]] 
 #is_/similar_to :: [[WeChat]] 

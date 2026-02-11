@@ -5,8 +5,8 @@ aliases:
   - Rage
   - frenzy 
   - fury
+has_id_wikidata: Q79871
 ---
-
 # [[Anger]] 
 
 

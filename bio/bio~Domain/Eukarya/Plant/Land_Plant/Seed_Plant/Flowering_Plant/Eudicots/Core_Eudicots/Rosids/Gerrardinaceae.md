@@ -2,8 +2,8 @@
 aliases:
   - Gerrardinaceae
 title: Gerrardina
+has_id_wikidata: Q132759
 ---
-
 ## [[Gerrardinaceae]] 
 
 ![gerrardina](Gerrardinaceae/gerrardina_blossom.jpg)  ![gerrardina_Fruit](Gerrardinaceae/gerrardina_Fruit.jpg) 

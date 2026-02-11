@@ -2,8 +2,8 @@
 aliases:
   - Mimosoideae
 title: Mimosoideae
+has_id_wikidata: Q504243
 ---
-
 # [[Mimosoideae]] 
 
 ![Albizia julibrissin](Mimosoideae/mimosa-flower.jpg) 

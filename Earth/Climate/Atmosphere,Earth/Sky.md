@@ -18,8 +18,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Climate/Atmosphere,Earth/Sky.private|Sky.private]]"
   - "[[/_personal/Earth/Climate/Atmosphere,Earth/Sky.personal|Sky.personal]]"
   - "[[/_secret/Earth/Climate/Atmosphere,Earth/Sky.secret|Sky.secret]]"
+has_id_wikidata: Q527
 ---
-
 # [[Sky]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Sky,527|WD~Sky,527]] 

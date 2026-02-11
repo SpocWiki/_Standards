@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q163226
+---
+
 
 [[../../../../movie/Movie-Roles/Gondry,Michel]] directed the Video to this song. 
 

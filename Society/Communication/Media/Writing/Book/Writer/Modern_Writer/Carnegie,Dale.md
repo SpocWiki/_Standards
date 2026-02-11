@@ -3,8 +3,8 @@ aliases:
   - Carnegie,Dale
   - Dale Carnegie
   - Dale Carnagey
+has_id_wikidata: Q230762
 ---
-
 # [[Carnegie,Dale]] 
 
 #has_/time_/started ::  1888-11-24 

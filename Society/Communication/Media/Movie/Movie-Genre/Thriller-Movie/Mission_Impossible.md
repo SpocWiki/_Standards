@@ -1,9 +1,8 @@
 ---
 aliases:
   - Kobra, übernehmen Sie
-
+has_id_wikidata: Q87816991
 ---
-
 # [[Mission_Impossible]] 
 
 [[James_Bond,films]] inspired a Series of Agent Movies, e.g. [[Avengers(TV-Series)]] and [[Mission_Impossible]]. 

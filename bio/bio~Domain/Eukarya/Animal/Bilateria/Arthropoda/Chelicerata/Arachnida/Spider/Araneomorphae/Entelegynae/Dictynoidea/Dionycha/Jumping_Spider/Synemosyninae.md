@@ -2,8 +2,8 @@
 aliases:
   - Synemosyninae
 title: Synemosyninae
+has_id_wikidata: Q101300
 ---
-
 # [[Synemosyninae]] 
 
 ![ ](Synemosyninae/synemosyninae.gif)

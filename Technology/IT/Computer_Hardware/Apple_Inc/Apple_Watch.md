@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q18010946
+---
+
 
 I have an SE (1st) LTE 
 

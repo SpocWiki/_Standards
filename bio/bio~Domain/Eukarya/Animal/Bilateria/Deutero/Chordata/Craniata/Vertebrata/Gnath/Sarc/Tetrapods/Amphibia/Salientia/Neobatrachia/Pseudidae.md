@@ -2,8 +2,8 @@
 aliases:
   - Pseudidae
 title: Pseudidae
+has_id_wikidata: Q1059221
 ---
-
 # Pseudidae
 
 ## Paradox Frogs 

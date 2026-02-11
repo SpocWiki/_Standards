@@ -4,8 +4,8 @@ aliases:
   - Muscle_Tissue
   - Muscle Tissue
 has_id_wikidata: ''
+has_id_wikidata: Q7365
 ---
-
 # [[Muscle_Tissue]] 
 
 #is_/same_as :: [[wd muscle tissue]]

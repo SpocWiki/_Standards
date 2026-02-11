@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q183484
+---
+
 GPUs like Nvidias RTX A500 can run Neural Loads, but at a much higher Power Consumption, 
 also because they use 4Byte Float Numbers, unlike NPUs which use 1Byte signed. 
 

@@ -2,8 +2,8 @@
 aliases:
   - Astacus
 title: Astacus
+has_id_wikidata: Q1942450
 ---
-
 # [[Astacus]] 
 ![Astacus leptodactylus habitus](Astacus/a.jpg)) 
 copyright ::   © 1995 University of Kuopio and Ari Mannonen

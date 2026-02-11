@@ -2,8 +2,8 @@
 aliases:
   - Geraniales
 title: Geraniales
+has_id_wikidata: Q14272
 ---
-
 # [[Geraniales]] 
 
 ![Erodium cicutarium](Geraniales/Erodium_cicutarium.jpg) 

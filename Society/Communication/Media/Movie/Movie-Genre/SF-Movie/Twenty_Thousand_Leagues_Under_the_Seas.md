@@ -5,8 +5,8 @@ aliases:
   - Twenty Thousand Leagues Under the Seas
   - Vingt Mille Lieues sous les mers
   - Twenty_Thousand_Leagues_Under_the_Seas
+has_id_wikidata: Q183565
 ---
-
 [[Twenty_Thousand_Leagues_Under_the_Seas]]
 
 ## #has_/text_of_/abstract 

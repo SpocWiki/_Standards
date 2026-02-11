@@ -8,8 +8,8 @@ aliases:
   - Sveriges riksbanks pris i ekonomisk vetenskap
   - Economy_Nobel_Prize
   - Economy Nobel Prize
+has_id_wikidata: Q1143729
 ---
-
 ## #has_/text_of_/abstract 
 
 > The Nobel Memorial Prize in Economic Sciences, officially known as The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel (Swedish: Sveriges riksbanks pris i ekonomisk vetenskap till Alfred Nobels minne), is an award funded by Sveriges Riksbank and is annually awarded by the Royal Swedish Academy of Sciences to researchers in the field of economic sciences. The first prize was awarded in 1969 to Ragnar Frisch and Jan Tinbergen. Each recipient receives a medal, a diploma and a monetary award that has varied throughout the years. In 1969, Frisch and Tinbergen were given a combined 375,000 SEK, which is equivalent to 2,871,041 SEK in December 2007. The award is presented in Stockholm at an annual ceremony on December 10, the anniversary of Nobel's death.

@@ -4,8 +4,8 @@ aliases:
   - RuBPCase
   - RuBPco
   - Ribulose-1,5-bisphosphate carboxylase
+has_id_wikidata: Q422516
 ---
-
 # [[RuBisCO]] 
 
 #is_/same_as :: [[RuBisCO,]]

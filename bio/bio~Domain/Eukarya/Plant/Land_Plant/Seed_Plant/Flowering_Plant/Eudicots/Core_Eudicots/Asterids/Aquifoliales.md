@@ -2,8 +2,8 @@
 aliases:
   - Aquifoliales
 title: Aquifoliales
+has_id_wikidata: Q21779
 ---
-
 # [[Aquifoliales]] 
 
 ![Ilex_aquifolium](Aquifoliales/Ilex_aquifolium.jpg) 

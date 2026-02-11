@@ -2,8 +2,8 @@
 aliases:
   - Rhynchocyon
 title: Rhynchocyon
+has_id_wikidata: Q742434
 ---
-
 # [[Rhynchocyon]] 
 
 ![Rhynchocyon chrysopygus](Rhynchocyon/Rhynchocyon_chrysopygus.jpg) ![ ](Rhynchocyon/210618830_bd29523f8b_o.jpg) 

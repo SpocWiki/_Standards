@@ -2,8 +2,8 @@
 aliases:
   - Astacidea
 title: Astacidea
+has_id_wikidata: Q929163
 ---
-
 # [[Astacidea]]
 
 Freshwater crayfish 

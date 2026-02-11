@@ -21,8 +21,8 @@ dv_is_same_as:
   - "[[/_private/schema-org/Now.private|Now.private]]"
   - "[[/_personal/schema-org/Now.personal|Now.personal]]"
   - "[[/_secret/schema-org/Now.secret|Now.secret]]"
+has_id_wikidata: Q193168
 ---
-
 # [[Now]]
 
 Most Programming Languages have an impure Function named Now, 

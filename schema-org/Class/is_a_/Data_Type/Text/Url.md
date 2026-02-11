@@ -46,8 +46,8 @@ dv_is_same_as:
   - "[[/_private/schema-org/Class/is_a_/Data_Type/Text/Url.private|Url.private]]"
   - "[[/_personal/schema-org/Class/is_a_/Data_Type/Text/Url.personal|Url.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Data_Type/Text/Url.secret|Url.secret]]"
+has_id_wikidata: Q42253
 ---
-
 # [[URL]] 
 Class of all URLs.
 URLs are structured variable-length Strings without Spaces 

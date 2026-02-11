@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q151954
+---
+
 
 # [[Lidl]] 
 

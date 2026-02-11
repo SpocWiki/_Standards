@@ -25,8 +25,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Continent/Arctica/Arctic-Russian-Islands/Krasikov,Vadim.private|Krasikov,Vadim.private]]"
   - "[[/_personal/Earth/Continent/Arctica/Arctic-Russian-Islands/Krasikov,Vadim.personal|Krasikov,Vadim.personal]]"
   - "[[/_secret/Earth/Continent/Arctica/Arctic-Russian-Islands/Krasikov,Vadim.secret|Krasikov,Vadim.secret]]"
+has_id_wikidata: Q109316727
 ---
-
 has_time_started = `=this.dv_has_time_started`
 
 ## #has_/text_of_/abstract 

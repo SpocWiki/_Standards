@@ -2,8 +2,8 @@
 aliases:
   - Actor
   - Actress
+has_id_wikidata: Q33999
 ---
-
 # [[Actor]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~actor,33999]] 

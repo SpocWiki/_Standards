@@ -2,8 +2,8 @@
 aliases:
   - Loricifera
 title: Loricifera
+has_id_wikidata: Q5183
 ---
-
 # [[Loricifera]] 
 
 ![Loricifera](Loricifera/Loricifera.gif) 

@@ -3,8 +3,8 @@ aliases:
   - Haemospororida
   - Haemosporida
 title: Plasmodiidae
+has_id_wikidata: Q4135179
 ---
-
 # [[Haemosporida]] 
 
 ## #has_/text_of_/abstract 

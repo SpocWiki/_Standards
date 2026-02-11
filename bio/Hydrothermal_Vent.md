@@ -5,8 +5,8 @@ aliases:
   - white smoker
   - Hydrothermal_Vent
   - Hydrothermal Vent
+has_id_wikidata: Q867648
 ---
-
 # [[Hydrothermal_Vent]] 
 
 

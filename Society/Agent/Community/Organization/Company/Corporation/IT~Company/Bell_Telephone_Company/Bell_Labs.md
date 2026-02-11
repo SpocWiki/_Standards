@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q217365
+---
+
 
 > Bell Labs is an American industrial research and scientific development company. 
 > Researchers from there are credited with the development of radio astronomy, the transistor, 

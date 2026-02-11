@@ -3,8 +3,8 @@ aliases:
   - Gap Inc
   - The Gap, Inc
   - Gap_Inc
+has_id_wikidata: Q420822
 ---
-
 ## #has_/text_of_/abstract 
 
 > The Gap, Inc. is an American multinational clothing and accessories retailer. 

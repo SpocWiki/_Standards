@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q214795
+---
+
 
 
 The BSoD protects the Computer from causing subsequent Damage to itself or attached Devices. 

@@ -3,8 +3,8 @@ aliases:
   - Banach Space
   - Banach_Space
 has_id_wikidata: ''
+has_id_wikidata: Q194397
 ---
-
 # [[Banach_Space]]
 
 #is_/same_as :: [[wd~Banach Space,]] 

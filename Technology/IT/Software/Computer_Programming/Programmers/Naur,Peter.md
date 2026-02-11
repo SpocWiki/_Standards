@@ -2,8 +2,8 @@
 aliases:
   - Peter Naur
   - Naur,Peter
+has_id_wikidata: Q92618
 ---
-
 #has_/time_/started :: 1928-10-25 
 #has_/time_/started :: 2016-01-03  
 

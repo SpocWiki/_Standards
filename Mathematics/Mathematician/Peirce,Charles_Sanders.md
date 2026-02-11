@@ -28,8 +28,8 @@ tags:
   - excalidraw
 title: Peirce,Charles_Sanders
 type: private_note
+has_id_wikidata: Q187520
 ---
-
 # [[Peirce,Charles_Sanders]] 
 
 #has_/time_/started :: 1839-09-10 

@@ -2,8 +2,8 @@
 aliases:
   - Frank Miller
   - Miller,Frank
+has_id_wikidata: Q207676
 ---
-
 #has_/time_/started :: 1957-01-27
 
 ## #has_/text_of_/abstract 

@@ -6,8 +6,8 @@ aliases:
   - salami tactics
   - salami-slice strategy
   - salami attacks
+has_id_wikidata: Q1070911
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Salami slicing tactics**, also known as salami slicing, salami tactics, the salami-slice strategy, 

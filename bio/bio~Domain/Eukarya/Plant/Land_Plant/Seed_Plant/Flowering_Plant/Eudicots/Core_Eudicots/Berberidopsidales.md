@@ -2,8 +2,8 @@
 aliases:
   - Berberidopsidales
 title: Berberidopsidales
+has_id_wikidata: Q793205
 ---
-
 # [[Berberidopsidales]] 
 
 ![Berberidopsis corallina](Berberidopsidales/Berberidopsis_corallina.jpg) 

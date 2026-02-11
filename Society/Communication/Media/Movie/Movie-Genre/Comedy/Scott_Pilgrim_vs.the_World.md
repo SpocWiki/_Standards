@@ -3,8 +3,8 @@ aliases:
   - Scott Pilgrim vs. the World
   - Scott_Pilgrim_vs.the_World
   - Scott Pilgrim vs.the World
+has_id_wikidata: Q753899
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Scott Pilgrim vs. the World** is a 2010 romantic action comedy film 

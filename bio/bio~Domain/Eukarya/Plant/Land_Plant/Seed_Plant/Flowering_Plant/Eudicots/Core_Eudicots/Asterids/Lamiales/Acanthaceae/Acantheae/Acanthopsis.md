@@ -2,8 +2,8 @@
 aliases:
   - Acanthopsis
 title: Acanthopsis
+has_id_wikidata: Q8186577
 ---
-
 # [[Acanthopsis]] 
 
 ![ ](Acanthopsis/acanthopsis-2-1.jpg)

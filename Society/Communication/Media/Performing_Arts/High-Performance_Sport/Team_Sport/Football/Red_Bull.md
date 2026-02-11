@@ -3,8 +3,8 @@ aliases:
   - Red Bull
   - Red Bull GmbH
   - Red_Bull
+has_id_wikidata: Q51482
 ---
-
 > **Red Bull** is a brand of energy drinks created and owned by the Austrian company Red Bull GmbH. 
 > With a market share of 43%, it is the most popular energy drink brand as of 2020, 
 > and the third most valuable soft drink brand, behind Coca-Cola and Pepsi. 

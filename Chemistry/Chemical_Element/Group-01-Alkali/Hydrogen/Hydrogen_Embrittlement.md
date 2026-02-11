@@ -21,8 +21,8 @@ dv_is_same_as:
   - "[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.private|Hydrogen_Embrittlement.private]]"
   - "[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.personal|Hydrogen_Embrittlement.personal]]"
   - "[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Hydrogen_Embrittlement.secret|Hydrogen_Embrittlement.secret]]"
+has_id_wikidata: Q605529
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Hydrogen Embrittlement** (HE), also known as hydrogen-assisted cracking 

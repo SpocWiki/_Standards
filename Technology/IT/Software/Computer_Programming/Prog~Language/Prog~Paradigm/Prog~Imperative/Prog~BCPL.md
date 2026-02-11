@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q810009
+---
+
 # [[Prog~BCPL]] 
 
 #is_a_/ComputerLanguage 

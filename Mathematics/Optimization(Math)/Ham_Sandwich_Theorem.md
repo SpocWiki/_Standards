@@ -1,8 +1,8 @@
 ---
 aliases:
   - pancake theorem
+has_id_wikidata: Q730222
 ---
-
 # [[Ham_Sandwich_Theorem]] 
 
 ## #has_/text_of_/abstract 

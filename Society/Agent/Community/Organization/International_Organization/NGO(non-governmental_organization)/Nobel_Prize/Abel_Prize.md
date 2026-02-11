@@ -2,8 +2,8 @@
 aliases:
   - Abel Prize
   - Abel_Prize
+has_id_wikidata: Q188184
 ---
-
 #is_/similar_to :: [[Fields_Medal]] 
 
 ## #has_/text_of_/abstract 

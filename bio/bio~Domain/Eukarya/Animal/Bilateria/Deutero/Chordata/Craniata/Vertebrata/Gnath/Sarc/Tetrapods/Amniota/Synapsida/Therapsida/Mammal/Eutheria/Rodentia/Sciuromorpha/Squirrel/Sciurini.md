@@ -2,8 +2,8 @@
 aliases:
   - Sciurini
 title: Sciurini
+has_id_wikidata: Q2294121
 ---
-
 # [[Sciurini]] 
 
 ![](Sciurini/Sciurus_vulgaris1261031.jpg)

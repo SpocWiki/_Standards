@@ -18,8 +18,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Geography/Cave.private|Cave.private]]"
   - "[[/_personal/Earth/Geography/Cave.personal|Cave.personal]]"
   - "[[/_secret/Earth/Geography/Cave.secret|Cave.secret]]"
+has_id_wikidata: Q35509
 ---
-
 # [[Cave]] 
 
 #is_/same_as :: [[../../WikiData/WD~Cave,35509|WD~Cave,35509]] 

@@ -4,8 +4,8 @@ aliases:
   - Franciscans
   - Franciscan
 has_id_wikidata: ''
+has_id_wikidata: Q165005
 ---
-
 # [[Franciscan]] 
 
 #is_/same_as :: 

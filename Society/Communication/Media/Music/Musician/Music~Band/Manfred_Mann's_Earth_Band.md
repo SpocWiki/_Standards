@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q1926913
+---
+
 
 # [[Manfred_Mann's_Earth_Band]] 
 

@@ -3,8 +3,8 @@ aliases:
   - Fibrobacteres
   - Fibrobacterota
 title: Fibrobacteres
+has_id_wikidata: Q12063165
 ---
-
 # [[Fibrobacteres]] 
 
 #is_a/bio-Phylum  

@@ -2,8 +2,8 @@
 aliases:
   - Chrysiogenes
 title: Chrysiogenes arsenatis
+has_id_wikidata: Q15105435
 ---
-
 # [[Chrysiogenetes]] 
 
 #is_a/bio-Phylum  

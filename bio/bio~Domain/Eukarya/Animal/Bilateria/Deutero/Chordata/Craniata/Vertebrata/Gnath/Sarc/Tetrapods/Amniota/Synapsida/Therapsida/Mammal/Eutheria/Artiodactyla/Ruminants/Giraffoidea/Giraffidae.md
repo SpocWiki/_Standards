@@ -2,8 +2,8 @@
 aliases:
   - Giraffidae
 title: Giraffidae
+has_id_wikidata: Q186154
 ---
-
 # [[Giraffidae]] 
 
 ![ ](Sivatherium_skull1.jpg)

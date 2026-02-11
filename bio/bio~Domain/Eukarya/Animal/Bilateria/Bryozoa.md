@@ -2,8 +2,8 @@
 aliases:
   - Bryozoa
 title: Bryozoa
+has_id_wikidata: Q148134
 ---
-
 # [[Bryozoa]]
 
 Moss Animals, Sea Mats, Ectoprocts 

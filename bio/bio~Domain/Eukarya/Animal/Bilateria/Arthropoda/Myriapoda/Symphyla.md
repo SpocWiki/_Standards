@@ -2,8 +2,8 @@
 aliases:
   - Symphyla
 title: Symphyla
+has_id_wikidata: Q244147
 ---
-
 # [[Symphyla]] 
 
 ![ ](Symphyla/Symphyla.jpg)

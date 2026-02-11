@@ -3,8 +3,8 @@ aliases:
   - Thermoproteota
   - Crenarchaeota
 title: Crenarchaeota
+has_id_wikidata: Q21447237
 ---
-
 # [[Thermoproteota]] 
 
 #is_a/bio-Phylum  

@@ -21,8 +21,8 @@ dv_is_same_as:
   - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Third_Estate.private|Third_Estate.private]]"
   - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Third_Estate.personal|Third_Estate.personal]]"
   - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Third_Estate.secret|Third_Estate.secret]]"
+has_id_wikidata: Q657326
 ---
-
 # [[Third_Estate]] 
 
 #is_/same_as :: [[WD~Third_Estate,]]

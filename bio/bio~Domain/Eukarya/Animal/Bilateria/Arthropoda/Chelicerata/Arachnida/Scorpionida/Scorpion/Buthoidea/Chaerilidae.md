@@ -2,8 +2,8 @@
 aliases:
   - Chaerilidae
 title: Chaerilus
+has_id_wikidata: Q2947474
 ---
-
 ## [[Chaerilidae]] 
 
 # Chaerilus 

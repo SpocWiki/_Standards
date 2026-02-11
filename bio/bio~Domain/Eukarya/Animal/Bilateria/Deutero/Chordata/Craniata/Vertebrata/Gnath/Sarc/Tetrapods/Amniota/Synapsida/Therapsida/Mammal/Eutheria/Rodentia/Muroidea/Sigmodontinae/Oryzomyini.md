@@ -2,8 +2,8 @@
 aliases:
   - Oryzomyini
 title: Oryzomyini
+has_id_wikidata: Q2410209
 ---
-
 # [[Oryzomyini]] 
 
 ## Rice rats, spiny mice, marsh rats 

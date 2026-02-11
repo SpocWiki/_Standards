@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q168550
+---
+
 
 # [[Weisstein,Eric_Wolfgang]] 
 

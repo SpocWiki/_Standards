@@ -3,8 +3,8 @@ aliases:
   - Dictator game
   - Dictator_Game
   - Dictator Game
+has_id_wikidata: Q2915979
 ---
-
 # [[Dictator_Game]]  
 
 #is_/similar_to :: [[Ultimatum_Game]] 

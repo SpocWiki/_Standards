@@ -16,8 +16,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Continent/Europe/History_of_Europe/1695-Great_Famine,Scandinavia+1697.private|1695-Great_Famine,Scandinavia+1697.private]]"
   - "[[/_personal/Earth/Continent/Europe/History_of_Europe/1695-Great_Famine,Scandinavia+1697.personal|1695-Great_Famine,Scandinavia+1697.personal]]"
   - "[[/_secret/Earth/Continent/Europe/History_of_Europe/1695-Great_Famine,Scandinavia+1697.secret|1695-Great_Famine,Scandinavia+1697.secret]]"
+has_id_wikidata: Q5599175
 ---
-
 # [[1695-Great_Famine,Scandinavia+1697]] 
 
 

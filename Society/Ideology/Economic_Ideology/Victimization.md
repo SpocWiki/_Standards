@@ -3,8 +3,8 @@ aliases:
   - Victimisation
   - Victim
   - Opfer
+has_id_wikidata: Q373752
 ---
-
 ## #has_/text_of_/abstract 
 
 > Victimisation (or **Victimization**) is the state or 

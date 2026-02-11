@@ -18,8 +18,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Continent/Pangaea.private|Pangaea.private]]"
   - "[[/_personal/Earth/Continent/Pangaea.personal|Pangaea.personal]]"
   - "[[/_secret/Earth/Continent/Pangaea.secret|Pangaea.secret]]"
+has_id_wikidata: Q4398
 ---
-
 # [[Pangaea]] 
 
 #is_/same_as :: [[WD~Pangaea,4398]] 

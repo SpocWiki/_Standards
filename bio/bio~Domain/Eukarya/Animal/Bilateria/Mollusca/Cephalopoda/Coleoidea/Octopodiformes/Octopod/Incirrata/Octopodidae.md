@@ -2,8 +2,8 @@
 aliases:
   - Octopodidae
 title: Octopodidae
+has_id_wikidata: Q1202874
 ---
-
 # [[Octopodidae]] 
 
 Octopods, octopuses, devilfishes 

@@ -2,8 +2,8 @@
 aliases:
   - Phrynosomatidae
 title: Phrynosomatidae
+has_id_wikidata: Q852822
 ---
-
 # [[Phrynosomatidae]] 
 
 

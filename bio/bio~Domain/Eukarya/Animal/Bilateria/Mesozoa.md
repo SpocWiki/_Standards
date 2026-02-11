@@ -2,8 +2,8 @@
 aliases:
   - Mesozoa
 title: Mesozoa
+has_id_wikidata: Q462431
 ---
-
 # [[Mesozoa]] 
 
 ![Mesozoa](Mesozoa/Mesozoa.gif)  ![Mesozoa](Mesozoa/Mesozoa2.gif)  

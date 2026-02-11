@@ -7,8 +7,8 @@ aliases:
   - police novel
   - Crime_Fiction
   - Crime Fiction
+has_id_wikidata: Q5937792
 ---
-
 # [[Crime_Fiction]] 
 
 ## #has_/text_of_/abstract 

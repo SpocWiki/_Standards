@@ -2,8 +2,8 @@
 aliases:
   - Donald Fagen
   - Fagen,Donald
+has_id_wikidata: Q506554
 ---
-
 #has_/time_/started :: 1948-01-10 
 
 > Donald Jay Fagen (born 1948-01-10) is an American musician who was the co-founder, 

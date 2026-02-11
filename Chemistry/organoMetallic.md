@@ -16,8 +16,8 @@ dv_is_same_as:
   - "[[/_private/Chemistry/organoMetallic.private|organoMetallic.private]]"
   - "[[/_personal/Chemistry/organoMetallic.personal|organoMetallic.personal]]"
   - "[[/_secret/Chemistry/organoMetallic.secret|organoMetallic.secret]]"
+has_id_wikidata: Q237200
 ---
-
 > **organometallic** [[../../Knowledge/Chemistry|chemistry]] is the study of organometallic compounds, 
 > chemical compounds containing at least one chemical bond 
 > - between a carbon atom of an organic molecule 

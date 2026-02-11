@@ -2,8 +2,8 @@
 aliases:
   - Acanthopale
 title: Acanthopale
+has_id_wikidata: Q2065116
 ---
-
 # [[Acanthopale]] 
 
 ![Acanthopale](Acanthopale/Acanthopale_pollen.jpg) 

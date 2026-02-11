@@ -2,8 +2,8 @@
 aliases:
   - Platyrrhini
 title: Platyrrhini
+has_id_wikidata: Q237157
 ---
-
 # [[Platyrrhini]]
 
 ## New World Monkeys 

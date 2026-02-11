@@ -2,8 +2,8 @@
 aliases:
   - Blepharis
 title: Blepharis
+has_id_wikidata: Q2916107
 ---
-
 # [[Blepharis]] 
 
 ![Blepharis prostrata](Blepharis/Blepharis_prostrata.jpg)  ![Blepharis](Blepharis/blepharis_copy.jpg)  ![ ](Blepharis/blepharis1.jpg) 

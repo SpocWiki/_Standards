@@ -35,8 +35,8 @@ has_Template:
 has_time_started:
   '{ "date:YYYY-MM-DD": null }': ''
 lang: en
+has_id_wikidata: Q2585617
 ---
-
 # [[Drug_Class]] 
 
 Class of all drug_classes.

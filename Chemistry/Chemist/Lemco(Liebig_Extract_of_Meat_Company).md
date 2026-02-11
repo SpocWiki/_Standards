@@ -16,8 +16,8 @@ dv_is_same_as:
   - "[[/_private/Chemistry/Chemist/Lemco(Liebig_Extract_of_Meat_Company).private|Lemco(Liebig_Extract_of_Meat_Company).private]]"
   - "[[/_personal/Chemistry/Chemist/Lemco(Liebig_Extract_of_Meat_Company).personal|Lemco(Liebig_Extract_of_Meat_Company).personal]]"
   - "[[/_secret/Chemistry/Chemist/Lemco(Liebig_Extract_of_Meat_Company).secret|Lemco(Liebig_Extract_of_Meat_Company).secret]]"
+has_id_wikidata: Q700517
 ---
-
 ## #has_/text_of_/abstract 
 
 > Liebig's Extract of Meat Company, established in the United Kingdom, 

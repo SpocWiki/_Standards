@@ -2,8 +2,8 @@
 aliases:
   - Crossandrella
 title: Crossandrella dusenii
+has_id_wikidata: Q8351878
 ---
-
 ## [[Crossandrella]] 
 
 

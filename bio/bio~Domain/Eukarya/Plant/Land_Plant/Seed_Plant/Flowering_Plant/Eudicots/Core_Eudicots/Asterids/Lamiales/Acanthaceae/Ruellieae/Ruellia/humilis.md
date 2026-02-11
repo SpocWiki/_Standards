@@ -2,8 +2,8 @@
 aliases:
   - humilis
 title: Ruellia humilis clade
+has_id_wikidata: Q814412
 ---
-
 # Ruellia humilis  
 
 ![Ruellia strepens](humilis/Ruellia_strepens.jpg) 

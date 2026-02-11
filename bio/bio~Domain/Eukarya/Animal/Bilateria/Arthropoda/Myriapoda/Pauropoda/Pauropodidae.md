@@ -2,8 +2,8 @@
 aliases:
   - Pauropodidae
 title: Pauropodidae
+has_id_wikidata: Q6508847
 ---
-
 # [[Pauropodidae]] 
 
 ## #has_/text_of_/abstract 

@@ -2,8 +2,8 @@
 aliases:
   - Dioscoreales
 title: Dioscoreales
+has_id_wikidata: Q747698
 ---
-
 # [[Dioscoreales]] 
 
 ![Tamus communis ](Dioscoreales/Tamus_communis3565.jpg)  ![California bog asphodel, Narthecium californicum](Dioscoreales/Narthecium_californicum.jpg) 

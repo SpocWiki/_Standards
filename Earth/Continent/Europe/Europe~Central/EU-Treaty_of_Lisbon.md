@@ -22,8 +22,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.private|EU-Treaty_of_Lisbon.private]]"
   - "[[/_personal/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.personal|EU-Treaty_of_Lisbon.personal]]"
   - "[[/_secret/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.secret|EU-Treaty_of_Lisbon.secret]]"
+has_id_wikidata: Q52843
 ---
-
 has_time_started = `=this.dv_has_time_started`
 has_time_incepted = `=this.dv_has_time_incepted`
 

@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q10962
+---
+
 
 # [[Rugby_League]] 
 

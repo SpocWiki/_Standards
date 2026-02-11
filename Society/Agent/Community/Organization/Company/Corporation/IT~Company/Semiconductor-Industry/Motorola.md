@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q259011
+---
+
 
 # [[Motorola]] 
 

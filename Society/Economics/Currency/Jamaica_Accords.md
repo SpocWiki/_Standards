@@ -2,8 +2,8 @@
 aliases:
   - Jamaica Accords
   - Jamaica_Accords
+has_id_wikidata: Q2822862
 ---
-
 #has_/time_/started :: 1976-01-07 
 #has_/time_/stopped :: 1976-01-08 
 

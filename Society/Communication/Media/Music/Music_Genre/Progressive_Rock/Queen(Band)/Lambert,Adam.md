@@ -2,8 +2,8 @@
 aliases:
   - Adam Lambert
   - Lambert,Adam
+has_id_wikidata: Q190231
 ---
-
 > Adam Mitchel Lambert (born January 29, 1982) is an American singer. 
 > He is known for his dynamic vocal performances that combine his theatrical training 
 > with modern and classic genres. 

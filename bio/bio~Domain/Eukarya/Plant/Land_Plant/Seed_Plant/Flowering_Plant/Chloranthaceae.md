@@ -2,8 +2,8 @@
 aliases:
   - Chloranthaceae
 title: Chloranthaceae
+has_id_wikidata: Q133208
 ---
-
 # [[Chloranthaceae]] 
 ![Sarcandra glabra](Chloranthaceae/Sarcandra_glabra.jpg))  ![Chloranthus japonicus](Chloranthaceae/Chloranthus_japonicus.jpg)
 

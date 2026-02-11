@@ -2,8 +2,8 @@
 aliases:
   - Name of the Rose
   - Name_of_the_Rose
+has_id_wikidata: Q172850
 ---
-
 ## #has_/text_of_/abstract 
 
 > The **Name of the Rose** (Italian: Il nome della rosa [il ˈnoːme della ˈrɔːza]) 

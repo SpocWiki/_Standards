@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q208166
+---
+
 
 # [[Borderline_Personality_Disorder]] 
 

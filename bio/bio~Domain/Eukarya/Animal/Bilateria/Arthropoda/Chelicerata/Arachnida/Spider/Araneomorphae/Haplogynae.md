@@ -2,8 +2,8 @@
 aliases:
   - Haplogynae
 title: Haplogynae
+has_id_wikidata: Q136328
 ---
-
 # [[Haplogynae]] 
 
 ![Loxosceles_reclusa](Haplogynae/Loxosceles_reclusa.jpg)  ![Dysdera_erythrina](Haplogynae/Dysdera_erythrina.jpg) 

@@ -7,8 +7,8 @@ aliases:
   - Millikan,Robert_A
   - Millikan,Robert A
 has_id_wikidata: 130975
+has_id_wikidata: Q130975
 ---
-
 # [[Millikan,Robert_A]] 
 
 #is_/same_as :: [[WD~Robert_A._Millikan,130975]] 

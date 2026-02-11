@@ -3,8 +3,8 @@ aliases:
   - Salticus
   - Salticinae
 title: Salticus
+has_id_wikidata: Q101234
 ---
-
 ## [[Salticinae]] 
 
 Salticus 

@@ -2,8 +2,8 @@
 aliases:
   - Charales
 title: Charales
+has_id_wikidata: Q14920463
 ---
-
 # [[Charales]] 
 
 #is_a/bio-Phylum  

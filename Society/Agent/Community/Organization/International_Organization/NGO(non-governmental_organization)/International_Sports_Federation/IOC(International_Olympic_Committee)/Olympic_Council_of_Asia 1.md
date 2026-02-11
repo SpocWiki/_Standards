@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q844293
+---
+
 
 # [[Olympic_Council_of_Asia 1]] 
 

@@ -21,8 +21,8 @@ dv_is_same_as:
   - "[[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven_deadly_Sins.private|Seven_deadly_Sins.private]]"
   - "[[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven_deadly_Sins.personal|Seven_deadly_Sins.personal]]"
   - "[[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven_deadly_Sins.secret|Seven_deadly_Sins.secret]]"
+has_id_wikidata: Q166502
 ---
-
 ## #has_/text_of_/abstract 
 
 > The seven deadly sins, also known as the capital vices or cardinal sins, 

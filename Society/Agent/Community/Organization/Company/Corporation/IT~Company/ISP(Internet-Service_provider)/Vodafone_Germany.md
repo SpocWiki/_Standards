@@ -3,8 +3,8 @@ aliases:
   - Vodafone GmbH
   - Vodafone Germany
   - Vodafone_Germany
+has_id_wikidata: Q2529830
 ---
-
 # [[Vodafone_Germany]] 
 
 

@@ -2,8 +2,8 @@
 aliases:
   - Temnospondyli
 title: Temnospondyli
+has_id_wikidata: Q131447
 ---
-
 # [[Temnospondyli]] 
 
 ![Temnospondyli](Temnospondyli/Eryops.jpg) 

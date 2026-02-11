@@ -2,8 +2,8 @@
 aliases:
   - Celastrales
 title: Celastrales
+has_id_wikidata: Q21870
 ---
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

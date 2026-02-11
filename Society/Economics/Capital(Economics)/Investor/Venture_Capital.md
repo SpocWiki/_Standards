@@ -2,8 +2,8 @@
 aliases:
   - Venture Capital
   - Venture_Capital
+has_id_wikidata: Q219409
 ---
-
 One Problem of EarlyBird Venture Capital Investors is the asymmetric Cost Matrix, i.e. 
 - it is much more 'expensive' to overlook an Opportunity 
 - than to lose money by investing wrong. 

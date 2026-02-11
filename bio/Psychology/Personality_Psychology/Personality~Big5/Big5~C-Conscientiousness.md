@@ -28,8 +28,8 @@ tags:
   - excalidraw
 title: Gewissenhaftigkeit
 type: private_note
+has_id_wikidata: Q1307067
 ---
-
 # [[Big5~C-Conscientiousness]] 
 
 #is_/part_of :: [[../Personality~Big5]] 

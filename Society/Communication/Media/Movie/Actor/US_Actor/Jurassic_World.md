@@ -2,8 +2,8 @@
 aliases:
   - Jurassic World
   - Jurassic_World
+has_id_wikidata: Q3512046
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Jurassic World** is a 2015 American science fiction action film directed by Colin Trevorrow, 

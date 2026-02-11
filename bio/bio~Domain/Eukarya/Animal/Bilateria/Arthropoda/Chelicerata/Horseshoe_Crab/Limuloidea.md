@@ -2,8 +2,8 @@
 aliases:
   - Limuloidea
 title: Limuloidea
+has_id_wikidata: Q19430
 ---
-
 # [[Limuloidea]]
 
 Limuloid horseshoe crabs 

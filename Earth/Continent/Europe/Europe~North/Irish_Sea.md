@@ -18,8 +18,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Continent/Europe/Europe~North/Irish_Sea.private|Irish_Sea.private]]"
   - "[[/_personal/Earth/Continent/Europe/Europe~North/Irish_Sea.personal|Irish_Sea.personal]]"
   - "[[/_secret/Earth/Continent/Europe/Europe~North/Irish_Sea.secret|Irish_Sea.secret]]"
+has_id_wikidata: Q41735
 ---
-
 # [[Irish_Sea]] 
 
 #is_/same_as :: [[WD~Irish_Sea,41735]] 

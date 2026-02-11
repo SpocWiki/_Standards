@@ -3,8 +3,8 @@ aliases:
   - Anomura
   - Anomala
 title: Anomura
+has_id_wikidata: Q526867
 ---
-
 # [[Anomura]] 
 
 ![Porcellanidae](Anomura/Porcellanidae.jpg)  ![hermit crab](Anomura/hermit_crab.jpg) 

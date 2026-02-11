@@ -3,8 +3,8 @@ aliases:
   - Julie Andrews
   - Julia Elizabeth Wells
   - Andrews,Julie
+has_id_wikidata: Q161819
 ---
-
 ## #has_/text_of_/abstract 
 
 > Dame **Julie Andrews** (born Julia Elizabeth Wells; 1 October 1935) 

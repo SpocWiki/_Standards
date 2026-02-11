@@ -2,8 +2,8 @@
 aliases:
   - Sicariidae
 title: Sicariidae
+has_id_wikidata: Q11717
 ---
-
 # [[Sicariidae]] 
 ![loxosceles_laeta](Sicariidae/loxosceles_laeta_1875.jpg)) ![loxosceles_laeta](Sicariidae/loxosceles_laeta_1888.jpg))  ![loxosceles_laetamm](Sicariidae/loxosceles_laetamm_1898.jpg) 
 

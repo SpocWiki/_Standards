@@ -3,8 +3,8 @@ aliases:
   - American Horror Story
   - AHS(American_Horror_Story)
   - AHS(American Horror Story)
+has_id_wikidata: Q53922
 ---
-
 ## #has_/text_of_/abstract 
 
 > **American Horror Story** (AHS) is an American horror anthology television series 

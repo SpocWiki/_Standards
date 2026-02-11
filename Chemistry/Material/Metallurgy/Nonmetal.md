@@ -20,8 +20,8 @@ dv_is_same_as:
   - "[[/_private/Chemistry/Material/Metallurgy/Nonmetal.private|Nonmetal.private]]"
   - "[[/_personal/Chemistry/Material/Metallurgy/Nonmetal.personal|Nonmetal.personal]]"
   - "[[/_secret/Chemistry/Material/Metallurgy/Nonmetal.secret|Nonmetal.secret]]"
+has_id_wikidata: Q19600
 ---
-
 # [[Nonmetal]] 
 
 is_opposite_of = `=this.dv_is_opposite_of` 

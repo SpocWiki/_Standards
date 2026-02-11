@@ -3,8 +3,8 @@ aliases:
   - Gefühlsvampir
   - Emotional_Vampire
   - Emotional Vampire
+has_id_wikidata: Q3306791
 ---
-
 ## #has_/text_of_/abstract 
 
 > A psychic vampire is a creature in folklore said to feed off the "life force" of other living creatures. 

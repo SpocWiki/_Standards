@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q176457
+---
+
 
 > **Supertramp** were a British rock band that formed in London in 1970. 
 > They experienced their greatest global success in 1979 with their sixth album Breakfast in America. 

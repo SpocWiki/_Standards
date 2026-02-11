@@ -2,8 +2,8 @@
 aliases:
   - Amaurobiidae
 title: Amaurobiidae
+has_id_wikidata: Q5854
 ---
-
 # [[Amaurobiidae]] 
 ![ ](Amaurobiidae/Amaurobius_ferox-8001.jpg) 
 

@@ -3,8 +3,8 @@ aliases:
   - id Software LLC
   - id Software
   - id_Software
+has_id_wikidata: Q204474
 ---
-
 ## #has_/text_of_/abstract 
 
 > **id Software** LLC  is an American video game developer based in Richardson, Texas. 

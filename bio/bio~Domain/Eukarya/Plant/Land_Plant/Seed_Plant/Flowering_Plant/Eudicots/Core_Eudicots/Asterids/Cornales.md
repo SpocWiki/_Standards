@@ -2,8 +2,8 @@
 aliases:
   - Cornales
 title: Cornales
+has_id_wikidata: Q21769
 ---
-
 # [[Cornales]] 
 
 ![](Cornales/Cornus_kousa3723.jpg)

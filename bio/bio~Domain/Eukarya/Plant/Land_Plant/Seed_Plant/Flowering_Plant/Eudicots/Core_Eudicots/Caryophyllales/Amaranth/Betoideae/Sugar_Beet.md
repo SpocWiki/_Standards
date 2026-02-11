@@ -4,8 +4,8 @@ aliases:
   - sugar beet
   - Sugar_Beet
   - Sugar Beet
+has_id_wikidata: Q151964
 ---
-
 #has_/time_/started :: 1802-06-01 
 
 In about 1800, this cultivar boasted about 5–6% sucrose by (dry) weight.

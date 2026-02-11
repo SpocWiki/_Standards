@@ -2,8 +2,8 @@
 aliases:
   - Max Martin
   - Martin,Max
+has_id_wikidata: Q318223
 ---
-
 # [[Martin,Max]]
 
 #has_/time_/started :: 1971-02-26 

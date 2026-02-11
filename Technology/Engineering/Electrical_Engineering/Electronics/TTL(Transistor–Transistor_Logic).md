@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q173451
+---
+
 
 #is_/worse_than :: [[CMOS]] 
 

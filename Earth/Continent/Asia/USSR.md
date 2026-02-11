@@ -36,8 +36,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Continent/Asia/USSR.private|USSR.private]]"
   - "[[/_personal/Earth/Continent/Asia/USSR.personal|USSR.personal]]"
   - "[[/_secret/Earth/Continent/Asia/USSR.secret|USSR.secret]]"
+has_id_wikidata: Q15180
 ---
-
 has_next_item = `=this.dv_has_next_item`
 
 [ISO2::]

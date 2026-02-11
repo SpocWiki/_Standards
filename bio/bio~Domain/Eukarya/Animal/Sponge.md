@@ -4,8 +4,8 @@ aliases:
   - Sponges
   - Porifera
 title: Porifera
+has_id_wikidata: Q18960
 ---
-
 # [[Sponge]] 
 
 #is_a/bio-Phylum  

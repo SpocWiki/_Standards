@@ -2,8 +2,8 @@
 aliases:
   - Listriodontinae
 title: Listriodontinae
+has_id_wikidata: Q18603772
 ---
-
 # [[Listriodontinae]] 
 
 ## #has_/text_of_/abstract 

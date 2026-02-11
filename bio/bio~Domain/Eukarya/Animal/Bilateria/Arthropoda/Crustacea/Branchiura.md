@@ -5,8 +5,8 @@ aliases:
   - fish lice
   - carp lice
 title: Branchiura
+has_id_wikidata: Q18196331
 ---
-
 # [[Branchiura]] 
 
 Sea lice, fish lice, tongue worms 

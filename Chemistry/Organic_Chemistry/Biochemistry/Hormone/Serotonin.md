@@ -16,8 +16,8 @@ dv_is_same_as:
   - "[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.private|Serotonin.private]]"
   - "[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.personal|Serotonin.personal]]"
   - "[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.secret|Serotonin.secret]]"
+has_id_wikidata: Q167934
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Serotonin** () or 5-hydroxytryptamine (5-HT) is a monoamine neurotransmitter. 

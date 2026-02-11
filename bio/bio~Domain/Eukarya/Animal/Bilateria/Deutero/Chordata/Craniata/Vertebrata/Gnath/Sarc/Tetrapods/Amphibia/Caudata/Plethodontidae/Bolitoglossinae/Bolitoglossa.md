@@ -23,8 +23,8 @@ dv_scientific_name: Bolitoglossa striatula
 dv_location: Costa Rica
 dv_image_use: "[Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/)."
 dv_copyright: © 2006 [Jack Goldfarb](http://flickr.com/people/the_horned_jew_lizard/)
+has_id_wikidata: Q2670457
 ---
-
 # [[Bolitoglossa]] 
 
 ![ ](Bolitoglossa/103881968_74ffee5d5b_o.jpg)

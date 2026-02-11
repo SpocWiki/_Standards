@@ -2,8 +2,8 @@
 aliases:
   - Platydesmida
 title: Platydesmida
+has_id_wikidata: Q4047049
 ---
-
 # [[Platydesmida]] 
 
 ## #has_/text_of_/abstract 

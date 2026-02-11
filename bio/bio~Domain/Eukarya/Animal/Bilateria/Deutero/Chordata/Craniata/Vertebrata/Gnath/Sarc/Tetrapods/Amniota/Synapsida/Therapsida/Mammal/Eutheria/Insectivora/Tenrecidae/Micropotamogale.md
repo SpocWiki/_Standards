@@ -2,8 +2,8 @@
 aliases:
   - Micropotamogale
 title: Micropotamogale
+has_id_wikidata: Q860622
 ---
-
 # [[Micropotamogale]]
 
 ## dwarf otter shrews 

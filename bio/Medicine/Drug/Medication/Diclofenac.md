@@ -2,8 +2,8 @@
 aliases:
   - Voltaren
   - Diclofenac
+has_id_wikidata: Q244408
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Diclofenac**, sold under the brand name Voltaren among others, 

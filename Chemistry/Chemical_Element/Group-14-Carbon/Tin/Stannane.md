@@ -18,8 +18,8 @@ dv_is_same_as:
   - "[[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane.private|Stannane.private]]"
   - "[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane.personal|Stannane.personal]]"
   - "[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Tin/Stannane.secret|Stannane.secret]]"
+has_id_wikidata: Q417040
 ---
-
 # [[Stannane]] 
 
 is_similar_to = `=this.dv_is_similar_to` 

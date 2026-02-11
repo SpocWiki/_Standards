@@ -4,8 +4,8 @@ aliases:
   - Hayflick phenomenon
   - Hayflick_Limit
   - Hayflick Limit
+has_id_wikidata: Q899798
 ---
-
 # [[Hayflick_Limit]] 
 
 #is_/same_as :: 

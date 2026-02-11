@@ -4,8 +4,8 @@ aliases:
   - algebraic integer
   - Algebraic_Integer
   - Algebraic Integer
+has_id_wikidata: Q646245
 ---
-
 # [[Algebraic_Integer]] 
 
 #is_/same_as :: 

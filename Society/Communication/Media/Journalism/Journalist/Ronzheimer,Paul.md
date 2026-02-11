@@ -3,8 +3,8 @@ aliases:
   - Paul_Ronzheimer
   - Paul Ronzheimer
   - Ronzheimer,Paul
+has_id_wikidata: Q47199975
 ---
-
 ## #has_/text_of_/abstract 
 
 > Paul **Ronzheimer** (born 26 July 1985 in Aurich) is a German journalist and author 

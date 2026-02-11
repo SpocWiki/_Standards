@@ -3,8 +3,8 @@ aliases:
   - John Rawls
   - John Bordley Rawls
   - Rawls,John 1
+has_id_wikidata: Q172544
 ---
-
 # [[Rawls,John 1]] 
 
 ## #has_/text_of_/abstract 

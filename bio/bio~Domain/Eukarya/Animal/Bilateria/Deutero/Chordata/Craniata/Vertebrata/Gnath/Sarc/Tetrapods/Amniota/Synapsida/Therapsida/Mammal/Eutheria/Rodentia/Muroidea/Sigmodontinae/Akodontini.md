@@ -2,8 +2,8 @@
 aliases:
   - Akodontini
 title: Akodontini
+has_id_wikidata: Q2440089
 ---
-
 # [[Akodontini]]
 
 ## South American field mice 

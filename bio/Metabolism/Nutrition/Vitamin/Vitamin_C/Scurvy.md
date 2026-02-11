@@ -2,8 +2,8 @@
 aliases:
   - Skorbut
   - Scurvy
+has_id_wikidata: Q163865
 ---
-
 #is_/similar_to :: [[../Vitamin_B/Thiamine/Beri_Beri]] 
 
 ## #has_/text_of_/abstract 

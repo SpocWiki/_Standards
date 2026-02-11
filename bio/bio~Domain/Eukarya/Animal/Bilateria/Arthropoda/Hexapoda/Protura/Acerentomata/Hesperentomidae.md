@@ -2,8 +2,8 @@
 aliases:
   - Hesperentomidae
 title: Hesperentomidae
+has_id_wikidata: Q3040549
 ---
-
 # [[Hesperentomidae]] 
 
 ## #has_/text_of_/abstract 

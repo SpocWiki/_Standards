@@ -2,8 +2,8 @@
 aliases:
   - Pterotracheoidea
 title: Carinarioidea
+has_id_wikidata: Q2116183
 ---
-
 ## [[Pterotracheoidea]] 
 
 Heteropoda [Lamarck, 1812], heteropods, sea elephants 

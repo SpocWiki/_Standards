@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q25177
+---
+
 
 
 Named after the City [[Ramstein]] where 1988 Planes crashed during a Flight Show killing 70 people. 

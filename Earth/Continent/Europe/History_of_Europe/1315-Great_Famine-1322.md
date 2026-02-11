@@ -22,8 +22,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Continent/Europe/History_of_Europe/1315-Great_Famine-1322.private|1315-Great_Famine-1322.private]]"
   - "[[/_personal/Earth/Continent/Europe/History_of_Europe/1315-Great_Famine-1322.personal|1315-Great_Famine-1322.personal]]"
   - "[[/_secret/Earth/Continent/Europe/History_of_Europe/1315-Great_Famine-1322.secret|1315-Great_Famine-1322.secret]]"
+has_id_wikidata: Q1988505
 ---
-
 # [[1315-Great_Famine-1322]] 
 
 has_time_started = `=this.dv_has_time_started`

@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q808561
+---
+
 
 # [[Baroque_Painting]] 
 

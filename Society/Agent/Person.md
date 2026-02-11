@@ -26,8 +26,8 @@ tags:
   - schema-org/Class
 title: is_a_person Class
 type: Type
+has_id_wikidata: Q215627
 ---
-
 # [[Person]] 
 
 Class of all natural persons.

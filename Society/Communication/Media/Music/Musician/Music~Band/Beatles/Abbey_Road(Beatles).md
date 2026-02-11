@@ -24,8 +24,8 @@ tags:
   - ''
 title: Beatles~Abbey_Road
 type: private_note
+has_id_wikidata: Q173643
 ---
-
 # [[Abbey_Road(Beatles)]] 
 
 ## #has_/text_of_/abstract 

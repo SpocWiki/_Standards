@@ -4,8 +4,8 @@ aliases:
   - Peter Andreas Thiel
   - Peter_Thiel
   - Thiel,Peter
+has_id_wikidata: Q705525
 ---
-
 # [[Thiel,Peter]] 
 
 #has_/time_/started :: 1967-10-11 

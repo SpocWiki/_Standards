@@ -3,8 +3,8 @@ aliases:
   - Ranga Yogeshwar
   - Ranganathan Gregoire Yogeshwar
   - Yogeshwar,Ranga
+has_id_wikidata: Q885331
 ---
-
 #has_/time_/started :: 1959-05-18 
 
 ## #has_/text_of_/abstract 

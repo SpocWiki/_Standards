@@ -2,8 +2,8 @@
 aliases:
   - Osteostraci
 title: Osteostraci
+has_id_wikidata: Q132935
 ---
-
 # [[Osteostraci]]
 
 

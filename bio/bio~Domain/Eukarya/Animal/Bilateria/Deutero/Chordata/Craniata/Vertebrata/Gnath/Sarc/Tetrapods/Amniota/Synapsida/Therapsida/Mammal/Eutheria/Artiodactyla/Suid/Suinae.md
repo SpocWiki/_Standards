@@ -2,8 +2,8 @@
 aliases:
   - Suinae
 title: Suinae
+has_id_wikidata: Q899307
 ---
-
 # [[Suinae]] 
 
 ![Bushpig (Potamochoerus porcus), Tanzania](../bushpig.jpg) 

@@ -2,8 +2,8 @@
 aliases:
   - Mary Wollstonecraft
   - Wollstonecraft,Mary
+has_id_wikidata: Q101638
 ---
-
 # [[Wollstonecraft,Mary]] 
 
 #has_/time_/started :: 1759-04-27  

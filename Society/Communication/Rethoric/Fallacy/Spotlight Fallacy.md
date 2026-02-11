@@ -4,8 +4,8 @@ aliases:
 - "sampling bias"
 - "ascertainment bias"
 - "Anecdotal Evidence"
+has_id_wikidata: Q2725298
 ---
-
 ## #has_/text_of_/abstract 
 
 > In statistics, sampling bias is a bias in which a sample is collected in such a way that 

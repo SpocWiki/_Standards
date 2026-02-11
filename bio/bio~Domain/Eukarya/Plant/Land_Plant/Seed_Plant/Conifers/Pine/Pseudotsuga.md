@@ -8,8 +8,8 @@ aliases:
   - Pseudo-tsuga
   - Pseudotsuga
 title: Pseudotsuga
+has_id_wikidata: Q158771
 ---
-
 # Pseudotsuga [Carrière 1867]
 
 ## Douglas-fir 

@@ -2,8 +2,8 @@
 aliases:
   - Dua Lipa
   - Lipa,Dua
+has_id_wikidata: Q21914464
 ---
-
 # [[Lipa,Dua]] 
 
 

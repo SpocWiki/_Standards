@@ -3,8 +3,8 @@ aliases:
   - The World Is Not Enough
   - The_World_Is_Not_Enough,1999
   - The World Is Not Enough,1999
+has_id_wikidata: Q212145
 ---
-
 ## #has_/text_of_/abstract 
 
 > **The World Is Not Enough** is a 1999 spy film, the nineteenth in the James Bond series produced by Eon Productions 

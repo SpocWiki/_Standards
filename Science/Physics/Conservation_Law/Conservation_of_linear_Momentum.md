@@ -5,9 +5,8 @@ aliases:
   - Conservation_of_linear_Momentum
   - Conservation of linear Momentum
 has_id_wikidata: ''
+has_id_wikidata: Q41273
 ---
-
-
 ## #has_/text_of_/abstract 
 
 > In Newtonian mechanics, momentum (pl.: momenta or momentums; 

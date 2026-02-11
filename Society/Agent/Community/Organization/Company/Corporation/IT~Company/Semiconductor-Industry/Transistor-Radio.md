@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q506260
+---
+
 # [[Transistor-Radio]] 
 
 > A transistor radio is a small portable radio receiver that uses [[../../../../../../../../Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Transistor]]-based circuitry. 

@@ -24,8 +24,8 @@ dv_is_same_as:
   - '[Grove,Andrew.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Grove,Andrew.private)'
   - '[Grove,Andrew.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Grove,Andrew.personal)'
   - '[Grove,Andrew.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Grove,Andrew.secret)'
+has_id_wikidata: Q432929
 ---
-
 #has_/time_/started :: 1936-09-02 
 #has_/time_/stopped  :: 2016-03-21 
 

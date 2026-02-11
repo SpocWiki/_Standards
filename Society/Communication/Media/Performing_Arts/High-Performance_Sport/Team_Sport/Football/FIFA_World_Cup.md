@@ -2,8 +2,8 @@
 aliases:
   - FIFA World Cup
   - FIFA_World_Cup
+has_id_wikidata: Q19317
 ---
-
 ## #has_/text_of_/abstract 
 
 > The **FIFA World Cup**, often called the World Cup, 

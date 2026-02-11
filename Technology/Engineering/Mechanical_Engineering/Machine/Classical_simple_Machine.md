@@ -3,8 +3,8 @@ aliases:
   - classical simple machine
   - Classical_simple_Machine
   - Classical simple Machine
+has_id_wikidata: Q186713
 ---
-
 # [[Classical_simple_Machine]] 
 
 #is_/same_as :: 

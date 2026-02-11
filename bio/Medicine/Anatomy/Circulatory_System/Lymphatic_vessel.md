@@ -26,8 +26,8 @@ tags:
   - schema-org/Class
 title: is_a_lymphatic_vessel Class
 type: Type
+has_id_wikidata: Q11238641
 ---
-
 # [[Lymphatic_vessel]] 
 
 Class of all lymphatic_vessels.

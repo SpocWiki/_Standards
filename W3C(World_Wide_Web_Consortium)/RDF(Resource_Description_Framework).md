@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q54872
+---
+
 # [[../Technology/IT/Data/Data_Language/RDF(Resource_Description_Framework)]] 
 
 #has_/url :: http://www.w3.org/1999/02/22-rdf-syntax-ns#

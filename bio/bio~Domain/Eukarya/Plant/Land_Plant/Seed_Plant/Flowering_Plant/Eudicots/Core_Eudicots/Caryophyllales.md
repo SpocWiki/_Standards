@@ -2,8 +2,8 @@
 aliases:
   - Caryophyllales
 title: Caryophyllales
+has_id_wikidata: Q21808
 ---
-
 # [[Caryophyllales]]
 
 Caryophyllids 

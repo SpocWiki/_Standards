@@ -2,8 +2,8 @@
 aliases:
   - Chris Pratt
   - Pratt,Chris
+has_id_wikidata: Q503706
 ---
-
 #has_/time_/started :: 1979-06-21 
 
 ## #has_/text_of_/abstract 

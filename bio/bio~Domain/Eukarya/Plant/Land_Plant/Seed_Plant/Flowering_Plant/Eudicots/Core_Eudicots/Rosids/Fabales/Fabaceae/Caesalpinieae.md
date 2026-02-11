@@ -4,8 +4,8 @@ aliases:
   - peacock flower
   - Caesalpinieae
 title: Caesalpinieae s.l. & s.s., Cassieae sensu stricto, Mimosoideae
+has_id_wikidata: Q157156
 ---
-
 # [[Caesalpinieae]] s.l. & s.s., Cassieae sensu stricto, Mimosoideae 
 
 ![Senna marilandica](Caesalpinieae/Senna_marilandica.jpg)  ![Caesalpinia pulcherrima](Caesalpinieae/Caesalpinia_pulcherrima.jpg)  ![Ceratonia siliqua](Caesalpinieae/Ceratonia_siliqua.jpg) 

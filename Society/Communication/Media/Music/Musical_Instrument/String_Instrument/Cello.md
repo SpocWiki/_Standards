@@ -3,8 +3,8 @@ aliases:
   - Cello
   - violoncello
 has_id_wikidata: ''
+has_id_wikidata: Q8371
 ---
-
 # [[Cello]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Cello,8371|WD~Cello,8371]] 

@@ -26,8 +26,8 @@ tags:
   - rather use
 title: Json-LD
 type: private note
+has_id_wikidata: Q6108942
 ---
-
 # [[Json-LD]]
 
 JSON-Linked Data 

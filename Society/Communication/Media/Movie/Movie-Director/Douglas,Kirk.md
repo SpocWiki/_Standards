@@ -3,8 +3,8 @@ aliases:
   - Kirk Douglas
   - Issur Danielovitch
   - Douglas,Kirk
+has_id_wikidata: Q104027
 ---
-
 #has_/time_/started :: 1916-12-09 
 #has_/time_/stopped :: 2020-02-05 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

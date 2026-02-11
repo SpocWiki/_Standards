@@ -2,8 +2,8 @@
 aliases:
   - Myxozoa
 title: Myxozoa
+has_id_wikidata: Q134882
 ---
-
 # [[Myxozoa]] 
 
 

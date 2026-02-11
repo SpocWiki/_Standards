@@ -4,8 +4,8 @@ aliases:
   - Liáng Cháowěi
   - Tony Leung
   - Tony_Leung_Chiu-wai
+has_id_wikidata: Q319001
 ---
-
 #is_/different_from :: [[Tony_Leung_Ka-fai]] 
 
 #has_/time_/started :: 1962-06-27 

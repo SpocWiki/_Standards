@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q44996
+---
+
 
 # [[OED(Oxford_English_Dictionary)]] 
 

@@ -3,8 +3,8 @@ aliases:
   - Brussels sprout
   - Rosenkohl
   - Brussels_sprout
+has_id_wikidata: Q150463
 ---
-
 # [[Brussels_sprout]] 
 
 

@@ -2,8 +2,8 @@
 aliases:
   - Romance languages
   - LangFamily-Italic
+has_id_wikidata: Q19814
 ---
-
 ## #has_/text_of_/abstract 
 
 > The **Romance languages**, also known as the Latin or Neo-Latin languages, are the languages that are directly descended from Vulgar Latin. They are the only extant subgroup of the Italic branch of the Indo-European language family.

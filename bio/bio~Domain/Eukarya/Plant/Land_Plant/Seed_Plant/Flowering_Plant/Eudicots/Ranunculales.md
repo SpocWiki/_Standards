@@ -3,8 +3,8 @@ aliases:
   - Ranunculaceae
   - Ranunculales
 title: Ranunculales
+has_id_wikidata: Q21021
 ---
-
 # [[Ranunculales]]  
 
 ![Mahonia bealei](Ranunculales/Mahonia_bealei.jpg)

@@ -4,8 +4,8 @@ aliases:
   - privateering
   - Letter_of_Marque
   - Letter of Marque
+has_id_wikidata: Q1414906
 ---
-
 # [[Letter_of_Marque]] 
 
 #is_/same_as :: 

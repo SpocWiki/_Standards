@@ -30,8 +30,8 @@ dv_is_same_as:
   - "[[/_private/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Supernova.private|Crab_Supernova.private]]"
   - "[[/_personal/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Supernova.personal|Crab_Supernova.personal]]"
   - "[[/_secret/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Supernova.secret|Crab_Supernova.secret]]"
+has_id_wikidata: Q32037
 ---
-
 # [[Crab_Supernova]] 
 
 has_time_started = `=this.dv_has_time_started` 

@@ -2,8 +2,8 @@
 aliases:
   - Giuseppe Peano
   - Peano,Giuseppe
+has_id_wikidata: Q191029
 ---
-
 #has_/time_/started :: 1858-08-27 
 #has_/time_/stopped :: 1932-04-20 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)`

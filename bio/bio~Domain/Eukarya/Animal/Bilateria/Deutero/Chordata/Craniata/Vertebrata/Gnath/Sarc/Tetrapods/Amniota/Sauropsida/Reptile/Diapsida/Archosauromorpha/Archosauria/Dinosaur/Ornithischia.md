@@ -3,8 +3,8 @@ aliases:
   - Ornithischia
   - Vogelbecken-Dinosaurier
 title: Ornithischia
+has_id_wikidata: Q191488
 ---
-
 # [[Ornithischia]]
 
 Bird-hipped plant-eating dinosaurs 

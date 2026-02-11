@@ -3,8 +3,8 @@ aliases:
   - Freak on a Leash
   - Korn~Freak_on_a_Leash
   - Korn~Freak on a Leash
+has_id_wikidata: Q1083323
 ---
-
 #has_/time_/started :: 1999-02-25 
 
 ## #has_/text_of_/abstract 

@@ -2,8 +2,8 @@
 aliases:
   - Anoplotheriidae
 title: Anoplotheriidae
+has_id_wikidata: Q567678
 ---
-
 # [[Anoplotheriidae]] 
 
 

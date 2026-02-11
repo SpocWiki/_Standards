@@ -6,8 +6,8 @@ aliases:
   - springbuck
   - Springbok
 title: Antidorcas marsupialis
+has_id_wikidata: Q213084
 ---
-
 [Temporary Page](tree/home.pages/pagestatus.html)
 
 # [[Springbok]] 

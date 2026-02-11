@@ -2,8 +2,8 @@
 aliases:
   - Suessenguthia
 title: Suessenguthia
+has_id_wikidata: Q5235726
 ---
-
 # [[Suessenguthia]] 
 
 ![ ](Suessenguthia/5592.jpg)

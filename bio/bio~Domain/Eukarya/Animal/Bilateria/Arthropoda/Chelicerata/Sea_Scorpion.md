@@ -6,8 +6,8 @@ aliases:
   - Sea_Scorpion
   - Sea Scorpion
 title: Eurypterida
+has_id_wikidata: Q19436
 ---
-
 # [[Sea_Scorpion]]
 
 Sea Scorpions 

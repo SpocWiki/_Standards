@@ -2,8 +2,8 @@
 aliases:
   - Protentomidae
 title: Protentomidae
+has_id_wikidata: Q3407963
 ---
-
 # [[Protentomidae]] 
 
 ## #has_/text_of_/abstract 

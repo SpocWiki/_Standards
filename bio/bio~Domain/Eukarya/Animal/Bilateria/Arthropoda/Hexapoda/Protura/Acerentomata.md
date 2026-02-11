@@ -4,8 +4,8 @@ aliases:
   - Protura
   - proturans
 title: Acerentomata
+has_id_wikidata: Q271631
 ---
-
 # [[Acerentomata]] 
 
 ## #has_/text_of_/abstract 

@@ -2,8 +2,8 @@
 aliases:
   - Gastrotricha
 title: Gastrotricha
+has_id_wikidata: Q190115
 ---
-
 # [[Gastrotricha]] 
 
 ![Gastrotricha](Gastrotricha/Gastrotricha.gif) 

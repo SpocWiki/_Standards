@@ -1,8 +1,8 @@
 ---
 aliases:
   - legal shorthand
+has_id_wikidata: Q1801579
 ---
-
 # [[Legal_Shorthand]] 
 
 ## #has_/text_of_/abstract 

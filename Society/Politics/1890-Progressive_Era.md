@@ -3,8 +3,8 @@ aliases:
   - Progressive Era
   - 1890-Progressive_Era
   - 1890-Progressive Era
+has_id_wikidata: Q2635158
 ---
-
 # [[1890-Progressive_Era]] 
 
 #has_/time_/started :: 1890-06 

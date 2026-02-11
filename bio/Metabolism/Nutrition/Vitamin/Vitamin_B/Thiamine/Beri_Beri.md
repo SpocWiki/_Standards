@@ -4,8 +4,8 @@ aliases:
   - Thiamine deficiency
   - beriberi
   - Beri_Beri
+has_id_wikidata: Q184084
 ---
-
 #is_/similar_to :: [[Vitamin_C/Scurvy]] 
 
 ## #has_/text_of_/abstract 

@@ -1,8 +1,8 @@
 ---
 aliases:
   - phosphonic acid
+has_id_wikidata: Q422733
 ---
-
 # [[Phosphonate]] 
 
 ```

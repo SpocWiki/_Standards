@@ -20,8 +20,8 @@ dv_is_same_as:
   - "[[/_private/Chemistry/Chemical_Reaction/Adsorption.private|Adsorption.private]]"
   - "[[/_personal/Chemistry/Chemical_Reaction/Adsorption.personal|Adsorption.personal]]"
   - "[[/_secret/Chemistry/Chemical_Reaction/Adsorption.secret|Adsorption.secret]]"
+has_id_wikidata: Q180254
 ---
-
 # [[Adsorption]] 
 
 is_different_from = `=this.dv_is_different_from` 

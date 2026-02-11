@@ -2,8 +2,8 @@
 aliases:
   - Poor Things
   - Poor_Things
+has_id_wikidata: Q7228828
 ---
-
 #is_a ::  [[Born_yesterday-Trope]] 
 
 ## #has_/text_of_/abstract 

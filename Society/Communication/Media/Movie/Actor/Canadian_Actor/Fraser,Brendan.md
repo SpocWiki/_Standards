@@ -2,8 +2,8 @@
 aliases:
   - Brendan Fraser
   - Fraser,Brendan
+has_id_wikidata: Q193555
 ---
-
 #has_/time_/started :: 1968-12-03 
 
 ## #has_/text_of_/abstract 

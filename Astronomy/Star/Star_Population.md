@@ -16,8 +16,8 @@ dv_is_same_as:
   - "[[/_private/Astronomy/Star/Star_Population.private|Star_Population.private]]"
   - "[[/_personal/Astronomy/Star/Star_Population.personal|Star_Population.personal]]"
   - "[[/_secret/Astronomy/Star/Star_Population.secret|Star_Population.secret]]"
+has_id_wikidata: Q1436016
 ---
-
 # [[Star_Population]] 
 
 Metallicity Z: about **1.2–1.4% of the Sun’s mass** consists of elements heavier than H and He.

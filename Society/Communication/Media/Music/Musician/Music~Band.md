@@ -2,8 +2,8 @@
 aliases:
   - Band
   - Music~Band
+has_id_wikidata: Q6630017
 ---
-
 # [[Music~Band]]
 
 

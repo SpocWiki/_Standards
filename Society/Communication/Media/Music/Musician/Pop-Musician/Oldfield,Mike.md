@@ -3,8 +3,8 @@ aliases:
   - Michael Gordon Oldfield
   - Mike Oldfield
   - Oldfield,Mike
+has_id_wikidata: Q3008
 ---
-
 # [[Oldfield,Mike]] 
 
 #has_/time_/started :: 1953-05-15 

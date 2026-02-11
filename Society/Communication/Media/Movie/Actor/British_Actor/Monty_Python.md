@@ -3,8 +3,8 @@ aliases:
   - Monty Python
   - the Pythons
   - Monty_Python
+has_id_wikidata: Q16402
 ---
-
 # [[Monty_Python]]
 
 #has_/time_/started :: 1969-06 

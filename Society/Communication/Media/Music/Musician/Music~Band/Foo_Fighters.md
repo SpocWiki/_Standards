@@ -2,8 +2,8 @@
 aliases:
   - Foo Fighters
   - Foo_Fighters
+has_id_wikidata: Q483718
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Foo Fighters** is an American rock band formed in Seattle in 1994. 

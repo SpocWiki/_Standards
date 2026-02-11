@@ -4,8 +4,8 @@ aliases:
   - Roger George Moore
   - Sir Roger George Moore
   - Moore,Roger
+has_id_wikidata: Q134333
 ---
-
 # [[Moore,Roger]] 
 
 #has_/time_/started :: 1927-10-14 

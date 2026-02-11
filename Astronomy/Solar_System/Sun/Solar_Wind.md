@@ -18,8 +18,8 @@ dv_is_same_as:
   - "[[/_private/Astronomy/Solar_System/Sun/Solar_Wind.private|Solar_Wind.private]]"
   - "[[/_personal/Astronomy/Solar_System/Sun/Solar_Wind.personal|Solar_Wind.personal]]"
   - "[[/_secret/Astronomy/Solar_System/Sun/Solar_Wind.secret|Solar_Wind.secret]]"
+has_id_wikidata: Q79833
 ---
-
 # [[Solar_Wind]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Solar_wind,79833|WD~Solar_wind,79833]]  

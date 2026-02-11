@@ -9,8 +9,8 @@ aliases:
   - panel study
   - Longitudinal_Study
   - Longitudinal Study
+has_id_wikidata: Q1758614
 ---
-
 #is_/better_than :: [[Cross-sectional_Study]] 
 #is_/different_from :: [[../Experiment]]
 

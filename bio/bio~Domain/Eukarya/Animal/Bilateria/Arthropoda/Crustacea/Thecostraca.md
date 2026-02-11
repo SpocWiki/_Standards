@@ -5,8 +5,8 @@ aliases:
   - Rankenfußkrebse
   - Seepocken
 title: Thecostraca
+has_id_wikidata: Q150628
 ---
-
 # [[Thecostraca]] 
 
 Barnacles and their relatives 

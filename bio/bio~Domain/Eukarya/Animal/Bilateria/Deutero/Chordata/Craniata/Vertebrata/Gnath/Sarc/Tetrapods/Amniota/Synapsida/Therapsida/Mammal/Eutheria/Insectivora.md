@@ -2,8 +2,8 @@
 aliases:
   - Insectivora
 title: Insectivora
+has_id_wikidata: Q25842
 ---
-
 # [[Insectivora]] 
 
 ![ ](Insectivora/99051987_7328b57217_o.jpg)

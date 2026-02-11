@@ -16,9 +16,8 @@ dv_is_same_as:
   - "[[/_private/Chemistry/Organic_Chemistry/Recycling_codes.private|Recycling_codes.private]]"
   - "[[/_personal/Chemistry/Organic_Chemistry/Recycling_codes.personal|Recycling_codes.personal]]"
   - "[[/_secret/Chemistry/Organic_Chemistry/Recycling_codes.secret|Recycling_codes.secret]]"
+has_id_wikidata: Q2301084
 ---
-
-
 ## #has_/text_of_/abstract 
 
 > Recycling codes are used to identify the materials out of which the item is made, 

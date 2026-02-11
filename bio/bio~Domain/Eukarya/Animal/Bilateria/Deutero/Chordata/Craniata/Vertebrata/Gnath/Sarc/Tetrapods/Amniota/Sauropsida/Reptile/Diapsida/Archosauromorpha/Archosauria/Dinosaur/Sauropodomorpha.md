@@ -4,8 +4,8 @@ aliases:
   - Sauropodomorpha
 has_id_wikidata: ''
 title: Sauropodomorpha
+has_id_wikidata: Q133012
 ---
-
 # [[Sauropodomorpha]] 
 
 

@@ -16,8 +16,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Geography/Cartography/Meridian/Anti-Meridian.private|Anti-Meridian.private]]"
   - "[[/_personal/Earth/Geography/Cartography/Meridian/Anti-Meridian.personal|Anti-Meridian.personal]]"
   - "[[/_secret/Earth/Geography/Cartography/Meridian/Anti-Meridian.secret|Anti-Meridian.secret]]"
+has_id_wikidata: Q838283
 ---
-
 # [[Anti-Meridian]] 
 
 

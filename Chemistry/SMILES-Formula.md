@@ -19,8 +19,8 @@ dv_is_same_as:
   - "[[/_private/Chemistry/SMILES-Formula.private|SMILES-Formula.private]]"
   - "[[/_personal/Chemistry/SMILES-Formula.personal|SMILES-Formula.personal]]"
   - "[[/_secret/Chemistry/SMILES-Formula.secret|SMILES-Formula.secret]]"
+has_id_wikidata: Q466769
 ---
-
 ## #has_/text_of_/abstract 
 
 > The **Simplified Molecular Input Line Entry System** (SMILES) is a specification in the form of 

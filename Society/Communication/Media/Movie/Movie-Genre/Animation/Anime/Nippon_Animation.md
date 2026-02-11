@@ -2,8 +2,8 @@
 aliases:
   - Nippon Animation
   - Nippon_Animation
+has_id_wikidata: Q1051884
 ---
-
 #has_/created :: [[Once_upon_a_Time(animations)]]
 
 > Nippon Animation Co., Ltd. (日本アニメーション株式会社, Nippon Animēshon Kabushiki-gaisha) 

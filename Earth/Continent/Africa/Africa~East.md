@@ -22,8 +22,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Continent/Africa/Africa~East.private|Africa~East.private]]"
   - "[[/_personal/Earth/Continent/Africa/Africa~East.personal|Africa~East.personal]]"
   - "[[/_secret/Earth/Continent/Africa/Africa~East.secret|Africa~East.secret]]"
+has_id_wikidata: Q27407
 ---
-
 # [[Africa~East]] 
 
 ## #has_/text_of_/abstract  

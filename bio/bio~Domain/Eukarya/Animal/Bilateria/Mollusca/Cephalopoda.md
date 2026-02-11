@@ -2,8 +2,8 @@
 aliases:
   - Cephalopoda
 title: Cephalopoda
+has_id_wikidata: Q128257
 ---
-
 # [[Cephalopoda]] 
 
 Octopods, squids, nautiluses, etc. 

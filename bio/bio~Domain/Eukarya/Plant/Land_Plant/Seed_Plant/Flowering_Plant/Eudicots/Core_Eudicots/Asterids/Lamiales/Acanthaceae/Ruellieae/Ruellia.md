@@ -2,8 +2,8 @@
 aliases:
   - Ruellia
 title: Ruellia s. l.
+has_id_wikidata: Q1280862
 ---
-
 # *Ruellia s. l.* 
 
 ![ ](Ruellia/Ruellia_affinis23.jpg)  ![ ](Ruellia/et166b.jpg)  ![](Ruellia/Ruellia_bourgaei1.jpg)  ![ ](Ruellia/ruel.jpg) 

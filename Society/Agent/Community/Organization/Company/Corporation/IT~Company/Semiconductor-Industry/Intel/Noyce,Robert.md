@@ -28,8 +28,8 @@ dv_is_same_as:
   - '[Noyce,Robert.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Noyce,Robert.private)'
   - '[Noyce,Robert.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Noyce,Robert.personal)'
   - '[Noyce,Robert.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/Intel/Noyce,Robert.secret)'
+has_id_wikidata: Q241735
 ---
-
 # [[Noyce,Robert]] 
 
 #has_/time_/started :: 1927-12-12 

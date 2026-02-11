@@ -4,8 +4,8 @@ aliases:
   - Claudius Galenus
   - Galen of Pergamon
   - Galen
+has_id_wikidata: Q8778
 ---
-
 ## #has_/text_of_/abstract 
 
 > Aelius **Galen**us or Claudius Galenus (Greek: Κλαύδιος Γαληνός; September 129 – c. 216 AD), 

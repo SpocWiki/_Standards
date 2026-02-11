@@ -4,8 +4,8 @@ aliases:
   - Ausfallverteilung
   - Bathtub_Curve
   - Bathtub Curve
+has_id_wikidata: Q432465
 ---
-
 ## #has_/text_of_/abstract 
 
 > The **Bathtub curve** is a particular shape of a failure rate graph. 

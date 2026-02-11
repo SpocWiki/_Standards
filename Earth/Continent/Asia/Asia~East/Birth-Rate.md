@@ -19,8 +19,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Continent/Asia/Asia~East/Birth-Rate.private|Birth-Rate.private]]"
   - "[[/_personal/Earth/Continent/Asia/Asia~East/Birth-Rate.personal|Birth-Rate.personal]]"
   - "[[/_secret/Earth/Continent/Asia/Asia~East/Birth-Rate.secret|Birth-Rate.secret]]"
+has_id_wikidata: Q203516
 ---
-
 # [[Birth-Rate]] 
 
 More descriptive is the [[Fertility-Rate]], which puts it into relation to the Number of Women. 

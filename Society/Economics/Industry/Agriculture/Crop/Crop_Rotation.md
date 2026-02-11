@@ -3,8 +3,8 @@ aliases:
   - Fruchtfolge
   - Crop_Rotation
   - Crop Rotation
+has_id_wikidata: Q191258
 ---
-
 # [[Crop_Rotation]] 
 
 

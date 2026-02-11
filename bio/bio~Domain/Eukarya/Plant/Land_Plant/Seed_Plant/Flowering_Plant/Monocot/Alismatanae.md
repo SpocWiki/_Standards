@@ -2,8 +2,8 @@
 aliases:
   - Alismatanae
 title: Alismatanae
+has_id_wikidata: Q27341
 ---
-
 # [[Alismatanae]] 
 
 ![Sagittaria latifolia](Alismatanae/Sagittaria_latifolia.jpg) 

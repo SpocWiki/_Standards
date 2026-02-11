@@ -2,8 +2,8 @@
 aliases:
   - Spirobolida
 title: Spirobolida
+has_id_wikidata: Q3720278
 ---
-
 # [[Spirobolida]] 
 
 ![Centrobolus_annulatus](Spirobolida/Centrobolus_annulatus.jpg) 

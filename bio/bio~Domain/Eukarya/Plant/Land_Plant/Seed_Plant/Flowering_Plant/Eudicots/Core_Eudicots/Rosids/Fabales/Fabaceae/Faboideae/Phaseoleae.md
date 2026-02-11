@@ -1,8 +1,8 @@
 ---
 aliases:
   - Phaseoleae
+has_id_wikidata: Q141198
 ---
-
 # [[Phaseoleae]] 
 
 #is_/same_as :: [[Phaseoleae,]]

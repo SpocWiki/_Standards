@@ -9,8 +9,8 @@ aliases:
   - Leptosporangiate_Ferns
   - Leptosporangiate Ferns
 title: leptosporangiate ferns
+has_id_wikidata: Q3395756
 ---
-
 # [[Leptosporangiate_Ferns]] 
 
 

@@ -2,8 +2,8 @@
 aliases:
   - Sociologists
   - Sociologist
+has_id_wikidata: Q21201
 ---
-
 # [[Sociologist]] 
 
 

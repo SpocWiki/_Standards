@@ -5,8 +5,8 @@ aliases:
   - Boy Who Cried Wolf
   - Cry_Wolf
   - Cry Wolf
+has_id_wikidata: Q1190945
 ---
-
 # [[Cry_Wolf]] 
 
 ## #has_/text_of_/abstract 

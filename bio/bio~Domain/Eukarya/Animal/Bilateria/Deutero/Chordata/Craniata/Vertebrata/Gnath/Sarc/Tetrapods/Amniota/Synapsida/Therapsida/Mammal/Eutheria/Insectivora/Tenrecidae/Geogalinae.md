@@ -2,8 +2,8 @@
 aliases:
   - Geogalinae
 title: Geogalinae
+has_id_wikidata: Q523970
 ---
-
 # [[Geogalinae]] 
 
 ## #has_/text_of_/abstract 

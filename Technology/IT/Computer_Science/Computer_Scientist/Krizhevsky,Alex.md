@@ -3,8 +3,8 @@ aliases:
   - Alex Krizhevsky
   - Krizhevsky
   - Krizhevsky,Alex
+has_id_wikidata: Q28018607
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Alex Krizhevsky** is a Ukrainian-born Canadian computer scientist 

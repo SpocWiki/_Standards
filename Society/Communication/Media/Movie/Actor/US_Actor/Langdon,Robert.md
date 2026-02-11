@@ -2,8 +2,8 @@
 aliases:
   - Robert Langdon
   - Langdon,Robert
+has_id_wikidata: Q210548
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Robert Langdon** is a fictional character created by author Dan Brown 

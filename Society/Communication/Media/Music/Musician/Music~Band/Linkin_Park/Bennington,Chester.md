@@ -2,8 +2,8 @@
 aliases:
   - Chester Bennington
   - Bennington,Chester
+has_id_wikidata: Q19198
 ---
-
 #is_/part_of :: [[../Linkin_Park]] 
 
 #has_/time_/started :: 1976-03-20 

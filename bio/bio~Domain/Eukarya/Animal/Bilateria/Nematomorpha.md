@@ -2,8 +2,8 @@
 aliases:
   - Nematomorpha
 title: Nematomorpha
+has_id_wikidata: Q5186
 ---
-
 # [[Nematomorpha]] 
 
 ## Horsehair worms 

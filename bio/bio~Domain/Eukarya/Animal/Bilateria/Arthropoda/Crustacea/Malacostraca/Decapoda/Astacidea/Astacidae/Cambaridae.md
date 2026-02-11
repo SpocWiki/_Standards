@@ -2,8 +2,8 @@
 aliases:
   - Cambaridae
 title: Cambaridae
+has_id_wikidata: Q138415
 ---
-
 # [[Cambaridae]]  
 ![ ](Cambaridae/Procambarus_nigrocinctus.jpg) 
 

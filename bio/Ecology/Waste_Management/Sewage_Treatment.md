@@ -1,8 +1,8 @@
 ---
 aliases:
 has_id_wikidata: "221275"
+has_id_wikidata: Q221275
 ---
-
 # [[Sewage_Treatment]] 
 
 #is_/same_as :: [[WD~Sewage_treatment,221275]] 

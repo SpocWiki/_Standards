@@ -18,8 +18,8 @@ dv_is_same_as:
   - "[[/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Trigonal_bipyramidal_Geometry.private|Trigonal_bipyramidal_Geometry.private]]"
   - "[[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Trigonal_bipyramidal_Geometry.personal|Trigonal_bipyramidal_Geometry.personal]]"
   - "[[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Trigonal_bipyramidal_Geometry.secret|Trigonal_bipyramidal_Geometry.secret]]"
+has_id_wikidata: Q2867924
 ---
-
 is_similar_to = `=this.dv_is_similar_to` 
 
 

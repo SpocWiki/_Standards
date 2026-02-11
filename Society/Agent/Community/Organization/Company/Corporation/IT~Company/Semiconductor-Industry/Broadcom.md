@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q790060
+---
+
 
 
 #is_/similar_to :: [[Nvidia]] 

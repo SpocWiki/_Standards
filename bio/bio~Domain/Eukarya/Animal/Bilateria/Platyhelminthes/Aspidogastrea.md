@@ -2,8 +2,8 @@
 aliases:
   - Aspidogastrea
 title: Aspidogastrea
+has_id_wikidata: Q576111
 ---
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

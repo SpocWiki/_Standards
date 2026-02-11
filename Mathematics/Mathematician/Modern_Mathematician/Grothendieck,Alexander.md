@@ -2,8 +2,8 @@
 aliases:
   - Alexander Grothendieck
   - Grothendieck,Alexander
+has_id_wikidata: Q77141
 ---
-
 #has_/time_/started :: 1928-03-28 
 #has_/time_/stopped :: 2014-11-13
 #has_/duration :: `$=((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)`

@@ -2,8 +2,8 @@
 aliases:
   - Trilobites
 title: Trilobites
+has_id_wikidata: Q17170
 ---
-
 # [[Trilobites]]
 
 Trilobita 

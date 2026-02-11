@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q715718
+---
+
 
 
 > Heidi, Girl of the Alps ([[../../../../../../../Language/Language_Family/LangFamily-Japonic/Lang-jpn|Japanese]]: アルプスの少女ハイジ, Hepburn: Arupusu no Shōjo Haiji) 

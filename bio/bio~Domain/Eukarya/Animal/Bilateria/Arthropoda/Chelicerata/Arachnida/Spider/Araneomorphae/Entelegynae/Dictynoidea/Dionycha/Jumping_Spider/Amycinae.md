@@ -2,8 +2,8 @@
 aliases:
   - Amycinae
 title: Amycinae
+has_id_wikidata: Q101445
 ---
-
 # [[Amycinae]] 
 
 ![ ](Amycinae/amycus.gif)

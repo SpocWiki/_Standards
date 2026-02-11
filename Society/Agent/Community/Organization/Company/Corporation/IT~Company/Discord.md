@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q22907849
+---
+
 # [[Discord]] 
 
 #has_/Frameworks :: [[../../../../../../../Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Erlang]], [[../../../../../../../Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~Go|Prog~Go]] 

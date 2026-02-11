@@ -17,8 +17,8 @@ dv_is_same_as:
   - "[[/_private/schema-org/Relation/has/RTF(Rich_Text_Format).private|RTF(Rich_Text_Format).private]]"
   - "[[/_personal/schema-org/Relation/has/RTF(Rich_Text_Format).personal|RTF(Rich_Text_Format).personal]]"
   - "[[/_secret/schema-org/Relation/has/RTF(Rich_Text_Format).secret|RTF(Rich_Text_Format).secret]]"
+has_id_wikidata: Q467454
 ---
-
 ## #has_/text_of_/abstract 
 
 > The **Rich Text Format** (often abbreviated RTF) is a proprietary document file format 

@@ -2,8 +2,8 @@
 aliases:
   - Product lifetime
   - Product-Lifetime
+has_id_wikidata: Q5447288
 ---
-
 | Product  | Lifetime |
 | -------- | -------: |
 | House    |     50.0 |

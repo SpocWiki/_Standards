@@ -3,8 +3,8 @@ aliases:
   - Dian Fossey
   - Dian_Fossey
   - Fossey,Dian
+has_id_wikidata: Q234224
 ---
-
 # [[Fossey,Dian]]
 
 ## #has_/text_of_/abstract 

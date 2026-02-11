@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q243462
+---
+
 
 # [[Chi-squared_distribution]] 
 

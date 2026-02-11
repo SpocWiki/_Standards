@@ -2,8 +2,8 @@
 aliases:
   - Heterostraci
 title: Heterostraci
+has_id_wikidata: Q2309785
 ---
-
 # [[Heterostraci]]
 
 [Philippe Janvier](http://www.tolweb.org/) 

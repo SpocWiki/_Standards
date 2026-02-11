@@ -2,8 +2,8 @@
 aliases:
   - Homo
 title: Homo
+has_id_wikidata: Q171283
 ---
-
 # [[Homo]] 
 
 #is_/instance_of :: [[../../../../../../../../../../../../../../../../bio~Domain/Eukarya/Animal/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus|bio~Genus]] 

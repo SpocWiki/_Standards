@@ -18,6 +18,7 @@ dv_is_same_as:
   - "[[/_private/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.private|Atmospheric_Pressure.private]]"
   - "[[/_personal/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.personal|Atmospheric_Pressure.personal]]"
   - "[[/_secret/Earth/Climate/Atmosphere,Earth/Atmospheric_Pressure.secret|Atmospheric_Pressure.secret]]"
+has_id_wikidata: Q81809
 ---
 ---
 aliases:

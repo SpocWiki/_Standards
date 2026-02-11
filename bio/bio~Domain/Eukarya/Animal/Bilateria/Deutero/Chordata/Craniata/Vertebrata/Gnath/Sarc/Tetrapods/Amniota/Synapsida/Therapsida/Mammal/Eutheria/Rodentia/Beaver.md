@@ -4,8 +4,8 @@ aliases:
   - Castorinae
   - Castor
   - Beaver
+has_id_wikidata: Q47542
 ---
-
 # [[Beaver]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../WikiData/WD~Beaver,47542|WD~Beaver,47542]] 

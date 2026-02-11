@@ -4,8 +4,8 @@ aliases:
   - Gnetales
   - Gnetidae
 title: Gnetales
+has_id_wikidata: Q309147
 ---
-
 # Gnetales 
 
 ![welwitschia](Gnetales/welwitschia.gif)  ![Gnetum](Gnetales/gnetum.gif) ![Ephedra,Gnetales](Gnetales/Ephedra,Gnetales.gif)  ![](Gnetales/Ephedra/ephedra.gif)   

@@ -2,8 +2,8 @@
 aliases:
   - Karlheinz Stockhausen
   - Stockhausen,Karlheinz
+has_id_wikidata: Q154556
 ---
-
 # [[Stockhausen,Karlheinz]] 
 
 

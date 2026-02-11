@@ -3,8 +3,8 @@ aliases:
   - Scyphostegia_borneensis
   - Scyphostegia borneensis
 title: Scyphostegia borneensis
+has_id_wikidata: Q9075293
 ---
-
 # [[Scyphostegia borneensis]]  
 
 ![Scyphostegia borneensis](Scyphostegia_borneensis/Scyphostegia_borneensis.jpg) 

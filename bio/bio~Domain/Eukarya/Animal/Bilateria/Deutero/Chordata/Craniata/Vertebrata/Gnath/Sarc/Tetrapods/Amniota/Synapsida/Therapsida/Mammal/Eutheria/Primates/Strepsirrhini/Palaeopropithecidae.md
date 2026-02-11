@@ -2,8 +2,8 @@
 aliases:
   - Palaeopropithecidae
 title: Palaeopropithecidae
+has_id_wikidata: Q15982606
 ---
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

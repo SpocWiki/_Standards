@@ -2,8 +2,8 @@
 aliases:
   - Vaejovidae
 title: Vaejovidae
+has_id_wikidata: Q136927
 ---
-
 # [[Vaejovidae]] 
 
 ![Pseudouroctonus apacheanus](Vaejovidae/vaejovidae.jpg) 

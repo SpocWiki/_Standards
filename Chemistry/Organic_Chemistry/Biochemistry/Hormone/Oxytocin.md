@@ -16,8 +16,8 @@ dv_is_same_as:
   - "[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Oxytocin.private|Oxytocin.private]]"
   - "[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Oxytocin.personal|Oxytocin.personal]]"
   - "[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Oxytocin.secret|Oxytocin.secret]]"
+has_id_wikidata: Q169960
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Oxytocin** is a peptide hormone and neuropeptide 

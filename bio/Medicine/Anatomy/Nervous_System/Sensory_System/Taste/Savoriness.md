@@ -3,8 +3,8 @@ aliases:
   - Umami
   - herzhaft
   - Savoriness
+has_id_wikidata: Q202637
 ---
-
 ## #has_/text_of_/abstract 
 
 > Umami ( from Japanese: うま味 Japanese pronunciation: [ɯmami]), or **Savoriness**, 

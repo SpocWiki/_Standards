@@ -3,8 +3,8 @@ aliases:
   - Papilionoideae
   - Papilionaceae
   - Faboideae
+has_id_wikidata: Q316856
 ---
-
 # [[Faboideae]] 
 
 #is_/same_as :: 

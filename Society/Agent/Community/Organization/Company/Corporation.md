@@ -31,8 +31,8 @@ dv_is_same_as:
   - "[Corporation.private](/_private/Society/Organization/Corporation.private)"
   - "[Corporation.personal](/_personal/Society/Organization/Corporation.personal)"
   - "[Corporation.secret](/_secret/Society/Organization/Corporation.secret)"
+has_id_wikidata: Q167037
 ---
-
 # [[Corporation]] 
 
 #has_/parent_class :: [[../../Organization]]  

@@ -5,8 +5,8 @@ aliases:
   - PPP
   - PPP(Purchasing_Power_Parity)
   - PPP(Purchasing Power Parity)
+has_id_wikidata: Q82135
 ---
-
 # [[PPP(Purchasing_Power_Parity)]] 
 
 #is_/same_as :: 

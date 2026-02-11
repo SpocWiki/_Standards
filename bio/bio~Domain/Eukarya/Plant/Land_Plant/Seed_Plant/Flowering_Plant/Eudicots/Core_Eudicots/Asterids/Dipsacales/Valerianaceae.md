@@ -2,8 +2,8 @@
 aliases:
   - Valerianaceae
 title: Valerianaceae
+has_id_wikidata: Q156682
 ---
-
 # [[Valerianaceae]] 
 
 ![triloba](Valerianaceae/Patrinia_triloba.gif) 

@@ -3,8 +3,8 @@ aliases:
   - Reality Labs
   - Oculus_VR
   - Oculus VR
+has_id_wikidata: Q16321326
 ---
-
 #has_/time_/started :: 2012-06 
 #is_/part_of ::[[../Meta_Platforms]]] 
 

@@ -2,8 +2,8 @@
 aliases:
   - Julida
 title: Julida
+has_id_wikidata: Q2663101
 ---
-
 # [[Julida]]  
 
 ![Schizophyllum_sabulosum](Julida/Schizophyllum_sabulosum.jpg) 

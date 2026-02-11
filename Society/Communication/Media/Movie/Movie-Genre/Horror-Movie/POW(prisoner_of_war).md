@@ -3,8 +3,8 @@ aliases:
   - prisoner of war
   - POW(prisoner_of_war)
   - POW(prisoner of war)
+has_id_wikidata: Q179637
 ---
-
 > A prisoner of war (**POW**) is a person who is held captive by a belligerent power 
 > during or immediately after an armed conflict. 
 > The earliest recorded usage of the phrase "prisoner of war" dates back to 1610.

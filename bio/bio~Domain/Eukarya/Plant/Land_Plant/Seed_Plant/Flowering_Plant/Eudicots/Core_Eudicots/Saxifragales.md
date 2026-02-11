@@ -2,8 +2,8 @@
 aliases:
   - Saxifragales
 title: Saxifragales
+has_id_wikidata: Q21855
 ---
-
 # [[Saxifragales]]  
 
 ![Fothergilla major](Saxifragales/Fothergilla_major.jpg)  ![Sempervivum_montanum](Saxifragales/Sempervivum_montanum.jpg)  ![Saxifraga_cochlearis](Saxifragales/Saxifraga_cochlearis.jpg) 

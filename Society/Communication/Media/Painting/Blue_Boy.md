@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q604761
+---
+
 
 # [[Blue_Boy]] 
 

@@ -4,8 +4,8 @@ aliases:
   - Geoffrey Everest Hinton
   - Hinton
   - Hinton,Geoffrey
+has_id_wikidata: Q92894
 ---
-
 ## #has_/text_of_/abstract 
 
 > Geoffrey Everest Hinton  (born 6 December 1947) 

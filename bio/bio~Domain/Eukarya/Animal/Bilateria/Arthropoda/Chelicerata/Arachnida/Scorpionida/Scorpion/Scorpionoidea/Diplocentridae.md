@@ -2,8 +2,8 @@
 aliases:
   - Diplocentridae
 title: Diplocentridae
+has_id_wikidata: Q9207682
 ---
-
 # [[Diplocentridae]] 
 
 ![Diplocentrus whitei](Diplocentridae/diplocentridae.jpg) 

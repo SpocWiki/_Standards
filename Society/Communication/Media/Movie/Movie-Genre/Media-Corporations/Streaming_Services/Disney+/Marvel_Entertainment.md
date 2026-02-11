@@ -3,8 +3,8 @@ aliases:
   - Marvel Entertainment
   - Marvel Enterprises
   - Marvel_Entertainment
+has_id_wikidata: Q1200552
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Marvel** Entertainment, LLC (formerly Marvel Entertainment, Inc. and Marvel Enterprises, Inc.) 

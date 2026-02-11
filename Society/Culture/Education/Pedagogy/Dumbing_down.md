@@ -2,8 +2,8 @@
 aliases:
   - Dumbing down
   - Artificial Stupidity
+has_id_wikidata: Q5313720
 ---
-
 # [[Dumbing_down]] 
 
 #is_/same_as :: 

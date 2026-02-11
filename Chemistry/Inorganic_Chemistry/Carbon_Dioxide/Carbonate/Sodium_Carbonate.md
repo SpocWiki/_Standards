@@ -18,8 +18,8 @@ dv_is_same_as:
   - "[[/_private/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.private|Sodium_Carbonate.private]]"
   - "[[/_personal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.personal|Sodium_Carbonate.personal]]"
   - "[[/_secret/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate/Sodium_Carbonate.secret|Sodium_Carbonate.secret]]"
+has_id_wikidata: Q190227
 ---
-
 # [[Sodium_Carbonate]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Sodium_carbonate,190227|WD~Sodium_carbonate,190227]]  

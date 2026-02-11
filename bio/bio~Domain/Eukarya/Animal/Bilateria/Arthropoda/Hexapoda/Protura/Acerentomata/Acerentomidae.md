@@ -2,8 +2,8 @@
 aliases:
   - Acerentomidae
 title: Acerentomidae
+has_id_wikidata: Q2822958
 ---
-
 # [[Acerentomidae]] 
 
 ## #has_/text_of_/abstract 

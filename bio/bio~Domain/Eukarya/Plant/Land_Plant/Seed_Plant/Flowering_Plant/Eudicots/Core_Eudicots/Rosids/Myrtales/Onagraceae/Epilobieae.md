@@ -6,8 +6,8 @@ aliases:
   - spike-primrose
   - fireweed
 title: Epilobieae
+has_id_wikidata: Q157637
 ---
-
 # [[Epilobieae]] 
 
 

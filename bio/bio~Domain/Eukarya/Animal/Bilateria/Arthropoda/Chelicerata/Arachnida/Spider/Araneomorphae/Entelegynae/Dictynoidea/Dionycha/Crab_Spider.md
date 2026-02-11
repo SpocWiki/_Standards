@@ -8,8 +8,8 @@ aliases:
   - Crab_Spider
   - Crab Spider
 title: Thomisidae
+has_id_wikidata: Q12023
 ---
-
 # [[Crab_Spider]] 
 
 ![ ](Crab_Spider/Xisticus_bifasciatus_2-8001.jpg)

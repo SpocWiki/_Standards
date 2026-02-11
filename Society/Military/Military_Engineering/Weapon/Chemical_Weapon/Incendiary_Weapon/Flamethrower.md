@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q45183
+---
+
 
 # [[Flamethrower]] 
 

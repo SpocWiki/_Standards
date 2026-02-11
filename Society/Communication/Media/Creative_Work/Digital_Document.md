@@ -25,8 +25,8 @@ tags:
   - schema-org/Class
 title: is_a_digital_document Class
 type: Type
+has_id_wikidata: Q694975
 ---
-
 Class of all digital_documents.
 
 Tag Instances like this: 

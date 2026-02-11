@@ -18,8 +18,8 @@ dv_is_same_as:
   - "[[/_private/Astronomy/Star/Star~Class/Pulsar.private|Pulsar.private]]"
   - "[[/_personal/Astronomy/Star/Star~Class/Pulsar.personal|Pulsar.personal]]"
   - "[[/_secret/Astronomy/Star/Star~Class/Pulsar.secret|Pulsar.secret]]"
+has_id_wikidata: Q4360
 ---
-
 # [[Pulsar]] 
 
 #is_/same_as :: [[WD~Pulsar,4360]] 

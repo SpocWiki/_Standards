@@ -2,8 +2,8 @@
 aliases:
   - Baphetidae
 title: Baphetidae
+has_id_wikidata: Q135569
 ---
-
 # [[Baphetidae]] 
 
 Loxommatidae 

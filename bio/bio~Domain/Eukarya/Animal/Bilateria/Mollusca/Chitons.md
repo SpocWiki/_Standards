@@ -4,8 +4,8 @@ aliases:
   - Chiton
   - Chitons
 title: Polyplacophora
+has_id_wikidata: Q188906
 ---
-
 ## Phylogeny 
 -   « Ancestral Groups  
     -  [Mollusca](../Mollusca.md) 

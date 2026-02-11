@@ -4,8 +4,8 @@ aliases:
   - Sea flea
   - Sea fleas
 title: Leptostraca
+has_id_wikidata: Q578752
 ---
-
 ## [[Phyllocarida]] 
 
 Leptostraca or Sea fleas 

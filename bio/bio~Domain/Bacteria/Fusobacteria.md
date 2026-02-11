@@ -4,8 +4,8 @@ aliases:
   - Fusobacteria
   - Fusobacteriati
 title: Fusobacteria
+has_id_wikidata: Q21441825
 ---
-
 # [[Fusobacteria]] 
 
 #is_a/bio-Kingdom 

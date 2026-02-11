@@ -2,8 +2,8 @@
 aliases:
   - Sapindales
 title: Sapindales
+has_id_wikidata: Q26316
 ---
-
 # [[Sapindales]] 
 
 ![](Sapindales/Aesculus_californica67.jpg)

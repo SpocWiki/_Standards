@@ -3,8 +3,8 @@ aliases:
   - traitorous eight
   - Fairchild_Semiconductor
   - Fairchild Semiconductor
+has_id_wikidata: Q1096013
 ---
-
 # [[Fairchild_Semiconductor]] 
 
 

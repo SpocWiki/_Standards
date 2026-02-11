@@ -24,8 +24,8 @@ tags:
   - schema-org/Class
 title: is_a_urologic Class
 type: Type
+has_id_wikidata: Q105650
 ---
-
 # [[Urology]] 
 
 Tag Instances like this: 

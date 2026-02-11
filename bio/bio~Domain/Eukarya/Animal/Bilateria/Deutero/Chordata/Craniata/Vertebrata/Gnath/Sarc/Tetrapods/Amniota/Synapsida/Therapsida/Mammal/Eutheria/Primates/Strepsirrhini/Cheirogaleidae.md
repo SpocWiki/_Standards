@@ -2,8 +2,8 @@
 aliases:
   - Cheirogaleidae
 title: Cheirogaleidae
+has_id_wikidata: Q271785
 ---
-
 # [[Cheirogaleidae]]
 
 ## Dwarf Lemurs and Mouse Lemurs 

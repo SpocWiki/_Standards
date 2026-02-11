@@ -2,8 +2,8 @@
 aliases:
   - John Landis
   - Landis,John
+has_id_wikidata: Q51564
 ---
-
 # [[Landis,John]] 
 
 #has_/time_/started :: 1950-08-03 

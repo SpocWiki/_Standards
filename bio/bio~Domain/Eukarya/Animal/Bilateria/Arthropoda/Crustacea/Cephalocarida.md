@@ -3,8 +3,8 @@ aliases:
   - horseshoe shrimp
   - Cephalocarida
 title: Cephalocarida
+has_id_wikidata: Q132649
 ---
-
 # [[Cephalocarida]] 
 ![](Cephalocarida/HutchinsoniellaBIODIDAC.gif) 
 

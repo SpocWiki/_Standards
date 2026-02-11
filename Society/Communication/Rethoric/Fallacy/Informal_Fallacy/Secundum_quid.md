@@ -2,8 +2,8 @@
 aliases:
   - secundum quid et simpliciter
   - secundum quid
+has_id_wikidata: Q4660909
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Secundum quid** (also called secundum quid et simpliciter, 

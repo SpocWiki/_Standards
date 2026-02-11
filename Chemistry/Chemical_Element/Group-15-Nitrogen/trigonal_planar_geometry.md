@@ -19,8 +19,8 @@ dv_is_same_as:
   - "[[/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.private|trigonal_planar_geometry.private]]"
   - "[[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.personal|trigonal_planar_geometry.personal]]"
   - "[[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.secret|trigonal_planar_geometry.secret]]"
+has_id_wikidata: Q2029481
 ---
-
 [[../../Organic_Chemistry/Functional_Group/Aldehyde/Formaldehyde]]: 
 H
   C=O

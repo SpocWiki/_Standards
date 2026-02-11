@@ -3,8 +3,8 @@ aliases:
   - Keanu Reeves
   - Keanu Charles Reeves
   - Reeves,Keanu
+has_id_wikidata: Q43416
 ---
-
 #has_/time_/started :: 1964-09-02 
 
 

@@ -2,8 +2,8 @@
 aliases:
   - Michel Gondry
   - Gondry,Michel
+has_id_wikidata: Q126098
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Michel Gondry** (French: [miʃɛl ɡɔ̃dʁi]; born 8 May 1963) is a French filmmaker 

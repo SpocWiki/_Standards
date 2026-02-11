@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q688424
+---
+
 
 #has_/taste :: [[Sensory_System/Taste/Savoriness]] 
 ## #has_/text_of_/abstract 

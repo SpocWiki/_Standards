@@ -2,8 +2,8 @@
 aliases:
   - Mistletoe
   - Mistel
+has_id_wikidata: Q2885646
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Mistletoe** is the common name for obligate hemiparasitic plants in the order Santalales. 

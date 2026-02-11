@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q1666934
+---
+
 
 # [[ISIC(International_Standard_Industrial_Classification)]] 
 

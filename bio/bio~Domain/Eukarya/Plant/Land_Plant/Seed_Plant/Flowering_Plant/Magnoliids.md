@@ -2,8 +2,8 @@
 aliases:
   - Magnoliids
 title: magnoliids
+has_id_wikidata: Q846071
 ---
-
 # [[Magnoliids]] 
 
 

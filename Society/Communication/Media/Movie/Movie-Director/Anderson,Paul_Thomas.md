@@ -3,8 +3,8 @@ aliases:
   - Paul Thomas Anderson
   - Anderson,Paul_Thomas
   - Anderson,Paul Thomas
+has_id_wikidata: Q25132
 ---
-
 # [[Anderson,Paul_Thomas]] 
 
 #is_/same_as :: [[Anderson,Paul_Thomas]]

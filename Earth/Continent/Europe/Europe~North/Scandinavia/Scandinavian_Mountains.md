@@ -18,8 +18,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Mountains.private|Scandinavian_Mountains.private]]"
   - "[[/_personal/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Mountains.personal|Scandinavian_Mountains.personal]]"
   - "[[/_secret/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Mountains.secret|Scandinavian_Mountains.secret]]"
+has_id_wikidata: Q186547
 ---
-
 # [[Scandinavian_Mountains]] 
 
 #is_/same_as :: [[WD~Scandinavian_Mountains,186547]] 

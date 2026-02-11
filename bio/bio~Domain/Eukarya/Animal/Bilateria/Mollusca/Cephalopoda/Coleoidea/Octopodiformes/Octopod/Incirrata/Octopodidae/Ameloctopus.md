@@ -2,8 +2,8 @@
 aliases:
   - Ameloctopus
 title: Ameloctopus litoralis
+has_id_wikidata: Q4742344
 ---
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

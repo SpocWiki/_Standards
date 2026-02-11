@@ -5,8 +5,8 @@ aliases:
   - non-magnoliid dicot
   - Eudicots
 title: eudicots
+has_id_wikidata: Q165468
 ---
-
 # [[Eudicots]]
 
 ![Banksia serrata](Eudicots/Banksia_serrata.jpg)  ![Dendromecon rigida, Tree Poppy](Eudicots/Dendromecon_rigida.jpg)  ![Arbutus_andrachne](Eudicots/Arbutus_andrachne.jpg) 

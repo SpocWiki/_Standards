@@ -5,8 +5,8 @@ aliases:
   - Bradley Edward Delp
   - Bradley Delp
   - Delp
+has_id_wikidata: Q721474
 ---
-
 # [[Delp,Brad]] 
 
 #has_/time_/started :: 1951-06-12

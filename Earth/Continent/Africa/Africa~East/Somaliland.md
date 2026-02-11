@@ -41,8 +41,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Continent/Africa/Africa~East/Somaliland.private|Somaliland.private]]"
   - "[[/_personal/Earth/Continent/Africa/Africa~East/Somaliland.personal|Somaliland.personal]]"
   - "[[/_secret/Earth/Continent/Africa/Africa~East/Somaliland.secret|Somaliland.secret]]"
+has_id_wikidata: Q34754
 ---
-
 # Somaliland
 
 ```leaflet

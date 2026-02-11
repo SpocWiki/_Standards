@@ -2,8 +2,8 @@
 aliases:
   - James Lind
   - Lind,James
+has_id_wikidata: Q709525
 ---
-
 #has_/time_/started ::  1716-10-04 
 #has_/time_/started ::  1794-07-13 
 

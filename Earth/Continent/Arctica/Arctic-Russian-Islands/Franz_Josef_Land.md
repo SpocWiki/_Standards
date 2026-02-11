@@ -18,8 +18,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.private|Franz_Josef_Land.private]]"
   - "[[/_personal/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.personal|Franz_Josef_Land.personal]]"
   - "[[/_secret/Earth/Continent/Arctica/Arctic-Russian-Islands/Franz_Josef_Land.secret|Franz_Josef_Land.secret]]"
+has_id_wikidata: Q185018
 ---
-
 # [[Franz_Josef_Land]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Franz_Josef_Land,185018|WD~Franz_Josef_Land,185018]]  

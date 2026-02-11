@@ -29,8 +29,8 @@ tags:
   - excalidraw
 title: Semmelweis,Ignaz
 type: private_note
+has_id_wikidata: Q59736
 ---
-
 # [[Semmelweis,Ignaz]] 
 
 #has_/time_/started ::  1818-07-01

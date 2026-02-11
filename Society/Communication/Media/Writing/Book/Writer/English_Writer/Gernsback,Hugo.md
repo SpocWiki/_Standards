@@ -3,8 +3,8 @@ aliases:
   - Hugo Gernsback
   - Hugo Gernsbacher
   - Gernsback,Hugo
+has_id_wikidata: Q312242
 ---
-
 #has_/time_/started ::  1884-08-16 
 #has_/time_/stopped ::  1967-08-19 
 #has_/place_/stopped :: [[New_York,City]]

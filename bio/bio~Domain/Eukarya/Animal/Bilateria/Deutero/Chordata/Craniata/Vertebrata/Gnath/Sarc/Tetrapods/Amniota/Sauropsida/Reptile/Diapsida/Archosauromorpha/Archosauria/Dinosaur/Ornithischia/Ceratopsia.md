@@ -2,8 +2,8 @@
 aliases:
   - Ceratopia
   - Ceratopsia
+has_id_wikidata: Q131381
 ---
-
 # [[Ceratopsia]] 
 
 #is_/same_as :: [[Ceratopsia]]

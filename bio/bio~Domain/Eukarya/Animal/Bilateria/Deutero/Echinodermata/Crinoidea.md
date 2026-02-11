@@ -2,8 +2,8 @@
 aliases:
   - Crinoidea
 title: Crinoidea
+has_id_wikidata: Q33666
 ---
-
 # [[Crinoidea]] 
 
 Sea lilies and feather stars 

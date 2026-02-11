@@ -2,8 +2,8 @@
 aliases:
   - Scorpionida
 title: Scorpionida
+has_id_wikidata: Q19125
 ---
-
 # [[Scorpionida]]
 
 Scorpions and their extinct relatives 

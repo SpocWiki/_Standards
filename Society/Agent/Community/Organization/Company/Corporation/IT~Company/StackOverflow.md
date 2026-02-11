@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q549037
+---
+
 # [[StackOverflow]] 
 
 #has_/creator :: [[../../../../../../../../Knowledge/Science/Scientist/Atwood,Jeff|Atwood,Jeff]], [[Spolski~Joel]] 

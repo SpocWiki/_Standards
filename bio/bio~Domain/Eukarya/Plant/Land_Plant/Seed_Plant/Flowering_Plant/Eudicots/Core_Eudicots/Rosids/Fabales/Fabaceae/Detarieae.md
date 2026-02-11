@@ -2,8 +2,8 @@
 aliases:
   - Detarieae
 title: Detarieae sensu lato
+has_id_wikidata: Q60412965
 ---
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

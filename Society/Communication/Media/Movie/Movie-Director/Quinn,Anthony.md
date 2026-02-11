@@ -3,8 +3,8 @@ aliases:
   - Anthony Quinn
   - Manuel Antonio Rodolfo Quinn Oaxaca
   - Quinn,Anthony
+has_id_wikidata: Q83484
 ---
-
 #has_/time_/started :: 1915-04-21 
 #has_/time_/stopped ::  2001-06-03 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

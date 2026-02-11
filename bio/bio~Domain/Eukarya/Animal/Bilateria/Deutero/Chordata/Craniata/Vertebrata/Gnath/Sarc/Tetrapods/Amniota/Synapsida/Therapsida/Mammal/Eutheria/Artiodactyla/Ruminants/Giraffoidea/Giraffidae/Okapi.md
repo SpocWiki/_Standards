@@ -4,8 +4,8 @@ aliases:
   - Okapi
   - Okapis
 title: Okapia johnstoni
+has_id_wikidata: Q82037
 ---
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

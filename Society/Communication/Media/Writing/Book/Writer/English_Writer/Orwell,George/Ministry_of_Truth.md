@@ -5,8 +5,8 @@ aliases:
   - Ministry of Love
   - Ministry of Plenty
   - Ministry_of_Truth
+has_id_wikidata: Q20736226
 ---
-
 ## #has_/text_of_/abstract 
 
 > The **Ministry of Truth**, the Ministry of Peace, the Ministry of Love, and the Ministry of Plenty 

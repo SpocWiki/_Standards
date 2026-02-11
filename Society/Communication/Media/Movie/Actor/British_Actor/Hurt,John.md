@@ -4,8 +4,8 @@ aliases:
   - Sir John Vincent Hurt
   - John Vincent Hurt
   - Hurt,John
+has_id_wikidata: Q200405
 ---
-
 # [[Hurt,John]] 
 
 #has_/time_/started :: 1940-01-22 

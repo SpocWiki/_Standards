@@ -2,8 +2,8 @@
 aliases:
   - Nautiloidea
 title: Nautilidae
+has_id_wikidata: Q840536
 ---
-
 ## [[Nautiloidea]] 
 
 # Nautilidae [Blainville 1825]

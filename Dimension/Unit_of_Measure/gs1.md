@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q731100
+---
+
 # gs1 Overview
 
 GS1 is a global Trade Organization formed by Country-Chapters 

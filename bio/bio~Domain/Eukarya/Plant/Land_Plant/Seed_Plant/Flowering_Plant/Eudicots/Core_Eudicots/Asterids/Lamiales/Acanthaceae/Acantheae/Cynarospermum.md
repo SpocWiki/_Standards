@@ -2,8 +2,8 @@
 aliases:
   - Cynarospermum
 title: Cynarospermum asperrimum
+has_id_wikidata: Q8352867
 ---
-
 ## [[Cynarospermum]] 
 
 ![Cynarospermum](Cynarospermum/Cynaro.jpg)

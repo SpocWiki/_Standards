@@ -31,8 +31,8 @@ tags:
   - Pelophylax: ''
   - excalidraw
 type: private_note
+has_id_wikidata: Q1187092
 ---
-
 # Rana (Pelophylax)
 
 #has_/creator :: Fitzinger 1883

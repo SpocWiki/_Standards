@@ -2,8 +2,8 @@
 aliases:
   - Fuji TV
   - Fuji_TV
+has_id_wikidata: Q744800
 ---
-
 > Fuji Television Network, Inc., also known as Fuji Television or **Fuji TV**, with the call sign JOCX-DTV, 
 > is a Japanese television station based in Odaiba, Minato, Tokyo, Japan. 
 > It is the key station of the Fuji News Network (FNN) and the Fuji Network System (FNS). 

@@ -2,8 +2,8 @@
 aliases:
   - Thermodesulfobacteria
 title: Thermodesulfobacteria
+has_id_wikidata: Q26869584
 ---
-
 # [[Thermodesulfobacteria]] 
 
 

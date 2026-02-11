@@ -21,8 +21,8 @@ dv_is_same_as:
   - "[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.private|Electrolysis_of_water.private]]"
   - "[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.personal|Electrolysis_of_water.personal]]"
   - "[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Electrolysis_of_water.secret|Electrolysis_of_water.secret]]"
+has_id_wikidata: Q2697332
 ---
-
 ## Challenges 
 
 ### Corrosion 

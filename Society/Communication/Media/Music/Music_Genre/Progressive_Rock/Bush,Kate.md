@@ -2,8 +2,8 @@
 aliases:
   - Kate Bush
   - Bush,Kate
+has_id_wikidata: Q636
 ---
-
 > Catherine Bush  (born 30 July 1958) is an English singer, songwriter, record producer and dancer. 
 > Bush began writing songs at age 11. 
 > She was signed to EMI Records after the Pink Floyd guitarist, David Gilmour, helped produce a demo tape. 

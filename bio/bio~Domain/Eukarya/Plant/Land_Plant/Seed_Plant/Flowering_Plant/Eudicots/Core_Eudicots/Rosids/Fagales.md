@@ -2,8 +2,8 @@
 aliases:
   - Fagales
 title: Fagales
+has_id_wikidata: Q21881
 ---
-
 # [[Fagales]] 
 
 ![Red Alder, Alnus rubra](Fagales/Alnus_rubra.jpg)  ![Quercus_douglasii](Fagales/Quercus_Douglasii.jpg)  ![Juglans_regia](Fagales/Juglans_regia.jpg) 

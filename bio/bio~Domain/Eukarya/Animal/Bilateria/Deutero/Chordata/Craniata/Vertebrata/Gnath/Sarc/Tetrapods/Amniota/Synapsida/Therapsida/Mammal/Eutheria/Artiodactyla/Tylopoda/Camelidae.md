@@ -2,8 +2,8 @@
 aliases:
   - Camelidae
 title: Camelidae
+has_id_wikidata: Q135022
 ---
-
 # [[Camelidae]] 
 
 ![ ](Camelidae/Camel/Camelus_bactrianus.jpg)

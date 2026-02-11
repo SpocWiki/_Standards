@@ -2,8 +2,8 @@
 aliases:
   - Squamata
 title: Squamata
+has_id_wikidata: Q122422
 ---
-
 # [[Squamata]]
 
 Lizards and snakes 

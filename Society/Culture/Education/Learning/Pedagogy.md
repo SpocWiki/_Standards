@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q7922
+---
+
 
 > **Pedagogy**, most commonly understood as the approach to teaching, 
 > is the theory and practice of learning, and how this process influences, 

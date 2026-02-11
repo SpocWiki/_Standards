@@ -2,8 +2,8 @@
 aliases:
   - Politician
   - Leader
+has_id_wikidata: Q484275
 ---
-
 # [[Leader]] 
 
 

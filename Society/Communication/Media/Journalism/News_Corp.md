@@ -2,8 +2,8 @@
 aliases:
   - News Corp
   - News_Corp
+has_id_wikidata: Q14289857
 ---
-
 # [[News_Corp]] 
 
 #is_/same_as :: 

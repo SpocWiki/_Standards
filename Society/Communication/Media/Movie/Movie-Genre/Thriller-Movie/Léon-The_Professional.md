@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q484675
+---
+
 
 > **Léon: The Professional** is a 1994 English-language French action-thriller film 
 > written and directed by [[Luc_Besson]]. It stars [[Jean_Reno]] and [[Gary_Oldman]], 

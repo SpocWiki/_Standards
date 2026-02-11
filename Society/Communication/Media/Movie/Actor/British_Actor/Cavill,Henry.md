@@ -3,8 +3,8 @@ aliases:
   - Henry William Dalgliesh Cavill
   - Henry Cavill
   - Cavill,Henry
+has_id_wikidata: Q295498
 ---
-
 # [[Cavill,Henry]] 
 
 

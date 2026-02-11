@@ -3,8 +3,8 @@ aliases:
   - American_Bell_Telephone_Company
   - Bell_Telephone_Company
   - Bell Telephone Company
+has_id_wikidata: Q4883269
 ---
-
 # [[Bell_Telephone_Company]] 
 
 #has_/time_/started :: 1874-06-01

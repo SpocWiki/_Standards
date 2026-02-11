@@ -3,8 +3,8 @@ aliases:
   - Allophryne_ruthveni
   - Allophryne ruthveni
 title: Allophryne ruthveni
+has_id_wikidata: Q656324
 ---
-
 # Allophryne ruthveni 
 
 ## #has_/text_of_/abstract 

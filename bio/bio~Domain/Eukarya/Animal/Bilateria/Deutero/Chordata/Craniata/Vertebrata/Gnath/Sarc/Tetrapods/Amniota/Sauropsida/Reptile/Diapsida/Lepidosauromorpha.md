@@ -2,8 +2,8 @@
 aliases:
   - Lepidosauromorpha
 title: Lepidosauromorpha
+has_id_wikidata: Q134665
 ---
-
 # [[Lepidosauromorpha]]
 
 Lizards, snakes, Sphenodon, and their extinct relatives 

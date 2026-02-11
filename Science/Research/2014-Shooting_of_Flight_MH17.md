@@ -30,8 +30,8 @@ tags:
 title:
   "{ newTitle: }":
 type: private_note
+has_id_wikidata: Q17374096
 ---
-
 # [[2014-Shooting_of_Flight_MH17]] 
 
 #is_/part_of :: [[OSInt]] 

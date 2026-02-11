@@ -2,8 +2,8 @@
 aliases:
   - Euconodonta
 title: Euconodonta
+has_id_wikidata: Q586245
 ---
-
 # [[Euconodonta]]
 
 

@@ -3,8 +3,8 @@ aliases:
   - Subtraktion
   - Subtraction
 has_id_wikidata: 40754
+has_id_wikidata: Q40754
 ---
-
 # [[Subtraction]] 
 
 #is_/same_as :: [[../../WikiData/WD~Subtraction,40754|WD~Subtraction,40754]]  

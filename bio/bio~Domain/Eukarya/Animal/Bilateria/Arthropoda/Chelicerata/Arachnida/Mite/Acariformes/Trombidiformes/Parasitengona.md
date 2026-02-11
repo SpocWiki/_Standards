@@ -2,8 +2,8 @@
 aliases:
   - Parasitengona
 title: Parasitengona
+has_id_wikidata: Q7135940
 ---
-
 # [[Parasitengona]]
 
 Velvet mites, chiggers, water mites 

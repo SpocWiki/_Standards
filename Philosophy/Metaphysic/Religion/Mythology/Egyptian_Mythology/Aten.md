@@ -4,8 +4,8 @@ aliases:
   - Aton
   - Atonu
   - Itn
+has_id_wikidata: Q130227
 ---
-
 # [[Aten]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Aten,130227|WD~Aten,130227]] 

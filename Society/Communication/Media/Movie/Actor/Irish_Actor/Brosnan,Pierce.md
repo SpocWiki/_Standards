@@ -3,8 +3,8 @@ aliases:
   - Pierce Brendan Brosnan
   - Pierce Brosnan
   - Brosnan,Pierce
+has_id_wikidata: Q81520
 ---
-
 ## #has_/text_of_/abstract 
 
 > Pierce Brendan Brosnan (born 16 May 1953) is an Irish actor and film producer. 

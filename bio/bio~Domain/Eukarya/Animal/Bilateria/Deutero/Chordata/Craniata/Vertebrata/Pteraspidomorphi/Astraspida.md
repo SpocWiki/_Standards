@@ -2,8 +2,8 @@
 aliases:
   - Astraspida
 title: Astraspida
+has_id_wikidata: Q14524396
 ---
-
 # [[Astraspida]]
 
 [Philippe Janvier](http://www.tolweb.org/)

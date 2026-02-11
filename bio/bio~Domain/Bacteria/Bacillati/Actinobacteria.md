@@ -3,8 +3,8 @@ aliases:
   - Actinomycetota
   - Actinobacteria
 title: Actinobacteria
+has_id_wikidata: Q62573436
 ---
-
 # [[Actinobacteria]] 
 
 

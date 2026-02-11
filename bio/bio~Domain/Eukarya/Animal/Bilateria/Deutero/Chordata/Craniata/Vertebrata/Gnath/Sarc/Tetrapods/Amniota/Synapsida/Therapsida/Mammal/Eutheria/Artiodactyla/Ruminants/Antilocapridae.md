@@ -2,8 +2,8 @@
 aliases:
   - Antilocapridae
 title: Antilocapridae
+has_id_wikidata: Q3581369
 ---
-
 # [[Antilocapridae]] 
 ![](Antilocapridae/Merycodus_necatus_skull.jpg) 
 

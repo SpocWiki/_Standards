@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q852174
+---
+
 # [[MOS_Technology]] 
 
 > MOS Technology, Inc. ("MOS" being short for Metal Oxide Semiconductor), 

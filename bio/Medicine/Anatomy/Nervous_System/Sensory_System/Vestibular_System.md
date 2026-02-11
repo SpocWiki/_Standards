@@ -2,8 +2,8 @@
 aliases:
   - Vestibular System
   - Vestibular_System
+has_id_wikidata: Q596832
 ---
-
 ## #has_/text_of_/abstract 
 
 > The vestibular system, in vertebrates, is a sensory system that creates the sense of balance and spatial orientation for the purpose of coordinating movement with balance. Together with the cochlea, a part of the auditory system, it constitutes the labyrinth of the inner ear in most mammals.

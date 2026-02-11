@@ -3,8 +3,8 @@ aliases:
   - John Cena
   - John Felix Anthony Cena
   - Cena,John
+has_id_wikidata: Q44437
 ---
-
 ## #has_/text_of_/abstract 
 
 > John Felix Anthony Cena ( SEE-nə; born April 23, 1977) is an American actor and professional wrestler. 

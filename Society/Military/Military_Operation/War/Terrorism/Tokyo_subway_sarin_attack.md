@@ -2,8 +2,8 @@
 aliases:
   - Tokyo subway sarin attack
   - Tokyo_subway_sarin_attack
+has_id_wikidata: Q1146739
 ---
-
 # [[Tokyo_subway_sarin_attack]]
 
 #has_/time_/started :: 1995-03-20 

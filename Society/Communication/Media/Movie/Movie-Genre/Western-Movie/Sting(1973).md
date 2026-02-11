@@ -2,8 +2,8 @@
 aliases:
   - Der Clou
   - Sting(1973)
+has_id_wikidata: Q62665
 ---
-
 ## #has_/text_of_/abstract 
 
 > **The Sting** is a 1973 American caper film. 

@@ -5,8 +5,8 @@ aliases:
   - Mark_Ruffalo
   - Ruffalo
   - Ruffalo,Mark
+has_id_wikidata: Q41422
 ---
-
 # [[Ruffalo,Mark]] 
 
 

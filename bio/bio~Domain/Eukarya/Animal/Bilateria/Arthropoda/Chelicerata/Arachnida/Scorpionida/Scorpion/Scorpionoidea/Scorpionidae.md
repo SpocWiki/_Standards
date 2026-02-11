@@ -2,8 +2,8 @@
 aliases:
   - Scorpionidae
 title: Scorpionidae
+has_id_wikidata: Q133410
 ---
-
 # Scorpionidae 
 
 ![Pandinus imperator](Scorpionidae/scorpionidae.jpg) 

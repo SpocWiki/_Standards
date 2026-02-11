@@ -2,8 +2,8 @@
 aliases:
   - Salamandrina
 title: Salamandrina
+has_id_wikidata: Q737746
 ---
-
 # [[Salamandrina]] 
 
 ## #has_/text_of_/abstract 

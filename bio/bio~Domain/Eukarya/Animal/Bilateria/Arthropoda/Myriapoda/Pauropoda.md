@@ -2,8 +2,8 @@
 aliases:
   - Pauropoda
 title: Pauropoda
+has_id_wikidata: Q217512
 ---
-
 # [[Pauropoda]] 
 
 pauropods 

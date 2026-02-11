@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q1266971
+---
+
 
 > In the dystopian novel Nineteen Eighty-Four, **thoughtcrime** 
 > is the offense of thinking in ways not approved by the ruling Ingsoc party. 

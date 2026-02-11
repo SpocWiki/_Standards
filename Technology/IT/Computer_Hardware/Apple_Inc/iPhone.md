@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q2766
+---
+
 
 #has_/time_/started :: 2007-01-09 
 have an iPhone11 from 2019 

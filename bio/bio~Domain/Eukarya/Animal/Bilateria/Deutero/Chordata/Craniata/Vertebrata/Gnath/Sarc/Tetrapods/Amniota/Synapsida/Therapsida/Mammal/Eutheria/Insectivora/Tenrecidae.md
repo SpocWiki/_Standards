@@ -2,8 +2,8 @@
 aliases:
   - Tenrecidae
 title: Tenrecidae
+has_id_wikidata: Q23340
 ---
-
 # [[Tenrecidae]]
 
 ## tenrecs, Madagascar \"hedgehogs\" 

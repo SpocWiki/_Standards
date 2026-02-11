@@ -5,8 +5,8 @@ aliases:
   - Buxaceae
   - Buxus
 title: Buxaceae
+has_id_wikidata: Q156680
 ---
-
 # [[Buxaceae]]  
 
 ![ ](Buxaceae/Buxussempervirens-2.jpg)

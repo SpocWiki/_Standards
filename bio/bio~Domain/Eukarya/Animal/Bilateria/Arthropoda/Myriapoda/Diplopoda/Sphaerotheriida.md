@@ -2,8 +2,8 @@
 aliases:
   - Sphaerotheriida
 title: Sphaerotheriida
+has_id_wikidata: Q2152438
 ---
-
 # [[Sphaerotheriida]] 
 
 

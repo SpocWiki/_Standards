@@ -3,8 +3,8 @@ aliases:
   - Amborella
   - Amborella trichopoda
 title: Amborella trichopoda
+has_id_wikidata: Q310470
 ---
-
 # [[Amborella]] 
 
 Amborella trichopoda is a small, evergreen, doecious shrub 

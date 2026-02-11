@@ -3,8 +3,8 @@ aliases:
   - Political science
   - Political_Science
   - Political Science
+has_id_wikidata: Q36442
 ---
-
 # [[Political_Science]] 
 
 #is_/similar_to :: [[../../Ideology/Political_Ideology/Political_Philosophy|Political_Philosophy]] 

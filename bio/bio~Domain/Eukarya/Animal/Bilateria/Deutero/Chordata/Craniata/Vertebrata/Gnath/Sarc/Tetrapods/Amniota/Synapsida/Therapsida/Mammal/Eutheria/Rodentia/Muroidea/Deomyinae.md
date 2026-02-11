@@ -2,8 +2,8 @@
 aliases:
   - Deomyinae
 title: Deomyinae
+has_id_wikidata: Q131896
 ---
-
 # [[Deomyinae]] 
 
 ## #has_/text_of_/abstract 

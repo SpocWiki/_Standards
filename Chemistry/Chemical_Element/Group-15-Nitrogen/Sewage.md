@@ -16,9 +16,8 @@ dv_is_same_as:
   - "[[/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.private|Sewage.private]]"
   - "[[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.personal|Sewage.personal]]"
   - "[[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.secret|Sewage.secret]]"
+has_id_wikidata: Q10966166
 ---
-
-
 ## #has_/text_of_/abstract 
 
 > **Sewage** (or domestic sewage, domestic wastewater, municipal wastewater) 

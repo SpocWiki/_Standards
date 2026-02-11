@@ -2,8 +2,8 @@
 aliases:
   - Atlanta
 title: Atlanta
+has_id_wikidata: Q23556
 ---
-
 # [[Atlanta]] 
 
 ![ ](Atlanta/AtlantaPeroni1.jpg)

@@ -4,8 +4,8 @@ aliases:
   - Galilean relativity
   - Galilean_Relativity
   - Galilean Relativity
+has_id_wikidata: Q2481895
 ---
-
 # [[Galilean_Relativity]] 
 
 #is_/same_as :: 

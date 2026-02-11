@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q410005
+---
+
 
 > **Raffinose** is a trisaccharide composed of galactose, glucose, and fructose. 
 > 

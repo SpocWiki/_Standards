@@ -2,8 +2,8 @@
 aliases:
   - Isopoda
 title: Isopoda
+has_id_wikidata: Q206338
 ---
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

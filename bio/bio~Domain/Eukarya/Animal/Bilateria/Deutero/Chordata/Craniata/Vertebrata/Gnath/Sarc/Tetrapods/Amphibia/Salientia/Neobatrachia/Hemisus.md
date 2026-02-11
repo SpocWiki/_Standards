@@ -2,8 +2,8 @@
 aliases:
   - Hemisus
 title: Hemisus
+has_id_wikidata: Q55472
 ---
-
 # [[Hemisus]]
 
 Shovel-Nosed Frogs 

@@ -2,8 +2,8 @@
 aliases:
   - Rachel Weisz
   - Weisz,Rachel
+has_id_wikidata: Q134077
 ---
-
 # [[Weisz,Rachel]] 
 
 #has_/time_/started :: 1970-03-07 

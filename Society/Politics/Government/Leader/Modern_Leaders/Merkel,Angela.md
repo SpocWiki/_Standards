@@ -5,8 +5,8 @@ aliases:
   - Angela Dorothea Merkel
   - Angela Dorothea Kasner
   - Merkel,Angela
+has_id_wikidata: Q567
 ---
-
 ## #has_/text_of_/abstract 
 
 > Angela Dorothea Merkel ([aŋˈɡeːla doʁoˈteːa ˈmɛʁkl̩] ; née Kasner; born 17 July 1954) 

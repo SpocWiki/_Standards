@@ -35,8 +35,8 @@ has_Template: '[[Extract~Note~Template]]'
 has_time_started:
   '{ "date:YYYY-MM-DD": null }': ''
 lang: en
+has_id_wikidata: Q3914
 ---
-
 # [[School]] 
 
 Class of all schools.

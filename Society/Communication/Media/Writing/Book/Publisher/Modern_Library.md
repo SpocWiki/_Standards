@@ -2,8 +2,8 @@
 aliases:
   - Modern Library
   - Modern_Library
+has_id_wikidata: Q3822096
 ---
-
 #is_a :: [[../../../../../Agent/Community/Organization/Company/Corporation|Corporation]] 
 
 

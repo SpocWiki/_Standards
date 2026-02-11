@@ -2,8 +2,8 @@
 aliases:
   - Barclay James Harvest
   - Barclay_James_Harvest
+has_id_wikidata: Q807957
 ---
-
 > **Barclay James Harvest** were an English progressive rock band, 
 > which following a split in 1998 now exists as two successor bands. 
 > They were founded in Oldham, in September 1966 by bassist/vocalist Les Holroyd (b. 1948), 

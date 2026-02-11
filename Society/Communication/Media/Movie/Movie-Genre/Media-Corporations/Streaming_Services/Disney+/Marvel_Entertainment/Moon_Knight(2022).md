@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q1037532
+---
+
 
 > Moon Knight is a character appearing in American [[../Marvel_Entertainment|Marvel_Entertainment]] Comics books. 
 > Created by writer Doug Moench and artist Don Perlin, 

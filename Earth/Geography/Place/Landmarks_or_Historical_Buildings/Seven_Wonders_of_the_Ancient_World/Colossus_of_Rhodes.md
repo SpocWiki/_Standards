@@ -18,8 +18,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Colossus_of_Rhodes.private|Colossus_of_Rhodes.private]]"
   - "[[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Colossus_of_Rhodes.personal|Colossus_of_Rhodes.personal]]"
   - "[[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Colossus_of_Rhodes.secret|Colossus_of_Rhodes.secret]]"
+has_id_wikidata: Q41553
 ---
-
 # [[Colossus_of_Rhodes]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Colossus_of_Rhodes,41553|WD~Colossus_of_Rhodes,41553]] 

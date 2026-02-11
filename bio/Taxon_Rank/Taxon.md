@@ -23,8 +23,8 @@ tags:
   - schema-org/Class
 title: is_a_taxon Class
 type: Type
+has_id_wikidata: Q16521
 ---
-
 # [[Taxon]] 
 
 Class of all taxons, i. e. Sets of organisms asserted to represent a natural cohesive biological unit.

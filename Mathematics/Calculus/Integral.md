@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q80091
+---
+
 
 #is_/same_as :: [[WikiData/WD~Integral,80091|WD~Integral,80091]] 
 

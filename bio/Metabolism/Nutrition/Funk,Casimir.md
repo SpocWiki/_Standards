@@ -3,8 +3,8 @@ aliases:
   - Casimir Funk
   - Kazimierz Funk
   - Funk,Casimir
+has_id_wikidata: Q28738
 ---
-
 #has_/time_/started ::  1884-02-23
 #has_/time_/started ::  1967-11-19 
 

@@ -2,8 +2,8 @@
 aliases:
   - surjection
   - surjective
+has_id_wikidata: Q229102
 ---
-
 #is_/same_as :: [[Epimorphism]]
 
 Any function can be decomposed into a [[surjection]] composed with an [[injective]].

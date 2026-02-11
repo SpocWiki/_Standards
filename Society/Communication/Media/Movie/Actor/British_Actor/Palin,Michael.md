@@ -2,8 +2,8 @@
 aliases:
   - Michael Palin
   - Palin,Michael
+has_id_wikidata: Q223985
 ---
-
 # [[Palin,Michael]] 
 
 #is_/member_/of :: [[Monty_Python]] 

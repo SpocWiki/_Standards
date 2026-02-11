@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q663314
+---
+
 
 # [[Rhombohedral_Lattice-3D]] 
 

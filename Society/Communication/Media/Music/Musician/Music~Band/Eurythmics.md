@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q207706
+---
+
 
 #has_/parts :: [[Eurythmics/Lennox,Annie]] 
 #has_/parts :: [[Eurythmics/Stewart,Dave]] 

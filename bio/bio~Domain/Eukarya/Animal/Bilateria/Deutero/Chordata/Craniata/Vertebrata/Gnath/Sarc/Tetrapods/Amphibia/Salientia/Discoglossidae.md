@@ -2,8 +2,8 @@
 aliases:
   - Discoglossidae
 title: Discoglossidae
+has_id_wikidata: Q4747664
 ---
-
 # [[Discoglossidae]]
 
 Discoglossid frogs 

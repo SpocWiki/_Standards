@@ -23,8 +23,8 @@ tags:
   - schema-org/Class
 title: is_a_ligament Class
 type: Type
+has_id_wikidata: Q39888
 ---
-
 # [[Ligament]] 
 
 Class of all ligaments.

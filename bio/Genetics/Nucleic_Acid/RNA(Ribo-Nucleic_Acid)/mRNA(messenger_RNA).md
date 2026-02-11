@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q188928
+---
+
 
 #is_/different_from :: [[RNA(Ribo-Nucleic_Acid)/Micro-RNA]] 
 

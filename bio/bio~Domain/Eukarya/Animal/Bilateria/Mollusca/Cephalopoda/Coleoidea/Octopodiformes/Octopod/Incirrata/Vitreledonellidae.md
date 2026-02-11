@@ -2,8 +2,8 @@
 aliases:
   - Vitreledonellidae
 title: Vitreledonella richardi
+has_id_wikidata: Q3166977
 ---
-
 # [[Vitreledonellidae]] 
 
 ![ ](Vitreledonellidae/Vitreledonella.JPG)

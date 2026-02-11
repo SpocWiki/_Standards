@@ -4,8 +4,8 @@ aliases:
   - dik-dik
   - Dik-dik
 title: Madoqua
+has_id_wikidata: Q216263
 ---
-
 # [[Dik-dik]]
 
 ## dik-diks 

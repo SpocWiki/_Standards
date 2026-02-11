@@ -3,8 +3,8 @@ aliases:
   - Kanye West
   - Kanye Omari West
   - West,Kanye
+has_id_wikidata: Q15935
 ---
-
 # [[West,Kanye]] 
 
 #is_/same_as :: 

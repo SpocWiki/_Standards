@@ -2,8 +2,8 @@
 aliases:
   - King Crimson
   - King_Crimson
+has_id_wikidata: Q189382
 ---
-
 ## #has_/text_of_/abstract 
 
 > **King Crimson** were  an English-based progressive rock band formed in 1968 in London. 

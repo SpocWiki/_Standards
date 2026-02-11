@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q34010
+---
+
 # [[Prog~Haskell]] 
 
 #is_a_/ComputerLanguage 

@@ -4,8 +4,8 @@ aliases:
   - Dictyoglomus
   - Dictyoglomerota
 title: Dictyoglomi
+has_id_wikidata: Q12218368
 ---
-
 # [[Dictyoglomi]] 
 
 #is_a/bio-Phylum  

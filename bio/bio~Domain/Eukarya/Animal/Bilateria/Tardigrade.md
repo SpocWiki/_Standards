@@ -7,8 +7,8 @@ aliases:
   - moss piglet
   - Tardigrade
 title: Tardigrada
+has_id_wikidata: Q5194
 ---
-
 # [[Tardigrade]] 
 
 Water Bears 

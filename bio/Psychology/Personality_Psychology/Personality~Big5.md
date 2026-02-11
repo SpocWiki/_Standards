@@ -6,8 +6,8 @@ aliases:
   - five factor model
   - Personality~Big5
   - HEXACO 
+has_id_wikidata: Q378132
 ---
-
 # [[Personality~Big5]] 
 
 #is_/similar_to :: [[Personality~HEXACO]] 

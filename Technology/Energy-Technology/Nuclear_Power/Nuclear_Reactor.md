@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q80877
+---
+
 
 # [[Nuclear_Reactor]] 
 

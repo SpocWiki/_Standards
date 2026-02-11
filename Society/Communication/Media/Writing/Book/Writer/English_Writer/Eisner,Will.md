@@ -3,8 +3,8 @@ aliases:
   - Will Eisner
   - William Erwin Eisner
   - Eisner,Will
+has_id_wikidata: Q309850
 ---
-
 # [[Eisner,Will]] 
 
 #has_/time_/started :: 1917-03-06

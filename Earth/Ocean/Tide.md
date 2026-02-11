@@ -18,8 +18,8 @@ dv_is_same_as:
   - "[[/_private/Earth/Ocean/Tide.private|Tide.private]]"
   - "[[/_personal/Earth/Ocean/Tide.personal|Tide.personal]]"
   - "[[/_secret/Earth/Ocean/Tide.secret|Tide.secret]]"
+has_id_wikidata: Q23384
 ---
-
 # [[Tide]] 
 
 #is_/same_as :: [[../../WikiData/WD~Tide,23384|WD~Tide,23384]]  

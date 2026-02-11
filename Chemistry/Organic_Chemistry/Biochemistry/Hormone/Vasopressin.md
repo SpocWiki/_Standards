@@ -16,8 +16,8 @@ dv_is_same_as:
   - "[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Vasopressin.private|Vasopressin.private]]"
   - "[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Vasopressin.personal|Vasopressin.personal]]"
   - "[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Vasopressin.secret|Vasopressin.secret]]"
+has_id_wikidata: Q21124841
 ---
-
 > Human **Vasopressin**, also called antidiuretic hormone (ADH),   arginine vasopressin (AVP) or argipressin, 
 > is a hormone synthesized from the AVP gene as a peptide prohormone in neurons in the hypothalamus, 
 > and is converted to AVP. 

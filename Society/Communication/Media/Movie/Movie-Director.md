@@ -29,8 +29,8 @@ tags:
   - excalidraw
 title: Movie-Director
 type: private_note
+has_id_wikidata: Q2526255
 ---
-
 # [[Movie-Director]] 
 
  #is_/same_as :: [[_Standards/WikiData/WD~film_director,2526255]] 

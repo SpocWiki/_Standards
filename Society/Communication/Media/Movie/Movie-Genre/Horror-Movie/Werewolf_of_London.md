@@ -2,8 +2,8 @@
 aliases:
   - Werewolf of London
   - Werewolf_of_London
+has_id_wikidata: Q933339
 ---
-
 #has_/time_/started :: 1935-06 
 
 ## #has_/text_of_/abstract 

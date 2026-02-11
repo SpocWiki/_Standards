@@ -31,8 +31,8 @@ tags:
 title:
   Business: ''
 type: private_note
+has_id_wikidata: Q4830453
 ---
-
 # [[Business]] 
 
 #is_/part_of :: [[Business]] 

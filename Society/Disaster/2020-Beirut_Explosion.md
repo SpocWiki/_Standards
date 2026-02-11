@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q98073118
+---
+
 ^
 # [[2020-Beirut_Explosion]] 
 

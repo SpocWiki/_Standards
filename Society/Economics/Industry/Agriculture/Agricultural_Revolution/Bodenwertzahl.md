@@ -5,8 +5,8 @@ aliases:
 - Ackerzahl
 - Bodenwertzahl
 - Grünlandzahl
+has_id_wikidata: Q889793
 ---
-
 ## #has_/text_of_/abstract 
 
 #is_/in_language :: [[../../../_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-en|Lang-en]] 

@@ -2,8 +2,8 @@
 aliases:
   - Chlorobi
 title: Chlorobi
+has_id_wikidata: Q12962791
 ---
-
 # [[Chlorobi]] 
 
 #is_a/bio-Phylum  

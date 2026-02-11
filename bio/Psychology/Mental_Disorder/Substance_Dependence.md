@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q3378593
+---
+
 
 # [[Substance_Dependence]] 
 

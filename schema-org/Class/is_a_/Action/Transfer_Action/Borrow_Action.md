@@ -106,8 +106,8 @@ dv_is_same_as:
   - "[[/_private/schema-org/Class/is_a_/Action/Transfer_Action/Borrow_Action.private|Borrow_Action.private]]"
   - "[[/_personal/schema-org/Class/is_a_/Action/Transfer_Action/Borrow_Action.personal|Borrow_Action.personal]]"
   - "[[/_secret/schema-org/Class/is_a_/Action/Transfer_Action/Borrow_Action.secret|Borrow_Action.secret]]"
+has_id_wikidata: Q406759
 ---
-
 # [[Borrow_Action]] 
 
 has_inverse = `=this.dv_has_inverse` 

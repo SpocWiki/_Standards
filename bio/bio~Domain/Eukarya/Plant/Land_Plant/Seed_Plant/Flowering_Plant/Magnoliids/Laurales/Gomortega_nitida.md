@@ -3,8 +3,8 @@ aliases:
   - Gomortega_nitida
   - Gomortega nitida
 title: Gomortega nitida
+has_id_wikidata: Q131312
 ---
-
 # [[Gomortega_nitida]] 
 
 ![Gomortega keule](Gomortega_nitida/Gomortega_keule.jpg) 

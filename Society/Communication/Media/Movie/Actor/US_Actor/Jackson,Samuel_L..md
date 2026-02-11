@@ -4,8 +4,8 @@ aliases:
   - Samuel Leroy Jackson
   - Jackson,Samuel_L.
   - Jackson,Samuel L.
+has_id_wikidata: Q172678
 ---
-
 # [[Jackson,Samuel_L.]] 
 
 

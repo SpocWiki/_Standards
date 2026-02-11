@@ -2,8 +2,8 @@
 aliases:
   - Einsteinian Relativity
   - Einsteinian_Relativity
+has_id_wikidata: Q43514
 ---
-
 # [[Einsteinian_Relativity]] 
 
 #is_/different_from :: [[Galilean_Relativity]] 

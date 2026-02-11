@@ -2,8 +2,8 @@
 aliases:
   - fief
   - Fiefdom
+has_id_wikidata: Q188063
 ---
-
 # [[Fiefdom]] 
 
 ## #has_/text_of_/abstract 

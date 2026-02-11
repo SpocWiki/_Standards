@@ -4,8 +4,8 @@ aliases:
   - Lentils
   - Vicia lens
   - Lens culinaris
+has_id_wikidata: Q131226
 ---
-
 ## #has_/text_of_/abstract 
 
 > The **Lentil** (Vicia lens or Lens culinaris) is an annual legume 

@@ -2,8 +2,8 @@
 aliases:
   - Giraffoidea
 title: Giraffoidea
+has_id_wikidata: Q903239
 ---
-
 # [[Giraffoidea]] 
 
 ![ ](Giraffoidea/Samotherium_skull.jpg)

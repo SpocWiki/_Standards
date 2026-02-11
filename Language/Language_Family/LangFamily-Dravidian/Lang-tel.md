@@ -6,8 +6,8 @@ aliases:
 tags:
   - Lang/te
 type: Lang
+has_id_wikidata: Q8097
 ---
-
 # [[Lang-tel]] 
 
 [SpocWebEntityId:: 461 ]

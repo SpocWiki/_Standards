@@ -2,8 +2,8 @@
 aliases:
   - Stenandriopsis
 title: Stenandriopsis Clade
+has_id_wikidata: Q10374140
 ---
-
 # [[Stenandriopsis]] 
 
 ![ ](Stenandriopsis/Achyrocalyx.jpg)

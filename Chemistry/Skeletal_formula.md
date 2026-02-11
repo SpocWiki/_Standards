@@ -22,8 +22,8 @@ dv_is_same_as:
   - "[[/_private/Chemistry/Skeletal_formula.private|Skeletal_formula.private]]"
   - "[[/_personal/Chemistry/Skeletal_formula.personal|Skeletal_formula.personal]]"
   - "[[/_secret/Chemistry/Skeletal_formula.secret|Skeletal_formula.secret]]"
+has_id_wikidata: Q899274
 ---
-
 ## #has_/text_of_/abstract 
 
 > The **Skeletal formula**, line-angle formula, bond-line formula 

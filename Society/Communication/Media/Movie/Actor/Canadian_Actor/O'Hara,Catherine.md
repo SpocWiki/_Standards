@@ -3,8 +3,8 @@ aliases:
   - Catherine O'Hara
   - Catherine Anne O'Hara
   - O'Hara,Catherine
+has_id_wikidata: Q233365
 ---
-
 ## #has_/text_of_/abstract 
 
 > Catherine Anne O'Hara  (born March 4, 1954) is a Canadian-American actress, comedian, and screenwriter. 

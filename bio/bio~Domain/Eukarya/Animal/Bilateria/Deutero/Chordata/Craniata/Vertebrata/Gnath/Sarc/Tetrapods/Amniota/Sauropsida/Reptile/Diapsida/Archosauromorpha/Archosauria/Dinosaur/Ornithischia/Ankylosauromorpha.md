@@ -2,8 +2,8 @@
 aliases:
   - Ankylosauromorpha
 title: Ankylosauromorpha
+has_id_wikidata: Q273617
 ---
-
 # [[Ankylosauromorpha]] 
 
 Armored-plated dinosaurs 

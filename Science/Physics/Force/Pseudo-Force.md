@@ -6,8 +6,8 @@ aliases:
   - pseudo force
   - Pseudo-Force
 has_id_wikidata: ''
+has_id_wikidata: Q212126
 ---
-
 # [[Pseudo-Force]] 
 
 

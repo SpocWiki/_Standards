@@ -2,8 +2,8 @@
 aliases:
   - Dicamptodontidae
 title: Dicamptodontidae
+has_id_wikidata: Q905053
 ---
-
 # [[Dicamptodontidae]]
 
 Pacific Giant Salamanders 

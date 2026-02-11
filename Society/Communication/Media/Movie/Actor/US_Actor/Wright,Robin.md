@@ -4,8 +4,8 @@ aliases:
   - Robin Wright
   - Robin Gayle Wright
   - Wright,Robin
+has_id_wikidata: Q272972
 ---
-
 #has_/time_/started :: 1966-04-08 
 
 ## #has_/text_of_/abstract 

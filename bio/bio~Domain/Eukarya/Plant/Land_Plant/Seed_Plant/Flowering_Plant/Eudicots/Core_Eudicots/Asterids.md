@@ -2,8 +2,8 @@
 aliases:
   - Asterids
 title: Asterids
+has_id_wikidata: Q747502
 ---
-
 # [[Asterids]]  
 
 ![Fraxinus_excelsior](Asterids/Lamiales/Oleaceae/Fraxinus/Fraxinus_excelsior.jpg)  ![Erica_cinera](Asterids/Erica_cinera.jpg)  ![Lactuca](Asterids/Lactuca.jpg) 
