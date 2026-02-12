@@ -247,140 +247,12 @@ UMLS_CUI: C0005532
 U_S_National_Archives_Identifier: 10639636
 dv_has_:
   name_:
-    pih: biiolojii
-    pms: biologìa
-    pnb: جیون پڑھت
-    ps: ژونپوهنه
-    pt-br: biologia
-    qu: kawsay yachay
-    rm: biologia
-    rup: biologhia
-    sa: जीवशास्त्रम्
-    sah: биология
-    sc: biologia
-    scn: biuluggìa
-    sco: biology
-    sd: حياتيات
-    se: biologiija
-    sgs: bioluogėjė
-    sh: biologija
-    shi: tasnudert
-    skr: حیاتیات
-    sm: paiolo
-    sma: biologije
-    smj: biologija
-    smn: biologia
-    sms: biologia
-    sn: ketaupenyu
-    so: bayoloji
-    sr: биологија
-    sr-ec: биологија
-    ss: Ibhayoloji
-    st: baeloji
-    stq: Biologie
-    su: biologi
-    sw: biolojia
-    szl: biologijŏ
-    ta: உயிரியல்
-    tcy: ಜೀವ ಶಾಸ್ತ್ರ
-    te: జీవ శాస్త్రం
-    tet: biolojia
-    tg-cyrl: биология
-    th: ชีววิทยา
-    ti: ባዮሎጂ
-    tk: biologiýa
-    tl: biyolohiya
-    tly: Bioloqiyə
-    tpi: save long laip
-    tr: biyoloji
-    ts: Ntivo-Vutomi
-    tt: биология
-    udm: биология
-    ug: بىئولوگىيە
-    uk: біологія
-    vec: biołozia
-    vep: Biologii
-    vls: Biologie
-    vo: lifav
-    vro: bioloogia
-    wa: biyolodjeye
-    wuu: 生物學
-    xal: биолог
-    xh: IBayoloji
-    xmf: ბიოლოგია
-    yi: ביאלאגיע
-    yue: 生物學
-    za: swnghvuzyoz
-    zea: biologie
-    zgh: ⵜⴰⵙⵏⵓⴷⵔⵜ
-    zh-cn: 生物学
-    zh-hans: 生物学
-    zh-hant: 生物學
-    zh-hk: 生物學
-    zh-tw: 生物學
-    zu: Ibhayoloji
-    sje: biologija
-    rki: ဇီဝဗေဒ
-    tok: sona pi ijo lon
-    pam: pámagáral bie
-    pcm: Baioloji
-    en: biology
-    mn: биологи
-    nn: biologi
-    fa: زیستشناسی
-    tg: зистшиносӣ
-    sq: biologji
-    et: bioloogia
-    nl: biologie
-    fr: biologie
-    da: biologi
-    la: biologia
-    cs: biologie
-    sk: biológia
-    pt: biologia
-    ms: kaji hayat
-    ml: ജീവശാസ്ത്രം
-    sv: biologi
-    eu: biologia
-    nb: biologi
-    he: ביולוגיה
-    es: biología
-    de: Biologie
-    it: biologia
-    ru: биология
-    el: βιολογία
-    an: biolochía
-    hy: կենսաբանություն
-    ur: حیاتیات
-    ja: 生物学
-    be: біялогія
-    hu: biológia
-    vi: sinh học
-    pl: biologia
-    kk: биология
-    id: biologi
-    lad: biolojiya
-    ca: biologia
-    ro: biologie
-    uz: biologiya
-    war: biyolohiya
-    gl: bioloxía
-    zh: 生物学
-    mai: जीवशास्त्र
-    sl: biologija
-    is: líffræði
-    ar: علم الأحياء
-    bs: biologija
-    rue: біолоґія
-    oc: biologia
-    ary: بيولوجيا
-    co: biologia
-    inh: биологи
-    si: ජීව විද්යාව
-    lfn: biolojia
     ab: абиологиа
     af: biologie
     am: ሥነ ሕይወት
+    an: biolochía
+    ar: علم الأحياء
+    ary: بيولوجيا
     arz: بيولوجيا
     as: জীৱ বিজ্ঞান
     ast: bioloxía
@@ -394,6 +266,7 @@ dv_has_:
     bar: Biologie
     bbc: Biologi
     bcl: biyolohiya
+    be: біялогія
     be-tarask: біялёгія
     bew: Èlmu hayat
     bg: биология
@@ -404,9 +277,11 @@ dv_has_:
     bn: জীববিজ্ঞান
     bo: སྐྱེ་དངོས་རིག་པ།
     br: bevoniezh
+    bs: biologija
     btm: Biologi
     bug: ᨅᨗᨐᨚᨒᨚᨁᨗ
     bxr: биологи
+    ca: biologia
     cbk-zam: Biologia
     cdo: sĕng-ŭk-hŏk
     ce: биологи
@@ -414,23 +289,34 @@ dv_has_:
     ch: bioloyia
     chr: ᎬᏃᏓ ᎠᎦᏎᏍᏙᏗ
     ckb: ژینناسی
+    co: biologia
     crh: ayatiyat
     crh-latn: ayatiyat
     crh-ro: ómírbílímí
+    cs: biologie
     csb: biologijô
     cv: биологи
     cy: bioleg
+    da: biologi
     dag: binniɛma vihigu
+    de: Biologie
     din: piöcëpïr
     diq: biyolociye
     dv: ދިރުމާބެހޭ އިލްމު
+    el: βιολογία
+    en: biology
     en-ca: biology
     en-gb: biology
     eo: biologio
+    es: biología
+    et: bioloogia
+    eu: biologia
     ext: biologia
+    fa: زیستشناسی
     fi: biologia
     fj: biology
     fo: lívfrøði
+    fr: biologie
     frp: biologia
     frr: Biologii
     fur: Biologjie
@@ -438,6 +324,7 @@ dv_has_:
     ga: bitheolaíocht
     gcr: byoloji
     gd: bith-eòlas
+    gl: bioloxía
     glk: زیویشتشناسی
     gn: tekovekuaaty
     gor: Biologi
@@ -448,18 +335,26 @@ dv_has_:
     ha: biology
     hak: sâng-vu̍t-ho̍k
     haw: kālaimeaola
+    he: ביולוגיה
     hi: जीव विज्ञान
     hif: jiu vigyan
     hr: biologija
     hsb: biologija
     ht: biyoloji
+    hu: biológia
+    hy: կենսաբանություն
     hyw: Կենսաբանութիւն
     ia: biologia
     iba: Biologi
+    id: biologi
     ie: biologie
     ilo: biolohia
+    inh: биологи
     io: biologio
+    is: líffræði
+    it: biologia
     iu: ᐆᒪᔅᓱᓯᖃᕐᑐᓕᕆᓂᖅ
+    ja: 生物学
     jam: bailoji
     jbo: mivyske
     jv: biologi
@@ -468,6 +363,7 @@ dv_has_:
     kab: tasnudert
     kbp: tomnaɣ lɛɣtʋ
     ki: bayorojĩ
+    kk: биология
     kl: uumassusililerineq
     km: ជីវវិទ្យា
     kn: ಜೀವಶಾಸ್ತ್ರ
@@ -478,8 +374,11 @@ dv_has_:
     kv: Биология
     kw: bywonieth
     ky: биология
+    la: biologia
+    lad: biolojiya
     lb: Biologie
     lez: биология
+    lfn: biolojia
     lg: essomabiramu
     li: Biologie
     lij: biologia
@@ -493,14 +392,18 @@ dv_has_:
     lzh: 生物學
     mad: biologi
     mag: जीवविज्ञान
+    mai: जीवशास्त्र
     map-bms: Biologi
     mg: biolojia
     mhr: биологий
     mi: pūtaiao koiora
     min: biologi
     mk: биологија
+    ml: ജീവശാസ്ത്രം
+    mn: биологи
     mni: ꯊꯋꯥꯢꯄꯥꯟꯕ ꯅꯩꯅꯂꯣꯟ
     mr: जीवशास्त्र
+    ms: kaji hayat
     ms-arab: کاجي حيات
     mt: bijoloġija
     mwl: biologie
@@ -509,21 +412,118 @@ dv_has_:
     nah: Yōlizmatiliztli
     nan: seng-bu̍t-ha̍k
     nap: biologgia
+    nb: biologi
     nds: Biologie
     nds-nl: biologie
     ne: जीवशास्त्र
     new: जीवशास्त्र
+    nl: biologie
+    nn: biologi
     nov: biologia
     nqo: ߣߌߡߊߞߊߙߊ߲
     nrm: biologie
     nso: thutaphedi
+    oc: biologia
     olo: biolougii
     om: baayoolojii
     or: ଜୀବ ବିଜ୍ଞାନ
     os: биологи
     pa: ਜੀਵ ਵਿਗਿਆਨ
+    pam: pámagáral bie
     pap: biologia
+    pcm: Baioloji
     pfl: Bioloschie
+    pih: biiolojii
+    pl: biologia
+    pms: biologìa
+    pnb: جیون پڑھت
+    ps: ژونپوهنه
+    pt: biologia
+    pt-br: biologia
+    qu: kawsay yachay
+    rki: ဇီဝဗေဒ
+    rm: biologia
+    ro: biologie
+    ru: биология
+    rue: біолоґія
+    rup: biologhia
+    sa: जीवशास्त्रम्
+    sah: биология
+    sc: biologia
+    scn: biuluggìa
+    sco: biology
+    sd: حياتيات
+    se: biologiija
+    sgs: bioluogėjė
+    sh: biologija
+    shi: tasnudert
+    si: ජීව විද්යාව
+    sje: biologija
+    sk: biológia
+    skr: حیاتیات
+    sl: biologija
+    sm: paiolo
+    sma: biologije
+    smj: biologija
+    smn: biologia
+    sms: biologia
+    sn: ketaupenyu
+    so: bayoloji
+    sq: biologji
+    sr: биологија
+    sr-ec: биологија
+    ss: Ibhayoloji
+    st: baeloji
+    stq: Biologie
+    su: biologi
+    sv: biologi
+    sw: biolojia
+    szl: biologijŏ
+    ta: உயிரியல்
+    tcy: ಜೀವ ಶಾಸ್ತ್ರ
+    te: జీవ శాస్త్రం
+    tet: biolojia
+    tg: зистшиносӣ
+    tg-cyrl: биология
+    th: ชีววิทยา
+    ti: ባዮሎጂ
+    tk: biologiýa
+    tl: biyolohiya
+    tly: Bioloqiyə
+    tok: sona pi ijo lon
+    tpi: save long laip
+    tr: biyoloji
+    ts: Ntivo-Vutomi
+    tt: биология
+    udm: биология
+    ug: بىئولوگىيە
+    uk: біологія
+    ur: حیاتیات
+    uz: biologiya
+    vec: biołozia
+    vep: Biologii
+    vi: sinh học
+    vls: Biologie
+    vo: lifav
+    vro: bioloogia
+    wa: biyolodjeye
+    war: biyolohiya
+    wuu: 生物學
+    xal: биолог
+    xh: IBayoloji
+    xmf: ბიოლოგია
+    yi: ביאלאגיע
+    yue: 生物學
+    za: swnghvuzyoz
+    zea: biologie
+    zgh: ⵜⴰⵙⵏⵓⴷⵔⵜ
+    zh: 生物学
+    zh-cn: 生物学
+    zh-hans: 生物学
+    zh-hant: 生物學
+    zh-hk: 生物學
+    zh-tw: 生物學
+    zu: Ibhayoloji
 ---
 # [[bio]] 
 

@@ -126,96 +126,96 @@ dv_is_same_as:
 - '[[/_secret/Astronomy/Apparent_magnitude.secret|Apparent_magnitude.secret]]'
 dv_has_:
   name_:
-    he: בהירות
-    ml: ദൃശ്യകാന്തിമാനം
-    be: зорная велічыня
-    be-tarask: бачная зорная велічыня
-    bn: আপাত মান
-    ca: magnitud aparent
-    cs: hvězdná velikost
-    de: scheinbare Helligkeit
-    el: φαινόμενο μέγεθος
-    en: apparent magnitude
-    en-gb: apparent magnitude
-    eo: ŝajna magnitudo
-    es: magnitud aparente
-    fi: magnitudi
-    fr: magnitude apparente
-    gl: magnitude aparente
-    id: magnitudo semu
-    it: magnitudine apparente
-    ja: 実視等級
-    ko: 겉보기등급
-    ms: magnitud ketara
-    mt: manjitudni apparenti
-    nb: tilsynelatende størrelsesklasse
-    nl: schijnbare magnitude
-    nn: tilsynelatande storleiksklasse
-    pl: obserwowana wielkość gwiazdowa
-    pt: magnitude aparente
-    pt-br: magnitude aparente
-    ro: magnitudine aparentă
-    ru: видимая звёздная величина
-    scn: magnitùdini apparenti
-    sk: zdanlivá hviezdna veľkosť
-    sv: skenbar magnitud
-    uk: видима зоряна величина
-    vi: cấp sao biểu kiến
-    zh: 視星等
     ar: قدر ظاهري
     ast: magnitú aparente
     az: görünmə böyüklüyü
+    be: зорная велічыня
+    be-tarask: бачная зорная велічыня
     bg: видима звездна величина
+    bn: আপাত মান
     bs: prividna magnituda
+    ca: magnitud aparent
+    cs: hvězdná velikost
     cy: maint ymddangosol
+    de: scheinbare Helligkeit
+    el: φαινόμενο μέγεθος
+    en: apparent magnitude
     en-ca: apparent magnitude
+    en-gb: apparent magnitude
+    eo: ŝajna magnitudo
+    es: magnitud aparente
     et: tähesuurus
     eu: Itxurazko magnitude
     fa: قدر ظاهری
+    fi: magnitudi
+    fr: magnitude apparente
     frr: skiinboor magnituud
+    gl: magnitude aparente
     gsw: schiinbar Helligkeit
+    he: בהירות
     hi: सापेक्ष कांतिमान
     hr: prividna magnituda
     ht: mayitid aparan
     hu: magnitúdó
     hy: տեսանելի աստղային մեծություն
     ia: magnitude apparente
+    id: magnitudo semu
+    it: magnitudine apparente
+    ja: 実視等級
     ka: ვარსკვლავიერი სიდიდე
     kab: azal amaskad
+    ko: 겉보기등급
     ku: qedra zahirî
+    la: magnitudo apparens
     lb: Visuell Magnitude
     lt: spindesys
     lv: redzamais spožums
     mk: привидна ѕвездена величина
+    ml: ദൃശ്യകാന്തിമാനം
     mr: आभासी दृश्यप्रत
+    ms: magnitud ketara
+    mt: manjitudni apparenti
+    nb: tilsynelatende størrelsesklasse
+    nl: schijnbare magnitude
+    nn: tilsynelatande storleiksklasse
     oc: magnitud aparenta
     om: hamma gonkaa
     pa: ਸਾਪੇਖ ਕਾਂਤੀਮਾਨ
+    pl: obserwowana wielkość gwiazdowa
+    pt: magnitude aparente
+    pt-br: magnitude aparente
+    ro: magnitudine aparentă
+    ru: видимая звёздная величина
+    scn: magnitùdini apparenti
     sco: apparent magnitude
     sh: prividna magnituda
     si: දෘශ්ය විශාලත්වය
+    sk: zdanlivá hviezdna veľkosť
     sl: navidezni sij
     sr: привидна звездана величина
     sr-ec: привидна звездана величина
     sr-el: prividna zvezdana veličina
+    sv: skenbar magnitud
     sw: mwangaza unaoonekana
     ta: தோற்ற ஒளிப்பொலிவெண்
     th: ความส่องสว่างปรากฏ
     tl: maliwanag na kalakhan
     tr: görünür büyüklük
     tt: йолдызча зурлык
+    uk: видима зоряна величина
     uz: koʻrinma yulduz kattaligi
+    vi: cấp sao biểu kiến
     vls: Magnitude
     war: magnitud aparente
     wuu: 视星等
     yue: 視星等
+    zh: 視星等
     zh-cn: 星等
     zh-hans: 视星等
     zh-hant: 星等
     zh-hk: 視星等
     zh-sg: 星等
     zh-tw: 星等
-    la: magnitudo apparens
 ---
 # [[Apparent_magnitude]] 
 

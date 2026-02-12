@@ -242,6 +242,205 @@ IPTC_NewsCode: mediatopic/20000725
 Krugosvet_article: nauka_i_tehnika/himiya/HIMIYA.html
 dv_has_:
   name_:
+    ady: Химие
+    af: chemie
+    am: የጥንተ ንጥር ጥናት
+    an: quimica
+    anp: रसायनशास्त्र
+    ar: كيمياء
+    arc: ܟܝܡܝܐ
+    ary: شيمي
+    arz: كيميا
+    as: ৰসায়ন বিজ্ঞান
+    ast: química
+    av: химия
+    avk: razopa
+    awa: रसायनशास्त्र
+    az: kimya
+    azb: شیمی
+    ba: химия
+    ban: Kimia
+    bar: Chemie
+    bcl: kimika
+    be: хімія
+    be-tarask: хімія
+    bg: химия
+    bho: रसायन शास्त्र
+    bi: kemistri
+    bjn: kimia
+    blk: ဓာတုဗေဒ
+    bn: রসায়ন
+    bo: རྫས་འགྱུར་རིག་པ།
+    br: kimiezh
+    bs: hemija
+    btm: Kimia
+    bxr: хими
+    ca: química
+    cbk-zam: Quimica
+    cdo: huá-hŏk
+    ce: хими
+    ceb: kimika
+    chr: ᎠᏑᏰᏗᏧᏓᎴᎲᏓᏅᏬᏘ
+    ckb: کیمیا
+    co: chimica
+    crh: himiya
+    cs: chemie
+    csb: chemijô
+    cv: хими
+    cy: cemeg
+    da: kemi
+    de: Chemie
+    de-ch: Chemie
+    din: piöcëkätiɔɔp
+    diq: kimya
+    dsb: chemija
+    dtp: Kimia
+    dv: ކީމިއާއީ އިލްމު
+    el: χημεία
+    eml: chémmica
+    en: chemistry
+    en-ca: chemistry
+    en-gb: chemistry
+    eo: ĥemio
+    es: química
+    et: keemia
+    eu: kimika
+    ext: química
+    fa: شیمی
+    fi: kemia
+    fj: kemisitiri
+    fo: evnafrøði
+    fr: chimie
+    frp: ch·imie
+    frr: kemii
+    fur: chimiche
+    fy: skiekunde
+    ga: ceimic
+    gan: 化學
+    gcr: chimi
+    gd: ceimigeachd
+    gl: química
+    glk: شيمي
+    gn: kimikuaa
+    gor: Kimia
+    gpe: Chemistry
+    gsw: Chemii
+    gu: રસાયણ શાસ્ત્ર
+    guc: Achajaya
+    gv: kemmig
+    ha: kimiya
+    hak: fa-ho̍k
+    haw: kemika
+    he: כימיה
+    hi: रसायन शास्त्र
+    hif: rasayan vigyan
+    hr: kemija
+    hsb: chemija
+    ht: chimi
+    hu: kémia
+    hy: քիմիա
+    hyw: տարրաբանութիւն
+    ia: chimia
+    iba: Kimia
+    id: kimia
+    ie: chimie
+    ilo: kímika
+    inh: Хими
+    io: kemio
+    is: efnafræði
+    it: chimica
+    iu: ᐃᓚᐅᕈᑎᒃᓴᓕᕆᓂᖅ
+    ja: 化学
+    jam: kimischri
+    jbo: xumske
+    jv: kimia
+    ka: ქიმია
+    kaa: ximiya
+    kab: takrura
+    kbp: siimii lɛɣtʋ
+    ki: kemu
+    kk: химия
+    km: គីមីវិទ្យា
+    kn: ರಸಾಯನಶಾಸ್ತ್ರ
+    knc: Chemistry
+    ko: 화학
+    ks: رساێن
+    ku: kîmya
+    kw: kymystry
+    ky: химия
+    la: chemia
+    lad: kemika
+    lb: Chimie
+    lez: химия
+    lfn: cimica
+    lg: ebyobuziba
+    li: Chemie
+    lij: chimica
+    lld: chimica
+    lmo: chímica
+    ln: kémi
+    lo: ເຄມີສາດ
+    lrc: کیمیا دونسمنی
+    lt: chemija
+    lv: ķīmija
+    lzh: 化學
+    mad: Kimia
+    mag: रसायनशास्त्र
+    mai: रसायनशास्त्र
+    map-bms: kimia
+    mdf: кимиесь
+    mg: simia
+    mhr: химий
+    mi: mātauranga matū
+    min: kimia
+    mk: хемија
+    ml: രസതന്ത്രം
+    mn: хими
+    mni: ꯄꯣꯠꯇꯤꯟꯂꯣꯟ
+    mr: रसायनशास्त्र
+    ms: kimia
+    ms-arab: کيميا
+    mt: kimika
+    mwl: química
+    my: ဓာတုဗေဒ
+    myv: химия
+    mzn: شیمی
+    nan: hoà-ha̍k
+    nb: kjemi
+    nds: Chemie
+    nds-nl: scheikunde
+    ne: रसायनशास्त्र
+    new: रसायनशास्त्र
+    nl: scheikunde
+    nn: kjemi
+    nov: kemie
+    nrm: chimie
+    nso: khemise
+    oc: quimia
+    om: kemistirii
+    or: ରସାୟନ ବିଜ୍ଞାନ
+    os: хими
+    pa: ਰਸਾਇਣ ਵਿਗਿਆਨ
+    pap: Kímika
+    pcd: kémie
+    pcm: Kemistri
+    pih: kemistrii
+    pl: chemia
+    pms: Chìmica
+    pnb: کیمسٹری
+    ps: کيميا
+    pt: química
+    pt-br: química
+    qu: chaqllisinchi
+    rki: ဓာတုဗေဒ
+    ro: chimie
+    ru: химия
+    rue: хемія
+    rup: chimie
+    sa: रसतन्त्रम्
+    sah: химия
+    sc: chìmica
+    scn: chìmica
     sco: chemistrie
     sd: ڪيمياءي علم
     se: kemiija
@@ -249,6 +448,7 @@ dv_has_:
     sh: hemija
     shi: takrura
     si: රසායන විද්යාව
+    sk: chémia
     skr: کیمسٹری
     sl: kemija
     sm: kemisi
@@ -264,6 +464,7 @@ dv_has_:
     st: kemisi
     stq: Chemie
     su: kimia
+    sv: kemi
     sw: kemia
     szl: chymijŏ
     ta: வேதியியல்
@@ -276,6 +477,7 @@ dv_has_:
     tl: kimika
     tly: Kimyə
     to: kemi
+    tok: sona kama
     tpi: kemistri
     tr: kimya
     ts: Ntivo-Mirhi
@@ -301,217 +503,15 @@ dv_has_:
     za: vayoz
     zea: scheikunde
     zgh: ⵜⴰⴽⵔⵓⵔⴰ
+    zh: 化學
     zh-cn: 化学
     zh-hans: 化学
+    zh-hant: 化學
     zh-hk: 化學
     zh-mo: 化學
     zh-sg: 化学
-    zu: ikhemistri
-    glk: شيمي
-    rki: ဓာတုဗေဒ
-    pap: Kímika
-    pcm: Kemistri
-    tok: sona kama
-    gcr: chimi
-    gd: ceimigeachd
-    gl: química
-    gn: kimikuaa
-    gor: Kimia
-    gpe: Chemistry
-    gsw: Chemii
-    gu: રસાયણ શાસ્ત્ર
-    guc: Achajaya
-    gv: kemmig
-    hak: fa-ho̍k
-    haw: kemika
-    hi: रसायन शास्त्र
-    hif: rasayan vigyan
-    hsb: chemija
-    ht: chimi
-    hy: քիմիա
-    hyw: տարրաբանութիւն
-    ia: chimia
-    iba: Kimia
-    ie: chimie
-    ilo: kímika
-    inh: Хими
-    io: kemio
-    is: efnafræði
-    iu: ᐃᓚᐅᕈᑎᒃᓴᓕᕆᓂᖅ
-    jam: kimischri
-    jbo: xumske
-    jv: kimia
-    ka: ქიმია
-    kaa: ximiya
-    kbp: siimii lɛɣtʋ
-    ki: kemu
-    kk: химия
-    kn: ರಸಾಯನಶಾಸ್ತ್ರ
-    knc: Chemistry
-    ko: 화학
-    ks: رساێن
-    ku: kîmya
-    kw: kymystry
-    ky: химия
-    la: chemia
-    lad: kemika
-    lb: Chimie
-    lez: химия
-    lfn: cimica
-    lg: ebyobuziba
-    li: Chemie
-    lij: chimica
-    lld: chimica
-    lmo: chímica
-    ln: kémi
-    lo: ເຄມີສາດ
-    lrc: کیمیا دونسمنی
-    lt: chemija
-    lzh: 化學
-    mad: Kimia
-    mag: रसायनशास्त्र
-    mai: रसायनशास्त्र
-    map-bms: kimia
-    mdf: кимиесь
-    mg: simia
-    mhr: химий
-    mi: mātauranga matū
-    min: kimia
-    mk: хемија
-    mn: хими
-    mni: ꯄꯣꯠꯇꯤꯟꯂꯣꯟ
-    mr: रसायनशास्त्र
-    mt: kimika
-    mwl: química
-    my: ဓာတုဗေဒ
-    myv: химия
-    mzn: شیمی
-    nan: hoà-ha̍k
-    nds: Chemie
-    nds-nl: scheikunde
-    ne: रसायनशास्त्र
-    new: रसायनशास्त्र
-    nov: kemie
-    nrm: chimie
-    nso: khemise
-    oc: quimia
-    om: kemistirii
-    os: хими
-    pa: ਰਸਾਇਣ ਵਿਗਿਆਨ
-    pcd: kémie
-    pih: kemistrii
-    pms: Chìmica
-    pnb: کیمسٹری
-    ps: کيميا
-    pt-br: química
-    qu: chaqllisinchi
-    ro: chimie
-    rue: хемія
-    rup: chimie
-    sa: रसतन्त्रम्
-    sah: химия
-    sc: chìmica
-    scn: chìmica
-    an: quimica
-    it: chimica
-    fa: شیمی
-    en: chemistry
-    ja: 化学
-    cs: chemie
-    ru: химия
-    de: Chemie
-    fr: chimie
-    eo: ĥemio
-    es: química
-    pl: chemia
-    et: keemia
-    sk: chémia
-    ml: രസതന്ത്രം
-    sv: kemi
-    id: kimia
-    ms: kimia
-    ms-arab: کيميا
-    nb: kjemi
-    pt: química
-    zh: 化學
-    he: כימיה
-    da: kemi
-    hr: kemija
-    eu: kimika
-    el: χημεία
-    nn: kjemi
-    kab: takrura
-    nl: scheikunde
-    lv: ķīmija
-    az: kimya
-    km: គីមីវិទ្យា
-    or: ରସାୟନ ବିଜ୍ଞାନ
-    bn: রসায়ন
-    ar: كيمياء
-    ca: química
-    hu: kémia
-    zh-hant: 化學
     zh-tw: 化學
-    ha: kimiya
-    ady: Химие
-    af: chemie
-    am: የጥንተ ንጥር ጥናት
-    anp: रसायनशास्त्र
-    arc: ܟܝܡܝܐ
-    ary: شيمي
-    arz: كيميا
-    as: ৰসায়ন বিজ্ঞান
-    ast: química
-    av: химия
-    avk: razopa
-    awa: रसायनशास्त्र
-    azb: شیمی
-    ba: химия
-    ban: Kimia
-    bar: Chemie
-    bcl: kimika
-    be: хімія
-    be-tarask: хімія
-    bg: химия
-    bho: रसायन शास्त्र
-    bi: kemistri
-    bjn: kimia
-    blk: ဓာတုဗေဒ
-    bo: རྫས་འགྱུར་རིག་པ།
-    br: kimiezh
-    bs: hemija
-    btm: Kimia
-    bxr: хими
-    cbk-zam: Quimica
-    cdo: huá-hŏk
-    ce: хими
-    ceb: kimika
-    chr: ᎠᏑᏰᏗᏧᏓᎴᎲᏓᏅᏬᏘ
-    ckb: کیمیا
-    co: chimica
-    crh: himiya
-    csb: chemijô
-    cv: хими
-    cy: cemeg
-    de-ch: Chemie
-    din: piöcëkätiɔɔp
-    diq: kimya
-    dsb: chemija
-    dtp: Kimia
-    dv: ކީމިއާއީ އިލްމު
-    eml: chémmica
-    en-ca: chemistry
-    en-gb: chemistry
-    ext: química
-    fi: kemia
-    fj: kemisitiri
-    fo: evnafrøði
-    frp: ch·imie
-    frr: kemii
-    fur: chimiche
-    fy: skiekunde
-    ga: ceimic
-    gan: 化學
+    zu: ikhemistri
 ---
 # [[Chemistry]] 
 

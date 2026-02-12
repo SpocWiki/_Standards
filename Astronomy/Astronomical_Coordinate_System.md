@@ -100,7 +100,6 @@ dv_is_same_as:
 - '[[/_secret/Astronomy/Astronomical_Coordinate_System.secret|Astronomical_Coordinate_System.secret]]'
 dv_has_:
   name_:
-    he: מערכת קואורדינטות שמימית
     af: Lugkoördinaatstelsel
     ar: نظام إحداثيات فلكي
     ast: Coordenaes celestes
@@ -126,6 +125,7 @@ dv_has_:
     fi: tähtitieteellinen vertausjärjestelmä
     fr: système de coordonnées célestes
     gl: Coordenadas celestes
+    he: מערכת קואורדינטות שמימית
     hi: खगोलीय निर्देशांक पद्धति
     hr: Nebeski koordinatni sustavi
     hu: csillagászati koordináta-rendszer
@@ -159,6 +159,7 @@ dv_has_:
     pl: układ współrzędnych astronomicznych
     pt: sistema de coordenadas celestes
     pt-br: Sistema de coordenadas celestes
+    ro: sistem de coordonate astronomice
     ru: система небесных координат
     sco: celestial coordinate seestem
     sh: Nebeski koordinatni sistemi
@@ -186,7 +187,6 @@ dv_has_:
     zh-hk: 天球坐標系統
     zh-sg: 天球坐标系统
     zh-tw: 天球坐標系統
-    ro: sistem de coordonate astronomice
 ---
 # [[Astronomical_Coordinate_System]] 
 

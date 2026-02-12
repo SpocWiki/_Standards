@@ -107,6 +107,7 @@ dv_has_:
     bs: World Wide Web Consortium
     ca: World Wide Web Consortium
     cs: World Wide Web Consortium
+    cy: Consortiwm y We Fyd Eang
     da: World Wide Web Consortium
     de: World Wide Web Consortium
     el: World Wide Web Consortium
@@ -135,6 +136,7 @@ dv_has_:
     is: Alþjóðasamtök um veraldarvefinn
     it: World Wide Web Consortium
     ja: World Wide Web Consortium
+    ka: World Wide Web კონსორციუმი
     kk: W3C
     km: សមាគមន៍វើលវ៉ាយវ៉េប
     ko: W3C
@@ -144,6 +146,7 @@ dv_has_:
     ml: വേൾഡ് വൈഡ് വെബ് കൺസോർഷ്യം
     mn: Дэлхий дахины вебийн консорциум
     ms: Konsortium Jaringan Sejagat
+    mul: World Wide Web Consortium
     nb: World Wide Web Consortium
     nl: World Wide Web Consortium
     nn: World Wide Web Consortium
@@ -175,9 +178,6 @@ dv_has_:
     zh-hans: 万维网联盟
     zh-hant: 全球資訊網聯盟
     zh-tw: 萬維網聯盟
-    mul: World Wide Web Consortium
-    cy: Consortiwm y We Fyd Eang
-    ka: World Wide Web კონსორციუმი
 ---
 # [[W3C(World_Wide_Web_Consortium)]] 
 

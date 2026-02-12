@@ -232,87 +232,76 @@ U_S_National_Archives_Identifier: 10637421
 WordLift_URL: http://data.thenextweb.com/tnw/entity/astronomy
 dv_has_:
   name_:
-    pnt: αστρονομία
-    ps: ستورپوهنه
-    pt: astronomia
-    pt-br: astronomia
-    qu: quyllur yachay
-    rm: astronomia
-    rmy: chexanipen
-    ro: astronomie
-    rue: астрономія
-    rup: astronomie
-    sa: ज्योतिश्शास्त्रम्
-    sah: астрономия
-    sc: astronomia
-    scn: astronumìa
-    sco: astronomy
-    se: astronomiija
-    sg: sêndâtongo
-    sgs: astruonuomėjė
-    sh: astronomija
-    shi: Tasnaggurt
-    skr: فلکیات
-    sm: astronomy
-    sma: astronomije
-    smj: astronomija
-    smn: täsnitieđâ
-    sms: täʹsnntiõđ
-    sn: zvechadenga
-    so: xiddigis
-    sr: астрономија
-    stq: Stiernkunde
-    su: astronomi
-    sw: astronomia
-    szl: astrōnōmijŏ
-    ta: வானியல்
-    tcy: ಖಗೋಳ ಶಾಸ್ತ್ರ
-    te: ఖగోళ శాస్త్రము
-    tet: astronomia
-    tg: ахтаршиносӣ
-    tg-cyrl: астрономия
-    ti: አስትሮኖሚ
-    tk: astronomiýa
-    tl: astronomiya
-    tly: Astronomijə
-    tpi: estronomi
-    tr: gök bilimi
-    ts: Dyondzo-Tinyeleti
-    tt: астрономия
-    tt-cyrl: астрономия
-    tt-latn: astronomiä
-    udm: астрономия
-    ug: ئاسترونومىيە
-    ur: فلکیات
-    uz: astronomiya
-    vec: astronomia
-    vep: astronomii
-    vls: astronomie
-    vo: stelav
-    vro: tähetiidüs
-    wa: astronomeye
-    war: astronomiya
-    wo: saytubiddiw
-    wuu: 天文學
-    xh: iastronomi
-    xmf: ასტრონომია
-    yi: אסטראנאמיע
-    yo: ìtòràwọ̀
-    yue: 天文學
-    za: denhvwnz
-    zea: staerrekunde
-    zh-cn: 天文学
-    zh-mo: 天文學
-    zh-my: 天文學
-    zh-sg: 天文學
-    zh-tw: 天文學
-    zu: izinkanyezi
-    sje: astronomija
-    rki: နက္ခတ္တဗေဒ
-    pcm: Astronomi
+    af: sterrekunde
+    am: ሥነ ፈለክ
+    an: astronomía
+    ang: tungolcræft
+    anp: खगोल शास्त्र
+    ar: علم الفلك
+    arc: ܡܡܠܠܘܬ ܟܘܟܒܐ
+    arz: فلك
+    as: জ্যোতিৰ্বিজ্ঞান
+    ast: astronomía
+    av: астрономия
+    ay: alaxpacha yänakata
+    az: astronomiya
+    azb: آسترونومی
+    ba: астрономия
+    ban: Astronomi
+    bar: Astronomie
+    bcl: astronomiya
+    be: астраномія
+    be-tarask: астраномія
+    bew: Èlmu palak
+    bg: астрономия
+    bho: खगोलिकी
+    bi: astronomi
+    bjn: astronomi
+    blk: နက္ခတ္တဗေဒ
+    bm: dolokalan
+    bn: জ্যোতির্বিজ্ঞান
+    br: steredoniezh
+    bs: astronomija
+    btm: Astronomi
+    bxr: одон орон шудалал
+    ca: astronomia
+    cbk-zam: Astronomia
+    cdo: tiĕng-ùng
+    ce: астрономи
+    ceb: astronomiya
+    ckb: ئەستێرەناسی
+    co: astronomia
+    crh: felekiyat
+    crh-ro: felekiyat
+    cs: astronomie
+    csb: astronomijô
+    cv: астрономи
+    cy: seryddiaeth
+    da: astronomi
+    de: Astronomie
+    de-ch: Astronomie
+    din: ŋiɛ̈ckanhial
+    diq: asmênşınasiye
+    dsb: astronomija
+    dtp: Astoronomi
+    dv: ފަލަކީ އިލްމު
     dz: གནམ་རིག་
-    tok: sona mun
-    zgh: ⵜⴰⵙⵏⵉⵜⵔⵉⵜ
+    el: αστρονομία
+    eml: astronomî
+    en: astronomy
+    en-ca: astronomy
+    en-gb: astronomy
+    eo: astronomio
+    es: astronomía
+    et: astronoomia
+    eu: astronomia
+    ext: astronomia
+    fa: اخترشناسی
+    ff: Astoronomy
+    fi: tähtitiede
+    fj: maliwalala
+    fo: stjørnufrøði
+    fr: astronomie
     frp: astronomia
     frr: Stäärkunde
     fur: astronomie
@@ -324,29 +313,36 @@ dv_has_:
     gl: astronomía
     gn: mbyjakuaa
     gpe: Astronomy
+    grc: ἀστρονομία
     gsw: Astronomi
     gu: ખગોળશાસ્ત્ર
     gv: rollageydys
     hak: thiên-vùn-ho̍k
     haw: kilo hōkū
+    he: אסטרונומיה
     hi: खगोल शास्त्र
     hif: taara vigyan
+    hr: astronomija
     hsb: astronomija
     ht: astwonomi
+    hu: csillagászat
     hy: աստղագիտություն
     hyw: աստղագիտութիւն
     ia: astronomia
     iba: Astronomi
+    id: astronomi
     ie: astronomie
     ilo: astronomia
     inh: айламIилма
     io: astronomio
     is: stjörnufræði
+    it: astronomia
     iu: ᓯᓚᓯᐅᕐᓂᖅ
     ja: 天文学
     jam: aschranami
     jbo: kesyske
     jv: astronomi
+    ka: ასტრონომია
     kaa: astronomiya
     kab: tasnallunt
     kk: астрономия
@@ -354,11 +350,13 @@ dv_has_:
     km: តារាសាស្ត្រ
     kn: ಖಗೋಳಶಾಸ್ತ್ರ
     knc: Astronomy
+    ko: 천문학
     krc: астрономия
     ks: فلکِیات
     ku: stêrnasî
     kw: astronymyl
     ky: астрономия
+    la: astronomia
     lad: astronomiya
     lb: Astronomie
     lbe: цIурттал элму
@@ -381,9 +379,14 @@ dv_has_:
     mhr: астрономий
     mi: tātai arorangi
     min: astronomi
+    mk: астрономија
+    ml: ജ്യോതിഃശാസ്ത്രം
     mn: одон орон
     mni: ꯈꯦꯟꯆꯣꯡꯂꯣꯟ
     mo: астрономие ши астрофизикэ
+    mr: खगोलशास्त्र
+    ms: astronomi
+    ms-arab: استرونومي
     mt: astronomija
     mwl: astronomie
     my: နက္ခတ္တဗေဒ
@@ -391,11 +394,14 @@ dv_has_:
     nah: ilhuicamatiliztli
     nan: thian-bûn-ha̍k
     nap: astronumia
+    nb: astronomi
     nds: Astronomie
     nds-nl: steernskunde
     ne: खगोल विज्ञान
     new: खगोलशास्त्र
     nia: astronomi
+    nl: astronomie
+    nn: astronomi
     nov: astronomia
     nqo: ߛߊ߲ߡߊߛߓߍ
     nrm: astrononmie
@@ -409,110 +415,104 @@ dv_has_:
     pam: astronomiya
     pap: astronomia
     pcd: astrononmie
+    pcm: Astronomi
     pih: estronomii
     pl: astronomia
     pms: astronomìa
     pnb: فلکیات
-    da: astronomi
-    en: astronomy
-    grc: ἀστρονομία
-    eo: astronomio
-    sq: astronomi
-    et: astronoomia
-    ms: astronomi
-    nl: astronomie
-    fr: astronomie
-    la: astronomia
-    bn: জ্যোতির্বিজ্ঞান
-    de: Astronomie
-    sk: astronómia
-    ml: ജ്യോതിഃശാസ്ത്രം
-    sv: astronomi
-    eu: astronomia
-    cs: astronomie
-    nb: astronomi
-    he: אסטרונומיה
-    es: astronomía
-    hr: astronomija
-    it: astronomia
-    ms-arab: استرونومي
+    pnt: αστρονομία
+    ps: ستورپوهنه
+    pt: astronomia
+    pt-br: astronomia
+    qu: quyllur yachay
+    rki: နက္ခတ္တဗေဒ
+    rm: astronomia
+    rmy: chexanipen
+    ro: astronomie
     ru: астрономия
-    el: αστρονομία
-    nn: astronomi
-    an: astronomía
-    zh-hans: 天文学
-    fi: tähtitiede
-    hu: csillagászat
-    ca: astronomia
-    mk: астрономија
-    sl: astronomija
-    mr: खगोलशास्त्र
-    id: astronomi
-    be: астраномія
-    ar: علم الفلك
-    af: sterrekunde
-    uk: астрономія
-    zh: 天文學
-    vi: thiên văn học
+    rue: астрономія
+    rup: astronomie
+    sa: ज्योतिश्शास्त्रम्
+    sah: астрономия
+    sc: astronomia
+    scn: astronumìa
+    sco: astronomy
     sd: فلڪيات
+    se: astronomiija
+    sg: sêndâtongo
+    sgs: astruonuomėjė
+    sh: astronomija
+    shi: Tasnaggurt
+    si: තාරකා විද්යාව
+    sje: astronomija
+    sk: astronómia
+    skr: فلکیات
+    sl: astronomija
+    sm: astronomy
+    sma: astronomije
+    smj: astronomija
+    smn: täsnitieđâ
+    sms: täʹsnntiõđ
+    sn: zvechadenga
+    so: xiddigis
+    sq: astronomi
+    sr: астрономија
+    stq: Stiernkunde
+    su: astronomi
+    sv: astronomi
+    sw: astronomia
+    szl: astrōnōmijŏ
+    ta: வானியல்
+    tcy: ಖಗೋಳ ಶಾಸ್ತ್ರ
+    te: ఖగోళ శాస్త్రము
+    tet: astronomia
+    tg: ахтаршиносӣ
+    tg-cyrl: астрономия
+    th: ดาราศาสตร์
+    ti: አስትሮኖሚ
+    tk: astronomiýa
+    tl: astronomiya
+    tly: Astronomijə
+    tok: sona mun
+    tpi: estronomi
+    tr: gök bilimi
+    ts: Dyondzo-Tinyeleti
+    tt: астрономия
+    tt-cyrl: астрономия
+    tt-latn: astronomiä
+    udm: астрономия
+    ug: ئاسترونومىيە
+    uk: астрономія
+    ur: فلکیات
+    uz: astronomiya
+    vec: astronomia
+    vep: astronomii
+    vi: thiên văn học
+    vls: astronomie
+    vo: stelav
+    vro: tähetiidüs
+    wa: astronomeye
+    war: astronomiya
+    wo: saytubiddiw
+    wuu: 天文學
+    xh: iastronomi
+    xmf: ასტრონომია
+    yi: אסטראנאמיע
+    yo: ìtòràwọ̀
+    yue: 天文學
+    za: denhvwnz
+    zea: staerrekunde
+    zgh: ⵜⴰⵙⵏⵉⵜⵔⵉⵜ
+    zh: 天文學
+    zh-cn: 天文学
+    zh-hans: 天文学
     zh-hant: 天文學
     zh-hk: 天文學
-    fa: اخترشناسی
-    ka: ასტრონომია
-    ko: 천문학
-    si: තාරකා විද්යාව
-    th: ดาราศาสตร์
-    am: ሥነ ፈለክ
-    ang: tungolcræft
-    anp: खगोल शास्त्र
-    arc: ܡܡܠܠܘܬ ܟܘܟܒܐ
-    arz: فلك
-    as: জ্যোতিৰ্বিজ্ঞান
-    ast: astronomía
-    av: астрономия
-    ay: alaxpacha yänakata
-    az: astronomiya
-    azb: آسترونومی
-    ba: астрономия
-    ban: Astronomi
-    bar: Astronomie
-    bcl: astronomiya
-    be-tarask: астраномія
-    bew: Èlmu palak
-    bg: астрономия
-    bho: खगोलिकी
-    bi: astronomi
-    bjn: astronomi
-    blk: နက္ခတ္တဗေဒ
-    bm: dolokalan
-    br: steredoniezh
-    bs: astronomija
-    btm: Astronomi
-    bxr: одон орон шудалал
-    cbk-zam: Astronomia
-    cdo: tiĕng-ùng
-    ce: астрономи
-    ceb: astronomiya
-    ckb: ئەستێرەناسی
-    co: astronomia
-    crh: felekiyat
-    crh-ro: felekiyat
-    csb: astronomijô
-    cv: астрономи
-    cy: seryddiaeth
-    de-ch: Astronomie
-    din: ŋiɛ̈ckanhial
-    diq: asmênşınasiye
-    dsb: astronomija
-    dtp: Astoronomi
-    dv: ފަލަކީ އިލްމު
-    eml: astronomî
-    en-ca: astronomy
-    en-gb: astronomy
-    ext: astronomia
-    ff: Astoronomy
-    fj: maliwalala
-    fo: stjørnufrøði
+    zh-mo: 天文學
+    zh-my: 天文學
+    zh-sg: 天文學
+    zh-tw: 天文學
+    zu: izinkanyezi
 ---
 # [[Astronomy]] 
 

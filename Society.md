@@ -209,185 +209,17 @@ U_S_National_Archives_Identifier: 10641788
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_society,7112731]]'
 dv_has_:
   name_:
-    zh-tw: 社會
-    knc: Kəndaramma
-    kaa: jámiyet
-    bar: Gsööschoft
-    fy: Maatskippij
-    ga: sochaí
-    gcr: Sosyété
-    gn: Avano'õ
-    gu: સમાજ
-    guw: Lẹdo
-    hak: Sa-fi
-    haw: Hulikanaka
-    hif: Samaj
-    hsb: towaršnosć
-    hu: társadalom
-    hy: հասարակություն
-    ig: Ȯgbà
-    ilo: Kagimongan
-    io: socio
-    is: þjóðfélag
-    jam: Sasayati
-    jbo: remce'u
-    jv: Masyarakat
-    ka: საზოგადოება
-    kk: Социум
-    km: សង្គម
-    krc: Джамагъат
-    krj: katiringban
-    ks: سَماج
-    kw: Kowethas
-    ky: Коом
-    lez: КIватIал
-    lfn: Sosia
-    li: Maotsjappie
-    lld: Sozietà
-    lmo: Società
-    lo: ສັງຄົມ
-    lt: visuomenė
-    lzh: 民群
-    mad: Masyarakat
-    mdf: шяхярь
-    mg: Fiaraha-monina
-    mhr: мер
-    mk: општество
-    mn: Нийгэм
-    mni: ꯈꯨꯅꯥꯏ
-    mnw: ဂကောံမၞိဟ်
-    mwl: Sociadade
-    myv: Ломаютко
-    nan: Siā-hoē
-    nds: Gesellschop
-    ne: समाज
-    oc: societat
-    olo: Yhteskundu
-    os: æхсæнад
-    pam: Aguman
-    pap: sosiedat
-    pl: społeczeństwo
-    pms: Società
-    ps: ټولنه
-    qu: Waki
-    rue: громада
-    sah: Дьон-сэргэ
-    sc: sotziedade
-    scn: sucitati
-    sco: society
-    sd: سماج
-    sgs: Vėsuomenė
-    sh: društvo
-    shi: Amun
-    si: සමාජය
-    sma: seabradahke
-    smj: sebrudahka
-    smn: ohtsâškodde
-    sn: Chita
-    sq: shoqeri
-    sw: jamii
-    szl: społeczyństwo
-    tdd: ᥖᥨᥒᥱ ᥝᥨᥒᥰ ᥐᥨᥢᥰ
-    tg: ҷомеъа
-    tl: Lipunan
-    tly: Čəmjət
-    ts: Nhlangano wa vanhu
-    tt-cyrl: җәмгыять
-    tyv: Ниитилел
-    udm: мер
-    uk: суспільство
-    uz: Jamiyat
-    vec: sosietà
-    vi: xã hội
-    vro: Ütiskund
-    war: Katiringban
-    wuu: 社會
-    xh: Intlalo
-    xmf: ჯარალუა
-    yo: àwùjọ
-    yue: 社會
-    za: Sevei
-    zgh: ⴰⵎⵓⵏ
-    zh-hant: 社会
-    zh-hk: 社會
-    zh-mo: 社会
-    zh-my: 社会
-    zh-sg: 社会
-    de: Gesellschaft
-    en: society
-    fa: جامعه
-    ja: 社会
-    hi: समाज
-    ml: സമൂഹം
-    ur: سماج
-    ms: masyarakat
-    ms-arab: مشارکت
-    lv: sabiedrība
-    bn: সমাজ
-    pa: ਸਮਾਜ
-    pnb: سماج
-    nl: maatschappij
-    hr: društvo
-    ta: சமூகம்
-    ru: общество
-    sat: ᱥᱟᱶᱛᱟ
-    ko: 사회
-    fr: société
-    he: חברה
-    ku: civak
-    sk: spoločnosť
-    la: societas
-    sv: samhälle
-    et: ühiskond
-    it: società
-    cs: společnost
-    nb: samfunn
-    pt: sociedade
-    es: sociedad
-    da: samfund
-    id: masyarakat
-    eu: gizarte
-    nn: samfunn
-    el: κοινωνία
-    br: kevredigezh
-    ca: societat
-    te: సమాజం
-    cy: cymdeithas
-    az: cəmiyyət
-    or: ସମାଜ
-    sr: друштво
-    sl: družba
-    se: servodat
-    sms: õhttsažkåʹdd
-    tt: җәмгыять
-    vep: Kund
-    zh: 社会
-    zh-cn: 社会
-    zh-hans: 社会
-    yi: געזעלשאפט
-    ha: Al'umma
-    new: समाज
-    ht: Sosyete
-    gsw: Gesellschaft
-    lb: Gesellschaft
-    ar: مجتمع
-    kn: ಸಮಾಜ
-    ia: societate
-    th: สังคม
-    tr: toplum
-    inh: Юкъарле
-    ckb: کۆمەڵگا
-    gl: sociedade
-    pt-br: sociedade
-    ro: societate
     af: gemeenskap
     am: ኅብረተሰብ
     an: sociedat
+    ar: مجتمع
     arc: ܟܢܫܐ
     as: সমাজ
     ast: sociedá
+    az: cəmiyyət
     azb: جامیعه
     ba: Йәмғиәт
+    bar: Gsööschoft
     bcl: Sosyedad
     be: грамадства
     be-tarask: грамадзтва
@@ -395,24 +227,192 @@ dv_has_:
     bg: Общество
     bho: समाज
     bjn: Masarakat
+    bn: সমাজ
     bpy: সমাজ
+    br: kevredigezh
     bs: društvo
     btm: Masyarakat
     bxr: Ниигэм
+    ca: societat
     cdo: Siâ-huôi
     ce: Йукъаралла
     ceb: Katilingban
     chr: ᎤᎾᏙᏢᎯ
+    ckb: کۆمەڵگا
     co: sucietà
     crh: cemiyet
+    cs: společnost
     csb: spòłeczeństwò
     cv: Этем пĕрлĕхĕ
+    cy: cymdeithas
+    da: samfund
+    de: Gesellschaft
+    el: κοινωνία
+    en: society
     eo: socio
+    es: sociedad
+    et: ühiskond
+    eu: gizarte
     ext: Socieá
+    fa: جامعه
     fi: yhteiskunta
     fj: Veivukei
+    fr: société
     frp: Sociètât
     frr: Selskap
+    fy: Maatskippij
+    ga: sochaí
+    gcr: Sosyété
+    gl: sociedade
+    gn: Avano'õ
+    gsw: Gesellschaft
+    gu: સમાજ
+    guw: Lẹdo
+    ha: Al'umma
+    hak: Sa-fi
+    haw: Hulikanaka
+    he: חברה
+    hi: समाज
+    hif: Samaj
+    hr: društvo
+    hsb: towaršnosć
+    ht: Sosyete
+    hu: társadalom
+    hy: հասարակություն
+    ia: societate
+    id: masyarakat
+    ig: Ȯgbà
+    ilo: Kagimongan
+    inh: Юкъарле
+    io: socio
+    is: þjóðfélag
+    it: società
+    ja: 社会
+    jam: Sasayati
+    jbo: remce'u
+    jv: Masyarakat
+    ka: საზოგადოება
+    kaa: jámiyet
+    kk: Социум
+    km: សង្គម
+    kn: ಸಮಾಜ
+    knc: Kəndaramma
+    ko: 사회
+    krc: Джамагъат
+    krj: katiringban
+    ks: سَماج
+    ku: civak
+    kw: Kowethas
+    ky: Коом
+    la: societas
+    lb: Gesellschaft
+    lez: КIватIал
+    lfn: Sosia
+    li: Maotsjappie
+    lld: Sozietà
+    lmo: Società
+    lo: ສັງຄົມ
+    lt: visuomenė
+    lv: sabiedrība
+    lzh: 民群
+    mad: Masyarakat
+    mdf: шяхярь
+    mg: Fiaraha-monina
+    mhr: мер
+    mk: општество
+    ml: സമൂഹം
+    mn: Нийгэм
+    mni: ꯈꯨꯅꯥꯏ
+    mnw: ဂကောံမၞိဟ်
+    ms: masyarakat
+    ms-arab: مشارکت
+    mwl: Sociadade
+    myv: Ломаютко
+    nan: Siā-hoē
+    nb: samfunn
+    nds: Gesellschop
+    ne: समाज
+    new: समाज
+    nl: maatschappij
+    nn: samfunn
+    oc: societat
+    olo: Yhteskundu
+    or: ସମାଜ
+    os: æхсæнад
+    pa: ਸਮਾਜ
+    pam: Aguman
+    pap: sosiedat
+    pl: społeczeństwo
+    pms: Società
+    pnb: سماج
+    ps: ټولنه
+    pt: sociedade
+    pt-br: sociedade
+    qu: Waki
+    ro: societate
+    ru: общество
+    rue: громада
+    sah: Дьон-сэргэ
+    sat: ᱥᱟᱶᱛᱟ
+    sc: sotziedade
+    scn: sucitati
+    sco: society
+    sd: سماج
+    se: servodat
+    sgs: Vėsuomenė
+    sh: društvo
+    shi: Amun
+    si: සමාජය
+    sk: spoločnosť
+    sl: družba
+    sma: seabradahke
+    smj: sebrudahka
+    smn: ohtsâškodde
+    sms: õhttsažkåʹdd
+    sn: Chita
+    sq: shoqeri
+    sr: друштво
+    sv: samhälle
+    sw: jamii
+    szl: społeczyństwo
+    ta: சமூகம்
+    tdd: ᥖᥨᥒᥱ ᥝᥨᥒᥰ ᥐᥨᥢᥰ
+    te: సమాజం
+    tg: ҷомеъа
+    th: สังคม
+    tl: Lipunan
+    tly: Čəmjət
+    tr: toplum
+    ts: Nhlangano wa vanhu
+    tt: җәмгыять
+    tt-cyrl: җәмгыять
+    tyv: Ниитилел
+    udm: мер
+    uk: суспільство
+    ur: سماج
+    uz: Jamiyat
+    vec: sosietà
+    vep: Kund
+    vi: xã hội
+    vro: Ütiskund
+    war: Katiringban
+    wuu: 社會
+    xh: Intlalo
+    xmf: ჯარალუა
+    yi: געזעלשאפט
+    yo: àwùjọ
+    yue: 社會
+    za: Sevei
+    zgh: ⴰⵎⵓⵏ
+    zh: 社会
+    zh-cn: 社会
+    zh-hans: 社会
+    zh-hant: 社会
+    zh-hk: 社會
+    zh-mo: 社会
+    zh-my: 社会
+    zh-sg: 社会
+    zh-tw: 社會
 ---
 # [[Society]] 
 

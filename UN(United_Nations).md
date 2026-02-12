@@ -544,43 +544,6 @@ Colon_Classification: V1N4
 Libris_URI: vs686bpd13rcfvg
 dv_has_:
   name_:
-    xh: Izizwe ezimanyeneyo
-    xmf: გოართოიანაფილი ერეფიშ ორგანიზაცია
-    yi: פאראייניגטע פעלקער
-    yo: Àgbájọ Orílẹ̀-èdè Aṣòkan
-    yue: 聯合國
-    za: Lenzhozgoz
-    zgh: ⵜⵉⵎⵜⵜⴰ ⵉⵎⵓⵏⵏ
-    zh: 联合国
-    zh-cn: 联合国
-    zh-hans: 联合国
-    zh-hant: 聯合國
-    zh-hk: 聯合國
-    zh-mo: 聯合國
-    zh-my: 联合国
-    zh-sg: 联合国
-    zh-tw: 聯合國
-    zu: Amazwe Ohlangeneyo
-    sje: Ikktidam nasjuvna
-    smj: Aktidum nasjåvnå
-    mos: United Nations
-    tok: kulupu pi wan ma
-    nah: Sentik Wexteyowaltinih
-    sv: Förenta nationerna
-    ms: Pertubuhan Bangsa-Bangsa Bersatu
-    ms-arab: ڤرتوبوهن بڠسا٢ برساتو
-    fa: سازمان ملل متحد
-    tg: Созмони Милали Муттаҳид
-    ml: ഐക്യരാഷ്ട്രസഭ
-    bn: জাতিসংঘ
-    br: Aozadur ar Broadoù Unanet
-    ca: Organització de les Nacions Unides
-    de: Vereinte Nationen
-    es: Organización de las Naciones Unidas
-    fr: Organisation des Nations unies
-    en: United Nations
-    eo: Unuiĝintaj Nacioj
-    ja: 国際連合
     ab: Еидгылоу Амилаҭқәа Рорганизациа
     ace: Persjarikatan Bangsa-Bangsa
     acm: الامم المتحدة
@@ -614,12 +577,15 @@ dv_has_:
     bi: Yunaeted Nesen
     blk: ကုလသမဂ္ဂ
     bm: Duniya Kelenyatɔnba
+    bn: জাতিসংঘ
     bo: མཉམ་འབྲེལ་རྒྱལ་ཚོགས།
     bpy: জাতিসংঘ
+    br: Aozadur ar Broadoù Unanet
     bs: Ujedinjene nacije
     btm: Parsarikatan Bangso-Bangso
     bug: Asseddingenna Bangsa Bangsae
     bxr: Нэгэдэмэл Үндэһэтэнэй Байгуулга
+    ca: Organització de les Nacions Unides
     cbk-zam: Naciones Unidas
     cdo: Lièng-hăk-guók
     ce: Вовшахтоьхначу Къаьмнийн Цхьанакхетаралла
@@ -635,6 +601,7 @@ dv_has_:
     cy: Y Cenhedloedd Unedig
     da: Forenede Nationer
     dag: Tiŋgbana Naŋgban Yini Laxiŋgu
+    de: Vereinte Nationen
     diq: Mıletê Yewbiyayey
     dsb: Zjadnośone narody
     dtp: Pisompuruan Tinaru Sompomogunan
@@ -644,16 +611,21 @@ dv_has_:
     ee: Dukɔ Ƒoƒuawo
     el: Οργανισμός Ηνωμένων Εθνών
     eml: Nasiòun Unìdi
+    en: United Nations
     en-ca: United Nations
     en-gb: United Nations
     en-us: United Nations
+    eo: Unuiĝintaj Nacioj
+    es: Organización de las Naciones Unidas
     et: Ühinenud Rahvaste Organisatsioon
     eu: Nazio Batuen Erakundea
     ext: Nacionis Unias
+    fa: سازمان ملل متحد
     ff: Ngenndiije Dentuɗe
     fi: Yhdistyneet kansakunnat
     fj: Matabose Kei Vuravura
     fo: ST
+    fr: Organisation des Nations unies
     frp: Organisacion des Nacions unies
     frr: Feriand Natjuunen
     fur: Organizazion des Nazions Unidis
@@ -694,6 +666,7 @@ dv_has_:
     is: Sameinuðu þjóðirnar
     it: Organizzazione delle Nazioni Unite
     iu: ᓄᓇᕐᔪᐊᕐᒥ ᑲᑐᔾᔨᖃᑎᒌᑦ
+    ja: 国際連合
     jam: Yunaitid Nieshan
     jbo: gunma natmi
     jv: Pasarékatan Bangsa-Bangsa
@@ -742,14 +715,19 @@ dv_has_:
     mi: Kotahitanga o Ngā Iwi o te Ao
     min: Pasarikatan Banso-Banso
     mk: Обединети нации
+    ml: ഐക്യരാഷ്ട്രസഭ
     mn: Нэгдсэн Үндэстний Байгууллага
     mni: ꯃꯅꯤꯡꯇꯝꯂꯕ ꯂꯩꯄꯥꯛ
     mnw: ကုလသမဂ္ဂ
+    mos: United Nations
     mr: संयुक्त राष्ट्रे
+    ms: Pertubuhan Bangsa-Bangsa Bersatu
+    ms-arab: ڤرتوبوهن بڠسا٢ برساتو
     mt: Ġnus Magħquda
     mwl: Naciones Ounidas
     my: ကုလသမဂ္ဂ
     mzn: متحد ملل سازمان
+    nah: Sentik Wexteyowaltinih
     nan: Liân-ha̍p-kok
     nap: ONU
     nb: De forente nasjoner
@@ -808,10 +786,12 @@ dv_has_:
     shi: Tamuni n Timtta
     shn: ၸၢတ်ႈၸိုင်ႈလုမ်ႈၾႃႉ
     si: එක්සත් ජාතීන්ගේ සංවිධානය
+    sje: Ikktidam nasjuvna
     sk: Organizácia Spojených národov
     skr: اقوام متحدہ
     sl: Organizacija združenih narodov
     sm: Malo Aufaatasi
+    smj: Aktidum nasjåvnå
     smn: Ovtâstum aalmugeh
     sms: Õhttõõvvâm meerkååʹdd
     sn: Mubatanidzwa weNyika Pasirose
@@ -825,6 +805,7 @@ dv_has_:
     st: Machaba A Kopaneng
     stq: Fereende Natione
     su: Perserikatan Bangsa-Bangsa
+    sv: Förenta nationerna
     sw: Umoja wa Mataifa
     syl: ꠄꠇꠣꠐ꠆ꠐꠣ ꠎꠣꠔꠤꠘ
     szl: Ôrganizacyjŏ Zjydnoczōnych Nacyjōw
@@ -834,6 +815,7 @@ dv_has_:
     tcy: ವಿಶ್ವ ಸ೦ಸ್ಟೆ
     te: ఐక్యరాజ్య సమితి
     tet: Nasoens Unidas
+    tg: Созмони Милали Муттаҳид
     tg-cyrl: Созмони Милали Муттаҳид
     th: สหประชาชาติ
     ti: ሕቡራት ሃገራት
@@ -842,6 +824,7 @@ dv_has_:
     tly: Ikardə byə Milləton Təškilot
     tn: Ditšhaba Tse di Kopaneng
     to: Ngaahi Puleʻanga Fakatahatahá
+    tok: kulupu pi wan ma
     tpi: Yunaitet Nesen
     tr: Birleşmiş Milletler
     trv: Reynhekwo
@@ -866,6 +849,23 @@ dv_has_:
     war: Nagkaurusa nga mga Nasod
     wo: Kureelu Mbootayu Xeet yi
     wuu: 联合国
+    xh: Izizwe ezimanyeneyo
+    xmf: გოართოიანაფილი ერეფიშ ორგანიზაცია
+    yi: פאראייניגטע פעלקער
+    yo: Àgbájọ Orílẹ̀-èdè Aṣòkan
+    yue: 聯合國
+    za: Lenzhozgoz
+    zgh: ⵜⵉⵎⵜⵜⴰ ⵉⵎⵓⵏⵏ
+    zh: 联合国
+    zh-cn: 联合国
+    zh-hans: 联合国
+    zh-hant: 聯合國
+    zh-hk: 聯合國
+    zh-mo: 聯合國
+    zh-my: 联合国
+    zh-sg: 联合国
+    zh-tw: 聯合國
+    zu: Amazwe Ohlangeneyo
 ---
 # [[UN(United_Nations)]] 
 

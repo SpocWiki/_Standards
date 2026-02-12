@@ -342,46 +342,153 @@ has_time_started:
 lang: en
 dv_has_:
   name_:
-    anp: भाषा
+    ace: bahsa
+    af: taal
+    alt: тил
+    am: ቋንቋ
     ami: sowal
-    gld: хэсэ
-    btm: saro
-    trv: kari
-    hyw: լեզու
-    kge: bahasa
-    fat: kasa
-    ve: luambo
+    an: luengache
+    ang: sprǣc
+    anp: भाषा
+    ar: لغة
+    arc: ܠܫܢܐ
+    arn: zungun
+    ary: لوغة
+    arz: لغه
+    as: ভাষা
+    ast: llinguaxe
+    av: мацӀ
+    awa: भाषा
+    ay: aru
+    az: dil
+    azb: دیل
+    ba: тел
+    ban: basa
+    bar: Sproch
+    bbc: Hata
+    bcl: tataramon
+    be: мова
+    be-tarask: мова
+    bew: Basa
+    bg: език
+    bho: भाषा
     bi: langwis
+    bjn: bapandir
+    blk: ဘာႏသာႏငဝ်းငွါ
+    bm: kan
+    bn: ভাষা
+    bo: སྐད་རིགས།
+    br: yezh
+    brh: bolí
+    bs: jezik
+    btm: saro
+    bxr: хэлэн
+    ca: llenguatge
+    cbk-zam: lenguaje
+    cdo: ngṳ̄-ngiòng
+    ce: мотт
+    ceb: pinulongan
+    ch: lengguahe
+    chr: ᎦᏬᏂᎯᏍᏗ
+    ckb: زمان
+    co: linguaghju
+    crh: til
+    cs: jazyk
+    csb: jãzëk
+    cu: ѩꙁꙑкъ
+    cv: чĕлхе
+    cy: iaith
+    da: sprog
+    dag: balli
+    de: Sprache
+    de-ch: Sprache
+    diq: zıwan
+    dty: भाषा
+    dv: ބަސް
+    dz: སྐད་ཡིག།
+    el: γλώσσα
+    eml: langua
+    en: language
+    eo: lingvo
+    es: lenguaje
+    et: keel
+    eu: hizkuntza
+    ext: lenguagi
+    fa: زبان
+    fat: kasa
+    ff: ɗemngal
+    fi: kieli
+    fj: vosa
+    fo: mál
+    fr: langage
+    frp: lengoua
     frr: spräke
     fur: lengaç
+    fy: taal
+    ga: teanga
     gan: 語言
     gcr: lanng
+    gd: cànan
     gl: linguaxe
+    gld: хэсэ
     glk: زوان
     gn: ñe'ẽ
     gom: भास आनी भासविज्ञान
     gor: bahasa
     got: "\U00010342\U00010330\U00010336\U00010333\U00010330"
+    gpe: language
+    grc: γλῶσσα
     gsw: Sproch
+    gu: ભાષા
     gv: çhengey
+    ha: harshe
     hak: ngî-ngièn
+    he: שפה
+    hi: भाषा
     hif: bhasa
+    hr: jezik
+    ht: lang
+    hu: nyelv
+    hy: լեզու
+    hyw: լեզու
     ia: linguage
+    iba: jaku
+    id: bahasa
+    ie: lingue
+    ig: asụsụ
     ik: uqautchit
+    ilo: pagsasao
     inh: мотт
+    io: linguo
+    is: tungumál
+    it: linguaggio
+    ja: 言語
     jam: languij
     jbo: lo bangu
+    jv: basa
+    ka: ენა
+    kaa: til
     kab: tutlayt
+    kcg: a̱lyem
+    kg: ndinga
+    kge: bahasa
     kk: тіл
     kl: oqaatsit
     km: ភាសា
+    kn: ಭಾಷೆ
+    ko: 언어
     koi: кыв
     krc: тил
+    ks: زَبان
     ksh: Sprooch
+    ku: ziman
     ku-latn: ziman
+    kv: кыв
     kw: yeth
     ky: тил
+    la: lingua
     lad: linguaje
+    lb: Sprooch
     lbe: маз
     lez: чӏал
     lfn: lingua
@@ -390,268 +497,161 @@ dv_has_:
     lmo: idioma
     ln: lokótá
     lo: ພາສາ
+    lt: kalba
     ltg: volūda
+    lv: valoda
+    lzh: 語言
     mad: bhâsa
     mai: भाषा
+    map-bms: basa
     mdf: кяль
+    mg: fiteny
+    mhr: йылме
+    min: bahaso
+    mk: јазик
+    ml: ഭാഷ
+    mn: хэл
     mni: ꯂꯣꯜ
+    mr: भाषा
+    ms: bahasa
+    ms-arab: بهاس
+    mt: lingwa
+    my: ဘာသာစကား
     myv: кель
+    mzn: زوون
     nah: tlahtōlli
+    nan: gí-giân
     nap: lengua
+    nb: språk
+    nds: Spraak
     nds-nl: taol
+    ne: भाषा
+    new: भाषा
+    nia: li
+    nl: taal
+    nn: språk
+    nov: lingue
+    nqo: ߞߊ߲
     nrm: laungue
     oc: lengatge
+    or: ଭାଷା
     os: æвзаг
+    pa: ਭਾਸ਼ਾ
     pag: salitan
     pam: amanu
+    pap: idioma
     pcd: langache
     pdc: Schprooch
     pi: भाषा
+    pih: laenghwij
+    pl: język
     pms: lengagi
+    pnb: زبان
+    ps: ژبه
+    pt: linguagem
     pt-br: linguagem
+    pwn: kai
     qu: rimay
     rki: ဘာသာစကား
     rm: lingua
+    rmf: tšimb
     rmy: chhib
+    ro: limbă
+    ru: язык
     rue: язык
     rup: limba
     ryu: 言葉
+    sa: भाषा
     sah: тыл
+    sat: ᱯᱟᱹᱨᱥᱤ
     sc: limbas
+    scn: lingua
+    sco: leid
+    sd: ٻولي
+    se: giella
     sg: yângâködörö
     sgs: kalba
+    sh: jezik
     shi: tutlayt
+    shn: ၽႃႇသႃႇ
+    si: භාෂාව
+    sjd: кӣлл
+    sje: giella
+    sju: giälla
+    sk: jazyk
+    skr: زبان
+    sl: jezik
     sm: gagana
+    sma: gïele
+    smj: giella
+    smn: kielâ
+    sms: ǩiõll
     sn: mutauro
     so: luuqad
+    sq: gjuha
     sr: језик
+    sr-ec: језик
+    sr-el: jezik
     srn: tongo
     st: dipuo
     stq: Sproake
+    su: basa
+    sv: språk
+    sw: lugha
+    syl: ꠝꠣꠔ
+    szl: gŏdka
     szy: kamu
+    ta: மொழி
     tcy: ಭಾಷೆ
+    te: భాష
+    tg: забон
     tg-cyrl: забон
+    th: ภาษา
     tk: dil
+    tl: wika
     tly: zıvon
+    tok: toki
     tpi: tokples
+    tr: dil
+    trv: kari
     ts: ririmi
+    tt: тел
+    tt-cyrl: тел
+    tt-latn: tel
+    tw: kasa
     udm: кыл
     ug: تىل
+    uk: мова
     ur: لسان
     uz: til
+    ve: luambo
     vec: lenguajo
+    vep: kel'
+    vi: ngôn ngữ
     vmf: Sproach
+    vo: pük
     vro: keeleq
     wa: lingaedje
     war: yinaknan
     wo: kàllaama
     wuu: 言话
     xh: ulwimi
+    xmf: ნინა
+    yi: שפראך
+    yo: èdè
+    yue: 語言
+    za: vah
     zea: taele
     zgh: ⵜⴰⵎⵙⵍⴰⵢⵜ
-    zu: izilimi
-    kaa: til
-    sju: giälla
-    en: language
-    kv: кыв
-    my: ဘာသာစကား
-    hi: भाषा
-    pnb: زبان
-    mn: хэл
-    grc: γλῶσσα
-    bjn: bapandir
-    de: Sprache
-    it: linguaggio
-    fa: زبان
-    tr: dil
-    br: yezh
-    nan: gí-giân
-    ta: மொழி
-    da: sprog
-    gd: cànan
-    id: bahasa
-    ja: 言語
-    ms: bahasa
-    nia: li
-    nl: taal
-    sq: gjuha
-    bcl: tataramon
-    tl: wika
-    ru: язык
-    fr: langage
-    ku: ziman
-    se: giella
-    he: שפה
-    tok: toki
-    sw: lugha
-    fi: kieli
-    sv: språk
-    sk: jazyk
-    la: lingua
-    vi: ngôn ngữ
-    ml: ഭാഷ
-    ko: 언어
-    zh-tw: 語言
-    ms-arab: بهاس
-    et: keel
-    cs: jazyk
-    eo: lingvo
-    pwn: kai
-    lv: valoda
-    pt: linguagem
-    smn: kielâ
-    sms: ǩiõll
-    mt: lingwa
-    nb: språk
-    eu: hizkuntza
-    ha: harshe
-    ig: asụsụ
-    bg: език
-    es: lenguaje
-    bn: ভাষা
-    hr: jezik
-    pl: język
-    dag: balli
-    an: luengache
-    pa: ਭਾਸ਼ਾ
-    tw: kasa
-    ff: ɗemngal
-    uk: мова
-    nn: språk
-    tg: забон
-    as: ভাষা
-    gu: ભાષા
-    kn: ಭಾಷೆ
-    mr: भाषा
-    ne: भाषा
-    new: भाषा
-    or: ଭାଷା
-    sa: भाषा
-    si: භාෂාව
-    te: భాష
-    skr: زبان
-    el: γλώσσα
-    hu: nyelv
-    ka: ენა
-    ba: тел
-    be-tarask: мова
-    tt: тел
-    tt-cyrl: тел
-    tt-latn: tel
-    ca: llenguatge
-    gpe: language
-    kcg: a̱lyem
-    mzn: زوون
-    nqo: ߞߊ߲
-    sat: ᱯᱟᱹᱨᱥᱤ
-    fo: mál
-    ar: لغة
-    be: мова
-    ce: мотт
-    ckb: زمان
-    hy: լեզու
-    io: linguo
-    mhr: йылме
-    rmf: tšimb
-    scn: lingua
-    sh: jezik
-    sjd: кӣлл
-    sl: jezik
-    sma: gïele
-    smj: giella
-    sr-ec: језик
-    sr-el: jezik
-    yi: שפראך
     zh: 语言
-    cy: iaith
-    fy: taal
-    zh-hant: 語言
-    ceb: pinulongan
-    ga: teanga
-    ace: bahsa
-    af: taal
-    bs: jezik
-    de-ch: Sprache
-    eml: langua
-    frp: lengoua
-    is: tungumál
-    jv: basa
-    kg: ndinga
-    lb: Sprooch
-    lt: kalba
-    lzh: 語言
-    mg: fiteny
-    min: bahaso
-    mk: јазик
-    nds: Spraak
-    ro: limbă
-    sje: giella
-    su: basa
-    yue: 語言
     zh-cn: 语言
     zh-hans: 语言
+    zh-hant: 語言
     zh-hk: 語言
     zh-mo: 語言
     zh-sg: 语言
-    pap: idioma
-    vo: pük
-    arc: ܠܫܢܐ
-    xmf: ნინა
-    ie: lingue
-    nov: lingue
-    iba: jaku
-    ps: ژبه
-    ilo: pagsasao
-    bar: Sproch
-    ks: زَبان
-    sco: leid
-    ang: sprǣc
-    am: ቋንቋ
-    cu: ѩꙁꙑкъ
-    ht: lang
-    pih: laenghwij
-    sd: ٻولي
-    szl: gŏdka
-    syl: ꠝꠣꠔ
-    arn: zungun
-    yo: èdè
-    shn: ၽႃႇသႃႇ
-    vep: kel'
-    za: vah
-    th: ภาษา
-    map-bms: basa
-    arz: لغه
-    alt: тил
-    ary: لوغة
-    ast: llinguaxe
-    av: мацӀ
-    awa: भाषा
-    ay: aru
-    az: dil
-    azb: دیل
-    ban: basa
-    bbc: Hata
-    bew: Basa
-    bho: भाषा
-    blk: ဘာႏသာႏငဝ်းငွါ
-    bm: kan
-    bo: སྐད་རིགས།
-    brh: bolí
-    bxr: хэлэн
-    cbk-zam: lenguaje
-    cdo: ngṳ̄-ngiòng
-    ch: lengguahe
-    chr: ᎦᏬᏂᎯᏍᏗ
-    co: linguaghju
-    crh: til
-    csb: jãzëk
-    cv: чĕлхе
-    diq: zıwan
-    dty: भाषा
-    dv: ބަސް
-    dz: སྐད་ཡིག།
-    ext: lenguagi
-    fj: vosa
+    zh-tw: 語言
+    zu: izilimi
 ---
 # [[Language]] 
 

@@ -228,135 +228,86 @@ dv_is_same_as:
 - '[[/_secret/Astronomy/Astronomical_Object.secret|Astronomical_Object.secret]]'
 dv_has_:
   name_:
-    pt-br: corpo celeste
-    qu: hanan pacha pachanka
-    ro: corp ceresc
-    sat: ᱮᱸᱜᱮᱞ ᱟᱨ ᱤᱯᱤᱞ ᱠᱚ
-    scn: corpu cilesti
-    se: almmigáhppálat
-    sh: небеско тело
-    si: අභ්යවකාශ වස්තු
-    skr: اجرام فلکی
-    sl: astronomsko telo
-    smn: almepittá
-    sms: âʹlmmkäpplõk
-    sq: objekt astronomik
-    sw: gimba la angani
-    szl: astrōnōmiczny ôbiekt
-    ta: வானியல்சார் பொருள்
-    te: ఖగోళ వస్తువు
-    tg: ҷирми кайҳонӣ
-    th: เทห์ฟ้า
-    tk: asman jisimleri
-    tr: astronomik cisimler
-    tt: астрономик җисем
-    tt-cyrl: астрономик җисем
-    ur: اجرام فلکی
-    uz: astronomik obyekt
-    vec: ojeto astronòmego
-    vls: Hemellichoam
-    wa: coir ciryin
-    war: langitnon nga butang
-    wuu: 天体
-    xmf: ასტრონომიული ობიექტი
-    yue: 天體
-    zh-cn: 天体
-    zh-hant: 天體
-    zh-hk: 天體
-    zh-tw: 天體
-    gv: red rollageydagh
-    da: himmellegeme
-    it: oggetto celeste
-    tok: mun
-    nn: himmellekam
-    fi: taivaankappale
-    et: taevakeha
-    sk: astronomický objekt
-    pt: corpo celeste
-    ml: ഖഗോളവസ്തു
-    eu: argizagi
-    en: astronomical object
-    sv: himlakropp
-    de: astronomisches Objekt
-    cs: astronomický objekt
-    es: objeto astronómico
-    gl: obxecto astronómico
-    hu: égitest
-    ja: 天体
-    nl: hemellichaam
-    ko: 천체
-    fr: objet céleste
-    ar: جرم فلكي
-    uk: астрономічний об'єкт
-    szy: bunac
-    el: ουράνιο σώμα
-    ga: rinn neimhe
-    ca: objecte astronòmic
-    ru: астрономический объект
-    eo: astro
-    lzh: 星辰
-    lb: Himmelskierper
-    hi: खगोलीय वस्तु
-    be-tarask: астранамічны аб’ект
-    zh: 天体
-    nb: himmellegeme
-    oc: objècte astronomic
-    sr: небеско тело
-    sr-ec: небеско тело
-    sr-el: nebesko telo
-    gn: yvága mba'e
-    lv: astronomisks objekts
-    vi: thiên thể
-    mag: खगोलीय वस्तु
-    zh-hans: 天体
     af: hemelliggaam
     am: ሠማያዊ አካላት
+    ar: جرم فلكي
     ast: oxetu astronómicu
     az: astronomik cisimlər
     ba: астрономик есем
     be: астранамічны аб'ект
+    be-tarask: астранамічны аб’ект
     bg: астрономически обект
     bn: জ্যোতির্বৈজ্ঞানিক বস্তু
     br: korf-egor
     bs: astronomski objekt
+    ca: objecte astronòmic
     ckb: تەنی ئاسمانی
+    cs: astronomický objekt
     cu: нєбєсьно свѣтило
     cv: астрономири объект
     cy: gwrthrych seryddol
+    da: himmellegeme
+    de: astronomisches Objekt
     de-at: astronomisches Objekt
     de-ch: astronomisches Objekt
     dsb: astronomiski objekt
+    el: ουράνιο σώμα
+    en: astronomical object
     en-ca: astronomical object
     en-gb: astronomical object
+    eo: astro
+    es: objeto astronómico
+    et: taevakeha
+    eu: argizagi
     fa: جرم آسمانی
+    fi: taivaankappale
+    fr: objet céleste
     fy: Himellichem
+    ga: rinn neimhe
+    gl: obxecto astronómico
+    gn: yvága mba'e
     gsw: Himmelskörper
+    gv: red rollageydagh
     he: גרם שמיים
+    hi: खगोलीय वस्तु
     hr: nebesko tijelo
+    hu: égitest
     hy: աստղագիտական մարմին
     ia: objecto astronomic
     id: objek astronomis
     io: astro
     is: stjarnfræðilegt fyrirbæri
+    it: oggetto celeste
     iu: ᐅᓪᓗᒋᐊᒃ
+    ja: 天体
     jbo: astro
     ka: ციური სხეული
     kab: tafekka tagnnawt
+    ko: 천체
     ks: نَبٕنؠ دؠہ
     la: corpus caeleste
+    lb: Himmelskierper
     li: Hieëmellichaam
     ln: monzɔ́tɔ
     lt: astronominis objektas
+    lv: astronomisks objekts
+    lzh: 星辰
+    mag: खगोलीय वस्तु
     mg: zavatra ara-kainkintana
     mhr: астрономический объект
     mk: небесно тело
+    ml: ഖഗോളവസ്തു
     mn: астрономийн объект
     mr: खगोलीय वस्तू
     ms: objek astronomi
     ms-arab: اوبجيک استرونومي
     nan: thian-thé
+    nb: himmellegeme
     ne: खगोलीय वस्तु
+    nl: hemellichaam
+    nn: himmellekam
     nqo: ߛߊ߲ߡߊߛߓߍ ߝߋ߲ ߘߏ߫
+    oc: objècte astronomic
     om: qaamolee samii
     os: астрономон объект
     pa: ਖਗੋਲੀ ਚੀਜ਼
@@ -365,6 +316,55 @@ dv_has_:
     pl: ciało niebieskie
     pnb: اجرام فلکی
     ps: نجومي شی
+    pt: corpo celeste
+    pt-br: corpo celeste
+    qu: hanan pacha pachanka
+    ro: corp ceresc
+    ru: астрономический объект
+    sat: ᱮᱸᱜᱮᱞ ᱟᱨ ᱤᱯᱤᱞ ᱠᱚ
+    scn: corpu cilesti
+    se: almmigáhppálat
+    sh: небеско тело
+    si: අභ්යවකාශ වස්තු
+    sk: astronomický objekt
+    skr: اجرام فلکی
+    sl: astronomsko telo
+    smn: almepittá
+    sms: âʹlmmkäpplõk
+    sq: objekt astronomik
+    sr: небеско тело
+    sr-ec: небеско тело
+    sr-el: nebesko telo
+    sv: himlakropp
+    sw: gimba la angani
+    szl: astrōnōmiczny ôbiekt
+    szy: bunac
+    ta: வானியல்சார் பொருள்
+    te: ఖగోళ వస్తువు
+    tg: ҷирми кайҳонӣ
+    th: เทห์ฟ้า
+    tk: asman jisimleri
+    tok: mun
+    tr: astronomik cisimler
+    tt: астрономик җисем
+    tt-cyrl: астрономик җисем
+    uk: астрономічний об'єкт
+    ur: اجرام فلکی
+    uz: astronomik obyekt
+    vec: ojeto astronòmego
+    vi: thiên thể
+    vls: Hemellichoam
+    wa: coir ciryin
+    war: langitnon nga butang
+    wuu: 天体
+    xmf: ასტრონომიული ობიექტი
+    yue: 天體
+    zh: 天体
+    zh-cn: 天体
+    zh-hans: 天体
+    zh-hant: 天體
+    zh-hk: 天體
+    zh-tw: 天體
 ---
 # [[Astronomical_Object]] 
 

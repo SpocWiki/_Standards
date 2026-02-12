@@ -71,15 +71,6 @@ dv_is_same_as:
 - '[[/_secret/Astronomy/Astrometry.secret|Astrometry.secret]]'
 dv_has_:
   name_:
-    it: astrometria
-    sq: astronomi
-    de: Astrometrie
-    en: astrometry
-    cs: astrometrie
-    nb: astrometri
-    fa: اخترسنجی
-    he: אסטרומטריה
-    nn: astrometri
     af: Astrometrie
     ar: علم القياسات الفلكية
     ast: Astrometría
@@ -90,19 +81,25 @@ dv_has_:
     bn: জ্যোতির্মিতি
     ca: astrometria
     cdo: Tiĕng-ùng Cháik-liòng-hŏk
+    cs: astrometrie
     cv: Астрометри
     da: astrometri
+    de: Astrometrie
     de-ch: Astrometrie
     el: Αστρομετρία
+    en: astrometry
     en-ca: Astrometry
     en-gb: astrometry
     eo: astrometrio
     es: astrometría
     et: Astromeetria
     eu: astrometria
+    fa: اخترسنجی
     fi: Astrometria
     fr: astrométrie
     ga: réaltmhéadracht
+    gl: astrometría
+    he: אסטרומטריה
     hi: खगोलमिति
     hr: Astrometrija
     hu: asztrometria
@@ -110,6 +107,7 @@ dv_has_:
     ia: Astrometria
     id: Astrometri
     ig: Nkà mmụta mbara igwe
+    it: astrometria
     ja: 位置天文学
     kk: Астрометрия
     ko: 위치천문학
@@ -120,16 +118,20 @@ dv_has_:
     lv: astrometrija
     mk: астрометрија
     ms: Astrometri
+    nb: astrometri
     nl: astrometrie
+    nn: astrometri
     oc: Astrometria
     pl: astrometria
     pt: astrometria
     pt-br: Astrometria
+    ro: astrometrie
     ru: астрометрия
     rue: Астрометрия
     sh: Astrometrija
     sk: Astrometria
     sl: astrometrija
+    sq: astronomi
     sr: астрометрија
     sr-ec: Астрометрија
     sr-el: Astrometrija
@@ -154,8 +156,6 @@ dv_has_:
     zh-hk: 天文測量學
     zh-sg: 天体测量学
     zh-tw: 天文測量學
-    gl: astrometría
-    ro: astrometrie
 ---
 # [[Astrometry]] 
 

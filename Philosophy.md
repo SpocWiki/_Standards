@@ -247,7 +247,75 @@ U_S_National_Archives_Identifier: 10642509
 WordLift_URL: http://data.thenextweb.com/tnw/entity/philosophy
 dv_has_:
   name_:
+    ace: kalam
+    af: filosofie
+    am: ፍልስፍና
+    an: filosofía
+    ang: ūðwitegung
+    anp: दर्शन
+    ar: فلسفة
+    ary: لفلسفة
+    arz: فلسفه
+    as: দৰ্শন
+    ast: filosofía
+    av: философия
+    avk: trakopa
+    awa: दर्शन
+    ay: lup'intawi
+    az: fəlsəfə
+    azb: فلسفه
+    ba: фәлсәфә
+    ban: filsafat
+    bar: Philosophie
+    bcl: pilosopiya
+    be: філасофія
+    be-tarask: філязофія
+    bew: pilsapat
+    bg: философия
+    bho: दर्शन
+    bi: filosofi
+    bjn: Pilsapat
+    blk: သဘာဝတ္ထဗေဒ
+    bn: দর্শন
+    bo: མཚན་ཉིད་རིག་པ།
+    br: prederouriezh
+    bs: filozofija
+    btm: filsafat
+    bxr: гүн ухаан
+    ca: filosofia
+    cdo: diék-hŏk
+    ce: философи
+    ceb: pilosopiya
+    chr: ᎤᏬᎳᏨᎯ
+    ckb: فەلسەفە
+    co: filosofia
+    crh: felsefe
+    cs: filozofie
+    csb: filozofijô
+    cu: Философія
+    cv: философи
+    cy: athroniaeth
+    da: filosofi
+    de: Philosophie
+    diq: felsefe
+    dtp: Falsafah
+    dty: दर्शन
+    el: φιλοσοφία
+    eml: filosofî
+    en: philosophy
+    en-ca: philosophy
+    en-gb: philosophy
+    en-us: philosophy
+    eo: filozofio
+    es: filosofía
+    et: filosoofia
+    eu: filosofia
+    ext: filosofia
+    fa: فلسفه
+    fi: filosofia
+    fj: filosofi
     fo: heimspeki
+    fr: philosophie
     frp: filosofia
     frr: fiilosofii
     fur: filosofie
@@ -260,26 +328,32 @@ dv_has_:
     gn: arandupykuaaty
     got: "\U00010346\U00010342\U00010349\U00010333\U00010330\U0001033B\U0001033F\U00010331\U00010349"
     gpe: philosophy
+    grc: φιλοσοφία
     gsw: Filosofii
     guc: piloosopia
     gv: fallsoonys
     ha: falsafa
     hak: chet-ho̍k
+    he: פילוסופיה
     hi: दर्शनशास्त्र
     hif: philosophy
     hr: filozofija
     hsb: filozofija
     ht: filozofi
     hu: filozófia
+    hy: փիլիսոփայություն
     hyw: փիլիսոփայութիւն
     ia: philosophia
+    id: filsafat
     ie: filosofie
     ig: ákọ na uche
     ilo: pilosopia
     inh: философи
     io: filozofio
     is: heimspeki
+    it: filosofia
     iu: ᐃᓱᒪᓕᐅᕐᓂᖅ
+    ja: 哲学
     jam: filasafi
     jbo: pijyske
     jv: filsafat
@@ -292,11 +366,13 @@ dv_has_:
     kl: inuunerup isumalerineq
     km: ទស្សនវិជ្ជា
     kn: ತತ್ತ್ವಶಾಸ್ತ್ರ
+    ko: 철학
     ks: فَلاسفی
     ku: felsefe
     ku-latn: felsefe
     kw: filosofieth
     ky: философия
+    la: philosophia
     lad: filosofía
     lb: Philosophie
     lez: философия
@@ -315,11 +391,17 @@ dv_has_:
     mag: दर्शन
     mai: दर्शन
     mcn: fílòsófítà
+    mg: filôzôfia
     mhr: философий
     mi: rapunga whakaaro
     min: filsafat
     mk: филозофија
+    ml: തത്ത്വശാസ്ത്രം
+    mn: философи
     mni: ꯋꯥꯡꯎꯂꯣꯟ
+    mr: तत्त्वज्ञान
+    ms: falsafah
+    ms-arab: فلسفه
     mt: il-filosofija
     mwl: filosofie
     my: သဘာဝတ္ထဗေဒ
@@ -327,10 +409,14 @@ dv_has_:
     mzn: فلسفه
     nah: tlazohmatiliztli
     nan: tiat-ha̍k
+    nb: filosofi
     nds: Philosophie
     nds-nl: filesefie
     ne: दर्शन
+    new: दर्शन
     nia: filosofi
+    nl: filosofie
+    nn: filosofi
     nov: filosofia
     nqo: ߥߘߋ߬ߥߘߋ߬ߟߌ
     nrm: philosophie
@@ -344,14 +430,18 @@ dv_has_:
     pcd: filosofie
     pcm: filosofi
     pfl: Philosophie
+    pl: filozofia
     pms: filosofìa
     pnb: فلاسفی
     pnt: φιλοσοφία
+    ps: فلسفه
+    pt: filosofia
     pt-br: filosofia
     qu: yachay wayllukuy
     rki: ဖီလိုဆိုဖီ
     rm: filosofia
     ro: filozofie
+    ru: философия
     rue: філозофія
     rup: filosofia
     rw: filozofi
@@ -364,9 +454,13 @@ dv_has_:
     se: filosofiija
     sg: sêndândarä
     sgs: filosuopėjė
+    sh: filozofija
     shi: taflsuft
+    shn: ၾလေႃႇသေႃႇၾီႇ
     si: දර්ශනය
+    sk: filozofia
     skr: فلسفہ
+    sl: filozofija
     sma: filosofije
     smj: filosofija
     smn: filosofia
@@ -374,11 +468,13 @@ dv_has_:
     sn: bangaungwaru
     so: filasoof
     sq: filozofi
+    sr: филозофија
     sr-ec: филозофија
     srn: sabi fu denki
     st: filosofi
     stq: Philosophie
     su: filsafat
+    sv: filosofi
     sw: falsafa
     szl: filozofijŏ
     ta: மெய்யியல்
@@ -387,10 +483,12 @@ dv_has_:
     tg: фалсафа
     tg-cyrl: фалсафа
     th: ปรัชญา
+    ti: ፍልስፍና
     tk: pelsepe
     tl: pilosopiya
     tly: Fəlsəfə
     tpi: pilosopi
+    tr: felsefe
     ts: filosofi
     tt: фәлсәфә
     tt-cyrl: фәлсәфә
@@ -417,115 +515,17 @@ dv_has_:
     yue: 哲學
     za: cwzyoz
     zea: filosofie
+    zgh: ⵜⴰⴼⵍⵙⴰⴼⵜ
+    zh: 哲學
     zh-cn: 哲学
+    zh-hans: 哲学
+    zh-hant: 哲學
     zh-hk: 哲學
     zh-mo: 哲學
     zh-my: 哲学
     zh-sg: 哲学
-    zu: ifilosofi
-    ti: ፍልስፍና
-    zgh: ⵜⴰⴼⵍⵙⴰⴼⵜ
-    shn: ၾလေႃႇသေႃႇၾီႇ
-    an: filosofía
-    en: philosophy
-    grc: φιλοσοφία
-    br: prederouriezh
-    fr: philosophie
-    id: filsafat
-    ja: 哲学
     zh-tw: 哲學
-    tr: felsefe
-    it: filosofia
-    ru: философия
-    mn: философи
-    zh-hans: 哲学
-    zh-hant: 哲學
-    de: Philosophie
-    nl: filosofie
-    he: פילוסופיה
-    sk: filozofia
-    sv: filosofi
-    la: philosophia
-    bn: দর্শন
-    et: filosoofia
-    ml: തത്ത്വശാസ്ത്രം
-    ms: falsafah
-    ms-arab: فلسفه
-    nn: filosofi
-    nb: filosofi
-    pt: filosofia
-    es: filosofía
-    eu: filosofia
-    da: filosofi
-    el: φιλοσοφία
-    sl: filozofija
-    zh: 哲學
-    sr: филозофија
-    ko: 철학
-    pl: filozofia
-    fa: فلسفه
-    sh: filozofija
-    bar: Philosophie
-    cs: filozofie
-    eo: filozofio
-    mg: filôzôfia
-    fi: filosofia
-    cv: философи
-    ar: فلسفة
-    ast: filosofía
-    new: दर्शन
-    ca: filosofia
-    ps: فلسفه
-    hy: փիլիսոփայություն
-    as: দৰ্শন
-    mr: तत्त्वज्ञान
-    bho: दर्शन
-    azb: فلسفه
-    ace: kalam
-    af: filosofie
-    am: ፍልስፍና
-    ang: ūðwitegung
-    anp: दर्शन
-    ary: لفلسفة
-    arz: فلسفه
-    av: философия
-    avk: trakopa
-    awa: दर्शन
-    ay: lup'intawi
-    az: fəlsəfə
-    ba: фәлсәфә
-    ban: filsafat
-    bcl: pilosopiya
-    be: філасофія
-    be-tarask: філязофія
-    bew: pilsapat
-    bg: философия
-    bi: filosofi
-    bjn: Pilsapat
-    blk: သဘာဝတ္ထဗေဒ
-    bo: མཚན་ཉིད་རིག་པ།
-    bs: filozofija
-    btm: filsafat
-    bxr: гүн ухаан
-    cdo: diék-hŏk
-    ce: философи
-    ceb: pilosopiya
-    chr: ᎤᏬᎳᏨᎯ
-    ckb: فەلسەفە
-    co: filosofia
-    crh: felsefe
-    csb: filozofijô
-    cu: Философія
-    cy: athroniaeth
-    diq: felsefe
-    dtp: Falsafah
-    dty: दर्शन
-    eml: filosofî
-    en-ca: philosophy
-    en-gb: philosophy
-    en-us: philosophy
-    ext: filosofia
-    fj: filosofi
+    zu: ifilosofi
 ---
 # [[Philosophy]] 
 

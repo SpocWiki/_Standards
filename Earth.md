@@ -618,147 +618,347 @@ hashtag_:
 - earth_(planet)
 dv_has_:
   name_:
-    nl: Aarde
-    en: Earth
-    de: Erde
-    pnb: زمین
-    ur: زمین
-    ml: ഭൂമി
-    da: Jorden
-    fa: زمین
-    ff: Leydi
-    tg: замин
-    hi: पृथ्वी
-    ks: زٔمیٖن
-    bn: পৃথিবী
-    dga: Andonɛɛ
-    zh: 地球
-    br: Douar
-    pl: Ziemia
-    en-us: Earth
-    tok: ma
-    cy: y Ddaear
-    es: Tierra
-    sv: jorden
-    ru: Земля
-    sk: Zem
-    it: Terra
-    ms: Bumi
-    ms-arab: بومي
-    nb: jorda
-    ja: 地球
-    eo: Tero
-    cs: Země
-    be: Зямля
-    he: כדור הארץ
-    lfn: Tera
-    pa: ਧਰਤੀ
-    fr: Terre
-    nn: jorda
-    mzn: زمین
-    ca: Terra
-    fi: Maa
-    bg: Земя
-    hu: Föld
-    pt: Terra
-    ro: Pământ
-    sl: Zemlja
-    sr: Земља
-    lzh: 坤輿
-    ko: 지구
+    ab: Адгьыл
+    ace: Bumoë
+    acm: كوكب الارض
+    ady: ЧIыгу
     af: Aarde
+    aig: Ert
+    alt: Јер
+    am: መሬት
+    an: Tierra
+    ang: Eorðe
+    ann: Linyọn̄
+    anp: धरती
+    apc: الأرض
+    ar: الأرض
+    arc: ܐܪܥܐ
+    arn: Mapu
+    arq: أرض
+    ary: لأرض
+    arz: الارض
+    as: পৃথিৱী
+    ast: Tierra
+    atj: Aski
+    av: Ракь
+    avk: Tawava
+    awa: पृथ्वी
+    ay: Aka pacha
+    az: Yer
+    azb: یئر
+    ba: Ер
+    ban: Gumi
+    bar: Eadn
+    bcl: Kinaban
+    be: Зямля
     be-tarask: Зямля
-    hr: Zemlja
-    lt: Žemė
-    lv: Zeme
-    uk: Земля
+    bew: Bumi
+    bg: Земя
+    bho: पृथ्वी
+    bi: Et
+    bjn: Bumi
+    blk: ကမ္ဘာႏဟံႏ
+    bm: Dugukolo
+    bn: পৃথিবী
+    bo: སའི་གོ་ལ།
+    br: Douar
+    brh: dagaar
+    bs: Zemlja
+    btm: Bumi
+    bug: ᨒᨗᨊᨚ
+    bxr: Дэлхэй
+    ca: Terra
+    cbk-zam: Tierra
+    cdo: Dê-giù
+    ce: Дуьне
+    ceb: Kalibotan
+    ch: Tåno'
+    chr: ᎡᎶᎯ
+    ckb: زەوی
+    co: Terra
+    cr: ᒫᒪᐃᐧ ᐅᑳᐄᐧᒫᐤ
+    crh: Dünya
+    crh-latn: Dünya
+    crh-ro: dúniya
+    cs: Země
+    csb: Zemia
+    cu: Ꙁємлꙗ
+    cv: Çĕр
+    cy: y Ddaear
+    da: Jorden
+    dag: Dunya
+    de: Erde
     de-at: Erde
     de-ch: Erde
+    dga: Andonɛɛ
+    din: Piny nhom
+    diq: Dınya
+    dsb: Zemja
+    dtp: Pomogunan
+    dty: पृथ्वी
+    dv: ބިން
+    dz: འཛམ་གླིང
+    ee: Xexe
+    el: Γη
+    eml: Tèra
+    en: Earth
     en-ca: Earth
     en-gb: Earth
+    en-us: Earth
+    eo: Tero
+    es: Tierra
+    et: Maa
+    eu: Lurra
+    ext: Tierra
+    fa: زمین
+    fat: Asaase
+    ff: Leydi
+    fi: Maa
+    fj: Vuravura
+    fo: Jørðin
+    fon: Wɛkɛ́
+    fr: Terre
+    frp: Tèrra
+    frr: Jard
+    fur: Tiere
+    fy: Ierde
+    ga: Domhan
+    gan: 地球
+    gcr: Tè
+    gd: Saoghal
     gl: Terra
-    se: Eana
-    sa: पृथ्वी
-    tw: Asaase
-    atj: Aski
-    la: Tellus
-    pt-br: Terra
-    tet: Rai
-    li: Eerd
-    ce: Дуьне
-    na: Eb
-    vep: Ma
-    mi: Whenua
+    glk: زيمي
+    gn: Yvy
+    gom: धर्तरी
+    got: Earth
+    gpe: Earth
+    grc: Γῆ
+    gsw: Erde
+    gu: પૃથ્વી
+    guc: Mma
+    gur: Duniya
+    guw: Aigba
+    gv: y Dowan
+    ha: Duniya
+    hak: Thi-khiù
+    haw: Honua
+    he: כדור הארץ
+    hi: पृथ्वी
+    hif: Dunia
+    hr: Zemlja
+    hsb: Zemja
+    ht: Latè
+    hu: Föld
     hy: Երկիր
-    id: Bumi
-    jv: Bumi
-    min: Bumi
-    kk: Жер
-    or: ପୃଥିବୀ
-    nds-nl: Eerde
-    co: Terra
+    hyw: Երկիր
     ia: Terra
+    iba: Bumi
+    ibb: isoN
+    id: Bumi
     ie: Terra
+    ig: Àlà
+    ii: ꅉꆺ
+    ik: Nuna
+    ilo: Daga
+    inh: Лаьтта
+    io: Tero
+    is: Jörðin
+    it: Terra
+    iu: ᓄᓇ
+    ja: 地球
+    jam: Oert
+    jbo: la terdi
+    jv: Bumi
+    ka: დედამიწა
+    kaa: Jer
+    kab: Tagnit
+    kbd: ЩӀыгу
+    kbp: Tɛtʋ
+    kcg: Swanta
+    kg: Ntoto
+    kge: Bumi
+    ki: Thi
+    kk: Жер
+    kk-cyrl: Жер
+    kl: Nunarsuaq
+    km: ផែនដី
+    kn: ಭೂಮಿ
+    knc: Dunya
+    ko: 지구
+    koi: Мушар
+    krc: Джер
+    krj: Kalibutan
+    ks: زٔمیٖن
+    ksh: Ääd
+    ku: Erd
+    kv: Му
+    kw: Dor
+    ky: Жер
+    la: Tellus
+    lad: Tierra
+    lb: Äerd
+    lbe: Дунийал
+    lez: Чил
+    lfn: Tera
+    lg: Ensi
+    li: Eerd
+    lij: Tæra
+    lld: Tera
+    lmo: Tera
+    ln: Mabelé
+    lo: ໂລກ
+    lrc: جأهوٙن
+    lt: Žemė
+    ltg: Zeme
+    lv: Zeme
+    lzh: 坤輿
+    lzz: Kiana
+    mad: Bhumè
+    mag: पृथिवी
+    mai: पृथ्वी
+    map-bms: Bumi
+    mdf: Мода
+    mg: Tany
+    mhr: Мланде
+    mi: Whenua
+    min: Bumi
+    mk: Земја
+    ml: ഭൂമി
+    mn: Дэлхий
+    mni: ꯃꯥꯂꯦꯝ
+    mnw: ဂၠးတိ
+    mr: पृथ्वी
+    mrj: Мӱлӓндӹ
+    ms: Bumi
+    ms-arab: بومي
+    mt: Id-Dinja
+    mwl: Tierra
+    my: ကမ္ဘာဂြိုဟ်
+    myv: Мода
+    mzn: زمین
+    na: Eb
+    nah: Tlālticpactli
+    nan: Tē-kiû
     nap: Terra
+    nb: jorda
+    nds: Eer
+    nds-nl: Eerde
+    ne: पृथ्वी
+    new: पृथ्वी
+    nia: Dadanö
+    nl: Aarde
+    nn: jorda
+    nov: Tere
+    nqo: ߘߎ߱
+    nr: Iphasi
+    nrm: Tèrre
+    nso: Lefase
+    nv: Nahasdzáán
+    ny: Dziko Lapansi
+    oc: Tèrra
+    olo: Mua
+    om: Lafa
+    or: ପୃଥିବୀ
+    os: Зæхх
+    ota: ضونيا
+    pa: ਧਰਤੀ
+    pag: Earth
+    pam: yátû
+    pap: Tera
+    pcd: Tière
+    pcm: Earth
+    pdc: Erd
+    pfl: Erd
+    pih: Erth
+    pl: Ziemia
+    pms: Tèra
+    pnb: زمین
+    pnt: Γη
+    ps: ځمکه
+    pt: Terra
+    pt-br: Terra
+    qu: Tiqsimuyu
     rm: Terra
+    rmy: Phuv
+    rn: Isi
+    ro: Pământ
+    roa-tara: Terre
+    ru: Земля
+    rue: Земля
+    rup: Locu
+    rw: Isi
+    ryu: 地球
+    sa: पृथ्वी
+    sah: Сир
+    sat: ᱫᱷᱟᱹᱨᱛᱤ
     sc: Terra
     scn: Terra
-    inh: Лаьтта
-    ar: الأرض
-    as: পৃথিৱী
-    bho: पृथ्वी
-    mr: पृथ्वी
-    chr: ᎡᎶᎯ
-    kaa: Jer
-    sr-ec: Земља
-    zu: Umhlaba
-    tr: Dünya
-    vls: Eirde
-    et: Maa
-    bcl: Kinaban
-    ceb: Kalibotan
-    fj: Vuravura
+    sco: Yird
+    sd: ڌرتي
+    se: Eana
+    sg: Sêse
+    sgs: Žemė
     sh: Zemlja
     shi: Akal
+    shn: လုမ်ႈၾႃႉ
     si: මහ පොළොව
     sjd: Е̄ммьне
+    sk: Zem
     skr: زمین
+    sl: Zemlja
     sm: Lalolagi
     sma: eatneme
     smn: Eennâm
     sn: Rinopasi
     so: Dhulka
     sq: Tokë
+    sr: Земља
+    sr-ec: Земља
     sr-el: Zemlja
     srn: Grontapu
+    ss: Úmhlâba
     st: Lefatshe
     stq: Äide
     su: Marcapada
+    sv: jorden
     sw: Dunia
+    syl: ꠖꠥꠘꠤꠀꠁ
     szl: Ziymia
     ta: புவி
     tay: hiyal
     tcy: ಬೂಮಿ
     tdd: ᥐᥛᥱ ᥚᥣᥱ
+    te: భూమి
+    tet: Rai
+    tg: замин
     tg-cyrl: Замин
+    th: โลก
     ti: መሬት
     tk: Ýer
     tl: Daigdig
     tly: Zəmin
     tn: Lefatshe
+    to: Māmani
+    tok: ma
     tpi: Giraun
+    tr: Dünya
     ts: Misava
     tt: Җир
     tt-cyrl: Җир
     tt-latn: Cir
     tum: Charu cha pasi
+    tw: Asaase
     tyv: Чер
     udm: Музъем
     ug: يەر شارى
+    uk: Земля
+    ur: زمین
     uz: Yer
     ve: Ḽifhasi
     vec: Tera
+    vep: Ma
     vi: Trái Đất
+    vls: Eirde
     vo: tal
     vro: Maa
     wa: Daegne
@@ -774,216 +974,16 @@ dv_has_:
     za: Giuznamh
     zea: Aerde
     zgh: ⴰⴽⴰⵍ
+    zh: 地球
     zh-cn: 地球
     zh-hans: 地球
     zh-hant: 地球
+    zh-hk: 地球
     zh-mo: 地球
     zh-my: 地球
-    syl: ꠖꠥꠘꠤꠀꠁ
-    ii: ꅉꆺ
-    gur: Duniya
-    aig: Ert
-    shn: လုမ်ႈၾႃႉ
-    nah: Tlālticpactli
-    ss: Úmhlâba
-    th: โลก
-    to: Māmani
-    sah: Сир
-    grc: Γῆ
     zh-sg: 地球
-    mai: पृथ्वी
-    crh-ro: dúniya
-    mk: Земја
-    mrj: Мӱлӓндӹ
-    ki: Thi
-    bs: Zemlja
-    cv: Çĕр
-    el: Γη
-    krc: Джер
-    zh-hk: 地球
     zh-tw: 地球
-    oc: Tèrra
-    pap: Tera
-    ky: Жер
-    arz: الارض
-    myv: Мода
-    ast: Tierra
-    io: Tero
-    kn: ಭೂಮಿ
-    te: భూమి
-    fur: Tiere
-    ab: Адгьыл
-    ace: Bumoë
-    acm: كوكب الارض
-    ady: ЧIыгу
-    alt: Јер
-    am: መሬት
-    an: Tierra
-    ang: Eorðe
-    ann: Linyọn̄
-    anp: धरती
-    apc: الأرض
-    arc: ܐܪܥܐ
-    arn: Mapu
-    arq: أرض
-    ary: لأرض
-    av: Ракь
-    avk: Tawava
-    awa: पृथ्वी
-    ay: Aka pacha
-    az: Yer
-    azb: یئر
-    ba: Ер
-    ban: Gumi
-    bar: Eadn
-    bew: Bumi
-    bi: Et
-    bjn: Bumi
-    blk: ကမ္ဘာႏဟံႏ
-    bm: Dugukolo
-    bo: སའི་གོ་ལ།
-    brh: dagaar
-    btm: Bumi
-    bug: ᨒᨗᨊᨚ
-    bxr: Дэлхэй
-    cbk-zam: Tierra
-    cdo: Dê-giù
-    ch: Tåno'
-    ckb: زەوی
-    cr: ᒫᒪᐃᐧ ᐅᑳᐄᐧᒫᐤ
-    crh: Dünya
-    crh-latn: Dünya
-    csb: Zemia
-    cu: Ꙁємлꙗ
-    dag: Dunya
-    din: Piny nhom
-    diq: Dınya
-    dsb: Zemja
-    dtp: Pomogunan
-    dty: पृथ्वी
-    dv: ބިން
-    dz: འཛམ་གླིང
-    ee: Xexe
-    eml: Tèra
-    eu: Lurra
-    ext: Tierra
-    fat: Asaase
-    fo: Jørðin
-    fon: Wɛkɛ́
-    frp: Tèrra
-    frr: Jard
-    fy: Ierde
-    ga: Domhan
-    gan: 地球
-    gcr: Tè
-    gd: Saoghal
-    glk: زيمي
-    gn: Yvy
-    gom: धर्तरी
-    got: Earth
-    gpe: Earth
-    gsw: Erde
-    gu: પૃથ્વી
-    guc: Mma
-    guw: Aigba
-    gv: y Dowan
-    ha: Duniya
-    hak: Thi-khiù
-    haw: Honua
-    hif: Dunia
-    hsb: Zemja
-    ht: Latè
-    hyw: Երկիր
-    iba: Bumi
-    ibb: isoN
-    ig: Àlà
-    ik: Nuna
-    ilo: Daga
-    is: Jörðin
-    iu: ᓄᓇ
-    jam: Oert
-    jbo: la terdi
-    ka: დედამიწა
-    kab: Tagnit
-    kbd: ЩӀыгу
-    kbp: Tɛtʋ
-    kcg: Swanta
-    kg: Ntoto
-    kge: Bumi
-    kk-cyrl: Жер
-    kl: Nunarsuaq
-    km: ផែនដី
-    knc: Dunya
-    koi: Мушар
-    krj: Kalibutan
-    ksh: Ääd
-    ku: Erd
-    kv: Му
-    kw: Dor
-    lad: Tierra
-    lb: Äerd
-    lbe: Дунийал
-    lez: Чил
-    lg: Ensi
-    lij: Tæra
-    lld: Tera
-    lmo: Tera
-    ln: Mabelé
-    lo: ໂລກ
-    lrc: جأهوٙن
-    ltg: Zeme
-    lzz: Kiana
-    mad: Bhumè
-    mag: पृथिवी
-    map-bms: Bumi
-    mdf: Мода
-    mg: Tany
-    mhr: Мланде
-    mn: Дэлхий
-    mni: ꯃꯥꯂꯦꯝ
-    mnw: ဂၠးတိ
-    mt: Id-Dinja
-    mwl: Tierra
-    my: ကမ္ဘာဂြိုဟ်
-    nan: Tē-kiû
-    nds: Eer
-    ne: पृथ्वी
-    new: पृथ्वी
-    nia: Dadanö
-    nov: Tere
-    nqo: ߘߎ߱
-    nr: Iphasi
-    nrm: Tèrre
-    nso: Lefase
-    nv: Nahasdzáán
-    ny: Dziko Lapansi
-    olo: Mua
-    om: Lafa
-    os: Зæхх
-    ota: ضونيا
-    pag: Earth
-    pam: yátû
-    pcd: Tière
-    pcm: Earth
-    pdc: Erd
-    pfl: Erd
-    pih: Erth
-    pms: Tèra
-    pnt: Γη
-    ps: ځمکه
-    qu: Tiqsimuyu
-    rmy: Phuv
-    rn: Isi
-    roa-tara: Terre
-    rue: Земля
-    rup: Locu
-    rw: Isi
-    ryu: 地球
-    sat: ᱫᱷᱟᱹᱨᱛᱤ
-    sco: Yird
-    sd: ڌرتي
-    sg: Sêse
-    sgs: Žemė
+    zu: Umhlaba
 ---
 # [[Earth]] 🌎 
 

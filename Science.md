@@ -290,100 +290,78 @@ U_S_National_Archives_Identifier: 10642032
 WordLift_URL: http://data.thenextweb.com/tnw/entity/science
 dv_has_:
   name_:
-    om: saayinsii
-    os: зонад
-    pap: siencia
-    pcd: syinches
-    pcm: Science
-    pih: saiens
-    pms: siensa
-    ps: پوهنه
-    pt-br: ciência
-    qu: hamut'ay
-    rki: Category:သိပ္ပံ
-    rm: scienza
-    rue: наука
-    rup: științâ
-    sa: विज्ञानम्
-    sah: үөрэх
-    sat: ᱥᱟᱬᱮᱥ
-    sc: iscièntzia
-    scn: scienza
-    sco: science
-    sd: سائنس
-    se: dieđa
-    sgs: muokslos
-    sh: nauka
-    shi: tamassant
-    sjd: те̄дт
-    skr: سائنس
-    sl: znanost
-    sm: saienisi
-    smj: dieda
-    smn: tieđâ
-    sms: tiõđ
-    sn: science
-    so: saynis
-    sr: наука
-    sr-ec: наука
-    sr-el: nauka
-    srn: skoro
-    ss: isayensi
-    st: sayense
-    su: élmu
-    szl: nauka
-    tcy: ವಿಜ್ಞಾನೊ
-    te: విజ్ఞానశాస్త్రం
-    tg-cyrl: илм
-    th: วิทยาศาสตร์
-    tk: ylym
-    tl: agham
-    tly: Elm
-    to: saienisi
-    ts: sciences
-    tt: фән
-    tt-cyrl: фән
-    tt-latn: fän
-    tum: sayansi
-    udm: наука
-    uz: fan
-    ve: saintsi
-    vec: siensa
-    vep: tedo
-    vls: weetnschap
-    vo: nolav
-    vro: tiidüs
-    wa: syince
-    war: syensya
-    wo: xam-xam
-    wuu: 科学
-    xh: inzululwazi
-    xmf: მენცარობა
-    yi: וויסנשאפט
-    yo: sáyẹ́nsì
-    yue: 科學
-    za: gohyoz
-    zea: Weêtenschap
-    zh-cn: 科学
-    zh-mo: 科学
-    zh-sg: 科学
-    zh-tw: 科學
-    zu: isayensi
-    shn: ပၢႆးသၢႆႊ
-    zgh: ⵜⴰⵎⴰⵙⵙⴰⵏⵜ
-    tok: nasin sona
+    af: wetenskap
+    am: ሳይንስ
+    an: sciencia
+    ang: witancræft
+    anp: विज्ञान
+    ar: علم
+    ary: صيونص
+    arz: علم
+    as: বিজ্ঞান
+    ast: ciencia
+    av: гIелму
+    avk: opa
+    ay: yatxatawi
+    az: elm
+    azb: علم
+    ba: фән
+    bar: Wissnschåft
+    bcl: siyensya
+    be: навука
+    be-tarask: навука
+    bg: наука
+    bho: बिज्ञान
+    bi: saens
+    bjn: sains
+    blk: သိပ္ပံ
+    bm: dɔnniya
+    bn: বিজ্ঞান
+    bo: ཚན་རིག
+    bpy: বিজ্ঞান
+    br: skiant
+    bs: nauka
+    btm: Elmu
+    bug: ᨔᨕᨗᨊᨔ
+    bxr: шэнжэлхэ ухаан
+    ca: ciència
+    cdo: kuŏ-hŏk
+    ce: ӏилма
+    ceb: kaalamdag
+    chr: ᏂᎦᎥ ᎠᎦᏎᏍᏔᏅ
+    ckb: زانست
+    co: scienza
+    crh: ilim
+    crh-latn: ilim
+    cs: věda
+    csb: ùczba
+    cv: ăслăх
+    cy: gwyddoniaeth
+    da: videnskab
+    dag: tabibi
+    de: Wissenschaft
+    de-ch: Wissenschaft
     diq: şınasiye
     dsb: wědomnosć
     dtp: Sains
     dty: विज्ञान
+    el: επιστήμη
+    en: science
     eo: scienco
+    es: ciencia
+    et: teadus
+    eu: zientzia
     ext: céncia
+    fa: علم
+    fi: tiede
     fj: vakadidike
     fo: vísindi
+    fr: science
     frp: science
     frr: wedenskap
     fur: sience
     fy: wittenskip
+    ga: eolaíocht
     gan: 科學
     gcr: syans
     gd: saidheans
@@ -391,11 +369,16 @@ dv_has_:
     gn: tembikuaaty
     gom: विज्ञान
     gpe: Science
+    grc: ἐπιστήμη
     gsw: Wüsseschaft
+    gu: વિજ્ઞાન
     guc: siensiiaka
     gv: oaylleeaght
+    ha: ilmi
     hak: khô-ho̍k
     haw: akeakamai
+    he: מדע
+    hi: विज्ञान
     hif: vigyan
     hr: znanost
     hsb: wědomosć
@@ -405,11 +388,15 @@ dv_has_:
     hyw: գիտութիւն
     ia: scientia
     iba: Sains
+    id: ilmu
     ie: scientie
+    ig: amamihe
     ilo: siensia
     inh: ӏилма
     io: cienco
     is: vísindi
+    it: scienza
+    ja: 科学
     jam: sayans
     jbo: saske
     jv: èlmu
@@ -431,6 +418,7 @@ dv_has_:
     ku-latn: zanist
     kw: godhonieth
     ky: илим
+    la: scientia
     lad: sensia
     lb: Wëssenschaft
     lez: илим
@@ -442,6 +430,7 @@ dv_has_:
     lo: ວິທະຍາສາດ
     lt: mokslas
     ltg: zineiba
+    lv: zinātne
     lzh: 格致
     mad: Èlmo
     mag: विज्ञान
@@ -453,10 +442,12 @@ dv_has_:
     mi: pūtaiao
     min: sains
     mk: наука
+    ml: ശാസ്ത്രം
     mn: шинжлэх ухаан
     mni: ꯅꯩꯅꯂꯣꯟ
     mnw: သိပ္ပံ
     mr: विज्ञान
+    ms: sains
     ms-arab: ساءينس
     mt: xjenza
     mwl: ciéncia
@@ -464,114 +455,123 @@ dv_has_:
     myv: тона
     nah: tlamatiliztli
     nan: kho-ha̍k
+    nb: vitenskap
     nds: Wetenschop
+    nds-nl: wetenschop
     ne: विज्ञान
     new: विज्ञान
+    nl: wetenschap
+    nn: vitskap
     nov: sientie
     nqo: ߟߐ߲ߞߏ
     nrm: scienche
     nso: thutamahlale
     oc: sciéncia
-    fr: science
-    hi: विज्ञान
+    om: saayinsii
+    or: ବିଜ୍ଞାନ
+    os: зонад
     pa: ਵਿਗਿਆਨ
-    pnb: سائنس
-    grc: ἐπιστήμη
-    en: science
-    it: scienza
-    ta: அறிவியல்
-    fa: علم
-    tg: илм
-    tr: bilim
-    bn: বিজ্ঞান
-    ru: наука
-    cs: věda
-    sq: shkencë
-    lv: zinātne
-    nl: wetenschap
-    da: videnskab
-    sw: sayansi
-    nn: vitskap
-    sk: veda
-    de: Wissenschaft
-    sv: vetenskap
-    la: scientia
-    fi: tiede
-    ml: ശാസ്ത്രം
-    et: teadus
-    ha: ilmi
-    nb: vitenskap
-    pt: ciência
-    es: ciencia
-    id: ilmu
-    ig: amamihe
-    br: skiant
-    eu: zientzia
-    he: מדע
-    ms: sains
-    tw: nyansahu
-    ja: 科学
-    uk: наука
-    dag: tabibi
-    el: επιστήμη
-    ar: علم
-    csb: ùczba
-    nds-nl: wetenschop
-    ckb: زانست
+    pap: siencia
+    pcd: syinches
+    pcm: Science
+    pih: saiens
     pl: nauka
+    pms: siensa
+    pnb: سائنس
+    ps: پوهنه
+    pt: ciência
+    pt-br: ciência
+    qu: hamut'ay
+    rki: Category:သိပ္ပံ
+    rm: scienza
+    ro: știință
+    ru: наука
+    rue: наука
+    rup: științâ
+    sa: विज्ञानम्
+    sah: үөрэх
+    sat: ᱥᱟᱬᱮᱥ
+    sc: iscièntzia
+    scn: scienza
+    sco: science
+    sd: سائنس
+    se: dieđa
+    sgs: muokslos
+    sh: nauka
+    shi: tamassant
+    shn: ပၢႆးသၢႆႊ
     si: විද්යාව
-    ga: eolaíocht
+    sjd: те̄дт
+    sk: veda
+    skr: سائنس
+    sl: znanost
+    sm: saienisi
+    smj: dieda
+    smn: tieđâ
+    sms: tiõđ
+    sn: science
+    so: saynis
+    sq: shkencë
+    sr: наука
+    sr-ec: наука
+    sr-el: nauka
+    srn: skoro
+    ss: isayensi
+    st: sayense
+    su: élmu
+    sv: vetenskap
+    sw: sayansi
+    szl: nauka
+    ta: அறிவியல்
+    tcy: ವಿಜ್ಞಾನೊ
+    te: విజ్ఞానశాస్త్రం
+    tg: илм
+    tg-cyrl: илм
+    th: วิทยาศาสตร์
+    tk: ylym
+    tl: agham
+    tly: Elm
+    to: saienisi
+    tok: nasin sona
+    tr: bilim
+    ts: sciences
+    tt: фән
+    tt-cyrl: фән
+    tt-latn: fän
+    tum: sayansi
+    tw: nyansahu
+    udm: наука
+    uk: наука
+    ur: سائنس
+    uz: fan
+    ve: saintsi
+    vec: siensa
+    vep: tedo
+    vi: khoa học
+    vls: weetnschap
+    vo: nolav
+    vro: tiidüs
+    wa: syince
+    war: syensya
+    wo: xam-xam
+    wuu: 科学
+    xh: inzululwazi
+    xmf: მენცარობა
+    yi: וויסנשאפט
+    yo: sáyẹ́nsì
+    yue: 科學
+    za: gohyoz
+    zea: Weêtenschap
+    zgh: ⵜⴰⵎⴰⵙⵙⴰⵏⵜ
     zh: 科學
+    zh-cn: 科学
+    zh-hans: 科学
     zh-hant: 科學
     zh-hk: 科學
-    be-tarask: навука
-    arz: علم
-    de-ch: Wissenschaft
-    vi: khoa học
-    be: навука
-    gu: વિજ્ઞાન
-    zh-hans: 科学
-    or: ବିଜ୍ଞାନ
-    ro: știință
-    ur: سائنس
-    af: wetenskap
-    am: ሳይንስ
-    an: sciencia
-    ang: witancræft
-    anp: विज्ञान
-    ary: صيونص
-    as: বিজ্ঞান
-    ast: ciencia
-    av: гIелму
-    avk: opa
-    ay: yatxatawi
-    az: elm
-    azb: علم
-    ba: фән
-    bar: Wissnschåft
-    bcl: siyensya
-    bg: наука
-    bho: बिज्ञान
-    bi: saens
-    bjn: sains
-    blk: သိပ္ပံ
-    bm: dɔnniya
-    bo: ཚན་རིག
-    bpy: বিজ্ঞান
-    bs: nauka
-    btm: Elmu
-    bug: ᨔᨕᨗᨊᨔ
-    bxr: шэнжэлхэ ухаан
-    ca: ciència
-    cdo: kuŏ-hŏk
-    ce: ӏилма
-    ceb: kaalamdag
-    chr: ᏂᎦᎥ ᎠᎦᏎᏍᏔᏅ
-    co: scienza
-    crh: ilim
-    crh-latn: ilim
-    cv: ăслăх
-    cy: gwyddoniaeth
+    zh-mo: 科学
+    zh-sg: 科学
+    zh-tw: 科學
+    zu: isayensi
 ---
 ## #has_/text_of_/abstract 
 

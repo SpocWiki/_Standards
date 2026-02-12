@@ -169,102 +169,41 @@ dv_is_same_as:
 - '[[/_secret/Astronomy/Astronomer.secret|Astronomer.secret]]'
 dv_has_:
   name_:
-    os: астроном
-    pnb: تارہ گرو
-    rue: астроном
-    sah: астроном
-    scn: astrònumu
-    sco: astronomer
-    se: astronoma
-    sh: astronom
-    si: තාරකාවේදියා
-    smn: täsnitiettee
-    sms: täʹsnntiõđooumaž
-    so: xidigisyahan
-    sr: астроном
-    sr-ec: астроном
-    sr-el: astronom
-    sw: wanaastronomia
-    szl: astrōnōm
-    tg: ахтаршинос
-    th: นักดาราศาสตร์
-    tl: astronomo
-    tr: astronom
-    uk: астроном
-    ur: ماہر فلکیات
-    uz: astronom
-    vec: astrònomo
-    vi: nhà thiên văn học
-    vo: stelavan
-    wuu: 天文學家
-    yi: אסטראנאם
-    yue: 天文學家
-    zh: 天文学家
-    zh-hans: 天文学家
-    zh-hant: 天文學家
-    zh-hk: 天文學家
-    zh-mo: 天文學家
-    zh-my: 天文学家
-    zh-sg: 天文学家
-    zh-tw: 天文學家
-    ig: onye na-enyocha mbara igwe
-    cv: астроном
-    kab: amesnallun
-    mn: одон орон судлаач
-    sje: astronåmå
-    tt: астроном
-    it: astronomo
-    en: astronomer
-    sq: astronom
-    fr: astronome
-    la: astronomus
-    bn: জ্যোতির্বিজ্ঞানী
-    sv: astronom
-    sk: astronóm
-    pt: astrónomo
-    pt-br: astrônomo
-    ml: ജ്യോതിഃശാസ്ത്രജ്ഞ
-    eu: astronomo
-    da: astronom
-    nb: astronom
-    he: אסטרונום
-    de: Astronom
-    es: astrónomo
-    ru: астроном
-    nn: astronom
-    eo: astronomo
-    nl: astronoom
-    cs: astronom
-    ga: réalteolaí
-    ast: astrónomu
-    ca: astrònom
-    cy: seryddwr
-    fi: tähtitieteilijä
-    ro: astronom
-    sl: astronom
-    pl: astronom
-    zh-cn: 天文学家
-    ta: வானியல் வல்லுநர்
     ar: فلكي
     ary: فلكي
     arz: عالم فلك
+    ast: astrónomu
     az: astronom
     azb: آسترونومیچی
     be: астраном
     be-tarask: астраном
     bg: астроном
     bho: खगोलशास्त्रज्ञ
+    bn: জ্যোতির্বিজ্ঞানী
     br: steredoniour
     bs: astronom
+    ca: astrònom
     ckb: ئەستێرەناس
     crh-latn: astronomiyacı
+    cs: astronom
     cu: ѕвѣздозьрьць
+    cv: астроном
+    cy: seryddwr
+    da: astronom
+    de: Astronom
     diq: asmênşınas
     el: αστρονόμος
+    en: astronomer
     en-gb: astronomer
+    eo: astronomo
+    es: astrónomo
     et: astronoom
+    eu: astronomo
     fa: ستارهشناس
+    fi: tähtitieteilijä
+    fr: astronome
     fy: stjerrekundige
+    ga: réalteolaí
     gd: reul-eòlaiche
     gl: astrónomo
     gn: mbyjakuaahára
@@ -272,6 +211,7 @@ dv_has_:
     gsw: Astronom
     gv: rollageyder
     ha: Ilimin Taurari
+    he: אסטרונום
     hi: खगोल विज्ञानी
     hr: astronom
     hsb: astronom
@@ -280,18 +220,22 @@ dv_has_:
     hyw: աստղագէտ
     ia: astronomo
     id: astronom
+    ig: onye na-enyocha mbara igwe
     ilo: astronomo
     io: astronomo
+    it: astronomo
     ja: 天文学者
     jv: astronom
     ka: ასტრონომი
     kaa: astronom
+    kab: amesnallun
     kk: астроном
     ko: 천문학자
     ks: مٲہِرِ فلکیات
     ku: stêrnas
     ku-latn: stêrnas
     kw: steronydh
+    la: astronomus
     lb: Astronom
     lfn: astronomiste
     li: Astronoom
@@ -302,6 +246,8 @@ dv_has_:
     mg: mpahaikintana
     mi: tohunga kōkōrangi
     mk: астроном
+    ml: ജ്യോതിഃശാസ്ത്രജ്ഞ
+    mn: одон орон судлаач
     mni: ꯈꯦꯟꯆꯣꯡꯂꯣꯢ
     mr: खगोलशास्त्रज्ञ
     ms: ahli astronomi
@@ -309,10 +255,64 @@ dv_has_:
     mt: astronomu
     my: နက္ခတ္တပညာရှင်
     nan: Thian-bûn-ha̍k-ka
+    nb: astronom
     nds: Astronom
+    nl: astronoom
+    nn: astronom
     nqo: ߛߊ߲ߡߊߛߓߍߟߊ
     oc: astronòm
     or: ଜ୍ୟୋତିର୍ବିଜ୍ଞାନୀ
+    os: астроном
+    pl: astronom
+    pnb: تارہ گرو
+    pt: astrónomo
+    pt-br: astrônomo
+    ro: astronom
+    ru: астроном
+    rue: астроном
+    sah: астроном
+    scn: astrònumu
+    sco: astronomer
+    se: astronoma
+    sh: astronom
+    si: තාරකාවේදියා
+    sje: astronåmå
+    sk: astronóm
+    sl: astronom
+    smn: täsnitiettee
+    sms: täʹsnntiõđooumaž
+    so: xidigisyahan
+    sq: astronom
+    sr: астроном
+    sr-ec: астроном
+    sr-el: astronom
+    sv: astronom
+    sw: wanaastronomia
+    szl: astrōnōm
+    ta: வானியல் வல்லுநர்
+    tg: ахтаршинос
+    th: นักดาราศาสตร์
+    tl: astronomo
+    tr: astronom
+    tt: астроном
+    uk: астроном
+    ur: ماہر فلکیات
+    uz: astronom
+    vec: astrònomo
+    vi: nhà thiên văn học
+    vo: stelavan
+    wuu: 天文學家
+    yi: אסטראנאם
+    yue: 天文學家
+    zh: 天文学家
+    zh-cn: 天文学家
+    zh-hans: 天文学家
+    zh-hant: 天文學家
+    zh-hk: 天文學家
+    zh-mo: 天文學家
+    zh-my: 天文学家
+    zh-sg: 天文学家
+    zh-tw: 天文學家
 ---
 # [[Astronomer]] 
 

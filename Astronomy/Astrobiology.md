@@ -111,24 +111,6 @@ dv_is_same_as:
 - '[[/_secret/Astronomy/Astrobiology.secret|Astrobiology.secret]]'
 dv_has_:
   name_:
-    zh: 天體生物學
-    it: astrobiologia
-    en: astrobiology
-    sv: astrobiologi
-    ml: ജ്യോതിർജീവശാസ്ത്രം
-    de: Astrobiologie
-    nb: astrobiologi
-    es: astrobiología
-    da: astrobiologi
-    fr: astrobiologie
-    ms: astrobiologi
-    nl: astrobiologie
-    fa: اخترزیستشناسی
-    he: אסטרוביולוגיה
-    ru: астробиология
-    el: βιοαστρονομία
-    nn: astrobiologi
-    ja: 宇宙生物学
     af: astrobiologie
     an: Astrobiolochía
     ar: علم الأحياء الفلكي
@@ -145,15 +127,23 @@ dv_has_:
     ckb: ستێرژینناسی
     cs: astrobiologie
     cy: astrofioleg
+    da: astrobiologi
+    de: Astrobiologie
     de-ch: Astrobiologie
+    el: βιοαστρονομία
+    en: astrobiology
     en-ca: astrobiology
     en-gb: astrobiology
     eo: astrobiologio
+    es: astrobiología
     et: astrobioloogia
     eu: exobiologia
+    fa: اخترزیستشناسی
     fi: astrobiologia
+    fr: astrobiologie
     ga: eisibhitheolaíocht
     gl: astrobioloxía
+    he: אסטרוביולוגיה
     hi: खगोलजीव विज्ञान
     hr: astrobiologija
     hu: asztrobiológia
@@ -163,6 +153,8 @@ dv_has_:
     ig: Astrobiology
     io: astrobiologio
     is: stjörnulíffræði
+    it: astrobiologia
+    ja: 宇宙生物学
     ka: ასტრობიოლოგია
     kk: Экзобиология
     kn: ಆಸ್ಟ್ರೋಬಯಾಲಾಜಿ
@@ -175,8 +167,13 @@ dv_has_:
     lv: astrobioloģija
     min: Astrobiologi
     mk: астробиологија
+    ml: ജ്യോതിർജീവശാസ്ത്രം
     mn: Астробиологи
+    ms: astrobiologi
+    nb: astrobiologi
     ne: एस्ट्रोबायोलोजी
+    nl: astrobiologie
+    nn: astrobiologi
     nov: astrobiologia
     oc: exobiologia
     om: Astiroobaayoloojii
@@ -185,6 +182,7 @@ dv_has_:
     pt: exobiologia
     pt-br: exobiologia
     ro: exobiologie
+    ru: астробиология
     sco: astrobiology
     se: astrobiologiija
     sgs: astrobioluogėjė
@@ -198,6 +196,7 @@ dv_has_:
     sr: космичка биологија
     sr-ec: космичка биологија
     sr-el: kosmička biologija
+    sv: astrobiologi
     ta: விண்வெளி உயிரியல்
     tg: астробиология
     tk: Astrobiologiýa
@@ -212,6 +211,7 @@ dv_has_:
     war: astrobiyolohiya
     wuu: 天体生物学
     yue: 天體生物學
+    zh: 天體生物學
 ---
 # [[Astrobiology]] 
 

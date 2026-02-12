@@ -258,17 +258,79 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_mathematics,3610632]]'
 WordLift_URL: http://data.thenextweb.com/tnw/entity/mathematics
 dv_has_:
   name_:
+    af: wiskunde
+    am: ትምህርተ ሂሳብ
+    an: matematicas
+    ang: rīmcræft
+    anp: गणित
+    ar: رياضيات
+    ary: لماط
+    arz: رياضيات
+    as: গণিত
+    ast: matemátiques
+    avk: Solokseropa
+    awa: गणित
+    ay: jakhu
+    az: riyaziyyat
+    azb: ریاضیات
+    ba: математика
+    ban: Matematika
+    bar: Mathematik
+    bcl: Matematika
+    be: матэматыка
+    be-tarask: матэматыка
+    bg: математика
+    bho: गणित
+    bi: Matematikis
+    bjn: matamatika
+    blk: သင်္ချာ
+    bm: Matematiki
+    bn: গণিত
+    bo: རྩིས་རིག
+    bpy: গণিত
+    br: matematik
+    bs: matematika
+    bug: matematika
+    bxr: Тоогой ухаан
+    ca: matemàtiques
+    cbk-zam: Matematica
+    cdo: Só-hŏk
+    ce: Математика
+    ceb: matematika
+    ch: matematika
+    ckb: ماتماتیک
+    co: matematica
+    crh: riyaziyat
+    crh-latn: Riyaziyat
+    crh-ro: riyaziyet
+    cs: matematika
+    csb: matematika
+    cu: маѳиматїка
+    cv: математика
+    cy: mathemateg
+    da: matematik
+    dag: Laasabu malibu
+    de: Mathematik
     din: Akuënkäŋ
     diq: matematik
     dsb: Matematika
     dtp: matematik
     dv: ރިޔާޟިއްޔާތު
+    el: μαθηματικά
     eml: matemâtica
+    en: mathematics
     en-ca: mathematics
     en-gb: mathematics
+    eo: matematiko
+    es: matemáticas
+    et: matemaatika
+    eu: matematika
     ext: matemáticas
+    fa: ریاضیات
+    fi: matematiikka
     fj: Fika
     fo: støddfrøði
+    fr: mathématiques
     frp: Matèmatiques
     frr: Matematiik
     fur: Matematiche
@@ -278,6 +340,7 @@ dv_has_:
     gcr: Matématik
     gd: matamataig
     gl: matemáticas
+    glk: ریاضی
     gn: papapykuaa
     gom: ಗಣಿತ್
     gor: Matematika
@@ -289,20 +352,31 @@ dv_has_:
     ha: Lissafi
     hak: sṳ-ho̍k
     haw: makemakika
+    he: מתמטיקה
+    hi: गणित
     hif: mathematics
+    hr: matematika
     hsb: Matematika
+    ht: matematik
+    hu: matematika
     hy: մաթեմատիկա
+    ia: mathematica
     iba: Matematik
+    id: matematika
     ie: matematica
     ig: ọmúmú-ónúọgụgụ
     ilo: matematika
     inh: Математика
     io: matematiko
     is: stærðfræði
+    it: matematica
     iu: ᓈᓴᐅᓯᕆᓂᓗᒃᑖᖅ
+    ja: 数学
     jam: Matimatix
     jbo: cmaci
     jv: matématika
+    ka: მათემატიკა
+    kaa: matematika
     kab: tusnakt
     kge: Matematika
     kk: математика
@@ -316,6 +390,7 @@ dv_has_:
     ku: matematîk
     kw: Awgrym
     ky: математика
+    la: mathematica
     lad: matemátika
     lb: Mathematik
     lez: математика
@@ -327,20 +402,26 @@ dv_has_:
     lmo: matemàtega
     lo: ຄະນິດສາດ
     lt: matematika
+    lua: Dimanya dia makumi
     lv: matemātika
     lzh: 數學
     mad: Matematika
     mag: गणित
     mai: गणित
     map-bms: matematika
+    mdf: математиксь
     mg: fanisana
     mhr: математике
     mi: pāngarau
     min: Matematika
     mk: математика
+    ml: ഗണിതം
     mn: математик
     mni: ꯆꯩꯁꯤꯡꯂꯣꯟ
     mnw: သၚ်္ချာ
+    mr: गणित
+    ms: matematik
+    ms-arab: ماتماتيک
     mt: matematika
     mwl: matemática
     my: သင်္ချာ
@@ -348,33 +429,45 @@ dv_has_:
     mzn: ریاضی
     nah: tlapōhualmatiliztli
     nan: Sò͘-ha̍k
+    nb: matematikk
     nds: Mathematik
     nds-nl: wiskunde
     ne: गणित
     new: गणित
     nia: Matematika
+    nl: wiskunde
+    nn: matematikk
     nov: matematike
     nrm: caltchul
     nv: Ałhíʼayiiltááh
+    oc: matematicas
     olo: Matematiekku
     om: Herreega
     or: ଗଣିତ
     os: математикæ
+    pa: ਹਿਸਾਬ
     pag: matematiks
     pam: Matematika
     pap: matemátika
     pcd: matématikes
+    pcm: Matematiks
     pi: गणितं
     pih: maethamatiks
     pl: matematyka
     pms: matemàtica
     pnb: ریاضی
     ps: شمېرپوهنه
+    pt: matemática
+    pt-br: matemática
     qu: Yupay yachay
+    rki: သင်္ချာ
+    ro: matematică
+    ru: математика
     rue: математіка
     rup: mathematicã
     sa: गणितम्
     sah: математика
+    sat: ᱮᱞᱠᱷᱟ
     sc: matemàtica
     scn: matimàtica
     sco: mathematics
@@ -385,7 +478,11 @@ dv_has_:
     shi: Tusnakt
     si: ගණිතය
     sjd: математика
+    sje: matematijjka
+    sju: matematïhkka
+    sk: matematika
     skr: ریاضی
+    sl: matematika
     sm: matematika
     sma: matematihke
     smj: matematihkka
@@ -393,14 +490,18 @@ dv_has_:
     sms: matematikk
     sn: masvomhu
     so: xisaab
+    sq: matematikë
+    sr: математика
     sr-ec: математика
     sr-el: matematika
     srn: Sabi fu Teri
     ss: tekubala
     stq: mathematik
     su: matematika
+    sv: matematik
     sw: hisabati
     szl: matymatyka
+    ta: கணிதம்
     tcy: ಗಣಿತ
     tdd: ᥙᥣᥭᥰ ᥘᥙᥳ
     te: గణితం
@@ -414,16 +515,19 @@ dv_has_:
     tn: Mathematics
     tok: sona nanpa
     tpi: ol matematik
+    tr: matematik
     ts: tinhlayo
     tt: математика
     tt-cyrl: математика
     tt-latn: matematika
     tw: akontabuo
     udm: математика
+    uk: математика
     ur: ریاضی
     uz: matematika
     vec: matemàtega
     vep: matematik
+    vi: toán học
     vls: Wiskunde
     vo: matemat
     vro: Matõmaatiga
@@ -436,9 +540,11 @@ dv_has_:
     xmf: მათემატიკა
     yi: מאטעמאטיק
     yo: mathimátíkì
+    yue: 數學
     za: Soqyoz
     zea: Wiskunde
     zgh: ⵜⵓⵙⵏⴰⴽⵜ
+    zh: 數學
     zh-cn: 数学
     zh-hans: 数学
     zh-hant: 數學
@@ -446,114 +552,8 @@ dv_has_:
     zh-mo: 數學
     zh-my: 数学
     zh-sg: 数学
-    zu: imathemathiki
-    glk: ریاضی
-    rki: သင်္ချာ
-    sje: matematijjka
-    kaa: matematika
-    sju: matematïhkka
-    lua: Dimanya dia makumi
-    pcm: Matematiks
-    en: mathematics
-    an: matematicas
-    it: matematica
-    ru: математика
-    sq: matematikë
-    sv: matematik
-    ml: ഗണിതം
     zh-tw: 數學
-    fr: mathématiques
-    da: matematik
-    la: mathematica
-    et: matemaatika
-    ka: მათემატიკა
-    sk: matematika
-    de: Mathematik
-    ms: matematik
-    ms-arab: ماتماتيک
-    nb: matematikk
-    eu: matematika
-    pt: matemática
-    he: מתמטיקה
-    cs: matematika
-    es: matemáticas
-    hi: गणित
-    ja: 数学
-    uk: математика
-    hr: matematika
-    pa: ਹਿਸਾਬ
-    br: matematik
-    dag: Laasabu malibu
-    nn: matematikk
-    nl: wiskunde
-    be: матэматыка
-    ta: கணிதம்
-    fi: matematiikka
-    ckb: ماتماتیک
-    ro: matematică
-    sl: matematika
-    zh: 數學
-    sat: ᱮᱞᱠᱷᱟ
-    fa: ریاضیات
-    id: matematika
-    eo: matematiko
-    ar: رياضيات
-    mr: गणित
-    be-tarask: матэматыка
-    ca: matemàtiques
-    tr: matematik
-    mdf: математиксь
-    pt-br: matemática
-    az: riyaziyyat
-    hu: matematika
-    vi: toán học
-    oc: matematicas
-    sr: математика
-    yue: 數學
-    bs: matematika
-    el: μαθηματικά
-    ht: matematik
-    ia: mathematica
-    af: wiskunde
-    am: ትምህርተ ሂሳብ
-    ang: rīmcræft
-    anp: गणित
-    ary: لماط
-    arz: رياضيات
-    as: গণিত
-    ast: matemátiques
-    avk: Solokseropa
-    awa: गणित
-    ay: jakhu
-    azb: ریاضیات
-    ba: математика
-    ban: Matematika
-    bar: Mathematik
-    bcl: Matematika
-    bg: математика
-    bho: गणित
-    bi: Matematikis
-    bjn: matamatika
-    blk: သင်္ချာ
-    bm: Matematiki
-    bn: গণিত
-    bo: རྩིས་རིག
-    bpy: গণিত
-    bug: matematika
-    bxr: Тоогой ухаан
-    cbk-zam: Matematica
-    cdo: Só-hŏk
-    ce: Математика
-    ceb: matematika
-    ch: matematika
-    co: matematica
-    crh: riyaziyat
-    crh-latn: Riyaziyat
-    crh-ro: riyaziyet
-    csb: matematika
-    cu: маѳиматїка
-    cv: математика
-    cy: mathemateg
+    zu: imathemathiki
 ---
 # [[Mathematics]] 
 

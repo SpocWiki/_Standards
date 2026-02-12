@@ -199,157 +199,6 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Berria%20ez%20da%20bet
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_technology,7112740]]'
 dv_has_:
   name_:
-    yi: טעכנאלאגיע
-    yo: tẹknọ́lọ́jì
-    yue: 工藝
-    za: gisuz
-    zh: 技术
-    zh-cn: 技术
-    zh-hans: 技术
-    zh-hant: 技術
-    zh-hk: 技術
-    zh-tw: 技術
-    zu: ubuchwepheshe
-    fj: tekinolaji
-    frr: technologii
-    crh: tehnologiya
-    bew: tèhnolohi
-    btm: teknik
-    min: teknologi
-    pms: tecnologìa
-    mad: tèknologi
-    co: tecnulugia
-    mag: प्रौद्योगिकी
-    qu: tiknulukya
-    shn: လွၵ်းလၢႆးပၢႆးပၺ်ႇၺႃႇ
-    ko: 기술
-    krc: технология
-    ku: teknolojî
-    kw: teknegieth
-    ky: технология
-    la: technologia
-    lb: Technologie
-    lfn: tecnolojia
-    li: Technologie
-    lij: tecnologia
-    lmo: tecnologia
-    lo: ເຕັກໂນໂລຊີ
-    lt: technologija
-    lv: tehnoloģija
-    map-bms: teknologi
-    mg: teknôlôjia
-    mhr: технологий
-    mi: hangarau
-    mk: технологија
-    mn: технологи
-    mni: ꯁꯤꯟ-ꯁꯥꯔꯣꯜ ꯅꯩꯅꯕ
-    mr: तंत्रज्ञान
-    ms: kaji teknik
-    mwl: tecnologie
-    my: နည်းပညာ
-    myv: пайманал
-    nah: āmantēcayōtl
-    nan: Ki-su̍t
-    nds: Technologie
-    ne: प्रविधि
-    new: प्रविधि
-    nrm: technologie
-    oc: tecnologia
-    om: teeknooloojii
-    or: ପ୍ରଯୁକ୍ତି ବିଦ୍ୟା
-    os: технологи
-    pa: ਤਕਨੀਕੀ
-    pap: teknologia
-    pcd: teknolodjie
-    pdc: Waerkzeichheit
-    pih: teknolojii
-    pl: technika
-    pnb: ٹیکنالوجی
-    ps: تکنالوژي
-    pt-br: tecnologia
-    rki: နည်းပညာ
-    ro: tehnologie
-    rue: технолоґія
-    rw: Ikoranabuhanga
-    sah: технология
-    sc: tecnologia
-    scn: ticnoluggìa
-    sco: technology
-    sd: ٽيڪنالاجي
-    se: teknologiija
-    sgs: teknuoluogėjė
-    sh: tehnologija
-    shi: ttiknulujya
-    si: තාක් ෂණය
-    skr: ٹیکنالوجی
-    sl: tehnologija
-    sma: teknologije
-    smj: teknologija
-    smn: teknologia
-    sms: teknologia
-    so: farsamo
-    sr: технологија
-    sr-ec: технологија
-    sr-el: technologija
-    su: téhnologi
-    sw: teknolojia
-    syl: ꠐꠦꠇ꠆ꠘꠟꠎꠤ
-    szl: technologijŏ
-    ta: தொழினுட்பம்
-    te: సాంకేతిక విజ్ఞానం
-    tet: teknolojia
-    tg: технолоҷӣ
-    tg-cyrl: технология
-    th: เทคโนโลยี
-    tk: tehnologiýasy
-    tl: teknolohiya
-    tr: teknoloji
-    ts: thekinoloji
-    tt: технология
-    tt-cyrl: технология
-    tt-latn: texnologiä
-    tum: tekinoloje
-    udm: технология
-    ur: طرزیات
-    uz: texnologiya
-    vec: tecnołozia
-    vep: tehnologii
-    vi: công nghệ
-    vls: technologie
-    vo: kaenav
-    vro: teknoloogia
-    war: teknolohiya
-    wuu: 技术
-    xh: iteknoloji
-    xmf: ტექნოლოგია
-    en: technology
-    sq: teknologji
-    da: teknologi
-    cs: technologie
-    nl: technologie
-    fi: teknologia
-    sv: teknologi
-    ru: технология
-    fr: technologie
-    tok: ilo
-    sk: technológia
-    de: Technologie
-    ml: സാങ്കേതികവിദ്യ
-    et: tehnika
-    eo: teĥnologio
-    es: tecnología
-    ms-arab: تيکنولوݢي
-    pt: tecnologia
-    nb: teknologi
-    he: טכנולוגיה
-    it: tecnologia
-    eu: teknologia
-    fa: فناوری
-    nn: teknologi
-    el: τεχνολογία
-    bg: техника
-    hu: technika
-    uk: технологія
     af: tegnologie
     am: ቴክኖዎሎጂ
     an: tecnolochía
@@ -368,25 +217,44 @@ dv_has_:
     bcl: teknolohiya
     be: тэхналогія
     be-tarask: тэхналёгія
+    bew: tèhnolohi
+    bg: техника
     bho: टेक्नालॉजी
     blk: အနယ်ꩻပညာႏ
     bn: প্রযুক্তি
     br: teknologiezh
     bs: tehnologija
+    btm: teknik
     bxr: технологи
     ca: tecnologia
     ce: технологи
     ceb: teknolohiya
     ckb: تەکنۆلۆژیا
+    co: tecnulugia
+    crh: tehnologiya
+    cs: technologie
     cv: технологи
     cy: technoleg
+    da: teknologi
+    de: Technologie
     de-ch: Technologie
+    el: τεχνολογία
     eml: tecnologî
+    en: technology
     en-ca: technology
     en-gb: technology
+    eo: teĥnologio
+    es: tecnología
+    et: tehnika
+    eu: teknologia
     ext: tecnología
+    fa: فناوری
+    fi: teknologia
+    fj: tekinolaji
     fo: tøkni
+    fr: technologie
     frp: tècnologia
+    frr: technologii
     fur: tecnologjie
     fy: technology
     ga: teicneolaíocht
@@ -399,10 +267,12 @@ dv_has_:
     gv: çhaghnoaylleeaght
     ha: technology
     haw: hulikoehana
+    he: טכנולוגיה
     hi: प्रौद्योगिकी
     hif: tekniki
     hr: tehnologija
     ht: teknoloji
+    hu: technika
     hy: տեխնոլոգիա
     ia: technologia
     id: teknologi
@@ -411,6 +281,7 @@ dv_has_:
     ilo: teknolohia
     io: teknologio
     is: tækni
+    it: tecnologia
     iu: ᓴᓇᕐᕈᑏᑦ ᐊᑑᑎᖏᑕᓗ ᖃᐅᔨᒪᔭᐅᓂᖓ
     ja: テクノロジー
     jam: teknalaji
@@ -422,6 +293,135 @@ dv_has_:
     kk: технология
     km: បច្ចេកវិជ្ជា
     kn: ತಂತ್ರಜ್ಞಾನ
+    ko: 기술
+    krc: технология
+    ku: teknolojî
+    kw: teknegieth
+    ky: технология
+    la: technologia
+    lb: Technologie
+    lfn: tecnolojia
+    li: Technologie
+    lij: tecnologia
+    lmo: tecnologia
+    lo: ເຕັກໂນໂລຊີ
+    lt: technologija
+    lv: tehnoloģija
+    mad: tèknologi
+    mag: प्रौद्योगिकी
+    map-bms: teknologi
+    mg: teknôlôjia
+    mhr: технологий
+    mi: hangarau
+    min: teknologi
+    mk: технологија
+    ml: സാങ്കേതികവിദ്യ
+    mn: технологи
+    mni: ꯁꯤꯟ-ꯁꯥꯔꯣꯜ ꯅꯩꯅꯕ
+    mr: तंत्रज्ञान
+    ms: kaji teknik
+    ms-arab: تيکنولوݢي
+    mwl: tecnologie
+    my: နည်းပညာ
+    myv: пайманал
+    nah: āmantēcayōtl
+    nan: Ki-su̍t
+    nb: teknologi
+    nds: Technologie
+    ne: प्रविधि
+    new: प्रविधि
+    nl: technologie
+    nn: teknologi
+    nrm: technologie
+    oc: tecnologia
+    om: teeknooloojii
+    or: ପ୍ରଯୁକ୍ତି ବିଦ୍ୟା
+    os: технологи
+    pa: ਤਕਨੀਕੀ
+    pap: teknologia
+    pcd: teknolodjie
+    pdc: Waerkzeichheit
+    pih: teknolojii
+    pl: technika
+    pms: tecnologìa
+    pnb: ٹیکنالوجی
+    ps: تکنالوژي
+    pt: tecnologia
+    pt-br: tecnologia
+    qu: tiknulukya
+    rki: နည်းပညာ
+    ro: tehnologie
+    ru: технология
+    rue: технолоґія
+    rw: Ikoranabuhanga
+    sah: технология
+    sc: tecnologia
+    scn: ticnoluggìa
+    sco: technology
+    sd: ٽيڪنالاجي
+    se: teknologiija
+    sgs: teknuoluogėjė
+    sh: tehnologija
+    shi: ttiknulujya
+    shn: လွၵ်းလၢႆးပၢႆးပၺ်ႇၺႃႇ
+    si: තාක් ෂණය
+    sk: technológia
+    skr: ٹیکنالوجی
+    sl: tehnologija
+    sma: teknologije
+    smj: teknologija
+    smn: teknologia
+    sms: teknologia
+    so: farsamo
+    sq: teknologji
+    sr: технологија
+    sr-ec: технологија
+    sr-el: technologija
+    su: téhnologi
+    sv: teknologi
+    sw: teknolojia
+    syl: ꠐꠦꠇ꠆ꠘꠟꠎꠤ
+    szl: technologijŏ
+    ta: தொழினுட்பம்
+    te: సాంకేతిక విజ్ఞానం
+    tet: teknolojia
+    tg: технолоҷӣ
+    tg-cyrl: технология
+    th: เทคโนโลยี
+    tk: tehnologiýasy
+    tl: teknolohiya
+    tok: ilo
+    tr: teknoloji
+    ts: thekinoloji
+    tt: технология
+    tt-cyrl: технология
+    tt-latn: texnologiä
+    tum: tekinoloje
+    udm: технология
+    uk: технологія
+    ur: طرزیات
+    uz: texnologiya
+    vec: tecnołozia
+    vep: tehnologii
+    vi: công nghệ
+    vls: technologie
+    vo: kaenav
+    vro: teknoloogia
+    war: teknolohiya
+    wuu: 技术
+    xh: iteknoloji
+    xmf: ტექნოლოგია
+    yi: טעכנאלאגיע
+    yo: tẹknọ́lọ́jì
+    yue: 工藝
+    za: gisuz
+    zh: 技术
+    zh-cn: 技术
+    zh-hans: 技术
+    zh-hant: 技術
+    zh-hk: 技術
+    zh-tw: 技術
+    zu: ubuchwepheshe
 ---
 # [[Technology]] 
 
