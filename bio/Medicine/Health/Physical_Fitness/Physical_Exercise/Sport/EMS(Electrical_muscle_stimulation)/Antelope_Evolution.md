@@ -737,7 +737,8 @@ Das tut Körper und Geist gut und fördert die Regeneration.
 
 #### Intensität in %
 
-Die Intensität bestimmt die Impulsstärke, das heißt, wie viel elektrische Ladung in einer bestimmten Zeit fließt. 
+Die Intensität bestimmt die Impulsstärke, das heißt, 
+wie viel elektrische Ladung in einer bestimmten Zeit fließt. 
 Je intensiver, desto mehr Muskelfasern werden angesprochen. 
 
 #### Frequenz in Hz
