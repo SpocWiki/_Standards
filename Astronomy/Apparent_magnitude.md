@@ -1,13 +1,86 @@
 ---
 aliases:
-  - Apparent_magnitude
-  - Apparent magnitude
+- Apparent magnitude
+- Apparent_magnitude
+- azal amaskad
+- cấp sao biểu kiến
+- görünmə böyüklüyü
+- görünür büyüklük
+- hamma gonkaa
+- hvězdná velikost
+- Itxurazko magnitude
+- koʻrinma yulduz kattaligi
+- magnitud aparent
+- magnitud aparenta
+- magnitud aparente
+- magnitud ketara
+- Magnitude
+- magnitude aparente
+- magnitude apparente
+- magnitudi
+- magnitudine aparentă
+- magnitudine apparente
+- magnitudo apparens
+- magnitudo semu
+- magnitùdini apparenti
+- magnitú aparente
+- magnitúdó
+- maint ymddangosol
+- maliwanag na kalakhan
+- manjitudni apparenti
+- mayitid aparan
+- mwangaza unaoonekana
+- navidezni sij
+- obserwowana wielkość gwiazdowa
+- prividna magnituda
+- prividna zvezdana veličina
+- qedra zahirî
+- redzamais spožums
+- scheinbare Helligkeit
+- schiinbar Helligkeit
+- schijnbare magnitude
+- skenbar magnitud
+- skiinboor magnituud
+- spindesys
+- tilsynelatande storleiksklasse
+- tilsynelatende størrelsesklasse
+- tähesuurus
+- Visuell Magnitude
+- zdanlivá hviezdna veľkosť
+- ŝajna magnitudo
+- φαινόμενο μέγεθος
+- бачная зорная велічыня
+- видима звездна величина
+- видима зоряна величина
+- видимая звёздная величина
+- зорная велічыня
+- йолдызча зурлык
+- привидна ѕвездена величина
+- привидна звездана величина
+- տեսանելի աստղային մեծություն
+- בהירות
+- قدر ظاهري
+- قدر ظاهری
+- आभासी दृश्यप्रत
+- सापेक्ष कांतिमान
+- আপাত মান
+- ਸਾਪੇਖ ਕਾਂਤੀਮਾਨ
+- தோற்ற ஒளிப்பொலிவெண்
+- ദൃശ്യകാന്തിമാനം
+- දෘශ්ය විශාලත්වය
+- ความส่องสว่างปรากฏ
+- ვარსკვლავიერი სიდიდე
+- 実視等級
+- 星等
+- 視星等
+- 视星等
+- 겉보기등급
 has_id_wikidata: Q124313
 subclass_of:
-  - "[[_Standards/WikiData/WD~physical_quantity,107715]]"
-  - "[[_Standards/WikiData/WD~dimensionless_quantity,126818]]"
-  - "[[_Standards/WikiData/WD~magnitude,2028919]]"
-quantity_symbol_LaTeX_: |-
+- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~dimensionless_quantity,126818]]'
+- '[[_Standards/WikiData/WD~magnitude,2028919]]'
+quantity_symbol_LaTeX_: >-
   <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle m}">
     <semantics>
       <mrow class="MJX-TeXAtom-ORD">
@@ -18,7 +91,7 @@ quantity_symbol_LaTeX_: |-
       <annotation encoding="application/x-tex">{\displaystyle m}</annotation>
     </semantics>
   </math>
-ISQ_dimension: |-
+ISQ_dimension: >-
   <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle 1}">
     <semantics>
       <mrow class="MJX-TeXAtom-ORD">
@@ -34,25 +107,116 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/65Cyb-LB3-apmag.jpg
 IEV_number: 845-21-097
 dv_is_:
   same_as:
-    - "[[../WikiData/WD~Apparent_magnitude,124313|WD~Apparent_magnitude,124313]]"
-    - "[[/_Standards/Astronomy/Apparent_magnitude|Apparent_magnitude]]"
-    - "[[/_public/Astronomy/Apparent_magnitude.public|Apparent_magnitude.public]]"
-    - "[[/_internal/Astronomy/Apparent_magnitude.internal|Apparent_magnitude.internal]]"
-    - "[[/_protect/Astronomy/Apparent_magnitude.protect|Apparent_magnitude.protect]]"
-    - "[[/_private/Astronomy/Apparent_magnitude.private|Apparent_magnitude.private]]"
-    - "[[/_personal/Astronomy/Apparent_magnitude.personal|Apparent_magnitude.personal]]"
-    - "[[/_secret/Astronomy/Apparent_magnitude.secret|Apparent_magnitude.secret]]"
+  - '[[../WikiData/WD~Apparent_magnitude,124313|WD~Apparent_magnitude,124313]]'
+  - '[[/_Standards/Astronomy/Apparent_magnitude|Apparent_magnitude]]'
+  - '[[/_public/Astronomy/Apparent_magnitude.public|Apparent_magnitude.public]]'
+  - '[[/_internal/Astronomy/Apparent_magnitude.internal|Apparent_magnitude.internal]]'
+  - '[[/_protect/Astronomy/Apparent_magnitude.protect|Apparent_magnitude.protect]]'
+  - '[[/_private/Astronomy/Apparent_magnitude.private|Apparent_magnitude.private]]'
+  - '[[/_personal/Astronomy/Apparent_magnitude.personal|Apparent_magnitude.personal]]'
+  - '[[/_secret/Astronomy/Apparent_magnitude.secret|Apparent_magnitude.secret]]'
 dv_is_same_as:
-  - "[[../WikiData/WD~Apparent_magnitude,124313|WD~Apparent_magnitude,124313]]"
-  - "[[/_Standards/Astronomy/Apparent_magnitude|Apparent_magnitude]]"
-  - "[[/_public/Astronomy/Apparent_magnitude.public|Apparent_magnitude.public]]"
-  - "[[/_internal/Astronomy/Apparent_magnitude.internal|Apparent_magnitude.internal]]"
-  - "[[/_protect/Astronomy/Apparent_magnitude.protect|Apparent_magnitude.protect]]"
-  - "[[/_private/Astronomy/Apparent_magnitude.private|Apparent_magnitude.private]]"
-  - "[[/_personal/Astronomy/Apparent_magnitude.personal|Apparent_magnitude.personal]]"
-  - "[[/_secret/Astronomy/Apparent_magnitude.secret|Apparent_magnitude.secret]]"
+- '[[../WikiData/WD~Apparent_magnitude,124313|WD~Apparent_magnitude,124313]]'
+- '[[/_Standards/Astronomy/Apparent_magnitude|Apparent_magnitude]]'
+- '[[/_public/Astronomy/Apparent_magnitude.public|Apparent_magnitude.public]]'
+- '[[/_internal/Astronomy/Apparent_magnitude.internal|Apparent_magnitude.internal]]'
+- '[[/_protect/Astronomy/Apparent_magnitude.protect|Apparent_magnitude.protect]]'
+- '[[/_private/Astronomy/Apparent_magnitude.private|Apparent_magnitude.private]]'
+- '[[/_personal/Astronomy/Apparent_magnitude.personal|Apparent_magnitude.personal]]'
+- '[[/_secret/Astronomy/Apparent_magnitude.secret|Apparent_magnitude.secret]]'
+dv_has_:
+  name_:
+    he: בהירות
+    ml: ദൃശ്യകാന്തിമാനം
+    be: зорная велічыня
+    be-tarask: бачная зорная велічыня
+    bn: আপাত মান
+    ca: magnitud aparent
+    cs: hvězdná velikost
+    de: scheinbare Helligkeit
+    el: φαινόμενο μέγεθος
+    en: apparent magnitude
+    en-gb: apparent magnitude
+    eo: ŝajna magnitudo
+    es: magnitud aparente
+    fi: magnitudi
+    fr: magnitude apparente
+    gl: magnitude aparente
+    id: magnitudo semu
+    it: magnitudine apparente
+    ja: 実視等級
+    ko: 겉보기등급
+    ms: magnitud ketara
+    mt: manjitudni apparenti
+    nb: tilsynelatende størrelsesklasse
+    nl: schijnbare magnitude
+    nn: tilsynelatande storleiksklasse
+    pl: obserwowana wielkość gwiazdowa
+    pt: magnitude aparente
+    pt-br: magnitude aparente
+    ro: magnitudine aparentă
+    ru: видимая звёздная величина
+    scn: magnitùdini apparenti
+    sk: zdanlivá hviezdna veľkosť
+    sv: skenbar magnitud
+    uk: видима зоряна величина
+    vi: cấp sao biểu kiến
+    zh: 視星等
+    ar: قدر ظاهري
+    ast: magnitú aparente
+    az: görünmə böyüklüyü
+    bg: видима звездна величина
+    bs: prividna magnituda
+    cy: maint ymddangosol
+    en-ca: apparent magnitude
+    et: tähesuurus
+    eu: Itxurazko magnitude
+    fa: قدر ظاهری
+    frr: skiinboor magnituud
+    gsw: schiinbar Helligkeit
+    hi: सापेक्ष कांतिमान
+    hr: prividna magnituda
+    ht: mayitid aparan
+    hu: magnitúdó
+    hy: տեսանելի աստղային մեծություն
+    ia: magnitude apparente
+    ka: ვარსკვლავიერი სიდიდე
+    kab: azal amaskad
+    ku: qedra zahirî
+    lb: Visuell Magnitude
+    lt: spindesys
+    lv: redzamais spožums
+    mk: привидна ѕвездена величина
+    mr: आभासी दृश्यप्रत
+    oc: magnitud aparenta
+    om: hamma gonkaa
+    pa: ਸਾਪੇਖ ਕਾਂਤੀਮਾਨ
+    sco: apparent magnitude
+    sh: prividna magnituda
+    si: දෘශ්ය විශාලත්වය
+    sl: navidezni sij
+    sr: привидна звездана величина
+    sr-ec: привидна звездана величина
+    sr-el: prividna zvezdana veličina
+    sw: mwangaza unaoonekana
+    ta: தோற்ற ஒளிப்பொலிவெண்
+    th: ความส่องสว่างปรากฏ
+    tl: maliwanag na kalakhan
+    tr: görünür büyüklük
+    tt: йолдызча зурлык
+    uz: koʻrinma yulduz kattaligi
+    vls: Magnitude
+    war: magnitud aparente
+    wuu: 视星等
+    yue: 視星等
+    zh-cn: 星等
+    zh-hans: 视星等
+    zh-hant: 星等
+    zh-hk: 視星等
+    zh-sg: 星等
+    zh-tw: 星等
+    la: magnitudo apparens
 ---
-
 # [[Apparent_magnitude]] 
 
 #is_/same_as :: [[../WikiData/WD~Apparent_magnitude,124313|WD~Apparent_magnitude,124313]] 

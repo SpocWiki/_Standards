@@ -1,8 +1,162 @@
 ---
 aliases:
-  - mathematical
-  - Math
-  - Mathematics
+- akontabuo
+- Akuënkäŋ
+- Awgrym
+- Ałhíʼayiiltááh
+- caltchul
+- cmaci
+- Dimanya dia makumi
+- fanisana
+- Fika
+- Herreega
+- hisabati
+- I-Mathematics
+- imathemathiki
+- jakhu
+- Laasabu malibu
+- Lissafi
+- maddaght
+- maethamatiks
+- makemakika
+- masvomhu
+- matamaitic
+- matamataig
+- matamatika
+- matemaatika
+- matemat
+- matematica
+- matematicas
+- Matematiche
+- matematică
+- Matematiekku
+- matematihke
+- matematihkka
+- Matematiik
+- matematiikka
+- matematijjka
+- matematik
+- Matematika
+- matematike
+- Matematiki
+- Matematikis
+- matematikk
+- matematikki
+- matematiko
+- matematiks
+- matematikë
+- matematyka
+- matematîk
+- matematïhkka
+- Matematėka
+- matemàtega
+- matemàtica
+- matemàtiques
+- matemática
+- matemáticas
+- matemátika
+- matemátiques
+- matemâtica
+- matemātika
+- Math
+- mathemateg
+- mathematica
+- mathematical
+- Mathematics
+- mathematicã
+- mathematiek
+- Mathematik
+- mathimátíkì
+- mathématiques
+- Matimatix
+- matimàtica
+- matymatyka
+- Matèmatiques
+- Matématik
+- matématika
+- matématikes
+- Matõmaatiga
+- ol matematik
+- papapykuaa
+- pāngarau
+- Rijozijot
+- riyaziyat
+- riyaziyet
+- riyaziyyat
+- rīmcræft
+- Sabi fu Teri
+- Solokseropa
+- sona nanpa
+- Soqyoz
+- stærðfræði
+- støddfrøði
+- Sò͘-ha̍k
+- Só-hŏk
+- sṳ-ho̍k
+- tekubala
+- tinhlayo
+- tlapōhualmatiliztli
+- toán học
+- tusnakt
+- wiskunde
+- xayma
+- xisaab
+- Yupay yachay
+- μαθηματικά
+- математіка
+- математик
+- математикæ
+- Математика
+- математике
+- математиксь
+- матэматыка
+- маѳиматїка
+- риёзиёт
+- Тоогой ухаан
+- Эсв
+- մաթեմատիկա
+- מאטעמאטיק
+- מתמטיקה
+- رياضي
+- رياضيات
+- ریاضی
+- ریاضیات
+- شمېرپوهنه
+- لماط
+- ماتماتيک
+- ماتماتیک
+- گرٛؠندُت
+- ރިޔާޟިއްޔާތު
+- गणित
+- गणितं
+- गणितम्
+- গণিত
+- ਹਿਸਾਬ
+- ગણિત
+- ଗଣିତ
+- கணிதம்
+- గణితం
+- ಗಣಿತ
+- ಗಣಿತ್
+- ഗണിതം
+- ගණිතය
+- คณิตศาสตร์
+- ຄະນິດສາດ
+- རྩིས་རིག
+- သင်္ချာ
+- သၚ်္ချာ
+- მათემატიკა
+- ትምህርተ ሂሳብ
+- ᓈᓴᐅᓯᕆᓂᓗᒃᑖᖅ
+- គណិតវិទ្យា
+- ᥙᥣᥭᥰ ᥘᥙᥳ
+- ᱮᱞᱠᱷᱟ
+- ọmúmú-ónúọgụgụ
+- ⵜⵓⵙⵏⴰⴽⵜ
+- 数学
+- 數學
+- ꯆꯩꯁꯤꯡꯂꯣꯟ
+- 수학
 has_id_wikidata: Q395
 All_Science_Journal_Classification_Codes: 2601
 Archive_of_Our_Own_tag: Mathematics
@@ -11,56 +165,56 @@ Basisklassifikation: 31
 Colon_Classification: B
 Commons_category: Mathematics
 described_by_source:
-  - '[[WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 Dewey_Decimal_Classification: 510
 DFG_Science_Classification: 33
 facet_of: '[[_Standards/WikiData/WD~mathematics_education,853077]]'
 GitHub_topic:
-  - maths
-  - math
-  - mathematics
+- maths
+- math
+- mathematics
 hashtag:
-  - maths
-  - math
-  - mathematics
+- maths
+- math
+- mathematics
 has_characteristic:
-  - '[[_Standards/WikiData/WD~eternity,138045]]'
-  - '[[_Standards/WikiData/WD~mathematical_beauty,2248521]]'
-  - '[[_Standards/WikiData/WD~formalization,5469988]]'
+- '[[_Standards/WikiData/WD~eternity,138045]]'
+- '[[_Standards/WikiData/WD~mathematical_beauty,2248521]]'
+- '[[_Standards/WikiData/WD~formalization,5469988]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~combinatorics,76592]]'
-  - '[[_Standards/WikiData/WD~category_theory,217413]]'
-  - '[[_Standards/WikiData/WD~mathematical_logic,1166618]]'
-  - '[[_Standards/WikiData/WD~probability_theory,5862903]]'
-  - '[[_Standards/WikiData/WD~algebra,3968]]'
-  - '[[_Standards/WikiData/WD~mathematical_analysis,7754]]'
-  - '[[_Standards/WikiData/WD~geometry,8087]]'
-  - '[[_Standards/WikiData/WD~arithmetic,11205]]'
-  - '[[_Standards/WikiData/WD~number_theory,12479]]'
-  - '[[_Standards/WikiData/WD~set_theory,12482]]'
-  - '[[_Standards/WikiData/WD~statistics,12483]]'
-  - '[[_Standards/WikiData/WD~topology,42989]]'
+- '[[_Standards/WikiData/WD~combinatorics,76592]]'
+- '[[_Standards/WikiData/WD~category_theory,217413]]'
+- '[[_Standards/WikiData/WD~mathematical_logic,1166618]]'
+- '[[_Standards/WikiData/WD~probability_theory,5862903]]'
+- '[[_Standards/WikiData/WD~algebra,3968]]'
+- '[[_Standards/WikiData/WD~mathematical_analysis,7754]]'
+- '[[_Standards/WikiData/WD~geometry,8087]]'
+- '[[_Standards/WikiData/WD~arithmetic,11205]]'
+- '[[_Standards/WikiData/WD~number_theory,12479]]'
+- '[[_Standards/WikiData/WD~set_theory,12482]]'
+- '[[_Standards/WikiData/WD~statistics,12483]]'
+- '[[_Standards/WikiData/WD~topology,42989]]'
 has_use:
-  - '[[_Standards/WikiData/WD~mathematical_modelling,10331368]]'
-  - '[[_Standards/WikiData/WD~computation,12525525]]'
-  - '[[_Standards/WikiData/WD~science,336]]'
-  - '[[_Standards/WikiData/WD~engineering,11023]]'
-  - '[[_Standards/WikiData/WD~finance,43015]]'
+- '[[_Standards/WikiData/WD~mathematical_modelling,10331368]]'
+- '[[_Standards/WikiData/WD~computation,12525525]]'
+- '[[_Standards/WikiData/WD~science,336]]'
+- '[[_Standards/WikiData/WD~engineering,11023]]'
+- '[[_Standards/WikiData/WD~finance,43015]]'
 history_of_topic: '[[_Standards/WikiData/WD~history_of_mathematics,185264]]'
 Iconclass_notation: 49D
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mathematics.png
 instance_of:
-  - '[[_Standards/WikiData/WD~academic_major,4671286]]'
-  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 IPTC_NewsCode: mediatopic/20000715
 is_the_study_of: '[[_Standards/WikiData/WD~mathematical_object,246672]]'
 Krugosvet_article: nauka_i_tehnika/matematika/MATEMATIKA.html
@@ -69,9 +223,9 @@ MeSH_tree_code: H01.548
 native_label: μᾰθημᾰτικά
 OmegaWiki_Defined_Meaning: 350427
 part_of:
-  - '[[_Standards/WikiData/WD~exact_science,475023]]'
-  - '[[_Standards/WikiData/WD~formal_science,816264]]'
-  - '[[_Standards/WikiData/WD~science,_technology,_engineering,_and_mathematics,1881523]]'
+- '[[_Standards/WikiData/WD~exact_science,475023]]'
+- '[[_Standards/WikiData/WD~formal_science,816264]]'
+- '[[_Standards/WikiData/WD~science,_technology,_engineering,_and_mathematics,1881523]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q20829391,20829391]]'
 PhilPapers_topic: mathematics
 practiced_by: '[[_Standards/WikiData/WD~mathematician,170790]]'
@@ -79,31 +233,328 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Matem%C3
 Provenio_UUID: 7aaddbc2-44b0-4bc9-8399-6ff937711403
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~mathematical_sciences,4387017]]'
 social_media_followers:
-  - 100727
-  - 2098483
+- 100727
+- 2098483
 spoken_text_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Mathematik-article2020.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Wiskunde.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%84%D5%A1%D5%A9%D5%A5%D5%B4%D5%A1%D5%BF%D5%AB%D5%AF%D5%A1%20%28Mathematics%29.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/De-Mathematik-article2020.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Wiskunde.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%84%D5%A1%D5%A9%D5%A5%D5%B4%D5%A1%D5%BF%D5%AB%D5%AF%D5%A1%20%28Mathematics%29.ogg
 Stack_Exchange_site_URL: https://math.stackexchange.com
 Stack_Exchange_tag:
-  - https://stackoverflow.com/tags/math
-  - https://gamedev.stackexchange.com/tags/mathematics
+- https://stackoverflow.com/tags/math
+- https://gamedev.stackexchange.com/tags/mathematics
 subclass_of: '[[_Standards/WikiData/WD~natural_science,7991]]'
 subreddit:
-  - math
-  - mathematics
+- math
+- mathematics
 topic_s_main_template:
-  - '[[_Standards/WikiData/WD~Template_Math_topics_TOC,14407726]]'
-  - '[[_Standards/WikiData/WD~Q25941515,25941515]]'
+- '[[_Standards/WikiData/WD~Template_Math_topics_TOC,14407726]]'
+- '[[_Standards/WikiData/WD~Q25941515,25941515]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Mathematics,7778173]]'
 UMLS_CUI: C0024934
 union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 Universal_Decimal_Classification: 51
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_mathematics,3610632]]'
 WordLift_URL: http://data.thenextweb.com/tnw/entity/mathematics
+dv_has_:
+  name_:
+    din: Akuënkäŋ
+    diq: matematik
+    dsb: Matematika
+    dtp: matematik
+    dv: ރިޔާޟިއްޔާތު
+    eml: matemâtica
+    en-ca: mathematics
+    en-gb: mathematics
+    ext: matemáticas
+    fj: Fika
+    fo: støddfrøði
+    frp: Matèmatiques
+    frr: Matematiik
+    fur: Matematiche
+    fy: wiskunde
+    ga: matamaitic
+    gan: 數學
+    gcr: Matématik
+    gd: matamataig
+    gl: matemáticas
+    gn: papapykuaa
+    gom: ಗಣಿತ್
+    gor: Matematika
+    gpe: mathematics
+    grc: μαθηματικά
+    gsw: Mathematik
+    gu: ગણિત
+    gv: maddaght
+    ha: Lissafi
+    hak: sṳ-ho̍k
+    haw: makemakika
+    hif: mathematics
+    hsb: Matematika
+    hy: մաթեմատիկա
+    iba: Matematik
+    ie: matematica
+    ig: ọmúmú-ónúọgụgụ
+    ilo: matematika
+    inh: Математика
+    io: matematiko
+    is: stærðfræði
+    iu: ᓈᓴᐅᓯᕆᓂᓗᒃᑖᖅ
+    jam: Matimatix
+    jbo: cmaci
+    jv: matématika
+    kab: tusnakt
+    kge: Matematika
+    kk: математика
+    kl: matematikki
+    km: គណិតវិទ្យា
+    kn: ಗಣಿತ
+    knc: Mathematics
+    ko: 수학
+    krc: математика
+    ks: گرٛؠندُت
+    ku: matematîk
+    kw: Awgrym
+    ky: математика
+    lad: matemátika
+    lb: Mathematik
+    lez: математика
+    lfn: matematica
+    lg: Mathematics
+    li: mathematiek
+    lij: matematica
+    lld: Matematica
+    lmo: matemàtega
+    lo: ຄະນິດສາດ
+    lt: matematika
+    lv: matemātika
+    lzh: 數學
+    mad: Matematika
+    mag: गणित
+    mai: गणित
+    map-bms: matematika
+    mg: fanisana
+    mhr: математике
+    mi: pāngarau
+    min: Matematika
+    mk: математика
+    mn: математик
+    mni: ꯆꯩꯁꯤꯡꯂꯣꯟ
+    mnw: သၚ်္ချာ
+    mt: matematika
+    mwl: matemática
+    my: သင်္ချာ
+    myv: математика
+    mzn: ریاضی
+    nah: tlapōhualmatiliztli
+    nan: Sò͘-ha̍k
+    nds: Mathematik
+    nds-nl: wiskunde
+    ne: गणित
+    new: गणित
+    nia: Matematika
+    nov: matematike
+    nrm: caltchul
+    nv: Ałhíʼayiiltááh
+    olo: Matematiekku
+    om: Herreega
+    or: ଗଣିତ
+    os: математикæ
+    pag: matematiks
+    pam: Matematika
+    pap: matemátika
+    pcd: matématikes
+    pi: गणितं
+    pih: maethamatiks
+    pl: matematyka
+    pms: matemàtica
+    pnb: ریاضی
+    ps: شمېرپوهنه
+    qu: Yupay yachay
+    rue: математіка
+    rup: mathematicã
+    sa: गणितम्
+    sah: математика
+    sc: matemàtica
+    scn: matimàtica
+    sco: mathematics
+    sd: رياضي
+    se: matematihkka
+    sgs: Matematėka
+    sh: matematika
+    shi: Tusnakt
+    si: ගණිතය
+    sjd: математика
+    skr: ریاضی
+    sm: matematika
+    sma: matematihke
+    smj: matematihkka
+    smn: matematiik
+    sms: matematikk
+    sn: masvomhu
+    so: xisaab
+    sr-ec: математика
+    sr-el: matematika
+    srn: Sabi fu Teri
+    ss: tekubala
+    stq: mathematik
+    su: matematika
+    sw: hisabati
+    szl: matymatyka
+    tcy: ಗಣಿತ
+    tdd: ᥙᥣᥭᥰ ᥘᥙᥳ
+    te: గణితం
+    tet: matemátika
+    tg: риёзиёт
+    tg-cyrl: риёзиёт
+    th: คณิตศาสตร์
+    tk: matematika
+    tl: matematika
+    tly: Rijozijot
+    tn: Mathematics
+    tok: sona nanpa
+    tpi: ol matematik
+    ts: tinhlayo
+    tt: математика
+    tt-cyrl: математика
+    tt-latn: matematika
+    tw: akontabuo
+    udm: математика
+    ur: ریاضی
+    uz: matematika
+    vec: matemàtega
+    vep: matematik
+    vls: Wiskunde
+    vo: matemat
+    vro: Matõmaatiga
+    wa: Matematike
+    war: matematika
+    wo: xayma
+    wuu: 数学
+    xal: Эсв
+    xh: I-Mathematics
+    xmf: მათემატიკა
+    yi: מאטעמאטיק
+    yo: mathimátíkì
+    za: Soqyoz
+    zea: Wiskunde
+    zgh: ⵜⵓⵙⵏⴰⴽⵜ
+    zh-cn: 数学
+    zh-hans: 数学
+    zh-hant: 數學
+    zh-hk: 數學
+    zh-mo: 數學
+    zh-my: 数学
+    zh-sg: 数学
+    zu: imathemathiki
+    glk: ریاضی
+    rki: သင်္ချာ
+    sje: matematijjka
+    kaa: matematika
+    sju: matematïhkka
+    lua: Dimanya dia makumi
+    pcm: Matematiks
+    en: mathematics
+    an: matematicas
+    it: matematica
+    ru: математика
+    sq: matematikë
+    sv: matematik
+    ml: ഗണിതം
+    zh-tw: 數學
+    fr: mathématiques
+    da: matematik
+    la: mathematica
+    et: matemaatika
+    ka: მათემატიკა
+    sk: matematika
+    de: Mathematik
+    ms: matematik
+    ms-arab: ماتماتيک
+    nb: matematikk
+    eu: matematika
+    pt: matemática
+    he: מתמטיקה
+    cs: matematika
+    es: matemáticas
+    hi: गणित
+    ja: 数学
+    uk: математика
+    hr: matematika
+    pa: ਹਿਸਾਬ
+    br: matematik
+    dag: Laasabu malibu
+    nn: matematikk
+    nl: wiskunde
+    be: матэматыка
+    ta: கணிதம்
+    fi: matematiikka
+    ckb: ماتماتیک
+    ro: matematică
+    sl: matematika
+    zh: 數學
+    sat: ᱮᱞᱠᱷᱟ
+    fa: ریاضیات
+    id: matematika
+    eo: matematiko
+    ar: رياضيات
+    mr: गणित
+    be-tarask: матэматыка
+    ca: matemàtiques
+    tr: matematik
+    mdf: математиксь
+    pt-br: matemática
+    az: riyaziyyat
+    hu: matematika
+    vi: toán học
+    oc: matematicas
+    sr: математика
+    yue: 數學
+    bs: matematika
+    el: μαθηματικά
+    ht: matematik
+    ia: mathematica
+    af: wiskunde
+    am: ትምህርተ ሂሳብ
+    ang: rīmcræft
+    anp: गणित
+    ary: لماط
+    arz: رياضيات
+    as: গণিত
+    ast: matemátiques
+    avk: Solokseropa
+    awa: गणित
+    ay: jakhu
+    azb: ریاضیات
+    ba: математика
+    ban: Matematika
+    bar: Mathematik
+    bcl: Matematika
+    bg: математика
+    bho: गणित
+    bi: Matematikis
+    bjn: matamatika
+    blk: သင်္ချာ
+    bm: Matematiki
+    bn: গণিত
+    bo: རྩིས་རིག
+    bpy: গণিত
+    bug: matematika
+    bxr: Тоогой ухаан
+    cbk-zam: Matematica
+    cdo: Só-hŏk
+    ce: Математика
+    ceb: matematika
+    ch: matematika
+    co: matematica
+    crh: riyaziyat
+    crh-latn: Riyaziyat
+    crh-ro: riyaziyet
+    csb: matematika
+    cu: маѳиматїка
+    cv: математика
+    cy: mathemateg
 ---
-
 # [[Mathematics]] 
 
 #is_/same_as :: [[WikiData/WD~Mathematics,395|WD~Mathematics,395]] 

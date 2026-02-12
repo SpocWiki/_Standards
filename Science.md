@@ -1,93 +1,578 @@
 ---
 aliases:
-  - scientific
-  - Wissenschaft
-  - wissenschaftlich
-  - Science
+- agham
+- akeakamai
+- amamihe
+- bilim
+- Category:သိပ္ပံ
+- ciencia
+- cienco
+- ciència
+- ciéncia
+- ciência
+- céncia
+- dieda
+- dieđa
+- dɔnniya
+- Elm
+- Elmu
+- eolaíocht
+- fan
+- fän
+- godhonieth
+- gohyoz
+- gwyddoniaeth
+- hamut'ay
+- ilim
+- ilmi
+- ilmu
+- inzululwazi
+- isayensi
+- iscièntzia
+- kaalamdag
+- kho-ha̍k
+- khoa học
+- khô-ho̍k
+- kizabu
+- kuŏ-hŏk
+- lɛɣtʋ
+- mokslas
+- muokslos
+- nasin sona
+- nauka
+- Ngoingũa (Thayathi)
+- nolav
+- nyansahu
+- oaylleeaght
+- opa
+- pūtaiao
+- saayinsii
+- saens
+- saidheans
+- saienisi
+- saiens
+- Sains
+- saintsi
+- saske
+- sayans
+- sayansi
+- sayen
+- sayense
+- saynis
+- Science
+- sciences
+- scienche
+- sciencia
+- scienco
+- sciensa
+- scientia
+- scientie
+- scientific
+- scienza
+- sciéncia
+- sciënza
+- sensia
+- shkencë
+- siansa
+- sience
+- siencia
+- siensa
+- siensia
+- siensiiaka
+- sientie
+- siyensya
+- skiant
+- skoro
+- syans
+- syensya
+- syince
+- syinches
+- sáyẹ́nsì
+- tabibi
+- tamassant
+- teadus
+- tedo
+- tembikuaaty
+- thutamahlale
+- tiede
+- tieđâ
+- tiidüs
+- tiõđ
+- tlamatiliztli
+- tudomány
+- tussna
+- vakadidike
+- veda
+- vetenskap
+- videnskab
+- vigyan
+- vitenskap
+- vitskap
+- vísindi
+- věda
+- wedenskap
+- weetnschap
+- weitesjap
+- wetenschap
+- Wetenschop
+- wetenskap
+- Weêtenschap
+- Wissenschaft
+- wissenschaftlich
+- Wissnschåft
+- witancræft
+- wittenskip
+- Wëssenschaft
+- Wüsseschaft
+- wědomnosć
+- wědomosć
+- xam-xam
+- xjenza
+- yatxatawi
+- ylym
+- zanist
+- zientzia
+- zineiba
+- zinātne
+- znanost
+- Èlmo
+- èlmu
+- élmu
+- ùczba
+- ăслăх
+- şınasiye
+- științâ
+- știință
+- επιστήμη
+- гIелму
+- зонад
+- илим
+- илм
+- илму
+- навука
+- наука
+- те̄дт
+- тона
+- тонадома
+- фән
+- шанче
+- шинжлэх ухаан
+- шэнжэлхэ ухаан
+- ғылым
+- үөрэх
+- ӏилма
+- գիտութիւն
+- գիտություն
+- וויסנשאפט
+- מדע
+- زانست
+- ساءينس
+- سائنس
+- ساینَس
+- صيونص
+- علم
+- پوهنه
+- ߟߐ߲ߞߏ
+- बिज्ञान
+- विज्ञान
+- विज्ञानम्
+- বিজ্ঞান
+- ਵਿਗਿਆਨ
+- વિજ્ઞાન
+- ବିଜ୍ଞାନ
+- அறிவியல்
+- విజ్ఞానశాస్త్రం
+- ವಿಜ್ಞಾನ
+- ವಿಜ್ಞಾನೊ
+- ശാസ്ത്രം
+- විද්යාව
+- วิทยาศาสตร์
+- ວິທະຍາສາດ
+- ཚན་རིག
+- ပၢႆးသၢႆႊ
+- သိပ္ပံ
+- သိပ္ပံပညာ
+- მენცარობა
+- მეცნიერება
+- ሳይንስ
+- ᏂᎦᎥ ᎠᎦᏎᏍᏔᏅ
+- វិទ្យាសាស្ត្រ
+- ᨔᨕᨗᨊᨔ
+- ᱥᱟᱬᱮᱥ
+- ἐπιστήμη
+- ⵜⴰⵎⴰⵙⵙⴰⵏⵜ
+- 格致
+- 科学
+- 科學
+- ꯅꯩꯅꯂꯣꯟ
+- 과학
 has_id_wikidata: Q336
 Archive_of_Our_Own_tag: Science
 Colon_Classification: A
 Commons_category: Science
 described_by_source:
-  - '[[WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 Dewey_Decimal_Classification: 1.2
 different_from:
-  - '[[_Standards/WikiData/WD~Veda,968451]]'
-  - '[[_Standards/WikiData/WD~Science,1294710]]'
-  - '[[_Standards/WikiData/WD~Wissenschaft,8027727]]'
-  - '[[_Standards/WikiData/WD~Wissenschaft,15854878]]'
+- '[[_Standards/WikiData/WD~Veda,968451]]'
+- '[[_Standards/WikiData/WD~Science,1294710]]'
+- '[[_Standards/WikiData/WD~Wissenschaft,8027727]]'
+- '[[_Standards/WikiData/WD~Wissenschaft,15854878]]'
 hashtag: science
 has_characteristic:
-  - '[[_Standards/WikiData/WD~scientific_evidence,3320364]]'
-  - '[[_Standards/WikiData/WD~science_award,11448906]]'
+- '[[_Standards/WikiData/WD~scientific_evidence,3320364]]'
+- '[[_Standards/WikiData/WD~science_award,11448906]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~formal_science,816264]]'
-  - '[[_Standards/WikiData/WD~interdisciplinary_science,1665984]]'
-  - '[[_Standards/WikiData/WD~experimental_science,5769081]]'
-  - '[[_Standards/WikiData/WD~scientific_knowledge,6045936]]'
-  - '[[_Standards/WikiData/WD~scientific_literature,12042160]]'
-  - '[[_Standards/WikiData/WD~scientific_worldview,12132639]]'
-  - '[[_Standards/WikiData/WD~natural_science,7991]]'
-  - '[[_Standards/WikiData/WD~social_science,34749]]'
-  - '[[_Standards/WikiData/WD~research,42240]]'
+- '[[_Standards/WikiData/WD~formal_science,816264]]'
+- '[[_Standards/WikiData/WD~interdisciplinary_science,1665984]]'
+- '[[_Standards/WikiData/WD~experimental_science,5769081]]'
+- '[[_Standards/WikiData/WD~scientific_knowledge,6045936]]'
+- '[[_Standards/WikiData/WD~scientific_literature,12042160]]'
+- '[[_Standards/WikiData/WD~scientific_worldview,12132639]]'
+- '[[_Standards/WikiData/WD~natural_science,7991]]'
+- '[[_Standards/WikiData/WD~social_science,34749]]'
+- '[[_Standards/WikiData/WD~research,42240]]'
 history_of_topic: '[[_Standards/WikiData/WD~history_of_science,201486]]'
 IAB_code: 464
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Stylised%20atom%20with%20three%20Bohr%20model%20orbits%20and%20stylised%20nucleus%20%28encircled%29.svg
 instance_of:
-  - '[[_Standards/WikiData/WD~Wissenschaft,8027727]]'
-  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~Wissenschaft,8027727]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 Library_of_Congress_Classification: Q
 Mastodon_instance_URL:
-  - https://fediscience.org
-  - https://mstdn.science
-  - https://scicomm.xyz
+- https://fediscience.org
+- https://mstdn.science
+- https://scicomm.xyz
 MeSH_tree_code: H01.770
 OmegaWiki_Defined_Meaning: 3322
 opposite_of:
-  - '[[_Standards/WikiData/WD~pseudoscience,483677]]'
-  - '[[_Standards/WikiData/WD~antiscience,2508977]]'
-  - '[[_Standards/WikiData/WD~non-science,28954762]]'
+- '[[_Standards/WikiData/WD~pseudoscience,483677]]'
+- '[[_Standards/WikiData/WD~antiscience,2508977]]'
+- '[[_Standards/WikiData/WD~non-science,28954762]]'
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Science%20tourism%20banner%20LHC.jpg
 part_of: '[[_Standards/WikiData/WD~science,_technology,_engineering,_and_mathematics,1881523]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q21200630,21200630]]'
 practiced_by:
-  - '[[_Standards/WikiData/WD~scientist_trainee,111723212]]'
-  - '[[_Standards/WikiData/WD~scientist,901]]'
+- '[[_Standards/WikiData/WD~scientist_trainee,111723212]]'
+- '[[_Standards/WikiData/WD~scientist,901]]'
 product_material_or_service_produced_or_provided: '[[_Standards/WikiData/WD~knowledge,9081]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9217%20%28tha%29-Patsagorn%20Y.-%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C.wav
 Provenio_UUID: 797d3ac0-e4a3-4fe5-b2d3-72dbde62b9db
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~sciences,43096377]]'
 spoken_text_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Wissenschaft%20%28gesprochene%20Wikipedia%20mit%20KI-Stimme%29.mp3
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Ciencia%20%28hablado%20por%20voz%20AI%29.mp3
+- http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Wissenschaft%20%28gesprochene%20Wikipedia%20mit%20KI-Stimme%29.mp3
+- http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Ciencia%20%28hablado%20por%20voz%20AI%29.mp3
 studied_in:
-  - '[[_Standards/WikiData/WD~science_studies,1332231]]'
-  - '[[_Standards/WikiData/WD~science_and_technology_studies,2445082]]'
-  - '[[_Standards/WikiData/WD~sociology_of_science,2747152]]'
-  - '[[_Standards/WikiData/WD~metascience,30599095]]'
-  - '[[_Standards/WikiData/WD~scientonomy,107015976]]'
-  - '[[_Standards/WikiData/WD~epistemology,9471]]'
-  - '[[_Standards/WikiData/WD~philosophy_of_science,59115]]'
+- '[[_Standards/WikiData/WD~science_studies,1332231]]'
+- '[[_Standards/WikiData/WD~science_and_technology_studies,2445082]]'
+- '[[_Standards/WikiData/WD~sociology_of_science,2747152]]'
+- '[[_Standards/WikiData/WD~metascience,30599095]]'
+- '[[_Standards/WikiData/WD~scientonomy,107015976]]'
+- '[[_Standards/WikiData/WD~epistemology,9471]]'
+- '[[_Standards/WikiData/WD~philosophy_of_science,59115]]'
 subclass_of: '[[_Standards/WikiData/WD~knowledge_system,105948247]]'
 subreddit:
-  - science
-  - askscience
+- science
+- askscience
 topic_s_main_template:
-  - '[[_Standards/WikiData/WD~Template_Science,6177750]]'
-  - '[[_Standards/WikiData/WD~Template_Science_navigation_box,6507361]]'
+- '[[_Standards/WikiData/WD~Template_Science,6177750]]'
+- '[[_Standards/WikiData/WD~Template_Science_navigation_box,6507361]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Science,4541810]]'
 UMLS_CUI: C0036397
 union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 uses: '[[_Standards/WikiData/WD~scientific_method,46857]]'
 U_S_National_Archives_Identifier: 10642032
 WordLift_URL: http://data.thenextweb.com/tnw/entity/science
+dv_has_:
+  name_:
+    om: saayinsii
+    os: зонад
+    pap: siencia
+    pcd: syinches
+    pcm: Science
+    pih: saiens
+    pms: siensa
+    ps: پوهنه
+    pt-br: ciência
+    qu: hamut'ay
+    rki: Category:သိပ္ပံ
+    rm: scienza
+    rue: наука
+    rup: științâ
+    sa: विज्ञानम्
+    sah: үөрэх
+    sat: ᱥᱟᱬᱮᱥ
+    sc: iscièntzia
+    scn: scienza
+    sco: science
+    sd: سائنس
+    se: dieđa
+    sgs: muokslos
+    sh: nauka
+    shi: tamassant
+    sjd: те̄дт
+    skr: سائنس
+    sl: znanost
+    sm: saienisi
+    smj: dieda
+    smn: tieđâ
+    sms: tiõđ
+    sn: science
+    so: saynis
+    sr: наука
+    sr-ec: наука
+    sr-el: nauka
+    srn: skoro
+    ss: isayensi
+    st: sayense
+    su: élmu
+    szl: nauka
+    tcy: ವಿಜ್ಞಾನೊ
+    te: విజ్ఞానశాస్త్రం
+    tg-cyrl: илм
+    th: วิทยาศาสตร์
+    tk: ylym
+    tl: agham
+    tly: Elm
+    to: saienisi
+    ts: sciences
+    tt: фән
+    tt-cyrl: фән
+    tt-latn: fän
+    tum: sayansi
+    udm: наука
+    uz: fan
+    ve: saintsi
+    vec: siensa
+    vep: tedo
+    vls: weetnschap
+    vo: nolav
+    vro: tiidüs
+    wa: syince
+    war: syensya
+    wo: xam-xam
+    wuu: 科学
+    xh: inzululwazi
+    xmf: მენცარობა
+    yi: וויסנשאפט
+    yo: sáyẹ́nsì
+    yue: 科學
+    za: gohyoz
+    zea: Weêtenschap
+    zh-cn: 科学
+    zh-mo: 科学
+    zh-sg: 科学
+    zh-tw: 科學
+    zu: isayensi
+    shn: ပၢႆးသၢႆႊ
+    zgh: ⵜⴰⵎⴰⵙⵙⴰⵏⵜ
+    tok: nasin sona
+    diq: şınasiye
+    dsb: wědomnosć
+    dtp: Sains
+    dty: विज्ञान
+    eo: scienco
+    ext: céncia
+    fj: vakadidike
+    fo: vísindi
+    frp: science
+    frr: wedenskap
+    fur: sience
+    fy: wittenskip
+    gan: 科學
+    gcr: syans
+    gd: saidheans
+    gl: ciencia
+    gn: tembikuaaty
+    gom: विज्ञान
+    gpe: Science
+    gsw: Wüsseschaft
+    guc: siensiiaka
+    gv: oaylleeaght
+    hak: khô-ho̍k
+    haw: akeakamai
+    hif: vigyan
+    hr: znanost
+    hsb: wědomosć
+    ht: syans
+    hu: tudomány
+    hy: գիտություն
+    hyw: գիտութիւն
+    ia: scientia
+    iba: Sains
+    ie: scientie
+    ilo: siensia
+    inh: ӏилма
+    io: cienco
+    is: vísindi
+    jam: sayans
+    jbo: saske
+    jv: èlmu
+    ka: მეცნიერება
+    kaa: ilim
+    kab: tussna
+    kbp: lɛɣtʋ
+    kcg: sayen
+    kg: kizabu
+    ki: Ngoingũa (Thayathi)
+    kk: ғылым
+    km: វិទ្យាសាស្ត្រ
+    kn: ವಿಜ್ಞಾನ
+    knc: Science
+    ko: 과학
+    krc: илму
+    ks: ساینَس
+    ku: zanist
+    ku-latn: zanist
+    kw: godhonieth
+    ky: илим
+    lad: sensia
+    lb: Wëssenschaft
+    lez: илим
+    lfn: siensa
+    li: weitesjap
+    lij: sciensa
+    lld: sciënza
+    lmo: scienza
+    lo: ວິທະຍາສາດ
+    lt: mokslas
+    ltg: zineiba
+    lzh: 格致
+    mad: Èlmo
+    mag: विज्ञान
+    mai: विज्ञान
+    map-bms: ilmu
+    mdf: тонадома
+    mg: siansa
+    mhr: шанче
+    mi: pūtaiao
+    min: sains
+    mk: наука
+    mn: шинжлэх ухаан
+    mni: ꯅꯩꯅꯂꯣꯟ
+    mnw: သိပ္ပံ
+    mr: विज्ञान
+    ms-arab: ساءينس
+    mt: xjenza
+    mwl: ciéncia
+    my: သိပ္ပံပညာ
+    myv: тона
+    nah: tlamatiliztli
+    nan: kho-ha̍k
+    nds: Wetenschop
+    ne: विज्ञान
+    new: विज्ञान
+    nov: sientie
+    nqo: ߟߐ߲ߞߏ
+    nrm: scienche
+    nso: thutamahlale
+    oc: sciéncia
+    fr: science
+    hi: विज्ञान
+    pa: ਵਿਗਿਆਨ
+    pnb: سائنس
+    grc: ἐπιστήμη
+    en: science
+    it: scienza
+    ta: அறிவியல்
+    fa: علم
+    tg: илм
+    tr: bilim
+    bn: বিজ্ঞান
+    ru: наука
+    cs: věda
+    sq: shkencë
+    lv: zinātne
+    nl: wetenschap
+    da: videnskab
+    sw: sayansi
+    nn: vitskap
+    sk: veda
+    de: Wissenschaft
+    sv: vetenskap
+    la: scientia
+    fi: tiede
+    ml: ശാസ്ത്രം
+    et: teadus
+    ha: ilmi
+    nb: vitenskap
+    pt: ciência
+    es: ciencia
+    id: ilmu
+    ig: amamihe
+    br: skiant
+    eu: zientzia
+    he: מדע
+    ms: sains
+    tw: nyansahu
+    ja: 科学
+    uk: наука
+    dag: tabibi
+    el: επιστήμη
+    ar: علم
+    csb: ùczba
+    nds-nl: wetenschop
+    ckb: زانست
+    pl: nauka
+    si: විද්යාව
+    ga: eolaíocht
+    zh: 科學
+    zh-hant: 科學
+    zh-hk: 科學
+    be-tarask: навука
+    arz: علم
+    de-ch: Wissenschaft
+    vi: khoa học
+    be: навука
+    gu: વિજ્ઞાન
+    zh-hans: 科学
+    or: ବିଜ୍ଞାନ
+    ro: știință
+    ur: سائنس
+    af: wetenskap
+    am: ሳይንስ
+    an: sciencia
+    ang: witancræft
+    anp: विज्ञान
+    ary: صيونص
+    as: বিজ্ঞান
+    ast: ciencia
+    av: гIелму
+    avk: opa
+    ay: yatxatawi
+    az: elm
+    azb: علم
+    ba: фән
+    bar: Wissnschåft
+    bcl: siyensya
+    bg: наука
+    bho: बिज्ञान
+    bi: saens
+    bjn: sains
+    blk: သိပ္ပံ
+    bm: dɔnniya
+    bo: ཚན་རིག
+    bpy: বিজ্ঞান
+    bs: nauka
+    btm: Elmu
+    bug: ᨔᨕᨗᨊᨔ
+    bxr: шэнжэлхэ ухаан
+    ca: ciència
+    cdo: kuŏ-hŏk
+    ce: ӏилма
+    ceb: kaalamdag
+    chr: ᏂᎦᎥ ᎠᎦᏎᏍᏔᏅ
+    co: scienza
+    crh: ilim
+    crh-latn: ilim
+    cv: ăслăх
+    cy: gwyddoniaeth
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Science** is a systematic discipline that builds and organises knowledge in the form of testable hypotheses and predictions about the universe. Modern science is typically divided into two or three major branches: the natural sciences (e.g., physics, chemistry, and biology), which study the physical world; and the social sciences (e.g., economics, psychology, and sociology), which study individuals and societies. The formal sciences (e.g., logic, mathematics, and theoretical computer science), which study formal systems governed by axioms and rules, are sometimes described as being sciences as well; however, they are often regarded as a separate field because they rely on deductive reasoning instead of the scientific method or empirical evidence as their main methodology. Applied sciences are disciplines that use scientific knowledge for practical purposes, such as engineering and medicine.

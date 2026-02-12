@@ -1,56 +1,218 @@
 ---
 aliases:
-  - xenology
-  - exobiology
-  - Astrobiology
+- Astiroobaayoloojii
+- Astrobiolochía
+- astrobiologi
+- astrobiologia
+- Astrobiologie
+- astrobiologiija
+- astrobiologija
+- astrobiologio
+- astrobiologiya
+- Astrobiologiýa
+- Astrobiologjia
+- Astrobiology
+- astrobiología
+- astrobiolojia
+- astrobioloogia
+- astrobioloxía
+- astrobioloģija
+- astrobioluogėjė
+- astrobiológia
+- astrobiołozia
+- astrobiyolohiya
+- astrobiyoloji
+- astrofioleg
+- asztrobiológia
+- eisibhitheolaíocht
+- exobiologia
+- exobiologie
+- exobiology
+- kosmička biologija
+- sinh học vũ trụ
+- stjörnulíffræði
+- Tiĕng-ùng Sĕng-ŭk-hŏk
+- xenology
+- βιοαστρονομία
+- астрабіялёгія
+- астрабіялогія
+- Астробиологи
+- астробиологија
+- астробиология
+- космічна біологія
+- космичка биологија
+- Экзобиология
+- Աստղակենսաբանութիւն
+- աստղակենսաբանություն
+- אסטרוביולוגיה
+- اخترزیستشناسی
+- استروبيولوجيا
+- ستورو ژونپوهنه
+- ستێرژینناسی
+- علم الأحياء الفلكي
+- فلکی حیاتیات
+- एस्ट्रोबायोलोजी
+- खगोलजीव विज्ञान
+- জ্যোতির্জীববিজ্ঞান
+- விண்வெளி உயிரியல்
+- ಆಸ್ಟ್ರೋಬಯಾಲಾಜಿ
+- ജ്യോതിർജീവശാസ്ത്രം
+- අභ්යාවකාශ ජීව විද්යාව
+- ასტრობიოლოგია
+- 天体生物学
+- 天體生物學
+- 宇宙生物学
+- 우주생물학
 has_id_wikidata: Q411
 instance_of:
-  - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
-  - "[[_Standards/WikiData/WD~field_of_study,2267705]]"
-  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~branch_of_biology,28598684]]"
-  - "[[_Standards/WikiData/WD~branch_of_astronomy,131565179]]"
-practiced_by: "[[_Standards/WikiData/WD~astrobiologist,3061999]]"
+- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~field_of_study,2267705]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~branch_of_biology,28598684]]'
+- '[[_Standards/WikiData/WD~branch_of_astronomy,131565179]]'
+practiced_by: '[[_Standards/WikiData/WD~astrobiologist,3061999]]'
 different_from:
-  - "[[_Standards/WikiData/WD~xenobiology,3545894]]"
-  - "[[_Standards/WikiData/WD~exobiology,18620965]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Astrobiology,6689385]]"
-described_by_source: "[[_Standards/WikiData/WD~English_Wiktionary,22001375]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Astrobiology,50674023]]"
-subclass_of: "[[_Standards/WikiData/WD~biology,420]]"
+- '[[_Standards/WikiData/WD~xenobiology,3545894]]'
+- '[[_Standards/WikiData/WD~exobiology,18620965]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Astrobiology,6689385]]'
+described_by_source: '[[_Standards/WikiData/WD~English_Wiktionary,22001375]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Astrobiology,50674023]]'
+subclass_of: '[[_Standards/WikiData/WD~biology,420]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Blacksmoker%20in%20Atlantic%20Ocean.jpg
 GitHub_topic: astrobiology
-OmegaWiki_Defined_Meaning: "665173"
+OmegaWiki_Defined_Meaning: 665173
 subreddit: Astrobiology
 Commons_category: Astrobiology
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%9C%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%A4%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8.wav
 Stack_Exchange_tag: https://worldbuilding.stackexchange.com/tags/xenobiology
-Dewey_Decimal_Classification: "576.839"
+Dewey_Decimal_Classification: 576.839
 UMLS_CUI: C2713307
 MeSH_tree_code: H01.158.273.295
 Krugosvet_article_archived_: nauka_i_tehnika/biologiya/ASTROBIOLOGIYA.html
 dv_is_:
   same_as:
-    - "[[../WikiData/WD~Astrobiology,411|WD~Astrobiology,411]]"
-    - "[[/_Standards/Astronomy/Astrobiology|Astrobiology]]"
-    - "[[/_public/Astronomy/Astrobiology.public|Astrobiology.public]]"
-    - "[[/_internal/Astronomy/Astrobiology.internal|Astrobiology.internal]]"
-    - "[[/_protect/Astronomy/Astrobiology.protect|Astrobiology.protect]]"
-    - "[[/_private/Astronomy/Astrobiology.private|Astrobiology.private]]"
-    - "[[/_personal/Astronomy/Astrobiology.personal|Astrobiology.personal]]"
-    - "[[/_secret/Astronomy/Astrobiology.secret|Astrobiology.secret]]"
+  - '[[../WikiData/WD~Astrobiology,411|WD~Astrobiology,411]]'
+  - '[[/_Standards/Astronomy/Astrobiology|Astrobiology]]'
+  - '[[/_public/Astronomy/Astrobiology.public|Astrobiology.public]]'
+  - '[[/_internal/Astronomy/Astrobiology.internal|Astrobiology.internal]]'
+  - '[[/_protect/Astronomy/Astrobiology.protect|Astrobiology.protect]]'
+  - '[[/_private/Astronomy/Astrobiology.private|Astrobiology.private]]'
+  - '[[/_personal/Astronomy/Astrobiology.personal|Astrobiology.personal]]'
+  - '[[/_secret/Astronomy/Astrobiology.secret|Astrobiology.secret]]'
 dv_is_same_as:
-  - "[[../WikiData/WD~Astrobiology,411|WD~Astrobiology,411]]"
-  - "[[/_Standards/Astronomy/Astrobiology|Astrobiology]]"
-  - "[[/_public/Astronomy/Astrobiology.public|Astrobiology.public]]"
-  - "[[/_internal/Astronomy/Astrobiology.internal|Astrobiology.internal]]"
-  - "[[/_protect/Astronomy/Astrobiology.protect|Astrobiology.protect]]"
-  - "[[/_private/Astronomy/Astrobiology.private|Astrobiology.private]]"
-  - "[[/_personal/Astronomy/Astrobiology.personal|Astrobiology.personal]]"
-  - "[[/_secret/Astronomy/Astrobiology.secret|Astrobiology.secret]]"
+- '[[../WikiData/WD~Astrobiology,411|WD~Astrobiology,411]]'
+- '[[/_Standards/Astronomy/Astrobiology|Astrobiology]]'
+- '[[/_public/Astronomy/Astrobiology.public|Astrobiology.public]]'
+- '[[/_internal/Astronomy/Astrobiology.internal|Astrobiology.internal]]'
+- '[[/_protect/Astronomy/Astrobiology.protect|Astrobiology.protect]]'
+- '[[/_private/Astronomy/Astrobiology.private|Astrobiology.private]]'
+- '[[/_personal/Astronomy/Astrobiology.personal|Astrobiology.personal]]'
+- '[[/_secret/Astronomy/Astrobiology.secret|Astrobiology.secret]]'
+dv_has_:
+  name_:
+    zh: 天體生物學
+    it: astrobiologia
+    en: astrobiology
+    sv: astrobiologi
+    ml: ജ്യോതിർജീവശാസ്ത്രം
+    de: Astrobiologie
+    nb: astrobiologi
+    es: astrobiología
+    da: astrobiologi
+    fr: astrobiologie
+    ms: astrobiologi
+    nl: astrobiologie
+    fa: اخترزیستشناسی
+    he: אסטרוביולוגיה
+    ru: астробиология
+    el: βιοαστρονομία
+    nn: astrobiologi
+    ja: 宇宙生物学
+    af: astrobiologie
+    an: Astrobiolochía
+    ar: علم الأحياء الفلكي
+    arz: استروبيولوجيا
+    ast: astrobioloxía
+    az: astrobiologiya
+    be: астрабіялогія
+    be-tarask: астрабіялёгія
+    bg: астробиология
+    bn: জ্যোতির্জীববিজ্ঞান
+    bs: astrobiologija
+    ca: astrobiologia
+    cdo: Tiĕng-ùng Sĕng-ŭk-hŏk
+    ckb: ستێرژینناسی
+    cs: astrobiologie
+    cy: astrofioleg
+    de-ch: Astrobiologie
+    en-ca: astrobiology
+    en-gb: astrobiology
+    eo: astrobiologio
+    et: astrobioloogia
+    eu: exobiologia
+    fi: astrobiologia
+    ga: eisibhitheolaíocht
+    gl: astrobioloxía
+    hi: खगोलजीव विज्ञान
+    hr: astrobiologija
+    hu: asztrobiológia
+    hy: աստղակենսաբանություն
+    hyw: Աստղակենսաբանութիւն
+    id: astrobiologi
+    ig: Astrobiology
+    io: astrobiologio
+    is: stjörnulíffræði
+    ka: ასტრობიოლოგია
+    kk: Экзобиология
+    kn: ಆಸ್ಟ್ರೋಬಯಾಲಾಜಿ
+    ko: 우주생물학
+    ky: астробиология
+    la: Astrobiologia
+    lb: Astrobiologie
+    lfn: astrobiolojia
+    lt: astrobiologija
+    lv: astrobioloģija
+    min: Astrobiologi
+    mk: астробиологија
+    mn: Астробиологи
+    ne: एस्ट्रोबायोलोजी
+    nov: astrobiologia
+    oc: exobiologia
+    om: Astiroobaayoloojii
+    pl: astrobiologia
+    ps: ستورو ژونپوهنه
+    pt: exobiologia
+    pt-br: exobiologia
+    ro: exobiologie
+    sco: astrobiology
+    se: astrobiologiija
+    sgs: astrobioluogėjė
+    sh: astrobiologija
+    si: අභ්යාවකාශ ජීව විද්යාව
+    sk: astrobiológia
+    sl: astrobiologija
+    smn: astrobiologia
+    sms: astrobiologia
+    sq: Astrobiologjia
+    sr: космичка биологија
+    sr-ec: космичка биологија
+    sr-el: kosmička biologija
+    ta: விண்வெளி உயிரியல்
+    tg: астробиология
+    tk: Astrobiologiýa
+    tl: astrobiyolohiya
+    tr: astrobiyoloji
+    tt: астробиология
+    uk: космічна біологія
+    ur: فلکی حیاتیات
+    uz: astrobiologiya
+    vec: astrobiołozia
+    vi: sinh học vũ trụ
+    war: astrobiyolohiya
+    wuu: 天体生物学
+    yue: 天體生物學
 ---
-
 # [[Astrobiology]] 
 
 #is_/same_as :: [[../WikiData/WD~Astrobiology,411|WD~Astrobiology,411]] 
